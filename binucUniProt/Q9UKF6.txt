@@ -1,0 +1,445 @@
+ID   CPSF3_HUMAN             Reviewed;         684 AA.
+AC   Q9UKF6; O14769; Q53RS2; Q96F36;
+DT   18-OCT-2001, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-2000, sequence version 1.
+DT   22-JUL-2015, entry version 128.
+DE   RecName: Full=Cleavage and polyadenylation specificity factor subunit 3;
+DE            EC=3.1.27.-;
+DE   AltName: Full=Cleavage and polyadenylation specificity factor 73 kDa subunit;
+DE            Short=CPSF 73 kDa subunit;
+DE   AltName: Full=mRNA 3'-end-processing endonuclease CPSF-73;
+GN   Name=CPSF3; Synonyms=CPSF73;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Hepatoma;
+RA   Yu S., Chen W., Pang X., Dong X., Wang H.;
+RT   "Homo sapiens mRNA for CPSF (cleavage and polyadenylation specificity
+RT   factor) 73 kDa subunit.";
+RL   Submitted (JUL-1999) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15815621; DOI=10.1038/nature03466;
+RA   Hillier L.W., Graves T.A., Fulton R.S., Fulton L.A., Pepin K.H.,
+RA   Minx P., Wagner-McPherson C., Layman D., Wylie K., Sekhon M.,
+RA   Becker M.C., Fewell G.A., Delehaunty K.D., Miner T.L., Nash W.E.,
+RA   Kremitzki C., Oddy L., Du H., Sun H., Bradshaw-Cordum H., Ali J.,
+RA   Carter J., Cordes M., Harris A., Isak A., van Brunt A., Nguyen C.,
+RA   Du F., Courtney L., Kalicki J., Ozersky P., Abbott S., Armstrong J.,
+RA   Belter E.A., Caruso L., Cedroni M., Cotton M., Davidson T., Desai A.,
+RA   Elliott G., Erb T., Fronick C., Gaige T., Haakenson W., Haglund K.,
+RA   Holmes A., Harkins R., Kim K., Kruchowski S.S., Strong C.M.,
+RA   Grewal N., Goyea E., Hou S., Levy A., Martinka S., Mead K.,
+RA   McLellan M.D., Meyer R., Randall-Maher J., Tomlinson C.,
+RA   Dauphin-Kohlberg S., Kozlowicz-Reilly A., Shah N.,
+RA   Swearengen-Shahid S., Snider J., Strong J.T., Thompson J., Yoakum M.,
+RA   Leonard S., Pearman C., Trani L., Radionenko M., Waligorski J.E.,
+RA   Wang C., Rock S.M., Tin-Wollam A.-M., Maupin R., Latreille P.,
+RA   Wendl M.C., Yang S.-P., Pohl C., Wallis J.W., Spieth J., Bieri T.A.,
+RA   Berkowicz N., Nelson J.O., Osborne J., Ding L., Meyer R., Sabo A.,
+RA   Shotland Y., Sinha P., Wohldmann P.E., Cook L.L., Hickenbotham M.T.,
+RA   Eldred J., Williams D., Jones T.A., She X., Ciccarelli F.D.,
+RA   Izaurralde E., Taylor J., Schmutz J., Myers R.M., Cox D.R., Huang X.,
+RA   McPherson J.D., Mardis E.R., Clifton S.W., Warren W.C.,
+RA   Chinwalla A.T., Eddy S.R., Marra M.A., Ovcharenko I., Furey T.S.,
+RA   Miller W., Eichler E.E., Bork P., Suyama M., Torrents D.,
+RA   Waterston R.H., Wilson R.K.;
+RT   "Generation and annotation of the DNA sequences of human chromosomes 2
+RT   and 4.";
+RL   Nature 434:724-731(2005).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L.,
+RA   Mobarry C.M., Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R.,
+RA   Flanigan M.J., Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V.,
+RA   Hannenhalli S., Turner R., Yooseph S., Lu F., Nusskern D.R.,
+RA   Shue B.C., Zheng X.H., Zhong F., Delcher A.L., Huson D.H.,
+RA   Kravitz S.A., Mouchard L., Reinert K., Remington K.A., Clark A.G.,
+RA   Waterman M.S., Eichler E.E., Adams M.D., Hunkapiller M.W., Myers E.W.,
+RA   Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA], AND VARIANT GLY-142.
+RC   TISSUE=Brain, and Uterus;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 120-498.
+RA   Pusch W.;
+RT   "H. sapiens mRNA for the 73 kDa subunit of CPSF (cleavage and
+RT   polyadenylation specificity factor, partial cds).";
+RL   Submitted (AUG-1997) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   FUNCTION IN PRE-MRNA 3'-END PROCESSING, AND IDENTIFICATION IN THE CPSF
+RP   COMPLEX.
+RX   PubMed=14749727; DOI=10.1038/sj.emboj.7600070;
+RA   Kaufmann I., Martin G., Friedlein A., Langen H., Keller W.;
+RT   "Human Fip1 is a subunit of CPSF that binds to U-rich RNA elements and
+RT   stimulates poly(A) polymerase.";
+RL   EMBO J. 23:616-626(2004).
+RN   [7]
+RP   FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=15037765; DOI=10.1261/rna.5214404;
+RA   Ryan K., Calvo O., Manley J.L.;
+RT   "Evidence that polyadenylation factor CPSF-73 is the mRNA 3'
+RT   processing endonuclease.";
+RL   RNA 10:565-573(2004).
+RN   [8]
+RP   SUMOYLATION AT LYS-462; LYS-465 AND LYS-545, AND MUTAGENESIS OF
+RP   LYS-462; LYS-465 AND LYS-545.
+RX   PubMed=17923699; DOI=10.1128/MCB.01186-07;
+RA   Vethantham V., Rao N., Manley J.L.;
+RT   "Sumoylation modulates the assembly and activity of the pre-mRNA 3'
+RT   processing complex.";
+RL   Mol. Cell. Biol. 27:8848-8858(2007).
+RN   [9]
+RP   FUNCTION, INTERACTION WITH CPSF2; CSTF2 AND SYMPK, AND MUTAGENESIS OF
+RP   HIS-73; ASP-75; HIS-76; SER-334 AND HIS-396.
+RX   PubMed=18688255; DOI=10.1038/embor.2008.146;
+RA   Kolev N.G., Yario T.A., Benson E., Steitz J.A.;
+RT   "Conserved motifs in both CPSF73 and CPSF100 are required to assemble
+RT   the active endonuclease for histone mRNA 3'-end maturation.";
+RL   EMBO Rep. 9:1013-1018(2008).
+RN   [10]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT SER-2, IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS], AND CLEAVAGE OF INITIATOR
+RP   METHIONINE [LARGE SCALE ANALYSIS].
+RX   PubMed=19413330; DOI=10.1021/ac9004309;
+RA   Gauci S., Helbig A.O., Slijper M., Krijgsveld J., Heck A.J.,
+RA   Mohammed S.;
+RT   "Lys-N and trypsin cover complementary parts of the phosphoproteome in
+RT   a refined SCX-based approach.";
+RL   Anal. Chem. 81:4493-4501(2009).
+RN   [11]
+RP   INTERACTION WITH WDR33.
+RX   PubMed=19217410; DOI=10.1016/j.molcel.2008.12.028;
+RA   Shi Y., Di Giammartino D.C., Taylor D., Sarkeshik A., Rice W.J.,
+RA   Yates J.R. III, Frank J., Manley J.L.;
+RT   "Molecular architecture of the human pre-mRNA 3' processing complex.";
+RL   Mol. Cell 33:365-376(2009).
+RN   [12]
+RP   IDENTIFICATION IN THE CPSF COMPLEX, AND INTERACTION WITH TUT1.
+RX   PubMed=21102410; DOI=10.1038/emboj.2010.287;
+RA   Laishram R.S., Anderson R.A.;
+RT   "The poly A polymerase Star-PAP controls 3'-end cleavage by promoting
+RT   CPSF interaction and specificity toward the pre-mRNA.";
+RL   EMBO J. 29:4132-4145(2010).
+RN   [13]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-681, AND IDENTIFICATION
+RP   BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S.,
+RA   Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full
+RT   phosphorylation site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [14]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P.,
+RA   Buerckstuemmer T., Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [15]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT SER-2, IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS], AND CLEAVAGE OF INITIATOR
+RP   METHIONINE [LARGE SCALE ANALYSIS].
+RX   PubMed=22223895; DOI=10.1074/mcp.M111.015131;
+RA   Bienvenut W.V., Sumpton D., Martinez A., Lilla S., Espagne C.,
+RA   Meinnel T., Giglione C.;
+RT   "Comparative large-scale characterisation of plant vs. mammal proteins
+RT   reveals similar and idiosyncratic N-alpha acetylation features.";
+RL   Mol. Cell. Proteomics 11:M111.015131-M111.015131(2012).
+RN   [16]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D.,
+RA   Wang L., Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human
+RT   liver phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [17]
+RP   X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS) OF 1-459 IN COMPLEX WITH ZINC
+RP   IONS, FUNCTION, AND MUTAGENESIS OF 75-ASP-HIS-76.
+RX   PubMed=17128255; DOI=10.1038/nature05363;
+RA   Mandel C.R., Kaneko S., Zhang H., Gebauer D., Vethantham V.,
+RA   Manley J.L., Tong L.;
+RT   "Polyadenylation factor CPSF-73 is the pre-mRNA 3'-end-processing
+RT   endonuclease.";
+RL   Nature 444:953-956(2006).
+RN   [18]
+RP   VARIANT [LARGE SCALE ANALYSIS] ASN-578.
+RX   PubMed=16959974; DOI=10.1126/science.1133427;
+RA   Sjoeblom T., Jones S., Wood L.D., Parsons D.W., Lin J., Barber T.D.,
+RA   Mandelker D., Leary R.J., Ptak J., Silliman N., Szabo S.,
+RA   Buckhaults P., Farrell C., Meeh P., Markowitz S.D., Willis J.,
+RA   Dawson D., Willson J.K.V., Gazdar A.F., Hartigan J., Wu L., Liu C.,
+RA   Parmigiani G., Park B.H., Bachman K.E., Papadopoulos N.,
+RA   Vogelstein B., Kinzler K.W., Velculescu V.E.;
+RT   "The consensus coding sequences of human breast and colorectal
+RT   cancers.";
+RL   Science 314:268-274(2006).
+CC   -!- FUNCTION: Component of the cleavage and polyadenylation
+CC       specificity factor (CPSF) complex that play a key role in pre-mRNA
+CC       3'-end formation, recognizing the AAUAAA signal sequence and
+CC       interacting with poly(A) polymerase and other factors to bring
+CC       about cleavage and poly(A) addition. Has endonuclease activity,
+CC       and functions as mRNA 3'-end-processing endonuclease. Also
+CC       involved in the histone 3'-end pre-mRNA processing. U7 snRNP-
+CC       dependent protein that induces both the 3'-endoribonucleolytic
+CC       cleavage of histone pre-mRNAs and acts as a 5' to 3' exonuclease
+CC       for degrading the subsequent downstream cleavage product (DCP) of
+CC       mature histone mRNAs. Cleavage occurs after the 5'-ACCCA-3'
+CC       sequence in the histone pre-mRNA leaving a 3'hydroxyl group on the
+CC       upstream fragment containing the stem loop (SL) and 5' phosphate
+CC       on the downstream cleavage product (DCP) starting with CU
+CC       nucleotides. The U7-dependent 5' to 3' exonuclease activity is
+CC       processive and degrades the DCP RNA substrate even after complete
+CC       removal of the U7-binding site. Binds to the downstream cleavage
+CC       product (DCP) of histone pre-mRNAs and the cleaved DCP RNA
+CC       substrate in a U7 snRNP dependent manner.
+CC       {ECO:0000269|PubMed:14749727, ECO:0000269|PubMed:15037765,
+CC       ECO:0000269|PubMed:17128255, ECO:0000269|PubMed:18688255}.
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC       Note=Binds 2 Zn(2+) ions per subunit.;
+CC   -!- SUBUNIT: Component of the cleavage and polyadenylation specificity
+CC       factor (CPSF) complex, composed of CPSF1, CPSF2, CPSF3, CPSF4 and
+CC       FIP1L1. Interacts with CPSF2, CSTF2 and SYMPK. Interacts with
+CC       TUT1; the interaction is direct and mediates the recruitment of
+CC       the CPSF complex on the 3'UTR of pre-mRNAs. Interacts with WDR33.
+CC       {ECO:0000269|PubMed:14749727, ECO:0000269|PubMed:17128255,
+CC       ECO:0000269|PubMed:18688255, ECO:0000269|PubMed:19217410,
+CC       ECO:0000269|PubMed:21102410}.
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:15037765}.
+CC   -!- PTM: Sumoylated on Lys-462, Lys-465 and Lys-545, preferentially by
+CC       SUMO3. {ECO:0000269|PubMed:17923699}.
+CC   -!- SIMILARITY: Belongs to the metallo-beta-lactamase superfamily.
+CC       RNA-metabolizing metallo-beta-lactamase-like family. CPSF3
+CC       subfamily. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF171877; AAF00224.1; -; mRNA.
+DR   EMBL; AC080162; AAY14858.1; -; Genomic_DNA.
+DR   EMBL; CH471053; EAX00989.1; -; Genomic_DNA.
+DR   EMBL; BC011654; AAH11654.1; -; mRNA.
+DR   EMBL; BC020211; AAH20211.1; -; mRNA.
+DR   EMBL; AF017269; AAB70268.1; -; mRNA.
+DR   CCDS; CCDS1664.1; -.
+DR   RefSeq; NP_057291.1; NM_016207.3.
+DR   UniGene; Hs.515972; -.
+DR   PDB; 2I7T; X-ray; 2.10 A; A=1-459.
+DR   PDB; 2I7V; X-ray; 2.10 A; A=1-459.
+DR   PDBsum; 2I7T; -.
+DR   PDBsum; 2I7V; -.
+DR   ProteinModelPortal; Q9UKF6; -.
+DR   SMR; Q9UKF6; 7-459.
+DR   BioGrid; 119680; 21.
+DR   DIP; DIP-42501N; -.
+DR   IntAct; Q9UKF6; 9.
+DR   MINT; MINT-1742891; -.
+DR   STRING; 9606.ENSP00000238112; -.
+DR   PhosphoSite; Q9UKF6; -.
+DR   BioMuta; CPSF3; -.
+DR   DMDM; 18203503; -.
+DR   MaxQB; Q9UKF6; -.
+DR   PaxDb; Q9UKF6; -.
+DR   PeptideAtlas; Q9UKF6; -.
+DR   PRIDE; Q9UKF6; -.
+DR   DNASU; 51692; -.
+DR   Ensembl; ENST00000238112; ENSP00000238112; ENSG00000119203.
+DR   GeneID; 51692; -.
+DR   KEGG; hsa:51692; -.
+DR   UCSC; uc002qzo.2; human.
+DR   CTD; 51692; -.
+DR   GeneCards; GC02P009563; -.
+DR   HGNC; HGNC:2326; CPSF3.
+DR   HPA; HPA034657; -.
+DR   MIM; 606029; gene.
+DR   neXtProt; NX_Q9UKF6; -.
+DR   PharmGKB; PA26843; -.
+DR   eggNOG; COG1236; -.
+DR   GeneTree; ENSGT00780000121968; -.
+DR   HOGENOM; HOG000203394; -.
+DR   HOVERGEN; HBG051107; -.
+DR   InParanoid; Q9UKF6; -.
+DR   KO; K14403; -.
+DR   OMA; EISFSAH; -.
+DR   OrthoDB; EOG7BW0HT; -.
+DR   PhylomeDB; Q9UKF6; -.
+DR   TreeFam; TF105643; -.
+DR   Reactome; REACT_1096; Processing of Intronless Pre-mRNAs.
+DR   Reactome; REACT_1835; Transport of Mature mRNA Derived from an Intronless Transcript.
+DR   Reactome; REACT_1849; mRNA 3'-end processing.
+DR   Reactome; REACT_387; Cleavage of Growing Transcript in the Termination Region.
+DR   Reactome; REACT_467; mRNA Splicing - Major Pathway.
+DR   ChiTaRS; CPSF3; human.
+DR   EvolutionaryTrace; Q9UKF6; -.
+DR   GeneWiki; CPSF3; -.
+DR   GenomeRNAi; 51692; -.
+DR   NextBio; 55702; -.
+DR   PRO; PR:Q9UKF6; -.
+DR   Proteomes; UP000005640; Chromosome 2.
+DR   Bgee; Q9UKF6; -.
+DR   CleanEx; HS_CPSF3; -.
+DR   ExpressionAtlas; Q9UKF6; baseline and differential.
+DR   Genevisible; Q9UKF6; HS.
+DR   GO; GO:0005847; C:mRNA cleavage and polyadenylation specificity factor complex; IDA:UniProtKB.
+DR   GO; GO:0005654; C:nucleoplasm; TAS:Reactome.
+DR   GO; GO:0030529; C:ribonucleoprotein complex; IEA:UniProtKB-KW.
+DR   GO; GO:0008409; F:5'-3' exonuclease activity; ISS:UniProtKB.
+DR   GO; GO:0004521; F:endoribonuclease activity; ISS:UniProtKB.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003723; F:RNA binding; ISS:UniProtKB.
+DR   GO; GO:0010467; P:gene expression; TAS:Reactome.
+DR   GO; GO:0006398; P:histone mRNA 3'-end processing; IDA:UniProtKB.
+DR   GO; GO:0031124; P:mRNA 3'-end processing; TAS:Reactome.
+DR   GO; GO:0006379; P:mRNA cleavage; TAS:ProtInc.
+DR   GO; GO:0006406; P:mRNA export from nucleus; TAS:Reactome.
+DR   GO; GO:0006378; P:mRNA polyadenylation; TAS:ProtInc.
+DR   GO; GO:0000398; P:mRNA splicing, via spliceosome; TAS:Reactome.
+DR   GO; GO:0008380; P:RNA splicing; TAS:Reactome.
+DR   GO; GO:0006369; P:termination of RNA polymerase II transcription; TAS:Reactome.
+DR   GO; GO:0006366; P:transcription from RNA polymerase II promoter; TAS:Reactome.
+DR   Gene3D; 3.60.15.10; -; 1.
+DR   InterPro; IPR001279; Beta-lactamas-like.
+DR   InterPro; IPR022712; Beta_Casp.
+DR   InterPro; IPR021718; CPSF73-100_C.
+DR   InterPro; IPR011108; RMMBL.
+DR   Pfam; PF10996; Beta-Casp; 1.
+DR   Pfam; PF11718; CPSF73-100_C; 1.
+DR   Pfam; PF00753; Lactamase_B; 1.
+DR   Pfam; PF07521; RMMBL; 1.
+DR   SMART; SM01027; Beta-Casp; 1.
+DR   SMART; SM01098; CPSF73-100_C; 1.
+DR   SMART; SM00849; Lactamase_B; 1.
+DR   SUPFAM; SSF56281; SSF56281; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Complete proteome; Endonuclease; Hydrolase;
+KW   Isopeptide bond; Metal-binding; mRNA processing; Nuclease; Nucleus;
+KW   Phosphoprotein; Polymorphism; Reference proteome; Ribonucleoprotein;
+KW   RNA-binding; Ubl conjugation; Zinc.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:19413330,
+FT                                ECO:0000269|PubMed:22223895}.
+FT   CHAIN         2    684       Cleavage and polyadenylation specificity
+FT                                factor subunit 3.
+FT                                /FTId=PRO_0000074400.
+FT   ACT_SITE    396    396       Proton donor. {ECO:0000255}.
+FT   METAL        71     71       Zinc 1.
+FT   METAL        73     73       Zinc 1.
+FT   METAL        75     75       Zinc 2.
+FT   METAL        76     76       Zinc 2.
+FT   METAL       158    158       Zinc 1.
+FT   METAL       179    179       Zinc 1.
+FT   METAL       179    179       Zinc 2.
+FT   METAL       418    418       Zinc 2.
+FT   MOD_RES       2      2       N-acetylserine.
+FT                                {ECO:0000269|PubMed:19413330,
+FT                                ECO:0000269|PubMed:22223895}.
+FT   MOD_RES     681    681       Phosphothreonine.
+FT                                {ECO:0000269|PubMed:20068231}.
+FT   CROSSLNK    462    462       Glycyl lysine isopeptide (Lys-Gly)
+FT                                (interchain with G-Cter in SUMO).
+FT   CROSSLNK    465    465       Glycyl lysine isopeptide (Lys-Gly)
+FT                                (interchain with G-Cter in SUMO).
+FT   CROSSLNK    545    545       Glycyl lysine isopeptide (Lys-Gly)
+FT                                (interchain with G-Cter in SUMO).
+FT   VARIANT     142    142       E -> G (in dbSNP:rs17850770).
+FT                                {ECO:0000269|PubMed:15489334}.
+FT                                /FTId=VAR_037646.
+FT   VARIANT     578    578       D -> N (in a breast cancer sample;
+FT                                somatic mutation).
+FT                                {ECO:0000269|PubMed:16959974}.
+FT                                /FTId=VAR_035873.
+FT   MUTAGEN      73     73       H->A: Inhibits histone 3'-end processing.
+FT                                {ECO:0000269|PubMed:18688255}.
+FT   MUTAGEN      75     76       DH->KA: Loss of histone 3'-end
+FT                                processing.
+FT                                {ECO:0000269|PubMed:17128255}.
+FT   MUTAGEN      75     75       D->A: Inhibits histone 3'-end processing.
+FT                                {ECO:0000269|PubMed:18688255}.
+FT   MUTAGEN      76     76       H->A: Inhibits histone 3'-end processing.
+FT                                {ECO:0000269|PubMed:18688255}.
+FT   MUTAGEN     334    334       S->A: Does not inhibit histone 3'-end
+FT                                processing.
+FT                                {ECO:0000269|PubMed:18688255}.
+FT   MUTAGEN     396    396       H->A: Inhibits histone 3'-end processing.
+FT                                {ECO:0000269|PubMed:18688255}.
+FT   MUTAGEN     462    462       K->R: Reduced sumoylation; when
+FT                                associated with R-465 and R-545.
+FT                                {ECO:0000269|PubMed:17923699}.
+FT   MUTAGEN     465    465       K->R: Reduced sumoylation; when
+FT                                associated with R-462 and R-545.
+FT                                {ECO:0000269|PubMed:17923699}.
+FT   MUTAGEN     545    545       K->R: Reduced sumoylation; when
+FT                                associated with R-462 and R-465.
+FT                                {ECO:0000269|PubMed:17923699}.
+FT   STRAND       10     25       {ECO:0000244|PDB:2I7T}.
+FT   STRAND       27     32       {ECO:0000244|PDB:2I7T}.
+FT   STRAND       35     39       {ECO:0000244|PDB:2I7T}.
+FT   HELIX        49     52       {ECO:0000244|PDB:2I7T}.
+FT   HELIX        56     58       {ECO:0000244|PDB:2I7T}.
+FT   HELIX        61     63       {ECO:0000244|PDB:2I7T}.
+FT   STRAND       66     68       {ECO:0000244|PDB:2I7T}.
+FT   HELIX        74     77       {ECO:0000244|PDB:2I7T}.
+FT   HELIX        80     86       {ECO:0000244|PDB:2I7T}.
+FT   STRAND       91     96       {ECO:0000244|PDB:2I7T}.
+FT   HELIX        97    110       {ECO:0000244|PDB:2I7T}.
+FT   HELIX       125    131       {ECO:0000244|PDB:2I7T}.
+FT   HELIX       132    134       {ECO:0000244|PDB:2I7T}.
+FT   STRAND      135    138       {ECO:0000244|PDB:2I7T}.
+FT   STRAND      144    146       {ECO:0000244|PDB:2I7T}.
+FT   STRAND      149    155       {ECO:0000244|PDB:2I7T}.
+FT   STRAND      163    169       {ECO:0000244|PDB:2I7T}.
+FT   STRAND      172    176       {ECO:0000244|PDB:2I7T}.
+FT   STRAND      186    188       {ECO:0000244|PDB:2I7V}.
+FT   STRAND      199    204       {ECO:0000244|PDB:2I7T}.
+FT   TURN        206    209       {ECO:0000244|PDB:2I7T}.
+FT   HELIX       215    231       {ECO:0000244|PDB:2I7T}.
+FT   STRAND      235    239       {ECO:0000244|PDB:2I7T}.
+FT   STRAND      242    245       {ECO:0000244|PDB:2I7T}.
+FT   HELIX       246    259       {ECO:0000244|PDB:2I7T}.
+FT   HELIX       261    263       {ECO:0000244|PDB:2I7T}.
+FT   STRAND      268    271       {ECO:0000244|PDB:2I7T}.
+FT   HELIX       275    284       {ECO:0000244|PDB:2I7V}.
+FT   TURN        285    287       {ECO:0000244|PDB:2I7V}.
+FT   STRAND      307    310       {ECO:0000244|PDB:2I7T}.
+FT   HELIX       314    316       {ECO:0000244|PDB:2I7V}.
+FT   STRAND      321    328       {ECO:0000244|PDB:2I7T}.
+FT   HELIX       335    344       {ECO:0000244|PDB:2I7T}.
+FT   STRAND      351    354       {ECO:0000244|PDB:2I7T}.
+FT   HELIX       363    367       {ECO:0000244|PDB:2I7T}.
+FT   STRAND      372    375       {ECO:0000244|PDB:2I7T}.
+FT   STRAND      381    383       {ECO:0000244|PDB:2I7T}.
+FT   STRAND      386    390       {ECO:0000244|PDB:2I7T}.
+FT   HELIX       399    409       {ECO:0000244|PDB:2I7T}.
+FT   STRAND      412    419       {ECO:0000244|PDB:2I7T}.
+FT   HELIX       421    435       {ECO:0000244|PDB:2I7T}.
+FT   STRAND      444    446       {ECO:0000244|PDB:2I7T}.
+FT   STRAND      454    458       {ECO:0000244|PDB:2I7T}.
+SQ   SEQUENCE   684 AA;  77486 MW;  F8AA24EA6FB78377 CRC64;
+     MSAIPAEESD QLLIRPLGAG QEVGRSCIIL EFKGRKIMLD CGIHPGLEGM DALPYIDLID
+     PAEIDLLLIS HFHLDHCGAL PWFLQKTSFK GRTFMTHATK AIYRWLLSDY VKVSNISADD
+     MLYTETDLEE SMDKIETINF HEVKEVAGIK FWCYHAGHVL GAAMFMIEIA GVKLLYTGDF
+     SRQEDRHLMA AEIPNIKPDI LIIESTYGTH IHEKREEREA RFCNTVHDIV NRGGRGLIPV
+     FALGRAQELL LILDEYWQNH PELHDIPIYY ASSLAKKCMA VYQTYVNAMN DKIRKQININ
+     NPFVFKHISN LKSMDHFDDI GPSVVMASPG MMQSGLSREL FESWCTDKRN GVIIAGYCVE
+     GTLAKHIMSE PEEITTMSGQ KLPLKMSVDY ISFSAHTDYQ QTSEFIRALK PPHVILVHGE
+     QNEMARLKAA LIREYEDNDE VHIEVHNPRN TEAVTLNFRG EKLAKVMGFL ADKKPEQGQR
+     VSGILVKRNF NYHILSPCDL SNYTDLAMST VKQTQAIPYT GPFNLLCYQL QKLTGDVEEL
+     EIQEKPALKV FKNITVIQEP GMVVLEWLAN PSNDMYADTV TTVILEVQSN PKIRKGAVQK
+     VSKKLEMHVY SKRLEIMLQD IFGEDCVSVK DDSILSVTVD GKTANLNLET RTVECEEGSE
+     DDESLREMVE LAAQRLYEAL TPVH
+//

@@ -1,0 +1,170 @@
+ID   MYL6B_HUMAN             Reviewed;         208 AA.
+AC   P14649;
+DT   01-APR-1990, integrated into UniProtKB/Swiss-Prot.
+DT   01-APR-1990, sequence version 1.
+DT   22-JUL-2015, entry version 140.
+DE   RecName: Full=Myosin light chain 6B;
+DE   AltName: Full=Myosin light chain 1 slow-twitch muscle A isoform;
+DE            Short=MLC1sa;
+DE   AltName: Full=Smooth muscle and nonmuscle myosin light chain alkali 6B;
+GN   Name=MYL6B; Synonyms=MLC1SA;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Skeletal muscle;
+RX   PubMed=2304459;
+RA   Hailstones D.L., Gunning P.W.;
+RT   "Characterization of human myosin light chains 1sa and 3nm:
+RT   implications for isoform evolution and function.";
+RL   Mol. Cell. Biol. 10:1095-1104(1990).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Skeletal muscle;
+RX   PubMed=2602161; DOI=10.1093/nar/17.24.10496;
+RA   Zimmermann K., Starzinski-Powitz A.;
+RT   "A novel isoform of myosin alkali light chain isolated from human
+RT   muscle cells.";
+RL   Nucleic Acids Res. 17:10496-10496(1989).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Brain, and Ovary;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P.,
+RA   Buerckstuemmer T., Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+CC   -!- FUNCTION: Regulatory light chain of myosin. Does not bind calcium.
+CC   -!- SUBUNIT: Myosin is a hexamer of 2 heavy chains and 4 light chains.
+CC   -!- INTERACTION:
+CC       Q02440:MYO5A (xeno); NbExp=2; IntAct=EBI-358570, EBI-1040586;
+CC       Q15506:SPA17; NbExp=3; IntAct=EBI-358570, EBI-1377865;
+CC   -!- SIMILARITY: Contains 3 EF-hand domains. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00448}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X16434; CAA34457.1; -; mRNA.
+DR   EMBL; M31211; AAA36320.1; -; mRNA.
+DR   EMBL; BC012425; AAH12425.1; -; mRNA.
+DR   EMBL; BC014400; AAH14400.1; -; mRNA.
+DR   CCDS; CCDS8905.1; -.
+DR   PIR; A34757; MOHUSA.
+DR   RefSeq; NP_001186558.1; NM_001199629.1.
+DR   RefSeq; NP_002466.1; NM_002475.4.
+DR   UniGene; Hs.632731; -.
+DR   PDB; 1OE9; X-ray; 2.05 A; B=59-208.
+DR   PDB; 1W7I; X-ray; 3.00 A; B=59-208.
+DR   PDB; 1W7J; X-ray; 2.00 A; B=59-208.
+DR   PDBsum; 1OE9; -.
+DR   PDBsum; 1W7I; -.
+DR   PDBsum; 1W7J; -.
+DR   ProteinModelPortal; P14649; -.
+DR   SMR; P14649; 60-207.
+DR   BioGrid; 126617; 14.
+DR   IntAct; P14649; 5.
+DR   MINT; MINT-365219; -.
+DR   STRING; 9606.ENSP00000207437; -.
+DR   PhosphoSite; P14649; -.
+DR   BioMuta; MYL6B; -.
+DR   DMDM; 127153; -.
+DR   MaxQB; P14649; -.
+DR   PaxDb; P14649; -.
+DR   PRIDE; P14649; -.
+DR   DNASU; 140465; -.
+DR   Ensembl; ENST00000550443; ENSP00000446643; ENSG00000196465.
+DR   Ensembl; ENST00000553066; ENSP00000450385; ENSG00000196465.
+DR   GeneID; 140465; -.
+DR   KEGG; hsa:140465; -.
+DR   UCSC; uc001sjs.3; human.
+DR   CTD; 140465; -.
+DR   GeneCards; GC12P056546; -.
+DR   HGNC; HGNC:29823; MYL6B.
+DR   HPA; HPA038887; -.
+DR   HPA; HPA046859; -.
+DR   MIM; 609930; gene.
+DR   neXtProt; NX_P14649; -.
+DR   PharmGKB; PA144596407; -.
+DR   eggNOG; COG5126; -.
+DR   GeneTree; ENSGT00590000082921; -.
+DR   HOGENOM; HOG000233018; -.
+DR   HOVERGEN; HBG012180; -.
+DR   InParanoid; P14649; -.
+DR   KO; K12751; -.
+DR   OMA; RVSFEVF; -.
+DR   OrthoDB; EOG7HQN9N; -.
+DR   PhylomeDB; P14649; -.
+DR   TreeFam; TF351553; -.
+DR   Reactome; REACT_20558; Smooth Muscle Contraction.
+DR   EvolutionaryTrace; P14649; -.
+DR   GeneWiki; MYL6B; -.
+DR   GenomeRNAi; 140465; -.
+DR   NextBio; 84133; -.
+DR   PRO; PR:P14649; -.
+DR   Proteomes; UP000005640; Chromosome 12.
+DR   Bgee; P14649; -.
+DR   CleanEx; HS_MYL6B; -.
+DR   ExpressionAtlas; P14649; baseline and differential.
+DR   Genevisible; P14649; HS.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0070062; C:extracellular exosome; IDA:UniProtKB.
+DR   GO; GO:0005859; C:muscle myosin complex; TAS:ProtInc.
+DR   GO; GO:0016459; C:myosin complex; TAS:HGNC.
+DR   GO; GO:0016461; C:unconventional myosin complex; TAS:BHF-UCL.
+DR   GO; GO:0005509; F:calcium ion binding; IEA:InterPro.
+DR   GO; GO:0003774; F:motor activity; TAS:HGNC.
+DR   GO; GO:0008307; F:structural constituent of muscle; TAS:HGNC.
+DR   GO; GO:0008152; P:metabolic process; TAS:GOC.
+DR   GO; GO:0006936; P:muscle contraction; TAS:HGNC.
+DR   GO; GO:0030049; P:muscle filament sliding; TAS:HGNC.
+DR   GO; GO:0007519; P:skeletal muscle tissue development; TAS:HGNC.
+DR   Gene3D; 1.10.238.10; -; 2.
+DR   InterPro; IPR011992; EF-hand-dom_pair.
+DR   InterPro; IPR002048; EF_hand_dom.
+DR   Pfam; PF13405; EF-hand_6; 2.
+DR   SMART; SM00054; EFh; 2.
+DR   PROSITE; PS50222; EF_HAND_2; 3.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Motor protein; Muscle protein;
+KW   Myosin; Reference proteome; Repeat.
+FT   INIT_MET      1      1       Removed. {ECO:0000250|UniProtKB:P09542}.
+FT   CHAIN         2    208       Myosin light chain 6B.
+FT                                /FTId=PRO_0000198695.
+FT   DOMAIN       64     99       EF-hand 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00448}.
+FT   DOMAIN      141    176       EF-hand 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00448}.
+FT   DOMAIN      176    208       EF-hand 3. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00448}.
+FT   HELIX        69     76       {ECO:0000244|PDB:1W7J}.
+FT   STRAND       79     86       {ECO:0000244|PDB:1W7J}.
+FT   HELIX        89     95       {ECO:0000244|PDB:1W7J}.
+FT   HELIX       102    108       {ECO:0000244|PDB:1W7J}.
+FT   HELIX       114    117       {ECO:0000244|PDB:1W7J}.
+FT   STRAND      121    123       {ECO:0000244|PDB:1W7J}.
+FT   HELIX       124    134       {ECO:0000244|PDB:1W7J}.
+FT   HELIX       147    151       {ECO:0000244|PDB:1W7J}.
+FT   STRAND      157    162       {ECO:0000244|PDB:1W7J}.
+FT   HELIX       163    172       {ECO:0000244|PDB:1W7J}.
+FT   STRAND      173    175       {ECO:0000244|PDB:1W7J}.
+FT   HELIX       179    186       {ECO:0000244|PDB:1W7J}.
+FT   TURN        187    189       {ECO:0000244|PDB:1OE9}.
+FT   STRAND      194    197       {ECO:0000244|PDB:1W7J}.
+FT   HELIX       198    204       {ECO:0000244|PDB:1W7J}.
+SQ   SEQUENCE   208 AA;  22764 MW;  6F3DFAC6CCA9877E CRC64;
+     MPPKKDVPVK KPAGPSISKP AAKPAAAGAP PAKTKAEPAV PQAPQKTQEP PVDLSKVVIE
+     FNKDQLEEFK EAFELFDRVG DGKILYSQCG DVMRALGQNP TNAEVLKVLG NPKSDELKSR
+     RVDFETFLPM LQAVAKNRGQ GTYEDYLEGF RVFDKEGNGK VMGAELRHVL TTLGEKMTEE
+     EVETVLAGHE DSNGCINYEA FLKHILSV
+//

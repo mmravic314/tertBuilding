@@ -1,0 +1,118 @@
+ID   PP_LAMBD                Reviewed;         221 AA.
+AC   P03772;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   21-JUL-1986, sequence version 1.
+DT   29-APR-2015, entry version 106.
+DE   RecName: Full=Serine/threonine-protein phosphatase;
+DE            EC=3.1.3.16;
+OS   Enterobacteria phage lambda (Bacteriophage lambda).
+OC   Viruses; dsDNA viruses, no RNA stage; Caudovirales; Siphoviridae;
+OC   Lambdalikevirus.
+OX   NCBI_TaxID=10710;
+OH   NCBI_TaxID=562; Escherichia coli.
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=6221115; DOI=10.1016/0022-2836(82)90546-0;
+RA   Sanger F., Coulson A.R., Hong G.F., Hill D.F., Petersen G.B.;
+RT   "Nucleotide sequence of bacteriophage lambda DNA.";
+RL   J. Mol. Biol. 162:729-773(1982).
+RN   [2]
+RP   FUNCTION.
+RX   PubMed=2548489;
+RA   Cohen P.T.W., Cohen P.;
+RT   "Discovery of a protein phosphatase activity encoded in the genome of
+RT   bacteriophage lambda. Probable identity with open reading frame 221.";
+RL   Biochem. J. 260:931-934(1989).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (2.15 ANGSTROMS) IN COMPLEX WITH MANGANESE IONS,
+RP   AND COFACTOR.
+RX   PubMed=11112522; DOI=10.1021/bi0021030;
+RA   Voegtli W.C., White D.J., Reiter N.J., Rusnak F., Rosenzweig A.C.;
+RT   "Structure of the bacteriophage lambda Ser/Thr protein phosphatase
+RT   with sulfate ion bound in two coordination modes.";
+RL   Biochemistry 39:15365-15374(2000).
+CC   -!- CATALYTIC ACTIVITY: [a protein]-serine/threonine phosphate + H(2)O
+CC       = [a protein]-serine/threonine + phosphate.
+CC   -!- COFACTOR:
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000269|PubMed:11112522};
+CC       Note=Binds 2 manganese ions per subunit.
+CC       {ECO:0000269|PubMed:11112522};
+CC   -!- INTERACTION:
+CC       Q64702:Plk4 (xeno); NbExp=2; IntAct=EBI-4478820, EBI-2552433;
+CC   -!- SIMILARITY: Belongs to the PPP phosphatase family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; J02459; AAA96594.1; -; Genomic_DNA.
+DR   PIR; G43011; Q1BP1L.
+DR   RefSeq; NP_040641.1; NC_001416.1.
+DR   PDB; 1G5B; X-ray; 2.15 A; A/B/C=1-221.
+DR   PDBsum; 1G5B; -.
+DR   ProteinModelPortal; P03772; -.
+DR   SMR; P03772; 1-218.
+DR   DIP; DIP-44028N; -.
+DR   IntAct; P03772; 3.
+DR   MINT; MINT-4053809; -.
+DR   BindingDB; P03772; -.
+DR   ChEMBL; CHEMBL3695; -.
+DR   GeneID; 2703476; -.
+DR   KEGG; vg:2703476; -.
+DR   KO; K07313; -.
+DR   EvolutionaryTrace; P03772; -.
+DR   PRO; PR:P03772; -.
+DR   Proteomes; UP000001711; Genome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004721; F:phosphoprotein phosphatase activity; IEA:UniProtKB-KW.
+DR   Gene3D; 3.60.21.10; -; 1.
+DR   InterPro; IPR004843; Calcineurin-like_PHP_apaH.
+DR   InterPro; IPR029052; Metallo-depent_PP-like.
+DR   InterPro; IPR006186; Ser/Thr-sp_prot-phosphatase.
+DR   Pfam; PF00149; Metallophos; 1.
+DR   SMART; SM00156; PP2Ac; 1.
+DR   SUPFAM; SSF56300; SSF56300; 1.
+DR   PROSITE; PS00125; SER_THR_PHOSPHATASE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Hydrolase; Manganese; Metal-binding;
+KW   Protein phosphatase; Reference proteome.
+FT   CHAIN         1    221       Serine/threonine-protein phosphatase.
+FT                                /FTId=PRO_0000058912.
+FT   ACT_SITE     76     76       Proton donor. {ECO:0000250}.
+FT   METAL        20     20       Manganese 1.
+FT   METAL        22     22       Manganese 1.
+FT   METAL        49     49       Manganese 1.
+FT   METAL        49     49       Manganese 2.
+FT   METAL        75     75       Manganese 2.
+FT   METAL       186    186       Manganese 2.
+FT   STRAND        3      8       {ECO:0000244|PDB:1G5B}.
+FT   HELIX         9     11       {ECO:0000244|PDB:1G5B}.
+FT   STRAND       15     18       {ECO:0000244|PDB:1G5B}.
+FT   HELIX        25     35       {ECO:0000244|PDB:1G5B}.
+FT   TURN         39     41       {ECO:0000244|PDB:1G5B}.
+FT   STRAND       43     46       {ECO:0000244|PDB:1G5B}.
+FT   STRAND       51     55       {ECO:0000244|PDB:1G5B}.
+FT   HELIX        57     61       {ECO:0000244|PDB:1G5B}.
+FT   HELIX        62     65       {ECO:0000244|PDB:1G5B}.
+FT   STRAND       69     71       {ECO:0000244|PDB:1G5B}.
+FT   HELIX        75     84       {ECO:0000244|PDB:1G5B}.
+FT   HELIX        91     94       {ECO:0000244|PDB:1G5B}.
+FT   TURN         95     97       {ECO:0000244|PDB:1G5B}.
+FT   HELIX        98    103       {ECO:0000244|PDB:1G5B}.
+FT   HELIX       106    119       {ECO:0000244|PDB:1G5B}.
+FT   STRAND      124    130       {ECO:0000244|PDB:1G5B}.
+FT   STRAND      133    137       {ECO:0000244|PDB:1G5B}.
+FT   STRAND      144    146       {ECO:0000244|PDB:1G5B}.
+FT   HELIX       155    160       {ECO:0000244|PDB:1G5B}.
+FT   HELIX       163    169       {ECO:0000244|PDB:1G5B}.
+FT   STRAND      179    184       {ECO:0000244|PDB:1G5B}.
+FT   STRAND      193    195       {ECO:0000244|PDB:1G5B}.
+FT   STRAND      198    200       {ECO:0000244|PDB:1G5B}.
+FT   HELIX       205    208       {ECO:0000244|PDB:1G5B}.
+FT   STRAND      213    217       {ECO:0000244|PDB:1G5B}.
+SQ   SEQUENCE   221 AA;  25219 MW;  5CE0E1A0F3BC5CB5 CRC64;
+     MRYYEKIDGS KYRNIWVVGD LHGCYTNLMN KLDTIGFDNK KDLLISVGDL VDRGAENVEC
+     LELITFPWFR AVRGNHEQMM IDGLSERGNV NHWLLNGGGW FFNLDYDKEI LAKALAHKAD
+     ELPLIIELVS KDKKYVICHA DYPFDEYEFG KPVDHQQVIW NRERISNSQN GIVKEIKGAD
+     TFIFGHTPAV KPLKFANQMY IDTGAVFCGN LTLIQVQGEG A
+//

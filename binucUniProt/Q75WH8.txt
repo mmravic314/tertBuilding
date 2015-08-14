@@ -1,0 +1,170 @@
+ID   Q75WH8_PSEST            Unreviewed;       430 AA.
+AC   Q75WH8;
+DT   05-JUL-2004, integrated into UniProtKB/TrEMBL.
+DT   05-JUL-2004, sequence version 1.
+DT   24-JUN-2015, entry version 53.
+DE   SubName: Full=L-rhamnose isomerase {ECO:0000313|EMBL:BAD14073.1};
+GN   Name=L-RhI {ECO:0000313|EMBL:BAD14073.1};
+OS   Pseudomonas stutzeri (Pseudomonas perfectomarina).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+OC   Pseudomonadaceae; Pseudomonas.
+OX   NCBI_TaxID=316 {ECO:0000313|EMBL:BAD14073.1};
+RN   [1] {ECO:0000313|EMBL:BAD14073.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=15184124; DOI=10.1128/AEM.70.6.3298-3304.2004;
+RA   Leang K., Takada G., Ishimura A., Okita M., Izumori K.;
+RT   "Cloning, nucleotide sequence, and overexpression of the L-rhamnose
+RT   isomerase gene from Pseudomonas stutzeri in Escherichia coli.";
+RL   Appl. Environ. Microbiol. 70:3298-3304(2004).
+RN   [2] {ECO:0000213|PDB:2HCV, ECO:0000213|PDB:2I56, ECO:0000213|PDB:2I57}
+RP   X-RAY CRYSTALLOGRAPHY (1.97 ANGSTROMS) IN COMPLEX WITH ZINC.
+RX   PubMed=17141803; DOI=10.1016/j.jmb.2006.11.004;
+RA   Yoshida H., Yamada M., Ohyama Y., Takada G., Izumori K., Kamitori S.;
+RT   "The structures of L-rhamnose isomerase from Pseudomonas stutzeri in
+RT   complexes with L-rhamnose and D-allose provide insights into broad
+RT   substrate specificity.";
+RL   J. Mol. Biol. 365:1505-1516(2007).
+RN   [3] {ECO:0000213|PDB:3ITL, ECO:0000213|PDB:3ITO, ECO:0000213|PDB:3ITT}
+RP   X-RAY CRYSTALLOGRAPHY (1.60 ANGSTROMS) IN COMPLEX WITH COPPER;
+RP   MANGANESE AND ZINC.
+RX   PubMed=20088877; DOI=10.1111/j.1742-4658.2009.07548.x;
+RA   Yoshida H., Yamaji M., Ishii T., Izumori K., Kamitori S.;
+RT   "Catalytic reaction mechanism of Pseudomonas stutzeri L-rhamnose
+RT   isomerase deduced from X-ray structures.";
+RL   FEBS J. 277:1045-1057(2010).
+RN   [4] {ECO:0000213|PDB:3M0H, ECO:0000213|PDB:3M0L, ECO:0000213|PDB:3M0M}
+RP   X-RAY CRYSTALLOGRAPHY (1.45 ANGSTROMS) IN COMPLEX WITH MANGANESE.
+RX   PubMed=20977999; DOI=10.1093/protein/gzq077;
+RA   Yoshida H., Takeda K., Izumori K., Kamitori S.;
+RT   "Elucidation of the role of Ser329 and the C-terminal region in the
+RT   catalytic activity of Pseudomonas stutzeri L-rhamnose isomerase.";
+RL   Protein Eng. Des. Sel. 23:919-927(2010).
+RN   [5] {ECO:0000213|PDB:4GJI, ECO:0000213|PDB:4GJJ}
+RP   X-RAY CRYSTALLOGRAPHY (1.70 ANGSTROMS) IN COMPLEX WITH MANGANESE.
+RX   PubMed=23772372;
+RA   Yoshida H., Yoshihara A., Teraoka M., Yamashita S., Izumori K.,
+RA   Kamitori S.;
+RT   "Structure of l-rhamnose isomerase in complex with l-rhamnopyranose
+RT   demonstrates the sugar-ring opening mechanism and the role of a
+RT   substrate sub-binding site.";
+RL   FEBS Open Bio 3:35-40(2013).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AB121136; BAD14073.1; -; Genomic_DNA.
+DR   PDB; 2HCV; X-ray; 2.00 A; A/B/C/D=1-430.
+DR   PDB; 2I56; X-ray; 1.97 A; A/B/C/D=1-430.
+DR   PDB; 2I57; X-ray; 1.97 A; A/B/C/D=1-430.
+DR   PDB; 3ITL; X-ray; 1.70 A; A/B/C/D=1-430.
+DR   PDB; 3ITO; X-ray; 1.90 A; A/B/C/D=1-430.
+DR   PDB; 3ITT; X-ray; 1.96 A; A/B/C/D=1-430.
+DR   PDB; 3ITV; X-ray; 1.60 A; A/B/C/D=1-430.
+DR   PDB; 3ITX; X-ray; 1.80 A; A/B/C/D=1-430.
+DR   PDB; 3ITY; X-ray; 1.84 A; A/B/C/D=1-430.
+DR   PDB; 3IUD; X-ray; 2.44 A; A/B/C/D=1-430.
+DR   PDB; 3IUH; X-ray; 2.00 A; A/B/C/D=1-430.
+DR   PDB; 3IUI; X-ray; 2.30 A; A/B/C/D=1-430.
+DR   PDB; 3M0H; X-ray; 1.58 A; A/B/C/D=1-430.
+DR   PDB; 3M0L; X-ray; 1.85 A; A/B/C/D=1-430.
+DR   PDB; 3M0M; X-ray; 1.45 A; A/B/C/D=1-430.
+DR   PDB; 3M0V; X-ray; 1.79 A; A/B/C/D=1-430.
+DR   PDB; 3M0X; X-ray; 1.79 A; A/B/C/D=1-430.
+DR   PDB; 3M0Y; X-ray; 1.96 A; A/B/C/D=1-430.
+DR   PDB; 4GJI; X-ray; 1.70 A; A/B/C/D=1-430.
+DR   PDB; 4GJJ; X-ray; 2.38 A; A/B/C/D=1-430.
+DR   ProteinModelPortal; Q75WH8; -.
+DR   SMR; Q75WH8; 3-430.
+DR   MINT; MINT-7384859; -.
+DR   BRENDA; 5.3.1.14; 5158.
+DR   EvolutionaryTrace; Q75WH8; -.
+DR   GO; GO:0016853; F:isomerase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.20.20.150; -; 1.
+DR   InterPro; IPR013451; L_rhamnose_iso.
+DR   InterPro; IPR013022; Xyl_isomerase-like_TIM-brl.
+DR   Pfam; PF01261; AP_endonuc_2; 1.
+DR   SUPFAM; SSF51658; SSF51658; 1.
+DR   TIGRFAMs; TIGR02629; L_rham_iso_rhiz; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2HCV, ECO:0000213|PDB:2I56};
+KW   Copper {ECO:0000213|PDB:3IUD};
+KW   Isomerase {ECO:0000313|EMBL:BAD14073.1};
+KW   Manganese {ECO:0000213|PDB:3ITL, ECO:0000213|PDB:3ITO};
+KW   Metal-binding {ECO:0000213|PDB:2HCV, ECO:0000213|PDB:2I56};
+KW   Zinc {ECO:0000213|PDB:2HCV, ECO:0000213|PDB:2I56}.
+FT   METAL       219    219       Copper 1. {ECO:0000213|PDB:3IUD}.
+FT   METAL       219    219       Manganese 1. {ECO:0000213|PDB:3ITL,
+FT                                ECO:0000213|PDB:3ITO,
+FT                                ECO:0000213|PDB:3ITT}.
+FT   METAL       219    219       Zinc 1. {ECO:0000213|PDB:2HCV,
+FT                                ECO:0000213|PDB:2I56,
+FT                                ECO:0000213|PDB:2I57}.
+FT   METAL       254    254       Copper 1. {ECO:0000213|PDB:3IUD}.
+FT   METAL       254    254       Manganese 1. {ECO:0000213|PDB:3ITL,
+FT                                ECO:0000213|PDB:3ITO,
+FT                                ECO:0000213|PDB:3ITT}.
+FT   METAL       254    254       Zinc 1. {ECO:0000213|PDB:2HCV,
+FT                                ECO:0000213|PDB:2I56,
+FT                                ECO:0000213|PDB:2I57}.
+FT   METAL       257    257       Copper 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3IUD}.
+FT   METAL       257    257       Copper 3; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3IUD}.
+FT   METAL       257    257       Manganese 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3ITT,
+FT                                ECO:0000213|PDB:4GJJ}.
+FT   METAL       257    257       Manganese 3; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3ITX,
+FT                                ECO:0000213|PDB:4GJJ}.
+FT   METAL       257    257       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2I56,
+FT                                ECO:0000213|PDB:2I57,
+FT                                ECO:0000213|PDB:3IUI}.
+FT   METAL       257    257       Zinc 3; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2I56}.
+FT   METAL       281    281       Copper 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3IUD}.
+FT   METAL       281    281       Manganese 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3ITL,
+FT                                ECO:0000213|PDB:3ITO,
+FT                                ECO:0000213|PDB:3ITT}.
+FT   METAL       281    281       Zinc 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:2HCV,
+FT                                ECO:0000213|PDB:2I56,
+FT                                ECO:0000213|PDB:2I57}.
+FT   METAL       289    289       Copper 2. {ECO:0000213|PDB:3IUD}.
+FT   METAL       289    289       Copper 3. {ECO:0000213|PDB:3IUD}.
+FT   METAL       289    289       Manganese 2. {ECO:0000213|PDB:3ITT,
+FT                                ECO:0000213|PDB:4GJJ}.
+FT   METAL       289    289       Manganese 3. {ECO:0000213|PDB:3ITX,
+FT                                ECO:0000213|PDB:4GJJ}.
+FT   METAL       289    289       Zinc 2. {ECO:0000213|PDB:2I56,
+FT                                ECO:0000213|PDB:2I57,
+FT                                ECO:0000213|PDB:3IUI}.
+FT   METAL       289    289       Zinc 3. {ECO:0000213|PDB:2I56}.
+FT   METAL       291    291       Copper 2. {ECO:0000213|PDB:3IUD}.
+FT   METAL       291    291       Copper 3. {ECO:0000213|PDB:3IUD}.
+FT   METAL       291    291       Manganese 2. {ECO:0000213|PDB:4GJJ}.
+FT   METAL       291    291       Manganese 3. {ECO:0000213|PDB:3ITX,
+FT                                ECO:0000213|PDB:4GJJ}.
+FT   METAL       291    291       Zinc 2. {ECO:0000213|PDB:3IUI}.
+FT   METAL       291    291       Zinc 3. {ECO:0000213|PDB:2I56}.
+FT   METAL       298    298       Manganese 1. {ECO:0000213|PDB:4GJI}.
+FT   METAL       327    327       Copper 1. {ECO:0000213|PDB:3IUD}.
+FT   METAL       327    327       Manganese 1. {ECO:0000213|PDB:3ITT,
+FT                                ECO:0000213|PDB:3ITV,
+FT                                ECO:0000213|PDB:3ITX}.
+FT   METAL       327    327       Zinc 1. {ECO:0000213|PDB:2HCV,
+FT                                ECO:0000213|PDB:2I56,
+FT                                ECO:0000213|PDB:2I57}.
+SQ   SEQUENCE   430 AA;  46975 MW;  2E2FBA87068472A7 CRC64;
+     MAEFRIAQDV VARENDRRAS ALKEDYEALG ANLARRGVDI EAVTAKVEKF FVAVPSWGVG
+     TGGTRFARFP GTGEPRGIFD KLDDCAVIQQ LTRATPNVSL HIPWDKADPK ELKARGDALG
+     LGFDAMNSNT FSDAPGQAHS YKYGSLSHTD AATRAQAVEH NLECIEIGKA IGSKALTVWI
+     GDGSNFPGQS NFTRAFERYL SAMAEIYKGL PDDWKLFSEH KMYEPAFYST VVQDWGTNYL
+     IAQTLGPKAQ CLVDLGHHAP NTNIEMIVAR LIQFGKLGGF HFNDSKYGDD DLDAGAIEPY
+     RLFLVFNELV DAEARGVKGF HPAHMIDQSH NVTDPIESLI NSANEIRRAY AQALLVDRAA
+     LSGYQEDNDA LMATETLKRA YRTDVEPILA EARRRTGGAV DPVATYRASG YRARVAAERP
+     ASVAGGGGII
+//

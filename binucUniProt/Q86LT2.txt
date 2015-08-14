@@ -1,0 +1,184 @@
+ID   DPYS_DICDI              Reviewed;         503 AA.
+AC   Q55DL0; Q86LT2;
+DT   04-DEC-2007, integrated into UniProtKB/Swiss-Prot.
+DT   24-MAY-2005, sequence version 1.
+DT   22-JUL-2015, entry version 72.
+DE   RecName: Full=Dihydropyrimidinase;
+DE            Short=DHP;
+DE            Short=DHPase;
+DE            EC=3.5.2.2;
+DE   AltName: Full=Dihydropyrimidine amidohydrolase;
+DE   AltName: Full=Hydantoinase;
+GN   Name=pyd2; ORFNames=DDB_G0269246;
+OS   Dictyostelium discoideum (Slime mold).
+OC   Eukaryota; Amoebozoa; Mycetozoa; Dictyosteliida; Dictyostelium.
+OX   NCBI_TaxID=44689;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND FUNCTION.
+RX   PubMed=12626710; DOI=10.1093/nar/gkg258;
+RA   Gojkovic Z., Rislund L., Andersen B., Sandrini M.P., Cook P.F.,
+RA   Schnackerz K.D., Piskur J.;
+RT   "Dihydropyrimidine amidohydrolases and dihydroorotases share the same
+RT   origin and several enzymatic properties.";
+RL   Nucleic Acids Res. 31:1683-1692(2003).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=AX4;
+RX   PubMed=15875012; DOI=10.1038/nature03481;
+RA   Eichinger L., Pachebat J.A., Gloeckner G., Rajandream M.A.,
+RA   Sucgang R., Berriman M., Song J., Olsen R., Szafranski K., Xu Q.,
+RA   Tunggal B., Kummerfeld S., Madera M., Konfortov B.A., Rivero F.,
+RA   Bankier A.T., Lehmann R., Hamlin N., Davies R., Gaudet P., Fey P.,
+RA   Pilcher K., Chen G., Saunders D., Sodergren E.J., Davis P.,
+RA   Kerhornou A., Nie X., Hall N., Anjard C., Hemphill L., Bason N.,
+RA   Farbrother P., Desany B., Just E., Morio T., Rost R., Churcher C.M.,
+RA   Cooper J., Haydock S., van Driessche N., Cronin A., Goodhead I.,
+RA   Muzny D.M., Mourier T., Pain A., Lu M., Harper D., Lindsay R.,
+RA   Hauser H., James K.D., Quiles M., Madan Babu M., Saito T.,
+RA   Buchrieser C., Wardroper A., Felder M., Thangavelu M., Johnson D.,
+RA   Knights A., Loulseged H., Mungall K.L., Oliver K., Price C.,
+RA   Quail M.A., Urushihara H., Hernandez J., Rabbinowitsch E., Steffen D.,
+RA   Sanders M., Ma J., Kohara Y., Sharp S., Simmonds M.N., Spiegler S.,
+RA   Tivey A., Sugano S., White B., Walker D., Woodward J.R., Winckler T.,
+RA   Tanaka Y., Shaulsky G., Schleicher M., Weinstock G.M., Rosenthal A.,
+RA   Cox E.C., Chisholm R.L., Gibbs R.A., Loomis W.F., Platzer M.,
+RA   Kay R.R., Williams J.G., Dear P.H., Noegel A.A., Barrell B.G.,
+RA   Kuspa A.;
+RT   "The genome of the social amoeba Dictyostelium discoideum.";
+RL   Nature 435:43-57(2005).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (2.05 ANGSTROMS) IN COMPLEX WITH ZINC IONS,
+RP   CARBAMYLATION AT LYS-158, AND SUBUNIT.
+RX   PubMed=16517602; DOI=10.1074/jbc.M513266200;
+RA   Lohkamp B., Andersen B., Piskur J., Dobritzsch D.;
+RT   "The crystal structures of dihydropyrimidinases reaffirm the close
+RT   relationship between cyclic amidohydrolases and explain their
+RT   substrate specificity.";
+RL   J. Biol. Chem. 281:13762-13776(2006).
+CC   -!- FUNCTION: Catalyzes the second step of the reductive pyrimidine
+CC       degradation, the reversible hydrolytic ring opening of
+CC       dihydropyrimidines. Can catalyze the ring opening of 5,6-
+CC       dihydrouracil to N-carbamyl-alanine and of 5,6-dihydrothymine to
+CC       N-carbamyl-amino isobutyrate. {ECO:0000269|PubMed:12626710}.
+CC   -!- CATALYTIC ACTIVITY: 5,6-dihydrouracil + H(2)O = 3-
+CC       ureidopropanoate.
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC       Note=Binds 2 Zn(2+) ions per subunit.;
+CC   -!- SUBUNIT: Homotetramer. {ECO:0000269|PubMed:16517602}.
+CC   -!- PTM: Carbamylation allows a single lysine to coordinate two zinc
+CC       ions. {ECO:0000269|PubMed:16517602}.
+CC   -!- SIMILARITY: Belongs to the DHOase family.
+CC       Hydantoinase/dihydropyrimidinase subfamily. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF465757; AAO33383.1; -; mRNA.
+DR   EMBL; AAFI02000005; EAL71973.1; -; Genomic_DNA.
+DR   RefSeq; XP_646121.1; XM_641029.1.
+DR   PDB; 2FTW; X-ray; 2.05 A; A=1-503.
+DR   PDBsum; 2FTW; -.
+DR   ProteinModelPortal; Q55DL0; -.
+DR   SMR; Q55DL0; 7-490.
+DR   STRING; 44689.DDB0191172; -.
+DR   MEROPS; M38.973; -.
+DR   EnsemblProtists; DDB0191172; DDB0191172; DDB_G0269246.
+DR   GeneID; 8617070; -.
+DR   KEGG; ddi:DDB_G0269246; -.
+DR   dictyBase; DDB_G0269246; pyd2.
+DR   eggNOG; COG0044; -.
+DR   InParanoid; Q55DL0; -.
+DR   KO; K01464; -.
+DR   OMA; PDWDHAA; -.
+DR   PhylomeDB; Q55DL0; -.
+DR   BRENDA; 3.5.2.2; 1939.
+DR   Reactome; REACT_309584; Pyrimidine catabolism.
+DR   EvolutionaryTrace; Q55DL0; -.
+DR   PRO; PR:Q55DL0; -.
+DR   Proteomes; UP000002195; Chromosome 1.
+DR   Proteomes; UP000002195; Unassembled WGS sequence.
+DR   GO; GO:0005737; C:cytoplasm; IEA:InterPro.
+DR   GO; GO:0004157; F:dihydropyrimidinase activity; IDA:dictyBase.
+DR   GO; GO:0008270; F:zinc ion binding; IDA:dictyBase.
+DR   GO; GO:0006208; P:pyrimidine nucleobase catabolic process; IDA:dictyBase.
+DR   Gene3D; 2.30.40.10; -; 2.
+DR   InterPro; IPR011778; Hydantoinase/dihydroPyrase.
+DR   InterPro; IPR011059; Metal-dep_hydrolase_composite.
+DR   SUPFAM; SSF51338; SSF51338; 2.
+DR   TIGRFAMs; TIGR02033; D-hydantoinase; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Hydrolase; Metal-binding;
+KW   Reference proteome; Zinc.
+FT   CHAIN         1    503       Dihydropyrimidinase.
+FT                                /FTId=PRO_0000312734.
+FT   METAL        66     66       Zinc 1.
+FT   METAL        68     68       Zinc 1.
+FT   METAL       158    158       Zinc 1; via carbamate group.
+FT   METAL       158    158       Zinc 2; via carbamate group.
+FT   METAL       191    191       Zinc 2.
+FT   METAL       247    247       Zinc 2.
+FT   METAL       325    325       Zinc 1.
+FT   BINDING     163    163       Substrate. {ECO:0000250}.
+FT   BINDING     346    346       Substrate; via carbonyl oxygen.
+FT                                {ECO:0000250}.
+FT   MOD_RES     158    158       N6-carboxylysine.
+FT                                {ECO:0000269|PubMed:16517602}.
+FT   CONFLICT    381    381       A -> R (in Ref. 1; AAO33383).
+FT                                {ECO:0000305}.
+FT   STRAND       10     14       {ECO:0000244|PDB:2FTW}.
+FT   STRAND       16     18       {ECO:0000244|PDB:2FTW}.
+FT   STRAND       23     25       {ECO:0000244|PDB:2FTW}.
+FT   STRAND       27     31       {ECO:0000244|PDB:2FTW}.
+FT   STRAND       34     40       {ECO:0000244|PDB:2FTW}.
+FT   STRAND       50     52       {ECO:0000244|PDB:2FTW}.
+FT   STRAND       57     60       {ECO:0000244|PDB:2FTW}.
+FT   STRAND       62     67       {ECO:0000244|PDB:2FTW}.
+FT   HELIX        82     91       {ECO:0000244|PDB:2FTW}.
+FT   STRAND       94    101       {ECO:0000244|PDB:2FTW}.
+FT   HELIX       109    121       {ECO:0000244|PDB:2FTW}.
+FT   STRAND      125    133       {ECO:0000244|PDB:2FTW}.
+FT   HELIX       139    151       {ECO:0000244|PDB:2FTW}.
+FT   STRAND      156    162       {ECO:0000244|PDB:2FTW}.
+FT   TURN        164    167       {ECO:0000244|PDB:2FTW}.
+FT   HELIX       171    184       {ECO:0000244|PDB:2FTW}.
+FT   STRAND      187    191       {ECO:0000244|PDB:2FTW}.
+FT   HELIX       195    207       {ECO:0000244|PDB:2FTW}.
+FT   HELIX       214    219       {ECO:0000244|PDB:2FTW}.
+FT   HELIX       223    239       {ECO:0000244|PDB:2FTW}.
+FT   STRAND      243    245       {ECO:0000244|PDB:2FTW}.
+FT   HELIX       251    262       {ECO:0000244|PDB:2FTW}.
+FT   STRAND      267    269       {ECO:0000244|PDB:2FTW}.
+FT   HELIX       273    277       {ECO:0000244|PDB:2FTW}.
+FT   HELIX       280    284       {ECO:0000244|PDB:2FTW}.
+FT   HELIX       288    292       {ECO:0000244|PDB:2FTW}.
+FT   HELIX       306    315       {ECO:0000244|PDB:2FTW}.
+FT   HELIX       331    334       {ECO:0000244|PDB:2FTW}.
+FT   HELIX       335    337       {ECO:0000244|PDB:2FTW}.
+FT   HELIX       341    343       {ECO:0000244|PDB:2FTW}.
+FT   TURN        351    353       {ECO:0000244|PDB:2FTW}.
+FT   HELIX       354    362       {ECO:0000244|PDB:2FTW}.
+FT   TURN        363    366       {ECO:0000244|PDB:2FTW}.
+FT   HELIX       370    377       {ECO:0000244|PDB:2FTW}.
+FT   HELIX       379    384       {ECO:0000244|PDB:2FTW}.
+FT   TURN        388    390       {ECO:0000244|PDB:2FTW}.
+FT   STRAND      402    412       {ECO:0000244|PDB:2FTW}.
+FT   TURN        415    417       {ECO:0000244|PDB:2FTW}.
+FT   STRAND      421    423       {ECO:0000244|PDB:2FTW}.
+FT   TURN        426    429       {ECO:0000244|PDB:2FTW}.
+FT   STRAND      431    441       {ECO:0000244|PDB:2FTW}.
+FT   STRAND      444    448       {ECO:0000244|PDB:2FTW}.
+FT   HELIX       469    471       {ECO:0000244|PDB:2FTW}.
+FT   HELIX       474    481       {ECO:0000244|PDB:2FTW}.
+FT   HELIX       483    486       {ECO:0000244|PDB:2FTW}.
+SQ   SEQUENCE   503 AA;  56032 MW;  8E75DBD49100C553 CRC64;
+     MLRVDQTGTI LIKNGTVVND DRYFKSDVLV ENGIIKEISK NIEPKEGIKV VDATDKLLLP
+     GGIDTHTHFQ LPFMGTVSVD DFDIGTQAAV AGGTTFIIDF VIPTRGQSLL EAYDQWKKWA
+     DEKVNCDYSL HVAITWWSEQ VSREMEILVK ERGVNSFKCF MAYKNSFMVT DQEMYHIFKR
+     CKELGAIAQV HAENGDMVFE GQKKMLEMGI TGPEGHELSR PEALEAEATN RAIVIADSVC
+     TPVYIVHVQS IGAADVICKH RKEGVRVYGE PIAAGLGVDG SHMWNHDWRH AAAFVMGPPI
+     RPDPRTKGVL MDYLARGDLD CVGTDNCTFC ADQKAMGKDD FTKIPNGVNG VEDRMSIVWE
+     NGVNTGKLTW CQFVRATSSE AARIFNIYPR KGRIDVGCDG DIVIWDPNQS KTISKDTHHH
+     AVDFNIFEGI KVTGIAVTTI VAGNIVWSDN KLSCVKGSGR FVPRPPFGPV FDGIEQRDKV
+     RNELLRKVDR KPYEDDNTKN SSK
+//

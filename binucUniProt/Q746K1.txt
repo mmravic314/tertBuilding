@@ -1,0 +1,111 @@
+ID   Q746K1_THET2            Unreviewed;       280 AA.
+AC   Q746K1;
+DT   05-JUL-2004, integrated into UniProtKB/TrEMBL.
+DT   05-JUL-2004, sequence version 1.
+DT   22-JUL-2015, entry version 74.
+DE   SubName: Full=Probable UV endonuclease {ECO:0000313|EMBL:AAS82382.1};
+GN   OrderedLocusNames=TT_P0052 {ECO:0000313|EMBL:AAS82382.1};
+OS   Thermus thermophilus (strain HB27 / ATCC BAA-163 / DSM 7039).
+OG   Plasmid pTT27 {ECO:0000313|EMBL:AAS82382.1,
+OG   ECO:0000313|Proteomes:UP000000592}.
+OC   Bacteria; Deinococcus-Thermus; Deinococci; Thermales; Thermaceae;
+OC   Thermus.
+OX   NCBI_TaxID=262724 {ECO:0000313|EMBL:AAS82382.1, ECO:0000313|Proteomes:UP000000592};
+RN   [1] {ECO:0000313|EMBL:AAS82382.1, ECO:0000313|Proteomes:UP000000592}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15064768; DOI=10.1038/nbt956;
+RA   Henne A., Brueggemann H., Raasch C., Wiezer A., Hartsch T.,
+RA   Liesegang H., Johann A., Lienard T., Gohl O., Martinez-Arias R.,
+RA   Jacobi C., Starkuviene V., Schlenczeck S., Dencker S., Huber R.,
+RA   Klenk H.-P., Kramer W., Merkl R., Gottschalk G., Fritz H.-J.;
+RT   "The genome sequence of the extreme thermophile Thermus
+RT   thermophilus.";
+RL   Nat. Biotechnol. 22:547-553(2004).
+RN   [2] {ECO:0000213|PDB:2J6V}
+RP   X-RAY CRYSTALLOGRAPHY (1.55 ANGSTROMS) IN COMPLEX WITH MANGANESE.
+RX   PubMed=17937920; DOI=10.1016/j.str.2007.05.010;
+RA   Paspaleva K., Thomassen E., Pannu N.S., Iwai S., Moolenaar G.F.,
+RA   Goosen N., Abrahams J.P.;
+RT   "Crystal structure of the DNA repair enzyme ultraviolet damage
+RT   endonuclease.";
+RL   Structure 15:1316-1324(2007).
+RN   [3] {ECO:0000213|PDB:3BZG, ECO:0000213|PDB:3BZJ, ECO:0000213|PDB:3C0L}
+RP   X-RAY CRYSTALLOGRAPHY (1.80 ANGSTROMS) IN COMPLEX WITH MANGANESE.
+RX   PubMed=19241382; DOI=10.1002/pro.54;
+RA   Meulenbroek E.M., Paspaleva K., Thomassen E.A., Abrahams J.P.,
+RA   Goosen N., Pannu N.S.;
+RT   "Involvement of a carboxylated lysine in UV damage endonuclease.";
+RL   Protein Sci. 18:549-558(2009).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE017222; AAS82382.1; -; Genomic_DNA.
+DR   RefSeq; WP_011174507.1; NC_005838.1.
+DR   PDB; 2J6V; X-ray; 1.55 A; A/B=1-280.
+DR   PDB; 3BZG; X-ray; 1.91 A; A=1-280.
+DR   PDB; 3BZJ; X-ray; 2.30 A; A=1-280.
+DR   PDB; 3C0L; X-ray; 3.15 A; A=1-280.
+DR   PDB; 3C0Q; X-ray; 2.74 A; A=1-280.
+DR   PDB; 3C0S; X-ray; 1.80 A; A=1-280.
+DR   PDBsum; 2J6V; -.
+DR   PDBsum; 3BZG; -.
+DR   PDBsum; 3C0L; -.
+DR   PDBsum; 3C0Q; -.
+DR   PDBsum; 3C0S; -.
+DR   ProteinModelPortal; Q746K1; -.
+DR   SMR; Q746K1; 1-277.
+DR   STRING; 262724.TT_P0052; -.
+DR   EnsemblBacteria; AAS82382; AAS82382; TT_P0052.
+DR   KEGG; tth:TT_P0052; -.
+DR   eggNOG; COG4294; -.
+DR   HOGENOM; HOG000059467; -.
+DR   KO; K13281; -.
+DR   OMA; HHALNPG; -.
+DR   OrthoDB; EOG6DRPDW; -.
+DR   BioCyc; TTHE262724:GCAT-2087-MONOMER; -.
+DR   EvolutionaryTrace; Q746K1; -.
+DR   Proteomes; UP000000592; Plasmid pTT27.
+DR   GO; GO:0004519; F:endonuclease activity; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006289; P:nucleotide-excision repair; IEA:InterPro.
+DR   GO; GO:0009411; P:response to UV; IEA:InterPro.
+DR   Gene3D; 3.20.20.150; -; 1.
+DR   InterPro; IPR004601; UvdE.
+DR   InterPro; IPR013022; Xyl_isomerase-like_TIM-brl.
+DR   Pfam; PF03851; UvdE; 1.
+DR   SUPFAM; SSF51658; SSF51658; 1.
+DR   TIGRFAMs; TIGR00629; uvde; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2J6V, ECO:0000213|PDB:3BZG};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000592};
+KW   Endonuclease {ECO:0000313|EMBL:AAS82382.1};
+KW   Hydrolase {ECO:0000313|EMBL:AAS82382.1};
+KW   Manganese {ECO:0000213|PDB:2J6V, ECO:0000213|PDB:3BZJ};
+KW   Metal-binding {ECO:0000213|PDB:2J6V, ECO:0000213|PDB:3BZJ};
+KW   Nuclease {ECO:0000313|EMBL:AAS82382.1};
+KW   Plasmid {ECO:0000313|EMBL:AAS82382.1}.
+FT   METAL       101    101       Manganese 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2J6V,
+FT                                ECO:0000213|PDB:3C0S}.
+FT   METAL       143    143       Manganese 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2J6V,
+FT                                ECO:0000213|PDB:3C0S}.
+FT   METAL       175    175       Manganese 1. {ECO:0000213|PDB:2J6V,
+FT                                ECO:0000213|PDB:3C0S}.
+FT   METAL       175    175       Manganese 2. {ECO:0000213|PDB:2J6V,
+FT                                ECO:0000213|PDB:3C0S}.
+FT   METAL       200    200       Manganese 2. {ECO:0000213|PDB:2J6V,
+FT                                ECO:0000213|PDB:3C0S}.
+FT   METAL       231    231       Manganese 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:2J6V,
+FT                                ECO:0000213|PDB:3C0S}.
+FT   METAL       269    269       Manganese 2. {ECO:0000213|PDB:2J6V,
+FT                                ECO:0000213|PDB:3C0S}.
+SQ   SEQUENCE   280 AA;  31403 MW;  B1D91FBE936F58D1 CRC64;
+     MIRLGYPCEN LTLGATTNRT LRLAHLTEER VREKAAENLR DLERILRFNA DHGFALFRIG
+     QHLIPFASHP LFPYDWEGAY EEELARLGAL ARAFGQRLSM HPGQYVNPGS PDPEVVERSL
+     AELRYSARLL SLLGAEDGVL VLHLGGAYGE KGKALRRFVE NLRGEEEVLR YLALENDERL
+     WNVEEVLKAA EALGVPVVVD TLHHALNPGR LPLEEALRLA FPTWRGRPKV HLASQDPKKR
+     PGAHAFRVTR EDWERLLSAL PGPADVMVEA KGKEQGLATP
+//

@@ -1,0 +1,120 @@
+ID   Q86C09_9TRYP            Unreviewed;       367 AA.
+AC   Q86C09;
+DT   01-JUN-2003, integrated into UniProtKB/TrEMBL.
+DT   01-JUN-2003, sequence version 1.
+DT   22-JUL-2015, entry version 59.
+DE   SubName: Full=Farnesyl pyrophosphate synthase {ECO:0000313|EMBL:AAO17735.1};
+DE   Flags: Fragment;
+OS   Trypanosoma brucei.
+OC   Eukaryota; Euglenozoa; Kinetoplastida; Trypanosomatidae; Trypanosoma.
+OX   NCBI_TaxID=5691 {ECO:0000313|EMBL:AAO17735.1};
+RN   [1] {ECO:0000313|EMBL:AAO17735.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=12618430; DOI=10.1074/jbc.M210467200;
+RA   Montalvetti A., Fernandez A., Sanders J.M., Ghosh S., Van Brussel E.,
+RA   Oldfield E., Docampo R.;
+RT   "Farnesyl pyrophosphate synthase is an essential enzyme in Trypanosoma
+RT   brucei. In vitro RNA interference and in vivo inhibition studies.";
+RL   J. Biol. Chem. 278:17075-17083(2003).
+RN   [2] {ECO:0000213|PDB:2EWG, ECO:0000213|PDB:2I19}
+RP   X-RAY CRYSTALLOGRAPHY (2.28 ANGSTROMS) IN COMPLEX WITH MAGNESIUM.
+RX   PubMed=17090032; DOI=10.1021/ja061737c;
+RA   Mao J., Mukherjee S., Zhang Y., Cao R., Sanders J.M., Song Y.,
+RA   Zhang Y., Meints G.A., Gao Y.G., Mukkamala D., Hudock M.P.,
+RA   Oldfield E.;
+RT   "Solid-state NMR, crystallographic, and computational investigation of
+RT   bisphosphonates and farnesyl diphosphate synthase-bisphosphonate
+RT   complexes.";
+RL   J. Am. Chem. Soc. 128:14485-14497(2006).
+RN   [3] {ECO:0000213|PDB:2OGD}
+RP   X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS).
+RA   Zhang Y., Cao R., Leon A., Guo R.T., Krysiak K., Yin F., Hudock M.P.,
+RA   Mukherjee S., Gao Y., Robinson H., Song Y., No J.H., Hong W.,
+RA   Morita C., Wang A.H.-J., Oldfield E.;
+RT   "Bisphosphonates: Teaching Old Drugs with New Tricks.";
+RL   Submitted (JAN-2007) to the PDB data bank.
+RN   [4] {ECO:0000213|PDB:2P1C}
+RP   X-RAY CRYSTALLOGRAPHY (2.45 ANGSTROMS) IN COMPLEX WITH MAGNESIUM.
+RX   PubMed=18442135; DOI=10.1002/prot.22066;
+RA   Cao R., Chen C.K., Guo R.T., Wang A.H., Oldfield E.;
+RT   "Structures of a potent phenylalkyl bisphosphonate inhibitor bound to
+RT   farnesyl and geranylgeranyl diphosphate synthases.";
+RL   Proteins 73:431-439(2008).
+RN   [5] {ECO:0000213|PDB:3DYF, ECO:0000213|PDB:3DYG, ECO:0000213|PDB:3DYH}
+RP   X-RAY CRYSTALLOGRAPHY (1.94 ANGSTROMS) IN COMPLEX WITH MAGNESIUM, AND
+RP   DISULFIDE BONDS.
+RX   PubMed=19309137; DOI=10.1021/ja808285e;
+RA   Zhang Y., Cao R., Yin F., Hudock M.P., Guo R.T., Krysiak K.,
+RA   Mukherjee S., Gao Y.G., Robinson H., Song Y., No J.H., Bergan K.,
+RA   Leon A., Cass L., Goddard A., Chang T.K., Lin F.Y., Van Beek E.,
+RA   Papapoulos S., Wang A.H., Kubo T., Ochi M., Mukkamala D., Oldfield E.;
+RT   "Lipophilic bisphosphonates as dual farnesyl/geranylgeranyl
+RT   diphosphate synthase inhibitors: an X-ray and NMR investigation.";
+RL   J. Am. Chem. Soc. 131:5153-5162(2009).
+RN   [6] {ECO:0000213|PDB:4RXC, ECO:0000213|PDB:4RXD, ECO:0000213|PDB:4RXE}
+RP   X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS) IN COMPLEX WITH MAGNESIUM.
+RX   PubMed=25815158; DOI=10.1021/ml500528x;
+RA   Liu Y.L., Cao R., Wang Y., Oldfield E.;
+RT   "Farnesyl diphosphate synthase inhibitors with unique ligand-binding
+RT   geometries.";
+RL   ACS Med. Chem. Lett. 6:349-354(2015).
+CC   -!- SIMILARITY: Belongs to the FPP/GGPP synthase family.
+CC       {ECO:0000256|RuleBase:RU004466}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AY158342; AAO17735.1; -; Genomic_DNA.
+DR   PDB; 2EWG; X-ray; 2.48 A; A/B=1-367.
+DR   PDB; 2I19; X-ray; 2.28 A; A/B=1-367.
+DR   PDB; 2OGD; X-ray; 2.00 A; A/B=1-367.
+DR   PDB; 2P1C; X-ray; 2.45 A; A/B=1-367.
+DR   PDB; 3DYF; X-ray; 2.65 A; A/B=1-367.
+DR   PDB; 3DYG; X-ray; 2.10 A; A/B=1-367.
+DR   PDB; 3DYH; X-ray; 1.94 A; A/B=1-367.
+DR   PDB; 3EFQ; X-ray; 2.00 A; A/B=1-367.
+DR   PDB; 3EGT; X-ray; 2.00 A; A/B=1-367.
+DR   PDB; 4RXC; X-ray; 2.31 A; A/B=1-367.
+DR   PDB; 4RXD; X-ray; 2.00 A; A/B/C=1-367.
+DR   PDB; 4RXE; X-ray; 2.50 A; A/B=1-367.
+DR   PDB; 4RYP; X-ray; 2.21 A; A/B=1-367.
+DR   PDBsum; 4RXC; -.
+DR   PDBsum; 4RXD; -.
+DR   PDBsum; 4RXE; -.
+DR   PDBsum; 4RYP; -.
+DR   ProteinModelPortal; Q86C09; -.
+DR   STRING; 5691.AAZ12400; -.
+DR   EvolutionaryTrace; Q86C09; -.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016740; F:transferase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0008299; P:isoprenoid biosynthetic process; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.600.10; -; 1.
+DR   InterPro; IPR008949; Isoprenoid_synthase_dom.
+DR   InterPro; IPR000092; Polyprenyl_synt.
+DR   Pfam; PF00348; polyprenyl_synt; 1.
+DR   SUPFAM; SSF48576; SSF48576; 1.
+DR   PROSITE; PS00723; POLYPRENYL_SYNTHASE_1; 1.
+DR   PROSITE; PS00444; POLYPRENYL_SYNTHASE_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2EWG, ECO:0000213|PDB:2I19};
+KW   Isoprene biosynthesis {ECO:0000256|RuleBase:RU004466};
+KW   Magnesium {ECO:0000213|PDB:2EWG, ECO:0000213|PDB:2I19};
+KW   Metal-binding {ECO:0000213|PDB:2EWG, ECO:0000213|PDB:2I19};
+KW   Transferase {ECO:0000256|RuleBase:RU004466}.
+FT   METAL       103    103       Magnesium. {ECO:0000213|PDB:2EWG,
+FT                                ECO:0000213|PDB:4RXC,
+FT                                ECO:0000213|PDB:4RXE}.
+FT   METAL       107    107       Magnesium. {ECO:0000213|PDB:2EWG,
+FT                                ECO:0000213|PDB:4RXC,
+FT                                ECO:0000213|PDB:4RXE}.
+FT   DISULFID    347    347       {ECO:0000213|PDB:3EFQ}.
+FT   NON_TER     367    367       {ECO:0000313|EMBL:AAO17735.1}.
+SQ   SEQUENCE   367 AA;  41971 MW;  9170FD8D73ABEACC CRC64;
+     MPMQMFMQVY DEIQMFLLEE LELKFDMDPN RVRYLRKMMD TTCLGGKYNR GLTVIDVAES
+     LLSLSPNNNG EEDDGARRKR VLHDACVCGW MIEFLQAHYL VEDDIMDNSV TRRGKPCWYR
+     HPDVTVQCAI NDGLLLKSWT HMMAMHFFAD RPFLQDLLCR FNRVDYTTAV GQLYDVTSMF
+     DSNKLDPDVS QPTTTDFAEF TLSNYKRIVK YKTAYYTYLL PLVMGLIVSE ALPTVDMGVT
+     EELAMLMGEY FQVQDDVMDC FTPPERLGKV GTDIQDAKCS WLAVTFLAKA SSAQVAEFKA
+     NYGSGDSEKV ATVRRLYEEA DLQGDYVAYE AAVAEQVKEL IEKLRLCSPG FAASVETLWG
+     KTYKRQK
+//

@@ -1,0 +1,118 @@
+ID   KYNB_PSEAE              Reviewed;         213 AA.
+AC   Q9I234;
+DT   10-FEB-2009, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAR-2001, sequence version 1.
+DT   27-MAY-2015, entry version 72.
+DE   RecName: Full=Kynurenine formamidase {ECO:0000255|HAMAP-Rule:MF_01969};
+DE            Short=KFA {ECO:0000255|HAMAP-Rule:MF_01969};
+DE            Short=KFase {ECO:0000255|HAMAP-Rule:MF_01969};
+DE            EC=3.5.1.9 {ECO:0000255|HAMAP-Rule:MF_01969};
+DE   AltName: Full=Arylformamidase {ECO:0000255|HAMAP-Rule:MF_01969};
+DE   AltName: Full=N-formylkynurenine formamidase {ECO:0000255|HAMAP-Rule:MF_01969};
+DE            Short=FKF {ECO:0000255|HAMAP-Rule:MF_01969};
+GN   Name=kynB {ECO:0000255|HAMAP-Rule:MF_01969}; OrderedLocusNames=PA2081;
+OS   Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG
+OS   12228).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+OC   Pseudomonadaceae; Pseudomonas.
+OX   NCBI_TaxID=208964;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228;
+RX   PubMed=10984043; DOI=10.1038/35023079;
+RA   Stover C.K., Pham X.-Q.T., Erwin A.L., Mizoguchi S.D., Warrener P.,
+RA   Hickey M.J., Brinkman F.S.L., Hufnagle W.O., Kowalik D.J., Lagrou M.,
+RA   Garber R.L., Goltry L., Tolentino E., Westbrock-Wadman S., Yuan Y.,
+RA   Brody L.L., Coulter S.N., Folger K.R., Kas A., Larbig K., Lim R.M.,
+RA   Smith K.A., Spencer D.H., Wong G.K.-S., Wu Z., Paulsen I.T.,
+RA   Reizer J., Saier M.H. Jr., Hancock R.E.W., Lory S., Olson M.V.;
+RT   "Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+RT   opportunistic pathogen.";
+RL   Nature 406:959-964(2000).
+RN   [2]
+RP   FUNCTION, AND CATALYTIC ACTIVITY.
+RX   PubMed=14592712; DOI=10.1016/S0378-1097(03)00684-0;
+RA   Kurnasov O., Jablonski L., Polanuyer B., Dorrestein P., Begley T.,
+RA   Osterman A.;
+RT   "Aerobic tryptophan degradation pathway in bacteria: novel kynurenine
+RT   formamidase.";
+RL   FEMS Microbiol. Lett. 227:219-227(2003).
+CC   -!- FUNCTION: Catalyzes the hydrolysis of N-formyl-L-kynurenine to L-
+CC       kynurenine, the second step in the kynurenine pathway of
+CC       tryptophan degradation. {ECO:0000255|HAMAP-Rule:MF_01969,
+CC       ECO:0000269|PubMed:14592712}.
+CC   -!- CATALYTIC ACTIVITY: N-formyl-L-kynurenine + H(2)O = formate + L-
+CC       kynurenine. {ECO:0000255|HAMAP-Rule:MF_01969,
+CC       ECO:0000269|PubMed:14592712}.
+CC   -!- PATHWAY: Amino-acid degradation; L-tryptophan degradation via
+CC       kynurenine pathway; L-kynurenine from L-tryptophan: step 2/2.
+CC       {ECO:0000255|HAMAP-Rule:MF_01969}.
+CC   -!- SIMILARITY: Belongs to the KynB family. {ECO:0000255|HAMAP-
+CC       Rule:MF_01969}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE004091; AAG05469.1; -; Genomic_DNA.
+DR   PIR; E83386; E83386.
+DR   RefSeq; NP_250771.1; NC_002516.2.
+DR   RefSeq; WP_003114853.1; NC_002516.2.
+DR   PDB; 4COB; X-ray; 2.37 A; A/B=1-213.
+DR   PDBsum; 4COB; -.
+DR   ProteinModelPortal; Q9I234; -.
+DR   SMR; Q9I234; 5-210.
+DR   STRING; 208964.PA2081; -.
+DR   DNASU; 878591; -.
+DR   EnsemblBacteria; AAG05469; AAG05469; PA2081.
+DR   GeneID; 878591; -.
+DR   KEGG; pae:PA2081; -.
+DR   PATRIC; 19838586; VBIPseAer58763_2173.
+DR   PseudoCAP; PA2081; -.
+DR   eggNOG; COG1878; -.
+DR   HOGENOM; HOG000219455; -.
+DR   InParanoid; Q9I234; -.
+DR   KO; K07130; -.
+DR   OMA; FERVPAN; -.
+DR   OrthoDB; EOG67T5JJ; -.
+DR   PhylomeDB; Q9I234; -.
+DR   UniPathway; UPA00333; UER00454.
+DR   Proteomes; UP000002438; Chromosome.
+DR   GO; GO:0004061; F:arylformamidase activity; IDA:UniProtKB.
+DR   GO; GO:0004328; F:formamidase activity; IEA:InterPro.
+DR   GO; GO:0043420; P:anthranilate metabolic process; IGC:UniProtKB.
+DR   GO; GO:0019441; P:tryptophan catabolic process to kynurenine; IGC:UniProtKB.
+DR   HAMAP; MF_01969; KynB; 1.
+DR   InterPro; IPR007325; KFase.
+DR   InterPro; IPR017484; Kynurenine_formamidase_bac.
+DR   Pfam; PF04199; Cyclase; 1.
+DR   TIGRFAMs; TIGR03035; trp_arylform; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Hydrolase; Reference proteome;
+KW   Tryptophan catabolism.
+FT   CHAIN         1    213       Kynurenine formamidase.
+FT                                /FTId=PRO_0000362130.
+FT   STRAND        6      8       {ECO:0000244|PDB:4COB}.
+FT   STRAND       27     32       {ECO:0000244|PDB:4COB}.
+FT   STRAND       35     37       {ECO:0000244|PDB:4COB}.
+FT   STRAND       42     47       {ECO:0000244|PDB:4COB}.
+FT   STRAND       51     56       {ECO:0000244|PDB:4COB}.
+FT   HELIX        58     60       {ECO:0000244|PDB:4COB}.
+FT   HELIX        68     70       {ECO:0000244|PDB:4COB}.
+FT   HELIX        73     76       {ECO:0000244|PDB:4COB}.
+FT   STRAND       77     84       {ECO:0000244|PDB:4COB}.
+FT   STRAND       90     92       {ECO:0000244|PDB:4COB}.
+FT   HELIX        94     97       {ECO:0000244|PDB:4COB}.
+FT   STRAND      106    111       {ECO:0000244|PDB:4COB}.
+FT   HELIX       129    137       {ECO:0000244|PDB:4COB}.
+FT   STRAND      142    148       {ECO:0000244|PDB:4COB}.
+FT   HELIX       159    166       {ECO:0000244|PDB:4COB}.
+FT   STRAND      170    173       {ECO:0000244|PDB:4COB}.
+FT   STRAND      182    188       {ECO:0000244|PDB:4COB}.
+FT   STRAND      198    201       {ECO:0000244|PDB:4COB}.
+FT   STRAND      205    207       {ECO:0000244|PDB:4COB}.
+SQ   SEQUENCE   213 AA;  23152 MW;  49C2EC78FF055773 CRC64;
+     MTSLRYWDIS PALDPNTPTW PGDTPFQQEW AARLDEQCPV NVGRITLSPH TGAHVDGPLH
+     YRADGLPIGQ VPLDIYMGPC RVIHCIGANP LVTPEHLAGQ LDDLPSRVLL RTFERVPANW
+     PEGFCAIAPA TIECLAERGV RLVGIDTPSL DPQHSKTLDA HHAVGRHGMA ILEGVVLDDV
+     PAGDYELLAL PLKFTHLDAS PVRAVLRALP TAE
+//

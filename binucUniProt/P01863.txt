@@ -1,0 +1,231 @@
+ID   GCAA_MOUSE              Reviewed;         330 AA.
+AC   P01863;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   21-JUL-1986, sequence version 1.
+DT   22-JUL-2015, entry version 113.
+DE   RecName: Full=Ig gamma-2A chain C region, A allele;
+DE   AltName: Full=Immunoglobulin heavy chain gamma polypeptide;
+GN   Name=Ighg;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=6777755; DOI=10.1093/nar/8.14.3143;
+RA   Sikorav J.-L., Auffray C., Rougeon F.;
+RT   "Structure of the constant and 3' untranslated regions of the murine
+RT   Balb/c gamma 2a heavy chain messenger RNA.";
+RL   Nucleic Acids Res. 8:3143-3155(1980).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=6262729; DOI=10.1093/nar/9.6.1365;
+RA   Yamawaki-Kataoka Y., Miyata T., Honjo T.;
+RT   "The complete nucleotide sequence of mouse immunoglobin gamma 2a gene
+RT   and evolution of heavy chain genes: further evidence for intervening
+RT   sequence-mediated domain transfer.";
+RL   Nucleic Acids Res. 9:1365-1381(1981).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=6787604; DOI=10.1073/pnas.78.4.2442;
+RA   Ollo R., Auffray C., Morchamps C., Rougeon F.;
+RT   "Comparison of mouse immunoglobulin gamma 2a and gamma 2b chain genes
+RT   suggests that exons can be exchanged between genes in a multigenic
+RT   family.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 78:2442-2446(1981).
+RN   [4]
+RP   MYELOMA PROTEIN MOPC 173.
+RX   PubMed=4831970; DOI=10.1111/j.1432-1033.1974.tb03428.x;
+RA   Bourgois A., Fougereau M., Rocca-Serra J.;
+RT   "Determination of the primary structure of a mouse IgG2a
+RT   immunoglobulin: amino-acid sequence of the Fc fragment. Implications
+RT   for the evolution of immunoglobulin structure and function.";
+RL   Eur. J. Biochem. 43:423-435(1974).
+RN   [5]
+RP   DISULFIDE BONDS.
+RX   PubMed=4565406; DOI=10.1111/j.1432-1033.1972.tb02117.x;
+RA   de Preval C., Fougereau M.;
+RT   "Determination of the primary structure of a mouse gamma G2a
+RT   immunoglobulin. Identification of the disulfide bridges.";
+RL   Eur. J. Biochem. 30:452-462(1972).
+RN   [6]
+RP   GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-180.
+RC   STRAIN=C57BL/6; TISSUE=Plasma;
+RX   PubMed=17330941; DOI=10.1021/pr0604559;
+RA   Bernhard O.K., Kapp E.A., Simpson R.J.;
+RT   "Enhanced analysis of the mouse plasma proteome using cysteine-
+RT   containing tryptic glycopeptides.";
+RL   J. Proteome Res. 6:987-995(2007).
+CC   -!- SIMILARITY: Contains 3 Ig-like (immunoglobulin-like) domains.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; V00798; CAA24178.1; -; mRNA.
+DR   PIR; A02152; G2MSA.
+DR   UniGene; Mm.342177; -.
+DR   UniGene; Mm.436014; -.
+DR   PDB; 1EHL; X-ray; 2.40 A; H=1-99.
+DR   PDB; 1GGI; X-ray; 2.80 A; H/J=1-107.
+DR   PDB; 1IGT; X-ray; 2.80 A; B/D=2-326.
+DR   PDB; 1KEG; X-ray; 2.40 A; H=1-100.
+DR   PDB; 1KN2; X-ray; 1.90 A; H=1-99.
+DR   PDB; 1KN4; X-ray; 1.90 A; H=1-99.
+DR   PDB; 1MH5; X-ray; 2.10 A; B/H=1-111.
+DR   PDB; 1MNU; X-ray; 2.50 A; H=7-126.
+DR   PDB; 1MPA; X-ray; 2.60 A; H=1-104.
+DR   PDB; 1OB1; X-ray; 2.90 A; B/E=1-99.
+DR   PDB; 1PG7; X-ray; 2.50 A; X/Z=1-100.
+DR   PDB; 1UYW; X-ray; 2.00 A; H/M=1-100.
+DR   PDB; 1YEC; X-ray; 1.90 A; H=1-99.
+DR   PDB; 1YEF; X-ray; 2.00 A; H=1-99.
+DR   PDB; 1YEG; X-ray; 2.00 A; H=1-99.
+DR   PDB; 1YEH; X-ray; 2.55 A; H=1-99.
+DR   PDB; 1YEI; X-ray; 1.90 A; H=1-99.
+DR   PDB; 1YEJ; X-ray; 1.85 A; H=1-99.
+DR   PDB; 1YEK; X-ray; 2.10 A; H=1-99.
+DR   PDB; 2IPU; X-ray; 1.65 A; G/H=1-103.
+DR   PDB; 2MPA; X-ray; 2.60 A; H=1-104.
+DR   PDB; 2R0W; X-ray; 2.50 A; H=1-100.
+DR   PDB; 2R0Z; X-ray; 2.10 A; H=1-100.
+DR   PDB; 2R29; X-ray; 3.00 A; H=1-100.
+DR   PDB; 2R69; X-ray; 3.80 A; H=1-100.
+DR   PDB; 2R6P; EM; 24.00 A; D/F=1-100.
+DR   PDB; 2VL5; X-ray; 2.10 A; A/C=1-99.
+DR   PDB; 2ZCH; X-ray; 2.83 A; H=1-107.
+DR   PDB; 2ZCK; X-ray; 3.10 A; H=1-107.
+DR   PDB; 2ZCL; X-ray; 3.25 A; H=1-107.
+DR   PDB; 3BGF; X-ray; 3.00 A; B/H=1-99.
+DR   PDB; 3ZO0; X-ray; 1.99 A; A=120-326.
+DR   PDB; 4F37; X-ray; 2.57 A; F/H=1-100.
+DR   PDBsum; 1EHL; -.
+DR   PDBsum; 1GGI; -.
+DR   PDBsum; 1IGT; -.
+DR   PDBsum; 1KEG; -.
+DR   PDBsum; 1KN2; -.
+DR   PDBsum; 1KN4; -.
+DR   PDBsum; 1MH5; -.
+DR   PDBsum; 1MNU; -.
+DR   PDBsum; 1MPA; -.
+DR   PDBsum; 1OB1; -.
+DR   PDBsum; 1PG7; -.
+DR   PDBsum; 1UYW; -.
+DR   PDBsum; 1YEC; -.
+DR   PDBsum; 1YEF; -.
+DR   PDBsum; 1YEG; -.
+DR   PDBsum; 1YEH; -.
+DR   PDBsum; 1YEI; -.
+DR   PDBsum; 1YEJ; -.
+DR   PDBsum; 1YEK; -.
+DR   PDBsum; 2IPU; -.
+DR   PDBsum; 2MPA; -.
+DR   PDBsum; 2R0W; -.
+DR   PDBsum; 2R0Z; -.
+DR   PDBsum; 2R29; -.
+DR   PDBsum; 2R69; -.
+DR   PDBsum; 2R6P; -.
+DR   PDBsum; 2VL5; -.
+DR   PDBsum; 2ZCH; -.
+DR   PDBsum; 2ZCK; -.
+DR   PDBsum; 2ZCL; -.
+DR   PDBsum; 3BGF; -.
+DR   PDBsum; 3ZO0; -.
+DR   PDBsum; 4F37; -.
+DR   ProteinModelPortal; P01863; -.
+DR   SMR; P01863; 1-326.
+DR   MaxQB; P01863; -.
+DR   PRIDE; P01863; -.
+DR   MGI; MGI:2144967; Ighg.
+DR   HOVERGEN; HBG005814; -.
+DR   InParanoid; P01863; -.
+DR   EvolutionaryTrace; P01863; -.
+DR   PRO; PR:P01863; -.
+DR   Proteomes; UP000000589; Unplaced.
+DR   GO; GO:0003823; F:antigen binding; IEA:UniProtKB-KW.
+DR   GO; GO:0034987; F:immunoglobulin receptor binding; IPI:AgBase.
+DR   Gene3D; 2.60.40.10; -; 3.
+DR   InterPro; IPR007110; Ig-like_dom.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   InterPro; IPR003006; Ig/MHC_CS.
+DR   InterPro; IPR003597; Ig_C1-set.
+DR   Pfam; PF07654; C1-set; 3.
+DR   SMART; SM00407; IGc1; 2.
+DR   PROSITE; PS50835; IG_LIKE; 3.
+DR   PROSITE; PS00290; IG_MHC; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Disulfide bond; Glycoprotein;
+KW   Immunoglobulin C region; Immunoglobulin domain; Reference proteome;
+KW   Repeat.
+FT   CHAIN        <1    330       Ig gamma-2A chain C region, A allele.
+FT                                /FTId=PRO_0000153584.
+FT   DOMAIN        6     98       Ig-like 1.
+FT   DOMAIN      121    220       Ig-like 2.
+FT   DOMAIN      229    325       Ig-like 3.
+FT   CARBOHYD    180    180       N-linked (GlcNAc...).
+FT                                {ECO:0000269|PubMed:17330941}.
+FT   DISULFID     15     15       Interchain (with a light chain).
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00114,
+FT                                ECO:0000269|PubMed:4565406}.
+FT   DISULFID     27     82       {ECO:0000255|PROSITE-ProRule:PRU00114,
+FT                                ECO:0000269|PubMed:4565406}.
+FT   DISULFID    107    107       Interchain (with a heavy chain).
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00114,
+FT                                ECO:0000269|PubMed:4565406}.
+FT   DISULFID    110    110       Interchain (with a heavy chain).
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00114,
+FT                                ECO:0000269|PubMed:4565406}.
+FT   DISULFID    112    112       Interchain (with a heavy chain).
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00114,
+FT                                ECO:0000269|PubMed:4565406}.
+FT   DISULFID    144    204       {ECO:0000255|PROSITE-ProRule:PRU00114,
+FT                                ECO:0000269|PubMed:4565406}.
+FT   DISULFID    250    308       {ECO:0000255|PROSITE-ProRule:PRU00114,
+FT                                ECO:0000269|PubMed:4565406}.
+FT   NON_TER       1      1
+FT   STRAND        7     11       {ECO:0000244|PDB:1YEC}.
+FT   STRAND       16     18       {ECO:0000244|PDB:1MNU}.
+FT   TURN         19     21       {ECO:0000244|PDB:1YEC}.
+FT   STRAND       22     35       {ECO:0000244|PDB:1YEC}.
+FT   STRAND       38     41       {ECO:0000244|PDB:1YEC}.
+FT   HELIX        42     44       {ECO:0000244|PDB:1YEC}.
+FT   STRAND       47     49       {ECO:0000244|PDB:1MNU}.
+FT   STRAND       50     52       {ECO:0000244|PDB:1YEC}.
+FT   STRAND       56     58       {ECO:0000244|PDB:1YEC}.
+FT   STRAND       61     71       {ECO:0000244|PDB:1YEC}.
+FT   TURN         72     77       {ECO:0000244|PDB:1YEC}.
+FT   STRAND       81     86       {ECO:0000244|PDB:1YEC}.
+FT   HELIX        87     89       {ECO:0000244|PDB:1YEC}.
+FT   STRAND       91     96       {ECO:0000244|PDB:1YEC}.
+FT   STRAND       98    106       {ECO:0000244|PDB:1MNU}.
+FT   STRAND      114    117       {ECO:0000244|PDB:1MNU}.
+FT   STRAND      122    126       {ECO:0000244|PDB:3ZO0}.
+FT   HELIX       130    134       {ECO:0000244|PDB:3ZO0}.
+FT   STRAND      141    149       {ECO:0000244|PDB:3ZO0}.
+FT   STRAND      157    162       {ECO:0000244|PDB:3ZO0}.
+FT   STRAND      165    167       {ECO:0000244|PDB:3ZO0}.
+FT   STRAND      171    178       {ECO:0000244|PDB:3ZO0}.
+FT   TURN        179    181       {ECO:0000244|PDB:3ZO0}.
+FT   STRAND      182    190       {ECO:0000244|PDB:3ZO0}.
+FT   HELIX       193    197       {ECO:0000244|PDB:3ZO0}.
+FT   STRAND      202    207       {ECO:0000244|PDB:3ZO0}.
+FT   STRAND      215    219       {ECO:0000244|PDB:3ZO0}.
+FT   STRAND      230    234       {ECO:0000244|PDB:3ZO0}.
+FT   HELIX       238    241       {ECO:0000244|PDB:3ZO0}.
+FT   STRAND      242    258       {ECO:0000244|PDB:3ZO0}.
+FT   STRAND      261    266       {ECO:0000244|PDB:3ZO0}.
+FT   STRAND      272    276       {ECO:0000244|PDB:3ZO0}.
+FT   STRAND      287    296       {ECO:0000244|PDB:3ZO0}.
+FT   HELIX       297    301       {ECO:0000244|PDB:3ZO0}.
+FT   STRAND      306    311       {ECO:0000244|PDB:3ZO0}.
+FT   HELIX       316    318       {ECO:0000244|PDB:3ZO0}.
+FT   STRAND      319    324       {ECO:0000244|PDB:3ZO0}.
+SQ   SEQUENCE   330 AA;  36389 MW;  B84361C5445A6864 CRC64;
+     AKTTAPSVYP LAPVCGDTTG SSVTLGCLVK GYFPEPVTLT WNSGSLSSGV HTFPAVLQSD
+     LYTLSSSVTV TSSTWPSQSI TCNVAHPASS TKVDKKIEPR GPTIKPCPPC KCPAPNLLGG
+     PSVFIFPPKI KDVLMISLSP IVTCVVVDVS EDDPDVQISW FVNNVEVHTA QTQTHREDYN
+     STLRVVSALP IQHQDWMSGK EFKCKVNNKD LPAPIERTIS KPKGSVRAPQ VYVLPPPEEE
+     MTKKQVTLTC MVTDFMPEDI YVEWTNNGKT ELNYKNTEPV LDSDGSYFMY SKLRVEKKNW
+     VERNSYSCSV VHEGLHNHHT TKSFSRTPGK
+//

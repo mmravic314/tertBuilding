@@ -1,0 +1,179 @@
+ID   ATX1_YEAST              Reviewed;          73 AA.
+AC   P38636; D6W0T4; E9P8W0;
+DT   01-OCT-1994, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-1994, sequence version 1.
+DT   22-JUL-2015, entry version 124.
+DE   RecName: Full=Metal homeostasis factor ATX1;
+GN   Name=ATX1; OrderedLocusNames=YNL259C; ORFNames=N0840;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=559292;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=7731983; DOI=10.1073/pnas.92.9.3784;
+RA   Lin S.-J., Culotta V.L.;
+RT   "The ATX1 gene of Saccharomyces cerevisiae encodes a small metal
+RT   homeostasis factor that protects cells against reactive oxygen
+RT   toxicity.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 92:3784-3788(1995).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 96604 / S288c / FY1679;
+RX   PubMed=9234673;
+RX   DOI=10.1002/(SICI)1097-0061(199707)13:9<849::AID-YEA106>3.0.CO;2-N;
+RA   Sen-Gupta M., Gueldener U., Beinhauer J.D., Fiedler T.A.,
+RA   Hegemann J.H.;
+RT   "Sequence analysis of the 33 kb long region between ORC5 and SUI1 from
+RT   the left arm of chromosome XIV from Saccharomyces cerevisiae.";
+RL   Yeast 13:849-860(1997).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=9169873;
+RA   Philippsen P., Kleine K., Poehlmann R., Duesterhoeft A., Hamberg K.,
+RA   Hegemann J.H., Obermaier B., Urrestarazu L.A., Aert R., Albermann K.,
+RA   Altmann R., Andre B., Baladron V., Ballesta J.P.G., Becam A.-M.,
+RA   Beinhauer J.D., Boskovic J., Buitrago M.J., Bussereau F., Coster F.,
+RA   Crouzet M., D'Angelo M., Dal Pero F., De Antoni A., del Rey F.,
+RA   Doignon F., Domdey H., Dubois E., Fiedler T.A., Fleig U., Floeth M.,
+RA   Fritz C., Gaillardin C., Garcia-Cantalejo J.M., Glansdorff N.,
+RA   Goffeau A., Gueldener U., Herbert C.J., Heumann K., Heuss-Neitzel D.,
+RA   Hilbert H., Hinni K., Iraqui Houssaini I., Jacquet M., Jimenez A.,
+RA   Jonniaux J.-L., Karpfinger-Hartl L., Lanfranchi G., Lepingle A.,
+RA   Levesque H., Lyck R., Maftahi M., Mallet L., Maurer C.T.C.,
+RA   Messenguy F., Mewes H.-W., Moestl D., Nasr F., Nicaud J.-M.,
+RA   Niedenthal R.K., Pandolfo D., Pierard A., Piravandi E., Planta R.J.,
+RA   Pohl T.M., Purnelle B., Rebischung C., Remacha M.A., Revuelta J.L.,
+RA   Rinke M., Saiz J.E., Sartorello F., Scherens B., Sen-Gupta M.,
+RA   Soler-Mira A., Urbanus J.H.M., Valle G., Van Dyck L., Verhasselt P.,
+RA   Vierendeels F., Vissers S., Voet M., Volckaert G., Wach A.,
+RA   Wambutt R., Wedler H., Zollner A., Hani J.;
+RT   "The nucleotide sequence of Saccharomyces cerevisiae chromosome XIV
+RT   and its evolutionary implications.";
+RL   Nature 387:93-98(1997).
+RN   [4]
+RP   GENOME REANNOTATION.
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=24374639; DOI=10.1534/g3.113.008995;
+RA   Engel S.R., Dietrich F.S., Fisk D.G., Binkley G., Balakrishnan R.,
+RA   Costanzo M.C., Dwight S.S., Hitz B.C., Karra K., Nash R.S., Weng S.,
+RA   Wong E.D., Lloyd P., Skrzypek M.S., Miyasato S.R., Simison M.,
+RA   Cherry J.M.;
+RT   "The reference genome sequence of Saccharomyces cerevisiae: Then and
+RT   now.";
+RL   G3 (Bethesda) 4:389-398(2014).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=17322287; DOI=10.1101/gr.6037607;
+RA   Hu Y., Rolfs A., Bhullar B., Murthy T.V.S., Zhu C., Berger M.F.,
+RA   Camargo A.A., Kelley F., McCarron S., Jepson D., Richardson A.,
+RA   Raphael J., Moreira D., Taycher E., Zuo D., Mohr S., Kane M.F.,
+RA   Williamson J., Simpson A.J.G., Bulyk M.L., Harlow E., Marsischky G.,
+RA   Kolodner R.D., LaBaer J.;
+RT   "Approaching a complete repository of sequence-verified protein-
+RT   encoding clones for Saccharomyces cerevisiae.";
+RL   Genome Res. 17:536-543(2007).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (1.02 ANGSTROMS).
+RX   PubMed=10404590; DOI=10.1016/S0969-2126(99)80082-3;
+RA   Rosenzweig A.C., Huffman D.L., Hou M.Y., Wernimont A.K., Pufahl R.A.,
+RA   O'Halloran T.V.;
+RT   "Crystal structure of the Atx1 metallochaperone protein at 1.02 A
+RT   resolution.";
+RL   Structure 7:605-617(1999).
+CC   -!- FUNCTION: Shuttles copper to the transport ATPase CCC2. Protects
+CC       against oxygen toxicity.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm.
+CC   -!- SIMILARITY: Belongs to the ATX1 family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 HMA domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00280}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; L35270; AAC37428.1; -; Genomic_DNA.
+DR   EMBL; X96722; CAA65485.1; -; Genomic_DNA.
+DR   EMBL; Z71535; CAA96166.1; -; Genomic_DNA.
+DR   EMBL; AY558367; AAS56693.1; -; Genomic_DNA.
+DR   EMBL; BK006947; DAA10300.1; -; Genomic_DNA.
+DR   PIR; S47930; S47930.
+DR   RefSeq; NP_014140.1; NM_001183097.1.
+DR   PDB; 1CC7; X-ray; 1.20 A; A=1-73.
+DR   PDB; 1CC8; X-ray; 1.02 A; A=1-73.
+DR   PDB; 1FD8; NMR; -; A=1-73.
+DR   PDB; 1FES; NMR; -; A=1-73.
+DR   PDB; 1UV1; Model; -; A=1-73.
+DR   PDB; 1UV2; Model; -; A=1-73.
+DR   PDB; 2GGP; NMR; -; A=1-73.
+DR   PDB; 3K7R; X-ray; 2.28 A; A/B/C/D/E/F/G/H/I/J/K/L=1-73.
+DR   PDBsum; 1CC7; -.
+DR   PDBsum; 1CC8; -.
+DR   PDBsum; 1FD8; -.
+DR   PDBsum; 1FES; -.
+DR   PDBsum; 1UV1; -.
+DR   PDBsum; 1UV2; -.
+DR   PDBsum; 2GGP; -.
+DR   PDBsum; 3K7R; -.
+DR   ProteinModelPortal; P38636; -.
+DR   SMR; P38636; 2-73.
+DR   BioGrid; 35580; 45.
+DR   DIP; DIP-813N; -.
+DR   IntAct; P38636; 2.
+DR   MINT; MINT-367601; -.
+DR   MaxQB; P38636; -.
+DR   PaxDb; P38636; -.
+DR   EnsemblFungi; YNL259C; YNL259C; YNL259C.
+DR   GeneID; 855462; -.
+DR   KEGG; sce:YNL259C; -.
+DR   CYGD; YNL259c; -.
+DR   EuPathDB; FungiDB:YNL259C; -.
+DR   SGD; S000005203; ATX1.
+DR   eggNOG; COG2608; -.
+DR   HOGENOM; HOG000038877; -.
+DR   InParanoid; P38636; -.
+DR   KO; K07213; -.
+DR   OMA; MADTHTY; -.
+DR   OrthoDB; EOG7G4QR6; -.
+DR   BioCyc; YEAST:G3O-33255-MONOMER; -.
+DR   EvolutionaryTrace; P38636; -.
+DR   NextBio; 979391; -.
+DR   PRO; PR:P38636; -.
+DR   Proteomes; UP000002311; Chromosome XIV.
+DR   GO; GO:0005829; C:cytosol; IDA:SGD.
+DR   GO; GO:0016531; F:copper chaperone activity; IDA:SGD.
+DR   GO; GO:0006879; P:cellular iron ion homeostasis; IMP:SGD.
+DR   GO; GO:0034599; P:cellular response to oxidative stress; IMP:SGD.
+DR   GO; GO:0006825; P:copper ion transport; IMP:SGD.
+DR   InterPro; IPR017969; Heavy-metal-associated_CS.
+DR   InterPro; IPR006121; HeavyMe-assoc_HMA.
+DR   Pfam; PF00403; HMA; 1.
+DR   SUPFAM; SSF55008; SSF55008; 1.
+DR   PROSITE; PS01047; HMA_1; 1.
+DR   PROSITE; PS50846; HMA_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Chaperone; Complete proteome; Copper; Copper transport;
+KW   Cytoplasm; Ion transport; Metal-binding; Reference proteome;
+KW   Transport.
+FT   CHAIN         1     73       Metal homeostasis factor ATX1.
+FT                                /FTId=PRO_0000212535.
+FT   DOMAIN        5     69       HMA. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00280}.
+FT   METAL        15     15       Copper.
+FT   METAL        18     18       Copper.
+FT   CONFLICT      8      8       Q -> H (in Ref. 5; AAS56693).
+FT                                {ECO:0000305}.
+FT   STRAND        5     11       {ECO:0000244|PDB:1CC8}.
+FT   HELIX        16     27       {ECO:0000244|PDB:1CC8}.
+FT   TURN         28     31       {ECO:0000244|PDB:1CC8}.
+FT   STRAND       32     39       {ECO:0000244|PDB:1CC8}.
+FT   TURN         40     43       {ECO:0000244|PDB:1CC8}.
+FT   STRAND       44     51       {ECO:0000244|PDB:1CC8}.
+FT   HELIX        53     61       {ECO:0000244|PDB:1CC8}.
+FT   TURN         62     64       {ECO:0000244|PDB:3K7R}.
+FT   STRAND       67     73       {ECO:0000244|PDB:1CC8}.
+SQ   SEQUENCE   73 AA;  8221 MW;  9BDF0B542F80EA83 CRC64;
+     MAEIKHYQFN VVMTCSGCSG AVNKVLTKLE PDVSKIDISL EKQLVDVYTT LPYDFILEKI
+     KKTGKEVRSG KQL
+//

@@ -1,0 +1,150 @@
+ID   ISPF_SALTY              Reviewed;         159 AA.
+AC   Q8ZMF7;
+DT   15-MAY-2002, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAR-2002, sequence version 1.
+DT   22-JUL-2015, entry version 88.
+DE   RecName: Full=2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase;
+DE            Short=MECDP-synthase;
+DE            Short=MECPP-synthase;
+DE            Short=MECPS;
+DE            EC=4.6.1.12;
+GN   Name=ispF; OrderedLocusNames=STM2929;
+OS   Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Salmonella.
+OX   NCBI_TaxID=99287;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=LT2 / SGSC1412 / ATCC 700720;
+RX   PubMed=11677609; DOI=10.1038/35101614;
+RA   McClelland M., Sanderson K.E., Spieth J., Clifton S.W., Latreille P.,
+RA   Courtney L., Porwollik S., Ali J., Dante M., Du F., Hou S., Layman D.,
+RA   Leonard S., Nguyen C., Scott K., Holmes A., Grewal N., Mulvaney E.,
+RA   Ryan E., Sun H., Florea L., Miller W., Stoneking T., Nhan M.,
+RA   Waterston R., Wilson R.K.;
+RT   "Complete genome sequence of Salmonella enterica serovar Typhimurium
+RT   LT2.";
+RL   Nature 413:852-856(2001).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (2.09 ANGSTROMS) IN COMPLEX WITH SUBSTRATE
+RP   ANALOGS AND MAGNESIUM IONS, COFACTOR, AND SUBUNIT.
+RG   Structural Genomics Of Infectious Diseases (CSGID);
+RA   Osipiuk J., Gu M., Peterson S., Anderson W.F., Joachimiak A.;
+RT   "2-c-methyl-D-erythritol 2,4-cyclodiphosphate synthase from Salmonella
+RT   typhimurium.";
+RL   Submitted (MAR-2009) to the PDB data bank.
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (2.09 ANGSTROMS) IN COMPLEX WITH SUBSTRATE
+RP   ANALOGS AND DIVALENT CATIONS, COFACTOR, AND SUBUNIT.
+RG   Seattle structural genomics center for infectious disease (SSGCID);
+RA   Staker B.L., Edwards T.E.;
+RT   "Crystal structure of 2-c-methyl-d-erythritol 2,4-cyclodiphos synthase
+RT   from Salmonella typhimurium bound to cytidine.";
+RL   Submitted (JUL-2011) to the PDB data bank.
+CC   -!- FUNCTION: Involved in the biosynthesis of isopentenyl diphosphate
+CC       (IPP) and dimethylallyl diphosphate (DMAPP), two major building
+CC       blocks of isoprenoid compounds. Catalyzes the conversion of 4-
+CC       diphosphocytidyl-2-C-methyl-D-erythritol 2-phosphate (CDP-ME2P) to
+CC       2-C-methyl-D-erythritol 2,4-cyclodiphosphate (ME-CPP) with a
+CC       corresponding release of cytidine 5-monophosphate (CMP) (By
+CC       similarity). {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: 2-phospho-4-(cytidine 5'-diphospho)-2-C-
+CC       methyl-D-erythritol = 2-C-methyl-D-erythritol 2,4-cyclodiphosphate
+CC       + CMP.
+CC   -!- COFACTOR:
+CC       Name=a divalent metal cation; Xref=ChEBI:CHEBI:60240;
+CC         Evidence={ECO:0000269|Ref.2, ECO:0000269|Ref.3};
+CC       Note=Binds 1 divalent metal cation per subunit.
+CC       {ECO:0000269|Ref.2, ECO:0000269|Ref.3};
+CC   -!- PATHWAY: Isoprenoid biosynthesis; isopentenyl diphosphate
+CC       biosynthesis via DXP pathway; isopentenyl diphosphate from 1-
+CC       deoxy-D-xylulose 5-phosphate: step 4/6.
+CC   -!- SUBUNIT: Homotrimer. {ECO:0000269|Ref.2, ECO:0000269|Ref.3}.
+CC   -!- SIMILARITY: Belongs to the IspF family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE006468; AAL21809.1; -; Genomic_DNA.
+DR   RefSeq; NP_461850.1; NC_003197.1.
+DR   RefSeq; WP_001219245.1; NC_003197.1.
+DR   PDB; 3GHZ; X-ray; 2.03 A; A/B/C=1-159.
+DR   PDB; 3T80; X-ray; 2.50 A; A/B/C/D/E/F=1-159.
+DR   PDBsum; 3GHZ; -.
+DR   PDBsum; 3T80; -.
+DR   ProteinModelPortal; Q8ZMF7; -.
+DR   SMR; Q8ZMF7; 1-157.
+DR   STRING; 99287.STM2929; -.
+DR   PaxDb; Q8ZMF7; -.
+DR   PRIDE; Q8ZMF7; -.
+DR   EnsemblBacteria; AAL21809; AAL21809; STM2929.
+DR   GeneID; 1254452; -.
+DR   KEGG; stm:STM2929; -.
+DR   PATRIC; 32384543; VBISalEnt20916_3083.
+DR   eggNOG; COG0245; -.
+DR   HOGENOM; HOG000239175; -.
+DR   KO; K01770; -.
+DR   OMA; IRIGNGY; -.
+DR   OrthoDB; EOG6J48RZ; -.
+DR   PhylomeDB; Q8ZMF7; -.
+DR   BioCyc; SENT99287:GCTI-2945-MONOMER; -.
+DR   UniPathway; UPA00056; UER00095.
+DR   EvolutionaryTrace; Q8ZMF7; -.
+DR   Proteomes; UP000001014; Chromosome.
+DR   GO; GO:0008685; F:2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0019288; P:isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway; IEA:UniProtKB-UniPathway.
+DR   GO; GO:0016114; P:terpenoid biosynthetic process; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 3.30.1330.50; -; 1.
+DR   HAMAP; MF_00107; IspF; 1.
+DR   InterPro; IPR003526; MECDP_synthase.
+DR   InterPro; IPR020555; MECDP_synthase_CS.
+DR   Pfam; PF02542; YgbB; 1.
+DR   SUPFAM; SSF69765; SSF69765; 1.
+DR   TIGRFAMs; TIGR00151; ispF; 1.
+DR   PROSITE; PS01350; ISPF; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Isoprene biosynthesis; Lyase;
+KW   Metal-binding; Reference proteome.
+FT   CHAIN         1    159       2-C-methyl-D-erythritol 2,4-
+FT                                cyclodiphosphate synthase.
+FT                                /FTId=PRO_0000189501.
+FT   REGION        8     10       Substrate binding. {ECO:0000250}.
+FT   REGION       34     35       Substrate binding. {ECO:0000250}.
+FT   REGION       38     46       Substrate binding. {ECO:0000250}.
+FT   REGION       56     58       Substrate binding.
+FT   REGION       61     65       Substrate binding. {ECO:0000250}.
+FT   REGION      100    106       Substrate binding.
+FT   REGION      131    135       Substrate binding. {ECO:0000250}.
+FT   METAL         8      8       Divalent metal cation.
+FT   METAL        10     10       Divalent metal cation.
+FT   METAL        42     42       Divalent metal cation.
+FT   BINDING      65     65       Substrate; via carbonyl oxygen.
+FT                                {ECO:0000250}.
+FT   BINDING     139    139       Substrate; via carbonyl oxygen.
+FT   BINDING     142    142       Substrate.
+FT   SITE         34     34       Transition state stabilizer.
+FT                                {ECO:0000250}.
+FT   SITE        133    133       Transition state stabilizer.
+FT                                {ECO:0000250}.
+FT   STRAND        1     16       {ECO:0000244|PDB:3GHZ}.
+FT   STRAND       18     20       {ECO:0000244|PDB:3GHZ}.
+FT   STRAND       23     25       {ECO:0000244|PDB:3GHZ}.
+FT   STRAND       28     32       {ECO:0000244|PDB:3GHZ}.
+FT   HELIX        39     51       {ECO:0000244|PDB:3GHZ}.
+FT   HELIX        57     60       {ECO:0000244|PDB:3GHZ}.
+FT   HELIX        66     68       {ECO:0000244|PDB:3GHZ}.
+FT   HELIX        73     86       {ECO:0000244|PDB:3GHZ}.
+FT   STRAND       90     99       {ECO:0000244|PDB:3GHZ}.
+FT   STRAND      101    103       {ECO:0000244|PDB:3GHZ}.
+FT   HELIX       106    108       {ECO:0000244|PDB:3GHZ}.
+FT   HELIX       109    120       {ECO:0000244|PDB:3GHZ}.
+FT   HELIX       124    126       {ECO:0000244|PDB:3GHZ}.
+FT   STRAND      127    132       {ECO:0000244|PDB:3GHZ}.
+FT   HELIX       138    141       {ECO:0000244|PDB:3GHZ}.
+FT   STRAND      144    155       {ECO:0000244|PDB:3GHZ}.
+SQ   SEQUENCE   159 AA;  16900 MW;  9FD88D2C95662939 CRC64;
+     MRIGHGFDVH AFGGEGPIII GGVRIPYEKG LLAHSDGDVA LHALTDALLG AAALGDIGKL
+     FPDTDPAFKG ADSRELLREA WRRIQAKGYT LGNVDVTIIA QAPKMLPHIP QMRVFIAEDL
+     GCHMDEVNVK ATTTEKLGFT GRGEGIACEA VALLMKAAK
+//

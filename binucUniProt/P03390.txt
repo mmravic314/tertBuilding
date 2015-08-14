@@ -1,0 +1,248 @@
+ID   ENV_MLVF5               Reviewed;         675 AA.
+AC   P03390;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   01-AUG-1992, sequence version 3.
+DT   07-JAN-2015, entry version 119.
+DE   RecName: Full=Envelope glycoprotein;
+DE   AltName: Full=Env polyprotein;
+DE   Contains:
+DE     RecName: Full=Surface protein;
+DE              Short=SU;
+DE     AltName: Full=Glycoprotein 70;
+DE              Short=gp70;
+DE   Contains:
+DE     RecName: Full=Transmembrane protein;
+DE              Short=TM;
+DE     AltName: Full=Envelope protein p15E;
+DE   Contains:
+DE     RecName: Full=R-peptide;
+DE     AltName: Full=p2E;
+DE   Flags: Precursor;
+GN   Name=env;
+OS   Friend murine leukemia virus (isolate 57) (FrMLV).
+OC   Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae;
+OC   Gammaretrovirus; Murine leukemia virus.
+OX   NCBI_TaxID=11796;
+OH   NCBI_TaxID=10090; Mus musculus (Mouse).
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC RNA].
+RA   Friedrich R.W., Koch W., von Maydell-Livonius U., Schrewe H.,
+RA   Zimmermann W.;
+RL   Submitted (SEP-1990) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   PRELIMINARY NUCLEOTIDE SEQUENCE.
+RX   PubMed=6321768;
+RA   Koch W., Zimmermann W., Oliff A., Friedrich R.W.;
+RT   "Molecular analysis of the envelope gene and long terminal repeat of
+RT   Friend mink cell focus-inducing virus: implications for the functions
+RT   of these sequences.";
+RL   J. Virol. 49:828-840(1984).
+RN   [3]
+RP   PALMITOYLATION OF THE TRANSMEMBRANE PROTEIN, AND MUTAGENESIS OF
+RP   CYS-640.
+RX   PubMed=8661417; DOI=10.1006/viro.1996.0355;
+RA   Yang C., Compans R.W.;
+RT   "Palmitoylation of the murine leukemia virus envelope glycoprotein
+RT   transmembrane subunits.";
+RL   Virology 221:87-97(1996).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) OF 43-270.
+RX   PubMed=9287219; DOI=10.1126/science.277.5332.1662;
+RA   Fass D., Davey R.A., Hamson C.A., Kim P.S., Cunningham J.M.,
+RA   Berger J.M.;
+RT   "Structure of a murine leukemia virus receptor-binding glycoprotein at
+RT   2.0-A resolution.";
+RL   Science 277:1662-1666(1997).
+CC   -!- FUNCTION: The surface protein (SU) attaches the virus to the host
+CC       cell by binding to its receptor. This interaction triggers the
+CC       refolding of the transmembrane protein (TM) and is thought to
+CC       activate its fusogenic potential by unmasking its fusion peptide.
+CC       Fusion occurs at the host cell plasma membrane (By similarity).
+CC       {ECO:0000250}.
+CC   -!- FUNCTION: The transmembrane protein (TM) acts as a class I viral
+CC       fusion protein. Under the current model, the protein has at least
+CC       3 conformational states: pre-fusion native state, pre-hairpin
+CC       intermediate state, and post-fusion hairpin state. During viral
+CC       and target cell membrane fusion, the coiled coil regions (heptad
+CC       repeats) assume a trimer-of-hairpins structure, positioning the
+CC       fusion peptide in close proximity to the C-terminal region of the
+CC       ectodomain. The formation of this structure appears to drive
+CC       apposition and subsequent fusion of viral and target cell
+CC       membranes. Membranes fusion leads to delivery of the nucleocapsid
+CC       into the cytoplasm (By similarity). {ECO:0000250}.
+CC   -!- SUBUNIT: The mature envelope protein (Env) consists of a trimer of
+CC       SU-TM heterodimers attached by a labile interchain disulfide bond.
+CC       {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Transmembrane protein: Virion membrane
+CC       {ECO:0000250}; Single-pass type I membrane protein {ECO:0000250}.
+CC       Host cell membrane {ECO:0000250}; Single-pass type I membrane
+CC       protein {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Surface protein: Virion membrane; Peripheral
+CC       membrane protein. Host cell membrane {ECO:0000250}; Peripheral
+CC       membrane protein {ECO:0000250}. Note=The surface protein is not
+CC       anchored to the viral envelope, but associates with the virion
+CC       surface through its binding to TM. Both proteins are thought to be
+CC       concentrated at the site of budding and incorporated into the
+CC       virions possibly by contacts between the cytoplasmic tail of Env
+CC       and the N-terminus of Gag (By similarity). {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: R-peptide: Host cell membrane {ECO:0000250};
+CC       Peripheral membrane protein {ECO:0000250}. Note=The R-peptide is
+CC       membrane-associated through its palmitate. {ECO:0000250}.
+CC   -!- DOMAIN: The YXXL motif is involved in determining the exact site
+CC       of viral release at the surface of infected mononuclear cells and
+CC       promotes endocytosis.
+CC   -!- DOMAIN: The 17 amino acids long immunosuppressive region is
+CC       present in many retroviral envelope proteins. Synthetic peptides
+CC       derived from this relatively conserved sequence inhibit immune
+CC       function in vitro and in vivo (By similarity). {ECO:0000250}.
+CC   -!- PTM: Specific enzymatic cleavages in vivo yield mature proteins.
+CC       Envelope glycoproteins are synthesized as a inactive precursor
+CC       that is N-glycosylated and processed likely by host cell furin or
+CC       by a furin-like protease in the Golgi to yield the mature SU and
+CC       TM proteins. The cleavage site between SU and TM requires the
+CC       minimal sequence [KR]-X-[KR]-R. The R-peptide is released from the
+CC       C-terminus of the cytoplasmic tail of the TM protein upon particle
+CC       formation as a result of proteolytic cleavage by the viral
+CC       protease. Cleavage of this peptide is required for TM to become
+CC       fusogenic (By similarity). {ECO:0000250}.
+CC   -!- PTM: The CXXC motif is highly conserved across a broad range of
+CC       retroviral envelope proteins. It is thought to participate in the
+CC       formation of a labile disulfide bond possibly with the CX6CC motif
+CC       present in the transmembrane protein. Isomerization of the
+CC       intersubunit disulfide bond to an SU intrachain disulfide bond is
+CC       thought to occur upon receptor recognition in order to allow
+CC       membrane fusion (By similarity). {ECO:0000250}.
+CC   -!- PTM: The transmembrane protein is palmitoylated.
+CC       {ECO:0000269|PubMed:8661417}.
+CC   -!- PTM: The R-peptide is palmitoylated. {ECO:0000250}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X02794; CAA26561.1; -; Genomic_RNA.
+DR   PDB; 1AOL; X-ray; 2.00 A; A=43-270.
+DR   PDBsum; 1AOL; -.
+DR   ProteinModelPortal; P03390; -.
+DR   SMR; P03390; 43-269, 525-577.
+DR   EvolutionaryTrace; P03390; -.
+DR   Proteomes; UP000007776; Genome.
+DR   GO; GO:0020002; C:host cell plasma membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0019028; C:viral capsid; IEA:InterPro.
+DR   GO; GO:0019031; C:viral envelope; IEA:UniProtKB-KW.
+DR   GO; GO:0055036; C:virion membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0005198; F:structural molecule activity; IEA:InterPro.
+DR   GO; GO:0019064; P:fusion of virus membrane with host plasma membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0039504; P:suppression by virus of host adaptive immune response; IEA:UniProtKB-KW.
+DR   GO; GO:0039588; P:suppression by virus of host antigen processing and presentation; IEA:UniProtKB-KW.
+DR   GO; GO:0019062; P:virion attachment to host cell; IEA:UniProtKB-KW.
+DR   Gene3D; 3.90.310.10; -; 1.
+DR   InterPro; IPR008981; FMuLV_rcpt-bd.
+DR   InterPro; IPR018154; TLV/ENV_coat_polyprotein.
+DR   PANTHER; PTHR10424; PTHR10424; 1.
+DR   Pfam; PF00429; TLV_coat; 1.
+DR   SUPFAM; SSF49830; SSF49830; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cleavage on pair of basic residues; Coiled coil;
+KW   Complete proteome; Disulfide bond;
+KW   Fusion of virus membrane with host cell membrane;
+KW   Fusion of virus membrane with host membrane; Glycoprotein;
+KW   Host cell membrane; Host membrane; Host-virus interaction;
+KW   Inhibition of host adaptive immune response by virus;
+KW   Inhibition of host proteasome antigen processing by virus;
+KW   Lipoprotein; Membrane; Metal-binding; Palmitate; Signal;
+KW   Transmembrane; Transmembrane helix; Viral attachment to host cell;
+KW   Viral envelope protein; Viral immunoevasion;
+KW   Viral penetration into host cytoplasm; Virion;
+KW   Virus entry into host cell; Zinc.
+FT   SIGNAL        1     34       {ECO:0000255}.
+FT   CHAIN        35    675       Envelope glycoprotein.
+FT                                /FTId=PRO_0000239581.
+FT   CHAIN        35    479       Surface protein. {ECO:0000250}.
+FT                                /FTId=PRO_0000040751.
+FT   CHAIN       480    659       Transmembrane protein. {ECO:0000250}.
+FT                                /FTId=PRO_0000040752.
+FT   PEPTIDE     660    675       R-peptide. {ECO:0000250}.
+FT                                /FTId=PRO_0000040753.
+FT   TOPO_DOM     35    620       Extracellular. {ECO:0000255}.
+FT   TRANSMEM    621    641       Helical. {ECO:0000255}.
+FT   TOPO_DOM    642    675       Cytoplasmic. {ECO:0000255}.
+FT   REGION       35    270       Receptor-binding domain (RBD).
+FT                                {ECO:0000255}.
+FT   REGION      482    502       Fusion peptide. {ECO:0000250}.
+FT   REGION      548    564       Immunosuppression. {ECO:0000250}.
+FT   COILED      513    547       {ECO:0000255}.
+FT   MOTIF       346    349       CXXC.
+FT   MOTIF       565    573       CX6CC.
+FT   MOTIF       665    668       YXXL motif; contains endocytosis signal.
+FT                                {ECO:0000250}.
+FT   COMPBIAS    267    317       Pro-rich.
+FT   METAL        89     89       Zinc.
+FT   METAL       120    120       Zinc.
+FT   SITE        479    480       Cleavage; by host. {ECO:0000250}.
+FT   SITE        659    660       Cleavage; by viral protease p14.
+FT                                {ECO:0000250}.
+FT   LIPID       640    640       S-palmitoyl cysteine; by host.
+FT                                {ECO:0000269|PubMed:8661417}.
+FT   CARBOHYD     46     46       N-linked (GlcNAc...); by host.
+FT   CARBOHYD    202    202       N-linked (GlcNAc...); by host.
+FT   CARBOHYD    336    336       N-linked (GlcNAc...); by host.
+FT                                {ECO:0000250}.
+FT   CARBOHYD    368    368       N-linked (GlcNAc...); by host.
+FT                                {ECO:0000255}.
+FT   CARBOHYD    375    375       N-linked (GlcNAc...); by host.
+FT                                {ECO:0000255}.
+FT   CARBOHYD    408    408       N-linked (GlcNAc...); by host.
+FT                                {ECO:0000255}.
+FT   CARBOHYD    444    444       N-linked (GlcNAc...); by host.
+FT                                {ECO:0000255}.
+FT   DISULFID     80    132
+FT   DISULFID    106    121
+FT   DISULFID    107    117
+FT   DISULFID    155    175
+FT   DISULFID    167    180
+FT   DISULFID    212    218
+FT   DISULFID    346    573       Interchain (between SU and TM chains, or
+FT                                C-349 with C-573); in linked form.
+FT   DISULFID    346    349
+FT   DISULFID    376    430       {ECO:0000250}.
+FT   DISULFID    395    407       {ECO:0000250}.
+FT   DISULFID    437    450       {ECO:0000250}.
+FT   DISULFID    565    572       {ECO:0000250}.
+FT   MUTAGEN     640    640       C->S: Complete loss of palmitoylation.
+FT                                {ECO:0000269|PubMed:8661417}.
+FT   STRAND       44     52       {ECO:0000244|PDB:1AOL}.
+FT   STRAND       58     67       {ECO:0000244|PDB:1AOL}.
+FT   HELIX        79     83       {ECO:0000244|PDB:1AOL}.
+FT   HELIX        88     90       {ECO:0000244|PDB:1AOL}.
+FT   HELIX       119    122       {ECO:0000244|PDB:1AOL}.
+FT   STRAND      130    134       {ECO:0000244|PDB:1AOL}.
+FT   HELIX       135    146       {ECO:0000244|PDB:1AOL}.
+FT   STRAND      152    156       {ECO:0000244|PDB:1AOL}.
+FT   HELIX       164    167       {ECO:0000244|PDB:1AOL}.
+FT   HELIX       170    172       {ECO:0000244|PDB:1AOL}.
+FT   STRAND      183    186       {ECO:0000244|PDB:1AOL}.
+FT   STRAND      196    203       {ECO:0000244|PDB:1AOL}.
+FT   HELIX       205    213       {ECO:0000244|PDB:1AOL}.
+FT   STRAND      220    225       {ECO:0000244|PDB:1AOL}.
+FT   HELIX       227    231       {ECO:0000244|PDB:1AOL}.
+FT   HELIX       234    236       {ECO:0000244|PDB:1AOL}.
+FT   STRAND      239    245       {ECO:0000244|PDB:1AOL}.
+FT   TURN        248    250       {ECO:0000244|PDB:1AOL}.
+FT   STRAND      253    263       {ECO:0000244|PDB:1AOL}.
+FT   HELIX       266    268       {ECO:0000244|PDB:1AOL}.
+SQ   SEQUENCE   675 AA;  74025 MW;  A097038E422BB3D3 CRC64;
+     MACSTLPKSP KDKIDPRDLL IPLILFLSLK GARSAAPGSS PHQVYNITWE VTNGDRETVW
+     AISGNHPLWT WWPVLTPDLC MLALSGPPHW GLEYQAPYSS PPGPPCCSGS SGSSAGCSRD
+     CDEPLTSLTP RCNTAWNRLK LDQVTHKSSE GFYVCPGSHR PREAKSCGGP DSFYCASWGC
+     ETTGRVYWKP SSSWDYITVD NNLTTSQAVQ VCKDNKWCNP LAIQFTNAGK QVTSWTTGHY
+     WGLRLYVSGR DPGLTFGIRL RYQNLGPRVP IGPNPVLADQ LSLPRPNPLP KPAKSPPASN
+     STPTLISPSP TPTQPPPAGT GDRLLNLVQG AYQALNLTNP DKTQECWLCL VSGPPYYEGV
+     AVLGTYSNHT SAPANCSVAS QHKLTLSEVT GRGLCIGTVP KTHQALCNTT LKIDKGSYYL
+     VAPTGTTWAC NTGLTPCLSA TVLNRTTDYC VLVELWPRVT YHPPSYVYSQ FEKSYRHKRE
+     PVSLTLALLL GGLTMGGIAA GVGTGTTALV ATQQFQQLHA AVQDDLKEVE KSITNLEKSL
+     TSLSEVVLQN RRGLDLLFLK EGGLCAALKE ECCFYADHTG LVRDSMAKLR ERLTQRQKLF
+     ESSQGWFEGL FNRSPWFTTL ISTIMGPLII LLLILLFGPC ILNRLVQFVK DRISVVQALV
+     LTQQYHQLKP LEYEP
+//

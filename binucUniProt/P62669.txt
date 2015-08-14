@@ -1,0 +1,162 @@
+ID   RS9_THET2               Reviewed;         128 AA.
+AC   P62669;
+DT   19-JUL-2004, integrated into UniProtKB/Swiss-Prot.
+DT   19-JUL-2004, sequence version 1.
+DT   22-JUL-2015, entry version 85.
+DE   RecName: Full=30S ribosomal protein S9;
+GN   Name=rpsI; Synonyms=rps9; OrderedLocusNames=TT_C1100;
+OS   Thermus thermophilus (strain HB27 / ATCC BAA-163 / DSM 7039).
+OC   Bacteria; Deinococcus-Thermus; Deinococci; Thermales; Thermaceae;
+OC   Thermus.
+OX   NCBI_TaxID=262724;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=11296217; DOI=10.1093/emboj/20.8.1829;
+RA   Pioletti M., Schluenzen F., Harms J., Zarivach R., Gluehmann M.,
+RA   Avila H., Bashan A., Bartels H., Auerbach T., Jacobi C., Hartsch T.,
+RA   Yonath A., Franceschi F.;
+RT   "Crystal structures of complexes of the small ribosomal subunit with
+RT   tetracycline, edeine and IF3.";
+RL   EMBO J. 20:1829-1839(2001).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=HB27 / ATCC BAA-163 / DSM 7039;
+RX   PubMed=15064768; DOI=10.1038/nbt956;
+RA   Henne A., Brueggemann H., Raasch C., Wiezer A., Hartsch T.,
+RA   Liesegang H., Johann A., Lienard T., Gohl O., Martinez-Arias R.,
+RA   Jacobi C., Starkuviene V., Schlenczeck S., Dencker S., Huber R.,
+RA   Klenk H.-P., Kramer W., Merkl R., Gottschalk G., Fritz H.-J.;
+RT   "The genome sequence of the extreme thermophile Thermus
+RT   thermophilus.";
+RL   Nat. Biotechnol. 22:547-553(2004).
+CC   -!- FUNCTION: Part of the top of the head of the 30S subunit. The C-
+CC       terminal region penetrates the head emerging in the P-site where
+CC       it contacts tRNA (By similarity). {ECO:0000250}.
+CC   -!- SUBUNIT: Part of the 30S ribosomal subunit. Contacts proteins S7
+CC       and S10 (By similarity). {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the ribosomal protein S9P family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AJ409331; CAC35063.1; -; Genomic_DNA.
+DR   EMBL; AE017221; AAS81442.1; -; Genomic_DNA.
+DR   RefSeq; WP_008632991.1; NC_005835.1.
+DR   PDB; 1I94; X-ray; 3.20 A; I=1-128.
+DR   PDB; 1I96; X-ray; 4.20 A; I=1-128.
+DR   PDB; 1TWT; Model; -; L=1-128.
+DR   PDB; 2R1G; EM; 12.50 A; G=2-128.
+DR   PDB; 2UXB; X-ray; 3.10 A; I=1-128.
+DR   PDB; 2UXC; X-ray; 2.90 A; I=1-128.
+DR   PDB; 2UXD; X-ray; 3.20 A; I=1-128.
+DR   PDB; 2VQE; X-ray; 2.50 A; I=1-128.
+DR   PDB; 2VQF; X-ray; 2.90 A; I=1-128.
+DR   PDB; 3T1H; X-ray; 3.11 A; I=1-128.
+DR   PDB; 3T1Y; X-ray; 2.80 A; I=1-128.
+DR   PDB; 4KVB; X-ray; 4.20 A; I=1-128.
+DR   PDB; 4V4I; X-ray; 3.71 A; j=1-128.
+DR   PDB; 4V4J; X-ray; 3.83 A; j=1-128.
+DR   PDB; 4V51; X-ray; 2.80 A; AI/CI=1-128.
+DR   PDB; 4V5A; X-ray; 3.50 A; AI/CI=1-128.
+DR   PDB; 4V5C; X-ray; 3.30 A; AI/CI=1-128.
+DR   PDB; 4V5D; X-ray; 3.50 A; AI/CI=1-128.
+DR   PDB; 4V5E; X-ray; 3.45 A; AI/CI=1-128.
+DR   PDB; 4V63; X-ray; 3.21 A; AI/CI=1-128.
+DR   PDB; 4V67; X-ray; 3.00 A; AI/CI=1-128.
+DR   PDB; 4V7P; X-ray; 3.62 A; AI/DI=2-128.
+DR   PDB; 4V83; X-ray; 3.50 A; AI/CI=2-128.
+DR   PDB; 4V84; X-ray; 3.40 A; AI/CI=2-128.
+DR   PDB; 4V9J; X-ray; 3.86 A; AI/CI=2-128.
+DR   PDB; 4V9K; X-ray; 3.50 A; AI/CI=2-128.
+DR   PDB; 4V9L; X-ray; 3.50 A; AI/CI=2-128.
+DR   PDB; 4V9M; X-ray; 4.00 A; AI/CI=2-128.
+DR   PDB; 4V9N; X-ray; 3.40 A; AI/CI=2-128.
+DR   PDB; 4V9Q; X-ray; 3.40 A; BI/DI=2-128.
+DR   PDB; 4W29; X-ray; 3.80 A; AI/CI=2-128.
+DR   PDB; 4XEJ; X-ray; 3.80 A; AS09/BS09=2-128.
+DR   PDBsum; 1I94; -.
+DR   PDBsum; 1I96; -.
+DR   PDBsum; 1TWT; -.
+DR   PDBsum; 2R1G; -.
+DR   PDBsum; 2UXB; -.
+DR   PDBsum; 2UXC; -.
+DR   PDBsum; 2UXD; -.
+DR   PDBsum; 2VQE; -.
+DR   PDBsum; 2VQF; -.
+DR   PDBsum; 3T1H; -.
+DR   PDBsum; 3T1Y; -.
+DR   PDBsum; 4KVB; -.
+DR   PDBsum; 4V4I; -.
+DR   PDBsum; 4V4J; -.
+DR   PDBsum; 4V51; -.
+DR   PDBsum; 4V5A; -.
+DR   PDBsum; 4V5C; -.
+DR   PDBsum; 4V5D; -.
+DR   PDBsum; 4V5E; -.
+DR   PDBsum; 4V63; -.
+DR   PDBsum; 4V67; -.
+DR   PDBsum; 4V7P; -.
+DR   PDBsum; 4V83; -.
+DR   PDBsum; 4V84; -.
+DR   PDBsum; 4V9J; -.
+DR   PDBsum; 4V9K; -.
+DR   PDBsum; 4V9L; -.
+DR   PDBsum; 4V9M; -.
+DR   PDBsum; 4V9N; -.
+DR   PDBsum; 4V9Q; -.
+DR   PDBsum; 4W29; -.
+DR   PDBsum; 4XEJ; -.
+DR   ProteinModelPortal; P62669; -.
+DR   SMR; P62669; 2-128.
+DR   STRING; 262724.TTC1100; -.
+DR   EnsemblBacteria; AAS81442; AAS81442; TT_C1100.
+DR   KEGG; tth:TTC1100; -.
+DR   PATRIC; 23952603; VBITheThe54392_1092.
+DR   eggNOG; COG0103; -.
+DR   KO; K02996; -.
+DR   OMA; IKQGAAR; -.
+DR   OrthoDB; EOG6MWNH0; -.
+DR   BioCyc; TTHE262724:GCAT-1112-MONOMER; -.
+DR   EvolutionaryTrace; P62669; -.
+DR   Proteomes; UP000000592; Chromosome.
+DR   GO; GO:0005840; C:ribosome; IEA:UniProtKB-KW.
+DR   GO; GO:0019843; F:rRNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003735; F:structural constituent of ribosome; IEA:InterPro.
+DR   GO; GO:0000049; F:tRNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006412; P:translation; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 3.30.230.10; -; 1.
+DR   HAMAP; MF_00532_B; Ribosomal_S9_B; 1.
+DR   InterPro; IPR020568; Ribosomal_S5_D2-typ_fold.
+DR   InterPro; IPR014721; Ribosomal_S5_D2-typ_fold_subgr.
+DR   InterPro; IPR000754; Ribosomal_S9.
+DR   InterPro; IPR023035; Ribosomal_S9_bac/plastid.
+DR   InterPro; IPR020574; Ribosomal_S9_CS.
+DR   PANTHER; PTHR21569; PTHR21569; 1.
+DR   Pfam; PF00380; Ribosomal_S9; 1.
+DR   SUPFAM; SSF54211; SSF54211; 1.
+DR   PROSITE; PS00360; RIBOSOMAL_S9; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Ribonucleoprotein; Ribosomal protein;
+KW   RNA-binding; rRNA-binding; tRNA-binding.
+FT   CHAIN         1    128       30S ribosomal protein S9.
+FT                                /FTId=PRO_0000111430.
+FT   STRAND        4      6       {ECO:0000244|PDB:2VQE}.
+FT   STRAND       13     23       {ECO:0000244|PDB:2VQE}.
+FT   STRAND       26     32       {ECO:0000244|PDB:2VQE}.
+FT   HELIX        33     36       {ECO:0000244|PDB:2VQE}.
+FT   STRAND       37     39       {ECO:0000244|PDB:2VQE}.
+FT   HELIX        43     47       {ECO:0000244|PDB:2VQE}.
+FT   HELIX        48     53       {ECO:0000244|PDB:2VQE}.
+FT   STRAND       56     58       {ECO:0000244|PDB:3T1H}.
+FT   STRAND       59     68       {ECO:0000244|PDB:2VQE}.
+FT   HELIX        70     88       {ECO:0000244|PDB:2VQE}.
+FT   HELIX        90     92       {ECO:0000244|PDB:2VQE}.
+FT   HELIX        93     96       {ECO:0000244|PDB:2VQE}.
+FT   TURN         97    102       {ECO:0000244|PDB:2VQE}.
+FT   STRAND      114    118       {ECO:0000244|PDB:2VQE}.
+SQ   SEQUENCE   128 AA;  14402 MW;  7886A020CC5D9934 CRC64;
+     MEQYYGTGRR KEAVARVFLR PGNGKVTVNG QDFNEYFQGL VRAVAALEPL RAVDALGRFD
+     AYITVRGGGK SGQIDAIKLG IARALVQYNP DYRAKLKPLG FLTRDARVVE RKKYGKHKAR
+     RAPQYSKR
+//

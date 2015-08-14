@@ -1,0 +1,78 @@
+ID   D1BQT4_VEIPT            Unreviewed;       261 AA.
+AC   D1BQT4;
+DT   19-JAN-2010, integrated into UniProtKB/TrEMBL.
+DT   19-JAN-2010, sequence version 1.
+DT   22-JUL-2015, entry version 35.
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ACZ23897.1};
+GN   OrderedLocusNames=Vpar_0210 {ECO:0000313|EMBL:ACZ23897.1};
+OS   Veillonella parvula (strain ATCC 10790 / DSM 2008 / JCM 12972 / Te3)
+OS   (Veillonella alcalescens).
+OC   Bacteria; Firmicutes; Negativicutes; Selenomonadales; Veillonellaceae;
+OC   Veillonella.
+OX   NCBI_TaxID=479436 {ECO:0000313|EMBL:ACZ23897.1, ECO:0000313|Proteomes:UP000007968};
+RN   [1] {ECO:0000313|Proteomes:UP000007968}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 10790 / DSM 2008 / JCM 12972 / Te3
+RC   {ECO:0000313|Proteomes:UP000007968};
+RG   US DOE Joint Genome Institute (JGI-PGF);
+RA   Lucas S., Copeland A., Lapidus A., Glavina del Rio T., Dalin E.,
+RA   Tice H., Bruce D., Goodwin L., Pitluck S., Kyrpides N., Mavromatis K.,
+RA   Ivanova N., Mikhailova N., Saunders E., Brettin T., Detter J.C.,
+RA   Han C., Larimer F., Land M., Hauser L., Markowitz V., Cheng J.F.,
+RA   Hugenholtz P., Woyke T., Wu D., Wellnitz S., Schneider S., Gronow S.,
+RA   Klenk H.P., Eisen J.A.;
+RT   "The complete genome of Veillonella parvula DSM 2008.";
+RL   Submitted (NOV-2009) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:3RPC}
+RP   X-RAY CRYSTALLOGRAPHY (1.49 ANGSTROMS) IN COMPLEX WITH ZINC.
+RA   Tan K., Marshall N., Clancy S., Joachimiak A.;
+RT   "The crystal structure of a possible metal-dependent hydrolase from
+RT   Veillonella parvula DSM 2008.";
+RL   Submitted (APR-2011) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP001820; ACZ23897.1; -; Genomic_DNA.
+DR   PDB; 3RPC; X-ray; 1.49 A; A/B/C/D=1-261.
+DR   PDBsum; 3RPC; -.
+DR   STRING; 479436.Vpar_0210; -.
+DR   EnsemblBacteria; ACZ23897; ACZ23897; Vpar_0210.
+DR   KEGG; vpr:Vpar_0210; -.
+DR   PATRIC; 32529702; VBIVeiPar80537_0202.
+DR   HOGENOM; HOG000292832; -.
+DR   OMA; MEAINHC; -.
+DR   OrthoDB; EOG6V7BQG; -.
+DR   BioCyc; VPAR479436:GHOS-214-MONOMER; -.
+DR   Proteomes; UP000007968; Chromosome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.60.15.10; -; 1.
+DR   InterPro; IPR001279; Beta-lactamas-like.
+DR   SMART; SM00849; Lactamase_B; 1.
+DR   SUPFAM; SSF56281; SSF56281; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3RPC};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000007968};
+KW   Metal-binding {ECO:0000213|PDB:3RPC};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000007968};
+KW   Zinc {ECO:0000213|PDB:3RPC}.
+FT   METAL        69     69       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3RPC}.
+FT   METAL        71     71       Zinc 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3RPC}.
+FT   METAL        73     73       Zinc 2. {ECO:0000213|PDB:3RPC}.
+FT   METAL        74     74       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3RPC}.
+FT   METAL       129    129       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3RPC}.
+FT   METAL       165    165       Zinc 1. {ECO:0000213|PDB:3RPC}.
+FT   METAL       165    165       Zinc 2. {ECO:0000213|PDB:3RPC}.
+FT   METAL       223    223       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3RPC}.
+SQ   SEQUENCE   261 AA;  28911 MW;  8D582C66848D5D9F CRC64;
+     MTQYTHIRNA TGKLTIKNTT FLIDPFLAPK DTYPGFEGTF NYQQRMPMVD LPLSMDDLLS
+     NVTAVVVTHT HLDHWDDTAI NSIPKSLPIF VQNTADKELI TSQGFIDVRI IFESLEFNGI
+     TLRKTGGSHG TVEMYANPVL APLAGDAMGV IFEAADEPTV YLVGDTVWTS DVEKALLRFD
+     PNVIIMNTGY AQILGFEDSI IMGTKDIGRM VVRKPEAKII AVHMDTVNHT ATSRKDVRKF
+     IKGNNIESHV AVPEDGETIT L
+//

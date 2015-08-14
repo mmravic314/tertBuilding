@@ -1,0 +1,129 @@
+ID   T2P2_PROHU              Reviewed;         157 AA.
+AC   P23657;
+DT   01-NOV-1991, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1991, sequence version 1.
+DT   22-JUL-2015, entry version 94.
+DE   RecName: Full=Type-2 restriction enzyme PvuII;
+DE            Short=R.PvuII;
+DE            EC=3.1.21.4;
+DE   AltName: Full=Endonuclease PvuII;
+DE   AltName: Full=Type II restriction enzyme PvuII;
+GN   Name=pvuIIR;
+OS   Proteus hauseri.
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Proteus.
+OX   NCBI_TaxID=183417;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 13315 / DSM 30118 / JCM 1668 / NBRC 3851 / NCIMB 4175 /
+RC   NCTC 4175 / NRRL B-3405;
+RX   PubMed=2243794; DOI=10.1093/nar/18.21.6434;
+RA   Athanasiadis A., Gregoriu M., Thanos D., Kokkinidis M.,
+RA   Papamatheakis J.;
+RT   "Complete nucleotide sequence of the PvuII restriction enzyme gene
+RT   from Proteus vulgaris.";
+RL   Nucleic Acids Res. 18:6434-6434(1990).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (3.0 ANGSTROMS).
+RX   PubMed=8076590;
+RA   Cheng X., Balendiran K., Schildkraut I., Anderson J.E.;
+RT   "Structure of PvuII endonuclease with cognate DNA.";
+RL   EMBO J. 13:3927-3935(1994).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS).
+RX   PubMed=7664066; DOI=10.1038/nsb0794-469;
+RA   Athanasiadis A., Vlassi M., Kotsifaki D., Tucker P.A., Wilson K.S.,
+RA   Kokkinidis M.;
+RT   "Crystal structure of PvuII endonuclease reveals extensive structural
+RT   homologies to EcoRV.";
+RL   Nat. Struct. Biol. 1:469-475(1994).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (1.76 ANGSTROMS).
+RX   PubMed=9628337; DOI=10.1515/bchm.1998.379.4-5.451;
+RA   Horton J.R., Bonventre J., Cheng X.;
+RT   "How is modification of the DNA substrate recognized by the PvuII
+RT   restriction endonuclease?";
+RL   Biol. Chem. 379:451-458(1998).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (1.59 ANGSTROMS).
+RX   PubMed=9878366; DOI=10.1006/jmbi.1998.2269;
+RA   Horton J.R., Nastri H.G., Riggs P.D., Cheng X.;
+RT   "Asp34 of PvuII endonuclease is directly involved in DNA minor groove
+RT   recognition and indirectly involved in catalysis.";
+RL   J. Mol. Biol. 284:1491-1504(1998).
+CC   -!- FUNCTION: Recognizes the double-stranded sequence CAGCTG and
+CC       cleaves after G-3.
+CC   -!- CATALYTIC ACTIVITY: Endonucleolytic cleavage of DNA to give
+CC       specific double-stranded fragments with terminal 5'-phosphates.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC       Note=Binds 2 magnesium ions per subunit.;
+CC   -!- SUBUNIT: Homodimer.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X52681; CAA36904.1; -; Genomic_DNA.
+DR   EMBL; AF305615; AAA96334.1; -; Genomic_DNA.
+DR   PIR; S12163; S12163.
+DR   PDB; 1EYU; X-ray; 1.78 A; A/B=1-157.
+DR   PDB; 1F0O; X-ray; 2.50 A; A/B=1-157.
+DR   PDB; 1H56; X-ray; 3.00 A; A/B=2-157.
+DR   PDB; 1K0Z; X-ray; 2.05 A; A/B=2-157.
+DR   PDB; 1NI0; X-ray; 2.50 A; A/B/C=1-157.
+DR   PDB; 1PVI; X-ray; 2.60 A; A/B=1-157.
+DR   PDB; 1PVU; X-ray; 2.40 A; A/B=2-157.
+DR   PDB; 2PVI; X-ray; 1.76 A; A/B=1-157.
+DR   PDB; 3KSK; X-ray; 2.35 A; A/B=2-157.
+DR   PDB; 3PVI; X-ray; 1.59 A; A/B=1-157.
+DR   PDBsum; 1EYU; -.
+DR   PDBsum; 1F0O; -.
+DR   PDBsum; 1H56; -.
+DR   PDBsum; 1K0Z; -.
+DR   PDBsum; 1NI0; -.
+DR   PDBsum; 1PVI; -.
+DR   PDBsum; 1PVU; -.
+DR   PDBsum; 2PVI; -.
+DR   PDBsum; 3KSK; -.
+DR   PDBsum; 3PVI; -.
+DR   ProteinModelPortal; P23657; -.
+DR   SMR; P23657; 2-157.
+DR   REBASE; 1542; PvuII.
+DR   KEGG; pg:1238794; -.
+DR   EvolutionaryTrace; P23657; -.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0009036; F:Type II site-specific deoxyribonuclease activity; IEA:UniProtKB-EC.
+DR   GO; GO:0009307; P:DNA restriction-modification system; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.210.10; -; 1.
+DR   InterPro; IPR011335; Restrct_endonuc-II-like.
+DR   InterPro; IPR015306; Restrct_endonuc_II_PvuII.
+DR   Pfam; PF09225; Endonuc-PvuII; 1.
+DR   SUPFAM; SSF52980; SSF52980; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Endonuclease; Hydrolase; Magnesium; Metal-binding;
+KW   Nuclease; Restriction system.
+FT   CHAIN         1    157       Type-2 restriction enzyme PvuII.
+FT                                /FTId=PRO_0000077356.
+FT   METAL        58     58       Magnesium 1. {ECO:0000250}.
+FT   METAL        58     58       Magnesium 2. {ECO:0000250}.
+FT   METAL        68     68       Magnesium 1. {ECO:0000250}.
+FT   HELIX         6     25       {ECO:0000244|PDB:3PVI}.
+FT   TURN         31     33       {ECO:0000244|PDB:1PVU}.
+FT   HELIX        36     46       {ECO:0000244|PDB:3PVI}.
+FT   STRAND       55     57       {ECO:0000244|PDB:3PVI}.
+FT   STRAND       58     60       {ECO:0000244|PDB:3KSK}.
+FT   STRAND       66     73       {ECO:0000244|PDB:3PVI}.
+FT   TURN         74     76       {ECO:0000244|PDB:3PVI}.
+FT   STRAND       78     80       {ECO:0000244|PDB:3PVI}.
+FT   STRAND       84     86       {ECO:0000244|PDB:1PVU}.
+FT   HELIX        88     95       {ECO:0000244|PDB:3PVI}.
+FT   STRAND       99    105       {ECO:0000244|PDB:3PVI}.
+FT   STRAND      108    115       {ECO:0000244|PDB:3PVI}.
+FT   HELIX       117    133       {ECO:0000244|PDB:3PVI}.
+FT   HELIX       146    152       {ECO:0000244|PDB:3PVI}.
+FT   STRAND      153    155       {ECO:0000244|PDB:3PVI}.
+SQ   SEQUENCE   157 AA;  18345 MW;  2146453E04E65570 CRC64;
+     MSHPDLNKLL ELWPHIQEYQ DLALKHGIND IFQDNGGKLL QVLLITGLTV LPGREGNDAV
+     DNAGQEYELK SINIDLTKGF STHHHMNPVI IAKYRQVPWI FAIYRGIAIE AIYRLEPKDL
+     EFYYDKWERK WYSDGHKDIN NPKIPVKYVM EHGTKIY
+//

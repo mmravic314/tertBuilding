@@ -1,0 +1,252 @@
+ID   RP3A_RAT                Reviewed;         684 AA.
+AC   P47709;
+DT   01-FEB-1996, integrated into UniProtKB/Swiss-Prot.
+DT   01-FEB-1996, sequence version 1.
+DT   24-JUN-2015, entry version 129.
+DE   RecName: Full=Rabphilin-3A;
+DE   AltName: Full=Exophilin-1;
+GN   Name=Rph3a;
+OS   Rattus norvegicus (Rat).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Rattus.
+OX   NCBI_TaxID=10116;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=7946335; DOI=10.1016/0896-6273(94)90254-2;
+RA   Li C., Takei K., Geppert M., Daniell L., Stenius K., Chapman E.R.,
+RA   Jahn R., de Camilli P., Suedhof T.C.;
+RT   "Synaptic targeting of rabphilin-3A, a synaptic vesicle
+RT   Ca2+/phospholipid-binding protein, depends on rab3A/3C.";
+RL   Neuron 13:885-898(1994).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (2.6 ANGSTROMS) OF 44-167 IN COMPLEX WITH RAB3A.
+RC   TISSUE=Brain;
+RX   PubMed=10025402; DOI=10.1016/S0092-8674(00)80549-8;
+RA   Ostermeier C., Brunger A.T.;
+RT   "Structural basis of Rab effector specificity: crystal structure of
+RT   the small G protein Rab3A complexed with the effector domain of
+RT   rabphilin-3A.";
+RL   Cell 96:363-374(1999).
+RN   [3]
+RP   STRUCTURE BY NMR OF 541-680.
+RX   PubMed=10559882; DOI=10.1038/10076;
+RA   Ubach J., Garcia J., Nittler M.P., Sudhof T.C., Rizo J.;
+RT   "Structure of the Janus-faced C2B domain of rabphilin.";
+RL   Nat. Cell Biol. 1:106-112(1999).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (1.28 ANGSTROMS) OF 519-684 IN COMPLEX WITH
+RP   CALCIUM IONS, DOMAIN, SUBCELLULAR LOCATION, AND CALCIUM-BINDING.
+RX   PubMed=17166855; DOI=10.1074/jbc.M606746200;
+RA   Montaville P., Schlicker C., Leonov A., Zweckstetter M.,
+RA   Sheldrick G.M., Becker S.;
+RT   "The C2A-C2B linker defines the high affinity Ca(2+) binding mode of
+RT   rabphilin-3A.";
+RL   J. Biol. Chem. 282:5015-5025(2007).
+CC   -!- FUNCTION: Protein transport. Probably involved with Ras-related
+CC       protein Rab-3A in synaptic vesicle traffic and/or synaptic vesicle
+CC       fusion. Could play a role in neurotransmitter release by
+CC       regulating membrane flow in the nerve terminal.
+CC   -!- SUBUNIT: Interacts with RAB3B, RAB3C, RAB3D, RAB8A, RAB27A and
+CC       RAB27B (By similarity). Interacts with RAB3A. Monomer.
+CC       {ECO:0000250, ECO:0000269|PubMed:10025402,
+CC       ECO:0000269|PubMed:17166855}.
+CC   -!- INTERACTION:
+CC       P63012:Rab3a; NbExp=2; IntAct=EBI-1027524, EBI-440126;
+CC       P60881:Snap25; NbExp=4; IntAct=EBI-1027524, EBI-1027214;
+CC   -!- SUBCELLULAR LOCATION: Cell junction, synapse {ECO:0000250}.
+CC       Membrane {ECO:0000269|PubMed:17166855}; Peripheral membrane
+CC       protein {ECO:0000269|PubMed:17166855}.
+CC   -!- TISSUE SPECIFICITY: Specifically expressed in brain.
+CC   -!- DOMAIN: Binds calcium via the C2 domains. The calcium-bound C2
+CC       domains mediate interactions with phospholipid bilayers.
+CC       {ECO:0000269|PubMed:17166855}.
+CC   -!- SIMILARITY: Contains 2 C2 domains. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00041}.
+CC   -!- SIMILARITY: Contains 1 FYVE-type zinc finger.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00091}.
+CC   -!- SIMILARITY: Contains 1 RabBD (Rab-binding) domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00234}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U12571; AAA62662.1; -; mRNA.
+DR   PIR; I58166; I58166.
+DR   RefSeq; NP_598202.1; NM_133518.1.
+DR   UniGene; Rn.10976; -.
+DR   PDB; 1ZBD; X-ray; 2.60 A; B=41-170.
+DR   PDB; 2CHD; X-ray; 1.92 A; A=371-510.
+DR   PDB; 2CM5; X-ray; 1.28 A; A=519-684.
+DR   PDB; 2CM6; X-ray; 1.85 A; A/B=519-684.
+DR   PDB; 3RPB; NMR; -; A=541-680.
+DR   PDB; 4LT7; X-ray; 2.50 A; A=378-510.
+DR   PDB; 4NP9; X-ray; 1.92 A; A=378-510.
+DR   PDB; 4NS0; X-ray; 1.80 A; A=378-510.
+DR   PDBsum; 1ZBD; -.
+DR   PDBsum; 2CHD; -.
+DR   PDBsum; 2CM5; -.
+DR   PDBsum; 2CM6; -.
+DR   PDBsum; 3RPB; -.
+DR   PDBsum; 4LT7; -.
+DR   PDBsum; 4NP9; -.
+DR   PDBsum; 4NS0; -.
+DR   ProteinModelPortal; P47709; -.
+DR   SMR; P47709; 44-167, 382-509, 541-680.
+DR   IntAct; P47709; 3.
+DR   MINT; MINT-85841; -.
+DR   STRING; 10116.ENSRNOP00000001844; -.
+DR   PhosphoSite; P47709; -.
+DR   PaxDb; P47709; -.
+DR   PRIDE; P47709; -.
+DR   GeneID; 171039; -.
+DR   KEGG; rno:171039; -.
+DR   UCSC; RGD:620073; rat.
+DR   CTD; 22895; -.
+DR   RGD; 620073; Rph3a.
+DR   eggNOG; NOG247952; -.
+DR   HOGENOM; HOG000294226; -.
+DR   HOVERGEN; HBG017739; -.
+DR   InParanoid; P47709; -.
+DR   PhylomeDB; P47709; -.
+DR   EvolutionaryTrace; P47709; -.
+DR   NextBio; 621529; -.
+DR   PMAP-CutDB; P47709; -.
+DR   PRO; PR:P47709; -.
+DR   Proteomes; UP000002494; Unplaced.
+DR   Genevisible; P47709; RN.
+DR   GO; GO:0030054; C:cell junction; IEA:UniProtKB-KW.
+DR   GO; GO:0005829; C:cytosol; IDA:RGD.
+DR   GO; GO:0019898; C:extrinsic component of membrane; IDA:RGD.
+DR   GO; GO:0043005; C:neuron projection; IDA:RGD.
+DR   GO; GO:0005886; C:plasma membrane; IBA:GO_Central.
+DR   GO; GO:0043234; C:protein complex; IDA:RGD.
+DR   GO; GO:0030141; C:secretory granule; IDA:RGD.
+DR   GO; GO:0045202; C:synapse; IDA:RGD.
+DR   GO; GO:0008021; C:synaptic vesicle; IDA:RGD.
+DR   GO; GO:0030672; C:synaptic vesicle membrane; IDA:RGD.
+DR   GO; GO:0005509; F:calcium ion binding; IDA:UniProtKB.
+DR   GO; GO:0005544; F:calcium-dependent phospholipid binding; IDA:UniProtKB.
+DR   GO; GO:0030276; F:clathrin binding; IBA:GO_Central.
+DR   GO; GO:0070679; F:inositol 1,4,5 trisphosphate binding; IDA:RGD.
+DR   GO; GO:0042301; F:phosphate ion binding; IDA:RGD.
+DR   GO; GO:0005546; F:phosphatidylinositol-4,5-bisphosphate binding; IDA:RGD.
+DR   GO; GO:0005543; F:phospholipid binding; TAS:RGD.
+DR   GO; GO:0032403; F:protein complex binding; IDA:RGD.
+DR   GO; GO:0008430; F:selenium binding; IDA:RGD.
+DR   GO; GO:0019905; F:syntaxin binding; IBA:GO_Central.
+DR   GO; GO:0008270; F:zinc ion binding; IDA:RGD.
+DR   GO; GO:0007420; P:brain development; IEP:RGD.
+DR   GO; GO:0048791; P:calcium ion-dependent exocytosis of neurotransmitter; IBA:GO_Central.
+DR   GO; GO:0006886; P:intracellular protein transport; IEA:InterPro.
+DR   GO; GO:0017158; P:regulation of calcium ion-dependent exocytosis; IBA:GO_Central.
+DR   GO; GO:0016079; P:synaptic vesicle exocytosis; IBA:GO_Central.
+DR   Gene3D; 2.60.40.150; -; 2.
+DR   Gene3D; 3.30.40.10; -; 1.
+DR   InterPro; IPR000008; C2_dom.
+DR   InterPro; IPR010911; Rab_BD.
+DR   InterPro; IPR028698; RPH3A.
+DR   InterPro; IPR001565; Synaptotagmin.
+DR   InterPro; IPR017455; Znf_FYVE-rel.
+DR   InterPro; IPR011011; Znf_FYVE_PHD.
+DR   InterPro; IPR013083; Znf_RING/FYVE/PHD.
+DR   PANTHER; PTHR10024:SF118; PTHR10024:SF118; 1.
+DR   Pfam; PF00168; C2; 2.
+DR   PRINTS; PR00360; C2DOMAIN.
+DR   PRINTS; PR00399; SYNAPTOTAGMN.
+DR   SMART; SM00239; C2; 2.
+DR   SUPFAM; SSF49562; SSF49562; 2.
+DR   SUPFAM; SSF57903; SSF57903; 1.
+DR   PROSITE; PS50004; C2; 2.
+DR   PROSITE; PS50916; RABBD; 1.
+DR   PROSITE; PS50178; ZF_FYVE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Calcium; Cell junction; Complete proteome;
+KW   Lipid-binding; Membrane; Metal-binding; Protein transport;
+KW   Reference proteome; Repeat; Synapse; Transport; Zinc; Zinc-finger.
+FT   CHAIN         1    684       Rabphilin-3A.
+FT                                /FTId=PRO_0000190229.
+FT   DOMAIN       40    157       RabBD. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00234}.
+FT   DOMAIN      384    488       C2 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00041}.
+FT   DOMAIN      542    645       C2 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00041}.
+FT   ZN_FING      88    145       FYVE-type. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00091}.
+FT   COMPBIAS    280    364       Pro-rich.
+FT   METAL       412    412       Calcium 1; via carbonyl oxygen.
+FT                                {ECO:0000250}.
+FT   METAL       413    413       Calcium 1. {ECO:0000250}.
+FT   METAL       413    413       Calcium 2. {ECO:0000250}.
+FT   METAL       419    419       Calcium 2. {ECO:0000250}.
+FT   METAL       474    474       Calcium 1. {ECO:0000250}.
+FT   METAL       474    474       Calcium 2. {ECO:0000250}.
+FT   METAL       475    475       Calcium 2; via carbonyl oxygen.
+FT                                {ECO:0000250}.
+FT   METAL       476    476       Calcium 1. {ECO:0000250}.
+FT   METAL       476    476       Calcium 2. {ECO:0000250}.
+FT   METAL       482    482       Calcium 1. {ECO:0000250}.
+FT   METAL       529    529       Calcium 3; via carbonyl oxygen.
+FT   METAL       571    571       Calcium 3.
+FT   METAL       571    571       Calcium 4.
+FT   METAL       577    577       Calcium 3.
+FT   METAL       631    631       Calcium 3.
+FT   METAL       631    631       Calcium 4.
+FT   METAL       632    632       Calcium 3; via carbonyl oxygen.
+FT   METAL       633    633       Calcium 3.
+FT   METAL       633    633       Calcium 4.
+FT   METAL       639    639       Calcium 4.
+FT   HELIX        50     84       {ECO:0000244|PDB:1ZBD}.
+FT   STRAND       90     93       {ECO:0000244|PDB:1ZBD}.
+FT   STRAND       95     97       {ECO:0000244|PDB:1ZBD}.
+FT   STRAND      108    110       {ECO:0000244|PDB:1ZBD}.
+FT   TURN        112    114       {ECO:0000244|PDB:1ZBD}.
+FT   STRAND      117    119       {ECO:0000244|PDB:1ZBD}.
+FT   STRAND      122    125       {ECO:0000244|PDB:1ZBD}.
+FT   STRAND      129    132       {ECO:0000244|PDB:1ZBD}.
+FT   STRAND      135    137       {ECO:0000244|PDB:1ZBD}.
+FT   HELIX       138    149       {ECO:0000244|PDB:1ZBD}.
+FT   HELIX       152    155       {ECO:0000244|PDB:1ZBD}.
+FT   STRAND      385    393       {ECO:0000244|PDB:4NS0}.
+FT   HELIX       394    396       {ECO:0000244|PDB:4NS0}.
+FT   STRAND      398    408       {ECO:0000244|PDB:4NS0}.
+FT   STRAND      414    416       {ECO:0000244|PDB:4LT7}.
+FT   STRAND      420    428       {ECO:0000244|PDB:4NS0}.
+FT   HELIX       432    434       {ECO:0000244|PDB:4NS0}.
+FT   STRAND      435    437       {ECO:0000244|PDB:4NS0}.
+FT   STRAND      448    457       {ECO:0000244|PDB:4NS0}.
+FT   HELIX       460    465       {ECO:0000244|PDB:4NS0}.
+FT   STRAND      467    475       {ECO:0000244|PDB:4NS0}.
+FT   STRAND      477    479       {ECO:0000244|PDB:4LT7}.
+FT   STRAND      481    490       {ECO:0000244|PDB:4NS0}.
+FT   HELIX       491    493       {ECO:0000244|PDB:4NS0}.
+FT   STRAND      500    505       {ECO:0000244|PDB:4NS0}.
+FT   HELIX       527    530       {ECO:0000244|PDB:2CM6}.
+FT   STRAND      543    551       {ECO:0000244|PDB:2CM5}.
+FT   TURN        552    555       {ECO:0000244|PDB:2CM5}.
+FT   STRAND      556    566       {ECO:0000244|PDB:2CM5}.
+FT   STRAND      578    585       {ECO:0000244|PDB:2CM5}.
+FT   STRAND      593    595       {ECO:0000244|PDB:2CM5}.
+FT   STRAND      606    614       {ECO:0000244|PDB:2CM5}.
+FT   HELIX       617    622       {ECO:0000244|PDB:2CM5}.
+FT   STRAND      624    631       {ECO:0000244|PDB:2CM5}.
+FT   STRAND      634    636       {ECO:0000244|PDB:2CM5}.
+FT   STRAND      639    647       {ECO:0000244|PDB:2CM5}.
+FT   HELIX       652    663       {ECO:0000244|PDB:2CM5}.
+FT   STRAND      664    667       {ECO:0000244|PDB:3RPB}.
+FT   STRAND      669    674       {ECO:0000244|PDB:2CM5}.
+SQ   SEQUENCE   684 AA;  75832 MW;  05838BC3C7A86444 CRC64;
+     MTDTVVNRWM YPGDGPLQSN DKEQLQAGWS VHPGAQTDRQ RKQEELTDEE KEIINRVIAR
+     AEKMETMEQE RIGRLVDRLE TMRKNVAGDG VNRCILCGEQ LGMLGSACVV CEDCKKNVCT
+     KCGVETSNNR PHPVWLCKIC LEQREVWKRS GAWFFKGFPK QVLPQPMPIK KTKPQQPAGE
+     PATQEQPTPE SRHPARAPAR GDMEDRRAPG QKPGPDLTSA PGRGSHGPPT RRASEARMST
+     TTRDSEGWDH GHGGGAGDTS RSPGGEQGLR RANSVQASRP APASMPSPAP PQPVQPGPPG
+     GSRAAPGPGR FPEQSTEAPP SDPGYPGAVA PAREERTGPT GGFQAAPHTA GPYSQAAPAR
+     QPPPAEEEEE EANSYDSDQA TTLGALEFSL LYDQDNSNLQ CTIIRAKGLK PMDSNGLADP
+     YVKLHLLPGA SKSNKLRTKT LRNTRNPVWN ETLQYHGITE EDMQRKTLRI SVCDEDKFGH
+     NEFIGETRFS LKKLKANQRK NFNICLERVI PMKRAGTTGS ARGMALYEEE QVERIGDIEE
+     RGKILVSLMY STQQGGLIVG IIRCVHLAAM DANGYSDPFV KLWLKPDMGK KAKHKTQIKK
+     KTLNPEFNEE FFYDIKHSDL AKKSLDISVW DYDIGKSNDY IGGCQLGISA KGERLKHWYE
+     CLKNKDKKIE RWHQLQNENH VSSD
+//

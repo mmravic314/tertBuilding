@@ -1,0 +1,117 @@
+ID   ACP1_SPIOL              Reviewed;         138 AA.
+AC   P07854;
+DT   01-AUG-1988, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-1989, sequence version 2.
+DT   07-JAN-2015, entry version 101.
+DE   RecName: Full=Acyl carrier protein 1, chloroplastic;
+DE            Short=ACP I;
+DE            Short=Acyl carrier protein I;
+DE   Flags: Precursor;
+GN   Name=ACL1.1;
+OS   Spinacia oleracea (Spinach).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; Caryophyllales; Amaranthaceae; Chenopodioideae;
+OC   Anserineae; Spinacia.
+OX   NCBI_TaxID=3562;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   AGRICOLA=IND92000043; DOI=10.1007/BF00015645;
+RA   Scherer D.E., Knauf V.C.;
+RT   "Isolation of a cDNA clone for the acyl carrier protein-I of
+RT   spinach.";
+RL   Plant Mol. Biol. 9:127-134(1987).
+RN   [2]
+RP   PROTEIN SEQUENCE OF 57-138.
+RC   TISSUE=Leaf;
+RX   PubMed=6486822; DOI=10.1016/0003-9861(84)90351-5;
+RA   Kuo T.M., Ohlrogge J.B.;
+RT   "The primary structure of spinach acyl carrier protein.";
+RL   Arch. Biochem. Biophys. 234:290-296(1984).
+RN   [3]
+RP   STRUCTURE BY NMR OF 57-138 IN COMPLEX WITH PHOSPHOPANTETHEINE, AND
+RP   PHOSPHOPANTETHEINYLATION AT SER-94.
+RX   PubMed=16618110; DOI=10.1021/bi052062d;
+RA   Zornetzer G.A., Fox B.G., Markley J.L.;
+RT   "Solution structures of spinach acyl carrier protein with decanoate
+RT   and stearate.";
+RL   Biochemistry 45:5217-5227(2006).
+CC   -!- FUNCTION: Carrier of the growing fatty acid chain in fatty acid
+CC       biosynthesis.
+CC   -!- PATHWAY: Lipid metabolism; fatty acid biosynthesis.
+CC   -!- SUBCELLULAR LOCATION: Plastid, chloroplast.
+CC   -!- PTM: 4'-phosphopantetheine is transferred from CoA to a specific
+CC       serine of apo-ACP by acpS. This modification is essential for
+CC       activity because fatty acids are bound in thioester linkage to the
+CC       sulfhydryl of the prosthetic group (By similarity). {ECO:0000250}.
+CC   -!- SIMILARITY: Contains 1 acyl carrier domain. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M17636; AAA34023.1; -; mRNA.
+DR   PIR; A28052; AYSP.
+DR   PDB; 2AVA; NMR; -; A=57-138.
+DR   PDB; 2FVA; NMR; -; A=57-138.
+DR   PDB; 2FVE; NMR; -; A=57-138.
+DR   PDB; 2FVF; NMR; -; A=57-138.
+DR   PDB; 2XZ0; X-ray; 3.00 A; D=57-138.
+DR   PDB; 2XZ1; X-ray; 3.35 A; C/D=57-138.
+DR   PDBsum; 2AVA; -.
+DR   PDBsum; 2FVA; -.
+DR   PDBsum; 2FVE; -.
+DR   PDBsum; 2FVF; -.
+DR   PDBsum; 2XZ0; -.
+DR   PDBsum; 2XZ1; -.
+DR   ProteinModelPortal; P07854; -.
+DR   SMR; P07854; 57-138.
+DR   DIP; DIP-60378N; -.
+DR   UniPathway; UPA00094; -.
+DR   EvolutionaryTrace; P07854; -.
+DR   GO; GO:0009507; C:chloroplast; IEA:UniProtKB-SubCell.
+DR   GO; GO:0006633; P:fatty acid biosynthetic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 1.10.1200.10; -; 1.
+DR   HAMAP; MF_01217; Acyl_carrier; 1.
+DR   InterPro; IPR003231; Acyl_carrier.
+DR   InterPro; IPR009081; Acyl_carrier_prot-like.
+DR   InterPro; IPR006162; Ppantetheine_attach_site.
+DR   Pfam; PF00550; PP-binding; 1.
+DR   ProDom; PD000887; PD000887; 1.
+DR   SUPFAM; SSF47336; SSF47336; 1.
+DR   TIGRFAMs; TIGR00517; acyl_carrier; 1.
+DR   PROSITE; PS50075; ACP_DOMAIN; 1.
+DR   PROSITE; PS00012; PHOSPHOPANTETHEINE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Chloroplast; Direct protein sequencing;
+KW   Fatty acid biosynthesis; Fatty acid metabolism; Lipid biosynthesis;
+KW   Lipid metabolism; Phosphopantetheine; Phosphoprotein; Plastid;
+KW   Transit peptide.
+FT   TRANSIT       1     56       Chloroplast.
+FT                                {ECO:0000269|PubMed:6486822}.
+FT   CHAIN        57    138       Acyl carrier protein 1, chloroplastic.
+FT                                /FTId=PRO_0000000584.
+FT   REGION       72     73       Phosphopantetheine binding.
+FT   REGION       88     93       Phosphopantetheine binding.
+FT   REGION       95     99       Phosphopantetheine binding.
+FT   REGION      118    119       Phosphopantetheine binding.
+FT   MOD_RES      94     94       O-(pantetheine 4'-phosphoryl)serine.
+FT                                {ECO:0000269|PubMed:16618110}.
+FT   CONFLICT     66     66       C -> S (in Ref. 2; AA sequence).
+FT                                {ECO:0000305}.
+FT   HELIX        59     63       {ECO:0000244|PDB:2XZ0}.
+FT   HELIX        66     71       {ECO:0000244|PDB:2XZ0}.
+FT   TURN         72     74       {ECO:0000244|PDB:2XZ0}.
+FT   STRAND       77     79       {ECO:0000244|PDB:2XZ0}.
+FT   STRAND       83     85       {ECO:0000244|PDB:2FVA}.
+FT   HELIX        87     90       {ECO:0000244|PDB:2XZ0}.
+FT   HELIX        95    103       {ECO:0000244|PDB:2XZ0}.
+FT   TURN        104    107       {ECO:0000244|PDB:2XZ0}.
+FT   TURN        114    118       {ECO:0000244|PDB:2XZ0}.
+FT   STRAND      121    123       {ECO:0000244|PDB:2XZ0}.
+FT   HELIX       124    133       {ECO:0000244|PDB:2XZ0}.
+FT   TURN        135    137       {ECO:0000244|PDB:2XZ0}.
+SQ   SEQUENCE   138 AA;  14909 MW;  B3FB8F08BF657980 CRC64;
+     MASLSATTTV RVQPSSSSLH KLSQGNGRCS SIVCLDWGKS SFPTLRTSRR RSFISAAKKE
+     TIDKVCDIVK EKLALGADVV VTADSEFSKL GADSLDTVEI VMNLEEEFGI NVDEDKAQDI
+     STIQQAADVI ESLLEKKA
+//

@@ -1,0 +1,121 @@
+ID   P83847_GEOSE            Unreviewed;       366 AA.
+AC   P83847;
+DT   13-APR-2004, integrated into UniProtKB/TrEMBL.
+DT   13-APR-2004, sequence version 1.
+DT   22-JUL-2015, entry version 67.
+DE   SubName: Full=A/G-specific adenine glycosylase {ECO:0000313|PDB:1RRQ};
+DE            EC=3.2.2.- {ECO:0000313|PDB:1RRQ};
+OS   Geobacillus stearothermophilus (Bacillus stearothermophilus).
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Geobacillus.
+OX   NCBI_TaxID=1422 {ECO:0000313|PDB:1RRQ};
+RN   [1] {ECO:0000213|PDB:1RRQ, ECO:0000213|PDB:1RRS, ECO:0000213|PDB:1VRL}
+RP   X-RAY CRYSTALLOGRAPHY (2.22 ANGSTROMS) IN COMPLEX WITH CALCIUM AND
+RP   IRON-SULFUR(4FE-4S).
+RX   PubMed=14961129; DOI=10.1038/nature02306;
+RA   Fromme J.C., Banerjee A., Huang S.J., Verdine G.L.;
+RT   "Structural basis for removal of adenine mispaired with 8-oxoguanine
+RT   by MutY adenine DNA glycosylase.";
+RL   Nature 427:652-656(2004).
+RN   [2] {ECO:0000213|PDB:3G0Q}
+RP   X-RAY CRYSTALLOGRAPHY (2.20 ANGSTROMS) OF 9-360 IN COMPLEX WITH
+RP   IRON-SULFUR (4FE-4S).
+RX   PubMed=19841264; DOI=10.1073/pnas.0902908106;
+RA   Lee S., Verdine G.L.;
+RT   "Atomic substitution reveals the structural basis for substrate
+RT   adenine recognition and removal by adenine DNA glycosylase.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 106:18497-18502(2009).
+RN   [3] {ECO:0000213|PDB:3FSP, ECO:0000213|PDB:3FSQ}
+RP   X-RAY CRYSTALLOGRAPHY (2.20 ANGSTROMS) IN COMPLEX WITH CALCIUM AND
+RP   IRON-SULFUR (4FE-4S).
+RA   O'Shea V.L., Cao S., Richards J.L., Horvath M.P., David S.S.;
+RT   "Structural illumination of a mutY glycosylase reaction coordinate
+RT   intermediate.";
+RL   Submitted (JAN-2009) to the PDB data bank.
+RN   [4] {ECO:0000213|PDB:4YOQ, ECO:0000213|PDB:4YPH, ECO:0000213|PDB:4YPR}
+RP   X-RAY CRYSTALLOGRAPHY (2.21 ANGSTROMS) IN COMPLEX WITH IRON-SULFUR
+RP   (4FE-4S).
+RX   PubMed=25995449; DOI=10.1074/jbc.M115.657866;
+RA   Wang L., Lee S.J., Verdine G.;
+RT   "Structural Basis for Avoidance of Promutagenic DNA Repair by MutY
+RT   Adenine DNA Glycosylase.";
+RL   J. Biol. Chem. 0:0-0(2015).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   PDB; 1RRQ; X-ray; 2.22 A; A=1-366.
+DR   PDB; 1RRS; X-ray; 2.40 A; A=1-366.
+DR   PDB; 1VRL; X-ray; 2.50 A; A=1-366.
+DR   PDB; 3FSP; X-ray; 2.20 A; A=1-366.
+DR   PDB; 3FSQ; X-ray; 2.30 A; A=1-366.
+DR   PDB; 3G0Q; X-ray; 2.20 A; A=9-360.
+DR   PDB; 4YOQ; X-ray; 2.21 A; A=1-366.
+DR   PDB; 4YPH; X-ray; 2.32 A; A=1-366.
+DR   PDB; 4YPR; X-ray; 2.59 A; A/B=1-366.
+DR   PDBsum; 3G0Q; -.
+DR   PDBsum; 4YOQ; -.
+DR   PDBsum; 4YPH; -.
+DR   PDBsum; 4YPR; -.
+DR   ProteinModelPortal; P83847; -.
+DR   SMR; P83847; 9-360.
+DR   EvolutionaryTrace; P83847; -.
+DR   GO; GO:0051539; F:4 iron, 4 sulfur cluster binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0019104; F:DNA N-glycosylase activity; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006284; P:base-excision repair; IEA:InterPro.
+DR   Gene3D; 1.10.1670.10; -; 1.
+DR   Gene3D; 1.10.340.30; -; 1.
+DR   Gene3D; 3.90.79.10; -; 1.
+DR   InterPro; IPR005760; A/G_AdeGlyc_MutY.
+DR   InterPro; IPR011257; DNA_glycosylase.
+DR   InterPro; IPR003651; Endouclease3_FeS-loop_motif.
+DR   InterPro; IPR003265; HhH-GPD_domain.
+DR   InterPro; IPR000445; HhH_motif.
+DR   InterPro; IPR023170; HTH_base_excis_C.
+DR   InterPro; IPR029119; MutY_C.
+DR   InterPro; IPR015797; NUDIX_hydrolase_dom-like.
+DR   Pfam; PF10576; EndIII_4Fe-2S; 1.
+DR   Pfam; PF00633; HHH; 1.
+DR   Pfam; PF00730; HhH-GPD; 1.
+DR   Pfam; PF14815; NUDIX_4; 1.
+DR   SMART; SM00478; ENDO3c; 1.
+DR   SMART; SM00525; FES; 1.
+DR   SUPFAM; SSF48150; SSF48150; 1.
+DR   SUPFAM; SSF55811; SSF55811; 1.
+DR   TIGRFAMs; TIGR01084; mutY; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:1RRQ, ECO:0000213|PDB:1RRS};
+KW   4Fe-4S {ECO:0000213|PDB:1RRQ, ECO:0000213|PDB:1RRS};
+KW   Calcium {ECO:0000213|PDB:1RRQ, ECO:0000213|PDB:1RRS};
+KW   Iron {ECO:0000213|PDB:1RRQ, ECO:0000213|PDB:1RRS};
+KW   Iron-sulfur {ECO:0000213|PDB:1RRQ, ECO:0000213|PDB:1RRS};
+KW   Metal-binding {ECO:0000213|PDB:1RRQ, ECO:0000213|PDB:1RRS}.
+FT   METAL       118    118       Calcium. {ECO:0000213|PDB:1RRS}.
+FT   METAL       123    123       Calcium; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:1RRS}.
+FT   METAL       198    198       Iron-sulfur (4Fe-4S).
+FT                                {ECO:0000213|PDB:1RRS,
+FT                                ECO:0000213|PDB:4YOQ,
+FT                                ECO:0000213|PDB:4YPH}.
+FT   METAL       205    205       Iron-sulfur (4Fe-4S).
+FT                                {ECO:0000213|PDB:1RRS,
+FT                                ECO:0000213|PDB:4YOQ,
+FT                                ECO:0000213|PDB:4YPH}.
+FT   METAL       208    208       Iron-sulfur (4Fe-4S).
+FT                                {ECO:0000213|PDB:1RRS,
+FT                                ECO:0000213|PDB:4YOQ,
+FT                                ECO:0000213|PDB:4YPH}.
+FT   METAL       214    214       Iron-sulfur (4Fe-4S).
+FT                                {ECO:0000213|PDB:1RRS,
+FT                                ECO:0000213|PDB:4YOQ,
+FT                                ECO:0000213|PDB:4YPH}.
+SQ   SEQUENCE   366 AA;  41757 MW;  185B0AD5327FE62F CRC64;
+     MTRETERFPA REFQRDLLDW FARERRDLPW RKDRDPYKVW VSEVMLQQTR VETVIPYFEQ
+     FIDRFPTLEA LADADEDEVL KAWEGLGYYS RVRNLHAAVK EVKTRYGGKV PDDPDEFSRL
+     KGVGPYTVGA VLSLAYGVPE PAVNGNVMRV LSRLFLVTDD IAKPSTRKRF EQIVREIMAY
+     ENPGAFNEAL IELGALVCTP RRPSCLLCPV QAYCQAFAEG VAEELPVKMK KTAVKQVPLA
+     VAVLADDEGR VLIRKRDSTG LLANLWEFPS CETDGADGKE KLEQMVGEQY GLQVELTEPI
+     VSFEHAFSHL VWQLTVFPGR LVHGGPVEEP YRLAPEDELK AYAFPVSHQR VWREYKEWAS
+     GVRPPP
+//

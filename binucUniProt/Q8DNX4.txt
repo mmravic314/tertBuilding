@@ -1,0 +1,106 @@
+ID   Q8DNX4_STRR6            Unreviewed;       282 AA.
+AC   Q8DNX4;
+DT   01-MAR-2003, integrated into UniProtKB/TrEMBL.
+DT   01-MAR-2003, sequence version 1.
+DT   22-JUL-2015, entry version 73.
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAL00283.1};
+GN   OrderedLocusNames=spr1479 {ECO:0000313|EMBL:AAL00283.1};
+OS   Streptococcus pneumoniae (strain ATCC BAA-255 / R6).
+OC   Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae;
+OC   Streptococcus.
+OX   NCBI_TaxID=171101 {ECO:0000313|EMBL:AAL00283.1, ECO:0000313|Proteomes:UP000000586};
+RN   [1] {ECO:0000313|EMBL:AAL00283.1, ECO:0000313|Proteomes:UP000000586}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC BAA-255 / R6 {ECO:0000313|Proteomes:UP000000586};
+RX   PubMed=11544234; DOI=10.1128/JB.183.19.5709-5717.2001;
+RA   Hoskins J., Alborn W.E. Jr., Arnold J., Blaszczak L.C., Burgett S.,
+RA   DeHoff B.S., Estrem S.T., Fritz L., Fu D.-J., Fuller W., Geringer C.,
+RA   Gilmour R., Glass J.S., Khoja H., Kraft A.R., Lagace R.E.,
+RA   LeBlanc D.J., Lee L.N., Lefkowitz E.J., Lu J., Matsushima P.,
+RA   McAhren S.M., McHenney M., McLeaster K., Mundy C.W., Nicas T.I.,
+RA   Norris F.H., O'Gara M., Peery R.B., Robertson G.T., Rockey P.,
+RA   Sun P.-M., Winkler M.E., Yang Y., Young-Bellido M., Zhao G.,
+RA   Zook C.A., Baltz R.H., Jaskunas S.R., Rosteck P.R. Jr., Skatrud P.L.,
+RA   Glass J.I.;
+RT   "Genome of the bacterium Streptococcus pneumoniae strain R6.";
+RL   J. Bacteriol. 183:5709-5717(2001).
+RN   [2] {ECO:0000213|PDB:3QFM, ECO:0000213|PDB:3QFN, ECO:0000213|PDB:3QFO}
+RP   X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS) OF 1-262 IN COMPLEX WITH IRON
+RP   AND MANGANESE.
+RA   Jiang Y.L., Zhang J.W., Yu W.L., Cheng W., Zhang C.C., Frolet C.,
+RA   Di-guilmi A.-M., Vernet T., Zhou C.Z., Chen Y.;
+RT   "Structural and enzymatic characterization of a Streptococcal
+RT   ATP/diadenosine polyphosphate and phosphodiester hydrolase
+RT   Spr1479/SapH.";
+RL   Submitted (JAN-2011) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE007317; AAL00283.1; -; Genomic_DNA.
+DR   PIR; F98056; F98056.
+DR   RefSeq; NP_359072.1; NC_003098.1.
+DR   RefSeq; WP_001844266.1; NC_003098.1.
+DR   PDB; 3QFM; X-ray; 1.90 A; A/B=1-262.
+DR   PDB; 3QFN; X-ray; 2.31 A; A/B=1-262.
+DR   PDB; 3QFO; X-ray; 2.20 A; A/B=1-262.
+DR   PDBsum; 3QFM; -.
+DR   PDBsum; 3QFN; -.
+DR   PDBsum; 3QFO; -.
+DR   ProteinModelPortal; Q8DNX4; -.
+DR   STRING; 171101.spr1479; -.
+DR   EnsemblBacteria; AAL00283; AAL00283; spr1479.
+DR   GeneID; 933056; -.
+DR   KEGG; spr:spr1479; -.
+DR   PATRIC; 19702967; VBIStrPne107296_1597.
+DR   eggNOG; COG0639; -.
+DR   HOGENOM; HOG000210453; -.
+DR   OMA; TKLRHTG; -.
+DR   OrthoDB; EOG62K1Z0; -.
+DR   BioCyc; SPNE171101:GJC8-1493-MONOMER; -.
+DR   EvolutionaryTrace; Q8DNX4; -.
+DR   Proteomes; UP000000586; Chromosome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000166; F:nucleotide binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.60.21.10; -; 1.
+DR   InterPro; IPR024654; Calcineurin-like_PHP_lpxH.
+DR   InterPro; IPR029052; Metallo-depent_PP-like.
+DR   InterPro; IPR011152; Pesterase_MJ0912.
+DR   InterPro; IPR000979; Phosphodiesterase_MJ0936/Vps29.
+DR   PANTHER; PTHR11124; PTHR11124; 1.
+DR   Pfam; PF12850; Metallophos_2; 1.
+DR   PIRSF; PIRSF000883; Pesterase_MJ0912; 1.
+DR   SUPFAM; SSF56300; SSF56300; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3QFN};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000586};
+KW   Iron {ECO:0000213|PDB:3QFN}; Manganese {ECO:0000213|PDB:3QFN};
+KW   Metal-binding {ECO:0000213|PDB:3QFN}; Nucleotide-binding;
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000586}.
+FT   NP_BIND      66     67       AMP. {ECO:0000213|PDB:3QFO}.
+FT   NP_BIND     164    166       AMP. {ECO:0000213|PDB:3QFO}.
+FT   METAL        11     11       Iron. {ECO:0000213|PDB:3QFN}.
+FT   METAL        13     13       Iron; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3QFN}.
+FT   METAL        39     39       Iron. {ECO:0000213|PDB:3QFN}.
+FT   METAL        39     39       Manganese. {ECO:0000213|PDB:3QFN}.
+FT   METAL        66     66       Manganese. {ECO:0000213|PDB:3QFN}.
+FT   METAL       128    128       Manganese; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3QFN}.
+FT   METAL       164    164       Manganese; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3QFN}.
+FT   METAL       166    166       Iron; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3QFN}.
+FT   BINDING      13     13       AMP. {ECO:0000213|PDB:3QFO}.
+FT   BINDING      39     39       AMP. {ECO:0000213|PDB:3QFO}.
+FT   BINDING     137    137       AMP. {ECO:0000213|PDB:3QFO}.
+FT   BINDING     141    141       AMP. {ECO:0000213|PDB:3QFO}.
+FT   BINDING     189    189       AMP. {ECO:0000213|PDB:3QFO}.
+FT   BINDING     252    252       AMP. {ECO:0000213|PDB:3QFO}.
+SQ   SEQUENCE   282 AA;  32640 MW;  B1442090A75FCFCC CRC64;
+     MDMTKIALLS DIHGNTTALE AVLADARQLG VDEYWLLGDI LMPGTGRRRI LDLLDQLPIT
+     ARVLGNWEDS LWHGVRKELD STRPSQRYLL RQCQYVLEEI SLEEIEVLHN QPLQIHRQFG
+     DLTVGISHHL PDKNWGRELI HTGKQEEFDR LVTHPPCDIA VYGHIHQQLL RYGTGGQLIV
+     NPGSIGQPFF LDAQLRKDLR AQYMILEFDD KGLVDMDFRR VDYDVAAELQ LAKDLRLPYF
+     EVYYESLVNG IHHTHHQEFL RELAQKEGCD RELDDWLKSG ND
+//

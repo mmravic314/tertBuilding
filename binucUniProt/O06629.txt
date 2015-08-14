@@ -1,0 +1,376 @@
+ID   CPDA_MYCTO              Reviewed;         318 AA.
+AC   P9WP64; L0T7J7; O06629; Q7D993;
+DT   16-APR-2014, integrated into UniProtKB/Swiss-Prot.
+DT   16-APR-2014, sequence version 1.
+DT   22-JUL-2015, entry version 14.
+DE   RecName: Full=3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA {ECO:0000255|HAMAP-Rule:MF_00905};
+DE            Short=3',5'-cyclic AMP phosphodiesterase {ECO:0000255|HAMAP-Rule:MF_00905};
+DE            Short=cAMP phosphodiesterase {ECO:0000255|HAMAP-Rule:MF_00905};
+DE            EC=3.1.4.17 {ECO:0000255|HAMAP-Rule:MF_00905};
+GN   Name=cpdA {ECO:0000255|HAMAP-Rule:MF_00905}; Synonyms=icc;
+GN   OrderedLocusNames=MT0825;
+OS   Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh).
+OC   Bacteria; Actinobacteria; Corynebacteriales; Mycobacteriaceae;
+OC   Mycobacterium; Mycobacterium tuberculosis complex.
+OX   NCBI_TaxID=83331;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=CDC 1551 / Oshkosh;
+RX   PubMed=12218036; DOI=10.1128/JB.184.19.5479-5490.2002;
+RA   Fleischmann R.D., Alland D., Eisen J.A., Carpenter L., White O.,
+RA   Peterson J.D., DeBoy R.T., Dodson R.J., Gwinn M.L., Haft D.H.,
+RA   Hickey E.K., Kolonay J.F., Nelson W.C., Umayam L.A., Ermolaeva M.D.,
+RA   Salzberg S.L., Delcher A., Utterback T.R., Weidman J.F., Khouri H.M.,
+RA   Gill J., Mikula A., Bishai W., Jacobs W.R. Jr., Venter J.C.,
+RA   Fraser C.M.;
+RT   "Whole-genome comparison of Mycobacterium tuberculosis clinical and
+RT   laboratory strains.";
+RL   J. Bacteriol. 184:5479-5490(2002).
+CC   -!- FUNCTION: Hydrolyzes cAMP to 5'-AMP. Plays an important regulatory
+CC       role in modulating the intracellular concentration of cAMP,
+CC       thereby influencing cAMP-dependent processes. May play a role in
+CC       pathogenicity, not only by hydrolyzing cAMP, but also by altering
+CC       properties of the cell wall (By similarity). {ECO:0000255|HAMAP-
+CC       Rule:MF_00905}.
+CC   -!- CATALYTIC ACTIVITY: Adenosine 3',5'-cyclic phosphate + H(2)O =
+CC       adenosine 5'-phosphate. {ECO:0000255|HAMAP-Rule:MF_00905}.
+CC   -!- COFACTOR:
+CC       Name=Fe(3+); Xref=ChEBI:CHEBI:29034; Evidence={ECO:0000250};
+CC       Note=Binds 1 Fe(3+) ion per subunit. {ECO:0000250};
+CC   -!- COFACTOR:
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035; Evidence={ECO:0000250};
+CC       Note=Binds 1 Mn(2+) ion per subunit. {ECO:0000250};
+CC   -!- SUBUNIT: Homodimer. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250}. Cell membrane
+CC       {ECO:0000250}. Secreted, cell wall {ECO:0000250}.
+CC       Note=Localization to the cell membrane and cell wall could be due
+CC       to a specialized secretion system operative in mycobacteria.
+CC       {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the cAMP phosphodiesterase class-III
+CC       family. {ECO:0000255|HAMAP-Rule:MF_00905}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE000516; AAK45067.1; -; Genomic_DNA.
+DR   PIR; F70536; F70536.
+DR   RefSeq; WP_003404120.1; NZ_KK341227.1.
+DR   ProteinModelPortal; P9WP64; -.
+DR   SMR; P9WP64; 4-298.
+DR   EnsemblBacteria; AAK45067; AAK45067; MT0825.
+DR   KEGG; mtc:MT0825; -.
+DR   Proteomes; UP000001020; Chromosome.
+DR   GO; GO:0005618; C:cell wall; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-KW.
+DR   GO; GO:0005886; C:plasma membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0004115; F:3',5'-cyclic-AMP phosphodiesterase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0000166; F:nucleotide binding; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 3.60.21.10; -; 1.
+DR   HAMAP; MF_00905; cAMP_phophodiest_CpdA; 1.
+DR   InterPro; IPR004843; Calcineurin-like_PHP_apaH.
+DR   InterPro; IPR026575; cAMP_Pdiest_CpdA.
+DR   InterPro; IPR029052; Metallo-depent_PP-like.
+DR   Pfam; PF00149; Metallophos; 1.
+DR   SUPFAM; SSF56300; SSF56300; 1.
+PE   3: Inferred from homology;
+KW   cAMP; Cell membrane; Cell wall; Complete proteome; Cytoplasm;
+KW   Hydrolase; Iron; Manganese; Membrane; Metal-binding;
+KW   Nucleotide-binding; Secreted.
+FT   CHAIN         1    318       3',5'-cyclic adenosine monophosphate
+FT                                phosphodiesterase CpdA.
+FT                                /FTId=PRO_0000427006.
+FT   NP_BIND      97     98       cAMP. {ECO:0000255|HAMAP-Rule:MF_00905}.
+FT   METAL        21     21       Iron. {ECO:0000250}.
+FT   METAL        23     23       Iron. {ECO:0000250}.
+FT   METAL        63     63       Iron. {ECO:0000250}.
+FT   METAL        63     63       Manganese. {ECO:0000250}.
+FT   METAL        97     97       Manganese. {ECO:0000250}.
+FT   METAL       169    169       Manganese. {ECO:0000250}.
+FT   METAL       207    207       Manganese. {ECO:0000250}.
+FT   METAL       209    209       Iron. {ECO:0000250}.
+FT   BINDING      23     23       cAMP. {ECO:0000255|HAMAP-Rule:MF_00905}.
+FT   BINDING      63     63       cAMP. {ECO:0000255|HAMAP-Rule:MF_00905}.
+FT   BINDING     209    209       cAMP. {ECO:0000255|HAMAP-Rule:MF_00905}.
+SQ   SEQUENCE   318 AA;  34233 MW;  7C1B683C5E375B3F CRC64;
+     MHRLRAAEHP RPDYVLLHIS DTHLIGGDRR LYGAVDADDR LGELLEQLNQ SGLRPDAIVF
+     TGDLADKGEP AAYRKLRGLV EPFAAQLGAE LVWVMGNHDD RAELRKFLLD EAPSMAPLDR
+     VCMIDGLRII VLDTSVPGHH HGEIRASQLG WLAEELATPA PDGTILALHH PPIPSVLDMA
+     VTVELRDQAA LGRVLRGTDV RAILAGHLHY STNATFVGIP VSVASATCYT QDLTVAAGGT
+     RGRDGAQGCN LVHVYPDTVV HSVIPLGGGE TVGTFVSPGQ ARRKIAESGI FIEPSRRDSL
+     FKHPPMVLTS SAPRSPVD
+//
+ID   CPDA_MYCTU              Reviewed;         318 AA.
+AC   P9WP65; L0T7J7; O06629; Q7D993;
+DT   16-APR-2014, integrated into UniProtKB/Swiss-Prot.
+DT   16-APR-2014, sequence version 1.
+DT   22-JUL-2015, entry version 14.
+DE   RecName: Full=3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA {ECO:0000255|HAMAP-Rule:MF_00905};
+DE            Short=3',5'-cyclic AMP phosphodiesterase {ECO:0000255|HAMAP-Rule:MF_00905};
+DE            Short=cAMP phosphodiesterase {ECO:0000255|HAMAP-Rule:MF_00905};
+DE            EC=3.1.4.17 {ECO:0000255|HAMAP-Rule:MF_00905};
+GN   Name=cpdA {ECO:0000255|HAMAP-Rule:MF_00905}; Synonyms=icc;
+GN   OrderedLocusNames=Rv0805;
+OS   Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv).
+OC   Bacteria; Actinobacteria; Corynebacteriales; Mycobacteriaceae;
+OC   Mycobacterium; Mycobacterium tuberculosis complex.
+OX   NCBI_TaxID=83332;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 25618 / H37Rv;
+RX   PubMed=9634230; DOI=10.1038/31159;
+RA   Cole S.T., Brosch R., Parkhill J., Garnier T., Churcher C.M.,
+RA   Harris D.E., Gordon S.V., Eiglmeier K., Gas S., Barry C.E. III,
+RA   Tekaia F., Badcock K., Basham D., Brown D., Chillingworth T.,
+RA   Connor R., Davies R.M., Devlin K., Feltwell T., Gentles S., Hamlin N.,
+RA   Holroyd S., Hornsby T., Jagels K., Krogh A., McLean J., Moule S.,
+RA   Murphy L.D., Oliver S., Osborne J., Quail M.A., Rajandream M.A.,
+RA   Rogers J., Rutter S., Seeger K., Skelton S., Squares S., Squares R.,
+RA   Sulston J.E., Taylor K., Whitehead S., Barrell B.G.;
+RT   "Deciphering the biology of Mycobacterium tuberculosis from the
+RT   complete genome sequence.";
+RL   Nature 393:537-544(1998).
+RN   [2]
+RP   FUNCTION, CATALYTIC ACTIVITY, COFACTOR, ENZYME REGULATION,
+RP   BIOPHYSICOCHEMICAL PROPERTIES, SUBUNIT, MUTAGENESIS OF ASP-21; HIS-23;
+RP   ASP-66; ASN-97; HIS-169 AND HIS-207, AND HOMOLOGY MODELING.
+RX   PubMed=16313172; DOI=10.1021/bi0512391;
+RA   Shenoy A.R., Sreenath N., Podobnik M., Kovacevic M.,
+RA   Visweswariah S.S.;
+RT   "The Rv0805 gene from Mycobacterium tuberculosis encodes a 3',5'-
+RT   cyclic nucleotide phosphodiesterase: biochemical and mutational
+RT   analysis.";
+RL   Biochemistry 44:15695-15704(2005).
+RN   [3]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   STRAIN=ATCC 25618 / H37Rv;
+RX   PubMed=21969609; DOI=10.1074/mcp.M111.011627;
+RA   Kelkar D.S., Kumar D., Kumar P., Balakrishnan L., Muthusamy B.,
+RA   Yadav A.K., Shrivastava P., Marimuthu A., Anand S., Sundaram H.,
+RA   Kingsbury R., Harsha H.C., Nair B., Prasad T.S., Chauhan D.S.,
+RA   Katoch K., Katoch V.M., Kumar P., Chaerkady R., Ramachandran S.,
+RA   Dash D., Pandey A.;
+RT   "Proteogenomic analysis of Mycobacterium tuberculosis by high
+RT   resolution mass spectrometry.";
+RL   Mol. Cell. Proteomics 10:M111.011627-M111.011627(2011).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (1.93 ANGSTROMS) OF 3-278 OF WILD-TYPE; MUTANT
+RP   ALA-66 AND MUTANT ALA-97 IN COMPLEXES WITH IRON AND MANGANESE,
+RP   COFACTOR, SUBUNIT, AND MUTAGENESIS OF HIS-140.
+RX   PubMed=17059828; DOI=10.1016/j.jmb.2006.10.005;
+RA   Shenoy A.R., Capuder M., Draskovic P., Lamba D., Visweswariah S.S.,
+RA   Podobnik M.;
+RT   "Structural and biochemical analysis of the Rv0805 cyclic nucleotide
+RT   phosphodiesterase from Mycobacterium tuberculosis.";
+RL   J. Mol. Biol. 365:211-225(2007).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (1.60 ANGSTROMS) OF 2-318 IN COMPLEX WITH IRON;
+RP   MANGANESE AND AMP, FUNCTION, CATALYTIC ACTIVITY, BIOPHYSICOCHEMICAL
+RP   PROPERTIES, SUBUNIT, SUBCELLULAR LOCATION, DOMAIN, AND MUTAGENESIS OF
+RP   ASN-97; HIS-98; HIS-140; HIS-209 AND TYR-229.
+RX   PubMed=19801656; DOI=10.1074/jbc.M109.049635;
+RA   Podobnik M., Tyagi R., Matange N., Dermol U., Gupta A.K., Mattoo R.,
+RA   Seshadri K., Visweswariah S.S.;
+RT   "A mycobacterial cyclic AMP phosphodiesterase that moonlights as a
+RT   modifier of cell wall permeability.";
+RL   J. Biol. Chem. 284:32846-32857(2009).
+CC   -!- FUNCTION: Hydrolyzes cAMP to 5'-AMP. Plays an important regulatory
+CC       role in modulating the intracellular concentration of cAMP,
+CC       thereby influencing cAMP-dependent processes. Can also hydrolyze
+CC       cGMP, p-nitrophenyl phosphate (pNPP), bis-(p-nitrophenyl
+CC       phosphate) (bis(pNPP)), p-nitrophenyl phenylphosphonate (pNPPP)
+CC       and 2',3'-cAMP. May play a role in pathogenicity, not only by
+CC       hydrolyzing cAMP, but also by altering properties of the cell
+CC       wall. {ECO:0000255|HAMAP-Rule:MF_00905,
+CC       ECO:0000269|PubMed:16313172, ECO:0000269|PubMed:19801656}.
+CC   -!- CATALYTIC ACTIVITY: Adenosine 3',5'-cyclic phosphate + H(2)O =
+CC       adenosine 5'-phosphate. {ECO:0000255|HAMAP-Rule:MF_00905,
+CC       ECO:0000269|PubMed:16313172, ECO:0000269|PubMed:19801656}.
+CC   -!- COFACTOR:
+CC       Name=Fe(3+); Xref=ChEBI:CHEBI:29034;
+CC       Note=Binds 1 Fe(3+) ion per subunit.;
+CC   -!- COFACTOR:
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC       Note=Binds 1 Mn(2+) ion per subunit.;
+CC   -!- ENZYME REGULATION: Enhanced by magnesium or manganese. Activity
+CC       decreases in the presence of orthovanadate and phosphotyrosine.
+CC       {ECO:0000269|PubMed:16313172}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=5.5 mM for 3',5'-cAMP {ECO:0000269|PubMed:16313172,
+CC         ECO:0000269|PubMed:19801656};
+CC         KM=0.9 mM for bis(pNPP) {ECO:0000269|PubMed:16313172,
+CC         ECO:0000269|PubMed:19801656};
+CC         KM=0.9 mM for pNPPP {ECO:0000269|PubMed:16313172,
+CC         ECO:0000269|PubMed:19801656};
+CC         KM=1 mM for 2',3'-cAMP {ECO:0000269|PubMed:16313172,
+CC         ECO:0000269|PubMed:19801656};
+CC         Vmax=1.1 umol/min/mg enzyme with 3',5'-cAMP as substrate
+CC         {ECO:0000269|PubMed:16313172, ECO:0000269|PubMed:19801656};
+CC         Vmax=74 umol/min/mg enzyme with bis(pNPP) as substrate
+CC         {ECO:0000269|PubMed:16313172, ECO:0000269|PubMed:19801656};
+CC         Vmax=112.7 umol/min/mg enzyme with pNPPP as substrate
+CC         {ECO:0000269|PubMed:16313172, ECO:0000269|PubMed:19801656};
+CC         Vmax=14.7 umol/min/mg enzyme with 2',3'-cAMP as substrate
+CC         {ECO:0000269|PubMed:16313172, ECO:0000269|PubMed:19801656};
+CC         Vmax=0.017 umol/min/mg enzyme with pNPP as substrate
+CC         {ECO:0000269|PubMed:16313172, ECO:0000269|PubMed:19801656};
+CC       pH dependence:
+CC         Optimum pH is 8.5-9.5. {ECO:0000269|PubMed:16313172,
+CC         ECO:0000269|PubMed:19801656};
+CC   -!- SUBUNIT: Homodimer. {ECO:0000269|PubMed:16313172,
+CC       ECO:0000269|PubMed:17059828, ECO:0000269|PubMed:19801656}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:19801656}.
+CC       Cell membrane {ECO:0000269|PubMed:19801656}. Secreted, cell wall
+CC       {ECO:0000269|PubMed:19801656}. Note=Localization to the cell
+CC       membrane and cell wall could be due to a specialized secretion
+CC       system operative in mycobacteria.
+CC   -!- DOMAIN: The C-terminal domain is used to better adjust the
+CC       substrates into the active sites and to facilitate subcellular
+CC       localization of the protein. {ECO:0000269|PubMed:19801656}.
+CC   -!- SIMILARITY: Belongs to the cAMP phosphodiesterase class-III
+CC       family. {ECO:0000255|HAMAP-Rule:MF_00905}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AL123456; CCP43553.1; -; Genomic_DNA.
+DR   PIR; F70536; F70536.
+DR   RefSeq; NP_215320.1; NC_000962.3.
+DR   RefSeq; WP_003404120.1; NZ_KK339370.1.
+DR   PDB; 2HY1; X-ray; 1.93 A; A=3-278.
+DR   PDB; 2HYO; X-ray; 2.25 A; A=3-278.
+DR   PDB; 2HYP; X-ray; 2.05 A; A=3-278.
+DR   PDB; 3IB7; X-ray; 1.60 A; A=2-318.
+DR   PDB; 3IB8; X-ray; 1.80 A; A=2-318.
+DR   PDBsum; 2HY1; -.
+DR   PDBsum; 2HYO; -.
+DR   PDBsum; 2HYP; -.
+DR   PDBsum; 3IB7; -.
+DR   PDBsum; 3IB8; -.
+DR   ProteinModelPortal; P9WP65; -.
+DR   SMR; P9WP65; 4-298.
+DR   STRING; 83332.Rv0805; -.
+DR   EnsemblBacteria; CCP43553; CCP43553; Rv0805.
+DR   GeneID; 885326; -.
+DR   KEGG; mtu:Rv0805; -.
+DR   KEGG; mtv:RVBD_0805; -.
+DR   TubercuList; Rv0805; -.
+DR   OMA; SEYQLEW; -.
+DR   PhylomeDB; P9WP65; -.
+DR   Proteomes; UP000001584; Chromosome.
+DR   GO; GO:0005618; C:cell wall; IDA:MTBBASE.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-KW.
+DR   GO; GO:0005886; C:plasma membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0008663; F:2',3'-cyclic-nucleotide 2'-phosphodiesterase activity; IDA:MTBBASE.
+DR   GO; GO:0004115; F:3',5'-cyclic-AMP phosphodiesterase activity; IDA:MTBBASE.
+DR   GO; GO:0008199; F:ferric iron binding; IDA:MTBBASE.
+DR   GO; GO:0005506; F:iron ion binding; IDA:MTBBASE.
+DR   GO; GO:0030145; F:manganese ion binding; IDA:MTBBASE.
+DR   GO; GO:0000166; F:nucleotide binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0016791; F:phosphatase activity; IDA:MTBBASE.
+DR   GO; GO:0042301; F:phosphate ion binding; IDA:MTBBASE.
+DR   GO; GO:0006198; P:cAMP catabolic process; IDA:MTBBASE.
+DR   GO; GO:0042545; P:cell wall modification; IDA:MTBBASE.
+DR   GO; GO:0016311; P:dephosphorylation; IDA:GOC.
+DR   GO; GO:0009405; P:pathogenesis; IMP:MTBBASE.
+DR   Gene3D; 3.60.21.10; -; 1.
+DR   HAMAP; MF_00905; cAMP_phophodiest_CpdA; 1.
+DR   InterPro; IPR004843; Calcineurin-like_PHP_apaH.
+DR   InterPro; IPR026575; cAMP_Pdiest_CpdA.
+DR   InterPro; IPR029052; Metallo-depent_PP-like.
+DR   Pfam; PF00149; Metallophos; 1.
+DR   SUPFAM; SSF56300; SSF56300; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; cAMP; Cell membrane; Cell wall; Complete proteome;
+KW   Cytoplasm; Hydrolase; Iron; Manganese; Membrane; Metal-binding;
+KW   Nucleotide-binding; Reference proteome; Secreted.
+FT   CHAIN         1    318       3',5'-cyclic adenosine monophosphate
+FT                                phosphodiesterase CpdA.
+FT                                /FTId=PRO_0000413370.
+FT   NP_BIND      97     98       cAMP.
+FT   METAL        21     21       Iron. {ECO:0000269|PubMed:19801656}.
+FT   METAL        23     23       Iron. {ECO:0000269|PubMed:19801656}.
+FT   METAL        63     63       Iron. {ECO:0000269|PubMed:19801656}.
+FT   METAL        63     63       Manganese. {ECO:0000269|PubMed:19801656}.
+FT   METAL        97     97       Manganese. {ECO:0000269|PubMed:19801656}.
+FT   METAL       169    169       Manganese. {ECO:0000269|PubMed:19801656}.
+FT   METAL       207    207       Manganese. {ECO:0000269|PubMed:19801656}.
+FT   METAL       209    209       Iron. {ECO:0000269|PubMed:19801656}.
+FT   BINDING      23     23       cAMP.
+FT   BINDING      63     63       cAMP.
+FT   BINDING     209    209       cAMP.
+FT   MUTAGEN      21     21       D->A: 90% decrease in bis(pNPP)
+FT                                hydrolysis. Does not affect cAMP
+FT                                hydrolysis.
+FT                                {ECO:0000269|PubMed:16313172}.
+FT   MUTAGEN      23     23       H->A: 50% decrease in bis(pNPP)
+FT                                hydrolysis. Does not affect cAMP
+FT                                hydrolysis.
+FT                                {ECO:0000269|PubMed:16313172}.
+FT   MUTAGEN      66     66       D->A: 25% decrease in bis(pNPP)
+FT                                hydrolysis. 70% decrease in cAMP
+FT                                hydrolysis.
+FT                                {ECO:0000269|PubMed:16313172}.
+FT   MUTAGEN      97     97       N->A: Loss of bis(pNPP) and 3',5'-cAMP
+FT                                hydrolysis. Strong decrease in 2',3'-cAMP
+FT                                hydrolysis. {ECO:0000269|PubMed:16313172,
+FT                                ECO:0000269|PubMed:19801656}.
+FT   MUTAGEN      98     98       H->A: 40% decrease in bis(pNPP)
+FT                                hydrolysis. Strong decrease in 3',5'-cAMP
+FT                                and 2',3'-cAMP hydrolysis.
+FT                                {ECO:0000269|PubMed:19801656}.
+FT   MUTAGEN     140    140       H->A: No change in activity.
+FT                                {ECO:0000269|PubMed:17059828,
+FT                                ECO:0000269|PubMed:19801656}.
+FT   MUTAGEN     169    169       H->A: 50% decrease in bis(pNPP)
+FT                                hydrolysis. Does not affect cAMP
+FT                                hydrolysis.
+FT                                {ECO:0000269|PubMed:16313172}.
+FT   MUTAGEN     207    207       H->A: 75% decrease in bis(pNPP)
+FT                                hydrolysis. Does not affect cAMP
+FT                                hydrolysis.
+FT                                {ECO:0000269|PubMed:16313172}.
+FT   MUTAGEN     209    209       H->A: 80% decrease in hydrolysis of
+FT                                3',5'-cAMP and bis(pNPP). 40% decrease in
+FT                                2',3'-cAMP hydrolysis.
+FT                                {ECO:0000269|PubMed:19801656}.
+FT   MUTAGEN     229    229       Y->A: 40% decrease in bis(pNPP)
+FT                                hydrolysis. 80% decrease in 3',5'-cAMP
+FT                                and 2',3'-cAMP hydrolysis.
+FT                                {ECO:0000269|PubMed:19801656}.
+FT   STRAND       13     19       {ECO:0000244|PDB:3IB7}.
+FT   STRAND       26     28       {ECO:0000244|PDB:3IB7}.
+FT   TURN         32     34       {ECO:0000244|PDB:3IB7}.
+FT   HELIX        37     51       {ECO:0000244|PDB:3IB7}.
+FT   STRAND       56     60       {ECO:0000244|PDB:3IB7}.
+FT   STRAND       65     67       {ECO:0000244|PDB:2HY1}.
+FT   HELIX        70     87       {ECO:0000244|PDB:3IB7}.
+FT   STRAND       90     93       {ECO:0000244|PDB:3IB7}.
+FT   HELIX       101    109       {ECO:0000244|PDB:3IB7}.
+FT   STRAND      120    124       {ECO:0000244|PDB:3IB7}.
+FT   STRAND      127    131       {ECO:0000244|PDB:3IB7}.
+FT   STRAND      140    142       {ECO:0000244|PDB:2HY1}.
+FT   HELIX       146    155       {ECO:0000244|PDB:3IB7}.
+FT   STRAND      164    167       {ECO:0000244|PDB:3IB7}.
+FT   HELIX       178    183       {ECO:0000244|PDB:3IB7}.
+FT   STRAND      184    186       {ECO:0000244|PDB:3IB7}.
+FT   HELIX       188    195       {ECO:0000244|PDB:3IB7}.
+FT   STRAND      198    205       {ECO:0000244|PDB:3IB7}.
+FT   STRAND      207    210       {ECO:0000244|PDB:3IB7}.
+FT   STRAND      212    216       {ECO:0000244|PDB:3IB7}.
+FT   STRAND      219    223       {ECO:0000244|PDB:3IB7}.
+FT   STRAND      242    244       {ECO:0000244|PDB:3IB7}.
+FT   STRAND      248    254       {ECO:0000244|PDB:3IB7}.
+FT   STRAND      259    265       {ECO:0000244|PDB:3IB7}.
+FT   HELIX       278    287       {ECO:0000244|PDB:3IB7}.
+SQ   SEQUENCE   318 AA;  34233 MW;  7C1B683C5E375B3F CRC64;
+     MHRLRAAEHP RPDYVLLHIS DTHLIGGDRR LYGAVDADDR LGELLEQLNQ SGLRPDAIVF
+     TGDLADKGEP AAYRKLRGLV EPFAAQLGAE LVWVMGNHDD RAELRKFLLD EAPSMAPLDR
+     VCMIDGLRII VLDTSVPGHH HGEIRASQLG WLAEELATPA PDGTILALHH PPIPSVLDMA
+     VTVELRDQAA LGRVLRGTDV RAILAGHLHY STNATFVGIP VSVASATCYT QDLTVAAGGT
+     RGRDGAQGCN LVHVYPDTVV HSVIPLGGGE TVGTFVSPGQ ARRKIAESGI FIEPSRRDSL
+     FKHPPMVLTS SAPRSPVD
+//

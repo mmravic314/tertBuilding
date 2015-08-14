@@ -1,0 +1,92 @@
+ID   THIO_STAAU              Reviewed;         104 AA.
+AC   P0A0K6; Q9ZEH4;
+DT   01-MAR-2005, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAR-2005, sequence version 1.
+DT   22-JUL-2015, entry version 53.
+DE   RecName: Full=Thioredoxin;
+DE            Short=Trx;
+GN   Name=trxA;
+OS   Staphylococcus aureus.
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcus.
+OX   NCBI_TaxID=1280;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND INDUCTION.
+RC   STRAIN=ATCC 9144 / Oxford / NCIB 6571 / NCTC 6571;
+RX   PubMed=14702300; DOI=10.1128/JB.186.2.326-334.2004;
+RA   Uziel O., Borovok I., Schreiber R., Cohen G., Aharonowitz Y.;
+RT   "Transcriptional regulation of the Staphylococcus aureus thioredoxin
+RT   and thioredoxin reductase genes in response to oxygen and disulfide
+RT   stress.";
+RL   J. Bacteriol. 186:326-334(2004).
+CC   -!- FUNCTION: Component of the thioredoxin-thioredoxin reductase
+CC       system. Participates in various redox reactions through the
+CC       reversible oxidation of its active center dithiol to a disulfide
+CC       and catalyzes dithiol-disulfide exchange reactions (By
+CC       similarity). {ECO:0000250}.
+CC   -!- INDUCTION: Expressed in both aerobic and anaerobic conditions.
+CC       {ECO:0000269|PubMed:14702300}.
+CC   -!- SIMILARITY: Belongs to the thioredoxin family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 thioredoxin domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00691}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AJ223480; CAA11404.1; -; Genomic_DNA.
+DR   RefSeq; WP_001018928.1; NZ_LN626917.1.
+DR   PDB; 2O7K; X-ray; 2.20 A; A=1-104.
+DR   PDB; 2O85; X-ray; 2.20 A; A=1-104.
+DR   PDB; 2O87; X-ray; 2.40 A; A=2-104.
+DR   PDB; 2O89; X-ray; 2.55 A; A=1-104.
+DR   PDB; 3DIE; X-ray; 1.85 A; A/B=1-104.
+DR   PDBsum; 2O7K; -.
+DR   PDBsum; 2O85; -.
+DR   PDBsum; 2O87; -.
+DR   PDBsum; 2O89; -.
+DR   PDBsum; 3DIE; -.
+DR   ProteinModelPortal; P0A0K6; -.
+DR   SMR; P0A0K6; 2-104.
+DR   STRING; 93062.SACOL1155; -.
+DR   PRIDE; P0A0K6; -.
+DR   GeneID; 23196953; -.
+DR   EvolutionaryTrace; P0A0K6; -.
+DR   GO; GO:0005623; C:cell; IEA:GOC.
+DR   GO; GO:0015035; F:protein disulfide oxidoreductase activity; IEA:InterPro.
+DR   GO; GO:0045454; P:cell redox homeostasis; IEA:InterPro.
+DR   GO; GO:0006662; P:glycerol ether metabolic process; IEA:InterPro.
+DR   Gene3D; 3.40.30.10; -; 1.
+DR   InterPro; IPR005746; Thioredoxin.
+DR   InterPro; IPR012336; Thioredoxin-like_fold.
+DR   InterPro; IPR017937; Thioredoxin_CS.
+DR   InterPro; IPR013766; Thioredoxin_domain.
+DR   PANTHER; PTHR10438; PTHR10438; 1.
+DR   Pfam; PF00085; Thioredoxin; 1.
+DR   PIRSF; PIRSF000077; Thioredoxin; 1.
+DR   SUPFAM; SSF52833; SSF52833; 1.
+DR   TIGRFAMs; TIGR01068; thioredoxin; 1.
+DR   PROSITE; PS00194; THIOREDOXIN_1; 1.
+DR   PROSITE; PS51352; THIOREDOXIN_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Disulfide bond; Electron transport; Redox-active center;
+KW   Transport.
+FT   CHAIN         1    104       Thioredoxin.
+FT                                /FTId=PRO_0000120131.
+FT   DOMAIN        2    104       Thioredoxin. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00691}.
+FT   DISULFID     29     32       Redox-active. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00691}.
+FT   TURN          8     10       {ECO:0000244|PDB:3DIE}.
+FT   HELIX        11     14       {ECO:0000244|PDB:3DIE}.
+FT   STRAND       17     25       {ECO:0000244|PDB:3DIE}.
+FT   HELIX        30     45       {ECO:0000244|PDB:3DIE}.
+FT   TURN         46     49       {ECO:0000244|PDB:3DIE}.
+FT   STRAND       51     56       {ECO:0000244|PDB:3DIE}.
+FT   TURN         57     59       {ECO:0000244|PDB:3DIE}.
+FT   HELIX        61     66       {ECO:0000244|PDB:3DIE}.
+FT   STRAND       71     79       {ECO:0000244|PDB:3DIE}.
+FT   STRAND       82     89       {ECO:0000244|PDB:3DIE}.
+FT   HELIX        93    101       {ECO:0000244|PDB:3DIE}.
+SQ   SEQUENCE   104 AA;  11440 MW;  FE61559DB27B3920 CRC64;
+     MAIVKVTDAD FDSKVESGVQ LVDFWATWCG PCKMIAPVLE ELAADYEGKA DILKLDVDEN
+     PSTAAKYEVM SIPTLIVFKD GQPVDKVVGF QPKENLAEVL DKHL
+//

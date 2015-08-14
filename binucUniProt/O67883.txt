@@ -1,0 +1,165 @@
+ID   THIL_AQUAE              Reviewed;         306 AA.
+AC   O67883;
+DT   22-FEB-2012, integrated into UniProtKB/Swiss-Prot.
+DT   01-AUG-1998, sequence version 1.
+DT   22-JUL-2015, entry version 92.
+DE   RecName: Full=Thiamine-monophosphate kinase;
+DE            Short=TMP kinase;
+DE            Short=Thiamine-phosphate kinase;
+DE            EC=2.7.4.16;
+GN   Name=thiL; OrderedLocusNames=aq_2119;
+OS   Aquifex aeolicus (strain VF5).
+OC   Bacteria; Aquificae; Aquificales; Aquificaceae; Aquifex.
+OX   NCBI_TaxID=224324;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=VF5;
+RX   PubMed=9537320; DOI=10.1038/32831;
+RA   Deckert G., Warren P.V., Gaasterland T., Young W.G., Lenox A.L.,
+RA   Graham D.E., Overbeek R., Snead M.A., Keller M., Aujay M., Huber R.,
+RA   Feldman R.A., Short J.M., Olsen G.J., Swanson R.V.;
+RT   "The complete genome of the hyperthermophilic bacterium Aquifex
+RT   aeolicus.";
+RL   Nature 392:353-358(1998).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (1.48 ANGSTROMS) IN COMPLEXES WITH ATP; ADP;
+RP   TMP; TPP AND MAGNESIUM, FUNCTION, DISULFIDE BOND, SUBUNIT, AND
+RP   REACTION MECHANISM.
+RX   PubMed=18311927; DOI=10.1021/bi800041h;
+RA   McCulloch K.M., Kinsland C., Begley T.P., Ealick S.E.;
+RT   "Structural studies of thiamin monophosphate kinase in complex with
+RT   substrates and products.";
+RL   Biochemistry 47:3810-3821(2008).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (2.65 ANGSTROMS).
+RG   New York structural genomics research consortium (NYSGRC);
+RT   "Crystal structure of thiamine monophosphate kinase (ThiL) from
+RT   Aquifex Aeolicus.";
+RL   Submitted (FEB-2009) to the PDB data bank.
+CC   -!- FUNCTION: Catalyzes the ATP-dependent phosphorylation of thiamine-
+CC       monophosphate (TMP) to form thiamine-pyrophosphate (TPP), the
+CC       active form of vitamin B1. {ECO:0000305|PubMed:18311927}.
+CC   -!- CATALYTIC ACTIVITY: ATP + thiamine phosphate = ADP + thiamine
+CC       diphosphate.
+CC   -!- PATHWAY: Cofactor biosynthesis; thiamine diphosphate biosynthesis;
+CC       thiamine diphosphate from thiamine phosphate: step 1/1.
+CC   -!- SUBUNIT: Homodimer. {ECO:0000269|PubMed:18311927}.
+CC   -!- MISCELLANEOUS: Reaction mechanism of ThiL seems to utilize a
+CC       direct, inline transfer of the gamma-phosphate of ATP to TMP
+CC       rather than a phosphorylated enzyme intermediate.
+CC   -!- SIMILARITY: Belongs to the thiamine-monophosphate kinase family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE000657; AAC07848.1; -; Genomic_DNA.
+DR   PIR; G70481; G70481.
+DR   RefSeq; NP_214452.1; NC_000918.1.
+DR   RefSeq; WP_010881388.1; NC_000918.1.
+DR   PDB; 1VQV; X-ray; 2.65 A; A/B=1-306.
+DR   PDB; 3C9R; X-ray; 2.30 A; A/B=1-306.
+DR   PDB; 3C9S; X-ray; 2.20 A; A/B=1-306.
+DR   PDB; 3C9T; X-ray; 2.60 A; A/B=1-306.
+DR   PDB; 3C9U; X-ray; 1.48 A; A/B=1-306.
+DR   PDBsum; 1VQV; -.
+DR   PDBsum; 3C9R; -.
+DR   PDBsum; 3C9S; -.
+DR   PDBsum; 3C9T; -.
+DR   PDBsum; 3C9U; -.
+DR   ProteinModelPortal; O67883; -.
+DR   SMR; O67883; 1-306.
+DR   STRING; 224324.aq_2119; -.
+DR   EnsemblBacteria; AAC07848; AAC07848; aq_2119.
+DR   GeneID; 1193872; -.
+DR   KEGG; aae:aq_2119; -.
+DR   PATRIC; 20961084; VBIAquAeo85532_1635.
+DR   HOGENOM; HOG000228428; -.
+DR   InParanoid; O67883; -.
+DR   KO; K00946; -.
+DR   OMA; MTDNSDG; -.
+DR   OrthoDB; EOG6RRKQ4; -.
+DR   BioCyc; AAEO224324:GJBH-1515-MONOMER; -.
+DR   BRENDA; 2.7.4.16; 396.
+DR   UniPathway; UPA00060; UER00142.
+DR   EvolutionaryTrace; O67883; -.
+DR   Proteomes; UP000000798; Chromosome.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0009030; F:thiamine-phosphate kinase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0009228; P:thiamine biosynthetic process; IEA:UniProtKB-KW.
+DR   GO; GO:0009229; P:thiamine diphosphate biosynthetic process; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 3.30.1330.10; -; 1.
+DR   Gene3D; 3.90.650.10; -; 1.
+DR   HAMAP; MF_02128; TMP_kinase; 1.
+DR   InterPro; IPR010918; AIR_synth_C_dom.
+DR   InterPro; IPR000728; AIR_synth_N_dom.
+DR   InterPro; IPR016188; PurM_N-like.
+DR   InterPro; IPR006283; ThiL.
+DR   PANTHER; PTHR30270; PTHR30270; 1.
+DR   Pfam; PF00586; AIRS; 1.
+DR   Pfam; PF02769; AIRS_C; 1.
+DR   PIRSF; PIRSF005303; Thiam_monoph_kin; 1.
+DR   SUPFAM; SSF55326; SSF55326; 1.
+DR   SUPFAM; SSF56042; SSF56042; 1.
+DR   TIGRFAMs; TIGR01379; thiL; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; ATP-binding; Complete proteome; Disulfide bond; Kinase;
+KW   Magnesium; Metal-binding; Nucleotide-binding; Reference proteome;
+KW   Thiamine biosynthesis; Transferase.
+FT   CHAIN         1    306       Thiamine-monophosphate kinase.
+FT                                /FTId=PRO_0000415517.
+FT   NP_BIND     118    119       ATP.
+FT   METAL        27     27       Magnesium 3.
+FT   METAL        27     27       Magnesium 4; via carbonyl oxygen.
+FT   METAL        41     41       Magnesium 4.
+FT   METAL        42     42       Magnesium 1; via carbonyl oxygen.
+FT   METAL        43     43       Magnesium 1.
+FT   METAL        43     43       Magnesium 2.
+FT   METAL        71     71       Magnesium 2.
+FT   METAL        71     71       Magnesium 3.
+FT   METAL        71     71       Magnesium 4.
+FT   METAL       119    119       Magnesium 1.
+FT   METAL       207    207       Magnesium 3.
+FT   METAL       210    210       Magnesium 5.
+FT   BINDING      50     50       Substrate.
+FT   BINDING     101    101       ATP.
+FT   BINDING     142    142       ATP.
+FT   BINDING     209    209       ATP.
+FT   BINDING     260    260       Substrate.
+FT   BINDING     303    303       Substrate.
+FT   DISULFID     34     34       Interchain.
+FT                                {ECO:0000269|PubMed:18311927}.
+FT   HELIX         3      6       {ECO:0000244|PDB:3C9U}.
+FT   HELIX         8     19       {ECO:0000244|PDB:3C9U}.
+FT   STRAND       26     33       {ECO:0000244|PDB:3C9U}.
+FT   STRAND       36     46       {ECO:0000244|PDB:3C9U}.
+FT   TURN         47     49       {ECO:0000244|PDB:3C9U}.
+FT   HELIX        57     74       {ECO:0000244|PDB:3C9U}.
+FT   STRAND       78     88       {ECO:0000244|PDB:3C9U}.
+FT   HELIX        94    111       {ECO:0000244|PDB:3C9U}.
+FT   STRAND      114    122       {ECO:0000244|PDB:3C9U}.
+FT   STRAND      127    138       {ECO:0000244|PDB:3C9U}.
+FT   STRAND      150    155       {ECO:0000244|PDB:3C9U}.
+FT   HELIX       159    168       {ECO:0000244|PDB:3C9U}.
+FT   HELIX       176    186       {ECO:0000244|PDB:3C9U}.
+FT   HELIX       192    194       {ECO:0000244|PDB:3C9U}.
+FT   HELIX       195    201       {ECO:0000244|PDB:3C9U}.
+FT   STRAND      203    210       {ECO:0000244|PDB:3C9U}.
+FT   HELIX       212    223       {ECO:0000244|PDB:3C9U}.
+FT   STRAND      226    229       {ECO:0000244|PDB:3C9U}.
+FT   HELIX       231    233       {ECO:0000244|PDB:3C9U}.
+FT   HELIX       238    246       {ECO:0000244|PDB:3C9U}.
+FT   HELIX       251    257       {ECO:0000244|PDB:3C9U}.
+FT   STRAND      263    268       {ECO:0000244|PDB:3C9U}.
+FT   HELIX       270    272       {ECO:0000244|PDB:3C9U}.
+FT   TURN        275    278       {ECO:0000244|PDB:3C9T}.
+FT   STRAND      279    293       {ECO:0000244|PDB:3C9U}.
+SQ   SEQUENCE   306 AA;  34413 MW;  B5E5E63489D9BB32 CRC64;
+     MRLKELGEFG LIDLIKKTLE SKVIGDDTAP VEYCSKKLLL TTDVLNEGVH FLRSYIPEAV
+     GWKAISVNVS DVIANGGLPK WALISLNLPE DLEVSYVERF YIGVKRACEF YKCEVVGGNI
+     SKSEKIGISV FLVGETERFV GRDGARLGDS VFVSGTLGDS RAGLELLLME KEEYEPFELA
+     LIQRHLRPTA RIDYVKHIQK YANASMDISD GLVADANHLA QRSGVKIEIL SEKLPLSNEL
+     KMYCEKYGKN PIEYALFGGE DYQLLFTHPK ERWNPFLDMT EIGRVEEGEG VFVDGKKVEP
+     KGWKHF
+//

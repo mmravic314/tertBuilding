@@ -1,0 +1,215 @@
+ID   VANA_ENTFC              Reviewed;         343 AA.
+AC   P25051;
+DT   01-MAY-1992, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-1992, sequence version 1.
+DT   22-JUL-2015, entry version 113.
+DE   RecName: Full=Vancomycin/teicoplanin A-type resistance protein VanA;
+DE            EC=6.1.2.1;
+DE   AltName: Full=D-alanine--D-lactate ligase;
+DE   AltName: Full=VanA ligase;
+GN   Name=vanA;
+OS   Enterococcus faecium (Streptococcus faecium).
+OG   Plasmid pIP816.
+OC   Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+OC   Enterococcus.
+OX   NCBI_TaxID=1352;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND PROTEIN SEQUENCE OF 1-9.
+RC   STRAIN=BM4147;
+RX   PubMed=2266943; DOI=10.1007/BF00262430;
+RA   Dutka-Malen S., Molinas C., Arthur M., Courvalin P.;
+RT   "The VANA glycopeptide resistance protein is related to D-alanyl-D-
+RT   alanine ligase cell wall biosynthesis enzymes.";
+RL   Mol. Gen. Genet. 224:364-372(1990).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=BM4147;
+RX   PubMed=8380148;
+RA   Arthur M., Molinas C., Depardieu F., Courvalin P.;
+RT   "Characterization of Tn1546, a Tn3-related transposon conferring
+RT   glycopeptide resistance by synthesis of depsipeptide peptidoglycan
+RT   precursors in Enterococcus faecium BM4147.";
+RL   J. Bacteriol. 175:117-127(1993).
+RN   [3]
+RP   FUNCTION, CATALYTIC ACTIVITY, SUBSTRATE SPECIFICITY, AND
+RP   BIOPHYSICOCHEMICAL PROPERTIES.
+RC   STRAIN=BM4147;
+RX   PubMed=1931965; DOI=10.1021/bi00107a007;
+RA   Bugg T.D.H., Wright G.D., Dutka-Malen S., Arthur M., Courvalin P.,
+RA   Walsh C.T.;
+RT   "Molecular basis for vancomycin resistance in Enterococcus faecium
+RT   BM4147: biosynthesis of a depsipeptide peptidoglycan precursor by
+RT   vancomycin resistance proteins VanH and VanA.";
+RL   Biochemistry 30:10408-10415(1991).
+RN   [4]
+RP   CHARACTERIZATION OF REACTION PRODUCT.
+RX   PubMed=1522072;
+RA   Handwerger S., Pucci M.J., Volk K.J., Liu J., Lee M.S.;
+RT   "The cytoplasmic peptidoglycan precursor of vancomycin-resistant
+RT   Enterococcus faecalis terminates in lactate.";
+RL   J. Bacteriol. 174:5982-5984(1992).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS) IN COMPLEX WITH MAGNESIUM; ADP
+RP   AND INHIBITOR.
+RX   PubMed=10908650; DOI=10.1073/pnas.150116497;
+RA   Roper D.I., Huyton T., Vagin A., Dodson G.;
+RT   "The molecular basis of vancomycin resistance in clinically relevant
+RT   Enterococci: crystal structure of D-alanyl-D-lactate ligase (VanA).";
+RL   Proc. Natl. Acad. Sci. U.S.A. 97:8921-8925(2000).
+CC   -!- FUNCTION: Required for high-level resistance to glycopeptide
+CC       antibiotics. D-Ala--D-Ala ligase of altered specificity which
+CC       catalyzes ester bond formation between D-Ala and various D-hydroxy
+CC       acids; produces a peptidoglycan which does not terminate in D-
+CC       alanine but in D-lactate, thus preventing vancomycin or
+CC       teicoplanin binding. {ECO:0000269|PubMed:1931965}.
+CC   -!- CATALYTIC ACTIVITY: D-alanine + (R)-lactate + ATP = D-alanyl-(R)-
+CC       lactate + ADP + phosphate. {ECO:0000269|PubMed:1931965}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035; Evidence={ECO:0000250};
+CC       Note=Binds 2 magnesium or manganese ions per subunit.
+CC       {ECO:0000250};
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=7.1 mM for D-lactate {ECO:0000269|PubMed:1931965};
+CC         KM=3.8 mM for D-alanine {ECO:0000269|PubMed:1931965};
+CC         KM=0.6 mM for 2-hydroxybutyrate {ECO:0000269|PubMed:1931965};
+CC         KM=3.2 mM for 2-hydroxyvalerate {ECO:0000269|PubMed:1931965};
+CC         KM=11 mM for 2-hydroxycaproate {ECO:0000269|PubMed:1931965};
+CC   -!- SUBCELLULAR LOCATION: Cell membrane; Peripheral membrane protein;
+CC       Cytoplasmic side.
+CC   -!- INDUCTION: By vancomycin, mediated by VanS/VanR.
+CC   -!- SIMILARITY: Belongs to the D-alanine--D-alanine ligase family.
+CC       {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 ATP-grasp domain. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X56895; CAA40215.1; -; Genomic_DNA.
+DR   EMBL; M97297; AAA65956.1; -; Genomic_DNA.
+DR   PIR; S12254; CESOVM.
+DR   RefSeq; WP_001079845.1; NZ_KN880430.1.
+DR   RefSeq; YP_001019035.1; NC_008821.1.
+DR   RefSeq; YP_001974796.1; NC_010980.1.
+DR   RefSeq; YP_002128399.1; NC_011140.1.
+DR   RefSeq; YP_009073944.1; NG_034403.1.
+DR   RefSeq; YP_009086373.1; NG_039568.1.
+DR   RefSeq; YP_009090104.1; NG_041525.1.
+DR   RefSeq; YP_976077.1; NC_008768.1.
+DR   PDB; 1E4E; X-ray; 2.50 A; A/B=1-343.
+DR   PDBsum; 1E4E; -.
+DR   ProteinModelPortal; P25051; -.
+DR   SMR; P25051; 2-342.
+DR   BindingDB; P25051; -.
+DR   ChEMBL; CHEMBL6037; -.
+DR   GeneID; 4670249; -.
+DR   GeneID; 4783144; -.
+DR   GeneID; 6385877; -.
+DR   GeneID; 6779647; -.
+DR   KEGG; pg:4670249; -.
+DR   KEGG; pg:4783144; -.
+DR   KEGG; pg:6385877; -.
+DR   KEGG; pg:6779647; -.
+DR   BioCyc; MetaCyc:MONOMER-15466; -.
+DR   BRENDA; 6.1.2.1; 2096.
+DR   SABIO-RK; P25051; -.
+DR   EvolutionaryTrace; P25051; -.
+DR   PRO; PR:P25051; -.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0005886; C:plasma membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0008716; F:D-alanine-D-alanine ligase activity; IDA:CACAO.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0030145; F:manganese ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0071555; P:cell wall organization; IEA:UniProtKB-KW.
+DR   GO; GO:0009252; P:peptidoglycan biosynthetic process; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0008360; P:regulation of cell shape; IEA:UniProtKB-KW.
+DR   GO; GO:0046677; P:response to antibiotic; IEA:UniProtKB-KW.
+DR   Gene3D; 3.30.1490.20; -; 1.
+DR   Gene3D; 3.30.470.20; -; 2.
+DR   Gene3D; 3.40.50.20; -; 1.
+DR   HAMAP; MF_00047; Dala_Dala_lig; 1.
+DR   InterPro; IPR011761; ATP-grasp.
+DR   InterPro; IPR013815; ATP_grasp_subdomain_1.
+DR   InterPro; IPR013816; ATP_grasp_subdomain_2.
+DR   InterPro; IPR000291; D-Ala_lig_Van_CS.
+DR   InterPro; IPR005905; D_ala_D_ala.
+DR   InterPro; IPR011095; Dala_Dala_lig_C.
+DR   InterPro; IPR011127; Dala_Dala_lig_N.
+DR   InterPro; IPR016185; PreATP-grasp_dom.
+DR   PANTHER; PTHR23132; PTHR23132; 1.
+DR   Pfam; PF07478; Dala_Dala_lig_C; 1.
+DR   Pfam; PF01820; Dala_Dala_lig_N; 1.
+DR   PIRSF; PIRSF039102; Ddl/VanB; 1.
+DR   SUPFAM; SSF52440; SSF52440; 1.
+DR   TIGRFAMs; TIGR01205; D_ala_D_alaTIGR; 1.
+DR   PROSITE; PS50975; ATP_GRASP; 1.
+DR   PROSITE; PS00843; DALA_DALA_LIGASE_1; 1.
+DR   PROSITE; PS00844; DALA_DALA_LIGASE_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Antibiotic resistance; ATP-binding; Cell membrane;
+KW   Cell shape; Cell wall biogenesis/degradation;
+KW   Direct protein sequencing; Ligase; Magnesium; Manganese; Membrane;
+KW   Metal-binding; Nucleotide-binding; Peptidoglycan synthesis; Plasmid.
+FT   CHAIN         1    343       Vancomycin/teicoplanin A-type resistance
+FT                                protein VanA.
+FT                                /FTId=PRO_0000177917.
+FT   DOMAIN      137    338       ATP-grasp.
+FT   NP_BIND     169    171       ATP.
+FT   NP_BIND     177    178       ATP.
+FT   NP_BIND     207    214       ATP.
+FT   NP_BIND     304    305       ATP.
+FT   METAL       305    305       Magnesium 1.
+FT                                {ECO:0000269|PubMed:10908650}.
+FT   METAL       305    305       Magnesium 2.
+FT                                {ECO:0000269|PubMed:10908650}.
+FT   METAL       307    307       Magnesium 2.
+FT                                {ECO:0000269|PubMed:10908650}.
+FT   BINDING     133    133       ATP.
+FT   BINDING     241    241       ATP; via amide nitrogen.
+FT   BINDING     244    244       Substrate.
+FT   STRAND        4     11       {ECO:0000244|PDB:1E4E}.
+FT   HELIX        17     30       {ECO:0000244|PDB:1E4E}.
+FT   TURN         33     35       {ECO:0000244|PDB:1E4E}.
+FT   STRAND       36     43       {ECO:0000244|PDB:1E4E}.
+FT   STRAND       49     53       {ECO:0000244|PDB:1E4E}.
+FT   STRAND       65     69       {ECO:0000244|PDB:1E4E}.
+FT   TURN         73     75       {ECO:0000244|PDB:1E4E}.
+FT   STRAND       77     82       {ECO:0000244|PDB:1E4E}.
+FT   STRAND       85     90       {ECO:0000244|PDB:1E4E}.
+FT   STRAND       92     96       {ECO:0000244|PDB:1E4E}.
+FT   TURN        101    103       {ECO:0000244|PDB:1E4E}.
+FT   STRAND      104    106       {ECO:0000244|PDB:1E4E}.
+FT   HELIX       107    115       {ECO:0000244|PDB:1E4E}.
+FT   STRAND      119    121       {ECO:0000244|PDB:1E4E}.
+FT   HELIX       124    131       {ECO:0000244|PDB:1E4E}.
+FT   HELIX       133    142       {ECO:0000244|PDB:1E4E}.
+FT   STRAND      150    153       {ECO:0000244|PDB:1E4E}.
+FT   HELIX       161    163       {ECO:0000244|PDB:1E4E}.
+FT   STRAND      168    174       {ECO:0000244|PDB:1E4E}.
+FT   TURN        177    180       {ECO:0000244|PDB:1E4E}.
+FT   STRAND      182    184       {ECO:0000244|PDB:1E4E}.
+FT   HELIX       187    189       {ECO:0000244|PDB:1E4E}.
+FT   HELIX       190    197       {ECO:0000244|PDB:1E4E}.
+FT   TURN        198    200       {ECO:0000244|PDB:1E4E}.
+FT   STRAND      202    208       {ECO:0000244|PDB:1E4E}.
+FT   STRAND      212    222       {ECO:0000244|PDB:1E4E}.
+FT   STRAND      232    239       {ECO:0000244|PDB:1E4E}.
+FT   HELIX       243    245       {ECO:0000244|PDB:1E4E}.
+FT   STRAND      246    248       {ECO:0000244|PDB:1E4E}.
+FT   HELIX       249    251       {ECO:0000244|PDB:1E4E}.
+FT   STRAND      254    258       {ECO:0000244|PDB:1E4E}.
+FT   HELIX       266    282       {ECO:0000244|PDB:1E4E}.
+FT   STRAND      286    295       {ECO:0000244|PDB:1E4E}.
+FT   STRAND      301    309       {ECO:0000244|PDB:1E4E}.
+FT   HELIX       317    324       {ECO:0000244|PDB:1E4E}.
+FT   HELIX       329    341       {ECO:0000244|PDB:1E4E}.
+SQ   SEQUENCE   343 AA;  37443 MW;  AAA48E3B2AD48E03 CRC64;
+     MNRIKVAILF GGCSEEHDVS VKSAIEIAAN INKEKYEPLY IGITKSGVWK MCEKPCAEWE
+     NDNCYSAVLS PDKKMHGLLV KKNHEYEINH VDVAFSALHG KSGEDGSIQG LFELSGIPFV
+     GCDIQSSAIC MDKSLTYIVA KNAGIATPAF WVINKDDRPV AATFTYPVFV KPARSGSSFG
+     VKKVNSADEL DYAIESARQY DSKILIEQAV SGCEVGCAVL GNSAALVVGE VDQIRLQYGI
+     FRIHQEVEPE KGSENAVITV PADLSAEERG RIQETAKKIY KALGCRGLAR VDMFLQDNGR
+     IVLNEVNTLP GFTSYSRYPR MMAAAGIALP ELIDRLIVLA LKG
+//

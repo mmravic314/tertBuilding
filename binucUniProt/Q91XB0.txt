@@ -1,0 +1,431 @@
+ID   TREX1_MOUSE             Reviewed;         314 AA.
+AC   Q91XB0; Q3TAD7; Q9D6W2; Q9R1B0;
+DT   24-MAY-2004, integrated into UniProtKB/Swiss-Prot.
+DT   24-MAY-2004, sequence version 2.
+DT   22-JUL-2015, entry version 113.
+DE   RecName: Full=Three-prime repair exonuclease 1;
+DE            EC=3.1.11.2;
+DE   AltName: Full=3'-5' exonuclease TREX1;
+DE   AltName: Full=DNase III;
+GN   Name=Trex1;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND FUNCTION.
+RX   PubMed=10391904; DOI=10.1074/jbc.274.28.19655;
+RA   Mazur D.J., Perrino F.W.;
+RT   "Identification and expression of the TREX1 and TREX2 cDNA sequences
+RT   encoding mammalian 3'-->5' exonucleases.";
+RL   J. Biol. Chem. 274:19655-19660(1999).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=C57BL/6J, and NOD; TISSUE=Spleen, and Tongue;
+RX   PubMed=16141072; DOI=10.1126/science.1112014;
+RA   Carninci P., Kasukawa T., Katayama S., Gough J., Frith M.C., Maeda N.,
+RA   Oyama R., Ravasi T., Lenhard B., Wells C., Kodzius R., Shimokawa K.,
+RA   Bajic V.B., Brenner S.E., Batalov S., Forrest A.R., Zavolan M.,
+RA   Davis M.J., Wilming L.G., Aidinis V., Allen J.E.,
+RA   Ambesi-Impiombato A., Apweiler R., Aturaliya R.N., Bailey T.L.,
+RA   Bansal M., Baxter L., Beisel K.W., Bersano T., Bono H., Chalk A.M.,
+RA   Chiu K.P., Choudhary V., Christoffels A., Clutterbuck D.R.,
+RA   Crowe M.L., Dalla E., Dalrymple B.P., de Bono B., Della Gatta G.,
+RA   di Bernardo D., Down T., Engstrom P., Fagiolini M., Faulkner G.,
+RA   Fletcher C.F., Fukushima T., Furuno M., Futaki S., Gariboldi M.,
+RA   Georgii-Hemming P., Gingeras T.R., Gojobori T., Green R.E.,
+RA   Gustincich S., Harbers M., Hayashi Y., Hensch T.K., Hirokawa N.,
+RA   Hill D., Huminiecki L., Iacono M., Ikeo K., Iwama A., Ishikawa T.,
+RA   Jakt M., Kanapin A., Katoh M., Kawasawa Y., Kelso J., Kitamura H.,
+RA   Kitano H., Kollias G., Krishnan S.P., Kruger A., Kummerfeld S.K.,
+RA   Kurochkin I.V., Lareau L.F., Lazarevic D., Lipovich L., Liu J.,
+RA   Liuni S., McWilliam S., Madan Babu M., Madera M., Marchionni L.,
+RA   Matsuda H., Matsuzawa S., Miki H., Mignone F., Miyake S., Morris K.,
+RA   Mottagui-Tabar S., Mulder N., Nakano N., Nakauchi H., Ng P.,
+RA   Nilsson R., Nishiguchi S., Nishikawa S., Nori F., Ohara O.,
+RA   Okazaki Y., Orlando V., Pang K.C., Pavan W.J., Pavesi G., Pesole G.,
+RA   Petrovsky N., Piazza S., Reed J., Reid J.F., Ring B.Z., Ringwald M.,
+RA   Rost B., Ruan Y., Salzberg S.L., Sandelin A., Schneider C.,
+RA   Schoenbach C., Sekiguchi K., Semple C.A., Seno S., Sessa L., Sheng Y.,
+RA   Shibata Y., Shimada H., Shimada K., Silva D., Sinclair B.,
+RA   Sperling S., Stupka E., Sugiura K., Sultana R., Takenaka Y., Taki K.,
+RA   Tammoja K., Tan S.L., Tang S., Taylor M.S., Tegner J., Teichmann S.A.,
+RA   Ueda H.R., van Nimwegen E., Verardo R., Wei C.L., Yagi K.,
+RA   Yamanishi H., Zabarovsky E., Zhu S., Zimmer A., Hide W., Bult C.,
+RA   Grimmond S.M., Teasdale R.D., Liu E.T., Brusic V., Quackenbush J.,
+RA   Wahlestedt C., Mattick J.S., Hume D.A., Kai C., Sasaki D., Tomaru Y.,
+RA   Fukuda S., Kanamori-Katayama M., Suzuki M., Aoki J., Arakawa T.,
+RA   Iida J., Imamura K., Itoh M., Kato T., Kawaji H., Kawagashira N.,
+RA   Kawashima T., Kojima M., Kondo S., Konno H., Nakano K., Ninomiya N.,
+RA   Nishio T., Okada M., Plessy C., Shibata K., Shiraki T., Suzuki S.,
+RA   Tagami M., Waki K., Watahiki A., Okamura-Oho Y., Suzuki H., Kawai J.,
+RA   Hayashizaki Y.;
+RT   "The transcriptional landscape of the mammalian genome.";
+RL   Science 309:1559-1563(2005).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Colon;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4]
+RP   PROTEIN SEQUENCE OF N-TERMINUS, FUNCTION, AND HOMODIMERIZATION.
+RX   PubMed=11279105; DOI=10.1074/jbc.M100623200;
+RA   Mazur D.J., Perrino F.W.;
+RT   "Excision of 3' termini by the Trex1 and TREX2 3'-->5' exonucleases.
+RT   Characterization of the recombinant proteins.";
+RL   J. Biol. Chem. 276:17022-17029(2001).
+RN   [5]
+RP   FUNCTION IN INFLAMMATION, SUBCELLULAR LOCATION, AND DISRUPTION
+RP   PHENOTYPE.
+RX   PubMed=15254239; DOI=10.1128/MCB.24.15.6719-6727.2004;
+RA   Morita M., Stamp G., Robins P., Dulic A., Rosewell I., Hrivnak G.,
+RA   Daly G., Lindahl T., Barnes D.E.;
+RT   "Gene-targeted mice lacking the Trex1 (DNase III) 3'-->5' DNA
+RT   exonuclease develop inflammatory myocarditis.";
+RL   Mol. Cell. Biol. 24:6719-6727(2004).
+RN   [6]
+RP   FUNCTION IN CELL CYCLE REGULATION, AND SUBCELLULAR LOCATION.
+RX   PubMed=18045533; DOI=10.1016/j.cell.2007.10.017;
+RA   Yang Y.G., Lindahl T., Barnes D.E.;
+RT   "Trex1 exonuclease degrades ssDNA to prevent chronic checkpoint
+RT   activation and autoimmune disease.";
+RL   Cell 131:873-886(2007).
+RN   [7]
+RP   FUNCTION AS REGULATOR OF IFN RESPONSE, SUBCELLULAR LOCATION, INDUCTION
+RP   BY CYTOSOLIC DNA, DISRUPTION PHENOTYPE, AND MUTAGENESIS OF ARG-114;
+RP   HIS-195; ASP-200 AND VAL-201.
+RX   PubMed=18724932; DOI=10.1016/j.cell.2008.06.032;
+RA   Stetson D.B., Ko J.S., Heidmann T., Medzhitov R.;
+RT   "Trex1 prevents cell-intrinsic initiation of autoimmunity.";
+RL   Cell 134:587-598(2008).
+RN   [8]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19144319; DOI=10.1016/j.immuni.2008.11.006;
+RA   Trost M., English L., Lemieux S., Courcelles M., Desjardins M.,
+RA   Thibault P.;
+RT   "The phagosomal proteome in interferon-gamma-activated macrophages.";
+RL   Immunity 30:143-154(2009).
+RN   [9]
+RP   FUNCTION IN OXIDIZED DNA DEGRADATION.
+RX   PubMed=23993650; DOI=10.1016/j.immuni.2013.08.004;
+RA   Gehrke N., Mertens C., Zillinger T., Wenzel J., Bald T., Zahn S.,
+RA   Tueting T., Hartmann G., Barchet W.;
+RT   "Oxidative damage of DNA confers resistance to cytosolic nuclease
+RT   TREX1 degradation and potentiates STING-dependent immune sensing.";
+RL   Immunity 39:482-495(2013).
+RN   [10]
+RP   FUNCTION IN INNATE IMMUNE SYSTEM REGULATION, TISSUE SPECIFICITY,
+RP   DISRUPTION PHENOTYPE, AND INDUCTION BY INFLAMMATORY STIMULI.
+RX   PubMed=24218451; DOI=10.4049/jimmunol.1301603;
+RA   Pereira-Lopes S., Celhar T., Sans-Fons G., Serra M., Fairhurst A.M.,
+RA   Lloberas J., Celada A.;
+RT   "The exonuclease trex1 restrains macrophage proinflammatory
+RT   activation.";
+RL   J. Immunol. 191:6128-6135(2013).
+RN   [11]
+RP   X-RAY CRYSTALLOGRAPHY (2.10 ANGSTROMS) OF 1-242 IN COMPLEXES WITH DNA;
+RP   AMP; CALCIUM AND MANGANESE IONS, FUNCTION, CATALYTIC ACTIVITY,
+RP   COFACTOR, SUBUNIT, AND MUTAGENESIS OF ARG-114 AND VAL-201.
+RX   PubMed=17293595; DOI=10.1074/jbc.M700039200;
+RA   de Silva U., Choudhury S., Bailey S.L., Harvey S., Perrino F.W.,
+RA   Hollis T.;
+RT   "The crystal structure of TREX1 explains the 3' nucleotide specificity
+RT   and reveals a polyproline II helix for protein partnering.";
+RL   J. Biol. Chem. 282:10537-10543(2007).
+RN   [12]
+RP   X-RAY CRYSTALLOGRAPHY (2.35 ANGSTROMS) OF 9-245 AND MUTANT ALA-195 IN
+RP   COMPLEXES WITH DNA AND MAGNESIUM IONS, FUNCTION, CATALYTIC ACTIVITY,
+RP   ACTIVE SITE, COFACTOR, DNA-BINDING, SUBUNIT, INTERACTION WITH TCERG1,
+RP   SUBCELLULAR LOCATION, AND MUTAGENESIS OF HIS-195.
+RX   PubMed=17355961; DOI=10.1074/jbc.M700236200;
+RA   Brucet M., Querol-Audi J., Serra M., Ramirez-Espain X., Bertlik K.,
+RA   Ruiz L., Lloberas J., Macias M.J., Fita I., Celada A.;
+RT   "Structure of the dimeric exonuclease TREX1 in complex with DNA
+RT   displays a proline-rich binding site for WW Domains.";
+RL   J. Biol. Chem. 282:14547-14557(2007).
+RN   [13]
+RP   X-RAY CRYSTALLOGRAPHY (2.10 ANGSTROMS) OF 9-245 IN COMPLEXES WITH TMP;
+RP   LITHIUM; SODIUM AND ZINC IONS, FUNCTION, CATALYTIC ACTIVITY,
+RP   DNA-BINDING, COFACTOR, ENZYME REGULATION, AND MUTAGENESIS OF HIS-124
+RP   AND HIS-195.
+RX   PubMed=18780819; DOI=10.1110/ps.036426.108;
+RA   Brucet M., Querol-Audi J., Bertlik K., Lloberas J., Fita I.,
+RA   Celada A.;
+RT   "Structural and biochemical studies of TREX1 inhibition by metals.
+RT   Identification of a new active histidine conserved in DEDDh
+RT   exonucleases.";
+RL   Protein Sci. 17:2059-2069(2008).
+RN   [14]
+RP   X-RAY CRYSTALLOGRAPHY (1.75 ANGSTROMS) OF 1-142 AND MUTANTS ASN-18;
+RP   HIS-200; ASN-200 AND ASP-201 IN COMPLEXES WITH DNA; CALCIUM AND
+RP   MAGNESIUM IONS, COFACTOR, AND SUBUNIT.
+RX   PubMed=22071149; DOI=10.1016/j.dnarep.2011.10.007;
+RA   Bailey S.L., Harvey S., Perrino F.W., Hollis T.;
+RT   "Defects in DNA degradation revealed in crystal structures of TREX1
+RT   exonuclease mutations linked to autoimmune disease.";
+RL   DNA Repair 11:65-73(2012).
+CC   -!- FUNCTION: Major cellular 3'-to-5' DNA exonuclease which digests
+CC       single-stranded DNA (ssDNA) and double-stranded DNA (dsDNA) with
+CC       mismatched 3' termini. Prevents cell-intrinsic initiation of
+CC       autoimmunity. Acts by metabolizing DNA fragments from endogenous
+CC       retroelements, including L1, LTR and SINE elements. Unless
+CC       degraded, these DNA fragments accumulate in the cytosol and
+CC       activate the IFN-stimulatory DNA (ISD) response and innate immune
+CC       signaling. Prevents chronic ATM-dependent checkpoint activation,
+CC       by processing ssDNA polynucleotide species arising from the
+CC       processing of aberrant DNA replication intermediates.
+CC       Inefficiently degrades oxidized DNA, such as that generated upon
+CC       antimicrobial reactive oxygen production or upon absorption of UV
+CC       light. During GZMA-mediated cell death, contributes to DNA damage
+CC       in concert with NME1. NME1 nicks one strand of DNA and TREX1
+CC       removes bases from the free 3' end to enhance DNA damage and
+CC       prevent DNA end reannealing and rapid repair.
+CC       {ECO:0000269|PubMed:10391904, ECO:0000269|PubMed:11279105,
+CC       ECO:0000269|PubMed:15254239, ECO:0000269|PubMed:17293595,
+CC       ECO:0000269|PubMed:17355961, ECO:0000269|PubMed:18045533,
+CC       ECO:0000269|PubMed:18724932, ECO:0000269|PubMed:18780819,
+CC       ECO:0000269|PubMed:23993650, ECO:0000269|PubMed:24218451}.
+CC   -!- CATALYTIC ACTIVITY: Exonucleolytic cleavage in the 3'- to 5'-
+CC       direction to yield nucleoside 5'-phosphates.
+CC       {ECO:0000269|PubMed:17293595, ECO:0000269|PubMed:17355961,
+CC       ECO:0000269|PubMed:18780819}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000269|PubMed:17293595,
+CC         ECO:0000269|PubMed:17355961, ECO:0000269|PubMed:18780819,
+CC         ECO:0000269|PubMed:22071149};
+CC       Note=Binds 2 Mg(2+) per subunit. The second magnesium ion
+CC       interacts with only one residue. Substitution with Mn(2+) results
+CC       in partial activity. {ECO:0000269|PubMed:17293595,
+CC       ECO:0000269|PubMed:17355961, ECO:0000269|PubMed:18780819,
+CC       ECO:0000269|PubMed:22071149};
+CC   -!- ENZYME REGULATION: Calcium, lithium and sodium inhibit the
+CC       exonuclease activity but not the DNA binding.
+CC       {ECO:0000269|PubMed:18780819}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       pH dependence:
+CC         Optimum pH is 7.5-8.0.;
+CC   -!- SUBUNIT: Homodimer. Interacts (via proline-rich region) with
+CC       TCERG1/CA150 (via the second WW domain). Component of the SET
+CC       complex, composed of at least ANP32A, APEX1, HMGB2, NME1, SET and
+CC       TREX1. Within this complex, directly interacts with SET; this
+CC       interaction does not result in TREX1 inhibition. Also interacts
+CC       with NME1, but only following translocation to the nucleus.
+CC       Directly interacts with UBQLN1 (via ubiquitin-like domain); the
+CC       interaction may control TREX1 subcellular location.
+CC       {ECO:0000269|PubMed:17293595, ECO:0000269|PubMed:17355961,
+CC       ECO:0000269|PubMed:22071149}.
+CC   -!- SUBCELLULAR LOCATION: Nucleus. Cytoplasm, cytosol. Endoplasmic
+CC       reticulum membrane; Peripheral membrane protein. Note=Retained in
+CC       the cytoplasm through the C-terminal region. In response to DNA
+CC       damage, translocates to the nucleus where it is specifically
+CC       recruited to replication foci. Translocation to the nucleus also
+CC       occurs during GZMA-mediated cell death.
+CC   -!- TISSUE SPECIFICITY: Widely expressed with high expression levels
+CC       detected in spleen, thymus and uterus.
+CC       {ECO:0000269|PubMed:24218451}.
+CC   -!- INDUCTION: Induced by cytosolic DNA. Induced by inflammatory
+CC       stimuli in a cell-specific fashion. Up-regulated by IFN-alpha and
+CC       IFN-gamma in B-cells and by LPS and viral and bacterial DNA (via
+CC       Toll-like receptor signaling) in dendritic cells and macrophages.
+CC       {ECO:0000269|PubMed:18724932, ECO:0000269|PubMed:24218451}.
+CC   -!- PTM: Ubiquitinated, but not targeted to proteasomal degradation.
+CC       Ubiquitination may be important for interaction with UBQLN1 (By
+CC       similarity). {ECO:0000250}.
+CC   -!- DISRUPTION PHENOTYPE: Mutant animals exhibit a dramatically
+CC       reduced survival after weaning, with 50% of survival at 9 weeks
+CC       (PubMed:18724932) or 17 weeks (PubMed:15254239). In 6-8 week old
+CC       animals, multiple organs show extensive inflammation. The most
+CC       severe diffuse lymphocytic infiltration occurs in the heart,
+CC       followed by the lung, the liver, the smooth muscle of the uterus
+CC       and the salivary gland with periductal infiltration. Other tissues
+CC       exhibit only minimal to mild lymphocytic infiltration
+CC       (PubMed:24218451). The heart phenotype includes inflammatory
+CC       myocarditis leading to progressive, often dilated, cardiomyopathy
+CC       and circulatory failure. Enlargement of the spleen and lymph nodes
+CC       is observed in less than 10% of old mice (over 1 year of age)
+CC       (PubMed:15254239). Mutant animals have a reduced 3'-exonuclease
+CC       activity. They accumumulate ssDNA from endogenous retroelements
+CC       and produce high levels of autoantibodies. Do not show an increase
+CC       in spontaneous mutation frequency or cancer incidence. Double
+CC       knockout of TREX1 and either IRF3, IFNAR1 or RAG2 fully rescues
+CC       the TREX1 single knockout phenotype (PubMed:18724932).
+CC       {ECO:0000269|PubMed:15254239, ECO:0000269|PubMed:18724932,
+CC       ECO:0000269|PubMed:24218451}.
+CC   -!- SIMILARITY: Belongs to the exonuclease superfamily. TREX family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF151106; AAD48775.2; -; mRNA.
+DR   EMBL; AF319574; AAK07621.1; -; mRNA.
+DR   EMBL; AK009899; BAB26571.2; -; mRNA.
+DR   EMBL; AK087832; BAC40020.1; -; mRNA.
+DR   EMBL; AK171916; BAE42731.1; -; mRNA.
+DR   EMBL; BC011133; AAH11133.1; -; mRNA.
+DR   CCDS; CCDS23544.1; -.
+DR   RefSeq; NP_001012236.1; NM_001012236.1.
+DR   RefSeq; NP_035767.4; NM_011637.6.
+DR   UniGene; Mm.439964; -.
+DR   PDB; 2IOC; X-ray; 2.10 A; A/B=1-242.
+DR   PDB; 2O4G; X-ray; 2.35 A; A/B/C/D=9-245.
+DR   PDB; 2O4I; X-ray; 3.50 A; A/B=9-245.
+DR   PDB; 2OA8; X-ray; 2.10 A; A/B=5-234.
+DR   PDB; 3B6O; X-ray; 2.10 A; A/B/C/D=9-245.
+DR   PDB; 3B6P; X-ray; 2.30 A; A/B/C/D=9-245.
+DR   PDB; 3MXI; X-ray; 2.55 A; A/B=1-242.
+DR   PDB; 3MXJ; X-ray; 1.95 A; A/B=1-242.
+DR   PDB; 3MXM; X-ray; 1.75 A; A/B=1-242.
+DR   PDB; 3U3Y; X-ray; 2.28 A; A/B=1-314.
+DR   PDB; 3U6F; X-ray; 2.30 A; A/B=1-314.
+DR   PDB; 4YNQ; X-ray; 2.80 A; A/B/C/D=1-235.
+DR   PDBsum; 2IOC; -.
+DR   PDBsum; 2O4G; -.
+DR   PDBsum; 2O4I; -.
+DR   PDBsum; 2OA8; -.
+DR   PDBsum; 3B6O; -.
+DR   PDBsum; 3B6P; -.
+DR   PDBsum; 3MXI; -.
+DR   PDBsum; 3MXJ; -.
+DR   PDBsum; 3MXM; -.
+DR   PDBsum; 3U3Y; -.
+DR   PDBsum; 3U6F; -.
+DR   PDBsum; 4YNQ; -.
+DR   ProteinModelPortal; Q91XB0; -.
+DR   SMR; Q91XB0; 6-234.
+DR   BioGrid; 204312; 1.
+DR   STRING; 10090.ENSMUSP00000050971; -.
+DR   PhosphoSite; Q91XB0; -.
+DR   MaxQB; Q91XB0; -.
+DR   PaxDb; Q91XB0; -.
+DR   PRIDE; Q91XB0; -.
+DR   Ensembl; ENSMUST00000061973; ENSMUSP00000050971; ENSMUSG00000049734.
+DR   Ensembl; ENSMUST00000112053; ENSMUSP00000107684; ENSMUSG00000049734.
+DR   GeneID; 22040; -.
+DR   KEGG; mmu:22040; -.
+DR   UCSC; uc009rrr.1; mouse.
+DR   CTD; 11277; -.
+DR   MGI; MGI:1328317; Trex1.
+DR   eggNOG; NOG293314; -.
+DR   GeneTree; ENSGT00390000012715; -.
+DR   HOGENOM; HOG000118119; -.
+DR   HOVERGEN; HBG079278; -.
+DR   InParanoid; Q91XB0; -.
+DR   KO; K10790; -.
+DR   OMA; KLSLCVA; -.
+DR   OrthoDB; EOG7DC26B; -.
+DR   PhylomeDB; Q91XB0; -.
+DR   TreeFam; TF323333; -.
+DR   Reactome; REACT_300551; Regulation by TREX1.
+DR   Reactome; REACT_344538; IRF3-mediated induction of type I IFN.
+DR   EvolutionaryTrace; Q91XB0; -.
+DR   NextBio; 301818; -.
+DR   PRO; PR:Q91XB0; -.
+DR   Proteomes; UP000000589; Chromosome 9.
+DR   CleanEx; MM_TREX1; -.
+DR   Genevisible; Q91XB0; MM.
+DR   GO; GO:0005829; C:cytosol; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005789; C:endoplasmic reticulum membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005730; C:nucleolus; ISO:MGI.
+DR   GO; GO:0005634; C:nucleus; ISO:MGI.
+DR   GO; GO:0008408; F:3'-5' exonuclease activity; ISS:UniProtKB.
+DR   GO; GO:0008296; F:3'-5'-exodeoxyribonuclease activity; IDA:UniProtKB.
+DR   GO; GO:0032558; F:adenyl deoxyribonucleotide binding; IDA:MGI.
+DR   GO; GO:0003690; F:double-stranded DNA binding; IDA:MGI.
+DR   GO; GO:0008853; F:exodeoxyribonuclease III activity; IEA:UniProtKB-EC.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0032405; F:MutLalpha complex binding; ISA:MGI.
+DR   GO; GO:0032407; F:MutSalpha complex binding; ISA:MGI.
+DR   GO; GO:0042803; F:protein homodimerization activity; IPI:UniProtKB.
+DR   GO; GO:0003697; F:single-stranded DNA binding; IDA:MGI.
+DR   GO; GO:0035458; P:cellular response to interferon-beta; IDA:MGI.
+DR   GO; GO:0000738; P:DNA catabolic process, exonucleolytic; IBA:GO_Central.
+DR   GO; GO:0006259; P:DNA metabolic process; IDA:UniProtKB.
+DR   Gene3D; 3.30.420.10; -; 1.
+DR   InterPro; IPR006055; Exonuclease.
+DR   InterPro; IPR012337; RNaseH-like_dom.
+DR   SMART; SM00479; EXOIII; 1.
+DR   SUPFAM; SSF53098; SSF53098; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Cytoplasm; Direct protein sequencing;
+KW   Endoplasmic reticulum; Exonuclease; Hydrolase; Magnesium; Membrane;
+KW   Metal-binding; Nuclease; Nucleus; Phosphoprotein; Reference proteome;
+KW   Ubl conjugation.
+FT   CHAIN         1    314       Three-prime repair exonuclease 1.
+FT                                /FTId=PRO_0000109869.
+FT   REGION       20     21       Substrate binding.
+FT   REGION       54     63       Proline-rich region.
+FT   REGION      236    314       Necessary for endoplasmic reticulum
+FT                                localization.
+FT   REGION      244    314       Interaction with UBQLN1. {ECO:0000250}.
+FT   REGION      281    314       Necessary for cytoplasmic retention.
+FT   ACT_SITE    195    195       Proton donor/acceptor.
+FT                                {ECO:0000269|PubMed:17355961}.
+FT   METAL        18     18       Magnesium 1.
+FT   METAL        18     18       Magnesium 2.
+FT   METAL        20     20       Magnesium 1.
+FT   METAL       200    200       Magnesium 1.
+FT   BINDING     129    129       Substrate.
+FT   BINDING     200    200       Substrate.
+FT   MOD_RES      78     78       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:Q9NSU2}.
+FT   MOD_RES     167    167       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:Q9NSU2}.
+FT   MOD_RES     261    261       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:Q9NSU2}.
+FT   MUTAGEN     114    114       R->H: Reduces activity. Loss of
+FT                                endogenous retroelement metabolization.
+FT                                {ECO:0000269|PubMed:17293595,
+FT                                ECO:0000269|PubMed:18724932}.
+FT   MUTAGEN     124    124       H->A: Strongly reduces activity.
+FT                                {ECO:0000269|PubMed:18780819}.
+FT   MUTAGEN     195    195       H->A: Loss of activity. Loss of
+FT                                endogenous retroelement metabolization.
+FT                                {ECO:0000269|PubMed:17355961,
+FT                                ECO:0000269|PubMed:18724932,
+FT                                ECO:0000269|PubMed:18780819}.
+FT   MUTAGEN     200    200       D->N: Reduces activity. Loss of
+FT                                endogenous retroelement metabolization.
+FT                                {ECO:0000269|PubMed:18724932}.
+FT   MUTAGEN     201    201       V->D: Reduces activity. Loss of
+FT                                endogenous retroelement metabolization.
+FT                                {ECO:0000269|PubMed:17293595,
+FT                                ECO:0000269|PubMed:18724932}.
+FT   CONFLICT     53     53       H -> L (in Ref. 3; AAH11133).
+FT                                {ECO:0000305}.
+FT   CONFLICT    269    269       R -> G (in Ref. 3; AAH11133).
+FT                                {ECO:0000305}.
+FT   STRAND       12     23       {ECO:0000244|PDB:3MXM}.
+FT   HELIX        25     27       {ECO:0000244|PDB:3MXM}.
+FT   STRAND       31     40       {ECO:0000244|PDB:3MXM}.
+FT   HELIX        41     45       {ECO:0000244|PDB:3MXM}.
+FT   STRAND       52     54       {ECO:0000244|PDB:3MXM}.
+FT   STRAND       65     70       {ECO:0000244|PDB:3MXM}.
+FT   HELIX        79     85       {ECO:0000244|PDB:3MXM}.
+FT   HELIX        89     94       {ECO:0000244|PDB:3MXM}.
+FT   HELIX       102    113       {ECO:0000244|PDB:3MXM}.
+FT   STRAND      117    123       {ECO:0000244|PDB:3MXM}.
+FT   TURN        124    129       {ECO:0000244|PDB:3MXM}.
+FT   HELIX       130    139       {ECO:0000244|PDB:3MXM}.
+FT   STRAND      141    143       {ECO:0000244|PDB:3MXM}.
+FT   TURN        146    149       {ECO:0000244|PDB:3MXM}.
+FT   STRAND      151    154       {ECO:0000244|PDB:3MXM}.
+FT   HELIX       155    166       {ECO:0000244|PDB:3MXM}.
+FT   HELIX       179    187       {ECO:0000244|PDB:3MXM}.
+FT   STRAND      194    196       {ECO:0000244|PDB:3U3Y}.
+FT   HELIX       197    208       {ECO:0000244|PDB:3MXM}.
+FT   HELIX       212    222       {ECO:0000244|PDB:3MXM}.
+FT   HELIX       226    228       {ECO:0000244|PDB:3MXM}.
+SQ   SEQUENCE   314 AA;  33675 MW;  52C4F63A23214A7F CRC64;
+     MGSQTLPHGH MQTLIFLDLE ATGLPSSRPE VTELCLLAVH RRALENTSIS QGHPPPVPRP
+     PRVVDKLSLC IAPGKACSPG ASEITGLSKA ELEVQGRQRF DDNLAILLRA FLQRQPQPCC
+     LVAHNGDRYD FPLLQTELAR LSTPSPLDGT FCVDSIAALK ALEQASSPSG NGSRKSYSLG
+     SIYTRLYWQA PTDSHTAEGD VLTLLSICQW KPQALLQWVD EHARPFSTVK PMYGTPATTG
+     TTNLRPHAAT ATTPLATANG SPSNGRSRRP KSPPPEKVPE APSQEGLLAP LSLLTLLTLA
+     IATLYGLFLA SPGQ
+//

@@ -1,0 +1,147 @@
+ID   Q6WVP6_SCHMA            Unreviewed;       364 AA.
+AC   Q6WVP6;
+DT   05-JUL-2004, integrated into UniProtKB/TrEMBL.
+DT   05-JUL-2004, sequence version 1.
+DT   24-JUN-2015, entry version 81.
+DE   RecName: Full=Arginase {ECO:0000256|RuleBase:RU361159};
+DE            EC=3.5.3.1 {ECO:0000256|RuleBase:RU361159};
+GN   ORFNames=Smp_059980 {ECO:0000313|EMBL:CCD75484.1};
+OS   Schistosoma mansoni (Blood fluke).
+OC   Eukaryota; Metazoa; Platyhelminthes; Trematoda; Digenea; Strigeidida;
+OC   Schistosomatoidea; Schistosomatidae; Schistosoma.
+OX   NCBI_TaxID=6183 {ECO:0000313|EMBL:AAP94031.1};
+RN   [1] {ECO:0000313|EMBL:AAP94031.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Fitzpatrick J.M., Hesse M., Hoffmann K.F.;
+RT   "Cloning of a Schistosoma mansoni cDNA with sequence similarity to
+RT   arginase.";
+RL   Submitted (APR-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000313|EMBL:CCD75484.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=Puerto Rico;
+RA   Aslett M.;
+RL   Submitted (SEP-2011) to the EMBL/GenBank/DDBJ databases.
+RN   [3] {ECO:0000313|EMBL:CCD75484.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=Puerto Rico;
+RA   Protasio A.V., Tsai J.I., Babbage A., Nichol S., Hunt M., de Silva N.,
+RA   Anderson T.J.C., Clark R.C., Davidson C., Dillon G.P., Holroyd N.,
+RA   LoVerde P.T., Lloyd C., McQuillan J., Oliveira G., Otto T.D.,
+RA   Parker-Manuel S.J., Quail M.A., Wilson A., Zerlotini A., Dunne D.W.,
+RA   Berriman M.;
+RT   "A systematically improved high quality genome and transcriptome of
+RT   the human blood fluke Schistosoma mansoni.";
+RL   Submitted (OCT-2011) to the EMBL/GenBank/DDBJ databases.
+RN   [4] {ECO:0000313|Proteomes:UP000008854}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Puerto Rican {ECO:0000313|Proteomes:UP000008854};
+RX   PubMed=22253936; DOI=10.1371/journal.pntd.0001455;
+RA   Protasio A.V., Tsai I.J., Babbage A., Nichol S., Hunt M., Aslett M.A.,
+RA   De Silva N., Velarde G.S., Anderson T.J., Clark R.C., Davidson C.,
+RA   Dillon G.P., Holroyd N.E., LoVerde P.T., Lloyd C., McQuillan J.,
+RA   Oliveira G., Otto T.D., Parker-Manuel S.J., Quail M.A., Wilson R.A.,
+RA   Zerlotini A., Dunne D.W., Berriman M.;
+RT   "A systematically improved high quality genome and transcriptome of
+RT   the human blood fluke Schistosoma mansoni.";
+RL   PLoS Negl. Trop. Dis. 6:E1455-E1455(2012).
+RN   [5] {ECO:0000213|PDB:4Q3P, ECO:0000213|PDB:4Q3Q, ECO:0000213|PDB:4Q3R}
+RP   X-RAY CRYSTALLOGRAPHY (1.83 ANGSTROMS) IN COMPLEX WITH MANGANESE.
+RX   PubMed=25007099;
+RA   Hai Y., Edwards J.E., Van Zandt M.C., Hoffmann K.F.,
+RA   Christianson D.W.;
+RT   "Crystal structure of Schistosoma mansoni arginase, a potential drug
+RT   target for the treatment of schistosomiasis.";
+RL   Biochemistry 53:4671-4684(2014).
+CC   -!- CATALYTIC ACTIVITY: L-arginine + H(2)O = L-ornithine + urea.
+CC       {ECO:0000256|RuleBase:RU361159}.
+CC   -!- COFACTOR:
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000256|RuleBase:RU361159};
+CC       Note=Binds 2 manganese ions per subunit.
+CC       {ECO:0000256|RuleBase:RU361159};
+CC   -!- PATHWAY: Nitrogen metabolism; urea cycle; L-ornithine and urea
+CC       from L-arginine: step 1/1. {ECO:0000256|RuleBase:RU361159}.
+CC   -!- SIMILARITY: Belongs to the arginase family.
+CC       {ECO:0000256|RuleBase:RU003684}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AY267032; AAP94031.1; -; mRNA.
+DR   EMBL; HE601624; CCD75484.1; -; Genomic_DNA.
+DR   PDB; 4Q3P; X-ray; 2.50 A; A/B/C/D=1-364.
+DR   PDB; 4Q3Q; X-ray; 2.00 A; A/B/C/D=1-364.
+DR   PDB; 4Q3R; X-ray; 2.17 A; A/B/C/D=1-364.
+DR   PDB; 4Q3S; X-ray; 2.11 A; A/B/C/D=1-364.
+DR   PDB; 4Q3T; X-ray; 2.14 A; A/B/C/D=1-364.
+DR   PDB; 4Q3U; X-ray; 2.50 A; A/B/C/D=1-364.
+DR   PDB; 4Q3V; X-ray; 2.70 A; A/B/C/D=1-364.
+DR   PDB; 4Q40; X-ray; 1.83 A; A/B/C/D=1-364.
+DR   PDB; 4Q41; X-ray; 2.20 A; A/B/C/D=1-364.
+DR   PDB; 4Q42; X-ray; 2.05 A; A/B/C/D=1-364.
+DR   STRING; 6183.Smp_059980__mRNA; -.
+DR   EnsemblMetazoa; Smp_059980.1; Smp_059980.1:pep; Smp_059980.
+DR   HOGENOM; HOG000204319; -.
+DR   OMA; HETHDIR; -.
+DR   UniPathway; UPA00158; UER00270.
+DR   Proteomes; UP000008854; Chromosome 1.
+DR   GO; GO:0004053; F:arginase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006525; P:arginine metabolic process; IEA:UniProtKB-KW.
+DR   GO; GO:0000050; P:urea cycle; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 3.40.800.10; -; 1.
+DR   InterPro; IPR014033; Arginase.
+DR   InterPro; IPR006035; Ureohydrolase.
+DR   InterPro; IPR023696; Ureohydrolase_domain.
+DR   InterPro; IPR020855; Ureohydrolase_Mn_BS.
+DR   PANTHER; PTHR11358; PTHR11358; 1.
+DR   Pfam; PF00491; Arginase; 1.
+DR   PRINTS; PR00116; ARGINASE.
+DR   TIGRFAMs; TIGR01229; rocF_arginase; 1.
+DR   PROSITE; PS01053; ARGINASE_1; 1.
+DR   PROSITE; PS51409; ARGINASE_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4Q3P, ECO:0000213|PDB:4Q3Q};
+KW   Arginine metabolism {ECO:0000256|RuleBase:RU361159};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000008854};
+KW   Hydrolase {ECO:0000256|RuleBase:RU003684,
+KW   ECO:0000313|EMBL:CCD75484.1};
+KW   Manganese {ECO:0000213|PDB:4Q3P, ECO:0000213|PDB:4Q3Q};
+KW   Metal-binding {ECO:0000213|PDB:4Q3P, ECO:0000213|PDB:4Q3Q};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000008854};
+KW   Urea cycle {ECO:0000256|RuleBase:RU361159}.
+FT   METAL       131    131       Manganese 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:4Q3P,
+FT                                ECO:0000213|PDB:4Q3Q,
+FT                                ECO:0000213|PDB:4Q3R}.
+FT   METAL       154    154       Manganese 1. {ECO:0000213|PDB:4Q3P,
+FT                                ECO:0000213|PDB:4Q3Q,
+FT                                ECO:0000213|PDB:4Q3R}.
+FT   METAL       154    154       Manganese 2. {ECO:0000213|PDB:4Q3P,
+FT                                ECO:0000213|PDB:4Q3Q,
+FT                                ECO:0000213|PDB:4Q3R}.
+FT   METAL       156    156       Manganese 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:4Q3P,
+FT                                ECO:0000213|PDB:4Q3Q,
+FT                                ECO:0000213|PDB:4Q3R}.
+FT   METAL       158    158       Manganese 1. {ECO:0000213|PDB:4Q3P,
+FT                                ECO:0000213|PDB:4Q3Q,
+FT                                ECO:0000213|PDB:4Q3R}.
+FT   METAL       262    262       Manganese 1. {ECO:0000213|PDB:4Q3P,
+FT                                ECO:0000213|PDB:4Q3Q,
+FT                                ECO:0000213|PDB:4Q3R}.
+FT   METAL       262    262       Manganese 2. {ECO:0000213|PDB:4Q3P,
+FT                                ECO:0000213|PDB:4Q3Q,
+FT                                ECO:0000213|PDB:4Q3R}.
+FT   METAL       264    264       Manganese 2. {ECO:0000213|PDB:4Q3P,
+FT                                ECO:0000213|PDB:4Q3Q,
+FT                                ECO:0000213|PDB:4Q3R}.
+SQ   SEQUENCE   364 AA;  39917 MW;  1A9B9C1B99E766F5 CRC64;
+     MLKSVATPYY PIQDEKPKLL YTSANFLGIP TNRGQPKIGT YQGPELIRKS NFFQLVAEDG
+     IQLTDCGDII PVELNEAEDP QRFGMKWSRS FSLTTLRIAE RVEELMKQSN KHTVELSGSK
+     STPLVIVGGD HSMATGTILG HAEAKPDLCV LWIDAHGDIN TPLNSASGNM HGMPLSFLVK
+     ELQDQIPWLD DFEGIKPCLN ASNIAYIGLR DLDAHETHDI RKHGIAYFTM LDVDRMGIEA
+     VIKEALLAVN PRLEKAIHLS FDIDALDPLV APSTGTAVPG GLTLREGLRI CEEVSATGKL
+     SVVELAELNP LLGSQEDVLK TQSSAVHILR ACLGHCRSGH LPFKVRNLTD QGIMSRAAHM
+     QTKQ
+//

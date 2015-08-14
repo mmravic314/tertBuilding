@@ -1,0 +1,140 @@
+ID   PHSL_DESBA              Reviewed;         514 AA.
+AC   P13065;
+DT   01-JAN-1990, integrated into UniProtKB/Swiss-Prot.
+DT   26-FEB-2008, sequence version 3.
+DT   24-JUN-2015, entry version 93.
+DE   RecName: Full=Periplasmic [NiFeSe] hydrogenase large subunit;
+DE            EC=1.12.99.6;
+DE   AltName: Full=NiFeSe hydrogenlyase large chain;
+OS   Desulfomicrobium baculatum (Desulfovibrio baculatus).
+OC   Bacteria; Proteobacteria; Deltaproteobacteria; Desulfovibrionales;
+OC   Desulfomicrobiaceae; Desulfomicrobium.
+OX   NCBI_TaxID=899;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=3316183;
+RA   Menon N.K., Peck H.D. Jr., le Gall J., Przybyla A.E.;
+RT   "Cloning and sequencing of the genes encoding the large and small
+RT   subunits of the periplasmic (NiFeSe) hydrogenase of Desulfovibrio
+RT   baculatus.";
+RL   J. Bacteriol. 169:5401-5407(1987).
+RN   [2]
+RP   ERRATUM, AND SEQUENCE REVISION.
+RA   Menon N.K., Pect H.D. Jr., le Gall J., Przybyla A.E.;
+RL   J. Bacteriol. 170:4429-4429(1988).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (2.15 ANGSTROMS), AND SELENOCYSTEINE AT SEC-493.
+RX   PubMed=10378275; DOI=10.1016/S0969-2126(99)80072-0;
+RA   Garcin E., Vernede X., Hatchikian E.C., Volbeda A., Frey M.,
+RA   Fontecilla-Camps J.-C.;
+RT   "The crystal structure of a reduced [NiFeSe] hydrogenase provides an
+RT   image of the activated catalytic center.";
+RL   Structure 7:557-566(1999).
+CC   -!- CATALYTIC ACTIVITY: H(2) + A = AH(2).
+CC   -!- COFACTOR:
+CC       Name=Fe cation; Xref=ChEBI:CHEBI:24875;
+CC       Note=Binds 2 irons ions. Iron 1 has 3 cyanide and carbon monoxide
+CC       ligands. Iron 2 has 3 water ligands.;
+CC   -!- COFACTOR:
+CC       Name=Ni(2+); Xref=ChEBI:CHEBI:49786;
+CC       Note=Binds 1 nickel ion per subunit.;
+CC   -!- SUBUNIT: Heterodimer of a large and a small subunit.
+CC   -!- SUBCELLULAR LOCATION: Periplasm.
+CC   -!- MISCELLANEOUS: Perhaps the leader of the small subunit serves as a
+CC       transport vehicle for both subunits.
+CC   -!- SIMILARITY: Belongs to the [NiFe]/[NiFeSe] hydrogenase large
+CC       subunit family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M18271; AAA23375.2; -; Genomic_DNA.
+DR   PIR; A33101; HQDVLB.
+DR   PDB; 1CC1; X-ray; 2.15 A; L=2-499.
+DR   PDBsum; 1CC1; -.
+DR   DIP; DIP-6125N; -.
+DR   MINT; MINT-96867; -.
+DR   STRING; 525897.Dbac_1969; -.
+DR   EvolutionaryTrace; P13065; -.
+DR   GO; GO:0042597; C:periplasmic space; IEA:UniProtKB-SubCell.
+DR   GO; GO:0008901; F:ferredoxin hydrogenase activity; IEA:InterPro.
+DR   GO; GO:0033748; F:hydrogenase (acceptor) activity; IEA:UniProtKB-EC.
+DR   GO; GO:0016151; F:nickel cation binding; IEA:InterPro.
+DR   Gene3D; 1.10.645.10; -; 1.
+DR   InterPro; IPR001501; Ni-dep_hyd_lsu.
+DR   InterPro; IPR018194; Ni-dep_hyd_lsu_Ni_BS.
+DR   InterPro; IPR029014; NiFe_Hase-like.
+DR   Pfam; PF00374; NiFeSe_Hases; 1.
+DR   SUPFAM; SSF56762; SSF56762; 1.
+DR   PROSITE; PS00507; NI_HGENASE_L_1; 1.
+DR   PROSITE; PS00508; NI_HGENASE_L_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Iron; Metal-binding; Nickel; Oxidoreductase; Periplasm;
+KW   Selenocysteine.
+FT   INIT_MET      1      1       Removed.
+FT   CHAIN         2    514       Periplasmic [NiFeSe] hydrogenase large
+FT                                subunit.
+FT                                /FTId=PRO_0000199704.
+FT   METAL        52     52       Iron 2.
+FT   METAL        71     71       Nickel.
+FT   METAL        74     74       Iron 1.
+FT   METAL        74     74       Nickel.
+FT   METAL       445    445       Iron 2; via carbonyl oxygen.
+FT   METAL       493    493       Nickel.
+FT   METAL       496    496       Iron 1.
+FT   METAL       496    496       Nickel.
+FT   METAL       499    499       Iron 2.
+FT   NON_STD     493    493       Selenocysteine.
+FT   STRAND       14     19       {ECO:0000244|PDB:1CC1}.
+FT   STRAND       22     25       {ECO:0000244|PDB:1CC1}.
+FT   STRAND       27     34       {ECO:0000244|PDB:1CC1}.
+FT   STRAND       37     45       {ECO:0000244|PDB:1CC1}.
+FT   HELIX        51     54       {ECO:0000244|PDB:1CC1}.
+FT   TURN         55     57       {ECO:0000244|PDB:1CC1}.
+FT   HELIX        60     62       {ECO:0000244|PDB:1CC1}.
+FT   HELIX        63     66       {ECO:0000244|PDB:1CC1}.
+FT   HELIX        67     70       {ECO:0000244|PDB:1CC1}.
+FT   STRAND       72     74       {ECO:0000244|PDB:1CC1}.
+FT   HELIX        75     90       {ECO:0000244|PDB:1CC1}.
+FT   HELIX        96    120       {ECO:0000244|PDB:1CC1}.
+FT   HELIX       123    125       {ECO:0000244|PDB:1CC1}.
+FT   HELIX       145    148       {ECO:0000244|PDB:1CC1}.
+FT   HELIX       152    184       {ECO:0000244|PDB:1CC1}.
+FT   STRAND      185    189       {ECO:0000244|PDB:1CC1}.
+FT   STRAND      191    194       {ECO:0000244|PDB:1CC1}.
+FT   STRAND      197    200       {ECO:0000244|PDB:1CC1}.
+FT   HELIX       204    223       {ECO:0000244|PDB:1CC1}.
+FT   HELIX       225    235       {ECO:0000244|PDB:1CC1}.
+FT   HELIX       237    240       {ECO:0000244|PDB:1CC1}.
+FT   STRAND      249    251       {ECO:0000244|PDB:1CC1}.
+FT   STRAND      254    258       {ECO:0000244|PDB:1CC1}.
+FT   STRAND      264    266       {ECO:0000244|PDB:1CC1}.
+FT   STRAND      269    272       {ECO:0000244|PDB:1CC1}.
+FT   STRAND      275    277       {ECO:0000244|PDB:1CC1}.
+FT   HELIX       281    283       {ECO:0000244|PDB:1CC1}.
+FT   STRAND      284    287       {ECO:0000244|PDB:1CC1}.
+FT   STRAND      296    299       {ECO:0000244|PDB:1CC1}.
+FT   HELIX       303    305       {ECO:0000244|PDB:1CC1}.
+FT   STRAND      323    326       {ECO:0000244|PDB:1CC1}.
+FT   HELIX       335    342       {ECO:0000244|PDB:1CC1}.
+FT   HELIX       348    358       {ECO:0000244|PDB:1CC1}.
+FT   HELIX       365    372       {ECO:0000244|PDB:1CC1}.
+FT   HELIX       375    399       {ECO:0000244|PDB:1CC1}.
+FT   STRAND      414    424       {ECO:0000244|PDB:1CC1}.
+FT   STRAND      427    436       {ECO:0000244|PDB:1CC1}.
+FT   STRAND      439    447       {ECO:0000244|PDB:1CC1}.
+FT   HELIX       449    452       {ECO:0000244|PDB:1CC1}.
+FT   HELIX       464    469       {ECO:0000244|PDB:1CC1}.
+FT   HELIX       481    489       {ECO:0000244|PDB:1CC1}.
+FT   HELIX       494    498       {ECO:0000244|PDB:1CC1}.
+SQ   SEQUENCE   514 AA;  56862 MW;  AC920132081C1ADC CRC64;
+     MSQAATPAAD GKVKISIDPL TRVEGHLKIE VEVKDGKVVD AKCSGGMFRG FEQILRGRDP
+     RDSSQIVQRI CGVCPTAHCT ASVMAQDDAF GVKVTTNGRI TRNLIFGANY LQSHILHFYH
+     LAALDYVKGP DVSPFVPRYA NADLLTDRIK DGAKADATNT YGLNQYLKAL EIRRICHEMV
+     AMFGGRMPHV QGMVVGGATE IPTADKVAEY AARFKEVQKF VIEEYLPLIY TLGSVYTDLF
+     ETGIGWKNVI AFGVFPEDDD YKTFLLKPGV YIDGKDEEFD SKLVKEYVGH SFFDHSAPGG
+     LHYSVGETNP NPDKPGAYSF VKAPRYKDKP CEVGPLARMW VQNPELSPVG QKLLKELYGI
+     EAKKFRDLGD KAFSIMGRHV LVAEETWLTA VAVEKWLKQV QPGAETYVKS EIPDAAEGTG
+     FTEAPRGALL HYLKIKDKKI ENYQIVSATL WNANPRDDMG QRGPIEEALI GVPVPDIKNP
+     VNVGRLVRSY DPULGCAVHV LHAETGEEHV VNID
+//

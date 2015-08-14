@@ -1,0 +1,941 @@
+ID   DDX58_HUMAN             Reviewed;         925 AA.
+AC   O95786; A2RU81; Q5HYE1; Q5VYT1; Q9NT04;
+DT   08-NOV-2005, integrated into UniProtKB/Swiss-Prot.
+DT   08-NOV-2005, sequence version 2.
+DT   22-JUL-2015, entry version 132.
+DE   RecName: Full=Probable ATP-dependent RNA helicase DDX58;
+DE            EC=3.6.4.13;
+DE   AltName: Full=DEAD box protein 58;
+DE   AltName: Full=RIG-I-like receptor 1;
+DE            Short=RLR-1;
+DE   AltName: Full=Retinoic acid-inducible gene 1 protein;
+DE            Short=RIG-1;
+DE   AltName: Full=Retinoic acid-inducible gene I protein;
+DE            Short=RIG-I;
+GN   Name=DDX58;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), AND VARIANT GLU-580.
+RA   Sun Y.-W.;
+RT   "RIG-I, a human homolog gene of RNA helicase, is induced by retinoic
+RT   acid during the differentiation of acute promyelocytic leukemia
+RT   cell.";
+RL   Thesis (1997), Shanghai Institute of Hematology, China.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), VARIANT GLU-580, AND
+RP   INDUCTION.
+RX   PubMed=11890704; DOI=10.1006/bbrc.2002.6650;
+RA   Imaizumi T., Aratani S., Nakajima T., Carlson M., Matsumiya T.,
+RA   Tanji K., Ookawa K., Yoshida H., Tsuchida S., McIntyre T.M.,
+RA   Prescott S.M., Zimmerman G.A., Satoh K.;
+RT   "Retinoic acid-inducible gene-I is induced in endothelial cells by LPS
+RT   and regulates expression of COX-2.";
+RL   Biochem. Biophys. Res. Commun. 292:274-279(2002).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15164053; DOI=10.1038/nature02465;
+RA   Humphray S.J., Oliver K., Hunt A.R., Plumb R.W., Loveland J.E.,
+RA   Howe K.L., Andrews T.D., Searle S., Hunt S.E., Scott C.E., Jones M.C.,
+RA   Ainscough R., Almeida J.P., Ambrose K.D., Ashwell R.I.S.,
+RA   Babbage A.K., Babbage S., Bagguley C.L., Bailey J., Banerjee R.,
+RA   Barker D.J., Barlow K.F., Bates K., Beasley H., Beasley O., Bird C.P.,
+RA   Bray-Allen S., Brown A.J., Brown J.Y., Burford D., Burrill W.,
+RA   Burton J., Carder C., Carter N.P., Chapman J.C., Chen Y., Clarke G.,
+RA   Clark S.Y., Clee C.M., Clegg S., Collier R.E., Corby N., Crosier M.,
+RA   Cummings A.T., Davies J., Dhami P., Dunn M., Dutta I., Dyer L.W.,
+RA   Earthrowl M.E., Faulkner L., Fleming C.J., Frankish A.,
+RA   Frankland J.A., French L., Fricker D.G., Garner P., Garnett J.,
+RA   Ghori J., Gilbert J.G.R., Glison C., Grafham D.V., Gribble S.,
+RA   Griffiths C., Griffiths-Jones S., Grocock R., Guy J., Hall R.E.,
+RA   Hammond S., Harley J.L., Harrison E.S.I., Hart E.A., Heath P.D.,
+RA   Henderson C.D., Hopkins B.L., Howard P.J., Howden P.J., Huckle E.,
+RA   Johnson C., Johnson D., Joy A.A., Kay M., Keenan S., Kershaw J.K.,
+RA   Kimberley A.M., King A., Knights A., Laird G.K., Langford C.,
+RA   Lawlor S., Leongamornlert D.A., Leversha M., Lloyd C., Lloyd D.M.,
+RA   Lovell J., Martin S., Mashreghi-Mohammadi M., Matthews L., McLaren S.,
+RA   McLay K.E., McMurray A., Milne S., Nickerson T., Nisbett J.,
+RA   Nordsiek G., Pearce A.V., Peck A.I., Porter K.M., Pandian R.,
+RA   Pelan S., Phillimore B., Povey S., Ramsey Y., Rand V., Scharfe M.,
+RA   Sehra H.K., Shownkeen R., Sims S.K., Skuce C.D., Smith M.,
+RA   Steward C.A., Swarbreck D., Sycamore N., Tester J., Thorpe A.,
+RA   Tracey A., Tromans A., Thomas D.W., Wall M., Wallis J.M., West A.P.,
+RA   Whitehead S.L., Willey D.L., Williams S.A., Wilming L., Wray P.W.,
+RA   Young L., Ashurst J.L., Coulson A., Blocker H., Durbin R.M.,
+RA   Sulston J.E., Hubbard T., Jackson M.J., Bentley D.R., Beck S.,
+RA   Rogers J., Dunham I.;
+RT   "DNA sequence and analysis of human chromosome 9.";
+RL   Nature 429:369-374(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L.,
+RA   Mobarry C.M., Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R.,
+RA   Flanigan M.J., Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V.,
+RA   Hannenhalli S., Turner R., Yooseph S., Lu F., Nusskern D.R.,
+RA   Shue B.C., Zheng X.H., Zhong F., Delcher A.L., Huson D.H.,
+RA   Kravitz S.A., Mouchard L., Reinert K., Remington K.A., Clark A.G.,
+RA   Waterman M.S., Eichler E.E., Adams M.D., Hunkapiller M.W., Myers E.W.,
+RA   Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Brain;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 1-748 (ISOFORM 2),
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 528-925 (ISOFORMS 1/2), AND
+RP   VARIANT CYS-7.
+RC   TISSUE=Skin, and Testis;
+RX   PubMed=17974005; DOI=10.1186/1471-2164-8-399;
+RA   Bechtel S., Rosenfelder H., Duda A., Schmidt C.P., Ernst U.,
+RA   Wellenreuther R., Mehrle A., Schuster C., Bahr A., Bloecker H.,
+RA   Heubner D., Hoerlein A., Michel G., Wedler H., Koehrer K.,
+RA   Ottenwaelder B., Poustka A., Wiemann S., Schupp I.;
+RT   "The full-ORF clone resource of the German cDNA consortium.";
+RL   BMC Genomics 8:399-399(2007).
+RN   [7]
+RP   INDUCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=15181474; DOI=10.1139/o04-041;
+RA   Cui X.-F., Imaizumi T., Yoshida H., Borden E.C., Satoh K.;
+RT   "Retinoic acid-inducible gene-I is induced by interferon-gamma and
+RT   regulates the expression of interferon-gamma stimulated gene 15 in
+RT   MCF-7 cells.";
+RL   Biochem. Cell Biol. 82:401-405(2004).
+RN   [8]
+RP   INDUCTION, TISSUE SPECIFICITY, AND SUBCELLULAR LOCATION.
+RX   PubMed=15219805; DOI=10.1016/j.lfs.2004.01.030;
+RA   Imaizumi T., Yagihashi N., Hatakeyama M., Yamashita K., Ishikawa A.,
+RA   Taima K., Yoshida H., Inoue I., Fujita T., Yagihashi S., Satoh K.;
+RT   "Expression of retinoic acid-inducible gene-I in vascular smooth
+RT   muscle cells stimulated with interferon-gamma.";
+RL   Life Sci. 75:1171-1180(2004).
+RN   [9]
+RP   INDUCTION, MUTAGENESIS OF LYS-270, SUBCELLULAR LOCATION, BINDING TO
+RP   DOUBLE-STRANDED RNA, AND FUNCTION.
+RX   PubMed=15208624; DOI=10.1038/ni1087;
+RA   Yoneyama M., Kikuchi M., Natsukawa T., Shinobu N., Imaizumi T.,
+RA   Miyagishi M., Taira K., Akira S., Fujita T.;
+RT   "The RNA helicase RIG-I has an essential function in double-stranded
+RT   RNA-induced innate antiviral responses.";
+RL   Nat. Immunol. 5:730-737(2004).
+RN   [10]
+RP   FUNCTION, AND INTERACTION WITH MAVS/IPS1.
+RX   PubMed=16125763; DOI=10.1016/j.cell.2005.08.012;
+RA   Seth R.B., Sun L., Ea C.-K., Chen Z.J.;
+RT   "Identification and characterization of MAVS, a mitochondrial
+RT   antiviral signaling protein that activates NF-kappaB and IRF 3.";
+RL   Cell 122:669-682(2005).
+RN   [11]
+RP   INTERACTION WITH IKBKE AND TBK1.
+RX   PubMed=16281057; DOI=10.1038/sj.emboj.7600863;
+RA   Huang J., Liu T., Xu L.-G., Chen D., Zhai Z., Shu H.-B.;
+RT   "SIKE is an IKK epsilon/TBK1-associated suppressor of TLR3- and virus-
+RT   triggered IRF-3 activation pathways.";
+RL   EMBO J. 24:4018-4028(2005).
+RN   [12]
+RP   INDUCTION, MUTAGENESIS OF THR-55 AND LYS-270, BINDING TO
+RP   DOUBLE-STRANDED RNA, AND FUNCTION.
+RX   PubMed=15708988; DOI=10.1128/JVI.79.5.2689-2699.2005;
+RA   Sumpter R. Jr., Loo Y.-M., Foy E., Li K., Yoneyama M., Fujita T.,
+RA   Lemon S.M., Gale M. Jr.;
+RT   "Regulating intracellular antiviral defense and permissiveness to
+RT   hepatitis C virus RNA replication through a cellular RNA helicase,
+RT   RIG-I.";
+RL   J. Virol. 79:2689-2699(2005).
+RN   [13]
+RP   FUNCTION, AND INTERACTION WITH MAVS/IPS1.
+RX   PubMed=16153868; DOI=10.1016/j.molcel.2005.08.014;
+RA   Xu L.-G., Wang Y.-Y., Han K.-J., Li L.-Y., Zhai Z., Shu H.-B.;
+RT   "VISA is an adapter protein required for virus-triggered IFN-beta
+RT   Signaling.";
+RL   Mol. Cell 19:727-740(2005).
+RN   [14]
+RP   FUNCTION, AND INTERACTION WITH MAVS/IPS1.
+RX   PubMed=16127453; DOI=10.1038/ni1243;
+RA   Kawai T., Takahashi K., Sato S., Coban C., Kumar H., Kato H.,
+RA   Ishii K.J., Takeuchi O., Akira S.;
+RT   "IPS-1, an adaptor triggering RIG-I- and Mda5-mediated type I
+RT   interferon induction.";
+RL   Nat. Immunol. 6:981-988(2005).
+RN   [15]
+RP   IDENTIFICATION BY MASS SPECTROMETRY, AND ISGYLATION.
+RX   PubMed=16009940; DOI=10.1073/pnas.0504754102;
+RA   Zhao C., Denison C., Huibregtse J.M., Gygi S.P., Krug R.M.;
+RT   "Human ISG15 conjugation targets both IFN-induced and constitutively
+RT   expressed proteins functioning in diverse cellular pathways.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 102:10200-10205(2005).
+RN   [16]
+RP   INTERACTION WITH TRIM25, SUBCELLULAR LOCATION, UBIQUITINATION, AND
+RP   MUTAGENESIS OF LYS-99; LYS-169; LYS-172; LYS-181 AND LYS-193.
+RX   PubMed=17392790; DOI=10.1038/nature05732;
+RA   Gack M.U., Shin Y.C., Joo C.H., Urano T., Liang C., Sun L.,
+RA   Takeuchi O., Akira S., Chen Z., Inoue S., Jung J.U.;
+RT   "TRIM25 RING-finger E3 ubiquitin ligase is essential for RIG-I-
+RT   mediated antiviral activity.";
+RL   Nature 446:916-920(2007).
+RN   [17]
+RP   FUNCTION, SUBUNIT, REPRESSOR DOMAIN, AND INTERACTION WITH DHX58.
+RX   PubMed=17190814; DOI=10.1073/pnas.0606699104;
+RA   Saito T., Hirai R., Loo Y.-M., Owen D., Johnson C.L., Sinha S.C.,
+RA   Akira S., Fujita T., Gale M. Jr.;
+RT   "Regulation of innate antiviral defenses through a shared repressor
+RT   domain in RIG-I and LGP2.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 104:582-587(2007).
+RN   [18]
+RP   FUNCTION, UBIQUITINATION, AND INTERACTION WITH CYLD.
+RX   PubMed=18636086; DOI=10.1038/embor.2008.136;
+RA   Friedman C.S., O'Donnell M.A., Legarda-Addison D., Ng A.,
+RA   Cardenas W.B., Yount J.S., Moran T.M., Basler C.F., Komuro A.,
+RA   Horvath C.M., Xavier R., Ting A.T.;
+RT   "The tumour suppressor CYLD is a negative regulator of RIG-I-mediated
+RT   antiviral response.";
+RL   EMBO Rep. 9:930-936(2008).
+RN   [19]
+RP   ISGYLATION.
+RX   PubMed=18057259; DOI=10.1128/JVI.01650-07;
+RA   Kim M.J., Hwang S.Y., Imaizumi T., Yoo J.Y.;
+RT   "Negative feedback regulation of RIG-I-mediated antiviral signaling by
+RT   interferon-induced ISG15 conjugation.";
+RL   J. Virol. 82:1474-1483(2008).
+RN   [20]
+RP   INTERACTION WITH TMEM173.
+RX   PubMed=18724357; DOI=10.1038/nature07317;
+RA   Ishikawa H., Barber G.N.;
+RT   "STING is an endoplasmic reticulum adaptor that facilitates innate
+RT   immune signalling.";
+RL   Nature 455:674-678(2008).
+RN   [21]
+RP   FUNCTION.
+RX   PubMed=19631370; DOI=10.1016/j.cell.2009.06.015;
+RA   Chiu Y.-H., Macmillan J.B., Chen Z.J.;
+RT   "RNA polymerase III detects cytosolic DNA and induces type I
+RT   interferons through the RIG-I pathway.";
+RL   Cell 138:576-591(2009).
+RN   [22]
+RP   FUNCTION.
+RX   PubMed=19576794; DOI=10.1016/j.immuni.2009.05.008;
+RA   Schlee M., Roth A., Hornung V., Hagmann C.A., Wimmenauer V.,
+RA   Barchet W., Coch C., Janke M., Mihailovic A., Wardle G., Juranek S.,
+RA   Kato H., Kawai T., Poeck H., Fitzgerald K.A., Takeuchi O., Akira S.,
+RA   Tuschl T., Latz E., Ludwig J., Hartmann G.;
+RT   "Recognition of 5' triphosphate by RIG-I helicase requires short blunt
+RT   double-stranded RNA as contained in panhandle of negative-strand
+RT   virus.";
+RL   Immunity 31:25-34(2009).
+RN   [23]
+RP   UBIQUITINATION, AND INTERACTION WITH RNF135.
+RX   PubMed=19017631; DOI=10.1074/jbc.M804259200;
+RA   Oshiumi H., Matsumoto M., Hatakeyama S., Seya T.;
+RT   "Riplet/RNF135, a RING finger protein, ubiquitinates RIG-I to promote
+RT   interferon-beta induction during the early phase of viral infection.";
+RL   J. Biol. Chem. 284:807-817(2009).
+RN   [24]
+RP   FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=19122199; DOI=10.1074/jbc.M807547200;
+RA   Mukherjee A., Morosky S.A., Shen L., Weber C.R., Turner J.R.,
+RA   Kim K.S., Wang T., Coyne C.B.;
+RT   "Retinoic acid-induced gene-1 (RIG-I) associates with the actin
+RT   cytoskeleton via caspase activation and recruitment domain-dependent
+RT   interactions.";
+RL   J. Biol. Chem. 284:6486-6494(2009).
+RN   [25]
+RP   FUNCTION.
+RX   PubMed=19211564; DOI=10.1074/jbc.M807365200;
+RA   Bamming D., Horvath C.M.;
+RT   "Regulation of signal transduction by enzymatically inactive antiviral
+RT   RNA helicase proteins MDA5, RIG-I, and LGP2.";
+RL   J. Biol. Chem. 284:9700-9712(2009).
+RN   [26]
+RP   INTERACTION WITH SRC.
+RX   PubMed=19419966; DOI=10.1074/jbc.M808233200;
+RA   Johnsen I.B., Nguyen T.T., Bergstroem B., Fitzgerald K.A.,
+RA   Anthonsen M.W.;
+RT   "The tyrosine kinase c-Src enhances RIG-I (retinoic acid-inducible
+RT   gene I)-elicited antiviral signaling.";
+RL   J. Biol. Chem. 284:19122-19131(2009).
+RN   [27]
+RP   INTERACTION WITH HRSV PROTEIN NS2.
+RX   PubMed=19193793; DOI=10.1128/JVI.02434-08;
+RA   Ling Z., Tran K.C., Teng M.N.;
+RT   "Human respiratory syncytial virus nonstructural protein NS2
+RT   antagonizes the activation of beta interferon transcription by
+RT   interacting with RIG-I.";
+RL   J. Virol. 83:3734-3742(2009).
+RN   [28]
+RP   FUNCTION.
+RX   PubMed=19609254; DOI=10.1038/ni.1779;
+RA   Ablasser A., Bauernfeind F., Hartmann G., Latz E., Fitzgerald K.A.,
+RA   Hornung V.;
+RT   "RIG-I-dependent sensing of poly(dA:dT) through the induction of an
+RT   RNA polymerase III-transcribed RNA intermediate.";
+RL   Nat. Immunol. 10:1065-1072(2009).
+RN   [29]
+RP   UBIQUITINATION AT LYS-154; LYS-164 AND LYS-172, INTERACTION WITH
+RP   RNF135, AND MUTAGENESIS OF LYS-154; LYS-164 AND LYS-172.
+RX   PubMed=19484123; DOI=10.1371/journal.pone.0005760;
+RA   Gao D., Yang Y.K., Wang R.P., Zhou X., Diao F.C., Li M.D., Zhai Z.H.,
+RA   Jiang Z.F., Chen D.Y.;
+RT   "REUL is a novel E3 ubiquitin ligase and stimulator of retinoic-acid-
+RT   inducible gene-I.";
+RL   PLoS ONE 4:E5760-E5760(2009).
+RN   [30]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT LYS-858, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19608861; DOI=10.1126/science.1175371;
+RA   Choudhary C., Kumar C., Gnad F., Nielsen M.L., Rehman M.,
+RA   Walther T.C., Olsen J.V., Mann M.;
+RT   "Lysine acetylation targets protein complexes and co-regulates major
+RT   cellular functions.";
+RL   Science 325:834-840(2009).
+RN   [31]
+RP   INTERACTION WITH NLRC5.
+RX   PubMed=20434986; DOI=10.1016/j.cell.2010.03.040;
+RA   Cui J., Zhu L., Xia X., Wang H.Y., Legras X., Hong J., Ji J., Shen P.,
+RA   Zheng S., Chen Z.J., Wang R.F.;
+RT   "NLRC5 negatively regulates the NF-kappaB and type I interferon
+RT   signaling pathways.";
+RL   Cell 141:483-496(2010).
+RN   [32]
+RP   UBIQUITINATION, AND DEUBIQUITINATION BY USP17L2.
+RX   PubMed=20368735; DOI=10.1038/cr.2010.41;
+RA   Chen R., Zhang L., Zhong B., Tan B., Liu Y., Shu H.B.;
+RT   "The ubiquitin-specific protease 17 is involved in virus-triggered
+RT   type I IFN signaling.";
+RL   Cell Res. 20:802-811(2010).
+RN   [33]
+RP   REVIEW ON FUNCTION.
+RX   PubMed=21175414; DOI=10.1615/CritRevImmunol.v30.i6.10;
+RA   Matsumiya T., Stafforini D.M.;
+RT   "Function and regulation of retinoic acid-inducible gene-I.";
+RL   Crit. Rev. Immunol. 30:489-513(2010).
+RN   [34]
+RP   INTERACTION WITH NEW WORLD ARENAVIRUSES PROTEIN Z.
+RX   PubMed=20007272; DOI=10.1128/JVI.01362-09;
+RA   Fan L., Briese T., Lipkin W.I.;
+RT   "Z proteins of New World arenaviruses bind RIG-I and interfere with
+RT   type I interferon induction.";
+RL   J. Virol. 84:1785-1791(2010).
+RN   [35]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P.,
+RA   Buerckstuemmer T., Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [36]
+RP   REVIEW ON FUNCTION.
+RX   PubMed=21616437; DOI=10.1016/j.immuni.2011.05.003;
+RA   Loo Y.M., Gale M. Jr.;
+RT   "Immune signaling by RIG-I-like receptors.";
+RL   Immunity 34:680-692(2011).
+RN   [37]
+RP   REVIEW ON FUNCTION.
+RX   PubMed=21884169; DOI=10.1111/j.1600-065X.2011.01052.x;
+RA   Kato H., Takahasi K., Fujita T.;
+RT   "RIG-I-like receptors: cytoplasmic sensors for non-self RNA.";
+RL   Immunol. Rev. 243:91-98(2011).
+RN   [38]
+RP   FUNCTION.
+RX   PubMed=21742966; DOI=10.4049/jimmunol.1100361;
+RA   Jiang M., Osterlund P., Sarin L.P., Poranen M.M., Bamford D.H.,
+RA   Guo D., Julkunen I.;
+RT   "Innate immune responses in human monocyte-derived dendritic cells are
+RT   highly dependent on the size and the 5' phosphorylation of RNA
+RT   molecules.";
+RL   J. Immunol. 187:1713-1721(2011).
+RN   [39]
+RP   INTERACTION WITH IFIT3.
+RX   PubMed=21813773; DOI=10.4049/jimmunol.1100963;
+RA   Liu X.Y., Chen W., Wei B., Shan Y.F., Wang C.;
+RT   "IFN-induced TPR protein IFIT3 potentiates antiviral signaling by
+RT   bridging MAVS and TBK1.";
+RL   J. Immunol. 187:2559-2568(2011).
+RN   [40]
+RP   REVIEW ON FUNCTION.
+RX   PubMed=20950133; DOI=10.1089/jir.2010.0057;
+RA   Onoguchi K., Yoneyama M., Fujita T.;
+RT   "Retinoic acid-inducible gene-I-like receptors.";
+RL   J. Interferon Cytokine Res. 31:27-31(2011).
+RN   [41]
+RP   PHOSPHORYLATION AT THR-770; SER-854 AND SER-855.
+RX   PubMed=21068236; DOI=10.1128/JVI.01734-10;
+RA   Sun Z., Ren H., Liu Y., Teeling J.L., Gu J.;
+RT   "Phosphorylation of RIG-I by casein kinase II inhibits its antiviral
+RT   response.";
+RL   J. Virol. 85:1036-1047(2011).
+RN   [42]
+RP   INTERACTION WITH DDX60.
+RX   PubMed=21791617; DOI=10.1128/MCB.01368-10;
+RA   Miyashita M., Oshiumi H., Matsumoto M., Seya T.;
+RT   "DDX60, a DEXD/H box helicase, is a novel antiviral factor promoting
+RT   RIG-I-like receptor-mediated signaling.";
+RL   Mol. Cell. Biol. 31:3802-3819(2011).
+RN   [43]
+RP   INTERACTION WITH ZC3HAV1, AND SUBCELLULAR LOCATION.
+RX   PubMed=21102435; DOI=10.1038/ni.1963;
+RA   Hayakawa S., Shiratori S., Yamato H., Kameyama T., Kitatsuji C.,
+RA   Kashigi F., Goto S., Kameoka S., Fujikura D., Yamada T., Mizutani T.,
+RA   Kazumata M., Sato M., Tanaka J., Asaka M., Ohba Y., Miyazaki T.,
+RA   Imamura M., Takaoka A.;
+RT   "ZAPS is a potent stimulator of signaling mediated by the RNA helicase
+RT   RIG-I during antiviral responses.";
+RL   Nat. Immunol. 12:37-44(2011).
+RN   [44]
+RP   INTERACTION WITH ROTAVIRUS PROTEIN NSP1.
+RX   PubMed=22152002; DOI=10.1186/1743-422X-8-526;
+RA   Qin L., Ren L., Zhou Z., Lei X., Chen L., Xue Q., Liu X., Wang J.,
+RA   Hung T.;
+RT   "Rotavirus nonstructural protein 1 antagonizes innate immune response
+RT   by interacting with retinoic acid inducible gene I.";
+RL   Virol. J. 8:526-526(2011).
+RN   [45]
+RP   INTERACTION WITH HERPES SIMPLEX VIRUS 1 PROTEIN US11.
+RX   PubMed=22301138; DOI=10.1128/JVI.06713-11;
+RA   Xing J., Wang S., Lin R., Mossman K.L., Zheng C.;
+RT   "Herpes simplex virus 1 tegument protein US11 downmodulates the RLR
+RT   signaling pathway via direct interaction with RIG-I and MDA-5.";
+RL   J. Virol. 86:3528-3540(2012).
+RN   [46]
+RP   SUMOYLATION BY MUL1.
+RX   PubMed=23399697; DOI=10.1038/icb.2013.7;
+RA   Jenkins K., Khoo J.J., Sadler A., Piganis R., Wang D., Borg N.A.,
+RA   Hjerrild K., Gould J., Thomas B.J., Nagley P., Hertzog P.J.,
+RA   Mansell A.;
+RT   "Mitochondrially localised MUL1 is a novel modulator of antiviral
+RT   signaling.";
+RL   Immunol. Cell Biol. 91:321-330(2013).
+RN   [47]
+RP   UBIQUITINATION AT LYS-154; LYS-164 AND LYS-172 BY TRIM4.
+RX   PubMed=24755855; DOI=10.1093/jmcb/mju005;
+RA   Yan J., Li Q., Mao A.P., Hu M.M., Shu H.B.;
+RT   "TRIM4 modulates type I interferon induction and cellular antiviral
+RT   response by targeting RIG-I for K63-linked ubiquitination.";
+RL   J. Mol. Cell Biol. 6:154-163(2014).
+RN   [48]
+RP   X-RAY CRYSTALLOGRAPHY (2.7 ANGSTROMS) OF 802-925 IN COMPLEX WITH ZINC
+RP   IONS.
+RX   PubMed=18243112; DOI=10.1016/j.molcel.2007.10.032;
+RA   Cui S., Eisenaecher K., Kirchhofer A., Brzozka K., Lammens A.,
+RA   Lammens K., Fujita T., Conzelmann K.-K., Krug A., Hopfner K.-P.;
+RT   "The C-terminal regulatory domain is the RNA 5'-triphosphate sensor of
+RT   RIG-I.";
+RL   Mol. Cell 29:169-179(2008).
+RN   [49]
+RP   STRUCTURE BY NMR OF 792-925.
+RX   PubMed=18242112; DOI=10.1016/j.molcel.2007.11.028;
+RA   Takahasi K., Yoneyama M., Nishihori T., Hirai R., Kumeta H.,
+RA   Narita R., Gale M. Jr., Inagaki F., Fujita T.;
+RT   "Nonself RNA-sensing mechanism of RIG-I helicase and activation of
+RT   antiviral immune responses.";
+RL   Mol. Cell 29:428-440(2008).
+RN   [50]
+RP   X-RAY CRYSTALLOGRAPHY (3.4 ANGSTROMS) OF 1-201 IN COMPLEX WITH MAVS,
+RP   AND SUBUNIT.
+RX   PubMed=25018021; DOI=10.1016/j.molcel.2014.06.010;
+RA   Wu B., Peisley A., Tetrault D., Li Z., Egelman E.H., Magor K.E.,
+RA   Walz T., Penczek P.A., Hur S.;
+RT   "Molecular imprinting as a signal-activation mechanism of the viral
+RT   RNA sensor RIG-I.";
+RL   Mol. Cell 55:511-523(2014).
+CC   -!- FUNCTION: Innate immune receptor which acts as a cytoplasmic
+CC       sensor of viral nucleic acids and plays a major role in sensing
+CC       viral infection and in the activation of a cascade of antiviral
+CC       responses including the induction of type I interferons and
+CC       proinflammatory cytokines. Its ligands include: 5'-
+CC       triphosphorylated ssRNA and dsRNA and short dsRNA (<1 kb in
+CC       length). In addition to the 5'-triphosphate moiety, blunt-end base
+CC       pairing at the 5'-end of the RNA is very essential. Overhangs at
+CC       the non-triphosphorylated end of the dsRNA RNA have no major
+CC       impact on its activity. A 3'overhang at the 5'triphosphate end
+CC       decreases and any 5'overhang at the 5' triphosphate end abolishes
+CC       its activity. Upon ligand binding it associates with mitochondria
+CC       antiviral signaling protein (MAVS/IPS1) which activates the IKK-
+CC       related kinases: TBK1 and IKBKE which phosphorylate interferon
+CC       regulatory factors: IRF3 and IRF7 which in turn activate
+CC       transcription of antiviral immunological genes, including
+CC       interferons (IFNs); IFN-alpha and IFN-beta. Detects both positive
+CC       and negative strand RNA viruses including members of the families
+CC       Paramyxoviridae: Human respiratory syncytial virus and measles
+CC       virus (MeV), Rhabdoviridae: vesicular stomatitis virus (VSV),
+CC       Orthomyxoviridae: influenza A and B virus, Flaviviridae: Japanese
+CC       encephalitis virus (JEV), hepatitis C virus (HCV), dengue virus
+CC       (DENV) and west Nile virus (WNV). It also detects rotavirus and
+CC       reovirus. Also involved in antiviral signaling in response to
+CC       viruses containing a dsDNA genome such as Epstein-Barr virus
+CC       (EBV). Detects dsRNA produced from non-self dsDNA by RNA
+CC       polymerase III, such as Epstein-Barr virus-encoded RNAs (EBERs).
+CC       May play important roles in granulocyte production and
+CC       differentiation, bacterial phagocytosis and in the regulation of
+CC       cell migration. {ECO:0000269|PubMed:15208624,
+CC       ECO:0000269|PubMed:15708988, ECO:0000269|PubMed:16125763,
+CC       ECO:0000269|PubMed:16127453, ECO:0000269|PubMed:16153868,
+CC       ECO:0000269|PubMed:17190814, ECO:0000269|PubMed:18636086,
+CC       ECO:0000269|PubMed:19122199, ECO:0000269|PubMed:19211564,
+CC       ECO:0000269|PubMed:19576794, ECO:0000269|PubMed:19609254,
+CC       ECO:0000269|PubMed:19631370, ECO:0000269|PubMed:21742966}.
+CC   -!- CATALYTIC ACTIVITY: ATP + H(2)O = ADP + phosphate.
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC   -!- SUBUNIT: Monomer; maintained as a monomer in an autoinhibited
+CC       state. Upon viral dsRNA binding and conformation shift,
+CC       homomultimerizes and interacts (via tandem CARD domain) with
+CC       MAVS/IPS1 promoting its filamentation. Interacts with DHX58/LGP2,
+CC       IKBKE, TBK1 and TMEM173/STING. Interacts (via CARD domain) with
+CC       TRIM25 (via SPRY domain). Interacts with RNF135. Interacts with
+CC       CYLD. Interacts with NLRC5; blocks the interaction of MAVS/IPS1 to
+CC       DDX58. Interacts with SRC. Interacts with protein Z of Guanarito
+CC       virus, Machupo virus, Junin arenavirus and Sabia virus. This
+CC       interaction disrupts its interaction with MAVS/IPS1, impeding
+CC       downstream IRF3 and NF-kappa-B activation and resulting in
+CC       decreased IFN-beta induction. Interacts (via CARD domain) with
+CC       Human respiratory syncytial virus A non-structural protein 2 (NS2)
+CC       and this interaction disrupts its interaction with MAVS/IPS1,
+CC       impeding downstream IRF3 activation. Interacts with Rotavirus A
+CC       non-structural protein 1 (NSP1) and this interaction induces down-
+CC       regulation of DDX58/RIG-I. Interacts with DDX60. Interacts with
+CC       isoform 2 of ZC3HAV1 (via zinc-fingers) in an RNA-dependent
+CC       manner. Interacts with herpes simplex virus 1 protein US11; this
+CC       interaction prevents the interaction of MAVS/IPS1 to DDX58.
+CC       {ECO:0000269|PubMed:16125763, ECO:0000269|PubMed:16127453,
+CC       ECO:0000269|PubMed:16153868, ECO:0000269|PubMed:16281057,
+CC       ECO:0000269|PubMed:17190814, ECO:0000269|PubMed:17392790,
+CC       ECO:0000269|PubMed:18243112, ECO:0000269|PubMed:18636086,
+CC       ECO:0000269|PubMed:18724357, ECO:0000269|PubMed:19017631,
+CC       ECO:0000269|PubMed:19193793, ECO:0000269|PubMed:19419966,
+CC       ECO:0000269|PubMed:19484123, ECO:0000269|PubMed:20007272,
+CC       ECO:0000269|PubMed:20434986, ECO:0000269|PubMed:21102435,
+CC       ECO:0000269|PubMed:21791617, ECO:0000269|PubMed:21813773,
+CC       ECO:0000269|PubMed:22152002, ECO:0000269|PubMed:22301138,
+CC       ECO:0000269|PubMed:25018021}.
+CC   -!- INTERACTION:
+CC       Self; NbExp=2; IntAct=EBI-995350, EBI-995350;
+CC       F1BA49:- (xeno); NbExp=5; IntAct=EBI-995350, EBI-9687469;
+CC       P04543:1B (xeno); NbExp=2; IntAct=EBI-995350, EBI-3648048;
+CC       Q920D5:Casp12 (xeno); NbExp=4; IntAct=EBI-995350, EBI-1374296;
+CC       Q9NQC7:CYLD; NbExp=2; IntAct=EBI-995350, EBI-2117940;
+CC       O00571:DDX3X; NbExp=2; IntAct=EBI-995350, EBI-353779;
+CC       Q7Z434:MAVS; NbExp=13; IntAct=EBI-995350, EBI-995373;
+CC       P21699:NSS (xeno); NbExp=3; IntAct=EBI-995350, EBI-6693910;
+CC       O75569:PRKRA; NbExp=2; IntAct=EBI-995350, EBI-713955;
+CC       P42224:STAT1; NbExp=4; IntAct=EBI-995350, EBI-1057697;
+CC       Q14258:TRIM25; NbExp=4; IntAct=EBI-995350, EBI-2341129;
+CC       P04487:US11 (xeno); NbExp=4; IntAct=EBI-995350, EBI-6150681;
+CC       Q96S55:WRNIP1; NbExp=2; IntAct=EBI-995350, EBI-2513471;
+CC       Q6IUF9:Z (xeno); NbExp=3; IntAct=EBI-995350, EBI-3647473;
+CC       Q6IVU5:Z (xeno); NbExp=3; IntAct=EBI-995350, EBI-3647294;
+CC       Q6UY62:Z (xeno); NbExp=2; IntAct=EBI-995350, EBI-3647496;
+CC       Q6UY71:Z (xeno); NbExp=3; IntAct=EBI-995350, EBI-3647448;
+CC       Q7Z2W4:ZC3HAV1; NbExp=3; IntAct=EBI-995350, EBI-922540;
+CC       Q7Z2W4-2:ZC3HAV1; NbExp=4; IntAct=EBI-995350, EBI-922559;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm. Cell projection, ruffle membrane.
+CC       Cytoplasm, cytoskeleton. Cell junction, tight junction.
+CC       Note=Colocalized with TRIM25 at cytoplasmic perinuclear bodies.
+CC       Associated with the actin cytoskeleton at membrane ruffles.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=O95786-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=O95786-2; Sequence=VSP_016054;
+CC         Note=No experimental confirmation available.;
+CC   -!- TISSUE SPECIFICITY: Present in vascular smooth cells (at protein
+CC       level). {ECO:0000269|PubMed:15219805}.
+CC   -!- INDUCTION: By bacterial lipopolysaccharides (LPS) in endothelial
+CC       cells. By interferon (IFN). {ECO:0000269|PubMed:11890704,
+CC       ECO:0000269|PubMed:15181474, ECO:0000269|PubMed:15208624,
+CC       ECO:0000269|PubMed:15219805, ECO:0000269|PubMed:15708988}.
+CC   -!- DOMAIN: The repressor domain controls homomultimerization and
+CC       interaction with MAVS/IPS1. In the absence of viral infection, the
+CC       protein is maintained as a monomer in an autoinhibited state with
+CC       the CARD domains masked through intramolecular interactions
+CC       mediated by the repressor domain. Upon binding to viral RNA in the
+CC       presence of ATP, the repressor domain induces a conformational
+CC       change exposing the CARD domain and promotes dimerization and CARD
+CC       interactions with the adapter protein MAVS/IPS1 leading to the
+CC       induction of downstream signaling.
+CC   -!- DOMAIN: The helicase domain is responsible for dsRNA recognition.
+CC   -!- DOMAIN: The 2 CARD domains are responsible for interaction with
+CC       and signaling through MAVS/IPS1 and for association with the actin
+CC       cytoskeleton.
+CC   -!- DOMAIN: The second CARD domain is the primary site for 'Lys-63'-
+CC       linked ubiquitination.
+CC   -!- PTM: Phosphorylated in resting cells and dephosphorylated in RNA
+CC       virus-infected cells. Phosphorylation at Thr-770, Ser-854 and Ser-
+CC       855 results in inhibition of its activity while dephosphorylation
+CC       at these sites results in its activation.
+CC       {ECO:0000269|PubMed:21068236}.
+CC   -!- PTM: ISGylated. Conjugated to ubiquitin-like protein ISG15 upon
+CC       IFN-beta stimulation. ISGylation negatively regulates its function
+CC       in antiviral signaling response. {ECO:0000269|PubMed:16009940,
+CC       ECO:0000269|PubMed:18057259, ECO:0000269|PubMed:20368735}.
+CC   -!- PTM: Sumoylated, probably by MUL1; inhibiting its
+CC       polyubiquitination. {ECO:0000269|PubMed:20368735,
+CC       ECO:0000269|PubMed:23399697}.
+CC   -!- PTM: Ubiquitinated. Undergoes 'Lys-48'- and 'Lys-63'-linked
+CC       ubiquitination. Lys-172 is the critical site for TRIM25-mediated
+CC       ubiquitination, for MAVS/IPS1 binding and to induce anti-viral
+CC       signal transduction. Lys-154, Lys-164 and Lys-172 are critical
+CC       sites for RNF135-mediated and TRIM4-mediated ubiquitination.
+CC       Deubiquitinated by CYLD, a protease that selectively cleaves 'Lys-
+CC       63'-linked ubiquitin chains. Also probably deubiquitinated by
+CC       USP17L2/USP17 that cleaves 'Lys-48'-and 'Lys-63'-linked ubiquitin
+CC       chains and positively regulates the receptor.
+CC       {ECO:0000269|PubMed:19484123, ECO:0000269|PubMed:20368735,
+CC       ECO:0000269|PubMed:24755855}.
+CC   -!- SIMILARITY: Belongs to the helicase family. RLR subfamily.
+CC       {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 2 CARD domains. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 helicase ATP-binding domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00541}.
+CC   -!- SIMILARITY: Contains 1 helicase C-terminal domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00542}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF038963; AAD19826.1; -; mRNA.
+DR   EMBL; AL353671; CAH71251.1; -; Genomic_DNA.
+DR   EMBL; AL161783; CAH71251.1; JOINED; Genomic_DNA.
+DR   EMBL; AL161783; CAH72600.1; -; Genomic_DNA.
+DR   EMBL; AL353671; CAH72600.1; JOINED; Genomic_DNA.
+DR   EMBL; CH471071; EAW58548.1; -; Genomic_DNA.
+DR   EMBL; BC132786; AAI32787.1; -; mRNA.
+DR   EMBL; BC136610; AAI36611.1; -; mRNA.
+DR   EMBL; BX647917; CAI46068.1; -; mRNA.
+DR   EMBL; AL137608; CAB70840.1; -; mRNA.
+DR   CCDS; CCDS6526.1; -. [O95786-1]
+DR   PIR; T46312; T46312.
+DR   RefSeq; NP_055129.2; NM_014314.3. [O95786-1]
+DR   UniGene; Hs.190622; -.
+DR   PDB; 2LWD; NMR; -; A=95-190.
+DR   PDB; 2LWE; NMR; -; A=95-190.
+DR   PDB; 2QFB; X-ray; 3.00 A; A/B/C/D/E/F/G/H/I/J=802-925.
+DR   PDB; 2QFD; X-ray; 2.70 A; A/B/C/D/E/F/G/H/I/J=802-925.
+DR   PDB; 2RMJ; NMR; -; A=792-925.
+DR   PDB; 2YKG; X-ray; 2.50 A; A=230-925.
+DR   PDB; 3LRN; X-ray; 2.60 A; A/B=803-923.
+DR   PDB; 3LRR; X-ray; 2.15 A; A/B=803-923.
+DR   PDB; 3NCU; X-ray; 2.55 A; A/B=792-925.
+DR   PDB; 3OG8; X-ray; 2.40 A; A/B=802-925.
+DR   PDB; 3TMI; X-ray; 2.90 A; A=232-925.
+DR   PDB; 3ZD6; X-ray; 2.80 A; A=230-925.
+DR   PDB; 3ZD7; X-ray; 2.50 A; A=230-925.
+DR   PDB; 4AY2; X-ray; 2.80 A; A=239-925.
+DR   PDB; 4BPB; X-ray; 2.58 A; A=230-925.
+DR   PDB; 4NQK; X-ray; 3.70 A; A/B/C/D=1-200.
+DR   PDB; 4ON9; X-ray; 2.71 A; A/B=230-793.
+DR   PDB; 4P4H; X-ray; 3.40 A; A/B/C/D/E/F/G/H=1-201.
+DR   PDBsum; 2LWD; -.
+DR   PDBsum; 2LWE; -.
+DR   PDBsum; 2QFB; -.
+DR   PDBsum; 2QFD; -.
+DR   PDBsum; 2RMJ; -.
+DR   PDBsum; 2YKG; -.
+DR   PDBsum; 3LRN; -.
+DR   PDBsum; 3LRR; -.
+DR   PDBsum; 3NCU; -.
+DR   PDBsum; 3OG8; -.
+DR   PDBsum; 3TMI; -.
+DR   PDBsum; 3ZD6; -.
+DR   PDBsum; 3ZD7; -.
+DR   PDBsum; 4AY2; -.
+DR   PDBsum; 4BPB; -.
+DR   PDBsum; 4NQK; -.
+DR   PDBsum; 4ON9; -.
+DR   PDBsum; 4P4H; -.
+DR   ProteinModelPortal; O95786; -.
+DR   SMR; O95786; 1-188, 240-925.
+DR   BioGrid; 117121; 35.
+DR   DIP; DIP-35444N; -.
+DR   IntAct; O95786; 22.
+DR   MINT; MINT-2799116; -.
+DR   STRING; 9606.ENSP00000369213; -.
+DR   PhosphoSite; O95786; -.
+DR   BioMuta; DDX58; -.
+DR   MaxQB; O95786; -.
+DR   PaxDb; O95786; -.
+DR   PRIDE; O95786; -.
+DR   Ensembl; ENST00000379883; ENSP00000369213; ENSG00000107201.
+DR   GeneID; 23586; -.
+DR   KEGG; hsa:23586; -.
+DR   UCSC; uc003zra.3; human. [O95786-1]
+DR   UCSC; uc010mjk.1; human. [O95786-2]
+DR   CTD; 23586; -.
+DR   GeneCards; GC09M032447; -.
+DR   HGNC; HGNC:19102; DDX58.
+DR   HPA; CAB012643; -.
+DR   HPA; HPA047193; -.
+DR   MIM; 609631; gene.
+DR   neXtProt; NX_O95786; -.
+DR   PharmGKB; PA134994272; -.
+DR   eggNOG; COG1111; -.
+DR   GeneTree; ENSGT00510000046789; -.
+DR   HOGENOM; HOG000230911; -.
+DR   HOVERGEN; HBG052325; -.
+DR   InParanoid; O95786; -.
+DR   KO; K12646; -.
+DR   OMA; KCKAFAC; -.
+DR   PhylomeDB; O95786; -.
+DR   TreeFam; TF330258; -.
+DR   Reactome; REACT_115831; ISG15 antiviral mechanism.
+DR   Reactome; REACT_24938; TRAF6 mediated IRF7 activation.
+DR   Reactome; REACT_24969; TRAF6 mediated NF-kB activation.
+DR   Reactome; REACT_25026; TRAF3-dependent IRF activation pathway.
+DR   Reactome; REACT_25039; NF-kB activation through FADD/RIP-1 pathway mediated by caspase-8 and -10.
+DR   Reactome; REACT_25271; Negative regulators of RIG-I/MDA5 signaling.
+DR   Reactome; REACT_25359; RIG-I/MDA5 mediated induction of IFN-alpha/beta pathways.
+DR   ChiTaRS; DDX58; human.
+DR   EvolutionaryTrace; O95786; -.
+DR   GeneWiki; RIG-I; -.
+DR   GenomeRNAi; 23586; -.
+DR   NextBio; 46208; -.
+DR   PRO; PR:O95786; -.
+DR   Proteomes; UP000005640; Chromosome 9.
+DR   Bgee; O95786; -.
+DR   CleanEx; HS_DDX58; -.
+DR   ExpressionAtlas; O95786; baseline and differential.
+DR   Genevisible; O95786; HS.
+DR   GO; GO:0015629; C:actin cytoskeleton; IDA:UniProtKB.
+DR   GO; GO:0005923; C:bicellular tight junction; IDA:UniProtKB.
+DR   GO; GO:0005737; C:cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0032587; C:ruffle membrane; IDA:UniProtKB.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003690; F:double-stranded DNA binding; IEA:Ensembl.
+DR   GO; GO:0003725; F:double-stranded RNA binding; IDA:UniProtKB.
+DR   GO; GO:0004386; F:helicase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0042802; F:identical protein binding; IPI:IntAct.
+DR   GO; GO:0003727; F:single-stranded RNA binding; IMP:UniProtKB.
+DR   GO; GO:0008270; F:zinc ion binding; IDA:UniProtKB.
+DR   GO; GO:0039528; P:cytoplasmic pattern recognition receptor signaling pathway in response to virus; TAS:UniProtKB.
+DR   GO; GO:0009597; P:detection of virus; IDA:BHF-UCL.
+DR   GO; GO:0045087; P:innate immune response; IMP:UniProtKB.
+DR   GO; GO:0032480; P:negative regulation of type I interferon production; TAS:Reactome.
+DR   GO; GO:0002230; P:positive regulation of defense response to virus by host; IMP:UniProtKB.
+DR   GO; GO:0010628; P:positive regulation of gene expression; IDA:CACAO.
+DR   GO; GO:0032725; P:positive regulation of granulocyte macrophage colony-stimulating factor production; IDA:CACAO.
+DR   GO; GO:0032727; P:positive regulation of interferon-alpha production; IDA:UniProtKB.
+DR   GO; GO:0032728; P:positive regulation of interferon-beta production; IMP:UniProtKB.
+DR   GO; GO:0032755; P:positive regulation of interleukin-6 production; IDA:CACAO.
+DR   GO; GO:0032757; P:positive regulation of interleukin-8 production; IDA:CACAO.
+DR   GO; GO:0051091; P:positive regulation of sequence-specific DNA binding transcription factor activity; IC:BHF-UCL.
+DR   GO; GO:0042993; P:positive regulation of transcription factor import into nucleus; IDA:BHF-UCL.
+DR   GO; GO:0045944; P:positive regulation of transcription from RNA polymerase II promoter; IDA:BHF-UCL.
+DR   GO; GO:0030334; P:regulation of cell migration; IDA:UniProtKB.
+DR   GO; GO:0034344; P:regulation of type III interferon production; TAS:UniProtKB.
+DR   GO; GO:0043330; P:response to exogenous dsRNA; IEA:Ensembl.
+DR   GO; GO:0009615; P:response to virus; TAS:UniProtKB.
+DR   GO; GO:0039529; P:RIG-I signaling pathway; IMP:UniProtKB.
+DR   GO; GO:0016032; P:viral process; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.533.10; -; 1.
+DR   Gene3D; 3.40.50.300; -; 2.
+DR   InterPro; IPR003593; AAA+_ATPase.
+DR   InterPro; IPR011545; DEAD/DEAH_box_helicase_dom.
+DR   InterPro; IPR011029; DEATH-like_dom.
+DR   InterPro; IPR014001; Helicase_ATP-bd.
+DR   InterPro; IPR001650; Helicase_C.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   InterPro; IPR021673; RIG-I_C-RD.
+DR   Pfam; PF00270; DEAD; 1.
+DR   Pfam; PF00271; Helicase_C; 1.
+DR   Pfam; PF11648; RIG-I_C-RD; 1.
+DR   SMART; SM00382; AAA; 1.
+DR   SMART; SM00487; DEXDc; 1.
+DR   SMART; SM00490; HELICc; 1.
+DR   SUPFAM; SSF52540; SSF52540; 3.
+DR   PROSITE; PS51192; HELICASE_ATP_BIND_1; 1.
+DR   PROSITE; PS51194; HELICASE_CTER; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Alternative splicing; Antiviral defense;
+KW   ATP-binding; Cell junction; Cell membrane; Cell projection;
+KW   Complete proteome; Cytoplasm; Cytoskeleton; Helicase;
+KW   Host-virus interaction; Hydrolase; Immunity; Innate immunity;
+KW   Isopeptide bond; Membrane; Metal-binding; Nucleotide-binding;
+KW   Phosphoprotein; Polymorphism; Reference proteome; Repeat; RNA-binding;
+KW   Tight junction; Ubl conjugation; Zinc.
+FT   CHAIN         1    925       Probable ATP-dependent RNA helicase
+FT                                DDX58.
+FT                                /FTId=PRO_0000144093.
+FT   DOMAIN        1     87       CARD 1.
+FT   DOMAIN       92    172       CARD 2.
+FT   DOMAIN      251    430       Helicase ATP-binding.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00541}.
+FT   DOMAIN      610    776       Helicase C-terminal.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00542}.
+FT   NP_BIND     264    271       ATP. {ECO:0000305}.
+FT   REGION      218    925       Interaction with ZC3HAV1.
+FT   REGION      735    925       Repressor domain.
+FT   MOTIF       372    375       DECH box.
+FT   METAL       810    810       Zinc.
+FT   METAL       813    813       Zinc.
+FT   METAL       864    864       Zinc.
+FT   METAL       869    869       Zinc.
+FT   MOD_RES     770    770       Phosphothreonine; by CK2.
+FT                                {ECO:0000269|PubMed:21068236}.
+FT   MOD_RES     854    854       Phosphoserine; by CK2.
+FT                                {ECO:0000269|PubMed:21068236}.
+FT   MOD_RES     855    855       Phosphoserine; by CK2.
+FT                                {ECO:0000269|PubMed:21068236}.
+FT   MOD_RES     858    858       N6-acetyllysine.
+FT                                {ECO:0000269|PubMed:19608861}.
+FT   CROSSLNK    154    154       Glycyl lysine isopeptide (Lys-Gly)
+FT                                (interchain with G-Cter in ubiquitin).
+FT                                {ECO:0000269|PubMed:19484123}.
+FT   CROSSLNK    164    164       Glycyl lysine isopeptide (Lys-Gly)
+FT                                (interchain with G-Cter in ubiquitin).
+FT                                {ECO:0000269|PubMed:19484123}.
+FT   CROSSLNK    172    172       Glycyl lysine isopeptide (Lys-Gly)
+FT                                (interchain with G-Cter in ubiquitin).
+FT                                {ECO:0000269|PubMed:19484123}.
+FT   VAR_SEQ      36     80       Missing (in isoform 2).
+FT                                {ECO:0000303|PubMed:17974005}.
+FT                                /FTId=VSP_016054.
+FT   VARIANT       7      7       R -> C (in dbSNP:rs10813831).
+FT                                {ECO:0000269|PubMed:17974005}.
+FT                                /FTId=VAR_023747.
+FT   VARIANT     580    580       D -> E (in dbSNP:rs17217280).
+FT                                {ECO:0000269|PubMed:11890704,
+FT                                ECO:0000269|Ref.1}.
+FT                                /FTId=VAR_023748.
+FT   MUTAGEN      55     55       T->I: No IRF3 signaling activity; no
+FT                                effect on dsRNA binding.
+FT                                {ECO:0000269|PubMed:15708988}.
+FT   MUTAGEN      99     99       K->R: Little or no effect on
+FT                                ubiquitination of the 2 CARD domains.
+FT                                {ECO:0000269|PubMed:17392790}.
+FT   MUTAGEN     154    154       K->R: Reduction of ubiquitination.
+FT                                Reduction of INFB induction.
+FT                                {ECO:0000269|PubMed:19484123}.
+FT   MUTAGEN     164    164       K->R: Reduction of ubiquitination.
+FT                                Reduction of INFB induction.
+FT                                {ECO:0000269|PubMed:19484123}.
+FT   MUTAGEN     169    169       K->R: Little or no effect on
+FT                                ubiquitination of the 2 CARD domains.
+FT                                {ECO:0000269|PubMed:17392790}.
+FT   MUTAGEN     172    172       K->R: Complete loss of ubiquitination; No
+FT                                interaction with MAVS/IPS1; No induction
+FT                                of IFN-beta.
+FT                                {ECO:0000269|PubMed:17392790,
+FT                                ECO:0000269|PubMed:19484123}.
+FT   MUTAGEN     181    181       K->R: Little or no effect on
+FT                                ubiquitination of the 2 CARD domains.
+FT                                {ECO:0000269|PubMed:17392790}.
+FT   MUTAGEN     190    190       K->R: Little or no effect on
+FT                                ubiquitination of the 2 CARD domains.
+FT   MUTAGEN     193    193       K->R: Little or no effect on
+FT                                ubiquitination of the 2 CARD domains.
+FT                                {ECO:0000269|PubMed:17392790}.
+FT   MUTAGEN     270    270       K->A: No IRF3 signaling activity.
+FT                                {ECO:0000269|PubMed:15208624,
+FT                                ECO:0000269|PubMed:15708988}.
+FT   HELIX         2     11       {ECO:0000244|PDB:4P4H}.
+FT   HELIX        13     19       {ECO:0000244|PDB:4P4H}.
+FT   HELIX        22     25       {ECO:0000244|PDB:4P4H}.
+FT   TURN         26     32       {ECO:0000244|PDB:4P4H}.
+FT   HELIX        35     48       {ECO:0000244|PDB:4P4H}.
+FT   HELIX        50     63       {ECO:0000244|PDB:4P4H}.
+FT   HELIX        69     80       {ECO:0000244|PDB:4P4H}.
+FT   TURN         83     85       {ECO:0000244|PDB:4P4H}.
+FT   HELIX        86     91       {ECO:0000244|PDB:4P4H}.
+FT   HELIX        95     99       {ECO:0000244|PDB:4P4H}.
+FT   HELIX       101    117       {ECO:0000244|PDB:4P4H}.
+FT   HELIX       120    127       {ECO:0000244|PDB:4P4H}.
+FT   HELIX       128    130       {ECO:0000244|PDB:4P4H}.
+FT   HELIX       133    146       {ECO:0000244|PDB:4P4H}.
+FT   HELIX       148    160       {ECO:0000244|PDB:4P4H}.
+FT   HELIX       167    177       {ECO:0000244|PDB:4P4H}.
+FT   TURN        183    185       {ECO:0000244|PDB:4P4H}.
+FT   HELIX       245    255       {ECO:0000244|PDB:2YKG}.
+FT   STRAND      260    263       {ECO:0000244|PDB:2YKG}.
+FT   HELIX       270    284       {ECO:0000244|PDB:2YKG}.
+FT   STRAND      293    296       {ECO:0000244|PDB:2YKG}.
+FT   HELIX       300    313       {ECO:0000244|PDB:2YKG}.
+FT   TURN        314    318       {ECO:0000244|PDB:2YKG}.
+FT   STRAND      321    324       {ECO:0000244|PDB:2YKG}.
+FT   STRAND      326    328       {ECO:0000244|PDB:2YKG}.
+FT   STRAND      330    332       {ECO:0000244|PDB:2YKG}.
+FT   HELIX       334    339       {ECO:0000244|PDB:2YKG}.
+FT   STRAND      342    346       {ECO:0000244|PDB:2YKG}.
+FT   HELIX       348    356       {ECO:0000244|PDB:2YKG}.
+FT   HELIX       363    365       {ECO:0000244|PDB:2YKG}.
+FT   STRAND      367    372       {ECO:0000244|PDB:2YKG}.
+FT   HELIX       374    376       {ECO:0000244|PDB:2YKG}.
+FT   STRAND      377    381       {ECO:0000244|PDB:3TMI}.
+FT   HELIX       382    395       {ECO:0000244|PDB:2YKG}.
+FT   STRAND      396    398       {ECO:0000244|PDB:4ON9}.
+FT   STRAND      404    410       {ECO:0000244|PDB:2YKG}.
+FT   HELIX       420    433       {ECO:0000244|PDB:2YKG}.
+FT   STRAND      438    440       {ECO:0000244|PDB:2YKG}.
+FT   HELIX       446    452       {ECO:0000244|PDB:2YKG}.
+FT   STRAND      457    462       {ECO:0000244|PDB:2YKG}.
+FT   HELIX       470    489       {ECO:0000244|PDB:2YKG}.
+FT   HELIX       493    495       {ECO:0000244|PDB:2YKG}.
+FT   STRAND      496    498       {ECO:0000244|PDB:2YKG}.
+FT   STRAND      504    506       {ECO:0000244|PDB:2YKG}.
+FT   HELIX       507    518       {ECO:0000244|PDB:2YKG}.
+FT   HELIX       519    521       {ECO:0000244|PDB:3TMI}.
+FT   HELIX       531    557       {ECO:0000244|PDB:2YKG}.
+FT   HELIX       560    575       {ECO:0000244|PDB:2YKG}.
+FT   HELIX       581    591       {ECO:0000244|PDB:2YKG}.
+FT   HELIX       594    602       {ECO:0000244|PDB:2YKG}.
+FT   HELIX       604    606       {ECO:0000244|PDB:2YKG}.
+FT   HELIX       609    622       {ECO:0000244|PDB:2YKG}.
+FT   STRAND      630    633       {ECO:0000244|PDB:2YKG}.
+FT   HELIX       637    649       {ECO:0000244|PDB:2YKG}.
+FT   HELIX       651    653       {ECO:0000244|PDB:3ZD7}.
+FT   STRAND      658    660       {ECO:0000244|PDB:3ZD7}.
+FT   STRAND      668    670       {ECO:0000244|PDB:3TMI}.
+FT   HELIX       675    683       {ECO:0000244|PDB:3TMI}.
+FT   STRAND      694    700       {ECO:0000244|PDB:2YKG}.
+FT   STRAND      701    703       {ECO:0000244|PDB:4ON9}.
+FT   HELIX       706    708       {ECO:0000244|PDB:3ZD7}.
+FT   STRAND      710    716       {ECO:0000244|PDB:2YKG}.
+FT   STRAND      722    725       {ECO:0000244|PDB:4ON9}.
+FT   STRAND      737    743       {ECO:0000244|PDB:2YKG}.
+FT   HELIX       745    768       {ECO:0000244|PDB:2YKG}.
+FT   HELIX       773    793       {ECO:0000244|PDB:2YKG}.
+FT   STRAND      801    804       {ECO:0000244|PDB:2RMJ}.
+FT   STRAND      806    810       {ECO:0000244|PDB:3LRR}.
+FT   TURN        811    813       {ECO:0000244|PDB:3LRR}.
+FT   STRAND      816    819       {ECO:0000244|PDB:3LRR}.
+FT   HELIX       820    822       {ECO:0000244|PDB:3LRR}.
+FT   STRAND      823    826       {ECO:0000244|PDB:3LRR}.
+FT   TURN        827    829       {ECO:0000244|PDB:3LRR}.
+FT   STRAND      830    833       {ECO:0000244|PDB:3LRR}.
+FT   HELIX       836    839       {ECO:0000244|PDB:3LRR}.
+FT   STRAND      842    846       {ECO:0000244|PDB:3LRR}.
+FT   STRAND      856    864       {ECO:0000244|PDB:3LRR}.
+FT   TURN        867    869       {ECO:0000244|PDB:3LRR}.
+FT   STRAND      872    879       {ECO:0000244|PDB:3LRR}.
+FT   STRAND      882    887       {ECO:0000244|PDB:3LRR}.
+FT   HELIX       889    891       {ECO:0000244|PDB:3LRR}.
+FT   STRAND      892    896       {ECO:0000244|PDB:3LRR}.
+FT   TURN        897    899       {ECO:0000244|PDB:3LRR}.
+FT   STRAND      902    904       {ECO:0000244|PDB:4BPB}.
+FT   TURN        908    910       {ECO:0000244|PDB:3LRR}.
+FT   HELIX       920    922       {ECO:0000244|PDB:3LRR}.
+SQ   SEQUENCE   925 AA;  106600 MW;  BF0D501C395BAE25 CRC64;
+     MTTEQRRSLQ AFQDYIRKTL DPTYILSYMA PWFREEEVQY IQAEKNNKGP MEAATLFLKF
+     LLELQEEGWF RGFLDALDHA GYSGLYEAIE SWDFKKIEKL EEYRLLLKRL QPEFKTRIIP
+     TDIISDLSEC LINQECEEIL QICSTKGMMA GAEKLVECLL RSDKENWPKT LKLALEKERN
+     KFSELWIVEK GIKDVETEDL EDKMETSDIQ IFYQEDPECQ NLSENSCPPS EVSDTNLYSP
+     FKPRNYQLEL ALPAMKGKNT IICAPTGCGK TFVSLLICEH HLKKFPQGQK GKVVFFANQI
+     PVYEQQKSVF SKYFERHGYR VTGISGATAE NVPVEQIVEN NDIIILTPQI LVNNLKKGTI
+     PSLSIFTLMI FDECHNTSKQ HPYNMIMFNY LDQKLGGSSG PLPQVIGLTA SVGVGDAKNT
+     DEALDYICKL CASLDASVIA TVKHNLEELE QVVYKPQKFF RKVESRISDK FKYIIAQLMR
+     DTESLAKRIC KDLENLSQIQ NREFGTQKYE QWIVTVQKAC MVFQMPDKDE ESRICKALFL
+     YTSHLRKYND ALIISEHARM KDALDYLKDF FSNVRAAGFD EIEQDLTQRF EEKLQELESV
+     SRDPSNENPK LEDLCFILQE EYHLNPETIT ILFVKTRALV DALKNWIEGN PKLSFLKPGI
+     LTGRGKTNQN TGMTLPAQKC ILDAFKASGD HNILIATSVA DEGIDIAQCN LVILYEYVGN
+     VIKMIQTRGR GRARGSKCFL LTSNAGVIEK EQINMYKEKM MNDSILRLQT WDEAVFREKI
+     LHIQTHEKFI RDSQEKPKPV PDKENKKLLC RKCKALACYT ADVRVIEECH YTVLGDAFKE
+     CFVSRPHPKP KQFSSFEKRA KIFCARQNCS HDWGIHVKYK TFEIPVIKIE SFVVEDIATG
+     VQTLYSKWKD FHFEKIPFDP AEMSK
+//

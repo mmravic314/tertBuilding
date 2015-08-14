@@ -1,0 +1,97 @@
+ID   G0RYR3_CHATD            Unreviewed;       730 AA.
+AC   G0RYR3;
+DT   19-OCT-2011, integrated into UniProtKB/TrEMBL.
+DT   19-OCT-2011, sequence version 1.
+DT   22-JUL-2015, entry version 16.
+DE   SubName: Full=Putative double-strand break protein {ECO:0000313|EMBL:EGS24049.1};
+GN   ORFNames=CTHT_0007600 {ECO:0000313|EMBL:EGS24049.1};
+OS   Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Sordariomycetidae; Sordariales; Chaetomiaceae;
+OC   Chaetomium.
+OX   NCBI_TaxID=759272 {ECO:0000313|Proteomes:UP000008066};
+RN   [1] {ECO:0000313|EMBL:EGS24049.1, ECO:0000313|Proteomes:UP000008066}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=DSM 1495 / CBS 144.50 / IMI 039719
+RC   {ECO:0000313|Proteomes:UP000008066};
+RX   PubMed=21784248; DOI=10.1016/j.cell.2011.06.039;
+RA   Amlacher S., Sarges P., Flemming D., van Noort V., Kunze R.,
+RA   Devos D.P., Arumugam M., Bork P., Hurt E.;
+RT   "Insight into structure and assembly of the nuclear pore complex by
+RT   utilizing the genome of a eukaryotic thermophile.";
+RL   Cell 146:277-289(2011).
+CC   -!- SIMILARITY: Belongs to the MRE11/RAD32 family.
+CC       {ECO:0000256|RuleBase:RU003447}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; GL988032; EGS24049.1; -; Genomic_DNA.
+DR   RefSeq; XP_006691291.1; XM_006691228.1.
+DR   PDB; 4YKE; X-ray; 2.78 A; A/B=1-537.
+DR   PDBsum; 4YKE; -.
+DR   GeneID; 18254798; -.
+DR   KEGG; cthr:CTHT_0007600; -.
+DR   KO; K10865; -.
+DR   OrthoDB; EOG7J187V; -.
+DR   Proteomes; UP000008066; Unassembled WGS sequence.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-KW.
+DR   GO; GO:0004519; F:endonuclease activity; IEA:UniProtKB-KW.
+DR   GO; GO:0004527; F:exonuclease activity; IEA:UniProtKB-KW.
+DR   GO; GO:0030145; F:manganese ion binding; IEA:InterPro.
+DR   GO; GO:0006302; P:double-strand break repair; IEA:InterPro.
+DR   GO; GO:0051321; P:meiotic cell cycle; IEA:UniProtKB-KW.
+DR   Gene3D; 3.60.21.10; -; 2.
+DR   InterPro; IPR004843; Calcineurin-like_PHP_apaH.
+DR   InterPro; IPR003701; DNA_repair_Mre11.
+DR   InterPro; IPR029052; Metallo-depent_PP-like.
+DR   InterPro; IPR007281; Mre11_DNA-bd.
+DR   PANTHER; PTHR10139; PTHR10139; 1.
+DR   Pfam; PF00149; Metallophos; 1.
+DR   Pfam; PF04152; Mre11_DNA_bind; 1.
+DR   PIRSF; PIRSF000882; DSB_repair_MRE11; 1.
+DR   SUPFAM; SSF56300; SSF56300; 2.
+DR   TIGRFAMs; TIGR00583; mre11; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4YKE};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000008066};
+KW   DNA damage {ECO:0000256|RuleBase:RU003447};
+KW   DNA repair {ECO:0000256|RuleBase:RU003447};
+KW   Endonuclease {ECO:0000256|RuleBase:RU003447};
+KW   Exonuclease {ECO:0000256|RuleBase:RU003447};
+KW   Hydrolase {ECO:0000256|RuleBase:RU003447};
+KW   Manganese {ECO:0000213|PDB:4YKE, ECO:0000256|RuleBase:RU003447};
+KW   Meiosis {ECO:0000256|RuleBase:RU003447};
+KW   Metal-binding {ECO:0000213|PDB:4YKE};
+KW   Nuclease {ECO:0000256|RuleBase:RU003447};
+KW   Nucleus {ECO:0000256|RuleBase:RU003447};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000008066}.
+FT   ACT_SITE    125    125       Proton donor.
+FT                                {ECO:0000256|PIRSR:PIRSR000882-1}.
+FT   METAL        17     17       Manganese 1. {ECO:0000213|PDB:4YKE}.
+FT   METAL        19     19       Manganese 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4YKE}.
+FT   METAL        57     57       Manganese 1. {ECO:0000213|PDB:4YKE}.
+FT   METAL        57     57       Manganese 2. {ECO:0000213|PDB:4YKE}.
+FT   METAL       124    124       Manganese 2. {ECO:0000213|PDB:4YKE}.
+FT   METAL       213    213       Manganese 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4YKE}.
+FT   METAL       241    241       Manganese 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:4YKE}.
+FT   METAL       243    243       Manganese 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4YKE}.
+SQ   SEQUENCE   730 AA;  82912 MW;  ADA7A09715B55A58 CRC64;
+     MPQTAGPDTI RILVSTDNHV GYEERDPIRK DDSWRTFDEI MQLARTKDVD MVLLGGDLFH
+     DNKPSRKAMY QVMRSLRKNC LGMKPCELEF LSDPAEVFEG AFPHVNYYDP DINVSIPVFS
+     IHGNHDDPSG DGHLCSLDLL QVAGLVNYFG RVPEADNIHV KPILLQKGKT KLALYGMSNV
+     RDERIHRTFR DNKVRFYRPS QQTGDWFNLL TLHQNHYAHT PTGYLSENML PDFLDLVIWG
+     HEHECLIDPK KNPETGFHVM QPGSSIATSL VPGEAVPKHI AILSITGKSF EVEKIPLRTV
+     RPFVIREITL ATDKRFKGLE KKQDNRQEVT KRLMQIVEEM IAEANEMWRS LHEDSQDDED
+     EEQPLPLIRL KVEYSSPEGT KFEVENPQRF SNRFAGKVAN QNDVVHFYRK KTGTTRKPKE
+     GKRELPEGIA EALEDSDSIS VDALVQEFFA QQSLKILPQA PFGDAVNQFV SKDDKHAVEM
+     FVMDSLSSQV RGLLQLDDDK INEGLDSHIE DFRKVMEKNF LSGQQKQAQR RRRFKEKPEG
+     WDSDLNGHWT LQPEAIEELS SSPEPAKEGG RVRPASRITV GDEDNLFEEE EFVQKTTAKR
+     APTTRATRKT AAATRATTAT KASAPAKKSI AAPRGRKRAN PFQDSAEEEE DVIMDDDDDY
+     KPAPPVKAPP PKPARETQTR GAPKTRQTTL NFSQAERPTR TTQKAIEISD DEISEDDAFE
+     SMPARKSKRY
+//

@@ -1,0 +1,204 @@
+ID   FBPA_HAEIN              Reviewed;         332 AA.
+AC   P35755; Q53439;
+DT   01-JUN-1994, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1997, sequence version 3.
+DT   07-JAN-2015, entry version 126.
+DE   RecName: Full=Iron-utilization periplasmic protein;
+DE   AltName: Full=Fe(3+)-binding protein;
+DE   AltName: Full=Iron-regulated 40 kDa protein;
+DE   AltName: Full=Major ferric iron-binding protein;
+DE            Short=MIRP;
+DE   Flags: Precursor;
+GN   Name=fbpA; Synonyms=fbp, hitA; OrderedLocusNames=HI_0097;
+OS   Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pasteurellales;
+OC   Pasteurellaceae; Haemophilus.
+OX   NCBI_TaxID=71421;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 51907 / DSM 11121 / KW20 / Rd;
+RX   PubMed=7542800; DOI=10.1126/science.7542800;
+RA   Fleischmann R.D., Adams M.D., White O., Clayton R.A., Kirkness E.F.,
+RA   Kerlavage A.R., Bult C.J., Tomb J.-F., Dougherty B.A., Merrick J.M.,
+RA   McKenney K., Sutton G.G., FitzHugh W., Fields C.A., Gocayne J.D.,
+RA   Scott J.D., Shirley R., Liu L.-I., Glodek A., Kelley J.M.,
+RA   Weidman J.F., Phillips C.A., Spriggs T., Hedblom E., Cotton M.D.,
+RA   Utterback T.R., Hanna M.C., Nguyen D.T., Saudek D.M., Brandon R.C.,
+RA   Fine L.D., Fritchman J.L., Fuhrmann J.L., Geoghagen N.S.M.,
+RA   Gnehm C.L., McDonald L.A., Small K.V., Fraser C.M., Smith H.O.,
+RA   Venter J.C.;
+RT   "Whole-genome random sequencing and assembly of Haemophilus influenzae
+RT   Rd.";
+RL   Science 269:496-512(1995).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND PARTIAL PROTEIN SEQUENCE.
+RC   STRAIN=NTHi TN106;
+RX   PubMed=7927717;
+RA   Sanders J.D., Cope L.D., Hansen E.J.;
+RT   "Identification of a locus involved in the utilization of iron by
+RT   Haemophilus influenzae.";
+RL   Infect. Immun. 62:4515-4525(1994).
+RN   [3]
+RP   PROTEIN SEQUENCE OF 24-45.
+RC   STRAIN=Eagan / 8358;
+RX   PubMed=1556062;
+RA   Harkness R.E., Chong P., Klein M.H.;
+RT   "Identification of two iron-repressed periplasmic proteins in
+RT   Haemophilus influenzae.";
+RL   J. Bacteriol. 174:2425-2430(1992).
+RN   [4]
+RP   PROTEIN SEQUENCE OF 24-31.
+RC   STRAIN=ATCC 51907 / DSM 11121 / KW20 / Rd;
+RX   PubMed=10675023;
+RX   DOI=10.1002/(SICI)1522-2683(20000101)21:2<411::AID-ELPS411>3.0.CO;2-4;
+RA   Langen H., Takacs B., Evers S., Berndt P., Lahm H.W., Wipf B.,
+RA   Gray C., Fountoulakis M.;
+RT   "Two-dimensional map of the proteome of Haemophilus influenzae.";
+RL   Electrophoresis 21:411-429(2000).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (1.6 ANGSTROMS) OF 24-332.
+RX   PubMed=9360608; DOI=10.1038/nsb1197-919;
+RA   Bruns C.M., Nowalk A.J., Arvai A.S., McTigue M.A., Vaughan K.G.,
+RA   Mietzner T.A., McRee D.E.;
+RT   "Structure of Haemophilus influenzae Fe(+3)-binding protein reveals
+RT   convergent evolution within a superfamily.";
+RL   Nat. Struct. Biol. 4:919-924(1997).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (1.75 ANGSTROMS) OF 24-332.
+RX   PubMed=11747438; DOI=10.1021/bi0156759;
+RA   Bruns C.M., Anderson D.S., Vaughan K.G., Williams P.A., Nowalk A.J.,
+RA   McRee D.E., Mietzner T.A.;
+RT   "Crystallographic and biochemical analyses of the metal-free
+RT   Haemophilus influenzae Fe(3+)-binding protein.";
+RL   Biochemistry 40:15631-15637(2001).
+CC   -!- FUNCTION: Part of the ABC transporter complex FbpABC
+CC       (TC 3.A.1.10.1) involved in Fe(3+) ions import. This protein
+CC       specifically binds Fe(3+) and is involved in its transmembrane
+CC       transport (By similarity). {ECO:0000250}.
+CC   -!- SUBUNIT: The complex is composed of two ATP-binding proteins
+CC       (FbpC), two transmembrane proteins (FbpB) and a solute-binding
+CC       protein (FbpA). {ECO:0000305}.
+CC   -!- SUBCELLULAR LOCATION: Periplasm {ECO:0000305}.
+CC   -!- INDUCTION: By iron deprivation.
+CC   -!- SIMILARITY: Belongs to the bacterial solute-binding protein 1
+CC       family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAC21773.1; Type=Frameshift; Positions=14; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; L42023; AAC21773.1; ALT_FRAME; Genomic_DNA.
+DR   EMBL; S72674; AAB32110.1; -; Genomic_DNA.
+DR   PIR; A41833; A41833.
+DR   PIR; C64048; C64048.
+DR   PIR; T10886; T10886.
+DR   RefSeq; NP_438271.2; NC_000907.1.
+DR   PDB; 1D9V; X-ray; 1.75 A; A=24-332.
+DR   PDB; 1MRP; X-ray; 1.60 A; A=24-332.
+DR   PDB; 1NNF; X-ray; 1.10 A; A=24-332.
+DR   PDB; 1QVS; X-ray; 2.10 A; A=24-332.
+DR   PDB; 1QW0; X-ray; 1.90 A; A=24-332.
+DR   PDB; 2O68; X-ray; 1.70 A; A=24-332.
+DR   PDB; 2O69; X-ray; 2.00 A; A=24-332.
+DR   PDB; 2O6A; X-ray; 1.80 A; A=24-332.
+DR   PDB; 3KN7; X-ray; 1.71 A; A=24-332.
+DR   PDB; 3KN8; X-ray; 1.89 A; A=24-332.
+DR   PDB; 3OD7; X-ray; 1.80 A; A=24-332.
+DR   PDB; 3ODB; X-ray; 1.62 A; A=24-332.
+DR   PDBsum; 1D9V; -.
+DR   PDBsum; 1MRP; -.
+DR   PDBsum; 1NNF; -.
+DR   PDBsum; 1QVS; -.
+DR   PDBsum; 1QW0; -.
+DR   PDBsum; 2O68; -.
+DR   PDBsum; 2O69; -.
+DR   PDBsum; 2O6A; -.
+DR   PDBsum; 3KN7; -.
+DR   PDBsum; 3KN8; -.
+DR   PDBsum; 3OD7; -.
+DR   PDBsum; 3ODB; -.
+DR   ProteinModelPortal; P35755; -.
+DR   SMR; P35755; 24-332.
+DR   STRING; 71421.HI0097; -.
+DR   TCDB; 3.A.1.10.3; the atp-binding cassette (abc) superfamily.
+DR   EnsemblBacteria; AAC21773; AAC21773; HI_0097.
+DR   GeneID; 950998; -.
+DR   KEGG; hin:HI0097; -.
+DR   PATRIC; 20188661; VBIHaeInf48452_0100.
+DR   eggNOG; COG1840; -.
+DR   KO; K02012; -.
+DR   OMA; IMYSKAR; -.
+DR   OrthoDB; EOG625JVF; -.
+DR   EvolutionaryTrace; P35755; -.
+DR   Proteomes; UP000000579; Chromosome.
+DR   GO; GO:0042597; C:periplasmic space; IEA:UniProtKB-SubCell.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0005215; F:transporter activity; IEA:InterPro.
+DR   GO; GO:0006811; P:ion transport; IEA:UniProtKB-KW.
+DR   GO; GO:0055072; P:iron ion homeostasis; IEA:UniProtKB-KW.
+DR   InterPro; IPR026045; Ferric-bd.
+DR   InterPro; IPR006061; SBP_1_CS.
+DR   InterPro; IPR006059; SBP_1_dom.
+DR   Pfam; PF01547; SBP_bac_1; 1.
+DR   PIRSF; PIRSF002825; CfbpA; 1.
+DR   PROSITE; PS01037; SBP_BACTERIAL_1; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Direct protein sequencing;
+KW   Ion transport; Iron; Iron transport; Metal-binding; Periplasm;
+KW   Reference proteome; Signal; Transport.
+FT   SIGNAL        1     23       {ECO:0000269|PubMed:10675023,
+FT                                ECO:0000269|PubMed:1556062}.
+FT   CHAIN        24    332       Iron-utilization periplasmic protein.
+FT                                /FTId=PRO_0000031703.
+FT   METAL        32     32       Iron.
+FT   METAL        80     80       Iron.
+FT   METAL       218    218       Iron.
+FT   METAL       219    219       Iron.
+FT   VARIANT      24     24       D -> A (in strain: PAK12085 and SB33).
+FT   VARIANT      37     37       T -> A (in strain: TN106).
+FT   VARIANT      37     37       T -> V (in strain: PAK12085 and SB33).
+FT   VARIANT      59     59       E -> A (in strain: TN106).
+FT   VARIANT     103    103       Q -> K (in strain: TN106).
+FT   VARIANT     119    119       I -> V (in strain: TN106).
+FT   VARIANT     284    284       A -> V (in strain: TN106).
+FT   VARIANT     323    323       I -> T (in strain: TN106).
+FT   STRAND       25     29       {ECO:0000244|PDB:1NNF}.
+FT   HELIX        33     46       {ECO:0000244|PDB:1NNF}.
+FT   STRAND       51     55       {ECO:0000244|PDB:1NNF}.
+FT   HELIX        58     68       {ECO:0000244|PDB:1NNF}.
+FT   HELIX        69     71       {ECO:0000244|PDB:1NNF}.
+FT   STRAND       75     80       {ECO:0000244|PDB:1NNF}.
+FT   HELIX        82     84       {ECO:0000244|PDB:1NNF}.
+FT   HELIX        85     90       {ECO:0000244|PDB:1NNF}.
+FT   HELIX        99    103       {ECO:0000244|PDB:1NNF}.
+FT   STRAND      119    131       {ECO:0000244|PDB:1NNF}.
+FT   TURN        132    134       {ECO:0000244|PDB:1NNF}.
+FT   HELIX       137    139       {ECO:0000244|PDB:1NNF}.
+FT   HELIX       144    148       {ECO:0000244|PDB:1NNF}.
+FT   HELIX       150    152       {ECO:0000244|PDB:1NNF}.
+FT   TURN        153    155       {ECO:0000244|PDB:1NNF}.
+FT   STRAND      156    158       {ECO:0000244|PDB:1NNF}.
+FT   HELIX       163    176       {ECO:0000244|PDB:1NNF}.
+FT   HELIX       178    191       {ECO:0000244|PDB:1NNF}.
+FT   STRAND      192    194       {ECO:0000244|PDB:1NNF}.
+FT   HELIX       198    206       {ECO:0000244|PDB:1NNF}.
+FT   STRAND      211    216       {ECO:0000244|PDB:1NNF}.
+FT   HELIX       217    227       {ECO:0000244|PDB:1NNF}.
+FT   HELIX       229    231       {ECO:0000244|PDB:1NNF}.
+FT   STRAND      233    237       {ECO:0000244|PDB:1NNF}.
+FT   HELIX       244    246       {ECO:0000244|PDB:1NNF}.
+FT   STRAND      248    256       {ECO:0000244|PDB:1NNF}.
+FT   HELIX       262    273       {ECO:0000244|PDB:1NNF}.
+FT   HELIX       275    284       {ECO:0000244|PDB:1NNF}.
+FT   STRAND      288    291       {ECO:0000244|PDB:3ODB}.
+FT   HELIX       303    306       {ECO:0000244|PDB:1NNF}.
+FT   HELIX       316    327       {ECO:0000244|PDB:1NNF}.
+SQ   SEQUENCE   332 AA;  36193 MW;  4E6549FD76262CA6 CRC64;
+     MQFKHFKLAT LAAALAFSAN SFADITVYNG QHKEAATAVA KAFEQETGIK VTLNSGKSEQ
+     LAGQLKEEGD KTPADVFYTE QTATFADLSE AGLLAPISEQ TIQQTAQKGV PLAPKKDWIA
+     LSGRSRVVVY DHTKLSEKDM EKSVLDYATP KWKGKIGYVS TSGAFLEQVV ALSKMKGDKV
+     ALNWLKGLKE NGKLYAKNSV ALQAVENGEV PAALINNYYW YNLAKEKGVE NLKSRLYFVR
+     HQDPGALVSY SGAAVLKASK NQAEAQKFVD FLASKKGQEA LVAARAEYPL RADVVSPFNL
+     EPYEKLEAPV VSATTAQDKE HAIKLIEEAG LK
+//

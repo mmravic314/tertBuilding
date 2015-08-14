@@ -1,0 +1,117 @@
+ID   Q8A712_BACTN            Unreviewed;       164 AA.
+AC   Q8A712;
+DT   01-JUN-2003, integrated into UniProtKB/TrEMBL.
+DT   01-JUN-2003, sequence version 1.
+DT   24-JUN-2015, entry version 81.
+DE   SubName: Full=Putative acylneuraminate cytidylyltransferase {ECO:0000313|EMBL:AAO76820.1};
+GN   OrderedLocusNames=BT_1713 {ECO:0000313|EMBL:AAO76820.1};
+OS   Bacteroides thetaiotaomicron (strain ATCC 29148 / DSM 2079 / NCTC
+OS   10582 / E50 / VPI-5482).
+OC   Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Bacteroidaceae;
+OC   Bacteroides.
+OX   NCBI_TaxID=226186 {ECO:0000313|EMBL:AAO76820.1, ECO:0000313|Proteomes:UP000001414};
+RN   [1] {ECO:0000313|EMBL:AAO76820.1, ECO:0000313|Proteomes:UP000001414}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=VPI-5482 {ECO:0000313|EMBL:AAO76820.1};
+RX   PubMed=12663928; DOI=10.1126/science.1080029;
+RA   Xu J., Bjursell M.K., Himrod J., Deng S., Carmichael L.K.,
+RA   Chiang H.C., Hooper L.V., Gordon J.I.;
+RT   "A genomic view of the human-Bacteroides thetaiotaomicron symbiosis.";
+RL   Science 299:2074-2076(2003).
+RN   [2] {ECO:0000213|PDB:3E81, ECO:0000213|PDB:3E84, ECO:0000213|PDB:3E8M}
+RP   X-RAY CRYSTALLOGRAPHY (1.10 ANGSTROMS) IN COMPLEX WITH MAGNESIUM.
+RX   PubMed=18986982; DOI=10.1074/jbc.M807056200;
+RA   Lu Z., Wang L., Dunaway-Mariano D., Allen K.N.;
+RT   "Structure-function analysis of 2-keto-3-deoxy-D-glycero-D-
+RT   galactonononate-9-phosphate phosphatase defines specificity elements
+RT   in type C0 haloalkanoate dehalogenase family members.";
+RL   J. Biol. Chem. 284:1224-1233(2009).
+RN   [3] {ECO:0000313|EMBL:AAO76820.1, ECO:0000313|Proteomes:UP000001414}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 29148 / DSM 2079 / NCTC 10582 / E50 / VPI-5482
+RC   {ECO:0000313|Proteomes:UP000001414};
+RX   PubMed=19321416; DOI=10.1073/pnas.0901529106;
+RA   Mahowald M.A., Rey F.E., Seedorf H., Turnbaugh P.J., Fulton R.S.,
+RA   Wollam A., Shah N., Wang C., Magrini V., Wilson R.K., Cantarel B.L.,
+RA   Coutinho P.M., Henrissat B., Crock L.W., Russell A., Verberkmoes N.C.,
+RA   Hettich R.L., Gordon J.I.;
+RT   "Characterizing a model human gut microbiota composed of members of
+RT   its two dominant bacterial phyla.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 106:5859-5864(2009).
+RN   [4] {ECO:0000213|PDB:4HGO, ECO:0000213|PDB:4HGQ, ECO:0000213|PDB:4HGR}
+RP   X-RAY CRYSTALLOGRAPHY (2.05 ANGSTROMS) IN COMPLEX WITH MAGNESIUM.
+RX   PubMed=23848398;
+RA   Daughtry K.D., Huang H., Malashkevich V., Patskovsky Y., Liu W.,
+RA   Ramagopal U., Sauder J.M., Burley S.K., Almo S.C., Dunaway-Mariano D.,
+RA   Allen K.N.;
+RT   "Structural basis for the divergence of substrate specificity and
+RT   biological function within HAD phosphatases in lipopolysaccharide and
+RT   sialic acid biosynthesis.";
+RL   Biochemistry 52:5372-5386(2013).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE015928; AAO76820.1; -; Genomic_DNA.
+DR   RefSeq; NP_810626.1; NC_004663.1.
+DR   RefSeq; WP_008767822.1; NC_004663.1.
+DR   PDB; 3E81; X-ray; 1.63 A; A/B/C/D=1-164.
+DR   PDB; 3E84; X-ray; 1.85 A; A/B/C/D=1-164.
+DR   PDB; 3E8M; X-ray; 1.10 A; A/B/C/D=1-164.
+DR   PDB; 4HGO; X-ray; 2.10 A; A/B/C/D=1-164.
+DR   PDB; 4HGQ; X-ray; 2.28 A; A/B/C/D/E/F/G/H=1-164.
+DR   PDB; 4HGR; X-ray; 2.05 A; A/B/C/D/E/F/G/H=1-164.
+DR   PDBsum; 3E81; -.
+DR   PDBsum; 3E84; -.
+DR   PDBsum; 3E8M; -.
+DR   PDBsum; 4HGO; -.
+DR   PDBsum; 4HGQ; -.
+DR   PDBsum; 4HGR; -.
+DR   ProteinModelPortal; Q8A712; -.
+DR   STRING; 226186.BT_1713; -.
+DR   EnsemblBacteria; AAO76820; AAO76820; BT_1713.
+DR   GeneID; 1075439; -.
+DR   KEGG; bth:BT_1713; -.
+DR   PATRIC; 21058322; VBIBacThe70966_1756.
+DR   InParanoid; Q8A712; -.
+DR   OMA; ENHERID; -.
+DR   OrthoDB; EOG62C9CR; -.
+DR   BioCyc; BTHE226186:GJXV-1746-MONOMER; -.
+DR   BioCyc; MetaCyc:MONOMER-14548; -.
+DR   EvolutionaryTrace; Q8A712; -.
+DR   Proteomes; UP000001414; Chromosome.
+DR   GO; GO:0019143; F:3-deoxy-manno-octulosonate-8-phosphatase activity; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016779; F:nucleotidyltransferase activity; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.50.1000; -; 1.
+DR   InterPro; IPR023214; HAD-like_dom.
+DR   InterPro; IPR006549; HAD-SF_hydro_IIIA.
+DR   InterPro; IPR010023; KDO_8-P_phosphatase.
+DR   Pfam; PF00702; Hydrolase; 1.
+DR   PIRSF; PIRSF006118; KDO8-P_Ptase; 1.
+DR   SUPFAM; SSF56784; SSF56784; 1.
+DR   TIGRFAMs; TIGR01662; HAD-SF-IIIA; 1.
+DR   TIGRFAMs; TIGR01670; KdsC-phosphatas; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3E81, ECO:0000213|PDB:3E84};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001414};
+KW   Hydrolase {ECO:0000256|SAAS:SAAS00078030};
+KW   Magnesium {ECO:0000213|PDB:3E81, ECO:0000213|PDB:3E84};
+KW   Metal-binding {ECO:0000213|PDB:3E81, ECO:0000213|PDB:3E84};
+KW   Nucleotidyltransferase {ECO:0000313|EMBL:AAO76820.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001414};
+KW   Transferase {ECO:0000313|EMBL:AAO76820.1}.
+FT   METAL        10     10       Magnesium. {ECO:0000213|PDB:3E81,
+FT                                ECO:0000213|PDB:3E84,
+FT                                ECO:0000213|PDB:3E8M}.
+FT   METAL        12     12       Magnesium. {ECO:0000213|PDB:3E81,
+FT                                ECO:0000213|PDB:3E84,
+FT                                ECO:0000213|PDB:3E8M}.
+FT   METAL       103    103       Magnesium. {ECO:0000213|PDB:3E81,
+FT                                ECO:0000213|PDB:3E84,
+FT                                ECO:0000213|PDB:3E8M}.
+SQ   SEQUENCE   164 AA;  18340 MW;  9E784096D5AC3C1B CRC64;
+     MKEIKLILTD IDGVWTDGGM FYDQTGNEWK KFNTSDSAGI FWAHNKGIPV GILTGEKTEI
+     VRRRAEKLKV DYLFQGVVDK LSAAEELCNE LGINLEQVAY IGDDLNDAKL LKRVGIAGVP
+     ASAPFYIRRL STIFLEKRGG EGVFREFVEK VLGINLEDFI AVIQ
+//

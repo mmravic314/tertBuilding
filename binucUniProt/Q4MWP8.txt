@@ -1,0 +1,65 @@
+ID   Q4MWP8_BACCE            Unreviewed;       259 AA.
+AC   Q4MWP8;
+DT   02-AUG-2005, integrated into UniProtKB/TrEMBL.
+DT   02-AUG-2005, sequence version 1.
+DT   22-JUL-2015, entry version 26.
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AJI02883.1};
+GN   ORFNames=AQ16_1670 {ECO:0000313|EMBL:AJI02883.1};
+OS   Bacillus cereus G9241.
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus;
+OC   Bacillus cereus group.
+OX   NCBI_TaxID=269801 {ECO:0000313|EMBL:AJI02883.1, ECO:0000313|Proteomes:UP000031837};
+RN   [1] {ECO:0000213|PDB:3DBY}
+RP   X-RAY CRYSTALLOGRAPHY (2.10 ANGSTROMS) OF 2-259 IN COMPLEX WITH IRON,
+RP   AND DISULFIDE BONDS.
+RA   Ramagopal U.A., Bonanno J.B., Ozyurt S., Freeman J., Wasserman S.,
+RA   Hu S., Groshong C., Rodgers L., Burley S.K., Almo S.C.;
+RT   "Crystal structure of uncharacterized protein from Bacillus cereus
+RT   G9241.";
+RL   Submitted (JUN-2008) to the PDB data bank.
+RN   [2] {ECO:0000313|EMBL:AJI02883.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=G9241 {ECO:0000313|EMBL:AJI02883.1};
+RA   Bishop-Lilly K.A., Broomall S.M., Chain P.S., Chertkov O., Coyne S.R.,
+RA   Daligault H.E., Davenport K.W., Erkkila T., Frey K.G., Gibbons H.S.,
+RA   Gu W., Jaissle J., Johnson S.L., Koroleva G.I., Ladner J.T., Lo C.-C.,
+RA   Minogue T.D., Munk C., Palacios G.F., Redden C.L., Rosenzweig C.N.,
+RA   Scholz M.B., Teshima H., Xu Y.;
+RL   Submitted (OCT-2014) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP009590; AJI02883.1; -; Genomic_DNA.
+DR   RefSeq; WP_000440974.1; NZ_CP009590.1.
+DR   PDB; 3DBY; X-ray; 2.10 A; A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T=2-259.
+DR   PDBsum; 3DBY; -.
+DR   ProteinModelPortal; Q4MWP8; -.
+DR   EnsemblBacteria; EAL16441; EAL16441; BCE_G9241_0798.
+DR   Proteomes; UP000031837; Chromosome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   InterPro; IPR021328; DUF2935.
+DR   Pfam; PF11155; DUF2935; 2.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3DBY};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000031837};
+KW   Iron {ECO:0000213|PDB:3DBY}; Metal-binding {ECO:0000213|PDB:3DBY}.
+FT   METAL        23     23       Iron 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3DBY}.
+FT   METAL       106    106       Iron 1. {ECO:0000213|PDB:3DBY}.
+FT   METAL       106    106       Iron 2. {ECO:0000213|PDB:3DBY}.
+FT   METAL       138    138       Iron 2. {ECO:0000213|PDB:3DBY}.
+FT   METAL       142    142       Iron 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3DBY}.
+FT   METAL       233    233       Iron 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3DBY}.
+FT   METAL       237    237       Iron 1. {ECO:0000213|PDB:3DBY}.
+FT   METAL       237    237       Iron 2. {ECO:0000213|PDB:3DBY}.
+FT   DISULFID    239    256       {ECO:0000213|PDB:3DBY}.
+SQ   SEQUENCE   259 AA;  30158 MW;  32916EB248028606 CRC64;
+     MERNYEESAL FEHQFWLKVL TDHAQFLLDA LAPKEKEDIK KATYFVETFT NLLNKVRNVN
+     LMAFSKEAEQ AAKEIRAFKL NIIQKQLEGK ITIHFTPTFI NHMVNEVEEY IAVLEFLKKG
+     EVPPVFHELH YHLVWLTDAA GHAGSISGGL DLVEKRLKEK SEEFTKHFEQ FYLKAVEMTG
+     YLRTELHHFP ALKKFTKDVS LELKLFSHFL HEVEELELSN EVLSVLSARM ADHMAREECY
+     YLLKLAQSSG LEMPKCNPL
+//

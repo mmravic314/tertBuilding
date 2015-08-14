@@ -1,0 +1,86 @@
+ID   Q9HYC4_PSEAE            Unreviewed;       145 AA.
+AC   Q9HYC4;
+DT   01-MAR-2001, integrated into UniProtKB/TrEMBL.
+DT   01-MAR-2001, sequence version 1.
+DT   27-MAY-2015, entry version 62.
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAG06873.1};
+GN   OrderedLocusNames=PA3485 {ECO:0000313|EMBL:AAG06873.1};
+OS   Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG
+OS   12228).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+OC   Pseudomonadaceae; Pseudomonas.
+OX   NCBI_TaxID=208964 {ECO:0000313|EMBL:AAG06873.1, ECO:0000313|Proteomes:UP000002438};
+RN   [1] {ECO:0000313|EMBL:AAG06873.1, ECO:0000313|Proteomes:UP000002438}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228
+RC   {ECO:0000313|Proteomes:UP000002438};
+RX   PubMed=10984043; DOI=10.1038/35023079;
+RA   Stover C.K., Pham X.-Q.T., Erwin A.L., Mizoguchi S.D., Warrener P.,
+RA   Hickey M.J., Brinkman F.S.L., Hufnagle W.O., Kowalik D.J., Lagrou M.,
+RA   Garber R.L., Goltry L., Tolentino E., Westbrock-Wadman S., Yuan Y.,
+RA   Brody L.L., Coulter S.N., Folger K.R., Kas A., Larbig K., Lim R.M.,
+RA   Smith K.A., Spencer D.H., Wong G.K.-S., Wu Z., Paulsen I.T.,
+RA   Reizer J., Saier M.H. Jr., Hancock R.E.W., Lory S., Olson M.V.;
+RT   "Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+RT   opportunistic pathogen.";
+RL   Nature 406:959-964(2000).
+RN   [2] {ECO:0000213|PDB:4LUQ}
+RP   X-RAY CRYSTALLOGRAPHY (1.77 ANGSTROMS) OF 23-145.
+RX   PubMed=24025333;
+RA   Li L., Zhang W., Liu Q., Gao Y., Gao Y., Wang Y., Wang D.Z., Li Z.,
+RA   Wang T.;
+RT   "Structural Insights on the bacteriolytic and self-protection
+RT   mechanism of muramidase effector Tse3 in Pseudomonas aeruginosa.";
+RL   J. Biol. Chem. 288:30607-30613(2013).
+RN   [3] {ECO:0000213|PDB:4M5F, ECO:0000213|PDB:4N7S, ECO:0000213|PDB:4N80}
+RP   X-RAY CRYSTALLOGRAPHY (2.10 ANGSTROMS) OF 27-145.
+RX   PubMed=24724564;
+RA   Lu D., Shang G., Zhang H., Yu Q., Cong X., Yuan J., He F., Zhu C.,
+RA   Zhao Y., Yin K., Chen Y., Hu J., Zhang X., Yuan Z., Xu S., Hu W.,
+RA   Cang H., Gu L.;
+RT   "Structural insights into the T6SS effector protein Tse3 and the Tse3-
+RT   Tsi3 complex from Pseudomonas aeruginosa reveal a calcium-dependent
+RT   membrane-binding mechanism.";
+RL   Mol. Microbiol. 92:1092-1112(2014).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE004091; AAG06873.1; -; Genomic_DNA.
+DR   PIR; F83210; F83210.
+DR   RefSeq; NP_252175.1; NC_002516.2.
+DR   RefSeq; WP_003113900.1; NC_002516.2.
+DR   PDB; 3WA5; X-ray; 1.90 A; B=1-145.
+DR   PDB; 4LUQ; X-ray; 1.77 A; C/D=23-145.
+DR   PDB; 4M5F; X-ray; 2.50 A; B=21-145.
+DR   PDB; 4N7S; X-ray; 2.10 A; B/D=27-145.
+DR   PDB; 4N80; X-ray; 2.40 A; B=23-144.
+DR   PDB; 4N88; X-ray; 2.80 A; B/D=27-145.
+DR   PDBsum; 3WA5; -.
+DR   PDBsum; 4LUQ; -.
+DR   PDBsum; 4M5F; -.
+DR   PDBsum; 4N7S; -.
+DR   PDBsum; 4N80; -.
+DR   PDBsum; 4N88; -.
+DR   ProteinModelPortal; Q9HYC4; -.
+DR   SMR; Q9HYC4; 23-145.
+DR   STRING; 208964.PA3485; -.
+DR   DNASU; 879938; -.
+DR   EnsemblBacteria; AAG06873; AAG06873; PA3485.
+DR   GeneID; 879938; -.
+DR   KEGG; pae:PA3485; -.
+DR   PATRIC; 19841581; VBIPseAer58763_3648.
+DR   PseudoCAP; PA3485; -.
+DR   HOGENOM; HOG000247386; -.
+DR   OMA; LWAAKPA; -.
+DR   OrthoDB; EOG6ZWJHX; -.
+DR   Proteomes; UP000002438; Chromosome.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3WA5, ECO:0000213|PDB:4LUQ};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002438};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000002438}.
+SQ   SEQUENCE   145 AA;  15792 MW;  60222E1FE5E7A1BC CRC64;
+     MKTVALILAS LALLACTAES GVDFDKTLTH PNGLVVERPV GFDARRSAEG FRFDEGGKLR
+     NPRQLEVQRQ DAPPPPDLAS RRLGDGEARY KVEEDDGGSA GSEYRLWAAK PAGARWIVVS
+     ASEQSEDGEP TFALAWALLE RARLQ
+//

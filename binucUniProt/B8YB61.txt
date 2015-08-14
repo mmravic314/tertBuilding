@@ -1,0 +1,76 @@
+ID   B8YB61_SULSH            Unreviewed;        95 AA.
+AC   B8YB61;
+DT   03-MAR-2009, integrated into UniProtKB/TrEMBL.
+DT   03-MAR-2009, sequence version 1.
+DT   24-JUN-2015, entry version 34.
+DE   RecName: Full=DNA-directed RNA polymerase subunit K {ECO:0000256|HAMAP-Rule:MF_00192};
+DE            EC=2.7.7.6 {ECO:0000256|HAMAP-Rule:MF_00192};
+GN   Name=rpo6 {ECO:0000313|EMBL:ACL36496.1};
+GN   Synonyms=rpoK {ECO:0000256|HAMAP-Rule:MF_00192};
+OS   Sulfolobus shibatae B12.
+OC   Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae;
+OC   Sulfolobus.
+OX   NCBI_TaxID=523848 {ECO:0000313|EMBL:ACL36496.1};
+RN   [1] {ECO:0000313|EMBL:ACL36496.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=B12 {ECO:0000313|EMBL:ACL36496.1};
+RA   Bell S.;
+RT   "RNA polymerase from Sulfolobus shibatae.";
+RL   Submitted (DEC-2008) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:2Y0S}
+RP   X-RAY CRYSTALLOGRAPHY (3.80 ANGSTROMS).
+RX   PubMed=21265742; DOI=10.1042/BST0390025;
+RA   Wojtas M., Peralta B., Ondiviela M., Mogni M., Bell S.D.,
+RA   Abrescia N.G.;
+RT   "Archaeal RNA polymerase: the influence of the protruding stalk in
+RT   crystal packing and preliminary biophysical analysis of the Rpo13
+RT   subunit.";
+RL   Biochem. Soc. Trans. 39:25-30(2011).
+RN   [3] {ECO:0000213|PDB:4AYB, ECO:0000213|PDB:4B1O, ECO:0000213|PDB:4B1P}
+RP   X-RAY CRYSTALLOGRAPHY (3.20 ANGSTROMS).
+RX   PubMed=22848102; DOI=10.1093/nar/gks692;
+RA   Wojtas M.N., Mogni M., Millet O., Bell S.D., Abrescia N.G.;
+RT   "Structural and functional analyses of the interaction of archaeal RNA
+RT   polymerase with DNA.";
+RL   Nucleic Acids Res. 40:9941-9952(2012).
+CC   -!- FUNCTION: DNA-dependent RNA polymerase catalyzes the transcription
+CC       of DNA into RNA using the four ribonucleoside triphosphates as
+CC       substrates. {ECO:0000256|HAMAP-Rule:MF_00192}.
+CC   -!- CATALYTIC ACTIVITY: Nucleoside triphosphate + RNA(n) = diphosphate
+CC       + RNA(n+1). {ECO:0000256|HAMAP-Rule:MF_00192}.
+CC   -!- SIMILARITY: Belongs to the archaeal RpoK/eukaryotic RPB6 RNA
+CC       polymerase subunit family. {ECO:0000256|HAMAP-Rule:MF_00192}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; FJ515673; ACL36496.1; -; Genomic_DNA.
+DR   PDB; 2Y0S; X-ray; 3.80 A; I/K=1-95.
+DR   PDB; 4AYB; X-ray; 3.20 A; K=1-95.
+DR   PDB; 4V8S; X-ray; 4.32 A; AI/BK=1-95.
+DR   PDBsum; 4AYB; -.
+DR   PDBsum; 4V8S; -.
+DR   BRENDA; 2.7.7.6; 6162.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0003899; F:DNA-directed RNA polymerase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0006351; P:transcription, DNA-templated; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 3.90.940.10; -; 1.
+DR   HAMAP; MF_00192; RNApol_arch_K; 1.
+DR   InterPro; IPR020708; DNA-dir_RNA_polK_14-18kDa_CS.
+DR   InterPro; IPR006110; Pol_omega/K/RPB6.
+DR   InterPro; IPR012293; RNAP_RPB6_omega.
+DR   InterPro; IPR006111; RpoK/Rpb6.
+DR   PANTHER; PTHR10773; PTHR10773; 1.
+DR   Pfam; PF01192; RNA_pol_Rpb6; 1.
+DR   SUPFAM; SSF63562; SSF63562; 1.
+DR   PROSITE; PS01111; RNA_POL_K_14KD; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2Y0S, ECO:0000213|PDB:4AYB};
+KW   DNA-directed RNA polymerase {ECO:0000256|HAMAP-Rule:MF_00192};
+KW   Nucleotidyltransferase {ECO:0000256|HAMAP-Rule:MF_00192};
+KW   Transcription {ECO:0000256|HAMAP-Rule:MF_00192};
+KW   Transferase {ECO:0000256|HAMAP-Rule:MF_00192}.
+SQ   SEQUENCE   95 AA;  10716 MW;  DB397018285CE8D6 CRC64;
+     MGLERDGILS QDLHFNEVFV SLWQNKLTRY EIARVISARA LQLAMGAPAL IDINNISSTD
+     VISIAEEEFK RGVLPITIRR RLPNGKIILL SLRKS
+//

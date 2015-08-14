@@ -1,0 +1,112 @@
+ID   Q46547_DICNO            Unreviewed;       603 AA.
+AC   Q46547;
+DT   01-NOV-1996, integrated into UniProtKB/TrEMBL.
+DT   01-NOV-1996, sequence version 1.
+DT   24-JUN-2015, entry version 86.
+DE   SubName: Full=Serine protease {ECO:0000313|EMBL:AAA80562.1};
+DE   Flags: Precursor;
+GN   Name=bprB {ECO:0000313|EMBL:AAA80562.1};
+OS   Dichelobacter nodosus (Bacteroides nodosus).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Cardiobacteriales;
+OC   Cardiobacteriaceae; Dichelobacter.
+OX   NCBI_TaxID=870 {ECO:0000313|EMBL:AAA80562.1};
+RN   [1] {ECO:0000313|EMBL:AAA80562.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=305 {ECO:0000313|EMBL:AAA80562.1};
+RX   PubMed=7663404;
+RA   Lilley G.G., Riffkin M.C., Stewart D.J., Kortt A.A.;
+RT   "Nucleotide and deduced protein sequence of the extracellular, serine
+RT   basic protease gene (bprB) from Dichelobacter nodosus strain 305:
+RT   comparison with the basic protease gene (bprV) from virulent strain
+RT   198.";
+RL   Biochem. Mol. Biol. Int. 36:101-111(1995).
+RN   [2] {ECO:0000213|PDB:3TI9}
+RP   X-RAY CRYSTALLOGRAPHY (1.80 ANGSTROMS) OF 133-476 IN COMPLEX WITH
+RP   CALCIUM, AND DISULFIDE BONDS.
+RX   PubMed=21990366; DOI=10.1074/jbc.M111.298711;
+RA   Wong W., Wijeyewickrema L.C., Kennan R.M., Reeve S.B., Steer D.L.,
+RA   Reboul C., Smith A.I., Pike R.N., Rood J.I., Whisstock J.C.,
+RA   Porter C.J.;
+RT   "S1 pocket of a bacterially derived subtilisin-like protease underpins
+RT   effective tissue destruction.";
+RL   J. Biol. Chem. 286:42180-42187(2011).
+CC   -!- SIMILARITY: Belongs to the peptidase S8 family.
+CC       {ECO:0000256|RuleBase:RU003355}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; L37754; AAA80562.1; -; Genomic_DNA.
+DR   PDB; 3TI9; X-ray; 1.80 A; A=133-476.
+DR   PDBsum; 3TI9; -.
+DR   ProteinModelPortal; Q46547; -.
+DR   STRING; 246195.DNO_0605; -.
+DR   BRENDA; 3.4.21.62; 11943.
+DR   EvolutionaryTrace; Q46547; -.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004252; F:serine-type endopeptidase activity; IEA:InterPro.
+DR   Gene3D; 2.60.120.260; -; 1.
+DR   Gene3D; 3.40.50.200; -; 1.
+DR   InterPro; IPR008979; Galactose-bd-like.
+DR   InterPro; IPR000209; Peptidase_S8/S53_dom.
+DR   InterPro; IPR023827; Peptidase_S8_Asp-AS.
+DR   InterPro; IPR022398; Peptidase_S8_His-AS.
+DR   InterPro; IPR023828; Peptidase_S8_Ser-AS.
+DR   InterPro; IPR015500; Peptidase_S8_subtilisin-rel.
+DR   InterPro; IPR002884; PrprotnconvertsP.
+DR   PANTHER; PTHR10795; PTHR10795; 1.
+DR   Pfam; PF01483; P_proprotein; 1.
+DR   Pfam; PF00082; Peptidase_S8; 1.
+DR   PRINTS; PR00723; SUBTILISIN.
+DR   SUPFAM; SSF49785; SSF49785; 1.
+DR   SUPFAM; SSF52743; SSF52743; 2.
+DR   PROSITE; PS00136; SUBTILASE_ASP; 1.
+DR   PROSITE; PS00137; SUBTILASE_HIS; 1.
+DR   PROSITE; PS00138; SUBTILASE_SER; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3TI9}; Calcium {ECO:0000213|PDB:3TI9};
+KW   Hydrolase {ECO:0000256|RuleBase:RU004261};
+KW   Metal-binding {ECO:0000213|PDB:3TI9};
+KW   Protease {ECO:0000256|RuleBase:RU004261};
+KW   Serine protease {ECO:0000256|RuleBase:RU004261};
+KW   Signal {ECO:0000313|EMBL:AAA80562.1}.
+FT   SIGNAL        1     27       Potential. {ECO:0000313|EMBL:AAA80562.1}.
+FT   CHAIN        28    603       Potential. {ECO:0000313|EMBL:AAA80562.1}.
+FT                                /FTId=PRO_5000142630.
+FT   CHAIN       133    476       serine protease.
+FT                                {ECO:0000313|EMBL:AAA80562.1}.
+FT                                /FTId=PRO_5000142631.
+FT   METAL       137    137       Calcium 1. {ECO:0000213|PDB:3TI9}.
+FT   METAL       181    181       Calcium 1. {ECO:0000213|PDB:3TI9}.
+FT   METAL       191    191       Calcium 2. {ECO:0000213|PDB:3TI9}.
+FT   METAL       201    201       Calcium 2. {ECO:0000213|PDB:3TI9}.
+FT   METAL       201    201       Calcium 3. {ECO:0000213|PDB:3TI9}.
+FT   METAL       203    203       Calcium 3. {ECO:0000213|PDB:3TI9}.
+FT   METAL       204    204       Calcium 3; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:3TI9}.
+FT   METAL       206    206       Calcium 2. {ECO:0000213|PDB:3TI9}.
+FT   METAL       206    206       Calcium 3. {ECO:0000213|PDB:3TI9}.
+FT   METAL       208    208       Calcium 2; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:3TI9}.
+FT   METAL       248    248       Calcium 1; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:3TI9}.
+FT   METAL       251    251       Calcium 1. {ECO:0000213|PDB:3TI9}.
+FT   METAL       253    253       Calcium 1; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:3TI9}.
+FT   METAL       255    255       Calcium 1; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:3TI9}.
+FT   DISULFID    221    273       {ECO:0000213|PDB:3TI9}.
+FT   DISULFID    315    352       {ECO:0000213|PDB:3TI9}.
+SQ   SEQUENCE   603 AA;  63608 MW;  94F92BE7BA4260F1 CRC64;
+     MNLSNISAVK VLTLVVSAAI AGQACAAESI VNYESANAIS KQPEGSVRFI VKYKDGTPSS
+     QGLKTRSTTK VMASGMQVAG FEAQFVRTTG LGAGIFAVPE LKTTKEAHLV MDTIASNPDV
+     EFVEVDRLAY PKAAPNDPSY QQQWHYFGNY GVKADKVWDR GFTGQGVVVS VVDTGILDHV
+     DLNGNMLPGY DFISSAPKAR DGDQRDNNPA DEGDWFDNWG CGGYPDPRRE KRFSTWHGSH
+     VAGTIAAVTN NGVGVAGVAY GAKVIPVRVL GKCGGYDSDI TDGMYWSAGG HIDGVPDNQN
+     PAQVINMSLG GDGDCSQSSQ RIIDKTTNLG ALIVIAAGNE NQDASRTWPS SCNNVLSVGA
+     TTPKGKRAPF SNYGARVHLA APGTNILSTI DVGQAGPVRS SYGMKAGTSM AAPHVSGVAA
+     LVISAANSIG KTLTPSELSD ILVRTTSRFN GRLDRGLGSG IVDANAAVNA VLGDQNRAQP
+     RPPVNQPINS GNKVYKSNGK VAIRDLRSVT SGIRVNDQAR VGSANITLTL DIRHGDRSLL
+     AVELIAPSGR IYPINHDGKR QPNIVGSVTF GVKNERLQGT WTLKVTDKAR GVTGSIDSWG
+     LTF
+//

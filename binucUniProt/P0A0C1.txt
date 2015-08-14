@@ -1,0 +1,195 @@
+ID   AACA_STAAU              Reviewed;         479 AA.
+AC   P0A0C1; P14507; Q7DG31;
+DT   01-MAR-2005, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAR-2005, sequence version 1.
+DT   22-JUL-2015, entry version 61.
+DE   RecName: Full=Bifunctional AAC/APH;
+DE   Includes:
+DE     RecName: Full=6'-aminoglycoside N-acetyltransferase;
+DE              EC=2.3.1.-;
+DE     AltName: Full=AAC(6');
+DE   Includes:
+DE     RecName: Full=2''-aminoglycoside phosphotransferase;
+DE              EC=2.7.1.-;
+DE     AltName: Full=APH(2'');
+GN   Name=aacA-aphD; ORFNames=R015, VRA0030;
+OS   Staphylococcus aureus.
+OG   Plasmid VRSAp, Plasmid pSK41, and Plasmid pLW043.
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcus.
+OX   NCBI_TaxID=1280;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   PLASMID=VRSAp; TRANSPOSON=Tn4001;
+RX   PubMed=2833561;
+RA   Rouch D.A., Byrne M.E., Kong Y.C., Skurray R.A.;
+RT   "The aacA-aphD gentamicin and kanamycin resistance determinant of
+RT   Tn4001 from Staphylococcus aureus: expression and nucleotide sequence
+RT   analysis.";
+RL   J. Gen. Microbiol. 133:3039-3052(1987).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   PLASMID=pSK41;
+RX   PubMed=9721269;
+RA   Berg T., Firth N., Apisiridej S., Hettiaratchi A., Leelaporn A.,
+RA   Skurray R.A.;
+RT   "Complete nucleotide sequence of pSK41: evolution of staphylococcal
+RT   conjugative multiresistance plasmids.";
+RL   J. Bacteriol. 180:4350-4359(1998).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=MR108;
+RX   PubMed=12654286; DOI=10.1016/S1368-7646(03)00003-7;
+RA   Ito T., Okuma K., Ma X.X., Yuzawa H., Hiramatsu K.;
+RT   "Insights on antibiotic resistance of Staphylococcus aureus from its
+RT   whole genome: genomic island SCC.";
+RL   Drug Resist. Updat. 6:41-52(2003).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=14645850; DOI=10.1126/science.1090956;
+RA   Weigel L.M., Clewell D.B., Gill S.R., Clark N.C., McDougal L.K.,
+RA   Flannagan S.E., Kolonay J.F., Shetty J., Killgore G.E., Tenover F.C.;
+RT   "Genetic analysis of a high-level vancomycin-resistant isolate of
+RT   Staphylococcus aureus.";
+RL   Science 302:1569-1571(2003).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=7-0;
+RA   Ishikawa J., Izuta T., Katsumata Y., Ishino K., Matsumoto H.,
+RA   Hotta K.;
+RT   "Aminoglycoside resistance gene in Staphylococcus aureus.";
+RL   Submitted (JAN-2006) to the EMBL/GenBank/DDBJ databases.
+CC   -!- FUNCTION: Resistance to gentamicin, tobramycin, and kanamycin.
+CC       Tobramycin and kanamycin resistance is due to the ACC activity,
+CC       specified by N-terminal region, and the gentamicin resistance is
+CC       due to the APH activity encoded by the C-terminal region of the
+CC       protein.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm.
+CC   -!- SIMILARITY: In the C-terminal section; belongs to the
+CC       aminoglycoside phosphotransferase family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 N-acetyltransferase domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00532}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; GU565967; AAA88548.1; -; Genomic_DNA.
+DR   EMBL; AF051917; AAC61972.1; -; Genomic_DNA.
+DR   EMBL; AB096217; BAC67573.1; -; Genomic_DNA.
+DR   EMBL; AE017171; AAQ17152.1; -; Genomic_DNA.
+DR   EMBL; AB246921; BAE75929.1; -; Genomic_DNA.
+DR   PIR; S26353; S26353.
+DR   RefSeq; NP_863643.1; NC_005024.1.
+DR   RefSeq; NP_878008.1; NC_005054.1.
+DR   RefSeq; WP_001028144.1; NZ_JSYA01000041.1.
+DR   RefSeq; YP_001715988.1; NC_010419.1.
+DR   RefSeq; YP_002790939.1; NC_012547.1.
+DR   RefSeq; YP_003813125.1; NC_014369.1.
+DR   RefSeq; YP_006937626.1; NC_013320.1.
+DR   RefSeq; YP_006937700.1; NC_013321.1.
+DR   RefSeq; YP_006938333.1; NC_013338.1.
+DR   RefSeq; YP_006938359.1; NC_013339.1.
+DR   RefSeq; YP_006938464.1; NC_013342.1.
+DR   RefSeq; YP_006938543.1; NC_013343.1.
+DR   RefSeq; YP_006938602.1; NC_013344.1.
+DR   RefSeq; YP_008709805.1; NC_022598.1.
+DR   PDB; 4ORK; X-ray; 2.30 A; A/B/C/D=175-479.
+DR   PDBsum; 4ORK; -.
+DR   ProteinModelPortal; P0A0C1; -.
+DR   SMR; P0A0C1; 6-153, 192-472.
+DR   STRING; 158878.SAVP026; -.
+DR   PRIDE; P0A0C1; -.
+DR   GeneID; 13874776; -.
+DR   GeneID; 13874851; -.
+DR   GeneID; 13875474; -.
+DR   GeneID; 13875528; -.
+DR   GeneID; 13875687; -.
+DR   GeneID; 13875716; -.
+DR   GeneID; 13875775; -.
+DR   GeneID; 17363245; -.
+DR   GeneID; 24247924; -.
+DR   GeneID; 2598270; -.
+DR   GeneID; 2598370; -.
+DR   GeneID; 6155845; -.
+DR   GeneID; 7751504; -.
+DR   GeneID; 9487084; -.
+DR   KEGG; pg:13874776; -.
+DR   KEGG; pg:13874851; -.
+DR   KEGG; pg:13875474; -.
+DR   KEGG; pg:13875528; -.
+DR   KEGG; pg:13875687; -.
+DR   KEGG; pg:13875716; -.
+DR   KEGG; pg:13875775; -.
+DR   KEGG; pg:17363245; -.
+DR   KEGG; pg:2598270; -.
+DR   KEGG; pg:2598370; -.
+DR   KEGG; pg:6155845; -.
+DR   KEGG; pg:7751504; -.
+DR   KEGG; pg:9487084; -.
+DR   KO; K00663; -.
+DR   KO; K17910; -.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016301; F:kinase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0008080; F:N-acetyltransferase activity; IEA:InterPro.
+DR   GO; GO:0046677; P:response to antibiotic; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.630.30; -; 1.
+DR   InterPro; IPR016181; Acyl_CoA_acyltransferase.
+DR   InterPro; IPR002575; Aminoglycoside_PTrfase.
+DR   InterPro; IPR000182; GNAT_dom.
+DR   InterPro; IPR011009; Kinase-like_dom.
+DR   Pfam; PF00583; Acetyltransf_1; 1.
+DR   Pfam; PF01636; APH; 1.
+DR   SUPFAM; SSF55729; SSF55729; 1.
+DR   SUPFAM; SSF56112; SSF56112; 1.
+DR   PROSITE; PS51186; GNAT; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acyltransferase; Antibiotic resistance; ATP-binding;
+KW   Cytoplasm; Kinase; Multifunctional enzyme; Nucleotide-binding;
+KW   Plasmid; Transferase; Transposable element.
+FT   CHAIN         1    479       Bifunctional AAC/APH.
+FT                                /FTId=PRO_0000204798.
+FT   DOMAIN        8    180       N-acetyltransferase.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00532}.
+FT   REGION      110    153       Acetyl-CoA binding site. {ECO:0000250}.
+FT   ACT_SITE    374    374       Proton acceptor; for phosphotransferase
+FT                                activity. {ECO:0000250}.
+FT   BINDING     393    393       Aminoglycoside substrate. {ECO:0000250}.
+FT   HELIX       181    196       {ECO:0000244|PDB:4ORK}.
+FT   STRAND      205    210       {ECO:0000244|PDB:4ORK}.
+FT   STRAND      212    219       {ECO:0000244|PDB:4ORK}.
+FT   TURN        220    222       {ECO:0000244|PDB:4ORK}.
+FT   STRAND      223    228       {ECO:0000244|PDB:4ORK}.
+FT   STRAND      233    235       {ECO:0000244|PDB:4ORK}.
+FT   HELIX       237    250       {ECO:0000244|PDB:4ORK}.
+FT   STRAND      254    256       {ECO:0000244|PDB:4ORK}.
+FT   STRAND      260    265       {ECO:0000244|PDB:4ORK}.
+FT   STRAND      270    275       {ECO:0000244|PDB:4ORK}.
+FT   STRAND      279    281       {ECO:0000244|PDB:4ORK}.
+FT   HELIX       284    288       {ECO:0000244|PDB:4ORK}.
+FT   HELIX       292    310       {ECO:0000244|PDB:4ORK}.
+FT   HELIX       315    317       {ECO:0000244|PDB:4ORK}.
+FT   HELIX       324    336       {ECO:0000244|PDB:4ORK}.
+FT   TURN        337    339       {ECO:0000244|PDB:4ORK}.
+FT   HELIX       340    342       {ECO:0000244|PDB:4ORK}.
+FT   HELIX       345    360       {ECO:0000244|PDB:4ORK}.
+FT   STRAND      368    371       {ECO:0000244|PDB:4ORK}.
+FT   HELIX       377    379       {ECO:0000244|PDB:4ORK}.
+FT   STRAND      380    382       {ECO:0000244|PDB:4ORK}.
+FT   STRAND      388    391       {ECO:0000244|PDB:4ORK}.
+FT   STRAND      398    401       {ECO:0000244|PDB:4ORK}.
+FT   HELIX       402    406       {ECO:0000244|PDB:4ORK}.
+FT   TURN        407    409       {ECO:0000244|PDB:4ORK}.
+FT   STRAND      413    416       {ECO:0000244|PDB:4ORK}.
+FT   HELIX       419    429       {ECO:0000244|PDB:4ORK}.
+FT   HELIX       434    459       {ECO:0000244|PDB:4ORK}.
+FT   HELIX       462    476       {ECO:0000244|PDB:4ORK}.
+SQ   SEQUENCE   479 AA;  56855 MW;  744D93D76299CFCE CRC64;
+     MNIVENEICI RTLIDDDFPL MLKWLTDERV LEFYGGRDKK YTLESLKKHY TEPWEDEVFR
+     VIIEYNNVPI GYGQIYKMYD ELYTDYHYPK TDEIVYGMDQ FIGEPNYWSK GIGTRYIKLI
+     FEFLKKERNA NAVILDPHKN NPRAIRAYQK SGFRIIEDLP EHELHEGKKE DCYLMEYRYD
+     DNATNVKAMK YLIEHYFDNF KVDSIEIIGS GYDSVAYLVN NEYIFKTKFS TNKKKGYAKE
+     KAIYNFLNTN LETNVKIPNI EYSYISDELS ILGYKEIKGT FLTPEIYSTM SEEEQNLLKR
+     DIASFLRQMH GLDYTDISEC TIDNKQNVLE EYILLRETIY NDLTDIEKDY IESFMERLNA
+     TTVFEGKKCL CHNDFSCNHL LLDGNNRLTG IIDFGDSGII DEYCDFIYLL EDSEEEIGTN
+     FGEDILRMYG NIDIEKAKEY QDIVEEYYPI ETIVYGIKNI KQEFIENGRK EIYKRTYKD
+//

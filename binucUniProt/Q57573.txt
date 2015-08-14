@@ -1,0 +1,202 @@
+ID   BSUHB_METJA             Reviewed;         252 AA.
+AC   Q57573;
+DT   01-NOV-1997, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   22-JUL-2015, entry version 113.
+DE   RecName: Full=Fructose-1,6-bisphosphatase/inositol-1-monophosphatase;
+DE            Short=FBPase/IMPase;
+DE            EC=3.1.3.11;
+DE            EC=3.1.3.25;
+DE   AltName: Full=Inositol-1-phosphatase;
+DE            Short=I-1-Pase;
+GN   Name=suhB; OrderedLocusNames=MJ0109;
+OS   Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 /
+OS   JCM 10045 / NBRC 100440) (Methanococcus jannaschii).
+OC   Archaea; Euryarchaeota; Methanococci; Methanococcales;
+OC   Methanocaldococcaceae; Methanocaldococcus.
+OX   NCBI_TaxID=243232;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440;
+RX   PubMed=8688087; DOI=10.1126/science.273.5278.1058;
+RA   Bult C.J., White O., Olsen G.J., Zhou L., Fleischmann R.D.,
+RA   Sutton G.G., Blake J.A., FitzGerald L.M., Clayton R.A., Gocayne J.D.,
+RA   Kerlavage A.R., Dougherty B.A., Tomb J.-F., Adams M.D., Reich C.I.,
+RA   Overbeek R., Kirkness E.F., Weinstock K.G., Merrick J.M., Glodek A.,
+RA   Scott J.L., Geoghagen N.S.M., Weidman J.F., Fuhrmann J.L., Nguyen D.,
+RA   Utterback T.R., Kelley J.M., Peterson J.D., Sadow P.W., Hanna M.C.,
+RA   Cotton M.D., Roberts K.M., Hurst M.A., Kaine B.P., Borodovsky M.,
+RA   Klenk H.-P., Fraser C.M., Smith H.O., Woese C.R., Venter J.C.;
+RT   "Complete genome sequence of the methanogenic archaeon, Methanococcus
+RT   jannaschii.";
+RL   Science 273:1058-1073(1996).
+RN   [2]
+RP   FUNCTION AS IMPASE, CATALYTIC ACTIVITY, SUBSTRATE SPECIFICITY,
+RP   COFACTOR, BIOPHYSICOCHEMICAL PROPERTIES, SUBUNIT, AND ENZYME
+RP   REGULATION.
+RC   STRAIN=ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440;
+RX   PubMed=9647837;
+RA   Chen L., Roberts M.F.;
+RT   "Cloning and expression of the inositol monophosphatase gene from
+RT   Methanococcus jannaschii and characterization of the enzyme.";
+RL   Appl. Environ. Microbiol. 64:2609-2615(1998).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (2.6 ANGSTROMS) IN COMPLEX WITH PHOSPHATE AND
+RP   METAL IONS, FUNCTION AS BOTH FBPASE AND IMPASE, CATALYTIC ACTIVITY,
+RP   SUBSTRATE SPECIFICITY, AND KINETIC PARAMETERS.
+RC   STRAIN=ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440;
+RX   PubMed=11062561; DOI=10.1038/80968;
+RA   Stec B., Yang H., Johnson K.A., Chen L., Roberts M.F.;
+RT   "MJ0109 is an enzyme that is both an inositol monophosphatase and the
+RT   'missing' archaeal fructose-1,6-bisphosphatase.";
+RL   Nat. Struct. Biol. 7:1046-1050(2000).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (2.3 ANGSTROMS) IN COMPLEXES WITH MYO-INOSITOL
+RP   PHOSPHATE; MYO-INOSITOL AND METAL IONS.
+RC   STRAIN=ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440;
+RX   PubMed=11170378; DOI=10.1021/bi0016422;
+RA   Johnson K.A., Chen L., Yang H., Roberts M.F., Stec B.;
+RT   "Crystal structure and catalytic mechanism of the MJ0109 gene product:
+RT   a bifunctional enzyme with inositol monophosphatase and fructose 1,6-
+RT   bisphosphatase activities.";
+RL   Biochemistry 40:618-630(2001).
+CC   -!- FUNCTION: Phosphatase with broad specificity; it can
+CC       dephosphorylate fructose 1,6-bisphosphate, both D and L isomers of
+CC       inositol-1-phosphate (I-1-P), 2'-AMP, pNPP, beta-glycerol
+CC       phosphate, and alpha-D-glucose-1-phosphate. Cannot hydrolyze
+CC       glucose-6-phosphate, fructose-6-phosphate, NAD(+) or 5'-AMP. May
+CC       be involved in the biosynthesis of a unique osmolyte, di-myo-
+CC       inositol 1,1-phosphate. {ECO:0000269|PubMed:11062561,
+CC       ECO:0000269|PubMed:9647837}.
+CC   -!- CATALYTIC ACTIVITY: D-fructose 1,6-bisphosphate + H(2)O = D-
+CC       fructose 6-phosphate + phosphate.
+CC   -!- CATALYTIC ACTIVITY: Myo-inositol phosphate + H(2)O = myo-inositol
+CC       + phosphate.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000269|PubMed:9647837};
+CC   -!- ENZYME REGULATION: IMPase activity is inhibited by Ca(2+) and
+CC       Zn(2+). In contrast to mammalian I-1-P phosphatases, is not
+CC       inhibited by Li(+) up to 100 mM. {ECO:0000269|PubMed:9647837}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=0.091 mM for inositol-1-phosphate (at 85 degrees Celsius)
+CC         {ECO:0000269|PubMed:11062561, ECO:0000269|PubMed:9647837};
+CC         KM=0.038 mM for D-fructose 1,6-bisphosphate (at 85 degrees
+CC         Celsius) {ECO:0000269|PubMed:11062561,
+CC         ECO:0000269|PubMed:9647837};
+CC         Vmax=9.3 umol/min/mg enzyme for IMPase activity (at 85 degrees
+CC         Celsius) {ECO:0000269|PubMed:11062561,
+CC         ECO:0000269|PubMed:9647837};
+CC         Note=kcat is 4.2 sec(-1) for IMPase activity (at 85 degrees
+CC         Celsius) and 7.0 sec(-1) for FBPase activity (at 85 degrees
+CC         Celsius).;
+CC       Temperature dependence:
+CC         Is thermostable. After incubation at 85 degrees Celsius for 30
+CC         minutes, more than 95% of I-1-Pase activity remains.
+CC         {ECO:0000269|PubMed:9647837};
+CC   -!- PATHWAY: Carbohydrate biosynthesis; gluconeogenesis.
+CC   -!- SUBUNIT: Homodimer. {ECO:0000269|PubMed:11062561,
+CC       ECO:0000269|PubMed:9647837}.
+CC   -!- SIMILARITY: Belongs to the inositol monophosphatase family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; L77117; AAB98091.1; -; Genomic_DNA.
+DR   PIR; E64313; E64313.
+DR   RefSeq; NP_247073.1; NC_000909.1.
+DR   RefSeq; WP_010869601.1; NC_000909.1.
+DR   PDB; 1DK4; X-ray; 2.60 A; A/B=1-252.
+DR   PDB; 1G0H; X-ray; 2.30 A; A/B=1-252.
+DR   PDB; 1G0I; X-ray; 2.40 A; A/B=1-252.
+DR   PDBsum; 1DK4; -.
+DR   PDBsum; 1G0H; -.
+DR   PDBsum; 1G0I; -.
+DR   ProteinModelPortal; Q57573; -.
+DR   SMR; Q57573; 1-252.
+DR   STRING; 243232.MJ_0109; -.
+DR   EnsemblBacteria; AAB98091; AAB98091; MJ_0109.
+DR   GeneID; 1450950; -.
+DR   KEGG; mja:MJ_0109; -.
+DR   eggNOG; COG0483; -.
+DR   InParanoid; Q57573; -.
+DR   KO; K01092; -.
+DR   OMA; SALELCY; -.
+DR   PhylomeDB; Q57573; -.
+DR   BioCyc; MetaCyc:MONOMER-5062; -.
+DR   BRENDA; 3.1.3.25; 3260.
+DR   UniPathway; UPA00138; -.
+DR   EvolutionaryTrace; Q57573; -.
+DR   Proteomes; UP000000805; Chromosome.
+DR   GO; GO:0042132; F:fructose 1,6-bisphosphate 1-phosphatase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0008934; F:inositol monophosphate 1-phosphatase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0052832; F:inositol monophosphate 3-phosphatase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0052833; F:inositol monophosphate 4-phosphatase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006094; P:gluconeogenesis; IEA:UniProtKB-UniPathway.
+DR   GO; GO:0046854; P:phosphatidylinositol phosphorylation; IEA:InterPro.
+DR   InterPro; IPR020583; Inositol_monoP_metal-BS.
+DR   InterPro; IPR000760; Inositol_monophosphatase.
+DR   InterPro; IPR020550; Inositol_monophosphatase_CS.
+DR   PANTHER; PTHR20854; PTHR20854; 1.
+DR   Pfam; PF00459; Inositol_P; 1.
+DR   PRINTS; PR00377; IMPHPHTASES.
+DR   PROSITE; PS00629; IMP_1; 1.
+DR   PROSITE; PS00630; IMP_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Carbohydrate metabolism; Complete proteome;
+KW   Gluconeogenesis; Hydrolase; Magnesium; Metal-binding;
+KW   Reference proteome.
+FT   CHAIN         1    252       Fructose-1,6-bisphosphatase/inositol-1-
+FT                                monophosphatase.
+FT                                /FTId=PRO_0000142580.
+FT   REGION       84     86       Substrate binding.
+FT   METAL        65     65       Magnesium 1.
+FT   METAL        81     81       Magnesium 1.
+FT   METAL        81     81       Magnesium 2.
+FT   METAL        83     83       Magnesium 1; via carbonyl oxygen.
+FT   METAL        84     84       Magnesium 2.
+FT   METAL       201    201       Magnesium 2.
+FT   BINDING     170    170       Substrate.
+FT   BINDING     175    175       Substrate; via amide nitrogen.
+FT   BINDING     194    194       Substrate.
+FT   HELIX         3     18       {ECO:0000244|PDB:1G0H}.
+FT   HELIX        19     21       {ECO:0000244|PDB:1G0H}.
+FT   TURN         25     27       {ECO:0000244|PDB:1G0H}.
+FT   STRAND       30     34       {ECO:0000244|PDB:1G0H}.
+FT   TURN         35     37       {ECO:0000244|PDB:1G0H}.
+FT   STRAND       38     41       {ECO:0000244|PDB:1G0H}.
+FT   HELIX        42     55       {ECO:0000244|PDB:1G0H}.
+FT   HELIX        56     58       {ECO:0000244|PDB:1G0H}.
+FT   STRAND       60     64       {ECO:0000244|PDB:1G0H}.
+FT   HELIX        65     67       {ECO:0000244|PDB:1G0H}.
+FT   STRAND       68     70       {ECO:0000244|PDB:1G0H}.
+FT   STRAND       75     84       {ECO:0000244|PDB:1G0H}.
+FT   HELIX        86     90       {ECO:0000244|PDB:1G0H}.
+FT   STRAND       97    115       {ECO:0000244|PDB:1G0H}.
+FT   HELIX       116    118       {ECO:0000244|PDB:1G0H}.
+FT   STRAND      120    125       {ECO:0000244|PDB:1G0H}.
+FT   TURN        126    128       {ECO:0000244|PDB:1G0H}.
+FT   STRAND      129    132       {ECO:0000244|PDB:1G0I}.
+FT   HELIX       144    146       {ECO:0000244|PDB:1G0I}.
+FT   STRAND      148    152       {ECO:0000244|PDB:1G0H}.
+FT   STRAND      155    157       {ECO:0000244|PDB:1DK4}.
+FT   HELIX       159    165       {ECO:0000244|PDB:1G0H}.
+FT   STRAND      167    169       {ECO:0000244|PDB:1G0H}.
+FT   HELIX       175    183       {ECO:0000244|PDB:1G0H}.
+FT   STRAND      188    192       {ECO:0000244|PDB:1G0H}.
+FT   HELIX       199    210       {ECO:0000244|PDB:1G0H}.
+FT   TURN        211    213       {ECO:0000244|PDB:1G0H}.
+FT   STRAND      215    217       {ECO:0000244|PDB:1G0H}.
+FT   STRAND      219    223       {ECO:0000244|PDB:1G0H}.
+FT   STRAND      237    241       {ECO:0000244|PDB:1G0H}.
+FT   HELIX       242    249       {ECO:0000244|PDB:1G0H}.
+SQ   SEQUENCE   252 AA;  28578 MW;  3ED5B4401075EE6E CRC64;
+     MKWDEIGKNI AKEIEKEILP YFGRKDKSYV VGTSPSGDET EIFDKISEDI ALKYLKSLNV
+     NIVSEELGVI DNSSEWTVVI DPIDGSFNFI NGIPFFAFCF GVFKNNEPYY GLTYEFLTKS
+     FYEAYKGKGA YLNGRKIKVK DFNPNNIVIS YYPSKKIDLE KLRNKVKRVR IFGAFGLEMC
+     YVAKGTLDAV FDVRPKVRAV DIASSYIICK EAGALITDEN GDELKFDLNA TDRLNIIVAN
+     SKEMLDIILD LL
+//

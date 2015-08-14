@@ -1,0 +1,96 @@
+ID   MT1_CALSI               Reviewed;          59 AA.
+AC   P55949;
+DT   01-NOV-1997, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1997, sequence version 1.
+DT   29-OCT-2014, entry version 65.
+DE   RecName: Full=Metallothionein-1B;
+DE            Short=MT-1B;
+DE   AltName: Full=Metallothionein-IB;
+DE            Short=MT-IB;
+DE   Contains:
+DE     RecName: Full=Metallothionein-1A;
+DE              Short=MT-1A;
+DE     AltName: Full=Metallothionein-IA;
+DE              Short=MT-IA;
+OS   Callinectes sapidus (Blue crab).
+OC   Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea; Malacostraca;
+OC   Eumalacostraca; Eucarida; Decapoda; Pleocyemata; Brachyura;
+OC   Eubrachyura; Portunoidea; Portunidae; Callinectes.
+OX   NCBI_TaxID=6763;
+RN   [1]
+RP   PROTEIN SEQUENCE.
+RX   PubMed=7487904;
+RA   Brouwer M., Enghild J., Hoexum-Brouwer T., Thogersen I., Truncali A.;
+RT   "Primary structure and tissue-specific expression of blue crab
+RT   (Callinectes sapidus) metallothionein isoforms.";
+RL   Biochem. J. 311:617-622(1995).
+RN   [2]
+RP   STRUCTURE BY NMR.
+RX   PubMed=7819257; DOI=10.1021/bi00002a029;
+RA   Narula S.S., Brouwer M., Hua Y., Armitage I.M.;
+RT   "Three-dimensional solution structure of Callinectes sapidus
+RT   metallothionein-1 determined by homonuclear and heteronuclear magnetic
+RT   resonance spectroscopy.";
+RL   Biochemistry 34:620-631(1995).
+CC   -!- FUNCTION: Binds six divalent metal ions. Known to bind copper and
+CC       cadmium.
+CC   -!- SIMILARITY: Belongs to the metallothionein superfamily. Type 3
+CC       family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   PIR; S59072; S59072.
+DR   PDB; 1DMC; NMR; -; A=29-59.
+DR   PDB; 1DMD; NMR; -; A=29-59.
+DR   PDB; 1DME; NMR; -; A=2-29.
+DR   PDB; 1DMF; NMR; -; A=2-29.
+DR   PDBsum; 1DMC; -.
+DR   PDBsum; 1DMD; -.
+DR   PDBsum; 1DME; -.
+DR   PDBsum; 1DMF; -.
+DR   ProteinModelPortal; P55949; -.
+DR   SMR; P55949; 2-59.
+DR   EvolutionaryTrace; P55949; -.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   InterPro; IPR002045; Metalthion_3_crustacean.
+DR   InterPro; IPR017854; Metalthion_dom.
+DR   InterPro; IPR003019; Metalthion_sfam_euk.
+DR   Pfam; PF00131; Metallothio; 1.
+DR   PRINTS; PR00858; MTCRUSTACEAN.
+DR   SUPFAM; SSF57868; SSF57868; 2.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cadmium; Copper; Direct protein sequencing;
+KW   Metal-binding; Metal-thiolate cluster.
+FT   CHAIN         1     59       Metallothionein-1B.
+FT                                /FTId=PRO_0000041754.
+FT   CHAIN         2     59       Metallothionein-1A.
+FT                                /FTId=PRO_0000041755.
+FT   REGION        1     29       Beta.
+FT   REGION       30     59       Alpha.
+FT   METAL         5      5       Divalent metal cation; cluster B.
+FT   METAL         6      6       Divalent metal cation; cluster B.
+FT   METAL        10     10       Divalent metal cation; cluster B.
+FT   METAL        12     12       Divalent metal cation; cluster B.
+FT   METAL        17     17       Divalent metal cation; cluster B.
+FT   METAL        21     21       Divalent metal cation; cluster B.
+FT   METAL        23     23       Divalent metal cation; cluster B.
+FT   METAL        26     26       Divalent metal cation; cluster B.
+FT   METAL        28     28       Divalent metal cation; cluster B.
+FT   METAL        31     31       Divalent metal cation; cluster A.
+FT   METAL        34     34       Divalent metal cation; cluster A.
+FT   METAL        38     38       Divalent metal cation; cluster A.
+FT   METAL        40     40       Divalent metal cation; cluster A.
+FT   METAL        46     46       Divalent metal cation; cluster A.
+FT   METAL        50     50       Divalent metal cation; cluster A.
+FT   METAL        54     54       Divalent metal cation; cluster A.
+FT   METAL        56     56       Divalent metal cation; cluster A.
+FT   METAL        57     57       Divalent metal cation; cluster A.
+FT   TURN         12     15       {ECO:0000244|PDB:1DME}.
+FT   STRAND       24     26       {ECO:0000244|PDB:1DMF}.
+FT   TURN         32     37       {ECO:0000244|PDB:1DMC}.
+FT   HELIX        43     49       {ECO:0000244|PDB:1DMC}.
+FT   STRAND       55     57       {ECO:0000244|PDB:1DMC}.
+SQ   SEQUENCE   59 AA;  6141 MW;  4398B0A9D1A96D34 CRC64;
+     MPGPCCNDKC VCQEGGCKAG CQCTSCRCSP CQKCTSGCKC ATKEECSKTC TKPCSCCPK
+//

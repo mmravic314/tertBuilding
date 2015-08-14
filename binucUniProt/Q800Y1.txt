@@ -1,0 +1,128 @@
+ID   OSTCN_ARGRE             Reviewed;          97 AA.
+AC   Q800Y1;
+DT   04-JAN-2005, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-2003, sequence version 1.
+DT   07-JAN-2015, entry version 52.
+DE   RecName: Full=Osteocalcin;
+DE   AltName: Full=Bone Gla protein;
+DE            Short=BGP;
+DE   AltName: Full=Gamma-carboxyglutamic acid-containing protein;
+DE   Flags: Precursor;
+GN   Name=bglap;
+OS   Argyrosomus regius (Meagre).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Actinopterygii; Neopterygii; Teleostei; Neoteleostei; Acanthomorphata;
+OC   Eupercaria; Sciaenidae; Argyrosomus.
+OX   NCBI_TaxID=172269;
+RN   [1] {ECO:0000305, ECO:0000312|EMBL:AAO48725.1}
+RP   NUCLEOTIDE SEQUENCE [MRNA], PROTEIN SEQUENCE OF 53-81, AND TISSUE
+RP   SPECIFICITY.
+RC   TISSUE=Cartilage;
+RX   PubMed=12568402; DOI=10.1359/jbmr.2003.18.2.244;
+RA   Simes D.C., Williamson M.K., Ortiz-Delgado J.B., Viegas C.S.,
+RA   Price P.A., Cancela M.L.;
+RT   "Purification of matrix Gla protein from a marine teleost fish,
+RT   Argyrosomus regius: calcified cartilage and not bone as the primary
+RT   site of MGP accumulation in fish.";
+RL   J. Bone Miner. Res. 18:244-259(2003).
+RN   [2] {ECO:0000305}
+RP   PROTEIN SEQUENCE OF 53-88, AND GAMMA-CARBOXYGLUTAMATION AT GLU-63;
+RP   GLU-67 AND GLU-70.
+RC   TISSUE=Cartilage;
+RX   PubMed=14668966; DOI=10.1007/s00223-003-0079-4;
+RA   Simes D.C., Williamson M.K., Schaff B.J., Gavaia P.J., Ingleton P.M.,
+RA   Price P.A., Cancela M.L.;
+RT   "Characterization of osteocalcin (BGP) and matrix Gla protein (MGP)
+RT   fish specific antibodies: validation for immunodetection studies in
+RT   lower vertebrates.";
+RL   Calcif. Tissue Int. 74:170-180(2004).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (1.4 ANGSTROMS) OF 53-97, DISULFIDE BOND, AND
+RP   GAMMA-CARBOXYGLUTAMATION AT GLU-63; GLU-67; GLU-70 AND GLU-77.
+RX   PubMed=15667217; DOI=10.1021/bi048336z;
+RA   Frazao C., Simes D.C., Coelho R., Alves D., Williamson M.K.,
+RA   Price P.A., Cancela M.L., Carrondo M.A.;
+RT   "Structural evidence of a fourth Gla residue in fish osteocalcin:
+RT   biological implications.";
+RL   Biochemistry 44:1234-1242(2005).
+CC   -!- FUNCTION: Binds strongly to apatite and calcium. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Secreted.
+CC   -!- TISSUE SPECIFICITY: In the branchial arches, BGP is found outside
+CC       the chondrocyte-containing zone. It is found in some cells in the
+CC       basal zone of the branchial filaments, near the branchial arches,
+CC       and within the extracellular matrix in the medial zone. In the
+CC       vertebra, BGP is found in the mineralized bone matrix.
+CC       {ECO:0000269|PubMed:12568402}.
+CC   -!- PTM: Gamma-carboxyglutamate residues are formed by vitamin K
+CC       dependent carboxylation. These residues are essential for the
+CC       binding of calcium. {ECO:0000255|PROSITE-ProRule:PRU00463,
+CC       ECO:0000269|PubMed:14668966, ECO:0000269|PubMed:15667217}.
+CC   -!- SIMILARITY: Belongs to the osteocalcin/matrix Gla protein family.
+CC       {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 Gla (gamma-carboxy-glutamate) domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00463}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF459030; AAO48725.1; -; mRNA.
+DR   PDB; 1VZM; X-ray; 1.40 A; A/B/C=53-97.
+DR   PDBsum; 1VZM; -.
+DR   ProteinModelPortal; Q800Y1; -.
+DR   SMR; Q800Y1; 55-97.
+DR   EvolutionaryTrace; Q800Y1; -.
+DR   GO; GO:0031012; C:extracellular matrix; IDA:UniProtKB.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005509; F:calcium ion binding; IEA:InterPro.
+DR   GO; GO:0030282; P:bone mineralization; TAS:UniProtKB.
+DR   GO; GO:0030500; P:regulation of bone mineralization; IEA:InterPro.
+DR   InterPro; IPR000294; GLA_domain.
+DR   InterPro; IPR002384; Osteocalcin/MGP.
+DR   Pfam; PF00594; Gla; 1.
+DR   PRINTS; PR00002; GLABONE.
+DR   SMART; SM00069; GLA; 1.
+DR   SUPFAM; SSF57630; SSF57630; 1.
+DR   PROSITE; PS00011; GLA_1; 1.
+DR   PROSITE; PS50998; GLA_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Biomineralization; Calcium; Direct protein sequencing;
+KW   Disulfide bond; Gamma-carboxyglutamic acid; Metal-binding; Secreted;
+KW   Signal.
+FT   SIGNAL        1     18       {ECO:0000255}.
+FT   PROPEP       19     52       {ECO:0000255,
+FT                                ECO:0000269|PubMed:12568402,
+FT                                ECO:0000269|PubMed:14668966}.
+FT                                /FTId=PRO_0000011096.
+FT   CHAIN        53     97       Osteocalcin.
+FT                                {ECO:0000269|PubMed:12568402}.
+FT                                /FTId=PRO_0000011097.
+FT   DOMAIN       53     93       Gla. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00463}.
+FT   METAL        63     63       Calcium 3. {ECO:0000250}.
+FT   METAL        67     67       Calcium 2. {ECO:0000250}.
+FT   METAL        70     70       Calcium 1. {ECO:0000250}.
+FT   METAL        70     70       Calcium 2. {ECO:0000250}.
+FT   METAL        76     76       Calcium 1. {ECO:0000250}.
+FT   MOD_RES      63     63       4-carboxyglutamate. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00463,
+FT                                ECO:0000269|PubMed:14668966,
+FT                                ECO:0000269|PubMed:15667217}.
+FT   MOD_RES      67     67       4-carboxyglutamate. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00463,
+FT                                ECO:0000269|PubMed:14668966,
+FT                                ECO:0000269|PubMed:15667217}.
+FT   MOD_RES      70     70       4-carboxyglutamate. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00463,
+FT                                ECO:0000269|PubMed:14668966,
+FT                                ECO:0000269|PubMed:15667217}.
+FT   MOD_RES      77     77       4-carboxyglutamate. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00463,
+FT                                ECO:0000269|PubMed:15667217}.
+FT   DISULFID     69     75       {ECO:0000255|PROSITE-ProRule:PRU00463,
+FT                                ECO:0000269|PubMed:15667217}.
+FT   HELIX        59     70       {ECO:0000244|PDB:1VZM}.
+FT   HELIX        73     92       {ECO:0000244|PDB:1VZM}.
+SQ   SEQUENCE   97 AA;  10115 MW;  BCDE8480EE9E7843 CRC64;
+     MKTLAILVLC SLAAICLTSS ASAGAQPAGD SPVQGGLFME KDQASAVVRQ TRAAKELTLA
+     QTESLREVCE TNMACDEMAD AQGIVAAYQA FYGPIPF
+//

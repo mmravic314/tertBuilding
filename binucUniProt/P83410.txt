@@ -1,0 +1,96 @@
+ID   LEC_ERYCG               Reviewed;         239 AA.
+AC   P83410;
+DT   19-OCT-2002, integrated into UniProtKB/Swiss-Prot.
+DT   19-OCT-2002, sequence version 1.
+DT   27-MAY-2015, entry version 65.
+DE   RecName: Full=Lectin;
+DE   AltName: Full=ECL;
+OS   Erythrina crista-galli (Cockspur coral tree) (Micropteryx
+OS   crista-galli).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+OC   Phaseoleae; Erythrina.
+OX   NCBI_TaxID=49817 {ECO:0000305};
+RN   [1] {ECO:0000305}
+RP   PARTIAL PROTEIN SEQUENCE, X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS), AND
+RP   VARIANT ILE-59.
+RX   PubMed=12139934; DOI=10.1016/S0022-2836(02)00554-5;
+RA   Svensson C., Teneberg S., Nilsson C.L., Kjellberg A., Schwarz F.P.,
+RA   Sharon N., Krengel U.;
+RT   "High-resolution crystal structures of Erythrina cristagalli lectin in
+RT   complex with lactose and 2'-alpha-L-fucosyllactose and correlation
+RT   with thermodynamic binding data.";
+RL   J. Mol. Biol. 321:69-83(2002).
+CC   -!- FUNCTION: Galactose and N-acetyllactosamine specific lectin.
+CC       {ECO:0000269|PubMed:12139934}.
+CC   -!- SUBUNIT: Homodimer. {ECO:0000269|PubMed:12139934}.
+CC   -!- MISCELLANEOUS: Binds one manganese ion and one calcium ion.
+CC       {ECO:0000269|PubMed:12139934}.
+CC   -!- SIMILARITY: Belongs to the leguminous lectin family.
+CC       {ECO:0000250|UniProtKB:P16404}.
+CC   -!- WEB RESOURCE: Name=Functional Glycomics Gateway - Glycan Binding;
+CC       Note=ECA;
+CC       URL="http://www.functionalglycomics.org/glycomics/GBPServlet?&operationType=view&cbpId=cbp_pla_other_293";
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   PDB; 1GZ9; X-ray; 1.70 A; A=1-239.
+DR   PDB; 1GZC; X-ray; 1.58 A; A=1-239.
+DR   PDBsum; 1GZ9; -.
+DR   PDBsum; 1GZC; -.
+DR   ProteinModelPortal; P83410; -.
+DR   SMR; P83410; 1-239.
+DR   ChEMBL; CHEMBL1649057; -.
+DR   EvolutionaryTrace; P83410; -.
+DR   GO; GO:0030246; F:carbohydrate binding; IEA:UniProtKB-KW.
+DR   Gene3D; 2.60.120.200; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR016363; Lectin.
+DR   InterPro; IPR000985; Lectin_LegA_CS.
+DR   InterPro; IPR019825; Lectin_legB_Mn/Ca_BS.
+DR   InterPro; IPR001220; Legume_lectin_dom.
+DR   Pfam; PF00139; Lectin_legB; 1.
+DR   PIRSF; PIRSF002690; L-type_lectin_plant; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   PROSITE; PS00308; LECTIN_LEGUME_ALPHA; 1.
+DR   PROSITE; PS00307; LECTIN_LEGUME_BETA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Direct protein sequencing; Glycoprotein; Lectin.
+FT   CHAIN         1    239       Lectin.
+FT                                /FTId=PRO_0000105098.
+FT   CARBOHYD     17     17       N-linked (GlcNAc...).
+FT                                {ECO:0000269|PubMed:12139934}.
+FT   CARBOHYD    113    113       N-linked (GlcNAc...).
+FT   VARIANT      59     59       M -> I. {ECO:0000269|PubMed:12139934}.
+FT   STRAND        2     10       {ECO:0000244|PDB:1GZC}.
+FT   STRAND       18     22       {ECO:0000244|PDB:1GZC}.
+FT   STRAND       32     35       {ECO:0000244|PDB:1GZC}.
+FT   STRAND       39     41       {ECO:0000244|PDB:1GZ9}.
+FT   STRAND       48     55       {ECO:0000244|PDB:1GZC}.
+FT   TURN         62     64       {ECO:0000244|PDB:1GZC}.
+FT   STRAND       69     77       {ECO:0000244|PDB:1GZC}.
+FT   STRAND       83     85       {ECO:0000244|PDB:1GZC}.
+FT   STRAND       89     96       {ECO:0000244|PDB:1GZC}.
+FT   HELIX       106    108       {ECO:0000244|PDB:1GZC}.
+FT   TURN        109    111       {ECO:0000244|PDB:1GZC}.
+FT   STRAND      113    116       {ECO:0000244|PDB:1GZC}.
+FT   HELIX       119    121       {ECO:0000244|PDB:1GZC}.
+FT   STRAND      124    129       {ECO:0000244|PDB:1GZC}.
+FT   STRAND      138    151       {ECO:0000244|PDB:1GZC}.
+FT   STRAND      153    157       {ECO:0000244|PDB:1GZC}.
+FT   STRAND      165    173       {ECO:0000244|PDB:1GZC}.
+FT   TURN        174    177       {ECO:0000244|PDB:1GZC}.
+FT   STRAND      178    184       {ECO:0000244|PDB:1GZC}.
+FT   TURN        186    188       {ECO:0000244|PDB:1GZC}.
+FT   STRAND      191    197       {ECO:0000244|PDB:1GZC}.
+FT   HELIX       200    203       {ECO:0000244|PDB:1GZC}.
+FT   STRAND      206    216       {ECO:0000244|PDB:1GZC}.
+FT   STRAND      227    237       {ECO:0000244|PDB:1GZC}.
+SQ   SEQUENCE   239 AA;  26231 MW;  573D02AF324F4E31 CRC64;
+     VETISFSFSE FEPGNDNLTL QGAALITQSG VLQLTKINQN GMPAWDSTGR TLYTKPVHMW
+     DSTTGTVASF ETRFSFSIEQ PYTRPLPADG LVFFMGPTKS KPAQGYGYLG VFNNSKQDNS
+     YQTLAVEFDT FSNPWDPPQV PHIGIDVNSI RSIKTQPFQL DNGQVANVVI KYDAPSKILH
+     VVLVYPSSGA IYTIAEIVDV KQVLPDWVDV GLSGATGAQR DAAETHDVYS WSFQASLPE
+//

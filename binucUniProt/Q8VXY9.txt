@@ -1,0 +1,211 @@
+ID   UAH_ARATH               Reviewed;         476 AA.
+AC   Q8VXY9; Q9FIY0;
+DT   18-SEP-2013, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAR-2002, sequence version 1.
+DT   22-JUL-2015, entry version 91.
+DE   RecName: Full=Ureidoglycolate hydrolase;
+DE            Short=AtUAH;
+DE            EC=3.5.1.116;
+DE   AltName: Full=Allantoate amidohydrolase 2;
+DE            Short=AtAHH2;
+DE   AltName: Full=Ureidoglycolate amidohydrolase;
+DE   Flags: Precursor;
+GN   Name=UAH; Synonyms=AAH2; OrderedLocusNames=At5g43600;
+GN   ORFNames=K9D7.10;
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=10048488; DOI=10.1093/dnares/5.6.379;
+RA   Asamizu E., Sato S., Kaneko T., Nakamura Y., Kotani H., Miyajima N.,
+RA   Tabata S.;
+RT   "Structural analysis of Arabidopsis thaliana chromosome 5. VIII.
+RT   Sequence features of the regions of 1,081,958 bp covered by seventeen
+RT   physically assigned P1 and TAC clones.";
+RL   DNA Res. 5:379-391(1998).
+RN   [2]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RG   The Arabidopsis Information Resource (TAIR);
+RL   Submitted (APR-2011) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=14593172; DOI=10.1126/science.1088305;
+RA   Yamada K., Lim J., Dale J.M., Chen H., Shinn P., Palm C.J.,
+RA   Southwick A.M., Wu H.C., Kim C.J., Nguyen M., Pham P.K., Cheuk R.F.,
+RA   Karlin-Newmann G., Liu S.X., Lam B., Sakano H., Wu T., Yu G.,
+RA   Miranda M., Quach H.L., Tripp M., Chang C.H., Lee J.M., Toriumi M.J.,
+RA   Chan M.M., Tang C.C., Onodera C.S., Deng J.M., Akiyama K., Ansari Y.,
+RA   Arakawa T., Banh J., Banno F., Bowser L., Brooks S.Y., Carninci P.,
+RA   Chao Q., Choy N., Enju A., Goldsmith A.D., Gurjal M., Hansen N.F.,
+RA   Hayashizaki Y., Johnson-Hopson C., Hsuan V.W., Iida K., Karnes M.,
+RA   Khan S., Koesema E., Ishida J., Jiang P.X., Jones T., Kawai J.,
+RA   Kamiya A., Meyers C., Nakajima M., Narusaka M., Seki M., Sakurai T.,
+RA   Satou M., Tamse R., Vaysberg M., Wallender E.K., Wong C., Yamamura Y.,
+RA   Yuan S., Shinozaki K., Davis R.W., Theologis A., Ecker J.R.;
+RT   "Empirical analysis of transcriptional activity in the Arabidopsis
+RT   genome.";
+RL   Science 302:842-846(2003).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RA   Totoki Y., Seki M., Ishida J., Nakajima M., Enju A., Kamiya A.,
+RA   Narusaka M., Shin-i T., Nakagawa M., Sakamoto N., Oishi K., Kohara Y.,
+RA   Kobayashi M., Toyoda A., Sakaki Y., Sakurai T., Iida K., Akiyama K.,
+RA   Satou M., Toyoda T., Konagaya A., Carninci P., Kawai J.,
+RA   Hayashizaki Y., Shinozaki K.;
+RT   "Large-scale analysis of RIKEN Arabidopsis full-length (RAFL) cDNAs.";
+RL   Submitted (JUL-2006) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   FUNCTION, CATALYTIC ACTIVITY, AND BIOPHYSICOCHEMICAL PROPERTIES.
+RX   PubMed=19935661; DOI=10.1038/nchembio.265;
+RA   Werner A.K., Romeis T., Witte C.P.;
+RT   "Ureide catabolism in Arabidopsis thaliana and Escherichia coli.";
+RL   Nat. Chem. Biol. 6:19-21(2010).
+RN   [6]
+RP   FUNCTION, SUBCELLULAR LOCATION, AND DISRUPTION PHENOTYPE.
+RX   PubMed=23940254; DOI=10.1104/pp.113.224261;
+RA   Werner A.K., Medina-Escobar N., Zulawski M., Sparkes I.A., Cao F.Q.,
+RA   Witte C.P.;
+RT   "The ureide-degrading reactions of purine ring catabolism employ three
+RT   amidohydrolases and one aminohydrolase in Arabidopsis, soybean, and
+RT   rice.";
+RL   Plant Physiol. 163:672-681(2013).
+CC   -!- FUNCTION: Involved in the catabolism of purine nucleotides. Can
+CC       use (S)-ureidoglycolate as substrate, but not (R)-ureidoglycolate
+CC       or allantoate. The sequential activity of AAH, UGLYAH and UAH
+CC       allows a complete purine breakdown without the intermediate
+CC       generation of urea. {ECO:0000269|PubMed:19935661,
+CC       ECO:0000269|PubMed:23940254}.
+CC   -!- CATALYTIC ACTIVITY: (S)-ureidoglycolate + H(2)O = glyoxylate + 2
+CC       NH(3) + CO(2). {ECO:0000269|PubMed:19935661}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=38.7 uM for (S)-ureidoglycolate
+CC         {ECO:0000269|PubMed:19935661};
+CC         Note=kcat is 7.9 sec(-1) for (S)-ureidoglycolate.;
+CC   -!- PATHWAY: Nitrogen metabolism; (S)-allantoin degradation;
+CC       glyoxylate from (S)-ureidoglycolate: step 1/1.
+CC   -!- SUBCELLULAR LOCATION: Endoplasmic reticulum
+CC       {ECO:0000305|PubMed:23940254}.
+CC   -!- DISRUPTION PHENOTYPE: No visible phenotype under normal growth
+CC       conditions, but mutant plants show a slight reduction of growth on
+CC       a medium containing allantoin as the sole nitrogen source and
+CC       accumulate ureidoglycolate. {ECO:0000269|PubMed:23940254}.
+CC   -!- SIMILARITY: Belongs to the peptidase M20 family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAB11623.1; Type=Erroneous initiation; Note=Translation N-terminally extended.; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AB016875; BAB11623.1; ALT_INIT; Genomic_DNA.
+DR   EMBL; CP002688; AED94986.1; -; Genomic_DNA.
+DR   EMBL; AY074343; AAL67039.1; -; mRNA.
+DR   EMBL; AY091387; AAM14326.1; -; mRNA.
+DR   EMBL; AK230338; BAF02137.1; -; mRNA.
+DR   RefSeq; NP_199173.2; NM_123726.3.
+DR   UniGene; At.8617; -.
+DR   PDB; 4PXB; X-ray; 1.90 A; A/B=50-476.
+DR   PDB; 4PXC; X-ray; 1.89 A; A/B=50-476.
+DR   PDB; 4PXE; X-ray; 1.45 A; A/B=50-476.
+DR   PDBsum; 4PXB; -.
+DR   PDBsum; 4PXC; -.
+DR   PDBsum; 4PXE; -.
+DR   ProteinModelPortal; Q8VXY9; -.
+DR   SMR; Q8VXY9; 54-476.
+DR   BioGrid; 19630; 1.
+DR   STRING; 3702.AT5G43600.1; -.
+DR   PRIDE; Q8VXY9; -.
+DR   EnsemblPlants; AT5G43600.1; AT5G43600.1; AT5G43600.
+DR   GeneID; 834380; -.
+DR   KEGG; ath:AT5G43600; -.
+DR   TAIR; AT5G43600; -.
+DR   eggNOG; COG0624; -.
+DR   HOGENOM; HOG000241291; -.
+DR   InParanoid; Q8VXY9; -.
+DR   KO; K18151; -.
+DR   OMA; MARVSPM; -.
+DR   PhylomeDB; Q8VXY9; -.
+DR   BioCyc; ARA:AT5G43600-MONOMER; -.
+DR   BioCyc; MetaCyc:AT5G43600-MONOMER; -.
+DR   UniPathway; UPA00395; UER00656.
+DR   PRO; PR:Q8VXY9; -.
+DR   Proteomes; UP000006548; Chromosome 5.
+DR   GO; GO:0005783; C:endoplasmic reticulum; IDA:TAIR.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004848; F:ureidoglycolate hydrolase activity; IDA:TAIR.
+DR   GO; GO:0000256; P:allantoin catabolic process; IDA:TAIR.
+DR   GO; GO:0006145; P:purine nucleobase catabolic process; IDA:TAIR.
+DR   GO; GO:0010136; P:ureide catabolic process; IDA:TAIR.
+DR   Gene3D; 3.30.70.360; -; 1.
+DR   InterPro; IPR010158; Amidase_hdtase/Cbmase.
+DR   InterPro; IPR002933; Peptidase_M20.
+DR   InterPro; IPR011650; Peptidase_M20_dimer.
+DR   Pfam; PF01546; Peptidase_M20; 1.
+DR   SUPFAM; SSF55031; SSF55031; 1.
+DR   TIGRFAMs; TIGR01879; hydantase; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Endoplasmic reticulum; Hydrolase;
+KW   Manganese; Metal-binding; Purine metabolism; Reference proteome;
+KW   Signal.
+FT   SIGNAL        1     25       {ECO:0000255}.
+FT   CHAIN        26    476       Ureidoglycolate hydrolase.
+FT                                /FTId=PRO_0000423446.
+FT   COMPBIAS     26     29       Poly-Gln.
+FT   METAL       140    140       Manganese 1. {ECO:0000255}.
+FT   METAL       149    149       Manganese 1. {ECO:0000255}.
+FT   METAL       149    149       Manganese 2. {ECO:0000255}.
+FT   METAL       184    184       Manganese 2. {ECO:0000255}.
+FT   METAL       254    254       Manganese 1. {ECO:0000255}.
+FT   METAL       448    448       Manganese 2. {ECO:0000255}.
+FT   HELIX        55     58       {ECO:0000244|PDB:4PXE}.
+FT   HELIX        63     74       {ECO:0000244|PDB:4PXE}.
+FT   STRAND       84     86       {ECO:0000244|PDB:4PXE}.
+FT   HELIX        91    106       {ECO:0000244|PDB:4PXE}.
+FT   STRAND      110    113       {ECO:0000244|PDB:4PXE}.
+FT   STRAND      119    123       {ECO:0000244|PDB:4PXE}.
+FT   STRAND      132    137       {ECO:0000244|PDB:4PXE}.
+FT   STRAND      141    145       {ECO:0000244|PDB:4PXE}.
+FT   HELIX       151    166       {ECO:0000244|PDB:4PXE}.
+FT   STRAND      175    179       {ECO:0000244|PDB:4PXE}.
+FT   TURN        186    188       {ECO:0000244|PDB:4PXE}.
+FT   HELIX       193    198       {ECO:0000244|PDB:4PXE}.
+FT   HELIX       202    210       {ECO:0000244|PDB:4PXE}.
+FT   HELIX       220    226       {ECO:0000244|PDB:4PXE}.
+FT   HELIX       238    240       {ECO:0000244|PDB:4PXE}.
+FT   STRAND      246    255       {ECO:0000244|PDB:4PXE}.
+FT   STRAND      257    259       {ECO:0000244|PDB:4PXE}.
+FT   HELIX       260    264       {ECO:0000244|PDB:4PXE}.
+FT   STRAND      267    274       {ECO:0000244|PDB:4PXE}.
+FT   STRAND      276    285       {ECO:0000244|PDB:4PXE}.
+FT   TURN        291    293       {ECO:0000244|PDB:4PXE}.
+FT   HELIX       296    298       {ECO:0000244|PDB:4PXE}.
+FT   HELIX       302    318       {ECO:0000244|PDB:4PXE}.
+FT   STRAND      326    336       {ECO:0000244|PDB:4PXE}.
+FT   STRAND      344    356       {ECO:0000244|PDB:4PXE}.
+FT   HELIX       357    378       {ECO:0000244|PDB:4PXE}.
+FT   STRAND      381    390       {ECO:0000244|PDB:4PXE}.
+FT   HELIX       398    410       {ECO:0000244|PDB:4PXE}.
+FT   STRAND      415    422       {ECO:0000244|PDB:4PXE}.
+FT   HELIX       425    429       {ECO:0000244|PDB:4PXE}.
+FT   TURN        430    432       {ECO:0000244|PDB:4PXE}.
+FT   STRAND      435    440       {ECO:0000244|PDB:4PXE}.
+FT   HELIX       443    445       {ECO:0000244|PDB:4PXE}.
+FT   HELIX       456    475       {ECO:0000244|PDB:4PXE}.
+SQ   SEQUENCE   476 AA;  51487 MW;  CBAEB842B3B0BC0F CRC64;
+     MESLKRFLCS IALLLISLLL PSSLAQQQQH ESIRTMEDFS GYPIHEPGQF GSINLASSLS
+     VDAPGLQNQI DELSSFSDAP SPSVTRVLYT DKDVSARRYV KNLMALAGLT VREDAVGNIF
+     GKWDGLEPNL PAVATGSHID AIPYSGKYDG VVGVLGAIEA INVLKRSGFK PKRSLEIILF
+     TSEEPTRFGI SCLGSRLLAG SKELAEALKT TVVDGQNVSF IEAARSAGYA EDKDDDLSSV
+     FLKKGSYFAF LELHIEQGPI LEDEGLDIGV VTAIAAPASL KVEFEGNGGH AGAVLMPYRN
+     DAGLAAAELA LAVEKHVLES ESIDTVGTVG ILELHPGAIN SIPSKSHLEI DTRDIDEARR
+     NTVIKKIQES ANTIAKKRKV KLSEFKIVNQ DPPALSDKLV IKKMAEAATE LNLSHKMMIS
+     RAYHDSLFMA RISPMGMIFI PCYKGYSHKP EEYSSPEDMA NGVKVLSLTL AKLSLD
+//

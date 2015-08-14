@@ -1,0 +1,255 @@
+ID   NIFK_AZOVI              Reviewed;         523 AA.
+AC   P07329;
+DT   01-APR-1988, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   24-JUN-2015, entry version 102.
+DE   RecName: Full=Nitrogenase molybdenum-iron protein beta chain;
+DE            EC=1.18.6.1;
+DE   AltName: Full=Dinitrogenase;
+DE   AltName: Full=Nitrogenase component I;
+GN   Name=nifK;
+OS   Azotobacter vinelandii.
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+OC   Pseudomonadaceae; Azotobacter.
+OX   NCBI_TaxID=354;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=2644218;
+RA   Jacobson M.R., Brigle K.E., Bennett L.T., Setterquist R.A.,
+RA   Wilson M.S., Cash V.L., Beynon J., Newton W.E., Dean D.R.;
+RT   "Physical and genetic map of the major nif gene cluster from
+RT   Azotobacter vinelandii.";
+RL   J. Bacteriol. 171:1017-1027(1989).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=3863780; DOI=10.1016/0378-1119(85)90255-0;
+RA   Brigle K.E., Newton W.E., Dean D.R.;
+RT   "Complete nucleotide sequence of the Azotobacter vinelandii
+RT   nitrogenase structural gene cluster.";
+RL   Gene 37:37-44(1985).
+RN   [3]
+RP   PROTEIN SEQUENCE OF 2-20 AND 521-523.
+RX   PubMed=649581;
+RA   Lundell D.J., Howard J.B.;
+RT   "Isolation and partial characterization of two different subunits from
+RT   the molybdenum-iron protein of Azotobacter vinelandii nitrogenase.";
+RL   J. Biol. Chem. 253:3422-3426(1978).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (2.7 ANGSTROMS).
+RA   Kim J., Rees D.C.;
+RT   "Crystallographic structure and functional implications of the
+RT   nitrogenase molybdenum-iron protein from Azotobacter vinelandii.";
+RL   Nature 360:553-560(1992).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (3.0 ANGSTROMS).
+RX   PubMed=9163420; DOI=10.1038/387370a0;
+RA   Schindelin H., Kisker C., Schlessman J.L., Howard J.B., Rees D.C.;
+RT   "Structure of ADP x [AlF(4)](-)-stabilized nitrogenase complex and its
+RT   implications for signal transduction.";
+RL   Nature 387:370-376(1997).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS).
+RX   PubMed=9063865; DOI=10.1021/bi9626665;
+RA   Peters J.W., Stowell M.H.B., Soltis S.M., Finnegan M.G., Johnson M.K.,
+RA   Rees D.C.;
+RT   "Redox-dependent structural changes in the nitrogenase P-cluster.";
+RL   Biochemistry 36:1181-1187(1997).
+RN   [7]
+RP   X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS).
+RX   PubMed=11170380; DOI=10.1021/bi001645e;
+RA   Chiu H.-J., Peters J.W., Lanzilotta W.N., Ryle M.J., Seefeldt L.C.,
+RA   Howard J.B., Rees D.C.;
+RT   "MgATP-bound and nucleotide-free structures of a nitrogenase protein
+RT   complex between the Leu 127Delta-Fe-protein and the MoFe-protein.";
+RL   Biochemistry 40:641-650(2001).
+RN   [8]
+RP   X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS) OF MUTANT GLN-195.
+RX   PubMed=11327812; DOI=10.1021/bi0013997;
+RA   Soerlie M., Christiansen J., Lemon B.J., Peters J.W., Dean D.R.,
+RA   Hales B.J.;
+RT   "Mechanistic features and structure of the nitrogenase alpha-Gln195
+RT   MoFe protein.";
+RL   Biochemistry 40:1540-1549(2001).
+RN   [9]
+RP   X-RAY CRYSTALLOGRAPHY (2.3 ANGSTROMS) OF CROSS-LINKED HETERODIMER WITH
+RP   FE-PROTEIN.
+RX   PubMed=12501184; DOI=10.1021/bi026642b;
+RA   Schmid B., Einsle O., Chiu H.J., Willing A., Yoshida M., Howard J.B.,
+RA   Rees D.C.;
+RT   "Biochemical and structural characterization of the cross-linked
+RT   complex of nitrogenase: comparison to the ADP-AlF4(-)-stabilized
+RT   structure.";
+RL   Biochemistry 41:15557-15565(2002).
+RN   [10]
+RP   X-RAY CRYSTALLOGRAPHY (2.3 ANGSTROMS).
+RX   PubMed=11951047; DOI=10.1126/science.1070010;
+RA   Schmid B., Ribbe M.W., Einsle O., Yoshida M., Thomas L.M., Dean D.R.,
+RA   Rees D.C., Burgess B.K.;
+RT   "Structure of a cofactor-deficient nitrogenase MoFe protein.";
+RL   Science 296:352-356(2002).
+RN   [11]
+RP   X-RAY CRYSTALLOGRAPHY (1.16 ANGSTROMS).
+RX   PubMed=12215645; DOI=10.1126/science.1073877;
+RA   Einsle O., Tezcan F.A., Andrade S.L.A., Schmid B., Yoshida M.,
+RA   Howard J.B., Rees D.C.;
+RT   "Nitrogenase MoFe-protein at 1.16 A resolution: a central ligand in
+RT   the FeMo-cofactor.";
+RL   Science 297:1696-1700(2002).
+CC   -!- FUNCTION: This molybdenum-iron protein is part of the nitrogenase
+CC       complex that catalyzes the key enzymatic reactions in nitrogen
+CC       fixation.
+CC   -!- CATALYTIC ACTIVITY: 8 reduced ferredoxin + 8 H(+) + N(2) + 16 ATP
+CC       + 16 H(2)O = 8 oxidized ferredoxin + H(2) + 2 NH(3) + 16 ADP + 16
+CC       phosphate.
+CC   -!- COFACTOR:
+CC       Name=[8Fe-7S] cluster; Xref=ChEBI:CHEBI:21143;
+CC       Note=Binds 1 [8Fe-7S] cluster per heterodimer.;
+CC   -!- SUBUNIT: Tetramer of two alpha and two beta chains. Forms complex
+CC       with the iron protein (nitrogenase component 2).
+CC   -!- SIMILARITY: Belongs to the NifD/NifK/NifE/NifN family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M20568; AAA64711.1; -; Genomic_DNA.
+DR   EMBL; M11579; AAA22144.1; -; Genomic_DNA.
+DR   PIR; B43049; NIAVMB.
+DR   PDB; 1FP4; X-ray; 2.50 A; B/D=1-523.
+DR   PDB; 1G20; X-ray; 2.20 A; B/D=1-523.
+DR   PDB; 1G21; X-ray; 3.00 A; B/D=1-523.
+DR   PDB; 1L5H; X-ray; 2.30 A; B=2-523.
+DR   PDB; 1M1N; X-ray; 1.16 A; B/D/F/H=2-523.
+DR   PDB; 1M1Y; X-ray; 3.20 A; B/D/J/L=2-523.
+DR   PDB; 1M34; X-ray; 2.30 A; B/D/J/L=2-523.
+DR   PDB; 1N2C; X-ray; 3.00 A; B/D=2-523.
+DR   PDB; 2AFH; X-ray; 2.10 A; B/D=2-523.
+DR   PDB; 2AFI; X-ray; 3.10 A; B/D/J/L=2-523.
+DR   PDB; 2MIN; X-ray; 2.03 A; B/D=2-523.
+DR   PDB; 3K1A; X-ray; 2.23 A; B/D=2-523.
+DR   PDB; 3MIN; X-ray; 2.03 A; B/D=2-523.
+DR   PDB; 3U7Q; X-ray; 1.00 A; B/D=1-523.
+DR   PDB; 4ND8; X-ray; 2.00 A; B/D=1-523.
+DR   PDB; 4TKU; X-ray; 1.43 A; B/D=1-523.
+DR   PDB; 4TKV; X-ray; 1.50 A; B/D=1-523.
+DR   PDB; 4WNA; X-ray; 2.00 A; B/D=1-523.
+DR   PDB; 4WZA; X-ray; 1.90 A; B/D=2-523.
+DR   PDB; 4WZB; X-ray; 2.30 A; B/D=2-523.
+DR   PDBsum; 1FP4; -.
+DR   PDBsum; 1G20; -.
+DR   PDBsum; 1G21; -.
+DR   PDBsum; 1L5H; -.
+DR   PDBsum; 1M1N; -.
+DR   PDBsum; 1M1Y; -.
+DR   PDBsum; 1M34; -.
+DR   PDBsum; 1N2C; -.
+DR   PDBsum; 2AFH; -.
+DR   PDBsum; 2AFI; -.
+DR   PDBsum; 2MIN; -.
+DR   PDBsum; 3K1A; -.
+DR   PDBsum; 3MIN; -.
+DR   PDBsum; 3U7Q; -.
+DR   PDBsum; 4ND8; -.
+DR   PDBsum; 4TKU; -.
+DR   PDBsum; 4TKV; -.
+DR   PDBsum; 4WNA; -.
+DR   PDBsum; 4WZA; -.
+DR   PDBsum; 4WZB; -.
+DR   ProteinModelPortal; P07329; -.
+DR   SMR; P07329; 2-523.
+DR   MINT; MINT-1508555; -.
+DR   STRING; 322710.Avin_01400; -.
+DR   EvolutionaryTrace; P07329; -.
+DR   GO; GO:0016612; C:molybdenum-iron nitrogenase complex; IEA:InterPro.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0018697; F:carbonyl sulfide nitrogenase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0051536; F:iron-sulfur cluster binding; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016163; F:nitrogenase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0009399; P:nitrogen fixation; IMP:CACAO.
+DR   InterPro; IPR000510; Nase/OxRdtase_comp1.
+DR   InterPro; IPR000318; Nase_comp1_CS.
+DR   InterPro; IPR005976; Nase_Mo-Fe_CF_bsu.
+DR   InterPro; IPR024564; Nase_Mo-Fe_CF_bsu_N.
+DR   Pfam; PF11844; DUF3364; 1.
+DR   Pfam; PF00148; Oxidored_nitro; 1.
+DR   TIGRFAMs; TIGR01286; nifK; 1.
+DR   PROSITE; PS00699; NITROGENASE_1_1; 1.
+DR   PROSITE; PS00090; NITROGENASE_1_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; ATP-binding; Direct protein sequencing; Iron;
+KW   Iron-sulfur; Metal-binding; Nitrogen fixation; Nucleotide-binding;
+KW   Oxidoreductase.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:649581}.
+FT   CHAIN         2    523       Nitrogenase molybdenum-iron protein beta
+FT                                chain.
+FT                                /FTId=PRO_0000153091.
+FT   METAL        70     70       Iron-sulfur (8Fe-7S); shared with alpha
+FT                                chain.
+FT   METAL        95     95       Iron-sulfur (8Fe-7S); shared with alpha
+FT                                chain.
+FT   METAL       153    153       Iron-sulfur (8Fe-7S); shared with alpha
+FT                                chain.
+FT   METAL       188    188       Iron-sulfur (8Fe-7S); shared with alpha
+FT                                chain.
+FT   CONFLICT    103    103       F -> L (in Ref. 2; AAA22144).
+FT                                {ECO:0000305}.
+FT   HELIX         5      7       {ECO:0000244|PDB:1G21}.
+FT   HELIX        11     14       {ECO:0000244|PDB:3U7Q}.
+FT   HELIX        18     31       {ECO:0000244|PDB:3U7Q}.
+FT   HELIX        37     46       {ECO:0000244|PDB:3U7Q}.
+FT   HELIX        50     57       {ECO:0000244|PDB:3U7Q}.
+FT   STRAND       63     65       {ECO:0000244|PDB:3U7Q}.
+FT   HELIX        71     80       {ECO:0000244|PDB:3U7Q}.
+FT   STRAND       85     91       {ECO:0000244|PDB:3U7Q}.
+FT   HELIX        93    107       {ECO:0000244|PDB:3U7Q}.
+FT   STRAND      114    117       {ECO:0000244|PDB:1G21}.
+FT   HELIX       120    123       {ECO:0000244|PDB:3U7Q}.
+FT   HELIX       128    142       {ECO:0000244|PDB:3U7Q}.
+FT   STRAND      145    151       {ECO:0000244|PDB:3U7Q}.
+FT   HELIX       153    158       {ECO:0000244|PDB:3U7Q}.
+FT   HELIX       162    171       {ECO:0000244|PDB:3U7Q}.
+FT   STRAND      177    179       {ECO:0000244|PDB:1L5H}.
+FT   STRAND      188    191       {ECO:0000244|PDB:2AFI}.
+FT   HELIX       193    209       {ECO:0000244|PDB:3U7Q}.
+FT   HELIX       210    215       {ECO:0000244|PDB:3U7Q}.
+FT   TURN        218    221       {ECO:0000244|PDB:3U7Q}.
+FT   STRAND      224    227       {ECO:0000244|PDB:3U7Q}.
+FT   HELIX       234    246       {ECO:0000244|PDB:3U7Q}.
+FT   STRAND      251    255       {ECO:0000244|PDB:3U7Q}.
+FT   TURN        258    261       {ECO:0000244|PDB:3U7Q}.
+FT   STRAND      266    268       {ECO:0000244|PDB:3K1A}.
+FT   HELIX       278    283       {ECO:0000244|PDB:3U7Q}.
+FT   HELIX       284    286       {ECO:0000244|PDB:3U7Q}.
+FT   STRAND      287    294       {ECO:0000244|PDB:3U7Q}.
+FT   HELIX       295    297       {ECO:0000244|PDB:3U7Q}.
+FT   HELIX       299    307       {ECO:0000244|PDB:3U7Q}.
+FT   HELIX       321    336       {ECO:0000244|PDB:3U7Q}.
+FT   HELIX       342    362       {ECO:0000244|PDB:3U7Q}.
+FT   STRAND      366    370       {ECO:0000244|PDB:3U7Q}.
+FT   HELIX       373    385       {ECO:0000244|PDB:3U7Q}.
+FT   STRAND      389    395       {ECO:0000244|PDB:3U7Q}.
+FT   HELIX       400    411       {ECO:0000244|PDB:3U7Q}.
+FT   HELIX       414    416       {ECO:0000244|PDB:3U7Q}.
+FT   STRAND      420    424       {ECO:0000244|PDB:3U7Q}.
+FT   HELIX       427    436       {ECO:0000244|PDB:3U7Q}.
+FT   STRAND      440    444       {ECO:0000244|PDB:3U7Q}.
+FT   HELIX       448    458       {ECO:0000244|PDB:3U7Q}.
+FT   HELIX       460    462       {ECO:0000244|PDB:3U7Q}.
+FT   STRAND      466    468       {ECO:0000244|PDB:3U7Q}.
+FT   STRAND      475    478       {ECO:0000244|PDB:3U7Q}.
+FT   HELIX       479    481       {ECO:0000244|PDB:3U7Q}.
+FT   HELIX       486    508       {ECO:0000244|PDB:3U7Q}.
+FT   TURN        512    515       {ECO:0000244|PDB:3U7Q}.
+FT   HELIX       516    518       {ECO:0000244|PDB:3U7Q}.
+SQ   SEQUENCE   523 AA;  59460 MW;  B6ECD633A24998F2 CRC64;
+     MSQQVDKIKA SYPLFLDQDY KDMLAKKRDG FEEKYPQDKI DEVFQWTTTK EYQELNFQRE
+     ALTVNPAKAC QPLGAVLCAL GFEKTMPYVH GSQGCVAYFR SYFNRHFREP VSCVSDSMTE
+     DAAVFGGQQN MKDGLQNCKA TYKPDMIAVS TTCMAEVIGD DLNAFINNSK KEGFIPDEFP
+     VPFAHTPSFV GSHVTGWDNM FEGIARYFTL KSMDDKVVGS NKKINIVPGF ETYLGNFRVI
+     KRMLSEMGVG YSLLSDPEEV LDTPADGQFR MYAGGTTQEE MKDAPNALNT VLLQPWHLEK
+     TKKFVEGTWK HEVPKLNIPM GLDWTDEFLM KVSEISGQPI PASLTKERGR LVDMMTDSHT
+     WLHGKRFALW GDPDFVMGLV KFLLELGCEP VHILCHNGNK RWKKAVDAIL AASPYGKNAT
+     VYIGKDLWHL RSLVFTDKPD FMIGNSYGKF IQRDTLHKGK EFEVPLIRIG FPIFDRHHLH
+     RSTTLGYEGA MQILTTLVNS ILERLDEETR GMQATDYNHD LVR
+//

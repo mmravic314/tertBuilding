@@ -1,0 +1,123 @@
+ID   C3W5S0_I09A0            Unreviewed;       716 AA.
+AC   C3W5S0;
+DT   16-JUN-2009, integrated into UniProtKB/TrEMBL.
+DT   16-JUN-2009, sequence version 1.
+DT   24-JUN-2015, entry version 36.
+DE   RecName: Full=Polymerase acidic protein {ECO:0000256|RuleBase:RU361280, ECO:0000256|SAAS:SAAS00262764};
+GN   Name=PA {ECO:0000256|RuleBase:RU361280, ECO:0000313|EMBL:ACP41104.1};
+OS   Influenza A virus (strain swl A/California/04/2009 H1N1).
+OC   Viruses; ssRNA viruses; ssRNA negative-strand viruses;
+OC   Orthomyxoviridae; Influenzavirus A.
+OX   NCBI_TaxID=641501 {ECO:0000313|EMBL:ACP41104.1};
+OH   NCBI_TaxID=8782; Aves.
+OH   NCBI_TaxID=9606; Homo sapiens (Human).
+OH   NCBI_TaxID=9823; Sus scrofa (Pig).
+RN   [1] {ECO:0000313|EMBL:ACP41104.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=A/California/04/2009 {ECO:0000313|EMBL:ACP41104.1};
+RX   PubMed=19465683; DOI=10.1126/science.1176225;
+RA   Garten R.J., Davis C.T., Russell C.A., Shu B., Lindstrom S.,
+RA   Balish A., Sessions W.M., Xu X., Skepner E., Deyde V.,
+RA   Okomo-Adhiambo M., Gubareva L., Barnes J., Smith C.B., Emery S.L.,
+RA   Hillman M.J., Rivailler P., Smagala J., de Graaf M., Burke D.F.,
+RA   Fouchier R.A., Pappas C., Alpuche-Aranda C.M., Lopez-Gatell H.,
+RA   Olivera H., Lopez I., Myers C.A., Faix D., Blair P.J., Yu C.,
+RA   Keene K.M., Dotson P.D.Jr., Boxrud D., Sambol A.R., Abid S.H.,
+RA   St George K., Bannerman T., Moore A.L., Stringer D.J., Blevins P.,
+RA   Demmler-Harrison G.J., Ginsberg M., Kriner P., Waterman S., Smole S.,
+RA   Guevara H.F., Belongia E.A., Clark P.A., Beatrice S.T., Donis R.,
+RA   Katz J., Finelli L., Bridges C.B., Shaw M., Jernigan D.B., Uyeki T.M.,
+RA   Smith D.J., Klimov A.I., Cox N.J.;
+RT   "Antigenic and genetic characteristics of swine-origin 2009 A(H1N1)
+RT   influenza viruses circulating in humans.";
+RL   Science 325:197-201(2009).
+RN   [2] {ECO:0000313|EMBL:ACP41104.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=A/California/04/2009 {ECO:0000313|EMBL:ACP41104.1};
+RA   Shu B., Balish A., Garten R., Smith C., Emery S., Barnes J., Deyde V.,
+RA   Klimov A., Cox N.;
+RT   "Human infection with novel swine H1N1 influenza.";
+RL   Submitted (APR-2009) to the EMBL/GenBank/DDBJ databases.
+RN   [3] {ECO:0000313|EMBL:AEE69014.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=A/California/04/2009 {ECO:0000313|EMBL:AEE69014.1};
+RX   PubMed=21900171; DOI=10.1128/JVI.05705-11;
+RA   Ma W., Belisle S.E., Mosier D., Li X., Stigger-Rosser E., Liu Q.,
+RA   Qiao C., Elder J., Webby R., Katze M.G., Richt J.A.;
+RT   "2009 Pandemic H1N1 Influenza Virus Causes Disease and Upregulation of
+RT   Genes Related to Inflammatory and Immune Responses, Cell Death, and
+RT   Lipid Metabolism in Pigs.";
+RL   J. Virol. 85:11626-11637(2011).
+RN   [4] {ECO:0000213|PDB:4AVG, ECO:0000213|PDB:4AVL, ECO:0000213|PDB:4AVQ}
+RP   X-RAY CRYSTALLOGRAPHY (1.87 ANGSTROMS) OF 1-198 IN COMPLEX WITH
+RP   MANGANESE.
+RX   PubMed=22876177; DOI=10.1371/journal.ppat.1002831;
+RA   Kowalinski E., Zubieta C., Wolkerstorfer A., Szolar O.H.,
+RA   Ruigrok R.W., Cusack S.;
+RT   "Structural analysis of specific metal chelating inhibitor binding to
+RT   the endonuclease domain of influenza pH1N1 (2009) polymerase.";
+RL   PLoS Pathog. 8:e1002831-e1002831(2012).
+CC   -!- SUBUNIT: Influenza RNA polymerase is composed of three subunits:
+CC       PB1, PB2 and PA. {ECO:0000256|RuleBase:RU361280}.
+CC   -!- SIMILARITY: Belongs to the influenza viruses PA family.
+CC       {ECO:0000256|RuleBase:RU361280}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; FJ966081; ACP41104.1; -; Viral_cRNA.
+DR   EMBL; FJ969515; ACP44156.1; -; Viral_cRNA.
+DR   EMBL; JF915188; AEE69014.1; -; Viral_cRNA.
+DR   PDB; 4AVG; X-ray; 2.20 A; A/B/C/D=1-198.
+DR   PDB; 4AVL; X-ray; 1.87 A; A/B/C/D=1-198.
+DR   PDB; 4AVQ; X-ray; 2.10 A; A/B/C/D=1-198.
+DR   PDB; 4AWF; X-ray; 2.30 A; A/B/C/D=1-198.
+DR   PDB; 4AWG; X-ray; 2.60 A; A/B/C/D=1-198.
+DR   PDB; 4AWH; X-ray; 2.05 A; A/B/C/D=1-198.
+DR   PDB; 4AWK; X-ray; 1.90 A; A=1-198.
+DR   PDB; 4AWM; X-ray; 2.60 A; A=1-198.
+DR   PDBsum; 4AVG; -.
+DR   PDBsum; 4AVL; -.
+DR   PDBsum; 4AVQ; -.
+DR   PDBsum; 4AWF; -.
+DR   PDBsum; 4AWG; -.
+DR   PDBsum; 4AWH; -.
+DR   PDBsum; 4AWK; -.
+DR   PDBsum; 4AWM; -.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003723; F:RNA binding; IEA:InterPro.
+DR   GO; GO:0003968; F:RNA-directed RNA polymerase activity; IEA:InterPro.
+DR   GO; GO:0006351; P:transcription, DNA-templated; IEA:InterPro.
+DR   InterPro; IPR001009; RNA-dir_pol_influenzavirus.
+DR   Pfam; PF00603; Flu_PA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4AVG, ECO:0000213|PDB:4AVL};
+KW   Manganese {ECO:0000213|PDB:4AVG, ECO:0000213|PDB:4AVL};
+KW   Metal-binding {ECO:0000213|PDB:4AVG, ECO:0000213|PDB:4AVL}.
+FT   METAL        41     41       Manganese; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4AVG,
+FT                                ECO:0000213|PDB:4AVL,
+FT                                ECO:0000213|PDB:4AVQ}.
+FT   METAL       108    108       Manganese. {ECO:0000213|PDB:4AVG,
+FT                                ECO:0000213|PDB:4AVL,
+FT                                ECO:0000213|PDB:4AVQ}.
+FT   METAL       119    119       Manganese. {ECO:0000213|PDB:4AVG,
+FT                                ECO:0000213|PDB:4AVL,
+FT                                ECO:0000213|PDB:4AVQ}.
+FT   METAL       120    120       Manganese. {ECO:0000213|PDB:4AVG,
+FT                                ECO:0000213|PDB:4AVL,
+FT                                ECO:0000213|PDB:4AVQ}.
+SQ   SEQUENCE   716 AA;  82656 MW;  D654A8B19844D51D CRC64;
+     MEDFVRQCFN PMIVELAEKA MKEYGEDPKI ETNKFAAICT HLEVCFMYSD FHFIDERGES
+     IIVESGDPNA LLKHRFEIIE GRDRIMAWTV VNSICNTTGV EKPKFLPDLY DYKENRFIEI
+     GVTRREVHIY YLEKANKIKS EKTHIHIFSF TGEEMATKAD YTLDEESRAR IKTRLFTIRQ
+     EMASRSLWDS FRQSERGEET IEEKFEITGT MRKLADQSLP PNFPSLENFR AYVDGFEPNG
+     CIEGKLSQMS KEVNAKIEPF LRTTPRPLRL PDGPLCHQRS KFLLMDALKL SIEDPSHEGE
+     GIPLYDAIKC MKTFFGWKEP NIVKPHEKGI NPNYLMAWKQ VLAELQDIEN EEKIPRTKNM
+     KRTSQLKWAL GENMAPEKVD FDDCKDVGDL KQYDSDEPEP RSLASWVQNE FNKACELTDS
+     SWIELDEIGE DVAPIEHIAS MRRNYFTAEV SHCRATEYIM KGVYINTALL NASCAAMDDF
+     QLIPMISKCR TKEGRRKTNL YGFIIKGRSH LRNDTDVVNF VSMEFSLTDP RLEPHKWEKY
+     CVLEIGDMLL RTAIGQVSRP MFLYVRTNGT SKIKMKWGME MRRCLLQSLQ QIESMIEAES
+     SVKEKDMTKE FFENKSETWP IGESPRGVEE GSIGKVCRTL LAKSVFNSLY ASPQLEGFSA
+     ESRKLLLIVQ ALRDNLEPGT FDLGGLYEAI EECLINDPWV LLNASWFNSF LTHALK
+//

@@ -1,0 +1,69 @@
+ID   G9D324_DANRE            Unreviewed;       224 AA.
+AC   G9D324;
+DT   22-FEB-2012, integrated into UniProtKB/TrEMBL.
+DT   22-FEB-2012, sequence version 1.
+DT   22-JUL-2015, entry version 14.
+DE   SubName: Full=C-reactive protein {ECO:0000313|EMBL:AET80950.1};
+DE   Flags: Fragment;
+GN   Name=crp {ECO:0000313|ZFIN:ZDB-GENE-060901-6};
+OS   Danio rerio (Zebrafish) (Brachydanio rerio).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Cypriniformes;
+OC   Cyprinidae; Danio.
+OX   NCBI_TaxID=7955 {ECO:0000313|EMBL:AET80950.1};
+RN   [1] {ECO:0000313|EMBL:AET80950.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Rong C., Yao S.G., Chun X.;
+RL   Submitted (APR-2011) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000313|EMBL:AET80950.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Qi J., Yao S., Pan X., Gao F., Xia C.;
+RT   "Expression, crystallization and preliminary crystallographic analysis
+RT   of C-reactive protein from zebrafish.";
+RL   Acta Crystallogr. F 0:0-0(2012).
+RN   [3] {ECO:0000213|PDB:4PBO, ECO:0000213|PDB:4PBP}
+RP   X-RAY CRYSTALLOGRAPHY (1.65 ANGSTROMS) OF 18-224 IN COMPLEX WITH
+RP   CALCIUM, AND DISULFIDE BONDS.
+RX   PubMed=25592778; DOI=10.1016/j.jsb.2015.01.001;
+RA   Chen R., Qi J., Yuan H., Wu Y., Hu W., Xia C.;
+RT   "Crystal structures for short-chain pentraxin from zebrafish
+RT   demonstrate a cyclic trimer with new recognition and effector faces.";
+RL   J. Struct. Biol. 189:259-268(2015).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; JF772178; AET80950.1; -; mRNA.
+DR   UniGene; Dr.124528; -.
+DR   UniGene; Dr.162306; -.
+DR   PDB; 4PBO; X-ray; 1.70 A; A=18-224.
+DR   PDB; 4PBP; X-ray; 1.65 A; A/B/C=18-224.
+DR   PDBsum; 4PBO; -.
+DR   PDBsum; 4PBP; -.
+DR   ZFIN; ZDB-GENE-060901-6; crp.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 2.60.120.200; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001759; Pentaxin.
+DR   Pfam; PF00354; Pentaxin; 1.
+DR   PRINTS; PR00895; PENTAXIN.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4PBO, ECO:0000213|PDB:4PBP};
+KW   Calcium {ECO:0000213|PDB:4PBP}; Metal-binding {ECO:0000213|PDB:4PBP}.
+FT   METAL        77     77       Calcium 1. {ECO:0000213|PDB:4PBP}.
+FT   METAL       156    156       Calcium 1. {ECO:0000213|PDB:4PBP}.
+FT   METAL       156    156       Calcium 2. {ECO:0000213|PDB:4PBP}.
+FT   METAL       157    157       Calcium 1; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:4PBP}.
+FT   METAL       158    158       Calcium 1. {ECO:0000213|PDB:4PBP}.
+FT   METAL       158    158       Calcium 2. {ECO:0000213|PDB:4PBP}.
+FT   METAL       168    168       Calcium 2. {ECO:0000213|PDB:4PBP}.
+FT   DISULFID     53    115       {ECO:0000213|PDB:4PBO}.
+FT   NON_TER       1      1       {ECO:0000313|EMBL:AET80950.1}.
+SQ   SEQUENCE   224 AA;  25408 MW;  BDC339B573DBBBA2 CRC64;
+     MLLFFCLLSV TLEATEGFKN LSGKVLQFKT ATDNSYVKLY PEKPLSLSAF TLCMRVATEL
+     PLDREVILFA YYTPDVDELN VWRERDGRVS LYIQSSKDAA FFRLPPLSTL QTHLCVAWES
+     ATGLTAFWMD GRRSLHQVYR KGYSIRSGGT VVLGQDPDSY VGSFDVDQSF VGEIANLQMW
+     DYVLSSAQIK AVYYNQDNRV KGNVFDWDTI EYDVTGNVLV VPDN
+//

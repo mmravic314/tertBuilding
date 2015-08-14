@@ -1,0 +1,194 @@
+ID   GBUA_PSEAE              Reviewed;         319 AA.
+AC   Q9I3S3;
+DT   14-MAY-2014, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAR-2001, sequence version 1.
+DT   22-JUL-2015, entry version 91.
+DE   RecName: Full=Guanidinobutyrase;
+DE            EC=3.5.3.7;
+GN   Name=gbuA; OrderedLocusNames=PA1421;
+OS   Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG
+OS   12228).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+OC   Pseudomonadaceae; Pseudomonas.
+OX   NCBI_TaxID=208964;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228;
+RX   PubMed=10984043; DOI=10.1038/35023079;
+RA   Stover C.K., Pham X.-Q.T., Erwin A.L., Mizoguchi S.D., Warrener P.,
+RA   Hickey M.J., Brinkman F.S.L., Hufnagle W.O., Kowalik D.J., Lagrou M.,
+RA   Garber R.L., Goltry L., Tolentino E., Westbrock-Wadman S., Yuan Y.,
+RA   Brody L.L., Coulter S.N., Folger K.R., Kas A., Larbig K., Lim R.M.,
+RA   Smith K.A., Spencer D.H., Wong G.K.-S., Wu Z., Paulsen I.T.,
+RA   Reizer J., Saier M.H. Jr., Hancock R.E.W., Lory S., Olson M.V.;
+RT   "Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+RT   opportunistic pathogen.";
+RL   Nature 406:959-964(2000).
+RN   [2]
+RP   PROTEIN SEQUENCE OF 1-9, FUNCTION, CATALYTIC ACTIVITY, COFACTOR, AND
+RP   BIOPHYSICOCHEMICAL PROPERTIES.
+RC   STRAIN=ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228;
+RX   PubMed=12029055; DOI=10.1128/JB.184.12.3377-3384.2002;
+RA   Nakada Y., Itoh Y.;
+RT   "Characterization and regulation of the gbuA gene, encoding
+RT   guanidinobutyrase in the arginine dehydrogenase pathway of Pseudomonas
+RT   aeruginosa PAO1.";
+RL   J. Bacteriol. 184:3377-3384(2002).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS) IN COMPLEX WITH MANGANESE,
+RP   FUNCTION, CATALYTIC ACTIVITY, COFACTOR, BIOPHYSICOCHEMICAL PROPERTIES,
+RP   SUBUNIT, AND MUTAGENESIS OF MET-161.
+RC   STRAIN=ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228;
+RX   PubMed=21600989; DOI=10.1016/j.jsb.2011.05.002;
+RA   Lee S.J., Kim D.J., Kim H.S., Lee B.I., Yoon H.J., Yoon J.Y.,
+RA   Kim K.H., Jang J.Y., Im H.N., An D.R., Song J.S., Kim H.J., Suh S.W.;
+RT   "Crystal structures of Pseudomonas aeruginosa guanidinobutyrase and
+RT   guanidinopropionase, members of the ureohydrolase superfamily.";
+RL   J. Struct. Biol. 175:329-338(2011).
+CC   -!- FUNCTION: Catalyzes specifically the hydrolysis of 4-
+CC       guanidinobutanoate to 4-aminobutanoate and urea. Has no activity
+CC       against arginine, agmatine, 3-guanidinopropionate and
+CC       guanidinoacetate. {ECO:0000269|PubMed:12029055,
+CC       ECO:0000269|PubMed:21600989}.
+CC   -!- CATALYTIC ACTIVITY: 4-guanidinobutanoate + H(2)O = 4-
+CC       aminobutanoate + urea. {ECO:0000269|PubMed:12029055,
+CC       ECO:0000269|PubMed:21600989}.
+CC   -!- COFACTOR:
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000255|PROSITE-ProRule:PRU00742,
+CC         ECO:0000269|PubMed:12029055, ECO:0000269|PubMed:21600989};
+CC       Note=Binds 2 manganese ions per subunit. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00742, ECO:0000269|PubMed:12029055,
+CC       ECO:0000269|PubMed:21600989};
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=49 mM for 4-guanidinobutanoate {ECO:0000269|PubMed:12029055,
+CC         ECO:0000269|PubMed:21600989};
+CC         KM=10.7 mM for 4-guanidinobutanoate
+CC         {ECO:0000269|PubMed:12029055, ECO:0000269|PubMed:21600989};
+CC         Note=kcat is 1012 s(-1) (PubMed:12029055) and 94.7 s(-1)
+CC         (PubMed:21600989). {ECO:0000269|PubMed:12029055,
+CC         ECO:0000269|PubMed:21600989};
+CC       pH dependence:
+CC         Optimum pH is 9.5. {ECO:0000269|PubMed:12029055,
+CC         ECO:0000269|PubMed:21600989};
+CC   -!- SUBUNIT: Homohexamer. {ECO:0000269|PubMed:21600989}.
+CC   -!- SIMILARITY: Belongs to the arginase family. Agmatinase subfamily.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00742}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE004091; AAG04810.1; -; Genomic_DNA.
+DR   PIR; H83468; H83468.
+DR   RefSeq; NP_250112.1; NC_002516.2.
+DR   RefSeq; WP_003082966.1; NC_002516.2.
+DR   PDB; 3NIO; X-ray; 2.00 A; A/B/C/D/E/F=1-319.
+DR   PDBsum; 3NIO; -.
+DR   ProteinModelPortal; Q9I3S3; -.
+DR   SMR; Q9I3S3; 4-319.
+DR   STRING; 208964.PA1421; -.
+DR   DNASU; 881747; -.
+DR   EnsemblBacteria; AAG04810; AAG04810; PA1421.
+DR   GeneID; 881747; -.
+DR   KEGG; pae:PA1421; -.
+DR   PATRIC; 19837168; VBIPseAer58763_1470.
+DR   PseudoCAP; PA1421; -.
+DR   HOGENOM; HOG000204320; -.
+DR   InParanoid; Q9I3S3; -.
+DR   KO; K12255; -.
+DR   OMA; EMPRFAG; -.
+DR   OrthoDB; EOG6R2GW5; -.
+DR   PhylomeDB; Q9I3S3; -.
+DR   BioCyc; MetaCyc:MONOMER-11558; -.
+DR   SABIO-RK; Q9I3S3; -.
+DR   Proteomes; UP000002438; Chromosome.
+DR   GO; GO:0047971; F:guanidinobutyrase activity; IDA:PseudoCAP.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006527; P:arginine catabolic process; IDA:PseudoCAP.
+DR   Gene3D; 3.40.800.10; -; 1.
+DR   InterPro; IPR005925; Agmatinase-rel.
+DR   InterPro; IPR006035; Ureohydrolase.
+DR   InterPro; IPR023696; Ureohydrolase_domain.
+DR   InterPro; IPR020855; Ureohydrolase_Mn_BS.
+DR   PANTHER; PTHR11358; PTHR11358; 1.
+DR   Pfam; PF00491; Arginase; 1.
+DR   PIRSF; PIRSF036979; Arginase; 1.
+DR   PRINTS; PR00116; ARGINASE.
+DR   TIGRFAMs; TIGR01230; agmatinase; 1.
+DR   PROSITE; PS01053; ARGINASE_1; 1.
+DR   PROSITE; PS51409; ARGINASE_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Direct protein sequencing; Hydrolase;
+KW   Manganese; Metal-binding; Reference proteome.
+FT   CHAIN         1    319       Guanidinobutyrase.
+FT                                /FTId=PRO_0000429141.
+FT   METAL       129    129       Manganese 1; via pros nitrogen.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00742,
+FT                                ECO:0000269|PubMed:21600989}.
+FT   METAL       152    152       Manganese 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00742,
+FT                                ECO:0000269|PubMed:21600989}.
+FT   METAL       152    152       Manganese 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00742,
+FT                                ECO:0000269|PubMed:21600989}.
+FT   METAL       154    154       Manganese 2; via pros nitrogen.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00742,
+FT                                ECO:0000269|PubMed:21600989}.
+FT   METAL       156    156       Manganese 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00742,
+FT                                ECO:0000269|PubMed:21600989}.
+FT   METAL       243    243       Manganese 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00742,
+FT                                ECO:0000269|PubMed:21600989}.
+FT   METAL       243    243       Manganese 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00742,
+FT                                ECO:0000269|PubMed:21600989}.
+FT   METAL       245    245       Manganese 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00742,
+FT                                ECO:0000269|PubMed:21600989}.
+FT   MUTAGEN     161    161       M->Y: Loss of activity.
+FT                                {ECO:0000269|PubMed:21600989}.
+FT   TURN         11     13       {ECO:0000244|PDB:3NIO}.
+FT   HELIX        23     25       {ECO:0000244|PDB:3NIO}.
+FT   HELIX        32     35       {ECO:0000244|PDB:3NIO}.
+FT   STRAND       39     44       {ECO:0000244|PDB:3NIO}.
+FT   HELIX        57     59       {ECO:0000244|PDB:3NIO}.
+FT   HELIX        60     67       {ECO:0000244|PDB:3NIO}.
+FT   HELIX        68     70       {ECO:0000244|PDB:3NIO}.
+FT   STRAND       73     75       {ECO:0000244|PDB:3NIO}.
+FT   TURN         76     78       {ECO:0000244|PDB:3NIO}.
+FT   HELIX        82     84       {ECO:0000244|PDB:3NIO}.
+FT   STRAND       88     93       {ECO:0000244|PDB:3NIO}.
+FT   HELIX       101    117       {ECO:0000244|PDB:3NIO}.
+FT   STRAND      121    125       {ECO:0000244|PDB:3NIO}.
+FT   HELIX       129    131       {ECO:0000244|PDB:3NIO}.
+FT   HELIX       132    143       {ECO:0000244|PDB:3NIO}.
+FT   STRAND      145    151       {ECO:0000244|PDB:3NIO}.
+FT   TURN        168    170       {ECO:0000244|PDB:3NIO}.
+FT   HELIX       171    177       {ECO:0000244|PDB:3NIO}.
+FT   STRAND      181    191       {ECO:0000244|PDB:3NIO}.
+FT   STRAND      193    197       {ECO:0000244|PDB:3NIO}.
+FT   HELIX       199    207       {ECO:0000244|PDB:3NIO}.
+FT   STRAND      210    213       {ECO:0000244|PDB:3NIO}.
+FT   HELIX       214    216       {ECO:0000244|PDB:3NIO}.
+FT   TURN        217    219       {ECO:0000244|PDB:3NIO}.
+FT   HELIX       223    233       {ECO:0000244|PDB:3NIO}.
+FT   STRAND      235    243       {ECO:0000244|PDB:3NIO}.
+FT   HELIX       244    246       {ECO:0000244|PDB:3NIO}.
+FT   TURN        249    251       {ECO:0000244|PDB:3NIO}.
+FT   STRAND      255    257       {ECO:0000244|PDB:3NIO}.
+FT   HELIX       265    273       {ECO:0000244|PDB:3NIO}.
+FT   TURN        274    277       {ECO:0000244|PDB:3NIO}.
+FT   STRAND      278    286       {ECO:0000244|PDB:3NIO}.
+FT   HELIX       290    292       {ECO:0000244|PDB:3NIO}.
+FT   STRAND      294    296       {ECO:0000244|PDB:3NIO}.
+FT   HELIX       297    311       {ECO:0000244|PDB:3NIO}.
+SQ   SEQUENCE   319 AA;  34728 MW;  E119C5DD35CE9089 CRC64;
+     MDKNLHQPLG GNEMPRFGGI ATMMRLPHVQ SPAELDALDA AFVGVPLDIG TSLRSGTRFG
+     PREIRAESVM IRPYNMATGA APFDSLNVAD IGDVAINTFN LLEAVRIIEQ EYDRILGHGI
+     LPLTLGGDHT ITLPILRAIK KKHGKVGLVH VDAHADVNDH MFGEKIAHGT TFRRAVEEDL
+     LDCDRVVQIG LRAQGYTAED FNWSRKQGFR VVQAEECWHK SLEPLMAEVR EKVGGGPVYL
+     SFDIDGIDPA WAPGTGTPEI GGLTTIQAME IIRGCQGLDL IGCDLVEVSP PYDTTGNTSL
+     LGANLLYEML CVLPGVVRR
+//

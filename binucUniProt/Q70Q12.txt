@@ -1,0 +1,65 @@
+ID   Q70Q12_SQUAC            Unreviewed;        94 AA.
+AC   Q70Q12;
+DT   05-JUL-2004, integrated into UniProtKB/TrEMBL.
+DT   05-JUL-2004, sequence version 1.
+DT   27-MAY-2015, entry version 41.
+DE   SubName: Full=Phospholemman-like protein {ECO:0000313|EMBL:CAD88978.1};
+DE   Flags: Precursor;
+GN   Name=fxyd10 {ECO:0000313|EMBL:CAD88978.1};
+OS   Squalus acanthias (Spiny dogfish).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Chondrichthyes;
+OC   Elasmobranchii; Squalimorphii; Squaliformes; Squalidae; Squalus.
+OX   NCBI_TaxID=7797 {ECO:0000313|EMBL:CAD88978.1};
+RN   [1] {ECO:0000313|EMBL:CAD88978.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=12874284; DOI=10.1074/jbc.M305126200;
+RA   Mahmmoud Y.A., Cramb G., Maunsbach A.B., Cutler C.P., Meischke L.,
+RA   Cornelius F.;
+RT   "Regulation of Na,K-ATPase by PLMS, the phospholemman-like protein
+RT   from shark: molecular cloning, sequence, expression, cellular
+RT   distribution, and functional effects of PLMS.";
+RL   J. Biol. Chem. 278:37427-37438(2003).
+RN   [2] {ECO:0000213|PDB:2ZXE}
+RP   X-RAY CRYSTALLOGRAPHY (2.40 ANGSTROMS) OF 21-94.
+RX   PubMed=19458722; DOI=10.1038/nature07939;
+RA   Shinoda T., Ogawa H., Cornelius F., Toyoshima C.;
+RT   "Crystal structure of the sodium-potassium pump at 2.4 A resolution.";
+RL   Nature 459:446-450(2009).
+RN   [3] {ECO:0000213|PDB:3A3Y}
+RP   X-RAY CRYSTALLOGRAPHY (2.80 ANGSTROMS) OF 21-94.
+RX   PubMed=19666591; DOI=10.1073/pnas.0907054106;
+RA   Ogawa H., Shinoda T., Cornelius F., Toyoshima C.;
+RT   "Crystal structure of the sodium-potassium pump (Na+,K+-ATPase) with
+RT   bound potassium and ouabain.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 106:13742-13747(2009).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AJ556170; CAD88978.1; -; mRNA.
+DR   PDB; 2ZXE; X-ray; 2.40 A; G=21-94.
+DR   PDB; 3A3Y; X-ray; 2.80 A; G=21-94.
+DR   PDBsum; 2ZXE; -.
+DR   PDBsum; 3A3Y; -.
+DR   ProteinModelPortal; Q70Q12; -.
+DR   DIP; DIP-59759N; -.
+DR   TCDB; 3.A.3.1.6; the p-type atpase (p-atpase) superfamily.
+DR   HOVERGEN; HBG008212; -.
+DR   EvolutionaryTrace; Q70Q12; -.
+DR   GO; GO:0016020; C:membrane; IEA:InterPro.
+DR   GO; GO:0005216; F:ion channel activity; IEA:InterPro.
+DR   InterPro; IPR000272; Ion-transport_regulator_FXYD.
+DR   Pfam; PF02038; ATP1G1_PLM_MAT8; 1.
+DR   ProDom; PD005989; PD005989; 1.
+DR   PROSITE; PS01310; FXYD; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2ZXE, ECO:0000213|PDB:3A3Y};
+KW   Signal {ECO:0000313|EMBL:CAD88978.1}.
+FT   SIGNAL        1     20       Potential. {ECO:0000313|EMBL:CAD88978.1}.
+FT   CHAIN        21     94       phospholemman-like protein, PLMS.
+FT                                {ECO:0000313|EMBL:CAD88978.1}.
+FT                                /FTId=PRO_5000070657.
+SQ   SEQUENCE   94 AA;  10186 MW;  2999C1D0C4BCF552 CRC64;
+     MLGAATGLMV LVAVTQGVWA MDPEGPDNDE RFTYDYYRLR VVGLIVAAVL CVIGIIILLA
+     GKCRCKFNQN KRTRSNSGTA TAQHLLQPGE ATEC
+//

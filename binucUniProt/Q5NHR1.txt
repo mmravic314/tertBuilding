@@ -1,0 +1,113 @@
+ID   Q5NHR1_FRATT            Unreviewed;       347 AA.
+AC   Q5NHR1;
+DT   01-FEB-2005, integrated into UniProtKB/TrEMBL.
+DT   01-FEB-2005, sequence version 1.
+DT   22-JUL-2015, entry version 76.
+DE   SubName: Full=Nicotinamide-nucleotide adenylyltransferase {ECO:0000313|EMBL:CAG45019.1};
+DE            EC=2.7.7.1 {ECO:0000313|EMBL:CAG45019.1};
+DE            EC=3.6.1.- {ECO:0000313|EMBL:CAG45019.1};
+GN   Name=nadM {ECO:0000313|EMBL:CAG45019.1};
+GN   OrderedLocusNames=FTT_0386 {ECO:0000313|EMBL:CAG45019.1};
+OS   Francisella tularensis subsp. tularensis (strain SCHU S4 / Schu 4).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Thiotrichales;
+OC   Francisellaceae; Francisella.
+OX   NCBI_TaxID=177416 {ECO:0000313|EMBL:CAG45019.1, ECO:0000313|Proteomes:UP000001174};
+RN   [1] {ECO:0000313|EMBL:CAG45019.1, ECO:0000313|Proteomes:UP000001174}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=SCHU S4 / Schu 4 {ECO:0000313|Proteomes:UP000001174};
+RX   PubMed=15640799; DOI=10.1038/ng1499;
+RA   Larsson P., Oyston P.C.F., Chain P., Chu M., Duffield M.,
+RA   Fuxelius H.H., Garcia E., Halltorp G., Johansson D., Isherwood K.,
+RA   Karp P., Larsson E., Lui Y., Michell S., Prior J., Prior R.,
+RA   Sjostedt A., Svensson K., Thompson N., Vergez L., Wagg J., Wren B.,
+RA   Lindler L.E., Andersson S.G., Forsman M., Titball R.W.;
+RT   "The complete genome sequence of Francisella tularensis, the causative
+RT   agent of tularemia.";
+RL   Nat. Genet. 37:153-159(2005).
+RN   [2] {ECO:0000213|PDB:2QJT, ECO:0000213|PDB:2R5W}
+RP   X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) IN COMPLEX WITH AMP; MAGNESIUM
+RP   AND MANGANESE, AND DISULFIDE BONDS.
+RX   PubMed=18275811; DOI=10.1016/j.str.2007.11.017;
+RA   Huang N., Sorci L., Zhang X., Brautigam C.A., Li X., Raffaelli N.,
+RA   Magni G., Grishin N.V., Osterman A.L., Zhang H.;
+RT   "Bifunctional NMN adenylyltransferase/ADP-ribose pyrophosphatase:
+RT   structure and function in bacterial NAD metabolism.";
+RL   Structure 16:196-209(2008).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AJ749949; CAG45019.1; -; Genomic_DNA.
+DR   RefSeq; WP_003020070.1; NZ_CP010290.1.
+DR   RefSeq; YP_169431.1; NC_006570.2.
+DR   PDB; 2QJT; X-ray; 2.30 A; A/B=1-347.
+DR   PDB; 2R5W; X-ray; 2.30 A; A/B=1-347.
+DR   ProteinModelPortal; Q5NHR1; -.
+DR   SMR; Q5NHR1; 1-345.
+DR   IntAct; Q5NHR1; 2.
+DR   STRING; 177416.FTT_0386; -.
+DR   DNASU; 3192435; -.
+DR   EnsemblBacteria; CAG45019; CAG45019; FTT_0386.
+DR   GeneID; 3192435; -.
+DR   KEGG; ftu:FTT_0386; -.
+DR   HOGENOM; HOG000216557; -.
+DR   KO; K13522; -.
+DR   OMA; GHFKDAT; -.
+DR   OrthoDB; EOG632D2F; -.
+DR   BioCyc; FTUL177416:GNBP-394-MONOMER; -.
+DR   BRENDA; 2.7.7.1; 2324.
+DR   BRENDA; 3.6.1.13; 2324.
+DR   Proteomes; UP000001174; Chromosome.
+DR   GO; GO:0016787; F:hydrolase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000309; F:nicotinamide-nucleotide adenylyltransferase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0000166; F:nucleotide binding; IEA:UniProtKB-KW.
+DR   GO; GO:0009058; P:biosynthetic process; IEA:InterPro.
+DR   Gene3D; 3.40.50.620; -; 1.
+DR   Gene3D; 3.90.79.10; -; 1.
+DR   InterPro; IPR004821; Cyt_trans-like.
+DR   InterPro; IPR020084; NUDIX_hydrolase_CS.
+DR   InterPro; IPR000086; NUDIX_hydrolase_dom.
+DR   InterPro; IPR015797; NUDIX_hydrolase_dom-like.
+DR   InterPro; IPR014729; Rossmann-like_a/b/a_fold.
+DR   Pfam; PF01467; CTP_transf_2; 1.
+DR   Pfam; PF00293; NUDIX; 1.
+DR   SUPFAM; SSF55811; SSF55811; 1.
+DR   TIGRFAMs; TIGR00125; cyt_tran_rel; 1.
+DR   PROSITE; PS51462; NUDIX; 1.
+DR   PROSITE; PS00893; NUDIX_BOX; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome {ECO:0000313|Proteomes:UP000001174};
+KW   Hydrolase {ECO:0000313|EMBL:CAG45019.1}; Magnesium;
+KW   Manganese {ECO:0000213|PDB:2QJT}; Metal-binding;
+KW   Nucleotide-binding {ECO:0000213|PDB:2QJT};
+KW   Nucleotidyltransferase {ECO:0000313|EMBL:CAG45019.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001174};
+KW   Transferase {ECO:0000313|EMBL:CAG45019.1}.
+FT   NP_BIND     234    236       AMP. {ECO:0000213|PDB:2QJT}.
+FT   METAL       234    234       Magnesium 1; via carbonyl oxygen.
+FT   METAL       234    234       Manganese 1; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:2QJT}.
+FT   METAL       250    250       Magnesium 2.
+FT   METAL       250    250       Manganese 2. {ECO:0000213|PDB:2QJT}.
+FT   METAL       254    254       Magnesium 1.
+FT   METAL       254    254       Magnesium 2.
+FT   METAL       254    254       Manganese 1. {ECO:0000213|PDB:2QJT}.
+FT   METAL       254    254       Manganese 2. {ECO:0000213|PDB:2QJT}.
+FT   METAL       308    308       Magnesium 1.
+FT   METAL       308    308       Magnesium 2.
+FT   METAL       308    308       Manganese 1. {ECO:0000213|PDB:2QJT}.
+FT   METAL       308    308       Manganese 2. {ECO:0000213|PDB:2QJT}.
+FT   BINDING     190    190       AMP. {ECO:0000213|PDB:2QJT}.
+FT   BINDING     199    199       AMP. {ECO:0000213|PDB:2QJT}.
+FT   BINDING     254    254       AMP. {ECO:0000213|PDB:2QJT}.
+FT   BINDING     308    308       AMP. {ECO:0000213|PDB:2QJT}.
+FT   DISULFID    270    343
+SQ   SEQUENCE   347 AA;  40409 MW;  89B7DFE3DCA89840 CRC64;
+     MYDISVFIGR FQPFHKGHLH NIIIALQNSK KVIINIGSCF NTPNIKNPFS FEQRKQMIES
+     DLQVAGIDLD TVVIEPLADY FYQEQKWQDE LRKNVYKHAK NNNSIAIVGH IKDSSSYYIR
+     SFPEWDYIGV DNYKNFNATE FRQKFYNGII SKQYMCSNDP KLGTYNFLTK FMDTQVYQDL
+     VAENNYVIEY KRLWLKAPFK PNFVTVDALV IVNDHILMVQ RKAHPGKDLW ALPGGFLECD
+     ETIAQAIIRE LFEETNINLT HEQLAIAKRC EKVFDYPDRS VRGRTISHVG LFVFDQWPSL
+     PEINAADDAK DVKWISLGSN IKNICDRMLE DHYQIITILL EECGKKL
+//

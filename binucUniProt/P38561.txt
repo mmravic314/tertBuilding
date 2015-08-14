@@ -1,0 +1,138 @@
+ID   GLNA3_MAIZE             Reviewed;         356 AA.
+AC   P38561;
+DT   01-OCT-1994, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-1994, sequence version 1.
+DT   24-JUN-2015, entry version 91.
+DE   RecName: Full=Glutamine synthetase root isozyme 3;
+DE            EC=6.3.1.2;
+DE   AltName: Full=GS112;
+DE   AltName: Full=Glutamate--ammonia ligase;
+GN   Name=GLN4; Synonyms=GS1-3;
+OS   Zea mays (Maize).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae;
+OC   PACMAD clade; Panicoideae; Andropogoneae; Zea.
+OX   NCBI_TaxID=4577;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=cv. A188; TISSUE=Seedling;
+RX   PubMed=8106013; DOI=10.1007/BF00029015;
+RA   Li M.-G., Villemur R., Hussey P.J., Silflow C.D., Gantt J.S.,
+RA   Snustad D.P.;
+RT   "Differential expression of six glutamine synthetase genes in Zea
+RT   mays.";
+RL   Plant Mol. Biol. 23:401-407(1993).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=cv. Golden cross Bantam T51; TISSUE=Leaf;
+RA   Sakakibara H., Kawabata S., Takahashi H., Hase T., Sugiyama T.;
+RT   "Molecular cloning of the family of glutamine synthetase genes from
+RT   maize: expression of genes for glutamine synthetase and ferredoxin-
+RT   dependent glutamate synthase in photosynthetic and non-photosynthetic
+RT   tissues.";
+RL   Plant Cell Physiol. 33:49-58(1992).
+CC   -!- FUNCTION: Plays a role in the flow of nitrogen into nitrogenous
+CC       organic compounds.
+CC   -!- CATALYTIC ACTIVITY: ATP + L-glutamate + NH(3) = ADP + phosphate +
+CC       L-glutamine.
+CC   -!- SUBUNIT: Homooctamer.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm.
+CC   -!- TISSUE SPECIFICITY: Found in all the tissues examined with higher
+CC       expression found in tissues of the root.
+CC   -!- SIMILARITY: Belongs to the glutamine synthetase family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X65928; CAA46721.1; -; mRNA.
+DR   EMBL; D14577; BAA03431.1; -; mRNA.
+DR   PIR; S39479; S39479.
+DR   RefSeq; NP_001105296.1; NM_001111826.1.
+DR   UniGene; Zm.66285; -.
+DR   PDB; 2D3A; X-ray; 2.63 A; A/B/C/D/E/F/G/H/I/J=1-356.
+DR   PDB; 2D3B; X-ray; 3.50 A; A/B/C/D/E/F/G/H/I/J=1-356.
+DR   PDB; 2D3C; X-ray; 3.81 A; A/B/C/D/E/F/G/H/I/J=1-356.
+DR   PDBsum; 2D3A; -.
+DR   PDBsum; 2D3B; -.
+DR   PDBsum; 2D3C; -.
+DR   ProteinModelPortal; P38561; -.
+DR   SMR; P38561; 3-355.
+DR   STRING; 4577.GRMZM5G872068_P01; -.
+DR   PRIDE; P38561; -.
+DR   GeneID; 542214; -.
+DR   KEGG; zma:542214; -.
+DR   Gramene; P38561; -.
+DR   MaizeGDB; 17151; -.
+DR   HOGENOM; HOG000061500; -.
+DR   KO; K01915; -.
+DR   BRENDA; 6.3.1.2; 6752.
+DR   EvolutionaryTrace; P38561; -.
+DR   Proteomes; UP000007305; Unplaced.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004356; F:glutamate-ammonia ligase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0006542; P:glutamine biosynthetic process; IEA:InterPro.
+DR   Gene3D; 3.30.590.10; -; 1.
+DR   InterPro; IPR008147; Gln_synt_beta.
+DR   InterPro; IPR014746; Gln_synth/guanido_kin_cat_dom.
+DR   InterPro; IPR008146; Gln_synth_cat_dom.
+DR   InterPro; IPR027303; Gln_synth_gly_rich_site.
+DR   InterPro; IPR027302; Gln_synth_N_conserv_site.
+DR   Pfam; PF00120; Gln-synt_C; 1.
+DR   Pfam; PF03951; Gln-synt_N; 1.
+DR   SUPFAM; SSF54368; SSF54368; 1.
+DR   PROSITE; PS00180; GLNA_1; 1.
+DR   PROSITE; PS00181; GLNA_ATP; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; ATP-binding; Complete proteome; Cytoplasm; Ligase;
+KW   Nucleotide-binding; Reference proteome.
+FT   CHAIN         1    356       Glutamine synthetase root isozyme 3.
+FT                                /FTId=PRO_0000153180.
+FT   CONFLICT     15     15       T -> N (in Ref. 2; BAA03431).
+FT                                {ECO:0000305}.
+FT   CONFLICT    289    290       DG -> ER (in Ref. 2; BAA03431).
+FT                                {ECO:0000305}.
+FT   HELIX         4      8       {ECO:0000244|PDB:2D3A}.
+FT   HELIX        12     14       {ECO:0000244|PDB:2D3A}.
+FT   STRAND       19     26       {ECO:0000244|PDB:2D3A}.
+FT   STRAND       33     42       {ECO:0000244|PDB:2D3A}.
+FT   HELIX        47     49       {ECO:0000244|PDB:2D3A}.
+FT   STRAND       53     56       {ECO:0000244|PDB:2D3A}.
+FT   TURN         57     61       {ECO:0000244|PDB:2D3A}.
+FT   STRAND       65     67       {ECO:0000244|PDB:2D3A}.
+FT   STRAND       69     79       {ECO:0000244|PDB:2D3A}.
+FT   TURN         81     83       {ECO:0000244|PDB:2D3A}.
+FT   STRAND       88     95       {ECO:0000244|PDB:2D3A}.
+FT   HELIX       107    115       {ECO:0000244|PDB:2D3A}.
+FT   HELIX       117    122       {ECO:0000244|PDB:2D3A}.
+FT   STRAND      125    136       {ECO:0000244|PDB:2D3A}.
+FT   TURN        137    139       {ECO:0000244|PDB:2D3A}.
+FT   STRAND      154    156       {ECO:0000244|PDB:2D3A}.
+FT   TURN        163    165       {ECO:0000244|PDB:2D3A}.
+FT   HELIX       169    182       {ECO:0000244|PDB:2D3A}.
+FT   STRAND      186    191       {ECO:0000244|PDB:2D3A}.
+FT   STRAND      197    206       {ECO:0000244|PDB:2D3A}.
+FT   HELIX       208    228       {ECO:0000244|PDB:2D3A}.
+FT   STRAND      230    233       {ECO:0000244|PDB:2D3A}.
+FT   STRAND      236    239       {ECO:0000244|PDB:2D3B}.
+FT   STRAND      241    243       {ECO:0000244|PDB:2D3A}.
+FT   STRAND      247    253       {ECO:0000244|PDB:2D3A}.
+FT   TURN        255    257       {ECO:0000244|PDB:2D3A}.
+FT   HELIX       262    275       {ECO:0000244|PDB:2D3A}.
+FT   HELIX       277    281       {ECO:0000244|PDB:2D3A}.
+FT   HELIX       288    291       {ECO:0000244|PDB:2D3A}.
+FT   STRAND      293    297       {ECO:0000244|PDB:2D3A}.
+FT   STRAND      306    309       {ECO:0000244|PDB:2D3A}.
+FT   STRAND      313    317       {ECO:0000244|PDB:2D3A}.
+FT   HELIX       319    323       {ECO:0000244|PDB:2D3A}.
+FT   STRAND      329    331       {ECO:0000244|PDB:2D3A}.
+FT   HELIX       340    351       {ECO:0000244|PDB:2D3A}.
+SQ   SEQUENCE   356 AA;  39169 MW;  0112DD32D5FB474C CRC64;
+     MACLTDLVNL NLSDTTEKII AEYIWIGGSG MDLRSKARTL SGPVTDPSKL PKWNYDGSST
+     GQAPGEDSEV ILYPQAIFKD PFRRGNNILV MCDCYTPAGE PIPTNKRYNA AKIFSSPEVA
+     AEEPWYGIEQ EYTLLQKDTN WPLGWPIGGF PGPQGPYYCG IGAEKSFGRD IVDAHYKACL
+     YAGINISGIN GEVMPGQWEF QVGPSVGISS GDQVWVARYI LERITEIAGV VVTFDPKPIP
+     GDWNGAGAHT NYSTESMRKE GGYEVIKAAI EKLKLRHREH IAAYGEGNDG RLTGRHETAD
+     INTFSWGVAN RGASVRVGRE TEQNGKGYFE DRRPASNMDP YVVTSMIAET TIIWKP
+//

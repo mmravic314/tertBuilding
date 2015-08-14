@@ -1,0 +1,163 @@
+ID   RIO2_ARCFU              Reviewed;         282 AA.
+AC   O30245;
+DT   02-SEP-2008, integrated into UniProtKB/Swiss-Prot.
+DT   01-JAN-1998, sequence version 1.
+DT   22-JUL-2015, entry version 96.
+DE   RecName: Full=RIO-type serine/threonine-protein kinase Rio2;
+DE            Short=AfRio2;
+DE            EC=2.7.11.1;
+GN   Name=rio2; OrderedLocusNames=AF_2426;
+OS   Archaeoglobus fulgidus (strain ATCC 49558 / VC-16 / DSM 4304 / JCM
+OS   9628 / NBRC 100126).
+OC   Archaea; Euryarchaeota; Archaeoglobi; Archaeoglobales;
+OC   Archaeoglobaceae; Archaeoglobus.
+OX   NCBI_TaxID=224325;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 49558 / VC-16 / DSM 4304 / JCM 9628 / NBRC 100126;
+RX   PubMed=9389475; DOI=10.1038/37052;
+RA   Klenk H.-P., Clayton R.A., Tomb J.-F., White O., Nelson K.E.,
+RA   Ketchum K.A., Dodson R.J., Gwinn M.L., Hickey E.K., Peterson J.D.,
+RA   Richardson D.L., Kerlavage A.R., Graham D.E., Kyrpides N.C.,
+RA   Fleischmann R.D., Quackenbush J., Lee N.H., Sutton G.G., Gill S.R.,
+RA   Kirkness E.F., Dougherty B.A., McKenney K., Adams M.D., Loftus B.J.,
+RA   Peterson S.N., Reich C.I., McNeil L.K., Badger J.H., Glodek A.,
+RA   Zhou L., Overbeek R., Gocayne J.D., Weidman J.F., McDonald L.A.,
+RA   Utterback T.R., Cotton M.D., Spriggs T., Artiach P., Kaine B.P.,
+RA   Sykes S.M., Sadow P.W., D'Andrea K.P., Bowman C., Fujii C.,
+RA   Garland S.A., Mason T.M., Olsen G.J., Fraser C.M., Smith H.O.,
+RA   Woese C.R., Venter J.C.;
+RT   "The complete genome sequence of the hyperthermophilic, sulphate-
+RT   reducing archaeon Archaeoglobus fulgidus.";
+RL   Nature 390:364-370(1997).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (1.99 ANGSTROMS) OF APOPROTEIN AND IN COMPLEXES
+RP   WITH ATP AND ATP ANALOG, FUNCTION, IDENTIFICATION BY MASS
+RP   SPECTROMETRY, AND SUBUNIT.
+RC   STRAIN=ATCC 49558 / VC-16 / DSM 4304 / JCM 9628 / NBRC 100126;
+RX   PubMed=15341724; DOI=10.1016/j.str.2004.06.016;
+RA   LaRonde-LeBlanc N., Wlodawer A.;
+RT   "Crystal structure of A. fulgidus Rio2 defines a new family of serine
+RT   protein kinases.";
+RL   Structure 12:1585-1594(2004).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (1.84 ANGSTROMS) IN COMPLEXES WITH MN-ATP AND
+RP   MN-ADP, AND PHOSPHORYLATION AT SER-128.
+RC   STRAIN=ATCC 49558 / VC-16 / DSM 4304 / JCM 9628 / NBRC 100126;
+RX   PubMed=15943813; DOI=10.1111/j.1742-4658.2005.04702.x;
+RA   LaRonde-LeBlanc N., Guszczynski T., Copeland T., Wlodawer A.;
+RT   "Autophosphorylation of Archaeoglobus fulgidus Rio2 and crystal
+RT   structures of its nucleotide-metal ion complexes.";
+RL   FEBS J. 272:2800-2810(2005).
+CC   -!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC       Note=Mg(2+). Mn(2+) is seen in the crystal structure; there are 2
+CC       Mn(2+) ions in the ATP-bound crystal and 1 Mn(2+) in the ADP-bound
+CC       crystal.;
+CC   -!- SUBUNIT: Monomer. {ECO:0000269|PubMed:15341724}.
+CC   -!- PTM: Autophosphorylated. {ECO:0000269|PubMed:15943813}.
+CC   -!- SIMILARITY: Belongs to the protein kinase superfamily. RIO-type
+CC       Ser/Thr kinase family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 protein kinase domain. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE000782; AAB91236.1; -; Genomic_DNA.
+DR   PIR; C69553; C69553.
+DR   RefSeq; NP_071248.1; NC_000917.1.
+DR   RefSeq; WP_010879913.1; NC_000917.1.
+DR   PDB; 1TQI; X-ray; 2.00 A; A=1-282.
+DR   PDB; 1TQM; X-ray; 1.99 A; A=1-282.
+DR   PDB; 1TQP; X-ray; 2.10 A; A=1-282.
+DR   PDB; 1ZAO; X-ray; 1.84 A; A=1-282.
+DR   PDB; 1ZAR; X-ray; 1.75 A; A=1-282.
+DR   PDBsum; 1TQI; -.
+DR   PDBsum; 1TQM; -.
+DR   PDBsum; 1TQP; -.
+DR   PDBsum; 1ZAO; -.
+DR   PDBsum; 1ZAR; -.
+DR   ProteinModelPortal; O30245; -.
+DR   SMR; O30245; 1-282.
+DR   STRING; 224325.AF2426; -.
+DR   EnsemblBacteria; AAB91236; AAB91236; AF_2426.
+DR   GeneID; 1485657; -.
+DR   KEGG; afu:AF2426; -.
+DR   eggNOG; COG0478; -.
+DR   KO; K07179; -.
+DR   OMA; VATEPAC; -.
+DR   BioCyc; AFUL224325:GJBC-2478-MONOMER; -.
+DR   BRENDA; 2.7.11.1; 414.
+DR   EvolutionaryTrace; O30245; -.
+DR   Proteomes; UP000002199; Chromosome.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004674; F:protein serine/threonine kinase activity; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.10.10; -; 1.
+DR   InterPro; IPR011009; Kinase-like_dom.
+DR   InterPro; IPR030484; Rio2.
+DR   InterPro; IPR015285; RIO2_wHTH_N.
+DR   InterPro; IPR018934; RIO_dom.
+DR   InterPro; IPR000687; RIO_kinase.
+DR   InterPro; IPR008266; Tyr_kinase_AS.
+DR   InterPro; IPR011991; WHTH_DNA-bd_dom.
+DR   PANTHER; PTHR10593:SF1; PTHR10593:SF1; 1.
+DR   Pfam; PF01163; RIO1; 1.
+DR   Pfam; PF09202; Rio2_N; 1.
+DR   SMART; SM00090; RIO; 1.
+DR   SUPFAM; SSF56112; SSF56112; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; ATP-binding; Complete proteome; Kinase; Magnesium;
+KW   Metal-binding; Nucleotide-binding; Phosphoprotein; Reference proteome;
+KW   Serine/threonine-protein kinase; Transferase.
+FT   CHAIN         1    282       RIO-type serine/threonine-protein kinase
+FT                                Rio2.
+FT                                /FTId=PRO_0000347334.
+FT   DOMAIN       94    236       Protein kinase.
+FT   NP_BIND      99    104       ATP.
+FT   NP_BIND     180    186       ATP.
+FT   NP_BIND     222    223       ATP.
+FT   ACT_SITE    218    218       Proton acceptor. {ECO:0000250}.
+FT   METAL       103    103       Magnesium 1.
+FT   METAL       223    223       Magnesium 2.
+FT   METAL       235    235       Magnesium 1.
+FT   METAL       235    235       Magnesium 2.
+FT   BINDING     120    120       ATP.
+FT   BINDING     126    126       ATP.
+FT   BINDING     235    235       ATP.
+FT   MOD_RES     128    128       Phosphoserine; by autocatalysis.
+FT                                {ECO:0000269|PubMed:15943813}.
+FT   HELIX         3      8       {ECO:0000244|PDB:1ZAR}.
+FT   HELIX        12     22       {ECO:0000244|PDB:1ZAR}.
+FT   TURN         23     27       {ECO:0000244|PDB:1ZAR}.
+FT   STRAND       29     32       {ECO:0000244|PDB:1ZAR}.
+FT   HELIX        33     40       {ECO:0000244|PDB:1ZAR}.
+FT   HELIX        44     56       {ECO:0000244|PDB:1ZAR}.
+FT   STRAND       59     63       {ECO:0000244|PDB:1ZAR}.
+FT   STRAND       65     67       {ECO:0000244|PDB:1ZAR}.
+FT   STRAND       69     72       {ECO:0000244|PDB:1ZAR}.
+FT   HELIX        74     87       {ECO:0000244|PDB:1ZAR}.
+FT   STRAND       92    100       {ECO:0000244|PDB:1ZAR}.
+FT   STRAND      102    111       {ECO:0000244|PDB:1ZAR}.
+FT   TURN        112    114       {ECO:0000244|PDB:1ZAR}.
+FT   STRAND      115    122       {ECO:0000244|PDB:1ZAR}.
+FT   HELIX       143    160       {ECO:0000244|PDB:1ZAR}.
+FT   TURN        161    163       {ECO:0000244|PDB:1ZAR}.
+FT   STRAND      164    166       {ECO:0000244|PDB:1ZAR}.
+FT   STRAND      169    173       {ECO:0000244|PDB:1ZAR}.
+FT   STRAND      176    180       {ECO:0000244|PDB:1ZAR}.
+FT   HELIX       187    189       {ECO:0000244|PDB:1ZAR}.
+FT   HELIX       195    211       {ECO:0000244|PDB:1ZAR}.
+FT   STRAND      223    227       {ECO:0000244|PDB:1ZAR}.
+FT   STRAND      230    233       {ECO:0000244|PDB:1ZAR}.
+FT   HELIX       247    266       {ECO:0000244|PDB:1ZAR}.
+FT   HELIX       272    280       {ECO:0000244|PDB:1ZAR}.
+SQ   SEQUENCE   282 AA;  32809 MW;  7DE69AF0EF8DB24D CRC64;
+     MNIAELYGKM GKHSWRIMDA IFKNLWDYEY VPLQLISSHA RIGEEKARNI LKYLSDLRVV
+     QNRQKDYEGS TFTFIGLSLY SLHRLVRSGK VDAIGKLMGE GKESAVFNCY SEKFGECVVK
+     FHKVGHTSFK KVKEKRDYGD LHFSVLAIRS ARNEFRALQK LQGLAVPKVY AWEGNAVLME
+     LIDAKELYRV RVENPDEVLD MILEEVAKFY HRGIVHGDLS QYNVLVSEEG IWIIDFPQSV
+     EVGEEGWREI LERDVRNIIT YFSRTYRTEK DINSAIDRIL QE
+//

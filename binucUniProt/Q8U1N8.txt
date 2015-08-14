@@ -1,0 +1,76 @@
+ID   Q8U1N8_PYRFU            Unreviewed;       451 AA.
+AC   Q8U1N8;
+DT   01-JUN-2002, integrated into UniProtKB/TrEMBL.
+DT   01-JUN-2002, sequence version 1.
+DT   29-APR-2015, entry version 62.
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAL81292.1};
+GN   OrderedLocusNames=PF1168 {ECO:0000313|EMBL:AAL81292.1};
+OS   Pyrococcus furiosus (strain ATCC 43587 / DSM 3638 / JCM 8422 / Vc1).
+OC   Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae;
+OC   Pyrococcus.
+OX   NCBI_TaxID=186497 {ECO:0000313|EMBL:AAL81292.1, ECO:0000313|Proteomes:UP000001013};
+RN   [1] {ECO:0000313|EMBL:AAL81292.1, ECO:0000313|Proteomes:UP000001013}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 43587 / DSM 3638 / JCM 8422 / Vc1
+RC   {ECO:0000313|Proteomes:UP000001013};
+RX   PubMed=10430560;
+RA   Maeder D.L., Weiss R.B., Dunn D.M., Cherry J.L., Gonzalez J.M.,
+RA   DiRuggiero J., Robb F.T.;
+RT   "Divergence of the hyperthermophilic archaea Pyrococcus furiosus and
+RT   P. horikoshii inferred from complete genomic sequences.";
+RL   Genetics 152:1299-1305(1999).
+RN   [2] {ECO:0000213|PDB:3TAI, ECO:0000213|PDB:3TAL, ECO:0000213|PDB:3TAZ}
+RP   X-RAY CRYSTALLOGRAPHY (2.82 ANGSTROMS) IN COMPLEX WITH MANGANESE.
+RX   PubMed=22064858; DOI=10.1093/nar/gkr999;
+RA   Chae J., Kim Y.C., Cho Y.;
+RT   "Crystal structure of the NurA-dAMP-Mn2+ complex.";
+RL   Nucleic Acids Res. 40:2258-2270(2012).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE009950; AAL81292.1; -; Genomic_DNA.
+DR   RefSeq; NP_578897.1; NC_003413.1.
+DR   RefSeq; WP_011012308.1; NC_003413.1.
+DR   PDB; 3TAI; X-ray; 2.82 A; A/B=1-451.
+DR   PDB; 3TAL; X-ray; 3.15 A; A/B=1-451.
+DR   PDB; 3TAZ; X-ray; 3.20 A; A/B=1-451.
+DR   PDBsum; 3TAI; -.
+DR   PDBsum; 3TAL; -.
+DR   PDBsum; 3TAZ; -.
+DR   ProteinModelPortal; Q8U1N8; -.
+DR   STRING; 186497.PF1168; -.
+DR   PRIDE; Q8U1N8; -.
+DR   EnsemblBacteria; AAL81292; AAL81292; PF1168.
+DR   GeneID; 1469037; -.
+DR   KEGG; pfu:PF1168; -.
+DR   eggNOG; COG1630; -.
+DR   HOGENOM; HOG000078265; -.
+DR   OMA; TRPPVYP; -.
+DR   Proteomes; UP000001013; Chromosome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   InterPro; IPR018977; NurA_domain.
+DR   InterPro; IPR016738; UCP018871.
+DR   Pfam; PF09376; NurA; 1.
+DR   PIRSF; PIRSF018871; UCP018871; 1.
+DR   SMART; SM00933; NurA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3TAI, ECO:0000213|PDB:3TAL};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001013};
+KW   Manganese {ECO:0000213|PDB:3TAL, ECO:0000213|PDB:3TAZ};
+KW   Metal-binding {ECO:0000213|PDB:3TAL, ECO:0000213|PDB:3TAZ};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001013}.
+FT   METAL        51     51       Manganese. {ECO:0000213|PDB:3TAL,
+FT                                ECO:0000213|PDB:3TAZ}.
+FT   METAL       126    126       Manganese. {ECO:0000213|PDB:3TAL,
+FT                                ECO:0000213|PDB:3TAZ}.
+SQ   SEQUENCE   451 AA;  51609 MW;  80304F73B7F44A61 CRC64;
+     MRLLSKQSIE RITKILLDEL ENVRENEQIR NIINSWKPLP SPEKSSIYAV DGSRSVSRLS
+     GTVIYFLSAL AVGSGKQLRL SYANAIKSNY GTSDQIVRMQ METLENMLGY LAYRKLEGEK
+     RAILMDGTLT GSLVRPPVYP EDIRSLNVMR ALIGESDFEN LLNEFLEKLR DHYRKVEEHL
+     EKNGNYDSPI LTDNVVEKLR KKYIDTKVIA YGSGKVKVKI PRKALGYSPR VIPIEVLESS
+     RGKSVDELLQ ELDEEKVELY LGKDDIYDAL HMTLSYIEYL YSIDKLLEVK NLAYIAKSFY
+     TKTLARTLGV EIVDTALLDA VIRTLIGHEK EGYLEIEHAV VPPKWSFPDF LLSKFRNIEK
+     LIDKGIHLAY VRFEQGDVIY MLQSTTNIEK ILPLILHHKA GGYLRPLQLA HHGVKISYKE
+     ARHTLEALIN ALRNRDPALK IFVKYGRSPL E
+//

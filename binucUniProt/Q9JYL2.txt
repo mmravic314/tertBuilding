@@ -1,0 +1,167 @@
+ID   DAPE_NEIMB              Reviewed;         381 AA.
+AC   Q9JYL2;
+DT   26-MAY-2009, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2000, sequence version 1.
+DT   22-JUL-2015, entry version 91.
+DE   RecName: Full=Succinyl-diaminopimelate desuccinylase;
+DE            Short=SDAP desuccinylase;
+DE            EC=3.5.1.18;
+DE   AltName: Full=N-succinyl-LL-2,6-diaminoheptanedioate amidohydrolase;
+GN   Name=dapE; OrderedLocusNames=NMB1530;
+OS   Neisseria meningitidis serogroup B (strain MC58).
+OC   Bacteria; Proteobacteria; Betaproteobacteria; Neisseriales;
+OC   Neisseriaceae; Neisseria.
+OX   NCBI_TaxID=122586;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=MC58;
+RX   PubMed=10710307; DOI=10.1126/science.287.5459.1809;
+RA   Tettelin H., Saunders N.J., Heidelberg J.F., Jeffries A.C.,
+RA   Nelson K.E., Eisen J.A., Ketchum K.A., Hood D.W., Peden J.F.,
+RA   Dodson R.J., Nelson W.C., Gwinn M.L., DeBoy R.T., Peterson J.D.,
+RA   Hickey E.K., Haft D.H., Salzberg S.L., White O., Fleischmann R.D.,
+RA   Dougherty B.A., Mason T.M., Ciecko A., Parksey D.S., Blair E.,
+RA   Cittone H., Clark E.B., Cotton M.D., Utterback T.R., Khouri H.M.,
+RA   Qin H., Vamathevan J.J., Gill J., Scarlato V., Masignani V., Pizza M.,
+RA   Grandi G., Sun L., Smith H.O., Fraser C.M., Moxon E.R., Rappuoli R.,
+RA   Venter J.C.;
+RT   "Complete genome sequence of Neisseria meningitidis serogroup B strain
+RT   MC58.";
+RL   Science 287:1809-1815(2000).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS), AND SUBUNIT.
+RX   PubMed=16021622; DOI=10.1002/prot.20541;
+RA   Badger J., Sauder J.M., Adams J.M., Antonysamy S., Bain K.,
+RA   Bergseid M.G., Buchanan S.G., Buchanan M.D., Batiyenko Y.,
+RA   Christopher J.A., Emtage S., Eroshkina A., Feil I., Furlong E.B.,
+RA   Gajiwala K.S., Gao X., He D., Hendle J., Huber A., Hoda K.,
+RA   Kearins P., Kissinger C., Laubert B., Lewis H.A., Lin J., Loomis K.,
+RA   Lorimer D., Louie G., Maletic M., Marsh C.D., Miller I., Molinari J.,
+RA   Muller-Dieckmann H.J., Newman J.M., Noland B.W., Pagarigan B.,
+RA   Park F., Peat T.S., Post K.W., Radojicic S., Ramos A., Romero R.,
+RA   Rutter M.E., Sanderson W.E., Schwinn K.D., Tresser J., Winhoven J.,
+RA   Wright T.A., Wu L., Xu J., Harris T.J.R.;
+RT   "Structural analysis of a set of proteins resulting from a bacterial
+RT   genomics project.";
+RL   Proteins 60:787-796(2005).
+CC   -!- FUNCTION: Catalyzes the hydrolysis of N-succinyl-L,L-
+CC       diaminopimelic acid (SDAP), forming succinate and LL-2,6-
+CC       diaminoheptanedioate (DAP), an intermediate involved in the
+CC       bacterial biosynthesis of lysine and meso-diaminopimelic acid, an
+CC       essential component of bacterial cell walls. {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: N-succinyl-LL-2,6-diaminoheptanedioate + H(2)O
+CC       = succinate + LL-2,6-diaminoheptanedioate.
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000250};
+CC       Note=Binds 2 Zn(2+) ion per subunit. {ECO:0000250};
+CC   -!- PATHWAY: Amino-acid biosynthesis; L-lysine biosynthesis via DAP
+CC       pathway; LL-2,6-diaminopimelate from (S)-tetrahydrodipicolinate
+CC       (succinylase route): step 3/3.
+CC   -!- SUBUNIT: Homodimer. {ECO:0000269|PubMed:16021622}.
+CC   -!- SIMILARITY: Belongs to the peptidase M20A family. DapE subfamily.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE002098; AAF41885.1; -; Genomic_DNA.
+DR   PIR; F81073; F81073.
+DR   RefSeq; NP_274537.1; NC_003112.2.
+DR   RefSeq; WP_002225058.1; NC_003112.2.
+DR   PDB; 1VGY; X-ray; 1.90 A; A/B=2-381.
+DR   PDB; 4O23; X-ray; 2.09 A; A/B=1-381.
+DR   PDB; 4PPZ; X-ray; 2.00 A; A=1-381.
+DR   PDB; 4PQA; X-ray; 1.78 A; A=1-381.
+DR   PDBsum; 1VGY; -.
+DR   PDBsum; 4O23; -.
+DR   PDBsum; 4PPZ; -.
+DR   PDBsum; 4PQA; -.
+DR   ProteinModelPortal; Q9JYL2; -.
+DR   SMR; Q9JYL2; 2-376.
+DR   STRING; 122586.NMB1530; -.
+DR   MEROPS; M20.010; -.
+DR   DNASU; 904046; -.
+DR   EnsemblBacteria; AAF41885; AAF41885; NMB1530.
+DR   GeneID; 904046; -.
+DR   KEGG; nme:NMB1530; -.
+DR   PATRIC; 20358866; VBINeiMen85645_1942.
+DR   eggNOG; COG0624; -.
+DR   HOGENOM; HOG000243770; -.
+DR   KO; K01439; -.
+DR   OMA; QNDPFDA; -.
+DR   OrthoDB; EOG60651W; -.
+DR   BioCyc; NMEN122586:GHGG-1571-MONOMER; -.
+DR   UniPathway; UPA00034; UER00021.
+DR   EvolutionaryTrace; Q9JYL2; -.
+DR   Proteomes; UP000000425; Chromosome.
+DR   GO; GO:0050897; F:cobalt ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0009014; F:succinyl-diaminopimelate desuccinylase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0019877; P:diaminopimelate biosynthetic process; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0009089; P:lysine biosynthetic process via diaminopimelate; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 3.30.70.360; -; 1.
+DR   HAMAP; MF_01690; DapE; 1.
+DR   InterPro; IPR005941; DapE_proteobac.
+DR   InterPro; IPR002933; Peptidase_M20.
+DR   InterPro; IPR011650; Peptidase_M20_dimer.
+DR   Pfam; PF07687; M20_dimer; 1.
+DR   Pfam; PF01546; Peptidase_M20; 1.
+DR   SUPFAM; SSF55031; SSF55031; 1.
+DR   TIGRFAMs; TIGR01246; dapE_proteo; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Amino-acid biosynthesis; Cobalt; Complete proteome;
+KW   Diaminopimelate biosynthesis; Hydrolase; Lysine biosynthesis;
+KW   Metal-binding; Reference proteome; Zinc.
+FT   CHAIN         1    381       Succinyl-diaminopimelate desuccinylase.
+FT                                /FTId=PRO_0000375624.
+FT   ACT_SITE     70     70       {ECO:0000250}.
+FT   ACT_SITE    135    135       Proton acceptor. {ECO:0000250}.
+FT   METAL        68     68       Cobalt or zinc 1. {ECO:0000250}.
+FT   METAL       101    101       Cobalt or zinc 1. {ECO:0000250}.
+FT   METAL       101    101       Cobalt or zinc 2. {ECO:0000250}.
+FT   METAL       136    136       Cobalt or zinc 2. {ECO:0000250}.
+FT   METAL       164    164       Cobalt or zinc 1. {ECO:0000250}.
+FT   METAL       350    350       Cobalt or zinc 2. {ECO:0000250}.
+FT   HELIX         5     14       {ECO:0000244|PDB:4PQA}.
+FT   HELIX        26     35       {ECO:0000244|PDB:4PQA}.
+FT   TURN         36     38       {ECO:0000244|PDB:4PQA}.
+FT   STRAND       40     43       {ECO:0000244|PDB:4PQA}.
+FT   STRAND       51     56       {ECO:0000244|PDB:4PQA}.
+FT   STRAND       58     68       {ECO:0000244|PDB:4PQA}.
+FT   HELIX        77     79       {ECO:0000244|PDB:4PQA}.
+FT   STRAND       80     82       {ECO:0000244|PDB:4PQA}.
+FT   STRAND       88     90       {ECO:0000244|PDB:4PQA}.
+FT   STRAND       93     96       {ECO:0000244|PDB:4PQA}.
+FT   TURN         97    102       {ECO:0000244|PDB:4PQA}.
+FT   HELIX       103    119       {ECO:0000244|PDB:4PQA}.
+FT   STRAND      124    133       {ECO:0000244|PDB:4PQA}.
+FT   STRAND      135    137       {ECO:0000244|PDB:4PQA}.
+FT   STRAND      140    142       {ECO:0000244|PDB:4PPZ}.
+FT   HELIX       143    152       {ECO:0000244|PDB:4PQA}.
+FT   STRAND      157    162       {ECO:0000244|PDB:4PQA}.
+FT   STRAND      167    170       {ECO:0000244|PDB:4PQA}.
+FT   STRAND      173    179       {ECO:0000244|PDB:4PQA}.
+FT   STRAND      181    190       {ECO:0000244|PDB:4PQA}.
+FT   HELIX       199    201       {ECO:0000244|PDB:4PQA}.
+FT   HELIX       205    218       {ECO:0000244|PDB:4PQA}.
+FT   STRAND      232    240       {ECO:0000244|PDB:4PQA}.
+FT   STRAND      250    260       {ECO:0000244|PDB:4PQA}.
+FT   HELIX       266    279       {ECO:0000244|PDB:4PQA}.
+FT   STRAND      284    292       {ECO:0000244|PDB:4PQA}.
+FT   HELIX       301    314       {ECO:0000244|PDB:4PQA}.
+FT   STRAND      319    321       {ECO:0000244|PDB:4PQA}.
+FT   HELIX       329    332       {ECO:0000244|PDB:4PQA}.
+FT   TURN        333    335       {ECO:0000244|PDB:4PQA}.
+FT   STRAND      336    341       {ECO:0000244|PDB:4PQA}.
+FT   TURN        347    350       {ECO:0000244|PDB:4PQA}.
+FT   STRAND      355    357       {ECO:0000244|PDB:4PQA}.
+FT   HELIX       360    375       {ECO:0000244|PDB:4PQA}.
+SQ   SEQUENCE   381 AA;  41325 MW;  EA64C393977C48E7 CRC64;
+     MTETQSLELA KELISRPSVT PDDRDCQKLL AERLHKIGFA AEELHFGDTK NIWLRRGTKA
+     PVVCFAGHTD VVPTGPVEKW DSPPFEPAER DGRLYGRGAA DMKTSIACFV TACERFVAKH
+     PNHQGSIALL ITSDEEGDAL DGTTKVVDVL KARDELIDYC IVGEPTAVDK LGDMIKNGRR
+     GSLSGNLTVK GKQGHIAYPH LAINPVHTFA PALLELTQEV WDEGNEYFPP TSFQISNING
+     GTGATNVIPG ELNVKFNFRF STESTEAGLK QRVHAILDKH GVQYDLQWSC SGQPFLTQAG
+     KLTDVARAAI AETCGIEAEL STTGGTSDGR FIKAIAQELI ELGPSNATIH QINENVRLND
+     IPKLSAVYEG ILARLLAGNA V
+//

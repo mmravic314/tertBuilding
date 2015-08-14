@@ -1,0 +1,83 @@
+ID   Q6NHA4_CORDI            Unreviewed;       415 AA.
+AC   Q6NHA4;
+DT   05-JUL-2004, integrated into UniProtKB/TrEMBL.
+DT   05-JUL-2004, sequence version 1.
+DT   22-JUL-2015, entry version 69.
+DE   SubName: Full=Putative precorrin-6Y C5,15-methyltransferase {ECO:0000313|EMBL:CAE49765.1};
+GN   OrderedLocusNames=DIP1236 {ECO:0000313|EMBL:CAE49765.1};
+OS   Corynebacterium diphtheriae (strain ATCC 700971 / NCTC 13129 / Biotype
+OS   gravis).
+OC   Bacteria; Actinobacteria; Corynebacteriales; Corynebacteriaceae;
+OC   Corynebacterium.
+OX   NCBI_TaxID=257309 {ECO:0000313|Proteomes:UP000002198};
+RN   [1] {ECO:0000313|EMBL:CAE49765.1, ECO:0000313|Proteomes:UP000002198}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 700971 / NCTC 13129 / Biotype gravis
+RC   {ECO:0000313|Proteomes:UP000002198};
+RX   PubMed=14602910; DOI=10.1093/nar/gkg874;
+RA   Cerdeno-Tarraga A.M., Efstratiou A., Dover L.G., Holden M.T.G.,
+RA   Pallen M., Bentley S.D., Besra G.S., Churcher C., James K.D.,
+RA   De Zoysa A., Chillingworth T., Cronin A., Dowd L., Feltwell T.,
+RA   Hamlin N., Holroyd S., Jagels K., Moule S., Quail M.A.,
+RA   Rabbinowitsch E., Rutherford K., Thomson N.R., Unwin L., Whitehead S.,
+RA   Barrell B.G.Parkhill.J.;
+RT   "The complete genome sequence and analysis of Corynebacterium
+RT   diphtheriae NCTC13129.";
+RL   Nucleic Acids Res. 31:6516-6523(2003).
+RN   [2] {ECO:0000213|PDB:3HM2}
+RP   X-RAY CRYSTALLOGRAPHY (2.21 ANGSTROMS) OF 236-410.
+RA   Kim Y., Bigelow L., Keigher L., Joachimiak A.;
+RT   "Crystal Structure of Putative Precorrin-6Y C5,15-Methyltransferase
+RT   Targeted Domain from Corynebacterium diphtheriae.";
+RL   Submitted (MAY-2009) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; BX248357; CAE49765.1; -; Genomic_DNA.
+DR   PDB; 3HM2; X-ray; 2.21 A; A/B/C/D/E/F/G/H=236-410.
+DR   PDBsum; 3HM2; -.
+DR   ProteinModelPortal; Q6NHA4; -.
+DR   DNASU; 2649791; -.
+DR   EnsemblBacteria; CAE49765; CAE49765; DIP1236.
+DR   KEGG; cdi:DIP1236; -.
+DR   PATRIC; 21483667; VBICorDip47633_1218.
+DR   HOGENOM; HOG000260391; -.
+DR   KO; K00595; -.
+DR   OMA; MPVTQWS; -.
+DR   OrthoDB; EOG6BW4Z3; -.
+DR   EvolutionaryTrace; Q6NHA4; -.
+DR   Proteomes; UP000002198; Chromosome.
+DR   GO; GO:0008276; F:protein methyltransferase activity; IEA:InterPro.
+DR   GO; GO:0009236; P:cobalamin biosynthetic process; IEA:InterPro.
+DR   Gene3D; 3.30.950.10; -; 1.
+DR   Gene3D; 3.40.1010.10; -; 1.
+DR   Gene3D; 3.40.50.150; -; 1.
+DR   InterPro; IPR000878; 4pyrrol_Mease.
+DR   InterPro; IPR014777; 4pyrrole_Mease_sub1.
+DR   InterPro; IPR014776; 4pyrrole_Mease_sub2.
+DR   InterPro; IPR012818; Cbl_synth_CbiE.
+DR   InterPro; IPR006365; Cbl_synth_CobL.
+DR   InterPro; IPR014008; Cbl_synth_MTase_CbiT.
+DR   InterPro; IPR029063; SAM-dependent_MTases.
+DR   Pfam; PF00590; TP_methylase; 1.
+DR   PIRSF; PIRSF036428; CobL; 1.
+DR   SUPFAM; SSF53335; SSF53335; 1.
+DR   SUPFAM; SSF53790; SSF53790; 1.
+DR   TIGRFAMs; TIGR02467; CbiE; 1.
+DR   TIGRFAMs; TIGR02469; CbiT; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3HM2};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002198};
+KW   Methyltransferase {ECO:0000313|EMBL:CAE49765.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000002198};
+KW   Transferase {ECO:0000313|EMBL:CAE49765.1}.
+SQ   SEQUENCE   415 AA;  44123 MW;  AC77FBA3129BF9A9 CRC64;
+     MGRSKNDDGQ AHTGSITVVG IGAGGVEELG AQARTALRQA TIIIGSKRQL GLLPEDFQGD
+     RIAWPSPLVP AIPALFAEFI DKEVVVLGSG DPMFHGIGST LHRLLPNHSM TVIPQPSSAS
+     LACARLGWAL DTTSVYSLVT HPIAHLTLAI EQGDRFLVLG RNHESPHEIC EHLISLGQST
+     AEVTVLSDIG SVSETITSGA ATDYPSNDSA LNVIAIRPLA ATRSRVPGLP DSEYVTDGQL
+     TKQHVRALAI SALAPKPHET LWDIGGGSGS IAIEWLRSTP QTTAVCFEIS EERRERILSN
+     AINLGVSDRI AVQQGAPRAF DDVPDNPDVI FIGGGLTAPG VFAAAWKRLP VGGRLVANAV
+     TVESEQMLWA LRKQFGGTIS SFAISHEHTV GSFITMKPAL PVHQWTVVKA LTKEL
+//

@@ -1,0 +1,383 @@
+ID   PPP5_RAT                Reviewed;         499 AA.
+AC   P53042;
+DT   01-OCT-1996, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-1996, sequence version 1.
+DT   22-JUL-2015, entry version 129.
+DE   RecName: Full=Serine/threonine-protein phosphatase 5;
+DE            Short=PP5;
+DE            EC=3.1.3.16;
+DE   AltName: Full=Protein phosphatase T;
+DE            Short=PPT;
+GN   Name=Ppp5c;
+OS   Rattus norvegicus (Rat).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Rattus.
+OX   NCBI_TaxID=10116;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=Sprague-Dawley; TISSUE=Testis;
+RX   PubMed=8077208;
+RA   Becker W., Kentrup H., Klumpp S., Schultz J.E., Joost H.G.;
+RT   "Molecular cloning of a protein serine/threonine phosphatase
+RT   containing a putative regulatory tetratricopeptide repeat domain.";
+RL   J. Biol. Chem. 269:22586-22592(1994).
+RN   [2]
+RP   FUNCTION AS PHOSPHATASE, ENZYME REGULATION, AND MUTAGENESIS OF GLU-29;
+RP   LYS-32; GLU-56; ILE-63; ARG-74; GLU-76; CYS-77; TYR-80; LYS-97 AND
+RP   ARG-101.
+RX   PubMed=11523989; DOI=10.1021/bi010999i;
+RA   Kang H., Sayner S.L., Gross K.L., Russell L.C., Chinkers M.;
+RT   "Identification of amino acids in the tetratricopeptide repeat and C-
+RT   terminal domains of protein phosphatase 5 involved in autoinhibition
+RT   and lipid activation.";
+RL   Biochemistry 40:10485-10490(2001).
+RN   [3]
+RP   COFACTOR, ENZYME REGULATION, AND CATALYTIC ACTIVITY.
+RX   PubMed=11969423; DOI=10.1021/bi016090h;
+RA   Ramsey A.J., Chinkers M.;
+RT   "Identification of potential physiological activators of protein
+RT   phosphatase 5.";
+RL   Biochemistry 41:5625-5632(2002).
+RN   [4]
+RP   FUNCTION AS PHOSPHATASE, INTERACTION WITH GNA12 AND GNA13, AND
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=12176367; DOI=10.1016/S0960-9822(02)01034-5;
+RA   Yamaguchi Y., Katoh H., Mori K., Negishi M.;
+RT   "Galpha(12) and Galpha(13) interact with Ser/Thr protein phosphatase
+RT   type 5 and stimulate its phosphatase activity.";
+RL   Curr. Biol. 12:1353-1358(2002).
+RN   [5]
+RP   FUNCTION IN DEPHOSPHORYLATING MAPT, BIOPHYSICOCHEMICAL PROPERTIES, AND
+RP   TISSUE SPECIFICITY.
+RX   PubMed=15546861; DOI=10.1074/jbc.M410775200;
+RA   Liu F., Iqbal K., Grundke-Iqbal I., Rossie S., Gong C.X.;
+RT   "Dephosphorylation of tau by protein phosphatase 5: impairment in
+RT   Alzheimer's disease.";
+RL   J. Biol. Chem. 280:1790-1796(2005).
+RN   [6]
+RP   FUNCTION IN MAPK SIGNALING.
+RX   PubMed=16892053; DOI=10.1038/ncb1465;
+RA   von Kriegsheim A., Pitt A., Grindlay G.J., Kolch W., Dhillon A.S.;
+RT   "Regulation of the Raf-MEK-ERK pathway by protein phosphatase 5.";
+RL   Nat. Cell Biol. 8:1011-1016(2006).
+RN   [7]
+RP   FUNCTION IN RAC1 SIGNALING, ENZYME REGULATION, INTERACTION WITH RAC1,
+RP   AND MUTAGENESIS OF LYS-93; LYS-126 AND TYR-451.
+RX   PubMed=16549782; DOI=10.1073/pnas.0600080103;
+RA   Gentile S., Darden T., Erxleben C., Romeo C., Russo A., Martin N.,
+RA   Rossie S., Armstrong D.L.;
+RT   "Rac GTPase signaling through the PP5 protein phosphatase.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 103:5202-5206(2006).
+RN   [8]
+RP   INTERACTION WITH CRY1 AND CRY2.
+RX   PubMed=16790549; DOI=10.1073/pnas.0604138103;
+RA   Partch C.L., Shields K.F., Thompson C.L., Selby C.P., Sancar A.;
+RT   "Posttranslational regulation of the mammalian circadian clock by
+RT   cryptochrome and protein phosphatase 5.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 103:10467-10472(2006).
+RN   [9]
+RP   X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS) OF 16-499 IN COMPLEX WITH
+RP   MAGNESIUM, AND COFACTOR.
+RA   Haslbeck V., Helmuth M., Alte F., Popowicz G., Schmidt W., Weiwad M.,
+RA   Fischer G., Gemmecker G., Sattler M., Striggow F., Groll M.,
+RA   Richter K.;
+RT   "Selective targeting of the autoinhibition of PP5 reduces tau
+RT   phosphorylation in mouse.";
+RL   Submitted (FEB-2013) to the PDB data bank.
+CC   -!- FUNCTION: Serine/threonine-protein phosphatase that
+CC       dephosphorylates a myriad of proteins involved in different
+CC       signaling pathways including the kinases CSNK1E, ASK1/MAP3K5,
+CC       PRKDC and RAF1, the nuclear receptors NR3C1, PPARG, ESR1 and ESR2,
+CC       SMAD proteins and TAU/MAPT. Implicated in wide ranging cellular
+CC       processes, including apoptosis, differentiation, DNA damage
+CC       response, cell survival, regulation of ion channels or circadian
+CC       rhythms, in response to steroid and thyroid hormones, calcium,
+CC       fatty acids, TGF-beta as well as oxidative and genotoxic stresses.
+CC       Participates in the control of DNA damage response mechanisms such
+CC       as checkpoint activation and DNA damage repair through, for
+CC       instance, the regulation ATM/ATR-signaling and dephosphorylation
+CC       of PRKDC and TP53BP1. Inhibits ASK1/MAP3K5-mediated apoptosis
+CC       induced by oxidative stress. Plays a positive role in
+CC       adipogenesis, mainly through the dephosphorylation and activation
+CC       of PPARG transactivation function. Also dephosphorylates and
+CC       inhibits the anti-adipogenic effect of NR3C1. Regulates the
+CC       circadian rhythms, through the dephosphorylation and activation of
+CC       CSNK1E. May modulate TGF-beta signaling pathway by the regulation
+CC       of SMAD3 phosphorylation and protein expression levels.
+CC       Dephosphorylates and may play a role in the regulation of
+CC       TAU/MAPT. Through their dephosphorylation, may play a role in the
+CC       regulation of ions channels such as KCNH2.
+CC       {ECO:0000269|PubMed:11523989, ECO:0000269|PubMed:12176367,
+CC       ECO:0000269|PubMed:15546861, ECO:0000269|PubMed:16549782,
+CC       ECO:0000269|PubMed:16892053}.
+CC   -!- CATALYTIC ACTIVITY: [a protein]-serine/threonine phosphate + H(2)O
+CC       = [a protein]-serine/threonine + phosphate.
+CC       {ECO:0000269|PubMed:11969423}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000269|PubMed:11969423, ECO:0000269|Ref.9};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000269|PubMed:11969423, ECO:0000269|Ref.9};
+CC       Note=Binds 2 magnesium or manganese ions per subunit.
+CC       {ECO:0000269|PubMed:11969423, ECO:0000269|Ref.9};
+CC   -!- ENZYME REGULATION: Autoinhibited. In the autoinhibited state, the
+CC       TPR domain interacts with the catalytic region and prevents
+CC       substrate access to the catalytic pocket. Allosterically activated
+CC       by various polyunsaturated fatty acids, free long-chain fatty-
+CC       acids and long-chain fatty acyl-CoA esters, arachidonic acid being
+CC       the most effective activator. HSP90A and probably RAC1, GNA12 and
+CC       GNA13 can also release the autoinhibition by the TPR repeat.
+CC       Activation by RAC1, GNA12 and GNA13 is synergistic with the one
+CC       produced by fatty acids binding. Inhibited by okadaic acid.
+CC       {ECO:0000269|PubMed:11523989, ECO:0000269|PubMed:11969423,
+CC       ECO:0000269|PubMed:16549782}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=12.1 uM for MAPT/TAU (at pH 7.4 and 30 degrees Celsius)
+CC         {ECO:0000269|PubMed:15546861};
+CC   -!- SUBUNIT: Part of a complex with HSP90/HSP90AA1 and steroid
+CC       receptors. Interacts with CDC16, CDC27. Interacts with KLHDC10
+CC       (via the 6 Kelch repeats); inhibits the phosphatase activity on
+CC       MAP3K5. Interacts (via TPR repeats) with HSP90AA1 (via TPR repeat-
+CC       binding motif) or HSPA1A/HSPA1B; the interaction is direct and
+CC       activates the phosphatase activity. Dissociates from HSPA1A/HSPA1B
+CC       and HSP90AA1 in response to arachidonic acid. Interacts with ATM
+CC       and ATR; both interactions are induced by DNA damage and enhance
+CC       ATM and ATR kinase activity. Interacts with RAD17; reduced by DNA
+CC       damage. Interacts with nuclear receptors such as NR3C1/GCR and
+CC       PPARG (activated by agonist); regulates their transactivation
+CC       activities. Interacts (via TPR repeats) with S100 proteins S100A1,
+CC       S100A2, S100A6, S100B and S100P; the interactions are calcium-
+CC       dependent, strongly activate PPP5C phosphatase activity and
+CC       compete with HSP90AA1 and MAP3K5 interactions. Interacts with
+CC       SMAD2 and SMAD3 but not with SMAD1; decreases SMAD3
+CC       phosphorylation and protein levels. Interacts (via TPR repeats)
+CC       with CRY1 and CRY2; the interaction with CRY2 downregulates the
+CC       phosphatase activity on CSNK1E. Interacts (via TPR repeats) with
+CC       the active form of RAC1, GNA12 or GNA13; these interactions
+CC       activate the phosphatase activity and translocate PPP5C to the
+CC       cell membrane. {ECO:0000269|PubMed:12176367,
+CC       ECO:0000269|PubMed:16549782, ECO:0000269|PubMed:16790549,
+CC       ECO:0000269|Ref.9}.
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:12176367}.
+CC       Cytoplasm {ECO:0000269|PubMed:12176367}. Membrane {ECO:0000250}.
+CC       Note=Predominantly nuclear. But also present in the cytoplasm.
+CC   -!- TISSUE SPECIFICITY: Predominantly found in brain and, in lower
+CC       levels, in testis, but was nearly undetectable in spleen, lung,
+CC       skeletal muscle, kidney and liver. {ECO:0000269|PubMed:15546861}.
+CC   -!- PTM: Activated by at least two different proteolytic cleavages
+CC       producing a 56 kDa and a 50 kDa form. {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the PPP phosphatase family. PP-5 (PP-T)
+CC       subfamily. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 3 TPR repeats. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00339}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X77237; CAA54454.1; -; mRNA.
+DR   PIR; A55346; A55346.
+DR   RefSeq; NP_113917.1; NM_031729.1.
+DR   UniGene; Rn.6107; -.
+DR   PDB; 4JA7; X-ray; 2.00 A; A=16-499.
+DR   PDB; 4JA9; X-ray; 2.30 A; A=16-499.
+DR   PDBsum; 4JA7; -.
+DR   PDBsum; 4JA9; -.
+DR   ProteinModelPortal; P53042; -.
+DR   SMR; P53042; 23-499.
+DR   DIP; DIP-61212N; -.
+DR   STRING; 10116.ENSRNOP00000023078; -.
+DR   PRIDE; P53042; -.
+DR   Ensembl; ENSRNOT00000023078; ENSRNOP00000023078; ENSRNOG00000016907.
+DR   GeneID; 65179; -.
+DR   KEGG; rno:65179; -.
+DR   UCSC; RGD:68415; rat.
+DR   CTD; 5536; -.
+DR   RGD; 68415; Ppp5c.
+DR   eggNOG; COG0639; -.
+DR   GeneTree; ENSGT00530000063173; -.
+DR   HOGENOM; HOG000172698; -.
+DR   HOVERGEN; HBG000216; -.
+DR   InParanoid; P53042; -.
+DR   KO; K04460; -.
+DR   OMA; MNRVYGF; -.
+DR   OrthoDB; EOG7V49Z3; -.
+DR   PhylomeDB; P53042; -.
+DR   TreeFam; TF105562; -.
+DR   BRENDA; 3.1.3.16; 5301.
+DR   NextBio; 614076; -.
+DR   PRO; PR:P53042; -.
+DR   Proteomes; UP000002494; Chromosome 1.
+DR   ExpressionAtlas; P53042; baseline.
+DR   Genevisible; P53042; RN.
+DR   GO; GO:0071944; C:cell periphery; IDA:RGD.
+DR   GO; GO:0005737; C:cytoplasm; IDA:RGD.
+DR   GO; GO:0005829; C:cytosol; IDA:RGD.
+DR   GO; GO:0016020; C:membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0043005; C:neuron projection; IDA:RGD.
+DR   GO; GO:0043025; C:neuronal cell body; IDA:RGD.
+DR   GO; GO:0005654; C:nucleoplasm; IEA:Ensembl.
+DR   GO; GO:0005634; C:nucleus; IDA:RGD.
+DR   GO; GO:0043204; C:perikaryon; IDA:RGD.
+DR   GO; GO:1990635; C:proximal dendrite; IDA:RGD.
+DR   GO; GO:0001965; F:G-protein alpha-subunit binding; IDA:RGD.
+DR   GO; GO:0031072; F:heat shock protein binding; IPI:RGD.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0008017; F:microtubule binding; IDA:RGD.
+DR   GO; GO:0004721; F:phosphoprotein phosphatase activity; IDA:UniProtKB.
+DR   GO; GO:0003723; F:RNA binding; IEA:Ensembl.
+DR   GO; GO:0004871; F:signal transducer activity; IEA:Ensembl.
+DR   GO; GO:0071276; P:cellular response to cadmium ion; IEP:RGD.
+DR   GO; GO:0070301; P:cellular response to hydrogen peroxide; IEP:RGD.
+DR   GO; GO:0016576; P:histone dephosphorylation; IDA:RGD.
+DR   GO; GO:0060548; P:negative regulation of cell death; IMP:RGD.
+DR   GO; GO:1901215; P:negative regulation of neuron death; IMP:RGD.
+DR   GO; GO:0001933; P:negative regulation of protein phosphorylation; IMP:RGD.
+DR   GO; GO:2000324; P:positive regulation of glucocorticoid receptor signaling pathway; IMP:RGD.
+DR   GO; GO:0043123; P:positive regulation of I-kappaB kinase/NF-kappaB signaling; IEA:Ensembl.
+DR   GO; GO:0006470; P:protein dephosphorylation; IDA:RGD.
+DR   GO; GO:0051291; P:protein heterooligomerization; IPI:RGD.
+DR   GO; GO:0051259; P:protein oligomerization; IDA:RGD.
+DR   GO; GO:0010288; P:response to lead ion; IEP:RGD.
+DR   GO; GO:0043278; P:response to morphine; IEA:Ensembl.
+DR   Gene3D; 1.25.40.10; -; 1.
+DR   Gene3D; 3.60.21.10; -; 1.
+DR   InterPro; IPR004843; Calcineurin-like_PHP_apaH.
+DR   InterPro; IPR029052; Metallo-depent_PP-like.
+DR   InterPro; IPR013235; PPP_dom.
+DR   InterPro; IPR006186; Ser/Thr-sp_prot-phosphatase.
+DR   InterPro; IPR011236; Ser/Thr_PPase_5.
+DR   InterPro; IPR013026; TPR-contain_dom.
+DR   InterPro; IPR011990; TPR-like_helical_dom.
+DR   InterPro; IPR001440; TPR_1.
+DR   InterPro; IPR019734; TPR_repeat.
+DR   PANTHER; PTHR11668:SF12; PTHR11668:SF12; 1.
+DR   Pfam; PF00149; Metallophos; 1.
+DR   Pfam; PF08321; PPP5; 1.
+DR   Pfam; PF00515; TPR_1; 2.
+DR   PRINTS; PR00114; STPHPHTASE.
+DR   SMART; SM00156; PP2Ac; 1.
+DR   SMART; SM00028; TPR; 3.
+DR   SUPFAM; SSF56300; SSF56300; 1.
+DR   PROSITE; PS00125; SER_THR_PHOSPHATASE; 1.
+DR   PROSITE; PS50005; TPR; 3.
+DR   PROSITE; PS50293; TPR_REGION; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Complete proteome; Cytoplasm; Hydrolase;
+KW   Magnesium; Manganese; Membrane; Metal-binding; Nucleus;
+KW   Protein phosphatase; Reference proteome; Repeat; TPR repeat.
+FT   INIT_MET      1      1       Removed. {ECO:0000250|UniProtKB:P53041}.
+FT   CHAIN         2    499       Serine/threonine-protein phosphatase 5.
+FT                                /FTId=PRO_0000058897.
+FT   REPEAT       28     61       TPR 1.
+FT   REPEAT       62     95       TPR 2.
+FT   REPEAT       96    129       TPR 3.
+FT   REGION      200    499       Catalytic.
+FT   REGION      303    304       Substrate binding. {ECO:0000250}.
+FT   REGION      495    499       Required for autoinhibition.
+FT   ACT_SITE    304    304       Proton donor/acceptor. {ECO:0000250}.
+FT   METAL       242    242       Magnesium or manganese 1.
+FT                                {ECO:0000269|Ref.9}.
+FT   METAL       244    244       Magnesium or manganese 1.
+FT                                {ECO:0000269|Ref.9}.
+FT   METAL       271    271       Magnesium or manganese 1.
+FT                                {ECO:0000269|Ref.9}.
+FT   METAL       271    271       Magnesium or manganese 2.
+FT                                {ECO:0000269|Ref.9}.
+FT   METAL       303    303       Magnesium or manganese 2.
+FT                                {ECO:0000269|Ref.9}.
+FT   METAL       352    352       Magnesium or manganese 2.
+FT                                {ECO:0000269|Ref.9}.
+FT   METAL       427    427       Magnesium or manganese 2.
+FT                                {ECO:0000269|Ref.9}.
+FT   BINDING     244    244       Substrate. {ECO:0000250}.
+FT   BINDING     275    275       Substrate. {ECO:0000250}.
+FT   BINDING     400    400       Substrate. {ECO:0000250}.
+FT   BINDING     427    427       Substrate. {ECO:0000250}.
+FT   MOD_RES       2      2       N-acetylalanine.
+FT                                {ECO:0000250|UniProtKB:P53041}.
+FT   MUTAGEN      29     29       E->A: No effect on phosphatase activity.
+FT                                {ECO:0000269|PubMed:11523989}.
+FT   MUTAGEN      32     32       K->A: No effect on phosphatase activity.
+FT                                {ECO:0000269|PubMed:11523989}.
+FT   MUTAGEN      40     40       K->A: Slightly reduces activation by
+FT                                arachidonic acid.
+FT   MUTAGEN      56     56       E->A: No effect on phosphatase activity.
+FT                                {ECO:0000269|PubMed:11523989}.
+FT   MUTAGEN      63     63       I->A: No effect on phosphatase activity.
+FT                                {ECO:0000269|PubMed:11523989}.
+FT   MUTAGEN      74     74       R->A: No effect on phosphatase activity.
+FT                                {ECO:0000269|PubMed:11523989}.
+FT   MUTAGEN      76     76       E->A: Increases basal phosphatase
+FT                                activity. {ECO:0000269|PubMed:11523989}.
+FT   MUTAGEN      77     77       C->A: No effect on phosphatase activity.
+FT                                {ECO:0000269|PubMed:11523989}.
+FT   MUTAGEN      80     80       Y->A: No effect on phosphatase activity.
+FT                                {ECO:0000269|PubMed:11523989}.
+FT   MUTAGEN      93     93       K->E: Loss of inhibition of KCNH2 channel
+FT                                stimulation.
+FT                                {ECO:0000269|PubMed:16549782}.
+FT   MUTAGEN      97     97       K->A: No effect on phosphatase activity.
+FT                                {ECO:0000269|PubMed:11523989}.
+FT   MUTAGEN     101    101       R->A: No effect on phosphatase activity.
+FT                                {ECO:0000269|PubMed:11523989}.
+FT   MUTAGEN     126    126       K->A: Loss of inhibition of KCNH2 channel
+FT                                stimulation.
+FT                                {ECO:0000269|PubMed:16549782}.
+FT   MUTAGEN     451    451       Y->A: Insensitive to okadaic acid.
+FT                                {ECO:0000269|PubMed:16549782}.
+FT   HELIX        24     40       {ECO:0000244|PDB:4JA7}.
+FT   HELIX        44     57       {ECO:0000244|PDB:4JA7}.
+FT   HELIX        62     74       {ECO:0000244|PDB:4JA7}.
+FT   HELIX        78     91       {ECO:0000244|PDB:4JA7}.
+FT   HELIX        96    108       {ECO:0000244|PDB:4JA7}.
+FT   HELIX       112    125       {ECO:0000244|PDB:4JA7}.
+FT   HELIX       130    148       {ECO:0000244|PDB:4JA7}.
+FT   HELIX       161    164       {ECO:0000244|PDB:4JA7}.
+FT   HELIX       167    169       {ECO:0000244|PDB:4JA7}.
+FT   HELIX       188    199       {ECO:0000244|PDB:4JA7}.
+FT   HELIX       206    221       {ECO:0000244|PDB:4JA7}.
+FT   STRAND      225    229       {ECO:0000244|PDB:4JA7}.
+FT   STRAND      236    240       {ECO:0000244|PDB:4JA7}.
+FT   HELIX       247    257       {ECO:0000244|PDB:4JA7}.
+FT   STRAND      262    264       {ECO:0000244|PDB:4JA9}.
+FT   STRAND      266    270       {ECO:0000244|PDB:4JA7}.
+FT   STRAND      273    276       {ECO:0000244|PDB:4JA7}.
+FT   HELIX       279    292       {ECO:0000244|PDB:4JA7}.
+FT   TURN        294    296       {ECO:0000244|PDB:4JA7}.
+FT   STRAND      297    300       {ECO:0000244|PDB:4JA7}.
+FT   HELIX       307    313       {ECO:0000244|PDB:4JA7}.
+FT   HELIX       315    322       {ECO:0000244|PDB:4JA7}.
+FT   HELIX       325    335       {ECO:0000244|PDB:4JA7}.
+FT   STRAND      340    344       {ECO:0000244|PDB:4JA7}.
+FT   TURN        345    347       {ECO:0000244|PDB:4JA7}.
+FT   STRAND      348    353       {ECO:0000244|PDB:4JA7}.
+FT   STRAND      357    359       {ECO:0000244|PDB:4JA9}.
+FT   HELIX       363    367       {ECO:0000244|PDB:4JA7}.
+FT   STRAND      372    374       {ECO:0000244|PDB:4JA7}.
+FT   STRAND      377    379       {ECO:0000244|PDB:4JA7}.
+FT   HELIX       380    386       {ECO:0000244|PDB:4JA7}.
+FT   STRAND      391    397       {ECO:0000244|PDB:4JA7}.
+FT   STRAND      401    406       {ECO:0000244|PDB:4JA7}.
+FT   HELIX       408    418       {ECO:0000244|PDB:4JA7}.
+FT   STRAND      422    425       {ECO:0000244|PDB:4JA7}.
+FT   STRAND      433    437       {ECO:0000244|PDB:4JA7}.
+FT   HELIX       438    440       {ECO:0000244|PDB:4JA7}.
+FT   STRAND      442    445       {ECO:0000244|PDB:4JA7}.
+FT   HELIX       451    453       {ECO:0000244|PDB:4JA7}.
+FT   STRAND      459    465       {ECO:0000244|PDB:4JA7}.
+FT   STRAND      468    476       {ECO:0000244|PDB:4JA7}.
+FT   TURN        486    489       {ECO:0000244|PDB:4JA7}.
+FT   HELIX       492    494       {ECO:0000244|PDB:4JA9}.
+SQ   SEQUENCE   499 AA;  56917 MW;  720A7FB7AFC701D2 CRC64;
+     MAMAEGERTE CAEPPRDEPP AEGTLKRAEE LKTQANDYFK AKDYENAIKF YSQAIELNPS
+     NAIYYGNRSL AYLRTECYGY ALGDATRAIE LDKKYIKGYY RRAASNMALG KFRAALRDYE
+     TVVKVKPNDK DAKMKYQECS KIVKQKAFER AIAGDEHRRS VVDSLDIESM TIEDEYSGPK
+     LEDGKVTITF MKDLMQWYKD QKKLHRKCAY QILVQVKEVL CKLSTLVETT LKETEKITVC
+     GDTHGQFYDL LNIFELNGLP SETNPYIFNG DFVDRGSFSV EVILTLFGFK LLYPDHFHLL
+     RGNHETDNMN QIYGFEGEVK AKYTAQMYEL FSEVFEWLPL AQCINGKVLI MHGGLFSEDG
+     VTLDDIRKIE RNRQPPDSGP MCDLLWSDPQ PQNGRSVSKR GVSCQFGPDV TKAFLEENQL
+     DYIIRSHEVK AEGYEVAHGG RCVTVFSAPN YCDQMGNKAS YIHLQGSDLR PQFHQFTAVP
+     HPNVKPMAYA NTLLQLGMM
+//

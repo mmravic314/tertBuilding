@@ -1,0 +1,175 @@
+ID   MRE11_PYRFU             Reviewed;         426 AA.
+AC   Q8U1N9;
+DT   21-JUN-2004, integrated into UniProtKB/Swiss-Prot.
+DT   21-JUN-2004, sequence version 2.
+DT   04-MAR-2015, entry version 86.
+DE   RecName: Full=DNA double-strand break repair protein Mre11;
+DE   AltName: Full=pfMre11;
+GN   Name=mre11; OrderedLocusNames=PF1166;
+OS   Pyrococcus furiosus (strain ATCC 43587 / DSM 3638 / JCM 8422 / Vc1).
+OC   Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae;
+OC   Pyrococcus.
+OX   NCBI_TaxID=186497;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 43587 / DSM 3638 / JCM 8422 / Vc1;
+RX   PubMed=10430560;
+RA   Maeder D.L., Weiss R.B., Dunn D.M., Cherry J.L., Gonzalez J.M.,
+RA   DiRuggiero J., Robb F.T.;
+RT   "Divergence of the hyperthermophilic archaea Pyrococcus furiosus and
+RT   P. horikoshii inferred from complete genomic sequences.";
+RL   Genetics 152:1299-1305(1999).
+RN   [2]
+RP   FUNCTION.
+RC   STRAIN=ATCC 43587 / DSM 3638 / JCM 8422 / Vc1;
+RX   PubMed=11029422; DOI=10.1128/JB.182.21.6036-6041.2000;
+RA   Hopfner K.-P., Karcher A., Shin D., Fairley C., Tainer J.A.,
+RA   Carney J.P.;
+RT   "Mre11 and Rad50 from Pyrococcus furiosus: cloning and biochemical
+RT   characterization reveal an evolutionarily conserved multiprotein
+RT   machine.";
+RL   J. Bacteriol. 182:6036-6041(2000).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) OF 1-333, COFACTOR, AND SUBUNIT.
+RX   PubMed=11371344; DOI=10.1016/S0092-8674(01)00335-X;
+RA   Hopfner K.-P., Karcher A., Craig L., Woo T.T., Carney J.P.,
+RA   Tainer J.A.;
+RT   "Structural biochemistry and interaction architecture of the DNA
+RT   double-strand break repair Mre11 nuclease and Rad50-ATPase.";
+RL   Cell 105:473-485(2001).
+CC   -!- FUNCTION: Involved in DNA double-strand break repair (DSBR). The
+CC       Rad50/Mre11 complex possesses single-strand endonuclease activity
+CC       and ATP-dependent double-strand-specific 3'-5' exonuclease
+CC       activity. {ECO:0000269|PubMed:11029422}.
+CC   -!- COFACTOR:
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000269|PubMed:11371344};
+CC       Note=Binds 2 manganese ions per subunit.
+CC       {ECO:0000269|PubMed:11371344};
+CC   -!- SUBUNIT: Heterotetramer composed of two Mre11 subunits and two
+CC       Rad50 subunits. {ECO:0000269|PubMed:11371344}.
+CC   -!- INTERACTION:
+CC       Self; NbExp=3; IntAct=EBI-2014945, EBI-2014945;
+CC       P58301:rad50; NbExp=2; IntAct=EBI-2014945, EBI-2505704;
+CC   -!- SIMILARITY: Belongs to the MRE11/RAD32 family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAL81290.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE009950; AAL81290.1; ALT_INIT; Genomic_DNA.
+DR   RefSeq; NP_578895.1; NC_003413.1.
+DR   PDB; 1II7; X-ray; 2.20 A; A/B=1-333.
+DR   PDB; 1S8E; X-ray; 2.30 A; A/B=1-333.
+DR   PDB; 3DSC; X-ray; 2.70 A; A=1-343.
+DR   PDB; 3DSD; X-ray; 2.20 A; A/B=1-343.
+DR   PDB; 3QKR; X-ray; 3.40 A; C=348-381.
+DR   PDB; 3QKS; X-ray; 2.10 A; C=348-381.
+DR   PDB; 3QKU; X-ray; 3.30 A; C=348-381.
+DR   PDB; 4HD0; X-ray; 2.30 A; A/B=1-333.
+DR   PDBsum; 1II7; -.
+DR   PDBsum; 1S8E; -.
+DR   PDBsum; 3DSC; -.
+DR   PDBsum; 3DSD; -.
+DR   PDBsum; 3QKR; -.
+DR   PDBsum; 3QKS; -.
+DR   PDBsum; 3QKU; -.
+DR   PDBsum; 4HD0; -.
+DR   ProteinModelPortal; Q8U1N9; -.
+DR   SMR; Q8U1N9; 1-333.
+DR   DIP; DIP-52386N; -.
+DR   IntAct; Q8U1N9; 1.
+DR   STRING; 186497.PF1166; -.
+DR   PRIDE; Q8U1N9; -.
+DR   EnsemblBacteria; AAL81290; AAL81290; PF1166.
+DR   GeneID; 1469035; -.
+DR   KEGG; pfu:PF1166; -.
+DR   eggNOG; COG0420; -.
+DR   HOGENOM; HOG000073890; -.
+DR   OMA; YPIRIFE; -.
+DR   EvolutionaryTrace; Q8U1N9; -.
+DR   Proteomes; UP000001013; Chromosome.
+DR   GO; GO:0004519; F:endonuclease activity; IEA:UniProtKB-KW.
+DR   GO; GO:0004527; F:exonuclease activity; IEA:UniProtKB-KW.
+DR   GO; GO:0042802; F:identical protein binding; IPI:IntAct.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006281; P:DNA repair; IEA:UniProtKB-KW.
+DR   Gene3D; 3.60.21.10; -; 1.
+DR   InterPro; IPR004843; Calcineurin-like_PHP_apaH.
+DR   InterPro; IPR003701; DNA_repair_Mre11.
+DR   InterPro; IPR029052; Metallo-depent_PP-like.
+DR   PANTHER; PTHR10139; PTHR10139; 1.
+DR   Pfam; PF00149; Metallophos; 1.
+DR   SUPFAM; SSF56300; SSF56300; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; DNA damage; DNA repair; Endonuclease;
+KW   Exonuclease; Hydrolase; Manganese; Metal-binding; Nuclease;
+KW   Reference proteome.
+FT   CHAIN         1    426       DNA double-strand break repair protein
+FT                                Mre11.
+FT                                /FTId=PRO_0000138696.
+FT   ACT_SITE     85     85       Proton donor.
+FT   METAL         8      8       Manganese 1.
+FT                                {ECO:0000269|PubMed:11371344}.
+FT   METAL        10     10       Manganese 1.
+FT                                {ECO:0000269|PubMed:11371344}.
+FT   METAL        49     49       Manganese 1.
+FT                                {ECO:0000269|PubMed:11371344}.
+FT   METAL        49     49       Manganese 2.
+FT                                {ECO:0000269|PubMed:11371344}.
+FT   METAL        84     84       Manganese 2.
+FT                                {ECO:0000269|PubMed:11371344}.
+FT   METAL       173    173       Manganese 2.
+FT                                {ECO:0000269|PubMed:11371344}.
+FT   METAL       206    206       Manganese 2.
+FT                                {ECO:0000269|PubMed:11371344}.
+FT   METAL       208    208       Manganese 1.
+FT                                {ECO:0000269|PubMed:11371344}.
+FT   STRAND        2      6       {ECO:0000244|PDB:1II7}.
+FT   HELIX        15     17       {ECO:0000244|PDB:1II7}.
+FT   HELIX        19     38       {ECO:0000244|PDB:1II7}.
+FT   STRAND       42     48       {ECO:0000244|PDB:1II7}.
+FT   STRAND       50     55       {ECO:0000244|PDB:1II7}.
+FT   HELIX        58     72       {ECO:0000244|PDB:1II7}.
+FT   TURN         73     75       {ECO:0000244|PDB:1II7}.
+FT   STRAND       78     81       {ECO:0000244|PDB:1II7}.
+FT   TURN         84     86       {ECO:0000244|PDB:1II7}.
+FT   STRAND       89     91       {ECO:0000244|PDB:1II7}.
+FT   HELIX        94    100       {ECO:0000244|PDB:1II7}.
+FT   STRAND      108    112       {ECO:0000244|PDB:1II7}.
+FT   STRAND      116    123       {ECO:0000244|PDB:1II7}.
+FT   STRAND      129    135       {ECO:0000244|PDB:1II7}.
+FT   STRAND      138    143       {ECO:0000244|PDB:1II7}.
+FT   HELIX       148    152       {ECO:0000244|PDB:1II7}.
+FT   HELIX       157    161       {ECO:0000244|PDB:1II7}.
+FT   STRAND      166    173       {ECO:0000244|PDB:1II7}.
+FT   HELIX       177    181       {ECO:0000244|PDB:1II7}.
+FT   TURN        182    184       {ECO:0000244|PDB:1II7}.
+FT   HELIX       192    194       {ECO:0000244|PDB:1II7}.
+FT   STRAND      200    206       {ECO:0000244|PDB:1II7}.
+FT   STRAND      211    215       {ECO:0000244|PDB:1II7}.
+FT   STRAND      218    222       {ECO:0000244|PDB:1II7}.
+FT   HELIX       231    233       {ECO:0000244|PDB:1II7}.
+FT   STRAND      235    240       {ECO:0000244|PDB:1II7}.
+FT   STRAND      242    249       {ECO:0000244|PDB:1II7}.
+FT   STRAND      254    259       {ECO:0000244|PDB:1II7}.
+FT   STRAND      262    267       {ECO:0000244|PDB:1II7}.
+FT   STRAND      273    280       {ECO:0000244|PDB:1II7}.
+FT   HELIX       282    292       {ECO:0000244|PDB:1II7}.
+FT   HELIX       293    295       {ECO:0000244|PDB:1II7}.
+FT   STRAND      301    310       {ECO:0000244|PDB:1II7}.
+FT   HELIX       315    320       {ECO:0000244|PDB:1II7}.
+FT   STRAND      324    332       {ECO:0000244|PDB:1II7}.
+FT   HELIX       354    361       {ECO:0000244|PDB:3QKS}.
+FT   HELIX       370    376       {ECO:0000244|PDB:3QKS}.
+SQ   SEQUENCE   426 AA;  49456 MW;  639092C2F9C24DCD CRC64;
+     MKFAHLADIH LGYEQFHKPQ REEEFAEAFK NALEIAVQEN VDFILIAGDL FHSSRPSPGT
+     LKKAIALLQI PKEHSIPVFA IEGNHDRTQR GPSVLNLLED FGLVYVIGMR KEKVENEYLT
+     SERLGNGEYL VKGVYKDLEI HGMKYMSSAW FEANKEILKR LFRPTDNAIL MLHQGVREVS
+     EARGEDYFEI GLGDLPEGYL YYALGHIHKR YETSYSGSPV VYPGSLERWD FGDYEVRYEW
+     DGIKFKERYG VNKGFYIVED FKPRFVEIKV RPFIDVKIKG SEEEIRKAIK RLIPLIPKNA
+     YVRLNIGWRK PFDLTEIKEL LNVEYLKIDT WRIKERTDEE SGKIGLPSDF FTEFELKIID
+     ILGEKDFDDF DYIIKLITEG KVEEEGPLEE AVKKVSEEKG KTVRQKIESI PKKKRGTLDS
+     WLGGAR
+//

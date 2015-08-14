@@ -1,0 +1,144 @@
+ID   Q5AFK5_CANAL            Unreviewed;       268 AA.
+AC   Q5AFK5; Q3MPS5;
+DT   26-APR-2005, integrated into UniProtKB/TrEMBL.
+DT   26-APR-2005, sequence version 1.
+DT   24-JUN-2015, entry version 58.
+DE   RecName: Full=tRNA(His) guanylyltransferase {ECO:0000256|PIRNR:PIRNR028980};
+DE            EC=2.7.7.79 {ECO:0000256|PIRNR:PIRNR028980};
+DE   AltName: Full=tRNA-histidine guanylyltransferase {ECO:0000256|PIRNR:PIRNR028980};
+GN   Name=THG1 {ECO:0000313|EMBL:EAL01510.1};
+GN   ORFNames=CaO19.7063 {ECO:0000313|EMBL:EAL01510.1},
+GN   I503_05065 {ECO:0000313|EMBL:KHC80871.1},
+GN   orf19.7063 {ECO:0000313|CGD:CAL0002111},
+GN   W5Q_05109 {ECO:0000313|EMBL:KHC71750.1};
+OS   Candida albicans (strain SC5314 / ATCC MYA-2876) (Yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Debaryomycetaceae;
+OC   Candida/Lodderomyces clade; Candida.
+OX   NCBI_TaxID=237561 {ECO:0000313|EMBL:EAL01510.1, ECO:0000313|Proteomes:UP000000559};
+RN   [1] {ECO:0000313|EMBL:EAL01510.1, ECO:0000313|Proteomes:UP000000559}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=SC5314 {ECO:0000313|EMBL:EAL01510.1}, and
+RC   SC5314 / ATCC MYA-2876 {ECO:0000313|Proteomes:UP000000559};
+RX   PubMed=15123810; DOI=10.1073/pnas.0401648101;
+RA   Jones T., Federspiel N.A., Chibana H., Dungan J., Kalman S.,
+RA   Magee B.B., Newport G., Thorstenson Y.R., Agabian N., Magee P.T.,
+RA   Davis R.W., Scherer S.;
+RT   "The diploid genome sequence of Candida albicans.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 101:7329-7334(2004).
+RN   [2] {ECO:0000213|PDB:3WBZ, ECO:0000213|PDB:3WC0, ECO:0000213|PDB:3WC1}
+RP   X-RAY CRYSTALLOGRAPHY (2.39 ANGSTROMS) IN COMPLEX WITH ATP; GTP AND
+RP   MAGNESIUM.
+RX   PubMed=24324136;
+RA   Nakamura A., Nemoto T., Heinemann I.U., Yamashita K., Sonoda T.,
+RA   Komoda K., Tanaka I., Soll D., Yao M.;
+RT   "Structural basis of reverse nucleotide polymerization.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 110:20970-20975(2013).
+RN   [3] {ECO:0000313|EMBL:KHC71750.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=SC5314 {ECO:0000313|EMBL:KHC71750.1};
+RG   The Broad Institute Genome Sequencing Platform;
+RG   The Broad Institute Genome Sequencing Center for Infectious Disease;
+RA   Cuomo C., Bennett R., Hirakawa M., Noverr M., Mitchell A., Young S.K.,
+RA   Zeng Q., Gargeya S., Fitzgerald M., Abouelleil A., Alvarado L.,
+RA   Berlin A.M., Chapman S.B., Dewar J., Goldberg J., Griggs A., Gujja S.,
+RA   Hansen M., Howarth C., Imamovic A., Larimer J., McCowan C., Murphy C.,
+RA   Pearson M., Priest M., Roberts A., Saif S., Shea T., Sykes S.,
+RA   Wortman J., Nusbaum C., Birren B.;
+RT   "The Genome Sequence of Candida albicans SC5314.";
+RL   Submitted (JUN-2013) to the EMBL/GenBank/DDBJ databases.
+CC   -!- FUNCTION: Adds a GMP to the 5'-end of tRNA(His) after
+CC       transcription and RNase P cleavage.
+CC       {ECO:0000256|PIRNR:PIRNR028980}.
+CC   -!- CATALYTIC ACTIVITY: p-tRNA(His) + ATP + GTP = pppG-P-tRNA(His) +
+CC       AMP + diphosphate. {ECO:0000256|PIRNR:PIRNR028980}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000256|PIRNR:PIRNR028980};
+CC   -!- SIMILARITY: Belongs to the tRNA(His) guanylyltransferase family.
+CC       {ECO:0000256|PIRNR:PIRNR028980}.
+CC   -!- CAUTION: The sequence shown here is derived from an
+CC       EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is
+CC       preliminary data. {ECO:0000313|EMBL:EAL01510.1}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AACQ01000024; EAL01510.1; -; Genomic_DNA.
+DR   EMBL; AJJF01000032; KHC71750.1; -; Genomic_DNA.
+DR   EMBL; JTBX01000063; KHC80871.1; -; Genomic_DNA.
+DR   RefSeq; XP_720355.1; XM_715262.1.
+DR   RefSeq; XP_888688.1; XM_883595.1.
+DR   PDB; 3WBZ; X-ray; 2.39 A; A/B/C/D/E/F/G/H=1-268.
+DR   PDB; 3WC0; X-ray; 3.03 A; A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P=1-268.
+DR   PDB; 3WC1; X-ray; 4.18 A; A/B/C/D=1-262.
+DR   PDB; 3WC2; X-ray; 3.64 A; A/B/C/D=1-268.
+DR   PDBsum; 3WC0; -.
+DR   PDBsum; 3WC1; -.
+DR   PDBsum; 3WC2; -.
+DR   GeneID; 3637997; -.
+DR   GeneID; 3704204; -.
+DR   KEGG; cal:CaO19.7063; -.
+DR   KEGG; cal:CaO19_7063; -.
+DR   CGD; CAL0002111; orf19.7063.
+DR   eggNOG; COG4021; -.
+DR   KO; K10761; -.
+DR   OrthoDB; EOG7QVMD6; -.
+DR   Proteomes; UP000000559; Unassembled WGS sequence.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:InterPro.
+DR   GO; GO:0008193; F:tRNA guanylyltransferase activity; IBA:GO_Central.
+DR   GO; GO:0006400; P:tRNA modification; IEA:InterPro.
+DR   GO; GO:0008033; P:tRNA processing; IBA:GO_Central.
+DR   InterPro; IPR025845; Thg1_C_dom.
+DR   InterPro; IPR024956; tRNAHis_GuaTrfase_cat.
+DR   InterPro; IPR007537; tRNAHis_GuaTrfase_Thg1.
+DR   PANTHER; PTHR12729; PTHR12729; 1.
+DR   Pfam; PF04446; Thg1; 1.
+DR   Pfam; PF14413; Thg1C; 1.
+DR   PIRSF; PIRSF028980; tRNAHis_guanylyltransferase; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3WBZ, ECO:0000213|PDB:3WC0};
+KW   ATP-binding {ECO:0000213|PDB:3WBZ};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000559};
+KW   GTP-binding {ECO:0000213|PDB:3WC0, ECO:0000256|PIRNR:PIRNR028980};
+KW   Magnesium {ECO:0000213|PDB:3WBZ, ECO:0000213|PDB:3WC0};
+KW   Metal-binding {ECO:0000213|PDB:3WBZ, ECO:0000213|PDB:3WC0};
+KW   Nucleotide-binding {ECO:0000213|PDB:3WBZ, ECO:0000213|PDB:3WC0,
+KW   ECO:0000256|PIRNR:PIRNR028980};
+KW   Nucleotidyltransferase {ECO:0000256|PIRNR:PIRNR028980,
+KW   ECO:0000313|EMBL:EAL01510.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000559};
+KW   Transferase {ECO:0000256|PIRNR:PIRNR028980,
+KW   ECO:0000313|EMBL:EAL01510.1};
+KW   tRNA processing {ECO:0000256|PIRNR:PIRNR028980}.
+FT   NP_BIND      27     34       ATP. {ECO:0000213|PDB:3WBZ}.
+FT   NP_BIND      27     34       GTP. {ECO:0000213|PDB:3WC0}.
+FT   NP_BIND      44     47       ATP. {ECO:0000213|PDB:3WBZ}.
+FT   NP_BIND      92     95       ATP. {ECO:0000213|PDB:3WBZ}.
+FT   NP_BIND      92     95       GTP. {ECO:0000213|PDB:3WC0}.
+FT   METAL        29     29       Magnesium. {ECO:0000213|PDB:3WBZ,
+FT                                ECO:0000213|PDB:3WC0}.
+FT   METAL        30     30       Magnesium. {ECO:0000213|PDB:3WBZ,
+FT                                ECO:0000213|PDB:3WC0}.
+FT   METAL        76     76       Magnesium. {ECO:0000213|PDB:3WBZ,
+FT                                ECO:0000213|PDB:3WC0}.
+FT   BINDING      10     10       ATP. {ECO:0000213|PDB:3WBZ}.
+FT   BINDING      10     10       GTP. {ECO:0000213|PDB:3WC0}.
+FT   BINDING      43     43       GTP; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:3WC0}.
+FT   BINDING      47     47       GTP; via amide nitrogen.
+FT                                {ECO:0000213|PDB:3WC0}.
+FT   BINDING      76     76       ATP. {ECO:0000213|PDB:3WBZ}.
+FT   BINDING      76     76       GTP. {ECO:0000213|PDB:3WC0}.
+FT   BINDING     132    132       ATP. {ECO:0000213|PDB:3WBZ}.
+FT   BINDING     132    132       GTP. {ECO:0000213|PDB:3WC0}.
+FT   BINDING     152    152       ATP. {ECO:0000213|PDB:3WBZ}.
+SQ   SEQUENCE   268 AA;  32442 MW;  0BC7B911C05C49EB CRC64;
+     MANSKYEYVK LFEKENYLLP DTYIIIRVDG KGFHKFSQFY EFEKPNDLKA LQVMNSAAEK
+     LMSKYSDVML AYGDSDEYSF LLRKNCQLYE RREMKLTTLF SSLMSTYYMY FWSQYFPDKP
+     LHIDHLPNFD ARAVLYPDFK HIRNYFSWRQ VDCHINNLYN TTFWNLVLKL KMTPQQAEQR
+     LMGTVASDKN EILFKECGVN YNNESEMYKK GTIIVREFEN YETEDEAELS KRQVQRLEKK
+     RKKAELKIYH VDIINDDSWW KSRPWLKD
+//

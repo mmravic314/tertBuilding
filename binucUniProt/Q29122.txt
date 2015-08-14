@@ -1,0 +1,405 @@
+ID   MYO6_PIG                Reviewed;        1254 AA.
+AC   Q29122;
+DT   09-JAN-2007, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   22-JUL-2015, entry version 102.
+DE   RecName: Full=Unconventional myosin-VI;
+DE   AltName: Full=Unconventional myosin-6;
+GN   Name=MYO6;
+OS   Sus scrofa (Pig).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Suina; Suidae;
+OC   Sus.
+OX   NCBI_TaxID=9823;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], TISSUE SPECIFICITY, INTERACTION WITH
+RP   ACTN1, AND SUBCELLULAR LOCATION.
+RC   TISSUE=Kidney;
+RX   PubMed=7929586; DOI=10.1083/jcb.127.2.425;
+RA   Hasson T., Mooseker M.S.;
+RT   "Porcine myosin-VI: characterization of a new mammalian unconventional
+RT   myosin.";
+RL   J. Cell Biol. 127:425-440(1994).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Kidney;
+RX   PubMed=8022818; DOI=10.1073/pnas.91.14.6549;
+RA   Bement W.M., Hasson T., Wirth J.A., Cheney R.E., Mooseker M.S.;
+RT   "Identification and overlapping expression of multiple unconventional
+RT   myosin genes in vertebrate cell types.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 91:6549-6553(1994).
+RN   [3]
+RP   ERRATUM.
+RX   PubMed=7972138; DOI=10.1073/pnas.91.24.11767c;
+RA   Bement W.M., Hasson T., Wirth J.A., Cheney R.E., Mooseker M.S.;
+RL   Proc. Natl. Acad. Sci. U.S.A. 91:11767-11767(1994).
+RN   [4]
+RP   PHOSPHORYLATION AT THR-406, CALCIUM-BINDING, AND MUTAGENESIS OF
+RP   THR-406.
+RX   PubMed=12682054; DOI=10.1074/jbc.M208957200;
+RA   Morris C.A., Wells A.L., Yang Z., Chen L.Q., Baldacchino C.V.,
+RA   Sweeney H.L.;
+RT   "Calcium functionally uncouples the heads of myosin VI.";
+RL   J. Biol. Chem. 278:23324-23330(2003).
+RN   [5]
+RP   CALCIUM-CALMODULIN BINDING SITE.
+RX   PubMed=15037754; DOI=10.1073/pnas.0306892101;
+RA   Bahloul A., Chevreux G., Wells A.L., Martin D., Nolt J., Yang Z.,
+RA   Chen L.-Q., Potier N., van Dorsselaer A., Rosenfeld S., Houdusse A.,
+RA   Sweeney H.L.;
+RT   "The unique insert in myosin VI is a structural calcium-calmodulin
+RT   binding site.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 101:4787-4792(2004).
+RN   [6]
+RP   MUTAGENESIS OF THR-406, POSSIBLE FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=16917816; DOI=10.1002/cm.20150;
+RA   Naccache S.N., Hasson T.;
+RT   "Myosin VI altered at threonine 406 stabilizes actin filaments in
+RT   vivo.";
+RL   Cell Motil. Cytoskeleton 63:633-645(2006).
+RN   [7]
+RP   SUBUNIT, DOMAIN, AND MUTAGENESIS OF PHE-854; VAL-857; VAL-858 AND
+RP   LEU-861.
+RX   PubMed=25159143; DOI=10.1016/j.celrep.2014.07.041;
+RA   Mukherjea M., Ali M.Y., Kikuti C., Safer D., Yang Z., Sirkia H.,
+RA   Ropars V., Houdusse A., Warshaw D.M., Sweeney H.L.;
+RT   "Myosin VI must dimerize and deploy its unusual lever arm in order to
+RT   perform its cellular roles.";
+RL   Cell Rep. 8:1522-1532(2014).
+RN   [8]
+RP   X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS) OF 1-859 IN COMPLEX WITH
+RP   CALMODULIN, AND ATPASE ACTIVITY.
+RX   PubMed=15944696; DOI=10.1038/nature03592;
+RA   Menetrey J., Bahloul A., Wells A.L., Yengo C.M., Morris C.A.,
+RA   Sweeney H.L., Houdusse A.;
+RT   "The structure of the myosin VI motor reveals the mechanism of
+RT   directionality reversal.";
+RL   Nature 435:779-785(2005).
+RN   [9]
+RP   SUBUNIT, AND SAH DOMAIN.
+RX   PubMed=25122759; DOI=10.1074/jbc.M114.585679;
+RA   Wolny M., Batchelor M., Knight P.J., Paci E., Dougan L., Peckham M.;
+RT   "Stable single alpha-helices are constant force springs in proteins.";
+RL   J. Biol. Chem. 289:27825-27835(2014).
+RN   [10]
+RP   X-RAY CRYSTALLOGRAPHY (2.7 ANGSTROMS) OF 771-918, SUBUNIT, AND DOMAIN.
+RX   PubMed=19664948; DOI=10.1016/j.molcel.2009.07.010;
+RA   Mukherjea M., Llinas P., Kim H., Travaglia M., Safer D., Menetrey J.,
+RA   Franzini-Armstrong C., Selvin P.R., Houdusse A., Sweeney H.L.;
+RT   "Myosin VI dimerization triggers an unfolding of a three-helix bundle
+RT   in order to extend its reach.";
+RL   Mol. Cell 35:305-315(2009).
+CC   -!- FUNCTION: Myosins are actin-based motor molecules with ATPase
+CC       activity. Unconventional myosins serve in intracellular movements.
+CC       Myosin 6 is a reverse-direction motor protein that moves towards
+CC       the minus-end of actin filaments. Has slow rate of actin-activated
+CC       ADP release due to weak ATP binding. Functions in a variety of
+CC       intracellular processes such as vesicular membrane trafficking and
+CC       cell migration. Required for the structural integrity of the Golgi
+CC       apparatus via the p53-dependent pro-survival pathway. Appears to
+CC       be involved in a very early step of clathrin-mediated endocytosis
+CC       in polarized epithelial cells. May act as a regulator of F-actin
+CC       dynamics. May play a role in transporting DAB2 from the plasma
+CC       membrane to specific cellular targets. Required for structural
+CC       integrity of inner ear hair cells (By similarity). {ECO:0000250}.
+CC   -!- SUBUNIT: Homodimer; dimerization seems to implicate the unfolding
+CC       of the three-helix bundle region creating an additional calmodulin
+CC       binding site, and cargo binding (PubMed:25122759, PubMed:19664948,
+CC       PubMed:25159143). Binding to calmodulin through a unique insert,
+CC       not found in other myosins, located in the neck region between the
+CC       motor domain and the IQ domain appears to contribute to the
+CC       directionality reversal. This interaction occurs only if the C-
+CC       terminal lobe of calmodulin is occupied by calcium. Interaction
+CC       with F-actin/ACTN1 occurs only at the apical brush border domain
+CC       of the proximal tubule cells. Interacts with DAB2. In vitro, the
+CC       C-terminal globular tail binds a C-terminal region of DAB2.
+CC       Interacts with CFTR. Forms a complex with CFTR and DAB2 in the
+CC       apical membrane of epithelial cells. Interacts with OPTN (By
+CC       similarity). {ECO:0000250, ECO:0000305|PubMed:19664948,
+CC       ECO:0000305|PubMed:25159143}.
+CC   -!- SUBCELLULAR LOCATION: Golgi apparatus, trans-Golgi network
+CC       membrane {ECO:0000250}; Peripheral membrane protein {ECO:0000250}.
+CC       Golgi apparatus {ECO:0000250}. Nucleus {ECO:0000250}. Cytoplasm,
+CC       perinuclear region {ECO:0000250}. Note=Also present in endocyctic
+CC       vesicles, and membrane ruffles. Translocates from membrane
+CC       ruffles, endocytic vesicles and cytoplasm to Golgi apparatus,
+CC       perinuclear membrane and nucleus through induction by p53 and p53-
+CC       induced DNA damage. Recruited into membrane ruffles from cell
+CC       surface by EGF-stimulation. Colocalizes with OPTN at the Golgi
+CC       complex and in vesicular structures close to the plasma membrane
+CC       (By similarity). {ECO:0000250}.
+CC   -!- TISSUE SPECIFICITY: Expressed in all tissues examined including
+CC       kidney cortex, intestinal mucosa, liver, lung, heart, jowl muscle,
+CC       brain cortex and medulla, and in the epithelial cell line, LLC-
+CC       PK1. In the kidney, located to the brush border of adult kidney
+CC       proximal tubule cells. {ECO:0000269|PubMed:7929586}.
+CC   -!- DEVELOPMENTAL STAGE: Locates to the apical domain only during the
+CC       final stages of kidney proximal tubule development.
+CC   -!- DOMAIN: Divided into three regions: a N-terminal motor (head)
+CC       domain, followed by a neck domain consisting of a calmodulin-
+CC       binding linker domain and a single IQ motif, and a C-terminal tail
+CC       region with a three-helix bundle region, a SAH domain and a unique
+CC       globular domain required for interaction with other proteins such
+CC       as cargo-binding. {ECO:0000305}.
+CC   -!- DOMAIN: The SAH (single alpha-helix) region is characterized by a
+CC       high content of charged residues which are predicted to stabilize
+CC       the alpha-helical structure by ionic bonds. Its contribution to
+CC       the mechanism confering the myosin movement on actin filaments is
+CC       debated. {ECO:0000250|UniProtKB:Q9UM54,
+CC       ECO:0000305|PubMed:25122759}.
+CC   -!- PTM: Phosphorylation in the motor domain, induced by EGF, results
+CC       in translocation of MYO6 from the cell surface to membrane ruffles
+CC       and affects F-actin dynamics. Phosphorylated in vitro by p21-
+CC       activated kinase (PAK). {ECO:0000269|PubMed:12682054}.
+CC   -!- SIMILARITY: Belongs to the TRAFAC class myosin-kinesin ATPase
+CC       superfamily. Myosin family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 IQ domain. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 myosin motor domain. {ECO:0000305}.
+CC   -!- CAUTION: Represents an unconventional myosin. This protein should
+CC       not be confused with the conventional myosin-6 (MYH6).
+CC       {ECO:0000305}.
+CC   -!- CAUTION: Originally predicted to contain a coiled coil domain but
+CC       generally accepted to contain a stable SAH domain instead.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; Z35331; CAA84559.1; -; mRNA.
+DR   PIR; A54818; A54818.
+DR   RefSeq; NP_999186.1; NM_214021.1.
+DR   UniGene; Ssc.94; -.
+DR   PDB; 2BKH; X-ray; 2.40 A; A=2-816.
+DR   PDB; 2BKI; X-ray; 2.90 A; A=1-859.
+DR   PDB; 2V26; X-ray; 1.75 A; A=5-789.
+DR   PDB; 2VAS; X-ray; 2.40 A; A=2-816.
+DR   PDB; 2VB6; X-ray; 2.30 A; A=2-816.
+DR   PDB; 2X51; X-ray; 2.20 A; A=1-816.
+DR   PDB; 3GN4; X-ray; 2.70 A; A/E=771-918.
+DR   PDB; 3L9I; X-ray; 2.20 A; A=2-816.
+DR   PDB; 4ANJ; X-ray; 2.60 A; A=1-817.
+DR   PDB; 4DBP; X-ray; 2.20 A; A=2-816.
+DR   PDB; 4DBQ; X-ray; 2.60 A; A=2-816.
+DR   PDB; 4DBR; X-ray; 1.95 A; A=5-790.
+DR   PDBsum; 2BKH; -.
+DR   PDBsum; 2BKI; -.
+DR   PDBsum; 2V26; -.
+DR   PDBsum; 2VAS; -.
+DR   PDBsum; 2VB6; -.
+DR   PDBsum; 2X51; -.
+DR   PDBsum; 3GN4; -.
+DR   PDBsum; 3L9I; -.
+DR   PDBsum; 4ANJ; -.
+DR   PDBsum; 4DBP; -.
+DR   PDBsum; 4DBQ; -.
+DR   PDBsum; 4DBR; -.
+DR   ProteinModelPortal; Q29122; -.
+DR   SMR; Q29122; 2-826.
+DR   BioGrid; 1149220; 2.
+DR   DIP; DIP-48994N; -.
+DR   STRING; 9823.ENSSSCP00000004831; -.
+DR   PaxDb; Q29122; -.
+DR   PRIDE; Q29122; -.
+DR   GeneID; 397085; -.
+DR   KEGG; ssc:397085; -.
+DR   CTD; 4646; -.
+DR   eggNOG; COG5022; -.
+DR   HOGENOM; HOG000007806; -.
+DR   HOVERGEN; HBG003523; -.
+DR   InParanoid; Q29122; -.
+DR   KO; K10358; -.
+DR   EvolutionaryTrace; Q29122; -.
+DR   Proteomes; UP000008227; Unplaced.
+DR   Genevisible; Q29122; SS.
+DR   GO; GO:0005938; C:cell cortex; IDA:UniProtKB.
+DR   GO; GO:0005737; C:cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0016023; C:cytoplasmic membrane-bounded vesicle; ISS:UniProtKB.
+DR   GO; GO:0016591; C:DNA-directed RNA polymerase II, holoenzyme; ISS:UniProtKB.
+DR   GO; GO:0031941; C:filamentous actin; IDA:UniProtKB.
+DR   GO; GO:0005794; C:Golgi apparatus; ISS:UniProtKB.
+DR   GO; GO:0016459; C:myosin complex; IEA:UniProtKB-KW.
+DR   GO; GO:0031965; C:nuclear membrane; ISS:UniProtKB.
+DR   GO; GO:0005654; C:nucleoplasm; ISS:UniProtKB.
+DR   GO; GO:0005634; C:nucleus; ISS:UniProtKB.
+DR   GO; GO:0048471; C:perinuclear region of cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0001726; C:ruffle; ISS:UniProtKB.
+DR   GO; GO:0051015; F:actin filament binding; IDA:UniProtKB.
+DR   GO; GO:0043531; F:ADP binding; IDA:UniProtKB.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0005516; F:calmodulin binding; IPI:UniProtKB.
+DR   GO; GO:0003774; F:motor activity; IDA:UniProtKB.
+DR   GO; GO:0030048; P:actin filament-based movement; IDA:UniProtKB.
+DR   GO; GO:0030330; P:DNA damage response, signal transduction by p53 class mediator; ISS:UniProtKB.
+DR   GO; GO:0006897; P:endocytosis; IMP:UniProtKB.
+DR   GO; GO:0006886; P:intracellular protein transport; IMP:UniProtKB.
+DR   GO; GO:0008152; P:metabolic process; IDA:GOC.
+DR   GO; GO:0045944; P:positive regulation of transcription from RNA polymerase II promoter; ISS:UniProtKB.
+DR   GO; GO:0051046; P:regulation of secretion; ISS:UniProtKB.
+DR   GO; GO:0007605; P:sensory perception of sound; IEA:UniProtKB-KW.
+DR   InterPro; IPR000048; IQ_motif_EF-hand-BS.
+DR   InterPro; IPR001609; Myosin_head_motor_dom.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   Pfam; PF00063; Myosin_head; 1.
+DR   PRINTS; PR00193; MYOSINHEAVY.
+DR   SMART; SM00015; IQ; 1.
+DR   SMART; SM00242; MYSc; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+DR   PROSITE; PS51456; MYOSIN_MOTOR; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Actin-binding; ATP-binding; Calmodulin-binding;
+KW   Complete proteome; Cytoplasm; Endocytosis; Golgi apparatus; Hearing;
+KW   Membrane; Motor protein; Myosin; Nucleotide-binding; Nucleus;
+KW   Phosphoprotein; Protein transport; Reference proteome; Transport.
+FT   CHAIN         1   1254       Unconventional myosin-VI.
+FT                                /FTId=PRO_0000271746.
+FT   DOMAIN       57    772       Myosin motor.
+FT   DOMAIN      814    843       IQ.
+FT   NP_BIND     151    158       ATP. {ECO:0000255}.
+FT   REGION      273    317       Responsible for slow ATPase activity.
+FT   REGION      666    673       Actin-binding. {ECO:0000255}.
+FT   REGION      783    811       Required for binding calmodulin.
+FT   REGION      836    917       Three-helix bundle.
+FT                                {ECO:0000305|PubMed:19664948}.
+FT   REGION      918    985       SAH. {ECO:0000250|UniProtKB:Q9UM54}.
+FT   REGION     1085   1087       Interaction with OPTN.
+FT   COMPBIAS    921   1028       Glu-rich.
+FT   MOD_RES     406    406       Phosphothreonine.
+FT                                {ECO:0000269|PubMed:12682054}.
+FT   MUTAGEN     406    406       T->E: Greatly reduced phosphorylation.
+FT                                Transports uncoated endocytic vesicles to
+FT                                clusters at distinct peripheral sites and
+FT                                alters actin filament structure.
+FT                                {ECO:0000269|PubMed:12682054,
+FT                                ECO:0000269|PubMed:16917816}.
+FT   MUTAGEN     851    851       L->A: Abolishes additional calmodulin-
+FT                                binding upon unfolding three-helix
+FT                                bundle; when associated with A-854, A-
+FT                                857, A-858 and A-861.
+FT                                {ECO:0000269|PubMed:25159143}.
+FT   MUTAGEN     854    854       F->A: Abolishes additional calmodulin-
+FT                                binding upon unfolding three-helix
+FT                                bundle; when associated with A-851, A-
+FT                                857, A-858 and A-861.
+FT                                {ECO:0000269|PubMed:25159143}.
+FT   MUTAGEN     857    857       V->A: Abolishes additional calmodulin-
+FT                                binding upon unfolding three-helix
+FT                                bundle; when associated with A-851, A-
+FT                                854, A-858 and A-861.
+FT                                {ECO:0000269|PubMed:25159143}.
+FT   MUTAGEN     858    858       V->A: Abolishes additional calmodulin-
+FT                                binding upon unfolding three-helix
+FT                                bundle; when associated with A-851, A-
+FT                                851, A-857 and A-861.
+FT                                {ECO:0000269|PubMed:25159143}.
+FT   MUTAGEN     861    861       L->A: Abolishes additional calmodulin-
+FT                                binding upon unfolding three-helix
+FT                                bundle; when associated with A-851, A-
+FT                                854, A-857 and A-858.
+FT                                {ECO:0000269|PubMed:25159143}.
+FT   STRAND        7     11       {ECO:0000244|PDB:2V26}.
+FT   TURN         12     14       {ECO:0000244|PDB:2V26}.
+FT   STRAND       15     24       {ECO:0000244|PDB:2V26}.
+FT   STRAND       26     32       {ECO:0000244|PDB:2V26}.
+FT   TURN         34     36       {ECO:0000244|PDB:2BKH}.
+FT   STRAND       41     44       {ECO:0000244|PDB:2V26}.
+FT   HELIX        45     47       {ECO:0000244|PDB:2V26}.
+FT   HELIX        62     64       {ECO:0000244|PDB:2V26}.
+FT   STRAND       65     67       {ECO:0000244|PDB:2V26}.
+FT   HELIX        70     82       {ECO:0000244|PDB:2V26}.
+FT   STRAND       87     90       {ECO:0000244|PDB:2V26}.
+FT   STRAND       93     97       {ECO:0000244|PDB:2V26}.
+FT   TURN        104    107       {ECO:0000244|PDB:2V26}.
+FT   HELIX       109    115       {ECO:0000244|PDB:2V26}.
+FT   TURN        120    122       {ECO:0000244|PDB:2X51}.
+FT   HELIX       127    141       {ECO:0000244|PDB:2V26}.
+FT   STRAND      145    150       {ECO:0000244|PDB:2V26}.
+FT   HELIX       157    172       {ECO:0000244|PDB:2V26}.
+FT   STRAND      173    175       {ECO:0000244|PDB:4DBP}.
+FT   HELIX       181    184       {ECO:0000244|PDB:2V26}.
+FT   HELIX       186    193       {ECO:0000244|PDB:2V26}.
+FT   STRAND      201    204       {ECO:0000244|PDB:2BKI}.
+FT   STRAND      206    214       {ECO:0000244|PDB:2V26}.
+FT   STRAND      220    228       {ECO:0000244|PDB:2V26}.
+FT   HELIX       233    235       {ECO:0000244|PDB:2V26}.
+FT   HELIX       246    254       {ECO:0000244|PDB:2V26}.
+FT   HELIX       257    262       {ECO:0000244|PDB:2V26}.
+FT   HELIX       268    270       {ECO:0000244|PDB:2V26}.
+FT   HELIX       272    275       {ECO:0000244|PDB:2V26}.
+FT   HELIX       285    288       {ECO:0000244|PDB:2V26}.
+FT   HELIX       293    295       {ECO:0000244|PDB:2V26}.
+FT   HELIX       298    303       {ECO:0000244|PDB:2V26}.
+FT   HELIX       313    327       {ECO:0000244|PDB:2V26}.
+FT   HELIX       331    348       {ECO:0000244|PDB:2V26}.
+FT   STRAND      352    354       {ECO:0000244|PDB:2V26}.
+FT   TURN        356    359       {ECO:0000244|PDB:2V26}.
+FT   STRAND      360    364       {ECO:0000244|PDB:2V26}.
+FT   HELIX       366    368       {ECO:0000244|PDB:2V26}.
+FT   HELIX       369    377       {ECO:0000244|PDB:2V26}.
+FT   HELIX       384    392       {ECO:0000244|PDB:2V26}.
+FT   STRAND      393    395       {ECO:0000244|PDB:2V26}.
+FT   STRAND      400    403       {ECO:0000244|PDB:3L9I}.
+FT   STRAND      409    411       {ECO:0000244|PDB:2V26}.
+FT   HELIX       414    441       {ECO:0000244|PDB:2V26}.
+FT   STRAND      450    457       {ECO:0000244|PDB:2V26}.
+FT   STRAND      464    466       {ECO:0000244|PDB:2X51}.
+FT   HELIX       469    489       {ECO:0000244|PDB:2V26}.
+FT   HELIX       492    499       {ECO:0000244|PDB:2V26}.
+FT   HELIX       513    520       {ECO:0000244|PDB:2V26}.
+FT   TURN        522    524       {ECO:0000244|PDB:2V26}.
+FT   HELIX       526    535       {ECO:0000244|PDB:2V26}.
+FT   STRAND      536    538       {ECO:0000244|PDB:2V26}.
+FT   HELIX       541    551       {ECO:0000244|PDB:2V26}.
+FT   TURN        552    554       {ECO:0000244|PDB:2V26}.
+FT   STRAND      556    559       {ECO:0000244|PDB:2BKI}.
+FT   HELIX       561    563       {ECO:0000244|PDB:2V26}.
+FT   STRAND      564    566       {ECO:0000244|PDB:2VB6}.
+FT   HELIX       567    569       {ECO:0000244|PDB:2V26}.
+FT   STRAND      576    582       {ECO:0000244|PDB:2V26}.
+FT   STRAND      585    590       {ECO:0000244|PDB:2V26}.
+FT   HELIX       594    597       {ECO:0000244|PDB:2V26}.
+FT   HELIX       604    611       {ECO:0000244|PDB:2V26}.
+FT   HELIX       616    621       {ECO:0000244|PDB:2V26}.
+FT   HELIX       624    629       {ECO:0000244|PDB:2BKI}.
+FT   HELIX       634    638       {ECO:0000244|PDB:2BKI}.
+FT   HELIX       644    660       {ECO:0000244|PDB:2V26}.
+FT   STRAND      662    670       {ECO:0000244|PDB:2V26}.
+FT   HELIX       683    692       {ECO:0000244|PDB:2V26}.
+FT   HELIX       695    702       {ECO:0000244|PDB:2V26}.
+FT   STRAND      704    706       {ECO:0000244|PDB:2VAS}.
+FT   STRAND      707    711       {ECO:0000244|PDB:2V26}.
+FT   HELIX       712    719       {ECO:0000244|PDB:2V26}.
+FT   HELIX       720    722       {ECO:0000244|PDB:2V26}.
+FT   HELIX       725    728       {ECO:0000244|PDB:2V26}.
+FT   HELIX       732    742       {ECO:0000244|PDB:2V26}.
+FT   HELIX       747    749       {ECO:0000244|PDB:2V26}.
+FT   STRAND      750    752       {ECO:0000244|PDB:2V26}.
+FT   STRAND      754    759       {ECO:0000244|PDB:2V26}.
+FT   HELIX       764    771       {ECO:0000244|PDB:2V26}.
+FT   HELIX       775    788       {ECO:0000244|PDB:2V26}.
+FT   STRAND      818    820       {ECO:0000244|PDB:2BKI}.
+FT   TURN        822    825       {ECO:0000244|PDB:2BKI}.
+FT   HELIX       867    886       {ECO:0000244|PDB:3GN4}.
+FT   HELIX       893    913       {ECO:0000244|PDB:3GN4}.
+SQ   SEQUENCE   1254 AA;  144859 MW;  0A72C1A7991CF763 CRC64;
+     MEDGKPVWAP HPTDGFQVGN IVDIGPDSLT IEPLNQKGKT FLALINQVFP AEEDSKKDVE
+     DNCSLMYLNE ATLLHNIKVR YSKDRIYTYV ANILIAVNPY FDIPKIYSSE TIKSYQGKSL
+     GTMPPHVFAI ADKAFRDMKV LKLSQSIIVS GESGAGKTEN TKFVLRYLTE SYGTGQDIDD
+     RIVEANPLLE AFGNAKTVRN NNSSRFGKFV EIHFNEKSSV VGGFVSHYLL EKSRICVQGK
+     EERNYHIFYR LCAGASEDIR ERLHLSSPDN FRYLNRGCTR YFANKETDKQ ILQNRKSPEY
+     LKAGSLKDPL LDDHGDFIRM CTAMKKIGLD DEEKLDLFRV VAGVLHLGNI DFEEAGSTSG
+     GCNLKNKSTQ ALEYCAEKLL GLDQDDLRVS LTTRVMLTTA GGAKGTVIKV PLKVEQANNA
+     RDALAKTVYS HLFDHVVNRV NQCFPFETSS YFIGVLDIAG FEYFEHNSFE QFCINYCNEK
+     LQQFFNERIL KEEQELYQKE GLGVNEVHYV DNQDCIDLIE ARLVGILDIL DEENRLPQPS
+     DQHFTSAGHQ KHKDHFRLSI PRKSKLAIHR NIAYDEGFII RHFAGAVCYE TTQFVEKNND
+     ALHMSLESLI CESRDKFIRE LFESSTNNNK DTKQKAGKLS FISVGNKFKT QLNLLLDKLR
+     STGASFIRCI KPNLKMTSHH FEGAQILSQL QCSGMVSVLD LMQGGFPSRA SFHEVYNMYK
+     KSLPDKLARL DPRLFCKALF KALGLNEIDY KFGLTKVFFR PGKFAEFDQI MKSDPDHLAE
+     LVKRVNHWLI CSRWKKVQWC SLSVIKLKNK IKYRAEACIK MQKTIRMWLC KRRHKPRIDG
+     LVKVGTLKKR LDKFNEVVSA LKDGKQEMSK QVKDLEISID ALMAKIKSTM MTREQIQKEY
+     DALVKSSAVL LSALQKKKQQ EEEAERLRRI QEEMEKERKR REEDEQRRRK EEEERRMKLE
+     MEAKRKQEEE ERKKREDDEK RIQAEVEAQL ARQREEESQQ QAVLEQERRD RELALRIAQS
+     EAELISDEAQ ADPGLRRGPA VQATKAAAGT KKYDLSKWKY AELRDTINTS CDIELLAACR
+     EEFHRRLKVY HAWKSKNKKR NTETEQRAPK SVTDYAQQNP AVQLPARQQE IEMNRQQRFF
+     RIPFIRSADQ YKDPQNKKKG WWYAHFDGPW IARQMELHPD KPPILLVAGK DDMEMCELNL
+     EETGLTRKRG AEILPRQFEE IWERCGGIQY LQNAIESRQA RPTYATAMLQ NLLK
+//

@@ -1,0 +1,61 @@
+ID   P84153_RHOSH            Unreviewed;       266 AA.
+AC   P84153;
+DT   13-SEP-2004, integrated into UniProtKB/TrEMBL.
+DT   13-SEP-2004, sequence version 1.
+DT   24-JUN-2015, entry version 61.
+DE   SubName: Full=Cytochrome c oxidase polypeptide III (Cytochrome AA3 subunit 3) {ECO:0000313|PDB:1M56, ECO:0000313|PDB:1M57};
+DE            EC=1.9.3.1 {ECO:0000313|PDB:1M56, ECO:0000313|PDB:1M57};
+OS   Rhodobacter sphaeroides (Rhodopseudomonas sphaeroides).
+OC   Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales;
+OC   Rhodobacteraceae; Rhodobacter.
+OX   NCBI_TaxID=1063 {ECO:0000313|PDB:1M56, ECO:0000313|PDB:1M57};
+RN   [1] {ECO:0000213|PDB:1M56, ECO:0000213|PDB:1M57, ECO:0000313|PDB:1M56}
+RP   X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS).
+RX   PubMed=12144789; DOI=10.1016/S0022-2836(02)00619-8;
+RA   Svensson-Ek M., Abramson J., Larsson G., Tornroth S., Brzezinski P.,
+RA   Iwata S.;
+RT   "The X-ray crystal structures of wild-type and EQ(I-286) mutant
+RT   cytochrome c oxidases from Rhodobacter sphaeroides.";
+RL   J. Mol. Biol. 321:329-339(2002).
+CC   -!- SUBCELLULAR LOCATION: Cell membrane
+CC       {ECO:0000256|RuleBase:RU003376}; Multi-pass membrane protein
+CC       {ECO:0000256|RuleBase:RU003376}.
+CC   -!- SIMILARITY: Belongs to the cytochrome c oxidase subunit 3 family.
+CC       {ECO:0000256|RuleBase:RU003376}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   PDB; 1M56; X-ray; 2.30 A; C/I=1-266.
+DR   PDB; 1M57; X-ray; 3.00 A; C/I=1-266.
+DR   PDBsum; 1M56; -.
+DR   PDBsum; 1M57; -.
+DR   ProteinModelPortal; P84153; -.
+DR   SMR; P84153; 2-266.
+DR   IntAct; P84153; 1.
+DR   STRING; 349102.Rsph17025_0618; -.
+DR   EvolutionaryTrace; P84153; -.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0005886; C:plasma membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0004129; F:cytochrome-c oxidase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0019646; P:aerobic electron transport chain; IEA:InterPro.
+DR   Gene3D; 1.20.120.80; -; 1.
+DR   InterPro; IPR024791; Cyt_c/ubiquinol_Oxase_su3.
+DR   InterPro; IPR013833; Cyt_c_oxidase_su3_a-hlx.
+DR   InterPro; IPR000298; Cyt_c_oxidase_su3_dom.
+DR   PANTHER; PTHR11403; PTHR11403; 1.
+DR   Pfam; PF00510; COX3; 1.
+DR   SUPFAM; SSF81452; SSF81452; 1.
+DR   PROSITE; PS50253; COX3; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:1M56, ECO:0000213|PDB:1M57};
+KW   Membrane {ECO:0000256|RuleBase:RU003376};
+KW   Oxidoreductase {ECO:0000256|RuleBase:RU003376};
+KW   Transmembrane {ECO:0000256|RuleBase:RU003376}.
+SQ   SEQUENCE   266 AA;  30172 MW;  793C65EBBE051B35 CRC64;
+     MAHAKNHDYH ILPPSIWPFM ASVGAFVMLF GAVLWMHGSG PWMGLIGLVV VLYTMFGWWS
+     DVVTESLEGD HTPVVRLGLR WGFILFIMSE VMFFSAWFWS FFKHALYPMG PESPIIDGIF
+     PPEGIITFDP WHLPLINTLI LLCSGCAATW AHHALVHENN RRDVAWGLAL AIALGALFTV
+     FQAYEYSHAA FGFAGNIYGA NFFMATGFHG FHVIVGTIFL LVCLIRVQRG HFTPEKHVGF
+     EAAIWYWHFV DVVWLFLFAS IYIWGQ
+//

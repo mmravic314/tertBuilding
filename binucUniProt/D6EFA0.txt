@@ -1,0 +1,112 @@
+ID   D6EFA0_STRLI            Unreviewed;       343 AA.
+AC   D6EFA0;
+DT   13-JUL-2010, integrated into UniProtKB/TrEMBL.
+DT   13-JUL-2010, sequence version 1.
+DT   22-JUL-2015, entry version 28.
+DE   SubName: Full=Copper oxidase {ECO:0000313|EMBL:AIJ12008.1};
+GN   ORFNames=SLIV_04950 {ECO:0000313|EMBL:AIJ12008.1};
+OS   Streptomyces lividans TK24.
+OC   Bacteria; Actinobacteria; Streptomycetales; Streptomycetaceae;
+OC   Streptomyces.
+OX   NCBI_TaxID=457428 {ECO:0000313|EMBL:AIJ12008.1, ECO:0000313|Proteomes:UP000028682};
+RN   [1] {ECO:0000213|PDB:4GYB}
+RP   X-RAY CRYSTALLOGRAPHY (2.40 ANGSTROMS) IN COMPLEX WITH COPPER.
+RA   Gabdulkhakov A., Tischenko S., Yurevich L., Lisov A., Leontievsky A.;
+RT   "Two-domain laccase from streptomyces lividans at 2.4 A resolution
+RT   AC1709.";
+RL   Submitted (SEP-2012) to the PDB data bank.
+RN   [2] {ECO:0000213|PDB:4NB7}
+RP   X-RAY CRYSTALLOGRAPHY (2.55 ANGSTROMS) IN COMPLEX WITH COPPER.
+RA   Gabdulkhakov A., Tischenko S., Yurevich L., Lisov A., Leontievsky A.;
+RT   "Crystal Structure of Two-Domain Laccase from Streptomyces Lividans
+RT   AC1709 in complex with azide after 180 min soaking.";
+RL   Submitted (OCT-2013) to the PDB data bank.
+RN   [3] {ECO:0000213|PDB:4NAJ}
+RP   X-RAY CRYSTALLOGRAPHY (2.60 ANGSTROMS) IN COMPLEX WITH COPPER.
+RA   Gabdulkhakov A., Tischenko S., Yurevich L., Lisov A., Leontievsky A.;
+RT   "Crystal Structure of Two-Domain Laccase from Streptomyces Lividans
+RT   AC1709 in complex with azide after 90 min soaking.";
+RL   Submitted (OCT-2013) to the PDB data bank.
+RN   [4] {ECO:0000313|EMBL:AIJ12008.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=TK24 {ECO:0000313|EMBL:AIJ12008.1};
+RG   StrepSynth;
+RA   Ruckert C., Fridjonson O.H., Lambert C., van Wezel G.P., Bernaerts K.,
+RA   Anne J., Economou A., Kalinowski J.;
+RT   "Complete genome sequence of Streptomyces lividans TK24.";
+RL   Submitted (AUG-2014) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP009124; AIJ12008.1; -; Genomic_DNA.
+DR   RefSeq; WP_003972284.1; NZ_GG657756.1.
+DR   PDB; 4GYB; X-ray; 2.40 A; A=1-343.
+DR   PDB; 4NAJ; X-ray; 2.60 A; A=1-343.
+DR   PDB; 4NB7; X-ray; 2.55 A; A=1-343.
+DR   PDBsum; 4GYB; -.
+DR   ProteinModelPortal; D6EFA0; -.
+DR   EnsemblBacteria; AIJ12008; AIJ12008; SLIV_04950.
+DR   EnsemblBacteria; EFD65350; EFD65350; SSPG_00990.
+DR   KEGG; slv:SLIV_04950; -.
+DR   PATRIC; 25364344; VBIStrLiv48540_6282.
+DR   Proteomes; UP000028682; Chromosome.
+DR   GO; GO:0005507; F:copper ion binding; IEA:InterPro.
+DR   GO; GO:0016491; F:oxidoreductase activity; IEA:InterPro.
+DR   Gene3D; 2.60.40.420; -; 2.
+DR   InterPro; IPR011706; Cu-oxidase_2.
+DR   InterPro; IPR011707; Cu-oxidase_3.
+DR   InterPro; IPR002355; Cu_oxidase_Cu_BS.
+DR   InterPro; IPR008972; Cupredoxin.
+DR   InterPro; IPR006311; TAT_signal.
+DR   Pfam; PF07731; Cu-oxidase_2; 1.
+DR   Pfam; PF07732; Cu-oxidase_3; 1.
+DR   SUPFAM; SSF49503; SSF49503; 2.
+DR   PROSITE; PS00080; MULTICOPPER_OXIDASE2; 1.
+DR   PROSITE; PS51318; TAT; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4GYB, ECO:0000213|PDB:4NAJ};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000028682};
+KW   Copper {ECO:0000213|PDB:4GYB, ECO:0000213|PDB:4NAJ};
+KW   Metal-binding {ECO:0000213|PDB:4GYB, ECO:0000213|PDB:4NAJ}.
+FT   METAL       102    102       Copper 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4NAJ,
+FT                                ECO:0000213|PDB:4NB7}.
+FT   METAL       104    104       Copper 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4NAJ,
+FT                                ECO:0000213|PDB:4NB7}.
+FT   METAL       156    156       Copper 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4NAJ,
+FT                                ECO:0000213|PDB:4NB7}.
+FT   METAL       158    158       Copper 3; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4NAJ,
+FT                                ECO:0000213|PDB:4NB7}.
+FT   METAL       231    231       Copper 4; via pros nitrogen.
+FT                                {ECO:0000213|PDB:4NAJ,
+FT                                ECO:0000213|PDB:4NB7}.
+FT   METAL       234    234       Copper 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4NAJ,
+FT                                ECO:0000213|PDB:4NB7}.
+FT   METAL       236    236       Copper 1.
+FT   METAL       236    236       Copper 3; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4NAJ,
+FT                                ECO:0000213|PDB:4NB7}.
+FT   METAL       287    287       Copper 3; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4NAJ,
+FT                                ECO:0000213|PDB:4NB7}.
+FT   METAL       288    288       Copper 4. {ECO:0000213|PDB:4NAJ,
+FT                                ECO:0000213|PDB:4NB7}.
+FT   METAL       289    289       Copper 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4NAJ,
+FT                                ECO:0000213|PDB:4NB7}.
+FT   METAL       293    293       Copper 4; via pros nitrogen.
+FT                                {ECO:0000213|PDB:4NAJ,
+FT                                ECO:0000213|PDB:4NB7}.
+SQ   SEQUENCE   343 AA;  36875 MW;  9E66ECA68969CBCC CRC64;
+     MDRRGFNRRV LLGGAAAATS LSIAPEVAGA APAAKGITAR TAPAGGEVRH LKMYAEKLAD
+     GQMGYGFEKG KASVPGPLIE VNEGDTLHIE FTNTMDVRAS LHVHGLDYEI SSDGTAMNKS
+     DVEPGGTRTY TWRTHKPGRR DDGTWRPGSA GYWHYHDHVV GTEHGTGGIR NGLYGPVIVR
+     RKGDVLPDAT HTIVFNDMTI NNRKPHTGPD FEATVGDRVE IVMITHGEYY HTFHMHGHRW
+     ADNRTGILTG PDDPSRVIDN KITGPADSFG FQIIAGEGVG AGAWMYHCHV QSHSDMGMVG
+     LFLVKKPDGT IPGYEPHEHG GATAKSGESG EPTGGAAAHE HEH
+//

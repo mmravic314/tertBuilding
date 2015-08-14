@@ -1,0 +1,71 @@
+ID   A7LAI8_STAAU            Unreviewed;       330 AA.
+AC   A7LAI8;
+DT   11-SEP-2007, integrated into UniProtKB/TrEMBL.
+DT   11-SEP-2007, sequence version 1.
+DT   22-JUL-2015, entry version 39.
+DE   SubName: Full=Beta-hemolysin {ECO:0000313|EMBL:ABS19574.1};
+OS   Staphylococcus aureus.
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcus.
+OX   NCBI_TaxID=1280 {ECO:0000313|EMBL:ABS19574.1};
+RN   [1] {ECO:0000313|EMBL:ABS19574.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=Zfb {ECO:0000313|EMBL:ABS19574.1};
+RA   Yang Q., Peng G.N., Zhong J.F., Wang C.F., Yang H.J., Gao Y.D.;
+RT   "Cloning and sequencing of Staphylococcus aureus beta-hemolysin.";
+RL   Submitted (JUN-2007) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:3I41, ECO:0000213|PDB:3I46, ECO:0000213|PDB:3I48}
+RP   X-RAY CRYSTALLOGRAPHY (2.60 ANGSTROMS) OF 35-330 IN COMPLEX WITH
+RP   CALCIUM, AND DISULFIDE BONDS.
+RA   Huseby M., Shi K., Kruse A.C., Digre J., Mengistu F., Bohach G.A.,
+RA   Schlievert P.S., Ohlendorf D.H., Earhart C.A.;
+RT   "Structure and biological functions of beta toxin from Staphylococcus
+RT   aureus: Role of the hydrophobic beta hairpin in virulence.";
+RL   Submitted (JUL-2009) to the PDB data bank.
+RN   [3] {ECO:0000213|PDB:3K55}
+RP   X-RAY CRYSTALLOGRAPHY (3.35 ANGSTROMS) OF 35-330, AND DISULFIDE BONDS.
+RX   PubMed=21505235;
+RA   Kruse A.C., Huseby M.J., Shi K., Digre J., Ohlendorf D.H.,
+RA   Earhart C.A.;
+RT   "Structure of a mutant beta toxin from Staphylococcus aureus reveals
+RT   domain swapping and conformational flexibility.";
+RL   Acta Crystallogr. F 67:438-441(2011).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; EF690812; ABS19574.1; -; Genomic_DNA.
+DR   PDB; 3I41; X-ray; 1.75 A; A/B=35-330.
+DR   PDB; 3I46; X-ray; 2.60 A; A/B=35-330.
+DR   PDB; 3I48; X-ray; 1.80 A; A/B=35-330.
+DR   PDB; 3K55; X-ray; 3.35 A; A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P=35-330.
+DR   PDBsum; 3I41; -.
+DR   PDBsum; 3I46; -.
+DR   PDBsum; 3I48; -.
+DR   PDBsum; 3K55; -.
+DR   ProteinModelPortal; A7LAI8; -.
+DR   SMR; A7LAI8; 43-327.
+DR   STRING; 93062.SACOL2003; -.
+DR   EvolutionaryTrace; A7LAI8; -.
+DR   PRO; PR:A7LAI8; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0008081; F:phosphoric diester hydrolase activity; IEA:InterPro.
+DR   Gene3D; 3.60.10.10; -; 1.
+DR   InterPro; IPR005135; Endo/exonuclease/phosphatase.
+DR   InterPro; IPR017766; Sphingomyelinase/PLipase_C.
+DR   Pfam; PF03372; Exo_endo_phos; 1.
+DR   SUPFAM; SSF56219; SSF56219; 1.
+DR   TIGRFAMs; TIGR03395; sphingomy; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Calcium; Metal-binding.
+FT   METAL        86     86       Calcium 1. {ECO:0000213|PDB:3I46}.
+FT   METAL       227    227       Calcium 2. {ECO:0000213|PDB:3I46}.
+FT   DISULFID    155    191
+SQ   SEQUENCE   330 AA;  37254 MW;  3F4CBF46EBF9185B CRC64;
+     MVKKTKSNSL KKVATLALAN LLLVGALTDN SSKAESKKDD TDLKLVSHNV YMLSTVLYPN
+     WGQYKRADLI GQSSYIKNND VVIFNEAFDN GASDKLLSNV KKEYPYQTPV LGRSQSGWDK
+     TEGSYSSTVA EDGGVAIVSK YPIKEKIQHV FKSGCGFDND SNKGFVYTKI EKNGKNVHVI
+     GTHTQSEDSR CGAGHDRKIR AEQMKEISDF VKKKNIPKDE TVYIGGDLNV NKGTPEFKDM
+     LKNLNVNDVL YAGHNSTWDP QSNSIAKYNY PNGKPEHLDY IFTDKDHKQP KQLVNEVVTE
+     KPKPWDVYAF PYYYVYNDFS DHYPIKAYSK
+//

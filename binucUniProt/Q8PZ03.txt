@@ -1,0 +1,107 @@
+ID   Q8PZ03_METMA            Unreviewed;       637 AA.
+AC   Q8PZ03;
+DT   01-OCT-2002, integrated into UniProtKB/TrEMBL.
+DT   01-OCT-2002, sequence version 1.
+DT   22-JUL-2015, entry version 86.
+DE   SubName: Full=Cleavage and polyadenylation specificity factor 100 kD subunit {ECO:0000313|EMBL:AAM30391.1};
+GN   OrderedLocusNames=MM_0695 {ECO:0000313|EMBL:AAM30391.1};
+OS   Methanosarcina mazei (strain ATCC BAA-159 / DSM 3647 / Goe1 / Go1 /
+OS   JCM 11833 / OCM 88) (Methanosarcina frisia).
+OC   Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales;
+OC   Methanosarcinaceae; Methanosarcina.
+OX   NCBI_TaxID=192952 {ECO:0000313|EMBL:AAM30391.1, ECO:0000313|Proteomes:UP000000595};
+RN   [1] {ECO:0000313|EMBL:AAM30391.1, ECO:0000313|Proteomes:UP000000595}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC BAA-159 / DSM 3647 / Goe1 / Go1 / JCM 11833 / OCM 88
+RC   {ECO:0000313|Proteomes:UP000000595};
+RX   PubMed=12125824;
+RA   Deppenmeier U., Johann A., Hartsch T., Merkl R., Schmitz R.A.,
+RA   Martinez-Arias R., Henne A., Wiezer A., Baeumer S., Jacobi C.,
+RA   Brueggemann H., Lienard T., Christmann A., Boemecke M., Steckel S.,
+RA   Bhattacharyya A., Lykidis A., Overbeek R., Klenk H.-P., Gunsalus R.P.,
+RA   Fritz H.-J., Gottschalk G.;
+RT   "The genome of Methanosarcina mazei: evidence for lateral gene
+RT   transfer between Bacteria and Archaea.";
+RL   J. Mol. Microbiol. Biotechnol. 4:453-461(2002).
+RN   [2] {ECO:0000213|PDB:2XR1}
+RP   X-RAY CRYSTALLOGRAPHY (2.59 ANGSTROMS) IN COMPLEX WITH ZINC.
+RX   PubMed=20851187; DOI=10.1016/j.jsb.2010.09.013;
+RA   Mir-Montazeri B., Ammelburg M., Forouzan D., Lupas A.N.,
+RA   Hartmann M.D.;
+RT   "Crystal structure of a dimeric archaeal cleavage and polyadenylation
+RT   specificity factor.";
+RL   J. Struct. Biol. 173:191-195(2011).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE008384; AAM30391.1; -; Genomic_DNA.
+DR   RefSeq; NP_632719.1; NC_003901.1.
+DR   RefSeq; WP_011032646.1; NC_003901.1.
+DR   PDB; 2XR1; X-ray; 2.59 A; A/B=1-637.
+DR   PDBsum; 2XR1; -.
+DR   ProteinModelPortal; Q8PZ03; -.
+DR   STRING; 192952.MM_0695; -.
+DR   EnsemblBacteria; AAM30391; AAM30391; MM_0695.
+DR   GeneID; 1479037; -.
+DR   KEGG; mma:MM_0695; -.
+DR   eggNOG; COG1782; -.
+DR   HOGENOM; HOG000223261; -.
+DR   KO; K07041; -.
+DR   OMA; CDYLFIE; -.
+DR   BioCyc; MMAZ192952:GCK2-712-MONOMER; -.
+DR   Proteomes; UP000000595; Chromosome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003723; F:RNA binding; IEA:InterPro.
+DR   Gene3D; 3.60.15.10; -; 1.
+DR   InterPro; IPR001279; Beta-lactamas-like.
+DR   InterPro; IPR022712; Beta_Casp.
+DR   InterPro; IPR019975; KH-dom/beta-lactamase-dom_arc.
+DR   InterPro; IPR004087; KH_dom.
+DR   InterPro; IPR004088; KH_dom_type_1.
+DR   InterPro; IPR004044; KH_dom_type_2.
+DR   InterPro; IPR009019; KH_prok-type.
+DR   InterPro; IPR011108; RMMBL.
+DR   Pfam; PF10996; Beta-Casp; 1.
+DR   Pfam; PF07650; KH_2; 1.
+DR   Pfam; PF00753; Lactamase_B; 1.
+DR   Pfam; PF07521; RMMBL; 1.
+DR   SMART; SM01027; Beta-Casp; 1.
+DR   SMART; SM00322; KH; 1.
+DR   SMART; SM00849; Lactamase_B; 1.
+DR   SUPFAM; SSF54814; SSF54814; 1.
+DR   SUPFAM; SSF56281; SSF56281; 1.
+DR   TIGRFAMs; TIGR03675; arCOG00543; 1.
+DR   PROSITE; PS50084; KH_TYPE_1; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2XR1};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000595};
+KW   Metal-binding {ECO:0000213|PDB:2XR1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000595};
+KW   Zinc {ECO:0000213|PDB:2XR1}.
+FT   METAL       242    242       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2XR1}.
+FT   METAL       244    244       Zinc 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:2XR1}.
+FT   METAL       246    246       Zinc 2. {ECO:0000213|PDB:2XR1}.
+FT   METAL       247    247       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2XR1}.
+FT   METAL       329    329       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2XR1}.
+FT   METAL       352    352       Zinc 1. {ECO:0000213|PDB:2XR1}.
+FT   METAL       352    352       Zinc 2. {ECO:0000213|PDB:2XR1}.
+FT   METAL       604    604       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2XR1}.
+SQ   SEQUENCE   637 AA;  71750 MW;  B2CA7A3EF82D5EDE CRC64;
+     MPIEDVLLDL KHKIEKNLPA GVTITDVEFE GPQLVLYTEE PRKFADDGNI IRNLAKELRT
+     RIAMRPDPRV LATPEDSISI IEEVVPKESV ISSYYFDPDS GEVIIEAEKP GLVIGKHGAT
+     LREITKQIGW IPKVVRTPPI KSRTVKNIRE FMRNNLKERK EILKTVGRKI HRECTSKDQW
+     VRVTALGGCK EVGRSCFLLS TPESRILIDC GVNVGSDENM TPYLYVPEVF PLNQIDAVIV
+     THAHLDHQGL VPLLFKYGYE GPVYCTPPTR DLMVLLQLDY IDVAAKEGKK IPYESGMVAK
+     TLKHTIPLDY EEVTDIAPDI KLTFHNAGHI LGSAISHFHI GDGLHNVVFT GDYKYEKTRL
+     FDPAVNKFPR VETVISEATY GNANAFQPAL KDAEKHLQMV VKNTIERGGI AVIPAFAVGR
+     SQEVMIVLEE SIRKGLIPEV PVYLDGMIWE ATAIHATHPE YLNNDLRKLI FQKGQNPFLS
+     ECFKPVDSHE ARQKIIQNPQ PCVILATSGM MNGGPVMEYF KAFAEDPRNT LVFVGYQADG
+     TIGRRIQKGW KEIPMTGKNG STEMLKMNME VQVVDGFSGH SDRRQLMEYV KRMQPRPERV
+     FTEHGDEKAC VDLASSVYKK LKIETRALTN LETVRLL
+//

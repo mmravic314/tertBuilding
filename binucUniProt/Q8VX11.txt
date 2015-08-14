@@ -1,0 +1,111 @@
+ID   Q8VX11_LUPLU            Unreviewed;       615 AA.
+AC   Q8VX11;
+DT   01-MAR-2002, integrated into UniProtKB/TrEMBL.
+DT   01-MAR-2002, sequence version 1.
+DT   27-MAY-2015, entry version 49.
+DE   RecName: Full=Purple acid phosphatase {ECO:0000256|RuleBase:RU361203};
+DE            EC=3.1.3.2 {ECO:0000256|RuleBase:RU361203};
+DE   Flags: Precursor;
+GN   Name=ppd1 {ECO:0000313|EMBL:CAD12836.1};
+OS   Lupinus luteus (European yellow lupin).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+OC   Genisteae; Lupinus.
+OX   NCBI_TaxID=3873 {ECO:0000313|EMBL:CAD12836.1};
+RN   [1] {ECO:0000313|EMBL:CAD12836.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   TISSUE=Leaf {ECO:0000313|EMBL:CAD12836.1};
+RX   PubMed=12023036; DOI=10.1016/S0014-5793(02)02740-0;
+RA   Olczak M.;
+RT   "Diphosphonucleotide phosphatase/phosphodiesterase from yellow lupin
+RT   (Lupinus luteus L.) belongs to a novel group of specific
+RT   metallophosphatases.";
+RL   FEBS Lett. 519:159-163(2002).
+RN   [2] {ECO:0000213|PDB:3ZK4}
+RP   X-RAY CRYSTALLOGRAPHY (1.65 ANGSTROMS) OF 45-615 IN COMPLEX WITH IRON
+RP   AND MANGANESE, DISULFIDE BONDS, AND GLYCOSYLATION AT ASN-118; ASN-267;
+RP   ASN-318; ASN-530 AND ASN-551.
+RX   PubMed=25075326;
+RA   Antonyuk S.V., Olczak M., Olczak T., Ciuraszkiewicz J., Strange R.W.;
+RT   "The structure of a purple acid phosphatase involved in plant growth
+RT   and pathogen defence exhibits a novel immunoglobulin-like fold.";
+RL   IUCrJ 1:101-109(2014).
+CC   -!- CATALYTIC ACTIVITY: A phosphate monoester + H(2)O = an alcohol +
+CC       phosphate. {ECO:0000256|RuleBase:RU361203}.
+CC   -!- SIMILARITY: Belongs to the metallophosphoesterase superfamily.
+CC       Purple acid phosphatase family. {ECO:0000256|RuleBase:RU361203}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AJ421009; CAD12836.1; -; mRNA.
+DR   PDB; 3ZK4; X-ray; 1.65 A; A/B/C=45-615.
+DR   PDBsum; 3ZK4; -.
+DR   ProteinModelPortal; Q8VX11; -.
+DR   GO; GO:0003993; F:acid phosphatase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 2.60.40.380; -; 1.
+DR   Gene3D; 3.60.21.10; -; 1.
+DR   InterPro; IPR004843; Calcineurin-like_PHP_apaH.
+DR   InterPro; IPR029052; Metallo-depent_PP-like.
+DR   InterPro; IPR008963; Purple_acid_Pase-like_N.
+DR   InterPro; IPR015914; Purple_acid_Pase_N.
+DR   InterPro; IPR025733; Purple_acid_PPase_C_dom.
+DR   Pfam; PF00149; Metallophos; 1.
+DR   Pfam; PF14008; Metallophos_C; 1.
+DR   SUPFAM; SSF49363; SSF49363; 1.
+DR   SUPFAM; SSF56300; SSF56300; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3ZK4};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361203};
+KW   Iron {ECO:0000213|PDB:3ZK4}; Manganese {ECO:0000213|PDB:3ZK4};
+KW   Metal-binding {ECO:0000213|PDB:3ZK4};
+KW   Signal {ECO:0000256|RuleBase:RU361203, ECO:0000313|EMBL:CAD12836.1}.
+FT   SIGNAL        1     26       {ECO:0000256|RuleBase:RU361203}.
+FT   SIGNAL        1     26       Potential. {ECO:0000313|EMBL:CAD12836.1}.
+FT   CHAIN        27    615       Purple acid phosphatase.
+FT                                {ECO:0000256|RuleBase:RU361203}.
+FT                                /FTId=PRO_5001353746.
+FT   CHAIN        27    615       diphosphonucleotide phosphatase 1.
+FT                                {ECO:0000313|EMBL:CAD12836.1}.
+FT                                /FTId=PRO_5000068151.
+FT   METAL       297    297       Iron. {ECO:0000213|PDB:3ZK4}.
+FT   METAL       338    338       Iron. {ECO:0000213|PDB:3ZK4}.
+FT   METAL       338    338       Manganese. {ECO:0000213|PDB:3ZK4}.
+FT   METAL       341    341       Iron. {ECO:0000213|PDB:3ZK4}.
+FT   METAL       371    371       Manganese. {ECO:0000213|PDB:3ZK4}.
+FT   METAL       460    460       Manganese; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3ZK4}.
+FT   METAL       502    502       Manganese; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3ZK4}.
+FT   METAL       504    504       Iron; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3ZK4}.
+FT   CARBOHYD    118    118       N-linked (GlcNAc...).
+FT                                {ECO:0000213|PDB:3ZK4}.
+FT   CARBOHYD    267    267       N-linked (GlcNAc...).
+FT                                {ECO:0000213|PDB:3ZK4}.
+FT   CARBOHYD    318    318       N-linked (GlcNAc...).
+FT                                {ECO:0000213|PDB:3ZK4}.
+FT   CARBOHYD    530    530       N-linked (GlcNAc...).
+FT                                {ECO:0000213|PDB:3ZK4}.
+FT   CARBOHYD    551    551       N-linked (GlcNAc...).
+FT                                {ECO:0000213|PDB:3ZK4}.
+FT   DISULFID     95    108       {ECO:0000213|PDB:3ZK4}.
+FT   DISULFID    228    392       {ECO:0000213|PDB:3ZK4}.
+FT   DISULFID    422    443       {ECO:0000213|PDB:3ZK4}.
+FT   DISULFID    510    517       {ECO:0000213|PDB:3ZK4}.
+FT   DISULFID    603    608       {ECO:0000213|PDB:3ZK4}.
+SQ   SEQUENCE   615 AA;  69499 MW;  E52FAA431B6BC509 CRC64;
+     MMVEMEKSRM VFLYLLLVAT FQQAVSDDTQ PLSKVAIHKT VFAIDEHAYI KATPNVLGFE
+     GHYTEWVTLQ YSNNKPSIDD WIGVFSPANF SASTCPGENK MTNPPFLCSA PIKFQYANFS
+     SHSYKDTGKG SLKLQLINQR SDFSFALFTG GLTNPKLIAV SNKVSFVNPN APVYPRLAQG
+     KTWDEITVTW TSGYDINDAE PFVEWGPKEG NLVKTPAGTL TFDRNTMCGA PARTVGWRDP
+     GYIHTSFLKE LWPNREYTYK LGHRLFNGTT IWSKEYHFKA SPYPGQSSVQ RVVIFGDMGK
+     AEADGSNEYN NFQPGSLNTT KQIIQDLEDI DIVFHIGDLC YANGYISQWD QFTAQIEPIA
+     STVPYMTASG NHERDWPGTG SFYGNLDSGG ECGVPAQTMF FVPAENREKF WYSTDYGMFR
+     FCIAHTELDW RKGTEQYEFI EKCLASVDRQ KQPWLIFLAH RVLGYSSAGF YVQEGSFEEP
+     MGREDLQHLW QKYKVDIAMY GHVHNYERTC PIYQNVCTNK EKHNYKGNLN GTIHVVVGGG
+     GASLAEFAPI NTTWSIFKDH DFGFVKLTAF DHSNLLLEYR KSSDGQVYDS FTISRDYRDI
+     LACSVDSCPT TTLAS
+//

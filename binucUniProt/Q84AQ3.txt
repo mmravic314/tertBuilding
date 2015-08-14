@@ -1,0 +1,53 @@
+ID   Q84AQ3_PSEST            Unreviewed;        89 AA.
+AC   Q84AQ3;
+DT   01-JUN-2003, integrated into UniProtKB/TrEMBL.
+DT   01-JUN-2003, sequence version 1.
+DT   27-MAY-2015, entry version 35.
+DE   SubName: Full=Phenol hydroxylase component phM {ECO:0000313|EMBL:AAO47357.1};
+GN   Name=phM {ECO:0000313|EMBL:AAO47357.1};
+OS   Pseudomonas stutzeri (Pseudomonas perfectomarina).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+OC   Pseudomonadaceae; Pseudomonas.
+OX   NCBI_TaxID=316 {ECO:0000313|EMBL:AAO47357.1};
+RN   [1] {ECO:0000313|EMBL:AAO47357.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=OX1 {ECO:0000313|EMBL:AAO47357.1};
+RX   PubMed=15066815; DOI=10.1128/AEM.70.4.2211-2219.2004;
+RA   Cafaro V., Izzo V., Scognamiglio R., Notomista E., Capasso P.,
+RA   Casbarra A., Pucci P., Di Donato A.;
+RT   "Phenol hydroxylase and toluene/o-xylene monooxygenase from
+RT   Pseudomonas stutzeri OX1: interplay between two enzymes.";
+RL   Appl. Environ. Microbiol. 70:2211-2219(2004).
+RN   [2] {ECO:0000213|PDB:2INN, ECO:0000213|PDB:2INP}
+RP   X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS).
+RX   PubMed=17176061; DOI=10.1021/bi0618969;
+RA   Sazinsky M.H., Dunten P.W., McCormick M.S., DiDonato A., Lippard S.J.;
+RT   "X-ray structure of a hydroxylase-regulatory protein complex from a
+RT   hydrocarbon-oxidizing multicomponent monooxygenase, Pseudomonas sp.
+RT   OX1 phenol hydroxylase.";
+RL   Biochemistry 45:15392-15404(2006).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AY205602; AAO47357.1; -; Genomic_DNA.
+DR   PDB; 2INN; X-ray; 2.70 A; L=1-89.
+DR   PDB; 2INP; X-ray; 2.30 A; L=1-89.
+DR   PDBsum; 2INN; -.
+DR   PDBsum; 2INP; -.
+DR   ProteinModelPortal; Q84AQ3; -.
+DR   SMR; Q84AQ3; 3-89.
+DR   EvolutionaryTrace; Q84AQ3; -.
+DR   GO; GO:0004497; F:monooxygenase activity; IEA:InterPro.
+DR   GO; GO:0006725; P:cellular aromatic compound metabolic process; IEA:InterPro.
+DR   Gene3D; 3.90.56.10; -; 1.
+DR   InterPro; IPR003454; mOase_MmoB_DmpM.
+DR   Pfam; PF02406; MmoB_DmpM; 1.
+DR   ProDom; PD004249; mOase_MmoB_DmpM; 1.
+DR   SUPFAM; SSF56029; SSF56029; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2INN, ECO:0000213|PDB:2INP}.
+SQ   SEQUENCE   89 AA;  10480 MW;  8B5BDB389C241CEC CRC64;
+     MSQLVFIVFQ DNDDSRYLAE AVMEDNPDAE MQHQPAMIRI QAEKRLVINR ETMEEKLGRD
+     WDVQEMLINV ISIAGNVDED DDHFILEWN
+//

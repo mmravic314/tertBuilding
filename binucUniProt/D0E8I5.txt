@@ -1,0 +1,93 @@
+ID   D0E8I5_9BACT            Unreviewed;       190 AA.
+AC   D0E8I5;
+DT   24-NOV-2009, integrated into UniProtKB/TrEMBL.
+DT   24-NOV-2009, sequence version 1.
+DT   29-APR-2015, entry version 23.
+DE   SubName: Full=Predicted HD phosphohydrolase PhnZ {ECO:0000313|EMBL:ACU83550.1};
+GN   ORFNames=ALOHA_HF130_AEPn_1_06c {ECO:0000313|EMBL:ACU83550.1};
+OS   uncultured bacterium HF130_AEPn_1.
+OC   Bacteria; environmental samples.
+OX   NCBI_TaxID=663362 {ECO:0000313|EMBL:ACU83550.1};
+RN   [1] {ECO:0000313|EMBL:ACU83550.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=19788654; DOI=10.1111/j.1462-2920.2009.02062.x;
+RA   Martinez A., Tyson G.W., DeLong E.F.;
+RT   "Widespread known and novel phosphonate utilization pathways in marine
+RT   bacteria revealed by functional screening and metagenomic analyses.";
+RL   Environ. Microbiol. 12:222-238(2010).
+RN   [2] {ECO:0000213|PDB:4N6W, ECO:0000213|PDB:4N71}
+RP   X-RAY CRYSTALLOGRAPHY (1.85 ANGSTROMS) IN COMPLEX WITH IRON.
+RX   PubMed=24198335;
+RA   Worsdorfer B., Lingaraju M., Yennawar N.H., Boal A.K., Krebs C.,
+RA   Bollinger J.M., Pandelia M.E.;
+RT   "Organophosphonate-degrading PhnZ reveals an emerging family of HD
+RT   domain mixed-valent diiron oxygenases.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 110:18874-18879(2013).
+RN   [3] {ECO:0000213|PDB:4MLM, ECO:0000213|PDB:4MLN}
+RP   X-RAY CRYSTALLOGRAPHY (1.70 ANGSTROMS) IN COMPLEX WITH IRON.
+RX   PubMed=24706911;
+RA   van Staalduinen L.M., McSorley F.R., Schiessl K., Seguin J.,
+RA   Wyatt P.B., Hammerschmidt F., Zechel D.L., Jia Z.;
+RT   "Crystal structure of PhnZ in complex with substrate reveals a di-iron
+RT   oxygenase mechanism for catabolism of organophosphonates.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 111:5171-5176(2014).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; GQ422594; ACU83550.1; -; Genomic_DNA.
+DR   PDB; 4MLM; X-ray; 1.70 A; A/B=1-190.
+DR   PDB; 4MLN; X-ray; 2.10 A; A/B=1-190.
+DR   PDB; 4N6W; X-ray; 1.85 A; A=1-190.
+DR   PDB; 4N71; X-ray; 2.98 A; A/B/D/E=1-190.
+DR   PDBsum; 4MLM; -.
+DR   PDBsum; 4MLN; -.
+DR   PDBsum; 4N6W; -.
+DR   PDBsum; 4N71; -.
+DR   BioCyc; MetaCyc:MONOMER-18485; -.
+DR   GO; GO:0016787; F:hydrolase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.3210.10; -; 1.
+DR   InterPro; IPR003607; HD/PDEase_dom.
+DR   InterPro; IPR006674; HD_domain.
+DR   InterPro; IPR006675; HDIG_dom.
+DR   Pfam; PF01966; HD; 1.
+DR   SMART; SM00471; HDc; 1.
+DR   TIGRFAMs; TIGR00277; HDIG; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4MLM, ECO:0000213|PDB:4MLN};
+KW   Hydrolase {ECO:0000313|EMBL:ACU83550.1};
+KW   Iron {ECO:0000213|PDB:4MLM, ECO:0000213|PDB:4MLN};
+KW   Metal-binding {ECO:0000213|PDB:4MLM, ECO:0000213|PDB:4MLN}.
+FT   METAL        24     24       Iron 1. {ECO:0000213|PDB:4MLM}.
+FT   METAL        34     34       Iron 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4MLM,
+FT                                ECO:0000213|PDB:4MLN,
+FT                                ECO:0000213|PDB:4N6W}.
+FT   METAL        58     58       Iron 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4MLM,
+FT                                ECO:0000213|PDB:4MLN,
+FT                                ECO:0000213|PDB:4N6W}.
+FT   METAL        59     59       Iron 1. {ECO:0000213|PDB:4MLM,
+FT                                ECO:0000213|PDB:4MLN,
+FT                                ECO:0000213|PDB:4N6W}.
+FT   METAL        59     59       Iron 2. {ECO:0000213|PDB:4MLM,
+FT                                ECO:0000213|PDB:4MLN,
+FT                                ECO:0000213|PDB:4N6W}.
+FT   METAL        80     80       Iron 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4MLM,
+FT                                ECO:0000213|PDB:4MLN,
+FT                                ECO:0000213|PDB:4N6W}.
+FT   METAL       104    104       Iron 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4MLM,
+FT                                ECO:0000213|PDB:4MLN,
+FT                                ECO:0000213|PDB:4N6W}.
+FT   METAL       161    161       Iron 1. {ECO:0000213|PDB:4MLM,
+FT                                ECO:0000213|PDB:4MLN,
+FT                                ECO:0000213|PDB:4N6W}.
+SQ   SEQUENCE   190 AA;  21586 MW;  34F63C582F08EBB5 CRC64;
+     MSLSNSSKVS VLISLLEKSR DLDYIGEAIN QLEHSLQCAY FAQRSGADNE MVLAALLHDL
+     GHYCNDTSFE DMGGYGVWQH EKVGADYLRG LGFSERVACL IEGHVAAKRY LVSSKASYLK
+     NLSDASRKTL EYQGGPMDEG ERRLFEERED FKDCLKIRAW DEKGKQTDLK VPGPEHYRKM
+     MEEHLSENQN
+//

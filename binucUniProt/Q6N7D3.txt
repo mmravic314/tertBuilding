@@ -1,0 +1,85 @@
+ID   Q6N7D3_RHOPA            Unreviewed;       432 AA.
+AC   Q6N7D3;
+DT   05-JUL-2004, integrated into UniProtKB/TrEMBL.
+DT   05-JUL-2004, sequence version 1.
+DT   22-JUL-2015, entry version 71.
+DE   SubName: Full=Possible acetylornithine deacetylase {ECO:0000313|EMBL:CAE27766.1};
+DE            EC=3.5.1.16 {ECO:0000313|EMBL:CAE27766.1};
+GN   OrderedLocusNames=RPA2325 {ECO:0000313|EMBL:CAE27766.1};
+OS   Rhodopseudomonas palustris (strain ATCC BAA-98 / CGA009).
+OC   Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales;
+OC   Bradyrhizobiaceae; Rhodopseudomonas.
+OX   NCBI_TaxID=258594 {ECO:0000313|EMBL:CAE27766.1, ECO:0000313|Proteomes:UP000001426};
+RN   [1] {ECO:0000313|EMBL:CAE27766.1, ECO:0000313|Proteomes:UP000001426}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC BAA-98 / CGA009 {ECO:0000313|Proteomes:UP000001426};
+RX   PubMed=14704707; DOI=10.1038/nbt923;
+RA   Larimer F.W., Chain P., Hauser L., Lamerdin J., Malfatti S., Do L.,
+RA   Land M.L., Pelletier D.A., Beatty T.J., Lang A.S., Tabita F.R.,
+RA   Gibson J.L., Hanson T.E., Torres y Torres J., Peres C., Harrison F.H.,
+RA   Gibson J., Harwood C.S.;
+RT   "Complete genome sequence of the metabolically versatile
+RT   photosynthetic bacterium Rhodopseudomonas palustris.";
+RL   Nat. Biotechnol. 22:55-61(2004).
+RN   [2] {ECO:0000213|PDB:3PFO}
+RP   X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS) IN COMPLEX WITH ZINC.
+RG   Joint Center for Structural Genomics (JCSG);
+RT   "Crystal structure of a putative acetylornithine deacetylase (RPA2325)
+RT   from RHODOPSEUDOMONAS PALUSTRIS CGA009 at 1.90 A resolution.";
+RL   Submitted (OCT-2010) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; BX572600; CAE27766.1; -; Genomic_DNA.
+DR   RefSeq; WP_011157878.1; NC_005296.1.
+DR   PDB; 3PFO; X-ray; 1.90 A; A/B=1-432.
+DR   ProteinModelPortal; Q6N7D3; -.
+DR   STRING; 258594.RPA2325; -.
+DR   DNASU; 2690966; -.
+DR   EnsemblBacteria; CAE27766; CAE27766; RPA2325.
+DR   KEGG; rpa:RPA2325; -.
+DR   PATRIC; 23289019; VBIRhoPal84835_2445.
+DR   HOGENOM; HOG000243775; -.
+DR   KO; K01438; -.
+DR   OMA; LFTQIAN; -.
+DR   OrthoDB; EOG6XM77Q; -.
+DR   PhylomeDB; Q6N7D3; -.
+DR   EvolutionaryTrace; Q6N7D3; -.
+DR   Proteomes; UP000001426; Chromosome.
+DR   GO; GO:0008777; F:acetylornithine deacetylase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0016813; F:hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amidines; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.30.70.360; -; 1.
+DR   InterPro; IPR010182; ArgE/DapE.
+DR   InterPro; IPR002933; Peptidase_M20.
+DR   InterPro; IPR011650; Peptidase_M20_dimer.
+DR   Pfam; PF07687; M20_dimer; 1.
+DR   Pfam; PF01546; Peptidase_M20; 1.
+DR   SUPFAM; SSF55031; SSF55031; 1.
+DR   TIGRFAMs; TIGR01910; DapE-ArgE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3PFO};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001426};
+KW   Hydrolase {ECO:0000313|EMBL:CAE27766.1};
+KW   Metal-binding {ECO:0000213|PDB:3PFO};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001426};
+KW   Zinc {ECO:0000213|PDB:3PFO}.
+FT   METAL       110    110       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3PFO}.
+FT   METAL       143    143       Zinc 1. {ECO:0000213|PDB:3PFO}.
+FT   METAL       143    143       Zinc 2. {ECO:0000213|PDB:3PFO}.
+FT   METAL       178    178       Zinc 2. {ECO:0000213|PDB:3PFO}.
+FT   METAL       201    201       Zinc 1. {ECO:0000213|PDB:3PFO}.
+FT   METAL       401    401       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3PFO}.
+SQ   SEQUENCE   432 AA;  46918 MW;  E038D8C38596C4C7 CRC64;
+     MATETLTKSD AITQSLRAAV DRNFNDQVAF LQRMVQFRSV RGEEAPQQEW LAQQFADRGY
+     KVDTFSLADV DIASHPKAAP MDTIDPAGSM QVVATADSDG KGRSLILQGH IDVVPEGPVD
+     LWSDPPYEAK VRDGWMIGRG AQDMKGGVSA MIFALDAIRT AGYAPDARVH VQTVTEEEST
+     GNGALSTLMR GYRADACLIP EPTGHTLTRA QVGAVWFRLR VRGTPVHVAY SETGTSAILS
+     AMHLIRAFEE YTKELNAQAV RDPWFGQVKN PIKFNVGIIK GGDWASSTAA WCELDCRLGL
+     LTGDTPQEAM RGIEKCLADA QATDSFLSEN PAELVWSGFQ ADPAVCEPGG VAEDVLTAAH
+     KAAFNAPLDA RLSTAVNDTR YYSVDYGIPA LCYGPYGQGP HAFDERIDLE SLRKTTLSIA
+     LFVAEWCGLR KL
+//

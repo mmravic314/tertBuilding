@@ -1,0 +1,186 @@
+ID   RPOA_THET8              Reviewed;         315 AA.
+AC   Q5SHR6;
+DT   24-MAY-2005, integrated into UniProtKB/Swiss-Prot.
+DT   21-DEC-2004, sequence version 1.
+DT   29-APR-2015, entry version 80.
+DE   RecName: Full=DNA-directed RNA polymerase subunit alpha;
+DE            Short=RNAP subunit alpha;
+DE            EC=2.7.7.6;
+DE   AltName: Full=RNA polymerase subunit alpha;
+DE   AltName: Full=Transcriptase subunit alpha;
+GN   Name=rpoA; OrderedLocusNames=TTHA1664;
+OS   Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579).
+OC   Bacteria; Deinococcus-Thermus; Deinococci; Thermales; Thermaceae;
+OC   Thermus.
+OX   NCBI_TaxID=300852;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=9880810; DOI=10.1093/oxfordjournals.jbchem.a022251;
+RA   Wada T., Yamazaki T., Kuramitsu S., Kyogoku Y.;
+RT   "Cloning of the RNA polymerase alpha subunit gene from Thermus
+RT   thermophilus HB8 and characterization of the protein.";
+RL   J. Biochem. 125:143-150(1999).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=HB8 / ATCC 27634 / DSM 579;
+RA   Masui R., Kurokawa K., Nakagawa N., Tokunaga F., Koyama Y.,
+RA   Shibata T., Oshima T., Yokoyama S., Yasunaga T., Kuramitsu S.;
+RT   "Complete genome sequence of Thermus thermophilus HB8.";
+RL   Submitted (NOV-2004) to the EMBL/GenBank/DDBJ databases.
+CC   -!- FUNCTION: DNA-dependent RNA polymerase catalyzes the transcription
+CC       of DNA into RNA using the four ribonucleoside triphosphates as
+CC       substrates.
+CC   -!- CATALYTIC ACTIVITY: Nucleoside triphosphate + RNA(n) = diphosphate
+CC       + RNA(n+1).
+CC   -!- SUBUNIT: Homodimer. The RNAP catalytic core consists of 2 alpha, 1
+CC       beta, 1 beta' and 1 omega subunit. When a sigma factor is
+CC       associated with the core the holoenzyme is formed, which can
+CC       initiate transcription (By similarity). {ECO:0000250}.
+CC   -!- DOMAIN: The N-terminal domain is essential for RNAP assembly and
+CC       basal transcription, whereas the C-terminal domain is involved in
+CC       interaction with transcriptional regulators and with upstream
+CC       promoter elements. {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the RNA polymerase alpha chain family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AB024328; BAA75549.1; -; Genomic_DNA.
+DR   EMBL; AP008226; BAD71487.1; -; Genomic_DNA.
+DR   RefSeq; WP_011173698.1; NC_006461.1.
+DR   RefSeq; YP_144930.1; NC_006461.1.
+DR   PDB; 1ZYR; X-ray; 3.00 A; A/B/K/L=1-315.
+DR   PDB; 2A68; X-ray; 2.50 A; A/B/K/L=1-315.
+DR   PDB; 2A69; X-ray; 2.50 A; A/B/K/L=1-315.
+DR   PDB; 2A6E; X-ray; 2.80 A; A/B/K/L=1-315.
+DR   PDB; 2A6H; X-ray; 2.40 A; A/B/K/L=1-315.
+DR   PDB; 2BE5; X-ray; 2.40 A; A/B/K/L=1-315.
+DR   PDB; 2CW0; X-ray; 3.30 A; A/B/K/L=1-315.
+DR   PDB; 2O5I; X-ray; 2.50 A; A/B/K/L=1-315.
+DR   PDB; 2O5J; X-ray; 3.00 A; A/B/K/L=1-315.
+DR   PDB; 3AOH; X-ray; 4.10 A; A/B/F/G/K/L=1-315.
+DR   PDB; 3AOI; X-ray; 4.30 A; A/B/F/G/K/L=1-315.
+DR   PDB; 3DXJ; X-ray; 3.00 A; A/B/K/L=1-315.
+DR   PDB; 3WOD; X-ray; 3.60 A; A/B=1-315.
+DR   PDB; 4G7H; X-ray; 2.90 A; A/B/K/L=1-315.
+DR   PDB; 4G7O; X-ray; 2.99 A; A/B/K/L=1-315.
+DR   PDB; 4G7Z; X-ray; 3.82 A; A/B/K/L=1-315.
+DR   PDB; 4GZY; X-ray; 3.51 A; A/B=1-315.
+DR   PDB; 4GZZ; X-ray; 4.29 A; A/B=1-315.
+DR   PDB; 4MQ9; X-ray; 3.35 A; A/B=1-314.
+DR   PDB; 4OIN; X-ray; 2.80 A; A/B=1-315.
+DR   PDB; 4OIO; X-ray; 3.10 A; A/B=1-315.
+DR   PDB; 4OIP; X-ray; 3.40 A; A/B=1-315.
+DR   PDB; 4OIQ; X-ray; 3.62 A; A/B=1-315.
+DR   PDB; 4OIR; X-ray; 3.10 A; A/B=1-305.
+DR   PDB; 4WQS; X-ray; 4.31 A; A/B/K/L=1-315.
+DR   PDB; 4WQT; X-ray; 4.40 A; A/B/F/G/K/L=1-315.
+DR   PDBsum; 1ZYR; -.
+DR   PDBsum; 2A68; -.
+DR   PDBsum; 2A69; -.
+DR   PDBsum; 2A6E; -.
+DR   PDBsum; 2A6H; -.
+DR   PDBsum; 2BE5; -.
+DR   PDBsum; 2CW0; -.
+DR   PDBsum; 2O5I; -.
+DR   PDBsum; 2O5J; -.
+DR   PDBsum; 3AOH; -.
+DR   PDBsum; 3AOI; -.
+DR   PDBsum; 3DXJ; -.
+DR   PDBsum; 3WOD; -.
+DR   PDBsum; 4G7H; -.
+DR   PDBsum; 4G7O; -.
+DR   PDBsum; 4G7Z; -.
+DR   PDBsum; 4GZY; -.
+DR   PDBsum; 4GZZ; -.
+DR   PDBsum; 4MQ9; -.
+DR   PDBsum; 4OIN; -.
+DR   PDBsum; 4OIO; -.
+DR   PDBsum; 4OIP; -.
+DR   PDBsum; 4OIQ; -.
+DR   PDBsum; 4OIR; -.
+DR   PDBsum; 4WQS; -.
+DR   PDBsum; 4WQT; -.
+DR   ProteinModelPortal; Q5SHR6; -.
+DR   SMR; Q5SHR6; 1-229, 262-315.
+DR   DIP; DIP-47009N; -.
+DR   IntAct; Q5SHR6; 3.
+DR   STRING; 300852.TTHA1664; -.
+DR   EnsemblBacteria; BAD71487; BAD71487; BAD71487.
+DR   GeneID; 3169128; -.
+DR   KEGG; ttj:TTHA1664; -.
+DR   PATRIC; 23958283; VBITheThe93045_1634.
+DR   eggNOG; COG0202; -.
+DR   HOGENOM; HOG000218480; -.
+DR   KO; K03040; -.
+DR   OMA; CEITEEG; -.
+DR   OrthoDB; EOG68WR84; -.
+DR   PhylomeDB; Q5SHR6; -.
+DR   BioCyc; TTHE300852:GH8R-1703-MONOMER; -.
+DR   EvolutionaryTrace; Q5SHR6; -.
+DR   Proteomes; UP000000532; Chromosome.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0003899; F:DNA-directed RNA polymerase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0006281; P:DNA repair; IEA:InterPro.
+DR   GO; GO:0006351; P:transcription, DNA-templated; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 2.170.120.12; -; 1.
+DR   HAMAP; MF_00059; RNApol_bact_RpoA; 1.
+DR   InterPro; IPR011262; DNA-dir_RNA_pol_insert.
+DR   InterPro; IPR011263; DNA-dir_RNA_pol_RpoA/D/Rpb3.
+DR   InterPro; IPR011773; DNA-dir_RpoA.
+DR   InterPro; IPR003583; Hlx-hairpin-Hlx_DNA-bd_motif.
+DR   InterPro; IPR009025; RBP11-like_dimer.
+DR   InterPro; IPR011260; RNAP_asu_C.
+DR   Pfam; PF01000; RNA_pol_A_bac; 1.
+DR   Pfam; PF03118; RNA_pol_A_CTD; 1.
+DR   Pfam; PF01193; RNA_pol_L; 1.
+DR   ProDom; PD001179; RNAP_asu_C; 1.
+DR   SMART; SM00278; HhH1; 1.
+DR   SMART; SM00662; RPOLD; 1.
+DR   SUPFAM; SSF55257; SSF55257; 2.
+DR   SUPFAM; SSF56553; SSF56553; 1.
+DR   TIGRFAMs; TIGR02027; rpoA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; DNA-directed RNA polymerase;
+KW   Nucleotidyltransferase; Reference proteome; Transcription;
+KW   Transferase.
+FT   CHAIN         1    315       DNA-directed RNA polymerase subunit
+FT                                alpha.
+FT                                /FTId=PRO_0000175408.
+FT   REGION        1    229       Alpha N-terminal domain (alpha-NTD).
+FT                                {ECO:0000250}.
+FT   REGION      247    315       Alpha C-terminal domain (alpha-CTD).
+FT                                {ECO:0000250}.
+FT   TURN          4      6       {ECO:0000244|PDB:2A6H}.
+FT   STRAND       10     16       {ECO:0000244|PDB:2A6H}.
+FT   TURN         17     19       {ECO:0000244|PDB:2A6H}.
+FT   STRAND       20     28       {ECO:0000244|PDB:2A6H}.
+FT   HELIX        33     46       {ECO:0000244|PDB:2A6H}.
+FT   STRAND       49     60       {ECO:0000244|PDB:2A6H}.
+FT   STRAND       71     74       {ECO:0000244|PDB:2A6H}.
+FT   HELIX        75     83       {ECO:0000244|PDB:2A6H}.
+FT   STRAND       87     89       {ECO:0000244|PDB:2A6H}.
+FT   STRAND       91     93       {ECO:0000244|PDB:1ZYR}.
+FT   STRAND       95     98       {ECO:0000244|PDB:2CW0}.
+FT   STRAND       99    106       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      108    110       {ECO:0000244|PDB:2A6H}.
+FT   HELIX       111    113       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      120    123       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      128    132       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      137    151       {ECO:0000244|PDB:2A6H}.
+FT   HELIX       153    156       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      160    163       {ECO:0000244|PDB:4MQ9}.
+FT   STRAND      174    183       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      187    189       {ECO:0000244|PDB:4G7H}.
+FT   STRAND      193    201       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      203    205       {ECO:0000244|PDB:2A6H}.
+FT   HELIX       207    223       {ECO:0000244|PDB:2A6H}.
+SQ   SEQUENCE   315 AA;  35013 MW;  F79D93B57526A1CB CRC64;
+     MLDSKLKAPV FTVRTQGREY GEFVLEPLER GFGVTLGNPL RRILLSSIPG TAVTSVYIED
+     VLHEFSTIPG VKEDVVEIIL NLKELVVRFL NPSLQTVTLL LKAEGPKEVK ARDFLPVADV
+     EIMNPDLHIA TLEEGGRLNM EVRVDRGVGY VPAEKHGIKD RINAIPVDAV FSPVRRVAFQ
+     VEDTRLGQRT DLDKLTLRIW TDGSVTPLEA LNQAVEILRE HLTYFSNPQA AAVAAPEEAK
+     EPEAPPEQEE ELDLPLEELG LSTRVLHSLK EEGIESVRAL LALNLKDLKN IPGIGERSLE
+     EIKEALEKKG FTLKE
+//

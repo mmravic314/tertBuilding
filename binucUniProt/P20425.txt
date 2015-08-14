@@ -1,0 +1,217 @@
+ID   KCY_DICDI               Reviewed;         195 AA.
+AC   P20425; Q54KA2;
+DT   01-FEB-1991, integrated into UniProtKB/Swiss-Prot.
+DT   04-DEC-2007, sequence version 2.
+DT   22-JUL-2015, entry version 117.
+DE   RecName: Full=UMP-CMP kinase {ECO:0000255|HAMAP-Rule:MF_03172};
+DE            EC=2.7.4.14 {ECO:0000255|HAMAP-Rule:MF_03172};
+DE   AltName: Full=Deoxycytidylate kinase {ECO:0000255|HAMAP-Rule:MF_03172};
+DE            Short=CK {ECO:0000255|HAMAP-Rule:MF_03172};
+DE            Short=dCMP kinase {ECO:0000255|HAMAP-Rule:MF_03172};
+DE   AltName: Full=Uridine monophosphate/cytidine monophosphate kinase {ECO:0000255|HAMAP-Rule:MF_03172};
+DE            Short=UMP/CMP kinase {ECO:0000255|HAMAP-Rule:MF_03172};
+DE            Short=UMP/CMPK {ECO:0000255|HAMAP-Rule:MF_03172};
+GN   Name=pyrK {ECO:0000255|HAMAP-Rule:MF_03172}; Synonyms=ctpS;
+GN   ORFNames=DDB_G0287495;
+OS   Dictyostelium discoideum (Slime mold).
+OC   Eukaryota; Amoebozoa; Mycetozoa; Dictyosteliida; Dictyostelium.
+OX   NCBI_TaxID=44689;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], CATALYTIC ACTIVITY, AND BIOPHYSICOCHEMICAL
+RP   PROPERTIES.
+RX   PubMed=2156849;
+RA   Wiesmueller L., Noegel A.A., Barzu O., Gerisch G., Schleicher M.;
+RT   "cDNA-derived sequence of UMP-CMP kinase from Dictyostelium discoideum
+RT   and expression of the enzyme in Escherichia coli.";
+RL   J. Biol. Chem. 265:6339-6345(1990).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=AX4;
+RX   PubMed=15875012; DOI=10.1038/nature03481;
+RA   Eichinger L., Pachebat J.A., Gloeckner G., Rajandream M.A.,
+RA   Sucgang R., Berriman M., Song J., Olsen R., Szafranski K., Xu Q.,
+RA   Tunggal B., Kummerfeld S., Madera M., Konfortov B.A., Rivero F.,
+RA   Bankier A.T., Lehmann R., Hamlin N., Davies R., Gaudet P., Fey P.,
+RA   Pilcher K., Chen G., Saunders D., Sodergren E.J., Davis P.,
+RA   Kerhornou A., Nie X., Hall N., Anjard C., Hemphill L., Bason N.,
+RA   Farbrother P., Desany B., Just E., Morio T., Rost R., Churcher C.M.,
+RA   Cooper J., Haydock S., van Driessche N., Cronin A., Goodhead I.,
+RA   Muzny D.M., Mourier T., Pain A., Lu M., Harper D., Lindsay R.,
+RA   Hauser H., James K.D., Quiles M., Madan Babu M., Saito T.,
+RA   Buchrieser C., Wardroper A., Felder M., Thangavelu M., Johnson D.,
+RA   Knights A., Loulseged H., Mungall K.L., Oliver K., Price C.,
+RA   Quail M.A., Urushihara H., Hernandez J., Rabbinowitsch E., Steffen D.,
+RA   Sanders M., Ma J., Kohara Y., Sharp S., Simmonds M.N., Spiegler S.,
+RA   Tivey A., Sugano S., White B., Walker D., Woodward J.R., Winckler T.,
+RA   Tanaka Y., Shaulsky G., Schleicher M., Weinstock G.M., Rosenthal A.,
+RA   Cox E.C., Chisholm R.L., Gibbs R.A., Loomis W.F., Platzer M.,
+RA   Kay R.R., Williams J.G., Dear P.H., Noegel A.A., Barrell B.G.,
+RA   Kuspa A.;
+RT   "The genome of the social amoeba Dictyostelium discoideum.";
+RL   Nature 435:43-57(2005).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) OF 2-195 IN COMPLEXES WITH
+RP   SUBSTRATE ANALOGS, AND COFACTOR.
+RX   PubMed=8703943; DOI=10.1021/bi960642s;
+RA   Scheffzek K., Kliche W., Wiesmuller L., Reinstein J.;
+RT   "Crystal structure of the complex of UMP/CMP kinase from Dictyostelium
+RT   discoideum and the bisubstrate inhibitor P1-(5'-adenosyl) P5-(5'-
+RT   uridyl) pentaphosphate (UP5A) and Mg2+ at 2.2-A: implications for
+RT   water-mediated specificity.";
+RL   Biochemistry 35:9716-9727(1996).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) OF 2-195IN COMPLEX WITH ADP; CMP
+RP   AND UDP.
+RX   PubMed=9280438; DOI=10.1021/bi970974c;
+RA   Schlichting I., Reinstein J.;
+RT   "Structures of active conformations of UMP kinase from Dictyostelium
+RT   discoideum suggest phosphoryl transfer is associative.";
+RL   Biochemistry 36:9290-9296(1997).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (1.70 ANGSTROMS) OF 2-194 IN COMPLEX WITH ADP
+RP   AND CMP.
+RX   PubMed=10426946; DOI=10.1038/11485;
+RA   Schlichting I., Reinstein J.;
+RT   "pH influences fluoride coordination number of the AlFx phosphoryl
+RT   transfer transition state analog.";
+RL   Nat. Struct. Biol. 6:721-723(1999).
+CC   -!- FUNCTION: Catalyzes the phosphorylation of pyrimidine nucleoside
+CC       monophosphates at the expense of ATP. Plays an important role in
+CC       de novo pyrimidine nucleotide biosynthesis. Has preference for UMP
+CC       and CMP as phosphate acceptors.
+CC   -!- CATALYTIC ACTIVITY: ATP + (d)CMP = ADP + (d)CDP.
+CC       {ECO:0000255|HAMAP-Rule:MF_03172, ECO:0000269|PubMed:2156849}.
+CC   -!- CATALYTIC ACTIVITY: ATP + UMP = ADP + UDP. {ECO:0000255|HAMAP-
+CC       Rule:MF_03172, ECO:0000269|PubMed:2156849}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000255|HAMAP-Rule:MF_03172,
+CC         ECO:0000269|PubMed:8703943};
+CC       Note=Binds 1 Mg(2+) ion per monomer. The Mg(2+) ion binds to water
+CC       and substrates. {ECO:0000255|HAMAP-Rule:MF_03172,
+CC       ECO:0000269|PubMed:8703943};
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=25 uM for ATP {ECO:0000269|PubMed:2156849};
+CC         KM=0.4 mM for UMP {ECO:0000269|PubMed:2156849};
+CC         KM=0.1 mM for CMP {ECO:0000269|PubMed:2156849};
+CC   -!- SUBUNIT: Monomer. {ECO:0000255|HAMAP-Rule:MF_03172,
+CC       ECO:0000269|PubMed:10426946, ECO:0000269|PubMed:9280438}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_03172}.
+CC       Nucleus {ECO:0000255|HAMAP-Rule:MF_03172}.
+CC   -!- DOMAIN: Consists of three domains, a large central CORE domain and
+CC       two small peripheral domains, NMPbind and LID, which undergo
+CC       movements during catalysis. The LID domain closes over the site of
+CC       phosphoryl transfer upon ATP binding. Assembling and dissambling
+CC       the active center during each catalytic cycle provides an
+CC       effective means to prevent ATP hydrolysis.
+CC   -!- SIMILARITY: Belongs to the adenylate kinase family. UMP-CMP kinase
+CC       subfamily. {ECO:0000255|HAMAP-Rule:MF_03172}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAA33272.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M34568; AAA33272.1; ALT_INIT; mRNA.
+DR   EMBL; AAFI02000102; EAL63690.1; -; Genomic_DNA.
+DR   PIR; A35235; A35235.
+DR   RefSeq; XP_637196.1; XM_632104.1.
+DR   PDB; 1QF9; X-ray; 1.70 A; A=2-195.
+DR   PDB; 1UKE; X-ray; 2.20 A; A=2-195.
+DR   PDB; 2UKD; X-ray; 2.20 A; A=2-195.
+DR   PDB; 3UKD; X-ray; 1.90 A; A=2-195.
+DR   PDB; 4UKD; X-ray; 2.00 A; A=2-195.
+DR   PDB; 5UKD; X-ray; 1.90 A; A=2-195.
+DR   PDBsum; 1QF9; -.
+DR   PDBsum; 1UKE; -.
+DR   PDBsum; 2UKD; -.
+DR   PDBsum; 3UKD; -.
+DR   PDBsum; 4UKD; -.
+DR   PDBsum; 5UKD; -.
+DR   ProteinModelPortal; P20425; -.
+DR   SMR; P20425; 2-195.
+DR   STRING; 44689.DDB0191367; -.
+DR   PRIDE; P20425; -.
+DR   EnsemblProtists; DDB0191367; DDB0191367; DDB_G0287495.
+DR   GeneID; 8626154; -.
+DR   KEGG; ddi:DDB_G0287495; -.
+DR   dictyBase; DDB_G0287495; pyrK.
+DR   eggNOG; COG0563; -.
+DR   InParanoid; P20425; -.
+DR   KO; K13800; -.
+DR   OMA; CTKPIID; -.
+DR   PhylomeDB; P20425; -.
+DR   BRENDA; 2.7.4.14; 1939.
+DR   Reactome; REACT_339252; Synthesis and interconversion of nucleotide di- and triphosphates.
+DR   SABIO-RK; P20425; -.
+DR   EvolutionaryTrace; P20425; -.
+DR   PRO; PR:P20425; -.
+DR   Proteomes; UP000002195; Chromosome 5.
+DR   Proteomes; UP000002195; Unassembled WGS sequence.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005622; C:intracellular; IC:dictyBase.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005524; F:ATP binding; IDA:dictyBase.
+DR   GO; GO:0004127; F:cytidylate kinase activity; IDA:dictyBase.
+DR   GO; GO:0000287; F:magnesium ion binding; IDA:dictyBase.
+DR   GO; GO:0016776; F:phosphotransferase activity, phosphate group as acceptor; IDA:dictyBase.
+DR   GO; GO:0033862; F:UMP kinase activity; IDA:dictyBase.
+DR   GO; GO:0006207; P:'de novo' pyrimidine nucleobase biosynthetic process; IEA:InterPro.
+DR   GO; GO:0046705; P:CDP biosynthetic process; IDA:dictyBase.
+DR   GO; GO:0046939; P:nucleotide phosphorylation; IDA:GOC.
+DR   GO; GO:0043173; P:nucleotide salvage; IDA:dictyBase.
+DR   GO; GO:0043100; P:pyrimidine nucleobase salvage; IDA:dictyBase.
+DR   GO; GO:0006225; P:UDP biosynthetic process; IDA:dictyBase.
+DR   Gene3D; 3.40.50.300; -; 1.
+DR   HAMAP; MF_00235; Adenylate_kinase_Adk; 1.
+DR   HAMAP; MF_03172; Adenylate_kinase_UMP_CMP_kin; 1.
+DR   InterPro; IPR000850; Adenylat/UMP-CMP_kin.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   InterPro; IPR006266; UMP_CMP_kinase.
+DR   PANTHER; PTHR23359; PTHR23359; 1.
+DR   PRINTS; PR00094; ADENYLTKNASE.
+DR   SUPFAM; SSF52540; SSF52540; 1.
+DR   TIGRFAMs; TIGR01359; UMP_CMP_kin_fam; 1.
+DR   PROSITE; PS00113; ADENYLATE_KINASE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; ATP-binding; Complete proteome; Cytoplasm; Kinase;
+KW   Nucleotide-binding; Nucleus; Pyrimidine biosynthesis;
+KW   Reference proteome; Transferase.
+FT   CHAIN         1    195       UMP-CMP kinase.
+FT                                /FTId=PRO_0000158948.
+FT   NP_BIND      17     22       ATP.
+FT   NP_BIND      64     66       NMP.
+FT   NP_BIND      91     94       NMP.
+FT   REGION       37     66       NMPbind.
+FT   REGION      131    141       LID.
+FT   BINDING      43     43       NMP.
+FT   BINDING      98     98       CMP. {ECO:0000255|HAMAP-Rule:MF_03172,
+FT                                ECO:0000269|PubMed:10426946,
+FT                                ECO:0000269|PubMed:9280438}.
+FT   BINDING     132    132       ATP.
+FT   BINDING     138    138       NMP.
+FT   BINDING     149    149       NMP.
+FT   BINDING     177    177       ATP; via carbonyl oxygen.
+FT   STRAND        8     15       {ECO:0000244|PDB:1QF9}.
+FT   HELIX        20     31       {ECO:0000244|PDB:1QF9}.
+FT   STRAND       34     37       {ECO:0000244|PDB:1QF9}.
+FT   HELIX        38     47       {ECO:0000244|PDB:1QF9}.
+FT   HELIX        53     61       {ECO:0000244|PDB:1QF9}.
+FT   HELIX        68     80       {ECO:0000244|PDB:1QF9}.
+FT   STRAND       87     90       {ECO:0000244|PDB:1QF9}.
+FT   HELIX        96    106       {ECO:0000244|PDB:1QF9}.
+FT   TURN        107    109       {ECO:0000244|PDB:1QF9}.
+FT   STRAND      111    119       {ECO:0000244|PDB:1QF9}.
+FT   HELIX       122    133       {ECO:0000244|PDB:1QF9}.
+FT   TURN        134    136       {ECO:0000244|PDB:1UKE}.
+FT   HELIX       143    155       {ECO:0000244|PDB:1QF9}.
+FT   HELIX       157    166       {ECO:0000244|PDB:1QF9}.
+FT   STRAND      170    174       {ECO:0000244|PDB:1QF9}.
+FT   HELIX       179    192       {ECO:0000244|PDB:1QF9}.
+SQ   SEQUENCE   195 AA;  22074 MW;  076C6780DDC1C0F0 CRC64;
+     MMEKSKPNVV FVLGGPGSGK GTQCANIVRD FGWVHLSAGD LLRQEQQSGS KDGEMIATMI
+     KNGEIVPSIV TVKLLKNAID ANQGKNFLVD GFPRNEENNN SWEENMKDFV DTKFVLFFDC
+     PEEVMTQRLL KRGESSGRSD DNIESIKKRF NTFNVQTKLV IDHYNKFDKV KIIPANRDVN
+     EVYNDVENLF KSMGF
+//

@@ -1,0 +1,135 @@
+ID   Q2PYN0_LEIIN            Unreviewed;       295 AA.
+AC   Q2PYN0;
+DT   24-JAN-2006, integrated into UniProtKB/TrEMBL.
+DT   24-JAN-2006, sequence version 1.
+DT   22-JUL-2015, entry version 66.
+DE   SubName: Full=Glyoxalase II {ECO:0000313|EMBL:ABC41261.1};
+DE   SubName: Full=Putative glyoxalase II {ECO:0000313|EMBL:CBZ08411.1};
+DE            EC=3.1.2.6 {ECO:0000313|EMBL:CBZ08411.1};
+GN   Name=Glo2 {ECO:0000313|EMBL:ABC41261.1};
+GN   ORFNames=LINJ.12.0200 {ECO:0000313|EMBL:CBZ08411.1};
+OS   Leishmania infantum.
+OC   Eukaryota; Euglenozoa; Kinetoplastida; Trypanosomatidae;
+OC   Leishmaniinae; Leishmania.
+OX   NCBI_TaxID=5671 {ECO:0000313|EMBL:ABC41261.1};
+RN   [1] {ECO:0000313|EMBL:ABC41261.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Sousa Silva M., Ferreira A.E.N., Tomas A.M., Cordeiro C.,
+RA   Ponces Freire A.;
+RL   Submitted (NOV-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000313|EMBL:CBZ08411.1, ECO:0000313|Proteomes:UP000008153}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=JPCM5 {ECO:0000313|EMBL:CBZ08411.1,
+RC   ECO:0000313|Proteomes:UP000008153};
+RX   PubMed=17572675; DOI=10.1038/ng2053;
+RA   Peacock C.S., Seeger K., Harris D., Murphy L., Ruiz J.C., Quail M.A.,
+RA   Peters N., Adlem E., Tivey A., Aslett M., Kerhornou A., Ivens A.,
+RA   Fraser A., Rajandream M.A., Carver T., Norbertczak H.,
+RA   Chillingworth T., Hance Z., Jagels K., Moule S., Ormond D., Rutter S.,
+RA   Squares R., Whitehead S., Rabbinowitsch E., Arrowsmith C., White B.,
+RA   Thurston S., Bringaud F., Baldauf S.L., Faulconbridge A., Jeffares D.,
+RA   Depledge D.P., Oyola S.O., Hilley J.D., Brito L.O., Tosi L.R.,
+RA   Barrell B., Cruz A.K., Mottram J.C., Smith D.F., Berriman M.;
+RT   "Comparative genomic analysis of three Leishmania species that cause
+RT   diverse human disease.";
+RL   Nat. Genet. 39:839-847(2007).
+RN   [3] {ECO:0000213|PDB:2P18, ECO:0000213|PDB:2P1E, ECO:0000313|EMBL:ABC41261.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=18052346; DOI=10.1021/bi700989m;
+RA   Silva M.S., Barata L., Ferreira A.E., Romao S., Tomas A.M.,
+RA   Freire A.P., Cordeiro C.;
+RT   "Catalysis and structural properties of Leishmania infantum glyoxalase
+RT   II: trypanothione specificity and phylogeny.";
+RL   Biochemistry 47:195-204(2008).
+RN   [4] {ECO:0000313|EMBL:CBZ08411.1, ECO:0000313|Proteomes:UP000008153}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=JPCM5 {ECO:0000313|EMBL:CBZ08411.1,
+RC   ECO:0000313|Proteomes:UP000008153};
+RX   PubMed=22038252; DOI=10.1101/gr.122945.111;
+RA   Rogers M.B., Hilley J.D., Dickens N.J., Wilkes J., Bates P.A.,
+RA   Depledge D.P., Harris D., Her Y., Herzyk P., Imamura H., Otto T.D.,
+RA   Sanders M., Seeger K., Dujardin J.C., Berriman M., Smith D.F.,
+RA   Hertz-Fowler C., Mottram J.C.;
+RT   "Chromosome and gene copy number variation allow major structural
+RT   change between species and strains of Leishmania.";
+RL   Genome Res. 21:2129-2142(2011).
+RN   [5] {ECO:0000313|EMBL:CBZ08411.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=JPCM5 {ECO:0000313|EMBL:CBZ08411.1};
+RA   Aslett M.;
+RL   Submitted (JAN-2011) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=JPCM5;
+RA   Hilley J.D., Rogers M., Wilkes J., Dickens N.J., Bates P.,
+RA   Depledge D.P., Harris D., Her Y., Herzyk P., Imamura H., Otto T.D.,
+RA   Saad W., Seeger K., Berriman M., Smith D.F., Hertz-Fowler C.,
+RA   Mottram J.C.;
+RT   "Chromosome and gene copy number variation allow genomic structural
+RT   differences between species and strains of Leishmania.";
+RL   Submitted (FEB-2011) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; DQ294972; ABC41261.1; -; Genomic_DNA.
+DR   EMBL; FR796444; CBZ08411.1; -; Genomic_DNA.
+DR   RefSeq; XP_003392263.1; XM_003392215.1.
+DR   PDB; 2P18; X-ray; 1.80 A; A=1-295.
+DR   PDB; 2P1E; X-ray; 1.90 A; A=1-295.
+DR   STRING; 435258.XP_003392263.1; -.
+DR   GeneID; 10966759; -.
+DR   KEGG; lif:LINJ.12.0200; -.
+DR   eggNOG; COG0491; -.
+DR   KO; K01069; -.
+DR   OMA; VAGCGWH; -.
+DR   BRENDA; 3.1.2.6; 2949.
+DR   Proteomes; UP000008153; Chromosome 12.
+DR   GO; GO:0004416; F:hydroxyacylglutathione hydrolase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:InterPro.
+DR   GO; GO:0006750; P:glutathione biosynthetic process; IEA:InterPro.
+DR   Gene3D; 3.60.15.10; -; 1.
+DR   InterPro; IPR001279; Beta-lactamas-like.
+DR   InterPro; IPR017782; Hydroxyacylglutathione_Hdrlase.
+DR   PANTHER; PTHR11935:SF7; PTHR11935:SF7; 1.
+DR   Pfam; PF00753; Lactamase_B; 1.
+DR   SMART; SM00849; Lactamase_B; 1.
+DR   SUPFAM; SSF56281; SSF56281; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2P18, ECO:0000213|PDB:2P1E};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000008153};
+KW   Hydrolase {ECO:0000313|EMBL:CBZ08411.1};
+KW   Metal-binding {ECO:0000213|PDB:2P18, ECO:0000213|PDB:2P1E};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000008153};
+KW   Zinc {ECO:0000213|PDB:2P18, ECO:0000213|PDB:2P1E}.
+FT   REGION       78     80       Lactate binding. {ECO:0000213|PDB:2P1E}.
+FT   METAL        76     76       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2P18,
+FT                                ECO:0000213|PDB:2P1E}.
+FT   METAL        78     78       Zinc 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:2P18,
+FT                                ECO:0000213|PDB:2P1E}.
+FT   METAL        80     80       Zinc 2. {ECO:0000213|PDB:2P18,
+FT                                ECO:0000213|PDB:2P1E}.
+FT   METAL        81     81       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2P18,
+FT                                ECO:0000213|PDB:2P1E}.
+FT   METAL       139    139       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2P18,
+FT                                ECO:0000213|PDB:2P1E}.
+FT   METAL       164    164       Zinc 1. {ECO:0000213|PDB:2P18,
+FT                                ECO:0000213|PDB:2P1E}.
+FT   METAL       164    164       Zinc 2. {ECO:0000213|PDB:2P18,
+FT                                ECO:0000213|PDB:2P1E}.
+FT   METAL       210    210       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2P18,
+FT                                ECO:0000213|PDB:2P1E}.
+FT   BINDING     164    164       Lactate. {ECO:0000213|PDB:2P1E}.
+FT   BINDING     210    210       Lactate. {ECO:0000213|PDB:2P1E}.
+SQ   SEQUENCE   295 AA;  32573 MW;  82886AD0B1283C38 CRC64;
+     MRNYCTKTFG SAFSVTVVPT LKDNFSYLIN DHTTHTLAAV DVNADYKPIL TYIEEHLKQQ
+     GNADVTYTFS TILSTHKHWD HSGGNAKLKA ELEAMNSTVP VVVVGGANDS IPAVTKPVRE
+     GDRVQVGDLS VEVIDAPCHT RGHVLYKVQH PQHPNDGVAL FTGDTMFIAG IGAFFEGDEK
+     DMCRAMEKVY HIHKGNDYAL DKVTFIFPGH EYTSGFMTFS EKTFPDRASD DLAFIQAQRA
+     KYAAAVKTGD PSVPSSLAEE KRQNLFLRVA DPAFVAKMNQ GNAHALMMYL YNACD
+//

@@ -1,0 +1,484 @@
+ID   PMS1_YEAST              Reviewed;         873 AA.
+AC   P14242; D6W197; Q2I044; Q2I045; Q45TY4; Q8TG48; Q8TG50; Q8TG54;
+AC   Q8TG57;
+DT   01-JAN-1990, integrated into UniProtKB/Swiss-Prot.
+DT   11-JUL-2006, sequence version 3.
+DT   22-JUL-2015, entry version 158.
+DE   RecName: Full=DNA mismatch repair protein PMS1;
+DE   AltName: Full=Postmeiotic segregation protein 1;
+GN   Name=PMS1; OrderedLocusNames=YNL082W; ORFNames=N2317;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=559292;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=2676974;
+RA   Kramer W., Kramer B., Williamson M.S., Fogel S.;
+RT   "Cloning and nucleotide sequence of DNA mismatch repair gene PMS1 from
+RT   Saccharomyces cerevisiae: homology of PMS1 to procaryotic MutL and
+RT   HexB.";
+RL   J. Bacteriol. 171:5339-5346(1989).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND VARIANTS SER-41; THR-112;
+RP   VAL-384; VAL-392; SER-400; SER-401; 416-THR--THR-420; ASN-475;
+RP   VAL-564; ARG-768 AND LYS-818.
+RC   STRAIN=ATCC 200060 / W303, S96, SK1, YJM 339, and YJM 421;
+RX   PubMed=11907579; DOI=10.1038/416326a;
+RA   Steinmetz L.M., Sinha H., Richards D.R., Spiegelman J.I., Oefner P.J.,
+RA   McCusker J.H., Davis R.W.;
+RT   "Dissecting the architecture of a quantitative trait locus in yeast.";
+RL   Nature 416:326-330(2002).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND VARIANTS SER-41; THR-112;
+RP   VAL-384; SER-400; 416-THR--THR-420; PHE-513 AND LYS-818.
+RC   STRAIN=SK1;
+RX   PubMed=16273108; DOI=10.1038/ng1674;
+RA   Deutschbauer A.M., Davis R.W.;
+RT   "Quantitative trait loci mapped to single-nucleotide resolution in
+RT   yeast.";
+RL   Nat. Genet. 37:1333-1340(2005).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND VARIANT TYR-458.
+RC   STRAIN=EAY1066, EAY1068, M2-8, M5-7, and M7-8;
+RX   PubMed=16492773; DOI=10.1073/pnas.0510998103;
+RA   Heck J.A., Argueso J.L., Gemici Z., Reeves R.G., Bernard A.,
+RA   Aquadro C.F., Alani E.;
+RT   "Negative epistasis between natural variants of the Saccharomyces
+RT   cerevisiae MLH1 and PMS1 genes results in a defect in mismatch
+RT   repair.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 103:3256-3261(2006).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 96604 / S288c / FY1679;
+RX   PubMed=8701611;
+RX   DOI=10.1002/(SICI)1097-0061(19960330)12:4<391::AID-YEA921>3.3.CO;2-E;
+RA   Poehlmann R., Philippsen P.;
+RT   "Sequencing a cosmid clone of Saccharomyces cerevisiae chromosome XIV
+RT   reveals 12 new open reading frames (ORFs) and an ancient duplication
+RT   of six ORFs.";
+RL   Yeast 12:391-402(1996).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=9169873;
+RA   Philippsen P., Kleine K., Poehlmann R., Duesterhoeft A., Hamberg K.,
+RA   Hegemann J.H., Obermaier B., Urrestarazu L.A., Aert R., Albermann K.,
+RA   Altmann R., Andre B., Baladron V., Ballesta J.P.G., Becam A.-M.,
+RA   Beinhauer J.D., Boskovic J., Buitrago M.J., Bussereau F., Coster F.,
+RA   Crouzet M., D'Angelo M., Dal Pero F., De Antoni A., del Rey F.,
+RA   Doignon F., Domdey H., Dubois E., Fiedler T.A., Fleig U., Floeth M.,
+RA   Fritz C., Gaillardin C., Garcia-Cantalejo J.M., Glansdorff N.,
+RA   Goffeau A., Gueldener U., Herbert C.J., Heumann K., Heuss-Neitzel D.,
+RA   Hilbert H., Hinni K., Iraqui Houssaini I., Jacquet M., Jimenez A.,
+RA   Jonniaux J.-L., Karpfinger-Hartl L., Lanfranchi G., Lepingle A.,
+RA   Levesque H., Lyck R., Maftahi M., Mallet L., Maurer C.T.C.,
+RA   Messenguy F., Mewes H.-W., Moestl D., Nasr F., Nicaud J.-M.,
+RA   Niedenthal R.K., Pandolfo D., Pierard A., Piravandi E., Planta R.J.,
+RA   Pohl T.M., Purnelle B., Rebischung C., Remacha M.A., Revuelta J.L.,
+RA   Rinke M., Saiz J.E., Sartorello F., Scherens B., Sen-Gupta M.,
+RA   Soler-Mira A., Urbanus J.H.M., Valle G., Van Dyck L., Verhasselt P.,
+RA   Vierendeels F., Vissers S., Voet M., Volckaert G., Wach A.,
+RA   Wambutt R., Wedler H., Zollner A., Hani J.;
+RT   "The nucleotide sequence of Saccharomyces cerevisiae chromosome XIV
+RT   and its evolutionary implications.";
+RL   Nature 387:93-98(1997).
+RN   [7]
+RP   GENOME REANNOTATION.
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=24374639; DOI=10.1534/g3.113.008995;
+RA   Engel S.R., Dietrich F.S., Fisk D.G., Binkley G., Balakrishnan R.,
+RA   Costanzo M.C., Dwight S.S., Hitz B.C., Karra K., Nash R.S., Weng S.,
+RA   Wong E.D., Lloyd P., Skrzypek M.S., Miyasato S.R., Simison M.,
+RA   Cherry J.M.;
+RT   "The reference genome sequence of Saccharomyces cerevisiae: Then and
+RT   now.";
+RL   G3 (Bethesda) 4:389-398(2014).
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-225.
+RC   STRAIN=ATCC 96604 / S288c / FY1679;
+RX   PubMed=8740422;
+RX   DOI=10.1002/(SICI)1097-0061(199604)12:5<485::AID-YEA928>3.0.CO;2-U;
+RA   Soler-Mira A., Saiz J.E., Ballesta J.P.G., Remacha M.A.;
+RT   "The sequence of a 17,933 bp segment of Saccharomyces cerevisiae
+RT   chromosome XIV contains the RHO2, TOP2, MKT1 and END3 genes and five
+RT   new open reading frames.";
+RL   Yeast 12:485-491(1996).
+RN   [9]
+RP   INTERACTION WITH MLH1, AND MUTAGENESIS OF PHE-95.
+RX   PubMed=9234704;
+RA   Pang Q., Prolla T.A., Liskay R.M.;
+RT   "Functional domains of the Saccharomyces cerevisiae Mlh1p and Pms1p
+RT   DNA mismatch repair proteins and their relevance to human hereditary
+RT   nonpolyposis colorectal cancer-associated mutations.";
+RL   Mol. Cell. Biol. 17:4465-4473(1997).
+RN   [10]
+RP   FUNCTION, AND SUBUNIT.
+RX   PubMed=9545323; DOI=10.1074/jbc.273.16.9837;
+RA   Habraken Y., Sung P., Prakash L., Prakash S.;
+RT   "ATP-dependent assembly of a ternary complex consisting of a DNA
+RT   mismatch and the yeast MSH2-MSH6 and MLH1-PMS1 protein complexes.";
+RL   J. Biol. Chem. 273:9837-9841(1998).
+RN   [11]
+RP   FUNCTION, AND INTERACTION WITH MLH1.
+RX   PubMed=10570173; DOI=10.1073/pnas.96.24.13914;
+RA   Wang T.-F., Kleckner N., Hunter N.;
+RT   "Functional specificity of MutL homologs in yeast: evidence for three
+RT   Mlh1-based heterocomplexes with distinct roles during meiosis in
+RT   recombination and mismatch correction.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 96:13914-13919(1999).
+RN   [12]
+RP   INTERACTION WITH MLH1, ATP-BINDING, AND MUTAGENESIS OF GLU-30 AND
+RP   GLY-97.
+RX   PubMed=10938116; DOI=10.1128/MCB.20.17.6390-6398.2000;
+RA   Tran P.T., Liskay R.M.;
+RT   "Functional studies on the candidate ATPase domains of Saccharomyces
+RT   cerevisiae MutLalpha.";
+RL   Mol. Cell. Biol. 20:6390-6398(2000).
+RN   [13]
+RP   DNA-BINDING.
+RX   PubMed=12222686; DOI=10.1515/BC.2002.103;
+RA   Drotschmann K., Hall M.C., Shcherbakova P.V., Wang H., Erie D.A.,
+RA   Brownewell F.R., Kool E.T., Kunkel T.A.;
+RT   "DNA binding properties of the yeast Msh2-Msh6 and Mlh1-Pms1
+RT   heterodimers.";
+RL   Biol. Chem. 383:969-975(2002).
+RN   [14]
+RP   ATP-BINDING, MUTAGENESIS OF GLU-30 AND ASN-34, AND BIOPHYSICOCHEMICAL
+RP   PROPERTIES.
+RX   PubMed=11717305; DOI=10.1074/jbc.M106120200;
+RA   Hall M.C., Shcherbakova P.V., Kunkel T.A.;
+RT   "Differential ATP binding and intrinsic ATP hydrolysis by amino-
+RT   terminal domains of the yeast Mlh1 and Pms1 proteins.";
+RL   J. Biol. Chem. 277:3673-3679(2002).
+RN   [15]
+RP   IDENTIFICATION OF PROBABLE INITIATION SITE.
+RX   PubMed=12748633; DOI=10.1038/nature01644;
+RA   Kellis M., Patterson N., Endrizzi M., Birren B.W., Lander E.S.;
+RT   "Sequencing and comparison of yeast species to identify genes and
+RT   regulatory elements.";
+RL   Nature 423:241-254(2003).
+RN   [16]
+RP   SUBCELLULAR LOCATION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562095; DOI=10.1038/nature02026;
+RA   Huh W.-K., Falvo J.V., Gerke L.C., Carroll A.S., Howson R.W.,
+RA   Weissman J.S., O'Shea E.K.;
+RT   "Global analysis of protein localization in budding yeast.";
+RL   Nature 425:686-691(2003).
+RN   [17]
+RP   LEVEL OF PROTEIN EXPRESSION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562106; DOI=10.1038/nature02046;
+RA   Ghaemmaghami S., Huh W.-K., Bower K., Howson R.W., Belle A.,
+RA   Dephoure N., O'Shea E.K., Weissman J.S.;
+RT   "Global analysis of protein expression in yeast.";
+RL   Nature 425:737-741(2003).
+RN   [18]
+RP   DNA-BINDING, AND MUTAGENESIS OF LYS-297.
+RX   PubMed=12682353; DOI=10.1093/nar/gkg324;
+RA   Hall M.C., Shcherbakova P.V., Fortune J.M., Borchers C.H., Dial J.M.,
+RA   Tomer K.B., Kunkel T.A.;
+RT   "DNA binding by yeast Mlh1 and Pms1: implications for DNA mismatch
+RT   repair.";
+RL   Nucleic Acids Res. 31:2025-2034(2003).
+RN   [19]
+RP   FUNCTION, AND MUTAGENESIS OF GLY-851 AND HIS-857.
+RX   PubMed=16227575; DOI=10.1128/MCB.25.21.9221-9231.2005;
+RA   Erdeniz N., Dudley S., Gealy R., Jinks-Robertson S., Liskay R.M.;
+RT   "Novel PMS1 alleles preferentially affect the repair of primer strand
+RT   loops during DNA replication.";
+RL   Mol. Cell. Biol. 25:9221-9231(2005).
+RN   [20]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-393, AND IDENTIFICATION
+RP   BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=18407956; DOI=10.1074/mcp.M700468-MCP200;
+RA   Albuquerque C.P., Smolka M.B., Payne S.H., Bafna V., Eng J., Zhou H.;
+RT   "A multidimensional chromatography technology for in-depth
+RT   phosphoproteome analysis.";
+RL   Mol. Cell. Proteomics 7:1389-1396(2008).
+RN   [21]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-566, AND IDENTIFICATION
+RP   BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19779198; DOI=10.1126/science.1172867;
+RA   Holt L.J., Tuch B.B., Villen J., Johnson A.D., Gygi S.P., Morgan D.O.;
+RT   "Global analysis of Cdk1 substrate phosphorylation sites provides
+RT   insights into evolution.";
+RL   Science 325:1682-1686(2009).
+CC   -!- FUNCTION: Required for DNA mismatch repair (MMR), correcting base-
+CC       base mismatches and insertion-deletion loops (IDLs) resulting from
+CC       DNA replication, DNA damage or from recombination events between
+CC       non-identical sequences during meiosis. Component of the MutLalpha
+CC       heterodimer that forms a ternary complex with the MutS
+CC       heterodimers, which initially recognize the DNA mismatches. This
+CC       complex is thought to be responsible for directing the downsteam
+CC       MMR events, including strand discrimination, excision, and
+CC       resynthesis. Plays a major role in maintaining the genetic
+CC       stability of simple sequence repeats and in the repair of
+CC       heteroduplex sites present in meiotic recombination intermediates.
+CC       {ECO:0000269|PubMed:10570173, ECO:0000269|PubMed:16227575,
+CC       ECO:0000269|PubMed:9545323}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=1.5 mM for ATP {ECO:0000269|PubMed:11717305};
+CC   -!- SUBUNIT: Heterodimer of MLH1 and PMS1, called MutLalpha, which is
+CC       the major MMR MutL activity correcting base-base mismatches as
+CC       well as IDLs. The heterodimer binds double strand DNA
+CC       independently of a mismatch with positive cooperativity and has
+CC       more than one DNA binding site. Forms a ternary complex with
+CC       either the MSH2-MSH6 (MutSalpha) or the MSH2-MSH3 heterodimer
+CC       (MutSbeta), which recognize and bind to mismatch DNA. Ternary
+CC       complex formation is promoted by ATP binding.
+CC       {ECO:0000269|PubMed:9545323}.
+CC   -!- INTERACTION:
+CC       P38920:MLH1; NbExp=7; IntAct=EBI-13561, EBI-11003;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:14562095}.
+CC   -!- MISCELLANEOUS: Present with 521 molecules/cell in log phase SD
+CC       medium. {ECO:0000269|PubMed:14562106}.
+CC   -!- SIMILARITY: Belongs to the DNA mismatch repair MutL/HexB family.
+CC       {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAA34885.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC       Sequence=AAM00521.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC       Sequence=AAM00533.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC       Sequence=AAM00545.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC       Sequence=AAM00551.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC       Sequence=AAM00563.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC       Sequence=AAM00569.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC       Sequence=CAA60176.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC       Sequence=CAA61428.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC       Sequence=CAA95956.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC       Sequence=CAA95957.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M29688; AAA34885.1; ALT_INIT; Genomic_DNA.
+DR   EMBL; AF458969; AAM00521.1; ALT_INIT; Genomic_DNA.
+DR   EMBL; AF458971; AAM00533.1; ALT_INIT; Genomic_DNA.
+DR   EMBL; AF458973; AAM00545.1; ALT_INIT; Genomic_DNA.
+DR   EMBL; AF458974; AAM00551.1; ALT_INIT; Genomic_DNA.
+DR   EMBL; AF458976; AAM00563.1; ALT_INIT; Genomic_DNA.
+DR   EMBL; AF458977; AAM00569.1; ALT_INIT; Genomic_DNA.
+DR   EMBL; DQ115393; AAZ22526.1; -; Genomic_DNA.
+DR   EMBL; DQ356628; ABC86932.1; -; Genomic_DNA.
+DR   EMBL; DQ356629; ABC86933.1; -; Genomic_DNA.
+DR   EMBL; DQ356630; ABC86934.1; -; Genomic_DNA.
+DR   EMBL; DQ356631; ABC86935.1; -; Genomic_DNA.
+DR   EMBL; DQ356632; ABC86936.1; -; Genomic_DNA.
+DR   EMBL; X86470; CAA60176.1; ALT_INIT; Genomic_DNA.
+DR   EMBL; Z71357; CAA95956.1; ALT_INIT; Genomic_DNA.
+DR   EMBL; Z71358; CAA95957.1; ALT_INIT; Genomic_DNA.
+DR   EMBL; X89016; CAA61428.1; ALT_INIT; Genomic_DNA.
+DR   EMBL; BK006947; DAA10463.1; -; Genomic_DNA.
+DR   PIR; S53896; S53896.
+DR   RefSeq; NP_014317.4; NM_001182920.3.
+DR   PDB; 3H4L; X-ray; 2.50 A; A/B=1-365.
+DR   PDB; 4E4W; X-ray; 2.50 A; B=635-873.
+DR   PDB; 4FMN; X-ray; 2.69 A; B=635-873.
+DR   PDB; 4FMO; X-ray; 3.04 A; B=635-873.
+DR   PDBsum; 3H4L; -.
+DR   PDBsum; 4E4W; -.
+DR   PDBsum; 4FMN; -.
+DR   PDBsum; 4FMO; -.
+DR   ProteinModelPortal; P14242; -.
+DR   SMR; P14242; 6-362, 651-873.
+DR   BioGrid; 35741; 50.
+DR   DIP; DIP-2416N; -.
+DR   IntAct; P14242; 5.
+DR   MINT; MINT-625253; -.
+DR   MaxQB; P14242; -.
+DR   PaxDb; P14242; -.
+DR   PeptideAtlas; P14242; -.
+DR   EnsemblFungi; YNL082W; YNL082W; YNL082W.
+DR   GeneID; 855642; -.
+DR   KEGG; sce:YNL082W; -.
+DR   CYGD; YNL082w; -.
+DR   EuPathDB; FungiDB:YNL082W; -.
+DR   SGD; S000005026; PMS1.
+DR   eggNOG; COG0323; -.
+DR   GeneTree; ENSGT00530000063289; -.
+DR   InParanoid; P14242; -.
+DR   KO; K10858; -.
+DR   OMA; GQFNHGF; -.
+DR   OrthoDB; EOG72RN8H; -.
+DR   BioCyc; YEAST:G3O-33111-MONOMER; -.
+DR   Reactome; REACT_321734; Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta).
+DR   Reactome; REACT_330788; Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha).
+DR   EvolutionaryTrace; P14242; -.
+DR   NextBio; 979872; -.
+DR   PRO; PR:P14242; -.
+DR   Proteomes; UP000002311; Chromosome XIV.
+DR   GO; GO:0032389; C:MutLalpha complex; IPI:SGD.
+DR   GO; GO:0005524; F:ATP binding; IMP:SGD.
+DR   GO; GO:0016887; F:ATPase activity; IDA:SGD.
+DR   GO; GO:0030983; F:mismatched DNA binding; IEA:InterPro.
+DR   GO; GO:0000710; P:meiotic mismatch repair; IMP:SGD.
+DR   GO; GO:0006298; P:mismatch repair; IMP:SGD.
+DR   Gene3D; 3.30.230.10; -; 1.
+DR   Gene3D; 3.30.565.10; -; 1.
+DR   InterPro; IPR013507; DNA_mismatch_repair_C.
+DR   InterPro; IPR014762; DNA_mismatch_repair_CS.
+DR   InterPro; IPR002099; DNA_mismatch_repair_fam.
+DR   InterPro; IPR003594; HATPase_C.
+DR   InterPro; IPR014790; MutL_C.
+DR   InterPro; IPR028831; Pms1/Pms2/PMS2L.
+DR   InterPro; IPR020568; Ribosomal_S5_D2-typ_fold.
+DR   InterPro; IPR014721; Ribosomal_S5_D2-typ_fold_subgr.
+DR   PANTHER; PTHR10073:SF9; PTHR10073:SF9; 1.
+DR   Pfam; PF01119; DNA_mis_repair; 1.
+DR   Pfam; PF02518; HATPase_c; 1.
+DR   Pfam; PF08676; MutL_C; 1.
+DR   SMART; SM00387; HATPase_c; 1.
+DR   SMART; SM00853; MutL_C; 1.
+DR   SUPFAM; SSF54211; SSF54211; 2.
+DR   SUPFAM; SSF55874; SSF55874; 1.
+DR   TIGRFAMs; TIGR00585; mutl; 1.
+DR   PROSITE; PS00058; DNA_MISMATCH_REPAIR_1; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; DNA damage; DNA repair; Nucleus;
+KW   Phosphoprotein; Reference proteome.
+FT   CHAIN         1    873       DNA mismatch repair protein PMS1.
+FT                                /FTId=PRO_0000245571.
+FT   REGION        1    357       DNA- and ATP-binding.
+FT   REGION      661    873       Interaction with MLH1.
+FT   MOD_RES     393    393       Phosphoserine.
+FT                                {ECO:0000269|PubMed:18407956}.
+FT   MOD_RES     566    566       Phosphoserine.
+FT                                {ECO:0000269|PubMed:19779198}.
+FT   VARIANT      41     41       N -> S (in strain: SK1 and YJM421).
+FT                                {ECO:0000269|PubMed:11907579,
+FT                                ECO:0000269|PubMed:16273108}.
+FT   VARIANT     112    112       I -> T (in strain: SK1 and YJM421).
+FT                                {ECO:0000269|PubMed:11907579,
+FT                                ECO:0000269|PubMed:16273108}.
+FT   VARIANT     384    384       F -> V (in strain: SK1, YJM320, YJM339
+FT                                and YJM421).
+FT                                {ECO:0000269|PubMed:11907579,
+FT                                ECO:0000269|PubMed:16273108}.
+FT   VARIANT     392    392       E -> V (in strain: YJM320).
+FT                                {ECO:0000269|PubMed:11907579}.
+FT   VARIANT     400    400       T -> S (in strain: SK1, YJM320, YJM339
+FT                                and YJM421).
+FT                                {ECO:0000269|PubMed:11907579,
+FT                                ECO:0000269|PubMed:16273108}.
+FT   VARIANT     401    401       A -> S (in strain: YJM320 and YJM421).
+FT                                {ECO:0000269|PubMed:11907579}.
+FT   VARIANT     416    416       T -> TCEGT (in strain: SK1, YJM320,
+FT                                YJM339 and YJM421).
+FT   VARIANT     458    458       D -> Y (in strain: EAY1068).
+FT                                {ECO:0000269|PubMed:16492773}.
+FT   VARIANT     475    475       D -> N (in strain: YJM339).
+FT                                {ECO:0000269|PubMed:11907579}.
+FT   VARIANT     513    513       Y -> F (in strain: SK1).
+FT                                {ECO:0000269|PubMed:16273108}.
+FT   VARIANT     564    564       A -> V (in strain: YJM320).
+FT                                {ECO:0000269|PubMed:11907579}.
+FT   VARIANT     768    768       K -> R (in strain: YJM320).
+FT                                {ECO:0000269|PubMed:11907579}.
+FT   VARIANT     818    818       R -> K (in strain: SK1 and YJM320; forms
+FT                                a non-functional heterodimer with MHL1
+FT                                from strain S288c, resulting in an
+FT                                accumulation of mutations in spore
+FT                                progeny of crosses between these
+FT                                strains). {ECO:0000269|PubMed:11907579,
+FT                                ECO:0000269|PubMed:16273108}.
+FT   MUTAGEN      30     30       E->A: Reduces ATPase activity by 62%.
+FT                                Displays 60-fold increase in spontaneous
+FT                                mutation accumulation.
+FT                                {ECO:0000269|PubMed:10938116,
+FT                                ECO:0000269|PubMed:11717305}.
+FT   MUTAGEN      34     34       N->A: Reduces ATPase activity by 84%.
+FT                                Displays 11000-fold increase in
+FT                                spontaneous mutation accumulation.
+FT                                {ECO:0000269|PubMed:11717305}.
+FT   MUTAGEN      95     95       F->A: Displays an increase in spontaneous
+FT                                mutation accumulation. Does not impair
+FT                                heterodimer formation.
+FT                                {ECO:0000269|PubMed:9234704}.
+FT   MUTAGEN      97     97       G->A: Displays an increase in spontaneous
+FT                                mutation accumulation.
+FT                                {ECO:0000269|PubMed:10938116}.
+FT   MUTAGEN     297    297       K->E: Displays a 60-fold increase in
+FT                                spontaneous mutation accumulation.
+FT                                {ECO:0000269|PubMed:12682353}.
+FT   MUTAGEN     851    851       G->E: Confers a strong defect in the
+FT                                repair of primer strand-specific 1-bp
+FT                                loops during DNA replication, but not
+FT                                during meoitic recombination. Does not
+FT                                impair heterodimer formation.
+FT                                {ECO:0000269|PubMed:16227575}.
+FT   MUTAGEN     857    857       H->R: Confers a strong defect in the
+FT                                repair of primer strand-specific 1-bp
+FT                                loops during DNA replication, but not
+FT                                during meoitic recombination. Does not
+FT                                impair heterodimer formation.
+FT                                {ECO:0000269|PubMed:16227575}.
+FT   CONFLICT    695    695       Y -> S (in Ref. 1; AAA34885).
+FT                                {ECO:0000305}.
+FT   CONFLICT    861    861       L -> I (in Ref. 1; AAA34885).
+FT                                {ECO:0000305}.
+FT   HELIX        13     20       {ECO:0000244|PDB:3H4L}.
+FT   HELIX        24     37       {ECO:0000244|PDB:3H4L}.
+FT   STRAND       41     48       {ECO:0000244|PDB:3H4L}.
+FT   TURN         49     52       {ECO:0000244|PDB:3H4L}.
+FT   STRAND       53     59       {ECO:0000244|PDB:3H4L}.
+FT   HELIX        66     68       {ECO:0000244|PDB:3H4L}.
+FT   TURN         69     73       {ECO:0000244|PDB:3H4L}.
+FT   STRAND       92     95       {ECO:0000244|PDB:3H4L}.
+FT   HELIX        98    105       {ECO:0000244|PDB:3H4L}.
+FT   STRAND      106    116       {ECO:0000244|PDB:3H4L}.
+FT   STRAND      120    125       {ECO:0000244|PDB:3H4L}.
+FT   STRAND      131    137       {ECO:0000244|PDB:3H4L}.
+FT   STRAND      140    149       {ECO:0000244|PDB:3H4L}.
+FT   TURN        150    153       {ECO:0000244|PDB:3H4L}.
+FT   HELIX       155    162       {ECO:0000244|PDB:3H4L}.
+FT   HELIX       165    182       {ECO:0000244|PDB:3H4L}.
+FT   STRAND      187    193       {ECO:0000244|PDB:3H4L}.
+FT   STRAND      199    204       {ECO:0000244|PDB:3H4L}.
+FT   HELIX       211    219       {ECO:0000244|PDB:3H4L}.
+FT   TURN        221    226       {ECO:0000244|PDB:3H4L}.
+FT   STRAND      227    235       {ECO:0000244|PDB:3H4L}.
+FT   HELIX       237    239       {ECO:0000244|PDB:3H4L}.
+FT   STRAND      259    267       {ECO:0000244|PDB:3H4L}.
+FT   STRAND      274    285       {ECO:0000244|PDB:3H4L}.
+FT   STRAND      288    290       {ECO:0000244|PDB:3H4L}.
+FT   HELIX       293    304       {ECO:0000244|PDB:3H4L}.
+FT   STRAND      314    319       {ECO:0000244|PDB:3H4L}.
+FT   HELIX       322    324       {ECO:0000244|PDB:3H4L}.
+FT   STRAND      330    332       {ECO:0000244|PDB:3H4L}.
+FT   HELIX       341    361       {ECO:0000244|PDB:3H4L}.
+FT   HELIX       650    652       {ECO:0000244|PDB:4E4W}.
+FT   HELIX       653    665       {ECO:0000244|PDB:4E4W}.
+FT   HELIX       668    672       {ECO:0000244|PDB:4E4W}.
+FT   STRAND      675    680       {ECO:0000244|PDB:4E4W}.
+FT   TURN        681    683       {ECO:0000244|PDB:4E4W}.
+FT   STRAND      684    690       {ECO:0000244|PDB:4E4W}.
+FT   STRAND      695    701       {ECO:0000244|PDB:4E4W}.
+FT   HELIX       702    717       {ECO:0000244|PDB:4E4W}.
+FT   STRAND      722    731       {ECO:0000244|PDB:4E4W}.
+FT   HELIX       739    742       {ECO:0000244|PDB:4E4W}.
+FT   HELIX       747    750       {ECO:0000244|PDB:4E4W}.
+FT   STRAND      767    773       {ECO:0000244|PDB:4E4W}.
+FT   HELIX       782    794       {ECO:0000244|PDB:4E4W}.
+FT   HELIX       806    819       {ECO:0000244|PDB:4E4W}.
+FT   HELIX       829    838       {ECO:0000244|PDB:4E4W}.
+FT   HELIX       839    841       {ECO:0000244|PDB:4E4W}.
+FT   STRAND      842    844       {ECO:0000244|PDB:4E4W}.
+FT   STRAND      853    860       {ECO:0000244|PDB:4E4W}.
+FT   HELIX       869    871       {ECO:0000244|PDB:4E4W}.
+SQ   SEQUENCE   873 AA;  99355 MW;  2E0FFBC59B718854 CRC64;
+     MTQIHQINDI DVHRITSGQV ITDLTTAVKE LVDNSIDANA NQIEIIFKDY GLESIECSDN
+     GDGIDPSNYE FLALKHYTSK IAKFQDVAKV QTLGFRGEAL SSLCGIAKLS VITTTSPPKA
+     DKLEYDMVGH ITSKTTTSRN KGTTVLVSQL FHNLPVRQKE FSKTFKRQFT KCLTVIQGYA
+     IINAAIKFSV WNITPKGKKN LILSTMRNSS MRKNISSVFG AGGMRGLEEV DLVLDLNPFK
+     NRMLGKYTDD PDFLDLDYKI RVKGYISQNS FGCGRNSKDR QFIYVNKRPV EYSTLLKCCN
+     EVYKTFNNVQ FPAVFLNLEL PMSLIDVNVT PDKRVILLHN ERAVIDIFKT TLSDYYNRQE
+     LALPKRMCSQ SEQQAQKRLK TEVFDDRSTT HESDNENYHT ARSESNQSNH AHFNSTTGVI
+     DKSNGTELTS VMDGNYTNVT DVIGSECEVS VDSSVVLDEG NSSTPTKKLP SIKTDSQNLS
+     DLNLNNFSNP EFQNITSPDK ARSLEKVVEE PVYFDIDGEK FQEKAVLSQA DGLVFVDNEC
+     HEHTNDCCHQ ERRGSTDTEQ DDEADSIYAE IEPVEINVRT PLKNSRKSIS KDNYRSLSDG
+     LTHRKFEDEI LEYNLSTKNF KEISKNGKQM SSIISKRKSE AQENIIKNKD ELEDFEQGEK
+     YLTLTVSKND FKKMEVVGQF NLGFIIVTRK VDNKYDLFIV DQHASDEKYN FETLQAVTVF
+     KSQKLIIPQP VELSVIDELV VLDNLPVFEK NGFKLKIDEE EEFGSRVKLL SLPTSKQTLF
+     DLGDFNELIH LIKEDGGLRR DNIRCSKIRS MFAMRACRSS IMIGKPLNKK TMTRVVHNLS
+     ELDKPWNCPH GRPTMRHLME LRDWSSFSKD YEI
+//

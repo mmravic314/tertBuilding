@@ -1,0 +1,150 @@
+ID   RIB3_MAGO7              Reviewed;         233 AA.
+AC   Q8TG90; G4NCK9;
+DT   24-JUL-2007, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-2002, sequence version 1.
+DT   22-JUL-2015, entry version 86.
+DE   RecName: Full=3,4-dihydroxy-2-butanone 4-phosphate synthase;
+DE            Short=DHBP synthase;
+DE            EC=4.1.99.12;
+GN   Name=RIB3; ORFNames=MGG_01049;
+OS   Magnaporthe oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958) (Rice
+OS   blast fungus) (Pyricularia oryzae).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Sordariomycetidae; Magnaporthales; Magnaporthaceae;
+OC   Magnaporthe.
+OX   NCBI_TaxID=242507;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], PROTEIN SEQUENCE OF 2-17,
+RP   CHARACTERIZATION, COFACTOR, AND MASS SPECTROMETRY.
+RX   PubMed=11053863; DOI=10.1107/S0907444900011446;
+RA   Liao D.-I., Viitanen P.V., Jordan D.B.;
+RT   "Cloning, expression, purification and crystallization of
+RT   dihydroxybutanone phosphate synthase from Magnaporthe grisea.";
+RL   Acta Crystallogr. D 56:1495-1497(2000).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=70-15 / ATCC MYA-4617 / FGSC 8958;
+RX   PubMed=15846337; DOI=10.1038/nature03449;
+RA   Dean R.A., Talbot N.J., Ebbole D.J., Farman M.L., Mitchell T.K.,
+RA   Orbach M.J., Thon M.R., Kulkarni R., Xu J.-R., Pan H., Read N.D.,
+RA   Lee Y.-H., Carbone I., Brown D., Oh Y.Y., Donofrio N., Jeong J.S.,
+RA   Soanes D.M., Djonovic S., Kolomiets E., Rehmeyer C., Li W.,
+RA   Harding M., Kim S., Lebrun M.-H., Bohnert H., Coughlan S., Butler J.,
+RA   Calvo S.E., Ma L.-J., Nicol R., Purcell S., Nusbaum C., Galagan J.E.,
+RA   Birren B.W.;
+RT   "The genome sequence of the rice blast fungus Magnaporthe grisea.";
+RL   Nature 434:980-986(2005).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (0.98 ANGSTROMS) IN COMPLEXES WITH DIVALENT
+RP   METAL CATIONS AND SUBSTRATE ANALOGS, AND SUBUNIT.
+RX   PubMed=11827524; DOI=10.1021/bi015652u;
+RA   Liao D.-I., Zheng Y.-J., Viitanen P.V., Jordan D.B.;
+RT   "Structural definition of the active site and catalytic mechanism of
+RT   3,4-dihydroxy-2-butanone-4-phosphate synthase.";
+RL   Biochemistry 41:1795-1806(2002).
+CC   -!- FUNCTION: Catalyzes the conversion of D-ribulose 5-phosphate to
+CC       formate and 3,4-dihydroxy-2-butanone 4-phosphate. {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: D-ribulose 5-phosphate = formate + L-3,4-
+CC       dihydroxybutan-2-one 4-phosphate.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000269|PubMed:11053863};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000269|PubMed:11053863};
+CC       Note=Binds 2 divalent metal cations per subunit. Magnesium or
+CC       manganese. {ECO:0000269|PubMed:11053863};
+CC   -!- PATHWAY: Cofactor biosynthesis; riboflavin biosynthesis; 2-
+CC       hydroxy-3-oxobutyl phosphate from D-ribulose 5-phosphate: step
+CC       1/1.
+CC   -!- SUBUNIT: Homodimer. {ECO:0000269|PubMed:11827524}.
+CC   -!- MASS SPECTROMETRY: Mass=24870.7; Method=Electrospray; Range=2-233;
+CC       Evidence={ECO:0000269|PubMed:11053863};
+CC   -!- SIMILARITY: Belongs to the DHBP synthase family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF430214; AAL84175.1; -; mRNA.
+DR   EMBL; CM001235; EHA48306.1; -; Genomic_DNA.
+DR   RefSeq; XP_003717890.1; XM_003717842.1.
+DR   PDB; 1K49; X-ray; 1.50 A; A=1-233.
+DR   PDB; 1K4I; X-ray; 0.98 A; A=1-233.
+DR   PDB; 1K4L; X-ray; 1.60 A; A=1-233.
+DR   PDB; 1K4O; X-ray; 1.10 A; A=1-233.
+DR   PDB; 1K4P; X-ray; 1.00 A; A=1-233.
+DR   PDBsum; 1K49; -.
+DR   PDBsum; 1K4I; -.
+DR   PDBsum; 1K4L; -.
+DR   PDBsum; 1K4O; -.
+DR   PDBsum; 1K4P; -.
+DR   ProteinModelPortal; Q8TG90; -.
+DR   SMR; Q8TG90; 12-227.
+DR   EnsemblFungi; MGG_01049T0; MGG_01049T0; MGG_01049.
+DR   GeneID; 2674307; -.
+DR   KEGG; mgr:MGG_01049; -.
+DR   EuPathDB; FungiDB:MGG_01049; -.
+DR   eggNOG; COG0108; -.
+DR   InParanoid; Q8TG90; -.
+DR   KO; K02858; -.
+DR   OrthoDB; EOG76TB2T; -.
+DR   UniPathway; UPA00275; UER00399.
+DR   EvolutionaryTrace; Q8TG90; -.
+DR   Proteomes; UP000009058; Chromosome 5.
+DR   GO; GO:0005829; C:cytosol; IEA:EnsemblFungi.
+DR   GO; GO:0005758; C:mitochondrial intermembrane space; IEA:EnsemblFungi.
+DR   GO; GO:0005634; C:nucleus; IEA:EnsemblFungi.
+DR   GO; GO:0008686; F:3,4-dihydroxy-2-butanone-4-phosphate synthase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0009060; P:aerobic respiration; IEA:EnsemblFungi.
+DR   GO; GO:0009231; P:riboflavin biosynthetic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 3.90.870.10; -; 1.
+DR   InterPro; IPR017945; DHBP_synth_RibB-like_a/b_dom.
+DR   InterPro; IPR000422; DHBP_synthase_RibB.
+DR   Pfam; PF00926; DHBP_synthase; 1.
+DR   SUPFAM; SSF55821; SSF55821; 1.
+DR   TIGRFAMs; TIGR00506; ribB; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Direct protein sequencing; Lyase;
+KW   Magnesium; Manganese; Metal-binding; Reference proteome;
+KW   Riboflavin biosynthesis.
+FT   CHAIN         1    233       3,4-dihydroxy-2-butanone 4-phosphate
+FT                                synthase.
+FT                                /FTId=PRO_0000296686.
+FT   REGION       36     37       Substrate binding. {ECO:0000250}.
+FT   REGION      150    154       Substrate binding.
+FT   METAL        37     37       Magnesium or manganese 1.
+FT   METAL        37     37       Magnesium or manganese 2.
+FT   METAL       153    153       Magnesium or manganese 2.
+FT   BINDING      41     41       Substrate. {ECO:0000250}.
+FT   BINDING     174    174       Substrate. {ECO:0000250}.
+FT   SITE        136    136       Essential for catalytic activity.
+FT                                {ECO:0000250}.
+FT   SITE        174    174       Essential for catalytic activity.
+FT                                {ECO:0000250}.
+FT   HELIX        15     23       {ECO:0000244|PDB:1K4I}.
+FT   STRAND       28     31       {ECO:0000244|PDB:1K4I}.
+FT   TURN         34     37       {ECO:0000244|PDB:1K4I}.
+FT   STRAND       40     45       {ECO:0000244|PDB:1K4I}.
+FT   HELIX        46     48       {ECO:0000244|PDB:1K4I}.
+FT   HELIX        51     60       {ECO:0000244|PDB:1K4I}.
+FT   STRAND       66     69       {ECO:0000244|PDB:1K4I}.
+FT   HELIX        71     76       {ECO:0000244|PDB:1K4I}.
+FT   STRAND       98    100       {ECO:0000244|PDB:1K4I}.
+FT   STRAND      106    108       {ECO:0000244|PDB:1K4I}.
+FT   HELIX       111    122       {ECO:0000244|PDB:1K4I}.
+FT   HELIX       128    130       {ECO:0000244|PDB:1K4I}.
+FT   STRAND      131    141       {ECO:0000244|PDB:1K4I}.
+FT   HELIX       146    149       {ECO:0000244|PDB:1K4I}.
+FT   HELIX       153    163       {ECO:0000244|PDB:1K4I}.
+FT   STRAND      168    177       {ECO:0000244|PDB:1K4I}.
+FT   STRAND      180    182       {ECO:0000244|PDB:1K4P}.
+FT   STRAND      188    190       {ECO:0000244|PDB:1K4I}.
+FT   HELIX       196    205       {ECO:0000244|PDB:1K4I}.
+FT   STRAND      209    212       {ECO:0000244|PDB:1K4I}.
+FT   HELIX       213    224       {ECO:0000244|PDB:1K4I}.
+SQ   SEQUENCE   233 AA;  25003 MW;  5C83AA5C49DFD07E CRC64;
+     MPSTDSIPKS NFDAIPDVIQ AFKNGEFVVV LDDPSRENEA DLIIAAESVT TEQMAFMVRH
+     SSGLICAPLT PERTTALDLP QMVTHNADPR GTAYTVSVDA EHPSTTTGIS AHDRALACRM
+     LAAPDAQPSH FRRPGHVFPL RAVAGGVRAR RGHTEAGVEL CRLAGKRPVA VISEIVDDGQ
+     EVEGRAVRAA PGMLRGDECV AFARRWGLKV CTIEDMIAHV EKTEGKLETN GSG
+//

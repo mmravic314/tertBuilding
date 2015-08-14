@@ -1,0 +1,232 @@
+ID   RAD50_PYRFU             Reviewed;         882 AA.
+AC   P58301;
+DT   26-SEP-2001, integrated into UniProtKB/Swiss-Prot.
+DT   26-SEP-2001, sequence version 1.
+DT   22-JUL-2015, entry version 112.
+DE   RecName: Full=DNA double-strand break repair Rad50 ATPase;
+GN   Name=rad50; OrderedLocusNames=PF1167;
+OS   Pyrococcus furiosus (strain ATCC 43587 / DSM 3638 / JCM 8422 / Vc1).
+OC   Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae;
+OC   Pyrococcus.
+OX   NCBI_TaxID=186497;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND CHARACTERIZATION.
+RC   STRAIN=ATCC 43587 / DSM 3638 / JCM 8422 / Vc1;
+RX   PubMed=11029422; DOI=10.1128/JB.182.21.6036-6041.2000;
+RA   Hopfner K.-P., Karcher A., Shin D., Fairley C., Tainer J.A.,
+RA   Carney J.P.;
+RT   "Mre11 and Rad50 from Pyrococcus furiosus: cloning and biochemical
+RT   characterization reveal an evolutionarily conserved multiprotein
+RT   machine.";
+RL   J. Bacteriol. 182:6036-6041(2000).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 43587 / DSM 3638 / JCM 8422 / Vc1;
+RX   PubMed=10430560;
+RA   Maeder D.L., Weiss R.B., Dunn D.M., Cherry J.L., Gonzalez J.M.,
+RA   DiRuggiero J., Robb F.T.;
+RT   "Divergence of the hyperthermophilic archaea Pyrococcus furiosus and
+RT   P. horikoshii inferred from complete genomic sequences.";
+RL   Genetics 152:1299-1305(1999).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (1.6 ANGSTROMS) OF 1-149.
+RC   STRAIN=ATCC 43587 / DSM 3638 / JCM 8422 / Vc1;
+RX   PubMed=10892749; DOI=10.1016/S0092-8674(00)80890-9;
+RA   Hopfner K.-P., Karcher A., Shin D.S., Craig L., Arthur L.M.,
+RA   Carney J.P., Tainer J.A.;
+RT   "Structural biology of Rad50 ATPase: ATP-driven conformational control
+RT   in DNA double-strand break repair and the ABC-ATPase superfamily.";
+RL   Cell 101:789-800(2000).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (3.02 ANGSTROMS) OF 1-195 AND 709-882, AND
+RP   SUBUNIT.
+RX   PubMed=11371344; DOI=10.1016/S0092-8674(01)00335-X;
+RA   Hopfner K.-P., Karcher A., Craig L., Woo T.T., Carney J.P.,
+RA   Tainer J.A.;
+RT   "Structural biochemistry and interaction architecture of the DNA
+RT   double-strand break repair Mre11 nuclease and Rad50-ATPase.";
+RL   Cell 105:473-485(2001).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) OF 396-498, AND COFACTOR.
+RX   PubMed=12152085; DOI=10.1038/nature00922;
+RA   Hopfner K.-P., Craig L., Moncalian G., Zinkel R.A., Usui T.,
+RA   Owen B.A.L., Karcher A., Henderson B., Bodmer J.-L., McMurray C.T.,
+RA   Carney J.P., Petrini J.H.J., Tainer J.A.;
+RT   "The Rad50 zinc-hook is a structure joining Mre11 complexes in DNA
+RT   recombination and repair.";
+RL   Nature 418:562-566(2002).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS) OF 8-147 OF MUTANT ARG-793.
+RX   PubMed=14698290; DOI=10.1016/j.jmb.2003.11.026;
+RA   Moncalian G., Lengsfeld B., Bhaskara V., Hopfner K.-P., Karcher A.,
+RA   Alden E., Tainer J.A., Paull T.T.;
+RT   "The rad50 signature motif: essential to ATP binding and biological
+RT   function.";
+RL   J. Mol. Biol. 335:937-951(2004).
+CC   -!- FUNCTION: Involved in DNA double-strand break repair (DSBR). The
+CC       Rad50/Mre11 complex possesses single-strand endonuclease activity
+CC       and ATP-dependent double-strand-specific 3'-5' exonuclease
+CC       activity. Rad50 provides an ATP-dependent control of Mre11 by
+CC       unwinding and/or repositioning DNA ends into the Mre11 active
+CC       site.
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC         Evidence={ECO:0000305|PubMed:12152085};
+CC       Note=Binds 1 zinc ion per heterotetramer.
+CC       {ECO:0000305|PubMed:12152085};
+CC   -!- SUBUNIT: Heterotetramer composed of two Mre11 subunits and two
+CC       Rad50 subunits. {ECO:0000269|PubMed:11371344}.
+CC   -!- INTERACTION:
+CC       Self; NbExp=3; IntAct=EBI-2505704, EBI-2505704;
+CC       Q8U1N9:mre11; NbExp=2; IntAct=EBI-2505704, EBI-2014945;
+CC   -!- DOMAIN: The two conserved Cys that bind zinc constitute the zinc-
+CC       hook, which separates the large intramolecular coiled coil
+CC       regions. The 2 Cys residues coordinate one molecule of zinc with
+CC       the help of the 2 Cys residues of the zinc-hook of another Rad50
+CC       molecule, thereby forming a V-shaped homodimer.
+CC   -!- SIMILARITY: Belongs to the SMC family. RAD50 subfamily.
+CC       {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 zinc-hook domain. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE009950; AAL81291.1; -; Genomic_DNA.
+DR   RefSeq; NP_578896.1; NC_003413.1.
+DR   RefSeq; WP_011012307.1; NC_003413.1.
+DR   PDB; 1F2T; X-ray; 1.60 A; A=1-149, B=735-882.
+DR   PDB; 1F2U; X-ray; 1.60 A; A/C=1-149, B/D=735-882.
+DR   PDB; 1II8; X-ray; 3.02 A; A=1-195, B=709-882.
+DR   PDB; 1L8D; X-ray; 2.20 A; A/B=396-506.
+DR   PDB; 1US8; X-ray; 2.10 A; A=1-147, B=739-882.
+DR   PDB; 3QKR; X-ray; 3.40 A; A=1-195, B=704-882.
+DR   PDB; 3QKS; X-ray; 2.10 A; A=1-195, B=704-882.
+DR   PDB; 3QKT; X-ray; 1.90 A; A/B/C/D=1-177, A/B/C/D=726-882.
+DR   PDB; 3QKU; X-ray; 3.30 A; A/B=1-187, A/B=716-882.
+DR   PDB; 4NCH; X-ray; 2.30 A; A/B=1-177, A/B=726-882.
+DR   PDB; 4NCI; X-ray; 2.30 A; A=1-177, A=726-882.
+DR   PDB; 4NCJ; X-ray; 2.00 A; A/B/C/D=1-177, A/B/C/D=726-882.
+DR   PDB; 4NCK; X-ray; 1.99 A; A/B=1-177, A/B=726-882.
+DR   PDBsum; 1F2T; -.
+DR   PDBsum; 1F2U; -.
+DR   PDBsum; 1II8; -.
+DR   PDBsum; 1L8D; -.
+DR   PDBsum; 1US8; -.
+DR   PDBsum; 3QKR; -.
+DR   PDBsum; 3QKS; -.
+DR   PDBsum; 3QKT; -.
+DR   PDBsum; 3QKU; -.
+DR   PDBsum; 4NCH; -.
+DR   PDBsum; 4NCI; -.
+DR   PDBsum; 4NCJ; -.
+DR   PDBsum; 4NCK; -.
+DR   ProteinModelPortal; P58301; -.
+DR   SMR; P58301; 1-195, 396-498, 709-882.
+DR   DIP; DIP-54373N; -.
+DR   IntAct; P58301; 2.
+DR   STRING; 186497.PF1167; -.
+DR   PRIDE; P58301; -.
+DR   EnsemblBacteria; AAL81291; AAL81291; PF1167.
+DR   GeneID; 1469036; -.
+DR   KEGG; pfu:PF1167; -.
+DR   eggNOG; COG0419; -.
+DR   HOGENOM; HOG000073889; -.
+DR   KO; K03546; -.
+DR   OMA; TETHARI; -.
+DR   EvolutionaryTrace; P58301; -.
+DR   Proteomes; UP000001013; Chromosome.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0016887; F:ATPase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0004519; F:endonuclease activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0004527; F:exonuclease activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0042802; F:identical protein binding; IPI:IntAct.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0006302; P:double-strand break repair; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 3.40.50.300; -; 3.
+DR   HAMAP; MF_00449; RAD50; 1.
+DR   InterPro; IPR003959; ATPase_AAA_core.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   InterPro; IPR022982; Rad50_ATPase_archaeal.
+DR   InterPro; IPR003395; RecF/RecN/SMC_N.
+DR   InterPro; IPR013134; Zn_hook_RAD50.
+DR   Pfam; PF13304; AAA_21; 1.
+DR   Pfam; PF04423; Rad50_zn_hook; 1.
+DR   Pfam; PF02463; SMC_N; 1.
+DR   SUPFAM; SSF52540; SSF52540; 3.
+DR   PROSITE; PS51131; ZN_HOOK; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; ATP-binding; Coiled coil; Complete proteome; DNA damage;
+KW   DNA repair; Hydrolase; Metal-binding; Nucleotide-binding;
+KW   Reference proteome; Zinc.
+FT   CHAIN         1    882       DNA double-strand break repair Rad50
+FT                                ATPase.
+FT                                /FTId=PRO_0000138661.
+FT   DOMAIN      399    496       Zinc-hook.
+FT   NP_BIND      30     37       ATP.
+FT   COILED      148    345       {ECO:0000255}.
+FT   COILED      399    437       {ECO:0000255}.
+FT   COILED      468    496       {ECO:0000255}.
+FT   COILED      534    744       {ECO:0000255}.
+FT   COMPBIAS    792    829       Ala/Asp-rich (DA-box).
+FT   METAL       444    444       Zinc.
+FT   METAL       447    447       Zinc.
+FT   MUTAGEN     793    793       S->R: Prevents ATP binding and disrupts
+FT                                the communication among the other ATP-
+FT                                binding loops. Prevents also Rad50
+FT                                dimerization.
+FT   STRAND        2     11       {ECO:0000244|PDB:1F2T}.
+FT   STRAND       14     20       {ECO:0000244|PDB:1F2T}.
+FT   STRAND       23     29       {ECO:0000244|PDB:1F2T}.
+FT   HELIX        36     48       {ECO:0000244|PDB:1F2T}.
+FT   HELIX        58     61       {ECO:0000244|PDB:1F2U}.
+FT   STRAND       63     67       {ECO:0000244|PDB:4NCH}.
+FT   STRAND       69     77       {ECO:0000244|PDB:1F2T}.
+FT   STRAND       80     88       {ECO:0000244|PDB:1F2T}.
+FT   STRAND       93     95       {ECO:0000244|PDB:1F2U}.
+FT   STRAND       96    104       {ECO:0000244|PDB:1F2T}.
+FT   STRAND      107    112       {ECO:0000244|PDB:1F2T}.
+FT   HELIX       116    126       {ECO:0000244|PDB:1F2T}.
+FT   HELIX       129    135       {ECO:0000244|PDB:1F2T}.
+FT   STRAND      137    139       {ECO:0000244|PDB:1US8}.
+FT   HELIX       142    146       {ECO:0000244|PDB:1F2T}.
+FT   HELIX       152    161       {ECO:0000244|PDB:3QKT}.
+FT   HELIX       167    173       {ECO:0000244|PDB:3QKT}.
+FT   HELIX       181    186       {ECO:0000244|PDB:3QKU}.
+FT   HELIX       397    437       {ECO:0000244|PDB:1L8D}.
+FT   STRAND      441    443       {ECO:0000244|PDB:1L8D}.
+FT   TURN        445    447       {ECO:0000244|PDB:1L8D}.
+FT   HELIX       453    497       {ECO:0000244|PDB:1L8D}.
+FT   TURN        717    722       {ECO:0000244|PDB:3QKU}.
+FT   HELIX       727    734       {ECO:0000244|PDB:4NCJ}.
+FT   HELIX       741    759       {ECO:0000244|PDB:1F2T}.
+FT   TURN        760    762       {ECO:0000244|PDB:1F2T}.
+FT   STRAND      766    771       {ECO:0000244|PDB:1F2T}.
+FT   STRAND      774    782       {ECO:0000244|PDB:1F2T}.
+FT   STRAND      785    787       {ECO:0000244|PDB:1F2T}.
+FT   HELIX       789    791       {ECO:0000244|PDB:1F2T}.
+FT   HELIX       794    813       {ECO:0000244|PDB:1F2T}.
+FT   STRAND      817    823       {ECO:0000244|PDB:1F2T}.
+FT   STRAND      825    828       {ECO:0000244|PDB:1II8}.
+FT   HELIX       830    842       {ECO:0000244|PDB:1F2T}.
+FT   HELIX       844    846       {ECO:0000244|PDB:1F2T}.
+FT   STRAND      847    855       {ECO:0000244|PDB:1F2T}.
+FT   HELIX       857    862       {ECO:0000244|PDB:1F2T}.
+FT   STRAND      864    872       {ECO:0000244|PDB:1F2T}.
+FT   STRAND      875    882       {ECO:0000244|PDB:1F2T}.
+SQ   SEQUENCE   882 AA;  103840 MW;  3ADCBD250382A99E CRC64;
+     MKLERVTVKN FRSHSDTVVE FKEGINLIIG QNGSGKSSLL DAILVGLYWP LRIKDIKKDE
+     FTKVGARDTY IDLIFEKDGT KYRITRRFLK GYSSGEIHAM KRLVGNEWKH VTEPSSKAIS
+     AFMEKLIPYN IFLNAIYIRQ GQIDAILESD EAREKVVREV LNLDKFETAY KKLSELKKTI
+     NNRIKEYRDI LARTENIEEL IKENEQELIQ VLQEISKIEE VLPSKRSKVD MLRKEVLRLE
+     ETKVEIENSE RLLEKRRGDK RTLEERIKNT EEYLEKLKEK EKELEEQVKE ITSIKKDVDA
+     YLALKEFKNE YLDKKYKIEK ELTRVEELIN EIQKRIEELN EKESEKEKLE NEKKEILNKL
+     AILEKDHQLY EEIKAKKENL RQLKEKLGDK SPEDIKKLLE ELETKKTTIE EERNEITQRI
+     GELKNKIGDL KTAIEELKKA KGKCPVCGRE LTDEHREELL SKYHLDLNNS KNTLAKLIDR
+     KSELERELRR IDMEIKRLTP LLTVAEQIRS IEEELNVVNL EKIEKNATEY EKLLEELRTL
+     EGRIRGLAED LKKLAPLEKK LAALIHKKQE LEKELKELNT KLESFGFKSV EDLDSKLREL
+     EEIYKRYLTL LNSKKELEIT QREIAKAKET LEMSFEELAE VEADIERIEK KLSQLKQKYN
+     EEEYKKKREE KEELEKELAR LEAQKKELEK RRDTIKSTLE KLKAEKENRE RVKKEIKDLE
+     KAKDFTEELI EKVKKYKALA REAALSKIGE LASEIFAEFT EGKYSEVVVR AEENKVRLFV
+     VWEGKERPLT FLSGGERIAL GLAFRLAMSL YLAGEISLLI LDEPTPYLDE ERRRKLITIM
+     ERYLKKIPQV ILVSHDEELK DAADHVIRIS LENGSSKVEV VS
+//

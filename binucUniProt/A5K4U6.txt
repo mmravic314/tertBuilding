@@ -1,0 +1,134 @@
+ID   A5K4U6_PLAVS            Unreviewed;       375 AA.
+AC   A5K4U6;
+DT   10-JUL-2007, integrated into UniProtKB/TrEMBL.
+DT   10-JUL-2007, sequence version 1.
+DT   22-JUL-2015, entry version 59.
+DE   SubName: Full=Farnesyl pyrophosphate synthase, putative {ECO:0000313|EMBL:EDL45674.1};
+GN   ORFNames=PVX_092040 {ECO:0000313|EMBL:EDL45674.1};
+OS   Plasmodium vivax (strain Salvador I).
+OC   Eukaryota; Alveolata; Apicomplexa; Aconoidasida; Haemosporida;
+OC   Plasmodiidae; Plasmodium; Plasmodium (Plasmodium).
+OX   NCBI_TaxID=126793 {ECO:0000313|Proteomes:UP000008333};
+RN   [1] {ECO:0000313|EMBL:EDL45674.1, ECO:0000313|Proteomes:UP000008333}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Salvador I {ECO:0000313|EMBL:EDL45674.1,
+RC   ECO:0000313|Proteomes:UP000008333};
+RX   PubMed=18843361; DOI=10.1038/nature07327;
+RA   Carlton J.M., Adams J.H., Silva J.C., Bidwell S.L., Lorenzi H.,
+RA   Caler E., Crabtree J., Angiuoli S.V., Merino E.F., Amedeo P.,
+RA   Cheng Q., Coulson R.M., Crabb B.S., Del Portillo H.A., Essien K.,
+RA   Feldblyum T.V., Fernandez-Becerra C., Gilson P.R., Gueye A.H., Guo X.,
+RA   Kang'a S., Kooij T.W., Korsinczky M., Meyer E.V., Nene V., Paulsen I.,
+RA   White O., Ralph S.A., Ren Q., Sargeant T.J., Salzberg S.L.,
+RA   Stoeckert C.J., Sullivan S.A., Yamamoto M.M., Hoffman S.L.,
+RA   Wortman J.R., Gardner M.J., Galinski M.R., Barnwell J.W.,
+RA   Fraser-Liggett C.M.;
+RT   "Comparative genomics of the neglected human malaria parasite
+RT   Plasmodium vivax.";
+RL   Nature 455:757-763(2008).
+RN   [2] {ECO:0000213|PDB:3CC9}
+RP   X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS).
+RA   Wernimont A.K., Dunford J., Lew J., Zhao Y., Kozieradzki I.,
+RA   Cossar D., Schapira M., Bochkarev A., Arrowsmith C.H., Bountra C.,
+RA   Weigelt J., Edwards A.M., Hui R., Artz J.D.;
+RT   "Crystal structure of Plasmodium vivax putative polyprenyl
+RT   pyrophosphate synthase in complex with geranylgeranyl diphosphate.";
+RL   Submitted (FEB-2008) to the PDB data bank.
+RN   [3] {ECO:0000213|PDB:3EZ3}
+RP   X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) IN COMPLEX WITH MAGNESIUM.
+RA   Wernimont A.K., Lew J., Zhao Y., Kozieradzki I., Cossar D.,
+RA   Schapira M., Bochkarev A., Arrowsmith C.H., Bountra C., Weigelt J.,
+RA   Edwards A.M., Hui R., Artz J.D.;
+RT   "Crystal Structure of Plasmodium vivax geranylgeranylpyrophosphate
+RT   synthase PVX_092040 with zoledronate and IPP bound.";
+RL   Submitted (OCT-2008) to the PDB data bank.
+RN   [4] {ECO:0000213|PDB:3LDW, ECO:0000213|PDB:3MAV, ECO:0000213|PDB:3PH7}
+RP   X-RAY CRYSTALLOGRAPHY (2.10 ANGSTROMS) IN COMPLEX WITH MAGNESIUM.
+RX   PubMed=21084289; DOI=10.1074/jbc.M109.027235;
+RA   Artz J.D., Wernimont A.K., Dunford J.E., Schapira M., Dong A.,
+RA   Zhao Y., Lew J., Russell R.G., Ebetino F.H., Oppermann U., Hui R.;
+RT   "Molecular characterization of a novel geranylgeranyl pyrophosphate
+RT   synthase from Plasmodium parasites.";
+RL   J. Biol. Chem. 286:3315-3322(2011).
+RN   [5] {ECO:0000213|PDB:3RBM, ECO:0000213|PDB:3RYW}
+RP   X-RAY CRYSTALLOGRAPHY (2.61 ANGSTROMS) IN COMPLEX WITH MAGNESIUM.
+RX   PubMed=22392982; DOI=10.1073/pnas.1118215109;
+RA   No J.H., de Macedo Dossin F., Zhang Y., Liu Y.L., Zhu W., Feng X.,
+RA   Yoo J.A., Lee E., Wang K., Hui R., Freitas-Junior L.H., Oldfield E.;
+RT   "Lipophilic analogs of zoledronate and risedronate inhibit Plasmodium
+RT   geranylgeranyl diphosphate synthase (GGPPS) and exhibit potent
+RT   antimalarial activity.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 109:4058-4063(2012).
+CC   -!- SIMILARITY: Belongs to the FPP/GGPP synthase family.
+CC       {ECO:0000256|RuleBase:RU004466}.
+CC   -!- CAUTION: The sequence shown here is derived from an
+CC       EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is
+CC       preliminary data. {ECO:0000313|EMBL:EDL45674.1}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AAKM01000005; EDL45674.1; -; Genomic_DNA.
+DR   RefSeq; XP_001615401.1; XM_001615351.1.
+DR   PDB; 3CC9; X-ray; 2.30 A; A/B/C/D=1-375.
+DR   PDB; 3EZ3; X-ray; 2.30 A; A/B/C/D=1-375.
+DR   PDB; 3LDW; X-ray; 2.47 A; A/B/C/D=1-375.
+DR   PDB; 3MAV; X-ray; 2.10 A; A/B/C/D=1-375.
+DR   PDB; 3PH7; X-ray; 2.50 A; A/B/C/D=1-375.
+DR   PDB; 3RBM; X-ray; 2.61 A; A/B/C/D=1-375.
+DR   PDB; 3RYW; X-ray; 2.90 A; A/B/C/D=1-375.
+DR   PDBsum; 3CC9; -.
+DR   PDBsum; 3EZ3; -.
+DR   PDBsum; 3LDW; -.
+DR   PDBsum; 3MAV; -.
+DR   PDBsum; 3PH7; -.
+DR   PDBsum; 3RBM; -.
+DR   PDBsum; 3RYW; -.
+DR   ProteinModelPortal; A5K4U6; -.
+DR   SMR; A5K4U6; 14-374.
+DR   DIP; DIP-60027N; -.
+DR   GeneID; 5474697; -.
+DR   KEGG; pvx:PVX_092040; -.
+DR   EuPathDB; PlasmoDB:PVX_092040; -.
+DR   HOGENOM; HOG000160912; -.
+DR   InParanoid; A5K4U6; -.
+DR   KO; K00787; -.
+DR   EvolutionaryTrace; A5K4U6; -.
+DR   Proteomes; UP000008333; Chromosome 9.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016740; F:transferase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0008299; P:isoprenoid biosynthetic process; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.600.10; -; 1.
+DR   InterPro; IPR008949; Isoprenoid_synthase_dom.
+DR   InterPro; IPR000092; Polyprenyl_synt.
+DR   Pfam; PF00348; polyprenyl_synt; 1.
+DR   SUPFAM; SSF48576; SSF48576; 1.
+DR   PROSITE; PS00444; POLYPRENYL_SYNTHASE_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3CC9, ECO:0000213|PDB:3EZ3};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000008333};
+KW   Isoprene biosynthesis {ECO:0000256|RuleBase:RU004466};
+KW   Magnesium {ECO:0000213|PDB:3EZ3, ECO:0000213|PDB:3LDW};
+KW   Metal-binding {ECO:0000213|PDB:3EZ3, ECO:0000213|PDB:3LDW};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000008333};
+KW   Transferase {ECO:0000256|RuleBase:RU004466}.
+FT   METAL       105    105       Magnesium 1. {ECO:0000213|PDB:3EZ3,
+FT                                ECO:0000213|PDB:3LDW,
+FT                                ECO:0000213|PDB:3RBM}.
+FT   METAL       105    105       Magnesium 2. {ECO:0000213|PDB:3RYW}.
+FT   METAL       109    109       Magnesium 1. {ECO:0000213|PDB:3EZ3,
+FT                                ECO:0000213|PDB:3LDW,
+FT                                ECO:0000213|PDB:3RBM}.
+FT   METAL       109    109       Magnesium 2. {ECO:0000213|PDB:3RYW}.
+FT   METAL       174    174       Magnesium 1. {ECO:0000213|PDB:3RYW}.
+FT   METAL       174    174       Magnesium 2. {ECO:0000213|PDB:3RYW}.
+FT   METAL       177    177       Magnesium 2. {ECO:0000213|PDB:3RYW}.
+SQ   SEQUENCE   375 AA;  43700 MW;  294091BF0E13966B CRC64;
+     MKETNSEEAD SGLAFFRNMY DKYRDAFLSH LNEYSLEEEI KEHISKYYKL LFDYNCLGGK
+     NNRGILVILI YEYVKNRDIN SSEWEKAACL AWCIEILQAA FLVADDIMDK GETRRNKYCW
+     YLLKDVETKN AVNDVLLLYN SIYKLIEIYL RNESCYVDVI ATFRDATLKT IIGQHLDTNI
+     FSDKYSDAHR EIDVNNINVP EQPVININMI NFGVYKNIVI HKTAYYSFFL PIVCGMLLAG
+     IAVDNLIYKK IEDISMLMGE YFQIHDDYLD IFGDSTKTGK VGSDIQNNKL TWPLIKTFEL
+     CSEPDKIKIV KNYGKNNLAC VKVIDSLYEQ YKIRKHYESY EKAQKAKILS AINELHHEGI
+     EYVLKYLLEI LFTGV
+//

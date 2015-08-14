@@ -1,0 +1,79 @@
+ID   Q5LE76_BACFN            Unreviewed;       253 AA.
+AC   Q5LE76;
+DT   21-JUN-2005, integrated into UniProtKB/TrEMBL.
+DT   21-JUN-2005, sequence version 1.
+DT   22-JUL-2015, entry version 55.
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAH07576.1};
+GN   ORFNames=BF9343_1795 {ECO:0000313|EMBL:CAH07576.1};
+OS   Bacteroides fragilis (strain ATCC 25285 / DSM 2151 / JCM 11019 / NCTC
+OS   9343).
+OC   Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Bacteroidaceae;
+OC   Bacteroides.
+OX   NCBI_TaxID=272559 {ECO:0000313|EMBL:CAH07576.1, ECO:0000313|Proteomes:UP000006731};
+RN   [1] {ECO:0000313|EMBL:CAH07576.1, ECO:0000313|Proteomes:UP000006731}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 25285 / DSM 2151 / JCM 11019 / NCTC 9343
+RC   {ECO:0000313|Proteomes:UP000006731};
+RX   PubMed=15746427; DOI=10.1126/science.1107008;
+RA   Cerdeno-Tarraga A.-M., Patrick S., Crossman L.C., Blakely G.,
+RA   Abratt V., Lennard N., Poxton I., Duerden B., Harris B., Quail M.A.,
+RA   Barron A., Clark L., Corton C., Doggett J., Holden M.T.G., Larke N.,
+RA   Line A., Lord A., Norbertczak H., Ormond D., Price C.,
+RA   Rabbinowitsch E., Woodward J., Barrell B.G., Parkhill J.;
+RT   "Extensive DNA inversions in the B. fragilis genome control variable
+RT   gene expression.";
+RL   Science 307:1463-1465(2005).
+RN   [2] {ECO:0000213|PDB:3LUB}
+RP   X-RAY CRYSTALLOGRAPHY (2.11 ANGSTROMS) IN COMPLEX WITH ZINC.
+RG   Joint Center for Structural Genomics (JCSG);
+RT   "Crystal structure of Putative creatinine amidohydrolase (YP_211512.1)
+RT   from Bacteroides fragilis NCTC 9343 at 2.11 A resolution.";
+RL   Submitted (FEB-2010) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CR626927; CAH07576.1; -; Genomic_DNA.
+DR   RefSeq; WP_005794868.1; NC_003228.3.
+DR   PDB; 3LUB; X-ray; 2.11 A; A/B/C/D/E/F/G/H/I/J/K/L=1-253.
+DR   PDBsum; 3LUB; -.
+DR   ProteinModelPortal; Q5LE76; -.
+DR   STRING; 272559.BF1877; -.
+DR   DNASU; 3285835; -.
+DR   EnsemblBacteria; CAH07576; CAH07576; BF9343_1795.
+DR   KEGG; bfs:BF9343_1795; -.
+DR   PATRIC; 21040212; VBIBacFra29119_1852.
+DR   eggNOG; COG1402; -.
+DR   HOGENOM; HOG000024401; -.
+DR   KO; K01470; -.
+DR   OMA; DSHAGEV; -.
+DR   OrthoDB; EOG64V2CK; -.
+DR   BioCyc; BFRA272559:GKF0-1811-MONOMER; -.
+DR   Proteomes; UP000006731; Chromosome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.50.10310; -; 1.
+DR   InterPro; IPR024087; Creatininase-like_dom.
+DR   InterPro; IPR003785; Creatininase/forma_Hydrolase.
+DR   Pfam; PF02633; Creatininase; 1.
+DR   SUPFAM; SSF102215; SSF102215; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3LUB};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000006731};
+KW   Metal-binding {ECO:0000213|PDB:3LUB};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000006731};
+KW   Zinc {ECO:0000213|PDB:3LUB}.
+FT   METAL        31     31       Zinc 1. {ECO:0000213|PDB:3LUB}.
+FT   METAL        33     33       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3LUB}.
+FT   METAL        42     42       Zinc 1. {ECO:0000213|PDB:3LUB}.
+FT   METAL        42     42       Zinc 2. {ECO:0000213|PDB:3LUB}.
+FT   METAL       119    119       Zinc 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3LUB}.
+FT   METAL       167    167       Zinc 2. {ECO:0000213|PDB:3LUB}.
+SQ   SEQUENCE   253 AA;  28118 MW;  D4699431CEF9E8E4 CRC64;
+     MNKEVDLSVS CLGKVKELKY DVIILPWGAT EPHNLHLPYL TDCILPHDIA VEAAELALSR
+     SGVRCMVMPP VPFGAHNPGQ RELPFCIHTR YATQQAILED IVSSLHVQGF RKLLILSGHG
+     GNNFKGMIRD LAFEYPDFLI AAANWFEVVS PKGYFEAEID DHAGESETSV MMHYHPELVN
+     LAEAGDGESK PFAIASLNEK VAWVPRHWDK ATVDSGVGNP KKATAEKGER YVKPIVEKLA
+     GLFEEMAQHD LYE
+//

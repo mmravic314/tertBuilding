@@ -1,0 +1,277 @@
+ID   GLNA1_MYCTO             Reviewed;         478 AA.
+AC   P9WN38; L0TAJ3; P0A590; Q10377;
+DT   16-APR-2014, integrated into UniProtKB/Swiss-Prot.
+DT   16-APR-2014, sequence version 1.
+DT   22-JUL-2015, entry version 13.
+DE   RecName: Full=Glutamine synthetase 1;
+DE            EC=6.3.1.2;
+DE   AltName: Full=Glutamate--ammonia ligase 1;
+GN   Name=glnA1; Synonyms=glnA; OrderedLocusNames=MT2278;
+OS   Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh).
+OC   Bacteria; Actinobacteria; Corynebacteriales; Mycobacteriaceae;
+OC   Mycobacterium; Mycobacterium tuberculosis complex.
+OX   NCBI_TaxID=83331;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=CDC 1551 / Oshkosh;
+RX   PubMed=12218036; DOI=10.1128/JB.184.19.5479-5490.2002;
+RA   Fleischmann R.D., Alland D., Eisen J.A., Carpenter L., White O.,
+RA   Peterson J.D., DeBoy R.T., Dodson R.J., Gwinn M.L., Haft D.H.,
+RA   Hickey E.K., Kolonay J.F., Nelson W.C., Umayam L.A., Ermolaeva M.D.,
+RA   Salzberg S.L., Delcher A., Utterback T.R., Weidman J.F., Khouri H.M.,
+RA   Gill J., Mikula A., Bishai W., Jacobs W.R. Jr., Venter J.C.,
+RA   Fraser C.M.;
+RT   "Whole-genome comparison of Mycobacterium tuberculosis clinical and
+RT   laboratory strains.";
+RL   J. Bacteriol. 184:5479-5490(2002).
+CC   -!- CATALYTIC ACTIVITY: ATP + L-glutamate + NH(3) = ADP + phosphate +
+CC       L-glutamine.
+CC   -!- SUBUNIT: Oligomer of 12 subunits arranged in the form of two
+CC       hexagons. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the glutamine synthetase family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE000516; AAK46563.1; -; Genomic_DNA.
+DR   PIR; H70775; H70775.
+DR   RefSeq; WP_003411475.1; NZ_KK341227.1.
+DR   ProteinModelPortal; P9WN38; -.
+DR   SMR; P9WN38; 4-478.
+DR   EnsemblBacteria; AAK46563; AAK46563; MT2278.
+DR   KEGG; mtc:MT2278; -.
+DR   KO; K01915; -.
+DR   Proteomes; UP000001020; Chromosome.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004356; F:glutamate-ammonia ligase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0006542; P:glutamine biosynthetic process; IEA:InterPro.
+DR   GO; GO:0009399; P:nitrogen fixation; IEA:InterPro.
+DR   Gene3D; 3.10.20.70; -; 1.
+DR   Gene3D; 3.30.590.10; -; 1.
+DR   InterPro; IPR008147; Gln_synt_beta.
+DR   InterPro; IPR014746; Gln_synth/guanido_kin_cat_dom.
+DR   InterPro; IPR008146; Gln_synth_cat_dom.
+DR   InterPro; IPR027303; Gln_synth_gly_rich_site.
+DR   InterPro; IPR004809; Gln_synth_I.
+DR   InterPro; IPR001637; Gln_synth_I_adenylation_site.
+DR   InterPro; IPR027302; Gln_synth_N_conserv_site.
+DR   Pfam; PF00120; Gln-synt_C; 1.
+DR   Pfam; PF03951; Gln-synt_N; 1.
+DR   SUPFAM; SSF54368; SSF54368; 1.
+DR   TIGRFAMs; TIGR00653; GlnA; 1.
+DR   PROSITE; PS00180; GLNA_1; 1.
+DR   PROSITE; PS00182; GLNA_ADENYLATION; 1.
+DR   PROSITE; PS00181; GLNA_ATP; 1.
+PE   3: Inferred from homology;
+KW   ATP-binding; Complete proteome; Cytoplasm; Ligase; Nucleotide-binding;
+KW   Phosphoprotein.
+FT   CHAIN         1    478       Glutamine synthetase 1.
+FT                                /FTId=PRO_0000427194.
+FT   MOD_RES     406    406       O-AMP-tyrosine. {ECO:0000250}.
+SQ   SEQUENCE   478 AA;  53570 MW;  576E30073484136D CRC64;
+     MTEKTPDDVF KLAKDEKVEY VDVRFCDLPG IMQHFTIPAS AFDKSVFDDG LAFDGSSIRG
+     FQSIHESDML LLPDPETARI DPFRAAKTLN INFFVHDPFT LEPYSRDPRN IARKAENYLI
+     STGIADTAYF GAEAEFYIFD SVSFDSRANG SFYEVDAISG WWNTGAATEA DGSPNRGYKV
+     RHKGGYFPVA PNDQYVDLRD KMLTNLINSG FILEKGHHEV GSGGQAEINY QFNSLLHAAD
+     DMQLYKYIIK NTAWQNGKTV TFMPKPLFGD NGSGMHCHQS LWKDGAPLMY DETGYAGLSD
+     TARHYIGGLL HHAPSLLAFT NPTVNSYKRL VPGYEAPINL VYSQRNRSAC VRIPITGSNP
+     KAKRLEFRSP DSSGNPYLAF SAMLMAGLDG IKNKIEPQAP VDKDLYELPP EEAASIPQTP
+     TQLSDVIDRL EADHEYLTEG GVFTNDLIET WISFKRENEI EPVNIRPHPY EFALYYDV
+//
+ID   GLNA1_MYCTU             Reviewed;         478 AA.
+AC   P9WN39; L0TAJ3; P0A590; Q10377;
+DT   16-APR-2014, integrated into UniProtKB/Swiss-Prot.
+DT   16-APR-2014, sequence version 1.
+DT   22-JUL-2015, entry version 15.
+DE   RecName: Full=Glutamine synthetase 1;
+DE            EC=6.3.1.2;
+DE   AltName: Full=Glutamate--ammonia ligase 1;
+GN   Name=glnA1; Synonyms=glnA; OrderedLocusNames=Rv2220;
+GN   ORFNames=MTCY190.31, MTCY427.01;
+OS   Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv).
+OC   Bacteria; Actinobacteria; Corynebacteriales; Mycobacteriaceae;
+OC   Mycobacterium; Mycobacterium tuberculosis complex.
+OX   NCBI_TaxID=83332;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 35801 / TMC 107 / Erdman;
+RX   PubMed=9278431; DOI=10.1074/jbc.272.36.22728;
+RA   Harth G., Horwitz M.A.;
+RT   "Expression and efficient export of enzymatically active Mycobacterium
+RT   tuberculosis glutamine synthetase in Mycobacterium smegmatis and
+RT   evidence that the information for export is contained within the
+RT   protein.";
+RL   J. Biol. Chem. 272:22728-22735(1997).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 25618 / H37Rv;
+RX   PubMed=9634230; DOI=10.1038/31159;
+RA   Cole S.T., Brosch R., Parkhill J., Garnier T., Churcher C.M.,
+RA   Harris D.E., Gordon S.V., Eiglmeier K., Gas S., Barry C.E. III,
+RA   Tekaia F., Badcock K., Basham D., Brown D., Chillingworth T.,
+RA   Connor R., Davies R.M., Devlin K., Feltwell T., Gentles S., Hamlin N.,
+RA   Holroyd S., Hornsby T., Jagels K., Krogh A., McLean J., Moule S.,
+RA   Murphy L.D., Oliver S., Osborne J., Quail M.A., Rajandream M.A.,
+RA   Rogers J., Rutter S., Seeger K., Skelton S., Squares S., Squares R.,
+RA   Sulston J.E., Taylor K., Whitehead S., Barrell B.G.;
+RT   "Deciphering the biology of Mycobacterium tuberculosis from the
+RT   complete genome sequence.";
+RL   Nature 393:537-544(1998).
+RN   [3]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   STRAIN=ATCC 25618 / H37Rv;
+RX   PubMed=21969609; DOI=10.1074/mcp.M111.011627;
+RA   Kelkar D.S., Kumar D., Kumar P., Balakrishnan L., Muthusamy B.,
+RA   Yadav A.K., Shrivastava P., Marimuthu A., Anand S., Sundaram H.,
+RA   Kingsbury R., Harsha H.C., Nair B., Prasad T.S., Chauhan D.S.,
+RA   Katoch K., Katoch V.M., Kumar P., Chaerkady R., Ramachandran S.,
+RA   Dash D., Pandey A.;
+RT   "Proteogenomic analysis of Mycobacterium tuberculosis by high
+RT   resolution mass spectrometry.";
+RL   Mol. Cell. Proteomics 10:M111.011627-M111.011627(2011).
+CC   -!- CATALYTIC ACTIVITY: ATP + L-glutamate + NH(3) = ADP + phosphate +
+CC       L-glutamine.
+CC   -!- ENZYME REGULATION: The activity of this enzyme is controlled by
+CC       adenylation under conditions of abundant glutamine. The fully
+CC       adenylated enzyme complex is inactive (By similarity).
+CC       {ECO:0000250}.
+CC   -!- SUBUNIT: Oligomer of 12 subunits arranged in the form of two
+CC       hexagons. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the glutamine synthetase family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U87280; AAB70038.1; -; Genomic_DNA.
+DR   EMBL; AL123456; CCP44998.1; -; Genomic_DNA.
+DR   PIR; H70775; H70775.
+DR   RefSeq; NP_216736.1; NC_000962.3.
+DR   RefSeq; WP_003411475.1; NZ_KK339370.1.
+DR   PDB; 1HTO; X-ray; 2.40 A; A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/X=2-478.
+DR   PDB; 1HTQ; X-ray; 2.40 A; A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/X=2-478.
+DR   PDB; 2BVC; X-ray; 2.10 A; A/B/C/D/E/F=2-478.
+DR   PDB; 2WGS; X-ray; 2.55 A; A/B/C/D/E/F/G/H/I/J/K/L=2-478.
+DR   PDB; 2WHI; X-ray; 2.20 A; A/B/C/D/E/F=2-478.
+DR   PDB; 3ZXR; X-ray; 2.15 A; A/B/C/D/E/F=2-478.
+DR   PDB; 3ZXV; X-ray; 2.26 A; A/B/C/D/E/F=2-478.
+DR   PDB; 4ACF; X-ray; 2.00 A; A/B/C/D/E/F=2-478.
+DR   PDB; 4XYC; X-ray; 3.30 A; A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/X=1-478.
+DR   PDBsum; 1HTO; -.
+DR   PDBsum; 1HTQ; -.
+DR   PDBsum; 2BVC; -.
+DR   PDBsum; 2WGS; -.
+DR   PDBsum; 2WHI; -.
+DR   PDBsum; 3ZXR; -.
+DR   PDBsum; 3ZXV; -.
+DR   PDBsum; 4ACF; -.
+DR   PDBsum; 4XYC; -.
+DR   ProteinModelPortal; P9WN39; -.
+DR   SMR; P9WN39; 4-478.
+DR   STRING; 83332.Rv2220; -.
+DR   EnsemblBacteria; CCP44998; CCP44998; Rv2220.
+DR   GeneID; 888383; -.
+DR   KEGG; mtn:ERDMAN_2439; -.
+DR   KEGG; mtu:Rv2220; -.
+DR   KEGG; mtv:RVBD_2220; -.
+DR   TubercuList; Rv2220; -.
+DR   KO; K01915; -.
+DR   OMA; ACFMPKP; -.
+DR   PhylomeDB; P9WN39; -.
+DR   Proteomes; UP000001584; Chromosome.
+DR   GO; GO:0005618; C:cell wall; IDA:MTBBASE.
+DR   GO; GO:0005829; C:cytosol; IDA:MTBBASE.
+DR   GO; GO:0005576; C:extracellular region; IDA:MTBBASE.
+DR   GO; GO:0005886; C:plasma membrane; IDA:MTBBASE.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004356; F:glutamate-ammonia ligase activity; IDA:MTBBASE.
+DR   GO; GO:0020012; P:evasion or tolerance of host immune response; IDA:MTBBASE.
+DR   GO; GO:0006542; P:glutamine biosynthetic process; IMP:MTBBASE.
+DR   GO; GO:0040007; P:growth; IMP:MTBBASE.
+DR   GO; GO:0009399; P:nitrogen fixation; IEA:InterPro.
+DR   GO; GO:0009405; P:pathogenesis; IMP:MTBBASE.
+DR   Gene3D; 3.10.20.70; -; 1.
+DR   Gene3D; 3.30.590.10; -; 1.
+DR   InterPro; IPR008147; Gln_synt_beta.
+DR   InterPro; IPR014746; Gln_synth/guanido_kin_cat_dom.
+DR   InterPro; IPR008146; Gln_synth_cat_dom.
+DR   InterPro; IPR027303; Gln_synth_gly_rich_site.
+DR   InterPro; IPR004809; Gln_synth_I.
+DR   InterPro; IPR001637; Gln_synth_I_adenylation_site.
+DR   InterPro; IPR027302; Gln_synth_N_conserv_site.
+DR   Pfam; PF00120; Gln-synt_C; 1.
+DR   Pfam; PF03951; Gln-synt_N; 1.
+DR   SUPFAM; SSF54368; SSF54368; 1.
+DR   TIGRFAMs; TIGR00653; GlnA; 1.
+DR   PROSITE; PS00180; GLNA_1; 1.
+DR   PROSITE; PS00182; GLNA_ADENYLATION; 1.
+DR   PROSITE; PS00181; GLNA_ATP; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; ATP-binding; Complete proteome; Cytoplasm; Ligase;
+KW   Nucleotide-binding; Phosphoprotein; Reference proteome.
+FT   CHAIN         1    478       Glutamine synthetase 1.
+FT                                /FTId=PRO_0000153246.
+FT   MOD_RES     406    406       O-AMP-tyrosine. {ECO:0000250}.
+FT   HELIX         6     15       {ECO:0000244|PDB:4ACF}.
+FT   STRAND       20     26       {ECO:0000244|PDB:4ACF}.
+FT   STRAND       28     30       {ECO:0000244|PDB:4ACF}.
+FT   STRAND       32     38       {ECO:0000244|PDB:4ACF}.
+FT   HELIX        39     41       {ECO:0000244|PDB:4ACF}.
+FT   HELIX        44     48       {ECO:0000244|PDB:4ACF}.
+FT   STRAND       51     54       {ECO:0000244|PDB:4ACF}.
+FT   HELIX        55     57       {ECO:0000244|PDB:4ACF}.
+FT   STRAND       58     62       {ECO:0000244|PDB:1HTQ}.
+FT   HELIX        64     66       {ECO:0000244|PDB:4ACF}.
+FT   STRAND       68     73       {ECO:0000244|PDB:4ACF}.
+FT   HELIX        75     77       {ECO:0000244|PDB:4ACF}.
+FT   STRAND       88     96       {ECO:0000244|PDB:4ACF}.
+FT   TURN         98    100       {ECO:0000244|PDB:4ACF}.
+FT   HELIX       108    122       {ECO:0000244|PDB:4ACF}.
+FT   STRAND      126    134       {ECO:0000244|PDB:4ACF}.
+FT   STRAND      136    146       {ECO:0000244|PDB:4ACF}.
+FT   STRAND      151    156       {ECO:0000244|PDB:4ACF}.
+FT   HELIX       161    163       {ECO:0000244|PDB:4ACF}.
+FT   STRAND      186    188       {ECO:0000244|PDB:4ACF}.
+FT   TURN        190    192       {ECO:0000244|PDB:4ACF}.
+FT   HELIX       196    208       {ECO:0000244|PDB:4ACF}.
+FT   STRAND      213    218       {ECO:0000244|PDB:4ACF}.
+FT   TURN        222    224       {ECO:0000244|PDB:4ACF}.
+FT   STRAND      225    230       {ECO:0000244|PDB:4ACF}.
+FT   HELIX       235    255       {ECO:0000244|PDB:4ACF}.
+FT   STRAND      259    261       {ECO:0000244|PDB:4ACF}.
+FT   STRAND      275    283       {ECO:0000244|PDB:4ACF}.
+FT   STRAND      286    290       {ECO:0000244|PDB:4ACF}.
+FT   HELIX       295    297       {ECO:0000244|PDB:4ACF}.
+FT   HELIX       300    320       {ECO:0000244|PDB:4ACF}.
+FT   HELIX       326    329       {ECO:0000244|PDB:4ACF}.
+FT   STRAND      330    333       {ECO:0000244|PDB:1HTQ}.
+FT   STRAND      334    336       {ECO:0000244|PDB:4ACF}.
+FT   STRAND      338    340       {ECO:0000244|PDB:4ACF}.
+FT   STRAND      342    344       {ECO:0000244|PDB:4ACF}.
+FT   STRAND      349    353       {ECO:0000244|PDB:4ACF}.
+FT   TURN        360    362       {ECO:0000244|PDB:4ACF}.
+FT   STRAND      365    367       {ECO:0000244|PDB:4ACF}.
+FT   STRAND      372    374       {ECO:0000244|PDB:4ACF}.
+FT   HELIX       376    392       {ECO:0000244|PDB:4ACF}.
+FT   HELIX       405    407       {ECO:0000244|PDB:4ACF}.
+FT   HELIX       410    414       {ECO:0000244|PDB:4ACF}.
+FT   HELIX       423    432       {ECO:0000244|PDB:4ACF}.
+FT   HELIX       435    438       {ECO:0000244|PDB:4ACF}.
+FT   HELIX       439    441       {ECO:0000244|PDB:4ACF}.
+FT   HELIX       445    458       {ECO:0000244|PDB:4ACF}.
+FT   HELIX       460    464       {ECO:0000244|PDB:4ACF}.
+FT   HELIX       469    475       {ECO:0000244|PDB:4ACF}.
+SQ   SEQUENCE   478 AA;  53570 MW;  576E30073484136D CRC64;
+     MTEKTPDDVF KLAKDEKVEY VDVRFCDLPG IMQHFTIPAS AFDKSVFDDG LAFDGSSIRG
+     FQSIHESDML LLPDPETARI DPFRAAKTLN INFFVHDPFT LEPYSRDPRN IARKAENYLI
+     STGIADTAYF GAEAEFYIFD SVSFDSRANG SFYEVDAISG WWNTGAATEA DGSPNRGYKV
+     RHKGGYFPVA PNDQYVDLRD KMLTNLINSG FILEKGHHEV GSGGQAEINY QFNSLLHAAD
+     DMQLYKYIIK NTAWQNGKTV TFMPKPLFGD NGSGMHCHQS LWKDGAPLMY DETGYAGLSD
+     TARHYIGGLL HHAPSLLAFT NPTVNSYKRL VPGYEAPINL VYSQRNRSAC VRIPITGSNP
+     KAKRLEFRSP DSSGNPYLAF SAMLMAGLDG IKNKIEPQAP VDKDLYELPP EEAASIPQTP
+     TQLSDVIDRL EADHEYLTEG GVFTNDLIET WISFKRENEI EPVNIRPHPY EFALYYDV
+//

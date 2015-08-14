@@ -1,0 +1,570 @@
+ID   POLH_YEAST              Reviewed;         632 AA.
+AC   Q04049; D6VT49;
+DT   12-DEC-2006, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   22-JUL-2015, entry version 115.
+DE   RecName: Full=DNA polymerase eta;
+DE            EC=2.7.7.7;
+DE   AltName: Full=Radiation-sensitive protein 30;
+GN   Name=RAD30; Synonyms=DBH1; OrderedLocusNames=YDR419W;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=559292;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=9169867;
+RA   Jacq C., Alt-Moerbe J., Andre B., Arnold W., Bahr A., Ballesta J.P.G.,
+RA   Bargues M., Baron L., Becker A., Biteau N., Bloecker H., Blugeon C.,
+RA   Boskovic J., Brandt P., Brueckner M., Buitrago M.J., Coster F.,
+RA   Delaveau T., del Rey F., Dujon B., Eide L.G., Garcia-Cantalejo J.M.,
+RA   Goffeau A., Gomez-Peris A., Granotier C., Hanemann V., Hankeln T.,
+RA   Hoheisel J.D., Jaeger W., Jimenez A., Jonniaux J.-L., Kraemer C.,
+RA   Kuester H., Laamanen P., Legros Y., Louis E.J., Moeller-Rieker S.,
+RA   Monnet A., Moro M., Mueller-Auer S., Nussbaumer B., Paricio N.,
+RA   Paulin L., Perea J., Perez-Alonso M., Perez-Ortin J.E., Pohl T.M.,
+RA   Prydz H., Purnelle B., Rasmussen S.W., Remacha M.A., Revuelta J.L.,
+RA   Rieger M., Salom D., Saluz H.P., Saiz J.E., Saren A.-M., Schaefer M.,
+RA   Scharfe M., Schmidt E.R., Schneider C., Scholler P., Schwarz S.,
+RA   Soler-Mira A., Urrestarazu L.A., Verhasselt P., Vissers S., Voet M.,
+RA   Volckaert G., Wagner G., Wambutt R., Wedler E., Wedler H., Woelfl S.,
+RA   Harris D.E., Bowman S., Brown D., Churcher C.M., Connor R., Dedman K.,
+RA   Gentles S., Hamlin N., Hunt S., Jones L., McDonald S., Murphy L.D.,
+RA   Niblett D., Odell C., Oliver K., Rajandream M.A., Richards C.,
+RA   Shore L., Walsh S.V., Barrell B.G., Dietrich F.S., Mulligan J.T.,
+RA   Allen E., Araujo R., Aviles E., Berno A., Carpenter J., Chen E.,
+RA   Cherry J.M., Chung E., Duncan M., Hunicke-Smith S., Hyman R.W.,
+RA   Komp C., Lashkari D., Lew H., Lin D., Mosedale D., Nakahara K.,
+RA   Namath A., Oefner P., Oh C., Petel F.X., Roberts D., Schramm S.,
+RA   Schroeder M., Shogren T., Shroff N., Winant A., Yelton M.A.,
+RA   Botstein D., Davis R.W., Johnston M., Andrews S., Brinkman R.,
+RA   Cooper J., Ding H., Du Z., Favello A., Fulton L., Gattung S.,
+RA   Greco T., Hallsworth K., Hawkins J., Hillier L.W., Jier M.,
+RA   Johnson D., Johnston L., Kirsten J., Kucaba T., Langston Y.,
+RA   Latreille P., Le T., Mardis E., Menezes S., Miller N., Nhan M.,
+RA   Pauley A., Peluso D., Rifkin L., Riles L., Taich A., Trevaskis E.,
+RA   Vignati D., Wilcox L., Wohldman P., Vaudin M., Wilson R.,
+RA   Waterston R., Albermann K., Hani J., Heumann K., Kleine K.,
+RA   Mewes H.-W., Zollner A., Zaccaria P.;
+RT   "The nucleotide sequence of Saccharomyces cerevisiae chromosome IV.";
+RL   Nature 387:75-78(1997).
+RN   [2]
+RP   GENOME REANNOTATION.
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=24374639; DOI=10.1534/g3.113.008995;
+RA   Engel S.R., Dietrich F.S., Fisk D.G., Binkley G., Balakrishnan R.,
+RA   Costanzo M.C., Dwight S.S., Hitz B.C., Karra K., Nash R.S., Weng S.,
+RA   Wong E.D., Lloyd P., Skrzypek M.S., Miyasato S.R., Simison M.,
+RA   Cherry J.M.;
+RT   "The reference genome sequence of Saccharomyces cerevisiae: Then and
+RT   now.";
+RL   G3 (Bethesda) 4:389-398(2014).
+RN   [3]
+RP   FUNCTION, AND INDUCTION.
+RX   PubMed=9409821;
+RA   McDonald J.P., Levine A.S., Woodgate R.;
+RT   "The Saccharomyces cerevisiae RAD30 gene, a homologue of Escherichia
+RT   coli dinB and umuC, is DNA damage inducible and functions in a novel
+RT   error-free postreplication repair mechanism.";
+RL   Genetics 147:1557-1568(1997).
+RN   [4]
+RP   FUNCTION, AND MUTAGENESIS OF 155-ASP-GLU-156.
+RX   PubMed=10347143; DOI=10.1074/jbc.274.23.15975;
+RA   Johnson R.E., Prakash S., Prakash L.;
+RT   "Requirement of DNA polymerase activity of yeast Rad30 protein for its
+RT   biological function.";
+RL   J. Biol. Chem. 274:15975-15977(1999).
+RN   [5]
+RP   FUNCTION.
+RX   PubMed=10601233; DOI=10.1074/jbc.274.52.36835;
+RA   Washington M.T., Johnson R.E., Prakash S., Prakash L.;
+RT   "Fidelity and processivity of Saccharomyces cerevisiae DNA polymerase
+RT   eta.";
+RL   J. Biol. Chem. 274:36835-36838(1999).
+RN   [6]
+RP   FUNCTION.
+RX   PubMed=9974380; DOI=10.1126/science.283.5404.1001;
+RA   Johnson R.E., Prakash S., Prakash L.;
+RT   "Efficient bypass of a thymine-thymine dimer by yeast DNA polymerase,
+RT   Poleta.";
+RL   Science 283:1001-1004(1999).
+RN   [7]
+RP   FUNCTION.
+RX   PubMed=10924462;
+RA   Xiao W., Chow B.L., Broomfield S., Hanna M.;
+RT   "The Saccharomyces cerevisiae RAD6 group is composed of an error-prone
+RT   and two error-free postreplication repair pathways.";
+RL   Genetics 155:1633-1641(2000).
+RN   [8]
+RP   FUNCTION.
+RX   PubMed=10713149; DOI=10.1074/jbc.275.11.8233;
+RA   Yuan F., Zhang Y., Rajpal D.K., Wu X., Guo D., Wang M., Taylor J.-S.,
+RA   Wang Z.;
+RT   "Specificity of DNA lesion bypass by the yeast DNA polymerase eta.";
+RL   J. Biol. Chem. 275:8233-8239(2000).
+RN   [9]
+RP   FUNCTION.
+RX   PubMed=11027270; DOI=10.1128/MCB.20.21.8001-8007.2000;
+RA   Haracska L., Prakash S., Prakash L.;
+RT   "Replication past O(6)-methylguanine by yeast and human DNA polymerase
+RT   eta.";
+RL   Mol. Cell. Biol. 20:8001-8007(2000).
+RN   [10]
+RP   FUNCTION.
+RX   PubMed=10932195; DOI=10.1038/78169;
+RA   Haracska L., Yu S.-L., Johnson R.E., Prakash L., Prakash S.;
+RT   "Efficient and accurate replication in the presence of 7,8-dihydro-8-
+RT   oxoguanine by DNA polymerase eta.";
+RL   Nat. Genet. 25:458-461(2000).
+RN   [11]
+RP   FUNCTION.
+RX   PubMed=10725365; DOI=10.1073/pnas.97.7.3094;
+RA   Washington M.T., Johnson R.E., Prakash S., Prakash L.;
+RT   "Accuracy of thymine-thymine dimer bypass by Saccharomyces cerevisiae
+RT   DNA polymerase eta.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 97:3094-3099(2000).
+RN   [12]
+RP   FUNCTION.
+RX   PubMed=11062246; DOI=10.1074/jbc.M007867200;
+RA   Minko I.G., Washington M.T., Prakash L., Prakash S., Lloyd R.S.;
+RT   "Translesion DNA synthesis by yeast DNA polymerase eta on templates
+RT   containing N2-guanine adducts of 1,3-butadiene metabolites.";
+RL   J. Biol. Chem. 276:2517-2522(2001).
+RN   [13]
+RP   FUNCTION, DOMAIN, INTERACTION WITH POL30, AND MUTAGENESIS OF
+RP   627-PHE-PHE-628.
+RX   PubMed=11545742; DOI=10.1016/S1097-2765(01)00319-7;
+RA   Haracska L., Kondratick C.M., Unk I., Prakash S., Prakash L.;
+RT   "Interaction with PCNA is essential for yeast DNA polymerase eta
+RT   function.";
+RL   Mol. Cell 8:407-415(2001).
+RN   [14]
+RP   FUNCTION.
+RX   PubMed=11113193; DOI=10.1128/MCB.21.1.185-188.2001;
+RA   Yu S.-L., Johnson R.E., Prakash S., Prakash L.;
+RT   "Requirement of DNA polymerase eta for error-free bypass of UV-induced
+RT   CC and TC photoproducts.";
+RL   Mol. Cell. Biol. 21:185-188(2001).
+RN   [15]
+RP   FUNCTION, DOMAIN, AND MUTAGENESIS OF ASP-30; GLU-39; ASP-155 AND
+RP   GLU-156.
+RX   PubMed=11238937; DOI=10.1128/MCB.21.6.2018-2025.2001;
+RA   Kondratick C.M., Washington M.T., Prakash S., Prakash L.;
+RT   "Acidic residues critical for the activity and biological function of
+RT   yeast DNA polymerase eta.";
+RL   Mol. Cell. Biol. 21:2018-2025(2001).
+RN   [16]
+RP   FUNCTION.
+RX   PubMed=11054429; DOI=10.1074/jbc.M009049200;
+RA   Washington M.T., Johnson R.E., Prakash S., Prakash L.;
+RT   "Mismatch extension ability of yeast and human DNA polymerase eta.";
+RL   J. Biol. Chem. 276:2263-2266(2001).
+RN   [17]
+RP   FUNCTION.
+RX   PubMed=12110599; DOI=10.1093/emboj/cdf363;
+RA   Bresson A., Fuchs R.P.;
+RT   "Lesion bypass in yeast cells: Pol eta participates in a multi-DNA
+RT   polymerase process.";
+RL   EMBO J. 21:3881-3887(2002).
+RN   [18]
+RP   FUNCTION.
+RX   PubMed=11861920; DOI=10.1093/nar/30.5.1262;
+RA   Zhang H., Siede W.;
+RT   "UV-induced T-->C transition at a TT photoproduct site is dependent on
+RT   Saccharomyces cerevisiae polymerase eta in vivo.";
+RL   Nucleic Acids Res. 30:1262-1267(2002).
+RN   [19]
+RP   FUNCTION.
+RX   PubMed=12899630; DOI=10.1021/bi0345687;
+RA   Sun L., Zhang K., Zhou L., Hohler P., Kool E.T., Yuan F., Wang Z.,
+RA   Taylor J.-S.;
+RT   "Yeast pol eta holds a cis-syn thymine dimer loosely in the active
+RT   site during elongation opposite the 3'-T of the dimer, but tightly
+RT   opposite the 5'-T.";
+RL   Biochemistry 42:9431-9437(2003).
+RN   [20]
+RP   FUNCTION, AND MUTAGENESIS OF TYR-64; ARG-67 AND LYS-279.
+RX   PubMed=12665597; DOI=10.1128/MCB.23.8.3008-3012.2003;
+RA   Johnson R.E., Trincao J., Aggarwal A.K., Prakash S., Prakash L.;
+RT   "Deoxynucleotide triphosphate binding mode conserved in Y family DNA
+RT   polymerases.";
+RL   Mol. Cell. Biol. 23:3008-3012(2003).
+RN   [21]
+RP   SUBCELLULAR LOCATION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562095; DOI=10.1038/nature02026;
+RA   Huh W.-K., Falvo J.V., Gerke L.C., Carroll A.S., Howson R.W.,
+RA   Weissman J.S., O'Shea E.K.;
+RT   "Global analysis of protein localization in budding yeast.";
+RL   Nature 425:686-691(2003).
+RN   [22]
+RP   LEVEL OF PROTEIN EXPRESSION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562106; DOI=10.1038/nature02046;
+RA   Ghaemmaghami S., Huh W.-K., Bower K., Howson R.W., Belle A.,
+RA   Dephoure N., O'Shea E.K., Weissman J.S.;
+RT   "Global analysis of protein expression in yeast.";
+RL   Nature 425:737-741(2003).
+RN   [23]
+RP   FUNCTION.
+RX   PubMed=12888515; DOI=10.1093/nar/gkg489;
+RA   Kozmin S.G., Pavlov Y.I., Kunkel T.A., Sage E.;
+RT   "Roles of Saccharomyces cerevisiae DNA polymerases Poleta and Polzeta
+RT   in response to irradiation by simulated sunlight.";
+RL   Nucleic Acids Res. 31:4541-4552(2003).
+RN   [24]
+RP   FUNCTION.
+RX   PubMed=12692307; DOI=10.1073/pnas.0837578100;
+RA   Washington M.T., Wolfle W.T., Spratt T.E., Prakash L., Prakash S.;
+RT   "Yeast DNA polymerase eta makes functional contacts with the DNA minor
+RT   groove only at the incoming nucleoside triphosphate.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 100:5113-5118(2003).
+RN   [25]
+RP   FUNCTION.
+RX   PubMed=14527996; DOI=10.1073/pnas.2134223100;
+RA   Washington M.T., Prakash L., Prakash S.;
+RT   "Mechanism of nucleotide incorporation opposite a thymine-thymine
+RT   dimer by yeast DNA polymerase eta.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 100:12093-12098(2003).
+RN   [26]
+RP   FUNCTION.
+RX   PubMed=15157108; DOI=10.1021/bi0497749;
+RA   Gu C., Wang Y.;
+RT   "LC-MS/MS identification and yeast polymerase eta bypass of a novel
+RT   gamma-irradiation-induced intrastrand cross-link lesion G[8-5]C.";
+RL   Biochemistry 43:6745-6750(2004).
+RN   [27]
+RP   FUNCTION.
+RX   PubMed=15544332; DOI=10.1021/bi0489558;
+RA   Hwang H., Taylor J.-S.;
+RT   "Role of base stacking and sequence context in the inhibition of yeast
+RT   DNA polymerase eta by pyrene nucleotide.";
+RL   Biochemistry 43:14612-14623(2004).
+RN   [28]
+RP   FUNCTION.
+RX   PubMed=15284331; DOI=10.1093/nar/gkh710;
+RA   Zhao B., Xie Z., Shen H., Wang Z.;
+RT   "Role of DNA polymerase eta in the bypass of abasic sites in yeast
+RT   cells.";
+RL   Nucleic Acids Res. 32:3984-3994(2004).
+RN   [29]
+RP   FUNCTION.
+RX   PubMed=15333698; DOI=10.1093/nar/gkh777;
+RA   McCulloch S.D., Kokoska R.J., Chilkova O., Welch C.M., Johansson E.,
+RA   Burgers P.M.J., Kunkel T.A.;
+RT   "Enzymatic switching for efficient and accurate translesion DNA
+RT   replication.";
+RL   Nucleic Acids Res. 32:4665-4675(2004).
+RN   [30]
+RP   FUNCTION, AND MUTAGENESIS OF PHE-34.
+RX   PubMed=15024063; DOI=10.1128/MCB.24.7.2734-2746.2004;
+RA   Niimi A., Limsirichaikul S., Yoshida S., Iwai S., Masutani C.,
+RA   Hanaoka F., Kool E.T., Nishiyama Y., Suzuki M.;
+RT   "Palm mutants in DNA polymerases alpha and eta alter DNA replication
+RT   fidelity and translesion activity.";
+RL   Mol. Cell. Biol. 24:2734-2746(2004).
+RN   [31]
+RP   FUNCTION.
+RX   PubMed=15779911; DOI=10.1021/bi048244+;
+RA   Hwang H., Taylor J.-S.;
+RT   "Evidence for Watson-Crick and not Hoogsteen or wobble base pairing in
+RT   the selection of nucleotides for insertion opposite pyrimidines and a
+RT   thymine dimer by yeast DNA pol eta.";
+RL   Biochemistry 44:4850-4860(2005).
+RN   [32]
+RP   INDUCTION.
+RX   PubMed=15725627; DOI=10.1016/j.dnarep.2004.12.001;
+RA   Michan C., Monje-Casas F., Pueyo C.;
+RT   "Transcript copy number of genes for DNA repair and translesion
+RT   synthesis in yeast: contribution of transcription rate and mRNA
+RT   stability to the steady-state level of each mRNA along with growth in
+RT   glucose-fermentative medium.";
+RL   DNA Repair 4:469-478(2005).
+RN   [33]
+RP   FUNCTION.
+RX   PubMed=16181813; DOI=10.1016/j.dnarep.2005.08.012;
+RA   Xie Z., Zhang Y., Guliaev A.B., Shen H., Hang B., Singer B., Wang Z.;
+RT   "The p-benzoquinone DNA adducts derived from benzene are highly
+RT   mutagenic.";
+RL   DNA Repair 4:1399-1409(2005).
+RN   [34]
+RP   FUNCTION.
+RX   PubMed=15520252; DOI=10.1534/genetics.104.034611;
+RA   Gibbs P.E.M., McDonald J.P., Woodgate R., Lawrence C.W.;
+RT   "The relative roles in vivo of Saccharomyces cerevisiae Pol eta, Pol
+RT   zeta, Rev1 protein and Pol32 in the bypass and mutation induction of
+RT   an abasic site, T-T (6-4) photoadduct and T-T cis-syn cyclobutane
+RT   dimer.";
+RL   Genetics 169:575-582(2005).
+RN   [35]
+RP   FUNCTION.
+RX   PubMed=16366567; DOI=10.1021/ja0549188;
+RA   Ober M., Mueller H., Pieck C., Gierlich J., Carell T.;
+RT   "Base pairing and replicative processing of the formamidopyrimidine-dG
+RT   DNA lesion.";
+RL   J. Am. Chem. Soc. 127:18143-18149(2005).
+RN   [36]
+RP   FUNCTION.
+RX   PubMed=15743815; DOI=10.1128/MCB.25.6.2169-2176.2005;
+RA   Carlson K.D., Washington M.T.;
+RT   "Mechanism of efficient and accurate nucleotide incorporation opposite
+RT   7,8-dihydro-8-oxoguanine by Saccharomyces cerevisiae DNA polymerase
+RT   eta.";
+RL   Mol. Cell. Biol. 25:2169-2176(2005).
+RN   [37]
+RP   FUNCTION.
+RX   PubMed=16866379; DOI=10.1021/bi0602009;
+RA   Vu B., Cannistraro V.J., Sun L., Taylor J.-S.;
+RT   "DNA synthesis past a 5-methylC-containing cis-syn-cyclobutane
+RT   pyrimidine dimer by yeast pol eta is highly nonmutagenic.";
+RL   Biochemistry 45:9327-9335(2006).
+RN   [38]
+RP   FUNCTION.
+RX   PubMed=16387871; DOI=10.1534/genetics.105.052480;
+RA   Abdulovic A.L., Jinks-Robertson S.;
+RT   "The in vivo characterization of translesion synthesis across UV-
+RT   induced lesions in Saccharomyces cerevisiae: insights into Pol zeta-
+RT   and Pol eta-dependent frameshift mutagenesis.";
+RL   Genetics 172:1487-1498(2006).
+RN   [39]
+RP   FUNCTION.
+RX   PubMed=16415180; DOI=10.1093/nar/gkj446;
+RA   Zhao B., Wang J., Geacintov N.E., Wang Z.;
+RT   "Poleta, Polzeta and Rev1 together are required for G to T
+RT   transversion mutations induced by the (+)- and (-)-trans-anti-BPDE-N2-
+RT   dG DNA adducts in yeast cells.";
+RL   Nucleic Acids Res. 34:417-425(2006).
+RN   [40]
+RP   X-RAY CRYSTALLOGRAPHY (2.25 ANGSTROMS) OF 1-531.
+RX   PubMed=11545743; DOI=10.1016/S1097-2765(01)00306-9;
+RA   Trincao J., Johnson R.E., Escalante C.R., Prakash S., Prakash L.,
+RA   Aggarwal A.K.;
+RT   "Structure of the catalytic core of S. cerevisiae DNA polymerase eta:
+RT   implications for translesion DNA synthesis.";
+RL   Mol. Cell 8:417-426(2001).
+CC   -!- FUNCTION: DNA polymerase specifically involved in DNA repair.
+CC       Plays an important role in translesion synthesis, where the normal
+CC       high fidelity DNA polymerases cannot proceed and DNA synthesis
+CC       stalls. Plays an important role in the repair of UV-induced
+CC       pyrimidine dimers. Depending on the context, it inserts the
+CC       correct base, but causes frequent base transitions and
+CC       transversions. Efficiently incorporates nucleotides opposite to
+CC       other UV or oxidative DNA damages like O(6)-methylguanine, 7,8-
+CC       dihydro-8-oxoguanine, 2,6-diamino-4-hydroxy-5-formamidopyrimidine
+CC       of 2'-deoxyguanosine (FaPydG), or p-benzoquinone DNA adducts.
+CC       {ECO:0000269|PubMed:10347143, ECO:0000269|PubMed:10601233,
+CC       ECO:0000269|PubMed:10713149, ECO:0000269|PubMed:10725365,
+CC       ECO:0000269|PubMed:10924462, ECO:0000269|PubMed:10932195,
+CC       ECO:0000269|PubMed:11027270, ECO:0000269|PubMed:11054429,
+CC       ECO:0000269|PubMed:11062246, ECO:0000269|PubMed:11113193,
+CC       ECO:0000269|PubMed:11238937, ECO:0000269|PubMed:11545742,
+CC       ECO:0000269|PubMed:11861920, ECO:0000269|PubMed:12110599,
+CC       ECO:0000269|PubMed:12665597, ECO:0000269|PubMed:12692307,
+CC       ECO:0000269|PubMed:12888515, ECO:0000269|PubMed:12899630,
+CC       ECO:0000269|PubMed:14527996, ECO:0000269|PubMed:15024063,
+CC       ECO:0000269|PubMed:15157108, ECO:0000269|PubMed:15284331,
+CC       ECO:0000269|PubMed:15333698, ECO:0000269|PubMed:15520252,
+CC       ECO:0000269|PubMed:15544332, ECO:0000269|PubMed:15743815,
+CC       ECO:0000269|PubMed:15779911, ECO:0000269|PubMed:16181813,
+CC       ECO:0000269|PubMed:16366567, ECO:0000269|PubMed:16387871,
+CC       ECO:0000269|PubMed:16415180, ECO:0000269|PubMed:16866379,
+CC       ECO:0000269|PubMed:9409821, ECO:0000269|PubMed:9974380}.
+CC   -!- CATALYTIC ACTIVITY: Deoxynucleoside triphosphate + DNA(n) =
+CC       diphosphate + DNA(n+1).
+CC   -!- SUBUNIT: Interacts with POL30. This interaction is essential for
+CC       the polymerase eta function. {ECO:0000269|PubMed:11545742}.
+CC   -!- INTERACTION:
+CC       P15873:POL30; NbExp=3; IntAct=EBI-36214, EBI-12993;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:14562095}.
+CC   -!- INDUCTION: By UV radiation and heat shock. The mRNA is stabilized
+CC       during stationary phase. {ECO:0000269|PubMed:15725627,
+CC       ECO:0000269|PubMed:9409821}.
+CC   -!- MISCELLANEOUS: Present with 1860 molecules/cell in log phase SD
+CC       medium. {ECO:0000269|PubMed:14562106}.
+CC   -!- SIMILARITY: Belongs to the DNA polymerase type-Y family.
+CC       {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 umuC domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00216}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U33007; AAB64856.1; -; Genomic_DNA.
+DR   EMBL; BK006938; DAA12259.1; -; Genomic_DNA.
+DR   PIR; S69702; S69702.
+DR   RefSeq; NP_010707.3; NM_001180727.3.
+DR   PDB; 1JIH; X-ray; 2.25 A; A/B=1-513.
+DR   PDB; 2R8J; X-ray; 3.10 A; A/B=1-531.
+DR   PDB; 2R8K; X-ray; 3.30 A; A/B=1-531.
+DR   PDB; 2WTF; X-ray; 2.50 A; A/B=1-513.
+DR   PDB; 2XGP; X-ray; 2.70 A; A/B=1-513.
+DR   PDB; 2XGQ; X-ray; 2.70 A; A/B=1-513.
+DR   PDB; 3MFH; X-ray; 2.00 A; A=1-513.
+DR   PDB; 3MFI; X-ray; 1.76 A; A=1-513.
+DR   PDB; 3OHA; X-ray; 2.00 A; A=1-513.
+DR   PDB; 3OHB; X-ray; 2.00 A; A=1-513.
+DR   PDBsum; 1JIH; -.
+DR   PDBsum; 2R8J; -.
+DR   PDBsum; 2R8K; -.
+DR   PDBsum; 2WTF; -.
+DR   PDBsum; 2XGP; -.
+DR   PDBsum; 2XGQ; -.
+DR   PDBsum; 3MFH; -.
+DR   PDBsum; 3MFI; -.
+DR   PDBsum; 3OHA; -.
+DR   PDBsum; 3OHB; -.
+DR   ProteinModelPortal; Q04049; -.
+DR   SMR; Q04049; 1-512.
+DR   BioGrid; 32477; 85.
+DR   DIP; DIP-6500N; -.
+DR   IntAct; Q04049; 8.
+DR   MINT; MINT-708283; -.
+DR   MaxQB; Q04049; -.
+DR   PaxDb; Q04049; -.
+DR   PRIDE; Q04049; -.
+DR   EnsemblFungi; YDR419W; YDR419W; YDR419W.
+DR   GeneID; 852028; -.
+DR   KEGG; sce:YDR419W; -.
+DR   CYGD; YDR419w; -.
+DR   EuPathDB; FungiDB:YDR419W; -.
+DR   SGD; S000002827; RAD30.
+DR   eggNOG; COG0389; -.
+DR   HOGENOM; HOG000065930; -.
+DR   InParanoid; Q04049; -.
+DR   KO; K03509; -.
+DR   OMA; GYTTSCG; -.
+DR   OrthoDB; EOG7RFTT2; -.
+DR   BioCyc; YEAST:G3O-29960-MONOMER; -.
+DR   Reactome; REACT_326247; Translesion Synthesis by POLH.
+DR   Reactome; REACT_357098; Termination of translesion DNA synthesis.
+DR   EvolutionaryTrace; Q04049; -.
+DR   NextBio; 970255; -.
+DR   PRO; PR:Q04049; -.
+DR   Proteomes; UP000002311; Chromosome IV.
+DR   GO; GO:0005739; C:mitochondrion; IDA:SGD.
+DR   GO; GO:0005634; C:nucleus; IDA:SGD.
+DR   GO; GO:0005657; C:replication fork; IPI:SGD.
+DR   GO; GO:0003684; F:damaged DNA binding; IEA:InterPro.
+DR   GO; GO:0003887; F:DNA-directed DNA polymerase activity; IDA:SGD.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0007059; P:chromosome segregation; IMP:SGD.
+DR   GO; GO:0006260; P:DNA replication; IEA:UniProtKB-KW.
+DR   GO; GO:0070987; P:error-free translesion synthesis; IDA:SGD.
+DR   GO; GO:0042276; P:error-prone translesion synthesis; IDA:SGD.
+DR   GO; GO:0007064; P:mitotic sister chromatid cohesion; IMP:SGD.
+DR   Gene3D; 3.30.1490.100; -; 1.
+DR   InterPro; IPR017961; DNA_pol_Y-fam_little_finger.
+DR   InterPro; IPR001126; DNA_repair_prot_UmuC-like.
+DR   InterPro; IPR017963; DNA_repair_prot_UmuC-like_N.
+DR   Pfam; PF00817; IMS; 1.
+DR   Pfam; PF11799; IMS_C; 1.
+DR   SUPFAM; SSF100879; SSF100879; 1.
+DR   PROSITE; PS50173; UMUC; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; DNA damage; DNA repair;
+KW   DNA replication; DNA synthesis; DNA-binding;
+KW   DNA-directed DNA polymerase; Magnesium; Metal-binding;
+KW   Mutator protein; Nucleotidyltransferase; Nucleus; Reference proteome;
+KW   Transferase.
+FT   CHAIN         1    632       DNA polymerase eta.
+FT                                /FTId=PRO_0000268698.
+FT   DOMAIN       26    309       UmuC. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00216}.
+FT   REGION      625    632       POL30-binding.
+FT   METAL        30     30       Magnesium. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00216}.
+FT   METAL       155    155       Magnesium. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00216}.
+FT   MUTAGEN      30     30       D->A: Abolishes DNA polymerase activity.
+FT                                {ECO:0000269|PubMed:11238937}.
+FT   MUTAGEN      34     34       F->L: Alters translesion activity.
+FT                                {ECO:0000269|PubMed:15024063}.
+FT   MUTAGEN      39     39       E->A: Abolishes DNA polymerase activity.
+FT                                {ECO:0000269|PubMed:11238937}.
+FT   MUTAGEN      64     64       Y->F,A: Decreases efficiency of
+FT                                nucleotide incorporation.
+FT                                {ECO:0000269|PubMed:12665597}.
+FT   MUTAGEN      67     67       R->A: Decreases efficiency of nucleotide
+FT                                incorporation.
+FT                                {ECO:0000269|PubMed:12665597}.
+FT   MUTAGEN     155    155       D->A: Abolishes DNA polymerase activity
+FT                                and increases UV-induced mutations.
+FT                                {ECO:0000269|PubMed:11238937}.
+FT   MUTAGEN     156    156       E->A: Decreases efficiency of nucleotide
+FT                                incorporation.
+FT                                {ECO:0000269|PubMed:11238937}.
+FT   MUTAGEN     279    279       K->A: Decreases efficiency of nucleotide
+FT                                incorporation.
+FT                                {ECO:0000269|PubMed:12665597}.
+FT   MUTAGEN     627    627       F->A: Abolishes POL30-binding; when
+FT                                associated with A-628.
+FT   MUTAGEN     628    628       F->A: Abolishes POL30-binding; when
+FT                                associated with A-627.
+FT   STRAND        1      5       {ECO:0000244|PDB:3MFI}.
+FT   HELIX         6     10       {ECO:0000244|PDB:3MFI}.
+FT   HELIX        11     13       {ECO:0000244|PDB:3MFI}.
+FT   TURN         15     17       {ECO:0000244|PDB:3MFI}.
+FT   HELIX        18     20       {ECO:0000244|PDB:3MFI}.
+FT   STRAND       21     23       {ECO:0000244|PDB:2R8K}.
+FT   STRAND       26     31       {ECO:0000244|PDB:3MFI}.
+FT   HELIX        34     42       {ECO:0000244|PDB:3MFI}.
+FT   STRAND       51     55       {ECO:0000244|PDB:3MFI}.
+FT   STRAND       58     62       {ECO:0000244|PDB:3MFI}.
+FT   HELIX        64     67       {ECO:0000244|PDB:3MFI}.
+FT   TURN         68     70       {ECO:0000244|PDB:3MFI}.
+FT   HELIX        77     81       {ECO:0000244|PDB:3MFI}.
+FT   STRAND       88     91       {ECO:0000244|PDB:3MFI}.
+FT   STRAND       93     96       {ECO:0000244|PDB:3MFI}.
+FT   STRAND      100    103       {ECO:0000244|PDB:3OHB}.
+FT   HELIX       115    117       {ECO:0000244|PDB:3OHA}.
+FT   STRAND      123    127       {ECO:0000244|PDB:3MFI}.
+FT   HELIX       129    145       {ECO:0000244|PDB:3MFI}.
+FT   STRAND      149    153       {ECO:0000244|PDB:3MFI}.
+FT   STRAND      156    160       {ECO:0000244|PDB:3MFI}.
+FT   HELIX       162    171       {ECO:0000244|PDB:3MFI}.
+FT   STRAND      176    178       {ECO:0000244|PDB:3MFI}.
+FT   HELIX       183    186       {ECO:0000244|PDB:3MFI}.
+FT   HELIX       188    196       {ECO:0000244|PDB:3MFI}.
+FT   STRAND      203    206       {ECO:0000244|PDB:3MFI}.
+FT   HELIX       210    214       {ECO:0000244|PDB:3MFI}.
+FT   STRAND      219    221       {ECO:0000244|PDB:3MFI}.
+FT   HELIX       233    256       {ECO:0000244|PDB:3MFI}.
+FT   STRAND      260    267       {ECO:0000244|PDB:3MFI}.
+FT   HELIX       268    275       {ECO:0000244|PDB:3MFI}.
+FT   TURN        276    278       {ECO:0000244|PDB:1JIH}.
+FT   STRAND      280    285       {ECO:0000244|PDB:3MFI}.
+FT   HELIX       288    290       {ECO:0000244|PDB:3MFI}.
+FT   HELIX       291    295       {ECO:0000244|PDB:3MFI}.
+FT   STRAND      297    299       {ECO:0000244|PDB:3MFI}.
+FT   HELIX       302    304       {ECO:0000244|PDB:3MFI}.
+FT   HELIX       306    308       {ECO:0000244|PDB:1JIH}.
+FT   HELIX       311    319       {ECO:0000244|PDB:3MFI}.
+FT   STRAND      324    326       {ECO:0000244|PDB:3MFI}.
+FT   HELIX       327    334       {ECO:0000244|PDB:3MFI}.
+FT   HELIX       339    351       {ECO:0000244|PDB:3MFI}.
+FT   STRAND      352    355       {ECO:0000244|PDB:2WTF}.
+FT   TURN        357    359       {ECO:0000244|PDB:3OHA}.
+FT   HELIX       364    366       {ECO:0000244|PDB:3MFH}.
+FT   HELIX       367    377       {ECO:0000244|PDB:3MFI}.
+FT   TURN        378    380       {ECO:0000244|PDB:3MFI}.
+FT   STRAND      395    400       {ECO:0000244|PDB:3MFI}.
+FT   TURN        403    406       {ECO:0000244|PDB:3MFI}.
+FT   HELIX       409    434       {ECO:0000244|PDB:3MFI}.
+FT   STRAND      436    448       {ECO:0000244|PDB:3MFI}.
+FT   STRAND      454    460       {ECO:0000244|PDB:3MFI}.
+FT   HELIX       466    468       {ECO:0000244|PDB:3MFI}.
+FT   HELIX       469    487       {ECO:0000244|PDB:3MFI}.
+FT   TURN        488    490       {ECO:0000244|PDB:3MFI}.
+FT   STRAND      497    510       {ECO:0000244|PDB:3MFI}.
+SQ   SEQUENCE   632 AA;  71515 MW;  CFB1A9FBC8AFE39B CRC64;
+     MSKFTWKELI QLGSPSKAYE SSLACIAHID MNAFFAQVEQ MRCGLSKEDP VVCVQWNSII
+     AVSYAARKYG ISRMDTIQEA LKKCSNLIPI HTAVFKKGED FWQYHDGCGS WVQDPAKQIS
+     VEDHKVSLEP YRRESRKALK IFKSACDLVE RASIDEVFLD LGRICFNMLM FDNEYELTGD
+     LKLKDALSNI REAFIGGNYD INSHLPLIPE KIKSLKFEGD VFNPEGRDLI TDWDDVILAL
+     GSQVCKGIRD SIKDILGYTT SCGLSSTKNV CKLASNYKKP DAQTIVKNDC LLDFLDCGKF
+     EITSFWTLGG VLGKELIDVL DLPHENSIKH IRETWPDNAG QLKEFLDAKV KQSDYDRSTS
+     NIDPLKTADL AEKLFKLSRG RYGLPLSSRP VVKSMMSNKN LRGKSCNSIV DCISWLEVFC
+     AELTSRIQDL EQEYNKIVIP RTVSISLKTK SYEVYRKSGP VAYKGINFQS HELLKVGIKF
+     VTDLDIKGKN KSYYPLTKLS MTITNFDIID LQKTVVDMFG NQVHTFKSSA GKEDEEKTTS
+     SKADEKTPKL ECCKYQVTFT DQKALQEHAD YHLALKLSEG LNGAEESSKN LSFGEKRLLF
+     SRKRPNSQHT ATPQKKQVTS SKNILSFFTR KK
+//

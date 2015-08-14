@@ -1,0 +1,84 @@
+ID   O50325_DICCH            Unreviewed;       344 AA.
+AC   O50325;
+DT   01-JUN-1998, integrated into UniProtKB/TrEMBL.
+DT   01-JUN-1998, sequence version 1.
+DT   24-JUN-2015, entry version 62.
+DE   SubName: Full=Endo-pectate lyase {ECO:0000313|EMBL:CAA73784.1};
+DE            EC=4.2.2.2 {ECO:0000313|EMBL:CAA73784.1};
+DE   Flags: Precursor;
+GN   Name=pelI {ECO:0000313|EMBL:CAA73784.1};
+OS   Dickeya chrysanthemi (Pectobacterium chrysanthemi) (Erwinia
+OS   chrysanthemi).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Dickeya.
+OX   NCBI_TaxID=556 {ECO:0000313|EMBL:CAA73784.1};
+RN   [1] {ECO:0000313|EMBL:CAA73784.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=3937 {ECO:0000313|EMBL:CAA73784.1};
+RX   PubMed=9393696;
+RA   Shevchik V.E., Robert-Baudouy J., Hugouvieux-Cotte-Pattat N.;
+RT   "Pectate lyase PelI of Erwinia chrysanthemi 3937 belongs to a new
+RT   family.";
+RL   J. Bacteriol. 179:7321-7330(1997).
+RN   [2] {ECO:0000213|PDB:3B4N, ECO:0000213|PDB:3B8Y, ECO:0000213|PDB:3B90}
+RP   X-RAY CRYSTALLOGRAPHY (1.45 ANGSTROMS) IN COMPLEX WITH CALCIUM AND
+RP   ZINC, AND DISULFIDE BONDS.
+RX   PubMed=18430740; DOI=10.1074/jbc.M709931200;
+RA   Creze C., Castang S., Derivery E., Haser R.,
+RA   Hugouvieux-Cotte-Pattat N., Shevchik V.E., Gouet P.;
+RT   "The crystal structure of pectate lyase peli from soft rot pathogen
+RT   Erwinia chrysanthemi in complex with its substrate.";
+RL   J. Biol. Chem. 283:18260-18268(2008).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; Y13340; CAA73784.1; -; Genomic_DNA.
+DR   PDB; 3B4N; X-ray; 1.45 A; A/B=1-344.
+DR   PDB; 3B8Y; X-ray; 2.30 A; A/B=1-344.
+DR   PDB; 3B90; X-ray; 2.11 A; A/B=119-344.
+DR   PDBsum; 3B90; -.
+DR   ProteinModelPortal; O50325; -.
+DR   SMR; O50325; 20-344.
+DR   CAZy; PL3; Polysaccharide Lyase Family 3.
+DR   BRENDA; 4.2.2.2; 2141.
+DR   EvolutionaryTrace; O50325; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0030570; F:pectate lyase activity; IEA:UniProtKB-EC.
+DR   Gene3D; 2.160.20.10; -; 1.
+DR   Gene3D; 2.60.40.10; -; 1.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   InterPro; IPR004898; Pectate_lyase_cat.
+DR   InterPro; IPR012334; Pectin_lyas_fold.
+DR   InterPro; IPR011050; Pectin_lyase_fold/virulence.
+DR   Pfam; PF03211; Pectate_lyase; 1.
+DR   SUPFAM; SSF51126; SSF51126; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3B8Y}; Calcium;
+KW   Lyase {ECO:0000313|EMBL:CAA73784.1}; Metal-binding;
+KW   Signal {ECO:0000313|EMBL:CAA73784.1}; Zinc.
+FT   SIGNAL        1     19       Potential. {ECO:0000313|EMBL:CAA73784.1}.
+FT   CHAIN        20    344       Potential. {ECO:0000313|EMBL:CAA73784.1}.
+FT                                /FTId=PRO_5000147160.
+FT   METAL       173    173       Zinc 1.
+FT   METAL       176    176       Zinc 2; via pros nitrogen.
+FT   METAL       178    178       Zinc 2.
+FT   METAL       191    191       Calcium.
+FT   METAL       192    192       Calcium; via carbonyl oxygen.
+FT   METAL       195    195       Zinc 1.
+FT   METAL       213    213       Calcium.
+FT   METAL       218    218       Calcium; via carbonyl oxygen.
+FT   DISULFID    121    134       {ECO:0000213|PDB:3B8Y}.
+FT   DISULFID    143    193       {ECO:0000213|PDB:3B8Y}.
+FT   DISULFID    177    182       {ECO:0000213|PDB:3B8Y}.
+FT   DISULFID    254    257       {ECO:0000213|PDB:3B8Y}.
+FT   DISULFID    309    334       {ECO:0000213|PDB:3B8Y}.
+SQ   SEQUENCE   344 AA;  36851 MW;  2812B3652439FA76 CRC64;
+     MFKYVIPLCA LTLAAPSFAA QTTLMLSQKS DVNYLGWSTD ESKVARQEVY RGTTSNPDLR
+     ERIAVLDAET RTFKDADTNS GLNYWYWVDV VSENQAQVVS NAVTTAPNAG PLRAAKASSE
+     CKPGATFENR TVDCGGVTIG TSCPNDSDKQ KPLIILKNAT VKNLRISASG RADGIHCDSG
+     NCTIENVIWE DICEDAATNN GKTMTIVGGI AHNAKDGYGG KPDKVLQHNS KNSTTVVKGN
+     FTLTGEHGKL WRSCGDCSNN GGPRFLTVTS ATVNGTIDSI AGVNRNYGDV ATISGLKIKN
+     YKEGKPPVCE EFKGVVKGQG STEKYGEKWD TTNCKVSRSG VSKL
+//

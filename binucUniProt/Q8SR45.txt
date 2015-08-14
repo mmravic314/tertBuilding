@@ -1,0 +1,216 @@
+ID   MAP2_ENCCU              Reviewed;         358 AA.
+AC   Q8SR45; Q6VH17; Q6VH18;
+DT   31-AUG-2004, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-2002, sequence version 1.
+DT   22-JUL-2015, entry version 102.
+DE   RecName: Full=Methionine aminopeptidase 2 {ECO:0000255|HAMAP-Rule:MF_03175};
+DE            Short=MAP 2 {ECO:0000255|HAMAP-Rule:MF_03175};
+DE            Short=MetAP 2 {ECO:0000255|HAMAP-Rule:MF_03175};
+DE            EC=3.4.11.18 {ECO:0000255|HAMAP-Rule:MF_03175};
+DE   AltName: Full=Peptidase M {ECO:0000255|HAMAP-Rule:MF_03175};
+GN   Name=MAP2 {ECO:0000255|HAMAP-Rule:MF_03175};
+GN   OrderedLocusNames=ECU10_0750;
+OS   Encephalitozoon cuniculi (strain GB-M1) (Microsporidian parasite).
+OC   Eukaryota; Fungi; Microsporidia; Unikaryonidae; Encephalitozoon.
+OX   NCBI_TaxID=284813;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND FUNCTION.
+RX   PubMed=16004378; DOI=10.14411/fp.2005.023;
+RA   Zhang H., Huang H., Cali A., Takvorian P.M., Feng X., Zhou G.,
+RA   Weiss L.M.;
+RT   "Investigations into microsporidian methionine aminopeptidase type 2:
+RT   a therapeutic target for microsporidiosis.";
+RL   Folia Parasitol. 52:182-192(2005).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=GB-M1;
+RX   PubMed=11719806; DOI=10.1038/35106579;
+RA   Katinka M.D., Duprat S., Cornillot E., Metenier G., Thomarat F.,
+RA   Prensier G., Barbe V., Peyretaillade E., Brottier P., Wincker P.,
+RA   Delbac F., El Alaoui H., Peyret P., Saurin W., Gouy M.,
+RA   Weissenbach J., Vivares C.P.;
+RT   "Genome sequence and gene compaction of the eukaryote parasite
+RT   Encephalitozoon cuniculi.";
+RL   Nature 414:450-453(2001).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 13-349.
+RC   STRAIN=ATCC 50502 / ECIII, ATCC 50503 / ECI, and ECII;
+RX   PubMed=15760654; DOI=10.1016/j.molbiopara.2004.12.006;
+RA   Pandrea I., Mittleider D., Brindley P.J., Didier E.S., Robertson D.L.;
+RT   "Phylogenetic relationships of methionine aminopeptidase 2 among
+RT   Encephalitozoon species and genotypes of microsporidia.";
+RL   Mol. Biochem. Parasitol. 140:141-152(2005).
+RN   [4]
+RP   FUNCTION.
+RX   PubMed=14736176; DOI=10.1111/j.1550-7408.2003.tb00643.x;
+RA   Weiss L.M., Zhou G.C., Zhang H.;
+RT   "Characterization of recombinant microsporidian methionine
+RT   aminopeptidase type 2.";
+RL   J. Eukaryot. Microbiol. 50:597-599(2003).
+RN   [5]
+RP   FUNCTION, AND MUTAGENESIS OF ALA-241.
+RX   PubMed=16917013; DOI=10.1128/AAC.00726-06;
+RA   Upadhya R., Zhang H.S., Weiss L.M.;
+RT   "System for expression of microsporidian methionine amino peptidase
+RT   type 2 (MetAP2) in the yeast Saccharomyces cerevisiae.";
+RL   Antimicrob. Agents Chemother. 50:3389-3395(2006).
+RN   [6]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS], AND
+RP   DEVELOPMENTAL STAGE.
+RX   PubMed=16691553; DOI=10.1002/pmic.200500796;
+RA   Brosson D., Kuhn L., Delbac F., Garin J., Vivares C.P., Texier C.;
+RT   "Proteomic analysis of the eukaryotic parasite Encephalitozoon
+RT   cuniculi (microsporidia): a reference map for proteins expressed in
+RT   late sporogonial stages.";
+RL   Proteomics 6:3625-3635(2006).
+RN   [7]
+RP   X-RAY CRYSTALLOGRAPHY (2.18 ANGSTROMS) IN COMPLEX WITH IRON AND
+RP   INHIBITOR, AND BIOPHYSICOCHEMICAL PROPERTIES.
+RX   PubMed=19660503; DOI=10.1016/j.molbiopara.2009.07.008;
+RA   Alvarado J.J., Nemkal A., Sauder J.M., Russell M., Akiyoshi D.E.,
+RA   Shi W., Almo S.C., Weiss L.M.;
+RT   "Structure of a microsporidian methionine aminopeptidase type 2
+RT   complexed with fumagillin and TNP-470.";
+RL   Mol. Biochem. Parasitol. 168:158-167(2009).
+CC   -!- FUNCTION: Cotranslationally removes the N-terminal methionine from
+CC       nascent proteins. The N-terminal methionine is often cleaved when
+CC       the second residue in the primary sequence is small and uncharged
+CC       (Met-Ala-, Cys, Gly, Pro, Ser, Thr, or Val). {ECO:0000255|HAMAP-
+CC       Rule:MF_03175, ECO:0000269|PubMed:14736176,
+CC       ECO:0000269|PubMed:16004378, ECO:0000269|PubMed:16917013}.
+CC   -!- CATALYTIC ACTIVITY: Release of N-terminal amino acids,
+CC       preferentially methionine, from peptides and arylamides.
+CC       {ECO:0000255|HAMAP-Rule:MF_03175}.
+CC   -!- COFACTOR:
+CC       Name=Co(2+); Xref=ChEBI:CHEBI:48828;
+CC         Evidence={ECO:0000255|HAMAP-Rule:MF_03175};
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC         Evidence={ECO:0000255|HAMAP-Rule:MF_03175};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000255|HAMAP-Rule:MF_03175};
+CC       Name=Fe(2+); Xref=ChEBI:CHEBI:29033;
+CC         Evidence={ECO:0000255|HAMAP-Rule:MF_03175};
+CC       Note=Binds 2 divalent metal cations per subunit. Has a high-
+CC       affinity and a low affinity metal-binding site. The true nature of
+CC       the physiological cofactor is under debate. The enzyme is active
+CC       with cobalt, zinc, manganese or divalent iron ions. Most likely,
+CC       methionine aminopeptidases function as mononuclear Fe(2+)-
+CC       metalloproteases under physiological conditions, and the
+CC       catalytically relevant metal-binding site has been assigned to the
+CC       histidine-containing high-affinity site. {ECO:0000255|HAMAP-
+CC       Rule:MF_03175};
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=1.95 mM for a Met-Ala-Ser peptide
+CC         {ECO:0000269|PubMed:19660503};
+CC         Vmax=7.3 nmol/min/mg enzyme {ECO:0000269|PubMed:19660503};
+CC       pH dependence:
+CC         Optimum pH is 8.5. {ECO:0000269|PubMed:19660503};
+CC       Temperature dependence:
+CC         Optimum temperature is 37 degrees Celsius.
+CC         {ECO:0000269|PubMed:19660503};
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_03175}.
+CC   -!- DEVELOPMENTAL STAGE: Expressed in late sporogonial stages.
+CC       {ECO:0000269|PubMed:16691553}.
+CC   -!- SIMILARITY: Belongs to the peptidase M24A family. Methionine
+CC       aminopeptidase eukaryotic type 2 subfamily. {ECO:0000255|HAMAP-
+CC       Rule:MF_03175}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF440270; AAM49625.1; -; Genomic_DNA.
+DR   EMBL; AL590449; CAD25794.1; -; Genomic_DNA.
+DR   EMBL; AY339777; AAR04551.1; -; Genomic_DNA.
+DR   EMBL; AY339778; AAR04552.1; -; Genomic_DNA.
+DR   EMBL; AY339779; AAR04553.1; -; Genomic_DNA.
+DR   RefSeq; NP_586190.1; NM_001042023.1.
+DR   PDB; 3FM3; X-ray; 2.18 A; A/B=1-358.
+DR   PDB; 3FMQ; X-ray; 2.50 A; A/B=1-358.
+DR   PDB; 3FMR; X-ray; 2.89 A; A/B=1-358.
+DR   PDBsum; 3FM3; -.
+DR   PDBsum; 3FMQ; -.
+DR   PDBsum; 3FMR; -.
+DR   ProteinModelPortal; Q8SR45; -.
+DR   SMR; Q8SR45; 3-358.
+DR   STRING; 284813.NP_586190.1; -.
+DR   MEROPS; M24.002; -.
+DR   DNASU; 859839; -.
+DR   GeneID; 859839; -.
+DR   KEGG; ecu:ECU10_0750; -.
+DR   EuPathDB; MicrosporidiaDB:ECU10_0750; -.
+DR   eggNOG; COG0024; -.
+DR   HOGENOM; HOG000226278; -.
+DR   InParanoid; Q8SR45; -.
+DR   KO; K01265; -.
+DR   OMA; PSIPNRH; -.
+DR   OrthoDB; EOG7BGHW3; -.
+DR   BRENDA; 3.4.11.18; 7412.
+DR   EvolutionaryTrace; Q8SR45; -.
+DR   PRO; PR:Q8SR45; -.
+DR   Proteomes; UP000000819; Chromosome X.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0070006; F:metalloaminopeptidase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0070084; P:protein initiator methionine removal; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 1.10.10.10; -; 1.
+DR   Gene3D; 3.90.230.10; -; 2.
+DR   HAMAP; MF_03175; MetAP_2_euk; 1.
+DR   InterPro; IPR000994; Pept_M24_structural-domain.
+DR   InterPro; IPR002468; Pept_M24A_MAP2.
+DR   InterPro; IPR018349; Pept_M24A_MAP2_BS.
+DR   InterPro; IPR011991; WHTH_DNA-bd_dom.
+DR   PANTHER; PTHR10804:SF9; PTHR10804:SF9; 1.
+DR   Pfam; PF00557; Peptidase_M24; 1.
+DR   SUPFAM; SSF55920; SSF55920; 2.
+DR   TIGRFAMs; TIGR00501; met_pdase_II; 1.
+DR   PROSITE; PS01202; MAP_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Aminopeptidase; Complete proteome; Cytoplasm; Hydrolase;
+KW   Metal-binding; Protease; Reference proteome.
+FT   CHAIN         1    358       Methionine aminopeptidase 2.
+FT                                /FTId=PRO_0000148985.
+FT   METAL       130    130       Divalent metal cation 1.
+FT   METAL       141    141       Divalent metal cation 1.
+FT   METAL       141    141       Divalent metal cation 2; catalytic.
+FT   METAL       210    210       Divalent metal cation 2; catalytic; via
+FT                                tele nitrogen.
+FT   METAL       243    243       Divalent metal cation 2; catalytic.
+FT   METAL       339    339       Divalent metal cation 1.
+FT   METAL       339    339       Divalent metal cation 2; catalytic.
+FT   BINDING     109    109       Substrate.
+FT   BINDING     218    218       Substrate.
+FT   VARIANT     288    288       L -> F (in strain: ATCC 50502 / ECIII).
+FT   MUTAGEN     241    241       A->T: Abolishes catalytic activity.
+FT                                {ECO:0000269|PubMed:16917013}.
+FT   HELIX        43     65       {ECO:0000244|PDB:3FM3}.
+FT   HELIX        72     86       {ECO:0000244|PDB:3FM3}.
+FT   TURN         87     89       {ECO:0000244|PDB:3FM3}.
+FT   HELIX        91     94       {ECO:0000244|PDB:3FM3}.
+FT   STRAND       95    103       {ECO:0000244|PDB:3FM3}.
+FT   STRAND      106    108       {ECO:0000244|PDB:3FM3}.
+FT   STRAND      126    135       {ECO:0000244|PDB:3FM3}.
+FT   STRAND      138    147       {ECO:0000244|PDB:3FM3}.
+FT   HELIX       150    152       {ECO:0000244|PDB:3FM3}.
+FT   HELIX       153    169       {ECO:0000244|PDB:3FM3}.
+FT   HELIX       176    187       {ECO:0000244|PDB:3FM3}.
+FT   STRAND      191    193       {ECO:0000244|PDB:3FM3}.
+FT   STRAND      195    200       {ECO:0000244|PDB:3FM3}.
+FT   STRAND      209    213       {ECO:0000244|PDB:3FM3}.
+FT   STRAND      236    249       {ECO:0000244|PDB:3FM3}.
+FT   STRAND      262    264       {ECO:0000244|PDB:3FM3}.
+FT   HELIX       275    287       {ECO:0000244|PDB:3FM3}.
+FT   TURN        288    290       {ECO:0000244|PDB:3FM3}.
+FT   HELIX       295    300       {ECO:0000244|PDB:3FM3}.
+FT   HELIX       309    317       {ECO:0000244|PDB:3FM3}.
+FT   STRAND      320    323       {ECO:0000244|PDB:3FM3}.
+FT   STRAND      335    345       {ECO:0000244|PDB:3FM3}.
+FT   STRAND      348    353       {ECO:0000244|PDB:3FM3}.
+SQ   SEQUENCE   358 AA;  39975 MW;  058A8AB457EC258F CRC64;
+     MKCILLNQAE ELPIEFLPKD GVYGKGKLFD SRNMEIENFT ESDILQDARR AAEAHRRARY
+     RVQSIVRPGI TLLEIVRSIE DSTRTLLKGE RNNGIGFPAG MSMNSCAAHY TVNPGEQDIV
+     LKEDDVLKID FGTHSDGRIM DSAFTVAFKE NLEPLLVAAR EGTETGIKSL GVDVRVCDIG
+     RDINEVISSY EVEIGGRMWP IRPISDLHGH SISQFRIHGG ISIPAVNNRD TTRIKGDSFY
+     AVETFATTGK GSIDDRPPCS HFVLNTYKSR KLFNKDLIKV YEFVKDSLGT LPFSPRHLDY
+     YGLVKGGSLK SVNLLTMMGL LTPYPPLNDI DGCKVAQFEH TVYLSEHGKE VLTRGDDY
+//

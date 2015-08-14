@@ -1,0 +1,70 @@
+ID   P83789_CARHY            Unreviewed;       732 AA.
+AC   P83789;
+DT   15-MAR-2004, integrated into UniProtKB/TrEMBL.
+DT   15-MAR-2004, sequence version 1.
+DT   24-JUN-2015, entry version 48.
+DE   SubName: Full=Putative acetyl-CoA decarbonylase/synthase {ECO:0000313|PDB:1RU3};
+OS   Carboxydothermus hydrogenoformans.
+OC   Bacteria; Firmicutes; Clostridia; Thermoanaerobacterales;
+OC   Thermoanaerobacteraceae; Carboxydothermus.
+OX   NCBI_TaxID=129958 {ECO:0000313|PDB:1RU3};
+RN   [1] {ECO:0000213|PDB:1RU3, ECO:0000313|PDB:1RU3}
+RP   X-RAY CRYSTALLOGRAPHY (2.20 ANGSTROMS) IN COMPLEX WITH IRON-SULFUR
+RP   (4FE-4S), AND ACTIVE SITE.
+RX   PubMed=14699043; DOI=10.1073/pnas.0304262101;
+RA   Svetlitchnyi V., Dobbek H., Meyer-Klaucke W., Meins T., Thiele B.,
+RA   Romer P., Huber R., Meyer O.;
+RT   "A functional Ni-Ni-[4Fe-4S] cluster in the monomeric acetyl-CoA
+RT   synthase from Carboxydothermus hydrogenoformans.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 101:446-451(2004).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   PDB; 1RU3; X-ray; 2.20 A; A=1-732.
+DR   PDBsum; 1RU3; -.
+DR   ProteinModelPortal; P83789; -.
+DR   SMR; P83789; 5-732.
+DR   STRING; 246194.CHY_1222; -.
+DR   EvolutionaryTrace; P83789; -.
+DR   GO; GO:0051539; F:4 iron, 4 sulfur cluster binding; IEA:UniProtKB-KW.
+DR   GO; GO:0018492; F:carbon-monoxide dehydrogenase (acceptor) activity; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006084; P:acetyl-CoA metabolic process; IEA:InterPro.
+DR   Gene3D; 3.40.50.2030; -; 1.
+DR   InterPro; IPR004461; CO_DH/Ac-CoA_synth_bsu.
+DR   InterPro; IPR011254; Prismane-like.
+DR   InterPro; IPR016099; Prismane-like_a/b-sand.
+DR   Pfam; PF03598; CdhC; 1.
+DR   SUPFAM; SSF56821; SSF56821; 1.
+DR   TIGRFAMs; TIGR00316; cdhC; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:1RU3, ECO:0000313|PDB:1RU3};
+KW   4Fe-4S {ECO:0000213|PDB:1RU3, ECO:0000313|PDB:1RU3};
+KW   Iron {ECO:0000213|PDB:1RU3, ECO:0000313|PDB:1RU3};
+KW   Iron-sulfur {ECO:0000213|PDB:1RU3, ECO:0000313|PDB:1RU3};
+KW   Metal-binding {ECO:0000213|PDB:1RU3, ECO:0000313|PDB:1RU3}.
+FT   METAL       509    509       Iron-sulfur (4Fe-4S).
+FT                                {ECO:0000213|PDB:1RU3}.
+FT   METAL       512    512       Iron-sulfur (4Fe-4S).
+FT                                {ECO:0000213|PDB:1RU3}.
+FT   METAL       521    521       Iron-sulfur (4Fe-4S).
+FT                                {ECO:0000213|PDB:1RU3}.
+FT   METAL       531    531       Iron-sulfur (4Fe-4S).
+FT                                {ECO:0000213|PDB:1RU3}.
+FT   DISULFID    598    600       {ECO:0000213|PDB:1RU3}.
+SQ   SEQUENCE   732 AA;  82219 MW;  32121CF0BCC4CEAF CRC64;
+     MSEVINFDQI FEGAIEPGKE PKRLFKEVYE GAITATSYAE ILLSRAIEKY GPDHPVGYPD
+     TAYFLPVIRA FSGEEVRTLK DMVPILNRMR AQIKSELTFE NARLAGEATW YAAEIIEALR
+     YLKHTPENPI VVPPWTGFIG DPVVRQYGIK MVDWTIPGEA IIIGRAKDSK AAKKIVDDLM
+     GKGLMLFLCD EIIEQLLEEN VKLGVDYIAY PLGNFTQVVH AANYALRAGL MFGGIAPGLR
+     DAHRDYQRRR VLAFVLYLGE HDMVKTAAAM GAIFTGFPVI TDQPLPEDKQ IKDWFISEPD
+     YDKIVQTALE VRGIKITSID IDLPINFGPA FEGESIRKGD MHVEFGGGKT PSFELVRMVG
+     PDEIEDGKVE VIGPDIDSVE PGGRLPIGIV VDIYGRKMQE DFEPVLERRI HYFTNYGEGF
+     WHTAQRDLTW VRISKEAFAK GARLKHLGQL LYAKFKQEFP SIVDRVQVTI YTDEQKVLEL
+     REIARKKYAE RDARLRELSD EAVDTYYSCL LCQSFAPTHV CIVSPERVGL CGAISWLDAK
+     AAYEINPNGP NQPIPKEGLI DPVKGQWESF NEYIYKNSQR TIERMNLYTI MEYPMTSCGC
+     FEAIMAYLPE LNGFMIVNRE HSGMTPIGMT FSTLAGMVGG GTQTPGFMGI GKSYIGSRKF
+     VKADGGLARV VWMPKDLKEQ LRSIIEERAE EEGLGRDFID KIADETVGTT VDEVLPFLEE
+     KGHPALSMEP LL
+//

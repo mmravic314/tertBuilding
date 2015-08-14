@@ -1,0 +1,43 @@
+ID   Q8VRM4_ECOLX            Unreviewed;       187 AA.
+AC   Q8VRM4;
+DT   01-MAR-2002, integrated into UniProtKB/TrEMBL.
+DT   01-MAR-2002, sequence version 1.
+DT   22-JUL-2015, entry version 30.
+DE   SubName: Full=Hypothetical type II secretion protein GspJ {ECO:0000313|EMBL:AAL60190.1};
+GN   Name=gspJ {ECO:0000313|EMBL:AAL60190.1};
+OS   Escherichia coli.
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=562 {ECO:0000313|EMBL:AAL60190.1};
+RN   [1] {ECO:0000313|EMBL:AAL60190.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=83/39 {ECO:0000313|EMBL:AAL60190.1};
+RX   PubMed=12011463; DOI=10.1073/pnas.092152899;
+RA   Tauschek M., Gorrell R.J., Strugnell R.A., Robins-Browne R.M.;
+RT   "Identification of a protein secretory pathway for the secretion of
+RT   heat-labile enterotoxin by an enterotoxigenic strain of Escherichia
+RT   coli.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 99:7066-7071(2002).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF426313; AAL60190.1; -; Genomic_DNA.
+DR   RefSeq; WP_000959216.1; NZ_LM997231.1.
+DR   ProteinModelPortal; Q8VRM4; -.
+DR   SMR; Q8VRM4; 34-187.
+DR   DIP; DIP-46385N; -.
+DR   STRING; 469008.B21_02782; -.
+DR   GO; GO:0015627; C:type II protein secretion system complex; IEA:InterPro.
+DR   GO; GO:0008565; F:protein transporter activity; IEA:InterPro.
+DR   GO; GO:0015628; P:protein secretion by the type II secretion system; IEA:InterPro.
+DR   InterPro; IPR010055; T2SS_protein-J.
+DR   Pfam; PF11612; T2SJ; 1.
+DR   TIGRFAMs; TIGR01711; gspJ; 1.
+PE   4: Predicted;
+SQ   SEQUENCE   187 AA;  20759 MW;  3426CDB4B94D5C56 CRC64;
+     MLVAIAIFAS LALMAQQVTN GVTRVNSAVA GHDQKLNLMQ QTMSFLTHDL TQMMPRPVRG
+     DQGQREPALL AGAGVLASES EGMRFVRGGV VNPLMRLPRS NLLTVGYRIH DGYLERLAWP
+     LTDAAGSVKP TMQKLIPADS LRLQFYDGTR WQESWSSVQA IPVAVRMTLH SPQWGEIERI
+     WLLRGPQ
+//

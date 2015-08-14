@@ -1,0 +1,166 @@
+ID   PLYC_DICCH              Reviewed;         375 AA.
+AC   P11073;
+DT   01-JUL-1989, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUL-1989, sequence version 1.
+DT   27-MAY-2015, entry version 102.
+DE   RecName: Full=Pectate lyase C;
+DE            EC=4.2.2.2;
+DE   Flags: Precursor;
+GN   Name=pelC;
+OS   Dickeya chrysanthemi (Pectobacterium chrysanthemi) (Erwinia
+OS   chrysanthemi).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Dickeya.
+OX   NCBI_TaxID=556;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=EC16;
+RX   PubMed=3042750;
+RA   Tamaki S.J., Gold S., Robeson M., Manulis S., Keen N.T.;
+RT   "Structure and organization of the pel genes from Erwinia chrysanthemi
+RT   EC16.";
+RL   J. Bacteriol. 170:3468-3478(1988).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS).
+RX   PubMed=8502994; DOI=10.1126/science.8502994;
+RA   Yoder M.D., Keen N.T., Jurnak F.;
+RT   "New domain motif: the structure of pectate lyase C, a secreted plant
+RT   virulence factor.";
+RL   Science 260:1503-1507(1993).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS).
+RX   PubMed=12226275; DOI=111/1/73;
+RA   Lietzke S.E., Scavetta R.D., Yoder M.D., Jurnak F.A.;
+RT   "The refined three-dimensional structure of pectate lyase E from
+RT   Erwinia chrysanthemi at 2.2-A resolution.";
+RL   Plant Physiol. 111:73-92(1996).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS).
+RX   PubMed=12540845; DOI=10.1074/jbc.M209306200;
+RA   Herron S.R., Scavetta R.D., Garrett M., Legner M., Jurnak F.;
+RT   "Characterization and implications of Ca2+ binding to pectate lyase
+RT   C.";
+RL   J. Biol. Chem. 278:12271-12277(2003).
+CC   -!- FUNCTION: Involved in maceration and soft-rotting of plant tissue.
+CC   -!- CATALYTIC ACTIVITY: Eliminative cleavage of (1->4)-alpha-D-
+CC       galacturonan to give oligosaccharides with 4-deoxy-alpha-D-galact-
+CC       4-enuronosyl groups at their non-reducing ends.
+CC   -!- COFACTOR:
+CC       Name=Ca(2+); Xref=ChEBI:CHEBI:29108;
+CC       Note=Binds 1 Ca(2+) ion per subunit.;
+CC   -!- PATHWAY: Glycan metabolism; pectin degradation; 2-dehydro-3-deoxy-
+CC       D-gluconate from pectin: step 2/5.
+CC   -!- SUBCELLULAR LOCATION: Secreted.
+CC   -!- SIMILARITY: Belongs to the polysaccharide lyase 1 family. PLADES
+CC       subfamily. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M19411; AAA24849.1; -; Genomic_DNA.
+DR   PIR; A31091; WZWC6C.
+DR   PDB; 1AIR; X-ray; 2.20 A; A=23-375.
+DR   PDB; 1O88; X-ray; 2.20 A; A=23-375.
+DR   PDB; 1O8D; X-ray; 2.20 A; A=23-375.
+DR   PDB; 1O8E; X-ray; 2.20 A; A=23-375.
+DR   PDB; 1O8F; X-ray; 2.20 A; A=23-375.
+DR   PDB; 1O8G; X-ray; 2.20 A; A=23-375.
+DR   PDB; 1O8H; X-ray; 2.20 A; A=23-375.
+DR   PDB; 1O8I; X-ray; 2.20 A; A=23-375.
+DR   PDB; 1O8J; X-ray; 2.20 A; A=23-375.
+DR   PDB; 1O8K; X-ray; 2.20 A; A=23-375.
+DR   PDB; 1O8L; X-ray; 2.20 A; A=23-375.
+DR   PDB; 1O8M; X-ray; 2.20 A; A=23-375.
+DR   PDB; 1PLU; X-ray; 2.20 A; A=23-375.
+DR   PDB; 2EWE; X-ray; 2.20 A; A=23-375.
+DR   PDB; 2PEC; X-ray; 2.20 A; A=23-375.
+DR   PDBsum; 1AIR; -.
+DR   PDBsum; 1O88; -.
+DR   PDBsum; 1O8D; -.
+DR   PDBsum; 1O8E; -.
+DR   PDBsum; 1O8F; -.
+DR   PDBsum; 1O8G; -.
+DR   PDBsum; 1O8H; -.
+DR   PDBsum; 1O8I; -.
+DR   PDBsum; 1O8J; -.
+DR   PDBsum; 1O8K; -.
+DR   PDBsum; 1O8L; -.
+DR   PDBsum; 1O8M; -.
+DR   PDBsum; 1PLU; -.
+DR   PDBsum; 2EWE; -.
+DR   PDBsum; 2PEC; -.
+DR   ProteinModelPortal; P11073; -.
+DR   SMR; P11073; 23-374.
+DR   CAZy; PL1; Polysaccharide Lyase Family 1.
+DR   BRENDA; 4.2.2.2; 2141.
+DR   UniPathway; UPA00545; UER00824.
+DR   EvolutionaryTrace; P11073; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0030570; F:pectate lyase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0009405; P:pathogenesis; IEA:UniProtKB-KW.
+DR   GO; GO:0045490; P:pectin catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 2.160.20.10; -; 1.
+DR   InterPro; IPR002022; Amb_allergen_dom.
+DR   InterPro; IPR012334; Pectin_lyas_fold.
+DR   InterPro; IPR011050; Pectin_lyase_fold/virulence.
+DR   Pfam; PF00544; Pec_lyase_C; 1.
+DR   SMART; SM00656; Amb_all; 1.
+DR   SUPFAM; SSF51126; SSF51126; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Calcium; Disulfide bond; Lyase; Metal-binding; Secreted;
+KW   Signal; Virulence.
+FT   SIGNAL        1     22
+FT   CHAIN        23    375       Pectate lyase C.
+FT                                /FTId=PRO_0000024854.
+FT   ACT_SITE    240    240       {ECO:0000255}.
+FT   METAL       151    151       Calcium.
+FT   METAL       153    153       Calcium.
+FT   METAL       188    188       Calcium.
+FT   METAL       192    192       Calcium.
+FT   DISULFID     94    177
+FT   DISULFID    351    374
+FT   STRAND       27     29       {ECO:0000244|PDB:1AIR}.
+FT   STRAND       41     47       {ECO:0000244|PDB:1AIR}.
+FT   HELIX        48     57       {ECO:0000244|PDB:1AIR}.
+FT   STRAND       74     78       {ECO:0000244|PDB:1AIR}.
+FT   HELIX        83     90       {ECO:0000244|PDB:1AIR}.
+FT   HELIX        93     95       {ECO:0000244|PDB:1AIR}.
+FT   TURN         96     98       {ECO:0000244|PDB:1O8E}.
+FT   STRAND      103    109       {ECO:0000244|PDB:1AIR}.
+FT   STRAND      113    117       {ECO:0000244|PDB:1AIR}.
+FT   STRAND      123    131       {ECO:0000244|PDB:1AIR}.
+FT   STRAND      134    139       {ECO:0000244|PDB:1AIR}.
+FT   STRAND      141    144       {ECO:0000244|PDB:1AIR}.
+FT   HELIX       148    150       {ECO:0000244|PDB:1AIR}.
+FT   STRAND      154    159       {ECO:0000244|PDB:1AIR}.
+FT   STRAND      162    167       {ECO:0000244|PDB:1AIR}.
+FT   STRAND      169    171       {ECO:0000244|PDB:1AIR}.
+FT   HELIX       181    183       {ECO:0000244|PDB:1AIR}.
+FT   STRAND      190    196       {ECO:0000244|PDB:1AIR}.
+FT   STRAND      199    204       {ECO:0000244|PDB:1AIR}.
+FT   STRAND      206    212       {ECO:0000244|PDB:1AIR}.
+FT   STRAND      215    219       {ECO:0000244|PDB:1AIR}.
+FT   STRAND      226    231       {ECO:0000244|PDB:1AIR}.
+FT   STRAND      233    239       {ECO:0000244|PDB:1AIR}.
+FT   STRAND      243    253       {ECO:0000244|PDB:1AIR}.
+FT   STRAND      255    261       {ECO:0000244|PDB:1AIR}.
+FT   STRAND      263    267       {ECO:0000244|PDB:1AIR}.
+FT   STRAND      271    276       {ECO:0000244|PDB:1AIR}.
+FT   STRAND      278    288       {ECO:0000244|PDB:1AIR}.
+FT   STRAND      290    294       {ECO:0000244|PDB:1AIR}.
+FT   STRAND      297    302       {ECO:0000244|PDB:1AIR}.
+FT   HELIX       310    314       {ECO:0000244|PDB:1AIR}.
+FT   HELIX       349    355       {ECO:0000244|PDB:1AIR}.
+FT   HELIX       356    358       {ECO:0000244|PDB:1AIR}.
+FT   STRAND      360    364       {ECO:0000244|PDB:1AIR}.
+FT   HELIX       371    373       {ECO:0000244|PDB:1AIR}.
+SQ   SEQUENCE   375 AA;  39944 MW;  F76DD8195A35B886 CRC64;
+     MKSLITPITA GLLLALSQPL LAATDTGGYA ATAGGNVTGA VSKTATSMQD IVNIIDAARL
+     DANGKKVKGG AYPLVITYTG NEDSLINAAA ANICGQWSKD PRGVEIKEFT KGITIIGANG
+     SSANFGIWIK KSSDVVVQNM RIGYLPGGAK DGDMIRVDDS PNVWVDHNEL FAANHECDGT
+     PDNDTTFESA VDIKGASNTV TVSYNYIHGV KKVGLDGSSS SDTGRNITYH HNYYNDVNAR
+     LPLQRGGLVH AYNNLYTNIT GSGLNVRQNG QALIENNWFE KAINPVTSRY DGKNFGTWVL
+     KGNNITKPAD FSTYSITWTA DTKPYVNADS WTSTGTFPTV AYNYSPVSAQ CVKDKLPGYA
+     GVGKNLATLT STACK
+//

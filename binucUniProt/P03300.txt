@@ -1,0 +1,1244 @@
+ID   POLG_POL1M              Reviewed;        2209 AA.
+AC   P03300; P03299; Q84879; Q84880; Q89679;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   24-JUN-2015, entry version 176.
+DE   RecName: Full=Genome polyprotein;
+DE   Contains:
+DE     RecName: Full=P1;
+DE   Contains:
+DE     RecName: Full=Capsid protein VP0;
+DE     AltName: Full=VP4-VP2;
+DE   Contains:
+DE     RecName: Full=Capsid protein VP4;
+DE     AltName: Full=P1A;
+DE     AltName: Full=Virion protein 4;
+DE   Contains:
+DE     RecName: Full=Capsid protein VP2;
+DE     AltName: Full=P1B;
+DE     AltName: Full=Virion protein 2;
+DE   Contains:
+DE     RecName: Full=Capsid protein VP3;
+DE     AltName: Full=P1C;
+DE     AltName: Full=Virion protein 3;
+DE   Contains:
+DE     RecName: Full=Capsid protein VP1;
+DE     AltName: Full=P1D;
+DE     AltName: Full=Virion protein 1;
+DE   Contains:
+DE     RecName: Full=P2;
+DE   Contains:
+DE     RecName: Full=Protease 2A;
+DE              Short=P2A;
+DE              EC=3.4.22.29;
+DE     AltName: Full=Picornain 2A;
+DE     AltName: Full=Protein 2A;
+DE   Contains:
+DE     RecName: Full=Protein 2B;
+DE              Short=P2B;
+DE   Contains:
+DE     RecName: Full=Protein 2C;
+DE              Short=P2C;
+DE              EC=3.6.1.15;
+DE   Contains:
+DE     RecName: Full=P3;
+DE   Contains:
+DE     RecName: Full=Protein 3AB;
+DE   Contains:
+DE     RecName: Full=Protein 3A;
+DE              Short=P3A;
+DE   Contains:
+DE     RecName: Full=Viral protein genome-linked;
+DE              Short=VPg;
+DE     AltName: Full=Protein 3B;
+DE              Short=P3B;
+DE   Contains:
+DE     RecName: Full=Protein 3CD;
+DE              EC=3.4.22.28;
+DE   Contains:
+DE     RecName: Full=Protease 3C;
+DE              Short=P3C;
+DE              EC=3.4.22.28;
+DE   Contains:
+DE     RecName: Full=RNA-directed RNA polymerase;
+DE              Short=RdRp;
+DE              EC=2.7.7.48;
+DE     AltName: Full=3D polymerase;
+DE              Short=3Dpol;
+DE     AltName: Full=Protein 3D;
+DE              Short=3D;
+OS   Poliovirus type 1 (strain Mahoney).
+OC   Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage;
+OC   Picornavirales; Picornaviridae; Enterovirus; Enterovirus C.
+OX   NCBI_TaxID=12081;
+OH   NCBI_TaxID=9606; Homo sapiens (Human).
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC RNA].
+RX   PubMed=6264310; DOI=10.1038/291547a0;
+RA   Kitamura N., Semler B.L., Rothberg P.G., Larsen G.R., Adler C.J.,
+RA   Dorner A.J., Emini E.A., Hanecak R., Lee J.J., van der Werf S.,
+RA   Anderson C.W., Wimmer E.;
+RT   "Primary structure, gene organization and polypeptide expression of
+RT   poliovirus RNA.";
+RL   Nature 291:547-553(1981).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC RNA].
+RX   PubMed=6272282; DOI=10.1073/pnas.78.8.4887;
+RA   Racaniello V.R., Baltimore D.;
+RT   "Molecular cloning of poliovirus cDNA and determination of the
+RT   complete nucleotide sequence of the viral genome.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 78:4887-4891(1981).
+RN   [3]
+RP   PROTEIN SEQUENCE OF 2-69.
+RX   PubMed=6284987;
+RA   Dorner A.J., Dorner L.F., Larsen G.R., Wimmer E., Anderson C.W.;
+RT   "Identification of the initiation site of poliovirus polyprotein
+RT   synthesis.";
+RL   J. Virol. 42:1017-1028(1982).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC RNA] OF 1539-1574, AND FUNCTION (VIRAL
+RP   PROTEIN GENOME-LINKED).
+RX   PubMed=6250717; DOI=10.1016/0092-8674(80)90137-3;
+RA   Kitamura N., Adler C.J., Rothberg P.G., Martinko J., Nathenson S.G.,
+RA   Wimmer E.;
+RT   "The genome-linked protein of picornaviruses. VII. Genetic mapping of
+RT   poliovirus VPg by protein and RNA sequence studies.";
+RL   Cell 21:295-302(1980).
+RN   [5]
+RP   FUNCTION (VIRAL PROTEIN GENOME-LINKED), AND COVALENT RNA-LINKAGE AT
+RP   TYR-1546 PF VPG.
+RX   PubMed=209034;
+RA   Ambros V., Baltimore D.;
+RT   "Protein is linked to the 5' end of poliovirus RNA by a phosphodiester
+RT   linkage to tyrosine.";
+RL   J. Biol. Chem. 253:5263-5266(1978).
+RN   [6]
+RP   ACTIVE SITE (RNA-DIRECTED RNA POLYMERASE).
+RX   PubMed=2196557; DOI=10.1093/protein/3.6.461;
+RA   Delarue M., Poch O., Tordo N., Moras D., Argos P.;
+RT   "An attempt to unify the structure of polymerases.";
+RL   Protein Eng. 3:461-467(1990).
+RN   [7]
+RP   MYRISTOYLATION AT GLY-2, AND MUTAGENESIS OF ALA-3.
+RX   PubMed=1850017;
+RA   Moscufo N., Simons J., Chow M.;
+RT   "Myristoylation is important at multiple stages in poliovirus
+RT   assembly.";
+RL   J. Virol. 65:2372-2380(1991).
+RN   [8]
+RP   MYRISTOYLATION AT GLY-2, AND MUTAGENESIS OF GLY-2.
+RX   PubMed=1851815;
+RA   Marc D., Girard M., van der Werf S.;
+RT   "A Gly1 to Ala substitution in poliovirus capsid protein VP0 blocks
+RT   its myristoylation and prevents viral assembly.";
+RL   J. Gen. Virol. 72:1151-1157(1991).
+RN   [9]
+RP   FUNCTION (PROTEIN 2C).
+RX   PubMed=8385138;
+RA   Rodriguez P.L., Carrasco L.;
+RT   "Poliovirus protein 2C has ATPase and GTPase activities.";
+RL   J. Biol. Chem. 268:8105-8110(1993).
+RN   [10]
+RP   INTERACTION OF PROTEIN 3AB WITH PROTEIN 3CD.
+RX   PubMed=7929441;
+RA   Harris K.S., Xiang W., Alexander L., Lane W.S., Paul A.V., Wimmer E.;
+RT   "Interaction of poliovirus polypeptide 3CDpro with the 5' and 3'
+RT   termini of the poliovirus genome. Identification of viral and cellular
+RT   cofactors needed for efficient binding.";
+RL   J. Biol. Chem. 269:27004-27014(1994).
+RN   [11]
+RP   FUNCTION (PROTEASE 2A).
+RX   PubMed=9755863; DOI=10.1016/S0014-5793(98)01027-8;
+RA   Ventoso I., MacMillan S.E., Hershey J.W., Carrasco L.;
+RT   "Poliovirus 2A proteinase cleaves directly the eIF-4G subunit of eIF-
+RT   4F complex.";
+RL   FEBS Lett. 435:79-83(1998).
+RN   [12]
+RP   FUNCTION (PROTEIN 3B), COVALENT RNA-LINKAGE AT TYR-1546 OF VPG, AND
+RP   URIDYLYLATION AT TYR-1546.
+RX   PubMed=12502805; DOI=10.1128/JVI.77.2.891-904.2003;
+RA   Paul A.V., Peters J., Mugavero J., Yin J., van Boom J.H., Wimmer E.;
+RT   "Biochemical and genetic studies of the VPg uridylylation reaction
+RT   catalyzed by the RNA polymerase of poliovirus.";
+RL   J. Virol. 77:891-904(2003).
+RN   [13]
+RP   HOMODIMERIZATION (PROTEIN 3A).
+RX   PubMed=12823963; DOI=10.1016/S0022-2836(03)00577-1;
+RA   Strauss D.M., Glustrom L.W., Wuttke D.S.;
+RT   "Towards an understanding of the poliovirus replication complex: the
+RT   solution structure of the soluble domain of the poliovirus 3A
+RT   protein.";
+RL   J. Mol. Biol. 330:225-234(2003).
+RN   [14]
+RP   SUBUNIT (PROTEIN 3A), AND CAUTION.
+RX   PubMed=16138011;
+RA   Kondratova A.A., Neznanov N., Kondratov R.V., Gudkov A.V.;
+RT   "Poliovirus protein 3A binds and inactivates LIS1, causing block of
+RT   membrane protein trafficking and deregulation of cell division.";
+RL   Cell Cycle 4:1403-1410(2005).
+RN   [15]
+RP   FUNCTION (PROTEIN 3A).
+RX   PubMed=15914217; DOI=10.1016/j.virol.2005.03.036;
+RA   Choe S.S., Dodd D.A., Kirkegaard K.;
+RT   "Inhibition of cellular protein secretion by picornaviral 3A
+RT   proteins.";
+RL   Virology 337:18-29(2005).
+RN   [16]
+RP   FUNCTION (VIRAL PROTEIN GENOME-LINKED), COVALENT RNA-LINKAGE AT
+RP   TYR-1546 OF VPG, AND URIDYLYLATION AT TYR-1546.
+RX   PubMed=16840321; DOI=10.1128/JVI.02533-05;
+RA   Richards O.C., Spagnolo J.F., Lyle J.M., Vleck S.E., Kuchta R.D.,
+RA   Kirkegaard K.;
+RT   "Intramolecular and intermolecular uridylylation by poliovirus RNA-
+RT   dependent RNA polymerase.";
+RL   J. Virol. 80:7405-7415(2006).
+RN   [17]
+RP   INTERACTION OF PROTEIN 3A WITH HOST GBF1.
+RX   PubMed=17005635; DOI=10.1128/JVI.01225-06;
+RA   Wessels E., Duijsings D., Lanke K.H., van Dooren S.H., Jackson C.L.,
+RA   Melchers W.J., van Kuppeveld F.J.;
+RT   "Effects of picornavirus 3A Proteins on Protein Transport and GBF1-
+RT   dependent COP-I recruitment.";
+RL   J. Virol. 80:11852-11860(2006).
+RN   [18]
+RP   INTERACTION OF PROTEIN 2C WITH HUMAN RTN3.
+RX   PubMed=17182608; DOI=10.1074/jbc.M611145200;
+RA   Tang W.-F., Yang S.-Y., Wu B.-W., Jheng J.-R., Chen Y.-L., Shih C.-H.,
+RA   Lin K.-H., Lai H.-C., Tang P., Horng J.-T.;
+RT   "Reticulon 3 binds the 2C protein of enterovirus 71 and is required
+RT   for viral replication.";
+RL   J. Biol. Chem. 282:5888-5898(2007).
+RN   [19]
+RP   FUNCTION (PROTEIN 3A).
+RX   PubMed=17079330; DOI=10.1128/JVI.01820-06;
+RA   Belov G.A., Altan-Bonnet N., Kovtunovych G., Jackson C.L.,
+RA   Lippincott-Schwartz J., Ehrenfeld E.;
+RT   "Hijacking components of the cellular secretory pathway for
+RT   replication of poliovirus RNA.";
+RL   J. Virol. 81:558-567(2007).
+RN   [20]
+RP   FUNCTION (CAPSID PROTEIN VP1), FUNCTION (CAPSID PROTEIN VP2), AND
+RP   FUNCTION (CAPSID PROTEIN VP3).
+RX   PubMed=17622193; DOI=10.1371/journal.pbio.0050183;
+RA   Brandenburg B., Lee L.Y., Lakadamyali M., Rust M.J., Zhuang X.,
+RA   Hogle J.M.;
+RT   "Imaging poliovirus entry in live cells.";
+RL   PLoS Biol. 5:E183-E183(2007).
+RN   [21]
+RP   FUNCTION (CAPSID PROTEIN VP1), FUNCTION (CAPSID PROTEIN VP2), AND
+RP   FUNCTION (CAPSID PROTEIN VP3).
+RC   STRAIN=Sabin 2;
+RX   PubMed=17717529; DOI=10.1038/sj.emboj.7601831;
+RA   Coyne C.B., Kim K.S., Bergelson J.M.;
+RT   "Poliovirus entry into human brain microvascular cells requires
+RT   receptor-induced activation of SHP-2.";
+RL   EMBO J. 26:4016-4028(2007).
+RN   [22]
+RP   INTERACTION OF PROTEIN 3B WITH PROTEIN 3D.
+RX   PubMed=17409142; DOI=10.1128/JVI.02252-06;
+RA   Strauss D.M., Wuttke D.S.;
+RT   "Characterization of protein-protein interactions critical for
+RT   poliovirus replication: analysis of 3AB and VPg binding to the RNA-
+RT   dependent RNA polymerase.";
+RL   J. Virol. 81:6369-6378(2007).
+RN   [23]
+RP   TOPOLOGY (PROTEIN 3A AND PROTEIN 3AB).
+RX   PubMed=17417822; DOI=10.1021/bi6024758;
+RA   Fujita K., Krishnakumar S.S., Franco D., Paul A.V., London E.,
+RA   Wimmer E.;
+RT   "Membrane topography of the hydrophobic anchor sequence of poliovirus
+RT   3A and 3AB proteins and the functional effect of 3A/3AB membrane
+RT   association upon RNA replication.";
+RL   Biochemistry 46:5185-5199(2007).
+RN   [24]
+RP   FUNCTION (PROTEASE 3C).
+RX   PubMed=18632855; DOI=10.1128/JVI.00006-08;
+RA   Bonderoff J.M., Larey J.L., Lloyd R.E.;
+RT   "Cleavage of poly(A)-binding protein by poliovirus 3C proteinase
+RT   inhibits viral internal ribosome entry site-mediated translation.";
+RL   J. Virol. 82:9389-9399(2008).
+RN   [25]
+RP   FUNCTION (CAPSID PROTEIN VP1), FUNCTION (CAPSID PROTEIN VP2), AND
+RP   FUNCTION (CAPSID PROTEIN VP3).
+RX   PubMed=18191571; DOI=10.1016/j.tim.2007.12.004;
+RA   Bergelson J.M.;
+RT   "New (fluorescent) light on poliovirus entry.";
+RL   Trends Microbiol. 16:44-47(2008).
+RN   [26]
+RP   REVIEW (PROTEIN 2B).
+RX   PubMed=18216106; DOI=10.1128/JVI.02076-07;
+RA   de Jong A.S., de Mattia F., Van Dommelen M.M., Lanke K.,
+RA   Melchers W.J., Willems P.H., van Kuppeveld F.J.;
+RT   "Functional analysis of picornavirus 2B proteins: effects on calcium
+RT   homeostasis and intracellular protein trafficking.";
+RL   J. Virol. 82:3782-3790(2008).
+RN   [27]
+RP   FUNCTION (PROTEASE 3C).
+RX   PubMed=17993457; DOI=10.1074/jbc.M707907200;
+RA   Shen M., Reitman Z.J., Zhao Y., Moustafa I., Wang Q., Arnold J.J.,
+RA   Pathak H.B., Cameron C.E.;
+RT   "Picornavirus genome replication. Identification of the surface of the
+RT   poliovirus (PV) 3C dimer that interacts with PV 3Dpol during VPg
+RT   uridylylation and construction of a structural model for the PV 3C2-
+RT   3Dpol complex.";
+RL   J. Biol. Chem. 283:875-888(2008).
+RN   [28]
+RP   FUNCTION (PROTEIN 2A).
+RX   PubMed=19789179; DOI=10.1242/jcs.055988;
+RA   Castello A., Izquierdo J.M., Welnowska E., Carrasco L.;
+RT   "RNA nuclear export is blocked by poliovirus 2A protease and is
+RT   concomitant with nucleoporin cleavage.";
+RL   J. Cell Sci. 122:3799-3809(2009).
+RN   [29]
+RP   FUNCTION (PROTEIN 2C).
+RX   PubMed=19520852; DOI=10.1074/jbc.M109.031807;
+RA   Adams P., Kandiah E., Effantin G., Steven A.C., Ehrenfeld E.;
+RT   "Poliovirus 2C protein forms homo-oligomeric structures required for
+RT   ATPase activity.";
+RL   J. Biol. Chem. 284:22012-22021(2009).
+RN   [30]
+RP   REVIEW (RNA-DIRECTED RNA POLYMERASE).
+RX   PubMed=18487072; DOI=10.1016/j.biocel.2008.03.019;
+RA   Kok C.C., McMinn P.C.;
+RT   "Picornavirus RNA-dependent RNA polymerase.";
+RL   Int. J. Biochem. Cell Biol. 41:498-502(2009).
+RN   [31]
+RP   INTERACTION OF CAPSID PROTEIN VP3 WITH PROTEIN 2C, AND FUNCTION OF
+RP   CAPSID PROTEIN VP3.
+RX   PubMed=20865167; DOI=10.1371/journal.ppat.1001066;
+RA   Liu Y., Wang C., Mueller S., Paul A.V., Wimmer E., Jiang P.;
+RT   "Direct interaction between two viral proteins, the nonstructural
+RT   protein 2C and the capsid protein VP3, is required for enterovirus
+RT   morphogenesis.";
+RL   PLoS Pathog. 6:E1001066-E1001066(2010).
+RN   [32]
+RP   FUNCTION (VIRAL PROTEIN GENOME-LINKED).
+RX   PubMed=20441784; DOI=10.1016/j.peptides.2010.04.021;
+RA   Schein C.H., Oezguen N., van der Heden van Noort G.J., Filippov D.V.,
+RA   Paul A., Kumar E., Braun W.;
+RT   "NMR solution structure of poliovirus uridylyated peptide linked to
+RT   the genome (VPgpU).";
+RL   Peptides 31:1441-1448(2010).
+RN   [33]
+RP   FUNCTION (PROTEIN 3AB).
+RX   PubMed=21045553; DOI=10.4161/rna.7.6.13781;
+RA   Gangaramani D.R., Eden E.L., Shah M., Destefano J.J.;
+RT   "The twenty-nine amino acid C-terminal cytoplasmic domain of
+RT   poliovirus 3AB is critical for nucleic acid chaperone activity.";
+RL   RNA Biol. 7:820-829(2010).
+RN   [34]
+RP   TOPOLOGY (PROTEIN 2B).
+RX   PubMed=21835803; DOI=10.1128/JVI.05421-11;
+RA   Martinez-Gil L., Bano-Polo M., Redondo N., Sanchez-Martinez S.,
+RA   Nieva J.L., Carrasco L., Mingarro I.;
+RT   "Membrane integration of poliovirus 2B viroporin.";
+RL   J. Virol. 85:11315-11324(2011).
+RN   [35]
+RP   SUBUNIT OF PROTEIN 3A AND PROTEIN 3AB.
+RX   PubMed=21345960; DOI=10.1128/JVI.02398-10;
+RA   Teterina N.L., Pinto Y., Weaver J.D., Jensen K.S., Ehrenfeld E.;
+RT   "Analysis of poliovirus protein 3A interactions with viral and
+RT   cellular proteins in infected cells.";
+RL   J. Virol. 85:4284-4296(2011).
+RN   [36]
+RP   FUNCTION (PROTEIN 2C).
+RX   PubMed=22761387; DOI=10.1128/JVI.00914-12;
+RA   Wang C., Jiang P., Sand C., Paul A.V., Wimmer E.;
+RT   "Alanine scanning of poliovirus 2CATPase reveals new genetic evidence
+RT   that capsid protein/2CATPase interactions are essential for
+RT   morphogenesis.";
+RL   J. Virol. 86:9964-9975(2012).
+RN   [37]
+RP   CHARACTERIZATION OF N-TERMINUS (CAPSID PROTEIN VP1).
+RX   PubMed=23085162; DOI=10.1016/j.jmgm.2012.06.009;
+RA   Roberts J.A., Kuiper M.J., Thorley B.R., Smooker P.M., Hung A.;
+RT   "Investigation of a predicted N-terminal amphipathic alpha-helix using
+RT   atomistic molecular dynamics simulation of a complete prototype
+RT   poliovirus virion.";
+RL   J. Mol. Graph. Model. 38:165-173(2012).
+RN   [38]
+RP   FUNCTION (CAPSID PROTEIN VP1 AND CAPSID PROTEIN VP4).
+RX   PubMed=23365424; DOI=10.1128/JVI.03209-12;
+RA   Strauss M., Levy H.C., Bostina M., Filman D.J., Hogle J.M.;
+RT   "RNA transfer from poliovirus 135S particles across membranes is
+RT   mediated by long umbilical connectors.";
+RL   J. Virol. 87:3903-3914(2013).
+RN   [39]
+RP   MULTIMERIZATION (RNA-DIRECTED RNA POLYMERASE).
+RX   PubMed=23583774; DOI=10.1016/j.jmb.2013.04.007;
+RA   Wang J., Lyle J.M., Bullitt E.;
+RT   "Surface for catalysis by poliovirus RNA-dependent RNA polymerase.";
+RL   J. Mol. Biol. 425:2529-2540(2013).
+RN   [40]
+RP   X-RAY CRYSTALLOGRAPHY (2.9 ANGSTROMS) OF 1-881.
+RX   PubMed=2994218; DOI=10.1126/science.2994218;
+RA   Hogle J.M., Chow M., Filman D.J.;
+RT   "Three-dimensional structure of poliovirus at 2.9-A resolution.";
+RL   Science 229:1358-1365(1985).
+RN   [41]
+RP   X-RAY CRYSTALLOGRAPHY (2.88 ANGSTROMS) OF 2-880.
+RX   PubMed=2548847;
+RA   Filman D.J., Syed R., Chow M., Macadam A.J., Minor P.D., Hogle J.M.;
+RT   "Structural factors that control conformational transitions and
+RT   serotype specificity in type 3 poliovirus.";
+RL   EMBO J. 8:1567-1579(1989).
+RN   [42]
+RP   X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) OF 2-880.
+RX   PubMed=7849583; DOI=10.1002/pro.5560031005;
+RA   Basavappa R., Syed R., Flore O., Icenogle J.P., Filman D.J.,
+RA   Hogle J.M.;
+RT   "Role and mechanism of the maturation cleavage of VP0 in poliovirus
+RT   assembly: structure of the empty capsid assembly intermediate at 2.9 A
+RT   resolution.";
+RL   Protein Sci. 3:1651-1669(1994).
+RN   [43]
+RP   X-RAY CRYSTALLOGRAPHY (2.9 ANGSTROMS) OF 1-881.
+RX   PubMed=7820548; DOI=10.1016/S0960-9822(00)00176-7;
+RA   Grant R.A., Hiremath C.N., Filman D.J., Syed R., Andries K.,
+RA   Hogle J.M.;
+RT   "Structures of poliovirus complexes with anti-viral drugs:
+RT   implications for viral stability and drug design.";
+RL   Curr. Biol. 4:784-797(1994).
+RN   [44]
+RP   STRUCTURE BY ELECTRON MICROSCOPY (2.0 ANGSTROMS) OF 1-881, AND
+RP   MYRISTOYLATION AT GLY-2.
+RX   PubMed=10618374; DOI=10.1073/pnas.97.1.79;
+RA   He Y., Bowman V.D., Mueller S., Bator C.M., Bella J., Peng X.,
+RA   Baker T.S., Wimmer E., Kuhn R.J., Rossmann M.G.;
+RT   "Interaction of the poliovirus receptor with poliovirus.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 97:79-84(2000).
+RN   [45]
+RP   STRUCTURE BY ELECTRON MICROSCOPY (15.0 ANGSTROMS) OF 2-881.
+RX   PubMed=12663789; DOI=10.1128/JVI.77.8.4827-4835.2003;
+RA   He Y., Mueller S., Chipman P.R., Bator C.M., Peng X., Bowman V.D.,
+RA   Mukhopadhyay S., Wimmer E., Kuhn R.J., Rossmann M.G.;
+RT   "Complexes of poliovirus serotypes with their common cellular
+RT   receptor, CD155.";
+RL   J. Virol. 77:4827-4835(2003).
+RN   [46]
+RP   STRUCTURE BY ELECTRON MICROSCOPY (11.0 ANGSTROMS) OF 97-880.
+RX   PubMed=15919927; DOI=10.1128/JVI.79.12.7745-7755.2005;
+RA   Bubeck D., Filman D.J., Cheng N., Steven A.C., Hogle J.M.,
+RA   Belnap D.M.;
+RT   "The structure of the poliovirus 135S cell entry intermediate at 10-
+RT   angstrom resolution reveals the location of an externalized
+RT   polypeptide that binds to membranes.";
+RL   J. Virol. 79:7745-7755(2005).
+RN   [47]
+RP   STRUCTURE BY ELECTRON MICROSCOPY (8.0 ANGSTROMS) OF 2-881.
+RX   PubMed=19011098; DOI=10.1073/pnas.0807848105;
+RA   Zhang P., Mueller S., Morais M.C., Bator C.M., Bowman V.D.,
+RA   Hafenstein S., Wimmer E., Rossmann M.G.;
+RT   "Crystal structure of CD155 and electron microscopic studies of its
+RT   complexes with polioviruses.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:18284-18289(2008).
+RN   [48]
+RP   STRUCTURE BY ELECTRON MICROSCOPY OF 97-341 AND 647-881.
+RX   PubMed=20181687; DOI=10.1128/JVI.02393-09;
+RA   Levy H.C., Bostina M., Filman D.J., Hogle J.M.;
+RT   "Catching a virus in the act of RNA release: a novel poliovirus
+RT   uncoating intermediate characterized by cryo-electron microscopy.";
+RL   J. Virol. 84:4426-4441(2010).
+CC   -!- FUNCTION: Capsid protein VP1: Forms an icosahedral capsid of
+CC       pseudo T=3 symmetry with capsid proteins VP2 and VP3. The capsid
+CC       is 300 Angstroms in diameter, composed of 60 copies of each capsid
+CC       protein and enclosing the viral positive strand RNA genome. Capsid
+CC       protein VP1 mainly forms the vertices of the capsid. Capsid
+CC       protein VP1 interacts with host cell receptor PVR to provide
+CC       virion attachment to target host epithelial cells. This attachment
+CC       induces virion internalization predominantly through clathrin- and
+CC       caveolin-independent endocytosis in Hela cells and through
+CC       caveolin-mediated endocytosis in brain microvascular endothelial
+CC       cells. Tyrosine kinases are probably involved in the entry
+CC       process. Virus binding to PVR induces increased junctional
+CC       permeability and rearrangement of junctional proteins. Modulation
+CC       of endothelial tight junctions, as well as cytolytic infection of
+CC       endothelial cells themselves, may result in loss of endothelial
+CC       integrity which may help the virus to reach the CNS. After binding
+CC       to its receptor, the capsid undergoes conformational changes.
+CC       Capsid protein VP1 N-terminus (that contains an amphipathic alpha-
+CC       helix) and capsid protein VP4 are externalized. Together, they
+CC       shape a pore in the host membrane through which viral genome is
+CC       translocated to host cell cytoplasm. After genome has been
+CC       released, the channel shrinks.
+CC   -!- FUNCTION: Capsid protein VP2: Forms an icosahedral capsid of
+CC       pseudo T=3 symmetry with capsid proteins VP2 and VP3. The capsid
+CC       is 300 Angstroms in diameter, composed of 60 copies of each capsid
+CC       protein and enclosing the viral positive strand RNA genome.
+CC   -!- FUNCTION: Capsid protein VP3: Forms an icosahedral capsid of
+CC       pseudo T=3 symmetry with capsid proteins VP2 and VP3. The capsid
+CC       is 300 Angstroms in diameter, composed of 60 copies of each capsid
+CC       protein and enclosing the viral positive strand RNA genome.
+CC   -!- FUNCTION: Capsid protein VP4: Lies on the inner surface of the
+CC       capsid shell. After binding to the host receptor, the capsid
+CC       undergoes conformational changes. Capsid protein VP4 is released,
+CC       Capsid protein VP1 N-terminus is externalized, and together, they
+CC       shape a pore in the host membrane through which the viral genome
+CC       is translocated into the host cell cytoplasm. After genome has
+CC       been released, the channel shrinks (By similarity). {ECO:0000250}.
+CC   -!- FUNCTION: Capsid protein VP0: Component of immature procapsids,
+CC       which is cleaved into capsid proteins VP4 and VP2 after
+CC       maturation. Allows the capsid to remain inactive before the
+CC       maturation step (By similarity). {ECO:0000250}.
+CC   -!- FUNCTION: Protein 2A: Cysteine protease that cleaves viral
+CC       polyprotein and specific host proteins. It is responsible for the
+CC       cleavage between the P1 and P2 regions, first cleavage occurring
+CC       in the polyprotein. Cleaves also the host translation initiation
+CC       factor EIF4G1, in order to shut down the capped cellular mRNA
+CC       translation. Inhibits the host nucleus-cytoplasm protein and RNA
+CC       trafficking by cleaving host members of the nuclear pores
+CC       including NUP98, NUP62 and NUP153.
+CC   -!- FUNCTION: Protein 2B: Plays an essential role in the virus
+CC       replication cycle by acting as a viroporin. Creates a pore in the
+CC       host reticulum endoplasmic and as a consequence releases Ca2+ in
+CC       the cytoplasm of infected cell. In turn, high levels of
+CC       cyctoplasmic calcium may trigger membrane trafficking and
+CC       transport of viral ER-associated proteins to viroplasms, sites of
+CC       viral genome replication.
+CC   -!- FUNCTION: Protein 2C: Induces and associates with structural
+CC       rearrangements of intracellular membranes. Triggers host autophagy
+CC       by interacting with host BECN1 and thereby promotes viral
+CC       replication. Participates in viral replication and interacts with
+CC       host DHX9. Displays RNA-binding, nucleotide binding and NTPase
+CC       activities. May play a role in virion morphogenesis and viral RNA
+CC       encapsidation by interacting with the capsid protein VP3.
+CC   -!- FUNCTION: Protein 3AB: Localizes the viral replication complex to
+CC       the surface of membranous vesicles. Together with protein 3CD
+CC       binds the Cis-Active RNA Element (CRE) which is involved in RNA
+CC       synthesis initiation. Acts as a cofactor to stimulate the activity
+CC       of 3D polymerase, maybe through a nucleid acid chaperone activity.
+CC   -!- FUNCTION: Protein 3A: Localizes the viral replication complex to
+CC       the surface of membranous vesicles. It inhibits host cell
+CC       endoplasmic reticulum-to-Golgi apparatus transport and causes the
+CC       dissassembly of the Golgi complex, possibly through GBF1
+CC       interaction. This would result in depletion of MHC, trail
+CC       receptors and IFN receptors at the host cell surface.
+CC   -!- FUNCTION: Viral protein genome-linked: acts as a primer for viral
+CC       RNA replication and remains covalently bound to viral genomic RNA.
+CC       VPg is uridylylated prior to priming replication into VPg-pUpU.
+CC       The oriI viral genomic sequence may act as a template for this.
+CC       The VPg-pUpU is then used as primer on the genomic RNA poly(A) by
+CC       the RNA-dependent RNA polymerase to replicate the viral genome.
+CC       VPg may be removed in the cytoplasm by an unknown enzyme termed
+CC       "unlinkase". VPg is not cleaved off virion genomes because
+CC       replicated genomic RNA are encapsidated at the site of
+CC       replication.
+CC   -!- FUNCTION: Protein 3CD: Is involved in the viral replication
+CC       complex and viral polypeptide maturation. It exhibits protease
+CC       activity with a specificity and catalytic efficiency that is
+CC       different from protease 3C. Protein 3CD lacks polymerase activity.
+CC       The 3C domain in the context of protein 3CD may have an RNA
+CC       binding activity.
+CC   -!- FUNCTION: Protease 3C: May cleave host PABP and contribute to host
+CC       translation shutoff.
+CC   -!- FUNCTION: RNA-directed RNA polymerase: Replicates the viral
+CC       genomic RNA on the surface of intracellular membranes. May form
+CC       linear arrays of subunits that propagate along a strong head-to-
+CC       tail interaction called interface-I. Covalently attaches UMP to a
+CC       tyrosine of VPg, which is used to prime RNA synthesis. The
+CC       positive stranded RNA genome is first replicated at virus induced
+CC       membranous vesicles, creating a dsRNA genomic replication form.
+CC       This dsRNA is then used as template to synthesize positive
+CC       stranded RNA genomes. ss(+)RNA genomes are either translated,
+CC       replicated or encapsidated.
+CC   -!- CATALYTIC ACTIVITY: Nucleoside triphosphate + RNA(n) = diphosphate
+CC       + RNA(n+1). {ECO:0000255|PROSITE-ProRule:PRU00539}.
+CC   -!- CATALYTIC ACTIVITY: Selective cleavage of Tyr-|-Gly bond in the
+CC       picornavirus polyprotein.
+CC   -!- CATALYTIC ACTIVITY: Selective cleavage of Gln-|-Gly bond in the
+CC       poliovirus polyprotein. In other picornavirus reactions Glu may be
+CC       substituted for Gln, and Ser or Thr for Gly.
+CC   -!- CATALYTIC ACTIVITY: NTP + H(2)O = NDP + phosphate.
+CC   -!- ENZYME REGULATION: RNA-directed RNA polymerase: replication or
+CC       transcription is subject to high level of random mutations by the
+CC       nucleotide analog ribavirin.
+CC   -!- SUBUNIT: Capsid protein VP1: Interacts with capsid protein VP0,
+CC       and capsid protein VP3 to form heterotrimeric protomers. Five
+CC       protomers subsequently associate to form pentamers which serve as
+CC       building blocks for the capsid. Interacts with human PVR.
+CC       Interacts with capsid protein VP4 in the mature capsid. Capsid
+CC       protein VP0: interacts with capsid protein VP1 and capsid protein
+CC       VP3 to form heterotrimeric protomers. Five protomers subsequently
+CC       associate to form pentamers which serve as building blocks for the
+CC       capsid. Capsid protein VP2: Interacts with capsid protein VP1 and
+CC       capsid protein VP3 in the mature capsid. Capsid protein VP3:
+CC       interacts with capsid protein VP0 and capsid protein VP1 to form
+CC       heterotrimeric protomers. Five protomers subsequently associate to
+CC       form pentamers which serve as building blocks for the capsid.
+CC       Interacts with capsid protein VP4 in the mature capsid. Capsid
+CC       protein VP4: Interacts with capsid protein VP1 and capsid protein
+CC       VP3. Protein 2C: interacts with cellular Vimentin/VIM and BECN1;
+CC       these interactions play important roles in the viral replication
+CC       (By similarity). Protein 2C: interacts with capsid protein VP3;
+CC       this interaction may be important for virion morphogenesis.
+CC       Protein 2C: interacts with host BECN1 and DHX9 and possibly
+CC       presents an hexameric ring structure with 6-fold symmetry
+CC       characteristic of AAA+ ATPases. Protein 2C: N-terminus interacts
+CC       with human RTN3. This interaction is important for viral
+CC       replication (By similarity). Protein 3AB: interacts with protein
+CC       3CD. Protein 3A: homodimerizes and interacts with host GBF1. Viral
+CC       protein genome-linked: interacts with RNA-directed RNA polymerase.
+CC       Protein 3CD: interacts with protein 3AB and with RNA-directed RNA
+CC       polymerase. RNA-directed RNA polymerase: interacts with Viral
+CC       protein genome-linked and with protein 3CD. {ECO:0000250,
+CC       ECO:0000269|PubMed:16138011, ECO:0000269|PubMed:17005635,
+CC       ECO:0000269|PubMed:17182608, ECO:0000269|PubMed:17409142,
+CC       ECO:0000269|PubMed:20865167, ECO:0000269|PubMed:21345960,
+CC       ECO:0000269|PubMed:7929441}.
+CC   -!- SUBCELLULAR LOCATION: Capsid protein VP0: Virion. Host cytoplasm
+CC       {ECO:0000305}.
+CC   -!- SUBCELLULAR LOCATION: Capsid protein VP4: Virion.
+CC   -!- SUBCELLULAR LOCATION: Capsid protein VP2: Virion. Host cytoplasm
+CC       {ECO:0000305}.
+CC   -!- SUBCELLULAR LOCATION: Capsid protein VP3: Virion. Host cytoplasm
+CC       {ECO:0000305}.
+CC   -!- SUBCELLULAR LOCATION: Capsid protein VP1: Virion. Host cytoplasm
+CC       {ECO:0000305}.
+CC   -!- SUBCELLULAR LOCATION: Protein 2B: Host cytoplasmic vesicle
+CC       membrane {ECO:0000305}; Peripheral membrane protein {ECO:0000305};
+CC       Cytoplasmic side {ECO:0000305}. Note=Probably localizes to the
+CC       surface of intracellular membrane vesicles that are induced after
+CC       virus infection as the site for viral RNA replication. These
+CC       vesicles are derived from the endoplasmic reticulum.
+CC   -!- SUBCELLULAR LOCATION: Protein 2C: Host cytoplasmic vesicle
+CC       membrane {ECO:0000305}; Peripheral membrane protein {ECO:0000305};
+CC       Cytoplasmic side {ECO:0000305}. Note=Probably localizes to the
+CC       surface of intracellular membrane vesicles that are induced after
+CC       virus infection as the site for viral RNA replication. These
+CC       vesicles are derived from the endoplasmic reticulum.
+CC   -!- SUBCELLULAR LOCATION: Protein 3A: Host cytoplasmic vesicle
+CC       membrane {ECO:0000305}; Peripheral membrane protein {ECO:0000305};
+CC       Cytoplasmic side {ECO:0000305}. Note=Probably localizes to the
+CC       surface of intracellular membrane vesicles that are induced after
+CC       virus infection as the site for viral RNA replication. These
+CC       vesicles are derived from the endoplasmic reticulum.
+CC   -!- SUBCELLULAR LOCATION: Protein 3AB: Host cytoplasmic vesicle
+CC       membrane {ECO:0000305}; Peripheral membrane protein {ECO:0000305};
+CC       Cytoplasmic side {ECO:0000305}. Note=Probably localizes to the
+CC       surface of intracellular membrane vesicles that are induced after
+CC       virus infection as the site for viral RNA replication. These
+CC       vesicles are derived from the endoplasmic reticulum.
+CC   -!- SUBCELLULAR LOCATION: Viral protein genome-linked: Virion. Host
+CC       cytoplasm.
+CC   -!- SUBCELLULAR LOCATION: Protease 3C: Host cytoplasm.
+CC   -!- SUBCELLULAR LOCATION: Protein 3CD: Host cytoplasmic vesicle
+CC       membrane {ECO:0000305}; Peripheral membrane protein {ECO:0000305};
+CC       Cytoplasmic side {ECO:0000305}. Note=Probably localizes to the
+CC       surface of intracellular membrane vesicles that are induced after
+CC       virus infection as the site for viral RNA replication. These
+CC       vesicles are derived from the endoplasmic reticulum.
+CC   -!- SUBCELLULAR LOCATION: RNA-directed RNA polymerase: Host
+CC       cytoplasmic vesicle membrane {ECO:0000305}; Peripheral membrane
+CC       protein {ECO:0000305}; Cytoplasmic side {ECO:0000305}.
+CC       Note=Probably localizes to the surface of intracellular membrane
+CC       vesicles that are induced after virus infection as the site for
+CC       viral RNA replication. These vesicles are derived from the
+CC       endoplasmic reticulum.
+CC   -!- PTM: Capsid protein VP0: Myristoylation is required for the
+CC       formation of pentamers during virus assembly. Further assembly of
+CC       12 pentamers and a molecule of genomic RNA generates the provirion
+CC       (By similarity). {ECO:0000250}.
+CC   -!- PTM: Genome polyprotein: Specific enzymatic cleavages in vivo by
+CC       the viral proteases yield processing intermediates and the mature
+CC       proteins.
+CC   -!- PTM: Capsid protein VP0: During virion maturation, immature
+CC       virions are rendered infectious following cleavage of VP0 into VP4
+CC       and VP2. This maturation seems to be an autocatalytic event
+CC       triggered by the presence of RNA in the capsid and it is followed
+CC       by a conformational change infectious virion.
+CC   -!- PTM: Viral protein genome-linked: VPg is uridylylated by the
+CC       polymerase into VPg-pUpU. This acts as a nucleotide-peptide primer
+CC       for the genomic RNA replication.
+CC   -!- SIMILARITY: Belongs to the picornaviruses polyprotein family.
+CC       {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 2 peptidase C3 domains. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 RdRp catalytic domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00539}.
+CC   -!- SIMILARITY: Contains 1 SF3 helicase domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00551}.
+CC   -!- CAUTION: Protein 3A: Has been proposed to interact with host
+CC       LIS1/NUF (PubMed:16138011), but this has not been confirmed by
+CC       other studies (PubMed:21345960). {ECO:0000305|PubMed:16138011,
+CC       ECO:0000305|PubMed:21345960}.
+CC   -!- WEB RESOURCE: Name=Virus Particle ExploreR db; Note=Icosahedral
+CC       capsid structure associated with cellular receptor;
+CC       URL="http://viperdb.scripps.edu/info_page.php?VDB=1dgi";
+CC   -!- WEB RESOURCE: Name=Virus Particle ExploreR db; Note=Icosahedral
+CC       capsid structure associated with cellular receptor;
+CC       URL="http://viperdb.scripps.edu/info_page.php?VDB=1nn8";
+CC   -!- WEB RESOURCE: Name=Virus Particle ExploreR db; Note=Icosahedral
+CC       capsid structure in complex with R80633, an inhibitor of viral
+CC       replication;
+CC       URL="http://viperdb.scripps.edu/info_page.php?VDB=1po1";
+CC   -!- WEB RESOURCE: Name=Virus Particle ExploreR db; Note=Icosahedral
+CC       capsid structure in complex with R77975, an inhibitor of viral
+CC       replication;
+CC       URL="http://viperdb.scripps.edu/info_page.php?VDB=1po2";
+CC   -!- WEB RESOURCE: Name=Virus Particle ExploreR db; Note=Icosahedral
+CC       empty capsid structure;
+CC       URL="http://viperdb.scripps.edu/info_page.php?VDB=1pov";
+CC   -!- WEB RESOURCE: Name=Virus Particle ExploreR db; Note=Icosahedral
+CC       capsid structure complexed with R78206;
+CC       URL="http://viperdb.scripps.edu/info_page.php?VDB=1vbd";
+CC   -!- WEB RESOURCE: Name=Virus Particle ExploreR db; Note=Icosahedral
+CC       capsid structure;
+CC       URL="http://viperdb.scripps.edu/info_page.php?VDB=2plv";
+CC   -!- WEB RESOURCE: Name=Virus Particle ExploreR db; Note=Icosahedral
+CC       capsid structure of 135S cell entry intermediate;
+CC       URL="http://viperdb.scripps.edu/info_page.php?VDB=1xyr";
+CC   -!- WEB RESOURCE: Name=Virus Particle ExploreR db; Note=Icosahedral
+CC       capsid structure;
+CC       URL="http://viperdb.scripps.edu/info_page.php?VDB=1hxs";
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; V01149; CAA24461.1; -; Genomic_RNA.
+DR   EMBL; V01148; CAA24446.1; -; Genomic_RNA.
+DR   PIR; A03898; GNNY2P.
+DR   PIR; A93258; GNNY1P.
+DR   RefSeq; NP_041277.1; NC_002058.3.
+DR   PDB; 1AL2; X-ray; 2.90 A; 1=580-881, 2=70-341, 3=342-579, 4=2-69.
+DR   PDB; 1AR6; X-ray; 2.90 A; 1=580-881, 2=70-341, 3=342-579, 4=2-69.
+DR   PDB; 1AR7; X-ray; 2.90 A; 1=580-881, 2=70-341, 3=342-579, 4=2-69.
+DR   PDB; 1AR8; X-ray; 2.90 A; 1=580-881, 2=70-341, 3=342-579, 4=2-69.
+DR   PDB; 1AR9; X-ray; 2.90 A; 1=580-881, 2=70-341, 3=342-579, 4=2-69.
+DR   PDB; 1ASJ; X-ray; 2.90 A; 1=580-881, 2=70-341, 3=342-579, 4=2-69.
+DR   PDB; 1DGI; EM; 22.00 A; 1=599-881, 2=74-341, 3=342-576, 4=2-69.
+DR   PDB; 1FPT; X-ray; 3.00 A; P=665-682.
+DR   PDB; 1HXS; X-ray; 2.20 A; 1=580-881, 2=70-341, 3=342-578, 4=2-69.
+DR   PDB; 1L1N; X-ray; 2.10 A; A/B=1566-1748.
+DR   PDB; 1NG7; NMR; -; A/B=1457-1515.
+DR   PDB; 1NN8; EM; 15.00 A; 1=580-881, 2=70-341, 3=342-576, 4=2-69.
+DR   PDB; 1PO1; X-ray; 2.90 A; 1=580-881, 2=70-341, 3=342-579, 4=2-69.
+DR   PDB; 1PO2; X-ray; 2.90 A; 1=580-881, 2=70-341, 3=342-579, 4=2-69.
+DR   PDB; 1POV; X-ray; 2.80 A; 0=2-341, 1=580-881, 3=342-579.
+DR   PDB; 1RA6; X-ray; 2.00 A; A=1749-2209.
+DR   PDB; 1RA7; X-ray; 2.35 A; A=1749-2209.
+DR   PDB; 1RAJ; X-ray; 2.50 A; A=1817-2209.
+DR   PDB; 1RDR; X-ray; 2.40 A; A=1749-2209.
+DR   PDB; 1TQL; X-ray; 2.30 A; A=1749-2209.
+DR   PDB; 1VBD; X-ray; 2.90 A; 1=580-881, 2=70-341, 3=342-579, 4=2-69.
+DR   PDB; 1XYR; EM; 11.00 A; 1=650-881, 2=97-333, 3=391-572, 5=342-353, 6=355-390, 7=82-95, 8=621-631.
+DR   PDB; 2BBL; NMR; -; A=1544-1565.
+DR   PDB; 2BBP; NMR; -; A=1544-1565.
+DR   PDB; 2IJD; X-ray; 3.40 A; 1/2=1566-2208.
+DR   PDB; 2IJF; X-ray; 3.00 A; A=1749-2208.
+DR   PDB; 2ILY; X-ray; 2.60 A; A=1749-2208.
+DR   PDB; 2ILZ; X-ray; 2.50 A; A=1749-2208.
+DR   PDB; 2IM0; X-ray; 2.25 A; A=1749-2208.
+DR   PDB; 2IM1; X-ray; 2.50 A; A=1749-2208.
+DR   PDB; 2IM2; X-ray; 2.35 A; A=1749-2208.
+DR   PDB; 2IM3; X-ray; 2.60 A; A=1749-2208.
+DR   PDB; 2PLV; X-ray; 2.88 A; 1=580-881, 2=70-341, 3=342-579, 4=2-69.
+DR   PDB; 3EPC; EM; 8.00 A; 1=599-881, 2=74-341, 3=342-576, 4=2-69.
+DR   PDB; 3IYB; EM; -; 1=647-881, 4=97-341.
+DR   PDB; 3IYC; EM; -; 1=647-881, 4=97-341.
+DR   PDB; 3J3O; EM; 11.10 A; 1=580-881, 2=70-341, 3=342-579, 4=2-69.
+DR   PDB; 3J3P; EM; 9.10 A; 1=580-881, 2=70-341, 3=342-579.
+DR   PDB; 3J48; EM; 5.50 A; 1=580-881, 2=70-341, 3=342-579.
+DR   PDB; 3J69; EM; 4.80 A; 1=580-881, 2=70-341, 3=342-579, 4=2-69.
+DR   PDB; 3J6A; EM; 6.50 A; 1=580-881, 2=70-341, 3=342-579, 4=2-69.
+DR   PDB; 3J8F; EM; 3.70 A; 1=580-881, 2=70-341, 3=342-579, 4=2-69.
+DR   PDB; 3J9F; EM; 9.00 A; 1=580-881, 2=70-341, 3=342-579, 4=2-69.
+DR   PDB; 3OL7; X-ray; 2.70 A; A/E/I/M=1749-2209.
+DR   PDB; 4DCD; X-ray; 1.69 A; A=1566-1748.
+DR   PDB; 4K4S; X-ray; 2.40 A; A/E=1749-2209.
+DR   PDB; 4K4T; X-ray; 2.75 A; A/E=1749-2209.
+DR   PDB; 4K4U; X-ray; 2.85 A; A/E=1749-2209.
+DR   PDB; 4K4V; X-ray; 2.63 A; A/E=1749-2209.
+DR   PDB; 4K4W; X-ray; 2.69 A; A/E=1749-2209.
+DR   PDB; 4NLO; X-ray; 2.20 A; A=1749-2209.
+DR   PDB; 4NLP; X-ray; 2.20 A; A=1749-2209.
+DR   PDB; 4NLQ; X-ray; 2.30 A; A=1749-2209.
+DR   PDB; 4NLR; X-ray; 2.00 A; A=1749-2209.
+DR   PDB; 4NLS; X-ray; 2.00 A; A=1749-2209.
+DR   PDB; 4NLT; X-ray; 2.50 A; A=1749-2209.
+DR   PDB; 4NLU; X-ray; 2.10 A; A=1749-2209.
+DR   PDB; 4NLV; X-ray; 2.30 A; A=1749-2209.
+DR   PDB; 4NLW; X-ray; 2.10 A; A=1749-2209.
+DR   PDB; 4NLX; X-ray; 2.60 A; A=1749-2209.
+DR   PDB; 4NLY; X-ray; 2.30 A; A=1749-2209.
+DR   PDB; 4R0E; X-ray; 3.00 A; A=1749-2209.
+DR   PDBsum; 1AL2; -.
+DR   PDBsum; 1AR6; -.
+DR   PDBsum; 1AR7; -.
+DR   PDBsum; 1AR8; -.
+DR   PDBsum; 1AR9; -.
+DR   PDBsum; 1ASJ; -.
+DR   PDBsum; 1DGI; -.
+DR   PDBsum; 1FPT; -.
+DR   PDBsum; 1HXS; -.
+DR   PDBsum; 1L1N; -.
+DR   PDBsum; 1NG7; -.
+DR   PDBsum; 1NN8; -.
+DR   PDBsum; 1PO1; -.
+DR   PDBsum; 1PO2; -.
+DR   PDBsum; 1POV; -.
+DR   PDBsum; 1RA6; -.
+DR   PDBsum; 1RA7; -.
+DR   PDBsum; 1RAJ; -.
+DR   PDBsum; 1RDR; -.
+DR   PDBsum; 1TQL; -.
+DR   PDBsum; 1VBD; -.
+DR   PDBsum; 1XYR; -.
+DR   PDBsum; 2BBL; -.
+DR   PDBsum; 2BBP; -.
+DR   PDBsum; 2IJD; -.
+DR   PDBsum; 2IJF; -.
+DR   PDBsum; 2ILY; -.
+DR   PDBsum; 2ILZ; -.
+DR   PDBsum; 2IM0; -.
+DR   PDBsum; 2IM1; -.
+DR   PDBsum; 2IM2; -.
+DR   PDBsum; 2IM3; -.
+DR   PDBsum; 2PLV; -.
+DR   PDBsum; 3EPC; -.
+DR   PDBsum; 3IYB; -.
+DR   PDBsum; 3IYC; -.
+DR   PDBsum; 3J3O; -.
+DR   PDBsum; 3J3P; -.
+DR   PDBsum; 3J48; -.
+DR   PDBsum; 3J69; -.
+DR   PDBsum; 3J6A; -.
+DR   PDBsum; 3J8F; -.
+DR   PDBsum; 3J9F; -.
+DR   PDBsum; 3OL7; -.
+DR   PDBsum; 4DCD; -.
+DR   PDBsum; 4K4S; -.
+DR   PDBsum; 4K4T; -.
+DR   PDBsum; 4K4U; -.
+DR   PDBsum; 4K4V; -.
+DR   PDBsum; 4K4W; -.
+DR   PDBsum; 4NLO; -.
+DR   PDBsum; 4NLP; -.
+DR   PDBsum; 4NLQ; -.
+DR   PDBsum; 4NLR; -.
+DR   PDBsum; 4NLS; -.
+DR   PDBsum; 4NLT; -.
+DR   PDBsum; 4NLU; -.
+DR   PDBsum; 4NLV; -.
+DR   PDBsum; 4NLW; -.
+DR   PDBsum; 4NLX; -.
+DR   PDBsum; 4NLY; -.
+DR   PDBsum; 4R0E; -.
+DR   ProteinModelPortal; P03300; -.
+DR   SMR; P03300; 2-579, 599-1030, 1457-1515, 1566-2209.
+DR   BindingDB; P03300; -.
+DR   ChEMBL; CHEMBL5127; -.
+DR   MEROPS; N08.001; -.
+DR   GeneID; 919920; -.
+DR   KEGG; vg:919920; -.
+DR   EvolutionaryTrace; P03300; -.
+DR   PMAP-CutDB; P03299; -.
+DR   Proteomes; UP000000356; Genome.
+DR   GO; GO:0044162; C:host cell cytoplasmic vesicle membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0044385; C:integral to membrane of host cell; IEA:UniProtKB-KW.
+DR   GO; GO:0016020; C:membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0039618; C:T=pseudo3 icosahedral viral capsid; IEA:UniProtKB-KW.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004197; F:cysteine-type endopeptidase activity; IEA:InterPro.
+DR   GO; GO:0005216; F:ion channel activity; IEA:UniProtKB-KW.
+DR   GO; GO:0003723; F:RNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003724; F:RNA helicase activity; IEA:InterPro.
+DR   GO; GO:0003968; F:RNA-directed RNA polymerase activity; IDA:CACAO.
+DR   GO; GO:0005198; F:structural molecule activity; IEA:InterPro.
+DR   GO; GO:0075509; P:endocytosis involved in viral entry into host cell; IEA:UniProtKB-KW.
+DR   GO; GO:0039520; P:induction by virus of host autophagy; IDA:UniProtKB.
+DR   GO; GO:0039707; P:pore formation by virus in membrane of host cell; IEA:UniProtKB-KW.
+DR   GO; GO:0044694; P:pore-mediated entry of viral genome into host cell; IEA:UniProtKB-KW.
+DR   GO; GO:0051259; P:protein oligomerization; IEA:UniProtKB-KW.
+DR   GO; GO:0018144; P:RNA-protein covalent cross-linking; IEA:UniProtKB-KW.
+DR   GO; GO:0039522; P:suppression by virus of host mRNA export from nucleus; IDA:UniProtKB.
+DR   GO; GO:0039544; P:suppression by virus of host RIG-I activity by RIG-I proteolysis; IDA:UniProtKB.
+DR   GO; GO:0039611; P:suppression by virus of host translation initiation factor activity; IDA:UniProtKB.
+DR   GO; GO:0006351; P:transcription, DNA-templated; IEA:InterPro.
+DR   GO; GO:0001172; P:transcription, RNA-templated; IDA:GOC.
+DR   GO; GO:0039694; P:viral RNA genome replication; IEA:InterPro.
+DR   GO; GO:0019062; P:virion attachment to host cell; IEA:UniProtKB-KW.
+DR   Gene3D; 2.60.120.20; -; 3.
+DR   Gene3D; 4.10.80.10; -; 2.
+DR   InterPro; IPR003593; AAA+_ATPase.
+DR   InterPro; IPR000605; Helicase_SF3_ssDNA/RNA_vir.
+DR   InterPro; IPR014759; Helicase_SF3_ssRNA_vir.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   InterPro; IPR014838; P3A.
+DR   InterPro; IPR000081; Peptidase_C3.
+DR   InterPro; IPR000199; Peptidase_C3A/C3B_picornavir.
+DR   InterPro; IPR003138; Pico_P1A.
+DR   InterPro; IPR002527; Pico_P2B.
+DR   InterPro; IPR001676; Picornavirus_capsid.
+DR   InterPro; IPR001205; RNA-dir_pol_C.
+DR   InterPro; IPR007094; RNA-dir_pol_PSvirus.
+DR   InterPro; IPR009003; Trypsin-like_Pept_dom.
+DR   InterPro; IPR029053; Viral_coat.
+DR   Pfam; PF08727; P3A; 1.
+DR   Pfam; PF00548; Peptidase_C3; 1.
+DR   Pfam; PF02226; Pico_P1A; 1.
+DR   Pfam; PF00947; Pico_P2A; 1.
+DR   Pfam; PF01552; Pico_P2B; 1.
+DR   Pfam; PF00680; RdRP_1; 1.
+DR   Pfam; PF00073; Rhv; 3.
+DR   Pfam; PF00910; RNA_helicase; 1.
+DR   ProDom; PD001306; Peptidase_C3; 1.
+DR   ProDom; PD649346; Pico_P2B; 1.
+DR   SMART; SM00382; AAA; 1.
+DR   SUPFAM; SSF50494; SSF50494; 2.
+DR   SUPFAM; SSF52540; SSF52540; 1.
+DR   SUPFAM; SSF89043; SSF89043; 1.
+DR   PROSITE; PS50507; RDRP_SSRNA_POS; 1.
+DR   PROSITE; PS51218; SF3_HELICASE_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Activation of host autophagy by virus; ATP-binding;
+KW   Capsid protein; Complete proteome; Covalent protein-RNA linkage;
+KW   Direct protein sequencing;
+KW   Eukaryotic host gene expression shutoff by virus;
+KW   Eukaryotic host translation shutoff by virus; Helicase;
+KW   Host cytoplasm; Host cytoplasmic vesicle;
+KW   Host gene expression shutoff by virus; Host membrane;
+KW   Host mRNA suppression by virus; Host-virus interaction; Hydrolase;
+KW   Inhibition of host innate immune response by virus;
+KW   Inhibition of host mRNA nuclear export by virus;
+KW   Inhibition of host RIG-I by virus;
+KW   Inhibition of host RLR pathway by virus; Ion channel; Ion transport;
+KW   Lipoprotein; Membrane; Myristate; Nucleotide-binding;
+KW   Nucleotidyltransferase; Phosphoprotein;
+KW   Pore-mediated penetration of viral genome into host cell; Protease;
+KW   Reference proteome; Repeat; RNA-binding; RNA-directed RNA polymerase;
+KW   T=pseudo3 icosahedral capsid protein; Thiol protease; Transferase;
+KW   Transport; Viral attachment to host cell; Viral immunoevasion;
+KW   Viral ion channel; Viral penetration into host cytoplasm;
+KW   Viral RNA replication; Virion; Virus endocytosis by host;
+KW   Virus entry into host cell.
+FT   INIT_MET      1      1       Removed; by host. {ECO:0000250}.
+FT   CHAIN         2   2209       Genome polyprotein.
+FT                                /FTId=PRO_0000424686.
+FT   CHAIN         2    881       P1.
+FT                                /FTId=PRO_0000424687.
+FT   CHAIN         2    341       Capsid protein VP0. {ECO:0000255}.
+FT                                /FTId=PRO_0000424688.
+FT   CHAIN         2     69       Capsid protein VP4. {ECO:0000255}.
+FT                                /FTId=PRO_0000040080.
+FT   CHAIN        70    341       Capsid protein VP2. {ECO:0000255}.
+FT                                /FTId=PRO_0000040081.
+FT   CHAIN       342    579       Capsid protein VP3. {ECO:0000255}.
+FT                                /FTId=PRO_0000040082.
+FT   CHAIN       580    881       Capsid protein VP1. {ECO:0000255}.
+FT                                /FTId=PRO_0000040083.
+FT   CHAIN       882   1456       P2.
+FT                                /FTId=PRO_0000424689.
+FT   CHAIN       882   1030       Protease 2A. {ECO:0000255}.
+FT                                /FTId=PRO_0000040084.
+FT   CHAIN      1031   1127       Protein 2B. {ECO:0000255}.
+FT                                /FTId=PRO_0000040085.
+FT   CHAIN      1128   1456       Protein 2C. {ECO:0000255}.
+FT                                /FTId=PRO_0000040086.
+FT   CHAIN      1457   2209       P3.
+FT                                /FTId=PRO_0000424690.
+FT   CHAIN      1457   1565       Protein 3AB. {ECO:0000255}.
+FT                                /FTId=PRO_0000424691.
+FT   CHAIN      1457   1543       Protein 3A. {ECO:0000255}.
+FT                                /FTId=PRO_0000424692.
+FT   CHAIN      1544   1565       Viral protein genome-linked.
+FT                                {ECO:0000255}.
+FT                                /FTId=PRO_0000040088.
+FT   CHAIN      1566   2209       Protein 3CD. {ECO:0000255}.
+FT                                /FTId=PRO_0000424693.
+FT   CHAIN      1566   1747       Protease 3C. {ECO:0000255}.
+FT                                /FTId=PRO_0000040089.
+FT   CHAIN      1748   2209       RNA-directed RNA polymerase.
+FT                                /FTId=PRO_0000040090.
+FT   TOPO_DOM      2   1520       Cytoplasmic. {ECO:0000255}.
+FT   INTRAMEM   1521   1536       {ECO:0000255}.
+FT   TOPO_DOM   1537   2209       Cytoplasmic. {ECO:0000255}.
+FT   DOMAIN      882   1031       Peptidase C3 1.
+FT   DOMAIN     1232   1388       SF3 helicase. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00551}.
+FT   DOMAIN     1566   1731       Peptidase C3 2.
+FT   DOMAIN     1975   2090       RdRp catalytic. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00539}.
+FT   NP_BIND    1256   1263       ATP. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00551}.
+FT   REGION      580    600       Amphipatic alpha-helix. {ECO:0000255}.
+FT   REGION     1457   1479       Disordered.
+FT   ACT_SITE    901    901       For Protease 2A activity. {ECO:0000250}.
+FT   ACT_SITE    919    919       For Protease 2A activity. {ECO:0000250}.
+FT   ACT_SITE    990    990       For Protease 2A activity. {ECO:0000250}.
+FT   ACT_SITE   1605   1605       For Protease 3C activity. {ECO:0000255}.
+FT   ACT_SITE   1636   1636       For Protease 3C activity. {ECO:0000255}.
+FT   ACT_SITE   1712   1712       For Protease 3C activity. {ECO:0000255}.
+FT   ACT_SITE   2076   2076       For RdRp activity.
+FT                                {ECO:0000269|PubMed:2196557}.
+FT   SITE         25     25       Involved in the interaction with human
+FT                                RTN3. {ECO:0000250}.
+FT   SITE         69     70       Cleavage; by autolysis. {ECO:0000255}.
+FT   SITE        341    342       Cleavage; by Protease 3C. {ECO:0000255}.
+FT   SITE        881    882       Cleavage; by Protease 2A. {ECO:0000255}.
+FT   SITE       1030   1031       Cleavage; by Protease 3C. {ECO:0000255}.
+FT   SITE       1127   1128       Cleavage; by Protease 3C. {ECO:0000255}.
+FT   SITE       1456   1457       Cleavage; by Protease 3C. {ECO:0000255}.
+FT   SITE       1543   1544       Cleavage; by Protease 3C. {ECO:0000255}.
+FT   SITE       1565   1566       Cleavage; by Protease 3C. {ECO:0000255}.
+FT   SITE       1748   1749       Cleavage; by Protease 3C. {ECO:0000255}.
+FT   MOD_RES    1546   1546       O-(5'-phospho-RNA)-tyrosine.
+FT   MOD_RES    1546   1546       O-UMP-tyrosine; transient.
+FT                                {ECO:0000269|PubMed:12502805,
+FT                                ECO:0000269|PubMed:16840321}.
+FT   LIPID         2      2       N-myristoyl glycine; by host.
+FT                                {ECO:0000269|PubMed:10618374,
+FT                                ECO:0000269|PubMed:1850017,
+FT                                ECO:0000269|PubMed:1851815}.
+FT   MUTAGEN       2      2       G->A: 100% loss of myristoylation.
+FT                                Impaired viral assembly.
+FT                                {ECO:0000269|PubMed:1851815}.
+FT   MUTAGEN       3      3       A->D: 50% loss of myristoylation. Severe
+FT                                reduction in specific infectivity.
+FT                                {ECO:0000269|PubMed:1850017}.
+FT   MUTAGEN       3      3       A->G,L,V: No effect on myristoylation and
+FT                                virus growth.
+FT                                {ECO:0000269|PubMed:1850017}.
+FT   MUTAGEN       3      3       A->H: No effect on myristoylation. Severe
+FT                                reduction in specific infectivity.
+FT                                {ECO:0000269|PubMed:1850017}.
+FT   CONFLICT    242    264       RFCPVDYLLGNGTLLGNAFVFPH -> SSARWITSLEMARC
+FT                                WGMPLCSA (in Ref. 2; CAA24446).
+FT                                {ECO:0000305}.
+FT   CONFLICT    287    287       I -> L (in Ref. 2; CAA24446).
+FT                                {ECO:0000305}.
+FT   CONFLICT    309    309       A -> V (in Ref. 2; CAA24446).
+FT                                {ECO:0000305}.
+FT   CONFLICT    420    422       DDP -> AAS (in Ref. 2; CAA24446).
+FT                                {ECO:0000305}.
+FT   CONFLICT    464    464       F -> S (in Ref. 2; CAA24446).
+FT                                {ECO:0000305}.
+FT   CONFLICT    515    515       T -> S (in Ref. 2; CAA24446).
+FT                                {ECO:0000305}.
+FT   CONFLICT    855    856       AV -> QL (in Ref. 2; CAA24446).
+FT                                {ECO:0000305}.
+FT   CONFLICT    972    972       A -> V (in Ref. 2; CAA24446).
+FT                                {ECO:0000305}.
+FT   CONFLICT    985    985       A -> E (in Ref. 2; CAA24446).
+FT                                {ECO:0000305}.
+FT   CONFLICT   1140   1141       NA -> QR (in Ref. 2; CAA24446).
+FT                                {ECO:0000305}.
+FT   CONFLICT   1619   1619       V -> A (in Ref. 2; CAA24446).
+FT                                {ECO:0000305}.
+FT   CONFLICT   1626   1627       AL -> VF (in Ref. 2; CAA24446).
+FT                                {ECO:0000305}.
+FT   CONFLICT   1635   1635       L -> F (in Ref. 2; CAA24446).
+FT                                {ECO:0000305}.
+FT   CONFLICT   1682   1682       G -> R (in Ref. 2; CAA24446).
+FT                                {ECO:0000305}.
+FT   CONFLICT   1722   1730       VIGMHVGGN -> SSGCMLVD (in Ref. 2;
+FT                                CAA24446). {ECO:0000305}.
+FT   CONFLICT   1743   1743       Y -> L (in Ref. 2; CAA24446).
+FT                                {ECO:0000305}.
+FT   CONFLICT   1752   1752       Q -> P (in Ref. 2; CAA24446).
+FT                                {ECO:0000305}.
+FT   CONFLICT   1759   1760       EV -> DA (in Ref. 2; CAA24446).
+FT                                {ECO:0000305}.
+FT   CONFLICT   1840   1840       T -> I (in Ref. 2; CAA24446).
+FT                                {ECO:0000305}.
+FT   STRAND        3      7       {ECO:0000244|PDB:1HXS}.
+FT   STRAND       17     23       {ECO:0000244|PDB:1HXS}.
+FT   STRAND       26     29       {ECO:0000244|PDB:1HXS}.
+FT   STRAND       33     35       {ECO:0000244|PDB:1AL2}.
+FT   HELIX        36     38       {ECO:0000244|PDB:1HXS}.
+FT   HELIX        51     54       {ECO:0000244|PDB:1HXS}.
+FT   STRAND       57     59       {ECO:0000244|PDB:1HXS}.
+FT   HELIX        66     69       {ECO:0000244|PDB:1POV}.
+FT   HELIX        74     76       {ECO:0000244|PDB:1POV}.
+FT   STRAND       83     87       {ECO:0000244|PDB:1HXS}.
+FT   STRAND       90     96       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      100    102       {ECO:0000244|PDB:1POV}.
+FT   HELIX       103    105       {ECO:0000244|PDB:1HXS}.
+FT   HELIX       113    115       {ECO:0000244|PDB:1HXS}.
+FT   HELIX       126    128       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      138    141       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      147    151       {ECO:0000244|PDB:1HXS}.
+FT   HELIX       153    155       {ECO:0000244|PDB:1HXS}.
+FT   HELIX       159    167       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      168    180       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      187    197       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      206    210       {ECO:0000244|PDB:1HXS}.
+FT   HELIX       214    217       {ECO:0000244|PDB:1HXS}.
+FT   HELIX       220    222       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      227    229       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      236    238       {ECO:0000244|PDB:1HXS}.
+FT   HELIX       247    249       {ECO:0000244|PDB:1HXS}.
+FT   TURN        250    253       {ECO:0000244|PDB:1HXS}.
+FT   HELIX       256    261       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      262    268       {ECO:0000244|PDB:1HXS}.
+FT   TURN        269    271       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      273    279       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      284    288       {ECO:0000244|PDB:1HXS}.
+FT   TURN        290    292       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      296    308       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      311    313       {ECO:0000244|PDB:1AR7}.
+FT   STRAND      315    332       {ECO:0000244|PDB:1HXS}.
+FT   TURN        349    352       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      364    366       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      380    383       {ECO:0000244|PDB:1HXS}.
+FT   HELIX       384    388       {ECO:0000244|PDB:1HXS}.
+FT   TURN        400    404       {ECO:0000244|PDB:1HXS}.
+FT   HELIX       406    409       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      411    414       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      423    428       {ECO:0000244|PDB:1HXS}.
+FT   TURN        430    432       {ECO:0000244|PDB:1HXS}.
+FT   TURN        434    438       {ECO:0000244|PDB:1HXS}.
+FT   HELIX       440    445       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      448    453       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      455    461       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      470    476       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      478    480       {ECO:0000244|PDB:1HXS}.
+FT   HELIX       486    489       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      492    498       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      500    502       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      504    509       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      514    521       {ECO:0000244|PDB:1HXS}.
+FT   HELIX       524    526       {ECO:0000244|PDB:1POV}.
+FT   STRAND      530    537       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      547    557       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      562    566       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      570    572       {ECO:0000244|PDB:1POV}.
+FT   STRAND      586    589       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      594    596       {ECO:0000244|PDB:2PLV}.
+FT   HELIX       626    628       {ECO:0000244|PDB:1HXS}.
+FT   HELIX       636    638       {ECO:0000244|PDB:1HXS}.
+FT   HELIX       652    654       {ECO:0000244|PDB:1HXS}.
+FT   HELIX       656    660       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      664    673       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      685    688       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      693    695       {ECO:0000244|PDB:1HXS}.
+FT   HELIX       696    701       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      704    721       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      723    725       {ECO:0000244|PDB:1AR7}.
+FT   STRAND      733    739       {ECO:0000244|PDB:1HXS}.
+FT   HELIX       752    755       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      757    759       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      761    765       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      771    775       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      780    786       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      790    793       {ECO:0000244|PDB:1POV}.
+FT   STRAND      796    799       {ECO:0000244|PDB:1POV}.
+FT   TURN        801    804       {ECO:0000244|PDB:1HXS}.
+FT   HELIX       812    814       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      818    823       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      832    850       {ECO:0000244|PDB:1HXS}.
+FT   STRAND      860    863       {ECO:0000244|PDB:1HXS}.
+FT   HELIX      1478   1484       {ECO:0000244|PDB:1NG7}.
+FT   HELIX      1487   1496       {ECO:0000244|PDB:1NG7}.
+FT   STRAND     1546   1550       {ECO:0000244|PDB:2BBL}.
+FT   STRAND     1556   1558       {ECO:0000244|PDB:2BBL}.
+FT   HELIX      1560   1564       {ECO:0000244|PDB:2BBL}.
+FT   HELIX      1567   1579       {ECO:0000244|PDB:4DCD}.
+FT   STRAND     1580   1585       {ECO:0000244|PDB:4DCD}.
+FT   STRAND     1588   1597       {ECO:0000244|PDB:4DCD}.
+FT   STRAND     1599   1603       {ECO:0000244|PDB:4DCD}.
+FT   HELIX      1604   1606       {ECO:0000244|PDB:4DCD}.
+FT   STRAND     1610   1614       {ECO:0000244|PDB:4DCD}.
+FT   STRAND     1617   1628       {ECO:0000244|PDB:4DCD}.
+FT   STRAND     1634   1645       {ECO:0000244|PDB:4DCD}.
+FT   HELIX      1652   1654       {ECO:0000244|PDB:4DCD}.
+FT   STRAND     1662   1669       {ECO:0000244|PDB:4DCD}.
+FT   STRAND     1671   1674       {ECO:0000244|PDB:4DCD}.
+FT   STRAND     1677   1692       {ECO:0000244|PDB:4DCD}.
+FT   STRAND     1695   1705       {ECO:0000244|PDB:4DCD}.
+FT   STRAND     1715   1718       {ECO:0000244|PDB:4DCD}.
+FT   STRAND     1721   1729       {ECO:0000244|PDB:4DCD}.
+FT   STRAND     1734   1738       {ECO:0000244|PDB:4DCD}.
+FT   HELIX      1741   1744       {ECO:0000244|PDB:4DCD}.
+FT   STRAND     1750   1756       {ECO:0000244|PDB:1RA6}.
+FT   TURN       1757   1761       {ECO:0000244|PDB:1RA6}.
+FT   TURN       1763   1766       {ECO:0000244|PDB:1RDR}.
+FT   HELIX      1770   1772       {ECO:0000244|PDB:1RDR}.
+FT   TURN       1777   1781       {ECO:0000244|PDB:1RA6}.
+FT   STRAND     1786   1788       {ECO:0000244|PDB:4K4S}.
+FT   STRAND     1792   1794       {ECO:0000244|PDB:4K4S}.
+FT   HELIX      1802   1807       {ECO:0000244|PDB:1RA6}.
+FT   HELIX      1820   1834       {ECO:0000244|PDB:1RA6}.
+FT   TURN       1835   1837       {ECO:0000244|PDB:1RA7}.
+FT   HELIX      1845   1850       {ECO:0000244|PDB:1RA6}.
+FT   STRAND     1860   1862       {ECO:0000244|PDB:4NLR}.
+FT   TURN       1866   1872       {ECO:0000244|PDB:1RA6}.
+FT   HELIX      1875   1878       {ECO:0000244|PDB:1RA6}.
+FT   TURN       1881   1884       {ECO:0000244|PDB:1RA6}.
+FT   HELIX      1887   1895       {ECO:0000244|PDB:1RA6}.
+FT   STRAND     1902   1906       {ECO:0000244|PDB:1RA6}.
+FT   STRAND     1910   1912       {ECO:0000244|PDB:4K4S}.
+FT   HELIX      1913   1917       {ECO:0000244|PDB:1RA6}.
+FT   STRAND     1923   1926       {ECO:0000244|PDB:1RA6}.
+FT   HELIX      1929   1948       {ECO:0000244|PDB:1RA6}.
+FT   TURN       1952   1955       {ECO:0000244|PDB:1RA6}.
+FT   HELIX      1962   1965       {ECO:0000244|PDB:1RA6}.
+FT   TURN       1966   1968       {ECO:0000244|PDB:1RA6}.
+FT   HELIX      1969   1972       {ECO:0000244|PDB:1RA6}.
+FT   STRAND     1975   1978       {ECO:0000244|PDB:1RA6}.
+FT   STRAND     1981   1984       {ECO:0000244|PDB:1RA6}.
+FT   HELIX      1985   1988       {ECO:0000244|PDB:1RA6}.
+FT   HELIX      1991   2003       {ECO:0000244|PDB:1RA6}.
+FT   TURN       2004   2006       {ECO:0000244|PDB:1RA6}.
+FT   HELIX      2007   2010       {ECO:0000244|PDB:1RA6}.
+FT   HELIX      2011   2017       {ECO:0000244|PDB:1RA6}.
+FT   STRAND     2018   2023       {ECO:0000244|PDB:1RA6}.
+FT   STRAND     2026   2032       {ECO:0000244|PDB:1RA6}.
+FT   STRAND     2036   2038       {ECO:0000244|PDB:4NLV}.
+FT   HELIX      2041   2060       {ECO:0000244|PDB:1RA6}.
+FT   STRAND     2061   2063       {ECO:0000244|PDB:4K4V}.
+FT   HELIX      2066   2068       {ECO:0000244|PDB:1RA6}.
+FT   STRAND     2070   2074       {ECO:0000244|PDB:1RA6}.
+FT   STRAND     2077   2084       {ECO:0000244|PDB:1RA6}.
+FT   HELIX      2088   2097       {ECO:0000244|PDB:1RA6}.
+FT   STRAND     2102   2104       {ECO:0000244|PDB:1RA6}.
+FT   TURN       2105   2107       {ECO:0000244|PDB:1RA6}.
+FT   TURN       2116   2118       {ECO:0000244|PDB:1RA6}.
+FT   STRAND     2124   2128       {ECO:0000244|PDB:1RA6}.
+FT   STRAND     2130   2132       {ECO:0000244|PDB:1TQL}.
+FT   STRAND     2135   2139       {ECO:0000244|PDB:1RA6}.
+FT   HELIX      2142   2149       {ECO:0000244|PDB:1RA6}.
+FT   STRAND     2151   2153       {ECO:0000244|PDB:1RA6}.
+FT   HELIX      2155   2157       {ECO:0000244|PDB:1RA6}.
+FT   HELIX      2158   2169       {ECO:0000244|PDB:1RA6}.
+FT   HELIX      2170   2172       {ECO:0000244|PDB:1RA6}.
+FT   HELIX      2174   2184       {ECO:0000244|PDB:1RA6}.
+FT   HELIX      2188   2191       {ECO:0000244|PDB:1RA6}.
+FT   HELIX      2198   2208       {ECO:0000244|PDB:1RA6}.
+SQ   SEQUENCE   2209 AA;  246540 MW;  DF1754F87F2E97D6 CRC64;
+     MGAQVSSQKV GAHENSNRAY GGSTINYTTI NYYRDSASNA ASKQDFSQDP SKFTEPIKDV
+     LIKTAPMLNS PNIEACGYSD RVLQLTLGNS TITTQEAANS VVAYGRWPEY LRDSEANPVD
+     QPTEPDVAAC RFYTLDTVSW TKESRGWWWK LPDALRDMGL FGQNMYYHYL GRSGYTVHVQ
+     CNASKFHQGA LGVFAVPEMC LAGDSNTTTM HTSYQNANPG EKGGTFTGTF TPDNNQTSPA
+     RRFCPVDYLL GNGTLLGNAF VFPHQIINLR TNNCATLVLP YVNSLSIDSM VKHNNWGIAI
+     LPLAPLNFAS ESSPEIPITL TIAPMCCEFN GLRNITLPRL QGLPVMNTPG SNQYLTADNF
+     QSPCALPEFD VTPPIDIPGE VKNMMELAEI DTMIPFDLSA TKKNTMEMYR VRLSDKPHTD
+     DPILCLSLSP ASDPRLSHTM LGEILNYYTH WAGSLKFTFL FCGFMMATGK LLVSYAPPGA
+     DPPKKRKEAM LGTHVIWDIG LQSSCTMVVP WISNTTYRQT IDDSFTEGGY ISVFYQTRIV
+     VPLSTPREMD ILGFVSACND FSVRLLRDTT HIEQKALAQG LGQMLESMID NTVRETVGAA
+     TSRDALPNTE ASGPTHSKEI PALTAVETGA TNPLVPSDTV QTRHVVQHRS RSESSIESFF
+     ARGACVTIMT VDNPASTTNK DKLFAVWKIT YKDTVQLRRK LEFFTYSRFD MELTFVVTAN
+     FTETNNGHAL NQVYQIMYVP PGAPVPEKWD DYTWQTSSNP SIFYTYGTAP ARISVPYVGI
+     SNAYSHFYDG FSKVPLKDQS AALGDSLYGA ASLNDFGILA VRVVNDHNPT KVTSKIRVYL
+     KPKHIRVWCP RPPRAVAYYG PGVDYKDGTL TPLSTKDLTT YGFGHQNKAV YTAGYKICNY
+     HLATQDDLQN AVNVMWSRDL LVTESRAQGT DSIARCNCNA GVYYCESRRK YYPVSFVGPT
+     FQYMEANNYY PARYQSHMLI GHGFASPGDC GGILRCHHGV IGIITAGGEG LVAFSDIRDL
+     YAYEEEAMEQ GITNYIESLG AAFGSGFTQQ ISDKITELTN MVTSTITEKL LKNLIKIISS
+     LVIITRNYED TTTVLATLAL LGCDASPWQW LRKKACDVLE IPYVIKQGDS WLKKFTEACN
+     AAKGLEWVSN KISKFIDWLK EKIIPQARDK LEFVTKLRQL EMLENQISTI HQSCPSQEHQ
+     EILFNNVRWL SIQSKRFAPL YAVEAKRIQK LEHTINNYIQ FKSKHRIEPV CLLVHGSPGT
+     GKSVATNLIA RAIAERENTS TYSLPPDPSH FDGYKQQGVV IMDDLNQNPD GADMKLFCQM
+     VSTVEFIPPM ASLEEKGILF TSNYVLASTN SSRISPPTVA HSDALARRFA FDMDIQVMNE
+     YSRDGKLNMA MATEMCKNCH QPANFKRCCP LVCGKAIQLM DKSSRVRYSI DQITTMIINE
+     RNRRSNIGNC MEALFQGPLQ YKDLKIDIKT SPPPECINDL LQAVDSQEVR DYCEKKGWIV
+     NITSQVQTER NINRAMTILQ AVTTFAAVAG VVYVMYKLFA GHQGAYTGLP NKKPNVPTIR
+     TAKVQGPGFD YAVAMAKRNI VTATTSKGEF TMLGVHDNVA ILPTHASPGE SIVIDGKEVE
+     ILDAKALEDQ AGTNLEITII TLKRNEKFRD IRPHIPTQIT ETNDGVLIVN TSKYPNMYVP
+     VGAVTEQGYL NLGGRQTART LMYNFPTRAG QCGGVITCTG KVIGMHVGGN GSHGFAAALK
+     RSYFTQSQGE IQWMRPSKEV GYPIINAPSK TKLEPSAFHY VFEGVKEPAV LTKNDPRLKT
+     DFEEAIFSKY VGNKITEVDE YMKEAVDHYA GQLMSLDINT EQMCLEDAMY GTDGLEALDL
+     STSAGYPYVA MGKKKRDILN KQTRDTKEMQ KLLDTYGINL PLVTYVKDEL RSKTKVEQGK
+     SRLIEASSLN DSVAMRMAFG NLYAAFHKNP GVITGSAVGC DPDLFWSKIP VLMEEKLFAF
+     DYTGYDASLS PAWFEALKMV LEKIGFGDRV DYIDYLNHSH HLYKNKTYCV KGGMPSGCSG
+     TSIFNSMINN LIIRTLLLKT YKGIDLDHLK MIAYGDDVIA SYPHEVDASL LAQSGKDYGL
+     TMTPADKSAT FETVTWENVT FLKRFFRADE KYPFLIHPVM PMKEIHESIR WTKDPRNTQD
+     HVRSLCLLAW HNGEEEYNKF LAKIRSVPIG RALLLPEYST LYRRWLDSF
+//

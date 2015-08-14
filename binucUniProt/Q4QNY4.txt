@@ -1,0 +1,81 @@
+ID   Q4QNY4_HAEI8            Unreviewed;       603 AA.
+AC   Q4QNY4;
+DT   19-JUL-2005, integrated into UniProtKB/TrEMBL.
+DT   19-JUL-2005, sequence version 1.
+DT   22-JUL-2015, entry version 68.
+DE   SubName: Full=NAD nucleotidase {ECO:0000313|EMBL:AAX87263.1};
+GN   Name=nadN {ECO:0000313|EMBL:AAX87263.1};
+GN   OrderedLocusNames=NTHI0303 {ECO:0000313|EMBL:AAX87263.1};
+OS   Haemophilus influenzae (strain 86-028NP).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pasteurellales;
+OC   Pasteurellaceae; Haemophilus.
+OX   NCBI_TaxID=281310 {ECO:0000313|EMBL:AAX87263.1, ECO:0000313|Proteomes:UP000002525};
+RN   [1] {ECO:0000313|EMBL:AAX87263.1, ECO:0000313|Proteomes:UP000002525}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=86-028NP {ECO:0000313|EMBL:AAX87263.1,
+RC   ECO:0000313|Proteomes:UP000002525};
+RX   PubMed=15968074; DOI=10.1128/JB.187.13.4627-4636.2005;
+RA   Harrison A., Dyer D.W., Gillaspy A., Ray W.C., Mungur R., Carson M.B.,
+RA   Zhong H., Gipson J., Gipson M., Johnson L.S., Lewis L., Bakaletz L.O.,
+RA   Munson R.S. Jr.;
+RT   "Genomic sequence of an otitis media isolate of nontypeable
+RT   Haemophilus influenzae: comparative study with H. influenzae serotype
+RT   d, strain KW20.";
+RL   J. Bacteriol. 187:4627-4636(2005).
+CC   -!- SIMILARITY: Belongs to the 5'-nucleotidase family.
+CC       {ECO:0000256|RuleBase:RU003467}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP000057; AAX87263.1; -; Genomic_DNA.
+DR   RefSeq; WP_005653867.1; NC_007146.2.
+DR   ProteinModelPortal; Q4QNY4; -.
+DR   EnsemblBacteria; AAX87263; AAX87263; NTHI0303.
+DR   KEGG; hit:NTHI0303; -.
+DR   PATRIC; 20180777; VBIHaeInf100748_0276.
+DR   eggNOG; COG0737; -.
+DR   HOGENOM; HOG000247215; -.
+DR   KO; K01081; -.
+DR   OMA; WAVIFVL; -.
+DR   OrthoDB; EOG62RS7N; -.
+DR   BioCyc; HINF281310:GJ89-283-MONOMER; -.
+DR   Proteomes; UP000002525; Chromosome.
+DR   GO; GO:0008253; F:5'-nucleotidase activity; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000166; F:nucleotide binding; IEA:UniProtKB-KW.
+DR   GO; GO:0009166; P:nucleotide catabolic process; IEA:InterPro.
+DR   Gene3D; 3.60.21.10; -; 1.
+DR   Gene3D; 3.90.780.10; -; 1.
+DR   InterPro; IPR008334; 5'-Nucleotdase_C.
+DR   InterPro; IPR006146; 5'-Nucleotdase_CS.
+DR   InterPro; IPR006179; 5_nucleotidase/apyrase.
+DR   InterPro; IPR004843; Calcineurin-like_PHP_apaH.
+DR   InterPro; IPR029052; Metallo-depent_PP-like.
+DR   InterPro; IPR006420; NadN.
+DR   PANTHER; PTHR11575; PTHR11575; 1.
+DR   Pfam; PF02872; 5_nucleotid_C; 1.
+DR   Pfam; PF00149; Metallophos; 1.
+DR   PRINTS; PR01607; APYRASEFAMLY.
+DR   SUPFAM; SSF55816; SSF55816; 1.
+DR   SUPFAM; SSF56300; SSF56300; 1.
+DR   TIGRFAMs; TIGR01530; nadN; 1.
+DR   PROSITE; PS00785; 5_NUCLEOTIDASE_1; 1.
+DR   PROSITE; PS00786; 5_NUCLEOTIDASE_2; 1.
+PE   3: Inferred from homology;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002525};
+KW   Metal-binding {ECO:0000256|RuleBase:RU004470};
+KW   Nucleotide-binding {ECO:0000256|RuleBase:RU004470}.
+SQ   SEQUENCE   603 AA;  66213 MW;  17E43CFFD371D65A CRC64;
+     MLLSKKSATF ALSAFAMLFT SVALAKEAPQ AHKAVELSIL HINDHHSYLE PHETRINLNG
+     QQTKVDIGGF SAVNAKLNKL RKKYKNPLVL HAGDAITGTL YFTLFGGSAD AAVMNAGNFH
+     YFTLGNHEFD AGNEGLLKLL EPLKIPVLSA NVIPDKSSIL YNKWKPYDIF TVDGEKIAII
+     GLDTVNKTVN SSSPGKDVKF YDEIATAQIM ANALKQQGIN KIILLSHAGS EKNIEIAQKV
+     NDIDVIVTGD SHYLYGNDEL RSLKLPVIYE YPLEFKNPNG EPVFVMEGWA YSAVVGDLGV
+     KFSPEGIASI TRKIPHVLMS SHKLQVKNSE GKWAELTGDE RKKALDTLKS MKSISLDDHD
+     AKTDKLIAKY KSEKDRLAQE IVGVITGSAM PGGSANRIPN KAGSNPEGSI ATRFIAETMY
+     NELKTVDLTI QNAGGVRADI LPGNVTFNDA YTFLPFGNTL YTYKMEGSLV KQVLEDAMQF
+     ALVDGSTGAF PYGAGIRYEA NETPNAEGKR LVSVEVLNKQ TQQWEPIDDN KRYLVGTNAY
+     VAGGKDGYKT FGKLFNDPKY EGVDTYLPDA ESFIKFMKKH PHFEAYTSSN VKFNASTDAL
+     PKK
+//

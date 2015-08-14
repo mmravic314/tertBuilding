@@ -1,0 +1,91 @@
+ID   E8Y9D8_ECOKO            Unreviewed;       400 AA.
+AC   E8Y9D8;
+DT   05-APR-2011, integrated into UniProtKB/TrEMBL.
+DT   05-APR-2011, sequence version 1.
+DT   22-JUL-2015, entry version 37.
+DE   SubName: Full=Nuclease SbcCD, D subunit {ECO:0000313|EMBL:ADX52027.1};
+GN   OrderedLocusNames=EKO11_3451 {ECO:0000313|EMBL:ADX52027.1};
+OS   Escherichia coli (strain ATCC 55124 / KO11).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=595495 {ECO:0000313|EMBL:ADX52027.1, ECO:0000313|Proteomes:UP000002250};
+RN   [1] {ECO:0000313|EMBL:ADX52027.1, ECO:0000313|Proteomes:UP000002250}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 55124 / KO11 {ECO:0000313|Proteomes:UP000002250};
+RG   US DOE Joint Genome Institute;
+RA   Lucas S., Copeland A., Lapidus A., Cheng J.-F., Goodwin L.,
+RA   Pitluck S., Munk A.C., Detter J.C., Han C., Tapia R., Land M.,
+RA   Hauser L., Kyrpides N., Ivanova N., Ovchinnikova G., Pagani I.,
+RA   Keating D., Landick R., Woyke T.;
+RT   "Complete sequence of chromosome of Escherichia coli KO11.";
+RL   Submitted (FEB-2011) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:4LTY, ECO:0000213|PDB:4LU9, ECO:0000213|PDB:4M0V}
+RP   X-RAY CRYSTALLOGRAPHY (1.80 ANGSTROMS) OF 1-340 IN COMPLEX WITH
+RP   MANGANESE.
+RX   PubMed=24531464;
+RA   Liu S., Tian L.F., Liu Y.P., An X.M., Tang Q., Yan X.X., Liang D.C.;
+RT   "Structural basis for DNA recognition and nuclease processing by the
+RT   Mre11 homologue SbcD in double-strand breaks repair.";
+RL   Acta Crystallogr. D 70:299-309(2014).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP002516; ADX52027.1; -; Genomic_DNA.
+DR   RefSeq; WP_001221319.1; NC_017660.1.
+DR   PDB; 4LTY; X-ray; 1.80 A; A/B/C/D=1-340.
+DR   PDB; 4LU9; X-ray; 2.50 A; A/B/C/D=1-340.
+DR   PDB; 4M0V; X-ray; 1.83 A; A/B/C/D=1-340.
+DR   PDBsum; 4LTY; -.
+DR   PDBsum; 4LU9; -.
+DR   PDBsum; 4M0V; -.
+DR   ProteinModelPortal; E8Y9D8; -.
+DR   SMR; E8Y9D8; 1-386.
+DR   EnsemblBacteria; ADX52027; ADX52027; EKO11_3451.
+DR   EnsemblBacteria; AFH19284; AFH19284; KO11_21615.
+DR   KEGG; ekf:KO11_21615; -.
+DR   KEGG; eko:EKO11_3451; -.
+DR   PATRIC; 48646986; VBIEscCol13896_3499.
+DR   KO; K03547; -.
+DR   OMA; ACLNTRV; -.
+DR   BioCyc; ECOL595495:GI1Q-3517-MONOMER; -.
+DR   Proteomes; UP000002250; Chromosome.
+DR   GO; GO:0008408; F:3'-5' exonuclease activity; IEA:InterPro.
+DR   GO; GO:0004519; F:endonuclease activity; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006259; P:DNA metabolic process; IEA:InterPro.
+DR   Gene3D; 3.60.21.10; -; 1.
+DR   InterPro; IPR004843; Calcineurin-like_PHP_apaH.
+DR   InterPro; IPR029052; Metallo-depent_PP-like.
+DR   InterPro; IPR004593; SbcD.
+DR   InterPro; IPR026843; SbcD_C.
+DR   Pfam; PF00149; Metallophos; 1.
+DR   Pfam; PF12320; SbcD_C; 1.
+DR   SUPFAM; SSF56300; SSF56300; 1.
+DR   TIGRFAMs; TIGR00619; sbcd; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4LTY, ECO:0000213|PDB:4LU9};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002250};
+KW   Manganese {ECO:0000213|PDB:4M0V};
+KW   Metal-binding {ECO:0000213|PDB:4M0V}.
+FT   METAL         8      8       Manganese 1. {ECO:0000213|PDB:4M0V}.
+FT   METAL        10     10       Manganese 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4M0V}.
+FT   METAL        48     48       Manganese 1. {ECO:0000213|PDB:4M0V}.
+FT   METAL        48     48       Manganese 2. {ECO:0000213|PDB:4M0V}.
+FT   METAL        83     83       Manganese 2. {ECO:0000213|PDB:4M0V}.
+FT   METAL       184    184       Manganese 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4M0V}.
+FT   METAL       222    222       Manganese 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:4M0V}.
+FT   METAL       224    224       Manganese 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4M0V}.
+SQ   SEQUENCE   400 AA;  44714 MW;  E8894089198C6D5B CRC64;
+     MRILHTSDWH LGQNFYSKSR EAEHQAFLDW LLETAQTHQV DAIIVAGDVF DTGSPPSYAR
+     TLYNRFVVNL QQTGCHLVVL AGNHDSVATL NESRDIMAFL NTTVVASAGH APQILPRRDG
+     TPGAVLCPIP FLRPRDIITS QAGLNGIEKQ QHLLAAITDY YQQHYADACK LRGDQPLPII
+     ATGHLTTVGA SKSDAVRDIY IGTLDAFPAQ NFPPADYIAL GHIHRAQIIG GMEHVRYCGS
+     PIPLSFDECG KSKYVHLVTF SNGKLESVEN LNVPVTQPMA VLKGDLASIT AQLEQWRDVS
+     QEPPVWLDIE ITTDEYLHDI QRKIQALTES LPVEVLLVRR SREQRERVLA SQQRETLSEL
+     SVEEVFNRRL ALEELDESQQ QRLQHLFTTT LHTLAGEHEA
+//

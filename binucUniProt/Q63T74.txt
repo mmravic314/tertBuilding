@@ -1,0 +1,134 @@
+ID   Q63T74_BURPS            Unreviewed;       452 AA.
+AC   Q63T74;
+DT   25-OCT-2004, integrated into UniProtKB/TrEMBL.
+DT   25-OCT-2004, sequence version 1.
+DT   22-JUL-2015, entry version 87.
+DE   RecName: Full=Histidine kinase {ECO:0000256|SAAS:SAAS00251121};
+DE            EC=2.7.13.3 {ECO:0000256|SAAS:SAAS00251121};
+GN   OrderedLocusNames=BPSL2095 {ECO:0000313|EMBL:CAH36098.1};
+OS   Burkholderia pseudomallei (strain K96243).
+OC   Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+OC   Burkholderiaceae; Burkholderia; pseudomallei group.
+OX   NCBI_TaxID=272560 {ECO:0000313|EMBL:CAH36098.1, ECO:0000313|Proteomes:UP000000605};
+RN   [1] {ECO:0000313|EMBL:CAH36098.1, ECO:0000313|Proteomes:UP000000605}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K96243 {ECO:0000313|EMBL:CAH36098.1,
+RC   ECO:0000313|Proteomes:UP000000605};
+RX   PubMed=15377794; DOI=10.1073/pnas.0403302101;
+RA   Holden M.T.G., Titball R.W., Peacock S.J., Cerdeno-Tarraga A.M.,
+RA   Atkins T., Crossman L.C., Pitt T., Churcher C., Mungall K.,
+RA   Bentley S.D., Sebaihia M., Thomson N.R., Bason N., Beacham I.R.,
+RA   Brooks K., Brown K.A., Brown N.F., Challis G.L., Cherevach I.,
+RA   Chillingworth T., Cronin A., Crosset B., Davis P., DeShazer D.,
+RA   Feltwell T., Fraser A., Hance Z., Hauser H., Holroyd S., Jagels K.,
+RA   Keith K.E., Maddison M., Moule S., Price C., Quail M.A.,
+RA   Rabbinowitsch E., Rutherford K., Sanders M., Simmonds M.,
+RA   Songsivilai S., Stevens K., Tumapa S., Vesaratchavest M.,
+RA   Whitehead S., Yeats C., Barrell B.G., Oyston P.C.F., Parkhill J.;
+RT   "Genomic plasticity of the causative agent of melioidosis,
+RT   Burkholderia pseudomallei.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 101:14240-14245(2004).
+RN   [2] {ECO:0000213|PDB:3LR0}
+RP   X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS) OF 38-158.
+RG   Seattle Structural Genomics Center for Infectious Disease (SSGCID);
+RA   Edwards T.E., Abendroth J., Staker B.L., Phan I., Myler P., Stacy R.,
+RA   Stewart L., Miller S.I.;
+RT   "Structural basis for pH sensing by the periplasmic domain of the risS
+RT   histidine kinase from Bukholderia pseudomallei.";
+RL   Submitted (FEB-2010) to the PDB data bank.
+RN   [3] {ECO:0000213|PDB:3LR3, ECO:0000213|PDB:3LR4}
+RP   X-RAY CRYSTALLOGRAPHY (2.10 ANGSTROMS) OF 38-158.
+RG   Seattle Structural Genomics Center for Infectious Disease (SSGCID);
+RA   Edwards T.E., Abendroth J., Staker B.L., Phan I., Myler P., Stacy R.,
+RA   Stewart L., Miller S.I.;
+RT   "Structural basis for pH sensing by the periplasmic domain of the risS
+RT   histidine kinase from Burkholderia pseudomallei.";
+RL   Submitted (FEB-2010) to the PDB data bank.
+RN   [4] {ECO:0000213|PDB:3LR5}
+RP   X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) OF 37-158.
+RG   Seattle Structural Genomics Center for Infectious Disease (SSGCID);
+RA   Edwards T.E., Abendroth J., Staker B.L., Phan I., Myler P., Stacy R.,
+RA   Stewart L., Miller S.I.;
+RT   "Structural basis for pH sensing by the periplsamic domain of the risS
+RT   histidine kinase from Burkholderia pseudomallei.";
+RL   Submitted (FEB-2010) to the PDB data bank.
+CC   -!- CATALYTIC ACTIVITY: ATP + protein L-histidine = ADP + protein N-
+CC       phospho-L-histidine. {ECO:0000256|SAAS:SAAS00155570}.
+CC   -!- SIMILARITY: Contains histidine kinase domain.
+CC       {ECO:0000256|SAAS:SAAS00102782}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; BX571965; CAH36098.1; -; Genomic_DNA.
+DR   RefSeq; WP_004531418.1; NZ_CP009538.1.
+DR   RefSeq; YP_108692.1; NC_006350.1.
+DR   PDB; 3LR0; X-ray; 1.90 A; A=38-158.
+DR   PDB; 3LR3; X-ray; 2.10 A; A=38-158.
+DR   PDB; 3LR4; X-ray; 1.90 A; A=38-158.
+DR   PDB; 3LR5; X-ray; 2.30 A; A/B=37-158.
+DR   PDBsum; 3LR0; -.
+DR   PDBsum; 3LR3; -.
+DR   PDBsum; 3LR4; -.
+DR   PDBsum; 3LR5; -.
+DR   ProteinModelPortal; Q63T74; -.
+DR   STRING; 272560.BPSL2095; -.
+DR   EnsemblBacteria; CAH36098; CAH36098; BPSL2095.
+DR   GeneID; 3093607; -.
+DR   KEGG; bps:BPSL2095; -.
+DR   PATRIC; 19264315; VBIBurPse99623_2373.
+DR   HOGENOM; HOG000218772; -.
+DR   KO; K07638; -.
+DR   OMA; ANHSFNQ; -.
+DR   OrthoDB; EOG6G4VQG; -.
+DR   BioCyc; BPSE272560:GJNI-2142-MONOMER; -.
+DR   EvolutionaryTrace; Q63T74; -.
+DR   Proteomes; UP000000605; Chromosome 1.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0005622; C:intracellular; IEA:GOC.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000155; F:phosphorelay sensor kinase activity; IEA:InterPro.
+DR   Gene3D; 1.10.287.130; -; 1.
+DR   Gene3D; 3.30.565.10; -; 1.
+DR   InterPro; IPR003661; EnvZ-like_dim/P.
+DR   InterPro; IPR003660; HAMP_linker_domain.
+DR   InterPro; IPR003594; HATPase_C.
+DR   InterPro; IPR004358; Sig_transdc_His_kin-like_C.
+DR   InterPro; IPR005467; Sig_transdc_His_kinase_core.
+DR   InterPro; IPR009082; Sig_transdc_His_kinase_dimeric.
+DR   Pfam; PF00672; HAMP; 1.
+DR   Pfam; PF02518; HATPase_c; 1.
+DR   Pfam; PF00512; HisKA; 1.
+DR   PRINTS; PR00344; BCTRLSENSOR.
+DR   SMART; SM00304; HAMP; 1.
+DR   SMART; SM00387; HATPase_c; 1.
+DR   SMART; SM00388; HisKA; 1.
+DR   SUPFAM; SSF47384; SSF47384; 1.
+DR   SUPFAM; SSF55874; SSF55874; 1.
+DR   PROSITE; PS50885; HAMP; 1.
+DR   PROSITE; PS50109; HIS_KIN; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3LR0, ECO:0000213|PDB:3LR3};
+KW   ATP-binding {ECO:0000256|SAAS:SAAS00250970};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000605};
+KW   Kinase {ECO:0000256|RuleBase:RU003568, ECO:0000256|SAAS:SAAS00102739};
+KW   Membrane {ECO:0000256|SAAS:SAAS00155572};
+KW   Nucleotide-binding {ECO:0000256|SAAS:SAAS00250970};
+KW   Phosphoprotein {ECO:0000256|RuleBase:RU003568,
+KW   ECO:0000256|SAAS:SAAS00241301};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000605};
+KW   Transferase {ECO:0000256|RuleBase:RU003568,
+KW   ECO:0000256|SAAS:SAAS00102739};
+KW   Transmembrane {ECO:0000256|SAAS:SAAS00155572};
+KW   Transmembrane helix {ECO:0000256|SAAS:SAAS00155572};
+KW   Two-component regulatory system {ECO:0000256|SAAS:SAAS00108840}.
+SQ   SEQUENCE   452 AA;  50495 MW;  62D12D8F253C28E4 CRC64;
+     MRIDRRLLTL VFGGLFWRTF LLIALLIAVS LAAWFQSFRV IEREPRAQRV ALQLVAIVKL
+     TRTALLYSDP DLRRALLQDL ESNEGVRVYP REKTDKFKLQ PDESVNRLIE HDIRSRLGDD
+     TVIAQSVNDI PGVWISFKID DDDYWVALDR DQLDTVTGLQ WAGWGLFALA LSLIGSAFIT
+     SLVNQPFSRL ALAARKVGSG QTPEPLPERG MGVAAETNRS FNQMVRDLEQ LEADRALMLA
+     GISHDLRTPL ARLRLETEMS PSDQATKDAM VDDIEQMDRI IAAFIDYARP AQRTPEPVDL
+     SQVAREVAAR IVSEDGVQLD IRLAPAAVIE ADETDMRRVI GNLVENARKY GQSKQDGIAR
+     ILLETRVTHA RVELVVADEG PGIPEDQLPL VMRPFYRVDT ARSKADGTGL GMAIVLRLVN
+     RYRGALRLRN RTPDAGLEVT LEFPSAKARA AA
+//

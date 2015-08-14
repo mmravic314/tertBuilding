@@ -1,0 +1,432 @@
+ID   CADN_DROME              Reviewed;        3097 AA.
+AC   O15943; Q9VJB7;
+DT   21-FEB-2001, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-2000, sequence version 2.
+DT   22-JUL-2015, entry version 147.
+DE   RecName: Full=Neural-cadherin;
+DE   AltName: Full=Cadherin-N;
+DE            Short=dN-cadherin;
+DE   Flags: Precursor;
+GN   Name=CadN; ORFNames=CG7100;
+OS   Drosophila melanogaster (Fruit fly).
+OC   Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+OC   Pterygota; Neoptera; Endopterygota; Diptera; Brachycera; Muscomorpha;
+OC   Ephydroidea; Drosophilidae; Drosophila; Sophophora.
+OX   NCBI_TaxID=7227;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM D).
+RC   TISSUE=Embryo, and Head;
+RX   PubMed=9247265; DOI=10.1016/S0896-6273(00)80349-9;
+RA   Iwai Y., Usui T., Hirano S., Steward R., Takeichi M., Uemura T.;
+RT   "Axon patterning requires DN-cadherin, a novel neuronal adhesion
+RT   receptor, in the Drosophila embryonic CNS.";
+RL   Neuron 19:77-89(1997).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Berkeley;
+RX   PubMed=10731132; DOI=10.1126/science.287.5461.2185;
+RA   Adams M.D., Celniker S.E., Holt R.A., Evans C.A., Gocayne J.D.,
+RA   Amanatides P.G., Scherer S.E., Li P.W., Hoskins R.A., Galle R.F.,
+RA   George R.A., Lewis S.E., Richards S., Ashburner M., Henderson S.N.,
+RA   Sutton G.G., Wortman J.R., Yandell M.D., Zhang Q., Chen L.X.,
+RA   Brandon R.C., Rogers Y.-H.C., Blazej R.G., Champe M., Pfeiffer B.D.,
+RA   Wan K.H., Doyle C., Baxter E.G., Helt G., Nelson C.R., Miklos G.L.G.,
+RA   Abril J.F., Agbayani A., An H.-J., Andrews-Pfannkoch C., Baldwin D.,
+RA   Ballew R.M., Basu A., Baxendale J., Bayraktaroglu L., Beasley E.M.,
+RA   Beeson K.Y., Benos P.V., Berman B.P., Bhandari D., Bolshakov S.,
+RA   Borkova D., Botchan M.R., Bouck J., Brokstein P., Brottier P.,
+RA   Burtis K.C., Busam D.A., Butler H., Cadieu E., Center A., Chandra I.,
+RA   Cherry J.M., Cawley S., Dahlke C., Davenport L.B., Davies P.,
+RA   de Pablos B., Delcher A., Deng Z., Mays A.D., Dew I., Dietz S.M.,
+RA   Dodson K., Doup L.E., Downes M., Dugan-Rocha S., Dunkov B.C., Dunn P.,
+RA   Durbin K.J., Evangelista C.C., Ferraz C., Ferriera S., Fleischmann W.,
+RA   Fosler C., Gabrielian A.E., Garg N.S., Gelbart W.M., Glasser K.,
+RA   Glodek A., Gong F., Gorrell J.H., Gu Z., Guan P., Harris M.,
+RA   Harris N.L., Harvey D.A., Heiman T.J., Hernandez J.R., Houck J.,
+RA   Hostin D., Houston K.A., Howland T.J., Wei M.-H., Ibegwam C.,
+RA   Jalali M., Kalush F., Karpen G.H., Ke Z., Kennison J.A., Ketchum K.A.,
+RA   Kimmel B.E., Kodira C.D., Kraft C.L., Kravitz S., Kulp D., Lai Z.,
+RA   Lasko P., Lei Y., Levitsky A.A., Li J.H., Li Z., Liang Y., Lin X.,
+RA   Liu X., Mattei B., McIntosh T.C., McLeod M.P., McPherson D.,
+RA   Merkulov G., Milshina N.V., Mobarry C., Morris J., Moshrefi A.,
+RA   Mount S.M., Moy M., Murphy B., Murphy L., Muzny D.M., Nelson D.L.,
+RA   Nelson D.R., Nelson K.A., Nixon K., Nusskern D.R., Pacleb J.M.,
+RA   Palazzolo M., Pittman G.S., Pan S., Pollard J., Puri V., Reese M.G.,
+RA   Reinert K., Remington K., Saunders R.D.C., Scheeler F., Shen H.,
+RA   Shue B.C., Siden-Kiamos I., Simpson M., Skupski M.P., Smith T.J.,
+RA   Spier E., Spradling A.C., Stapleton M., Strong R., Sun E.,
+RA   Svirskas R., Tector C., Turner R., Venter E., Wang A.H., Wang X.,
+RA   Wang Z.-Y., Wassarman D.A., Weinstock G.M., Weissenbach J.,
+RA   Williams S.M., Woodage T., Worley K.C., Wu D., Yang S., Yao Q.A.,
+RA   Ye J., Yeh R.-F., Zaveri J.S., Zhan M., Zhang G., Zhao Q., Zheng L.,
+RA   Zheng X.H., Zhong F.N., Zhong W., Zhou X., Zhu S.C., Zhu X.,
+RA   Smith H.O., Gibbs R.A., Myers E.W., Rubin G.M., Venter J.C.;
+RT   "The genome sequence of Drosophila melanogaster.";
+RL   Science 287:2185-2195(2000).
+RN   [3]
+RP   GENOME REANNOTATION, AND ALTERNATIVE SPLICING.
+RC   STRAIN=Berkeley;
+RX   PubMed=12537572; DOI=10.1186/gb-2002-3-12-research0083;
+RA   Misra S., Crosby M.A., Mungall C.J., Matthews B.B., Campbell K.S.,
+RA   Hradecky P., Huang Y., Kaminker J.S., Millburn G.H., Prochnik S.E.,
+RA   Smith C.D., Tupy J.L., Whitfield E.J., Bayraktaroglu L., Berman B.P.,
+RA   Bettencourt B.R., Celniker S.E., de Grey A.D.N.J., Drysdale R.A.,
+RA   Harris N.L., Richter J., Russo S., Schroeder A.J., Shu S.Q.,
+RA   Stapleton M., Yamada C., Ashburner M., Gelbart W.M., Rubin G.M.,
+RA   Lewis S.E.;
+RT   "Annotation of the Drosophila melanogaster euchromatic genome: a
+RT   systematic review.";
+RL   Genome Biol. 3:RESEARCH0083.1-RESEARCH0083.22(2002).
+RN   [4]
+RP   INTERACTION WITH ARM.
+RX   PubMed=9635189; DOI=10.1016/S0960-9822(98)70249-0;
+RA   Loureiro J., Peifer M.;
+RT   "Roles of Armadillo, a Drosophila catenin, during central nervous
+RT   system development.";
+RL   Curr. Biol. 8:622-632(1998).
+CC   -!- FUNCTION: Cadherins are calcium-dependent cell adhesion proteins.
+CC       They preferentially interact with themselves in a homophilic
+CC       manner in connecting cells; cadherins may thus contribute to the
+CC       sorting of heterogeneous cell types. May associate with arm neural
+CC       isoform and participate in the transmission of developmental
+CC       information.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000305}; Single-pass
+CC       type I membrane protein {ECO:0000305}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=8;
+CC         Comment=Experimental confirmation may be lacking for some
+CC         isoforms.;
+CC       Name=D;
+CC         IsoId=O15943-1; Sequence=Displayed;
+CC       Name=A;
+CC         IsoId=O15943-2; Sequence=VSP_000667, VSP_000668;
+CC       Name=B;
+CC         IsoId=O15943-3; Sequence=VSP_000668;
+CC       Name=C;
+CC         IsoId=O15943-4; Sequence=VSP_000667, VSP_000668, VSP_000669;
+CC       Name=E;
+CC         IsoId=O15943-5; Sequence=VSP_000667;
+CC       Name=F;
+CC         IsoId=O15943-6; Sequence=VSP_000669;
+CC       Name=G;
+CC         IsoId=O15943-7; Sequence=VSP_000667, VSP_000669;
+CC       Name=H;
+CC         IsoId=O15943-8; Sequence=VSP_000668, VSP_000669;
+CC   -!- TISSUE SPECIFICITY: In the embryo, the protein first appears in
+CC       the mesoderm at stage 9 and is present in the myoblasts and muscle
+CC       fibers by stage 12 and stage 14, respectively. At stage 12 the
+CC       protein is also located in the axons of the entire CNS, but not in
+CC       the glial cells. In third instar larvae protein is expressed in
+CC       the CNS neuropile, photoreceptor axons and precursors of adult
+CC       muscles.
+CC   -!- DOMAIN: Three calcium ions are usually bound at the interface of
+CC       each cadherin domain and rigidify the connections, imparting a
+CC       strong curvature to the full-length ectodomain. {ECO:0000250}.
+CC   -!- SIMILARITY: Contains 16 cadherin domains. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00043}.
+CC   -!- SIMILARITY: Contains 3 EGF-like domains. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00076}.
+CC   -!- SIMILARITY: Contains 2 laminin G-like domains.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00122}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AB002397; BAA22151.1; -; mRNA.
+DR   EMBL; AE014134; AAF53635.1; -; Genomic_DNA.
+DR   EMBL; AE014134; AAN10992.1; -; Genomic_DNA.
+DR   EMBL; AE014134; AAN10993.1; -; Genomic_DNA.
+DR   EMBL; AE014134; AAN10994.1; -; Genomic_DNA.
+DR   EMBL; AE014134; AAN10995.1; -; Genomic_DNA.
+DR   EMBL; AE014134; AAN10996.1; -; Genomic_DNA.
+DR   EMBL; AE014134; AAN10997.1; -; Genomic_DNA.
+DR   EMBL; AE014134; AAN10998.1; -; Genomic_DNA.
+DR   PIR; T00021; T00021.
+DR   RefSeq; NP_724068.1; NM_165224.2. [O15943-8]
+DR   RefSeq; NP_724069.1; NM_165225.2. [O15943-3]
+DR   RefSeq; NP_724070.1; NM_165226.2. [O15943-6]
+DR   RefSeq; NP_724071.1; NM_165227.3. [O15943-1]
+DR   RefSeq; NP_724072.1; NM_165228.2. [O15943-4]
+DR   RefSeq; NP_724073.1; NM_165229.2. [O15943-2]
+DR   RefSeq; NP_724074.1; NM_165230.2. [O15943-7]
+DR   RefSeq; NP_724075.1; NM_165231.3. [O15943-5]
+DR   UniGene; Dm.5768; -.
+DR   PDB; 3UBF; X-ray; 2.50 A; A=439-753.
+DR   PDB; 3UBG; X-ray; 2.50 A; A/B=439-753.
+DR   PDB; 3UBH; X-ray; 2.70 A; A=434-851.
+DR   PDBsum; 3UBF; -.
+DR   PDBsum; 3UBG; -.
+DR   PDBsum; 3UBH; -.
+DR   ProteinModelPortal; O15943; -.
+DR   SMR; O15943; 438-850.
+DR   BioGrid; 61066; 5.
+DR   IntAct; O15943; 8.
+DR   MINT; MINT-1327969; -.
+DR   STRING; 7227.FBpp0099721; -.
+DR   PaxDb; O15943; -.
+DR   PRIDE; O15943; -.
+DR   EnsemblMetazoa; FBtr0081015; FBpp0080568; FBgn0015609. [O15943-1]
+DR   GeneID; 35070; -.
+DR   CTD; 35070; -.
+DR   FlyBase; FBgn0015609; CadN.
+DR   eggNOG; NOG298859; -.
+DR   GeneTree; ENSGT00760000118805; -.
+DR   InParanoid; O15943; -.
+DR   OrthoDB; EOG718KB7; -.
+DR   PhylomeDB; O15943; -.
+DR   GenomeRNAi; 35070; -.
+DR   NextBio; 791671; -.
+DR   PRO; PR:O15943; -.
+DR   Proteomes; UP000000803; Chromosome 2L.
+DR   Bgee; O15943; -.
+DR   ExpressionAtlas; O15943; differential.
+DR   Genevisible; O15943; DM.
+DR   GO; GO:0030424; C:axon; IDA:FlyBase.
+DR   GO; GO:0005911; C:cell-cell junction; IDA:FlyBase.
+DR   GO; GO:0030425; C:dendrite; IDA:FlyBase.
+DR   GO; GO:0016021; C:integral component of membrane; ISS:FlyBase.
+DR   GO; GO:0005887; C:integral component of plasma membrane; ISS:FlyBase.
+DR   GO; GO:0005886; C:plasma membrane; IDA:UniProtKB.
+DR   GO; GO:0008013; F:beta-catenin binding; NAS:FlyBase.
+DR   GO; GO:0045296; F:cadherin binding; IPI:FlyBase.
+DR   GO; GO:0005509; F:calcium ion binding; IDA:FlyBase.
+DR   GO; GO:0050839; F:cell adhesion molecule binding; ISS:FlyBase.
+DR   GO; GO:0042803; F:protein homodimerization activity; IPI:FlyBase.
+DR   GO; GO:0004872; F:receptor activity; ISS:FlyBase.
+DR   GO; GO:0048675; P:axon extension; IMP:FlyBase.
+DR   GO; GO:0048846; P:axon extension involved in axon guidance; IMP:FlyBase.
+DR   GO; GO:0007411; P:axon guidance; IMP:FlyBase.
+DR   GO; GO:0007412; P:axon target recognition; IMP:FlyBase.
+DR   GO; GO:0007413; P:axonal fasciculation; TAS:FlyBase.
+DR   GO; GO:0016339; P:calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules; IPI:FlyBase.
+DR   GO; GO:0044331; P:cell-cell adhesion mediated by cadherin; IDA:FlyBase.
+DR   GO; GO:0007156; P:homophilic cell adhesion via plasma membrane adhesion molecules; IDA:FlyBase.
+DR   GO; GO:0050774; P:negative regulation of dendrite morphogenesis; IMP:FlyBase.
+DR   GO; GO:0016318; P:ommatidial rotation; IMP:FlyBase.
+DR   GO; GO:0045467; P:R7 cell development; IMP:FlyBase.
+DR   GO; GO:0045463; P:R8 cell development; IMP:FlyBase.
+DR   GO; GO:0048841; P:regulation of axon extension involved in axon guidance; IMP:FlyBase.
+DR   GO; GO:0048814; P:regulation of dendrite morphogenesis; IMP:FlyBase.
+DR   GO; GO:0031290; P:retinal ganglion cell axon guidance; IMP:FlyBase.
+DR   Gene3D; 2.60.120.200; -; 2.
+DR   Gene3D; 2.60.40.60; -; 17.
+DR   Gene3D; 4.10.900.10; -; 1.
+DR   InterPro; IPR002126; Cadherin.
+DR   InterPro; IPR015919; Cadherin-like.
+DR   InterPro; IPR020894; Cadherin_CS.
+DR   InterPro; IPR000233; Cadherin_cytoplasmic-dom.
+DR   InterPro; IPR027397; Catenin_binding_dom.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR000742; EG-like_dom.
+DR   InterPro; IPR001881; EGF-like_Ca-bd_dom.
+DR   InterPro; IPR013032; EGF-like_CS.
+DR   InterPro; IPR009030; Growth_fac_rcpt_N_dom.
+DR   InterPro; IPR001791; Laminin_G.
+DR   Pfam; PF00028; Cadherin; 12.
+DR   Pfam; PF01049; Cadherin_C; 1.
+DR   Pfam; PF00008; EGF; 2.
+DR   Pfam; PF02210; Laminin_G_2; 2.
+DR   PRINTS; PR00205; CADHERIN.
+DR   SMART; SM00112; CA; 16.
+DR   SMART; SM00181; EGF; 3.
+DR   SMART; SM00179; EGF_CA; 1.
+DR   SMART; SM00282; LamG; 2.
+DR   SUPFAM; SSF49313; SSF49313; 18.
+DR   SUPFAM; SSF49899; SSF49899; 2.
+DR   SUPFAM; SSF57184; SSF57184; 2.
+DR   PROSITE; PS00232; CADHERIN_1; 9.
+DR   PROSITE; PS50268; CADHERIN_2; 16.
+DR   PROSITE; PS00022; EGF_1; 3.
+DR   PROSITE; PS01186; EGF_2; 3.
+DR   PROSITE; PS50026; EGF_3; 3.
+DR   PROSITE; PS50025; LAM_G_DOMAIN; 2.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Calcium; Cell adhesion;
+KW   Cell membrane; Complete proteome; Disulfide bond; EGF-like domain;
+KW   Glycoprotein; Membrane; Metal-binding; Reference proteome; Repeat;
+KW   Signal; Transmembrane; Transmembrane helix.
+FT   SIGNAL        1     36       {ECO:0000255}.
+FT   PROPEP       37      ?
+FT                                /FTId=PRO_0000003881.
+FT   CHAIN         ?   3097       Neural-cadherin.
+FT                                /FTId=PRO_0000003882.
+FT   TOPO_DOM      ?   2916       Extracellular. {ECO:0000255}.
+FT   TRANSMEM   2917   2937       Helical. {ECO:0000255}.
+FT   TOPO_DOM   2938   3097       Cytoplasmic. {ECO:0000255}.
+FT   DOMAIN      181    305       Cadherin 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00043}.
+FT   DOMAIN      430    543       Cadherin 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00043}.
+FT   DOMAIN      554    651       Cadherin 3. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00043}.
+FT   DOMAIN      660    756       Cadherin 4. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00043}.
+FT   DOMAIN      766    858       Cadherin 5. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00043}.
+FT   DOMAIN      867    968       Cadherin 6. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00043}.
+FT   DOMAIN      978   1078       Cadherin 7. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00043}.
+FT   DOMAIN     1087   1183       Cadherin 8. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00043}.
+FT   DOMAIN     1193   1299       Cadherin 9. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00043}.
+FT   DOMAIN     1307   1414       Cadherin 10. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00043}.
+FT   DOMAIN     1423   1514       Cadherin 11. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00043}.
+FT   DOMAIN     1523   1630       Cadherin 12. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00043}.
+FT   DOMAIN     1639   1742       Cadherin 13. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00043}.
+FT   DOMAIN     1749   1861       Cadherin 14. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00043}.
+FT   DOMAIN     1870   1966       Cadherin 15. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00043}.
+FT   DOMAIN     1974   2085       Cadherin 16. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00043}.
+FT   DOMAIN     2346   2377       EGF-like 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00076}.
+FT   DOMAIN     2379   2585       Laminin G-like 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00122}.
+FT   DOMAIN     2592   2627       EGF-like 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00076}.
+FT   DOMAIN     2631   2822       Laminin G-like 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00122}.
+FT   DOMAIN     2869   2902       EGF-like 3. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00076}.
+FT   CARBOHYD     97     97       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    150    150       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    325    325       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    426    426       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    930    930       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1266   1266       N-linked (GlcNAc...). {ECO:0000255}.
+FT   DISULFID   2346   2357       {ECO:0000255}.
+FT   DISULFID   2351   2366       {ECO:0000255}.
+FT   DISULFID   2368   2377       {ECO:0000255}.
+FT   DISULFID   2559   2585       {ECO:0000250}.
+FT   DISULFID   2592   2607       {ECO:0000255}.
+FT   DISULFID   2601   2616       {ECO:0000255}.
+FT   DISULFID   2618   2627       {ECO:0000255}.
+FT   DISULFID   2787   2822       {ECO:0000250}.
+FT   DISULFID   2869   2880       {ECO:0000255}.
+FT   DISULFID   2874   2891       {ECO:0000255}.
+FT   DISULFID   2893   2902       {ECO:0000255}.
+FT   VAR_SEQ    1147   1206       ETYKLEAMAQDKGYPPLSRTVEVQIDVVDRANNPPVWDHTV
+FT                                YGPIYVKENMPVGGKVVSI -> DRYRLRVSASDKGTPASA
+FT                                ADVDVELDVVDRNNKPPIWDKSIYGPIHIRENVTVGTVVTS
+FT                                V (in isoform A, isoform C, isoform E and
+FT                                isoform G). {ECO:0000305}.
+FT                                /FTId=VSP_000667.
+FT   VAR_SEQ    1486   1536       RLAASDNLKENYTTVIIHVKDVNDNPPVFERPTYRTQITEE
+FT                                DDRNLPKRVL -> KLVASDSLNENQTTIVINVRDVNDLPP
+FT                                QFPQTSYERTLDEGMTNTPFTIM (in isoform A,
+FT                                isoform B, isoform C and isoform H).
+FT                                {ECO:0000305}.
+FT                                /FTId=VSP_000668.
+FT   VAR_SEQ    2851   2930       GEGRIMSPDSKGCMDRNECLDMPCMNGATCINLEPRLRYRC
+FT                                ICPDGFWGENCELVQEGQTLKLSMGALAAILVCLLIILI
+FT                                -> PAGYKSSGSTCVNDNECLLFPCRNGGRCRDHHPPKKYE
+FT                                CHCPMGFTGMHCELELLASGVLTPSRDFIVALALCLGTLIL
+FT                                (in isoform C, isoform F, isoform G and
+FT                                isoform H). {ECO:0000305}.
+FT                                /FTId=VSP_000669.
+FT   VARIANT    1425   1425       E -> K (in allele CADN-M12; muscle
+FT                                defects).
+FT   CONFLICT   1342   1342       P -> A (in Ref. 1; BAA22151).
+FT                                {ECO:0000305}.
+FT   CONFLICT   2786   2786       S -> T (in Ref. 1; BAA22151).
+FT                                {ECO:0000305}.
+FT   STRAND      440    450       {ECO:0000244|PDB:3UBF}.
+FT   HELIX       451    453       {ECO:0000244|PDB:3UBF}.
+FT   STRAND      459    462       {ECO:0000244|PDB:3UBF}.
+FT   STRAND      466    469       {ECO:0000244|PDB:3UBG}.
+FT   STRAND      471    476       {ECO:0000244|PDB:3UBF}.
+FT   STRAND      479    483       {ECO:0000244|PDB:3UBF}.
+FT   STRAND      487    493       {ECO:0000244|PDB:3UBF}.
+FT   HELIX       497    499       {ECO:0000244|PDB:3UBF}.
+FT   STRAND      505    513       {ECO:0000244|PDB:3UBF}.
+FT   STRAND      519    521       {ECO:0000244|PDB:3UBH}.
+FT   STRAND      525    534       {ECO:0000244|PDB:3UBF}.
+FT   STRAND      546    554       {ECO:0000244|PDB:3UBF}.
+FT   STRAND      563    566       {ECO:0000244|PDB:3UBF}.
+FT   STRAND      578    589       {ECO:0000244|PDB:3UBF}.
+FT   STRAND      591    593       {ECO:0000244|PDB:3UBF}.
+FT   TURN        595    597       {ECO:0000244|PDB:3UBF}.
+FT   STRAND      599    602       {ECO:0000244|PDB:3UBF}.
+FT   STRAND      604    606       {ECO:0000244|PDB:3UBH}.
+FT   STRAND      613    623       {ECO:0000244|PDB:3UBF}.
+FT   STRAND      632    634       {ECO:0000244|PDB:3UBG}.
+FT   STRAND      638    645       {ECO:0000244|PDB:3UBF}.
+FT   STRAND      650    661       {ECO:0000244|PDB:3UBF}.
+FT   STRAND      669    672       {ECO:0000244|PDB:3UBF}.
+FT   STRAND      683    692       {ECO:0000244|PDB:3UBF}.
+FT   TURN        694    696       {ECO:0000244|PDB:3UBF}.
+FT   STRAND      697    699       {ECO:0000244|PDB:3UBF}.
+FT   TURN        701    703       {ECO:0000244|PDB:3UBF}.
+FT   STRAND      705    708       {ECO:0000244|PDB:3UBF}.
+FT   STRAND      721    735       {ECO:0000244|PDB:3UBF}.
+FT   STRAND      737    747       {ECO:0000244|PDB:3UBF}.
+FT   STRAND      755    767       {ECO:0000244|PDB:3UBH}.
+FT   STRAND      775    778       {ECO:0000244|PDB:3UBH}.
+FT   HELIX       787    790       {ECO:0000244|PDB:3UBH}.
+FT   STRAND      792    797       {ECO:0000244|PDB:3UBH}.
+FT   STRAND      801    803       {ECO:0000244|PDB:3UBH}.
+FT   STRAND      808    811       {ECO:0000244|PDB:3UBH}.
+FT   STRAND      815    818       {ECO:0000244|PDB:3UBH}.
+FT   STRAND      823    832       {ECO:0000244|PDB:3UBH}.
+FT   STRAND      839    849       {ECO:0000244|PDB:3UBH}.
+SQ   SEQUENCE   3097 AA;  347204 MW;  082242F28D9B5CC3 CRC64;
+     MAARRCLNQL RQRYITNRFN ICTCAIFLIS LPFILAIEET TFAGLSAENA ARMLAGSPGD
+     VEKSSLSHHS EMSLVLPHDT YPGFSIKKFK THPVKINGSS HSGAAAYHML DTDYSKYFTV
+     LEDGVVMTTA DISPLVNRPV QLVVVEQTPN ATNTHNLQLF VMHRNDMLRF SGSLLDASGE
+     VRENQPAGTR VRGVPLMQAF SGSILDEELA TPKKVRYTII DGNVDDAFAL QERKANKNIQ
+     ISAKSLVING DDESGVWLVT NRPLDREERA HYDLSVEASD VDGLDRTVSK IQITVLDEND
+     NRPIFKSLDY KFAIAGQKSA SMESNSSVTY QRFAIMGKVE ATDADGDKIA YRLKSPSNVV
+     IIVPQTGEIM LAGEPTSNEL LIEVIAHDLR YPSLVSAKPA KVLLEFLAAE PVSFIMQHLE
+     HDDINNHSHH REKRRVTRAV RPTKRIEFTE ADGDTEGKSV FQLEKETDKE TFKIRDDNPW
+     VTVETNGAVR VKKKWDYEEL GPEKTIDFWV IITNMGHNAG IKYTDNQRVI ILVKDVNDEP
+     PYFINRPLPM QAVVQLNAPP NTPVFTLQAR DPDTDHNIHY FIVRDRTGGR FEVDERSGVV
+     RTRGTDLFQL DMEYVLYVKA EDQNGKVDDR RFQSTPEERL SIVGGKRAPQ FYMPSYEAEI
+     PENQKKDSDI ISIKAKSFAD REIRYTLKAQ GQGAGTFNIG PTSGIVKLAK ELDFEDLRQP
+     HVYSLIVTAT EDSGGFSTSV DLTIRVTDVN DNAPKFELPD YQAHNVDEDI PLGTSILRVK
+     AMDSDSGSNA EIEYLVSDDH FAVDSNGIIV NNKQLDADNN NAYYEFIVTA KDKGEPPKSG
+     VATVRVYTKN KNDEEPKFSQ QVYTPNVDEN AGPNTLVTTV VASDKDGDNV RFGFVGGGTS
+     SGQFVIEDIT GVIRLHNKAI SLDKDKYELN VTAMDDGSCC VNGDQTIHTS TAVVVVFITD
+     VNDNKPVFKD CSTYYPKVEE GAPNGSPVIK VVATDEDKGV NGQVKYSIVQ QPNQKGTKFT
+     VDEETGEVST NKVFDREGDD GKFVSVTVKA TDQGDPSLEG VCSFTVEITD VNDNPPLFDR
+     QKYVENVKQD ASIGTNILRV SASDEDADNN GAIVYSLTAP FNPNDLEYFE IQAESGWIVL
+     KKPLDRETYK LEAMAQDKGY PPLSRTVEVQ IDVVDRANNP PVWDHTVYGP IYVKENMPVG
+     GKVVSIKASS GIEGNPTVFY RLMPGSTAQT NKFHTFYLQQ RPDNGDTWAD IKVNHPLDYE
+     SIKEYNLTIR VENNGAQQLA SEATVYIMLE DVNDEIPLFT EREQETVLEG EPIGTKVTQV
+     NAIDKDGTFP NNQVYYYIVD SPRNEGKEFF EINLQSGEIF TKTVFDREKK GAYALEVEAR
+     DGAPSARPNS NGPNSVTKFI RIGIADKNDN PPYFDKSLYE AEVDENEDIQ HTVLTVTAKD
+     HDESSRIRYE ITSGNIGGAF AVKNMTGAIY VAGALDYETR RRYELRLAAS DNLKENYTTV
+     IIHVKDVNDN PPVFERPTYR TQITEEDDRN LPKRVLQVTA TDGDKDRPQN IVYFLTGQGI
+     DPDNPANSKF DINRTTGEIF VLKPLDRDQP NGRPQWRFTV FAQDEGGEGL VGYADVQVNL
+     KDINDNAPIF PQGVYFGNVT ENGTAGMVVM TMTAVDYDDP NEGSNARLVY SIEKNVIEEE
+     TGSPIFEIEP DTGVIKTAVC CLDRERTPDY SIQVVAMDGG GLKGTGTASI RVKDINDMPP
+     QFTKDEWFTE VDETDGTALP EMPILTVTVH DEDETNKFQY KVIDNSGYGA DKFTMVRNND
+     GTGSLKIVQP LDYEDQLQSN GFRFRIQVND KGEDNDNDKY HVAYSWVVVK LRDINDNKPH
+     FERANVEVSV FEDTKVGTEL EKFKATDPDQ GGKSKVSYSI DRSSDRQRQF AINQNGSVTI
+     QRSLDREVVP RHQVKILAID DGSPPKTATA TLTVIVQDIN DNAPKFLKDY RPVLPEHVPP
+     RKVVEILATD DDDRSKSNGP PFQFRLDPSA DDIIRASFKV EQDQKGANGD GMAVISSLRS
+     FDREQQKEYM IPIVIKDHGS PAMTGTSTLT VIIGDVNDNK MQPGSKDIFV YNYQGQSPDT
+     PIGRVYVYDL DDWDLPDKKF YWEAMEHPRF KLDEDSGMVT MRAGTREGRY HLRFKVYDRK
+     HTQTDIPANV TVTVREIPHE AVVNSGSVRL SGISDEDFIR VWNYRTQSMS RSKMDRFRDK
+     LADLLNTERE NVDIFSVQLK RKHPPLTDVR FSAHGSPYYK PVRLNGIVLM HREEIEKDVG
+     INITMVGIDE CLYENQMCEG SCTNSLEISP LPYMVNANKT ALVGVRVDTI ADCTCGARNF
+     TKPESCRTTP CHNGGRCVDT RFGPHCSCPV GYTGPRCQQT TRSFRGNGWA WYPPLEMCDE
+     SHLSLEFITR KPDGLIIYNG PIVPPERDET LISDFIALEL ERGYPRLLID FGSGTLELRV
+     KTKKTLDDGE WHRIDLFWDT ESIRMVVDFC KSAEIAEMED GTPPEFDDMS CQARGQIPPF
+     NEYLNVNAPL QVGGLYREQF DQSLYFWHYM PTAKGFDGCI RNLVHNSKLY DLAHPGLSRN
+     SVAGCPQTEE VCAQTETTAR CWEHGNCVGS LSEARCHCRP GWTGPACNIP TIPTTFKAQS
+     YVKYALSFEP DRFSTQVQLR FRTREEYGEL FRVSDQHNRE YGILEIKDGH LHFRYNLNSL
+     RTEEKDLWLN AIVVNDGQWH VVKVNRYGSA ATLELDGGEG RRYNETFEFV GHQWLLVDKQ
+     EGVYAGGKAE YTGVRTFEVY ADYQKSCLDD IRLEGKHLPL PPAMNGTQWG QATMARNLEK
+     GCPSNKPCSN VICPDPFECV DLWNVYECTC GEGRIMSPDS KGCMDRNECL DMPCMNGATC
+     INLEPRLRYR CICPDGFWGE NCELVQEGQT LKLSMGALAA ILVCLLIILI LVLVFVVYNR
+     RREAHIKYPG PDDDVRENII NYDDEGGGED DMTAFDITPL QIPIGGPMPP ELAPMKMPIM
+     YPVMTLMPGQ EPNVGMFIEE HKKRADGDPN APPFDDLRNY AYEGGGSTAG SLSSLASGTD
+     DEQQEYDYLG AWGPRFDKLA NMYGPEAPNP HNTELEL
+//

@@ -1,0 +1,95 @@
+ID   Q9RS96_DEIRA            Unreviewed;       148 AA.
+AC   Q9RS96;
+DT   01-MAY-2000, integrated into UniProtKB/TrEMBL.
+DT   01-MAY-2000, sequence version 1.
+DT   22-JUL-2015, entry version 83.
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAF11776.1};
+GN   OrderedLocusNames=DR_2231 {ECO:0000313|EMBL:AAF11776.1};
+OS   Deinococcus radiodurans (strain ATCC 13939 / DSM 20539 / JCM 16871 /
+OS   LMG 4051 / NBRC 15346 / NCIMB 9279 / R1 / VKM B-1422).
+OC   Bacteria; Deinococcus-Thermus; Deinococci; Deinococcales;
+OC   Deinococcaceae; Deinococcus.
+OX   NCBI_TaxID=243230 {ECO:0000313|EMBL:AAF11776.1, ECO:0000313|Proteomes:UP000002524};
+RN   [1] {ECO:0000313|EMBL:AAF11776.1, ECO:0000313|Proteomes:UP000002524}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 13939 / DSM 20539 / JCM 16871 / LMG 4051 / NBRC 15346 /
+RC   NCIMB 9279 / R1 / VKM B-1422 {ECO:0000313|Proteomes:UP000002524};
+RX   PubMed=10567266; DOI=10.1126/science.286.5444.1571;
+RA   White O., Eisen J.A., Heidelberg J.F., Hickey E.K., Peterson J.D.,
+RA   Dodson R.J., Haft D.H., Gwinn M.L., Nelson W.C., Richardson D.L.,
+RA   Moffat K.S., Qin H., Jiang L., Pamphile W., Crosby M., Shen M.,
+RA   Vamathevan J.J., Lam P., McDonald L.A., Utterback T.R., Zalewski C.,
+RA   Makarova K.S., Aravind L., Daly M.J., Minton K.W., Fleischmann R.D.,
+RA   Ketchum K.A., Nelson K.E., Salzberg S.L., Smith H.O., Venter J.C.,
+RA   Fraser C.M.;
+RT   "Genome sequence of the radioresistant bacterium Deinococcus
+RT   radiodurans R1.";
+RL   Science 286:1571-1577(1999).
+RN   [2] {ECO:0000213|PDB:2YEU, ECO:0000213|PDB:2YF3, ECO:0000213|PDB:2YF4}
+RP   X-RAY CRYSTALLOGRAPHY (1.70 ANGSTROMS) IN COMPLEX WITH MAGNESIUM AND
+RP   MANGANESE, AND DISULFIDE BONDS.
+RX   PubMed=21733847; DOI=10.1074/jbc.M111.247999;
+RA   Goncalves A.M., de Sanctis D., McSweeney S.M.;
+RT   "Structural and functional insights into DR2231 protein, the MazG-like
+RT   nucleoside triphosphate pyrophosphohydrolase from Deinococcus
+RT   radiodurans.";
+RL   J. Biol. Chem. 286:30691-30705(2011).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE000513; AAF11776.1; -; Genomic_DNA.
+DR   PIR; E75300; E75300.
+DR   RefSeq; NP_295953.1; NC_001263.1.
+DR   RefSeq; WP_010888860.1; NC_001263.1.
+DR   PDB; 2YEU; X-ray; 2.00 A; A/B/C/D/E/F=1-148.
+DR   PDB; 2YF3; X-ray; 2.00 A; A/B/C/D/E/F=1-148.
+DR   PDB; 2YF4; X-ray; 1.70 A; A/B/C/D/E/F=1-148.
+DR   PDB; 2YF9; X-ray; 1.90 A; A=1-148.
+DR   PDB; 2YFC; X-ray; 2.01 A; A/B/C/D=1-148.
+DR   PDB; 2YFD; X-ray; 1.77 A; A/B/C/D=1-148.
+DR   ProteinModelPortal; Q9RS96; -.
+DR   STRING; 243230.DR_2231; -.
+DR   EnsemblBacteria; AAF11776; AAF11776; DR_2231.
+DR   GeneID; 1799416; -.
+DR   KEGG; dra:DR_2231; -.
+DR   PATRIC; 21632156; VBIDeiRad64572_2459.
+DR   HOGENOM; HOG000286692; -.
+DR   InParanoid; Q9RS96; -.
+DR   OMA; EGWQPAN; -.
+DR   OrthoDB; EOG6677WW; -.
+DR   BioCyc; DRAD243230:GH46-2277-MONOMER; -.
+DR   EvolutionaryTrace; Q9RS96; -.
+DR   Proteomes; UP000002524; Chromosome I.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0047429; F:nucleoside-triphosphate diphosphatase activity; IDA:CACAO.
+DR   GO; GO:0008152; P:metabolic process; IDA:GOC.
+DR   Gene3D; 1.10.3420.10; -; 1.
+DR   InterPro; IPR023292; NTP_PyroPHydrolase-like_dom.
+DR   InterPro; IPR021130; PRib-ATP_PPHydrolase-like.
+DR   Pfam; PF01503; PRA-PH; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome {ECO:0000313|Proteomes:UP000002524};
+KW   Magnesium {ECO:0000213|PDB:2YFD}; Manganese; Metal-binding;
+KW   Reference proteome {ECO:0000313|Proteomes:UP000002524}.
+FT   METAL        46     46       Manganese 1. {ECO:0000213|PDB:2YFC}.
+FT   METAL        47     47       Magnesium.
+FT   METAL        47     47       Manganese 1. {ECO:0000213|PDB:2YFC}.
+FT   METAL        47     47       Manganese 2. {ECO:0000213|PDB:2YF3,
+FT                                ECO:0000213|PDB:2YFC}.
+FT   METAL        50     50       Magnesium.
+FT   METAL        50     50       Manganese 1. {ECO:0000213|PDB:2YFC}.
+FT   METAL        50     50       Manganese 2. {ECO:0000213|PDB:2YF3,
+FT                                ECO:0000213|PDB:2YFC}.
+FT   METAL        79     79       Magnesium.
+FT   METAL        79     79       Manganese 2. {ECO:0000213|PDB:2YF3,
+FT                                ECO:0000213|PDB:2YFC}.
+FT   METAL        82     82       Magnesium.
+FT   METAL        82     82       Manganese 2. {ECO:0000213|PDB:2YF3,
+FT                                ECO:0000213|PDB:2YFC}.
+FT   DISULFID      6      6       Interchain (with C-6 in Q9RS96).
+SQ   SEQUENCE   148 AA;  16056 MW;  809B44DE98CC326F CRC64;
+     MSDLPCPPTN AERLHEFHRA IGAATPERPT PPPPELLRLR QTLLDEESAE VRAEIDHLLA
+     RQAAGEALSA GDLAPLAHEL ADLLYVTYGA LDQLGIDADA VFAEVHRANL SKASGPRRAD
+     GKQLKPEGWR PADVRGVIER LQHAPADD
+//

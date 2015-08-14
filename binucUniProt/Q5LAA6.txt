@@ -1,0 +1,97 @@
+ID   Q5LAA6_BACFN            Unreviewed;       170 AA.
+AC   Q5LAA6;
+DT   21-JUN-2005, integrated into UniProtKB/TrEMBL.
+DT   21-JUN-2005, sequence version 1.
+DT   22-JUL-2015, entry version 71.
+DE   SubName: Full=Putative bacterioferritin-related protein {ECO:0000313|EMBL:CAH08967.1};
+GN   ORFNames=BF9343_3186 {ECO:0000313|EMBL:CAH08967.1};
+OS   Bacteroides fragilis (strain ATCC 25285 / DSM 2151 / JCM 11019 / NCTC
+OS   9343).
+OC   Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Bacteroidaceae;
+OC   Bacteroides.
+OX   NCBI_TaxID=272559 {ECO:0000313|EMBL:CAH08967.1, ECO:0000313|Proteomes:UP000006731};
+RN   [1] {ECO:0000313|EMBL:CAH08967.1, ECO:0000313|Proteomes:UP000006731}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 25285 / DSM 2151 / JCM 11019 / NCTC 9343
+RC   {ECO:0000313|Proteomes:UP000006731};
+RX   PubMed=15746427; DOI=10.1126/science.1107008;
+RA   Cerdeno-Tarraga A.-M., Patrick S., Crossman L.C., Blakely G.,
+RA   Abratt V., Lennard N., Poxton I., Duerden B., Harris B., Quail M.A.,
+RA   Barron A., Clark L., Corton C., Doggett J., Holden M.T.G., Larke N.,
+RA   Line A., Lord A., Norbertczak H., Ormond D., Price C.,
+RA   Rabbinowitsch E., Woodward J., Barrell B.G., Parkhill J.;
+RT   "Extensive DNA inversions in the B. fragilis genome control variable
+RT   gene expression.";
+RL   Science 307:1463-1465(2005).
+RN   [2] {ECO:0000213|PDB:2VZB}
+RP   X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) IN COMPLEX WITH IRON AND
+RP   MAGNESIUM, AND DISULFIDE BONDS.
+RX   PubMed=22020642; DOI=10.1128/JB.05260-11;
+RA   Gauss G.H., Reott M.A., Rocha E.R., Young M.J., Douglas T.,
+RA   Smith C.J., Lawrence C.M.;
+RT   "Characterization of the Bacteroides fragilis bfr gene product
+RT   identifies a bacterial DPS-like protein and suggests evolutionary
+RT   links in the ferritin superfamily.";
+RL   J. Bacteriol. 194:15-27(2012).
+CC   -!- SIMILARITY: Contains 1 ferritin-like diiron domain.
+CC       {ECO:0000256|RuleBase:RU003668}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CR626927; CAH08967.1; -; Genomic_DNA.
+DR   RefSeq; WP_005782541.1; NC_003228.3.
+DR   PDB; 2VZB; X-ray; 2.30 A; A/B/C/D=1-170.
+DR   PDBsum; 2VZB; -.
+DR   ProteinModelPortal; Q5LAA6; -.
+DR   STRING; 272559.BF3271; -.
+DR   EnsemblBacteria; CAH08967; CAH08967; BF9343_3186.
+DR   KEGG; bfs:BF9343_3186; -.
+DR   PATRIC; 21043224; VBIBacFra29119_3325.
+DR   eggNOG; COG2406; -.
+DR   HOGENOM; HOG000262381; -.
+DR   KO; K03594; -.
+DR   OMA; TNCGYDA; -.
+DR   OrthoDB; EOG6WDSKP; -.
+DR   BioCyc; BFRA272559:GKF0-3234-MONOMER; -.
+DR   EvolutionaryTrace; Q5LAA6; -.
+DR   Proteomes; UP000006731; Chromosome.
+DR   GO; GO:0005623; C:cell; IEA:GOC.
+DR   GO; GO:0008199; F:ferric iron binding; IEA:InterPro.
+DR   GO; GO:0006879; P:cellular iron ion homeostasis; IEA:InterPro.
+DR   Gene3D; 1.20.1260.10; -; 1.
+DR   InterPro; IPR009040; Ferritin-like_diiron.
+DR   InterPro; IPR009078; Ferritin-like_SF.
+DR   InterPro; IPR012347; Ferritin-rel.
+DR   InterPro; IPR008331; Ferritin_DPS_dom.
+DR   InterPro; IPR014490; UCP018063_ferrtn.
+DR   Pfam; PF00210; Ferritin; 1.
+DR   PIRSF; PIRSF018063; Ferrtn_UCP018063; 1.
+DR   SUPFAM; SSF47240; SSF47240; 1.
+DR   PROSITE; PS50905; FERRITIN_LIKE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2VZB};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000006731};
+KW   Iron {ECO:0000213|PDB:2VZB}; Magnesium {ECO:0000213|PDB:2VZB};
+KW   Metal-binding {ECO:0000213|PDB:2VZB};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000006731}.
+FT   METAL        29     29       Iron 1. {ECO:0000213|PDB:2VZB}.
+FT   METAL        54     54       Magnesium. {ECO:0000213|PDB:2VZB}.
+FT   METAL        58     58       Magnesium; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2VZB}.
+FT   METAL        62     62       Iron 1. {ECO:0000213|PDB:2VZB}.
+FT   METAL        62     62       Iron 2. {ECO:0000213|PDB:2VZB}.
+FT   METAL        65     65       Iron 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:2VZB}.
+FT   METAL       114    114       Iron 2. {ECO:0000213|PDB:2VZB}.
+FT   METAL       146    146       Iron 1. {ECO:0000213|PDB:2VZB}.
+FT   METAL       146    146       Iron 2. {ECO:0000213|PDB:2VZB}.
+FT   METAL       149    149       Iron 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:2VZB}.
+FT   METAL       152    152       Magnesium. {ECO:0000213|PDB:2VZB}.
+FT   DISULFID     93    116       {ECO:0000213|PDB:2VZB}.
+SQ   SEQUENCE   170 AA;  19582 MW;  ECE3D3BDC5899E8F CRC64;
+     MAKESVKILQ GKLDVKSLID QLNAALSEEW LAYYQYWVGA LVVEGAMRAD VQGEFEEHAE
+     EERHHAQLIA DRIIELEGVP VLDPKKWFEL ARCKYDSPTA FDSVSLLNQN VSSERCAILR
+     YQEIANFTNG KDYTTCDIAK HILAEEEEHE QDLQDYLTDI ARMKESFLKK
+//

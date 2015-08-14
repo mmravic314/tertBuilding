@@ -1,0 +1,81 @@
+ID   Q9REU3_DESVU            Unreviewed;       136 AA.
+AC   Q9REU3;
+DT   01-MAY-2000, integrated into UniProtKB/TrEMBL.
+DT   01-MAY-2000, sequence version 1.
+DT   24-JUN-2015, entry version 63.
+DE   SubName: Full=Hemerythrin-like domain protein DcrH {ECO:0000313|EMBL:AAF23777.1};
+DE   Flags: Fragment;
+GN   Name=dcrH {ECO:0000313|EMBL:AAF23777.1};
+OS   Desulfovibrio vulgaris.
+OC   Bacteria; Proteobacteria; Deltaproteobacteria; Desulfovibrionales;
+OC   Desulfovibrionaceae; Desulfovibrio.
+OX   NCBI_TaxID=881 {ECO:0000313|EMBL:AAF23777.1};
+RN   [1] {ECO:0000313|EMBL:AAF23777.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=Hildenborough {ECO:0000313|EMBL:AAF23777.1};
+RA   Xiong J., Kurtz D.M.Jr., Ai J., Sanders-Loehr J.;
+RT   "A Hemerythrin-like Domain in a Bacterial Chemotaxis Protein.";
+RL   Submitted (DEC-1999) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:2AVK, ECO:0000213|PDB:2AWC, ECO:0000213|PDB:2AWY}
+RP   X-RAY CRYSTALLOGRAPHY (1.53 ANGSTROMS) IN COMPLEX WITH IRON OXIDE
+RP   (2FE-O).
+RX   PubMed=16866347; DOI=10.1021/bi0607812;
+RA   Isaza C.E., Silaghi-Dumitrescu R., Iyer R.B., Kurtz D.M., Chan M.K.;
+RT   "Structural basis for O2 sensing by the hemerythrin-like domain of a
+RT   bacterial chemotaxis protein: substrate tunnel and fluxional N
+RT   terminus.";
+RL   Biochemistry 45:9023-9031(2006).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF210632; AAF23777.1; -; Genomic_DNA.
+DR   PDB; 2AVK; X-ray; 1.53 A; A=1-136.
+DR   PDB; 2AWC; X-ray; 2.20 A; A=7-136.
+DR   PDB; 2AWY; X-ray; 2.10 A; A/B=1-136.
+DR   PDBsum; 2AVK; -.
+DR   PDBsum; 2AWC; -.
+DR   PDBsum; 2AWY; -.
+DR   ProteinModelPortal; Q9REU3; -.
+DR   STRING; 882.DVU3155; -.
+DR   EvolutionaryTrace; Q9REU3; -.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 1.20.120.50; -; 1.
+DR   InterPro; IPR012827; Haemerythrin-like_metal-bd.
+DR   InterPro; IPR012312; Haemerythrin/HHE_cat-bd_motif.
+DR   InterPro; IPR016131; Haemerythrin_Fe_BS.
+DR   Pfam; PF01814; Hemerythrin; 1.
+DR   SUPFAM; SSF47188; SSF47188; 1.
+DR   TIGRFAMs; TIGR02481; hemeryth_dom; 1.
+DR   PROSITE; PS00550; HEMERYTHRINS; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2AVK, ECO:0000213|PDB:2AWC};
+KW   Iron {ECO:0000213|PDB:2AWC, ECO:0000213|PDB:2AWY};
+KW   Metal-binding {ECO:0000213|PDB:2AWC, ECO:0000213|PDB:2AWY}.
+FT   METAL        23     23       Iron oxide (2Fe-O); via tele nitrogen.
+FT                                {ECO:0000213|PDB:2AWC,
+FT                                ECO:0000213|PDB:2AWY}.
+FT   METAL        59     59       Iron oxide (2Fe-O); via tele nitrogen.
+FT                                {ECO:0000213|PDB:2AWC,
+FT                                ECO:0000213|PDB:2AWY}.
+FT   METAL        63     63       Iron oxide (2Fe-O).
+FT                                {ECO:0000213|PDB:2AWC,
+FT                                ECO:0000213|PDB:2AWY}.
+FT   METAL        78     78       Iron oxide (2Fe-O); via tele nitrogen.
+FT                                {ECO:0000213|PDB:2AWC,
+FT                                ECO:0000213|PDB:2AWY}.
+FT   METAL        82     82       Iron oxide (2Fe-O); via tele nitrogen.
+FT                                {ECO:0000213|PDB:2AWC,
+FT                                ECO:0000213|PDB:2AWY}.
+FT   METAL       118    118       Iron oxide (2Fe-O); via tele nitrogen.
+FT                                {ECO:0000213|PDB:2AWC,
+FT                                ECO:0000213|PDB:2AWY}.
+FT   METAL       123    123       Iron oxide (2Fe-O).
+FT                                {ECO:0000213|PDB:2AWC,
+FT                                ECO:0000213|PDB:2AWY}.
+FT   NON_TER       1      1       {ECO:0000313|EMBL:AAF23777.1}.
+SQ   SEQUENCE   136 AA;  16130 MW;  4A40C3E62F7BD5CC CRC64;
+     GDADVLVKWS EDLANLPSID TQHKRLVDYI NDLYRAARRR DMDKAREVFD ALKNYAVEHF
+     GYEERLFADY AYPEATRHKE IHRRFVETVL KWEKQLAAGD PEVVMTTLRG LVDWLVNHIM
+     KEDKKYEAYL RERGVS
+//

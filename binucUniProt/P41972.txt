@@ -1,0 +1,227 @@
+ID   SYI1_STAAU              Reviewed;         917 AA.
+AC   P41972;
+DT   01-NOV-1995, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1995, sequence version 1.
+DT   22-JUL-2015, entry version 106.
+DE   RecName: Full=Isoleucine--tRNA ligase;
+DE            EC=6.1.1.5;
+DE   AltName: Full=Isoleucyl-tRNA synthetase;
+DE            Short=IleRS;
+GN   Name=ileS;
+OS   Staphylococcus aureus.
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcus.
+OX   NCBI_TaxID=1280;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND PARTIAL PROTEIN SEQUENCE.
+RC   STRAIN=ATCC 9144 / Oxford / NCIB 6571 / NCTC 6571;
+RX   PubMed=8163160; DOI=10.1016/0378-1119(94)90135-X;
+RA   Chalker A.F., Ward J.M., Fosberry A.P., Hodgson J.E.;
+RT   "Analysis and toxic overexpression in Escherichia coli of a
+RT   staphylococcal gene encoding isoleucyl-tRNA synthetase.";
+RL   Gene 141:103-108(1994).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) IN COMPLEX WITH METAL IONS;
+RP   ILE-TRNA AND MUPIROCIN.
+RX   PubMed=10446055; DOI=10.1126/science.285.5430.1074;
+RA   Silvian L.F., Wang J., Steitz T.A.;
+RT   "Insights into editing from an Ile-tRNA synthetase structure with
+RT   tRNAIle and mupirocin.";
+RL   Science 285:1074-1077(1999).
+CC   -!- FUNCTION: Catalyzes the attachment of isoleucine to tRNA(Ile). As
+CC       IleRS can inadvertently accommodate and process structurally
+CC       similar amino acids such as valine, to avoid such errors it has
+CC       two additional distinct tRNA(Ile)-dependent editing activities.
+CC       One activity is designated as 'pretransfer' editing and involves
+CC       the hydrolysis of activated Val-AMP. The other activity is
+CC       designated 'posttransfer' editing and involves deacylation of
+CC       mischarged Val-tRNA(Ile) (By similarity). {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: ATP + L-isoleucine + tRNA(Ile) = AMP +
+CC       diphosphate + L-isoleucyl-tRNA(Ile).
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC       Note=Binds 1 zinc ion per subunit.;
+CC   -!- SUBUNIT: Monomer. {ECO:0000269|PubMed:10446055}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm.
+CC   -!- DOMAIN: IleRS has two distinct active sites: one for
+CC       aminoacylation and one for editing. The misactivated valine is
+CC       translocated from the active site to the editing site, which
+CC       sterically excludes the correctly activated isoleucine. The single
+CC       editing site contains two valyl binding pockets, one specific for
+CC       each substrate (Val-AMP or Val-tRNA(Ile)) (By similarity).
+CC       {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the class-I aminoacyl-tRNA synthetase
+CC       family. IleS type 1 subfamily. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X74219; CAA52296.1; -; Genomic_DNA.
+DR   PIR; S40178; S40178.
+DR   RefSeq; WP_000384706.1; NZ_LN626917.1.
+DR   PDB; 1FFY; X-ray; 2.20 A; A=1-917.
+DR   PDB; 1QU2; X-ray; 2.20 A; A=1-917.
+DR   PDB; 1QU3; X-ray; 2.90 A; A=1-917.
+DR   PDBsum; 1FFY; -.
+DR   PDBsum; 1QU2; -.
+DR   PDBsum; 1QU3; -.
+DR   ProteinModelPortal; P41972; -.
+DR   SMR; P41972; 1-917.
+DR   STRING; 93062.SACOL1206; -.
+DR   BindingDB; P41972; -.
+DR   ChEMBL; CHEMBL1982; -.
+DR   DrugBank; DB00410; Mupirocin.
+DR   PRIDE; P41972; -.
+DR   BRENDA; 6.1.1.5; 3352.
+DR   EvolutionaryTrace; P41972; -.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0002161; F:aminoacyl-tRNA editing activity; IEA:InterPro.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0004822; F:isoleucine-tRNA ligase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0006428; P:isoleucyl-tRNA aminoacylation; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 1.10.730.10; -; 1.
+DR   Gene3D; 3.40.50.620; -; 2.
+DR   Gene3D; 3.90.740.10; -; 1.
+DR   HAMAP; MF_02002; Ile_tRNA_synth_type1; 1.
+DR   InterPro; IPR001412; aa-tRNA-synth_I_CS.
+DR   InterPro; IPR002300; aa-tRNA-synth_Ia.
+DR   InterPro; IPR002301; Ile-tRNA-ligase.
+DR   InterPro; IPR023585; Ile-tRNA-ligase_type1.
+DR   InterPro; IPR013155; M/V/L/I-tRNA-synth_anticd-bd.
+DR   InterPro; IPR014729; Rossmann-like_a/b/a_fold.
+DR   InterPro; IPR009080; tRNAsynth_1a_anticodon-bd.
+DR   InterPro; IPR009008; Val/Leu/Ile-tRNA-synth_edit.
+DR   InterPro; IPR010663; Znf_DNA_glyclase/IsotRNA_synth.
+DR   PANTHER; PTHR11946:SF9; PTHR11946:SF9; 1.
+DR   Pfam; PF08264; Anticodon_1; 1.
+DR   Pfam; PF00133; tRNA-synt_1; 1.
+DR   Pfam; PF06827; zf-FPG_IleRS; 1.
+DR   PRINTS; PR00984; TRNASYNTHILE.
+DR   SUPFAM; SSF47323; SSF47323; 1.
+DR   SUPFAM; SSF50677; SSF50677; 1.
+DR   TIGRFAMs; TIGR00392; ileS; 1.
+DR   PROSITE; PS00178; AA_TRNA_LIGASE_I; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Aminoacyl-tRNA synthetase; ATP-binding; Cytoplasm;
+KW   Direct protein sequencing; Ligase; Metal-binding; Nucleotide-binding;
+KW   Protein biosynthesis; Zinc.
+FT   CHAIN         1    917       Isoleucine--tRNA ligase.
+FT                                /FTId=PRO_0000098463.
+FT   MOTIF        57     67       "HIGH" region.
+FT   MOTIF       595    599       "KMSKS" region.
+FT   METAL       886    886       Zinc.
+FT   METAL       889    889       Zinc.
+FT   METAL       906    906       Zinc.
+FT   METAL       909    909       Zinc.
+FT   BINDING     554    554       Aminoacyl-adenylate.
+FT   BINDING     598    598       ATP. {ECO:0000250}.
+FT   BINDING     632    632       tRNA.
+FT   BINDING     640    640       tRNA.
+FT   HELIX         4      6       {ECO:0000244|PDB:1FFY}.
+FT   HELIX        20     33       {ECO:0000244|PDB:1FFY}.
+FT   HELIX        36     43       {ECO:0000244|PDB:1FFY}.
+FT   TURN         44     46       {ECO:0000244|PDB:1FFY}.
+FT   STRAND       58     61       {ECO:0000244|PDB:1FFY}.
+FT   HELIX        65     82       {ECO:0000244|PDB:1FFY}.
+FT   TURN         83     85       {ECO:0000244|PDB:1FFY}.
+FT   STRAND       93     95       {ECO:0000244|PDB:1FFY}.
+FT   HELIX        99    108       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       117    140       {ECO:0000244|PDB:1FFY}.
+FT   TURN        141    143       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       157    172       {ECO:0000244|PDB:1FFY}.
+FT   STRAND      176    186       {ECO:0000244|PDB:1FFY}.
+FT   TURN        187    190       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       195    197       {ECO:0000244|PDB:1FFY}.
+FT   STRAND      198    209       {ECO:0000244|PDB:1FFY}.
+FT   STRAND      212    214       {ECO:0000244|PDB:1QU3}.
+FT   HELIX       220    222       {ECO:0000244|PDB:1FFY}.
+FT   STRAND      230    232       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       234    236       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       237    239       {ECO:0000244|PDB:1QU3}.
+FT   STRAND      242    245       {ECO:0000244|PDB:1QU3}.
+FT   TURN        256    259       {ECO:0000244|PDB:1FFY}.
+FT   TURN        265    268       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       269    272       {ECO:0000244|PDB:1FFY}.
+FT   TURN        273    276       {ECO:0000244|PDB:1FFY}.
+FT   TURN        290    292       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       301    303       {ECO:0000244|PDB:1QU3}.
+FT   STRAND      306    312       {ECO:0000244|PDB:1QU3}.
+FT   STRAND      318    320       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       333    336       {ECO:0000244|PDB:1FFY}.
+FT   TURN        337    339       {ECO:0000244|PDB:1FFY}.
+FT   STRAND      340    342       {ECO:0000244|PDB:1FFY}.
+FT   STRAND      351    353       {ECO:0000244|PDB:1FFY}.
+FT   STRAND      363    365       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       369    372       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       375    377       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       380    383       {ECO:0000244|PDB:1FFY}.
+FT   STRAND      388    397       {ECO:0000244|PDB:1FFY}.
+FT   TURN        398    400       {ECO:0000244|PDB:1FFY}.
+FT   STRAND      405    414       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       416    428       {ECO:0000244|PDB:1FFY}.
+FT   STRAND      430    434       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       435    447       {ECO:0000244|PDB:1FFY}.
+FT   STRAND      454    456       {ECO:0000244|PDB:1FFY}.
+FT   STRAND      458    460       {ECO:0000244|PDB:1FFY}.
+FT   STRAND      469    471       {ECO:0000244|PDB:1QU3}.
+FT   HELIX       477    490       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       493    497       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       500    503       {ECO:0000244|PDB:1FFY}.
+FT   STRAND      504    507       {ECO:0000244|PDB:1QU3}.
+FT   STRAND      511    513       {ECO:0000244|PDB:1QU3}.
+FT   HELIX       527    532       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       534    537       {ECO:0000244|PDB:1FFY}.
+FT   TURN        538    541       {ECO:0000244|PDB:1FFY}.
+FT   STRAND      547    555       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       556    559       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       562    574       {ECO:0000244|PDB:1FFY}.
+FT   STRAND      578    585       {ECO:0000244|PDB:1FFY}.
+FT   STRAND      591    594       {ECO:0000244|PDB:1QU3}.
+FT   STRAND      598    601       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       606    612       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       615    623       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       635    657       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       664    667       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       671    673       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       676    697       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       701    713       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       714    719       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       720    728       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       736    756       {ECO:0000244|PDB:1FFY}.
+FT   TURN        757    759       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       761    768       {ECO:0000244|PDB:1FFY}.
+FT   STRAND      775    778       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       779    781       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       792    817       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       824    826       {ECO:0000244|PDB:1FFY}.
+FT   STRAND      827    832       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       839    842       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       843    845       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       849    852       {ECO:0000244|PDB:1FFY}.
+FT   STRAND      855    860       {ECO:0000244|PDB:1FFY}.
+FT   STRAND      868    871       {ECO:0000244|PDB:1FFY}.
+FT   STRAND      874    880       {ECO:0000244|PDB:1FFY}.
+FT   STRAND      882    885       {ECO:0000244|PDB:1FFY}.
+FT   TURN        887    889       {ECO:0000244|PDB:1FFY}.
+FT   STRAND      892    894       {ECO:0000244|PDB:1FFY}.
+FT   STRAND      897    899       {ECO:0000244|PDB:1FFY}.
+FT   STRAND      902    905       {ECO:0000244|PDB:1FFY}.
+FT   HELIX       907    914       {ECO:0000244|PDB:1FFY}.
+SQ   SEQUENCE   917 AA;  104885 MW;  8A2B644A03A85636 CRC64;
+     MDYKETLLMP KTDFPMRGGL PNKEPQIQEK WDAEDQYHKA LEKNKGNETF ILHDGPPYAN
+     GNLHMGHALN KILKDFIVRY KTMQGFYAPY VPGWDTHGLP IEQALTKKGV DRKKMSTAEF
+     REKCKEFALE QIELQKKDFR RLGVRGDFND PYITLKPEYE AAQIRIFGEM ADKGLIYKGK
+     KPVYWSPSSE SSLAEAEIEY HDKRSASIYV AFNVKDDKGV VDADAKFIIW TTTPWTIPSN
+     VAITVHPELK YGQYNVNGEK YIIAEALSDA VAEALDWDKA SIKLEKEYTG KELEYVVAQH
+     PFLDRESLVI NGDHVTTDAG TGCVHTAPGH GEDDYIVGQK YELPVISPID DKGVFTEEGG
+     QFEGMFYDKA NKAVTDLLTE KGALLKLDFI THSYPHDWRT KKPVIFRATP QWFASISKVR
+     QDILDAIENT NFKVNWGKTR IYNMVRDRGE WVISRQRVWG VPLPVFYAEN GEIIMTKETV
+     NHVADLFAEH GSNIWFEREA KDLLPEGFTH PGSPNGTFTK ETDIMDVWFD SGSSHRGVLE
+     TRPELSFPAD MYLEGSDQYR GWFNSSITTS VATRGVSPYK FLLSHGFVMD GEGKKMSKSL
+     GNVIVPDQVV KQKGADIARL WVSSTDYLAD VRISDEILKQ TSDVYRKIRN TLRFMLGNIN
+     DFNPDTDSIP ESELLEVDRY LLNRLREFTA STINNYENFD YLNIYQEVQN FINVELSNFY
+     LDYGKDILYI EQRDSHIRRS MQTVLYQILV DMTKLLAPIL VHTAEEVWSH TPHVKEESVH
+     LADMPKVVEV DQALLDKWRT FMNLRDDVNR ALETARNEKV IGKSLEAKVT IASNDKFNAS
+     EFLTSFDALH QLFIVSQVKV VDKLDDQATA YEHGDIVIEH ADGEKCERCW NYSEDLGAVD
+     ELTHLCPRCQ QVVKSLV
+//

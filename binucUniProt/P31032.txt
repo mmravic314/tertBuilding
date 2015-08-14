@@ -1,0 +1,105 @@
+ID   T2M4_NEIGO              Reviewed;         286 AA.
+AC   P31032;
+DT   01-JUL-1993, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUL-1993, sequence version 1.
+DT   22-JUL-2015, entry version 90.
+DE   RecName: Full=Type-2 restriction enzyme NgoMIV;
+DE            Short=R.NgoMIV;
+DE            EC=3.1.21.4;
+DE   AltName: Full=Endonuclease NgoMIV;
+DE   AltName: Full=Type II restriction enzyme NgoMIV;
+GN   Name=ngoMIVR;
+OS   Neisseria gonorrhoeae.
+OC   Bacteria; Proteobacteria; Betaproteobacteria; Neisseriales;
+OC   Neisseriaceae; Neisseria.
+OX   NCBI_TaxID=485;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=MS11;
+RX   PubMed=1321116;
+RA   Stein D.C., Chien R., Seifert H.S.;
+RT   "Construction of a Neisseria gonorrhoeae MS11 derivative deficient in
+RT   NgoMI restriction and modification.";
+RL   J. Bacteriol. 174:4899-4906(1992).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (1.6 ANGSTROMS).
+RX   PubMed=10966652; DOI=10.1038/79032;
+RA   Deibert M., Grazulis S., Sasnauskas G., Siksnys V., Huber R.;
+RT   "Structure of the tetrameric restriction endonuclease NgoMIV in
+RT   complex with cleaved DNA.";
+RL   Nat. Struct. Biol. 7:792-799(2000).
+CC   -!- FUNCTION: Recognizes the double-stranded sequence GCCGGC and
+CC       cleaves after G-1.
+CC   -!- CATALYTIC ACTIVITY: Endonucleolytic cleavage of DNA to give
+CC       specific double-stranded fragments with terminal 5'-phosphates.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC       Note=Binds 2 magnesium ions per subunit.;
+CC   -!- SUBUNIT: Homotetramer.
+CC   -!- CAUTION: Was originally known as R.ngomI.
+CC       {ECO:0000305|PubMed:1321116}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M86915; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   PIR; B42709; B42709.
+DR   RefSeq; WP_003688519.1; NZ_JPOZ01000001.1.
+DR   PDB; 1FIU; X-ray; 1.60 A; A/B/C/D=1-286.
+DR   PDB; 4ABT; X-ray; 2.22 A; A/B=3-286.
+DR   PDBsum; 1FIU; -.
+DR   PDBsum; 4ABT; -.
+DR   ProteinModelPortal; P31032; -.
+DR   SMR; P31032; 1-286.
+DR   STRING; 528357.NgonPI_010100008387; -.
+DR   EvolutionaryTrace; P31032; -.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0009036; F:Type II site-specific deoxyribonuclease activity; IEA:UniProtKB-EC.
+DR   GO; GO:0009307; P:DNA restriction-modification system; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.50.10010; -; 1.
+DR   InterPro; IPR011335; Restrct_endonuc-II-like.
+DR   InterPro; IPR015105; Restrct_endonuc_II_NgoMIV.
+DR   Pfam; PF09015; NgoMIV_restric; 1.
+DR   SUPFAM; SSF52980; SSF52980; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Endonuclease; Hydrolase; Magnesium; Metal-binding;
+KW   Nuclease; Restriction system.
+FT   CHAIN         1    286       Type-2 restriction enzyme NgoMIV.
+FT                                /FTId=PRO_0000077347.
+FT   METAL       140    140       Magnesium 1.
+FT   METAL       140    140       Magnesium 2.
+FT   METAL       186    186       Magnesium 1; via carbonyl oxygen.
+FT   HELIX         4     18       {ECO:0000244|PDB:1FIU}.
+FT   HELIX        38     50       {ECO:0000244|PDB:1FIU}.
+FT   HELIX        62     81       {ECO:0000244|PDB:1FIU}.
+FT   HELIX        82     84       {ECO:0000244|PDB:1FIU}.
+FT   TURN         85     87       {ECO:0000244|PDB:1FIU}.
+FT   STRAND       92     96       {ECO:0000244|PDB:1FIU}.
+FT   STRAND       99    101       {ECO:0000244|PDB:4ABT}.
+FT   HELIX       104    107       {ECO:0000244|PDB:1FIU}.
+FT   HELIX       109    112       {ECO:0000244|PDB:1FIU}.
+FT   HELIX       113    121       {ECO:0000244|PDB:1FIU}.
+FT   HELIX       125    131       {ECO:0000244|PDB:1FIU}.
+FT   STRAND      140    145       {ECO:0000244|PDB:1FIU}.
+FT   HELIX       150    153       {ECO:0000244|PDB:1FIU}.
+FT   STRAND      155    157       {ECO:0000244|PDB:1FIU}.
+FT   STRAND      179    189       {ECO:0000244|PDB:1FIU}.
+FT   HELIX       194    196       {ECO:0000244|PDB:1FIU}.
+FT   HELIX       197    208       {ECO:0000244|PDB:1FIU}.
+FT   STRAND      210    212       {ECO:0000244|PDB:1FIU}.
+FT   STRAND      215    220       {ECO:0000244|PDB:1FIU}.
+FT   HELIX       225    232       {ECO:0000244|PDB:1FIU}.
+FT   STRAND      233    237       {ECO:0000244|PDB:1FIU}.
+FT   STRAND      239    243       {ECO:0000244|PDB:1FIU}.
+FT   HELIX       246    256       {ECO:0000244|PDB:1FIU}.
+FT   HELIX       259    270       {ECO:0000244|PDB:1FIU}.
+FT   STRAND      273    276       {ECO:0000244|PDB:1FIU}.
+FT   HELIX       277    279       {ECO:0000244|PDB:1FIU}.
+FT   HELIX       280    283       {ECO:0000244|PDB:1FIU}.
+SQ   SEQUENCE   286 AA;  31760 MW;  6609772EF21083F6 CRC64;
+     MNPLFTQERR IFHKKLLDGN ILATNNRGVV SNADGSNTRS FNIAKGIADL LHSETVSERL
+     PGQTSGNAFE AICSEFVQSA FEKLQHIRPG DWNVKQVGSR NRLEIARYQQ YAHLTALAKA
+     AEENPELAAA LGSDYTITPD IIVTRNLIAD AEINRNEFLV DENIATYASL RAGNGNMPLL
+     HASISCKWTI RSDRAQNARS EGLNLVRNRK GRLPHIVVVT AEPTPSRISS IALGTGEIDC
+     VYHFALYELE QILQSLNYED ALDLFYIMVN GKRLKDISDL PLDLAV
+//

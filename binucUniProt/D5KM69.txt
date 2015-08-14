@@ -1,0 +1,103 @@
+ID   D5KM69_THEET            Unreviewed;       224 AA.
+AC   D5KM69;
+DT   15-JUN-2010, integrated into UniProtKB/TrEMBL.
+DT   15-JUN-2010, sequence version 1.
+DT   29-APR-2015, entry version 27.
+DE   RecName: Full=Redox-sensing transcriptional repressor Rex {ECO:0000256|HAMAP-Rule:MF_01131};
+GN   Name=rex {ECO:0000256|HAMAP-Rule:MF_01131};
+OS   Thermoanaerobacter ethanolicus JW 200.
+OC   Bacteria; Firmicutes; Clostridia; Thermoanaerobacterales;
+OC   Thermoanaerobacteraceae; Thermoanaerobacter.
+OX   NCBI_TaxID=509192 {ECO:0000313|EMBL:ADD92149.1};
+RN   [1] {ECO:0000313|EMBL:ADD92149.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=JW 200 {ECO:0000313|EMBL:ADD92149.1};
+RA   Pei J., Jing Q., Shao W.;
+RT   "A Novel Repressor/operator System Coupling Redox Signal with
+RT   Fermentation Pathway in Thermoanaerobacter ethanolicus.";
+RL   Submitted (JAN-2010) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:3WGG}
+RP   X-RAY CRYSTALLOGRAPHY (2.10 ANGSTROMS).
+RX   PubMed=25527330; DOI=10.1016/j.bbrc.2014.12.049;
+RA   Zheng Y., Ko T.P., Yang Y., Shao W., Guo R.T.;
+RT   "Binding mode of the oxidized alpha-anomer of NAD+ to RSP, a Rex-
+RT   family repressor.";
+RL   Biochem. Biophys. Res. Commun. 456:733-736(2015).
+CC   -!- FUNCTION: Modulates transcription in response to changes in
+CC       cellular NADH/NAD(+) redox state. {ECO:0000256|HAMAP-
+CC       Rule:MF_01131, ECO:0000256|SAAS:SAAS00016634}.
+CC   -!- SUBUNIT: Homodimer. {ECO:0000256|HAMAP-Rule:MF_01131,
+CC       ECO:0000256|SAAS:SAAS00016617}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000256|HAMAP-Rule:MF_01131,
+CC       ECO:0000256|SAAS:SAAS00016602}.
+CC   -!- SIMILARITY: Belongs to the transcriptional regulatory Rex family.
+CC       {ECO:0000256|HAMAP-Rule:MF_01131}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; GU586295; ADD92149.1; -; Genomic_DNA.
+DR   PDB; 3WG9; X-ray; 1.97 A; A/B/C/D=1-224.
+DR   PDB; 3WGG; X-ray; 2.10 A; A/B=1-224.
+DR   PDB; 3WGH; X-ray; 2.05 A; A/B=1-224.
+DR   PDB; 3WGI; X-ray; 3.25 A; A/B/C/D=1-224.
+DR   PDBsum; 3WG9; -.
+DR   PDBsum; 3WGG; -.
+DR   PDBsum; 3WGH; -.
+DR   PDBsum; 3WGI; -.
+DR   ProteinModelPortal; D5KM69; -.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0050662; F:coenzyme binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0000166; F:nucleotide binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003700; F:sequence-specific DNA binding transcription factor activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0045892; P:negative regulation of transcription, DNA-templated; IEA:InterPro.
+DR   GO; GO:0051775; P:response to redox state; IEA:InterPro.
+DR   GO; GO:0006351; P:transcription, DNA-templated; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.10.10; -; 1.
+DR   Gene3D; 3.40.50.720; -; 1.
+DR   HAMAP; MF_01131; Rex; 1.
+DR   InterPro; IPR003781; CoA-bd.
+DR   InterPro; IPR016040; NAD(P)-bd_dom.
+DR   InterPro; IPR009718; Rex_DNA-bd_C_dom.
+DR   InterPro; IPR022876; Tscrpt_rep_Rex.
+DR   InterPro; IPR011991; WHTH_DNA-bd_dom.
+DR   Pfam; PF02629; CoA_binding; 1.
+DR   Pfam; PF06971; Put_DNA-bind_N; 1.
+DR   SMART; SM00881; CoA_binding; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3WG9, ECO:0000213|PDB:3WGG};
+KW   Cytoplasm {ECO:0000256|HAMAP-Rule:MF_01131,
+KW   ECO:0000256|SAAS:SAAS00016609};
+KW   DNA-binding {ECO:0000256|HAMAP-Rule:MF_01131,
+KW   ECO:0000256|SAAS:SAAS00016601};
+KW   NAD {ECO:0000213|PDB:3WGH, ECO:0000213|PDB:3WGI};
+KW   Nucleotide-binding {ECO:0000213|PDB:3WGH, ECO:0000213|PDB:3WGI};
+KW   Repressor {ECO:0000256|HAMAP-Rule:MF_01131,
+KW   ECO:0000256|SAAS:SAAS00016599};
+KW   Transcription {ECO:0000256|HAMAP-Rule:MF_01131,
+KW   ECO:0000256|SAAS:SAAS00016605};
+KW   Transcription regulation {ECO:0000256|HAMAP-Rule:MF_01131,
+KW   ECO:0000256|SAAS:SAAS00016605}.
+FT   DNA_BIND     17     56       H-T-H motif. {ECO:0000256|HAMAP-
+FT                                Rule:MF_01131}.
+FT   NP_BIND      91     96       NAD. {ECO:0000256|HAMAP-Rule:MF_01131}.
+FT   NP_BIND      94     95       NAD. {ECO:0000213|PDB:3WGH,
+FT                                ECO:0000213|PDB:3WGI}.
+FT   NP_BIND     193    195       NAD. {ECO:0000213|PDB:3WGH}.
+FT   BINDING     102    102       NAD. {ECO:0000213|PDB:3WGH,
+FT                                ECO:0000213|PDB:3WGI}.
+FT   BINDING     117    117       NAD. {ECO:0000213|PDB:3WGH,
+FT                                ECO:0000213|PDB:3WGI}.
+FT   BINDING     154    154       NAD; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:3WGH,
+FT                                ECO:0000213|PDB:3WGI}.
+FT   BINDING     162    162       NAD. {ECO:0000213|PDB:3WGH}.
+FT   BINDING     177    177       NAD; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:3WGH}.
+SQ   SEQUENCE   224 AA;  25441 MW;  101D9919FCF6F151 CRC64;
+     MSKKTIVSMA VIRRLPRYHR YLEELLKNDV KRISSRELSE KMGVTASQIR QDLNNFGGFG
+     QQGYGYNVEE LYNNLTKILG LDKTYNTIII GAGNLGQAIA NYTSFEKSGF NLKGIFDINP
+     RLFGLKIRDV EVMDVETVED FIARNKIDIG ILCIPKDNAQ YTADRLVRAG IKAIWNFLPI
+     DLKVPDDVIL ENVHLSDSLF TVSYRLNEEE LFKKLKGETA KIDG
+//

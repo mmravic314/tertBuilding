@@ -1,0 +1,74 @@
+ID   COX4_PARDE              Reviewed;          50 AA.
+AC   P77921;
+DT   01-DEC-2000, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   24-JUN-2015, entry version 82.
+DE   RecName: Full=Cytochrome c oxidase subunit 4;
+DE            EC=1.9.3.1;
+DE   AltName: Full=Cytochrome aa3 subunit 4;
+DE   AltName: Full=Cytochrome c oxidase polypeptide IV;
+GN   Name=ctaH;
+OS   Paracoccus denitrificans.
+OC   Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales;
+OC   Rhodobacteraceae; Paracoccus.
+OX   NCBI_TaxID=266;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND FUNCTION.
+RC   STRAIN=Pd 1222;
+RX   PubMed=9038156; DOI=10.1074/jbc.272.9.5514;
+RA   Witt H., Ludwig B.;
+RT   "Isolation, analysis, and deletion of the gene coding for subunit IV
+RT   of cytochrome c oxidase in Paracoccus denitrificans.";
+RL   J. Biol. Chem. 272:5514-5517(1997).
+RN   [2]
+RP   PROTEIN SEQUENCE OF 2-32.
+RX   PubMed=8068652; DOI=10.1021/bi00198a044;
+RA   Haltia T., Semo N., Arrondo J.L., Goni F.M., Freire E.;
+RT   "Thermodynamic and structural stability of cytochrome c oxidase from
+RT   Paracoccus denitrificans.";
+RL   Biochemistry 33:9731-9740(1994).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS).
+RX   PubMed=7651515; DOI=10.1038/376660a0;
+RA   Iwata S., Ostermeier C., Ludwig B., Michel H.;
+RT   "Structure at 2.8-A resolution of cytochrome c oxidase from Paracoccus
+RT   denitrificans.";
+RL   Nature 376:660-669(1995).
+CC   -!- FUNCTION: Not required for enzymatic activity or proton pumping of
+CC       the cytochrome c oxidase complex. {ECO:0000269|PubMed:9038156}.
+CC   -!- CATALYTIC ACTIVITY: 4 ferrocytochrome c + O(2) + 4 H(+) = 4
+CC       ferricytochrome c + 2 H(2)O.
+CC   -!- SUBCELLULAR LOCATION: Cell inner membrane; Single-pass membrane
+CC       protein.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; Y08372; CAA69659.1; -; Genomic_DNA.
+DR   PDB; 1QLE; X-ray; 3.00 A; D=8-50.
+DR   PDBsum; 1QLE; -.
+DR   ProteinModelPortal; P77921; -.
+DR   SMR; P77921; 8-50.
+DR   STRING; 318586.Pden_0432; -.
+DR   EvolutionaryTrace; P77921; -.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0005886; C:plasma membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0004129; F:cytochrome-c oxidase activity; IEA:UniProtKB-EC.
+DR   Gene3D; 1.20.5.160; -; 1.
+DR   InterPro; IPR012422; Cyt_c_oxidase_su4_bac-aa3.
+DR   Pfam; PF07835; COX4_pro_2; 1.
+DR   SUPFAM; SSF81469; SSF81469; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cell inner membrane; Cell membrane;
+KW   Direct protein sequencing; Membrane; Oxidoreductase; Transmembrane;
+KW   Transmembrane helix.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:8068652}.
+FT   CHAIN         2     50       Cytochrome c oxidase subunit 4.
+FT                                /FTId=PRO_0000183904.
+FT   TOPO_DOM      2     17       Cytoplasmic.
+FT   TRANSMEM     18     49       Helical.
+FT   TOPO_DOM     50     50       Periplasmic.
+FT   HELIX        18     47       {ECO:0000244|PDB:1QLE}.
+SQ   SEQUENCE   50 AA;  5501 MW;  1D6B6674CAF5EC88 CRC64;
+     MASHHEITDH KHGEMDIRHQ QATFAGFIKG ATWVSILSIA VLVFLALANS
+//

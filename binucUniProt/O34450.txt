@@ -1,0 +1,212 @@
+ID   NAGA_BACSU              Reviewed;         396 AA.
+AC   O34450;
+DT   15-JUL-1998, integrated into UniProtKB/Swiss-Prot.
+DT   01-JAN-1998, sequence version 1.
+DT   22-JUL-2015, entry version 112.
+DE   RecName: Full=N-acetylglucosamine-6-phosphate deacetylase {ECO:0000303|PubMed:14557261};
+DE            EC=3.5.1.25 {ECO:0000250|UniProtKB:P0AF18};
+DE   AltName: Full=GlcNAc 6-P deacetylase {ECO:0000303|PubMed:14557261};
+GN   Name=nagA; OrderedLocusNames=BSU35010;
+OS   Bacillus subtilis (strain 168).
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus.
+OX   NCBI_TaxID=224308;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RA   Lazarevic V., Soldo B., Rivolta C., Reynolds S., Mauel C.,
+RA   Karamata D.;
+RT   "Nucleotide sequence of the 300-304 chromosomal segment of Bacillus
+RT   subtilis.";
+RL   Submitted (NOV-1997) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=168;
+RX   PubMed=9384377; DOI=10.1038/36786;
+RA   Kunst F., Ogasawara N., Moszer I., Albertini A.M., Alloni G.,
+RA   Azevedo V., Bertero M.G., Bessieres P., Bolotin A., Borchert S.,
+RA   Borriss R., Boursier L., Brans A., Braun M., Brignell S.C., Bron S.,
+RA   Brouillet S., Bruschi C.V., Caldwell B., Capuano V., Carter N.M.,
+RA   Choi S.-K., Codani J.-J., Connerton I.F., Cummings N.J., Daniel R.A.,
+RA   Denizot F., Devine K.M., Duesterhoeft A., Ehrlich S.D., Emmerson P.T.,
+RA   Entian K.-D., Errington J., Fabret C., Ferrari E., Foulger D.,
+RA   Fritz C., Fujita M., Fujita Y., Fuma S., Galizzi A., Galleron N.,
+RA   Ghim S.-Y., Glaser P., Goffeau A., Golightly E.J., Grandi G.,
+RA   Guiseppi G., Guy B.J., Haga K., Haiech J., Harwood C.R., Henaut A.,
+RA   Hilbert H., Holsappel S., Hosono S., Hullo M.-F., Itaya M.,
+RA   Jones L.-M., Joris B., Karamata D., Kasahara Y., Klaerr-Blanchard M.,
+RA   Klein C., Kobayashi Y., Koetter P., Koningstein G., Krogh S.,
+RA   Kumano M., Kurita K., Lapidus A., Lardinois S., Lauber J.,
+RA   Lazarevic V., Lee S.-M., Levine A., Liu H., Masuda S., Mauel C.,
+RA   Medigue C., Medina N., Mellado R.P., Mizuno M., Moestl D., Nakai S.,
+RA   Noback M., Noone D., O'Reilly M., Ogawa K., Ogiwara A., Oudega B.,
+RA   Park S.-H., Parro V., Pohl T.M., Portetelle D., Porwollik S.,
+RA   Prescott A.M., Presecan E., Pujic P., Purnelle B., Rapoport G.,
+RA   Rey M., Reynolds S., Rieger M., Rivolta C., Rocha E., Roche B.,
+RA   Rose M., Sadaie Y., Sato T., Scanlan E., Schleich S., Schroeter R.,
+RA   Scoffone F., Sekiguchi J., Sekowska A., Seror S.J., Serror P.,
+RA   Shin B.-S., Soldo B., Sorokin A., Tacconi E., Takagi T., Takahashi H.,
+RA   Takemaru K., Takeuchi M., Tamakoshi A., Tanaka T., Terpstra P.,
+RA   Tognoni A., Tosato V., Uchiyama S., Vandenbol M., Vannier F.,
+RA   Vassarotti A., Viari A., Wambutt R., Wedler E., Wedler H.,
+RA   Weitzenegger T., Winters P., Wipat A., Yamamoto H., Yamane K.,
+RA   Yasumoto K., Yata K., Yoshida K., Yoshikawa H.-F., Zumstein E.,
+RA   Yoshikawa H., Danchin A.;
+RT   "The complete genome sequence of the Gram-positive bacterium Bacillus
+RT   subtilis.";
+RL   Nature 390:249-256(1997).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (2.05 ANGSTROMS) IN COMPLEX WITH IRON AND
+RP   REACTION PRODUCT, FUNCTION, COFACTOR, SUBUNIT, AND REACTION MECHANISM.
+RC   STRAIN=168 / IG20;
+RX   PubMed=14557261; DOI=10.1074/jbc.M310165200;
+RA   Vincent F., Yates D., Garman E., Davies G.J., Brannigan J.A.;
+RT   "The three-dimensional structure of the N-acetylglucosamine-6-
+RT   phosphate deacetylase, NagA, from Bacillus subtilis: a member of the
+RT   urease superfamily.";
+RL   J. Biol. Chem. 279:2809-2816(2004).
+CC   -!- FUNCTION: Involved in the first committed step in the biosynthesis
+CC       of amino-sugar-nucleotides. Catalyzes the hydrolysis of the N-
+CC       acetyl group of N-acetylglucosamine-6-phosphate (GlcNAc-6-P) to
+CC       yield glucosamine 6-phosphate and acetate.
+CC       {ECO:0000269|PubMed:14557261}.
+CC   -!- CATALYTIC ACTIVITY: N-acetyl-D-glucosamine 6-phosphate + H(2)O =
+CC       D-glucosamine 6-phosphate + acetate.
+CC       {ECO:0000250|UniProtKB:P0AF18}.
+CC   -!- COFACTOR:
+CC       Name=a divalent metal cation; Xref=ChEBI:CHEBI:60240;
+CC         Evidence={ECO:0000269|PubMed:14557261};
+CC       Note=Binds 2 divalent metal cations per subunit.
+CC       {ECO:0000269|PubMed:14557261};
+CC   -!- PATHWAY: Amino-sugar metabolism; N-acetylneuraminate degradation;
+CC       D-fructose 6-phosphate from N-acetylneuraminate: step 4/5.
+CC       {ECO:0000305}.
+CC   -!- SUBUNIT: Homodimer. {ECO:0000269|PubMed:14557261}.
+CC   -!- SIMILARITY: Belongs to the NagA family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF017113; AAC67285.1; -; Genomic_DNA.
+DR   EMBL; AL009126; CAB15506.1; -; Genomic_DNA.
+DR   PIR; A69664; A69664.
+DR   RefSeq; NP_391381.1; NC_000964.3.
+DR   RefSeq; WP_003243413.1; NZ_JNCM01000033.1.
+DR   PDB; 2VHL; X-ray; 2.05 A; A/B=1-396.
+DR   PDBsum; 2VHL; -.
+DR   ProteinModelPortal; O34450; -.
+DR   SMR; O34450; 2-394.
+DR   STRING; 224308.Bsubs1_010100018951; -.
+DR   MEROPS; M38.983; -.
+DR   PaxDb; O34450; -.
+DR   EnsemblBacteria; CAB15506; CAB15506; BSU35010.
+DR   GeneID; 936621; -.
+DR   KEGG; bsu:BSU35010; -.
+DR   PATRIC; 18979008; VBIBacSub10457_3666.
+DR   GenoList; BSU35010; -.
+DR   eggNOG; COG1820; -.
+DR   HOGENOM; HOG000275009; -.
+DR   InParanoid; O34450; -.
+DR   KO; K01443; -.
+DR   OMA; HIHGFHG; -.
+DR   OrthoDB; EOG6W45T4; -.
+DR   PhylomeDB; O34450; -.
+DR   BioCyc; BSUB:BSU35010-MONOMER; -.
+DR   SABIO-RK; O34450; -.
+DR   UniPathway; UPA00629; UER00683.
+DR   EvolutionaryTrace; O34450; -.
+DR   Proteomes; UP000001570; Chromosome.
+DR   GO; GO:0005506; F:iron ion binding; IDA:UniProtKB.
+DR   GO; GO:0008448; F:N-acetylglucosamine-6-phosphate deacetylase activity; IDA:UniProtKB.
+DR   GO; GO:0042803; F:protein homodimerization activity; IDA:UniProtKB.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:UniProtKB-KW.
+DR   GO; GO:0006046; P:N-acetylglucosamine catabolic process; IDA:UniProtKB.
+DR   GO; GO:0019262; P:N-acetylneuraminate catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 2.30.40.10; -; 2.
+DR   InterPro; IPR006680; Amidohydro_1.
+DR   InterPro; IPR003764; GlcNAc_6-P_deAcase.
+DR   InterPro; IPR011059; Metal-dep_hydrolase_composite.
+DR   Pfam; PF01979; Amidohydro_1; 1.
+DR   PIRSF; PIRSF038994; NagA; 1.
+DR   SUPFAM; SSF51338; SSF51338; 2.
+DR   TIGRFAMs; TIGR00221; nagA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Carbohydrate metabolism; Complete proteome; Hydrolase;
+KW   Iron; Metal-binding; Reference proteome.
+FT   CHAIN         1    396       N-acetylglucosamine-6-phosphate
+FT                                deacetylase.
+FT                                /FTId=PRO_0000170914.
+FT   REGION      147    148       Substrate binding.
+FT                                {ECO:0000269|PubMed:14557261}.
+FT   REGION      226    227       Substrate binding.
+FT                                {ECO:0000269|PubMed:14557261}.
+FT   REGION      255    258       Substrate binding.
+FT                                {ECO:0000269|PubMed:14557261}.
+FT   REGION      314    316       Substrate binding.
+FT                                {ECO:0000269|PubMed:14557261}.
+FT   ACT_SITE    281    281       Proton donor.
+FT                                {ECO:0000305|PubMed:14557261}.
+FT   METAL        63     63       Iron 1; via tele nitrogen.
+FT                                {ECO:0000269|PubMed:14557261}.
+FT   METAL        65     65       Iron 1; via tele nitrogen.
+FT                                {ECO:0000269|PubMed:14557261}.
+FT   METAL       136    136       Iron 1. {ECO:0000269|PubMed:14557261}.
+FT   METAL       136    136       Iron 2. {ECO:0000269|PubMed:14557261}.
+FT   METAL       202    202       Iron 2; via tele nitrogen.
+FT                                {ECO:0000269|PubMed:14557261}.
+FT   METAL       223    223       Iron 2; via tele nitrogen.
+FT                                {ECO:0000269|PubMed:14557261}.
+FT   METAL       281    281       Iron 1. {ECO:0000269|PubMed:14557261}.
+FT   BINDING     234    234       Substrate.
+FT                                {ECO:0000250|UniProtKB:P0AF18}.
+FT   STRAND        5     13       {ECO:0000244|PDB:2VHL}.
+FT   STRAND       18     27       {ECO:0000244|PDB:2VHL}.
+FT   STRAND       30     37       {ECO:0000244|PDB:2VHL}.
+FT   STRAND       44     48       {ECO:0000244|PDB:2VHL}.
+FT   STRAND       54     57       {ECO:0000244|PDB:2VHL}.
+FT   STRAND       59     64       {ECO:0000244|PDB:2VHL}.
+FT   HELIX        72     74       {ECO:0000244|PDB:2VHL}.
+FT   HELIX        77     86       {ECO:0000244|PDB:2VHL}.
+FT   HELIX        87     90       {ECO:0000244|PDB:2VHL}.
+FT   STRAND       92     98       {ECO:0000244|PDB:2VHL}.
+FT   HELIX       104    120       {ECO:0000244|PDB:2VHL}.
+FT   HELIX       123    125       {ECO:0000244|PDB:2VHL}.
+FT   STRAND      126    136       {ECO:0000244|PDB:2VHL}.
+FT   STRAND      138    140       {ECO:0000244|PDB:2VHL}.
+FT   HELIX       142    144       {ECO:0000244|PDB:2VHL}.
+FT   HELIX       150    152       {ECO:0000244|PDB:2VHL}.
+FT   HELIX       158    167       {ECO:0000244|PDB:2VHL}.
+FT   TURN        168    170       {ECO:0000244|PDB:2VHL}.
+FT   STRAND      172    177       {ECO:0000244|PDB:2VHL}.
+FT   HELIX       179    181       {ECO:0000244|PDB:2VHL}.
+FT   HELIX       183    185       {ECO:0000244|PDB:2VHL}.
+FT   HELIX       186    193       {ECO:0000244|PDB:2VHL}.
+FT   STRAND      197    200       {ECO:0000244|PDB:2VHL}.
+FT   HELIX       207    215       {ECO:0000244|PDB:2VHL}.
+FT   STRAND      220    223       {ECO:0000244|PDB:2VHL}.
+FT   STRAND      226    228       {ECO:0000244|PDB:2VHL}.
+FT   STRAND      233    235       {ECO:0000244|PDB:2VHL}.
+FT   HELIX       237    244       {ECO:0000244|PDB:2VHL}.
+FT   STRAND      249    253       {ECO:0000244|PDB:2VHL}.
+FT   STRAND      255    259       {ECO:0000244|PDB:2VHL}.
+FT   HELIX       261    271       {ECO:0000244|PDB:2VHL}.
+FT   STRAND      275    279       {ECO:0000244|PDB:2VHL}.
+FT   TURN        284    287       {ECO:0000244|PDB:2VHL}.
+FT   STRAND      290    295       {ECO:0000244|PDB:2VHL}.
+FT   STRAND      298    303       {ECO:0000244|PDB:2VHL}.
+FT   STRAND      306    308       {ECO:0000244|PDB:2VHL}.
+FT   HELIX       321    332       {ECO:0000244|PDB:2VHL}.
+FT   HELIX       336    343       {ECO:0000244|PDB:2VHL}.
+FT   HELIX       345    351       {ECO:0000244|PDB:2VHL}.
+FT   TURN        354    356       {ECO:0000244|PDB:2VHL}.
+FT   STRAND      357    359       {ECO:0000244|PDB:2VHL}.
+FT   STRAND      368    371       {ECO:0000244|PDB:2VHL}.
+FT   STRAND      377    382       {ECO:0000244|PDB:2VHL}.
+FT   STRAND      385    389       {ECO:0000244|PDB:2VHL}.
+SQ   SEQUENCE   396 AA;  42622 MW;  852D53C71BAD6F54 CRC64;
+     MAESLLIKDI AIVTENEVIK NGYVGINDGK ISTVSTERPK EPYSKEIQAP ADSVLLPGMI
+     DIHIHGGYGA DTMDASFSTL DIMSSRLPEE GTTSFLATTI TQEHGNISQA LVNAREWKAA
+     EESSLLGAEL LGIHLEGPFV SPKRAGAQPK EWIRPSDVEL FKKWQQEAGG LIKIVTLAPE
+     EDQHFELIRH LKDESIIASM GHTDADSALL SDAAKAGASH MTHLYNAMSP FHHREPGVIG
+     TALAHDGFVT ELIADGIHSH PLAAKLAFLA KGSSKLILIT DSMRAKGLKD GVYEFGGQSV
+     TVRGRTALLS DGTLAGSILK MNEGARHMRE FTNCSWTDIA NITSENAAKQ LGIFDRKGSV
+     TVGKDADLVI VSSDCEVILT ICRGNIAFIS KEADQI
+//

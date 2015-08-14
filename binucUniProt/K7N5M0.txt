@@ -1,0 +1,99 @@
+ID   K7N5M0_BLAVI            Unreviewed;       159 AA.
+AC   K7N5M0;
+DT   09-JAN-2013, integrated into UniProtKB/TrEMBL.
+DT   09-JAN-2013, sequence version 1.
+DT   22-JUL-2015, entry version 22.
+DE   RecName: Full=Ferroxidase {ECO:0000256|PIRNR:PIRNR002560};
+DE            EC=1.16.3.1 {ECO:0000256|PIRNR:PIRNR002560};
+OS   Blastochloris viridis (Rhodopseudomonas viridis).
+OC   Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales;
+OC   Hyphomicrobiaceae; Blastochloris.
+OX   NCBI_TaxID=1079 {ECO:0000313|PDB:4AM2};
+RN   [1] {ECO:0000213|PDB:4AM2, ECO:0000213|PDB:4AM4, ECO:0000213|PDB:4AM5}
+RP   X-RAY CRYSTALLOGRAPHY (1.58 ANGSTROMS) IN COMPLEX WITH HEME AND IRON.
+RX   PubMed=23056552; DOI=10.1371/JOURNAL.PONE.0046992;
+RA   Wahlgren W.Y., Omran H., von Stetten D., Royant A., van der Post S.,
+RA   Katona G.;
+RT   "Structural characterization of bacterioferritin from Blastochloris
+RT   viridis.";
+RL   PLoS ONE 7:e46992-e46992(2012).
+CC   -!- FUNCTION: Iron-storage protein, whose ferroxidase center binds
+CC       Fe(2+) ions, oxidizes them by dioxygen to Fe(3+), and participates
+CC       in the subsequent Fe(3+) oxide mineral core formation within the
+CC       central cavity of the protein complex.
+CC       {ECO:0000256|PIRNR:PIRNR002560}.
+CC   -!- CATALYTIC ACTIVITY: 4 Fe(2+) + 4 H(+) + O(2) = 4 Fe(3+) + 2 H(2)O.
+CC       {ECO:0000256|PIRNR:PIRNR002560}.
+CC   -!- SIMILARITY: Belongs to the bacterioferritin family.
+CC       {ECO:0000256|RuleBase:RU000623}.
+CC   -!- SIMILARITY: Contains 1 ferritin-like diiron domain.
+CC       {ECO:0000256|RuleBase:RU003668}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   PDB; 4AM2; X-ray; 1.80 A; A/B=1-159.
+DR   PDB; 4AM4; X-ray; 1.68 A; A/B=1-159.
+DR   PDB; 4AM5; X-ray; 1.58 A; A/B=1-159.
+DR   PDBsum; 4AM2; -.
+DR   PDBsum; 4AM4; -.
+DR   PDBsum; 4AM5; -.
+DR   GO; GO:0005623; C:cell; IEA:GOC.
+DR   GO; GO:0008199; F:ferric iron binding; IEA:InterPro.
+DR   GO; GO:0004322; F:ferroxidase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0006879; P:cellular iron ion homeostasis; IEA:UniProtKB-KW.
+DR   GO; GO:0006826; P:iron ion transport; IEA:InterPro.
+DR   Gene3D; 1.20.1260.10; -; 1.
+DR   InterPro; IPR002024; Bacterioferritin.
+DR   InterPro; IPR009040; Ferritin-like_diiron.
+DR   InterPro; IPR009078; Ferritin-like_SF.
+DR   InterPro; IPR012347; Ferritin-rel.
+DR   InterPro; IPR008331; Ferritin_DPS_dom.
+DR   Pfam; PF00210; Ferritin; 1.
+DR   PIRSF; PIRSF002560; Bacterioferritin; 1.
+DR   PRINTS; PR00601; BACFERRITIN.
+DR   SUPFAM; SSF47240; SSF47240; 1.
+DR   TIGRFAMs; TIGR00754; bfr; 1.
+DR   PROSITE; PS00549; BACTERIOFERRITIN; 1.
+DR   PROSITE; PS50905; FERRITIN_LIKE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4AM2, ECO:0000213|PDB:4AM4};
+KW   Heme {ECO:0000213|PDB:4AM2, ECO:0000213|PDB:4AM4};
+KW   Iron {ECO:0000213|PDB:4AM2, ECO:0000213|PDB:4AM4,
+KW   ECO:0000256|RuleBase:RU000623};
+KW   Iron storage {ECO:0000256|RuleBase:RU000623};
+KW   Metal-binding {ECO:0000213|PDB:4AM2, ECO:0000213|PDB:4AM4}.
+FT   METAL        18     18       Iron 1. {ECO:0000213|PDB:4AM2,
+FT                                ECO:0000213|PDB:4AM4,
+FT                                ECO:0000213|PDB:4AM5}.
+FT   METAL        51     51       Iron 1. {ECO:0000213|PDB:4AM2,
+FT                                ECO:0000213|PDB:4AM4,
+FT                                ECO:0000213|PDB:4AM5}.
+FT   METAL        51     51       Iron 2. {ECO:0000213|PDB:4AM2,
+FT                                ECO:0000213|PDB:4AM4,
+FT                                ECO:0000213|PDB:4AM5}.
+FT   METAL        52     52       Iron (heme axial ligand).
+FT                                {ECO:0000213|PDB:4AM2,
+FT                                ECO:0000213|PDB:4AM4,
+FT                                ECO:0000213|PDB:4AM5}.
+FT   METAL        54     54       Iron 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:4AM2,
+FT                                ECO:0000213|PDB:4AM4,
+FT                                ECO:0000213|PDB:4AM5}.
+FT   METAL        94     94       Iron 2. {ECO:0000213|PDB:4AM2,
+FT                                ECO:0000213|PDB:4AM4,
+FT                                ECO:0000213|PDB:4AM5}.
+FT   METAL       127    127       Iron 1. {ECO:0000213|PDB:4AM2,
+FT                                ECO:0000213|PDB:4AM4,
+FT                                ECO:0000213|PDB:4AM5}.
+FT   METAL       127    127       Iron 2. {ECO:0000213|PDB:4AM2,
+FT                                ECO:0000213|PDB:4AM4,
+FT                                ECO:0000213|PDB:4AM5}.
+FT   METAL       130    130       Iron 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:4AM2,
+FT                                ECO:0000213|PDB:4AM5}.
+SQ   SEQUENCE   159 AA;  18367 MW;  E7DC45585BBE2311 CRC64;
+     MKGDQKVIEY LNRGLRSELT AVSQYWLHYR MLEDWGYKDL AKKWRAESIE EMAHADKFVE
+     RILFLEGLPN LQTLDPLRIG QTVKEVLESD LAAEREARAL YQEGAAYAAS VGDFPSKNLF
+     EELMGDEEHH IDFLETQLDL VSKLGLELYA QHHIGKLDD
+//

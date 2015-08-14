@@ -1,0 +1,208 @@
+ID   STAD_RICCO              Reviewed;         396 AA.
+AC   P22337;
+DT   01-AUG-1991, integrated into UniProtKB/Swiss-Prot.
+DT   01-AUG-1991, sequence version 1.
+DT   07-JAN-2015, entry version 116.
+DE   RecName: Full=Acyl-[acyl-carrier-protein] desaturase, chloroplastic;
+DE            EC=1.14.19.2;
+DE   AltName: Full=Delta(9) stearoyl-acyl carrier protein desaturase;
+DE   AltName: Full=Stearoyl-ACP desaturase;
+DE   Flags: Precursor;
+OS   Ricinus communis (Castor bean).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; fabids; Malpighiales; Euphorbiaceae;
+OC   Acalyphoideae; Acalypheae; Ricinus.
+OX   NCBI_TaxID=3988;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=2006187; DOI=10.1073/pnas.88.6.2510;
+RA   Shanklin J., Somerville C.R.;
+RT   "Stearoyl-acyl-carrier-protein desaturase from higher plants is
+RT   structurally unrelated to the animal and fungal homologs.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 88:2510-2514(1991).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Endosperm;
+RX   PubMed=16668180; DOI=10.1104/pp.96.1.344;
+RA   Knutzon D.S., Scherer D.E., Schreckengost W.E.;
+RT   "Nucleotide sequence of a complementary DNA clone encoding stearoyl-
+RT   acyl carrier protein desaturase from castor bean, Ricinus communis.";
+RL   Plant Physiol. 96:344-345(1991).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (2.40 ANGSTROMS) OF 52-396 IN COMPLEX WITH IRON.
+RX   PubMed=8861937;
+RA   Lindqvist Y., Huang W., Schneider G., Shanklin J.;
+RT   "Crystal structure of delta9 stearoyl-acyl carrier protein desaturase
+RT   from castor seed and its relationship to other di-iron proteins.";
+RL   EMBO J. 15:4081-4092(1996).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (2.40 ANGSTROMS) OF 34-396 IN COMPLEX WITH IRON.
+RX   PubMed=12704186; DOI=10.1074/jbc.M301662200;
+RA   Moche M., Shanklin J., Ghoshal A., Lindqvist Y.;
+RT   "Azide and acetate complexes plus two iron-depleted crystal structures
+RT   of the di-iron enzyme delta9 stearoyl-acyl carrier protein desaturase.
+RT   Implications for oxygen activation and catalytic intermediates.";
+RL   J. Biol. Chem. 278:25072-25080(2003).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (2.65 ANGSTROMS) OF 34-396 IN COMPLEX WITH IRON,
+RP   MUTAGENESIS OF THR-232, AND CATALYTIC ACTIVITY.
+RX   PubMed=17088542; DOI=10.1073/pnas.0607165103;
+RA   Guy J.E., Abreu I.A., Moche M., Lindqvist Y., Whittle E., Shanklin J.;
+RT   "A single mutation in the castor Delta9-18:0-desaturase changes
+RT   reaction partitioning from desaturation to oxidase chemistry.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 103:17220-17224(2006).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (3.00 ANGSTROMS) OF 34-396, MUTAGENESIS OF
+RP   ASP-313, AND CATALYTIC ACTIVITY.
+RX   PubMed=21930947; DOI=10.1073/pnas.1110221108;
+RA   Guy J.E., Whittle E., Moche M., Lengqvist J., Lindqvist Y.,
+RA   Shanklin J.;
+RT   "Remote control of regioselectivity in acyl-acyl carrier protein-
+RT   desaturases.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 108:16594-16599(2011).
+CC   -!- FUNCTION: Converts stearoyl-ACP to oleoyl-ACP by introduction of a
+CC       cis double bond between carbons Delta(9) and Delta(10) of the acyl
+CC       chain.
+CC   -!- CATALYTIC ACTIVITY: Stearoyl-[acyl-carrier-protein] + reduced
+CC       acceptor + O(2) = oleoyl-[acyl-carrier-protein] + acceptor + 2
+CC       H(2)O. {ECO:0000269|PubMed:17088542, ECO:0000269|PubMed:21930947}.
+CC   -!- COFACTOR:
+CC       Name=Fe cation; Xref=ChEBI:CHEBI:24875;
+CC       Note=Binds 2 iron ions per subunit.;
+CC   -!- PATHWAY: Lipid metabolism; fatty acid metabolism.
+CC   -!- SUBUNIT: Homodimer. {ECO:0000269|PubMed:12704186,
+CC       ECO:0000269|PubMed:17088542, ECO:0000269|PubMed:8861937}.
+CC   -!- SUBCELLULAR LOCATION: Plastid, chloroplast. Plastid. Note=In green
+CC       tissue, found in chloroplasts. In non-photosynthetic tissue, found
+CC       in plastids.
+CC   -!- TISSUE SPECIFICITY: Higher levels in developing seeds than in leaf
+CC       and root tissues.
+CC   -!- SIMILARITY: Belongs to the fatty acid desaturase family.
+CC       {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAA74692.1; Type=Erroneous initiation; Note=Translation N-terminally shortened.; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M59857; AAA74692.1; ALT_INIT; mRNA.
+DR   EMBL; X56508; CAA39859.1; -; mRNA.
+DR   PIR; S16463; OHCSAD.
+DR   RefSeq; XP_002531889.1; XM_002531843.1.
+DR   PDB; 1AFR; X-ray; 2.40 A; A/B/C/D/E/F=52-396.
+DR   PDB; 1OQ4; X-ray; 2.40 A; A/B/C/D/E/F=34-396.
+DR   PDB; 1OQ7; X-ray; 3.20 A; A/B/C/D/E/F=34-396.
+DR   PDB; 1OQ9; X-ray; 2.40 A; A=34-396.
+DR   PDB; 1OQB; X-ray; 2.80 A; A/B/C/D/E/F=34-396.
+DR   PDB; 2J2F; X-ray; 2.65 A; A/B/C/D/E/F=34-396.
+DR   PDB; 2XZ0; X-ray; 3.00 A; A/B/C=34-396.
+DR   PDB; 2XZ1; X-ray; 3.35 A; A/B=34-396.
+DR   PDBsum; 1AFR; -.
+DR   PDBsum; 1OQ4; -.
+DR   PDBsum; 1OQ7; -.
+DR   PDBsum; 1OQ9; -.
+DR   PDBsum; 1OQB; -.
+DR   PDBsum; 2J2F; -.
+DR   PDBsum; 2XZ0; -.
+DR   PDBsum; 2XZ1; -.
+DR   ProteinModelPortal; P22337; -.
+DR   SMR; P22337; 51-396.
+DR   DIP; DIP-60379N; -.
+DR   PRIDE; P22337; -.
+DR   GeneID; 8271760; -.
+DR   KEGG; rcu:RCOM_1238330; -.
+DR   KO; K03921; -.
+DR   BRENDA; 1.14.19.2; 1204.
+DR   SABIO-RK; P22337; -.
+DR   UniPathway; UPA00199; -.
+DR   EvolutionaryTrace; P22337; -.
+DR   GO; GO:0009507; C:chloroplast; IEA:UniProtKB-SubCell.
+DR   GO; GO:0045300; F:acyl-[acyl-carrier-protein] desaturase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006633; P:fatty acid biosynthetic process; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.620.20; -; 1.
+DR   InterPro; IPR005067; Fatty_acid_desaturase-2.
+DR   InterPro; IPR009078; Ferritin-like_SF.
+DR   InterPro; IPR012348; RNR-rel.
+DR   InterPro; IPR005803; Stearoyl-ACP_desaturase_CS.
+DR   Pfam; PF03405; FA_desaturase_2; 1.
+DR   PIRSF; PIRSF000346; Dlt9_acylACP_des; 1.
+DR   SUPFAM; SSF47240; SSF47240; 1.
+DR   PROSITE; PS00574; FATTY_ACID_DESATUR_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Chloroplast; Fatty acid biosynthesis;
+KW   Fatty acid metabolism; Iron; Lipid biosynthesis; Lipid metabolism;
+KW   Metal-binding; NADP; Oxidoreductase; Plastid; Transit peptide.
+FT   TRANSIT       1     33       Chloroplast.
+FT   CHAIN        34    396       Acyl-[acyl-carrier-protein] desaturase,
+FT                                chloroplastic.
+FT                                /FTId=PRO_0000007137.
+FT   METAL       138    138       Iron 1. {ECO:0000269|PubMed:12704186,
+FT                                ECO:0000269|PubMed:17088542,
+FT                                ECO:0000269|PubMed:8861937}.
+FT   METAL       176    176       Iron 1. {ECO:0000269|PubMed:12704186,
+FT                                ECO:0000269|PubMed:17088542,
+FT                                ECO:0000269|PubMed:8861937}.
+FT   METAL       176    176       Iron 2. {ECO:0000269|PubMed:12704186,
+FT                                ECO:0000269|PubMed:17088542,
+FT                                ECO:0000269|PubMed:8861937}.
+FT   METAL       179    179       Iron 1; via pros nitrogen.
+FT                                {ECO:0000269|PubMed:12704186,
+FT                                ECO:0000269|PubMed:17088542,
+FT                                ECO:0000269|PubMed:8861937}.
+FT   METAL       229    229       Iron 2. {ECO:0000269|PubMed:12704186,
+FT                                ECO:0000269|PubMed:17088542,
+FT                                ECO:0000269|PubMed:8861937}.
+FT   METAL       262    262       Iron 1. {ECO:0000269|PubMed:12704186,
+FT                                ECO:0000269|PubMed:17088542,
+FT                                ECO:0000269|PubMed:8861937}.
+FT   METAL       262    262       Iron 2. {ECO:0000269|PubMed:12704186,
+FT                                ECO:0000269|PubMed:17088542,
+FT                                ECO:0000269|PubMed:8861937}.
+FT   METAL       265    265       Iron 2; via pros nitrogen.
+FT                                {ECO:0000269|PubMed:12704186,
+FT                                ECO:0000269|PubMed:17088542,
+FT                                ECO:0000269|PubMed:8861937}.
+FT   MUTAGEN     232    232       T->D,E: Decreases desaturase activity and
+FT                                increases oxidase activity.
+FT                                {ECO:0000269|PubMed:17088542}.
+FT   MUTAGEN     313    313       D->K,R: Decreases Delta(9) desaturase
+FT                                activity and increases Delta(4)
+FT                                desaturase activity.
+FT                                {ECO:0000269|PubMed:21930947}.
+FT   TURN         67     69       {ECO:0000244|PDB:1AFR}.
+FT   HELIX        70     75       {ECO:0000244|PDB:1AFR}.
+FT   HELIX        77     83       {ECO:0000244|PDB:1AFR}.
+FT   HELIX        85     87       {ECO:0000244|PDB:1AFR}.
+FT   HELIX        91     93       {ECO:0000244|PDB:1AFR}.
+FT   HELIX        97    100       {ECO:0000244|PDB:1AFR}.
+FT   HELIX       109    121       {ECO:0000244|PDB:1AFR}.
+FT   HELIX       125    139       {ECO:0000244|PDB:1AFR}.
+FT   HELIX       141    148       {ECO:0000244|PDB:1AFR}.
+FT   TURN        152    154       {ECO:0000244|PDB:1AFR}.
+FT   STRAND      157    160       {ECO:0000244|PDB:1AFR}.
+FT   HELIX       164    190       {ECO:0000244|PDB:1AFR}.
+FT   STRAND      191    193       {ECO:0000244|PDB:1OQ4}.
+FT   HELIX       195    208       {ECO:0000244|PDB:1AFR}.
+FT   HELIX       218    245       {ECO:0000244|PDB:1AFR}.
+FT   HELIX       249    279       {ECO:0000244|PDB:1AFR}.
+FT   HELIX       281    294       {ECO:0000244|PDB:1AFR}.
+FT   TURN        299    302       {ECO:0000244|PDB:1AFR}.
+FT   HELIX       311    322       {ECO:0000244|PDB:1AFR}.
+FT   HELIX       327    341       {ECO:0000244|PDB:1AFR}.
+FT   HELIX       343    345       {ECO:0000244|PDB:1AFR}.
+FT   HELIX       351    372       {ECO:0000244|PDB:1AFR}.
+FT   HELIX       376    379       {ECO:0000244|PDB:1AFR}.
+FT   STRAND      383    385       {ECO:0000244|PDB:1AFR}.
+FT   HELIX       387    389       {ECO:0000244|PDB:1AFR}.
+FT   STRAND      393    395       {ECO:0000244|PDB:1AFR}.
+SQ   SEQUENCE   396 AA;  45371 MW;  E50D4725996392AF CRC64;
+     MALKLNPFLS QTQKLPSFAL PPMASTRSPK FYMASTLKSG SKEVENLKKP FMPPREVHVQ
+     VTHSMPPQKI EIFKSLDNWA EENILVHLKP VEKCWQPQDF LPDPASDGFD EQVRELRERA
+     KEIPDDYFVV LVGDMITEEA LPTYQTMLNT LDGVRDETGA SPTSWAIWTR AWTAEENRHG
+     DLLNKYLYLS GRVDMRQIEK TIQYLIGSGM DPRTENSPYL GFIYTSFQER ATFISHGNTA
+     RQAKEHGDIK LAQICGTIAA DEKRHETAYT KIVEKLFEID PDGTVLAFAD MMRKKISMPA
+     HLMYDGRDDN LFDHFSAVAQ RLGVYTAKDY ADILEFLVGR WKVDKLTGLS AEGQKAQDYV
+     CRLPPRIRRL EERAQGRAKE APTMPFSWIF DRQVKL
+//

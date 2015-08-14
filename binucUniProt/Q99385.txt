@@ -1,0 +1,263 @@
+ID   VCX1_YEAST              Reviewed;         411 AA.
+AC   Q99385; D6VRM2; O13580; O13581;
+DT   07-FEB-2006, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   22-JUL-2015, entry version 107.
+DE   RecName: Full=Vacuolar calcium ion transporter;
+DE   AltName: Full=High copy number undoes manganese protein 1;
+DE   AltName: Full=Manganese resistance 1 protein;
+DE   AltName: Full=Vacuolar Ca(2+)/H(+) exchanger;
+GN   Name=VCX1; Synonyms=HUM1, MNR1; OrderedLocusNames=YDL128W;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=559292;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], FUNCTION, AND SUBCELLULAR LOCATION.
+RC   STRAIN=S288c / YPH1;
+RX   PubMed=8668190;
+RA   Pozos T.C., Sekler I., Cyert M.S.;
+RT   "The product of HUM1, a novel yeast gene, is required for vacuolar
+RT   Ca2+/H+ exchange and is related to mammalian Na+/Ca2+ exchangers.";
+RL   Mol. Cell. Biol. 16:3730-3741(1996).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], FUNCTION, AND VARIANT VCX1-D1
+RP   ILE-383.
+RX   PubMed=8628289;
+RA   Cunningham K.W., Fink G.R.;
+RT   "Calcineurin inhibits VCX1-dependent H+/Ca2+ exchange and induces Ca2+
+RT   ATPases in Saccharomyces cerevisiae.";
+RL   Mol. Cell. Biol. 16:2226-2237(1996).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND MUTANTS MANGANESE-RESISTANT.
+RC   STRAIN=ATCC 201238 / W303-1B;
+RX   PubMed=10219995;
+RX   DOI=10.1002/(SICI)1097-0061(19990330)15:5<371::AID-YEA380>3.3.CO;2-G;
+RA   Del Pozo L., Osaba L., Corchero J., Jimenez A.;
+RT   "A single nucleotide change in the MNR1 (VCX1/HUM1) gene determines
+RT   resistance to Manganese in Saccharomyces cerevisae.";
+RL   Yeast 15:371-375(1999).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=9169867;
+RA   Jacq C., Alt-Moerbe J., Andre B., Arnold W., Bahr A., Ballesta J.P.G.,
+RA   Bargues M., Baron L., Becker A., Biteau N., Bloecker H., Blugeon C.,
+RA   Boskovic J., Brandt P., Brueckner M., Buitrago M.J., Coster F.,
+RA   Delaveau T., del Rey F., Dujon B., Eide L.G., Garcia-Cantalejo J.M.,
+RA   Goffeau A., Gomez-Peris A., Granotier C., Hanemann V., Hankeln T.,
+RA   Hoheisel J.D., Jaeger W., Jimenez A., Jonniaux J.-L., Kraemer C.,
+RA   Kuester H., Laamanen P., Legros Y., Louis E.J., Moeller-Rieker S.,
+RA   Monnet A., Moro M., Mueller-Auer S., Nussbaumer B., Paricio N.,
+RA   Paulin L., Perea J., Perez-Alonso M., Perez-Ortin J.E., Pohl T.M.,
+RA   Prydz H., Purnelle B., Rasmussen S.W., Remacha M.A., Revuelta J.L.,
+RA   Rieger M., Salom D., Saluz H.P., Saiz J.E., Saren A.-M., Schaefer M.,
+RA   Scharfe M., Schmidt E.R., Schneider C., Scholler P., Schwarz S.,
+RA   Soler-Mira A., Urrestarazu L.A., Verhasselt P., Vissers S., Voet M.,
+RA   Volckaert G., Wagner G., Wambutt R., Wedler E., Wedler H., Woelfl S.,
+RA   Harris D.E., Bowman S., Brown D., Churcher C.M., Connor R., Dedman K.,
+RA   Gentles S., Hamlin N., Hunt S., Jones L., McDonald S., Murphy L.D.,
+RA   Niblett D., Odell C., Oliver K., Rajandream M.A., Richards C.,
+RA   Shore L., Walsh S.V., Barrell B.G., Dietrich F.S., Mulligan J.T.,
+RA   Allen E., Araujo R., Aviles E., Berno A., Carpenter J., Chen E.,
+RA   Cherry J.M., Chung E., Duncan M., Hunicke-Smith S., Hyman R.W.,
+RA   Komp C., Lashkari D., Lew H., Lin D., Mosedale D., Nakahara K.,
+RA   Namath A., Oefner P., Oh C., Petel F.X., Roberts D., Schramm S.,
+RA   Schroeder M., Shogren T., Shroff N., Winant A., Yelton M.A.,
+RA   Botstein D., Davis R.W., Johnston M., Andrews S., Brinkman R.,
+RA   Cooper J., Ding H., Du Z., Favello A., Fulton L., Gattung S.,
+RA   Greco T., Hallsworth K., Hawkins J., Hillier L.W., Jier M.,
+RA   Johnson D., Johnston L., Kirsten J., Kucaba T., Langston Y.,
+RA   Latreille P., Le T., Mardis E., Menezes S., Miller N., Nhan M.,
+RA   Pauley A., Peluso D., Rifkin L., Riles L., Taich A., Trevaskis E.,
+RA   Vignati D., Wilcox L., Wohldman P., Vaudin M., Wilson R.,
+RA   Waterston R., Albermann K., Hani J., Heumann K., Kleine K.,
+RA   Mewes H.-W., Zollner A., Zaccaria P.;
+RT   "The nucleotide sequence of Saccharomyces cerevisiae chromosome IV.";
+RL   Nature 387:75-78(1997).
+RN   [5]
+RP   GENOME REANNOTATION.
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=24374639; DOI=10.1534/g3.113.008995;
+RA   Engel S.R., Dietrich F.S., Fisk D.G., Binkley G., Balakrishnan R.,
+RA   Costanzo M.C., Dwight S.S., Hitz B.C., Karra K., Nash R.S., Weng S.,
+RA   Wong E.D., Lloyd P., Skrzypek M.S., Miyasato S.R., Simison M.,
+RA   Cherry J.M.;
+RT   "The reference genome sequence of Saccharomyces cerevisiae: Then and
+RT   now.";
+RL   G3 (Bethesda) 4:389-398(2014).
+RN   [6]
+RP   LEVEL OF PROTEIN EXPRESSION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562106; DOI=10.1038/nature02046;
+RA   Ghaemmaghami S., Huh W.-K., Bower K., Howson R.W., Belle A.,
+RA   Dephoure N., O'Shea E.K., Weissman J.S.;
+RT   "Global analysis of protein expression in yeast.";
+RL   Nature 425:737-741(2003).
+RN   [7]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-13, AND IDENTIFICATION
+RP   BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   STRAIN=YAL6B;
+RX   PubMed=15665377; DOI=10.1074/mcp.M400219-MCP200;
+RA   Gruhler A., Olsen J.V., Mohammed S., Mortensen P., Faergeman N.J.,
+RA   Mann M., Jensen O.N.;
+RT   "Quantitative phosphoproteomics applied to the yeast pheromone
+RT   signaling pathway.";
+RL   Mol. Cell. Proteomics 4:310-327(2005).
+RN   [8]
+RP   TOPOLOGY [LARGE SCALE ANALYSIS].
+RC   STRAIN=ATCC 208353 / W303-1A;
+RX   PubMed=16847258; DOI=10.1073/pnas.0604075103;
+RA   Kim H., Melen K., Oesterberg M., von Heijne G.;
+RT   "A global topology map of the Saccharomyces cerevisiae membrane
+RT   proteome.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 103:11142-11147(2006).
+RN   [9]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT MET-1, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=22814378; DOI=10.1073/pnas.1210303109;
+RA   Van Damme P., Lasa M., Polevoda B., Gazquez C., Elosegui-Artola A.,
+RA   Kim D.S., De Juan-Pardo E., Demeyer K., Hole K., Larrea E.,
+RA   Timmerman E., Prieto J., Arnesen T., Sherman F., Gevaert K.,
+RA   Aldabe R.;
+RT   "N-terminal acetylome analyses and functional insights of the N-
+RT   terminal acetyltransferase NatB.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 109:12449-12454(2012).
+CC   -!- FUNCTION: Has a role in promoting intracellular calcium ion
+CC       sequestration via the exchange of calcium ions for hydrogen ions
+CC       across the vacuolar membrane. Involved also in manganese ion
+CC       homeostasis via its uptake into the vacuole.
+CC       {ECO:0000269|PubMed:8628289, ECO:0000269|PubMed:8668190}.
+CC   -!- SUBCELLULAR LOCATION: Vacuole membrane
+CC       {ECO:0000269|PubMed:8668190}; Multi-pass membrane protein
+CC       {ECO:0000269|PubMed:8668190}.
+CC   -!- MISCELLANEOUS: Present with 7770 molecules/cell in log phase SD
+CC       medium. {ECO:0000269|PubMed:14562106}.
+CC   -!- SIMILARITY: Belongs to the sodium/potassium/calcium exchanger
+CC       family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U18944; AAC49550.1; -; Genomic_DNA.
+DR   EMBL; U36603; AAB60313.1; -; Genomic_DNA.
+DR   EMBL; AJ001272; CAA04645.1; -; Genomic_DNA.
+DR   EMBL; AJ001273; CAA04646.1; -; Genomic_DNA.
+DR   EMBL; Z74176; CAA98696.1; -; Genomic_DNA.
+DR   EMBL; BK006938; DAA11732.1; -; Genomic_DNA.
+DR   PIR; S61933; S61933.
+DR   RefSeq; NP_010155.1; NM_001180187.1.
+DR   PDB; 4K1C; X-ray; 2.30 A; A/B=1-411.
+DR   PDBsum; 4K1C; -.
+DR   ProteinModelPortal; Q99385; -.
+DR   SMR; Q99385; 22-401.
+DR   BioGrid; 31935; 25.
+DR   DIP; DIP-5039N; -.
+DR   MINT; MINT-523645; -.
+DR   TCDB; 2.A.19.2.2; the ca(2+):cation antiporter (caca) family.
+DR   MaxQB; Q99385; -.
+DR   PaxDb; Q99385; -.
+DR   PRIDE; Q99385; -.
+DR   EnsemblFungi; YDL128W; YDL128W; YDL128W.
+DR   GeneID; 851429; -.
+DR   KEGG; sce:YDL128W; -.
+DR   CYGD; YDL128w; -.
+DR   EuPathDB; FungiDB:YDL128W; -.
+DR   SGD; S000002286; VCX1.
+DR   eggNOG; COG0387; -.
+DR   HOGENOM; HOG000083011; -.
+DR   InParanoid; Q99385; -.
+DR   KO; K07300; -.
+DR   OMA; GMYVILA; -.
+DR   OrthoDB; EOG76HQ97; -.
+DR   BioCyc; YEAST:G3O-29527-MONOMER; -.
+DR   NextBio; 968648; -.
+DR   PRO; PR:Q99385; -.
+DR   Proteomes; UP000002311; Chromosome IV.
+DR   GO; GO:0000324; C:fungal-type vacuole; IDA:SGD.
+DR   GO; GO:0000329; C:fungal-type vacuole membrane; IDA:SGD.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0015369; F:calcium:proton antiporter activity; IDA:SGD.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0015386; F:potassium:proton antiporter activity; IMP:SGD.
+DR   GO; GO:0070588; P:calcium ion transmembrane transport; IDA:GOC.
+DR   GO; GO:0006816; P:calcium ion transport; IDA:SGD.
+DR   GO; GO:0006874; P:cellular calcium ion homeostasis; IMP:SGD.
+DR   GO; GO:0071805; P:potassium ion transmembrane transport; IMP:GOC.
+DR   GO; GO:0055085; P:transmembrane transport; IDA:SGD.
+DR   InterPro; IPR004713; CaH_exchang.
+DR   InterPro; IPR004798; CAX.
+DR   InterPro; IPR004837; NaCa_Exmemb.
+DR   InterPro; IPR030177; Vcx1.
+DR   PANTHER; PTHR31503:SF5; PTHR31503:SF5; 1.
+DR   Pfam; PF01699; Na_Ca_ex; 2.
+DR   TIGRFAMs; TIGR00846; caca2; 1.
+DR   TIGRFAMs; TIGR00378; cax; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Calcium; Calcium transport;
+KW   Complete proteome; Ion transport; Manganese; Membrane; Metal-binding;
+KW   Phosphoprotein; Reference proteome; Transmembrane;
+KW   Transmembrane helix; Transport; Vacuole.
+FT   CHAIN         1    411       Vacuolar calcium ion transporter.
+FT                                /FTId=PRO_0000209504.
+FT   TOPO_DOM      1     30       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM     31     53       Helical. {ECO:0000255}.
+FT   TOPO_DOM     54     59       Vacuolar. {ECO:0000255}.
+FT   TRANSMEM     60     82       Helical. {ECO:0000255}.
+FT   TOPO_DOM     83     91       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM     92    114       Helical. {ECO:0000255}.
+FT   TOPO_DOM    115    126       Vacuolar. {ECO:0000255}.
+FT   TRANSMEM    127    146       Helical. {ECO:0000255}.
+FT   TOPO_DOM    147    160       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM    161    183       Helical. {ECO:0000255}.
+FT   TOPO_DOM    184    203       Vacuolar. {ECO:0000255}.
+FT   TRANSMEM    204    226       Helical. {ECO:0000255}.
+FT   TOPO_DOM    227    252       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM    253    275       Helical. {ECO:0000255}.
+FT   TOPO_DOM    276    287       Vacuolar. {ECO:0000255}.
+FT   TRANSMEM    288    310       Helical. {ECO:0000255}.
+FT   TOPO_DOM    311    319       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM    320    342       Helical. {ECO:0000255}.
+FT   TOPO_DOM    343    348       Vacuolar. {ECO:0000255}.
+FT   TRANSMEM    349    371       Helical. {ECO:0000255}.
+FT   TOPO_DOM    372    380       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM    381    398       Helical. {ECO:0000255}.
+FT   TOPO_DOM    399    411       Vacuolar. {ECO:0000255}.
+FT   MOD_RES       1      1       N-acetylmethionine.
+FT                                {ECO:0000269|PubMed:22814378}.
+FT   MOD_RES      13     13       Phosphoserine.
+FT                                {ECO:0000269|PubMed:15665377}.
+FT   VARIANT     204    204       S -> A (in manganese-resistant mutant 2).
+FT   VARIANT     208    208       L -> P (in manganese-resistant mutant 1).
+FT   VARIANT     383    383       M -> I (in VCX1-D1).
+FT                                {ECO:0000269|PubMed:8628289}.
+FT   HELIX        25     36       {ECO:0000244|PDB:4K1C}.
+FT   HELIX        41     45       {ECO:0000244|PDB:4K1C}.
+FT   HELIX        46     56       {ECO:0000244|PDB:4K1C}.
+FT   HELIX        60     87       {ECO:0000244|PDB:4K1C}.
+FT   HELIX        91    100       {ECO:0000244|PDB:4K1C}.
+FT   HELIX       101    103       {ECO:0000244|PDB:4K1C}.
+FT   HELIX       104    114       {ECO:0000244|PDB:4K1C}.
+FT   TURN        115    117       {ECO:0000244|PDB:4K1C}.
+FT   HELIX       119    134       {ECO:0000244|PDB:4K1C}.
+FT   HELIX       136    146       {ECO:0000244|PDB:4K1C}.
+FT   HELIX       158    181       {ECO:0000244|PDB:4K1C}.
+FT   HELIX       193    219       {ECO:0000244|PDB:4K1C}.
+FT   TURN        220    222       {ECO:0000244|PDB:4K1C}.
+FT   HELIX       223    241       {ECO:0000244|PDB:4K1C}.
+FT   HELIX       250    273       {ECO:0000244|PDB:4K1C}.
+FT   HELIX       275    281       {ECO:0000244|PDB:4K1C}.
+FT   HELIX       286    292       {ECO:0000244|PDB:4K1C}.
+FT   HELIX       294    311       {ECO:0000244|PDB:4K1C}.
+FT   HELIX       315    331       {ECO:0000244|PDB:4K1C}.
+FT   HELIX       333    343       {ECO:0000244|PDB:4K1C}.
+FT   HELIX       354    373       {ECO:0000244|PDB:4K1C}.
+FT   HELIX       378    396       {ECO:0000244|PDB:4K1C}.
+SQ   SEQUENCE   411 AA;  44646 MW;  4A946818A02E8078 CRC64;
+     MDATTPLLTV ANSHPARNPK HTAWRAAVYD LQYILKASPL NFLLVFVPLG LIWGHFQLSH
+     TLTFLFNFLA IIPLAAILAN ATEELADKAG NTIGGLLNAT FGNAVELIVS IIALKKGQVR
+     IVQASMLGSL LSNLLLVLGL CFIFGGYNRV QQTFNQTAAQ TMSSLLAIAC ASLLIPAAFR
+     ATLPHGKEDH FIDGKILELS RGTSIVILIV YVLFLYFQLG SHHALFEQQE EETDEVMSTI
+     SRNPHHSLSV KSSLVILLGT TVIISFCADF LVGTIDNVVE STGLSKTFIG LIVIPIVGNA
+     AEHVTSVLVA MKDKMDLALG VAIGSSLQVA LFVTPFMVLV GWMIDVPMTL NFSTFETATL
+     FIAVFLSNYL ILDGESNWLE GVMSLAMYIL IAMAFFYYPD EKTLDSIGNS L
+//

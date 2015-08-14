@@ -1,0 +1,329 @@
+ID   RPOB_THET8              Reviewed;        1119 AA.
+AC   Q8RQE9; Q5SHB7;
+DT   16-JAN-2004, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-2002, sequence version 1.
+DT   29-APR-2015, entry version 96.
+DE   RecName: Full=DNA-directed RNA polymerase subunit beta {ECO:0000255|HAMAP-Rule:MF_01321};
+DE            Short=RNAP subunit beta {ECO:0000255|HAMAP-Rule:MF_01321};
+DE            EC=2.7.7.6 {ECO:0000255|HAMAP-Rule:MF_01321};
+DE   AltName: Full=RNA polymerase subunit beta {ECO:0000255|HAMAP-Rule:MF_01321};
+DE   AltName: Full=Transcriptase subunit beta {ECO:0000255|HAMAP-Rule:MF_01321};
+GN   Name=rpoB {ECO:0000255|HAMAP-Rule:MF_01321};
+GN   OrderedLocusNames=TTHA1813;
+OS   Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579).
+OC   Bacteria; Deinococcus-Thermus; Deinococci; Thermales; Thermaceae;
+OC   Thermus.
+OX   NCBI_TaxID=300852;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=12198314; DOI=10.1107/S0907444902011770;
+RA   Vassylyeva M.N., Lee J., Sekine S.I., Laptenko O., Kuramitsu S.,
+RA   Shibata T., Inoue Y., Borukhov S., Vassylyev D.G., Yokoyama S.;
+RT   "Purification, crystallization and initial crystallographic analysis
+RT   of RNA polymerase holoenzyme from Thermus thermophilus.";
+RL   Acta Crystallogr. D 58:1497-1500(2002).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=HB8 / ATCC 27634 / DSM 579;
+RA   Masui R., Kurokawa K., Nakagawa N., Tokunaga F., Koyama Y.,
+RA   Shibata T., Oshima T., Yokoyama S., Yasunaga T., Kuramitsu S.;
+RT   "Complete genome sequence of Thermus thermophilus HB8.";
+RL   Submitted (NOV-2004) to the EMBL/GenBank/DDBJ databases.
+CC   -!- FUNCTION: DNA-dependent RNA polymerase catalyzes the transcription
+CC       of DNA into RNA using the four ribonucleoside triphosphates as
+CC       substrates.
+CC   -!- CATALYTIC ACTIVITY: Nucleoside triphosphate + RNA(n) = diphosphate
+CC       + RNA(n+1). {ECO:0000255|HAMAP-Rule:MF_01321}.
+CC   -!- SUBUNIT: The RNAP catalytic core consists of 2 alpha, 1 beta, 1
+CC       beta' and 1 omega subunit. When a sigma factor is associated with
+CC       the core the holoenzyme is formed, which can initiate
+CC       transcription.
+CC   -!- SIMILARITY: Belongs to the RNA polymerase beta chain family.
+CC       {ECO:0000255|HAMAP-Rule:MF_01321}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AB083789; BAB89400.1; -; Genomic_DNA.
+DR   EMBL; AP008226; BAD71636.1; -; Genomic_DNA.
+DR   RefSeq; WP_011228935.1; NC_006461.1.
+DR   RefSeq; YP_145079.1; NC_006461.1.
+DR   PDB; 1IW7; X-ray; 2.60 A; C/M=1-1119.
+DR   PDB; 1SMY; X-ray; 2.70 A; C/M=1-1119.
+DR   PDB; 1ZYR; X-ray; 3.00 A; C/M=1-1119.
+DR   PDB; 2A68; X-ray; 2.50 A; C/M=1-1119.
+DR   PDB; 2A69; X-ray; 2.50 A; C/M=1-1119.
+DR   PDB; 2A6E; X-ray; 2.80 A; C/M=1-1119.
+DR   PDB; 2A6H; X-ray; 2.40 A; C/M=1-1119.
+DR   PDB; 2BE5; X-ray; 2.40 A; C/M=1-1119.
+DR   PDB; 2CW0; X-ray; 3.30 A; C/M=1-1119.
+DR   PDB; 2O5I; X-ray; 2.50 A; C/M=1-1119.
+DR   PDB; 2O5J; X-ray; 3.00 A; C/M=1-1119.
+DR   PDB; 2PPB; X-ray; 3.00 A; C/M=1-1119.
+DR   PDB; 3AOH; X-ray; 4.10 A; C/H/M=1-1119.
+DR   PDB; 3AOI; X-ray; 4.30 A; C/H/M=1-1119.
+DR   PDB; 3DXJ; X-ray; 3.00 A; C/M=1-1119.
+DR   PDB; 3EQL; X-ray; 2.70 A; C/M=1-1119.
+DR   PDB; 3WOD; X-ray; 3.60 A; C=1-1119.
+DR   PDB; 3WOE; X-ray; 2.35 A; A/C=703-830.
+DR   PDB; 3WOF; X-ray; 3.30 A; A/C/E/G/I/K/M/O/Q/S/U/W=703-830.
+DR   PDB; 4G7H; X-ray; 2.90 A; C/M=1-1119.
+DR   PDB; 4G7O; X-ray; 2.99 A; C/M=1-1119.
+DR   PDB; 4G7Z; X-ray; 3.82 A; C/M=1-1119.
+DR   PDB; 4GZY; X-ray; 3.51 A; C=1-1119.
+DR   PDB; 4GZZ; X-ray; 4.29 A; C=1-1119.
+DR   PDB; 4MQ9; X-ray; 3.35 A; C=1-1119.
+DR   PDB; 4OIN; X-ray; 2.80 A; C=1-1119.
+DR   PDB; 4OIO; X-ray; 3.10 A; C=1-1119.
+DR   PDB; 4OIP; X-ray; 3.40 A; C=1-1119.
+DR   PDB; 4OIQ; X-ray; 3.62 A; C=1-1119.
+DR   PDB; 4OIR; X-ray; 3.10 A; C=1-1119.
+DR   PDB; 4Q4Z; X-ray; 2.90 A; C=1-1119.
+DR   PDB; 4Q5S; X-ray; 3.00 A; C=1-1119.
+DR   PDB; 4WQS; X-ray; 4.31 A; C/M=1-1119.
+DR   PDB; 4WQT; X-ray; 4.40 A; C/H/M=1-1119.
+DR   PDBsum; 1IW7; -.
+DR   PDBsum; 1SMY; -.
+DR   PDBsum; 1ZYR; -.
+DR   PDBsum; 2A68; -.
+DR   PDBsum; 2A69; -.
+DR   PDBsum; 2A6E; -.
+DR   PDBsum; 2A6H; -.
+DR   PDBsum; 2BE5; -.
+DR   PDBsum; 2CW0; -.
+DR   PDBsum; 2O5I; -.
+DR   PDBsum; 2O5J; -.
+DR   PDBsum; 2PPB; -.
+DR   PDBsum; 3AOH; -.
+DR   PDBsum; 3AOI; -.
+DR   PDBsum; 3DXJ; -.
+DR   PDBsum; 3EQL; -.
+DR   PDBsum; 3WOD; -.
+DR   PDBsum; 3WOE; -.
+DR   PDBsum; 3WOF; -.
+DR   PDBsum; 4G7H; -.
+DR   PDBsum; 4G7O; -.
+DR   PDBsum; 4G7Z; -.
+DR   PDBsum; 4GZY; -.
+DR   PDBsum; 4GZZ; -.
+DR   PDBsum; 4MQ9; -.
+DR   PDBsum; 4OIN; -.
+DR   PDBsum; 4OIO; -.
+DR   PDBsum; 4OIP; -.
+DR   PDBsum; 4OIQ; -.
+DR   PDBsum; 4OIR; -.
+DR   PDBsum; 4Q4Z; -.
+DR   PDBsum; 4Q5S; -.
+DR   PDBsum; 4WQS; -.
+DR   PDBsum; 4WQT; -.
+DR   ProteinModelPortal; Q8RQE9; -.
+DR   SMR; Q8RQE9; 1-1119.
+DR   DIP; DIP-47011N; -.
+DR   IntAct; Q8RQE9; 3.
+DR   STRING; 300852.TTHA1813; -.
+DR   EnsemblBacteria; BAD71636; BAD71636; BAD71636.
+DR   GeneID; 3169736; -.
+DR   KEGG; ttj:TTHA1813; -.
+DR   PATRIC; 23958595; VBITheThe93045_1784.
+DR   eggNOG; COG0085; -.
+DR   HOGENOM; HOG000218611; -.
+DR   KO; K03043; -.
+DR   OMA; WWMFAVE; -.
+DR   OrthoDB; EOG6M9DS6; -.
+DR   PhylomeDB; Q8RQE9; -.
+DR   BioCyc; TTHE300852:GH8R-1858-MONOMER; -.
+DR   EvolutionaryTrace; Q8RQE9; -.
+DR   PRO; PR:Q8RQE9; -.
+DR   Proteomes; UP000000532; Chromosome.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0003899; F:DNA-directed RNA polymerase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0032549; F:ribonucleoside binding; IEA:InterPro.
+DR   GO; GO:0006351; P:transcription, DNA-templated; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 2.30.150.10; -; 1.
+DR   Gene3D; 2.40.270.10; -; 2.
+DR   Gene3D; 2.40.50.150; -; 1.
+DR   Gene3D; 3.90.1110.10; -; 1.
+DR   HAMAP; MF_01321; RNApol_bact_RpoB; 1.
+DR   InterPro; IPR010243; DNA-dir_RNA_pol_bsu.
+DR   InterPro; IPR019462; DNA-dir_RNA_pol_bsu_external_1.
+DR   InterPro; IPR015712; DNA-dir_RNA_pol_su2.
+DR   InterPro; IPR007120; DNA-dir_RNA_pol_su2_6.
+DR   InterPro; IPR007121; RNA_pol_bsu_CS.
+DR   InterPro; IPR007644; RNA_pol_bsu_protrusion.
+DR   InterPro; IPR007642; RNA_pol_Rpb2_2.
+DR   InterPro; IPR007645; RNA_pol_Rpb2_3.
+DR   InterPro; IPR007641; RNA_pol_Rpb2_7.
+DR   InterPro; IPR014724; RNA_pol_RPB2_OB-fold.
+DR   PANTHER; PTHR20856; PTHR20856; 1.
+DR   Pfam; PF04563; RNA_pol_Rpb2_1; 1.
+DR   Pfam; PF04561; RNA_pol_Rpb2_2; 1.
+DR   Pfam; PF04565; RNA_pol_Rpb2_3; 1.
+DR   Pfam; PF10385; RNA_pol_Rpb2_45; 1.
+DR   Pfam; PF00562; RNA_pol_Rpb2_6; 1.
+DR   Pfam; PF04560; RNA_pol_Rpb2_7; 1.
+DR   TIGRFAMs; TIGR02013; rpoB; 1.
+DR   PROSITE; PS01166; RNA_POL_BETA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; DNA-directed RNA polymerase;
+KW   Nucleotidyltransferase; Reference proteome; Transcription;
+KW   Transferase.
+FT   CHAIN         1   1119       DNA-directed RNA polymerase subunit beta.
+FT                                /FTId=PRO_0000047985.
+FT   STRAND        2      5       {ECO:0000244|PDB:2A6H}.
+FT   HELIX        20     29       {ECO:0000244|PDB:2A6H}.
+FT   HELIX        31     33       {ECO:0000244|PDB:2O5I}.
+FT   HELIX        36     38       {ECO:0000244|PDB:4OIN}.
+FT   HELIX        43     51       {ECO:0000244|PDB:2A6H}.
+FT   STRAND       53     56       {ECO:0000244|PDB:2A6H}.
+FT   STRAND       59     61       {ECO:0000244|PDB:2A6H}.
+FT   STRAND       64     68       {ECO:0000244|PDB:2A6H}.
+FT   HELIX        80     85       {ECO:0000244|PDB:2A6H}.
+FT   STRAND       91     94       {ECO:0000244|PDB:2A6H}.
+FT   STRAND       98    100       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      103    105       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      107    109       {ECO:0000244|PDB:2O5I}.
+FT   STRAND      117    119       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      123    125       {ECO:0000244|PDB:1IW7}.
+FT   STRAND      129    132       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      134    136       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      138    142       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      146    149       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      152    156       {ECO:0000244|PDB:1IW7}.
+FT   STRAND      159    162       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      166    169       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      172    177       {ECO:0000244|PDB:2A6H}.
+FT   TURN        178    180       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      181    191       {ECO:0000244|PDB:2A6H}.
+FT   HELIX       193    200       {ECO:0000244|PDB:2A6H}.
+FT   HELIX       204    212       {ECO:0000244|PDB:2A6H}.
+FT   TURN        215    217       {ECO:0000244|PDB:4Q5S}.
+FT   HELIX       218    221       {ECO:0000244|PDB:2A6H}.
+FT   HELIX       225    228       {ECO:0000244|PDB:2A6H}.
+FT   HELIX       231    241       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      242    244       {ECO:0000244|PDB:2A6H}.
+FT   TURN        250    252       {ECO:0000244|PDB:4MQ9}.
+FT   HELIX       253    257       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      259    264       {ECO:0000244|PDB:2A6H}.
+FT   TURN        269    271       {ECO:0000244|PDB:2A6H}.
+FT   HELIX       274    278       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      281    283       {ECO:0000244|PDB:3DXJ}.
+FT   TURN        287    290       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      294    296       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      297    302       {ECO:0000244|PDB:4OIN}.
+FT   HELIX       303    314       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      325    327       {ECO:0000244|PDB:4G7O}.
+FT   TURN        328    330       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      331    334       {ECO:0000244|PDB:2A6H}.
+FT   HELIX       336    361       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      364    366       {ECO:0000244|PDB:3DXJ}.
+FT   TURN        370    372       {ECO:0000244|PDB:2A6H}.
+FT   HELIX       376    387       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      390    394       {ECO:0000244|PDB:2A6H}.
+FT   HELIX       401    408       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      409    418       {ECO:0000244|PDB:2A6H}.
+FT   TURN        420    422       {ECO:0000244|PDB:4OIN}.
+FT   HELIX       425    428       {ECO:0000244|PDB:2A6H}.
+FT   HELIX       432    434       {ECO:0000244|PDB:2A6H}.
+FT   TURN        435    437       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      440    443       {ECO:0000244|PDB:2O5I}.
+FT   STRAND      445    448       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      450    455       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      456    458       {ECO:0000244|PDB:2O5J}.
+FT   STRAND      460    462       {ECO:0000244|PDB:3DXJ}.
+FT   STRAND      463    465       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      467    475       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      478    486       {ECO:0000244|PDB:2A6H}.
+FT   HELIX       488    493       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      494    497       {ECO:0000244|PDB:4OIN}.
+FT   STRAND      499    501       {ECO:0000244|PDB:2CW0}.
+FT   STRAND      503    508       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      511    524       {ECO:0000244|PDB:2A6H}.
+FT   TURN        526    528       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      531    533       {ECO:0000244|PDB:2A6H}.
+FT   TURN        536    539       {ECO:0000244|PDB:2A6H}.
+FT   HELIX       542    545       {ECO:0000244|PDB:2A6H}.
+FT   HELIX       550    552       {ECO:0000244|PDB:2A6H}.
+FT   HELIX       555    565       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      571    573       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      578    580       {ECO:0000244|PDB:2A6H}.
+FT   HELIX       584    590       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      594    596       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      598    606       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      608    615       {ECO:0000244|PDB:2A6H}.
+FT   TURN        616    618       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      619    621       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      628    630       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      634    637       {ECO:0000244|PDB:2O5I}.
+FT   STRAND      654    657       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      661    666       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      669    675       {ECO:0000244|PDB:2A6H}.
+FT   TURN        680    683       {ECO:0000244|PDB:4OIN}.
+FT   STRAND      684    691       {ECO:0000244|PDB:2A6H}.
+FT   HELIX       693    696       {ECO:0000244|PDB:2A6H}.
+FT   TURN        697    700       {ECO:0000244|PDB:4OIN}.
+FT   STRAND      703    713       {ECO:0000244|PDB:3WOE}.
+FT   STRAND      727    729       {ECO:0000244|PDB:2A6H}.
+FT   HELIX       731    734       {ECO:0000244|PDB:3WOE}.
+FT   HELIX       735    737       {ECO:0000244|PDB:1IW7}.
+FT   TURN        738    740       {ECO:0000244|PDB:1IW7}.
+FT   STRAND      741    743       {ECO:0000244|PDB:3WOE}.
+FT   STRAND      754    756       {ECO:0000244|PDB:3WOE}.
+FT   STRAND      758    761       {ECO:0000244|PDB:3WOE}.
+FT   STRAND      762    766       {ECO:0000244|PDB:1IW7}.
+FT   HELIX       769    778       {ECO:0000244|PDB:3WOE}.
+FT   STRAND      785    787       {ECO:0000244|PDB:3WOE}.
+FT   STRAND      798    807       {ECO:0000244|PDB:3WOE}.
+FT   STRAND      808    810       {ECO:0000244|PDB:4G7H}.
+FT   STRAND      819    829       {ECO:0000244|PDB:3WOE}.
+FT   STRAND      838    840       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      842    844       {ECO:0000244|PDB:3EQL}.
+FT   STRAND      846    853       {ECO:0000244|PDB:2A6H}.
+FT   TURN        855    857       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      862    864       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      868    870       {ECO:0000244|PDB:2A6H}.
+FT   TURN        874    880       {ECO:0000244|PDB:2A6H}.
+FT   HELIX       883    896       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      899    902       {ECO:0000244|PDB:2A6H}.
+FT   TURN        905    907       {ECO:0000244|PDB:2A6H}.
+FT   HELIX       911    932       {ECO:0000244|PDB:2A6H}.
+FT   HELIX       938    948       {ECO:0000244|PDB:2A6H}.
+FT   TURN        949    951       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      955    957       {ECO:0000244|PDB:2CW0}.
+FT   HELIX       959    968       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      977    979       {ECO:0000244|PDB:2A6H}.
+FT   STRAND      980    982       {ECO:0000244|PDB:2CW0}.
+FT   STRAND      987    997       {ECO:0000244|PDB:2A6H}.
+FT   TURN       1001   1003       {ECO:0000244|PDB:2A6H}.
+FT   STRAND     1006   1010       {ECO:0000244|PDB:2A6H}.
+FT   STRAND     1015   1017       {ECO:0000244|PDB:2A6H}.
+FT   STRAND     1024   1026       {ECO:0000244|PDB:2A6H}.
+FT   STRAND     1030   1032       {ECO:0000244|PDB:2A6H}.
+FT   HELIX      1034   1042       {ECO:0000244|PDB:2A6H}.
+FT   HELIX      1047   1053       {ECO:0000244|PDB:2A6H}.
+FT   TURN       1054   1058       {ECO:0000244|PDB:2A6H}.
+FT   HELIX      1060   1071       {ECO:0000244|PDB:2A6H}.
+FT   HELIX      1083   1094       {ECO:0000244|PDB:2A6H}.
+FT   STRAND     1098   1102       {ECO:0000244|PDB:2BE5}.
+FT   STRAND     1104   1106       {ECO:0000244|PDB:2A6H}.
+FT   STRAND     1114   1117       {ECO:0000244|PDB:2A6H}.
+SQ   SEQUENCE   1119 AA;  125264 MW;  C1260F31CEC6B40D CRC64;
+     MEIKRFGRIR EVIPLPPLTE IQVESYRRAL QADVPPEKRE NVGIQAAFRE TFPIEEEDKG
+     KGGLVLDFLE YRLGEPPFPQ DECREKDLTY QAPLYARLQL IHKDTGLIKE DEVFLGHIPL
+     MTEDGSFIIN GADRVIVSQI HRSPGVYFTP DPARPGRYIA SIIPLPKRGP WIDLEVEPNG
+     VVSMKVNKRK FPLVLLLRVL GYDQETLARE LGAYGELVQG LMDESVFAMR PEEALIRLFT
+     LLRPGDPPKR DKAVAYVYGL IADPRRYDLG EAGRYKAEEK LGIRLSGRTL ARFEDGEFKD
+     EVFLPTLRYL FALTAGVPGH EVDDIDHLGN RRIRTVGELM TDQFRVGLAR LARGVRERML
+     MGSEDSLTPA KLVNSRPLEA AIREFFSRSQ LSQFKDETNP LSSLRHKRRI SALGPGGLTR
+     ERAGFDVRDV HRTHYGRICP VETPEGANIG LITSLAAYAR VDELGFIRTP YRRVVGGVVT
+     DEVVYMTATE EDRYTIAQAN TPLEGNRIAA ERVVARRKGE PVIVSPEEVE FMDVSPKQVF
+     SVNTNLIPFL EHDDANRALM GSNMQTQAVP LIRAQAPVVM TGLEERVVRD SLAALYAEED
+     GEVAKVDGNR IVVRYEDGRL VEYPLRRFYR SNQGTALDQR PRVVVGQRVR KGDLLADGPA
+     SENGFLALGQ NVLVAIMPFD GYNFEDAIVI SEELLKRDFY TSIHIERYEI EARDTKLGPE
+     RITRDIPHLS EAALRDLDEE GVVRIGAEVK PGDILVGRTS FKGESEPTPE ERLLRSIFGE
+     KARDVKDTSL RVPPGEGGIV VRTVRLRRGD PGVELKPGVR EVVRVYVAQK RKLQVGDKLA
+     NRHGNKGVVA KILPVEDMPH LPDGTPVDVI LNPLGVPSRM NLGQILETHL GLAGYFLGQR
+     YISPIFDGAK EPEIKELLAQ AFEVYFGKRK GEGFGVDKRE VEVLRRAEKL GLVTPGKTPE
+     EQLKELFLQG KVVLYDGRTG EPIEGPIVVG QMFIMKLYHM VEDKMHARST GPYSLITQQP
+     LGGKAQFGGQ RFGEMEVWAL EAYGAAHTLQ EMLTLKSDDI EGRNAAYEAI IKGEDVPEPS
+     VPESFRVLVK ELQALALDVQ TLDEKDNPVD IFEGLASKR
+//

@@ -1,0 +1,60 @@
+ID   Q846V4_STAAU            Unreviewed;       660 AA.
+AC   Q846V4;
+DT   01-JUN-2003, integrated into UniProtKB/TrEMBL.
+DT   22-JUL-2008, sequence version 2.
+DT   07-JAN-2015, entry version 37.
+DE   SubName: Full=Staphylocoagulase {ECO:0000313|EMBL:AAO65980.2};
+DE   Flags: Fragment;
+OS   Staphylococcus aureus.
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcus.
+OX   NCBI_TaxID=1280 {ECO:0000313|EMBL:AAO65980.2};
+RN   [1] {ECO:0000213|PDB:1NU7, ECO:0000213|PDB:1NU9, ECO:0000313|EMBL:AAO65980.2}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=Tager 104 {ECO:0000313|EMBL:AAO65980.2};
+RX   PubMed=14523451; DOI=10.1038/nature01962;
+RA   Friedrich R., Panizzi P., Fuentes-Prior P., Richter K., Verhamme I.,
+RA   Anderson P.J., Kawabata S., Huber R., Bode W., Bock P.E.;
+RT   "Staphylocoagulase is a prototype for the mechanism of cofactor-
+RT   induced zymogen activation.";
+RL   Nature 425:535-539(2003).
+RN   [2] {ECO:0000313|EMBL:AAO65980.2}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=Tager 104 {ECO:0000313|EMBL:AAO65980.2};
+RA   Panizzi P.R., Bock P.E.;
+RL   Submitted (MAY-2008) to the EMBL/GenBank/DDBJ databases.
+CC   -!- INTERACTION:
+CC       P00734:F2 (xeno); NbExp=5; IntAct=EBI-989571, EBI-297094;
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AY225090; AAO65980.2; -; Genomic_DNA.
+DR   PDB; 1NU7; X-ray; 2.20 A; D/H=1-281.
+DR   PDB; 1NU9; X-ray; 2.20 A; C/F=1-281.
+DR   PDBsum; 1NU7; -.
+DR   PDBsum; 1NU9; -.
+DR   IntAct; Q846V4; 1.
+DR   EvolutionaryTrace; Q846V4; -.
+DR   InterPro; IPR014874; Staphylcoagulase_N.
+DR   InterPro; IPR001443; Staphylcoagulase_rpt.
+DR   Pfam; PF08764; Coagulase; 1.
+DR   Pfam; PF04022; Staphylcoagulse; 7.
+DR   SUPFAM; SSF101094; SSF101094; 2.
+DR   PROSITE; PS00429; STAPHYLOCOAGULASE; 7.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:1NU7, ECO:0000213|PDB:1NU9}.
+FT   NON_TER       1      1       {ECO:0000313|EMBL:AAO65980.2}.
+FT   NON_TER     660    660       {ECO:0000313|EMBL:AAO65980.2}.
+SQ   SEQUENCE   660 AA;  74386 MW;  2D703F06BAFC3C13 CRC64;
+     IVTKDYSKES RVNENSKYGT LISDWYLKGR LTSLESQFIN ALGILETYHY GEKEYKDAKD
+     KLMTRILGED QYLLERKKVQ YEEYKKLYKK YKEENPTSKV KMKTFDQYTI EDLTMREYNE
+     LTESLKSAVK DFEKDVEIIE NQHHDLKPFT DEMEEKATAR VDDLANKAYS VYFAFVRDTQ
+     HKTEALELKA KVDLVLGDED KPHRISNERI EKEMIKDLES IIEDFFIETG LNKPDNITSY
+     DSSKHHYKNH SEGFEALVKE TREAVTNAND SWKTKTVKKY GETVTKPPVV KEEKKVEEPQ
+     APKVSEKVDV QETVGTEETT QPVAQPLVKI PQGTIYGETV KGPEYLTMEN KTLQGEIVQG
+     PDFPTMEQNR PSLSDNYTQP TTPNPILKGL EGSSSKLEIK PQGTESTLKG TQGESSDIEV
+     KPQASETTEA SHYPARPQFN KTPKYVKYRD AGTGIREYND GTFGYEARPR FNKPSETNAY
+     NVTTHANGQV SYGARPTQNK PSKTNAYNVT THGNGQVSYG ARPTYKKPSK TNAYNVTTHA
+     NGQVSYGARP TQNKPSKTNA YNVTTHGNGQ VSYGARPTQN KPSKTNAYNV TTHGNGQVSY
+     GARPTQNKPS KTNAYNVTTH ANGQVSYGAR PTYKKPSETN AYNVTTHADG TATYGSRVTK
+//

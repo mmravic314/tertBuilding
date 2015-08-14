@@ -1,0 +1,92 @@
+ID   Q9A4Z9_CAUCR            Unreviewed;       429 AA.
+AC   Q9A4Z9;
+DT   01-JUN-2001, integrated into UniProtKB/TrEMBL.
+DT   01-JUN-2001, sequence version 1.
+DT   22-JUL-2015, entry version 86.
+DE   SubName: Full=Xaa-Pro dipeptidase, putative {ECO:0000313|EMBL:AAK24639.1};
+GN   OrderedLocusNames=CC_2672 {ECO:0000313|EMBL:AAK24639.1};
+OS   Caulobacter crescentus (strain ATCC 19089 / CB15).
+OC   Bacteria; Proteobacteria; Alphaproteobacteria; Caulobacterales;
+OC   Caulobacteraceae; Caulobacter.
+OX   NCBI_TaxID=190650 {ECO:0000313|EMBL:AAK24639.1, ECO:0000313|Proteomes:UP000001816};
+RN   [1] {ECO:0000313|EMBL:AAK24639.1, ECO:0000313|Proteomes:UP000001816}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 19089 / CB15 {ECO:0000313|Proteomes:UP000001816};
+RX   PubMed=11259647; DOI=10.1073/pnas.061029298;
+RA   Nierman W.C., Feldblyum T.V., Laub M.T., Paulsen I.T., Nelson K.E.,
+RA   Eisen J.A., Heidelberg J.F., Alley M.R.K., Ohta N., Maddock J.R.,
+RA   Potocka I., Nelson W.C., Newton A., Stephens C., Phadke N.D., Ely B.,
+RA   DeBoy R.T., Dodson R.J., Durkin A.S., Gwinn M.L., Haft D.H.,
+RA   Kolonay J.F., Smit J., Craven M.B., Khouri H.M., Shetty J.,
+RA   Berry K.J., Utterback T.R., Tran K., Wolf A.M., Vamathevan J.J.,
+RA   Ermolaeva M.D., White O., Salzberg S.L., Venter J.C., Shapiro L.,
+RA   Fraser C.M.;
+RT   "Complete genome sequence of Caulobacter crescentus.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 98:4136-4141(2001).
+RN   [2] {ECO:0000213|PDB:3MTW}
+RP   X-RAY CRYSTALLOGRAPHY (1.70 ANGSTROMS) OF 27-429 IN COMPLEX WITH ZINC,
+RP   AND DISULFIDE BONDS.
+RX   PubMed=20604542; DOI=10.1021/bi100897u;
+RA   Xiang D.F., Patskovsky Y., Xu C., Fedorov A.A., Fedorov E.V.,
+RA   Sisco A.A., Sauder J.M., Burley S.K., Almo S.C., Raushel F.M.;
+RT   "Functional identification and structure determination of two novel
+RT   prolidases from cog1228 in the amidohydrolase superfamily .";
+RL   Biochemistry 49:6791-6803(2010).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE005673; AAK24639.1; -; Genomic_DNA.
+DR   PIR; C87580; C87580.
+DR   RefSeq; NP_421471.1; NC_002696.2.
+DR   RefSeq; WP_010920522.1; NC_002696.2.
+DR   PDB; 3MTW; X-ray; 1.70 A; A=27-429.
+DR   PDBsum; 3MTW; -.
+DR   ProteinModelPortal; Q9A4Z9; -.
+DR   SMR; Q9A4Z9; 27-429.
+DR   STRING; 190650.CC_2672; -.
+DR   EnsemblBacteria; AAK24639; AAK24639; CC_2672.
+DR   GeneID; 940939; -.
+DR   KEGG; ccr:CC_2672; -.
+DR   PATRIC; 21302376; VBICauCre124313_2683.
+DR   HOGENOM; HOG000148525; -.
+DR   OMA; MHVHLTS; -.
+DR   OrthoDB; EOG6DG2SS; -.
+DR   BioCyc; CAULO:CC2672-MONOMER; -.
+DR   EvolutionaryTrace; Q9A4Z9; -.
+DR   Proteomes; UP000001816; Chromosome.
+DR   GO; GO:0016810; F:hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 2.30.40.10; -; 2.
+DR   InterPro; IPR006680; Amidohydro_1.
+DR   InterPro; IPR011059; Metal-dep_hydrolase_composite.
+DR   Pfam; PF01979; Amidohydro_1; 1.
+DR   SUPFAM; SSF51338; SSF51338; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3MTW};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001816};
+KW   Metal-binding {ECO:0000213|PDB:3MTW};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001816};
+KW   Zinc {ECO:0000213|PDB:3MTW}.
+FT   METAL        90     90       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3MTW}.
+FT   METAL        92     92       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3MTW}.
+FT   METAL       211    211       Zinc 1. {ECO:0000213|PDB:3MTW}.
+FT   METAL       211    211       Zinc 2. {ECO:0000213|PDB:3MTW}.
+FT   METAL       252    252       Zinc 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3MTW}.
+FT   METAL       272    272       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3MTW}.
+FT   METAL       344    344       Zinc 1. {ECO:0000213|PDB:3MTW}.
+FT   DISULFID    172    213       {ECO:0000213|PDB:3MTW}.
+SQ   SEQUENCE   429 AA;  45006 MW;  1D9914EE6D5E06ED CRC64;
+     MRMGMKIATL MAGAAVGLTL GGAASAAEIK AVSAARLLDV ASGKYVDNPL VIVTDGRITS
+     IGKKGDAVPA GATAVDLPGV TLLPGLIDMH VHLDSLAEVG GYNSLEYSDR FWSVVQTANA
+     KKTLEAGFTT VRNVGAADYD DVGLREAIDA GYVPGPRIVT AAISFGATGG HCDSTFFPPS
+     MDQKNPFNSD SPDEARKAVR TLKKYGAQVI KICATGGVFS RGNEPGQQQL TYEEMKAVVD
+     EAHMAGIKVA AHAHGASGIR EAVRAGVDTI EHASLVDDEG IKLAVQKGAY FSMDIYNTDY
+     TQAEGKKNGV LEDNLRKDRD IGELQRENFR KALKAGVKMV YGTDAGIYPH GDNAKQFAVM
+     VRYGATPLQA IQSATLTAAE ALGRSKDVGQ VAVGRYGDMI AVAGDPLADV TTLEKPVFVM
+     KGGAVVKAP
+//

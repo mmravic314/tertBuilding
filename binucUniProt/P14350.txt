@@ -1,0 +1,533 @@
+ID   POL_FOAMV               Reviewed;        1143 AA.
+AC   P14350; O12528; O12817; Q76U32; Q98835;
+DT   01-JAN-1990, integrated into UniProtKB/Swiss-Prot.
+DT   11-JUL-2006, sequence version 2.
+DT   29-APR-2015, entry version 126.
+DE   RecName: Full=Pro-Pol polyprotein;
+DE   AltName: Full=Pr125Pol;
+DE   Contains:
+DE     RecName: Full=Protease/Reverse transcriptase/ribonuclease H;
+DE              EC=2.7.7.49;
+DE              EC=2.7.7.7;
+DE              EC=3.1.26.4;
+DE              EC=3.4.23.-;
+DE     AltName: Full=p87Pro-RT-RNaseH;
+DE   Contains:
+DE     RecName: Full=Protease/Reverse transcriptase;
+DE              EC=2.7.7.49;
+DE              EC=2.7.7.7;
+DE              EC=3.4.23.-;
+DE     AltName: Full=p65Pro-RT;
+DE   Contains:
+DE     RecName: Full=Ribonuclease H;
+DE              Short=RNase H;
+DE              EC=3.1.26.4;
+DE   Contains:
+DE     RecName: Full=Integrase;
+DE              Short=IN;
+DE     AltName: Full=p42In;
+GN   Name=pol;
+OS   Human spumaretrovirus (SFVcpz(hu)) (Human foamy virus).
+OC   Viruses; Retro-transcribing viruses; Retroviridae; Spumaretrovirinae;
+OC   Spumavirus.
+OX   NCBI_TaxID=11963;
+OH   NCBI_TaxID=9606; Homo sapiens (Human).
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC RNA], AND SEQUENCE REVISION.
+RA   Fluegel R.M.;
+RL   Submitted (FEB-1995) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RA   Schmidt M., Herchenrder O., Heeney J.L., Rethwilm A.;
+RT   "Long terminal repeat U3-length polymorphism of human foamy virus.";
+RL   Submitted (AUG-1996) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC RNA] OF 1-742.
+RX   PubMed=2451755;
+RA   Maurer B., Bannert H., Darai G., Fluegel R.M.;
+RT   "Analysis of the primary structure of the long terminal repeat and the
+RT   gag and pol genes of the human spumaretrovirus.";
+RL   J. Virol. 62:1590-1597(1988).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC RNA] OF 741-886.
+RX   PubMed=2820721;
+RA   Fluegel R.M., Rethwilm A., Maurer B., Darai G.;
+RT   "Nucleotide sequence analysis of the env gene and its flanking regions
+RT   of the human spumaretrovirus reveals two novel genes.";
+RL   EMBO J. 6:2077-2084(1987).
+RN   [5]
+RP   ACTIVE SITE OF PROTEASE, AND MUTAGENESIS OF ASP-24 AND SER-25.
+RX   PubMed=7474150;
+RA   Konvalinka J., Loechelt M., Zentgraf H., Fluegel R.M.,
+RA   Kraeusslich H.-G.;
+RT   "Active foamy virus proteinase is essential for virus infectivity but
+RT   not for formation of a Pol polyprotein.";
+RL   J. Virol. 69:7264-7268(1995).
+RN   [6]
+RP   MUTAGENESIS OF PRO-152; PRO-169; PRO-193; ASP-599 AND TYR-672.
+RX   PubMed=7544460; DOI=10.1093/nar/23.14.2621;
+RA   Kogel D., Aboud M., Fluegel R.M.;
+RT   "Mutational analysis of the reverse transcriptase and ribonuclease H
+RT   domains of the human foamy virus.";
+RL   Nucleic Acids Res. 23:2621-2625(1995).
+RN   [7]
+RP   CHARACTERIZATION OF POLYPROTEIN.
+RX   PubMed=8551561;
+RA   Loechelt M., Fluegel R.M.;
+RT   "The human foamy virus pol gene is expressed as a Pro-Pol polyprotein
+RT   and not as a Gag-Pol fusion protein.";
+RL   J. Virol. 70:1033-1040(1996).
+RN   [8]
+RP   PROTEOLYTIC PROCESSING OF POLYPROTEIN.
+RX   PubMed=9696869;
+RA   Pfrepper K.-I., Rackwitz H.R., Schnoelzer M., Heid H., Loechelt M.,
+RA   Fluegel R.M.;
+RT   "Molecular characterization of proteolytic processing of the Pol
+RT   proteins of human foamy virus reveals novel features of the viral
+RT   protease.";
+RL   J. Virol. 72:7648-7652(1998).
+RN   [9]
+RP   SUBCELLULAR LOCATION.
+RC   STRAIN=Isolate HSRV2;
+RX   PubMed=11086125;
+RA   Imrich H., Heinkelein M., Herchenroder O., Rethwilm A.;
+RT   "Primate foamy virus Pol proteins are imported into the nucleus.";
+RL   J. Gen. Virol. 81:2941-2947(2000).
+RN   [10]
+RP   CHARACTERIZATION OF REVERSE TRANSCRIPTASE.
+RX   PubMed=12829852; DOI=10.1128/JVI.77.14.8141-8146.2003;
+RA   Delelis O., Saib A., Sonigo P.;
+RT   "Biphasic DNA synthesis in spumaviruses.";
+RL   J. Virol. 77:8141-8146(2003).
+RN   [11]
+RP   CHARACTERIZATION OF INTEGRASE.
+RX   PubMed=14963145; DOI=10.1128/JVI.78.5.2472-2477.2004;
+RA   Juretzek T., Holm T., Gartner K., Kanzler S., Lindemann D.,
+RA   Herchenroder O., Picard-Maureau M., Rammling M., Heinkelein M.,
+RA   Rethwilm A.;
+RT   "Foamy virus integration.";
+RL   J. Virol. 78:2472-2477(2004).
+RN   [12]
+RP   REVIEW.
+RX   PubMed=12908768;
+RA   Fluegel R.M., Pfrepper K.-I.;
+RT   "Proteolytic processing of foamy virus Gag and Pol proteins.";
+RL   Curr. Top. Microbiol. Immunol. 277:63-88(2003).
+RN   [13]
+RP   REVIEW.
+RX   PubMed=15358259; DOI=10.1016/j.mib.2004.06.009;
+RA   Delelis O., Lehmann-Che J., Saib A.;
+RT   "Foamy viruses-a world apart.";
+RL   Curr. Opin. Microbiol. 7:400-406(2004).
+CC   -!- FUNCTION: The aspartyl protease activity mediates proteolytic
+CC       cleavages of Gag and Pol polyproteins. The reverse transcriptase
+CC       (RT) activity converts the viral RNA genome into dsDNA in the
+CC       cytoplasm, shortly after virus entry into the cell (early reverse
+CC       transcription) or after proviral DNA transcription (late reverse
+CC       transcription). RT consists of a DNA polymerase activity that can
+CC       copy either DNA or RNA templates, and a ribonuclease H (RNase H)
+CC       activity that cleaves the RNA strand of RNA-DNA heteroduplexes in
+CC       a partially processive 3' to 5' endonucleasic mode. Conversion of
+CC       viral genomic RNA into dsDNA requires many steps. A tRNA-Lys1,2
+CC       binds to the primer-binding site (PBS) situated at the 5'-end of
+CC       the viral RNA. RT uses the 3' end of the tRNA primer to perform a
+CC       short round of RNA-dependent minus-strand DNA synthesis. The
+CC       reading proceeds through the U5 region and ends after the repeated
+CC       (R) region which is present at both ends of viral RNA. The portion
+CC       of the RNA-DNA heteroduplex is digested by the RNase H, resulting
+CC       in a ssDNA product attached to the tRNA primer. This ssDNA/tRNA
+CC       hybridizes with the identical R region situated at the 3' end of
+CC       viral RNA. This template exchange, known as minus-strand DNA
+CC       strong stop transfer, can be either intra- or intermolecular. RT
+CC       uses the 3' end of this newly synthesized short ssDNA to perform
+CC       the RNA-dependent minus-strand DNA synthesis of the whole
+CC       template. RNase H digests the RNA template except for a polypurine
+CC       tract (PPT) situated at the 5'-end and near the center of the
+CC       genome. It is not clear if both polymerase and RNase H activities
+CC       are simultaneous. RNase H probably can proceed both in a
+CC       polymerase-dependent (RNA cut into small fragments by the same RT
+CC       performing DNA synthesis) and a polymerase-independent mode
+CC       (cleavage of remaining RNA fragments by free RTs). Secondly, RT
+CC       performs DNA-directed plus-strand DNA synthesis using the PPT that
+CC       has not been removed by RNase H as primer. PPT and tRNA primers
+CC       are then removed by RNase H. The 3' and 5' ssDNA PBS regions
+CC       hybridize to form a circular dsDNA intermediate. Strand
+CC       displacement synthesis by RT to the PBS and PPT ends produces a
+CC       blunt ended, linear dsDNA copy of the viral genome that includes
+CC       long terminal repeats (LTRs) at both ends (By similarity).
+CC       {ECO:0000250}.
+CC   -!- FUNCTION: Integrase catalyzes viral DNA integration into the host
+CC       chromosome, by performing a series of DNA cutting and joining
+CC       reactions. This enzyme activity takes place after virion entry
+CC       into a cell and reverse transcription of the RNA genome in dsDNA.
+CC       The first step in the integration process is 3' processing. This
+CC       step requires a complex comprising at least the viral genome,
+CC       matrix protein, and integrase. This complex is called the pre-
+CC       integration complex (PIC). The integrase protein removes 2
+CC       nucleotides from the 3' end of the viral DNA right (U5) end,
+CC       leaving the left (U3) intact. In the second step, the PIC enters
+CC       cell nucleus. This process is mediated through the integrase and
+CC       allows the virus to infect both dividing (nuclear membrane
+CC       disassembled) and G1/S-arrested cells (active translocation), but
+CC       with no viral gene expression in the latter. In the third step,
+CC       termed strand transfer, the integrase protein joins the previously
+CC       processed 3' ends to the 5' ends of strands of target cellular DNA
+CC       at the site of integration. It is however not clear how
+CC       integration then proceeds to resolve the asymmetrical cleavage of
+CC       viral DNA (By similarity). {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Endonucleolytic cleavage to 5'-
+CC       phosphomonoester. {ECO:0000255|PROSITE-ProRule:PRU00408}.
+CC   -!- CATALYTIC ACTIVITY: Deoxynucleoside triphosphate + DNA(n) =
+CC       diphosphate + DNA(n+1). {ECO:0000255|PROSITE-ProRule:PRU00405}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250};
+CC       Note=Binds 2 magnesium ions for reverse transcriptase polymerase
+CC       activity. {ECO:0000250};
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250};
+CC       Note=Binds 2 magnesium ions for ribonuclease H (RNase H) activity.
+CC       Substrate-binding is a precondition for magnesium binding.
+CC       {ECO:0000250};
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250};
+CC       Note=Magnesium ions are required for integrase activity. Binds at
+CC       least 1, maybe 2 magnesium ions. {ECO:0000250};
+CC   -!- SUBUNIT: The protease is a homodimer, whose active site consists
+CC       of two apposed aspartic acid residues. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00863}.
+CC   -!- SUBCELLULAR LOCATION: Integrase: Virion {ECO:0000305}. Host
+CC       nucleus. Host cytoplasm {ECO:0000305}. Note=Nuclear at initial
+CC       phase, cytoplasmic at assembly. {ECO:0000305}.
+CC   -!- SUBCELLULAR LOCATION: Protease/Reverse transcriptase/ribonuclease
+CC       H: Host nucleus {ECO:0000250}. Host cytoplasm {ECO:0000305}.
+CC       Note=Nuclear at initial phase, cytoplasmic at assembly.
+CC       {ECO:0000305}.
+CC   -!- DOMAIN: The reverse transcriptase/ribonuclease H (RT) is
+CC       structured in five subdomains: finger, palm, thumb, connection and
+CC       RNase H. Within the palm subdomain, the "primer grip" region is
+CC       thought to be involved in the positioning of the primer terminus
+CC       for accommodating the incoming nucleotide. The RNase H domain
+CC       stabilizes the association of RT with primer-template (By
+CC       similarity). {ECO:0000250}.
+CC   -!- DOMAIN: Integrase core domain contains the D-x(n)-D-x(35)-E motif,
+CC       named for the phylogenetically conserved glutamic acid and
+CC       aspartic acid residues and the invariant 35 amino acid spacing
+CC       between the second and third acidic residues. Each acidic residue
+CC       of the D,D(35)E motif is independently essential for the 3'-
+CC       processing and strand transfer activities of purified integrase
+CC       protein (By similarity). {ECO:0000250}.
+CC   -!- PTM: Specific enzymatic cleavages in vivo by viral protease yield
+CC       mature proteins. The protease is not cleaved off from Pol. Since
+CC       cleavage efficiency is not optimal for all sites, long and active
+CC       p65Pro-RT, p87Pro-RT-RNaseH and even some Pr125Pol are detected in
+CC       infected cells. {ECO:0000269|PubMed:9696869}.
+CC   -!- MISCELLANEOUS: The reverse transcriptase is an error-prone enzyme
+CC       that lacks a proof-reading function. High mutations rate is a
+CC       direct consequence of this characteristic. RT also displays
+CC       frequent template switching leading to high recombination rate.
+CC       Recombination mostly occurs between homologous regions of the two
+CC       copackaged RNA genomes. If these two RNA molecules derive from
+CC       different viral strains, reverse transcription will give rise to
+CC       highly recombinated proviral DNAs.
+CC   -!- MISCELLANEOUS: Foamy viruses are distinct from other retroviruses
+CC       in many respects. Their protease is active as an uncleaved Pro-Pol
+CC       protein. Mature particles do not include the usual processed
+CC       retroviral structural protein (MA, CA and NC), but instead contain
+CC       two large Gag proteins. Their functional nucleic acid appears to
+CC       be either RNA or dsDNA (up to 20% of extracellular particles),
+CC       because they probably proceed either to an early (before
+CC       integration) or late reverse transcription (after assembly). Foamy
+CC       viruses have the ability to retrotranspose intracellularly with
+CC       high efficiency. They bud predominantly into the endoplasmic
+CC       reticulum (ER) and occasionally at the plasma membrane. Budding
+CC       requires the presence of Env proteins. Most viral particles
+CC       probably remain within the infected cell.
+CC   -!- SIMILARITY: Contains 1 integrase catalytic domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00457}.
+CC   -!- SIMILARITY: Contains 1 peptidase A9 domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00863}.
+CC   -!- SIMILARITY: Contains 1 reverse transcriptase domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00405}.
+CC   -!- SIMILARITY: Contains 1 RNase H domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00408}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAA46122.1; Type=Frameshift; Positions=1075; Evidence={ECO:0000305};
+CC       Sequence=AAA66556.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U21247; AAB48112.1; -; Genomic_RNA.
+DR   EMBL; Y07723; CAA68997.1; -; Genomic_DNA.
+DR   EMBL; Y07724; CAA68999.1; -; Genomic_DNA.
+DR   EMBL; Y07725; CAA69003.1; -; Genomic_DNA.
+DR   EMBL; M19427; AAA66556.1; ALT_INIT; Genomic_RNA.
+DR   EMBL; M54978; AAA46122.1; ALT_FRAME; Genomic_RNA.
+DR   PDB; 2LSN; NMR; -; A=591-751.
+DR   PDB; 2X6N; X-ray; 2.06 A; A/B/C/D/E/F=861-1060.
+DR   PDB; 2X6S; X-ray; 2.29 A; A/B/C/D/E/F=861-1060.
+DR   PDB; 2X74; X-ray; 2.34 A; A/B/C/D/E/F=861-1060.
+DR   PDB; 2X78; X-ray; 2.00 A; A/B/C=861-1060.
+DR   PDB; 3DLR; X-ray; 2.20 A; A=859-1058.
+DR   PDB; 3L2Q; X-ray; 3.25 A; A/B=752-1143.
+DR   PDB; 3L2R; X-ray; 2.88 A; A/B=752-1143.
+DR   PDB; 3L2U; X-ray; 3.15 A; A/B=752-1143.
+DR   PDB; 3L2V; X-ray; 3.20 A; A/B=752-1143.
+DR   PDB; 3L2W; X-ray; 3.20 A; A/B=752-1143.
+DR   PDB; 3OS0; X-ray; 2.81 A; A/B=752-1143.
+DR   PDB; 3OS1; X-ray; 2.97 A; A/B=752-1143.
+DR   PDB; 3OS2; X-ray; 3.32 A; A/B=752-1143.
+DR   PDB; 3OY9; X-ray; 2.95 A; A/B=752-1143.
+DR   PDB; 3OYA; X-ray; 2.85 A; A/B=752-1143.
+DR   PDB; 3OYB; X-ray; 2.54 A; A/B=752-1143.
+DR   PDB; 3OYC; X-ray; 2.66 A; A/B=752-1143.
+DR   PDB; 3OYD; X-ray; 2.54 A; A/B=752-1143.
+DR   PDB; 3OYE; X-ray; 2.74 A; A/B=752-1143.
+DR   PDB; 3OYF; X-ray; 2.51 A; A/B=752-1143.
+DR   PDB; 3OYG; X-ray; 2.56 A; A/B=752-1143.
+DR   PDB; 3OYH; X-ray; 2.74 A; A/B=752-1143.
+DR   PDB; 3OYI; X-ray; 2.72 A; A/B=752-1143.
+DR   PDB; 3OYJ; X-ray; 2.68 A; A/B=752-1143.
+DR   PDB; 3OYK; X-ray; 2.72 A; A/B=752-1143.
+DR   PDB; 3OYL; X-ray; 2.54 A; A/B=752-1143.
+DR   PDB; 3OYM; X-ray; 2.02 A; A/B=752-1143.
+DR   PDB; 3OYN; X-ray; 2.68 A; A/B=752-1143.
+DR   PDB; 3S3M; X-ray; 2.49 A; A/B=752-1143.
+DR   PDB; 3S3N; X-ray; 2.49 A; A/B=752-1143.
+DR   PDB; 3S3O; X-ray; 2.55 A; A/B=752-1143.
+DR   PDB; 4BAC; X-ray; 3.26 A; A/B=752-1143.
+DR   PDB; 4BDY; X-ray; 2.52 A; A/B=752-1143.
+DR   PDB; 4BDZ; X-ray; 2.85 A; A/B=752-1143.
+DR   PDB; 4BE0; X-ray; 2.68 A; A/B=752-1143.
+DR   PDB; 4BE1; X-ray; 2.71 A; A/B=752-1143.
+DR   PDB; 4BE2; X-ray; 2.38 A; A/B=752-1143.
+DR   PDB; 4E7H; X-ray; 2.57 A; A/B=752-1143.
+DR   PDB; 4E7I; X-ray; 2.53 A; A/B=752-1143.
+DR   PDB; 4E7J; X-ray; 3.15 A; A/B=752-1143.
+DR   PDB; 4E7K; X-ray; 3.02 A; A/B=752-1143.
+DR   PDB; 4E7L; X-ray; 3.00 A; A/B=752-1143.
+DR   PDB; 4IKF; X-ray; 3.40 A; A/B=752-1143.
+DR   PDBsum; 2LSN; -.
+DR   PDBsum; 2X6N; -.
+DR   PDBsum; 2X6S; -.
+DR   PDBsum; 2X74; -.
+DR   PDBsum; 2X78; -.
+DR   PDBsum; 3DLR; -.
+DR   PDBsum; 3L2Q; -.
+DR   PDBsum; 3L2R; -.
+DR   PDBsum; 3L2U; -.
+DR   PDBsum; 3L2V; -.
+DR   PDBsum; 3L2W; -.
+DR   PDBsum; 3OS0; -.
+DR   PDBsum; 3OS1; -.
+DR   PDBsum; 3OS2; -.
+DR   PDBsum; 3OY9; -.
+DR   PDBsum; 3OYA; -.
+DR   PDBsum; 3OYB; -.
+DR   PDBsum; 3OYC; -.
+DR   PDBsum; 3OYD; -.
+DR   PDBsum; 3OYE; -.
+DR   PDBsum; 3OYF; -.
+DR   PDBsum; 3OYG; -.
+DR   PDBsum; 3OYH; -.
+DR   PDBsum; 3OYI; -.
+DR   PDBsum; 3OYJ; -.
+DR   PDBsum; 3OYK; -.
+DR   PDBsum; 3OYL; -.
+DR   PDBsum; 3OYM; -.
+DR   PDBsum; 3OYN; -.
+DR   PDBsum; 3S3M; -.
+DR   PDBsum; 3S3N; -.
+DR   PDBsum; 3S3O; -.
+DR   PDBsum; 4BAC; -.
+DR   PDBsum; 4BDY; -.
+DR   PDBsum; 4BDZ; -.
+DR   PDBsum; 4BE0; -.
+DR   PDBsum; 4BE1; -.
+DR   PDBsum; 4BE2; -.
+DR   PDBsum; 4E7H; -.
+DR   PDBsum; 4E7I; -.
+DR   PDBsum; 4E7J; -.
+DR   PDBsum; 4E7K; -.
+DR   PDBsum; 4E7L; -.
+DR   PDBsum; 4IKF; -.
+DR   ProteinModelPortal; P14350; -.
+DR   SMR; P14350; 8-98.
+DR   DIP; DIP-58582N; -.
+DR   MEROPS; A09.001; -.
+DR   EvolutionaryTrace; P14350; -.
+DR   PMAP-CutDB; O12817; -.
+DR   Proteomes; UP000008228; Genome.
+DR   GO; GO:0030430; C:host cell cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0042025; C:host cell nucleus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0019012; C:virion; IEA:UniProtKB-SubCell.
+DR   GO; GO:0004190; F:aspartic-type endopeptidase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0003887; F:DNA-directed DNA polymerase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003723; F:RNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003964; F:RNA-directed DNA polymerase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0004523; F:RNA-DNA hybrid ribonuclease activity; IEA:UniProtKB-EC.
+DR   GO; GO:0015074; P:DNA integration; IEA:UniProtKB-KW.
+DR   GO; GO:0006310; P:DNA recombination; IEA:UniProtKB-KW.
+DR   GO; GO:0075713; P:establishment of integrated proviral latency; IEA:UniProtKB-KW.
+DR   GO; GO:0046718; P:viral entry into host cell; IEA:UniProtKB-KW.
+DR   GO; GO:0075732; P:viral penetration into host nucleus; IEA:UniProtKB-KW.
+DR   Gene3D; 3.30.420.10; -; 2.
+DR   InterPro; IPR001584; Integrase_cat-core.
+DR   InterPro; IPR012337; RNaseH-like_dom.
+DR   InterPro; IPR002156; RNaseH_domain.
+DR   InterPro; IPR000477; RT_dom.
+DR   InterPro; IPR001641; Spumavirus_A9.
+DR   Pfam; PF00075; RNase_H; 1.
+DR   Pfam; PF00665; rve; 1.
+DR   Pfam; PF00078; RVT_1; 1.
+DR   Pfam; PF03539; Spuma_A9PTase; 1.
+DR   PRINTS; PR00920; SPUMVIRPTASE.
+DR   ProDom; PD013079; Peptidase_A9_cat; 1.
+DR   SUPFAM; SSF53098; SSF53098; 2.
+DR   PROSITE; PS51531; FV_PR; 1.
+DR   PROSITE; PS50994; INTEGRASE; 1.
+DR   PROSITE; PS50879; RNASE_H; 1.
+DR   PROSITE; PS50878; RT_POL; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Aspartyl protease; Complete proteome; DNA integration;
+KW   DNA recombination; DNA-directed DNA polymerase; Endonuclease;
+KW   Host cytoplasm; Host nucleus; Hydrolase; Magnesium; Metal-binding;
+KW   Multifunctional enzyme; Nuclease; Nucleotidyltransferase; Protease;
+KW   RNA-binding; RNA-directed DNA polymerase; Transferase;
+KW   Viral genome integration; Viral penetration into host nucleus; Virion;
+KW   Virus entry into host cell.
+FT   CHAIN         1   1143       Pro-Pol polyprotein.
+FT                                /FTId=PRO_0000125483.
+FT   CHAIN         1    751       Protease/Reverse
+FT                                transcriptase/ribonuclease H.
+FT                                /FTId=PRO_0000245443.
+FT   CHAIN         1    596       Protease/Reverse transcriptase.
+FT                                /FTId=PRO_0000245444.
+FT   CHAIN       597    751       Ribonuclease H.
+FT                                /FTId=PRO_0000245445.
+FT   CHAIN       752   1143       Integrase.
+FT                                /FTId=PRO_0000245446.
+FT   DOMAIN        1    143       Peptidase A9. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00863}.
+FT   DOMAIN      198    363       Reverse transcriptase.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00405}.
+FT   DOMAIN      590    748       RNase H. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00408}.
+FT   DOMAIN      868   1024       Integrase catalytic.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00457}.
+FT   ACT_SITE     24     24       For protease activity.
+FT                                {ECO:0000305|PubMed:7474150}.
+FT   METAL       252    252       Magnesium; catalytic; for reverse
+FT                                transcriptase activity. {ECO:0000250}.
+FT   METAL       314    314       Magnesium; catalytic; for reverse
+FT                                transcriptase activity. {ECO:0000250}.
+FT   METAL       315    315       Magnesium; catalytic; for reverse
+FT                                transcriptase activity. {ECO:0000250}.
+FT   METAL       599    599       Magnesium; catalytic; for RNase H
+FT                                activity. {ECO:0000305}.
+FT   METAL       646    646       Magnesium; catalytic; for RNase H
+FT                                activity. {ECO:0000250}.
+FT   METAL       669    669       Magnesium; catalytic; for RNase H
+FT                                activity. {ECO:0000250}.
+FT   METAL       740    740       Magnesium; catalytic; for RNase H
+FT                                activity. {ECO:0000250}.
+FT   METAL       874    874       Magnesium; catalytic; for integrase
+FT                                activity. {ECO:0000250}.
+FT   METAL       936    936       Magnesium; catalytic; for integrase
+FT                                activity. {ECO:0000250}.
+FT   SITE        596    597       Cleavage; by viral protease; partial.
+FT   SITE        751    752       Cleavage; by viral protease.
+FT   MUTAGEN      24     24       D->A: Complete loss of Gag processing and
+FT                                of Pol processing. Particles are non-
+FT                                infectious. {ECO:0000269|PubMed:7474150}.
+FT   MUTAGEN      25     25       S->T: No effect on polyprotein processing
+FT                                and viral replication.
+FT                                {ECO:0000269|PubMed:7474150}.
+FT   MUTAGEN     152    152       P->G: No effect on RT or RNase H
+FT                                activities. {ECO:0000269|PubMed:7544460}.
+FT   MUTAGEN     169    169       P->G: 30% loss of RT activity.
+FT                                {ECO:0000269|PubMed:7544460}.
+FT   MUTAGEN     193    193       P->G: 40% loss of RT activity.
+FT                                {ECO:0000269|PubMed:7544460}.
+FT   MUTAGEN     599    599       D->A: 95% loss of RNase H activity.
+FT                                {ECO:0000269|PubMed:7544460}.
+FT   MUTAGEN     672    672       Y->F: 50% loss of RNase H activity.
+FT                                {ECO:0000269|PubMed:7544460}.
+FT   STRAND      593    603       {ECO:0000244|PDB:2LSN}.
+FT   STRAND      613    621       {ECO:0000244|PDB:2LSN}.
+FT   STRAND      624    626       {ECO:0000244|PDB:2LSN}.
+FT   STRAND      629    639       {ECO:0000244|PDB:2LSN}.
+FT   HELIX       642    659       {ECO:0000244|PDB:2LSN}.
+FT   STRAND      660    662       {ECO:0000244|PDB:2LSN}.
+FT   STRAND      664    669       {ECO:0000244|PDB:2LSN}.
+FT   HELIX       671    678       {ECO:0000244|PDB:2LSN}.
+FT   HELIX       680    686       {ECO:0000244|PDB:2LSN}.
+FT   STRAND      693    695       {ECO:0000244|PDB:2LSN}.
+FT   HELIX       700    712       {ECO:0000244|PDB:2LSN}.
+FT   STRAND      717    720       {ECO:0000244|PDB:2LSN}.
+FT   STRAND      723    725       {ECO:0000244|PDB:2LSN}.
+FT   STRAND      727    729       {ECO:0000244|PDB:2LSN}.
+FT   HELIX       731    749       {ECO:0000244|PDB:2LSN}.
+FT   HELIX       760    767       {ECO:0000244|PDB:3OYM}.
+FT   STRAND      773    775       {ECO:0000244|PDB:3L2V}.
+FT   STRAND      777    779       {ECO:0000244|PDB:3L2R}.
+FT   STRAND      781    784       {ECO:0000244|PDB:3OYM}.
+FT   STRAND      787    792       {ECO:0000244|PDB:3OYM}.
+FT   STRAND      795    798       {ECO:0000244|PDB:3OYM}.
+FT   HELIX       802    804       {ECO:0000244|PDB:3OYM}.
+FT   HELIX       805    814       {ECO:0000244|PDB:3OYM}.
+FT   TURN        815    817       {ECO:0000244|PDB:3OYM}.
+FT   HELIX       820    828       {ECO:0000244|PDB:3OYM}.
+FT   HELIX       836    844       {ECO:0000244|PDB:3OYM}.
+FT   HELIX       848    853       {ECO:0000244|PDB:3OYM}.
+FT   STRAND      858    860       {ECO:0000244|PDB:3OYM}.
+FT   STRAND      874    881       {ECO:0000244|PDB:2X78}.
+FT   STRAND      892    898       {ECO:0000244|PDB:2X78}.
+FT   TURN        899    901       {ECO:0000244|PDB:2X78}.
+FT   STRAND      904    912       {ECO:0000244|PDB:2X78}.
+FT   HELIX       914    924       {ECO:0000244|PDB:2X78}.
+FT   TURN        925    927       {ECO:0000244|PDB:2X78}.
+FT   STRAND      931    935       {ECO:0000244|PDB:2X78}.
+FT   HELIX       939    942       {ECO:0000244|PDB:2X78}.
+FT   HELIX       944    953       {ECO:0000244|PDB:2X78}.
+FT   STRAND      956    959       {ECO:0000244|PDB:2X78}.
+FT   HELIX       965    968       {ECO:0000244|PDB:3OYM}.
+FT   HELIX       970    987       {ECO:0000244|PDB:2X78}.
+FT   TURN        990    996       {ECO:0000244|PDB:2X78}.
+FT   HELIX       997   1005       {ECO:0000244|PDB:2X78}.
+FT   TURN       1010   1012       {ECO:0000244|PDB:2X78}.
+FT   HELIX      1016   1021       {ECO:0000244|PDB:2X78}.
+FT   STRAND     1023   1025       {ECO:0000244|PDB:2X6N}.
+FT   STRAND     1028   1030       {ECO:0000244|PDB:2X74}.
+FT   TURN       1033   1036       {ECO:0000244|PDB:3OYM}.
+FT   HELIX      1040   1054       {ECO:0000244|PDB:2X78}.
+FT   STRAND     1073   1077       {ECO:0000244|PDB:3OYM}.
+FT   STRAND     1092   1099       {ECO:0000244|PDB:3OYM}.
+FT   STRAND     1102   1106       {ECO:0000244|PDB:3OYM}.
+FT   STRAND     1108   1110       {ECO:0000244|PDB:4BE2}.
+FT   STRAND     1112   1116       {ECO:0000244|PDB:3OYM}.
+FT   HELIX      1117   1119       {ECO:0000244|PDB:3OYM}.
+FT   STRAND     1120   1122       {ECO:0000244|PDB:3OYM}.
+SQ   SEQUENCE   1143 AA;  129742 MW;  786E3203B06FFB3C CRC64;
+     MNPLQLLQPL PAEIKGTKLL AHWDSGATIT CIPESFLEDE QPIKKTLIKT IHGEKQQNVY
+     YVTFKVKGRK VEAEVIASPY EYILLSPTDV PWLTQQPLQL TILVPLQEYQ EKILSKTALP
+     EDQKQQLKTL FVKYDNLWQH WENQVGHRKI RPHNIATGDY PPRPQKQYPI NPKAKPSIQI
+     VIDDLLKQGV LTPQNSTMNT PVYPVPKPDG RWRMVLDYRE VNKTIPLTAA QNQHSAGILA
+     TIVRQKYKTT LDLANGFWAH PITPESYWLT AFTWQGKQYC WTRLPQGFLN SPALFTADVV
+     DLLKEIPNVQ VYVDDIYLSH DDPKEHVQQL EKVFQILLQA GYVVSLKKSE IGQKTVEFLG
+     FNITKEGRGL TDTFKTKLLN ITPPKDLKQL QSILGLLNFA RNFIPNFAEL VQPLYNLIAS
+     AKGKYIEWSE ENTKQLNMVI EALNTASNLE ERLPEQRLVI KVNTSPSAGY VRYYNETGKK
+     PIMYLNYVFS KAELKFSMLE KLLTTMHKAL IKAMDLAMGQ EILVYSPIVS MTKIQKTPLP
+     ERKALPIRWI TWMTYLEDPR IQFHYDKTLP ELKHIPDVYT SSQSPVKHPS QYEGVFYTDG
+     SAIKSPDPTK SNNAGMGIVH ATYKPEYQVL NQWSIPLGNH TAQMAEIAAV EFACKKALKI
+     PGPVLVITDS FYVAESANKE LPYWKSNGFV NNKKKPLKHI SKWKSIAECL SMKPDITIQH
+     EKGISLQIPV FILKGNALAD KLATQGSYVV NCNTKKPNLD AELDQLLQGH YIKGYPKQYT
+     YFLEDGKVKV SRPEGVKIIP PQSDRQKIVL QAHNLAHTGR EATLLKIANL YWWPNMRKDV
+     VKQLGRCQQC LITNASNKAS GPILRPDRPQ KPFDKFFIDY IGPLPPSQGY LYVLVVVDGM
+     TGFTWLYPTK APSTSATVKS LNVLTSIAIP KVIHSDQGAA FTSSTFAEWA KERGIHLEFS
+     TPYHPQSGSK VERKNSDIKR LLTKLLVGRP TKWYDLLPVV QLALNNTYSP VLKYTPHQLL
+     FGIDSNTPFA NQDTLDLTRE EELSLLQEIR TSLYHPSTPP ASSRSWSPVV GQLVQERVAR
+     PASLRPRWHK PSTVLKVLNP RTVVILDHLG NNRTVSIDNL KPTSHQNGTT NDTATMDHLE
+     KNE
+//

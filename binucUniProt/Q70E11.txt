@@ -1,0 +1,60 @@
+ID   Q70E11_PSEAI            Unreviewed;       266 AA.
+AC   Q70E11;
+DT   05-JUL-2004, integrated into UniProtKB/TrEMBL.
+DT   05-JUL-2004, sequence version 1.
+DT   07-JAN-2015, entry version 37.
+DE   SubName: Full=Metallo-beta-lactamase VIM-4 {ECO:0000313|EMBL:CAE51025.1};
+GN   Name=blaVIM-4 {ECO:0000313|EMBL:CAE51025.1};
+OS   Pseudomonas aeruginosa.
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+OC   Pseudomonadaceae; Pseudomonas.
+OX   NCBI_TaxID=287 {ECO:0000313|EMBL:CAE51025.1};
+RN   [1] {ECO:0000313|EMBL:CAE51025.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=14749341; DOI=10.1093/jac/dkh095;
+RA   Patzer J., Toleman M.A., Deshpande L.M., Kaminska W.,
+RA   Dzierzanowska D., Bennett P.M., Jones R.N., Walsh T.R.;
+RT   "Pseudomonas aeruginosa strains harbouring an unusual blaVIM-4 gene
+RT   cassette isolated from hospitalized children in Poland (1998-2001).";
+RL   J. Antimicrob. Chemother. 53:451-456(2004).
+RN   [2] {ECO:0000213|PDB:2WRS}
+RP   X-RAY CRYSTALLOGRAPHY (2.79 ANGSTROMS) OF 32-261 IN COMPLEX WITH ZINC.
+RX   PubMed=20527888; DOI=10.1021/jm100213c;
+RA   Lassaux P., Hamel M., Gulea M., Delbruck H., Mercuri P.S.,
+RA   Horsfall L., Dehareng D., Kupper M., Frere J.M., Hoffmann K.,
+RA   Galleni M., Bebrone C.;
+RT   "Mercaptophosphonate compounds as broad-spectrum inhibitors of the
+RT   metallo-beta-lactamases.";
+RL   J. Med. Chem. 53:4862-4876(2010).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AJ585042; CAE51025.1; -; Genomic_DNA.
+DR   PDB; 2WRS; X-ray; 2.79 A; A/B=32-261.
+DR   PDBsum; 2WRS; -.
+DR   ProteinModelPortal; Q70E11; -.
+DR   SMR; Q70E11; 32-261.
+DR   EvolutionaryTrace; Q70E11; -.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.60.15.10; -; 1.
+DR   InterPro; IPR001279; Beta-lactamas-like.
+DR   Pfam; PF00753; Lactamase_B; 1.
+DR   SMART; SM00849; Lactamase_B; 1.
+DR   SUPFAM; SSF56281; SSF56281; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2WRS};
+KW   Metal-binding {ECO:0000213|PDB:2WRS}; Zinc {ECO:0000213|PDB:2WRS}.
+FT   METAL       114    114       Zinc; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2WRS}.
+FT   METAL       116    116       Zinc; via pros nitrogen.
+FT                                {ECO:0000213|PDB:2WRS}.
+FT   METAL       179    179       Zinc; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2WRS}.
+SQ   SEQUENCE   266 AA;  28136 MW;  A69B8D47AE2D629E CRC64;
+     MLKVISSLLV YMTASVMAVA SPLAHSGEPS GEYPTVNEIP VGEVRLYQIA DGVWSHIATQ
+     SFDGAVYPSN GLIVRDGDEL LLIDTAWGAK NTAALLAEIE KQIGLPVTRA VSTHFHDDRV
+     GGVDVLRAAG VATYASPSTR RLAEAEGNEI PTHSLEGLSS SGDAVRFVPV ELFYPGAAHS
+     TDNLVVYVPS ANVLYGGCAV HELSRTSAGN VADADLAEWP TSVERIQKHY PEAEVVIPGH
+     GLPGGLDLLQ HTANVVKAHK NRSVAE
+//

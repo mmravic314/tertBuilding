@@ -1,0 +1,125 @@
+ID   KV2A7_MOUSE             Reviewed;         113 AA.
+AC   P01631;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   21-JUL-1986, sequence version 1.
+DT   24-JUN-2015, entry version 96.
+DE   RecName: Full=Ig kappa chain V-II region 26-10;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   PROTEIN SEQUENCE.
+RC   STRAIN=A/J;
+RX   PubMed=6404298; DOI=10.1021/bi00274a025;
+RA   Novotny J., Margolies M.N.;
+RT   "Amino acid sequence of the light chain variable region from a mouse
+RT   anti-digoxin hybridoma antibody.";
+RL   Biochemistry 22:1153-1158(1983).
+CC   -!- MISCELLANEOUS: This chain was isolated from an IgG2a hybridoma
+CC       protein that binds digoxin.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   PIR; A01914; KVMS26.
+DR   PIR; A32248; A32248.
+DR   PIR; B32248; B32248.
+DR   PIR; C32248; C32248.
+DR   PIR; F32530; F32530.
+DR   PIR; H31485; H31485.
+DR   PIR; PH1030; PH1030.
+DR   PIR; PH1031; PH1031.
+DR   PIR; S53750; S53750.
+DR   UniGene; Mm.333124; -.
+DR   UniGene; Mm.489779; -.
+DR   PDB; 1BFV; X-ray; 2.10 A; L=5-113.
+DR   PDB; 1CFV; X-ray; 2.10 A; L=5-113.
+DR   PDB; 1DLF; X-ray; 1.45 A; L=1-113.
+DR   PDB; 1MAJ; NMR; -; A=1-113.
+DR   PDB; 1MAK; NMR; -; A=1-113.
+DR   PDB; 1N4X; X-ray; 1.70 A; L/M=4-110.
+DR   PDB; 1SVZ; X-ray; 1.89 A; A/B=1-112.
+DR   PDB; 1WZ1; X-ray; 1.85 A; L=1-113.
+DR   PDB; 2BFV; X-ray; 2.50 A; L=5-113.
+DR   PDB; 2DLF; X-ray; 1.55 A; L=1-113.
+DR   PDB; 2HKF; X-ray; 2.01 A; L=1-113.
+DR   PDB; 2HKH; X-ray; 2.10 A; L=1-113.
+DR   PDB; 2IPT; X-ray; 2.00 A; L=1-113.
+DR   PDB; 2IQA; X-ray; 2.00 A; A/L=1-113.
+DR   PDB; 2O5X; X-ray; 2.05 A; L=1-113.
+DR   PDB; 2O5Y; X-ray; 2.85 A; L=1-113.
+DR   PDB; 2O5Z; X-ray; 2.40 A; L=1-113.
+DR   PDB; 2R0W; X-ray; 2.50 A; L=1-113.
+DR   PDB; 2VQ1; X-ray; 2.50 A; A/E=1-113.
+DR   PDBsum; 1BFV; -.
+DR   PDBsum; 1CFV; -.
+DR   PDBsum; 1DLF; -.
+DR   PDBsum; 1MAJ; -.
+DR   PDBsum; 1MAK; -.
+DR   PDBsum; 1N4X; -.
+DR   PDBsum; 1SVZ; -.
+DR   PDBsum; 1WZ1; -.
+DR   PDBsum; 2BFV; -.
+DR   PDBsum; 2DLF; -.
+DR   PDBsum; 2HKF; -.
+DR   PDBsum; 2HKH; -.
+DR   PDBsum; 2IPT; -.
+DR   PDBsum; 2IQA; -.
+DR   PDBsum; 2O5X; -.
+DR   PDBsum; 2O5Y; -.
+DR   PDBsum; 2O5Z; -.
+DR   PDBsum; 2R0W; -.
+DR   PDBsum; 2VQ1; -.
+DR   ProteinModelPortal; P01631; -.
+DR   SMR; P01631; 1-113.
+DR   IntAct; P01631; 1.
+DR   MINT; MINT-1505910; -.
+DR   MaxQB; P01631; -.
+DR   PaxDb; P01631; -.
+DR   PRIDE; P01631; -.
+DR   eggNOG; NOG28757; -.
+DR   HOVERGEN; HBG018013; -.
+DR   EvolutionaryTrace; P01631; -.
+DR   Proteomes; UP000000589; Unplaced.
+DR   GO; GO:0003823; F:antigen binding; IEA:UniProtKB-KW.
+DR   Gene3D; 2.60.40.10; -; 1.
+DR   InterPro; IPR007110; Ig-like_dom.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   InterPro; IPR013106; Ig_V-set.
+DR   Pfam; PF07686; V-set; 1.
+DR   SMART; SM00406; IGv; 1.
+DR   PROSITE; PS50835; IG_LIKE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Direct protein sequencing;
+KW   Disulfide bond; Hybridoma; Immunoglobulin domain;
+KW   Immunoglobulin V region; Monoclonal antibody; Reference proteome.
+FT   CHAIN         1   >113       Ig kappa chain V-II region 26-10.
+FT                                /FTId=PRO_0000059776.
+FT   REGION        1     23       Framework-1.
+FT   REGION       24     39       Complementarity-determining-1.
+FT   REGION       40     54       Framework-2.
+FT   REGION       55     61       Complementarity-determining-2.
+FT   REGION       62     93       Framework-3.
+FT   REGION       94    102       Complementarity-determining-3.
+FT   REGION      103    112       Framework-4.
+FT   DISULFID     23     93       {ECO:0000255|PROSITE-ProRule:PRU00114}.
+FT   NON_TER     113    113
+FT   STRAND        4      7       {ECO:0000244|PDB:1DLF}.
+FT   STRAND        9     13       {ECO:0000244|PDB:1DLF}.
+FT   STRAND       19     27       {ECO:0000244|PDB:1DLF}.
+FT   STRAND       31     34       {ECO:0000244|PDB:1BFV}.
+FT   STRAND       38     43       {ECO:0000244|PDB:1DLF}.
+FT   STRAND       50     54       {ECO:0000244|PDB:1DLF}.
+FT   TURN         55     57       {ECO:0000244|PDB:1DLF}.
+FT   STRAND       67     72       {ECO:0000244|PDB:1DLF}.
+FT   STRAND       75     80       {ECO:0000244|PDB:1DLF}.
+FT   HELIX        85     87       {ECO:0000244|PDB:1DLF}.
+FT   STRAND       89     95       {ECO:0000244|PDB:1DLF}.
+FT   STRAND       97    100       {ECO:0000244|PDB:1DLF}.
+FT   STRAND      107    111       {ECO:0000244|PDB:1DLF}.
+SQ   SEQUENCE   113 AA;  12273 MW;  F9F39CE949A84C2A CRC64;
+     DVVMTQTPLS LPVSLGDQAS ISCRSSQSLV HSNGNTYLNW YLQKAGQSPK LLIYKVSNRF
+     SGVPDRFSGS GSGTDFTLKI SRVEAEDLGI YFCSQTTHVP PTFGGGTKLE IKR
+//

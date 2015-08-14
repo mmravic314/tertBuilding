@@ -1,0 +1,255 @@
+ID   MEMA_METCA              Reviewed;         527 AA.
+AC   P22869; Q609N8;
+DT   01-AUG-1991, integrated into UniProtKB/Swiss-Prot.
+DT   07-DEC-2004, sequence version 3.
+DT   22-JUL-2015, entry version 118.
+DE   RecName: Full=Methane monooxygenase component A alpha chain;
+DE            EC=1.14.13.25;
+DE   AltName: Full=Methane hydroxylase;
+GN   Name=mmoX; OrderedLocusNames=MCA1194;
+OS   Methylococcus capsulatus (strain ATCC 33009 / NCIMB 11132 / Bath).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Methylococcales;
+OC   Methylococcaceae; Methylococcus.
+OX   NCBI_TaxID=243233;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND PROTEIN SEQUENCE OF 1-6.
+RC   STRAIN=ATCC 33009 / NCIMB 11132 / Bath;
+RX   PubMed=2205538; DOI=10.1016/0378-1119(90)90158-N;
+RA   Stainthorpe A.C., Lees V., Salmond G.P.C., Dalton H., Murrell J.C.;
+RT   "The methane monooxygenase gene cluster of Methylococcus capsulatus
+RT   (Bath).";
+RL   Gene 91:27-34(1990).
+RN   [2]
+RP   SEQUENCE REVISION TO 84; 306 AND 444.
+RA   McDonald I., Murrell J.C.;
+RL   Submitted (MAY-2000) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 33009 / NCIMB 11132 / Bath;
+RX   PubMed=15383840; DOI=10.1371/journal.pbio.0020303;
+RA   Ward N.L., Larsen O., Sakwa J., Bruseth L., Khouri H.M., Durkin A.S.,
+RA   Dimitrov G., Jiang L., Scanlan D., Kang K.H., Lewis M.R., Nelson K.E.,
+RA   Methe B.A., Wu M., Heidelberg J.F., Paulsen I.T., Fouts D.E.,
+RA   Ravel J., Tettelin H., Ren Q., Read T.D., DeBoy R.T., Seshadri R.,
+RA   Salzberg S.L., Jensen H.B., Birkeland N.K., Nelson W.C., Dodson R.J.,
+RA   Grindhaug S.H., Holt I.E., Eidhammer I., Jonasen I., Vanaken S.,
+RA   Utterback T.R., Feldblyum T.V., Fraser C.M., Lillehaug J.R.,
+RA   Eisen J.A.;
+RT   "Genomic insights into methanotrophy: the complete genome sequence of
+RT   Methylococcus capsulatus (Bath).";
+RL   PLoS Biol. 2:1616-1628(2004).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS).
+RX   PubMed=8255292; DOI=10.1038/366537a0;
+RA   Rosenzweig A.C., Frederick C.A., Lippard S.J., Nordlund P.;
+RT   "Crystal structure of a bacterial non-haem iron hydroxylase that
+RT   catalyses the biological oxidation of methane.";
+RL   Nature 366:537-543(1993).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS).
+RX   PubMed=9432288; DOI=10.1016/1074-5521(95)90222-8;
+RA   Rosenzweig A.C., Nordlund P., Takahara P.M., Frederick C.A.,
+RA   Lippard S.J.;
+RT   "Geometry of the soluble methane monooxygenase catalytic diiron center
+RT   in two oxidation states.";
+RL   Chem. Biol. 2:409-418(1995).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS).
+RC   STRAIN=ATCC 33009 / NCIMB 11132 / Bath;
+RX   PubMed=9329079;
+RX   DOI=10.1002/(SICI)1097-0134(199710)29:2<141::AID-PROT2>3.3.CO;2-W;
+RA   Rosenzweig A.C., Brandstetter H., Whittington D.A., Nordlund P.,
+RA   Lippard S.J., Frederick C.A.;
+RT   "Crystal structures of the methane monooxygenase hydroxylase from
+RT   Methylococcus capsulatus (Bath): implications for substrate gating and
+RT   component interactions.";
+RL   Proteins 29:141-152(1997).
+RN   [7]
+RP   X-RAY CRYSTALLOGRAPHY (1.96 ANGSTROMS).
+RC   STRAIN=ATCC 33009 / NCIMB 11132 / Bath;
+RX   PubMed=11456616; DOI=10.1021/ja003240n;
+RA   Whittington D.A., Lippard S.J.;
+RT   "Crystal structures of the soluble methane monooxygenase hydroxylase
+RT   from Methylococcus capsulatus (Bath) demonstrating geometrical
+RT   variability at the dinuclear iron active site.";
+RL   J. Am. Chem. Soc. 123:827-838(2001).
+CC   -!- FUNCTION: Responsible for the initial oxygenation of methane to
+CC       methanol in methanotrophs. It also catalyzes the monohydroxylation
+CC       of a variety of unactivated alkenes, alicyclic, aromatic and
+CC       heterocyclic compounds.
+CC   -!- CATALYTIC ACTIVITY: Methane + NAD(P)H + O(2) = methanol +
+CC       NAD(P)(+) + H(2)O.
+CC   -!- COFACTOR:
+CC       Name=Fe cation; Xref=ChEBI:CHEBI:24875;
+CC       Note=Binds 2 iron ions.;
+CC   -!- SUBUNIT: M.capsulatus has two forms of methane monooxygenase, a
+CC       soluble and a membrane-bound type. The soluble type consists of
+CC       four components (A to D): protein A, comprising three chains, in
+CC       an alpha-2, beta-2, gamma-2 configuration, is a nonheme iron
+CC       protein containing an unusual mu-hydroxo bridge structure at its
+CC       active site and interacts with both oxygen and methane.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M90050; AAB62392.3; -; Genomic_DNA.
+DR   EMBL; AE017282; AAU92736.1; -; Genomic_DNA.
+DR   PIR; JQ0702; JQ0702.
+DR   RefSeq; WP_010960482.1; NC_002977.6.
+DR   PDB; 1FYZ; X-ray; 2.15 A; A/B=1-527.
+DR   PDB; 1FZ0; X-ray; 2.07 A; A/B=1-527.
+DR   PDB; 1FZ1; X-ray; 1.96 A; A/B=1-527.
+DR   PDB; 1FZ2; X-ray; 2.15 A; A/B=1-527.
+DR   PDB; 1FZ3; X-ray; 2.03 A; A/B=1-527.
+DR   PDB; 1FZ4; X-ray; 2.38 A; A/B=1-527.
+DR   PDB; 1FZ5; X-ray; 2.40 A; A/B=1-527.
+DR   PDB; 1FZ6; X-ray; 2.05 A; A/B=1-527.
+DR   PDB; 1FZ7; X-ray; 1.96 A; A/B=1-527.
+DR   PDB; 1FZ8; X-ray; 2.10 A; A/B=1-527.
+DR   PDB; 1FZ9; X-ray; 2.30 A; A/B=1-527.
+DR   PDB; 1FZH; X-ray; 2.60 A; A/B=1-527.
+DR   PDB; 1FZI; X-ray; 3.30 A; A/B=1-527.
+DR   PDB; 1MMO; X-ray; 2.20 A; D/E=15-526.
+DR   PDB; 1MTY; X-ray; 1.70 A; D/E=15-526.
+DR   PDB; 1XMF; X-ray; 2.32 A; A/B=1-527.
+DR   PDB; 1XMG; X-ray; 2.10 A; A/B=1-527.
+DR   PDB; 1XMH; X-ray; 2.32 A; A/B=1-527.
+DR   PDB; 1XU3; X-ray; 2.30 A; A/B=1-527.
+DR   PDB; 1XU5; X-ray; 1.96 A; A/B=1-527.
+DR   PDB; 1XVB; X-ray; 1.80 A; A/B=1-527.
+DR   PDB; 1XVC; X-ray; 2.00 A; A/B=1-527.
+DR   PDB; 1XVD; X-ray; 2.30 A; A/B=1-527.
+DR   PDB; 1XVE; X-ray; 2.40 A; A/B=1-527.
+DR   PDB; 1XVF; X-ray; 2.00 A; A/B=1-527.
+DR   PDB; 1XVG; X-ray; 1.96 A; A/B=1-527.
+DR   PDB; 4GAM; X-ray; 2.90 A; A/F/K/P=1-527.
+DR   PDBsum; 1FYZ; -.
+DR   PDBsum; 1FZ0; -.
+DR   PDBsum; 1FZ1; -.
+DR   PDBsum; 1FZ2; -.
+DR   PDBsum; 1FZ3; -.
+DR   PDBsum; 1FZ4; -.
+DR   PDBsum; 1FZ5; -.
+DR   PDBsum; 1FZ6; -.
+DR   PDBsum; 1FZ7; -.
+DR   PDBsum; 1FZ8; -.
+DR   PDBsum; 1FZ9; -.
+DR   PDBsum; 1FZH; -.
+DR   PDBsum; 1FZI; -.
+DR   PDBsum; 1MMO; -.
+DR   PDBsum; 1MTY; -.
+DR   PDBsum; 1XMF; -.
+DR   PDBsum; 1XMG; -.
+DR   PDBsum; 1XMH; -.
+DR   PDBsum; 1XU3; -.
+DR   PDBsum; 1XU5; -.
+DR   PDBsum; 1XVB; -.
+DR   PDBsum; 1XVC; -.
+DR   PDBsum; 1XVD; -.
+DR   PDBsum; 1XVE; -.
+DR   PDBsum; 1XVF; -.
+DR   PDBsum; 1XVG; -.
+DR   PDBsum; 4GAM; -.
+DR   ProteinModelPortal; P22869; -.
+DR   SMR; P22869; 15-526.
+DR   DIP; DIP-59861N; -.
+DR   STRING; 243233.MCA1194; -.
+DR   EnsemblBacteria; AAU92736; AAU92736; MCA1194.
+DR   KEGG; mca:MCA1194; -.
+DR   PATRIC; 22606220; VBIMetCap22254_1226.
+DR   eggNOG; NOG29018; -.
+DR   HOGENOM; HOG000076230; -.
+DR   KO; K16157; -.
+DR   OMA; HMANGYQ; -.
+DR   OrthoDB; EOG6N67XK; -.
+DR   BioCyc; MetaCyc:MONOMER-3861; -.
+DR   BRENDA; 1.14.13.25; 3305.
+DR   EvolutionaryTrace; P22869; -.
+DR   Proteomes; UP000006821; Chromosome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0015049; F:methane monooxygenase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0006725; P:cellular aromatic compound metabolic process; IEA:InterPro.
+DR   GO; GO:0006730; P:one-carbon metabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.620.20; -; 1.
+DR   InterPro; IPR009078; Ferritin-like_SF.
+DR   InterPro; IPR003430; Phenol_Hydrox.
+DR   InterPro; IPR012348; RNR-rel.
+DR   Pfam; PF02332; Phenol_Hydrox; 1.
+DR   SUPFAM; SSF47240; SSF47240; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Direct protein sequencing; Iron;
+KW   Metal-binding; Monooxygenase; NADP; One-carbon metabolism;
+KW   Oxidoreductase; Reference proteome.
+FT   CHAIN         1    527       Methane monooxygenase component A alpha
+FT                                chain.
+FT                                /FTId=PRO_0000096405.
+FT   ACT_SITE    151    151       {ECO:0000255}.
+FT   METAL       114    114       Iron 1.
+FT   METAL       144    144       Iron 1.
+FT   METAL       147    147       Iron 1.
+FT   METAL       209    209       Iron 2.
+FT   METAL       243    243       Iron 2.
+FT   METAL       246    246       Iron 2.
+FT   CONFLICT    306    306       N -> D (in Ref. 2; AAB62392).
+FT                                {ECO:0000305}.
+FT   CONFLICT    444    444       Q -> E (in Ref. 2; AAB62392).
+FT                                {ECO:0000305}.
+FT   HELIX        25     29       {ECO:0000244|PDB:1MTY}.
+FT   HELIX        30     35       {ECO:0000244|PDB:1MTY}.
+FT   HELIX        64     83       {ECO:0000244|PDB:1MTY}.
+FT   HELIX        85     88       {ECO:0000244|PDB:1MTY}.
+FT   TURN         89     93       {ECO:0000244|PDB:1MTY}.
+FT   HELIX        97    127       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       131    161       {ECO:0000244|PDB:1MTY}.
+FT   TURN        166    170       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       171    174       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       175    177       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       180    188       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       190    193       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       197    204       {ECO:0000244|PDB:1MTY}.
+FT   TURN        205    207       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       208    211       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       213    226       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       231    257       {ECO:0000244|PDB:1MTY}.
+FT   STRAND      258    260       {ECO:0000244|PDB:1XMF}.
+FT   HELIX       262    292       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       301    309       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       310    315       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       316    319       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       320    324       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       332    339       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       342    352       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       354    356       {ECO:0000244|PDB:1MTY}.
+FT   STRAND      357    360       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       366    375       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       379    392       {ECO:0000244|PDB:1MTY}.
+FT   TURN        393    396       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       398    400       {ECO:0000244|PDB:1XVB}.
+FT   HELIX       405    410       {ECO:0000244|PDB:1MTY}.
+FT   TURN        419    421       {ECO:0000244|PDB:1MTY}.
+FT   TURN        427    429       {ECO:0000244|PDB:1MTY}.
+FT   STRAND      431    433       {ECO:0000244|PDB:1XMG}.
+FT   STRAND      437    441       {ECO:0000244|PDB:1MTY}.
+FT   STRAND      444    450       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       451    459       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       461    463       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       469    472       {ECO:0000244|PDB:1MTY}.
+FT   TURN        473    475       {ECO:0000244|PDB:4GAM}.
+FT   HELIX       478    484       {ECO:0000244|PDB:1MTY}.
+FT   STRAND      492    496       {ECO:0000244|PDB:1MTY}.
+FT   STRAND      498    500       {ECO:0000244|PDB:1MTY}.
+FT   STRAND      503    505       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       509    513       {ECO:0000244|PDB:1MTY}.
+FT   TURN        514    516       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       522    525       {ECO:0000244|PDB:1MTY}.
+SQ   SEQUENCE   527 AA;  60646 MW;  953438FDF5208374 CRC64;
+     MALSTATKAA TDALAANRAP TSVNAQEVHR WLQSFNWDFK NNRTKYATKY KMANETKEQF
+     KLIAKEYARM EAVKDERQFG SLQDALTRLN AGVRVHPKWN ETMKVVSNFL EVGEYNAIAA
+     TGMLWDSAQA AEQKNGYLAQ VLDEIRHTHQ CAYVNYYFAK NGQDPAGHND ARRTRTIGPL
+     WKGMKRVFSD GFISGDAVEC SLNLQLVGEA CFTNPLIVAV TEWAAANGDE ITPTVFLSIE
+     TDELRHMANG YQTVVSIAND PASAKYLNTD LNNAFWTQQK YFTPVLGMLF EYGSKFKVEP
+     WVKTWNRWVY EDWGGIWIGR LGKYGVESPR SLKDAKQDAY WAHHDLYLLA YALWPTGFFR
+     LALPDQEEME WFEANYPGWY DHYGKIYEEW RARGCEDPSS GFIPLMWFIE NNHPIYIDRV
+     SQVPFCPSLA KGASTLRVHE YNGQMHTFSD QWGERMWLAE PERYECQNIF EQYEGRELSE
+     VIAELHGLRS DGKTLIAQPH VRGDKLWTLD DIKRLNCVFK NPVKAFN
+//

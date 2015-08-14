@@ -1,0 +1,133 @@
+ID   PCNA1_SULTO             Reviewed;         245 AA.
+AC   Q975N2; F9VMW4;
+DT   05-MAR-2002, integrated into UniProtKB/Swiss-Prot.
+DT   01-DEC-2001, sequence version 1.
+DT   22-JUL-2015, entry version 89.
+DE   RecName: Full=DNA polymerase sliding clamp 1 {ECO:0000255|HAMAP-Rule:MF_00317};
+DE   AltName: Full=Proliferating cell nuclear antigen homolog 1 {ECO:0000255|HAMAP-Rule:MF_00317};
+DE            Short=PCNA1 {ECO:0000255|HAMAP-Rule:MF_00317};
+GN   Name=pcn1 {ECO:0000255|HAMAP-Rule:MF_00317}; Synonyms=pcnA;
+GN   OrderedLocusNames=STK_03870;
+OS   Sulfolobus tokodaii (strain DSM 16993 / JCM 10545 / NBRC 100140 / 7).
+OC   Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae;
+OC   Sulfolobus.
+OX   NCBI_TaxID=273063;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=DSM 16993 / JCM 10545 / NBRC 100140 / 7;
+RX   PubMed=11572479; DOI=10.1093/dnares/8.4.123;
+RA   Kawarabayasi Y., Hino Y., Horikawa H., Jin-no K., Takahashi M.,
+RA   Sekine M., Baba S., Ankai A., Kosugi H., Hosoyama A., Fukui S.,
+RA   Nagai Y., Nishijima K., Otsuka R., Nakazawa H., Takamiya M., Kato Y.,
+RA   Yoshizawa T., Tanaka T., Kudoh Y., Yamazaki J., Kushida N., Oguchi A.,
+RA   Aoki K., Masuda S., Yanagii M., Nishimura M., Yamagishi A., Oshima T.,
+RA   Kikuchi H.;
+RT   "Complete genome sequence of an aerobic thermoacidophilic
+RT   Crenarchaeon, Sulfolobus tokodaii strain7.";
+RL   DNA Res. 8:123-140(2001).
+RN   [2]
+RP   FUNCTION, INTERACTION WITH PCNA3, AND SUBUNIT.
+RC   STRAIN=DSM 16993 / JCM 10545 / NBRC 100140 / 7;
+RX   PubMed=18782564; DOI=10.1016/j.bbrc.2008.08.150;
+RA   Lu S., Li Z., Wang Z., Ma X., Sheng D., Ni J., Shen Y.;
+RT   "Spatial subunit distribution and in vitro functions of the novel
+RT   trimeric PCNA complex from Sulfolobus tokodaii.";
+RL   Biochem. Biophys. Res. Commun. 376:369-374(2008).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (1.68 ANGSTROMS).
+RA   Tanabe E., Yasutake Y., Tanaka Y., Yao M., Tsumoto K., Kumagai I.,
+RA   Tanaka I.;
+RT   "Crystal structure of proliferating cell nuclear antigen (PCNA)
+RT   homolog from Sulfolobus tokodaii.";
+RL   Submitted (JUL-2011) to the PDB data bank.
+CC   -!- FUNCTION: Sliding clamp subunit that acts as a moving platform for
+CC       DNA processing. Responsible for tethering the catalytic subunit of
+CC       DNA polymerase and other proteins to DNA during high-speed
+CC       replication (By similarity). The trimeric complex inhibits DNA
+CC       ligase and both 3'-5' and 5'-3' activity of Hel308 (Hjm) helicase,
+CC       but stimulates Hjc, the Holliday junction cleavage enzyme.
+CC       {ECO:0000255|HAMAP-Rule:MF_00317, ECO:0000269|PubMed:18782564}.
+CC   -!- SUBUNIT: The subunits circularize to form a toroid; DNA passes
+CC       through its center. Replication factor C (RFC) is required to load
+CC       the toroid on the DNA (By similarity). Forms a dimeric complex
+CC       with PCNA3 and a trimeric complex with PCNA2 and PCNA3; does not
+CC       form homotrimers (PubMed:18782564). {ECO:0000250,
+CC       ECO:0000269|PubMed:18782564}.
+CC   -!- SIMILARITY: Belongs to the PCNA family. {ECO:0000255|HAMAP-
+CC       Rule:MF_00317}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; BA000023; BAK54261.1; -; Genomic_DNA.
+DR   RefSeq; NP_376259.1; NC_003106.2.
+DR   RefSeq; WP_010978351.1; NC_003106.2.
+DR   PDB; 1UD9; X-ray; 1.68 A; A/B/C/D=2-245.
+DR   PDBsum; 1UD9; -.
+DR   ProteinModelPortal; Q975N2; -.
+DR   SMR; Q975N2; 2-245.
+DR   STRING; 273063.ST0387; -.
+DR   EnsemblBacteria; BAK54261; BAK54261; STK_03870.
+DR   GeneID; 1458312; -.
+DR   KEGG; sto:ST0387; -.
+DR   eggNOG; COG0592; -.
+DR   HOGENOM; HOG000222371; -.
+DR   KO; K04802; -.
+DR   OMA; QSMDNSH; -.
+DR   BioCyc; STOK273063:GJC7-447-MONOMER; -.
+DR   EvolutionaryTrace; Q975N2; -.
+DR   Proteomes; UP000001015; Chromosome.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0030337; F:DNA polymerase processivity factor activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0006260; P:DNA replication; IEA:UniProtKB-KW.
+DR   GO; GO:0006275; P:regulation of DNA replication; IEA:UniProtKB-HAMAP.
+DR   HAMAP; MF_00317; DNApol_clamp_arch; 1.
+DR   InterPro; IPR000730; Pr_cel_nuc_antig.
+DR   InterPro; IPR022649; Pr_cel_nuc_antig_C.
+DR   InterPro; IPR022659; Pr_cel_nuc_antig_CS.
+DR   InterPro; IPR022648; Pr_cel_nuc_antig_N.
+DR   PANTHER; PTHR11352; PTHR11352; 1.
+DR   Pfam; PF02747; PCNA_C; 1.
+DR   Pfam; PF00705; PCNA_N; 1.
+DR   PRINTS; PR00339; PCNACYCLIN.
+DR   TIGRFAMs; TIGR00590; pcna; 1.
+DR   PROSITE; PS01251; PCNA_1; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; DNA replication; DNA-binding;
+KW   Reference proteome.
+FT   CHAIN         1    245       DNA polymerase sliding clamp 1.
+FT                                /FTId=PRO_0000149217.
+FT   STRAND        2      6       {ECO:0000244|PDB:1UD9}.
+FT   HELIX         8     21       {ECO:0000244|PDB:1UD9}.
+FT   STRAND       23     30       {ECO:0000244|PDB:1UD9}.
+FT   STRAND       33     39       {ECO:0000244|PDB:1UD9}.
+FT   STRAND       43     52       {ECO:0000244|PDB:1UD9}.
+FT   HELIX        53     55       {ECO:0000244|PDB:1UD9}.
+FT   STRAND       56     60       {ECO:0000244|PDB:1UD9}.
+FT   STRAND       65     70       {ECO:0000244|PDB:1UD9}.
+FT   HELIX        71     78       {ECO:0000244|PDB:1UD9}.
+FT   STRAND       87     93       {ECO:0000244|PDB:1UD9}.
+FT   STRAND       96    101       {ECO:0000244|PDB:1UD9}.
+FT   STRAND      103    105       {ECO:0000244|PDB:1UD9}.
+FT   STRAND      107    112       {ECO:0000244|PDB:1UD9}.
+FT   STRAND      129    135       {ECO:0000244|PDB:1UD9}.
+FT   HELIX       136    149       {ECO:0000244|PDB:1UD9}.
+FT   STRAND      151    157       {ECO:0000244|PDB:1UD9}.
+FT   STRAND      159    170       {ECO:0000244|PDB:1UD9}.
+FT   STRAND      174    177       {ECO:0000244|PDB:1UD9}.
+FT   HELIX       178    180       {ECO:0000244|PDB:1UD9}.
+FT   STRAND      183    190       {ECO:0000244|PDB:1UD9}.
+FT   STRAND      192    197       {ECO:0000244|PDB:1UD9}.
+FT   HELIX       198    203       {ECO:0000244|PDB:1UD9}.
+FT   HELIX       204    210       {ECO:0000244|PDB:1UD9}.
+FT   STRAND      212    218       {ECO:0000244|PDB:1UD9}.
+FT   STRAND      224    229       {ECO:0000244|PDB:1UD9}.
+FT   HELIX       231    233       {ECO:0000244|PDB:1UD9}.
+FT   STRAND      235    240       {ECO:0000244|PDB:1UD9}.
+SQ   SEQUENCE   245 AA;  27284 MW;  BB73C45F8A83D91A CRC64;
+     MHIVYDDVRD LKAIIQALLK LVDEALFDIK PEGIQLVAID KAHISLIKIE LPKEMFKEYD
+     VPEEFKFGFN TQYMSKLLKA AKRKEEIIID ADSPEVVKLT LSGALNRVFN VNNIEVLPPE
+     VPEVNLEFDI KATINASGLK NAIGEIAEVA DTLLISGNEE KVVVKGEGEN KVEVEFSKDT
+     GSLADIEFNK ESSSAYDVEY LNDIISLTKL SDYVKVAFAD QKPMQLEFNM EGGGKVTYLL
+     APKLS
+//

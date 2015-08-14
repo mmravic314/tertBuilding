@@ -1,0 +1,70 @@
+ID   Q7SIE9_THESP            Unreviewed;       458 AA.
+AC   Q7SIE9; Q7SIE8;
+DT   15-DEC-2003, integrated into UniProtKB/TrEMBL.
+DT   15-DEC-2003, sequence version 1.
+DT   24-JUN-2015, entry version 50.
+DE   SubName: Full=Hydrolase {ECO:0000313|PDB:1GKP, ECO:0000313|PDB:1GKQ};
+OS   Thermus sp.
+OC   Bacteria; Deinococcus-Thermus; Deinococci; Thermales; Thermaceae;
+OC   Thermus.
+OX   NCBI_TaxID=275 {ECO:0000313|PDB:1GKP, ECO:0000313|PDB:1GKQ};
+RN   [1] {ECO:0000213|PDB:1GKP, ECO:0000213|PDB:1GKQ, ECO:0000313|PDB:1GKP}
+RP   X-RAY CRYSTALLOGRAPHY (1.30 ANGSTROMS) IN COMPLEX WITH ZINC, AND
+RP   CARBOXYLATION AT LYS-149.
+RX   PubMed=12079340; DOI=10.1016/S0022-2836(02)00422-9;
+RA   Abendroth J., Niefind K., Schomburg D.;
+RT   "X-ray structure of a dihydropyrimidinase from Thermus sp. at 1.3 A
+RT   resolution.";
+RL   J. Mol. Biol. 320:143-156(2002).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   PDB; 1GKP; X-ray; 1.29 A; A/B/C/D/E/F=1-458.
+DR   PDB; 1GKQ; X-ray; 2.60 A; A/B/C/D=1-458.
+DR   ProteinModelPortal; Q7SIE9; -.
+DR   SMR; Q7SIE9; 1-458.
+DR   BRENDA; 3.5.2.2; 6340.
+DR   EvolutionaryTrace; Q7SIE9; -.
+DR   GO; GO:0005737; C:cytoplasm; IEA:InterPro.
+DR   GO; GO:0016810; F:hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 2.30.40.10; -; 2.
+DR   InterPro; IPR011778; Hydantoinase/dihydroPyrase.
+DR   InterPro; IPR011059; Metal-dep_hydrolase_composite.
+DR   SUPFAM; SSF51338; SSF51338; 2.
+DR   TIGRFAMs; TIGR02033; D-hydantoinase; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:1GKP, ECO:0000213|PDB:1GKQ};
+KW   Metal-binding {ECO:0000213|PDB:1GKP, ECO:0000213|PDB:1GKQ};
+KW   Zinc {ECO:0000213|PDB:1GKP, ECO:0000213|PDB:1GKQ}.
+FT   METAL        58     58       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:1GKP,
+FT                                ECO:0000213|PDB:1GKQ}.
+FT   METAL        60     60       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:1GKP,
+FT                                ECO:0000213|PDB:1GKQ}.
+FT   METAL       149    149       Zinc 1. {ECO:0000213|PDB:1GKP,
+FT                                ECO:0000213|PDB:1GKQ}.
+FT   METAL       149    149       Zinc 2. {ECO:0000213|PDB:1GKP,
+FT                                ECO:0000213|PDB:1GKQ}.
+FT   METAL       182    182       Zinc 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:1GKP,
+FT                                ECO:0000213|PDB:1GKQ}.
+FT   METAL       238    238       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:1GKP,
+FT                                ECO:0000213|PDB:1GKQ}.
+FT   METAL       314    314       Zinc 1. {ECO:0000213|PDB:1GKP,
+FT                                ECO:0000213|PDB:1GKQ}.
+FT   MOD_RES     149    149       N6-carboxylysine. {ECO:0000213|PDB:1GKP,
+FT                                ECO:0000213|PDB:1GKQ}.
+SQ   SEQUENCE   458 AA;  50676 MW;  DAD00FE806B8AFD3 CRC64;
+     PLLIKNGEII TADSRYKADI YAEGETITRI GQNLEAPPGT EVIDATGKYV FPGFIDPHVH
+     IYLPFMATFA KDTHETGSKA ALMGGTTTYI EMCCPSRNDD ALEGYQLWKS KAEGNSYCDY
+     TFHMAVSKFD EKTEGQLREI VADGISSFKI FLSYKNFFGV DDGEMYQTLR LAKELGVIVT
+     AHCENAELVG RLQQKLLSEG KTGPEWHEPS RPEAVEAEGT ARFATFLETT GATGYVVHLS
+     CKPALDAAMA AKARGVPIYI ESVIPHFLLD KTYAERGGVE AMKYIMSPPL RDKRNQKVLW
+     DALAQGFIDT VGTDHCPFDT EQKLLGKEAF TAIPNGIPAI EDRVNLLYTY GVSRGRLDIH
+     RFVDAASTKA AKLFGLFPRK GTIAVGSDAD LVVYDPQYRG TISVKTQHVN NDYNGFEGFE
+     IDGRPSVVTV RGKVAVRDGQ FVGEKGWGKL LRREPMYF
+//

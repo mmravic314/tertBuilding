@@ -1,0 +1,201 @@
+ID   LAC1_TRAMX              Reviewed;         499 AA.
+AC   D0VWU3;
+DT   30-NOV-2010, integrated into UniProtKB/Swiss-Prot.
+DT   15-DEC-2009, sequence version 1.
+DT   26-NOV-2014, entry version 23.
+DE   RecName: Full=Laccase {ECO:0000303|PubMed:16944230, ECO:0000303|PubMed:17012782, ECO:0000312|PDB:3DIV};
+DE            EC=1.10.3.2;
+DE   AltName: Full=Benzenediol:oxygen oxidoreductase {ECO:0000250|UniProtKB:Q12718};
+DE   AltName: Full=Diphenol oxidase {ECO:0000250|UniProtKB:Q12718};
+DE   AltName: Full=Urishiol oxidase {ECO:0000250|UniProtKB:Q12718};
+OS   Trametes maxima (White-rot fungus) (Cerrena maxima).
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Polyporales; Trametes.
+OX   NCBI_TaxID=259368;
+RN   [1] {ECO:0000305}
+RP   CRYSTALLIZATION, PRELIMINARY X-RAY CRYSTALLOGRAPHY, CATALYTIC
+RP   ACTIVITY, COFACTOR, SUBCELLULAR LOCATION, NITRATION AT TYR-196 AND
+RP   TYR-372, GLYCOSYLATION AT ASN-54; ASN-217 AND ASN-436, AND DISULFIDE
+RP   BONDS.
+RC   STRAIN=0275 {ECO:0000269|PubMed:17012782};
+RX   PubMed=17012782; DOI=10.1107/S1744309106036578;
+RA   Lyashenko A.V., Zhukhlistova N.E., Gabdoulkhakov A.G., Zhukova Y.N.,
+RA   Voelter W., Zaitsev V.N., Bento I., Stepanova E.V., Kachalova G.S.,
+RA   Koroleva O.V., Cherkashyn E.A., Tishkov V.I., Lamzin V.S.,
+RA   Schirwitz K., Morgunova E.Y., Betzel C., Lindley P.F., Mikhailov A.M.;
+RT   "Purification, crystallization and preliminary X-ray study of the
+RT   fungal laccase from Cerrena maxima.";
+RL   Acta Crystallogr. F 62:954-957(2006).
+RN   [2] {ECO:0000305}
+RP   X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS), FUNCTION, CATALYTIC ACTIVITY,
+RP   COFACTOR, SUBCELLULAR LOCATION, NITRATION AT TYR-196 AND TYR-372,
+RP   GLYCOSYLATION AT ASN-54; ASN-217; ASN-333 AND ASN-436, AND DISULFIDE
+RP   BONDS.
+RC   STRAIN=0275 {ECO:0000269|PubMed:16944230};
+RX   PubMed=16944230; DOI=10.1007/s00775-006-0158-x;
+RA   Lyashenko A.V., Bento I., Zaitsev V.N., Zhukhlistova N.E.,
+RA   Zhukova Y.N., Gabdoulkhakov A.G., Morgunova E.Y., Voelter W.,
+RA   Kachalova G.S., Stepanova E.V., Koroleva O.V., Lamzin V.S.,
+RA   Tishkov V.I., Betzel C., Lindley P.F., Mikhailov A.M.;
+RT   "X-ray structural studies of the fungal laccase from Cerrena maxima.";
+RL   J. Biol. Inorg. Chem. 11:963-973(2006).
+RN   [3] {ECO:0000305, ECO:0000312|PDB:3DIV}
+RP   X-RAY CRYSTALLOGRAPHY (1.76 ANGSTROMS), COPPER-BINDING SITES,
+RP   NITRATION AT TYR-196 AND TYR-372, GLYCOSYLATION AT ASN-54 AND ASN-217,
+RP   AND DISULFIDE BONDS.
+RA   Lyashenko A.V., Zhukova Y.N., Mikhailov A.M.;
+RL   Submitted (JUN-2008) to the PDB data bank.
+CC   -!- FUNCTION: Lignin degradation and detoxification of lignin-derived
+CC       products. {ECO:0000269|PubMed:16944230,
+CC       ECO:0000269|PubMed:17012782, ECO:0000305}.
+CC   -!- CATALYTIC ACTIVITY: 4 benzenediol + O(2) = 4 benzosemiquinone + 2
+CC       H(2)O. {ECO:0000269|PubMed:16944230, ECO:0000269|PubMed:17012782}.
+CC   -!- COFACTOR:
+CC       Name=Cu cation; Xref=ChEBI:CHEBI:23378;
+CC         Evidence={ECO:0000269|PubMed:16944230,
+CC         ECO:0000269|PubMed:17012782};
+CC       Note=Binds 4 Cu cations per monomer. {ECO:0000269|PubMed:16944230,
+CC       ECO:0000269|PubMed:17012782};
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000269|PubMed:16944230,
+CC       ECO:0000269|PubMed:17012782}.
+CC   -!- SIMILARITY: Belongs to the multicopper oxidase family.
+CC       {ECO:0000255}.
+CC   -!- SIMILARITY: Contains 3 plastocyanin-like domains. {ECO:0000255}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   PDB; 2H5U; X-ray; 1.90 A; A=2-499.
+DR   PDB; 3DIV; X-ray; 1.76 A; A=1-499.
+DR   PDBsum; 2H5U; -.
+DR   PDBsum; 3DIV; -.
+DR   EvolutionaryTrace; D0VWU3; -.
+DR   GO; GO:0005576; C:extracellular region; IDA:UniProtKB.
+DR   GO; GO:0005507; F:copper ion binding; IDA:UniProtKB.
+DR   GO; GO:0052716; F:hydroquinone:oxygen oxidoreductase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0016491; F:oxidoreductase activity; IDA:UniProtKB.
+DR   GO; GO:0046274; P:lignin catabolic process; TAS:UniProtKB.
+DR   Gene3D; 2.60.40.420; -; 3.
+DR   InterPro; IPR001117; Cu-oxidase.
+DR   InterPro; IPR011706; Cu-oxidase_2.
+DR   InterPro; IPR011707; Cu-oxidase_3.
+DR   InterPro; IPR002355; Cu_oxidase_Cu_BS.
+DR   InterPro; IPR008972; Cupredoxin.
+DR   Pfam; PF00394; Cu-oxidase; 1.
+DR   Pfam; PF07731; Cu-oxidase_2; 1.
+DR   Pfam; PF07732; Cu-oxidase_3; 1.
+DR   SUPFAM; SSF49503; SSF49503; 3.
+DR   PROSITE; PS00079; MULTICOPPER_OXIDASE1; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Copper; Disulfide bond; Glycoprotein;
+KW   Lignin degradation; Metal-binding; Nitration; Oxidoreductase; Repeat;
+KW   Secreted.
+FT   CHAIN         1    499       Laccase.
+FT                                /FTId=PRO_0000401149.
+FT   DOMAIN        2    127       Plastocyanin-like 1.
+FT   DOMAIN      139    281       Plastocyanin-like 2.
+FT   DOMAIN      348    470       Plastocyanin-like 3.
+FT   METAL        64     64       Copper 1; type 2.
+FT   METAL        66     66       Copper 2; type 3.
+FT   METAL       109    109       Copper 2; type 3.
+FT   METAL       111    111       Copper 3; type 3.
+FT   METAL       395    395       Copper 4; type 1.
+FT   METAL       398    398       Copper 1; type 2.
+FT   METAL       400    400       Copper 3; type 3.
+FT   METAL       452    452       Copper 3; type 3.
+FT   METAL       453    453       Copper 4; type 1.
+FT   METAL       454    454       Copper 2; type 3.
+FT   METAL       458    458       Copper 4; type 1.
+FT   MOD_RES     196    196       3'-nitrotyrosine.
+FT                                {ECO:0000269|PubMed:16944230,
+FT                                ECO:0000269|PubMed:17012782,
+FT                                ECO:0000269|Ref.3}.
+FT   MOD_RES     372    372       3'-nitrotyrosine.
+FT                                {ECO:0000269|PubMed:16944230,
+FT                                ECO:0000269|PubMed:17012782,
+FT                                ECO:0000269|Ref.3}.
+FT   CARBOHYD     51     51       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD     54     54       N-linked (GlcNAc...).
+FT                                {ECO:0000269|PubMed:16944230,
+FT                                ECO:0000269|PubMed:17012782,
+FT                                ECO:0000269|Ref.3}.
+FT   CARBOHYD    208    208       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    217    217       N-linked (GlcNAc...).
+FT                                {ECO:0000269|PubMed:16944230,
+FT                                ECO:0000269|PubMed:17012782,
+FT                                ECO:0000269|Ref.3}.
+FT   CARBOHYD    292    292       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    333    333       N-linked (GlcNAc...).
+FT                                {ECO:0000269|PubMed:16944230}.
+FT   CARBOHYD    377    377       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    416    416       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    436    436       N-linked (GlcNAc...).
+FT                                {ECO:0000269|PubMed:16944230,
+FT                                ECO:0000269|PubMed:17012782}.
+FT   DISULFID     85    488       {ECO:0000269|PubMed:16944230,
+FT                                ECO:0000269|PubMed:17012782}.
+FT   DISULFID    117    205       {ECO:0000269|PubMed:16944230,
+FT                                ECO:0000269|PubMed:17012782}.
+FT   STRAND        4     15       {ECO:0000244|PDB:3DIV}.
+FT   STRAND       22     27       {ECO:0000244|PDB:3DIV}.
+FT   STRAND       30     32       {ECO:0000244|PDB:3DIV}.
+FT   STRAND       36     39       {ECO:0000244|PDB:3DIV}.
+FT   STRAND       43     50       {ECO:0000244|PDB:3DIV}.
+FT   HELIX        55     57       {ECO:0000244|PDB:3DIV}.
+FT   STRAND       63     66       {ECO:0000244|PDB:3DIV}.
+FT   HELIX        74     76       {ECO:0000244|PDB:3DIV}.
+FT   TURN         80     82       {ECO:0000244|PDB:3DIV}.
+FT   STRAND       92     98       {ECO:0000244|PDB:3DIV}.
+FT   STRAND      104    110       {ECO:0000244|PDB:3DIV}.
+FT   HELIX       115    118       {ECO:0000244|PDB:3DIV}.
+FT   STRAND      121    127       {ECO:0000244|PDB:3DIV}.
+FT   HELIX       134    136       {ECO:0000244|PDB:3DIV}.
+FT   HELIX       142    144       {ECO:0000244|PDB:3DIV}.
+FT   STRAND      145    151       {ECO:0000244|PDB:3DIV}.
+FT   TURN        156    158       {ECO:0000244|PDB:3DIV}.
+FT   STRAND      167    171       {ECO:0000244|PDB:3DIV}.
+FT   STRAND      187    190       {ECO:0000244|PDB:3DIV}.
+FT   STRAND      195    202       {ECO:0000244|PDB:3DIV}.
+FT   STRAND      209    213       {ECO:0000244|PDB:3DIV}.
+FT   STRAND      218    223       {ECO:0000244|PDB:3DIV}.
+FT   STRAND      226    238       {ECO:0000244|PDB:3DIV}.
+FT   STRAND      243    249       {ECO:0000244|PDB:3DIV}.
+FT   STRAND      254    267       {ECO:0000244|PDB:3DIV}.
+FT   HELIX       271    273       {ECO:0000244|PDB:3DIV}.
+FT   STRAND      276    281       {ECO:0000244|PDB:3DIV}.
+FT   STRAND      297    299       {ECO:0000244|PDB:3DIV}.
+FT   HELIX       302    304       {ECO:0000244|PDB:3DIV}.
+FT   STRAND      307    309       {ECO:0000244|PDB:3DIV}.
+FT   STRAND      322    327       {ECO:0000244|PDB:3DIV}.
+FT   STRAND      330    332       {ECO:0000244|PDB:3DIV}.
+FT   STRAND      337    339       {ECO:0000244|PDB:3DIV}.
+FT   HELIX       351    356       {ECO:0000244|PDB:3DIV}.
+FT   TURN        362    364       {ECO:0000244|PDB:3DIV}.
+FT   STRAND      365    367       {ECO:0000244|PDB:3DIV}.
+FT   STRAND      370    374       {ECO:0000244|PDB:3DIV}.
+FT   STRAND      379    385       {ECO:0000244|PDB:3DIV}.
+FT   STRAND      396    399       {ECO:0000244|PDB:3DIV}.
+FT   STRAND      404    408       {ECO:0000244|PDB:3DIV}.
+FT   STRAND      417    419       {ECO:0000244|PDB:2H5U}.
+FT   STRAND      422    427       {ECO:0000244|PDB:3DIV}.
+FT   TURN        431    434       {ECO:0000244|PDB:3DIV}.
+FT   STRAND      436    442       {ECO:0000244|PDB:3DIV}.
+FT   STRAND      447    455       {ECO:0000244|PDB:3DIV}.
+FT   HELIX       456    460       {ECO:0000244|PDB:3DIV}.
+FT   STRAND      464    470       {ECO:0000244|PDB:3DIV}.
+FT   HELIX       471    473       {ECO:0000244|PDB:3DIV}.
+FT   HELIX       474    477       {ECO:0000244|PDB:3DIV}.
+FT   HELIX       482    485       {ECO:0000244|PDB:3DIV}.
+FT   HELIX       487    492       {ECO:0000244|PDB:3DIV}.
+FT   HELIX       496    498       {ECO:0000244|PDB:3DIV}.
+SQ   SEQUENCE   499 AA;  53451 MW;  F018B0357333CF33 CRC64;
+     AVGPVADNTI TDAATSPDGF SRQAVVVNGV TPGPLVAGNI GDRFQLNVID NLTNHTMLKT
+     TSVHWHGFFQ QGTNWADGPA FINQCPISPG HSFLYDFQVP NQAGTFWYHS HLSTQYCDGL
+     RGPFVVYDPN DPHASRYDVD NDDTVITLAD WYHTAAKLGP RFPAGADATL INGKGRAPSD
+     TSAELSVIKV TKGKRYRFRL VSLSCDPNFT FSIDGHNLTI IEVDSSNSQP LSVDSIQIFA
+     AQRYSFVLNA NQAVDNYWIR ANPNFGNVGF NGGINSAILR YDGAPAVEPT TNQTTSVKPL
+     NEVNLHPLVS TPVPGSPSSG GVDKAINMAF NFNGSNFFIN GASFVPPSVP VLLQILSGAQ
+     TAQDLLPSGS VYVLPSNASI EISFPATAAA PGAPHPFHLH GHTFAVVRSA GSTVYNYSNP
+     IFRDVVSTGT PAAGDNVTIR FLTNNPGPWF LHCHIDFHLE GGFAVVQAED VPDVKATNPV
+     PQAWSDLCPT YDANAPSDQ
+//

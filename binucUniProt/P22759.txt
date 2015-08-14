@@ -1,0 +1,121 @@
+ID   BFR_AZOVI               Reviewed;         156 AA.
+AC   P22759;
+DT   01-AUG-1991, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-1992, sequence version 2.
+DT   24-JUN-2015, entry version 89.
+DE   RecName: Full=Bacterioferritin;
+DE            Short=BFR;
+DE            EC=1.16.3.1;
+DE   AltName: Full=Cytochrome b-557.5;
+GN   Name=bfr;
+OS   Azotobacter vinelandii.
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+OC   Pseudomonadaceae; Azotobacter.
+OX   NCBI_TaxID=354;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=1549605; DOI=10.1073/pnas.89.6.2419;
+RA   Grossman M.J., Hinton S.M., Minak-Bernero V., Slaughter C.,
+RA   Stiefel E.I.;
+RT   "Unification of the ferritin family of proteins.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 89:2419-2423(1992).
+RN   [2]
+RP   PROTEIN SEQUENCE OF 1-70.
+RX   PubMed=1904771; DOI=10.1016/0167-4838(91)90099-L;
+RA   Andrews S.C., Findlay J.B.C., Guest J.R., Harrison P.M., Keen J.N.,
+RA   Smith J.M.A.;
+RT   "Physical, chemical and immunological properties of the
+RT   bacterioferritins of Escherichia coli, Pseudomonas aeruginosa and
+RT   Azotobacter vinelandii.";
+RL   Biochim. Biophys. Acta 1078:111-116(1991).
+CC   -!- FUNCTION: Iron-storage protein, whose ferroxidase center binds
+CC       Fe(2+) ions, oxidizes them by dioxygen to Fe(3+), and participates
+CC       in the subsequent Fe(3+) oxide mineral core formation within the
+CC       central cavity of the protein complex. {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: 4 Fe(2+) + 4 H(+) + O(2) = 4 Fe(3+) + 2 H(2)O.
+CC   -!- COFACTOR:
+CC       Name=heme b; Xref=ChEBI:CHEBI:60344; Evidence={ECO:0000250};
+CC       Note=Binds 1 heme b (iron(II)-protoporphyrin IX) group per dimer.
+CC       {ECO:0000250};
+CC   -!- COFACTOR:
+CC       Name=Fe cation; Xref=ChEBI:CHEBI:24875; Evidence={ECO:0000250};
+CC       Note=Binds 2 iron ions per subunit. The catalytic dinuclear iron-
+CC       binding site within each subunit is known as the ferroxidase
+CC       center. {ECO:0000250};
+CC   -!- SUBUNIT: Homooligomer of 24 subunits, arranged as 12 dimers, that
+CC       are packed together to form an approximately spherical molecule
+CC       with a central cavity, in which large amounts of iron can be
+CC       deposited. {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the bacterioferritin family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 ferritin-like diiron domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00085}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M83692; AAA22121.1; -; Genomic_DNA.
+DR   PIR; A41983; A41983.
+DR   PDB; 1SOF; X-ray; 2.60 A; A/B/C/D/E/F/G/H=1-156.
+DR   PDB; 2FKZ; X-ray; 2.00 A; A/B/C/D/E/F/G/H=1-155.
+DR   PDB; 2FL0; X-ray; 2.70 A; A/B/C/D/E/F/G/H=1-155.
+DR   PDBsum; 1SOF; -.
+DR   PDBsum; 2FKZ; -.
+DR   PDBsum; 2FL0; -.
+DR   ProteinModelPortal; P22759; -.
+DR   SMR; P22759; 1-155.
+DR   STRING; 322710.Avin_14050; -.
+DR   EvolutionaryTrace; P22759; -.
+DR   GO; GO:0005623; C:cell; IEA:GOC.
+DR   GO; GO:0008199; F:ferric iron binding; IEA:InterPro.
+DR   GO; GO:0004322; F:ferroxidase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0006879; P:cellular iron ion homeostasis; IEA:UniProtKB-KW.
+DR   GO; GO:0006826; P:iron ion transport; IEA:InterPro.
+DR   Gene3D; 1.20.1260.10; -; 1.
+DR   InterPro; IPR002024; Bacterioferritin.
+DR   InterPro; IPR009040; Ferritin-like_diiron.
+DR   InterPro; IPR009078; Ferritin-like_SF.
+DR   InterPro; IPR012347; Ferritin-rel.
+DR   InterPro; IPR008331; Ferritin_DPS_dom.
+DR   Pfam; PF00210; Ferritin; 1.
+DR   PIRSF; PIRSF002560; Bacterioferritin; 1.
+DR   PRINTS; PR00601; BACFERRITIN.
+DR   SUPFAM; SSF47240; SSF47240; 1.
+DR   TIGRFAMs; TIGR00754; bfr; 1.
+DR   PROSITE; PS00549; BACTERIOFERRITIN; 1.
+DR   PROSITE; PS50905; FERRITIN_LIKE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Direct protein sequencing; Heme; Iron; Iron storage;
+KW   Metal-binding; Oxidoreductase.
+FT   CHAIN         1    156       Bacterioferritin.
+FT                                /FTId=PRO_0000192588.
+FT   DOMAIN        1    145       Ferritin-like diiron.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00085}.
+FT   METAL        18     18       Iron 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00085}.
+FT   METAL        51     51       Iron 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00085}.
+FT   METAL        51     51       Iron 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00085}.
+FT   METAL        52     52       Iron (heme axial ligand); shared with
+FT                                dimeric partner. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00085}.
+FT   METAL        54     54       Iron 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00085}.
+FT   METAL        94     94       Iron 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00085}.
+FT   METAL       127    127       Iron 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00085}.
+FT   METAL       127    127       Iron 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00085}.
+FT   METAL       130    130       Iron 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00085}.
+FT   HELIX         5     34       {ECO:0000244|PDB:2FKZ}.
+FT   HELIX        38     64       {ECO:0000244|PDB:2FKZ}.
+FT   HELIX        83    110       {ECO:0000244|PDB:2FKZ}.
+FT   HELIX       114    144       {ECO:0000244|PDB:2FKZ}.
+FT   HELIX       146    151       {ECO:0000244|PDB:2FKZ}.
+SQ   SEQUENCE   156 AA;  18105 MW;  468C2F059240A647 CRC64;
+     MKGDKIVIQH LNKILGNELI AINQYFLHAR MYEDWGLEKL GKHEYHESID EMKHADKLIK
+     RILFLEGLPN LQELGKLLIG EHTKEMLECD LKLEQAGLPD LKAAIAYCES VGDYASRELL
+     EDILESEEDH IDWLETQLDL IDKIGLENYL QSQMDE
+//

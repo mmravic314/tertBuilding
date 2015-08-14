@@ -1,0 +1,171 @@
+ID   AMPL1_SOLLC             Reviewed;         571 AA.
+AC   Q10712; Q9S9A3;
+DT   01-NOV-1997, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   24-JUN-2015, entry version 100.
+DE   RecName: Full=Leucine aminopeptidase 1, chloroplastic;
+DE            EC=3.4.11.1;
+DE   AltName: Full=DR57;
+DE   AltName: Full=Leucyl aminopeptidase 1;
+DE            Short=LAP 1;
+DE   AltName: Full=Proline aminopeptidase 1;
+DE            EC=3.4.11.5;
+DE   AltName: Full=Prolyl aminopeptidase 1;
+DE   Flags: Precursor;
+GN   Name=LAPA1; Synonyms=LAP, LAP2;
+OS   Solanum lycopersicum (Tomato) (Lycopersicon esculentum).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; asterids; lamiids; Solanales; Solanaceae; Solanoideae;
+OC   Solaneae; Solanum; Lycopersicon.
+OX   NCBI_TaxID=4081;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=cv. Peto 238R; TISSUE=Leaf;
+RX   PubMed=8824220; DOI=10.1074/jbc.271.42.25880;
+RA   Gu Y.Q., Chao W.S., Walling L.L.;
+RT   "Localization and post-translational processing of the wound-induced
+RT   leucine aminopeptidase proteins of tomato.";
+RL   J. Biol. Chem. 271:25880-25887(1996).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 49-571, AND VARIANT GLY-358.
+RC   STRAIN=cv. VF36; TISSUE=Pistil;
+RX   PubMed=7647301; DOI=10.1007/BF00021194;
+RA   Milligan S.B., Gasser C.S.;
+RT   "Nature and regulation of pistil-expressed genes in tomato.";
+RL   Plant Mol. Biol. 28:691-711(1995).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 103-571.
+RC   STRAIN=cv. Peto 238R; TISSUE=Leaf;
+RX   PubMed=8234334; DOI=10.1073/pnas.90.21.9906;
+RA   Pautot V., Holzer F.M., Reisch B., Walling L.L.;
+RT   "Leucine aminopeptidase: an inducible component of the defense
+RT   response in Lycopersicon esculentum (tomato).";
+RL   Proc. Natl. Acad. Sci. U.S.A. 90:9906-9910(1993).
+CC   -!- FUNCTION: Presumably involved in the processing and regular
+CC       turnover of intracellular proteins.
+CC   -!- CATALYTIC ACTIVITY: Release of an N-terminal amino acid, Xaa-|-
+CC       Yaa-, in which Xaa is preferably Leu, but may be other amino acids
+CC       including Pro although not Arg or Lys, and Yaa may be Pro. Amino
+CC       acid amides and methyl esters are also readily hydrolyzed, but
+CC       rates on arylamides are exceedingly low.
+CC   -!- CATALYTIC ACTIVITY: Release of N-terminal proline from a peptide.
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000250};
+CC       Note=Binds 2 Zn(2+) ions per subunit. {ECO:0000250};
+CC   -!- SUBCELLULAR LOCATION: Plastid, chloroplast.
+CC   -!- INDUCTION: By wounding.
+CC   -!- SIMILARITY: Belongs to the peptidase M17 family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U50151; AAC49456.1; -; mRNA.
+DR   EMBL; U50152; AAC49457.1; -; mRNA.
+DR   EMBL; U20593; AAA80498.1; -; mRNA.
+DR   PIR; S57811; S57811.
+DR   PIR; T07849; T07849.
+DR   PIR; T07850; T07850.
+DR   RefSeq; NP_001233862.1; NM_001246933.1.
+DR   UniGene; Les.84; -.
+DR   PDB; 4KSI; X-ray; 2.20 A; A=54-571.
+DR   PDBsum; 4KSI; -.
+DR   ProteinModelPortal; Q10712; -.
+DR   STRING; 4081.Solyc00g187050.2.1; -.
+DR   MEROPS; M17.002; -.
+DR   PRIDE; Q10712; -.
+DR   GeneID; 544017; -.
+DR   KEGG; sly:544017; -.
+DR   InParanoid; Q10712; -.
+DR   KO; K01255; -.
+DR   BRENDA; 3.4.11.1; 3101.
+DR   Proteomes; UP000004994; Unplaced.
+DR   GO; GO:0009507; C:chloroplast; IEA:UniProtKB-SubCell.
+DR   GO; GO:0004177; F:aminopeptidase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0030145; F:manganese ion binding; IEA:InterPro.
+DR   GO; GO:0008235; F:metalloexopeptidase activity; IEA:InterPro.
+DR   HAMAP; MF_00181; Cytosol_peptidase_M17; 1.
+DR   InterPro; IPR011356; Leucine_aapep/pepB.
+DR   InterPro; IPR000819; Peptidase_M17_C.
+DR   InterPro; IPR023042; Peptidase_M17_leu_NH2_pept.
+DR   InterPro; IPR008283; Peptidase_M17_N.
+DR   Pfam; PF00883; Peptidase_M17; 1.
+DR   Pfam; PF02789; Peptidase_M17_N; 1.
+DR   PRINTS; PR00481; LAMNOPPTDASE.
+DR   PROSITE; PS00631; CYTOSOL_AP; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Aminopeptidase; Chloroplast; Complete proteome;
+KW   Hydrolase; Metal-binding; Plastid; Protease; Reference proteome;
+KW   Transit peptide; Zinc.
+FT   TRANSIT       1     53       Chloroplast. {ECO:0000255}.
+FT   CHAIN        54    571       Leucine aminopeptidase 1, chloroplastic.
+FT                                /FTId=PRO_0000026803.
+FT   COMPBIAS    169    174       Poly-Ala.
+FT   ACT_SITE    354    354       {ECO:0000255}.
+FT   ACT_SITE    431    431       {ECO:0000255}.
+FT   METAL       342    342       Zinc 2. {ECO:0000250}.
+FT   METAL       347    347       Zinc 1. {ECO:0000250}.
+FT   METAL       347    347       Zinc 2. {ECO:0000250}.
+FT   METAL       367    367       Zinc 2. {ECO:0000250}.
+FT   METAL       427    427       Zinc 1. {ECO:0000250}.
+FT   METAL       429    429       Zinc 1. {ECO:0000250}.
+FT   METAL       429    429       Zinc 2. {ECO:0000250}.
+FT   VARIANT     358    358       R -> G. {ECO:0000269|PubMed:7647301}.
+FT   CONFLICT    271    271       P -> N (in Ref. 2; AAA80498).
+FT                                {ECO:0000305}.
+FT   CONFLICT    315    315       T -> S (in Ref. 3). {ECO:0000305}.
+FT   CONFLICT    515    515       T -> L (in Ref. 1; AAC49457).
+FT                                {ECO:0000305}.
+FT   HELIX        59     61       {ECO:0000244|PDB:4KSI}.
+FT   STRAND       73     77       {ECO:0000244|PDB:4KSI}.
+FT   HELIX        81     83       {ECO:0000244|PDB:4KSI}.
+FT   STRAND       86     94       {ECO:0000244|PDB:4KSI}.
+FT   HELIX        96     98       {ECO:0000244|PDB:4KSI}.
+FT   HELIX       109    117       {ECO:0000244|PDB:4KSI}.
+FT   TURN        118    120       {ECO:0000244|PDB:4KSI}.
+FT   HELIX       121    128       {ECO:0000244|PDB:4KSI}.
+FT   STRAND      138    143       {ECO:0000244|PDB:4KSI}.
+FT   STRAND      146    156       {ECO:0000244|PDB:4KSI}.
+FT   HELIX       161    176       {ECO:0000244|PDB:4KSI}.
+FT   STRAND      180    187       {ECO:0000244|PDB:4KSI}.
+FT   HELIX       194    212       {ECO:0000244|PDB:4KSI}.
+FT   STRAND      229    235       {ECO:0000244|PDB:4KSI}.
+FT   HELIX       239    263       {ECO:0000244|PDB:4KSI}.
+FT   TURN        266    268       {ECO:0000244|PDB:4KSI}.
+FT   HELIX       271    284       {ECO:0000244|PDB:4KSI}.
+FT   TURN        285    288       {ECO:0000244|PDB:4KSI}.
+FT   STRAND      289    294       {ECO:0000244|PDB:4KSI}.
+FT   HELIX       296    301       {ECO:0000244|PDB:4KSI}.
+FT   HELIX       305    311       {ECO:0000244|PDB:4KSI}.
+FT   STRAND      320    326       {ECO:0000244|PDB:4KSI}.
+FT   STRAND      335    347       {ECO:0000244|PDB:4KSI}.
+FT   HELIX       361    368       {ECO:0000244|PDB:4KSI}.
+FT   HELIX       369    384       {ECO:0000244|PDB:4KSI}.
+FT   STRAND      387    400       {ECO:0000244|PDB:4KSI}.
+FT   STRAND      412    414       {ECO:0000244|PDB:4KSI}.
+FT   STRAND      420    422       {ECO:0000244|PDB:4KSI}.
+FT   HELIX       430    443       {ECO:0000244|PDB:4KSI}.
+FT   STRAND      447    453       {ECO:0000244|PDB:4KSI}.
+FT   HELIX       457    463       {ECO:0000244|PDB:4KSI}.
+FT   STRAND      468    471       {ECO:0000244|PDB:4KSI}.
+FT   HELIX       475    488       {ECO:0000244|PDB:4KSI}.
+FT   STRAND      492    494       {ECO:0000244|PDB:4KSI}.
+FT   HELIX       499    505       {ECO:0000244|PDB:4KSI}.
+FT   STRAND      508    514       {ECO:0000244|PDB:4KSI}.
+FT   HELIX       521    530       {ECO:0000244|PDB:4KSI}.
+FT   STRAND      537    543       {ECO:0000244|PDB:4KSI}.
+FT   TURN        545    548       {ECO:0000244|PDB:4KSI}.
+FT   TURN        551    554       {ECO:0000244|PDB:4KSI}.
+FT   HELIX       561    570       {ECO:0000244|PDB:4KSI}.
+SQ   SEQUENCE   571 AA;  60279 MW;  C7A224837E73939D CRC64;
+     MATLRVSSLF ASSSSSLHSN PSVFTKYQSS PKWAFSFPVT PLCSKRSKRI VHCIAGDTLG
+     LTRPNESDAP KISIGAKDTA VVQWQGDLLA IGATENDMAR DENSKFKNPL LQQLDSELNG
+     LLSAASSEED FSGKSGQSVN LRFPGGRITL VGLGSSASSP TSYHSLGQAA AAAAKSSQAR
+     NIAVALASTD GLSAESKINS ASAIATGVVL GSFEDNRFRS ESKKSTLESL DILGLGTGPE
+     IERKIKYAEH VCAGVILGRE LVNAPANIVT PAVLAEEAKK IASTYSDVIS VNILDAEQCK
+     ELKMGAYLAV AAAATENPPY FIHLCFKTPT KERKTKLALV GKGLTFDSGG YNLKVGARSR
+     IELMKNDMGG AAAVLGAAKA LGEIRPSRVE VHFIVAACEN MISAEGMRPG DIVTASNGKT
+     IEVNNTDAEG RLTLADALIY ACNQGVEKII DLATLTGAIM VALGPSVAGA FTPNDDLARE
+     VVEAAEASGE KLWRMPMEES YWESMKSGVA DMINTGPGNG GAITGALFLK QFVDEKVQWL
+     HLDVAGPVWS DEKKNATGYG VSTLVEWVLR N
+//

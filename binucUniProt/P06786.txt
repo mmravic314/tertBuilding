@@ -1,0 +1,548 @@
+ID   TOP2_YEAST              Reviewed;        1428 AA.
+AC   P06786; D6W191;
+DT   01-JAN-1988, integrated into UniProtKB/Swiss-Prot.
+DT   01-FEB-1996, sequence version 2.
+DT   22-JUL-2015, entry version 181.
+DE   RecName: Full=DNA topoisomerase 2;
+DE            EC=5.99.1.3;
+DE   AltName: Full=DNA topoisomerase II;
+GN   Name=TOP2; Synonyms=TOR3; OrderedLocusNames=YNL088W; ORFNames=N2244;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=559292;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=3017975;
+RA   Giaever F., Lynn R., Goto T., Wang J.C.;
+RT   "The complete nucleotide sequence of the structural gene TOP2 of yeast
+RT   DNA topoisomerase II.";
+RL   J. Biol. Chem. 261:12448-12454(1986).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=S96, YJM 320, and YJM 326;
+RX   PubMed=11907579; DOI=10.1038/416326a;
+RA   Steinmetz L.M., Sinha H., Richards D.R., Spiegelman J.I., Oefner P.J.,
+RA   McCusker J.H., Davis R.W.;
+RT   "Dissecting the architecture of a quantitative trait locus in yeast.";
+RL   Nature 416:326-330(2002).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 96604 / S288c / FY1679;
+RX   PubMed=8740422;
+RX   DOI=10.1002/(SICI)1097-0061(199604)12:5<485::AID-YEA928>3.0.CO;2-U;
+RA   Soler-Mira A., Saiz J.E., Ballesta J.P.G., Remacha M.A.;
+RT   "The sequence of a 17,933 bp segment of Saccharomyces cerevisiae
+RT   chromosome XIV contains the RHO2, TOP2, MKT1 and END3 genes and five
+RT   new open reading frames.";
+RL   Yeast 12:485-491(1996).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=9169873;
+RA   Philippsen P., Kleine K., Poehlmann R., Duesterhoeft A., Hamberg K.,
+RA   Hegemann J.H., Obermaier B., Urrestarazu L.A., Aert R., Albermann K.,
+RA   Altmann R., Andre B., Baladron V., Ballesta J.P.G., Becam A.-M.,
+RA   Beinhauer J.D., Boskovic J., Buitrago M.J., Bussereau F., Coster F.,
+RA   Crouzet M., D'Angelo M., Dal Pero F., De Antoni A., del Rey F.,
+RA   Doignon F., Domdey H., Dubois E., Fiedler T.A., Fleig U., Floeth M.,
+RA   Fritz C., Gaillardin C., Garcia-Cantalejo J.M., Glansdorff N.,
+RA   Goffeau A., Gueldener U., Herbert C.J., Heumann K., Heuss-Neitzel D.,
+RA   Hilbert H., Hinni K., Iraqui Houssaini I., Jacquet M., Jimenez A.,
+RA   Jonniaux J.-L., Karpfinger-Hartl L., Lanfranchi G., Lepingle A.,
+RA   Levesque H., Lyck R., Maftahi M., Mallet L., Maurer C.T.C.,
+RA   Messenguy F., Mewes H.-W., Moestl D., Nasr F., Nicaud J.-M.,
+RA   Niedenthal R.K., Pandolfo D., Pierard A., Piravandi E., Planta R.J.,
+RA   Pohl T.M., Purnelle B., Rebischung C., Remacha M.A., Revuelta J.L.,
+RA   Rinke M., Saiz J.E., Sartorello F., Scherens B., Sen-Gupta M.,
+RA   Soler-Mira A., Urbanus J.H.M., Valle G., Van Dyck L., Verhasselt P.,
+RA   Vierendeels F., Vissers S., Voet M., Volckaert G., Wach A.,
+RA   Wambutt R., Wedler H., Zollner A., Hani J.;
+RT   "The nucleotide sequence of Saccharomyces cerevisiae chromosome XIV
+RT   and its evolutionary implications.";
+RL   Nature 387:93-98(1997).
+RN   [5]
+RP   GENOME REANNOTATION.
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=24374639; DOI=10.1534/g3.113.008995;
+RA   Engel S.R., Dietrich F.S., Fisk D.G., Binkley G., Balakrishnan R.,
+RA   Costanzo M.C., Dwight S.S., Hitz B.C., Karra K., Nash R.S., Weng S.,
+RA   Wong E.D., Lloyd P., Skrzypek M.S., Miyasato S.R., Simison M.,
+RA   Cherry J.M.;
+RT   "The reference genome sequence of Saccharomyces cerevisiae: Then and
+RT   now.";
+RL   G3 (Bethesda) 4:389-398(2014).
+RN   [6]
+RP   REVIEW ON PHOSPHORYLATION.
+RX   PubMed=1332607; DOI=10.1007/BF00584459;
+RA   Gasser S.M., Walter R., Dang Q., Cardenas M.E.;
+RT   "Topoisomerase II: its functions and phosphorylation.";
+RL   Antonie Van Leeuwenhoek 62:15-24(1992).
+RN   [7]
+RP   PHOSPHORYLATION AT THR-1086; SER-1087; THR-1258; SER-1266; SER-1269;
+RP   SER-1272; SER-1353; SER-1356; SER-1408 AND SER-1423.
+RX   PubMed=1316274;
+RA   Cardenas M.E., Dang Q., Glover C.V., Gasser S.M.;
+RT   "Casein kinase II phosphorylates the eukaryote-specific C-terminal
+RT   domain of topoisomerase II in vivo.";
+RL   EMBO J. 11:1785-1796(1992).
+RN   [8]
+RP   SUBUNIT, ACTIVE SITE, CATALYTIC ACTIVITY, FUNCTION, AND MUTAGENESIS OF
+RP   ARG-690; ASP-697; LYS-700; ARG-704; HIS-736; ARG-781; TYR-782 AND
+RP   ASN-828.
+RX   PubMed=9685374; DOI=10.1074/jbc.273.32.20252;
+RA   Liu Q., Wang J.C.;
+RT   "Identification of active site residues in the 'GyrA' half of yeast
+RT   DNA topoisomerase II.";
+RL   J. Biol. Chem. 273:20252-20260(1998).
+RN   [9]
+RP   LEVEL OF PROTEIN EXPRESSION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562106; DOI=10.1038/nature02046;
+RA   Ghaemmaghami S., Huh W.-K., Bower K., Howson R.W., Belle A.,
+RA   Dephoure N., O'Shea E.K., Weissman J.S.;
+RT   "Global analysis of protein expression in yeast.";
+RL   Nature 425:737-741(2003).
+RN   [10]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   STRAIN=ADR376;
+RX   PubMed=17330950; DOI=10.1021/pr060559j;
+RA   Li X., Gerber S.A., Rudner A.D., Beausoleil S.A., Haas W., Villen J.,
+RA   Elias J.E., Gygi S.P.;
+RT   "Large-scale phosphorylation analysis of alpha-factor-arrested
+RT   Saccharomyces cerevisiae.";
+RL   J. Proteome Res. 6:1190-1197(2007).
+RN   [11]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=18407956; DOI=10.1074/mcp.M700468-MCP200;
+RA   Albuquerque C.P., Smolka M.B., Payne S.H., Bafna V., Eng J., Zhou H.;
+RT   "A multidimensional chromatography technology for in-depth
+RT   phosphoproteome analysis.";
+RL   Mol. Cell. Proteomics 7:1389-1396(2008).
+RN   [12]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1252, AND IDENTIFICATION
+RP   BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19779198; DOI=10.1126/science.1172867;
+RA   Holt L.J., Tuch B.B., Villen J., Johnson A.D., Gygi S.P., Morgan D.O.;
+RT   "Global analysis of Cdk1 substrate phosphorylation sites provides
+RT   insights into evolution.";
+RL   Science 325:1682-1686(2009).
+RN   [13]
+RP   X-RAY CRYSTALLOGRAPHY (2.7 ANGSTROMS) OF 410-1202.
+RX   PubMed=8538787; DOI=10.1038/379225a0;
+RA   Berger J.M., Gamblin S.J., Harrison S.C., Wang J.C.;
+RT   "Structure and mechanism of DNA topoisomerase II.";
+RL   Nature 379:225-232(1996).
+RN   [14]
+RP   X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS) OF 409-1201.
+RX   PubMed=10201398; DOI=10.1038/7556;
+RA   Fass D., Bogden C.E., Berger J.M.;
+RT   "Quaternary changes in topoisomerase II may direct orthogonal movement
+RT   of two DNA strands.";
+RL   Nat. Struct. Biol. 6:322-326(1999).
+RN   [15]
+RP   X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS) OF 1-413 IN COMPLEX WITH ATP
+RP   ANALOG, AND SUBUNIT.
+RX   PubMed=12963818; DOI=10.1073/pnas.1832879100;
+RA   Classen S., Olland S., Berger J.M.;
+RT   "Structure of the topoisomerase II ATPase region and its mechanism of
+RT   inhibition by the chemotherapeutic agent ICRF-187.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 100:10629-10634(2003).
+RN   [16]
+RP   X-RAY CRYSTALLOGRAPHY (3.0 ANGSTROMS) OF 419-1177 IN COMPLEX WITH DNA
+RP   AND MAGNESIUM, CATALYTIC ACTIVITY, AND COFACTOR.
+RX   PubMed=18097402; DOI=10.1038/nature06396;
+RA   Dong K.C., Berger J.M.;
+RT   "Structural basis for gate-DNA recognition and bending by type IIA
+RT   topoisomerases.";
+RL   Nature 450:1201-1205(2007).
+RN   [17]
+RP   X-RAY CRYSTALLOGRAPHY (2.48 ANGSTROMS) OF 421-1177 IN COMPLEX WITH DNA
+RP   AND ZINC IONS, ACTIVE SITE, ENZYME MECHANISM, AND COFACTOR.
+RX   PubMed=20485342; DOI=10.1038/nature08974;
+RA   Schmidt B.H., Burgin A.B., Deweese J.E., Osheroff N., Berger J.M.;
+RT   "A novel and unified two-metal mechanism for DNA cleavage by type II
+RT   and IA topoisomerases.";
+RL   Nature 465:641-644(2010).
+RN   [18]
+RP   X-RAY CRYSTALLOGRAPHY (4.4 ANGSTROMS) OF 1-1177 IN COMPLEX WITH DNA
+RP   AND ATP ANALOG, CATALYTIC ACTIVITY, FUNCTION, AND SUBUNIT.
+RX   PubMed=23022727; DOI=10.1038/nsmb.2388;
+RA   Schmidt B.H., Osheroff N., Berger J.M.;
+RT   "Structure of a topoisomerase II-DNA-nucleotide complex reveals a new
+RT   control mechanism for ATPase activity.";
+RL   Nat. Struct. Mol. Biol. 19:1147-1154(2012).
+CC   -!- FUNCTION: Control of topological states of DNA by transient
+CC       breakage and subsequent rejoining of DNA strands. Topoisomerase II
+CC       makes double-strand breaks. Essential during mitosis and meiosis
+CC       for proper segregation of daughter chromosomes.
+CC       {ECO:0000269|PubMed:23022727, ECO:0000269|PubMed:9685374}.
+CC   -!- CATALYTIC ACTIVITY: ATP-dependent breakage, passage and rejoining
+CC       of double-stranded DNA. {ECO:0000255|PROSITE-ProRule:PRU00995,
+CC       ECO:0000269|PubMed:18097402, ECO:0000269|PubMed:23022727,
+CC       ECO:0000269|PubMed:9685374}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000255|PROSITE-ProRule:PRU00995,
+CC         ECO:0000269|PubMed:18097402, ECO:0000269|PubMed:20485342};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000255|PROSITE-ProRule:PRU00995,
+CC         ECO:0000269|PubMed:18097402, ECO:0000269|PubMed:20485342};
+CC       Name=Ca(2+); Xref=ChEBI:CHEBI:29108;
+CC         Evidence={ECO:0000255|PROSITE-ProRule:PRU00995,
+CC         ECO:0000269|PubMed:18097402, ECO:0000269|PubMed:20485342};
+CC       Note=Binds two Mg(2+) per subunit. The magnesium ions form salt
+CC       bridges with both the protein and the DNA. Can also accept other
+CC       divalent metal cations, such as Mn(2+) or Ca(2+).
+CC       {ECO:0000255|PROSITE-ProRule:PRU00995,
+CC       ECO:0000269|PubMed:18097402, ECO:0000269|PubMed:20485342};
+CC   -!- SUBUNIT: Homodimer. {ECO:0000269|PubMed:12963818,
+CC       ECO:0000269|PubMed:18097402, ECO:0000269|PubMed:20485342,
+CC       ECO:0000269|PubMed:23022727, ECO:0000269|PubMed:9685374}.
+CC   -!- INTERACTION:
+CC       P24583:PKC1; NbExp=2; IntAct=EBI-19352, EBI-9860;
+CC   -!- SUBCELLULAR LOCATION: Nucleus.
+CC   -!- PTM: Phosphorylation enhances the activity. Stimulates
+CC       decatenation activity. {ECO:0000269|PubMed:1316274}.
+CC   -!- MISCELLANEOUS: In yeast topoisomerase II can substitute
+CC       topoisomerase I for the relaxing activity.
+CC   -!- MISCELLANEOUS: Eukaryotic topoisomerase I and II can relax both
+CC       negative and positive supercoils, whereas prokaryotic enzymes
+CC       relax only negative supercoils.
+CC   -!- MISCELLANEOUS: Present with 5730 molecules/cell in log phase SD
+CC       medium. {ECO:0000269|PubMed:14562106}.
+CC   -!- SIMILARITY: Belongs to the type II topoisomerase family.
+CC       {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 Toprim domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00995}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M13814; AAB36610.1; -; Genomic_DNA.
+DR   EMBL; AF458969; AAM00518.1; -; Genomic_DNA.
+DR   EMBL; AF458971; AAM00530.1; -; Genomic_DNA.
+DR   EMBL; AF458972; AAM00536.1; -; Genomic_DNA.
+DR   EMBL; X89016; CAA61422.1; -; Genomic_DNA.
+DR   EMBL; Z71364; CAA95964.1; -; Genomic_DNA.
+DR   EMBL; BK006947; DAA10457.1; -; Genomic_DNA.
+DR   PIR; S57534; ISBYT2.
+DR   RefSeq; NP_014311.3; NM_001182926.3.
+DR   PDB; 1BGW; X-ray; 2.70 A; A=409-1201.
+DR   PDB; 1BJT; X-ray; 2.50 A; A=409-1201.
+DR   PDB; 1PVG; X-ray; 1.80 A; A/B=1-413.
+DR   PDB; 1QZR; X-ray; 1.90 A; A/B=1-413.
+DR   PDB; 2RGR; X-ray; 3.00 A; A=419-1177.
+DR   PDB; 3L4J; X-ray; 2.48 A; A=421-1177.
+DR   PDB; 3L4K; X-ray; 2.98 A; A=421-1177.
+DR   PDB; 4GFH; X-ray; 4.41 A; A/F=1-1177.
+DR   PDBsum; 1BGW; -.
+DR   PDBsum; 1BJT; -.
+DR   PDBsum; 1PVG; -.
+DR   PDBsum; 1QZR; -.
+DR   PDBsum; 2RGR; -.
+DR   PDBsum; 3L4J; -.
+DR   PDBsum; 3L4K; -.
+DR   PDBsum; 4GFH; -.
+DR   DisProt; DP00076; -.
+DR   ProteinModelPortal; P06786; -.
+DR   SMR; P06786; 8-405, 419-1177.
+DR   BioGrid; 35735; 76.
+DR   DIP; DIP-2300N; -.
+DR   IntAct; P06786; 19.
+DR   MINT; MINT-495862; -.
+DR   ChEMBL; CHEMBL5290; -.
+DR   MaxQB; P06786; -.
+DR   PaxDb; P06786; -.
+DR   PeptideAtlas; P06786; -.
+DR   EnsemblFungi; YNL088W; YNL088W; YNL088W.
+DR   GeneID; 855636; -.
+DR   KEGG; sce:YNL088W; -.
+DR   CYGD; YNL088w; -.
+DR   EuPathDB; FungiDB:YNL088W; -.
+DR   SGD; S000005032; TOP2.
+DR   eggNOG; COG0187; -.
+DR   GeneTree; ENSGT00390000016222; -.
+DR   HOGENOM; HOG000216693; -.
+DR   InParanoid; P06786; -.
+DR   KO; K03164; -.
+DR   OMA; TCSPDPR; -.
+DR   OrthoDB; EOG7CCC0D; -.
+DR   BioCyc; YEAST:G3O-33117-MONOMER; -.
+DR   BRENDA; 5.99.1.3; 984.
+DR   EvolutionaryTrace; P06786; -.
+DR   NextBio; 979854; -.
+DR   PRO; PR:P06786; -.
+DR   Proteomes; UP000002311; Chromosome XIV.
+DR   GO; GO:0097047; C:DNA replication termination region; IPI:SGD.
+DR   GO; GO:0005634; C:nucleus; IDA:SGD.
+DR   GO; GO:0000795; C:synaptonemal complex; IDA:SGD.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003918; F:DNA topoisomerase type II (ATP-hydrolyzing) activity; IDA:SGD.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006333; P:chromatin assembly or disassembly; IMP:SGD.
+DR   GO; GO:0031055; P:chromatin remodeling at centromere; IMP:SGD.
+DR   GO; GO:0006271; P:DNA strand elongation involved in DNA replication; IMP:SGD.
+DR   GO; GO:0006265; P:DNA topological change; IDA:SGD.
+DR   GO; GO:0006268; P:DNA unwinding involved in DNA replication; IMP:SGD.
+DR   GO; GO:0044774; P:mitotic DNA integrity checkpoint; IMP:SGD.
+DR   GO; GO:0007131; P:reciprocal meiotic recombination; IMP:SGD.
+DR   GO; GO:0000019; P:regulation of mitotic recombination; IMP:SGD.
+DR   GO; GO:0097046; P:replication fork progression beyond termination site; IMP:SGD.
+DR   Gene3D; 1.10.268.10; -; 1.
+DR   Gene3D; 3.30.1360.40; -; 1.
+DR   Gene3D; 3.30.230.10; -; 1.
+DR   Gene3D; 3.30.565.10; -; 1.
+DR   Gene3D; 3.40.50.670; -; 1.
+DR   Gene3D; 3.90.199.10; -; 2.
+DR   InterPro; IPR024946; Arg_repress_C-like.
+DR   InterPro; IPR003594; HATPase_C.
+DR   InterPro; IPR020568; Ribosomal_S5_D2-typ_fold.
+DR   InterPro; IPR014721; Ribosomal_S5_D2-typ_fold_subgr.
+DR   InterPro; IPR001241; Topo_IIA.
+DR   InterPro; IPR013760; Topo_IIA-like_dom.
+DR   InterPro; IPR002205; Topo_IIA_A/C.
+DR   InterPro; IPR013758; Topo_IIA_A/C_ab.
+DR   InterPro; IPR013757; Topo_IIA_A_a.
+DR   InterPro; IPR013506; Topo_IIA_bsu_dom2.
+DR   InterPro; IPR013759; Topo_IIA_cen_dom.
+DR   InterPro; IPR018522; TopoIIA_CS.
+DR   InterPro; IPR006171; Toprim_domain.
+DR   Pfam; PF00204; DNA_gyraseB; 1.
+DR   Pfam; PF00521; DNA_topoisoIV; 1.
+DR   Pfam; PF02518; HATPase_c; 1.
+DR   Pfam; PF01751; Toprim; 1.
+DR   PRINTS; PR00418; TPI2FAMILY.
+DR   SMART; SM00387; HATPase_c; 1.
+DR   SMART; SM00433; TOP2c; 1.
+DR   SMART; SM00434; TOP4c; 1.
+DR   SUPFAM; SSF54211; SSF54211; 1.
+DR   SUPFAM; SSF55874; SSF55874; 1.
+DR   SUPFAM; SSF56719; SSF56719; 1.
+DR   PROSITE; PS00177; TOPOISOMERASE_II; 1.
+DR   PROSITE; PS50880; TOPRIM; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; ATP-binding; Complete proteome; DNA-binding; Isomerase;
+KW   Magnesium; Metal-binding; Nucleotide-binding; Nucleus; Phosphoprotein;
+KW   Reference proteome; Topoisomerase.
+FT   CHAIN         1   1428       DNA topoisomerase 2.
+FT                                /FTId=PRO_0000145387.
+FT   DOMAIN      443    557       Toprim. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00995}.
+FT   NP_BIND     127    129       ATP.
+FT   NP_BIND     140    147       ATP.
+FT   NP_BIND     365    367       ATP.
+FT   REGION      333    336       Interaction with DNA.
+FT   REGION      965    974       Interaction with DNA.
+FT   ACT_SITE    782    782       O-(5'-phospho-DNA)-tyrosine intermediate.
+FT                                {ECO:0000269|PubMed:20485342,
+FT                                ECO:0000269|PubMed:9685374}.
+FT   METAL       449    449       Magnesium 1; catalytic.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00995,
+FT                                ECO:0000269|PubMed:18097402}.
+FT   METAL       526    526       Magnesium 1; catalytic.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00995,
+FT                                ECO:0000269|PubMed:18097402}.
+FT   METAL       526    526       Magnesium 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00995,
+FT                                ECO:0000269|PubMed:18097402}.
+FT   METAL       528    528       Magnesium 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00995,
+FT                                ECO:0000269|PubMed:18097402}.
+FT   BINDING      70     70       ATP.
+FT   BINDING      99     99       ATP.
+FT   SITE        477    477       Interaction with DNA.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00995}.
+FT   SITE        480    480       Interaction with DNA.
+FT   SITE        650    650       Interaction with DNA.
+FT   SITE        651    651       Interaction with DNA.
+FT   SITE        700    700       Interaction with DNA.
+FT   SITE        734    734       Interaction with DNA.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00995}.
+FT   SITE        740    740       Interaction with DNA.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00995}.
+FT   SITE        781    781       Transition state stabilizer.
+FT   SITE        833    833       Important for DNA bending; intercalates
+FT                                between base pairs of target DNA.
+FT   SITE        908    908       Interaction with DNA.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00995}.
+FT   MOD_RES    1086   1086       Phosphothreonine; by CK2.
+FT                                {ECO:0000269|PubMed:1316274}.
+FT   MOD_RES    1087   1087       Phosphoserine; by CK2.
+FT                                {ECO:0000269|PubMed:1316274}.
+FT   MOD_RES    1252   1252       Phosphoserine.
+FT                                {ECO:0000269|PubMed:19779198}.
+FT   MOD_RES    1258   1258       Phosphothreonine; by CK2.
+FT                                {ECO:0000269|PubMed:1316274}.
+FT   MOD_RES    1266   1266       Phosphoserine; by CK2.
+FT                                {ECO:0000269|PubMed:1316274}.
+FT   MOD_RES    1269   1269       Phosphoserine; by CK2.
+FT                                {ECO:0000269|PubMed:1316274}.
+FT   MOD_RES    1272   1272       Phosphoserine; by CK2.
+FT                                {ECO:0000269|PubMed:1316274}.
+FT   MOD_RES    1353   1353       Phosphoserine; by CK2.
+FT                                {ECO:0000269|PubMed:1316274}.
+FT   MOD_RES    1356   1356       Phosphoserine; by CK2.
+FT                                {ECO:0000269|PubMed:1316274}.
+FT   MOD_RES    1408   1408       Phosphoserine; by CK2.
+FT                                {ECO:0000269|PubMed:1316274}.
+FT   MOD_RES    1423   1423       Phosphoserine; by CK2.
+FT                                {ECO:0000269|PubMed:1316274}.
+FT   MUTAGEN     333    336       KKKK->AAAA: Reduced enzyme activity;
+FT                                abolishes stimulation of ATPase activity
+FT                                upon DNA binding.
+FT   MUTAGEN     333    336       KKKK->AEEA: Strongly reduced enzyme
+FT                                activity; abolishes stimulation of ATPase
+FT                                activity upon DNA binding.
+FT   MUTAGEN     690    690       R->A: Loss of enzyme activity.
+FT                                {ECO:0000269|PubMed:9685374}.
+FT   MUTAGEN     697    697       D->A: Strongly reduced enzyme activity.
+FT                                {ECO:0000269|PubMed:9685374}.
+FT   MUTAGEN     700    700       K->A: Strongly reduced enzyme activity.
+FT                                {ECO:0000269|PubMed:9685374}.
+FT   MUTAGEN     704    704       R->A: Strongly reduced enzyme activity.
+FT                                {ECO:0000269|PubMed:9685374}.
+FT   MUTAGEN     736    736       H->A: No effect.
+FT                                {ECO:0000269|PubMed:9685374}.
+FT   MUTAGEN     781    781       R->A: Strongly reduced enzyme activity.
+FT                                {ECO:0000269|PubMed:9685374}.
+FT   MUTAGEN     782    782       Y->F: Loss of enzyme activity.
+FT                                {ECO:0000269|PubMed:9685374}.
+FT   MUTAGEN     828    828       N->A: Strongly reduced enzyme activity.
+FT                                {ECO:0000269|PubMed:9685374}.
+FT   CONFLICT     74     74       N -> NN (in Ref. 1; AAB36610).
+FT                                {ECO:0000305}.
+FT   CONFLICT    547    547       P -> L (in Ref. 1; AAB36610).
+FT                                {ECO:0000305}.
+FT   CONFLICT    837    837       W -> R (in Ref. 1; AAB36610).
+FT                                {ECO:0000305}.
+FT   HELIX         8     11       {ECO:0000244|PDB:1PVG}.
+FT   STRAND       12     14       {ECO:0000244|PDB:1PVG}.
+FT   HELIX        17     23       {ECO:0000244|PDB:1PVG}.
+FT   HELIX        26     29       {ECO:0000244|PDB:1PVG}.
+FT   STRAND       35     43       {ECO:0000244|PDB:1PVG}.
+FT   TURN         44     47       {ECO:0000244|PDB:1PVG}.
+FT   STRAND       48     56       {ECO:0000244|PDB:1PVG}.
+FT   HELIX        58     77       {ECO:0000244|PDB:1PVG}.
+FT   STRAND       83     89       {ECO:0000244|PDB:1PVG}.
+FT   TURN         90     93       {ECO:0000244|PDB:1PVG}.
+FT   STRAND       94    102       {ECO:0000244|PDB:1PVG}.
+FT   TURN        110    112       {ECO:0000244|PDB:1PVG}.
+FT   HELIX       116    122       {ECO:0000244|PDB:1PVG}.
+FT   STRAND      123    128       {ECO:0000244|PDB:1PVG}.
+FT   HELIX       145    151       {ECO:0000244|PDB:1PVG}.
+FT   STRAND      153    162       {ECO:0000244|PDB:1PVG}.
+FT   TURN        163    166       {ECO:0000244|PDB:1PVG}.
+FT   STRAND      167    174       {ECO:0000244|PDB:1PVG}.
+FT   TURN        175    178       {ECO:0000244|PDB:1PVG}.
+FT   STRAND      184    187       {ECO:0000244|PDB:1PVG}.
+FT   STRAND      194    201       {ECO:0000244|PDB:1PVG}.
+FT   HELIX       203    206       {ECO:0000244|PDB:1PVG}.
+FT   HELIX       213    229       {ECO:0000244|PDB:1PVG}.
+FT   STRAND      234    237       {ECO:0000244|PDB:1PVG}.
+FT   HELIX       247    252       {ECO:0000244|PDB:1PVG}.
+FT   TURN        253    257       {ECO:0000244|PDB:1PVG}.
+FT   STRAND      280    285       {ECO:0000244|PDB:1PVG}.
+FT   STRAND      288    294       {ECO:0000244|PDB:1PVG}.
+FT   STRAND      296    298       {ECO:0000244|PDB:1PVG}.
+FT   STRAND      300    305       {ECO:0000244|PDB:1PVG}.
+FT   HELIX       315    332       {ECO:0000244|PDB:1PVG}.
+FT   HELIX       342    346       {ECO:0000244|PDB:1PVG}.
+FT   STRAND      349    355       {ECO:0000244|PDB:1PVG}.
+FT   STRAND      362    364       {ECO:0000244|PDB:1PVG}.
+FT   HELIX       374    376       {ECO:0000244|PDB:1PVG}.
+FT   STRAND      377    379       {ECO:0000244|PDB:1PVG}.
+FT   HELIX       385    391       {ECO:0000244|PDB:1PVG}.
+FT   HELIX       395    405       {ECO:0000244|PDB:1PVG}.
+FT   TURN        433    436       {ECO:0000244|PDB:1BJT}.
+FT   HELIX       438    442       {ECO:0000244|PDB:1BJT}.
+FT   STRAND      444    450       {ECO:0000244|PDB:1BJT}.
+FT   HELIX       451    464       {ECO:0000244|PDB:1BJT}.
+FT   STRAND      466    475       {ECO:0000244|PDB:1BJT}.
+FT   STRAND      479    481       {ECO:0000244|PDB:1BGW}.
+FT   HELIX       486    491       {ECO:0000244|PDB:2RGR}.
+FT   HELIX       492    502       {ECO:0000244|PDB:1BJT}.
+FT   TURN        503    505       {ECO:0000244|PDB:1BGW}.
+FT   STRAND      506    508       {ECO:0000244|PDB:1BJT}.
+FT   STRAND      513    517       {ECO:0000244|PDB:1BJT}.
+FT   STRAND      519    525       {ECO:0000244|PDB:1BJT}.
+FT   STRAND      527    530       {ECO:0000244|PDB:1BGW}.
+FT   HELIX       534    545       {ECO:0000244|PDB:1BJT}.
+FT   HELIX       547    550       {ECO:0000244|PDB:1BGW}.
+FT   STRAND      555    558       {ECO:0000244|PDB:1BJT}.
+FT   STRAND      563    568       {ECO:0000244|PDB:1BJT}.
+FT   STRAND      574    580       {ECO:0000244|PDB:1BJT}.
+FT   HELIX       581    590       {ECO:0000244|PDB:1BJT}.
+FT   TURN        591    594       {ECO:0000244|PDB:1BJT}.
+FT   STRAND      597    599       {ECO:0000244|PDB:1BJT}.
+FT   HELIX       609    629       {ECO:0000244|PDB:1BJT}.
+FT   HELIX       634    642       {ECO:0000244|PDB:2RGR}.
+FT   HELIX       647    656       {ECO:0000244|PDB:2RGR}.
+FT   STRAND      668    670       {ECO:0000244|PDB:2RGR}.
+FT   HELIX       678    691       {ECO:0000244|PDB:1BJT}.
+FT   TURN        695    697       {ECO:0000244|PDB:1BJT}.
+FT   HELIX       701    713       {ECO:0000244|PDB:1BJT}.
+FT   HELIX       721    732       {ECO:0000244|PDB:1BJT}.
+FT   STRAND      736    738       {ECO:0000244|PDB:1BJT}.
+FT   HELIX       741    749       {ECO:0000244|PDB:1BJT}.
+FT   TURN        753    755       {ECO:0000244|PDB:2RGR}.
+FT   STRAND      760    765       {ECO:0000244|PDB:1BJT}.
+FT   TURN        770    773       {ECO:0000244|PDB:1BJT}.
+FT   TURN        780    782       {ECO:0000244|PDB:1BJT}.
+FT   STRAND      784    787       {ECO:0000244|PDB:1BJT}.
+FT   HELIX       791    794       {ECO:0000244|PDB:1BJT}.
+FT   HELIX       797    802       {ECO:0000244|PDB:1BJT}.
+FT   STRAND      805    808       {ECO:0000244|PDB:1BJT}.
+FT   STRAND      811    816       {ECO:0000244|PDB:1BJT}.
+FT   HELIX       824    827       {ECO:0000244|PDB:1BJT}.
+FT   STRAND      830    833       {ECO:0000244|PDB:1BJT}.
+FT   STRAND      838    841       {ECO:0000244|PDB:1BJT}.
+FT   HELIX       846    857       {ECO:0000244|PDB:1BJT}.
+FT   STRAND      874    880       {ECO:0000244|PDB:1BJT}.
+FT   STRAND      883    887       {ECO:0000244|PDB:1BJT}.
+FT   STRAND      889    894       {ECO:0000244|PDB:1BJT}.
+FT   STRAND      897    902       {ECO:0000244|PDB:1BJT}.
+FT   HELIX       909    920       {ECO:0000244|PDB:1BJT}.
+FT   STRAND      924    926       {ECO:0000244|PDB:1BGW}.
+FT   STRAND      932    935       {ECO:0000244|PDB:1BJT}.
+FT   STRAND      938    940       {ECO:0000244|PDB:1BJT}.
+FT   STRAND      943    946       {ECO:0000244|PDB:1BJT}.
+FT   HELIX       949    958       {ECO:0000244|PDB:1BJT}.
+FT   HELIX       960    963       {ECO:0000244|PDB:1BJT}.
+FT   STRAND      967    971       {ECO:0000244|PDB:1BJT}.
+FT   STRAND      975    978       {ECO:0000244|PDB:1BJT}.
+FT   STRAND      984    989       {ECO:0000244|PDB:1BJT}.
+FT   HELIX       990   1034       {ECO:0000244|PDB:1BJT}.
+FT   STRAND     1041   1043       {ECO:0000244|PDB:1BGW}.
+FT   HELIX      1045   1054       {ECO:0000244|PDB:1BJT}.
+FT   TURN       1108   1110       {ECO:0000244|PDB:1BJT}.
+FT   HELIX      1114   1117       {ECO:0000244|PDB:1BJT}.
+FT   HELIX      1121   1124       {ECO:0000244|PDB:1BJT}.
+FT   HELIX      1126   1147       {ECO:0000244|PDB:1BJT}.
+FT   HELIX      1151   1176       {ECO:0000244|PDB:1BJT}.
+SQ   SEQUENCE   1428 AA;  164215 MW;  0E29EB8B89AA1387 CRC64;
+     MSTEPVSASD KYQKISQLEH ILKRPDTYIG SVETQEQLQW IYDEETDCMI EKNVTIVPGL
+     FKIFDEILVN AADNKVRDPS MKRIDVNIHA EEHTIEVKND GKGIPIEIHN KENIYIPEMI
+     FGHLLTSSNY DDDEKKVTGG RNGYGAKLCN IFSTEFILET ADLNVGQKYV QKWENNMSIC
+     HPPKITSYKK GPSYTKVTFK PDLTRFGMKE LDNDILGVMR RRVYDINGSV RDINVYLNGK
+     SLKIRNFKNY VELYLKSLEK KRQLDNGEDG AAKSDIPTIL YERINNRWEV AFAVSDISFQ
+     QISFVNSIAT TMGGTHVNYI TDQIVKKISE ILKKKKKKSV KSFQIKNNMF IFINCLIENP
+     AFTSQTKEQL TTRVKDFGSR CEIPLEYINK IMKTDLATRM FEIADANEEN ALKKSDGTRK
+     SRITNYPKLE DANKAGTKEG YKCTLVLTEG DSALSLAVAG LAVVGRDYYG CYPLRGKMLN
+     VREASADQIL KNAEIQAIKK IMGLQHRKKY EDTKSLRYGH LMIMTDQDHD GSHIKGLIIN
+     FLESSFPGLL DIQGFLLEFI TPIIKVSITK PTKNTIAFYN MPDYEKWREE ESHKFTWKQK
+     YYKGLGTSLA QEVREYFSNL DRHLKIFHSL QGNDKDYIDL AFSKKKADDR KEWLRQYEPG
+     TVLDPTLKEI PISDFINKEL ILFSLADNIR SIPNVLDGFK PGQRKVLYGC FKKNLKSELK
+     VAQLAPYVSE CTAYHHGEQS LAQTIIGLAQ NFVGSNNIYL LLPNGAFGTR ATGGKDAAAA
+     RYIYTELNKL TRKIFHPADD PLYKYIQEDE KTVEPEWYLP ILPMILVNGA EGIGTGWSTY
+     IPPFNPLEII KNIRHLMNDE ELEQMHPWFR GWTGTIEEIE PLRYRMYGRI EQIGDNVLEI
+     TELPARTWTS TIKEYLLLGL SGNDKIKPWI KDMEEQHDDN IKFIITLSPE EMAKTRKIGF
+     YERFKLISPI SLMNMVAFDP HGKIKKYNSV NEILSEFYYV RLEYYQKRKD HMSERLQWEV
+     EKYSFQVKFI KMIIEKELTV TNKPRNAIIQ ELENLGFPRF NKEGKPYYGS PNDEIAEQIN
+     DVKGATSDEE DEESSHEDTE NVINGPEELY GTYEYLLGMR IWSLTKERYQ KLLKQKQEKE
+     TELENLLKLS AKDIWNTDLK AFEVGYQEFL QRDAEARGGN VPNKGSKTKG KGKRKLVDDE
+     DYDPSKKNKK STARKGKKIK LEDKNFERIL LEQKLVTKSK APTKIKKEKT PSVSETKTEE
+     EENAPSSTSS SSIFDIKKED KDEGELSKIS NKFKKISTIF DKMGSTSATS KENTPEQDDV
+     ATKKNQTTAK KTAVKPKLAK KPVRKQQKVV ELSGESDLEI LDSYTDREDS NKDEDDAIPQ
+     RSRRQRSSRA ASVPKKSYVE TLELSDDSFI EDDEEENQGS DVSFNEED
+//

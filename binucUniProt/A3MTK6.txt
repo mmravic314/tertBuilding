@@ -1,0 +1,188 @@
+ID   CAS4_PYRCJ              Reviewed;         213 AA.
+AC   A3MTK6;
+DT   26-NOV-2014, integrated into UniProtKB/Swiss-Prot.
+DT   03-APR-2007, sequence version 1.
+DT   27-MAY-2015, entry version 48.
+DE   RecName: Full=CRISPR-associated exonuclease Cas4;
+DE            EC=3.1.12.1 {ECO:0000269|PubMed:25200083};
+GN   Name=cas4; OrderedLocusNames=Pcal_0546;
+OS   Pyrobaculum calidifontis (strain JCM 11548 / VA1).
+OC   Archaea; Crenarchaeota; Thermoprotei; Thermoproteales;
+OC   Thermoproteaceae; Pyrobaculum.
+OX   NCBI_TaxID=410359;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=JCM 11548 / VA1;
+RG   US DOE Joint Genome Institute;
+RA   Copeland A., Lucas S., Lapidus A., Barry K., Glavina del Rio T.,
+RA   Dalin E., Tice H., Pitluck S., Chain P., Malfatti S., Shin M.,
+RA   Vergez L., Schmutz J., Larimer F., Land M., Hauser L., Kyrpides N.,
+RA   Mikhailova N., Cozen A.E., Fitz-Gibbon S.T., House C.H., Saltikov C.,
+RA   Lowe T.M., Richardson P.;
+RT   "Complete sequence of Pyrobaculum calidifontis JCM 11548.";
+RL   Submitted (FEB-2007) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   FUNCTION, AND COFACTOR.
+RX   PubMed=24171432; DOI=10.1021/ja408729b;
+RA   Lemak S., Beloglazova N., Nocek B., Skarina T., Flick R., Brown G.,
+RA   Popovic A., Joachimiak A., Savchenko A., Yakunin A.F.;
+RT   "Toroidal structure and DNA cleavage by the CRISPR-associated [4Fe-4S]
+RT   cluster containing Cas4 nuclease SSO0001 from Sulfolobus
+RT   solfataricus.";
+RL   J. Am. Chem. Soc. 135:17476-17487(2013).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (2.65 ANGSTROMS) IN COMPLEX WITH IRON-SULFUR
+RP   (2FE-2S), FUNCTION, CATALYTIC ACTIVITY, BIOPHYSICOCHEMICAL PROPERTIES,
+RP   COFACTOR, SUBUNIT, AND MUTAGENESIS OF CYS-64; ASP-123; GLE-136;
+RP   PHE-141; GLN-149; TYR-153; TYR-166; CYS-200; CYS-203 AND CYS-209.
+RC   STRAIN=JCM 11548 / VA1;
+RX   PubMed=25200083; DOI=10.1093/nar/gku797;
+RA   Lemak S., Nocek B., Beloglazova N., Skarina T., Flick R., Brown G.,
+RA   Joachimiak A., Savchenko A., Yakunin A.F.;
+RT   "The CRISPR-associated Cas4 protein Pcal_0546 from Pyrobaculum
+RT   calidifontis contains a [2Fe-2S] cluster: crystal structure and
+RT   nuclease activity.";
+RL   Nucleic Acids Res. 42:11144-11155(2014).
+CC   -!- FUNCTION: CRISPR (clustered regularly interspaced short
+CC       palindromic repeat) is an adaptive immune system that provides
+CC       protection against mobile genetic elements (viruses, transposable
+CC       elements and conjugative plasmids). CRISPR clusters contain
+CC       sequences complementary to antecedent mobile elements and target
+CC       invading nucleic acids. CRISPR clusters are transcribed and
+CC       processed into CRISPR RNA (crRNA). A ssDNA exonuclease that has 5'
+CC       to 3' activity, yielding 5'-OH and 3'-phosphate groups. Has
+CC       Mn(2+)-dependent endonuclease activity on circular ssDNA. Can
+CC       unwind dsDNA; unwinding does not require ATP.
+CC       {ECO:0000269|PubMed:24171432, ECO:0000269|PubMed:25200083}.
+CC   -!- CATALYTIC ACTIVITY: Exonucleolytic cleavage in the 5'- to 3'-
+CC       direction to yield nucleoside 3'-phosphates.
+CC       {ECO:0000269|PubMed:25200083}.
+CC   -!- COFACTOR:
+CC       Name=[2Fe-2S] cluster; Xref=ChEBI:CHEBI:49601;
+CC         Evidence={ECO:0000269|PubMed:25200083,
+CC         ECO:0000303|PubMed:24171432};
+CC       Note=Binds 1 [2Fe-2S] cluster per subunit. Not required for
+CC       nuclease activity, since mutation of the Cys residues leads to a
+CC       colorless but active protein. {ECO:0000269|PubMed:25200083,
+CC       ECO:0000303|PubMed:24171432};
+CC   -!- COFACTOR:
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000269|PubMed:25200083};
+CC       Name=Co(2+); Xref=ChEBI:CHEBI:48828;
+CC         Evidence={ECO:0000269|PubMed:25200083};
+CC       Note=Mn(2+) required for ssDNA cleavage activity. Can also utilize
+CC       Co(2+) and to a lesser extent Mg(2+).
+CC       {ECO:0000269|PubMed:25200083};
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       pH dependence:
+CC         Optimum pH is 7-9. {ECO:0000269|PubMed:25200083};
+CC       Temperature dependence:
+CC         Optimum temperature is 50-70 degrees Celsius.
+CC         {ECO:0000269|PubMed:25200083};
+CC   -!- SUBUNIT: Monomer. {ECO:0000269|PubMed:25200083}.
+CC   -!- SIMILARITY: Belongs to the CRISPR-associated exonuclease Cas4
+CC       family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP000561; ABO07973.1; -; Genomic_DNA.
+DR   RefSeq; WP_011849231.1; NC_009073.1.
+DR   RefSeq; YP_001055439.1; NC_009073.1.
+DR   PDB; 4R5Q; X-ray; 2.65 A; A=1-213.
+DR   PDBsum; 4R5Q; -.
+DR   STRING; 410359.Pcal_0546; -.
+DR   EnsemblBacteria; ABO07973; ABO07973; Pcal_0546.
+DR   GeneID; 4909024; -.
+DR   KEGG; pcl:Pcal_0546; -.
+DR   eggNOG; COG1468; -.
+DR   HOGENOM; HOG000222990; -.
+DR   KO; K07464; -.
+DR   OMA; EYCPRLL; -.
+DR   BioCyc; PCAL410359:GIX2-562-MONOMER; -.
+DR   Proteomes; UP000001431; Chromosome.
+DR   GO; GO:0051537; F:2 iron, 2 sulfur cluster binding; IDA:UniProtKB.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0045145; F:single-stranded DNA 5'-3' exodeoxyribonuclease activity; IDA:UniProtKB.
+DR   GO; GO:0000014; F:single-stranded DNA endodeoxyribonuclease activity; IDA:UniProtKB.
+DR   GO; GO:0032508; P:DNA duplex unwinding; IDA:UniProtKB.
+DR   GO; GO:0006259; P:DNA metabolic process; IDA:GOC.
+DR   GO; GO:0090305; P:nucleic acid phosphodiester bond hydrolysis; IDA:GOC.
+DR   InterPro; IPR013343; CRISPR-assoc_prot_Cas4.
+DR   InterPro; IPR022765; Dna2/Cas4_DUF83.
+DR   Pfam; PF01930; Cas_Cas4; 1.
+DR   TIGRFAMs; TIGR00372; cas4; 1.
+PE   1: Evidence at protein level;
+KW   2Fe-2S; 3D-structure; Complete proteome; Exonuclease; Hydrolase; Iron;
+KW   Iron-sulfur; Manganese; Metal-binding; Nuclease.
+FT   CHAIN         1    213       CRISPR-associated exonuclease Cas4.
+FT                                /FTId=PRO_0000430935.
+FT   METAL        64     64       Iron-sulfur (2Fe-2S).
+FT                                {ECO:0000269|PubMed:25200083}.
+FT   METAL        94     94       Magnesium. {ECO:0000303|PubMed:25200083}.
+FT   METAL       123    123       Magnesium. {ECO:0000303|PubMed:25200083}.
+FT   METAL       136    136       Magnesium. {ECO:0000303|PubMed:25200083}.
+FT   METAL       137    137       Magnesium; via carbonyl oxygen.
+FT                                {ECO:0000303|PubMed:25200083}.
+FT   METAL       200    200       Iron-sulfur (2Fe-2S).
+FT                                {ECO:0000269|PubMed:25200083}.
+FT   METAL       203    203       Iron-sulfur (2Fe-2S).
+FT                                {ECO:0000269|PubMed:25200083}.
+FT   METAL       209    209       Iron-sulfur (2Fe-2S).
+FT                                {ECO:0000269|PubMed:25200083}.
+FT   MUTAGEN      64     64       C->A: Probably no 2Fe-2S center assembly,
+FT                                wild-type nuclease and DNA unwinding.
+FT                                {ECO:0000269|PubMed:25200083}.
+FT   MUTAGEN     123    123       D->A: No exonuclease or endonuclease,
+FT                                reduced DNA unwinding activity.
+FT                                {ECO:0000269|PubMed:25200083}.
+FT   MUTAGEN     136    136       E->A: No exonuclease or endonuclease,
+FT                                very little DNA unwinding activity.
+FT                                {ECO:0000269|PubMed:25200083}.
+FT   MUTAGEN     141    141       F->A: Increased endonuclease activity.
+FT                                {ECO:0000269|PubMed:25200083}.
+FT   MUTAGEN     149    149       Q->A: No exonuclease or endonuclease,
+FT                                very little DNA unwinding activity.
+FT                                {ECO:0000269|PubMed:25200083}.
+FT   MUTAGEN     153    153       Y->A: No exonuclease or endonuclease,
+FT                                reduced DNA unwinding activity.
+FT                                {ECO:0000269|PubMed:25200083}.
+FT   MUTAGEN     166    166       Y->A: No exonuclease or endonuclease,
+FT                                reduced DNA unwinding activity.
+FT                                {ECO:0000269|PubMed:25200083}.
+FT   MUTAGEN     200    200       C->A: Probably no 2Fe-2S center assembly,
+FT                                wild-type nuclease and DNA unwinding.
+FT                                {ECO:0000269|PubMed:25200083}.
+FT   MUTAGEN     203    203       C->A: Probably no 2Fe-2S center assembly,
+FT                                wild-type nuclease and DNA unwinding.
+FT                                {ECO:0000269|PubMed:25200083}.
+FT   MUTAGEN     209    209       C->A: Probably no 2Fe-2S center assembly,
+FT                                wild-type nuclease and DNA unwinding.
+FT                                {ECO:0000269|PubMed:25200083}.
+FT   HELIX         9     11       {ECO:0000244|PDB:4R5Q}.
+FT   HELIX        15     18       {ECO:0000244|PDB:4R5Q}.
+FT   HELIX        24     33       {ECO:0000244|PDB:4R5Q}.
+FT   STRAND       37     40       {ECO:0000244|PDB:4R5Q}.
+FT   STRAND       43     47       {ECO:0000244|PDB:4R5Q}.
+FT   HELIX        55     63       {ECO:0000244|PDB:4R5Q}.
+FT   HELIX        65     74       {ECO:0000244|PDB:4R5Q}.
+FT   STRAND       76     80       {ECO:0000244|PDB:4R5Q}.
+FT   TURN         81     83       {ECO:0000244|PDB:4R5Q}.
+FT   HELIX        84    101       {ECO:0000244|PDB:4R5Q}.
+FT   STRAND      107    115       {ECO:0000244|PDB:4R5Q}.
+FT   STRAND      118    128       {ECO:0000244|PDB:4R5Q}.
+FT   STRAND      131    137       {ECO:0000244|PDB:4R5Q}.
+FT   HELIX       143    157       {ECO:0000244|PDB:4R5Q}.
+FT   STRAND      160    165       {ECO:0000244|PDB:4R5Q}.
+FT   STRAND      170    174       {ECO:0000244|PDB:4R5Q}.
+FT   HELIX       177    180       {ECO:0000244|PDB:4R5Q}.
+FT   HELIX       181    191       {ECO:0000244|PDB:4R5Q}.
+FT   STRAND      200    202       {ECO:0000244|PDB:4R5Q}.
+FT   TURN        204    207       {ECO:0000244|PDB:4R5Q}.
+FT   HELIX       208    211       {ECO:0000244|PDB:4R5Q}.
+SQ   SEQUENCE   213 AA;  24673 MW;  BE0AE9B0B6781BD7 CRC64;
+     MELLSPKPLC SVVNCEDLEK LDHVSALNEL RREQEIFKLL PGIYAHRYDF RRVSPSIIND
+     FEYCPRLLWV QHKLGLKLLS EKSVVSIIRG RILHERYERL LSQYENVVAE YKVEIGDLVG
+     VVDLVIKRGG EYIPVEIKTG FSKEAHKTQL QIYISMLKAR FGYLVYRNHV EVVHRNDAAL
+     DVLKKIREIL SAREAPPAKC NSCIFKPICK NLL
+//

@@ -1,0 +1,433 @@
+ID   POR_DESAF               Reviewed;        1232 AA.
+AC   P94692;
+DT   29-OCT-2014, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-1997, sequence version 1.
+DT   24-JUN-2015, entry version 102.
+DE   RecName: Full=Pyruvate synthase {ECO:0000305};
+DE            EC=1.2.7.1 {ECO:0000269|PubMed:7612653};
+DE   AltName: Full=Pyruvate-ferredoxin oxidoreductase. {ECO:0000303|PubMed:7612653};
+DE            Short=POR {ECO:0000303|PubMed:7612653};
+GN   Name=por {ECO:0000312|EMBL:CAA70873.1};
+OS   Desulfovibrio africanus.
+OC   Bacteria; Proteobacteria; Deltaproteobacteria; Desulfovibrionales;
+OC   Desulfovibrionaceae; Desulfovibrio.
+OX   NCBI_TaxID=873 {ECO:0000312|EMBL:CAA70873.1};
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], PROTEIN SEQUENCE OF 1-18; 304-313;
+RP   484-504 AND 1198-1216, AND FUNCTION.
+RC   STRAIN=ATCC 19996 / DSM 2603 / NCIB 8401 / Benghazi;
+RX   PubMed=9294422;
+RA   Pieulle L., Magro V., Hatchikian E.C.;
+RT   "Isolation and analysis of the gene encoding the pyruvate-ferredoxin
+RT   oxidoreductase of Desulfovibrio africanus, production of the
+RT   recombinant enzyme in Escherichia coli, and effect of carboxy-terminal
+RT   deletions on its stability.";
+RL   J. Bacteriol. 179:5684-5692(1997).
+RN   [2]
+RP   FUNCTION, CATALYTIC ACTIVITY, COFACTOR, SUBUNIT, AND SUBCELLULAR
+RP   LOCATION.
+RC   STRAIN=ATCC 19996 / DSM 2603 / NCIB 8401 / Benghazi;
+RX   PubMed=7612653; DOI=10.1016/0167-4838(95)00029-T;
+RA   Pieulle L., Guigliarelli B., Asso M., Dole F., Bernadac A.,
+RA   Hatchikian E.C.;
+RT   "Isolation and characterization of the pyruvate-ferredoxin
+RT   oxidoreductase from the sulfate-reducing bacterium Desulfovibrio
+RT   africanus.";
+RL   Biochim. Biophys. Acta 1250:49-59(1995).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (2.31 ANGSTROMS) OF 2-1232 IN COMPLEX WITH
+RP   IRON-SULFUR(4FE-4S); CALCIUM ION; MAGNESIUM ION; PYRUVATE AND
+RP   THIAMINEPYROPHOSPHATE, SUBUNIT, AND DISULFIDE BOND.
+RX   PubMed=10048931; DOI=10.1038/5870;
+RA   Chabriere E., Charon M.H., Volbeda A., Pieulle L., Hatchikian E.C.,
+RA   Fontecilla-Camps J.C.;
+RT   "Crystal structures of the key anaerobic enzyme pyruvate:ferredoxin
+RT   oxidoreductase, free and in complex with pyruvate.";
+RL   Nat. Struct. Biol. 6:182-190(1999).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS) OF 2-1232 IN COMPLEX WITH
+RP   CALCIUM; IRON-SULFUR(4FE-4S); MAGNESIUM AND THIAMINEPYROPHOSPHATE
+RP   ANALOG, AND SUBUNIT.
+RX   PubMed=11752578; DOI=10.1126/science.1066198;
+RA   Chabriere E., Vernede X., Guigliarelli B., Charon M.H.,
+RA   Hatchikian E.C., Fontecilla-Camps J.C.;
+RT   "Crystal structure of the free radical intermediate of
+RT   pyruvate:ferredoxin oxidoreductase.";
+RL   Science 294:2559-2563(2001).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (1.78 ANGSTROMS) OF 2-1232 IN COMPLEX WITH
+RP   IRON-SULFUR(4FE-4S); CALCIUM ION; MAGNESIUM ION; PYRUVATE AND
+RP   THIAMINEPYROPHOSPHATE, AND SUBUNIT.
+RX   PubMed=16472741; DOI=10.1016/j.str.2005.10.013;
+RA   Cavazza C., Contreras-Martel C., Pieulle L., Chabriere E.,
+RA   Hatchikian E.C., Fontecilla-Camps J.C.;
+RT   "Flexibility of thiamine diphosphate revealed by kinetic
+RT   crystallographic studies of the reaction of pyruvate-ferredoxin
+RT   oxidoreductase with pyruvate.";
+RL   Structure 14:217-224(2006).
+CC   -!- FUNCTION: Catalyzes the ferredoxin-dependent oxidative
+CC       decarboxylation of pyruvate. Required for the transfer of
+CC       electrons from pyruvate to ferredoxin (PubMed:9294422,
+CC       PubMed:7612653). Ferredoxin I and ferredoxin II, which are single
+CC       4Fe-4S cluster ferredoxins are the most effective electron
+CC       carriers of POR (PubMed:7612653). {ECO:0000269|PubMed:7612653}.
+CC   -!- CATALYTIC ACTIVITY: Pyruvate + CoA + 2 oxidized ferredoxin =
+CC       acetyl-CoA + CO(2) + 2 reduced ferredoxin + 2 H(+).
+CC       {ECO:0000269|PubMed:7612653}.
+CC   -!- COFACTOR:
+CC       Name=[4Fe-4S] cluster; Xref=ChEBI:CHEBI:49883;
+CC         Evidence={ECO:0000269|PubMed:10048931,
+CC         ECO:0000269|PubMed:11752578, ECO:0000269|PubMed:16472741,
+CC         ECO:0000269|PubMed:7612653};
+CC       Note=Binds 3 [4Fe-4S] clusters per subunit.
+CC       {ECO:0000269|PubMed:10048931, ECO:0000269|PubMed:11752578,
+CC       ECO:0000269|PubMed:16472741, ECO:0000269|PubMed:7612653};
+CC   -!- COFACTOR:
+CC       Name=thiamine diphosphate; Xref=ChEBI:CHEBI:58937;
+CC         Evidence={ECO:0000269|PubMed:10048931,
+CC         ECO:0000269|PubMed:11752578, ECO:0000269|PubMed:16472741};
+CC       Note=Binds 1 thiamine pyrophosphate per subunit.
+CC       {ECO:0000269|PubMed:10048931, ECO:0000269|PubMed:11752578,
+CC       ECO:0000269|PubMed:16472741};
+CC   -!- COFACTOR:
+CC       Name=Ca(2+); Xref=ChEBI:CHEBI:29108;
+CC         Evidence={ECO:0000269|PubMed:10048931,
+CC         ECO:0000269|PubMed:11752578, ECO:0000269|PubMed:16472741};
+CC       Note=Binds 1 Ca(2+) ion per subunit. {ECO:0000269|PubMed:10048931,
+CC       ECO:0000269|PubMed:11752578, ECO:0000269|PubMed:16472741};
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000269|PubMed:10048931,
+CC         ECO:0000269|PubMed:11752578, ECO:0000269|PubMed:16472741};
+CC       Note=Binds 1 Mg(2+) ion per subunit. {ECO:0000269|PubMed:10048931,
+CC       ECO:0000269|PubMed:11752578, ECO:0000269|PubMed:16472741};
+CC   -!- SUBUNIT: Homodimer. {ECO:0000269|PubMed:10048931,
+CC       ECO:0000269|PubMed:11752578, ECO:0000269|PubMed:16472741,
+CC       ECO:0000269|PubMed:7612653}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:7612653}.
+CC   -!- SIMILARITY: Contains 2 4Fe-4S ferredoxin-type domains.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00711}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; Y09702; CAA70873.1; -; Genomic_DNA.
+DR   PDB; 1B0P; X-ray; 2.31 A; A/B=2-1232.
+DR   PDB; 1KEK; X-ray; 1.90 A; A/B=2-1232.
+DR   PDB; 2C3M; X-ray; 1.84 A; A/B=2-1232.
+DR   PDB; 2C3O; X-ray; 2.70 A; A/B=2-1232.
+DR   PDB; 2C3P; X-ray; 2.33 A; A/B=2-1232.
+DR   PDB; 2C3U; X-ray; 2.32 A; A/B=2-1232.
+DR   PDB; 2C3Y; X-ray; 1.93 A; A/B=2-1232.
+DR   PDB; 2C42; X-ray; 1.78 A; A/B=2-1232.
+DR   PDB; 2PDA; X-ray; 3.00 A; A/B=2-1232.
+DR   PDB; 2UZA; X-ray; 2.42 A; A/B=2-1232.
+DR   PDBsum; 1B0P; -.
+DR   PDBsum; 1KEK; -.
+DR   PDBsum; 2C3M; -.
+DR   PDBsum; 2C3O; -.
+DR   PDBsum; 2C3P; -.
+DR   PDBsum; 2C3U; -.
+DR   PDBsum; 2C3Y; -.
+DR   PDBsum; 2C42; -.
+DR   PDBsum; 2PDA; -.
+DR   PDBsum; 2UZA; -.
+DR   ProteinModelPortal; P94692; -.
+DR   SMR; P94692; 2-1232.
+DR   DIP; DIP-29036N; -.
+DR   STRING; 690850.Desaf_2186; -.
+DR   DrugBank; DB00507; Nitazoxanide.
+DR   EvolutionaryTrace; P94692; -.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0051539; F:4 iron, 4 sulfur cluster binding; IEA:UniProtKB-KW.
+DR   GO; GO:0005506; F:iron ion binding; IEA:InterPro.
+DR   GO; GO:0019164; F:pyruvate synthase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0030976; F:thiamine pyrophosphate binding; IEA:InterPro.
+DR   GO; GO:0022900; P:electron transport chain; IEA:InterPro.
+DR   Gene3D; 3.40.50.920; -; 1.
+DR   Gene3D; 3.40.50.970; -; 2.
+DR   Gene3D; 3.40.920.10; -; 1.
+DR   Gene3D; 4.10.780.10; -; 1.
+DR   InterPro; IPR001450; 4Fe4S-bd_dom.
+DR   InterPro; IPR017896; 4Fe4S_Fe-S-bd.
+DR   InterPro; IPR017900; 4Fe4S_Fe_S_CS.
+DR   InterPro; IPR019456; Pyrv-flavodox_OxRtase_EKR.
+DR   InterPro; IPR019752; Pyrv/ketoisovalerate_OxRed_cat.
+DR   InterPro; IPR002880; Pyrv_Fd/Flavodoxin_OxRdtase_N.
+DR   InterPro; IPR011895; Pyrv_flavodox_OxRed.
+DR   InterPro; IPR002869; Pyrv_flavodox_OxRed_cen.
+DR   InterPro; IPR029061; THDP-binding.
+DR   InterPro; IPR011766; TPP_enzyme-bd_C.
+DR   InterPro; IPR009014; Transketo_C/Pyr-ferredox_oxred.
+DR   Pfam; PF10371; EKR; 1.
+DR   Pfam; PF00037; Fer4; 1.
+DR   Pfam; PF01558; POR; 1.
+DR   Pfam; PF01855; POR_N; 1.
+DR   Pfam; PF02775; TPP_enzyme_C; 1.
+DR   PIRSF; PIRSF000159; NifJ; 1.
+DR   SMART; SM00890; EKR; 1.
+DR   SUPFAM; SSF52518; SSF52518; 2.
+DR   SUPFAM; SSF52922; SSF52922; 1.
+DR   SUPFAM; SSF53323; SSF53323; 1.
+DR   TIGRFAMs; TIGR02176; pyruv_ox_red; 1.
+DR   PROSITE; PS00198; 4FE4S_FER_1; 2.
+DR   PROSITE; PS51379; 4FE4S_FER_2; 2.
+PE   1: Evidence at protein level;
+KW   3D-structure; 4Fe-4S; Calcium; Cytoplasm; Direct protein sequencing;
+KW   Disulfide bond; Electron transport; Iron; Iron-sulfur; Magnesium;
+KW   Metal-binding; Oxidoreductase; Pyruvate; Thiamine pyrophosphate;
+KW   Transport.
+FT   CHAIN         1   1232       Pyruvate synthase.
+FT                                /FTId=PRO_0000430800.
+FT   DOMAIN      680    709       4Fe-4S ferredoxin-type 1.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00711}.
+FT   DOMAIN      736    767       4Fe-4S ferredoxin-type 2.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00711}.
+FT   REGION      962    965       Thiamine pyrophosphate binding.
+FT                                {ECO:0000269|PubMed:10048931,
+FT                                ECO:0000269|PubMed:11752578,
+FT                                ECO:0000269|PubMed:16472741}.
+FT   REGION      991    996       Thiamine pyrophosphate binding.
+FT                                {ECO:0000269|PubMed:10048931,
+FT                                ECO:0000269|PubMed:11752578,
+FT                                ECO:0000269|PubMed:16472741}.
+FT   METAL       689    689       Iron-sulfur 1 (4Fe-4S).
+FT                                {ECO:0000269|PubMed:10048931,
+FT                                ECO:0000269|PubMed:11752578,
+FT                                ECO:0000269|PubMed:16472741}.
+FT   METAL       692    692       Iron-sulfur 1 (4Fe-4S).
+FT                                {ECO:0000269|PubMed:10048931,
+FT                                ECO:0000269|PubMed:11752578,
+FT                                ECO:0000269|PubMed:16472741}.
+FT   METAL       695    695       Iron-sulfur 1 (4Fe-4S).
+FT                                {ECO:0000269|PubMed:10048931,
+FT                                ECO:0000269|PubMed:11752578,
+FT                                ECO:0000269|PubMed:16472741}.
+FT   METAL       699    699       Iron-sulfur 2 (4Fe-4S).
+FT                                {ECO:0000269|PubMed:10048931,
+FT                                ECO:0000269|PubMed:11752578,
+FT                                ECO:0000269|PubMed:16472741}.
+FT   METAL       745    745       Iron-sulfur 2 (4Fe-4S).
+FT                                {ECO:0000269|PubMed:10048931,
+FT                                ECO:0000269|PubMed:11752578,
+FT                                ECO:0000269|PubMed:16472741}.
+FT   METAL       748    748       Iron-sulfur 2 (4Fe-4S).
+FT                                {ECO:0000269|PubMed:10048931,
+FT                                ECO:0000269|PubMed:11752578,
+FT                                ECO:0000269|PubMed:16472741}.
+FT   METAL       751    751       Iron-sulfur 2 (4Fe-4S).
+FT                                {ECO:0000269|PubMed:10048931,
+FT                                ECO:0000269|PubMed:11752578,
+FT                                ECO:0000269|PubMed:16472741}.
+FT   METAL       755    755       Iron-sulfur 1 (4Fe-4S).
+FT                                {ECO:0000269|PubMed:10048931,
+FT                                ECO:0000269|PubMed:11752578,
+FT                                ECO:0000269|PubMed:16472741}.
+FT   METAL       812    812       Iron-sulfur 3 (4Fe-4S).
+FT                                {ECO:0000269|PubMed:10048931,
+FT                                ECO:0000269|PubMed:11752578,
+FT                                ECO:0000269|PubMed:16472741}.
+FT   METAL       815    815       Iron-sulfur 3 (4Fe-4S).
+FT                                {ECO:0000269|PubMed:10048931,
+FT                                ECO:0000269|PubMed:11752578,
+FT                                ECO:0000269|PubMed:16472741}.
+FT   METAL       840    840       Iron-sulfur 3 (4Fe-4S).
+FT                                {ECO:0000269|PubMed:10048931,
+FT                                ECO:0000269|PubMed:11752578,
+FT                                ECO:0000269|PubMed:16472741}.
+FT   METAL       963    963       Magnesium. {ECO:0000269|PubMed:10048931,
+FT                                ECO:0000269|PubMed:11752578,
+FT                                ECO:0000269|PubMed:16472741}.
+FT   METAL       983    983       Calcium. {ECO:0000269|PubMed:10048931,
+FT                                ECO:0000269|PubMed:11752578,
+FT                                ECO:0000269|PubMed:16472741}.
+FT   METAL       985    985       Calcium. {ECO:0000269|PubMed:10048931,
+FT                                ECO:0000269|PubMed:11752578,
+FT                                ECO:0000269|PubMed:16472741}.
+FT   METAL       991    991       Magnesium. {ECO:0000269|PubMed:10048931,
+FT                                ECO:0000269|PubMed:11752578,
+FT                                ECO:0000269|PubMed:16472741}.
+FT   METAL       993    993       Magnesium; via carbonyl oxygen.
+FT                                {ECO:0000269|PubMed:10048931,
+FT                                ECO:0000269|PubMed:11752578,
+FT                                ECO:0000269|PubMed:16472741}.
+FT   METAL      1056   1056       Calcium; via carbonyl oxygen.
+FT                                {ECO:0000269|PubMed:10048931,
+FT                                ECO:0000269|PubMed:11752578,
+FT                                ECO:0000269|PubMed:16472741}.
+FT   METAL      1059   1059       Calcium; via carbonyl oxygen.
+FT                                {ECO:0000269|PubMed:10048931,
+FT                                ECO:0000269|PubMed:11752578,
+FT                                ECO:0000269|PubMed:16472741}.
+FT   METAL      1061   1061       Calcium; via carbonyl oxygen.
+FT                                {ECO:0000269|PubMed:10048931,
+FT                                ECO:0000269|PubMed:11752578,
+FT                                ECO:0000269|PubMed:16472741}.
+FT   METAL      1063   1063       Calcium. {ECO:0000269|PubMed:10048931,
+FT                                ECO:0000269|PubMed:11752578,
+FT                                ECO:0000269|PubMed:16472741}.
+FT   METAL      1071   1071       Iron-sulfur 3 (4Fe-4S).
+FT                                {ECO:0000269|PubMed:10048931,
+FT                                ECO:0000269|PubMed:11752578}.
+FT   BINDING      31     31       Pyruvate. {ECO:0000269|PubMed:10048931,
+FT                                ECO:0000269|PubMed:16472741}.
+FT   BINDING      64     64       Thiamine pyrophosphate.
+FT                                {ECO:0000269|PubMed:10048931,
+FT                                ECO:0000269|PubMed:11752578}.
+FT   BINDING     114    114       Pyruvate. {ECO:0000269|PubMed:10048931,
+FT                                ECO:0000269|PubMed:16472741}.
+FT   BINDING     817    817       Thiamine pyrophosphate.
+FT                                {ECO:0000269|PubMed:10048931,
+FT                                ECO:0000269|PubMed:11752578,
+FT                                ECO:0000269|PubMed:16472741}.
+FT   BINDING     840    840       Thiamine pyrophosphate.
+FT                                {ECO:0000269|PubMed:10048931,
+FT                                ECO:0000269|PubMed:11752578,
+FT                                ECO:0000269|PubMed:16472741}.
+FT   SITE         31     31       Important for catalytic activity.
+FT                                {ECO:0000303|PubMed:10048931}.
+FT   SITE         64     64       Important for catalytic activity.
+FT                                {ECO:0000303|PubMed:10048931}.
+FT   SITE        114    114       Important for catalytic activity.
+FT                                {ECO:0000303|PubMed:10048931}.
+FT   SITE        996    996       Important for catalytic activity.
+FT                                {ECO:0000303|PubMed:10048931}.
+FT   DISULFID   1195   1212
+FT   STRAND        5      9       {ECO:0000244|PDB:2C42}.
+FT   HELIX        10     21       {ECO:0000244|PDB:2C42}.
+FT   STRAND       23     27       {ECO:0000244|PDB:2C42}.
+FT   TURN         31     33       {ECO:0000244|PDB:2C42}.
+FT   HELIX        34     46       {ECO:0000244|PDB:2C42}.
+FT   STRAND       57     60       {ECO:0000244|PDB:2C42}.
+FT   HELIX        64     76       {ECO:0000244|PDB:2C42}.
+FT   STRAND       81     85       {ECO:0000244|PDB:2C42}.
+FT   HELIX        87    102       {ECO:0000244|PDB:2C42}.
+FT   STRAND      108    113       {ECO:0000244|PDB:2C42}.
+FT   STRAND      118    121       {ECO:0000244|PDB:2C42}.
+FT   HELIX       128    131       {ECO:0000244|PDB:2C42}.
+FT   TURN        132    135       {ECO:0000244|PDB:2C42}.
+FT   STRAND      139    142       {ECO:0000244|PDB:2C42}.
+FT   HELIX       146    163       {ECO:0000244|PDB:2C42}.
+FT   STRAND      167    172       {ECO:0000244|PDB:2C42}.
+FT   TURN        173    178       {ECO:0000244|PDB:2C42}.
+FT   STRAND      180    184       {ECO:0000244|PDB:2C42}.
+FT   HELIX       188    193       {ECO:0000244|PDB:2C42}.
+FT   HELIX       197    206       {ECO:0000244|PDB:2C42}.
+FT   STRAND      215    217       {ECO:0000244|PDB:2C42}.
+FT   TURN        222    224       {ECO:0000244|PDB:2C42}.
+FT   HELIX       225    230       {ECO:0000244|PDB:2C42}.
+FT   HELIX       233    254       {ECO:0000244|PDB:2C42}.
+FT   STRAND      260    265       {ECO:0000244|PDB:2C42}.
+FT   STRAND      270    275       {ECO:0000244|PDB:2C42}.
+FT   HELIX       279    291       {ECO:0000244|PDB:2C42}.
+FT   TURN        292    294       {ECO:0000244|PDB:2C42}.
+FT   STRAND      297    307       {ECO:0000244|PDB:2C42}.
+FT   HELIX       310    315       {ECO:0000244|PDB:2C42}.
+FT   STRAND      323    330       {ECO:0000244|PDB:2C42}.
+FT   STRAND      335    337       {ECO:0000244|PDB:1B0P}.
+FT   HELIX       339    351       {ECO:0000244|PDB:2C42}.
+FT   STRAND      357    362       {ECO:0000244|PDB:2C42}.
+FT   HELIX       365    367       {ECO:0000244|PDB:2C42}.
+FT   HELIX       372    383       {ECO:0000244|PDB:2C42}.
+FT   STRAND      388    391       {ECO:0000244|PDB:2C42}.
+FT   TURN        397    399       {ECO:0000244|PDB:2C42}.
+FT   STRAND      418    425       {ECO:0000244|PDB:2C42}.
+FT   HELIX       430    444       {ECO:0000244|PDB:2C42}.
+FT   STRAND      448    454       {ECO:0000244|PDB:2C42}.
+FT   STRAND      457    461       {ECO:0000244|PDB:2C42}.
+FT   STRAND      463    473       {ECO:0000244|PDB:2C42}.
+FT   STRAND      485    490       {ECO:0000244|PDB:2C42}.
+FT   HELIX       492    496       {ECO:0000244|PDB:2C42}.
+FT   TURN        500    503       {ECO:0000244|PDB:2C42}.
+FT   STRAND      509    513       {ECO:0000244|PDB:2C42}.
+FT   HELIX       519    525       {ECO:0000244|PDB:2C42}.
+FT   HELIX       528    536       {ECO:0000244|PDB:2C42}.
+FT   STRAND      540    544       {ECO:0000244|PDB:2C42}.
+FT   HELIX       546    552       {ECO:0000244|PDB:2C42}.
+FT   HELIX       560    570       {ECO:0000244|PDB:2C42}.
+FT   STRAND      571    574       {ECO:0000244|PDB:1KEK}.
+FT   HELIX       576    589       {ECO:0000244|PDB:2C42}.
+FT   HELIX       595    612       {ECO:0000244|PDB:2C42}.
+FT   HELIX       620    624       {ECO:0000244|PDB:2C42}.
+FT   HELIX       637    641       {ECO:0000244|PDB:2C42}.
+FT   HELIX       643    647       {ECO:0000244|PDB:2C42}.
+FT   HELIX       651    653       {ECO:0000244|PDB:2C42}.
+FT   HELIX       656    658       {ECO:0000244|PDB:2C42}.
+FT   HELIX       669    672       {ECO:0000244|PDB:2C42}.
+FT   STRAND      679    684       {ECO:0000244|PDB:2C42}.
+FT   TURN        686    688       {ECO:0000244|PDB:2C42}.
+FT   HELIX       694    698       {ECO:0000244|PDB:2C42}.
+FT   STRAND      704    709       {ECO:0000244|PDB:2C42}.
+FT   HELIX       711    714       {ECO:0000244|PDB:2C42}.
+FT   HELIX       729    731       {ECO:0000244|PDB:2C42}.
+FT   STRAND      735    740       {ECO:0000244|PDB:2C42}.
+FT   TURN        742    744       {ECO:0000244|PDB:2C42}.
+FT   HELIX       750    754       {ECO:0000244|PDB:2C42}.
+FT   STRAND      756    759       {ECO:0000244|PDB:2C42}.
+FT   STRAND      761    766       {ECO:0000244|PDB:2C42}.
+FT   HELIX       767    769       {ECO:0000244|PDB:2C42}.
+FT   HELIX       771    782       {ECO:0000244|PDB:2C42}.
+FT   STRAND      789    791       {ECO:0000244|PDB:2C3M}.
+FT   HELIX       796    799       {ECO:0000244|PDB:2C42}.
+FT   HELIX       818    828       {ECO:0000244|PDB:2C42}.
+FT   HELIX       829    831       {ECO:0000244|PDB:2C42}.
+FT   STRAND      832    836       {ECO:0000244|PDB:2C42}.
+FT   HELIX       840    846       {ECO:0000244|PDB:2C42}.
+FT   STRAND      863    865       {ECO:0000244|PDB:2C42}.
+FT   HELIX       872    898       {ECO:0000244|PDB:2C42}.
+FT   TURN        899    901       {ECO:0000244|PDB:2C42}.
+FT   HELIX       904    916       {ECO:0000244|PDB:2C42}.
+FT   HELIX       920    933       {ECO:0000244|PDB:2C42}.
+FT   TURN        934    936       {ECO:0000244|PDB:2C42}.
+FT   HELIX       940    946       {ECO:0000244|PDB:2C42}.
+FT   HELIX       947    951       {ECO:0000244|PDB:2C42}.
+FT   STRAND      956    962       {ECO:0000244|PDB:2C42}.
+FT   HELIX       963    967       {ECO:0000244|PDB:2C42}.
+FT   TURN        968    970       {ECO:0000244|PDB:2C42}.
+FT   HELIX       971    979       {ECO:0000244|PDB:2C42}.
+FT   STRAND      985    990       {ECO:0000244|PDB:2C42}.
+FT   STRAND      992    994       {ECO:0000244|PDB:2C42}.
+FT   TURN        995    998       {ECO:0000244|PDB:2C42}.
+FT   HELIX      1025   1030       {ECO:0000244|PDB:2C42}.
+FT   STRAND     1033   1040       {ECO:0000244|PDB:2C42}.
+FT   TURN       1042   1044       {ECO:0000244|PDB:2C42}.
+FT   HELIX      1046   1058       {ECO:0000244|PDB:2C42}.
+FT   STRAND     1059   1061       {ECO:0000244|PDB:2C42}.
+FT   STRAND     1063   1068       {ECO:0000244|PDB:2C42}.
+FT   HELIX      1072   1074       {ECO:0000244|PDB:2C42}.
+FT   HELIX      1080   1082       {ECO:0000244|PDB:2C42}.
+FT   HELIX      1083   1092       {ECO:0000244|PDB:2C42}.
+FT   STRAND     1094   1096       {ECO:0000244|PDB:2C3U}.
+FT   STRAND     1099   1101       {ECO:0000244|PDB:2C42}.
+FT   HELIX      1103   1107       {ECO:0000244|PDB:2C42}.
+FT   STRAND     1112   1115       {ECO:0000244|PDB:2C42}.
+FT   HELIX      1124   1129       {ECO:0000244|PDB:2C42}.
+FT   HELIX      1132   1140       {ECO:0000244|PDB:2C42}.
+FT   HELIX      1142   1168       {ECO:0000244|PDB:2C42}.
+FT   TURN       1188   1191       {ECO:0000244|PDB:2C42}.
+FT   TURN       1201   1203       {ECO:0000244|PDB:2C42}.
+FT   STRAND     1215   1217       {ECO:0000244|PDB:2C42}.
+FT   HELIX      1220   1229       {ECO:0000244|PDB:2C42}.
+SQ   SEQUENCE   1232 AA;  133680 MW;  55D84F536CCFFDBF CRC64;
+     MGKKMMTTDG NTATAHVAYA MSEVAAIYPI TPSSTMGEEA DDWAAQGRKN IFGQTLTIRE
+     MQSEAGAAGA VHGALAAGAL TTTFTASQGL LLMIPNMYKI SGELLPGVFH VTARAIAAHA
+     LSIFGDHQDI YAARQTGFAM LASSSVQEAH DMALVAHLAA IESNVPFMHF FDGFRTSHEI
+     QKIEVLDYAD MASLVNQKAL AEFRAKSMNP EHPHVRGTAQ NPDIYFQGRE AANPYYLKVP
+     GIVAEYMQKV ASLTGRSYKL FDYVGAPDAE RVIVSMGSSC ETIEEVINHL AAKGEKIGLI
+     KVRLYRPFVS EAFFAALPAS AKVITVLDRT KEPGAPGDPL YLDVCSAFVE RGEAMPKILA
+     GRYGLGSKEF SPAMVKSVYD NMSGAKKNHF TVGIEDDVTG TSLPVDNAFA DTTPKGTIQC
+     QFWGLGADGT VGANKQAIKI IGDNTDLFAQ GYFSYDSKKS GGITISHLRF GEKPIQSTYL
+     VNRADYVACH NPAYVGIYDI LEGIKDGGTF VLNSPWSSLE DMDKHLPSGI KRTIANKKLK
+     FYNIDAVKIA TDVGLGGRIN MIMQTAFFKL AGVLPFEKAV DLLKKSIHKA YGKKGEKIVK
+     MNTDAVDQAV TSLQEFKYPD SWKDAPAETK AEPMTNEFFK NVVKPILTQQ GDKLPVSAFE
+     ADGRFPLGTS QFEKRGVAIN VPQWVPENCI QCNQCAFVCP HSAILPVLAK EEELVGAPAN
+     FTALEAKGKE LKGYKFRIQI NTLDCMGCGN CADICPPKEK ALVMQPLDTQ RDAQVPNLEY
+     AARIPVKSEV LPRDSLKGSQ FQEPLMEFSG ACSGCGETPY VRVITQLFGE RMFIANATGC
+     SSIWGASAPS MPYKTNRLGQ GPAWGNSLFE DAAEYGFGMN MSMFARRTHL ADLAAKALES
+     DASGDVKEAL QGWLAGKNDP IKSKEYGDKL KKLLAGQKDG LLGQIAAMSD LYTKKSVWIF
+     GGDGWAYDIG YGGLDHVLAS GEDVNVFVMD TEVYSNTGGQ SSKATPTGAV AKFAAAGKRT
+     GKKDLARMVM TYGYVYVATV SMGYSKQQFL KVLKEAESFP GPSLVIAYAT CINQGLRKGM
+     GKSQDVMNTA VKSGYWPLFR YDPRLAAQGK NPFQLDSKAP DGSVEEFLMA QNRFAVLDRS
+     FPEDAKRLRA QVAHELDVRF KELEHMAATN IFESFAPAGG KADGSVDFGE GAEFCTRDDT
+     PMMARPDSGE ACDQNRAGTS EQQGDLSKRT KK
+//

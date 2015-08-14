@@ -1,0 +1,110 @@
+ID   Q70KH9_9ACTN            Unreviewed;       336 AA.
+AC   Q70KH9;
+DT   05-JUL-2004, integrated into UniProtKB/TrEMBL.
+DT   05-JUL-2004, sequence version 1.
+DT   24-JUN-2015, entry version 38.
+DE   SubName: Full=Putative N-oxidase {ECO:0000313|EMBL:CAE02601.1};
+GN   Name=aurF {ECO:0000313|EMBL:CAE02601.1};
+OS   Streptomyces thioluteus.
+OC   Bacteria; Actinobacteria; Streptomycetales; Streptomycetaceae;
+OC   Streptomyces.
+OX   NCBI_TaxID=66431 {ECO:0000313|EMBL:CAE02601.1};
+RN   [1] {ECO:0000313|EMBL:CAE02601.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=HKI-227 {ECO:0000313|EMBL:CAE02601.1};
+RX   PubMed=14700630; DOI=10.1016/j.chembiol.2003.11.009;
+RA   He J., Hertweck C.;
+RT   "Iteration as programmed event during polyketide assembly; molecular
+RT   analysis of the aureothin biosynthesis gene cluster.";
+RL   Chem. Biol. 10:1225-1232(2003).
+RN   [2] {ECO:0000213|PDB:2JCD}
+RP   X-RAY CRYSTALLOGRAPHY (2.11 ANGSTROMS) IN COMPLEX WITH MANGANESE.
+RX   PubMed=17765264; DOI=10.1016/j.jmb.2007.06.014;
+RA   Zocher G., Winkler R., Hertweck C., Schulz G.E.;
+RT   "Structure and action of the N-oxygenase AurF from Streptomyces
+RT   thioluteus.";
+RL   J. Mol. Biol. 373:65-74(2007).
+RN   [3] {ECO:0000213|PDB:3CHH, ECO:0000213|PDB:3CHI, ECO:0000213|PDB:3CHT}
+RP   X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS) IN COMPLEX WITH IRON OXIDE
+RP   (2FE-O).
+RX   PubMed=18458342; DOI=10.1073/pnas.0712073105;
+RA   Choi Y.S., Zhang H., Brunzelle J.S., Nair S.K., Zhao H.;
+RT   "In vitro reconstitution and crystal structure of p-aminobenzoate N-
+RT   oxygenase (AurF) involved in aureothin biosynthesis.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:6858-6863(2008).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AJ575648; CAE02601.1; -; Genomic_DNA.
+DR   PDB; 2JCD; X-ray; 2.11 A; A/B=1-336.
+DR   PDB; 3CHH; X-ray; 2.00 A; A/B=1-336.
+DR   PDB; 3CHI; X-ray; 2.10 A; A/B=1-336.
+DR   PDB; 3CHT; X-ray; 2.00 A; A/B=1-336.
+DR   PDB; 3CHU; X-ray; 2.20 A; A/B=1-336.
+DR   PDBsum; 2JCD; -.
+DR   PDBsum; 3CHH; -.
+DR   PDBsum; 3CHI; -.
+DR   PDBsum; 3CHT; -.
+DR   PDBsum; 3CHU; -.
+DR   ProteinModelPortal; Q70KH9; -.
+DR   SMR; Q70KH9; 7-321.
+DR   DIP; DIP-46089N; -.
+DR   BioCyc; MetaCyc:MONOMER-16310; -.
+DR   EvolutionaryTrace; Q70KH9; -.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   InterPro; IPR025859; AurF.
+DR   Pfam; PF11583; AurF; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2JCD, ECO:0000213|PDB:3CHH};
+KW   Iron {ECO:0000213|PDB:3CHH, ECO:0000213|PDB:3CHI};
+KW   Manganese {ECO:0000213|PDB:2JCD};
+KW   Metal-binding {ECO:0000213|PDB:2JCD, ECO:0000213|PDB:3CHH}.
+FT   METAL       101    101       Iron oxide (2Fe-O).
+FT                                {ECO:0000213|PDB:3CHH,
+FT                                ECO:0000213|PDB:3CHI,
+FT                                ECO:0000213|PDB:3CHT}.
+FT   METAL       101    101       Manganese 1. {ECO:0000213|PDB:2JCD}.
+FT   METAL       136    136       Iron oxide (2Fe-O).
+FT                                {ECO:0000213|PDB:3CHH,
+FT                                ECO:0000213|PDB:3CHI,
+FT                                ECO:0000213|PDB:3CHT}.
+FT   METAL       136    136       Manganese 1. {ECO:0000213|PDB:2JCD}.
+FT   METAL       136    136       Manganese 2. {ECO:0000213|PDB:2JCD}.
+FT   METAL       139    139       Iron oxide (2Fe-O); via pros nitrogen.
+FT                                {ECO:0000213|PDB:3CHH,
+FT                                ECO:0000213|PDB:3CHI,
+FT                                ECO:0000213|PDB:3CHT}.
+FT   METAL       139    139       Manganese 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:2JCD}.
+FT   METAL       196    196       Iron oxide (2Fe-O).
+FT                                {ECO:0000213|PDB:3CHH,
+FT                                ECO:0000213|PDB:3CHI,
+FT                                ECO:0000213|PDB:3CHT}.
+FT   METAL       196    196       Manganese 2. {ECO:0000213|PDB:2JCD}.
+FT   METAL       223    223       Iron oxide (2Fe-O); via tele nitrogen.
+FT                                {ECO:0000213|PDB:3CHH,
+FT                                ECO:0000213|PDB:3CHI,
+FT                                ECO:0000213|PDB:3CHT}.
+FT   METAL       223    223       Manganese 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2JCD}.
+FT   METAL       227    227       Iron oxide (2Fe-O).
+FT                                {ECO:0000213|PDB:3CHH,
+FT                                ECO:0000213|PDB:3CHI,
+FT                                ECO:0000213|PDB:3CHT}.
+FT   METAL       227    227       Manganese 1. {ECO:0000213|PDB:2JCD}.
+FT   METAL       227    227       Manganese 2. {ECO:0000213|PDB:2JCD}.
+FT   METAL       230    230       Iron oxide (2Fe-O); via pros nitrogen.
+FT                                {ECO:0000213|PDB:3CHH,
+FT                                ECO:0000213|PDB:3CHI,
+FT                                ECO:0000213|PDB:3CHT}.
+FT   METAL       230    230       Manganese 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:2JCD}.
+SQ   SEQUENCE   336 AA;  38083 MW;  9521375B4D5226C3 CRC64;
+     MREEQPHLAT TWAARGWVEE EGIGSATLGR LVRAWPRRAA VVNKADILDE WADYDTLVPD
+     YPLEIVPFAE HPLFLAAEPH QRQRVLTGMW IGYNERVIAT EQLIAEPAFD LVMHGVFPGS
+     DDPLIRKSVQ QAIVDESFHT YMHMLAIDRT RELRKISERP PQPELVTYRR LRRVLADMPE
+     QWERDIAVLV WGAVAETCIN ALLALLARDA TIQPMHSLIT TLHLRDETAH GSIVVEVVRE
+     LYARMNEQQR RALVRCLPIA LEAFAEQDLS ALLLELNAAG IRGAEEIVGD LRSTAGGTRL
+     VRDFSGARKM VEQLGLDDAV DFDFPERPDW SPHTPR
+//

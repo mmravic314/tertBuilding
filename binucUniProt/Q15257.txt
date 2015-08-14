@@ -1,0 +1,512 @@
+ID   PTPA_HUMAN              Reviewed;         358 AA.
+AC   Q15257; A2A347; A9IZU4; B4DXM4; Q15258; Q53GZ3; Q5TZQ2; Q9BUK1;
+AC   Q9NNZ7; Q9NNZ8; Q9NNZ9;
+DT   16-NOV-2001, integrated into UniProtKB/Swiss-Prot.
+DT   17-OCT-2006, sequence version 3.
+DT   22-JUL-2015, entry version 137.
+DE   RecName: Full=Serine/threonine-protein phosphatase 2A activator;
+DE            EC=5.2.1.8;
+DE   AltName: Full=PP2A, subunit B', PR53 isoform;
+DE   AltName: Full=Phosphotyrosyl phosphatase activator;
+DE            Short=PTPA;
+DE   AltName: Full=Serine/threonine-protein phosphatase 2A regulatory subunit 4;
+DE   AltName: Full=Serine/threonine-protein phosphatase 2A regulatory subunit B';
+GN   Name=PPP2R4; Synonyms=PTPA;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), AND PARTIAL PROTEIN SEQUENCE.
+RC   TISSUE=Heart;
+RX   PubMed=8195217;
+RA   Cayla X., Van Hoof C., Bosch M., Waelkens E., Peeters B.,
+RA   Merlevede W., Goris J.;
+RT   "Molecular cloning, expression, and characterization of PTPA, a
+RT   protein that activates the tyrosyl phosphatase activity of protein
+RT   phosphatase 2A.";
+RL   J. Biol. Chem. 269:15668-15675(1994).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] (ISOFORM 1).
+RC   TISSUE=Blood;
+RX   PubMed=8530035; DOI=10.1006/geno.1995.1140;
+RA   Van Hoof C., Aly M., Garcia A., Cayla X., Cassiman J.-J.,
+RA   Merlevede W., Goris J.;
+RT   "Structure and chromosomal localization of the human gene of the
+RT   phosphotyrosyl phosphatase activator (PTPA) of protein phosphatase
+RT   2A.";
+RL   Genomics 28:261-272(1995).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] (ISOFORMS 2; 3 AND 4).
+RX   PubMed=10880964; DOI=10.1046/j.1432-1327.2000.01486.x;
+RA   Janssens V., van Hoof C., Martens E., de Baere I., Merlevede W.,
+RA   Goris J.;
+RT   "Identification and characterization of alternative splice products
+RT   encoded by the human phosphotyrosyl phosphatase activator gene.";
+RL   Eur. J. Biochem. 267:4406-4413(2000).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 3).
+RC   TISSUE=Testis;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A.,
+RA   Sudo H., Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M.,
+RA   Takahashi M., Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y.,
+RA   Abe K., Kamihara K., Katsuta N., Sato K., Tanikawa M., Yamazaki M.,
+RA   Ninomiya K., Ishibashi T., Yamashita H., Murakawa K., Fujimori K.,
+RA   Tanai H., Kimata M., Watanabe M., Hiraoka S., Chiba Y., Ishida S.,
+RA   Ono Y., Takiguchi S., Watanabe S., Yosida M., Hotuta T., Kusano J.,
+RA   Kanehori K., Takahashi-Fujii A., Hara H., Tanase T.-O., Nomura Y.,
+RA   Togiya S., Komai F., Hara R., Takeuchi K., Arita M., Imose N.,
+RA   Musashino K., Yuuki H., Oshima A., Sasaki N., Aotsuka S.,
+RA   Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y.,
+RA   Fujimori Y., Komiyama M., Tashiro H., Tanigami A., Fujiwara T.,
+RA   Ono T., Yamada K., Fujii Y., Ozaki K., Hirao M., Ohmori Y.,
+RA   Kawabata A., Hikiji T., Kobatake N., Inagaki H., Ikema Y., Okamoto S.,
+RA   Okitani R., Kawakami T., Noguchi S., Itoh T., Shigeta K., Senba T.,
+RA   Matsumura K., Nakajima Y., Mizuno T., Morinaga M., Sasaki M.,
+RA   Togashi T., Oyama M., Hata H., Watanabe M., Komatsu T.,
+RA   Mizushima-Sugano J., Satoh T., Shirai Y., Takahashi Y., Nakagawa K.,
+RA   Okumura K., Nagase T., Nomura N., Kikuchi H., Masuho Y., Yamashita R.,
+RA   Nakai K., Yada T., Nakamura Y., Ohara O., Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RA   Kalnine N., Chen X., Rolfs A., Halleck A., Hines L., Eisenstein S.,
+RA   Koundinya M., Raphael J., Moreira D., Kelley T., LaBaer J., Lin Y.,
+RA   Phelan M., Farmer A.;
+RT   "Cloning of human full-length CDSs in BD Creator(TM) system donor
+RT   vector.";
+RL   Submitted (OCT-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1), AND VARIANT
+RP   LEU-357.
+RC   TISSUE=Liver;
+RA   Suzuki Y., Sugano S., Totoki Y., Toyoda A., Takeda T., Sakaki Y.,
+RA   Tanaka A., Yokoyama S.;
+RL   Submitted (APR-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15164053; DOI=10.1038/nature02465;
+RA   Humphray S.J., Oliver K., Hunt A.R., Plumb R.W., Loveland J.E.,
+RA   Howe K.L., Andrews T.D., Searle S., Hunt S.E., Scott C.E., Jones M.C.,
+RA   Ainscough R., Almeida J.P., Ambrose K.D., Ashwell R.I.S.,
+RA   Babbage A.K., Babbage S., Bagguley C.L., Bailey J., Banerjee R.,
+RA   Barker D.J., Barlow K.F., Bates K., Beasley H., Beasley O., Bird C.P.,
+RA   Bray-Allen S., Brown A.J., Brown J.Y., Burford D., Burrill W.,
+RA   Burton J., Carder C., Carter N.P., Chapman J.C., Chen Y., Clarke G.,
+RA   Clark S.Y., Clee C.M., Clegg S., Collier R.E., Corby N., Crosier M.,
+RA   Cummings A.T., Davies J., Dhami P., Dunn M., Dutta I., Dyer L.W.,
+RA   Earthrowl M.E., Faulkner L., Fleming C.J., Frankish A.,
+RA   Frankland J.A., French L., Fricker D.G., Garner P., Garnett J.,
+RA   Ghori J., Gilbert J.G.R., Glison C., Grafham D.V., Gribble S.,
+RA   Griffiths C., Griffiths-Jones S., Grocock R., Guy J., Hall R.E.,
+RA   Hammond S., Harley J.L., Harrison E.S.I., Hart E.A., Heath P.D.,
+RA   Henderson C.D., Hopkins B.L., Howard P.J., Howden P.J., Huckle E.,
+RA   Johnson C., Johnson D., Joy A.A., Kay M., Keenan S., Kershaw J.K.,
+RA   Kimberley A.M., King A., Knights A., Laird G.K., Langford C.,
+RA   Lawlor S., Leongamornlert D.A., Leversha M., Lloyd C., Lloyd D.M.,
+RA   Lovell J., Martin S., Mashreghi-Mohammadi M., Matthews L., McLaren S.,
+RA   McLay K.E., McMurray A., Milne S., Nickerson T., Nisbett J.,
+RA   Nordsiek G., Pearce A.V., Peck A.I., Porter K.M., Pandian R.,
+RA   Pelan S., Phillimore B., Povey S., Ramsey Y., Rand V., Scharfe M.,
+RA   Sehra H.K., Shownkeen R., Sims S.K., Skuce C.D., Smith M.,
+RA   Steward C.A., Swarbreck D., Sycamore N., Tester J., Thorpe A.,
+RA   Tracey A., Tromans A., Thomas D.W., Wall M., Wallis J.M., West A.P.,
+RA   Whitehead S.L., Willey D.L., Williams S.A., Wilming L., Wray P.W.,
+RA   Young L., Ashurst J.L., Coulson A., Blocker H., Durbin R.M.,
+RA   Sulston J.E., Hubbard T., Jackson M.J., Bentley D.R., Beck S.,
+RA   Rogers J., Dunham I.;
+RT   "DNA sequence and analysis of human chromosome 9.";
+RL   Nature 429:369-374(2004).
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L.,
+RA   Mobarry C.M., Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R.,
+RA   Flanigan M.J., Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V.,
+RA   Hannenhalli S., Turner R., Yooseph S., Lu F., Nusskern D.R.,
+RA   Shue B.C., Zheng X.H., Zhong F., Delcher A.L., Huson D.H.,
+RA   Kravitz S.A., Mouchard L., Reinert K., Remington K.A., Clark A.G.,
+RA   Waterman M.S., Eichler E.E., Adams M.D., Hunkapiller M.W., Myers E.W.,
+RA   Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [9]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Placenta;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [10]
+RP   FUNCTION IN APOPTOSIS, AND SUBCELLULAR LOCATION.
+RX   PubMed=17333320; DOI=10.1007/s10495-006-0050-8;
+RA   Azam S., Drobetsky E., Ramotar D.;
+RT   "Overexpression of the cis/trans isomerase PTPA triggers caspase 3-
+RT   dependent apoptosis.";
+RL   Apoptosis 12:1243-1255(2007).
+RN   [11]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT ALA-2, IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS], AND CLEAVAGE OF INITIATOR
+RP   METHIONINE [LARGE SCALE ANALYSIS].
+RX   PubMed=19413330; DOI=10.1021/ac9004309;
+RA   Gauci S., Helbig A.O., Slijper M., Krijgsveld J., Heck A.J.,
+RA   Mohammed S.;
+RT   "Lys-N and trypsin cover complementary parts of the phosphoproteome in
+RT   a refined SCX-based approach.";
+RL   Anal. Chem. 81:4493-4501(2009).
+RN   [12]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19608861; DOI=10.1126/science.1175371;
+RA   Choudhary C., Kumar C., Gnad F., Nielsen M.L., Rehman M.,
+RA   Walther T.C., Olsen J.V., Mann M.;
+RT   "Lysine acetylation targets protein complexes and co-regulates major
+RT   cellular functions.";
+RL   Science 325:834-840(2009).
+RN   [13]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P.,
+RA   Buerckstuemmer T., Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [14]
+RP   X-RAY CRYSTALLOGRAPHY (1.6 ANGSTROMS) OF 22-358.
+RX   PubMed=16782712; DOI=10.1074/jbc.C600100200;
+RA   Magnusdottir A., Stenmark P., Flodin S., Nyman T., Hammarstroem M.,
+RA   Ehn M., Bakali H M.A., Berglund H., Nordlund P.;
+RT   "The crystal structure of a human PP2A phosphatase activator reveals a
+RT   novel fold and highly conserved cleft implicated in protein-protein
+RT   interactions.";
+RL   J. Biol. Chem. 281:22434-22438(2006).
+RN   [15]
+RP   X-RAY CRYSTALLOGRAPHY (1.5 ANGSTROMS) OF 20-357.
+RX   PubMed=16885030; DOI=10.1016/j.molcel.2006.07.008;
+RA   Leulliot N., Vicentini G., Jordens J., Quevillon-Cheruel S.,
+RA   Schiltz M., Barford D., van Tilbeurgh H., Goris J.;
+RT   "Crystal structure of the PP2A phosphatase activator: implications for
+RT   its PP2A-specific PPIase activity.";
+RL   Mol. Cell 23:413-424(2006).
+RN   [16]
+RP   X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS), FUNCTION IN MODULATION OF PP2A
+RP   SUBSTRATE SPECIFICITY, ATP-BINDING, MUTAGENESIS OF ASP-185; ALA-239;
+RP   GLY-240; VAL-244; GLU-305; GLY-325; MET-329 AND LYS-337, AND
+RP   INTERACTION WITH THE PP2A(D) COMPLEX.
+RX   PubMed=16916641; DOI=10.1016/j.molcel.2006.07.027;
+RA   Chao Y., Xing Y., Chen Y., Xu Y., Lin Z., Li Z., Jeffrey P.D.,
+RA   Stock J.B., Shi Y.;
+RT   "Structure and mechanism of the phosphotyrosyl phosphatase
+RT   activator.";
+RL   Mol. Cell 23:535-546(2006).
+CC   -!- FUNCTION: PPIases accelerate the folding of proteins. It catalyzes
+CC       the cis-trans isomerization of proline imidic peptide bonds in
+CC       oligopeptides. Acts as a regulatory subunit for serine/threonine-
+CC       protein phosphatase 2A (PP2A) modulating its activity or substrate
+CC       specificity, probably by inducing a conformational change in the
+CC       catalytic subunit, a proposed direct target of the PPIase. Can
+CC       reactivate inactive phosphatase PP2A-phosphatase methylesterase
+CC       complexes (PP2A(i)) in presence of ATP and Mg(2+) (By similarity).
+CC       Reversibly stimulates the variable phosphotyrosyl phosphatase
+CC       activity of PP2A core heterodimer PP2A(D) in presence of ATP and
+CC       Mg(2+) (in vitro). The phosphotyrosyl phosphatase activity is
+CC       dependent of an ATPase activity of the PP2A(D):PPP2R4 complex. Is
+CC       involved in apoptosis; the function appears to be independent from
+CC       PP2A. {ECO:0000250, ECO:0000269|PubMed:16916641,
+CC       ECO:0000269|PubMed:17333320}.
+CC   -!- CATALYTIC ACTIVITY: Peptidylproline (omega=180) = peptidylproline
+CC       (omega=0).
+CC   -!- SUBUNIT: Associates with PP2A heterodimeric core enzyme PP2A(D),
+CC       composed of a 36 kDa catalytic subunit (subunit C) and a 65 kDa
+CC       constant regulatory subunit (PR65 or subunit A). Interacts with
+CC       PPP2CB (By similarity). {ECO:0000250}.
+CC   -!- INTERACTION:
+CC       Q4VCS5-2:AMOT; NbExp=3; IntAct=EBI-1774121, EBI-3891843;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:17333320}.
+CC       Nucleus {ECO:0000269|PubMed:17333320}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=4;
+CC       Name=2; Synonyms=Beta;
+CC         IsoId=Q15257-1; Sequence=Displayed;
+CC       Name=1; Synonyms=Alpha;
+CC         IsoId=Q15257-2; Sequence=VSP_005123;
+CC       Name=3; Synonyms=Delta;
+CC         IsoId=Q15257-3; Sequence=VSP_005122;
+CC       Name=4; Synonyms=Epsilon;
+CC         IsoId=Q15257-4; Sequence=VSP_005124;
+CC   -!- TISSUE SPECIFICITY: Widely expressed.
+CC   -!- SIMILARITY: Belongs to the PTPA-type PPIase family. {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=Atlas of Genetics and Cytogenetics in Oncology
+CC       and Haematology;
+CC       URL="http://atlasgeneticsoncology.org/Genes/PPP2R4ID41817ch9q34.html";
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X73478; CAA51873.1; -; mRNA.
+DR   EMBL; X86428; CAA60163.1; -; Genomic_DNA.
+DR   EMBL; X86429; CAA60163.1; JOINED; Genomic_DNA.
+DR   EMBL; X86430; CAA60163.1; JOINED; Genomic_DNA.
+DR   EMBL; X86432; CAA60163.1; JOINED; Genomic_DNA.
+DR   EMBL; X86434; CAA60163.1; JOINED; Genomic_DNA.
+DR   EMBL; X86435; CAA60163.1; JOINED; Genomic_DNA.
+DR   EMBL; X86436; CAA60163.1; JOINED; Genomic_DNA.
+DR   EMBL; X86437; CAA60163.1; JOINED; Genomic_DNA.
+DR   EMBL; X86438; CAA60163.1; JOINED; Genomic_DNA.
+DR   EMBL; X86439; CAA60163.1; JOINED; Genomic_DNA.
+DR   EMBL; X86428; CAB77601.1; -; Genomic_DNA.
+DR   EMBL; X86429; CAB77601.1; JOINED; Genomic_DNA.
+DR   EMBL; X86430; CAB77601.1; JOINED; Genomic_DNA.
+DR   EMBL; X86431; CAB77601.1; JOINED; Genomic_DNA.
+DR   EMBL; X86432; CAB77601.1; JOINED; Genomic_DNA.
+DR   EMBL; X86434; CAB77601.1; JOINED; Genomic_DNA.
+DR   EMBL; X86435; CAB77601.1; JOINED; Genomic_DNA.
+DR   EMBL; X86436; CAB77601.1; JOINED; Genomic_DNA.
+DR   EMBL; X86437; CAB77601.1; JOINED; Genomic_DNA.
+DR   EMBL; X86438; CAB77601.1; JOINED; Genomic_DNA.
+DR   EMBL; X86439; CAB77601.1; JOINED; Genomic_DNA.
+DR   EMBL; X86428; CAB77602.1; -; Genomic_DNA.
+DR   EMBL; X86429; CAB77602.1; JOINED; Genomic_DNA.
+DR   EMBL; X86432; CAB77602.1; JOINED; Genomic_DNA.
+DR   EMBL; X86434; CAB77602.1; JOINED; Genomic_DNA.
+DR   EMBL; X86435; CAB77602.1; JOINED; Genomic_DNA.
+DR   EMBL; X86436; CAB77602.1; JOINED; Genomic_DNA.
+DR   EMBL; X86437; CAB77602.1; JOINED; Genomic_DNA.
+DR   EMBL; X86438; CAB77602.1; JOINED; Genomic_DNA.
+DR   EMBL; X86439; CAB77602.1; JOINED; Genomic_DNA.
+DR   EMBL; X86428; CAB77603.1; -; Genomic_DNA.
+DR   EMBL; X86429; CAB77603.1; JOINED; Genomic_DNA.
+DR   EMBL; X86430; CAB77603.1; JOINED; Genomic_DNA.
+DR   EMBL; X86434; CAB77603.1; JOINED; Genomic_DNA.
+DR   EMBL; X86435; CAB77603.1; JOINED; Genomic_DNA.
+DR   EMBL; X86436; CAB77603.1; JOINED; Genomic_DNA.
+DR   EMBL; X86437; CAB77603.1; JOINED; Genomic_DNA.
+DR   EMBL; X86438; CAB77603.1; JOINED; Genomic_DNA.
+DR   EMBL; X86439; CAB77603.1; JOINED; Genomic_DNA.
+DR   EMBL; AK302043; BAG63436.1; -; mRNA.
+DR   EMBL; BT020119; AAV38922.1; -; mRNA.
+DR   EMBL; AK222788; BAD96508.1; -; mRNA.
+DR   EMBL; AL158151; CAM14695.1; -; Genomic_DNA.
+DR   EMBL; AL158151; CAP58847.2; -; Genomic_DNA.
+DR   EMBL; CH471090; EAW87876.1; -; Genomic_DNA.
+DR   EMBL; CH471090; EAW87882.1; -; Genomic_DNA.
+DR   EMBL; BC002545; AAH02545.1; -; mRNA.
+DR   EMBL; BC011605; AAH11605.1; -; mRNA.
+DR   CCDS; CCDS65156.1; -. [Q15257-3]
+DR   CCDS; CCDS6920.1; -. [Q15257-2]
+DR   PIR; A54021; A54021.
+DR   RefSeq; NP_001180326.1; NM_001193397.1.
+DR   RefSeq; NP_001258761.1; NM_001271832.1. [Q15257-3]
+DR   RefSeq; NP_066954.2; NM_021131.4. [Q15257-2]
+DR   RefSeq; NP_821067.1; NM_178000.2. [Q15257-2]
+DR   RefSeq; NP_821068.1; NM_178001.2. [Q15257-1]
+DR   RefSeq; NP_821070.1; NM_178003.2. [Q15257-4]
+DR   UniGene; Hs.400740; -.
+DR   PDB; 2G62; X-ray; 1.60 A; A=22-358.
+DR   PDB; 2HV6; X-ray; 1.90 A; A/B=1-358.
+DR   PDB; 2HV7; X-ray; 2.50 A; A/B/C/D/E/F/G/H=1-358.
+DR   PDB; 2IXM; X-ray; 1.50 A; A=20-357.
+DR   PDB; 4LAC; X-ray; 2.82 A; B=19-358.
+DR   PDB; 4NY3; X-ray; 1.80 A; A/B=22-358.
+DR   PDBsum; 2G62; -.
+DR   PDBsum; 2HV6; -.
+DR   PDBsum; 2HV7; -.
+DR   PDBsum; 2IXM; -.
+DR   PDBsum; 4LAC; -.
+DR   PDBsum; 4NY3; -.
+DR   ProteinModelPortal; Q15257; -.
+DR   SMR; Q15257; 23-357.
+DR   BioGrid; 111516; 58.
+DR   IntAct; Q15257; 11.
+DR   MINT; MINT-3031079; -.
+DR   BindingDB; Q15257; -.
+DR   ChEMBL; CHEMBL2505; -.
+DR   PhosphoSite; Q15257; -.
+DR   BioMuta; PPP2R4; -.
+DR   DMDM; 116242737; -.
+DR   OGP; Q15257; -.
+DR   MaxQB; Q15257; -.
+DR   PaxDb; Q15257; -.
+DR   PRIDE; Q15257; -.
+DR   DNASU; 5524; -.
+DR   Ensembl; ENST00000337738; ENSP00000337448; ENSG00000119383.
+DR   Ensembl; ENST00000355007; ENSP00000347109; ENSG00000119383. [Q15257-4]
+DR   Ensembl; ENST00000357197; ENSP00000349726; ENSG00000119383. [Q15257-3]
+DR   Ensembl; ENST00000358994; ENSP00000351885; ENSG00000119383. [Q15257-2]
+DR   Ensembl; ENST00000393370; ENSP00000377036; ENSG00000119383. [Q15257-2]
+DR   GeneID; 5524; -.
+DR   KEGG; hsa:5524; -.
+DR   UCSC; uc004bxl.2; human. [Q15257-2]
+DR   UCSC; uc004bxm.2; human. [Q15257-1]
+DR   UCSC; uc004bxo.2; human. [Q15257-4]
+DR   UCSC; uc011mbp.2; human. [Q15257-3]
+DR   CTD; 5524; -.
+DR   GeneCards; GC09P131873; -.
+DR   HGNC; HGNC:9308; PPP2R4.
+DR   HPA; CAB022068; -.
+DR   HPA; CAB035999; -.
+DR   HPA; HPA005695; -.
+DR   MIM; 600756; gene.
+DR   neXtProt; NX_Q15257; -.
+DR   PharmGKB; PA33671; -.
+DR   eggNOG; COG5057; -.
+DR   GeneTree; ENSGT00390000011500; -.
+DR   HOVERGEN; HBG019168; -.
+DR   InParanoid; Q15257; -.
+DR   KO; K17605; -.
+DR   OMA; HPNLEPR; -.
+DR   OrthoDB; EOG7KQ21W; -.
+DR   PhylomeDB; Q15257; -.
+DR   TreeFam; TF105555; -.
+DR   ChiTaRS; PPP2R4; human.
+DR   EvolutionaryTrace; Q15257; -.
+DR   GeneWiki; PPP2R4; -.
+DR   GenomeRNAi; 5524; -.
+DR   NextBio; 21382; -.
+DR   PRO; PR:Q15257; -.
+DR   Proteomes; UP000005640; Chromosome 9.
+DR   Bgee; Q15257; -.
+DR   CleanEx; HS_PPP2R4; -.
+DR   ExpressionAtlas; Q15257; baseline and differential.
+DR   Genevisible; Q15257; HS.
+DR   GO; GO:0034704; C:calcium channel complex; IDA:BHF-UCL.
+DR   GO; GO:0005737; C:cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0070062; C:extracellular exosome; IDA:UniProtKB.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0005634; C:nucleus; IDA:UniProtKB.
+DR   GO; GO:0000159; C:protein phosphatase type 2A complex; IDA:BHF-UCL.
+DR   GO; GO:0005524; F:ATP binding; IDA:HGNC.
+DR   GO; GO:0003755; F:peptidyl-prolyl cis-trans isomerase activity; IBA:GO_Central.
+DR   GO; GO:0046982; F:protein heterodimerization activity; TAS:HGNC.
+DR   GO; GO:0042803; F:protein homodimerization activity; IDA:HGNC.
+DR   GO; GO:0051721; F:protein phosphatase 2A binding; IDA:HGNC.
+DR   GO; GO:0008601; F:protein phosphatase type 2A regulator activity; IDA:HGNC.
+DR   GO; GO:0008160; F:protein tyrosine phosphatase activator activity; IDA:HGNC.
+DR   GO; GO:0005102; F:receptor binding; IPI:BHF-UCL.
+DR   GO; GO:0008152; P:metabolic process; IDA:GOC.
+DR   GO; GO:0030472; P:mitotic spindle organization in nucleus; IBA:GO_Central.
+DR   GO; GO:0032515; P:negative regulation of phosphoprotein phosphatase activity; IDA:HGNC.
+DR   GO; GO:0035308; P:negative regulation of protein dephosphorylation; IDA:HGNC.
+DR   GO; GO:0043065; P:positive regulation of apoptotic process; IDA:UniProtKB.
+DR   GO; GO:0032516; P:positive regulation of phosphoprotein phosphatase activity; IDA:HGNC.
+DR   GO; GO:0035307; P:positive regulation of protein dephosphorylation; IDA:HGNC.
+DR   GO; GO:0000413; P:protein peptidyl-prolyl isomerization; IBA:GOC.
+DR   GO; GO:0043666; P:regulation of phosphoprotein phosphatase activity; IDA:HGNC.
+DR   GO; GO:0034047; P:regulation of protein phosphatase type 2A activity; IDA:GOC.
+DR   InterPro; IPR004327; Phstyr_phstse_ac.
+DR   PANTHER; PTHR10012; PTHR10012; 1.
+DR   Pfam; PF03095; PTPA; 1.
+DR   PIRSF; PIRSF016325; Phstyr_phstse_ac; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Alternative splicing; ATP-binding;
+KW   Complete proteome; Cytoplasm; Direct protein sequencing; Isomerase;
+KW   Nucleotide-binding; Nucleus; Polymorphism; Reference proteome;
+KW   Rotamase.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:19413330}.
+FT   CHAIN         2    358       Serine/threonine-protein phosphatase 2A
+FT                                activator.
+FT                                /FTId=PRO_0000071524.
+FT   NP_BIND     183    189       ATP.
+FT   NP_BIND     240    242       ATP.
+FT   NP_BIND     342    343       ATP.
+FT   MOD_RES       2      2       N-acetylalanine.
+FT                                {ECO:0000269|PubMed:19413330}.
+FT   VAR_SEQ      45    108       Missing (in isoform 3).
+FT                                {ECO:0000303|PubMed:14702039}.
+FT                                /FTId=VSP_005122.
+FT   VAR_SEQ      73    149       Missing (in isoform 4). {ECO:0000305}.
+FT                                /FTId=VSP_005124.
+FT   VAR_SEQ      73    107       Missing (in isoform 1).
+FT                                {ECO:0000303|PubMed:15489334,
+FT                                ECO:0000303|PubMed:8195217,
+FT                                ECO:0000303|Ref.5, ECO:0000303|Ref.6}.
+FT                                /FTId=VSP_005123.
+FT   VARIANT      28     28       K -> R (in dbSNP:rs17481693).
+FT                                /FTId=VAR_028101.
+FT   VARIANT     208    208       R -> Q (in dbSNP:rs4836639).
+FT                                /FTId=VAR_028102.
+FT   VARIANT     357    357       S -> L (in dbSNP:rs2480452).
+FT                                {ECO:0000269|Ref.6}.
+FT                                /FTId=VAR_028103.
+FT   MUTAGEN     185    185       D->A: Impairs ATPase activity of the
+FT                                PP2A(D):PPP2R4 complex; no effect on
+FT                                interaction with the PP2A(D) complex.
+FT                                {ECO:0000269|PubMed:16916641}.
+FT   MUTAGEN     239    239       A->D: Impairs ATPase activity of the
+FT                                PP2A(D):PPP2R4 complex; no effect on
+FT                                interaction with the PP2A(D) complex.
+FT                                {ECO:0000269|PubMed:16916641}.
+FT   MUTAGEN     240    240       G->D: Impairs ATPase activity of the
+FT                                PP2A(D):PPP2R4 complex; no effect on
+FT                                interaction with the PP2A(D) complex.
+FT                                {ECO:0000269|PubMed:16916641}.
+FT   MUTAGEN     244    244       V->D: Impairs interaction with the
+FT                                PP2A(D) complex.
+FT                                {ECO:0000269|PubMed:16916641}.
+FT   MUTAGEN     305    305       E->A: Abolishes interaction with the
+FT                                PP2A(D) complex.
+FT                                {ECO:0000269|PubMed:16916641}.
+FT   MUTAGEN     316    316       V->D: Impairs interaction with the
+FT                                PP2A(D) complex.
+FT   MUTAGEN     325    325       G->D: Abolishes interaction with the
+FT                                PP2A(D) complex.
+FT                                {ECO:0000269|PubMed:16916641}.
+FT   MUTAGEN     329    329       M->D: Abolishes interaction with the
+FT                                PP2A(D) complex.
+FT                                {ECO:0000269|PubMed:16916641}.
+FT   MUTAGEN     337    337       K->G: Impairs interaction with the
+FT                                PP2A(D) complex.
+FT                                {ECO:0000269|PubMed:16916641}.
+FT   CONFLICT    113    113       V -> L (in Ref. 1; CAA51873, 2; CAA60163
+FT                                and 3; CAB77601/CAB77602). {ECO:0000305}.
+FT   CONFLICT    297    297       Missing (in Ref. 2; CAA60163 and 3;
+FT                                CAB77601/CAB77602/CAB77603).
+FT                                {ECO:0000305}.
+FT   CONFLICT    357    357       S -> V (in Ref. 1; AA sequence).
+FT                                {ECO:0000305}.
+FT   HELIX        34     40       {ECO:0000244|PDB:2IXM}.
+FT   HELIX        43     58       {ECO:0000244|PDB:2IXM}.
+FT   TURN         59     61       {ECO:0000244|PDB:2IXM}.
+FT   HELIX       107    124       {ECO:0000244|PDB:2IXM}.
+FT   STRAND      134    136       {ECO:0000244|PDB:2IXM}.
+FT   HELIX       139    156       {ECO:0000244|PDB:2IXM}.
+FT   HELIX       161    166       {ECO:0000244|PDB:2IXM}.
+FT   HELIX       167    175       {ECO:0000244|PDB:2IXM}.
+FT   TURN        181    184       {ECO:0000244|PDB:2IXM}.
+FT   HELIX       188    203       {ECO:0000244|PDB:2IXM}.
+FT   HELIX       209    211       {ECO:0000244|PDB:2IXM}.
+FT   HELIX       212    217       {ECO:0000244|PDB:2IXM}.
+FT   HELIX       219    233       {ECO:0000244|PDB:2IXM}.
+FT   STRAND      237    240       {ECO:0000244|PDB:2IXM}.
+FT   HELIX       243    245       {ECO:0000244|PDB:2IXM}.
+FT   STRAND      247    250       {ECO:0000244|PDB:2IXM}.
+FT   HELIX       253    261       {ECO:0000244|PDB:2IXM}.
+FT   TURN        262    264       {ECO:0000244|PDB:2IXM}.
+FT   HELIX       270    274       {ECO:0000244|PDB:2IXM}.
+FT   HELIX       276    282       {ECO:0000244|PDB:2IXM}.
+FT   HELIX       283    285       {ECO:0000244|PDB:2IXM}.
+FT   HELIX       287    298       {ECO:0000244|PDB:2IXM}.
+FT   HELIX       303    306       {ECO:0000244|PDB:2IXM}.
+FT   HELIX       308    313       {ECO:0000244|PDB:2IXM}.
+FT   HELIX       319    333       {ECO:0000244|PDB:2IXM}.
+FT   TURN        334    336       {ECO:0000244|PDB:2IXM}.
+FT   HELIX       338    341       {ECO:0000244|PDB:2IXM}.
+FT   STRAND      348    350       {ECO:0000244|PDB:2IXM}.
+FT   STRAND      352    354       {ECO:0000244|PDB:2IXM}.
+SQ   SEQUENCE   358 AA;  40668 MW;  2A962521AF5B4CF7 CRC64;
+     MAEGERQPPP DSSEEAPPAT QNFIIPKKEI HTVPDMGKWK RSQAYADYIG FILTLNEGVK
+     GKKLTFEYRV SEMWNEVHEE KEQAAKQSVS CDECIPLPRA GHCAPSEAIE KLVALLNTLD
+     RWIDETPPVD QPSRFGNKAY RTWYAKLDEE AENLVATVVP THLAAAVPEV AVYLKESVGN
+     STRIDYGTGH EAAFAAFLCC LCKIGVLRVD DQIAIVFKVF NRYLEVMRKL QKTYRMEPAG
+     SQGVWGLDDF QFLPFIWGSS QLIDHPYLEP RHFVDEKAVN ENHKDYMFLE CILFITEMKT
+     GPFAEHSNQL WNISAVPSWS KVNQGLIRMY KAECLEKFPV IQHFKFGSLL PIHPVTSG
+//

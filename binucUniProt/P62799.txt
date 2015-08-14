@@ -1,0 +1,313 @@
+ID   H4_XENLA                Reviewed;         103 AA.
+AC   P62799; P02304; P02305; Q6AZG5;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 2.
+DT   24-JUN-2015, entry version 104.
+DE   RecName: Full=Histone H4;
+OS   Xenopus laevis (African clawed frog).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Amphibia; Batrachia; Anura; Pipoidea; Pipidae; Xenopodinae; Xenopus;
+OC   Xenopus.
+OX   NCBI_TaxID=8355;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=6274702; DOI=10.1016/0014-5793(81)81211-2;
+RA   Moorman A.F.M., de Boer P.A.J., de Laaf R.T.M., van Dongen W.M.A.M.,
+RA   Destree O.H.J.;
+RT   "Primary structure of the histone H3 and H4 genes and their flanking
+RT   sequences in a minor histone gene cluster of Xenopus laevis.";
+RL   FEBS Lett. 136:45-52(1981).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=6324093; DOI=10.1093/nar/11.24.8641;
+RA   Clerc R.G., Bucher P., Strub K., Birnstiel M.L.;
+RT   "Transcription of a cloned Xenopus laevis H4 histone gene in the
+RT   homologous frog oocyte system depends on an evolutionary conserved
+RT   sequence motif in the -50 region.";
+RL   Nucleic Acids Res. 11:8641-8657(1983).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=3863963; DOI=10.1016/0022-2836(85)90065-8;
+RA   Perry M., Thomsen G.H., Roeder R.G.;
+RT   "Genomic organization and nucleotide sequence of two distinct histone
+RT   gene clusters from Xenopus laevis. Identification of novel conserved
+RT   upstream sequence elements.";
+RL   J. Mol. Biol. 185:479-499(1985).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Embryo;
+RG   NIH - Xenopus Gene Collection (XGC) project;
+RL   Submitted (JUL-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) OF 17-103.
+RX   PubMed=9305837; DOI=10.1038/38444;
+RA   Luger K., Mader A.W., Richmond R.K., Sargent D.F., Richmond T.J.;
+RT   "Crystal structure of the nucleosome core particle at 2.8 A
+RT   resolution.";
+RL   Nature 389:251-260(1997).
+CC   -!- FUNCTION: Core component of nucleosome. Nucleosomes wrap and
+CC       compact DNA into chromatin, limiting DNA accessibility to the
+CC       cellular machineries which require DNA as a template. Histones
+CC       thereby play a central role in transcription regulation, DNA
+CC       repair, DNA replication and chromosomal stability. DNA
+CC       accessibility is regulated via a complex set of post-translational
+CC       modifications of histones, also called histone code, and
+CC       nucleosome remodeling.
+CC   -!- SUBUNIT: The nucleosome is a histone octamer containing two
+CC       molecules each of H2A, H2B, H3 and H4 assembled in one H3-H4
+CC       heterotetramer and two H2A-H2B heterodimers. The octamer wraps
+CC       approximately 147 bp of DNA.
+CC   -!- INTERACTION:
+CC       P84233:-; NbExp=2; IntAct=EBI-302085, EBI-350041;
+CC   -!- SUBCELLULAR LOCATION: Nucleus. Chromosome.
+CC   -!- PTM: Acetylation at Lys-6 (H4K5ac), Lys-9 (H4K8ac), Lys-13
+CC       (H4K12ac) and Lys-17 (H4K16ac) occurs in coding regions of the
+CC       genome but not in heterochromatin. {ECO:0000250}.
+CC   -!- PTM: Citrullination at Arg-4 (H4R3ci) by PADI4 impairs
+CC       methylation. {ECO:0000250}.
+CC   -!- PTM: Monomethylation and asymmetric dimethylation at Arg-4
+CC       (H4R3me1 and H4R3me2a, respectively) by PRMT1 favors acetylation
+CC       at Lys-9 (H4K8ac) and Lys-13 (H4K12ac). Demethylation is performed
+CC       by JMJD6. Symmetric dimethylation on Arg-4 (H4R3me2s) by the
+CC       PRDM1/PRMT5 complex may play a crucial role in the germ-cell
+CC       lineage (By similarity). {ECO:0000250}.
+CC   -!- PTM: Monomethylated, dimethylated or trimethylated at Lys-21
+CC       (H4K20me1, H4K20me2, H4K20me3). Monomethylation is performed by
+CC       SET8. Trimethylation is performed by SUV420H1 and SUV420H2 and
+CC       induces gene silencing (By similarity). {ECO:0000250}.
+CC   -!- PTM: Phosphorylated by pak2 at Ser-48 (H4S47ph). This
+CC       phosphorylation increases the association of H3.3-H4 with the
+CC       histone chaperone HIRA, thus promoting nucleosome assembly of
+CC       H3.3-H4 and inhibiting nucleosome assembly of H3.1-H4 (By
+CC       similarity). {ECO:0000250}.
+CC   -!- PTM: Ubiquitinated by the CUL4-DDB-RBX1 complex in response to
+CC       ultraviolet irradiation. This may weaken the interaction between
+CC       histones and DNA and facilitate DNA accessibility to repair
+CC       proteins. Monoubiquitinated at Lys-92 of histone H4 (H4K91ub1) in
+CC       response to DNA damage. The exact role of H4K91ub1 in DNA damage
+CC       response is still unclear but it may function as a licensing
+CC       signal for additional histone H4 post-translational modifications
+CC       such as H4 Lys-21 methylation (H4K20me) (By similarity).
+CC       {ECO:0000250}.
+CC   -!- PTM: Sumoylated, which is associated with transcriptional
+CC       repression. {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the histone H4 family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X00224; CAA25042.1; -; Genomic_DNA.
+DR   EMBL; X03017; CAA26809.1; -; Genomic_DNA.
+DR   EMBL; X03017; CAA26814.1; -; Genomic_DNA.
+DR   EMBL; X03018; CAA26819.1; -; Genomic_DNA.
+DR   EMBL; M21286; AAA49761.1; -; Genomic_DNA.
+DR   EMBL; M21286; AAA49766.1; -; Genomic_DNA.
+DR   EMBL; M21287; AAA49771.1; -; Genomic_DNA.
+DR   EMBL; BC078038; AAH78038.1; -; mRNA.
+DR   PIR; A02641; HSXL4.
+DR   RefSeq; NP_001087926.1; NM_001094457.1.
+DR   UniGene; Xl.85592; -.
+DR   PDB; 1AOI; X-ray; 2.80 A; B/F=17-103.
+DR   PDB; 1KX3; X-ray; 2.00 A; B/F=2-103.
+DR   PDB; 1KX4; X-ray; 2.60 A; B/F=2-103.
+DR   PDB; 1KX5; X-ray; 1.94 A; B/F=2-103.
+DR   PDB; 1M18; X-ray; 2.45 A; B/F=2-103.
+DR   PDB; 1M19; X-ray; 2.30 A; B/F=2-103.
+DR   PDB; 1M1A; X-ray; 2.65 A; B/F=2-103.
+DR   PDB; 1P34; X-ray; 2.70 A; B/F=2-103.
+DR   PDB; 1P3A; X-ray; 3.00 A; B/F=2-103.
+DR   PDB; 1P3B; X-ray; 3.00 A; B/F=2-103.
+DR   PDB; 1P3F; X-ray; 2.90 A; B/F=2-103.
+DR   PDB; 1P3G; X-ray; 2.70 A; B/F=2-103.
+DR   PDB; 1P3I; X-ray; 2.30 A; B/F=2-103.
+DR   PDB; 1P3K; X-ray; 2.90 A; B/F=2-103.
+DR   PDB; 1P3L; X-ray; 2.40 A; B/F=2-103.
+DR   PDB; 1P3M; X-ray; 2.90 A; B/F=2-103.
+DR   PDB; 1P3O; X-ray; 2.75 A; B/F=2-103.
+DR   PDB; 1P3P; X-ray; 2.70 A; B/F=2-103.
+DR   PDB; 1S32; X-ray; 2.05 A; B/F=2-103.
+DR   PDB; 1ZBB; X-ray; 9.00 A; B/F/b/f=2-103.
+DR   PDB; 1ZLA; X-ray; 2.90 A; B/F=2-103.
+DR   PDB; 2F8N; X-ray; 2.90 A; B/F=1-103.
+DR   PDB; 2FJ7; X-ray; 3.20 A; B/F=2-103.
+DR   PDB; 2HUE; X-ray; 1.70 A; C=21-103.
+DR   PDB; 2IO5; X-ray; 2.70 A; C=2-103.
+DR   PDB; 2NZD; X-ray; 2.65 A; B/F=2-103.
+DR   PDB; 3B6F; X-ray; 3.45 A; B/F=2-103.
+DR   PDB; 3B6G; X-ray; 3.45 A; B/F=2-103.
+DR   PDB; 3C1B; X-ray; 2.20 A; B/F=2-103.
+DR   PDB; 3C1C; X-ray; 3.15 A; B/F=2-103.
+DR   PDB; 3KUY; X-ray; 2.90 A; B/F=2-103.
+DR   PDB; 3KWQ; X-ray; 3.50 A; B/F=21-103.
+DR   PDB; 3KXB; X-ray; 3.20 A; B/F=2-103.
+DR   PDB; 3LEL; X-ray; 2.95 A; B/F/L/P=2-103.
+DR   PDB; 3LJA; X-ray; 2.75 A; B/F=2-103.
+DR   PDB; 3LZ0; X-ray; 2.50 A; B/F=2-103.
+DR   PDB; 3LZ1; X-ray; 2.50 A; B/F=2-103.
+DR   PDB; 3MGP; X-ray; 2.44 A; B/F=2-103.
+DR   PDB; 3MGQ; X-ray; 2.65 A; B/F=2-103.
+DR   PDB; 3MGR; X-ray; 2.30 A; B/F=2-103.
+DR   PDB; 3MGS; X-ray; 3.15 A; B/F=2-103.
+DR   PDB; 3MNN; X-ray; 2.50 A; B/F=2-103.
+DR   PDB; 3MVD; X-ray; 2.90 A; B/F=2-103.
+DR   PDB; 3O62; X-ray; 3.22 A; B/F=2-103.
+DR   PDB; 3REH; X-ray; 2.50 A; B/F=2-103.
+DR   PDB; 3REI; X-ray; 2.65 A; B/F=2-103.
+DR   PDB; 3REJ; X-ray; 2.55 A; B/F=2-103.
+DR   PDB; 3REK; X-ray; 2.60 A; B/F=2-103.
+DR   PDB; 3REL; X-ray; 2.70 A; B/F=2-103.
+DR   PDB; 3TU4; X-ray; 3.00 A; B/F=2-103.
+DR   PDB; 3UT9; X-ray; 2.20 A; B/F=2-103.
+DR   PDB; 3UTA; X-ray; 2.07 A; B/F=2-103.
+DR   PDB; 3UTB; X-ray; 2.20 A; B/F=2-103.
+DR   PDB; 4EO5; X-ray; 2.35 A; C=21-103.
+DR   PDB; 4J8U; X-ray; 2.38 A; B/F=2-103.
+DR   PDB; 4J8V; X-ray; 2.58 A; B/F=2-103.
+DR   PDB; 4J8W; X-ray; 2.41 A; B/F=2-103.
+DR   PDB; 4J8X; X-ray; 2.87 A; B/F=2-103.
+DR   PDB; 4KGC; X-ray; 2.69 A; B/F=1-103.
+DR   PDB; 4LD9; X-ray; 3.31 A; B/F=1-103.
+DR   PDB; 4R8P; X-ray; 3.28 A; B/F=2-103.
+DR   PDBsum; 1AOI; -.
+DR   PDBsum; 1KX3; -.
+DR   PDBsum; 1KX4; -.
+DR   PDBsum; 1KX5; -.
+DR   PDBsum; 1M18; -.
+DR   PDBsum; 1M19; -.
+DR   PDBsum; 1M1A; -.
+DR   PDBsum; 1P34; -.
+DR   PDBsum; 1P3A; -.
+DR   PDBsum; 1P3B; -.
+DR   PDBsum; 1P3F; -.
+DR   PDBsum; 1P3G; -.
+DR   PDBsum; 1P3I; -.
+DR   PDBsum; 1P3K; -.
+DR   PDBsum; 1P3L; -.
+DR   PDBsum; 1P3M; -.
+DR   PDBsum; 1P3O; -.
+DR   PDBsum; 1P3P; -.
+DR   PDBsum; 1S32; -.
+DR   PDBsum; 1ZBB; -.
+DR   PDBsum; 1ZLA; -.
+DR   PDBsum; 2F8N; -.
+DR   PDBsum; 2FJ7; -.
+DR   PDBsum; 2HUE; -.
+DR   PDBsum; 2IO5; -.
+DR   PDBsum; 2NZD; -.
+DR   PDBsum; 3B6F; -.
+DR   PDBsum; 3B6G; -.
+DR   PDBsum; 3C1B; -.
+DR   PDBsum; 3C1C; -.
+DR   PDBsum; 3KUY; -.
+DR   PDBsum; 3KWQ; -.
+DR   PDBsum; 3KXB; -.
+DR   PDBsum; 3LEL; -.
+DR   PDBsum; 3LJA; -.
+DR   PDBsum; 3LZ0; -.
+DR   PDBsum; 3LZ1; -.
+DR   PDBsum; 3MGP; -.
+DR   PDBsum; 3MGQ; -.
+DR   PDBsum; 3MGR; -.
+DR   PDBsum; 3MGS; -.
+DR   PDBsum; 3MNN; -.
+DR   PDBsum; 3MVD; -.
+DR   PDBsum; 3O62; -.
+DR   PDBsum; 3REH; -.
+DR   PDBsum; 3REI; -.
+DR   PDBsum; 3REJ; -.
+DR   PDBsum; 3REK; -.
+DR   PDBsum; 3REL; -.
+DR   PDBsum; 3TU4; -.
+DR   PDBsum; 3UT9; -.
+DR   PDBsum; 3UTA; -.
+DR   PDBsum; 3UTB; -.
+DR   PDBsum; 4EO5; -.
+DR   PDBsum; 4J8U; -.
+DR   PDBsum; 4J8V; -.
+DR   PDBsum; 4J8W; -.
+DR   PDBsum; 4J8X; -.
+DR   PDBsum; 4KGC; -.
+DR   PDBsum; 4LD9; -.
+DR   PDBsum; 4R8P; -.
+DR   ProteinModelPortal; P62799; -.
+DR   SMR; P62799; 21-102.
+DR   BioGrid; 104647; 11.
+DR   DIP; DIP-37429N; -.
+DR   IntAct; P62799; 4.
+DR   BindingDB; P62799; -.
+DR   PRIDE; P62799; -.
+DR   GeneID; 447787; -.
+DR   KEGG; xla:447787; -.
+DR   CTD; 8359; -.
+DR   Xenbase; XB-GENE-6493984; hist1h4a.
+DR   HOVERGEN; HBG051878; -.
+DR   KO; K11254; -.
+DR   EvolutionaryTrace; P62799; -.
+DR   GO; GO:0000786; C:nucleosome; IEA:UniProtKB-KW.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006334; P:nucleosome assembly; IEA:InterPro.
+DR   Gene3D; 1.10.20.10; -; 1.
+DR   InterPro; IPR009072; Histone-fold.
+DR   InterPro; IPR007125; Histone_core_D.
+DR   InterPro; IPR001951; Histone_H4.
+DR   InterPro; IPR019809; Histone_H4_CS.
+DR   Pfam; PF00125; Histone; 1.
+DR   PRINTS; PR00623; HISTONEH4.
+DR   SMART; SM00417; H4; 1.
+DR   SUPFAM; SSF47113; SSF47113; 1.
+DR   PROSITE; PS00047; HISTONE_H4; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Chromosome; Citrullination; DNA-binding;
+KW   Isopeptide bond; Methylation; Nucleosome core; Nucleus;
+KW   Phosphoprotein; Ubl conjugation.
+FT   INIT_MET      1      1       Removed. {ECO:0000250}.
+FT   CHAIN         2    103       Histone H4.
+FT                                /FTId=PRO_0000158376.
+FT   DNA_BIND     17     21
+FT   MOD_RES       2      2       N-acetylserine. {ECO:0000250}.
+FT   MOD_RES       2      2       Phosphoserine. {ECO:0000250}.
+FT   MOD_RES       4      4       Asymmetric dimethylarginine; by PRMT1;
+FT                                alternate. {ECO:0000250}.
+FT   MOD_RES       4      4       Citrulline; alternate. {ECO:0000250}.
+FT   MOD_RES       4      4       Omega-N-methylarginine; by PRMT1;
+FT                                alternate. {ECO:0000250}.
+FT   MOD_RES       4      4       Symmetric dimethylarginine; by PRMT5 and
+FT                                PRMT7; alternate. {ECO:0000250}.
+FT   MOD_RES       6      6       N6-acetyllysine. {ECO:0000250}.
+FT   MOD_RES       9      9       N6-acetyllysine. {ECO:0000250}.
+FT   MOD_RES      13     13       N6-acetyllysine. {ECO:0000250}.
+FT   MOD_RES      17     17       N6-acetyllysine. {ECO:0000250}.
+FT   MOD_RES      21     21       N6,N6,N6-trimethyllysine; alternate.
+FT                                {ECO:0000250}.
+FT   MOD_RES      21     21       N6,N6-dimethyllysine; alternate.
+FT                                {ECO:0000250}.
+FT   MOD_RES      21     21       N6-methylated lysine. {ECO:0000250}.
+FT   MOD_RES      21     21       N6-methyllysine; alternate.
+FT                                {ECO:0000250}.
+FT   MOD_RES      32     32       N6-acetyllysine. {ECO:0000250}.
+FT   MOD_RES      48     48       Phosphoserine; by PAK2. {ECO:0000250}.
+FT   MOD_RES      52     52       Phosphotyrosine. {ECO:0000250}.
+FT   MOD_RES      60     60       N6-acetyllysine. {ECO:0000250}.
+FT   MOD_RES      80     80       N6-acetyllysine. {ECO:0000250}.
+FT   MOD_RES      89     89       Phosphotyrosine. {ECO:0000250}.
+FT   MOD_RES      92     92       N6-acetyllysine; alternate.
+FT                                {ECO:0000250}.
+FT   CROSSLNK     92     92       Glycyl lysine isopeptide (Lys-Gly)
+FT                                (interchain with G-Cter in ubiquitin);
+FT                                alternate. {ECO:0000250}.
+FT   STRAND        6     12       {ECO:0000244|PDB:1KX5}.
+FT   STRAND       13     17       {ECO:0000244|PDB:1M1A}.
+FT   HELIX        23     26       {ECO:0000244|PDB:2HUE}.
+FT   HELIX        27     29       {ECO:0000244|PDB:3C1B}.
+FT   HELIX        32     41       {ECO:0000244|PDB:2HUE}.
+FT   STRAND       45     47       {ECO:0000244|PDB:4R8P}.
+FT   HELIX        51     76       {ECO:0000244|PDB:2HUE}.
+FT   STRAND       80     82       {ECO:0000244|PDB:2HUE}.
+FT   HELIX        84     90       {ECO:0000244|PDB:2HUE}.
+FT   TURN         91     94       {ECO:0000244|PDB:2HUE}.
+FT   STRAND       96    100       {ECO:0000244|PDB:2HUE}.
+SQ   SEQUENCE   103 AA;  11367 MW;  A9E5DFD3F8B97598 CRC64;
+     MSGRGKGGKG LGKGGAKRHR KVLRDNIQGI TKPAIRRLAR RGGVKRISGL IYEETRGVLK
+     VFLENVIRDA VTYTEHAKRK TVTAMDVVYA LKRQGRTLYG FGG
+//

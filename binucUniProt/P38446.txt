@@ -1,0 +1,144 @@
+ID   NUCA_NOSS1              Reviewed;         274 AA.
+AC   P38446;
+DT   01-OCT-1994, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-1994, sequence version 1.
+DT   22-JUL-2015, entry version 99.
+DE   RecName: Full=Nuclease;
+DE            EC=3.1.30.-;
+DE   AltName: Full=Endonuclease;
+DE   Flags: Precursor;
+GN   Name=nucA; OrderedLocusNames=all7362;
+OS   Nostoc sp. (strain PCC 7120 / UTEX 2576).
+OG   Plasmid pCC7120alpha.
+OC   Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+OX   NCBI_TaxID=103690;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND CHARACTERIZATION.
+RX   PubMed=1343821; DOI=10.1111/j.1365-2958.1992.tb01760.x;
+RA   Muro-Pastor A.M., Flores E., Herrero A., Wolk C.P.;
+RT   "Identification, genetic analysis and characterization of a sugar-non-
+RT   specific nuclease from the cyanobacterium Anabaena sp. PCC 7120.";
+RL   Mol. Microbiol. 6:3021-3030(1992).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=PCC 7120 / UTEX 2576;
+RX   PubMed=11759840; DOI=10.1093/dnares/8.5.205;
+RA   Kaneko T., Nakamura Y., Wolk C.P., Kuritz T., Sasamoto S.,
+RA   Watanabe A., Iriguchi M., Ishikawa A., Kawashima K., Kimura T.,
+RA   Kishida Y., Kohara M., Matsumoto M., Matsuno A., Muraki A.,
+RA   Nakazaki N., Shimpo S., Sugimoto M., Takazawa M., Yamada M.,
+RA   Yasuda M., Tabata S.;
+RT   "Complete genomic sequence of the filamentous nitrogen-fixing
+RT   cyanobacterium Anabaena sp. strain PCC 7120.";
+RL   DNA Res. 8:205-213(2001).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS) OF 25-274 OF MUTANT ALA-121 IN
+RP   COMPLEX WITH MANGANESE IONS, AND SUBUNIT.
+RX   PubMed=15897201; DOI=10.1074/jbc.M501798200;
+RA   Ghosh M., Meiss G., Pingoud A., London R.E., Pedersen L.C.;
+RT   "Structural insights into the mechanism of nuclease A, a betabeta
+RT   alpha metal nuclease from Anabaena.";
+RL   J. Biol. Chem. 280:27990-27997(2005).
+CC   -!- FUNCTION: Catalyzes the degradation of both RNA and DNA; has the
+CC       potential to act as an endonuclease.
+CC   -!- COFACTOR:
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC       Name=Ca(2+); Xref=ChEBI:CHEBI:29108;
+CC       Name=Co(2+); Xref=ChEBI:CHEBI:48828;
+CC       Note=Divalent metal cations. The effectiveness of the cations are
+CC       Mn(2+) > Mg(2+) > Ca(2+) = Co(2+).;
+CC   -!- SUBUNIT: Monomer. {ECO:0000269|PubMed:15897201}.
+CC   -!- SUBCELLULAR LOCATION: Periplasm. Note=Periplasmic or loosely
+CC       attached to the cytoplasmic or the outer membrane.
+CC   -!- PTM: The N-terminus is blocked.
+CC   -!- MISCELLANEOUS: The active site contains 1 hydrated divalent metal
+CC       cation that has only 1 direct interaction with the protein; all
+CC       other interactions are via water molecules.
+CC   -!- SIMILARITY: Belongs to the DNA/RNA non-specific endonuclease
+CC       family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X64706; CAA45962.1; -; Genomic_DNA.
+DR   EMBL; BA000020; BAB77120.1; -; Genomic_DNA.
+DR   PIR; AB2523; AB2523.
+DR   PIR; S28039; S28039.
+DR   RefSeq; WP_010999911.1; NC_003276.1.
+DR   PDB; 1ZM8; X-ray; 1.90 A; A=25-274.
+DR   PDB; 2O3B; X-ray; 2.30 A; A=35-274.
+DR   PDBsum; 1ZM8; -.
+DR   PDBsum; 2O3B; -.
+DR   ProteinModelPortal; P38446; -.
+DR   SMR; P38446; 35-274.
+DR   EnsemblBacteria; BAB77120; BAB77120; BAB77120.
+DR   KEGG; ana:all7362; -.
+DR   PATRIC; 22782505; VBINosSp37423_6664.
+DR   eggNOG; COG1864; -.
+DR   HOGENOM; HOG000024365; -.
+DR   KO; K01173; -.
+DR   OMA; NITPQKP; -.
+DR   OrthoDB; EOG6KWXVS; -.
+DR   EvolutionaryTrace; P38446; -.
+DR   Proteomes; UP000002483; Plasmid pCC7120alpha.
+DR   GO; GO:0042597; C:periplasmic space; IEA:UniProtKB-SubCell.
+DR   GO; GO:0004519; F:endonuclease activity; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003676; F:nucleic acid binding; IEA:InterPro.
+DR   Gene3D; 3.40.570.10; -; 1.
+DR   InterPro; IPR018524; DNA/RNA_endonuclease_AS.
+DR   InterPro; IPR001604; DNA/RNA_non-sp_Endonuclease.
+DR   InterPro; IPR020821; Extracellular_endonuc_su_A.
+DR   Pfam; PF01223; Endonuclease_NS; 1.
+DR   SMART; SM00892; Endonuclease_NS; 1.
+DR   SMART; SM00477; NUC; 1.
+DR   PROSITE; PS01070; NUCLEASE_NON_SPEC; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Endonuclease; Hydrolase; Magnesium;
+KW   Manganese; Metal-binding; Nuclease; Periplasm; Plasmid;
+KW   Reference proteome; Signal.
+FT   SIGNAL        1     24       {ECO:0000255}.
+FT   CHAIN        25    274       Nuclease.
+FT                                /FTId=PRO_0000019913.
+FT   ACT_SITE    124    124       Proton acceptor.
+FT   METAL       155    155       Manganese 1; catalytic.
+FT   METAL       246    246       Manganese 2. {ECO:0000255}.
+FT   METAL       249    249       Manganese 2. {ECO:0000255}.
+FT   METAL       255    255       Manganese 3. {ECO:0000255}.
+FT   METAL       256    256       Manganese 3; via carbonyl oxygen.
+FT                                {ECO:0000255}.
+FT   METAL       265    265       Manganese 3. {ECO:0000255}.
+FT   METAL       269    269       Manganese 2. {ECO:0000255}.
+FT   MUTAGEN     121    121       D->A: Reduced activity by over 99%.
+FT   HELIX        38     40       {ECO:0000244|PDB:1ZM8}.
+FT   STRAND       57     61       {ECO:0000244|PDB:1ZM8}.
+FT   STRAND       66     70       {ECO:0000244|PDB:1ZM8}.
+FT   TURN         71     74       {ECO:0000244|PDB:1ZM8}.
+FT   STRAND       75     84       {ECO:0000244|PDB:1ZM8}.
+FT   HELIX        85     87       {ECO:0000244|PDB:1ZM8}.
+FT   HELIX       112    114       {ECO:0000244|PDB:1ZM8}.
+FT   TURN        115    117       {ECO:0000244|PDB:1ZM8}.
+FT   STRAND      121    126       {ECO:0000244|PDB:1ZM8}.
+FT   HELIX       128    130       {ECO:0000244|PDB:1ZM8}.
+FT   HELIX       135    140       {ECO:0000244|PDB:1ZM8}.
+FT   HELIX       144    146       {ECO:0000244|PDB:1ZM8}.
+FT   STRAND      147    150       {ECO:0000244|PDB:1ZM8}.
+FT   HELIX       152    156       {ECO:0000244|PDB:1ZM8}.
+FT   HELIX       158    171       {ECO:0000244|PDB:1ZM8}.
+FT   STRAND      176    184       {ECO:0000244|PDB:1ZM8}.
+FT   TURN        191    193       {ECO:0000244|PDB:1ZM8}.
+FT   STRAND      198    206       {ECO:0000244|PDB:1ZM8}.
+FT   HELIX       213    216       {ECO:0000244|PDB:1ZM8}.
+FT   STRAND      223    229       {ECO:0000244|PDB:1ZM8}.
+FT   HELIX       238    241       {ECO:0000244|PDB:1ZM8}.
+FT   HELIX       245    252       {ECO:0000244|PDB:1ZM8}.
+FT   TURN        256    259       {ECO:0000244|PDB:1ZM8}.
+FT   HELIX       262    270       {ECO:0000244|PDB:1ZM8}.
+SQ   SEQUENCE   274 AA;  29669 MW;  7F14170915AE59BF CRC64;
+     MGICGKLGVA ALVALIVGCS PVQSQVPPLT ELSPSISVHL LLGNPSGATP TKLTPDNYLM
+     VKNQYALSYN NSKGTANWVA WQLNSSWLGN AERQDNFRPD KTLPAGWVRV TPSMYSGSGY
+     DRGHIAPSAD RTKTTEDNAA TFLMTNMMPQ TPDNNRNTWG NLEDYCRELV SQGKELYIVA
+     GPNGSLGKPL KGKVTVPKST WKIVVVLDSP GSGLEGITAN TRVIAVNIPN DPELNNDWRA
+     YKVSVDELES LTGYDFLSNV SPNIQTSIES KVDN
+//

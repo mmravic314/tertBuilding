@@ -1,0 +1,124 @@
+ID   APAH_SHIFL              Reviewed;         280 AA.
+AC   Q83SQ2; Q7C3B6;
+DT   01-MAR-2005, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-2003, sequence version 1.
+DT   22-JUL-2015, entry version 81.
+DE   RecName: Full=Bis(5'-nucleosyl)-tetraphosphatase, symmetrical {ECO:0000255|HAMAP-Rule:MF_00199};
+DE            EC=3.6.1.41 {ECO:0000255|HAMAP-Rule:MF_00199};
+DE   AltName: Full=Ap4A hydrolase {ECO:0000255|HAMAP-Rule:MF_00199};
+DE   AltName: Full=Diadenosine 5',5'''-P1,P4-tetraphosphate pyrophosphohydrolase {ECO:0000255|HAMAP-Rule:MF_00199};
+DE   AltName: Full=Diadenosine tetraphosphatase {ECO:0000255|HAMAP-Rule:MF_00199};
+GN   Name=apaH {ECO:0000255|HAMAP-Rule:MF_00199};
+GN   OrderedLocusNames=SF0046, S0048;
+OS   Shigella flexneri.
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Shigella.
+OX   NCBI_TaxID=623;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=301 / Serotype 2a;
+RX   PubMed=12384590; DOI=10.1093/nar/gkf566;
+RA   Jin Q., Yuan Z., Xu J., Wang Y., Shen Y., Lu W., Wang J., Liu H.,
+RA   Yang J., Yang F., Zhang X., Zhang J., Yang G., Wu H., Qu D., Dong J.,
+RA   Sun L., Xue Y., Zhao A., Gao Y., Zhu J., Kan B., Ding K., Chen S.,
+RA   Cheng H., Yao Z., He B., Chen R., Ma D., Qiang B., Wen Y., Hou Y.,
+RA   Yu J.;
+RT   "Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+RT   through comparison with genomes of Escherichia coli K12 and O157.";
+RL   Nucleic Acids Res. 30:4432-4441(2002).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 700930 / 2457T / Serotype 2a;
+RX   PubMed=12704152; DOI=10.1128/IAI.71.5.2775-2786.2003;
+RA   Wei J., Goldberg M.B., Burland V., Venkatesan M.M., Deng W.,
+RA   Fournier G., Mayhew G.F., Plunkett G. III, Rose D.J., Darling A.,
+RA   Mau B., Perna N.T., Payne S.M., Runyen-Janecky L.J., Zhou S.,
+RA   Schwartz D.C., Blattner F.R.;
+RT   "Complete genome sequence and comparative genomics of Shigella
+RT   flexneri serotype 2a strain 2457T.";
+RL   Infect. Immun. 71:2775-2786(2003).
+CC   -!- FUNCTION: Hydrolyzes diadenosine 5',5'''-P1,P4-tetraphosphate to
+CC       yield ADP. {ECO:0000255|HAMAP-Rule:MF_00199}.
+CC   -!- CATALYTIC ACTIVITY: P(1),P(4)-bis(5'-adenosyl) tetraphosphate +
+CC       H(2)O = 2 ADP. {ECO:0000255|HAMAP-Rule:MF_00199}.
+CC   -!- SIMILARITY: Belongs to the Ap4A hydrolase family.
+CC       {ECO:0000255|HAMAP-Rule:MF_00199}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE005674; AAN41712.1; -; Genomic_DNA.
+DR   EMBL; AE014073; AAP15592.1; -; Genomic_DNA.
+DR   RefSeq; NP_706005.1; NC_004337.2.
+DR   RefSeq; WP_000257186.1; NZ_LM651928.1.
+DR   PDB; 2DFJ; X-ray; 2.72 A; A/B=1-280.
+DR   PDBsum; 2DFJ; -.
+DR   ProteinModelPortal; Q83SQ2; -.
+DR   SMR; Q83SQ2; 2-268.
+DR   STRING; 198214.SF0046; -.
+DR   PaxDb; Q83SQ2; -.
+DR   EnsemblBacteria; AAN41712; AAN41712; SF0046.
+DR   EnsemblBacteria; AAP15592; AAP15592; S0048.
+DR   GeneID; 1024575; -.
+DR   KEGG; sfl:SF0046; -.
+DR   PATRIC; 18701026; VBIShiFle31049_0055.
+DR   eggNOG; COG0639; -.
+DR   HOGENOM; HOG000251871; -.
+DR   KO; K01525; -.
+DR   OMA; GDIQGCY; -.
+DR   OrthoDB; EOG66B3WP; -.
+DR   EvolutionaryTrace; Q83SQ2; -.
+DR   Proteomes; UP000001006; Chromosome.
+DR   Proteomes; UP000002673; Chromosome.
+DR   GO; GO:0008803; F:bis(5'-nucleosyl)-tetraphosphatase (symmetrical) activity; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 3.60.21.10; -; 2.
+DR   HAMAP; MF_00199; ApaH; 1.
+DR   InterPro; IPR004617; ApaH.
+DR   InterPro; IPR004843; Calcineurin-like_PHP_apaH.
+DR   InterPro; IPR029052; Metallo-depent_PP-like.
+DR   Pfam; PF00149; Metallophos; 1.
+DR   PIRSF; PIRSF000903; B5n-ttraPtase_sm; 1.
+DR   SUPFAM; SSF56300; SSF56300; 1.
+DR   TIGRFAMs; TIGR00668; apaH; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Hydrolase.
+FT   CHAIN         1    280       Bis(5'-nucleosyl)-tetraphosphatase,
+FT                                symmetrical.
+FT                                /FTId=PRO_0000198011.
+FT   STRAND        3      6       {ECO:0000244|PDB:2DFJ}.
+FT   HELIX        13     22       {ECO:0000244|PDB:2DFJ}.
+FT   TURN         27     29       {ECO:0000244|PDB:2DFJ}.
+FT   STRAND       31     34       {ECO:0000244|PDB:2DFJ}.
+FT   STRAND       39     43       {ECO:0000244|PDB:2DFJ}.
+FT   HELIX        45     54       {ECO:0000244|PDB:2DFJ}.
+FT   HELIX        55     58       {ECO:0000244|PDB:2DFJ}.
+FT   STRAND       59     61       {ECO:0000244|PDB:2DFJ}.
+FT   HELIX        65     74       {ECO:0000244|PDB:2DFJ}.
+FT   HELIX        82     84       {ECO:0000244|PDB:2DFJ}.
+FT   HELIX        87     90       {ECO:0000244|PDB:2DFJ}.
+FT   HELIX        95    103       {ECO:0000244|PDB:2DFJ}.
+FT   STRAND      107    111       {ECO:0000244|PDB:2DFJ}.
+FT   TURN        112    115       {ECO:0000244|PDB:2DFJ}.
+FT   STRAND      116    121       {ECO:0000244|PDB:2DFJ}.
+FT   HELIX       129    144       {ECO:0000244|PDB:2DFJ}.
+FT   HELIX       148    154       {ECO:0000244|PDB:2DFJ}.
+FT   HELIX       169    181       {ECO:0000244|PDB:2DFJ}.
+FT   STRAND      185    187       {ECO:0000244|PDB:2DFJ}.
+FT   STRAND      190    195       {ECO:0000244|PDB:2DFJ}.
+FT   HELIX       200    202       {ECO:0000244|PDB:2DFJ}.
+FT   HELIX       210    212       {ECO:0000244|PDB:2DFJ}.
+FT   TURN        216    220       {ECO:0000244|PDB:2DFJ}.
+FT   STRAND      221    225       {ECO:0000244|PDB:2DFJ}.
+FT   HELIX       229    231       {ECO:0000244|PDB:2DFJ}.
+FT   STRAND      240    242       {ECO:0000244|PDB:2DFJ}.
+FT   TURN        247    250       {ECO:0000244|PDB:2DFJ}.
+FT   STRAND      251    257       {ECO:0000244|PDB:2DFJ}.
+FT   TURN        258    261       {ECO:0000244|PDB:2DFJ}.
+FT   STRAND      262    267       {ECO:0000244|PDB:2DFJ}.
+SQ   SEQUENCE   280 AA;  31283 MW;  BD6560C73336B6BB CRC64;
+     MATYLIGDVH GCYDELIALL HKVEFTPGKD TLWLTGDLVA RGPGSLDVLR YVKSLGDSVR
+     LVLGNHDLHL LAVFAGISRN KPKDRLTPLL EAPDADELLN WLRRQPLLQI DEEKKLVMAH
+     AGITPQWDLQ TAKECARDVE AVLSSDSYPF FLDAMYGDMP NNWSPELRGL GRLRFITNAF
+     TRMRFCFPNG QLDMYSKESP EEAPAPLKPW FAIPGPVAEE YSIAFGHWAS LEGKGTPEGI
+     YALDTGCCWG GSLTCLRWED KQYFVQPSNR HKDLGEAAAS
+//

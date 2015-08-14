@@ -1,0 +1,576 @@
+ID   ACES_TORCA              Reviewed;         586 AA.
+AC   P04058;
+DT   01-NOV-1986, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-1994, sequence version 2.
+DT   22-JUL-2015, entry version 139.
+DE   RecName: Full=Acetylcholinesterase;
+DE            Short=AChE;
+DE            EC=3.1.1.7;
+DE   Flags: Precursor;
+GN   Name=ache;
+OS   Torpedo californica (Pacific electric ray).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Chondrichthyes;
+OC   Elasmobranchii; Batoidea; Torpediniformes; Torpedinidae; Torpedo.
+OX   NCBI_TaxID=7787;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 10-586.
+RX   PubMed=3753747; DOI=10.1038/319407a0;
+RA   Schumacher M., Camp S., Maulet Y., Newton M., McPhee-Quigley K.,
+RA   Taylor S.S., Friedmann T., Taylor P.;
+RT   "Primary structure of Torpedo californica acetylcholinesterase deduced
+RT   from its cDNA sequence.";
+RL   Nature 319:407-409(1986).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-9.
+RX   PubMed=3198606;
+RA   Schumacher M.;
+RT   "Multiple messenger RNA species give rise to the structural diversity
+RT   in acetylcholinesterase.";
+RL   J. Biol. Chem. 263:18979-18987(1988).
+RN   [3]
+RP   PROTEIN SEQUENCE OF 22-45 AND 214-237.
+RX   PubMed=3900071;
+RA   MacPhee-Quigley K., Taylor P., Taylor S.;
+RT   "Primary structures of the catalytic subunits from two molecular forms
+RT   of acetylcholinesterase. A comparison of NH2-terminal and active
+RT   center sequences.";
+RL   J. Biol. Chem. 260:12185-12189(1985).
+RN   [4]
+RP   PROTEIN SEQUENCE OF 100-108.
+RX   PubMed=2068091; DOI=10.1073/pnas.88.14.6117;
+RA   Kreienkamp H.J., Weise C., Raba R., Aaviksaar A., Hucho F.;
+RT   "Anionic subsites of the catalytic center of acetylcholinesterase from
+RT   Torpedo and from cobra venom.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 88:6117-6121(1991).
+RN   [5]
+RP   PROTEIN SEQUENCE OF 552-558.
+RX   PubMed=3335534;
+RA   Gibney G., Macphee-Quigley K., Thompson B., Vedvick T., Low M.G.,
+RA   Taylor S.S., Taylor P.;
+RT   "Divergence in primary structure between the molecular forms of
+RT   acetylcholinesterase.";
+RL   J. Biol. Chem. 263:1140-1145(1988).
+RN   [6]
+RP   ALTERNATIVE SPLICING.
+RX   PubMed=2306366; DOI=10.1016/0896-6273(90)90103-M;
+RA   Maulet Y., Camp S., Gibney G., Rachinsky T.L., Ekstroem T.J.,
+RA   Taylor P.;
+RT   "Single gene encodes glycophospholipid-anchored and asymmetric
+RT   acetylcholinesterase forms: alternative coding exons contain inverted
+RT   repeat sequences.";
+RL   Neuron 4:289-301(1990).
+RN   [7]
+RP   DISULFIDE BONDS.
+RX   PubMed=3759980;
+RA   McPhee-Quigley K., Vedvick T.S., Taylor P., Taylor S.S.;
+RT   "Profile of the disulfide bonds in acetylcholinesterase.";
+RL   J. Biol. Chem. 261:13565-13570(1986).
+RN   [8]
+RP   STRUCTURE OF THE GPI-ANCHOR.
+RX   PubMed=8257440;
+RA   Mehlert A., Varon L., Silman I., Homans S.W., Ferguson M.A.;
+RT   "Structure of the glycosyl-phosphatidylinositol membrane anchor of
+RT   acetylcholinesterase from the electric organ of the electric-fish,
+RT   Torpedo californica.";
+RL   Biochem. J. 296:473-479(1993).
+RN   [9]
+RP   GPI-ANCHOR AT SER-564.
+RX   PubMed=8597567; DOI=10.1016/0167-4838(95)00205-7;
+RA   Bucht G., Hjalmarsson K.;
+RT   "Residues in Torpedo californica acetylcholinesterase necessary for
+RT   processing to a glycosyl phosphatidylinositol-anchored form.";
+RL   Biochim. Biophys. Acta 1292:223-232(1996).
+RN   [10]
+RP   MUTAGENESIS.
+RX   PubMed=2217185; DOI=10.1073/pnas.87.19.7546;
+RA   Gibney G., Camp S., Dionne M., McPhee-Quigley K., Taylor P.;
+RT   "Mutagenesis of essential functional residues in
+RT   acetylcholinesterase.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 87:7546-7550(1990).
+RN   [11]
+RP   X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) OF 22-558, ACTIVE SITE,
+RP   GLYCOSYLATION AT ASN-437, DISULFIDE BONDS, AND SUBUNIT.
+RX   PubMed=1678899; DOI=10.1126/science.1678899;
+RA   Sussman J.L., Harel M., Frolow F., Oefner C., Goldman A., Toker L.,
+RA   Silman I.;
+RT   "Atomic structure of acetylcholinesterase from Torpedo californica: a
+RT   prototypic acetylcholine-binding protein.";
+RL   Science 253:872-879(1991).
+RN   [12]
+RP   X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) OF 22-556 IN COMPLEX WITH
+RP   SUBSTRATE ANALOGS.
+RX   PubMed=8415649; DOI=10.1073/pnas.90.19.9031;
+RA   Harel M., Schalk I., Ehret-Sabatier L., Bouet F., Goeldner M.,
+RA   Hirth C., Axelsen P.H., Silman I., Sussman J.L.;
+RT   "Quaternary ligand binding to aromatic residues in the active-site
+RT   gorge of acetylcholinesterase.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 90:9031-9035(1993).
+RN   [13]
+RP   X-RAY CRYSTALLOGRAPHY (3.0 ANGSTROMS) OF 22-558 IN COMPLEX WITH
+RP   FASCICULIN-2, AND DISULFIDE BOND.
+RX   PubMed=8747462; DOI=10.1016/S0969-2126(01)00273-8;
+RA   Harel M., Kleywegt G.J., Ravelli R.B., Silman I., Sussman J.L.;
+RT   "Crystal structure of an acetylcholinesterase-fasciculin complex:
+RT   interaction of a three-fingered toxin from snake venom with its
+RT   target.";
+RL   Structure 3:1355-1366(1995).
+RN   [14]
+RP   X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS) OF 22-558 IN COMPLEX WITH THE
+RP   INHIBITOR HUPERZINE A.
+RX   PubMed=8989325; DOI=10.1038/nsb0197-57;
+RA   Raves M.L., Harel M., Pang Y.P., Silman I., Kozikowski A.P.,
+RA   Sussman J.L.;
+RT   "Structure of acetylcholinesterase complexed with the nootropic
+RT   alkaloid, (-)-huperzine A.";
+RL   Nat. Struct. Biol. 4:57-63(1997).
+RN   [15]
+RP   X-RAY CRYSTALLOGRAPHY (2.7 ANGSTROMS) OF 22-558.
+RX   PubMed=10231521; DOI=10.1021/bi982723p;
+RA   Bartolucci C., Perola E., Cellai L., Brufani M., Lamba D.;
+RT   "'Back door' opening implied by the crystal structure of a
+RT   carbamoylated acetylcholinesterase.";
+RL   Biochemistry 38:5714-5719(1999).
+RN   [16]
+RP   X-RAY CRYSTALLOGRAPHY (2.3 ANGSTROMS) OF 22-558.
+RX   PubMed=10353814; DOI=10.1021/bi982678l;
+RA   Millard C.B., Kryger G., Ordentlich A., Greenblatt H.M., Harel M.,
+RA   Raves M.L., Segall Y., Barak D., Shafferman A., Silman I.,
+RA   Sussman J.L.;
+RT   "Crystal structures of aged phosphonylated acetylcholinesterase: nerve
+RT   agent reaction products at the atomic level.";
+RL   Biochemistry 38:7032-7039(1999).
+RN   [17]
+RP   X-RAY CRYSTALLOGRAPHY (2.3 ANGSTROMS) OF 22-564 IN COMPLEX WITH
+RP   GALANTHAMINE.
+RX   PubMed=10606746; DOI=10.1016/S0014-5793(99)01637-3;
+RA   Greenblatt H.M., Kryger G., Lewis T., Silman I., Sussman J.L.;
+RT   "Structure of acetylcholinesterase complexed with (-)-galanthamine at
+RT   2.3-A resolution.";
+RL   FEBS Lett. 463:321-326(1999).
+RN   [18]
+RP   X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS) OF 22-564 IN COMPLEX WITH THE
+RP   SYNTHETIC INHIBITOR ARICEPT, AND GLYCOSYLATION AT ASN-80; ASN-437;
+RP   ASN-478 AND ASN-554.
+RX   PubMed=10368299; DOI=10.1016/S0969-2126(99)80040-9;
+RA   Kryger G., Silman I., Sussman J.L.;
+RT   "Structure of acetylcholinesterase complexed with E2020 (Aricept(R)):
+RT   implications for the design of new anti-Alzheimer drugs.";
+RL   Structure 7:297-307(1999).
+RN   [19]
+RP   X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS) OF 22-564 IN COMPLEX WITH THE
+RP   SYNTHETIC INHIBITOR HUPRINE.
+RX   PubMed=11863435; DOI=10.1021/bi011652i;
+RA   Dvir H., Wong D.M., Harel M., Barril X., Orozco M., Luque F.J.,
+RA   Munoz-Torrero D., Camps P., Rosenberry T.L., Silman I., Sussman J.L.;
+RT   "3D structure of Torpedo californica acetylcholinesterase complexed
+RT   with huprine X at 2.1 A resolution: kinetic and molecular dynamic
+RT   correlates.";
+RL   Biochemistry 41:2970-2981(2002).
+RN   [20]
+RP   X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) OF 25-556 IN COMPLEX WITH THE
+RP   SYNTHETIC INHIBITOR RIVASTIGMINE.
+RX   PubMed=11888271; DOI=10.1021/bi020016x;
+RA   Bar-On P., Millard C.B., Harel M., Dvir H., Enz A., Sussman J.L.,
+RA   Silman I.;
+RT   "Kinetic and structural studies on the interaction of cholinesterases
+RT   with the anti-Alzheimer drug rivastigmine.";
+RL   Biochemistry 41:3555-3564(2002).
+RN   [21]
+RP   X-RAY CRYSTALLOGRAPHY (2.61 ANGSTROMS) OF 22-564 IN COMPLEX WITH THE
+RP   SYNTHETIC INHIBITOR CPT-11.
+RX   PubMed=15772291; DOI=10.1124/mol.104.009944;
+RA   Harel M., Hyatt J.L., Brumshtein B., Morton C.L., Yoon K.J.,
+RA   Wadkins R.M., Silman I., Sussman J.L., Potter P.M.;
+RT   "The crystal structure of the complex of the anticancer prodrug 7-
+RT   ethyl-10-[4-(1-piperidino)-1-piperidino]-carbonyloxycamptothecin (CPT-
+RT   11) with Torpedo californica acetylcholinesterase provides a molecular
+RT   explanation for its cholinergic action.";
+RL   Mol. Pharmacol. 67:1874-1881(2005).
+RN   [22]
+RP   X-RAY CRYSTALLOGRAPHY (1.95 ANGSTROMS) OF 22-558 IN COMPLEXES WITH
+RP   SUBSTRATE AND SUBSTRATE ANALOGS, GLYCOSYLATION AT ASN-80 AND ASN-437,
+RP   ACTIVE SITE, AND ENZYME REGULATION.
+RX   PubMed=16763558; DOI=10.1038/sj.emboj.7601175;
+RA   Colletier J.-P., Fournier D., Greenblatt H.M., Stojan J.,
+RA   Sussman J.L., Zaccai G., Silman I., Weik M.;
+RT   "Structural insights into substrate traffic and inhibition in
+RT   acetylcholinesterase.";
+RL   EMBO J. 25:2746-2756(2006).
+RN   [23]
+RP   X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) OF 22-558 IN COMPLEX WITH SOMAN,
+RP   ACTIVE SITE, AND DISULFIDE BONDS.
+RX   PubMed=19642642; DOI=10.1021/jm900433t;
+RA   Sanson B., Nachon F., Colletier J.P., Froment M.T., Toker L.,
+RA   Greenblatt H.M., Sussman J.L., Ashani Y., Masson P., Silman I.,
+RA   Weik M.;
+RT   "Crystallographic snapshots of nonaged and aged conjugates of soman
+RT   with acetylcholinesterase, and of a ternary complex of the aged
+RT   conjugate with pralidoxime.";
+RL   J. Med. Chem. 52:7593-7603(2009).
+RN   [24]
+RP   X-RAY CRYSTALLOGRAPHY (2.19 ANGSTROMS) OF 23-556 IN COMPLEX WITH
+RP   GALANTHAMINE DERIVATIVES.
+RX   PubMed=20025280; DOI=10.1021/jm901296p;
+RA   Bartolucci C., Haller L.A., Jordis U., Fels G., Lamba D.;
+RT   "Probing Torpedo californica acetylcholinesterase catalytic gorge with
+RT   two novel bis-functional galanthamine derivatives.";
+RL   J. Med. Chem. 53:745-751(2010).
+CC   -!- FUNCTION: Terminates signal transduction at the neuromuscular
+CC       junction by rapid hydrolysis of the acetylcholine released into
+CC       the synaptic cleft. May be involved in cell-cell interactions.
+CC   -!- CATALYTIC ACTIVITY: Acetylcholine + H(2)O = choline + acetate.
+CC   -!- ENZYME REGULATION: Inhibited by substrate concentrations above 0.5
+CC       mM. {ECO:0000269|PubMed:16763558}.
+CC   -!- SUBUNIT: Isoform H form is a homodimer; the asymmetric form is a
+CC       disulfide-bonded oligomer composed of a collagenic subunit (Q) and
+CC       a variable number of T catalytic subunits.
+CC       {ECO:0000269|PubMed:10368299, ECO:0000269|PubMed:10606746,
+CC       ECO:0000269|PubMed:11863435, ECO:0000269|PubMed:11888271,
+CC       ECO:0000269|PubMed:15772291, ECO:0000269|PubMed:1678899,
+CC       ECO:0000269|PubMed:19642642, ECO:0000269|PubMed:20025280,
+CC       ECO:0000269|PubMed:8415649, ECO:0000269|PubMed:8747462,
+CC       ECO:0000269|PubMed:8989325}.
+CC   -!- SUBCELLULAR LOCATION: Isoform H: Cell membrane; Lipid-anchor, GPI-
+CC       anchor. Cell junction, synapse.
+CC   -!- SUBCELLULAR LOCATION: Isoform T: Cell membrane; Peripheral
+CC       membrane protein. Cell junction, synapse. Note=Attached to the
+CC       membrane through disulfide linkage with the collagenic subunit,
+CC       itself bound to the membrane.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC         Comment=Additional isoforms seem to exist.;
+CC       Name=H; Synonyms=Globular;
+CC         IsoId=P04058-1; Sequence=Displayed;
+CC         Note=GPI-anchored form.;
+CC       Name=T;
+CC         IsoId=P04058-2; Sequence=VSP_001460;
+CC   -!- TISSUE SPECIFICITY: Found in the synapses and to a lower extent in
+CC       extrajunctional areas of muscle and nerve, and on erythrocyte
+CC       membranes.
+CC   -!- PTM: An interchain disulfide bond is present in what becomes
+CC       position 593 of the T isoform.
+CC   -!- SIMILARITY: Belongs to the type-B carboxylesterase/lipase family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X03439; CAA27169.1; -; mRNA.
+DR   EMBL; X56516; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; X56517; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   PIR; A00773; ACRYE.
+DR   PDB; 1ACJ; X-ray; 2.80 A; A=22-556.
+DR   PDB; 1ACL; X-ray; 2.80 A; A=22-556.
+DR   PDB; 1AMN; X-ray; 2.80 A; A=22-558.
+DR   PDB; 1AX9; X-ray; 2.80 A; A=22-558.
+DR   PDB; 1CFJ; X-ray; 2.60 A; A=22-558.
+DR   PDB; 1DX6; X-ray; 2.30 A; A=22-564.
+DR   PDB; 1E3Q; X-ray; 2.85 A; A=22-564.
+DR   PDB; 1E66; X-ray; 2.10 A; A=22-564.
+DR   PDB; 1EA5; X-ray; 1.80 A; A=22-558.
+DR   PDB; 1EEA; X-ray; 4.50 A; A=22-555.
+DR   PDB; 1EVE; X-ray; 2.50 A; A=22-564.
+DR   PDB; 1FSS; X-ray; 3.00 A; A=22-558.
+DR   PDB; 1GPK; X-ray; 2.10 A; A=22-558.
+DR   PDB; 1GPN; X-ray; 2.35 A; A=22-558.
+DR   PDB; 1GQR; X-ray; 2.20 A; A=25-556.
+DR   PDB; 1GQS; X-ray; 3.00 A; A=25-556.
+DR   PDB; 1H22; X-ray; 2.15 A; A=22-564.
+DR   PDB; 1H23; X-ray; 2.15 A; A=22-564.
+DR   PDB; 1HBJ; X-ray; 2.50 A; A=22-564.
+DR   PDB; 1JGA; Model; -; A=1-586.
+DR   PDB; 1JGB; Model; -; A=1-586.
+DR   PDB; 1JJB; X-ray; 2.30 A; A=25-556.
+DR   PDB; 1OCE; X-ray; 2.70 A; A=22-558.
+DR   PDB; 1ODC; X-ray; 2.20 A; A=22-564.
+DR   PDB; 1QID; X-ray; 2.05 A; A=22-558.
+DR   PDB; 1QIE; X-ray; 2.10 A; A=22-558.
+DR   PDB; 1QIF; X-ray; 2.10 A; A=22-558.
+DR   PDB; 1QIG; X-ray; 2.30 A; A=22-558.
+DR   PDB; 1QIH; X-ray; 2.50 A; A=22-558.
+DR   PDB; 1QII; X-ray; 2.65 A; A=22-558.
+DR   PDB; 1QIJ; X-ray; 2.80 A; A=22-558.
+DR   PDB; 1QIK; X-ray; 2.90 A; A=22-558.
+DR   PDB; 1QIM; X-ray; 3.00 A; A=22-558.
+DR   PDB; 1QTI; X-ray; 2.50 A; A=22-558.
+DR   PDB; 1SOM; X-ray; 2.20 A; A=22-564.
+DR   PDB; 1U65; X-ray; 2.61 A; A=22-564.
+DR   PDB; 1UT6; X-ray; 2.40 A; A=22-556.
+DR   PDB; 1VOT; X-ray; 2.50 A; A=22-558.
+DR   PDB; 1VXO; X-ray; 2.40 A; A=22-558.
+DR   PDB; 1VXR; X-ray; 2.20 A; A=22-558.
+DR   PDB; 1W4L; X-ray; 2.16 A; A=22-564.
+DR   PDB; 1W6R; X-ray; 2.05 A; A=22-564.
+DR   PDB; 1W75; X-ray; 2.40 A; A/B=22-564.
+DR   PDB; 1W76; X-ray; 2.30 A; A/B=22-564.
+DR   PDB; 1ZGB; X-ray; 2.30 A; A=22-564.
+DR   PDB; 1ZGC; X-ray; 2.10 A; A/B=22-564.
+DR   PDB; 2ACE; X-ray; 2.50 A; A=22-558.
+DR   PDB; 2ACK; X-ray; 2.40 A; A=22-558.
+DR   PDB; 2BAG; X-ray; 2.40 A; A=22-564.
+DR   PDB; 2C4H; X-ray; 2.15 A; A=22-558.
+DR   PDB; 2C58; X-ray; 2.30 A; A=22-558.
+DR   PDB; 2C5F; X-ray; 2.60 A; A=22-558.
+DR   PDB; 2C5G; X-ray; 1.95 A; A=22-558.
+DR   PDB; 2CEK; X-ray; 2.20 A; A=22-556.
+DR   PDB; 2CKM; X-ray; 2.15 A; A=22-564.
+DR   PDB; 2CMF; X-ray; 2.50 A; A=22-564.
+DR   PDB; 2DFP; X-ray; 2.30 A; A=23-556.
+DR   PDB; 2J3D; X-ray; 2.60 A; A=22-564.
+DR   PDB; 2J3Q; X-ray; 2.80 A; A=22-564.
+DR   PDB; 2J4F; X-ray; 2.80 A; A=22-564.
+DR   PDB; 2V96; X-ray; 2.40 A; A/B=22-558.
+DR   PDB; 2V97; X-ray; 2.40 A; A/B=22-558.
+DR   PDB; 2V98; X-ray; 3.00 A; A/B=22-558.
+DR   PDB; 2VA9; X-ray; 2.40 A; A/B=22-558.
+DR   PDB; 2VJA; X-ray; 2.30 A; A/B=22-558.
+DR   PDB; 2VJB; X-ray; 2.39 A; A/B=22-558.
+DR   PDB; 2VJC; X-ray; 2.20 A; A/B=22-558.
+DR   PDB; 2VJD; X-ray; 2.30 A; A/B=22-558.
+DR   PDB; 2VQ6; X-ray; 2.71 A; A=22-564.
+DR   PDB; 2VT6; X-ray; 2.40 A; A/B=22-558.
+DR   PDB; 2VT7; X-ray; 2.20 A; A/B=22-558.
+DR   PDB; 2W6C; X-ray; 2.69 A; X=1-586.
+DR   PDB; 2W9I; X-ray; 2.43 A; A=1-586.
+DR   PDB; 2WFZ; X-ray; 1.95 A; A=22-558.
+DR   PDB; 2WG0; X-ray; 2.20 A; A=22-558.
+DR   PDB; 2WG1; X-ray; 2.20 A; A=22-558.
+DR   PDB; 2WG2; X-ray; 1.95 A; A=22-558.
+DR   PDB; 2XI4; X-ray; 2.30 A; A/B=22-558.
+DR   PDB; 3ACE; Model; -; A=22-558.
+DR   PDB; 3GEL; X-ray; 2.39 A; A=25-556.
+DR   PDB; 3I6M; X-ray; 2.26 A; A=23-556.
+DR   PDB; 3I6Z; X-ray; 2.19 A; A=23-556.
+DR   PDB; 3M3D; X-ray; 2.34 A; A=22-564.
+DR   PDB; 3ZV7; X-ray; 2.26 A; A=22-564.
+DR   PDB; 4ACE; Model; -; A=22-558.
+DR   PDB; 4TVK; X-ray; 2.30 A; A=23-556.
+DR   PDBsum; 1ACJ; -.
+DR   PDBsum; 1ACL; -.
+DR   PDBsum; 1AMN; -.
+DR   PDBsum; 1AX9; -.
+DR   PDBsum; 1CFJ; -.
+DR   PDBsum; 1DX6; -.
+DR   PDBsum; 1E3Q; -.
+DR   PDBsum; 1E66; -.
+DR   PDBsum; 1EA5; -.
+DR   PDBsum; 1EEA; -.
+DR   PDBsum; 1EVE; -.
+DR   PDBsum; 1FSS; -.
+DR   PDBsum; 1GPK; -.
+DR   PDBsum; 1GPN; -.
+DR   PDBsum; 1GQR; -.
+DR   PDBsum; 1GQS; -.
+DR   PDBsum; 1H22; -.
+DR   PDBsum; 1H23; -.
+DR   PDBsum; 1HBJ; -.
+DR   PDBsum; 1JGA; -.
+DR   PDBsum; 1JGB; -.
+DR   PDBsum; 1JJB; -.
+DR   PDBsum; 1OCE; -.
+DR   PDBsum; 1ODC; -.
+DR   PDBsum; 1QID; -.
+DR   PDBsum; 1QIE; -.
+DR   PDBsum; 1QIF; -.
+DR   PDBsum; 1QIG; -.
+DR   PDBsum; 1QIH; -.
+DR   PDBsum; 1QII; -.
+DR   PDBsum; 1QIJ; -.
+DR   PDBsum; 1QIK; -.
+DR   PDBsum; 1QIM; -.
+DR   PDBsum; 1QTI; -.
+DR   PDBsum; 1SOM; -.
+DR   PDBsum; 1U65; -.
+DR   PDBsum; 1UT6; -.
+DR   PDBsum; 1VOT; -.
+DR   PDBsum; 1VXO; -.
+DR   PDBsum; 1VXR; -.
+DR   PDBsum; 1W4L; -.
+DR   PDBsum; 1W6R; -.
+DR   PDBsum; 1W75; -.
+DR   PDBsum; 1W76; -.
+DR   PDBsum; 1ZGB; -.
+DR   PDBsum; 1ZGC; -.
+DR   PDBsum; 2ACE; -.
+DR   PDBsum; 2ACK; -.
+DR   PDBsum; 2BAG; -.
+DR   PDBsum; 2C4H; -.
+DR   PDBsum; 2C58; -.
+DR   PDBsum; 2C5F; -.
+DR   PDBsum; 2C5G; -.
+DR   PDBsum; 2CEK; -.
+DR   PDBsum; 2CKM; -.
+DR   PDBsum; 2CMF; -.
+DR   PDBsum; 2DFP; -.
+DR   PDBsum; 2J3D; -.
+DR   PDBsum; 2J3Q; -.
+DR   PDBsum; 2J4F; -.
+DR   PDBsum; 2V96; -.
+DR   PDBsum; 2V97; -.
+DR   PDBsum; 2V98; -.
+DR   PDBsum; 2VA9; -.
+DR   PDBsum; 2VJA; -.
+DR   PDBsum; 2VJB; -.
+DR   PDBsum; 2VJC; -.
+DR   PDBsum; 2VJD; -.
+DR   PDBsum; 2VQ6; -.
+DR   PDBsum; 2VT6; -.
+DR   PDBsum; 2VT7; -.
+DR   PDBsum; 2W6C; -.
+DR   PDBsum; 2W9I; -.
+DR   PDBsum; 2WFZ; -.
+DR   PDBsum; 2WG0; -.
+DR   PDBsum; 2WG1; -.
+DR   PDBsum; 2WG2; -.
+DR   PDBsum; 2XI4; -.
+DR   PDBsum; 3ACE; -.
+DR   PDBsum; 3GEL; -.
+DR   PDBsum; 3I6M; -.
+DR   PDBsum; 3I6Z; -.
+DR   PDBsum; 3M3D; -.
+DR   PDBsum; 3ZV7; -.
+DR   PDBsum; 4ACE; -.
+DR   PDBsum; 4TVK; -.
+DR   ProteinModelPortal; P04058; -.
+DR   SMR; P04058; 23-556.
+DR   MINT; MINT-1518870; -.
+DR   BindingDB; P04058; -.
+DR   ChEMBL; CHEMBL4780; -.
+DR   ESTHER; torca-ACHE; AChE.
+DR   MEROPS; S09.980; -.
+DR   HOVERGEN; HBG008839; -.
+DR   BioCyc; MetaCyc:MONOMER-16823; -.
+DR   BRENDA; 3.1.1.7; 6395.
+DR   EvolutionaryTrace; P04058; -.
+DR   GO; GO:0031225; C:anchored component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0030054; C:cell junction; IEA:UniProtKB-KW.
+DR   GO; GO:0005886; C:plasma membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0043083; C:synaptic cleft; IEA:GOC.
+DR   GO; GO:0003990; F:acetylcholinesterase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0001507; P:acetylcholine catabolic process in synaptic cleft; IEA:InterPro.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR000908; Acylcholinesterase_fish/snake.
+DR   InterPro; IPR002018; CarbesteraseB.
+DR   InterPro; IPR019826; Carboxylesterase_B_AS.
+DR   InterPro; IPR019819; Carboxylesterase_B_CS.
+DR   InterPro; IPR000997; Cholinesterase.
+DR   Pfam; PF00135; COesterase; 1.
+DR   PRINTS; PR00879; ACHEFISH.
+DR   PRINTS; PR00878; CHOLNESTRASE.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+DR   PROSITE; PS00122; CARBOXYLESTERASE_B_1; 1.
+DR   PROSITE; PS00941; CARBOXYLESTERASE_B_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Cell junction; Cell membrane;
+KW   Direct protein sequencing; Disulfide bond; Glycoprotein; GPI-anchor;
+KW   Hydrolase; Lipoprotein; Membrane; Neurotransmitter degradation;
+KW   Serine esterase; Signal; Synapse.
+FT   SIGNAL        1     21       {ECO:0000269|PubMed:3900071}.
+FT   CHAIN        22    564       Acetylcholinesterase.
+FT                                /FTId=PRO_0000008595.
+FT   PROPEP      565    586       Removed in mature form.
+FT                                /FTId=PRO_0000008596.
+FT   ACT_SITE    221    221       Acyl-ester intermediate.
+FT   ACT_SITE    348    348       Charge relay system.
+FT   ACT_SITE    461    461       Charge relay system.
+FT   LIPID       564    564       GPI-anchor amidated serine.
+FT                                {ECO:0000269|PubMed:8597567}.
+FT   CARBOHYD     80     80       N-linked (GlcNAc...).
+FT                                {ECO:0000269|PubMed:10368299,
+FT                                ECO:0000269|PubMed:16763558}.
+FT   CARBOHYD    437    437       N-linked (GlcNAc...).
+FT                                {ECO:0000269|PubMed:10368299,
+FT                                ECO:0000269|PubMed:16763558,
+FT                                ECO:0000269|PubMed:1678899}.
+FT   CARBOHYD    478    478       N-linked (GlcNAc...).
+FT                                {ECO:0000269|PubMed:10368299}.
+FT   CARBOHYD    554    554       N-linked (GlcNAc...).
+FT                                {ECO:0000269|PubMed:10368299}.
+FT   DISULFID     88    115
+FT   DISULFID    275    286
+FT   DISULFID    423    542
+FT   DISULFID    558    558       Interchain.
+FT   VAR_SEQ     557    586       ACDGELSSSGTSSSKGIIFYVLFSILYLIF -> ETIDEAE
+FT                                RQWKTEFHRWSSYMMHWKNQFDHYSRHESCAEL (in
+FT                                isoform T). {ECO:0000305}.
+FT                                /FTId=VSP_001460.
+FT   MUTAGEN     220    220       E->H: Loss of activity.
+FT                                {ECO:0000269|PubMed:2217185}.
+FT   MUTAGEN     220    220       E->Q,D: Decrease in activity.
+FT                                {ECO:0000269|PubMed:2217185}.
+FT   MUTAGEN     221    221       S->C: Loss of activity.
+FT                                {ECO:0000269|PubMed:2217185}.
+FT   MUTAGEN     221    221       S->V: Loss of activity.
+FT                                {ECO:0000269|PubMed:2217185}.
+FT   MUTAGEN     446    446       H->Q: Almost no loss of activity.
+FT                                {ECO:0000269|PubMed:2217185}.
+FT   MUTAGEN     461    461       H->Q: Loss of activity.
+FT                                {ECO:0000269|PubMed:2217185}.
+FT   STRAND       28     31       {ECO:0000244|PDB:1EA5}.
+FT   STRAND       34     37       {ECO:0000244|PDB:1EA5}.
+FT   STRAND       39     43       {ECO:0000244|PDB:1EA5}.
+FT   STRAND       46     55       {ECO:0000244|PDB:1EA5}.
+FT   HELIX        62     64       {ECO:0000244|PDB:1EA5}.
+FT   STRAND       76     80       {ECO:0000244|PDB:1EA5}.
+FT   STRAND       87     89       {ECO:0000244|PDB:2CMF}.
+FT   STRAND       95     98       {ECO:0000244|PDB:1OCE}.
+FT   HELIX       100    103       {ECO:0000244|PDB:1EA5}.
+FT   STRAND      111    113       {ECO:0000244|PDB:3ZV7}.
+FT   STRAND      117    122       {ECO:0000244|PDB:1EA5}.
+FT   STRAND      128    136       {ECO:0000244|PDB:1EA5}.
+FT   TURN        140    142       {ECO:0000244|PDB:1EA5}.
+FT   HELIX       149    151       {ECO:0000244|PDB:1EA5}.
+FT   HELIX       154    160       {ECO:0000244|PDB:1EA5}.
+FT   STRAND      163    166       {ECO:0000244|PDB:1EA5}.
+FT   HELIX       172    176       {ECO:0000244|PDB:1EA5}.
+FT   STRAND      183    185       {ECO:0000244|PDB:1EA5}.
+FT   HELIX       189    204       {ECO:0000244|PDB:1EA5}.
+FT   HELIX       205    208       {ECO:0000244|PDB:1EA5}.
+FT   STRAND      210    220       {ECO:0000244|PDB:1EA5}.
+FT   HELIX       222    232       {ECO:0000244|PDB:1EA5}.
+FT   HELIX       234    237       {ECO:0000244|PDB:1EA5}.
+FT   STRAND      241    247       {ECO:0000244|PDB:1EA5}.
+FT   TURN        253    255       {ECO:0000244|PDB:1QID}.
+FT   HELIX       259    272       {ECO:0000244|PDB:1EA5}.
+FT   HELIX       280    289       {ECO:0000244|PDB:1EA5}.
+FT   HELIX       292    298       {ECO:0000244|PDB:1EA5}.
+FT   HELIX       299    302       {ECO:0000244|PDB:1EA5}.
+FT   STRAND      304    306       {ECO:0000244|PDB:1EA5}.
+FT   STRAND      319    324       {ECO:0000244|PDB:1EA5}.
+FT   HELIX       326    332       {ECO:0000244|PDB:1EA5}.
+FT   STRAND      340    345       {ECO:0000244|PDB:1EA5}.
+FT   STRAND      347    349       {ECO:0000244|PDB:2WFZ}.
+FT   HELIX       350    356       {ECO:0000244|PDB:1EA5}.
+FT   STRAND      362    364       {ECO:0000244|PDB:2WG1}.
+FT   HELIX       370    380       {ECO:0000244|PDB:1EA5}.
+FT   HELIX       386    395       {ECO:0000244|PDB:1EA5}.
+FT   TURN        399    401       {ECO:0000244|PDB:2CMF}.
+FT   HELIX       405    420       {ECO:0000244|PDB:1EA5}.
+FT   HELIX       422    433       {ECO:0000244|PDB:1EA5}.
+FT   STRAND      435    437       {ECO:0000244|PDB:2J3Q}.
+FT   STRAND      439    444       {ECO:0000244|PDB:1EA5}.
+FT   HELIX       455    457       {ECO:0000244|PDB:1EA5}.
+FT   TURN        461    464       {ECO:0000244|PDB:1EA5}.
+FT   HELIX       465    468       {ECO:0000244|PDB:1EA5}.
+FT   HELIX       471    473       {ECO:0000244|PDB:1EA5}.
+FT   HELIX       475    477       {ECO:0000244|PDB:1EA5}.
+FT   HELIX       481    500       {ECO:0000244|PDB:1EA5}.
+FT   STRAND      501    504       {ECO:0000244|PDB:2CKM}.
+FT   TURN        518    520       {ECO:0000244|PDB:1EA5}.
+FT   STRAND      522    529       {ECO:0000244|PDB:1EA5}.
+FT   STRAND      533    536       {ECO:0000244|PDB:1EA5}.
+FT   HELIX       539    546       {ECO:0000244|PDB:1EA5}.
+FT   HELIX       548    555       {ECO:0000244|PDB:1EA5}.
+SQ   SEQUENCE   586 AA;  65906 MW;  731D5F0F3ABA62A8 CRC64;
+     MNLLVTSSLG VLLHLVVLCQ ADDHSELLVN TKSGKVMGTR VPVLSSHISA FLGIPFAEPP
+     VGNMRFRRPE PKKPWSGVWN ASTYPNNCQQ YVDEQFPGFS GSEMWNPNRE MSEDCLYLNI
+     WVPSPRPKST TVMVWIYGGG FYSGSSTLDV YNGKYLAYTE EVVLVSLSYR VGAFGFLALH
+     GSQEAPGNVG LLDQRMALQW VHDNIQFFGG DPKTVTIFGE SAGGASVGMH ILSPGSRDLF
+     RRAILQSGSP NCPWASVSVA EGRRRAVELG RNLNCNLNSD EELIHCLREK KPQELIDVEW
+     NVLPFDSIFR FSFVPVIDGE FFPTSLESML NSGNFKKTQI LLGVNKDEGS FFLLYGAPGF
+     SKDSESKISR EDFMSGVKLS VPHANDLGLD AVTLQYTDWM DDNNGIKNRD GLDDIVGDHN
+     VICPLMHFVN KYTKFGNGTY LYFFNHRASN LVWPEWMGVI HGYEIEFVFG LPLVKELNYT
+     AEEEALSRRI MHYWATFAKT GNPNEPHSQE SKWPLFTTKE QKFIDLNTEP MKVHQRLRVQ
+     MCVFWNQFLP KLLNATACDG ELSSSGTSSS KGIIFYVLFS ILYLIF
+//

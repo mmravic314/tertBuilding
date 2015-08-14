@@ -1,0 +1,96 @@
+ID   D1C4A9_SPHTD            Unreviewed;       243 AA.
+AC   D1C4A9;
+DT   19-JAN-2010, integrated into UniProtKB/TrEMBL.
+DT   19-JAN-2010, sequence version 1.
+DT   22-JUL-2015, entry version 48.
+DE   SubName: Full=Metallophosphoesterase {ECO:0000313|EMBL:ACZ39076.1};
+GN   OrderedLocusNames=Sthe_1642 {ECO:0000313|EMBL:ACZ39076.1};
+OS   Sphaerobacter thermophilus (strain DSM 20745 / S 6022).
+OC   Bacteria; Chloroflexi; Sphaerobacteridae; Sphaerobacterales;
+OC   Sphaerobacterineae; Sphaerobacteraceae; Sphaerobacter.
+OX   NCBI_TaxID=479434 {ECO:0000313|EMBL:ACZ39076.1, ECO:0000313|Proteomes:UP000002027};
+RN   [1] {ECO:0000313|Proteomes:UP000002027}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=DSM 20745 / S 6022 {ECO:0000313|Proteomes:UP000002027};
+RA   Lucas S., Copeland A., Lapidus A., Glavina del Rio T., Dalin E.,
+RA   Tice H., Bruce D., Goodwin L., Pitluck S., Kyrpides N., Mavromatis K.,
+RA   Ivanova N., Mikhailova N., LaButti K.M., Clum A., Sun H.I.,
+RA   Brettin T., Detter J.C., Han C., Larimer F., Land M., Hauser L.,
+RA   Markowitz V., Cheng J.F., Hugenholtz P., Woyke T., Wu D.,
+RA   Steenblock K., Schneider S., Pukall R., Goeker M., Klenk H.P.,
+RA   Eisen J.A.;
+RT   "The complete chromosome 1 of Sphaerobacter thermophilus DSM 20745.";
+RL   Submitted (NOV-2009) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000313|EMBL:ACZ39076.1, ECO:0000313|Proteomes:UP000002027}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=DSM 20745 / S 6022 {ECO:0000313|Proteomes:UP000002027};
+RX   PubMed=21304676;
+RA   Spring S., Nolan M., Lapidus A., Glavina Del Rio T., Copeland A.,
+RA   Tice H., Cheng J.F., Lucas S., Land M., Chen F., Bruce D., Goodwin L.,
+RA   Pitluck S., Ivanova N., Mavromatis K., Mikhailova N., Pati A.,
+RA   Chen A., Palaniappan K., Hauser L., Chang Y.J., Jeffries C.D.,
+RA   Munk C., Kiss H., Chain P., Han C., Brettin T., Detter J.C.,
+RA   Schuler E., Goker M., Rohde M., Bristow J., Eisen J.A., Markowitz V.,
+RA   Hugenholtz P., Kyrpides N.C., Klenk H.P.;
+RT   "Complete genome sequence of Desulfohalobium retbaense type strain
+RT   (HR(100)).";
+RL   Stand. Genomic Sci. 2:38-48(2010).
+RN   [3] {ECO:0000213|PDB:3RQZ}
+RP   X-RAY CRYSTALLOGRAPHY (1.95 ANGSTROMS) IN COMPLEX WITH ZINC.
+RA   Chang C., Wu R., Clancy S., Joachimiak A.;
+RT   "Crystal structure of metallophosphoesterase from Sphaerobacter
+RT   thermophilus.";
+RL   Submitted (APR-2011) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP001823; ACZ39076.1; -; Genomic_DNA.
+DR   RefSeq; WP_012872123.1; NC_013523.1.
+DR   PDB; 3RQZ; X-ray; 1.95 A; A/B/C=1-243.
+DR   PDBsum; 3RQZ; -.
+DR   ProteinModelPortal; D1C4A9; -.
+DR   STRING; 479434.Sthe_1642; -.
+DR   EnsemblBacteria; ACZ39076; ACZ39076; Sthe_1642.
+DR   KEGG; sti:Sthe_1642; -.
+DR   PATRIC; 32426079; VBISphThe120955_1655.
+DR   HOGENOM; HOG000218760; -.
+DR   OMA; RASITFH; -.
+DR   OrthoDB; EOG6RJV4B; -.
+DR   BioCyc; STHE479434:GHJN-1694-MONOMER; -.
+DR   Proteomes; UP000002027; Chromosome 1.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.60.21.10; -; 1.
+DR   InterPro; IPR024654; Calcineurin-like_PHP_lpxH.
+DR   InterPro; IPR029052; Metallo-depent_PP-like.
+DR   InterPro; IPR011152; Pesterase_MJ0912.
+DR   InterPro; IPR000979; Phosphodiesterase_MJ0936/Vps29.
+DR   PANTHER; PTHR11124; PTHR11124; 1.
+DR   Pfam; PF12850; Metallophos_2; 1.
+DR   PIRSF; PIRSF000883; Pesterase_MJ0912; 1.
+DR   SUPFAM; SSF56300; SSF56300; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3RQZ};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002027};
+KW   Metal-binding {ECO:0000213|PDB:3RQZ};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000002027};
+KW   Zinc {ECO:0000213|PDB:3RQZ}.
+FT   METAL         8      8       Zinc 1. {ECO:0000213|PDB:3RQZ}.
+FT   METAL        10     10       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3RQZ}.
+FT   METAL        34     34       Zinc 1. {ECO:0000213|PDB:3RQZ}.
+FT   METAL        34     34       Zinc 2. {ECO:0000213|PDB:3RQZ}.
+FT   METAL        61     61       Zinc 2. {ECO:0000213|PDB:3RQZ}.
+FT   METAL       114    114       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3RQZ}.
+FT   METAL       147    147       Zinc 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3RQZ}.
+FT   METAL       149    149       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3RQZ}.
+SQ   SEQUENCE   243 AA;  27115 MW;  E1D281413A8817EE CRC64;
+     MRILIISDVH ANLVALEAVL SDAGRVDDIW SLGDIVGYGP RPRECVELVR VLAPNISVIG
+     NHDWACIGRL SLDEFNPVAR FASYWTTMQL QAEHLQYLES LPNRMIDGDW TVVHGSPRHP
+     IWEYIYNARI AALNFPAFDT PLCFVGHTHV PLYIREDEAL SNVAPHHPND GEVLDVSSGR
+     YIINPGAVGQ PRDGDPRASY AIFEPDAQRV TFHRVEYRIA DTQAQMREAG LPESLVTRLA
+     AGV
+//

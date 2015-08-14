@@ -1,0 +1,127 @@
+ID   Q50EJ2_LACRE            Unreviewed;       188 AA.
+AC   Q50EJ2;
+DT   07-JUN-2005, integrated into UniProtKB/TrEMBL.
+DT   07-JUN-2005, sequence version 1.
+DT   24-JUN-2015, entry version 60.
+DE   SubName: Full=Cobalamin adenosyltransferase PduO-like protein {ECO:0000313|EMBL:AAX14514.1};
+GN   Name=cobA {ECO:0000313|EMBL:AAX14514.1};
+OS   Lactobacillus reuteri.
+OC   Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+OC   Lactobacillus.
+OX   NCBI_TaxID=1598 {ECO:0000313|EMBL:AAX14514.1};
+RN   [1] {ECO:0000313|EMBL:AAX14514.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=CRL1098 {ECO:0000313|EMBL:AAX14514.1};
+RA   Vera J.L., Santos F., Sesma F.J.M., Font de Valdez G., Hugenholtz J.;
+RL   Submitted (OCT-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:2R6T, ECO:0000213|PDB:2R6X}
+RP   X-RAY CRYSTALLOGRAPHY (2.61 ANGSTROMS) OF 2-188 IN COMPLEX WITH ATP
+RP   AND MAGNESIUM.
+RX   PubMed=17988155; DOI=10.1021/bi701622j;
+RA   Mera P.E., St Maurice M., Rayment I., Escalante-Semerena J.C.;
+RT   "Structural and functional analyses of the human-type corrinoid
+RT   adenosyltransferase (PduO) from Lactobacillus reuteri.";
+RL   Biochemistry 46:13829-13836(2007).
+RN   [3] {ECO:0000213|PDB:2NT8, ECO:0000313|EMBL:AAX14514.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=CRL1098 {ECO:0000313|EMBL:AAX14514.1};
+RX   PubMed=17121823; DOI=10.1074/jbc.M609557200;
+RA   St Maurice M., Mera P.E., Taranto M.P., Sesma F.,
+RA   Escalante-Semerena J.C., Rayment I.;
+RT   "Structural characterization of the active site of the PduO-type
+RT   ATP:Co(I)rrinoid adenosyltransferase from Lactobacillus reuteri.";
+RL   J. Biol. Chem. 282:2596-2605(2007).
+RN   [4] {ECO:0000213|PDB:3CI1, ECO:0000213|PDB:3CI3, ECO:0000213|PDB:3CI4}
+RP   X-RAY CRYSTALLOGRAPHY (1.11 ANGSTROMS) OF 2-188 IN COMPLEX WITH ATP.
+RX   PubMed=18452306; DOI=10.1021/bi800132d;
+RA   St Maurice M., Mera P., Park K., Brunold T.C.,
+RA   Escalante-Semerena J.C., Rayment I.;
+RT   "Structural characterization of a human-type corrinoid
+RT   adenosyltransferase confirms that coenzyme B12 is synthesized through
+RT   a four-coordinate intermediate.";
+RL   Biochemistry 47:5755-5766(2008).
+RN   [5] {ECO:0000213|PDB:3GAH, ECO:0000213|PDB:3GAI, ECO:0000213|PDB:3GAJ}
+RP   X-RAY CRYSTALLOGRAPHY (1.17 ANGSTROMS) OF 2-188 IN COMPLEX WITH ATP
+RP   AND MAGNESIUM.
+RX   PubMed=19236001; DOI=10.1021/bi9000134;
+RA   Mera P.E., St Maurice M., Rayment I., Escalante-Semerena J.C.;
+RT   "Residue Phe112 of the human-type corrinoid adenosyltransferase (PduO)
+RT   enzyme of Lactobacillus reuteri is critical to the formation of the
+RT   four-coordinate Co(II) corrinoid substrate and to the activity of the
+RT   enzyme.";
+RL   Biochemistry 48:3138-3145(2009).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AY780645; AAX14514.1; -; Genomic_DNA.
+DR   PDB; 2NT8; X-ray; 1.68 A; A=2-188.
+DR   PDB; 2R6T; X-ray; 2.61 A; A/B=2-188.
+DR   PDB; 2R6X; X-ray; 2.61 A; A/B=2-188.
+DR   PDB; 3CI1; X-ray; 1.90 A; A=2-188.
+DR   PDB; 3CI3; X-ray; 1.11 A; A=2-188.
+DR   PDB; 3CI4; X-ray; 2.00 A; A=2-188.
+DR   PDB; 3GAH; X-ray; 1.17 A; A=2-188.
+DR   PDB; 3GAI; X-ray; 1.48 A; A=2-188.
+DR   PDB; 3GAJ; X-ray; 1.38 A; A=2-181.
+DR   PDBsum; 2R6T; -.
+DR   PDBsum; 3GAJ; -.
+DR   ProteinModelPortal; Q50EJ2; -.
+DR   SMR; Q50EJ2; 2-182.
+DR   GeneID; 5188711; -.
+DR   SABIO-RK; Q50EJ2; -.
+DR   EvolutionaryTrace; Q50EJ2; -.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016740; F:transferase activity; IEA:UniProtKB-KW.
+DR   Gene3D; 1.20.1200.10; -; 1.
+DR   InterPro; IPR016030; AdoCbl_synth_CblAdoTrfase-like.
+DR   InterPro; IPR029499; PduO-typ.
+DR   Pfam; PF01923; Cob_adeno_trans; 1.
+DR   ProDom; PD007457; AdoCbl_syn_CblAdoTrfase_PduO_N; 1.
+DR   SUPFAM; SSF89028; SSF89028; 1.
+DR   TIGRFAMs; TIGR00636; PduO_Nterm; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2NT8, ECO:0000213|PDB:2R6T};
+KW   ATP-binding {ECO:0000213|PDB:2NT8, ECO:0000213|PDB:2R6T};
+KW   Magnesium {ECO:0000213|PDB:2NT8, ECO:0000213|PDB:2R6T};
+KW   Metal-binding {ECO:0000213|PDB:2NT8, ECO:0000213|PDB:2R6T};
+KW   Nucleotide-binding {ECO:0000213|PDB:2NT8, ECO:0000213|PDB:2R6T};
+KW   Transferase {ECO:0000313|EMBL:AAX14514.1}.
+FT   NP_BIND       5      8       ATP. {ECO:0000213|PDB:2NT8,
+FT                                ECO:0000213|PDB:2R6T,
+FT                                ECO:0000213|PDB:2R6X}.
+FT   NP_BIND      13     14       ATP. {ECO:0000213|PDB:2NT8,
+FT                                ECO:0000213|PDB:2R6T,
+FT                                ECO:0000213|PDB:2R6X}.
+FT   NP_BIND      28     31       ATP. {ECO:0000213|PDB:2NT8,
+FT                                ECO:0000213|PDB:3CI1,
+FT                                ECO:0000213|PDB:3CI4}.
+FT   NP_BIND     132    136       ATP. {ECO:0000213|PDB:2NT8,
+FT                                ECO:0000213|PDB:2R6T,
+FT                                ECO:0000213|PDB:2R6X}.
+FT   METAL         3      3       Magnesium 1; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:2R6T,
+FT                                ECO:0000213|PDB:2R6X}.
+FT   METAL        76     76       Magnesium 2; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:3GAH}.
+FT   METAL        77     77       Magnesium 2; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:3GAH}.
+FT   METAL        79     79       Magnesium 2; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:3GAH}.
+FT   METAL        82     82       Magnesium 2; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:3GAH}.
+FT   METAL       160    160       Magnesium 1. {ECO:0000213|PDB:2R6T,
+FT                                ECO:0000213|PDB:2R6X}.
+FT   BINDING      23     23       ATP. {ECO:0000213|PDB:2NT8,
+FT                                ECO:0000213|PDB:2R6T,
+FT                                ECO:0000213|PDB:2R6X}.
+FT   BINDING     156    156       ATP. {ECO:0000213|PDB:2NT8,
+FT                                ECO:0000213|PDB:2R6T,
+FT                                ECO:0000213|PDB:2R6X}.
+SQ   SEQUENCE   188 AA;  21872 MW;  0A524D5970B92616 CRC64;
+     MKIYTKNGDK GQTRIIGKQI LYKNDPRVAA YGEVDELNSW VGYTKSLINS HTQVLSNELE
+     EIQQLLFDCG HDLATPADDE RHSFKFKQEQ PTVWLEEKID NYTQVVPAVK KFILPGGTQL
+     ASALHVARTI TRRAERQIVQ LMREEQINQD VLIFINRLSD YFFAAARYAN YLEQQPDMLY
+     RNSKDVFR
+//

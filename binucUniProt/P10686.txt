@@ -1,0 +1,373 @@
+ID   PLCG1_RAT               Reviewed;        1290 AA.
+AC   P10686;
+DT   01-JUL-1989, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUL-1989, sequence version 1.
+DT   22-JUL-2015, entry version 174.
+DE   RecName: Full=1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-1;
+DE            EC=3.1.4.11;
+DE   AltName: Full=Phosphoinositide phospholipase C-gamma-1;
+DE   AltName: Full=Phospholipase C-gamma-1;
+DE            Short=PLC-gamma-1;
+GN   Name=Plcg1;
+OS   Rattus norvegicus (Rat).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Rattus.
+OX   NCBI_TaxID=10116;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=2840660; DOI=10.1073/pnas.85.15.5419;
+RA   Suh P.-G., Ryu S.H., Moon K.H., Suh H.W., Rhee S.G.;
+RT   "Inositol phospholipid-specific phospholipase C: complete cDNA and
+RT   protein sequences and sequence homology to tyrosine kinase-related
+RT   oncogene products.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 85:5419-5423(1988).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-29.
+RX   PubMed=8392838; DOI=10.1006/bbrc.1993.1818;
+RA   Lee S.J., Ryu S.H., Suh P.G.;
+RT   "Promoter region of the rat phospholipase C-gamma 1 gene.";
+RL   Biochem. Biophys. Res. Commun. 194:294-300(1993).
+RN   [3]
+RP   INTERACTION WITH FGFR4, AND PHOSPHORYLATION.
+RX   PubMed=7518429;
+RA   Vainikka S., Joukov V., Wennstrom S., Bergman M., Pelicci P.G.,
+RA   Alitalo K.;
+RT   "Signal transduction by fibroblast growth factor receptor-4 (FGFR-4).
+RT   Comparison with FGFR-1.";
+RL   J. Biol. Chem. 269:18320-18326(1994).
+RN   [4]
+RP   INTERACTION WITH AGAP2, AND MUTAGENESIS OF PRO-842.
+RX   PubMed=11823862; DOI=10.1038/415541a;
+RA   Ye K., Aghdasi B., Luo H.R., Moriarity J.L., Wu F.Y., Hong J.J.,
+RA   Hurt K.J., Bae S.S., Suh P.-G., Snyder S.H.;
+RT   "Phospholipase C gamma 1 is a physiological guanine nucleotide
+RT   exchange factor for the nuclear GTPase PIKE.";
+RL   Nature 415:541-544(2002).
+RN   [5]
+RP   STRUCTURE BY NMR OF 489-553 AND 663-759.
+RX   PubMed=16500902; DOI=10.1074/jbc.M600336200;
+RA   Wen W., Yan J., Zhang M.;
+RT   "Structural characterization of the split pleckstrin homology domain
+RT   in phospholipase C-gamma1 and its interaction with TRPC3.";
+RL   J. Biol. Chem. 281:12060-12068(2006).
+CC   -!- FUNCTION: Mediates the production of the second messenger
+CC       molecules diacylglycerol (DAG) and inositol 1,4,5-trisphosphate
+CC       (IP3). Plays an important role in the regulation of intracellular
+CC       signaling cascades. Becomes activated in response to ligand-
+CC       mediated activation of receptor-type tyrosine kinases, such as
+CC       PDGFRA, PDGFRB, FGFR1, FGFR2, FGFR3 and FGFR4. Plays a role in
+CC       actin reorganization and cell migration (By similarity).
+CC       {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: 1-phosphatidyl-1D-myo-inositol 4,5-
+CC       bisphosphate + H(2)O = 1D-myo-inositol 1,4,5-trisphosphate +
+CC       diacylglycerol.
+CC   -!- COFACTOR:
+CC       Name=Ca(2+); Xref=ChEBI:CHEBI:29108;
+CC   -!- ENZYME REGULATION: Activated by phosphorylation on tyrosine
+CC       residues. {ECO:0000250}.
+CC   -!- SUBUNIT: Interacts (via SH2 domain) with FGFR1, FGFR2, FGFR3 and
+CC       FGFR4 (phosphorylated). Interacts (via SH3 domain) with AGAP2.
+CC       Interacts with LAT (phosphorylated) upon TCR activation. Interacts
+CC       (via SH3 domain) with the Pro-rich domain of TNK1. Associates with
+CC       BLNK, VAV1, GRB2 and NCK1 in a B-cell antigen receptor-dependent
+CC       fashion. Interacts with CBLB in activated T-cells; which inhibits
+CC       phosphorylation. Interacts with SHB. Interacts (via SH3 domain)
+CC       with the Arg/Gly-rich-flanked Pro-rich domains of KHDRBS1/SAM68.
+CC       This interaction is selectively regulated by arginine methylation
+CC       of KHDRBS1/SAM68. Interacts with INPP5D/SHIP1, THEMIS and CLNK (By
+CC       similarity). Interacts with RALGPS1. Interacts (via the SH2
+CC       domains) with VIL1 (phosphorylated at C-terminus tyrosine
+CC       phosphorylation sites). Interacts (via SH2 domain) with RET (By
+CC       similarity). Interacts with FLT1 (tyrosine-phosphorylated).
+CC       Interacts with AXL, FLT4 and KIT. Interacts (via SH2 domain) with
+CC       PDGFRA and PDGFRB (tyrosine phosphorylated) (By similarity).
+CC       Interacts with PIP5K1C (By similarity). Interacts with NTRK1 and
+CC       NTRK2 (phosphorylated upon ligand-binding) (By similarity).
+CC       Interacts with SYK; activates PLCG1 (By similarity). Interacts
+CC       with TESPA1 (By similarity). Interacts with GRB2, LAT and THEMIS
+CC       upon TCR activation in thymocytes (By similarity). {ECO:0000250}.
+CC   -!- INTERACTION:
+CC       P11362:FGFR1 (xeno); NbExp=4; IntAct=EBI-520788, EBI-1028277;
+CC       Q04589:Fgfr1; NbExp=2; IntAct=EBI-520788, EBI-2480918;
+CC       Q62120:Jak2 (xeno); NbExp=3; IntAct=EBI-520788, EBI-646604;
+CC       P18031:PTPN1 (xeno); NbExp=4; IntAct=EBI-520788, EBI-968788;
+CC       Q13507:TRPC3 (xeno); NbExp=2; IntAct=EBI-520788, EBI-520807;
+CC   -!- SUBCELLULAR LOCATION: Cell projection, lamellipodium
+CC       {ECO:0000250}. Cell projection, ruffle {ECO:0000250}. Note=Rapidly
+CC       redistributed to ruffles and lamellipodia structures in response
+CC       to epidermal growth factor (EGF) treatment. {ECO:0000250}.
+CC   -!- DOMAIN: The SH3 domain mediates interaction with CLNK and RALGPS1.
+CC       {ECO:0000250}.
+CC   -!- PTM: May be dephosphorylated by PTPRJ (By similarity). Tyrosine
+CC       phosphorylated by activated FGFR1, FGFR2, FGFR3 and FGFR4. The
+CC       receptor-mediated activation of PLCG1 involves its phosphorylation
+CC       by tyrosine kinases in response to ligation of a variety of growth
+CC       factor receptors and immune system receptors. For instance, SYK
+CC       phosphorylates and activates PLCG1 in response to ligation of the
+CC       B-cell receptor. Tyrosine phosphorylated in response to signaling
+CC       via activated FLT1, FLT3, KIT and PDGFRB. Phosphorylated by ITK
+CC       and TXK on Tyr-783 upon TCR activation in T-cells (By similarity).
+CC       {ECO:0000250}.
+CC   -!- PTM: Ubiquitinated by CBLB in activated T-cells. {ECO:0000250}.
+CC   -!- SIMILARITY: Contains 1 C2 domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00041}.
+CC   -!- SIMILARITY: Contains 1 EF-hand domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00448}.
+CC   -!- SIMILARITY: Contains 2 PH domains. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00145}.
+CC   -!- SIMILARITY: Contains 1 PI-PLC X-box domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00270}.
+CC   -!- SIMILARITY: Contains 1 PI-PLC Y-box domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00271}.
+CC   -!- SIMILARITY: Contains 2 SH2 domains. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00191}.
+CC   -!- SIMILARITY: Contains 1 SH3 domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00192}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; J03806; AAA41921.1; -; mRNA.
+DR   EMBL; L14476; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   PIR; A31317; A31317.
+DR   RefSeq; NP_037319.1; NM_013187.1.
+DR   UniGene; Rn.11243; -.
+DR   PDB; 1Y0M; X-ray; 1.20 A; A=791-851.
+DR   PDB; 1YWO; X-ray; 1.81 A; A=790-851.
+DR   PDB; 1YWP; X-ray; 1.60 A; A=790-851.
+DR   PDB; 2FJL; NMR; -; A=489-547, A=851-933.
+DR   PDB; 3GQI; X-ray; 2.50 A; B=545-770.
+DR   PDB; 4K44; X-ray; 1.70 A; A/B=664-766.
+DR   PDB; 4K45; X-ray; 1.50 A; A=664-766, B=770-787.
+DR   PDBsum; 1Y0M; -.
+DR   PDBsum; 1YWO; -.
+DR   PDBsum; 1YWP; -.
+DR   PDBsum; 2FJL; -.
+DR   PDBsum; 3GQI; -.
+DR   PDBsum; 4K44; -.
+DR   PDBsum; 4K45; -.
+DR   ProteinModelPortal; P10686; -.
+DR   SMR; P10686; 320-454, 489-658, 663-759, 795-848, 851-933.
+DR   BioGrid; 247766; 1.
+DR   DIP; DIP-2863N; -.
+DR   IntAct; P10686; 10.
+DR   MINT; MINT-231720; -.
+DR   STRING; 10116.ENSRNOP00000022276; -.
+DR   BindingDB; P10686; -.
+DR   ChEMBL; CHEMBL5188; -.
+DR   PhosphoSite; P10686; -.
+DR   PaxDb; P10686; -.
+DR   PRIDE; P10686; -.
+DR   GeneID; 25738; -.
+DR   KEGG; rno:25738; -.
+DR   UCSC; RGD:3347; rat.
+DR   CTD; 5335; -.
+DR   RGD; 3347; Plcg1.
+DR   eggNOG; NOG268751; -.
+DR   HOGENOM; HOG000230864; -.
+DR   HOVERGEN; HBG053611; -.
+DR   InParanoid; P10686; -.
+DR   KO; K01116; -.
+DR   PhylomeDB; P10686; -.
+DR   BRENDA; 3.1.4.11; 5301.
+DR   Reactome; REACT_296726; VEGFR2 mediated cell proliferation.
+DR   Reactome; REACT_317818; Role of phospholipids in phagocytosis.
+DR   Reactome; REACT_322024; PLC-gamma1 signalling.
+DR   Reactome; REACT_325357; DAG and IP3 signaling.
+DR   Reactome; REACT_339273; Role of second messengers in netrin-1 signaling.
+DR   EvolutionaryTrace; P10686; -.
+DR   NextBio; 607883; -.
+DR   PMAP-CutDB; P10686; -.
+DR   PRO; PR:P10686; -.
+DR   Proteomes; UP000002494; Unplaced.
+DR   Genevisible; P10686; RN.
+DR   GO; GO:0008180; C:COP9 signalosome; ISS:UniProtKB.
+DR   GO; GO:0005737; C:cytoplasm; TAS:RGD.
+DR   GO; GO:0030027; C:lamellipodium; ISS:UniProtKB.
+DR   GO; GO:0005886; C:plasma membrane; TAS:Reactome.
+DR   GO; GO:0001726; C:ruffle; ISS:UniProtKB.
+DR   GO; GO:0005509; F:calcium ion binding; IEA:InterPro.
+DR   GO; GO:0005158; F:insulin receptor binding; IDA:RGD.
+DR   GO; GO:0004435; F:phosphatidylinositol phospholipase C activity; IEA:UniProtKB-EC.
+DR   GO; GO:0051219; F:phosphoprotein binding; IPI:RGD.
+DR   GO; GO:0004871; F:signal transducer activity; IEA:UniProtKB-KW.
+DR   GO; GO:0006816; P:calcium ion transport; IMP:RGD.
+DR   GO; GO:0071364; P:cellular response to epidermal growth factor stimulus; ISS:UniProtKB.
+DR   GO; GO:0032959; P:inositol trisphosphate biosynthetic process; IMP:RGD.
+DR   GO; GO:0035556; P:intracellular signal transduction; IEA:InterPro.
+DR   GO; GO:0009395; P:phospholipid catabolic process; IEA:InterPro.
+DR   GO; GO:0010634; P:positive regulation of epithelial cell migration; IMP:RGD.
+DR   GO; GO:0009306; P:protein secretion; IMP:RGD.
+DR   GO; GO:1901339; P:regulation of store-operated calcium channel activity; IMP:RGD.
+DR   GO; GO:0009629; P:response to gravity; IEP:RGD.
+DR   GO; GO:0042542; P:response to hydrogen peroxide; IEP:RGD.
+DR   GO; GO:0043278; P:response to morphine; IEP:RGD.
+DR   GO; GO:0010243; P:response to organonitrogen compound; IEP:RGD.
+DR   GO; GO:0007165; P:signal transduction; TAS:RGD.
+DR   Gene3D; 1.10.238.10; -; 1.
+DR   Gene3D; 2.30.29.30; -; 3.
+DR   Gene3D; 2.60.40.150; -; 1.
+DR   Gene3D; 3.20.20.190; -; 2.
+DR   Gene3D; 3.30.505.10; -; 2.
+DR   InterPro; IPR000008; C2_dom.
+DR   InterPro; IPR011992; EF-hand-dom_pair.
+DR   InterPro; IPR018247; EF_Hand_1_Ca_BS.
+DR   InterPro; IPR002048; EF_hand_dom.
+DR   InterPro; IPR011993; PH-like_dom.
+DR   InterPro; IPR001849; PH_domain.
+DR   InterPro; IPR001192; PI-PLC_fam.
+DR   InterPro; IPR016279; PLC-gamma.
+DR   InterPro; IPR028380; PLC-gamma1.
+DR   InterPro; IPR017946; PLC-like_Pdiesterase_TIM-brl.
+DR   InterPro; IPR015359; PLipase_C_EF-hand-like.
+DR   InterPro; IPR000909; PLipase_C_PInositol-sp_X_dom.
+DR   InterPro; IPR001711; PLipase_C_Pinositol-sp_Y.
+DR   InterPro; IPR000980; SH2.
+DR   InterPro; IPR001452; SH3_domain.
+DR   PANTHER; PTHR10336; PTHR10336; 1.
+DR   PANTHER; PTHR10336:SF52; PTHR10336:SF52; 1.
+DR   Pfam; PF00168; C2; 1.
+DR   Pfam; PF09279; EF-hand_like; 1.
+DR   Pfam; PF00169; PH; 1.
+DR   Pfam; PF00388; PI-PLC-X; 1.
+DR   Pfam; PF00387; PI-PLC-Y; 1.
+DR   Pfam; PF00017; SH2; 2.
+DR   Pfam; PF00018; SH3_1; 1.
+DR   PIRSF; PIRSF000952; PLC-gamma; 1.
+DR   PRINTS; PR00390; PHPHLIPASEC.
+DR   PRINTS; PR00401; SH2DOMAIN.
+DR   PRINTS; PR00452; SH3DOMAIN.
+DR   SMART; SM00239; C2; 1.
+DR   SMART; SM00233; PH; 3.
+DR   SMART; SM00148; PLCXc; 1.
+DR   SMART; SM00149; PLCYc; 1.
+DR   SMART; SM00252; SH2; 2.
+DR   SMART; SM00326; SH3; 1.
+DR   SUPFAM; SSF49562; SSF49562; 1.
+DR   SUPFAM; SSF50044; SSF50044; 1.
+DR   SUPFAM; SSF51695; SSF51695; 2.
+DR   SUPFAM; SSF55550; SSF55550; 2.
+DR   PROSITE; PS50004; C2; 1.
+DR   PROSITE; PS00018; EF_HAND_1; 1.
+DR   PROSITE; PS50222; EF_HAND_2; 1.
+DR   PROSITE; PS50003; PH_DOMAIN; 2.
+DR   PROSITE; PS50007; PIPLC_X_DOMAIN; 1.
+DR   PROSITE; PS50008; PIPLC_Y_DOMAIN; 1.
+DR   PROSITE; PS50001; SH2; 2.
+DR   PROSITE; PS50002; SH3; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Calcium; Cell projection;
+KW   Complete proteome; Hydrolase; Lipid degradation; Lipid metabolism;
+KW   Metal-binding; Phosphoprotein; Reference proteome; Repeat; SH2 domain;
+KW   SH3 domain; Transducer; Ubl conjugation.
+FT   INIT_MET      1      1       Removed. {ECO:0000250|UniProtKB:P19174}.
+FT   CHAIN         2   1290       1-phosphatidylinositol 4,5-bisphosphate
+FT                                phosphodiesterase gamma-1.
+FT                                /FTId=PRO_0000088500.
+FT   DOMAIN       27    142       PH 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00145}.
+FT   DOMAIN      152    187       EF-hand. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00448}.
+FT   DOMAIN      320    464       PI-PLC X-box. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00270}.
+FT   DOMAIN      489    523       PH 2; first part. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00145}.
+FT   DOMAIN      550    657       SH2 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00191}.
+FT   DOMAIN      668    756       SH2 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00191}.
+FT   DOMAIN      791    851       SH3. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00192}.
+FT   DOMAIN      895    931       PH 2; second part. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00145}.
+FT   DOMAIN      953   1070       PI-PLC Y-box. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00271}.
+FT   DOMAIN     1075   1177       C2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00041}.
+FT   CA_BIND     165    176       {ECO:0000255|PROSITE-ProRule:PRU00448}.
+FT   ACT_SITE    335    335       {ECO:0000255|PROSITE-ProRule:PRU00270}.
+FT   ACT_SITE    380    380       {ECO:0000255|PROSITE-ProRule:PRU00270}.
+FT   MOD_RES       2      2       N-acetylalanine.
+FT                                {ECO:0000250|UniProtKB:P19174}.
+FT   MOD_RES     506    506       Phosphotyrosine.
+FT                                {ECO:0000250|UniProtKB:Q62077}.
+FT   MOD_RES     771    771       Phosphotyrosine; by SYK. {ECO:0000250}.
+FT   MOD_RES     775    775       Phosphotyrosine.
+FT                                {ECO:0000250|UniProtKB:P19174}.
+FT   MOD_RES     783    783       Phosphotyrosine; by ITK, SYK and TXK.
+FT                                {ECO:0000250}.
+FT   MOD_RES     977    977       Phosphotyrosine.
+FT                                {ECO:0000250|UniProtKB:Q62077}.
+FT   MOD_RES    1221   1221       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:P19174}.
+FT   MOD_RES    1248   1248       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:P19174}.
+FT   MOD_RES    1253   1253       Phosphotyrosine.
+FT                                {ECO:0000250|UniProtKB:P08487}.
+FT   MUTAGEN     842    842       P->L: Inhibits interaction with AGAP2.
+FT                                {ECO:0000269|PubMed:11823862}.
+FT   STRAND      491    499       {ECO:0000244|PDB:2FJL}.
+FT   TURN        500    503       {ECO:0000244|PDB:2FJL}.
+FT   STRAND      504    513       {ECO:0000244|PDB:2FJL}.
+FT   STRAND      516    519       {ECO:0000244|PDB:2FJL}.
+FT   STRAND      551    553       {ECO:0000244|PDB:3GQI}.
+FT   HELIX       556    558       {ECO:0000244|PDB:3GQI}.
+FT   HELIX       561    576       {ECO:0000244|PDB:3GQI}.
+FT   STRAND      583    587       {ECO:0000244|PDB:3GQI}.
+FT   STRAND      589    591       {ECO:0000244|PDB:3GQI}.
+FT   STRAND      594    600       {ECO:0000244|PDB:3GQI}.
+FT   STRAND      605    613       {ECO:0000244|PDB:3GQI}.
+FT   STRAND      616    618       {ECO:0000244|PDB:3GQI}.
+FT   STRAND      620    624       {ECO:0000244|PDB:3GQI}.
+FT   STRAND      627    631       {ECO:0000244|PDB:3GQI}.
+FT   HELIX       632    641       {ECO:0000244|PDB:3GQI}.
+FT   HELIX       665    668       {ECO:0000244|PDB:4K45}.
+FT   STRAND      669    672       {ECO:0000244|PDB:4K45}.
+FT   HELIX       675    682       {ECO:0000244|PDB:4K45}.
+FT   STRAND      690    695       {ECO:0000244|PDB:4K45}.
+FT   STRAND      701    708       {ECO:0000244|PDB:4K45}.
+FT   STRAND      711    720       {ECO:0000244|PDB:4K45}.
+FT   STRAND      723    726       {ECO:0000244|PDB:4K45}.
+FT   STRAND      729    733       {ECO:0000244|PDB:4K45}.
+FT   HELIX       734    743       {ECO:0000244|PDB:4K45}.
+FT   HELIX       758    762       {ECO:0000244|PDB:4K45}.
+FT   STRAND      796    800       {ECO:0000244|PDB:1Y0M}.
+FT   STRAND      817    822       {ECO:0000244|PDB:1Y0M}.
+FT   STRAND      825    833       {ECO:0000244|PDB:1Y0M}.
+FT   STRAND      836    842       {ECO:0000244|PDB:1Y0M}.
+FT   HELIX       843    845       {ECO:0000244|PDB:1Y0M}.
+FT   STRAND      846    848       {ECO:0000244|PDB:1Y0M}.
+FT   STRAND      860    862       {ECO:0000244|PDB:2FJL}.
+FT   TURN        864    870       {ECO:0000244|PDB:2FJL}.
+FT   STRAND      874    876       {ECO:0000244|PDB:2FJL}.
+FT   STRAND      882    886       {ECO:0000244|PDB:2FJL}.
+FT   STRAND      890    892       {ECO:0000244|PDB:2FJL}.
+FT   STRAND      896    900       {ECO:0000244|PDB:2FJL}.
+FT   STRAND      904    906       {ECO:0000244|PDB:2FJL}.
+FT   STRAND      909    912       {ECO:0000244|PDB:2FJL}.
+FT   HELIX       916    930       {ECO:0000244|PDB:2FJL}.
+SQ   SEQUENCE   1290 AA;  148548 MW;  BB3240C27972CE3B CRC64;
+     MAGVGTPCAN GCGPSAPSEA EVLHLCRSLE VGTVMTLFYS KKSQRPERKT FQVKLETRQI
+     TWSRGADKIE GSIDIREIKE IRPGKTSRDF DRYQEDPAFR PDQSHCFVIL YGMEFRLKTL
+     SLQATSEDEV NMWIKGLTWL MEDTLQAATP LQIERWLRKQ FYSVDRNRED RISAKDLKNM
+     LSQVNYRVPN MRFLRERLTD FEQRSGDITY GQFAQLYRSL MYSAQKTMDL PFLETNTLRT
+     GERPELCQVS LSEFQQFLLE YQGELWAVDR LQVQEFMLSF LRDPLREIEE PYFFLDELVT
+     FLFSKENSVW NSQLDAVCPE TMNNPLSHYW ISSSHNTYLT GDQFSSESSL EAYARCLRMG
+     CRCIELDCWD GPDGMPVIYH GHTLTTKIKF SDVLHTIKEH AFVASEYPVI LSIEDHCSIA
+     QQRNMAQHFR KVLGDTLLTK PVDIAADGLP SPNQLKRKIL IKHKKLAEGS AYEEVPTSVM
+     YSENDISNSI KNGILYLEDP VNHEWYPHYF VLTSSKIYYS EETSSDQGNE DEEEPKEASG
+     STELHSSEKW FHGKLGAGRD GRHIAERLLT EYCIETGAPD GSFLVRESET FVGDYTLSFW
+     RNGKVQHCRI HSRQDAGTPK FFLTDNLVFD SLYDLITHYQ QVPLRCNEFE MRLSEPVPQT
+     NAHESKEWYH ASLTRAQAEH MLMRVPRDGA FLVRKRNEPN SYAISFRAEG KIKHCRVQQE
+     GQTVMLGNSE FDSLVDLISY YEKHPLYRKM KLRYPINEEA LEKIGTAEPD YGALYEGRNP
+     GFYVEANPMP TFKCAVKALF DYKAQREDEL TFTKSAIIQN VEKQDGGWWR GDYGGKKQLW
+     FPSNYVEEMI NPAILEPERE HLDENSPLGD LLRGVLDVPA CQIAIRPEGK NNRLFVFSIS
+     MPSVAQWSLD VAADSQEELQ DWVKKIREVA QTADARLTEG KMMERRKKIA LELSELVVYC
+     RPVPFDEEKI GTERACYRDM SSFPETKAEK YVNKAKGKKF LQYNRLQLSR IYPKGQRLDS
+     SNYDPLPMWI CGSQLVALNF QTPDKPMQMN QALFMAGGHC GYVLQPSTMR DEAFDPFDKS
+     SLRGLEPCVI CIEVLGARHL PKNGRGIVCP FVEIEVAGAE YDSTKQKTEF VVDNGLNPVW
+     PAKPFHFQIS NPEFAFLRFV VYEEDMFSDQ NFLAQATFPV KGLKTGYRAV PLKNNYSEDL
+     ELASLLIKID IFPAKENGDL SPFSGTSLRE RASDASSQLF HVRAREGSFE ARYQQPFEDF
+     RISQEHLADH FDSRERRAPR RTRVNGDNRL
+//

@@ -1,0 +1,339 @@
+ID   SUVH4_ARATH             Reviewed;         624 AA.
+AC   Q8GZB6; Q9C5P3; Q9FFX9;
+DT   09-MAY-2003, integrated into UniProtKB/Swiss-Prot.
+DT   09-MAY-2003, sequence version 2.
+DT   24-JUN-2015, entry version 111.
+DE   RecName: Full=Histone-lysine N-methyltransferase, H3 lysine-9 specific SUVH4;
+DE            EC=2.1.1.43;
+DE   AltName: Full=Histone H3-K9 methyltransferase 4;
+DE            Short=H3-K9-HMTase 4;
+DE   AltName: Full=Protein KRYPTONITE;
+DE   AltName: Full=Protein SET DOMAIN GROUP 33;
+DE   AltName: Full=Suppressor of variegation 3-9 homolog protein 4;
+DE            Short=Su(var)3-9 homolog protein 4;
+GN   Name=SUVH4; Synonyms=KYP, SDG33, SET33; OrderedLocusNames=At5g13960;
+GN   ORFNames=MAC12.7;
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], NOMENCLATURE, AND TISSUE SPECIFICITY.
+RX   PubMed=11691919; DOI=10.1093/nar/29.21.4319;
+RA   Baumbusch L.O., Thorstensen T., Krauss V., Fischer A., Naumann K.,
+RA   Assalkhou R., Schulz I., Reuter G., Aalen R.B.;
+RT   "The Arabidopsis thaliana genome contains at least 29 active genes
+RT   encoding SET domain proteins that can be assigned to four
+RT   evolutionarily conserved classes.";
+RL   Nucleic Acids Res. 29:4319-4333(2001).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=cv. Wassilewskija;
+RX   PubMed=12486005; DOI=10.1093/emboj/cdf687;
+RA   Malagnac F., Bartee L., Bender J.;
+RT   "An Arabidopsis SET domain protein required for maintenance but not
+RT   establishment of DNA methylation.";
+RL   EMBO J. 21:6842-6852(2002).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=9330910; DOI=10.1093/dnares/4.3.215;
+RA   Sato S., Kotani H., Nakamura Y., Kaneko T., Asamizu E., Fukami M.,
+RA   Miyajima N., Tabata S.;
+RT   "Structural analysis of Arabidopsis thaliana chromosome 5. I. Sequence
+RT   features of the 1.6 Mb regions covered by twenty physically assigned
+RT   P1 clones.";
+RL   DNA Res. 4:215-230(1997).
+RN   [4]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RG   The Arabidopsis Information Resource (TAIR);
+RL   Submitted (APR-2011) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=14593172; DOI=10.1126/science.1088305;
+RA   Yamada K., Lim J., Dale J.M., Chen H., Shinn P., Palm C.J.,
+RA   Southwick A.M., Wu H.C., Kim C.J., Nguyen M., Pham P.K., Cheuk R.F.,
+RA   Karlin-Newmann G., Liu S.X., Lam B., Sakano H., Wu T., Yu G.,
+RA   Miranda M., Quach H.L., Tripp M., Chang C.H., Lee J.M., Toriumi M.J.,
+RA   Chan M.M., Tang C.C., Onodera C.S., Deng J.M., Akiyama K., Ansari Y.,
+RA   Arakawa T., Banh J., Banno F., Bowser L., Brooks S.Y., Carninci P.,
+RA   Chao Q., Choy N., Enju A., Goldsmith A.D., Gurjal M., Hansen N.F.,
+RA   Hayashizaki Y., Johnson-Hopson C., Hsuan V.W., Iida K., Karnes M.,
+RA   Khan S., Koesema E., Ishida J., Jiang P.X., Jones T., Kawai J.,
+RA   Kamiya A., Meyers C., Nakajima M., Narusaka M., Seki M., Sakurai T.,
+RA   Satou M., Tamse R., Vaysberg M., Wallender E.K., Wong C., Yamamura Y.,
+RA   Yuan S., Shinozaki K., Davis R.W., Theologis A., Ecker J.R.;
+RT   "Empirical analysis of transcriptional activity in the Arabidopsis
+RT   genome.";
+RL   Science 302:842-846(2003).
+RN   [6]
+RP   FUNCTION, AND MUTANTS KYP-1; KYP-2 AND KYP-3.
+RX   PubMed=11898023; DOI=10.1038/nature731;
+RA   Jackson J.P., Lindroth A.M., Cao X., Jacobsen S.E.;
+RT   "Control of CpNpG DNA methylation by the KRYPTONITE histone H3
+RT   methyltransferase.";
+RL   Nature 416:556-560(2002).
+RN   [7]
+RP   EPIGENETIC METHYLATION.
+RX   PubMed=12194816; DOI=10.1016/S0960-9822(02)00976-4;
+RA   Johnson L.M., Cao X., Jacobsen S.E.;
+RT   "Interplay between two epigenetic marks: DNA methylation and histone
+RT   H3 lysine 9 methylation.";
+RL   Curr. Biol. 12:1360-1367(2002).
+RN   [8]
+RP   FUNCTION.
+RX   PubMed=15457214; DOI=10.1038/sj.emboj.7600430;
+RA   Lindroth A.M., Shultis D., Jasencakova Z., Fuchs J., Johnson L.,
+RA   Schubert D., Patnaik D., Pradhan S., Goodrich J., Schubert I.,
+RA   Jenuwein T., Khorasanizadeh S., Jacobsen S.E.;
+RT   "Dual histone H3 methylation marks at lysines 9 and 27 required for
+RT   interaction with CHROMOMETHYLASE3.";
+RL   EMBO J. 23:4286-4296(2004).
+RN   [9]
+RP   FUNCTION.
+RX   PubMed=15598823; DOI=10.1093/nar/gkh992;
+RA   Johnson L., Mollah S., Garcia B.A., Muratore T.L., Shabanowitz J.,
+RA   Hunt D.F., Jacobsen S.E.;
+RT   "Mass spectrometry analysis of Arabidopsis histone H3 reveals distinct
+RT   combinations of post-translational modifications.";
+RL   Nucleic Acids Res. 32:6511-6518(2004).
+RN   [10]
+RP   FUNCTION.
+RX   PubMed=16277745; DOI=10.1186/gb-2005-6-11-r90;
+RA   Tran R.K., Zilberman D., de Bustos C., Ditt R.F., Henikoff J.G.,
+RA   Lindroth A.M., Delrow J., Boyle T., Kwong S., Bryson T.D.,
+RA   Jacobsen S.E., Henikoff S.;
+RT   "Chromatin and siRNA pathways cooperate to maintain DNA methylation of
+RT   small transposable elements in Arabidopsis.";
+RL   Genome Biol. 6:R90.1-R90.11(2005).
+RN   [11]
+RP   FUNCTION.
+RX   PubMed=16287862; DOI=10.1128/MCB.25.23.10507-10515.2005;
+RA   Ebbs M.L., Bartee L., Bender J.;
+RT   "H3 lysine 9 methylation is maintained on a transcribed inverted
+RT   repeat by combined action of SUVH6 and SUVH4 methyltransferases.";
+RL   Mol. Cell. Biol. 25:10507-10515(2005).
+RN   [12]
+RP   GENE FAMILY.
+RX   PubMed=16384625; DOI=10.1016/j.jplph.2005.10.015;
+RA   Fischer A., Hofmann I., Naumann K., Reuter G.;
+RT   "Heterochromatin proteins and the control of heterochromatic gene
+RT   silencing in Arabidopsis.";
+RL   J. Plant Physiol. 163:358-368(2006).
+CC   -!- FUNCTION: Histone methyltransferase. Methylates 'Lys-9' of histone
+CC       H3. H3 'Lys-9' methylation represents a specific tag for
+CC       epigenetic transcriptional repression. The silencing mechanism via
+CC       DNA CpNpG methylation requires the targeting of chromomethylase
+CC       CMT3 to methylated histones, probably through an interaction with
+CC       an HP1-like adapter. By its function, KYP is directly required for
+CC       the maintenance of the DNA CpNpG and asymmetric methylation.
+CC       Involved in the silencing of transposable elements.
+CC       {ECO:0000269|PubMed:11898023, ECO:0000269|PubMed:15457214,
+CC       ECO:0000269|PubMed:15598823, ECO:0000269|PubMed:16277745,
+CC       ECO:0000269|PubMed:16287862}.
+CC   -!- CATALYTIC ACTIVITY: S-adenosyl-L-methionine + L-lysine-[histone] =
+CC       S-adenosyl-L-homocysteine + N(6)-methyl-L-lysine-[histone].
+CC       {ECO:0000255|PROSITE-ProRule:PRU00908}.
+CC   -!- SUBUNIT: Interacts with H3 histone.
+CC   -!- SUBCELLULAR LOCATION: Nucleus. Chromosome. Chromosome, centromere.
+CC       Note=Associates with centromeric constitutive heterochromatin and
+CC       at a lower level with regions of euchromatin.
+CC   -!- TISSUE SPECIFICITY: Expressed in leaves stems and flowers.
+CC       {ECO:0000269|PubMed:11691919}.
+CC   -!- DOMAIN: Although the SET domain contains the active site of
+CC       enzymatic activity, both pre-SET and post-SET domains are required
+CC       for methyltransferase activity.
+CC   -!- DOMAIN: In the pre-SET domain, Cys residues bind 3 zinc ions that
+CC       are arranged in a triangular cluster; some of these Cys residues
+CC       contribute to the binding of two zinc ions within the cluster.
+CC       {ECO:0000250}.
+CC   -!- MISCELLANEOUS: Mutations in the KYP/SUVH4 gene decrease the level
+CC       of histone H3-K9 dimethylated, trimethylated or dimethylated in
+CC       association with H3-K14Ac by factors of 4,3 and 3, respectively.
+CC       The level of monomethylated H3-K9 is unchanged. Such mutations
+CC       lead to a drastic decrease of cytosine methylation at CpNpG sites,
+CC       causing the reactivation of endogenous retrotransposons. The
+CC       KRYPTONYTE methyltransferase name was given according to its
+CC       involvement in SUPERMAN gene silencing.
+CC   -!- SIMILARITY: Belongs to the class V-like SAM-binding
+CC       methyltransferase superfamily. Histone-lysine methyltransferase
+CC       family. Suvar3-9 subfamily. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00908}.
+CC   -!- SIMILARITY: Contains 1 post-SET domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00155}.
+CC   -!- SIMILARITY: Contains 1 pre-SET domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00157}.
+CC   -!- SIMILARITY: Contains 1 SET domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00190}.
+CC   -!- SIMILARITY: Contains 1 YDG domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00358}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF344447; AAK28969.1; -; mRNA.
+DR   EMBL; AF538715; AAO17392.1; -; Genomic_DNA.
+DR   EMBL; AB005230; BAB11124.1; -; Genomic_DNA.
+DR   EMBL; CP002688; AED91966.1; -; Genomic_DNA.
+DR   EMBL; BT002313; AAN86146.1; -; mRNA.
+DR   RefSeq; NP_196900.1; NM_121399.2.
+DR   UniGene; At.8330; -.
+DR   PDB; 4QEN; X-ray; 2.00 A; A=93-624.
+DR   PDB; 4QEO; X-ray; 2.00 A; A=93-624.
+DR   PDB; 4QEP; X-ray; 3.10 A; A=93-624.
+DR   PDBsum; 4QEN; -.
+DR   PDBsum; 4QEO; -.
+DR   PDBsum; 4QEP; -.
+DR   ProteinModelPortal; Q8GZB6; -.
+DR   SMR; Q8GZB6; 99-624.
+DR   STRING; 3702.AT5G13960.1; -.
+DR   PaxDb; Q8GZB6; -.
+DR   PRIDE; Q8GZB6; -.
+DR   EnsemblPlants; AT5G13960.1; AT5G13960.1; AT5G13960.
+DR   GeneID; 831244; -.
+DR   KEGG; ath:AT5G13960; -.
+DR   TAIR; AT5G13960; -.
+DR   eggNOG; COG3440; -.
+DR   HOGENOM; HOG000238382; -.
+DR   InParanoid; Q8GZB6; -.
+DR   KO; K11420; -.
+DR   OMA; DTELHEK; -.
+DR   PhylomeDB; Q8GZB6; -.
+DR   BioCyc; ARA:AT5G13960-MONOMER; -.
+DR   PRO; PR:Q8GZB6; -.
+DR   Proteomes; UP000006548; Chromosome 5.
+DR   GO; GO:0000775; C:chromosome, centromeric region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0010385; F:double-stranded methylated DNA binding; IDA:TAIR.
+DR   GO; GO:0046974; F:histone methyltransferase activity (H3-K9 specific); IDA:TAIR.
+DR   GO; GO:0008327; F:methyl-CpG binding; IDA:TAIR.
+DR   GO; GO:0010428; F:methyl-CpNpG binding; IDA:TAIR.
+DR   GO; GO:0010429; F:methyl-CpNpN binding; IDA:TAIR.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:InterPro.
+DR   GO; GO:0051567; P:histone H3-K9 methylation; IMP:TAIR.
+DR   GO; GO:0016571; P:histone methylation; IDA:TAIR.
+DR   GO; GO:0010216; P:maintenance of DNA methylation; IDA:TAIR.
+DR   GO; GO:0018022; P:peptidyl-lysine methylation; IDA:TAIR.
+DR   Gene3D; 2.30.280.10; -; 1.
+DR   InterPro; IPR025794; Hist-Lys_N-MeTrfase_plant.
+DR   InterPro; IPR003616; Post-SET_dom.
+DR   InterPro; IPR007728; Pre-SET_dom.
+DR   InterPro; IPR015947; PUA-like_domain.
+DR   InterPro; IPR001214; SET_dom.
+DR   InterPro; IPR003105; SRA_YDG.
+DR   Pfam; PF05033; Pre-SET; 1.
+DR   Pfam; PF02182; SAD_SRA; 1.
+DR   Pfam; PF00856; SET; 1.
+DR   SMART; SM00508; PostSET; 1.
+DR   SMART; SM00317; SET; 1.
+DR   SUPFAM; SSF88697; SSF88697; 1.
+DR   PROSITE; PS50868; POST_SET; 1.
+DR   PROSITE; PS50867; PRE_SET; 1.
+DR   PROSITE; PS51575; SAM_MT43_SUVAR39_2; 1.
+DR   PROSITE; PS50280; SET; 1.
+DR   PROSITE; PS51015; YDG; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Centromere; Chromatin regulator; Chromosome;
+KW   Complete proteome; Metal-binding; Methyltransferase; Nucleus;
+KW   Reference proteome; S-adenosyl-L-methionine; Transferase; Zinc.
+FT   CHAIN         1    624       Histone-lysine N-methyltransferase, H3
+FT                                lysine-9 specific SUVH4.
+FT                                /FTId=PRO_0000186075.
+FT   DOMAIN      149    302       YDG. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00358}.
+FT   DOMAIN      381    443       Pre-SET. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00157}.
+FT   DOMAIN      446    594       SET. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00190}.
+FT   DOMAIN      608    624       Post-SET. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00155}.
+FT   REGION      456    458       S-adenosyl-L-methionine binding.
+FT                                {ECO:0000250}.
+FT   REGION      551    552       S-adenosyl-L-methionine binding.
+FT                                {ECO:0000250}.
+FT   METAL       383    383       Zinc 1. {ECO:0000250}.
+FT   METAL       383    383       Zinc 2. {ECO:0000250}.
+FT   METAL       385    385       Zinc 1. {ECO:0000250}.
+FT   METAL       389    389       Zinc 1. {ECO:0000250}.
+FT   METAL       389    389       Zinc 3. {ECO:0000250}.
+FT   METAL       395    395       Zinc 1. {ECO:0000250}.
+FT   METAL       397    397       Zinc 2. {ECO:0000250}.
+FT   METAL       425    425       Zinc 2. {ECO:0000250}.
+FT   METAL       425    425       Zinc 3. {ECO:0000250}.
+FT   METAL       429    429       Zinc 2. {ECO:0000250}.
+FT   METAL       431    431       Zinc 3. {ECO:0000250}.
+FT   METAL       435    435       Zinc 3. {ECO:0000250}.
+FT   METAL       554    554       Zinc 4. {ECO:0000250}.
+FT   METAL       612    612       Zinc 4. {ECO:0000250}.
+FT   METAL       614    614       Zinc 4. {ECO:0000250}.
+FT   METAL       619    619       Zinc 4. {ECO:0000250}.
+FT   BINDING     493    493       S-adenosyl-L-methionine.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00190}.
+FT   BINDING     548    548       S-adenosyl-L-methionine.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00190}.
+FT   CONFLICT    189    189       E -> D (in Ref. 2; AAO17392).
+FT                                {ECO:0000305}.
+FT   CONFLICT    548    548       R -> T (in Ref. 1; AAK28969).
+FT                                {ECO:0000305}.
+FT   CONFLICT    576    576       V -> A (in Ref. 1; AAK28969).
+FT                                {ECO:0000305}.
+FT   HELIX       101    121       {ECO:0000244|PDB:4QEO}.
+FT   HELIX       127    137       {ECO:0000244|PDB:4QEO}.
+FT   STRAND      159    162       {ECO:0000244|PDB:4QEO}.
+FT   HELIX       163    168       {ECO:0000244|PDB:4QEO}.
+FT   STRAND      170    172       {ECO:0000244|PDB:4QEN}.
+FT   STRAND      178    182       {ECO:0000244|PDB:4QEO}.
+FT   HELIX       184    186       {ECO:0000244|PDB:4QEO}.
+FT   TURN        187    192       {ECO:0000244|PDB:4QEO}.
+FT   STRAND      197    203       {ECO:0000244|PDB:4QEO}.
+FT   STRAND      211    213       {ECO:0000244|PDB:4QEO}.
+FT   STRAND      216    220       {ECO:0000244|PDB:4QEO}.
+FT   STRAND      222    225       {ECO:0000244|PDB:4QEO}.
+FT   STRAND      227    230       {ECO:0000244|PDB:4QEN}.
+FT   STRAND      239    241       {ECO:0000244|PDB:4QEP}.
+FT   HELIX       242    252       {ECO:0000244|PDB:4QEO}.
+FT   STRAND      256    263       {ECO:0000244|PDB:4QEO}.
+FT   STRAND      271    288       {ECO:0000244|PDB:4QEO}.
+FT   STRAND      292    302       {ECO:0000244|PDB:4QEO}.
+FT   STRAND      304    306       {ECO:0000244|PDB:4QEO}.
+FT   STRAND      331    334       {ECO:0000244|PDB:4QEO}.
+FT   STRAND      336    339       {ECO:0000244|PDB:4QEN}.
+FT   STRAND      341    343       {ECO:0000244|PDB:4QEO}.
+FT   TURN        358    361       {ECO:0000244|PDB:4QEO}.
+FT   STRAND      386    388       {ECO:0000244|PDB:4QEO}.
+FT   TURN        392    394       {ECO:0000244|PDB:4QEO}.
+FT   HELIX       396    400       {ECO:0000244|PDB:4QEO}.
+FT   STRAND      406    410       {ECO:0000244|PDB:4QEO}.
+FT   STRAND      420    423       {ECO:0000244|PDB:4QEP}.
+FT   HELIX       436    441       {ECO:0000244|PDB:4QEO}.
+FT   STRAND      448    452       {ECO:0000244|PDB:4QEO}.
+FT   STRAND      454    456       {ECO:0000244|PDB:4QEO}.
+FT   STRAND      458    464       {ECO:0000244|PDB:4QEO}.
+FT   STRAND      471    474       {ECO:0000244|PDB:4QEO}.
+FT   STRAND      477    481       {ECO:0000244|PDB:4QEO}.
+FT   HELIX       482    484       {ECO:0000244|PDB:4QEO}.
+FT   STRAND      494    496       {ECO:0000244|PDB:4QEO}.
+FT   STRAND      536    539       {ECO:0000244|PDB:4QEO}.
+FT   STRAND      541    544       {ECO:0000244|PDB:4QEO}.
+FT   HELIX       546    549       {ECO:0000244|PDB:4QEO}.
+FT   STRAND      557    567       {ECO:0000244|PDB:4QEO}.
+FT   HELIX       570    572       {ECO:0000244|PDB:4QEO}.
+FT   STRAND      574    581       {ECO:0000244|PDB:4QEO}.
+FT   STRAND      603    605       {ECO:0000244|PDB:4QEO}.
+SQ   SEQUENCE   624 AA;  70056 MW;  67B5CF6606F16B07 CRC64;
+     MAGKRKRANA PDQTERRSSV RVQKVRQKAL DEKARLVQER VKLLSDRKSE ICVDDTELHE
+     KEEENVDGSP KRRSPPKLTA MQKGKQKLSV SLNGKDVNLE PHLKVTKCLR LFNKQYLLCV
+     QAKLSRPDLK GVTEMIKAKA ILYPRKIIGD LPGIDVGHRF FSRAEMCAVG FHNHWLNGID
+     YMSMEYEKEY SNYKLPLAVS IVMSGQYEDD LDNADTVTYT GQGGHNLTGN KRQIKDQLLE
+     RGNLALKHCC EYNVPVRVTR GHNCKSSYTK RVYTYDGLYK VEKFWAQKGV SGFTVYKYRL
+     KRLEGQPELT TDQVNFVAGR IPTSTSEIEG LVCEDISGGL EFKGIPATNR VDDSPVSPTS
+     GFTYIKSLII EPNVIIPKSS TGCNCRGSCT DSKKCACAKL NGGNFPYVDL NDGRLIESRD
+     VVFECGPHCG CGPKCVNRTS QKRLRFNLEV FRSAKKGWAV RSWEYIPAGS PVCEYIGVVR
+     RTADVDTISD NEYIFEIDCQ QTMQGLGGRQ RRLRDVAVPM NNGVSQSSED ENAPEFCIDA
+     GSTGNFARFI NHSCEPNLFV QCVLSSHQDI RLARVVLFAA DNISPMQELT YDYGYALDSV
+     HGPDGKVKQL ACYCGALNCR KRLY
+//

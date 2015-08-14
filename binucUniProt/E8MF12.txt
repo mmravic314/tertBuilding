@@ -1,0 +1,170 @@
+ID   NAHK_BIFL2              Reviewed;         359 AA.
+AC   E8MF12; A7BJ81;
+DT   16-OCT-2013, integrated into UniProtKB/Swiss-Prot.
+DT   05-APR-2011, sequence version 1.
+DT   22-JUL-2015, entry version 26.
+DE   RecName: Full=N-acetylhexosamine 1-kinase;
+DE            EC=2.7.1.162;
+DE   AltName: Full=N-acetylgalactosamine/N-acetylglucosamine 1-kinase;
+GN   Name=nahK; Synonyms=lnpB; OrderedLocusNames=BLLJ_1622;
+OS   Bifidobacterium longum subsp. longum (strain ATCC 15707 / DSM 20219 /
+OS   JCM 1217 / NCTC 11818 / E194b).
+OC   Bacteria; Actinobacteria; Bifidobacteriales; Bifidobacteriaceae;
+OC   Bifidobacterium.
+OX   NCBI_TaxID=565042;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], FUNCTION, CATALYTIC ACTIVITY,
+RP   COFACTOR, BIOPHYSICOCHEMICAL PROPERTIES, AND GENE NAME.
+RC   STRAIN=ATCC 15707 / DSM 20219 / JCM 1217 / NCTC 11818 / E194b;
+RX   PubMed=17720833; DOI=10.1128/AEM.01425-07;
+RA   Nishimoto M., Kitaoka M.;
+RT   "Identification of N-acetylhexosamine 1-kinase in the complete lacto-
+RT   N-biose I/galacto-N-biose metabolic pathway in Bifidobacterium
+RT   longum.";
+RL   Appl. Environ. Microbiol. 73:6444-6449(2007).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 15707 / DSM 20219 / JCM 1217 / NCTC 11818 / E194b;
+RX   PubMed=21270894; DOI=10.1038/nature09646;
+RA   Fukuda S., Toh H., Hase K., Oshima K., Nakanishi Y., Yoshimura K.,
+RA   Tobe T., Clarke J.M., Topping D.L., Suzuki T., Taylor T.D., Itoh K.,
+RA   Kikuchi J., Morita H., Hattori M., Ohno H.;
+RT   "Bifidobacteria can protect from enteropathogenic infection through
+RT   production of acetate.";
+RL   Nature 469:543-547(2011).
+RN   [3]
+RP   FUNCTION, AND CATALYTIC ACTIVITY.
+RX   PubMed=19683921; DOI=10.1016/j.bmcl.2009.07.104;
+RA   Cai L., Guan W., Wang W., Zhao W., Kitaoka M., Shen J., O'Neil C.,
+RA   Wang P.G.;
+RT   "Substrate specificity of N-acetylhexosamine kinase towards N-
+RT   acetylgalactosamine derivatives.";
+RL   Bioorg. Med. Chem. Lett. 19:5433-5435(2009).
+RN   [4]
+RP   FUNCTION, AND CATALYTIC ACTIVITY.
+RX   PubMed=19436918; DOI=10.1039/b904853g;
+RA   Cai L., Guan W., Kitaoka M., Shen J., Xia C., Chen W., Wang P.G.;
+RT   "A chemoenzymatic route to N-acetylglucosamine-1-phosphate analogues:
+RT   substrate specificity investigations of N-acetylhexosamine 1-kinase.";
+RL   Chem. Commun. (Camb.) 20:2944-2946(2009).
+CC   -!- FUNCTION: Phosphorylates both N-acetylglucosamine (GlcNAc) and N-
+CC       acetylgalactosamine (GalNAc) at similar rates. Involved in the
+CC       lacto-N-biose I/galacto-N-biose (LNB/GNB) degradation pathway,
+CC       which is important for host intestinal colonization by
+CC       bifidobacteria. Also accepts GTP and ITP as phosphate donors. In
+CC       vitro, can phosphorylate several GlcNAc and GalNAc derivatives.
+CC       {ECO:0000269|PubMed:17720833, ECO:0000269|PubMed:19436918,
+CC       ECO:0000269|PubMed:19683921}.
+CC   -!- CATALYTIC ACTIVITY: ATP + N-acetyl-D-hexosamine = ADP + N-acetyl-
+CC       alpha-D-hexosamine 1-phosphate. {ECO:0000269|PubMed:17720833,
+CC       ECO:0000269|PubMed:19436918, ECO:0000269|PubMed:19683921}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000269|PubMed:17720833};
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=0.118 mM for GlcNAc {ECO:0000269|PubMed:17720833};
+CC         KM=0.065 mM for GalNAc {ECO:0000269|PubMed:17720833};
+CC         KM=0.172 mM for ATP {ECO:0000269|PubMed:17720833};
+CC         Note=kcat is 1.21 sec(-1) for GlcNAc. kcat is 0.752 sec(-1) for
+CC         GalNAc.;
+CC       pH dependence:
+CC         Optimum pH is 8.5. Stable at pH 5.0 to 9.5 at 30 degrees
+CC         Celsius. {ECO:0000269|PubMed:17720833};
+CC       Temperature dependence:
+CC         Optimum temperature is 40 degrees Celsius.
+CC         {ECO:0000269|PubMed:17720833};
+CC   -!- SIMILARITY: Belongs to the protein kinase superfamily.
+CC       {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 protein kinase domain. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AB303839; BAF73925.1; -; Genomic_DNA.
+DR   EMBL; AP010888; BAJ67289.1; -; Genomic_DNA.
+DR   RefSeq; WP_013582917.1; NC_015067.1.
+DR   PDB; 4OCJ; X-ray; 1.57 A; A=1-359.
+DR   PDB; 4OCK; X-ray; 1.72 A; A=1-359.
+DR   PDB; 4OCO; X-ray; 2.16 A; A=1-359.
+DR   PDB; 4OCP; X-ray; 1.94 A; A=1-359.
+DR   PDB; 4OCQ; X-ray; 1.88 A; A=1-359.
+DR   PDB; 4WH1; X-ray; 2.05 A; A=1-359.
+DR   PDB; 4WH2; X-ray; 1.85 A; A=1-359.
+DR   PDB; 4WH3; X-ray; 1.80 A; A=1-359.
+DR   PDBsum; 4OCJ; -.
+DR   PDBsum; 4OCK; -.
+DR   PDBsum; 4OCO; -.
+DR   PDBsum; 4OCP; -.
+DR   PDBsum; 4OCQ; -.
+DR   PDBsum; 4WH1; -.
+DR   PDBsum; 4WH2; -.
+DR   PDBsum; 4WH3; -.
+DR   EnsemblBacteria; BAJ67289; BAJ67289; BLLJ_1622.
+DR   KEGG; blm:BLLJ_1622; -.
+DR   PATRIC; 46891732; VBIBifLon48544_1678.
+DR   HOGENOM; HOG000001225; -.
+DR   KO; K13059; -.
+DR   OMA; YDIGDCL; -.
+DR   BioCyc; BLON565042:GIWN-1684-MONOMER; -.
+DR   BRENDA; 2.7.1.162; 851.
+DR   Proteomes; UP000007255; Chromosome.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016301; F:kinase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0016773; F:phosphotransferase activity, alcohol group as acceptor; IDA:UniProtKB.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IDA:UniProtKB.
+DR   InterPro; IPR002575; Aminoglycoside_PTrfase.
+DR   InterPro; IPR011009; Kinase-like_dom.
+DR   Pfam; PF01636; APH; 1.
+DR   SUPFAM; SSF56112; SSF56112; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; ATP-binding; Carbohydrate metabolism; Complete proteome;
+KW   Kinase; Magnesium; Nucleotide-binding; Transferase.
+FT   CHAIN         1    359       N-acetylhexosamine 1-kinase.
+FT                                /FTId=PRO_0000424071.
+FT   DOMAIN       21    359       Protein kinase.
+FT   CONFLICT      7      7       D -> V (in Ref. 1; BAF73925).
+FT                                {ECO:0000305}.
+FT   HELIX         5     12       {ECO:0000244|PDB:4OCJ}.
+FT   STRAND       21     26       {ECO:0000244|PDB:4OCJ}.
+FT   STRAND       31     42       {ECO:0000244|PDB:4OCJ}.
+FT   STRAND       45     50       {ECO:0000244|PDB:4OCJ}.
+FT   TURN         52     54       {ECO:0000244|PDB:4OCJ}.
+FT   HELIX        58     73       {ECO:0000244|PDB:4OCJ}.
+FT   TURN         74     76       {ECO:0000244|PDB:4OCJ}.
+FT   STRAND       90     94       {ECO:0000244|PDB:4OCJ}.
+FT   STRAND       97    103       {ECO:0000244|PDB:4OCJ}.
+FT   STRAND      107    109       {ECO:0000244|PDB:4OCJ}.
+FT   HELIX       117    134       {ECO:0000244|PDB:4OCJ}.
+FT   HELIX       139    141       {ECO:0000244|PDB:4OCJ}.
+FT   TURN        147    150       {ECO:0000244|PDB:4OCJ}.
+FT   HELIX       152    165       {ECO:0000244|PDB:4OCJ}.
+FT   HELIX       171    174       {ECO:0000244|PDB:4OCJ}.
+FT   HELIX       175    183       {ECO:0000244|PDB:4OCJ}.
+FT   HELIX       185    187       {ECO:0000244|PDB:4OCJ}.
+FT   HELIX       190    196       {ECO:0000244|PDB:4OCJ}.
+FT   STRAND      198    200       {ECO:0000244|PDB:4OCK}.
+FT   STRAND      203    205       {ECO:0000244|PDB:4OCJ}.
+FT   HELIX       211    213       {ECO:0000244|PDB:4OCJ}.
+FT   STRAND      214    217       {ECO:0000244|PDB:4OCJ}.
+FT   TURN        218    220       {ECO:0000244|PDB:4OCJ}.
+FT   STRAND      222    226       {ECO:0000244|PDB:4OCJ}.
+FT   HELIX       229    231       {ECO:0000244|PDB:4OCK}.
+FT   STRAND      233    235       {ECO:0000244|PDB:4OCJ}.
+FT   HELIX       237    248       {ECO:0000244|PDB:4OCJ}.
+FT   STRAND      249    252       {ECO:0000244|PDB:4OCJ}.
+FT   HELIX       259    261       {ECO:0000244|PDB:4OCJ}.
+FT   HELIX       266    280       {ECO:0000244|PDB:4OCJ}.
+FT   TURN        281    283       {ECO:0000244|PDB:4OCJ}.
+FT   HELIX       286    313       {ECO:0000244|PDB:4OCJ}.
+FT   STRAND      315    318       {ECO:0000244|PDB:4OCK}.
+FT   HELIX       325    342       {ECO:0000244|PDB:4OCJ}.
+FT   HELIX       344    354       {ECO:0000244|PDB:4OCJ}.
+SQ   SEQUENCE   359 AA;  39903 MW;  FBC9DD776E6BA5A3 CRC64;
+     MTESNEDLFG IASHFALEGA VTGIEPYGDG HINTTYLVTT DGPRYILQQM NTSIFPDTVN
+     LMRNVELVTS TLKAQGKETL DIVPTTSGAT WAEIDGGAWR VYKFIEHTVS YNLVPNPDVF
+     REAGSAFGDF QNFLSEFDAS QLTETIAHFH DTPHRFEDFK AALAADKLGR AAACQPEIDF
+     YLSHADQYAV VMDGLRDGSI PLRVTHNDTK LNNILMDATT GKARAIIDLD TIMPGSMLFD
+     FGDSIRFGAS TALEDEKDLS KVHFSTELFR AYTEGFVGEL RGSITAREAE LLPFSGNLLT
+     MECGMRFLAD YLEGDIYFAT KYPEHNLVRT RTQIKLVQEM EQKASETRAI VADIMEAAR
+//

@@ -1,0 +1,87 @@
+ID   Q8U2I8_PYRFU            Unreviewed;       503 AA.
+AC   Q8U2I8;
+DT   01-JUN-2002, integrated into UniProtKB/TrEMBL.
+DT   01-JUN-2002, sequence version 1.
+DT   22-JUL-2015, entry version 83.
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAL80970.1};
+GN   OrderedLocusNames=PF0846 {ECO:0000313|EMBL:AAL80970.1};
+OS   Pyrococcus furiosus (strain ATCC 43587 / DSM 3638 / JCM 8422 / Vc1).
+OC   Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae;
+OC   Pyrococcus.
+OX   NCBI_TaxID=186497 {ECO:0000313|EMBL:AAL80970.1, ECO:0000313|Proteomes:UP000001013};
+RN   [1] {ECO:0000313|EMBL:AAL80970.1, ECO:0000313|Proteomes:UP000001013}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 43587 / DSM 3638 / JCM 8422 / Vc1
+RC   {ECO:0000313|Proteomes:UP000001013};
+RX   PubMed=10430560;
+RA   Maeder D.L., Weiss R.B., Dunn D.M., Cherry J.L., Gonzalez J.M.,
+RA   DiRuggiero J., Robb F.T.;
+RT   "Divergence of the hyperthermophilic archaea Pyrococcus furiosus and
+RT   P. horikoshii inferred from complete genomic sequences.";
+RL   Genetics 152:1299-1305(1999).
+RN   [2] {ECO:0000213|PDB:3ICJ}
+RP   X-RAY CRYSTALLOGRAPHY (1.95 ANGSTROMS) OF 2-502 IN COMPLEX WITH ZINC.
+RA   Bonanno J.B., Patskovsky Y., Freeman J., Bain K.T., Hu S., Ozyurt S.,
+RA   Wasserman S., Sauder J.M., Raushel F.M., Burley S.K., Almo S.C.;
+RT   "Crystal Structure of an Uncharacterized Metal-Dependent Hydrolase
+RT   from Pyrococcus Furiosus.";
+RL   Submitted (JUL-2009) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE009950; AAL80970.1; -; Genomic_DNA.
+DR   RefSeq; NP_578575.1; NC_003413.1.
+DR   RefSeq; WP_011011977.1; NC_003413.1.
+DR   PDB; 3ICJ; X-ray; 1.95 A; A=2-502.
+DR   PDBsum; 3ICJ; -.
+DR   ProteinModelPortal; Q8U2I8; -.
+DR   STRING; 186497.PF0846; -.
+DR   PRIDE; Q8U2I8; -.
+DR   EnsemblBacteria; AAL80970; AAL80970; PF0846.
+DR   GeneID; 1468704; -.
+DR   KEGG; pfu:PF0846; -.
+DR   eggNOG; COG1574; -.
+DR   HOGENOM; HOG000064644; -.
+DR   KO; K07047; -.
+DR   OMA; AMKIFAD; -.
+DR   EvolutionaryTrace; Q8U2I8; -.
+DR   Proteomes; UP000001013; Chromosome.
+DR   GO; GO:0016888; F:endodeoxyribonuclease activity, producing 5'-phosphomonoesters; IEA:InterPro.
+DR   GO; GO:0016810; F:hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 2.30.40.10; -; 1.
+DR   InterPro; IPR013108; Amidohydro_3.
+DR   InterPro; IPR018228; DNase_TatD-rel_CS.
+DR   InterPro; IPR011059; Metal-dep_hydrolase_composite.
+DR   Pfam; PF07969; Amidohydro_3; 1.
+DR   SUPFAM; SSF51338; SSF51338; 2.
+DR   PROSITE; PS01137; TATD_1; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3ICJ};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001013};
+KW   Metal-binding {ECO:0000213|PDB:3ICJ};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001013};
+KW   Zinc {ECO:0000213|PDB:3ICJ}.
+FT   METAL        99     99       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3ICJ}.
+FT   METAL       101    101       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3ICJ}.
+FT   METAL       294    294       Zinc 1. {ECO:0000213|PDB:3ICJ}.
+FT   METAL       294    294       Zinc 2. {ECO:0000213|PDB:3ICJ}.
+FT   METAL       346    346       Zinc 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3ICJ}.
+FT   METAL       371    371       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3ICJ}.
+FT   METAL       432    432       Zinc 1. {ECO:0000213|PDB:3ICJ}.
+SQ   SEQUENCE   503 AA;  56884 MW;  1828A35791AB0286 CRC64;
+     MASLPISNFF TFNHQSTLFT KVKNFMGVKH IGDCMKALIN GTIYTSFSPV KKVSGLVISN
+     ERVLYAGDSS TALRIAELAG GEIIDLKGKF VMPAFFDSHL HLDELGMSLE MVDLRGVKSM
+     EELVERVKKG RGRIIFGFGW DQDELGRWPT REDLDVIDRP VFLYRRCFHV AVMNSKMIDL
+     LNLKPSKDFD ESTGIVRERA LEESRKIINE KILTVKDYKH YIESAQEHLL SLGVHSVGFM
+     SVGEKALKAL FELEREGRLK MNVFAYLSPE LLDKLEELNL GKFEGRRLRI WGVKLFVDGS
+     LGARTALLSE PYTDNPTTSG ELVMNKDEIV EVIERAKPLG LDVAVHAIGD KAVDVALDAF
+     EEAEFSGRIE HASLVRDDQL ERIKELKVRI SAQPHFIVSD WWIVNRVGEE RAKWAYRLKT
+     LSSITKLGFS TDSPIEPADP WVSIDAAVNR YVVDPGERVS REEALHLYTH GSAQVTLAED
+     LGKLERGFRA EYIILDRDPL KEN
+//

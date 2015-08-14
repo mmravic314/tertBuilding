@@ -1,0 +1,121 @@
+ID   Q9HU77_PSEAE            Unreviewed;       453 AA.
+AC   Q9HU77;
+DT   01-MAR-2001, integrated into UniProtKB/TrEMBL.
+DT   01-MAR-2001, sequence version 1.
+DT   22-JUL-2015, entry version 83.
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAG08491.1};
+GN   OrderedLocusNames=PA5106 {ECO:0000313|EMBL:AAG08491.1};
+OS   Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG
+OS   12228).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+OC   Pseudomonadaceae; Pseudomonas.
+OX   NCBI_TaxID=208964 {ECO:0000313|EMBL:AAG08491.1, ECO:0000313|Proteomes:UP000002438};
+RN   [1] {ECO:0000313|EMBL:AAG08491.1, ECO:0000313|Proteomes:UP000002438}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228
+RC   {ECO:0000313|Proteomes:UP000002438};
+RX   PubMed=10984043; DOI=10.1038/35023079;
+RA   Stover C.K., Pham X.-Q.T., Erwin A.L., Mizoguchi S.D., Warrener P.,
+RA   Hickey M.J., Brinkman F.S.L., Hufnagle W.O., Kowalik D.J., Lagrou M.,
+RA   Garber R.L., Goltry L., Tolentino E., Westbrock-Wadman S., Yuan Y.,
+RA   Brody L.L., Coulter S.N., Folger K.R., Kas A., Larbig K., Lim R.M.,
+RA   Smith K.A., Spencer D.H., Wong G.K.-S., Wu Z., Paulsen I.T.,
+RA   Reizer J., Saier M.H. Jr., Hancock R.E.W., Lory S., Olson M.V.;
+RT   "Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+RT   opportunistic pathogen.";
+RL   Nature 406:959-964(2000).
+RN   [2] {ECO:0000213|PDB:4RDV}
+RP   X-RAY CRYSTALLOGRAPHY (2.08 ANGSTROMS) IN COMPLEX WITH ZINC.
+RA   Fedorov A.A., Fedorov E.V., Marti-Arbona R., Raushel F.M., Almo S.C.;
+RT   "The structure of N-formimino-L-Glutamate Iminohydrolase from
+RT   Pseudomonas aeruginosa complexed with N-formimino-L-Aspartate.";
+RL   Submitted (SEP-2014) to the PDB data bank.
+RN   [3] {ECO:0000213|PDB:4RDW}
+RP   X-RAY CRYSTALLOGRAPHY (1.59 ANGSTROMS) IN COMPLEX WITH ZINC.
+RA   Fedorov A.A., Fedorov E.V., Marti-Arbona R., Raushel F.M., Almo S.C.;
+RT   "The structure of N-formimino-L-Glutamate Iminohydrolase from
+RT   Pseudomonas aeruginosa complexed with N-Guanidino-L-Glutaric acid.";
+RL   Submitted (SEP-2014) to the PDB data bank.
+RN   [4] {ECO:0000213|PDB:3MDU, ECO:0000213|PDB:3MDW, ECO:0000213|PDB:4RZB}
+RP   X-RAY CRYSTALLOGRAPHY (1.40 ANGSTROMS) IN COMPLEX WITH ZINC.
+RX   PubMed=25559274; DOI=10.1021/bi501299y;
+RA   Fedorov A.A., Marti-Arbona R., Nemmara V.V., Hitchcock D.,
+RA   Fedorov E.V., Almo S.C., Raushel F.M.;
+RT   "Structure of N-formimino-L-glutamate iminohydrolase from Pseudomonas
+RT   aeruginosa.";
+RL   Biochemistry 54:890-897(2015).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE004091; AAG08491.1; -; Genomic_DNA.
+DR   PIR; C83008; C83008.
+DR   RefSeq; NP_253793.1; NC_002516.2.
+DR   RefSeq; WP_003114467.1; NC_002516.2.
+DR   PDB; 3MDU; X-ray; 1.40 A; A=1-453.
+DR   PDB; 3MDW; X-ray; 1.90 A; A/B/C/D=1-453.
+DR   PDB; 4RDV; X-ray; 2.08 A; A/B/C/D=1-453.
+DR   PDB; 4RDW; X-ray; 1.59 A; A=1-453.
+DR   PDB; 4RZB; X-ray; 1.86 A; A/B=1-453.
+DR   PDBsum; 3MDU; -.
+DR   PDBsum; 3MDW; -.
+DR   PDBsum; 4RDV; -.
+DR   PDBsum; 4RDW; -.
+DR   PDBsum; 4RZB; -.
+DR   ProteinModelPortal; Q9HU77; -.
+DR   SMR; Q9HU77; 2-451.
+DR   STRING; 208964.PA5106; -.
+DR   EnsemblBacteria; AAG08491; AAG08491; PA5106.
+DR   GeneID; 880703; -.
+DR   KEGG; pae:PA5106; -.
+DR   PATRIC; 19845045; VBIPseAer58763_5351.
+DR   PseudoCAP; PA5106; -.
+DR   HOGENOM; HOG000250648; -.
+DR   InParanoid; Q9HU77; -.
+DR   KO; K05603; -.
+DR   OMA; FHYVHHD; -.
+DR   OrthoDB; EOG6ZSP5K; -.
+DR   PhylomeDB; Q9HU77; -.
+DR   SABIO-RK; Q9HU77; -.
+DR   Proteomes; UP000002438; Chromosome.
+DR   GO; GO:0016810; F:hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 2.30.40.10; -; 1.
+DR   InterPro; IPR006680; Amidohydro_1.
+DR   InterPro; IPR010252; HutF.
+DR   InterPro; IPR011059; Metal-dep_hydrolase_composite.
+DR   PANTHER; PTHR11271:SF4; PTHR11271:SF4; 1.
+DR   Pfam; PF01979; Amidohydro_1; 1.
+DR   SUPFAM; SSF51338; SSF51338; 1.
+DR   TIGRFAMs; TIGR02022; hutF; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3MDU, ECO:0000213|PDB:3MDW};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002438};
+KW   Metal-binding {ECO:0000213|PDB:3MDU, ECO:0000213|PDB:3MDW};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000002438};
+KW   Zinc {ECO:0000213|PDB:3MDU, ECO:0000213|PDB:3MDW}.
+FT   METAL        56     56       Zinc; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3MDU,
+FT                                ECO:0000213|PDB:3MDW,
+FT                                ECO:0000213|PDB:4RDV}.
+FT   METAL        58     58       Zinc; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3MDU,
+FT                                ECO:0000213|PDB:3MDW,
+FT                                ECO:0000213|PDB:4RDV}.
+FT   METAL       232    232       Zinc; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3MDU,
+FT                                ECO:0000213|PDB:3MDW,
+FT                                ECO:0000213|PDB:4RDV}.
+FT   METAL       320    320       Zinc. {ECO:0000213|PDB:3MDU,
+FT                                ECO:0000213|PDB:3MDW,
+FT                                ECO:0000213|PDB:4RDV}.
+SQ   SEQUENCE   453 AA;  49346 MW;  A91ACEF4E7DDF5B1 CRC64;
+     MSAIFAERAL LPEGWARNVR FEISADGVLA EIRPDANADG AERLGGAVLP GMPNLHSHAF
+     QRAMAGLAEV AGNPNDSFWT WRELMYRMVA RLSPEQIEVI ACQLYIEMLK AGYTAVAEFH
+     YVHHDLDGRS YADPAELSLR ISRAASAAGI GLTLLPVLYS HAGFGGQPAS EGQRRFINGS
+     EAYLELLQRL RAPLEAAGHS LGLCFHSLRA VTPQQIATVL AAGHDDLPVH IHIAEQQKEV
+     DDCQAWSGRR PLQWLYENVA VDQRWCLVHA THADPAEVAA MARSGAVAGL CLSTEANLGD
+     GIFPATDFLA QGGRLGIGSD SHVSLSVVEE LRWLEYGQRL RDRKRNRLYR DDQPMIGRTL
+     YDAALAGGAQ ALGQPIGSLA VGRRADLLVL DGNDPYLASA EGDALLNRWL FAGGDRQVRD
+     VMVAGRWVVR DGRHAGEERS ARAFVQVLGE LLD
+//

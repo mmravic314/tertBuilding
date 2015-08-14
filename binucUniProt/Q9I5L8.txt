@@ -1,0 +1,98 @@
+ID   Q9I5L8_PSEAE            Unreviewed;       131 AA.
+AC   Q9I5L8;
+DT   01-MAR-2001, integrated into UniProtKB/TrEMBL.
+DT   01-MAR-2001, sequence version 1.
+DT   24-JUN-2015, entry version 70.
+DE   SubName: Full=Lactoylglutathione lyase {ECO:0000313|EMBL:AAG04099.1};
+GN   Name=gloA2 {ECO:0000313|EMBL:AAG04099.1};
+GN   OrderedLocusNames=PA0710 {ECO:0000313|EMBL:AAG04099.1};
+OS   Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG
+OS   12228).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+OC   Pseudomonadaceae; Pseudomonas.
+OX   NCBI_TaxID=208964 {ECO:0000313|EMBL:AAG04099.1, ECO:0000313|Proteomes:UP000002438};
+RN   [1] {ECO:0000313|EMBL:AAG04099.1, ECO:0000313|Proteomes:UP000002438}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228
+RC   {ECO:0000313|Proteomes:UP000002438};
+RX   PubMed=10984043; DOI=10.1038/35023079;
+RA   Stover C.K., Pham X.-Q.T., Erwin A.L., Mizoguchi S.D., Warrener P.,
+RA   Hickey M.J., Brinkman F.S.L., Hufnagle W.O., Kowalik D.J., Lagrou M.,
+RA   Garber R.L., Goltry L., Tolentino E., Westbrock-Wadman S., Yuan Y.,
+RA   Brody L.L., Coulter S.N., Folger K.R., Kas A., Larbig K., Lim R.M.,
+RA   Smith K.A., Spencer D.H., Wong G.K.-S., Wu Z., Paulsen I.T.,
+RA   Reizer J., Saier M.H. Jr., Hancock R.E.W., Lory S., Olson M.V.;
+RT   "Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+RT   opportunistic pathogen.";
+RL   Nature 406:959-964(2000).
+RN   [2] {ECO:0000213|PDB:4MTS}
+RP   X-RAY CRYSTALLOGRAPHY (1.80 ANGSTROMS).
+RA   Bythell-Douglas R, Flematti G.R., Challenor M., Suttisansanee U.,
+RA   Honek J.F., Bond C.S.;
+RT   "Ni- and Zn-bound GloA2 at high resolution.";
+RL   Submitted (SEP-2013) to the PDB data bank.
+RN   [3] {ECO:0000213|PDB:4MTT}
+RP   X-RAY CRYSTALLOGRAPHY (2.17 ANGSTROMS).
+RA   Bythell-Douglas R, Flematti G.R., Challenor M., Suttisansanee U.,
+RA   Honek J.F., Bond C.S.;
+RT   "Ni- and Zn-bound GloA2 at low resolution.";
+RL   Submitted (SEP-2013) to the PDB data bank.
+RN   [4] {ECO:0000213|PDB:4MTQ}
+RP   X-RAY CRYSTALLOGRAPHY (2.17 ANGSTROMS) IN COMPLEX WITH SUCCINATE.
+RA   Bythell-Douglas R., Flematti G.R., Challenor M., Suttisansanee U.,
+RA   Honek J.F., Bond C.S.;
+RT   "Ni-bound GloA2.";
+RL   Submitted (SEP-2013) to the PDB data bank.
+RN   [5] {ECO:0000213|PDB:4MTR}
+RP   X-RAY CRYSTALLOGRAPHY (1.83 ANGSTROMS).
+RA   Bythell-Douglas R, Flematti G.R., Challenor M., Suttisansanee U.,
+RA   Honek J.F., Bond C.S.;
+RT   "Zn-bound GloA2.";
+RL   Submitted (SEP-2013) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE004091; AAG04099.1; -; Genomic_DNA.
+DR   PIR; G83557; G83557.
+DR   RefSeq; NP_249401.1; NC_002516.2.
+DR   RefSeq; WP_003112706.1; NC_002516.2.
+DR   PDB; 4MTQ; X-ray; 2.17 A; A/B=1-131.
+DR   PDB; 4MTR; X-ray; 1.83 A; A/B=1-131.
+DR   PDB; 4MTS; X-ray; 1.80 A; A/B=1-131.
+DR   PDB; 4MTT; X-ray; 2.17 A; A/B=1-131.
+DR   ProteinModelPortal; Q9I5L8; -.
+DR   SMR; Q9I5L8; 1-129.
+DR   STRING; 208964.PA0710; -.
+DR   DNASU; 878796; -.
+DR   EnsemblBacteria; AAG04099; AAG04099; PA0710.
+DR   GeneID; 878796; -.
+DR   KEGG; pae:PA0710; -.
+DR   PATRIC; 19835700; VBIPseAer58763_0744.
+DR   PseudoCAP; PA0710; -.
+DR   InParanoid; Q9I5L8; -.
+DR   KO; K01759; -.
+DR   OMA; GETHIAF; -.
+DR   OrthoDB; EOG6DVJXX; -.
+DR   PhylomeDB; Q9I5L8; -.
+DR   BRENDA; 4.4.1.5; 5087.
+DR   Proteomes; UP000002438; Chromosome.
+DR   GO; GO:0004462; F:lactoylglutathione lyase activity; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:InterPro.
+DR   Gene3D; 3.10.180.10; -; 1.
+DR   InterPro; IPR029068; Glyas_Bleomycin-R_OHBP_Dase.
+DR   InterPro; IPR004360; Glyas_Fos-R_dOase_dom.
+DR   InterPro; IPR004361; Glyoxalase_1.
+DR   Pfam; PF00903; Glyoxalase; 1.
+DR   SUPFAM; SSF54593; SSF54593; 1.
+DR   TIGRFAMs; TIGR00068; glyox_I; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4MTQ, ECO:0000213|PDB:4MTR};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002438};
+KW   Lyase {ECO:0000313|EMBL:AAG04099.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000002438}.
+SQ   SEQUENCE   131 AA;  14926 MW;  B4FD576A277EC65F CRC64;
+     MRILHSMLRV ADLEAALEFY TRALDMRLLR RRDYPEGRFT LAFVGYQDER AAAALELTHN
+     WDRDGYTQGD GYGHLAIEVE DAAVTCARAR ALGYRVTREA GLMQHGRSVI AFLEDPDGYK
+     VELIQKGTQF D
+//

@@ -1,0 +1,238 @@
+ID   MYOE_DICDI              Reviewed;        1005 AA.
+AC   Q03479; Q54IK6;
+DT   01-FEB-1994, integrated into UniProtKB/Swiss-Prot.
+DT   04-DEC-2007, sequence version 2.
+DT   22-JUL-2015, entry version 107.
+DE   RecName: Full=Myosin IE heavy chain;
+GN   Name=myoE; Synonyms=dmiE; ORFNames=DDB_G0288679;
+OS   Dictyostelium discoideum (Slime mold).
+OC   Eukaryota; Amoebozoa; Mycetozoa; Dictyosteliida; Dictyostelium.
+OX   NCBI_TaxID=44689;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=AX3;
+RX   PubMed=8504170; DOI=10.1016/0167-4781(93)90185-G;
+RA   Urrutia R., Jung G., Hammer J.A. III;
+RT   "The Dictyostelium myosin IE heavy chain gene encodes a truncated
+RT   isoform that lacks sequences corresponding to the actin binding site
+RT   in the tail.";
+RL   Biochim. Biophys. Acta 1173:225-229(1993).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=AX4;
+RX   PubMed=15875012; DOI=10.1038/nature03481;
+RA   Eichinger L., Pachebat J.A., Gloeckner G., Rajandream M.A.,
+RA   Sucgang R., Berriman M., Song J., Olsen R., Szafranski K., Xu Q.,
+RA   Tunggal B., Kummerfeld S., Madera M., Konfortov B.A., Rivero F.,
+RA   Bankier A.T., Lehmann R., Hamlin N., Davies R., Gaudet P., Fey P.,
+RA   Pilcher K., Chen G., Saunders D., Sodergren E.J., Davis P.,
+RA   Kerhornou A., Nie X., Hall N., Anjard C., Hemphill L., Bason N.,
+RA   Farbrother P., Desany B., Just E., Morio T., Rost R., Churcher C.M.,
+RA   Cooper J., Haydock S., van Driessche N., Cronin A., Goodhead I.,
+RA   Muzny D.M., Mourier T., Pain A., Lu M., Harper D., Lindsay R.,
+RA   Hauser H., James K.D., Quiles M., Madan Babu M., Saito T.,
+RA   Buchrieser C., Wardroper A., Felder M., Thangavelu M., Johnson D.,
+RA   Knights A., Loulseged H., Mungall K.L., Oliver K., Price C.,
+RA   Quail M.A., Urushihara H., Hernandez J., Rabbinowitsch E., Steffen D.,
+RA   Sanders M., Ma J., Kohara Y., Sharp S., Simmonds M.N., Spiegler S.,
+RA   Tivey A., Sugano S., White B., Walker D., Woodward J.R., Winckler T.,
+RA   Tanaka Y., Shaulsky G., Schleicher M., Weinstock G.M., Rosenthal A.,
+RA   Cox E.C., Chisholm R.L., Gibbs R.A., Loomis W.F., Platzer M.,
+RA   Kay R.R., Williams J.G., Dear P.H., Noegel A.A., Barrell B.G.,
+RA   Kuspa A.;
+RT   "The genome of the social amoeba Dictyostelium discoideum.";
+RL   Nature 435:43-57(2005).
+RN   [3]
+RP   NOMENCLATURE.
+RX   PubMed=16857047; DOI=10.1186/1471-2164-7-183;
+RA   Kollmar M.;
+RT   "Thirteen is enough: the myosins of Dictyostelium discoideum and their
+RT   light chains.";
+RL   BMC Genomics 7:183-183(2006).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (3.0 ANGSTROMS) OF 1-695.
+RX   PubMed=12032065; DOI=10.1093/emboj/21.11.2517;
+RA   Kollmar M., Duerrwang U., Kliche W., Manstein D.J., Kull F.J.;
+RT   "Crystal structure of the motor domain of a class-I myosin.";
+RL   EMBO J. 21:2517-2525(2002).
+CC   -!- FUNCTION: Myosin is a protein that binds to actin and has ATPase
+CC       activity that is activated by actin. May play a role in moving
+CC       membranes relative to actin.
+CC   -!- SUBUNIT: Myosin I heavy chain is single-headed. Dimer of a heavy
+CC       and a light chain. Inability to self-assemble into filaments.
+CC   -!- SIMILARITY: Belongs to the TRAFAC class myosin-kinesin ATPase
+CC       superfamily. Myosin family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 2 IQ domains. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00116}.
+CC   -!- SIMILARITY: Contains 1 myosin motor domain. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 TH1 (class I myosin tail homology) domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01093}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAA33201.1; Type=Frameshift; Positions=136, 370, 376, 380; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; L06805; AAA33201.1; ALT_FRAME; Genomic_DNA.
+DR   EMBL; AAFI02000120; EAL63071.1; -; Genomic_DNA.
+DR   PIR; S33760; S33760.
+DR   RefSeq; XP_636580.1; XM_631488.1.
+DR   PDB; 1LKX; X-ray; 3.00 A; A/B/C/D=1-697.
+DR   PDB; 4A7F; EM; 7.70 A; C/G/J=1-697.
+DR   PDB; 4A7H; EM; 7.80 A; C/I/J=1-697.
+DR   PDB; 4A7L; EM; 8.10 A; C/G/J=1-697.
+DR   PDBsum; 1LKX; -.
+DR   PDBsum; 4A7F; -.
+DR   PDBsum; 4A7H; -.
+DR   PDBsum; 4A7L; -.
+DR   ProteinModelPortal; Q03479; -.
+DR   SMR; Q03479; 9-697.
+DR   STRING; 44689.DDB0216200; -.
+DR   PRIDE; Q03479; -.
+DR   EnsemblProtists; DDB0216200; DDB0216200; DDB_G0288679.
+DR   GeneID; 8626753; -.
+DR   KEGG; ddi:DDB_G0288679; -.
+DR   dictyBase; DDB_G0288679; myoE.
+DR   eggNOG; COG5022; -.
+DR   InParanoid; Q03479; -.
+DR   KO; K10356; -.
+DR   OMA; LANDAYR; -.
+DR   PhylomeDB; Q03479; -.
+DR   EvolutionaryTrace; Q03479; -.
+DR   PRO; PR:Q03479; -.
+DR   Proteomes; UP000002195; Chromosome 5.
+DR   Proteomes; UP000002195; Unassembled WGS sequence.
+DR   GO; GO:0031252; C:cell leading edge; IDA:dictyBase.
+DR   GO; GO:0032009; C:early phagosome; IDA:dictyBase.
+DR   GO; GO:0045160; C:myosin I complex; ISS:dictyBase.
+DR   GO; GO:0001891; C:phagocytic cup; IDA:dictyBase.
+DR   GO; GO:0003779; F:actin binding; IDA:dictyBase.
+DR   GO; GO:0030898; F:actin-dependent ATPase activity; IMP:dictyBase.
+DR   GO; GO:0005524; F:ATP binding; IDA:dictyBase.
+DR   GO; GO:0000146; F:microfilament motor activity; IDA:dictyBase.
+DR   GO; GO:0008152; P:metabolic process; IDA:GOC.
+DR   GO; GO:0006909; P:phagocytosis; IMP:dictyBase.
+DR   InterPro; IPR000048; IQ_motif_EF-hand-BS.
+DR   InterPro; IPR001609; Myosin_head_motor_dom.
+DR   InterPro; IPR010926; Myosin_tail_2.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   Pfam; PF00612; IQ; 2.
+DR   Pfam; PF00063; Myosin_head; 1.
+DR   Pfam; PF06017; Myosin_TH1; 1.
+DR   PRINTS; PR00193; MYOSINHEAVY.
+DR   SMART; SM00015; IQ; 1.
+DR   SMART; SM00242; MYSc; 1.
+DR   SUPFAM; SSF52540; SSF52540; 1.
+DR   PROSITE; PS50096; IQ; 2.
+DR   PROSITE; PS51456; MYOSIN_MOTOR; 1.
+DR   PROSITE; PS51757; TH1; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Actin-binding; ATP-binding; Calmodulin-binding;
+KW   Complete proteome; Motor protein; Myosin; Nucleotide-binding;
+KW   Reference proteome; Repeat.
+FT   CHAIN         1   1005       Myosin IE heavy chain.
+FT                                /FTId=PRO_0000123369.
+FT   DOMAIN        8    693       Myosin motor.
+FT   DOMAIN      694    722       IQ 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00116}.
+FT   DOMAIN      716    745       IQ 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00116}.
+FT   DOMAIN      810   1004       TH1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU01093}.
+FT   NP_BIND     101    108       ATP.
+FT   REGION      556    630       Actin-binding.
+FT   CONFLICT     26     26       E -> D (in Ref. 1; AAA33201).
+FT                                {ECO:0000305}.
+FT   CONFLICT     48     48       T -> R (in Ref. 1; AAA33201).
+FT                                {ECO:0000305}.
+FT   CONFLICT    427    429       VRE -> K (in Ref. 1; AAA33201).
+FT                                {ECO:0000305}.
+FT   CONFLICT    440    440       Missing (in Ref. 1; AAA33201).
+FT                                {ECO:0000305}.
+FT   CONFLICT    498    498       I -> N (in Ref. 1; AAA33201).
+FT                                {ECO:0000305}.
+FT   CONFLICT    604    604       V -> D (in Ref. 1; AAA33201).
+FT                                {ECO:0000305}.
+FT   CONFLICT    681    683       NPT -> IPR (in Ref. 1; AAA33201).
+FT                                {ECO:0000305}.
+FT   CONFLICT    735    735       K -> N (in Ref. 1; AAA33201).
+FT                                {ECO:0000305}.
+FT   CONFLICT    763    763       H -> D (in Ref. 1; AAA33201).
+FT                                {ECO:0000305}.
+FT   CONFLICT    828    828       S -> W (in Ref. 1; AAA33201).
+FT                                {ECO:0000305}.
+FT   CONFLICT    889    889       K -> N (in Ref. 1; AAA33201).
+FT                                {ECO:0000305}.
+FT   CONFLICT    997    998       NQ -> KE (in Ref. 1; AAA33201).
+FT                                {ECO:0000305}.
+FT   HELIX        13     15       {ECO:0000244|PDB:1LKX}.
+FT   HELIX        21     33       {ECO:0000244|PDB:1LKX}.
+FT   STRAND       38     43       {ECO:0000244|PDB:1LKX}.
+FT   STRAND       45     48       {ECO:0000244|PDB:1LKX}.
+FT   HELIX        59     65       {ECO:0000244|PDB:1LKX}.
+FT   HELIX        70     72       {ECO:0000244|PDB:1LKX}.
+FT   HELIX        77     91       {ECO:0000244|PDB:1LKX}.
+FT   STRAND       95    100       {ECO:0000244|PDB:1LKX}.
+FT   HELIX       107    121       {ECO:0000244|PDB:1LKX}.
+FT   HELIX       127    147       {ECO:0000244|PDB:1LKX}.
+FT   STRAND      160    168       {ECO:0000244|PDB:1LKX}.
+FT   STRAND      174    182       {ECO:0000244|PDB:1LKX}.
+FT   HELIX       186    189       {ECO:0000244|PDB:1LKX}.
+FT   HELIX       200    206       {ECO:0000244|PDB:1LKX}.
+FT   HELIX       211    217       {ECO:0000244|PDB:1LKX}.
+FT   HELIX       223    225       {ECO:0000244|PDB:1LKX}.
+FT   HELIX       227    230       {ECO:0000244|PDB:1LKX}.
+FT   TURN        231    233       {ECO:0000244|PDB:1LKX}.
+FT   HELIX       242    255       {ECO:0000244|PDB:1LKX}.
+FT   HELIX       260    276       {ECO:0000244|PDB:1LKX}.
+FT   STRAND      281    284       {ECO:0000244|PDB:1LKX}.
+FT   TURN        288    290       {ECO:0000244|PDB:1LKX}.
+FT   STRAND      293    298       {ECO:0000244|PDB:1LKX}.
+FT   HELIX       299    309       {ECO:0000244|PDB:1LKX}.
+FT   HELIX       313    321       {ECO:0000244|PDB:1LKX}.
+FT   HELIX       342    372       {ECO:0000244|PDB:1LKX}.
+FT   STRAND      381    386       {ECO:0000244|PDB:1LKX}.
+FT   STRAND      394    396       {ECO:0000244|PDB:1LKX}.
+FT   HELIX       398    418       {ECO:0000244|PDB:1LKX}.
+FT   HELIX       420    426       {ECO:0000244|PDB:1LKX}.
+FT   HELIX       443    447       {ECO:0000244|PDB:1LKX}.
+FT   STRAND      450    454       {ECO:0000244|PDB:1LKX}.
+FT   HELIX       455    464       {ECO:0000244|PDB:1LKX}.
+FT   HELIX       470    480       {ECO:0000244|PDB:1LKX}.
+FT   STRAND      481    484       {ECO:0000244|PDB:1LKX}.
+FT   TURN        490    492       {ECO:0000244|PDB:1LKX}.
+FT   STRAND      502    507       {ECO:0000244|PDB:1LKX}.
+FT   STRAND      510    515       {ECO:0000244|PDB:1LKX}.
+FT   HELIX       519    524       {ECO:0000244|PDB:1LKX}.
+FT   HELIX       529    536       {ECO:0000244|PDB:1LKX}.
+FT   HELIX       541    546       {ECO:0000244|PDB:1LKX}.
+FT   HELIX       562    577       {ECO:0000244|PDB:1LKX}.
+FT   STRAND      580    588       {ECO:0000244|PDB:1LKX}.
+FT   HELIX       601    610       {ECO:0000244|PDB:1LKX}.
+FT   HELIX       614    622       {ECO:0000244|PDB:1LKX}.
+FT   HELIX       631    634       {ECO:0000244|PDB:1LKX}.
+FT   STRAND      639    641       {ECO:0000244|PDB:1LKX}.
+FT   HELIX       654    661       {ECO:0000244|PDB:1LKX}.
+FT   HELIX       667    669       {ECO:0000244|PDB:1LKX}.
+FT   STRAND      670    672       {ECO:0000244|PDB:1LKX}.
+FT   STRAND      674    682       {ECO:0000244|PDB:1LKX}.
+FT   HELIX       683    689       {ECO:0000244|PDB:1LKX}.
+SQ   SEQUENCE   1005 AA;  114795 MW;  8E3D638C7043CF0A CRC64;
+     MIPKTKAEGV PDFVLLNQIT ENAFIENLTM RHKSDNIYTY IGDVVISTNP FKNLNIYKES
+     DIKAYNGRYK YEMPPHIYAL ANDAYRSMRQ SQENQCVIIS GESGAGKTEA SKKIMQFLTF
+     VSSNQSPNGE RISKMLLDSN PLLEAFGNAK TLRNDNSSRF GKYMEMQFNA VGSPIGGKIT
+     NYLLEKSRVV GRTQGERSFH IFYQMLKGLS QSKLNELGLT PNAPAYEYLK KSGCFDVSTI
+     DDSGEFKIIV KAMETLGLKE SDQNSIWRIL AAILHIGNIT FAEAAEQRTG TTTVKVSDTK
+     SLAAAASCLK TDQQSLSIAL CYRSISTGVG KRCSVISVPM DCNQAAYSRD ALAKALYERL
+     FNWLVSKINT IINCTTEKGP VIGILDIYGF EVFQNNSFEQ LNINFCNEKL QQLFIELTLK
+     SEQEEYVREG IEWKNIEYFN NKPICELIEK KPIGLISLLD EACLIAKSTD QTFLDSICKQ
+     FEKNPHLQSY VVSKDRSIGD TCFRLKHYAG DVTYDVRGFL DKNKDTLFGD LISSMQSSSD
+     PLVQGLFPPT RPEDSKKRPE TAGSQFRNAM NALITTLLAC SPHYVRCIKS NDNKQAGVID
+     EDRVRHQVRY LGLLENVRVR RAGFAGRIEY TRFYNRYKML CKKTWPSFNG TAKQATELIL
+     QQHNIDKEEI RMGKTKVFIR NPTTLFYFEE KRELEMPRIV TLIQKTWRGY RARSKWNQRK
+     AAIKIQLFYR SYRYKKWFRE LHRAFKDVAR DPQWGKQVFW PKHPSILDRA VQLTHKIHNC
+     WRAEKMILSL GAGQNHMRQK VMAYDIFHGK KKWDFRRHFD ADYLEKPSNP NQQKYVLAMQ
+     NLFSTYGDTE VLFADYVIKV NPKGVPQRRG IVVTGTNIYK HDPKNYKVKK WGTPLVDVTS
+     ISISPMADTF LVLHCKAPQR DFVLDLGCNG YEAVSEITTV IVQQVLKLTG VKLSVQFTSS
+     ITYNNARPKG SDTILTFAPI NNDPKLIGSQ FKKGKGNQAT IQFKD
+//

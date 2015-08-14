@@ -1,0 +1,130 @@
+ID   Q0P8W7_CAMJE            Unreviewed;       443 AA.
+AC   Q0P8W7;
+DT   19-SEP-2006, integrated into UniProtKB/TrEMBL.
+DT   19-SEP-2006, sequence version 1.
+DT   22-JUL-2015, entry version 66.
+DE   SubName: Full=Biotin carboxylase {ECO:0000313|EMBL:CAL35404.1};
+DE            EC=6.3.4.14 {ECO:0000313|EMBL:CAL35404.1};
+DE            EC=6.4.1.2 {ECO:0000313|EMBL:CAL35404.1};
+GN   Name=accC {ECO:0000313|EMBL:CAL35404.1};
+GN   OrderedLocusNames=Cj1290c {ECO:0000313|EMBL:CAL35404.1};
+OS   Campylobacter jejuni subsp. jejuni serotype O:2 (strain NCTC 11168).
+OC   Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales;
+OC   Campylobacteraceae; Campylobacter.
+OX   NCBI_TaxID=192222 {ECO:0000313|EMBL:CAL35404.1, ECO:0000313|Proteomes:UP000000799};
+RN   [1] {ECO:0000313|EMBL:CAL35404.1, ECO:0000313|Proteomes:UP000000799}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=NCTC 11168 {ECO:0000313|EMBL:CAL35404.1,
+RC   ECO:0000313|Proteomes:UP000000799};
+RX   PubMed=10688204; DOI=10.1038/35001088;
+RA   Parkhill J., Wren B.W., Mungall K., Ketley J.M., Churcher C.,
+RA   Basham D., Chillingworth T., Davies R.M., Feltwell T., Holroyd S.,
+RA   Jagels K., Karlyshev A., Moule S., Pallen M.J., Penn C.W., Quail M.,
+RA   Rajandream M.A., Rutherford K.M., VanVliet A., Whitehead S.,
+RA   Barrell B.G.;
+RT   "The genome sequence of the food-borne pathogen Campylobacter jejuni
+RT   reveals hypervariable sequences.";
+RL   Nature 403:665-668(2000).
+RN   [2] {ECO:0000213|PDB:3OUZ}
+RP   X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS) IN COMPLEX WITH ADP.
+RG   Center for Structural Genomics of Infectious Diseases (CSGID);
+RA   Maltseva N., Kim Y., Makowska-Grzyska M., Mulligan R., Papazisi L.,
+RA   Anderson W.F., Joachimiak A.;
+RT   "Crystal Structure of Biotin Carboxylase-ADP complex from
+RT   Campylobacter jejuni.";
+RL   Submitted (SEP-2010) to the PDB data bank.
+RN   [3] {ECO:0000213|PDB:3OUU}
+RP   X-RAY CRYSTALLOGRAPHY (2.25 ANGSTROMS) IN COMPLEX WITH ATPANALOG AND
+RP   CALCIUM.
+RG   Center for Structural Genomics of Infectious Diseases (CSGID);
+RA   Maltseva N., Kim Y., Makowska-Grzyska M., Mulligan R., Papazisi L.,
+RA   Anderson W.F., Joachimiak A.;
+RT   "Crystal Structure of Biotin Carboxylase-beta-gamma-ATP Complex from
+RT   Campylobacter jejuni.";
+RL   Submitted (SEP-2010) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AL111168; CAL35404.1; -; Genomic_DNA.
+DR   PIR; G81271; G81271.
+DR   RefSeq; WP_002858001.1; NC_002163.1.
+DR   RefSeq; YP_002344680.1; NC_002163.1.
+DR   PDB; 3OUU; X-ray; 2.25 A; A/B=1-443.
+DR   PDB; 3OUZ; X-ray; 1.90 A; A/B=1-443.
+DR   ProteinModelPortal; Q0P8W7; -.
+DR   SMR; Q0P8W7; 3-443.
+DR   STRING; 192222.Cj1290c; -.
+DR   EnsemblBacteria; CAL35404; CAL35404; Cj1290c.
+DR   GeneID; 905582; -.
+DR   KEGG; cje:Cj1290c; -.
+DR   PATRIC; 20059544; VBICamJej33762_1272.
+DR   HOGENOM; HOG000008988; -.
+DR   KO; K01961; -.
+DR   OMA; QIKGHAI; -.
+DR   OrthoDB; EOG6CVV6Z; -.
+DR   BioCyc; CJEJ192222:GJTS-1263-MONOMER; -.
+DR   EvolutionaryTrace; Q0P8W7; -.
+DR   Proteomes; UP000000799; Chromosome.
+DR   GO; GO:0003989; F:acetyl-CoA carboxylase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0005524; F:ATP binding; IEA:InterPro.
+DR   GO; GO:0004075; F:biotin carboxylase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.30.1490.20; -; 1.
+DR   Gene3D; 3.30.470.20; -; 1.
+DR   Gene3D; 3.40.50.20; -; 1.
+DR   InterPro; IPR004549; Acetyl_CoA_COase_biotin_COase.
+DR   InterPro; IPR011761; ATP-grasp.
+DR   InterPro; IPR013815; ATP_grasp_subdomain_1.
+DR   InterPro; IPR013816; ATP_grasp_subdomain_2.
+DR   InterPro; IPR011764; Biotin_carboxylation_dom.
+DR   InterPro; IPR005482; Biotin_COase_C.
+DR   InterPro; IPR005481; CarbamoylP_synth_lsu_N.
+DR   InterPro; IPR005479; CbamoylP_synth_lsu-like_ATP-bd.
+DR   InterPro; IPR016185; PreATP-grasp_dom.
+DR   InterPro; IPR011054; Rudment_hybrid_motif.
+DR   Pfam; PF02785; Biotin_carb_C; 1.
+DR   Pfam; PF00289; CPSase_L_chain; 1.
+DR   Pfam; PF02786; CPSase_L_D2; 1.
+DR   SMART; SM00878; Biotin_carb_C; 1.
+DR   SUPFAM; SSF51246; SSF51246; 1.
+DR   SUPFAM; SSF52440; SSF52440; 1.
+DR   TIGRFAMs; TIGR00514; accC; 1.
+DR   PROSITE; PS50975; ATP_GRASP; 1.
+DR   PROSITE; PS50979; BC; 1.
+DR   PROSITE; PS00866; CPSASE_1; 1.
+DR   PROSITE; PS00867; CPSASE_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3OUU, ECO:0000213|PDB:3OUZ};
+KW   Calcium {ECO:0000213|PDB:3OUU};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000799};
+KW   Ligase {ECO:0000313|EMBL:CAL35404.1};
+KW   Metal-binding {ECO:0000213|PDB:3OUU, ECO:0000213|PDB:3OUZ};
+KW   Nucleotide-binding {ECO:0000213|PDB:3OUU, ECO:0000213|PDB:3OUZ};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000799}.
+FT   NP_BIND     165    166       ATPanalog. {ECO:0000213|PDB:3OUU}.
+FT   NP_BIND     201    204       ADP. {ECO:0000213|PDB:3OUZ}.
+FT   NP_BIND     201    204       ATPanalog. {ECO:0000213|PDB:3OUU}.
+FT   NP_BIND     233    236       ATPanalog. {ECO:0000213|PDB:3OUU}.
+FT   BINDING     117    117       ADP. {ECO:0000213|PDB:3OUZ}.
+FT   BINDING     117    117       ATPanalog. {ECO:0000213|PDB:3OUU}.
+FT   BINDING     159    159       ADP. {ECO:0000213|PDB:3OUZ}.
+FT   BINDING     159    159       ATPanalog. {ECO:0000213|PDB:3OUU}.
+FT   BINDING     166    166       ADP; via amide nitrogen.
+FT                                {ECO:0000213|PDB:3OUZ}.
+FT   BINDING     209    209       ADP. {ECO:0000213|PDB:3OUZ}.
+FT   BINDING     209    209       ATPanalog. {ECO:0000213|PDB:3OUU}.
+FT   BINDING     233    233       ADP. {ECO:0000213|PDB:3OUZ}.
+FT   BINDING     276    276       ADP. {ECO:0000213|PDB:3OUZ}.
+FT   BINDING     289    289       ADP. {ECO:0000213|PDB:3OUZ}.
+FT   BINDING     289    289       ATPanalog. {ECO:0000213|PDB:3OUU}.
+SQ   SEQUENCE   443 AA;  49091 MW;  0D15B69E585B37B3 CRC64;
+     MEIKSILIAN RGEIALRALR TIKEMGKKAI CVYSEADKDA LYLKYADASI CIGKARSSES
+     YLNIPAIIAA AEIAEADAIF PGYGFLSENQ NFVEICAKHN IKFIGPSVEA MNLMSDKSKA
+     KQVMQRAGVP VIPGSDGALA GAEAAKKLAK EIGYPVILKA AAGGGGRGMR VVENEKDLEK
+     AYWSAESEAM TAFGDGTMYM EKYIQNPRHI EVQVIGDSFG NVIHVGERDC SMQRRHQKLI
+     EESPAILLDE KTRTRLHETA IKAAKAIGYE GAGTFEFLVD KNLDFYFIEM NTRLQVEHCV
+     SEMVSGIDII EQMIKVAEGY ALPSQESIKL NGHSIECRIT AEDSKTFLPS PGKITKYIPP
+     AGRNVRMESH CYQDYSVPAY YDSMIGKLVV WAEDRNKAIA KMKVALDELL ISGIKTTKDF
+     HLSMMENPDF INNNYDTNYL ARH
+//

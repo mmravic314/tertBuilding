@@ -1,0 +1,308 @@
+ID   MCE_VACCW               Reviewed;         333 AA.
+AC   P07617;
+DT   01-APR-1988, integrated into UniProtKB/Swiss-Prot.
+DT   01-APR-1988, sequence version 1.
+DT   01-APR-2015, entry version 106.
+DE   RecName: Full=Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase;
+DE            EC=2.1.1.57;
+DE   AltName: Full=Poly(A) polymerase regulatory subunit;
+DE   AltName: Full=Poly(A) polymerase small subunit;
+DE            Short=PAP-S;
+DE   AltName: Full=VP39;
+GN   Name=PAPS; OrderedLocusNames=VACWR095; ORFNames=J3R;
+OS   Vaccinia virus (strain Western Reserve) (VACV) (Vaccinia virus (strain
+OS   WR)).
+OC   Viruses; dsDNA viruses, no RNA stage; Poxviridae; Chordopoxvirinae;
+OC   Orthopoxvirus; Vaccinia virus.
+OX   NCBI_TaxID=10254;
+OH   NCBI_TaxID=9913; Bos taurus (Bovine).
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=2987815; DOI=10.1093/nar/13.3.985;
+RA   Plucienniczak A., Schroeder E., Zettlmeissl G., Streeck R.E.;
+RT   "Nucleotide sequence of a cluster of early and late genes in a
+RT   conserved segment of the vaccinia virus genome.";
+RL   Nucleic Acids Res. 13:985-998(1985).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Esposito J.J., Frace A.M., Sammons S.A., Olsen-Rasmussen M.,
+RA   Osborne J., Wohlhueter R.;
+RT   "Sequencing of the coding region of Vaccinia-WR to an average 9-fold
+RT   redundancy and an error rate of 0.16/10kb.";
+RL   Submitted (FEB-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   PROTEIN SEQUENCE OF 196-205; 210-219 AND 247-256, AND FUNCTION.
+RX   PubMed=1313572; DOI=10.1073/pnas.89.7.2897;
+RA   Schnierle B.S., Gershon P.D., Moss B.;
+RT   "Cap-specific mRNA (nucleoside-O2'-)-methyltransferase and poly(A)
+RT   polymerase stimulatory activities of vaccinia virus are mediated by a
+RT   single protein.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 89:2897-2901(1992).
+RN   [4]
+RP   FUNCTION, AND INTERACTION WITH VP55/E1.
+RX   PubMed=1670500; DOI=10.1016/0092-8674(91)90048-4;
+RA   Gershon P.D., Ahn B.-Y., Garfield M., Moss B.;
+RT   "Poly(A) polymerase and a dissociable polyadenylation stimulatory
+RT   factor encoded by vaccinia virus.";
+RL   Cell 66:1269-1278(1991).
+RN   [5]
+RP   INTERACTION WITH H4 AND NPH-I/D11.
+RX   PubMed=11162828; DOI=10.1006/viro.2000.0749;
+RA   Mohamed M.R., Latner D.R., Condit R.C., Niles E.G.;
+RT   "Interaction between the J3R subunit of vaccinia virus poly(A)
+RT   polymerase and the H4L subunit of the viral RNA polymerase.";
+RL   Virology 280:143-152(2001).
+RN   [6]
+RP   RNA-BINDING.
+RX   PubMed=12079779; DOI=10.1016/S1074-5521(02)00163-1;
+RA   Oguro A., Johnson L., Gershon P.D.;
+RT   "Path of an RNA ligand around the surface of the vaccinia VP39 subunit
+RT   of its cognate VP39-VP55 protein heterodimer.";
+RL   Chem. Biol. 9:679-690(2002).
+RN   [7]
+RP   FUNCTION, AND MUTAGENESIS OF HIS-56; ILE-58; GLY-96 AND LYS-175.
+RX   PubMed=12359447; DOI=10.1006/viro.2002.1538;
+RA   Latner D.R., Thompson J.M., Gershon P.D., Storrs C., Condit R.C.;
+RT   "The positive transcription elongation factor activity of the vaccinia
+RT   virus J3 protein is independent from its (nucleoside-2'-O-)
+RT   methyltransferase and poly(A) polymerase stimulatory functions.";
+RL   Virology 301:64-80(2002).
+RN   [8]
+RP   ACTIVE SITE.
+RX   PubMed=15134442; DOI=10.1021/bi0359980;
+RA   Li C., Xia Y., Gao X., Gershon P.D.;
+RT   "Mechanism of RNA 2'-O-methylation: evidence that the catalytic lysine
+RT   acts to steer rather than deprotonate the target nucleophile.";
+RL   Biochemistry 43:5680-5687(2004).
+RN   [9]
+RP   X-RAY CRYSTALLOGRAPHY (1.85 ANGSTROMS) IN COMPLEX WITH
+RP   S-ADENOSYL-L-METHIONINE.
+RX   PubMed=8612277; DOI=10.1016/S0092-8674(00)81101-0;
+RA   Hodel A.E., Gershon P.D., Shi X., Quiocho F.A.;
+RT   "The 1.85 A structure of vaccinia protein VP39: a bifunctional enzyme
+RT   that participates in the modification of both mRNA ends.";
+RL   Cell 85:247-256(1996).
+RN   [10]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) IN COMPLEX WITH SUBSTRATE
+RP   ANALOGS.
+RX   PubMed=9145102; DOI=10.1038/nsb0597-350;
+RA   Hodel A.E., Gershon P.D., Shi X., Wang S.-M., Quiocho F.A.;
+RT   "Specific protein recognition of an mRNA cap through its alkylated
+RT   base.";
+RL   Nat. Struct. Biol. 4:350-354(1997).
+RN   [11]
+RP   X-RAY CRYSTALLOGRAPHY (2.7 ANGSTROMS) IN COMPLEX WITH
+RP   S-ADENOSYLHOMOCYSTEINE AND SUBSTRATE ANALOG.
+RX   PubMed=9660928; DOI=10.1016/S1097-2765(00)80044-1;
+RA   Hodel A.E., Gershon P.D., Quiocho F.A.;
+RT   "Structural basis for sequence-nonspecific recognition of 5'-capped
+RT   mRNA by a cap-modifying enzyme.";
+RL   Mol. Cell 1:443-447(1998).
+RN   [12]
+RP   X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS) OF 1-307 IN COMPLEXES WITH
+RP   SUBSTRATE ANALOGS.
+RX   PubMed=10377383; DOI=10.1073/pnas.96.13.7149;
+RA   Hu G., Gershon P.D., Hodel A.E., Quiocho F.A.;
+RT   "mRNA cap recognition: dominant role of enhanced stacking interactions
+RT   between methylated bases and protein aromatic side chains.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 96:7149-7154(1999).
+RN   [13]
+RP   X-RAY CRYSTALLOGRAPHY (1.93 ANGSTROMS) OF 1-307 IN COMPLEX WITH
+RP   SUBSTRATES.
+RX   PubMed=12056899; DOI=10.1021/bi0201926;
+RA   Hu G., Oguro A., Li C., Gershon P.D., Quiocho F.A.;
+RT   "The 'cap-binding slot' of an mRNA cap-binding protein: quantitative
+RT   effects of aromatic side chain choice in the double-stacking sandwich
+RT   with cap.";
+RL   Biochemistry 41:7677-7687(2002).
+CC   -!- FUNCTION: Displays methyltransferase, positive regulation of the
+CC       poly(A) polymerase and transcription elongation activities.
+CC       Involved in the modification of both mRNA ends and in intermediate
+CC       and late gene positive transcription elongation. At the mRNAs 5'
+CC       end, methylates the ribose 2' OH group of the first transcribed
+CC       nucleotide, thereby producing a 2'-O-methylpurine cap. At the 3'
+CC       end, functions as a processivity factor which stimulates the
+CC       activity of the viral poly(A) polymerase VP55 that creates mRNA's
+CC       poly(A) tail. In the presence of VP39, VP55 does not dissociate
+CC       from the RNA allowing tail elongation to around 250 adenylates.
+CC       {ECO:0000269|PubMed:12359447, ECO:0000269|PubMed:1313572,
+CC       ECO:0000269|PubMed:1670500}.
+CC   -!- CATALYTIC ACTIVITY: S-adenosyl-L-methionine + a 5'-(N(7)-methyl
+CC       5'-triphosphoguanosine)-(purine-ribonucleotide)-(mRNA) = S-
+CC       adenosyl-L-homocysteine + a 5'-(N(7)-methyl 5'-
+CC       triphosphoguanosine)-(2'-O-methyl-purine-ribonucleotide)-(mRNA).
+CC   -!- SUBUNIT: Methyltransferase activity: Monomer, poly(A) polymerase
+CC       activity: Heterodimer composed of a catalytic component, VP55, and
+CC       a processivity factor, VP39. Interacts with Rap94 and NPH-I; these
+CC       interactions might help linking transcription to capping and
+CC       polyadenylation. {ECO:0000269|PubMed:11162828,
+CC       ECO:0000269|PubMed:12056899, ECO:0000269|PubMed:1670500,
+CC       ECO:0000269|PubMed:8612277, ECO:0000269|PubMed:9145102,
+CC       ECO:0000269|PubMed:9660928}.
+CC   -!- SUBCELLULAR LOCATION: Virion {ECO:0000305}. Note=Localizes to the
+CC       virion core. {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the class I-like SAM-binding
+CC       methyltransferase superfamily. Poxvirus/kinetoplastid 2'-O-MTase
+CC       family. {ECO:0000255|PROSITE-ProRule:PRU00944}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X01978; CAA26017.1; -; Genomic_DNA.
+DR   EMBL; AY243312; AAO89374.1; -; Genomic_DNA.
+DR   PIR; H23092; QQVZF9.
+DR   RefSeq; YP_232977.1; NC_006998.1.
+DR   PDB; 1AV6; X-ray; 2.80 A; A=3-297.
+DR   PDB; 1B42; X-ray; 2.20 A; A=1-297.
+DR   PDB; 1BKY; X-ray; 2.00 A; A=1-307.
+DR   PDB; 1EAM; X-ray; 2.00 A; A=1-307.
+DR   PDB; 1EQA; X-ray; 2.20 A; A=1-297.
+DR   PDB; 1JSZ; X-ray; 1.93 A; A=1-307.
+DR   PDB; 1JTE; X-ray; 2.00 A; A=1-307.
+DR   PDB; 1JTF; X-ray; 2.60 A; A=1-307.
+DR   PDB; 1P39; X-ray; 2.00 A; A=1-307.
+DR   PDB; 1V39; X-ray; 1.80 A; A=1-307.
+DR   PDB; 1VP3; X-ray; 1.90 A; A=1-333.
+DR   PDB; 1VP9; X-ray; 1.95 A; A=1-307.
+DR   PDB; 1VPT; X-ray; 1.80 A; A=1-333.
+DR   PDB; 2GA9; X-ray; 2.30 A; A=1-297.
+DR   PDB; 2GAF; X-ray; 2.40 A; A=1-297.
+DR   PDB; 2VP3; X-ray; 1.95 A; A=1-307.
+DR   PDB; 3ER8; X-ray; 3.18 A; A/B=1-297.
+DR   PDB; 3ER9; X-ray; 2.06 A; A=1-297.
+DR   PDB; 3ERC; X-ray; 3.21 A; A/B=1-297.
+DR   PDB; 3MAG; X-ray; 1.80 A; A=1-307.
+DR   PDB; 3MCT; X-ray; 2.00 A; A=1-297.
+DR   PDB; 4DCG; X-ray; 1.80 A; A=1-307.
+DR   PDBsum; 1AV6; -.
+DR   PDBsum; 1B42; -.
+DR   PDBsum; 1BKY; -.
+DR   PDBsum; 1EAM; -.
+DR   PDBsum; 1EQA; -.
+DR   PDBsum; 1JSZ; -.
+DR   PDBsum; 1JTE; -.
+DR   PDBsum; 1JTF; -.
+DR   PDBsum; 1P39; -.
+DR   PDBsum; 1V39; -.
+DR   PDBsum; 1VP3; -.
+DR   PDBsum; 1VP9; -.
+DR   PDBsum; 1VPT; -.
+DR   PDBsum; 2GA9; -.
+DR   PDBsum; 2GAF; -.
+DR   PDBsum; 2VP3; -.
+DR   PDBsum; 3ER8; -.
+DR   PDBsum; 3ER9; -.
+DR   PDBsum; 3ERC; -.
+DR   PDBsum; 3MAG; -.
+DR   PDBsum; 3MCT; -.
+DR   PDBsum; 4DCG; -.
+DR   ProteinModelPortal; P07617; -.
+DR   SMR; P07617; 1-297.
+DR   DIP; DIP-48310N; -.
+DR   GeneID; 3707551; -.
+DR   KEGG; vg:3707551; -.
+DR   BRENDA; 2.1.1.57; 6591.
+DR   EvolutionaryTrace; P07617; -.
+DR   Proteomes; UP000000344; Genome.
+DR   GO; GO:0019012; C:virion; IEA:UniProtKB-SubCell.
+DR   GO; GO:0004483; F:mRNA (nucleoside-2'-O-)-methyltransferase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0003746; F:translation elongation factor activity; IEA:UniProtKB-KW.
+DR   GO; GO:0006370; P:7-methylguanosine mRNA capping; IEA:UniProtKB-KW.
+DR   GO; GO:0031440; P:regulation of mRNA 3'-end processing; IEA:InterPro.
+DR   GO; GO:0006351; P:transcription, DNA-templated; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.50.150; -; 1.
+DR   InterPro; IPR000176; mRNA_MeTrfase-like.
+DR   InterPro; IPR025804; Pox/kineto_cap_MeTfrase.
+DR   InterPro; IPR030375; Poxvir_cap_MeTfrase.
+DR   InterPro; IPR029063; SAM-dependent_MTases.
+DR   Pfam; PF01358; PARP_regulatory; 1.
+DR   PIRSF; PIRSF003726; PolA_polym_reg_poxV; 1.
+DR   SUPFAM; SSF53335; SSF53335; 1.
+DR   PROSITE; PS51612; SAM_MT_2O_PK; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Direct protein sequencing;
+KW   Elongation factor; Methyltransferase; mRNA capping; mRNA processing;
+KW   Protein biosynthesis; Reference proteome; RNA-binding;
+KW   S-adenosyl-L-methionine; Transcription; Transferase; Virion.
+FT   CHAIN         1    333       Cap-specific mRNA (nucleoside-2'-O-)-
+FT                                methyltransferase.
+FT                                /FTId=PRO_0000099112.
+FT   REGION      169    333       Binding to Rap94.
+FT   REGION      169    249       Binding to NPH-I.
+FT   REGION      177    180       mRNA cap binding.
+FT   REGION      205    207       mRNA cap binding.
+FT   ACT_SITE    175    175       For methyltransferase activity.
+FT                                {ECO:0000305|PubMed:15134442}.
+FT   BINDING      22     22       mRNA cap.
+FT   BINDING      39     39       S-adenosyl-L-methionine.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00944,
+FT                                ECO:0000269|PubMed:8612277}.
+FT   BINDING      66     66       S-adenosyl-L-methionine.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00944,
+FT                                ECO:0000269|PubMed:8612277}.
+FT   BINDING      68     68       S-adenosyl-L-methionine; via carbonyl
+FT                                oxygen. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00944,
+FT                                ECO:0000269|PubMed:8612277}.
+FT   BINDING      72     72       S-adenosyl-L-methionine; via amide
+FT                                nitrogen. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00944,
+FT                                ECO:0000269|PubMed:8612277}.
+FT   BINDING      95     95       S-adenosyl-L-methionine.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00944,
+FT                                ECO:0000269|PubMed:8612277}.
+FT   BINDING      97     97       S-adenosyl-L-methionine.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00944,
+FT                                ECO:0000269|PubMed:8612277}.
+FT   BINDING     116    116       S-adenosyl-L-methionine; via amide
+FT                                nitrogen and carbonyl oxygen.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00944,
+FT                                ECO:0000269|PubMed:8612277}.
+FT   BINDING     138    138       S-adenosyl-L-methionine.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00944,
+FT                                ECO:0000269|PubMed:8612277}.
+FT   BINDING     182    182       mRNA cap.
+FT   BINDING     233    233       mRNA cap.
+FT   MUTAGEN      56     56       H->R: Complete loss of poly(A) polymerase
+FT                                stimulatory activity; when associated
+FT                                with S-58. {ECO:0000269|PubMed:12359447}.
+FT   MUTAGEN      58     58       I->S: Complete loss of poly(A) polymerase
+FT                                stimulatory activity; when associated
+FT                                with R-56. {ECO:0000269|PubMed:12359447}.
+FT   MUTAGEN      96     96       G->D: Complete loss of elongation factor
+FT                                activity. {ECO:0000269|PubMed:12359447}.
+FT   MUTAGEN     175    175       K->R: Complete loss of methyltransferase
+FT                                activity. {ECO:0000269|PubMed:12359447}.
+FT   HELIX        13     15       {ECO:0000244|PDB:1V39}.
+FT   HELIX        24     28       {ECO:0000244|PDB:1V39}.
+FT   HELIX        37     55       {ECO:0000244|PDB:1V39}.
+FT   TURN         58     61       {ECO:0000244|PDB:3ERC}.
+FT   STRAND       63     68       {ECO:0000244|PDB:1V39}.
+FT   HELIX        73     84       {ECO:0000244|PDB:1V39}.
+FT   STRAND       90     97       {ECO:0000244|PDB:1V39}.
+FT   HELIX       101    103       {ECO:0000244|PDB:1V39}.
+FT   STRAND      109    113       {ECO:0000244|PDB:1V39}.
+FT   HELIX       118    128       {ECO:0000244|PDB:1V39}.
+FT   STRAND      133    137       {ECO:0000244|PDB:1V39}.
+FT   HELIX       150    167       {ECO:0000244|PDB:1V39}.
+FT   STRAND      170    176       {ECO:0000244|PDB:1V39}.
+FT   HELIX       181    183       {ECO:0000244|PDB:1V39}.
+FT   STRAND      188    191       {ECO:0000244|PDB:1V39}.
+FT   STRAND      194    196       {ECO:0000244|PDB:1V39}.
+FT   STRAND      208    213       {ECO:0000244|PDB:1V39}.
+FT   STRAND      215    217       {ECO:0000244|PDB:1AV6}.
+FT   STRAND      221    224       {ECO:0000244|PDB:1V39}.
+FT   HELIX       226    241       {ECO:0000244|PDB:1V39}.
+FT   HELIX       243    245       {ECO:0000244|PDB:1V39}.
+FT   STRAND      246    248       {ECO:0000244|PDB:3ER8}.
+FT   STRAND      253    255       {ECO:0000244|PDB:3ERC}.
+FT   HELIX       258    267       {ECO:0000244|PDB:1V39}.
+FT   HELIX       279    294       {ECO:0000244|PDB:1V39}.
+SQ   SEQUENCE   333 AA;  38888 MW;  55A299DA4AAE1AD4 CRC64;
+     MDVVSLDKPF MYFEEIDNEL DYEPESANEV AKKLPYQGQL KLLLGELFFL SKLQRHGILD
+     GATVVYIGSA PGTHIRYLRD HFYNLGVIIK WMLIDGRHHD PILNGLRDVT LVTRFVDEEY
+     LRSIKKQLHP SKIILISDVR SKRGGNEPST ADLLSNYALQ NVMISILNPV ASSLKWRCPF
+     PDQWIKDFYI PHGNKMLQPF APSYSAEMRL LSIYTGENMR LTRVTKSDAV NYEKKMYYLN
+     KIVRNKVVVN FDYPNQEYDY FHMYFMLRTV YCNKTFPTTK AKVLFLQQSI FRFLNIPTTS
+     TEKVSHEPIQ RKISSKNSMS KNRNSKRSVR SNK
+//

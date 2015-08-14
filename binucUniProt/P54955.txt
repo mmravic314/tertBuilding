@@ -1,0 +1,151 @@
+ID   YXEP_BACSU              Reviewed;         380 AA.
+AC   P54955;
+DT   01-OCT-1996, integrated into UniProtKB/Swiss-Prot.
+DT   28-JUL-2009, sequence version 2.
+DT   22-JUL-2015, entry version 109.
+DE   RecName: Full=Uncharacterized hydrolase YxeP;
+DE            EC=3.-.-.-;
+GN   Name=yxeP; OrderedLocusNames=BSU39470; ORFNames=LP9H;
+OS   Bacillus subtilis (strain 168).
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus.
+OX   NCBI_TaxID=224308;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=168 / BGSC1A1;
+RX   PubMed=8867804; DOI=10.1093/dnares/2.6.295;
+RA   Yoshida K., Fujimyra M., Yanai N., Fujita Y.;
+RT   "Cloning and sequencing of a 23-kb region of the Bacillus subtilis
+RT   genome between the iol and hut operons.";
+RL   DNA Res. 2:295-301(1995).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=168;
+RX   PubMed=9384377; DOI=10.1038/36786;
+RA   Kunst F., Ogasawara N., Moszer I., Albertini A.M., Alloni G.,
+RA   Azevedo V., Bertero M.G., Bessieres P., Bolotin A., Borchert S.,
+RA   Borriss R., Boursier L., Brans A., Braun M., Brignell S.C., Bron S.,
+RA   Brouillet S., Bruschi C.V., Caldwell B., Capuano V., Carter N.M.,
+RA   Choi S.-K., Codani J.-J., Connerton I.F., Cummings N.J., Daniel R.A.,
+RA   Denizot F., Devine K.M., Duesterhoeft A., Ehrlich S.D., Emmerson P.T.,
+RA   Entian K.-D., Errington J., Fabret C., Ferrari E., Foulger D.,
+RA   Fritz C., Fujita M., Fujita Y., Fuma S., Galizzi A., Galleron N.,
+RA   Ghim S.-Y., Glaser P., Goffeau A., Golightly E.J., Grandi G.,
+RA   Guiseppi G., Guy B.J., Haga K., Haiech J., Harwood C.R., Henaut A.,
+RA   Hilbert H., Holsappel S., Hosono S., Hullo M.-F., Itaya M.,
+RA   Jones L.-M., Joris B., Karamata D., Kasahara Y., Klaerr-Blanchard M.,
+RA   Klein C., Kobayashi Y., Koetter P., Koningstein G., Krogh S.,
+RA   Kumano M., Kurita K., Lapidus A., Lardinois S., Lauber J.,
+RA   Lazarevic V., Lee S.-M., Levine A., Liu H., Masuda S., Mauel C.,
+RA   Medigue C., Medina N., Mellado R.P., Mizuno M., Moestl D., Nakai S.,
+RA   Noback M., Noone D., O'Reilly M., Ogawa K., Ogiwara A., Oudega B.,
+RA   Park S.-H., Parro V., Pohl T.M., Portetelle D., Porwollik S.,
+RA   Prescott A.M., Presecan E., Pujic P., Purnelle B., Rapoport G.,
+RA   Rey M., Reynolds S., Rieger M., Rivolta C., Rocha E., Roche B.,
+RA   Rose M., Sadaie Y., Sato T., Scanlan E., Schleich S., Schroeter R.,
+RA   Scoffone F., Sekiguchi J., Sekowska A., Seror S.J., Serror P.,
+RA   Shin B.-S., Soldo B., Sorokin A., Tacconi E., Takagi T., Takahashi H.,
+RA   Takemaru K., Takeuchi M., Tamakoshi A., Tanaka T., Terpstra P.,
+RA   Tognoni A., Tosato V., Uchiyama S., Vandenbol M., Vannier F.,
+RA   Vassarotti A., Viari A., Wambutt R., Wedler E., Wedler H.,
+RA   Weitzenegger T., Winters P., Wipat A., Yamamoto H., Yamane K.,
+RA   Yasumoto K., Yata K., Yoshida K., Yoshikawa H.-F., Zumstein E.,
+RA   Yoshikawa H., Danchin A.;
+RT   "The complete genome sequence of the Gram-positive bacterium Bacillus
+RT   subtilis.";
+RL   Nature 390:249-256(1997).
+RN   [3]
+RP   SEQUENCE REVISION TO 54 AND 194.
+RX   PubMed=19383706; DOI=10.1099/mic.0.027839-0;
+RA   Barbe V., Cruveiller S., Kunst F., Lenoble P., Meurice G.,
+RA   Sekowska A., Vallenet D., Wang T., Moszer I., Medigue C., Danchin A.;
+RT   "From a consortium sequence to a unified sequence: the Bacillus
+RT   subtilis 168 reference genome a decade later.";
+RL   Microbiology 155:1758-1775(2009).
+CC   -!- SIMILARITY: Belongs to the peptidase M20 family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; D45912; BAA08332.1; -; Genomic_DNA.
+DR   EMBL; AL009126; CAB15983.2; -; Genomic_DNA.
+DR   PIR; B70076; B70076.
+DR   RefSeq; NP_391826.2; NC_000964.3.
+DR   RefSeq; WP_003243840.1; NZ_JNCM01000034.1.
+DR   PDB; 1YSJ; X-ray; 2.40 A; A/B=1-380.
+DR   PDBsum; 1YSJ; -.
+DR   ProteinModelPortal; P54955; -.
+DR   SMR; P54955; 2-379.
+DR   STRING; 224308.Bsubs1_010100021296; -.
+DR   MEROPS; M20.015; -.
+DR   PaxDb; P54955; -.
+DR   DNASU; 937572; -.
+DR   EnsemblBacteria; CAB15983; CAB15983; BSU39470.
+DR   GeneID; 937572; -.
+DR   KEGG; bsu:BSU39470; -.
+DR   PATRIC; 18979958; VBIBacSub10457_4141.
+DR   GenoList; BSU39470; -.
+DR   eggNOG; COG1473; -.
+DR   HOGENOM; HOG000241404; -.
+DR   InParanoid; P54955; -.
+DR   KO; K01436; -.
+DR   OMA; LAIRTDM; -.
+DR   OrthoDB; EOG6B09WM; -.
+DR   PhylomeDB; P54955; -.
+DR   BioCyc; BSUB:BSU39470-MONOMER; -.
+DR   EvolutionaryTrace; P54955; -.
+DR   Proteomes; UP000001570; Chromosome.
+DR   GO; GO:0016787; F:hydrolase activity; IEA:UniProtKB-KW.
+DR   Gene3D; 3.30.70.360; -; 1.
+DR   InterPro; IPR017439; Amidohydrolase.
+DR   InterPro; IPR002933; Peptidase_M20.
+DR   InterPro; IPR011650; Peptidase_M20_dimer.
+DR   Pfam; PF07687; M20_dimer; 1.
+DR   Pfam; PF01546; Peptidase_M20; 1.
+DR   PIRSF; PIRSF005962; Pept_M20D_amidohydro; 1.
+DR   SUPFAM; SSF55031; SSF55031; 1.
+DR   TIGRFAMs; TIGR01891; amidohydrolases; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Hydrolase; Reference proteome.
+FT   CHAIN         1    380       Uncharacterized hydrolase YxeP.
+FT                                /FTId=PRO_0000061962.
+FT   CONFLICT     54     54       G -> A (in Ref. 1; BAA08332).
+FT                                {ECO:0000305}.
+FT   CONFLICT    194    194       G -> S (in Ref. 1; BAA08332).
+FT                                {ECO:0000305}.
+FT   HELIX         4     19       {ECO:0000244|PDB:1YSJ}.
+FT   HELIX        28     40       {ECO:0000244|PDB:1YSJ}.
+FT   STRAND       55     60       {ECO:0000244|PDB:1YSJ}.
+FT   STRAND       67     73       {ECO:0000244|PDB:1YSJ}.
+FT   HELIX       100    115       {ECO:0000244|PDB:1YSJ}.
+FT   HELIX       118    120       {ECO:0000244|PDB:1YSJ}.
+FT   STRAND      122    131       {ECO:0000244|PDB:1YSJ}.
+FT   TURN        133    136       {ECO:0000244|PDB:1YSJ}.
+FT   HELIX       138    144       {ECO:0000244|PDB:1YSJ}.
+FT   TURN        145    150       {ECO:0000244|PDB:1YSJ}.
+FT   STRAND      151    160       {ECO:0000244|PDB:1YSJ}.
+FT   STRAND      167    170       {ECO:0000244|PDB:1YSJ}.
+FT   STRAND      172    176       {ECO:0000244|PDB:1YSJ}.
+FT   STRAND      179    187       {ECO:0000244|PDB:1YSJ}.
+FT   HELIX       202    213       {ECO:0000244|PDB:1YSJ}.
+FT   STRAND      228    236       {ECO:0000244|PDB:1YSJ}.
+FT   STRAND      240    242       {ECO:0000244|PDB:1YSJ}.
+FT   STRAND      245    254       {ECO:0000244|PDB:1YSJ}.
+FT   HELIX       258    278       {ECO:0000244|PDB:1YSJ}.
+FT   STRAND      282    291       {ECO:0000244|PDB:1YSJ}.
+FT   STRAND      294    296       {ECO:0000244|PDB:1YSJ}.
+FT   HELIX       298    300       {ECO:0000244|PDB:1YSJ}.
+FT   HELIX       301    310       {ECO:0000244|PDB:1YSJ}.
+FT   STRAND      314    317       {ECO:0000244|PDB:1YSJ}.
+FT   STRAND      321    323       {ECO:0000244|PDB:1YSJ}.
+FT   HELIX       327    331       {ECO:0000244|PDB:1YSJ}.
+FT   STRAND      336    342       {ECO:0000244|PDB:1YSJ}.
+FT   HELIX       360    378       {ECO:0000244|PDB:1YSJ}.
+SQ   SEQUENCE   380 AA;  41552 MW;  F36EAC6EF01AAFD3 CRC64;
+     MADKAFHTRL INMRRDLHEH PELSFQEVET TKKIRRWLEE EQIEILDVPQ LKTGVIAEIK
+     GREDGPVIAI RADIDALPIQ EQTNLPFASK VDGTMHACGH DFHTASIIGT AMLLNQRRAE
+     LKGTVRFIFQ PAEEIAAGAR KVLEAGVLNG VSAIFGMHNK PDLPVGTIGV KEGPLMASVD
+     RFEIVIKGKG GHAGIPNNSI DPIAAAGQII SGLQSVVSRN ISSLQNAVVS ITRVQAGTSW
+     NVIPDQAEME GTVRTFQKEA RQAVPEHMRR VAEGIAAGYG AQAEFKWFPY LPSVQNDGTF
+     LNAASEAAAR LGYQTVHAEQ SPGGEDFALY QEKIPGFFVW MGTNGTEEWH HPAFTLDEEA
+     LTVASQYFAE LAVIVLETIK
+//

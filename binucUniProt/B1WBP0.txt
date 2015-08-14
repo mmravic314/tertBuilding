@@ -1,0 +1,178 @@
+ID   MPPD2_RAT               Reviewed;         294 AA.
+AC   B1WBP0; Q8CFG1;
+DT   13-OCT-2009, integrated into UniProtKB/Swiss-Prot.
+DT   20-MAY-2008, sequence version 1.
+DT   22-JUL-2015, entry version 50.
+DE   RecName: Full=Metallophosphoesterase MPPED2;
+DE            EC=3.1.-.-;
+DE   AltName: Full=239FB;
+DE   AltName: Full=Fetal brain protein 239 homolog;
+DE   AltName: Full=Metallophosphoesterase domain-containing protein 2;
+GN   Name=Mpped2;
+OS   Rattus norvegicus (Rat).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Rattus.
+OX   NCBI_TaxID=10116;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Adams M.D., Myers E.W., Smith H.O., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Embryonic heart;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 1-283.
+RC   TISSUE=Hippocampus;
+RA   Chen D., Saugstad J., Henshall D., Minami M., Simon R.P.;
+RT   "Molecular cloning and characterization of a rat novel A18 hnRNP
+RT   protein binding gene.";
+RL   Submitted (MAR-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   FUNCTION, COFACTOR, BIOPHYSICOCHEMICAL PROPERTIES, HOMODIMERIZATION,
+RP   TISSUE SPECIFICITY, AND MUTAGENESIS OF ASP-65; ASP-86; ASN-117;
+RP   HIS-118 AND GLY-252.
+RX   PubMed=19004815; DOI=10.1074/jbc.M805996200;
+RA   Tyagi R., Shenoy A.R., Visweswariah S.S.;
+RT   "Characterization of an evolutionarily conserved
+RT   metallophosphoesterase that is expressed in the fetal brain and
+RT   associated with the WAGR syndrome.";
+RL   J. Biol. Chem. 284:5217-5228(2009).
+CC   -!- FUNCTION: Displays low metallophosphoesterase activity (in vitro).
+CC       May play a role in the development of the nervous system.
+CC       {ECO:0000269|PubMed:19004815}.
+CC   -!- COFACTOR:
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000269|PubMed:19004815};
+CC       Name=Co(2+); Xref=ChEBI:CHEBI:48828;
+CC         Evidence={ECO:0000269|PubMed:19004815};
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=10 mM for p-nitrophenyl phenyphosphonate
+CC         {ECO:0000269|PubMed:19004815};
+CC         KM=1.5 mM for manganese {ECO:0000269|PubMed:19004815};
+CC         Vmax=8 umol/min/mg enzyme with p-nitrophenyl phenyphosphonate as
+CC         substrate {ECO:0000269|PubMed:19004815};
+CC   -!- SUBUNIT: Homodimer.
+CC   -!- TISSUE SPECIFICITY: Expressed in fetal brain.
+CC       {ECO:0000269|PubMed:19004815}.
+CC   -!- MISCELLANEOUS: This protein has a low affinity for cofactor and
+CC       demonstrates very restricted substrate specificity. The enzyme may
+CC       need additional interacting proteins to show full activity, or may
+CC       be losing its activity and acquiring the role of a scaffolding
+CC       protein.
+CC   -!- SIMILARITY: Belongs to the UPF0046 family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAM09960.1; Type=Erroneous termination; Positions=257; Note=Translated as Tyr.; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CH473949; EDL79739.1; -; Genomic_DNA.
+DR   EMBL; CH473949; EDL79741.1; -; Genomic_DNA.
+DR   EMBL; CH473949; EDL79742.1; -; Genomic_DNA.
+DR   EMBL; BC161828; AAI61828.1; -; mRNA.
+DR   EMBL; AY093422; AAM09960.1; ALT_SEQ; mRNA.
+DR   RefSeq; NP_942073.2; NM_198778.2.
+DR   RefSeq; XP_006234742.1; XM_006234680.2.
+DR   RefSeq; XP_006234743.1; XM_006234681.2.
+DR   RefSeq; XP_006234744.1; XM_006234682.2.
+DR   RefSeq; XP_006234745.1; XM_006234683.2.
+DR   RefSeq; XP_008760326.1; XM_008762104.1.
+DR   UniGene; Rn.206970; -.
+DR   PDB; 3RL3; X-ray; 1.42 A; A=1-294.
+DR   PDB; 3RL4; X-ray; 1.29 A; A=1-294.
+DR   PDB; 3RL5; X-ray; 1.26 A; A=1-294.
+DR   PDBsum; 3RL3; -.
+DR   PDBsum; 3RL4; -.
+DR   PDBsum; 3RL5; -.
+DR   STRING; 10116.ENSRNOP00000062716; -.
+DR   Ensembl; ENSRNOT00000065168; ENSRNOP00000062716; ENSRNOG00000004863.
+DR   Ensembl; ENSRNOT00000080416; ENSRNOP00000073709; ENSRNOG00000004863.
+DR   GeneID; 362185; -.
+DR   KEGG; rno:362185; -.
+DR   UCSC; RGD:735060; rat.
+DR   CTD; 744; -.
+DR   RGD; 735060; Mpped2.
+DR   eggNOG; NOG72373; -.
+DR   GeneTree; ENSGT00390000007681; -.
+DR   HOGENOM; HOG000023302; -.
+DR   InParanoid; B1WBP0; -.
+DR   OMA; RPKLHAF; -.
+DR   OrthoDB; EOG7G4QFH; -.
+DR   PhylomeDB; B1WBP0; -.
+DR   TreeFam; TF314305; -.
+DR   EvolutionaryTrace; B1WBP0; -.
+DR   NextBio; 678950; -.
+DR   PRO; PR:B1WBP0; -.
+DR   Proteomes; UP000002494; Chromosome 3.
+DR   Genevisible; B1WBP0; RN.
+DR   GO; GO:0016787; F:hydrolase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.60.21.10; -; 2.
+DR   InterPro; IPR024201; Calcineurin-like_Pesterase.
+DR   InterPro; IPR004843; Calcineurin-like_PHP_apaH.
+DR   InterPro; IPR029052; Metallo-depent_PP-like.
+DR   Pfam; PF00149; Metallophos; 1.
+DR   PIRSF; PIRSF035808; Pdiesterase_Brain_239; 1.
+DR   SUPFAM; SSF56300; SSF56300; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cobalt; Complete proteome; Hydrolase; Manganese;
+KW   Metal-binding; Reference proteome.
+FT   CHAIN         1    294       Metallophosphoesterase MPPED2.
+FT                                /FTId=PRO_0000386546.
+FT   MUTAGEN      65     65       D->A: Loss of phosphodiesterase activity.
+FT                                {ECO:0000269|PubMed:19004815}.
+FT   MUTAGEN      86     86       D->A: Loss of phosphodiesterase activity.
+FT                                {ECO:0000269|PubMed:19004815}.
+FT   MUTAGEN     117    117       N->A: Loss of phosphodiesterase activity.
+FT                                {ECO:0000269|PubMed:19004815}.
+FT   MUTAGEN     118    118       H->A: Loss of phosphodiesterase activity.
+FT                                {ECO:0000269|PubMed:19004815}.
+FT   MUTAGEN     252    252       G->H: Increased affinity for manganese.
+FT                                {ECO:0000269|PubMed:19004815}.
+FT   CONFLICT    123    123       D -> E (in Ref. 3; AAM09960).
+FT                                {ECO:0000305}.
+FT   CONFLICT    159    159       S -> C (in Ref. 3; AAM09960).
+FT                                {ECO:0000305}.
+FT   TURN         17     20       {ECO:0000244|PDB:3RL5}.
+FT   HELIX        22     33       {ECO:0000244|PDB:3RL5}.
+FT   TURN         38     40       {ECO:0000244|PDB:3RL5}.
+FT   STRAND       41     43       {ECO:0000244|PDB:3RL5}.
+FT   STRAND       57     64       {ECO:0000244|PDB:3RL5}.
+FT   STRAND       79     83       {ECO:0000244|PDB:3RL5}.
+FT   STRAND       88     90       {ECO:0000244|PDB:3RL5}.
+FT   HELIX        93    104       {ECO:0000244|PDB:3RL5}.
+FT   STRAND      109    113       {ECO:0000244|PDB:3RL5}.
+FT   HELIX       120    122       {ECO:0000244|PDB:3RL5}.
+FT   HELIX       124    130       {ECO:0000244|PDB:3RL5}.
+FT   HELIX       135    137       {ECO:0000244|PDB:3RL5}.
+FT   HELIX       139    142       {ECO:0000244|PDB:3RL5}.
+FT   HELIX       146    149       {ECO:0000244|PDB:3RL5}.
+FT   TURN        150    152       {ECO:0000244|PDB:3RL5}.
+FT   HELIX       153    155       {ECO:0000244|PDB:3RL5}.
+FT   STRAND      159    161       {ECO:0000244|PDB:3RL5}.
+FT   STRAND      163    169       {ECO:0000244|PDB:3RL5}.
+FT   STRAND      172    177       {ECO:0000244|PDB:3RL5}.
+FT   STRAND      183    185       {ECO:0000244|PDB:3RL4}.
+FT   HELIX       194    200       {ECO:0000244|PDB:3RL5}.
+FT   STRAND      208    214       {ECO:0000244|PDB:3RL5}.
+FT   HELIX       224    226       {ECO:0000244|PDB:3RL5}.
+FT   HELIX       233    241       {ECO:0000244|PDB:3RL5}.
+FT   STRAND      246    250       {ECO:0000244|PDB:3RL5}.
+FT   HELIX       254    256       {ECO:0000244|PDB:3RL5}.
+FT   STRAND      258    261       {ECO:0000244|PDB:3RL5}.
+FT   STRAND      266    269       {ECO:0000244|PDB:3RL5}.
+FT   STRAND      284    289       {ECO:0000244|PDB:3RL5}.
+SQ   SEQUENCE   294 AA;  33336 MW;  FEAE6DD0537C21E5 CRC64;
+     MAHGIPSQGK VTITVDEYSS NPTQAFTHYN INQSRFQPPH VHMVDPIPYD TPKPAGHTRF
+     VCISDTHSRT DGIQMPYGDI LLHTGDFTEL GLPSEVKKFN DWLGNLPYEY KIVIAGNHEL
+     TFDKEFMADL VKQDYYRFPS VSKLKPEDFD NVQSLLTNSI YLQDSEVTVK GFRIYGAPWT
+     PWFNGWGFNL PRGQSLLDKW NLIPEGTDIL MTHGPPLGFR DWVPKELQRV GCVELLNTVQ
+     RRVRPKLHVF GGIHEGYGTM TDGYTTYINA STCTVSFQPT NPPIIFDLPN PQGS
+//

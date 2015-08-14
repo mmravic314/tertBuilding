@@ -1,0 +1,70 @@
+ID   Q84AQ4_PSEST            Unreviewed;       333 AA.
+AC   Q84AQ4;
+DT   01-JUN-2003, integrated into UniProtKB/TrEMBL.
+DT   01-JUN-2003, sequence version 1.
+DT   07-JAN-2015, entry version 57.
+DE   SubName: Full=Phenol hydroxylase component phL {ECO:0000313|EMBL:AAO47356.1};
+GN   Name=phL {ECO:0000313|EMBL:AAO47356.1};
+OS   Pseudomonas stutzeri (Pseudomonas perfectomarina).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+OC   Pseudomonadaceae; Pseudomonas.
+OX   NCBI_TaxID=316 {ECO:0000313|EMBL:AAO47356.1};
+RN   [1] {ECO:0000313|EMBL:AAO47356.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=OX1 {ECO:0000313|EMBL:AAO47356.1};
+RX   PubMed=15066815; DOI=10.1128/AEM.70.4.2211-2219.2004;
+RA   Cafaro V., Izzo V., Scognamiglio R., Notomista E., Capasso P.,
+RA   Casbarra A., Pucci P., Di Donato A.;
+RT   "Phenol hydroxylase and toluene/o-xylene monooxygenase from
+RT   Pseudomonas stutzeri OX1: interplay between two enzymes.";
+RL   Appl. Environ. Microbiol. 70:2211-2219(2004).
+RN   [2] {ECO:0000213|PDB:2INN, ECO:0000213|PDB:2INP}
+RP   X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) OF 4-331.
+RX   PubMed=17176061; DOI=10.1021/bi0618969;
+RA   Sazinsky M.H., Dunten P.W., McCormick M.S., DiDonato A., Lippard S.J.;
+RT   "X-ray structure of a hydroxylase-regulatory protein complex from a
+RT   hydrocarbon-oxidizing multicomponent monooxygenase, Pseudomonas sp.
+RT   OX1 phenol hydroxylase.";
+RL   Biochemistry 45:15392-15404(2006).
+RN   [3] {ECO:0000213|PDB:3U52}
+RP   X-RAY CRYSTALLOGRAPHY (1.95 ANGSTROMS).
+RX   PubMed=22136180; DOI=10.1021/bi201248b;
+RA   McCormick M.S., Lippard S.J.;
+RT   "Analysis of substrate access to active sites in bacterial
+RT   multicomponent monooxygenase hydroxylases: X-ray crystal structure of
+RT   xenon-pressurized phenol hydroxylase from Pseudomonas sp. OX1.";
+RL   Biochemistry 50:11058-11069(2011).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AY205602; AAO47356.1; -; Genomic_DNA.
+DR   PDB; 2INN; X-ray; 2.70 A; C/D=1-333.
+DR   PDB; 2INP; X-ray; 2.30 A; C/D=4-331.
+DR   PDB; 3U52; X-ray; 1.95 A; C/D=1-333.
+DR   PDBsum; 2INN; -.
+DR   PDBsum; 2INP; -.
+DR   PDBsum; 3U52; -.
+DR   ProteinModelPortal; Q84AQ4; -.
+DR   SMR; Q84AQ4; 4-331.
+DR   EvolutionaryTrace; Q84AQ4; -.
+DR   GO; GO:0016709; F:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen; IEA:InterPro.
+DR   GO; GO:0006725; P:cellular aromatic compound metabolic process; IEA:InterPro.
+DR   Gene3D; 1.10.620.20; -; 1.
+DR   InterPro; IPR009078; Ferritin-like_SF.
+DR   InterPro; IPR012078; MP_mOase_hydro.
+DR   InterPro; IPR003430; Phenol_Hydrox.
+DR   InterPro; IPR012348; RNR-rel.
+DR   Pfam; PF02332; Phenol_Hydrox; 1.
+DR   PIRSF; PIRSF000040; MMOH_comp; 1.
+DR   SUPFAM; SSF47240; SSF47240; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2INN, ECO:0000213|PDB:2INP}.
+SQ   SEQUENCE   333 AA;  38413 MW;  744B6A0DD9155CFE CRC64;
+     MSIEIKTNSV EPIRHTYGHI ARRFGDKPAT RYQEASYDIE AKTNFHYRPQ WDSEHTLNDP
+     TRTAIRMEDW CAVSDPRQFY YGAYVGNRAK MQESAETSFG FCEKRNLLTR LSEETQKQLL
+     RLLVPLRHVE LGANMNNAKI AGDATATTVS QMHIYTGMDR LGIGQYLSRI ALMIDGSTGA
+     ALDESKAYWM DDEMWQPMRK LVEDTLVVDD WFELTLVQNI LIDGMMYPLV YDKMDQWFES
+     QGAEDVSMLT EFMRDWYKES LRWTNAMMKA VAGESETNRE LLQKWIDHWE PQAYEALKPL
+     AEASVGIDGL NEARAELSAR LKKFELQSRG VSA
+//

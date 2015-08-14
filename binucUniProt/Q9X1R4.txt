@@ -1,0 +1,212 @@
+ID   SECA_THEMA              Reviewed;         871 AA.
+AC   Q9X1R4;
+DT   26-FEB-2008, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1999, sequence version 1.
+DT   22-JUL-2015, entry version 104.
+DE   RecName: Full=Protein translocase subunit SecA {ECO:0000255|HAMAP-Rule:MF_01382};
+GN   Name=secA {ECO:0000255|HAMAP-Rule:MF_01382};
+GN   OrderedLocusNames=TM_1578;
+OS   Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099).
+OC   Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Thermotoga.
+OX   NCBI_TaxID=243274;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 43589 / MSB8 / DSM 3109 / JCM 10099;
+RX   PubMed=10360571; DOI=10.1038/20601;
+RA   Nelson K.E., Clayton R.A., Gill S.R., Gwinn M.L., Dodson R.J.,
+RA   Haft D.H., Hickey E.K., Peterson J.D., Nelson W.C., Ketchum K.A.,
+RA   McDonald L.A., Utterback T.R., Malek J.A., Linher K.D., Garrett M.M.,
+RA   Stewart A.M., Cotton M.D., Pratt M.S., Phillips C.A., Richardson D.L.,
+RA   Heidelberg J.F., Sutton G.G., Fleischmann R.D., Eisen J.A., White O.,
+RA   Salzberg S.L., Smith H.O., Venter J.C., Fraser C.M.;
+RT   "Evidence for lateral gene transfer between Archaea and Bacteria from
+RT   genome sequence of Thermotoga maritima.";
+RL   Nature 399:323-329(1999).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (4.50 ANGSTROMS) IN COMPLEX WITH SECYEG.
+RX   PubMed=18923516; DOI=10.1038/nature07335;
+RA   Zimmer J., Nam Y., Rapoport T.A.;
+RT   "Structure of a complex of the ATPase SecA and the protein-
+RT   translocation channel.";
+RL   Nature 455:936-943(2008).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (3.1 ANGSTROMS) OF 1-816.
+RX   PubMed=19850053; DOI=10.1016/j.jmb.2009.10.024;
+RA   Zimmer J., Rapoport T.A.;
+RT   "Conformational flexibility and peptide interaction of the
+RT   translocation ATPase SecA.";
+RL   J. Mol. Biol. 394:606-612(2009).
+CC   -!- FUNCTION: Part of the Sec protein translocase complex. Interacts
+CC       with the SecYEG preprotein conducting channel. Has a central role
+CC       in coupling the hydrolysis of ATP to the transfer of proteins into
+CC       and across the cell membrane, serving as an ATP-driven molecular
+CC       motor driving the stepwise translocation of polypeptide chains
+CC       across the membrane. {ECO:0000255|HAMAP-Rule:MF_01382}.
+CC   -!- SUBUNIT: Monomer and homodimer (By similarity). Part of the
+CC       essential Sec protein translocation apparatus which comprises
+CC       SecA, SecYEG and auxiliary proteins SecDF. Other proteins may also
+CC       be involved. A single SecA monomer interacts with SecY in the
+CC       channel. {ECO:0000255|HAMAP-Rule:MF_01382,
+CC       ECO:0000269|PubMed:18923516}.
+CC   -!- SUBCELLULAR LOCATION: Cell inner membrane {ECO:0000255|HAMAP-
+CC       Rule:MF_01382}; Peripheral membrane protein {ECO:0000255|HAMAP-
+CC       Rule:MF_01382}; Cytoplasmic side {ECO:0000255|HAMAP-
+CC       Rule:MF_01382}. Cytoplasm {ECO:0000255|HAMAP-Rule:MF_01382}.
+CC       Note=Distribution is 50-50. {ECO:0000255|HAMAP-Rule:MF_01382}.
+CC   -!- SIMILARITY: Belongs to the SecA family. {ECO:0000255|HAMAP-
+CC       Rule:MF_01382}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE000512; AAD36645.1; -; Genomic_DNA.
+DR   PIR; C72238; C72238.
+DR   RefSeq; NP_229378.1; NC_000853.1.
+DR   RefSeq; WP_004082002.1; NZ_CP011107.1.
+DR   PDB; 3DIN; X-ray; 4.50 A; A/B=1-871.
+DR   PDB; 3JUX; X-ray; 3.10 A; A=1-816.
+DR   PDB; 4YS0; X-ray; 1.90 A; A=1-816.
+DR   PDBsum; 3DIN; -.
+DR   PDBsum; 3JUX; -.
+DR   PDBsum; 4YS0; -.
+DR   ProteinModelPortal; Q9X1R4; -.
+DR   SMR; Q9X1R4; 496-541.
+DR   DIP; DIP-59806N; -.
+DR   STRING; 243274.TM1578; -.
+DR   EnsemblBacteria; AAD36645; AAD36645; TM_1578.
+DR   GeneID; 897610; -.
+DR   KEGG; tma:TM1578; -.
+DR   KEGG; tmi:THEMA_06390; -.
+DR   KEGG; tmm:Tmari_1586; -.
+DR   PATRIC; 23938120; VBITheMar51294_1597.
+DR   eggNOG; COG0653; -.
+DR   InParanoid; Q9X1R4; -.
+DR   KO; K03070; -.
+DR   OMA; RDLILIN; -.
+DR   OrthoDB; EOG654P48; -.
+DR   EvolutionaryTrace; Q9X1R4; -.
+DR   Proteomes; UP000008183; Chromosome.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005886; C:plasma membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0065002; P:intracellular protein transmembrane transport; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0017038; P:protein import; IEA:InterPro.
+DR   GO; GO:0006605; P:protein targeting; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 1.10.3060.10; -; 1.
+DR   Gene3D; 3.40.50.300; -; 4.
+DR   Gene3D; 3.90.1440.10; -; 1.
+DR   HAMAP; MF_01382; SecA; 1.
+DR   InterPro; IPR001650; Helicase_C.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   InterPro; IPR000185; SecA.
+DR   InterPro; IPR020937; SecA_CS.
+DR   InterPro; IPR011115; SecA_DEAD.
+DR   InterPro; IPR014018; SecA_motor_DEAD.
+DR   InterPro; IPR011130; SecA_preprotein_X-link_dom.
+DR   InterPro; IPR011116; SecA_Wing/Scaffold.
+DR   Pfam; PF00271; Helicase_C; 1.
+DR   Pfam; PF07517; SecA_DEAD; 1.
+DR   Pfam; PF01043; SecA_PP_bind; 1.
+DR   Pfam; PF07516; SecA_SW; 1.
+DR   PRINTS; PR00906; SECA.
+DR   SMART; SM00957; SecA_DEAD; 1.
+DR   SMART; SM00958; SecA_PP_bind; 1.
+DR   SUPFAM; SSF52540; SSF52540; 4.
+DR   SUPFAM; SSF81767; SSF81767; 1.
+DR   SUPFAM; SSF81886; SSF81886; 1.
+DR   PROSITE; PS01312; SECA; 1.
+DR   PROSITE; PS51196; SECA_MOTOR_DEAD; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; ATP-binding; Cell inner membrane; Cell membrane;
+KW   Complete proteome; Cytoplasm; Membrane; Nucleotide-binding;
+KW   Protein transport; Reference proteome; Translocation; Transport.
+FT   CHAIN         1    871       Protein translocase subunit SecA.
+FT                                /FTId=PRO_0000321023.
+FT   NP_BIND      95    102       ATP. {ECO:0000255|HAMAP-Rule:MF_01382}.
+FT   HELIX         6     28       {ECO:0000244|PDB:3JUX}.
+FT   STRAND       29     31       {ECO:0000244|PDB:3JUX}.
+FT   HELIX        33     46       {ECO:0000244|PDB:3JUX}.
+FT   HELIX        50     71       {ECO:0000244|PDB:3JUX}.
+FT   HELIX        78     88       {ECO:0000244|PDB:3JUX}.
+FT   STRAND       92     94       {ECO:0000244|PDB:3JUX}.
+FT   HELIX       101    104       {ECO:0000244|PDB:3JUX}.
+FT   HELIX       106    113       {ECO:0000244|PDB:3JUX}.
+FT   STRAND      119    125       {ECO:0000244|PDB:3JUX}.
+FT   HELIX       126    142       {ECO:0000244|PDB:3JUX}.
+FT   STRAND      147    151       {ECO:0000244|PDB:3JUX}.
+FT   TURN        152    154       {ECO:0000244|PDB:3JUX}.
+FT   STRAND      155    163       {ECO:0000244|PDB:3JUX}.
+FT   HELIX       164    172       {ECO:0000244|PDB:3JUX}.
+FT   STRAND      184    186       {ECO:0000244|PDB:3JUX}.
+FT   HELIX       189    191       {ECO:0000244|PDB:3JUX}.
+FT   HELIX       194    197       {ECO:0000244|PDB:3JUX}.
+FT   TURN        198    200       {ECO:0000244|PDB:3JUX}.
+FT   HELIX       209    214       {ECO:0000244|PDB:3JUX}.
+FT   STRAND      215    221       {ECO:0000244|PDB:3JUX}.
+FT   HELIX       222    232       {ECO:0000244|PDB:3JUX}.
+FT   STRAND      248    252       {ECO:0000244|PDB:3JUX}.
+FT   HELIX       254    258       {ECO:0000244|PDB:3JUX}.
+FT   HELIX       261    263       {ECO:0000244|PDB:3JUX}.
+FT   STRAND      266    269       {ECO:0000244|PDB:3JUX}.
+FT   HELIX       276    285       {ECO:0000244|PDB:3JUX}.
+FT   TURN        291    293       {ECO:0000244|PDB:3JUX}.
+FT   STRAND      294    297       {ECO:0000244|PDB:3JUX}.
+FT   STRAND      300    302       {ECO:0000244|PDB:3JUX}.
+FT   STRAND      304    306       {ECO:0000244|PDB:3JUX}.
+FT   HELIX       308    318       {ECO:0000244|PDB:3JUX}.
+FT   HELIX       326    328       {ECO:0000244|PDB:3JUX}.
+FT   HELIX       329    344       {ECO:0000244|PDB:3JUX}.
+FT   TURN        346    348       {ECO:0000244|PDB:3JUX}.
+FT   STRAND      349    354       {ECO:0000244|PDB:3JUX}.
+FT   STRAND      357    360       {ECO:0000244|PDB:3JUX}.
+FT   STRAND      362    365       {ECO:0000244|PDB:3JUX}.
+FT   HELIX       375    377       {ECO:0000244|PDB:3JUX}.
+FT   HELIX       378    386       {ECO:0000244|PDB:3JUX}.
+FT   STRAND      396    400       {ECO:0000244|PDB:3JUX}.
+FT   HELIX       402    406       {ECO:0000244|PDB:3JUX}.
+FT   STRAND      409    418       {ECO:0000244|PDB:3JUX}.
+FT   HELIX       420    422       {ECO:0000244|PDB:3JUX}.
+FT   HELIX       423    429       {ECO:0000244|PDB:3JUX}.
+FT   STRAND      434    436       {ECO:0000244|PDB:3JUX}.
+FT   STRAND      451    455       {ECO:0000244|PDB:3JUX}.
+FT   HELIX       456    473       {ECO:0000244|PDB:3JUX}.
+FT   STRAND      477    483       {ECO:0000244|PDB:3JUX}.
+FT   HELIX       484    495       {ECO:0000244|PDB:3JUX}.
+FT   TURN        496    498       {ECO:0000244|PDB:3JUX}.
+FT   STRAND      502    504       {ECO:0000244|PDB:3JUX}.
+FT   HELIX       508    520       {ECO:0000244|PDB:3JUX}.
+FT   STRAND      525    529       {ECO:0000244|PDB:3JUX}.
+FT   TURN        530    535       {ECO:0000244|PDB:3JUX}.
+FT   TURN        542    548       {ECO:0000244|PDB:3JUX}.
+FT   STRAND      551    556       {ECO:0000244|PDB:3JUX}.
+FT   HELIX       561    568       {ECO:0000244|PDB:3JUX}.
+FT   STRAND      579    585       {ECO:0000244|PDB:3JUX}.
+FT   HELIX       589    593       {ECO:0000244|PDB:3JUX}.
+FT   HELIX       596    605       {ECO:0000244|PDB:3JUX}.
+FT   STRAND      610    612       {ECO:0000244|PDB:3JUX}.
+FT   HELIX       617    664       {ECO:0000244|PDB:3JUX}.
+FT   HELIX       669    687       {ECO:0000244|PDB:3JUX}.
+FT   HELIX       696    701       {ECO:0000244|PDB:3JUX}.
+FT   TURN        702    704       {ECO:0000244|PDB:3JUX}.
+FT   HELIX       720    742       {ECO:0000244|PDB:3JUX}.
+FT   HELIX       743    745       {ECO:0000244|PDB:3JUX}.
+FT   HELIX       746    779       {ECO:0000244|PDB:3JUX}.
+FT   TURN        780    783       {ECO:0000244|PDB:3JUX}.
+FT   HELIX       786    814       {ECO:0000244|PDB:3JUX}.
+SQ   SEQUENCE   871 AA;  100486 MW;  24F661A1799AC89C CRC64;
+     MILFDKNKRI LKKYAKMVSK INQIESDLRS KKNSELIRLS MVLKEKVNSF EDADEHLFEA
+     FALVREAARR TLGMRPFDVQ VMGGIALHEG KVAEMKTGEG KTLAATMPIY LNALIGKGVH
+     LVTVNDYLAR RDALWMGPVY LFLGLRVGVI NSLGKSYEVV WKNPDLARKA IEENWSVWPD
+     GFNGEVLKEE SMNKEAVEAF QVELKEITRK EAYLCDVTYG TNNEFGFDYL RDNLVLDYND
+     KVQRGHFYAI VDEADSVLID EARTPLIISG PSKESPSVYR RFAQIAKKFV KDKDFTVDEK
+     ARTIILTEEG VAKAEKIIGV ENLYDPGNVS LLYHLINALK ALHLFKKDVD YVVMNGEVII
+     VDEFTGRLLP GRRYSGGLHQ AIEAKEGVPI KEESITYATI TFQNYFRMYE KLAGMTGTAK
+     TEESEFVQVY GMEVVVIPTH KPMIRKDHDD LVFRTQKEKY EKIVEEIEKR YKKGQPVLVG
+     TTSIEKSELL SSMLKKKGIP HQVLNAKYHE KEAEIVAKAG QKGMVTIATN MAGRGTDIKL
+     GPGVAELGGL CIIGTERHES RRIDNQLRGR AGRQGDPGES IFFLSLEDDL LRIFGSEQIG
+     KVMNILKIEE GQPIQHPMLS KLIENIQKKV EGINFSIRKT LMEMDDVLDK QRRAVYSLRD
+     QILLEKDYDE YLKDIFEDVV STRVEEFCSG KNWDIESLKN SLSFFPAGLF DLDEKQFSSS
+     EELHDYLFNR LWEEYQRKKQ EIGEDYRKVI RFLMLRIIDD HWRRYLEEVE HVKEAVQLRS
+     YGQKDPIVEF KKETYYMFDE MMRRINDTIA NYVLRVVKVS EKDEKEAKEE LGKIRLVHEE
+     FNLVNRAMRR ATEKKKKKDG LHSFGRIRVK R
+//

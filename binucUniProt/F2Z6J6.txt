@@ -1,0 +1,93 @@
+ID   F2Z6J6_HYDMR            Unreviewed;       611 AA.
+AC   F2Z6J6;
+DT   28-JUN-2011, integrated into UniProtKB/TrEMBL.
+DT   28-JUN-2011, sequence version 1.
+DT   24-JUN-2015, entry version 17.
+DE   SubName: Full=Hydrogenase {ECO:0000313|EMBL:KDN94743.1};
+DE   SubName: Full=Membrane-bound hydrogenase large subunit {ECO:0000313|EMBL:BAK19334.1};
+GN   Name=hoxG {ECO:0000313|EMBL:BAK19334.1};
+GN   ORFNames=EI16_00020 {ECO:0000313|EMBL:KDN94743.1};
+OS   Hydrogenovibrio marinus.
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Thiotrichales;
+OC   Piscirickettsiaceae; Hydrogenovibrio.
+OX   NCBI_TaxID=28885 {ECO:0000313|EMBL:BAK19334.1};
+RN   [1] {ECO:0000313|EMBL:BAK19334.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=11826978; DOI=10.1271/bbb.65.2780;
+RA   Nishihara H., Miyata Y., Miyashita Y., Bernhard M., Pohlmann A.,
+RA   Friedrich B., Takamura Y.;
+RT   "Analysis of the Molecular Species of Hydrogenase in the Cells of an
+RT   Obligately Chemolithoautotrophic, Marine Hydrogen-Oxidizing Bacterium,
+RT   Hydrogenovibrio marinus.";
+RL   Biosci. Biotechnol. Biochem. 65:2780-2784(2001).
+RN   [2] {ECO:0000213|PDB:3AYX, ECO:0000213|PDB:3AYY, ECO:0000213|PDB:3AYZ}
+RP   X-RAY CRYSTALLOGRAPHY (1.18 ANGSTROMS) OF 1-596 IN COMPLEX WITH
+RP   MAGNESIUM, AND DISULFIDE BONDS.
+RX   PubMed=22002607; DOI=10.1038/nature10504;
+RA   Shomura Y., Yoon K.S., Nishihara H., Higuchi Y.;
+RT   "Structural basis for a [4Fe-3S] cluster in the oxygen-tolerant
+RT   membrane-bound [NiFe]-hydrogenase.";
+RL   Nature 479:253-256(2011).
+RN   [3] {ECO:0000313|EMBL:KDN94743.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=MH-110 {ECO:0000313|EMBL:KDN94743.1};
+RA   Cha H.J., Jo B.H., Hwang B.H.;
+RT   "Draft genome sequence of Hydrogenovibrio marinus MH-110, a model
+RT   organism for aerobic H2 metabolism.";
+RL   Submitted (APR-2014) to the EMBL/GenBank/DDBJ databases.
+CC   -!- SIMILARITY: Belongs to the [NiFe]/[NiFeSe] hydrogenase large
+CC       subunit family. {ECO:0000256|RuleBase:RU003896}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AB070719; BAK19334.1; -; Genomic_DNA.
+DR   EMBL; JMIU01000001; KDN94743.1; -; Genomic_DNA.
+DR   RefSeq; WP_029908155.1; NZ_JMIU01000001.1.
+DR   PDB; 3AYX; X-ray; 1.18 A; A/C=1-596.
+DR   PDB; 3AYY; X-ray; 1.32 A; A/C=1-596.
+DR   PDB; 3AYZ; X-ray; 1.22 A; A/C=1-596.
+DR   PDBsum; 3AYX; -.
+DR   PDBsum; 3AYY; -.
+DR   PDBsum; 3AYZ; -.
+DR   DIP; DIP-59146N; -.
+DR   EnsemblBacteria; KDN94743; KDN94743; EI16_00020.
+DR   GO; GO:0008901; F:ferredoxin hydrogenase activity; IEA:InterPro.
+DR   GO; GO:0016151; F:nickel cation binding; IEA:InterPro.
+DR   Gene3D; 1.10.645.10; -; 2.
+DR   InterPro; IPR001501; Ni-dep_hyd_lsu.
+DR   InterPro; IPR018194; Ni-dep_hyd_lsu_Ni_BS.
+DR   InterPro; IPR029014; NiFe_Hase-like.
+DR   Pfam; PF00374; NiFeSe_Hases; 1.
+DR   SUPFAM; SSF56762; SSF56762; 1.
+DR   PROSITE; PS00507; NI_HGENASE_L_1; 1.
+DR   PROSITE; PS00508; NI_HGENASE_L_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3AYX, ECO:0000213|PDB:3AYZ};
+KW   Magnesium {ECO:0000213|PDB:3AYX, ECO:0000213|PDB:3AYZ};
+KW   Metal-binding {ECO:0000213|PDB:3AYX, ECO:0000213|PDB:3AYZ};
+KW   Nickel {ECO:0000256|RuleBase:RU003896};
+KW   Oxidoreductase {ECO:0000256|RuleBase:RU003896}.
+FT   CHAIN         1    596       membrane bound hydrogenase large subunit.
+FT                                {ECO:0000313|EMBL:BAK19334.1}.
+FT                                /FTId=PRO_5000733471.
+FT   METAL        57     57       Magnesium. {ECO:0000213|PDB:3AYZ}.
+FT   METAL       542    542       Magnesium; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:3AYZ}.
+FT   METAL       596    596       Magnesium; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3AYZ}.
+FT   DISULFID     76    590       {ECO:0000213|PDB:3AYY}.
+FT   DISULFID     79    593
+SQ   SEQUENCE   611 AA;  68167 MW;  D4189AE14C851A65 CRC64;
+     MSVLNTPNHY KMDNSGRRVV IDPVTRIEGH MRCEVNVDEN NVIQNAVSTG TMWRGLEVIL
+     RGRDPRDAWA FVERICGVCT GCHALASVRA VEDALDIKIP HNATLIREIM AKTLQIHDHI
+     VHFYHLHALD WVNPVNALKA DPQATSELQK LVSPHHPMSS PGYFKDIQIR IQKFVDSGQL
+     GIFKNGYWSN PAYKLSPEAD LMAVTHYLEA LDFQKEIVKI HAIFGGKNPH PNYMVGGVPC
+     AINIDGDMAA GAPINMERLN FVKSLIEQGR TFNTNVYVPD VIAIAAFYRD WLYGGGLSAT
+     NVMDYGAYPK TPYDKSTDQL PGGAIINGDW GKIHPVDPRD PEQVQEFVTH SWYKYPDETK
+     GLHPWDGITE PNYELGSKTK GSRTNIIEID ESAKYSWIKS PRWRGHAVEV GPLARYILAY
+     AQGVEYVKTQ VHTSLNRFNA VCRLLDPNHK DITDLKAFLG STIGRTLARA LESEYCGDMM
+     LDDFNQLISN IKNGDSSTAN TDKWDPSSWP EHAKGVGTVA APRGALAHWI VIEKGKIKNY
+     QCVVPTTWNG SPRDPKGNIG AFEASLMGTP MERPDEPVEV LRTLHSFDPC LACSTHVMSE
+     EGEEMATVKV R
+//

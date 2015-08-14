@@ -1,0 +1,177 @@
+ID   BUD31_YEAST             Reviewed;         157 AA.
+AC   P25337; D6VR67;
+DT   01-MAY-1992, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-1992, sequence version 1.
+DT   22-JUL-2015, entry version 122.
+DE   RecName: Full=Pre-mRNA-splicing factor BUD31;
+DE   AltName: Full=Bud site selection protein 31;
+DE   AltName: Full=Complexed with CEF1 protein 14;
+GN   Name=BUD31; Synonyms=CWC14; OrderedLocusNames=YCR063W;
+GN   ORFNames=YCR63W, YCR903;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=559292;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=1561837; DOI=10.1002/yea.320080209;
+RA   Benit P., Chanet R., Fabre F., Faye G., Fukuhara H., Sor F.;
+RT   "Sequence of the sup61-RAD18 region on chromosome III of Saccharomyces
+RT   cerevisiae.";
+RL   Yeast 8:147-153(1992).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=1574125; DOI=10.1038/357038a0;
+RA   Oliver S.G., van der Aart Q.J.M., Agostoni-Carbone M.L., Aigle M.,
+RA   Alberghina L., Alexandraki D., Antoine G., Anwar R., Ballesta J.P.G.,
+RA   Benit P., Berben G., Bergantino E., Biteau N., Bolle P.-A.,
+RA   Bolotin-Fukuhara M., Brown A., Brown A.J.P., Buhler J.-M., Carcano C.,
+RA   Carignani G., Cederberg H., Chanet R., Contreras R., Crouzet M.,
+RA   Daignan-Fornier B., Defoor E., Delgado M.D., Demolder J., Doira C.,
+RA   Dubois E., Dujon B., Duesterhoeft A., Erdmann D., Esteban M.,
+RA   Fabre F., Fairhead C., Faye G., Feldmann H., Fiers W.,
+RA   Francingues-Gaillard M.-C., Franco L., Frontali L., Fukuhara H.,
+RA   Fuller L.J., Galland P., Gent M.E., Gigot D., Gilliquet V.,
+RA   Glansdorff N., Goffeau A., Grenson M., Grisanti P., Grivell L.A.,
+RA   de Haan M., Haasemann M., Hatat D., Hoenicka J., Hegemann J.H.,
+RA   Herbert C.J., Hilger F., Hohmann S., Hollenberg C.P., Huse K.,
+RA   Iborra F., Indge K.J., Isono K., Jacq C., Jacquet M., James C.M.,
+RA   Jauniaux J.-C., Jia Y., Jimenez A., Kelly A., Kleinhans U., Kreisl P.,
+RA   Lanfranchi G., Lewis C., van der Linden C.G., Lucchini G.,
+RA   Lutzenkirchen K., Maat M.J., Mallet L., Mannhaupt G., Martegani E.,
+RA   Mathieu A., Maurer C.T.C., McConnell D., McKee R.A., Messenguy F.,
+RA   Mewes H.-W., Molemans F., Montague M.A., Muzi Falconi M., Navas L.,
+RA   Newlon C.S., Noone D., Pallier C., Panzeri L., Pearson B.M., Perea J.,
+RA   Philippsen P., Pierard A., Planta R.J., Plevani P., Poetsch B.,
+RA   Pohl F.M., Purnelle B., Ramezani Rad M., Rasmussen S.W., Raynal A.,
+RA   Remacha M.A., Richterich P., Roberts A.B., Rodriguez F., Sanz E.,
+RA   Schaaff-Gerstenschlaeger I., Scherens B., Schweitzer B., Shu Y.,
+RA   Skala J., Slonimski P.P., Sor F., Soustelle C., Spiegelberg R.,
+RA   Stateva L.I., Steensma H.Y., Steiner S., Thierry A., Thireos G.,
+RA   Tzermia M., Urrestarazu L.A., Valle G., Vetter I.,
+RA   van Vliet-Reedijk J.C., Voet M., Volckaert G., Vreken P., Wang H.,
+RA   Warmington J.R., von Wettstein D., Wicksteed B.L., Wilson C.,
+RA   Wurst H., Xu G., Yoshikawa A., Zimmermann F.K., Sgouros J.G.;
+RT   "The complete DNA sequence of yeast chromosome III.";
+RL   Nature 357:38-46(1992).
+RN   [3]
+RP   GENOME REANNOTATION.
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=24374639; DOI=10.1534/g3.113.008995;
+RA   Engel S.R., Dietrich F.S., Fisk D.G., Binkley G., Balakrishnan R.,
+RA   Costanzo M.C., Dwight S.S., Hitz B.C., Karra K., Nash R.S., Weng S.,
+RA   Wong E.D., Lloyd P., Skrzypek M.S., Miyasato S.R., Simison M.,
+RA   Cherry J.M.;
+RT   "The reference genome sequence of Saccharomyces cerevisiae: Then and
+RT   now.";
+RL   G3 (Bethesda) 4:389-398(2014).
+RN   [4]
+RP   IDENTIFICATION IN THE CWC COMPLEX, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY.
+RX   PubMed=11884590; DOI=10.1128/MCB.22.7.2011-2024.2002;
+RA   Ohi M.D., Link A.J., Ren L., Jennings J.L., McDonald W.H., Gould K.L.;
+RT   "Proteomics analysis reveals stable multiprotein complexes in both
+RT   fission and budding yeasts containing Myb-related Cdc5p/Cef1p, novel
+RT   pre-mRNA splicing factors, and snRNAs.";
+RL   Mol. Cell. Biol. 22:2011-2024(2002).
+RN   [5]
+RP   INVOLVEMENT IN BUDDING.
+RX   PubMed=11452010; DOI=10.1091/mbc.12.7.2147;
+RA   Ni L., Snyder M.;
+RT   "A genomic study of the bipolar bud site selection pattern in
+RT   Saccharomyces cerevisiae.";
+RL   Mol. Biol. Cell 12:2147-2170(2001).
+RN   [6]
+RP   LEVEL OF PROTEIN EXPRESSION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562106; DOI=10.1038/nature02046;
+RA   Ghaemmaghami S., Huh W.-K., Bower K., Howson R.W., Belle A.,
+RA   Dephoure N., O'Shea E.K., Weissman J.S.;
+RT   "Global analysis of protein expression in yeast.";
+RL   Nature 425:737-741(2003).
+CC   -!- FUNCTION: Involved in pre-mRNA splicing. Important for bud site
+CC       selection.
+CC   -!- SUBUNIT: Belongs to the CWC complex (or CEF1-associated complex),
+CC       a spliceosome sub-complex reminiscent of a late-stage spliceosome
+CC       composed of the U2, U5 and U6 snRNAs and at least BUD13, BUD31,
+CC       BRR2, CDC40, CEF1, CLF1, CUS1, CWC2, CWC15, CWC21, CWC22, CWC23,
+CC       CWC24, CWC25, CWC27, ECM2, HSH155, IST3, ISY1, LEA1, MSL1, NTC20,
+CC       PRP8, PRP9, PRP11, PRP19, PRP21, PRP22, PRP45, PRP46, SLU7, SMB1,
+CC       SMD1, SMD2, SMD3, SMX2, SMX3, SNT309, SNU114, SPP2, SYF1, SYF2,
+CC       RSE1 and YJU2. {ECO:0000269|PubMed:11884590}.
+CC   -!- INTERACTION:
+CC       Q03654:CEF1; NbExp=5; IntAct=EBI-547, EBI-476;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000305}.
+CC   -!- MISCELLANEOUS: Present with 1900 molecules/cell in log phase SD
+CC       medium. {ECO:0000269|PubMed:14562106}.
+CC   -!- SIMILARITY: Belongs to the BUD31 (G10) family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X59720; CAA42278.1; -; Genomic_DNA.
+DR   EMBL; BK006937; DAA07536.1; -; Genomic_DNA.
+DR   PIR; S22261; S22261.
+DR   RefSeq; NP_009990.1; NM_001178774.1.
+DR   PDB; 2MY1; NMR; -; A=2-157.
+DR   PDBsum; 2MY1; -.
+DR   ProteinModelPortal; P25337; -.
+DR   BioGrid; 31040; 192.
+DR   DIP; DIP-1180N; -.
+DR   IntAct; P25337; 14.
+DR   MINT; MINT-408408; -.
+DR   MaxQB; P25337; -.
+DR   PaxDb; P25337; -.
+DR   PeptideAtlas; P25337; -.
+DR   EnsemblFungi; YCR063W; YCR063W; YCR063W.
+DR   GeneID; 850427; -.
+DR   KEGG; sce:YCR063W; -.
+DR   CYGD; YCR063w; -.
+DR   EuPathDB; FungiDB:YCR063W; -.
+DR   SGD; S000000659; BUD31.
+DR   eggNOG; COG5132; -.
+DR   GeneTree; ENSGT00390000014300; -.
+DR   HOGENOM; HOG000235066; -.
+DR   InParanoid; P25337; -.
+DR   KO; K12873; -.
+DR   OMA; CRGCSSD; -.
+DR   OrthoDB; EOG73281W; -.
+DR   BioCyc; YEAST:G3O-29367-MONOMER; -.
+DR   NextBio; 966006; -.
+DR   PRO; PR:P25337; -.
+DR   Proteomes; UP000002311; Chromosome III.
+DR   GO; GO:0005686; C:U2 snRNP; IDA:SGD.
+DR   GO; GO:0007049; P:cell cycle; IEA:UniProtKB-KW.
+DR   GO; GO:0000398; P:mRNA splicing, via spliceosome; IPI:SGD.
+DR   GO; GO:0008380; P:RNA splicing; IPI:SGD.
+DR   InterPro; IPR018230; BUD31/G10-rel_CS.
+DR   InterPro; IPR001748; G10.
+DR   PANTHER; PTHR19411; PTHR19411; 1.
+DR   Pfam; PF01125; G10; 1.
+DR   PRINTS; PR00322; G10.
+DR   PROSITE; PS00997; G10_1; 1.
+DR   PROSITE; PS00998; G10_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cell cycle; Complete proteome; mRNA processing;
+KW   mRNA splicing; Nucleus; Reference proteome.
+FT   CHAIN         1    157       Pre-mRNA-splicing factor BUD31.
+FT                                /FTId=PRO_0000193902.
+FT   MOTIF         2     11       Nuclear localization signal.
+FT                                {ECO:0000255}.
+FT   HELIX        15     18       {ECO:0000244|PDB:2MY1}.
+FT   HELIX        20     38       {ECO:0000244|PDB:2MY1}.
+FT   STRAND       42     44       {ECO:0000244|PDB:2MY1}.
+FT   HELIX        46     68       {ECO:0000244|PDB:2MY1}.
+FT   HELIX        75     83       {ECO:0000244|PDB:2MY1}.
+FT   STRAND       84     86       {ECO:0000244|PDB:2MY1}.
+FT   HELIX        89     96       {ECO:0000244|PDB:2MY1}.
+FT   STRAND       97     99       {ECO:0000244|PDB:2MY1}.
+FT   STRAND      113    115       {ECO:0000244|PDB:2MY1}.
+FT   TURN        121    123       {ECO:0000244|PDB:2MY1}.
+FT   HELIX       126    135       {ECO:0000244|PDB:2MY1}.
+FT   TURN        146    149       {ECO:0000244|PDB:2MY1}.
+SQ   SEQUENCE   157 AA;  18447 MW;  70A8B15F8DA6F85D CRC64;
+     MPRIKTRRSK PAPDGFEKIK PTLTDFEIQL RDAQKDKSSK LAAKSNEQLW EIMQLHHQRS
+     RYIYTLYYKR KAISKDLYDW LIKEKYADKL LIAKWRKTGY EKLCCLRCIQ KNETNNGSTC
+     ICRVPRAQLE EEARKKGTQV SFHQCVHCGC RGCASTD
+//

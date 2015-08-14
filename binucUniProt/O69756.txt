@@ -1,0 +1,104 @@
+ID   O69756_PSEAI            Unreviewed;       205 AA.
+AC   O69756; Q7DCA8;
+DT   01-AUG-1998, integrated into UniProtKB/TrEMBL.
+DT   01-AUG-1998, sequence version 1.
+DT   27-MAY-2015, entry version 89.
+DE   SubName: Full=HasAp {ECO:0000313|EMBL:CAA76520.1};
+GN   Name=hasAp {ECO:0000313|EMBL:CAA76520.1};
+OS   Pseudomonas aeruginosa.
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+OC   Pseudomonadaceae; Pseudomonas.
+OX   NCBI_TaxID=287 {ECO:0000313|EMBL:CAA76520.1};
+RN   [1] {ECO:0000313|EMBL:CAA76520.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=PAO1 {ECO:0000313|EMBL:CAA76520.1};
+RX   PubMed=9680211; DOI=10.1046/j.1365-2958.1998.00885.x;
+RA   Letoffe S., Redeker V., Wandersman C.;
+RT   "Isolation and characterization of an extracellular haem-binding
+RT   protein from Pseudomonas aeruginosa that shares function and sequence
+RT   similarities with the Serratia marcescens HasA haemophore.";
+RL   Mol. Microbiol. 28:1223-1234(1998).
+RN   [2] {ECO:0000313|EMBL:CAA76520.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=PAO1 {ECO:0000313|EMBL:CAA76520.1};
+RA   Binet R.;
+RL   Submitted (MAR-1998) to the EMBL/GenBank/DDBJ databases.
+RN   [3] {ECO:0000213|PDB:3ELL}
+RP   X-RAY CRYSTALLOGRAPHY (1.70 ANGSTROMS) OF 1-184 IN COMPLEX WITH HEME.
+RX   PubMed=19072037; DOI=10.1021/bi801860g;
+RA   Alontaga A.Y., Rodriguez J.C., Schonbrunn E., Becker A., Funke T.,
+RA   Yukl E.T., Hayashi T., Stobaugh J., Moenne-Loccoz P., Rivera M.;
+RT   "Structural characterization of the hemophore HasAp from Pseudomonas
+RT   aeruginosa: NMR spectroscopy reveals protein-protein interactions
+RT   between Holo-HasAp and hemoglobin.";
+RL   Biochemistry 48:96-109(2009).
+RN   [4] {ECO:0000213|PDB:4O6Q, ECO:0000213|PDB:4O6S, ECO:0000213|PDB:4O6T}
+RP   X-RAY CRYSTALLOGRAPHY (0.89 ANGSTROMS) OF 1-184 IN COMPLEX WITH HEME
+RP   AND ZINC.
+RX   PubMed=24625274;
+RA   Kumar R., Matsumura H., Lovell S., Yao H., Rodriguez J.C.,
+RA   Battaile K.P., Moenne-Loccoz P., Rivera M.;
+RT   "Replacing the axial ligand tyrosine 75 or its hydrogen bond partner
+RT   histidine 83 minimally affects hemin acquisition by the hemophore
+RT   HasAp from Pseudomonas aeruginosa.";
+RL   Biochemistry 53:2112-2125(2014).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; Y16895; CAA76520.1; -; Genomic_DNA.
+DR   PIR; G83218; G83218.
+DR   RefSeq; NP_252097.1; NC_002516.2.
+DR   RefSeq; WP_003115011.1; NZ_JUAW01000043.1.
+DR   PDB; 3ELL; X-ray; 1.70 A; A/B=1-184.
+DR   PDB; 4O6Q; X-ray; 0.95 A; A=1-184.
+DR   PDB; 4O6S; X-ray; 1.32 A; A=1-184.
+DR   PDB; 4O6T; X-ray; 1.25 A; A=1-184.
+DR   PDB; 4O6U; X-ray; 0.89 A; A=1-184.
+DR   PDBsum; 3ELL; -.
+DR   PDBsum; 4O6Q; -.
+DR   PDBsum; 4O6S; -.
+DR   PDBsum; 4O6T; -.
+DR   PDBsum; 4O6U; -.
+DR   ProteinModelPortal; O69756; -.
+DR   SMR; O69756; 1-184.
+DR   STRING; 208964.PA3407; -.
+DR   DNASU; 879854; -.
+DR   EnsemblBacteria; KHE31636; KHE31636; LH31_28560.
+DR   GeneID; 879854; -.
+DR   KEGG; pae:PA3407; -.
+DR   PATRIC; 19841419; VBIPseAer58763_3567.
+DR   PseudoCAP; PA3407; -.
+DR   HOGENOM; HOG000219133; -.
+DR   KO; K12545; -.
+DR   OrthoDB; EOG6CVVBX; -.
+DR   EvolutionaryTrace; O69756; -.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.30.1500.10; -; 1.
+DR   InterPro; IPR010495; HasA_haem-bd.
+DR   Pfam; PF06438; HasA; 1.
+DR   PIRSF; PIRSF019876; HasA; 1.
+DR   SUPFAM; SSF54621; SSF54621; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3ELL, ECO:0000213|PDB:4O6Q};
+KW   Heme {ECO:0000213|PDB:3ELL, ECO:0000213|PDB:4O6Q};
+KW   Iron {ECO:0000213|PDB:3ELL, ECO:0000213|PDB:4O6Q};
+KW   Metal-binding {ECO:0000213|PDB:3ELL, ECO:0000213|PDB:4O6Q};
+KW   Zinc {ECO:0000213|PDB:4O6S}.
+FT   METAL        32     32       Iron (heme axial ligand); via tele
+FT                                nitrogen. {ECO:0000213|PDB:3ELL,
+FT                                ECO:0000213|PDB:4O6Q,
+FT                                ECO:0000213|PDB:4O6S}.
+FT   METAL        72     72       Zinc. {ECO:0000213|PDB:4O6S}.
+FT   METAL        74     74       Zinc; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4O6S}.
+FT   METAL        75     75       Iron (heme axial ligand).
+FT                                {ECO:0000213|PDB:3ELL,
+FT                                ECO:0000213|PDB:4O6S,
+FT                                ECO:0000213|PDB:4O6T}.
+SQ   SEQUENCE   205 AA;  20903 MW;  9019CD9CD35BF844 CRC64;
+     MSISISYSTT YSGWTVADYL ADWSAYFGDV NHRPGQVVDG SNTGGFNPGP FDGSQYALKS
+     TASDAAFIAG GDLHYTLFSN PSHTLWGKLD SIALGDTLTG GASSGGYALD SQEVSFSNLG
+     LDSPIAQGRD GTVHKVVYGL MSGDSSALQG QIDALLKAVD PSLSINSTFD QLAAAGVAHA
+     TPAAAAAEVG VVGVQELPHD LALAA
+//

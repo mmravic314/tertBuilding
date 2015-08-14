@@ -1,0 +1,394 @@
+ID   IPPK_ARATH              Reviewed;         451 AA.
+AC   Q93YN9; Q9FMY6;
+DT   06-DEC-2005, integrated into UniProtKB/Swiss-Prot.
+DT   01-DEC-2001, sequence version 1.
+DT   22-JUL-2015, entry version 90.
+DE   RecName: Full=Inositol-pentakisphosphate 2-kinase;
+DE            EC=2.7.1.158;
+DE   AltName: Full=Inositol-1,3,4,5,6-pentakisphosphate 2-kinase;
+DE   AltName: Full=Ins(1,3,4,5,6)P5 2-kinase;
+DE            Short=AtIPK1;
+DE            Short=InsP5 2-kinase;
+GN   Name=IPK1; OrderedLocusNames=At5g42810; ORFNames=MJB21.19;
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], FUNCTION, AND ENZYME ACTIVITY.
+RX   PubMed=16107538; DOI=10.1073/pnas.0504172102;
+RA   Stevenson-Paulik J., Bastidas R.J., Chiou S.-T., Frye R.A., York J.D.;
+RT   "Generation of phytate-free seeds in Arabidopsis through disruption of
+RT   inositol polyphosphate kinases.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 102:12612-12617(2005).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=9501997; DOI=10.1093/dnares/4.6.401;
+RA   Nakamura Y., Sato S., Kaneko T., Kotani H., Asamizu E., Miyajima N.,
+RA   Tabata S.;
+RT   "Structural analysis of Arabidopsis thaliana chromosome 5. III.
+RT   Sequence features of the regions of 1,191,918 bp covered by seventeen
+RT   physically assigned P1 clones.";
+RL   DNA Res. 4:401-414(1997).
+RN   [3]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RG   The Arabidopsis Information Resource (TAIR);
+RL   Submitted (APR-2011) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=14593172; DOI=10.1126/science.1088305;
+RA   Yamada K., Lim J., Dale J.M., Chen H., Shinn P., Palm C.J.,
+RA   Southwick A.M., Wu H.C., Kim C.J., Nguyen M., Pham P.K., Cheuk R.F.,
+RA   Karlin-Newmann G., Liu S.X., Lam B., Sakano H., Wu T., Yu G.,
+RA   Miranda M., Quach H.L., Tripp M., Chang C.H., Lee J.M., Toriumi M.J.,
+RA   Chan M.M., Tang C.C., Onodera C.S., Deng J.M., Akiyama K., Ansari Y.,
+RA   Arakawa T., Banh J., Banno F., Bowser L., Brooks S.Y., Carninci P.,
+RA   Chao Q., Choy N., Enju A., Goldsmith A.D., Gurjal M., Hansen N.F.,
+RA   Hayashizaki Y., Johnson-Hopson C., Hsuan V.W., Iida K., Karnes M.,
+RA   Khan S., Koesema E., Ishida J., Jiang P.X., Jones T., Kawai J.,
+RA   Kamiya A., Meyers C., Nakajima M., Narusaka M., Seki M., Sakurai T.,
+RA   Satou M., Tamse R., Vaysberg M., Wallender E.K., Wong C., Yamamura Y.,
+RA   Yuan S., Shinozaki K., Davis R.W., Theologis A., Ecker J.R.;
+RT   "Empirical analysis of transcriptional activity in the Arabidopsis
+RT   genome.";
+RL   Science 302:842-846(2003).
+RN   [5]
+RP   FUNCTION, ENZYME ACTIVITY, BIOPHYSICOCHEMICAL PROPERTIES, AND TISSUE
+RP   SPECIFICITY.
+RX   PubMed=16223361; DOI=10.1042/BJ20051331;
+RA   Sweetman D., Johnson S., Caddick S.E.K., Hanke D.E., Brearley C.A.;
+RT   "Characterization of an Arabidopsis inositol 1,3,4,5,6-
+RT   pentakisphosphate 2-kinase (AtIPK1).";
+RL   Biochem. J. 394:95-103(2006).
+RN   [6]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=22223895; DOI=10.1074/mcp.M111.015131;
+RA   Bienvenut W.V., Sumpton D., Martinez A., Lilla S., Espagne C.,
+RA   Meinnel T., Giglione C.;
+RT   "Comparative large-scale characterisation of plant vs. mammal proteins
+RT   reveals similar and idiosyncratic N-alpha acetylation features.";
+RL   Mol. Cell. Proteomics 11:M111.015131-M111.015131(2012).
+RN   [7]
+RP   X-RAY CRYSTALLOGRAPHY (2.20 ANGSTROMS) IN COMPLEX WITH ADP; ATP
+RP   ANALOG; SUBSTRATE AND ZINC.
+RX   PubMed=20453199; DOI=10.1073/pnas.0912979107;
+RA   Gonzalez B., Banos-Sanz J.I., Villate M., Brearley C.A.,
+RA   Sanz-Aparicio J.;
+RT   "Inositol 1,3,4,5,6-pentakisphosphate 2-kinase is a distant IPK member
+RT   with a singular inositide binding site for axial 2-OH recognition.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 107:9608-9613(2010).
+RN   [8]
+RP   X-RAY CRYSTALLOGRAPHY (2.40 ANGSTROMS) IN COMPLEX WITH ADP; SUBSTRATE
+RP   AND ZINC.
+RX   PubMed=22684075; DOI=10.1107/S1744309112017307;
+RA   Banos-Sanz J.I., Sanz-Aparicio J., Brearley C.A., Gonzalez B.;
+RT   "Expression, purification, crystallization and preliminary X-ray
+RT   diffraction analysis of the apo form of InsP5 2-K from Arabidopsis
+RT   thaliana.";
+RL   Acta Crystallogr. F 68:701-704(2012).
+RN   [9]
+RP   X-RAY CRYSTALLOGRAPHY (2.05 ANGSTROMS) IN COMPLEX WITH ADP; ATP
+RP   ANALOG; SUBSTRATE AND ZINC.
+RX   PubMed=22745128; DOI=10.1074/jbc.M112.363671;
+RA   Banos-Sanz J.I., Sanz-Aparicio J., Whitfield H., Hamilton C.,
+RA   Brearley C.A., Gonzalez B.;
+RT   "Conformational changes in inositol 1,3,4,5,6-pentakisphosphate 2-
+RT   kinase upon substrate binding: role of N-terminal lobe and
+RT   enantiomeric substrate preference.";
+RL   J. Biol. Chem. 287:29237-29249(2012).
+RN   [10]
+RP   X-RAY CRYSTALLOGRAPHY (2.50 ANGSTROMS) IN COMPLEX WITH ADP; SUBSTRATE
+RP   AND ZINC.
+RX   PubMed=22362712; DOI=10.1002/pro.2049;
+RA   Gosein V., Leung T.F., Krajden O., Miller G.J.;
+RT   "Inositol phosphate-induced stabilization of inositol 1,3,4,5,6-
+RT   pentakisphosphate 2-kinase and its role in substrate specificity.";
+RL   Protein Sci. 21:737-742(2012).
+CC   -!- FUNCTION: Phosphorylates Ins(1,3,4,5,6)P5 at position 2 to form
+CC       Ins(1,2,3,4,5,6)P6 (InsP6 or phytate). Phytate is a regulator of
+CC       intracellular signaling, a highly abundant animal antinutrient,
+CC       and a phosphate store in plant seeds. Also phosphorylates
+CC       Ins(1,3,4,6)P4 and Ins(1,4,5,6)P4 to produce Ins(1,2,3,4,6)P5 and
+CC       Ins(1,2,4,5,6)P5. {ECO:0000269|PubMed:16107538,
+CC       ECO:0000269|PubMed:16223361}.
+CC   -!- CATALYTIC ACTIVITY: ATP + 1D-myo-inositol 1,3,4,5,6-
+CC       pentakisphosphate = ADP + 1D-myo-inositol hexakisphosphate.
+CC       {ECO:0000269|PubMed:16107538, ECO:0000269|PubMed:16223361}.
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC         Evidence={ECO:0000269|PubMed:20453199,
+CC         ECO:0000269|PubMed:22362712, ECO:0000269|PubMed:22684075,
+CC         ECO:0000269|PubMed:22745128};
+CC       Note=Binds 1 zinc ion per subunit. {ECO:0000269|PubMed:20453199,
+CC       ECO:0000269|PubMed:22362712, ECO:0000269|PubMed:22684075,
+CC       ECO:0000269|PubMed:22745128};
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=38 uM for Ins(1,3,4,5,6)P5 (in the presence of 0.4 mM ATP)
+CC         {ECO:0000269|PubMed:16223361};
+CC         KM=176 uM for Ins(1,3,4,5,6)P5 (in the presence of 0.4 uM ATP)
+CC         {ECO:0000269|PubMed:16223361};
+CC         Vmax=22 nmol/min/mg enzyme (in the presence of 0.4 mM ATP)
+CC         {ECO:0000269|PubMed:16223361};
+CC         Vmax=1.5 nmol/min/mg enzyme (in the presence of 0.4 uM ATP)
+CC         {ECO:0000269|PubMed:16223361};
+CC   -!- TISSUE SPECIFICITY: Strongly expressed in leaves and cauline
+CC       leaves. Weakly expressed in siliques and flowers. In flower, it is
+CC       expressed in the major organs of developing flower buds. Strongly
+CC       expressed in sepals, petals, in the male and female organs of
+CC       immature and mature flower buds. Strongly expressed in the
+CC       gynoecium and carpels which are fused to form the gynoecium. Also
+CC       expressed in the transmitting tissue and ovules.
+CC       {ECO:0000269|PubMed:16223361}.
+CC   -!- DOMAIN: The EXKPK motif is conserved in inositol-pentakisphosphate
+CC       2-kinases of both family 1 and 2.
+CC   -!- BIOTECHNOLOGY: The gene coding for this protein might be
+CC       inactivated to commercially produce plants with phytate-free
+CC       grain. Indeed, while the role of phytate (InsP6) accumulation in
+CC       seeds is unknown, it causes nutritional and environmental
+CC       problems, partly due to the inability of monogastric animals to
+CC       digest it.
+CC   -!- SIMILARITY: Belongs to the IPK1 type 2 family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAB10637.1; Type=Erroneous gene model prediction; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; DQ122931; AAZ99216.1; -; mRNA.
+DR   EMBL; AB007647; BAB10637.1; ALT_SEQ; Genomic_DNA.
+DR   EMBL; CP002688; AED94867.1; -; Genomic_DNA.
+DR   EMBL; AY059898; AAL24380.1; -; mRNA.
+DR   EMBL; AY093362; AAM13361.1; -; mRNA.
+DR   RefSeq; NP_568613.1; NM_123646.3.
+DR   UniGene; At.8456; -.
+DR   PDB; 2XAL; X-ray; 3.20 A; A/B=1-451.
+DR   PDB; 2XAM; X-ray; 2.20 A; A/B=1-451.
+DR   PDB; 2XAN; X-ray; 2.20 A; A/B=1-451.
+DR   PDB; 2XAO; X-ray; 2.90 A; A/B=1-451.
+DR   PDB; 2XAR; X-ray; 3.10 A; A/B=1-451.
+DR   PDB; 3UDS; X-ray; 3.10 A; A/B=1-451.
+DR   PDB; 3UDT; X-ray; 3.10 A; A/B=1-451.
+DR   PDB; 3UDZ; X-ray; 2.50 A; A/B=1-451.
+DR   PDB; 4AQK; X-ray; 2.40 A; A=1-451.
+DR   PDB; 4AXC; X-ray; 2.25 A; A=1-451.
+DR   PDB; 4AXD; X-ray; 2.05 A; A=1-451.
+DR   PDB; 4AXE; X-ray; 2.50 A; A=1-451.
+DR   PDB; 4AXF; X-ray; 2.93 A; A=1-451.
+DR   PDB; 4LV7; X-ray; 2.60 A; A/B=1-451.
+DR   PDBsum; 2XAL; -.
+DR   PDBsum; 2XAM; -.
+DR   PDBsum; 2XAN; -.
+DR   PDBsum; 2XAO; -.
+DR   PDBsum; 2XAR; -.
+DR   PDBsum; 3UDS; -.
+DR   PDBsum; 3UDT; -.
+DR   PDBsum; 3UDZ; -.
+DR   PDBsum; 4AQK; -.
+DR   PDBsum; 4AXC; -.
+DR   PDBsum; 4AXD; -.
+DR   PDBsum; 4AXE; -.
+DR   PDBsum; 4AXF; -.
+DR   PDBsum; 4LV7; -.
+DR   ProteinModelPortal; Q93YN9; -.
+DR   SMR; Q93YN9; 1-434.
+DR   STRING; 3702.AT5G42810.1; -.
+DR   PaxDb; Q93YN9; -.
+DR   PRIDE; Q93YN9; -.
+DR   DNASU; 834292; -.
+DR   EnsemblPlants; AT5G42810.1; AT5G42810.1; AT5G42810.
+DR   GeneID; 834292; -.
+DR   KEGG; ath:AT5G42810; -.
+DR   TAIR; AT5G42810; -.
+DR   eggNOG; NOG264739; -.
+DR   HOGENOM; HOG000029746; -.
+DR   InParanoid; Q93YN9; -.
+DR   KO; K10572; -.
+DR   OMA; NVISQPC; -.
+DR   PhylomeDB; Q93YN9; -.
+DR   Reactome; REACT_282593; Synthesis of pyrophosphates in the cytosol.
+DR   Reactome; REACT_348855; Synthesis of IPs in the nucleus.
+DR   EvolutionaryTrace; Q93YN9; -.
+DR   PRO; PR:Q93YN9; -.
+DR   Proteomes; UP000006548; Chromosome 5.
+DR   GO; GO:0005737; C:cytoplasm; IDA:TAIR.
+DR   GO; GO:0005634; C:nucleus; IDA:TAIR.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0035299; F:inositol pentakisphosphate 2-kinase activity; IDA:TAIR.
+DR   GO; GO:0032942; F:inositol tetrakisphosphate 2-kinase activity; IDA:TAIR.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0030643; P:cellular phosphate ion homeostasis; IMP:TAIR.
+DR   GO; GO:0042742; P:defense response to bacterium; IMP:TAIR.
+DR   GO; GO:0050832; P:defense response to fungus; IMP:TAIR.
+DR   GO; GO:0051607; P:defense response to virus; IMP:TAIR.
+DR   GO; GO:0040007; P:growth; IMP:TAIR.
+DR   GO; GO:0048527; P:lateral root development; IMP:TAIR.
+DR   GO; GO:0010264; P:myo-inositol hexakisphosphate biosynthetic process; IMP:TAIR.
+DR   GO; GO:0055062; P:phosphate ion homeostasis; IMP:TAIR.
+DR   InterPro; IPR009286; Ins_P5_2-kin.
+DR   PANTHER; PTHR14456; PTHR14456; 1.
+DR   Pfam; PF06090; Ins_P5_2-kin; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; ATP-binding; Complete proteome; Kinase; Metal-binding;
+KW   Nucleotide-binding; Reference proteome; Transferase; Zinc.
+FT   CHAIN         1    451       Inositol-pentakisphosphate 2-kinase.
+FT                                /FTId=PRO_0000110534.
+FT   NP_BIND      19     22       ATP. {ECO:0000305|PubMed:20453199,
+FT                                ECO:0000305|PubMed:22745128}.
+FT   NP_BIND     147    149       ATP. {ECO:0000305|PubMed:20453199,
+FT                                ECO:0000305|PubMed:22745128}.
+FT   NP_BIND     166    168       ATP. {ECO:0000305|PubMed:20453199,
+FT                                ECO:0000305|PubMed:22745128}.
+FT   MOTIF       166    170       EXKPK motif.
+FT   METAL       320    320       Zinc; via pros nitrogen.
+FT                                {ECO:0000244|PDB:2XAL,
+FT                                ECO:0000244|PDB:2XAM,
+FT                                ECO:0000244|PDB:2XAN,
+FT                                ECO:0000244|PDB:2XAO,
+FT                                ECO:0000244|PDB:2XAR,
+FT                                ECO:0000244|PDB:3UDT,
+FT                                ECO:0000244|PDB:3UDZ,
+FT                                ECO:0000244|PDB:4AQK,
+FT                                ECO:0000244|PDB:4AXC,
+FT                                ECO:0000244|PDB:4AXD,
+FT                                ECO:0000244|PDB:4AXE,
+FT                                ECO:0000244|PDB:4AXF,
+FT                                ECO:0000244|PDB:4LV7}.
+FT   METAL       330    330       Zinc. {ECO:0000244|PDB:2XAL,
+FT                                ECO:0000244|PDB:2XAM,
+FT                                ECO:0000244|PDB:2XAN,
+FT                                ECO:0000244|PDB:2XAO,
+FT                                ECO:0000244|PDB:2XAR,
+FT                                ECO:0000244|PDB:3UDT,
+FT                                ECO:0000244|PDB:3UDZ,
+FT                                ECO:0000244|PDB:4AQK,
+FT                                ECO:0000244|PDB:4AXC,
+FT                                ECO:0000244|PDB:4AXD,
+FT                                ECO:0000244|PDB:4AXE,
+FT                                ECO:0000244|PDB:4AXF,
+FT                                ECO:0000244|PDB:4LV7}.
+FT   METAL       333    333       Zinc. {ECO:0000244|PDB:2XAL,
+FT                                ECO:0000244|PDB:2XAM,
+FT                                ECO:0000244|PDB:2XAN,
+FT                                ECO:0000244|PDB:2XAO,
+FT                                ECO:0000244|PDB:2XAR,
+FT                                ECO:0000244|PDB:3UDT,
+FT                                ECO:0000244|PDB:4AQK,
+FT                                ECO:0000244|PDB:4AXC,
+FT                                ECO:0000244|PDB:4AXD,
+FT                                ECO:0000244|PDB:4AXE,
+FT                                ECO:0000244|PDB:4AXF,
+FT                                ECO:0000244|PDB:4LV7}.
+FT   METAL       346    346       Zinc; via tele nitrogen.
+FT                                {ECO:0000244|PDB:2XAL,
+FT                                ECO:0000244|PDB:2XAM,
+FT                                ECO:0000244|PDB:2XAN,
+FT                                ECO:0000244|PDB:2XAO,
+FT                                ECO:0000244|PDB:2XAR,
+FT                                ECO:0000244|PDB:3UDT,
+FT                                ECO:0000244|PDB:3UDZ,
+FT                                ECO:0000244|PDB:4AQK,
+FT                                ECO:0000244|PDB:4AXC,
+FT                                ECO:0000244|PDB:4AXD,
+FT                                ECO:0000244|PDB:4AXE,
+FT                                ECO:0000244|PDB:4AXF,
+FT                                ECO:0000244|PDB:4LV7}.
+FT   BINDING      40     40       ATP. {ECO:0000305|PubMed:20453199,
+FT                                ECO:0000305|PubMed:22745128}.
+FT   BINDING      45     45       Substrate. {ECO:0000305|PubMed:20453199,
+FT                                ECO:0000305|PubMed:22362712,
+FT                                ECO:0000305|PubMed:22684075,
+FT                                ECO:0000305|PubMed:22745128}.
+FT   BINDING     130    130       Substrate. {ECO:0000305|PubMed:20453199,
+FT                                ECO:0000305|PubMed:22362712,
+FT                                ECO:0000305|PubMed:22684075,
+FT                                ECO:0000305|PubMed:22745128}.
+FT   BINDING     170    170       Substrate. {ECO:0000305|PubMed:20453199,
+FT                                ECO:0000305|PubMed:22362712,
+FT                                ECO:0000305|PubMed:22684075,
+FT                                ECO:0000305|PubMed:22745128}.
+FT   BINDING     200    200       Substrate. {ECO:0000305|PubMed:20453199,
+FT                                ECO:0000305|PubMed:22362712,
+FT                                ECO:0000305|PubMed:22684075,
+FT                                ECO:0000305|PubMed:22745128}.
+FT   BINDING     238    238       Substrate. {ECO:0000305|PubMed:20453199,
+FT                                ECO:0000305|PubMed:22362712,
+FT                                ECO:0000305|PubMed:22684075,
+FT                                ECO:0000305|PubMed:22745128}.
+FT   BINDING     241    241       ATP. {ECO:0000305|PubMed:22745128}.
+FT   BINDING     368    368       Substrate. {ECO:0000305|PubMed:20453199,
+FT                                ECO:0000305|PubMed:22362712,
+FT                                ECO:0000305|PubMed:22684075,
+FT                                ECO:0000305|PubMed:22745128}.
+FT   BINDING     407    407       ATP. {ECO:0000305|PubMed:20453199,
+FT                                ECO:0000305|PubMed:22745128}.
+FT   BINDING     411    411       Substrate. {ECO:0000305|PubMed:20453199,
+FT                                ECO:0000305|PubMed:22362712,
+FT                                ECO:0000305|PubMed:22684075,
+FT                                ECO:0000305|PubMed:22745128}.
+FT   BINDING     415    415       Substrate. {ECO:0000305|PubMed:20453199,
+FT                                ECO:0000305|PubMed:22362712,
+FT                                ECO:0000305|PubMed:22684075,
+FT                                ECO:0000305|PubMed:22745128}.
+FT   BINDING     419    419       Substrate. {ECO:0000305|PubMed:20453199,
+FT                                ECO:0000305|PubMed:22362712,
+FT                                ECO:0000305|PubMed:22684075,
+FT                                ECO:0000305|PubMed:22745128}.
+FT   HELIX         7     12       {ECO:0000244|PDB:4AXD}.
+FT   STRAND       13     18       {ECO:0000244|PDB:4AXD}.
+FT   STRAND       20     27       {ECO:0000244|PDB:4AXD}.
+FT   TURN         32     36       {ECO:0000244|PDB:4AXD}.
+FT   STRAND       37     43       {ECO:0000244|PDB:4AXD}.
+FT   HELIX        49     51       {ECO:0000244|PDB:4AXD}.
+FT   HELIX        63     68       {ECO:0000244|PDB:4AXD}.
+FT   TURN         69     71       {ECO:0000244|PDB:4AXD}.
+FT   HELIX        73     76       {ECO:0000244|PDB:4AXD}.
+FT   HELIX        81     91       {ECO:0000244|PDB:4AXD}.
+FT   HELIX        94     97       {ECO:0000244|PDB:4AXD}.
+FT   TURN         98    101       {ECO:0000244|PDB:2XAN}.
+FT   STRAND      106    110       {ECO:0000244|PDB:4AXD}.
+FT   HELIX       112    125       {ECO:0000244|PDB:4AXD}.
+FT   HELIX       128    130       {ECO:0000244|PDB:4AXD}.
+FT   STRAND      134    136       {ECO:0000244|PDB:2XAM}.
+FT   STRAND      142    147       {ECO:0000244|PDB:4AXD}.
+FT   STRAND      152    155       {ECO:0000244|PDB:4AXD}.
+FT   STRAND      163    167       {ECO:0000244|PDB:4AXD}.
+FT   HELIX       177    179       {ECO:0000244|PDB:4AQK}.
+FT   HELIX       182    188       {ECO:0000244|PDB:4AXD}.
+FT   HELIX       192    202       {ECO:0000244|PDB:4AXD}.
+FT   STRAND      205    208       {ECO:0000244|PDB:4AXD}.
+FT   HELIX       214    217       {ECO:0000244|PDB:4AXD}.
+FT   HELIX       222    234       {ECO:0000244|PDB:4AXD}.
+FT   TURN        237    239       {ECO:0000244|PDB:4AXD}.
+FT   STRAND      240    244       {ECO:0000244|PDB:4AXD}.
+FT   STRAND      247    250       {ECO:0000244|PDB:4AXD}.
+FT   STRAND      253    255       {ECO:0000244|PDB:2XAM}.
+FT   HELIX       262    271       {ECO:0000244|PDB:4AXD}.
+FT   TURN        272    275       {ECO:0000244|PDB:2XAM}.
+FT   TURN        280    282       {ECO:0000244|PDB:4AXD}.
+FT   HELIX       283    298       {ECO:0000244|PDB:4AXD}.
+FT   HELIX       300    308       {ECO:0000244|PDB:4AXD}.
+FT   HELIX       315    325       {ECO:0000244|PDB:4AXD}.
+FT   TURN        331    335       {ECO:0000244|PDB:4AXD}.
+FT   HELIX       340    347       {ECO:0000244|PDB:4AXD}.
+FT   HELIX       350    368       {ECO:0000244|PDB:4AXD}.
+FT   STRAND      370    377       {ECO:0000244|PDB:4AXD}.
+FT   STRAND      389    392       {ECO:0000244|PDB:4AXD}.
+FT   TURN        393    396       {ECO:0000244|PDB:4AXD}.
+FT   STRAND      397    406       {ECO:0000244|PDB:4AXD}.
+FT   HELIX       415    433       {ECO:0000244|PDB:4AXD}.
+SQ   SEQUENCE   451 AA;  50509 MW;  C3172D638277D1B5 CRC64;
+     MEMILEEKDA SDWIYRGEGG ANLVLAYAGS SPLFVGKVIR IQKARRNDKA IKNANGVVSV
+     LTSDEQHLWR ENNELISSPN KEVLEQRYVK NVIIPLLGPK HVDAGVRVSV SKEFLECVDK
+     KVTKQRPLWR VNAANVDTSH DSALILNDHS LFSQGISSGG DCISVEIKPK CGFLPTSRFI
+     GKENMLKTSV SRFKMHQLLK LEYNEISEES EYDPLDLFSG SKESVLEAIK ALYSTPQNNF
+     RVFLNGSLIL GGSGESTGRT SPEIGYAFED ALKGFIQSED GHRTECFLQL VSDAVYGSGV
+     LDRLLEIQKL DKLDIEGAIH SYYDLINQPC PICKEGKPLE AELSLHALPL DESLKIVKEY
+     LIAATAKDCS IMISFQSRNA WDSEPSGDYV SLKPTNQTFD YKVHFIDLSL KPLKRMESYY
+     KLDKKIISFY NRKQKAENTA EQIGNSKPSH S
+//

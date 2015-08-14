@@ -1,0 +1,408 @@
+ID   NEB2_RAT                Reviewed;         817 AA.
+AC   O35274;
+DT   27-APR-2001, integrated into UniProtKB/Swiss-Prot.
+DT   01-JAN-1998, sequence version 1.
+DT   22-JUL-2015, entry version 127.
+DE   RecName: Full=Neurabin-2;
+DE   AltName: Full=Neurabin-II;
+DE   AltName: Full=Neural tissue-specific F-actin-binding protein II;
+DE   AltName: Full=PP1bp134;
+DE   AltName: Full=Protein phosphatase 1 regulatory subunit 9B;
+DE   AltName: Full=Spinophilin;
+DE   AltName: Full=p130;
+GN   Name=Ppp1r9b;
+OS   Rattus norvegicus (Rat).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Rattus.
+OX   NCBI_TaxID=10116;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=9275233; DOI=10.1073/pnas.94.18.9956;
+RA   Allen P.B., Ouimet C.C., Greengard P.;
+RT   "Spinophilin, a novel protein phosphatase 1 binding protein localized
+RT   to dendritic spines.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 94:9956-9961(1997).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND PROTEIN SEQUENCE OF 4-24;
+RP   164-182; 199-242; 449-480; 678-689 AND 776-791.
+RC   TISSUE=Brain;
+RX   PubMed=9452470; DOI=10.1074/jbc.273.6.3470;
+RA   Satoh A., Nakanishi H., Obaishi H., Wada M., Takahashi K., Satoh K.,
+RA   Hirao K., Nishioka H., Hata Y., Mizoguchi A., Takai Y.;
+RT   "Neurabin-II/spinophilin. An actin filament-binding protein with one
+RT   pdz domain localized at cadherin-based cell-cell adhesion sites.";
+RL   J. Biol. Chem. 273:3470-3475(1998).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 100-767, AND INTERACTION WITH D2DR.
+RX   PubMed=10391935; DOI=10.1074/jbc.274.28.19894;
+RA   Smith F.D., Oxford G.S., Milgram S.L.;
+RT   "Association of the D2 dopamine receptor third cytoplasmic loop with
+RT   spinophilin, a protein phosphatase-1-interacting protein.";
+RL   J. Biol. Chem. 274:19894-19900(1999).
+RN   [4]
+RP   CHARACTERIZATION.
+RC   TISSUE=Brain;
+RX   PubMed=10585469; DOI=10.1074/jbc.274.50.35845;
+RA   MacMillan L.B., Bass M.A., Cheng N., Howard E.F., Tamura M.,
+RA   Strack S., Wadzinski B.E., Colbran R.J.;
+RT   "Brain actin-associated protein phosphatase 1 holoenzymes containing
+RT   spinophilin, neurabin, and selected catalytic subunit isoforms.";
+RL   J. Biol. Chem. 274:35845-35854(1999).
+RN   [5]
+RP   INTERACTION WITH TGN38.
+RX   PubMed=10514494; DOI=10.1074/jbc.274.42.30080;
+RA   Stephens D.J., Banting G.;
+RT   "Direct interaction of the trans-Golgi network membrane protein,
+RT   TGN38, with the F-actin binding protein, neurabin.";
+RL   J. Biol. Chem. 274:30080-30086(1999).
+RN   [6]
+RP   CHARACTERIZATION, INTERACTION WITH PP1, AND MUTAGENESIS.
+RX   PubMed=10194355; DOI=10.1021/bi982900m;
+RA   Hsieh-Wilson L.C., Allen P.B., Watanabe T., Nairn A.C., Greengard P.;
+RT   "Characterization of the neuronal targeting protein spinophilin and
+RT   its interactions with protein phosphatase-1.";
+RL   Biochemistry 38:4365-4373(1999).
+RN   [7]
+RP   INTERACTION WITH ADRA2A; ADRA2B AND ADRA2C.
+RX   PubMed=11154706; DOI=10.1074/jbc.M011679200;
+RA   Richman J.G., Brady A.E., Wang Q., Hensel J.L., Colbran R.J.,
+RA   Limbird L.E.;
+RT   "Agonist-regulated Interaction between alpha2-adrenergic receptors and
+RT   spinophilin.";
+RL   J. Biol. Chem. 276:15003-15008(2001).
+RN   [8]
+RP   SUBCELLULAR LOCATION, INTERACTION WITH ACTIN AND PPP1CA,
+RP   PHOSPHORYLATION AT SER-94; SER-100 AND SER-177, AND MUTAGENESIS OF
+RP   SER-17; SER-59; SER-87; SER-94; SER-99; SER-100; SER-122; SER-126 AND
+RP   SER-177.
+RX   PubMed=12417592; DOI=10.1074/jbc.M205754200;
+RA   Hsieh-Wilson L.C., Benfenati F., Snyder G.L., Allen P.B., Nairn A.C.,
+RA   Greengard P.;
+RT   "Phosphorylation of spinophilin modulates its interaction with actin
+RT   filaments.";
+RL   J. Biol. Chem. 278:1186-1194(2003).
+RN   [9]
+RP   INTERACTION WITH TIAM1 AND RASGRF1.
+RX   PubMed=12531897; DOI=10.1074/jbc.M207876200;
+RA   Buchsbaum R.J., Connolly B.A., Feig L.A.;
+RT   "Regulation of p70 S6 kinase by complex formation between the Rac
+RT   guanine nucleotide exchange factor (Rac-GEF) Tiam1 and the scaffold
+RT   spinophilin.";
+RL   J. Biol. Chem. 278:18833-18841(2003).
+RN   [10]
+RP   INTERACTION WITH ACTIN.
+RX   PubMed=15135218; DOI=10.1016/j.molbrainres.2003.12.020;
+RA   Barnes A.P., Smith F.D. III, VanDongen H.M., VanDongen A.M.,
+RA   Milgram S.L.;
+RT   "The identification of a second actin-binding region in
+RT   spinophilin/neurabin II.";
+RL   Brain Res. Mol. Brain Res. 124:105-113(2004).
+RN   [11]
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=15514983; DOI=10.1002/cne.20313;
+RA   Ouimet C.C., Katona I., Allen P., Freund T.F., Greengard P.;
+RT   "Cellular and subcellular distribution of spinophilin, a PP1
+RT   regulatory protein that bundles F-actin in dendritic spines.";
+RL   J. Comp. Neurol. 479:374-388(2004).
+RN   [12]
+RP   PHOSPHORYLATION BY CAMK2, PHOSPHORYLATION AT SER-100 AND SER-116, AND
+RP   MUTAGENESIS OF SER-100 AND SER-116.
+RX   PubMed=15228588; DOI=10.1111/j.1471-4159.2004.02491.x;
+RA   Grossman S.D., Futter M., Snyder G.L., Allen P.B., Nairn A.C.,
+RA   Greengard P., Hsieh-Wilson L.C.;
+RT   "Spinophilin is phosphorylated by Ca2+/calmodulin-dependent protein
+RT   kinase II resulting in regulation of its binding to F-actin.";
+RL   J. Neurochem. 90:317-324(2004).
+RN   [13]
+RP   FUNCTION IN DENDRITIC SPINE MORPHOGENESIS, SUBCELLULAR LOCATION, AND
+RP   INTERACTION WITH PPP1R2.
+RX   PubMed=15743906; DOI=10.1091/mbc.E04-12-1054;
+RA   Terry-Lorenzo R.T., Roadcap D.W., Otsuka T., Blanpied T.A.,
+RA   Zamorano P.L., Garner C.C., Shenolikar S., Ehlers M.D.;
+RT   "Neurabin/protein phosphatase-1 complex regulates dendritic spine
+RT   morphogenesis and maturation.";
+RL   Mol. Biol. Cell 16:2349-2362(2005).
+RN   [14]
+RP   FUNCTION, AND INTERACTION WITH RGS1; RGS2; RGS4; RGS19; ADRA1B.
+RX   PubMed=15793568; DOI=10.1038/ncb1237;
+RA   Wang X., Zeng W., Soyombo A.A., Tang W., Ross E.M., Barnes A.P.,
+RA   Milgram S.L., Penninger J.M., Allen P.B., Greengard P., Muallem S.;
+RT   "Spinophilin regulates Ca2+ signalling by binding the N-terminal
+RT   domain of RGS2 and the third intracellular loop of G-protein-coupled
+RT   receptors.";
+RL   Nat. Cell Biol. 7:405-411(2005).
+RN   [15]
+RP   X-RAY CRYSTALLOGRAPHY (1.85 ANGSTROMS) OF 417-583 IN COMPLEX WITH
+RP   HUMAN PP1CA.
+RX   PubMed=20305656; DOI=10.1038/nsmb.1786;
+RA   Ragusa M.J., Dancheck B., Critton D.A., Nairn A.C., Page R., Peti W.;
+RT   "Spinophilin directs protein phosphatase 1 specificity by blocking
+RT   substrate binding sites.";
+RL   Nat. Struct. Mol. Biol. 17:459-464(2010).
+CC   -!- FUNCTION: Seems to act as a scaffold protein in multiple signaling
+CC       pathways. Modulates excitatory synaptic transmission and dendritic
+CC       spine morphology. Binds to actin filaments (F-actin) and shows
+CC       cross-linking activity. Binds along the sides of the F-actin. May
+CC       play an important role in linking the actin cytoskeleton to the
+CC       plasma membrane at the synaptic junction. Believed to target
+CC       protein phosphatase 1/PP1 to dendritic spines, which are rich in
+CC       F-actin, and regulates its specificity toward ion channels and
+CC       other substrates, such as AMPA-type and NMDA-type glutamate
+CC       receptors. Plays a role in regulation of G-protein coupled
+CC       receptor signaling, including dopamine D2 receptors and alpha-
+CC       adrenergic receptors. May establish a signaling complex for
+CC       dopaminergic neurotransmission through D2 receptors by linking
+CC       receptors downstream signaling molecules and the actin
+CC       cytoskeleton. Binds to ADRA1B and RGS2 and mediates regulation of
+CC       ADRA1B signaling. May confer to Rac signaling specificity by
+CC       binding to both, RacGEFs and Rac effector proteins. Probably
+CC       regulates p70 S6 kinase activity by forming a complex with TIAM1.
+CC       Required for hepatocyte growth factor (HGF)-induced cell migration
+CC       (By similarity). {ECO:0000250}.
+CC   -!- SUBUNIT: Interacts with DCLK2 (By similarity). Possibly exists as
+CC       a homodimer, homotrimer or a homotetramer. Interacts with F-actin,
+CC       PPP1CA, neurabin-1, TGN38 and D(2) dopamine receptor. Interacts
+CC       with RGS1, RGS2, RGS4, RGS19 and ADRA1B, ADRA2A, ADRA2B, ADRA2C,
+CC       CDKN2A, PPP1R2, RASGFR1 and TIAM1. Interacts (via C-terminus) with
+CC       SPATA13 (via C-terminal tail) (By similarity). {ECO:0000250}.
+CC   -!- INTERACTION:
+CC       P61169:Drd2; NbExp=2; IntAct=EBI-80022, EBI-80012;
+CC       P63088:Ppp1cc; NbExp=3; IntAct=EBI-80022, EBI-80049;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm, cytoskeleton. Nucleus
+CC       {ECO:0000250}. Cell junction, synapse. Cell junction, adherens
+CC       junction. Cell projection, dendritic spine. Cytoplasm
+CC       {ECO:0000250}. Cell membrane {ECO:0000250}. Cell projection,
+CC       lamellipodium {ECO:0000250}. Cell projection, filopodium
+CC       {ECO:0000250}. Cell projection, ruffle membrane {ECO:0000250}.
+CC       Note=Enriched at synapse and cadherin-based cell-cell adhesion
+CC       sites. In neurons, both cytosolic and membrane-associated, and
+CC       highly enriched in the postsynaptic density apposed to exitatory
+CC       synapses. Colocalizes with PPP1R2 at actin-rich adherens junctions
+CC       in epithelial cells and in dendritic spines. Accumulates in the
+CC       lamellipodium, filopodium and ruffle membrane in response to
+CC       hepatocyte growth factor (HGF) treatment (By similarity).
+CC       {ECO:0000250}.
+CC   -!- TISSUE SPECIFICITY: Ubiquitous. Abundantly expressed in the brain.
+CC       Expressed at highest levels in hippocampus and at lower levels in
+CC       the cortex, cerebellum and brainstem. Localizes to the dendritic
+CC       spines of neurons. Also localizes to aspiny neurons, such as
+CC       GABAergic interneurons.
+CC   -!- DEVELOPMENTAL STAGE: Expression is low during embryogenesis and
+CC       increases around postnatal day 21.
+CC   -!- DOMAIN: The PP1 binding region is natively unstructured, upon PP1
+CC       binding, it acquires structure, blocks a substrate-binding site,
+CC       and restricts PP1 phosphatase specificity to a subset of
+CC       substrates.
+CC   -!- PTM: Stimulation of D1 (but not D2) dopamine receptors induces
+CC       Ser-94 and Ser-177 phosphorylation. Dephosphorylation of these
+CC       residues is mediated by PP1 and possibly PP2A. Spinophilin
+CC       unphosphorylated or phosphorylated at Ser-94 is concentrated in
+CC       the postsynaptic density, whereas spinophilin phosphorylated at
+CC       Ser-177 is absent from the postsynaptic density and enriched in
+CC       the cytosol. Phosphorylation of spinophilin disrupts its
+CC       association with F-actin, but does not affect its binding to PP1.
+CC       {ECO:0000269|PubMed:12417592, ECO:0000269|PubMed:15228588}.
+CC   -!- SIMILARITY: Contains 1 PDZ (DHR) domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00143}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF016252; AAB72005.1; -; mRNA.
+DR   EMBL; AF027181; AAC05183.1; -; Genomic_DNA.
+DR   PIR; T03852; T03852.
+DR   RefSeq; NP_445926.1; NM_053474.1.
+DR   UniGene; Rn.6764; -.
+DR   PDB; 2G5M; NMR; -; B=493-602.
+DR   PDB; 3EGG; X-ray; 1.85 A; C/D=417-583.
+DR   PDB; 3EGH; X-ray; 2.00 A; C/D=417-583.
+DR   PDBsum; 2G5M; -.
+DR   PDBsum; 3EGG; -.
+DR   PDBsum; 3EGH; -.
+DR   ProteinModelPortal; O35274; -.
+DR   SMR; O35274; 492-602.
+DR   DIP; DIP-30882N; -.
+DR   IntAct; O35274; 4.
+DR   MINT; MINT-8057892; -.
+DR   STRING; 10116.ENSRNOP00000005498; -.
+DR   PhosphoSite; O35274; -.
+DR   PaxDb; O35274; -.
+DR   PRIDE; O35274; -.
+DR   Ensembl; ENSRNOT00000089497; ENSRNOP00000074026; ENSRNOG00000052113.
+DR   GeneID; 84686; -.
+DR   KEGG; rno:84686; -.
+DR   UCSC; RGD:632281; rat.
+DR   CTD; 84687; -.
+DR   RGD; 632281; Ppp1r9b.
+DR   eggNOG; NOG314102; -.
+DR   GeneTree; ENSGT00390000010033; -.
+DR   HOGENOM; HOG000252962; -.
+DR   HOVERGEN; HBG005213; -.
+DR   InParanoid; O35274; -.
+DR   KO; K17551; -.
+DR   OMA; HLNNAAN; -.
+DR   OrthoDB; EOG7XM2WV; -.
+DR   PhylomeDB; O35274; -.
+DR   EvolutionaryTrace; O35274; -.
+DR   NextBio; 617274; -.
+DR   PRO; PR:O35274; -.
+DR   Proteomes; UP000002494; Unassembled WGS sequence.
+DR   Genevisible; O35274; RN.
+DR   GO; GO:0015629; C:actin cytoskeleton; IDA:RGD.
+DR   GO; GO:0005912; C:adherens junction; IEA:UniProtKB-SubCell.
+DR   GO; GO:0030864; C:cortical actin cytoskeleton; IEA:Ensembl.
+DR   GO; GO:0005737; C:cytoplasm; ISS:UniProtKB.
+DR   GO; GO:0043197; C:dendritic spine; IDA:RGD.
+DR   GO; GO:0044327; C:dendritic spine head; IDA:RGD.
+DR   GO; GO:0032591; C:dendritic spine membrane; IDA:RGD.
+DR   GO; GO:0044326; C:dendritic spine neck; IDA:RGD.
+DR   GO; GO:0030175; C:filopodium; ISS:UniProtKB.
+DR   GO; GO:0030426; C:growth cone; IDA:RGD.
+DR   GO; GO:0030027; C:lamellipodium; ISS:UniProtKB.
+DR   GO; GO:0043005; C:neuron projection; IDA:RGD.
+DR   GO; GO:0043025; C:neuronal cell body; IDA:RGD.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005886; C:plasma membrane; ISS:UniProtKB.
+DR   GO; GO:0014069; C:postsynaptic density; IDA:RGD.
+DR   GO; GO:0032587; C:ruffle membrane; ISS:UniProtKB.
+DR   GO; GO:0003779; F:actin binding; IDA:RGD.
+DR   GO; GO:0031749; F:D2 dopamine receptor binding; IPI:RGD.
+DR   GO; GO:0019900; F:kinase binding; IPI:RGD.
+DR   GO; GO:0008022; F:protein C-terminus binding; IPI:RGD.
+DR   GO; GO:0032403; F:protein complex binding; IDA:RGD.
+DR   GO; GO:0004672; F:protein kinase activity; IDA:RGD.
+DR   GO; GO:0008157; F:protein phosphatase 1 binding; IDA:RGD.
+DR   GO; GO:0004864; F:protein phosphatase inhibitor activity; IDA:RGD.
+DR   GO; GO:0030042; P:actin filament depolymerization; IEP:RGD.
+DR   GO; GO:0019722; P:calcium-mediated signaling; IEA:Ensembl.
+DR   GO; GO:0016477; P:cell migration; ISS:UniProtKB.
+DR   GO; GO:0071364; P:cellular response to epidermal growth factor stimulus; IEP:RGD.
+DR   GO; GO:0071482; P:cellular response to light stimulus; IDA:RGD.
+DR   GO; GO:0071315; P:cellular response to morphine; ISS:UniProtKB.
+DR   GO; GO:0021987; P:cerebral cortex development; IEP:RGD.
+DR   GO; GO:0016358; P:dendrite development; IEA:Ensembl.
+DR   GO; GO:0046847; P:filopodium assembly; ISS:UniProtKB.
+DR   GO; GO:0060179; P:male mating behavior; IEP:RGD.
+DR   GO; GO:0032515; P:negative regulation of phosphoprotein phosphatase activity; IDA:RGD.
+DR   GO; GO:1903829; P:positive regulation of cellular protein localization; IDA:RGD.
+DR   GO; GO:0090004; P:positive regulation of establishment of protein localization to plasma membrane; IDA:RGD.
+DR   GO; GO:1903119; P:protein localization to actin cytoskeleton; IMP:RGD.
+DR   GO; GO:0006468; P:protein phosphorylation; IDA:GOC.
+DR   GO; GO:0042127; P:regulation of cell proliferation; IEA:InterPro.
+DR   GO; GO:2000474; P:regulation of opioid receptor signaling pathway; ISS:UniProtKB.
+DR   GO; GO:0001932; P:regulation of protein phosphorylation; IEA:Ensembl.
+DR   GO; GO:0050804; P:regulation of synaptic transmission; IEA:InterPro.
+DR   GO; GO:0061458; P:reproductive system development; IEP:RGD.
+DR   GO; GO:0043200; P:response to amino acid; IEP:RGD.
+DR   GO; GO:0001975; P:response to amphetamine; IEP:RGD.
+DR   GO; GO:0032355; P:response to estradiol; IEP:RGD.
+DR   GO; GO:0035902; P:response to immobilization stress; IEP:RGD.
+DR   GO; GO:0035094; P:response to nicotine; IEP:RGD.
+DR   GO; GO:0014070; P:response to organic cyclic compound; IEP:RGD.
+DR   GO; GO:0034695; P:response to prostaglandin E; IEP:RGD.
+DR   Gene3D; 2.30.42.10; -; 1.
+DR   InterPro; IPR029921; NEB2.
+DR   InterPro; IPR001478; PDZ.
+DR   PANTHER; PTHR16154:SF24; PTHR16154:SF24; 1.
+DR   Pfam; PF00595; PDZ; 1.
+DR   SMART; SM00228; PDZ; 1.
+DR   SUPFAM; SSF50156; SSF50156; 1.
+DR   PROSITE; PS50106; PDZ; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Actin-binding; Cell junction; Cell membrane;
+KW   Cell projection; Coiled coil; Complete proteome; Cytoplasm;
+KW   Cytoskeleton; Developmental protein; Differentiation;
+KW   Direct protein sequencing; Membrane; Neurogenesis; Nucleus;
+KW   Phosphoprotein; Reference proteome; Synapse.
+FT   CHAIN         1    817       Neurabin-2.
+FT                                /FTId=PRO_0000071509.
+FT   DOMAIN      496    584       PDZ. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00143}.
+FT   REGION        1    154       Actin-binding.
+FT   REGION      100    371       Interacts with D(2) dopamine receptor.
+FT   REGION      164    282       Actin-binding.
+FT   REGION      169    255       Interacts with ADRA2A, ADRA2B and ADRA2C.
+FT   REGION      417    494       Interacts with protein phosphatase 1.
+FT   REGION      480    525       Interacts with RGS2.
+FT   REGION      595    816       Interacts with TGN38.
+FT   COILED      595    616       {ECO:0000255}.
+FT   COILED      665    816       {ECO:0000255}.
+FT   MOTIF       575    578       PP1-binding motif.
+FT   COMPBIAS    253    260       Poly-Pro.
+FT   MOD_RES      15     15       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:Q6R891}.
+FT   MOD_RES      17     17       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:Q6R891}.
+FT   MOD_RES      94     94       Phosphoserine; by PKA.
+FT                                {ECO:0000269|PubMed:12417592}.
+FT   MOD_RES     100    100       Phosphoserine; by CaMK2.
+FT                                {ECO:0000269|PubMed:12417592,
+FT                                ECO:0000269|PubMed:15228588}.
+FT   MOD_RES     116    116       Phosphoserine; by CaMK2.
+FT                                {ECO:0000269|PubMed:15228588}.
+FT   MOD_RES     177    177       Phosphoserine; by PKA.
+FT                                {ECO:0000269|PubMed:12417592}.
+FT   MOD_RES     192    192       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:Q96SB3}.
+FT   MOD_RES     205    205       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:Q6R891}.
+FT   MOD_RES     207    207       Phosphothreonine.
+FT                                {ECO:0000250|UniProtKB:Q96SB3}.
+FT   MOD_RES     438    438       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:Q96SB3}.
+FT   MOD_RES     658    658       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:Q96SB3}.
+FT   MUTAGEN      17     17       S->A: No effect on phosphorylation.
+FT                                {ECO:0000269|PubMed:12417592}.
+FT   MUTAGEN      59     59       S->A: No effect on phosphorylation.
+FT                                {ECO:0000269|PubMed:12417592}.
+FT   MUTAGEN      87     87       S->A: No effect on phosphorylation.
+FT                                {ECO:0000269|PubMed:12417592}.
+FT   MUTAGEN      94     94       S->A: Diminishes phosphorylation.
+FT                                {ECO:0000269|PubMed:12417592}.
+FT   MUTAGEN      99     99       S->A: No effect on phosphorylation.
+FT                                {ECO:0000269|PubMed:12417592}.
+FT   MUTAGEN     100    100       S->A: Diminishes phosphorylation.
+FT                                {ECO:0000269|PubMed:12417592,
+FT                                ECO:0000269|PubMed:15228588}.
+FT   MUTAGEN     116    116       S->A: Diminishes phosphorylation.
+FT                                {ECO:0000269|PubMed:15228588}.
+FT   MUTAGEN     122    122       S->A: No effect on phosphorylation.
+FT                                {ECO:0000269|PubMed:12417592}.
+FT   MUTAGEN     126    126       S->A: No effect on phosphorylation.
+FT                                {ECO:0000269|PubMed:12417592}.
+FT   MUTAGEN     177    177       S->A: Diminishes phosphorylation.
+FT                                {ECO:0000269|PubMed:12417592}.
+FT   MUTAGEN     447    451       Missing: Abolishes protein phosphatase 1
+FT                                binding. {ECO:0000269|PubMed:10194355}.
+FT   MUTAGEN     451    451       F->A: Abolishes protein phosphatase 1
+FT                                binding. {ECO:0000269|PubMed:10194355}.
+FT   STRAND      431    434       {ECO:0000244|PDB:3EGG}.
+FT   STRAND      456    461       {ECO:0000244|PDB:3EGG}.
+FT   TURN        464    466       {ECO:0000244|PDB:3EGG}.
+FT   HELIX       476    489       {ECO:0000244|PDB:3EGG}.
+FT   STRAND      492    500       {ECO:0000244|PDB:3EGG}.
+FT   STRAND      505    513       {ECO:0000244|PDB:3EGG}.
+FT   STRAND      515    518       {ECO:0000244|PDB:3EGG}.
+FT   STRAND      521    531       {ECO:0000244|PDB:3EGG}.
+FT   HELIX       536    540       {ECO:0000244|PDB:3EGG}.
+FT   STRAND      548    552       {ECO:0000244|PDB:3EGG}.
+FT   HELIX       562    571       {ECO:0000244|PDB:3EGG}.
+FT   STRAND      574    582       {ECO:0000244|PDB:3EGG}.
+SQ   SEQUENCE   817 AA;  89646 MW;  D31D3E94EE2FFB6A CRC64;
+     MMKTEPRGPG GPLRSASPHR SAYEAGIQAL KPPDAPGPDE APKAAHHKKY GSNVHRIKSM
+     FLQMGTTTGP PGEAGGASGM AEAPRASDRG VRLSLPRASS LNENVDHSAL LKLGTSVSER
+     VSRFDSKPAP SAQPAPPPHP PSRLQETRKL FERSVPAASG GDKEAVARRL LRQERASLQD
+     RKLDVVVRFN GSTEALDKLD ADAVSPTVSQ LSAVFEKADS RTGLHRAPGP PRAAGAPQVN
+     SKLVTKRSRV FQPPPPPPAP SGDAATEKDR GPGGQQPPQH RVAPARPPPK PREVRKIKPV
+     EVEESGESEA ESAPGEVIQA EVTVHAALEN GSTTATTASP APEEPKAEAV PEEEASSSVA
+     TLERGVDNGR APDMAPEEVD ESKKEDFSEA DLVDVSAYSG LGEDSGGSAL EEDDEEDEED
+     GEPPYEPESG CVEIPGLSEE EDPAPSRKIH FSTAPIQVFS TYSNEDYDRR NEDVDPMAAS
+     AEYELEKRVE RLELFPVELE KDSEGLGISI IGMGAGADMG LEKLGIFVKT VTEGGAAHRD
+     GRIQVNDLLV EVDGTSLVGV TQSFAASVLR NTKGRVRFMI GRERPGEQSE VAQLIQQTLE
+     QERWQREMME QRYAQYGEDD EETGEYATDE DEELSPTFPG GEMAIEVFEL AENEDALSPV
+     EMEPEKLVHK FKELQIKHAV TEAEIQQLKR KLQSLEQEKG RWRVEKAQLE QSVEENKERM
+     EKLEGYWGEA QSLCQAVDEH LRETQAQYQA LERKYSKAKR LIKDYQQKEI EFLKKETAQR
+     RVLEESELAR KEEMDKLLDK ISELEGNLQT LRNSNST
+//

@@ -1,0 +1,95 @@
+ID   C6EAB7_ECOBD            Unreviewed;       264 AA.
+AC   C6EAB7; C5W162;
+DT   01-SEP-2009, integrated into UniProtKB/TrEMBL.
+DT   01-SEP-2009, sequence version 1.
+DT   22-JUL-2015, entry version 51.
+DE   SubName: Full=Methionine aminopeptidase, type I {ECO:0000313|EMBL:ACT30451.1};
+GN   OrderedLocusNames=ECBD_3451 {ECO:0000313|EMBL:ACT30451.1};
+OS   Escherichia coli (strain B / BL21-DE3).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=469008 {ECO:0000313|Proteomes:UP000002032};
+RN   [1] {ECO:0000313|Proteomes:UP000002032}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=B / BL21-DE3 [JGI] {ECO:0000313|Proteomes:UP000002032};
+RA   Lucas S., Copeland A., Lapidus A., Glavina del Rio T., Dalin E.,
+RA   Tice H., Bruce D., Goodwin L., Pitluck S., LaButti K.M., Clum A.,
+RA   Larimer F., Land M., Hauser L., Kyrpides N., Anderson I., Sorek R.,
+RA   Rubin E.;
+RT   "Complete sequence of Escherichia coli BL21(DE3).";
+RL   Submitted (JUL-2009) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:4A6V, ECO:0000213|PDB:4A6W}
+RP   X-RAY CRYSTALLOGRAPHY (1.46 ANGSTROMS) IN COMPLEX WITH MANGANESE.
+RX   PubMed=22489069; DOI=10.1002/cmdc.201200076;
+RA   Huguet F., Melet A., Alves de Sousa R., Lieutaud A., Chevalier J.,
+RA   Maigre L., Deschamps P., Tomas A., Leulliot N., Pages J.M., Artaud I.;
+RT   "Hydroxamic acids as potent inhibitors of Fe(II) and Mn(II) E. coli
+RT   methionine aminopeptidase: biological activities and X-ray structures
+RT   of oxazole hydroxamate-EcMetAP-Mn complexes.";
+RL   ChemMedChem 7:1020-1030(2012).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP001665; ACT30451.1; -; Genomic_DNA.
+DR   RefSeq; WP_001018194.1; NC_012971.2.
+DR   PDB; 4A6V; X-ray; 1.46 A; A/B=1-264.
+DR   PDB; 4A6W; X-ray; 1.46 A; A=1-264.
+DR   ProteinModelPortal; C6EAB7; -.
+DR   SMR; C6EAB7; 2-264.
+DR   STRING; 469008.ECD_00166; -.
+DR   BindingDB; C6EAB7; -.
+DR   EnsemblBacteria; ACT30451; ACT30451; ECBD_3451.
+DR   EnsemblBacteria; ACT42067; ACT42067; ECD_00166.
+DR   EnsemblBacteria; CAQ30682; CAQ30682; B21_00165.
+DR   KEGG; ebd:ECBD_3451; -.
+DR   KEGG; ebe:B21_00165; -.
+DR   KEGG; ebl:ECD_00166; -.
+DR   eggNOG; COG0024; -.
+DR   HOGENOM; HOG000030427; -.
+DR   KO; K01265; -.
+DR   OMA; VIKDEYH; -.
+DR   Proteomes; UP000002032; Chromosome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0070006; F:metalloaminopeptidase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0070084; P:protein initiator methionine removal; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 3.90.230.10; -; 1.
+DR   HAMAP; MF_01974; MetAP_1; 1.
+DR   InterPro; IPR001714; Pept_M24_MAP.
+DR   InterPro; IPR000994; Pept_M24_structural-domain.
+DR   InterPro; IPR002467; Pept_M24A_MAP1.
+DR   Pfam; PF00557; Peptidase_M24; 1.
+DR   PRINTS; PR00599; MAPEPTIDASE.
+DR   SUPFAM; SSF55920; SSF55920; 1.
+DR   TIGRFAMs; TIGR00500; met_pdase_I; 1.
+DR   PROSITE; PS00680; MAP_1; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4A6V, ECO:0000213|PDB:4A6W};
+KW   Aminopeptidase {ECO:0000313|EMBL:ACT30451.1};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002032};
+KW   Hydrolase {ECO:0000313|EMBL:ACT30451.1};
+KW   Manganese {ECO:0000213|PDB:4A6V, ECO:0000213|PDB:4A6W};
+KW   Metal-binding {ECO:0000213|PDB:4A6V, ECO:0000213|PDB:4A6W};
+KW   Protease {ECO:0000313|EMBL:ACT30451.1}.
+FT   METAL        97     97       Manganese 1. {ECO:0000213|PDB:4A6V,
+FT                                ECO:0000213|PDB:4A6W}.
+FT   METAL       108    108       Manganese 1. {ECO:0000213|PDB:4A6V,
+FT                                ECO:0000213|PDB:4A6W}.
+FT   METAL       108    108       Manganese 2. {ECO:0000213|PDB:4A6V,
+FT                                ECO:0000213|PDB:4A6W}.
+FT   METAL       171    171       Manganese 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4A6V,
+FT                                ECO:0000213|PDB:4A6W}.
+FT   METAL       204    204       Manganese 2. {ECO:0000213|PDB:4A6V,
+FT                                ECO:0000213|PDB:4A6W}.
+FT   METAL       235    235       Manganese 1. {ECO:0000213|PDB:4A6V,
+FT                                ECO:0000213|PDB:4A6W}.
+FT   METAL       235    235       Manganese 2. {ECO:0000213|PDB:4A6V,
+FT                                ECO:0000213|PDB:4A6W}.
+SQ   SEQUENCE   264 AA;  29331 MW;  F2D0B57715A67851 CRC64;
+     MAISIKTPED IEKMRVAGRL AAEVLEMIEP YVKPGVSTGE LDRICNDYIV NEQHAVSACL
+     GYHGYPKSVC ISINEVVCHG IPDDAKLLKD GDIVNIDVTV IKDGFHGDTS KMFIVGKPTI
+     MGERLCRITQ ESLYLALRMV KPGINLREIG AAIQKFVEAE GFSVVREYCG HGIGRGFHEE
+     PQVLHYDSRE TNVVLKPGMT FTIEPMVNAG KKEIRTMKDG WTVKTKDRSL SAQYEHTIVV
+     TDNGCEILTL RKDDTIPAII SHDE
+//

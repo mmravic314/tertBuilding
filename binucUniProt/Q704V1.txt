@@ -1,0 +1,131 @@
+ID   Q704V1_PSEAI            Unreviewed;       250 AA.
+AC   Q704V1;
+DT   05-JUL-2004, integrated into UniProtKB/TrEMBL.
+DT   05-JUL-2004, sequence version 1.
+DT   24-JUN-2015, entry version 55.
+DE   SubName: Full=GIM-1 protein {ECO:0000313|EMBL:CAF05908.1};
+DE   SubName: Full=Metallo-beta-lactamase GIM-1 {ECO:0000313|EMBL:ADU86580.1};
+GN   Name=blaGIM-1 {ECO:0000313|EMBL:CAF05908.1};
+GN   Synonyms=blaGim-1 {ECO:0000313|EMBL:AEX25999.1};
+OS   Pseudomonas aeruginosa.
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+OC   Pseudomonadaceae; Pseudomonas.
+OX   NCBI_TaxID=287 {ECO:0000313|EMBL:CAF05908.1};
+RN   [1] {ECO:0000313|EMBL:CAF05908.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=73-5671 {ECO:0000313|EMBL:CAF05908.1};
+RC   TISSUE=Respiratory tract {ECO:0000313|EMBL:CAF05908.1};
+RX   PubMed=15561840; DOI=10.1128/AAC.48.12.4654-4661.2004;
+RA   Castanheira M., Toleman M.A., Jones R.N., Schmidt F.J., Walsh T.R.;
+RT   "Molecular characterization of a beta-lactamase gene, blaGIM-1,
+RT   encoding a new subclass of metallo-beta-lactamase.";
+RL   Antimicrob. Agents Chemother. 48:4654-4661(2004).
+RN   [2] {ECO:0000313|EMBL:ADU86580.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=MG1370 {ECO:0000313|EMBL:ADU86595.1},
+RC   MG2736 {ECO:0000313|EMBL:AEX25999.1},
+RC   MG3404 {ECO:0000313|EMBL:ADU86608.1},
+RC   MG3918 {ECO:0000313|EMBL:ADU86613.1}, and
+RC   MG4737 {ECO:0000313|EMBL:ADU86580.1};
+RX   PubMed=22247491; DOI=10.1093/jac/dkr579;
+RA   Rieber H., Frontzek A., von Baum H., Pfeifer Y.;
+RT   "Emergence of metallo-?-lactamases GIM-1 and VIM in multidrug-
+RT   resistant Pseudomonas aeruginosa in North Rhine-Westphalia, Germany.";
+RL   J. Antimicrob. Chemother. 67:1043-1045(2012).
+RN   [3] {ECO:0000213|PDB:2YNT, ECO:0000213|PDB:2YNU, ECO:0000213|PDB:2YNV}
+RP   X-RAY CRYSTALLOGRAPHY (1.60 ANGSTROMS) OF 19-250 IN COMPLEX WITH
+RP   MAGNESIUM AND ZINC.
+RX   PubMed=23208706; DOI=10.1128/AAC.02227-12;
+RA   Borra P.S., Samuelsen O., Spencer J., Walsh T.R., Lorentzen M.S.,
+RA   Leiros H.K.;
+RT   "Crystal structures of Pseudomonas aeruginosa GIM-1: active-site
+RT   plasticity in metallo-beta-lactamases.";
+RL   Antimicrob. Agents Chemother. 57:848-854(2013).
+RN   [4] {ECO:0000313|EMBL:AFY03480.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=M1 {ECO:0000313|EMBL:AFY03480.1},
+RC   M2 {ECO:0000313|EMBL:AFY03487.1}, M4 {ECO:0000313|EMBL:AFY03493.1},
+RC   M63 {ECO:0000313|EMBL:AFY03500.1}, and
+RC   M8 {ECO:0000313|EMBL:AFY03508.1};
+RX   PubMed=23877696; DOI=10.1128/AAC.00118-13;
+RA   Wendel A.F., Brodner A.H., Wydra S., Ressina S., Henrich B.,
+RA   Pfeffer K., Toleman M.A., Mackenzie C.R.;
+RT   "Genetic Characterization and Emergence of the Metallo-?-Lactamase
+RT   GIM-1 in Pseudomonas spp. and Enterobacteriaceae during a Long-Term
+RT   Outbreak.";
+RL   Antimicrob. Agents Chemother. 57:5162-5165(2013).
+RN   [5] {ECO:0000313|EMBL:AHX74202.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=1458-2 {ECO:0000313|EMBL:AHX74202.1}, and
+RC   M88 {ECO:0000313|EMBL:AHX74207.1};
+RA   Wendel A.F., MacKenzie C.R.;
+RT   "New class 1 integrons harbouring blaGIM-1 in clinical and
+RT   environmental bacteria.";
+RL   Submitted (FEB-2014) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; GU390399; ADU86580.1; -; Genomic_DNA.
+DR   EMBL; GU390401; ADU86595.1; -; Genomic_DNA.
+DR   EMBL; GU390403; ADU86608.1; -; Genomic_DNA.
+DR   EMBL; GU390404; ADU86613.1; -; Genomic_DNA.
+DR   EMBL; JF414726; AEX25999.1; -; Genomic_DNA.
+DR   EMBL; JX566708; AFY03480.1; -; Genomic_DNA.
+DR   EMBL; JX566709; AFY03487.1; -; Genomic_DNA.
+DR   EMBL; JX566710; AFY03493.1; -; Genomic_DNA.
+DR   EMBL; JX566711; AFY03500.1; -; Genomic_DNA.
+DR   EMBL; JX566712; AFY03508.1; -; Genomic_DNA.
+DR   EMBL; KJ420611; AHX74202.1; -; Genomic_DNA.
+DR   EMBL; KJ420612; AHX74207.1; -; Genomic_DNA.
+DR   EMBL; AJ620678; CAF05908.1; -; Genomic_DNA.
+DR   PDB; 2YNT; X-ray; 1.60 A; A/B/C=19-250.
+DR   PDB; 2YNU; X-ray; 2.06 A; A/B=19-250.
+DR   PDB; 2YNV; X-ray; 2.05 A; A/B=19-250.
+DR   PDB; 2YNW; X-ray; 1.70 A; A/B=19-250.
+DR   PDBsum; 2YNT; -.
+DR   PDBsum; 2YNU; -.
+DR   PDBsum; 2YNV; -.
+DR   PDBsum; 2YNW; -.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.60.15.10; -; 1.
+DR   InterPro; IPR001279; Beta-lactamas-like.
+DR   Pfam; PF00753; Lactamase_B; 1.
+DR   SMART; SM00849; Lactamase_B; 1.
+DR   SUPFAM; SSF56281; SSF56281; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2YNT, ECO:0000213|PDB:2YNU};
+KW   Magnesium {ECO:0000213|PDB:2YNV};
+KW   Metal-binding {ECO:0000213|PDB:2YNT, ECO:0000213|PDB:2YNV};
+KW   Zinc {ECO:0000213|PDB:2YNT, ECO:0000213|PDB:2YNV}.
+FT   METAL        36     36       Magnesium; via pros nitrogen.
+FT                                {ECO:0000213|PDB:2YNV}.
+FT   METAL        38     38       Magnesium. {ECO:0000213|PDB:2YNV}.
+FT   METAL        50     50       Magnesium; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:2YNV}.
+FT   METAL        94     94       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2YNT,
+FT                                ECO:0000213|PDB:2YNV,
+FT                                ECO:0000213|PDB:2YNW}.
+FT   METAL        96     96       Zinc 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:2YNT,
+FT                                ECO:0000213|PDB:2YNV,
+FT                                ECO:0000213|PDB:2YNW}.
+FT   METAL        98     98       Zinc 2. {ECO:0000213|PDB:2YNT,
+FT                                ECO:0000213|PDB:2YNW}.
+FT   METAL       156    156       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2YNT,
+FT                                ECO:0000213|PDB:2YNV,
+FT                                ECO:0000213|PDB:2YNW}.
+FT   METAL       175    175       Zinc 2. {ECO:0000213|PDB:2YNT,
+FT                                ECO:0000213|PDB:2YNW}.
+FT   METAL       217    217       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2YNT,
+FT                                ECO:0000213|PDB:2YNW}.
+SQ   SEQUENCE   250 AA;  27423 MW;  BD092E79E0D43722 CRC64;
+     MKNVLVFLIL LVALPALAQG HKPLEVIKIE DGVYLHTSFK NIEGYGLVDS NGLVVLDNNQ
+     AYIIDTPWSE EDTKLLLSWA TDRGYQVMAS ISTHSHEDRT AGIKLLNSKS IPTYTSELTK
+     KLLAREGKPV PTHYFKDDEF TLGNGLIELY YPGAGHTEDN IVAWLPKSKI LFGGCLVRSH
+     EWEGLGYVGD ASISSWADSI KNIVSKKYPI QMVVPGHGKV GSSDILDHTI DLAESASNKL
+     MQPTAEASAD
+//

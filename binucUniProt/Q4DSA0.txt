@@ -1,0 +1,110 @@
+ID   Q4DSA0_TRYCC            Unreviewed;       308 AA.
+AC   Q4DSA0;
+DT   13-SEP-2005, integrated into UniProtKB/TrEMBL.
+DT   13-SEP-2005, sequence version 1.
+DT   24-JUN-2015, entry version 64.
+DE   SubName: Full=Arginase, putative {ECO:0000313|EMBL:EAN95403.1};
+GN   ORFNames=Tc00.1047053507031.90 {ECO:0000313|EMBL:EAN95403.1};
+OS   Trypanosoma cruzi (strain CL Brener).
+OC   Eukaryota; Euglenozoa; Kinetoplastida; Trypanosomatidae; Trypanosoma;
+OC   Schizotrypanum.
+OX   NCBI_TaxID=353153 {ECO:0000313|Proteomes:UP000002296};
+RN   [1] {ECO:0000313|EMBL:EAN95403.1, ECO:0000313|Proteomes:UP000002296}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=CL Brener {ECO:0000313|EMBL:EAN95403.1,
+RC   ECO:0000313|Proteomes:UP000002296};
+RX   PubMed=16020725; DOI=10.1126/science.1112631;
+RA   El-Sayed N.M., Myler P.J., Bartholomeu D.C., Nilsson D., Aggarwal G.,
+RA   Tran A.N., Ghedin E., Worthey E.A., Delcher A.L., Blandin G.,
+RA   Westenberger S.J., Caler E., Cerqueira G.C., Branche C., Haas B.,
+RA   Anupama A., Arner E., Aslund L., Attipoe P., Bontempi E., Bringaud F.,
+RA   Burton P., Cadag E., Campbell D.A., Carrington M., Crabtree J.,
+RA   Darban H., da Silveira J.F., de Jong P., Edwards K., Englund P.T.,
+RA   Fazelina G., Feldblyum T., Ferella M., Frasch A.C., Gull K., Horn D.,
+RA   Hou L., Huang Y., Kindlund E., Klingbeil M., Kluge S., Koo H.,
+RA   Lacerda D., Levin M.J., Lorenzi H., Louie T., Machado C.R.,
+RA   McCulloch R., McKenna A., Mizuno Y., Mottram J.C., Nelson S.,
+RA   Ochaya S., Osoegawa K., Pai G., Parsons M., Pentony M., Pettersson U.,
+RA   Pop M., Ramirez J.L., Rinta J., Robertson L., Salzberg S.L.,
+RA   Sanchez D.O., Seyler A., Sharma R., Shetty J., Simpson A.J., Sisk E.,
+RA   Tammi M.T., Tarleton R., Teixeira S., Van Aken S., Vogt C., Ward P.N.,
+RA   Wickstead B., Wortman J., White O., Fraser C.M., Stuart K.D.,
+RA   Andersson B.;
+RT   "The genome sequence of Trypanosoma cruzi, etiologic agent of Chagas
+RT   disease.";
+RL   Science 309:409-415(2005).
+RN   [2] {ECO:0000213|PDB:2A0M}
+RP   X-RAY CRYSTALLOGRAPHY (1.60 ANGSTROMS).
+RX   PubMed=18542886; DOI=10.1007/978-1-60327-058-8_33;
+RA   Fan E., Baker D., Fields S., Gelb M.H., Buckner F.S.,
+RA   Van Voorhis W.C., Phizicky E., Dumont M., Mehlin C., Grayhack E.,
+RA   Sullivan M., Verlinde C., Detitta G., Meldrum D.R., Merritt E.A.,
+RA   Earnest T., Soltis M., Zucker F., Myler P.J., Schoenfeld L., Kim D.,
+RA   Worthey L., Lacount D., Vignali M., Li J., Mondal S., Massey A.,
+RA   Carroll B., Gulde S., Luft J., Desoto L., Holl M., Caruthers J.,
+RA   Bosch J., Robien M., Arakaki T., Holmes M., Le Trong I., Hol W.G.;
+RT   "Structural genomics of pathogenic protozoa: an overview.";
+RL   Methods Mol. Biol. 426:497-513(2008).
+RN   [3] {ECO:0000213|PDB:4MXR, ECO:0000213|PDB:4MYF, ECO:0000213|PDB:4MYK}
+RP   X-RAY CRYSTALLOGRAPHY (1.52 ANGSTROMS) IN COMPLEX WITH MANGANESE, AND
+RP   DISULFIDE BONDS.
+RX   PubMed=24261485;
+RA   Hai Y., Dugery R.J., Healy D., Christianson D.W.;
+RT   "Formiminoglutamase from Trypanosoma cruzi is an arginase-like
+RT   manganese metalloenzyme.";
+RL   Biochemistry 52:9294-9309(2013).
+CC   -!- CAUTION: The sequence shown here is derived from an
+CC       EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is
+CC       preliminary data. {ECO:0000313|EMBL:EAN95403.1}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AAHK01000215; EAN95403.1; -; Genomic_DNA.
+DR   RefSeq; XP_817254.1; XM_812161.1.
+DR   PDB; 2A0M; X-ray; 1.60 A; A=1-308.
+DR   PDB; 4MXR; X-ray; 1.85 A; A/B=1-308.
+DR   PDB; 4MYF; X-ray; 1.80 A; A=1-308.
+DR   PDB; 4MYK; X-ray; 1.52 A; A=1-308.
+DR   PDB; 4MYL; X-ray; 1.53 A; A=1-308.
+DR   PDB; 4MYN; X-ray; 1.80 A; A=1-308.
+DR   ProteinModelPortal; Q4DSA0; -.
+DR   SMR; Q4DSA0; 5-301.
+DR   STRING; 353153.XP_817254.1; -.
+DR   GeneID; 3549261; -.
+DR   KEGG; tcr:507031.90; -.
+DR   KO; K01479; -.
+DR   EvolutionaryTrace; Q4DSA0; -.
+DR   Proteomes; UP000002296; Unassembled WGS sequence.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.800.10; -; 1.
+DR   InterPro; IPR006035; Ureohydrolase.
+DR   InterPro; IPR023696; Ureohydrolase_domain.
+DR   PANTHER; PTHR11358; PTHR11358; 1.
+DR   Pfam; PF00491; Arginase; 1.
+DR   PIRSF; PIRSF036979; Arginase; 1.
+DR   PROSITE; PS51409; ARGINASE_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4MYF};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002296};
+KW   Manganese {ECO:0000213|PDB:4MYF};
+KW   Metal-binding {ECO:0000213|PDB:4MYF};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000002296}.
+FT   METAL       114    114       Manganese 1. {ECO:0000213|PDB:4MYF}.
+FT   METAL       138    138       Manganese 1. {ECO:0000213|PDB:4MYF}.
+FT   METAL       138    138       Manganese 2. {ECO:0000213|PDB:4MYF}.
+FT   METAL       140    140       Manganese 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:4MYF}.
+FT   METAL       142    142       Manganese 1. {ECO:0000213|PDB:4MYF}.
+FT   METAL       228    228       Manganese 1. {ECO:0000213|PDB:4MYF}.
+FT   METAL       228    228       Manganese 2. {ECO:0000213|PDB:4MYF}.
+FT   METAL       230    230       Manganese 2. {ECO:0000213|PDB:4MYF}.
+FT   DISULFID     35    242       {ECO:0000213|PDB:4MYF}.
+SQ   SEQUENCE   308 AA;  33556 MW;  ADCF4870B30D9221 CRC64;
+     MAARTDDPRL LSLFSAQREE DADIVIIGFP YDEGCVRNGG RAGAKKGPAA FRFFLQRLGS
+     VNNLELNVDA SHLKLYDAGD ITASTLEEAH EKLESKVFTV LARGAFPFVI GGGNDQSAPN
+     GRAMLRAFPG DVGVINVDSH LDVRPPLSDG RVHSGTPFRQ LLEESSFSGK RFVEFACQGS
+     QCGALHAQYV RDHQGHLMWL SEVRKKGAVA ALEDAFGLTG KNTFFSFDVD SLKSSDMPGV
+     SCPAAVGLSA QEAFDMCFLA GKTPTVMMMD MSELNPLVEE YRSPRVAVYM FYHFVLGFAT
+     RSKPKAEN
+//

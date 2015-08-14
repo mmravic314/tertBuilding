@@ -1,0 +1,120 @@
+ID   APEA_CLOAB              Reviewed;         465 AA.
+AC   Q97K30;
+DT   24-OCT-2001, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2001, sequence version 1.
+DT   22-JUL-2015, entry version 84.
+DE   RecName: Full=Probable M18 family aminopeptidase 1;
+DE            EC=3.4.11.-;
+GN   Name=apeA; OrderedLocusNames=CA_C1091;
+OS   Clostridium acetobutylicum (strain ATCC 824 / DSM 792 / JCM 1419 / LMG
+OS   5710 / VKM B-1787).
+OC   Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+OC   Clostridium.
+OX   NCBI_TaxID=272562;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 824 / DSM 792 / JCM 1419 / LMG 5710 / VKM B-1787;
+RX   PubMed=11466286; DOI=10.1128/JB.183.16.4823-4838.2001;
+RA   Noelling J., Breton G., Omelchenko M.V., Makarova K.S., Zeng Q.,
+RA   Gibson R., Lee H.M., Dubois J., Qiu D., Hitti J., Wolf Y.I.,
+RA   Tatusov R.L., Sabathe F., Doucette-Stamm L.A., Soucaille P.,
+RA   Daly M.J., Bennett G.N., Koonin E.V., Smith D.R.;
+RT   "Genome sequence and comparative analysis of the solvent-producing
+RT   bacterium Clostridium acetobutylicum.";
+RL   J. Bacteriol. 183:4823-4838(2001).
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000250};
+CC   -!- SIMILARITY: Belongs to the peptidase M18 family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE001437; AAK79065.1; -; Genomic_DNA.
+DR   PIR; F97034; F97034.
+DR   RefSeq; NP_347725.1; NC_003030.1.
+DR   RefSeq; WP_010964406.1; NC_003030.1.
+DR   PDB; 2GLJ; X-ray; 3.20 A; A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/X=5-465.
+DR   PDBsum; 2GLJ; -.
+DR   ProteinModelPortal; Q97K30; -.
+DR   SMR; Q97K30; 5-465.
+DR   STRING; 272562.CA_C1091; -.
+DR   MEROPS; M18.004; -.
+DR   EnsemblBacteria; AAK79065; AAK79065; CA_C1091.
+DR   GeneID; 1117274; -.
+DR   KEGG; cac:CA_C1091; -.
+DR   PATRIC; 32036569; VBICloAce74127_1299.
+DR   eggNOG; COG1362; -.
+DR   HOGENOM; HOG000056589; -.
+DR   OMA; MHAPWEV; -.
+DR   OrthoDB; EOG6BW4VB; -.
+DR   BioCyc; CACE272562:GJIH-1139-MONOMER; -.
+DR   EvolutionaryTrace; Q97K30; -.
+DR   Proteomes; UP000000814; Chromosome.
+DR   GO; GO:0004177; F:aminopeptidase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0008237; F:metallopeptidase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 2.30.250.10; -; 1.
+DR   HAMAP; MF_00466; Aminopeptidase_M18_1; 1.
+DR   InterPro; IPR022983; M18_aminopeptidase_1.
+DR   InterPro; IPR001948; Peptidase_M18.
+DR   InterPro; IPR023358; Peptidase_M18_dom2.
+DR   Pfam; PF02127; Peptidase_M18; 1.
+DR   PRINTS; PR00932; AMINO1PTASE.
+PE   1: Evidence at protein level;
+KW   3D-structure; Aminopeptidase; Complete proteome; Hydrolase;
+KW   Metal-binding; Metalloprotease; Protease; Reference proteome; Zinc.
+FT   CHAIN         1    465       Probable M18 family aminopeptidase 1.
+FT                                /FTId=PRO_0000173457.
+FT   METAL       105    105       Zinc. {ECO:0000255}.
+FT   METAL       180    180       Zinc. {ECO:0000255}.
+FT   METAL       441    441       Zinc. {ECO:0000255}.
+FT   TURN         13     15       {ECO:0000244|PDB:2GLJ}.
+FT   HELIX        20     26       {ECO:0000244|PDB:2GLJ}.
+FT   HELIX        29     36       {ECO:0000244|PDB:2GLJ}.
+FT   HELIX        45     51       {ECO:0000244|PDB:2GLJ}.
+FT   TURN         66     69       {ECO:0000244|PDB:2GLJ}.
+FT   STRAND       77     80       {ECO:0000244|PDB:2GLJ}.
+FT   TURN         81     83       {ECO:0000244|PDB:2GLJ}.
+FT   STRAND       84     87       {ECO:0000244|PDB:2GLJ}.
+FT   HELIX        95     97       {ECO:0000244|PDB:2GLJ}.
+FT   STRAND      100    105       {ECO:0000244|PDB:2GLJ}.
+FT   STRAND      118    120       {ECO:0000244|PDB:2GLJ}.
+FT   STRAND      122    127       {ECO:0000244|PDB:2GLJ}.
+FT   STRAND      141    143       {ECO:0000244|PDB:2GLJ}.
+FT   STRAND      145    147       {ECO:0000244|PDB:2GLJ}.
+FT   STRAND      150    152       {ECO:0000244|PDB:2GLJ}.
+FT   STRAND      158    160       {ECO:0000244|PDB:2GLJ}.
+FT   HELIX       179    184       {ECO:0000244|PDB:2GLJ}.
+FT   STRAND      200    202       {ECO:0000244|PDB:2GLJ}.
+FT   HELIX       216    227       {ECO:0000244|PDB:2GLJ}.
+FT   HELIX       236    238       {ECO:0000244|PDB:2GLJ}.
+FT   STRAND      243    245       {ECO:0000244|PDB:2GLJ}.
+FT   STRAND      250    253       {ECO:0000244|PDB:2GLJ}.
+FT   STRAND      258    261       {ECO:0000244|PDB:2GLJ}.
+FT   HELIX       264    278       {ECO:0000244|PDB:2GLJ}.
+FT   STRAND      287    292       {ECO:0000244|PDB:2GLJ}.
+FT   HELIX       295    297       {ECO:0000244|PDB:2GLJ}.
+FT   TURN        301    304       {ECO:0000244|PDB:2GLJ}.
+FT   STRAND      305    307       {ECO:0000244|PDB:2GLJ}.
+FT   HELIX       310    317       {ECO:0000244|PDB:2GLJ}.
+FT   HELIX       331    334       {ECO:0000244|PDB:2GLJ}.
+FT   STRAND      344    346       {ECO:0000244|PDB:2GLJ}.
+FT   STRAND      367    371       {ECO:0000244|PDB:2GLJ}.
+FT   HELIX       386    398       {ECO:0000244|PDB:2GLJ}.
+FT   STRAND      403    405       {ECO:0000244|PDB:2GLJ}.
+FT   STRAND      408    414       {ECO:0000244|PDB:2GLJ}.
+FT   HELIX       420    424       {ECO:0000244|PDB:2GLJ}.
+FT   TURN        425    427       {ECO:0000244|PDB:2GLJ}.
+FT   STRAND      436    439       {ECO:0000244|PDB:2GLJ}.
+FT   STRAND      442    448       {ECO:0000244|PDB:2GLJ}.
+FT   HELIX       449    460       {ECO:0000244|PDB:2GLJ}.
+SQ   SEQUENCE   465 AA;  52011 MW;  CB4C6D0A54C0A439 CRC64;
+     MPNDLLKEYK NAWDKYDDKQ LKEVFALGDR FKNFISNCKT ERECVTELIK TAEKSGYRNI
+     EDILAKGETL KEGDKVYANN RGKGLIMFLI GKEPLYTGFK ILGAHIDSPR LDLKQNPLYE
+     DTDLAMLETH YYGGIKKYQW VTLPLAIHGV IVKKDGTIVN VCVGEDDNDP VFGVSDILVH
+     LASEQLEKKA SKVIEGEDLN ILIGSIPLKD GEEKQKVKHN IMKILNEKYD ISEEDFVSAE
+     LEIVPAGKAR DYGFDRSMVM GYGQDDRICA YTSFEAMLEM KNAKKTCITI LVDKEEVGSI
+     GATGMQSKFF ENTVADIMSL CGDYDELKLR KALYNSEMLS SDVSAAFDPN YPNVMEKRNS
+     AYLGKGIVFN KYTGSRGKSG CNDANPEYIA ELRRILSKES VNWQTAELGK VDQGGGGTIA
+     YILAEYGMQV IDCGVALLNM HAPWEISSKA DIYETKNGYS AFLNN
+//

@@ -1,0 +1,124 @@
+ID   PHL2_BACCE              Reviewed;         333 AA.
+AC   P11889;
+DT   01-OCT-1989, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-1989, sequence version 1.
+DT   24-JUN-2015, entry version 96.
+DE   RecName: Full=Sphingomyelinase C;
+DE            Short=SMase;
+DE            EC=3.1.4.12;
+DE   AltName: Full=Cereolysin B;
+DE   AltName: Full=SMPLC;
+DE   AltName: Full=Sphingomyelin phosphodiesterase;
+DE   Flags: Precursor;
+GN   Name=sph;
+OS   Bacillus cereus.
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus;
+OC   Bacillus cereus group.
+OX   NCBI_TaxID=1396;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=IAM 1208;
+RX   PubMed=2841128; DOI=10.1111/j.1432-1033.1988.tb14186.x;
+RA   Yamada A., Tsukagoshi N., Udaka S., Sasaki T., Makino S., Nakamura S.,
+RA   Little C., Tomita M., Ikezawa H.;
+RT   "Nucleotide sequence and expression in Escherichia coli of the gene
+RT   coding for sphingomyelinase of Bacillus cereus.";
+RL   Eur. J. Biochem. 175:213-220(1988).
+RN   [2]
+RP   PROTEIN SEQUENCE OF 28-41.
+RC   STRAIN=1230-88;
+RX   PubMed=8319899; DOI=10.1111/j.1574-6968.1993.tb06301.x;
+RA   Granum P.E., Nissen H.;
+RT   "Sphingomyelinase is part of the 'enterotoxin complex' produced by
+RT   Bacillus cereus.";
+RL   FEMS Microbiol. Lett. 110:97-100(1993).
+RN   [3]
+RP   SECONDARY STRUCTURE.
+RX   PubMed=2127932;
+RA   Tomita M., Nakai K., Yamada A., Taguchi R., Ikezawa H.;
+RT   "Secondary structure of sphingomyelinase from Bacillus cereus.";
+RL   J. Biochem. 108:811-815(1990).
+CC   -!- FUNCTION: Required, with sphingomyelinase, to effect target cell
+CC       lysis (hemolysis).
+CC   -!- CATALYTIC ACTIVITY: Sphingomyelin + H(2)O = N-acylsphingosine +
+CC       phosphocholine.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC   -!- ENZYME REGULATION: Activated by cobalt and manganese ions.
+CC   -!- SUBCELLULAR LOCATION: Secreted.
+CC   -!- SIMILARITY: Belongs to the neutral sphingomyelinase family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X12711; CAA31214.1; -; Genomic_DNA.
+DR   PIR; B32042; B32042.
+DR   PIR; S01130; S01130.
+DR   PDB; 2DDR; X-ray; 1.40 A; A/B/C/D=28-333.
+DR   PDB; 2DDS; X-ray; 1.80 A; A/B/C/D=28-333.
+DR   PDB; 2DDT; X-ray; 1.80 A; A/B=28-333.
+DR   PDB; 2UYR; X-ray; 2.40 A; X=28-333.
+DR   PDBsum; 2DDR; -.
+DR   PDBsum; 2DDS; -.
+DR   PDBsum; 2DDT; -.
+DR   PDBsum; 2UYR; -.
+DR   ProteinModelPortal; P11889; -.
+DR   SMR; P11889; 34-332.
+DR   STRING; 226900.BC0671; -.
+DR   BRENDA; 3.1.4.12; 648.
+DR   SABIO-RK; P11889; -.
+DR   EvolutionaryTrace; P11889; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0004767; F:sphingomyelin phosphodiesterase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0044179; P:hemolysis in other organism; IEA:UniProtKB-KW.
+DR   Gene3D; 3.60.10.10; -; 1.
+DR   InterPro; IPR005135; Endo/exonuclease/phosphatase.
+DR   InterPro; IPR017766; Sphingomyelinase/PLipase_C.
+DR   Pfam; PF03372; Exo_endo_phos; 1.
+DR   SUPFAM; SSF56219; SSF56219; 1.
+DR   TIGRFAMs; TIGR03395; sphingomy; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cytolysis; Direct protein sequencing; Disulfide bond;
+KW   Hemolysis; Hydrolase; Secreted; Signal.
+FT   SIGNAL        1     27       {ECO:0000269|PubMed:8319899}.
+FT   CHAIN        28    333       Sphingomyelinase C.
+FT                                /FTId=PRO_0000019900.
+FT   DISULFID    150    186       {ECO:0000250}.
+FT   CONFLICT     33     33       Q -> E (in Ref. 2; AA sequence).
+FT                                {ECO:0000305}.
+FT   STRAND       36     46       {ECO:0000244|PDB:2DDR}.
+FT   TURN         49     51       {ECO:0000244|PDB:2DDR}.
+FT   HELIX        57     66       {ECO:0000244|PDB:2DDR}.
+FT   STRAND       74     81       {ECO:0000244|PDB:2DDR}.
+FT   HELIX        84     94       {ECO:0000244|PDB:2DDR}.
+FT   TURN         95     97       {ECO:0000244|PDB:2DDR}.
+FT   STRAND      113    119       {ECO:0000244|PDB:2DDR}.
+FT   STRAND      122    126       {ECO:0000244|PDB:2UYR}.
+FT   STRAND      131    136       {ECO:0000244|PDB:2DDR}.
+FT   STRAND      138    145       {ECO:0000244|PDB:2DDR}.
+FT   STRAND      151    153       {ECO:0000244|PDB:2DDR}.
+FT   STRAND      159    167       {ECO:0000244|PDB:2DDR}.
+FT   STRAND      170    178       {ECO:0000244|PDB:2DDR}.
+FT   HELIX       184    186       {ECO:0000244|PDB:2DDR}.
+FT   HELIX       191    209       {ECO:0000244|PDB:2DDR}.
+FT   STRAND      217    222       {ECO:0000244|PDB:2DDR}.
+FT   TURN        228    230       {ECO:0000244|PDB:2DDR}.
+FT   HELIX       237    245       {ECO:0000244|PDB:2DDR}.
+FT   STRAND      251    254       {ECO:0000244|PDB:2DDR}.
+FT   TURN        261    263       {ECO:0000244|PDB:2DDR}.
+FT   HELIX       265    270       {ECO:0000244|PDB:2DDR}.
+FT   STRAND      280    285       {ECO:0000244|PDB:2DDR}.
+FT   STRAND      292    298       {ECO:0000244|PDB:2DDR}.
+FT   STRAND      306    310       {ECO:0000244|PDB:2DDR}.
+FT   STRAND      313    317       {ECO:0000244|PDB:2DDR}.
+FT   STRAND      320    323       {ECO:0000244|PDB:2UYR}.
+FT   STRAND      326    331       {ECO:0000244|PDB:2DDR}.
+SQ   SEQUENCE   333 AA;  36873 MW;  A48E01702B1CAB3D CRC64;
+     MKGKLLKGVL SLGVGLGALY SGTSAQAEAS TNQNDTLKVM THNVYMLSTN LYPNWGQTER
+     ADLIGAADYI KNQDVVILNE VFDNSASDRL LGNLKKEYPN QTAVLGRSSG SEWDKTLGNY
+     SSSTPEDGGV AIVSKWPIAE KIQYVFAKGC GPDNLSNKGF VYTKIKKNDR FVHVIGTHLQ
+     AEDSMCGKTS PASVRTNQLK EIQDFIKNKN IPNNEYVLIG GDMNVNKINA ENNNDSEYAS
+     MFKTLNASVP SYTGHTATWD ATTNSIAKYN FPDSPAEYLD YIIASKDHAN PSYIENKVLQ
+     PKSPQWTVTS WFQKYTYNDY SDDYPVEATI SMK
+//

@@ -1,0 +1,113 @@
+ID   Q8Y746_LISMO            Unreviewed;       718 AA.
+AC   Q8Y746;
+DT   01-MAR-2002, integrated into UniProtKB/TrEMBL.
+DT   01-MAR-2002, sequence version 1.
+DT   22-JUL-2015, entry version 77.
+DE   SubName: Full=Lmo1466 protein {ECO:0000313|EMBL:CAC99544.1};
+GN   OrderedLocusNames=lmo1466 {ECO:0000313|EMBL:CAC99544.1};
+OS   Listeria monocytogenes serovar 1/2a (strain ATCC BAA-679 / EGD-e).
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Listeriaceae; Listeria.
+OX   NCBI_TaxID=169963 {ECO:0000313|EMBL:CAC99544.1, ECO:0000313|Proteomes:UP000000817};
+RN   [1] {ECO:0000313|EMBL:CAC99544.1, ECO:0000313|Proteomes:UP000000817}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC BAA-679 / EGD-e {ECO:0000313|Proteomes:UP000000817};
+RX   PubMed=11679669; DOI=10.1126/science.1063447;
+RA   Glaser P., Frangeul L., Buchrieser C., Rusniok C., Amend A.,
+RA   Baquero F., Berche P., Bloecker H., Brandt P., Chakraborty T.,
+RA   Charbit A., Chetouani F., Couve E., de Daruvar A., Dehoux P.,
+RA   Domann E., Dominguez-Bernal G., Duchaud E., Durant L., Dussurget O.,
+RA   Entian K.D., Fsihi H., Portillo F.G., Garrido P., Gautier L.,
+RA   Goebel W., Gomez-Lopez N., Hain T., Hauf J., Jackson D., Jones L.M.,
+RA   Kaerst U., Kreft J., Kuhn M., Kunst F., Kurapkat G., Madueno E.,
+RA   Maitournam A., Vicente J.M., Ng E., Nedjari H., Nordsiek G.,
+RA   Novella S., de Pablos B., Perez-Diaz J.C., Purcell R., Remmel B.,
+RA   Rose M., Schlueter T., Simoes N., Tierrez A., Vazquez-Boland J.A.,
+RA   Voss H., Wehland J., Cossart P.;
+RT   "Comparative genomics of Listeria species.";
+RL   Science 294:849-852(2001).
+RN   [2] {ECO:0000213|PDB:4S1B, ECO:0000213|PDB:4S1C}
+RP   X-RAY CRYSTALLOGRAPHY (2.10 ANGSTROMS) OF 494-715 IN COMPLEX WITH
+RP   IRON.
+RX   PubMed=25583510; DOI=10.1073/pnas.1416485112;
+RA   Huynh T.N., Luo S., Pensinger D., Sauer J.D., Tong L., Woodward J.J.;
+RT   "An HD-domain phosphodiesterase mediates cooperative hydrolysis of c-
+RT   di-AMP to affect bacterial growth and virulence.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 112:E747-E756(2015).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AL591979; CAC99544.1; -; Genomic_DNA.
+DR   PIR; AB1258; AB1258.
+DR   RefSeq; NP_464991.1; NC_003210.1.
+DR   RefSeq; WP_003721972.1; NC_003210.1.
+DR   PDB; 4S1B; X-ray; 2.10 A; A/D=494-715.
+DR   PDB; 4S1C; X-ray; 2.40 A; A/D=494-715.
+DR   PDBsum; 4S1B; -.
+DR   PDBsum; 4S1C; -.
+DR   ProteinModelPortal; Q8Y746; -.
+DR   STRING; 169963.lmo1466; -.
+DR   EnsemblBacteria; CAC99544; CAC99544; CAC99544.
+DR   GeneID; 987828; -.
+DR   KEGG; lmo:lmo1466; -.
+DR   PATRIC; 20312057; VBILisMon69206_1505.
+DR   GenoList; LMO1466; -.
+DR   HOGENOM; HOG000014932; -.
+DR   KO; K07037; -.
+DR   OMA; LNECDIT; -.
+DR   OrthoDB; EOG6VXF6V; -.
+DR   BioCyc; LMON169963:LMO1466-MONOMER; -.
+DR   Proteomes; UP000000817; Chromosome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.3210.10; -; 1.
+DR   InterPro; IPR003607; HD/PDEase_dom.
+DR   InterPro; IPR006674; HD_domain.
+DR   InterPro; IPR006675; HDIG_dom.
+DR   InterPro; IPR011624; Metal-dep_PHydrolase_7TM_extra.
+DR   InterPro; IPR011621; Metal-dep_PHydrolase_7TM_intra.
+DR   Pfam; PF07698; 7TM-7TMR_HD; 1.
+DR   Pfam; PF07697; 7TMR-HDED; 1.
+DR   Pfam; PF01966; HD; 1.
+DR   SMART; SM00471; HDc; 1.
+DR   TIGRFAMs; TIGR00277; HDIG; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4S1C};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000817};
+KW   Iron {ECO:0000213|PDB:4S1B, ECO:0000213|PDB:4S1C};
+KW   Metal-binding {ECO:0000213|PDB:4S1B, ECO:0000213|PDB:4S1C};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000817}.
+FT   METAL       514    514       Iron 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4S1B,
+FT                                ECO:0000213|PDB:4S1C}.
+FT   METAL       543    543       Iron 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4S1B,
+FT                                ECO:0000213|PDB:4S1C}.
+FT   METAL       544    544       Iron 1. {ECO:0000213|PDB:4S1B,
+FT                                ECO:0000213|PDB:4S1C}.
+FT   METAL       544    544       Iron 2. {ECO:0000213|PDB:4S1B,
+FT                                ECO:0000213|PDB:4S1C}.
+FT   METAL       580    580       Iron 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4S1B,
+FT                                ECO:0000213|PDB:4S1C}.
+FT   METAL       604    604       Iron 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4S1B,
+FT                                ECO:0000213|PDB:4S1C}.
+FT   METAL       605    605       Iron 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4S1B,
+FT                                ECO:0000213|PDB:4S1C}.
+FT   METAL       648    648       Iron 1. {ECO:0000213|PDB:4S1B,
+FT                                ECO:0000213|PDB:4S1C}.
+SQ   SEQUENCE   718 AA;  81112 MW;  139C2855168FB1C7 CRC64;
+     MKLAKKWRDW YIESGKKYLF PLLLVCFAVI AYFLVCQMTK PESYNVKLFQ VAEKTIRSPQ
+     TVEDTEKTKE ERTKASDAVE DVYVYNRETG QNRVALIQSL FAYVNEVNAE AQEKDTKNKE
+     KAKKENKPAP APTSTEDKLK NLKDKLSSNV SEKITSNISD EVFTTLIEAK SKDFNVMEDV
+     VTTEVEKSME NKIRDENLNS VKIRARDDIE LSAIPAYYKN VSKALVSYAI VPNEVYDEEQ
+     TDARRKEAAQ SVVPVKILQG QVIVQEGQIV DRETYRQLKM LHLLDQKMPV KQYAGFAIFI
+     IALAAILFLY TKKQTQPKAK KMQTMLIFSS VYLVSLFMLF IILFLETQNI ANIAFLFPAA
+     FAPMILKILL NEKYAFLSVI FIAVTSLLTF QNDATSGITI FILLSGATSV VMLRDYSRRS
+     AIMLSGFMVG LINMIYVLLL LLINNSTLLQ VSTLMALGYA FLGGFGAFIL GVGVIPLFET
+     IFGLLTTSRL VELANPNHPL LKKILMKAPG TYHHSMMVAN LAEACADKIG ANSLLVRVGC
+     FYHDIGKTLR PPYFVENQLQ GINPHDRLTP EQSRDIILSH TKDGAEILKE NHMPQPIIDI
+     ALQHHGTTLL KYFYFKAKET NPDVKEADYR YSGPKPQTKE IAIINISDSV EAAVRSSTEP
+     TMAKITEIID GIIKDRFLDG QFTECDITIQ EIKIIRDTLI ATLNGIYHQR IQYPDDKD
+//

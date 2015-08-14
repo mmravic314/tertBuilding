@@ -1,0 +1,158 @@
+ID   PHNL_DESGI              Reviewed;         551 AA.
+AC   P12944;
+DT   01-JAN-1990, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   27-MAY-2015, entry version 98.
+DE   RecName: Full=Periplasmic [NiFe] hydrogenase large subunit;
+DE            EC=1.12.2.1;
+DE   AltName: Full=NiFe hydrogenlyase large chain;
+DE   Flags: Precursor;
+GN   Name=hydB;
+OS   Desulfovibrio gigas.
+OC   Bacteria; Proteobacteria; Deltaproteobacteria; Desulfovibrionales;
+OC   Desulfovibrionaceae; Desulfovibrio.
+OX   NCBI_TaxID=879;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND PROTEIN SEQUENCE OF 2-31.
+RX   PubMed=3322743; DOI=10.1089/dna.1987.6.539;
+RA   Li C., Peck H.D. Jr., le Gall J., Przybyla A.E.;
+RT   "Cloning, characterization, and sequencing of the genes encoding the
+RT   large and small subunits of the periplasmic [NiFe]hydrogenase of
+RT   Desulfovibrio gigas.";
+RL   DNA 6:539-551(1987).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND SEQUENCE REVISION.
+RX   PubMed=2651421;
+RA   Voordouw G., Menon N.K., le Gall J., Choi E.S., Peck H.D. Jr.,
+RA   Przybyla A.E.;
+RT   "Analysis and comparison of nucleotide sequences encoding the genes
+RT   for [NiFe] and [NiFeSe] hydrogenases from Desulfovibrio gigas and
+RT   Desulfovibrio baculatus.";
+RL   J. Bacteriol. 171:2894-2899(1989).
+RN   [3]
+RP   PROTEIN SEQUENCE OF 2-30.
+RX   PubMed=3322275; DOI=10.1016/0006-291X(87)90376-7;
+RA   Prickril B.C., He S.H., Li C., Menon N.K., Choi E.S., Przybyla A.E.,
+RA   Dervartanian D.V., Peck H.D. Jr., Fauque G., le Gall J., Teixeira M.,
+RA   Moura I., Moura J.J.G., Patil D., Huynh B.H.;
+RT   "Identification of three classes of hydrogenase in the genus,
+RT   Desulfovibrio.";
+RL   Biochem. Biophys. Res. Commun. 149:369-377(1987).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (2.85 ANGSTROMS).
+RX   PubMed=7854413; DOI=10.1038/373580a0;
+RA   Volbeda A., Charon M.-H., Piras C., Hatchikian E.C., Frey M.,
+RA   Fontecilla-Camps J.-C.;
+RT   "Crystal structure of the nickel-iron hydrogenase from Desulfovibrio
+RT   gigas.";
+RL   Nature 373:580-587(1995).
+CC   -!- CATALYTIC ACTIVITY: 2 H(2) + ferricytochrome c3 = 4 H(+) +
+CC       ferrocytochrome c3.
+CC   -!- COFACTOR:
+CC       Name=Ni(2+); Xref=ChEBI:CHEBI:49786;
+CC       Note=Binds 1 nickel ion per subunit.;
+CC   -!- SUBUNIT: Heterodimer of a large and a small subunit.
+CC   -!- SUBCELLULAR LOCATION: Periplasm.
+CC   -!- MISCELLANEOUS: Perhaps the leader of the small subunit serves as a
+CC       transport vehicle for both subunits.
+CC   -!- SIMILARITY: Belongs to the [NiFe]/[NiFeSe] hydrogenase large
+CC       subunit family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M18083; AAA23378.1; ALT_SEQ; Genomic_DNA.
+DR   PIR; B32315; HQDVLG.
+DR   PDB; 1FRV; X-ray; 2.85 A; B/D=1-536.
+DR   PDB; 1YQ9; X-ray; 2.35 A; H/I=1-536.
+DR   PDB; 2FRV; X-ray; 2.54 A; B/D/F/H/J/L=1-536.
+DR   PDBsum; 1FRV; -.
+DR   PDBsum; 1YQ9; -.
+DR   PDBsum; 2FRV; -.
+DR   ProteinModelPortal; P12944; -.
+DR   SMR; P12944; 7-536.
+DR   EvolutionaryTrace; P12944; -.
+DR   GO; GO:0042597; C:periplasmic space; IEA:UniProtKB-SubCell.
+DR   GO; GO:0047806; F:cytochrome-c3 hydrogenase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0008901; F:ferredoxin hydrogenase activity; IEA:InterPro.
+DR   GO; GO:0016151; F:nickel cation binding; IEA:InterPro.
+DR   Gene3D; 1.10.645.10; -; 1.
+DR   InterPro; IPR001501; Ni-dep_hyd_lsu.
+DR   InterPro; IPR018194; Ni-dep_hyd_lsu_Ni_BS.
+DR   InterPro; IPR029014; NiFe_Hase-like.
+DR   Pfam; PF00374; NiFeSe_Hases; 1.
+DR   SUPFAM; SSF56762; SSF56762; 1.
+DR   PROSITE; PS00507; NI_HGENASE_L_1; 1.
+DR   PROSITE; PS00508; NI_HGENASE_L_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Direct protein sequencing; Metal-binding; Nickel;
+KW   Oxidoreductase; Periplasm.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:3322275,
+FT                                ECO:0000269|PubMed:3322743}.
+FT   CHAIN         2    536       Periplasmic [NiFe] hydrogenase large
+FT                                subunit.
+FT                                /FTId=PRO_0000013403.
+FT   PROPEP      537    551
+FT                                /FTId=PRO_0000013404.
+FT   METAL        65     65       Nickel. {ECO:0000269|PubMed:7854413}.
+FT   METAL        68     68       Nickel.
+FT   METAL       530    530       Nickel. {ECO:0000269|PubMed:7854413}.
+FT   METAL       533    533       Nickel.
+FT   STRAND        8     11       {ECO:0000244|PDB:1YQ9}.
+FT   STRAND       16     19       {ECO:0000244|PDB:1YQ9}.
+FT   STRAND       21     28       {ECO:0000244|PDB:1YQ9}.
+FT   STRAND       31     39       {ECO:0000244|PDB:1YQ9}.
+FT   HELIX        45     49       {ECO:0000244|PDB:1YQ9}.
+FT   HELIX        54     56       {ECO:0000244|PDB:1YQ9}.
+FT   HELIX        57     62       {ECO:0000244|PDB:1YQ9}.
+FT   STRAND       66     68       {ECO:0000244|PDB:1YQ9}.
+FT   HELIX        71     84       {ECO:0000244|PDB:1YQ9}.
+FT   HELIX        90    114       {ECO:0000244|PDB:1YQ9}.
+FT   HELIX       117    119       {ECO:0000244|PDB:1YQ9}.
+FT   HELIX       124    128       {ECO:0000244|PDB:1YQ9}.
+FT   HELIX       131    141       {ECO:0000244|PDB:1YQ9}.
+FT   HELIX       148    163       {ECO:0000244|PDB:1YQ9}.
+FT   HELIX       168    170       {ECO:0000244|PDB:1YQ9}.
+FT   TURN        174    177       {ECO:0000244|PDB:1YQ9}.
+FT   HELIX       186    214       {ECO:0000244|PDB:1YQ9}.
+FT   STRAND      215    219       {ECO:0000244|PDB:1YQ9}.
+FT   HELIX       231    234       {ECO:0000244|PDB:1YQ9}.
+FT   HELIX       236    255       {ECO:0000244|PDB:1YQ9}.
+FT   HELIX       257    267       {ECO:0000244|PDB:1YQ9}.
+FT   HELIX       268    273       {ECO:0000244|PDB:1YQ9}.
+FT   STRAND      280    282       {ECO:0000244|PDB:1YQ9}.
+FT   HELIX       293    295       {ECO:0000244|PDB:1YQ9}.
+FT   STRAND      296    298       {ECO:0000244|PDB:1YQ9}.
+FT   STRAND      301    303       {ECO:0000244|PDB:1YQ9}.
+FT   STRAND      307    312       {ECO:0000244|PDB:2FRV}.
+FT   HELIX       316    318       {ECO:0000244|PDB:1YQ9}.
+FT   STRAND      319    322       {ECO:0000244|PDB:1YQ9}.
+FT   TURN        324    327       {ECO:0000244|PDB:1YQ9}.
+FT   STRAND      328    331       {ECO:0000244|PDB:1YQ9}.
+FT   HELIX       336    338       {ECO:0000244|PDB:1YQ9}.
+FT   HELIX       350    352       {ECO:0000244|PDB:1YQ9}.
+FT   STRAND      355    357       {ECO:0000244|PDB:1FRV}.
+FT   STRAND      359    362       {ECO:0000244|PDB:1YQ9}.
+FT   HELIX       371    380       {ECO:0000244|PDB:1YQ9}.
+FT   HELIX       384    397       {ECO:0000244|PDB:1YQ9}.
+FT   HELIX       401    404       {ECO:0000244|PDB:1YQ9}.
+FT   HELIX       407    437       {ECO:0000244|PDB:1YQ9}.
+FT   STRAND      451    461       {ECO:0000244|PDB:1YQ9}.
+FT   STRAND      464    473       {ECO:0000244|PDB:1YQ9}.
+FT   STRAND      476    483       {ECO:0000244|PDB:1YQ9}.
+FT   HELIX       485    490       {ECO:0000244|PDB:1YQ9}.
+FT   HELIX       501    506       {ECO:0000244|PDB:1YQ9}.
+FT   HELIX       518    526       {ECO:0000244|PDB:1YQ9}.
+FT   HELIX       531    535       {ECO:0000244|PDB:1YQ9}.
+SQ   SEQUENCE   551 AA;  61480 MW;  4CF99AD3F75189B0 CRC64;
+     MSEMQGNKIV VDPITRIEGH LRIEVEVEGG KIKNAWSMST LFRGLEMILK GRDPRDAQHF
+     TQRACGVCTY VHALASVRAV DNCVGVKIPE NATLMRNLTM GAQYMHDHLV HFYHLHALDW
+     VNVANALNAD PAKAARLAND LSPRKTTTES LKAVQAKVKA LVESGQLGIF TNAYFLGGHP
+     AYVLPAEVDL IATAHYLEAL RVQVKAARAM AIFGAKNPHT QFTVVGGCTN YDSLRPERIA
+     EFRKLYKEVR EFIEQVYITD LLAVAGFYKN WAGIGKTSNF LTCGEFPTDE YDLNSRYTPQ
+     GVIWGNDLSK VDDFNPDLIE EHVKYSWYEG ADAHHPYKGV TKPKWTEFHG EDRYSWMKAP
+     RYKGEAFEVG PLASVLVAYA KKHEPTVKAV DLVLKTLGVG PEALFSTLGR TAARGIQCLT
+     AAQEVEVWLD KLEANVKAGK DDLYTDWQYP TESQGVGFVN APRGMLSHWI VQRGGKIENF
+     QHVVPSTWNL GPRCAERKLS AVEQALIGTP IADPKRPVEI LRTVHSYDPC IACGVHVIDP
+     ESNQVHKFRI L
+//

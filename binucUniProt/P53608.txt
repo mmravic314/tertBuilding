@@ -1,0 +1,139 @@
+ID   ARGI_BACCD              Reviewed;         299 AA.
+AC   P53608;
+DT   01-OCT-1996, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-1996, sequence version 1.
+DT   26-NOV-2014, entry version 87.
+DE   RecName: Full=Arginase;
+DE            EC=3.5.3.1;
+GN   Name=rocF;
+OS   Bacillus caldovelox.
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Geobacillus;
+OC   Geobacillus thermoleovorans group.
+OX   NCBI_TaxID=33931;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=DSM 411 / NBRC 15315;
+RX   PubMed=8647285; DOI=10.1016/0014-5793(96)00459-0;
+RA   Bewley M.C., Lott J.S., Baker E.N., Patchett M.L.;
+RT   "The cloning, expression and crystallisation of a thermostable
+RT   arginase.";
+RL   FEBS Lett. 386:215-218(1996).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS) IN COMPLEXES WITH MANGANESE AND
+RP   ARGININE, COFACTOR, AND SUBUNIT.
+RC   STRAIN=DSM 411 / NBRC 15315;
+RX   PubMed=10196128; DOI=10.1016/S0969-2126(99)80056-2;
+RA   Bewley M.C., Jeffrey P.D., Patchett M.L., Kanyo Z.F., Baker E.N.;
+RT   "Crystal structures of Bacillus caldovelox arginase in complex with
+RT   substrate and inhibitors reveal new insights into activation,
+RT   inhibition and catalysis in the arginase superfamily.";
+RL   Structure 7:435-448(1999).
+CC   -!- FUNCTION: Controls arginine catabolism.
+CC   -!- CATALYTIC ACTIVITY: L-arginine + H(2)O = L-ornithine + urea.
+CC   -!- COFACTOR:
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000255|PROSITE-ProRule:PRU00742,
+CC         ECO:0000269|PubMed:10196128};
+CC       Note=Binds 2 manganese ions per subunit. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00742, ECO:0000269|PubMed:10196128};
+CC   -!- PATHWAY: Nitrogen metabolism; urea cycle; L-ornithine and urea
+CC       from L-arginine: step 1/1.
+CC   -!- SUBUNIT: Homohexamer. {ECO:0000269|PubMed:10196128}.
+CC   -!- SIMILARITY: Belongs to the arginase family. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00742}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U48226; AAB06939.1; -; Genomic_DNA.
+DR   PIR; S68863; S68863.
+DR   PDB; 1CEV; X-ray; 2.40 A; A/B/C/D/E/F=1-299.
+DR   PDB; 2CEV; X-ray; 2.15 A; A/B/C/D/E/F=1-299.
+DR   PDB; 3CEV; X-ray; 2.40 A; A/B/C/D/E/F=1-299.
+DR   PDB; 4CEV; X-ray; 2.70 A; A/B/C/D/E/F=1-299.
+DR   PDB; 5CEV; X-ray; 2.50 A; A/B/C/D/E/F=1-299.
+DR   PDBsum; 1CEV; -.
+DR   PDBsum; 2CEV; -.
+DR   PDBsum; 3CEV; -.
+DR   PDBsum; 4CEV; -.
+DR   PDBsum; 5CEV; -.
+DR   ProteinModelPortal; P53608; -.
+DR   SMR; P53608; 1-299.
+DR   DrugBank; DB00536; Guanidine.
+DR   SABIO-RK; P53608; -.
+DR   UniPathway; UPA00158; UER00270.
+DR   EvolutionaryTrace; P53608; -.
+DR   GO; GO:0004053; F:arginase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006525; P:arginine metabolic process; IEA:UniProtKB-KW.
+DR   GO; GO:0000050; P:urea cycle; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 3.40.800.10; -; 1.
+DR   InterPro; IPR014033; Arginase.
+DR   InterPro; IPR006035; Ureohydrolase.
+DR   InterPro; IPR023696; Ureohydrolase_domain.
+DR   InterPro; IPR020855; Ureohydrolase_Mn_BS.
+DR   PANTHER; PTHR11358; PTHR11358; 1.
+DR   Pfam; PF00491; Arginase; 1.
+DR   PIRSF; PIRSF036979; Arginase; 1.
+DR   PRINTS; PR00116; ARGINASE.
+DR   TIGRFAMs; TIGR01229; rocF_arginase; 1.
+DR   PROSITE; PS01053; ARGINASE_1; 1.
+DR   PROSITE; PS51409; ARGINASE_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Arginine metabolism; Hydrolase; Manganese;
+KW   Metal-binding.
+FT   CHAIN         1    299       Arginase.
+FT                                /FTId=PRO_0000173714.
+FT   REGION      124    128       Substrate binding.
+FT   REGION      135    137       Substrate binding.
+FT   METAL        99     99       Manganese 1.
+FT   METAL       122    122       Manganese 1.
+FT   METAL       122    122       Manganese 2.
+FT   METAL       124    124       Manganese 2.
+FT   METAL       126    126       Manganese 1.
+FT   METAL       226    226       Manganese 1.
+FT   METAL       226    226       Manganese 2.
+FT   METAL       228    228       Manganese 2.
+FT   BINDING     178    178       Substrate.
+FT   BINDING     240    240       Substrate.
+FT   BINDING     271    271       Substrate.
+FT   STRAND        4      9       {ECO:0000244|PDB:2CEV}.
+FT   STRAND       14     16       {ECO:0000244|PDB:1CEV}.
+FT   HELIX        20     22       {ECO:0000244|PDB:2CEV}.
+FT   HELIX        23     29       {ECO:0000244|PDB:2CEV}.
+FT   HELIX        32     38       {ECO:0000244|PDB:2CEV}.
+FT   STRAND       43     48       {ECO:0000244|PDB:2CEV}.
+FT   TURN         57     59       {ECO:0000244|PDB:2CEV}.
+FT   STRAND       60     62       {ECO:0000244|PDB:2CEV}.
+FT   STRAND       63     65       {ECO:0000244|PDB:1CEV}.
+FT   HELIX        68     87       {ECO:0000244|PDB:2CEV}.
+FT   STRAND       91     98       {ECO:0000244|PDB:2CEV}.
+FT   HELIX        99    101       {ECO:0000244|PDB:2CEV}.
+FT   HELIX       102    110       {ECO:0000244|PDB:2CEV}.
+FT   STRAND      114    124       {ECO:0000244|PDB:2CEV}.
+FT   TURN        130    132       {ECO:0000244|PDB:2CEV}.
+FT   HELIX       138    140       {ECO:0000244|PDB:2CEV}.
+FT   HELIX       142    146       {ECO:0000244|PDB:2CEV}.
+FT   HELIX       152    155       {ECO:0000244|PDB:2CEV}.
+FT   HELIX       157    159       {ECO:0000244|PDB:2CEV}.
+FT   HELIX       166    168       {ECO:0000244|PDB:2CEV}.
+FT   STRAND      169    174       {ECO:0000244|PDB:2CEV}.
+FT   HELIX       179    188       {ECO:0000244|PDB:2CEV}.
+FT   STRAND      191    194       {ECO:0000244|PDB:2CEV}.
+FT   HELIX       195    201       {ECO:0000244|PDB:2CEV}.
+FT   HELIX       203    215       {ECO:0000244|PDB:2CEV}.
+FT   STRAND      219    226       {ECO:0000244|PDB:2CEV}.
+FT   HELIX       227    229       {ECO:0000244|PDB:2CEV}.
+FT   TURN        232    234       {ECO:0000244|PDB:2CEV}.
+FT   STRAND      238    240       {ECO:0000244|PDB:1CEV}.
+FT   HELIX       248    261       {ECO:0000244|PDB:2CEV}.
+FT   STRAND      264    270       {ECO:0000244|PDB:2CEV}.
+FT   HELIX       274    276       {ECO:0000244|PDB:2CEV}.
+FT   HELIX       281    293       {ECO:0000244|PDB:2CEV}.
+SQ   SEQUENCE   299 AA;  32433 MW;  32D522AFE7F059D1 CRC64;
+     MKPISIIGVP MDLGQTRRGV DMGPSAMRYA GVIERLERLH YDIEDLGDIP IGKAERLHEQ
+     GDSRLRNLKA VAEANEKLAA AVDQVVQRGR FPLVLGGDHS IAIGTLAGVA KHYERLGVIW
+     YDAHGDVNTA ETSPSGNIHG MPLAASLGFG HPALTQIGGY SPKIKPEHVV LIGVRSLDEG
+     EKKFIREKGI KIYTMHEVDR LGMTRVMEET IAYLKERTDG VHLSLDLDGL DPSDAPGVGT
+     PVIGGLTYRE SHLAMEMLAE AQIITSAEFV EVNPILDERN KTASVAVALM GSLFGEKLM
+//

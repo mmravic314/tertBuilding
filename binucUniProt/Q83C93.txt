@@ -1,0 +1,97 @@
+ID   ORN_COXBU               Reviewed;         183 AA.
+AC   Q83C93;
+DT   24-OCT-2003, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-2003, sequence version 1.
+DT   22-JUL-2015, entry version 70.
+DE   RecName: Full=Oligoribonuclease {ECO:0000255|HAMAP-Rule:MF_00045};
+DE            EC=3.1.-.- {ECO:0000255|HAMAP-Rule:MF_00045};
+GN   Name=orn {ECO:0000255|HAMAP-Rule:MF_00045};
+GN   OrderedLocusNames=CBU_1235;
+OS   Coxiella burnetii (strain RSA 493 / Nine Mile phase I).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Legionellales;
+OC   Coxiellaceae; Coxiella.
+OX   NCBI_TaxID=227377;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=RSA 493 / Nine Mile phase I;
+RX   PubMed=12704232; DOI=10.1073/pnas.0931379100;
+RA   Seshadri R., Paulsen I.T., Eisen J.A., Read T.D., Nelson K.E.,
+RA   Nelson W.C., Ward N.L., Tettelin H., Davidsen T.M., Beanan M.J.,
+RA   DeBoy R.T., Daugherty S.C., Brinkac L.M., Madupu R., Dodson R.J.,
+RA   Khouri H.M., Lee K.H., Carty H.A., Scanlan D., Heinzen R.A.,
+RA   Thompson H.A., Samuel J.E., Fraser C.M., Heidelberg J.F.;
+RT   "Complete genome sequence of the Q-fever pathogen, Coxiella
+RT   burnetii.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 100:5455-5460(2003).
+CC   -!- FUNCTION: 3'-to-5' exoribonuclease specific for small
+CC       oligoribonucleotides. {ECO:0000255|HAMAP-Rule:MF_00045}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_00045}.
+CC   -!- SIMILARITY: Belongs to the oligoribonuclease family.
+CC       {ECO:0000255|HAMAP-Rule:MF_00045}.
+CC   -!- SIMILARITY: Contains 1 exonuclease domain. {ECO:0000255|HAMAP-
+CC       Rule:MF_00045}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE016828; AAO90744.1; -; Genomic_DNA.
+DR   RefSeq; NP_820230.1; NC_002971.3.
+DR   RefSeq; WP_005770781.1; NZ_CDBG01000001.1.
+DR   PDB; 3TR8; X-ray; 2.50 A; A/B=1-183.
+DR   PDBsum; 3TR8; -.
+DR   ProteinModelPortal; Q83C93; -.
+DR   SMR; Q83C93; 4-181.
+DR   STRING; 227377.CBU_1235; -.
+DR   EnsemblBacteria; AAO90744; AAO90744; CBU_1235.
+DR   GeneID; 1209140; -.
+DR   KEGG; cbu:CBU_1235; -.
+DR   PATRIC; 17931205; VBICoxBur82552_1227.
+DR   eggNOG; COG1949; -.
+DR   HOGENOM; HOG000246596; -.
+DR   KO; K13288; -.
+DR   OMA; AFFHYRN; -.
+DR   OrthoDB; EOG6Z9B51; -.
+DR   BioCyc; CBUR227377:GJ7S-1222-MONOMER; -.
+DR   Proteomes; UP000002671; Chromosome.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0016896; F:exoribonuclease activity, producing 5'-phosphomonoesters; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0003676; F:nucleic acid binding; IEA:InterPro.
+DR   Gene3D; 3.30.420.10; -; 1.
+DR   HAMAP; MF_00045; Oligoribonuclease; 1.
+DR   InterPro; IPR006055; Exonuclease.
+DR   InterPro; IPR013520; Exonuclease_RNaseT/DNA_pol3.
+DR   InterPro; IPR022894; Oligoribonuclease.
+DR   InterPro; IPR012337; RNaseH-like_dom.
+DR   Pfam; PF00929; RNase_T; 1.
+DR   SMART; SM00479; EXOIII; 1.
+DR   SUPFAM; SSF53098; SSF53098; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Cytoplasm; Exonuclease; Hydrolase;
+KW   Nuclease; Reference proteome.
+FT   CHAIN         1    183       Oligoribonuclease.
+FT                                /FTId=PRO_0000111032.
+FT   DOMAIN        8    171       Exonuclease. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00045}.
+FT   ACT_SITE    129    129       {ECO:0000255|HAMAP-Rule:MF_00045}.
+FT   STRAND        8     18       {ECO:0000244|PDB:3TR8}.
+FT   TURN         20     22       {ECO:0000244|PDB:3TR8}.
+FT   STRAND       25     33       {ECO:0000244|PDB:3TR8}.
+FT   STRAND       39     42       {ECO:0000244|PDB:3TR8}.
+FT   HELIX        52     55       {ECO:0000244|PDB:3TR8}.
+FT   HELIX        60     68       {ECO:0000244|PDB:3TR8}.
+FT   HELIX        71     76       {ECO:0000244|PDB:3TR8}.
+FT   HELIX        82     93       {ECO:0000244|PDB:3TR8}.
+FT   TURN         94     96       {ECO:0000244|PDB:3TR8}.
+FT   STRAND      104    108       {ECO:0000244|PDB:3TR8}.
+FT   HELIX       110    119       {ECO:0000244|PDB:3TR8}.
+FT   HELIX       121    126       {ECO:0000244|PDB:3TR8}.
+FT   STRAND      131    133       {ECO:0000244|PDB:3TR8}.
+FT   HELIX       134    144       {ECO:0000244|PDB:3TR8}.
+FT   HELIX       146    149       {ECO:0000244|PDB:3TR8}.
+FT   HELIX       160    177       {ECO:0000244|PDB:3TR8}.
+SQ   SEQUENCE   183 AA;  21012 MW;  5DE66FF76A607680 CRC64;
+     MDFSDDNLIW LDLEMTGLDP ERDRIIEIAT IVTNSHLDIL AEGPAFAIHQ PDKLLTAMDN
+     WNTSHHTASG LLERVKNSSV DEVEAETLTL AFLEKYVSAG KSPLCGNSVC QDRRFLSRYM
+     PRLNQFFHYR HLDVTTLKIL AQRWAPQIAA AHIKESQHLA LQDIRDSIEE LRYYRAHLLN
+     LSK
+//

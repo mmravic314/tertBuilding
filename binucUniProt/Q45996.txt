@@ -1,0 +1,161 @@
+ID   Q45996_9FIRM            Unreviewed;      1546 AA.
+AC   Q45996;
+DT   01-NOV-1996, integrated into UniProtKB/TrEMBL.
+DT   01-MAR-2001, sequence version 3.
+DT   24-JUN-2015, entry version 76.
+DE   SubName: Full=Scaffolding protein {ECO:0000313|EMBL:AAC28899.2};
+DE   Flags: Precursor;
+GN   Name=cipC {ECO:0000313|EMBL:AAC28899.2};
+OS   [Clostridium] cellulolyticum.
+OC   Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+OC   Ruminiclostridium.
+OX   NCBI_TaxID=1521 {ECO:0000313|EMBL:AAC28899.2};
+RN   [1] {ECO:0000313|EMBL:AAC28899.2}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=ATCC 35319 {ECO:0000313|EMBL:AAC28899.2};
+RX   PubMed=8636029;
+RA   Pages S., Belaich A., Tardif C., Reverbel-Leroy C., Gaudin C.,
+RA   Belaich J.P.;
+RT   "Interaction between the endoglucanase CelA and the scaffolding
+RT   protein CipC of the Clostridium cellulolyticum cellulosome.";
+RL   J. Bacteriol. 178:2279-2286(1996).
+RN   [2] {ECO:0000313|EMBL:AAC28899.2}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=ATCC 35319 {ECO:0000313|EMBL:AAC28899.2};
+RA   Reverbel-Leroy C., Tardif C., Belaich A., Bernadac A., Gaudin C.,
+RA   Belaich J.;
+RT   "Molecular study and overexpression of the Clostridium cellulolyticum
+RT   celCCF cellulase gene in Escherichia coli.";
+RL   Submitted (MAY-1996) to the EMBL/GenBank/DDBJ databases.
+RN   [3] {ECO:0000313|EMBL:AAC28899.2}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=ATCC 35319 {ECO:0000313|EMBL:AAC28899.2};
+RX   PubMed=10074072;
+RA   Pages S., Belaich A., Fierobe H.P., Tardif C., Gaudin C.,
+RA   Belaich J.P.;
+RT   "Sequence analysis of scaffolding protein CipC and ORFXp, a new
+RT   cohesin-containing protein in Clostridium cellulolyticum: comparison
+RT   of various cohesin domains and subcellular localization of ORFXp.";
+RL   J. Bacteriol. 181:1801-1810(1999).
+RN   [4] {ECO:0000213|PDB:1G43}
+RP   X-RAY CRYSTALLOGRAPHY (2.20 ANGSTROMS) OF 28-187 IN COMPLEX WITH
+RP   CALCIUM.
+RX   PubMed=11092922; DOI=10.1107/S0907444900012889;
+RA   Shimon L.J., Pages S., Belaich A., Belaich J.P., Bayer E.A., Lamed R.,
+RA   Shoham Y., Frolow F.;
+RT   "Structure of a family IIIa scaffoldin CBD from the cellulosome of
+RT   Clostridium cellulolyticum at 2.2 A resolution.";
+RL   Acta Crystallogr. D 56:1560-1568(2000).
+RN   [5] {ECO:0000213|PDB:1G1K}
+RP   X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS) OF 287-427.
+RX   PubMed=11080455; DOI=10.1006/jmbi.2000.4191;
+RA   Spinelli S., Fierobe H.P., Belaich A., Belaich J.P., Henrissat B.,
+RA   Cambillau C.;
+RT   "Crystal structure of a cohesin module from Clostridium
+RT   cellulolyticum: implications for dockerin recognition.";
+RL   J. Mol. Biol. 304:189-200(2000).
+RN   [6] {ECO:0000213|PDB:1EHX}
+RP   STRUCTURE BY NMR OF 195-285.
+RX   PubMed=11080456; DOI=10.1006/jmbi.2000.4192;
+RA   Mosbah A., Belaich A., Bornet O., Belaich J.P., Henrissat B.,
+RA   Darbon H.;
+RT   "Solution structure of the module X2 1 of unknown function of the
+RT   cellulosomal scaffolding protein CipC of Clostridium cellulolyticum.";
+RL   J. Mol. Biol. 304:201-217(2000).
+RN   [7] {ECO:0000313|EMBL:AAC28899.2}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=ATCC 35319 {ECO:0000313|EMBL:AAC28899.2};
+RA   Pages S., Belaich A., Reverbel C., Tardif C., Fierobe H.P., Gaudin C.,
+RA   Belaich J.P.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [8] {ECO:0000213|PDB:2VN5, ECO:0000213|PDB:2VN6}
+RP   X-RAY CRYSTALLOGRAPHY (1.49 ANGSTROMS) OF 277-427.
+RX   PubMed=18445585; DOI=10.1074/jbc.M801533200;
+RA   Pinheiro B.A., Proctor M.R., Martinez-Fleites C., Prates J.A.,
+RA   Money V.A., Davies G.J., Bayer E.A., Fontesm C.M., Fierobe H.P.,
+RA   Gilbert H.J.;
+RT   "The Clostridium cellulolyticum dockerin displays a dual binding mode
+RT   for its cohesin partner.";
+RL   J. Biol. Chem. 283:18422-18430(2008).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U40345; AAC28899.2; -; Genomic_DNA.
+DR   PIR; PC6006; PC6006.
+DR   PDB; 1EHX; NMR; -; A=195-285.
+DR   PDB; 1G1K; X-ray; 2.00 A; A/B=287-427.
+DR   PDB; 1G43; X-ray; 2.20 A; A=28-187.
+DR   PDB; 2VN5; X-ray; 1.90 A; A/C=277-427.
+DR   PDB; 2VN6; X-ray; 1.49 A; A=277-427.
+DR   PDBsum; 1EHX; -.
+DR   PDBsum; 1G1K; -.
+DR   PDBsum; 1G43; -.
+DR   PDBsum; 2VN5; -.
+DR   PDBsum; 2VN6; -.
+DR   ProteinModelPortal; Q45996; -.
+DR   SMR; Q45996; 28-187, 195-1015, 1023-1163, 1170-1308, 1407-1546.
+DR   STRING; 394503.Ccel_0728; -.
+DR   CAZy; CBM3; Carbohydrate-Binding Module Family 3.
+DR   EvolutionaryTrace; Q45996; -.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000272; P:polysaccharide catabolic process; IEA:InterPro.
+DR   Gene3D; 2.60.40.10; -; 2.
+DR   Gene3D; 2.60.40.680; -; 8.
+DR   Gene3D; 2.60.40.710; -; 1.
+DR   InterPro; IPR008965; Carb-bd_dom.
+DR   InterPro; IPR005102; Carbo-bd_X2.
+DR   InterPro; IPR001956; CBD_3.
+DR   InterPro; IPR002102; Cohesin_dom.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   InterPro; IPR014756; Ig_E-set.
+DR   Pfam; PF00942; CBM_3; 1.
+DR   Pfam; PF03442; CBM_X2; 2.
+DR   Pfam; PF00963; Cohesin; 8.
+DR   SMART; SM01067; CBM_3; 1.
+DR   SUPFAM; SSF49384; SSF49384; 9.
+DR   SUPFAM; SSF81296; SSF81296; 2.
+DR   PROSITE; PS51172; CBM3; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:1EHX, ECO:0000213|PDB:1G1K};
+KW   Calcium {ECO:0000213|PDB:1G43}; Metal-binding {ECO:0000213|PDB:1G43};
+KW   Signal {ECO:0000313|EMBL:AAC28899.2}.
+FT   SIGNAL        1     27       Potential. {ECO:0000313|EMBL:AAC28899.2}.
+FT   CHAIN        28   1546       scaffolding protein.
+FT                                {ECO:0000313|EMBL:AAC28899.2}.
+FT                                /FTId=PRO_5000144790.
+FT   METAL        75     75       Calcium. {ECO:0000213|PDB:1G43}.
+FT   METAL        77     77       Calcium. {ECO:0000213|PDB:1G43}.
+FT   METAL       154    154       Calcium; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:1G43}.
+FT   METAL       157    157       Calcium. {ECO:0000213|PDB:1G43}.
+FT   METAL       158    158       Calcium. {ECO:0000213|PDB:1G43}.
+SQ   SEQUENCE   1546 AA;  158749 MW;  F8651504EC27809F CRC64;
+     MRKKSLAFLL ALTMLVTLLG AQLTAFAAGT GVVSVQFNNG SSPASSNSIY ARFKVTNTSG
+     SPINLADLKL RYYYTQDADK PLTFWCDHAG YMSGSNYIDA TSKVTGSFKA VSPAVTNADH
+     YLEVALNSDA GSLPAGGSIE IQTRFARNDW SNFDQSNDWS YTAAGSYMDW QKISAFVGGT
+     LAYGSTPDGG NPPPQDPTIN PTSISAKAGS FADTKITLTP NGNTFNGISE LQSSQYTKGT
+     NEVTLLASYL NTLPENTTKT LTFDFGVGTK NPKLTITVLP KDIPGDSLKV TVGTANGKPG
+     DTVTVPVTFA DVAKMKNVGT CNFYLGYDAS LLEVVSVDAG PIVKNAAVNF SSSASNGTIS
+     FLFLDNTITD ELITADGVFA NIKFKLKSVT AKTTTPVTFK DGGAFGDGTM SKIASVTKTN
+     GSVTIDPGTQ PTKELKVAVG TANGKPGDTV TVPVTFADVV NVGNVGTCNF YLAYDASLLE
+     VVSVDAGPIV KNAAVNFSSS ASNGTISFLF LDNTITDELI TSDGVFANIK FKLKSVATKT
+     TTPVTFKDGG AFGDGTMAKI ATVTKTNGSV TIDPGTQPTK ELKVAVGTAN GKPGDTVTVP
+     VTFADVASAG NVGTCNFYLA YDASLLEVVS VDAGPIVKNA AVNFSSSASN GSISFLFLDN
+     TITDELITAD GVFANIKFKL KSVAAKTTTP VTFKDGGAFG DGTMTKIATV TKTNGSVTID
+     PGTQPTKELK VAVGTAEGNV GDTVTVPVTF ADVASAGNVG TCNFYLAYDA SLLDVVSVAA
+     GPIVKNAAVN FSSSASNGSI SFLFLDNTIT DELITADGVF ANITFKLKSV TAKTTTPVTF
+     KDGGAFGDGT MAKIATVTKT NGSVTIVPGI QPTKELKVAV GTAEGNVGDT VTVPVTFADV
+     ASAGNVGTCN FYLAYDASLL DVVSVAAGPI VKNAAVNFSS SASNGSISFL FLDNTITDEL
+     ITADGVFANI SFKLKSVTSK TTTPVTFKDG GAFGDGTMAK IATVIKTNGS VTIVPGIQPT
+     KELKVAVGTA EGNVGDTVTV PVTFADVASA GNVGTCNFYL AYDASLLDVV SHAAGPIVKN
+     RAVNFSSSAS NGSISFLFLD NTITDELITA DGVFANITFK LKSVAAKTTT PVTFKDGGAF
+     GDGTMAKIAT VTKTNGSVTI VPGIQPTKEL KVAVGTASGK AGDTVTVPVT FADVATVGNV
+     GTCNFYVTYD TNLLEVASVT PGSIVTNAAV NFSSSTSNGT ISFLFLDNTI TDQLIKTDGT
+     FAEIKFKLKS VTAKTTTPVA FKDGGAFGDG TMAKIATVTK TNGSVTIDVG DVTPVNPTIT
+     PSTASFDKYV PANVNVTLTP NGNTFKGITG LTSGTDFTVS NNVVTISKSY LSTLAVGSKT
+     LTFDFGVTNN PVLTLTITDS TPVVTGLGVK IASVTGKTGD TITVPVTLSN VVKSGNVGTC
+     NFYITYDASM LQAVSATAGD IVLNAPVNFS SSINATTGTI SILFLDNTIG DQLITSDGVV
+     ANLTFKVVGT SSTTTPIAFK AGGAFGNGNM SKISDITFTN GSAKLN
+//

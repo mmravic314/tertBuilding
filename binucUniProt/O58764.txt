@@ -1,0 +1,87 @@
+ID   Y1033_PYRHO             Reviewed;         145 AA.
+AC   O58764;
+DT   10-MAY-2004, integrated into UniProtKB/Swiss-Prot.
+DT   01-AUG-1998, sequence version 1.
+DT   27-MAY-2015, entry version 81.
+DE   RecName: Full=UPF0310 protein PH1033 {ECO:0000255|HAMAP-Rule:MF_00771};
+GN   OrderedLocusNames=PH1033;
+OS   Pyrococcus horikoshii (strain ATCC 700860 / DSM 12428 / JCM 9974 /
+OS   NBRC 100139 / OT-3).
+OC   Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae;
+OC   Pyrococcus.
+OX   NCBI_TaxID=70601;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 700860 / DSM 12428 / JCM 9974 / NBRC 100139 / OT-3;
+RX   PubMed=9679194; DOI=10.1093/dnares/5.2.55;
+RA   Kawarabayasi Y., Sawada M., Horikawa H., Haikawa Y., Hino Y.,
+RA   Yamamoto S., Sekine M., Baba S., Kosugi H., Hosoyama A., Nagai Y.,
+RA   Sakai M., Ogura K., Otsuka R., Nakazawa H., Takamiya M., Ohfuku Y.,
+RA   Funahashi T., Tanaka T., Kudoh Y., Yamazaki J., Kushida N., Oguchi A.,
+RA   Aoki K., Yoshizawa T., Nakamura Y., Robb F.T., Horikoshi K.,
+RA   Masuchi Y., Shizuya H., Kikuchi H.;
+RT   "Complete sequence and gene organization of the genome of a hyper-
+RT   thermophilic archaebacterium, Pyrococcus horikoshii OT3.";
+RL   DNA Res. 5:55-76(1998).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS).
+RG   RIKEN structural genomics initiative (RSGI);
+RT   "Crystal structure of PH1033 from Pyrococcus horikoshii OT3.";
+RL   Submitted (AUG-2005) to the PDB data bank.
+CC   -!- SIMILARITY: Belongs to the UPF0310 family. {ECO:0000255|HAMAP-
+CC       Rule:MF_00771}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; BA000001; BAA30131.1; -; Genomic_DNA.
+DR   PIR; E71096; E71096.
+DR   RefSeq; NP_142944.1; NC_000961.1.
+DR   RefSeq; WP_010885121.1; NC_000961.1.
+DR   PDB; 1WMM; X-ray; 2.20 A; A=1-145.
+DR   PDB; 2HD9; X-ray; 1.35 A; A=1-145.
+DR   PDB; 2ZBN; X-ray; 2.00 A; A=1-145.
+DR   PDBsum; 1WMM; -.
+DR   PDBsum; 2HD9; -.
+DR   PDBsum; 2ZBN; -.
+DR   ProteinModelPortal; O58764; -.
+DR   SMR; O58764; 1-145.
+DR   STRING; 70601.PH1033; -.
+DR   EnsemblBacteria; BAA30131; BAA30131; BAA30131.
+DR   GeneID; 1443356; -.
+DR   KEGG; pho:PH1033; -.
+DR   eggNOG; COG1673; -.
+DR   HOGENOM; HOG000244906; -.
+DR   OMA; EKNVWGV; -.
+DR   BioCyc; PHOR70601:GJWR-1027-MONOMER; -.
+DR   EvolutionaryTrace; O58764; -.
+DR   Proteomes; UP000000752; Chromosome.
+DR   Gene3D; 3.10.590.10; -; 1.
+DR   HAMAP; MF_00771; UPF0310; 1.
+DR   InterPro; IPR002740; EVE_domain.
+DR   InterPro; IPR015947; PUA-like_domain.
+DR   InterPro; IPR022996; UPF0310.
+DR   Pfam; PF01878; EVE; 1.
+DR   SUPFAM; SSF88697; SSF88697; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome.
+FT   CHAIN         1    145       UPF0310 protein PH1033.
+FT                                /FTId=PRO_0000059638.
+FT   STRAND        3      8       {ECO:0000244|PDB:2HD9}.
+FT   HELIX        10     19       {ECO:0000244|PDB:2HD9}.
+FT   STRAND       21     24       {ECO:0000244|PDB:2HD9}.
+FT   HELIX        26     28       {ECO:0000244|PDB:2HD9}.
+FT   HELIX        29     32       {ECO:0000244|PDB:2HD9}.
+FT   STRAND       40     45       {ECO:0000244|PDB:2HD9}.
+FT   STRAND       59     66       {ECO:0000244|PDB:2HD9}.
+FT   STRAND       90    104       {ECO:0000244|PDB:2HD9}.
+FT   HELIX       105    110       {ECO:0000244|PDB:2HD9}.
+FT   HELIX       120    123       {ECO:0000244|PDB:2HD9}.
+FT   TURN        124    126       {ECO:0000244|PDB:2HD9}.
+FT   STRAND      128    132       {ECO:0000244|PDB:2HD9}.
+FT   HELIX       134    143       {ECO:0000244|PDB:2HD9}.
+SQ   SEQUENCE   145 AA;  17430 MW;  5552260A2498A7AB CRC64;
+     MTYWICITNR ENWEVIKRHN VWGVPKKHKN TLSRVKPGDK LVIYVRQEKD KEGNLLEPKI
+     VGIYEVTSEP YVDFSRIFKP HRGGKETYPY RVKIKPIKIG EINFKPLIND LKFIKNKKRW
+     SMHFFGKAMR ELPEEDYKLI EKLLL
+//

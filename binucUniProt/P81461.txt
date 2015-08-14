@@ -1,0 +1,111 @@
+ID   CONA_CANCT              Reviewed;         237 AA.
+AC   P81461;
+DT   15-DEC-1998, integrated into UniProtKB/Swiss-Prot.
+DT   15-DEC-1998, sequence version 1.
+DT   22-JUL-2015, entry version 91.
+DE   RecName: Full=Concanavalin-A;
+DE            Short=Con A;
+OS   Canavalia cathartica (Jackbean) (Canavalia virosa).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+OC   Phaseoleae; Canavalia.
+OX   NCBI_TaxID=28958;
+RN   [1]
+RP   PROTEIN SEQUENCE.
+RX   PubMed=7764031; DOI=10.1016/0031-9422(93)85008-F;
+RA   Fujimura S., Terada S., Jayavardhanan K.K., Panikkar K.R., Kimoto E.;
+RT   "Primary structures of concanavalin A-like lectins from seeds of two
+RT   species of Canavalia.";
+RL   Phytochemistry 33:985-987(1993).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS) IN COMPLEX WITH CALCIUM AND
+RP   MANGANESE IONS.
+RX   PubMed=17327674; DOI=10.1107/S0907444906055624;
+RA   Mueller-Dieckmann C., Panjikar S., Schmidt A., Mueller S., Kuper J.,
+RA   Geerlof A., Wilmanns M., Singh R.K., Tucker P.A., Weiss M.S.;
+RT   "On the routine use of soft X-rays in macromolecular crystallography.
+RT   Part IV. Efficient determination of anomalous substructures in
+RT   biomacromolecules using longer X-ray wavelengths.";
+RL   Acta Crystallogr. D 63:366-380(2007).
+CC   -!- FUNCTION: Glucose/D-mannose specific lectin.
+CC   -!- SUBUNIT: Homotetramer. {ECO:0000269|PubMed:17327674}.
+CC   -!- MISCELLANEOUS: Binds one manganese (or another transition metal)
+CC       ion and one calcium ion. The metal ions are essential for the
+CC       saccharide-binding and cell-agglutinating activities.
+CC   -!- SIMILARITY: Belongs to the leguminous lectin family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   PIR; A59417; A59417.
+DR   PDB; 2A7A; X-ray; 1.75 A; A=1-237.
+DR   PDB; 2G4I; X-ray; 2.40 A; A=1-237.
+DR   PDB; 3QLQ; X-ray; 1.70 A; A/B/C/D=1-237.
+DR   PDB; 4CZS; X-ray; 1.73 A; A/B/C/D=1-237.
+DR   PDBsum; 2A7A; -.
+DR   PDBsum; 2G4I; -.
+DR   PDBsum; 3QLQ; -.
+DR   PDBsum; 4CZS; -.
+DR   ProteinModelPortal; P81461; -.
+DR   SMR; P81461; 1-237.
+DR   EvolutionaryTrace; P81461; -.
+DR   GO; GO:0005537; F:mannose binding; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 2.60.120.200; -; 2.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR000985; Lectin_LegA_CS.
+DR   InterPro; IPR019825; Lectin_legB_Mn/Ca_BS.
+DR   InterPro; IPR001220; Legume_lectin_dom.
+DR   Pfam; PF00139; Lectin_legB; 2.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   PROSITE; PS00308; LECTIN_LEGUME_ALPHA; 1.
+DR   PROSITE; PS00307; LECTIN_LEGUME_BETA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Calcium; Direct protein sequencing; Lectin; Manganese;
+KW   Mannose-binding; Metal-binding.
+FT   CHAIN         1    237       Concanavalin-A.
+FT                                /FTId=PRO_0000105088.
+FT   REGION       99    100       Carbohydrate binding. {ECO:0000250}.
+FT   METAL         8      8       Manganese.
+FT   METAL        10     10       Calcium. {ECO:0000269|PubMed:17327674}.
+FT   METAL        10     10       Manganese.
+FT   METAL        12     12       Calcium; via carbonyl oxygen.
+FT                                {ECO:0000269|PubMed:17327674}.
+FT   METAL        14     14       Calcium. {ECO:0000269|PubMed:17327674}.
+FT   METAL        19     19       Calcium. {ECO:0000269|PubMed:17327674}.
+FT   METAL        19     19       Manganese.
+FT   METAL        24     24       Manganese.
+FT   METAL       208    208       Calcium. {ECO:0000250}.
+FT   BINDING      12     12       Carbohydrate. {ECO:0000250}.
+FT   BINDING     228    228       Carbohydrate; via amide nitrogen.
+FT                                {ECO:0000250}.
+FT   STRAND        4     10       {ECO:0000244|PDB:3QLQ}.
+FT   HELIX        15     17       {ECO:0000244|PDB:3QLQ}.
+FT   STRAND       24     33       {ECO:0000244|PDB:3QLQ}.
+FT   STRAND       35     39       {ECO:0000244|PDB:3QLQ}.
+FT   STRAND       46     55       {ECO:0000244|PDB:3QLQ}.
+FT   TURN         56     59       {ECO:0000244|PDB:3QLQ}.
+FT   STRAND       60     66       {ECO:0000244|PDB:3QLQ}.
+FT   STRAND       73     78       {ECO:0000244|PDB:3QLQ}.
+FT   HELIX        81     83       {ECO:0000244|PDB:3QLQ}.
+FT   STRAND       87     96       {ECO:0000244|PDB:3QLQ}.
+FT   STRAND       98    100       {ECO:0000244|PDB:4CZS}.
+FT   STRAND      105    118       {ECO:0000244|PDB:3QLQ}.
+FT   STRAND      123    132       {ECO:0000244|PDB:3QLQ}.
+FT   STRAND      140    144       {ECO:0000244|PDB:3QLQ}.
+FT   HELIX       150    152       {ECO:0000244|PDB:3QLQ}.
+FT   STRAND      154    157       {ECO:0000244|PDB:4CZS}.
+FT   STRAND      170    177       {ECO:0000244|PDB:3QLQ}.
+FT   STRAND      186    198       {ECO:0000244|PDB:3QLQ}.
+FT   STRAND      202    205       {ECO:0000244|PDB:3QLQ}.
+FT   STRAND      209    215       {ECO:0000244|PDB:3QLQ}.
+FT   HELIX       227    229       {ECO:0000244|PDB:3QLQ}.
+FT   TURN        230    232       {ECO:0000244|PDB:3QLQ}.
+SQ   SEQUENCE   237 AA;  25539 MW;  DD31D2BFCC6EDD07 CRC64;
+     ADTIVAVELD TYPNTDIGDP SYPHIGIDIK SVRSKKTAKW NMQNGKVGTA HIIYNSVGKR
+     LSAVVSYPNG DSATVSYDVD LDNVLPEWVR VGLSASTGLY KETNTILSWS FTSKLKSNST
+     HETNALHFMF NQFSKDQKDL ILQGDATTGT DGNLELTRVS SNGSPQGNSV GRALFYAPVH
+     IWESSAVVAS FDATFTFLIK SPDSHPADGI AFFISNIDSS IPSGSTGRLL GLFPDAN
+//

@@ -1,0 +1,234 @@
+ID   GLNA_BACSU              Reviewed;         444 AA.
+AC   P12425;
+DT   01-OCT-1989, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   22-JUL-2015, entry version 133.
+DE   RecName: Full=Glutamine synthetase;
+DE            EC=6.3.1.2;
+DE   AltName: Full=Glutamate--ammonia ligase;
+GN   Name=glnA; OrderedLocusNames=BSU17460;
+OS   Bacillus subtilis (strain 168).
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus.
+OX   NCBI_TaxID=224308;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=2906311; DOI=10.1016/0378-1119(88)90042-X;
+RA   Strauch M.A., Aronson A.I., Brown S.W., Schreier H.J.,
+RA   Sonenshein A.L.;
+RT   "Sequence of the Bacillus subtilis glutamine synthetase gene region.";
+RL   Gene 71:257-265(1988).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND PROTEIN SEQUENCE OF 2-21.
+RC   STRAIN=ATCC 6633 / PCI 219 / NRS 231;
+RX   PubMed=2565853; DOI=10.1016/0378-1097(89)90151-1;
+RA   Nakano Y., Tanaka E., Kato C., Kimura K., Horikoshi K.;
+RT   "The complete nucleotide sequence of the glutamine synthetase gene
+RT   (glnA) of Bacillus subtilis.";
+RL   FEMS Microbiol. Lett. 48:81-86(1989).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RA   Borchert S., Klein C., Piksa B., Hammelmann M., Entian K.-D.;
+RT   "Sequencing of a 26 kb region of the Bacillus subtilis genome
+RT   downstream of spoVJ.";
+RL   Submitted (FEB-1997) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=168;
+RX   PubMed=9384377; DOI=10.1038/36786;
+RA   Kunst F., Ogasawara N., Moszer I., Albertini A.M., Alloni G.,
+RA   Azevedo V., Bertero M.G., Bessieres P., Bolotin A., Borchert S.,
+RA   Borriss R., Boursier L., Brans A., Braun M., Brignell S.C., Bron S.,
+RA   Brouillet S., Bruschi C.V., Caldwell B., Capuano V., Carter N.M.,
+RA   Choi S.-K., Codani J.-J., Connerton I.F., Cummings N.J., Daniel R.A.,
+RA   Denizot F., Devine K.M., Duesterhoeft A., Ehrlich S.D., Emmerson P.T.,
+RA   Entian K.-D., Errington J., Fabret C., Ferrari E., Foulger D.,
+RA   Fritz C., Fujita M., Fujita Y., Fuma S., Galizzi A., Galleron N.,
+RA   Ghim S.-Y., Glaser P., Goffeau A., Golightly E.J., Grandi G.,
+RA   Guiseppi G., Guy B.J., Haga K., Haiech J., Harwood C.R., Henaut A.,
+RA   Hilbert H., Holsappel S., Hosono S., Hullo M.-F., Itaya M.,
+RA   Jones L.-M., Joris B., Karamata D., Kasahara Y., Klaerr-Blanchard M.,
+RA   Klein C., Kobayashi Y., Koetter P., Koningstein G., Krogh S.,
+RA   Kumano M., Kurita K., Lapidus A., Lardinois S., Lauber J.,
+RA   Lazarevic V., Lee S.-M., Levine A., Liu H., Masuda S., Mauel C.,
+RA   Medigue C., Medina N., Mellado R.P., Mizuno M., Moestl D., Nakai S.,
+RA   Noback M., Noone D., O'Reilly M., Ogawa K., Ogiwara A., Oudega B.,
+RA   Park S.-H., Parro V., Pohl T.M., Portetelle D., Porwollik S.,
+RA   Prescott A.M., Presecan E., Pujic P., Purnelle B., Rapoport G.,
+RA   Rey M., Reynolds S., Rieger M., Rivolta C., Rocha E., Roche B.,
+RA   Rose M., Sadaie Y., Sato T., Scanlan E., Schleich S., Schroeter R.,
+RA   Scoffone F., Sekiguchi J., Sekowska A., Seror S.J., Serror P.,
+RA   Shin B.-S., Soldo B., Sorokin A., Tacconi E., Takagi T., Takahashi H.,
+RA   Takemaru K., Takeuchi M., Tamakoshi A., Tanaka T., Terpstra P.,
+RA   Tognoni A., Tosato V., Uchiyama S., Vandenbol M., Vannier F.,
+RA   Vassarotti A., Viari A., Wambutt R., Wedler E., Wedler H.,
+RA   Weitzenegger T., Winters P., Wipat A., Yamamoto H., Yamane K.,
+RA   Yasumoto K., Yata K., Yoshida K., Yoshikawa H.-F., Zumstein E.,
+RA   Yoshikawa H., Danchin A.;
+RT   "The complete genome sequence of the Gram-positive bacterium Bacillus
+RT   subtilis.";
+RL   Nature 390:249-256(1997).
+RN   [5]
+RP   INTERACTION WITH TNRA.
+RX   PubMed=11719184; DOI=10.1016/S0092-8674(01)00572-4;
+RA   Wray L.V. Jr., Zalieckas J.M., Fisher S.H.;
+RT   "Bacillus subtilis glutamine synthetase controls gene expression
+RT   through a protein-protein interaction with transcription factor
+RT   TnrA.";
+RL   Cell 107:427-435(2001).
+CC   -!- CATALYTIC ACTIVITY: ATP + L-glutamate + NH(3) = ADP + phosphate +
+CC       L-glutamine.
+CC   -!- ENZYME REGULATION: The activity of this enzyme is controlled by
+CC       adenylation under conditions of abundant glutamine. The fully
+CC       adenylated enzyme complex is inactive (By similarity).
+CC       {ECO:0000250}.
+CC   -!- SUBUNIT: Oligomer of 12 subunits arranged in the form of two
+CC       hexagons. In its feedback-inhibited form, interacts with TnrA in
+CC       order to block its DNA-binding activity. This inhibitory effect is
+CC       the highest when both glutamine and AMP are present.
+CC       {ECO:0000269|PubMed:11719184}.
+CC   -!- INTERACTION:
+CC       Q45666:tnrA; NbExp=8; IntAct=EBI-6402863, EBI-8507041;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm.
+CC   -!- INDUCTION: Repressed by GlnR under conditions of nitrogen excess.
+CC       Repressed by TnrA under conditions of nitrogen limitation.
+CC   -!- MISCELLANEOUS: Elevated Mn(2+) concentration reduces sensitivity
+CC       of GlnA to feedback inhibitors Gln and AMP.
+CC   -!- SIMILARITY: Belongs to the glutamine synthetase family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M22811; AAA83376.1; -; Genomic_DNA.
+DR   EMBL; D00854; BAA00730.1; -; Genomic_DNA.
+DR   EMBL; U66480; AAB41080.1; -; Genomic_DNA.
+DR   EMBL; AL009126; CAB13630.1; -; Genomic_DNA.
+DR   PIR; JT0392; AJBSQS.
+DR   RefSeq; NP_389628.1; NC_000964.3.
+DR   RefSeq; WP_003231737.1; NZ_JNCM01000035.1.
+DR   PDB; 2FWX; Model; -; A/B/C/D=1-444.
+DR   PDB; 3QAJ; X-ray; 3.05 A; A/B/C/D/E/F/G/H/I/J/K/L=1-444.
+DR   PDB; 4LNF; X-ray; 2.95 A; A/B/C/D/E/F/G/H/I/J/K/L=2-444.
+DR   PDB; 4LNI; X-ray; 2.58 A; A/B/C/D/E/F/G/H/I/J/K/L=2-444.
+DR   PDB; 4LNK; X-ray; 2.87 A; A/B/C/D/E/F=2-444.
+DR   PDB; 4LNN; X-ray; 3.10 A; A/B/C/D/E/F/G/H/I/J/K/L=2-444.
+DR   PDB; 4LNO; X-ray; 2.90 A; A/B/C/D/E/F=2-444.
+DR   PDB; 4S0R; X-ray; 3.50 A; A/B/C/D/E/F/G/H/I/J/K/L/M/N=1-444.
+DR   PDBsum; 2FWX; -.
+DR   PDBsum; 3QAJ; -.
+DR   PDBsum; 4LNF; -.
+DR   PDBsum; 4LNI; -.
+DR   PDBsum; 4LNK; -.
+DR   PDBsum; 4LNN; -.
+DR   PDBsum; 4LNO; -.
+DR   PDBsum; 4S0R; -.
+DR   ProteinModelPortal; P12425; -.
+DR   SMR; P12425; 5-443.
+DR   DIP; DIP-29670N; -.
+DR   IntAct; P12425; 4.
+DR   MINT; MINT-224371; -.
+DR   STRING; 224308.Bsubs1_010100009606; -.
+DR   PaxDb; P12425; -.
+DR   EnsemblBacteria; CAB13630; CAB13630; BSU17460.
+DR   GeneID; 940020; -.
+DR   KEGG; bsu:BSU17460; -.
+DR   PATRIC; 18975307; VBIBacSub10457_1845.
+DR   GenoList; BSU17460; -.
+DR   eggNOG; COG0174; -.
+DR   HOGENOM; HOG000005156; -.
+DR   InParanoid; P12425; -.
+DR   KO; K01915; -.
+DR   OMA; LQFVDIF; -.
+DR   OrthoDB; EOG6B360N; -.
+DR   PhylomeDB; P12425; -.
+DR   BioCyc; BSUB:BSU17460-MONOMER; -.
+DR   BRENDA; 6.3.1.2; 658.
+DR   SABIO-RK; P12425; -.
+DR   Proteomes; UP000001570; Chromosome.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004356; F:glutamate-ammonia ligase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0006542; P:glutamine biosynthetic process; IMP:CACAO.
+DR   GO; GO:0009399; P:nitrogen fixation; IEA:InterPro.
+DR   Gene3D; 3.10.20.70; -; 1.
+DR   Gene3D; 3.30.590.10; -; 1.
+DR   InterPro; IPR008147; Gln_synt_beta.
+DR   InterPro; IPR014746; Gln_synth/guanido_kin_cat_dom.
+DR   InterPro; IPR008146; Gln_synth_cat_dom.
+DR   InterPro; IPR027303; Gln_synth_gly_rich_site.
+DR   InterPro; IPR004809; Gln_synth_I.
+DR   InterPro; IPR001637; Gln_synth_I_adenylation_site.
+DR   InterPro; IPR027302; Gln_synth_N_conserv_site.
+DR   Pfam; PF00120; Gln-synt_C; 1.
+DR   Pfam; PF03951; Gln-synt_N; 1.
+DR   SUPFAM; SSF54368; SSF54368; 1.
+DR   TIGRFAMs; TIGR00653; GlnA; 1.
+DR   PROSITE; PS00180; GLNA_1; 1.
+DR   PROSITE; PS00182; GLNA_ADENYLATION; 1.
+DR   PROSITE; PS00181; GLNA_ATP; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; ATP-binding; Complete proteome; Cytoplasm;
+KW   Direct protein sequencing; Ligase; Nucleotide-binding; Phosphoprotein;
+KW   Reference proteome.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:2565853}.
+FT   CHAIN         2    444       Glutamine synthetase.
+FT                                /FTId=PRO_0000153233.
+FT   MOD_RES     373    373       O-AMP-tyrosine. {ECO:0000250}.
+FT   VARIANT      10     10       E -> V (in strain: PCI 219).
+FT   VARIANT      43     43       G -> E (in strain: PCI 219).
+FT   VARIANT     253    253       N -> D (in strain: PCI 219).
+FT   VARIANT     259    259       F -> Y (in strain: PCI 219).
+FT   HELIX         6     16       {ECO:0000244|PDB:4LNI}.
+FT   STRAND       20     26       {ECO:0000244|PDB:4LNI}.
+FT   STRAND       28     30       {ECO:0000244|PDB:4S0R}.
+FT   STRAND       32     38       {ECO:0000244|PDB:4LNI}.
+FT   HELIX        39     41       {ECO:0000244|PDB:4LNI}.
+FT   HELIX        42     46       {ECO:0000244|PDB:4LNI}.
+FT   STRAND       51     53       {ECO:0000244|PDB:4LNI}.
+FT   HELIX        54     56       {ECO:0000244|PDB:4LNI}.
+FT   HELIX        59     61       {ECO:0000244|PDB:4S0R}.
+FT   HELIX        63     65       {ECO:0000244|PDB:4LNI}.
+FT   STRAND       67     80       {ECO:0000244|PDB:4LNI}.
+FT   HELIX        81     83       {ECO:0000244|PDB:4LNI}.
+FT   HELIX        84     87       {ECO:0000244|PDB:4LNI}.
+FT   STRAND       89     97       {ECO:0000244|PDB:4LNI}.
+FT   STRAND       99    103       {ECO:0000244|PDB:4LNK}.
+FT   HELIX       108    121       {ECO:0000244|PDB:4LNI}.
+FT   STRAND      125    133       {ECO:0000244|PDB:4LNI}.
+FT   STRAND      135    140       {ECO:0000244|PDB:4LNI}.
+FT   STRAND      142    144       {ECO:0000244|PDB:4LNN}.
+FT   STRAND      146    151       {ECO:0000244|PDB:4LNI}.
+FT   TURN        160    162       {ECO:0000244|PDB:4LNI}.
+FT   STRAND      163    165       {ECO:0000244|PDB:4LNK}.
+FT   HELIX       166    178       {ECO:0000244|PDB:4LNI}.
+FT   STRAND      183    188       {ECO:0000244|PDB:4LNI}.
+FT   STRAND      194    199       {ECO:0000244|PDB:4LNI}.
+FT   HELIX       204    224       {ECO:0000244|PDB:4LNI}.
+FT   STRAND      227    230       {ECO:0000244|PDB:4LNI}.
+FT   STRAND      244    252       {ECO:0000244|PDB:4LNI}.
+FT   STRAND      261    263       {ECO:0000244|PDB:4LNK}.
+FT   HELIX       264    266       {ECO:0000244|PDB:4LNI}.
+FT   HELIX       269    289       {ECO:0000244|PDB:4LNI}.
+FT   HELIX       295    298       {ECO:0000244|PDB:4LNI}.
+FT   STRAND      311    313       {ECO:0000244|PDB:4LNI}.
+FT   STRAND      316    322       {ECO:0000244|PDB:4LNI}.
+FT   HELIX       327    329       {ECO:0000244|PDB:4LNI}.
+FT   STRAND      332    334       {ECO:0000244|PDB:4LNI}.
+FT   HELIX       343    359       {ECO:0000244|PDB:4LNI}.
+FT   HELIX       372    374       {ECO:0000244|PDB:4LNI}.
+FT   HELIX       377    383       {ECO:0000244|PDB:4LNI}.
+FT   HELIX       392    400       {ECO:0000244|PDB:4LNI}.
+FT   HELIX       403    409       {ECO:0000244|PDB:4LNI}.
+FT   HELIX       411    430       {ECO:0000244|PDB:4LNI}.
+FT   HELIX       434    440       {ECO:0000244|PDB:4LNI}.
+FT   TURN        441    443       {ECO:0000244|PDB:4LNI}.
+SQ   SEQUENCE   444 AA;  50278 MW;  83A5657CE1388AB0 CRC64;
+     MAKYTREDIE KLVKEENVKY IRLQFTDILG TIKNVEIPVS QLGKALDNKV MFDGSSIEGF
+     VRIEESDMYL YPDLNTFVIF PWTAEKGKVA RFICDIYNPD GTPFEGDPRN NLKRILKEME
+     DLGFSDFNLG PEPEFFLFKL DEKGEPTLEL NDKGGYFDLA PTDLGENCRR DIVLELEEMG
+     FEIEASHHEV APGQHEIDFK YAGAVRSCDD IQTFKLVVKT IARKHGLHAT FMPKPLFGVN
+     GSGMHCNLSL FKNGVNAFFD ENADLQLSET AKHFIAGIVK HATSFTAVTN PTVNSYKRLV
+     PGYEAPCYVA WSAQNRSPLI RIPASRGIST RVEVRSVDPA ANPYLALSVL LAAGLDGIKN
+     KLEAPAPIDR NIYVMSKEER MENGIVDLPA TLAEALEEFK SNEVMVKALG EHLFEHFIEA
+     KEIEWDMFRT QVHPWEREQY MSQY
+//

@@ -1,0 +1,95 @@
+ID   A2R2V4_ASPNC            Unreviewed;       480 AA.
+AC   A2R2V4;
+DT   06-MAR-2007, integrated into UniProtKB/TrEMBL.
+DT   06-MAR-2007, sequence version 1.
+DT   22-JUL-2015, entry version 42.
+DE   SubName: Full=Aspergillus niger contig An14c0100, genomic contig {ECO:0000313|EMBL:CAK41945.1};
+DE            EC=3.4.13.9 {ECO:0000313|EMBL:CAK41945.1};
+GN   ORFNames=An14g02080 {ECO:0000313|EMBL:CAK41945.1};
+OS   Aspergillus niger (strain CBS 513.88 / FGSC A1513).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=425011 {ECO:0000313|Proteomes:UP000006706};
+RN   [1] {ECO:0000313|EMBL:CAK41945.1, ECO:0000313|Proteomes:UP000006706}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=CBS 513.88 / FGSC A1513 {ECO:0000313|Proteomes:UP000006706};
+RX   PubMed=17259976; DOI=10.1038/nbt1282;
+RA   Pel H.J., de Winde J.H., Archer D.B., Dyer P.S., Hofmann G.,
+RA   Schaap P.J., Turner G., de Vries R.P., Albang R., Albermann K.,
+RA   Andersen M.R., Bendtsen J.D., Benen J.A., van den Berg M.,
+RA   Breestraat S., Caddick M.X., Contreras R., Cornell M., Coutinho P.M.,
+RA   Danchin E.G., Debets A.J., Dekker P., van Dijck P.W., van Dijk A.,
+RA   Dijkhuizen L., Driessen A.J., d'Enfert C., Geysens S., Goosen C.,
+RA   Groot G.S., de Groot P.W., Guillemette T., Henrissat B., Herweijer M.,
+RA   van den Hombergh J.P., van den Hondel C.A., van der Heijden R.T.,
+RA   van der Kaaij R.M., Klis F.M., Kools H.J., Kubicek C.P.,
+RA   van Kuyk P.A., Lauber J., Lu X., van der Maarel M.J., Meulenberg R.,
+RA   Menke H., Mortimer M.A., Nielsen J., Oliver S.G., Olsthoorn M.,
+RA   Pal K., van Peij N.N., Ram A.F., Rinas U., Roubos J.A., Sagt C.M.,
+RA   Schmoll M., Sun J., Ussery D., Varga J., Vervecken W.,
+RA   van de Vondervoort P.J., Wedler H., Wosten H.A., Zeng A.P.,
+RA   van Ooyen A.J., Visser J., Stam H.;
+RT   "Genome sequencing and analysis of the versatile cell factory
+RT   Aspergillus niger CBS 513.88.";
+RL   Nat. Biotechnol. 25:221-231(2007).
+RN   [2] {ECO:0000213|PDB:4C5Y, ECO:0000213|PDB:4C5Z, ECO:0000213|PDB:4C60}
+RP   X-RAY CRYSTALLOGRAPHY (2.20 ANGSTROMS) OF 43-480.
+RX   PubMed=24947135;
+RA   Dobritzsch D., Wang H., Schneider G., Yu S.;
+RT   "Structural and functional characterization of ochratoxinase, a novel
+RT   mycotoxin-degrading enzyme.";
+RL   Biochem. J. 462:441-452(2014).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AM270317; CAK41945.1; -; Genomic_DNA.
+DR   PDB; 4C5Y; X-ray; 3.00 A; A/B=43-480.
+DR   PDB; 4C60; X-ray; 2.50 A; A/B/C/D/E/F/G/H=43-480.
+DR   PDB; 4C65; X-ray; 2.20 A; A/B/C/D/E/F/G/H=43-480.
+DR   PDBsum; 4C5Y; -.
+DR   PDBsum; 4C60; -.
+DR   PDBsum; 4C65; -.
+DR   ProteinModelPortal; A2R2V4; -.
+DR   EnsemblFungi; CADANGAT00011144; CADANGAP00010926; CADANGAG00011144.
+DR   HOGENOM; HOG000148525; -.
+DR   OrthoDB; EOG72G1J9; -.
+DR   Proteomes; UP000006706; Chromosome 1R.
+DR   GO; GO:0016805; F:dipeptidase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0016810; F:hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:1900817; P:ochratoxin A catabolic process; IDA:CACAO.
+DR   Gene3D; 2.30.40.10; -; 2.
+DR   InterPro; IPR006680; Amidohydro_1.
+DR   InterPro; IPR011059; Metal-dep_hydrolase_composite.
+DR   Pfam; PF01979; Amidohydro_1; 1.
+DR   SUPFAM; SSF51338; SSF51338; 2.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4C5Y, ECO:0000213|PDB:4C5Z};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000006706};
+KW   Dipeptidase {ECO:0000313|EMBL:CAK41945.1};
+KW   Hydrolase {ECO:0000313|EMBL:CAK41945.1};
+KW   Metal-binding {ECO:0000213|PDB:4C5Y};
+KW   Protease {ECO:0000313|EMBL:CAK41945.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000006706};
+KW   Zinc {ECO:0000213|PDB:4C5Y}.
+FT   METAL       111    111       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4C5Y}.
+FT   METAL       113    113       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4C5Y}.
+FT   METAL       246    246       Zinc 1. {ECO:0000213|PDB:4C5Y}.
+FT   METAL       246    246       Zinc 2. {ECO:0000213|PDB:4C5Y}.
+FT   METAL       287    287       Zinc 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:4C5Y}.
+FT   METAL       307    307       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4C5Y}.
+SQ   SEQUENCE   480 AA;  51200 MW;  38F48AD24CCA5030 CRC64;
+     MVRRIASATP MVQSPMSPLG TTYCVRPNPV SLNLQRRPLV IASTDEAKVT IIYAGLLIPG
+     DGEPLRNAAL VISDKIIAFV GSEADIPKKY LRSTQSTHRV PVLMPGLWDC HMHFGGDDDY
+     YNDYTSGLAT HPASSGARLA RGCWEALQNG YTSYRDLAGY GCEVAKAIND GTIVGPNVYS
+     SGAALSQTAG HGDIFALPAG EVLGSYGVMN PRPGYWGAGP LCIADGVEEV RRAVRLQIRR
+     GAKVIKVMAS GGVMSRDDNP NFAQFSPEEL KVIVEEAARQ NRIVSAHVHG KAGIMAAIKA
+     GCKSLEHVSY ADEEVWELMK EKGILYVATR SVIEIFLASN GEGLVKESWA KLQALADSHL
+     KAYQGAIKAG VTIALGTDTA PGGPTALELQ FAVERGGMTP LEAIKAATAN APLSVGPQAP
+     LTGQLREGYE ADVIALEENP LEDIKVFQEP KAVTHVWKGG KLFKGPGIGP WGEDARNPFL
+//

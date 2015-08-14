@@ -1,0 +1,67 @@
+ID   P94255_BORBO            Unreviewed;       618 AA.
+AC   P94255;
+DT   01-MAY-1997, integrated into UniProtKB/TrEMBL.
+DT   01-MAY-1997, sequence version 1.
+DT   22-JUL-2015, entry version 87.
+DE   SubName: Full=AlcC {ECO:0000313|EMBL:AAB40620.1};
+GN   Name=alcC {ECO:0000313|EMBL:AAB40620.1};
+OS   Bordetella bronchiseptica (Alcaligenes bronchisepticus).
+OC   Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+OC   Alcaligenaceae; Bordetella.
+OX   NCBI_TaxID=518 {ECO:0000313|EMBL:AAB40620.1};
+RN   [1] {ECO:0000313|EMBL:AAB40620.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=MBORD846 {ECO:0000313|EMBL:AAB40620.1};
+RA   Giardina P.C., Foster L.-A., Toth S.I., Roe B.A., Dyer D.W.;
+RT   "Analysis of the alcABC operon encoding alcaligin biosynthesis enzymes
+RT   in Bordetella bronchiseptica.";
+RL   Submitted (JUN-1996) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:2X0O}
+RP   X-RAY CRYSTALLOGRAPHY (2.40 ANGSTROMS).
+RX   PubMed=20419351; DOI=10.1007/s10969-010-9090-y;
+RA   Oke M., Carter L.G., Johnson K.A., Liu H., McMahon S.A., Yan X.,
+RA   Kerou M., Weikart N.D., Kadi N., Sheikh M.A., Schmelz S., Dorward M.,
+RA   Zawadzki M., Cozens C., Falconer H., Powers H., Overton I.M.,
+RA   van Niekerk C.A., Peng X., Patel P., Garrett R.A., Prangishvili D.,
+RA   Botting C.H., Coote P.J., Dryden D.T., Barton G.J., Schwarz-Linek U.,
+RA   Challis G.L., Taylor G.L., White M.F., Naismith J.H.;
+RT   "The Scottish Structural Proteomics Facility: targets, methods and
+RT   outputs.";
+RL   J. Struct. Funct. Genomics 11:167-180(2010).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U61153; AAB40620.1; -; Genomic_DNA.
+DR   PIR; T44595; T44595.
+DR   RefSeq; WP_010926978.1; NZ_CM002881.1.
+DR   PDB; 2X0O; X-ray; 2.40 A; A=1-618.
+DR   STRING; 257310.BB3895; -.
+DR   EnsemblBacteria; KFJ54178; KFJ54178; DK45_1494.
+DR   KEGG; bbx:BBS798_3676; -.
+DR   PATRIC; 21141189; VBIBorBro124907_3952.
+DR   HOGENOM; HOG000237215; -.
+DR   BioCyc; BBRO257310:BB3895-MONOMER; -.
+DR   BioCyc; MetaCyc:MONOMER-15216; -.
+DR   GO; GO:0005623; C:cell; IEA:GOC.
+DR   GO; GO:0015343; F:siderophore transmembrane transporter activity; IEA:InterPro.
+DR   GO; GO:0019290; P:siderophore biosynthetic process; IEA:InterPro.
+DR   InterPro; IPR007310; Aerobactin_biosyn_IucA/IucC_N.
+DR   InterPro; IPR022770; FhuF_domain.
+DR   Pfam; PF06276; FhuF; 1.
+DR   Pfam; PF04183; IucA_IucC; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2X0O}.
+SQ   SEQUENCE   618 AA;  69973 MW;  783F3B08804B402D CRC64;
+     MSRTTPPHPA EIVAHLQPEI WNKVNRLLVR KAISEYAHEW LLEPQRLGPG ETPGFERFRL
+     TLADGAQYDF DAQVMAMRHW RIPPESIVKT VAGVPAPLDA LQFVIEIRDK LGLPVDRLPI
+     YMDEITSTLH GSAYKHGRTT LGAAALARAD YQTIETSMIE GHPSFVANNG RLGFDAEDYH
+     GYAPEAATPV RLMWLAVHKD NAHFSCLSDM DYDSLMSEEL GESAVTDFAA RLREQGLHPA
+     DYYFMPAHPW QWFNKLSLAF APYVAQRKIV CLGYGEEQYL AQQSIRTFFN ISRPGKRYVK
+     TSLSILNMGF MRGLSPYYMA GTPAINEYIH DLISADPWLR ANGFRILREV ASMGFRNYYY
+     EAAIDTDTPY KKMFSALWRE NPLTLIAPGQ NLMTMAALLH VDPQGRALLP ELIQASGLDA
+     GTWLERYVDA YLTPLIHCFY AHDLVFMPHG ENVILVIQDG VPVRAFMKDI AEESSILNPQ
+     VRLPQAAQRL AADVPEAYKL LTIFVDVFEG YFRHLTQILV ETELMPEHDF WRLVAGRIAA
+     YQQAHPQRLD KYRRYDLFAP DMIHSCLNRL QLANNLQMVN LADPIGSFQM APNLPNPIAC
+     FRPSWLGSGE ALQTLTAA
+//

@@ -1,0 +1,251 @@
+ID   NIR_ALCFA               Reviewed;         376 AA.
+AC   P38501;
+DT   01-OCT-1994, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-1994, sequence version 1.
+DT   01-APR-2015, entry version 103.
+DE   RecName: Full=Copper-containing nitrite reductase;
+DE            EC=1.7.2.1;
+DE   AltName: Full=Cu-NIR;
+DE   Flags: Precursor;
+GN   Name=nirK; Synonyms=nir;
+OS   Alcaligenes faecalis.
+OC   Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+OC   Alcaligenaceae; Alcaligenes.
+OX   NCBI_TaxID=511;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND PROTEIN SEQUENCE OF 34-48 AND
+RP   192-240.
+RC   STRAIN=S-6;
+RX   PubMed=8515232;
+RA   Nishiyama M., Suzuki J., Kukimoto M., Ohnuki T., Horinouchi S.,
+RA   Beppu T.;
+RT   "Cloning and characterization of a nitrite reductase gene from
+RT   Alcaligenes faecalis and its expression in Escherichia coli.";
+RL   J. Gen. Microbiol. 139:725-733(1993).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (2.6 ANGSTROMS), AND MUTAGENESIS.
+RC   STRAIN=S-6;
+RX   PubMed=8172899; DOI=10.1021/bi00183a030;
+RA   Kukimoto M., Nishiyama M., Murphy M.E.P., Turley S., Adman E.T.,
+RA   Horinouchi S., Beppu T.;
+RT   "X-ray structure and site-directed mutagenesis of a nitrite reductase
+RT   from Alcaligenes faecalis S-6: roles of two copper atoms in nitrite
+RT   reduction.";
+RL   Biochemistry 33:5246-5252(1994).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS).
+RX   PubMed=7547950; DOI=10.1021/bi00038a003;
+RA   Murphy M.E., Turley S., Kukimoto M., Nishiyama M., Horinouchi S.,
+RA   Sasaki H., Tanokura M., Adman E.T.;
+RT   "Structure of Alcaligenes faecalis nitrite reductase and a copper site
+RT   mutant, M150E, that contains zinc.";
+RL   Biochemistry 34:12107-12117(1995).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS).
+RX   PubMed=9353305; DOI=10.1074/jbc.272.45.28455;
+RA   Murphy M.E., Turley S., Adman E.T.;
+RT   "Structure of nitrite bound to copper-containing nitrite reductase
+RT   from Alcaligenes faecalis. Mechanistic implications.";
+RL   J. Biol. Chem. 272:28455-28460(1997).
+CC   -!- CATALYTIC ACTIVITY: Nitric oxide + H(2)O + ferricytochrome c =
+CC       nitrite + ferrocytochrome c + 2 H(+).
+CC   -!- COFACTOR:
+CC       Name=Cu(2+); Xref=ChEBI:CHEBI:29036; Evidence={ECO:0000250};
+CC       Note=Binds 1 Cu(2+) ion. The Cu(2+) ion is held by residues from
+CC       each of 2 monomers of the trimer. Nitrite is bound to the Cu(2+)
+CC       ion site. Pseudoazurin is the physiological electron donor for the
+CC       Cu-NIR in vitro. {ECO:0000250};
+CC   -!- COFACTOR:
+CC       Name=Cu(+); Xref=ChEBI:CHEBI:49552; Evidence={ECO:0000250};
+CC       Note=Binds 1 Cu(+) ion. The Cu(+) ion is bound within a single
+CC       monomer. {ECO:0000250};
+CC   -!- COFACTOR:
+CC       Name=FAD; Xref=ChEBI:CHEBI:57692; Evidence={ECO:0000250};
+CC   -!- PATHWAY: Nitrogen metabolism; nitrate reduction (denitrification);
+CC       dinitrogen from nitrate: step 2/4.
+CC   -!- SUBUNIT: Homotrimer.
+CC   -!- SUBCELLULAR LOCATION: Periplasm.
+CC   -!- INDUCTION: Under anaerobic growth conditions and by nitrite.
+CC   -!- DOMAIN: The type I copper site in NIR plays a crucial role for
+CC       electron transfer from pseudoazurin to the type II copper site of
+CC       NIR, which comprises the catalytic center of NIR for the reduction
+CC       of nitrite.
+CC   -!- PTM: Predicted to be exported by the Tat system. The position of
+CC       the signal peptide cleavage has been experimentally proven.
+CC   -!- SIMILARITY: Belongs to the multicopper oxidase family.
+CC       {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 2 plastocyanin-like domains. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; D13155; BAA02440.1; -; Genomic_DNA.
+DR   PIR; I39582; I39582.
+DR   PDB; 1AQ8; X-ray; 2.00 A; A/B/C=34-376.
+DR   PDB; 1AS6; X-ray; 1.80 A; A/B/C=34-376.
+DR   PDB; 1AS7; X-ray; 2.00 A; A/B/C=34-376.
+DR   PDB; 1AS8; X-ray; 1.85 A; A/B/C=34-376.
+DR   PDB; 1ET5; X-ray; 1.90 A; A=40-376.
+DR   PDB; 1ET7; X-ray; 1.70 A; A=40-376.
+DR   PDB; 1ET8; X-ray; 1.80 A; A=40-376.
+DR   PDB; 1J9Q; X-ray; 1.65 A; A/B/C=40-376.
+DR   PDB; 1J9R; X-ray; 2.00 A; A/B/C=40-376.
+DR   PDB; 1J9S; X-ray; 1.90 A; A/B/C=40-376.
+DR   PDB; 1J9T; X-ray; 1.95 A; A/B/C=40-376.
+DR   PDB; 1L9O; X-ray; 1.70 A; A/B/C=40-376.
+DR   PDB; 1L9P; X-ray; 1.75 A; A/B/C=40-376.
+DR   PDB; 1L9Q; X-ray; 1.70 A; A/B/C=40-376.
+DR   PDB; 1L9R; X-ray; 1.78 A; A/B/C=40-376.
+DR   PDB; 1L9S; X-ray; 1.78 A; A/B/C=40-376.
+DR   PDB; 1L9T; X-ray; 1.75 A; A/B/C=40-376.
+DR   PDB; 1NPJ; X-ray; 1.90 A; A/B/C=34-376.
+DR   PDB; 1NPN; X-ray; 1.80 A; A/B/C=34-376.
+DR   PDB; 1NTD; X-ray; 2.30 A; A=34-376.
+DR   PDB; 1SJM; X-ray; 1.40 A; A/B/C=40-376.
+DR   PDB; 1SNR; X-ray; 1.31 A; A/B/C=40-376.
+DR   PDB; 1ZDQ; X-ray; 1.80 A; A/B/C=40-375.
+DR   PDB; 1ZDS; X-ray; 1.55 A; A/B/C=40-375.
+DR   PDB; 2AFN; X-ray; 2.00 A; A/B/C=34-376.
+DR   PDB; 2B08; X-ray; 1.90 A; A/B/C=37-376.
+DR   PDB; 2E86; X-ray; 1.50 A; A/B/C=40-376.
+DR   PDB; 2FJS; X-ray; 1.85 A; A/B/C=40-376.
+DR   PDB; 2P80; NMR; -; A/B/C=40-376.
+DR   PDB; 2PP7; X-ray; 1.65 A; A/B/C=40-376.
+DR   PDB; 2PP8; X-ray; 1.50 A; A/B/C=40-376.
+DR   PDB; 2PP9; X-ray; 1.80 A; A/B/C=40-376.
+DR   PDB; 2PPA; X-ray; 1.69 A; A/B/C=40-376.
+DR   PDB; 2PPC; X-ray; 1.58 A; A/B/C=40-376.
+DR   PDB; 2PPD; X-ray; 1.80 A; A/B/C=34-376.
+DR   PDB; 2PPE; X-ray; 1.75 A; A/B/C=34-376.
+DR   PDB; 2PPF; X-ray; 1.65 A; A/B/C=40-376.
+DR   PDB; 3H4F; X-ray; 2.10 A; A/B/C=40-375.
+DR   PDB; 3H4H; X-ray; 1.60 A; A/B/C=41-375.
+DR   PDB; 3H56; X-ray; 1.50 A; A=40-375.
+DR   PDBsum; 1AQ8; -.
+DR   PDBsum; 1AS6; -.
+DR   PDBsum; 1AS7; -.
+DR   PDBsum; 1AS8; -.
+DR   PDBsum; 1ET5; -.
+DR   PDBsum; 1ET7; -.
+DR   PDBsum; 1ET8; -.
+DR   PDBsum; 1J9Q; -.
+DR   PDBsum; 1J9R; -.
+DR   PDBsum; 1J9S; -.
+DR   PDBsum; 1J9T; -.
+DR   PDBsum; 1L9O; -.
+DR   PDBsum; 1L9P; -.
+DR   PDBsum; 1L9Q; -.
+DR   PDBsum; 1L9R; -.
+DR   PDBsum; 1L9S; -.
+DR   PDBsum; 1L9T; -.
+DR   PDBsum; 1NPJ; -.
+DR   PDBsum; 1NPN; -.
+DR   PDBsum; 1NTD; -.
+DR   PDBsum; 1SJM; -.
+DR   PDBsum; 1SNR; -.
+DR   PDBsum; 1ZDQ; -.
+DR   PDBsum; 1ZDS; -.
+DR   PDBsum; 2AFN; -.
+DR   PDBsum; 2B08; -.
+DR   PDBsum; 2E86; -.
+DR   PDBsum; 2FJS; -.
+DR   PDBsum; 2P80; -.
+DR   PDBsum; 2PP7; -.
+DR   PDBsum; 2PP8; -.
+DR   PDBsum; 2PP9; -.
+DR   PDBsum; 2PPA; -.
+DR   PDBsum; 2PPC; -.
+DR   PDBsum; 2PPD; -.
+DR   PDBsum; 2PPE; -.
+DR   PDBsum; 2PPF; -.
+DR   PDBsum; 3H4F; -.
+DR   PDBsum; 3H4H; -.
+DR   PDBsum; 3H56; -.
+DR   ProteinModelPortal; P38501; -.
+DR   SMR; P38501; 40-376.
+DR   BRENDA; 1.7.2.1; 232.
+DR   SABIO-RK; P38501; -.
+DR   UniPathway; UPA00652; UER00707.
+DR   EvolutionaryTrace; P38501; -.
+DR   GO; GO:0042597; C:periplasmic space; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005507; F:copper ion binding; IEA:InterPro.
+DR   GO; GO:0050421; F:nitrite reductase (NO-forming) activity; IEA:UniProtKB-EC.
+DR   GO; GO:0019333; P:denitrification pathway; IEA:UniProtKB-UniPathway.
+DR   GO; GO:0042128; P:nitrate assimilation; IEA:UniProtKB-KW.
+DR   Gene3D; 2.60.40.420; -; 2.
+DR   InterPro; IPR001117; Cu-oxidase.
+DR   InterPro; IPR011707; Cu-oxidase_3.
+DR   InterPro; IPR008972; Cupredoxin.
+DR   InterPro; IPR001287; NO2-reductase_Cu.
+DR   InterPro; IPR006311; TAT_signal.
+DR   Pfam; PF00394; Cu-oxidase; 1.
+DR   Pfam; PF07732; Cu-oxidase_3; 1.
+DR   PRINTS; PR00695; CUNO2RDTASE.
+DR   SUPFAM; SSF49503; SSF49503; 2.
+DR   TIGRFAMs; TIGR02376; Cu_nitrite_red; 1.
+DR   PROSITE; PS51318; TAT; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Copper; Direct protein sequencing; FAD; Flavoprotein;
+KW   Metal-binding; Nitrate assimilation; Oxidoreductase; Periplasm;
+KW   Pyrrolidone carboxylic acid; Repeat; Signal.
+FT   SIGNAL        1     33       Tat-type signal. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00648,
+FT                                ECO:0000269|PubMed:8515232}.
+FT   CHAIN        34    376       Copper-containing nitrite reductase.
+FT                                /FTId=PRO_0000002987.
+FT   DOMAIN       34    211       Plastocyanin-like 1.
+FT   DOMAIN      212    376       Plastocyanin-like 2.
+FT   METAL       131    131       Copper 1; type 1.
+FT                                {ECO:0000269|PubMed:8172899}.
+FT   METAL       136    136       Copper 2; type 2.
+FT   METAL       171    171       Copper 2; type 2.
+FT   METAL       172    172       Copper 1; type 1.
+FT   METAL       181    181       Copper 1; type 1.
+FT   METAL       186    186       Copper 1; type 1.
+FT   METAL       342    342       Copper 2; type 2.
+FT                                {ECO:0000269|PubMed:8172899}.
+FT   MOD_RES      34     34       Pyrrolidone carboxylic acid.
+FT   MUTAGEN     171    171       H->K: Loses nitrite-reducing activity.
+FT                                {ECO:0000269|PubMed:8172899}.
+FT   MUTAGEN     186    186       M->E: Contains only a type II copper atom
+FT                                and fails to catalyze the reduction of
+FT                                nitrite. {ECO:0000269|PubMed:8172899}.
+FT   HELIX        42     47       {ECO:0000244|PDB:1SNR}.
+FT   STRAND       50     52       {ECO:0000244|PDB:1SNR}.
+FT   STRAND       74     87       {ECO:0000244|PDB:1SNR}.
+FT   STRAND       94    100       {ECO:0000244|PDB:1SNR}.
+FT   STRAND      103    105       {ECO:0000244|PDB:1SNR}.
+FT   STRAND      109    112       {ECO:0000244|PDB:1SNR}.
+FT   STRAND      116    123       {ECO:0000244|PDB:1SNR}.
+FT   HELIX       141    147       {ECO:0000244|PDB:1SNR}.
+FT   STRAND      154    161       {ECO:0000244|PDB:1SNR}.
+FT   STRAND      166    171       {ECO:0000244|PDB:1SNR}.
+FT   HELIX       178    183       {ECO:0000244|PDB:1SNR}.
+FT   STRAND      187    193       {ECO:0000244|PDB:1SNR}.
+FT   STRAND      209    219       {ECO:0000244|PDB:1SNR}.
+FT   HELIX       235    238       {ECO:0000244|PDB:1SNR}.
+FT   HELIX       239    247       {ECO:0000244|PDB:1SNR}.
+FT   STRAND      252    256       {ECO:0000244|PDB:1SNR}.
+FT   TURN        260    263       {ECO:0000244|PDB:1SNR}.
+FT   HELIX       265    267       {ECO:0000244|PDB:1SNR}.
+FT   STRAND      269    272       {ECO:0000244|PDB:1SNR}.
+FT   STRAND      276    286       {ECO:0000244|PDB:1SNR}.
+FT   STRAND      290    293       {ECO:0000244|PDB:1SNR}.
+FT   STRAND      297    301       {ECO:0000244|PDB:1SNR}.
+FT   STRAND      306    308       {ECO:0000244|PDB:2P80}.
+FT   STRAND      311    316       {ECO:0000244|PDB:1SNR}.
+FT   STRAND      323    330       {ECO:0000244|PDB:1SNR}.
+FT   STRAND      335    343       {ECO:0000244|PDB:1SNR}.
+FT   HELIX       344    348       {ECO:0000244|PDB:1SNR}.
+FT   STRAND      353    360       {ECO:0000244|PDB:1SNR}.
+FT   TURN        364    366       {ECO:0000244|PDB:1SNR}.
+FT   STRAND      367    374       {ECO:0000244|PDB:1SNR}.
+SQ   SEQUENCE   376 AA;  40332 MW;  0AD918988301BF29 CRC64;
+     MAEQMQISRR TILAGAALAG ALAPVLATTS AWGQGAVRKA TAAEIAALPR QKVELVDPPF
+     VHAHSQVAEG GPKVVEFTMV IEEKKIVIDD AGTEVHAMAF NGTVPGPLMV VHQDDYLELT
+     LINPETNTLM HNIDFHAATG ALGGGGLTEI NPGEKTILRF KATKPGVFVY HCAPPGMVPW
+     HVVSGMNGAI MVLPREGLHD GKGKALTYDK IYYVGEQDFY VPRDENGKYK KYEAPGDAYE
+     DTVKVMRTLT PTHVVFNGAV GALTGDKAMT AAVGEKVLIV HSQANRDTRP HLIGGHGDYV
+     WATGKFNTPP DVDQETWFIP GGAAGAAFYT FQQPGIYAYV NHNLIEAFEL GAAAHFKVTG
+     EWNDDLMTSV LAPSGT
+//

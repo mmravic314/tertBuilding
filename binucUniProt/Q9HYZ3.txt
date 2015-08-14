@@ -1,0 +1,137 @@
+ID   APEB_PSEAE              Reviewed;         429 AA.
+AC   Q9HYZ3;
+DT   24-OCT-2001, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAR-2001, sequence version 1.
+DT   22-JUL-2015, entry version 88.
+DE   RecName: Full=Probable M18 family aminopeptidase 2;
+DE            EC=3.4.11.-;
+GN   Name=apeB; OrderedLocusNames=PA3247;
+OS   Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG
+OS   12228).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+OC   Pseudomonadaceae; Pseudomonas.
+OX   NCBI_TaxID=208964;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228;
+RX   PubMed=10984043; DOI=10.1038/35023079;
+RA   Stover C.K., Pham X.-Q.T., Erwin A.L., Mizoguchi S.D., Warrener P.,
+RA   Hickey M.J., Brinkman F.S.L., Hufnagle W.O., Kowalik D.J., Lagrou M.,
+RA   Garber R.L., Goltry L., Tolentino E., Westbrock-Wadman S., Yuan Y.,
+RA   Brody L.L., Coulter S.N., Folger K.R., Kas A., Larbig K., Lim R.M.,
+RA   Smith K.A., Spencer D.H., Wong G.K.-S., Wu Z., Paulsen I.T.,
+RA   Reizer J., Saier M.H. Jr., Hancock R.E.W., Lory S., Olson M.V.;
+RT   "Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+RT   opportunistic pathogen.";
+RL   Nature 406:959-964(2000).
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000250};
+CC   -!- SIMILARITY: Belongs to the peptidase M18 family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE004091; AAG06635.1; -; Genomic_DNA.
+DR   PIR; A83240; A83240.
+DR   RefSeq; NP_251937.1; NC_002516.2.
+DR   RefSeq; WP_003114800.1; NC_002516.2.
+DR   PDB; 2IJZ; X-ray; 3.00 A; A/B/C/D/E/F/G/H/I/J/K/L=2-429.
+DR   PDB; 3WT4; X-ray; 2.30 A; A/B/C/D=1-429.
+DR   PDB; 4NJQ; X-ray; 2.70 A; A/B/C/D=1-429.
+DR   PDB; 4NJR; X-ray; 2.30 A; A/B/C/D=1-429.
+DR   PDB; 4OID; X-ray; 2.30 A; A/B/C/D=1-429.
+DR   PDB; 4OIW; X-ray; 2.44 A; A/B/C/D/E/F=1-429.
+DR   PDBsum; 2IJZ; -.
+DR   PDBsum; 3WT4; -.
+DR   PDBsum; 4NJQ; -.
+DR   PDBsum; 4NJR; -.
+DR   PDBsum; 4OID; -.
+DR   PDBsum; 4OIW; -.
+DR   ProteinModelPortal; Q9HYZ3; -.
+DR   SMR; Q9HYZ3; 1-429.
+DR   STRING; 208964.PA3247; -.
+DR   MEROPS; M18.A01; -.
+DR   EnsemblBacteria; AAG06635; AAG06635; PA3247.
+DR   GeneID; 882410; -.
+DR   KEGG; pae:PA3247; -.
+DR   PATRIC; 19841067; VBIPseAer58763_3394.
+DR   PseudoCAP; PA3247; -.
+DR   eggNOG; COG1362; -.
+DR   HOGENOM; HOG000253244; -.
+DR   InParanoid; Q9HYZ3; -.
+DR   KO; K01267; -.
+DR   OMA; PMWAMHS; -.
+DR   OrthoDB; EOG664CHR; -.
+DR   PhylomeDB; Q9HYZ3; -.
+DR   EvolutionaryTrace; Q9HYZ3; -.
+DR   Proteomes; UP000002438; Chromosome.
+DR   GO; GO:0004177; F:aminopeptidase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0008237; F:metallopeptidase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 2.30.250.10; -; 1.
+DR   HAMAP; MF_00467; Aminopeptidase_M18_2; 1.
+DR   InterPro; IPR022984; M18_aminopeptidase_2.
+DR   InterPro; IPR001948; Peptidase_M18.
+DR   InterPro; IPR023358; Peptidase_M18_dom2.
+DR   Pfam; PF02127; Peptidase_M18; 1.
+DR   PRINTS; PR00932; AMINO1PTASE.
+PE   1: Evidence at protein level;
+KW   3D-structure; Aminopeptidase; Complete proteome; Hydrolase;
+KW   Metal-binding; Metalloprotease; Protease; Reference proteome; Zinc.
+FT   CHAIN         1    429       Probable M18 family aminopeptidase 2.
+FT                                /FTId=PRO_0000173465.
+FT   METAL        82     82       Zinc. {ECO:0000255}.
+FT   METAL       156    156       Zinc. {ECO:0000255}.
+FT   METAL       401    401       Zinc. {ECO:0000255}.
+FT   HELIX         3     14       {ECO:0000244|PDB:3WT4}.
+FT   HELIX        19     32       {ECO:0000244|PDB:3WT4}.
+FT   STRAND       36     38       {ECO:0000244|PDB:4NJQ}.
+FT   STRAND       51     56       {ECO:0000244|PDB:3WT4}.
+FT   TURN         57     59       {ECO:0000244|PDB:3WT4}.
+FT   STRAND       60     65       {ECO:0000244|PDB:3WT4}.
+FT   HELIX        71     74       {ECO:0000244|PDB:3WT4}.
+FT   STRAND       76     83       {ECO:0000244|PDB:3WT4}.
+FT   STRAND       87     98       {ECO:0000244|PDB:3WT4}.
+FT   STRAND      101    111       {ECO:0000244|PDB:3WT4}.
+FT   HELIX       115    117       {ECO:0000244|PDB:3WT4}.
+FT   STRAND      122    132       {ECO:0000244|PDB:3WT4}.
+FT   STRAND      135    142       {ECO:0000244|PDB:3WT4}.
+FT   HELIX       155    157       {ECO:0000244|PDB:3WT4}.
+FT   HELIX       161    163       {ECO:0000244|PDB:3WT4}.
+FT   HELIX       169    172       {ECO:0000244|PDB:3WT4}.
+FT   STRAND      176    179       {ECO:0000244|PDB:3WT4}.
+FT   HELIX       188    200       {ECO:0000244|PDB:3WT4}.
+FT   STRAND      205    216       {ECO:0000244|PDB:3WT4}.
+FT   STRAND      221    224       {ECO:0000244|PDB:3WT4}.
+FT   STRAND      229    232       {ECO:0000244|PDB:3WT4}.
+FT   HELIX       235    250       {ECO:0000244|PDB:3WT4}.
+FT   STRAND      256    263       {ECO:0000244|PDB:3WT4}.
+FT   HELIX       265    267       {ECO:0000244|PDB:3WT4}.
+FT   STRAND      274    278       {ECO:0000244|PDB:3WT4}.
+FT   HELIX       279    285       {ECO:0000244|PDB:3WT4}.
+FT   STRAND      290    292       {ECO:0000244|PDB:4OID}.
+FT   HELIX       293    298       {ECO:0000244|PDB:3WT4}.
+FT   STRAND      302    306       {ECO:0000244|PDB:3WT4}.
+FT   HELIX       317    319       {ECO:0000244|PDB:3WT4}.
+FT   HELIX       322    324       {ECO:0000244|PDB:4NJQ}.
+FT   STRAND      327    329       {ECO:0000244|PDB:2IJZ}.
+FT   STRAND      333    335       {ECO:0000244|PDB:3WT4}.
+FT   TURN        338    341       {ECO:0000244|PDB:3WT4}.
+FT   HELIX       346    358       {ECO:0000244|PDB:3WT4}.
+FT   STRAND      364    366       {ECO:0000244|PDB:3WT4}.
+FT   HELIX       379    384       {ECO:0000244|PDB:3WT4}.
+FT   TURN        385    387       {ECO:0000244|PDB:3WT4}.
+FT   STRAND      390    394       {ECO:0000244|PDB:3WT4}.
+FT   STRAND      396    399       {ECO:0000244|PDB:3WT4}.
+FT   STRAND      402    408       {ECO:0000244|PDB:3WT4}.
+FT   HELIX       411    423       {ECO:0000244|PDB:3WT4}.
+SQ   SEQUENCE   429 AA;  46659 MW;  FCBF80A93F67CBE3 CRC64;
+     MRAELNQGLI DFLKASPTPF HATASLARRL EAAGYRRLDE RDAWHTETGG RYYVTRNDSS
+     LIAIRLGRRS PLESGFRLVG AHTDSPCLRV KPNPEIARNG FLQLGVEVYG GALFAPWFDR
+     DLSLAGRVTF RANGKLESRL VDFRKAIAVI PNLAIHLNRA ANEGWPINAQ NELPPIIAQL
+     APGEAADFRL LLDEQLLREH GITADVVLDY ELSFYDTQSA AVVGLNDEFI AGARLDNLLS
+     CHAGLEALLN AEGDENCILV CTDHEEVGSC SHCGADGPFL EQVLRRLLPE GDAFSRAIQR
+     SLLVSADNAH GVHPNYADRH DANHGPALNG GPVIKINSNQ RYATNSETAG FFRHLCQDSE
+     VPVQSFVTRS DMGCGSTIGP ITASQVGVRT VDIGLPTFAM HSIRELAGSH DLAHLVKVLG
+     AFYASSELP
+//

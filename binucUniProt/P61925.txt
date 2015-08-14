@@ -1,0 +1,289 @@
+ID   IPKA_HUMAN              Reviewed;          76 AA.
+AC   P61925; P04541; Q6IAV2;
+DT   13-AUG-1987, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 2.
+DT   24-JUN-2015, entry version 105.
+DE   RecName: Full=cAMP-dependent protein kinase inhibitor alpha;
+DE            Short=PKI-alpha;
+DE   AltName: Full=cAMP-dependent protein kinase inhibitor, muscle/brain isoform;
+GN   Name=PKIA; Synonyms=PRKACN1;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=1770951; DOI=10.1210/mend-5-9-1246;
+RA   Olsen S.R., Uhler M.D.;
+RT   "Inhibition of protein kinase-A by overexpression of the cloned human
+RT   protein kinase inhibitor.";
+RL   Mol. Endocrinol. 5:1246-1256(1991).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RA   Knoell R.;
+RL   Submitted (FEB-2000) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RA   Ebert L., Schick M., Neubert P., Schatten R., Henze S., Korn B.;
+RT   "Cloning of human full open reading frames in Gateway(TM) system entry
+RT   vector (pDONR201).";
+RL   Submitted (JUN-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Skeletal muscle;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT THR-2, IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS], AND CLEAVAGE OF INITIATOR
+RP   METHIONINE [LARGE SCALE ANALYSIS].
+RX   PubMed=22814378; DOI=10.1073/pnas.1210303109;
+RA   Van Damme P., Lasa M., Polevoda B., Gazquez C., Elosegui-Artola A.,
+RA   Kim D.S., De Juan-Pardo E., Demeyer K., Hole K., Larrea E.,
+RA   Timmerman E., Prieto J., Arnesen T., Sherman F., Gevaert K.,
+RA   Aldabe R.;
+RT   "N-terminal acetylome analyses and functional insights of the N-
+RT   terminal acetyltransferase NatB.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 109:12449-12454(2012).
+CC   -!- FUNCTION: Extremely potent competitive inhibitor of cAMP-dependent
+CC       protein kinase activity, this protein interacts with the catalytic
+CC       subunit of the enzyme after the cAMP-induced dissociation of its
+CC       regulatory chains.
+CC   -!- INTERACTION:
+CC       P30822:CRM1 (xeno); NbExp=17; IntAct=EBI-2682139, EBI-20589;
+CC       O14980:XPO1; NbExp=2; IntAct=EBI-2682139, EBI-355867;
+CC   -!- MISCELLANEOUS: The inhibitory site contains regions very similar
+CC       to the hinge regions (sites that directly interact with the enzyme
+CC       active site) and "pseudosubstrate site" of the regulatory chains;
+CC       but, unlike these chains, PKI does not contain cAMP-binding sites.
+CC       The arginine residues within the inhibitory site are essential for
+CC       inhibition and recognition of the enzyme active site.
+CC   -!- SIMILARITY: Belongs to the PKI family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; S76965; AAB21141.1; -; mRNA.
+DR   EMBL; AF234641; AAF40206.1; -; Genomic_DNA.
+DR   EMBL; CR457052; CAG33333.1; -; mRNA.
+DR   EMBL; BC022265; AAH22265.1; -; mRNA.
+DR   CCDS; CCDS6222.1; -.
+DR   PIR; A40468; A40468.
+DR   RefSeq; NP_006814.1; NM_006823.3.
+DR   RefSeq; NP_862822.1; NM_181839.2.
+DR   UniGene; Hs.433700; -.
+DR   UniGene; Hs.732129; -.
+DR   PDB; 1CMK; X-ray; 2.90 A; I=6-27.
+DR   PDB; 1JLU; X-ray; 2.25 A; S=6-25.
+DR   PDB; 1Q8T; X-ray; 2.00 A; B=6-25.
+DR   PDB; 1VEB; X-ray; 2.89 A; B=6-25.
+DR   PDB; 1XH4; X-ray; 2.45 A; B=6-25.
+DR   PDB; 1XH5; X-ray; 2.05 A; B=6-25.
+DR   PDB; 1XH6; X-ray; 1.90 A; B=6-25.
+DR   PDB; 1XH7; X-ray; 2.47 A; B=6-25.
+DR   PDB; 1XH8; X-ray; 1.60 A; B=6-25.
+DR   PDB; 1XH9; X-ray; 1.64 A; B=6-25.
+DR   PDB; 1XHA; X-ray; 2.46 A; B=6-25.
+DR   PDB; 1YDR; X-ray; 2.20 A; I=6-25.
+DR   PDB; 2C1A; X-ray; 1.95 A; I=6-25.
+DR   PDB; 2C1B; X-ray; 2.00 A; I=6-25.
+DR   PDB; 2F7E; X-ray; 2.00 A; I=6-25.
+DR   PDB; 2GNI; X-ray; 2.27 A; I=6-25.
+DR   PDB; 2JDS; X-ray; 2.00 A; I=6-25.
+DR   PDB; 2JDT; X-ray; 2.15 A; I=6-25.
+DR   PDB; 2JDV; X-ray; 2.08 A; I=6-25.
+DR   PDB; 2L1L; NMR; -; A=30-54.
+DR   PDB; 2UVX; X-ray; 2.00 A; I=6-25.
+DR   PDB; 2UVY; X-ray; 1.95 A; I=6-25.
+DR   PDB; 2UVZ; X-ray; 1.94 A; I=6-25.
+DR   PDB; 2UW0; X-ray; 2.00 A; I=6-25.
+DR   PDB; 2UW3; X-ray; 2.19 A; I=6-25.
+DR   PDB; 2UW4; X-ray; 2.00 A; I=6-25.
+DR   PDB; 2UW5; X-ray; 2.14 A; I=6-25.
+DR   PDB; 2UW6; X-ray; 2.23 A; I=6-25.
+DR   PDB; 2UW7; X-ray; 2.10 A; I=6-25.
+DR   PDB; 2UW8; X-ray; 2.00 A; I=6-25.
+DR   PDB; 2VNW; X-ray; 2.09 A; I=6-25.
+DR   PDB; 2VNY; X-ray; 1.96 A; I=6-25.
+DR   PDB; 2VO0; X-ray; 1.94 A; I=6-25.
+DR   PDB; 2VO3; X-ray; 1.98 A; I=6-25.
+DR   PDB; 2VO6; X-ray; 1.97 A; I=6-25.
+DR   PDB; 2VO7; X-ray; 1.98 A; I=6-25.
+DR   PDB; 3AMA; X-ray; 1.75 A; B=6-25.
+DR   PDB; 3AMB; X-ray; 2.25 A; B=6-25.
+DR   PDB; 3L9L; X-ray; 2.00 A; C/D=6-25.
+DR   PDB; 3L9M; X-ray; 1.90 A; C/D=6-25.
+DR   PDB; 3L9N; X-ray; 2.00 A; C=6-25.
+DR   PDB; 3MVJ; X-ray; 2.49 A; I/J/K=6-25.
+DR   PDB; 3NX8; X-ray; 2.00 A; B=6-25.
+DR   PDB; 3OOG; X-ray; 2.00 A; B=6-25.
+DR   PDB; 3OVV; X-ray; 1.58 A; B=6-25.
+DR   PDB; 3OWP; X-ray; 1.88 A; B=6-25.
+DR   PDB; 3OXT; X-ray; 2.20 A; B=6-25.
+DR   PDB; 3P0M; X-ray; 2.03 A; B=6-25.
+DR   PDB; 3POO; X-ray; 1.60 A; B=6-25.
+DR   PDB; 3VQH; X-ray; 1.95 A; B=6-25.
+DR   PDB; 3WYG; X-ray; 2.15 A; D=1-76.
+DR   PDB; 4AXA; X-ray; 1.90 A; I=6-25.
+DR   PDB; 4IAC; X-ray; 2.15 A; S=6-25.
+DR   PDB; 4IAD; X-ray; 1.90 A; S=6-25.
+DR   PDB; 4IAF; X-ray; 2.20 A; S=6-25.
+DR   PDB; 4IAI; X-ray; 1.55 A; S=6-25.
+DR   PDB; 4IAK; X-ray; 1.60 A; S=6-25.
+DR   PDB; 4IAY; X-ray; 2.00 A; S=6-25.
+DR   PDB; 4IAZ; X-ray; 1.85 A; S=6-25.
+DR   PDB; 4IB0; X-ray; 1.87 A; S=6-25.
+DR   PDB; 4IB1; X-ray; 1.63 A; S=6-25.
+DR   PDB; 4IB3; X-ray; 2.20 A; S=6-25.
+DR   PDB; 4IE9; X-ray; 1.92 A; I=6-25.
+DR   PDB; 4IJ9; X-ray; 2.55 A; I=6-25.
+DR   PDB; 4O21; X-ray; 1.95 A; S=6-25.
+DR   PDB; 4O22; X-ray; 1.70 A; S=6-25.
+DR   PDBsum; 1CMK; -.
+DR   PDBsum; 1JLU; -.
+DR   PDBsum; 1Q8T; -.
+DR   PDBsum; 1VEB; -.
+DR   PDBsum; 1XH4; -.
+DR   PDBsum; 1XH5; -.
+DR   PDBsum; 1XH6; -.
+DR   PDBsum; 1XH7; -.
+DR   PDBsum; 1XH8; -.
+DR   PDBsum; 1XH9; -.
+DR   PDBsum; 1XHA; -.
+DR   PDBsum; 1YDR; -.
+DR   PDBsum; 2C1A; -.
+DR   PDBsum; 2C1B; -.
+DR   PDBsum; 2F7E; -.
+DR   PDBsum; 2GNI; -.
+DR   PDBsum; 2JDS; -.
+DR   PDBsum; 2JDT; -.
+DR   PDBsum; 2JDV; -.
+DR   PDBsum; 2L1L; -.
+DR   PDBsum; 2UVX; -.
+DR   PDBsum; 2UVY; -.
+DR   PDBsum; 2UVZ; -.
+DR   PDBsum; 2UW0; -.
+DR   PDBsum; 2UW3; -.
+DR   PDBsum; 2UW4; -.
+DR   PDBsum; 2UW5; -.
+DR   PDBsum; 2UW6; -.
+DR   PDBsum; 2UW7; -.
+DR   PDBsum; 2UW8; -.
+DR   PDBsum; 2VNW; -.
+DR   PDBsum; 2VNY; -.
+DR   PDBsum; 2VO0; -.
+DR   PDBsum; 2VO3; -.
+DR   PDBsum; 2VO6; -.
+DR   PDBsum; 2VO7; -.
+DR   PDBsum; 3AMA; -.
+DR   PDBsum; 3AMB; -.
+DR   PDBsum; 3L9L; -.
+DR   PDBsum; 3L9M; -.
+DR   PDBsum; 3L9N; -.
+DR   PDBsum; 3MVJ; -.
+DR   PDBsum; 3NX8; -.
+DR   PDBsum; 3OOG; -.
+DR   PDBsum; 3OVV; -.
+DR   PDBsum; 3OWP; -.
+DR   PDBsum; 3OXT; -.
+DR   PDBsum; 3P0M; -.
+DR   PDBsum; 3POO; -.
+DR   PDBsum; 3VQH; -.
+DR   PDBsum; 3WYG; -.
+DR   PDBsum; 4AXA; -.
+DR   PDBsum; 4IAC; -.
+DR   PDBsum; 4IAD; -.
+DR   PDBsum; 4IAF; -.
+DR   PDBsum; 4IAI; -.
+DR   PDBsum; 4IAK; -.
+DR   PDBsum; 4IAY; -.
+DR   PDBsum; 4IAZ; -.
+DR   PDBsum; 4IB0; -.
+DR   PDBsum; 4IB1; -.
+DR   PDBsum; 4IB3; -.
+DR   PDBsum; 4IE9; -.
+DR   PDBsum; 4IJ9; -.
+DR   PDBsum; 4O21; -.
+DR   PDBsum; 4O22; -.
+DR   ProteinModelPortal; P61925; -.
+DR   BioGrid; 111556; 4.
+DR   DIP; DIP-56176N; -.
+DR   IntAct; P61925; 4.
+DR   STRING; 9606.ENSP00000336552; -.
+DR   PhosphoSite; P61925; -.
+DR   BioMuta; PKIA; -.
+DR   DMDM; 48428970; -.
+DR   MaxQB; P61925; -.
+DR   PaxDb; P61925; -.
+DR   PRIDE; P61925; -.
+DR   DNASU; 5569; -.
+DR   Ensembl; ENST00000352966; ENSP00000336552; ENSG00000171033.
+DR   Ensembl; ENST00000396418; ENSP00000379696; ENSG00000171033.
+DR   Ensembl; ENST00000518467; ENSP00000430887; ENSG00000171033.
+DR   GeneID; 5569; -.
+DR   KEGG; hsa:5569; -.
+DR   UCSC; uc003yba.3; human.
+DR   CTD; 5569; -.
+DR   GeneCards; GC08P079478; -.
+DR   HGNC; HGNC:9017; PKIA.
+DR   HPA; HPA042791; -.
+DR   MIM; 606059; gene.
+DR   neXtProt; NX_P61925; -.
+DR   PharmGKB; PA33349; -.
+DR   eggNOG; NOG45574; -.
+DR   GeneTree; ENSGT00530000064276; -.
+DR   HOGENOM; HOG000059641; -.
+DR   HOVERGEN; HBG101093; -.
+DR   InParanoid; P61925; -.
+DR   KO; K15985; -.
+DR   OMA; TTNTTDV; -.
+DR   OrthoDB; EOG7JHM8S; -.
+DR   PhylomeDB; P61925; -.
+DR   TreeFam; TF330809; -.
+DR   ChiTaRS; PKIA; human.
+DR   EvolutionaryTrace; P61925; -.
+DR   GeneWiki; PKIA; -.
+DR   GenomeRNAi; 5569; -.
+DR   NextBio; 21582; -.
+DR   PRO; PR:P61925; -.
+DR   Proteomes; UP000005640; Chromosome 8.
+DR   Bgee; P61925; -.
+DR   CleanEx; HS_PKIA; -.
+DR   ExpressionAtlas; P61925; baseline and differential.
+DR   Genevisible; P61925; HS.
+DR   GO; GO:0005737; C:cytoplasm; IBA:GO_Central.
+DR   GO; GO:0005634; C:nucleus; IBA:GO_Central.
+DR   GO; GO:0004862; F:cAMP-dependent protein kinase inhibitor activity; TAS:UniProtKB.
+DR   GO; GO:0034236; F:protein kinase A catalytic subunit binding; IPI:BHF-UCL.
+DR   GO; GO:2000480; P:negative regulation of cAMP-dependent protein kinase activity; IDA:BHF-UCL.
+DR   GO; GO:0042308; P:negative regulation of protein import into nucleus; IEA:Ensembl.
+DR   GO; GO:0000122; P:negative regulation of transcription from RNA polymerase II promoter; IEA:Ensembl.
+DR   GO; GO:0010389; P:regulation of G2/M transition of mitotic cell cycle; IEA:Ensembl.
+DR   InterPro; IPR004171; cAMP_dep_PKI.
+DR   Pfam; PF02827; PKI; 1.
+DR   PIRSF; PIRSF001667; PKI; 1.
+DR   ProDom; PD010366; cAMP_dep_PKI; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Complete proteome;
+KW   Protein kinase inhibitor; Reference proteome.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:22814378}.
+FT   CHAIN         2     76       cAMP-dependent protein kinase inhibitor
+FT                                alpha.
+FT                                /FTId=PRO_0000154532.
+FT   SITE         16     16       Important for inhibition. {ECO:0000250}.
+FT   SITE         19     19       Important for inhibition. {ECO:0000250}.
+FT   SITE         20     20       Important for inhibition. {ECO:0000250}.
+FT   MOD_RES       2      2       N-acetylthreonine.
+FT                                {ECO:0000269|PubMed:22814378}.
+FT   HELIX         7     12       {ECO:0000244|PDB:4IAI}.
+FT   HELIX        15     17       {ECO:0000244|PDB:1CMK}.
+FT   HELIX        36     43       {ECO:0000244|PDB:3WYG}.
+FT   STRAND       47     49       {ECO:0000244|PDB:2L1L}.
+SQ   SEQUENCE   76 AA;  7989 MW;  BDCE072810435951 CRC64;
+     MTDVETTYAD FIASGRTGRR NAIHDILVSS ASGNSNELAL KLAGLDINKT EGEEDAQRSS
+     TEQSGEAQGE AAKSES
+//

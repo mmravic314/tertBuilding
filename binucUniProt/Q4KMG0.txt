@@ -1,0 +1,330 @@
+ID   CDON_HUMAN              Reviewed;        1287 AA.
+AC   Q4KMG0; O14631;
+DT   02-MAY-2006, integrated into UniProtKB/Swiss-Prot.
+DT   05-OCT-2010, sequence version 2.
+DT   22-JUL-2015, entry version 101.
+DE   RecName: Full=Cell adhesion molecule-related/down-regulated by oncogenes;
+DE   Flags: Precursor;
+GN   Name=CDON; Synonyms=CDO;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2).
+RC   TISSUE=Fetal brain, and Fetal lung;
+RX   PubMed=9214393; DOI=10.1083/jcb.138.1.203;
+RA   Kang J.-S., Gao M., Feinleib J.L., Cotter P.D., Guadagno S.N.,
+RA   Krauss R.S.;
+RT   "CDO: an oncogene-, serum-, and anchorage-regulated member of the
+RT   Ig/fibronectin type III repeat family.";
+RL   J. Cell Biol. 138:203-213(1997).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16554811; DOI=10.1038/nature04632;
+RA   Taylor T.D., Noguchi H., Totoki Y., Toyoda A., Kuroki Y., Dewar K.,
+RA   Lloyd C., Itoh T., Takeda T., Kim D.-W., She X., Barlow K.F.,
+RA   Bloom T., Bruford E., Chang J.L., Cuomo C.A., Eichler E.,
+RA   FitzGerald M.G., Jaffe D.B., LaButti K., Nicol R., Park H.-S.,
+RA   Seaman C., Sougnez C., Yang X., Zimmer A.R., Zody M.C., Birren B.W.,
+RA   Nusbaum C., Fujiyama A., Hattori M., Rogers J., Lander E.S.,
+RA   Sakaki Y.;
+RT   "Human chromosome 11 DNA sequence and analysis including novel gene
+RT   identification.";
+RL   Nature 440:497-500(2006).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Placenta;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS) OF 826-924 IN COMPLEX WITH SHH,
+RP   AND INTERACTION WITH SHH.
+RX   PubMed=18794898; DOI=10.1038/nature07358;
+RA   McLellan J.S., Zheng X., Hauk G., Ghirlando R., Beachy P.A.,
+RA   Leahy D.J.;
+RT   "The mode of Hedgehog binding to Ihog homologues is not conserved
+RT   across different phyla.";
+RL   Nature 455:979-983(2008).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (1.6 ANGSTROMS) OF 826-924 IN COMPLEXES WITH IHH
+RP   AND DHH, AND INTERACTION WITH IHH AND DHH.
+RX   PubMed=20519495; DOI=10.1074/jbc.M110.131680;
+RA   Kavran J.M., Ward M.D., Oladosu O.O., Mulepati S., Leahy D.J.;
+RT   "All mammalian Hedgehog proteins interact with cell adhesion molecule,
+RT   down-regulated by oncogenes (CDO) and brother of CDO (BOC) in a
+RT   conserved manner.";
+RL   J. Biol. Chem. 285:24584-24590(2010).
+RN   [6]
+RP   VARIANTS HPE11 SER-684; ALA-689; MET-691; GLU-780; ALA-790 AND
+RP   ARG-940.
+RX   PubMed=21802063; DOI=10.1016/j.ajhg.2011.07.001;
+RA   Bae G.U., Domene S., Roessler E., Schachter K., Kang J.S., Muenke M.,
+RA   Krauss R.S.;
+RT   "Mutations in CDON, encoding a hedgehog receptor, result in
+RT   holoprosencephaly and defective interactions with other hedgehog
+RT   receptors.";
+RL   Am. J. Hum. Genet. 89:231-240(2011).
+CC   -!- FUNCTION: Component of a cell-surface receptor complex that
+CC       mediates cell-cell interactions between muscle precursor cells.
+CC       Promotes differentiation of myogenic cells (By similarity).
+CC       {ECO:0000250}.
+CC   -!- SUBUNIT: Part of a complex that contains BOC, CDON, NEO1,
+CC       cadherins and CTNNB1. Interacts with NTN3 (By similarity).
+CC       Interacts with PTCH1 (By similarity). Interacts with GAS1 (By
+CC       similarity). Interacts with DHH, IHH and SHH. {ECO:0000250,
+CC       ECO:0000269|PubMed:18794898, ECO:0000269|PubMed:20519495}.
+CC   -!- INTERACTION:
+CC       P00519:ABL1; NbExp=2; IntAct=EBI-7016840, EBI-375543;
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000250}; Single-pass
+CC       membrane protein {ECO:0000250}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q4KMG0-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q4KMG0-2; Sequence=VSP_018201;
+CC   -!- PTM: N-glycosylated. {ECO:0000250}.
+CC   -!- DISEASE: Holoprosencephaly 11 (HPE11) [MIM:614226]: A structural
+CC       anomaly of the brain, in which the developing forebrain fails to
+CC       correctly separate into right and left hemispheres.
+CC       Holoprosencephaly is genetically heterogeneous and associated with
+CC       several distinct facies and phenotypic variability.
+CC       {ECO:0000269|PubMed:21802063}. Note=The disease is caused by
+CC       mutations affecting the gene represented in this entry.
+CC   -!- SIMILARITY: Contains 3 fibronectin type-III domains.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00316}.
+CC   -!- SIMILARITY: Contains 5 Ig-like C2-type (immunoglobulin-like)
+CC       domains. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF004841; AAC34901.2; -; mRNA.
+DR   EMBL; AP000821; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AP000842; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC098583; AAH98583.1; -; mRNA.
+DR   CCDS; CCDS58192.1; -. [Q4KMG0-1]
+DR   CCDS; CCDS8468.1; -. [Q4KMG0-2]
+DR   PIR; T03097; T03097.
+DR   RefSeq; NP_001230526.1; NM_001243597.1. [Q4KMG0-1]
+DR   RefSeq; NP_058648.4; NM_016952.4. [Q4KMG0-2]
+DR   RefSeq; XP_011541164.1; XM_011542862.1. [Q4KMG0-1]
+DR   RefSeq; XP_011541165.1; XM_011542863.1. [Q4KMG0-1]
+DR   RefSeq; XP_011541166.1; XM_011542864.1. [Q4KMG0-1]
+DR   RefSeq; XP_011541167.1; XM_011542865.1. [Q4KMG0-1]
+DR   RefSeq; XP_011541168.1; XM_011542866.1. [Q4KMG0-2]
+DR   UniGene; Hs.38034; -.
+DR   PDB; 3D1M; X-ray; 1.70 A; C/D=826-924.
+DR   PDB; 3N1F; X-ray; 1.60 A; C/D=826-924.
+DR   PDB; 3N1Q; X-ray; 2.89 A; C/D/F=826-924.
+DR   PDBsum; 3D1M; -.
+DR   PDBsum; 3N1F; -.
+DR   PDBsum; 3N1Q; -.
+DR   ProteinModelPortal; Q4KMG0; -.
+DR   SMR; Q4KMG0; 721-817, 826-924.
+DR   BioGrid; 119165; 8.
+DR   DIP; DIP-57226N; -.
+DR   IntAct; Q4KMG0; 1.
+DR   MINT; MINT-2795255; -.
+DR   STRING; 9606.ENSP00000263577; -.
+DR   PhosphoSite; Q4KMG0; -.
+DR   BioMuta; CDON; -.
+DR   DMDM; 308153422; -.
+DR   MaxQB; Q4KMG0; -.
+DR   PaxDb; Q4KMG0; -.
+DR   PRIDE; Q4KMG0; -.
+DR   Ensembl; ENST00000263577; ENSP00000263577; ENSG00000064309. [Q4KMG0-2]
+DR   Ensembl; ENST00000392693; ENSP00000376458; ENSG00000064309.
+DR   GeneID; 50937; -.
+DR   KEGG; hsa:50937; -.
+DR   UCSC; uc001qdc.4; human. [Q4KMG0-2]
+DR   UCSC; uc009zbw.3; human. [Q4KMG0-1]
+DR   CTD; 50937; -.
+DR   GeneCards; GC11M125866; -.
+DR   H-InvDB; HIX0035847; -.
+DR   HGNC; HGNC:17104; CDON.
+DR   HPA; CAB012422; -.
+DR   HPA; HPA017377; -.
+DR   MIM; 608707; gene.
+DR   MIM; 614226; phenotype.
+DR   neXtProt; NX_Q4KMG0; -.
+DR   Orphanet; 93925; Alobar holoprosencephaly.
+DR   Orphanet; 93924; Lobar holoprosencephaly.
+DR   Orphanet; 280200; Microform holoprosencephaly.
+DR   Orphanet; 93926; Midline interhemispheric variant of holoprosencephaly.
+DR   Orphanet; 220386; Semilobar holoprosencephaly.
+DR   Orphanet; 280195; Septopreoptic holoprosencephaly.
+DR   PharmGKB; PA26328; -.
+DR   eggNOG; NOG150729; -.
+DR   GeneTree; ENSGT00800000124026; -.
+DR   HOGENOM; HOG000060072; -.
+DR   HOVERGEN; HBG081073; -.
+DR   InParanoid; Q4KMG0; -.
+DR   OMA; VSDTQIM; -.
+DR   OrthoDB; EOG7MD4PB; -.
+DR   PhylomeDB; Q4KMG0; -.
+DR   TreeFam; TF332268; -.
+DR   Reactome; REACT_21402; CDO in myogenesis.
+DR   Reactome; REACT_268573; Ligand-receptor interactions.
+DR   ChiTaRS; CDON; human.
+DR   EvolutionaryTrace; Q4KMG0; -.
+DR   GeneWiki; CDON; -.
+DR   GenomeRNAi; 50937; -.
+DR   NextBio; 53379; -.
+DR   PRO; PR:Q4KMG0; -.
+DR   Proteomes; UP000005640; Chromosome 11.
+DR   Bgee; Q4KMG0; -.
+DR   CleanEx; HS_CDON; -.
+DR   ExpressionAtlas; Q4KMG0; baseline and differential.
+DR   Genevisible; Q4KMG0; HS.
+DR   GO; GO:0009986; C:cell surface; IEA:Ensembl.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0005886; C:plasma membrane; TAS:Reactome.
+DR   GO; GO:0009952; P:anterior/posterior pattern specification; IEA:Ensembl.
+DR   GO; GO:0007155; P:cell adhesion; TAS:UniProtKB.
+DR   GO; GO:0001708; P:cell fate specification; IEA:Ensembl.
+DR   GO; GO:0021987; P:cerebral cortex development; IEA:Ensembl.
+DR   GO; GO:0010172; P:embryonic body morphogenesis; IEA:Ensembl.
+DR   GO; GO:0060059; P:embryonic retina morphogenesis in camera-type eye; IEA:Ensembl.
+DR   GO; GO:0002088; P:lens development in camera-type eye; IEA:Ensembl.
+DR   GO; GO:0042692; P:muscle cell differentiation; TAS:Reactome.
+DR   GO; GO:0007520; P:myoblast fusion; IEA:Ensembl.
+DR   GO; GO:0043410; P:positive regulation of MAPK cascade; IEA:Ensembl.
+DR   GO; GO:0051149; P:positive regulation of muscle cell differentiation; TAS:Reactome.
+DR   GO; GO:2000179; P:positive regulation of neural precursor cell proliferation; IEA:Ensembl.
+DR   GO; GO:0045666; P:positive regulation of neuron differentiation; IEA:Ensembl.
+DR   GO; GO:0048643; P:positive regulation of skeletal muscle tissue development; IEA:Ensembl.
+DR   GO; GO:0051057; P:positive regulation of small GTPase mediated signal transduction; IEA:Ensembl.
+DR   GO; GO:0045944; P:positive regulation of transcription from RNA polymerase II promoter; IEA:Ensembl.
+DR   GO; GO:0043497; P:regulation of protein heterodimerization activity; IEA:Ensembl.
+DR   GO; GO:0014816; P:skeletal muscle satellite cell differentiation; IEA:Ensembl.
+DR   Gene3D; 2.60.40.10; -; 8.
+DR   InterPro; IPR003961; FN3_dom.
+DR   InterPro; IPR007110; Ig-like_dom.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   InterPro; IPR013098; Ig_I-set.
+DR   InterPro; IPR003599; Ig_sub.
+DR   InterPro; IPR003598; Ig_sub2.
+DR   Pfam; PF00041; fn3; 3.
+DR   Pfam; PF07679; I-set; 3.
+DR   SMART; SM00060; FN3; 3.
+DR   SMART; SM00409; IG; 1.
+DR   SMART; SM00408; IGc2; 4.
+DR   SUPFAM; SSF49265; SSF49265; 2.
+DR   PROSITE; PS50853; FN3; 3.
+DR   PROSITE; PS50835; IG_LIKE; 5.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Cell membrane; Complete proteome;
+KW   Disease mutation; Disulfide bond; Glycoprotein; Holoprosencephaly;
+KW   Immunoglobulin domain; Membrane; Polymorphism; Reference proteome;
+KW   Repeat; Signal; Transmembrane; Transmembrane helix.
+FT   SIGNAL        1     25       {ECO:0000255}.
+FT   CHAIN        26   1287       Cell adhesion molecule-related/down-
+FT                                regulated by oncogenes.
+FT                                /FTId=PRO_0000234054.
+FT   TOPO_DOM     26    963       Extracellular. {ECO:0000255}.
+FT   TRANSMEM    964    984       Helical. {ECO:0000255}.
+FT   TOPO_DOM    985   1287       Cytoplasmic. {ECO:0000255}.
+FT   DOMAIN       29    114       Ig-like C2-type 1.
+FT   DOMAIN      120    204       Ig-like C2-type 2.
+FT   DOMAIN      225    303       Ig-like C2-type 3.
+FT   DOMAIN      310    396       Ig-like C2-type 4.
+FT   DOMAIN      405    516       Ig-like C2-type 5.
+FT   DOMAIN      579    677       Fibronectin type-III 1.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00316}.
+FT   DOMAIN      723    821       Fibronectin type-III 2.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00316}.
+FT   DOMAIN      826    926       Fibronectin type-III 3.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00316}.
+FT   CARBOHYD     88     88       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    100    100       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    180    180       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    287    287       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    294    294       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    342    342       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    427    427       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    570    570       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    873    873       N-linked (GlcNAc...). {ECO:0000255}.
+FT   DISULFID     50     97       {ECO:0000255|PROSITE-ProRule:PRU00114}.
+FT   DISULFID    141    191       {ECO:0000255|PROSITE-ProRule:PRU00114}.
+FT   DISULFID    243    290       {ECO:0000255|PROSITE-ProRule:PRU00114}.
+FT   DISULFID    333    380       {ECO:0000255|PROSITE-ProRule:PRU00114}.
+FT   DISULFID    426    500       {ECO:0000255|PROSITE-ProRule:PRU00114}.
+FT   VAR_SEQ    1212   1234       Missing (in isoform 2).
+FT                                {ECO:0000303|PubMed:9214393}.
+FT                                /FTId=VSP_018201.
+FT   VARIANT      66     66       K -> R (in dbSNP:rs7122277).
+FT                                /FTId=VAR_056038.
+FT   VARIANT     162    162       E -> K (in dbSNP:rs3740909).
+FT                                /FTId=VAR_056039.
+FT   VARIANT     351    351       P -> A (in dbSNP:rs35665264).
+FT                                /FTId=VAR_056040.
+FT   VARIANT     684    684       T -> S (in HPE11; dbSNP:rs145983470).
+FT                                {ECO:0000269|PubMed:21802063}.
+FT                                /FTId=VAR_066497.
+FT   VARIANT     686    686       A -> V (in dbSNP:rs12274923).
+FT                                /FTId=VAR_056041.
+FT   VARIANT     689    689       P -> A (in HPE11).
+FT                                {ECO:0000269|PubMed:21802063}.
+FT                                /FTId=VAR_066498.
+FT   VARIANT     691    691       V -> M (in HPE11).
+FT                                {ECO:0000269|PubMed:21802063}.
+FT                                /FTId=VAR_066499.
+FT   VARIANT     780    780       V -> E (in HPE11).
+FT                                {ECO:0000269|PubMed:21802063}.
+FT                                /FTId=VAR_066500.
+FT   VARIANT     790    790       T -> A (in HPE11).
+FT                                {ECO:0000269|PubMed:21802063}.
+FT                                /FTId=VAR_066501.
+FT   VARIANT     940    940       S -> R (in HPE11).
+FT                                {ECO:0000269|PubMed:21802063}.
+FT                                /FTId=VAR_066502.
+FT   CONFLICT     75     75       V -> I (in Ref. 1; AAC34901 and 3;
+FT                                AAH98583). {ECO:0000305}.
+FT   CONFLICT    265    265       G -> E (in Ref. 3; AAH98583).
+FT                                {ECO:0000305}.
+FT   CONFLICT    300    300       K -> E (in Ref. 1; AAC34901).
+FT                                {ECO:0000305}.
+FT   CONFLICT    669    669       L -> I (in Ref. 1; AAC34901).
+FT                                {ECO:0000305}.
+FT   CONFLICT   1244   1244       I -> N (in Ref. 3; AAH98583).
+FT                                {ECO:0000305}.
+FT   STRAND      831    837       {ECO:0000244|PDB:3N1F}.
+FT   STRAND      839    841       {ECO:0000244|PDB:3N1F}.
+FT   STRAND      843    848       {ECO:0000244|PDB:3N1F}.
+FT   HELIX       852    854       {ECO:0000244|PDB:3N1F}.
+FT   STRAND      861    868       {ECO:0000244|PDB:3N1F}.
+FT   HELIX       874    876       {ECO:0000244|PDB:3N1F}.
+FT   STRAND      878    883       {ECO:0000244|PDB:3N1F}.
+FT   STRAND      887    891       {ECO:0000244|PDB:3N1F}.
+FT   STRAND      899    908       {ECO:0000244|PDB:3N1F}.
+FT   STRAND      919    922       {ECO:0000244|PDB:3N1F}.
+SQ   SEQUENCE   1287 AA;  139147 MW;  B7870C66F5224BBE CRC64;
+     MHPDLGPLCT LLYVTLTILC SSVSSDLAPY FTSEPLSAVQ KLGGPVVLHC SAQPVTTRIS
+     WLHNGKTLDG NLEHVKIHQG TLTILSLNSS LLGYYQCLAN NSIGAIVSGP ATVSVAVLGD
+     FGSSTKHVIT AEEKSAGFIG CRVPESNPKA EVRYKIRGKW LEHSTENYLI LPSGNLQILN
+     VSLEDKGSYK CAAYNPVTHQ LKVEPIGRKL LVSRPSSDDV HILHPTHSQA LAVLSRSPVT
+     LECVVSGVPA PQVYWLKDGQ DIAPGSNWRR LYSHLATDSV DPADSGNYSC MAGNKSGDVK
+     YVTYMVNVLE HASISKGLQD QIVSLGATVH FTCDVHGNPA PNCTWFHNAQ PIHPSARHLT
+     AGNGLKISGV TVEDVGMYQC VADNGIGFMH STGRLEIEND GGFKPVIITA PVSAKVADGD
+     FVTLSCNASG LPVPVIRWYD SHGLITSHPS QVLRSKSRKS QLSRPEGLNL EPVYFVLSQA
+     GASSLHIQAV TQEHAGKYIC EAANEHGTTQ AEASLMVVPF ETNTKAETVT LPDAAQNDDR
+     SKRDGSETGL LSSFPVKVHP SAVESAPEKN ASGISVPDAP IILSPPQTHT PDTYNLVWRA
+     GKDGGLPINA YFVKYRKLDD GVGMLGSWHT VRVPGSENEL HLAELEPSSL YEVLMVARSA
+     AGEGQPAMLT FRTSKEKTAS SKNTQASSPP VGIPKYPVVS EAANNNFGVV LTDSSRHSGV
+     PEAPDRPTIS TASETSVYVT WIPRANGGSP ITAFKVEYKR MRTSNWLVAA EDIPPSKLSV
+     EVRSLEPGST YKFRVIAINH YGESFRSSAS RPYQVVGFPN RFSSRPITGP HIAYTEAVSD
+     TQIMLKWTYI PSSNNNTPIQ GFYIYYRPTD SDNDSDYKRD VVEGSKQWHM IGHLQPETSY
+     DIKMQCFNEG GESEFSNVMI CETKVKRVPG ASEYPVKDLS TPPNSLGSGG NVGPATSPAR
+     SSDMLYLIVG CVLGVMVLIL MVFIAMCLWK NRQQNTIQKY DPPGYLYQGS DMNGQMVDYT
+     TLSGASQING NVHGGFLTNG GLSSGYSHLH HKVPNAVNGI VNGSLNGGLY SGHSNSLTRT
+     HVDFEHPHHL VNGGGMYTAV PQIDPLECVN CRNCRNNNRC FTKTNSTFSS SPPPVVPVVA
+     PYPQDGLEMK PLSHVKVPVC LTSAVPDCGQ LPEESVKDNV EPVPTQRTCC QDIVNDVSSD
+     GSEDPAEFSR GQEGMINLRI PDHLQLAKSC VWEGDSCAHS ETEINIVSWN ALILPPVPEG
+     CAEKTMWSPP GIPLDSPTEV LQQPRET
+//

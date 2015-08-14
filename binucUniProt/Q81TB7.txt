@@ -1,0 +1,143 @@
+ID   Q81TB7_BACAN            Unreviewed;       119 AA.
+AC   Q81TB7; E9RAE1; E9RAE2; Q6I1J5; Q6KVE3;
+DT   01-JUN-2003, integrated into UniProtKB/TrEMBL.
+DT   01-JUN-2003, sequence version 1.
+DT   22-JUL-2015, entry version 100.
+DE   RecName: Full=Protein NrdI {ECO:0000256|HAMAP-Rule:MF_00128, ECO:0000256|SAAS:SAAS00020464};
+GN   Name=nrdI {ECO:0000256|HAMAP-Rule:MF_00128,
+GN   ECO:0000313|EMBL:AAT30464.1};
+GN   Synonyms=nrdIB {ECO:0000313|EMBL:BAR77898.1};
+GN   OrderedLocusNames=GBAA_1369 {ECO:0000313|EMBL:AAT30464.1};
+GN   ORFNames=BASH2_04491 {ECO:0000313|EMBL:BAR77898.1},
+GN   BF27_607 {ECO:0000313|EMBL:AJH88837.1};
+OS   Bacillus anthracis.
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus;
+OC   Bacillus cereus group.
+OX   NCBI_TaxID=1392 {ECO:0000313|Proteomes:UP000000594};
+RN   [1] {ECO:0000313|EMBL:AAT30464.1, ECO:0000313|Proteomes:UP000000594}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Ames Ancestor {ECO:0000313|EMBL:AAT30464.1}, and
+RC   Ames ancestor {ECO:0000313|Proteomes:UP000000594};
+RX   PubMed=18952800; DOI=10.1128/JB.01347-08;
+RA   Ravel J., Jiang L., Stanley S.T., Wilson M.R., Decker R.S., Read T.D.,
+RA   Worsham P., Keim P.S., Salzberg S.L., Fraser-Liggett C.M., Rasko D.A.;
+RT   "The complete genome sequence of Bacillus anthracis Ames 'Ancestor'.";
+RL   J. Bacteriol. 191:445-446(2009).
+RN   [2] {ECO:0000213|PDB:2XOD, ECO:0000213|PDB:2XOE}
+RP   X-RAY CRYSTALLOGRAPHY (0.96 ANGSTROMS) IN COMPLEX WITH FMN.
+RX   PubMed=20831589; DOI=10.1111/j.1742-4658.2010.07815.x;
+RA   Johansson R., Torrents E., Lundin D., Sprenger J., Sahlin M.,
+RA   Sjoberg B.M., Logan D.T.;
+RT   "High-resolution crystal structures of the flavoprotein NrdI in
+RT   oxidized and reduced states--an unusual flavodoxin. Structural
+RT   biology.";
+RL   FEBS J. 277:4265-4277(2010).
+RN   [3] {ECO:0000313|EMBL:AJH88837.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=2002013094 {ECO:0000313|EMBL:AJH88837.1};
+RA   Davenport K.W., Bishop-Lilly K.A., Broomall S.M., Chain P.S.,
+RA   Chertkov O., Coyne S.R., Daligault H.E., Erkkila T., Frey K.G.,
+RA   Gibbons H.S., Gu W., Jaissle J., Johnson S.L., Koroleva G.I.,
+RA   Ladner J.T., Lo C.-C., Minogue T.D., Munk C., Palacios G.F.,
+RA   Redden C.L., Rosenzweig C.N., Scholz M.B., Teshima H., Xu Y.;
+RL   Submitted (NOV-2014) to the EMBL/GenBank/DDBJ databases.
+RN   [4] {ECO:0000313|EMBL:BAR77898.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=Shikan-NIID {ECO:0000313|EMBL:BAR77898.1};
+RA   Okutani A., Morikawa S., Inoue S.;
+RT   "Bacillus anthracis whole genome sequence.";
+RL   Submitted (MAR-2015) to the EMBL/GenBank/DDBJ databases.
+CC   -!- FUNCTION: Probably involved in ribonucleotide reductase function.
+CC       {ECO:0000256|HAMAP-Rule:MF_00128, ECO:0000256|SAAS:SAAS00020457}.
+CC   -!- SIMILARITY: Belongs to the NrdI family. {ECO:0000256|HAMAP-
+CC       Rule:MF_00128}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE017334; AAT30464.1; -; Genomic_DNA.
+DR   EMBL; CP009902; AJH88837.1; -; Genomic_DNA.
+DR   EMBL; AP014833; BAR77898.1; -; Genomic_DNA.
+DR   RefSeq; WP_000959450.1; NZ_KN050651.1.
+DR   PDB; 2XOD; X-ray; 0.96 A; A=1-119.
+DR   PDB; 2XOE; X-ray; 1.40 A; A=1-119.
+DR   PDBsum; 2XOD; -.
+DR   PDBsum; 2XOE; -.
+DR   STRING; 198094.BA_1369; -.
+DR   DNASU; 1088653; -.
+DR   EnsemblBacteria; AAP25313; AAP25313; BA_1369.
+DR   EnsemblBacteria; AAT30464; AAT30464; GBAA_1369.
+DR   EnsemblBacteria; AAT53586; AAT53586; BAS1266.
+DR   EnsemblBacteria; AIF55708; AIF55708; HYU01_06950.
+DR   EnsemblBacteria; AIK07440; AIK07440; DH23_1314.
+DR   EnsemblBacteria; AIK33336; AIK33336; DJ48_2854.
+DR   EnsemblBacteria; AIK52099; AIK52099; DJ45_4527.
+DR   EnsemblBacteria; AIK60536; AIK60536; DJ44_5215.
+DR   EnsemblBacteria; AIM05261; AIM05261; BACvac02_1469.
+DR   EnsemblBacteria; AIM10670; AIM10670; BAHan_1503.
+DR   EnsemblBacteria; AJA85740; AJA85740; RT54_06965.
+DR   EnsemblBacteria; KFJ79797; KFJ79797; DJ42_1625.
+DR   EnsemblBacteria; KFL67536; KFL67536; DJ49_3611.
+DR   EnsemblBacteria; KFL69832; KFL69832; DJ43_601.
+DR   EnsemblBacteria; KGZ41440; KGZ41440; NX97_27050.
+DR   EnsemblBacteria; KGZ43597; KGZ43597; OY21_25940.
+DR   EnsemblBacteria; KGZ48004; KGZ48004; OY22_12930.
+DR   EnsemblBacteria; KGZ58260; KGZ58260; OY23_25960.
+DR   EnsemblBacteria; KGZ59206; KGZ59206; OY24_25925.
+DR   EnsemblBacteria; KGZ60155; KGZ60155; OY25_24860.
+DR   EnsemblBacteria; KGZ83561; KGZ83561; OY26_09750.
+DR   EnsemblBacteria; KGZ84317; KGZ84317; OY28_14975.
+DR   EnsemblBacteria; KGZ86136; KGZ86136; OY27_06220.
+DR   EnsemblBacteria; KGZ91946; KGZ91946; OY29_25460.
+DR   EnsemblBacteria; KGZ92700; KGZ92700; OY32_25955.
+DR   EnsemblBacteria; KGZ95989; KGZ95989; OY30_15720.
+DR   EnsemblBacteria; KHA09421; KHA09421; OY34_22120.
+DR   EnsemblBacteria; KHA10237; KHA10237; OY35_21150.
+DR   EnsemblBacteria; KHA23484; KHA23484; OY36_10640.
+DR   EnsemblBacteria; KHA26697; KHA26697; OY38_16375.
+DR   EnsemblBacteria; KHA27285; KHA27285; OY37_15595.
+DR   EnsemblBacteria; KHA33229; KHA33229; OY39_24785.
+DR   EnsemblBacteria; KHA39904; KHA39904; OY40_16330.
+DR   EnsemblBacteria; KHG50384; KHG50384; OY31_17890.
+DR   EnsemblBacteria; KHG57599; KHG57599; OY33_04395.
+DR   EnsemblBacteria; KHG62565; KHG62565; OY20_09745.
+DR   KEGG; ban:BA_1369; -.
+DR   KEGG; banh:HYU01_06950; -.
+DR   KEGG; bar:GBAA_1369; -.
+DR   KEGG; bat:BAS1266; -.
+DR   HOGENOM; HOG000246177; -.
+DR   KO; K03647; -.
+DR   OMA; NVKRFIN; -.
+DR   OrthoDB; EOG6W19RD; -.
+DR   BioCyc; ANTHRA:NRDI-MONOMER; -.
+DR   BioCyc; BANT260799:GJAJ-1340-MONOMER; -.
+DR   BioCyc; BANT261594:GJ7F-1397-MONOMER; -.
+DR   Proteomes; UP000000594; Chromosome.
+DR   Proteomes; UP000031920; Chromosome.
+DR   GO; GO:0000166; F:nucleotide binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.50.360; -; 1.
+DR   HAMAP; MF_00128; NrdI; 1.
+DR   InterPro; IPR029039; Flavoprotein-like.
+DR   InterPro; IPR020852; RNR_Ib_NrdI_bac.
+DR   InterPro; IPR004465; RNR_NrdI.
+DR   Pfam; PF07972; Flavodoxin_NdrI; 1.
+DR   PIRSF; PIRSF005087; NrdI; 1.
+DR   SUPFAM; SSF52218; SSF52218; 1.
+DR   TIGRFAMs; TIGR00333; nrdI; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2XOD, ECO:0000213|PDB:2XOE};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000594};
+KW   Flavoprotein {ECO:0000213|PDB:2XOD, ECO:0000213|PDB:2XOE};
+KW   FMN {ECO:0000213|PDB:2XOD, ECO:0000213|PDB:2XOE};
+KW   Nucleotide-binding {ECO:0000213|PDB:2XOD, ECO:0000213|PDB:2XOE};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000594}.
+FT   NP_BIND       7     12       FMN. {ECO:0000213|PDB:2XOD,
+FT                                ECO:0000213|PDB:2XOE}.
+FT   NP_BIND      42     46       FMN. {ECO:0000213|PDB:2XOD,
+FT                                ECO:0000213|PDB:2XOE}.
+FT   NP_BIND      69     79       FMN. {ECO:0000213|PDB:2XOD,
+FT                                ECO:0000213|PDB:2XOE}.
+SQ   SEQUENCE   119 AA;  13449 MW;  66AD29E1044F75E3 CRC64;
+     MLVAYDSMTG NVKRFIHKLN MPAVQIGEDL VIDEDFILIT YTTGFGNVPE RVLEFLERNN
+     EKLKGVSASG NRNWGDMFGA SADKISAKYE VPIVSKFELS GTNNDVEYFK ERVREIATH
+//

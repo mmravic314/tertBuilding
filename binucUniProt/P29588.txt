@@ -1,0 +1,140 @@
+ID   GTMR_METTF              Reviewed;         221 AA.
+AC   P29588;
+DT   01-APR-1993, integrated into UniProtKB/Swiss-Prot.
+DT   01-APR-1993, sequence version 1.
+DT   27-MAY-2015, entry version 100.
+DE   RecName: Full=G/T mismatches repair enzyme;
+DE            EC=3.2.2.-;
+DE   AltName: Full=Mismatch glycosylase;
+DE            Short=MIG;
+DE   AltName: Full=Thymine-DNA glycosylase;
+OS   Methanothermobacter thermautotrophicus (Methanobacterium
+OS   thermoformicicum).
+OG   Plasmid pFV1.
+OC   Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales;
+OC   Methanobacteriaceae; Methanothermobacter.
+OX   NCBI_TaxID=145262;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=DSM 3848 / THF;
+RX   PubMed=1336177; DOI=10.1093/nar/20.24.6501;
+RA   Noelling J., van Eeden F.J.M., Eggen R.I.L., de Vos W.M.;
+RT   "Modular organization of related Archaeal plasmids encoding different
+RT   restriction-modification systems in Methanobacterium
+RT   thermoformicicum.";
+RL   Nucleic Acids Res. 20:6501-6507(1992).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS), AND MUTAGENESIS OF GLU-42;
+RP   ARG-47; TYR-126; ASP-144 AND ASN-146.
+RX   PubMed=11786018; DOI=10.1006/jmbi.2001.5264;
+RA   Mol C.D., Arvai A.S., Begley T.J., Cunningham R.P., Tainer J.A.;
+RT   "Structure and activity of a thermostable thymine-DNA glycosylase:
+RT   evidence for base twisting to remove mismatched normal DNA bases.";
+RL   J. Mol. Biol. 315:373-384(2002).
+CC   -!- FUNCTION: Could act in DNA repair. Restriction methylase M.mthtI,
+CC       which is encoded by this plasmid, generates 5-methylcytosine which
+CC       is, especially under thermophilic conditions, subject to
+CC       deamination resulting in G-T mismatches. This protein could
+CC       correct these mismatches.
+CC   -!- COFACTOR:
+CC       Name=[4Fe-4S] cluster; Xref=ChEBI:CHEBI:49883;
+CC         Evidence={ECO:0000250};
+CC       Note=Binds 1 [4Fe-4S] cluster. The cluster does not appear to play
+CC       a role in catalysis, but is probably involved in the proper
+CC       positioning of the enzyme along the DNA strand. {ECO:0000250};
+CC   -!- SIMILARITY: Belongs to the Nth/MutY family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 HhH domain. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X68366; CAA48433.1; -; Genomic_DNA.
+DR   PIR; S30312; S30312.
+DR   RefSeq; NP_039762.1; NC_001336.1.
+DR   RefSeq; WP_010889848.1; NC_001336.1.
+DR   PDB; 1KEA; X-ray; 2.00 A; A=1-221.
+DR   PDBsum; 1KEA; -.
+DR   ProteinModelPortal; P29588; -.
+DR   SMR; P29588; 3-219.
+DR   REBASE; 6523; V.MthTI.
+DR   GeneID; 3355209; -.
+DR   KEGG; pg:3355209; -.
+DR   KO; K03575; -.
+DR   EvolutionaryTrace; P29588; -.
+DR   GO; GO:0051539; F:4 iron, 4 sulfur cluster binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003906; F:DNA-(apurinic or apyrimidinic site) lyase activity; IEA:InterPro.
+DR   GO; GO:0016798; F:hydrolase activity, acting on glycosyl bonds; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006284; P:base-excision repair; IEA:InterPro.
+DR   Gene3D; 1.10.1670.10; -; 1.
+DR   Gene3D; 1.10.340.30; -; 1.
+DR   InterPro; IPR011257; DNA_glycosylase.
+DR   InterPro; IPR004036; Endonuclease-III-like_CS2.
+DR   InterPro; IPR004035; Endouclease-III_FeS-bd_BS.
+DR   InterPro; IPR003651; Endouclease3_FeS-loop_motif.
+DR   InterPro; IPR003265; HhH-GPD_domain.
+DR   InterPro; IPR000445; HhH_motif.
+DR   InterPro; IPR023170; HTH_base_excis_C.
+DR   InterPro; IPR005759; Nth.
+DR   Pfam; PF00633; HHH; 1.
+DR   Pfam; PF00730; HhH-GPD; 1.
+DR   PIRSF; PIRSF001435; Nth; 1.
+DR   SMART; SM00478; ENDO3c; 1.
+DR   SMART; SM00525; FES; 1.
+DR   SUPFAM; SSF48150; SSF48150; 1.
+DR   PROSITE; PS00764; ENDONUCLEASE_III_1; 1.
+DR   PROSITE; PS01155; ENDONUCLEASE_III_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; 4Fe-4S; DNA damage; DNA repair; DNA-binding;
+KW   Glycosidase; Hydrolase; Iron; Iron-sulfur; Metal-binding; Plasmid.
+FT   CHAIN         1    221       G/T mismatches repair enzyme.
+FT                                /FTId=PRO_0000102237.
+FT   DOMAIN      105    133       HhH.
+FT   METAL       197    197       Iron-sulfur (4Fe-4S).
+FT   METAL       204    204       Iron-sulfur (4Fe-4S).
+FT   METAL       207    207       Iron-sulfur (4Fe-4S).
+FT   METAL       213    213       Iron-sulfur (4Fe-4S).
+FT   MUTAGEN      42     42       E->D: 5-fold lower activity.
+FT                                {ECO:0000269|PubMed:11786018}.
+FT   MUTAGEN      42     42       E->S: 25-fold lower activity.
+FT                                {ECO:0000269|PubMed:11786018}.
+FT   MUTAGEN      47     47       R->A: 15-fold lower activity.
+FT                                {ECO:0000269|PubMed:11786018}.
+FT   MUTAGEN     126    126       Y->F: 60-fold lower activity.
+FT                                {ECO:0000269|PubMed:11786018}.
+FT   MUTAGEN     126    126       Y->K: No activity.
+FT                                {ECO:0000269|PubMed:11786018}.
+FT   MUTAGEN     126    126       Y->S: Almost no activity.
+FT                                {ECO:0000269|PubMed:11786018}.
+FT   MUTAGEN     144    144       D->A: 15-fold lower activity.
+FT                                {ECO:0000269|PubMed:11786018}.
+FT   MUTAGEN     144    144       D->N: No activity.
+FT                                {ECO:0000269|PubMed:11786018}.
+FT   MUTAGEN     146    146       N->E,H: Almost no activity.
+FT                                {ECO:0000269|PubMed:11786018}.
+FT   HELIX         5     22       {ECO:0000244|PDB:1KEA}.
+FT   HELIX        28     31       {ECO:0000244|PDB:1KEA}.
+FT   HELIX        35     44       {ECO:0000244|PDB:1KEA}.
+FT   TURN         45     47       {ECO:0000244|PDB:1KEA}.
+FT   HELIX        50     63       {ECO:0000244|PDB:1KEA}.
+FT   HELIX        67     72       {ECO:0000244|PDB:1KEA}.
+FT   HELIX        75     81       {ECO:0000244|PDB:1KEA}.
+FT   HELIX        83     85       {ECO:0000244|PDB:1KEA}.
+FT   HELIX        88    106       {ECO:0000244|PDB:1KEA}.
+FT   HELIX       114    118       {ECO:0000244|PDB:1KEA}.
+FT   HELIX       125    134       {ECO:0000244|PDB:1KEA}.
+FT   HELIX       145    155       {ECO:0000244|PDB:1KEA}.
+FT   HELIX       157    159       {ECO:0000244|PDB:1KEA}.
+FT   HELIX       167    176       {ECO:0000244|PDB:1KEA}.
+FT   HELIX       182    195       {ECO:0000244|PDB:1KEA}.
+FT   STRAND      199    201       {ECO:0000244|PDB:1KEA}.
+FT   HELIX       204    206       {ECO:0000244|PDB:1KEA}.
+FT   TURN        208    212       {ECO:0000244|PDB:1KEA}.
+FT   HELIX       214    217       {ECO:0000244|PDB:1KEA}.
+SQ   SEQUENCE   221 AA;  25401 MW;  D085FCEE1DDC4B62 CRC64;
+     MDDATNKKRK VFVSTILTFW NTDRRDFPWR HTRDPYVILI TEILLRRTTA GHVKKIYDKF
+     FVKYKCFEDI LKTPKSEIAK DIKEIGLSNQ RAEQLKELAR VVINDYGGRV PRNRKAILDL
+     PGVGKYTCAA VMCLAFGKKA AMVDANFVRV INRYFGGSYE NLNYNHKALW ELAETLVPGG
+     KCRDFNLGLM DFSAIICAPR KPKCEKCGMS KLCSYYEKCS T
+//

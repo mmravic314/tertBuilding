@@ -1,0 +1,380 @@
+ID   NHRF3_MOUSE             Reviewed;         519 AA.
+AC   Q9JIL4; Q8CDP5; Q8R4G2; Q9CQ72;
+DT   16-AUG-2005, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2000, sequence version 1.
+DT   22-JUL-2015, entry version 124.
+DE   RecName: Full=Na(+)/H(+) exchange regulatory cofactor NHE-RF3;
+DE            Short=NHERF-3;
+DE   AltName: Full=CFTR-associated protein of 70 kDa;
+DE   AltName: Full=Na(+)/H(+) exchanger regulatory factor 3;
+DE   AltName: Full=Na/Pi cotransporter C-terminal-associated protein 1;
+DE            Short=NaPi-Cap1;
+DE   AltName: Full=PDZ domain-containing protein 1;
+DE   AltName: Full=Sodium-hydrogen exchanger regulatory factor 3;
+GN   Name=Pdzk1; Synonyms=Cap70, Nherf3;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], PROTEIN SEQUENCE OF 351-376 AND 467-485,
+RP   FUNCTION, SUBCELLULAR LOCATION, TISSUE SPECIFICITY, AND INTERACTION
+RP   WITH CFTR.
+RX   PubMed=11051556; DOI=10.1016/S0092-8674(00)00096-9;
+RA   Wang S., Yue H., Derin R.B., Guggino W.B., Li M.;
+RT   "Accessory protein facilitated CFTR-CFTR interaction, a molecular
+RT   mechanism to potentiate the chloride channel activity.";
+RL   Cell 103:169-179(2000).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA], FUNCTION, AND TISSUE SPECIFICITY.
+RX   PubMed=12556478; DOI=10.1128/MCB.23.4.1175-1180.2003;
+RA   Kocher O., Pal R., Roberts M., Cirovic C., Gilchrist A.;
+RT   "Targeted disruption of the PDZK1 gene by homologous recombination.";
+RL   Mol. Cell. Biol. 23:1175-1180(2003).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=C57BL/6J; TISSUE=Testis;
+RX   PubMed=16141072; DOI=10.1126/science.1112014;
+RA   Carninci P., Kasukawa T., Katayama S., Gough J., Frith M.C., Maeda N.,
+RA   Oyama R., Ravasi T., Lenhard B., Wells C., Kodzius R., Shimokawa K.,
+RA   Bajic V.B., Brenner S.E., Batalov S., Forrest A.R., Zavolan M.,
+RA   Davis M.J., Wilming L.G., Aidinis V., Allen J.E.,
+RA   Ambesi-Impiombato A., Apweiler R., Aturaliya R.N., Bailey T.L.,
+RA   Bansal M., Baxter L., Beisel K.W., Bersano T., Bono H., Chalk A.M.,
+RA   Chiu K.P., Choudhary V., Christoffels A., Clutterbuck D.R.,
+RA   Crowe M.L., Dalla E., Dalrymple B.P., de Bono B., Della Gatta G.,
+RA   di Bernardo D., Down T., Engstrom P., Fagiolini M., Faulkner G.,
+RA   Fletcher C.F., Fukushima T., Furuno M., Futaki S., Gariboldi M.,
+RA   Georgii-Hemming P., Gingeras T.R., Gojobori T., Green R.E.,
+RA   Gustincich S., Harbers M., Hayashi Y., Hensch T.K., Hirokawa N.,
+RA   Hill D., Huminiecki L., Iacono M., Ikeo K., Iwama A., Ishikawa T.,
+RA   Jakt M., Kanapin A., Katoh M., Kawasawa Y., Kelso J., Kitamura H.,
+RA   Kitano H., Kollias G., Krishnan S.P., Kruger A., Kummerfeld S.K.,
+RA   Kurochkin I.V., Lareau L.F., Lazarevic D., Lipovich L., Liu J.,
+RA   Liuni S., McWilliam S., Madan Babu M., Madera M., Marchionni L.,
+RA   Matsuda H., Matsuzawa S., Miki H., Mignone F., Miyake S., Morris K.,
+RA   Mottagui-Tabar S., Mulder N., Nakano N., Nakauchi H., Ng P.,
+RA   Nilsson R., Nishiguchi S., Nishikawa S., Nori F., Ohara O.,
+RA   Okazaki Y., Orlando V., Pang K.C., Pavan W.J., Pavesi G., Pesole G.,
+RA   Petrovsky N., Piazza S., Reed J., Reid J.F., Ring B.Z., Ringwald M.,
+RA   Rost B., Ruan Y., Salzberg S.L., Sandelin A., Schneider C.,
+RA   Schoenbach C., Sekiguchi K., Semple C.A., Seno S., Sessa L., Sheng Y.,
+RA   Shibata Y., Shimada H., Shimada K., Silva D., Sinclair B.,
+RA   Sperling S., Stupka E., Sugiura K., Sultana R., Takenaka Y., Taki K.,
+RA   Tammoja K., Tan S.L., Tang S., Taylor M.S., Tegner J., Teichmann S.A.,
+RA   Ueda H.R., van Nimwegen E., Verardo R., Wei C.L., Yagi K.,
+RA   Yamanishi H., Zabarovsky E., Zhu S., Zimmer A., Hide W., Bult C.,
+RA   Grimmond S.M., Teasdale R.D., Liu E.T., Brusic V., Quackenbush J.,
+RA   Wahlestedt C., Mattick J.S., Hume D.A., Kai C., Sasaki D., Tomaru Y.,
+RA   Fukuda S., Kanamori-Katayama M., Suzuki M., Aoki J., Arakawa T.,
+RA   Iida J., Imamura K., Itoh M., Kato T., Kawaji H., Kawagashira N.,
+RA   Kawashima T., Kojima M., Kondo S., Konno H., Nakano K., Ninomiya N.,
+RA   Nishio T., Okada M., Plessy C., Shibata K., Shiraki T., Suzuki S.,
+RA   Tagami M., Waki K., Watahiki A., Okamura-Oho Y., Suzuki H., Kawai J.,
+RA   Hayashizaki Y.;
+RT   "The transcriptional landscape of the mammalian genome.";
+RL   Science 309:1559-1563(2005).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=FVB/N; TISSUE=Kidney;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   INTERACTION WITH SLC17A1.
+RX   PubMed=11099500; DOI=10.1074/jbc.M008745200;
+RA   Gisler S.M., Stagljar I., Traebert M., Bacic D., Biber J., Murer H.;
+RT   "Interaction of the type IIa Na/Pi-cotransporter with PDZ proteins.";
+RL   J. Biol. Chem. 276:9206-9213(2001).
+RN   [6]
+RP   FUNCTION, AND INTERACTION WITH AKAP2; SLC22A12; SLC22A4; SLC26A6;
+RP   SLC9A3R1; SLC9A3R2 AND PDZK1IP1.
+RX   PubMed=14531806; DOI=10.1046/j.1523-1755.2003.00266.x;
+RA   Gisler S.M., Pribanic S., Bacic D., Forrer P., Gantenbein A.,
+RA   Sabourin L.A., Tsuji A., Zhao Z.-S., Manser E., Biber J., Murer H.;
+RT   "PDZK1: I. a major scaffolder in brush borders of proximal tubular
+RT   cells.";
+RL   Kidney Int. 64:1733-1745(2003).
+RN   [7]
+RP   FUNCTION, AND INTERACTION WITH SLC22A5.
+RX   PubMed=15523054; DOI=10.1124/mol.104.002212;
+RA   Kato Y., Sai Y., Yoshida K., Watanabe C., Hirata T., Tsuji A.;
+RT   "PDZK1 directly regulates the function of organic cation/carnitine
+RT   transporter OCTN2.";
+RL   Mol. Pharmacol. 67:734-743(2005).
+RN   [8]
+RP   FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=16141316; DOI=10.1073/pnas.0506578102;
+RA   Thomson R.B., Wang T., Thomson B.R., Tarrats L., Girardi A.,
+RA   Mentone S., Soleimani M., Kocher O., Aronson P.S.;
+RT   "Role of PDZK1 in membrane expression of renal brush border ion
+RT   exchangers.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 102:13331-13336(2005).
+RN   [9]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-488; SER-489; SER-492
+RP   AND SER-514, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE
+RP   ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=17242355; DOI=10.1073/pnas.0609836104;
+RA   Villen J., Beausoleil S.A., Gerber S.A., Gygi S.P.;
+RT   "Large-scale phosphorylation analysis of mouse liver.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 104:1488-1493(2007).
+RN   [10]
+RP   STRUCTURE BY NMR OF 242-331.
+RG   RIKEN structural genomics initiative (RSGI);
+RT   "Solution structure of the third PDZ domain of PDZ domain containing
+RT   protein 1.";
+RL   Submitted (DEC-2006) to the PDB data bank.
+RN   [11]
+RP   X-RAY CRYSTALLOGRAPHY (1.80 ANGSTROMS) OF 7-106, INTERACTION WITH
+RP   SCARB1, FUNCTION, AND MUTAGENESIS OF LYS-14 AND TYR-20.
+RX   PubMed=20739281; DOI=10.1074/jbc.M110.164418;
+RA   Kocher O., Birrane G., Tsukamoto K., Fenske S., Yesilaltay A., Pal R.,
+RA   Daniels K., Ladias J.A., Krieger M.;
+RT   "In vitro and in vivo analysis of the binding of the C terminus of the
+RT   HDL receptor scavenger receptor class B, type I (SR-BI), to the PDZ1
+RT   domain of its adaptor protein PDZK1.";
+RL   J. Biol. Chem. 285:34999-35010(2010).
+RN   [12]
+RP   X-RAY CRYSTALLOGRAPHY (1.30 ANGSTROMS) OF 238-323 IN COMPLEX WITH
+RP   SCARB1, INTERACTION WITH SCARB1, MUTAGENESIS OF TYR-20 AND TYR-253,
+RP   AND FUNCTION.
+RX   PubMed=21602281; DOI=10.1074/jbc.M111.242362;
+RA   Kocher O., Birrane G., Yesilaltay A., Shechter S., Pal R., Daniels K.,
+RA   Krieger M.;
+RT   "Identification of the PDZ3 domain of the adaptor protein PDZK1 as a
+RT   second, physiologically functional binding site for the C terminus of
+RT   the high density lipoprotein receptor scavenger receptor class B type
+RT   I.";
+RL   J. Biol. Chem. 286:25171-25186(2011).
+RN   [13]
+RP   X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS) OF 7-106 IN COMPLEX WITH PTGIR,
+RP   AND INTERACTION WITH PTGIR.
+RX   PubMed=23457445; DOI=10.1371/journal.pone.0053819;
+RA   Birrane G., Mulvaney E.P., Pal R., Kinsella B.T., Kocher O.;
+RT   "Molecular analysis of the prostacyclin receptor's interaction with
+RT   the PDZ1 domain of its adaptor protein PDZK1.";
+RL   PLoS ONE 8:E53819-E53819(2013).
+CC   -!- FUNCTION: A scaffold protein that connects plasma membrane
+CC       proteins and regulatory components, regulating their surface
+CC       expression in epithelial cells apical domains. May be involved in
+CC       the coordination of a diverse range of regulatory processes for
+CC       ion transport and second messenger cascades. In complex with
+CC       SLC9A3R1, may cluster proteins that are functionally dependent in
+CC       a mutual fashion and modulate the trafficking and the activity of
+CC       the associated membrane proteins. May play a role in the cellular
+CC       mechanisms associated with multidrug resistance through its
+CC       interaction with ABCC2 and PDZK1IP1. May potentiate the CFTR
+CC       chloride channel activity (By similarity). Required for normal
+CC       cell-surface expression of SCARB1. Plays a role in maintaining
+CC       normal plasma cholesterol levels via its effects on SCARB1. Plays
+CC       a role in the normal localization and function of the chloride-
+CC       anion exchanger SLC26A6 to the plasma membrane in the brush border
+CC       of the proximal tubule of the kidney. May be involved in the
+CC       regulation of proximal tubular Na(+)-dependent inorganic phosphate
+CC       cotransport therefore playing an important role in tubule
+CC       function. {ECO:0000250, ECO:0000269|PubMed:11051556,
+CC       ECO:0000269|PubMed:12556478, ECO:0000269|PubMed:14531806,
+CC       ECO:0000269|PubMed:15523054, ECO:0000269|PubMed:16141316,
+CC       ECO:0000269|PubMed:20739281, ECO:0000269|PubMed:21602281}.
+CC   -!- SUBUNIT: Interacts with PDZK1IP1 and ABCC2. Binds to the C-
+CC       terminal region of SLC26A3. Interacts (via C-terminal PDZ domain)
+CC       with SLC26A6 (via C-terminal domain). Interacts (via C-terminal
+CC       PDZ domain) with SLC9A3 (via C-terminal domain) (By similarity).
+CC       Component of a complex, composed of PDZK1, SYNGAP1, KLHL17 and
+CC       NMDA receptors. Interacts (via PDZ1 domain) directly with KLHL17;
+CC       the interaction is important for integrity of actin cytoskeleton
+CC       structures in neurons (By similarity). Forms a heterodimeric
+CC       complex with SLC9A3R1. Interacts with AKAP2, BCR, CFTR, SLCO1A1,
+CC       SLC22A12, SLC22A4, SLC22A5, SLC26A6, SLC9A3R2 and SLC17A1.
+CC       Interacts (via the first PDZ domain) with PTGIR (via non-
+CC       isoprenylated C-terminus). Interacts (via PDZ domains 1 and 3)
+CC       with SCARB1 (C-terminal domain). {ECO:0000250,
+CC       ECO:0000269|PubMed:11051556, ECO:0000269|PubMed:11099500,
+CC       ECO:0000269|PubMed:14531806, ECO:0000269|PubMed:15523054,
+CC       ECO:0000269|PubMed:20739281, ECO:0000269|PubMed:21602281,
+CC       ECO:0000269|PubMed:23457445}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm. Membrane; Peripheral membrane
+CC       protein. Cell membrane. Note=Localized in the brush border
+CC       membrane of renal proximal tubule cells. Associated with
+CC       peripheral membranes. Localizes to the apical compartment of
+CC       proximal cells and to sinusoidal liver membranes.
+CC   -!- TISSUE SPECIFICITY: Expressed in kidney, liver, small intestine.
+CC       brain, lung, and testis (at protein level).
+CC       {ECO:0000269|PubMed:11051556, ECO:0000269|PubMed:12556478}.
+CC   -!- DOMAIN: The PDZ 2 and 3 domains seem to be involved in the
+CC       interaction with SLC26A3. {ECO:0000250}.
+CC   -!- DOMAIN: Interaction with the C-terminus of CFTR could be mediated
+CC       through independent binding of PDZ 1, 3 and 4 domains.
+CC   -!- DOMAIN: The PDZ 1 and 3 domains seem to be involved in the
+CC       interaction with SLCO1A1. {ECO:0000250}.
+CC   -!- DOMAIN: The PDZ 1 domain interacts with BCR. {ECO:0000250}.
+CC   -!- DOMAIN: The PDZ 2 and 4 domains do not interact with the C-
+CC       terminal region of SCARB1.
+CC   -!- MISCELLANEOUS: Disruption of the gene was not associated with
+CC       abnormal growth and development or redistribution of interacting
+CC       proteins. However, a modulation of expression of selective ion
+CC       channels in the kidney, as well as increased serum cholesterol
+CC       levels were observed.
+CC   -!- SIMILARITY: Belongs to the NHER family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 4 PDZ (DHR) domains. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00143}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAL84634.1; Type=Frameshift; Positions=229, 261; Evidence={ECO:0000305};
+CC       Sequence=BAC26605.1; Type=Frameshift; Positions=519; Note=The frameshift causes a read through of the stop codon.; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF474247; AAL84634.1; ALT_FRAME; mRNA.
+DR   EMBL; AF220100; AAF73863.1; -; mRNA.
+DR   EMBL; AK006269; BAB24493.1; -; mRNA.
+DR   EMBL; AK029752; BAC26598.1; -; mRNA.
+DR   EMBL; AK029764; BAC26605.1; ALT_FRAME; mRNA.
+DR   EMBL; AK012070; BAB28007.1; -; mRNA.
+DR   EMBL; AK014879; BAB29600.1; -; mRNA.
+DR   EMBL; BC013512; AAH13512.1; -; mRNA.
+DR   CCDS; CCDS17649.1; -.
+DR   RefSeq; NP_001139473.1; NM_001146001.1.
+DR   RefSeq; NP_067492.2; NM_021517.2.
+DR   RefSeq; XP_006501896.1; XM_006501833.1.
+DR   RefSeq; XP_011238480.1; XM_011240178.1.
+DR   UniGene; Mm.489677; -.
+DR   PDB; 2D90; NMR; -; A=242-330.
+DR   PDB; 2EDZ; NMR; -; A=1-107.
+DR   PDB; 3NGH; X-ray; 1.80 A; A/B=7-106.
+DR   PDB; 3R68; X-ray; 1.30 A; A=238-323.
+DR   PDB; 3R69; X-ray; 1.50 A; A/B=241-322.
+DR   PDB; 4F8K; X-ray; 1.70 A; A/B=7-106.
+DR   PDBsum; 2D90; -.
+DR   PDBsum; 2EDZ; -.
+DR   PDBsum; 3NGH; -.
+DR   PDBsum; 3R68; -.
+DR   PDBsum; 3R69; -.
+DR   PDBsum; 4F8K; -.
+DR   ProteinModelPortal; Q9JIL4; -.
+DR   SMR; Q9JIL4; 1-107, 132-492.
+DR   BioGrid; 208488; 2.
+DR   IntAct; Q9JIL4; 6.
+DR   MINT; MINT-148595; -.
+DR   STRING; 10090.ENSMUSP00000058936; -.
+DR   PhosphoSite; Q9JIL4; -.
+DR   MaxQB; Q9JIL4; -.
+DR   PaxDb; Q9JIL4; -.
+DR   PRIDE; Q9JIL4; -.
+DR   GeneID; 59020; -.
+DR   KEGG; mmu:59020; -.
+DR   UCSC; uc008qoi.2; mouse.
+DR   CTD; 5174; -.
+DR   MGI; MGI:1928901; Pdzk1.
+DR   eggNOG; NOG315208; -.
+DR   HOGENOM; HOG000113782; -.
+DR   HOVERGEN; HBG082115; -.
+DR   InParanoid; Q9JIL4; -.
+DR   PhylomeDB; Q9JIL4; -.
+DR   TreeFam; TF350449; -.
+DR   EvolutionaryTrace; Q9JIL4; -.
+DR   NextBio; 314580; -.
+DR   PRO; PR:Q9JIL4; -.
+DR   Proteomes; UP000000589; Unplaced.
+DR   Bgee; Q9JIL4; -.
+DR   CleanEx; MM_PDZK1; -.
+DR   ExpressionAtlas; Q9JIL4; baseline and differential.
+DR   Genevisible; Q9JIL4; MM.
+DR   GO; GO:0031526; C:brush border membrane; IDA:UniProtKB.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0070062; C:extracellular exosome; ISO:MGI.
+DR   GO; GO:0005886; C:plasma membrane; IDA:UniProtKB.
+DR   GO; GO:0030165; F:PDZ domain binding; ISO:MGI.
+DR   GO; GO:0015879; P:carnitine transport; ISO:MGI.
+DR   GO; GO:0090002; P:establishment of protein localization to plasma membrane; IMP:UniProtKB.
+DR   GO; GO:0034767; P:positive regulation of ion transmembrane transport; ISO:MGI.
+DR   GO; GO:0090314; P:positive regulation of protein targeting to membrane; IMP:UniProtKB.
+DR   GO; GO:0044070; P:regulation of anion transport; IMP:UniProtKB.
+DR   GO; GO:0006810; P:transport; ISO:MGI.
+DR   Gene3D; 2.30.42.10; -; 4.
+DR   InterPro; IPR001478; PDZ.
+DR   Pfam; PF00595; PDZ; 4.
+DR   SMART; SM00228; PDZ; 4.
+DR   SUPFAM; SSF50156; SSF50156; 4.
+DR   PROSITE; PS50106; PDZ; 4.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cell membrane; Complete proteome; Cytoplasm;
+KW   Direct protein sequencing; Membrane; Phosphoprotein;
+KW   Reference proteome; Repeat.
+FT   CHAIN         1    519       Na(+)/H(+) exchange regulatory cofactor
+FT                                NHE-RF3.
+FT                                /FTId=PRO_0000058288.
+FT   DOMAIN        9     90       PDZ 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00143}.
+FT   DOMAIN      128    215       PDZ 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00143}.
+FT   DOMAIN      243    323       PDZ 3. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00143}.
+FT   DOMAIN      378    458       PDZ 4. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00143}.
+FT   MOD_RES     148    148       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:Q5T2W1}.
+FT   MOD_RES     488    488       Phosphothreonine.
+FT                                {ECO:0000269|PubMed:17242355}.
+FT   MOD_RES     489    489       Phosphoserine.
+FT                                {ECO:0000269|PubMed:17242355}.
+FT   MOD_RES     492    492       Phosphoserine.
+FT                                {ECO:0000269|PubMed:17242355}.
+FT   MOD_RES     514    514       Phosphoserine.
+FT                                {ECO:0000269|PubMed:17242355}.
+FT   MUTAGEN      14     14       K->A: Impairs interaction of the first
+FT                                PDZ domain with SCARB1.
+FT                                {ECO:0000269|PubMed:20739281}.
+FT   MUTAGEN      20     20       Y->A: Disrupts interaction of the first
+FT                                PDZ domain with SCARB1. Abolishes
+FT                                interaction with SCARB1; when associated
+FT                                with A-253. {ECO:0000269|PubMed:20739281,
+FT                                ECO:0000269|PubMed:21602281}.
+FT   MUTAGEN     253    253       Y->A: Disrupts interaction of the third
+FT                                PDZ domain with SCARB1. Abolishes
+FT                                interaction with SCARB1; when associated
+FT                                with A-20. {ECO:0000269|PubMed:21602281}.
+FT   CONFLICT     24     24       L -> R (in Ref. 1; AAL84634).
+FT                                {ECO:0000305}.
+FT   CONFLICT    135    135       L -> S (in Ref. 1; AAL84634).
+FT                                {ECO:0000305}.
+FT   CONFLICT    162    162       D -> N (in Ref. 3; BAB24493/BAC26598/
+FT                                BAC26605/BAB28007/BAB29600).
+FT                                {ECO:0000305}.
+FT   CONFLICT    162    162       D -> S (in Ref. 1; AAL84634).
+FT                                {ECO:0000305}.
+FT   STRAND        8     13       {ECO:0000244|PDB:4F8K}.
+FT   STRAND       23     25       {ECO:0000244|PDB:4F8K}.
+FT   STRAND       34     36       {ECO:0000244|PDB:4F8K}.
+FT   HELIX        43     46       {ECO:0000244|PDB:4F8K}.
+FT   STRAND       54     58       {ECO:0000244|PDB:4F8K}.
+FT   STRAND       64     66       {ECO:0000244|PDB:2EDZ}.
+FT   HELIX        68     77       {ECO:0000244|PDB:4F8K}.
+FT   TURN         78     80       {ECO:0000244|PDB:4F8K}.
+FT   STRAND       81     87       {ECO:0000244|PDB:4F8K}.
+FT   HELIX        89     97       {ECO:0000244|PDB:4F8K}.
+FT   HELIX       102    104       {ECO:0000244|PDB:4F8K}.
+FT   STRAND      242    247       {ECO:0000244|PDB:3R68}.
+FT   STRAND      252    254       {ECO:0000244|PDB:3R69}.
+FT   STRAND      256    259       {ECO:0000244|PDB:3R68}.
+FT   STRAND      265    269       {ECO:0000244|PDB:3R68}.
+FT   HELIX       276    280       {ECO:0000244|PDB:3R68}.
+FT   STRAND      286    291       {ECO:0000244|PDB:3R68}.
+FT   HELIX       301    309       {ECO:0000244|PDB:3R68}.
+FT   TURN        310    313       {ECO:0000244|PDB:3R68}.
+FT   STRAND      314    321       {ECO:0000244|PDB:3R68}.
+SQ   SEQUENCE   519 AA;  56499 MW;  681B57F4E237BC28 CRC64;
+     MASTFNPREC KLSKQEGQNY GFFLRIEKDT DGHLIRVIEE GSPAEKAGLL DGDRVLRING
+     VFVDKEEHAQ VVELVRKSGN SVTLLVLDGD SYEKAVKNQV DLKELDQSQR EAALNDKKPG
+     PGMNGAVEPC AQPRLCYLVK EGNSFGFSLK TIQGKKGVYL TDIMPQGVAM KAGVLADDHL
+     IEVNGENVEN ASHEEVVEKV TKSGSRIMFL LVDKETARCH SEQKTQFKRE TASLKLLPHQ
+     PRVVVIKKGS NGYGFYLRAG PEQKGQIIKD IEPGSPAEAA GLKNNDLVVA VNGKSVEALD
+     HDGVVEMIRK GGDQTTLLVL DKEAESIYSL ARFSPLLYCQ SQELPNGSVK EGPAPIPAPL
+     EATGSEPTED AEGHKPKLCR LLKEDDSYGF HLNAIRGQPG SFVKEVQQGG PADKAGLENE
+     DVIIEVNGEN VQEEPYDRVV ERIKSSGKHV TLLVCGKMAY SYFQAKKIPI VSSMAEPLVA
+     GPDEKGETSA ESEHDAHPAK DRTLSTASHS SSNSEDTEM
+//

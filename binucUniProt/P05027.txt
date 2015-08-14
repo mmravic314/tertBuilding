@@ -1,0 +1,227 @@
+ID   AT1B1_PIG               Reviewed;         303 AA.
+AC   P05027;
+DT   13-AUG-1987, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-1996, sequence version 2.
+DT   22-JUL-2015, entry version 119.
+DE   RecName: Full=Sodium/potassium-transporting ATPase subunit beta-1;
+DE   AltName: Full=Sodium/potassium-dependent ATPase subunit beta-1;
+GN   Name=ATP1B1;
+OS   Sus scrofa (Pig).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Suina; Suidae;
+OC   Sus.
+OX   NCBI_TaxID=9823;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=2423371; DOI=10.1016/0014-5793(86)80616-0;
+RA   Ovchinnikov Y.A., Modyanov N.N., Broude N.E., Petrukhin K.E.,
+RA   Grishin A.V., Arzamazova N.M., Aldanova N.A., Monastyrskaya G.S.,
+RA   Sverdlov E.D.;
+RT   "Pig kidney Na+,K+-ATPase. Primary structure and spatial
+RT   organization.";
+RL   FEBS Lett. 201:237-245(1986).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Kidney;
+RA   Ovchinnikov Y.A., Broude N.E., Petrukhin K.E., Grishin A.V.,
+RA   Kiyatkin N.I., Arzamazova N.M., Gevondyan N.M., Chertova E.N.,
+RA   Melkov A.M., Smirnov Y.V., Malyshev I.V., Monastyrskaya G.S.,
+RA   Modyanov N.N.;
+RT   "Nucleotide sequence of cDNA and primary structure of the beta-subunit
+RT   of Na+,K+-ATPase from pig kidneys.";
+RL   Dokl. Biochem. 287:149-152(1986).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=2436627;
+RA   Broude N.E., Monastyrskaya G.S., Petrukhin K.E., Grishin A.V.,
+RA   Kiyatkin N.I., Melkov A.M., Smirnov Y.V., Sverdiov V.E.,
+RA   Malyshev I.V., Modyanov N.N.;
+RT   "Primary structure of the beta-subunit of Na+,K+-ATPase from the swine
+RT   kidney. II. Reverse transcription, cloning of mRNA, complete
+RT   nucleotide sequence corresponding to the structural region of the
+RT   gene.";
+RL   Bioorg. Khim. 13:14-19(1987).
+RN   [4]
+RP   TOPOLOGY.
+RX   PubMed=3036581; DOI=10.1016/0014-5793(87)80676-2;
+RA   Ovchinnikov Y.A., Arzamazova N.M., Arystarkhova E.A., Gevondyan N.M.,
+RA   Aldanova N.A., Modyanov N.N.;
+RT   "Detailed structural analysis of exposed domains of membrane-bound
+RT   Na+,K+-ATPase. A model of transmembrane arrangement.";
+RL   FEBS Lett. 217:269-274(1987).
+CC   -!- FUNCTION: This is the non-catalytic component of the active
+CC       enzyme, which catalyzes the hydrolysis of ATP coupled with the
+CC       exchange of Na(+) and K(+) ions across the plasma membrane. The
+CC       beta subunit regulates, through assembly of alpha/beta
+CC       heterodimers, the number of sodium pumps transported to the plasma
+CC       membrane.
+CC   -!- FUNCTION: Involved in cell adhesion and establishing epithelial
+CC       cell polarity. {ECO:0000250}.
+CC   -!- SUBUNIT: Composed of three subunits: alpha (catalytic), beta and
+CC       gamma. Interacts with NKAIN1, NKAIN2 and NKAIN4 (By similarity).
+CC       Interacts with MLC1 (By similarity). Part of a complex containing
+CC       MLC1, TRPV4, AQP4 and HEPACAM (By similarity). {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane; Single-pass type II membrane
+CC       protein.
+CC   -!- DOMAIN: The C-terminal lobe folds into an immunoglobulin-like
+CC       domain and mediates cell adhesion properties. {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the X(+)/potassium ATPases subunit beta
+CC       family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X03937; CAA27575.1; -; mRNA.
+DR   EMBL; X04635; CAA28301.1; -; mRNA.
+DR   EMBL; M38313; AAA31001.1; -; mRNA.
+DR   PIR; A24862; A24862.
+DR   PIR; I46571; I46571.
+DR   PIR; I47125; I47125.
+DR   RefSeq; NP_001001542.1; NM_001001542.1.
+DR   UniGene; Ssc.246; -.
+DR   PDB; 3B8E; X-ray; 3.50 A; B/D=28-73.
+DR   PDB; 3KDP; X-ray; 3.50 A; B/D=18-303.
+DR   PDB; 3N23; X-ray; 4.60 A; B/D=27-303.
+DR   PDB; 3WGU; X-ray; 2.80 A; B/D=1-303.
+DR   PDB; 3WGV; X-ray; 2.80 A; B/D=1-303.
+DR   PDB; 4HQJ; X-ray; 4.30 A; B/D=1-303.
+DR   PDB; 4HYT; X-ray; 3.40 A; B/D=1-303.
+DR   PDB; 4RES; X-ray; 3.41 A; B/D=1-303.
+DR   PDB; 4RET; X-ray; 4.00 A; B/D=1-303.
+DR   PDBsum; 3B8E; -.
+DR   PDBsum; 3KDP; -.
+DR   PDBsum; 3N23; -.
+DR   PDBsum; 3WGU; -.
+DR   PDBsum; 3WGV; -.
+DR   PDBsum; 4HQJ; -.
+DR   PDBsum; 4HYT; -.
+DR   PDBsum; 4RES; -.
+DR   PDBsum; 4RET; -.
+DR   ProteinModelPortal; P05027; -.
+DR   SMR; P05027; 28-73.
+DR   DIP; DIP-60366N; -.
+DR   IntAct; P05027; 1.
+DR   STRING; 9823.ENSSSCP00000006713; -.
+DR   PaxDb; P05027; -.
+DR   GeneID; 396898; -.
+DR   KEGG; ssc:396898; -.
+DR   CTD; 481; -.
+DR   eggNOG; NOG313139; -.
+DR   HOGENOM; HOG000039248; -.
+DR   HOVERGEN; HBG050603; -.
+DR   InParanoid; P05027; -.
+DR   KO; K01540; -.
+DR   Reactome; REACT_329281; Ion transport by P-type ATPases.
+DR   Reactome; REACT_329497; Basigin interactions.
+DR   EvolutionaryTrace; P05027; -.
+DR   Proteomes; UP000008227; Unplaced.
+DR   Genevisible; P05027; SS.
+DR   GO; GO:0016324; C:apical plasma membrane; IEA:Ensembl.
+DR   GO; GO:0016323; C:basolateral plasma membrane; IEA:Ensembl.
+DR   GO; GO:0070062; C:extracellular exosome; IEA:Ensembl.
+DR   GO; GO:0014704; C:intercalated disc; IEA:Ensembl.
+DR   GO; GO:0005622; C:intracellular; IEA:GOC.
+DR   GO; GO:0043209; C:myelin sheath; IEA:Ensembl.
+DR   GO; GO:0042383; C:sarcolemma; IEA:Ensembl.
+DR   GO; GO:0005890; C:sodium:potassium-exchanging ATPase complex; IDA:BHF-UCL.
+DR   GO; GO:0001671; F:ATPase activator activity; IEA:Ensembl.
+DR   GO; GO:0051117; F:ATPase binding; IPI:BHF-UCL.
+DR   GO; GO:0005391; F:sodium:potassium-exchanging ATPase activity; IDA:BHF-UCL.
+DR   GO; GO:0060048; P:cardiac muscle contraction; IEA:Ensembl.
+DR   GO; GO:0007155; P:cell adhesion; IEA:UniProtKB-KW.
+DR   GO; GO:0006874; P:cellular calcium ion homeostasis; IEA:Ensembl.
+DR   GO; GO:0030007; P:cellular potassium ion homeostasis; IDA:BHF-UCL.
+DR   GO; GO:0006883; P:cellular sodium ion homeostasis; IDA:BHF-UCL.
+DR   GO; GO:0010248; P:establishment or maintenance of transmembrane electrochemical gradient; IC:BHF-UCL.
+DR   GO; GO:0086009; P:membrane repolarization; IDA:BHF-UCL.
+DR   GO; GO:1903281; P:positive regulation of calcium:sodium antiporter activity; IEA:Ensembl.
+DR   GO; GO:1903288; P:positive regulation of potassium ion import; IEA:Ensembl.
+DR   GO; GO:1901018; P:positive regulation of potassium ion transmembrane transporter activity; IEA:Ensembl.
+DR   GO; GO:1903278; P:positive regulation of sodium ion export from cell; IEA:Ensembl.
+DR   GO; GO:0010107; P:potassium ion import; IDA:BHF-UCL.
+DR   GO; GO:1990573; P:potassium ion import across plasma membrane; IDA:BHF-UCL.
+DR   GO; GO:0072659; P:protein localization to plasma membrane; IEA:Ensembl.
+DR   GO; GO:0010882; P:regulation of cardiac muscle contraction by calcium ion signaling; IEA:Ensembl.
+DR   GO; GO:0010468; P:regulation of gene expression; IEA:Ensembl.
+DR   GO; GO:1903146; P:regulation of mitochondrion degradation; IEA:Ensembl.
+DR   GO; GO:0055119; P:relaxation of cardiac muscle; IEA:Ensembl.
+DR   GO; GO:0036376; P:sodium ion export from cell; IDA:BHF-UCL.
+DR   InterPro; IPR000402; Na/K_ATPase_sub_beta.
+DR   InterPro; IPR015565; Na/K_ATPase_sub_beta_chordates.
+DR   PANTHER; PTHR11523; PTHR11523; 1.
+DR   PANTHER; PTHR11523:SF10; PTHR11523:SF10; 1.
+DR   Pfam; PF00287; Na_K-ATPase; 1.
+DR   TIGRFAMs; TIGR01107; Na_K_ATPase_bet; 1.
+DR   PROSITE; PS00390; ATPASE_NA_K_BETA_1; 1.
+DR   PROSITE; PS00391; ATPASE_NA_K_BETA_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cell adhesion; Cell membrane; Complete proteome;
+KW   Disulfide bond; Glycoprotein; Ion transport; Membrane; Phosphoprotein;
+KW   Potassium; Potassium transport; Reference proteome; Signal-anchor;
+KW   Sodium; Sodium transport; Sodium/potassium transport; Transmembrane;
+KW   Transmembrane helix; Transport.
+FT   CHAIN         1    303       Sodium/potassium-transporting ATPase
+FT                                subunit beta-1.
+FT                                /FTId=PRO_0000219099.
+FT   TOPO_DOM      1     34       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM     35     62       Helical; Signal-anchor for type II
+FT                                membrane protein. {ECO:0000255}.
+FT   TOPO_DOM     63    303       Extracellular. {ECO:0000255}.
+FT   REGION      191    303       immunoglobulin-like. {ECO:0000250}.
+FT   MOD_RES     101    101       Phosphotyrosine.
+FT                                {ECO:0000250|UniProtKB:P14094}.
+FT   CARBOHYD    158    158       N-linked (GlcNAc...). {ECO:0000250}.
+FT   CARBOHYD    193    193       N-linked (GlcNAc...). {ECO:0000250}.
+FT   CARBOHYD    265    265       N-linked (GlcNAc...). {ECO:0000250}.
+FT   DISULFID    126    149       {ECO:0000250}.
+FT   DISULFID    159    175       {ECO:0000250}.
+FT   DISULFID    213    276       {ECO:0000250}.
+FT   CONFLICT     15     16       FI -> LM (in Ref. 3; AAA31001).
+FT                                {ECO:0000305}.
+FT   CONFLICT    151    151       F -> S (in Ref. 1; CAA27575).
+FT                                {ECO:0000305}.
+FT   CONFLICT    159    159       C -> S (in Ref. 3; AAA31001).
+FT                                {ECO:0000305}.
+FT   HELIX        12     15       {ECO:0000244|PDB:3WGU}.
+FT   STRAND       19     21       {ECO:0000244|PDB:3WGU}.
+FT   STRAND       24     27       {ECO:0000244|PDB:4HYT}.
+FT   HELIX        31     58       {ECO:0000244|PDB:3WGU}.
+FT   TURN         59     61       {ECO:0000244|PDB:3B8E}.
+FT   STRAND       63     65       {ECO:0000244|PDB:4HYT}.
+FT   HELIX        70     72       {ECO:0000244|PDB:4RES}.
+FT   STRAND       77     81       {ECO:0000244|PDB:3WGU}.
+FT   STRAND       84     89       {ECO:0000244|PDB:3WGU}.
+FT   HELIX        96     98       {ECO:0000244|PDB:3WGU}.
+FT   HELIX        99    109       {ECO:0000244|PDB:3WGU}.
+FT   TURN        114    116       {ECO:0000244|PDB:3WGU}.
+FT   TURN        120    122       {ECO:0000244|PDB:3WGU}.
+FT   STRAND      139    143       {ECO:0000244|PDB:3WGU}.
+FT   TURN        153    155       {ECO:0000244|PDB:3WGU}.
+FT   STRAND      156    160       {ECO:0000244|PDB:4HYT}.
+FT   STRAND      164    166       {ECO:0000244|PDB:3WGU}.
+FT   STRAND      171    173       {ECO:0000244|PDB:3WGU}.
+FT   STRAND      175    180       {ECO:0000244|PDB:3WGU}.
+FT   STRAND      193    195       {ECO:0000244|PDB:3WGU}.
+FT   STRAND      200    202       {ECO:0000244|PDB:3KDP}.
+FT   TURN        205    207       {ECO:0000244|PDB:3WGU}.
+FT   STRAND      208    213       {ECO:0000244|PDB:3WGU}.
+FT   STRAND      215    220       {ECO:0000244|PDB:3WGU}.
+FT   STRAND      227    230       {ECO:0000244|PDB:4HYT}.
+FT   HELIX       232    234       {ECO:0000244|PDB:3WGU}.
+FT   STRAND      236    239       {ECO:0000244|PDB:3WGU}.
+FT   HELIX       240    242       {ECO:0000244|PDB:3WGU}.
+FT   HELIX       247    250       {ECO:0000244|PDB:3WGU}.
+FT   STRAND      258    262       {ECO:0000244|PDB:3WGU}.
+FT   STRAND      269    274       {ECO:0000244|PDB:3WGU}.
+FT   STRAND      276    278       {ECO:0000244|PDB:3WGU}.
+FT   STRAND      280    282       {ECO:0000244|PDB:3WGU}.
+FT   STRAND      292    294       {ECO:0000244|PDB:3WGU}.
+FT   STRAND      297    300       {ECO:0000244|PDB:3WGU}.
+SQ   SEQUENCE   303 AA;  35158 MW;  4B9650EDF5942350 CRC64;
+     MARGKAKEEG SWKKFIWNSE KKEFLGRTGG SWFKILLFYV IFYGCLAGIF IGTIQVMLLT
+     ISEFKPTYQD RVAPPGLTQI PQSQKTEISF RPNDPQSYES YVVSIVRFLE KYKDLAQKDD
+     MIFEDCGNVP SELKERGEYN NERGERKVCR FRLEWLGNCS GLNDETYGYK DGKPCVIIKL
+     NRVLGFKPKP PKNESLETYP VMKYNPYVLP VHCTGKRDED KEKVGTMEYF GLGGYPGFPL
+     QYYPYYGKLL QPKYLQPLMA VQFTNLTMDT EIRIECKAYG ENIGYSEKDR FQGRFDVKIE
+     VKS
+//

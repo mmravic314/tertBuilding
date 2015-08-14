@@ -1,0 +1,65 @@
+ID   F8W669_TRILO            Unreviewed;       190 AA.
+AC   F8W669;
+DT   21-SEP-2011, integrated into UniProtKB/TrEMBL.
+DT   21-SEP-2011, sequence version 1.
+DT   24-JUN-2015, entry version 29.
+DE   RecName: Full=Endo-1,4-beta-xylanase {ECO:0000256|RuleBase:RU362015};
+DE            EC=3.2.1.8 {ECO:0000256|RuleBase:RU362015};
+OS   Trichoderma longibrachiatum.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Hypocreomycetidae; Hypocreales; Hypocreaceae;
+OC   Trichoderma.
+OX   NCBI_TaxID=5548 {ECO:0000313|PDB:3AKP, ECO:0000313|PDB:3AKQ};
+RN   [1] {ECO:0000213|PDB:2JIC}
+RP   X-RAY CRYSTALLOGRAPHY (1.50 ANGSTROMS) OF 2-190.
+RX   PubMed=18219115; DOI=10.1107/S090744490705812X;
+RA   Moukhametzianov R., Burghammer M., Edwards P.C., Petitdemange S.,
+RA   Popov D., Fransen M., McMullan G., Schertler G.F., Riekel C.;
+RT   "Protein crystallography with a micrometre-sized synchrotron-radiation
+RT   beam.";
+RL   Acta Crystallogr. D 64:158-166(2008).
+CC   -!- CATALYTIC ACTIVITY: Endohydrolysis of (1->4)-beta-D-xylosidic
+CC       linkages in xylans. {ECO:0000256|RuleBase:RU362015}.
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC       {ECO:0000256|RuleBase:RU362015}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 11 (cellulase G)
+CC       family. {ECO:0000256|RuleBase:RU362015}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   PDB; 2JIC; X-ray; 1.50 A; A=2-190.
+DR   PDB; 3AKP; X-ray; 1.20 A; A/B=1-190.
+DR   PDB; 3AKQ; X-ray; 0.97 A; A=1-190.
+DR   PDB; 3AKR; X-ray; 1.10 A; A=1-190.
+DR   PDB; 3AKS; X-ray; 0.97 A; A=1-190.
+DR   PDB; 3AKT; X-ray; 1.00 A; A/B=1-190.
+DR   UniPathway; UPA00114; -.
+DR   GO; GO:0031176; F:endo-1,4-beta-xylanase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 2.60.120.180; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001137; Glyco_hydro_11.
+DR   InterPro; IPR013319; Glyco_hydro_11/12.
+DR   InterPro; IPR018208; Glyco_hydro_11_AS.
+DR   Pfam; PF00457; Glyco_hydro_11; 1.
+DR   PRINTS; PR00911; GLHYDRLASE11.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   PROSITE; PS00776; GLYCOSYL_HYDROL_F11_1; 1.
+DR   PROSITE; PS00777; GLYCOSYL_HYDROL_F11_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2JIC, ECO:0000213|PDB:3AKP};
+KW   Carbohydrate metabolism {ECO:0000256|RuleBase:RU362015};
+KW   Glycosidase {ECO:0000256|RuleBase:RU362015};
+KW   Hydrolase {ECO:0000256|RuleBase:RU362015};
+KW   Metal-binding {ECO:0000313|PDB:3AKQ, ECO:0000313|PDB:3AKR};
+KW   Polysaccharide degradation {ECO:0000256|RuleBase:RU362015};
+KW   Sodium {ECO:0000313|PDB:3AKR, ECO:0000313|PDB:3AKS};
+KW   Xylan degradation {ECO:0000256|RuleBase:RU362015}.
+SQ   SEQUENCE   190 AA;  20844 MW;  6FD4B4C99AEAD543 CRC64;
+     ETIQPGTGYN NGYFYSYWND GHGGVTYTNG PGGQFSVNWS NSGNFVGGKG WQPGTKNKVI
+     NFSGSYNPNG NSYLSVYGWS RNPLIEYYIV ENFGTYNPST GATKLGEVTS DGSVYDIYRT
+     QRVNQPSIIG TATFYQYWSV RRNHRSSGSV NTANHFNAWA QQGLTLGTMD YQIVAVEGYF
+     SSGSASITVS
+//

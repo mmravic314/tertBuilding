@@ -1,0 +1,139 @@
+ID   TRI5_FUSSP              Reviewed;         374 AA.
+AC   P13513;
+DT   01-JAN-1990, integrated into UniProtKB/Swiss-Prot.
+DT   01-JAN-1990, sequence version 1.
+DT   27-MAY-2015, entry version 78.
+DE   RecName: Full=Trichodiene synthase;
+DE            EC=4.2.3.6;
+DE   AltName: Full=Sesquiterpene cyclase;
+DE            Short=TS;
+GN   Name=TRI5; Synonyms=TOX 5;
+OS   Fusarium sporotrichioides.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Hypocreomycetidae; Hypocreales; Nectriaceae;
+OC   Fusarium.
+OX   NCBI_TaxID=5514;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND PARTIAL PROTEIN SEQUENCE.
+RC   STRAIN=NRRL 3299;
+RX   PubMed=2777086; DOI=10.1016/0378-1119(89)90098-X;
+RA   Hohn T.M., Beremand P.D.;
+RT   "Isolation and nucleotide sequence of a sesquiterpene cyclase gene
+RT   from the trichothecene-producing fungus Fusarium sporotrichioides.";
+RL   Gene 79:131-138(1989).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS).
+RX   PubMed=11698643; DOI=10.1073/pnas.231313098;
+RA   Rynkiewicz M.J., Cane D.E., Christianson D.W.;
+RT   "Structure of trichodiene synthase from Fusarium sporotrichioides
+RT   provides mechanistic inferences on the terpene cyclization cascade.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 98:13543-13548(2001).
+CC   -!- FUNCTION: TS is a member of the terpene cyclase group of enzymes.
+CC       It catalyzes the isomerization and cyclization of farnesyl pyro-
+CC       phosphate to form trichodiene, the first cyclic intermediate in
+CC       the biosynthetic pathway for trichothecenes. It serves to branch
+CC       trichothecene biosynthesis from the isoprenoid pathway.
+CC   -!- CATALYTIC ACTIVITY: (2E,6E)-farnesyl diphosphate = trichodiene +
+CC       diphosphate.
+CC   -!- PATHWAY: Sesquiterpene biosynthesis; trichothecene biosynthesis.
+CC   -!- MISCELLANEOUS: Trichothecenes are sesquiterpenoid toxins that act
+CC       by inhibiting protein biosynthesis.
+CC   -!- SIMILARITY: Belongs to the trichodiene synthase family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF364179; AAD13657.1; -; Genomic_DNA.
+DR   PIR; JU0064; SYFUTP.
+DR   PDB; 1JFA; X-ray; 2.50 A; A/B=1-374.
+DR   PDB; 1JFG; X-ray; 2.50 A; A/B=1-374.
+DR   PDB; 1KIY; X-ray; 2.40 A; A/B=1-374.
+DR   PDB; 1KIZ; X-ray; 2.60 A; A/B=1-374.
+DR   PDB; 1YJ4; X-ray; 2.30 A; A/B=1-374.
+DR   PDB; 1YYQ; X-ray; 2.10 A; A/B=1-374.
+DR   PDB; 1YYR; X-ray; 2.50 A; A/B=1-374.
+DR   PDB; 1YYS; X-ray; 2.75 A; A/B=1-374.
+DR   PDB; 1YYT; X-ray; 2.90 A; A/B=1-374.
+DR   PDB; 1YYU; X-ray; 2.95 A; A/B=1-374.
+DR   PDB; 2AEK; X-ray; 2.90 A; A/B=1-374.
+DR   PDB; 2AEL; X-ray; 2.50 A; A/B=1-374.
+DR   PDB; 2AET; X-ray; 2.75 A; A/B=1-374.
+DR   PDB; 2PS4; X-ray; 2.46 A; A/B=1-374.
+DR   PDB; 2PS5; X-ray; 2.10 A; A/B=1-374.
+DR   PDB; 2PS6; X-ray; 2.60 A; A/B=1-374.
+DR   PDB; 2PS7; X-ray; 2.35 A; A/B=1-374.
+DR   PDB; 2PS8; X-ray; 2.67 A; A/B=1-374.
+DR   PDB; 2Q9Y; X-ray; 2.85 A; A/B=1-374.
+DR   PDB; 2Q9Z; X-ray; 2.95 A; A/B=1-374.
+DR   PDBsum; 1JFA; -.
+DR   PDBsum; 1JFG; -.
+DR   PDBsum; 1KIY; -.
+DR   PDBsum; 1KIZ; -.
+DR   PDBsum; 1YJ4; -.
+DR   PDBsum; 1YYQ; -.
+DR   PDBsum; 1YYR; -.
+DR   PDBsum; 1YYS; -.
+DR   PDBsum; 1YYT; -.
+DR   PDBsum; 1YYU; -.
+DR   PDBsum; 2AEK; -.
+DR   PDBsum; 2AEL; -.
+DR   PDBsum; 2AET; -.
+DR   PDBsum; 2PS4; -.
+DR   PDBsum; 2PS5; -.
+DR   PDBsum; 2PS6; -.
+DR   PDBsum; 2PS7; -.
+DR   PDBsum; 2PS8; -.
+DR   PDBsum; 2Q9Y; -.
+DR   PDBsum; 2Q9Z; -.
+DR   ProteinModelPortal; P13513; -.
+DR   SMR; P13513; 1-354.
+DR   BRENDA; 4.2.3.6; 2364.
+DR   UniPathway; UPA00267; -.
+DR   EvolutionaryTrace; P13513; -.
+DR   GO; GO:0045482; F:trichodiene synthase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0016106; P:sesquiterpenoid biosynthetic process; IEA:InterPro.
+DR   Gene3D; 1.10.600.10; -; 1.
+DR   InterPro; IPR008949; Isoprenoid_synthase_dom.
+DR   InterPro; IPR010458; TRI5_ascomyc.
+DR   InterPro; IPR024652; Trichodiene_synth.
+DR   Pfam; PF06330; TRI5; 1.
+DR   PIRSF; PIRSF001388; TRI5; 1.
+DR   SUPFAM; SSF48576; SSF48576; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Direct protein sequencing; Lyase.
+FT   CHAIN         1    374       Trichodiene synthase.
+FT                                /FTId=PRO_0000221584.
+FT   HELIX         6     19       {ECO:0000244|PDB:1YYQ}.
+FT   HELIX        29     47       {ECO:0000244|PDB:1YYQ}.
+FT   HELIX        50     55       {ECO:0000244|PDB:1YYQ}.
+FT   HELIX        60     77       {ECO:0000244|PDB:1YYQ}.
+FT   HELIX        83     99       {ECO:0000244|PDB:1YYQ}.
+FT   HELIX       107    110       {ECO:0000244|PDB:1YYQ}.
+FT   HELIX       113    119       {ECO:0000244|PDB:1YYQ}.
+FT   HELIX       126    139       {ECO:0000244|PDB:1YYQ}.
+FT   HELIX       144    164       {ECO:0000244|PDB:1YYQ}.
+FT   TURN        165    167       {ECO:0000244|PDB:2PS4}.
+FT   HELIX       177    186       {ECO:0000244|PDB:1YYQ}.
+FT   HELIX       188    193       {ECO:0000244|PDB:1YYQ}.
+FT   TURN        198    200       {ECO:0000244|PDB:1YYQ}.
+FT   TURN        203    206       {ECO:0000244|PDB:1YYQ}.
+FT   HELIX       207    233       {ECO:0000244|PDB:1YYQ}.
+FT   HELIX       243    251       {ECO:0000244|PDB:1YYQ}.
+FT   HELIX       255    277       {ECO:0000244|PDB:1YYQ}.
+FT   STRAND      278    280       {ECO:0000244|PDB:1YYQ}.
+FT   HELIX       282    301       {ECO:0000244|PDB:1YYQ}.
+FT   HELIX       303    305       {ECO:0000244|PDB:1YYQ}.
+FT   HELIX       308    314       {ECO:0000244|PDB:1YYQ}.
+FT   HELIX       320    336       {ECO:0000244|PDB:1YYQ}.
+FT   HELIX       340    342       {ECO:0000244|PDB:1YYQ}.
+FT   HELIX       348    353       {ECO:0000244|PDB:1YYQ}.
+SQ   SEQUENCE   374 AA;  44000 MW;  189E8FC1663C3763 CRC64;
+     MENFPTEYFL NTTVRLLEYI RYRDSNYTRE ERIENLHYAY NKAAHHFAQP RQQQLLKVDP
+     KRLQASLQTI VGMVVYSWAK VSKECMADLS IHYTYTLVLD DSKDDPYPTM VNYFDDLQAG
+     REQAHPWWAL VNEHFPNVLR HFGPFCSLNL IRSTLDFFEG CWIEQYNFGG FPGSHDYPQF
+     LRRMNGLGHC VGASLWPKEQ FNERSLFLEI TSAIAQMENW MVWVNDLMSF YKEFDDERDQ
+     ISLVKNYVVS DEISLHEALE KLTQDTLHSS KQMVAVFSDK DPQVMDTIEC FMHGYVTWHL
+     CDRRYRLSEI YEKVKEEKTE DAQKFCKFYE QAANVGAVSP SEWAYPPVAQ LANVRSKDVK
+     EVQKPFLSSI ELVE
+//

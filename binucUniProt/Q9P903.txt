@@ -1,0 +1,168 @@
+ID   DPYS_LACK1              Reviewed;         542 AA.
+AC   Q9P903;
+DT   15-JAN-2008, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2000, sequence version 1.
+DT   29-APR-2015, entry version 63.
+DE   RecName: Full=Dihydropyrimidinase;
+DE            Short=DHP;
+DE            Short=DHPase;
+DE            EC=3.5.2.2;
+DE   AltName: Full=5,6-dihydropyrimidine amidohydrolase;
+DE   AltName: Full=Hydantoinase;
+GN   Name=PYD2;
+OS   Lachancea kluyveri (strain ATCC 58438 / CBS 3082 / CCRC 21498 / NBRC
+OS   1685 / JCM 7257 / NCYC 543 / NRRL Y-12651) (Yeast) (Saccharomyces
+OS   kluyveri).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Lachancea.
+OX   NCBI_TaxID=226302;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], PROTEIN SEQUENCE OF 1-11, FUNCTION,
+RP   SUBUNIT, BIOPHYSICOCHEMICAL PROPERTIES, AND INDUCTION.
+RC   STRAIN=ATCC 58438 / CBS 3082 / CCRC 21498 / NBRC 1685 / JCM 7257 /
+RC   NCYC 543 / NRRL Y-12651;
+RX   PubMed=10656811; DOI=10.1006/jmbi.1999.3393;
+RA   Gojkovic Z., Jahnke K., Schnackerz K.D., Piskur J.;
+RT   "PYD2 encodes 5,6-dihydropyrimidine amidohydrolase, which participates
+RT   in a novel fungal catabolic pathway.";
+RL   J. Mol. Biol. 295:1073-1087(2000).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS) IN COMPLEXES WITH ZINC IONS;
+RP   SUBSTRATE AND PRODUCT, CARBAMYLATION AT LYS-167, AND SUBUNIT.
+RX   PubMed=16517602; DOI=10.1074/jbc.M513266200;
+RA   Lohkamp B., Andersen B., Piskur J., Dobritzsch D.;
+RT   "The crystal structures of dihydropyrimidinases reaffirm the close
+RT   relationship between cyclic amidohydrolases and explain their
+RT   substrate specificity.";
+RL   J. Biol. Chem. 281:13762-13776(2006).
+CC   -!- FUNCTION: Catalyzes the second step of the reductive pyrimidine
+CC       degradation, the reversible hydrolytic ring opening of
+CC       dihydropyrimidines. Can catalyze the ring opening of 5,6-
+CC       dihydrouracil to N-carbamyl-alanine and of 5,6-dihydrothymine to
+CC       N-carbamyl-amino isobutyrate. {ECO:0000269|PubMed:10656811}.
+CC   -!- CATALYTIC ACTIVITY: 5,6-dihydrouracil + H(2)O = 3-
+CC       ureidopropanoate.
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC       Note=Binds 2 Zn(2+) ions per subunit.;
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=0.6 mM for dihydrouracil {ECO:0000269|PubMed:10656811};
+CC         KM=0.235 mM for dihydrothymine {ECO:0000269|PubMed:10656811};
+CC   -!- SUBUNIT: Homotetramer. {ECO:0000269|PubMed:10656811,
+CC       ECO:0000269|PubMed:16517602}.
+CC   -!- INDUCTION: Up-regulated by dihydrouracil and N-carbamyl-beta-
+CC       alanine. Detectable only in cells grown on dihydrouracil and N-
+CC       carbamyl-beta-alanine as sole nitrogen source.
+CC       {ECO:0000269|PubMed:10656811}.
+CC   -!- PTM: Carbamylation allows a single lysine to coordinate two zinc
+CC       ions. {ECO:0000269|PubMed:16517602}.
+CC   -!- SIMILARITY: Belongs to the DHOase family.
+CC       Hydantoinase/dihydropyrimidinase subfamily. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF156967; AAF69237.1; -; Genomic_DNA.
+DR   PDB; 2FTY; X-ray; 2.40 A; A/B/C/D=2-542.
+DR   PDB; 2FVK; X-ray; 2.40 A; A/B/C/D=2-542.
+DR   PDB; 2FVM; X-ray; 2.45 A; A/B/C/D=2-542.
+DR   PDBsum; 2FTY; -.
+DR   PDBsum; 2FVK; -.
+DR   PDBsum; 2FVM; -.
+DR   ProteinModelPortal; Q9P903; -.
+DR   SMR; Q9P903; 2-541.
+DR   BRENDA; 3.5.2.2; 6897.
+DR   EvolutionaryTrace; Q9P903; -.
+DR   GO; GO:0004157; F:dihydropyrimidinase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 2.30.40.10; -; 2.
+DR   InterPro; IPR030633; Dihydropyrimidinase.
+DR   InterPro; IPR011059; Metal-dep_hydrolase_composite.
+DR   PANTHER; PTHR11647:SF60; PTHR11647:SF60; 1.
+DR   SUPFAM; SSF51338; SSF51338; 2.
+PE   1: Evidence at protein level;
+KW   3D-structure; Direct protein sequencing; Hydrolase; Metal-binding;
+KW   Zinc.
+FT   CHAIN         1    542       Dihydropyrimidinase.
+FT                                /FTId=PRO_0000313804.
+FT   METAL        62     62       Zinc 1.
+FT   METAL        64     64       Zinc 1.
+FT   METAL       167    167       Zinc 1; via carbamate group.
+FT   METAL       167    167       Zinc 2; via carbamate group.
+FT   METAL       199    199       Zinc 2.
+FT   METAL       255    255       Zinc 2.
+FT   METAL       358    358       Zinc 1.
+FT   BINDING     172    172       Substrate.
+FT   BINDING     331    331       Substrate; via amide nitrogen and
+FT                                carbonyl oxygen.
+FT   BINDING     392    392       Substrate; via carbonyl oxygen.
+FT   MOD_RES     167    167       N6-carboxylysine.
+FT                                {ECO:0000269|PubMed:16517602}.
+FT   STRAND        4     10       {ECO:0000244|PDB:2FTY}.
+FT   STRAND       12     14       {ECO:0000244|PDB:2FTY}.
+FT   STRAND       19     21       {ECO:0000244|PDB:2FTY}.
+FT   STRAND       23     27       {ECO:0000244|PDB:2FTY}.
+FT   STRAND       30     36       {ECO:0000244|PDB:2FTY}.
+FT   HELIX        40     42       {ECO:0000244|PDB:2FTY}.
+FT   STRAND       43     48       {ECO:0000244|PDB:2FTY}.
+FT   STRAND       53     56       {ECO:0000244|PDB:2FTY}.
+FT   STRAND       58     60       {ECO:0000244|PDB:2FTY}.
+FT   HELIX        79     88       {ECO:0000244|PDB:2FTY}.
+FT   STRAND       91     99       {ECO:0000244|PDB:2FTY}.
+FT   HELIX       109    121       {ECO:0000244|PDB:2FTY}.
+FT   STRAND      127    135       {ECO:0000244|PDB:2FTY}.
+FT   HELIX       143    161       {ECO:0000244|PDB:2FTY}.
+FT   STRAND      165    172       {ECO:0000244|PDB:2FTY}.
+FT   TURN        173    175       {ECO:0000244|PDB:2FTY}.
+FT   HELIX       179    192       {ECO:0000244|PDB:2FTY}.
+FT   STRAND      195    199       {ECO:0000244|PDB:2FTY}.
+FT   HELIX       203    215       {ECO:0000244|PDB:2FTY}.
+FT   HELIX       223    226       {ECO:0000244|PDB:2FTY}.
+FT   HELIX       230    246       {ECO:0000244|PDB:2FTY}.
+FT   STRAND      251    253       {ECO:0000244|PDB:2FTY}.
+FT   HELIX       259    270       {ECO:0000244|PDB:2FTY}.
+FT   STRAND      275    279       {ECO:0000244|PDB:2FTY}.
+FT   HELIX       281    285       {ECO:0000244|PDB:2FTY}.
+FT   HELIX       288    291       {ECO:0000244|PDB:2FTY}.
+FT   HELIX       308    310       {ECO:0000244|PDB:2FTY}.
+FT   STRAND      312    314       {ECO:0000244|PDB:2FTY}.
+FT   TURN        315    317       {ECO:0000244|PDB:2FTY}.
+FT   HELIX       324    328       {ECO:0000244|PDB:2FTY}.
+FT   HELIX       340    348       {ECO:0000244|PDB:2FTY}.
+FT   STRAND      353    355       {ECO:0000244|PDB:2FTY}.
+FT   STRAND      363    365       {ECO:0000244|PDB:2FTY}.
+FT   HELIX       373    376       {ECO:0000244|PDB:2FTY}.
+FT   HELIX       379    381       {ECO:0000244|PDB:2FTY}.
+FT   STRAND      383    385       {ECO:0000244|PDB:2FTY}.
+FT   HELIX       387    389       {ECO:0000244|PDB:2FTY}.
+FT   TURN        397    399       {ECO:0000244|PDB:2FTY}.
+FT   HELIX       400    407       {ECO:0000244|PDB:2FTY}.
+FT   TURN        408    412       {ECO:0000244|PDB:2FTY}.
+FT   STRAND      413    415       {ECO:0000244|PDB:2FTY}.
+FT   HELIX       417    424       {ECO:0000244|PDB:2FTY}.
+FT   HELIX       426    431       {ECO:0000244|PDB:2FTY}.
+FT   TURN        435    437       {ECO:0000244|PDB:2FTY}.
+FT   STRAND      438    440       {ECO:0000244|PDB:2FTY}.
+FT   TURN        443    445       {ECO:0000244|PDB:2FTY}.
+FT   STRAND      450    453       {ECO:0000244|PDB:2FTY}.
+FT   HELIX       472    474       {ECO:0000244|PDB:2FTY}.
+FT   STRAND      476    479       {ECO:0000244|PDB:2FVK}.
+FT   TURN        482    485       {ECO:0000244|PDB:2FTY}.
+FT   STRAND      492    497       {ECO:0000244|PDB:2FTY}.
+FT   STRAND      500    504       {ECO:0000244|PDB:2FTY}.
+FT   HELIX       510    512       {ECO:0000244|PDB:2FTY}.
+FT   HELIX       524    526       {ECO:0000244|PDB:2FTY}.
+FT   STRAND      533    535       {ECO:0000244|PDB:2FTY}.
+SQ   SEQUENCE   542 AA;  60240 MW;  E8758452CBE86E98 CRC64;
+     MPIYDLIIKN GIICTASDIY AAEIAVNNGK VQLIAASIDP SLGSEVIDAE GAFITPGGID
+     AHVHVDEPLK LLGDVVDTME HATRSAVAGG TTTVVAFSTQ DVSKKGPSAL AESVKLDVDE
+     YSEQTLYCDY GLHLILFQIE KPSVEARELL DVQLQAAYND YGVSSVKMFM TYPGLQISDY
+     DIMSAMYATR KNGFTTMLHA ENGDMVKWMI EALEEQGLTD AYYHGVSRPS IVEGEATNRA
+     ITLATTMDTP ILFVHVSSPQ AAEVIKQAQT KGLKVYAETC PQYALLSDAI TRCHHHGEVE
+     SYGVGIDLSS ISESPFTNPD DRFIGSKYIC SPPIRPEGTQ KSIWKGMNNG TFTIVGSDHC
+     SYNYYEKTST ASKHRAFDPE NNKNGEFRYI PNGLPGVCTR MPLLYDYGYL RGNLTSMMKL
+     VEIQCTNPAK VYGMYPQKGS ILPGVSDADL VIWYPDDSKK EYNSKPKLIT NKLMEHNCDY
+     TPFEGIEIKN WPRYTIVKGK IVYKEGEILK ENADGKYLKR GKSFMCTPKN EWVTEWRPKY
+     ES
+//

@@ -1,0 +1,88 @@
+ID   I1SB14_9APHY            Unreviewed;       495 AA.
+AC   I1SB14;
+DT   13-JUN-2012, integrated into UniProtKB/TrEMBL.
+DT   13-JUN-2012, sequence version 1.
+DT   24-JUN-2015, entry version 18.
+DE   SubName: Full=Laccase {ECO:0000313|PDB:3T6V, ECO:0000313|PDB:3T6W};
+DE            EC=1.10.3.2 {ECO:0000313|PDB:3T6W};
+OS   Steccherinum ochraceum.
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Polyporales; Polyporales incertae sedis; Steccherinum.
+OX   NCBI_TaxID=92696 {ECO:0000313|PDB:3T6W};
+RN   [1] {ECO:0000213|PDB:3T6V, ECO:0000213|PDB:3T6W, ECO:0000213|PDB:3T6X}
+RP   X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS) IN COMPLEX WITH COPPER, AND
+RP   ACTIVE SITE.
+RX   PubMed=22341982; DOI=10.1016/j.jinorgbio.2012.01.011;
+RA   Ferraroni M., Matera I., Chernykh A., Kolomytseva M., Golovleva L.A.,
+RA   Scozzafava A., Briganti F.;
+RT   "Reaction intermediates and redox state changes in a blue laccase from
+RT   Steccherinum ochraceum observed by crystallographic high/low X-ray
+RT   dose experiments.";
+RL   J. Inorg. Biochem. 111:203-209(2012).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   PDB; 3T6V; X-ray; 2.00 A; A/B/C=1-495.
+DR   PDB; 3T6W; X-ray; 2.15 A; A/B/C=1-495.
+DR   PDB; 3T6X; X-ray; 2.15 A; A/B/C=1-495.
+DR   PDB; 3T6Z; X-ray; 2.15 A; A/B/C=1-495.
+DR   PDB; 3T71; X-ray; 2.15 A; A/B/C=1-495.
+DR   PDBsum; 3T6V; -.
+DR   PDBsum; 3T6X; -.
+DR   PDBsum; 3T6Z; -.
+DR   PDBsum; 3T71; -.
+DR   GO; GO:0005507; F:copper ion binding; IEA:InterPro.
+DR   GO; GO:0052716; F:hydroquinone:oxygen oxidoreductase activity; IEA:UniProtKB-EC.
+DR   Gene3D; 2.60.40.420; -; 3.
+DR   InterPro; IPR001117; Cu-oxidase.
+DR   InterPro; IPR011706; Cu-oxidase_2.
+DR   InterPro; IPR011707; Cu-oxidase_3.
+DR   InterPro; IPR002355; Cu_oxidase_Cu_BS.
+DR   InterPro; IPR008972; Cupredoxin.
+DR   Pfam; PF00394; Cu-oxidase; 1.
+DR   Pfam; PF07731; Cu-oxidase_2; 1.
+DR   Pfam; PF07732; Cu-oxidase_3; 1.
+DR   SUPFAM; SSF49503; SSF49503; 3.
+DR   PROSITE; PS00079; MULTICOPPER_OXIDASE1; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3T6W, ECO:0000213|PDB:3T6X};
+KW   Copper {ECO:0000213|PDB:3T6W, ECO:0000213|PDB:3T6X};
+KW   Metal-binding {ECO:0000213|PDB:3T6W, ECO:0000213|PDB:3T6X};
+KW   Oxidoreductase {ECO:0000256|SAAS:SAAS00056252}.
+FT   METAL        65     65       Copper 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3T6X}.
+FT   METAL        67     67       Copper 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3T6X}.
+FT   METAL       110    110       Copper 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3T6X}.
+FT   METAL       112    112       Copper 3; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3T6X}.
+FT   METAL       397    397       Copper 4; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3T6X}.
+FT   METAL       400    400       Copper 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3T6X}.
+FT   METAL       402    402       Copper 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3T71}.
+FT   METAL       402    402       Copper 3; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3T6X}.
+FT   METAL       452    452       Copper 3; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3T6X}.
+FT   METAL       453    453       Copper 4. {ECO:0000213|PDB:3T6X}.
+FT   METAL       454    454       Copper 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3T6X}.
+FT   METAL       458    458       Copper 4; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3T6X}.
+FT   DISULFID     86    488       {ECO:0000213|PDB:3T6X}.
+FT   DISULFID    118    208       {ECO:0000213|PDB:3T6X}.
+SQ   SEQUENCE   495 AA;  52795 MW;  95E4FB15BB49FE5C CRC64;
+     VQIGPVTDLH IVNADIVPDG FVRPAVNAGG TFPGPVIAGN VGDNFQIVTF NQLIECSMLV
+     DTSIHWHGEF QKGTNWADGP AFITQCPIIV GNSFSYNFNV PGMAGTYWYH SHLTTQYCDG
+     LRGPFVVYDP NDPDANLYDV DDDTTIITLA DWYHVLAKEM GAGGAITADS TLIDGLGRTH
+     VNVAAVPLSV ITVEVGKRYR MRLVSISCDP NYDFSIDGHD MTIIETDGVD SQELTVDEIQ
+     IFAAQRYSFV LNANQPVGNY WIRANPNSGG EGFDGGINSA ILRYDGATTA DPVTVASTVH
+     TKCLIETDLH PLSRNGVPGN PHQGGADCNL NLSLGFACGN FVINGVSFTP PTVPVLLQIC
+     SGANTAADLL PSGSVISLPS NSTIEIALPA GAAGGPHPFH LHGHDFAVSE SASNSTSNYD
+     DPIWRDVVSI GGVGDNVTIR FCTDNPGPWF LHCHIDWHLD AGFAIVFAED IPNTASANPV
+     PEAWSNLCPS YDSAH
+//

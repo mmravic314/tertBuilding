@@ -1,0 +1,127 @@
+ID   APEA_THEMA              Reviewed;         451 AA.
+AC   Q9WYJ9;
+DT   24-OCT-2001, integrated into UniProtKB/Swiss-Prot.
+DT   24-OCT-2001, sequence version 2.
+DT   22-JUL-2015, entry version 98.
+DE   RecName: Full=Probable M18 family aminopeptidase 1;
+DE            EC=3.4.11.-;
+GN   Name=apeA; OrderedLocusNames=TM_0365;
+OS   Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099).
+OC   Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Thermotoga.
+OX   NCBI_TaxID=243274;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 43589 / MSB8 / DSM 3109 / JCM 10099;
+RX   PubMed=10360571; DOI=10.1038/20601;
+RA   Nelson K.E., Clayton R.A., Gill S.R., Gwinn M.L., Dodson R.J.,
+RA   Haft D.H., Hickey E.K., Peterson J.D., Nelson W.C., Ketchum K.A.,
+RA   McDonald L.A., Utterback T.R., Malek J.A., Linher K.D., Garrett M.M.,
+RA   Stewart A.M., Cotton M.D., Pratt M.S., Phillips C.A., Richardson D.L.,
+RA   Heidelberg J.F., Sutton G.G., Fleischmann R.D., Eisen J.A., White O.,
+RA   Salzberg S.L., Smith H.O., Venter J.C., Fraser C.M.;
+RT   "Evidence for lateral gene transfer between Archaea and Bacteria from
+RT   genome sequence of Thermotoga maritima.";
+RL   Nature 399:323-329(1999).
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000250};
+CC   -!- SIMILARITY: Belongs to the peptidase M18 family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAD35452.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE000512; AAD35452.1; ALT_INIT; Genomic_DNA.
+DR   PIR; E72387; E72387.
+DR   RefSeq; NP_228176.1; NC_000853.1.
+DR   RefSeq; WP_004083171.1; NZ_CP011107.1.
+DR   RefSeq; WP_010865103.1; NC_000853.1.
+DR   PDB; 2GLF; X-ray; 2.80 A; A/B/C/D=2-451.
+DR   PDBsum; 2GLF; -.
+DR   ProteinModelPortal; Q9WYJ9; -.
+DR   SMR; Q9WYJ9; 2-451.
+DR   STRING; 243274.TM0365; -.
+DR   MEROPS; M18.004; -.
+DR   EnsemblBacteria; AAD35452; AAD35452; TM_0365.
+DR   GeneID; 897324; -.
+DR   KEGG; tma:TM0365; -.
+DR   KEGG; tmm:Tmari_0363; -.
+DR   PATRIC; 23935611; VBITheMar51294_0370.
+DR   eggNOG; COG1362; -.
+DR   InParanoid; Q9WYJ9; -.
+DR   OMA; QYFQIRN; -.
+DR   OrthoDB; EOG6BW4VB; -.
+DR   BioCyc; TMAR243274:GC6P-379-MONOMER; -.
+DR   EvolutionaryTrace; Q9WYJ9; -.
+DR   Proteomes; UP000008183; Chromosome.
+DR   GO; GO:0004177; F:aminopeptidase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0008237; F:metallopeptidase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 2.30.250.10; -; 1.
+DR   HAMAP; MF_00466; Aminopeptidase_M18_1; 1.
+DR   InterPro; IPR022983; M18_aminopeptidase_1.
+DR   InterPro; IPR001948; Peptidase_M18.
+DR   InterPro; IPR023358; Peptidase_M18_dom2.
+DR   Pfam; PF02127; Peptidase_M18; 1.
+DR   PRINTS; PR00932; AMINO1PTASE.
+PE   1: Evidence at protein level;
+KW   3D-structure; Aminopeptidase; Complete proteome; Hydrolase;
+KW   Metal-binding; Metalloprotease; Protease; Reference proteome; Zinc.
+FT   CHAIN         1    451       Probable M18 family aminopeptidase 1.
+FT                                /FTId=PRO_0000173458.
+FT   METAL        93     93       Zinc. {ECO:0000255}.
+FT   METAL       168    168       Zinc. {ECO:0000255}.
+FT   METAL       426    426       Zinc. {ECO:0000255}.
+FT   HELIX         8     10       {ECO:0000244|PDB:2GLF}.
+FT   HELIX        14     30       {ECO:0000244|PDB:2GLF}.
+FT   HELIX        34     46       {ECO:0000244|PDB:2GLF}.
+FT   TURN         47     49       {ECO:0000244|PDB:2GLF}.
+FT   STRAND       65     72       {ECO:0000244|PDB:2GLF}.
+FT   STRAND       74     79       {ECO:0000244|PDB:2GLF}.
+FT   HELIX        83     85       {ECO:0000244|PDB:2GLF}.
+FT   STRAND       88     93       {ECO:0000244|PDB:2GLF}.
+FT   STRAND       98    109       {ECO:0000244|PDB:2GLF}.
+FT   STRAND      112    122       {ECO:0000244|PDB:2GLF}.
+FT   HELIX       126    128       {ECO:0000244|PDB:2GLF}.
+FT   STRAND      129    131       {ECO:0000244|PDB:2GLF}.
+FT   STRAND      133    140       {ECO:0000244|PDB:2GLF}.
+FT   STRAND      146    157       {ECO:0000244|PDB:2GLF}.
+FT   HELIX       167    169       {ECO:0000244|PDB:2GLF}.
+FT   TURN        176    179       {ECO:0000244|PDB:2GLF}.
+FT   HELIX       182    184       {ECO:0000244|PDB:2GLF}.
+FT   STRAND      186    190       {ECO:0000244|PDB:2GLF}.
+FT   HELIX       201    214       {ECO:0000244|PDB:2GLF}.
+FT   HELIX       218    221       {ECO:0000244|PDB:2GLF}.
+FT   STRAND      224    230       {ECO:0000244|PDB:2GLF}.
+FT   STRAND      235    238       {ECO:0000244|PDB:2GLF}.
+FT   STRAND      243    246       {ECO:0000244|PDB:2GLF}.
+FT   HELIX       249    264       {ECO:0000244|PDB:2GLF}.
+FT   STRAND      271    277       {ECO:0000244|PDB:2GLF}.
+FT   HELIX       279    281       {ECO:0000244|PDB:2GLF}.
+FT   STRAND      285    292       {ECO:0000244|PDB:2GLF}.
+FT   HELIX       293    304       {ECO:0000244|PDB:2GLF}.
+FT   STRAND      308    310       {ECO:0000244|PDB:2GLF}.
+FT   HELIX       311    319       {ECO:0000244|PDB:2GLF}.
+FT   STRAND      322    326       {ECO:0000244|PDB:2GLF}.
+FT   HELIX       334    339       {ECO:0000244|PDB:2GLF}.
+FT   HELIX       342    344       {ECO:0000244|PDB:2GLF}.
+FT   STRAND      352    357       {ECO:0000244|PDB:2GLF}.
+FT   HELIX       371    383       {ECO:0000244|PDB:2GLF}.
+FT   STRAND      388    390       {ECO:0000244|PDB:2GLF}.
+FT   STRAND      393    395       {ECO:0000244|PDB:2GLF}.
+FT   HELIX       405    409       {ECO:0000244|PDB:2GLF}.
+FT   TURN        410    412       {ECO:0000244|PDB:2GLF}.
+FT   STRAND      415    419       {ECO:0000244|PDB:2GLF}.
+FT   STRAND      421    424       {ECO:0000244|PDB:2GLF}.
+FT   STRAND      427    433       {ECO:0000244|PDB:2GLF}.
+FT   HELIX       434    450       {ECO:0000244|PDB:2GLF}.
+SQ   SEQUENCE   451 AA;  50381 MW;  C2310E30DA36BCD8 CRC64;
+     MKMERKNVWH HRKKEEIEAF SKEYMEFMSK AKTERMTVKE IKRILDESGF VPLEDFAGDP
+     MNMTVYAVNR GKAIAAFRVV DDLKRGLNLV VAHIDSPRLD FKPNPLIEDE QIALFKTHYY
+     GGIKKYHWLS IPLEIHGVLF KNDGTEIEIH IGDKPEDPVF TIPDLLPHLD KEDAKISEKF
+     KGENLMLIAG TIPLSGEEKE AVKTNVLKIL NEMYGITEED FVSGEIEVVP AFSPREVGMD
+     RSLIGAYGQD DRICAYTALR ALLSANPEKS IGVIFFDKEE IGSDGNTGAK ARFYLKALRQ
+     ILKMQGAKDS EFVLDEVLEN TSVISGDVCA AVNPPYKDVH DLHNAPKLGY GVALVKYTGA
+     RGKYSTNDAH AEFVARVRKV LNEQGVIWQV ATLGKVDQGG GGTIAKFFAE RGSDVIDMGP
+     ALLGMHSPFE ISSKADLFET YVAYRSLMEK L
+//

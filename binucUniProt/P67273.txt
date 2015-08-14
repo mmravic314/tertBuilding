@@ -1,0 +1,87 @@
+ID   GCH1L_STAAN             Reviewed;         366 AA.
+AC   P67273; Q99TT7;
+DT   11-OCT-2004, integrated into UniProtKB/Swiss-Prot.
+DT   11-OCT-2004, sequence version 1.
+DT   22-JUL-2015, entry version 67.
+DE   RecName: Full=GTP cyclohydrolase 1 type 2 homolog;
+GN   OrderedLocusNames=SA1388;
+OS   Staphylococcus aureus (strain N315).
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcus.
+OX   NCBI_TaxID=158879;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=N315;
+RX   PubMed=11418146; DOI=10.1016/S0140-6736(00)04403-2;
+RA   Kuroda M., Ohta T., Uchiyama I., Baba T., Yuzawa H., Kobayashi I.,
+RA   Cui L., Oguchi A., Aoki K., Nagai Y., Lian J.-Q., Ito T., Kanamori M.,
+RA   Matsumaru H., Maruyama A., Murakami H., Hosoyama A., Mizutani-Ui Y.,
+RA   Takahashi N.K., Sawano T., Inoue R., Kaito C., Sekimizu K.,
+RA   Hirakawa H., Kuhara S., Goto S., Yabuzaki J., Kanehisa M.,
+RA   Yamashita A., Oshima K., Furuya K., Yoshino C., Shiba T., Hattori M.,
+RA   Ogasawara N., Hayashi H., Hiramatsu K.;
+RT   "Whole genome sequencing of meticillin-resistant Staphylococcus
+RT   aureus.";
+RL   Lancet 357:1225-1240(2001).
+CC   -!- SUBUNIT: Toroid-shaped homohexamer that has a central cavity of
+CC       about 38 Angstroms diameter. {ECO:0000250|UniProtKB:P67272}.
+CC   -!- DOMAIN: Is organized into three distinct structural domains with
+CC       interconnecting topological connectivities. The two NIF3 domains
+CC       at the N- and C-terminus of the protein have the same overall fold
+CC       as canonical NIF3-like proteins. The middle region of the
+CC       polypeptide (residues 126-236) bulges out between the two NIF3
+CC       domains and is structured as a classical PII-like fold. The two
+CC       entries to the central hollow space are capped by the two PII-like
+CC       domain trimers. The trimeric PII domain may play a ligand induced
+CC       signaling role and probably regulates the function of the NIF3-
+CC       like domains. {ECO:0000250|UniProtKB:P67272}.
+CC   -!- SIMILARITY: Belongs to the GTP cyclohydrolase I type 2/NIF3
+CC       family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; BA000018; BAB42651.1; -; Genomic_DNA.
+DR   PIR; F89936; F89936.
+DR   RefSeq; WP_000683940.1; NC_002745.2.
+DR   ProteinModelPortal; P67273; -.
+DR   SMR; P67273; 1-366.
+DR   EnsemblBacteria; BAB42651; BAB42651; BAB42651.
+DR   KEGG; sau:SA1388; -.
+DR   PATRIC; 19575050; VBIStaAur116463_1494.
+DR   eggNOG; COG3323; -.
+DR   HOGENOM; HOG000014257; -.
+DR   OMA; IAHHPPI; -.
+DR   OrthoDB; EOG6D8BD1; -.
+DR   BioCyc; SAUR158879:GJCB-1458-MONOMER; -.
+DR   EvolutionaryTrace; P67273; -.
+DR   Proteomes; UP000000751; Chromosome.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003934; F:GTP cyclohydrolase I activity; IEA:UniProtKB-EC.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0035998; P:7,8-dihydroneopterin 3'-triphosphate biosynthetic process; IEA:UniProtKB-UniPathway.
+DR   InterPro; IPR002678; GTP_cyclohydrolase_I/Nif3.
+DR   InterPro; IPR017221; GTP_cyclohydrolase_I_bac.
+DR   PANTHER; PTHR13799; PTHR13799; 1.
+DR   Pfam; PF01784; NIF3; 1.
+DR   PIRSF; PIRSF037489; UCP037489_NIF3_YqfO; 1.
+DR   SUPFAM; SSF102705; SSF102705; 1.
+DR   TIGRFAMs; TIGR00486; YbgI_SA1388; 1.
+PE   3: Inferred from homology;
+KW   Complete proteome; Metal-binding; Zinc.
+FT   CHAIN         1    366       GTP cyclohydrolase 1 type 2 homolog.
+FT                                /FTId=PRO_0000147329.
+FT   METAL        64     64       Zinc 1. {ECO:0000250|UniProtKB:P67272}.
+FT   METAL        65     65       Zinc 2. {ECO:0000250|UniProtKB:P67272}.
+FT   METAL       102    102       Zinc 1. {ECO:0000250|UniProtKB:P67272}.
+FT   METAL       326    326       Zinc 2. {ECO:0000250|UniProtKB:P67272}.
+FT   METAL       329    329       Zinc 1. {ECO:0000250|UniProtKB:P67272}.
+FT   METAL       329    329       Zinc 2. {ECO:0000250|UniProtKB:P67272}.
+SQ   SEQUENCE   366 AA;  41075 MW;  CA7D5FADFD78FFF4 CRC64;
+     MKIADLMTLL DHHVPFSTAE SWDNVGLLIG DGDVEVTGVL TALDCTLEVV NEAIEKGYNT
+     IISHHPLIFK GVTSLKANGY GLIIRKLIQH DINLIAMHTN LDVNPYGVNM MLAKAMGLKN
+     ISIINNQQDV YYKVQTYIPK DNVGPFKDKL SENGLAQEGN YEYCFFESEG RGQFKPVGEA
+     NPTIGQIDKI EDVDEVKIEF MIDAYQKSRA EQLIKQYHPY ETPVFDFIEI KQTSLYGLGV
+     MAEVDNQMTL EDFAADIKSK LNIPSVRFVG ESNQKIKRIA IIGGSGIGYE YQAVQQGADV
+     FVTGDIKHHD ALDAKIHGVN LIDINHYSEY VMKEGLKTLL MNWFNIEKIN IDVEASTINT
+     DPFQYI
+//

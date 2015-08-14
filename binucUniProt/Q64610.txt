@@ -1,0 +1,448 @@
+ID   ENPP2_RAT               Reviewed;         887 AA.
+AC   Q64610; Q66HQ0;
+DT   19-SEP-2002, integrated into UniProtKB/Swiss-Prot.
+DT   20-MAR-2007, sequence version 2.
+DT   24-JUN-2015, entry version 123.
+DE   RecName: Full=Ectonucleotide pyrophosphatase/phosphodiesterase family member 2;
+DE            Short=E-NPP 2;
+DE            EC=3.1.4.39;
+DE   AltName: Full=Autotaxin;
+DE   AltName: Full=Extracellular lysophospholipase D;
+DE            Short=LysoPLD;
+DE   Flags: Precursor;
+GN   Name=Enpp2; Synonyms=Atx, Npps2;
+OS   Rattus norvegicus (Rat).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Rattus.
+OX   NCBI_TaxID=10116;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), AND TISSUE SPECIFICITY.
+RC   STRAIN=Sprague-Dawley; TISSUE=Brain;
+RX   PubMed=7961762;
+RA   Narita M., Goji J., Nakamura H., Sano K.;
+RT   "Molecular cloning, expression, and localization of a brain-specific
+RT   phosphodiesterase I/nucleotide pyrophosphatase (PD-Ialpha) from rat
+RT   brain.";
+RL   J. Biol. Chem. 269:28235-28242(1994).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2), PROTEIN SEQUENCE OF 28-32 AND
+RP   36-41, SUBCELLULAR LOCATION, AND TISSUE SPECIFICITY.
+RC   STRAIN=Sprague-Dawley;
+RX   PubMed=16436050; DOI=10.1111/j.1365-2443.2006.00924.x;
+RA   Koike S., Keino-Masu K., Ohto T., Masu M.;
+RT   "The N-terminal hydrophobic sequence of autotaxin (ENPP2) functions as
+RT   a signal peptide.";
+RL   Genes Cells 11:133-142(2006).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4]
+RP   FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=12119361; DOI=10.1083/jcb.200204026;
+RA   Umezu-Goto M., Kishi Y., Taira A., Hama K., Dohmae N., Takio K.,
+RA   Yamori T., Mills G.B., Inoue K., Aoki J., Arai H.;
+RT   "Autotaxin has lysophospholipase D activity leading to tumor cell
+RT   growth and motility by lysophosphatidic acid production.";
+RL   J. Cell Biol. 158:227-233(2002).
+RN   [5]
+RP   CHARACTERIZATION, SUBCELLULAR LOCATION, AND MUTAGENESIS OF ASP-171;
+RP   THR-209; ASP-311 AND HIS-315.
+RX   PubMed=12633853; DOI=10.1016/S0014-5793(03)00133-9;
+RA   Gijsbers R., Aoki J., Arai H., Bollen M.;
+RT   "The hydrolysis of lysophospholipids and nucleotides by autotaxin
+RT   (NPP2) involves a single catalytic site.";
+RL   FEBS Lett. 538:60-64(2003).
+RN   [6]
+RP   PROTEOLYTIC PROCESSING, PROTEIN SEQUENCE OF N-TERMINUS, FUNCTION
+RP   CHARACTERIZATION, SUBCELLULAR LOCATION, AND MUTAGENESIS OF ILE-13;
+RP   16-PHE--PHE-18; 18-PHE--SER-21; 21-SER--ILE-24; 24-ILE--CYS-25 AND
+RP   28-PHE--ALA-30.
+RX   PubMed=15985467; DOI=10.1242/jcs.02438;
+RA   Jansen S., Stefan C., Creemers J.W., Waelkens E., Van Eynde A.,
+RA   Stalmans W., Bollen M.;
+RT   "Proteolytic maturation and activation of autotaxin (NPP2), a secreted
+RT   metastasis-enhancing lysophospholipase D.";
+RL   J. Cell Sci. 118:3081-3089(2005).
+RN   [7]
+RP   X-RAY CRYSTALLOGRAPHY (2.05 ANGSTROMS) OF 36-862 IN COMPLEX WITH
+RP   INHIBITOR AND ZINC IONS, CATALYTIC ACTIVITY, COFACTOR, CALCIUM
+RP   BINDING, DISULFIDE BONDS, GLYCOSYLATION AT ASN-524, ACTIVE SITE,
+RP   MUTAGENESIS OF LYS-430 AND 764-ASP--ASP-768, AND SUBCELLULAR LOCATION.
+RX   PubMed=21240271; DOI=10.1038/nsmb.1980;
+RA   Hausmann J., Kamtekar S., Christodoulou E., Day J.E., Wu T.,
+RA   Fulkerson Z., Albers H.M., van Meeteren L.A., Houben A.J.,
+RA   van Zeijl L., Jansen S., Andries M., Hall T., Pegg L.E., Benson T.E.,
+RA   Kasiem M., Harlos K., Kooi C.W., Smyth S.S., Ovaa H., Bollen M.,
+RA   Morris A.J., Moolenaar W.H., Perrakis A.;
+RT   "Structural basis of substrate discrimination and integrin binding by
+RT   autotaxin.";
+RL   Nat. Struct. Mol. Biol. 18:198-204(2011).
+CC   -!- FUNCTION: Hydrolyzes lysophospholipids to produce lysophosphatidic
+CC       acid (LPA) in extracellular fluids. Major substrate is
+CC       lysophosphatidylcholine. Also can act on
+CC       sphingosylphosphphorylcholine producing sphingosine-1-phosphate, a
+CC       modulator of cell motility. Can hydrolyze, in vitro, bis-pNPP, to
+CC       some extent pNP-TMP, and barely ATP. Involved in several motility-
+CC       related processes such as angiogenesis and neurite outgrowth. Acts
+CC       as an angiogenic factor by stimulating migration of smooth muscle
+CC       cells and microtubule formation. Stimulates migration of melanoma
+CC       cells, probably via a pertussis toxin-sensitive G protein. May
+CC       have a role in induction of parturition. Possible involvement in
+CC       cell proliferation and adipose tissue development. Tumor cell
+CC       motility-stimulating factor. {ECO:0000269|PubMed:12119361,
+CC       ECO:0000269|PubMed:15985467}.
+CC   -!- CATALYTIC ACTIVITY: 1-alkyl-sn-glycero-3-phosphoethanolamine +
+CC       H(2)O = 1-alkyl-sn-glycerol 3-phosphate + ethanolamine.
+CC       {ECO:0000269|PubMed:21240271}.
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC         Evidence={ECO:0000269|PubMed:21240271};
+CC       Note=Binds 2 Zn(2+) ions per subunit.
+CC       {ECO:0000269|PubMed:21240271};
+CC   -!- COFACTOR:
+CC       Name=Ca(2+); Xref=ChEBI:CHEBI:29108;
+CC         Evidence={ECO:0000269|PubMed:21240271};
+CC       Note=Binds 1 Ca(2+) ion per subunit.
+CC       {ECO:0000269|PubMed:21240271};
+CC   -!- ENZYME REGULATION: Inhibited by lysophosphatidic acid (LPA) and
+CC       sphingosine-1-phosphate (S1P). Inhibited by EDTA and EGTA (By
+CC       similarity). {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000269|PubMed:12119361,
+CC       ECO:0000269|PubMed:12633853, ECO:0000269|PubMed:15985467,
+CC       ECO:0000269|PubMed:16436050, ECO:0000269|PubMed:21240271}.
+CC       Note=Secreted by most body fluids including serum and CSF. Also by
+CC       adipocytes and numerous cancer cells.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q64610-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q64610-2; Sequence=VSP_024018;
+CC         Note=No experimental confirmation available.;
+CC   -!- TISSUE SPECIFICITY: Abundantly expressed in cerebrum and
+CC       cerebellum. Localized in secretory epithelial cells in the brain
+CC       and the eye including choroid plexus epithelial cells, ciliary
+CC       epithelial cells, iris pigment epithelial cells, and retinal
+CC       pigment cells. {ECO:0000269|PubMed:16436050,
+CC       ECO:0000269|PubMed:7961762}.
+CC   -!- PTM: N-glycosylation, but not furin-cleavage, plays a critical
+CC       role on secretion and on lysoPLD activity. {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the nucleotide
+CC       pyrophosphatase/phosphodiesterase family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 2 SMB (somatomedin-B) domains. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; D28560; BAA05910.1; -; mRNA.
+DR   EMBL; DQ131564; AAZ99725.1; -; mRNA.
+DR   EMBL; BC081747; AAH81747.1; -; mRNA.
+DR   PIR; A55453; A55453.
+DR   RefSeq; NP_476445.2; NM_057104.2.
+DR   UniGene; Rn.20403; -.
+DR   PDB; 2XR9; X-ray; 2.05 A; A=36-887.
+DR   PDB; 2XRG; X-ray; 3.20 A; A=1-887.
+DR   PDBsum; 2XR9; -.
+DR   PDBsum; 2XRG; -.
+DR   ProteinModelPortal; Q64610; -.
+DR   MINT; MINT-4997409; -.
+DR   PaxDb; Q64610; -.
+DR   PRIDE; Q64610; -.
+DR   GeneID; 84050; -.
+DR   KEGG; rno:84050; -.
+DR   UCSC; RGD:69298; rat. [Q64610-1]
+DR   CTD; 5168; -.
+DR   RGD; 69298; Enpp2.
+DR   eggNOG; COG1524; -.
+DR   HOGENOM; HOG000037439; -.
+DR   HOVERGEN; HBG051484; -.
+DR   InParanoid; Q64610; -.
+DR   KO; K01122; -.
+DR   PhylomeDB; Q64610; -.
+DR   BRENDA; 3.1.4.39; 5301.
+DR   SABIO-RK; Q64610; -.
+DR   EvolutionaryTrace; Q64610; -.
+DR   NextBio; 616633; -.
+DR   PRO; PR:Q64610; -.
+DR   Proteomes; UP000002494; Unplaced.
+DR   Genevisible; Q64610; RN.
+DR   GO; GO:0005737; C:cytoplasm; IDA:RGD.
+DR   GO; GO:0005615; C:extracellular space; IDA:UniProtKB.
+DR   GO; GO:0005794; C:Golgi apparatus; IDA:RGD.
+DR   GO; GO:0047391; F:alkylglycerophosphoethanolamine phosphodiesterase activity; IDA:RGD.
+DR   GO; GO:0005509; F:calcium ion binding; IDA:UniProtKB.
+DR   GO; GO:0004622; F:lysophospholipase activity; IDA:UniProtKB.
+DR   GO; GO:0003676; F:nucleic acid binding; IEA:InterPro.
+DR   GO; GO:0004551; F:nucleotide diphosphatase activity; IEA:InterPro.
+DR   GO; GO:0004528; F:phosphodiesterase I activity; IMP:RGD.
+DR   GO; GO:0030247; F:polysaccharide binding; IEA:InterPro.
+DR   GO; GO:0005044; F:scavenger receptor activity; IEA:InterPro.
+DR   GO; GO:0008270; F:zinc ion binding; IDA:UniProtKB.
+DR   GO; GO:0060326; P:cell chemotaxis; IMP:RGD.
+DR   GO; GO:0071276; P:cellular response to cadmium ion; IEP:RGD.
+DR   GO; GO:0071392; P:cellular response to estradiol stimulus; IEP:RGD.
+DR   GO; GO:0044849; P:estrous cycle; IEP:RGD.
+DR   GO; GO:0006955; P:immune response; IEA:InterPro.
+DR   GO; GO:0001953; P:negative regulation of cell-matrix adhesion; IDA:RGD.
+DR   GO; GO:0090305; P:nucleic acid phosphodiester bond hydrolysis; IMP:GOC.
+DR   GO; GO:0034638; P:phosphatidylcholine catabolic process; IDA:UniProtKB.
+DR   GO; GO:0008284; P:positive regulation of cell proliferation; IDA:RGD.
+DR   GO; GO:0051894; P:positive regulation of focal adhesion assembly; IDA:RGD.
+DR   GO; GO:0048714; P:positive regulation of oligodendrocyte differentiation; IDA:RGD.
+DR   GO; GO:1900026; P:positive regulation of substrate adhesion-dependent cell spreading; IDA:RGD.
+DR   GO; GO:0045765; P:regulation of angiogenesis; IEA:InterPro.
+DR   GO; GO:0030334; P:regulation of cell migration; IEA:InterPro.
+DR   GO; GO:1903165; P:response to polycyclic arene; IEP:RGD.
+DR   Gene3D; 3.40.570.10; -; 1.
+DR   Gene3D; 3.40.720.10; -; 1.
+DR   InterPro; IPR017849; Alkaline_Pase-like_a/b/a.
+DR   InterPro; IPR017850; Alkaline_phosphatase_core.
+DR   InterPro; IPR001604; DNA/RNA_non-sp_Endonuclease.
+DR   InterPro; IPR024873; E-NPP.
+DR   InterPro; IPR029881; ENPP2.
+DR   InterPro; IPR020821; Extracellular_endonuc_su_A.
+DR   InterPro; IPR002591; Phosphodiest/P_Trfase.
+DR   InterPro; IPR020436; Somatomedin_B_chordata.
+DR   InterPro; IPR001212; Somatomedin_B_dom.
+DR   PANTHER; PTHR10151; PTHR10151; 1.
+DR   PANTHER; PTHR10151:SF21; PTHR10151:SF21; 1.
+DR   Pfam; PF01223; Endonuclease_NS; 1.
+DR   Pfam; PF01663; Phosphodiest; 2.
+DR   Pfam; PF01033; Somatomedin_B; 2.
+DR   PRINTS; PR00022; SOMATOMEDINB.
+DR   SMART; SM00892; Endonuclease_NS; 1.
+DR   SMART; SM00477; NUC; 1.
+DR   SMART; SM00201; SO; 2.
+DR   SUPFAM; SSF53649; SSF53649; 1.
+DR   PROSITE; PS00524; SMB_1; 2.
+DR   PROSITE; PS50958; SMB_2; 2.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Calcium; Chemotaxis;
+KW   Cleavage on pair of basic residues; Complete proteome;
+KW   Direct protein sequencing; Disulfide bond; Glycoprotein; Hydrolase;
+KW   Lipid degradation; Lipid metabolism; Metal-binding; Obesity;
+KW   Reference proteome; Repeat; Secreted; Signal; Zinc.
+FT   SIGNAL        1     27       {ECO:0000269|PubMed:15985467,
+FT                                ECO:0000269|PubMed:16436050}.
+FT   PROPEP       28     35       Removed by furin.
+FT                                {ECO:0000269|PubMed:15985467,
+FT                                ECO:0000269|PubMed:16436050}.
+FT                                /FTId=PRO_0000281651.
+FT   CHAIN        36    887       Ectonucleotide
+FT                                pyrophosphatase/phosphodiesterase family
+FT                                member 2.
+FT                                /FTId=PRO_0000188569.
+FT   DOMAIN       54     97       SMB 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00350}.
+FT   DOMAIN       98    142       SMB 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00350}.
+FT   REGION      210    213       Substrate binding. {ECO:0000250}.
+FT   REGION      243    254       Substrate binding. {ECO:0000250}.
+FT   REGION      854    875       Required for secretion. {ECO:0000250}.
+FT   MOTIF       126    128       Cell attachment site. {ECO:0000255}.
+FT   ACT_SITE    209    209       Nucleophile. {ECO:0000250}.
+FT   METAL       171    171       Zinc 1; catalytic.
+FT   METAL       209    209       Zinc 1; catalytic.
+FT   METAL       311    311       Zinc 2; catalytic.
+FT   METAL       315    315       Zinc 2; catalytic.
+FT   METAL       315    315       Zinc 2; via tele nitrogen; catalytic.
+FT                                {ECO:0000250}.
+FT   METAL       358    358       Zinc 1; catalytic.
+FT   METAL       359    359       Zinc 1; catalytic.
+FT   METAL       359    359       Zinc 1; via tele nitrogen; catalytic.
+FT                                {ECO:0000250}.
+FT   METAL       474    474       Zinc 2; catalytic.
+FT   METAL       474    474       Zinc 2; via tele nitrogen; catalytic.
+FT                                {ECO:0000250}.
+FT   METAL       764    764       Calcium.
+FT   METAL       766    766       Calcium.
+FT   METAL       768    768       Calcium.
+FT   METAL       770    770       Calcium; via carbonyl oxygen.
+FT   METAL       772    772       Calcium.
+FT   BINDING     230    230       Substrate. {ECO:0000250}.
+FT   BINDING     306    306       Substrate. {ECO:0000250}.
+FT   SITE        877    877       Essential for catalytic activity.
+FT                                {ECO:0000250}.
+FT   CARBOHYD     53     53       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    398    398       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    410    410       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    524    524       N-linked (GlcNAc...).
+FT                                {ECO:0000269|PubMed:21240271}.
+FT   CARBOHYD    610    610       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    831    831       N-linked (GlcNAc...). {ECO:0000255}.
+FT   DISULFID     58     75       {ECO:0000255|PROSITE-ProRule:PRU00350,
+FT                                ECO:0000269|PubMed:21240271}.
+FT   DISULFID     62     93       {ECO:0000255|PROSITE-ProRule:PRU00350,
+FT                                ECO:0000269|PubMed:21240271}.
+FT   DISULFID     73     86       {ECO:0000255|PROSITE-ProRule:PRU00350,
+FT                                ECO:0000269|PubMed:21240271}.
+FT   DISULFID     79     85       {ECO:0000255|PROSITE-ProRule:PRU00350,
+FT                                ECO:0000269|PubMed:21240271}.
+FT   DISULFID    102    119       {ECO:0000255|PROSITE-ProRule:PRU00350,
+FT                                ECO:0000269|PubMed:21240271}.
+FT   DISULFID    107    137       {ECO:0000255|PROSITE-ProRule:PRU00350,
+FT                                ECO:0000269|PubMed:21240271}.
+FT   DISULFID    117    130       {ECO:0000255|PROSITE-ProRule:PRU00350,
+FT                                ECO:0000269|PubMed:21240271}.
+FT   DISULFID    123    129       {ECO:0000255|PROSITE-ProRule:PRU00350,
+FT                                ECO:0000269|PubMed:21240271}.
+FT   DISULFID    148    194       {ECO:0000255|PROSITE-ProRule:PRU00350,
+FT                                ECO:0000269|PubMed:21240271}.
+FT   DISULFID    156    350       {ECO:0000255|PROSITE-ProRule:PRU00350,
+FT                                ECO:0000269|PubMed:21240271}.
+FT   DISULFID    366    468       {ECO:0000255|PROSITE-ProRule:PRU00350,
+FT                                ECO:0000269|PubMed:21240271}.
+FT   DISULFID    413    830       {ECO:0000255|PROSITE-ProRule:PRU00350,
+FT                                ECO:0000269|PubMed:21240271}.
+FT   DISULFID    566    691       {ECO:0000255|PROSITE-ProRule:PRU00350,
+FT                                ECO:0000269|PubMed:21240271}.
+FT   DISULFID    568    676       {ECO:0000255|PROSITE-ProRule:PRU00350,
+FT                                ECO:0000269|PubMed:21240271}.
+FT   DISULFID    799    809       {ECO:0000255|PROSITE-ProRule:PRU00350,
+FT                                ECO:0000269|PubMed:21240271}.
+FT   VAR_SEQ     591    615       Missing (in isoform 2).
+FT                                {ECO:0000303|PubMed:16436050}.
+FT                                /FTId=VSP_024018.
+FT   MUTAGEN      13     13       I->L: No effect on secretion.
+FT                                {ECO:0000269|PubMed:15985467}.
+FT   MUTAGEN      16     18       FTF->VLS: No effect on secretion.
+FT                                {ECO:0000269|PubMed:15985467}.
+FT   MUTAGEN      18     21       FAIS->SVCV: No effect on secretion.
+FT                                {ECO:0000269|PubMed:15985467}.
+FT   MUTAGEN      21     24       SVNI->VLTT: No effect on secretion.
+FT                                {ECO:0000269|PubMed:15985467}.
+FT   MUTAGEN      24     25       IC->TI: No effect on secretion.
+FT                                {ECO:0000269|PubMed:15985467}.
+FT   MUTAGEN      28     30       FTA->CIF: No effect on secretion.
+FT                                {ECO:0000269|PubMed:15985467}.
+FT   MUTAGEN     171    171       D->N: Abolishes lysophospholipase D
+FT                                activity. {ECO:0000269|PubMed:12633853}.
+FT   MUTAGEN     209    209       T->A: Abolishes lysophospholipase D
+FT                                activity. {ECO:0000269|PubMed:12633853}.
+FT   MUTAGEN     209    209       T->S: 15% of wild-type lysophospholipase
+FT                                D activity.
+FT                                {ECO:0000269|PubMed:12633853}.
+FT   MUTAGEN     311    311       D->N: Abolishes lysophospholipase D
+FT                                activity. {ECO:0000269|PubMed:12633853}.
+FT   MUTAGEN     315    315       H->Q: 20% of wild-type lysophospholipase
+FT                                D activity.
+FT                                {ECO:0000269|PubMed:12633853}.
+FT   MUTAGEN     430    430       K->A: Impaired secretion. No effect on
+FT                                lysophospholipase activity.
+FT                                {ECO:0000269|PubMed:21240271}.
+FT   MUTAGEN     764    768       DYNYD->SYAYS: Abolishes secretion.
+FT                                Strongly reduced lysophospholipase
+FT                                activity. {ECO:0000269|PubMed:21240271}.
+FT   CONFLICT     97     97       A -> V (in Ref. 1; BAA05910).
+FT                                {ECO:0000305}.
+FT   CONFLICT    107    107       C -> S (in Ref. 1; BAA05910).
+FT                                {ECO:0000305}.
+FT   CONFLICT    120    120       S -> P (in Ref. 1; BAA05910).
+FT                                {ECO:0000305}.
+FT   CONFLICT    147    162       DCEEIKVPECPAGFVR -> AARNQSSECLQVCP (in
+FT                                Ref. 1; BAA05910). {ECO:0000305}.
+FT   CONFLICT    198    198       A -> V (in Ref. 1; BAA05910).
+FT                                {ECO:0000305}.
+FT   CONFLICT    201    201       M -> T (in Ref. 1; BAA05910).
+FT                                {ECO:0000305}.
+FT   TURN         59     63       {ECO:0000244|PDB:2XR9}.
+FT   STRAND       70     72       {ECO:0000244|PDB:2XR9}.
+FT   TURN         77     83       {ECO:0000244|PDB:2XR9}.
+FT   HELIX        89     92       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       104    106       {ECO:0000244|PDB:2XR9}.
+FT   STRAND      115    118       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       123    126       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       133    138       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       143    145       {ECO:0000244|PDB:2XR9}.
+FT   STRAND      165    171       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       175    180       {ECO:0000244|PDB:2XR9}.
+FT   TURN        182    184       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       186    194       {ECO:0000244|PDB:2XR9}.
+FT   STRAND      195    197       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       209    218       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       222    225       {ECO:0000244|PDB:2XR9}.
+FT   STRAND      230    234       {ECO:0000244|PDB:2XR9}.
+FT   TURN        235    238       {ECO:0000244|PDB:2XR9}.
+FT   STRAND      239    241       {ECO:0000244|PDB:2XR9}.
+FT   STRAND      243    246       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       247    249       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       251    253       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       259    265       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       281    292       {ECO:0000244|PDB:2XR9}.
+FT   TURN        296    298       {ECO:0000244|PDB:2XR9}.
+FT   STRAND      301    310       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       311    317       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       322    324       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       325    344       {ECO:0000244|PDB:2XR9}.
+FT   TURN        348    350       {ECO:0000244|PDB:2XR9}.
+FT   STRAND      352    358       {ECO:0000244|PDB:2XR9}.
+FT   STRAND      368    371       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       372    374       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       379    381       {ECO:0000244|PDB:2XR9}.
+FT   STRAND      382    385       {ECO:0000244|PDB:2XR9}.
+FT   STRAND      387    395       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       404    410       {ECO:0000244|PDB:2XR9}.
+FT   STRAND      420    424       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       425    427       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       430    432       {ECO:0000244|PDB:2XR9}.
+FT   STRAND      442    447       {ECO:0000244|PDB:2XR9}.
+FT   STRAND      452    455       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       481    483       {ECO:0000244|PDB:2XR9}.
+FT   STRAND      487    491       {ECO:0000244|PDB:2XR9}.
+FT   STRAND      496    499       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       505    507       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       508    515       {ECO:0000244|PDB:2XR9}.
+FT   TURN        527    530       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       531    533       {ECO:0000244|PDB:2XR9}.
+FT   STRAND      534    536       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       559    561       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       578    580       {ECO:0000244|PDB:2XR9}.
+FT   TURN        583    586       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       617    620       {ECO:0000244|PDB:2XR9}.
+FT   STRAND      634    638       {ECO:0000244|PDB:2XR9}.
+FT   STRAND      643    647       {ECO:0000244|PDB:2XR9}.
+FT   TURN        648    651       {ECO:0000244|PDB:2XR9}.
+FT   STRAND      652    660       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       671    673       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       685    687       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       691    696       {ECO:0000244|PDB:2XR9}.
+FT   STRAND      701    706       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       708    710       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       714    720       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       723    725       {ECO:0000244|PDB:2XR9}.
+FT   STRAND      726    729       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       731    742       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       744    752       {ECO:0000244|PDB:2XR9}.
+FT   STRAND      754    762       {ECO:0000244|PDB:2XR9}.
+FT   STRAND      768    770       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       774    776       {ECO:0000244|PDB:2XR9}.
+FT   STRAND      790    801       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       806    808       {ECO:0000244|PDB:2XR9}.
+FT   STRAND      813    821       {ECO:0000244|PDB:2XR9}.
+FT   TURN        830    833       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       836    838       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       840    846       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       851    858       {ECO:0000244|PDB:2XR9}.
+FT   HELIX       870    878       {ECO:0000244|PDB:2XR9}.
+SQ   SEQUENCE   887 AA;  101576 MW;  40AD1C957F833869 CRC64;
+     MARQGCLGSF QVISLFTFAI SVNICLGFTA SRIKRAEWDE GPPTVLSDSP WTNTSGSCKG
+     RCFELQEVGP PDCRCDNLCK SYSSCCHDFD ELCLKTARGW ECTKDRCGEV RNEENACHCS
+     EDCLSRGDCC TNYQVVCKGE SHWVDDDCEE IKVPECPAGF VRPPLIIFSV DGFRASYMKK
+     GSKVMPNIEK LRSCGTHAPY MRPVYPTKTF PNLYTLATGL YPESHGIVGN SMYDPVFDAS
+     FHLRGREKFN HRWWGGQPLW ITATKQGVRA GTFFWSVSIP HERRILTILQ WLSLPDNERP
+     SVYAFYSEQP DFSGHKYGPF GPEMTNPLRE IDKTVGQLMD GLKQLRLHRC VNVIFVGDHG
+     MEDVTCDRTE FLSNYLTNVD DITLVPGTLG RIRAKSINNS KYDPKTIIAN LTCKKPDQHF
+     KPYMKQHLPK RLHYANNRRI EDIHLLVDRR WHVARKPLDV YKKPSGKCFF QGDHGFDNKV
+     NSMQTVFVGY GPTFKYRTKV PPFENIELYN VMCDLLGLKP APNNGTHGSL NHLLRTNTFR
+     PTMPDEVSRP NYPGIMYLQS EFDLGCTCDD KVEPKNKLEE LNKRLHTKGS TEAETGKFRG
+     SKHENKKNLN GSVEPRKERH LLYGRPAVLY RTSYDILYHT DFESGYSEIF LMPLWTSYTI
+     SKQAEVSSIP EHLTNCVRPD VRVSPGFSQN CLAYKNDKQM SYGFLFPPYL SSSPEAKYDA
+     FLVTNMVPMY PAFKRVWAYF QRVLVKKYAS ERNGVNVISG PIFDYNYDGL RDTEDEIKQY
+     VEGSSIPVPT HYYSIITSCL DFTQPADKCD GPLSVSSFIL PHRPDNDESC NSSEDESKWV
+     EELMKMHTAR VRDIEHLTGL DFYRKTSRSY SEILTLKTYL HTYESEI
+//

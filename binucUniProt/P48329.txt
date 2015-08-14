@@ -1,0 +1,92 @@
+ID   YCX8_CYAPA              Reviewed;         180 AA.
+AC   P48329;
+DT   01-FEB-1996, integrated into UniProtKB/Swiss-Prot.
+DT   01-FEB-1996, sequence version 1.
+DT   07-JAN-2015, entry version 71.
+DE   RecName: Full=Uncharacterized protein in petA-psaM intergenic region;
+DE   AltName: Full=ORF180;
+OS   Cyanophora paradoxa.
+OG   Plastid; Cyanelle.
+OC   Eukaryota; Glaucocystophyceae; Cyanophoraceae; Cyanophora.
+OX   NCBI_TaxID=2762;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=UTEX LB 555 / Pringsheim;
+RA   Stirewalt V.L., Michalowski C.B., Loeffelhardt W., Bohnert H.J.,
+RA   Bryant D.A.;
+RT   "Nucleotide sequence of the cyanelle DNA from Cyanophora paradoxa.";
+RL   Plant Mol. Biol. Rep. 13:327-332(1995).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=UTEX LB 555 / Pringsheim;
+RA   Loeffelhardt W., Stirewalt V.L., Michalowski C.B., Annarella M.,
+RA   Farley J.Y., Schluchter W.M., Chung S., Newmann-Spallart C.,
+RA   Steiner J.M., Jakowitsch J., Bohnert H.J., Bryant D.A.;
+RT   "The complete sequence of the cyanelle genome of Cyanophora paradoxa:
+RT   the genetic complexity of a primitive plastid.";
+RL   (In) Schenk H.E.A., Herrmann R., Jeon K.W., Mueller N.E.,
+RL   Schwemmler W. (eds.);
+RL   Eukaryotism and symbiosis, pp.40-48, Springer-Verlag, Heidelberg
+RL   (1997).
+CC   -!- COFACTOR:
+CC       Name=Fe(3+); Xref=ChEBI:CHEBI:29034; Evidence={ECO:0000305};
+CC       Note=Binds 1 Fe(3+) ion per subunit. {ECO:0000305};
+CC   -!- SUBCELLULAR LOCATION: Plastid, cyanelle.
+CC   -!- SIMILARITY: Contains 1 ferritin-like diiron domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00085}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U30821; AAA81276.1; -; Genomic_DNA.
+DR   PIR; T06933; T06933.
+DR   RefSeq; NP_043245.1; NC_001675.1.
+DR   PDB; 3QHB; X-ray; 1.20 A; A/B=2-180.
+DR   PDB; 3QHC; X-ray; 1.25 A; A/B=2-180.
+DR   PDB; 3SID; X-ray; 1.40 A; A/B=1-180.
+DR   PDBsum; 3QHB; -.
+DR   PDBsum; 3QHC; -.
+DR   PDBsum; 3SID; -.
+DR   ProteinModelPortal; P48329; -.
+DR   GeneID; 801647; -.
+DR   EvolutionaryTrace; P48329; -.
+DR   GO; GO:0009842; C:cyanelle; IEA:UniProtKB-SubCell.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016491; F:oxidoreductase activity; IEA:InterPro.
+DR   Gene3D; 1.20.1260.10; -; 1.
+DR   InterPro; IPR009040; Ferritin-like_diiron.
+DR   InterPro; IPR009078; Ferritin-like_SF.
+DR   InterPro; IPR012347; Ferritin-rel.
+DR   InterPro; IPR003251; Rubrerythrin.
+DR   Pfam; PF02915; Rubrerythrin; 1.
+DR   SUPFAM; SSF47240; SSF47240; 1.
+DR   PROSITE; PS50905; FERRITIN_LIKE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cyanelle; Iron; Metal-binding; Plastid.
+FT   CHAIN         1    180       Uncharacterized protein in petA-psaM
+FT                                intergenic region.
+FT                                /FTId=PRO_0000135068.
+FT   DOMAIN       21    180       Ferritin-like diiron.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00085}.
+FT   METAL        71     71       Iron. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00085}.
+FT   METAL        74     74       Iron. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00085}.
+FT   METAL       162    162       Iron. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00085}.
+FT   METAL       165    165       Iron. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00085}.
+FT   HELIX        10     16       {ECO:0000244|PDB:3QHB}.
+FT   HELIX        26     42       {ECO:0000244|PDB:3QHB}.
+FT   HELIX        44     54       {ECO:0000244|PDB:3QHB}.
+FT   HELIX        58     81       {ECO:0000244|PDB:3QHB}.
+FT   HELIX        91    105       {ECO:0000244|PDB:3QHB}.
+FT   HELIX       107    112       {ECO:0000244|PDB:3QHB}.
+FT   HELIX       115    133       {ECO:0000244|PDB:3QHB}.
+FT   HELIX       135    145       {ECO:0000244|PDB:3QHB}.
+FT   HELIX       149    177       {ECO:0000244|PDB:3QHB}.
+SQ   SEQUENCE   180 AA;  19993 MW;  6B59C0C301572089 CRC64;
+     MGLNYNQEDF MGLDRFFQDA VSHNNTDANA ASSIEVEMYE CDCMYPTFAE IARRSGQPEI
+     GAMFDAIAKE EGMHAQLLTK LYSELEVKDS AETLEAKRLV STIESQIDAV ASDSRGLRRA
+     LETALEVETI ESQKTYPAFA KLAAEQGNME VATAFEAIVK SETKHANWVK RALENLLEVA
+//

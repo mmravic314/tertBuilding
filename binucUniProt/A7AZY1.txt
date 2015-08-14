@@ -1,0 +1,65 @@
+ID   A7AZY1_RUMGN            Unreviewed;       131 AA.
+AC   A7AZY1;
+DT   11-SEP-2007, integrated into UniProtKB/TrEMBL.
+DT   11-SEP-2007, sequence version 1.
+DT   24-JUN-2015, entry version 18.
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EDN78806.1};
+GN   ORFNames=RUMGNA_00854 {ECO:0000313|EMBL:EDN78806.1};
+OS   Ruminococcus gnavus ATCC 29149.
+OC   Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+OC   Blautia.
+OX   NCBI_TaxID=411470 {ECO:0000313|EMBL:EDN78806.1};
+RN   [1] {ECO:0000313|EMBL:EDN78806.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=ATCC 29149 {ECO:0000313|EMBL:EDN78806.1};
+RA   Fulton L., Clifton S., Fulton B., Xu J., Minx P., Pepin K.H.,
+RA   Johnson M., Thiruvilangam P., Bhonagiri V., Nash W.E., Mardis E.R.,
+RA   Wilson R.K.;
+RL   Submitted (APR-2007) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000313|EMBL:EDN78806.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=ATCC 29149 {ECO:0000313|EMBL:EDN78806.1};
+RA   Sudarsanam P., Ley R., Guruge J., Turnbaugh P.J., Mahowald M.,
+RA   Liep D., Gordon J.;
+RT   "Draft genome sequence of Ruminococcus gnavus (ATCC 29149).";
+RL   Submitted (JUN-2007) to the EMBL/GenBank/DDBJ databases.
+RN   [3] {ECO:0000213|PDB:3U7Z}
+RP   X-RAY CRYSTALLOGRAPHY (1.30 ANGSTROMS) OF 32-131 IN COMPLEX WITH
+RP   CALCIUM.
+RG   JOINT CENTER FOR STRUCTURAL GENOMICS (JCSG);
+RT   "Crystal structure of a putative metal binding protein RUMGNA_00854
+RT   (ZP_02040092.1) from Ruminococcus gnavus ATCC 29149 at 1.30 A
+RT   resolution.";
+RL   Submitted (OCT-2011) to the PDB data bank.
+CC   -!- CAUTION: The sequence shown here is derived from an
+CC       EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is
+CC       preliminary data. {ECO:0000313|EMBL:EDN78806.1}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AAYG02000007; EDN78806.1; -; Genomic_DNA.
+DR   RefSeq; WP_004841235.1; NZ_AAYG02000007.1.
+DR   PDB; 3U7Z; X-ray; 1.30 A; A/B=32-131.
+DR   PDBsum; 3U7Z; -.
+DR   STRING; 411470.RUMGNA_00854; -.
+DR   EnsemblBacteria; EDN78806; EDN78806; RUMGNA_00854.
+DR   PATRIC; 29783829; VBIRumGna65643_0729.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   InterPro; IPR027954; DUF4430.
+DR   Pfam; PF14478; DUF4430; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3U7Z}; Calcium {ECO:0000213|PDB:3U7Z};
+KW   Metal-binding {ECO:0000213|PDB:3U7Z}.
+FT   METAL        36     36       Calcium 1; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:3U7Z}.
+FT   METAL        67     67       Calcium 2. {ECO:0000213|PDB:3U7Z}.
+FT   METAL        70     70       Calcium 2. {ECO:0000213|PDB:3U7Z}.
+FT   METAL        72     72       Calcium 2; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:3U7Z}.
+FT   METAL        73     73       Calcium 2. {ECO:0000213|PDB:3U7Z}.
+SQ   SEQUENCE   131 AA;  14250 MW;  34AD80E4DD69F3A1 CRC64;
+     MKKKSGLIAG IVILILLCIG AGVLYQNMKP AASEGEKHIT VTVIHGDQTE NVFEFDTDAK
+     YLGEVLESEN LVDGESGEYG LFITTVDEET ADDSKQQWWC ITKGGEQVNT SADQTPVSDG
+     DAFELTLKEG Y
+//

@@ -1,0 +1,224 @@
+ID   BLA2_BACCE              Reviewed;         257 AA.
+AC   P04190;
+DT   20-MAR-1987, integrated into UniProtKB/Swiss-Prot.
+DT   20-MAR-1987, sequence version 1.
+DT   22-JUL-2015, entry version 107.
+DE   RecName: Full=Beta-lactamase 2;
+DE            EC=3.5.2.6;
+DE   AltName: Full=Beta-lactamase II;
+DE   AltName: Full=Cephalosporinase;
+DE   AltName: Full=Penicillinase;
+DE   Flags: Precursor;
+GN   Name=blm;
+OS   Bacillus cereus.
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus;
+OC   Bacillus cereus group.
+OX   NCBI_TaxID=1396;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=569/H / NCTC 9945;
+RX   PubMed=3930467;
+RA   Hussain M., Carlino A., Madonna M.J., Lampen J.O.;
+RT   "Cloning and sequencing of the metallothioprotein beta-lactamase II
+RT   gene of Bacillus cereus 569/H in Escherichia coli.";
+RL   J. Bacteriol. 164:223-229(1985).
+RN   [2]
+RP   PROTEIN SEQUENCE OF 31-183; 187-210 AND 214-257.
+RC   STRAIN=569/H / NCTC 9945;
+RX   PubMed=3930290; DOI=10.1016/0014-5793(85)81024-3;
+RA   Ambler R.P., Daniel M., Fleming J., Hermoso J.M., Pang C., Waley S.G.;
+RT   "The amino acid sequence of the zinc-requiring beta-lactamase II from
+RT   the bacterium Bacillus cereus 569.";
+RL   FEBS Lett. 189:207-211(1985).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (3.5 ANGSTROMS).
+RX   PubMed=3124808;
+RA   Sutton B.J., Artymiuk P.J., Cordero-Borboa A.E., Little C.,
+RA   Phillips D.C., Waley S.G.;
+RT   "An X-ray-crystallographic study of beta-lactamase II from Bacillus
+RT   cereus at 0.35-nm resolution.";
+RL   Biochem. J. 248:181-188(1987).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS).
+RX   PubMed=7588620;
+RA   Carfi A., Pares S., Duee E., Galleni M., Duez C., Frere J.-M.,
+RA   Dideberg O.;
+RT   "The 3-D structure of a zinc metallo-beta-lactamase from Bacillus
+RT   cereus reveals a new type of protein fold.";
+RL   EMBO J. 14:4914-4921(1995).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (1.85 ANGSTROMS).
+RX   PubMed=9761898; DOI=10.1107/S0907444997010627;
+RA   Carfi A., Duee E., Galleni M., Frere J.-M., Dideberg O.;
+RT   "1.85-A resolution structure of the zinc (II) beta-lactamase from
+RT   Bacillus cereus.";
+RL   Acta Crystallogr. D 54:313-323(1998).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS).
+RC   STRAIN=569/H / NCTC 9945;
+RX   PubMed=9730812; DOI=10.1021/bi980506i;
+RA   Fabiane S.M., Sohi M.K., Wan T., Payne D.J., Bateson J.H.,
+RA   Mitchell T., Sutton B.J.;
+RT   "Crystal structure of the zinc-dependent beta-lactamase from Bacillus
+RT   cereus at 1.9-A resolution: binuclear active site with features of a
+RT   mononuclear enzyme.";
+RL   Biochemistry 37:12404-12411(1998).
+RN   [7]
+RP   X-RAY CRYSTALLOGRAPHY (1.85 ANGSTROMS) OF MUTANT SER-198.
+RC   STRAIN=569/H / NCTC 9945;
+RX   PubMed=10933508; DOI=10.1110/ps.9.7.1402;
+RA   Chantalat L., Duee E., Galleni M., Frere J.-M., Dideberg O.;
+RT   "Structural effects of the active site mutation cysteine to serine in
+RT   Bacillus cereus zinc-beta-lactamase.";
+RL   Protein Sci. 9:1402-1406(2000).
+CC   -!- FUNCTION: Can hydrolyze carbapenem compounds.
+CC   -!- CATALYTIC ACTIVITY: A beta-lactam + H(2)O = a substituted beta-
+CC       amino acid.
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC       Note=Binds 2 Zn(2+) ions per subunit. The enzyme can also function
+CC       with only 1 Zn(2+) ion.;
+CC   -!- SUBUNIT: Monomer.
+CC   -!- SIMILARITY: Belongs to the metallo-beta-lactamase superfamily.
+CC       Class-B beta-lactamase family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M11189; AAA22276.1; -; Genomic_DNA.
+DR   PIR; A91806; PNBSU2.
+DR   PDB; 1BC2; X-ray; 1.90 A; A/B=31-257.
+DR   PDB; 1BMC; X-ray; 2.50 A; A=37-257.
+DR   PDB; 1BVT; X-ray; 1.85 A; A=31-257.
+DR   PDB; 1DXK; X-ray; 1.85 A; A=31-257.
+DR   PDB; 1MQO; X-ray; 1.35 A; A=31-257.
+DR   PDB; 2BC2; X-ray; 1.70 A; A/B=31-257.
+DR   PDB; 2BFK; X-ray; 2.00 A; A/B=31-257.
+DR   PDB; 2BFL; X-ray; 1.80 A; A/B=31-257.
+DR   PDB; 2BFZ; X-ray; 2.30 A; A/B=31-191.
+DR   PDB; 2BG2; X-ray; 2.40 A; A/B=31-257.
+DR   PDB; 2BG6; X-ray; 2.30 A; A/B=31-257.
+DR   PDB; 2BG7; X-ray; 2.10 A; A/B=31-257.
+DR   PDB; 2BG8; X-ray; 2.50 A; A/B=31-257.
+DR   PDB; 2BGA; X-ray; 2.70 A; A/B=31-257.
+DR   PDB; 2M5C; NMR; -; A=31-257.
+DR   PDB; 2M5D; NMR; -; A=31-257.
+DR   PDB; 2NXA; X-ray; 2.29 A; A=37-257.
+DR   PDB; 2NYP; X-ray; 1.84 A; A=37-257.
+DR   PDB; 2NZE; X-ray; 1.80 A; A/B=36-257.
+DR   PDB; 2NZF; X-ray; 2.28 A; A=37-257.
+DR   PDB; 2UYX; X-ray; 1.95 A; A=30-257.
+DR   PDB; 3BC2; X-ray; 1.70 A; A=31-257.
+DR   PDB; 3FCZ; X-ray; 2.80 A; A/B=36-247.
+DR   PDB; 3I0V; X-ray; 1.60 A; A=31-257.
+DR   PDB; 3I11; X-ray; 1.45 A; A=31-257.
+DR   PDB; 3I13; X-ray; 1.74 A; A=31-257.
+DR   PDB; 3I14; X-ray; 1.55 A; A=31-257.
+DR   PDB; 3I15; X-ray; 1.55 A; A=31-257.
+DR   PDB; 3KNR; X-ray; 1.71 A; A/B/C/D=31-257.
+DR   PDB; 3KNS; X-ray; 1.58 A; A/B/C/D=31-257.
+DR   PDB; 4C09; X-ray; 1.20 A; A=31-257.
+DR   PDB; 4C1C; X-ray; 1.18 A; A=31-257.
+DR   PDB; 4C1H; X-ray; 1.10 A; A=31-257.
+DR   PDB; 4NQ4; X-ray; 1.67 A; A=36-257.
+DR   PDB; 4NQ5; X-ray; 2.29 A; A=36-257.
+DR   PDB; 4NQ6; X-ray; 1.80 A; A=36-257.
+DR   PDB; 4NQ7; X-ray; 2.25 A; A=36-257.
+DR   PDB; 4TYT; X-ray; 1.80 A; A=31-257.
+DR   PDBsum; 1BC2; -.
+DR   PDBsum; 1BMC; -.
+DR   PDBsum; 1BVT; -.
+DR   PDBsum; 1DXK; -.
+DR   PDBsum; 1MQO; -.
+DR   PDBsum; 2BC2; -.
+DR   PDBsum; 2BFK; -.
+DR   PDBsum; 2BFL; -.
+DR   PDBsum; 2BFZ; -.
+DR   PDBsum; 2BG2; -.
+DR   PDBsum; 2BG6; -.
+DR   PDBsum; 2BG7; -.
+DR   PDBsum; 2BG8; -.
+DR   PDBsum; 2BGA; -.
+DR   PDBsum; 2M5C; -.
+DR   PDBsum; 2M5D; -.
+DR   PDBsum; 2NXA; -.
+DR   PDBsum; 2NYP; -.
+DR   PDBsum; 2NZE; -.
+DR   PDBsum; 2NZF; -.
+DR   PDBsum; 2UYX; -.
+DR   PDBsum; 3BC2; -.
+DR   PDBsum; 3FCZ; -.
+DR   PDBsum; 3I0V; -.
+DR   PDBsum; 3I11; -.
+DR   PDBsum; 3I13; -.
+DR   PDBsum; 3I14; -.
+DR   PDBsum; 3I15; -.
+DR   PDBsum; 3KNR; -.
+DR   PDBsum; 3KNS; -.
+DR   PDBsum; 4C09; -.
+DR   PDBsum; 4C1C; -.
+DR   PDBsum; 4C1H; -.
+DR   PDBsum; 4NQ4; -.
+DR   PDBsum; 4NQ5; -.
+DR   PDBsum; 4NQ6; -.
+DR   PDBsum; 4NQ7; -.
+DR   PDBsum; 4TYT; -.
+DR   ProteinModelPortal; P04190; -.
+DR   SMR; P04190; 37-247.
+DR   BRENDA; 3.5.2.6; 648.
+DR   SABIO-RK; P04190; -.
+DR   EvolutionaryTrace; P04190; -.
+DR   GO; GO:0008800; F:beta-lactamase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:InterPro.
+DR   GO; GO:0017001; P:antibiotic catabolic process; IEA:InterPro.
+DR   GO; GO:0046677; P:response to antibiotic; IEA:UniProtKB-KW.
+DR   Gene3D; 3.60.15.10; -; 1.
+DR   InterPro; IPR001279; Beta-lactamas-like.
+DR   InterPro; IPR001018; Beta-lactamase_class-B_CS.
+DR   Pfam; PF00753; Lactamase_B; 1.
+DR   SMART; SM00849; Lactamase_B; 1.
+DR   SUPFAM; SSF56281; SSF56281; 1.
+DR   PROSITE; PS00743; BETA_LACTAMASE_B_1; 1.
+DR   PROSITE; PS00744; BETA_LACTAMASE_B_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Antibiotic resistance; Direct protein sequencing;
+KW   Hydrolase; Metal-binding; Signal; Zinc.
+FT   SIGNAL        1     30       {ECO:0000269|PubMed:3930290}.
+FT   CHAIN        31    257       Beta-lactamase 2.
+FT                                /FTId=PRO_0000016942.
+FT   METAL       116    116       Zinc 1; high-affinity.
+FT   METAL       118    118       Zinc 1; high-affinity.
+FT   METAL       120    120       Zinc 2; low-affinity.
+FT   METAL       179    179       Zinc 1; high-affinity.
+FT   METAL       198    198       Zinc 2; low-affinity.
+FT   METAL       240    240       Zinc 2; low-affinity.
+FT   STRAND       38     40       {ECO:0000244|PDB:4C1H}.
+FT   STRAND       42     52       {ECO:0000244|PDB:4C1H}.
+FT   STRAND       55     64       {ECO:0000244|PDB:4C1H}.
+FT   STRAND       67     78       {ECO:0000244|PDB:4C1H}.
+FT   STRAND       81     85       {ECO:0000244|PDB:4C1H}.
+FT   HELIX        91    105       {ECO:0000244|PDB:4C1H}.
+FT   STRAND      109    113       {ECO:0000244|PDB:4C1H}.
+FT   STRAND      116    118       {ECO:0000244|PDB:4C1H}.
+FT   HELIX       119    122       {ECO:0000244|PDB:4C1H}.
+FT   HELIX       125    131       {ECO:0000244|PDB:4C1H}.
+FT   STRAND      134    136       {ECO:0000244|PDB:4C1H}.
+FT   HELIX       139    147       {ECO:0000244|PDB:4C1H}.
+FT   STRAND      159    165       {ECO:0000244|PDB:4C1H}.
+FT   STRAND      168    173       {ECO:0000244|PDB:4C1H}.
+FT   STRAND      177    182       {ECO:0000244|PDB:4C1H}.
+FT   STRAND      185    187       {ECO:0000244|PDB:4C1H}.
+FT   TURN        189    191       {ECO:0000244|PDB:4C1H}.
+FT   STRAND      194    197       {ECO:0000244|PDB:4C1H}.
+FT   STRAND      212    214       {ECO:0000244|PDB:2M5C}.
+FT   TURN        216    218       {ECO:0000244|PDB:4C1H}.
+FT   HELIX       219    229       {ECO:0000244|PDB:4C1H}.
+FT   STRAND      236    241       {ECO:0000244|PDB:4C1H}.
+FT   HELIX       247    255       {ECO:0000244|PDB:4C1H}.
+SQ   SEQUENCE   257 AA;  28092 MW;  268EBFB7DDA45431 CRC64;
+     MKKNTLLKVG LCVGLLGTIQ FVSTISSVQA SQKVEKTVIK NETGTISISQ LNKNVWVHTE
+     LGSFNGEAVP SNGLVLNTSK GLVLVDSSWD DKLTKELIEM VEKKFQKRVT DVIITHAHAD
+     RIGGIKTLKE RGIKAHSTAL TAELAKKNGY EEPLGDLQTV TNLKFGNMKV ETFYPGKGHT
+     EDNIVVWLPQ YNILVGGCLV KSTSAKDLGN VADAYVNEWS TSIENVLKRY RNINAVVPGH
+     GEVGDKGLLL HTLDLLK
+//

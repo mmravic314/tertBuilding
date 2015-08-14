@@ -1,0 +1,183 @@
+ID   AMPL_CAEEL              Reviewed;         491 AA.
+AC   P34629;
+DT   01-FEB-1994, integrated into UniProtKB/Swiss-Prot.
+DT   01-FEB-1994, sequence version 1.
+DT   22-JUL-2015, entry version 116.
+DE   RecName: Full=Leucine aminopeptidase 1;
+DE            EC=3.4.11.1;
+GN   Name=lap-1; ORFNames=ZK353.6;
+OS   Caenorhabditis elegans.
+OC   Eukaryota; Metazoa; Ecdysozoa; Nematoda; Chromadorea; Rhabditida;
+OC   Rhabditoidea; Rhabditidae; Peloderinae; Caenorhabditis.
+OX   NCBI_TaxID=6239;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Bristol N2;
+RX   PubMed=7906398; DOI=10.1038/368032a0;
+RA   Wilson R., Ainscough R., Anderson K., Baynes C., Berks M.,
+RA   Bonfield J., Burton J., Connell M., Copsey T., Cooper J., Coulson A.,
+RA   Craxton M., Dear S., Du Z., Durbin R., Favello A., Fraser A.,
+RA   Fulton L., Gardner A., Green P., Hawkins T., Hillier L., Jier M.,
+RA   Johnston L., Jones M., Kershaw J., Kirsten J., Laisster N.,
+RA   Latreille P., Lightning J., Lloyd C., Mortimore B., O'Callaghan M.,
+RA   Parsons J., Percy C., Rifken L., Roopra A., Saunders D., Shownkeen R.,
+RA   Sims M., Smaldon N., Smith A., Smith M., Sonnhammer E., Staden R.,
+RA   Sulston J., Thierry-Mieg J., Thomas K., Vaudin M., Vaughan K.,
+RA   Waterston R., Watson A., Weinstock L., Wilkinson-Sproat J.,
+RA   Wohldman P.;
+RT   "2.2 Mb of contiguous nucleotide sequence from chromosome III of C.
+RT   elegans.";
+RL   Nature 368:32-38(1994).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Bristol N2;
+RX   PubMed=9851916; DOI=10.1126/science.282.5396.2012;
+RG   The C. elegans sequencing consortium;
+RT   "Genome sequence of the nematode C. elegans: a platform for
+RT   investigating biology.";
+RL   Science 282:2012-2018(1998).
+RN   [3]
+RP   FUNCTION, AND TISSUE SPECIFICITY.
+RX   PubMed=11295176; DOI=10.1016/S0166-6851(01)00221-3;
+RA   Joshua G.W.;
+RT   "Functional analysis of leucine aminopeptidase in Caenorhabditis
+RT   elegans.";
+RL   Mol. Biochem. Parasitol. 113:223-232(2001).
+CC   -!- FUNCTION: Probably acts as a digestive enzyme.
+CC       {ECO:0000269|PubMed:11295176}.
+CC   -!- CATALYTIC ACTIVITY: Release of an N-terminal amino acid, Xaa-|-
+CC       Yaa-, in which Xaa is preferably Leu, but may be other amino acids
+CC       including Pro although not Arg or Lys, and Yaa may be Pro. Amino
+CC       acid amides and methyl esters are also readily hydrolyzed, but
+CC       rates on arylamides are exceedingly low.
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000250};
+CC       Note=Binds 2 Zn(2+) ions per subunit. {ECO:0000250};
+CC   -!- INTERACTION:
+CC       Self; NbExp=5; IntAct=EBI-332157, EBI-332157;
+CC       O01812:lbp-6; NbExp=2; IntAct=EBI-332157, EBI-327961;
+CC   -!- TISSUE SPECIFICITY: Expressed in the buccal cavity, pharynx,
+CC       anterior gut and rectum. {ECO:0000269|PubMed:11295176}.
+CC   -!- SIMILARITY: Belongs to the peptidase M17 family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; FO081668; CCD73205.1; -; Genomic_DNA.
+DR   PIR; S44657; S44657.
+DR   RefSeq; NP_498854.1; NM_066453.3.
+DR   UniGene; Cel.5920; -.
+DR   PDB; 2HB6; X-ray; 2.00 A; A/B=1-491.
+DR   PDB; 2HC9; X-ray; 1.85 A; A=1-491.
+DR   PDBsum; 2HB6; -.
+DR   PDBsum; 2HC9; -.
+DR   ProteinModelPortal; P34629; -.
+DR   SMR; P34629; 2-490.
+DR   BioGrid; 41389; 7.
+DR   DIP; DIP-27312N; -.
+DR   IntAct; P34629; 3.
+DR   MINT; MINT-1056525; -.
+DR   STRING; 6239.ZK353.6.1; -.
+DR   MEROPS; M17.A05; -.
+DR   PaxDb; P34629; -.
+DR   EnsemblMetazoa; ZK353.6; ZK353.6; WBGene00002249.
+DR   GeneID; 176185; -.
+DR   KEGG; cel:CELE_ZK353.6; -.
+DR   UCSC; ZK353.6.1; c. elegans.
+DR   CTD; 176185; -.
+DR   WormBase; ZK353.6; CE00390; WBGene00002249; lap-1.
+DR   eggNOG; COG0260; -.
+DR   GeneTree; ENSGT00530000063255; -.
+DR   HOGENOM; HOG000243131; -.
+DR   InParanoid; P34629; -.
+DR   KO; K09611; -.
+DR   OMA; ACLCIVE; -.
+DR   OrthoDB; EOG7966GR; -.
+DR   PhylomeDB; P34629; -.
+DR   EvolutionaryTrace; P34629; -.
+DR   NextBio; 891490; -.
+DR   PRO; PR:P34629; -.
+DR   Proteomes; UP000001940; Chromosome III.
+DR   GO; GO:0005737; C:cytoplasm; IEA:InterPro.
+DR   GO; GO:0004177; F:aminopeptidase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0042802; F:identical protein binding; IPI:IntAct.
+DR   GO; GO:0030145; F:manganese ion binding; IEA:InterPro.
+DR   GO; GO:0008235; F:metalloexopeptidase activity; IEA:InterPro.
+DR   GO; GO:0040009; P:regulation of growth rate; IMP:WormBase.
+DR   GO; GO:0046662; P:regulation of oviposition; IMP:WormBase.
+DR   InterPro; IPR011356; Leucine_aapep/pepB.
+DR   InterPro; IPR000819; Peptidase_M17_C.
+DR   Pfam; PF00883; Peptidase_M17; 1.
+DR   PRINTS; PR00481; LAMNOPPTDASE.
+DR   PROSITE; PS00631; CYTOSOL_AP; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Aminopeptidase; Complete proteome; Hydrolase;
+KW   Metal-binding; Protease; Reference proteome; Zinc.
+FT   CHAIN         1    491       Leucine aminopeptidase 1.
+FT                                /FTId=PRO_0000165831.
+FT   ACT_SITE    264    264       {ECO:0000255}.
+FT   ACT_SITE    338    338       {ECO:0000255}.
+FT   METAL       252    252       Zinc 2. {ECO:0000250}.
+FT   METAL       257    257       Zinc 1. {ECO:0000250}.
+FT   METAL       257    257       Zinc 2. {ECO:0000250}.
+FT   METAL       275    275       Zinc 2. {ECO:0000250}.
+FT   METAL       334    334       Zinc 1. {ECO:0000250}.
+FT   METAL       336    336       Zinc 1. {ECO:0000250}.
+FT   METAL       336    336       Zinc 2. {ECO:0000250}.
+FT   STRAND        3      9       {ECO:0000244|PDB:2HC9}.
+FT   STRAND       18     25       {ECO:0000244|PDB:2HC9}.
+FT   HELIX        26     31       {ECO:0000244|PDB:2HC9}.
+FT   HELIX        36     42       {ECO:0000244|PDB:2HC9}.
+FT   TURN         43     45       {ECO:0000244|PDB:2HC9}.
+FT   HELIX        49     58       {ECO:0000244|PDB:2HC9}.
+FT   STRAND       61     77       {ECO:0000244|PDB:2HC9}.
+FT   HELIX        90     97       {ECO:0000244|PDB:2HC9}.
+FT   STRAND      108    114       {ECO:0000244|PDB:2HC9}.
+FT   HELIX       117    119       {ECO:0000244|PDB:2HC9}.
+FT   HELIX       120    128       {ECO:0000244|PDB:2HC9}.
+FT   STRAND      145    151       {ECO:0000244|PDB:2HC9}.
+FT   HELIX       157    178       {ECO:0000244|PDB:2HC9}.
+FT   TURN        181    183       {ECO:0000244|PDB:2HC9}.
+FT   HELIX       186    199       {ECO:0000244|PDB:2HC9}.
+FT   STRAND      203    208       {ECO:0000244|PDB:2HC9}.
+FT   HELIX       210    215       {ECO:0000244|PDB:2HC9}.
+FT   HELIX       218    224       {ECO:0000244|PDB:2HC9}.
+FT   STRAND      227    229       {ECO:0000244|PDB:2HC9}.
+FT   STRAND      232    238       {ECO:0000244|PDB:2HC9}.
+FT   STRAND      246    257       {ECO:0000244|PDB:2HC9}.
+FT   TURN        266    268       {ECO:0000244|PDB:2HC9}.
+FT   HELIX       272    276       {ECO:0000244|PDB:2HC9}.
+FT   HELIX       277    290       {ECO:0000244|PDB:2HC9}.
+FT   TURN        291    293       {ECO:0000244|PDB:2HC9}.
+FT   STRAND      296    307       {ECO:0000244|PDB:2HC9}.
+FT   STRAND      319    321       {ECO:0000244|PDB:2HC9}.
+FT   STRAND      327    329       {ECO:0000244|PDB:2HC9}.
+FT   HELIX       337    350       {ECO:0000244|PDB:2HC9}.
+FT   STRAND      355    361       {ECO:0000244|PDB:2HC9}.
+FT   HELIX       367    371       {ECO:0000244|PDB:2HC9}.
+FT   TURN        372    374       {ECO:0000244|PDB:2HC9}.
+FT   STRAND      375    381       {ECO:0000244|PDB:2HC9}.
+FT   HELIX       383    396       {ECO:0000244|PDB:2HC9}.
+FT   STRAND      400    402       {ECO:0000244|PDB:2HC9}.
+FT   HELIX       407    410       {ECO:0000244|PDB:2HC9}.
+FT   HELIX       411    414       {ECO:0000244|PDB:2HC9}.
+FT   STRAND      417    423       {ECO:0000244|PDB:2HC9}.
+FT   HELIX       433    442       {ECO:0000244|PDB:2HC9}.
+FT   TURN        443    445       {ECO:0000244|PDB:2HC9}.
+FT   HELIX       446    448       {ECO:0000244|PDB:2HC9}.
+FT   STRAND      451    457       {ECO:0000244|PDB:2HC9}.
+FT   TURN        459    462       {ECO:0000244|PDB:2HC9}.
+FT   HELIX       473    480       {ECO:0000244|PDB:2HC9}.
+FT   HELIX       481    483       {ECO:0000244|PDB:2HC9}.
+FT   HELIX       487    489       {ECO:0000244|PDB:2HC9}.
+SQ   SEQUENCE   491 AA;  52449 MW;  AECC10758180D1EF CRC64;
+     MTQVLVRNGI QAVGDGLTSL IIVGKKSVLK NVTFEGKFKE VAQKFVTDGD SWNSMISRIP
+     ASGRHPLHYE LAHLITVPDA SSRGNTPTNA HSIYKELKPI NYPEDTKNVH FVLFAEYPDV
+     LSHVAAIART FCKFSMKTSG IRELNVNIDV VCDKLTNEDA VFLTDLSESV RETARLIDTP
+     ANILTTDALV DEAVKVGNAT GSKITVIRGE ELLKAGFGGI YHVGKAGPTP PAFVVLSHEV
+     PGSTEHIALV GKGVVYDTGG LQIKTKTGMP NMKRDMGGAA GMLEAYSALV KHGFSQTLHA
+     CLCIVENNVS PIANKPDDII KMLSGKTVEI NNTDAEGRLI LADGVFYAKE TLKATTIFDM
+     ATLTGAQAWL SGRLHGAAMT NDEQLENEII KAGKASGDLV APMLFAPDLF FGDLKSSIAD
+     MKNSNLGKMD GPPSAVAGLF IGAHIGFGEG LRWLHLDIAA PAEVGDRGTG YGPALFSTLL
+     GKYTSVPMLK Q
+//

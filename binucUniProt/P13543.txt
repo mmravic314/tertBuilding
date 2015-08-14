@@ -1,0 +1,136 @@
+ID   MLR_ARGIR               Reviewed;         157 AA.
+AC   P13543;
+DT   01-JAN-1990, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   26-NOV-2014, entry version 95.
+DE   RecName: Full=Myosin regulatory light chain, striated adductor muscle;
+DE            Short=R-LC;
+OS   Argopecten irradians (Bay scallop) (Aequipecten irradians).
+OC   Eukaryota; Metazoa; Lophotrochozoa; Mollusca; Bivalvia; Pteriomorphia;
+OC   Pectinoida; Pectinoidea; Pectinidae; Argopecten.
+OX   NCBI_TaxID=31199;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=2440882;
+RA   Goodwin E.B., Szent-Gyorgyi A.G., Leinwand L.A.;
+RT   "Cloning and characterization of the scallop essential and regulatory
+RT   myosin light chain cDNAs.";
+RL   J. Biol. Chem. 262:11052-11056(1987).
+RN   [2]
+RP   SEQUENCE REVISION, AND MUTAGENESIS.
+RX   PubMed=2146399; DOI=10.1016/S0022-2836(05)80062-2;
+RA   Goodwin E.B., Leinwand L.A., Szent-Gyorgyi A.G.;
+RT   "Regulation of scallop myosin by mutant regulatory light chains.";
+RL   J. Mol. Biol. 216:85-93(1990).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS).
+RX   PubMed=8127365; DOI=10.1038/368306a0;
+RA   Xie X., Harrison D.H., Schlichting I., Sweet R.M., Kalabokis V.N.,
+RA   Szent-Gyorgyi A.G., Cohen C.;
+RT   "Structure of the regulatory domain of scallop myosin at 2.8-A
+RT   resolution.";
+RL   Nature 368:306-312(1994).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS).
+RX   PubMed=8805510; DOI=10.1016/S0969-2126(96)00006-8;
+RA   Houdusse A., Cohen C.;
+RT   "Structure of the regulatory domain of scallop myosin at 2-A
+RT   resolution: implications for regulation.";
+RL   Structure 4:21-32(1996).
+CC   -!- FUNCTION: In molluscan muscle, calcium regulation is associated
+CC       with myosin rather than with actin. Muscle myosin contains two
+CC       types of light chains: the catalytic light chain, essential for
+CC       ATPase activity, and the regulatory light chain, a calcium-binding
+CC       protein responsible for Ca(2+) dependent binding and Ca(2+)
+CC       dependent Mg-ATPase activity.
+CC   -!- MISCELLANEOUS: This chain binds calcium.
+CC   -!- SIMILARITY: Contains 2 EF-hand domains. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00448}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M17208; AAA27715.1; ALT_SEQ; mRNA.
+DR   PIR; B29786; B29786.
+DR   PDB; 1B7T; X-ray; 2.50 A; Y=2-157.
+DR   PDB; 1DFK; X-ray; 4.20 A; Y=13-151.
+DR   PDB; 1DFL; X-ray; 4.20 A; W/Y=13-151.
+DR   PDB; 1KK7; X-ray; 3.20 A; Y=2-157.
+DR   PDB; 1KK8; X-ray; 2.30 A; B=14-152.
+DR   PDB; 1KQM; X-ray; 3.00 A; B=2-157.
+DR   PDB; 1KWO; X-ray; 3.80 A; B=2-157.
+DR   PDB; 1L2O; X-ray; 2.80 A; B=2-157.
+DR   PDB; 1QVI; X-ray; 2.54 A; Y=2-157.
+DR   PDB; 1S5G; X-ray; 3.10 A; Y=2-157.
+DR   PDB; 1SCM; X-ray; 2.80 A; B=13-157.
+DR   PDB; 1SR6; X-ray; 2.75 A; B=2-157.
+DR   PDB; 1WDC; X-ray; 2.00 A; B=2-157.
+DR   PDB; 2W4T; EM; 35.00 A; Y=16-151.
+DR   PDB; 2W4V; EM; 35.00 A; Y=16-151.
+DR   PDB; 2W4W; EM; 35.00 A; Y=16-151.
+DR   PDB; 3JTD; X-ray; 2.57 A; B=2-157.
+DR   PDB; 3JVT; X-ray; 2.10 A; B=2-157.
+DR   PDBsum; 1B7T; -.
+DR   PDBsum; 1DFK; -.
+DR   PDBsum; 1DFL; -.
+DR   PDBsum; 1KK7; -.
+DR   PDBsum; 1KK8; -.
+DR   PDBsum; 1KQM; -.
+DR   PDBsum; 1KWO; -.
+DR   PDBsum; 1L2O; -.
+DR   PDBsum; 1QVI; -.
+DR   PDBsum; 1S5G; -.
+DR   PDBsum; 1SCM; -.
+DR   PDBsum; 1SR6; -.
+DR   PDBsum; 1WDC; -.
+DR   PDBsum; 2W4T; -.
+DR   PDBsum; 2W4V; -.
+DR   PDBsum; 2W4W; -.
+DR   PDBsum; 3JTD; -.
+DR   PDBsum; 3JVT; -.
+DR   ProteinModelPortal; P13543; -.
+DR   SMR; P13543; 12-155.
+DR   EvolutionaryTrace; P13543; -.
+DR   GO; GO:0016459; C:myosin complex; IEA:UniProtKB-KW.
+DR   GO; GO:0005509; F:calcium ion binding; IEA:InterPro.
+DR   Gene3D; 1.10.238.10; -; 2.
+DR   InterPro; IPR011992; EF-hand-dom_pair.
+DR   InterPro; IPR018247; EF_Hand_1_Ca_BS.
+DR   InterPro; IPR002048; EF_hand_dom.
+DR   Pfam; PF00036; EF-hand_1; 1.
+DR   SMART; SM00054; EFh; 2.
+DR   PROSITE; PS00018; EF_HAND_1; 1.
+DR   PROSITE; PS50222; EF_HAND_2; 2.
+PE   1: Evidence at protein level;
+KW   3D-structure; Calcium; Metal-binding; Motor protein; Muscle protein;
+KW   Myosin; Repeat.
+FT   INIT_MET      1      1       Removed.
+FT   CHAIN         2    157       Myosin regulatory light chain, striated
+FT                                adductor muscle.
+FT                                /FTId=PRO_0000198751.
+FT   DOMAIN       16     51       EF-hand 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00448}.
+FT   DOMAIN       85    120       EF-hand 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00448}.
+FT   CA_BIND      29     40
+FT   STRAND        8     10       {ECO:0000244|PDB:3JVT}.
+FT   HELIX        15     28       {ECO:0000244|PDB:1WDC}.
+FT   STRAND       33     35       {ECO:0000244|PDB:1WDC}.
+FT   HELIX        38     48       {ECO:0000244|PDB:1WDC}.
+FT   HELIX        54     61       {ECO:0000244|PDB:1WDC}.
+FT   STRAND       64     66       {ECO:0000244|PDB:1WDC}.
+FT   HELIX        70     80       {ECO:0000244|PDB:1WDC}.
+FT   TURN         81     83       {ECO:0000244|PDB:3JTD}.
+FT   HELIX        87     95       {ECO:0000244|PDB:1WDC}.
+FT   STRAND      103    106       {ECO:0000244|PDB:1QVI}.
+FT   HELIX       107    116       {ECO:0000244|PDB:1WDC}.
+FT   STRAND      117    119       {ECO:0000244|PDB:1WDC}.
+FT   HELIX       123    132       {ECO:0000244|PDB:1WDC}.
+FT   STRAND      137    140       {ECO:0000244|PDB:1B7T}.
+FT   HELIX       142    150       {ECO:0000244|PDB:1WDC}.
+FT   STRAND      152    155       {ECO:0000244|PDB:3JVT}.
+SQ   SEQUENCE   157 AA;  17671 MW;  243CE69DB02A7772 CRC64;
+     MADKAASGVL TKLPQKQIQE MKEAFSMIDV DRDGFVSKED IKAISEQLGR APDDKELTAM
+     LKEAPGPLNF TMFLSIFSDK LSGTDSEETI RNAFAMFDEQ ETKKLNIEYI KDLLENMGDN
+     FNKDEMRMTF KEAPVEGGKF DYVKFTAMIK GSGEEEA
+//

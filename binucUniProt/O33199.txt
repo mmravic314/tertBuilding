@@ -1,0 +1,80 @@
+ID   O33199_MYCTO            Unreviewed;       207 AA.
+AC   O33199; F2GK38; Q7D845;
+DT   01-JAN-1998, integrated into UniProtKB/TrEMBL.
+DT   01-JAN-1998, sequence version 1.
+DT   22-JUL-2015, entry version 115.
+DE   SubName: Full=MutT/nudix family protein {ECO:0000313|EMBL:AAK46008.1};
+GN   OrderedLocusNames=MT1739 {ECO:0000313|EMBL:AAK46008.1};
+OS   Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh).
+OC   Bacteria; Actinobacteria; Corynebacteriales; Mycobacteriaceae;
+OC   Mycobacterium; Mycobacterium tuberculosis complex.
+OX   NCBI_TaxID=83331 {ECO:0000313|EMBL:AAK46008.1, ECO:0000313|Proteomes:UP000001020};
+RN   [1] {ECO:0000313|EMBL:AAK46008.1, ECO:0000313|Proteomes:UP000001020}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=CDC 1551 / Oshkosh {ECO:0000313|Proteomes:UP000001020};
+RX   PubMed=12218036; DOI=10.1128/JB.184.19.5479-5490.2002;
+RA   Fleischmann R.D., Alland D., Eisen J.A., Carpenter L., White O.,
+RA   Peterson J.D., DeBoy R.T., Dodson R.J., Gwinn M.L., Haft D.H.,
+RA   Hickey E.K., Kolonay J.F., Nelson W.C., Umayam L.A., Ermolaeva M.D.,
+RA   Salzberg S.L., Delcher A., Utterback T.R., Weidman J.F., Khouri H.M.,
+RA   Gill J., Mikula A., Bishai W., Jacobs W.R. Jr., Venter J.C.,
+RA   Fraser C.M.;
+RT   "Whole-genome comparison of Mycobacterium tuberculosis clinical and
+RT   laboratory strains.";
+RL   J. Bacteriol. 184:5479-5490(2002).
+RN   [2] {ECO:0000213|PDB:1MK1, ECO:0000213|PDB:1MP2, ECO:0000213|PDB:1MQE}
+RP   X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS) IN COMPLEX WITH MANGANESE, AND
+RP   ACTIVE SITE.
+RX   PubMed=12906832; DOI=10.1016/S0969-2126(03)00154-0;
+RA   Kang L.W., Gabelli S.B., Cunningham J.E., O'Handley S.F., Amzel L.M.;
+RT   "Structure and mechanism of MT-ADPRase, a nudix hydrolase from
+RT   Mycobacterium tuberculosis.";
+RL   Structure 11:1015-1023(2003).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE000516; AAK46008.1; -; Genomic_DNA.
+DR   PIR; C70503; C70503.
+DR   RefSeq; WP_003408399.1; NZ_KK341227.1.
+DR   PDB; 1MK1; X-ray; 2.00 A; A=1-207.
+DR   PDB; 1MP2; X-ray; 2.30 A; A=1-207.
+DR   PDB; 1MQE; X-ray; 2.00 A; A=1-207.
+DR   PDB; 1MQW; X-ray; 2.30 A; A=1-207.
+DR   PDB; 1MR2; X-ray; 2.30 A; A=1-207.
+DR   ProteinModelPortal; O33199; -.
+DR   SMR; O33199; 5-204.
+DR   EnsemblBacteria; AAK46008; AAK46008; MT1739.
+DR   EnsemblBacteria; KBN12908; KBN12908; V735_01744.
+DR   KEGG; mtc:MT1739; -.
+DR   PATRIC; 18125576; VBIMycTub22151_1902.
+DR   HOGENOM; HOG000045854; -.
+DR   KO; K01515; -.
+DR   OrthoDB; EOG6VMTQG; -.
+DR   BioCyc; MTBRV:RV1700-MONOMER; -.
+DR   Proteomes; UP000001020; Chromosome.
+DR   GO; GO:0016787; F:hydrolase activity; IEA:InterPro.
+DR   GO; GO:0030145; F:manganese ion binding; IDA:MTBBASE.
+DR   Gene3D; 3.90.79.10; -; 1.
+DR   InterPro; IPR000086; NUDIX_hydrolase_dom.
+DR   InterPro; IPR015797; NUDIX_hydrolase_dom-like.
+DR   Pfam; PF00293; NUDIX; 1.
+DR   SUPFAM; SSF55811; SSF55811; 1.
+DR   PROSITE; PS51462; NUDIX; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:1MK1, ECO:0000213|PDB:1MP2};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001020};
+KW   Manganese {ECO:0000213|PDB:1MQW, ECO:0000213|PDB:1MR2};
+KW   Metal-binding {ECO:0000213|PDB:1MQW, ECO:0000213|PDB:1MR2}.
+FT   ACT_SITE    142    142       Proton donor/acceptor.
+FT                                {ECO:0000213|PDB:1MQW}.
+FT   METAL        93     93       Manganese. {ECO:0000213|PDB:1MQW}.
+FT   METAL        97     97       Manganese. {ECO:0000213|PDB:1MQW}.
+FT   METAL       142    142       Manganese. {ECO:0000213|PDB:1MQW}.
+FT   BINDING      64     64       Substrate. {ECO:0000213|PDB:1MQW}.
+SQ   SEQUENCE   207 AA;  22893 MW;  7FB78C9C984FA85E CRC64;
+     MAEHDFETIS SETLHTGAIF ALRRDQVRMP GGGIVTREVV EHFGAVAIVA MDDNGNIPMV
+     YQYRHTYGRR LWELPAGLLD VAGEPPHLTA ARELREEVGL QASTWQVLVD LDTAPGFSDE
+     SVRVYLATGL REVGRPEAHH EEADMTMGWY PIAEAARRVL RGEIVNSIAI AGVLAVHAVT
+     TGFAQPRPLD TEWIDRPTAF AARRAER
+//

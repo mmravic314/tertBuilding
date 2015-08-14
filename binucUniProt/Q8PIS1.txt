@@ -1,0 +1,120 @@
+ID   Q8PIS1_XANAC            Unreviewed;       432 AA.
+AC   Q8PIS1;
+DT   01-OCT-2002, integrated into UniProtKB/TrEMBL.
+DT   01-OCT-2002, sequence version 1.
+DT   22-JUL-2015, entry version 81.
+DE   SubName: Full=Phosphodiesterase-nucleotide pyrophosphatase {ECO:0000313|EMBL:AAM37669.1};
+GN   OrderedLocusNames=XAC2824 {ECO:0000313|EMBL:AAM37669.1};
+OS   Xanthomonas axonopodis pv. citri (strain 306).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales;
+OC   Xanthomonadaceae; Xanthomonas.
+OX   NCBI_TaxID=190486 {ECO:0000313|EMBL:AAM37669.1, ECO:0000313|Proteomes:UP000000576};
+RN   [1] {ECO:0000313|EMBL:AAM37669.1, ECO:0000313|Proteomes:UP000000576}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=306 {ECO:0000313|EMBL:AAM37669.1,
+RC   ECO:0000313|Proteomes:UP000000576};
+RX   PubMed=12024217; DOI=10.1038/417459a;
+RA   da Silva A.C.R., Ferro J.A., Reinach F.C., Farah C.S., Furlan L.R.,
+RA   Quaggio R.B., Monteiro-Vitorello C.B., Van Sluys M.A.,
+RA   Almeida N.F. Jr., Alves L.M.C., do Amaral A.M., Bertolini M.C.,
+RA   Camargo L.E.A., Camarotte G., Cannavan F., Cardozo J., Chambergo F.,
+RA   Ciapina L.P., Cicarelli R.M.B., Coutinho L.L., Cursino-Santos J.R.,
+RA   El-Dorry H., Faria J.B., Ferreira A.J.S., Ferreira R.C.C.,
+RA   Ferro M.I.T., Formighieri E.F., Franco M.C., Greggio C.C., Gruber A.,
+RA   Katsuyama A.M., Kishi L.T., Leite R.P., Lemos E.G.M., Lemos M.V.F.,
+RA   Locali E.C., Machado M.A., Madeira A.M.B.N., Martinez-Rossi N.M.,
+RA   Martins E.C., Meidanis J., Menck C.F.M., Miyaki C.Y., Moon D.H.,
+RA   Moreira L.M., Novo M.T.M., Okura V.K., Oliveira M.C., Oliveira V.R.,
+RA   Pereira H.A., Rossi A., Sena J.A.D., Silva C., de Souza R.F.,
+RA   Spinola L.A.F., Takita M.A., Tamura R.E., Teixeira E.C., Tezza R.I.D.,
+RA   Trindade dos Santos M., Truffi D., Tsai S.M., White F.F.,
+RA   Setubal J.C., Kitajima J.P.;
+RT   "Comparison of the genomes of two Xanthomonas pathogens with differing
+RT   host specificities.";
+RL   Nature 417:459-463(2002).
+RN   [2] {ECO:0000213|PDB:2GSN, ECO:0000213|PDB:2GSO, ECO:0000213|PDB:2GSU}
+RP   X-RAY CRYSTALLOGRAPHY (1.30 ANGSTROMS) OF 40-432 IN COMPLEX WITH AMP
+RP   AND ZINC, AND DISULFIDE BONDS.
+RX   PubMed=16893180; DOI=10.1021/bi060847t;
+RA   Zalatan J.G., Fenn T.D., Brunger A.T., Herschlag D.;
+RT   "Structural and functional comparisons of nucleotide
+RT   pyrophosphatase/phosphodiesterase and alkaline phosphatase:
+RT   implications for mechanism and evolution.";
+RL   Biochemistry 45:9788-9803(2006).
+RN   [3] {ECO:0000213|PDB:2RH6}
+RP   X-RAY CRYSTALLOGRAPHY (1.45 ANGSTROMS) OF 40-432 IN COMPLEX WITH AMP
+RP   AND ZINC, AND DISULFIDE BONDS.
+RA   Fenn T.D., Pozharski E., Wilson M.A.;
+RT   "Crystallographic Goodness of Fit: A New Treatment of Model
+RT   Complexity.";
+RL   Submitted (OCT-2007) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE008923; AAM37669.1; -; Genomic_DNA.
+DR   RefSeq; WP_011051855.1; NC_003919.1.
+DR   PDB; 2GSN; X-ray; 1.75 A; A/B=40-432.
+DR   PDB; 2GSO; X-ray; 1.30 A; A/B=40-432.
+DR   PDB; 2GSU; X-ray; 2.00 A; A/B=40-432.
+DR   PDB; 2RH6; X-ray; 1.45 A; A/B=40-432.
+DR   PDBsum; 2GSN; -.
+DR   PDBsum; 2GSO; -.
+DR   PDBsum; 2GSU; -.
+DR   PDBsum; 2RH6; -.
+DR   ProteinModelPortal; Q8PIS1; -.
+DR   SMR; Q8PIS1; 44-425.
+DR   STRING; 190486.XAC2824; -.
+DR   EnsemblBacteria; AAM37669; AAM37669; XAC2824.
+DR   GeneID; 14853562; -.
+DR   KEGG; xac:XAC2824; -.
+DR   PATRIC; 24057749; VBIXanAxo33670_2928.
+DR   HOGENOM; HOG000231018; -.
+DR   OMA; RGSHGYD; -.
+DR   OrthoDB; EOG6JB10R; -.
+DR   BioCyc; XAXO190486:GH55-2824-MONOMER; -.
+DR   EvolutionaryTrace; Q8PIS1; -.
+DR   Proteomes; UP000000576; Chromosome.
+DR   GO; GO:0003824; F:catalytic activity; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000166; F:nucleotide binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.720.10; -; 1.
+DR   InterPro; IPR017849; Alkaline_Pase-like_a/b/a.
+DR   InterPro; IPR017850; Alkaline_phosphatase_core.
+DR   InterPro; IPR024873; E-NPP.
+DR   InterPro; IPR002591; Phosphodiest/P_Trfase.
+DR   PANTHER; PTHR10151; PTHR10151; 1.
+DR   Pfam; PF01663; Phosphodiest; 1.
+DR   SUPFAM; SSF53649; SSF53649; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome {ECO:0000313|Proteomes:UP000000576};
+KW   Metal-binding;
+KW   Nucleotide-binding {ECO:0000213|PDB:2GSU, ECO:0000213|PDB:2RH6}; Zinc.
+FT   NP_BIND     210    214       AMP. {ECO:0000213|PDB:2GSU,
+FT                                ECO:0000213|PDB:2RH6}.
+FT   METAL        54     54       Zinc 1.
+FT   METAL        90     90       Zinc 1.
+FT   METAL       210    210       Zinc 2.
+FT   METAL       214    214       Zinc 2; via tele nitrogen.
+FT   METAL       257    257       Zinc 1.
+FT   METAL       258    258       Zinc 1; via tele nitrogen.
+FT   METAL       363    363       Zinc 2; via tele nitrogen.
+FT   BINDING      90     90       AMP. {ECO:0000213|PDB:2GSU,
+FT                                ECO:0000213|PDB:2RH6}.
+FT   BINDING     111    111       AMP. {ECO:0000213|PDB:2GSU,
+FT                                ECO:0000213|PDB:2RH6}.
+FT   BINDING     174    174       AMP. {ECO:0000213|PDB:2GSU,
+FT                                ECO:0000213|PDB:2RH6}.
+FT   BINDING     363    363       AMP. {ECO:0000213|PDB:2GSU,
+FT                                ECO:0000213|PDB:2RH6}.
+FT   DISULFID    314    337
+SQ   SEQUENCE   432 AA;  46477 MW;  3003B55E64C4726C CRC64;
+     MIDRRFGVAA AALALLAACS SPPSARSAPT QLPTAAPGTA SASTPHALLL ISIDGLRADM
+     LDRGITPNLS HLAREGVRAR WMAPSYPSLT FPNHYTLVTG LRPDHHGIVH NSMRDPTLGG
+     FWLSKSEAVG DARWWGGEPV WVGVENTGQH AATWSWPGSE AAIKGVRPSQ WRHYQKGVRL
+     DTRVDAVRGW LATDGAQRNR LVTLYFEHVD EAGHDHGPES RQYADAVRAV DAAIGRLLAG
+     MQRDGTRART NIIVVSDHGM AEVAPGHAIS VEDIAPPQIA TAITDGQVIG FEPLPGQQAA
+     AEASVLGAHD HYDCWRKAEL PARWQYGSHP RIPSLVCQMH EGWDALFPDK LAKRAQRGTR
+     GSHGYDPALP SMRAVFLAQG PDLAQGKTLP GFDNVDVYAL MSRLLGIPAA PNDGNPATLL
+     PALRMPPAPD AR
+//

@@ -1,0 +1,83 @@
+ID   Q9JYL1_NEIMB            Unreviewed;       169 AA.
+AC   Q9JYL1;
+DT   01-OCT-2000, integrated into UniProtKB/TrEMBL.
+DT   01-OCT-2000, sequence version 1.
+DT   22-JUL-2015, entry version 73.
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAF41887.1};
+GN   OrderedLocusNames=NMB1532 {ECO:0000313|EMBL:AAF41887.1};
+OS   Neisseria meningitidis serogroup B (strain MC58).
+OC   Bacteria; Proteobacteria; Betaproteobacteria; Neisseriales;
+OC   Neisseriaceae; Neisseria.
+OX   NCBI_TaxID=122586 {ECO:0000313|EMBL:AAF41887.1, ECO:0000313|Proteomes:UP000000425};
+RN   [1] {ECO:0000313|EMBL:AAF41887.1, ECO:0000313|Proteomes:UP000000425}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=MC58 {ECO:0000313|EMBL:AAF41887.1,
+RC   ECO:0000313|Proteomes:UP000000425};
+RX   PubMed=10710307; DOI=10.1126/science.287.5459.1809;
+RA   Tettelin H., Saunders N.J., Heidelberg J.F., Jeffries A.C.,
+RA   Nelson K.E., Eisen J.A., Ketchum K.A., Hood D.W., Peden J.F.,
+RA   Dodson R.J., Nelson W.C., Gwinn M.L., DeBoy R.T., Peterson J.D.,
+RA   Hickey E.K., Haft D.H., Salzberg S.L., White O., Fleischmann R.D.,
+RA   Dougherty B.A., Mason T.M., Ciecko A., Parksey D.S., Blair E.,
+RA   Cittone H., Clark E.B., Cotton M.D., Utterback T.R., Khouri H.M.,
+RA   Qin H., Vamathevan J.J., Gill J., Scarlato V., Masignani V., Pizza M.,
+RA   Grandi G., Sun L., Smith H.O., Fraser C.M., Moxon E.R., Rappuoli R.,
+RA   Venter J.C.;
+RT   "Complete genome sequence of Neisseria meningitidis serogroup B strain
+RT   MC58.";
+RL   Science 287:1809-1815(2000).
+RN   [2] {ECO:0000213|PDB:2P0N}
+RP   X-RAY CRYSTALLOGRAPHY (1.41 ANGSTROMS) IN COMPLEX WITH MANGANESE.
+RA   Osipiuk J., Li H., Bargassa M., Joachimiak A.;
+RT   "X-ray crystal structure of NMB1532 protein of unknown function from
+RT   Neisseria meningitidis.";
+RL   Submitted (FEB-2007) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE002098; AAF41887.1; -; Genomic_DNA.
+DR   PIR; H81071; H81071.
+DR   RefSeq; NP_274539.1; NC_003112.2.
+DR   RefSeq; WP_002220565.1; NC_003112.2.
+DR   PDB; 2P0N; X-ray; 1.41 A; A/B=1-169.
+DR   PDBsum; 2P0N; -.
+DR   ProteinModelPortal; Q9JYL1; -.
+DR   SMR; Q9JYL1; 9-169.
+DR   STRING; 122586.NMB1532; -.
+DR   EnsemblBacteria; AAF41887; AAF41887; NMB1532.
+DR   GeneID; 904056; -.
+DR   KEGG; nme:NMB1532; -.
+DR   PATRIC; 20358870; VBINeiMen85645_1944.
+DR   HOGENOM; HOG000219026; -.
+DR   OMA; NQAVKND; -.
+DR   OrthoDB; EOG6B09V1; -.
+DR   BioCyc; NMEN122586:GHGG-1573-MONOMER; -.
+DR   EvolutionaryTrace; Q9JYL1; -.
+DR   Proteomes; UP000000425; Chromosome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   InterPro; IPR012312; Haemerythrin/HHE_cat-bd_motif.
+DR   Pfam; PF01814; Hemerythrin; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2P0N};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000425};
+KW   Manganese {ECO:0000213|PDB:2P0N};
+KW   Metal-binding {ECO:0000213|PDB:2P0N};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000425}.
+FT   METAL        22     22       Manganese 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2P0N}.
+FT   METAL        66     66       Manganese 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2P0N}.
+FT   METAL        70     70       Manganese 1. {ECO:0000213|PDB:2P0N}.
+FT   METAL        70     70       Manganese 2. {ECO:0000213|PDB:2P0N}.
+FT   METAL        96     96       Manganese 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2P0N}.
+FT   METAL       136    136       Manganese 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2P0N}.
+FT   METAL       140    140       Manganese 1. {ECO:0000213|PDB:2P0N}.
+FT   METAL       140    140       Manganese 2. {ECO:0000213|PDB:2P0N}.
+SQ   SEQUENCE   169 AA;  19336 MW;  3122FB04FD53FAB9 CRC64;
+     MNPFETKSVT FAEPIEMLYA CHGKVRRFCG QVAMLSDYIA ENGCNQIVLQ TIRQIAQYFN
+     VAAPLHHEDE EENFFPLLLQ YAPQAQESVD ELLRQHIGLH DNWAAVSAEF AKLEADNAYV
+     PDEEAFKRFV AGYDVHLAIE EPLFDMGNTF IPKEKLTEIG EIMAARRRK
+//

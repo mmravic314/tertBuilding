@@ -1,0 +1,159 @@
+ID   DPO4_SULAC              Reviewed;         354 AA.
+AC   Q4JB80;
+DT   27-SEP-2005, integrated into UniProtKB/Swiss-Prot.
+DT   02-AUG-2005, sequence version 1.
+DT   27-MAY-2015, entry version 66.
+DE   RecName: Full=DNA polymerase IV {ECO:0000255|HAMAP-Rule:MF_01113};
+DE            Short=Pol IV {ECO:0000255|HAMAP-Rule:MF_01113};
+DE            EC=2.7.7.7 {ECO:0000255|HAMAP-Rule:MF_01113};
+GN   Name=dbh {ECO:0000255|HAMAP-Rule:MF_01113};
+GN   OrderedLocusNames=Saci_0554;
+OS   Sulfolobus acidocaldarius (strain ATCC 33909 / DSM 639 / JCM 8929 /
+OS   NBRC 15157 / NCIMB 11770).
+OC   Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae;
+OC   Sulfolobus.
+OX   NCBI_TaxID=330779;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 33909 / DSM 639 / JCM 8929 / NBRC 15157 / NCIMB 11770;
+RX   PubMed=15995215; DOI=10.1128/JB.187.14.4992-4999.2005;
+RA   Chen L., Bruegger K., Skovgaard M., Redder P., She Q., Torarinsson E.,
+RA   Greve B., Awayez M., Zibat A., Klenk H.-P., Garrett R.A.;
+RT   "The genome of Sulfolobus acidocaldarius, a model organism of the
+RT   Crenarchaeota.";
+RL   J. Bacteriol. 187:4992-4999(2005).
+CC   -!- FUNCTION: Poorly processive, error-prone DNA polymerase involved
+CC       in untargeted mutagenesis. Copies undamaged DNA at stalled
+CC       replication forks, which arise in vivo from mismatched or
+CC       misaligned primer ends. These misaligned primers can be extended
+CC       by PolIV. Exhibits no 3'-5' exonuclease (proofreading) activity.
+CC       May be involved in translesional synthesis. {ECO:0000255|HAMAP-
+CC       Rule:MF_01113}.
+CC   -!- CATALYTIC ACTIVITY: Deoxynucleoside triphosphate + DNA(n) =
+CC       diphosphate + DNA(n+1). {ECO:0000255|HAMAP-Rule:MF_01113}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000255|HAMAP-Rule:MF_01113};
+CC       Note=Binds 2 magnesium ions per subunit. {ECO:0000255|HAMAP-
+CC       Rule:MF_01113};
+CC   -!- SUBUNIT: Monomer. {ECO:0000255|HAMAP-Rule:MF_01113}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_01113}.
+CC   -!- SIMILARITY: Belongs to the DNA polymerase type-Y family.
+CC       {ECO:0000255|HAMAP-Rule:MF_01113}.
+CC   -!- SIMILARITY: Contains 1 umuC domain. {ECO:0000255|HAMAP-
+CC       Rule:MF_01113}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP000077; AAY79949.1; -; Genomic_DNA.
+DR   RefSeq; WP_011277451.1; NC_007181.1.
+DR   RefSeq; YP_255242.1; NC_007181.1.
+DR   PDB; 3BQ0; X-ray; 2.60 A; A=1-354.
+DR   PDB; 3BQ1; X-ray; 2.70 A; A=1-354.
+DR   PDB; 3BQ2; X-ray; 2.70 A; A=1-354.
+DR   PDB; 4F4W; X-ray; 1.90 A; A/B=1-231.
+DR   PDB; 4F4X; X-ray; 2.05 A; A=1-231.
+DR   PDB; 4F4Y; X-ray; 2.34 A; A/B=1-354.
+DR   PDB; 4F4Z; X-ray; 2.30 A; A/B=248-354.
+DR   PDB; 4F50; X-ray; 2.22 A; A=1-246.
+DR   PDB; 4HYK; X-ray; 2.80 A; A=1-354.
+DR   PDB; 4NLG; X-ray; 2.40 A; A=1-354.
+DR   PDBsum; 3BQ0; -.
+DR   PDBsum; 3BQ1; -.
+DR   PDBsum; 3BQ2; -.
+DR   PDBsum; 4F4W; -.
+DR   PDBsum; 4F4X; -.
+DR   PDBsum; 4F4Y; -.
+DR   PDBsum; 4F4Z; -.
+DR   PDBsum; 4F50; -.
+DR   PDBsum; 4HYK; -.
+DR   PDBsum; 4NLG; -.
+DR   ProteinModelPortal; Q4JB80; -.
+DR   SMR; Q4JB80; 1-344.
+DR   STRING; 330779.Saci_0554; -.
+DR   EnsemblBacteria; AAY79949; AAY79949; Saci_0554.
+DR   GeneID; 3474616; -.
+DR   KEGG; sai:Saci_0554; -.
+DR   eggNOG; COG0389; -.
+DR   HOGENOM; HOG000082707; -.
+DR   KO; K04479; -.
+DR   OMA; VYSGRTK; -.
+DR   BioCyc; SACI330779:GH9J-546-MONOMER; -.
+DR   BRENDA; 2.7.7.7; 6160.
+DR   EvolutionaryTrace; Q4JB80; -.
+DR   Proteomes; UP000001018; Chromosome.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0003684; F:damaged DNA binding; IEA:InterPro.
+DR   GO; GO:0003887; F:DNA-directed DNA polymerase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0006281; P:DNA repair; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0006261; P:DNA-dependent DNA replication; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 3.30.1490.100; -; 1.
+DR   HAMAP; MF_01113; DNApol_IV; 1.
+DR   InterPro; IPR017961; DNA_pol_Y-fam_little_finger.
+DR   InterPro; IPR001126; DNA_repair_prot_UmuC-like.
+DR   InterPro; IPR017963; DNA_repair_prot_UmuC-like_N.
+DR   InterPro; IPR022880; DNApol_IV.
+DR   InterPro; IPR024728; PolY_HhH_motif.
+DR   Pfam; PF00817; IMS; 1.
+DR   Pfam; PF11798; IMS_HHH; 1.
+DR   SUPFAM; SSF100879; SSF100879; 1.
+DR   PROSITE; PS50173; UMUC; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Cytoplasm; DNA damage; DNA repair;
+KW   DNA replication; DNA-binding; DNA-directed DNA polymerase; Magnesium;
+KW   Metal-binding; Mutator protein; Nucleotidyltransferase;
+KW   Reference proteome; Transferase.
+FT   CHAIN         1    354       DNA polymerase IV.
+FT                                /FTId=PRO_0000173974.
+FT   DOMAIN        3    188       UmuC. {ECO:0000255|HAMAP-Rule:MF_01113}.
+FT   ACT_SITE    106    106       {ECO:0000255|HAMAP-Rule:MF_01113}.
+FT   METAL         7      7       Magnesium. {ECO:0000255|HAMAP-
+FT                                Rule:MF_01113}.
+FT   METAL       105    105       Magnesium. {ECO:0000255|HAMAP-
+FT                                Rule:MF_01113}.
+FT   SITE         12     12       Substrate discrimination.
+FT                                {ECO:0000255|HAMAP-Rule:MF_01113}.
+FT   STRAND        3      8       {ECO:0000244|PDB:4F4W}.
+FT   HELIX        11     19       {ECO:0000244|PDB:4F4W}.
+FT   HELIX        21     23       {ECO:0000244|PDB:4F4W}.
+FT   STRAND       28     33       {ECO:0000244|PDB:4F4W}.
+FT   STRAND       35     39       {ECO:0000244|PDB:4F4W}.
+FT   STRAND       41     46       {ECO:0000244|PDB:4F4W}.
+FT   HELIX        48     51       {ECO:0000244|PDB:4F4W}.
+FT   TURN         52     54       {ECO:0000244|PDB:4F4W}.
+FT   HELIX        61     67       {ECO:0000244|PDB:4F4W}.
+FT   STRAND       71     75       {ECO:0000244|PDB:4F4W}.
+FT   HELIX        78     93       {ECO:0000244|PDB:4F4W}.
+FT   STRAND       97    103       {ECO:0000244|PDB:4F4W}.
+FT   STRAND      106    110       {ECO:0000244|PDB:4F4W}.
+FT   TURN        112    117       {ECO:0000244|PDB:4F4W}.
+FT   HELIX       119    137       {ECO:0000244|PDB:4F4W}.
+FT   STRAND      141    148       {ECO:0000244|PDB:4F4W}.
+FT   HELIX       149    159       {ECO:0000244|PDB:4F4W}.
+FT   STRAND      164    166       {ECO:0000244|PDB:4F4W}.
+FT   HELIX       169    171       {ECO:0000244|PDB:4F4W}.
+FT   HELIX       172    178       {ECO:0000244|PDB:4F4W}.
+FT   HELIX       181    183       {ECO:0000244|PDB:4F4W}.
+FT   HELIX       189    197       {ECO:0000244|PDB:4F4W}.
+FT   HELIX       203    208       {ECO:0000244|PDB:4F4W}.
+FT   HELIX       211    218       {ECO:0000244|PDB:4F4W}.
+FT   HELIX       220    230       {ECO:0000244|PDB:4F4W}.
+FT   STRAND      240    242       {ECO:0000244|PDB:4F50}.
+FT   STRAND      248    256       {ECO:0000244|PDB:4F4Z}.
+FT   HELIX       259    276       {ECO:0000244|PDB:4F4Z}.
+FT   STRAND      278    280       {ECO:0000244|PDB:3BQ1}.
+FT   STRAND      282    290       {ECO:0000244|PDB:4F4Z}.
+FT   STRAND      295    301       {ECO:0000244|PDB:4F4Z}.
+FT   HELIX       308    325       {ECO:0000244|PDB:4F4Z}.
+FT   STRAND      327    329       {ECO:0000244|PDB:4HYK}.
+FT   STRAND      331    340       {ECO:0000244|PDB:4F4Z}.
+SQ   SEQUENCE   354 AA;  39986 MW;  0EDDAEB0F30EAD35 CRC64;
+     MIVIFVDFDY FFAQVEEVLN PQYKGKPLVV CVYSGRTKTS GAVATANYEA RKLGVKAGMP
+     IIKAMQIAPS AIYVPMRKPI YEAFSNRIMN LLNKHADKIE VASIDEAYLD VTNKVEGNFE
+     NGIELARKIK QEILEKEKIT VTVGVAPNKI LAKIIADKSK PNGLGVIRPT EVQDFLNELD
+     IDEIPGIGSV LARRLNELGI QKLRDILSKN YNELEKITGK AKALYLLKLA QNKYSEPVEN
+     KSKIPHGRYL TLPYNTRDVK VILPYLKKAI NEAYNKVNGI PMRITVIAIM EDLDILSKGK
+     KFKHGISIDN AYKVAEDLLR ELLVRDKRRN VRRIGVKLDN IIINKTNLSD FFDI
+//

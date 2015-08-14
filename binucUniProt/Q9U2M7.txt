@@ -1,0 +1,217 @@
+ID   AP4A_CAEEL              Reviewed;         138 AA.
+AC   Q9U2M7;
+DT   05-JUL-2004, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-2000, sequence version 1.
+DT   22-JUL-2015, entry version 98.
+DE   RecName: Full=Bis(5'-nucleosyl)-tetraphosphatase [asymmetrical];
+DE            EC=3.6.1.-;
+DE   AltName: Full=Diadenosine 5',5'''-P1,P4-tetraphosphate asymmetrical hydrolase;
+DE            Short=Ap4A hydrolase;
+DE            Short=Ap4Aase;
+DE            Short=Diadenosine tetraphosphatase;
+DE   AltName: Full=Nudix hydrolase 4;
+GN   Name=ndx-4; ORFNames=Y37H9A.6;
+OS   Caenorhabditis elegans.
+OC   Eukaryota; Metazoa; Ecdysozoa; Nematoda; Chromadorea; Rhabditida;
+OC   Rhabditoidea; Rhabditidae; Peloderinae; Caenorhabditis.
+OX   NCBI_TaxID=6239;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], X-RAY CRYSTALLOGRAPHY (2.0
+RP   ANGSTROMS), FUNCTION, AND COFACTOR.
+RC   STRAIN=Bristol N2;
+RX   PubMed=11738085; DOI=10.1016/S0167-4838(01)00263-1;
+RA   Abdelghany H.M., Gasmi L., Cartwright J.L., Bailey S., Rafferty J.B.,
+RA   McLennan A.G.;
+RT   "Cloning, characterisation and crystallisation of a diadenosine
+RT   5',5''-P(1),P(4)-tetraphosphate pyrophosphohydrolase from
+RT   Caenorhabditis elegans.";
+RL   Biochim. Biophys. Acta 1550:27-36(2001).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Bristol N2;
+RX   PubMed=9851916; DOI=10.1126/science.282.5396.2012;
+RG   The C. elegans sequencing consortium;
+RT   "Genome sequence of the nematode C. elegans: a platform for
+RT   investigating biology.";
+RL   Science 282:2012-2018(1998).
+RN   [3]
+RP   MUTAGENESIS.
+RC   STRAIN=Bristol N2;
+RX   PubMed=12475970; DOI=10.1074/jbc.M211983200;
+RA   Abdelghany H.M., Bailey S., Blackburn G.M., Rafferty J.B.,
+RA   McLennan A.G.;
+RT   "Analysis of the catalytic and binding residues of the diadenosine
+RT   tetraphosphate pyrophosphohydrolase from Caenorhabditis elegans by
+RT   site-directed mutagenesis.";
+RL   J. Biol. Chem. 278:4435-4439(2003).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS), AND SUBUNIT.
+RX   PubMed=11937063; DOI=10.1016/S0969-2126(02)00746-3;
+RA   Bailey S., Sedelnikova S.E., Blackburn G.M., Abdelghany H.M.,
+RA   Baker P.J., McLennan A.G., Rafferty J.B.;
+RT   "The crystal structure of diadenosine tetraphosphate hydrolase from
+RT   Caenorhabditis elegans in free and binary complex forms.";
+RL   Structure 10:589-600(2002).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS).
+RX   PubMed=11856844; DOI=10.1107/S0907444902000768;
+RA   Bailey S., Sedelnikova S.E., Blackburn G.M., Abdelghany H.M.,
+RA   McLennan A.G., Rafferty J.B.;
+RT   "Crystallization of a complex of Caenorhabditis elegans diadenosine
+RT   tetraphosphate hydrolase and a non-hydrolysable substrate analogue,
+RT   AppCH2ppA.";
+RL   Acta Crystallogr. D 58:526-528(2002).
+CC   -!- FUNCTION: Asymmetrically hydrolyzes Ap4A to yield AMP and ATP.
+CC       {ECO:0000269|PubMed:11738085}.
+CC   -!- CATALYTIC ACTIVITY: P(1),P(4)-bis(5'-adenosyl) tetraphosphate +
+CC       H(2)O = ATP + AMP.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000269|PubMed:11738085};
+CC       Name=Co(2+); Xref=ChEBI:CHEBI:48828;
+CC         Evidence={ECO:0000269|PubMed:11738085};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000269|PubMed:11738085};
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC         Evidence={ECO:0000269|PubMed:11738085};
+CC       Name=Ca(2+); Xref=ChEBI:CHEBI:29108;
+CC         Evidence={ECO:0000269|PubMed:11738085};
+CC       Note=Divalent metal ions. Mg(2+), Co(2+), Mn(2+), Zn(2+) or
+CC       Ca(2+). {ECO:0000269|PubMed:11738085};
+CC   -!- SUBUNIT: Monomer. {ECO:0000269|PubMed:11937063}.
+CC   -!- DOMAIN: Mutagenesis suggests that interactions with P1- and P4-
+CC       phosphate are minimum indicating the enzyme may have a wide
+CC       substrate range.
+CC   -!- SIMILARITY: Belongs to the Nudix hydrolase family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 nudix hydrolase domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00794}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AL032625; CAB63351.1; -; Genomic_DNA.
+DR   RefSeq; NP_493413.1; NM_061012.4.
+DR   UniGene; Cel.16496; -.
+DR   PDB; 1KT9; X-ray; 1.98 A; A=1-138.
+DR   PDB; 1KTG; X-ray; 1.80 A; A/B=1-138.
+DR   PDBsum; 1KT9; -.
+DR   PDBsum; 1KTG; -.
+DR   ProteinModelPortal; Q9U2M7; -.
+DR   SMR; Q9U2M7; 2-138.
+DR   BioGrid; 54272; 1.
+DR   DIP; DIP-24985N; -.
+DR   MINT; MINT-1125473; -.
+DR   STRING; 6239.Y37H9A.6.1; -.
+DR   PaxDb; Q9U2M7; -.
+DR   EnsemblMetazoa; Y37H9A.6; Y37H9A.6; WBGene00003581.
+DR   GeneID; 189639; -.
+DR   KEGG; cel:CELE_Y37H9A.6; -.
+DR   UCSC; Y37H9A.6.2; c. elegans.
+DR   CTD; 189639; -.
+DR   WormBase; Y37H9A.6; CE20230; WBGene00003581; ndx-4.
+DR   eggNOG; COG0494; -.
+DR   GeneTree; ENSGT00390000002416; -.
+DR   HOGENOM; HOG000261976; -.
+DR   InParanoid; Q9U2M7; -.
+DR   KO; K01518; -.
+DR   OMA; HHWSPPK; -.
+DR   PhylomeDB; Q9U2M7; -.
+DR   BRENDA; 3.6.1.17; 1045.
+DR   SABIO-RK; Q9U2M7; -.
+DR   EvolutionaryTrace; Q9U2M7; -.
+DR   NextBio; 943106; -.
+DR   PRO; PR:Q9U2M7; -.
+DR   Proteomes; UP000001940; Chromosome I.
+DR   GO; GO:0043135; F:5-phosphoribosyl 1-pyrophosphate pyrophosphatase activity; IDA:WormBase.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004081; F:bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) activity; IDA:UniProtKB.
+DR   GO; GO:0006172; P:ADP biosynthetic process; IDA:WormBase.
+DR   GO; GO:0006167; P:AMP biosynthetic process; IDA:WormBase.
+DR   GO; GO:0006915; P:apoptotic process; IDA:UniProtKB.
+DR   GO; GO:0006754; P:ATP biosynthetic process; IDA:WormBase.
+DR   GO; GO:0015967; P:diadenosine tetraphosphate catabolic process; IDA:WormBase.
+DR   GO; GO:0019693; P:ribose phosphate metabolic process; IDA:WormBase.
+DR   Gene3D; 3.90.79.10; -; 1.
+DR   InterPro; IPR020084; NUDIX_hydrolase_CS.
+DR   InterPro; IPR000086; NUDIX_hydrolase_dom.
+DR   InterPro; IPR015797; NUDIX_hydrolase_dom-like.
+DR   InterPro; IPR003565; Tetra_PHTase.
+DR   Pfam; PF00293; NUDIX; 1.
+DR   PRINTS; PR01405; TETRPHPHTASE.
+DR   SUPFAM; SSF55811; SSF55811; 1.
+DR   PROSITE; PS51462; NUDIX; 1.
+DR   PROSITE; PS00893; NUDIX_BOX; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; ATP-binding; Calcium; Cobalt; Complete proteome;
+KW   Hydrolase; Magnesium; Manganese; Nucleotide-binding;
+KW   Reference proteome; Zinc.
+FT   CHAIN         1    138       Bis(5'-nucleosyl)-tetraphosphatase
+FT                                [asymmetrical].
+FT                                /FTId=PRO_0000057106.
+FT   DOMAIN        1    132       Nudix hydrolase. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00794}.
+FT   MOTIF        37     58       Nudix box.
+FT   MUTAGEN      27     27       Y->A: No Effect on substrate binding or
+FT                                catalytic activity.
+FT                                {ECO:0000269|PubMed:12475970}.
+FT   MUTAGEN      27     27       Y->D: Slight increase in substrate
+FT                                binding and no effect on catalytic
+FT                                activity. {ECO:0000269|PubMed:12475970}.
+FT   MUTAGEN      31     31       H->A: Increases substrate binding and
+FT                                reduces catalytic activity.
+FT                                {ECO:0000269|PubMed:12475970}.
+FT   MUTAGEN      31     31       H->V: Increases substrate binding and
+FT                                reduces catalytic activity.
+FT                                {ECO:0000269|PubMed:12475970}.
+FT   MUTAGEN      36     36       K->M: No effect on substrate binding and
+FT                                reduces catalytic activity.
+FT                                {ECO:0000269|PubMed:12475970}.
+FT   MUTAGEN      38     38       H->G: Slight decrease in substrate
+FT                                binding and slight increase in catalytic
+FT                                activity. {ECO:0000269|PubMed:12475970}.
+FT   MUTAGEN      38     38       H->K: Slight decrease in substrate
+FT                                binding and slight increase in catalytic
+FT                                activity. {ECO:0000269|PubMed:12475970}.
+FT   MUTAGEN      52     52       E->Q: No effect on substrate binding and
+FT                                strongly reduces catalytic activity.
+FT                                {ECO:0000269|PubMed:12475970}.
+FT   MUTAGEN      56     56       E->Q: No effect on substrate binding and
+FT                                strongly reduces catalytic activity.
+FT                                {ECO:0000269|PubMed:12475970}.
+FT   MUTAGEN      76     76       Y->A: Increases substrate binding and
+FT                                slightly reduces catalytic activity.
+FT                                Reduces catalytic activity; when
+FT                                associated with A-121.
+FT                                {ECO:0000269|PubMed:12475970}.
+FT   MUTAGEN      79     79       K->M: Slight increase in substrate
+FT                                binding and reduces catalytic activity.
+FT                                {ECO:0000269|PubMed:12475970}.
+FT   MUTAGEN      81     81       K->M: Slight increase in substrate
+FT                                binding and enzyme activity.
+FT                                {ECO:0000269|PubMed:12475970}.
+FT   MUTAGEN      83     83       K->M: Increases substrate binding and
+FT                                reduces catalytic activity.
+FT                                {ECO:0000269|PubMed:12475970}.
+FT   MUTAGEN     103    103       E->Q: No effect on substrate binding and
+FT                                reduces catalytic activity.
+FT                                {ECO:0000269|PubMed:12475970}.
+FT   MUTAGEN     121    121       Y->A: Increases substrate binding and
+FT                                slightly reduces catalytic activity.
+FT                                Reduces catalytic activity; when
+FT                                associated with A-76.
+FT                                {ECO:0000269|PubMed:12475970}.
+FT   STRAND        3     14       {ECO:0000244|PDB:1KTG}.
+FT   STRAND       17     27       {ECO:0000244|PDB:1KTG}.
+FT   STRAND       32     38       {ECO:0000244|PDB:1KTG}.
+FT   HELIX        45     57       {ECO:0000244|PDB:1KTG}.
+FT   HELIX        61     63       {ECO:0000244|PDB:1KTG}.
+FT   STRAND       64     78       {ECO:0000244|PDB:1KTG}.
+FT   STRAND       81     92       {ECO:0000244|PDB:1KTG}.
+FT   STRAND      104    110       {ECO:0000244|PDB:1KTG}.
+FT   HELIX       112    119       {ECO:0000244|PDB:1KTG}.
+FT   HELIX       122    137       {ECO:0000244|PDB:1KTG}.
+SQ   SEQUENCE   138 AA;  15889 MW;  5C123085602CE5E5 CRC64;
+     MVVKAAGLVI YRKLAGKIEF LLLQASYPPH HWTPPKGHVD PGEDEWQAAI RETKEEANIT
+     KEQLTIHEDC HETLFYEAKG KPKSVKYWLA KLNNPDDVQL SHEHQNWKWC ELEDAIKIAD
+     YAEMGSLLRK FSAFLAGF
+//

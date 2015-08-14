@@ -1,0 +1,96 @@
+ID   Q5SHV7_THET8            Unreviewed;       207 AA.
+AC   Q5SHV7;
+DT   21-DEC-2004, integrated into UniProtKB/TrEMBL.
+DT   21-DEC-2004, sequence version 1.
+DT   22-JUL-2015, entry version 66.
+DE   SubName: Full=Metallo-beta-lactamase superfamily protein {ECO:0000313|EMBL:BAD71446.1};
+GN   OrderedLocusNames=TTHA1623 {ECO:0000313|EMBL:BAD71446.1};
+OS   Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579).
+OC   Bacteria; Deinococcus-Thermus; Deinococci; Thermales; Thermaceae;
+OC   Thermus.
+OX   NCBI_TaxID=300852 {ECO:0000313|EMBL:BAD71446.1, ECO:0000313|Proteomes:UP000000532};
+RN   [1] {ECO:0000313|EMBL:BAD71446.1, ECO:0000313|Proteomes:UP000000532}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=HB8 / ATCC 27634 / DSM 579 {ECO:0000313|Proteomes:UP000000532};
+RA   Masui R., Kurokawa K., Nakagawa N., Tokunaga F., Koyama Y.,
+RA   Shibata T., Oshima T., Yokoyama S., Yasunaga T., Kuramitsu S.;
+RT   "Complete genome sequence of Thermus thermophilus HB8.";
+RL   Submitted (NOV-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:2ZWR, ECO:0000213|PDB:2ZZI}
+RP   X-RAY CRYSTALLOGRAPHY (2.20 ANGSTROMS) IN COMPLEX WITH IRON AND ZINC.
+RX   PubMed=19407375;
+RA   Yamamura A., Okada A., Kameda Y., Ohtsuka J., Nakagawa N., Ebihara A.,
+RA   Nagata K., Tanokura M.;
+RT   "Structure of TTHA1623, a novel metallo-beta-lactamase superfamily
+RT   protein from Thermus thermophilus HB8.";
+RL   Acta Crystallogr. F 65:455-459(2009).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AP008226; BAD71446.1; -; Genomic_DNA.
+DR   RefSeq; WP_011228812.1; NC_006461.1.
+DR   RefSeq; YP_144889.1; NC_006461.1.
+DR   PDB; 2ZWR; X-ray; 2.20 A; A/B=1-207.
+DR   PDB; 2ZZI; X-ray; 2.80 A; A/B=1-207.
+DR   PDBsum; 2ZWR; -.
+DR   PDBsum; 2ZZI; -.
+DR   ProteinModelPortal; Q5SHV7; -.
+DR   STRING; 300852.TTHA1623; -.
+DR   EnsemblBacteria; BAD71446; BAD71446; BAD71446.
+DR   GeneID; 3168629; -.
+DR   KEGG; ttj:TTHA1623; -.
+DR   PATRIC; 23958201; VBITheThe93045_1593.
+DR   eggNOG; COG0491; -.
+DR   HOGENOM; HOG000058039; -.
+DR   OMA; PFYAHPA; -.
+DR   OrthoDB; EOG69GZQ4; -.
+DR   PhylomeDB; Q5SHV7; -.
+DR   BioCyc; TTHE300852:GH8R-1662-MONOMER; -.
+DR   EvolutionaryTrace; Q5SHV7; -.
+DR   Proteomes; UP000000532; Chromosome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.60.15.10; -; 1.
+DR   InterPro; IPR001279; Beta-lactamas-like.
+DR   Pfam; PF00753; Lactamase_B; 1.
+DR   SMART; SM00849; Lactamase_B; 1.
+DR   SUPFAM; SSF56281; SSF56281; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2ZWR, ECO:0000213|PDB:2ZZI};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000532};
+KW   Iron {ECO:0000213|PDB:2ZZI};
+KW   Metal-binding {ECO:0000213|PDB:2ZWR, ECO:0000213|PDB:2ZZI};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000532};
+KW   Zinc {ECO:0000213|PDB:2ZWR}.
+FT   METAL        54     54       Iron 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2ZZI}.
+FT   METAL        54     54       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2ZWR}.
+FT   METAL        56     56       Iron 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:2ZZI}.
+FT   METAL        56     56       Zinc 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:2ZWR}.
+FT   METAL        58     58       Iron 2. {ECO:0000213|PDB:2ZZI}.
+FT   METAL        58     58       Zinc 2. {ECO:0000213|PDB:2ZWR}.
+FT   METAL        59     59       Iron 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2ZZI}.
+FT   METAL        59     59       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2ZWR}.
+FT   METAL       125    125       Iron 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2ZZI}.
+FT   METAL       125    125       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2ZWR}.
+FT   METAL       144    144       Iron 1. {ECO:0000213|PDB:2ZZI}.
+FT   METAL       144    144       Iron 2. {ECO:0000213|PDB:2ZZI}.
+FT   METAL       144    144       Zinc 1. {ECO:0000213|PDB:2ZWR}.
+FT   METAL       144    144       Zinc 2. {ECO:0000213|PDB:2ZWR}.
+FT   METAL       184    184       Iron 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2ZZI}.
+FT   METAL       184    184       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2ZWR}.
+SQ   SEQUENCE   207 AA;  22300 MW;  4254219E7472B32A CRC64;
+     MRVFPVTLGP LQENAYLVET GEGPVLIDPG DEPEKLLALF QTTGLIPLAI LLTHAHFDHV
+     GAVAPLVEAL DLPVYLHPLD LPLYEGADLA ARAWGLAIPK PPLPVRPLEE GMRLFGFQVL
+     HLPGHSPGHV AFYDPEGAQV FSGDLLFRGS VGRYDLPGAD PKALFASLKR LLSLPPETRV
+     HPGHGPGTTL GLEARTNPFL TGLEWEA
+//

@@ -1,0 +1,312 @@
+ID   MBL1_RAT                Reviewed;         238 AA.
+AC   P19999;
+DT   01-FEB-1991, integrated into UniProtKB/Swiss-Prot.
+DT   01-FEB-1991, sequence version 1.
+DT   22-JUL-2015, entry version 150.
+DE   RecName: Full=Mannose-binding protein A;
+DE            Short=MBP-A;
+DE   AltName: Full=Mannan-binding protein;
+DE   Flags: Precursor;
+GN   Name=Mbl1;
+OS   Rattus norvegicus (Rat).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Rattus.
+OX   NCBI_TaxID=10116;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND PARTIAL PROTEIN SEQUENCE.
+RC   TISSUE=Liver;
+RX   PubMed=3009480;
+RA   Drickamer K., Dordal M.S., Reynolds L.;
+RT   "Mannose-binding proteins isolated from rat liver contain
+RT   carbohydrate-recognition domains linked to collagenous tails. Complete
+RT   primary structures and homology with pulmonary surfactant
+RT   apoprotein.";
+RL   J. Biol. Chem. 261:6878-6887(1986).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   TISSUE=Liver;
+RX   PubMed=3029088;
+RA   Drickamer K., McCreary V.;
+RT   "Exon structure of a mannose-binding protein gene reflects its
+RT   evolutionary relationship to the asialoglycoprotein receptor and
+RT   nonfibrillar collagens.";
+RL   J. Biol. Chem. 262:2582-2589(1987).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Liver;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4]
+RP   PROTEIN SEQUENCE OF 18-42.
+RX   PubMed=3584121;
+RA   Ikeda K., Sannoh T., Kawasaki N., Kawasaki T., Yamashina I.;
+RT   "Serum lectin with known structure activates complement through the
+RT   classical pathway.";
+RL   J. Biol. Chem. 262:7451-7454(1987).
+RN   [5]
+RP   INTERACTION WITH MASP1 AND MASP2.
+RC   TISSUE=Liver;
+RX   PubMed=10913141; DOI=10.1074/jbc.M004030200;
+RA   Wallis R., Dodd R.B.;
+RT   "Interaction of mannose-binding protein with associated serine
+RT   proteases: effects of naturally occurring mutations.";
+RL   J. Biol. Chem. 275:30962-30969(2000).
+RN   [6]
+RP   SUBCELLULAR LOCATION, GLYCOSYLATION, OLIGOMERIZATION, MUTAGENESIS OF
+RP   ARG-40; GLY-42; LYS-44; GLY-45 AND LYS-47, AND HYDROXYLATION AT LYS-44
+RP   AND LYS-47.
+RX   PubMed=10903744; DOI=10.4049/jimmunol.165.3.1403;
+RA   Heise C.T., Nicholls J.R., Leamy C.E., Wallis R.;
+RT   "Impaired secretion of rat mannose-binding protein resulting from
+RT   mutations in the collagen-like domain.";
+RL   J. Immunol. 165:1403-1409(2000).
+RN   [7]
+RP   X-RAY CRYSTALLOGRAPHY (2.3 ANGSTROMS) OF 124-238.
+RX   PubMed=1721241; DOI=10.1126/science.1721241;
+RA   Weis W.I., Kahn R., Fourme R., Drickamer K., Hendrickson W.A.;
+RT   "Structure of the calcium-dependent lectin domain from a rat mannose-
+RT   binding protein determined by MAD phasing.";
+RL   Science 254:1608-1615(1991).
+RN   [8]
+RP   X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS) OF 124-238.
+RX   PubMed=1436090; DOI=10.1038/360127a0;
+RA   Weis W.I., Drickamer K., Hendrickson W.A.;
+RT   "Structure of a C-type mannose-binding protein complexed with an
+RT   oligosaccharide.";
+RL   Nature 360:127-134(1992).
+RN   [9]
+RP   X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS) OF 84-238.
+RX   PubMed=7704532; DOI=10.1016/S0969-2126(94)00124-3;
+RA   Weis W.I., Drickamer K.;
+RT   "Trimeric structure of a C-type mannose-binding protein.";
+RL   Structure 2:1227-1240(1994).
+RN   [10]
+RP   X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS) OF 90-238.
+RX   PubMed=9922165; DOI=10.1021/bi981972a;
+RA   Ng K.K.-S., Park-Snyder S., Weis W.I.;
+RT   "Ca2+-dependent structural changes in C-type mannose-binding
+RT   proteins.";
+RL   Biochemistry 37:17965-17976(1998).
+CC   -!- FUNCTION: Calcium-dependent lectin involved in innate immune
+CC       defense. Binds mannose, fucose and N-acetylglucosamine on
+CC       different microorganisms and activates the lectin complement
+CC       pathway. Binds to late apoptotic cells, as well as to apoptotic
+CC       blebs and to necrotic cells, but not to early apoptotic cells,
+CC       facilitating their uptake by macrophages (By similarity).
+CC       {ECO:0000250}.
+CC   -!- SUBUNIT: Oligomeric complex of 3 or more homotrimers.
+CC       Oligomerization occurs in the endoplasmic reticulum (By
+CC       similarity). Interacts with MASP1 and MASP2. {ECO:0000250,
+CC       ECO:0000269|PubMed:10913141}.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000269|PubMed:10903744}.
+CC       Note=According to PubMed:10903744, long retention times in the
+CC       endoplasmic reticulum and the Golgi apparatus that have been
+CC       observed in former studies may reflect the abnormal physiology of
+CC       the hepatoma cells used.
+CC   -!- SIMILARITY: Contains 1 C-type lectin domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00040}.
+CC   -!- SIMILARITY: Contains 1 collagen-like domain. {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=Functional Glycomics Gateway - Glycan Binding;
+CC       Note=Mannose-binding protein A;
+CC       URL="http://www.functionalglycomics.org/glycomics/GBPServlet?&operationType=view&cbpId=cbp_rat_Ctlect_00135";
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M14105; AAA98781.1; -; Genomic_DNA.
+DR   EMBL; M14104; AAA98781.1; JOINED; Genomic_DNA.
+DR   EMBL; BC088159; AAH88159.1; -; mRNA.
+DR   PIR; B24791; LNRTMA.
+DR   RefSeq; NP_036731.2; NM_012599.2.
+DR   UniGene; Rn.10273; -.
+DR   PDB; 1AFA; X-ray; 2.00 A; 1/2/3=90-238.
+DR   PDB; 1AFB; X-ray; 1.90 A; 1/2/3=90-238.
+DR   PDB; 1AFD; X-ray; 2.00 A; 1/2/3=90-238.
+DR   PDB; 1BCH; X-ray; 2.00 A; 1/2/3=90-238.
+DR   PDB; 1BCJ; X-ray; 2.10 A; 1/2/3=90-238.
+DR   PDB; 1BUU; X-ray; 1.90 A; A=75-238.
+DR   PDB; 1FIF; X-ray; 1.95 A; A/B/C=90-238.
+DR   PDB; 1FIH; X-ray; 1.95 A; A/B/C=90-238.
+DR   PDB; 1KMB; X-ray; 2.10 A; 1/2/3=90-238.
+DR   PDB; 1KWT; X-ray; 1.95 A; A/B/C=90-238.
+DR   PDB; 1KWU; X-ray; 1.95 A; A/B/C=90-238.
+DR   PDB; 1KWV; X-ray; 2.00 A; A/B/C=90-238.
+DR   PDB; 1KWW; X-ray; 1.90 A; A/B/C=90-238.
+DR   PDB; 1KWX; X-ray; 2.00 A; A/B/C=90-238.
+DR   PDB; 1KWY; X-ray; 2.00 A; A/B/C=90-238.
+DR   PDB; 1KWZ; X-ray; 1.90 A; A/B/C=90-238.
+DR   PDB; 1KX0; X-ray; 2.00 A; A/B/C=90-238.
+DR   PDB; 1KX1; X-ray; 2.80 A; A/B/C/D/E/F=90-238.
+DR   PDB; 1MSB; X-ray; 2.30 A; A/B=124-238.
+DR   PDB; 1RTM; X-ray; 1.80 A; 1/2/3=90-238.
+DR   PDB; 1YTT; X-ray; 1.80 A; A/B=124-238.
+DR   PDB; 2KMB; X-ray; 2.00 A; 1/2/3=90-238.
+DR   PDB; 2MSB; X-ray; 1.70 A; A/B=124-238.
+DR   PDB; 3KMB; X-ray; 1.95 A; 1/2/3=90-238.
+DR   PDB; 4KMB; X-ray; 2.00 A; 1/2/3=90-238.
+DR   PDBsum; 1AFA; -.
+DR   PDBsum; 1AFB; -.
+DR   PDBsum; 1AFD; -.
+DR   PDBsum; 1BCH; -.
+DR   PDBsum; 1BCJ; -.
+DR   PDBsum; 1BUU; -.
+DR   PDBsum; 1FIF; -.
+DR   PDBsum; 1FIH; -.
+DR   PDBsum; 1KMB; -.
+DR   PDBsum; 1KWT; -.
+DR   PDBsum; 1KWU; -.
+DR   PDBsum; 1KWV; -.
+DR   PDBsum; 1KWW; -.
+DR   PDBsum; 1KWX; -.
+DR   PDBsum; 1KWY; -.
+DR   PDBsum; 1KWZ; -.
+DR   PDBsum; 1KX0; -.
+DR   PDBsum; 1KX1; -.
+DR   PDBsum; 1MSB; -.
+DR   PDBsum; 1RTM; -.
+DR   PDBsum; 1YTT; -.
+DR   PDBsum; 2KMB; -.
+DR   PDBsum; 2MSB; -.
+DR   PDBsum; 3KMB; -.
+DR   PDBsum; 4KMB; -.
+DR   ProteinModelPortal; P19999; -.
+DR   SMR; P19999; 90-238.
+DR   STRING; 10116.ENSRNOP00000015723; -.
+DR   PaxDb; P19999; -.
+DR   PRIDE; P19999; -.
+DR   Ensembl; ENSRNOT00000015723; ENSRNOP00000015723; ENSRNOG00000011706.
+DR   GeneID; 24548; -.
+DR   KEGG; rno:24548; -.
+DR   UCSC; RGD:3055; rat.
+DR   CTD; 17194; -.
+DR   RGD; 3055; Mbl1.
+DR   eggNOG; NOG265984; -.
+DR   GeneTree; ENSGT00700000104102; -.
+DR   HOGENOM; HOG000085660; -.
+DR   HOVERGEN; HBG108270; -.
+DR   InParanoid; P19999; -.
+DR   KO; K03991; -.
+DR   OMA; IICEIDI; -.
+DR   OrthoDB; EOG7VTDPW; -.
+DR   PhylomeDB; P19999; -.
+DR   TreeFam; TF330481; -.
+DR   EvolutionaryTrace; P19999; -.
+DR   NextBio; 603650; -.
+DR   PMAP-CutDB; P19999; -.
+DR   PRO; PR:P19999; -.
+DR   Proteomes; UP000002494; Chromosome 16.
+DR   ExpressionAtlas; P19999; baseline and differential.
+DR   Genevisible; P19999; RN.
+DR   GO; GO:0005581; C:collagen trimer; IEA:UniProtKB-KW.
+DR   GO; GO:0005615; C:extracellular space; IDA:RGD.
+DR   GO; GO:0005509; F:calcium ion binding; IDA:UniProtKB.
+DR   GO; GO:0048306; F:calcium-dependent protein binding; IPI:UniProtKB.
+DR   GO; GO:0005537; F:mannose binding; IDA:RGD.
+DR   GO; GO:0070273; F:phosphatidylinositol-4-phosphate binding; IDA:RGD.
+DR   GO; GO:0030247; F:polysaccharide binding; IDA:RGD.
+DR   GO; GO:0002020; F:protease binding; IDA:RGD.
+DR   GO; GO:0042803; F:protein homodimerization activity; IPI:UniProtKB.
+DR   GO; GO:0006958; P:complement activation, classical pathway; IEA:UniProtKB-KW.
+DR   GO; GO:0001867; P:complement activation, lectin pathway; IDA:RGD.
+DR   GO; GO:0050830; P:defense response to Gram-positive bacterium; IEA:Ensembl.
+DR   GO; GO:0051873; P:killing by host of symbiont cells; IEA:Ensembl.
+DR   GO; GO:0044130; P:negative regulation of growth of symbiont in host; IEA:Ensembl.
+DR   GO; GO:0050766; P:positive regulation of phagocytosis; IEA:Ensembl.
+DR   GO; GO:0051289; P:protein homotetramerization; IDA:RGD.
+DR   GO; GO:0070207; P:protein homotrimerization; IDA:RGD.
+DR   Gene3D; 3.10.100.10; -; 1.
+DR   InterPro; IPR001304; C-type_lectin.
+DR   InterPro; IPR016186; C-type_lectin-like.
+DR   InterPro; IPR018378; C-type_lectin_CS.
+DR   InterPro; IPR016187; C-type_lectin_fold.
+DR   InterPro; IPR008160; Collagen.
+DR   Pfam; PF01391; Collagen; 1.
+DR   Pfam; PF00059; Lectin_C; 1.
+DR   SMART; SM00034; CLECT; 1.
+DR   SUPFAM; SSF56436; SSF56436; 1.
+DR   PROSITE; PS00615; C_TYPE_LECTIN_1; 1.
+DR   PROSITE; PS50041; C_TYPE_LECTIN_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Calcium; Collagen; Complement activation lectin pathway;
+KW   Complement pathway; Complete proteome; Direct protein sequencing;
+KW   Disulfide bond; Glycoprotein; Hydroxylation; Immunity;
+KW   Innate immunity; Lectin; Mannose-binding; Reference proteome; Repeat;
+KW   Secreted; Signal.
+FT   SIGNAL        1     17       {ECO:0000269|PubMed:3584121}.
+FT   CHAIN        18    238       Mannose-binding protein A.
+FT                                /FTId=PRO_0000017414.
+FT   DOMAIN       39     88       Collagen-like.
+FT   DOMAIN      143    238       C-type lectin. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00040}.
+FT   MOD_RES      43     43       4-hydroxyproline. {ECO:0000255}.
+FT   MOD_RES      44     44       5-hydroxylysine.
+FT                                {ECO:0000269|PubMed:10903744}.
+FT   MOD_RES      47     47       5-hydroxylysine.
+FT                                {ECO:0000269|PubMed:10903744}.
+FT   MOD_RES      61     61       4-hydroxyproline. {ECO:0000255}.
+FT   MOD_RES      67     67       4-hydroxyproline. {ECO:0000255}.
+FT   MOD_RES      73     73       4-hydroxyproline. {ECO:0000255}.
+FT   MOD_RES      78     78       4-hydroxyproline. {ECO:0000255}.
+FT   MOD_RES      79     79       5-hydroxylysine. {ECO:0000305}.
+FT   MOD_RES      82     82       5-hydroxylysine. {ECO:0000305}.
+FT   CARBOHYD     44     44       O-linked (Gal...).
+FT                                {ECO:0000269|PubMed:10903744}.
+FT   CARBOHYD     47     47       O-linked (Gal...).
+FT                                {ECO:0000269|PubMed:10903744}.
+FT   DISULFID    145    234
+FT   DISULFID    212    226
+FT   MUTAGEN      40     40       R->C: Prevents higher-order oligomer
+FT                                assembly. Slight reduction in secretion
+FT                                rate. {ECO:0000269|PubMed:10903744}.
+FT   MUTAGEN      42     42       G->E: Disrupts homotrimer formation. 5-
+FT                                fold reduction in secretion rate.
+FT                                Prevents K-44 hydroxylation and
+FT                                glycosylation. 10-fold decrease in
+FT                                complement activation.
+FT                                {ECO:0000269|PubMed:10903744}.
+FT   MUTAGEN      44     44       K->R: No effect on secretion rate, nor on
+FT                                homooligomer formation. 3-fold reduction
+FT                                in secretion rate; when associated eith
+FT                                R-47. Prevents higher-order oligomer
+FT                                assembly; when associated eith R-47. 10-
+FT                                fold decrease in complement activation;
+FT                                when associated eith R-47.
+FT                                {ECO:0000269|PubMed:10903744}.
+FT   MUTAGEN      45     45       G->D: Disrupts homotrimer formation. 5-
+FT                                fold reduction in secretion rate.
+FT                                Prevents K-47 hydroxylation and
+FT                                glycosylation.
+FT                                {ECO:0000269|PubMed:10903744}.
+FT   MUTAGEN      47     47       K->R: No effect on secretion rate, nor on
+FT                                homooligomer formation. 3-fold reduction
+FT                                in secretion rate; when associated eith
+FT                                R-44. Prevents higher-order oligomer
+FT                                assembly; when associated eith R-44. 10-
+FT                                fold decrease in complement activation;
+FT                                when associated eith R-44.
+FT                                {ECO:0000269|PubMed:10903744}.
+FT   CONFLICT    156    156       R -> K (in Ref. 2; AAA98781).
+FT                                {ECO:0000305}.
+FT   HELIX        91    119       {ECO:0000244|PDB:1RTM}.
+FT   STRAND      128    136       {ECO:0000244|PDB:2MSB}.
+FT   HELIX       138    147       {ECO:0000244|PDB:2MSB}.
+FT   STRAND      150    152       {ECO:0000244|PDB:1BUU}.
+FT   HELIX       158    168       {ECO:0000244|PDB:2MSB}.
+FT   STRAND      172    181       {ECO:0000244|PDB:2MSB}.
+FT   STRAND      184    187       {ECO:0000244|PDB:2MSB}.
+FT   STRAND      190    192       {ECO:0000244|PDB:2MSB}.
+FT   STRAND      198    202       {ECO:0000244|PDB:1BUU}.
+FT   STRAND      212    215       {ECO:0000244|PDB:2MSB}.
+FT   HELIX       217    219       {ECO:0000244|PDB:1RTM}.
+FT   STRAND      221    224       {ECO:0000244|PDB:2MSB}.
+FT   STRAND      230    236       {ECO:0000244|PDB:2MSB}.
+SQ   SEQUENCE   238 AA;  25308 MW;  1A927482B8A8CB3D CRC64;
+     MLLLPLLVLL CVVSVSSSGS QTCEETLKTC SVIACGRDGR DGPKGEKGEP GQGLRGLQGP
+     PGKLGPPGSV GAPGSQGPKG QKGDRGDSRA IEVKLANMEA EINTLKSKLE LTNKLHAFSM
+     GKKSGKKFFV TNHERMPFSK VKALCSELRG TVAIPRNAEE NKAIQEVAKT SAFLGITDEV
+     TEGQFMYVTG GRLTYSNWKK DEPNDHGSGE DCVTIVDNGL WNDISCQASH TAVCEFPA
+//

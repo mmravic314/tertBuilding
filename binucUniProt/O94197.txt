@@ -1,0 +1,75 @@
+ID   O94197_FUSSP            Unreviewed;       459 AA.
+AC   O94197;
+DT   01-MAY-1999, integrated into UniProtKB/TrEMBL.
+DT   01-MAY-1999, sequence version 1.
+DT   29-APR-2015, entry version 44.
+DE   SubName: Full=Trichothecene 3-O-acetyltransferase {ECO:0000313|EMBL:AAD19745.1};
+GN   Name=TRI101 {ECO:0000313|EMBL:AAD19745.1};
+OS   Fusarium sporotrichioides.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Hypocreomycetidae; Hypocreales; Nectriaceae;
+OC   Fusarium.
+OX   NCBI_TaxID=5514 {ECO:0000313|EMBL:AAD19745.1};
+RN   [1] {ECO:0000313|EMBL:AAD19745.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=NRRL3299 {ECO:0000313|EMBL:AAD19745.1};
+RX   PubMed=10583973;
+RA   McCormick S.P., Alexander N.J., Trapp S.E., Hohn T.M.;
+RT   "Disruption of TRI101, the gene encoding trichothecene 3-O-
+RT   acetyltransferase, from Fusarium sporotrichioides.";
+RL   Appl. Environ. Microbiol. 65:5252-5256(1999).
+RN   [2] {ECO:0000213|PDB:2ZBA}
+RP   X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS) IN COMPLEX WITH CALCIUM AND
+RP   COENZYME A.
+RX   PubMed=17923480; DOI=10.1074/jbc.M705752200;
+RA   Garvey G.S., McCormick S.P., Rayment I.;
+RT   "Structural and functional characterization of the TRI101
+RT   trichothecene 3-O-acetyltransferase from Fusarium sporotrichioides and
+RT   Fusarium graminearum: kinetic insights to combating Fusarium head
+RT   blight.";
+RL   J. Biol. Chem. 283:1660-1669(2008).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF127176; AAD19745.1; -; Genomic_DNA.
+DR   PDB; 2ZBA; X-ray; 2.00 A; A/B/C/D=1-459.
+DR   PDBsum; 2ZBA; -.
+DR   ProteinModelPortal; O94197; -.
+DR   SMR; O94197; 11-459.
+DR   EvolutionaryTrace; O94197; -.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016747; F:transferase activity, transferring acyl groups other than amino-acyl groups; IEA:InterPro.
+DR   Gene3D; 3.30.559.10; -; 2.
+DR   InterPro; IPR023213; CAT-like_dom.
+DR   InterPro; IPR003480; Transferase.
+DR   Pfam; PF02458; Transferase; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2ZBA}; Calcium {ECO:0000213|PDB:2ZBA};
+KW   Metal-binding {ECO:0000213|PDB:2ZBA};
+KW   Transferase {ECO:0000313|EMBL:AAD19745.1}.
+FT   REGION      266    269       Coenzyme A binding.
+FT                                {ECO:0000213|PDB:2ZBA}.
+FT   REGION      386    390       Coenzyme A binding.
+FT                                {ECO:0000213|PDB:2ZBA}.
+FT   METAL       218    218       Calcium. {ECO:0000213|PDB:2ZBA}.
+FT   METAL       221    221       Calcium; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:2ZBA}.
+FT   METAL       376    376       Calcium. {ECO:0000213|PDB:2ZBA}.
+FT   BINDING     170    170       Coenzyme A; via amide nitrogen.
+FT                                {ECO:0000213|PDB:2ZBA}.
+FT   BINDING     253    253       Coenzyme A. {ECO:0000213|PDB:2ZBA}.
+FT   BINDING     302    302       Coenzyme A; via amide nitrogen.
+FT                                {ECO:0000213|PDB:2ZBA}.
+FT   BINDING     318    318       Coenzyme A. {ECO:0000213|PDB:2ZBA}.
+FT   BINDING     343    343       Coenzyme A. {ECO:0000213|PDB:2ZBA}.
+SQ   SEQUENCE   459 AA;  50336 MW;  303D8DA611563C92 CRC64;
+     MAATSSTSSQ SFDIELDIIG QQPPLLSIYT QISLVYPVSD PSQYPTIVST LEEGLKRLSQ
+     TFPWVAGQVK TEGISEGNTG TSKIIPYEET PRLVVKDLRD DSSAPTIEGL RKAGFPLEMF
+     DENVVAPRKT LAIGPGNGPN DPKPVLLLQL NFIKGGLILT VNGQHGAMDM TGQDAIIRLL
+     SKACRNESFT EEEISAMNLD RKTVVPLLEN YKVGPELDHQ IAKPAPAGDA PPAPAKATWA
+     FFSFTPKALS ELKDAATKTL DASSKFVSTD DALSAFIWQS TSRVRLARLD ASTPTEFCRA
+     VDMRGPMGVS STYPGLLQNM TYHDSTVAEI ANEPLGATAS RLRSELNSDR LRRRTQALAT
+     YMHGLPDKSS VSLTADANPS SSIMLSSWAK VGCWEYDFGF GLGKPESVRR PRFEPFESLM
+     YFMPKKPDGE FTASISLRDE DMERLKADEE WTKYAKYIG
+//

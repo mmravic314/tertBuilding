@@ -1,0 +1,635 @@
+ID   NUC_STAAU               Reviewed;         231 AA.
+AC   P00644; P13718; Q53711;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   21-JUL-1986, sequence version 1.
+DT   22-JUL-2015, entry version 152.
+DE   RecName: Full=Thermonuclease;
+DE            Short=TNase;
+DE            EC=3.1.31.1;
+DE   AltName: Full=Micrococcal nuclease;
+DE   AltName: Full=Staphylococcal nuclease;
+DE   Contains:
+DE     RecName: Full=Nuclease B;
+DE   Contains:
+DE     RecName: Full=Nuclease A;
+DE   Flags: Precursor;
+GN   Name=nuc;
+OS   Staphylococcus aureus.
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcus.
+OX   NCBI_TaxID=1280;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 27735 / Foggie;
+RX   PubMed=6307819; DOI=10.1016/0378-1119(83)90102-6;
+RA   Shortle D.;
+RT   "A genetic system for analysis of staphylococcal nuclease.";
+RL   Gene 22:181-189(1983).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-112.
+RX   PubMed=3921523;
+RA   Kovacevic S., Veal L.E., Hsiung H.M., Miller J.R.;
+RT   "Secretion of staphylococcal nuclease by Bacillus subtilis.";
+RL   J. Bacteriol. 162:521-528(1985).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 30-63.
+RX   PubMed=3112123;
+RA   Miller J.R., Kovacevic S., Veal L.E.;
+RT   "Secretion and processing of staphylococcal nuclease by Bacillus
+RT   subtilis.";
+RL   J. Bacteriol. 169:3508-3514(1987).
+RN   [4]
+RP   PROTEIN SEQUENCE OF 64-82.
+RC   STRAIN=ATCC 27735 / Foggie;
+RX   PubMed=893427;
+RA   Davis A., Moore I.B., Parker D.S., Taniuchi H.;
+RT   "Nuclease B. A possible precursor of nuclease A, an extracellular
+RT   nuclease of Staphylococcus aureus.";
+RL   J. Biol. Chem. 252:6544-6553(1977).
+RN   [5]
+RP   PROTEIN SEQUENCE OF 83-231.
+RC   STRAIN=ATCC 27735 / Foggie;
+RX   PubMed=4324890;
+RA   Cone J.L., Cusumano C.L., Taniuchi H., Anfinsen C.B.;
+RT   "Staphylococcal nuclease (Foggi strain). II. The amino acid
+RT   sequence.";
+RL   J. Biol. Chem. 246:3103-3110(1971).
+RN   [6]
+RP   AMIDE ASSIGNMENTS FOR 83-231.
+RC   STRAIN=ATCC 27735 / Foggie;
+RX   PubMed=4339720;
+RA   Bohnert J.L., Taniuchi H.;
+RT   "The examination of the presence of amide groups in glutamic acid and
+RT   aspartic acid residues of staphylococcal nuclease (Foggi strain).";
+RL   J. Biol. Chem. 247:4557-4560(1972).
+RN   [7]
+RP   X-RAY CRYSTALLOGRAPHY (1.5 ANGSTROMS), AND PROPOSED CATALYTIC
+RP   MECHANISM.
+RX   PubMed=288045; DOI=10.1073/pnas.76.6.2551;
+RA   Cotton F.A., Hazen E.C. Jr., Legg M.J.;
+RT   "Staphylococcal nuclease: proposed mechanism of action based on
+RT   structure of enzyme-thymidine 3',5'-bisphosphate-calcium ion complex
+RT   at 1.5-A resolution.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 76:2551-2555(1979).
+RN   [8]
+RP   X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS).
+RX   PubMed=1896431; DOI=10.1002/prot.340100203;
+RA   Hynes T.R., Fox R.O.;
+RT   "The crystal structure of staphylococcal nuclease refined at 1.7-A
+RT   resolution.";
+RL   Proteins 10:92-105(1991).
+RN   [9]
+RP   STRUCTURE BY NMR.
+RX   PubMed=1731948; DOI=10.1021/bi00118a038;
+RA   Wang J., Mooberry E.S., Walkenhorst W.F., Markley J.L.;
+RT   "Solution studies of staphylococcal nuclease H124L. 1. Backbone 1H and
+RT   15N resonances and secondary structure of the unligated enzyme as
+RT   identified by three-dimensional NMR spectroscopy.";
+RL   Biochemistry 31:911-920(1992).
+RN   [10]
+RP   STRUCTURE BY NMR OF 83-218.
+RX   PubMed=8069625; DOI=10.1016/0969-2126(93)90027-E;
+RA   Shortle D., Abeygunawardana C.;
+RT   "NMR analysis of the residual structure in the denatured state of an
+RT   unusual mutant of staphylococcal nuclease.";
+RL   Structure 1:121-134(1993).
+CC   -!- FUNCTION: Enzyme that catalyzes the hydrolysis of both DNA and RNA
+CC       at the 5' position of the phosphodiester bond.
+CC   -!- CATALYTIC ACTIVITY: Endonucleolytic cleavage to nucleoside 3'-
+CC       phosphates and 3'-phosphooligonucleotide end-products.
+CC       {ECO:0000255|PROSITE-ProRule:PRU10048, ECO:0000255|PROSITE-
+CC       ProRule:PRU10049}.
+CC   -!- COFACTOR:
+CC       Name=Ca(2+); Xref=ChEBI:CHEBI:29108;
+CC       Note=Binds 1 Ca(2+) ion per subunit.;
+CC   -!- SUBCELLULAR LOCATION: Nuclease A: Secreted.
+CC   -!- SUBCELLULAR LOCATION: Nuclease B: Membrane.
+CC   -!- SIMILARITY: Belongs to the thermonuclease family.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00272}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAA26659.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   -!- WEB RESOURCE: Name=Worthington enzyme manual;
+CC       URL="http://www.worthington-biochem.com/NFCP/";
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; V01281; CAA24594.1; -; mRNA.
+DR   EMBL; M17123; AAA26659.1; ALT_INIT; Genomic_DNA.
+DR   PIR; A00790; NCSAF.
+DR   PDB; 1A2T; X-ray; 1.96 A; A=83-231.
+DR   PDB; 1A2U; X-ray; 2.00 A; A=83-231.
+DR   PDB; 1A3T; X-ray; 2.10 A; A=83-231.
+DR   PDB; 1A3U; X-ray; 2.05 A; A=83-231.
+DR   PDB; 1A3V; X-ray; 2.20 A; A=83-231.
+DR   PDB; 1AEX; X-ray; 2.10 A; A=83-231.
+DR   PDB; 1ENA; X-ray; 2.15 A; A=89-223.
+DR   PDB; 1ENC; X-ray; 1.95 A; A=83-231.
+DR   PDB; 1EQV; X-ray; 1.94 A; A=88-223.
+DR   PDB; 1EY0; X-ray; 1.60 A; A=83-231.
+DR   PDB; 1EY4; X-ray; 1.60 A; A=83-231.
+DR   PDB; 1EY5; X-ray; 1.70 A; A=83-231.
+DR   PDB; 1EY6; X-ray; 1.75 A; A=83-231.
+DR   PDB; 1EY7; X-ray; 1.88 A; A=83-231.
+DR   PDB; 1EY8; X-ray; 1.75 A; A=83-231.
+DR   PDB; 1EY9; X-ray; 1.72 A; A=83-231.
+DR   PDB; 1EYA; X-ray; 2.00 A; A=83-231.
+DR   PDB; 1EYC; X-ray; 1.85 A; A=83-231.
+DR   PDB; 1EYD; X-ray; 1.70 A; A=83-231.
+DR   PDB; 1EZ6; X-ray; 1.90 A; A=83-231.
+DR   PDB; 1EZ8; X-ray; 1.85 A; A=83-231.
+DR   PDB; 1F2M; X-ray; 2.00 A; A=83-231.
+DR   PDB; 1F2Y; X-ray; 2.00 A; A=83-231.
+DR   PDB; 1F2Z; X-ray; 1.80 A; A=83-231.
+DR   PDB; 1IHZ; X-ray; 1.65 A; A=83-231.
+DR   PDB; 1II3; X-ray; 1.72 A; A=83-231.
+DR   PDB; 1JOK; NMR; -; A=83-231.
+DR   PDB; 1JOO; NMR; -; A=83-231.
+DR   PDB; 1JOQ; NMR; -; A=83-231.
+DR   PDB; 1JOR; NMR; -; A=83-231.
+DR   PDB; 1KAA; X-ray; 1.90 A; A=88-223.
+DR   PDB; 1KAB; X-ray; 1.80 A; A=88-223.
+DR   PDB; 1KDA; X-ray; 1.90 A; A=83-231.
+DR   PDB; 1KDB; X-ray; 1.90 A; A=83-231.
+DR   PDB; 1KDC; X-ray; 2.00 A; A=83-231.
+DR   PDB; 1NSN; X-ray; 2.80 A; S=83-231.
+DR   PDB; 1NUC; X-ray; 1.90 A; A=83-231.
+DR   PDB; 1RKN; NMR; -; A=83-192.
+DR   PDB; 1SNC; X-ray; 1.65 A; A=83-231.
+DR   PDB; 1SND; X-ray; 1.84 A; A/B=83-231.
+DR   PDB; 1SNM; X-ray; 1.74 A; A=83-231.
+DR   PDB; 1SNO; X-ray; 1.70 A; A=83-231.
+DR   PDB; 1SNP; X-ray; 1.95 A; A=83-231.
+DR   PDB; 1SNQ; X-ray; 1.70 A; A=83-231.
+DR   PDB; 1STA; X-ray; 1.70 A; A=83-229.
+DR   PDB; 1STB; X-ray; 2.00 A; A=83-230.
+DR   PDB; 1STG; X-ray; 1.70 A; A=83-231.
+DR   PDB; 1STH; X-ray; 1.85 A; A=83-231.
+DR   PDB; 1STN; X-ray; 1.70 A; A=83-231.
+DR   PDB; 1STY; X-ray; 1.67 A; A=83-230.
+DR   PDB; 1SYB; X-ray; 1.80 A; A=83-231.
+DR   PDB; 1SYC; X-ray; 1.80 A; A=83-231.
+DR   PDB; 1SYD; X-ray; 1.70 A; A=83-231.
+DR   PDB; 1SYE; X-ray; 1.80 A; A=83-231.
+DR   PDB; 1SYF; X-ray; 1.80 A; A=83-231.
+DR   PDB; 1SYG; X-ray; 1.90 A; A=83-231.
+DR   PDB; 1TQO; X-ray; 2.00 A; A=83-226.
+DR   PDB; 1TR5; X-ray; 2.10 A; A=83-226.
+DR   PDB; 1TT2; X-ray; 1.85 A; A=83-226.
+DR   PDB; 1U9R; X-ray; 2.10 A; A=83-231.
+DR   PDB; 2ENB; X-ray; 2.05 A; A=89-223.
+DR   PDB; 2EXZ; X-ray; 1.90 A; A=83-231.
+DR   PDB; 2EY1; X-ray; 1.85 A; A=83-231.
+DR   PDB; 2EY2; X-ray; 1.70 A; A=83-231.
+DR   PDB; 2EY5; X-ray; 2.00 A; A=83-231.
+DR   PDB; 2EY6; X-ray; 1.65 A; A=83-231.
+DR   PDB; 2EYF; X-ray; 1.80 A; A=83-231.
+DR   PDB; 2EYH; X-ray; 1.90 A; A=83-231.
+DR   PDB; 2EYJ; X-ray; 1.85 A; A=83-231.
+DR   PDB; 2EYL; X-ray; 1.70 A; A=83-231.
+DR   PDB; 2EYM; X-ray; 1.80 A; A=83-231.
+DR   PDB; 2EYO; X-ray; 1.70 A; A=83-231.
+DR   PDB; 2EYP; X-ray; 1.80 A; A=83-231.
+DR   PDB; 2F0D; X-ray; 2.50 A; A=83-231.
+DR   PDB; 2F0E; X-ray; 1.95 A; A=83-231.
+DR   PDB; 2F0F; X-ray; 2.15 A; A=83-231.
+DR   PDB; 2F0G; X-ray; 1.90 A; A=83-231.
+DR   PDB; 2F0H; X-ray; 2.15 A; A=83-231.
+DR   PDB; 2F0I; X-ray; 1.80 A; A=83-231.
+DR   PDB; 2F0J; X-ray; 1.80 A; A=83-231.
+DR   PDB; 2F0K; X-ray; 1.90 A; A=83-231.
+DR   PDB; 2F0L; X-ray; 1.90 A; A=83-231.
+DR   PDB; 2F0M; X-ray; 2.00 A; A=83-231.
+DR   PDB; 2F0N; X-ray; 1.70 A; A=83-231.
+DR   PDB; 2F0O; X-ray; 1.90 A; A=83-231.
+DR   PDB; 2F0P; X-ray; 2.05 A; A=83-231.
+DR   PDB; 2F0Q; X-ray; 1.95 A; A=83-231.
+DR   PDB; 2F0S; X-ray; 1.75 A; A=83-231.
+DR   PDB; 2F0T; X-ray; 1.70 A; A=83-231.
+DR   PDB; 2F0U; X-ray; 1.83 A; A=83-231.
+DR   PDB; 2F0V; X-ray; 2.00 A; A=83-231.
+DR   PDB; 2F0W; X-ray; 2.10 A; A=83-231.
+DR   PDB; 2F3V; NMR; -; A=83-192.
+DR   PDB; 2F3W; NMR; -; A=83-192.
+DR   PDB; 2FXY; NMR; -; A=137-154.
+DR   PDB; 2FXZ; NMR; -; A=179-191.
+DR   PDB; 2GSI; X-ray; 2.81 A; W/X/Y/Z=126-136.
+DR   PDB; 2KHS; NMR; -; A=83-203.
+DR   PDB; 2NUC; X-ray; 2.00 A; A=83-231.
+DR   PDB; 2OEO; X-ray; 2.00 A; A=83-226.
+DR   PDB; 2OF1; X-ray; 1.92 A; A=83-226.
+DR   PDB; 2PQE; NMR; -; A=83-231.
+DR   PDB; 2QDB; X-ray; 2.20 A; A=83-231.
+DR   PDB; 2RBM; X-ray; 1.90 A; A=83-231.
+DR   PDB; 2RDF; X-ray; 2.01 A; A=83-231.
+DR   PDB; 2RKS; X-ray; 2.01 A; A=83-231.
+DR   PDB; 2SNM; X-ray; 1.97 A; A=83-231.
+DR   PDB; 2SNS; X-ray; 1.50 A; A=83-231.
+DR   PDB; 2SOB; NMR; -; A=83-185.
+DR   PDB; 3BDC; X-ray; 1.80 A; A=83-231.
+DR   PDB; 3C1E; X-ray; 1.90 A; A=83-231.
+DR   PDB; 3C1F; X-ray; 2.00 A; A=83-231.
+DR   PDB; 3D4D; X-ray; 2.10 A; A/B=83-231.
+DR   PDB; 3D6C; X-ray; 2.00 A; A=83-231.
+DR   PDB; 3DHQ; X-ray; 2.15 A; A=83-231.
+DR   PDB; 3DMU; X-ray; 1.80 A; A=83-231.
+DR   PDB; 3E5S; X-ray; 2.00 A; A/B=83-231.
+DR   PDB; 3EJI; X-ray; 1.90 A; A=83-231.
+DR   PDB; 3ERO; X-ray; 1.85 A; A=83-231.
+DR   PDB; 3ERQ; X-ray; 2.10 A; A=83-231.
+DR   PDB; 3EVQ; X-ray; 2.00 A; A=83-231.
+DR   PDB; 3H6M; X-ray; 1.70 A; A=83-231.
+DR   PDB; 3HEJ; X-ray; 1.80 A; A/B/C/D=83-231.
+DR   PDB; 3HZX; X-ray; 2.00 A; A=83-231.
+DR   PDB; 3ITP; X-ray; 1.75 A; A=83-231.
+DR   PDB; 3LX0; X-ray; 1.50 A; A=83-231.
+DR   PDB; 3MEH; X-ray; 1.50 A; A=83-231.
+DR   PDB; 3MHB; X-ray; 1.55 A; A=83-231.
+DR   PDB; 3MXP; X-ray; 1.61 A; A=83-231.
+DR   PDB; 3MZ5; X-ray; 1.58 A; A=83-231.
+DR   PDB; 3NHH; X-ray; 2.00 A; A=83-231.
+DR   PDB; 3NK9; X-ray; 1.65 A; A=83-231.
+DR   PDB; 3NP8; X-ray; 1.70 A; A=83-231.
+DR   PDB; 3NQT; X-ray; 1.90 A; A=83-231.
+DR   PDB; 3NUC; X-ray; 1.90 A; A=83-231.
+DR   PDB; 3NXW; X-ray; 1.65 A; A=83-231.
+DR   PDB; 3OSO; X-ray; 1.60 A; A=83-231.
+DR   PDB; 3OWF; X-ray; 1.85 A; A=83-231.
+DR   PDB; 3P1H; X-ray; 1.79 A; A=83-231.
+DR   PDB; 3P75; X-ray; 1.90 A; A=89-223.
+DR   PDB; 3PMF; X-ray; 1.60 A; A=83-231.
+DR   PDB; 3QB3; X-ray; 1.63 A; A=83-231.
+DR   PDB; 3RUZ; X-ray; 1.58 A; A=83-231.
+DR   PDB; 3S9W; X-ray; 1.90 A; A=83-231.
+DR   PDB; 3SHL; X-ray; 1.48 A; A=83-231.
+DR   PDB; 3SK4; X-ray; 1.85 A; A=83-231.
+DR   PDB; 3SK5; X-ray; 1.70 A; A=83-231.
+DR   PDB; 3SK6; X-ray; 1.80 A; A=83-231.
+DR   PDB; 3SK8; X-ray; 1.90 A; A=83-231.
+DR   PDB; 3SR1; X-ray; 1.45 A; A=83-231.
+DR   PDB; 3SXH; X-ray; 1.40 A; A=83-231.
+DR   PDB; 3T13; X-ray; 1.80 A; A/B=83-231.
+DR   PDB; 3T16; X-ray; 1.80 A; A=83-231.
+DR   PDB; 3TME; X-ray; 1.40 A; A=83-231.
+DR   PDB; 3TP5; X-ray; 1.80 A; A=83-231.
+DR   PDB; 3TP6; X-ray; 1.80 A; A=83-231.
+DR   PDB; 3TP7; X-ray; 1.90 A; A=83-231.
+DR   PDB; 3TP8; X-ray; 1.60 A; A=83-231.
+DR   PDB; 3U9O; X-ray; 1.95 A; A=83-231.
+DR   PDB; 3V2T; X-ray; 1.80 A; A=83-231.
+DR   PDB; 3VA5; X-ray; 1.55 A; A=83-231.
+DR   PDB; 4DF7; X-ray; 1.50 A; A=83-231.
+DR   PDB; 4DFA; X-ray; 1.40 A; A=83-231.
+DR   PDB; 4DGZ; X-ray; 1.47 A; A=83-231.
+DR   PDB; 4DU9; X-ray; 1.63 A; A=83-231.
+DR   PDB; 4E6I; X-ray; 2.00 A; A/B=83-231.
+DR   PDB; 4EQN; X-ray; 1.80 A; A=83-231.
+DR   PDB; 4EQO; X-ray; 1.70 A; A=83-231.
+DR   PDB; 4EQP; X-ray; 1.35 A; A=83-231.
+DR   PDB; 4EVO; X-ray; 1.95 A; A=83-231.
+DR   PDB; 4F7X; X-ray; 1.70 A; A=83-231.
+DR   PDB; 4F8M; X-ray; 1.60 A; A=83-231.
+DR   PDB; 4G57; X-ray; 1.81 A; A=89-223.
+DR   PDB; 4H7B; X-ray; 1.60 A; A=83-231.
+DR   PDB; 4HMI; X-ray; 1.75 A; A=83-231.
+DR   PDB; 4HMJ; X-ray; 1.35 A; A=83-231.
+DR   PDB; 4HTH; X-ray; 1.75 A; A=83-231.
+DR   PDB; 4I65; X-ray; 1.61 A; A=88-223.
+DR   PDB; 4IAL; X-ray; 1.60 A; A=83-231.
+DR   PDB; 4ID6; X-ray; 1.90 A; A=83-231.
+DR   PDB; 4IUN; X-ray; 1.60 A; A=83-231.
+DR   PDB; 4IZ8; X-ray; 1.70 A; A=83-231.
+DR   PDB; 4J1M; X-ray; 1.65 A; A=83-231.
+DR   PDB; 4J6H; X-ray; 1.60 A; A=83-231.
+DR   PDB; 4K14; X-ray; 1.60 A; A=88-223.
+DR   PDB; 4K2K; X-ray; 1.65 A; A=83-231.
+DR   PDB; 4K2L; X-ray; 1.55 A; A=83-231.
+DR   PDB; 4K5V; X-ray; 1.75 A; A=83-231.
+DR   PDB; 4K5W; X-ray; 1.65 A; A=83-231.
+DR   PDB; 4K5X; X-ray; 1.65 A; A=83-231.
+DR   PDB; 4K6D; X-ray; 1.65 A; A=83-231.
+DR   PDB; 4K8I; X-ray; 2.10 A; A=89-223.
+DR   PDB; 4K8J; X-ray; 2.00 A; A=89-223.
+DR   PDB; 4KD3; X-ray; 1.75 A; A=83-231.
+DR   PDB; 4KD4; X-ray; 1.55 A; A=83-231.
+DR   PDB; 4KHV; X-ray; 1.60 A; A=83-231.
+DR   PDB; 4KJN; X-ray; 1.55 A; A=83-231.
+DR   PDB; 4KJO; X-ray; 1.90 A; A=83-231.
+DR   PDB; 4KTA; X-ray; 1.95 A; A=83-231.
+DR   PDB; 4KV6; X-ray; 1.55 A; A=83-231.
+DR   PDB; 4KY5; X-ray; 1.40 A; A=83-231.
+DR   PDB; 4KY6; X-ray; 1.70 A; A=83-231.
+DR   PDB; 4KY7; X-ray; 1.55 A; A=83-231.
+DR   PDB; 4LAA; X-ray; 1.58 A; A=83-231.
+DR   PDB; 4ME5; X-ray; 1.80 A; A=83-231.
+DR   PDB; 4MIU; X-ray; 1.67 A; A=83-231.
+DR   PDB; 4N9P; X-ray; 1.40 A; A=83-231.
+DR   PDB; 4N9T; X-ray; 1.60 A; A=83-231.
+DR   PDB; 4NDX; X-ray; 1.50 A; A=83-231.
+DR   PDB; 4NKL; X-ray; 1.60 A; A=83-231.
+DR   PDB; 4NMZ; X-ray; 1.70 A; A=83-231.
+DR   PDB; 4NP5; X-ray; 1.50 A; A=83-231.
+DR   PDB; 4ODG; X-ray; 1.73 A; A=83-231.
+DR   PDB; 4OL7; X-ray; 1.67 A; A/B=83-231.
+DR   PDB; 4PMB; X-ray; 1.80 A; A=83-231.
+DR   PDB; 4PMC; X-ray; 1.65 A; A=83-231.
+DR   PDB; 4PNY; X-ray; 1.68 A; A=83-231.
+DR   PDB; 4QB4; X-ray; 1.60 A; A=88-223.
+DR   PDB; 4QF4; X-ray; 1.80 A; A/B=83-231.
+DR   PDB; 4R8N; X-ray; 1.65 A; A=83-223.
+DR   PDB; 4RKB; X-ray; 1.88 A; A=83-231.
+DR   PDB; 4RKL; X-ray; 1.66 A; A=83-231.
+DR   PDB; 4TRD; X-ray; 1.60 A; A=83-231.
+DR   PDB; 4WOR; X-ray; 1.60 A; A=83-231.
+DR   PDB; 4YIJ; X-ray; 1.64 A; A/B=83-231.
+DR   PDB; 5NUC; X-ray; 2.10 A; A=83-231.
+DR   PDBsum; 1A2T; -.
+DR   PDBsum; 1A2U; -.
+DR   PDBsum; 1A3T; -.
+DR   PDBsum; 1A3U; -.
+DR   PDBsum; 1A3V; -.
+DR   PDBsum; 1AEX; -.
+DR   PDBsum; 1ENA; -.
+DR   PDBsum; 1ENC; -.
+DR   PDBsum; 1EQV; -.
+DR   PDBsum; 1EY0; -.
+DR   PDBsum; 1EY4; -.
+DR   PDBsum; 1EY5; -.
+DR   PDBsum; 1EY6; -.
+DR   PDBsum; 1EY7; -.
+DR   PDBsum; 1EY8; -.
+DR   PDBsum; 1EY9; -.
+DR   PDBsum; 1EYA; -.
+DR   PDBsum; 1EYC; -.
+DR   PDBsum; 1EYD; -.
+DR   PDBsum; 1EZ6; -.
+DR   PDBsum; 1EZ8; -.
+DR   PDBsum; 1F2M; -.
+DR   PDBsum; 1F2Y; -.
+DR   PDBsum; 1F2Z; -.
+DR   PDBsum; 1IHZ; -.
+DR   PDBsum; 1II3; -.
+DR   PDBsum; 1JOK; -.
+DR   PDBsum; 1JOO; -.
+DR   PDBsum; 1JOQ; -.
+DR   PDBsum; 1JOR; -.
+DR   PDBsum; 1KAA; -.
+DR   PDBsum; 1KAB; -.
+DR   PDBsum; 1KDA; -.
+DR   PDBsum; 1KDB; -.
+DR   PDBsum; 1KDC; -.
+DR   PDBsum; 1NSN; -.
+DR   PDBsum; 1NUC; -.
+DR   PDBsum; 1RKN; -.
+DR   PDBsum; 1SNC; -.
+DR   PDBsum; 1SND; -.
+DR   PDBsum; 1SNM; -.
+DR   PDBsum; 1SNO; -.
+DR   PDBsum; 1SNP; -.
+DR   PDBsum; 1SNQ; -.
+DR   PDBsum; 1STA; -.
+DR   PDBsum; 1STB; -.
+DR   PDBsum; 1STG; -.
+DR   PDBsum; 1STH; -.
+DR   PDBsum; 1STN; -.
+DR   PDBsum; 1STY; -.
+DR   PDBsum; 1SYB; -.
+DR   PDBsum; 1SYC; -.
+DR   PDBsum; 1SYD; -.
+DR   PDBsum; 1SYE; -.
+DR   PDBsum; 1SYF; -.
+DR   PDBsum; 1SYG; -.
+DR   PDBsum; 1TQO; -.
+DR   PDBsum; 1TR5; -.
+DR   PDBsum; 1TT2; -.
+DR   PDBsum; 1U9R; -.
+DR   PDBsum; 2ENB; -.
+DR   PDBsum; 2EXZ; -.
+DR   PDBsum; 2EY1; -.
+DR   PDBsum; 2EY2; -.
+DR   PDBsum; 2EY5; -.
+DR   PDBsum; 2EY6; -.
+DR   PDBsum; 2EYF; -.
+DR   PDBsum; 2EYH; -.
+DR   PDBsum; 2EYJ; -.
+DR   PDBsum; 2EYL; -.
+DR   PDBsum; 2EYM; -.
+DR   PDBsum; 2EYO; -.
+DR   PDBsum; 2EYP; -.
+DR   PDBsum; 2F0D; -.
+DR   PDBsum; 2F0E; -.
+DR   PDBsum; 2F0F; -.
+DR   PDBsum; 2F0G; -.
+DR   PDBsum; 2F0H; -.
+DR   PDBsum; 2F0I; -.
+DR   PDBsum; 2F0J; -.
+DR   PDBsum; 2F0K; -.
+DR   PDBsum; 2F0L; -.
+DR   PDBsum; 2F0M; -.
+DR   PDBsum; 2F0N; -.
+DR   PDBsum; 2F0O; -.
+DR   PDBsum; 2F0P; -.
+DR   PDBsum; 2F0Q; -.
+DR   PDBsum; 2F0S; -.
+DR   PDBsum; 2F0T; -.
+DR   PDBsum; 2F0U; -.
+DR   PDBsum; 2F0V; -.
+DR   PDBsum; 2F0W; -.
+DR   PDBsum; 2F3V; -.
+DR   PDBsum; 2F3W; -.
+DR   PDBsum; 2FXY; -.
+DR   PDBsum; 2FXZ; -.
+DR   PDBsum; 2GSI; -.
+DR   PDBsum; 2KHS; -.
+DR   PDBsum; 2NUC; -.
+DR   PDBsum; 2OEO; -.
+DR   PDBsum; 2OF1; -.
+DR   PDBsum; 2PQE; -.
+DR   PDBsum; 2QDB; -.
+DR   PDBsum; 2RBM; -.
+DR   PDBsum; 2RDF; -.
+DR   PDBsum; 2RKS; -.
+DR   PDBsum; 2SNM; -.
+DR   PDBsum; 2SNS; -.
+DR   PDBsum; 2SOB; -.
+DR   PDBsum; 3BDC; -.
+DR   PDBsum; 3C1E; -.
+DR   PDBsum; 3C1F; -.
+DR   PDBsum; 3D4D; -.
+DR   PDBsum; 3D6C; -.
+DR   PDBsum; 3DHQ; -.
+DR   PDBsum; 3DMU; -.
+DR   PDBsum; 3E5S; -.
+DR   PDBsum; 3EJI; -.
+DR   PDBsum; 3ERO; -.
+DR   PDBsum; 3ERQ; -.
+DR   PDBsum; 3EVQ; -.
+DR   PDBsum; 3H6M; -.
+DR   PDBsum; 3HEJ; -.
+DR   PDBsum; 3HZX; -.
+DR   PDBsum; 3ITP; -.
+DR   PDBsum; 3LX0; -.
+DR   PDBsum; 3MEH; -.
+DR   PDBsum; 3MHB; -.
+DR   PDBsum; 3MXP; -.
+DR   PDBsum; 3MZ5; -.
+DR   PDBsum; 3NHH; -.
+DR   PDBsum; 3NK9; -.
+DR   PDBsum; 3NP8; -.
+DR   PDBsum; 3NQT; -.
+DR   PDBsum; 3NUC; -.
+DR   PDBsum; 3NXW; -.
+DR   PDBsum; 3OSO; -.
+DR   PDBsum; 3OWF; -.
+DR   PDBsum; 3P1H; -.
+DR   PDBsum; 3P75; -.
+DR   PDBsum; 3PMF; -.
+DR   PDBsum; 3QB3; -.
+DR   PDBsum; 3RUZ; -.
+DR   PDBsum; 3S9W; -.
+DR   PDBsum; 3SHL; -.
+DR   PDBsum; 3SK4; -.
+DR   PDBsum; 3SK5; -.
+DR   PDBsum; 3SK6; -.
+DR   PDBsum; 3SK8; -.
+DR   PDBsum; 3SR1; -.
+DR   PDBsum; 3SXH; -.
+DR   PDBsum; 3T13; -.
+DR   PDBsum; 3T16; -.
+DR   PDBsum; 3TME; -.
+DR   PDBsum; 3TP5; -.
+DR   PDBsum; 3TP6; -.
+DR   PDBsum; 3TP7; -.
+DR   PDBsum; 3TP8; -.
+DR   PDBsum; 3U9O; -.
+DR   PDBsum; 3V2T; -.
+DR   PDBsum; 3VA5; -.
+DR   PDBsum; 4DF7; -.
+DR   PDBsum; 4DFA; -.
+DR   PDBsum; 4DGZ; -.
+DR   PDBsum; 4DU9; -.
+DR   PDBsum; 4E6I; -.
+DR   PDBsum; 4EQN; -.
+DR   PDBsum; 4EQO; -.
+DR   PDBsum; 4EQP; -.
+DR   PDBsum; 4EVO; -.
+DR   PDBsum; 4F7X; -.
+DR   PDBsum; 4F8M; -.
+DR   PDBsum; 4G57; -.
+DR   PDBsum; 4H7B; -.
+DR   PDBsum; 4HMI; -.
+DR   PDBsum; 4HMJ; -.
+DR   PDBsum; 4HTH; -.
+DR   PDBsum; 4I65; -.
+DR   PDBsum; 4IAL; -.
+DR   PDBsum; 4ID6; -.
+DR   PDBsum; 4IUN; -.
+DR   PDBsum; 4IZ8; -.
+DR   PDBsum; 4J1M; -.
+DR   PDBsum; 4J6H; -.
+DR   PDBsum; 4K14; -.
+DR   PDBsum; 4K2K; -.
+DR   PDBsum; 4K2L; -.
+DR   PDBsum; 4K5V; -.
+DR   PDBsum; 4K5W; -.
+DR   PDBsum; 4K5X; -.
+DR   PDBsum; 4K6D; -.
+DR   PDBsum; 4K8I; -.
+DR   PDBsum; 4K8J; -.
+DR   PDBsum; 4KD3; -.
+DR   PDBsum; 4KD4; -.
+DR   PDBsum; 4KHV; -.
+DR   PDBsum; 4KJN; -.
+DR   PDBsum; 4KJO; -.
+DR   PDBsum; 4KTA; -.
+DR   PDBsum; 4KV6; -.
+DR   PDBsum; 4KY5; -.
+DR   PDBsum; 4KY6; -.
+DR   PDBsum; 4KY7; -.
+DR   PDBsum; 4LAA; -.
+DR   PDBsum; 4ME5; -.
+DR   PDBsum; 4MIU; -.
+DR   PDBsum; 4N9P; -.
+DR   PDBsum; 4N9T; -.
+DR   PDBsum; 4NDX; -.
+DR   PDBsum; 4NKL; -.
+DR   PDBsum; 4NMZ; -.
+DR   PDBsum; 4NP5; -.
+DR   PDBsum; 4ODG; -.
+DR   PDBsum; 4OL7; -.
+DR   PDBsum; 4PMB; -.
+DR   PDBsum; 4PMC; -.
+DR   PDBsum; 4PNY; -.
+DR   PDBsum; 4QB4; -.
+DR   PDBsum; 4QF4; -.
+DR   PDBsum; 4R8N; -.
+DR   PDBsum; 4RKB; -.
+DR   PDBsum; 4RKL; -.
+DR   PDBsum; 4TRD; -.
+DR   PDBsum; 4WOR; -.
+DR   PDBsum; 4YIJ; -.
+DR   PDBsum; 5NUC; -.
+DR   ProteinModelPortal; P00644; -.
+DR   SMR; P00644; 86-223.
+DR   STRING; 93062.SACOL0860; -.
+DR   eggNOG; COG1525; -.
+DR   BRENDA; 3.1.31.1; 3352.
+DR   EvolutionaryTrace; P00644; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0016020; C:membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0004519; F:endonuclease activity; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003676; F:nucleic acid binding; IEA:InterPro.
+DR   Gene3D; 2.40.50.90; -; 1.
+DR   InterPro; IPR016071; Staphylococal_nuclease_OB-fold.
+DR   InterPro; IPR002071; Thermonucl_AS.
+DR   Pfam; PF00565; SNase; 1.
+DR   SMART; SM00318; SNc; 1.
+DR   SUPFAM; SSF50199; SSF50199; 1.
+DR   PROSITE; PS01123; TNASE_1; 1.
+DR   PROSITE; PS01284; TNASE_2; 1.
+DR   PROSITE; PS50830; TNASE_3; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Calcium; Direct protein sequencing; Endonuclease;
+KW   Hydrolase; Membrane; Metal-binding; Nuclease; Secreted; Signal;
+KW   Zymogen.
+FT   SIGNAL        1     26       {ECO:0000255}.
+FT   PROPEP       27     63       {ECO:0000269|PubMed:893427}.
+FT                                /FTId=PRO_0000045226.
+FT   CHAIN        64    231       Nuclease B.
+FT                                /FTId=PRO_0000034389.
+FT   PROPEP       64     82       {ECO:0000269|PubMed:4324890}.
+FT                                /FTId=PRO_0000034390.
+FT   CHAIN        83    231       Nuclease A.
+FT                                /FTId=PRO_0000034391.
+FT   ACT_SITE    117    117       {ECO:0000269|PubMed:288045}.
+FT   ACT_SITE    125    125       {ECO:0000269|PubMed:288045}.
+FT   ACT_SITE    169    169       {ECO:0000269|PubMed:288045}.
+FT   METAL       103    103       Calcium.
+FT   METAL       122    122       Calcium.
+FT   METAL       123    123       Calcium; via carbonyl oxygen.
+FT   TURN         84     86       {ECO:0000244|PDB:2SNS}.
+FT   STRAND       91     99       {ECO:0000244|PDB:4EQP}.
+FT   STRAND      101    109       {ECO:0000244|PDB:4EQP}.
+FT   STRAND      112    118       {ECO:0000244|PDB:4EQP}.
+FT   STRAND      120    122       {ECO:0000244|PDB:1STB}.
+FT   STRAND      126    128       {ECO:0000244|PDB:4H7B}.
+FT   STRAND      129    131       {ECO:0000244|PDB:2SNS}.
+FT   STRAND      134    136       {ECO:0000244|PDB:1JOK}.
+FT   HELIX       137    150       {ECO:0000244|PDB:4EQP}.
+FT   STRAND      154    157       {ECO:0000244|PDB:4EQP}.
+FT   STRAND      166    168       {ECO:0000244|PDB:1NSN}.
+FT   STRAND      170    176       {ECO:0000244|PDB:4EQP}.
+FT   STRAND      177    179       {ECO:0000244|PDB:2SOB}.
+FT   HELIX       181    187       {ECO:0000244|PDB:4EQP}.
+FT   STRAND      190    193       {ECO:0000244|PDB:4EQP}.
+FT   STRAND      198    200       {ECO:0000244|PDB:2SNS}.
+FT   TURN        201    203       {ECO:0000244|PDB:1ENA}.
+FT   HELIX       204    216       {ECO:0000244|PDB:4EQP}.
+FT   HELIX       220    222       {ECO:0000244|PDB:4EQP}.
+FT   STRAND      227    229       {ECO:0000244|PDB:1JOK}.
+SQ   SEQUENCE   231 AA;  25471 MW;  AD5558AA28E855D7 CRC64;
+     MLVMTEYLLS AGICMAIVSI LLIGMAISNV SKGQYAKRFF FFATSCLVLT LVVVSSLSSS
+     ANASQTDNGV NRSGSEDPTV YSATSTKKLH KEPATLIKAI DGDTVKLMYK GQPMTFRLLL
+     VDTPETKHPK KGVEKYGPEA SAFTKKMVEN AKKIEVEFDK GQRTDKYGRG LAYIYADGKM
+     VNEALVRQGL AKVAYVYKPN NTHEQHLRKS EAQAKKEKLN IWSEDNADSG Q
+//

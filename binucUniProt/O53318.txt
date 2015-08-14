@@ -1,0 +1,224 @@
+ID   Y3168_MYCTO             Reviewed;         378 AA.
+AC   P9WI98; F2GJM6; L0TES4; O53318; Q7D606;
+DT   16-APR-2014, integrated into UniProtKB/Swiss-Prot.
+DT   16-APR-2014, sequence version 1.
+DT   22-JUL-2015, entry version 13.
+DE   RecName: Full=Putative aminoglycoside phosphotransferase;
+DE            EC=2.7.1.-;
+DE   AltName: Full=Putative aminoglycoside antibiotics resistance enzyme;
+GN   OrderedLocusNames=MT3257;
+OS   Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh).
+OC   Bacteria; Actinobacteria; Corynebacteriales; Mycobacteriaceae;
+OC   Mycobacterium; Mycobacterium tuberculosis complex.
+OX   NCBI_TaxID=83331;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=CDC 1551 / Oshkosh;
+RX   PubMed=12218036; DOI=10.1128/JB.184.19.5479-5490.2002;
+RA   Fleischmann R.D., Alland D., Eisen J.A., Carpenter L., White O.,
+RA   Peterson J.D., DeBoy R.T., Dodson R.J., Gwinn M.L., Haft D.H.,
+RA   Hickey E.K., Kolonay J.F., Nelson W.C., Umayam L.A., Ermolaeva M.D.,
+RA   Salzberg S.L., Delcher A., Utterback T.R., Weidman J.F., Khouri H.M.,
+RA   Gill J., Mikula A., Bishai W., Jacobs W.R. Jr., Venter J.C.,
+RA   Fraser C.M.;
+RT   "Whole-genome comparison of Mycobacterium tuberculosis clinical and
+RT   laboratory strains.";
+RL   J. Bacteriol. 184:5479-5490(2002).
+CC   -!- FUNCTION: Might catalyze the phosphorylation of aminoglycosides
+CC       and confer aminoglycoside antibiotics resistance. {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the aminoglycoside phosphotransferase
+CC       family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE000516; AAK47596.1; -; Genomic_DNA.
+DR   PIR; F70947; F70947.
+DR   RefSeq; WP_003900650.1; NZ_KK341227.1.
+DR   ProteinModelPortal; P9WI98; -.
+DR   SMR; P9WI98; 22-378.
+DR   EnsemblBacteria; AAK47596; AAK47596; MT3257.
+DR   KEGG; mtc:MT3257; -.
+DR   Proteomes; UP000001020; Chromosome.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016301; F:kinase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0046677; P:response to antibiotic; IEA:UniProtKB-KW.
+DR   InterPro; IPR002575; Aminoglycoside_PTrfase.
+DR   InterPro; IPR011009; Kinase-like_dom.
+DR   Pfam; PF01636; APH; 1.
+DR   SUPFAM; SSF56112; SSF56112; 1.
+PE   3: Inferred from homology;
+KW   Antibiotic resistance; ATP-binding; Complete proteome; Kinase;
+KW   Magnesium; Metal-binding; Nucleotide-binding; Transferase.
+FT   CHAIN         1    378       Putative aminoglycoside
+FT                                phosphotransferase.
+FT                                /FTId=PRO_0000428044.
+FT   NP_BIND     134    136       ATP.
+FT   ACT_SITE    249    249       Proton acceptor. {ECO:0000305}.
+FT   METAL       254    254       Magnesium 1.
+FT   METAL       267    267       Magnesium 1.
+FT   METAL       267    267       Magnesium 2.
+FT   METAL       269    269       Magnesium 2.
+FT   BINDING      79     79       ATP.
+SQ   SEQUENCE   378 AA;  42561 MW;  D1606BF6514E179A CRC64;
+     MANEPAIGAI DRLQRSSRDV TTLPAVISRW LSSVLPGGAA PEVTVESGVD STGMSSETII
+     LTARWQQDGR SIQQKLVARV APAAEDVPVF PTYRLDHQFE VIRLVGELTD VPVPRVRWIE
+     TTGDVLGTPF FLMDYVEGVV PPDVMPYTFG DNWFADAPAE RQRQLQDATV AALATLHSIP
+     NAQNTFSFLT QGRTSDTTLH RHFNWVRSWY DFAVEGIGRS PLLERTFEWL QSHWPDDAAA
+     REPVLLWGDA RVGNVLYRDF QPVAVLDWEM VALGPRELDV AWMIFAHRVF QELAGLATLP
+     GLPEVMREDD VRATYQALTG VELGDLHWFY VYSGVMWACV FMRTGARRVH FGEIEKPDDV
+     ESLFYHAGLM KHLLGEEH
+//
+ID   Y3168_MYCTU             Reviewed;         378 AA.
+AC   P9WI99; F2GJM6; L0TES4; O53318; Q7D606;
+DT   16-APR-2014, integrated into UniProtKB/Swiss-Prot.
+DT   16-APR-2014, sequence version 1.
+DT   22-JUL-2015, entry version 15.
+DE   RecName: Full=Putative aminoglycoside phosphotransferase;
+DE            EC=2.7.1.-;
+DE   AltName: Full=Putative aminoglycoside antibiotics resistance enzyme;
+GN   OrderedLocusNames=Rv3168;
+OS   Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv).
+OC   Bacteria; Actinobacteria; Corynebacteriales; Mycobacteriaceae;
+OC   Mycobacterium; Mycobacterium tuberculosis complex.
+OX   NCBI_TaxID=83332;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 25618 / H37Rv;
+RX   PubMed=9634230; DOI=10.1038/31159;
+RA   Cole S.T., Brosch R., Parkhill J., Garnier T., Churcher C.M.,
+RA   Harris D.E., Gordon S.V., Eiglmeier K., Gas S., Barry C.E. III,
+RA   Tekaia F., Badcock K., Basham D., Brown D., Chillingworth T.,
+RA   Connor R., Davies R.M., Devlin K., Feltwell T., Gentles S., Hamlin N.,
+RA   Holroyd S., Hornsby T., Jagels K., Krogh A., McLean J., Moule S.,
+RA   Murphy L.D., Oliver S., Osborne J., Quail M.A., Rajandream M.A.,
+RA   Rogers J., Rutter S., Seeger K., Skelton S., Squares S., Squares R.,
+RA   Sulston J.E., Taylor K., Whitehead S., Barrell B.G.;
+RT   "Deciphering the biology of Mycobacterium tuberculosis from the
+RT   complete genome sequence.";
+RL   Nature 393:537-544(1998).
+RN   [2]
+RP   CRYSTALLIZATION.
+RC   STRAIN=ATCC 25618 / H37Rv;
+RX   PubMed=21543877; DOI=10.1107/S1744309111010487;
+RA   Kim S., Nguyen C.M., Yeo S.J., Ahn J.W., Kim E.J., Kim K.J.;
+RT   "Cloning, expression, purification, crystallization and X-ray
+RT   crystallographic analysis of Rv3168 from Mycobacterium tuberculosis
+RT   H37Rv.";
+RL   Acta Crystallogr. F 67:627-629(2011).
+RN   [3]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   STRAIN=ATCC 25618 / H37Rv;
+RX   PubMed=21969609; DOI=10.1074/mcp.M111.011627;
+RA   Kelkar D.S., Kumar D., Kumar P., Balakrishnan L., Muthusamy B.,
+RA   Yadav A.K., Shrivastava P., Marimuthu A., Anand S., Sundaram H.,
+RA   Kingsbury R., Harsha H.C., Nair B., Prasad T.S., Chauhan D.S.,
+RA   Katoch K., Katoch V.M., Kumar P., Chaerkady R., Ramachandran S.,
+RA   Dash D., Pandey A.;
+RT   "Proteogenomic analysis of Mycobacterium tuberculosis by high
+RT   resolution mass spectrometry.";
+RL   Mol. Cell. Proteomics 10:M111.011627-M111.011627(2011).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (1.67 ANGSTROMS) OF APOENZYME AND IN COMPLEX
+RP   WITH ATP AND MAGNESIUM, PUTATIVE FUNCTION, AND ACTIVE SITE.
+RC   STRAIN=ATCC 25618 / H37Rv;
+RX   PubMed=21905120; DOI=10.1002/prot.23119;
+RA   Kim S., Nguyen C.M., Kim E.J., Kim K.J.;
+RT   "Crystal structure of Mycobacterium tuberculosis Rv3168: a putative
+RT   aminoglycoside antibiotics resistance enzyme.";
+RL   Proteins 79:2983-2987(2011).
+CC   -!- FUNCTION: Might catalyze the phosphorylation of aminoglycosides
+CC       and confer aminoglycoside antibiotics resistance.
+CC   -!- SIMILARITY: Belongs to the aminoglycoside phosphotransferase
+CC       family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AL123456; CCP45979.1; -; Genomic_DNA.
+DR   PIR; F70947; F70947.
+DR   RefSeq; NP_217684.1; NC_000962.3.
+DR   RefSeq; WP_003900650.1; NZ_KK339370.1.
+DR   PDB; 3ATS; X-ray; 1.67 A; A=22-378.
+DR   PDB; 3ATT; X-ray; 2.00 A; A=22-378.
+DR   PDBsum; 3ATS; -.
+DR   PDBsum; 3ATT; -.
+DR   ProteinModelPortal; P9WI99; -.
+DR   SMR; P9WI99; 22-378.
+DR   STRING; 83332.Rv3168; -.
+DR   EnsemblBacteria; CCP45979; CCP45979; Rv3168.
+DR   GeneID; 888778; -.
+DR   KEGG; mtu:Rv3168; -.
+DR   KEGG; mtv:RVBD_3168; -.
+DR   TubercuList; Rv3168; -.
+DR   OMA; CCVFMRT; -.
+DR   PhylomeDB; P9WI99; -.
+DR   Proteomes; UP000001584; Chromosome.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016301; F:kinase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0046677; P:response to antibiotic; IEA:UniProtKB-KW.
+DR   InterPro; IPR002575; Aminoglycoside_PTrfase.
+DR   InterPro; IPR011009; Kinase-like_dom.
+DR   Pfam; PF01636; APH; 1.
+DR   SUPFAM; SSF56112; SSF56112; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Antibiotic resistance; ATP-binding; Complete proteome;
+KW   Kinase; Magnesium; Metal-binding; Nucleotide-binding;
+KW   Reference proteome; Transferase.
+FT   CHAIN         1    378       Putative aminoglycoside
+FT                                phosphotransferase.
+FT                                /FTId=PRO_0000420881.
+FT   NP_BIND     134    136       ATP. {ECO:0000269|PubMed:21905120}.
+FT   ACT_SITE    249    249       Proton acceptor.
+FT                                {ECO:0000305|PubMed:21905120}.
+FT   METAL       254    254       Magnesium 1.
+FT                                {ECO:0000269|PubMed:21905120}.
+FT   METAL       267    267       Magnesium 1.
+FT                                {ECO:0000269|PubMed:21905120}.
+FT   METAL       267    267       Magnesium 2.
+FT                                {ECO:0000269|PubMed:21905120}.
+FT   METAL       269    269       Magnesium 2.
+FT                                {ECO:0000269|PubMed:21905120}.
+FT   BINDING      79     79       ATP. {ECO:0000269|PubMed:21905120}.
+FT   HELIX        23     34       {ECO:0000244|PDB:3ATS}.
+FT   STRAND       42     49       {ECO:0000244|PDB:3ATS}.
+FT   STRAND       53     67       {ECO:0000244|PDB:3ATS}.
+FT   STRAND       70     80       {ECO:0000244|PDB:3ATS}.
+FT   HELIX        84     86       {ECO:0000244|PDB:3ATS}.
+FT   STRAND       89     91       {ECO:0000244|PDB:3ATS}.
+FT   HELIX        95    108       {ECO:0000244|PDB:3ATS}.
+FT   STRAND      116    120       {ECO:0000244|PDB:3ATS}.
+FT   TURN        124    126       {ECO:0000244|PDB:3ATS}.
+FT   STRAND      130    134       {ECO:0000244|PDB:3ATS}.
+FT   TURN        143    146       {ECO:0000244|PDB:3ATS}.
+FT   HELIX       147    149       {ECO:0000244|PDB:3ATS}.
+FT   TURN        153    156       {ECO:0000244|PDB:3ATS}.
+FT   HELIX       159    176       {ECO:0000244|PDB:3ATS}.
+FT   HELIX       182    185       {ECO:0000244|PDB:3ATS}.
+FT   HELIX       187    189       {ECO:0000244|PDB:3ATS}.
+FT   HELIX       198    217       {ECO:0000244|PDB:3ATS}.
+FT   HELIX       221    232       {ECO:0000244|PDB:3ATS}.
+FT   HELIX       236    240       {ECO:0000244|PDB:3ATS}.
+FT   STRAND      244    246       {ECO:0000244|PDB:3ATS}.
+FT   HELIX       252    254       {ECO:0000244|PDB:3ATS}.
+FT   STRAND      255    258       {ECO:0000244|PDB:3ATS}.
+FT   STRAND      261    265       {ECO:0000244|PDB:3ATS}.
+FT   HELIX       268    270       {ECO:0000244|PDB:3ATS}.
+FT   STRAND      272    274       {ECO:0000244|PDB:3ATS}.
+FT   HELIX       277    296       {ECO:0000244|PDB:3ATS}.
+FT   TURN        303    306       {ECO:0000244|PDB:3ATT}.
+FT   HELIX       308    319       {ECO:0000244|PDB:3ATS}.
+FT   HELIX       327    350       {ECO:0000244|PDB:3ATS}.
+FT   HELIX       360    363       {ECO:0000244|PDB:3ATS}.
+FT   HELIX       367    374       {ECO:0000244|PDB:3ATS}.
+SQ   SEQUENCE   378 AA;  42561 MW;  D1606BF6514E179A CRC64;
+     MANEPAIGAI DRLQRSSRDV TTLPAVISRW LSSVLPGGAA PEVTVESGVD STGMSSETII
+     LTARWQQDGR SIQQKLVARV APAAEDVPVF PTYRLDHQFE VIRLVGELTD VPVPRVRWIE
+     TTGDVLGTPF FLMDYVEGVV PPDVMPYTFG DNWFADAPAE RQRQLQDATV AALATLHSIP
+     NAQNTFSFLT QGRTSDTTLH RHFNWVRSWY DFAVEGIGRS PLLERTFEWL QSHWPDDAAA
+     REPVLLWGDA RVGNVLYRDF QPVAVLDWEM VALGPRELDV AWMIFAHRVF QELAGLATLP
+     GLPEVMREDD VRATYQALTG VELGDLHWFY VYSGVMWACV FMRTGARRVH FGEIEKPDDV
+     ESLFYHAGLM KHLLGEEH
+//

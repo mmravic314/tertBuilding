@@ -1,0 +1,121 @@
+ID   P74325_SYNY3            Unreviewed;       244 AA.
+AC   P74325;
+DT   01-FEB-1997, integrated into UniProtKB/TrEMBL.
+DT   01-FEB-1997, sequence version 1.
+DT   22-JUL-2015, entry version 111.
+DE   SubName: Full=Slr0953 protein {ECO:0000313|EMBL:BAA18419.1};
+GN   OrderedLocusNames=slr0953 {ECO:0000313|EMBL:BAA18419.1};
+OS   Synechocystis sp. (strain PCC 6803 / Kazusa).
+OC   Bacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales;
+OC   Synechocystis.
+OX   NCBI_TaxID=1111708 {ECO:0000313|Proteomes:UP000001425};
+RN   [1] {ECO:0000313|EMBL:BAA18419.1, ECO:0000313|Proteomes:UP000001425}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=PCC 6803 / Kazusa {ECO:0000313|Proteomes:UP000001425};
+RX   PubMed=8905231; DOI=10.1093/dnares/3.3.109;
+RA   Kaneko T., Sato S., Kotani H., Tanaka A., Asamizu E., Nakamura Y.,
+RA   Miyajima N., Hirosawa M., Sugiura M., Sasamoto S., Kimura T.,
+RA   Hosouchi T., Matsuno A., Muraki A., Nakazaki N., Naruo K., Okumura S.,
+RA   Shimpo S., Takeuchi C., Wada T., Watanabe A., Yamada M., Yasuda M.,
+RA   Tabata S.;
+RT   "Sequence analysis of the genome of the unicellular cyanobacterium
+RT   Synechocystis sp. strain PCC6803. II. Sequence determination of the
+RT   entire genome and assignment of potential protein-coding regions.";
+RL   DNA Res. 3:109-136(1996).
+RN   [2] {ECO:0000213|PDB:1S2O, ECO:0000213|PDB:1TJ3, ECO:0000213|PDB:1TJ4}
+RP   X-RAY CRYSTALLOGRAPHY (1.40 ANGSTROMS) IN COMPLEX WITH GLUCOSE AND
+RP   MAGNESIUM, AND DISULFIDE BONDS.
+RX   PubMed=15937230; DOI=10.1105/tpc.105.031229;
+RA   Fieulaine S., Lunn J.E., Borel F., Ferrer J.L.;
+RT   "The structure of a cyanobacterial sucrose-phosphatase reveals the
+RT   sugar tongs that release free sucrose in the cell.";
+RL   Plant Cell 17:2049-2058(2005).
+RN   [3] {ECO:0000213|PDB:2B1Q, ECO:0000213|PDB:2B1R, ECO:0000213|PDB:2D2V}
+RP   X-RAY CRYSTALLOGRAPHY (2.20 ANGSTROMS) IN COMPLEX WITH MAGNESIUM, AND
+RP   DISULFIDE BONDS.
+RX   PubMed=17510968; DOI=10.1002/prot.21481;
+RA   Fieulaine S., Lunn J.E., Ferrer J.L.;
+RT   "Crystal structure of a cyanobacterial sucrose-phosphatase in complex
+RT   with glucose-containing disaccharides.";
+RL   Proteins 68:796-801(2007).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; BA000022; BAA18419.1; -; Genomic_DNA.
+DR   PIR; S76160; S76160.
+DR   PDB; 1S2O; X-ray; 1.40 A; A=1-244.
+DR   PDB; 1TJ3; X-ray; 2.80 A; A=1-244.
+DR   PDB; 1TJ4; X-ray; 2.70 A; A=1-244.
+DR   PDB; 1TJ5; X-ray; 2.20 A; A=1-244.
+DR   PDB; 1U2S; X-ray; 2.50 A; A=1-244.
+DR   PDB; 1U2T; X-ray; 2.90 A; A=1-244.
+DR   PDB; 2B1Q; X-ray; 2.20 A; A=1-244.
+DR   PDB; 2B1R; X-ray; 2.20 A; A=1-244.
+DR   PDB; 2D2V; X-ray; 2.50 A; A=1-244.
+DR   ProteinModelPortal; P74325; -.
+DR   SMR; P74325; 1-244.
+DR   IntAct; P74325; 1.
+DR   EnsemblBacteria; BAA18419; BAA18419; BAA18419.
+DR   KEGG; syy:SYNGTS_1845; -.
+DR   KEGG; syz:MYO_118620; -.
+DR   PATRIC; 23840960; VBISynSp132158_2034.
+DR   eggNOG; COG0561; -.
+DR   HOGENOM; HOG000272726; -.
+DR   InParanoid; P74325; -.
+DR   KO; K07024; -.
+DR   OMA; SHWRLAY; -.
+DR   PhylomeDB; P74325; -.
+DR   EvolutionaryTrace; P74325; -.
+DR   Proteomes; UP000001425; Chromosome.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:InterPro.
+DR   GO; GO:0050307; F:sucrose-phosphate phosphatase activity; IEA:InterPro.
+DR   GO; GO:0005986; P:sucrose biosynthetic process; IEA:InterPro.
+DR   Gene3D; 3.40.50.1000; -; 2.
+DR   InterPro; IPR023214; HAD-like_dom.
+DR   InterPro; IPR006379; HAD-SF_hydro_IIB.
+DR   InterPro; IPR006378; Suc_phosP.
+DR   InterPro; IPR006380; Sucrose-P_synthase.
+DR   InterPro; IPR012847; Sucrose_phosphatase_pln/cyn.
+DR   Pfam; PF05116; S6PP; 1.
+DR   SUPFAM; SSF56784; SSF56784; 1.
+DR   TIGRFAMs; TIGR01484; HAD-SF-IIB; 1.
+DR   TIGRFAMs; TIGR01482; SPP-subfamily; 1.
+DR   TIGRFAMs; TIGR01485; SPP_plant-cyano; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome {ECO:0000313|Proteomes:UP000001425};
+KW   Magnesium; Metal-binding;
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001425}.
+FT   METAL         9      9       Magnesium 1.
+FT   METAL         9      9       Magnesium 2. {ECO:0000213|PDB:1TJ3,
+FT                                ECO:0000213|PDB:1TJ4,
+FT                                ECO:0000213|PDB:1TJ5}.
+FT   METAL        11     11       Magnesium 1; via carbonyl oxygen.
+FT   METAL       186    186       Magnesium 1.
+FT   METAL       186    186       Magnesium 2. {ECO:0000213|PDB:1TJ3,
+FT                                ECO:0000213|PDB:1TJ4,
+FT                                ECO:0000213|PDB:1TJ5}.
+FT   METAL       187    187       Magnesium 2. {ECO:0000213|PDB:1TJ3,
+FT                                ECO:0000213|PDB:1TJ4,
+FT                                ECO:0000213|PDB:1TJ5}.
+FT   METAL       189    189       Magnesium 2. {ECO:0000213|PDB:1TJ3,
+FT                                ECO:0000213|PDB:1TJ4,
+FT                                ECO:0000213|PDB:1TJ5}.
+FT   METAL       190    190       Magnesium 2. {ECO:0000213|PDB:1TJ3,
+FT                                ECO:0000213|PDB:1TJ4,
+FT                                ECO:0000213|PDB:1TJ5}.
+FT   BINDING     107    107       Glucose. {ECO:0000213|PDB:1U2S}.
+FT   BINDING     111    111       Glucose. {ECO:0000213|PDB:1U2S}.
+FT   BINDING     116    116       Glucose. {ECO:0000213|PDB:1U2S}.
+FT   BINDING     155    155       Glucose. {ECO:0000213|PDB:1U2S}.
+FT   BINDING     189    189       Glucose. {ECO:0000213|PDB:1U2S}.
+FT   DISULFID    126    126       {ECO:0000213|PDB:1TJ4,
+FT                                ECO:0000213|PDB:1TJ5,
+FT                                ECO:0000213|PDB:1U2S}.
+SQ   SEQUENCE   244 AA;  27762 MW;  0D4D7AC50AC4FF71 CRC64;
+     MRQLLLISDL DNTWVGDQQA LEHLQEYLGD RRGNFYLAYA TGRSYHSARE LQKQVGLMEP
+     DYWLTAVGSE IYHPEGLDQH WADYLSEHWQ RDILQAIADG FEALKPQSPL EQNPWKISYH
+     LDPQACPTVI DQLTEMLKET GIPVQVIFSS GKDVDLLPQR SNKGNATQYL QQHLAMEPSQ
+     TLVCGDSGND IGLFETSARG VIVRNAQPEL LHWYDQWGDS RHYRAQSSHA GAILEAIAHF
+     DFLS
+//

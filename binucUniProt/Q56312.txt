@@ -1,0 +1,131 @@
+ID   CHEY_THEMA              Reviewed;         120 AA.
+AC   Q56312;
+DT   15-JUL-1998, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   22-JUL-2015, entry version 118.
+DE   RecName: Full=Chemotaxis protein CheY;
+GN   Name=cheY; OrderedLocusNames=TM_0700;
+OS   Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099).
+OC   Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Thermotoga.
+OX   NCBI_TaxID=243274;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND CHARACTERIZATION.
+RX   PubMed=8550470;
+RA   Swanson R.V., Sanna M.G., Simon M.I.;
+RT   "Thermostable chemotaxis proteins from the hyperthermophilic bacterium
+RT   Thermotoga maritima.";
+RL   J. Bacteriol. 178:484-489(1996).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 43589 / MSB8 / DSM 3109 / JCM 10099;
+RX   PubMed=10360571; DOI=10.1038/20601;
+RA   Nelson K.E., Clayton R.A., Gill S.R., Gwinn M.L., Dodson R.J.,
+RA   Haft D.H., Hickey E.K., Peterson J.D., Nelson W.C., Ketchum K.A.,
+RA   McDonald L.A., Utterback T.R., Malek J.A., Linher K.D., Garrett M.M.,
+RA   Stewart A.M., Cotton M.D., Pratt M.S., Phillips C.A., Richardson D.L.,
+RA   Heidelberg J.F., Sutton G.G., Fleischmann R.D., Eisen J.A., White O.,
+RA   Salzberg S.L., Smith H.O., Venter J.C., Fraser C.M.;
+RT   "Evidence for lateral gene transfer between Archaea and Bacteria from
+RT   genome sequence of Thermotoga maritima.";
+RL   Nature 399:323-329(1999).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS), AND PHOSPHORYLATION AT ASP-54.
+RX   PubMed=9521117; DOI=10.1002/pro.5560070221;
+RA   Usher K.C., de la Cruz A.F.A., Dahlquist F.W., Swanson R.V.,
+RA   Simon M.I., Remington S.J.;
+RT   "Crystal structures of CheY from Thermotoga maritima do not support
+RT   conventional explanations for the structural basis of enhanced
+RT   thermostability.";
+RL   Protein Sci. 7:403-412(1998).
+CC   -!- FUNCTION: Involved in the transmission of sensory signals from the
+CC       chemoreceptors to the flagellar motors. CheY seems to regulate the
+CC       clockwise (CW) rotation (By similarity). {ECO:0000250}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC       Note=Binds 1 Mg(2+) ion per subunit.;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm.
+CC   -!- PTM: Phosphorylated by CheA. {ECO:0000250}.
+CC   -!- SIMILARITY: Contains 1 response regulatory domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00169}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U30501; AAA96389.1; -; Genomic_DNA.
+DR   EMBL; AE000512; AAD35782.1; -; Genomic_DNA.
+DR   PIR; B72346; B72346.
+DR   RefSeq; NP_228509.1; NC_000853.1.
+DR   RefSeq; WP_004081049.1; NZ_CP011107.1.
+DR   PDB; 1TMY; X-ray; 1.90 A; A=1-120.
+DR   PDB; 1U0S; X-ray; 1.90 A; Y=2-119.
+DR   PDB; 2LLE; NMR; -; A=1-103.
+DR   PDB; 2TMY; X-ray; 2.30 A; A=1-120.
+DR   PDB; 3TMY; X-ray; 2.20 A; A/B=1-120.
+DR   PDB; 4IGA; X-ray; 1.73 A; A=1-120.
+DR   PDB; 4TMY; X-ray; 2.80 A; A/B=1-120.
+DR   PDBsum; 1TMY; -.
+DR   PDBsum; 1U0S; -.
+DR   PDBsum; 2LLE; -.
+DR   PDBsum; 2TMY; -.
+DR   PDBsum; 3TMY; -.
+DR   PDBsum; 4IGA; -.
+DR   PDBsum; 4TMY; -.
+DR   ProteinModelPortal; Q56312; -.
+DR   SMR; Q56312; 2-119.
+DR   DIP; DIP-35249N; -.
+DR   IntAct; Q56312; 1.
+DR   STRING; 243274.TM0700; -.
+DR   EnsemblBacteria; AAD35782; AAD35782; TM_0700.
+DR   GeneID; 898367; -.
+DR   KEGG; tma:TM0700; -.
+DR   KEGG; tmi:THEMA_01165; -.
+DR   KEGG; tmm:Tmari_0700; -.
+DR   PATRIC; 23936318; VBITheMar51294_0712.
+DR   eggNOG; COG0784; -.
+DR   InParanoid; Q56312; -.
+DR   KO; K03413; -.
+DR   OMA; QARIIMC; -.
+DR   OrthoDB; EOG6PKFC7; -.
+DR   EvolutionaryTrace; Q56312; -.
+DR   Proteomes; UP000008183; Chromosome.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0097588; P:archaeal or bacterial-type flagellum-dependent cell motility; IEA:UniProtKB-KW.
+DR   GO; GO:0006935; P:chemotaxis; IEA:UniProtKB-KW.
+DR   GO; GO:0000160; P:phosphorelay signal transduction system; IEA:UniProtKB-KW.
+DR   InterPro; IPR011006; CheY-like_superfamily.
+DR   InterPro; IPR001789; Sig_transdc_resp-reg_receiver.
+DR   Pfam; PF00072; Response_reg; 1.
+DR   SMART; SM00448; REC; 1.
+DR   SUPFAM; SSF52172; SSF52172; 1.
+DR   PROSITE; PS50110; RESPONSE_REGULATORY; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Chemotaxis; Complete proteome; Cytoplasm;
+KW   Flagellar rotation; Magnesium; Metal-binding; Phosphoprotein;
+KW   Reference proteome; Two-component regulatory system.
+FT   CHAIN         1    120       Chemotaxis protein CheY.
+FT                                /FTId=PRO_0000081055.
+FT   DOMAIN        4    119       Response regulatory.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00169}.
+FT   METAL         9      9       Magnesium.
+FT   METAL        10     10       Magnesium.
+FT   METAL        54     54       Magnesium.
+FT   METAL        56     56       Magnesium; via carbonyl oxygen.
+FT   MOD_RES      54     54       4-aspartylphosphate.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00169,
+FT                                ECO:0000269|PubMed:9521117}.
+FT   STRAND        4      8       {ECO:0000244|PDB:4IGA}.
+FT   HELIX        12     24       {ECO:0000244|PDB:4IGA}.
+FT   STRAND       28     35       {ECO:0000244|PDB:4IGA}.
+FT   HELIX        36     46       {ECO:0000244|PDB:4IGA}.
+FT   STRAND       49     53       {ECO:0000244|PDB:4IGA}.
+FT   STRAND       58     60       {ECO:0000244|PDB:4IGA}.
+FT   HELIX        62     72       {ECO:0000244|PDB:4IGA}.
+FT   STRAND       78     83       {ECO:0000244|PDB:4IGA}.
+FT   HELIX        87     96       {ECO:0000244|PDB:4IGA}.
+FT   STRAND       99    105       {ECO:0000244|PDB:4IGA}.
+FT   HELIX       108    117       {ECO:0000244|PDB:4IGA}.
+SQ   SEQUENCE   120 AA;  13217 MW;  195AC95641264E63 CRC64;
+     MGKRVLIVDD AAFMRMMLKD IITKAGYEVA GEATNGREAV EKYKELKPDI VTMDITMPEM
+     NGIDAIKEIM KIDPNAKIIV CSAMGQQAMV IEAIKAGAKD FIVKPFQPSR VVEALNKVSK
+//

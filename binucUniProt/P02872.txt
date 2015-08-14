@@ -1,0 +1,179 @@
+ID   LECG_ARAHY              Reviewed;         273 AA.
+AC   P02872;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-1996, sequence version 3.
+DT   26-NOV-2014, entry version 104.
+DE   RecName: Full=Galactose-binding lectin;
+DE   AltName: Full=Agglutinin;
+DE   AltName: Full=PNA;
+DE   Flags: Precursor;
+OS   Arachis hypogaea (Peanut).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+OC   Dalbergieae; Arachis.
+OX   NCBI_TaxID=3818;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Seed;
+RX   PubMed=1339358; DOI=10.1016/0014-5793(92)80764-8;
+RA   Rodriguez-Arango E., Arango R., Adar R., Galili G., Sharon N.;
+RT   "Cloning, sequence analysis and expression in Escherichia coli of the
+RT   cDNA encoding a precursor of peanut agglutinin.";
+RL   FEBS Lett. 307:185-189(1992).
+RN   [2]
+RP   PROTEIN SEQUENCE OF 24-273.
+RC   TISSUE=Seed;
+RX   PubMed=2013286; DOI=10.1111/j.1432-1033.1991.tb15859.x;
+RA   Young N.M., Johnston R.A.Z., Watson D.C.;
+RT   "The amino acid sequence of peanut agglutinin.";
+RL   Eur. J. Biochem. 196:631-637(1991).
+RN   [3]
+RP   PRELIMINARY PARTIAL PROTEIN SEQUENCE.
+RC   STRAIN=cv. Shulamit;
+RA   Lauwereys M., Foriers A., Sharon N., Strosberg A.D.;
+RT   "Sequence studies of peanut agglutinin.";
+RL   FEBS Lett. 181:241-244(1985).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (2.25 ANGSTROMS).
+RX   PubMed=8656429; DOI=10.1006/jmbi.1996.0319;
+RA   Banerjee R., Das K., Ravishankar R., Suguna K., Surolia A.,
+RA   Vijayan M.;
+RT   "Conformation, protein-carbohydrate interactions and a novel subunit
+RT   association in the refined structure of peanut lectin-lactose
+RT   complex.";
+RL   J. Mol. Biol. 259:281-296(1996).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (2.7 ANGSTROMS).
+RX   PubMed=10417405; DOI=10.1107/S0907444999006587;
+RA   Ravishankar R., Suguna K., Surolia A., Vijayan M.;
+RT   "Structures of the complexes of peanut lectin with methyl-beta-
+RT   galactose and N-acetyllactosamine and a comparative study of
+RT   carbohydrate binding in Gal/GalNAc-specific legume lectins.";
+RL   Acta Crystallogr. D 55:1375-1382(1999).
+CC   -!- FUNCTION: D-galactose specific lectin.
+CC   -!- SUBUNIT: Homotetramer.
+CC   -!- MISCELLANEOUS: Binds one manganese (or another transition metal)
+CC       ion and one calcium ion. The metal ions are essential for the
+CC       saccharide-binding and cell-agglutinating activities.
+CC   -!- SIMILARITY: Belongs to the leguminous lectin family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; S42352; AAB22817.1; -; mRNA.
+DR   PIR; A03364; LNNPG.
+DR   PIR; S24044; S24044.
+DR   PDB; 1BZW; X-ray; 2.70 A; A/B/C/D=24-255.
+DR   PDB; 1CIW; X-ray; 2.70 A; A/B/C/D=24-259.
+DR   PDB; 1CQ9; X-ray; 3.50 A; A/B/C/D=24-259.
+DR   PDB; 1CR7; X-ray; 2.60 A; A/B/C/D/E/F/G/H=24-259.
+DR   PDB; 1QF3; X-ray; 2.80 A; A/B/C/D=24-259.
+DR   PDB; 1RIR; X-ray; 2.90 A; A/B/C/D=24-259.
+DR   PDB; 1RIT; X-ray; 2.85 A; A/B/C/D=24-259.
+DR   PDB; 1V6I; X-ray; 2.15 A; A/B/C/D=24-255.
+DR   PDB; 1V6J; X-ray; 2.90 A; A/B/C/D=24-255.
+DR   PDB; 1V6K; X-ray; 2.40 A; A/B/C/D=24-255.
+DR   PDB; 1V6L; X-ray; 2.50 A; A/B/C/D=24-255.
+DR   PDB; 1V6M; X-ray; 2.70 A; A/B/C/D/E/F/G/H=24-255.
+DR   PDB; 1V6N; X-ray; 3.50 A; A/B/C/D/E/F/G/H=24-255.
+DR   PDB; 1V6O; X-ray; 3.00 A; A/B/C/D/E/F/G/H=24-255.
+DR   PDB; 2DH1; X-ray; 7.65 A; A/B/C/D=24-259.
+DR   PDB; 2DV9; X-ray; 2.48 A; A/B/C/D=24-259.
+DR   PDB; 2DVA; X-ray; 2.20 A; A/B/C/D=24-259.
+DR   PDB; 2DVB; X-ray; 2.25 A; A/B/C/D=24-259.
+DR   PDB; 2DVD; X-ray; 2.25 A; A/B/C/D=24-259.
+DR   PDB; 2DVF; X-ray; 2.74 A; A/B/C/D=24-259.
+DR   PDB; 2DVG; X-ray; 2.78 A; A/B/C/D=24-259.
+DR   PDB; 2PEL; X-ray; 2.25 A; A/B/C/D=24-259.
+DR   PDB; 2TEP; X-ray; 2.50 A; A/B/C/D=24-259.
+DR   PDBsum; 1BZW; -.
+DR   PDBsum; 1CIW; -.
+DR   PDBsum; 1CQ9; -.
+DR   PDBsum; 1CR7; -.
+DR   PDBsum; 1QF3; -.
+DR   PDBsum; 1RIR; -.
+DR   PDBsum; 1RIT; -.
+DR   PDBsum; 1V6I; -.
+DR   PDBsum; 1V6J; -.
+DR   PDBsum; 1V6K; -.
+DR   PDBsum; 1V6L; -.
+DR   PDBsum; 1V6M; -.
+DR   PDBsum; 1V6N; -.
+DR   PDBsum; 1V6O; -.
+DR   PDBsum; 2DH1; -.
+DR   PDBsum; 2DV9; -.
+DR   PDBsum; 2DVA; -.
+DR   PDBsum; 2DVB; -.
+DR   PDBsum; 2DVD; -.
+DR   PDBsum; 2DVF; -.
+DR   PDBsum; 2DVG; -.
+DR   PDBsum; 2PEL; -.
+DR   PDBsum; 2TEP; -.
+DR   ProteinModelPortal; P02872; -.
+DR   SMR; P02872; 24-255.
+DR   Allergome; 1050; Ara h Agglutinin.
+DR   EvolutionaryTrace; P02872; -.
+DR   GO; GO:0030246; F:carbohydrate binding; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 2.60.120.200; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR016363; Lectin.
+DR   InterPro; IPR000985; Lectin_LegA_CS.
+DR   InterPro; IPR019825; Lectin_legB_Mn/Ca_BS.
+DR   InterPro; IPR001220; Legume_lectin_dom.
+DR   Pfam; PF00139; Lectin_legB; 1.
+DR   PIRSF; PIRSF002690; L-type_lectin_plant; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   PROSITE; PS00308; LECTIN_LEGUME_ALPHA; 1.
+DR   PROSITE; PS00307; LECTIN_LEGUME_BETA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Calcium; Direct protein sequencing; Lectin; Manganese;
+KW   Metal-binding; Signal.
+FT   SIGNAL        1     23       {ECO:0000269|PubMed:2013286}.
+FT   CHAIN        24    273       Galactose-binding lectin.
+FT                                /FTId=PRO_0000017583.
+FT   METAL       144    144       Manganese.
+FT   METAL       146    146       Calcium.
+FT   METAL       146    146       Manganese.
+FT   METAL       148    148       Calcium; via carbonyl oxygen.
+FT   METAL       150    150       Calcium.
+FT   METAL       155    155       Calcium.
+FT   METAL       155    155       Manganese.
+FT   METAL       160    160       Manganese.
+FT   VARIANT     115    115       E -> V (in minor form).
+FT   VARIANT     172    172       K -> A (in minor form).
+FT   VARIANT     185    185       K -> I (in minor form).
+FT   VARIANT     235    236       LG -> RA (in minor form).
+FT   STRAND       25     33       {ECO:0000244|PDB:1V6I}.
+FT   STRAND       41     46       {ECO:0000244|PDB:1V6I}.
+FT   STRAND       51     53       {ECO:0000244|PDB:1V6N}.
+FT   STRAND       60     64       {ECO:0000244|PDB:1V6N}.
+FT   STRAND       66     73       {ECO:0000244|PDB:1V6I}.
+FT   TURN         80     82       {ECO:0000244|PDB:1V6I}.
+FT   STRAND       87     97       {ECO:0000244|PDB:1V6I}.
+FT   STRAND      100    103       {ECO:0000244|PDB:1V6I}.
+FT   STRAND      107    114       {ECO:0000244|PDB:1V6I}.
+FT   HELIX       126    128       {ECO:0000244|PDB:1V6I}.
+FT   TURN        129    131       {ECO:0000244|PDB:1V6I}.
+FT   STRAND      136    146       {ECO:0000244|PDB:1V6I}.
+FT   HELIX       151    153       {ECO:0000244|PDB:1V6I}.
+FT   STRAND      160    169       {ECO:0000244|PDB:1V6I}.
+FT   STRAND      171    175       {ECO:0000244|PDB:1V6I}.
+FT   STRAND      183    191       {ECO:0000244|PDB:1V6I}.
+FT   TURN        192    195       {ECO:0000244|PDB:1V6I}.
+FT   STRAND      196    202       {ECO:0000244|PDB:1V6I}.
+FT   STRAND      204    206       {ECO:0000244|PDB:1V6N}.
+FT   STRAND      208    214       {ECO:0000244|PDB:1V6I}.
+FT   HELIX       217    220       {ECO:0000244|PDB:1V6I}.
+FT   STRAND      223    232       {ECO:0000244|PDB:1V6I}.
+FT   STRAND      235    237       {ECO:0000244|PDB:1V6I}.
+FT   STRAND      240    252       {ECO:0000244|PDB:1V6I}.
+SQ   SEQUENCE   273 AA;  29325 MW;  05A0B1A8FAC7B159 CRC64;
+     MKPFCVFLTF FLLLAASSKK VDSAETVSFN FNSFSEGNPA INFQGDVTVL SNGNIQLTNL
+     NKVNSVGRVL YAMPVRIWSS ATGNVASFLT SFSFEMKDIK DYDPADGIIF FIAPEDTQIP
+     AGSIGGGTLG VSDTKGAGHF VGVEFDTYSN SEYNDPPTDH VGIDVNSVDS VKTVPWNSVS
+     GAVVKVTVIY DSSTKTLSVA VTNDNGDITT IAQVVDLKAK LPERVKFGFS ASGSLGGRQI
+     HLIRSWSFTS TLITTTRRSI DNNEKKIMNM ASA
+//

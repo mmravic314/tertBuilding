@@ -1,0 +1,133 @@
+ID   HIS9_LACLA              Reviewed;         269 AA.
+AC   Q02150; Q9CG89;
+DT   01-JUL-1993, integrated into UniProtKB/Swiss-Prot.
+DT   26-SEP-2001, sequence version 2.
+DT   27-MAY-2015, entry version 98.
+DE   RecName: Full=Histidinol-phosphatase;
+DE            Short=HolPase;
+DE            EC=3.1.3.15;
+GN   Name=hisK; OrderedLocusNames=LL1216; ORFNames=L37351;
+OS   Lactococcus lactis subsp. lactis (strain IL1403) (Streptococcus
+OS   lactis).
+OC   Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae;
+OC   Lactococcus.
+OX   NCBI_TaxID=272623;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=NCDO 2118;
+RX   PubMed=1400209;
+RA   Delorme C., Ehrlich S.D., Renault P.;
+RT   "Histidine biosynthesis genes in Lactococcus lactis subsp. lactis.";
+RL   J. Bacteriol. 174:6571-6579(1992).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=IL1403;
+RX   PubMed=11337471; DOI=10.1101/gr.GR-1697R;
+RA   Bolotin A., Wincker P., Mauger S., Jaillon O., Malarme K.,
+RA   Weissenbach J., Ehrlich S.D., Sorokin A.;
+RT   "The complete genome sequence of the lactic acid bacterium Lactococcus
+RT   lactis ssp. lactis IL1403.";
+RL   Genome Res. 11:731-753(2001).
+CC   -!- CATALYTIC ACTIVITY: L-histidinol phosphate + H(2)O = L-histidinol
+CC       + phosphate.
+CC   -!- PATHWAY: Amino-acid biosynthesis; L-histidine biosynthesis; L-
+CC       histidine from 5-phospho-alpha-D-ribose 1-diphosphate: step 8/9.
+CC   -!- SIMILARITY: Belongs to the PHP hydrolase family. HisK subfamily.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U92974; AAB81911.1; -; Genomic_DNA.
+DR   EMBL; AE005176; AAK05314.1; -; Genomic_DNA.
+DR   PIR; D47754; D47754.
+DR   PIR; H86776; H86776.
+DR   RefSeq; NP_267372.1; NC_002662.1.
+DR   RefSeq; WP_003131121.1; NC_002662.1.
+DR   PDB; 4GC3; X-ray; 1.32 A; A=2-269.
+DR   PDB; 4GK8; X-ray; 1.93 A; A=2-269.
+DR   PDB; 4GYF; X-ray; 1.65 A; A=2-269.
+DR   PDBsum; 4GC3; -.
+DR   PDBsum; 4GK8; -.
+DR   PDBsum; 4GYF; -.
+DR   ProteinModelPortal; Q02150; -.
+DR   STRING; 272623.L37351; -.
+DR   EnsemblBacteria; AAK05314; AAK05314; L37351.
+DR   GeneID; 1114864; -.
+DR   KEGG; lla:L37351; -.
+DR   PATRIC; 22294810; VBILacLac136773_1313.
+DR   eggNOG; COG1387; -.
+DR   HOGENOM; HOG000244025; -.
+DR   KO; K04486; -.
+DR   OMA; DYWIVEM; -.
+DR   OrthoDB; EOG6JMMRV; -.
+DR   BioCyc; LLAC272623:GHSH-1304-MONOMER; -.
+DR   UniPathway; UPA00031; UER00013.
+DR   Proteomes; UP000002196; Chromosome.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0003887; F:DNA-directed DNA polymerase activity; IEA:InterPro.
+DR   GO; GO:0004401; F:histidinol-phosphatase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0006260; P:DNA replication; IEA:InterPro.
+DR   GO; GO:0000105; P:histidine biosynthetic process; IEA:UniProtKB-UniPathway.
+DR   InterPro; IPR010140; Histidinol_P_phosphatase_HisJ.
+DR   InterPro; IPR004013; PHP_C.
+DR   InterPro; IPR003141; Pol/His_phosphatase_N.
+DR   InterPro; IPR016195; Pol/histidinol_Pase-like.
+DR   PANTHER; PTHR21039; PTHR21039; 1.
+DR   Pfam; PF02811; PHP; 1.
+DR   SMART; SM00481; POLIIIAc; 1.
+DR   SUPFAM; SSF89550; SSF89550; 1.
+DR   TIGRFAMs; TIGR01856; hisJ_fam; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Amino-acid biosynthesis; Complete proteome;
+KW   Histidine biosynthesis; Hydrolase; Reference proteome.
+FT   CHAIN         1    269       Histidinol-phosphatase.
+FT                                /FTId=PRO_0000122319.
+FT   CONFLICT     25     25       T -> I (in Ref. 1; AAB81911).
+FT                                {ECO:0000305}.
+FT   CONFLICT     30     30       H -> Y (in Ref. 1; AAB81911).
+FT                                {ECO:0000305}.
+FT   CONFLICT     71     73       KIK -> EIN (in Ref. 1; AAB81911).
+FT                                {ECO:0000305}.
+FT   CONFLICT    125    125       I -> T (in Ref. 1; AAB81911).
+FT                                {ECO:0000305}.
+FT   CONFLICT    146    146       N -> T (in Ref. 1; AAB81911).
+FT                                {ECO:0000305}.
+FT   CONFLICT    168    168       K -> T (in Ref. 1; AAB81911).
+FT                                {ECO:0000305}.
+FT   CONFLICT    187    187       E -> G (in Ref. 1; AAB81911).
+FT                                {ECO:0000305}.
+FT   CONFLICT    203    203       E -> G (in Ref. 1; AAB81911).
+FT                                {ECO:0000305}.
+FT   CONFLICT    215    215       K -> R (in Ref. 1; AAB81911).
+FT                                {ECO:0000305}.
+FT   CONFLICT    250    250       H -> R (in Ref. 1; AAB81911).
+FT                                {ECO:0000305}.
+FT   HELIX        20     29       {ECO:0000244|PDB:4GC3}.
+FT   STRAND       33     42       {ECO:0000244|PDB:4GC3}.
+FT   HELIX        54     67       {ECO:0000244|PDB:4GC3}.
+FT   TURN         68     71       {ECO:0000244|PDB:4GC3}.
+FT   STRAND       73     81       {ECO:0000244|PDB:4GC3}.
+FT   HELIX        84     86       {ECO:0000244|PDB:4GC3}.
+FT   HELIX        87     94       {ECO:0000244|PDB:4GC3}.
+FT   STRAND      100    105       {ECO:0000244|PDB:4GC3}.
+FT   HELIX       119    121       {ECO:0000244|PDB:4GC3}.
+FT   HELIX       126    143       {ECO:0000244|PDB:4GC3}.
+FT   STRAND      148    150       {ECO:0000244|PDB:4GC3}.
+FT   HELIX       155    158       {ECO:0000244|PDB:4GC3}.
+FT   STRAND      159    161       {ECO:0000244|PDB:4GYF}.
+FT   HELIX       170    172       {ECO:0000244|PDB:4GC3}.
+FT   HELIX       173    185       {ECO:0000244|PDB:4GC3}.
+FT   STRAND      189    193       {ECO:0000244|PDB:4GC3}.
+FT   TURN        195    198       {ECO:0000244|PDB:4GC3}.
+FT   HELIX       200    215       {ECO:0000244|PDB:4GC3}.
+FT   STRAND      220    224       {ECO:0000244|PDB:4GC3}.
+FT   STRAND      228    230       {ECO:0000244|PDB:4GC3}.
+FT   HELIX       234    246       {ECO:0000244|PDB:4GC3}.
+SQ   SEQUENCE   269 AA;  31473 MW;  CF51601DEDD5B8C2 CRC64;
+     MKKLDYHFHS HFSADSEELP RKHVTEAIAH GLEEICFTEH RDFYFPGMDF SLNLPEYFQE
+     INRLQAEFKD KIKIKIGLEM GIDLRFKSEI NQFIDSAPFD FVIASVHEIG DIEVYDGTEF
+     YLQKIKEEAQ REYLLACLDV VQNFENYNSF GHLDYVARYG PYTDKSIKFA ENREILFEIL
+     RALASKEKAL EINTRLFDDP KTEQFYSDLL INFKKLGGKF ITLGTDSHIA KRDWLSIHKA
+     RTLIKKAGFH ELATFSGMKI DKNKKSIKE
+//

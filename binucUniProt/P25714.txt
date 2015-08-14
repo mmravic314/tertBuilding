@@ -1,0 +1,425 @@
+ID   YIDC_ECOLI              Reviewed;         548 AA.
+AC   P25714; Q2M818;
+DT   01-MAY-1992, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUL-1993, sequence version 2.
+DT   22-JUL-2015, entry version 126.
+DE   RecName: Full=Membrane protein insertase YidC;
+DE   AltName: Full=Foldase YidC;
+DE   AltName: Full=Inner membrane protein YidC;
+DE   AltName: Full=Membrane integrase YidC;
+DE   AltName: Full=Oxa1Ec;
+GN   Name=yidC; OrderedLocusNames=b3705, JW3683;
+OS   Escherichia coli (strain K12).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=83333;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / MG1655 / ATCC 47076;
+RX   PubMed=7686882; DOI=10.1006/geno.1993.1230;
+RA   Burland V.D., Plunkett G. III, Daniels D.L., Blattner F.R.;
+RT   "DNA sequence and analysis of 136 kilobases of the Escherichia coli
+RT   genome: organizational symmetry around the origin of replication.";
+RL   Genomics 16:551-561(1993).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / MG1655 / ATCC 47076;
+RX   PubMed=9278503; DOI=10.1126/science.277.5331.1453;
+RA   Blattner F.R., Plunkett G. III, Bloch C.A., Perna N.T., Burland V.,
+RA   Riley M., Collado-Vides J., Glasner J.D., Rode C.K., Mayhew G.F.,
+RA   Gregor J., Davis N.W., Kirkpatrick H.A., Goeden M.A., Rose D.J.,
+RA   Mau B., Shao Y.;
+RT   "The complete genome sequence of Escherichia coli K-12.";
+RL   Science 277:1453-1462(1997).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / W3110 / ATCC 27325 / DSM 5911;
+RX   PubMed=16738553; DOI=10.1038/msb4100049;
+RA   Hayashi K., Morooka N., Yamamoto Y., Fujita K., Isono K., Choi S.,
+RA   Ohtsubo E., Baba T., Wanner B.L., Mori H., Horiuchi T.;
+RT   "Highly accurate genome sequences of Escherichia coli K-12 strains
+RT   MG1655 and W3110.";
+RL   Mol. Syst. Biol. 2:E1-E5(2006).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-3.
+RC   STRAIN=K12;
+RX   PubMed=2415431; DOI=10.1016/0378-1119(85)90206-9;
+RA   Hansen F.G., Hansen E.B., Atlung T.;
+RT   "Physical mapping and nucleotide sequence of the rnpA gene that
+RT   encodes the protein component of ribonuclease P in Escherichia coli.";
+RL   Gene 38:85-93(1985).
+RN   [5]
+RP   TOPOLOGY.
+RC   STRAIN=K12/ MC1061 / TOP10F';
+RX   PubMed=9804807; DOI=10.1074/jbc.273.46.30415;
+RA   Saaf A., Monne M., de Gier J.W., von Heijne G.;
+RT   "Membrane topology of the 60-kDa Oxa1p homologue from Escherichia
+RT   coli.";
+RL   J. Biol. Chem. 273:30415-30418(1998).
+RN   [6]
+RP   FUNCTION IN SEC-DEPENDENT PATHWAY, AND INTERACTION WITH TRANSMEMBRANE
+RP   SEGMENTS.
+RX   PubMed=10675323; DOI=10.1093/emboj/19.4.542;
+RA   Scotti P.A., Urbanus M.L., Brunner J., de Gier J.-W., von Heijne G.,
+RA   van der Does C., Driessen A.J.M., Oudega B., Luirink J.;
+RT   "YidC, the Escherichia coli homologue of mitochondrial Oxa1p, is a
+RT   component of the Sec translocase.";
+RL   EMBO J. 19:542-549(2000).
+RN   [7]
+RP   FUNCTION IN SEC-INDEPENDENT PATHWAY, SUBSTRATES, AND DISRUPTION
+RP   PHENOTYPE.
+RX   PubMed=10949305; DOI=10.1038/35020586;
+RA   Samuelson J.C., Chen M., Jiang F., Moeller I., Wiedmann M., Kuhn A.,
+RA   Phillips G.J., Dalbey R.E.;
+RT   "YidC mediates membrane protein insertion in bacteria.";
+RL   Nature 406:637-641(2000).
+RN   [8]
+RP   INTERACTION WITH FTSQ AFTER SECY, AND DISRUPTION PHENOTYPE.
+RX   PubMed=11415986; DOI=10.1093/embo-reports/kve108;
+RA   Urbanus M.L., Scotti P.A., Froderberg L., Saaf A., de Gier J.W.,
+RA   Brunner J., Samuelson J.C., Dalbey R.E., Oudega B., Luirink J.;
+RT   "Sec-dependent membrane protein insertion: sequential interaction of
+RT   nascent FtsQ with SecY and YidC.";
+RL   EMBO Rep. 2:524-529(2001).
+RN   [9]
+RP   SRP- AND SEC-DEPENDENT INSERTION INTO MEMBRANES, SUBCELLULAR LOCATION,
+RP   AND TOPOLOGY.
+RC   STRAIN=K12 / MC4100 / ATCC 35695 / DSM 6574;
+RX   PubMed=11821429; DOI=10.1074/jbc.M200311200;
+RA   Urbanus M.L., Froederberg L., Drew D., Bjoerk P., de Gier J.-W.,
+RA   Brunner J., Oudega B., Luirink J.;
+RT   "Targeting, insertion, and localization of Escherichia coli YidC.";
+RL   J. Biol. Chem. 277:12718-12723(2002).
+RN   [10]
+RP   INTERACTION WITH SECD AND SECF.
+RX   PubMed=12068816; DOI=10.1046/j.1365-2958.2002.02972.x;
+RA   Nouwen N., Driessen A.J.M.;
+RT   "SecDFyajC forms a heterotetrameric complex with YidC.";
+RL   Mol. Microbiol. 44:1397-1405(2002).
+RN   [11]
+RP   FUNCTION.
+RX   PubMed=12724529; DOI=10.1073/pnas.0636761100;
+RA   Van Der Laan M., Urbanus M.L., Ten Hagen-Jongman C.M., Nouwen N.,
+RA   Oudega B., Harms N., Driessen A.J.M., Luirink J.;
+RT   "A conserved function of YidC in the biogenesis of respiratory chain
+RT   complexes.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 100:5801-5806(2003).
+RN   [12]
+RP   MUTAGENESIS OF 23-TRP--LYS-27; 334-TRP--GLN-338; 483-PRO--THR-487 AND
+RP   GLY-512.
+RX   PubMed=12707259; DOI=10.1074/jbc.M301008200;
+RA   Chen M., Xie K., Nouwen N., Driessen A.J., Dalbey R.E.;
+RT   "Conditional lethal mutations separate the M13 procoat and Pf3 coat
+RT   functions of YidC: different YidC structural requirements for membrane
+RT   protein insertion.";
+RL   J. Biol. Chem. 278:23295-23300(2003).
+RN   [13]
+RP   MUTAGENESIS OF ILE-361 AND LEU-436.
+RX   PubMed=14506280; DOI=10.1074/jbc.M307362200;
+RA   Jiang F., Chen M., Yi L., de Gier J.-W.L., Kuhn A., Dalbey R.E.;
+RT   "Defining the regions of Escherichia coli YidC that contribute to
+RT   activity.";
+RL   J. Biol. Chem. 278:48965-48972(2003).
+RN   [14]
+RP   FUNCTION, AND ATP SYNTHASE SUBUNIT AND SECE AS SUBSTRATES.
+RX   PubMed=12950181; DOI=10.1021/bi034309h;
+RA   Yi L., Jiang F., Chen M., Cain B., Bolhuis A., Dalbey R.E.;
+RT   "YidC is strictly required for membrane insertion of subunits a and c
+RT   of the F(1)F(0)ATP synthase and SecE of the SecYEG translocase.";
+RL   Biochemistry 42:10537-10544(2003).
+RN   [15]
+RP   FUNCTION IN TARGETING AND/OR TRANSLOCATION OF LIPOPROTEINS.
+RX   PubMed=15140892; DOI=10.1074/jbc.M403229200;
+RA   Froderberg L., Houben E.N., Baars L., Luirink J., de Gier J.W.;
+RT   "Targeting and translocation of two lipoproteins in Escherichia coli
+RT   via the SRP/Sec/YidC pathway.";
+RL   J. Biol. Chem. 279:31026-31032(2004).
+RN   [16]
+RP   FUNCTION IN FOLDING BUT NOT INSERTION OF LACY, AND DISRUPTION
+RP   PHENOTYPE.
+RX   PubMed=15067017; DOI=10.1083/jcb.200402067;
+RA   Nagamori S., Smirnova I.N., Kaback H.R.;
+RT   "Role of YidC in folding of polytopic membrane proteins.";
+RL   J. Cell Biol. 165:53-62(2004).
+RN   [17]
+RP   SUBUNIT, AND SUBCELLULAR LOCATION.
+RC   STRAIN=BL21-DE3;
+RX   PubMed=16079137; DOI=10.1074/jbc.M506479200;
+RA   Stenberg F., Chovanec P., Maslen S.L., Robinson C.V., Ilag L.,
+RA   von Heijne G., Daley D.O.;
+RT   "Protein complexes of the Escherichia coli cell envelope.";
+RL   J. Biol. Chem. 280:34409-34419(2005).
+RN   [18]
+RP   FUNCTION OF PERIPLASMIC DOMAIN.
+RX   PubMed=17073462; DOI=10.1021/bi060826z;
+RA   Xie K., Kiefer D., Nagler G., Dalbey R.E., Kuhn A.;
+RT   "Different regions of the nonconserved large periplasmic domain of
+RT   Escherichia coli YidC are involved in the SecF interaction and
+RT   membrane insertase activity.";
+RL   Biochemistry 45:13401-13408(2006).
+RN   [19]
+RP   INTERACTION WITH FTSH.
+RX   PubMed=18387365; DOI=10.1016/j.febslet.2008.02.082;
+RA   van Bloois E., Dekker H.L., Froderberg L., Houben E.N., Urbanus M.L.,
+RA   de Koster C.G., de Gier J.W., Luirink J.;
+RT   "Detection of cross-links between FtsH, YidC, HflK/C suggests a linked
+RT   role for these proteins in quality control upon insertion of bacterial
+RT   inner membrane proteins.";
+RL   FEBS Lett. 582:1419-1424(2008).
+RN   [20]
+RP   COMPLEMENTATION BY AND IN STREPTOCOCCUS MUTANS.
+RX   PubMed=18178746; DOI=10.1128/JB.01366-07;
+RA   Dong Y., Palmer S.R., Hasona A., Nagamori S., Kaback H.R.,
+RA   Dalbey R.E., Brady L.J.;
+RT   "Functional overlap but lack of complete cross-complementation of
+RT   Streptococcus mutans and Escherichia coli YidC orthologs.";
+RL   J. Bacteriol. 190:2458-2469(2008).
+RN   [21]
+RP   FUNCTION IN FOLDING BUT NOT INSERTION OF MALF OR OF MALFGK(2) COMPLEX.
+RX   PubMed=18456666; DOI=10.1074/jbc.M801481200;
+RA   Wagner S., Pop O.I., Haan G.J., Baars L., Koningstein G.,
+RA   Klepsch M.M., Genevaux P., Luirink J., de Gier J.W.;
+RT   "Biogenesis of MalF and the MalFGK(2) maltose transport complex in
+RT   Escherichia coli requires YidC.";
+RL   J. Biol. Chem. 283:17881-17890(2008).
+RN   [22]
+RP   COMPLEMENTATION BY SPOIIIJ AND YQJG OF B.SUBTILIS.
+RX   PubMed=19717609; DOI=10.1128/JB.00853-09;
+RA   Saller M.J., Fusetti F., Driessen A.J.;
+RT   "Bacillus subtilis SpoIIIJ and YqjG function in membrane protein
+RT   biogenesis.";
+RL   J. Bacteriol. 191:6749-6757(2009).
+RN   [23]
+RP   DISRUPTION PHENOTYPE.
+RC   STRAIN=K12 / MG1655 / ATCC 47076;
+RX   PubMed=21778229; DOI=10.1074/jbc.M111.245696;
+RA   Fontaine F., Fuchs R.T., Storz G.;
+RT   "Membrane localization of small proteins in Escherichia coli.";
+RL   J. Biol. Chem. 286:32464-32474(2011).
+RN   [24]
+RP   X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS) OF 26-340.
+RC   STRAIN=K12;
+RX   PubMed=18093969; DOI=10.1074/jbc.M708936200;
+RA   Oliver D.C., Paetzel M.;
+RT   "Crystal structure of the major periplasmic domain of the bacterial
+RT   membrane protein assembly facilitator YidC.";
+RL   J. Biol. Chem. 283:5208-5216(2008).
+RN   [25]
+RP   X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS) OF 56-329.
+RX   PubMed=18234665; DOI=10.1074/jbc.M710493200;
+RA   Ravaud S., Stjepanovic G., Wild K., Sinning I.;
+RT   "The crystal structure of the periplasmic domain of the Escherichia
+RT   coli membrane protein insertase YidC contains a substrate binding
+RT   cleft.";
+RL   J. Biol. Chem. 283:9350-9358(2008).
+RN   [26]
+RP   REVIEW.
+RX   PubMed=21275640; DOI=10.1146/annurev-biochem-060409-092524;
+RA   Dalbey R.E., Wang P., Kuhn A.;
+RT   "Assembly of bacterial inner membrane proteins.";
+RL   Annu. Rev. Biochem. 80:161-187(2011).
+CC   -!- FUNCTION: Inner membrane protein required for the insertion and/or
+CC       proper folding and/or complex formation of integral inner membrane
+CC       proteins. Involved in integration of membrane proteins that insert
+CC       dependently and independently of the Sec translocase complex, as
+CC       well as at least 2 lipoproteins. Its own insertion requires SRP
+CC       and is Sec translocase-dependent. Essential for the integration of
+CC       Sec-dependent subunit a of the F(0)ATP synthase, FtsQ and SecE
+CC       proteins and for Sec-independent subunit c of the F(0)ATP
+CC       synthase, M13 phage procoat and the N-terminus of leader peptidase
+CC       Lep. Probably interacts directly with Sec-independent substrates.
+CC       Sec-dependent protein FtsQ interacts first with SecY then
+CC       subsequently with YidC. Sec-dependent LacY and MalF require YidC
+CC       to acquire tertiary structure and stability, a chaperone-like
+CC       function, but not for membrane insertion. Stable maltose transport
+CC       copmplex formation (MalFGK(2)) also requires YidC. Partially
+CC       complements a Streptococcus mutans yidC2 disruption mutant.
+CC       {ECO:0000269|PubMed:10675323, ECO:0000269|PubMed:10949305,
+CC       ECO:0000269|PubMed:12724529, ECO:0000269|PubMed:12950181,
+CC       ECO:0000269|PubMed:15067017, ECO:0000269|PubMed:15140892,
+CC       ECO:0000269|PubMed:17073462, ECO:0000269|PubMed:18456666}.
+CC   -!- SUBUNIT: Interacts with SecD and SecF. Component of the SecDFyajC
+CC       complex, a heterotetrameric translocase complex. Specifically
+CC       interacts with transmembrane segments of nascent integral membrane
+CC       proteins during membrane integration. Found in 3 different
+CC       complexes in inner membrane preparations (PubMed:16079137). Can be
+CC       cross-linked to FtsH, in the larger FtsH/HflKC complex.
+CC       {ECO:0000269|PubMed:10675323, ECO:0000269|PubMed:11415986,
+CC       ECO:0000269|PubMed:12068816, ECO:0000269|PubMed:16079137,
+CC       ECO:0000269|PubMed:18387365}.
+CC   -!- INTERACTION:
+CC       P03623:VIII (xeno); NbExp=5; IntAct=EBI-6400779, EBI-8482910;
+CC   -!- SUBCELLULAR LOCATION: Cell inner membrane
+CC       {ECO:0000269|PubMed:11821429, ECO:0000269|PubMed:16079137}; Multi-
+CC       pass membrane protein {ECO:0000269|PubMed:11821429,
+CC       ECO:0000269|PubMed:16079137}. Note=Predominantly localized at cell
+CC       poles at all stages of cell growth.
+CC   -!- INDUCTION: At mid-exponential phase in strain MC4100 there are
+CC       about 2500 copies per cell (at protein level).
+CC   -!- DOMAIN: Most of the large periplasmic domain (residues 24-264) is
+CC       not required for either Sec-dependent or Sec-independent protein
+CC       insertion. However, residues 265-346, the C-terminal part of the
+CC       large periplasmic domain, are required for both Sec-dependent and
+CC       Sec-independent protein insertion.
+CC   -!- DISRUPTION PHENOTYPE: Lethality. Upon depletion experiments
+CC       insertion of Sec translocase-independent integral membrane
+CC       proteins ceases. Translocation of Sec-dependent protein decreases
+CC       to a lesser extent. Also leads to decreased targeting and/or
+CC       translocation of Lpp and BRP lipoproteins. Both spoIIIJ and yqjG
+CC       of B.subtilis functionally complement yidC depletion, whereas
+CC       Streptococcus mutans yidC1 and yidC2 only partially complement
+CC       depletion. {ECO:0000269|PubMed:10949305,
+CC       ECO:0000269|PubMed:11415986, ECO:0000269|PubMed:15067017,
+CC       ECO:0000269|PubMed:21778229}.
+CC   -!- SIMILARITY: Belongs to the OXA1/ALB3/YidC family. Type 1
+CC       subfamily. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; L10328; AAA62056.1; -; Genomic_DNA.
+DR   EMBL; U00096; AAC76728.1; -; Genomic_DNA.
+DR   EMBL; AP009048; BAE77588.1; -; Genomic_DNA.
+DR   EMBL; M11056; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   PIR; B65173; B65173.
+DR   RefSeq; NP_418161.1; NC_000913.3.
+DR   RefSeq; WP_000378250.1; NZ_CP010445.1.
+DR   PDB; 3BLC; X-ray; 2.50 A; A/B=26-340.
+DR   PDB; 3BS6; X-ray; 1.80 A; A/B=56-329.
+DR   PDB; 4UTQ; EM; 8.00 A; A=1-548.
+DR   PDBsum; 3BLC; -.
+DR   PDBsum; 3BS6; -.
+DR   PDBsum; 4UTQ; -.
+DR   ProteinModelPortal; P25714; -.
+DR   SMR; P25714; 56-528.
+DR   DIP; DIP-12442N; -.
+DR   IntAct; P25714; 31.
+DR   MINT; MINT-6477960; -.
+DR   STRING; 511145.b3705; -.
+DR   TCDB; 2.A.9.3.1; the cytochrome oxidase biogenesis (oxa1) family.
+DR   PaxDb; P25714; -.
+DR   PRIDE; P25714; -.
+DR   DNASU; 948214; -.
+DR   EnsemblBacteria; AAC76728; AAC76728; b3705.
+DR   EnsemblBacteria; BAE77588; BAE77588; BAE77588.
+DR   GeneID; 948214; -.
+DR   KEGG; eco:b3705; -.
+DR   PATRIC; 32122907; VBIEscCol129921_3829.
+DR   EchoBASE; EB1183; -.
+DR   EcoGene; EG11197; yidC.
+DR   eggNOG; COG0706; -.
+DR   HOGENOM; HOG000101822; -.
+DR   InParanoid; P25714; -.
+DR   KO; K03217; -.
+DR   OMA; KWIHSFL; -.
+DR   OrthoDB; EOG6X6RF2; -.
+DR   PhylomeDB; P25714; -.
+DR   BioCyc; EcoCyc:YIDC; -.
+DR   BioCyc; ECOL316407:JW3683-MONOMER; -.
+DR   EvolutionaryTrace; P25714; -.
+DR   PRO; PR:P25714; -.
+DR   Proteomes; UP000000318; Chromosome.
+DR   Proteomes; UP000000625; Chromosome.
+DR   GO; GO:0016021; C:integral component of membrane; IDA:UniProtKB.
+DR   GO; GO:0005887; C:integral component of plasma membrane; IDA:EcoCyc.
+DR   GO; GO:0005886; C:plasma membrane; IDA:UniProtKB.
+DR   GO; GO:0032977; F:membrane insertase activity; IDA:EcoCyc.
+DR   GO; GO:0006461; P:protein complex assembly; IMP:UniProtKB.
+DR   GO; GO:0006457; P:protein folding; IMP:UniProtKB.
+DR   GO; GO:0051260; P:protein homooligomerization; IMP:EcoCyc.
+DR   GO; GO:0051205; P:protein insertion into membrane; IDA:EcoliWiki.
+DR   HAMAP; MF_01810; YidC_type1; 1.
+DR   InterPro; IPR019998; Membr_insert_YidC.
+DR   InterPro; IPR028055; Membr_insert_YidC/Oxa1_C.
+DR   InterPro; IPR028053; Membr_insert_YidC_N.
+DR   InterPro; IPR001708; Membrane_insert_OXA1/ALB3/YidC.
+DR   PANTHER; PTHR12428; PTHR12428; 1.
+DR   Pfam; PF02096; 60KD_IMP; 1.
+DR   Pfam; PF14849; YidC_periplas; 1.
+DR   PRINTS; PR00701; 60KDINNERMP.
+DR   PRINTS; PR01900; YIDCPROTEIN.
+DR   TIGRFAMs; TIGR03593; yidC_nterm; 1.
+DR   TIGRFAMs; TIGR03592; yidC_oxa1_cterm; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cell inner membrane; Cell membrane; Chaperone;
+KW   Complete proteome; Membrane; Protein transport; Reference proteome;
+KW   Transmembrane; Transmembrane helix; Transport.
+FT   CHAIN         1    548       Membrane protein insertase YidC.
+FT                                /FTId=PRO_0000124712.
+FT   TOPO_DOM      1      5       Cytoplasmic. {ECO:0000305}.
+FT   TRANSMEM      6     23       Helical. {ECO:0000305}.
+FT   TOPO_DOM     24    342       Periplasmic.
+FT   TRANSMEM    343    370       Helical. {ECO:0000305}.
+FT   TOPO_DOM    371    416       Cytoplasmic.
+FT   TRANSMEM    417    446       Helical. {ECO:0000305}.
+FT   TOPO_DOM    447    463       Periplasmic.
+FT   TRANSMEM    464    481       Helical. {ECO:0000305}.
+FT   TOPO_DOM    482    493       Cytoplasmic.
+FT   TRANSMEM    494    509       Helical. {ECO:0000305}.
+FT   TOPO_DOM    510    512       Periplasmic.
+FT   TRANSMEM    513    535       Helical. {ECO:0000305}.
+FT   TOPO_DOM    536    548       Cytoplasmic.
+FT   REGION       24    264       Can be removed without causing lethality,
+FT                                dispensible for M13 procoat processing.
+FT   REGION      215    265       Interacts with SecF; not required for
+FT                                insertion of a number of Sec-dependent or
+FT                                Sec-independent substrates.
+FT   REGION      265    346       Required for Sec-dependent and Sec-
+FT                                independent protein insertion.
+FT   REGION      527    548       Can be removed without causing lethality,
+FT                                dispensible for M13 procoat processing.
+FT   MUTAGEN      24     27       EQDK->IEGR: Cold-sensitive at 30 degrees
+FT                                Celsius; when associated with 334-W--G-
+FT                                338. Protein accumulates stably.
+FT   MUTAGEN     334    338       WFISQ->LEVLFQG: Cold-sensitive at 30
+FT                                degrees Celsius; when associated with 24-
+FT                                I--R-27. Protein accumulates stably.
+FT                                {ECO:0000269|PubMed:12707259}.
+FT   MUTAGEN     361    361       I->S: Loss of function.
+FT                                {ECO:0000269|PubMed:14506280}.
+FT   MUTAGEN     436    436       L->S: Loss of function.
+FT                                {ECO:0000269|PubMed:14506280}.
+FT   MUTAGEN     483    487       PTTVT->LVPRGS: Temperature-sensitive at
+FT                                42 degrees Celsius; when associated with
+FT                                512-ENLYFQG. Protein is not stable.
+FT                                {ECO:0000269|PubMed:12707259}.
+FT   MUTAGEN     512    512       G->ENLYFQG: Temperature-sensitive at 42
+FT                                degrees Celsius; when associated with
+FT                                483-L--S-487. Protein is not stable.
+FT                                {ECO:0000269|PubMed:12707259}.
+FT   STRAND       60     64       {ECO:0000244|PDB:3BS6}.
+FT   STRAND       69     73       {ECO:0000244|PDB:3BS6}.
+FT   STRAND       78     90       {ECO:0000244|PDB:3BS6}.
+FT   STRAND       95    103       {ECO:0000244|PDB:3BS6}.
+FT   STRAND      106    116       {ECO:0000244|PDB:3BS6}.
+FT   HELIX       123    125       {ECO:0000244|PDB:3BS6}.
+FT   STRAND      136    139       {ECO:0000244|PDB:3BS6}.
+FT   STRAND      145    154       {ECO:0000244|PDB:3BS6}.
+FT   STRAND      160    168       {ECO:0000244|PDB:3BS6}.
+FT   STRAND      173    181       {ECO:0000244|PDB:3BS6}.
+FT   STRAND      184    186       {ECO:0000244|PDB:3BS6}.
+FT   STRAND      188    201       {ECO:0000244|PDB:3BS6}.
+FT   STRAND      220    224       {ECO:0000244|PDB:3BS6}.
+FT   TURN        226    228       {ECO:0000244|PDB:3BS6}.
+FT   STRAND      231    233       {ECO:0000244|PDB:3BS6}.
+FT   HELIX       235    239       {ECO:0000244|PDB:3BS6}.
+FT   STRAND      245    250       {ECO:0000244|PDB:3BS6}.
+FT   STRAND      252    257       {ECO:0000244|PDB:3BS6}.
+FT   STRAND      260    280       {ECO:0000244|PDB:3BS6}.
+FT   STRAND      283    289       {ECO:0000244|PDB:3BS6}.
+FT   STRAND      293    295       {ECO:0000244|PDB:3BS6}.
+FT   STRAND      300    311       {ECO:0000244|PDB:3BS6}.
+FT   HELIX       314    320       {ECO:0000244|PDB:3BS6}.
+FT   HELIX       324    327       {ECO:0000244|PDB:3BS6}.
+SQ   SEQUENCE   548 AA;  61526 MW;  95EBC5DAB4F2FCFB CRC64;
+     MDSQRNLLVI ALLFVSFMIW QAWEQDKNPQ PQAQQTTQTT TTAAGSAADQ GVPASGQGKL
+     ISVKTDVLDL TINTRGGDVE QALLPAYPKE LNSTQPFQLL ETSPQFIYQA QSGLTGRDGP
+     DNPANGPRPL YNVEKDAYVL AEGQNELQVP MTYTDAAGNT FTKTFVLKRG DYAVNVNYNV
+     QNAGEKPLEI SSFGQLKQSI TLPPHLDTGS SNFALHTFRG AAYSTPDEKY EKYKFDTIAD
+     NENLNISSKG GWVAMLQQYF ATAWIPHNDG TNNFYTANLG NGIAAIGYKS QPVLVQPGQT
+     GAMNSTLWVG PEIQDKMAAV APHLDLTVDY GWLWFISQPL FKLLKWIHSF VGNWGFSIII
+     ITFIVRGIMY PLTKAQYTSM AKMRMLQPKI QAMRERLGDD KQRISQEMMA LYKAEKVNPL
+     GGCFPLLIQM PIFLALYYML MGSVELRQAP FALWIHDLSA QDPYYILPIL MGVTMFFIQK
+     MSPTTVTDPM QQKIMTFMPV IFTVFFLWFP SGLVLYYIVS NLVTIIQQQL IYRGLEKRGL
+     HSREKKKS
+//

@@ -1,0 +1,311 @@
+ID   PSBK_THEEB              Reviewed;          46 AA.
+AC   Q9F1K9;
+DT   29-AUG-2001, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAR-2001, sequence version 1.
+DT   27-MAY-2015, entry version 87.
+DE   RecName: Full=Photosystem II reaction center protein K {ECO:0000255|HAMAP-Rule:MF_00441};
+DE            Short=PSII-K {ECO:0000255|HAMAP-Rule:MF_00441};
+DE   Flags: Precursor;
+GN   Name=psbK {ECO:0000255|HAMAP-Rule:MF_00441};
+GN   OrderedLocusNames=tsl0176;
+OS   Thermosynechococcus elongatus (strain BP-1).
+OC   Bacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales;
+OC   Thermosynechococcus.
+OX   NCBI_TaxID=197221;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RA   Katoh H., Ikeuchi M.;
+RT   "Cloning and disruption of the psbK gene from thermophilic
+RT   Thermosynechococcus elongatus.";
+RL   Submitted (DEC-2000) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=BP-1;
+RX   PubMed=12240834; DOI=10.1093/dnares/9.4.123;
+RA   Nakamura Y., Kaneko T., Sato S., Ikeuchi M., Katoh H., Sasamoto S.,
+RA   Watanabe A., Iriguchi M., Kawashima K., Kimura T., Kishida Y.,
+RA   Kiyokawa C., Kohara M., Matsumoto M., Matsuno A., Nakazaki N.,
+RA   Shimpo S., Sugimoto M., Takeuchi C., Yamada M., Tabata S.;
+RT   "Complete genome structure of the thermophilic cyanobacterium
+RT   Thermosynechococcus elongatus BP-1.";
+RL   DNA Res. 9:123-130(2002).
+RN   [3]
+RP   PROTEIN SEQUENCE OF 10-24, PROPEPTIDE, COFACTOR, AND SUBCELLULAR
+RP   LOCATION.
+RX   PubMed=17935689; DOI=10.1016/j.bbabio.2007.08.008;
+RA   Kashino Y., Takahashi T., Inoue-Kashino N., Ban A., Ikeda Y.,
+RA   Satoh K., Sugiura M.;
+RT   "Ycf12 is a core subunit in the photosystem II complex.";
+RL   Biochim. Biophys. Acta 1767:1269-1275(2007).
+RN   [4]
+RP   PROTEIN SEQUENCE OF 10-19, COFACTOR, AND SUBCELLULAR LOCATION.
+RX   PubMed=17967798; DOI=10.1093/pcp/pcm148;
+RA   Iwai M., Suzuki T., Dohmae N., Inoue Y., Ikeuchi M.;
+RT   "Absence of the PsbZ subunit prevents association of PsbK and Ycf12
+RT   with the PSII complex in the thermophilic cyanobacterium
+RT   Thermosynechococcus elongatus BP-1.";
+RL   Plant Cell Physiol. 48:1758-1763(2007).
+RN   [5]
+RP   PROTEIN SEQUENCE OF 10-16, FUNCTION, SUBUNIT, SUBCELLULAR LOCATION,
+RP   AND DISRUPTION PHENOTYPE.
+RC   STRAIN=BP-1;
+RX   PubMed=20194360; DOI=10.1093/pcp/pcq020;
+RA   Iwai M., Suzuki T., Kamiyama A., Sakurai I., Dohmae N., Inoue Y.,
+RA   Ikeuchi M.;
+RT   "The PsbK subunit is required for the stable assembly and stability of
+RT   other small subunits in the PSII complex in the thermophilic
+RT   cyanobacterium Thermosynechococcus elongatus BP-1.";
+RL   Plant Cell Physiol. 51:554-560(2010).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (3.50 ANGSTROMS) OF 10-46 IN PHOTOSYSTEM II,
+RP   COFACTOR, SUBUNIT, AND SUBCELLULAR LOCATION.
+RX   PubMed=14764885; DOI=10.1126/science.1093087;
+RA   Ferreira K.N., Iverson T.M., Maghlaoui K., Barber J., Iwata S.;
+RT   "Architecture of the photosynthetic oxygen-evolving center.";
+RL   Science 303:1831-1838(2004).
+RN   [7]
+RP   X-RAY CRYSTALLOGRAPHY (3.00 ANGSTROMS) OF 10-46 IN PHOTOSYSTEM II,
+RP   COFACTOR, SUBUNIT, AND SUBCELLULAR LOCATION.
+RC   STRAIN=BP-1;
+RX   PubMed=16355230; DOI=10.1038/nature04224;
+RA   Loll B., Kern J., Saenger W., Zouni A., Biesiadka J.;
+RT   "Towards complete cofactor arrangement in the 3.0 A resolution
+RT   structure of photosystem II.";
+RL   Nature 438:1040-1044(2005).
+RN   [8]
+RP   X-RAY CRYSTALLOGRAPHY (2.90 ANGSTROMS) OF 10-46 IN PHOTOSYSTEM II,
+RP   COFACTOR, SUBUNIT, SUBCELLULAR LOCATION, MASS SPECTROMETRY, AND
+RP   TOPOLOGY.
+RC   STRAIN=BP-1;
+RX   PubMed=19219048; DOI=10.1038/nsmb.1559;
+RA   Guskov A., Kern J., Gabdulkhakov A., Broser M., Zouni A., Saenger W.;
+RT   "Cyanobacterial photosystem II at 2.9-A resolution and the role of
+RT   quinones, lipids, channels and chloride.";
+RL   Nat. Struct. Mol. Biol. 16:334-342(2009).
+RN   [9]
+RP   X-RAY CRYSTALLOGRAPHY (3.60 ANGSTROMS) OF 10-46 IN PHOTOSYSTEM II,
+RP   FUNCTION, COFACTOR, SUBUNIT, SUBCELLULAR LOCATION, AND MASS
+RP   SPECTROMETRY.
+RC   STRAIN=BP-1;
+RX   PubMed=20558739; DOI=10.1074/jbc.M110.127589;
+RA   Broser M., Gabdulkhakov A., Kern J., Guskov A., Muh F., Saenger W.,
+RA   Zouni A.;
+RT   "Crystal structure of monomeric photosystem II from
+RT   Thermosynechococcus elongatus at 3.6 A resolution.";
+RL   J. Biol. Chem. 285:26255-26262(2010).
+RN   [10]
+RP   X-RAY CRYSTALLOGRAPHY (3.20 ANGSTROMS) OF 10-46 IN PHOTOSYSTEM II,
+RP   FUNCTION, COFACTOR, SUBUNIT, AND SUBCELLULAR LOCATION.
+RX   PubMed=21367867; DOI=10.1074/jbc.M110.215970;
+RA   Broser M., Glockner C., Gabdulkhakov A., Guskov A., Buchta J.,
+RA   Kern J., Muh F., Dau H., Saenger W., Zouni A.;
+RT   "Structural basis of cyanobacterial photosystem II inhibition by the
+RT   herbicide terbutryn.";
+RL   J. Biol. Chem. 286:15964-15972(2011).
+RN   [11]
+RP   X-RAY CRYSTALLOGRAPHY (6.56 ANGSTROMS) OF 10-46 IN PHOTOSYSTEM II,
+RP   COFACTOR, SUBUNIT, AND SUBCELLULAR LOCATION.
+RC   STRAIN=BP-1;
+RX   PubMed=22665786; DOI=10.1073/pnas.1204598109;
+RA   Kern J., Alonso-Mori R., Hellmich J., Tran R., Hattne J., Laksmono H.,
+RA   Glockner C., Echols N., Sierra R.G., Sellberg J., Lassalle-Kaiser B.,
+RA   Gildea R.J., Glatzel P., Grosse-Kunstleve R.W., Latimer M.J.,
+RA   McQueen T.A., DiFiore D., Fry A.R., Messerschmidt M., Miahnahri A.,
+RA   Schafer D.W., Seibert M.M., Sokaras D., Weng T.C., Zwart P.H.,
+RA   White W.E., Adams P.D., Bogan M.J., Boutet S., Williams G.J.,
+RA   Messinger J., Sauter N.K., Zouni A., Bergmann U., Yano J.,
+RA   Yachandra V.K.;
+RT   "Room temperature femtosecond X-ray diffraction of photosystem II
+RT   microcrystals.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 109:9721-9726(2012).
+RN   [12]
+RP   X-RAY CRYSTALLOGRAPHY (5.70 ANGSTROMS) IN PHOTOSYSTEM II, COFACTOR,
+RP   SUBUNIT, AND SUBCELLULAR LOCATION.
+RC   STRAIN=BP-1;
+RX   PubMed=23413188; DOI=10.1126/science.1234273;
+RA   Kern J., Alonso-Mori R., Tran R., Hattne J., Gildea R.J., Echols N.,
+RA   Glockner C., Hellmich J., Laksmono H., Sierra R.G.,
+RA   Lassalle-Kaiser B., Koroidov S., Lampe A., Han G., Gul S., Difiore D.,
+RA   Milathianaki D., Fry A.R., Miahnahri A., Schafer D.W.,
+RA   Messerschmidt M., Seibert M.M., Koglin J.E., Sokaras D., Weng T.C.,
+RA   Sellberg J., Latimer M.J., Grosse-Kunstleve R.W., Zwart P.H.,
+RA   White W.E., Glatzel P., Adams P.D., Bogan M.J., Williams G.J.,
+RA   Boutet S., Messinger J., Zouni A., Sauter N.K., Yachandra V.K.,
+RA   Bergmann U., Yano J.;
+RT   "Simultaneous femtosecond X-ray spectroscopy and diffraction of
+RT   photosystem II at room temperature.";
+RL   Science 340:491-495(2013).
+RN   [13]
+RP   X-RAY CRYSTALLOGRAPHY (5.00 ANGSTROMS) OF 10-46 IN PHOTOSYSTEM II,
+RP   COFACTOR, SUBUNIT, AND SUBCELLULAR LOCATION.
+RC   STRAIN=BP-1;
+RX   PubMed=25043005; DOI=10.1038/nature13453;
+RA   Kupitz C., Basu S., Grotjohann I., Fromme R., Zatsepin N.A.,
+RA   Rendek K.N., Hunter M.S., Shoeman R.L., White T.A., Wang D., James D.,
+RA   Yang J.H., Cobb D.E., Reeder B., Sierra R.G., Liu H., Barty A.,
+RA   Aquila A.L., Deponte D., Kirian R.A., Bari S., Bergkamp J.J.,
+RA   Beyerlein K.R., Bogan M.J., Caleman C., Chao T.C., Conrad C.E.,
+RA   Davis K.M., Fleckenstein H., Galli L., Hau-Riege S.P., Kassemeyer S.,
+RA   Laksmono H., Liang M., Lomb L., Marchesini S., Martin A.V.,
+RA   Messerschmidt M., Milathianaki D., Nass K., Ros A., Roy-Chowdhury S.,
+RA   Schmidt K., Seibert M., Steinbrener J., Stellato F., Yan L., Yoon C.,
+RA   Moore T.A., Moore A.L., Pushkar Y., Williams G.J., Boutet S.,
+RA   Doak R.B., Weierstall U., Frank M., Chapman H.N., Spence J.C.,
+RA   Fromme P.;
+RT   "Serial time-resolved crystallography of photosystem II using a
+RT   femtosecond X-ray laser.";
+RL   Nature 513:261-265(2014).
+RN   [14]
+RP   X-RAY CRYSTALLOGRAPHY (4.50 ANGSTROMS) IN PHOTOSYSTEM II, FUNCTION,
+RP   COFACTOR, SUBUNIT, AND SUBCELLULAR LOCATION.
+RC   STRAIN=BP-1;
+RX   PubMed=25006873; DOI=10.1038/ncomms5371;
+RA   Kern J., Tran R., Alonso-Mori R., Koroidov S., Echols N., Hattne J.,
+RA   Ibrahim M., Gul S., Laksmono H., Sierra R.G., Gildea R.J., Han G.,
+RA   Hellmich J., Lassalle-Kaiser B., Chatterjee R., Brewster A.S.,
+RA   Stan C.A., Gloeckner C., Lampe A., DiFiore D., Milathianaki D.,
+RA   Fry A.R., Seibert M.M., Koglin J.E., Gallo E., Uhlig J., Sokaras D.,
+RA   Weng T.C., Zwart P.H., Skinner D.E., Bogan M.J., Messerschmidt M.,
+RA   Glatzel P., Williams G.J., Boutet S., Adams P.D., Zouni A.,
+RA   Messinger J., Sauter N.K., Bergmann U., Yano J., Yachandra V.K.;
+RT   "Taking snapshots of photosynthetic water oxidation using femtosecond
+RT   X-ray diffraction and spectroscopy.";
+RL   Nat. Commun. 5:4371-4371(2014).
+CC   -!- FUNCTION: One of the components of the core complex of photosystem
+CC       II (PSII). PSII is a light-driven water:plastoquinone
+CC       oxidoreductase that uses light energy to abstract electrons from
+CC       H(2)O, generating O(2) and a proton gradient subsequently used for
+CC       ATP formation. It consists of a core antenna complex that captures
+CC       photons, and an electron transfer chain that converts photonic
+CC       excitation into a charge separation. Required for association of
+CC       PsbZ and Ycf12 with PSII (PubMed:20194360). {ECO:0000255|HAMAP-
+CC       Rule:MF_00441, ECO:0000269|PubMed:20194360,
+CC       ECO:0000269|PubMed:20558739, ECO:0000269|PubMed:21367867,
+CC       ECO:0000269|PubMed:25006873}.
+CC   -!- COFACTOR:
+CC       Note=PSII binds multiple chlorophylls, carotenoids and specific
+CC       lipids. {ECO:0000269|PubMed:14764885, ECO:0000269|PubMed:16355230,
+CC       ECO:0000269|PubMed:17935689, ECO:0000269|PubMed:17967798,
+CC       ECO:0000269|PubMed:19219048, ECO:0000269|PubMed:20558739,
+CC       ECO:0000269|PubMed:21367867, ECO:0000269|PubMed:22665786,
+CC       ECO:0000269|PubMed:23413188, ECO:0000269|PubMed:25006873,
+CC       ECO:0000269|PubMed:25043005};
+CC   -!- SUBUNIT: Cyanobacterial PSII is composed of 1 copy each of
+CC       membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI,
+CC       PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Ycf12, at least 3
+CC       peripheral proteins PsbO, PsbU, PsbV and a large number of
+CC       cofactors. It forms dimeric complexes. {ECO:0000255|HAMAP-
+CC       Rule:MF_00441, ECO:0000269|PubMed:14764885,
+CC       ECO:0000269|PubMed:16355230, ECO:0000269|PubMed:19219048,
+CC       ECO:0000269|PubMed:20194360, ECO:0000269|PubMed:20558739,
+CC       ECO:0000269|PubMed:21367867, ECO:0000269|PubMed:22665786,
+CC       ECO:0000269|PubMed:23413188, ECO:0000269|PubMed:25006873,
+CC       ECO:0000269|PubMed:25043005}.
+CC   -!- SUBCELLULAR LOCATION: Cellular thylakoid membrane
+CC       {ECO:0000255|HAMAP-Rule:MF_00441, ECO:0000269|PubMed:14764885,
+CC       ECO:0000269|PubMed:16355230, ECO:0000269|PubMed:17935689,
+CC       ECO:0000269|PubMed:17967798, ECO:0000269|PubMed:19219048,
+CC       ECO:0000269|PubMed:20194360, ECO:0000269|PubMed:20558739,
+CC       ECO:0000269|PubMed:21367867, ECO:0000269|PubMed:22665786,
+CC       ECO:0000269|PubMed:23413188, ECO:0000269|PubMed:25006873,
+CC       ECO:0000269|PubMed:25043005}; Single-pass membrane protein
+CC       {ECO:0000255|HAMAP-Rule:MF_00441, ECO:0000269|PubMed:14764885,
+CC       ECO:0000269|PubMed:16355230, ECO:0000269|PubMed:17935689,
+CC       ECO:0000269|PubMed:17967798, ECO:0000269|PubMed:19219048,
+CC       ECO:0000269|PubMed:20558739, ECO:0000269|PubMed:21367867,
+CC       ECO:0000269|PubMed:22665786, ECO:0000269|PubMed:23413188,
+CC       ECO:0000269|PubMed:25006873, ECO:0000269|PubMed:25043005}.
+CC   -!- MASS SPECTROMETRY: Mass=4103; Mass_error=4; Method=MALDI;
+CC       Range=10-46; Evidence={ECO:0000269|PubMed:19219048};
+CC   -!- MASS SPECTROMETRY: Mass=4101; Method=MALDI; Range=10-46;
+CC       Evidence={ECO:0000269|PubMed:20558739};
+CC   -!- DISRUPTION PHENOTYPE: No changes in growth under low, medium or
+CC       high light regimes (3-300 umol photon7/(2)/s). PsbZ and Ycf12 are
+CC       missing from isolated PSII, although low levels of PsbZ can be
+CC       detected in thylakoid membranes. {ECO:0000269|PubMed:20194360}.
+CC   -!- SIMILARITY: Belongs to the PsbK family. {ECO:0000255|HAMAP-
+CC       Rule:MF_00441}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AB052850; BAB20628.1; -; Genomic_DNA.
+DR   EMBL; BA000039; BAC07729.1; -; Genomic_DNA.
+DR   RefSeq; NP_680967.1; NC_004113.1.
+DR   RefSeq; WP_011056031.1; NC_004113.1.
+DR   PDB; 1S5L; X-ray; 3.50 A; K/k=10-46.
+DR   PDB; 2AXT; X-ray; 3.00 A; K/k=10-46.
+DR   PDB; 3KZI; X-ray; 3.60 A; K=10-46.
+DR   PDB; 4FBY; X-ray; 6.56 A; K/c=10-46.
+DR   PDB; 4IXQ; X-ray; 5.70 A; K/k=1-46.
+DR   PDB; 4IXR; X-ray; 5.90 A; K/k=1-46.
+DR   PDB; 4PBU; X-ray; 5.00 A; K/k=10-46.
+DR   PDB; 4PJ0; X-ray; 2.44 A; K/k=1-46.
+DR   PDB; 4Q54; X-ray; 5.50 A; K/k=10-46.
+DR   PDB; 4TNH; X-ray; 4.90 A; K/k=1-46.
+DR   PDB; 4TNI; X-ray; 4.60 A; K/k=1-46.
+DR   PDB; 4TNJ; X-ray; 4.50 A; K/k=1-46.
+DR   PDB; 4TNK; X-ray; 5.20 A; K/k=1-46.
+DR   PDB; 4V62; X-ray; 2.90 A; AK/BK=10-46.
+DR   PDB; 4V82; X-ray; 3.20 A; AK/BK=10-46.
+DR   PDBsum; 1S5L; -.
+DR   PDBsum; 2AXT; -.
+DR   PDBsum; 3KZI; -.
+DR   PDBsum; 4FBY; -.
+DR   PDBsum; 4IXQ; -.
+DR   PDBsum; 4IXR; -.
+DR   PDBsum; 4PBU; -.
+DR   PDBsum; 4PJ0; -.
+DR   PDBsum; 4Q54; -.
+DR   PDBsum; 4TNH; -.
+DR   PDBsum; 4TNI; -.
+DR   PDBsum; 4TNJ; -.
+DR   PDBsum; 4TNK; -.
+DR   PDBsum; 4V62; -.
+DR   PDBsum; 4V82; -.
+DR   ProteinModelPortal; Q9F1K9; -.
+DR   SMR; Q9F1K9; 10-46.
+DR   DIP; DIP-48496N; -.
+DR   STRING; 197221.tsl0176; -.
+DR   PRIDE; Q9F1K9; -.
+DR   EnsemblBacteria; BAC07729; BAC07729; BAC07729.
+DR   GeneID; 1010273; -.
+DR   KEGG; tel:tsl0176; -.
+DR   PATRIC; 23925544; VBITheElo119873_0182.
+DR   eggNOG; NOG09651; -.
+DR   HOGENOM; HOG000111611; -.
+DR   KO; K02712; -.
+DR   OrthoDB; EOG6HMXNW; -.
+DR   EvolutionaryTrace; Q9F1K9; -.
+DR   Proteomes; UP000000440; Chromosome.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0009539; C:photosystem II reaction center; IEA:InterPro.
+DR   GO; GO:0042651; C:thylakoid membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0015979; P:photosynthesis; IEA:UniProtKB-HAMAP.
+DR   HAMAP; MF_00441; PSII_PsbK; 1.
+DR   InterPro; IPR003687; PSII_PsbK.
+DR   Pfam; PF02533; PsbK; 1.
+DR   ProDom; PD004458; PSII_PsbK; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Direct protein sequencing; Membrane;
+KW   Photosynthesis; Photosystem II; Reaction center; Reference proteome;
+KW   Thylakoid; Transmembrane; Transmembrane helix.
+FT   PROPEP        1      9       {ECO:0000255|HAMAP-Rule:MF_00441,
+FT                                ECO:0000269|PubMed:17935689,
+FT                                ECO:0000269|PubMed:17967798}.
+FT                                /FTId=PRO_0000029543.
+FT   CHAIN        10     46       Photosystem II reaction center protein K.
+FT                                {ECO:0000255|HAMAP-Rule:MF_00441}.
+FT                                /FTId=PRO_0000029544.
+FT   TOPO_DOM     10     24       Lumenal. {ECO:0000269|PubMed:19219048}.
+FT   TRANSMEM     25     38       Helical. {ECO:0000269|PubMed:19219048}.
+FT   TOPO_DOM     39     46       Cytoplasmic.
+FT                                {ECO:0000269|PubMed:19219048}.
+FT   HELIX        13     18       {ECO:0000244|PDB:4PJ0}.
+FT   HELIX        19     22       {ECO:0000244|PDB:4PJ0}.
+FT   HELIX        25     27       {ECO:0000244|PDB:4PJ0}.
+FT   HELIX        28     42       {ECO:0000244|PDB:4PJ0}.
+FT   TURN         43     45       {ECO:0000244|PDB:2AXT}.
+SQ   SEQUENCE   46 AA;  5026 MW;  45C5197F4B50E398 CRC64;
+     MIDALVLVAK LPEAYAIFDP LVDVLPVIPV LFLALAFVWQ AAVGFR
+//

@@ -1,0 +1,160 @@
+ID   COX2_PARDE              Reviewed;         298 AA.
+AC   P08306;
+DT   01-AUG-1988, integrated into UniProtKB/Swiss-Prot.
+DT   01-AUG-1988, sequence version 1.
+DT   24-JUN-2015, entry version 123.
+DE   RecName: Full=Cytochrome c oxidase subunit 2;
+DE            EC=1.9.3.1;
+DE   AltName: Full=Cytochrome aa3 subunit 2;
+DE   AltName: Full=Cytochrome c oxidase polypeptide II;
+DE   AltName: Full=Oxidase aa(3) subunit 2;
+DE   Flags: Precursor;
+GN   Name=ctaC; Synonyms=coiI, ctaB;
+OS   Paracoccus denitrificans.
+OC   Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales;
+OC   Rhodobacteraceae; Paracoccus.
+OX   NCBI_TaxID=266;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=S1657;
+RX   PubMed=16453796;
+RA   Raitio M., Jalli T., Saraste M.;
+RT   "Isolation and analysis of the genes for cytochrome c oxidase in
+RT   Paracoccus denitrificans.";
+RL   EMBO J. 6:2825-2833(1987).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND PARTIAL PROTEIN SEQUENCE.
+RC   STRAIN=ATCC 13543 / NRRL B-3784 / NRC 449;
+RX   PubMed=2820725; DOI=10.1111/j.1432-1033.1987.tb13356.x;
+RA   Steinruecke P., Steffens G.C.M., Panskus G., Buse G., Ludwig B.;
+RT   "Subunit II of cytochrome c oxidase from Paracoccus denitrificans. DNA
+RT   sequence, gene expression and the protein.";
+RL   Eur. J. Biochem. 167:431-439(1987).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS).
+RX   PubMed=7651515; DOI=10.1038/376660a0;
+RA   Iwata S., Ostermeier C., Ludwig B., Michel H.;
+RT   "Structure at 2.8-A resolution of cytochrome c oxidase from Paracoccus
+RT   denitrificans.";
+RL   Nature 376:660-669(1995).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (2.7 ANGSTROMS).
+RX   PubMed=9380672; DOI=10.1073/pnas.94.20.10547;
+RA   Ostermeier C., Harrenga A., Ermler U., Michel H.;
+RT   "Structure at 2.7-A resolution of the Paracoccus denitrificans two-
+RT   subunit cytochrome c oxidase complexed with an antibody FV fragment.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 94:10547-10553(1997).
+CC   -!- FUNCTION: Subunits I and II form the functional core of the enzyme
+CC       complex. Electrons originating in cytochrome c are transferred via
+CC       heme a and Cu(A) to the binuclear center formed by heme a3 and
+CC       Cu(B).
+CC   -!- CATALYTIC ACTIVITY: 4 ferrocytochrome c + O(2) + 4 H(+) = 4
+CC       ferricytochrome c + 2 H(2)O.
+CC   -!- COFACTOR:
+CC       Name=binuclear copper center (CuA); Xref=ChEBI:CHEBI:47357;
+CC       Note=Binds a binuclear copper A center per subunit.;
+CC   -!- SUBCELLULAR LOCATION: Cell inner membrane; Multi-pass membrane
+CC       protein.
+CC   -!- SIMILARITY: Belongs to the cytochrome c oxidase subunit 2 family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X05828; CAA29268.1; -; Genomic_DNA.
+DR   PDB; 1AR1; X-ray; 2.70 A; B=1-298.
+DR   PDB; 1QLE; X-ray; 3.00 A; B=30-281.
+DR   PDB; 1ZYY; Model; -; B=30-281.
+DR   PDB; 3EHB; X-ray; 2.32 A; B=1-298.
+DR   PDB; 3HB3; X-ray; 2.25 A; B=1-298.
+DR   PDBsum; 1AR1; -.
+DR   PDBsum; 1QLE; -.
+DR   PDBsum; 1ZYY; -.
+DR   PDBsum; 3EHB; -.
+DR   PDBsum; 3HB3; -.
+DR   ProteinModelPortal; P08306; -.
+DR   SMR; P08306; 30-281.
+DR   DIP; DIP-6089N; -.
+DR   STRING; 318586.Pden_4321; -.
+DR   TCDB; 3.D.4.6.1; the proton-translocating cytochrome oxidase (cox) superfamily.
+DR   BRENDA; 1.9.3.1; 3341.
+DR   EvolutionaryTrace; P08306; -.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0005886; C:plasma membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0070469; C:respiratory chain; IEA:UniProtKB-KW.
+DR   GO; GO:0005507; F:copper ion binding; IEA:InterPro.
+DR   GO; GO:0004129; F:cytochrome-c oxidase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0022900; P:electron transport chain; IEA:InterPro.
+DR   Gene3D; 1.10.287.90; -; 1.
+DR   Gene3D; 2.60.40.420; -; 1.
+DR   InterPro; IPR001505; Copper_CuA.
+DR   InterPro; IPR008972; Cupredoxin.
+DR   InterPro; IPR014222; Cyt_c_oxidase_su2.
+DR   InterPro; IPR002429; Cyt_c_oxidase_su2_C.
+DR   InterPro; IPR011759; Cyt_c_oxidase_su2_TM_dom.
+DR   Pfam; PF00116; COX2; 1.
+DR   Pfam; PF02790; COX2_TM; 1.
+DR   SUPFAM; SSF49503; SSF49503; 1.
+DR   SUPFAM; SSF81464; SSF81464; 1.
+DR   TIGRFAMs; TIGR02866; CoxB; 1.
+DR   PROSITE; PS00078; COX2; 1.
+DR   PROSITE; PS50857; COX2_CUA; 1.
+DR   PROSITE; PS50999; COX2_TM; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cell inner membrane; Cell membrane; Copper;
+KW   Direct protein sequencing; Electron transport; Membrane;
+KW   Metal-binding; Oxidoreductase; Pyrrolidone carboxylic acid;
+KW   Respiratory chain; Signal; Transmembrane; Transmembrane helix;
+KW   Transport.
+FT   SIGNAL        1     29
+FT   CHAIN        30    280       Cytochrome c oxidase subunit 2.
+FT                                /FTId=PRO_0000006059.
+FT   PROPEP      281    298       C-terminal propeptide.
+FT                                /FTId=PRO_0000006060.
+FT   TOPO_DOM     30     55       Periplasmic.
+FT   TRANSMEM     56     88       Helical.
+FT   TOPO_DOM     89    103       Cytoplasmic.
+FT   TRANSMEM    104    134       Helical.
+FT   TOPO_DOM    135    280       Periplasmic.
+FT   METAL       210    210       Copper A1.
+FT   METAL       245    245       Copper A1.
+FT   METAL       245    245       Copper A2.
+FT   METAL       247    247       Copper A2; via carbonyl oxygen.
+FT   METAL       249    249       Copper A1.
+FT   METAL       249    249       Copper A2.
+FT   METAL       253    253       Copper A2.
+FT   METAL       256    256       Copper A1.
+FT   MOD_RES      30     30       Pyrrolidone carboxylic acid.
+FT   CONFLICT    160    161       GV -> AF (in Ref. 2; AA sequence).
+FT                                {ECO:0000305}.
+FT   TURN         32     35       {ECO:0000244|PDB:3EHB}.
+FT   STRAND       38     40       {ECO:0000244|PDB:3HB3}.
+FT   HELIX        55     88       {ECO:0000244|PDB:3HB3}.
+FT   TURN         91     93       {ECO:0000244|PDB:3HB3}.
+FT   STRAND       94     96       {ECO:0000244|PDB:3HB3}.
+FT   HELIX       104    133       {ECO:0000244|PDB:3HB3}.
+FT   STRAND      140    148       {ECO:0000244|PDB:3HB3}.
+FT   STRAND      151    156       {ECO:0000244|PDB:3HB3}.
+FT   TURN        157    160       {ECO:0000244|PDB:3HB3}.
+FT   STRAND      161    165       {ECO:0000244|PDB:3HB3}.
+FT   HELIX       170    172       {ECO:0000244|PDB:3HB3}.
+FT   HELIX       174    176       {ECO:0000244|PDB:3HB3}.
+FT   HELIX       180    182       {ECO:0000244|PDB:3HB3}.
+FT   TURN        183    185       {ECO:0000244|PDB:3HB3}.
+FT   STRAND      187    189       {ECO:0000244|PDB:3HB3}.
+FT   STRAND      191    208       {ECO:0000244|PDB:3HB3}.
+FT   STRAND      210    214       {ECO:0000244|PDB:3HB3}.
+FT   HELIX       215    217       {ECO:0000244|PDB:3HB3}.
+FT   STRAND      219    223       {ECO:0000244|PDB:3HB3}.
+FT   STRAND      229    234       {ECO:0000244|PDB:3HB3}.
+FT   STRAND      236    243       {ECO:0000244|PDB:3HB3}.
+FT   TURN        251    254       {ECO:0000244|PDB:3HB3}.
+FT   STRAND      258    263       {ECO:0000244|PDB:3HB3}.
+FT   HELIX       265    278       {ECO:0000244|PDB:3HB3}.
+SQ   SEQUENCE   298 AA;  32539 MW;  918A64A9E3B93366 CRC64;
+     MMAIATKRRG VAAVMSLGVA TMTAVPALAQ DVLGDLPVIG KPVNGGMNFQ PASSPLAHDQ
+     QWLDHFVLYI ITAVTIFVCL LLLICIVRFN RRANPVPARF THNTPIEVIW TLVPVLILVA
+     IGAFSLPILF RSQEMPNDPD LVIKAIGHQW YWSYEYPNDG VAFDALMLEK EALADAGYSE
+     DEYLLATDNP VVVPVGKKVL VQVTATDVIH AWTIPAFAVK QDAVPGRIAQ LWFSVDQEGV
+     YFGQCSELCG INHAYMPIVV KAVSQEKYEA WLAGAKEEFA ADASDYLPAS PVKLASAE
+//

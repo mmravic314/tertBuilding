@@ -1,0 +1,86 @@
+ID   MT1_HOMAM               Reviewed;          58 AA.
+AC   P29499;
+DT   01-APR-1993, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1997, sequence version 2.
+DT   26-NOV-2014, entry version 66.
+DE   RecName: Full=Metallothionein-1;
+DE   AltName: Full=CuMT-1;
+OS   Homarus americanus (American lobster).
+OC   Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea; Malacostraca;
+OC   Eumalacostraca; Eucarida; Decapoda; Pleocyemata; Astacidea;
+OC   Nephropoidea; Nephropidae; Homarus.
+OX   NCBI_TaxID=6706;
+RN   [1]
+RP   PROTEIN SEQUENCE.
+RC   TISSUE=Hepatopancreas;
+RX   PubMed=2709004; DOI=10.1016/0162-0134(89)84018-8;
+RA   Brouwer M., Winge D.R., Gray W.R.;
+RT   "Structural and functional diversity of copper-metallothioneins from
+RT   the American lobster Homarus americanus.";
+RL   J. Inorg. Biochem. 35:289-303(1989).
+RN   [2]
+RP   STRUCTURE BY NMR.
+RX   PubMed=8043573; DOI=10.1021/bi00196a002;
+RA   Zhu Z., Derose E.F., Mullen G.P., Petering D.H., Shaw C.F. III;
+RT   "Sequential proton resonance assignments and metal cluster topology of
+RT   lobster metallothionein-1.";
+RL   Biochemistry 33:8858-8865(1994).
+CC   -!- FUNCTION: Metallothioneins have a high content of cysteine
+CC       residues that bind various heavy metals. The different forms of
+CC       lobster metallothioneins may have different biological functions.
+CC       Class I MTS in marine crustacea are involved in the sequestration
+CC       of elevated levels of heavy-metal ions. Binds 6 metal ions. Known
+CC       to bind cadmium.
+CC   -!- SIMILARITY: Belongs to the metallothionein superfamily. Type 3
+CC       family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   PIR; A37039; A37039.
+DR   PDB; 1J5L; NMR; -; A=29-56.
+DR   PDB; 1J5M; NMR; -; A=1-28.
+DR   PDBsum; 1J5L; -.
+DR   PDBsum; 1J5M; -.
+DR   ProteinModelPortal; P29499; -.
+DR   SMR; P29499; 1-28.
+DR   EvolutionaryTrace; P29499; -.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   InterPro; IPR002045; Metalthion_3_crustacean.
+DR   InterPro; IPR017854; Metalthion_dom.
+DR   InterPro; IPR003019; Metalthion_sfam_euk.
+DR   Pfam; PF00131; Metallothio; 1.
+DR   PRINTS; PR00858; MTCRUSTACEAN.
+DR   SUPFAM; SSF57868; SSF57868; 2.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cadmium; Copper; Direct protein sequencing;
+KW   Metal-binding; Metal-thiolate cluster.
+FT   CHAIN         1     58       Metallothionein-1.
+FT                                /FTId=PRO_0000197342.
+FT   REGION        1     28       Beta.
+FT   REGION       29     58       Alpha.
+FT   METAL         4      4       Divalent metal cation; cluster B.
+FT   METAL         5      5       Divalent metal cation; cluster B.
+FT   METAL         9      9       Divalent metal cation; cluster B.
+FT   METAL        11     11       Divalent metal cation; cluster B.
+FT   METAL        16     16       Divalent metal cation; cluster B.
+FT   METAL        20     20       Divalent metal cation; cluster B.
+FT   METAL        22     22       Divalent metal cation; cluster B.
+FT   METAL        25     25       Divalent metal cation; cluster B.
+FT   METAL        27     27       Divalent metal cation; cluster B.
+FT   METAL        30     30       Divalent metal cation; cluster A.
+FT   METAL        33     33       Divalent metal cation; cluster A.
+FT   METAL        37     37       Divalent metal cation; cluster A.
+FT   METAL        39     39       Divalent metal cation; cluster A.
+FT   METAL        45     45       Divalent metal cation; cluster A.
+FT   METAL        49     49       Divalent metal cation; cluster A.
+FT   METAL        53     53       Divalent metal cation; cluster A.
+FT   METAL        55     55       Divalent metal cation; cluster A.
+FT   METAL        56     56       Divalent metal cation; cluster A.
+FT   STRAND        6      8       {ECO:0000244|PDB:1J5M}.
+FT   STRAND       11     14       {ECO:0000244|PDB:1J5M}.
+FT   HELIX        31     33       {ECO:0000244|PDB:1J5L}.
+FT   HELIX        45     48       {ECO:0000244|PDB:1J5L}.
+SQ   SEQUENCE   58 AA;  5977 MW;  176ABAAF60A32F96 CRC64;
+     PGPCCKDKCE CAEGGCKTGC KCTSCRCAPC EKCTSGCKCP SKDECAKTCS KPCSCCXX
+//

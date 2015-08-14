@@ -1,0 +1,282 @@
+ID   Q76353_9HIV1            Unreviewed;       288 AA.
+AC   Q76353;
+DT   01-NOV-1996, integrated into UniProtKB/TrEMBL.
+DT   01-NOV-1996, sequence version 1.
+DT   29-APR-2015, entry version 106.
+DE   SubName: Full=Integrase {ECO:0000313|EMBL:AAC37875.1};
+DE   Flags: Fragment;
+OS   Human immunodeficiency virus 1.
+OC   Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae;
+OC   Lentivirus; Primate lentivirus group.
+OX   NCBI_TaxID=11676 {ECO:0000313|EMBL:AAC37875.1};
+OH   NCBI_TaxID=9606; Homo sapiens (Human).
+RN   [1] {ECO:0000313|EMBL:AAC37875.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=NY5 {ECO:0000313|EMBL:AAC37875.1};
+RX   PubMed=7916726; DOI=10.1016/0378-1119(93)90488-O;
+RA   Holler T.P., Foltin S.K., Ye Q.Z., Hupe D.J.;
+RT   "HIV1 integrase expressed in Escherichia coli from a synthetic gene.";
+RL   Gene 136:323-328(1993).
+RN   [2] {ECO:0000213|PDB:1HYV, ECO:0000213|PDB:1HYZ}
+RP   X-RAY CRYSTALLOGRAPHY (1.70 ANGSTROMS) OF 47-212.
+RX   PubMed=11264582; DOI=10.1107/S0907444901001652;
+RA   Molteni V., Greenwald J., Rhodes D., Hwang Y., Kwiatkowski W.,
+RA   Bushman F.D., Siegel J.S., Choe S.;
+RT   "Identification of a small-molecule binding site at the dimer
+RT   interface of the HIV integrase catalytic domain.";
+RL   Acta Crystallogr. D 57:536-544(2001).
+RN   [3] {ECO:0000213|PDB:3ZCM, ECO:0000213|PDB:3ZSO, ECO:0000213|PDB:3ZSQ}
+RP   X-RAY CRYSTALLOGRAPHY (1.70 ANGSTROMS) OF 56-212.
+RX   PubMed=22808106; DOI=10.1371/journal.pone.0040147;
+RA   Peat T.S., Rhodes D.I., Vandegraaff N., Le G., Smith J.A., Clark L.J.,
+RA   Jones E.D., Coates J.A., Thienthong N., Newman J., Dolezal O.,
+RA   Mulder R., Ryan J.H., Savage G.P., Francis C.L., Deadman J.J.;
+RT   "Small molecule inhibitors of the LEDGF site of human immunodeficiency
+RT   virus integrase identified by fragment screening and structure based
+RT   design.";
+RL   PLoS ONE 7:e40147-e40147(2012).
+RN   [4] {ECO:0000213|PDB:4LH4, ECO:0000213|PDB:4LH5}
+RP   X-RAY CRYSTALLOGRAPHY (1.80 ANGSTROMS) OF 50-212.
+RX   PubMed=24261564;
+RA   Le Rouzic E., Bonnard D., Chasset S., Bruneau J.M., Chevreuil F.,
+RA   Le Strat F., Nguyen J., Beauvoir R., Amadori C., Brias J.,
+RA   Vomscheid S., Eiler S., Levy N., Delelis O., Deprez E., Saib A.,
+RA   Zamborlini A., Emiliani S., Ruff M., Ledoussal B., Moreau F.,
+RA   Benarous R.;
+RT   "Dual inhibition of HIV-1 replication by integrase-LEDGF allosteric
+RT   inhibitors is predominant at the post-integration stage.";
+RL   Retrovirology 10:144-144(2013).
+RN   [5] {ECO:0000213|PDB:4CE9, ECO:0000213|PDB:4CEA, ECO:0000213|PDB:4CEB}
+RP   X-RAY CRYSTALLOGRAPHY (1.65 ANGSTROMS) OF 50-212.
+RX   PubMed=24532034;
+RA   Peat T.S., Dolezal O., Newman J., Mobley D., Deadman J.J.;
+RT   "Interrogating HIV integrase for compounds that bind--a SAMPL
+RT   challenge.";
+RL   J. Comput. Aided Mol. Des. 28:347-362(2014).
+RN   [6] {ECO:0000213|PDB:4Y1C}
+RP   X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) OF 50-212.
+RA   Northfield S.E., Wielens J., Headey S.J., Mulcair M., Scanlon M.J.,
+RA   Parker M.W., Thompson P.E., Chalmers D.K.;
+RT   "HEXAPEPTIDE MIMETICS OF LEDGF IN COMPLEX WITH HIV-1 INTEGRASE.";
+RL   Submitted (FEB-2015) to the PDB data bank.
+CC   -!- CATALYTIC ACTIVITY: Deoxynucleoside triphosphate + DNA(n) =
+CC       diphosphate + DNA(n+1). {ECO:0000256|SAAS:SAAS00127236}.
+CC   -!- INTERACTION:
+CC       Q7Z4H3:HDDC2 (xeno); NbExp=2; IntAct=EBI-6248077, EBI-6163836;
+CC       Q9H583:HEATR1 (xeno); NbExp=3; IntAct=EBI-6248077, EBI-1048716;
+CC       Q14566:MCM6 (xeno); NbExp=2; IntAct=EBI-6248077, EBI-374900;
+CC       P13667:PDIA4 (xeno); NbExp=3; IntAct=EBI-6248077, EBI-1054653;
+CC       Q9Y263:PLAA (xeno); NbExp=3; IntAct=EBI-6248077, EBI-1994037;
+CC       O60518:RANBP6 (xeno); NbExp=2; IntAct=EBI-6248077, EBI-1055771;
+CC       P22314:UBA1 (xeno); NbExp=2; IntAct=EBI-6248077, EBI-709688;
+CC       P31946:YWHAB (xeno); NbExp=3; IntAct=EBI-6248077, EBI-359815;
+CC   -!- SIMILARITY: Contains RNase H domain.
+CC       {ECO:0000256|SAAS:SAAS00127062}.
+CC   -!- SIMILARITY: Contains integrase catalytic domain.
+CC       {ECO:0000256|SAAS:SAAS00127075}.
+CC   -!- SIMILARITY: Contains integrase-type DNA-binding domain.
+CC       {ECO:0000256|SAAS:SAAS00125547}.
+CC   -!- SIMILARITY: Contains integrase-type zinc finger.
+CC       {ECO:0000256|SAAS:SAAS00098259}.
+CC   -!- SIMILARITY: Contains reverse transcriptase domain.
+CC       {ECO:0000256|SAAS:SAAS00127047}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; L21188; AAC37875.1; -; Unassigned_RNA.
+DR   PDB; 1HYV; X-ray; 1.70 A; A=47-212.
+DR   PDB; 1HYZ; X-ray; 2.30 A; A=47-212.
+DR   PDB; 3ZCM; X-ray; 1.80 A; A/B=56-212.
+DR   PDB; 3ZSO; X-ray; 1.75 A; A/B=56-212.
+DR   PDB; 3ZSQ; X-ray; 1.70 A; A/B=56-212.
+DR   PDB; 3ZSR; X-ray; 1.70 A; A/B=56-212.
+DR   PDB; 3ZSV; X-ray; 1.75 A; A/B=56-212.
+DR   PDB; 3ZSW; X-ray; 1.80 A; A/B=56-212.
+DR   PDB; 3ZSX; X-ray; 1.95 A; A/B=56-212.
+DR   PDB; 3ZSY; X-ray; 2.20 A; A/B=56-212.
+DR   PDB; 3ZSZ; X-ray; 2.00 A; A/B=56-212.
+DR   PDB; 3ZT0; X-ray; 1.95 A; A/B=56-212.
+DR   PDB; 3ZT1; X-ray; 1.75 A; A/B=56-212.
+DR   PDB; 3ZT2; X-ray; 1.70 A; A/B=56-212.
+DR   PDB; 3ZT3; X-ray; 1.95 A; A/B=56-212.
+DR   PDB; 3ZT4; X-ray; 2.20 A; A/B=56-212.
+DR   PDB; 4CE9; X-ray; 2.10 A; A/B=50-212.
+DR   PDB; 4CEA; X-ray; 1.80 A; A/B=50-212.
+DR   PDB; 4CEB; X-ray; 1.75 A; A/B=50-212.
+DR   PDB; 4CEC; X-ray; 1.75 A; A/B=50-212.
+DR   PDB; 4CED; X-ray; 1.75 A; A/B=50-212.
+DR   PDB; 4CEE; X-ray; 1.80 A; A/B=50-212.
+DR   PDB; 4CEF; X-ray; 1.70 A; A/B=50-212.
+DR   PDB; 4CEO; X-ray; 1.90 A; A/B=50-212.
+DR   PDB; 4CEQ; X-ray; 1.70 A; A/B=50-212.
+DR   PDB; 4CER; X-ray; 1.70 A; A/B=50-212.
+DR   PDB; 4CES; X-ray; 1.85 A; A/B=50-212.
+DR   PDB; 4CEZ; X-ray; 1.70 A; A/B=50-212.
+DR   PDB; 4CF0; X-ray; 1.85 A; A/B=50-212.
+DR   PDB; 4CF1; X-ray; 1.95 A; A/B=50-212.
+DR   PDB; 4CF2; X-ray; 1.95 A; A/B=50-212.
+DR   PDB; 4CF8; X-ray; 1.65 A; A/B=50-212.
+DR   PDB; 4CF9; X-ray; 2.10 A; A/B=50-212.
+DR   PDB; 4CFA; X-ray; 2.05 A; A/B=50-212.
+DR   PDB; 4CFB; X-ray; 1.95 A; A/B=50-212.
+DR   PDB; 4CFC; X-ray; 1.90 A; A/B=50-212.
+DR   PDB; 4CFD; X-ray; 2.15 A; A/B=50-212.
+DR   PDB; 4CGD; X-ray; 2.00 A; A/B=50-212.
+DR   PDB; 4CGF; X-ray; 1.70 A; A/B=50-212.
+DR   PDB; 4CGG; X-ray; 1.75 A; A/B=50-212.
+DR   PDB; 4CGH; X-ray; 1.76 A; A/B=50-212.
+DR   PDB; 4CGI; X-ray; 2.07 A; A/B=50-212.
+DR   PDB; 4CGJ; X-ray; 2.15 A; A/B=50-212.
+DR   PDB; 4CHN; X-ray; 2.00 A; A/B=50-212.
+DR   PDB; 4CHO; X-ray; 1.70 A; A/B=50-212.
+DR   PDB; 4CHP; X-ray; 1.90 A; A/B=50-212.
+DR   PDB; 4CHQ; X-ray; 1.95 A; A/B=50-212.
+DR   PDB; 4CHY; X-ray; 1.70 A; A/B=50-212.
+DR   PDB; 4CHZ; X-ray; 1.80 A; A/B=50-212.
+DR   PDB; 4CIE; X-ray; 1.70 A; A/B=50-212.
+DR   PDB; 4CIF; X-ray; 1.80 A; A/B=50-212.
+DR   PDB; 4CIG; X-ray; 1.70 A; A/B=50-212.
+DR   PDB; 4CJ3; X-ray; 1.70 A; A/B=50-212.
+DR   PDB; 4CJ4; X-ray; 1.80 A; A/B=50-212.
+DR   PDB; 4CJ5; X-ray; 1.95 A; A/B=50-212.
+DR   PDB; 4CJE; X-ray; 1.90 A; A/B=50-212.
+DR   PDB; 4CJF; X-ray; 1.90 A; A/B=50-212.
+DR   PDB; 4CJK; X-ray; 1.75 A; A/B=50-212.
+DR   PDB; 4CJL; X-ray; 1.77 A; A=50-212.
+DR   PDB; 4CJP; X-ray; 2.00 A; A/B=50-212.
+DR   PDB; 4CJQ; X-ray; 1.70 A; A/B=50-212.
+DR   PDB; 4CJR; X-ray; 1.80 A; A/B=50-212.
+DR   PDB; 4CJS; X-ray; 1.80 A; A/B=50-212.
+DR   PDB; 4CJT; X-ray; 1.71 A; A/B=50-212.
+DR   PDB; 4CJU; X-ray; 1.70 A; A/B=50-212.
+DR   PDB; 4CJV; X-ray; 1.95 A; A/B=50-212.
+DR   PDB; 4CJW; X-ray; 1.95 A; A/B=50-212.
+DR   PDB; 4CK1; X-ray; 1.75 A; A/B=50-212.
+DR   PDB; 4CK2; X-ray; 1.85 A; A/B=50-212.
+DR   PDB; 4CK3; X-ray; 1.79 A; A/B=50-212.
+DR   PDB; 4LH4; X-ray; 1.80 A; A=50-212.
+DR   PDB; 4LH5; X-ray; 2.19 A; A=50-212.
+DR   PDB; 4OVL; X-ray; 1.70 A; A/B=50-212.
+DR   PDB; 4Y1C; X-ray; 2.30 A; A/B=50-212.
+DR   PDBsum; 1HYV; -.
+DR   PDBsum; 1HYZ; -.
+DR   PDBsum; 3ZCM; -.
+DR   PDBsum; 3ZSO; -.
+DR   PDBsum; 3ZSQ; -.
+DR   PDBsum; 3ZSR; -.
+DR   PDBsum; 3ZSV; -.
+DR   PDBsum; 3ZSW; -.
+DR   PDBsum; 3ZSX; -.
+DR   PDBsum; 3ZSY; -.
+DR   PDBsum; 3ZSZ; -.
+DR   PDBsum; 3ZT0; -.
+DR   PDBsum; 3ZT1; -.
+DR   PDBsum; 3ZT2; -.
+DR   PDBsum; 3ZT3; -.
+DR   PDBsum; 3ZT4; -.
+DR   PDBsum; 4CE9; -.
+DR   PDBsum; 4CEA; -.
+DR   PDBsum; 4CEB; -.
+DR   PDBsum; 4CEC; -.
+DR   PDBsum; 4CED; -.
+DR   PDBsum; 4CEE; -.
+DR   PDBsum; 4CEF; -.
+DR   PDBsum; 4CEO; -.
+DR   PDBsum; 4CEQ; -.
+DR   PDBsum; 4CER; -.
+DR   PDBsum; 4CES; -.
+DR   PDBsum; 4CEZ; -.
+DR   PDBsum; 4CF0; -.
+DR   PDBsum; 4CF1; -.
+DR   PDBsum; 4CF2; -.
+DR   PDBsum; 4CF8; -.
+DR   PDBsum; 4CF9; -.
+DR   PDBsum; 4CFA; -.
+DR   PDBsum; 4CFB; -.
+DR   PDBsum; 4CFC; -.
+DR   PDBsum; 4CFD; -.
+DR   PDBsum; 4CGD; -.
+DR   PDBsum; 4CGF; -.
+DR   PDBsum; 4CGG; -.
+DR   PDBsum; 4CGH; -.
+DR   PDBsum; 4CGI; -.
+DR   PDBsum; 4CGJ; -.
+DR   PDBsum; 4CHN; -.
+DR   PDBsum; 4CHO; -.
+DR   PDBsum; 4CHP; -.
+DR   PDBsum; 4CHQ; -.
+DR   PDBsum; 4CHY; -.
+DR   PDBsum; 4CHZ; -.
+DR   PDBsum; 4CIE; -.
+DR   PDBsum; 4CIF; -.
+DR   PDBsum; 4CIG; -.
+DR   PDBsum; 4CJ3; -.
+DR   PDBsum; 4CJ4; -.
+DR   PDBsum; 4CJ5; -.
+DR   PDBsum; 4CJE; -.
+DR   PDBsum; 4CJF; -.
+DR   PDBsum; 4CJK; -.
+DR   PDBsum; 4CJL; -.
+DR   PDBsum; 4CJP; -.
+DR   PDBsum; 4CJQ; -.
+DR   PDBsum; 4CJR; -.
+DR   PDBsum; 4CJS; -.
+DR   PDBsum; 4CJT; -.
+DR   PDBsum; 4CJU; -.
+DR   PDBsum; 4CJV; -.
+DR   PDBsum; 4CJW; -.
+DR   PDBsum; 4CK1; -.
+DR   PDBsum; 4CK2; -.
+DR   PDBsum; 4CK3; -.
+DR   PDBsum; 4LH4; -.
+DR   PDBsum; 4LH5; -.
+DR   PDBsum; 4OVL; -.
+DR   PDBsum; 4Y1C; -.
+DR   ProteinModelPortal; Q76353; -.
+DR   IntAct; Q76353; 25.
+DR   ChEMBL; CHEMBL2366505; -.
+DR   EvolutionaryTrace; Q76353; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004519; F:endonuclease activity; IEA:UniProtKB-KW.
+DR   GO; GO:0003964; F:RNA-directed DNA polymerase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:InterPro.
+DR   GO; GO:0015074; P:DNA integration; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.10.200; -; 1.
+DR   Gene3D; 2.30.30.10; -; 1.
+DR   Gene3D; 3.30.420.10; -; 1.
+DR   InterPro; IPR001037; Integrase_C_retrovir.
+DR   InterPro; IPR001584; Integrase_cat-core.
+DR   InterPro; IPR017856; Integrase_Zn-bd_dom-like_N.
+DR   InterPro; IPR003308; Integrase_Zn-bd_dom_N.
+DR   InterPro; IPR012337; RNaseH-like_dom.
+DR   Pfam; PF00552; IN_DBD_C; 1.
+DR   Pfam; PF02022; Integrase_Zn; 1.
+DR   Pfam; PF00665; rve; 1.
+DR   SUPFAM; SSF46919; SSF46919; 1.
+DR   SUPFAM; SSF50122; SSF50122; 1.
+DR   SUPFAM; SSF53098; SSF53098; 1.
+DR   PROSITE; PS50994; INTEGRASE; 1.
+DR   PROSITE; PS51027; INTEGRASE_DBD; 1.
+DR   PROSITE; PS50876; ZF_INTEGRASE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:1HYV, ECO:0000213|PDB:1HYZ};
+KW   DNA integration {ECO:0000256|SAAS:SAAS00127042};
+KW   DNA-binding {ECO:0000256|SAAS:SAAS00125342};
+KW   Endonuclease {ECO:0000256|SAAS:SAAS00126999};
+KW   Hydrolase {ECO:0000256|SAAS:SAAS00126999};
+KW   Metal-binding {ECO:0000256|SAAS:SAAS00098212};
+KW   Nuclease {ECO:0000256|SAAS:SAAS00126999};
+KW   Nucleotidyltransferase {ECO:0000256|SAAS:SAAS00127349};
+KW   RNA-directed DNA polymerase {ECO:0000256|SAAS:SAAS00127349};
+KW   Transferase {ECO:0000256|SAAS:SAAS00127349};
+KW   Zinc {ECO:0000256|SAAS:SAAS00098212};
+KW   Zinc-finger {ECO:0000256|SAAS:SAAS00098212}.
+FT   NON_TER       1      1       {ECO:0000313|EMBL:AAC37875.1}.
+SQ   SEQUENCE   288 AA;  32199 MW;  0680E5CD1E201580 CRC64;
+     FLDGIDKAQE EHEKYHSNWR AMASDFNLPP VVAKEIVASC DKCQLKGEAM HGQVDCSPGI
+     WQLDCTHLEG KVILVAVHVA SGYIEAEVIP AETGQETAYF LLKLAGRWPV KTVHTDNGSN
+     FTSTTVKAAC WWAGIKQEFG IPYNPQSQGV IESMNKELKK IIGQVRDQAE HLKTAVQMAV
+     FIHNFKRKGG IGGYSAGERI VDIIATDIQT KELQKQITKI QNFRVYYRDS RDPVWKGPAK
+     LLWKGEGAVV IQDNSDIKVV PRRKAKIIRD YGKQMAGDDC VASRQDED
+//

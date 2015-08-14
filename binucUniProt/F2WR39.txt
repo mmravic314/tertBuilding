@@ -1,0 +1,104 @@
+ID   F2WR39_9HIV1            Unreviewed;       288 AA.
+AC   F2WR39;
+DT   31-MAY-2011, integrated into UniProtKB/TrEMBL.
+DT   31-MAY-2011, sequence version 1.
+DT   22-JUL-2015, entry version 26.
+DE   SubName: Full=Integrase {ECO:0000313|EMBL:AEA11266.1};
+DE   Flags: Fragment;
+GN   Name=pol {ECO:0000313|EMBL:AEA11266.1};
+OS   Human immunodeficiency virus 1.
+OC   Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae;
+OC   Lentivirus; Primate lentivirus group.
+OX   NCBI_TaxID=11676 {ECO:0000313|EMBL:AEA11266.1};
+OH   NCBI_TaxID=9606; Homo sapiens (Human).
+RN   [1] {ECO:0000313|EMBL:AEA11266.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=10287 {ECO:0000313|EMBL:AEA11266.1};
+RX   PubMed=21360548; DOI=10.1002/jmv.22047;
+RA   Brenner B.G., Lowe M., Moisi D., Hardy I., Gagnon S., Charest H.,
+RA   Baril J.G., Wainberg M.A., Roger M.;
+RT   "Subtype diversity associated with the development of HIV-1 resistance
+RT   to integrase inhibitors.";
+RL   J. Med. Virol. 83:751-759(2011).
+RN   [2] {ECO:0000213|PDB:4TSX}
+RP   X-RAY CRYSTALLOGRAPHY (1.94 ANGSTROMS) OF 50-212.
+RX   PubMed=25421939; DOI=10.1186/s12977-014-0100-1;
+RA   Slaughter A., Jurado K.A., Deng N., Feng L., Kessl J.J., Shkriabai N.,
+RA   Larue R.C., Fadel H.J., Patel P.A., Jena N., Fuchs J.R., Poeschla E.,
+RA   Levy R.M., Engelman A., Kvaratskhelia M.;
+RT   "The mechanism of H171T resistance reveals the importance of Ndelta-
+RT   protonated His171 for the binding of allosteric inhibitor BI-D to HIV-
+RT   1 integrase.";
+RL   Retrovirology 11:100-100(2014).
+RN   [3] {ECO:0000213|PDB:4Y1D}
+RP   X-RAY CRYSTALLOGRAPHY (1.93 ANGSTROMS) OF 50-212.
+RA   Northfield S.E., Wielens J., Headey S.J., Mulcair M., Scanlon M.J.,
+RA   Parker M.W., Thompson P.E., Chalmers D.K.;
+RT   "HEXAPEPTIDE MIMETICS OF LEDGF IN COMPLEX WITH HIV-1 INTEGRASE.";
+RL   Submitted (FEB-2015) to the PDB data bank.
+CC   -!- CATALYTIC ACTIVITY: Deoxynucleoside triphosphate + DNA(n) =
+CC       diphosphate + DNA(n+1). {ECO:0000256|SAAS:SAAS00127236}.
+CC   -!- SIMILARITY: Contains RNase H domain.
+CC       {ECO:0000256|SAAS:SAAS00127062}.
+CC   -!- SIMILARITY: Contains integrase catalytic domain.
+CC       {ECO:0000256|SAAS:SAAS00127075}.
+CC   -!- SIMILARITY: Contains integrase-type DNA-binding domain.
+CC       {ECO:0000256|SAAS:SAAS00125547}.
+CC   -!- SIMILARITY: Contains integrase-type zinc finger.
+CC       {ECO:0000256|SAAS:SAAS00098259}.
+CC   -!- SIMILARITY: Contains reverse transcriptase domain.
+CC       {ECO:0000256|SAAS:SAAS00127047}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; HQ207714; AEA11266.1; -; Genomic_RNA.
+DR   PDB; 4TSX; X-ray; 1.94 A; A=50-212.
+DR   PDB; 4Y1D; X-ray; 1.93 A; A/B=50-212.
+DR   PDBsum; 4TSX; -.
+DR   PDBsum; 4Y1D; -.
+DR   ProteinModelPortal; F2WR39; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004519; F:endonuclease activity; IEA:UniProtKB-KW.
+DR   GO; GO:0003964; F:RNA-directed DNA polymerase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:InterPro.
+DR   GO; GO:0015074; P:DNA integration; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.10.200; -; 1.
+DR   Gene3D; 2.30.30.10; -; 1.
+DR   Gene3D; 3.30.420.10; -; 1.
+DR   InterPro; IPR001037; Integrase_C_retrovir.
+DR   InterPro; IPR001584; Integrase_cat-core.
+DR   InterPro; IPR017856; Integrase_Zn-bd_dom-like_N.
+DR   InterPro; IPR003308; Integrase_Zn-bd_dom_N.
+DR   InterPro; IPR012337; RNaseH-like_dom.
+DR   Pfam; PF00552; IN_DBD_C; 1.
+DR   Pfam; PF02022; Integrase_Zn; 1.
+DR   Pfam; PF00665; rve; 1.
+DR   SUPFAM; SSF46919; SSF46919; 1.
+DR   SUPFAM; SSF50122; SSF50122; 1.
+DR   SUPFAM; SSF53098; SSF53098; 1.
+DR   PROSITE; PS50994; INTEGRASE; 1.
+DR   PROSITE; PS51027; INTEGRASE_DBD; 1.
+DR   PROSITE; PS50876; ZF_INTEGRASE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4TSX, ECO:0000213|PDB:4Y1D};
+KW   DNA integration {ECO:0000256|SAAS:SAAS00127042};
+KW   DNA-binding {ECO:0000256|SAAS:SAAS00125342};
+KW   Endonuclease {ECO:0000256|SAAS:SAAS00126999};
+KW   Hydrolase {ECO:0000256|SAAS:SAAS00126999};
+KW   Metal-binding {ECO:0000256|SAAS:SAAS00098212};
+KW   Nuclease {ECO:0000256|SAAS:SAAS00126999};
+KW   Nucleotidyltransferase {ECO:0000256|SAAS:SAAS00127349};
+KW   RNA-directed DNA polymerase {ECO:0000256|SAAS:SAAS00127349};
+KW   Transferase {ECO:0000256|SAAS:SAAS00127349};
+KW   Zinc {ECO:0000256|SAAS:SAAS00098212};
+KW   Zinc-finger {ECO:0000256|SAAS:SAAS00098212}.
+FT   NON_TER       1      1       {ECO:0000313|EMBL:AEA11266.1}.
+FT   NON_TER     288    288       {ECO:0000313|EMBL:AEA11266.1}.
+SQ   SEQUENCE   288 AA;  32199 MW;  0680E5CD1E201580 CRC64;
+     FLDGIDKAQE EHEKYHSNWR AMASDFNLPP VVAKEIVASC DKCQLKGEAM HGQVDCSPGI
+     WQLDCTHLEG KVILVAVHVA SGYIEAEVIP AETGQETAYF LLKLAGRWPV KTVHTDNGSN
+     FTSTTVKAAC WWAGIKQEFG IPYNPQSQGV IESMNKELKK IIGQVRDQAE HLKTAVQMAV
+     FIHNFKRKGG IGGYSAGERI VDIIATDIQT KELQKQITKI QNFRVYYRDS RDPVWKGPAK
+     LLWKGEGAVV IQDNSDIKVV PRRKAKIIRD YGKQMAGDDC VASRQDED
+//

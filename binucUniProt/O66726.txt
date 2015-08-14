@@ -1,0 +1,116 @@
+ID   PYRB_AQUAE              Reviewed;         291 AA.
+AC   O66726;
+DT   30-MAY-2000, integrated into UniProtKB/Swiss-Prot.
+DT   01-AUG-1998, sequence version 1.
+DT   22-JUL-2015, entry version 108.
+DE   RecName: Full=Aspartate carbamoyltransferase;
+DE            EC=2.1.3.2;
+DE   AltName: Full=Aspartate transcarbamylase;
+DE            Short=ATCase;
+GN   Name=pyrB; OrderedLocusNames=aq_409;
+OS   Aquifex aeolicus (strain VF5).
+OC   Bacteria; Aquificae; Aquificales; Aquificaceae; Aquifex.
+OX   NCBI_TaxID=224324;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=VF5;
+RX   PubMed=9537320; DOI=10.1038/32831;
+RA   Deckert G., Warren P.V., Gaasterland T., Young W.G., Lenox A.L.,
+RA   Graham D.E., Overbeek R., Snead M.A., Keller M., Aujay M., Huber R.,
+RA   Feldman R.A., Short J.M., Olsen G.J., Swanson R.V.;
+RT   "The complete genome of the hyperthermophilic bacterium Aquifex
+RT   aeolicus.";
+RL   Nature 392:353-358(1998).
+CC   -!- CATALYTIC ACTIVITY: Carbamoyl phosphate + L-aspartate = phosphate
+CC       + N-carbamoyl-L-aspartate.
+CC   -!- PATHWAY: Pyrimidine metabolism; UMP biosynthesis via de novo
+CC       pathway; (S)-dihydroorotate from bicarbonate: step 2/3.
+CC   -!- SIMILARITY: Belongs to the ATCase/OTCase family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE000657; AAC06675.1; -; Genomic_DNA.
+DR   PIR; B70337; B70337.
+DR   RefSeq; NP_213286.1; NC_000918.1.
+DR   RefSeq; WP_010880224.1; NC_000918.1.
+DR   PDB; 3D6N; X-ray; 2.30 A; B=1-291.
+DR   PDB; 4BJH; X-ray; 2.20 A; B=1-291.
+DR   PDBsum; 3D6N; -.
+DR   PDBsum; 4BJH; -.
+DR   ProteinModelPortal; O66726; -.
+DR   STRING; 224324.aq_409; -.
+DR   EnsemblBacteria; AAC06675; AAC06675; aq_409.
+DR   GeneID; 1193052; -.
+DR   KEGG; aae:aq_409; -.
+DR   PATRIC; 20958400; VBIAquAeo85532_0336.
+DR   eggNOG; COG0540; -.
+DR   HOGENOM; HOG000022685; -.
+DR   InParanoid; O66726; -.
+DR   KO; K00609; -.
+DR   OMA; EYSRRYG; -.
+DR   OrthoDB; EOG61KBJZ; -.
+DR   BioCyc; AAEO224324:GJBH-305-MONOMER; -.
+DR   BRENDA; 2.1.3.2; 396.
+DR   UniPathway; UPA00070; UER00116.
+DR   EvolutionaryTrace; O66726; -.
+DR   Proteomes; UP000000798; Chromosome.
+DR   GO; GO:0016597; F:amino acid binding; IEA:InterPro.
+DR   GO; GO:0004070; F:aspartate carbamoyltransferase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0006207; P:'de novo' pyrimidine nucleobase biosynthetic process; IEA:InterPro.
+DR   GO; GO:0044205; P:'de novo' UMP biosynthetic process; IEA:UniProtKB-UniPathway.
+DR   GO; GO:0006520; P:cellular amino acid metabolic process; IEA:InterPro.
+DR   Gene3D; 3.40.50.1370; -; 2.
+DR   HAMAP; MF_00001; Asp_carb_tr; 1.
+DR   InterPro; IPR006132; Asp/Orn_carbamoyltranf_P-bd.
+DR   InterPro; IPR006130; Asp/Orn_carbamoylTrfase.
+DR   InterPro; IPR002082; Asp_carbamoyltransf.
+DR   InterPro; IPR006131; Asp_carbamoyltransf_Asp/Orn-bd.
+DR   Pfam; PF00185; OTCace; 1.
+DR   Pfam; PF02729; OTCace_N; 1.
+DR   PRINTS; PR00100; AOTCASE.
+DR   PRINTS; PR00101; ATCASE.
+DR   SUPFAM; SSF53671; SSF53671; 1.
+DR   TIGRFAMs; TIGR00670; asp_carb_tr; 1.
+DR   PROSITE; PS00097; CARBAMOYLTRANSFERASE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Pyrimidine biosynthesis;
+KW   Reference proteome; Transferase.
+FT   CHAIN         1    291       Aspartate carbamoyltransferase.
+FT                                /FTId=PRO_0000113087.
+FT   HELIX         7      9       {ECO:0000244|PDB:4BJH}.
+FT   HELIX        12     26       {ECO:0000244|PDB:4BJH}.
+FT   STRAND       36     43       {ECO:0000244|PDB:4BJH}.
+FT   HELIX        47     58       {ECO:0000244|PDB:4BJH}.
+FT   STRAND       62     67       {ECO:0000244|PDB:4BJH}.
+FT   HELIX        68     70       {ECO:0000244|PDB:4BJH}.
+FT   HELIX        72     75       {ECO:0000244|PDB:4BJH}.
+FT   HELIX        79     88       {ECO:0000244|PDB:4BJH}.
+FT   STRAND       92    100       {ECO:0000244|PDB:4BJH}.
+FT   HELIX       106    110       {ECO:0000244|PDB:4BJH}.
+FT   STRAND      112    121       {ECO:0000244|PDB:4BJH}.
+FT   TURN        122    124       {ECO:0000244|PDB:4BJH}.
+FT   HELIX       127    141       {ECO:0000244|PDB:4BJH}.
+FT   STRAND      148    153       {ECO:0000244|PDB:4BJH}.
+FT   HELIX       159    170       {ECO:0000244|PDB:4BJH}.
+FT   STRAND      174    179       {ECO:0000244|PDB:4BJH}.
+FT   HELIX       181    183       {ECO:0000244|PDB:4BJH}.
+FT   HELIX       188    191       {ECO:0000244|PDB:4BJH}.
+FT   STRAND      193    198       {ECO:0000244|PDB:4BJH}.
+FT   HELIX       199    205       {ECO:0000244|PDB:4BJH}.
+FT   STRAND      207    211       {ECO:0000244|PDB:4BJH}.
+FT   HELIX       216    218       {ECO:0000244|PDB:4BJH}.
+FT   STRAND      223    225       {ECO:0000244|PDB:3D6N}.
+FT   HELIX       227    234       {ECO:0000244|PDB:4BJH}.
+FT   HELIX       238    241       {ECO:0000244|PDB:4BJH}.
+FT   TURN        255    257       {ECO:0000244|PDB:4BJH}.
+FT   HELIX       261    263       {ECO:0000244|PDB:3D6N}.
+FT   STRAND      264    266       {ECO:0000244|PDB:3D6N}.
+FT   HELIX       271    289       {ECO:0000244|PDB:4BJH}.
+SQ   SEQUENCE   291 AA;  33558 MW;  93523D3DBDD01534 CRC64;
+     MRSLISSLDL TREEVEEILK YAKEFKEGKE ETIKASAVLF FSEPSTRTRL SFEKAARELG
+     IETYLVSGSE SSTVKGESFF DTLKTFEGLG FDYVVFRVPF VFFPYKEIVK SLNLRLVNAG
+     DGTHQHPSQG LIDFFTIKEH FGEVKDLRVL YVGDIKHSRV FRSGAPLLNM FGAKIGVCGP
+     KTLIPRDVEV FKVDVFDDVD KGIDWADVVI WLRLQKERQK ENYIPSESSY FKQFGLTKER
+     FEKVKLYMHP GPVNRNVDID HELVYTEKSL IQEQVKNGIP VRKAIYKFLW T
+//

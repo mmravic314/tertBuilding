@@ -1,0 +1,93 @@
+ID   Q2RUN2_RHORT            Unreviewed;       297 AA.
+AC   Q2RUN2;
+DT   24-JAN-2006, integrated into UniProtKB/TrEMBL.
+DT   24-JAN-2006, sequence version 1.
+DT   27-MAY-2015, entry version 58.
+DE   SubName: Full=Xylose isomerase-like TIM barrel {ECO:0000313|EMBL:ABC22163.1};
+GN   OrderedLocusNames=Rru_A1362 {ECO:0000313|EMBL:ABC22163.1};
+OS   Rhodospirillum rubrum (strain ATCC 11170 / ATH 1.1.1 / DSM 467 / LMG
+OS   4362 / NCIB 8255 / S1).
+OC   Bacteria; Proteobacteria; Alphaproteobacteria; Rhodospirillales;
+OC   Rhodospirillaceae; Rhodospirillum.
+OX   NCBI_TaxID=269796 {ECO:0000313|EMBL:ABC22163.1, ECO:0000313|Proteomes:UP000001929};
+RN   [1] {ECO:0000313|Proteomes:UP000001929}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 11170 / ATH 1.1.1 / DSM 467 / LMG 4362 / NCIB 8255 / S1
+RC   {ECO:0000313|Proteomes:UP000001929};
+RA   Copeland A., Lucas S., Lapidus A., Barry K., Detter J.C., Glavina T.,
+RA   Hammon N., Israni S., Pitluck S., Munk A.C., Brettin T., Bruce D.,
+RA   Han C., Tapia R., Gilna P., Schmutz J., Larimer F., Land M.,
+RA   Kyrpides N., Mavrommatis K., Richardson P., Zhang Y., Roberts G.,
+RA   Reslewic S., Zhou S., Schwartz D.C.;
+RT   "Complete sequence of the chromosome of Rhodospirillum rubrum ATCC
+RT   11170.";
+RL   Submitted (DEC-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:3QXB}
+RP   X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS) IN COMPLEX WITH IRON AND
+RP   MANGANESE.
+RG   Joint Center for Structural Genomics (JCSG);
+RT   "Crystal structure of a Putative Xylose isomerase (YP_426450.1) from
+RT   RHODOSPIRILLUM RUBRUM ATCC 11170 at 1.90 A resolution.";
+RL   Submitted (MAR-2011) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP000230; ABC22163.1; -; Genomic_DNA.
+DR   RefSeq; WP_011389116.1; NC_007643.1.
+DR   RefSeq; YP_426450.1; NC_007643.1.
+DR   PDB; 3QXB; X-ray; 1.90 A; A/B/C/D=1-297.
+DR   PDBsum; 3QXB; -.
+DR   ProteinModelPortal; Q2RUN2; -.
+DR   STRING; 269796.Rru_A1362; -.
+DR   DNASU; 3834777; -.
+DR   EnsemblBacteria; ABC22163; ABC22163; Rru_A1362.
+DR   GeneID; 3834777; -.
+DR   KEGG; rru:Rru_A1362; -.
+DR   PATRIC; 23326346; VBIRhoRub82919_1430.
+DR   eggNOG; NOG05124; -.
+DR   HOGENOM; HOG000013928; -.
+DR   OMA; YLFWEPM; -.
+DR   OrthoDB; EOG61KBDX; -.
+DR   BioCyc; RRUB269796:GCN1-1385-MONOMER; -.
+DR   Proteomes; UP000001929; Chromosome.
+DR   GO; GO:0016853; F:isomerase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.20.20.150; -; 1.
+DR   InterPro; IPR013022; Xyl_isomerase-like_TIM-brl.
+DR   Pfam; PF01261; AP_endonuc_2; 1.
+DR   SUPFAM; SSF51658; SSF51658; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3QXB};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001929};
+KW   Iron {ECO:0000213|PDB:3QXB}; Isomerase {ECO:0000313|EMBL:ABC22163.1};
+KW   Manganese {ECO:0000213|PDB:3QXB};
+KW   Metal-binding {ECO:0000213|PDB:3QXB};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001929}.
+FT   METAL       159    159       Iron 1. {ECO:0000213|PDB:3QXB}.
+FT   METAL       159    159       Manganese 1. {ECO:0000213|PDB:3QXB}.
+FT   METAL       194    194       Iron 1. {ECO:0000213|PDB:3QXB}.
+FT   METAL       194    194       Manganese 1. {ECO:0000213|PDB:3QXB}.
+FT   METAL       197    197       Iron 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3QXB}.
+FT   METAL       197    197       Manganese 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3QXB}.
+FT   METAL       225    225       Iron 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3QXB}.
+FT   METAL       225    225       Manganese 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3QXB}.
+FT   METAL       234    234       Iron 2. {ECO:0000213|PDB:3QXB}.
+FT   METAL       234    234       Manganese 2. {ECO:0000213|PDB:3QXB}.
+FT   METAL       236    236       Iron 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3QXB}.
+FT   METAL       236    236       Manganese 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3QXB}.
+FT   METAL       267    267       Iron 1. {ECO:0000213|PDB:3QXB}.
+FT   METAL       267    267       Manganese 1. {ECO:0000213|PDB:3QXB}.
+SQ   SEQUENCE   297 AA;  33594 MW;  B5C063276C6A470F CRC64;
+     MKLGVNLCFA VKRWLEPDRL AGLVRDDLGL EYVQYTYDLT DPWWPDIERD RRAIAYAKAF
+     RKAGLTIEST FGGLASYTYN HFLAPTLELQ SLGYQHLKRA IDMTAAMEVP ATGMPFGSYS
+     AADALNPARR EEIYAIARDM WIELAAYAKR QGLSMLYVEP VPLATEFPSS AADAARLMAD
+     LDGRTEIPVR LLVDWGHALF EPLFGPEADM DHWMDLCQPW IAAYHIQQTD GQLDRHWSFT
+     QPGVVTPQRL QDFWDKYALT DQTFFAEILY PFEARDEDVL ADMIASVKAL KAASPAA
+//

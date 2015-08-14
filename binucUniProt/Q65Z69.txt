@@ -1,0 +1,183 @@
+ID   Q65Z69_9GAMM            Unreviewed;       817 AA.
+AC   Q65Z69;
+DT   25-OCT-2004, integrated into UniProtKB/TrEMBL.
+DT   25-OCT-2004, sequence version 1.
+DT   27-MAY-2015, entry version 69.
+DE   SubName: Full=Alkaline serine protease {ECO:0000313|EMBL:BAD51450.1};
+GN   Name=apa1 {ECO:0000313|EMBL:BAD51450.1};
+OS   Pseudoalteromonas sp. AS-11.
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales;
+OC   Pseudoalteromonadaceae; Pseudoalteromonas.
+OX   NCBI_TaxID=247492 {ECO:0000313|EMBL:BAD51450.1};
+RN   [1] {ECO:0000313|EMBL:BAD51450.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=AS-11 {ECO:0000313|EMBL:BAD51450.1};
+RA   Dong D., Aise K., Koizumi T., Watanabe K.;
+RT   "Subtilisin-like Protease Apa1 from Antarctic Psychrotroph
+RT   Pseudoalteromonas sp. Strain AS-11.";
+RL   Submitted (SEP-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:1V6C}
+RP   X-RAY CRYSTALLOGRAPHY (1.80 ANGSTROMS) OF 145-585 IN COMPLEX WITH
+RP   CALCIUM, AND DISULFIDE BONDS.
+RA   Dong D., Ihara T., Motoshima H., Watanabe K.;
+RT   "Crystal Structure of Psychrophilic Subtilisin-like Protease Apa1 from
+RT   Antarctic Psychrotroph Pseudoalteromonas sp. AS-11.";
+RL   Submitted (NOV-2003) to the PDB data bank.
+RN   [3] {ECO:0000213|PDB:1Y9Z}
+RP   X-RAY CRYSTALLOGRAPHY (1.40 ANGSTROMS) OF 145-585 IN COMPLEX WITH
+RP   CALCIUM, AND DISULFIDE BONDS.
+RA   Dong D., Watanabe K.;
+RT   "Crystal Structure of Psychrophilic Subtilisin-like Serine Protease
+RT   from Antarctic Psychrotroph Pseudoalteromonas sp. AS-11 at 0.14 nm
+RT   resolution.";
+RL   Submitted (DEC-2004) to the PDB data bank.
+RN   [4] {ECO:0000213|PDB:1WVM}
+RP   X-RAY CRYSTALLOGRAPHY (1.60 ANGSTROMS) OF 145-585 IN COMPLEX WITH
+RP   CALCIUM AND MAGNESIUM, AND DISULFIDE BONDS.
+RA   Dong D., Watanabe K.;
+RT   "Crystal Structure of Psychrophilic Subtilisin-like Serine Protease
+RT   from Antarctic Psychrotroph Pseudoalteromonas sp. AS-11 at 0.16 nm
+RT   resolution.";
+RL   Submitted (DEC-2004) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AB120714; BAD51450.1; -; Genomic_DNA.
+DR   PDB; 1V6C; X-ray; 1.80 A; A/B=145-585.
+DR   PDB; 1WVM; X-ray; 1.60 A; A/B=145-585.
+DR   PDB; 1Y9Z; X-ray; 1.40 A; A/B=145-585.
+DR   PDBsum; 1V6C; -.
+DR   PDBsum; 1WVM; -.
+DR   PDBsum; 1Y9Z; -.
+DR   ProteinModelPortal; Q65Z69; -.
+DR   SMR; Q65Z69; 145-580.
+DR   MEROPS; S08.134; -.
+DR   EvolutionaryTrace; Q65Z69; -.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004252; F:serine-type endopeptidase activity; IEA:InterPro.
+DR   Gene3D; 2.60.120.260; -; 1.
+DR   Gene3D; 3.40.50.200; -; 2.
+DR   InterPro; IPR008979; Galactose-bd-like.
+DR   InterPro; IPR007280; Peptidase_C_arc/bac.
+DR   InterPro; IPR000209; Peptidase_S8/S53_dom.
+DR   InterPro; IPR022398; Peptidase_S8_His-AS.
+DR   InterPro; IPR023828; Peptidase_S8_Ser-AS.
+DR   InterPro; IPR015500; Peptidase_S8_subtilisin-rel.
+DR   InterPro; IPR009020; Prot_inh_propept.
+DR   InterPro; IPR003137; Protease-assoc_domain.
+DR   InterPro; IPR002884; PrprotnconvertsP.
+DR   InterPro; IPR010259; S8pro/Inhibitor_I9.
+DR   PANTHER; PTHR10795; PTHR10795; 1.
+DR   Pfam; PF05922; Inhibitor_I9; 1.
+DR   Pfam; PF01483; P_proprotein; 1.
+DR   Pfam; PF02225; PA; 1.
+DR   Pfam; PF00082; Peptidase_S8; 2.
+DR   Pfam; PF04151; PPC; 1.
+DR   PRINTS; PR00723; SUBTILISIN.
+DR   SUPFAM; SSF49785; SSF49785; 1.
+DR   SUPFAM; SSF52743; SSF52743; 1.
+DR   SUPFAM; SSF54897; SSF54897; 2.
+DR   PROSITE; PS00137; SUBTILASE_HIS; 1.
+DR   PROSITE; PS00138; SUBTILASE_SER; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:1Y9Z}; Calcium {ECO:0000213|PDB:1Y9Z};
+KW   Hydrolase {ECO:0000313|EMBL:BAD51450.1};
+KW   Magnesium {ECO:0000213|PDB:1WVM};
+KW   Metal-binding {ECO:0000213|PDB:1Y9Z};
+KW   Protease {ECO:0000313|EMBL:BAD51450.1}.
+FT   METAL       146    146       Calcium 1. {ECO:0000213|PDB:1V6C,
+FT                                ECO:0000213|PDB:1WVM,
+FT                                ECO:0000213|PDB:1Y9Z}.
+FT   METAL       183    183       Calcium 1. {ECO:0000213|PDB:1V6C,
+FT                                ECO:0000213|PDB:1WVM,
+FT                                ECO:0000213|PDB:1Y9Z}.
+FT   METAL       220    220       Calcium 1; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:1V6C,
+FT                                ECO:0000213|PDB:1WVM,
+FT                                ECO:0000213|PDB:1Y9Z}.
+FT   METAL       222    222       Calcium 1. {ECO:0000213|PDB:1V6C,
+FT                                ECO:0000213|PDB:1WVM,
+FT                                ECO:0000213|PDB:1Y9Z}.
+FT   METAL       224    224       Calcium 1; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:1V6C,
+FT                                ECO:0000213|PDB:1WVM,
+FT                                ECO:0000213|PDB:1Y9Z}.
+FT   METAL       226    226       Calcium 1; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:1V6C,
+FT                                ECO:0000213|PDB:1WVM,
+FT                                ECO:0000213|PDB:1Y9Z}.
+FT   METAL       313    313       Calcium 2; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:1V6C}.
+FT   METAL       313    313       Magnesium 1; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:1WVM}.
+FT   METAL       315    315       Calcium 2; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:1V6C}.
+FT   METAL       315    315       Magnesium 1; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:1WVM}.
+FT   METAL       318    318       Calcium 2; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:1V6C}.
+FT   METAL       318    318       Magnesium 1; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:1WVM}.
+FT   METAL       318    318       Magnesium 2; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:1WVM}.
+FT   METAL       320    320       Magnesium 2; via amide nitrogen.
+FT                                {ECO:0000213|PDB:1WVM}.
+FT   METAL       339    339       Calcium 2. {ECO:0000213|PDB:1V6C}.
+FT   METAL       339    339       Magnesium 1. {ECO:0000213|PDB:1WVM}.
+FT   METAL       339    339       Magnesium 2; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:1WVM}.
+FT   METAL       341    341       Magnesium 2. {ECO:0000213|PDB:1WVM}.
+FT   METAL       548    548       Calcium 3. {ECO:0000213|PDB:1V6C,
+FT                                ECO:0000213|PDB:1WVM,
+FT                                ECO:0000213|PDB:1Y9Z}.
+FT   METAL       548    548       Magnesium 3. {ECO:0000213|PDB:1WVM}.
+FT   METAL       549    549       Calcium 3; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:1V6C,
+FT                                ECO:0000213|PDB:1WVM,
+FT                                ECO:0000213|PDB:1Y9Z}.
+FT   METAL       549    549       Magnesium 3; via amide nitrogen and
+FT                                carbonyl oxygen. {ECO:0000213|PDB:1WVM}.
+FT   METAL       551    551       Calcium 3; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:1V6C,
+FT                                ECO:0000213|PDB:1WVM,
+FT                                ECO:0000213|PDB:1Y9Z}.
+FT   METAL       553    553       Calcium 3; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:1V6C,
+FT                                ECO:0000213|PDB:1WVM,
+FT                                ECO:0000213|PDB:1Y9Z}.
+FT   METAL       555    555       Calcium 3. {ECO:0000213|PDB:1V6C,
+FT                                ECO:0000213|PDB:1WVM,
+FT                                ECO:0000213|PDB:1Y9Z}.
+FT   METAL       555    555       Magnesium 3. {ECO:0000213|PDB:1WVM}.
+FT   METAL       558    558       Magnesium 3. {ECO:0000213|PDB:1WVM}.
+FT   METAL       559    559       Magnesium 3; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:1WVM}.
+FT   DISULFID    171    261       {ECO:0000213|PDB:1V6C,
+FT                                ECO:0000213|PDB:1WVM,
+FT                                ECO:0000213|PDB:1Y9Z}.
+FT   DISULFID    404    413       {ECO:0000213|PDB:1V6C,
+FT                                ECO:0000213|PDB:1WVM,
+FT                                ECO:0000213|PDB:1Y9Z}.
+FT   DISULFID    421    442       {ECO:0000213|PDB:1V6C,
+FT                                ECO:0000213|PDB:1WVM,
+FT                                ECO:0000213|PDB:1Y9Z}.
+FT   DISULFID    533    576       {ECO:0000213|PDB:1V6C,
+FT                                ECO:0000213|PDB:1WVM,
+FT                                ECO:0000213|PDB:1Y9Z}.
+SQ   SEQUENCE   817 AA;  85145 MW;  83A11C17B1A39513 CRC64;
+     MKKNKNSAVV LSMTALALAI STQVNAAPSP LQLYATNQQI DQQSPLPKRY IVKFKNDNAA
+     QTLSSSSVTQ NVGVQPETNS MSYQPRSNEV FSQFRALNSV KAREMKRVGR SNSYSVKLDS
+     PSIKALRLRQ DVEYVEEDLP RRLLAETTPW GQTFVGATVL SDSQAGNRTI CIIDSGYDRS
+     HNDLNANNVT GTNNSGTGNW YQPGNNNAHG THVAGTIAAI ANNEGVVGVM PNQNANIHIV
+     KVFNEAGWGY SSSLVAAIDT CVNSGGANVV TMSLGGSGST TTERNALNTH YNNGVLLIAA
+     AGNAGDSSYS YPASYDSVMS VAAVDSNLDH AAFSQYTDQV EISGPGEAIL STVTVGEGRL
+     ADITIGGQSY FSNGVVPHNR LTPSGTSYAP APINASATGA LAECTVNGTS FSCGNMANKI
+     CLVERVGNQG SSYPEINSTK ACKTAGAKGI IVYSNSALPG LQNPFLVDAN SDITVPSVSV
+     DRATGLALKA KLGQSTTVSN QGNQDYEYYN GTSMATPHVS GVATLVWSYH PECSASQVRA
+     ALNATADDLS VAGRDNQTGY GMINAVAAKA YLDESCTGPT DPGTGPGTGD SVLVKGVAKT
+     GLAGAKSDEL YFSLDVPAGA KDLTFTMNGG TGDADLYVQY GASPTSSSYD CRPWKSGNAE
+     SCPIATPQTG TYYVMVQGYS AFSNVNLMAN YTAATTSGGN TGGPASYTNT GNYTIPDNNT
+     TGITSPITVS RTGDSGSVSV SIGIIHTYIG DLKIQLVSPT GQTVVLHNNT GGGTDNLTQT
+     YTANMAGVES SGVWTLKAVD NAKQDTGYID TWSLSFQ
+//

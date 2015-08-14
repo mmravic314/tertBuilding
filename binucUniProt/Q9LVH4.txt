@@ -1,0 +1,175 @@
+ID   CAR4_ARATH              Reviewed;         177 AA.
+AC   Q9LVH4;
+DT   24-JUN-2015, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2000, sequence version 1.
+DT   22-JUL-2015, entry version 93.
+DE   RecName: Full=Protein C2-DOMAIN ABA-RELATED 4 {ECO:0000303|PubMed:25465408};
+DE   AltName: Full=C2 domain-containing protein;
+DE            Short=AtC2;
+DE   AltName: Full=GTPase activating protein 1 {ECO:0000303|PubMed:23550829};
+DE            Short=AtGAP1 {ECO:0000303|PubMed:23550829};
+GN   Name=CAR4 {ECO:0000303|PubMed:25465408};
+GN   Synonyms=C2, GAP1 {ECO:0000303|PubMed:23550829};
+GN   OrderedLocusNames=At3g17980 {ECO:0000312|TAIR:AT3G17980};
+GN   ORFNames=MEB5.18 {ECO:0000312|EMBL:BAB02719.1};
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702 {ECO:0000312|Proteomes:UP000006548};
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=10819329; DOI=10.1093/dnares/7.2.131;
+RA   Sato S., Nakamura Y., Kaneko T., Katoh T., Asamizu E., Tabata S.;
+RT   "Structural analysis of Arabidopsis thaliana chromosome 3. I. Sequence
+RT   features of the regions of 4,504,864 bp covered by sixty P1 and TAC
+RT   clones.";
+RL   DNA Res. 7:131-135(2000).
+RN   [2]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RG   The Arabidopsis Information Resource (TAIR);
+RL   Submitted (APR-2011) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RA   Shinn P., Chen H., Cheuk R.F., Kim C.J., Ecker J.R.;
+RT   "Arabidopsis cDNA clones.";
+RL   Submitted (APR-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   FUNCTION, SUBCELLULAR LOCATION, AND INTERACTION WITH YCHF1.
+RC   STRAIN=cv. Col-2, and cv. Columbia;
+RX   PubMed=23550829; DOI=10.1111/pce.12108;
+RA   Cheung M.-Y., Li M.-W., Yung Y.-L., Wen C.-Q., Lam H.-M.;
+RT   "The unconventional P-loop NTPase OsYchF1 and its regulator OsGAP1
+RT   play opposite roles in salinity stress tolerance.";
+RL   Plant Cell Environ. 36:2008-2020(2013).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (1.60 ANGSTROMS).
+RX   PubMed=22139170; DOI=10.1107/S1744309111040541;
+RA   Diaz M., Rodriguez L., Gonzalez-Guzman M., Martinez-Ripoll M.,
+RA   Albert A.;
+RT   "Crystallization and preliminary crystallographic analysis of a C2
+RT   protein from Arabidopsis thaliana.";
+RL   Acta Crystallogr. F 67:1575-1578(2011).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (1.60 ANGSTROMS) IN COMPLEX WITH CALCIUM,
+RP   FUNCTION, DISRUPTION PHENOTYPE, MUTAGENESIS OF ASP-85 AND ASP-87,
+RP   SUBCELLULAR LOCATION, INTERACTION WITH PYR1; PYL1; PYL4; PYL6 AND
+RP   PYL8, GENE FAMILY, AND NOMENCLATURE.
+RX   PubMed=25465408; DOI=10.1105/tpc.114.129973;
+RA   Rodriguez L., Gonzalez-Guzman M., Diaz M., Rodrigues A.,
+RA   Izquierdo-Garcia A.C., Peirats-Llobet M., Fernandez M.A., Antoni R.,
+RA   Fernandez D., Marquez J.A., Mulet J.M., Albert A., Rodriguez P.L.;
+RT   "C2-domain abscisic acid-related proteins mediate the interaction of
+RT   PYR/PYL/RCAR abscisic acid receptors with the plasma membrane and
+RT   regulate abscisic acid sensitivity in Arabidopsis.";
+RL   Plant Cell 26:4802-4820(2014).
+CC   -!- FUNCTION: Mediates the transient calcium-dependent interaction of
+CC       PYR/PYL/RCAR abscisic acid (ABA) receptors with the plasma
+CC       membrane and thus regulates ABA sensitivity (PubMed:25465408).
+CC       Stimulates the GTPase/ATPase activities of YchF1, and regulates
+CC       its subcellular localization. Promotes tolerance towards salinity
+CC       stress by limiting the accumulation of reactive oxygen species
+CC       (ROS) (PubMed:23550829). Promotes resistance to bacterial
+CC       pathogens (e.g. Xanthomonas oryzae pv. oryzae and P. syringae pv.
+CC       tomato DC3000) (By similarity). {ECO:0000250|UniProtKB:Q6YWF1,
+CC       ECO:0000269|PubMed:25465408}.
+CC   -!- SUBUNIT: Binds to PYR/PYL/RCAR abscisic acid intracellular
+CC       receptors in an ABA-independent manner, both at the plasma
+CC       membrane and in the nucleus. Interacts directly with PYR1, PYL1,
+CC       PYL4, PYL6 and PYL8. Binds phospholipids in a Ca(2+)-dependent
+CC       manner (PubMed:25465408). Interacts with YchF1 (PubMed:23550829).
+CC       {ECO:0000269|PubMed:23550829, ECO:0000269|PubMed:25465408}.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000269|PubMed:25465408}.
+CC       Nucleus {ECO:0000269|PubMed:25465408}. Cytoplasm, cytosol
+CC       {ECO:0000269|PubMed:23550829}. Note=Localized mainly in the
+CC       cytosol under NaCl treatment, but translocates to the plasma
+CC       membrane upon wounding. {ECO:0000269|PubMed:23550829}.
+CC   -!- DISRUPTION PHENOTYPE: When associated with disruption in CAR1,
+CC       CAR5 and CAR9 genes, reduced sensitivity to abscisic acid (ABA)
+CC       during seedling establishment and root growth regulation.
+CC       {ECO:0000269|PubMed:25465408}.
+CC   -!- SIMILARITY: Belongs to the plant CAR protein family.
+CC       {ECO:0000305|PubMed:25465408}.
+CC   -!- SIMILARITY: Contains 1 C2 domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00041}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AB019230; BAB02719.1; -; Genomic_DNA.
+DR   EMBL; CP002686; AEE76031.1; -; Genomic_DNA.
+DR   EMBL; BT021979; AAY17416.1; -; mRNA.
+DR   EMBL; BT030626; ABR46206.1; -; mRNA.
+DR   RefSeq; NP_188425.2; NM_112679.3.
+DR   UniGene; At.8044; -.
+DR   PDB; 4V29; X-ray; 1.60 A; A/B=1-177.
+DR   PDBsum; 4V29; -.
+DR   ProteinModelPortal; Q9LVH4; -.
+DR   SMR; Q9LVH4; 13-177.
+DR   STRING; 3702.AT3G17980.1; -.
+DR   PaxDb; Q9LVH4; -.
+DR   PRIDE; Q9LVH4; -.
+DR   EnsemblPlants; AT3G17980.1; AT3G17980.1; AT3G17980.
+DR   GeneID; 821323; -.
+DR   KEGG; ath:AT3G17980; -.
+DR   TAIR; AT3G17980; -.
+DR   eggNOG; COG5038; -.
+DR   HOGENOM; HOG000238659; -.
+DR   InParanoid; Q9LVH4; -.
+DR   OMA; ITRIQPC; -.
+DR   PhylomeDB; Q9LVH4; -.
+DR   Proteomes; UP000006548; Chromosome 3.
+DR   GO; GO:0005829; C:cytosol; IDA:UniProtKB.
+DR   GO; GO:0005634; C:nucleus; IDA:UniProtKB.
+DR   GO; GO:0005886; C:plasma membrane; IDA:UniProtKB.
+DR   GO; GO:0005096; F:GTPase activator activity; ISS:UniProtKB.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0005543; F:phospholipid binding; IMP:UniProtKB.
+DR   GO; GO:0009738; P:abscisic acid-activated signaling pathway; IEA:UniProtKB-KW.
+DR   GO; GO:0006952; P:defense response; IEA:UniProtKB-KW.
+DR   GO; GO:0009789; P:positive regulation of abscisic acid-activated signaling pathway; IMP:UniProtKB.
+DR   GO; GO:1902479; P:positive regulation of defense response to bacterium, incompatible interaction; ISS:UniProtKB.
+DR   GO; GO:0043547; P:positive regulation of GTPase activity; ISS:UniProtKB.
+DR   GO; GO:1901002; P:positive regulation of response to salt stress; IMP:UniProtKB.
+DR   GO; GO:0009651; P:response to salt stress; IDA:UniProtKB.
+DR   Gene3D; 2.60.40.150; -; 1.
+DR   InterPro; IPR000008; C2_dom.
+DR   Pfam; PF00168; C2; 1.
+DR   SMART; SM00239; C2; 1.
+DR   SUPFAM; SSF49562; SSF49562; 1.
+DR   PROSITE; PS50004; C2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Abscisic acid signaling pathway; Calcium; Cell membrane;
+KW   Complete proteome; Cytoplasm; GTPase activation; Lipid-binding;
+KW   Membrane; Metal-binding; Nucleus; Plant defense; Reference proteome.
+FT   CHAIN         1    177       Protein C2-DOMAIN ABA-RELATED 4.
+FT                                /FTId=PRO_0000433314.
+FT   DOMAIN        5     99       C2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00041}.
+FT   METAL        33     33       Calcium 1; via carbonyl oxygen.
+FT                                {ECO:0000244|PDB:4V29}.
+FT   METAL        34     34       Calcium 1. {ECO:0000244|PDB:4V29}.
+FT   METAL        34     34       Calcium 2. {ECO:0000244|PDB:4V29}.
+FT   METAL        39     39       Calcium 2. {ECO:0000244|PDB:4V29}.
+FT   METAL        85     85       Calcium 1. {ECO:0000244|PDB:4V29}.
+FT   METAL        85     85       Calcium 2. {ECO:0000244|PDB:4V29}.
+FT   METAL        86     86       Calcium 2; via carbonyl oxygen.
+FT                                {ECO:0000244|PDB:4V29}.
+FT   METAL        87     87       Calcium 1. {ECO:0000244|PDB:4V29}.
+FT   METAL        87     87       Calcium 2. {ECO:0000244|PDB:4V29}.
+FT   METAL        93     93       Calcium 1. {ECO:0000244|PDB:4V29}.
+FT   MUTAGEN      85     85       D->A: Impaired Ca(2+)-dependent
+FT                                phospholipids binding; when associated
+FT                                with A-87. {ECO:0000269|PubMed:25465408}.
+FT   MUTAGEN      87     87       D->A: Impaired Ca(2+)-dependent
+FT                                phospholipids binding; when associated
+FT                                with A-85. {ECO:0000269|PubMed:25465408}.
+SQ   SEQUENCE   177 AA;  19900 MW;  8B9D5D1601868E1B CRC64;
+     MTTACPARTS SLMDDLLGLL RIRIKRGVNL AVRDISSSDP YVVVKMGKQK LKTRVINKDV
+     NPEWNEDLTL SVTDSNLTVL LTVYDHDMFS KDDKMGDAEF EIKPYIEALR MQLDGLPSGT
+     IVTTVKPSRR NCLAEESRVT WVDGKLVQDL VLRLRHVECG EVEAQLQWID LPGSKGL
+//

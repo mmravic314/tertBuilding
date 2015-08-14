@@ -1,0 +1,472 @@
+ID   RNJ1_BACSU              Reviewed;         555 AA.
+AC   Q45493;
+DT   01-NOV-1997, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   22-JUL-2015, entry version 103.
+DE   RecName: Full=Ribonuclease J1 {ECO:0000255|HAMAP-Rule:MF_01491};
+DE            Short=RNase J1 {ECO:0000255|HAMAP-Rule:MF_01491};
+DE            EC=3.1.-.- {ECO:0000255|HAMAP-Rule:MF_01491};
+GN   Name=rnjA {ECO:0000255|HAMAP-Rule:MF_01491}; Synonyms=ykqC;
+GN   OrderedLocusNames=BSU14530;
+OS   Bacillus subtilis (strain 168).
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus.
+OX   NCBI_TaxID=224308;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=168;
+RX   PubMed=8969500;
+RA   Winters P., Caldwell R.M., Enfield L., Ferrari E.;
+RT   "The ampS-nprE (124 degrees-127 degrees) region of the Bacillus
+RT   subtilis 168 chromosome: sequencing of a 27 kb segment and
+RT   identification of several genes in the area.";
+RL   Microbiology 142:3033-3037(1996).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=168;
+RA   Caldwell R.M., Ferrari E.;
+RT   "Sequence analysis of the mobA-ampS region of the Bacillus subtilis
+RT   chromosome.";
+RL   Submitted (JUL-1997) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=168;
+RX   PubMed=9384377; DOI=10.1038/36786;
+RA   Kunst F., Ogasawara N., Moszer I., Albertini A.M., Alloni G.,
+RA   Azevedo V., Bertero M.G., Bessieres P., Bolotin A., Borchert S.,
+RA   Borriss R., Boursier L., Brans A., Braun M., Brignell S.C., Bron S.,
+RA   Brouillet S., Bruschi C.V., Caldwell B., Capuano V., Carter N.M.,
+RA   Choi S.-K., Codani J.-J., Connerton I.F., Cummings N.J., Daniel R.A.,
+RA   Denizot F., Devine K.M., Duesterhoeft A., Ehrlich S.D., Emmerson P.T.,
+RA   Entian K.-D., Errington J., Fabret C., Ferrari E., Foulger D.,
+RA   Fritz C., Fujita M., Fujita Y., Fuma S., Galizzi A., Galleron N.,
+RA   Ghim S.-Y., Glaser P., Goffeau A., Golightly E.J., Grandi G.,
+RA   Guiseppi G., Guy B.J., Haga K., Haiech J., Harwood C.R., Henaut A.,
+RA   Hilbert H., Holsappel S., Hosono S., Hullo M.-F., Itaya M.,
+RA   Jones L.-M., Joris B., Karamata D., Kasahara Y., Klaerr-Blanchard M.,
+RA   Klein C., Kobayashi Y., Koetter P., Koningstein G., Krogh S.,
+RA   Kumano M., Kurita K., Lapidus A., Lardinois S., Lauber J.,
+RA   Lazarevic V., Lee S.-M., Levine A., Liu H., Masuda S., Mauel C.,
+RA   Medigue C., Medina N., Mellado R.P., Mizuno M., Moestl D., Nakai S.,
+RA   Noback M., Noone D., O'Reilly M., Ogawa K., Ogiwara A., Oudega B.,
+RA   Park S.-H., Parro V., Pohl T.M., Portetelle D., Porwollik S.,
+RA   Prescott A.M., Presecan E., Pujic P., Purnelle B., Rapoport G.,
+RA   Rey M., Reynolds S., Rieger M., Rivolta C., Rocha E., Roche B.,
+RA   Rose M., Sadaie Y., Sato T., Scanlan E., Schleich S., Schroeter R.,
+RA   Scoffone F., Sekiguchi J., Sekowska A., Seror S.J., Serror P.,
+RA   Shin B.-S., Soldo B., Sorokin A., Tacconi E., Takagi T., Takahashi H.,
+RA   Takemaru K., Takeuchi M., Tamakoshi A., Tanaka T., Terpstra P.,
+RA   Tognoni A., Tosato V., Uchiyama S., Vandenbol M., Vannier F.,
+RA   Vassarotti A., Viari A., Wambutt R., Wedler E., Wedler H.,
+RA   Weitzenegger T., Winters P., Wipat A., Yamamoto H., Yamane K.,
+RA   Yasumoto K., Yata K., Yoshida K., Yoshikawa H.-F., Zumstein E.,
+RA   Yoshikawa H., Danchin A.;
+RT   "The complete genome sequence of the Gram-positive bacterium Bacillus
+RT   subtilis.";
+RL   Nature 390:249-256(1997).
+RN   [4]
+RP   FUNCTION AS AN ENDONUCLEASE, COFACTOR, SUBCELLULAR LOCATION, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY.
+RC   STRAIN=168;
+RX   PubMed=15831787; DOI=10.1093/nar/gki505;
+RA   Even S., Pellegrini O., Zig L., Labas V., Vinh J.,
+RA   Brechemmier-Baey D., Putzer H.;
+RT   "Ribonucleases J1 and J2: two novel endoribonucleases in B.subtilis
+RT   with functional homology to E.coli RNase E.";
+RL   Nucleic Acids Res. 33:2141-2152(2005).
+RN   [5]
+RP   SUBCELLULAR LOCATION, AND DISRUPTION PHENOTYPE.
+RC   STRAIN=168;
+RX   PubMed=17005971; DOI=10.1099/mic.0.29152-0;
+RA   Hunt A., Rawlins J.P., Thomaides H.B., Errington J.;
+RT   "Functional analysis of 11 putative essential genes in Bacillus
+RT   subtilis.";
+RL   Microbiology 152:2895-2907(2006).
+RN   [6]
+RP   FUNCTION AS AN EXONUCLEASE, ENZYME REGULATION, DISRUPTION PHENOTYPE,
+RP   AND MUTAGENESIS OF HIS-76.
+RX   PubMed=17512403; DOI=10.1016/j.cell.2007.02.051;
+RA   Mathy N., Benard L., Pellegrini O., Daou R., Wen T., Condon C.;
+RT   "5'-to-3' exoribonuclease activity in bacteria: role of RNase J1 in
+RT   rRNA maturation and 5' stability of mRNA.";
+RL   Cell 129:681-692(2007).
+RN   [7]
+RP   FUNCTION, DISRUPTION PHENOTYPE, AND MUTAGENESIS OF HIS-76.
+RC   STRAIN=168;
+RX   PubMed=17229210; DOI=10.1111/j.1365-2958.2006.05499.x;
+RA   Britton R.A., Wen T., Schaefer L., Pellegrini O., Uicker W.C.,
+RA   Mathy N., Tobin C., Daou R., Szyk J., Condon C.;
+RT   "Maturation of the 5' end of Bacillus subtilis 16S rRNA by the
+RT   essential ribonuclease YkqC/RNase J1.";
+RL   Mol. Microbiol. 63:127-138(2007).
+RN   [8]
+RP   FUNCTION IN PRE-SCRNA PROCESSING, AND DISRUPTION PHENOTYPE.
+RX   PubMed=17576666; DOI=10.1093/nar/gkm460;
+RA   Yao S., Blaustein J.B., Bechhofer D.H.;
+RT   "Processing of Bacillus subtilis small cytoplasmic RNA: evidence for
+RT   an additional endonuclease cleavage site.";
+RL   Nucleic Acids Res. 35:4464-4473(2007).
+RN   [9]
+RP   FUNCTION IN MRNA DECAY, AND DISRUPTION PHENOTYPE.
+RX   PubMed=18445592; DOI=10.1074/jbc.M801461200;
+RA   Deikus G., Condon C., Bechhofer D.H.;
+RT   "Role of Bacillus subtilis RNase J1 endonuclease and 5'-exonuclease
+RT   activities in trp leader RNA turnover.";
+RL   J. Biol. Chem. 283:17158-17167(2008).
+RN   [10]
+RP   FUNCTION, AND DISRUPTION PHENOTYPE.
+RX   PubMed=18713320; DOI=10.1111/j.1365-2958.2008.06400.x;
+RA   Mader U., Zig L., Kretschmer J., Homuth G., Putzer H.;
+RT   "mRNA processing by RNases J1 and J2 affects Bacillus subtilis gene
+RT   expression on a global scale.";
+RL   Mol. Microbiol. 70:183-196(2008).
+RN   [11]
+RP   FUNCTION AS AN ENDONUCLEASE, DOMAIN, AND MUTAGENESIS OF ASP-45;
+RP   78-ASP-HIS-79; ASN-337 AND SER-366.
+RX   PubMed=18204464; DOI=10.1038/nsmb.1376;
+RA   Li de la Sierra-Gallay I., Zig L., Jamalli A., Putzer H.;
+RT   "Structural insights into the dual activity of RNase J.";
+RL   Nat. Struct. Mol. Biol. 15:206-212(2008).
+RN   [12]
+RP   SUBUNIT.
+RC   STRAIN=168;
+RX   PubMed=19193632; DOI=10.1074/mcp.M800546-MCP200;
+RA   Commichau F.M., Rothe F.M., Herzberg C., Wagner E., Hellwig D.,
+RA   Lehnik-Habrink M., Hammer E., Volker U., Stulke J.;
+RT   "Novel activities of glycolytic enzymes in Bacillus subtilis:
+RT   interactions with essential proteins involved in mRNA processing.";
+RL   Mol. Cell. Proteomics 8:1350-1360(2009).
+RN   [13]
+RP   FUNCTION IN 23S RRNA PROCESSING, RNASE ACTIVITY, AND DISRUPTION
+RP   PHENOTYPE.
+RX   PubMed=19880604; DOI=10.1128/JB.01096-09;
+RA   Redko Y., Condon C.;
+RT   "Maturation of 23S rRNA in Bacillus subtilis in the absence of Mini-
+RT   III.";
+RL   J. Bacteriol. 192:356-359(2010).
+RN   [14]
+RP   FUNCTION, BIOPHYSICOCHEMICAL PROPERTIES, INTERACTION WITH RNASE J2,
+RP   AND SUBUNIT.
+RC   STRAIN=168;
+RX   PubMed=20025672; DOI=10.1111/j.1365-2958.2009.07004.x;
+RA   Mathy N., Hebert A., Mervelet P., Benard L., Dorleans A.,
+RA   Li de la Sierra-Gallay I., Noirot P., Putzer H., Condon C.;
+RT   "Bacillus subtilis ribonucleases J1 and J2 form a complex with altered
+RT   enzyme behaviour.";
+RL   Mol. Microbiol. 75:489-498(2010).
+RN   [15]
+RP   INTERACTION WITH RNY, AND SUBUNIT.
+RC   STRAIN=168;
+RX   PubMed=21803996; DOI=10.1128/JB.05500-11;
+RA   Lehnik-Habrink M., Newman J., Rothe F.M., Solovyova A.S.,
+RA   Rodrigues C., Herzberg C., Commichau F.M., Lewis R.J., Stulke J.;
+RT   "RNase Y in Bacillus subtilis: a natively disordered protein that is
+RT   the functional equivalent of RNase E from Escherichia coli.";
+RL   J. Bacteriol. 193:5431-5441(2011).
+RN   [16]
+RP   FUNCTION.
+RX   PubMed=22014150; DOI=10.1111/j.1365-2958.2011.07888.x;
+RA   Taverniti V., Forti F., Ghisotti D., Putzer H.;
+RT   "Mycobacterium smegmatis RNase J is a 5'-3' exo-/endoribonuclease and
+RT   both RNase J and RNase E are involved in ribosomal RNA maturation.";
+RL   Mol. Microbiol. 82:1260-1276(2011).
+RN   [17]
+RP   FUNCTION, INTERACTION WITH RNASE J2, AND SUBUNIT.
+RX   PubMed=21893286; DOI=10.1016/j.str.2011.06.018;
+RA   Dorleans A., Li de la Sierra-Gallay I., Piton J., Zig L., Gilet L.,
+RA   Putzer H., Condon C.;
+RT   "Molecular basis for the recognition and cleavage of RNA by the
+RT   bifunctional 5'-3' exo/endoribonuclease RNase J.";
+RL   Structure 19:1252-1261(2011).
+RN   [18]
+RP   INTERACTION WITH PNP, AND SUBUNIT.
+RC   STRAIN=168;
+RX   PubMed=22198292; DOI=10.1016/j.jmb.2011.12.024;
+RA   Newman J.A., Hewitt L., Rodrigues C., Solovyova A.S., Harwood C.R.,
+RA   Lewis R.J.;
+RT   "Dissection of the network of interactions that links RNA processing
+RT   with glycolysis in the Bacillus subtilis degradosome.";
+RL   J. Mol. Biol. 416:121-136(2012).
+RN   [19]
+RP   FUNCTION, AND DISRUPTION PHENOTYPE.
+RC   STRAIN=168;
+RX   PubMed=22412379; DOI=10.1371/journal.pgen.1002520;
+RA   Durand S., Gilet L., Bessieres P., Nicolas P., Condon C.;
+RT   "Three essential ribonucleases-RNase Y, J1, and III-control the
+RT   abundance of a majority of Bacillus subtilis mRNAs.";
+RL   PLoS Genet. 8:E1002520-E1002520(2012).
+RN   [20]
+RP   FUNCTION, AND DISRUPTION PHENOTYPE.
+RC   STRAIN=168 / JH642, 168 / PY79, 168 / W168, and 168 trpC2;
+RX   PubMed=23504012; DOI=10.1128/JB.00164-13;
+RA   Figaro S., Durand S., Gilet L., Cayet N., Sachse M., Condon C.;
+RT   "Bacillus subtilis mutants with knockouts of the genes encoding
+RT   ribonucleases RNase Y and RNase J1 are viable, with major defects in
+RT   cell morphology, sporulation, and competence.";
+RL   J. Bacteriol. 195:2340-2348(2013).
+RN   [21]
+RP   X-RAY CRYSTALLOGRAPHY (3.0 ANGSTROMS) IN OPEN CONFORMATION, ACTIVE
+RP   SITE, DISCUSSION OF MECHANISM, AND SUBUNIT.
+RC   STRAIN=168;
+RX   PubMed=21893285; DOI=10.1016/j.str.2011.06.017;
+RA   Newman J.A., Hewitt L., Rodrigues C., Solovyova A., Harwood C.R.,
+RA   Lewis R.J.;
+RT   "Unusual, dual endo- and exonuclease activity in the degradosome
+RT   explained by crystal structure analysis of RNase J1.";
+RL   Structure 19:1241-1251(2011).
+CC   -!- FUNCTION: An RNase that has endonuclease and 5'-3' exonuclease
+CC       activity, playing a role in both rRNA and mRNA stability and
+CC       degradation. Endonuclease activity can cleave within 4 nucleotides
+CC       of the 5'-end of a triphosphorylated RNA. Endonuclease digestion
+CC       by the RNase J1/J2 complex occurs at a different site and in some
+CC       cases more efficiently than J1 or J2 alone. The exonuclease
+CC       activity of the J1/J2 complex is highly processive on substrates
+CC       longer than 5 nucleotides, on shorter substrates is distributive.
+CC       Preferentially cleaves ssRNA, possibly in AU-rich regions. The 5'-
+CC       exonuclease activity acts on 5'-hydroxyl and 5'-monophosphate but
+CC       not 5'-triphosphate ends; it can digest through stem-loop
+CC       structures if they are not too stable. Required for maturation of
+CC       16S rRNA. Acts preferentially on 16S rRNA precursors after
+CC       association of the 30S and 50S ribosomal subunits. Plays a role in
+CC       the secondary pathway of 23S rRNA 5' end maturation. Probably also
+CC       participates in processing of pre-scRNA (the precursor of the
+CC       signal recognition particle RNA). {ECO:0000269|PubMed:15831787,
+CC       ECO:0000269|PubMed:17229210, ECO:0000269|PubMed:17512403,
+CC       ECO:0000269|PubMed:17576666, ECO:0000269|PubMed:18204464,
+CC       ECO:0000269|PubMed:18445592, ECO:0000269|PubMed:18713320,
+CC       ECO:0000269|PubMed:19880604, ECO:0000269|PubMed:20025672,
+CC       ECO:0000269|PubMed:21893286, ECO:0000269|PubMed:22014150,
+CC       ECO:0000269|PubMed:22412379, ECO:0000269|PubMed:23504012}.
+CC   -!- COFACTOR:
+CC       Name=Ca(2+); Xref=ChEBI:CHEBI:29108;
+CC         Evidence={ECO:0000269|PubMed:15831787};
+CC       Note=Binds 1 Ca(2+) cation per subunit. Seen in 1 crystal
+CC       structure, it is not clear if it is physiologically important.
+CC       {ECO:0000269|PubMed:15831787};
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC         Evidence={ECO:0000269|PubMed:15831787};
+CC       Note=Binds 2 Zn(2+) ions per subunit. It is not clear if Zn(2+) or
+CC       Mg(2+) is physiologically important.
+CC       {ECO:0000269|PubMed:15831787};
+CC   -!- ENZYME REGULATION: 30S ribosomal subunit binding to Shine-Dalgarno
+CC       sequences blocks exonuclease activity.
+CC       {ECO:0000269|PubMed:17512403}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=0.47 uM for exonuclease on 30 nt RNA hybridized to 17 nt
+CC         quenching DNA, J1 alone {ECO:0000269|PubMed:20025672};
+CC         KM=0.22 uM for exonuclease on 30 nt RNA hybridized to 17 nt
+CC         quenching DNA, J1/J2 complex {ECO:0000269|PubMed:20025672};
+CC         Note=kcat is 0.58 sec (-1) for J1, 0.13 sec (-1) for J1/J2 and
+CC         <0.005 sec (-1) for J2.;
+CC   -!- SUBUNIT: Unclear whether it forms homodimers or belongs to a
+CC       larger complex. According to (PubMed:20025672) probably does not
+CC       form homodimers, while (PubMed:21893285) shows homodimer
+CC       formation. Both reports show RNase J1 and J2 interaction, probably
+CC       as a heterotetramer (PubMed:19193632) shows it is a component of a
+CC       possible RNA degradosome complex composed of rny, rnjA, rnjB, pnp,
+CC       pfkA and eno, while (PubMed:20025672) finds no evidence of an RNA
+CC       degradosome complex. {ECO:0000269|PubMed:19193632,
+CC       ECO:0000269|PubMed:20025672, ECO:0000269|PubMed:21803996,
+CC       ECO:0000269|PubMed:21893285, ECO:0000269|PubMed:21893286,
+CC       ECO:0000269|PubMed:22198292}.
+CC   -!- INTERACTION:
+CC       O31774:rny; NbExp=2; IntAct=EBI-6415229, EBI-6415578;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_01491,
+CC       ECO:0000269|PubMed:15831787, ECO:0000269|PubMed:17005971}.
+CC       Note=Colocalizes with ribosomes.
+CC   -!- DOMAIN: The C-terminal domain (residues 450-555) are required for
+CC       nuclease activity and dimerization. {ECO:0000269|PubMed:18204464}.
+CC   -!- DISRUPTION PHENOTYPE: Essential. In depletion experiments there is
+CC       decreased 5'-exonuclease processing of 16S rRNA (PubMed:17512403),
+CC       decreased accumulation of correctly-sized scRNA (PubMed:17576666),
+CC       decreased decay of trp mRNA leader (PubMed:18445592), while
+CC       correct processing of the 5' end of 23S rRNA no longer occurs in
+CC       the absence of mrnC (PubMed:19880604). While depletion/deletion of
+CC       RNase J1 or J2 has no large impact on global gene expression, a
+CC       double mutant alters the expression of hundreds of genes
+CC       (PubMed:18713320). In a more severe depletion experiment
+CC       alteration of about 30% of transcripts was seen (PubMed:22412379).
+CC       Later shown not to be essential in 4 strains, with a tripled
+CC       doubling time. 168 trpC2 cells able to grow on minimal medium.
+CC       Loss of competence for plasmid transformation, nearly complete
+CC       loss of sporulation, poor growth at 30 degrees Celsius and no
+CC       growth under 25 degrees Celsius. Increased sensitivity to a wide
+CC       range of antibiotics. Irregularly shaped cells form clumps of
+CC       spiral cells connected by long chains, with few visible septa,
+CC       cell walls are altered with looser, less dense peptidoglycan.
+CC       Double pnp-rnjA or rnjA-rny mutants could not be isolated
+CC       (PubMed:23504012). {ECO:0000269|PubMed:17005971,
+CC       ECO:0000269|PubMed:17229210, ECO:0000269|PubMed:17512403,
+CC       ECO:0000269|PubMed:17576666, ECO:0000269|PubMed:18445592,
+CC       ECO:0000269|PubMed:18713320, ECO:0000269|PubMed:19880604,
+CC       ECO:0000269|PubMed:22412379, ECO:0000269|PubMed:23504012}.
+CC   -!- MISCELLANEOUS: Present in about 2500 monomers per cell in mid-log
+CC       phase.
+CC   -!- SIMILARITY: Belongs to the metallo-beta-lactamase superfamily.
+CC       RNA-metabolizing metallo-beta-lactamase-like family. Bacterial
+CC       RNase J subfamily. {ECO:0000255|HAMAP-Rule:MF_01491}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF012285; AAC24928.1; -; Genomic_DNA.
+DR   EMBL; AL009126; CAB13326.1; -; Genomic_DNA.
+DR   PIR; B69862; B69862.
+DR   RefSeq; NP_389336.1; NC_000964.3.
+DR   RefSeq; WP_003245660.1; NZ_JNCM01000035.1.
+DR   PDB; 3ZQ4; X-ray; 3.00 A; A/C/D/E=1-555.
+DR   PDBsum; 3ZQ4; -.
+DR   ProteinModelPortal; Q45493; -.
+DR   SMR; Q45493; 5-554.
+DR   DIP; DIP-46392N; -.
+DR   IntAct; Q45493; 3.
+DR   MINT; MINT-8365355; -.
+DR   STRING; 224308.Bsubs1_010100008056; -.
+DR   PaxDb; Q45493; -.
+DR   EnsemblBacteria; CAB13326; CAB13326; BSU14530.
+DR   GeneID; 939483; -.
+DR   KEGG; bsu:BSU14530; -.
+DR   PATRIC; 18974695; VBIBacSub10457_1539.
+DR   GenoList; BSU14530; -.
+DR   eggNOG; COG0595; -.
+DR   HOGENOM; HOG000280201; -.
+DR   InParanoid; Q45493; -.
+DR   KO; K12574; -.
+DR   OMA; PYHGEYR; -.
+DR   OrthoDB; EOG6P5ZDC; -.
+DR   PhylomeDB; Q45493; -.
+DR   BioCyc; BSUB:BSU14530-MONOMER; -.
+DR   EvolutionaryTrace; Q45493; -.
+DR   Proteomes; UP000001570; Chromosome.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0004534; F:5'-3' exoribonuclease activity; IDA:UniProtKB.
+DR   GO; GO:0004521; F:endoribonuclease activity; IDA:UniProtKB.
+DR   GO; GO:0003723; F:RNA binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0006397; P:mRNA processing; IDA:UniProtKB.
+DR   GO; GO:0090502; P:RNA phosphodiester bond hydrolysis, endonucleolytic; IDA:GOC.
+DR   GO; GO:0090503; P:RNA phosphodiester bond hydrolysis, exonucleolytic; IDA:GOC.
+DR   GO; GO:0006364; P:rRNA processing; IDA:UniProtKB.
+DR   Gene3D; 3.60.15.10; -; 1.
+DR   HAMAP; MF_01491; RNase_J_bact; 1.
+DR   InterPro; IPR001279; Beta-lactamas-like.
+DR   InterPro; IPR011108; RMMBL.
+DR   InterPro; IPR004613; RNase_J.
+DR   InterPro; IPR030854; RNase_J_bac.
+DR   InterPro; IPR001587; RNase_J_CS.
+DR   PANTHER; PTHR11203:SF22; PTHR11203:SF22; 1.
+DR   Pfam; PF00753; Lactamase_B; 1.
+DR   Pfam; PF07521; RMMBL; 1.
+DR   PIRSF; PIRSF004803; RnjA; 1.
+DR   SMART; SM00849; Lactamase_B; 1.
+DR   SUPFAM; SSF56281; SSF56281; 1.
+DR   TIGRFAMs; TIGR00649; MG423; 1.
+DR   PROSITE; PS01292; UPF0036; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Calcium; Complete proteome; Cytoplasm; Endonuclease;
+KW   Exonuclease; Hydrolase; Metal-binding; mRNA processing; Nuclease;
+KW   Reference proteome; RNA-binding; rRNA processing; Zinc.
+FT   CHAIN         1    555       Ribonuclease J1.
+FT                                /FTId=PRO_0000215268.
+FT   REGION      364    368       Substrate binding. {ECO:0000255|HAMAP-
+FT                                Rule:MF_01491}.
+FT   REGION      450    555       Required for endo- and 5'-exonuclease
+FT                                activity and dimerization.
+FT   ACT_SITE    195    195       Proton donor.
+FT                                {ECO:0000305|PubMed:21893285}.
+FT   ACT_SITE    368    368       Proton acceptor.
+FT                                {ECO:0000305|PubMed:21893285}.
+FT   METAL        49     49       Calcium; via carbonyl oxygen.
+FT   METAL        51     51       Calcium.
+FT   METAL        74     74       Zinc 1; via pros nitrogen; catalytic.
+FT   METAL        76     76       Zinc 1; via pros nitrogen; catalytic.
+FT   METAL        78     78       Zinc 2; catalytic.
+FT   METAL        79     79       Zinc 2; via tele nitrogen; catalytic.
+FT   METAL       142    142       Zinc 1; via tele nitrogen; catalytic.
+FT   METAL       164    164       Zinc 1; catalytic.
+FT   METAL       164    164       Zinc 2; catalytic.
+FT   METAL       390    390       Zinc 2; via tele nitrogen; catalytic.
+FT   METAL       443    443       Calcium.
+FT   MUTAGEN      45     45       D->A: Slight decrease in endonuclease and
+FT                                10-fold decrease in 5'-exonuclease
+FT                                activity; when associated with A-337.
+FT                                {ECO:0000269|PubMed:18204464}.
+FT   MUTAGEN      76     76       H->A: Loss of endo- and 5'-exonuclease
+FT                                activity. {ECO:0000269|PubMed:17229210,
+FT                                ECO:0000269|PubMed:17512403}.
+FT   MUTAGEN      78     79       DH->KA: Severe loss of endo- and 5'-
+FT                                exonuclease activity.
+FT                                {ECO:0000269|PubMed:18204464}.
+FT   MUTAGEN     337    337       N->A: Slight decrease in endonuclease and
+FT                                10-fold decrease in 5'-exonuclease
+FT                                activity; when associated with A-45.
+FT                                {ECO:0000269|PubMed:18204464}.
+FT   MUTAGEN     366    366       S->L: 30% endonuclease and 10% 5'-
+FT                                exonuclease activity.
+FT                                {ECO:0000269|PubMed:18204464}.
+FT   STRAND        8     21       {ECO:0000244|PDB:3ZQ4}.
+FT   STRAND       24     29       {ECO:0000244|PDB:3ZQ4}.
+FT   STRAND       32     38       {ECO:0000244|PDB:3ZQ4}.
+FT   STRAND       51     55       {ECO:0000244|PDB:3ZQ4}.
+FT   HELIX        58     61       {ECO:0000244|PDB:3ZQ4}.
+FT   TURN         62     66       {ECO:0000244|PDB:3ZQ4}.
+FT   STRAND       67     73       {ECO:0000244|PDB:3ZQ4}.
+FT   HELIX        77     80       {ECO:0000244|PDB:3ZQ4}.
+FT   HELIX        83     87       {ECO:0000244|PDB:3ZQ4}.
+FT   STRAND       94     96       {ECO:0000244|PDB:3ZQ4}.
+FT   HELIX        98    111       {ECO:0000244|PDB:3ZQ4}.
+FT   TURN        113    116       {ECO:0000244|PDB:3ZQ4}.
+FT   STRAND      119    121       {ECO:0000244|PDB:3ZQ4}.
+FT   STRAND      128    130       {ECO:0000244|PDB:3ZQ4}.
+FT   STRAND      133    141       {ECO:0000244|PDB:3ZQ4}.
+FT   STRAND      143    154       {ECO:0000244|PDB:3ZQ4}.
+FT   STRAND      157    161       {ECO:0000244|PDB:3ZQ4}.
+FT   STRAND      172    174       {ECO:0000244|PDB:3ZQ4}.
+FT   HELIX       178    186       {ECO:0000244|PDB:3ZQ4}.
+FT   STRAND      189    195       {ECO:0000244|PDB:3ZQ4}.
+FT   TURN        197    200       {ECO:0000244|PDB:3ZQ4}.
+FT   HELIX       208    221       {ECO:0000244|PDB:3ZQ4}.
+FT   STRAND      226    229       {ECO:0000244|PDB:3ZQ4}.
+FT   HELIX       235    246       {ECO:0000244|PDB:3ZQ4}.
+FT   TURN        247    249       {ECO:0000244|PDB:3ZQ4}.
+FT   STRAND      251    256       {ECO:0000244|PDB:3ZQ4}.
+FT   HELIX       257    267       {ECO:0000244|PDB:3ZQ4}.
+FT   HELIX       268    270       {ECO:0000244|PDB:3ZQ4}.
+FT   HELIX       276    278       {ECO:0000244|PDB:3ZQ4}.
+FT   HELIX       282    284       {ECO:0000244|PDB:3ZQ4}.
+FT   TURN        285    287       {ECO:0000244|PDB:3ZQ4}.
+FT   HELIX       290    292       {ECO:0000244|PDB:3ZQ4}.
+FT   STRAND      293    297       {ECO:0000244|PDB:3ZQ4}.
+FT   HELIX       307    312       {ECO:0000244|PDB:3ZQ4}.
+FT   STRAND      326    329       {ECO:0000244|PDB:3ZQ4}.
+FT   HELIX       338    350       {ECO:0000244|PDB:3ZQ4}.
+FT   STRAND      354    356       {ECO:0000244|PDB:3ZQ4}.
+FT   STRAND      358    361       {ECO:0000244|PDB:3ZQ4}.
+FT   HELIX       371    380       {ECO:0000244|PDB:3ZQ4}.
+FT   STRAND      383    391       {ECO:0000244|PDB:3ZQ4}.
+FT   HELIX       393    405       {ECO:0000244|PDB:3ZQ4}.
+FT   HELIX       410    412       {ECO:0000244|PDB:3ZQ4}.
+FT   STRAND      421    425       {ECO:0000244|PDB:3ZQ4}.
+FT   STRAND      428    431       {ECO:0000244|PDB:3ZQ4}.
+FT   STRAND      439    443       {ECO:0000244|PDB:3ZQ4}.
+FT   HELIX       452    464       {ECO:0000244|PDB:3ZQ4}.
+FT   STRAND      466    473       {ECO:0000244|PDB:3ZQ4}.
+FT   STRAND      475    477       {ECO:0000244|PDB:3ZQ4}.
+FT   STRAND      480    492       {ECO:0000244|PDB:3ZQ4}.
+FT   HELIX       494    497       {ECO:0000244|PDB:3ZQ4}.
+FT   HELIX       500    516       {ECO:0000244|PDB:3ZQ4}.
+FT   HELIX       523    542       {ECO:0000244|PDB:3ZQ4}.
+FT   STRAND      547    554       {ECO:0000244|PDB:3ZQ4}.
+SQ   SEQUENCE   555 AA;  61517 MW;  48091B448B8431C9 CRC64;
+     MKFVKNDQTA VFALGGLGEI GKNTYAVQFQ DEIVLIDAGI KFPEDELLGI DYVIPDYTYL
+     VKNEDKIKGL FITHGHEDHI GGIPYLLRQV NIPVYGGKLA IGLLRNKLEE HGLLRQTKLN
+     IIGEDDIVKF RKTAVSFFRT THSIPDSYGI VVKTPPGNIV HTGDFKFDFT PVGEPANLTK
+     MAEIGKEGVL CLLSDSTNSE NPEFTMSERR VGESIHDIFR KVDGRIIFAT FASNIHRLQQ
+     VIEAAVQNGR KVAVFGRSME SAIEIGQTLG YINCPKNTFI EHNEINRMPA NKVTILCTGS
+     QGEPMAALSR IANGTHRQIS INPGDTVVFS SSPIPGNTIS VSRTINQLYR AGAEVIHGPL
+     NDIHTSGHGG QEEQKLMLRL IKPKFFMPIH GEYRMQKMHV KLATDCGIPE ENCFIMDNGE
+     VLALKGDEAS VAGKIPSGSV YIDGSGIGDI GNIVLRDRRI LSEEGLVIVV VSIDMDDFKI
+     SAGPDLISRG FVYMRESGDL INDAQELISN HLQKVMERKT TQWSEIKNEI TDTLAPFLYE
+     KTKRRPMILP IIMEV
+//

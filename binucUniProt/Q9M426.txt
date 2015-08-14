@@ -1,0 +1,138 @@
+ID   Q9M426_SOYBN            Unreviewed;       499 AA.
+AC   Q9M426;
+DT   01-OCT-2000, integrated into UniProtKB/TrEMBL.
+DT   01-OCT-2000, sequence version 1.
+DT   24-JUN-2015, entry version 64.
+DE   RecName: Full=Glutathione synthetase {ECO:0000256|PIRNR:PIRNR001558};
+DE            Short=GSH-S {ECO:0000256|PIRNR:PIRNR001558};
+DE            EC=6.3.2.3 {ECO:0000256|PIRNR:PIRNR001558};
+GN   Name=hGS {ECO:0000313|EMBL:CAB91078.1};
+OS   Glycine max (Soybean) (Glycine hispida).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+OC   Phaseoleae; Glycine; Soja.
+OX   NCBI_TaxID=3847 {ECO:0000313|EMBL:CAB91078.1};
+RN   [1] {ECO:0000313|EMBL:CAB91078.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   TISSUE=Cell culture {ECO:0000313|EMBL:CAB91078.1};
+RA   Skipsey M., Andrews C.J., Townson J.K., Jepson I., Edwards R.;
+RT   "Cloning and Characterisation of homoglutathione synthetase from
+RT   soybean.";
+RL   Submitted (FEB-2000) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:3KAJ, ECO:0000213|PDB:3KAK, ECO:0000213|PDB:3KAL}
+RP   X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS) IN COMPLEX WITH ADP AND
+RP   MAGNESIUM.
+RX   PubMed=19948790; DOI=10.1105/tpc.109.071183;
+RA   Galant A., Arkus K.A., Zubieta C., Cahoon R.E., Jez J.M.;
+RT   "Structural basis for evolution of product diversity in soybean
+RT   glutathione biosynthesis.";
+RL   Plant Cell 21:3450-3458(2009).
+CC   -!- CATALYTIC ACTIVITY: ATP + gamma-L-glutamyl-L-cysteine + glycine =
+CC       ADP + phosphate + glutathione. {ECO:0000256|PIRNR:PIRNR001558}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000256|PIRNR:PIRNR001558,
+CC         ECO:0000256|PIRSR:PIRSR001558-2};
+CC       Note=Binds 1 Mg(2+) ion per subunit.
+CC       {ECO:0000256|PIRNR:PIRNR001558, ECO:0000256|PIRSR:PIRSR001558-2};
+CC   -!- PATHWAY: Sulfur metabolism; glutathione biosynthesis; glutathione
+CC       from L-cysteine and L-glutamate: step 2/2.
+CC       {ECO:0000256|PIRNR:PIRNR001558}.
+CC   -!- SIMILARITY: Belongs to the eukaryotic GSH synthase family.
+CC       {ECO:0000256|PIRNR:PIRNR001558}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AJ272035; CAB91078.1; -; mRNA.
+DR   RefSeq; NP_001237050.1; NM_001250121.1.
+DR   UniGene; Gma.23944; -.
+DR   PDB; 3KAJ; X-ray; 2.00 A; A/B=1-499.
+DR   PDB; 3KAK; X-ray; 2.11 A; A/B=1-499.
+DR   PDB; 3KAL; X-ray; 1.90 A; A/B=1-499.
+DR   ProteinModelPortal; Q9M426; -.
+DR   STRING; 3847.GLYMA19G42600.1; -.
+DR   GeneID; 547989; -.
+DR   KEGG; gmx:547989; -.
+DR   KO; K01920; -.
+DR   BRENDA; 6.3.2.3; 2483.
+DR   UniPathway; UPA00142; UER00210.
+DR   EvolutionaryTrace; Q9M426; -.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004363; F:glutathione synthase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.1080.10; -; 1.
+DR   Gene3D; 3.30.1490.50; -; 1.
+DR   Gene3D; 3.30.1490.80; -; 1.
+DR   Gene3D; 3.40.50.1760; -; 1.
+DR   InterPro; IPR004887; Glutathione_synth_subst-bd_euk.
+DR   InterPro; IPR014042; Glutathione_synthase_a-hlx_euk.
+DR   InterPro; IPR014709; Glutathione_synthase_dom.
+DR   InterPro; IPR005615; Glutathione_synthase_euk.
+DR   InterPro; IPR014049; Glutathione_synthase_N_euk.
+DR   InterPro; IPR016185; PreATP-grasp_dom.
+DR   PANTHER; PTHR11130; PTHR11130; 1.
+DR   Pfam; PF03917; GSH_synth_ATP; 1.
+DR   Pfam; PF03199; GSH_synthase; 1.
+DR   PIRSF; PIRSF001558; GSHase; 1.
+DR   SUPFAM; SSF52440; SSF52440; 1.
+DR   TIGRFAMs; TIGR01986; glut_syn_euk; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3KAJ, ECO:0000213|PDB:3KAK};
+KW   ATP-binding {ECO:0000256|PIRNR:PIRNR001558,
+KW   ECO:0000256|PIRSR:PIRSR001558-1};
+KW   Glutathione biosynthesis {ECO:0000256|PIRNR:PIRNR001558};
+KW   Ligase {ECO:0000256|PIRNR:PIRNR001558, ECO:0000313|EMBL:CAB91078.1};
+KW   Magnesium {ECO:0000213|PDB:3KAL, ECO:0000256|PIRNR:PIRNR001558};
+KW   Metal-binding {ECO:0000213|PDB:3KAL, ECO:0000256|PIRNR:PIRNR001558};
+KW   Nucleotide-binding {ECO:0000256|PIRNR:PIRNR001558,
+KW   ECO:0000256|PIRSR:PIRSR001558-1}.
+FT   NP_BIND     388    397       ATP. {ECO:0000256|PIRSR:PIRSR001558-1}.
+FT   NP_BIND     392    399       ADP. {ECO:0000213|PDB:3KAL}.
+FT   NP_BIND     424    427       ADP. {ECO:0000213|PDB:3KAL}.
+FT   NP_BIND     424    427       ATP. {ECO:0000256|PIRSR:PIRSR001558-1}.
+FT   METAL       169    169       Magnesium.
+FT                                {ECO:0000256|PIRSR:PIRSR001558-2}.
+FT   METAL       169    169       Magnesium 1. {ECO:0000213|PDB:3KAL}.
+FT   METAL       169    169       Magnesium 2. {ECO:0000213|PDB:3KAL}.
+FT   METAL       170    170       Magnesium 2; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:3KAL}.
+FT   METAL       171    171       Magnesium.
+FT                                {ECO:0000256|PIRSR:PIRSR001558-2}.
+FT   METAL       171    171       Magnesium 1. {ECO:0000213|PDB:3KAL}.
+FT   METAL       332    332       Magnesium 2; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:3KAL}.
+FT   METAL       392    392       Magnesium.
+FT                                {ECO:0000256|PIRSR:PIRSR001558-2}.
+FT   METAL       392    392       Magnesium 1. {ECO:0000213|PDB:3KAL}.
+FT   METAL       392    392       Magnesium 2. {ECO:0000213|PDB:3KAL}.
+FT   BINDING     153    153       Substrate.
+FT                                {ECO:0000256|PIRSR:PIRSR001558-1}.
+FT   BINDING     169    169       ADP. {ECO:0000213|PDB:3KAL}.
+FT   BINDING     169    169       ATP. {ECO:0000256|PIRSR:PIRSR001558-1}.
+FT   BINDING     247    247       Substrate.
+FT                                {ECO:0000256|PIRSR:PIRSR001558-1}.
+FT   BINDING     334    334       ADP. {ECO:0000213|PDB:3KAL}.
+FT   BINDING     334    334       ATP. {ECO:0000256|PIRSR:PIRSR001558-1}.
+FT   BINDING     388    388       ADP. {ECO:0000213|PDB:3KAL}.
+FT   BINDING     399    399       ATP. {ECO:0000256|PIRSR:PIRSR001558-1}.
+FT   BINDING     450    450       ADP. {ECO:0000213|PDB:3KAL}.
+FT   BINDING     450    450       ATP. {ECO:0000256|PIRSR:PIRSR001558-1}.
+FT   BINDING     475    475       Substrate.
+FT                                {ECO:0000256|PIRSR:PIRSR001558-1}.
+FT   BINDING     477    477       ADP. {ECO:0000213|PDB:3KAL}.
+FT   BINDING     477    477       ATP. {ECO:0000256|PIRSR:PIRSR001558-1}.
+FT   BINDING     483    483       ATP; via carbonyl oxygen.
+FT                                {ECO:0000256|PIRSR:PIRSR001558-1}.
+SQ   SEQUENCE   499 AA;  55661 MW;  F311053F48A326DD CRC64;
+     MSQPLTTNSV LVEEAAADGD SSAAAPPLFD YHRIDQKLLQ NIVYDALVWS TLNCLLVGDK
+     SVQRSGRVPG VGLVHLPLSL LPGPFPESHW KQGCELAPIF NELVDRVSLD GKFLQESLSR
+     TKNADEFTSR LLDIHSKMLQ INKKEDIRMG IVRSDYMIDE KTKSLLQIEM NTISTSFALI
+     GCLMTGLHKS LLSQYGKFLG LNSNRVPANN AVDQSAEALA KAWSEYNNPR AAILVVVQVE
+     ERNMYEQHYI SALLREKHHI RSIRKTLTEI DQEGKILPDG TLSVDGQAIS VVYFRAGYTP
+     KDYPSESEWR ARLLMEQSSA IKCPTISYHL VGTKKIQQEL AKPGVLERFV ENKDHIAKLR
+     ACFAGLWSLE DSDIVKKAIE NPELFVMKPQ REGGGNNIYG DELRETLLKL QEAGSQEDAA
+     YILMQRIFPA TSPAILVRDG NWDTGHVISE AGIFGTYLRN KDKIIINNES GYMVRTKISS
+     SYEGGVLPGF GVVDTVYLT
+//

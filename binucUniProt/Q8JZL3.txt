@@ -1,0 +1,205 @@
+ID   THTPA_MOUSE             Reviewed;         224 AA.
+AC   Q8JZL3; Q3V1G2; Q8C3P9;
+DT   03-OCT-2003, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   24-JUN-2015, entry version 106.
+DE   RecName: Full=Thiamine-triphosphatase;
+DE            Short=ThTPase;
+DE            EC=3.6.1.28;
+GN   Name=Thtpa;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=C57BL/6;
+RA   Lakaye B., Coumans B., Makarchikov A., Grisar T., Bettendorff L.;
+RT   "Cloning and expression of mouse thiamine triphosphatase cDNA.";
+RL   Submitted (OCT-2001) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=C57BL/6J; TISSUE=Skin;
+RX   PubMed=16141072; DOI=10.1126/science.1112014;
+RA   Carninci P., Kasukawa T., Katayama S., Gough J., Frith M.C., Maeda N.,
+RA   Oyama R., Ravasi T., Lenhard B., Wells C., Kodzius R., Shimokawa K.,
+RA   Bajic V.B., Brenner S.E., Batalov S., Forrest A.R., Zavolan M.,
+RA   Davis M.J., Wilming L.G., Aidinis V., Allen J.E.,
+RA   Ambesi-Impiombato A., Apweiler R., Aturaliya R.N., Bailey T.L.,
+RA   Bansal M., Baxter L., Beisel K.W., Bersano T., Bono H., Chalk A.M.,
+RA   Chiu K.P., Choudhary V., Christoffels A., Clutterbuck D.R.,
+RA   Crowe M.L., Dalla E., Dalrymple B.P., de Bono B., Della Gatta G.,
+RA   di Bernardo D., Down T., Engstrom P., Fagiolini M., Faulkner G.,
+RA   Fletcher C.F., Fukushima T., Furuno M., Futaki S., Gariboldi M.,
+RA   Georgii-Hemming P., Gingeras T.R., Gojobori T., Green R.E.,
+RA   Gustincich S., Harbers M., Hayashi Y., Hensch T.K., Hirokawa N.,
+RA   Hill D., Huminiecki L., Iacono M., Ikeo K., Iwama A., Ishikawa T.,
+RA   Jakt M., Kanapin A., Katoh M., Kawasawa Y., Kelso J., Kitamura H.,
+RA   Kitano H., Kollias G., Krishnan S.P., Kruger A., Kummerfeld S.K.,
+RA   Kurochkin I.V., Lareau L.F., Lazarevic D., Lipovich L., Liu J.,
+RA   Liuni S., McWilliam S., Madan Babu M., Madera M., Marchionni L.,
+RA   Matsuda H., Matsuzawa S., Miki H., Mignone F., Miyake S., Morris K.,
+RA   Mottagui-Tabar S., Mulder N., Nakano N., Nakauchi H., Ng P.,
+RA   Nilsson R., Nishiguchi S., Nishikawa S., Nori F., Ohara O.,
+RA   Okazaki Y., Orlando V., Pang K.C., Pavan W.J., Pavesi G., Pesole G.,
+RA   Petrovsky N., Piazza S., Reed J., Reid J.F., Ring B.Z., Ringwald M.,
+RA   Rost B., Ruan Y., Salzberg S.L., Sandelin A., Schneider C.,
+RA   Schoenbach C., Sekiguchi K., Semple C.A., Seno S., Sessa L., Sheng Y.,
+RA   Shibata Y., Shimada H., Shimada K., Silva D., Sinclair B.,
+RA   Sperling S., Stupka E., Sugiura K., Sultana R., Takenaka Y., Taki K.,
+RA   Tammoja K., Tan S.L., Tang S., Taylor M.S., Tegner J., Teichmann S.A.,
+RA   Ueda H.R., van Nimwegen E., Verardo R., Wei C.L., Yagi K.,
+RA   Yamanishi H., Zabarovsky E., Zhu S., Zimmer A., Hide W., Bult C.,
+RA   Grimmond S.M., Teasdale R.D., Liu E.T., Brusic V., Quackenbush J.,
+RA   Wahlestedt C., Mattick J.S., Hume D.A., Kai C., Sasaki D., Tomaru Y.,
+RA   Fukuda S., Kanamori-Katayama M., Suzuki M., Aoki J., Arakawa T.,
+RA   Iida J., Imamura K., Itoh M., Kato T., Kawaji H., Kawagashira N.,
+RA   Kawashima T., Kojima M., Kondo S., Konno H., Nakano K., Ninomiya N.,
+RA   Nishio T., Okada M., Plessy C., Shibata K., Shiraki T., Suzuki S.,
+RA   Tagami M., Waki K., Watahiki A., Okamura-Oho Y., Suzuki H., Kawai J.,
+RA   Hayashizaki Y.;
+RT   "The transcriptional landscape of the mammalian genome.";
+RL   Science 309:1559-1563(2005).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=FVB/N; TISSUE=Mammary gland;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4]
+RP   STRUCTURE BY NMR OF 2-223, SUBUNIT, MAGNESIUM-BINDING SITES,
+RP   SUBSTRATE-BINDING SITES, CATALYTIC ACTIVITY, FUNCTION, COFACTOR, AND
+RP   BIOPHYSICOCHEMICAL PROPERTIES.
+RX   PubMed=18276586; DOI=10.1074/jbc.M709675200;
+RA   Song J., Bettendorff L., Tonelli M., Markley J.L.;
+RT   "Structural basis for the catalytic mechanism of mammalian 25-kDa
+RT   thiamine triphosphatase.";
+RL   J. Biol. Chem. 283:10939-10948(2008).
+CC   -!- FUNCTION: Hydrolase highly specific for thiamine triphosphate
+CC       (ThTP). {ECO:0000269|PubMed:18276586}.
+CC   -!- CATALYTIC ACTIVITY: Thiamine triphosphate + H(2)O = thiamine
+CC       diphosphate + phosphate. {ECO:0000269|PubMed:18276586}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000269|PubMed:18276586};
+CC       Note=Binds 1 Mg(2+) ion per subunit.
+CC       {ECO:0000269|PubMed:18276586};
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       pH dependence:
+CC         Optimum pH is 7.5-9.5. {ECO:0000269|PubMed:18276586};
+CC   -!- SUBUNIT: Monomer. {ECO:0000269|PubMed:18276586}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the ThTPase family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 CYTH domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU01044}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF432864; AAM22405.1; -; mRNA.
+DR   EMBL; AK132479; BAE21189.1; -; mRNA.
+DR   EMBL; BC025562; AAH25562.1; -; mRNA.
+DR   CCDS; CCDS27108.1; -.
+DR   RefSeq; NP_694723.1; NM_153083.5.
+DR   UniGene; Mm.319204; -.
+DR   PDB; 2JMU; NMR; -; A=2-224.
+DR   PDBsum; 2JMU; -.
+DR   ProteinModelPortal; Q8JZL3; -.
+DR   SMR; Q8JZL3; 2-224.
+DR   IntAct; Q8JZL3; 1.
+DR   MINT; MINT-4137740; -.
+DR   STRING; 10090.ENSMUSP00000056026; -.
+DR   PhosphoSite; Q8JZL3; -.
+DR   MaxQB; Q8JZL3; -.
+DR   PaxDb; Q8JZL3; -.
+DR   PRIDE; Q8JZL3; -.
+DR   DNASU; 105663; -.
+DR   Ensembl; ENSMUST00000050575; ENSMUSP00000056026; ENSMUSG00000045691.
+DR   GeneID; 105663; -.
+DR   KEGG; mmu:105663; -.
+DR   UCSC; uc007tyb.2; mouse.
+DR   CTD; 79178; -.
+DR   MGI; MGI:2446078; Thtpa.
+DR   eggNOG; NOG42323; -.
+DR   GeneTree; ENSGT00390000005996; -.
+DR   HOGENOM; HOG000154571; -.
+DR   HOVERGEN; HBG057173; -.
+DR   InParanoid; Q8JZL3; -.
+DR   KO; K05307; -.
+DR   OMA; RDTYYDT; -.
+DR   OrthoDB; EOG7288SN; -.
+DR   PhylomeDB; Q8JZL3; -.
+DR   TreeFam; TF333398; -.
+DR   BRENDA; 3.6.1.28; 3474.
+DR   Reactome; REACT_295805; Vitamin B1 (thiamin) metabolism.
+DR   EvolutionaryTrace; Q8JZL3; -.
+DR   NextBio; 357818; -.
+DR   PRO; PR:Q8JZL3; -.
+DR   Proteomes; UP000000589; Chromosome 14.
+DR   Bgee; Q8JZL3; -.
+DR   CleanEx; MM_THTPA; -.
+DR   Genevisible; Q8JZL3; MM.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0000287; F:magnesium ion binding; IDA:UniProtKB.
+DR   GO; GO:0050333; F:thiamin-triphosphatase activity; IDA:UniProtKB.
+DR   GO; GO:0016311; P:dephosphorylation; ISO:MGI.
+DR   GO; GO:0042357; P:thiamine diphosphate metabolic process; IDA:UniProtKB.
+DR   GO; GO:0006772; P:thiamine metabolic process; IEA:InterPro.
+DR   Gene3D; 2.40.320.10; -; 1.
+DR   InterPro; IPR023577; CYTH-like_domain.
+DR   InterPro; IPR012177; ThTPase.
+DR   Pfam; PF01928; CYTH; 1.
+DR   PIRSF; PIRSF036561; ThTPase; 1.
+DR   SUPFAM; SSF55154; SSF55154; 1.
+DR   PROSITE; PS51707; CYTH; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Complete proteome; Cytoplasm; Hydrolase;
+KW   Magnesium; Metal-binding; Reference proteome.
+FT   INIT_MET      1      1       Removed. {ECO:0000250|UniProtKB:Q8MKF1,
+FT                                ECO:0000250|UniProtKB:Q9BU02}.
+FT   CHAIN         2    224       Thiamine-triphosphatase.
+FT                                /FTId=PRO_0000221492.
+FT   DOMAIN        5    201       CYTH. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU01044}.
+FT   METAL         7      7       Magnesium.
+FT   METAL         9      9       Magnesium.
+FT   METAL       145    145       Magnesium.
+FT   METAL       157    157       Magnesium.
+FT   METAL       159    159       Magnesium.
+FT   BINDING      11     11       Substrate.
+FT   BINDING      55     55       Substrate.
+FT   BINDING      57     57       Substrate.
+FT   BINDING      65     65       Substrate.
+FT   BINDING     125    125       Substrate.
+FT   BINDING     157    157       Substrate. {ECO:0000250}.
+FT   BINDING     193    193       Substrate.
+FT   MOD_RES       2      2       N-acetylalanine.
+FT                                {ECO:0000250|UniProtKB:Q9BU02}.
+FT   STRAND        3     14       {ECO:0000244|PDB:2JMU}.
+FT   HELIX        18     25       {ECO:0000244|PDB:2JMU}.
+FT   STRAND       28     41       {ECO:0000244|PDB:2JMU}.
+FT   HELIX        46     49       {ECO:0000244|PDB:2JMU}.
+FT   STRAND       53     57       {ECO:0000244|PDB:2JMU}.
+FT   TURN         58     60       {ECO:0000244|PDB:2JMU}.
+FT   STRAND       61     66       {ECO:0000244|PDB:2JMU}.
+FT   STRAND       80     82       {ECO:0000244|PDB:2JMU}.
+FT   HELIX        85     96       {ECO:0000244|PDB:2JMU}.
+FT   HELIX       106    113       {ECO:0000244|PDB:2JMU}.
+FT   STRAND      116    131       {ECO:0000244|PDB:2JMU}.
+FT   STRAND      141    149       {ECO:0000244|PDB:2JMU}.
+FT   TURN        150    152       {ECO:0000244|PDB:2JMU}.
+FT   STRAND      153    163       {ECO:0000244|PDB:2JMU}.
+FT   HELIX       165    167       {ECO:0000244|PDB:2JMU}.
+FT   HELIX       168    182       {ECO:0000244|PDB:2JMU}.
+FT   STRAND      183    185       {ECO:0000244|PDB:2JMU}.
+FT   HELIX       193    201       {ECO:0000244|PDB:2JMU}.
+FT   HELIX       203    212       {ECO:0000244|PDB:2JMU}.
+SQ   SEQUENCE   224 AA;  24264 MW;  D33C844FDA8277D9 CRC64;
+     MAQGLIEVER KFAPGPDTEE RLQELGATLE HRVTFRDTYY DTSELSLMLS DHWLRQREGS
+     GWELKCPGVT GVSGPHNEYV EVTSEAAIVA QLFELLGSGE QKPAGVAAVL GSLKLQEVAS
+     FITTRSSWKL ALSGAHGQEP QLTIDLDSAD FGYAVGEVEA MVHEKAEVPA ALEKIITVSS
+     MLGVPAQEEA PAKLMVYLQR FRPLDYQRLL EAASSGEATG DSAS
+//

@@ -1,0 +1,88 @@
+ID   J9PBR2_STRVD            Unreviewed;       313 AA.
+AC   J9PBR2;
+DT   31-OCT-2012, integrated into UniProtKB/TrEMBL.
+DT   31-OCT-2012, sequence version 1.
+DT   24-JUN-2015, entry version 15.
+DE   SubName: Full=Small laccase, multi-copper oxidase {ECO:0000313|PDB:3TAS};
+DE            EC=1.10.3.2 {ECO:0000313|PDB:3TAS};
+DE   SubName: Full=Small laccase, oxidoreductase {ECO:0000313|PDB:3TBB};
+DE            EC=1.10.3.2 {ECO:0000313|PDB:3TBB};
+DE   SubName: Full=Small laccase, two-domain laccase, multi-copper oxidase {ECO:0000313|PDB:3TBC};
+DE            EC=1.10.3.2 {ECO:0000313|PDB:3TBC};
+OS   Streptomyces viridosporus.
+OC   Bacteria; Actinobacteria; Streptomycetales; Streptomycetaceae;
+OC   Streptomyces.
+OX   NCBI_TaxID=67581 {ECO:0000313|PDB:3TBC};
+RN   [1] {ECO:0000213|PDB:3TAS, ECO:0000213|PDB:3TBB, ECO:0000213|PDB:3TBC}
+RP   X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) IN COMPLEX WITH COPPER AND
+RP   ZINC.
+RX   PubMed=24870309;
+RA   Majumdar S., Lukk T., Solbiati J.O., Bauer S., Nair S.K., Cronan J.E.,
+RA   Gerlt J.A.;
+RT   "Roles of small laccases from Streptomyces in lignin degradation.";
+RL   Biochemistry 53:4047-4058(2014).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   PDB; 3TAS; X-ray; 2.30 A; A/B/C=1-313.
+DR   PDB; 3TBB; X-ray; 2.30 A; A/B/C=1-313.
+DR   PDB; 3TBC; X-ray; 2.70 A; A/B/C=1-313.
+DR   GO; GO:0005507; F:copper ion binding; IEA:InterPro.
+DR   GO; GO:0052716; F:hydroquinone:oxygen oxidoreductase activity; IEA:UniProtKB-EC.
+DR   Gene3D; 2.60.40.420; -; 2.
+DR   InterPro; IPR011706; Cu-oxidase_2.
+DR   InterPro; IPR011707; Cu-oxidase_3.
+DR   InterPro; IPR002355; Cu_oxidase_Cu_BS.
+DR   InterPro; IPR008972; Cupredoxin.
+DR   Pfam; PF07731; Cu-oxidase_2; 1.
+DR   Pfam; PF07732; Cu-oxidase_3; 1.
+DR   SUPFAM; SSF49503; SSF49503; 2.
+DR   PROSITE; PS00080; MULTICOPPER_OXIDASE2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3TAS, ECO:0000213|PDB:3TBB};
+KW   Copper {ECO:0000213|PDB:3TAS, ECO:0000213|PDB:3TBB};
+KW   Metal-binding {ECO:0000213|PDB:3TAS, ECO:0000213|PDB:3TBB};
+KW   Zinc {ECO:0000213|PDB:3TAS, ECO:0000313|PDB:3TAS}.
+FT   METAL        67     67       Copper 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3TBB,
+FT                                ECO:0000213|PDB:3TBC}.
+FT   METAL        69     69       Copper 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3TBB,
+FT                                ECO:0000213|PDB:3TBC}.
+FT   METAL       121    121       Copper 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3TBB,
+FT                                ECO:0000213|PDB:3TBC}.
+FT   METAL       123    123       Copper 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3TBB,
+FT                                ECO:0000213|PDB:3TBC}.
+FT   METAL       128    128       Zinc. {ECO:0000213|PDB:3TAS}.
+FT   METAL       129    129       Zinc; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3TAS}.
+FT   METAL       196    196       Copper 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3TAS,
+FT                                ECO:0000213|PDB:3TBB,
+FT                                ECO:0000213|PDB:3TBC}.
+FT   METAL       199    199       Copper 3; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3TAS}.
+FT   METAL       199    199       Copper 4; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3TBB}.
+FT   METAL       253    253       Copper 2. {ECO:0000213|PDB:3TAS,
+FT                                ECO:0000213|PDB:3TBB,
+FT                                ECO:0000213|PDB:3TBC}.
+FT   METAL       254    254       Copper 4; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3TBB}.
+FT   METAL       258    258       Copper 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3TAS,
+FT                                ECO:0000213|PDB:3TBB,
+FT                                ECO:0000213|PDB:3TBC}.
+FT   METAL       285    285       Zinc; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3TAS}.
+SQ   SEQUENCE   313 AA;  34158 MW;  74FA2C53FE848A2B CRC64;
+     MGPAKTAPAG GEVKRIKLYA ERLGGGQMGY GLEKGKATIP GPLIELNEGD TLHIEFENTM
+     DVPVSLHVHG LDYEISSDGT KQSRSDVEPG GTRTYTWRTH VPGRRADGTW RAGSAGYWHY
+     HDHVVGTEHG TGGIRNGLYG PVIVRRKGDV LPDRTHTIVF NDMTINNRPA HTGPDFEATV
+     GDRVEFVMIT HGEYYHTFHL HGHRWADNRT GMLTGPDDPS QVIDNKICGP ADSFGFQVIA
+     GEGVGAGAWM YHCHVQSHSD MGMVGLFLVK KPDGTIPGYD PHRHHHGAAS GKPEKAEKPA
+     GSEKTEESEE HAH
+//

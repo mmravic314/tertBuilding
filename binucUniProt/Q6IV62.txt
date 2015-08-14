@@ -1,0 +1,82 @@
+ID   Q6IV62_9PSED            Unreviewed;       330 AA.
+AC   Q6IV62;
+DT   12-DEC-2006, integrated into UniProtKB/TrEMBL.
+DT   12-DEC-2006, sequence version 1.
+DT   24-JUN-2015, entry version 43.
+DE   SubName: Full=Toluene o-xylene monooxygenase component {ECO:0000313|EMBL:AAT40435.1};
+GN   Name=touE {ECO:0000313|EMBL:AAT40435.1};
+OS   Pseudomonas sp. OX1.
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+OC   Pseudomonadaceae; Pseudomonas.
+OX   NCBI_TaxID=320855 {ECO:0000313|EMBL:AAT40435.1};
+RN   [1] {ECO:0000313|EMBL:AAT40435.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=OX1 {ECO:0000313|EMBL:AAT40435.1};
+RX   PubMed=15184119; DOI=10.1128/AEM.70.6.3253-3262.2004;
+RA   Vardar G., Wood T.K.;
+RT   "Protein engineering of toluene-o-xylene monooxygenase from
+RT   Pseudomonas stutzeri OX1 for synthesizing 4-methylresorcinol,
+RT   methylhydroquinone, and pyrogallol.";
+RL   Appl. Environ. Microbiol. 70:3253-3262(2004).
+RN   [2] {ECO:0000213|PDB:3N1X, ECO:0000213|PDB:3N1Y, ECO:0000213|PDB:3N1Z}
+RP   X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS).
+RX   PubMed=20839885; DOI=10.1021/ja1063795;
+RA   Song W.J., McCormick M.S., Behan R.K., Sazinsky M.H., Jiang W.,
+RA   Lin J., Krebs C., Lippard S.J.;
+RT   "Active site threonine facilitates proton transfer during dioxygen
+RT   activation at the diiron center of toluene/o-xylene monooxygenase
+RT   hydroxylase.";
+RL   J. Am. Chem. Soc. 132:13582-13585(2010).
+RN   [3] {ECO:0000213|PDB:3RN9, ECO:0000213|PDB:3RNA, ECO:0000213|PDB:3RNB}
+RP   X-RAY CRYSTALLOGRAPHY (2.20 ANGSTROMS).
+RX   PubMed=21859951; DOI=10.1073/pnas.1106514108;
+RA   Song W.J., Gucinski G., Sazinsky M.H., Lippard S.J.;
+RT   "Tracking a defined route for O migration in a dioxygen-activating
+RT   diiron enzyme.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 108:14795-14800(2011).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AY621080; AAT40435.1; -; Genomic_DNA.
+DR   PDB; 3N1X; X-ray; 2.40 A; B=1-330.
+DR   PDB; 3N1Y; X-ray; 2.10 A; B=1-330.
+DR   PDB; 3N1Z; X-ray; 2.90 A; B=1-330.
+DR   PDB; 3N20; X-ray; 1.90 A; B=1-330.
+DR   PDB; 3RN9; X-ray; 2.80 A; B=1-330.
+DR   PDB; 3RNA; X-ray; 3.00 A; B=1-330.
+DR   PDB; 3RNB; X-ray; 2.64 A; B=1-330.
+DR   PDB; 3RNC; X-ray; 2.74 A; B=1-330.
+DR   PDB; 3RNE; X-ray; 2.50 A; B=1-330.
+DR   PDB; 3RNF; X-ray; 2.20 A; B=1-330.
+DR   PDB; 3RNG; X-ray; 2.81 A; B=1-330.
+DR   PDBsum; 3N1X; -.
+DR   PDBsum; 3N1Y; -.
+DR   PDBsum; 3N1Z; -.
+DR   PDBsum; 3N20; -.
+DR   ProteinModelPortal; Q6IV62; -.
+DR   SMR; Q6IV62; 8-330.
+DR   DIP; DIP-59707N; -.
+DR   EvolutionaryTrace; Q6IV62; -.
+DR   GO; GO:0016709; F:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen; IEA:InterPro.
+DR   GO; GO:0006725; P:cellular aromatic compound metabolic process; IEA:InterPro.
+DR   Gene3D; 1.10.620.20; -; 1.
+DR   InterPro; IPR009078; Ferritin-like_SF.
+DR   InterPro; IPR012078; MP_mOase_hydro.
+DR   InterPro; IPR003430; Phenol_Hydrox.
+DR   InterPro; IPR012348; RNR-rel.
+DR   Pfam; PF02332; Phenol_Hydrox; 1.
+DR   PIRSF; PIRSF000040; MMOH_comp; 1.
+DR   SUPFAM; SSF47240; SSF47240; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3N1X, ECO:0000213|PDB:3N1Y};
+KW   Monooxygenase {ECO:0000313|EMBL:AAT40435.1};
+KW   Oxidoreductase {ECO:0000313|EMBL:AAT40435.1}.
+SQ   SEQUENCE   330 AA;  38334 MW;  09F9A3180112D88B CRC64;
+     MSEQQPEALK PLKTWSHLAG NRRRPSEYEV VSTNLHYFTD NPERPWELDS NLPMQTWYKK
+     YCFDSPLKHD DWNAFRDPDQ LVYRTYNLLQ DGQESYVQGL FDQLNDRGHD QMLTREWVET
+     LARFYTPARY LFHALQMGSV YIHQIAPAST ITNCATYETA DHLRWLTHTA YRTRELANCY
+     PDVGFGKRER DVWENDPAWQ GFRELIEKAL IAWDWGEAFT AINLVTKPAV EEALLQQLGS
+     LAQSEGDTLL GLLAQAQKRD AERHRRWSSA LVKMALEKEG NREVLQKWVA KWEPLADKAI
+     EAYCSALPDG ENAIVEAKSA SRYVRQMMGL
+//

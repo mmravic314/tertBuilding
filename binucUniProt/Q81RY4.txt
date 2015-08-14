@@ -1,0 +1,132 @@
+ID   Q81RY4_BACAN            Unreviewed;       427 AA.
+AC   Q81RY4; E9QZJ9; E9QZK0; Q6I061; Q6KU39;
+DT   01-JUN-2003, integrated into UniProtKB/TrEMBL.
+DT   01-JUN-2003, sequence version 1.
+DT   22-JUL-2015, entry version 120.
+DE   SubName: Full=Putative xaa-pro aminopeptidase {ECO:0000313|EMBL:AAT31019.1};
+DE   SubName: Full=Xaa-Pro aminopeptidase {ECO:0000313|EMBL:BAR77362.1};
+GN   Name=pepP {ECO:0000313|EMBL:BAR77362.1};
+GN   OrderedLocusNames=GBAA_1901 {ECO:0000313|EMBL:AAT31019.1};
+GN   ORFNames=BASH2_03955 {ECO:0000313|EMBL:BAR77362.1};
+OS   Bacillus anthracis.
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus;
+OC   Bacillus cereus group.
+OX   NCBI_TaxID=1392 {ECO:0000313|Proteomes:UP000000594};
+RN   [1] {ECO:0000313|EMBL:AAT31019.1, ECO:0000313|Proteomes:UP000000594}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Ames ancestor {ECO:0000313|Proteomes:UP000000594}, and
+RC   Ames Ancestor {ECO:0000313|EMBL:AAT31019.1};
+RX   PubMed=18952800; DOI=10.1128/JB.01347-08;
+RA   Ravel J., Jiang L., Stanley S.T., Wilson M.R., Decker R.S., Read T.D.,
+RA   Worsham P., Keim P.S., Salzberg S.L., Fraser-Liggett C.M., Rasko D.A.;
+RT   "The complete genome sequence of Bacillus anthracis Ames 'Ancestor'.";
+RL   J. Bacteriol. 191:445-446(2009).
+RN   [2] {ECO:0000213|PDB:3IG4}
+RP   X-RAY CRYSTALLOGRAPHY (2.89 ANGSTROMS) IN COMPLEX WITH MANGANESE.
+RG   Center for Structural Genomics of Infectious Diseases (CSGID);
+RA   Anderson S.M., Wawrzak Z., Skarina T., Onopriyenko O., Kwon K.,
+RA   Anderson W.F., Savchenko A.;
+RT   "Structure of a putative aminopeptidase P from Bacillus anthracis.";
+RL   Submitted (JUL-2009) to the PDB data bank.
+RN   [3] {ECO:0000313|EMBL:BAR77362.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=Shikan-NIID {ECO:0000313|EMBL:BAR77362.1};
+RA   Okutani A., Morikawa S., Inoue S.;
+RT   "Bacillus anthracis whole genome sequence.";
+RL   Submitted (MAR-2015) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE017334; AAT31019.1; -; Genomic_DNA.
+DR   EMBL; AP014833; BAR77362.1; -; Genomic_DNA.
+DR   RefSeq; WP_000836817.1; NZ_KN050651.1.
+DR   PDB; 3IG4; X-ray; 2.89 A; A/B/C/D/E/F=1-427.
+DR   PDBsum; 3IG4; -.
+DR   ProteinModelPortal; Q81RY4; -.
+DR   STRING; 198094.BA_1901; -.
+DR   DNASU; 1087091; -.
+DR   EnsemblBacteria; AAP25798; AAP25798; BA_1901.
+DR   EnsemblBacteria; AAT31019; AAT31019; GBAA_1901.
+DR   EnsemblBacteria; AAT54078; AAT54078; BAS1763.
+DR   EnsemblBacteria; AIF56169; AIF56169; HYU01_09540.
+DR   EnsemblBacteria; AIK07961; AIK07961; DH23_1835.
+DR   EnsemblBacteria; AIK52797; AIK52797; DJ45_4011.
+DR   EnsemblBacteria; AIK59508; AIK59508; DJ44_114.
+DR   EnsemblBacteria; AIM05759; AIM05759; BACvac02_2012.
+DR   EnsemblBacteria; AIM11179; AIM11179; BAHan_2055.
+DR   EnsemblBacteria; AJA86201; AJA86201; RT54_09510.
+DR   EnsemblBacteria; KFJ82212; KFJ82212; DJ42_1110.
+DR   EnsemblBacteria; KFL68046; KFL68046; DJ49_3096.
+DR   EnsemblBacteria; KFL71533; KFL71533; DJ43_1123.
+DR   EnsemblBacteria; KGZ48913; KGZ48913; OY22_10955.
+DR   EnsemblBacteria; KGZ52155; KGZ52155; NX97_13505.
+DR   EnsemblBacteria; KGZ53310; KGZ53310; OY21_03650.
+DR   EnsemblBacteria; KGZ68885; KGZ68885; OY24_18325.
+DR   EnsemblBacteria; KGZ69135; KGZ69135; OY25_04285.
+DR   EnsemblBacteria; KGZ71863; KGZ71863; OY23_09345.
+DR   EnsemblBacteria; KGZ85050; KGZ85050; OY27_09185.
+DR   EnsemblBacteria; KGZ87360; KGZ87360; OY28_03110.
+DR   EnsemblBacteria; KGZ94337; KGZ94337; OY30_27255.
+DR   EnsemblBacteria; KGZ95498; KGZ95498; OY29_20950.
+DR   EnsemblBacteria; KGZ97547; KGZ97547; OY32_18150.
+DR   EnsemblBacteria; KHA13753; KHA13753; OY35_08470.
+DR   EnsemblBacteria; KHA14345; KHA14345; OY34_10530.
+DR   EnsemblBacteria; KHA19581; KHA19581; OY36_17390.
+DR   EnsemblBacteria; KHA23301; KHA23301; OY37_25130.
+DR   EnsemblBacteria; KHA23638; KHA23638; OY38_23085.
+DR   EnsemblBacteria; KHA42969; KHA42969; OY39_10270.
+DR   EnsemblBacteria; KHG44502; KHG44502; OY31_23290.
+DR   EnsemblBacteria; KHG50860; KHG50860; OY33_11220.
+DR   EnsemblBacteria; KHG61605; KHG61605; OY20_17410.
+DR   KEGG; ban:BA_1901; -.
+DR   KEGG; banh:HYU01_09540; -.
+DR   KEGG; bar:GBAA_1901; -.
+DR   KEGG; bat:BAS1763; -.
+DR   HOGENOM; HOG000008762; -.
+DR   KO; K01262; -.
+DR   OMA; WNGTETK; -.
+DR   OrthoDB; EOG6XHC3N; -.
+DR   BioCyc; BANT260799:GJAJ-1832-MONOMER; -.
+DR   BioCyc; BANT261594:GJ7F-1906-MONOMER; -.
+DR   Proteomes; UP000000594; Chromosome.
+DR   GO; GO:0004177; F:aminopeptidase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0030145; F:manganese ion binding; IEA:InterPro.
+DR   Gene3D; 3.40.350.10; -; 1.
+DR   Gene3D; 3.90.230.10; -; 1.
+DR   InterPro; IPR007865; Aminopep_P_N.
+DR   InterPro; IPR029149; Creatin/AminoP/Spt16_NTD.
+DR   InterPro; IPR028980; Creatinase/Aminopeptidase_P_N.
+DR   InterPro; IPR000994; Pept_M24_structural-domain.
+DR   Pfam; PF05195; AMP_N; 1.
+DR   Pfam; PF00557; Peptidase_M24; 1.
+DR   SMART; SM01011; AMP_N; 1.
+DR   SUPFAM; SSF53092; SSF53092; 1.
+DR   SUPFAM; SSF55920; SSF55920; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3IG4};
+KW   Aminopeptidase {ECO:0000313|EMBL:AAT31019.1};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000594};
+KW   Hydrolase {ECO:0000313|EMBL:AAT31019.1};
+KW   Manganese {ECO:0000213|PDB:3IG4};
+KW   Metal-binding {ECO:0000213|PDB:3IG4};
+KW   Protease {ECO:0000313|EMBL:AAT31019.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000594}.
+FT   METAL       256    256       Manganese 1. {ECO:0000213|PDB:3IG4}.
+FT   METAL       267    267       Manganese 1. {ECO:0000213|PDB:3IG4}.
+FT   METAL       267    267       Manganese 2. {ECO:0000213|PDB:3IG4}.
+FT   METAL       343    343       Manganese 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3IG4}.
+FT   METAL       369    369       Manganese 2. {ECO:0000213|PDB:3IG4}.
+FT   METAL       384    384       Manganese 1. {ECO:0000213|PDB:3IG4}.
+FT   METAL       384    384       Manganese 2. {ECO:0000213|PDB:3IG4}.
+SQ   SEQUENCE   427 AA;  48869 MW;  E5881BC5BB23597F CRC64;
+     MKSKFFAQNR ERLVNTLPDE SITILFAGQA PHMSADAHYK FVPNRNFYYV TGIDEPNVIF
+     MLKKFGNSVE ETLFIEKSDP VMEKWVGKTV SNEEAEKISG IKKVIYLDSF EKTMSNIFFT
+     ENVKHLYLDL ECREWKGTET KTLAFAKHVR EQYPHVTIGN VYPNICELRV FKTDEEIEII
+     KEAIAVTKDG IYNVLKHAKA DMMEYELEAQ FDFTLKSSGI KHHAFNTILA SGKNATVLHY
+     EDNDAQIQNG DLVLLDLGAQ KDYYNADISY TFPANGTFSS RQKQIYNIVL NALKETTEII
+     KPGLKFAALN EHAKKVLAEG CKAVGLIQED EELSKYYYHG VSHFLGLDTH DVGTYKDRVL
+     EEGMVITIEP GLYIEEESIG IRIEDDILVT KDGHENLSKD IIREVEEIEE FMRENNVNVK
+     QDEVVTK
+//

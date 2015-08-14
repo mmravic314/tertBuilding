@@ -1,0 +1,404 @@
+ID   SAMP_HUMAN              Reviewed;         223 AA.
+AC   P02743;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   01-FEB-1995, sequence version 2.
+DT   22-JUL-2015, entry version 179.
+DE   RecName: Full=Serum amyloid P-component;
+DE            Short=SAP;
+DE   AltName: Full=9.5S alpha-1-glycoprotein;
+DE   Contains:
+DE     RecName: Full=Serum amyloid P-component(1-203);
+DE   Flags: Precursor;
+GN   Name=APCS; Synonyms=PTX2;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=2987268;
+RA   Mantzouranis E.C., Dowton S.B., Whitehead A.S., Edge M.D.,
+RA   Bruns G.A.P., Colten H.R.;
+RT   "Human serum amyloid P component. cDNA isolation, complete sequence of
+RT   pre-serum amyloid P component, and localization of the gene to
+RT   chromosome 1.";
+RL   J. Biol. Chem. 260:7752-7756(1985).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=3029048;
+RA   Ohnishi S., Maeda S., Shimada K., Arao T.;
+RT   "Isolation and characterization of the complete complementary and
+RT   genomic DNA sequences of human serum amyloid P component.";
+RL   J. Biochem. 100:849-858(1986).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RA   Kalnine N., Chen X., Rolfs A., Halleck A., Hines L., Eisenstein S.,
+RA   Koundinya M., Raphael J., Moreira D., Kelley T., LaBaer J., Lin Y.,
+RA   Phelan M., Farmer A.;
+RT   "Cloning of human full-length CDSs in BD Creator(TM) system donor
+RT   vector.";
+RL   Submitted (MAY-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RA   Ebert L., Schick M., Neubert P., Schatten R., Henze S., Korn B.;
+RT   "Cloning of human full open reading frames in Gateway(TM) system entry
+RT   vector (pDONR201).";
+RL   Submitted (MAY-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16710414; DOI=10.1038/nature04727;
+RA   Gregory S.G., Barlow K.F., McLay K.E., Kaul R., Swarbreck D.,
+RA   Dunham A., Scott C.E., Howe K.L., Woodfine K., Spencer C.C.A.,
+RA   Jones M.C., Gillson C., Searle S., Zhou Y., Kokocinski F.,
+RA   McDonald L., Evans R., Phillips K., Atkinson A., Cooper R., Jones C.,
+RA   Hall R.E., Andrews T.D., Lloyd C., Ainscough R., Almeida J.P.,
+RA   Ambrose K.D., Anderson F., Andrew R.W., Ashwell R.I.S., Aubin K.,
+RA   Babbage A.K., Bagguley C.L., Bailey J., Beasley H., Bethel G.,
+RA   Bird C.P., Bray-Allen S., Brown J.Y., Brown A.J., Buckley D.,
+RA   Burton J., Bye J., Carder C., Chapman J.C., Clark S.Y., Clarke G.,
+RA   Clee C., Cobley V., Collier R.E., Corby N., Coville G.J., Davies J.,
+RA   Deadman R., Dunn M., Earthrowl M., Ellington A.G., Errington H.,
+RA   Frankish A., Frankland J., French L., Garner P., Garnett J., Gay L.,
+RA   Ghori M.R.J., Gibson R., Gilby L.M., Gillett W., Glithero R.J.,
+RA   Grafham D.V., Griffiths C., Griffiths-Jones S., Grocock R.,
+RA   Hammond S., Harrison E.S.I., Hart E., Haugen E., Heath P.D.,
+RA   Holmes S., Holt K., Howden P.J., Hunt A.R., Hunt S.E., Hunter G.,
+RA   Isherwood J., James R., Johnson C., Johnson D., Joy A., Kay M.,
+RA   Kershaw J.K., Kibukawa M., Kimberley A.M., King A., Knights A.J.,
+RA   Lad H., Laird G., Lawlor S., Leongamornlert D.A., Lloyd D.M.,
+RA   Loveland J., Lovell J., Lush M.J., Lyne R., Martin S.,
+RA   Mashreghi-Mohammadi M., Matthews L., Matthews N.S.W., McLaren S.,
+RA   Milne S., Mistry S., Moore M.J.F., Nickerson T., O'Dell C.N.,
+RA   Oliver K., Palmeiri A., Palmer S.A., Parker A., Patel D., Pearce A.V.,
+RA   Peck A.I., Pelan S., Phelps K., Phillimore B.J., Plumb R., Rajan J.,
+RA   Raymond C., Rouse G., Saenphimmachak C., Sehra H.K., Sheridan E.,
+RA   Shownkeen R., Sims S., Skuce C.D., Smith M., Steward C.,
+RA   Subramanian S., Sycamore N., Tracey A., Tromans A., Van Helmond Z.,
+RA   Wall M., Wallis J.M., White S., Whitehead S.L., Wilkinson J.E.,
+RA   Willey D.L., Williams H., Wilming L., Wray P.W., Wu Z., Coulson A.,
+RA   Vaudin M., Sulston J.E., Durbin R.M., Hubbard T., Wooster R.,
+RA   Dunham I., Carter N.P., McVean G., Ross M.T., Harrow J., Olson M.V.,
+RA   Beck S., Rogers J., Bentley D.R.;
+RT   "The DNA sequence and biological annotation of human chromosome 1.";
+RL   Nature 441:315-321(2006).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Skeletal muscle;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [7]
+RP   PROTEIN SEQUENCE OF 20-223.
+RX   PubMed=4055725;
+RA   Prelli F., Pras M., Frangione B.;
+RT   "The primary structure of human tissue amyloid P component from a
+RT   patient with primary idiopathic amyloidosis.";
+RL   J. Biol. Chem. 260:12895-12898(1985).
+RN   [8]
+RP   PROTEIN SEQUENCE OF 20-49.
+RX   PubMed=81686; DOI=10.1021/bi00613a030;
+RA   Thompson A.R., Enfield D.L.;
+RT   "Human plasma P component: isolation and characterization.";
+RL   Biochemistry 17:4304-4311(1978).
+RN   [9]
+RP   STRUCTURE OF CARBOHYDRATE, AND MASS SPECTROMETRY.
+RX   PubMed=8202534; DOI=10.1073/pnas.91.12.5602;
+RA   Pepys M.B., Rademacher T.W., Amatayakul-Chantler S., Williams P.,
+RA   Noble G.E., Hutchinson W.L., Hawkins P.N., Nelson S.R.,
+RA   Gallimore J.R., Herbert J., Hutton T., Dwek R.A.;
+RT   "Human serum amyloid P component is an invariant constituent of
+RT   amyloid deposits and has a uniquely homogeneous glycostructure.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 91:5602-5606(1994).
+RN   [10]
+RP   TISSUE SPECIFICITY, AND MASS SPECTROMETRY.
+RX   PubMed=15174148; DOI=10.1002/pmic.200300690;
+RA   Kiernan U.A., Nedelkov D., Tubbs K.A., Niederkofler E.E., Nelson R.W.;
+RT   "Proteomic characterization of novel serum amyloid P component
+RT   variants from human plasma and urine.";
+RL   Proteomics 4:1825-1829(2004).
+RN   [11]
+RP   GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-51.
+RC   TISSUE=Plasma;
+RX   PubMed=16335952; DOI=10.1021/pr0502065;
+RA   Liu T., Qian W.-J., Gritsenko M.A., Camp D.G. II, Monroe M.E.,
+RA   Moore R.J., Smith R.D.;
+RT   "Human plasma N-glycoproteome analysis by immunoaffinity subtraction,
+RT   hydrazide chemistry, and mass spectrometry.";
+RL   J. Proteome Res. 4:2070-2080(2005).
+RN   [12]
+RP   GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-51.
+RC   TISSUE=Liver;
+RX   PubMed=19159218; DOI=10.1021/pr8008012;
+RA   Chen R., Jiang X., Sun D., Han G., Wang F., Ye M., Wang L., Zou H.;
+RT   "Glycoproteomics analysis of human liver tissue by combination of
+RT   multiple enzyme digestion and hydrazide chemistry.";
+RL   J. Proteome Res. 8:651-661(2009).
+RN   [13]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P.,
+RA   Buerckstuemmer T., Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [14]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D.,
+RA   Wang L., Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human
+RT   liver phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [15]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS).
+RX   PubMed=8114934; DOI=10.1038/367338a0;
+RA   Emsley J., White H.E., O'Hara B., Oliva G., Srinivasan N.,
+RA   Tickle I.J., Blundell T.L., Pepys M.B., Wood S.P.;
+RT   "Structure of pentameric human serum amyloid P component.";
+RL   Nature 367:338-345(1994).
+RN   [16]
+RP   X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS).
+RX   PubMed=9217261; DOI=10.1006/jmbi.1997.1075;
+RA   Hohenester E., Hutchinson W.L., Pepys M.B., Wood S.P.;
+RT   "Crystal structure of a decameric complex of human serum amyloid P
+RT   component with bound dAMP.";
+RL   J. Mol. Biol. 269:570-578(1997).
+RN   [17]
+RP   VARIANT [LARGE SCALE ANALYSIS] SER-141.
+RX   PubMed=16959974; DOI=10.1126/science.1133427;
+RA   Sjoeblom T., Jones S., Wood L.D., Parsons D.W., Lin J., Barber T.D.,
+RA   Mandelker D., Leary R.J., Ptak J., Silliman N., Szabo S.,
+RA   Buckhaults P., Farrell C., Meeh P., Markowitz S.D., Willis J.,
+RA   Dawson D., Willson J.K.V., Gazdar A.F., Hartigan J., Wu L., Liu C.,
+RA   Parmigiani G., Park B.H., Bachman K.E., Papadopoulos N.,
+RA   Vogelstein B., Kinzler K.W., Velculescu V.E.;
+RT   "The consensus coding sequences of human breast and colorectal
+RT   cancers.";
+RL   Science 314:268-274(2006).
+CC   -!- FUNCTION: Can interact with DNA and histones and may scavenge
+CC       nuclear material released from damaged circulating cells. May also
+CC       function as a calcium-dependent lectin.
+CC   -!- COFACTOR:
+CC       Name=Ca(2+); Xref=ChEBI:CHEBI:29108;
+CC       Note=Binds 2 calcium ions per subunit.;
+CC   -!- SUBUNIT: Homopentamer. Pentaxin (or pentraxin) have a discoid
+CC       arrangement of 5 non-covalently bound subunits.
+CC   -!- SUBCELLULAR LOCATION: Secreted.
+CC   -!- TISSUE SPECIFICITY: Found in serum and urine.
+CC       {ECO:0000269|PubMed:15174148}.
+CC   -!- PTM: N-glycosylated with a complex biantennary oligosaccharide
+CC       chain with a sialic acid at the end (disialo-SAP). Monosialo-SAP
+CC       as well as asioalo-SAP are also detected (PubMed:15174148).
+CC       {ECO:0000269|PubMed:15174148, ECO:0000269|PubMed:16335952,
+CC       ECO:0000269|PubMed:19159218}.
+CC   -!- MASS SPECTROMETRY: Mass=25462.5; Mass_error=1.1;
+CC       Method=Electrospray; Range=20-223;
+CC       Evidence={ECO:0000269|PubMed:15174148,
+CC       ECO:0000269|PubMed:8202534};
+CC   -!- MASS SPECTROMETRY: Mass=25463; Mass_error=3; Method=MALDI;
+CC       Range=20-223; Evidence={ECO:0000269|PubMed:15174148,
+CC       ECO:0000269|PubMed:8202534};
+CC   -!- MASS SPECTROMETRY: Mass=1285.78; Method=MALDI; Range=213-223;
+CC       Evidence={ECO:0000269|PubMed:15174148};
+CC   -!- MASS SPECTROMETRY: Mass=1186.71; Method=MALDI; Range=213-222;
+CC       Evidence={ECO:0000269|PubMed:15174148};
+CC   -!- DISEASE: Note=SAP is a precursor of amyloid component P which is
+CC       found in basement membrane and associated with amyloid deposits.
+CC   -!- SIMILARITY: Belongs to the pentaxin family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 pentaxin domain. {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=Wikipedia; Note=Serum amyloid P component
+CC       entry;
+CC       URL="http://en.wikipedia.org/wiki/Serum_Amyloid_P_Component";
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; D00097; BAA00060.1; -; Genomic_DNA.
+DR   EMBL; M10944; AAA60302.1; -; mRNA.
+DR   EMBL; X04608; CAA28275.1; -; mRNA.
+DR   EMBL; CR450313; CAG29309.1; -; mRNA.
+DR   EMBL; AL445528; CAH73651.1; -; Genomic_DNA.
+DR   EMBL; BT006750; AAP35396.1; -; mRNA.
+DR   EMBL; BC007039; AAH07039.1; -; mRNA.
+DR   EMBL; BC007058; AAH07058.1; -; mRNA.
+DR   CCDS; CCDS1186.1; -.
+DR   PIR; A25503; YLHUP.
+DR   RefSeq; NP_001630.1; NM_001639.3.
+DR   UniGene; Hs.507080; -.
+DR   PDB; 1GYK; X-ray; 2.20 A; A/B/C/D/E=20-223.
+DR   PDB; 1LGN; X-ray; 2.80 A; A/B/C/D/E=20-223.
+DR   PDB; 1SAC; X-ray; 2.00 A; A/B/C/D/E=20-223.
+DR   PDB; 2A3W; X-ray; 2.20 A; A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T=20-223.
+DR   PDB; 2A3X; X-ray; 3.00 A; A/B/C/D/E/F/G/H/I/J=20-223.
+DR   PDB; 2A3Y; X-ray; 2.00 A; A/B/C/D/E=20-223.
+DR   PDB; 2W08; X-ray; 1.70 A; A/B/C/D/E=20-223.
+DR   PDB; 3D5O; X-ray; 2.80 A; A/B/C/D/E=20-223.
+DR   PDB; 3KQR; X-ray; 1.50 A; A/B/C/D/E=20-223.
+DR   PDB; 4AVS; X-ray; 1.40 A; A/B/C/D/E=20-223.
+DR   PDB; 4AVT; X-ray; 3.20 A; A/B/C/D/E/F/G/H/I/J=20-223.
+DR   PDB; 4AVV; X-ray; 1.60 A; A/B/C/D/E=20-223.
+DR   PDB; 4AYU; X-ray; 1.50 A; A/B/C/D/E=20-223.
+DR   PDBsum; 1GYK; -.
+DR   PDBsum; 1LGN; -.
+DR   PDBsum; 1SAC; -.
+DR   PDBsum; 2A3W; -.
+DR   PDBsum; 2A3X; -.
+DR   PDBsum; 2A3Y; -.
+DR   PDBsum; 2W08; -.
+DR   PDBsum; 3D5O; -.
+DR   PDBsum; 3KQR; -.
+DR   PDBsum; 4AVS; -.
+DR   PDBsum; 4AVT; -.
+DR   PDBsum; 4AVV; -.
+DR   PDBsum; 4AYU; -.
+DR   ProteinModelPortal; P02743; -.
+DR   SMR; P02743; 20-223.
+DR   BioGrid; 106822; 13.
+DR   DIP; DIP-46911N; -.
+DR   IntAct; P02743; 5.
+DR   MINT; MINT-4723480; -.
+DR   STRING; 9606.ENSP00000255040; -.
+DR   ChEMBL; CHEMBL4929; -.
+DR   GuidetoPHARMACOLOGY; 2839; -.
+DR   TCDB; 1.C.92.1.2; the pentraxin (pentraxin) family.
+DR   PhosphoSite; P02743; -.
+DR   UniCarbKB; P02743; -.
+DR   BioMuta; APCS; -.
+DR   DMDM; 730704; -.
+DR   DOSAC-COBS-2DPAGE; P02743; -.
+DR   OGP; P02743; -.
+DR   REPRODUCTION-2DPAGE; IPI00022391; -.
+DR   REPRODUCTION-2DPAGE; P02743; -.
+DR   SWISS-2DPAGE; P02743; -.
+DR   PaxDb; P02743; -.
+DR   PeptideAtlas; P02743; -.
+DR   PRIDE; P02743; -.
+DR   DNASU; 325; -.
+DR   Ensembl; ENST00000255040; ENSP00000255040; ENSG00000132703.
+DR   GeneID; 325; -.
+DR   KEGG; hsa:325; -.
+DR   UCSC; uc001ftv.3; human.
+DR   CTD; 325; -.
+DR   GeneCards; GC01P159557; -.
+DR   HGNC; HGNC:584; APCS.
+DR   HPA; CAB007817; -.
+DR   HPA; HPA053294; -.
+DR   MIM; 104770; gene.
+DR   neXtProt; NX_P02743; -.
+DR   PharmGKB; PA24877; -.
+DR   eggNOG; NOG44770; -.
+DR   GeneTree; ENSGT00760000119128; -.
+DR   HOGENOM; HOG000247043; -.
+DR   HOVERGEN; HBG005405; -.
+DR   InParanoid; P02743; -.
+DR   OMA; DHVNLIT; -.
+DR   OrthoDB; EOG71RXMB; -.
+DR   PhylomeDB; P02743; -.
+DR   TreeFam; TF330208; -.
+DR   Reactome; REACT_75925; Amyloids.
+DR   ChiTaRS; APCS; human.
+DR   EvolutionaryTrace; P02743; -.
+DR   GeneWiki; Serum_amyloid_P_component; -.
+DR   GenomeRNAi; 325; -.
+DR   NextBio; 1333; -.
+DR   PRO; PR:P02743; -.
+DR   Proteomes; UP000005640; Chromosome 1.
+DR   Bgee; P02743; -.
+DR   CleanEx; HS_APCS; -.
+DR   ExpressionAtlas; P02743; baseline and differential.
+DR   Genevisible; P02743; HS.
+DR   GO; GO:0072562; C:blood microparticle; IDA:UniProtKB.
+DR   GO; GO:0070062; C:extracellular exosome; IDA:UniProtKB.
+DR   GO; GO:0005576; C:extracellular region; NAS:UniProtKB.
+DR   GO; GO:0005615; C:extracellular space; IDA:BHF-UCL.
+DR   GO; GO:0005634; C:nucleus; IDA:UniProtKB.
+DR   GO; GO:0043234; C:protein complex; IEA:Ensembl.
+DR   GO; GO:0005509; F:calcium ion binding; IDA:BHF-UCL.
+DR   GO; GO:0030246; F:carbohydrate binding; IEA:UniProtKB-KW.
+DR   GO; GO:0001849; F:complement component C1q binding; IDA:BHF-UCL.
+DR   GO; GO:0051082; F:unfolded protein binding; TAS:ProtInc.
+DR   GO; GO:0046790; F:virion binding; IDA:BHF-UCL.
+DR   GO; GO:0006953; P:acute-phase response; TAS:ProtInc.
+DR   GO; GO:0051131; P:chaperone-mediated protein complex assembly; TAS:ProtInc.
+DR   GO; GO:0045087; P:innate immune response; IDA:BHF-UCL.
+DR   GO; GO:0044869; P:negative regulation by host of viral exo-alpha-sialidase activity; IDA:BHF-UCL.
+DR   GO; GO:0044871; P:negative regulation by host of viral glycoprotein metabolic process; IDA:BHF-UCL.
+DR   GO; GO:0002674; P:negative regulation of acute inflammatory response; IC:BHF-UCL.
+DR   GO; GO:1903016; P:negative regulation of exo-alpha-sialidase activity; IDA:BHF-UCL.
+DR   GO; GO:1903019; P:negative regulation of glycoprotein metabolic process; IDA:BHF-UCL.
+DR   GO; GO:0045656; P:negative regulation of monocyte differentiation; IDA:BHF-UCL.
+DR   GO; GO:0046597; P:negative regulation of viral entry into host cell; IDA:BHF-UCL.
+DR   GO; GO:0048525; P:negative regulation of viral process; IDA:BHF-UCL.
+DR   GO; GO:0061045; P:negative regulation of wound healing; IC:BHF-UCL.
+DR   GO; GO:0006457; P:protein folding; TAS:ProtInc.
+DR   Gene3D; 2.60.120.200; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001759; Pentaxin.
+DR   InterPro; IPR030476; Pentaxin_CS.
+DR   Pfam; PF00354; Pentaxin; 1.
+DR   PRINTS; PR00895; PENTAXIN.
+DR   SMART; SM00159; PTX; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   PROSITE; PS00289; PENTAXIN; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Amyloid; Calcium; Complete proteome;
+KW   Direct protein sequencing; Disulfide bond; Glycoprotein; Lectin;
+KW   Metal-binding; Polymorphism; Reference proteome; Secreted; Signal.
+FT   SIGNAL        1     19       {ECO:0000269|PubMed:4055725,
+FT                                ECO:0000269|PubMed:81686}.
+FT   CHAIN        20    223       Serum amyloid P-component.
+FT                                /FTId=PRO_0000023540.
+FT   CHAIN        20    222       Serum amyloid P-component(1-203).
+FT                                /FTId=PRO_0000023541.
+FT   DOMAIN       20    223       Pentaxin.
+FT   METAL        77     77       Calcium 1.
+FT   METAL        78     78       Calcium 1.
+FT   METAL       155    155       Calcium 1.
+FT   METAL       155    155       Calcium 2.
+FT   METAL       156    156       Calcium 1; via carbonyl oxygen.
+FT   METAL       157    157       Calcium 1.
+FT   METAL       157    157       Calcium 2.
+FT   METAL       167    167       Calcium 2.
+FT   CARBOHYD     51     51       N-linked (GlcNAc...).
+FT                                {ECO:0000269|PubMed:16335952,
+FT                                ECO:0000269|PubMed:19159218}.
+FT                                /FTId=CAR_000169.
+FT   DISULFID     55    114       {ECO:0000269|PubMed:4055725}.
+FT   VARIANT     141    141       G -> S (in a breast cancer sample;
+FT                                somatic mutation).
+FT                                {ECO:0000269|PubMed:16959974}.
+FT                                /FTId=VAR_035814.
+FT   VARIANT     155    155       E -> G.
+FT                                /FTId=VAR_006054.
+FT   VARIANT     158    158       S -> G.
+FT                                /FTId=VAR_006055.
+FT   CONFLICT    101    101       S -> P (in Ref. 1; AAA60302).
+FT                                {ECO:0000305}.
+FT   STRAND       26     30       {ECO:0000244|PDB:4AVS}.
+FT   STRAND       38     41       {ECO:0000244|PDB:4AVS}.
+FT   STRAND       49     59       {ECO:0000244|PDB:4AVS}.
+FT   STRAND       66     73       {ECO:0000244|PDB:4AVS}.
+FT   STRAND       76     86       {ECO:0000244|PDB:4AVS}.
+FT   STRAND       89     94       {ECO:0000244|PDB:4AVS}.
+FT   STRAND       97    102       {ECO:0000244|PDB:4AVS}.
+FT   STRAND      111    118       {ECO:0000244|PDB:4AVS}.
+FT   TURN        119    121       {ECO:0000244|PDB:4AVS}.
+FT   STRAND      123    128       {ECO:0000244|PDB:4AVS}.
+FT   STRAND      149    154       {ECO:0000244|PDB:4AVS}.
+FT   STRAND      157    160       {ECO:0000244|PDB:4AVS}.
+FT   HELIX       165    167       {ECO:0000244|PDB:4AVS}.
+FT   STRAND      171    181       {ECO:0000244|PDB:4AVS}.
+FT   HELIX       185    193       {ECO:0000244|PDB:4AVS}.
+FT   STRAND      200    203       {ECO:0000244|PDB:4AVS}.
+FT   HELIX       204    206       {ECO:0000244|PDB:4AYU}.
+FT   STRAND      209    214       {ECO:0000244|PDB:4AVS}.
+FT   STRAND      216    219       {ECO:0000244|PDB:4AVS}.
+SQ   SEQUENCE   223 AA;  25387 MW;  6C88A515FE88B393 CRC64;
+     MNKPLLWISV LTSLLEAFAH TDLSGKVFVF PRESVTDHVN LITPLEKPLQ NFTLCFRAYS
+     DLSRAYSLFS YNTQGRDNEL LVYKERVGEY SLYIGRHKVT SKVIEKFPAP VHICVSWESS
+     SGIAEFWING TPLVKKGLRQ GYFVEAQPKI VLGQEQDSYG GKFDRSQSFV GEIGDLYMWD
+     SVLPPENILS AYQGTPLPAN ILDWQALNYE IRGYVIIKPL VWV
+//

@@ -1,0 +1,82 @@
+ID   Q8W1R6_GRISI            Unreviewed;       247 AA.
+AC   Q8W1R6;
+DT   01-MAR-2002, integrated into UniProtKB/TrEMBL.
+DT   01-MAR-2002, sequence version 1.
+DT   29-APR-2015, entry version 72.
+DE   SubName: Full=GSI-B4 isolectin {ECO:0000313|EMBL:AAL65147.1};
+DE   Flags: Fragment;
+OS   Griffonia simplicifolia (Bandeiraea simplicifolia).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; fabids; Fabales; Fabaceae; Caesalpinioideae;
+OC   Cercideae; Griffonia.
+OX   NCBI_TaxID=3850 {ECO:0000313|EMBL:AAL65147.1};
+RN   [1] {ECO:0000213|PDB:1GNZ, ECO:0000313|EMBL:AAL65147.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=11714720; DOI=10.1074/jbc.M109867200;
+RA   Lescar J., Loris R., Mitchell E., Gautier C., Chazalet V., Cox V.,
+RA   Wyns L., Perez S., Breton C., Imberty A.;
+RT   "Isolectins I-A and I-B of Griffonia (Bandeiraea) simplicifolia.
+RT   Crystal structure of metal-free GS I-B(4) and molecular basis for
+RT   metal binding and monosaccharide specificity.";
+RL   J. Biol. Chem. 277:6608-6614(2002).
+RN   [2] {ECO:0000213|PDB:1HQL}
+RP   X-RAY CRYSTALLOGRAPHY (2.20 ANGSTROMS) IN COMPLEX WITH CALCIUM AND
+RP   MANGANESE, AND GLYCOSYLATION AT ASN-17.
+RX   PubMed=11714721; DOI=10.1074/jbc.M109919200;
+RA   Tempel W., Tschampel S., Woods R.J.;
+RT   "The xenograft antigen bound to Griffonia simplicifolia lectin 1-B(4).
+RT   X-ray crystal structure of the complex and molecular dynamics
+RT   characterization of the binding site.";
+RL   J. Biol. Chem. 277:6615-6621(2002).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF428148; AAL65147.1; -; mRNA.
+DR   PDB; 1GNZ; X-ray; 2.50 A; A=1-247.
+DR   PDB; 1HQL; X-ray; 2.20 A; A/B=1-247.
+DR   PDBsum; 1GNZ; -.
+DR   PDBsum; 1HQL; -.
+DR   ProteinModelPortal; Q8W1R6; -.
+DR   EvolutionaryTrace; Q8W1R6; -.
+DR   GO; GO:0030246; F:carbohydrate binding; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 2.60.120.200; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR016363; Lectin.
+DR   InterPro; IPR019825; Lectin_legB_Mn/Ca_BS.
+DR   InterPro; IPR001220; Legume_lectin_dom.
+DR   Pfam; PF00139; Lectin_legB; 1.
+DR   PIRSF; PIRSF002690; L-type_lectin_plant; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   PROSITE; PS00307; LECTIN_LEGUME_BETA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:1GNZ, ECO:0000213|PDB:1HQL};
+KW   Calcium {ECO:0000213|PDB:1HQL};
+KW   Lectin {ECO:0000256|SAAS:SAAS00122626};
+KW   Manganese {ECO:0000213|PDB:1HQL};
+KW   Metal-binding {ECO:0000213|PDB:1HQL}.
+FT   METAL       118    118       Manganese. {ECO:0000213|PDB:1HQL}.
+FT   METAL       120    120       Calcium. {ECO:0000213|PDB:1HQL}.
+FT   METAL       120    120       Manganese. {ECO:0000213|PDB:1HQL}.
+FT   METAL       122    122       Calcium; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:1HQL}.
+FT   METAL       124    124       Calcium. {ECO:0000213|PDB:1HQL}.
+FT   METAL       129    129       Calcium. {ECO:0000213|PDB:1HQL}.
+FT   METAL       129    129       Manganese. {ECO:0000213|PDB:1HQL}.
+FT   METAL       134    134       Manganese; via tele nitrogen.
+FT                                {ECO:0000213|PDB:1HQL}.
+FT   CARBOHYD     17     17       N-linked (GlcNAc...).
+FT                                {ECO:0000213|PDB:1GNZ,
+FT                                ECO:0000213|PDB:1HQL}.
+FT   CARBOHYD    102    102       N-linked (GlcNAc...).
+FT                                {ECO:0000213|PDB:1GNZ}.
+FT   NON_TER       1      1       {ECO:0000313|EMBL:AAL65147.1}.
+SQ   SEQUENCE   247 AA;  27215 MW;  0EA831E94616DF2D CRC64;
+     NFWSDVEDSI IFQGDANTTA GTLQLCKTNQ YGTPLQWSAG RALYSDPVQL WDNKTESVAS
+     FYTEFTFFLK ITGNGPADGL AFFLAPPDSD VKDAGEYLGL FNKSTATQPS KNQVVAVEFD
+     TWTNPNFPEP SYRHIGINVN SIVSVATKRW EDSDIFSGKI ATARISYDGS AEILTVVLSY
+     PDGSDYILSH SVDMRQNLPE SVRVGISAST GNNQFLTVYI LSWRFSSNLQ STSVKAAMEP
+     EITRTVV
+//

@@ -1,0 +1,64 @@
+ID   B8YB59_SULSH            Unreviewed;       132 AA.
+AC   B8YB59;
+DT   03-MAR-2009, integrated into UniProtKB/TrEMBL.
+DT   03-MAR-2009, sequence version 1.
+DT   24-JUN-2015, entry version 18.
+DE   SubName: Full=RNA polymerase subunit 8 {ECO:0000313|EMBL:ACL36494.1};
+GN   Name=rpo8 {ECO:0000313|EMBL:ACL36494.1};
+OS   Sulfolobus shibatae B12.
+OC   Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae;
+OC   Sulfolobus.
+OX   NCBI_TaxID=523848 {ECO:0000313|EMBL:ACL36494.1};
+RN   [1] {ECO:0000313|EMBL:ACL36494.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=B12 {ECO:0000313|EMBL:ACL36494.1};
+RA   Bell S.;
+RT   "RNA polymerase from Sulfolobus shibatae.";
+RL   Submitted (DEC-2008) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:2WAQ, ECO:0000213|PDB:2WB1}
+RP   X-RAY CRYSTALLOGRAPHY (3.35 ANGSTROMS), AND DISULFIDE BONDS.
+RX   PubMed=19419240; DOI=10.1371/journal.pbio.1000102;
+RA   Korkhin Y., Unligil U.M., Littlefield O., Nelson P.J., Stuart D.I.,
+RA   Sigler P.B., Bell S.D., Abrescia N.G.;
+RT   "Evolution of complex RNA polymerases: the complete archaeal RNA
+RT   polymerase structure.";
+RL   PLoS Biol. 7:e1000102-e1000102(2009).
+RN   [3] {ECO:0000213|PDB:2Y0S}
+RP   X-RAY CRYSTALLOGRAPHY (3.80 ANGSTROMS), AND DISULFIDE BONDS.
+RX   PubMed=21265742; DOI=10.1042/BST0390025;
+RA   Wojtas M., Peralta B., Ondiviela M., Mogni M., Bell S.D.,
+RA   Abrescia N.G.;
+RT   "Archaeal RNA polymerase: the influence of the protruding stalk in
+RT   crystal packing and preliminary biophysical analysis of the Rpo13
+RT   subunit.";
+RL   Biochem. Soc. Trans. 39:25-30(2011).
+RN   [4] {ECO:0000213|PDB:4AYB, ECO:0000213|PDB:4B1O, ECO:0000213|PDB:4B1P}
+RP   X-RAY CRYSTALLOGRAPHY (3.20 ANGSTROMS), AND ACTIVE SITE.
+RX   PubMed=22848102; DOI=10.1093/nar/gks692;
+RA   Wojtas M.N., Mogni M., Millet O., Bell S.D., Abrescia N.G.;
+RT   "Structural and functional analyses of the interaction of archaeal RNA
+RT   polymerase with DNA.";
+RL   Nucleic Acids Res. 40:9941-9952(2012).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; FJ515671; ACL36494.1; -; Genomic_DNA.
+DR   PDB; 2WAQ; X-ray; 3.35 A; G=1-132.
+DR   PDB; 2WB1; X-ray; 3.52 A; G/V=1-132.
+DR   PDB; 2Y0S; X-ray; 3.80 A; G/V=1-132.
+DR   PDB; 4AYB; X-ray; 3.20 A; G=1-132.
+DR   PDB; 4V8S; X-ray; 4.32 A; AV/BG=1-132.
+DR   PDBsum; 2WAQ; -.
+DR   PDBsum; 2WB1; -.
+DR   PDBsum; 2Y0S; -.
+DR   PDBsum; 4V8S; -.
+DR   BRENDA; 2.7.7.6; 6162.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2WAQ, ECO:0000213|PDB:4B1O}.
+FT   DISULFID     13     33       {ECO:0000213|PDB:2WAQ}.
+SQ   SEQUENCE   132 AA;  15120 MW;  0FB1C2BE0C087F14 CRC64;
+     MMESKAQEII LSCEINSIER GSLKNLSIIH MSCNDFNISF DIIDSINIFS QKEKVKAFIS
+     KNRLSYTNDD FCGHGYIVTE LKDSSSNNGN RYITIISLFG LLVKIISNKE SFLKIHQLNV
+     MDHIYFCVKK NT
+//

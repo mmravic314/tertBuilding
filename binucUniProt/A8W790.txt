@@ -1,0 +1,120 @@
+ID   A8W790_BIFLN            Unreviewed;       438 AA.
+AC   A8W790;
+DT   15-JAN-2008, integrated into UniProtKB/TrEMBL.
+DT   15-JAN-2008, sequence version 1.
+DT   22-JUL-2015, entry version 38.
+DE   SubName: Full=ABC-type transport system galacto-N-biose-/lacto-N-biose I-binding protein GL-BP {ECO:0000313|EMBL:BAP84221.1};
+DE   SubName: Full=Galacto-N-biose/lacto-N-biose I transporter substrate-binding protein {ECO:0000313|EMBL:ABW81213.1};
+GN   Name=gltA {ECO:0000313|EMBL:ABW81213.1};
+GN   ORFNames=BL105A_1604 {ECO:0000313|EMBL:BAP84221.1};
+OS   Bifidobacterium longum.
+OC   Bacteria; Actinobacteria; Bifidobacteriales; Bifidobacteriaceae;
+OC   Bifidobacterium.
+OX   NCBI_TaxID=216816 {ECO:0000313|EMBL:ABW81213.1};
+RN   [1] {ECO:0000313|EMBL:ABW81213.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=JCM1217 {ECO:0000313|EMBL:ABW81213.1};
+RA   Wada J., Katayama T., Ashida H., Kitaoka M., Yamamoto K.;
+RL   Submitted (OCT-2007) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:2Z8D, ECO:0000213|PDB:2Z8E, ECO:0000213|PDB:2Z8F}
+RP   X-RAY CRYSTALLOGRAPHY (1.65 ANGSTROMS) OF 28-438 IN COMPLEX WITH
+RP   GALACTOSE; N-ACETYL-D-GALACTOSAMINE; N-ACETYL-D-GLUCOSAMINE AND ZINC.
+RX   PubMed=18332142; DOI=10.1074/jbc.M709777200;
+RA   Suzuki R., Wada J., Katayama T., Fushinobu S., Wakagi T., Shoun H.,
+RA   Sugimoto H., Tanaka A., Kumagai H., Ashida H., Kitaoka M.,
+RA   Yamamoto K.;
+RT   "Structural and thermodynamic analyses of solute-binding Protein from
+RT   Bifidobacterium longum specific for core 1 disaccharide and lacto-N-
+RT   biose I.";
+RL   J. Biol. Chem. 283:13165-13173(2008).
+RN   [3] {ECO:0000313|EMBL:BAP84221.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=105-A {ECO:0000313|EMBL:BAP84221.1};
+RA   Kanesaki Y., Masutani H., Sakanaka M., Shiwa Y., Fujisawa T.,
+RA   Nakamura Y., Yokota A., Fukiya S., Suzuki T., Yoshikawa H.;
+RT   "Complete Genome Sequence of Bifidobacterium longum 105-A, a Strain
+RT   with High Transformation Efficiency.";
+RL   Genome Announc. 2:e01311-14(2014).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; EU193949; ABW81213.1; -; Genomic_DNA.
+DR   EMBL; AP014658; BAP84221.1; -; Genomic_DNA.
+DR   RefSeq; WP_007055350.1; NZ_AP014658.1.
+DR   PDB; 2Z8D; X-ray; 1.85 A; A/B=28-438.
+DR   PDB; 2Z8E; X-ray; 1.99 A; A/B=28-438.
+DR   PDB; 2Z8F; X-ray; 1.65 A; A/B=28-438.
+DR   PDBsum; 2Z8D; -.
+DR   PDBsum; 2Z8E; -.
+DR   PDBsum; 2Z8F; -.
+DR   PATRIC; 46891740; VBIBifLon48544_1682.
+DR   BRENDA; 2.4.1.211; 851.
+DR   Proteomes; UP000031657; Chromosome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0005215; F:transporter activity; IEA:InterPro.
+DR   InterPro; IPR006059; SBP_1_dom.
+DR   Pfam; PF01547; SBP_bac_1; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2Z8D, ECO:0000213|PDB:2Z8E};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000031657};
+KW   Metal-binding {ECO:0000213|PDB:2Z8D, ECO:0000213|PDB:2Z8E};
+KW   Zinc {ECO:0000213|PDB:2Z8D, ECO:0000213|PDB:2Z8E}.
+FT   REGION      203    206       N-acetyl-D-galactosamine binding.
+FT                                {ECO:0000213|PDB:2Z8E}.
+FT   REGION      203    206       N-acetyl-D-glucosamine binding.
+FT                                {ECO:0000213|PDB:2Z8D,
+FT                                ECO:0000213|PDB:2Z8F}.
+FT   REGION      315    316       Galactose binding. {ECO:0000213|PDB:2Z8D,
+FT                                ECO:0000213|PDB:2Z8E,
+FT                                ECO:0000213|PDB:2Z8F}.
+FT   METAL        38     38       Zinc 1. {ECO:0000213|PDB:2Z8D,
+FT                                ECO:0000213|PDB:2Z8E,
+FT                                ECO:0000213|PDB:2Z8F}.
+FT   METAL        70     70       Zinc 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:2Z8D,
+FT                                ECO:0000213|PDB:2Z8E,
+FT                                ECO:0000213|PDB:2Z8F}.
+FT   METAL        72     72       Zinc 2. {ECO:0000213|PDB:2Z8D,
+FT                                ECO:0000213|PDB:2Z8E,
+FT                                ECO:0000213|PDB:2Z8F}.
+FT   METAL       326    326       Zinc 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:2Z8D,
+FT                                ECO:0000213|PDB:2Z8E,
+FT                                ECO:0000213|PDB:2Z8F}.
+FT   METAL       329    329       Zinc 1. {ECO:0000213|PDB:2Z8D,
+FT                                ECO:0000213|PDB:2Z8E,
+FT                                ECO:0000213|PDB:2Z8F}.
+FT   BINDING      49     49       N-acetyl-D-galactosamine.
+FT                                {ECO:0000213|PDB:2Z8E}.
+FT   BINDING      49     49       N-acetyl-D-glucosamine.
+FT                                {ECO:0000213|PDB:2Z8D,
+FT                                ECO:0000213|PDB:2Z8F}.
+FT   BINDING     105    105       Galactose. {ECO:0000213|PDB:2Z8D,
+FT                                ECO:0000213|PDB:2Z8E,
+FT                                ECO:0000213|PDB:2Z8F}.
+FT   BINDING     154    154       Galactose. {ECO:0000213|PDB:2Z8D,
+FT                                ECO:0000213|PDB:2Z8E,
+FT                                ECO:0000213|PDB:2Z8F}.
+FT   BINDING     206    206       Galactose. {ECO:0000213|PDB:2Z8F}.
+FT   BINDING     257    257       N-acetyl-D-galactosamine.
+FT                                {ECO:0000213|PDB:2Z8E}.
+FT   BINDING     257    257       N-acetyl-D-glucosamine.
+FT                                {ECO:0000213|PDB:2Z8D}.
+FT   BINDING     278    278       Galactose. {ECO:0000213|PDB:2Z8D,
+FT                                ECO:0000213|PDB:2Z8E,
+FT                                ECO:0000213|PDB:2Z8F}.
+FT   BINDING     278    278       N-acetyl-D-galactosamine.
+FT                                {ECO:0000213|PDB:2Z8E}.
+FT   BINDING     278    278       N-acetyl-D-glucosamine.
+FT                                {ECO:0000213|PDB:2Z8D}.
+SQ   SEQUENCE   438 AA;  46428 MW;  8F1E95B274113E92 CRC64;
+     MVSRNKRIVA AFAAVAAMGM GLAGCGSDTA GDTKTTDDGG VVNITYMHRL PDSEGMTLVN
+     DIVAKWNKQH PDIQVKATKF DGKASDMIKK LETDVKSGEA PDLAQVGYAE LPEVFTKGLL
+     QDVTQYAEQY KNDFASGPYS LVQVGGKAYG LPQDTGPLVY FYNKAEFEKL GITEIPQTAD
+     EFIAAAKTAA AAGKYIMSYQ PDEAGNMISG LAGASGGWYK VKGDSWVVNT ETDGSKATAD
+     FYQQLLDAKA ATTNPRWDPS FDASIKDGSL IGTVAAAWEA PLFMTSSGGT GSGEWQVAQL
+     GDWFGNAGKT GPDGGSAVAV LKNSKHPKEA MEFLDWFNTQ VPDLVSQGLV PAATTEDAET
+     PSEWSTFFGG QDIMKEFKTA NNNMGDFTYM PGFSAVAAKM NETAAKATDG SGKVADIFSD
+     AQTTSVDTLK NFGLSVSE
+//

@@ -1,0 +1,489 @@
+ID   LEF_BACAN               Reviewed;         809 AA.
+AC   P15917; Q8KYJ6; Q933F6;
+DT   01-APR-1990, integrated into UniProtKB/Swiss-Prot.
+DT   05-JUL-2004, sequence version 2.
+DT   22-JUL-2015, entry version 147.
+DE   RecName: Full=Lethal factor;
+DE            Short=LF;
+DE            EC=3.4.24.83;
+DE   AltName: Full=Anthrax lethal toxin endopeptidase component;
+DE   Flags: Precursor;
+GN   Name=lef; OrderedLocusNames=pXO1-107, BXA0172, GBAA_pXO1_0172;
+OS   Bacillus anthracis.
+OG   Plasmid pXO1.
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus;
+OC   Bacillus cereus group.
+OX   NCBI_TaxID=1392;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND PROTEIN SEQUENCE OF 34-49.
+RX   PubMed=2509294; DOI=10.1016/0378-1119(89)90335-1;
+RA   Bragg T.S., Robertson D.L.;
+RT   "Nucleotide sequence and analysis of the lethal factor gene (lef) from
+RT   Bacillus anthracis.";
+RL   Gene 81:45-54(1989).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RA   Lowe J.;
+RT   "A comparison of Bacillus anthracis sequences.";
+RL   Submitted (APR-1990) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Sterne;
+RX   PubMed=10515943;
+RA   Okinaka R.T., Cloud K., Hampton O., Hoffmaster A.R., Hill K.K.,
+RA   Keim P., Koehler T.M., Lamke G., Kumano S., Mahillon J., Manter D.,
+RA   Martinez Y., Ricke D., Svensson R., Jackson P.J.;
+RT   "Sequence and organization of pXO1, the large Bacillus anthracis
+RT   plasmid harboring the anthrax toxin genes.";
+RL   J. Bacteriol. 181:6509-6515(1999).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=Ames / isolate Florida / A2012;
+RX   PubMed=12004073; DOI=10.1126/science.1071837;
+RA   Read T.D., Salzberg S.L., Pop M., Shumway M.F., Umayam L., Jiang L.,
+RA   Holtzapple E., Busch J.D., Smith K.L., Schupp J.M., Solomon D.,
+RA   Keim P., Fraser C.M.;
+RT   "Comparative genome sequencing for discovery of novel polymorphisms in
+RT   Bacillus anthracis.";
+RL   Science 296:2028-2033(2002).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Ames ancestor;
+RX   PubMed=18952800; DOI=10.1128/JB.01347-08;
+RA   Ravel J., Jiang L., Stanley S.T., Wilson M.R., Decker R.S., Read T.D.,
+RA   Worsham P., Keim P.S., Salzberg S.L., Fraser-Liggett C.M., Rasko D.A.;
+RT   "The complete genome sequence of Bacillus anthracis Ames 'Ancestor'.";
+RL   J. Bacteriol. 191:445-446(2009).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 29-809.
+RC   STRAIN=Carbosap, and Ferrara;
+RX   PubMed=12067380; DOI=10.1046/j.1365-2672.2002.01660.x;
+RA   Adone R., Pasquali P., La Rosa G., Marianelli C., Muscillo M.,
+RA   Fasanella A., Francia M., Ciuchini F.;
+RT   "Sequence analysis of the genes encoding for the major virulence
+RT   factors of Bacillus anthracis vaccine strain 'Carbosap'.";
+RL   J. Appl. Microbiol. 93:117-121(2002).
+RN   [7]
+RP   FUNCTION.
+RX   PubMed=9563949; DOI=10.1126/science.280.5364.734;
+RA   Duesbery N.S., Webb C.P., Leppla S.H., Gordon V.M., Klimpel K.R.,
+RA   Copeland T.D., Ahn N.G., Oskarsson M.K., Fukasawa K., Paull K.D.,
+RA   Vande Woude G.F.;
+RT   "Proteolytic inactivation of MAP-kinase-kinase by anthrax lethal
+RT   factor.";
+RL   Science 280:734-737(1998).
+RN   [8]
+RP   FUNCTION.
+RX   PubMed=9703991; DOI=10.1006/bbrc.1998.9040;
+RA   Vitale G., Pellizzari R., Recchi C., Napolitani G., Mock M.,
+RA   Montecucco C.;
+RT   "Anthrax lethal factor cleaves the N-terminus of MAPKKs and induces
+RT   tyrosine/threonine phosphorylation of MAPKs in cultured macrophages.";
+RL   Biochem. Biophys. Res. Commun. 248:706-711(1998).
+RN   [9]
+RP   FUNCTION.
+RX   PubMed=10475971; DOI=10.1046/j.1365-2672.1999.00892.x;
+RA   Duesbery N.S., Vande Woude G.F.;
+RT   "Anthrax lethal factor causes proteolytic inactivation of mitogen-
+RT   activated protein kinase kinase.";
+RL   J. Appl. Microbiol. 87:289-293(1999).
+RN   [10]
+RP   FUNCTION.
+RX   PubMed=11104681; DOI=10.1042/0264-6021:3520739;
+RA   Vitale G., Bernardi L., Napolitani G., Mock M., Montecucco C.;
+RT   "Susceptibility of mitogen-activated protein kinase kinase family
+RT   members to proteolysis by anthrax lethal factor.";
+RL   Biochem. J. 352:739-745(2000).
+RN   [11]
+RP   FUNCTION.
+RX   PubMed=10338520;
+RA   Tang G., Leppla S.H.;
+RT   "Proteasome activity is required for anthrax lethal toxin to kill
+RT   macrophages.";
+RL   Infect. Immun. 67:3055-3060(1999).
+RN   [12]
+RP   CHARACTERIZATION.
+RX   PubMed=8942659; DOI=10.1021/bi961518b;
+RA   Wang X.-M., Mock M., Ruysschaert J.-M., Cabiaux V.;
+RT   "Secondary structure of anthrax lethal toxin proteins and their
+RT   interaction with large unilamellar vesicles: a Fourier-transform
+RT   infrared spectroscopy approach.";
+RL   Biochemistry 35:14939-14946(1996).
+RN   [13]
+RP   ZINC-BINDING.
+RX   PubMed=7851740; DOI=10.1111/j.1574-6968.1994.tb07306.x;
+RA   Kochi S.K., Schiavo G., Mock M., Montecucco C.;
+RT   "Zinc content of the Bacillus anthracis lethal factor.";
+RL   FEMS Microbiol. Lett. 124:343-348(1994).
+RN   [14]
+RP   REGULATION OF TOXIN EXPRESSION.
+RC   STRAIN=Sterne;
+RX   PubMed=8051039;
+RA   Sirard J.-C., Mock M., Fouet A.;
+RT   "The three Bacillus anthracis toxin genes are coordinately regulated
+RT   by bicarbonate and temperature.";
+RL   J. Bacteriol. 176:5188-5192(1994).
+RN   [15]
+RP   MUTAGENESIS OF HIS-719; GLU-720 AND HIS-723.
+RC   STRAIN=Sterne;
+RX   PubMed=9573135;
+RA   Hammond S.E., Hanna P.C.;
+RT   "Lethal factor active-site mutations affect catalytic activity in
+RT   vitro.";
+RL   Infect. Immun. 66:2374-2378(1998).
+RN   [16]
+RP   MUTAGENESIS OF VAL-180; TYR-181; TYR-182; GLU-183; ILE-184; GLY-185
+RP   AND LYS-186.
+RC   STRAIN=Sterne;
+RX   PubMed=11162493; DOI=10.1006/bbrc.2000.4099;
+RA   Gupta P., Singh A., Chauhan V., Bhatnagar R.;
+RT   "Involvement of residues 147VYYEIGK153 in binding of lethal factor to
+RT   protective antigen of Bacillus anthracis.";
+RL   Biochem. Biophys. Res. Commun. 280:158-163(2001).
+RN   [17]
+RP   MUTAGENESIS OF ASP-220; LEU-221; LEU-222 AND PHE-223.
+RC   STRAIN=Sterne;
+RX   PubMed=12113932; DOI=10.1111/j.1574-6968.2002.tb11264.x;
+RA   Singh A., Chauhan V., Sodhi A., Bhatnagar R.;
+RT   "Asp 187 and Phe 190 residues in lethal factor are required for the
+RT   expression of anthrax lethal toxin activity.";
+RL   FEMS Microbiol. Lett. 212:183-186(2002).
+RN   [18]
+RP   REVIEW.
+RX   PubMed=11595637; DOI=10.1016/S0041-0101(01)00161-1;
+RA   Brossier F., Mock M.;
+RT   "Toxins of Bacillus anthracis.";
+RL   Toxicon 39:1747-1755(2001).
+RN   [19]
+RP   X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) IN COMPLEX WITH ZINC IONS AND
+RP   MAP2K2.
+RX   PubMed=11700563; DOI=10.1038/n35101998;
+RA   Pannifer A.D., Wong T.Y., Schwarzenbacher R., Renatus M., Petosa C.,
+RA   Bienkowska J., Lacy D.B., Collier R.J., Park S., Leppla S.H.,
+RA   Hanna P.C., Liddington R.C.;
+RT   "Crystal structure of the anthrax lethal factor.";
+RL   Nature 414:229-233(2001).
+RN   [20]
+RP   X-RAY CRYSTALLOGRAPHY (3.52 ANGSTROMS) OF 34-809 IN COMPLEX WITH ZINC
+RP   IONS AND PEPTIDE SUBSTRATE ANALOG.
+RX   PubMed=14718924; DOI=10.1038/nsmb708;
+RA   Turk B.E., Wong T.Y., Schwarzenbacher R., Jarrell E.T., Leppla S.H.,
+RA   Collier R.J., Liddington R.C., Cantley L.C.;
+RT   "The structural basis for substrate and inhibitor selectivity of the
+RT   anthrax lethal factor.";
+RL   Nat. Struct. Mol. Biol. 11:60-66(2004).
+RN   [21]
+RP   X-RAY CRYSTALLOGRAPHY (2.3 ANGSTROMS) OF 297-809 IN COMPLEX WITH ZINC
+RP   IONS AND PROTEASE INHIBITOR.
+RX   PubMed=15911756; DOI=10.1073/pnas.0502159102;
+RA   Shoop W.L., Xiong Y., Wiltsie J., Woods A., Guo J., Pivnichny J.V.,
+RA   Felcetto T., Michael B.F., Bansal A., Cummings R.T., Cunningham B.R.,
+RA   Friedlander A.M., Douglas C.M., Patel S.B., Wisniewski D., Scapin G.,
+RA   Salowe S.P., Zaller D.M., Chapman K.T., Scolnick E.M., Schmatz D.M.,
+RA   Bartizal K., MacCoss M., Hermes J.D.;
+RT   "Anthrax lethal factor inhibition.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 102:7958-7963(2005).
+CC   -!- FUNCTION: One of the three proteins composing the anthrax toxin,
+CC       the agent which infects many mammalian species and that may cause
+CC       death. LF is the lethal factor that, when associated with PA,
+CC       causes death. LF is not toxic by itself. It is a protease that
+CC       cleaves the N-terminal of most dual specificity mitogen-activated
+CC       protein kinase kinases (MAPKKs or MAP2Ks) (except for MAP2K5).
+CC       Cleavage invariably occurs within the N-terminal proline-rich
+CC       region preceding the kinase domain, thus disrupting a sequence
+CC       involved in directing specific protein-protein interactions
+CC       necessary for the assembly of signaling complexes. There may be
+CC       other cytosolic targets of LF involved in cytotoxicity. The
+CC       proteasome may mediate a toxic process initiated by LF in the cell
+CC       cytosol involving degradation of unidentified molecules that are
+CC       essential for macrophage homeostasis. This is an early step in
+CC       LeTx intoxication, but it is downstream of the cleavage by LF of
+CC       MEK1 or other putative substrates. {ECO:0000269|PubMed:10338520,
+CC       ECO:0000269|PubMed:10475971, ECO:0000269|PubMed:11104681,
+CC       ECO:0000269|PubMed:9563949, ECO:0000269|PubMed:9703991}.
+CC   -!- CATALYTIC ACTIVITY: Preferred amino acids around the cleavage site
+CC       can be denoted BBBBxHx-|-H, in which B denotes Arg or Lys, H
+CC       denotes a hydrophobic amino acid, and x is any amino acid. The
+CC       only known protein substrates are mitogen-activated protein (MAP)
+CC       kinase kinases.
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC       Note=Binds 1 zinc ion per subunit.;
+CC   -!- SUBUNIT: Anthrax toxins are composed of three distinct proteins, a
+CC       protective antigen (PA), a lethal factor (LF) and an edema factor
+CC       (EF). None of these is toxic by itself. PA+LF forms the lethal
+CC       toxin (LeTx); PA+EF forms the edema toxin (EdTx).
+CC       {ECO:0000269|PubMed:11700563, ECO:0000269|PubMed:14718924,
+CC       ECO:0000269|PubMed:15911756}.
+CC   -!- INTERACTION:
+CC       P13423:pagA; NbExp=5; IntAct=EBI-456923, EBI-456868;
+CC   -!- SUBCELLULAR LOCATION: Secreted.
+CC   -!- INDUCTION: Positively transcriptionally regulated by AtxA, which,
+CC       in turn, is induced by bicarbonate and high temperatures (37
+CC       degrees Celsius).
+CC   -!- DOMAIN: It comprises four domains: domain I binds the membrane-
+CC       translocating component (PA); domains II, III and IV together
+CC       create a long deep groove that holds the 16-residue N-terminal
+CC       tail of MAPKK before cleavage. Domain IV contains the catalytic
+CC       center.
+CC   -!- DOMAIN: The PA-binding region is found in both B.anthracis EF and
+CC       LF.
+CC   -!- MISCELLANEOUS: LF binds to the heptamer formed by cleaved PA on
+CC       the host cell membrane. This step is followed by internalization
+CC       of the hetero-oligomeric complex by receptor-mediated endocytosis.
+CC       LeTx requires passage through an acidic vesicle for activity; at
+CC       acidic pH, as the pore is inserted into the membrane, LF is
+CC       translocated and reaches its cytosolic targets. LF is probably
+CC       directly involved in its routing, by interacting with the lipid
+CC       membrane. This interaction could involve a conformational change
+CC       of LF and/or an oligomerization of the protein. LF may have the
+CC       capability of partially unfolding in order to cross the membrane.
+CC   -!- SIMILARITY: Belongs to the peptidase M34 family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M29081; AAA79216.1; -; Genomic_DNA.
+DR   EMBL; M30210; AAA22569.1; -; Genomic_DNA.
+DR   EMBL; AF065404; AAD32411.1; -; Genomic_DNA.
+DR   EMBL; AE011190; AAM26117.1; -; Genomic_DNA.
+DR   EMBL; AE017336; AAT28913.2; -; Genomic_DNA.
+DR   EMBL; AJ413934; CAC93932.1; -; Genomic_DNA.
+DR   EMBL; AJ413935; CAC93933.1; -; Genomic_DNA.
+DR   PIR; JQ0032; JQ0032.
+DR   RefSeq; NP_052803.1; NC_001496.1.
+DR   RefSeq; WP_001022097.1; NZ_KN050652.1.
+DR   RefSeq; WP_010890024.1; NZ_JHCB02000028.1.
+DR   PDB; 1J7N; X-ray; 2.30 A; A/B=34-809.
+DR   PDB; 1JKY; X-ray; 3.90 A; A=34-809.
+DR   PDB; 1PWP; X-ray; 2.90 A; A/B=34-809.
+DR   PDB; 1PWQ; X-ray; 3.52 A; A/B=34-809.
+DR   PDB; 1PWU; X-ray; 2.70 A; A/B=34-809.
+DR   PDB; 1PWV; X-ray; 2.85 A; A/B=34-809.
+DR   PDB; 1PWW; X-ray; 2.80 A; A/B=34-809.
+DR   PDB; 1YQY; X-ray; 2.30 A; A=297-809.
+DR   PDB; 1ZXV; X-ray; 2.67 A; A/B=34-809.
+DR   PDB; 2L0R; NMR; -; A=705-809.
+DR   PDB; 3KWV; X-ray; 3.10 A; C/F=34-296.
+DR   PDB; 4DV8; X-ray; 1.63 A; A=296-809.
+DR   PDB; 4PKQ; X-ray; 2.20 A; A=298-809.
+DR   PDB; 4PKR; X-ray; 2.20 A; A=298-809.
+DR   PDB; 4PKS; X-ray; 2.30 A; A=298-809.
+DR   PDB; 4PKT; X-ray; 2.40 A; A=298-809.
+DR   PDB; 4PKU; X-ray; 2.40 A; A=298-809.
+DR   PDB; 4PKV; X-ray; 2.50 A; A=298-809.
+DR   PDB; 4PKW; X-ray; 1.75 A; A=298-809.
+DR   PDBsum; 1J7N; -.
+DR   PDBsum; 1JKY; -.
+DR   PDBsum; 1PWP; -.
+DR   PDBsum; 1PWQ; -.
+DR   PDBsum; 1PWU; -.
+DR   PDBsum; 1PWV; -.
+DR   PDBsum; 1PWW; -.
+DR   PDBsum; 1YQY; -.
+DR   PDBsum; 1ZXV; -.
+DR   PDBsum; 2L0R; -.
+DR   PDBsum; 3KWV; -.
+DR   PDBsum; 4DV8; -.
+DR   PDBsum; 4PKQ; -.
+DR   PDBsum; 4PKR; -.
+DR   PDBsum; 4PKS; -.
+DR   PDBsum; 4PKT; -.
+DR   PDBsum; 4PKU; -.
+DR   PDBsum; 4PKV; -.
+DR   PDBsum; 4PKW; -.
+DR   ProteinModelPortal; P15917; -.
+DR   SMR; P15917; 62-809.
+DR   DIP; DIP-29871N; -.
+DR   IntAct; P15917; 1.
+DR   MINT; MINT-7014731; -.
+DR   BindingDB; P15917; -.
+DR   ChEMBL; CHEMBL3301396; -.
+DR   MEROPS; M34.001; -.
+DR   EnsemblBacteria; AAT28913; AAT28913; GBAA_pXO1_0172.
+DR   GeneID; 3361711; -.
+DR   KEGG; bar:GBAA_pXO1_0172; -.
+DR   KEGG; pg:3361711; -.
+DR   PATRIC; 24662141; VBIBacAnt106580_0160.
+DR   eggNOG; NOG45846; -.
+DR   HOGENOM; HOG000034565; -.
+DR   KO; K08645; -.
+DR   OMA; RMMARYE; -.
+DR   OrthoDB; EOG62ZHV6; -.
+DR   BioCyc; ANTHRA:GBAA_PXO1_0172-MONOMER; -.
+DR   BioCyc; BANT261594:GJ7F-5757-MONOMER; -.
+DR   BRENDA; 3.4.24.83; 634.
+DR   Reactome; REACT_264618; Uptake and function of anthrax toxins.
+DR   EvolutionaryTrace; P15917; -.
+DR   PRO; PR:P15917; -.
+DR   Proteomes; UP000000594; Plasmid pXO1.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0010008; C:endosome membrane; TAS:Reactome.
+DR   GO; GO:0005576; C:extracellular region; TAS:Reactome.
+DR   GO; GO:0005886; C:plasma membrane; TAS:Reactome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0008237; F:metallopeptidase activity; EXP:Reactome.
+DR   GO; GO:0009405; P:pathogenesis; IEP:CACAO.
+DR   GO; GO:0006508; P:proteolysis; IDA:CACAO.
+DR   Gene3D; 1.10.2030.10; -; 1.
+DR   Gene3D; 3.40.390.10; -; 2.
+DR   InterPro; IPR015239; Anthrax_tox_lethal-fac_cen.
+DR   InterPro; IPR003541; Anthrax_toxin_lethal/edema.
+DR   InterPro; IPR014781; Anthrax_toxin_lethal/edema_N/C.
+DR   InterPro; IPR024079; MetalloPept_cat_dom.
+DR   Pfam; PF09156; Anthrax-tox_M; 1.
+DR   Pfam; PF07737; ATLF; 2.
+DR   PRINTS; PR01392; ANTHRAXTOXNA.
+DR   PROSITE; PS00142; ZINC_PROTEASE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Direct protein sequencing; Hydrolase;
+KW   Metal-binding; Metalloprotease; Plasmid; Protease; Reference proteome;
+KW   Repeat; Secreted; Signal; Toxin; Virulence; Zinc.
+FT   SIGNAL        1     33       {ECO:0000269|PubMed:2509294}.
+FT   CHAIN        34    809       Lethal factor.
+FT                                /FTId=PRO_0000029233.
+FT   REPEAT      315    333       1.
+FT   REPEAT      342    357       2.
+FT   REPEAT      360    378       3.
+FT   REPEAT      380    397       4.
+FT   REPEAT      399    416       5.
+FT   REGION       34    293       PA-binding region. {ECO:0000255}.
+FT   REGION       60    295       I; PA-binding region. {ECO:0000255}.
+FT   REGION      296    330       IIA.
+FT   REGION      315    416       5 X approximate repeats.
+FT   REGION      336    416       III.
+FT   REGION      420    583       IIB.
+FT   REGION      585    809       IV.
+FT   ACT_SITE    720    720
+FT   METAL       719    719       Zinc; catalytic.
+FT   METAL       723    723       Zinc; catalytic.
+FT   METAL       768    768       Zinc; catalytic.
+FT   VARIANT     299    299       A -> S (in strain: Sterne).
+FT   MUTAGEN     180    180       V->A: No effect on PA-binding ability.
+FT                                {ECO:0000269|PubMed:11162493}.
+FT   MUTAGEN     181    181       Y->A: Loss of ability to bind to PA.
+FT                                {ECO:0000269|PubMed:11162493}.
+FT   MUTAGEN     182    182       Y->A: Loss of ability to bind to PA.
+FT                                {ECO:0000269|PubMed:11162493}.
+FT   MUTAGEN     183    183       E->A: No effect on PA-binding ability.
+FT                                {ECO:0000269|PubMed:11162493}.
+FT   MUTAGEN     184    184       I->A: Loss of ability to bind to PA.
+FT                                {ECO:0000269|PubMed:11162493}.
+FT   MUTAGEN     185    185       G->A: No effect on PA-binding ability.
+FT                                {ECO:0000269|PubMed:11162493}.
+FT   MUTAGEN     186    186       K->A: Loss of ability to bind to PA.
+FT                                {ECO:0000269|PubMed:11162493}.
+FT   MUTAGEN     220    220       D->A: Loss of ability to bind to PA and
+FT                                loss of toxicity.
+FT                                {ECO:0000269|PubMed:12113932}.
+FT   MUTAGEN     221    221       L->A: No effect on PA-binding ability and
+FT                                fully toxic.
+FT                                {ECO:0000269|PubMed:12113932}.
+FT   MUTAGEN     222    222       L->A: No effect on PA-binding ability and
+FT                                fully toxic.
+FT                                {ECO:0000269|PubMed:12113932}.
+FT   MUTAGEN     223    223       F->A: Loss of ability to bind to PA and
+FT                                non-toxic. {ECO:0000269|PubMed:12113932}.
+FT   MUTAGEN     719    719       H->A: Loss of activity and zinc binding.
+FT                                {ECO:0000269|PubMed:9573135}.
+FT   MUTAGEN     720    720       E->C,D: Loss of activity. No effect on
+FT                                zinc binding.
+FT                                {ECO:0000269|PubMed:9573135}.
+FT   MUTAGEN     723    723       H->A: Loss of activity and zinc binding.
+FT                                {ECO:0000269|PubMed:9573135}.
+FT   TURN         62     65       {ECO:0000244|PDB:1J7N}.
+FT   HELIX        66     76       {ECO:0000244|PDB:1J7N}.
+FT   STRAND       77     80       {ECO:0000244|PDB:1J7N}.
+FT   HELIX        87     97       {ECO:0000244|PDB:1J7N}.
+FT   HELIX       101    109       {ECO:0000244|PDB:1J7N}.
+FT   STRAND      113    119       {ECO:0000244|PDB:1J7N}.
+FT   HELIX       121    123       {ECO:0000244|PDB:1J7N}.
+FT   HELIX       125    127       {ECO:0000244|PDB:1J7N}.
+FT   HELIX       132    135       {ECO:0000244|PDB:1J7N}.
+FT   STRAND      136    138       {ECO:0000244|PDB:1J7N}.
+FT   STRAND      144    146       {ECO:0000244|PDB:1J7N}.
+FT   HELIX       147    149       {ECO:0000244|PDB:1J7N}.
+FT   STRAND      151    155       {ECO:0000244|PDB:1J7N}.
+FT   STRAND      157    159       {ECO:0000244|PDB:1J7N}.
+FT   STRAND      161    165       {ECO:0000244|PDB:1J7N}.
+FT   TURN        170    172       {ECO:0000244|PDB:1J7N}.
+FT   HELIX       174    190       {ECO:0000244|PDB:1J7N}.
+FT   HELIX       193    196       {ECO:0000244|PDB:1J7N}.
+FT   HELIX       201    211       {ECO:0000244|PDB:1J7N}.
+FT   STRAND      213    216       {ECO:0000244|PDB:1J7N}.
+FT   HELIX       217    222       {ECO:0000244|PDB:1J7N}.
+FT   HELIX       225    228       {ECO:0000244|PDB:1J7N}.
+FT   HELIX       236    240       {ECO:0000244|PDB:1J7N}.
+FT   HELIX       243    258       {ECO:0000244|PDB:1J7N}.
+FT   HELIX       260    269       {ECO:0000244|PDB:1J7N}.
+FT   HELIX       271    282       {ECO:0000244|PDB:1J7N}.
+FT   HELIX       284    293       {ECO:0000244|PDB:1J7N}.
+FT   HELIX       300    310       {ECO:0000244|PDB:4DV8}.
+FT   HELIX       312    317       {ECO:0000244|PDB:4DV8}.
+FT   HELIX       320    330       {ECO:0000244|PDB:4DV8}.
+FT   HELIX       337    342       {ECO:0000244|PDB:4DV8}.
+FT   HELIX       346    354       {ECO:0000244|PDB:4DV8}.
+FT   HELIX       357    359       {ECO:0000244|PDB:4DV8}.
+FT   STRAND      361    363       {ECO:0000244|PDB:4PKW}.
+FT   HELIX       365    379       {ECO:0000244|PDB:4DV8}.
+FT   STRAND      381    383       {ECO:0000244|PDB:4PKR}.
+FT   HELIX       384    389       {ECO:0000244|PDB:4DV8}.
+FT   STRAND      392    394       {ECO:0000244|PDB:1YQY}.
+FT   HELIX       403    412       {ECO:0000244|PDB:4DV8}.
+FT   HELIX       413    415       {ECO:0000244|PDB:4DV8}.
+FT   HELIX       421    428       {ECO:0000244|PDB:4DV8}.
+FT   STRAND      435    437       {ECO:0000244|PDB:4DV8}.
+FT   HELIX       439    455       {ECO:0000244|PDB:4DV8}.
+FT   STRAND      458    460       {ECO:0000244|PDB:1PWV}.
+FT   HELIX       461    464       {ECO:0000244|PDB:4DV8}.
+FT   TURN        465    467       {ECO:0000244|PDB:4DV8}.
+FT   STRAND      470    474       {ECO:0000244|PDB:4DV8}.
+FT   HELIX       476    478       {ECO:0000244|PDB:4DV8}.
+FT   HELIX       481    484       {ECO:0000244|PDB:4DV8}.
+FT   TURN        485    487       {ECO:0000244|PDB:4PKT}.
+FT   HELIX       498    505       {ECO:0000244|PDB:4DV8}.
+FT   STRAND      510    515       {ECO:0000244|PDB:4DV8}.
+FT   STRAND      518    522       {ECO:0000244|PDB:4DV8}.
+FT   STRAND      532    537       {ECO:0000244|PDB:4DV8}.
+FT   STRAND      543    547       {ECO:0000244|PDB:4DV8}.
+FT   TURN        548    550       {ECO:0000244|PDB:4DV8}.
+FT   STRAND      551    554       {ECO:0000244|PDB:4DV8}.
+FT   STRAND      556    570       {ECO:0000244|PDB:4DV8}.
+FT   STRAND      573    583       {ECO:0000244|PDB:4DV8}.
+FT   HELIX       585    607       {ECO:0000244|PDB:4DV8}.
+FT   STRAND      616    619       {ECO:0000244|PDB:4DV8}.
+FT   HELIX       625    642       {ECO:0000244|PDB:4DV8}.
+FT   HELIX       645    657       {ECO:0000244|PDB:4DV8}.
+FT   STRAND      662    667       {ECO:0000244|PDB:4DV8}.
+FT   HELIX       669    671       {ECO:0000244|PDB:4DV8}.
+FT   HELIX       673    676       {ECO:0000244|PDB:4DV8}.
+FT   HELIX       682    684       {ECO:0000244|PDB:4DV8}.
+FT   STRAND      688    693       {ECO:0000244|PDB:4DV8}.
+FT   HELIX       694    696       {ECO:0000244|PDB:4DV8}.
+FT   STRAND      698    705       {ECO:0000244|PDB:4DV8}.
+FT   TURN        709    711       {ECO:0000244|PDB:2L0R}.
+FT   HELIX       713    733       {ECO:0000244|PDB:4DV8}.
+FT   STRAND      735    737       {ECO:0000244|PDB:4DV8}.
+FT   HELIX       741    743       {ECO:0000244|PDB:4DV8}.
+FT   HELIX       745    754       {ECO:0000244|PDB:4DV8}.
+FT   TURN        755    757       {ECO:0000244|PDB:4PKV}.
+FT   HELIX       761    763       {ECO:0000244|PDB:4DV8}.
+FT   HELIX       766    777       {ECO:0000244|PDB:4DV8}.
+FT   HELIX       782    791       {ECO:0000244|PDB:4DV8}.
+FT   HELIX       793    807       {ECO:0000244|PDB:4DV8}.
+SQ   SEQUENCE   809 AA;  93770 MW;  2076B4D7277317EE CRC64;
+     MNIKKEFIKV ISMSCLVTAI TLSGPVFIPL VQGAGGHGDV GMHVKEKEKN KDENKRKDEE
+     RNKTQEEHLK EIMKHIVKIE VKGEEAVKKE AAEKLLEKVP SDVLEMYKAI GGKIYIVDGD
+     ITKHISLEAL SEDKKKIKDI YGKDALLHEH YVYAKEGYEP VLVIQSSEDY VENTEKALNV
+     YYEIGKILSR DILSKINQPY QKFLDVLNTI KNASDSDGQD LLFTNQLKEH PTDFSVEFLE
+     QNSNEVQEVF AKAFAYYIEP QHRDVLQLYA PEAFNYMDKF NEQEINLSLE ELKDQRMLAR
+     YEKWEKIKQH YQHWSDSLSE EGRGLLKKLQ IPIEPKKDDI IHSLSQEEKE LLKRIQIDSS
+     DFLSTEEKEF LKKLQIDIRD SLSEEEKELL NRIQVDSSNP LSEKEKEFLK KLKLDIQPYD
+     INQRLQDTGG LIDSPSINLD VRKQYKRDIQ NIDALLHQSI GSTLYNKIYL YENMNINNLT
+     ATLGADLVDS TDNTKINRGI FNEFKKNFKY SISSNYMIVD INERPALDNE RLKWRIQLSP
+     DTRAGYLENG KLILQRNIGL EIKDVQIIKQ SEKEYIRIDA KVVPKSKIDT KIQEAQLNIN
+     QEWNKALGLP KYTKLITFNV HNRYASNIVE SAYLILNEWK NNIQSDLIKK VTNYLVDGNG
+     RFVFTDITLP NIAEQYTHQD EIYEQVHSKG LYVPESRSIL LHGPSKGVEL RNDSEGFIHE
+     FGHAVDDYAG YLLDKNQSDL VTNSKKFIDI FKEEGSNLTS YGRTNEAEFF AEAFRLMHST
+     DHAERLKVQK NAPKTFQFIN DQIKFIINS
+//

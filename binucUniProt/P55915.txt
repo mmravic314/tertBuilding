@@ -1,0 +1,204 @@
+ID   CONA_CANBR              Reviewed;         237 AA.
+AC   P55915;
+DT   01-NOV-1997, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1997, sequence version 1.
+DT   24-JUN-2015, entry version 89.
+DE   RecName: Full=Concanavalin-Br;
+DE            Short=Con Br;
+OS   Canavalia brasiliensis (Brazilian jack bean).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+OC   Phaseoleae; Canavalia.
+OX   NCBI_TaxID=61861;
+RN   [1]
+RP   PROTEIN SEQUENCE.
+RC   TISSUE=Seed;
+RA   Grangeiro T.B.;
+RL   Thesis (1996), Universidade Federale do Ceara, Brazil.
+RN   [2]
+RP   FUNCTION.
+RX   PubMed=1398779; DOI=10.3109/08820139209069369;
+RA   Barral-Netto M., Santos S.B., Barral A., Moreira L.I., Santos C.F.,
+RA   Moreira R.A., Oliveira J.T., Cavada B.S.;
+RT   "Human lymphocyte stimulation by legume lectins from the Diocleae
+RT   tribe.";
+RL   Immunol. Invest. 21:297-303(1992).
+RN   [3]
+RP   FUNCTION, AND CALCIUM-BINDING.
+RX   PubMed=7524287; DOI=10.1007/BF02001905;
+RA   Gomes J.C., Ferreira R.R., Cavada B.S., Moreira R.A., Oliveira J.T.;
+RT   "Histamine release induced by glucose (mannose)-specific lectins
+RT   isolated from Brazilian beans. Comparison with concanavalin A.";
+RL   Agents Actions 41:132-135(1994).
+RN   [4]
+RP   FUNCTION, AND CALCIUM-BINDING.
+RX   PubMed=8891754; DOI=10.1007/BF02252314;
+RA   Ferreira R.R., Cavada B.S., Moreira R.A., Oliveira J.T., Gomes J.C.;
+RT   "Characteristics of the histamine release from hamster cheek pouch
+RT   mast cells stimulated by lectins from Brazilian beans and concanavalin
+RT   A.";
+RL   Inflamm. Res. 45:442-447(1996).
+RN   [5]
+RP   FUNCTION.
+RX   PubMed=18472821; DOI=10.1080/09629359791695;
+RA   Assreuy A.M., Shibuya M.D., Martins G.J., De Souza M.L., Cavada B.S.,
+RA   Moreira R.A., Oliveira J.T., Ribeiro R.A., Flores C.A.;
+RT   "Anti-inflammatory effect of glucose-mannose binding lectins isolated
+RT   from Brazilian beans.";
+RL   Mediators Inflamm. 6:201-210(1997).
+RN   [6]
+RP   FUNCTION.
+RX   PubMed=9575151; DOI=10.1074/jbc.273.20.12082;
+RA   Dam T.K., Cavada B.S., Grangeiro T.B., Santos C.F., de Sousa F.A.M.,
+RA   Oscarson S., Brewer C.F.;
+RT   "Diocleinae lectins are a group of proteins with conserved binding
+RT   sites for the core trimannoside of asparagine-linked oligosaccharides
+RT   and differential specificities for complex carbohydrates.";
+RL   J. Biol. Chem. 273:12082-12088(1998).
+RN   [7]
+RP   MANGANESE-BINDING.
+RX   PubMed=10694401; DOI=10.1021/bi992102b;
+RA   Lee H.C., Goroncy A.K., Peisach J., Cavada B.S., Grangeiro T.B.,
+RA   Ramos M.V., Sampaio A.H., Dam T.K., Brewer C.F.;
+RT   "Demonstration of a conserved histidine and two water ligands at the
+RT   Mn2+ site in Diocleinae lectins by pulsed EPR spectroscopy.";
+RL   Biochemistry 39:2340-2346(2000).
+RN   [8]
+RP   FUNCTION.
+RX   PubMed=10747944; DOI=10.1074/jbc.M000670200;
+RA   Dam T.K., Cavada B.S., Grangeiro T.B., Santos C.F., Ceccatto V.M.,
+RA   de Sousa F.A., Oscarson S., Brewer C.F.;
+RT   "Thermodynamic binding studies of lectins from the diocleinae subtribe
+RT   to deoxy analogs of the core trimannoside of asparagine-linked
+RT   oligosaccharides.";
+RL   J. Biol. Chem. 275:16119-16126(2000).
+RN   [9]
+RP   FUNCTION, AND LETHAL CONCENTRATION.
+RX   PubMed=19765980; DOI=10.1016/j.biortech.2009.07.062;
+RA   dos Santos A.F., Cavada B.S., da Rocha B.A., do Nascimento K.S.,
+RA   Sant'Ana A.E.;
+RT   "Toxicity of some glucose/mannose-binding lectins to Biomphalaria
+RT   glabrata and Artemia salina.";
+RL   Bioresour. Technol. 101:794-798(2010).
+RN   [10]
+RP   X-RAY CRYSTALLOGRAPHY (3.0 ANGSTROMS).
+RX   PubMed=9094437; DOI=10.1016/S0014-5793(97)00137-3;
+RA   Sanz-Aparicio J., Hermoso J., Grangeiro T.B., Calvete J.J.,
+RA   Cavada B.S.;
+RT   "The crystal structure of Canavalia brasiliensis lectin suggests a
+RT   correlation between its quaternary conformation and its distinct
+RT   biological properties from Concanavalin A.";
+RL   FEBS Lett. 405:114-118(1997).
+RN   [11]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) IN COMPLEX WITH CARBOHYDRATE.
+RX   PubMed=10506175; DOI=10.1074/jbc.274.41.29188;
+RA   Bouckaert J., Hamelryck T.W., Wyns L., Loris R.;
+RT   "The crystal structures of Man(alpha1-3)Man(alpha1-O)Me and
+RT   Man(alpha1-6)Man(alpha1-O)Me in complex with concanavalin A.";
+RL   J. Biol. Chem. 274:29188-29195(1999).
+CC   -!- FUNCTION: Glucose/D-mannose specific lectin. Has anti-inflammatory
+CC       activity in rats. Induces histamine release in mast cells from
+CC       hamster and rat. Induces lymphocyte proliferation and IFNG
+CC       production. Shows toxicity against the aquatic snail B.glabrata at
+CC       concentrations higher than 20 ug/ml. {ECO:0000269|PubMed:10747944,
+CC       ECO:0000269|PubMed:1398779, ECO:0000269|PubMed:18472821,
+CC       ECO:0000269|PubMed:19765980, ECO:0000269|PubMed:7524287,
+CC       ECO:0000269|PubMed:8891754, ECO:0000269|PubMed:9575151}.
+CC   -!- SUBUNIT: Homotetramer. {ECO:0000269|PubMed:10506175}.
+CC   -!- TOXIC DOSE: LC(50) is 15.4 ug/ml against the brine shrimp
+CC       A.salina.
+CC   -!- MISCELLANEOUS: Binds one manganese (or another transition metal)
+CC       ion and one calcium ion. The metal ions are essential for the
+CC       saccharide-binding and cell-agglutinating activities.
+CC   -!- MISCELLANEOUS: Is being tested as a molluscicide with potential
+CC       application in controlling schistosomiasis. The causative agent of
+CC       schistosomiasis depends on freshwater snails of the genus
+CC       Biomphalaria as hosts during its larval stages.
+CC   -!- SIMILARITY: Belongs to the leguminous lectin family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   PDB; 1AZD; X-ray; 3.00 A; A/B/C/D=1-237.
+DR   PDB; 1QDC; X-ray; 2.00 A; A/B/C/D=1-237.
+DR   PDB; 1QDO; X-ray; 2.80 A; A/B/C/D=1-237.
+DR   PDB; 2CYF; X-ray; 1.80 A; A/C=1-237.
+DR   PDB; 3JU9; X-ray; 2.10 A; A=1-237.
+DR   PDB; 4H55; X-ray; 2.07 A; A=1-237.
+DR   PDB; 4P14; X-ray; 2.00 A; A=1-237.
+DR   PDB; 4PCR; X-ray; 2.15 A; A/D=1-237.
+DR   PDBsum; 1AZD; -.
+DR   PDBsum; 1QDC; -.
+DR   PDBsum; 1QDO; -.
+DR   PDBsum; 2CYF; -.
+DR   PDBsum; 3JU9; -.
+DR   PDBsum; 4H55; -.
+DR   PDBsum; 4P14; -.
+DR   PDBsum; 4PCR; -.
+DR   ProteinModelPortal; P55915; -.
+DR   SMR; P55915; 1-237.
+DR   EvolutionaryTrace; P55915; -.
+DR   GO; GO:0005537; F:mannose binding; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 2.60.120.200; -; 2.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR000985; Lectin_LegA_CS.
+DR   InterPro; IPR019825; Lectin_legB_Mn/Ca_BS.
+DR   InterPro; IPR001220; Legume_lectin_dom.
+DR   Pfam; PF00139; Lectin_legB; 2.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   PROSITE; PS00308; LECTIN_LEGUME_ALPHA; 1.
+DR   PROSITE; PS00307; LECTIN_LEGUME_BETA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Calcium; Direct protein sequencing; Lectin; Manganese;
+KW   Mannose-binding; Metal-binding.
+FT   CHAIN         1    237       Concanavalin-Br.
+FT                                /FTId=PRO_0000105085.
+FT   REGION       99    100       Carbohydrate binding.
+FT   METAL         8      8       Manganese.
+FT   METAL        10     10       Calcium.
+FT   METAL        10     10       Manganese.
+FT   METAL        12     12       Calcium; via carbonyl oxygen.
+FT   METAL        14     14       Calcium.
+FT   METAL        19     19       Calcium.
+FT   METAL        19     19       Manganese.
+FT   METAL        24     24       Manganese.
+FT   METAL        34     34       Manganese. {ECO:0000250}.
+FT   METAL       208    208       Calcium. {ECO:0000250}.
+FT   BINDING      12     12       Carbohydrate.
+FT                                {ECO:0000269|PubMed:10506175}.
+FT   BINDING     228    228       Carbohydrate; via amide nitrogen.
+FT                                {ECO:0000269|PubMed:10506175}.
+FT   STRAND        4     10       {ECO:0000244|PDB:2CYF}.
+FT   HELIX        15     17       {ECO:0000244|PDB:2CYF}.
+FT   STRAND       24     33       {ECO:0000244|PDB:2CYF}.
+FT   STRAND       35     39       {ECO:0000244|PDB:2CYF}.
+FT   STRAND       48     55       {ECO:0000244|PDB:2CYF}.
+FT   TURN         56     59       {ECO:0000244|PDB:2CYF}.
+FT   STRAND       60     66       {ECO:0000244|PDB:2CYF}.
+FT   STRAND       68     70       {ECO:0000244|PDB:1QDO}.
+FT   STRAND       72     78       {ECO:0000244|PDB:2CYF}.
+FT   HELIX        81     83       {ECO:0000244|PDB:2CYF}.
+FT   STRAND       87     96       {ECO:0000244|PDB:2CYF}.
+FT   STRAND       98    100       {ECO:0000244|PDB:2CYF}.
+FT   STRAND      108    116       {ECO:0000244|PDB:2CYF}.
+FT   TURN        118    120       {ECO:0000244|PDB:1QDC}.
+FT   STRAND      124    132       {ECO:0000244|PDB:2CYF}.
+FT   STRAND      140    144       {ECO:0000244|PDB:2CYF}.
+FT   STRAND      150    152       {ECO:0000244|PDB:2CYF}.
+FT   STRAND      154    157       {ECO:0000244|PDB:2CYF}.
+FT   TURN        161    163       {ECO:0000244|PDB:4H55}.
+FT   STRAND      170    177       {ECO:0000244|PDB:2CYF}.
+FT   STRAND      187    197       {ECO:0000244|PDB:2CYF}.
+FT   STRAND      203    205       {ECO:0000244|PDB:2CYF}.
+FT   STRAND      209    216       {ECO:0000244|PDB:2CYF}.
+FT   HELIX       227    229       {ECO:0000244|PDB:2CYF}.
+FT   TURN        230    232       {ECO:0000244|PDB:2CYF}.
+SQ   SEQUENCE   237 AA;  25568 MW;  4D62F2113A36C38F CRC64;
+     ADTIVAVELD TYPNTDIGDP SYPHIGIDIK SVRSKKTAKW NMQNGKVGTA HIIYNSVGKR
+     LSAVVSYPNG DSATVSYDVD LDNVLPEWVR VGLSASTGLY KETNTILSWS FTSKLKSNST
+     HETNALHFMF NQFSKDQKDL ILQGDATTGT EGNLRLTRVS SNGSPQGSSV GRALFYAPVH
+     IWESSAVVAS FEATFTFLIK SPDSHPADGI AFFISNIDSS IPSGSTGRLL GLFPDAN
+//

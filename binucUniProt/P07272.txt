@@ -1,0 +1,169 @@
+ID   PPR1_YEAST              Reviewed;         904 AA.
+AC   P07272; D6VY16;
+DT   01-APR-1988, integrated into UniProtKB/Swiss-Prot.
+DT   01-APR-1988, sequence version 1.
+DT   22-JUL-2015, entry version 138.
+DE   RecName: Full=Pyrimidine pathway regulatory protein 1;
+GN   Name=PPR1; OrderedLocusNames=YLR014C;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=559292;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=6096561; DOI=10.1016/S0022-2836(84)80002-9;
+RA   Kammerer B., Guyonvarch A., Hubert J.-C.;
+RT   "Yeast regulatory gene PPR1. I. Nucleotide sequence, restriction map
+RT   and codon usage.";
+RL   J. Mol. Biol. 180:239-250(1984).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=9169871;
+RA   Johnston M., Hillier L.W., Riles L., Albermann K., Andre B.,
+RA   Ansorge W., Benes V., Brueckner M., Delius H., Dubois E.,
+RA   Duesterhoeft A., Entian K.-D., Floeth M., Goffeau A., Hebling U.,
+RA   Heumann K., Heuss-Neitzel D., Hilbert H., Hilger F., Kleine K.,
+RA   Koetter P., Louis E.J., Messenguy F., Mewes H.-W., Miosga T.,
+RA   Moestl D., Mueller-Auer S., Nentwich U., Obermaier B., Piravandi E.,
+RA   Pohl T.M., Portetelle D., Purnelle B., Rechmann S., Rieger M.,
+RA   Rinke M., Rose M., Scharfe M., Scherens B., Scholler P., Schwager C.,
+RA   Schwarz S., Underwood A.P., Urrestarazu L.A., Vandenbol M.,
+RA   Verhasselt P., Vierendeels F., Voet M., Volckaert G., Voss H.,
+RA   Wambutt R., Wedler E., Wedler H., Zimmermann F.K., Zollner A.,
+RA   Hani J., Hoheisel J.D.;
+RT   "The nucleotide sequence of Saccharomyces cerevisiae chromosome XII.";
+RL   Nature 387:87-90(1997).
+RN   [3]
+RP   GENOME REANNOTATION.
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=24374639; DOI=10.1534/g3.113.008995;
+RA   Engel S.R., Dietrich F.S., Fisk D.G., Binkley G., Balakrishnan R.,
+RA   Costanzo M.C., Dwight S.S., Hitz B.C., Karra K., Nash R.S., Weng S.,
+RA   Wong E.D., Lloyd P., Skrzypek M.S., Miyasato S.R., Simison M.,
+RA   Cherry J.M.;
+RT   "The reference genome sequence of Saccharomyces cerevisiae: Then and
+RT   now.";
+RL   G3 (Bethesda) 4:389-398(2014).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-513.
+RC   STRAIN=ATCC 204508 / S288c;
+RA   Saville S.P., Atkinson S., Jamieson L., Pocklington M.J., Orr E.;
+RT   "A 7.8kb fragment from chromosome XII of Saccharomyces cerevisiae does
+RT   not harbour PKC2.";
+RL   Submitted (SEP-1995) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=18407956; DOI=10.1074/mcp.M700468-MCP200;
+RA   Albuquerque C.P., Smolka M.B., Payne S.H., Bafna V., Eng J., Zhou H.;
+RT   "A multidimensional chromatography technology for in-depth
+RT   phosphoproteome analysis.";
+RL   Mol. Cell. Proteomics 7:1389-1396(2008).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (3.2 ANGSTROMS) OF 29-123.
+RX   PubMed=7958913; DOI=10.1101/gad.8.20.2504;
+RA   Marmorstein R., Harrison S.C.;
+RT   "Crystal structure of a PPR1-DNA complex: DNA recognition by proteins
+RT   containing a Zn2Cys6 binuclear cluster.";
+RL   Genes Dev. 8:2504-2512(1994).
+CC   -!- FUNCTION: Positive regulator of URA1 and URA3 expression.
+CC   -!- SUBUNIT: Binds DNA as a homodimer.
+CC   -!- SUBCELLULAR LOCATION: Nucleus.
+CC   -!- SIMILARITY: Contains 1 Zn(2)-C6 fungal-type DNA-binding domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00227}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X01739; CAA25876.1; -; Genomic_DNA.
+DR   EMBL; Z73186; CAA97536.1; -; Genomic_DNA.
+DR   EMBL; X90564; CAA62160.1; -; Genomic_DNA.
+DR   EMBL; BK006945; DAA09332.1; -; Genomic_DNA.
+DR   PIR; S05877; RGBYP1.
+DR   RefSeq; NP_013114.1; NM_001181901.1.
+DR   PDB; 1PYI; X-ray; 3.20 A; A/B=29-123.
+DR   PDBsum; 1PYI; -.
+DR   ProteinModelPortal; P07272; -.
+DR   SMR; P07272; 30-117.
+DR   BioGrid; 31288; 36.
+DR   DIP; DIP-2126N; -.
+DR   IntAct; P07272; 3.
+DR   MINT; MINT-473884; -.
+DR   MaxQB; P07272; -.
+DR   PaxDb; P07272; -.
+DR   EnsemblFungi; YLR014C; YLR014C; YLR014C.
+DR   GeneID; 850701; -.
+DR   KEGG; sce:YLR014C; -.
+DR   CYGD; YLR014c; -.
+DR   EuPathDB; FungiDB:YLR014C; -.
+DR   SGD; S000004004; PPR1.
+DR   eggNOG; NOG78779; -.
+DR   GeneTree; ENSGT00730000112745; -.
+DR   HOGENOM; HOG000094249; -.
+DR   InParanoid; P07272; -.
+DR   OMA; YTWVAVH; -.
+DR   OrthoDB; EOG7BP89W; -.
+DR   BioCyc; YEAST:G3O-32175-MONOMER; -.
+DR   EvolutionaryTrace; P07272; -.
+DR   NextBio; 966739; -.
+DR   PRO; PR:P07272; -.
+DR   Proteomes; UP000002311; Chromosome XII.
+DR   GO; GO:0005634; C:nucleus; IC:SGD.
+DR   GO; GO:0043565; F:sequence-specific DNA binding; IDA:SGD.
+DR   GO; GO:0000981; F:sequence-specific DNA binding RNA polymerase II transcription factor activity; IDA:SGD.
+DR   GO; GO:0008270; F:zinc ion binding; IDA:SGD.
+DR   GO; GO:1900399; P:positive regulation of pyrimidine nucleotide biosynthetic process; IMP:SGD.
+DR   GO; GO:0045944; P:positive regulation of transcription from RNA polymerase II promoter; IDA:SGD.
+DR   GO; GO:0006221; P:pyrimidine nucleotide biosynthetic process; IEA:UniProtKB-KW.
+DR   GO; GO:0006351; P:transcription, DNA-templated; IEA:UniProtKB-KW.
+DR   Gene3D; 4.10.240.10; -; 1.
+DR   InterPro; IPR007219; Transcription_factor_dom_fun.
+DR   InterPro; IPR001138; Zn2-C6_fun-type_DNA-bd.
+DR   Pfam; PF04082; Fungal_trans; 1.
+DR   Pfam; PF00172; Zn_clus; 1.
+DR   SMART; SM00906; Fungal_trans; 1.
+DR   SMART; SM00066; GAL4; 1.
+DR   SUPFAM; SSF57701; SSF57701; 1.
+DR   PROSITE; PS00463; ZN2_CY6_FUNGAL_1; 1.
+DR   PROSITE; PS50048; ZN2_CY6_FUNGAL_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Activator; Complete proteome; DNA-binding;
+KW   Metal-binding; Nucleus; Pyrimidine biosynthesis; Reference proteome;
+KW   Transcription; Transcription regulation; Zinc.
+FT   CHAIN         1    904       Pyrimidine pathway regulatory protein 1.
+FT                                /FTId=PRO_0000114965.
+FT   DNA_BIND     34     61       Zn(2)-C6 fungal-type.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00227}.
+FT   METAL        34     34       Zinc 1.
+FT   METAL        34     34       Zinc 2.
+FT   METAL        37     37       Zinc 1.
+FT   METAL        44     44       Zinc 1.
+FT   METAL        51     51       Zinc 1.
+FT   METAL        51     51       Zinc 2.
+FT   METAL        54     54       Zinc 2.
+FT   METAL        61     61       Zinc 2.
+FT   HELIX        35     40       {ECO:0000244|PDB:1PYI}.
+FT   HELIX        52     56       {ECO:0000244|PDB:1PYI}.
+FT   STRAND       62     64       {ECO:0000244|PDB:1PYI}.
+FT   TURN         66     68       {ECO:0000244|PDB:1PYI}.
+FT   STRAND       71     73       {ECO:0000244|PDB:1PYI}.
+FT   HELIX        74     93       {ECO:0000244|PDB:1PYI}.
+FT   TURN        114    116       {ECO:0000244|PDB:1PYI}.
+SQ   SEQUENCE   904 AA;  102724 MW;  836B16CEE27B23BD CRC64;
+     MKQKKFNSKK SNRTDLSKRG DSPNIGISKS RTACKRCRLK KIKCDQEFPS CKRCAKLEVP
+     CVSLDPATGK DVPRSYVFFL EDRLAVMMRV LKEYGVDPTK IRGNIPATSD DEPFDLKKYS
+     SVSSLGEEGI LPHNGLLADY LVQKGNSMAS SAITSKSMAS PQTINVQRKE FLVNSKKQDG
+     SALLPETGSP MTSDARAEEL RRCNKEISAL GTMRESSFNS FLGDSSGISF AKLVFTATNF
+     RQDSGDDVLD EDIKQREQKY NGYAEAENNP HFDPLELPPR HAAEVMISRF FVDTNSQLPL
+     LHRELFLKKY FEPIYGPWNP NIALASDQTG INSAFEIPIT SAFSAHTEPK RENVTEKIDV
+     CSSVDVPWYD TWETSQKVNM RPIVELPTKF HIPYFFLNII FAIGHATQVL KSDITTVATY
+     KRRATKYIAS LFSSSDRLEA LAGTLLMVIY SIMRPNVPGV WYTMGSVLRL TVDLGLHSEK
+     INKNYDAFTR EIRRRLFWCV YSLDRQICSY FGRPFGIPEE SITTRYPSLL DDSFITLTNR
+     EIDDYSDLPS PNPSSKVIAL AMYKIRRIQA SIVRILYAPG AELPRRFMDL ESWRIETYNE
+     LERWFQVDVP KNFEMMNCKF NSIWFDLNYH YSKSILYGLS PKFPTLNDTA FKIVLDSTKG
+     TIDVFYNLCV NKKIGYTWVA VHNMFMTGMT YLYVNFYSKN NINDCQEKVS EYTEKVLIVL
+     KNLIGFCESA KTCYTSYKIL SSVVIKLKFM QINDAKGIFS DSNPLTSQAN RMSSYDKKTN
+     VLGFDDGTFD NKVFNRTNFE EKAPFDIPLD EFFTELEKHS NVSQFNTLDV SEGNQVINES
+     ASTNTSSALN CQSYTNNQDI MDILFQVTSG SVWDEFFVRS GNGNEGESSY DISKGKNSES
+     GGIF
+//

@@ -1,0 +1,65 @@
+ID   Q9KQD5_VIBCH            Unreviewed;       130 AA.
+AC   Q9KQD5;
+DT   01-OCT-2000, integrated into UniProtKB/TrEMBL.
+DT   01-OCT-2000, sequence version 1.
+DT   22-JUL-2015, entry version 98.
+DE   SubName: Full=Chemotaxis protein CheY {ECO:0000313|EMBL:AAF95211.1};
+GN   OrderedLocusNames=VC_2065 {ECO:0000313|EMBL:AAF95211.1};
+OS   Vibrio cholerae serotype O1 (strain ATCC 39315 / El Tor Inaba N16961).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales;
+OC   Vibrionaceae; Vibrio.
+OX   NCBI_TaxID=243277 {ECO:0000313|EMBL:AAF95211.1, ECO:0000313|Proteomes:UP000000584};
+RN   [1] {ECO:0000313|EMBL:AAF95211.1, ECO:0000313|Proteomes:UP000000584}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 39315 / El Tor Inaba N16961
+RC   {ECO:0000313|Proteomes:UP000000584};
+RX   PubMed=10952301; DOI=10.1038/35020000;
+RA   Heidelberg J.F., Eisen J.A., Nelson W.C., Clayton R.A., Gwinn M.L.,
+RA   Dodson R.J., Haft D.H., Hickey E.K., Peterson J.D., Umayam L.A.,
+RA   Gill S.R., Nelson K.E., Read T.D., Tettelin H., Richardson D.L.,
+RA   Ermolaeva M.D., Vamathevan J.J., Bass S., Qin H., Dragoi I.,
+RA   Sellers P., McDonald L.A., Utterback T.R., Fleischmann R.D.,
+RA   Nierman W.C., White O., Salzberg S.L., Smith H.O., Colwell R.R.,
+RA   Mekalanos J.J., Venter J.C., Fraser C.M.;
+RT   "DNA sequence of both chromosomes of the cholera pathogen Vibrio
+RT   cholerae.";
+RL   Nature 406:477-483(2000).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE003852; AAF95211.1; -; Genomic_DNA.
+DR   PIR; C82123; C82123.
+DR   RefSeq; NP_231697.1; NC_002505.1.
+DR   RefSeq; WP_001881779.1; NC_002505.1.
+DR   ProteinModelPortal; Q9KQD5; -.
+DR   SMR; Q9KQD5; 6-130.
+DR   STRING; 243277.VC2065; -.
+DR   DNASU; 2613445; -.
+DR   EnsemblBacteria; AAF95211; AAF95211; VC_2065.
+DR   GeneID; 2613445; -.
+DR   KEGG; vch:VC2065; -.
+DR   PATRIC; 20083164; VBIVibCho83274_1974.
+DR   KO; K03413; -.
+DR   OMA; IDDMATM; -.
+DR   OrthoDB; EOG6PKFC7; -.
+DR   BioCyc; VCHO:VC2065-MONOMER; -.
+DR   Proteomes; UP000000584; Chromosome 1.
+DR   GO; GO:0005622; C:intracellular; IEA:GOC.
+DR   GO; GO:0004871; F:signal transducer activity; ISS:TIGR.
+DR   GO; GO:0006935; P:chemotaxis; ISS:TIGR.
+DR   GO; GO:0000160; P:phosphorelay signal transduction system; IEA:InterPro.
+DR   InterPro; IPR011006; CheY-like_superfamily.
+DR   InterPro; IPR001789; Sig_transdc_resp-reg_receiver.
+DR   Pfam; PF00072; Response_reg; 1.
+DR   SMART; SM00448; REC; 1.
+DR   SUPFAM; SSF52172; SSF52172; 1.
+DR   PROSITE; PS50110; RESPONSE_REGULATORY; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000584};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000584}.
+SQ   SEQUENCE   130 AA;  14748 MW;  EB5B92E1B5B43070 CRC64;
+     MEAILNKNMK ILIVDDFSTM RRIVKNLLRD LGFNNTQEAD DGLTALPMLK KGDFDFVVTD
+     WNMPGMQGID LLKNIRADEE LKHLPVLMIT AEAKREQIIE AAQAGVNGYI VKPFTAATLK
+     EKLDKIFERL
+//

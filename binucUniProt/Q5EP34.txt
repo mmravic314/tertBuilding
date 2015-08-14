@@ -1,0 +1,91 @@
+ID   Q5EP34_9INFA            Unreviewed;       716 AA.
+AC   Q5EP34;
+DT   15-MAR-2005, integrated into UniProtKB/TrEMBL.
+DT   15-MAR-2005, sequence version 1.
+DT   24-JUN-2015, entry version 39.
+DE   RecName: Full=Polymerase acidic protein {ECO:0000256|RuleBase:RU361280, ECO:0000256|SAAS:SAAS00262764};
+GN   Name=PA {ECO:0000256|RuleBase:RU361280};
+OS   Influenza A virus (A/Viet Nam/1203/2004(H5N1)).
+OC   Viruses; ssRNA viruses; ssRNA negative-strand viruses;
+OC   Orthomyxoviridae; Influenzavirus A.
+OX   NCBI_TaxID=284218 {ECO:0000313|EMBL:AAW80714.1};
+RN   [1] {ECO:0000313|EMBL:AAW80714.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=A/Viet Nam/1203/2004 {ECO:0000313|EMBL:AAW80714.1};
+RX   PubMed=15681421; DOI=10.1128/JVI.79.4.2191-2198.2005;
+RA   Govorkova E.A., Rehg J.E., Krauss S., Yen H.L., Guan Y., Peiris M.,
+RA   Nguyen T.D., Hanh T.H., Puthavathana P., Long H.T., Buranathai C.,
+RA   Lim W., Webster R.G., Hoffmann E.;
+RT   "Lethality to ferrets of H5N1 influenza viruses isolated from humans
+RT   and poultry in 2004.";
+RL   J. Virol. 79:2191-2198(2005).
+RN   [2] {ECO:0000213|PDB:4E5E, ECO:0000213|PDB:4E5F, ECO:0000213|PDB:4E5G}
+RP   X-RAY CRYSTALLOGRAPHY (2.05 ANGSTROMS) OF 1-50 AND 73-196 IN COMPLEX
+RP   WITH MANGANESE.
+RX   PubMed=22876176; DOI=10.1371/journal.ppat.1002830;
+RA   DuBois R.M., Slavish P.J., Baughman B.M., Yun M.K., Bao J.,
+RA   Webby R.J., Webb T.R., White S.W.;
+RT   "Structural and biochemical basis for development of influenza virus
+RT   inhibitors targeting the PA endonuclease.";
+RL   PLoS Pathog. 8:e1002830-e1002830(2012).
+CC   -!- SUBUNIT: Influenza RNA polymerase is composed of three subunits:
+CC       PB1, PB2 and PA. {ECO:0000256|RuleBase:RU361280}.
+CC   -!- SIMILARITY: Belongs to the influenza viruses PA family.
+CC       {ECO:0000256|RuleBase:RU361280}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AY818132; AAW80714.1; -; Genomic_RNA.
+DR   PDB; 4E5E; X-ray; 2.05 A; A/B/C/D=1-50, A/B/C/D=73-196.
+DR   PDB; 4E5F; X-ray; 2.39 A; A/B/C/D=1-50, A/B/C/D=73-196.
+DR   PDB; 4E5G; X-ray; 2.65 A; A/B/C/D=1-50, A/B/C/D=73-196.
+DR   PDB; 4E5H; X-ray; 2.16 A; A/B/C/D=1-50, A/B/C/D=73-196.
+DR   PDB; 4E5I; X-ray; 2.94 A; A/B/C/D=1-50, A/B/C/D=73-196.
+DR   PDB; 4E5J; X-ray; 2.35 A; A/B/C/D=1-50, A/B/C/D=73-196.
+DR   PDB; 4E5L; X-ray; 2.47 A; A/B/C/D=1-50, A/B/C/D=73-196.
+DR   PDBsum; 4E5E; -.
+DR   PDBsum; 4E5F; -.
+DR   PDBsum; 4E5G; -.
+DR   PDBsum; 4E5H; -.
+DR   PDBsum; 4E5I; -.
+DR   PDBsum; 4E5J; -.
+DR   PDBsum; 4E5L; -.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003723; F:RNA binding; IEA:InterPro.
+DR   GO; GO:0003968; F:RNA-directed RNA polymerase activity; IEA:InterPro.
+DR   GO; GO:0006351; P:transcription, DNA-templated; IEA:InterPro.
+DR   InterPro; IPR001009; RNA-dir_pol_influenzavirus.
+DR   Pfam; PF00603; Flu_PA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4E5E, ECO:0000213|PDB:4E5F};
+KW   Manganese {ECO:0000213|PDB:4E5E, ECO:0000213|PDB:4E5F};
+KW   Metal-binding {ECO:0000213|PDB:4E5E, ECO:0000213|PDB:4E5F}.
+FT   METAL        41     41       Manganese 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4E5E,
+FT                                ECO:0000213|PDB:4E5F,
+FT                                ECO:0000213|PDB:4E5G}.
+FT   METAL       108    108       Manganese 1. {ECO:0000213|PDB:4E5E,
+FT                                ECO:0000213|PDB:4E5F,
+FT                                ECO:0000213|PDB:4E5G}.
+FT   METAL       108    108       Manganese 2. {ECO:0000213|PDB:4E5E}.
+FT   METAL       119    119       Manganese 1. {ECO:0000213|PDB:4E5E,
+FT                                ECO:0000213|PDB:4E5F,
+FT                                ECO:0000213|PDB:4E5G}.
+FT   METAL       120    120       Manganese 1. {ECO:0000213|PDB:4E5E,
+FT                                ECO:0000213|PDB:4E5F,
+FT                                ECO:0000213|PDB:4E5G}.
+SQ   SEQUENCE   716 AA;  82485 MW;  C6244A6DF2EC9E33 CRC64;
+     MEDFVRQCFN PMIVELAEKA MKEYGEDPKI ETNKFAAICT HLEVCFMYSD FHFIDERSES
+     IIVESGDPNA LLKHRFEIIE GRDRTMAWTV VNSICNTTGV EKPKFLPDLY DYKENRFIEI
+     GVTRREVHTY YLEKANKIKS EETHIHIFSF TGEEMATKAD YTLDEESRAR IKTRLFTIRQ
+     EMASRGLWDS FRQSERGEET IEEKFEITGT MRRLADQSLP PNFSSLENFR AYVDGFEPNG
+     CIEGKLSQMS KEVNARIEPF LKTTPRPLRL PDGPPCSQRS KFLLMDALKL SIEDPSHEGE
+     GIPLYDAIKC MKTFFGWKEP NIVKPHEKGI NPNYLLAWKQ VLAELQDIEN EEKIPKTKNM
+     KKTSQLKWAL GENMAPEKVD FEDCKDVSDL RQYDSDEPES RSLASWIQSE FNKACELTDS
+     IWIELDEIGE DVAPIEHIAS MRRNYFTAEV SHCRATEYIM KGVYINTALL NASCAAMDDF
+     QLIPMISKCR TKEGRRKTNL YGFIIKGRSH LRNDTDVVNF VSMEFSLTDP RLEPHKWEKY
+     CVLEIGDMLL RTAVGQVSRP MFLYVRTNGT SKIKMKWGME MRRCLLQSLQ QIESMIEAES
+     SVKEKDMTKE FFENKSETWP IGESPKGVEE GSIGKVCRTL LAKSVFNSLY ASPQLEGFSA
+     ESRKLLLIAQ ALRDNLEPGT FDLGGLYEAI EECLINDPWV LLNASWFNSF LAHALK
+//

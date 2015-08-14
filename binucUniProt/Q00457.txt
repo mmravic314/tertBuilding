@@ -1,0 +1,120 @@
+ID   TMOB_PSEME              Reviewed;          84 AA.
+AC   Q00457;
+DT   01-NOV-1995, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 2.
+DT   26-NOV-2014, entry version 57.
+DE   RecName: Full=Toluene-4-monooxygenase system protein B;
+DE            Short=T4moB;
+DE            EC=1.14.13.-;
+GN   Name=tmoB;
+OS   Pseudomonas mendocina.
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+OC   Pseudomonadaceae; Pseudomonas.
+OX   NCBI_TaxID=300;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND PROTEIN SEQUENCE OF 2-28.
+RC   STRAIN=KR1;
+RX   PubMed=1885512;
+RA   Yen K.-M., Karl M.R., Blatt L.M., Simon M.J., Winter R.B.,
+RA   Fausset P.R., Lu H.S., Harcourt A.A., Chen K.K.;
+RT   "Cloning and characterization of a Pseudomonas mendocina KR1 gene
+RT   cluster encoding toluene-4-monooxygenase.";
+RL   J. Bacteriol. 173:5315-5327(1991).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (1.68 ANGSTROMS), AND SUBUNIT.
+RX   PubMed=19033467; DOI=10.1073/pnas.0807948105;
+RA   Bailey L.J., McCoy J.G., Phillips G.N. Jr., Fox B.G.;
+RT   "Structural consequences of effector protein complex formation in a
+RT   diiron hydroxylase.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:19194-19198(2008).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (1.52 ANGSTROMS), FUNCTION, AND SUBUNIT.
+RX   PubMed=19290655; DOI=10.1021/bi900144a;
+RA   Elsen N.L., Bailey L.J., Hauser A.D., Fox B.G.;
+RT   "Role for threonine 201 in the catalytic cycle of the soluble diiron
+RT   hydroxylase toluene 4-monooxygenase.";
+RL   Biochemistry 48:3838-3846(2009).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS), FUNCTION, AND SUBUNIT.
+RX   PubMed=19705873; DOI=10.1021/bi901150a;
+RA   Bailey L.J., Fox B.G.;
+RT   "Crystallographic and catalytic studies of the peroxide-shunt reaction
+RT   in a diiron hydroxylase.";
+RL   Biochemistry 48:8932-8939(2009).
+CC   -!- FUNCTION: Subunit T4moB of the multicomponent enzyme toluene-4-
+CC       monooxygenase that hydroxylates toluene to form p-cresol.
+CC       {ECO:0000269|PubMed:19290655, ECO:0000269|PubMed:19705873}.
+CC   -!- PATHWAY: Xenobiotic degradation; toluene degradation.
+CC   -!- SUBUNIT: The multicomponent enzyme toluene-4-monooxygenase is
+CC       formed by the TmoA, TmoB, TmoC, TmoD, TmoE and TmoF polypeptides.
+CC       The heterohexamer formed by two molecules each of TmoA, TmoB and
+CC       TmoE interacts with the effector protein TmoD, the Rieske iron-
+CC       sulfur protein TmoC and the NADH-containing oxidoreductase TmoF.
+CC       {ECO:0000269|PubMed:19033467, ECO:0000269|PubMed:19290655,
+CC       ECO:0000269|PubMed:19705873}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M65106; AAA26000.1; -; Genomic_DNA.
+DR   PDB; 3DHG; X-ray; 1.85 A; C/F=1-84.
+DR   PDB; 3DHH; X-ray; 1.94 A; C=1-84.
+DR   PDB; 3DHI; X-ray; 1.68 A; C=1-84.
+DR   PDB; 3GE3; X-ray; 1.52 A; C=1-84.
+DR   PDB; 3GE8; X-ray; 2.19 A; C/G=1-84.
+DR   PDB; 3I5J; X-ray; 1.90 A; C=1-84.
+DR   PDB; 3I63; X-ray; 2.09 A; C=1-84.
+DR   PDB; 3Q14; X-ray; 1.75 A; C=1-84.
+DR   PDB; 3Q2A; X-ray; 1.99 A; C=1-84.
+DR   PDB; 3Q3M; X-ray; 1.75 A; C/G=1-84.
+DR   PDB; 3Q3N; X-ray; 1.84 A; C=1-84.
+DR   PDB; 3Q3O; X-ray; 1.95 A; C=1-84.
+DR   PDB; 3RI7; X-ray; 2.10 A; C=2-84.
+DR   PDB; 3RMK; X-ray; 1.95 A; C/F=2-84.
+DR   PDB; 4P1B; X-ray; 2.05 A; C/F=2-83.
+DR   PDB; 4P1C; X-ray; 2.40 A; C/F=2-83.
+DR   PDBsum; 3DHG; -.
+DR   PDBsum; 3DHH; -.
+DR   PDBsum; 3DHI; -.
+DR   PDBsum; 3GE3; -.
+DR   PDBsum; 3GE8; -.
+DR   PDBsum; 3I5J; -.
+DR   PDBsum; 3I63; -.
+DR   PDBsum; 3Q14; -.
+DR   PDBsum; 3Q2A; -.
+DR   PDBsum; 3Q3M; -.
+DR   PDBsum; 3Q3N; -.
+DR   PDBsum; 3Q3O; -.
+DR   PDBsum; 3RI7; -.
+DR   PDBsum; 3RMK; -.
+DR   PDBsum; 4P1B; -.
+DR   PDBsum; 4P1C; -.
+DR   ProteinModelPortal; Q00457; -.
+DR   SMR; Q00457; 3-83.
+DR   DIP; DIP-48645N; -.
+DR   UniPathway; UPA00273; -.
+DR   EvolutionaryTrace; Q00457; -.
+DR   GO; GO:0004497; F:monooxygenase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0042203; P:toluene catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 3.10.20.270; -; 1.
+DR   InterPro; IPR009355; Toluene_mOase_B.
+DR   Pfam; PF06234; TmoB; 1.
+DR   SUPFAM; SSF110814; SSF110814; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Aromatic hydrocarbons catabolism;
+KW   Direct protein sequencing; Monooxygenase; Oxidoreductase.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:1885512}.
+FT   CHAIN         2     84       Toluene-4-monooxygenase system protein B.
+FT                                /FTId=PRO_0000072600.
+FT   STRAND        3     10       {ECO:0000244|PDB:3GE3}.
+FT   STRAND       14     22       {ECO:0000244|PDB:3GE3}.
+FT   HELIX        27     36       {ECO:0000244|PDB:3GE3}.
+FT   TURN         37     41       {ECO:0000244|PDB:3GE3}.
+FT   STRAND       50     54       {ECO:0000244|PDB:3GE3}.
+FT   STRAND       58     60       {ECO:0000244|PDB:3Q2A}.
+FT   HELIX        67     70       {ECO:0000244|PDB:3GE3}.
+FT   STRAND       77     82       {ECO:0000244|PDB:3GE3}.
+SQ   SEQUENCE   84 AA;  9588 MW;  9EB4FE89F0A7218B CRC64;
+     MSAFPVHAAF EKDFLVQLVV VDLNDSMDQV AEKVAYHCVN RRVAPREGVM RVRKHRSTEL
+     FPRDMTIAES GLNPTEVIDV VFEE
+//

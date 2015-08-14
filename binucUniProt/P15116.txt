@@ -1,0 +1,418 @@
+ID   CADH2_MOUSE             Reviewed;         906 AA.
+AC   P15116; Q64260; Q6GU11;
+DT   01-APR-1990, integrated into UniProtKB/Swiss-Prot.
+DT   27-JUL-2011, sequence version 2.
+DT   22-JUL-2015, entry version 156.
+DE   RecName: Full=Cadherin-2;
+DE   AltName: Full=Neural cadherin;
+DE            Short=N-cadherin;
+DE   AltName: CD_antigen=CD325;
+DE   Flags: Precursor;
+GN   Name=Cdh2;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=2762814; DOI=10.1126/science.2762814;
+RA   Miyatani S., Shimamura K., Hatta M., Nagafuchi A., Nose A.,
+RA   Matsunaga M., Hatta K., Takeichi M.;
+RT   "Neural cadherin: role in selective cell-cell adhesion.";
+RL   Science 245:631-635(1989).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RA   Tamura K.;
+RL   Submitted (NOV-1997) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   PARTIAL NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=C57BL/6;
+RX   PubMed=1528849; DOI=10.1073/pnas.89.18.8443;
+RA   Miyatani S., Copeland N.G., Gilbert D.J., Jenkins N.A., Takeichi M.;
+RT   "Genomic structure and chromosomal mapping of the mouse N-cadherin
+RT   gene.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 89:8443-8447(1992).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Adams M.D., Myers E.W., Smith H.O., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=FVB/N; TISSUE=Liver;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   DEVELOPMENTAL STAGE.
+RC   STRAIN=C57BL/6; TISSUE=Testis;
+RX   PubMed=8879495; DOI=10.1095/biolreprod55.4.822;
+RA   Munro S.B., Blaschuk O.W.;
+RT   "A comprehensive survey of the cadherins expressed in the testes of
+RT   fetal, immature, and adult mice utilizing the polymerase chain
+RT   reaction.";
+RL   Biol. Reprod. 55:822-827(1996).
+RN   [7]
+RP   FUNCTION, AND IDENTIFICATION IN A COMPLEX WITH FGFR4; PLCG1; FRS2;
+RP   SRC; GAP43 AND CTTN.
+RX   PubMed=11433297; DOI=10.1038/35083041;
+RA   Cavallaro U., Niedermeyer J., Fuxa M., Christofori G.;
+RT   "N-CAM modulates tumour-cell adhesion to matrix by inducing FGF-
+RT   receptor signalling.";
+RL   Nat. Cell Biol. 3:650-657(2001).
+RN   [8]
+RP   FUNCTION, AND PCDH8-MEDIATED ENDOCYTOSIS.
+RX   PubMed=17988630; DOI=10.1016/j.neuron.2007.08.020;
+RA   Yasuda S., Tanaka H., Sugiura H., Okamura K., Sakaguchi T., Tran U.,
+RA   Takemiya T., Mizoguchi A., Yagita Y., Sakurai T., De Robertis E.M.,
+RA   Yamagata K.;
+RT   "Activity-induced protocadherin arcadlin regulates dendritic spine
+RT   number by triggering N-cadherin endocytosis via TAO2beta and p38 MAP
+RT   kinases.";
+RL   Neuron 56:456-471(2007).
+RN   [9]
+RP   PROTEOLYTIC PROCESSING.
+RX   PubMed=19805319; DOI=10.1073/pnas.0908507106;
+RA   Folgueras A.R., Valdes-Sanchez T., Llano E., Menendez L., Baamonde A.,
+RA   Denlinger B.L., Belmonte C., Juarez L., Lastra A., Garcia-Suarez O.,
+RA   Astudillo A., Kirstein M., Pendas A.M., Farinas I., Lopez-Otin C.;
+RT   "Metalloproteinase MT5-MMP is an essential modulator of neuro-immune
+RT   interactions in thermal pain stimulation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 106:16451-16456(2009).
+RN   [10]
+RP   CALCIUM-BINDING SITES, AND MUTAGENESIS OF ASP-262 AND ASP-293.
+RX   PubMed=21366346; DOI=10.1021/bi101872b;
+RA   Vunnam N., Pedigo S.;
+RT   "Sequential binding of calcium leads to dimerization in neural
+RT   cadherin.";
+RL   Biochemistry 50:2973-2982(2011).
+RN   [11]
+RP   FUNCTION, DISRUPTION PHENOTYPE, AND PROTEOLYTIC PROCESSING.
+RX   PubMed=24952463; DOI=10.1038/ncb2993;
+RA   Porlan E., Marti-Prado B., Morante-Redolat J.M., Consiglio A.,
+RA   Delgado A.C., Kypta R., Lopez-Otin C., Kirstein M., Farinas I.;
+RT   "MT5-MMP regulates adult neural stem cell functional quiescence
+RT   through the cleavage of N-cadherin.";
+RL   Nat. Cell Biol. 16:629-638(2014).
+RN   [12]
+RP   X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS) OF 160-267.
+RX   PubMed=7885471; DOI=10.1038/374327a0;
+RA   Shapiro L., Fannon A.M., Kwong P.D., Thompson A., Lehmann M.S.,
+RA   Gruebel G., Legrand J.-F., Als-Nielsen J., Colman D.R.,
+RA   Hendrickson W.A.;
+RT   "Structural basis of cell-cell adhesion by cadherins.";
+RL   Nature 374:327-337(1995).
+RN   [13]
+RP   X-RAY CRYSTALLOGRAPHY (3.4 ANGSTROMS) OF 160-374.
+RX   PubMed=9655503; DOI=10.1016/S0896-6273(00)80496-1;
+RA   Tamura K., Shan W.S., Hendrickson W.A., Colman D.R., Shapiro L.;
+RT   "Structure-function analysis of cell adhesion by neural (N-)
+RT   cadherin.";
+RL   Neuron 20:1153-1163(1998).
+CC   -!- FUNCTION: Cadherins are calcium-dependent cell adhesion proteins.
+CC       They preferentially interact with themselves in a homophilic
+CC       manner in connecting cells; cadherins may thus contribute to the
+CC       sorting of heterogeneous cell types. Acts as a regulator of neural
+CC       stem cells quiescence by mediating anchorage of neural stem cells
+CC       to ependymocytes in the adult subependymal zone: upon cleavage by
+CC       MMP24, CDH2-mediated anchorage is affected, leading to modulate
+CC       neural stem cell quiescence (PubMed:24952463). CDH2 may be
+CC       involved in neuronal recognition mechanism. In hippocampal
+CC       neurons, may regulate dendritic spine density.
+CC       {ECO:0000269|PubMed:11433297, ECO:0000269|PubMed:17988630,
+CC       ECO:0000269|PubMed:24952463}.
+CC   -!- SUBUNIT: Interacts with CDCP1 (By similarity). Interacts with
+CC       PCDH8; this complex may also include TAOK2 (By similarity). The
+CC       interaction with PCDH8 may lead to internalization through
+CC       TAOK2/p38 MAPK pathway. Identified in a complex containing FGFR4,
+CC       NCAM1, CDH2, PLCG1, FRS2, SRC, SHC1, GAP43 and CTTN. {ECO:0000250,
+CC       ECO:0000269|PubMed:11433297}.
+CC   -!- INTERACTION:
+CC       P18031:PTPN1 (xeno); NbExp=3; IntAct=EBI-397974, EBI-968788;
+CC   -!- SUBCELLULAR LOCATION: Cell membrane; Single-pass type I membrane
+CC       protein.
+CC   -!- DEVELOPMENTAL STAGE: Expressed at all stages of testicular
+CC       development with highest levels found in testes of 21-day-old
+CC       mice. {ECO:0000269|PubMed:8879495}.
+CC   -!- DOMAIN: Three calcium ions are usually bound at the interface of
+CC       each cadherin domain and rigidify the connections, imparting a
+CC       strong curvature to the full-length ectodomain. Calcium-binding
+CC       sites are occupied sequentially in the order of site 3, then site
+CC       2 and site 1.
+CC   -!- PTM: Cleaved by MMP24. Ectodomain cleavage leads to the generation
+CC       of a soluble 90 kDa amino-terminal soluble fragment and a 45 kDa
+CC       membrane-bound carboxy-terminal fragment 1 (CTF1), which is
+CC       further cleaved by gamma-secretase into a 35 kDa. Cleavage in
+CC       neural stem cells by MMP24 affects CDH2-mediated anchorage of
+CC       neural stem cells to ependymocytes in the adult subependymal zone,
+CC       leading to modulate neural stem cell quiescence.
+CC       {ECO:0000269|PubMed:19805319, ECO:0000269|PubMed:24952463}.
+CC   -!- DISRUPTION PHENOTYPE: Embryonic lethality.
+CC       {ECO:0000269|PubMed:24952463}.
+CC   -!- SIMILARITY: Contains 5 cadherin domains. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00043}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M31131; AAA37353.1; -; mRNA.
+DR   EMBL; AB008811; BAA23549.1; -; mRNA.
+DR   EMBL; S45011; AAB23356.1; -; Genomic_DNA.
+DR   EMBL; CH466557; EDK96930.1; -; Genomic_DNA.
+DR   EMBL; BC022107; AAH22107.1; -; mRNA.
+DR   CCDS; CCDS29076.1; -.
+DR   PIR; A32759; IJMSCN.
+DR   RefSeq; NP_031690.3; NM_007664.4.
+DR   UniGene; Mm.257437; -.
+DR   PDB; 1NCG; X-ray; 2.10 A; A=160-267.
+DR   PDB; 1NCH; X-ray; 2.10 A; A/B=160-267.
+DR   PDB; 1NCI; X-ray; 2.10 A; A/B=160-267.
+DR   PDB; 1NCJ; X-ray; 3.40 A; A=160-374.
+DR   PDB; 1OP4; NMR; -; A=24-159.
+DR   PDB; 2QVI; X-ray; 3.01 A; A=160-374.
+DR   PDB; 3Q2W; X-ray; 3.20 A; A=160-712.
+DR   PDB; 4NUM; X-ray; 3.30 A; A/B/C/D=160-374.
+DR   PDB; 4NUP; X-ray; 2.70 A; A/B/C=162-374.
+DR   PDB; 4NUQ; X-ray; 2.12 A; A=160-374.
+DR   PDBsum; 1NCG; -.
+DR   PDBsum; 1NCH; -.
+DR   PDBsum; 1NCI; -.
+DR   PDBsum; 1NCJ; -.
+DR   PDBsum; 1OP4; -.
+DR   PDBsum; 2QVI; -.
+DR   PDBsum; 3Q2W; -.
+DR   PDBsum; 4NUM; -.
+DR   PDBsum; 4NUP; -.
+DR   PDBsum; 4NUQ; -.
+DR   ProteinModelPortal; P15116; -.
+DR   SMR; P15116; 24-701, 818-904.
+DR   BioGrid; 198637; 20.
+DR   DIP; DIP-31564N; -.
+DR   IntAct; P15116; 10.
+DR   MINT; MINT-4089694; -.
+DR   STRING; 10090.ENSMUSP00000025166; -.
+DR   PhosphoSite; P15116; -.
+DR   MaxQB; P15116; -.
+DR   PaxDb; P15116; -.
+DR   PRIDE; P15116; -.
+DR   Ensembl; ENSMUST00000025166; ENSMUSP00000025166; ENSMUSG00000024304.
+DR   GeneID; 12558; -.
+DR   KEGG; mmu:12558; -.
+DR   UCSC; uc008edx.2; mouse.
+DR   CTD; 1000; -.
+DR   MGI; MGI:88355; Cdh2.
+DR   eggNOG; NOG251747; -.
+DR   GeneTree; ENSGT00760000118906; -.
+DR   HOGENOM; HOG000231254; -.
+DR   HOVERGEN; HBG106438; -.
+DR   InParanoid; P15116; -.
+DR   KO; K06736; -.
+DR   OMA; HSGHLQR; -.
+DR   OrthoDB; EOG7RJPQM; -.
+DR   TreeFam; TF316817; -.
+DR   Reactome; REACT_304595; CDO in myogenesis.
+DR   Reactome; REACT_308832; Adherens junctions interactions.
+DR   EvolutionaryTrace; P15116; -.
+DR   NextBio; 281622; -.
+DR   PRO; PR:P15116; -.
+DR   Proteomes; UP000000589; Chromosome 18.
+DR   Bgee; P15116; -.
+DR   CleanEx; MM_CDH2; -.
+DR   ExpressionAtlas; P15116; baseline and differential.
+DR   Genevisible; P15116; MM.
+DR   GO; GO:0005912; C:adherens junction; IDA:MGI.
+DR   GO; GO:0016324; C:apical plasma membrane; IDA:MGI.
+DR   GO; GO:0016323; C:basolateral plasma membrane; IDA:MGI.
+DR   GO; GO:0016342; C:catenin complex; ISO:MGI.
+DR   GO; GO:0005913; C:cell-cell adherens junction; ISO:MGI.
+DR   GO; GO:0005911; C:cell-cell junction; IDA:MGI.
+DR   GO; GO:0070062; C:extracellular exosome; ISO:MGI.
+DR   GO; GO:0005916; C:fascia adherens; IDA:MGI.
+DR   GO; GO:0005925; C:focal adhesion; ISO:MGI.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0014704; C:intercalated disc; IDA:BHF-UCL.
+DR   GO; GO:0030027; C:lamellipodium; IDA:MGI.
+DR   GO; GO:0016020; C:membrane; ISO:MGI.
+DR   GO; GO:0044853; C:plasma membrane raft; IDA:UniProtKB.
+DR   GO; GO:0045202; C:synapse; IDA:MGI.
+DR   GO; GO:0045294; F:alpha-catenin binding; ISO:MGI.
+DR   GO; GO:0005509; F:calcium ion binding; IEA:InterPro.
+DR   GO; GO:0019899; F:enzyme binding; IPI:UniProtKB.
+DR   GO; GO:0045295; F:gamma-catenin binding; ISO:MGI.
+DR   GO; GO:0019903; F:protein phosphatase binding; IPI:UniProtKB.
+DR   GO; GO:0048514; P:blood vessel morphogenesis; IMP:MGI.
+DR   GO; GO:0016339; P:calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules; IDA:MGI.
+DR   GO; GO:0007155; P:cell adhesion; IDA:MGI.
+DR   GO; GO:0016477; P:cell migration; IDA:MGI.
+DR   GO; GO:0044331; P:cell-cell adhesion mediated by cadherin; IDA:UniProtKB.
+DR   GO; GO:0090002; P:establishment of protein localization to plasma membrane; IDA:UniProtKB.
+DR   GO; GO:0010001; P:glial cell differentiation; IDA:UniProtKB.
+DR   GO; GO:0007157; P:heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules; IDA:MGI.
+DR   GO; GO:0007156; P:homophilic cell adhesion via plasma membrane adhesion molecules; IDA:MGI.
+DR   GO; GO:0090090; P:negative regulation of canonical Wnt signaling pathway; IGI:MGI.
+DR   GO; GO:0097118; P:neuroligin clustering involved in postsynaptic membrane assembly; IMP:BHF-UCL.
+DR   GO; GO:0097150; P:neuronal stem cell maintenance; IDA:UniProtKB.
+DR   GO; GO:0043410; P:positive regulation of MAPK cascade; IGI:MGI.
+DR   GO; GO:2000809; P:positive regulation of synaptic vesicle clustering; IMP:BHF-UCL.
+DR   GO; GO:0051291; P:protein heterooligomerization; IEA:Ensembl.
+DR   GO; GO:0050770; P:regulation of axonogenesis; IEA:Ensembl.
+DR   GO; GO:0031641; P:regulation of myelination; IEA:Ensembl.
+DR   GO; GO:1902897; P:regulation of postsynaptic density protein 95 clustering; IMP:BHF-UCL.
+DR   GO; GO:0035023; P:regulation of Rho protein signal transduction; IEA:Ensembl.
+DR   GO; GO:0051146; P:striated muscle cell differentiation; IGI:MGI.
+DR   Gene3D; 2.60.40.60; -; 6.
+DR   Gene3D; 4.10.900.10; -; 1.
+DR   InterPro; IPR002126; Cadherin.
+DR   InterPro; IPR015919; Cadherin-like.
+DR   InterPro; IPR020894; Cadherin_CS.
+DR   InterPro; IPR000233; Cadherin_cytoplasmic-dom.
+DR   InterPro; IPR014868; Cadherin_pro_dom.
+DR   InterPro; IPR027397; Catenin_binding_dom.
+DR   InterPro; IPR030051; CDH2.
+DR   PANTHER; PTHR24027:SF79; PTHR24027:SF79; 1.
+DR   Pfam; PF00028; Cadherin; 5.
+DR   Pfam; PF01049; Cadherin_C; 1.
+DR   Pfam; PF08758; Cadherin_pro; 1.
+DR   PRINTS; PR00205; CADHERIN.
+DR   SMART; SM00112; CA; 5.
+DR   SMART; SM01055; Cadherin_pro; 1.
+DR   SUPFAM; SSF49313; SSF49313; 6.
+DR   PROSITE; PS00232; CADHERIN_1; 3.
+DR   PROSITE; PS50268; CADHERIN_2; 5.
+PE   1: Evidence at protein level;
+KW   3D-structure; Calcium; Cell adhesion; Cell membrane;
+KW   Cleavage on pair of basic residues; Complete proteome; Glycoprotein;
+KW   Membrane; Metal-binding; Reference proteome; Repeat; Signal;
+KW   Transmembrane; Transmembrane helix.
+FT   SIGNAL        1     25       {ECO:0000255}.
+FT   PROPEP       26    159       {ECO:0000255}.
+FT                                /FTId=PRO_0000003733.
+FT   CHAIN       160    906       Cadherin-2.
+FT                                /FTId=PRO_0000003734.
+FT   TOPO_DOM    160    724       Extracellular. {ECO:0000255}.
+FT   TRANSMEM    725    745       Helical. {ECO:0000255}.
+FT   TOPO_DOM    746    906       Cytoplasmic. {ECO:0000255}.
+FT   DOMAIN      160    267       Cadherin 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00043}.
+FT   DOMAIN      268    382       Cadherin 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00043}.
+FT   DOMAIN      383    497       Cadherin 3. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00043}.
+FT   DOMAIN      498    603       Cadherin 4. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00043}.
+FT   DOMAIN      604    717       Cadherin 5. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00043}.
+FT   COMPBIAS    863    878       Ser-rich.
+FT   METAL       262    262       Calcium 1.
+FT   METAL       262    262       Calcium 2.
+FT   METAL       293    293       Calcium 3.
+FT   CARBOHYD    190    190       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    273    273       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    325    325       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    402    402       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    572    572       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    651    651       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    692    692       N-linked (GlcNAc...). {ECO:0000255}.
+FT   MUTAGEN     262    262       D->A: Abolishes dimerization.
+FT                                {ECO:0000269|PubMed:21366346}.
+FT   MUTAGEN     293    293       D->A: Severely impaired the binding of
+FT                                calcium to all three sites.
+FT                                {ECO:0000269|PubMed:21366346}.
+FT   CONFLICT      7      9       APR -> GRG (in Ref. 1; AAA37353).
+FT                                {ECO:0000305}.
+FT   CONFLICT    565    567       NVK -> YVQ (in Ref. 1; AAA37353).
+FT                                {ECO:0000305}.
+FT   CONFLICT    624    624       T -> A (in Ref. 1; AAA37353).
+FT                                {ECO:0000305}.
+FT   STRAND       40     43       {ECO:0000244|PDB:1OP4}.
+FT   STRAND       55     57       {ECO:0000244|PDB:1OP4}.
+FT   STRAND       69     72       {ECO:0000244|PDB:1OP4}.
+FT   STRAND       76     82       {ECO:0000244|PDB:1OP4}.
+FT   TURN         83     85       {ECO:0000244|PDB:1OP4}.
+FT   STRAND       86     91       {ECO:0000244|PDB:1OP4}.
+FT   STRAND       96     98       {ECO:0000244|PDB:1OP4}.
+FT   STRAND      100    108       {ECO:0000244|PDB:1OP4}.
+FT   TURN        109    112       {ECO:0000244|PDB:1OP4}.
+FT   STRAND      113    121       {ECO:0000244|PDB:1OP4}.
+FT   STRAND      166    171       {ECO:0000244|PDB:1NCG}.
+FT   STRAND      176    182       {ECO:0000244|PDB:1NCG}.
+FT   HELIX       186    190       {ECO:0000244|PDB:1NCG}.
+FT   STRAND      194    199       {ECO:0000244|PDB:1NCG}.
+FT   TURN        200    202       {ECO:0000244|PDB:1NCG}.
+FT   STRAND      203    206       {ECO:0000244|PDB:1NCG}.
+FT   STRAND      209    212       {ECO:0000244|PDB:1NCG}.
+FT   TURN        214    216       {ECO:0000244|PDB:1NCG}.
+FT   STRAND      218    221       {ECO:0000244|PDB:1NCG}.
+FT   TURN        227    229       {ECO:0000244|PDB:1NCG}.
+FT   STRAND      232    240       {ECO:0000244|PDB:1NCG}.
+FT   TURN        242    244       {ECO:0000244|PDB:2QVI}.
+FT   STRAND      246    248       {ECO:0000244|PDB:1NCI}.
+FT   STRAND      251    258       {ECO:0000244|PDB:1NCG}.
+FT   STRAND      266    268       {ECO:0000244|PDB:4NUQ}.
+FT   STRAND      270    277       {ECO:0000244|PDB:4NUQ}.
+FT   STRAND      285    288       {ECO:0000244|PDB:4NUQ}.
+FT   HELIX       300    302       {ECO:0000244|PDB:4NUQ}.
+FT   STRAND      305    313       {ECO:0000244|PDB:4NUQ}.
+FT   STRAND      321    323       {ECO:0000244|PDB:4NUQ}.
+FT   TURN        325    327       {ECO:0000244|PDB:4NUQ}.
+FT   STRAND      329    332       {ECO:0000244|PDB:4NUQ}.
+FT   TURN        339    341       {ECO:0000244|PDB:4NUQ}.
+FT   STRAND      344    353       {ECO:0000244|PDB:4NUQ}.
+FT   HELIX       354    356       {ECO:0000244|PDB:4NUQ}.
+FT   TURN        358    360       {ECO:0000244|PDB:4NUQ}.
+FT   STRAND      363    373       {ECO:0000244|PDB:4NUQ}.
+FT   STRAND      381    394       {ECO:0000244|PDB:3Q2W}.
+FT   STRAND      396    406       {ECO:0000244|PDB:3Q2W}.
+FT   TURN        414    416       {ECO:0000244|PDB:3Q2W}.
+FT   STRAND      421    425       {ECO:0000244|PDB:3Q2W}.
+FT   STRAND      431    435       {ECO:0000244|PDB:3Q2W}.
+FT   TURN        437    439       {ECO:0000244|PDB:3Q2W}.
+FT   STRAND      441    446       {ECO:0000244|PDB:3Q2W}.
+FT   TURN        452    454       {ECO:0000244|PDB:3Q2W}.
+FT   STRAND      456    463       {ECO:0000244|PDB:3Q2W}.
+FT   STRAND      466    468       {ECO:0000244|PDB:3Q2W}.
+FT   HELIX       478    480       {ECO:0000244|PDB:3Q2W}.
+FT   STRAND      481    489       {ECO:0000244|PDB:3Q2W}.
+FT   STRAND      496    508       {ECO:0000244|PDB:3Q2W}.
+FT   STRAND      515    518       {ECO:0000244|PDB:3Q2W}.
+FT   STRAND      526    528       {ECO:0000244|PDB:3Q2W}.
+FT   STRAND      532    538       {ECO:0000244|PDB:3Q2W}.
+FT   STRAND      544    546       {ECO:0000244|PDB:3Q2W}.
+FT   TURN        548    550       {ECO:0000244|PDB:3Q2W}.
+FT   STRAND      552    557       {ECO:0000244|PDB:3Q2W}.
+FT   STRAND      561    563       {ECO:0000244|PDB:3Q2W}.
+FT   STRAND      568    579       {ECO:0000244|PDB:3Q2W}.
+FT   STRAND      581    583       {ECO:0000244|PDB:3Q2W}.
+FT   STRAND      586    596       {ECO:0000244|PDB:3Q2W}.
+FT   STRAND      604    606       {ECO:0000244|PDB:3Q2W}.
+FT   STRAND      621    623       {ECO:0000244|PDB:3Q2W}.
+FT   STRAND      633    636       {ECO:0000244|PDB:3Q2W}.
+FT   STRAND      638    640       {ECO:0000244|PDB:3Q2W}.
+FT   STRAND      643    645       {ECO:0000244|PDB:3Q2W}.
+FT   HELIX       646    651       {ECO:0000244|PDB:3Q2W}.
+FT   STRAND      652    656       {ECO:0000244|PDB:3Q2W}.
+FT   STRAND      658    660       {ECO:0000244|PDB:3Q2W}.
+FT   STRAND      662    666       {ECO:0000244|PDB:3Q2W}.
+FT   STRAND      674    683       {ECO:0000244|PDB:3Q2W}.
+FT   STRAND      685    688       {ECO:0000244|PDB:3Q2W}.
+FT   STRAND      691    700       {ECO:0000244|PDB:3Q2W}.
+SQ   SEQUENCE   906 AA;  99796 MW;  BDAB8063A23E1F13 CRC64;
+     MCRIAGAPRT LLPLLAALLQ ASVEASGEIA LCKTGFPEDV YSAVLPKDVH EGQPLLNVKF
+     SNCNRKRKVQ YESSEPADFK VDEDGTVYAV RSFPLTAEQA KFLIYAQDKE TQEKWQVAVN
+     LSREPTLTEE PMKEPHEIEE IVFPRQLAKH SGALQRQKRD WVIPPINLPE NSRGPFPQEL
+     VRIRSDRDKN LSLRYSVTGP GADQPPTGIF IINPISGQLS VTKPLDRELI ARFHLRAHAV
+     DINGNQVENP IDIVINVIDM NDNRPEFLHQ VWNGSVPEGS KPGTYVMTVT AIDADDPNAL
+     NGMLRYRILS QAPSTPSPNM FTINNETGDI ITVAAGLDRE KVQQYTLIIQ ATDMEGNPTY
+     GLSNTATAVI TVTDVNDNPP EFTAMTFYGE VPENRVDVIV ANLTVTDKDQ PHTPAWNAAY
+     RISGGDPTGR FAILTDPNSN DGLVTVVKPI DFETNRMFVL TVAAENQVPL AKGIQHPPQS
+     TATVSVTVID VNENPYFAPN PKIIRQEEGL HAGTMLTTLT AQDPDRYMQQ NIRYTKLSDP
+     ANWLKIDPVN GQITTIAVLD RESPNVKNNI YNATFLASDN GIPPMSGTGT LQIYLLDIND
+     NAPQVLPQEA ETCETPEPNS INITALDYDI DPNAGPFAFD LPLSPVTIKR NWTINRLNGD
+     FAQLNLKIKF LEAGIYEVPI IITDSGNPPK SNISILRVKV CQCDSNGDCT DVDRIVGAGL
+     GTGAIIAILL CIIILLILVL MFVVWMKRRD KERQAKQLLI DPEDDVRDNI LKYDEEGGGE
+     EDQDYDLSQL QQPDTVEPDA IKPVGIRRLD ERPIHAEPQY PVRSAAPHPG DIGDFINEGL
+     KAADNDPTAP PYDSLLVFDY EGSGSTAGSL SSLNSSSSGG DQDYDYLNDW GPRFKKLADM
+     YGGGDD
+//

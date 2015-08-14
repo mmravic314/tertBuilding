@@ -1,0 +1,105 @@
+ID   A6THC4_KLEP7            Unreviewed;       647 AA.
+AC   A6THC4;
+DT   21-AUG-2007, integrated into UniProtKB/TrEMBL.
+DT   21-AUG-2007, sequence version 1.
+DT   22-JUL-2015, entry version 58.
+DE   SubName: Full=2',3'-cyclic nucleotide 2'-phosphodiesterase/3'-nucleotidase bifunctional periplasmic protein {ECO:0000313|EMBL:ABR79958.1};
+GN   Name=cpdB {ECO:0000313|EMBL:ABR79958.1};
+GN   ORFNames=KPN_04607 {ECO:0000313|EMBL:ABR79958.1};
+OS   Klebsiella pneumoniae subsp. pneumoniae (strain ATCC 700721 / MGH
+OS   78578).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Klebsiella.
+OX   NCBI_TaxID=272620 {ECO:0000313|EMBL:ABR79958.1, ECO:0000313|Proteomes:UP000000265};
+RN   [1] {ECO:0000313|EMBL:ABR79958.1, ECO:0000313|Proteomes:UP000000265}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 700721 / MGH 78578 {ECO:0000313|Proteomes:UP000000265};
+RG   The Klebsiella pneumonia Genome Sequencing Project;
+RA   McClelland M., Sanderson E.K., Spieth J., Clifton W.S., Latreille P.,
+RA   Sabo A., Pepin K., Bhonagiri V., Porwollik S., Ali J., Wilson R.K.;
+RL   Submitted (SEP-2006) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:3JYF}
+RP   X-RAY CRYSTALLOGRAPHY (2.43 ANGSTROMS) OF 16-354 IN COMPLEX WITH
+RP   MANGANESE.
+RA   Fan Y., Volkart L., Cobb G., Joachimiak A.;
+RT   "The crystal structure of a 2,3-cyclic nucleotide 2-
+RT   phosphodiesterase/3-nucleotidase bifunctional periplasmic precursor
+RT   protein from Klebsiella pneumoniae subsp. pneumoniae MGH 78578.";
+RL   Submitted (SEP-2009) to the PDB data bank.
+CC   -!- SIMILARITY: Belongs to the 5'-nucleotidase family.
+CC       {ECO:0000256|RuleBase:RU003467}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP000647; ABR79958.1; -; Genomic_DNA.
+DR   RefSeq; WP_015959297.1; NC_009648.1.
+DR   PDB; 3JYF; X-ray; 2.43 A; A/B=16-354.
+DR   PDBsum; 3JYF; -.
+DR   ProteinModelPortal; A6THC4; -.
+DR   STRING; 272620.KPN_04607; -.
+DR   DNASU; 5339014; -.
+DR   EnsemblBacteria; ABR79958; ABR79958; KPN_04607.
+DR   KEGG; kpn:KPN_04607; -.
+DR   PATRIC; 20463684; VBIKlePne13394_4652.
+DR   eggNOG; COG0737; -.
+DR   HOGENOM; HOG000248800; -.
+DR   KO; K01119; -.
+DR   OMA; MVWDKAN; -.
+DR   OrthoDB; EOG696BW0; -.
+DR   BioCyc; KPNE272620:GKDC-4644-MONOMER; -.
+DR   EvolutionaryTrace; A6THC4; -.
+DR   Proteomes; UP000000265; Chromosome.
+DR   GO; GO:0008663; F:2',3'-cyclic-nucleotide 2'-phosphodiesterase activity; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000166; F:nucleotide binding; IEA:UniProtKB-KW.
+DR   GO; GO:0009166; P:nucleotide catabolic process; IEA:InterPro.
+DR   Gene3D; 3.60.21.10; -; 1.
+DR   Gene3D; 3.90.780.10; -; 1.
+DR   InterPro; IPR008334; 5'-Nucleotdase_C.
+DR   InterPro; IPR006146; 5'-Nucleotdase_CS.
+DR   InterPro; IPR006179; 5_nucleotidase/apyrase.
+DR   InterPro; IPR004843; Calcineurin-like_PHP_apaH.
+DR   InterPro; IPR006294; Cyc_nuc_PDE_nucleotidase.
+DR   InterPro; IPR029052; Metallo-depent_PP-like.
+DR   PANTHER; PTHR11575; PTHR11575; 1.
+DR   Pfam; PF02872; 5_nucleotid_C; 1.
+DR   Pfam; PF00149; Metallophos; 1.
+DR   PRINTS; PR01607; APYRASEFAMLY.
+DR   SUPFAM; SSF55816; SSF55816; 1.
+DR   SUPFAM; SSF56300; SSF56300; 1.
+DR   TIGRFAMs; TIGR01390; CycNucDiestase; 1.
+DR   PROSITE; PS00785; 5_NUCLEOTIDASE_1; 1.
+DR   PROSITE; PS00786; 5_NUCLEOTIDASE_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3JYF};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000265};
+KW   Manganese {ECO:0000213|PDB:3JYF};
+KW   Metal-binding {ECO:0000213|PDB:3JYF, ECO:0000256|RuleBase:RU004470};
+KW   Nucleotide-binding {ECO:0000256|RuleBase:RU004470};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000265}.
+FT   METAL        31     31       Manganese 1. {ECO:0000213|PDB:3JYF}.
+FT   METAL        33     33       Manganese 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3JYF}.
+FT   METAL        76     76       Manganese 1. {ECO:0000213|PDB:3JYF}.
+FT   METAL        76     76       Manganese 2. {ECO:0000213|PDB:3JYF}.
+FT   METAL       116    116       Manganese 2. {ECO:0000213|PDB:3JYF}.
+FT   METAL       225    225       Manganese 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3JYF}.
+FT   METAL       257    257       Manganese 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3JYF}.
+FT   METAL       259    259       Manganese 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3JYF}.
+SQ   SEQUENCE   647 AA;  70640 MW;  C7142EC284633F74 CRC64;
+     MIKFSATLLA TLIAASVNAA TVDLRIMETT DLHSNMMDFD YYKDAATEKF GLVRTASLIE
+     QARAEVKNSV LVDNGDVIQG SPLGDYMAAK GLKEGDVHPV YKAMNTLNYA VGNLGNHEFN
+     YGLDFLHKAL AGAKFPYVNA NIIDAKTGKP MFTPYLIQDT RVVDSDGQIH TLRIGYIGFV
+     PPQIMTWDKA NLNGKVTVND ITETARKYIP EMRAKGADVV VVVAHSGLSA DPYQAMAENS
+     VYYLSQVPGV DAIMFGHAHA VFPGKDFANI KGADIAKGTL NGVPAVMPGM WGDHLGVVDL
+     VLNNDSGKWQ VTQSKAEARP IYDAVAKKSL AAEDGKLVSV LKADHDATRE FVSKPIGKSA
+     DNMYSYLALV QDDPTVQVVN MAQKAYVEHY IQGDPDLAKL PVLSAAAPFK VGGRKNDPAS
+     FVEVEKGQLT FRNAADLYLY PNTLVVMKVS GKEVKEWLEC SAGQFNQIDP ASSKPQSLIN
+     WDGFRTYNFD VIDGVNYQID VTQPARYDGE CQMIHPQAER IKHLTFNGKP VDPQATFLVA
+     TNNYRAYGGK FAGTGESHIA FASPDENRSV LAAWIGAQSK KEGAIHPAAD NNWRLAPIHS
+     NTPLDIRFET SPGDKAAAFI KEKAQYPMRQ VATDDIGFAI YQLDLSK
+//

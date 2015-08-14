@@ -1,0 +1,146 @@
+ID   NIGY_DESVH              Reviewed;         202 AA.
+AC   P30820;
+DT   01-JUL-1993, integrated into UniProtKB/Swiss-Prot.
+DT   24-MAY-2004, sequence version 3.
+DT   27-MAY-2015, entry version 106.
+DE   RecName: Full=Nigerythrin;
+GN   Name=ngr; OrderedLocusNames=DVU_0019;
+OS   Desulfovibrio vulgaris (strain Hildenborough / ATCC 29579 / NCIMB
+OS   8303).
+OC   Bacteria; Proteobacteria; Deltaproteobacteria; Desulfovibrionales;
+OC   Desulfovibrionaceae; Desulfovibrio.
+OX   NCBI_TaxID=882;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=9226272;
+RA   Lumppio H.L., Shenvi N.V., Garg R.P., Summers A.O., Kurtz D.M. Jr.;
+RT   "A rubrerythrin operon and nigerythrin gene in Desulfovibrio vulgaris
+RT   (Hildenborough).";
+RL   J. Bacteriol. 179:4607-4615(1997).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Hildenborough / ATCC 29579 / NCIMB 8303;
+RX   PubMed=15077118; DOI=10.1038/nbt959;
+RA   Heidelberg J.F., Seshadri R., Haveman S.A., Hemme C.L., Paulsen I.T.,
+RA   Kolonay J.F., Eisen J.A., Ward N.L., Methe B.A., Brinkac L.M.,
+RA   Daugherty S.C., DeBoy R.T., Dodson R.J., Durkin A.S., Madupu R.,
+RA   Nelson W.C., Sullivan S.A., Fouts D.E., Haft D.H., Selengut J.,
+RA   Peterson J.D., Davidsen T.M., Zafar N., Zhou L., Radune D.,
+RA   Dimitrov G., Hance M., Tran K., Khouri H.M., Gill J., Utterback T.R.,
+RA   Feldblyum T.V., Wall J.D., Voordouw G., Fraser C.M.;
+RT   "The genome sequence of the anaerobic, sulfate-reducing bacterium
+RT   Desulfovibrio vulgaris Hildenborough.";
+RL   Nat. Biotechnol. 22:554-559(2004).
+RN   [3]
+RP   PROTEIN SEQUENCE OF 1-15.
+RX   PubMed=8383040; DOI=10.1111/j.1432-1033.1993.tb17655.x;
+RA   Pierik A.J., Wolbert R.B.G., Portier G.L., Verhagen M.F.J.M.,
+RA   Hagen W.R.;
+RT   "Nigerythrin and rubrerythrin from Desulfovibrio vulgaris each contain
+RT   two mononuclear iron centers and two dinuclear iron clusters.";
+RL   Eur. J. Biochem. 212:237-245(1993).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (1.4 ANGSTROMS), AND IRON-BINDING SITES.
+RX   PubMed=15895271; DOI=10.1007/s00775-005-0650-8;
+RA   Iyer R.B., Silaghi-Dumitrescu R., Kurtz D.M. Jr., Lanzilotta W.N.;
+RT   "High-resolution crystal structures of Desulfovibrio vulgaris
+RT   (Hildenborough) nigerythrin: facile, redox-dependent iron movement,
+RT   domain interface variability, and peroxidase activity in the
+RT   rubrerythrins.";
+RL   J. Biol. Inorg. Chem. 10:407-416(2005).
+CC   -!- FUNCTION: Exhibits NADH peroxidase activity (in vitro).
+CC   -!- SUBUNIT: Homodimer. May possess two rubredoxin-like centers and
+CC       two hemerythrin-like binuclear-iron centers per dimer.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 ferritin-like diiron domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00085}.
+CC   -!- SIMILARITY: Contains 1 rubredoxin-like domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00241}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U71215; AAC45480.1; -; Genomic_DNA.
+DR   EMBL; AE017285; AAS94503.1; -; Genomic_DNA.
+DR   RefSeq; WP_010937330.1; NC_002937.3.
+DR   RefSeq; YP_009244.1; NC_002937.3.
+DR   PDB; 1YUX; X-ray; 1.60 A; A/B=1-202.
+DR   PDB; 1YUZ; X-ray; 1.40 A; A/B=1-202.
+DR   PDB; 1YV1; X-ray; 1.50 A; A/B=1-202.
+DR   PDBsum; 1YUX; -.
+DR   PDBsum; 1YUZ; -.
+DR   PDBsum; 1YV1; -.
+DR   ProteinModelPortal; P30820; -.
+DR   SMR; P30820; 1-202.
+DR   STRING; 882.DVU0019; -.
+DR   EnsemblBacteria; AAS94503; AAS94503; DVU_0019.
+DR   GeneID; 2794280; -.
+DR   KEGG; dvu:DVU0019; -.
+DR   PATRIC; 32060008; VBIDesVul119526_0016.
+DR   eggNOG; COG1592; -.
+DR   OMA; QANRKYK; -.
+DR   OrthoDB; EOG69SKK0; -.
+DR   PhylomeDB; P30820; -.
+DR   BioCyc; DVUL882:GJIL-20-MONOMER; -.
+DR   EvolutionaryTrace; P30820; -.
+DR   Proteomes; UP000002194; Chromosome.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005506; F:iron ion binding; IEA:InterPro.
+DR   GO; GO:0016491; F:oxidoreductase activity; IEA:InterPro.
+DR   Gene3D; 1.20.1260.10; -; 1.
+DR   Gene3D; 2.20.28.10; -; 1.
+DR   InterPro; IPR009040; Ferritin-like_diiron.
+DR   InterPro; IPR009078; Ferritin-like_SF.
+DR   InterPro; IPR012347; Ferritin-rel.
+DR   InterPro; IPR024934; Rubredoxin-like_dom.
+DR   InterPro; IPR004039; Rubredoxin-type_fold.
+DR   InterPro; IPR003251; Rubrerythrin.
+DR   Pfam; PF02915; Rubrerythrin; 1.
+DR   SUPFAM; SSF47240; SSF47240; 1.
+DR   PROSITE; PS50905; FERRITIN_LIKE; 1.
+DR   PROSITE; PS50903; RUBREDOXIN_LIKE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Cytoplasm; Direct protein sequencing;
+KW   Electron transport; Iron; Metal-binding; Reference proteome;
+KW   Transport.
+FT   CHAIN         1    202       Nigerythrin.
+FT                                /FTId=PRO_0000135072.
+FT   DOMAIN       23    168       Ferritin-like diiron.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00085}.
+FT   DOMAIN      169    202       Rubredoxin-like. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00241}.
+FT   METAL        40     40       Iron 1.
+FT   METAL        73     73       Iron 1.
+FT   METAL        73     73       Iron 2.
+FT   METAL       115    115       Iron 2.
+FT   METAL       118    118       Iron 1.
+FT   METAL       149    149       Iron 1.
+FT   METAL       149    149       Iron 2.
+FT   METAL       152    152       Iron 2.
+FT   METAL       174    174       Iron 3.
+FT   METAL       177    177       Iron 3.
+FT   METAL       189    189       Iron 3.
+FT   METAL       192    192       Iron 3.
+FT   CONFLICT    129    129       K -> E (in Ref. 1; AAC45480).
+FT                                {ECO:0000305}.
+FT   CONFLICT    132    132       E -> G (in Ref. 1; AAC45480).
+FT                                {ECO:0000305}.
+FT   TURN         10     12       {ECO:0000244|PDB:1YUZ}.
+FT   HELIX        29     56       {ECO:0000244|PDB:1YUZ}.
+FT   HELIX        60     87       {ECO:0000244|PDB:1YUZ}.
+FT   HELIX       104    120       {ECO:0000244|PDB:1YUZ}.
+FT   HELIX       122    133       {ECO:0000244|PDB:1YUZ}.
+FT   HELIX       136    161       {ECO:0000244|PDB:1YUZ}.
+FT   TURN        162    164       {ECO:0000244|PDB:1YUZ}.
+FT   STRAND      171    173       {ECO:0000244|PDB:1YUZ}.
+FT   STRAND      175    177       {ECO:0000244|PDB:1YUZ}.
+FT   STRAND      180    184       {ECO:0000244|PDB:1YUZ}.
+FT   TURN        190    192       {ECO:0000244|PDB:1YUZ}.
+FT   HELIX       196    198       {ECO:0000244|PDB:1YUZ}.
+FT   STRAND      200    202       {ECO:0000244|PDB:1YUZ}.
+SQ   SEQUENCE   202 AA;  22098 MW;  DF5410519EE8D899 CRC64;
+     MKVRAQVPTV KNATNFNMVA DSKTAVGSTL ENLKAAIAGE TGAHAKYTAF AKAAREQGYE
+     QIARLFEATA AAELIHIGLE YALVAEMEPG YEKPTVAAPS AYSCDLNLIS GANGEIYETS
+     DMYPAFIRKA QEEGNSKAVH VFTRAKLAES VHAERYLAAY NDIDAPDDDK FHLCPICGYI
+     HKGEDFEKCP ICFRPKDTFT AY
+//

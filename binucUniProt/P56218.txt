@@ -1,0 +1,238 @@
+ID   MAP2_PYRFU              Reviewed;         295 AA.
+AC   P56218;
+DT   15-JUL-1998, integrated into UniProtKB/Swiss-Prot.
+DT   15-JUL-1998, sequence version 1.
+DT   22-JUL-2015, entry version 123.
+DE   RecName: Full=Methionine aminopeptidase {ECO:0000255|HAMAP-Rule:MF_01975};
+DE            Short=MAP {ECO:0000255|HAMAP-Rule:MF_01975};
+DE            Short=MetAP {ECO:0000255|HAMAP-Rule:MF_01975};
+DE            EC=3.4.11.18 {ECO:0000255|HAMAP-Rule:MF_01975};
+DE   AltName: Full=Peptidase M {ECO:0000255|HAMAP-Rule:MF_01975};
+GN   Name=map {ECO:0000255|HAMAP-Rule:MF_01975}; OrderedLocusNames=PF0541;
+OS   Pyrococcus furiosus (strain ATCC 43587 / DSM 3638 / JCM 8422 / Vc1).
+OC   Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae;
+OC   Pyrococcus.
+OX   NCBI_TaxID=186497;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 43587 / DSM 3638 / JCM 8422 / Vc1;
+RX   PubMed=10430560;
+RA   Maeder D.L., Weiss R.B., Dunn D.M., Cherry J.L., Gonzalez J.M.,
+RA   DiRuggiero J., Robb F.T.;
+RT   "Divergence of the hyperthermophilic archaea Pyrococcus furiosus and
+RT   P. horikoshii inferred from complete genomic sequences.";
+RL   Genetics 152:1299-1305(1999).
+RN   [2]
+RP   PROTEIN SEQUENCE OF 1-35, FUNCTION, CATALYTIC ACTIVITY,
+RP   BIOPHYSICOCHEMICAL PROPERTIES, AND MASS SPECTROMETRY.
+RC   STRAIN=ATCC 43587 / DSM 3638 / JCM 8422 / Vc1;
+RX   PubMed=9399590; DOI=10.1093/oxfordjournals.jbchem.a021831;
+RA   Tsunasawa S., Izu Y., Miyagi M., Kato I.;
+RT   "Methionine aminopeptidase from the hyperthermophilic Archaeon
+RT   Pyrococcus furiosus: molecular cloning and overexpression in
+RT   Escherichia coli of the gene, and characteristics of the enzyme.";
+RL   J. Biochem. 122:843-850(1997).
+RN   [3]
+RP   COFACTOR, AND BIOPHYSICOCHEMICAL PROPERTIES.
+RX   PubMed=12044150; DOI=10.1021/bi020138p;
+RA   Meng L., Ruebush S., D'souza V.M., Copik A.J., Tsunasawa S.,
+RA   Holz R.C.;
+RT   "Overexpression and divalent metal binding properties of the methionyl
+RT   aminopeptidase from Pyrococcus furiosus.";
+RL   Biochemistry 41:7199-7208(2002).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (1.75 ANGSTROMS) IN COMPLEX WITH COBALT, AND
+RP   MUTAGENESIS OF HIS-161 AND HIS-173.
+RX   PubMed=9811545; DOI=10.1006/jmbi.1998.2146;
+RA   Tahirov T.H., Oki H., Tsukihara T., Ogasahara K., Yutani K., Ogata K.,
+RA   Izu Y., Tsunasawa S., Kato I.;
+RT   "Crystal structure of methionine aminopeptidase from hyperthermophile,
+RT   Pyrococcus furiosus.";
+RL   J. Mol. Biol. 284:101-124(1998).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) IN COMPLEX WITH MANGANESE AND
+RP   METHIONINE.
+RX   PubMed=15628852; DOI=10.1021/bi048123+;
+RA   Copik A.J., Nocek B.P., Swierczek S.I., Ruebush S., Jang S.B.,
+RA   Meng L., D'souza V.M., Peters J.W., Bennett B., Holz R.C.;
+RT   "EPR and X-ray crystallographic characterization of the product-bound
+RT   form of the MnII-loaded methionyl aminopeptidase from Pyrococcus
+RT   furiosus.";
+RL   Biochemistry 44:121-129(2005).
+CC   -!- FUNCTION: Removes the N-terminal methionine from nascent proteins.
+CC       The N-terminal methionine is often cleaved when the second residue
+CC       in the primary sequence is small and uncharged (Met-Ala-, Cys,
+CC       Gly, Pro, Ser, Thr, or Val). {ECO:0000255|HAMAP-Rule:MF_01975,
+CC       ECO:0000269|PubMed:9399590}.
+CC   -!- CATALYTIC ACTIVITY: Release of N-terminal amino acids,
+CC       preferentially methionine, from peptides and arylamides.
+CC       {ECO:0000255|HAMAP-Rule:MF_01975, ECO:0000269|PubMed:9399590}.
+CC   -!- COFACTOR:
+CC       Name=Co(2+); Xref=ChEBI:CHEBI:48828;
+CC         Evidence={ECO:0000255|HAMAP-Rule:MF_01975,
+CC         ECO:0000269|PubMed:12044150};
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC         Evidence={ECO:0000255|HAMAP-Rule:MF_01975,
+CC         ECO:0000269|PubMed:12044150};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000255|HAMAP-Rule:MF_01975,
+CC         ECO:0000269|PubMed:12044150};
+CC       Name=Fe(2+); Xref=ChEBI:CHEBI:29033;
+CC         Evidence={ECO:0000255|HAMAP-Rule:MF_01975,
+CC         ECO:0000269|PubMed:12044150};
+CC       Note=Binds 2 divalent metal cations per subunit. Has a high-
+CC       affinity and a low affinity metal-binding site. The true nature of
+CC       the physiological cofactor is under debate. The enzyme is active
+CC       with cobalt, zinc, manganese or divalent iron ions. Most likely,
+CC       methionine aminopeptidases function as mononuclear Fe(2+)-
+CC       metalloproteases under physiological conditions, and the
+CC       catalytically relevant metal-binding site has been assigned to the
+CC       histidine-containing high-affinity site. {ECO:0000255|HAMAP-
+CC       Rule:MF_01975, ECO:0000269|PubMed:12044150};
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=9.2 mM for a Met-Ala-Ser peptide (for the Fe(2+)-complexed
+CC         enzyme) {ECO:0000269|PubMed:12044150,
+CC         ECO:0000269|PubMed:9399590};
+CC         KM=11.8 mM for a Met-Ala-Ser peptide (for the Co(2+)-complexed
+CC         enzyme) {ECO:0000269|PubMed:12044150,
+CC         ECO:0000269|PubMed:9399590};
+CC         KM=5.0 mM for a Met-Gly-Met-Met peptide (for the Fe(2+)-
+CC         complexed enzyme) {ECO:0000269|PubMed:12044150,
+CC         ECO:0000269|PubMed:9399590};
+CC         KM=5.1 mM for a Met-Gly-Met-Met peptide (for the Co(2+)-
+CC         complexed enzyme) {ECO:0000269|PubMed:12044150,
+CC         ECO:0000269|PubMed:9399590};
+CC         KM=1.3 mM for a Met-Ser-Ser-His-Arg-Trp-Asp-Trp peptide (for the
+CC         Fe(2+)-complexed enzyme) {ECO:0000269|PubMed:12044150,
+CC         ECO:0000269|PubMed:9399590};
+CC         KM=2.0 mM for a Met-Ser-Ser-His-Arg-Trp-Asp-Trp peptide (for the
+CC         Co(2+)-complexed enzyme) {ECO:0000269|PubMed:12044150,
+CC         ECO:0000269|PubMed:9399590};
+CC       pH dependence:
+CC         Optimum pH is 7-8. {ECO:0000269|PubMed:12044150,
+CC         ECO:0000269|PubMed:9399590};
+CC       Temperature dependence:
+CC         Optimum temperature is about 90 degrees Celsius.
+CC         {ECO:0000269|PubMed:12044150, ECO:0000269|PubMed:9399590};
+CC   -!- SUBUNIT: Monomer. {ECO:0000255|HAMAP-Rule:MF_01975,
+CC       ECO:0000269|PubMed:15628852, ECO:0000269|PubMed:9811545}.
+CC   -!- MASS SPECTROMETRY: Mass=32848; Method=Electrospray; Range=1-295;
+CC       Evidence={ECO:0000269|PubMed:9399590};
+CC   -!- SIMILARITY: Belongs to the peptidase M24A family. Methionine
+CC       aminopeptidase archaeal type 2 subfamily. {ECO:0000255|HAMAP-
+CC       Rule:MF_01975}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE009950; AAL80665.1; -; Genomic_DNA.
+DR   PIR; JC5671; JC5671.
+DR   RefSeq; NP_578270.1; NC_003413.1.
+DR   RefSeq; WP_011011659.1; NC_003413.1.
+DR   PDB; 1WKM; X-ray; 2.30 A; A/B=1-295.
+DR   PDB; 1XGM; X-ray; 2.80 A; A/B=1-295.
+DR   PDB; 1XGN; X-ray; 2.90 A; A/B=1-295.
+DR   PDB; 1XGO; X-ray; 3.50 A; A=1-295.
+DR   PDB; 1XGS; X-ray; 1.75 A; A/B=1-295.
+DR   PDB; 2DFI; X-ray; 2.10 A; A/B=1-292.
+DR   PDBsum; 1WKM; -.
+DR   PDBsum; 1XGM; -.
+DR   PDBsum; 1XGN; -.
+DR   PDBsum; 1XGO; -.
+DR   PDBsum; 1XGS; -.
+DR   PDBsum; 2DFI; -.
+DR   ProteinModelPortal; P56218; -.
+DR   SMR; P56218; 1-295.
+DR   STRING; 186497.PF0541; -.
+DR   ChEMBL; CHEMBL4857; -.
+DR   MEROPS; M24.035; -.
+DR   PRIDE; P56218; -.
+DR   EnsemblBacteria; AAL80665; AAL80665; PF0541.
+DR   GeneID; 1468383; -.
+DR   KEGG; pfu:PF0541; -.
+DR   eggNOG; COG0024; -.
+DR   HOGENOM; HOG000226277; -.
+DR   KO; K01265; -.
+DR   OMA; IRASCIY; -.
+DR   BRENDA; 3.4.11.18; 5243.
+DR   EvolutionaryTrace; P56218; -.
+DR   PRO; PR:P56218; -.
+DR   Proteomes; UP000001013; Chromosome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0070006; F:metalloaminopeptidase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0070084; P:protein initiator methionine removal; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 1.10.10.10; -; 1.
+DR   Gene3D; 3.90.230.10; -; 2.
+DR   HAMAP; MF_01975; MetAP_2_arc; 1.
+DR   InterPro; IPR028595; MetAP_archaeal.
+DR   InterPro; IPR001714; Pept_M24_MAP.
+DR   InterPro; IPR000994; Pept_M24_structural-domain.
+DR   InterPro; IPR002468; Pept_M24A_MAP2.
+DR   InterPro; IPR018349; Pept_M24A_MAP2_BS.
+DR   InterPro; IPR011991; WHTH_DNA-bd_dom.
+DR   PANTHER; PTHR10804:SF9; PTHR10804:SF9; 1.
+DR   Pfam; PF00557; Peptidase_M24; 1.
+DR   PRINTS; PR00599; MAPEPTIDASE.
+DR   SUPFAM; SSF55920; SSF55920; 2.
+DR   TIGRFAMs; TIGR00501; met_pdase_II; 1.
+DR   PROSITE; PS01202; MAP_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Aminopeptidase; Complete proteome;
+KW   Direct protein sequencing; Hydrolase; Metal-binding; Protease;
+KW   Reference proteome.
+FT   CHAIN         1    295       Methionine aminopeptidase.
+FT                                /FTId=PRO_0000148978.
+FT   METAL        82     82       Divalent metal cation 1.
+FT   METAL        93     93       Divalent metal cation 1.
+FT   METAL        93     93       Divalent metal cation 2; catalytic.
+FT   METAL       153    153       Divalent metal cation 2; catalytic; via
+FT                                tele nitrogen.
+FT   METAL       187    187       Divalent metal cation 2; catalytic.
+FT   METAL       280    280       Divalent metal cation 1.
+FT   METAL       280    280       Divalent metal cation 2; catalytic.
+FT   BINDING      62     62       Substrate. {ECO:0000255|HAMAP-
+FT                                Rule:MF_01975}.
+FT   BINDING     161    161       Substrate.
+FT   MUTAGEN     161    161       H->A: Reduces enzymatic activity by 96%
+FT                                at 37 degrees Celsius and by 88% at 87
+FT                                degrees Celsius; when associated with A-
+FT                                173. {ECO:0000269|PubMed:9811545}.
+FT   MUTAGEN     173    173       H->A: Reduces enzymatic activity by 96%
+FT                                at 37 degrees Celsius and by 88% at 87
+FT                                degrees Celsius; when associated with A-
+FT                                161. {ECO:0000269|PubMed:9811545}.
+FT   HELIX         3     23       {ECO:0000244|PDB:1XGS}.
+FT   HELIX        30     43       {ECO:0000244|PDB:1XGS}.
+FT   STRAND       47     50       {ECO:0000244|PDB:1XGS}.
+FT   STRAND       53     56       {ECO:0000244|PDB:1XGS}.
+FT   STRAND       59     61       {ECO:0000244|PDB:1XGS}.
+FT   STRAND       78     87       {ECO:0000244|PDB:1XGS}.
+FT   STRAND       90     99       {ECO:0000244|PDB:1XGS}.
+FT   HELIX       106    121       {ECO:0000244|PDB:1XGS}.
+FT   HELIX       129    140       {ECO:0000244|PDB:1XGS}.
+FT   TURN        141    143       {ECO:0000244|PDB:1XGS}.
+FT   STRAND      148    150       {ECO:0000244|PDB:1XGM}.
+FT   STRAND      152    154       {ECO:0000244|PDB:1XGS}.
+FT   STRAND      159    161       {ECO:0000244|PDB:1XGS}.
+FT   STRAND      165    169       {ECO:0000244|PDB:1XGN}.
+FT   STRAND      183    186       {ECO:0000244|PDB:1XGS}.
+FT   STRAND      189    193       {ECO:0000244|PDB:1XGS}.
+FT   STRAND      197    208       {ECO:0000244|PDB:1XGS}.
+FT   HELIX       217    229       {ECO:0000244|PDB:1XGS}.
+FT   TURN        230    232       {ECO:0000244|PDB:1XGS}.
+FT   STRAND      235    237       {ECO:0000244|PDB:1XGS}.
+FT   HELIX       238    240       {ECO:0000244|PDB:1XGS}.
+FT   TURN        241    243       {ECO:0000244|PDB:1XGS}.
+FT   HELIX       246    258       {ECO:0000244|PDB:1XGS}.
+FT   STRAND      261    270       {ECO:0000244|PDB:1XGS}.
+FT   STRAND      276    278       {ECO:0000244|PDB:1XGS}.
+FT   STRAND      280    285       {ECO:0000244|PDB:1XGS}.
+FT   STRAND      287    292       {ECO:0000244|PDB:1XGS}.
+SQ   SEQUENCE   295 AA;  32842 MW;  9739BC55F812E65B CRC64;
+     MDTEKLMKAG EIAKKVREKA IKLARPGMLL LELAESIEKM IMELGGKPAF PVNLSINEIA
+     AHYTPYKGDT TVLKEGDYLK IDVGVHIDGF IADTAVTVRV GMEEDELMEA AKEALNAAIS
+     VARAGVEIKE LGKAIENEIR KRGFKPIVNL SGHKIERYKL HAGISIPNIY RPHDNYVLKE
+     GDVFAIEPFA TIGAGQVIEV PPTLIYMYVR DVPVRVAQAR FLLAKIKREY GTLPFAYRWL
+     QNDMPEGQLK LALKTLEKAG AIYGYPVLKE IRNGIVAQFE HTIIVEKDSV IVTTE
+//

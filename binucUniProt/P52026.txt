@@ -1,0 +1,349 @@
+ID   DPO1_GEOSE              Reviewed;         876 AA.
+AC   P52026;
+DT   01-OCT-1996, integrated into UniProtKB/Swiss-Prot.
+DT   15-JUL-1998, sequence version 2.
+DT   07-JAN-2015, entry version 107.
+DE   RecName: Full=DNA polymerase I;
+DE            Short=POL I;
+DE            EC=2.7.7.7;
+GN   Name=polA; Synonyms=pol;
+OS   Geobacillus stearothermophilus (Bacillus stearothermophilus).
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Geobacillus.
+OX   NCBI_TaxID=1422;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=7557480; DOI=10.1016/0378-1119(95)00387-L;
+RA   Phang S.M., Teo C.Y., Lo E., Wong V.W.;
+RT   "Cloning and complete sequence of the DNA polymerase-encoding gene
+RT   (BstpolI) and characterisation of the Klenow-like fragment from
+RT   Bacillus stearothermophilus.";
+RL   Gene 163:65-68(1995).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], PROTEIN SEQUENCE OF 1-5 AND
+RP   289-293, CHARACTERIZATION, AND MUTAGENESIS TO REMOVE 5'-3' EXONUCLEASE
+RP   ACTIVITY.
+RC   STRAIN=ATCC 12980 / DSM 22 / JCM 2501 / NBRC 12550 / NCIMB 8923 / NCTC
+RC   10339 / VKM B-510;
+RX   PubMed=8679703; DOI=10.1016/0167-4781(96)00051-6;
+RA   Riggs M.G., Tudor S., Sivaram M., McDonough S.H.;
+RT   "Construction of single amino acid substitution mutants of cloned
+RT   Bacillus stearothermophilus DNA polymerase I which lack 5'-3'
+RT   exonuclease activity.";
+RL   Biochim. Biophys. Acta 1307:178-186(1996).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS) OF 297-876.
+RC   STRAIN=X;
+RX   PubMed=9016716; DOI=10.1016/S0969-2126(97)00169-X;
+RA   Kiefer J.R., Mao C., Hansen C.J., Basehore S.L., Hogrefe H.H.,
+RA   Braman J.C., Beese L.S.;
+RT   "Crystal structure of a thermostable Bacillus DNA polymerase I large
+RT   fragment at 2.1-A resolution.";
+RL   Structure 5:95-108(1997).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS) OF 297-876.
+RC   STRAIN=X;
+RX   PubMed=9440698; DOI=10.1038/34693;
+RA   Kiefer J.R., Mao C., Braman J.C., Beese L.S.;
+RT   "Visualizing DNA replication in a catalytically active Bacillus DNA
+RT   polymerase crystal.";
+RL   Nature 391:304-307(1998).
+CC   -!- FUNCTION: In addition to polymerase activity, this DNA polymerase
+CC       exhibits 5' to 3' exonuclease activity.
+CC   -!- CATALYTIC ACTIVITY: Deoxynucleoside triphosphate + DNA(n) =
+CC       diphosphate + DNA(n+1).
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Temperature dependence:
+CC         Optimum temperature is 65 degrees Celsius.;
+CC   -!- SUBUNIT: Single-chain monomer with multiple functions.
+CC   -!- MISCELLANEOUS: The enzyme from this organism does not have any 3'-
+CC       5' exonuclease activity. The subtilisin large fragment (residues
+CC       289-876) has wild-type polymerase activity but no 5'-3'
+CC       exonuclease activity.
+CC   -!- SIMILARITY: Belongs to the DNA polymerase type-A family.
+CC       {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 3'-5' exonuclease domain. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 5'-3' exonuclease domain. {ECO:0000305}.
+CC   -!- CAUTION: PubMed:9016716 and PubMed:9440698 strain is not known and
+CC       has been termed 'X' in this entry. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAA85558.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U23149; AAA85558.1; ALT_INIT; Genomic_DNA.
+DR   EMBL; L42111; AAC37139.1; -; Genomic_DNA.
+DR   PIR; JC4286; JC4286.
+DR   PIR; S70368; S70368.
+DR   PDB; 1L3S; X-ray; 1.70 A; A=301-876.
+DR   PDB; 1L3T; X-ray; 1.70 A; A=301-876.
+DR   PDB; 1L3U; X-ray; 1.80 A; A=301-876.
+DR   PDB; 1L3V; X-ray; 1.71 A; A=301-876.
+DR   PDB; 1L5U; X-ray; 1.95 A; A=301-876.
+DR   PDB; 1LV5; X-ray; 1.95 A; A/B=301-876.
+DR   PDB; 1NJX; X-ray; 1.65 A; A=301-876.
+DR   PDB; 1NJY; X-ray; 2.00 A; A=301-876.
+DR   PDB; 1NJZ; X-ray; 2.00 A; A=301-876.
+DR   PDB; 1NK0; X-ray; 1.70 A; A=301-876.
+DR   PDB; 1NK4; X-ray; 1.60 A; A=301-876.
+DR   PDB; 1NK5; X-ray; 2.10 A; A=301-876.
+DR   PDB; 1NK6; X-ray; 2.10 A; A=301-876.
+DR   PDB; 1NK7; X-ray; 1.90 A; A=301-876.
+DR   PDB; 1NK8; X-ray; 1.90 A; A=301-876.
+DR   PDB; 1NK9; X-ray; 1.90 A; A=301-876.
+DR   PDB; 1NKB; X-ray; 2.00 A; A=301-876.
+DR   PDB; 1NKC; X-ray; 1.80 A; A=301-876.
+DR   PDB; 1NKE; X-ray; 1.80 A; A=301-876.
+DR   PDB; 1U45; X-ray; 2.01 A; A=301-876.
+DR   PDB; 1U47; X-ray; 2.00 A; A=301-876.
+DR   PDB; 1U48; X-ray; 2.10 A; A=301-876.
+DR   PDB; 1U49; X-ray; 2.15 A; A=301-876.
+DR   PDB; 1U4B; X-ray; 1.60 A; A=301-876.
+DR   PDB; 1UA1; X-ray; 2.00 A; A=301-876.
+DR   PDB; 1XC9; X-ray; 1.90 A; A=301-876.
+DR   PDB; 1XWL; X-ray; 1.70 A; A=297-876.
+DR   PDB; 2BDP; X-ray; 1.80 A; A=297-876.
+DR   PDB; 3BDP; X-ray; 1.90 A; A=297-876.
+DR   PDB; 3EYZ; X-ray; 2.10 A; A=304-876.
+DR   PDB; 3EZ5; X-ray; 1.90 A; A/D=304-876.
+DR   PDB; 4BDP; X-ray; 1.80 A; A=297-876.
+DR   PDBsum; 1L3S; -.
+DR   PDBsum; 1L3T; -.
+DR   PDBsum; 1L3U; -.
+DR   PDBsum; 1L3V; -.
+DR   PDBsum; 1L5U; -.
+DR   PDBsum; 1LV5; -.
+DR   PDBsum; 1NJX; -.
+DR   PDBsum; 1NJY; -.
+DR   PDBsum; 1NJZ; -.
+DR   PDBsum; 1NK0; -.
+DR   PDBsum; 1NK4; -.
+DR   PDBsum; 1NK5; -.
+DR   PDBsum; 1NK6; -.
+DR   PDBsum; 1NK7; -.
+DR   PDBsum; 1NK8; -.
+DR   PDBsum; 1NK9; -.
+DR   PDBsum; 1NKB; -.
+DR   PDBsum; 1NKC; -.
+DR   PDBsum; 1NKE; -.
+DR   PDBsum; 1U45; -.
+DR   PDBsum; 1U47; -.
+DR   PDBsum; 1U48; -.
+DR   PDBsum; 1U49; -.
+DR   PDBsum; 1U4B; -.
+DR   PDBsum; 1UA1; -.
+DR   PDBsum; 1XC9; -.
+DR   PDBsum; 1XWL; -.
+DR   PDBsum; 2BDP; -.
+DR   PDBsum; 3BDP; -.
+DR   PDBsum; 3EYZ; -.
+DR   PDBsum; 3EZ5; -.
+DR   PDBsum; 4BDP; -.
+DR   ProteinModelPortal; P52026; -.
+DR   SMR; P52026; 299-876.
+DR   EvolutionaryTrace; P52026; -.
+DR   GO; GO:0008408; F:3'-5' exonuclease activity; IEA:InterPro.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003887; F:DNA-directed DNA polymerase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0006281; P:DNA repair; IEA:UniProtKB-KW.
+DR   GO; GO:0006261; P:DNA-dependent DNA replication; IEA:InterPro.
+DR   Gene3D; 3.30.420.10; -; 1.
+DR   Gene3D; 3.40.50.1010; -; 1.
+DR   InterPro; IPR002562; 3'-5'_exonuclease_dom.
+DR   InterPro; IPR020046; 5-3_exonucl_a-hlix_arch_N.
+DR   InterPro; IPR020045; 5-3_exonuclease_C.
+DR   InterPro; IPR002421; 5-3_exonuclease_N.
+DR   InterPro; IPR019760; DNA-dir_DNA_pol_A_CS.
+DR   InterPro; IPR001098; DNA-dir_DNA_pol_A_palm_dom.
+DR   InterPro; IPR018320; DNA_polymerase_1.
+DR   InterPro; IPR002298; DNA_polymerase_A.
+DR   InterPro; IPR008918; HhH2.
+DR   InterPro; IPR003583; Hlx-hairpin-Hlx_DNA-bd_motif.
+DR   InterPro; IPR029060; PIN_domain-like.
+DR   InterPro; IPR012337; RNaseH-like_dom.
+DR   Pfam; PF01367; 5_3_exonuc; 1.
+DR   Pfam; PF02739; 5_3_exonuc_N; 1.
+DR   Pfam; PF00476; DNA_pol_A; 1.
+DR   PRINTS; PR00868; DNAPOLI.
+DR   SMART; SM00474; 35EXOc; 1.
+DR   SMART; SM00475; 53EXOc; 1.
+DR   SMART; SM00278; HhH1; 1.
+DR   SMART; SM00279; HhH2; 1.
+DR   SMART; SM00482; POLAc; 1.
+DR   SUPFAM; SSF47807; SSF47807; 1.
+DR   SUPFAM; SSF53098; SSF53098; 1.
+DR   SUPFAM; SSF88723; SSF88723; 1.
+DR   TIGRFAMs; TIGR00593; pola; 1.
+DR   PROSITE; PS00447; DNA_POLYMERASE_A; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Direct protein sequencing; DNA damage; DNA repair;
+KW   DNA replication; DNA-binding; DNA-directed DNA polymerase;
+KW   Exonuclease; Hydrolase; Nuclease; Nucleotidyltransferase; Transferase.
+FT   CHAIN         1    876       DNA polymerase I.
+FT                                /FTId=PRO_0000101234.
+FT   DOMAIN        1    310       5'-3' exonuclease.
+FT   REGION      289    876       Subtilisin large fragment.
+FT   REGION      469    876       Polymerase.
+FT   VARIANT     298    298       G -> K (in strain: X).
+FT   VARIANT     300    300       D -> A (in strain: X).
+FT   VARIANT     302    303       AI -> TL (in strain: X).
+FT   VARIANT     306    306       S -> R (in strain: X).
+FT   VARIANT     309    309       D -> E (in strain: X).
+FT   VARIANT     320    320       V -> L (in strain: X).
+FT   VARIANT     324    325       GD -> EE (in strain: X).
+FT   VARIANT     329    329       H -> D (in strain: X).
+FT   VARIANT     337    338       LA -> VV (in strain: X).
+FT   VARIANT     341    341       R -> H (in strain: X).
+FT   VARIANT     356    356       K -> Q (in strain: X).
+FT   VARIANT     358    358       L -> V (in strain: X).
+FT   VARIANT     369    369       T -> S (in strain: X).
+FT   VARIANT     388    388       R -> C (in strain: X).
+FT   VARIANT     391    391       V -> S (in strain: X).
+FT   VARIANT     406    408       AAG -> GVD (in strain: X).
+FT   VARIANT     411    411       A -> R (in strain: X).
+FT   VARIANT     413    413       V -> A (in strain: X).
+FT   VARIANT     417    417       H -> K (in strain: X).
+FT   VARIANT     424    424       S -> P (in strain: X).
+FT   VARIANT     436    436       T -> A (in strain: X).
+FT   VARIANT     442    442       T -> V (in strain: X).
+FT   VARIANT     456    456       A -> E (in strain: X).
+FT   VARIANT     459    459       E -> R (in strain: X).
+FT   VARIANT     461    462       LM -> FL (in strain: X).
+FT   VARIANT     475    475       T -> V (in strain: X).
+FT   VARIANT     482    483       AG -> SS (in strain: X).
+FT   VARIANT     487    487       N -> E (in strain: X).
+FT   VARIANT     491    491       T -> A (in strain: X).
+FT   VARIANT     505    505       A -> K (in strain: X).
+FT   VARIANT     508    508       T -> R (in strain: X).
+FT   VARIANT     510    510       Q -> K (in strain: X).
+FT   VARIANT     512    513       QA -> GT (in strain: X).
+FT   VARIANT     516    516       R -> Q (in strain: X).
+FT   VARIANT     536    537       TV -> VI (in strain: X).
+FT   VARIANT     540    540       D -> E (in strain: X).
+FT   VARIANT     567    567       H -> Y (in strain: X).
+FT   VARIANT     573    573       H -> N (in strain: X).
+FT   VARIANT     596    596       H -> R (in strain: X).
+FT   VARIANT     598    598       V -> D (in strain: X).
+FT   VARIANT     600    600       G -> K (in strain: X).
+FT   VARIANT     605    605       M -> I (in strain: X).
+FT   VARIANT     619    619       V -> T (in strain: X).
+FT   VARIANT     645    645       P -> S (in strain: X).
+FT   VARIANT     672    672       I -> M (in strain: X).
+FT   VARIANT     678    678       G -> D (in strain: X).
+FT   VARIANT     691    691       H -> Q (in strain: X).
+FT   VARIANT     695    696       ED -> DE (in strain: X).
+FT   VARIANT     699    699       A -> P (in strain: X).
+FT   VARIANT     728    728       T -> S (in strain: X).
+FT   VARIANT     741    741       A -> E (in strain: X).
+FT   VARIANT     748    748       Q -> R (in strain: X).
+FT   VARIANT     751    751       D -> E (in strain: X).
+FT   VARIANT     790    790       T -> M (in strain: X).
+FT   VARIANT     812    813       SV -> NA (in strain: X).
+FT   VARIANT     816    816       R -> K (in strain: X).
+FT   VARIANT     841    841       I -> M (in strain: X).
+FT   VARIANT     870    870       P -> S (in strain: X).
+FT   MUTAGEN      73     73       Y->A,P: Complete loss of 5'-3'
+FT                                exonuclease activity.
+FT                                {ECO:0000269|PubMed:8679703}.
+FT   CONFLICT     91     91       L -> V (in Ref. 2; AAA85558).
+FT                                {ECO:0000305}.
+FT   CONFLICT    198    198       E -> K (in Ref. 2; AAA85558).
+FT                                {ECO:0000305}.
+FT   CONFLICT    352    352       L -> V (in Ref. 2; AAA85558).
+FT                                {ECO:0000305}.
+FT   CONFLICT    381    382       KW -> NG (in Ref. 2; AAA85558).
+FT                                {ECO:0000305}.
+FT   CONFLICT    388    388       R -> AGV (in Ref. 2; AAA85558).
+FT                                {ECO:0000305}.
+FT   CONFLICT    446    446       H -> Q (in Ref. 2; AAA85558).
+FT                                {ECO:0000305}.
+FT   CONFLICT    448    448       V -> A (in Ref. 1; AAC37139).
+FT                                {ECO:0000305}.
+FT   CONFLICT    479    480       QP -> HA (in Ref. 2; AAA85558).
+FT                                {ECO:0000305}.
+FT   CONFLICT    678    678       G -> W (in Ref. 2; AAA85558).
+FT                                {ECO:0000305}.
+FT   CONFLICT    785    785       S -> T (in Ref. 2; AAA85558).
+FT                                {ECO:0000305}.
+FT   CONFLICT    814    815       RL -> SV (in Ref. 2; AAA85558).
+FT                                {ECO:0000305}.
+FT   CONFLICT    828    828       V -> G (in Ref. 2; AAA85558).
+FT                                {ECO:0000305}.
+FT   CONFLICT    842    842       E -> G (in Ref. 2; AAA85558).
+FT                                {ECO:0000305}.
+FT   CONFLICT    857    857       T -> A (in Ref. 1; AAC37139).
+FT                                {ECO:0000305}.
+FT   STRAND      302    306       {ECO:0000244|PDB:1U4B}.
+FT   HELIX       309    312       {ECO:0000244|PDB:1NK4}.
+FT   STRAND      314    321       {ECO:0000244|PDB:1NK4}.
+FT   STRAND      324    326       {ECO:0000244|PDB:1NK4}.
+FT   STRAND      334    339       {ECO:0000244|PDB:1NK4}.
+FT   STRAND      342    346       {ECO:0000244|PDB:1NK4}.
+FT   HELIX       348    351       {ECO:0000244|PDB:1NK4}.
+FT   HELIX       355    362       {ECO:0000244|PDB:1NK4}.
+FT   STRAND      366    372       {ECO:0000244|PDB:1NK4}.
+FT   HELIX       373    381       {ECO:0000244|PDB:1NK4}.
+FT   TURN        382    384       {ECO:0000244|PDB:1NK4}.
+FT   STRAND      390    393       {ECO:0000244|PDB:1NK4}.
+FT   HELIX       394    401       {ECO:0000244|PDB:1NK4}.
+FT   HELIX       403    405       {ECO:0000244|PDB:1NK4}.
+FT   HELIX       410    415       {ECO:0000244|PDB:1NK4}.
+FT   TURN        416    418       {ECO:0000244|PDB:1NK4}.
+FT   HELIX       425    429       {ECO:0000244|PDB:1NK4}.
+FT   HELIX       432    434       {ECO:0000244|PDB:1NK4}.
+FT   HELIX       440    467       {ECO:0000244|PDB:1NK4}.
+FT   HELIX       471    476       {ECO:0000244|PDB:1NK4}.
+FT   HELIX       478    491       {ECO:0000244|PDB:1NK4}.
+FT   STRAND      493    495       {ECO:0000244|PDB:1NK4}.
+FT   HELIX       497    522       {ECO:0000244|PDB:1NK4}.
+FT   HELIX       531    539       {ECO:0000244|PDB:1NK4}.
+FT   STRAND      548    550       {ECO:0000244|PDB:2BDP}.
+FT   STRAND      551    554       {ECO:0000244|PDB:1NK4}.
+FT   HELIX       558    564       {ECO:0000244|PDB:1NK4}.
+FT   HELIX       565    567       {ECO:0000244|PDB:1NK4}.
+FT   HELIX       570    587       {ECO:0000244|PDB:1NK4}.
+FT   HELIX       589    594       {ECO:0000244|PDB:1NK4}.
+FT   TURN        597    599       {ECO:0000244|PDB:1NK4}.
+FT   STRAND      605    609       {ECO:0000244|PDB:1NK4}.
+FT   STRAND      612    614       {ECO:0000244|PDB:1NK4}.
+FT   STRAND      617    621       {ECO:0000244|PDB:1NK4}.
+FT   HELIX       623    625       {ECO:0000244|PDB:1XWL}.
+FT   STRAND      628    630       {ECO:0000244|PDB:1XWL}.
+FT   HELIX       631    634       {ECO:0000244|PDB:1NK4}.
+FT   HELIX       635    639       {ECO:0000244|PDB:1NK4}.
+FT   STRAND      647    656       {ECO:0000244|PDB:1NK4}.
+FT   HELIX       657    666       {ECO:0000244|PDB:1NK4}.
+FT   HELIX       669    676       {ECO:0000244|PDB:1NK4}.
+FT   HELIX       681    689       {ECO:0000244|PDB:1NK4}.
+FT   HELIX       694    696       {ECO:0000244|PDB:1NK4}.
+FT   HELIX       699    714       {ECO:0000244|PDB:1NK4}.
+FT   HELIX       718    725       {ECO:0000244|PDB:1NK4}.
+FT   HELIX       729    742       {ECO:0000244|PDB:1NK4}.
+FT   HELIX       744    760       {ECO:0000244|PDB:1NK4}.
+FT   STRAND      761    764       {ECO:0000244|PDB:1NK4}.
+FT   STRAND      770    772       {ECO:0000244|PDB:1NK4}.
+FT   HELIX       774    777       {ECO:0000244|PDB:1NK4}.
+FT   HELIX       781    817       {ECO:0000244|PDB:1NK4}.
+FT   STRAND      823    827       {ECO:0000244|PDB:1NK4}.
+FT   STRAND      829    837       {ECO:0000244|PDB:1NK4}.
+FT   HELIX       838    840       {ECO:0000244|PDB:1NK4}.
+FT   HELIX       841    853       {ECO:0000244|PDB:1NK4}.
+FT   STRAND      864    871       {ECO:0000244|PDB:1NK4}.
+FT   TURN        872    874       {ECO:0000244|PDB:1NK4}.
+SQ   SEQUENCE   876 AA;  98670 MW;  689167A801D543E4 CRC64;
+     MKNKLVLIDG NSVAYRAFFA LPLLHNDKGI HTNAVYGFTM MLNKILAEEQ PTHILVAFDA
+     GKTTFRHETF QDYKGGRQQT PPELSEQFPL LRELLKAYRI PAYELDHYEA DDIIGTMAAR
+     AEREGFAVKV ISGDRDLTQL ASPQVTVEIT KKGITDIESY TPETVVEKYG LTPEQIVDLK
+     GLMGDKSDNI PGVPGIGEKT AVKLLKQFGT VENVLASIDE IKGEKLKENL RQYRDLALLS
+     KQLAAICRDA PVELTLDDIV YKGEDREKVV ALFQELGFQS FLDKMAVQTD EGEKPLAGMD
+     FAIADSVTDE MLADKAALVV EVVGDNYHHA PIVGIALANE RGRFFLRPET ALADPKFLAW
+     LGDETKKKTM FDSKRAAVAL KWKGIELRGV VFDLLLAAYL LDPAQAAGDV AAVAKMHQYE
+     AVRSDEAVYG KGAKRTVPDE PTLAEHLVRK AAAIWALEEP LMDELRRNEQ DRLLTELEQP
+     LAGILANMEF TGVKVDTKRL EQMGAELTEQ LQAVERRIYE LAGQEFNINS PKQLGTVLFD
+     KLQLPVLKKT KTGYSTSADV LEKLAPHHEI VEHILHYRQL GKLQSTYIEG LLKVVHPVTG
+     KVHTMFNQAL TQTGRLSSVE PNLQNIPIRL EEGRKIRQAF VPSEPDWLIF AADYSQIELR
+     VLAHIAEDDN LIEAFRRGLD IHTKTAMDIF HVSEEDVTAN MRRQAKAVNF GIVYGISDYG
+     LAQNLNITRK EAAEFIERYF ASFPGVKQYM DNIVQEAKQK GYVTTLLHRR RYLPDITSRN
+     FNVRSFAERT AMNTPIQGSA ADIIKKAMID LSVRLREERL QARLLLQVHD ELILEAPKEE
+     IERLCRLVPE VMEQAVTLRV PLKVDYHYGP TWYDAK
+//

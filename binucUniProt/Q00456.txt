@@ -1,0 +1,222 @@
+ID   TMOA_PSEME              Reviewed;         500 AA.
+AC   Q00456;
+DT   01-NOV-1995, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 2.
+DT   26-NOV-2014, entry version 65.
+DE   RecName: Full=Toluene-4-monooxygenase system protein A;
+DE            EC=1.14.13.-;
+DE   AltName: Full=Toluene-4-monooxygenase hydroxylase subunit;
+DE            Short=T4moH;
+GN   Name=tmoA;
+OS   Pseudomonas mendocina.
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+OC   Pseudomonadaceae; Pseudomonas.
+OX   NCBI_TaxID=300;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND PROTEIN SEQUENCE OF 2-14.
+RC   STRAIN=KR1;
+RX   PubMed=1885512;
+RA   Yen K.-M., Karl M.R., Blatt L.M., Simon M.J., Winter R.B.,
+RA   Fausset P.R., Lu H.S., Harcourt A.A., Chen K.K.;
+RT   "Cloning and characterization of a Pseudomonas mendocina KR1 gene
+RT   cluster encoding toluene-4-monooxygenase.";
+RL   J. Bacteriol. 173:5315-5327(1991).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (1.68 ANGSTROMS) IN COMPLEX WITH IRON, COFACTOR,
+RP   AND SUBUNIT.
+RX   PubMed=19033467; DOI=10.1073/pnas.0807948105;
+RA   Bailey L.J., McCoy J.G., Phillips G.N. Jr., Fox B.G.;
+RT   "Structural consequences of effector protein complex formation in a
+RT   diiron hydroxylase.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:19194-19198(2008).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (1.52 ANGSTROMS) IN COMPLEX WITH IRON, FUNCTION,
+RP   COFACTOR, CATALYTIC ACTIVITY, MUTAGENESIS OF THR-201, AND SUBUNIT.
+RX   PubMed=19290655; DOI=10.1021/bi900144a;
+RA   Elsen N.L., Bailey L.J., Hauser A.D., Fox B.G.;
+RT   "Role for threonine 201 in the catalytic cycle of the soluble diiron
+RT   hydroxylase toluene 4-monooxygenase.";
+RL   Biochemistry 48:3838-3846(2009).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS) IN COMPLEX WITH IRON, FUNCTION,
+RP   CATALYTIC ACTIVITY, COFACTOR, MUTAGENESIS OF GLY-103, AND SUBUNIT.
+RX   PubMed=19705873; DOI=10.1021/bi901150a;
+RA   Bailey L.J., Fox B.G.;
+RT   "Crystallographic and catalytic studies of the peroxide-shunt reaction
+RT   in a diiron hydroxylase.";
+RL   Biochemistry 48:8932-8939(2009).
+CC   -!- FUNCTION: Hydroxylase subunit of the multicomponent enzyme
+CC       toluene-4-monooxygenase that hydroxylates toluene to form p-
+CC       cresol. {ECO:0000269|PubMed:19290655,
+CC       ECO:0000269|PubMed:19705873}.
+CC   -!- COFACTOR:
+CC       Name=Fe(2+); Xref=ChEBI:CHEBI:29033;
+CC         Evidence={ECO:0000269|PubMed:19033467,
+CC         ECO:0000269|PubMed:19290655, ECO:0000269|PubMed:19705873};
+CC       Note=Binds 2 Fe(2+) ions per subunit.
+CC       {ECO:0000269|PubMed:19033467, ECO:0000269|PubMed:19290655,
+CC       ECO:0000269|PubMed:19705873};
+CC   -!- PATHWAY: Xenobiotic degradation; toluene degradation.
+CC   -!- SUBUNIT: The multicomponent enzyme toluene-4-monooxygenase (T4MO)
+CC       is formed by the TmoA, TmoB, TmoC, TmoD, TmoE and TmoF
+CC       polypeptides. The heterohexamer formed by two molecules each of
+CC       TmoA, TmoB and TmoE interacts with the effector protein TmoD, the
+CC       Rieske iron-sulfur protein TmoC and the NADH-containing
+CC       oxidoreductase TmoF. {ECO:0000269|PubMed:19033467,
+CC       ECO:0000269|PubMed:19290655, ECO:0000269|PubMed:19705873}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M65106; AAA25999.1; -; Genomic_DNA.
+DR   PDB; 3DHG; X-ray; 1.85 A; A/D=1-500.
+DR   PDB; 3DHH; X-ray; 1.94 A; A=1-500.
+DR   PDB; 3DHI; X-ray; 1.68 A; A=1-500.
+DR   PDB; 3GE3; X-ray; 1.52 A; A=1-500.
+DR   PDB; 3GE8; X-ray; 2.19 A; A/D=1-500.
+DR   PDB; 3I5J; X-ray; 1.90 A; A=1-500.
+DR   PDB; 3I63; X-ray; 2.09 A; A=1-500.
+DR   PDB; 3Q14; X-ray; 1.75 A; A=1-500.
+DR   PDB; 3Q2A; X-ray; 1.99 A; A=1-500.
+DR   PDB; 3Q3M; X-ray; 1.75 A; A/D=1-500.
+DR   PDB; 3Q3N; X-ray; 1.84 A; A=1-500.
+DR   PDB; 3Q3O; X-ray; 1.95 A; A=1-500.
+DR   PDB; 3RI7; X-ray; 2.10 A; A=2-493.
+DR   PDB; 3RMK; X-ray; 1.95 A; A/D=2-493.
+DR   PDB; 4P1B; X-ray; 2.05 A; A/D=2-491.
+DR   PDB; 4P1C; X-ray; 2.40 A; A/D=2-491.
+DR   PDBsum; 3DHG; -.
+DR   PDBsum; 3DHH; -.
+DR   PDBsum; 3DHI; -.
+DR   PDBsum; 3GE3; -.
+DR   PDBsum; 3GE8; -.
+DR   PDBsum; 3I5J; -.
+DR   PDBsum; 3I63; -.
+DR   PDBsum; 3Q14; -.
+DR   PDBsum; 3Q2A; -.
+DR   PDBsum; 3Q3M; -.
+DR   PDBsum; 3Q3N; -.
+DR   PDBsum; 3Q3O; -.
+DR   PDBsum; 3RI7; -.
+DR   PDBsum; 3RMK; -.
+DR   PDBsum; 4P1B; -.
+DR   PDBsum; 4P1C; -.
+DR   ProteinModelPortal; Q00456; -.
+DR   SMR; Q00456; 2-488.
+DR   DIP; DIP-48644N; -.
+DR   UniPathway; UPA00273; -.
+DR   EvolutionaryTrace; Q00456; -.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004497; F:monooxygenase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0042203; P:toluene catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 1.10.620.20; -; 1.
+DR   InterPro; IPR009078; Ferritin-like_SF.
+DR   InterPro; IPR003430; Phenol_Hydrox.
+DR   InterPro; IPR012348; RNR-rel.
+DR   InterPro; IPR007029; YHS_dom.
+DR   Pfam; PF02332; Phenol_Hydrox; 1.
+DR   Pfam; PF04945; YHS; 1.
+DR   SUPFAM; SSF47240; SSF47240; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Aromatic hydrocarbons catabolism;
+KW   Direct protein sequencing; Iron; Metal-binding; Monooxygenase;
+KW   Oxidoreductase.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:1885512}.
+FT   CHAIN         2    500       Toluene-4-monooxygenase system protein A.
+FT                                /FTId=PRO_0000072599.
+FT   METAL       104    104       Iron 1; catalytic.
+FT                                {ECO:0000269|PubMed:19033467,
+FT                                ECO:0000269|PubMed:19290655,
+FT                                ECO:0000269|PubMed:19705873}.
+FT   METAL       134    134       Iron 1; catalytic.
+FT                                {ECO:0000269|PubMed:19033467,
+FT                                ECO:0000269|PubMed:19290655,
+FT                                ECO:0000269|PubMed:19705873}.
+FT   METAL       134    134       Iron 2; catalytic.
+FT                                {ECO:0000269|PubMed:19033467,
+FT                                ECO:0000269|PubMed:19290655,
+FT                                ECO:0000269|PubMed:19705873}.
+FT   METAL       137    137       Iron 1; via pros nitrogen; catalytic.
+FT                                {ECO:0000269|PubMed:19033467,
+FT                                ECO:0000269|PubMed:19290655,
+FT                                ECO:0000269|PubMed:19705873}.
+FT   METAL       197    197       Iron 2; catalytic.
+FT                                {ECO:0000269|PubMed:19033467,
+FT                                ECO:0000269|PubMed:19290655,
+FT                                ECO:0000269|PubMed:19705873}.
+FT   METAL       231    231       Iron 1; catalytic.
+FT                                {ECO:0000269|PubMed:19033467,
+FT                                ECO:0000269|PubMed:19290655,
+FT                                ECO:0000269|PubMed:19705873}.
+FT   METAL       231    231       Iron 2; catalytic.
+FT                                {ECO:0000269|PubMed:19033467,
+FT                                ECO:0000269|PubMed:19290655,
+FT                                ECO:0000269|PubMed:19705873}.
+FT   METAL       234    234       Iron 2; via tele nitrogen; catalytic.
+FT                                {ECO:0000269|PubMed:19033467,
+FT                                ECO:0000269|PubMed:19290655,
+FT                                ECO:0000269|PubMed:19705873}.
+FT   MUTAGEN     103    103       G->L: Increases production of m-cresol,
+FT                                instread of p-cresol.
+FT                                {ECO:0000269|PubMed:19705873}.
+FT   MUTAGEN     201    201       T->A: Stongly increases consumption of
+FT                                dioxygen in the absence of bound
+FT                                substrate. {ECO:0000269|PubMed:19290655}.
+FT   HELIX         6     13       {ECO:0000244|PDB:3GE3}.
+FT   STRAND       21     23       {ECO:0000244|PDB:3GE3}.
+FT   HELIX        25     28       {ECO:0000244|PDB:3GE3}.
+FT   HELIX        31     34       {ECO:0000244|PDB:3GE3}.
+FT   HELIX        41     44       {ECO:0000244|PDB:3GE3}.
+FT   HELIX        55     76       {ECO:0000244|PDB:3GE3}.
+FT   HELIX        77     79       {ECO:0000244|PDB:3DHG}.
+FT   HELIX        81     84       {ECO:0000244|PDB:3GE3}.
+FT   HELIX        87    117       {ECO:0000244|PDB:3GE3}.
+FT   HELIX       121    146       {ECO:0000244|PDB:3GE3}.
+FT   TURN        147    151       {ECO:0000244|PDB:3GE3}.
+FT   HELIX       153    156       {ECO:0000244|PDB:3GE3}.
+FT   HELIX       157    160       {ECO:0000244|PDB:3GE3}.
+FT   HELIX       161    163       {ECO:0000244|PDB:3GE3}.
+FT   HELIX       167    179       {ECO:0000244|PDB:3GE3}.
+FT   HELIX       185    191       {ECO:0000244|PDB:3GE3}.
+FT   HELIX       193    199       {ECO:0000244|PDB:3GE3}.
+FT   HELIX       201    205       {ECO:0000244|PDB:3GE3}.
+FT   HELIX       207    214       {ECO:0000244|PDB:3GE3}.
+FT   HELIX       218    234       {ECO:0000244|PDB:3GE3}.
+FT   HELIX       235    237       {ECO:0000244|PDB:3GE3}.
+FT   HELIX       238    247       {ECO:0000244|PDB:3GE3}.
+FT   HELIX       251    278       {ECO:0000244|PDB:3GE3}.
+FT   HELIX       283    285       {ECO:0000244|PDB:3GE3}.
+FT   HELIX       290    297       {ECO:0000244|PDB:3GE3}.
+FT   TURN        298    301       {ECO:0000244|PDB:3GE3}.
+FT   HELIX       302    308       {ECO:0000244|PDB:3GE3}.
+FT   HELIX       317    337       {ECO:0000244|PDB:3GE3}.
+FT   HELIX       339    341       {ECO:0000244|PDB:3GE3}.
+FT   STRAND      342    344       {ECO:0000244|PDB:3GE3}.
+FT   HELIX       352    361       {ECO:0000244|PDB:3GE3}.
+FT   HELIX       365    367       {ECO:0000244|PDB:3GE3}.
+FT   HELIX       369    381       {ECO:0000244|PDB:3GE3}.
+FT   HELIX       385    388       {ECO:0000244|PDB:3GE3}.
+FT   TURN        398    400       {ECO:0000244|PDB:3GE3}.
+FT   STRAND      405    407       {ECO:0000244|PDB:3DHI}.
+FT   HELIX       409    411       {ECO:0000244|PDB:3GE3}.
+FT   STRAND      417    421       {ECO:0000244|PDB:3GE3}.
+FT   STRAND      424    430       {ECO:0000244|PDB:3GE3}.
+FT   HELIX       431    439       {ECO:0000244|PDB:3GE3}.
+FT   HELIX       441    444       {ECO:0000244|PDB:3GE3}.
+FT   HELIX       450    455       {ECO:0000244|PDB:3GE3}.
+FT   STRAND      459    463       {ECO:0000244|PDB:3GE3}.
+FT   HELIX       464    470       {ECO:0000244|PDB:3GE3}.
+FT   HELIX       476    478       {ECO:0000244|PDB:3GE3}.
+FT   TURN        483    486       {ECO:0000244|PDB:3GE3}.
+FT   HELIX       487    491       {ECO:0000244|PDB:3GE3}.
+SQ   SEQUENCE   500 AA;  57982 MW;  D6BD8D541614726D CRC64;
+     MAMHPRKDWY ELTRATNWTP SYVTEEQLFP ERMSGHMGIP LEKWESYDEP YKTSYPEYVS
+     IQREKDAGAY SVKAALERAK IYENSDPGWI STLKSHYGAI AVGEYAAVTG EGRMARFSKA
+     PGNRNMATFG MMDELRHGQL QLFFPHEYCK KDRQFDWAWR AYHSNEWAAI AAKHFFDDII
+     TGRDAISVAI MLTFSFETGF TNMQFLGLAA DAAEAGDYTF ANLISSIQTD ESRHAQQGGP
+     ALQLLIENGK REEAQKKVDM AIWRAWRLFA VLTGPVMDYY TPLEDRSQSF KEFMYEWIIG
+     QFERSLIDLG LDKPWYWDLF LKDIDELHHS YHMGVLDWRT TAWWNPAAGV TPEERDWLEE
+     KYPGWNKRWG RCWDVITENV LNDRMDLVSP ETLPSVCNMS QIPLVGVPGD DWNIEVFSLE
+     HNGRLYHFGS EVDRWVFQQD PVQYQNHMNI VDRFLAGQIQ PMTLEGALKY MGFQSIEEMG
+     KDAHDFAWAD KCKPAMKKSA
+//

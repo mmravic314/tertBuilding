@@ -1,0 +1,195 @@
+ID   PDE1_YEAST              Reviewed;         369 AA.
+AC   P22434; D6VV87;
+DT   01-AUG-1991, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-1996, sequence version 2.
+DT   22-JUL-2015, entry version 119.
+DE   RecName: Full=3',5'-cyclic-nucleotide phosphodiesterase 1;
+DE            Short=PDEase 1;
+DE            EC=3.1.4.17;
+DE   AltName: Full=3':5'-CNP;
+DE   AltName: Full=Low-affinity cAMP phosphodiesterase;
+GN   Name=PDE1; OrderedLocusNames=YGL248W; ORFNames=NRB369;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=559292;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=2824992;
+RA   Nikawa J., Sass P., Wigler M.;
+RT   "Cloning and characterization of the low-affinity cyclic AMP
+RT   phosphodiesterase gene of Saccharomyces cerevisiae.";
+RL   Mol. Cell. Biol. 7:3629-3636(1987).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 96604 / S288c / FY1679;
+RX   PubMed=8972578;
+RX   DOI=10.1002/(SICI)1097-0061(199612)12:15<1555::AID-YEA43>3.0.CO;2-Q;
+RA   Coissac E., Maillier E., Robineau S., Netter P.;
+RT   "Sequence of a 39,411 bp DNA fragment covering the left end of
+RT   chromosome VII of Saccharomyces cerevisiae.";
+RL   Yeast 12:1555-1562(1996).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=9169869;
+RA   Tettelin H., Agostoni-Carbone M.L., Albermann K., Albers M.,
+RA   Arroyo J., Backes U., Barreiros T., Bertani I., Bjourson A.J.,
+RA   Brueckner M., Bruschi C.V., Carignani G., Castagnoli L., Cerdan E.,
+RA   Clemente M.L., Coblenz A., Coglievina M., Coissac E., Defoor E.,
+RA   Del Bino S., Delius H., Delneri D., de Wergifosse P., Dujon B.,
+RA   Durand P., Entian K.-D., Eraso P., Escribano V., Fabiani L.,
+RA   Fartmann B., Feroli F., Feuermann M., Frontali L., Garcia-Gonzalez M.,
+RA   Garcia-Saez M.I., Goffeau A., Guerreiro P., Hani J., Hansen M.,
+RA   Hebling U., Hernandez K., Heumann K., Hilger F., Hofmann B.,
+RA   Indge K.J., James C.M., Klima R., Koetter P., Kramer B., Kramer W.,
+RA   Lauquin G., Leuther H., Louis E.J., Maillier E., Marconi A.,
+RA   Martegani E., Mazon M.J., Mazzoni C., McReynolds A.D.K.,
+RA   Melchioretto P., Mewes H.-W., Minenkova O., Mueller-Auer S.,
+RA   Nawrocki A., Netter P., Neu R., Nombela C., Oliver S.G., Panzeri L.,
+RA   Paoluzi S., Plevani P., Portetelle D., Portillo F., Potier S.,
+RA   Purnelle B., Rieger M., Riles L., Rinaldi T., Robben J.,
+RA   Rodrigues-Pousada C., Rodriguez-Belmonte E., Rodriguez-Torres A.M.,
+RA   Rose M., Ruzzi M., Saliola M., Sanchez-Perez M., Schaefer B.,
+RA   Schaefer M., Scharfe M., Schmidheini T., Schreer A., Skala J.,
+RA   Souciet J.-L., Steensma H.Y., Talla E., Thierry A., Vandenbol M.,
+RA   van der Aart Q.J.M., Van Dyck L., Vanoni M., Verhasselt P., Voet M.,
+RA   Volckaert G., Wambutt R., Watson M.D., Weber N., Wedler E., Wedler H.,
+RA   Wipfli P., Wolf K., Wright L.F., Zaccaria P., Zimmermann M.,
+RA   Zollner A., Kleine K.;
+RT   "The nucleotide sequence of Saccharomyces cerevisiae chromosome VII.";
+RL   Nature 387:81-84(1997).
+RN   [4]
+RP   GENOME REANNOTATION.
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=24374639; DOI=10.1534/g3.113.008995;
+RA   Engel S.R., Dietrich F.S., Fisk D.G., Binkley G., Balakrishnan R.,
+RA   Costanzo M.C., Dwight S.S., Hitz B.C., Karra K., Nash R.S., Weng S.,
+RA   Wong E.D., Lloyd P., Skrzypek M.S., Miyasato S.R., Simison M.,
+RA   Cherry J.M.;
+RT   "The reference genome sequence of Saccharomyces cerevisiae: Then and
+RT   now.";
+RL   G3 (Bethesda) 4:389-398(2014).
+RN   [5]
+RP   LEVEL OF PROTEIN EXPRESSION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562106; DOI=10.1038/nature02046;
+RA   Ghaemmaghami S., Huh W.-K., Bower K., Howson R.W., Belle A.,
+RA   Dephoure N., O'Shea E.K., Weissman J.S.;
+RT   "Global analysis of protein expression in yeast.";
+RL   Nature 425:737-741(2003).
+RN   [6]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=18407956; DOI=10.1074/mcp.M700468-MCP200;
+RA   Albuquerque C.P., Smolka M.B., Payne S.H., Bafna V., Eng J., Zhou H.;
+RT   "A multidimensional chromatography technology for in-depth
+RT   phosphoproteome analysis.";
+RL   Mol. Cell. Proteomics 7:1389-1396(2008).
+CC   -!- FUNCTION: Controls the level of cAMP in yeast cells, together with
+CC       the high-affinity cAMP phosphodiesterase (PDE2).
+CC   -!- CATALYTIC ACTIVITY: Nucleoside 3',5'-cyclic phosphate + H(2)O =
+CC       nucleoside 5'-phosphate.
+CC   -!- MISCELLANEOUS: Present with 1400 molecules/cell in log phase SD
+CC       medium. {ECO:0000269|PubMed:14562106}.
+CC   -!- SIMILARITY: Belongs to the cAMP phosphodiesterase class-II family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M17781; AAA34896.1; -; Genomic_DNA.
+DR   EMBL; X94357; CAA64139.1; -; Genomic_DNA.
+DR   EMBL; Z72770; CAA96968.1; -; Genomic_DNA.
+DR   EMBL; BK006941; DAA07871.1; -; Genomic_DNA.
+DR   PIR; S61613; ESBYPC.
+DR   RefSeq; NP_011266.1; NM_001181114.1.
+DR   PDB; 4OJV; X-ray; 1.31 A; A=1-369.
+DR   PDB; 4OJX; X-ray; 1.31 A; A=1-369.
+DR   PDBsum; 4OJV; -.
+DR   PDBsum; 4OJX; -.
+DR   ProteinModelPortal; P22434; -.
+DR   SMR; P22434; 1-369.
+DR   BioGrid; 33031; 26.
+DR   MaxQB; P22434; -.
+DR   PaxDb; P22434; -.
+DR   EnsemblFungi; YGL248W; YGL248W; YGL248W.
+DR   GeneID; 852644; -.
+DR   KEGG; sce:YGL248W; -.
+DR   CYGD; YGL248w; -.
+DR   EuPathDB; FungiDB:YGL248W; -.
+DR   SGD; S000003217; PDE1.
+DR   eggNOG; COG5212; -.
+DR   HOGENOM; HOG000248334; -.
+DR   KO; K01120; -.
+DR   OMA; FESANTM; -.
+DR   OrthoDB; EOG7X6MB3; -.
+DR   BioCyc; YEAST:YGL248W-MONOMER; -.
+DR   NextBio; 971903; -.
+DR   PRO; PR:P22434; -.
+DR   Proteomes; UP000002311; Chromosome VII.
+DR   GO; GO:0005622; C:intracellular; IMP:GOC.
+DR   GO; GO:0004115; F:3',5'-cyclic-AMP phosphodiesterase activity; IMP:SGD.
+DR   GO; GO:0006198; P:cAMP catabolic process; IEA:InterPro.
+DR   GO; GO:0019933; P:cAMP-mediated signaling; IMP:SGD.
+DR   Gene3D; 3.60.15.10; -; 2.
+DR   InterPro; IPR001279; Beta-lactamas-like.
+DR   InterPro; IPR024225; cAMP-PdiesteraseII_CS.
+DR   InterPro; IPR000396; Pdiesterase2.
+DR   Pfam; PF02112; PDEase_II; 1.
+DR   PIRSF; PIRSF000962; Cyc_nuc_PDEase; 1.
+DR   PRINTS; PR00388; PDIESTERASE2.
+DR   SUPFAM; SSF56281; SSF56281; 1.
+DR   PROSITE; PS00607; PDEASE_II; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; cAMP; Complete proteome; Hydrolase; Reference proteome.
+FT   CHAIN         1    369       3',5'-cyclic-nucleotide phosphodiesterase
+FT                                1.
+FT                                /FTId=PRO_0000206791.
+FT   CONFLICT     94     94       L -> F (in Ref. 1; AAA34896).
+FT                                {ECO:0000305}.
+FT   STRAND        4     10       {ECO:0000244|PDB:4OJV}.
+FT   STRAND       14     16       {ECO:0000244|PDB:4OJV}.
+FT   STRAND       18     29       {ECO:0000244|PDB:4OJV}.
+FT   STRAND       35     39       {ECO:0000244|PDB:4OJV}.
+FT   HELIX        44     53       {ECO:0000244|PDB:4OJV}.
+FT   STRAND       64     66       {ECO:0000244|PDB:4OJV}.
+FT   STRAND       69     75       {ECO:0000244|PDB:4OJV}.
+FT   HELIX        76     79       {ECO:0000244|PDB:4OJV}.
+FT   STRAND       86     90       {ECO:0000244|PDB:4OJV}.
+FT   HELIX        92     96       {ECO:0000244|PDB:4OJV}.
+FT   TURN         97    100       {ECO:0000244|PDB:4OJV}.
+FT   HELIX       102    107       {ECO:0000244|PDB:4OJV}.
+FT   HELIX       110    119       {ECO:0000244|PDB:4OJV}.
+FT   STRAND      121    125       {ECO:0000244|PDB:4OJV}.
+FT   HELIX       131    133       {ECO:0000244|PDB:4OJV}.
+FT   HELIX       135    140       {ECO:0000244|PDB:4OJV}.
+FT   HELIX       141    145       {ECO:0000244|PDB:4OJV}.
+FT   STRAND      153    157       {ECO:0000244|PDB:4OJV}.
+FT   HELIX       159    168       {ECO:0000244|PDB:4OJV}.
+FT   STRAND      170    175       {ECO:0000244|PDB:4OJV}.
+FT   HELIX       178    180       {ECO:0000244|PDB:4OJV}.
+FT   STRAND      186    190       {ECO:0000244|PDB:4OJV}.
+FT   STRAND      200    215       {ECO:0000244|PDB:4OJV}.
+FT   TURN        217    219       {ECO:0000244|PDB:4OJV}.
+FT   STRAND      222    232       {ECO:0000244|PDB:4OJV}.
+FT   TURN        233    235       {ECO:0000244|PDB:4OJV}.
+FT   STRAND      238    242       {ECO:0000244|PDB:4OJV}.
+FT   TURN        250    252       {ECO:0000244|PDB:4OJV}.
+FT   HELIX       256    267       {ECO:0000244|PDB:4OJV}.
+FT   HELIX       270    272       {ECO:0000244|PDB:4OJV}.
+FT   STRAND      273    279       {ECO:0000244|PDB:4OJV}.
+FT   HELIX       288    291       {ECO:0000244|PDB:4OJV}.
+FT   HELIX       297    311       {ECO:0000244|PDB:4OJV}.
+FT   TURN        314    319       {ECO:0000244|PDB:4OJV}.
+FT   STRAND      321    325       {ECO:0000244|PDB:4OJV}.
+FT   HELIX       336    350       {ECO:0000244|PDB:4OJV}.
+FT   STRAND      357    360       {ECO:0000244|PDB:4OJV}.
+FT   STRAND      365    368       {ECO:0000244|PDB:4OJV}.
+SQ   SEQUENCE   369 AA;  42016 MW;  47B752477E99BA88 CRC64;
+     MVVFEITILG ANGGPTEYGT QCFILKPART EDPELIAVDG GAGMYQLREM LVQGRNENEG
+     DDELVPSFYE HDREPIEFFI DSKLNIQKGL SKSLLQSLKR QGEHFESANT MKKTYEVFQG
+     ITDYYITHPH LDHISGLVVN SPSIYEQENS KKKTIWGLPH TIDVLQKHVF NDLIWPDLTA
+     ERSRKLKLKC LNPKEVQKCT IFPWDVIPFK VHHGIGVKTG APVYSTFYIF RDRKSKDCII
+     VCGDVEQDRR ESEESLLEEF WSYVAENIPL VHLKGILVEC SCPLSSKPEQ LYGHLSPIYL
+     INELSNLNTL YNSSKGLSGL NVIVTHVKST PAKRDPRLTI LEELRFLAEE RNLGDLRISI
+     ALEGHTLFL
+//

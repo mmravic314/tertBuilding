@@ -1,0 +1,123 @@
+ID   PA_I80A6                Reviewed;         716 AA.
+AC   P13166; Q08II3;
+DT   01-JAN-1990, integrated into UniProtKB/Swiss-Prot.
+DT   01-JAN-1990, sequence version 1.
+DT   24-JUN-2015, entry version 70.
+DE   RecName: Full=Polymerase acidic protein;
+DE   AltName: Full=RNA-directed RNA polymerase subunit P2;
+GN   Name=PA;
+OS   Influenza A virus (strain A/Duck/Hokkaido/8/1980 H3N8).
+OC   Viruses; ssRNA viruses; ssRNA negative-strand viruses;
+OC   Orthomyxoviridae; Influenzavirus A.
+OX   NCBI_TaxID=387207;
+OH   NCBI_TaxID=8782; Aves.
+OH   NCBI_TaxID=9796; Equus caballus (Horse).
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC RNA].
+RX   PubMed=2800339; DOI=10.1016/0042-6822(89)90202-X;
+RA   Okazaki K., Kawaoka Y., Webster R.G.;
+RT   "Evolutionary pathways of the PA genes of influenza A viruses.";
+RL   Virology 172:601-608(1989).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC RNA].
+RA   Kida H., Sakoda Y.;
+RT   "Evolutionary characterization of H3N8 viruses isolated from ducks in
+RT   Hokkaido.";
+RL   Submitted (SEP-2006) to the EMBL/GenBank/DDBJ databases.
+CC   -!- FUNCTION: Plays an essential role in viral RNA transcription and
+CC       replication by forming the heterotrimeric polymerase complex
+CC       together with PB1 and PB2 subunits. The complex transcribes viral
+CC       mRNAs by using a unique mechanism called cap-snatching. It
+CC       consists in the hijacking and cleavage of host capped pre-mRNAs.
+CC       These short capped RNAs are then used as primers for viral mRNAs.
+CC       The PB2 subunit is responsible for the binding of the 5' cap of
+CC       cellular pre-mRNAs which are subsequently cleaved after 10-13
+CC       nucleotides by the PA subunit that carries the endonuclease
+CC       activity. In addition of its function in viral transcription, PA
+CC       also plays an essential role in viral RNA synthesis and promotes
+CC       the formation of the trimeric polymerase complex.
+CC       {ECO:0000250|UniProtKB:P03433}.
+CC   -!- SUBUNIT: Influenza RNA polymerase is composed of three subunits:
+CC       PB1, PB2 and PA. Interacts (via C-terminus) with PB1 (via N-
+CC       terminus). {ECO:0000250|UniProtKB:P03433}.
+CC   -!- SUBCELLULAR LOCATION: Host cytoplasm. Host nucleus. Note=PB1 and
+CC       PA are transported in the host nucleus as a complex.
+CC       {ECO:0000250|UniProtKB:P03433}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Ribosomal frameshifting; Named isoforms=2;
+CC       Name=PA;
+CC         IsoId=P13166-1; Sequence=Displayed;
+CC       Name=PA-X;
+CC         IsoId=P0CK83-1; Sequence=External;
+CC   -!- PTM: Phosphorylated on serines and threonines by host kinases,
+CC       including human casein kinase II. {ECO:0000250|UniProtKB:P03433}.
+CC   -!- SIMILARITY: Belongs to the influenza viruses PA family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M26083; AAA43098.1; -; Genomic_RNA.
+DR   EMBL; AB274965; BAF32967.1; -; Genomic_RNA.
+DR   PDB; 4W9S; X-ray; 1.80 A; A=1-204.
+DR   PDBsum; 4W9S; -.
+DR   ProteinModelPortal; P13166; -.
+DR   SMR; P13166; 257-716.
+DR   Proteomes; UP000008578; Genome.
+DR   GO; GO:0030430; C:host cell cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0042025; C:host cell nucleus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0003723; F:RNA binding; IEA:InterPro.
+DR   GO; GO:0003968; F:RNA-directed RNA polymerase activity; IEA:InterPro.
+DR   GO; GO:0075526; P:cap snatching; IEA:UniProtKB-KW.
+DR   GO; GO:0039523; P:suppression by virus of host RNA polymerase II activity; IEA:UniProtKB-KW.
+DR   GO; GO:0006351; P:transcription, DNA-templated; IEA:InterPro.
+DR   InterPro; IPR001009; RNA-dir_pol_influenzavirus.
+DR   Pfam; PF00603; Flu_PA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cap snatching; Complete proteome;
+KW   Eukaryotic host gene expression shutoff by virus;
+KW   Eukaryotic host transcription shutoff by virus; Host cytoplasm;
+KW   Host gene expression shutoff by virus; Host nucleus;
+KW   Host-virus interaction; Inhibition of host RNA polymerase II by virus;
+KW   Phosphoprotein; Ribosomal frameshifting.
+FT   CHAIN         1    716       Polymerase acidic protein.
+FT                                /FTId=PRO_0000078781.
+FT   MOTIF       124    139       Nuclear localization signal 1 (NLS1).
+FT                                {ECO:0000250|UniProtKB:P03433}.
+FT   MOTIF       184    247       Nuclear localization signal 2 (NLS2).
+FT                                {ECO:0000250|UniProtKB:P03433}.
+FT   CONFLICT    441    441       I -> M (in Ref. 2; BAF32967).
+FT                                {ECO:0000305}.
+FT   CONFLICT    464    464       D -> Y (in Ref. 2; BAF32967).
+FT                                {ECO:0000305}.
+FT   HELIX         1      8       {ECO:0000244|PDB:4W9S}.
+FT   HELIX        11     23       {ECO:0000244|PDB:4W9S}.
+FT   TURN         28     30       {ECO:0000244|PDB:4W9S}.
+FT   HELIX        32     49       {ECO:0000244|PDB:4W9S}.
+FT   STRAND       52     54       {ECO:0000244|PDB:4W9S}.
+FT   STRAND       60     62       {ECO:0000244|PDB:4W9S}.
+FT   STRAND       73     78       {ECO:0000244|PDB:4W9S}.
+FT   HELIX        84     98       {ECO:0000244|PDB:4W9S}.
+FT   STRAND      108    111       {ECO:0000244|PDB:4W9S}.
+FT   TURN        112    115       {ECO:0000244|PDB:4W9S}.
+FT   STRAND      116    125       {ECO:0000244|PDB:4W9S}.
+FT   HELIX       127    138       {ECO:0000244|PDB:4W9S}.
+FT   STRAND      143    149       {ECO:0000244|PDB:4W9S}.
+FT   STRAND      154    156       {ECO:0000244|PDB:4W9S}.
+FT   HELIX       157    159       {ECO:0000244|PDB:4W9S}.
+FT   HELIX       165    184       {ECO:0000244|PDB:4W9S}.
+FT   HELIX       188    193       {ECO:0000244|PDB:4W9S}.
+SQ   SEQUENCE   716 AA;  82474 MW;  ADC6049BE2CA51E4 CRC64;
+     MEDFVRQCFN PMIVELAEKA MKEYGEDPKI ETNKFAAICT HLEVCFMYSD FHFIDERGES
+     IIVESGDPNA LLKHRFEIIE GRDRTMAWTV VNSICNTTGV EKPKFLPDLY DYKENRFIEI
+     GVTRREVHIY YLEKANKIKS EKTHIHIFSF TGEEMATKAD YTLDEESRAR IKTRLFTIRQ
+     EMASRGLWDS FRQSERGEET VEERFEITGT MRRLADQSLP PNFSSLENFR AYVDGFEPNG
+     CIEGKLSQMS KEVNAKIEPF LKTTPRPLRL PDGPPCSQRS KFLLMDALKL SIEDPSHEGE
+     GIPLYDAIKC MKTFFGWKEP NIIKPHERGI NPNYLLAWKQ VLAELQDIEN EEKIPKTKNM
+     KKTSQLKWAL GENMAPEKVD FEDCKDVSDL KQYDSDEPET RSLASWIQSE FNKACELTDS
+     SWIELDEIGE DIAPIEHIAS IRRNYFTAEV SHCRATEYIM KGVDINTALL NASCAAMDDF
+     QLIPMISKCR TKEGRRKTNL YGFIIKGRSH LRNDTDVVNF VSMEFSLTDP RLEPHKWEKY
+     CVLEIGDMLL RTAIGQVSRP MFLYVRTNGT SKIKMKWGME MRRCLLQSLQ QIESMIEAES
+     SVKEKDMTKE FFENKSETWP IGESPKGVEE GSIGKVCRTL LAKSVFNSLY ASPQLEGFSA
+     ESRKLLLIVQ ALRDNLEPGT FDLGGLYEAI EECLINDPWV LLNASWFNSF LTHALK
+//

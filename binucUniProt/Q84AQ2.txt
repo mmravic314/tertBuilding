@@ -1,0 +1,113 @@
+ID   Q84AQ2_PSEST            Unreviewed;       511 AA.
+AC   Q84AQ2;
+DT   01-JUN-2003, integrated into UniProtKB/TrEMBL.
+DT   01-JUN-2003, sequence version 1.
+DT   29-APR-2015, entry version 62.
+DE   SubName: Full=Phenol hydroxylase component phN {ECO:0000313|EMBL:AAO47358.1};
+GN   Name=phN {ECO:0000313|EMBL:AAO47358.1};
+OS   Pseudomonas stutzeri (Pseudomonas perfectomarina).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+OC   Pseudomonadaceae; Pseudomonas.
+OX   NCBI_TaxID=316 {ECO:0000313|EMBL:AAO47358.1};
+RN   [1] {ECO:0000313|EMBL:AAO47358.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=OX1 {ECO:0000313|EMBL:AAO47358.1};
+RX   PubMed=15066815; DOI=10.1128/AEM.70.4.2211-2219.2004;
+RA   Cafaro V., Izzo V., Scognamiglio R., Notomista E., Capasso P.,
+RA   Casbarra A., Pucci P., Di Donato A.;
+RT   "Phenol hydroxylase and toluene/o-xylene monooxygenase from
+RT   Pseudomonas stutzeri OX1: interplay between two enzymes.";
+RL   Appl. Environ. Microbiol. 70:2211-2219(2004).
+RN   [2] {ECO:0000213|PDB:2INN, ECO:0000213|PDB:2INP}
+RP   X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) OF 6-499 IN COMPLEX WITH IRON
+RP   AND ZINC.
+RX   PubMed=17176061; DOI=10.1021/bi0618969;
+RA   Sazinsky M.H., Dunten P.W., McCormick M.S., DiDonato A., Lippard S.J.;
+RT   "X-ray structure of a hydroxylase-regulatory protein complex from a
+RT   hydrocarbon-oxidizing multicomponent monooxygenase, Pseudomonas sp.
+RT   OX1 phenol hydroxylase.";
+RL   Biochemistry 45:15392-15404(2006).
+RN   [3] {ECO:0000213|PDB:3U52}
+RP   X-RAY CRYSTALLOGRAPHY (1.95 ANGSTROMS) IN COMPLEX WITH IRON AND ZINC.
+RX   PubMed=22136180; DOI=10.1021/bi201248b;
+RA   McCormick M.S., Lippard S.J.;
+RT   "Analysis of substrate access to active sites in bacterial
+RT   multicomponent monooxygenase hydroxylases: X-ray crystal structure of
+RT   xenon-pressurized phenol hydroxylase from Pseudomonas sp. OX1.";
+RL   Biochemistry 50:11058-11069(2011).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AY205602; AAO47358.1; -; Genomic_DNA.
+DR   PDB; 2INN; X-ray; 2.70 A; A/B=1-509.
+DR   PDB; 2INP; X-ray; 2.30 A; A/B=6-499.
+DR   PDB; 3U52; X-ray; 1.95 A; A/B=1-511.
+DR   PDBsum; 2INN; -.
+DR   PDBsum; 2INP; -.
+DR   PDBsum; 3U52; -.
+DR   ProteinModelPortal; Q84AQ2; -.
+DR   SMR; Q84AQ2; 6-499.
+DR   EvolutionaryTrace; Q84AQ2; -.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016491; F:oxidoreductase activity; IEA:InterPro.
+DR   GO; GO:0006725; P:cellular aromatic compound metabolic process; IEA:InterPro.
+DR   Gene3D; 1.10.620.20; -; 1.
+DR   InterPro; IPR009078; Ferritin-like_SF.
+DR   InterPro; IPR003430; Phenol_Hydrox.
+DR   InterPro; IPR012348; RNR-rel.
+DR   InterPro; IPR007029; YHS_dom.
+DR   Pfam; PF02332; Phenol_Hydrox; 1.
+DR   Pfam; PF04945; YHS; 1.
+DR   SUPFAM; SSF47240; SSF47240; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2INN, ECO:0000213|PDB:2INP};
+KW   Iron {ECO:0000213|PDB:2INN, ECO:0000213|PDB:2INP};
+KW   Metal-binding {ECO:0000213|PDB:2INN, ECO:0000213|PDB:2INP};
+KW   Zinc {ECO:0000213|PDB:2INN, ECO:0000213|PDB:2INP}.
+FT   METAL       108    108       Iron 1. {ECO:0000213|PDB:2INN,
+FT                                ECO:0000213|PDB:2INP,
+FT                                ECO:0000213|PDB:3U52}.
+FT   METAL       138    138       Iron 1. {ECO:0000213|PDB:2INN,
+FT                                ECO:0000213|PDB:2INP,
+FT                                ECO:0000213|PDB:3U52}.
+FT   METAL       138    138       Iron 2. {ECO:0000213|PDB:2INN,
+FT                                ECO:0000213|PDB:2INP}.
+FT   METAL       141    141       Iron 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:2INN,
+FT                                ECO:0000213|PDB:2INP,
+FT                                ECO:0000213|PDB:3U52}.
+FT   METAL       199    199       Iron 2. {ECO:0000213|PDB:2INN,
+FT                                ECO:0000213|PDB:2INP,
+FT                                ECO:0000213|PDB:3U52}.
+FT   METAL       233    233       Iron 1. {ECO:0000213|PDB:2INN}.
+FT   METAL       233    233       Iron 2. {ECO:0000213|PDB:2INN,
+FT                                ECO:0000213|PDB:2INP,
+FT                                ECO:0000213|PDB:3U52}.
+FT   METAL       236    236       Iron 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:2INN,
+FT                                ECO:0000213|PDB:2INP,
+FT                                ECO:0000213|PDB:3U52}.
+FT   METAL       399    399       Zinc. {ECO:0000213|PDB:2INN,
+FT                                ECO:0000213|PDB:2INP,
+FT                                ECO:0000213|PDB:3U52}.
+FT   METAL       402    402       Zinc. {ECO:0000213|PDB:2INN,
+FT                                ECO:0000213|PDB:2INP,
+FT                                ECO:0000213|PDB:3U52}.
+FT   METAL       432    432       Zinc. {ECO:0000213|PDB:2INN,
+FT                                ECO:0000213|PDB:2INP,
+FT                                ECO:0000213|PDB:3U52}.
+FT   METAL       436    436       Zinc. {ECO:0000213|PDB:2INN,
+FT                                ECO:0000213|PDB:2INP,
+FT                                ECO:0000213|PDB:3U52}.
+SQ   SEQUENCE   511 AA;  60141 MW;  FF4947BA20B2F6F7 CRC64;
+     MVSKNKKLNL KDKYQYLTRD MAWEPTYQDK KDIFPEEDFE GIKITDWSQW EDPFRLTMDA
+     YWKYQAEKEK KLYAIFDAFA QNNGHQNISD ARYVNALKLF ISGISPLEHA AFQGYSKVGR
+     QFSGAGARVA CQMQAIDELR HSQTQQHAMS HYNKHFNGLH DGPHMHDRVW YLSVPKSFFD
+     DARSAGPFEF LTAISFSFEY VLTNLLFVPF MSGAAYNGDM ATVTFGFSAQ SDEARHMTLG
+     LEVIKFILEQ HEDNVPIVQR WIDKWFWRGF RLLSLVSMMM DYMLPNKVMS WSEAWEVYYE
+     QNGGALFKDL ERYGIRPPKY QDVANDAKHH LSHQLWTTFY QYCQATNFHT WIPEKEEMDW
+     MSEKYPDTFD KYYRPRYEYL AKEAAAGRRF YNNTLPQLCQ VCQIPTIFTE KDAPTMLSHR
+     QIEHEGERYH FCSDGCCDIF KHEPEKYIQA WLPVHQIYQG NCEGGDLETV VQKYYHINIG
+     EDNFDYVGSP DQKHWLSIKG RKPADKNQDA A
+//

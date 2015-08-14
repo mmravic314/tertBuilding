@@ -1,0 +1,156 @@
+ID   PPO1_IPOBA              Reviewed;         496 AA.
+AC   Q9ZP19; Q84V53;
+DT   29-MAR-2005, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-1999, sequence version 1.
+DT   01-APR-2015, entry version 67.
+DE   RecName: Full=Polyphenol oxidase I, chloroplastic;
+DE            Short=PPO-I;
+DE            EC=1.10.3.1;
+DE   AltName: Full=Catechol oxidase I;
+GN   Name=co-1;
+OS   Ipomoea batatas (Sweet potato) (Convolvulus batatas).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; asterids; lamiids; Solanales; Convolvulaceae; Ipomoeeae;
+OC   Ipomoea.
+OX   NCBI_TaxID=4120;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Root;
+RA   Gerdemann C., Eicken C., Meyer H., Spener F., Krebs B.;
+RT   "Cloning and characterization of cDNA coding for Ipomoea batatas
+RT   catechol oxidase.";
+RL   Submitted (MAY-1998) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=cv. Bushbuck;
+RA   Greving J., Gerdemann C., Spener F., Krebs B.;
+RT   "Sequencing and cloning of genomic DNA encoding two isozymes of
+RT   Ipomoea batatas catechol oxidase.";
+RL   Submitted (APR-2001) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS) OF 1-345 IN COMPLEX WITH COPPER
+RP   AND N-PHENYLTHIOUREA, AND DISULFIDE BONDS.
+RX   PubMed=9846879; DOI=10.1038/4193;
+RA   Klabunde T., Eicken C., Sacchettini J.C., Krebs B.;
+RT   "Crystal structure of a plant catechol oxidase containing a dicopper
+RT   center.";
+RL   Nat. Struct. Biol. 5:1084-1090(1998).
+CC   -!- FUNCTION: Catalyzes the oxidation of mono- and o-diphenols to o-
+CC       diquinones.
+CC   -!- CATALYTIC ACTIVITY: 2 catechol + O(2) = 2 1,2-benzoquinone + 2
+CC       H(2)O.
+CC   -!- COFACTOR:
+CC       Name=Cu(2+); Xref=ChEBI:CHEBI:29036;
+CC       Note=Binds 2 copper ions per subunit.;
+CC   -!- ENZYME REGULATION: Inhibited by phenylthiourea.
+CC   -!- SUBUNIT: Monomer. {ECO:0000269|PubMed:9846879}.
+CC   -!- SUBCELLULAR LOCATION: Plastid, chloroplast thylakoid lumen
+CC       {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the tyrosinase family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AJ006097; CAA06855.1; -; mRNA.
+DR   EMBL; AJ309175; CAC83609.1; -; Genomic_DNA.
+DR   PDB; 1BT1; X-ray; 2.70 A; A/B=1-345.
+DR   PDB; 1BT2; X-ray; 2.70 A; A/B=1-345.
+DR   PDB; 1BT3; X-ray; 2.50 A; A=1-345.
+DR   PDB; 1BUG; X-ray; 2.70 A; A/B=1-345.
+DR   PDBsum; 1BT1; -.
+DR   PDBsum; 1BT2; -.
+DR   PDBsum; 1BT3; -.
+DR   PDBsum; 1BUG; -.
+DR   ProteinModelPortal; Q9ZP19; -.
+DR   SMR; Q9ZP19; 1-341.
+DR   BRENDA; 1.10.3.1; 2773.
+DR   EvolutionaryTrace; Q9ZP19; -.
+DR   GO; GO:0009543; C:chloroplast thylakoid lumen; IEA:UniProtKB-SubCell.
+DR   GO; GO:0004097; F:catechol oxidase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.1280.10; -; 1.
+DR   InterPro; IPR022740; Polyphenol_oxidase_C.
+DR   InterPro; IPR022739; Polyphenol_oxidase_cen.
+DR   InterPro; IPR002227; Tyrosinase_Cu-bd.
+DR   InterPro; IPR008922; Unchr_di-copper_centre.
+DR   Pfam; PF12142; PPO1_DWL; 1.
+DR   Pfam; PF12143; PPO1_KFDV; 1.
+DR   Pfam; PF00264; Tyrosinase; 1.
+DR   PRINTS; PR00092; TYROSINASE.
+DR   SUPFAM; SSF48056; SSF48056; 1.
+DR   PROSITE; PS00497; TYROSINASE_1; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Chloroplast; Copper; Disulfide bond; Metal-binding;
+KW   Oxidoreductase; Plastid; Thioether bond; Thylakoid.
+FT   CHAIN         1    496       Polyphenol oxidase I, chloroplastic.
+FT                                /FTId=PRO_0000186741.
+FT   METAL        88     88       Copper A. {ECO:0000269|PubMed:9846879}.
+FT   METAL       109    109       Copper A. {ECO:0000269|PubMed:9846879}.
+FT   METAL       118    118       Copper A. {ECO:0000269|PubMed:9846879}.
+FT   METAL       240    240       Copper B. {ECO:0000269|PubMed:9846879}.
+FT   METAL       244    244       Copper B. {ECO:0000269|PubMed:9846879}.
+FT   METAL       274    274       Copper B. {ECO:0000269|PubMed:9846879}.
+FT   DISULFID     11     28       {ECO:0000269|PubMed:9846879}.
+FT   DISULFID     27     89       {ECO:0000269|PubMed:9846879}.
+FT   CROSSLNK     92    109       2'-(S-cysteinyl)-histidine (Cys-His).
+FT   CONFLICT     40     42       LPA -> IPV (in Ref. 2; CAC83609).
+FT                                {ECO:0000305}.
+FT   CONFLICT     65     65       K -> R (in Ref. 2; CAC83609).
+FT                                {ECO:0000305}.
+FT   CONFLICT     68     68       E -> D (in Ref. 2; CAC83609).
+FT                                {ECO:0000305}.
+FT   CONFLICT     71     71       K -> R (in Ref. 2; CAC83609).
+FT                                {ECO:0000305}.
+FT   CONFLICT     75     75       A -> G (in Ref. 2; CAC83609).
+FT                                {ECO:0000305}.
+FT   CONFLICT    282    282       T -> A (in Ref. 2; CAC83609).
+FT                                {ECO:0000305}.
+FT   CONFLICT    401    403       VGI -> EGV (in Ref. 2; CAC83609).
+FT                                {ECO:0000305}.
+FT   CONFLICT    436    436       F -> S (in Ref. 2; CAC83609).
+FT                                {ECO:0000305}.
+FT   CONFLICT    475    475       T -> A (in Ref. 2; CAC83609).
+FT                                {ECO:0000305}.
+FT   CONFLICT    490    490       V -> I (in Ref. 2; CAC83609).
+FT                                {ECO:0000305}.
+FT   HELIX         8     10       {ECO:0000244|PDB:1BT3}.
+FT   STRAND       33     37       {ECO:0000244|PDB:1BT3}.
+FT   STRAND       47     49       {ECO:0000244|PDB:1BT3}.
+FT   HELIX        52     54       {ECO:0000244|PDB:1BT3}.
+FT   HELIX        57     71       {ECO:0000244|PDB:1BT3}.
+FT   HELIX        81     92       {ECO:0000244|PDB:1BT3}.
+FT   STRAND       96     98       {ECO:0000244|PDB:1BT2}.
+FT   STRAND      101    105       {ECO:0000244|PDB:1BT3}.
+FT   STRAND      109    111       {ECO:0000244|PDB:1BT3}.
+FT   HELIX       114    133       {ECO:0000244|PDB:1BT3}.
+FT   HELIX       148    150       {ECO:0000244|PDB:1BT3}.
+FT   HELIX       155    158       {ECO:0000244|PDB:1BT3}.
+FT   STRAND      167    169       {ECO:0000244|PDB:1BT3}.
+FT   HELIX       171    173       {ECO:0000244|PDB:1BT3}.
+FT   HELIX       192    207       {ECO:0000244|PDB:1BT3}.
+FT   TURN        208    210       {ECO:0000244|PDB:1BT3}.
+FT   HELIX       214    218       {ECO:0000244|PDB:1BT3}.
+FT   HELIX       234    237       {ECO:0000244|PDB:1BT3}.
+FT   HELIX       240    247       {ECO:0000244|PDB:1BT3}.
+FT   TURN        256    259       {ECO:0000244|PDB:1BT3}.
+FT   TURN        261    263       {ECO:0000244|PDB:1BT3}.
+FT   HELIX       264    266       {ECO:0000244|PDB:1BT3}.
+FT   HELIX       269    287       {ECO:0000244|PDB:1BT3}.
+FT   HELIX       299    302       {ECO:0000244|PDB:1BT3}.
+FT   STRAND      305    309       {ECO:0000244|PDB:1BT3}.
+FT   STRAND      315    319       {ECO:0000244|PDB:1BT3}.
+FT   HELIX       320    322       {ECO:0000244|PDB:1BT3}.
+FT   HELIX       326    329       {ECO:0000244|PDB:1BT3}.
+FT   STRAND      331    333       {ECO:0000244|PDB:1BT3}.
+SQ   SEQUENCE   496 AA;  55011 MW;  806717DBF5B09705 CRC64;
+     APIQAPEISK CVVPPADLPP GAVVDNCCPP VASNIVDYKL PAVTTMKVRP AAHTMDKDAI
+     AKFAKAVELM KALPADDPRN FYQQALVHCA YCNGGYDQVN FPDQEIQVHN SWLFFPFHRW
+     YLYFYERILG KLIGDPSFGL PFWNWDNPGG MVLPDFLNDS TSSLYDSNRN QSHLPPVVVD
+     LGYNGADTDV TDQQRITDNL ALMYKQMVTN AGTAELFLGK AYRAGDAPSP GAGSIETSPH
+     IPIHRWVGDP RNTNNEDMGN FYSAGRDIAF YCHHSNVDRM WTIWQQLAGK PRKRDYTDSD
+     WLNATFLFYD ENGQAVKVRI GDSLDNQKMG YKYAKTPLPW LDSKPVPTKK KGGYASKSKA
+     PFVASVFPVT LDKVVQVKVA RPKKSRSAEE KEAEEEILLI VGIEVEIDKY AKFDVYLNDS
+     DDPSGGKDKA EYAGSFAHLP HKHKGMKKIR TTLSLGLNEP LEDLGAEDDD TILVTLAPKV
+     GGGVVSVDNV KVVYGS
+//

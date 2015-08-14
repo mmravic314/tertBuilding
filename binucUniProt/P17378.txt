@@ -1,0 +1,351 @@
+ID   RDRP_REOVD              Reviewed;        1267 AA.
+AC   P0CK31; A4ZY20; P17376; P17378; Q85665;
+DT   14-DEC-2011, integrated into UniProtKB/Swiss-Prot.
+DT   14-DEC-2011, sequence version 1.
+DT   22-JUL-2015, entry version 17.
+DE   RecName: Full=RNA-directed RNA polymerase lambda-3;
+DE            Short=Lambda3;
+DE            EC=2.7.7.48;
+DE   AltName: Full=Lambda3(Pol);
+GN   Name=L1;
+OS   Reovirus type 3 (strain Dearing) (T3D) (Mammalian orthoreovirus 3).
+OC   Viruses; dsRNA viruses; Reoviridae; Spinareovirinae; Orthoreovirus.
+OX   NCBI_TaxID=10886;
+OH   NCBI_TaxID=40674; Mammalia.
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC RNA].
+RX   PubMed=2922925; DOI=10.1016/0042-6822(89)90055-X;
+RA   Wiener J.R., Joklik W.K.;
+RT   "The sequences of the reovirus serotype 1, 2, and 3 L1 genome segments
+RT   and analysis of the mode of divergence of the reovirus serotypes.";
+RL   Virology 169:194-203(1989).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC RNA].
+RC   STRAIN=Infectious clone;
+RX   PubMed=18005692; DOI=10.1016/j.chom.2007.03.003;
+RA   Kobayashi T., Antar A.A., Boehme K.W., Danthi P., Eby E.A.,
+RA   Guglielmi K.M., Holm G.H., Johnson E.M., Maginnis M.S., Naik S.,
+RA   Skelton W.B., Wetzel J.D., Wilson G.J., Chappell J.D., Dermody T.S.;
+RT   "A plasmid-based reverse genetics system for animal double-stranded
+RT   RNA viruses.";
+RL   Cell Host Microbe 1:147-157(2007).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS).
+RX   PubMed=12464184; DOI=10.1016/S0092-8674(02)01110-8;
+RA   Tao Y., Farsetta D.L., Nibert M.L., Harrison S.C.;
+RT   "RNA synthesis in a cage -- structural studies of reovirus polymerase
+RT   lambda3.";
+RL   Cell 111:733-745(2002).
+CC   -!- FUNCTION: RNA-directed RNA polymerase that is involved in
+CC       transcription and genome replication. Following infection, it
+CC       catalyzes the synthesis of fully conservative plus strands. After
+CC       core assembly, which consists in recruitment of one capped plus-
+CC       strand for each genomic segments and polymerase complexes, the
+CC       polymerase switches mode and catalyzes the synthesis of
+CC       complementary minus-strands.
+CC   -!- CATALYTIC ACTIVITY: Nucleoside triphosphate + RNA(n) = diphosphate
+CC       + RNA(n+1). {ECO:0000255|PROSITE-ProRule:PRU00539}.
+CC   -!- SUBCELLULAR LOCATION: Virion {ECO:0000305}. Note=Found in the
+CC       inner capsid (12 copies).
+CC   -!- SIMILARITY: Belongs to the reoviridae RNA-directed RNA polymerase
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 RdRp catalytic domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00539}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M31058; AAA47255.1; -; Genomic_RNA.
+DR   EMBL; EF494435; ABP48913.1; -; Genomic_RNA.
+DR   PIR; C30121; MWXR33.
+DR   PDB; 1MUK; X-ray; 2.50 A; A=1-1267.
+DR   PDB; 1MWH; X-ray; 2.50 A; A=1-1267.
+DR   PDB; 1N1H; X-ray; 2.80 A; A=1-1267.
+DR   PDB; 1N35; X-ray; 2.50 A; A=1-1267.
+DR   PDB; 1N38; X-ray; 2.80 A; A=1-1267.
+DR   PDB; 1UON; EM; 7.60 A; A=1-1267.
+DR   PDBsum; 1MUK; -.
+DR   PDBsum; 1MWH; -.
+DR   PDBsum; 1N1H; -.
+DR   PDBsum; 1N35; -.
+DR   PDBsum; 1N38; -.
+DR   PDBsum; 1UON; -.
+DR   ProteinModelPortal; P0CK31; -.
+DR   SMR; P0CK31; 2-1265.
+DR   KEGG; vg:956476; -.
+DR   EvolutionaryTrace; P0CK31; -.
+DR   Proteomes; UP000006373; Genome.
+DR   GO; GO:0019013; C:viral nucleocapsid; IEA:InterPro.
+DR   GO; GO:0016787; F:hydrolase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0000166; F:nucleotide binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003723; F:RNA binding; IEA:InterPro.
+DR   GO; GO:0003968; F:RNA-directed RNA polymerase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0019079; P:viral genome replication; IEA:InterPro.
+DR   InterPro; IPR012915; RdRP_5.
+DR   InterPro; IPR007097; RNA-dir_pol_reovirus.
+DR   Pfam; PF07925; RdRP_5; 1.
+DR   PROSITE; PS50523; RDRP_DSRNA_REO; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Capsid protein; Complete proteome; Hydrolase;
+KW   Nucleotide-binding; Nucleotidyltransferase;
+KW   RNA-directed RNA polymerase; Transferase; Viral RNA replication;
+KW   Virion.
+FT   CHAIN         1   1267       RNA-directed RNA polymerase lambda-3.
+FT                                /FTId=PRO_0000222743.
+FT   DOMAIN      555    792       RdRp catalytic. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00539}.
+FT   CONFLICT    267    267       S -> A (in Ref. 2; ABP48913).
+FT                                {ECO:0000305}.
+FT   CONFLICT    465    468       ALRE -> DSAN (in Ref. 1; AAA47255).
+FT                                {ECO:0000305}.
+FT   CONFLICT    557    557       P -> T (in Ref. 2; ABP48913).
+FT                                {ECO:0000305}.
+FT   CONFLICT    755    756       ND -> KM (in Ref. 2; ABP48913).
+FT                                {ECO:0000305}.
+FT   CONFLICT    926    926       T -> P (in Ref. 2; ABP48913).
+FT                                {ECO:0000305}.
+FT   CONFLICT    963    963       S -> P (in Ref. 2; ABP48913).
+FT                                {ECO:0000305}.
+FT   CONFLICT   1048   1048       S -> N (in Ref. 2; ABP48913).
+FT                                {ECO:0000305}.
+FT   HELIX         4     15       {ECO:0000244|PDB:1MUK}.
+FT   TURN         16     18       {ECO:0000244|PDB:1MUK}.
+FT   HELIX        24     36       {ECO:0000244|PDB:1MUK}.
+FT   HELIX        39     47       {ECO:0000244|PDB:1MUK}.
+FT   HELIX        53     55       {ECO:0000244|PDB:1MUK}.
+FT   HELIX        61     63       {ECO:0000244|PDB:1MUK}.
+FT   HELIX        69     72       {ECO:0000244|PDB:1MUK}.
+FT   STRAND       73     75       {ECO:0000244|PDB:1MUK}.
+FT   STRAND       81     83       {ECO:0000244|PDB:1MUK}.
+FT   TURN         89     92       {ECO:0000244|PDB:1N38}.
+FT   HELIX       100    102       {ECO:0000244|PDB:1MUK}.
+FT   STRAND      103    105       {ECO:0000244|PDB:1MUK}.
+FT   STRAND      112    115       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       117    124       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       128    144       {ECO:0000244|PDB:1MUK}.
+FT   STRAND      147    149       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       151    162       {ECO:0000244|PDB:1MUK}.
+FT   TURN        170    173       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       181    183       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       185    198       {ECO:0000244|PDB:1MUK}.
+FT   STRAND      206    209       {ECO:0000244|PDB:1MUK}.
+FT   STRAND      214    217       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       226    242       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       247    262       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       266    273       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       276    279       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       282    284       {ECO:0000244|PDB:1MUK}.
+FT   STRAND      291    299       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       303    305       {ECO:0000244|PDB:1MUK}.
+FT   STRAND      307    315       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       318    320       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       328    337       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       341    352       {ECO:0000244|PDB:1MUK}.
+FT   STRAND      356    358       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       359    369       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       381    388       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       401    403       {ECO:0000244|PDB:1MUK}.
+FT   STRAND      404    408       {ECO:0000244|PDB:1MUK}.
+FT   STRAND      411    414       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       422    438       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       440    443       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       445    453       {ECO:0000244|PDB:1MUK}.
+FT   STRAND      457    459       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       463    471       {ECO:0000244|PDB:1MUK}.
+FT   TURN        472    474       {ECO:0000244|PDB:1MUK}.
+FT   STRAND      487    489       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       490    497       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       502    505       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       506    510       {ECO:0000244|PDB:1MUK}.
+FT   STRAND      516    521       {ECO:0000244|PDB:1MUK}.
+FT   STRAND      523    528       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       533    552       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       563    565       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       568    575       {ECO:0000244|PDB:1MUK}.
+FT   STRAND      580    587       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       589    592       {ECO:0000244|PDB:1MUK}.
+FT   TURN        595    597       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       598    609       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       611    614       {ECO:0000244|PDB:1MUK}.
+FT   STRAND      625    629       {ECO:0000244|PDB:1MUK}.
+FT   STRAND      632    634       {ECO:0000244|PDB:1MUK}.
+FT   STRAND      637    641       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       643    657       {ECO:0000244|PDB:1MUK}.
+FT   STRAND      659    664       {ECO:0000244|PDB:1MUK}.
+FT   STRAND      666    668       {ECO:0000244|PDB:1MUK}.
+FT   STRAND      672    677       {ECO:0000244|PDB:1MUK}.
+FT   STRAND      682    686       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       687    704       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       706    709       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       714    721       {ECO:0000244|PDB:1MUK}.
+FT   TURN        725    727       {ECO:0000244|PDB:1MUK}.
+FT   STRAND      728    732       {ECO:0000244|PDB:1MUK}.
+FT   STRAND      735    740       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       750    765       {ECO:0000244|PDB:1MUK}.
+FT   TURN        766    768       {ECO:0000244|PDB:1MUK}.
+FT   STRAND      770    774       {ECO:0000244|PDB:1MUK}.
+FT   STRAND      779    781       {ECO:0000244|PDB:1MUK}.
+FT   STRAND      784    787       {ECO:0000244|PDB:1MUK}.
+FT   STRAND      790    792       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       795    797       {ECO:0000244|PDB:1MUK}.
+FT   STRAND      800    802       {ECO:0000244|PDB:1MUK}.
+FT   STRAND      807    809       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       816    830       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       835    849       {ECO:0000244|PDB:1MUK}.
+FT   STRAND      850    856       {ECO:0000244|PDB:1MUK}.
+FT   STRAND      859    864       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       867    872       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       895    916       {ECO:0000244|PDB:1MUK}.
+FT   STRAND      920    925       {ECO:0000244|PDB:1MUK}.
+FT   TURN        926    928       {ECO:0000244|PDB:1MUK}.
+FT   STRAND      929    931       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       933    939       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       942    949       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       966    978       {ECO:0000244|PDB:1MUK}.
+FT   HELIX       982    998       {ECO:0000244|PDB:1MUK}.
+FT   HELIX      1009   1011       {ECO:0000244|PDB:1MUK}.
+FT   HELIX      1012   1022       {ECO:0000244|PDB:1MUK}.
+FT   HELIX      1028   1043       {ECO:0000244|PDB:1MUK}.
+FT   HELIX      1051   1056       {ECO:0000244|PDB:1MUK}.
+FT   STRAND     1059   1066       {ECO:0000244|PDB:1MUK}.
+FT   HELIX      1086   1095       {ECO:0000244|PDB:1MUK}.
+FT   HELIX      1102   1106       {ECO:0000244|PDB:1MUK}.
+FT   HELIX      1107   1109       {ECO:0000244|PDB:1MUK}.
+FT   HELIX      1121   1133       {ECO:0000244|PDB:1MUK}.
+FT   HELIX      1138   1146       {ECO:0000244|PDB:1MUK}.
+FT   TURN       1147   1149       {ECO:0000244|PDB:1MUK}.
+FT   HELIX      1152   1164       {ECO:0000244|PDB:1MUK}.
+FT   HELIX      1169   1173       {ECO:0000244|PDB:1MUK}.
+FT   HELIX      1174   1176       {ECO:0000244|PDB:1MUK}.
+FT   HELIX      1182   1184       {ECO:0000244|PDB:1MUK}.
+FT   HELIX      1189   1195       {ECO:0000244|PDB:1MUK}.
+FT   STRAND     1196   1198       {ECO:0000244|PDB:1MUK}.
+FT   TURN       1207   1209       {ECO:0000244|PDB:1MUK}.
+FT   HELIX      1213   1217       {ECO:0000244|PDB:1N1H}.
+FT   HELIX      1218   1232       {ECO:0000244|PDB:1MUK}.
+FT   STRAND     1233   1236       {ECO:0000244|PDB:1MUK}.
+FT   STRAND     1238   1245       {ECO:0000244|PDB:1MUK}.
+FT   HELIX      1248   1262       {ECO:0000244|PDB:1MUK}.
+SQ   SEQUENCE   1267 AA;  142270 MW;  FC9FD43CEF527148 CRC64;
+     MSSMILTQFG PFIESISGIT DQSNDVFEDA AKAFSMFTRS DVYKALDEIP FSDDAMLPIP
+     PTIYTKPSHD SYYYIDALNR VRRKTYQGPD DVYVPNCSIV ELLEPHETLT SYGRLSEAIE
+     NRAKDGDSQA RIATTYGRIA ESQARQIKAP LEKFVLALLV AEAGGSLYDP VLQKYDEIPD
+     LSHNCPLWCF REICRHISGP LPDRAPYLYL SAGVFWLMSP RMTSAIPPLL SDLVNLAILQ
+     QTAGLDPSLV KLGVQICLHA AASSSYSWFI LKTKSIFPQN TLHSMYESLE GGYCPNLEWL
+     EPRSDYKFMY MGVMPLSAKY ARSAPSNDKK ARELGEKYGL SSVVGELRKR TKTYVKHDFA
+     SVRYIRDAMA CTSGIFLVRT PTETVLQEYT QSPEIKVPIP QKDWTGPIGE IRILKDTTSS
+     IARYLYRTWY LAAARMAAQP RTWDPLFQAI MRSQYVTARG GSGAALRESL YAINVSLPDF
+     KGLPVKAATK IFQAAQLANL PFSHTSVAIL ADTSMGLRNQ VQRRPRSIMP LNVPQQQVSA
+     PHTLTADYIN YHMNLSPTSG SAVIEKVIPL GVYASSPPNQ SINIDISACD ASITWDFFLS
+     VIMAAIHEGV ASSSIGKPFM GVPASIVNDE SVVGVRAARP ISGMQNMIQH LSKLYKRGFS
+     YRVNDSFSPG NDFTHMTTTF PSGSTATSTE HTANNSTMME TFLTVWGPEH TDDPDVLRLM
+     KSLTIQRNYV CQGDDGLMII DGTTAGKVNS ETIQNDLELI SKYGEEFGWK YDIAYDGTAE
+     YLKLYFIFGC RIPNLSRHPI VGKERANSSA EEPWPAILDQ IMGVFFNGVH DGLQWQRWIR
+     YSWALCCAFS RQRTMIGESV GYLQYPMWSF VYWGLPLVKA FGSDPWIFSW YMPTGDLGMY
+     SWISLIRPLM TRWMVANGYV TDRCSTVFGN ADYRRCFNEL KLYQGYYMAQ LPRNPKKSGR
+     AASREVREQF TQALSDYLMQ NPELKSRVLR GRSEWEKYGA GIIHNPPSLF DVPHKWYQGA
+     QEAAIATREE LAEMDETLMR ARRHSYSSFS KLLEAYLLVK WRMCEAREPS VDLRLPLCAG
+     IDPLNSDPFL KMVSVGPMLQ STRKYFAQTL FMAKTVSGLD VNAIDSALLR LRTLGADKKA
+     LTAQLLMVGL QESEADALAG KIMLQDVNTV QLARVVNLAV PDTWMSLDFD SMFKHHVKLL
+     PKDGRHLNTD IPPRMGWLRA ILRFLGAGMV MTATGVAVDI YLEDIHGGGR SLGQRFMTWM
+     RQEGRSA
+//
+ID   RDRP_REOVL              Reviewed;        1267 AA.
+AC   P0CK32; A4ZY20; P17376; P17378; Q85665;
+DT   14-DEC-2011, integrated into UniProtKB/Swiss-Prot.
+DT   14-DEC-2011, sequence version 1.
+DT   27-MAY-2015, entry version 15.
+DE   RecName: Full=RNA-directed RNA polymerase lambda-3;
+DE            Short=Lambda3;
+DE            EC=2.7.7.48;
+DE   AltName: Full=Lambda3(Pol);
+GN   Name=L1;
+OS   Reovirus type 1 (strain Lang) (T1L) (Mammalian orthoreovirus 1).
+OC   Viruses; dsRNA viruses; Reoviridae; Spinareovirinae; Orthoreovirus.
+OX   NCBI_TaxID=10884;
+OH   NCBI_TaxID=40674; Mammalia.
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC RNA].
+RX   PubMed=2922925; DOI=10.1016/0042-6822(89)90055-X;
+RA   Wiener J.R., Joklik W.K.;
+RT   "The sequences of the reovirus serotype 1, 2, and 3 L1 genome segments
+RT   and analysis of the mode of divergence of the reovirus serotypes.";
+RL   Virology 169:194-203(1989).
+RN   [2]
+RP   STRUCTURE BY ELECTRON MICROSCOPY (7.0 ANGSTROMS).
+RX   PubMed=16216585; DOI=10.1016/j.str.2005.07.012;
+RA   Zhang X., Ji Y., Zhang L., Harrison S.C., Marinescu D.C., Nibert M.L.,
+RA   Baker T.S.;
+RT   "Features of reovirus outer capsid protein mu1 revealed by electron
+RT   cryomicroscopy and image reconstruction of the virion at 7.0 Angstrom
+RT   resolution.";
+RL   Structure 13:1545-1557(2005).
+CC   -!- FUNCTION: RNA-directed RNA polymerase that is involved in
+CC       transcription and genome replication. Following infection, it
+CC       catalyzes the synthesis of fully conservative plus strands. After
+CC       core assembly, which consists in recruitment of one capped plus-
+CC       strand for each genomic segments and polymerase complexes, the
+CC       polymerase switches mode and catalyzes the synthesis of
+CC       complementary minus-strands.
+CC   -!- CATALYTIC ACTIVITY: Nucleoside triphosphate + RNA(n) = diphosphate
+CC       + RNA(n+1). {ECO:0000255|PROSITE-ProRule:PRU00539}.
+CC   -!- SUBCELLULAR LOCATION: Virion {ECO:0000305}. Note=Found in the
+CC       inner capsid (12 copies).
+CC   -!- SIMILARITY: Belongs to the reoviridae RNA-directed RNA polymerase
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 RdRp catalytic domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00539}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M24734; AAA47234.1; -; Genomic_RNA.
+DR   PIR; A30121; MWXR31.
+DR   PDB; 2CSE; EM; 7.00 A; 1=1-1267.
+DR   PDBsum; 2CSE; -.
+DR   ProteinModelPortal; P0CK32; -.
+DR   PRIDE; P0CK32; -.
+DR   EvolutionaryTrace; P0CK32; -.
+DR   Proteomes; UP000007253; Genome.
+DR   GO; GO:0019013; C:viral nucleocapsid; IEA:InterPro.
+DR   GO; GO:0000166; F:nucleotide binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003723; F:RNA binding; IEA:InterPro.
+DR   GO; GO:0003968; F:RNA-directed RNA polymerase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0019079; P:viral genome replication; IEA:InterPro.
+DR   InterPro; IPR012915; RdRP_5.
+DR   InterPro; IPR007097; RNA-dir_pol_reovirus.
+DR   Pfam; PF07925; RdRP_5; 1.
+DR   PROSITE; PS50523; RDRP_DSRNA_REO; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Capsid protein; Complete proteome; Nucleotide-binding;
+KW   Nucleotidyltransferase; Reference proteome;
+KW   RNA-directed RNA polymerase; Transferase; Viral RNA replication;
+KW   Virion.
+FT   CHAIN         1   1267       RNA-directed RNA polymerase lambda-3.
+FT                                /FTId=PRO_0000222745.
+FT   DOMAIN      555    792       RdRp catalytic. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00539}.
+SQ   SEQUENCE   1267 AA;  142355 MW;  157EBFD4D664FCDB CRC64;
+     MSSMILTQFR PFIESISGIT DQSNDVFEDA AKAFSMFTRS DVYKALDEIP FSDDAMLPIP
+     PTIYTKPSHD SYYYIDALNR VRRKTYQGPD DVYVPNCSIV ELLEPHETLT SYGRLSEAIE
+     NRAKDGDSQA RIATTYGRIA ESQARQIKAP LEKFVLALLV SEAGGSLYDP VLQKYDEIPD
+     LSHNCPLWCF REICRHISGP LPDRAPYLYL SAGVFWLMSP RMTSAIPPLL SDLVNLAILQ
+     QTAGLDPSLV KLGVQICLHA AASSSYAWFI LKTKSIFPQN TLHSMYESLE GGYCPNLEWL
+     EPRSDYKFMY MGVMPLSTKY ARSAPSNDKK ARELGEKYGL SSVVSELRKR TKTYVKHDFA
+     SVRYIRDAMA CTSGIFLVRT PTETVLQEYT QSPEIKVPIP QKDWTGPVGE IRILKDTTSS
+     IARYLYRTWY LAAARMAAQP RTWDPLFQAI MRSQYVTARG GSGAALRESL YAINVSLPDF
+     KGLPVKAATK IFQAAQLANL PFSHTSVAIL ADTSMGLRNQ VQRRPRSIMP LNVPQQQVSA
+     PHTLTADYIN YHMNLSTTSG SAVIEKVIPL GVYASSPPNQ SINIDISACD ASITWDFFLS
+     VIMAAIHEGV ASGSIGKPFM GVPASIVNDE SVVGVRAARP ISGMQNMIQH LSKLYKRGFS
+     YRVNDSFSPG NDFTHMTTTF PSGSTATSTE HTANNSTMME TFLTVWGPEH TDDPDVLRLM
+     KSLTIQRNYV CQGDDGLMII DGNTAGKVNS ETIQKMLELI SKYGEEFGWK YDIAYDGTAE
+     YLKLYFIFGC RIPNLSRHPI VGKERANSSA EEPWPAILDQ IMGIFFNGVH DGLQWQRWIR
+     YSWALCCAFS RQRTMIGESV GYLQYPMWSF VYWGLPLVKV FGSDPWIFSW YMPTGDLGMY
+     SWISLIRPLM TRWMVANGYA TDRCSPVFGN ADYRRCFNEI KLYQGYYMAQ LPRNPTKSGR
+     AAPREVREQF TQALSDYLMQ NPELKSRVLR GRSEWEKYGA GIIHNPPSLF DVPHKWYLGA
+     QEAATATREE LAEMDETLMR ARRHSYSSFS KLLEAYLLVK WRMCEAREPS VDLRLPLCAG
+     IDPLNSDPFL KMVSVGPMLQ STRKYFAQTL FMAKTVSGLD VNAIDSALLR LRTLGADKKA
+     LTAQLLMVGL QESEADALAG KIMLQDVSTV QLARVVNLAV PDTWMSLDFD SMFKHHVKLL
+     PKDGRHLNTD IPPRMGWLRA ILRFLGAGMV MTATGVAVDI YLEDIHGGGR ALGQRFMTWM
+     RQEGRSA
+//

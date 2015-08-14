@@ -1,0 +1,249 @@
+ID   AMPP_ECOLI              Reviewed;         441 AA.
+AC   P15034; Q2M9T3;
+DT   01-APR-1990, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 2.
+DT   22-JUL-2015, entry version 155.
+DE   RecName: Full=Xaa-Pro aminopeptidase;
+DE            EC=3.4.11.9;
+DE   AltName: Full=Aminoacylproline aminopeptidase;
+DE   AltName: Full=Aminopeptidase P II;
+DE            Short=APP-II;
+DE   AltName: Full=X-Pro aminopeptidase;
+GN   Name=pepP; OrderedLocusNames=b2908, JW2876;
+OS   Escherichia coli (strain K12).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=83333;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], PROTEIN SEQUENCE OF 2-21, AND
+RP   CHARACTERIZATION.
+RC   STRAIN=ATCC 33694 / HB101;
+RX   PubMed=2659585;
+RA   Yoshimoto T., Tone H., Honda T., Osatomi K., Kobayashi R., Tsuru D.;
+RT   "Sequencing and high expression of aminopeptidase P gene from
+RT   Escherichia coli HB101.";
+RL   J. Biochem. 105:412-416(1989).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 33694 / HB101;
+RX   PubMed=1339425;
+RA   Nakahigashi K., Miyamoto K., Nishimura K., Inokuchi H.;
+RT   "Isolation and characterization of a light-sensitive mutant of
+RT   Escherichia coli K-12 with a mutation in a gene that is required for
+RT   the biosynthesis of ubiquinone.";
+RL   J. Bacteriol. 174:7352-7359(1992).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / MG1655 / ATCC 47076;
+RX   PubMed=9278503; DOI=10.1126/science.277.5331.1453;
+RA   Blattner F.R., Plunkett G. III, Bloch C.A., Perna N.T., Burland V.,
+RA   Riley M., Collado-Vides J., Glasner J.D., Rode C.K., Mayhew G.F.,
+RA   Gregor J., Davis N.W., Kirkpatrick H.A., Goeden M.A., Rose D.J.,
+RA   Mau B., Shao Y.;
+RT   "The complete genome sequence of Escherichia coli K-12.";
+RL   Science 277:1453-1462(1997).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / W3110 / ATCC 27325 / DSM 5911;
+RX   PubMed=16738553; DOI=10.1038/msb4100049;
+RA   Hayashi K., Morooka N., Yamamoto Y., Fujita K., Isono K., Choi S.,
+RA   Ohtsubo E., Baba T., Wanner B.L., Mori H., Horiuchi T.;
+RT   "Highly accurate genome sequences of Escherichia coli K-12 strains
+RT   MG1655 and W3110.";
+RL   Mol. Syst. Biol. 2:E1-E5(2006).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS).
+RX   PubMed=9520390; DOI=10.1073/pnas.95.7.3472;
+RA   Wilce M.C.J., Bond C.S., Dixon N.E., Freeman H.C., Guss J.M.,
+RA   Lilley P.E., Wilce J.A.;
+RT   "Structure and mechanism of a proline-specific aminopeptidase from
+RT   Escherichia coli.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 95:3472-3477(1998).
+CC   -!- CATALYTIC ACTIVITY: Release of any N-terminal amino acid,
+CC       including proline, that is linked to proline, even from a
+CC       dipeptide or tripeptide.
+CC   -!- COFACTOR:
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC       Note=Binds 2 manganese ions per subunit.;
+CC   -!- SUBUNIT: Homotetramer.
+CC   -!- INTERACTION:
+CC       P60560:guaC; NbExp=2; IntAct=EBI-554801, EBI-544491;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm.
+CC   -!- SIMILARITY: Belongs to the peptidase M24B family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; D00398; BAA00299.1; -; Genomic_DNA.
+DR   EMBL; D90281; BAA14325.1; -; Genomic_DNA.
+DR   EMBL; U28377; AAA69076.1; -; Genomic_DNA.
+DR   EMBL; U00096; AAC75946.1; -; Genomic_DNA.
+DR   EMBL; AP009048; BAE76973.1; -; Genomic_DNA.
+DR   PIR; JX0067; DPECP.
+DR   RefSeq; NP_417384.1; NC_000913.3.
+DR   RefSeq; WP_001290136.1; NZ_CP010445.1.
+DR   PDB; 1A16; X-ray; 2.30 A; A=2-441.
+DR   PDB; 1JAW; X-ray; 2.70 A; A=2-441.
+DR   PDB; 1M35; X-ray; 2.40 A; A/B/C/D/E/F=2-441.
+DR   PDB; 1N51; X-ray; 2.30 A; A=2-441.
+DR   PDB; 1W2M; X-ray; 2.40 A; A/B/C/D/E/F=2-441.
+DR   PDB; 1W7V; X-ray; 2.00 A; A/B/C/D=2-441.
+DR   PDB; 1WBQ; X-ray; 2.30 A; A/B/C/D=2-441.
+DR   PDB; 1WL6; X-ray; 2.00 A; A=2-441.
+DR   PDB; 1WL9; X-ray; 1.90 A; A=2-441.
+DR   PDB; 1WLR; X-ray; 2.10 A; A=2-441.
+DR   PDB; 2BH3; X-ray; 2.40 A; A=2-441.
+DR   PDB; 2BHA; X-ray; 2.40 A; A=2-441.
+DR   PDB; 2BHB; X-ray; 2.41 A; A=2-441.
+DR   PDB; 2BHC; X-ray; 2.40 A; A=2-441.
+DR   PDB; 2BHD; X-ray; 2.50 A; A=2-441.
+DR   PDB; 2BN7; X-ray; 2.40 A; A=2-441.
+DR   PDB; 2BWS; X-ray; 1.75 A; A=2-441.
+DR   PDB; 2BWT; X-ray; 2.90 A; A=2-441.
+DR   PDB; 2BWU; X-ray; 2.20 A; A=2-441.
+DR   PDB; 2BWV; X-ray; 1.70 A; A=2-441.
+DR   PDB; 2BWW; X-ray; 2.61 A; A=2-441.
+DR   PDB; 2BWX; X-ray; 1.70 A; A=2-441.
+DR   PDB; 2BWY; X-ray; 2.40 A; A=2-441.
+DR   PDB; 2V3X; X-ray; 1.70 A; A=2-441.
+DR   PDB; 2V3Y; X-ray; 1.60 A; A=2-441.
+DR   PDB; 2V3Z; X-ray; 1.56 A; A=2-441.
+DR   PDBsum; 1A16; -.
+DR   PDBsum; 1JAW; -.
+DR   PDBsum; 1M35; -.
+DR   PDBsum; 1N51; -.
+DR   PDBsum; 1W2M; -.
+DR   PDBsum; 1W7V; -.
+DR   PDBsum; 1WBQ; -.
+DR   PDBsum; 1WL6; -.
+DR   PDBsum; 1WL9; -.
+DR   PDBsum; 1WLR; -.
+DR   PDBsum; 2BH3; -.
+DR   PDBsum; 2BHA; -.
+DR   PDBsum; 2BHB; -.
+DR   PDBsum; 2BHC; -.
+DR   PDBsum; 2BHD; -.
+DR   PDBsum; 2BN7; -.
+DR   PDBsum; 2BWS; -.
+DR   PDBsum; 2BWT; -.
+DR   PDBsum; 2BWU; -.
+DR   PDBsum; 2BWV; -.
+DR   PDBsum; 2BWW; -.
+DR   PDBsum; 2BWX; -.
+DR   PDBsum; 2BWY; -.
+DR   PDBsum; 2V3X; -.
+DR   PDBsum; 2V3Y; -.
+DR   PDBsum; 2V3Z; -.
+DR   ProteinModelPortal; P15034; -.
+DR   SMR; P15034; 2-441.
+DR   DIP; DIP-10459N; -.
+DR   IntAct; P15034; 10.
+DR   MINT; MINT-1252312; -.
+DR   STRING; 511145.b2908; -.
+DR   MEROPS; M24.004; -.
+DR   PaxDb; P15034; -.
+DR   PRIDE; P15034; -.
+DR   EnsemblBacteria; AAC75946; AAC75946; b2908.
+DR   EnsemblBacteria; BAE76973; BAE76973; BAE76973.
+DR   GeneID; 947385; -.
+DR   KEGG; eco:b2908; -.
+DR   PATRIC; 32121230; VBIEscCol129921_3003.
+DR   EchoBASE; EB0691; -.
+DR   EcoGene; EG10697; pepP.
+DR   eggNOG; COG0006; -.
+DR   HOGENOM; HOG000008762; -.
+DR   InParanoid; P15034; -.
+DR   KO; K01262; -.
+DR   OMA; EIHHEFT; -.
+DR   OrthoDB; EOG6XHC3N; -.
+DR   PhylomeDB; P15034; -.
+DR   BioCyc; EcoCyc:EG10697-MONOMER; -.
+DR   BioCyc; ECOL316407:JW2876-MONOMER; -.
+DR   BioCyc; MetaCyc:EG10697-MONOMER; -.
+DR   BRENDA; 3.1.8.1; 2026.
+DR   BRENDA; 3.4.11.9; 2026.
+DR   EvolutionaryTrace; P15034; -.
+DR   PRO; PR:P15034; -.
+DR   Proteomes; UP000000318; Chromosome.
+DR   Proteomes; UP000000625; Chromosome.
+DR   GO; GO:0005829; C:cytosol; IDA:UniProtKB.
+DR   GO; GO:0004177; F:aminopeptidase activity; IDA:EcoCyc.
+DR   GO; GO:0030145; F:manganese ion binding; IEA:InterPro.
+DR   GO; GO:0008235; F:metalloexopeptidase activity; IEA:InterPro.
+DR   Gene3D; 3.40.350.10; -; 1.
+DR   Gene3D; 3.90.230.10; -; 1.
+DR   InterPro; IPR007865; Aminopep_P_N.
+DR   InterPro; IPR029149; Creatin/AminoP/Spt16_NTD.
+DR   InterPro; IPR028980; Creatinase/Aminopeptidase_P_N.
+DR   InterPro; IPR001714; Pept_M24_MAP.
+DR   InterPro; IPR000994; Pept_M24_structural-domain.
+DR   InterPro; IPR001131; Peptidase_M24B_aminopep-P_CS.
+DR   Pfam; PF05195; AMP_N; 1.
+DR   Pfam; PF00557; Peptidase_M24; 1.
+DR   PRINTS; PR00599; MAPEPTIDASE.
+DR   SMART; SM01011; AMP_N; 1.
+DR   SUPFAM; SSF53092; SSF53092; 1.
+DR   SUPFAM; SSF55920; SSF55920; 1.
+DR   PROSITE; PS00491; PROLINE_PEPTIDASE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Aminopeptidase; Complete proteome; Cytoplasm;
+KW   Direct protein sequencing; Hydrolase; Manganese; Metal-binding;
+KW   Metalloprotease; Protease; Reference proteome.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:2659585}.
+FT   CHAIN         2    441       Xaa-Pro aminopeptidase.
+FT                                /FTId=PRO_0000185075.
+FT   METAL       261    261       Manganese 2.
+FT   METAL       272    272       Manganese 1.
+FT   METAL       272    272       Manganese 2.
+FT   METAL       355    355       Manganese 1.
+FT   METAL       384    384       Manganese 1.
+FT   METAL       407    407       Manganese 1.
+FT   METAL       407    407       Manganese 2.
+FT   HELIX         6     19       {ECO:0000244|PDB:2V3Z}.
+FT   STRAND       22     29       {ECO:0000244|PDB:2V3Z}.
+FT   STRAND       35     37       {ECO:0000244|PDB:2V3Z}.
+FT   HELIX        48     54       {ECO:0000244|PDB:2V3Z}.
+FT   STRAND       62     67       {ECO:0000244|PDB:2V3Z}.
+FT   STRAND       69     71       {ECO:0000244|PDB:2V3Z}.
+FT   STRAND       73     79       {ECO:0000244|PDB:2V3Z}.
+FT   HELIX        84     90       {ECO:0000244|PDB:2V3Z}.
+FT   HELIX        95    103       {ECO:0000244|PDB:2V3Z}.
+FT   STRAND      106    110       {ECO:0000244|PDB:2V3Z}.
+FT   HELIX       111    113       {ECO:0000244|PDB:2V3Z}.
+FT   HELIX       114    122       {ECO:0000244|PDB:2V3Z}.
+FT   STRAND      126    129       {ECO:0000244|PDB:2V3Z}.
+FT   HELIX       136    150       {ECO:0000244|PDB:2V3Z}.
+FT   HELIX       153    155       {ECO:0000244|PDB:2V3Z}.
+FT   STRAND      161    164       {ECO:0000244|PDB:2V3Z}.
+FT   HELIX       167    175       {ECO:0000244|PDB:2V3Z}.
+FT   HELIX       179    202       {ECO:0000244|PDB:2V3Z}.
+FT   HELIX       209    222       {ECO:0000244|PDB:2V3Z}.
+FT   STRAND      227    230       {ECO:0000244|PDB:2V3Z}.
+FT   STRAND      233    236       {ECO:0000244|PDB:2V3Z}.
+FT   HELIX       237    241       {ECO:0000244|PDB:2V3Z}.
+FT   STRAND      257    262       {ECO:0000244|PDB:2V3Z}.
+FT   STRAND      264    266       {ECO:0000244|PDB:2V3Z}.
+FT   STRAND      273    278       {ECO:0000244|PDB:2V3Z}.
+FT   HELIX       285    304       {ECO:0000244|PDB:2V3Z}.
+FT   HELIX       311    328       {ECO:0000244|PDB:2V3Z}.
+FT   HELIX       336    341       {ECO:0000244|PDB:2V3Z}.
+FT   TURN        342    348       {ECO:0000244|PDB:2V3Z}.
+FT   STRAND      358    362       {ECO:0000244|PDB:2V3Z}.
+FT   HELIX       369    371       {ECO:0000244|PDB:2V3Z}.
+FT   STRAND      380    383       {ECO:0000244|PDB:2V3Z}.
+FT   STRAND      386    389       {ECO:0000244|PDB:2V3Z}.
+FT   HELIX       397    399       {ECO:0000244|PDB:2V3Z}.
+FT   STRAND      402    405       {ECO:0000244|PDB:2V3Z}.
+FT   STRAND      407    413       {ECO:0000244|PDB:2V3Z}.
+FT   STRAND      416    421       {ECO:0000244|PDB:2V3Z}.
+FT   HELIX       428    439       {ECO:0000244|PDB:2V3Z}.
+SQ   SEQUENCE   441 AA;  49815 MW;  80A6A5BDD86D84B1 CRC64;
+     MSEISRQEFQ RRRQALVEQM QPGSAALIFA APEVTRSADS EYPYRQNSDF WYFTGFNEPE
+     AVLVLIKSDD THNHSVLFNR VRDLTAEIWF GRRLGQDAAP EKLGVDRALA FSEINQQLYQ
+     LLNGLDVVYH AQGEYAYADV IVNSALEKLR KGSRQNLTAP ATMIDWRPVV HEMRLFKSPE
+     EIAVLRRAGE ITAMAHTRAM EKCRPGMFEY HLEGEIHHEF NRHGARYPSY NTIVGSGENG
+     CILHYTENEC EMRDGDLVLI DAGCEYKGYA GDITRTFPVN GKFTQAQREI YDIVLESLET
+     SLRLYRPGTS ILEVTGEVVR IMVSGLVKLG ILKGDVDELI AQNAHRPFFM HGLSHWLGLD
+     VHDVGVYGQD RSRILEPGMV LTVEPGLYIA PDAEVPEQYR GIGIRIEDDI VITETGNENL
+     TASVVKKPEE IEALMVAARK Q
+//

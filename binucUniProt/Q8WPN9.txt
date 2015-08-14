@@ -1,0 +1,107 @@
+ID   Q8WPN9_TOXGO            Unreviewed;       331 AA.
+AC   Q8WPN9; B6KJN3; B9PGQ0; B9Q4W3;
+DT   01-MAR-2002, integrated into UniProtKB/TrEMBL.
+DT   01-JUN-2003, sequence version 2.
+DT   24-JUN-2015, entry version 75.
+DE   SubName: Full=Serine-threonine phosophatase 2C {ECO:0000313|EMBL:CAC86553.2};
+DE   SubName: Full=Serine-threonine phosophatase 2C (PP2C) {ECO:0000313|EMBL:ESS35704.1};
+DE            EC=3.1.3.16 {ECO:0000313|EMBL:ESS35704.1};
+GN   ORFNames=TGVEG_231850 {ECO:0000313|EMBL:ESS35704.1};
+OS   Toxoplasma gondii.
+OC   Eukaryota; Alveolata; Apicomplexa; Conoidasida; Coccidia;
+OC   Eucoccidiorida; Eimeriorina; Sarcocystidae; Toxoplasma.
+OX   NCBI_TaxID=5811 {ECO:0000313|EMBL:CAC86553.2};
+RN   [1] {ECO:0000313|EMBL:CAC86553.2}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Delorme V.D.;
+RL   Thesis (2002), Department of Biological Sciences, University of Paris
+RL   VII, Paris, France.
+RN   [2] {ECO:0000313|EMBL:CAC86553.2}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=12802063; DOI=10.1091/mbc.E02-08-0462;
+RA   Delorme V., Cayla X., Faure G., Garcia A., Tardieux I.;
+RT   "Actin dynamics is controlled by a casein kinase II and phosphatase 2C
+RT   interplay on Toxoplasma gondii Toxofilin.";
+RL   Mol. Biol. Cell 14:1900-1912(2003).
+RN   [3] {ECO:0000313|EMBL:CAC86553.2}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Tardieux I.C., Delorme V.D., Roos D.S.;
+RT   "PP2C and Toxofilin are controlling Toxoplasma gondii tachyzoite
+RT   motility and invasiveness.";
+RL   Submitted (JAN-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [4] {ECO:0000313|EMBL:CAC86553.2}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Delorme V.D., Tardieux I.C.;
+RT   "The casein kinase II of Toxoplasma gondii is regulated by the co-
+RT   associated PP2C.";
+RL   Submitted (JAN-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [5] {ECO:0000213|PDB:2I44}
+RP   X-RAY CRYSTALLOGRAPHY (2.04 ANGSTROMS) OF 10-331 IN COMPLEX WITH
+RP   CALCIUM.
+RX   PubMed=18058037; DOI=10.1007/s10969-007-9036-1;
+RA   Almo S.C., Bonanno J.B., Sauder J.M., Emtage S., Dilorenzo T.P.,
+RA   Malashkevich V., Wasserman S.R., Swaminathan S., Eswaramoorthy S.,
+RA   Agarwal R., Kumaran D., Madegowda M., Ragumani S., Patskovsky Y.,
+RA   Alvarado J., Ramagopal U.A., Faber-Barata J., Chance M.R., Sali A.,
+RA   Fiser A., Zhang Z.Y., Lawrence D.S., Burley S.K.;
+RT   "Structural genomics of protein phosphatases.";
+RL   J. Struct. Funct. Genomics 8:121-140(2007).
+RN   [6] {ECO:0000313|EMBL:ESS35704.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=VEG {ECO:0000313|EMBL:ESS35704.1};
+RA   Paulsen I.;
+RL   Submitted (MAR-2007) to the EMBL/GenBank/DDBJ databases.
+RN   [7] {ECO:0000313|Proteomes:UP000002226}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 50861 / VEG {ECO:0000313|Proteomes:UP000002226};
+RA   Lorenzi H., Inman J., Amedeo P., Brunk B., Roos D., Caler E.;
+RT   "Annotation of Toxoplasma gondii VEG.";
+RL   Submitted (MAR-2008) to the EMBL/GenBank/DDBJ databases.
+RN   [8] {ECO:0000313|EMBL:ESS35704.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=VEG {ECO:0000313|EMBL:ESS35704.1};
+RA   Sibley D., Venepally P., Karamycheva S., Hadjithomas M., Khan A.,
+RA   Brunk B., Roos D., Caler E., Lorenzi H.;
+RL   Submitted (AUG-2013) to the EMBL/GenBank/DDBJ databases.
+CC   -!- SIMILARITY: Contains PPM-type phosphatase domain.
+CC       {ECO:0000256|SAAS:SAAS00199555}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AJ315476; CAC86553.2; -; mRNA.
+DR   EMBL; AAYL02000021; ESS35704.1; -; Genomic_DNA.
+DR   PDB; 2I44; X-ray; 2.04 A; A/B/C=10-331.
+DR   PDBsum; 2I44; -.
+DR   STRING; 5811.TGME49_031850; -.
+DR   EuPathDB; ToxoDB:TGME49_231850; -.
+DR   OMA; QYSRAFG; -.
+DR   Proteomes; UP000002226; Partially assembled WGS sequence.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004721; F:phosphoprotein phosphatase activity; IEA:UniProtKB-EC.
+DR   Gene3D; 3.60.40.10; -; 1.
+DR   InterPro; IPR015655; PP2C.
+DR   InterPro; IPR001932; PPM-type_phosphatase_dom.
+DR   PANTHER; PTHR13832; PTHR13832; 1.
+DR   Pfam; PF00481; PP2C; 1.
+DR   SMART; SM00331; PP2C_SIG; 1.
+DR   SMART; SM00332; PP2Cc; 1.
+DR   SUPFAM; SSF81606; SSF81606; 1.
+DR   PROSITE; PS51746; PPM_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2I44}; Calcium {ECO:0000213|PDB:2I44};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002226};
+KW   Hydrolase {ECO:0000313|EMBL:ESS35704.1};
+KW   Metal-binding {ECO:0000213|PDB:2I44};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000002226}.
+FT   METAL        67     67       Calcium. {ECO:0000213|PDB:2I44}.
+FT   METAL       273    273       Calcium. {ECO:0000213|PDB:2I44}.
+FT   METAL       318    318       Calcium. {ECO:0000213|PDB:2I44}.
+SQ   SEQUENCE   331 AA;  36791 MW;  A9BF1E2BA6E034AB CRC64;
+     MKSSAEIRRT MDVPPTIHVP LPPTSYPAFD AAIFTDIGGR KHQEDRFTLC PQLVPGRDDC
+     AFFGVFDGTV GDFASENVKD LVVPQLISSP AWQEVTEMLR SDVPATEVDE KLPQLLDQAV
+     DDMYKNADNE LVKMCEQLNK DYASSTSVTA VLAKGFVAVG HLGDSRIAMG VETPNGLNCE
+     FLTVDHKPDM PHEKLRIMRN GGSVEYLHNH NNKPFIRGGD FSFRKSRGEQ PMQLQYSRAF
+     GGKDLKMYGL SNQPDVRVVR VTPQHRVMIL ATDGLWDVMS AAQAVEIAMQ ARQEGRNPAQ
+     ALVEMTLAEQ QSRNQSADNI TAMTVFFKKT D
+//

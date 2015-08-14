@@ -1,0 +1,151 @@
+ID   DPS_HALSA               Reviewed;         182 AA.
+AC   Q9HMP7;
+DT   10-JAN-2003, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAR-2001, sequence version 1.
+DT   22-JUL-2015, entry version 96.
+DE   RecName: Full=DNA protection during starvation protein;
+DE            EC=1.16.-.-;
+DE   AltName: Full=Bacterioferritin DpsA;
+GN   Name=dps; Synonyms=dpsA; OrderedLocusNames=VNG_2443G;
+GN   ORFNames=OE4427R;
+OS   Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1)
+OS   (Halobacterium halobium).
+OC   Archaea; Euryarchaeota; Halobacteria; Halobacteriales;
+OC   Halobacteriaceae; Halobacterium.
+OX   NCBI_TaxID=64091;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RA   Oesterhelt D., Pfeiffer F.;
+RL   Unpublished observations (NOV-2001).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 700922 / JCM 11081 / NRC-1;
+RX   PubMed=11016950; DOI=10.1073/pnas.190337797;
+RA   Ng W.V., Kennedy S.P., Mahairas G.G., Berquist B., Pan M.,
+RA   Shukla H.D., Lasky S.R., Baliga N.S., Thorsson V., Sbrogna J.,
+RA   Swartzell S., Weir D., Hall J., Dahl T.A., Welti R., Goo Y.A.,
+RA   Leithauser B., Keller K., Cruz R., Danson M.J., Hough D.W.,
+RA   Maddocks D.G., Jablonski P.E., Krebs M.P., Angevine C.M., Dale H.,
+RA   Isenbarger T.A., Peck R.F., Pohlschroder M., Spudich J.L., Jung K.-H.,
+RA   Alam M., Freitas T., Hou S., Daniels C.J., Dennis P.P., Omer A.D.,
+RA   Ebhardt H., Lowe T.M., Liang P., Riley M., Hood L., DasSarma S.;
+RT   "Genome sequence of Halobacterium species NRC-1.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 97:12176-12181(2000).
+RN   [3]
+RP   PROTEIN SEQUENCE OF 23-37, CIRCULAR DICHROISM ANALYSIS, AND PARTIAL
+RP   CHARACTERIZATION.
+RC   STRAIN=ATCC 33171 / DSM 3754 / JCM 8978 / NCIMB 764 / NRC 34002;
+RX   PubMed=12147354; DOI=10.1016/S0167-4838(02)00361-8;
+RA   Reindel S., Anemueller S., Sawaryn A., Matzanke B.F.;
+RT   "The DpsA-homologue of the archaeon Halobacterium salinarum is a
+RT   ferritin.";
+RL   Biochim. Biophys. Acta 1598:140-146(2002).
+RN   [4]
+RP   PROTEIN SEQUENCE OF N-TERMINUS, X-RAY CRYSTALLOGRAPHY (1.6 ANGSTROMS)
+RP   IN COMPLEX WITH IRON, AND SUBUNIT.
+RX   PubMed=15365182; DOI=10.1073/pnas.0401821101;
+RA   Zeth K., Offermann S., Essen L.-O., Oesterhelt D.;
+RT   "Iron-oxo clusters biomineralizing on protein surfaces: structural
+RT   analysis of Halobacterium salinarum DpsA in its low- and high-iron
+RT   states.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 101:13780-13785(2004).
+CC   -!- FUNCTION: Protects DNA from oxidative damage by sequestering
+CC       intracellular Fe(2+) ion and storing it in the form of Fe(3+)
+CC       oxyhydroxide mineral. One hydrogen peroxide oxidizes two Fe(2+)
+CC       ions, which prevents hydroxyl radical production by the Fenton
+CC       reaction (By similarity). {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: 2 Fe(2+) + H(2)O(2) + 2 H(+) = 2 Fe(3+) + 2
+CC       H(2)O.
+CC   -!- SUBUNIT: Homododecamer. The 12 subunits form a hollow sphere into
+CC       which the mineral iron core of up to 110 Fe(3+) can be deposited.
+CC       {ECO:0000269|PubMed:15365182}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250}.
+CC   -!- PTM: The N-terminus is blocked.
+CC   -!- MISCELLANEOUS: The dps dodecamer comprises iron-binding sites for
+CC       iron translocation, oxidation and nucleation. Fe(2+) atoms are
+CC       initially bound to the outer surface in proximity to the iron
+CC       entry pore from which they are translocated toward the inter-
+CC       subunit ferroxidase centers via two discrete steps. Iron oxidation
+CC       proceeds by transient formation of tri-iron ferroxidase centers
+CC       and Fe(3+) atoms move to two distinct iron nucleation centers
+CC       where iron mineralization occurs.
+CC   -!- SIMILARITY: Belongs to the Dps family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE004437; AAG20524.1; -; Genomic_DNA.
+DR   PIR; H84394; H84394.
+DR   RefSeq; NP_281044.1; NC_002607.1.
+DR   RefSeq; WP_010903826.1; NC_002607.1.
+DR   PDB; 1MOJ; X-ray; 1.90 A; A/B/C/D=1-182.
+DR   PDB; 1TJO; X-ray; 1.60 A; A/B/C/D=1-182.
+DR   PDB; 1TK6; X-ray; 2.20 A; A/B/C/D=1-182.
+DR   PDB; 1TKO; X-ray; 2.90 A; A/B/C/D=1-182.
+DR   PDB; 1TKP; X-ray; 2.20 A; A/B/C/D=1-182.
+DR   PDBsum; 1MOJ; -.
+DR   PDBsum; 1TJO; -.
+DR   PDBsum; 1TK6; -.
+DR   PDBsum; 1TKO; -.
+DR   PDBsum; 1TKP; -.
+DR   ProteinModelPortal; Q9HMP7; -.
+DR   SMR; Q9HMP7; 2-181.
+DR   STRING; 64091.VNG2443G; -.
+DR   PaxDb; Q9HMP7; -.
+DR   PRIDE; Q9HMP7; -.
+DR   EnsemblBacteria; AAG20524; AAG20524; VNG_2443G.
+DR   GeneID; 1448825; -.
+DR   KEGG; hal:VNG2443G; -.
+DR   eggNOG; COG0783; -.
+DR   InParanoid; Q9HMP7; -.
+DR   OMA; VWFLFES; -.
+DR   PhylomeDB; Q9HMP7; -.
+DR   EvolutionaryTrace; Q9HMP7; -.
+DR   Proteomes; UP000000554; Chromosome.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0008199; F:ferric iron binding; IEA:InterPro.
+DR   GO; GO:0016491; F:oxidoreductase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0006879; P:cellular iron ion homeostasis; IEA:UniProtKB-KW.
+DR   GO; GO:0006950; P:response to stress; IEA:InterPro.
+DR   Gene3D; 1.20.1260.10; -; 1.
+DR   InterPro; IPR002177; DPS_DNA-bd.
+DR   InterPro; IPR009078; Ferritin-like_SF.
+DR   InterPro; IPR012347; Ferritin-rel.
+DR   InterPro; IPR008331; Ferritin_DPS_dom.
+DR   Pfam; PF00210; Ferritin; 1.
+DR   PIRSF; PIRSF005900; Dps; 1.
+DR   PRINTS; PR01346; HELNAPAPROT.
+DR   SUPFAM; SSF47240; SSF47240; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Cytoplasm; Direct protein sequencing;
+KW   Iron; Iron storage; Metal-binding; Oxidoreductase; Reference proteome.
+FT   CHAIN         1    182       DNA protection during starvation protein.
+FT                                /FTId=PRO_0000201656.
+FT   METAL        52     52       Iron 1; shared with dodecameric partner.
+FT                                {ECO:0000269|PubMed:15365182}.
+FT   METAL        79     79       Iron 1. {ECO:0000269|PubMed:15365182}.
+FT   METAL        83     83       Iron 1. {ECO:0000269|PubMed:15365182}.
+FT   METAL        83     83       Iron 2. {ECO:0000255}.
+FT   SITE         53     53       Involved in iron translocation.
+FT   SITE         56     56       Involved in iron translocation.
+FT   SITE         75     75       Involved in iron nucleation.
+FT   SITE         85     85       Involved in iron translocation.
+FT   SITE         86     86       Involved in iron translocation.
+FT   SITE        154    154       Involved in iron nucleation.
+FT   SITE        164    164       Involved in iron translocation.
+FT   SITE        168    168       Involved in iron translocation.
+FT   SITE        171    171       Involved in iron translocation.
+FT   TURN         18     21       {ECO:0000244|PDB:1TJO}.
+FT   HELIX        24     54       {ECO:0000244|PDB:1TJO}.
+FT   HELIX        60     87       {ECO:0000244|PDB:1TJO}.
+FT   HELIX        96    102       {ECO:0000244|PDB:1TJO}.
+FT   STRAND      110    112       {ECO:0000244|PDB:1TJO}.
+FT   HELIX       115    142       {ECO:0000244|PDB:1TJO}.
+FT   HELIX       146    169       {ECO:0000244|PDB:1TJO}.
+FT   TURN        178    180       {ECO:0000244|PDB:1TJO}.
+SQ   SEQUENCE   182 AA;  20100 MW;  BC1EA5E7C5F61636 CRC64;
+     MSTQKNARAT AGEVEGSDAL RMDADRAEQC VDALNADLAN VYVLYHQLKK HHWNVEGAEF
+     RDLHLFLGEA AETAEEVADE LAERVQALGG VPHASPETLQ AEASVDVEDE DVYDIRTSLA
+     NDMAIYGDII EATREHTELA ENLGDHATAH MLREGLIELE DDAHHIEHYL EDDTLVTQGA
+     LE
+//

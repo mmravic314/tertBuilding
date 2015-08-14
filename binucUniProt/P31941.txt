@@ -1,0 +1,483 @@
+ID   ABC3A_HUMAN             Reviewed;         199 AA.
+AC   P31941; A0AVM1; Q12807; Q5JZ93; Q9UH18;
+DT   01-JUL-1993, integrated into UniProtKB/Swiss-Prot.
+DT   11-JAN-2001, sequence version 3.
+DT   22-JUL-2015, entry version 137.
+DE   RecName: Full=DNA dC->dU-editing enzyme APOBEC-3A;
+DE            Short=A3A;
+DE            EC=3.5.4.-;
+DE   AltName: Full=Phorbolin-1;
+GN   Name=APOBEC3A;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], PROTEIN SEQUENCE OF 19-27; 31-35; 53-60;
+RP   112-123; 129-137 AND 192-198, AND FUNCTION.
+RC   TISSUE=Keratinocyte;
+RX   PubMed=10469298; DOI=10.1046/j.1523-1747.1999.00682.x;
+RA   Madsen P.P., Anant S., Rasmussen H.H., Gromov P., Vorum H.,
+RA   Dumanski J.P., Tommerup N., Collins J.E., Wright C.L., Dunham I.,
+RA   Macginnitie A.J., Davidson N.O., Celis J.E.;
+RT   "Psoriasis upregulated phorbolin-1 shares structural but not
+RT   functional similarity to the mRNA-editing protein apobec-1.";
+RL   J. Invest. Dermatol. 113:162-169(1999).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RX   PubMed=15461802; DOI=10.1186/gb-2004-5-10-r84;
+RA   Collins J.E., Wright C.L., Edwards C.A., Davis M.P., Grinham J.A.,
+RA   Cole C.G., Goward M.E., Aguado B., Mallya M., Mokrab Y., Huckle E.J.,
+RA   Beare D.M., Dunham I.;
+RT   "A genome annotation-driven approach to cloning the human ORFeome.";
+RL   Genome Biol. 5:R84.1-R84.11(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=10591208; DOI=10.1038/990031;
+RA   Dunham I., Hunt A.R., Collins J.E., Bruskiewich R., Beare D.M.,
+RA   Clamp M., Smink L.J., Ainscough R., Almeida J.P., Babbage A.K.,
+RA   Bagguley C., Bailey J., Barlow K.F., Bates K.N., Beasley O.P.,
+RA   Bird C.P., Blakey S.E., Bridgeman A.M., Buck D., Burgess J.,
+RA   Burrill W.D., Burton J., Carder C., Carter N.P., Chen Y., Clark G.,
+RA   Clegg S.M., Cobley V.E., Cole C.G., Collier R.E., Connor R.,
+RA   Conroy D., Corby N.R., Coville G.J., Cox A.V., Davis J., Dawson E.,
+RA   Dhami P.D., Dockree C., Dodsworth S.J., Durbin R.M., Ellington A.G.,
+RA   Evans K.L., Fey J.M., Fleming K., French L., Garner A.A.,
+RA   Gilbert J.G.R., Goward M.E., Grafham D.V., Griffiths M.N.D., Hall C.,
+RA   Hall R.E., Hall-Tamlyn G., Heathcott R.W., Ho S., Holmes S.,
+RA   Hunt S.E., Jones M.C., Kershaw J., Kimberley A.M., King A.,
+RA   Laird G.K., Langford C.F., Leversha M.A., Lloyd C., Lloyd D.M.,
+RA   Martyn I.D., Mashreghi-Mohammadi M., Matthews L.H., Mccann O.T.,
+RA   Mcclay J., Mclaren S., McMurray A.A., Milne S.A., Mortimore B.J.,
+RA   Odell C.N., Pavitt R., Pearce A.V., Pearson D., Phillimore B.J.C.T.,
+RA   Phillips S.H., Plumb R.W., Ramsay H., Ramsey Y., Rogers L., Ross M.T.,
+RA   Scott C.E., Sehra H.K., Skuce C.D., Smalley S., Smith M.L.,
+RA   Soderlund C., Spragon L., Steward C.A., Sulston J.E., Swann R.M.,
+RA   Vaudin M., Wall M., Wallis J.M., Whiteley M.N., Willey D.L.,
+RA   Williams L., Williams S.A., Williamson H., Wilmer T.E., Wilming L.,
+RA   Wright C.L., Hubbard T., Bentley D.R., Beck S., Rogers J., Shimizu N.,
+RA   Minoshima S., Kawasaki K., Sasaki T., Asakawa S., Kudoh J.,
+RA   Shintani A., Shibuya K., Yoshizaki Y., Aoki N., Mitsuyama S.,
+RA   Roe B.A., Chen F., Chu L., Crabtree J., Deschamps S., Do A., Do T.,
+RA   Dorman A., Fang F., Fu Y., Hu P., Hua A., Kenton S., Lai H., Lao H.I.,
+RA   Lewis J., Lewis S., Lin S.-P., Loh P., Malaj E., Nguyen T., Pan H.,
+RA   Phan S., Qi S., Qian Y., Ray L., Ren Q., Shaull S., Sloan D., Song L.,
+RA   Wang Q., Wang Y., Wang Z., White J., Willingham D., Wu H., Yao Z.,
+RA   Zhan M., Zhang G., Chissoe S., Murray J., Miller N., Minx P.,
+RA   Fulton R., Johnson D., Bemis G., Bentley D., Bradshaw H., Bourne S.,
+RA   Cordes M., Du Z., Fulton L., Goela D., Graves T., Hawkins J.,
+RA   Hinds K., Kemp K., Latreille P., Layman D., Ozersky P., Rohlfing T.,
+RA   Scheet P., Walker C., Wamsley A., Wohldmann P., Pepin K., Nelson J.,
+RA   Korf I., Bedell J.A., Hillier L.W., Mardis E., Waterston R.,
+RA   Wilson R., Emanuel B.S., Shaikh T., Kurahashi H., Saitta S.,
+RA   Budarf M.L., McDermid H.E., Johnson A., Wong A.C.C., Morrow B.E.,
+RA   Edelmann L., Kim U.J., Shizuya H., Simon M.I., Dumanski J.P.,
+RA   Peyrard M., Kedra D., Seroussi E., Fransson I., Tapia I., Bruder C.E.,
+RA   O'Brien K.P., Wilkinson P., Bodenteich A., Hartman K., Hu X.,
+RA   Khan A.S., Lane L., Tilahun Y., Wright H.;
+RT   "The DNA sequence of human chromosome 22.";
+RL   Nature 402:489-495(1999).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Brain;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   PROTEIN SEQUENCE OF 53-60; 112-121 AND 129-137.
+RC   TISSUE=Keratinocyte;
+RX   PubMed=1286667; DOI=10.1002/elps.11501301199;
+RA   Rasmussen H.H., van Damme J., Puype M., Gesser B., Celis J.E.,
+RA   Vandekerckhove J.;
+RT   "Microsequences of 145 proteins recorded in the two-dimensional gel
+RT   protein database of normal human epidermal keratinocytes.";
+RL   Electrophoresis 13:960-969(1992).
+RN   [6]
+RP   GENE FAMILY ORGANIZATION, AND TISSUE SPECIFICITY.
+RX   PubMed=11863358; DOI=10.1006/geno.2002.6718;
+RA   Jarmuz A., Chester A., Bayliss J., Gisbourne J., Dunham I., Scott J.,
+RA   Navaratnam N.;
+RT   "An anthropoid-specific locus of orphan C to U RNA-editing enzymes on
+RT   chromosome 22.";
+RL   Genomics 79:285-296(2002).
+RN   [7]
+RP   REVIEW ON APOBEC FAMILIES.
+RX   PubMed=12683974; DOI=10.1016/S0168-9525(03)00054-4;
+RA   Wedekind J.E., Dance G.S.C., Sowden M.P., Smith H.C.;
+RT   "Messenger RNA editing in mammals: new members of the APOBEC family
+RT   seeking roles in the family business.";
+RL   Trends Genet. 19:207-216(2003).
+RN   [8]
+RP   FUNCTION IN HOST DEFENSE.
+RX   PubMed=12859895; DOI=10.1016/S0092-8674(03)00515-4;
+RA   Mariani R., Chen D., Schroefelbauer B., Navarro F., Koenig R.,
+RA   Bollman B., Muenk C., Nymark-McMahon H., Landau N.R.;
+RT   "Species-specific exclusion of APOBEC3G from HIV-1 virions by Vif.";
+RL   Cell 114:21-31(2003).
+RN   [9]
+RP   FUNCTION IN HOST DEFENSE, CATALYTIC ACTIVITY, SUBCELLULAR LOCATION,
+RP   MUTAGENESIS OF HIS-70; GLU-72 AND CYS-106, AND TISSUE SPECIFICITY.
+RX   PubMed=16527742; DOI=10.1016/j.cub.2006.01.031;
+RA   Chen H., Lilley C.E., Yu Q., Lee D.V., Chou J., Narvaiza I.,
+RA   Landau N.R., Weitzman M.D.;
+RT   "APOBEC3A is a potent inhibitor of adeno-associated virus and
+RT   retrotransposons.";
+RL   Curr. Biol. 16:480-485(2006).
+RN   [10]
+RP   REVIEW.
+RX   PubMed=18304004; DOI=10.1146/annurev.immunol.26.021607.090350;
+RA   Chiu Y.L., Greene W.C.;
+RT   "The APOBEC3 cytidine deaminases: an innate defensive network opposing
+RT   exogenous retroviruses and endogenous retroelements.";
+RL   Annu. Rev. Immunol. 26:317-353(2008).
+RN   [11]
+RP   FUNCTION IN AAV INHIBITION, AND SUBCELLULAR LOCATION.
+RX   PubMed=19461882; DOI=10.1371/journal.ppat.1000439;
+RA   Narvaiza I., Linfesty D.C., Greener B.N., Hakata Y., Pintel D.J.,
+RA   Logue E., Landau N.R., Weitzman M.D.;
+RT   "Deaminase-independent inhibition of parvoviruses by the APOBEC3A
+RT   cytidine deaminase.";
+RL   PLoS Pathog. 5:E1000439-E1000439(2009).
+RN   [12]
+RP   FUNCTION, CATALYTIC ACTIVITY, INDUCTION, AND ALTERNATIVE SPLICING
+RP   (ISOFORMS 1 AND 2).
+RX   PubMed=20615867; DOI=10.1074/jbc.M110.102822;
+RA   Thielen B.K., McNevin J.P., McElrath M.J., Hunt B.V., Klein K.C.,
+RA   Lingappa J.R.;
+RT   "Innate immune signaling induces high levels of TC-specific deaminase
+RT   activity in primary monocyte-derived cells through expression of
+RT   APOBEC3A isoforms.";
+RL   J. Biol. Chem. 285:27753-27766(2010).
+RN   [13]
+RP   FUNCTION IN FOREIGN DNA CLEARANCE, CATALYTIC ACTIVITY, TISSUE
+RP   SPECIFICITY, AND INDUCTION.
+RX   PubMed=20062055; DOI=10.1038/nsmb.1744;
+RA   Stenglein M.D., Burns M.B., Li M., Lengyel J., Harris R.S.;
+RT   "APOBEC3 proteins mediate the clearance of foreign DNA from human
+RT   cells.";
+RL   Nat. Struct. Mol. Biol. 17:222-229(2010).
+RN   [14]
+RP   TISSUE SPECIFICITY.
+RX   PubMed=20308164; DOI=10.1093/nar/gkq174;
+RA   Refsland E.W., Stenglein M.D., Shindo K., Albin J.S., Brown W.L.,
+RA   Harris R.S.;
+RT   "Quantitative profiling of the full APOBEC3 mRNA repertoire in
+RT   lymphocytes and tissues: implications for HIV-1 restriction.";
+RL   Nucleic Acids Res. 38:4274-4284(2010).
+RN   [15]
+RP   FUNCTION IN DNA DEMETHYLATION.
+RX   PubMed=21496894; DOI=10.1016/j.cell.2011.03.022;
+RA   Guo J.U., Su Y., Zhong C., Ming G.L., Song H.;
+RT   "Hydroxylation of 5-methylcytosine by TET1 promotes active DNA
+RT   demethylation in the adult brain.";
+RL   Cell 145:423-434(2011).
+RN   [16]
+RP   FUNCTION.
+RX   PubMed=21460793; DOI=10.1038/embor.2011.46;
+RA   Landry S., Narvaiza I., Linfesty D.C., Weitzman M.D.;
+RT   "APOBEC3A can activate the DNA damage response and cause cell-cycle
+RT   arrest.";
+RL   EMBO Rep. 12:444-450(2011).
+RN   [17]
+RP   FUNCTION IN HOST DEFENSE, CATALYTIC ACTIVITY, SUBCELLULAR LOCATION,
+RP   AND MUTAGENESIS OF ARG-28; HIS-29; LYS-30; ASN-57; LYS-60; ARG-69;
+RP   GLU-72; TRP-98; ARG-128; TYR-130; ASP-131; ASP-133 AND TYR-136.
+RX   PubMed=21123384; DOI=10.1128/JVI.01651-10;
+RA   Bulliard Y., Narvaiza I., Bertero A., Peddi S., Roehrig U.F.,
+RA   Ortiz M., Zoete V., Castro-Diaz N., Turelli P., Telenti A.,
+RA   Michielin O., Weitzman M.D., Trono D.;
+RT   "Structure-function analyses point to a polynucleotide-accommodating
+RT   groove essential for APOBEC3A restriction activities.";
+RL   J. Virol. 85:1765-1776(2011).
+RN   [18]
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=21835787; DOI=10.1128/JVI.05238-11;
+RA   Hultquist J.F., Lengyel J.A., Refsland E.W., LaRue R.S., Lackey L.,
+RA   Brown W.L., Harris R.S.;
+RT   "Human and rhesus APOBEC3D, APOBEC3F, APOBEC3G, and APOBEC3H
+RT   demonstrate a conserved capacity to restrict Vif-deficient HIV-1.";
+RL   J. Virol. 85:11220-11234(2011).
+RN   [19]
+RP   FUNCTION.
+RX   PubMed=21368204; DOI=10.1073/pnas.1009687108;
+RA   Suspene R., Aynaud M.M., Guetard D., Henry M., Eckhoff G., Marchio A.,
+RA   Pineau P., Dejean A., Vartanian J.P., Wain-Hobson S.;
+RT   "Somatic hypermutation of human mitochondrial and nuclear DNA by
+RT   APOBEC3 cytidine deaminases, a pathway for DNA catabolism.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 108:4858-4863(2011).
+RN   [20]
+RP   REVIEW.
+RA   Love R.;
+RT   "Cytosine deaminases APOBEC3A, APOBEC3C, and APOBEC3H: Current
+RT   understanding of their functional roles.";
+RL   Student Perspec. Contemp. Virol. 0:0-0(2011).
+RN   [21]
+RP   REVIEW.
+RX   PubMed=22912627; DOI=10.3389/fmicb.2012.00275;
+RA   Arias J.F., Koyama T., Kinomoto M., Tokunaga K.;
+RT   "Retroelements versus APOBEC3 family members: No great escape from the
+RT   magnificent seven.";
+RL   Front. Microbiol. 3:275-275(2012).
+RN   [22]
+RP   FUNCTION.
+RX   PubMed=22896697; DOI=10.1074/jbc.M112.385161;
+RA   Carpenter M.A., Li M., Rathore A., Lackey L., Law E.K., Land A.M.,
+RA   Leonard B., Shandilya S.M., Bohn M.F., Schiffer C.A., Brown W.L.,
+RA   Harris R.S.;
+RT   "Methylcytosine and normal cytosine deamination by the foreign DNA
+RT   restriction enzyme APOBEC3A.";
+RL   J. Biol. Chem. 287:34801-34808(2012).
+RN   [23]
+RP   INTERACTION WITH TRIB3, AND SUBCELLULAR LOCATION.
+RX   PubMed=22977230; DOI=10.1074/jbc.M112.372722;
+RA   Aynaud M.M., Suspene R., Vidalain P.O., Mussil B., Guetard D.,
+RA   Tangy F., Wain-Hobson S., Vartanian J.P.;
+RT   "Human Tribbles 3 protects nuclear DNA from cytidine deamination by
+RT   APOBEC3A.";
+RL   J. Biol. Chem. 287:39182-39192(2012).
+RN   [24]
+RP   FUNCTION IN HTLV-1 RESTRICTION.
+RX   PubMed=22457529; DOI=10.1128/JVI.06570-11;
+RA   Ooms M., Krikoni A., Kress A.K., Simon V., Muenk C.;
+RT   "APOBEC3A, APOBEC3B, and APOBEC3H haplotype 2 restrict human T-
+RT   lymphotropic virus type 1.";
+RL   J. Virol. 86:6097-6108(2012).
+RN   [25]
+RP   INTERACTION WITH AGO2.
+RX   PubMed=22915799; DOI=10.1128/JVI.00595-12;
+RA   Phalora P.K., Sherer N.M., Wolinsky S.M., Swanson C.M., Malim M.H.;
+RT   "HIV-1 replication and APOBEC3 antiviral activity are not regulated by
+RT   P bodies.";
+RL   J. Virol. 86:11712-11724(2012).
+RN   [26]
+RP   REVIEW.
+RX   PubMed=22001110; DOI=10.1016/j.semcdb.2011.10.004;
+RA   Smith H.C., Bennett R.P., Kizilyer A., McDougall W.M., Prohaska K.M.;
+RT   "Functions and regulation of the APOBEC family of proteins.";
+RL   Semin. Cell Dev. Biol. 23:258-268(2012).
+CC   -!- FUNCTION: DNA deaminase (cytidine deaminase) with restriction
+CC       activity against viruses, foreign DNA and mobility of
+CC       retrotransposons. Exhibits antiviral activity against adeno-
+CC       associated virus (AAV) and human T-cell leukemia virus type 1
+CC       (HTLV-1) and may inhibit the mobility of LTR and non-LTR
+CC       retrotransposons. Selectively targets single-stranded DNA and can
+CC       deaminate both methylcytosine and cytosine in foreign DNA. Can
+CC       induce somatic hypermutation in the nuclear and mitochondrial DNA.
+CC       May also play a role in the epigenetic regulation of gene
+CC       expression through the process of active DNA demethylation.
+CC       {ECO:0000269|PubMed:10469298, ECO:0000269|PubMed:12859895,
+CC       ECO:0000269|PubMed:16527742, ECO:0000269|PubMed:19461882,
+CC       ECO:0000269|PubMed:20062055, ECO:0000269|PubMed:20615867,
+CC       ECO:0000269|PubMed:21123384, ECO:0000269|PubMed:21368204,
+CC       ECO:0000269|PubMed:21460793, ECO:0000269|PubMed:21496894,
+CC       ECO:0000269|PubMed:22457529, ECO:0000269|PubMed:22896697}.
+CC   -!- CATALYTIC ACTIVITY: Cytidine + H(2)O = uridine + NH(3).
+CC       {ECO:0000269|PubMed:16527742, ECO:0000269|PubMed:20062055,
+CC       ECO:0000269|PubMed:20615867, ECO:0000269|PubMed:21123384}.
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000250};
+CC   -!- SUBUNIT: Interacts with AGO2. Interacts with TRIB3 (via N-
+CC       terminus). {ECO:0000269|PubMed:22915799,
+CC       ECO:0000269|PubMed:22977230}.
+CC   -!- SUBCELLULAR LOCATION: Nucleus. Cytoplasm.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative initiation; Named isoforms=2;
+CC       Name=1; Synonyms=Phorbolin-1;
+CC         IsoId=P31941-1; Sequence=Displayed;
+CC         Note=Enzymatically active.;
+CC       Name=2;
+CC         IsoId=P31941-2; Sequence=VSP_041723;
+CC         Note=Enzymatically active.;
+CC   -!- TISSUE SPECIFICITY: Expressed in peripheral leukocytes with higher
+CC       expression in CD14-positive phagocytic cells. Highly expressed in
+CC       keratinocytes and in periphery blood monocytes. Also detected in
+CC       non-lymphoid tissues including lung and adipose tissues. Found at
+CC       high levels in colorectal adenocarcinoma, Burkitt's lymphoma and
+CC       chronic myelogenous leukemia. {ECO:0000269|PubMed:11863358,
+CC       ECO:0000269|PubMed:16527742, ECO:0000269|PubMed:20062055,
+CC       ECO:0000269|PubMed:20308164}.
+CC   -!- INDUCTION: Up-regulated by interferon and CpG single-stranded DNA
+CC       (at protein level). {ECO:0000269|PubMed:20062055,
+CC       ECO:0000269|PubMed:20615867}.
+CC   -!- MISCELLANEOUS: It is one of seven related genes or pseudogenes
+CC       found in a cluster, thought to result from gene duplication, on
+CC       chromosome 22.
+CC   -!- SIMILARITY: Belongs to the cytidine and deoxycytidylate deaminase
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 CMP/dCMP-type deaminase domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01083}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U03891; AAA03706.2; -; mRNA.
+DR   EMBL; CR456393; CAG30279.1; -; mRNA.
+DR   EMBL; AL022318; CAI17897.1; -; Genomic_DNA.
+DR   EMBL; BC126416; AAI26417.1; -; mRNA.
+DR   CCDS; CCDS13981.1; -. [P31941-1]
+DR   PIR; G01233; G01233.
+DR   RefSeq; NP_001180218.1; NM_001193289.1. [P31941-1]
+DR   RefSeq; NP_663745.1; NM_145699.3. [P31941-1]
+DR   RefSeq; XP_011545347.1; XM_011547045.1. [P31941-1]
+DR   UniGene; Hs.226307; -.
+DR   PDB; 2M65; NMR; -; A=1-199.
+DR   PDB; 4XXO; X-ray; 2.84 A; A/B=1-199.
+DR   PDBsum; 2M65; -.
+DR   PDBsum; 4XXO; -.
+DR   ProteinModelPortal; P31941; -.
+DR   SMR; P31941; 1-199.
+DR   BioGrid; 128318; 2.
+DR   DIP; DIP-61365N; -.
+DR   STRING; 9606.ENSP00000249116; -.
+DR   BindingDB; P31941; -.
+DR   ChEMBL; CHEMBL1741179; -.
+DR   PhosphoSite; P31941; -.
+DR   BioMuta; APOBEC3A; -.
+DR   DMDM; 12644206; -.
+DR   PaxDb; P31941; -.
+DR   PRIDE; P31941; -.
+DR   DNASU; 200315; -.
+DR   Ensembl; ENST00000249116; ENSP00000249116; ENSG00000128383.
+DR   Ensembl; ENST00000402255; ENSP00000384359; ENSG00000128383.
+DR   Ensembl; ENST00000570508; ENSP00000461288; ENSG00000262156.
+DR   Ensembl; ENST00000618553; ENSP00000481904; ENSG00000128383.
+DR   Ensembl; ENST00000623492; ENSP00000485234; ENSG00000262156.
+DR   GeneID; 100913187; -.
+DR   GeneID; 200315; -.
+DR   KEGG; hsa:100913187; -.
+DR   UCSC; uc003awn.2; human. [P31941-1]
+DR   CTD; 100913187; -.
+DR   CTD; 200315; -.
+DR   GeneCards; GC22P039348; -.
+DR   HGNC; HGNC:17343; APOBEC3A.
+DR   HPA; HPA043237; -.
+DR   MIM; 607109; gene.
+DR   neXtProt; NX_P31941; -.
+DR   PharmGKB; PA24891; -.
+DR   eggNOG; NOG293254; -.
+DR   GeneTree; ENSGT00530000062933; -.
+DR   HOGENOM; HOG000033754; -.
+DR   HOVERGEN; HBG050434; -.
+DR   KO; K18750; -.
+DR   OMA; LHNQAKN; -.
+DR   OrthoDB; EOG71CFNW; -.
+DR   PhylomeDB; P31941; -.
+DR   TreeFam; TF331356; -.
+DR   NextBio; 89887; -.
+DR   PRO; PR:P31941; -.
+DR   Proteomes; UP000005640; Chromosome 22.
+DR   Bgee; P31941; -.
+DR   CleanEx; HS_APOBEC3A; -.
+DR   Genevisible; P31941; HS.
+DR   GO; GO:0005737; C:cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0005634; C:nucleus; IDA:UniProtKB.
+DR   GO; GO:0004126; F:cytidine deaminase activity; IDA:UniProtKB.
+DR   GO; GO:0047844; F:deoxycytidine deaminase activity; IMP:UniProtKB.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:InterPro.
+DR   GO; GO:0071466; P:cellular response to xenobiotic stimulus; IDA:UniProtKB.
+DR   GO; GO:0044356; P:clearance of foreign intracellular DNA by conversion of DNA cytidine to uridine; IDA:UniProtKB.
+DR   GO; GO:0009972; P:cytidine deamination; IDA:GOC.
+DR   GO; GO:0051607; P:defense response to virus; IDA:UniProtKB.
+DR   GO; GO:0070383; P:DNA cytosine deamination; IDA:UniProtKB.
+DR   GO; GO:0080111; P:DNA demethylation; IDA:UniProtKB.
+DR   GO; GO:0045087; P:innate immune response; IDA:UniProtKB.
+DR   GO; GO:0010529; P:negative regulation of transposition; IDA:UniProtKB.
+DR   GO; GO:0045071; P:negative regulation of viral genome replication; IDA:UniProtKB.
+DR   InterPro; IPR016192; APOBEC/CMP_deaminase_Zn-bd.
+DR   InterPro; IPR007904; APOBEC_C.
+DR   InterPro; IPR002125; CMP_dCMP_Zn-bd.
+DR   InterPro; IPR016193; Cytidine_deaminase-like.
+DR   Pfam; PF05240; APOBEC_C; 1.
+DR   SUPFAM; SSF53927; SSF53927; 1.
+DR   PROSITE; PS00903; CYT_DCMP_DEAMINASES_1; 1.
+DR   PROSITE; PS51747; CYT_DCMP_DEAMINASES_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative initiation; Antiviral defense;
+KW   Complete proteome; Cytoplasm; Direct protein sequencing; Hydrolase;
+KW   Immunity; Innate immunity; Metal-binding; Nucleus; Polymorphism;
+KW   Reference proteome; Zinc.
+FT   CHAIN         1    199       DNA dC->dU-editing enzyme APOBEC-3A.
+FT                                /FTId=PRO_0000171752.
+FT   DOMAIN       27    143       CMP/dCMP-type deaminase.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU01083}.
+FT   ACT_SITE     72     72       Proton donor. {ECO:0000250}.
+FT   METAL        70     70       Zinc; catalytic. {ECO:0000250}.
+FT   METAL       101    101       Zinc; catalytic. {ECO:0000250}.
+FT   METAL       106    106       Zinc; catalytic. {ECO:0000250}.
+FT   VAR_SEQ       1     12       Missing (in isoform 2). {ECO:0000305}.
+FT                                /FTId=VSP_041723.
+FT   VARIANT      19     19       T -> A (in dbSNP:rs17000556).
+FT                                /FTId=VAR_048721.
+FT   MUTAGEN      28     28       R->E: No effect on deaminase activity
+FT                                despite an altered restriction activity
+FT                                towards genetic invaders.
+FT                                {ECO:0000269|PubMed:21123384}.
+FT   MUTAGEN      29     29       H->A: Altered deaminase activity and
+FT                                restriction activity towards genetic
+FT                                invaders. {ECO:0000269|PubMed:21123384}.
+FT   MUTAGEN      30     30       K->F: Altered deaminase activity and
+FT                                restriction activity towards genetic
+FT                                invaders. {ECO:0000269|PubMed:21123384}.
+FT   MUTAGEN      57     57       N->A: Altered deaminase activity and
+FT                                restriction activity towards genetic
+FT                                invaders. {ECO:0000269|PubMed:21123384}.
+FT   MUTAGEN      60     60       K->A: Altered deaminase activity and
+FT                                restriction activity towards genetic
+FT                                invaders. {ECO:0000269|PubMed:21123384}.
+FT   MUTAGEN      69     69       R->A: Altered deaminase activity and
+FT                                restriction activity towards genetic
+FT                                invaders. {ECO:0000269|PubMed:21123384}.
+FT   MUTAGEN      70     70       H->R: Altered deaminase activity.
+FT                                {ECO:0000269|PubMed:16527742}.
+FT   MUTAGEN      72     72       E->Q: Altered deaminase activity and
+FT                                restriction activity towards genetic
+FT                                invaders. {ECO:0000269|PubMed:16527742,
+FT                                ECO:0000269|PubMed:21123384}.
+FT   MUTAGEN      98     98       W->L: Altered deaminase activity and
+FT                                restriction activity towards genetic
+FT                                invaders. {ECO:0000269|PubMed:21123384}.
+FT   MUTAGEN     106    106       C->S: Altered deaminase activity.
+FT                                {ECO:0000269|PubMed:16527742}.
+FT   MUTAGEN     128    128       R->A: Altered deaminase activity and
+FT                                restriction activity towards genetic
+FT                                invaders. {ECO:0000269|PubMed:21123384}.
+FT   MUTAGEN     130    130       Y->A: Altered deaminase activity and
+FT                                restriction activity towards genetic
+FT                                invaders. {ECO:0000269|PubMed:21123384}.
+FT   MUTAGEN     131    131       D->N: No effect on deaminase activity
+FT                                despite an altered restriction activity
+FT                                towards genetic invaders.
+FT                                {ECO:0000269|PubMed:21123384}.
+FT   MUTAGEN     133    133       D->N: Altered deaminase activity and
+FT                                restriction activity towards genetic
+FT                                invaders. {ECO:0000269|PubMed:21123384}.
+FT   MUTAGEN     136    136       Y->A: Altered deaminase activity and
+FT                                restriction activity towards genetic
+FT                                invaders. {ECO:0000269|PubMed:21123384}.
+FT   HELIX        15     21       {ECO:0000244|PDB:4XXO}.
+FT   STRAND       24     26       {ECO:0000244|PDB:4XXO}.
+FT   STRAND       27     29       {ECO:0000244|PDB:2M65}.
+FT   STRAND       32     39       {ECO:0000244|PDB:4XXO}.
+FT   STRAND       44     47       {ECO:0000244|PDB:2M65}.
+FT   STRAND       53     56       {ECO:0000244|PDB:4XXO}.
+FT   TURN         62     65       {ECO:0000244|PDB:4XXO}.
+FT   HELIX        71     82       {ECO:0000244|PDB:4XXO}.
+FT   STRAND       90     98       {ECO:0000244|PDB:4XXO}.
+FT   TURN        103    105       {ECO:0000244|PDB:2M65}.
+FT   HELIX       106    116       {ECO:0000244|PDB:4XXO}.
+FT   STRAND      120    128       {ECO:0000244|PDB:4XXO}.
+FT   HELIX       136    144       {ECO:0000244|PDB:4XXO}.
+FT   TURN        145    147       {ECO:0000244|PDB:4XXO}.
+FT   STRAND      148    152       {ECO:0000244|PDB:4XXO}.
+FT   HELIX       155    164       {ECO:0000244|PDB:4XXO}.
+FT   HELIX       179    195       {ECO:0000244|PDB:4XXO}.
+SQ   SEQUENCE   199 AA;  23012 MW;  42E99E0D7DF7AA14 CRC64;
+     MEASPASGPR HLMDPHIFTS NFNNGIGRHK TYLCYEVERL DNGTSVKMDQ HRGFLHNQAK
+     NLLCGFYGRH AELRFLDLVP SLQLDPAQIY RVTWFISWSP CFSWGCAGEV RAFLQENTHV
+     RLRIFAARIY DYDPLYKEAL QMLRDAGAQV SIMTYDEFKH CWDTFVDHQG CPFQPWDGLD
+     EHSQALSGRL RAILQNQGN
+//

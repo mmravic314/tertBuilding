@@ -1,0 +1,151 @@
+ID   AHLL_BACTU              Reviewed;         250 AA.
+AC   A3FJ64; D3JZ16; Q1WNZ4; Q6JVJ7; Q7B8B9; Q8RPW7; Q8RPW8;
+DT   11-JAN-2011, integrated into UniProtKB/Swiss-Prot.
+DT   11-JAN-2011, sequence version 2.
+DT   27-MAY-2015, entry version 30.
+DE   RecName: Full=N-acyl homoserine lactonase;
+DE            Short=AHL-lactonase;
+DE            EC=3.1.1.81;
+DE   AltName: Full=Homoserine lactone lactonase;
+GN   Name=aiiA;
+OS   Bacillus thuringiensis.
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus;
+OC   Bacillus cereus group.
+OX   NCBI_TaxID=1428;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=KCTC 1507;
+RA   Kim S.-H., Cho Y.-H.;
+RT   "An AHL-lactonase gene from Bacillus thuringiensis KCTC 1507.";
+RL   Submitted (MAY-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=WB12;
+RA   Huang T., Yao F., Guan X.;
+RT   "Cloning of novel AHL-lactonase genes from Bacillus cereus group.";
+RL   Submitted (APR-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RA   Gonzalez A., Correa E., Orduz S.;
+RT   "Identification of AHL-lactonase from Colombian Bacillus thuringiensis
+RT   strain.";
+RL   Submitted (JAN-2007) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=KACC10171, KACC10175, KACC10180, and KACC10183;
+RA   Yoon B.S., Nguyen K.T.;
+RT   "Expression of homoserine lactone lactonase from Bacillus
+RT   thuringiensis in E. coli.";
+RL   Submitted (DEC-2009) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   FUNCTION, CATALYTIC ACTIVITY, BIOPHYSICOCHEMICAL PROPERTIES, AND
+RP   COFACTOR.
+RX   PubMed=15895999; DOI=10.1021/bi050050m;
+RA   Thomas P.W., Stone E.M., Costello A.L., Tierney D.L., Fast W.;
+RT   "The quorum-quenching lactonase from Bacillus thuringiensis is a
+RT   metalloprotein.";
+RL   Biochemistry 44:7559-7569(2005).
+CC   -!- FUNCTION: Catalyzes hydrolysis of N-hexanoyl-(S)-homoserine
+CC       lactone, but not the R-enantiomer. Hydrolyzes short- and long-
+CC       chain N-acyl homoserine lactones with or without 3-oxo
+CC       substitution at C3, has maximum activity on C10-AHL.
+CC       {ECO:0000269|PubMed:15895999}.
+CC   -!- CATALYTIC ACTIVITY: An N-acyl-L-homoserine lactone + H(2)O = an N-
+CC       acyl-L-homoserine. {ECO:0000269|PubMed:15895999}.
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC         Evidence={ECO:0000269|PubMed:15895999};
+CC       Note=Binds 2 Zn(2+) ions per subunit.
+CC       {ECO:0000269|PubMed:15895999};
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=6.7 mM for C6-(S)-HSL {ECO:0000269|PubMed:15895999};
+CC   -!- SUBUNIT: Monomer. {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the metallo-beta-lactamase superfamily.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AY300026; AAQ73629.1; -; Genomic_DNA.
+DR   EMBL; DQ000642; AAY51612.1; -; Genomic_DNA.
+DR   EMBL; EF379241; ABN51242.1; -; Genomic_DNA.
+DR   EMBL; GU339169; ADB96947.1; -; Genomic_DNA.
+DR   EMBL; GU339170; ADB96948.1; -; Genomic_DNA.
+DR   EMBL; GU339171; ADB96949.1; -; Genomic_DNA.
+DR   EMBL; GU339172; ADB96950.1; -; Genomic_DNA.
+DR   RefSeq; WP_000216581.1; NZ_KK088348.1.
+DR   PDB; 4J5F; X-ray; 1.72 A; A=1-250.
+DR   PDB; 4J5H; X-ray; 1.45 A; A=1-250.
+DR   PDBsum; 4J5F; -.
+DR   PDBsum; 4J5H; -.
+DR   ProteinModelPortal; A3FJ64; -.
+DR   SMR; A3FJ64; 1-250.
+DR   eggNOG; COG0491; -.
+DR   BRENDA; 3.1.1.81; 711.
+DR   GO; GO:0016787; F:hydrolase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:1901335; P:lactone catabolic process; IMP:CACAO.
+DR   Gene3D; 3.60.15.10; -; 1.
+DR   InterPro; IPR001279; Beta-lactamas-like.
+DR   Pfam; PF00753; Lactamase_B; 1.
+DR   SMART; SM00849; Lactamase_B; 1.
+DR   SUPFAM; SSF56281; SSF56281; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Hydrolase; Metal-binding; Zinc.
+FT   CHAIN         1    250       N-acyl homoserine lactonase.
+FT                                /FTId=PRO_0000403302.
+FT   METAL       104    104       Zinc 1. {ECO:0000250}.
+FT   METAL       106    106       Zinc 1. {ECO:0000250}.
+FT   METAL       108    108       Zinc 2. {ECO:0000250}.
+FT   METAL       109    109       Zinc 2. {ECO:0000250}.
+FT   METAL       169    169       Zinc 1. {ECO:0000250}.
+FT   METAL       191    191       Zinc 1. {ECO:0000250}.
+FT   METAL       191    191       Zinc 2. {ECO:0000250}.
+FT   METAL       235    235       Zinc 2. {ECO:0000250}.
+FT   CONFLICT      9      9       I -> V (in Ref. 1; AAQ73629 and 3;
+FT                                ABN51242). {ECO:0000305}.
+FT   CONFLICT     54     54       P -> L (in Ref. 4; ADB96950).
+FT                                {ECO:0000305}.
+FT   CONFLICT    139    139       K -> E (in Ref. 4; ADB96950).
+FT                                {ECO:0000305}.
+FT   CONFLICT    240    240       E -> G (in Ref. 1; AAQ73629).
+FT                                {ECO:0000305}.
+FT   CONFLICT    245    245       V -> A (in Ref. 2; AAY51612).
+FT                                {ECO:0000305}.
+FT   STRAND        3     17       {ECO:0000244|PDB:4J5H}.
+FT   HELIX        18     20       {ECO:0000244|PDB:4J5H}.
+FT   STRAND       30     42       {ECO:0000244|PDB:4J5H}.
+FT   STRAND       45     49       {ECO:0000244|PDB:4J5H}.
+FT   HELIX        55     57       {ECO:0000244|PDB:4J5H}.
+FT   TURN         61     66       {ECO:0000244|PDB:4J5H}.
+FT   TURN         68     72       {ECO:0000244|PDB:4J5H}.
+FT   STRAND       73     77       {ECO:0000244|PDB:4J5H}.
+FT   HELIX        79     81       {ECO:0000244|PDB:4J5H}.
+FT   HELIX        83     90       {ECO:0000244|PDB:4J5H}.
+FT   HELIX        94     96       {ECO:0000244|PDB:4J5H}.
+FT   STRAND       98    101       {ECO:0000244|PDB:4J5H}.
+FT   HELIX       107    110       {ECO:0000244|PDB:4J5H}.
+FT   HELIX       113    115       {ECO:0000244|PDB:4J5H}.
+FT   STRAND      117    119       {ECO:0000244|PDB:4J5H}.
+FT   STRAND      121    124       {ECO:0000244|PDB:4J5H}.
+FT   HELIX       125    131       {ECO:0000244|PDB:4J5H}.
+FT   HELIX       139    141       {ECO:0000244|PDB:4J5H}.
+FT   STRAND      148    151       {ECO:0000244|PDB:4J5H}.
+FT   STRAND      153    158       {ECO:0000244|PDB:4J5H}.
+FT   STRAND      161    165       {ECO:0000244|PDB:4J5H}.
+FT   STRAND      168    170       {ECO:0000244|PDB:4J5H}.
+FT   STRAND      174    180       {ECO:0000244|PDB:4J5H}.
+FT   TURN        181    183       {ECO:0000244|PDB:4J5H}.
+FT   STRAND      184    190       {ECO:0000244|PDB:4J5H}.
+FT   HELIX       196    200       {ECO:0000244|PDB:4J5H}.
+FT   HELIX       210    227       {ECO:0000244|PDB:4J5H}.
+FT   STRAND      230    235       {ECO:0000244|PDB:4J5H}.
+FT   HELIX       237    240       {ECO:0000244|PDB:4J5H}.
+SQ   SEQUENCE   250 AA;  28220 MW;  CEBC2FE957707C2E CRC64;
+     MTVKKLYFIP AGRCMLDHSS VNSALTPGKL LNLPVWCYLL ETEEGPILVD TGMPESAVNN
+     EGLFNGTFVE GQILPKMTEE DRIVNILKRV GYEPDDLLYI ISSHLHFDHA GGNGAFTNTP
+     IIVQRTEYEA ALHREEYMKE CILPHLNYKI IEGDYEVVPG VQLLYTPGHS PGHQSLFIET
+     EQSGSVLLTI DASYTKENFE DEVPFAGFDP ELALSSIKRL KEVVKKEKPI IFFGHDIEQE
+     KSCRVFPEYI
+//

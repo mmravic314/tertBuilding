@@ -1,0 +1,254 @@
+ID   CCNA2_MOUSE             Reviewed;         422 AA.
+AC   P51943; Q61459; Q8BRG1;
+DT   01-OCT-1996, integrated into UniProtKB/Swiss-Prot.
+DT   27-JUL-2011, sequence version 2.
+DT   22-JUL-2015, entry version 123.
+DE   RecName: Full=Cyclin-A2;
+DE            Short=Cyclin-A;
+GN   Name=Ccna2; Synonyms=Ccna, Cyca;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=8575639; DOI=10.1006/dbio.1996.0007;
+RA   Ravnik S.E., Wolgemuth D.J.;
+RT   "The developmentally restricted pattern of expression in the male germ
+RT   line of a murine cyclin A, cyclin A2, suggests roles in both mitotic
+RT   and meiotic cell cycles.";
+RL   Dev. Biol. 173:69-78(1996).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Thymus;
+RX   PubMed=8565853;
+RA   Sweeney C., Murphy M., Kubelka M., Ravnik S.E., Hawkins C.F.,
+RA   Wolgemuth D.J., Carrington M.;
+RT   "A distinct cyclin A is expressed in germ cells in the mouse.";
+RL   Development 122:53-64(1996).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=C57BL/6J; TISSUE=Embryo;
+RX   PubMed=16141072; DOI=10.1126/science.1112014;
+RA   Carninci P., Kasukawa T., Katayama S., Gough J., Frith M.C., Maeda N.,
+RA   Oyama R., Ravasi T., Lenhard B., Wells C., Kodzius R., Shimokawa K.,
+RA   Bajic V.B., Brenner S.E., Batalov S., Forrest A.R., Zavolan M.,
+RA   Davis M.J., Wilming L.G., Aidinis V., Allen J.E.,
+RA   Ambesi-Impiombato A., Apweiler R., Aturaliya R.N., Bailey T.L.,
+RA   Bansal M., Baxter L., Beisel K.W., Bersano T., Bono H., Chalk A.M.,
+RA   Chiu K.P., Choudhary V., Christoffels A., Clutterbuck D.R.,
+RA   Crowe M.L., Dalla E., Dalrymple B.P., de Bono B., Della Gatta G.,
+RA   di Bernardo D., Down T., Engstrom P., Fagiolini M., Faulkner G.,
+RA   Fletcher C.F., Fukushima T., Furuno M., Futaki S., Gariboldi M.,
+RA   Georgii-Hemming P., Gingeras T.R., Gojobori T., Green R.E.,
+RA   Gustincich S., Harbers M., Hayashi Y., Hensch T.K., Hirokawa N.,
+RA   Hill D., Huminiecki L., Iacono M., Ikeo K., Iwama A., Ishikawa T.,
+RA   Jakt M., Kanapin A., Katoh M., Kawasawa Y., Kelso J., Kitamura H.,
+RA   Kitano H., Kollias G., Krishnan S.P., Kruger A., Kummerfeld S.K.,
+RA   Kurochkin I.V., Lareau L.F., Lazarevic D., Lipovich L., Liu J.,
+RA   Liuni S., McWilliam S., Madan Babu M., Madera M., Marchionni L.,
+RA   Matsuda H., Matsuzawa S., Miki H., Mignone F., Miyake S., Morris K.,
+RA   Mottagui-Tabar S., Mulder N., Nakano N., Nakauchi H., Ng P.,
+RA   Nilsson R., Nishiguchi S., Nishikawa S., Nori F., Ohara O.,
+RA   Okazaki Y., Orlando V., Pang K.C., Pavan W.J., Pavesi G., Pesole G.,
+RA   Petrovsky N., Piazza S., Reed J., Reid J.F., Ring B.Z., Ringwald M.,
+RA   Rost B., Ruan Y., Salzberg S.L., Sandelin A., Schneider C.,
+RA   Schoenbach C., Sekiguchi K., Semple C.A., Seno S., Sessa L., Sheng Y.,
+RA   Shibata Y., Shimada H., Shimada K., Silva D., Sinclair B.,
+RA   Sperling S., Stupka E., Sugiura K., Sultana R., Takenaka Y., Taki K.,
+RA   Tammoja K., Tan S.L., Tang S., Taylor M.S., Tegner J., Teichmann S.A.,
+RA   Ueda H.R., van Nimwegen E., Verardo R., Wei C.L., Yagi K.,
+RA   Yamanishi H., Zabarovsky E., Zhu S., Zimmer A., Hide W., Bult C.,
+RA   Grimmond S.M., Teasdale R.D., Liu E.T., Brusic V., Quackenbush J.,
+RA   Wahlestedt C., Mattick J.S., Hume D.A., Kai C., Sasaki D., Tomaru Y.,
+RA   Fukuda S., Kanamori-Katayama M., Suzuki M., Aoki J., Arakawa T.,
+RA   Iida J., Imamura K., Itoh M., Kato T., Kawaji H., Kawagashira N.,
+RA   Kawashima T., Kojima M., Kondo S., Konno H., Nakano K., Ninomiya N.,
+RA   Nishio T., Okada M., Plessy C., Shibata K., Shiraki T., Suzuki S.,
+RA   Tagami M., Waki K., Watahiki A., Okamura-Oho Y., Suzuki H., Kawai J.,
+RA   Hayashizaki Y.;
+RT   "The transcriptional landscape of the mammalian genome.";
+RL   Science 309:1559-1563(2005).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Adams M.D., Myers E.W., Smith H.O., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   FUNCTION.
+RC   STRAIN=Swiss Webster;
+RX   PubMed=10068472; DOI=10.1006/dbio.1998.9156;
+RA   Ravnik S.E., Wolgemuth D.J.;
+RT   "Regulation of meiosis during mammalian spermatogenesis: the A-type
+RT   cyclins and their associated cyclin-dependent kinases are
+RT   differentially expressed in the germ-cell lineage.";
+RL   Dev. Biol. 207:408-418(1999).
+CC   -!- FUNCTION: Essential for the control of the cell cycle at the G1/S
+CC       (start) and the G2/M (mitosis) transitions.
+CC       {ECO:0000269|PubMed:10068472}.
+CC   -!- SUBUNIT: Interacts with the CDK1 and CDK2 protein kinases to form
+CC       a serine/threonine kinase holoenzyme complex. The cyclin subunit
+CC       imparts substrate specificity to the complex. In the testis,
+CC       interacts only with CDK2. When associated with CDK2 (but not with
+CC       CDK1), interacts with SCAPER (By similarity). {ECO:0000250}.
+CC   -!- INTERACTION:
+CC       P11440:Cdk1; NbExp=2; IntAct=EBI-846980, EBI-846949;
+CC       P97377:Cdk2; NbExp=3; IntAct=EBI-846980, EBI-847048;
+CC   -!- SUBCELLULAR LOCATION: Nucleus. Cytoplasm. Note=Cytoplasmic when
+CC       associated with SCAPER. {ECO:0000250}.
+CC   -!- TISSUE SPECIFICITY: Ubiquitous. In the testis, expressed in germ
+CC       cells and in the ovary, in both germline and somatic cells.
+CC   -!- DEVELOPMENTAL STAGE: Accumulates steadily during G2 and is
+CC       abruptly destroyed at mitosis. Expressed in spermatogonia and is
+CC       most abundant in preleptotene spermatocytes, cells which will
+CC       enter the meiotic pathway.
+CC   -!- PTM: Polyubiquitinated via 'Lys-11'-linked ubiquitin by the
+CC       anaphase-promoting complex (APC/C), leading to its degradation by
+CC       the proteasome. Deubiquitinated and stabilized by USP37 enables
+CC       entry into S phase (By similarity). {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the cyclin family. Cyclin AB subfamily.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; Z26580; CAA81331.1; -; mRNA.
+DR   EMBL; X75483; CAA53212.1; -; mRNA.
+DR   EMBL; AK044924; BAC32144.1; -; mRNA.
+DR   EMBL; CH466530; EDL35081.1; -; Genomic_DNA.
+DR   EMBL; BC052730; AAH52730.1; -; mRNA.
+DR   CCDS; CCDS17313.1; -.
+DR   PIR; S37280; S37280.
+DR   PIR; S38501; S38501.
+DR   RefSeq; NP_033958.2; NM_009828.2.
+DR   UniGene; Mm.4189; -.
+DR   PDB; 3QHR; X-ray; 2.17 A; B/D=163-422.
+DR   PDB; 3QHW; X-ray; 1.91 A; B/D=163-422.
+DR   PDB; 4I3Z; X-ray; 2.05 A; B/D=165-421.
+DR   PDB; 4II5; X-ray; 2.15 A; B/D=165-422.
+DR   PDBsum; 3QHR; -.
+DR   PDBsum; 3QHW; -.
+DR   PDBsum; 4I3Z; -.
+DR   PDBsum; 4II5; -.
+DR   ProteinModelPortal; P51943; -.
+DR   SMR; P51943; 163-422.
+DR   BioGrid; 198545; 6.
+DR   DIP; DIP-45864N; -.
+DR   IntAct; P51943; 3.
+DR   STRING; 10090.ENSMUSP00000029270; -.
+DR   PhosphoSite; P51943; -.
+DR   MaxQB; P51943; -.
+DR   PaxDb; P51943; -.
+DR   PRIDE; P51943; -.
+DR   Ensembl; ENSMUST00000029270; ENSMUSP00000029270; ENSMUSG00000027715.
+DR   GeneID; 12428; -.
+DR   KEGG; mmu:12428; -.
+DR   UCSC; uc012cov.1; mouse.
+DR   CTD; 890; -.
+DR   MGI; MGI:108069; Ccna2.
+DR   eggNOG; COG5024; -.
+DR   GeneTree; ENSGT00760000118939; -.
+DR   HOGENOM; HOG000167672; -.
+DR   HOVERGEN; HBG106244; -.
+DR   InParanoid; P51943; -.
+DR   KO; K06627; -.
+DR   OMA; TMDISIV; -.
+DR   OrthoDB; EOG7G7KQ0; -.
+DR   TreeFam; TF101002; -.
+DR   Reactome; REACT_274086; G0 and Early G1.
+DR   Reactome; REACT_283368; G2 Phase.
+DR   Reactome; REACT_315933; Orc1 removal from chromatin.
+DR   Reactome; REACT_316610; DNA Damage/Telomere Stress Induced Senescence.
+DR   Reactome; REACT_321479; Cyclin A:Cdk2-associated events at S phase entry.
+DR   Reactome; REACT_336745; Cdc20:Phospho-APC/C mediated degradation of Cyclin A.
+DR   Reactome; REACT_342086; SCF(Skp2)-mediated degradation of p27/p21.
+DR   Reactome; REACT_349749; Cyclin A/B1 associated events during G2/M transition.
+DR   Reactome; REACT_350665; Senescence-Associated Secretory Phenotype (SASP).
+DR   Reactome; REACT_351228; Regulation of APC/C activators between G1/S and early anaphase.
+DR   ChiTaRS; Ccna2; mouse.
+DR   NextBio; 281244; -.
+DR   PRO; PR:P51943; -.
+DR   Proteomes; UP000000589; Chromosome 3.
+DR   Bgee; P51943; -.
+DR   CleanEx; MM_CCNA2; -.
+DR   ExpressionAtlas; P51943; baseline and differential.
+DR   Genevisible; P51943; MM.
+DR   GO; GO:0005737; C:cytoplasm; IDA:MGI.
+DR   GO; GO:0001939; C:female pronucleus; IDA:MGI.
+DR   GO; GO:0001940; C:male pronucleus; IDA:MGI.
+DR   GO; GO:0005634; C:nucleus; IDA:MGI.
+DR   GO; GO:0019901; F:protein kinase binding; IPI:MGI.
+DR   GO; GO:0051301; P:cell division; IEA:UniProtKB-KW.
+DR   GO; GO:0007067; P:mitotic nuclear division; IEA:UniProtKB-KW.
+DR   GO; GO:0031100; P:organ regeneration; IEA:Ensembl.
+DR   GO; GO:0048146; P:positive regulation of fibroblast proliferation; IEA:Ensembl.
+DR   GO; GO:0045893; P:positive regulation of transcription, DNA-templated; IMP:MGI.
+DR   GO; GO:0007265; P:Ras protein signal transduction; IEA:Ensembl.
+DR   GO; GO:0000079; P:regulation of cyclin-dependent protein serine/threonine kinase activity; IEA:InterPro.
+DR   GO; GO:0010389; P:regulation of G2/M transition of mitotic cell cycle; IEA:InterPro.
+DR   GO; GO:0032355; P:response to estradiol; IEA:Ensembl.
+DR   GO; GO:0033762; P:response to glucagon; IEA:Ensembl.
+DR   Gene3D; 1.10.472.10; -; 2.
+DR   InterPro; IPR013763; Cyclin-like.
+DR   InterPro; IPR015453; Cyclin_A_chordates.
+DR   InterPro; IPR004367; Cyclin_C-dom.
+DR   InterPro; IPR006671; Cyclin_N.
+DR   PANTHER; PTHR10177:SF69; PTHR10177:SF69; 1.
+DR   Pfam; PF02984; Cyclin_C; 1.
+DR   Pfam; PF00134; Cyclin_N; 1.
+DR   SMART; SM00385; CYCLIN; 2.
+DR   SUPFAM; SSF47954; SSF47954; 2.
+DR   PROSITE; PS00292; CYCLINS; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Cell cycle; Cell division;
+KW   Complete proteome; Cyclin; Cytoplasm; Mitosis; Nucleus;
+KW   Phosphoprotein; Reference proteome; Ubl conjugation.
+FT   CHAIN         1    422       Cyclin-A2.
+FT                                /FTId=PRO_0000080340.
+FT   MOD_RES       1      1       N-acetylmethionine.
+FT                                {ECO:0000250|UniProtKB:P20248}.
+FT   MOD_RES       5      5       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:P20248}.
+FT   CONFLICT    127    127       G -> A (in Ref. 1; CAA81331 and 2;
+FT                                CAA53212). {ECO:0000305}.
+FT   CONFLICT    391    391       A -> P (in Ref. 2; CAA53212).
+FT                                {ECO:0000305}.
+FT   HELIX       166    182       {ECO:0000244|PDB:3QHW}.
+FT   HELIX       189    192       {ECO:0000244|PDB:3QHW}.
+FT   HELIX       198    214       {ECO:0000244|PDB:3QHW}.
+FT   HELIX       219    235       {ECO:0000244|PDB:3QHW}.
+FT   HELIX       240    242       {ECO:0000244|PDB:3QHW}.
+FT   HELIX       243    258       {ECO:0000244|PDB:3QHW}.
+FT   HELIX       265    271       {ECO:0000244|PDB:3QHW}.
+FT   STRAND      274    276       {ECO:0000244|PDB:3QHW}.
+FT   HELIX       278    291       {ECO:0000244|PDB:3QHW}.
+FT   TURN        292    294       {ECO:0000244|PDB:3QHW}.
+FT   HELIX       301    308       {ECO:0000244|PDB:3QHW}.
+FT   HELIX       309    311       {ECO:0000244|PDB:3QHW}.
+FT   STRAND      312    314       {ECO:0000244|PDB:3QHW}.
+FT   HELIX       317    332       {ECO:0000244|PDB:3QHW}.
+FT   HELIX       334    337       {ECO:0000244|PDB:3QHW}.
+FT   HELIX       342    358       {ECO:0000244|PDB:3QHW}.
+FT   HELIX       364    370       {ECO:0000244|PDB:3QHW}.
+FT   HELIX       374    390       {ECO:0000244|PDB:3QHW}.
+FT   HELIX       391    393       {ECO:0000244|PDB:3QHW}.
+FT   HELIX       398    402       {ECO:0000244|PDB:3QHW}.
+FT   HELIX       406    408       {ECO:0000244|PDB:3QHW}.
+FT   HELIX       411    413       {ECO:0000244|PDB:3QHW}.
+SQ   SEQUENCE   422 AA;  47269 MW;  1818B92552E4D0D1 CRC64;
+     MPGTSRHSGR DAGSALLSLH QEDQENVNPE KLAPAQQPRA QAVLKAGNVR GPAPQQKLKT
+     RRVAPLKDLP INDEHVTAGP SWKAVSKQPA FTIHVDEAEE TQKRPAELKE TECEDALAFN
+     AAVSLPGARK PLTPLDYPMD GSFESPHAMD MSIVLEDKPV NVNEVPDYQE DIHTYLREME
+     VKCKPKVGYM KRQPDITNSM RAILVDWLVE VGEEYKLQNE TLHLAVNYID RFLSSMSVLR
+     GKLQLVGTAA MLLASKFEEI YPPEVAEFVY ITDDTYSKKQ VLRMEHLVLK VLAFDLAAPT
+     VNQFLTQYFL HLQPANCKVE SLAMFLGELS LIDADPYLKY LPSLIAGAAF HLALYTVTGQ
+     SWPESLAQQT GYTLESLKPC LVDLHQTYLK APQHAQQSIR EKYKHSKYHS VSLLNPPETL
+     SV
+//

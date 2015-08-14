@@ -1,0 +1,124 @@
+ID   Q9WYT9_THEMA            Unreviewed;       122 AA.
+AC   Q9WYT9; G4FE02;
+DT   01-NOV-1999, integrated into UniProtKB/TrEMBL.
+DT   01-NOV-1999, sequence version 1.
+DT   22-JUL-2015, entry version 108.
+DE   SubName: Full=Chemotaxis regulator-transmits chemoreceptor signals to flagelllar motor components CheY {ECO:0000313|EMBL:AGL49390.1};
+DE   SubName: Full=Response regulator {ECO:0000313|EMBL:AAD35552.1};
+GN   OrderedLocusNames=TM_0468 {ECO:0000313|EMBL:AAD35552.1};
+GN   ORFNames=Tmari_0465 {ECO:0000313|EMBL:AGL49390.1};
+OS   Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099).
+OC   Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Thermotoga.
+OX   NCBI_TaxID=243274 {ECO:0000313|EMBL:AAD35552.1, ECO:0000313|Proteomes:UP000008183};
+RN   [1] {ECO:0000313|EMBL:AAD35552.1, ECO:0000313|Proteomes:UP000008183}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 43589 / MSB8 / DSM 3109 / JCM 10099
+RC   {ECO:0000313|Proteomes:UP000008183}, and
+RC   MSB8 {ECO:0000313|EMBL:AAD35552.1};
+RX   PubMed=10360571; DOI=10.1038/20601;
+RA   Nelson K.E., Clayton R.A., Gill S.R., Gwinn M.L., Dodson R.J.,
+RA   Haft D.H., Hickey E.K., Peterson J.D., Nelson W.C., Ketchum K.A.,
+RA   McDonald L.A., Utterback T.R., Malek J.A., Linher K.D., Garrett M.M.,
+RA   Stewart A.M., Cotton M.D., Pratt M.S., Phillips C.A., Richardson D.L.,
+RA   Heidelberg J.F., Sutton G.G., Fleischmann R.D., Eisen J.A., White O.,
+RA   Salzberg S.L., Smith H.O., Venter J.C., Fraser C.M.;
+RT   "Evidence for lateral gene transfer between Archaea and Bacteria from
+RT   genome sequence of Thermotoga maritima.";
+RL   Nature 399:323-329(1999).
+RN   [2] {ECO:0000213|PDB:3DGE, ECO:0000213|PDB:3DGF, ECO:0000213|PDB:3GL9}
+RP   X-RAY CRYSTALLOGRAPHY (1.80 ANGSTROMS) IN COMPLEX WITH MAGNESIUM.
+RX   PubMed=19800110; DOI=10.1016/j.cell.2009.08.032;
+RA   Casino P., Rubio V., Marina A.;
+RT   "Structural insight into partner specificity and phosphoryl transfer
+RT   in two-component signal transduction.";
+RL   Cell 139:325-336(2009).
+RN   [3] {ECO:0000313|EMBL:AGL49390.1, ECO:0000313|Proteomes:UP000013901}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 43589 / MSB8 / DSM 3109 / JCM 10099
+RC   {ECO:0000313|Proteomes:UP000013901}, and
+RC   MSB8 {ECO:0000313|EMBL:AGL49390.1};
+RX   PubMed=23637642;
+RA   Latif H., Lerman J.A., Portnoy V.A., Tarasova Y., Nagarajan H.,
+RA   Schrimpe-Rutledge A.C., Smith R.D., Adkins J.N., Lee D.H., Qiu Y.,
+RA   Zengler K.;
+RT   "The genome organization of Thermotoga maritima reflects its
+RT   lifestyle.";
+RL   PLoS Genet. 9:E1003485-E1003485(2013).
+RN   [4] {ECO:0000213|PDB:4JA2, ECO:0000213|PDB:4JAS, ECO:0000213|PDB:4JAV}
+RP   X-RAY CRYSTALLOGRAPHY (1.79 ANGSTROMS) IN COMPLEX WITH MAGNESIUM.
+RX   PubMed=23954504;
+RA   Podgornaia A.I., Casino P., Marina A., Laub M.T.;
+RT   "Structural basis of a rationally rewired protein-protein interface
+RT   critical to bacterial signaling.";
+RL   Structure 21:1636-1647(2013).
+CC   -!- INTERACTION:
+CC       Q9WZV7:TM_0853; NbExp=4; IntAct=EBI-2464826, EBI-2464828;
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE000512; AAD35552.1; -; Genomic_DNA.
+DR   EMBL; CP004077; AGL49390.1; -; Genomic_DNA.
+DR   PIR; D72374; D72374.
+DR   RefSeq; NP_228278.1; NC_000853.1.
+DR   RefSeq; WP_004081498.1; NZ_CP011107.1.
+DR   PDB; 3DGE; X-ray; 2.80 A; C/D=1-122.
+DR   PDB; 3DGF; X-ray; 2.00 A; C=1-122.
+DR   PDB; 3GL9; X-ray; 1.80 A; A/B/C/D=1-122.
+DR   PDB; 4JA2; X-ray; 1.79 A; A=1-122.
+DR   PDB; 4JAS; X-ray; 3.00 A; B=1-122.
+DR   PDB; 4JAV; X-ray; 3.10 A; C/D=1-122.
+DR   PDBsum; 3DGE; -.
+DR   PDBsum; 3DGF; -.
+DR   PDBsum; 3GL9; -.
+DR   PDBsum; 4JA2; -.
+DR   PDBsum; 4JAS; -.
+DR   PDBsum; 4JAV; -.
+DR   DIP; DIP-54543N; -.
+DR   STRING; 243274.TM0468; -.
+DR   EnsemblBacteria; AAD35552; AAD35552; TM_0468.
+DR   EnsemblBacteria; AGL49390; AGL49390; Tmari_0465.
+DR   EnsemblBacteria; AHD17775; AHD17775; THEMA_02350.
+DR   GeneID; 897499; -.
+DR   KEGG; tma:TM0468; -.
+DR   KEGG; tmi:THEMA_02350; -.
+DR   KEGG; tmm:Tmari_0465; -.
+DR   PATRIC; 23935833; VBITheMar51294_0475.
+DR   KO; K02485; -.
+DR   KO; K03413; -.
+DR   OMA; VMTKPFS; -.
+DR   OrthoDB; EOG69GZGV; -.
+DR   BioCyc; TMAR243274:GC6P-488-MONOMER; -.
+DR   Proteomes; UP000008183; Chromosome.
+DR   Proteomes; UP000013901; Chromosome.
+DR   GO; GO:0005622; C:intracellular; IEA:GOC.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000160; P:phosphorelay signal transduction system; IEA:InterPro.
+DR   InterPro; IPR011006; CheY-like_superfamily.
+DR   InterPro; IPR001789; Sig_transdc_resp-reg_receiver.
+DR   Pfam; PF00072; Response_reg; 1.
+DR   SMART; SM00448; REC; 1.
+DR   SUPFAM; SSF52172; SSF52172; 1.
+DR   PROSITE; PS50110; RESPONSE_REGULATORY; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3DGE, ECO:0000213|PDB:3DGF};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000008183};
+KW   Magnesium {ECO:0000213|PDB:3GL9, ECO:0000213|PDB:4JA2};
+KW   Metal-binding {ECO:0000213|PDB:3GL9, ECO:0000213|PDB:4JA2};
+KW   Receptor {ECO:0000313|EMBL:AGL49390.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000008183}.
+FT   METAL        10     10       Magnesium. {ECO:0000213|PDB:3GL9,
+FT                                ECO:0000213|PDB:4JA2,
+FT                                ECO:0000213|PDB:4JAS}.
+FT   METAL        53     53       Magnesium. {ECO:0000213|PDB:3GL9,
+FT                                ECO:0000213|PDB:4JA2,
+FT                                ECO:0000213|PDB:4JAS}.
+FT   METAL        55     55       Magnesium; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:3GL9,
+FT                                ECO:0000213|PDB:4JA2,
+FT                                ECO:0000213|PDB:4JAS}.
+SQ   SEQUENCE   122 AA;  13829 MW;  D946EB06B5F279E0 CRC64;
+     MSKKVLLVDD SAVLRKIVSF NLKKEGYEVI EAENGQIALE KLSEFTPDLI VLDIMMPVMD
+     GFTVLKKLQE KEEWKRIPVI VLTAKGGEED ESLALSLGAR KVMRKPFSPS QFIEEVKHLL
+     NE
+//

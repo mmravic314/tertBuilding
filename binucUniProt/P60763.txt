@@ -1,0 +1,260 @@
+ID   RAC3_HUMAN              Reviewed;         192 AA.
+AC   P60763; O14658; Q5U0M8;
+DT   13-APR-2004, integrated into UniProtKB/Swiss-Prot.
+DT   13-APR-2004, sequence version 1.
+DT   22-JUL-2015, entry version 127.
+DE   RecName: Full=Ras-related C3 botulinum toxin substrate 3;
+DE   AltName: Full=p21-Rac3;
+DE   Flags: Precursor;
+GN   Name=RAC3;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=9252344; DOI=10.1074/jbc.272.33.20384;
+RA   Haataja L., Groffen J., Heisterkamp N.;
+RT   "Characterization of RAC3, a novel member of the Rho family.";
+RL   J. Biol. Chem. 272:20384-20388(1997).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RA   Puhl H.L. III, Ikeda S.R., Aronstam R.S.;
+RT   "cDNA clones of human proteins involved in signal transduction
+RT   sequenced by the Guthrie cDNA resource center (www.cdna.org).";
+RL   Submitted (APR-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RA   Kalnine N., Chen X., Rolfs A., Halleck A., Hines L., Eisenstein S.,
+RA   Koundinya M., Raphael J., Moreira D., Kelley T., LaBaer J., Lin Y.,
+RA   Phelan M., Farmer A.;
+RT   "Cloning of human full-length CDSs in BD Creator(TM) system donor
+RT   vector.";
+RL   Submitted (OCT-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Brain;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   INTERACTION WITH C1D.
+RX   PubMed=9852280;
+RA   Haataja L., Groffen J., Heisterkamp N.;
+RT   "Identification of a novel Rac3-interacting protein C1D.";
+RL   Int. J. Mol. Med. 1:665-670(1998).
+RN   [6]
+RP   FUNCTION, SUBCELLULAR LOCATION, AND INTERACTION WITH NRBP.
+RX   PubMed=11956649;
+RA   De Langhe S., Haataja L., Senadheera D., Groffen J., Heisterkamp N.;
+RT   "Interaction of the small GTPase Rac3 with NRBP, a protein with a
+RT   kinase-homology domain.";
+RL   Int. J. Mol. Med. 9:451-459(2002).
+RN   [7]
+RP   FUNCTION, INTERACTION WITH CIB1, AND SUBCELLULAR LOCATION.
+RX   PubMed=11756406; DOI=10.1074/jbc.M105363200;
+RA   Haataja L., Kaartinen V., Groffen J., Heisterkamp N.;
+RT   "The small GTPase Rac3 interacts with the integrin-binding protein CIB
+RT   and promotes integrin alpha(IIb)beta(3)-mediated adhesion and
+RT   spreading.";
+RL   J. Biol. Chem. 277:8321-8328(2002).
+RN   [8]
+RP   INTERACTION WITH DOCK7.
+RX   PubMed=16982419; DOI=10.1016/j.neuron.2006.07.020;
+RA   Watabe-Uchida M., John K.A., Janas J.A., Newey S.E., Van Aelst L.;
+RT   "The Rac activator DOCK7 regulates neuronal polarity through local
+RT   phosphorylation of stathmin/Op18.";
+RL   Neuron 51:727-739(2006).
+RN   [9]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P.,
+RA   Buerckstuemmer T., Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+CC   -!- FUNCTION: Plasma membrane-associated small GTPase which cycles
+CC       between an active GTP-bound and inactive GDP-bound state. In
+CC       active state binds to a variety of effector proteins to regulate
+CC       cellular responses, such as cell spreading and the formation of
+CC       actin-based protusions including lamellipodia and membrane
+CC       ruffles. Promotes cell adhesion and spreading on fibrinogen in a
+CC       CIB1 and alpha-IIb/beta3 integrin-mediated manner.
+CC       {ECO:0000269|PubMed:11756406, ECO:0000269|PubMed:11956649}.
+CC   -!- SUBUNIT: Interacts with the GEF protein DOCK7, which promotes the
+CC       exchange between GDP and GTP, and therefore activates it.
+CC       Interacts with C1D. Interacts (via C-terminal region) with CIB1;
+CC       the interaction induces their association with the cytoskeleton
+CC       upon alpha-IIb/beta3 integrin-mediated adhesion.
+CC       {ECO:0000269|PubMed:11756406, ECO:0000269|PubMed:11956649,
+CC       ECO:0000269|PubMed:16982419, ECO:0000269|PubMed:9852280}.
+CC   -!- INTERACTION:
+CC       P03372:ESR1; NbExp=5; IntAct=EBI-767084, EBI-78473;
+CC       Q9UHY1:NRBP1; NbExp=3; IntAct=EBI-767084, EBI-749731;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm. Endomembrane system. Cell
+CC       projection, lamellipodium. Cytoplasm, perinuclear region. Cell
+CC       membrane. Cytoplasm, cytoskeleton. Note=Membrane-associated when
+CC       activated. Colocalizes with NRBP to endomembranes and at the cell
+CC       periphery in lamellipodia. Colocalized with CIB1 in the
+CC       perinuclear area and at the cell periphery.
+CC   -!- TISSUE SPECIFICITY: Highest levels in brain, also detected in
+CC       heart, placenta and pancreas.
+CC   -!- INDUCTION: Expression down-regulated in quiescent fibroblasts and
+CC       clearly induced by serum stimulation.
+CC   -!- SIMILARITY: Belongs to the small GTPase superfamily. Rho family.
+CC       {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=Atlas of Genetics and Cytogenetics in Oncology
+CC       and Haematology;
+CC       URL="http://atlasgeneticsoncology.org/Genes/RAC3ID42022ch17q25.html";
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF008591; AAC51667.1; -; mRNA.
+DR   EMBL; AF498966; AAM21113.1; -; mRNA.
+DR   EMBL; BT019443; AAV38250.1; -; mRNA.
+DR   EMBL; BC009605; AAH09605.1; -; mRNA.
+DR   EMBL; BC015197; AAH15197.1; -; mRNA.
+DR   CCDS; CCDS11798.1; -.
+DR   RefSeq; NP_005043.1; NM_005052.2.
+DR   UniGene; Hs.45002; -.
+DR   PDB; 2C2H; X-ray; 1.85 A; A/B=1-192.
+DR   PDB; 2G0N; X-ray; 1.90 A; A/B=1-177.
+DR   PDB; 2IC5; X-ray; 1.90 A; A/B=1-178.
+DR   PDB; 2OV2; X-ray; 2.10 A; A/B/C/D/E/F/G/H=1-177.
+DR   PDB; 2QME; X-ray; 1.75 A; A=1-177.
+DR   PDBsum; 2C2H; -.
+DR   PDBsum; 2G0N; -.
+DR   PDBsum; 2IC5; -.
+DR   PDBsum; 2OV2; -.
+DR   PDBsum; 2QME; -.
+DR   ProteinModelPortal; P60763; -.
+DR   SMR; P60763; 1-177.
+DR   BioGrid; 111819; 12.
+DR   DIP; DIP-33881N; -.
+DR   IntAct; P60763; 21.
+DR   MINT; MINT-1613852; -.
+DR   STRING; 9606.ENSP00000304283; -.
+DR   ChEMBL; CHEMBL6087; -.
+DR   PhosphoSite; P60763; -.
+DR   BioMuta; RAC3; -.
+DR   DMDM; 46397673; -.
+DR   MaxQB; P60763; -.
+DR   PaxDb; P60763; -.
+DR   PRIDE; P60763; -.
+DR   DNASU; 5881; -.
+DR   Ensembl; ENST00000306897; ENSP00000304283; ENSG00000169750.
+DR   GeneID; 5881; -.
+DR   KEGG; hsa:5881; -.
+DR   UCSC; uc002kdf.3; human.
+DR   CTD; 5881; -.
+DR   GeneCards; GC17P079989; -.
+DR   HGNC; HGNC:9803; RAC3.
+DR   HPA; HPA047820; -.
+DR   MIM; 602050; gene.
+DR   neXtProt; NX_P60763; -.
+DR   PharmGKB; PA34164; -.
+DR   eggNOG; COG1100; -.
+DR   GeneTree; ENSGT00760000118978; -.
+DR   HOGENOM; HOG000233974; -.
+DR   HOVERGEN; HBG009351; -.
+DR   InParanoid; P60763; -.
+DR   KO; K07861; -.
+DR   OMA; GCSIASI; -.
+DR   OrthoDB; EOG764747; -.
+DR   PhylomeDB; P60763; -.
+DR   TreeFam; TF101109; -.
+DR   BRENDA; 3.6.5.2; 2681.
+DR   Reactome; REACT_11051; Rho GTPase cycle.
+DR   Reactome; REACT_264199; PCP/CE pathway.
+DR   EvolutionaryTrace; P60763; -.
+DR   GeneWiki; RAC3; -.
+DR   GenomeRNAi; 5881; -.
+DR   NextBio; 22858; -.
+DR   PRO; PR:P60763; -.
+DR   Proteomes; UP000005640; Chromosome 17.
+DR   Bgee; P60763; -.
+DR   CleanEx; HS_RAC3; -.
+DR   ExpressionAtlas; P60763; baseline and differential.
+DR   Genevisible; P60763; HS.
+DR   GO; GO:0071944; C:cell periphery; IDA:UniProtKB.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0012505; C:endomembrane system; IDA:UniProtKB.
+DR   GO; GO:0070062; C:extracellular exosome; IDA:UniProtKB.
+DR   GO; GO:0031941; C:filamentous actin; IDA:MGI.
+DR   GO; GO:0030426; C:growth cone; IDA:MGI.
+DR   GO; GO:0030027; C:lamellipodium; IEA:UniProtKB-SubCell.
+DR   GO; GO:0043005; C:neuron projection; IDA:MGI.
+DR   GO; GO:0043025; C:neuronal cell body; IDA:MGI.
+DR   GO; GO:0048471; C:perinuclear region of cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0005886; C:plasma membrane; TAS:Reactome.
+DR   GO; GO:0048306; F:calcium-dependent protein binding; IPI:UniProtKB.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; IDA:UniProtKB.
+DR   GO; GO:0030036; P:actin cytoskeleton organization; IDA:UniProtKB.
+DR   GO; GO:0030031; P:cell projection assembly; IDA:UniProtKB.
+DR   GO; GO:0021894; P:cerebral cortex GABAergic interneuron development; IEA:Ensembl.
+DR   GO; GO:0048873; P:homeostasis of number of cells within a tissue; IEA:Ensembl.
+DR   GO; GO:0035556; P:intracellular signal transduction; TAS:UniProtKB.
+DR   GO; GO:0008152; P:metabolic process; IDA:GOC.
+DR   GO; GO:0050885; P:neuromuscular process controlling balance; IEA:Ensembl.
+DR   GO; GO:0031175; P:neuron projection development; IEA:Ensembl.
+DR   GO; GO:0033630; P:positive regulation of cell adhesion mediated by integrin; IDA:UniProtKB.
+DR   GO; GO:1900026; P:positive regulation of substrate adhesion-dependent cell spreading; IDA:UniProtKB.
+DR   GO; GO:0014041; P:regulation of neuron maturation; IEA:Ensembl.
+DR   GO; GO:0051056; P:regulation of small GTPase mediated signal transduction; TAS:Reactome.
+DR   GO; GO:0007264; P:small GTPase mediated signal transduction; TAS:Reactome.
+DR   GO; GO:0051932; P:synaptic transmission, GABAergic; IEA:Ensembl.
+DR   Gene3D; 3.40.50.300; -; 1.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   InterPro; IPR005225; Small_GTP-bd_dom.
+DR   InterPro; IPR001806; Small_GTPase.
+DR   InterPro; IPR003578; Small_GTPase_Rho.
+DR   Pfam; PF00071; Ras; 1.
+DR   PRINTS; PR00449; RASTRNSFRMNG.
+DR   SMART; SM00174; RHO; 1.
+DR   SUPFAM; SSF52540; SSF52540; 1.
+DR   TIGRFAMs; TIGR00231; small_GTP; 1.
+DR   PROSITE; PS51420; RHO; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cell membrane; Cell projection; Complete proteome;
+KW   Cytoplasm; Cytoskeleton; GTP-binding; Lipoprotein; Membrane;
+KW   Methylation; Nucleotide-binding; Prenylation; Reference proteome.
+FT   CHAIN         1    189       Ras-related C3 botulinum toxin substrate
+FT                                3.
+FT                                /FTId=PRO_0000198889.
+FT   PROPEP      190    192       Removed in mature form. {ECO:0000250}.
+FT                                /FTId=PRO_0000281240.
+FT   NP_BIND      10     17       GTP. {ECO:0000250}.
+FT   NP_BIND      57     61       GTP. {ECO:0000250}.
+FT   NP_BIND     115    118       GTP. {ECO:0000250}.
+FT   MOTIF        32     40       Effector region. {ECO:0000255}.
+FT   MOD_RES     189    189       Cysteine methyl ester. {ECO:0000250}.
+FT   LIPID       189    189       S-geranylgeranyl cysteine. {ECO:0000250}.
+FT   STRAND        2     10       {ECO:0000244|PDB:2QME}.
+FT   HELIX        16     25       {ECO:0000244|PDB:2QME}.
+FT   STRAND       36     46       {ECO:0000244|PDB:2QME}.
+FT   STRAND       49     58       {ECO:0000244|PDB:2QME}.
+FT   HELIX        62     64       {ECO:0000244|PDB:2QME}.
+FT   TURN         65     67       {ECO:0000244|PDB:2QME}.
+FT   HELIX        68     71       {ECO:0000244|PDB:2QME}.
+FT   STRAND       76     83       {ECO:0000244|PDB:2QME}.
+FT   HELIX        87     95       {ECO:0000244|PDB:2QME}.
+FT   HELIX        97    104       {ECO:0000244|PDB:2QME}.
+FT   STRAND      105    108       {ECO:0000244|PDB:2C2H}.
+FT   STRAND      110    115       {ECO:0000244|PDB:2QME}.
+FT   HELIX       117    119       {ECO:0000244|PDB:2QME}.
+FT   HELIX       123    130       {ECO:0000244|PDB:2QME}.
+FT   TURN        131    133       {ECO:0000244|PDB:2QME}.
+FT   HELIX       139    148       {ECO:0000244|PDB:2QME}.
+FT   STRAND      152    156       {ECO:0000244|PDB:2QME}.
+FT   TURN        159    161       {ECO:0000244|PDB:2QME}.
+FT   HELIX       165    177       {ECO:0000244|PDB:2QME}.
+SQ   SEQUENCE   192 AA;  21379 MW;  560BBC26BB7CDF4A CRC64;
+     MQAIKCVVVG DGAVGKTCLL ISYTTNAFPG EYIPTVFDNY SANVMVDGKP VNLGLWDTAG
+     QEDYDRLRPL SYPQTDVFLI CFSLVSPASF ENVRAKWYPE VRHHCPHTPI LLVGTKLDLR
+     DDKDTIERLR DKKLAPITYP QGLAMAREIG SVKYLECSAL TQRGLKTVFD EAIRAVLCPP
+     PVKKPGKKCT VF
+//

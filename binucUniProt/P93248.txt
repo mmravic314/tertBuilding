@@ -1,0 +1,98 @@
+ID   P93248_9FABA            Unreviewed;       286 AA.
+AC   P93248;
+DT   01-MAY-1997, integrated into UniProtKB/TrEMBL.
+DT   01-MAY-1997, sequence version 1.
+DT   27-MAY-2015, entry version 89.
+DE   SubName: Full=Lectin {ECO:0000313|EMBL:AAB39934.1};
+DE   Flags: Precursor; Fragment;
+OS   Maackia amurensis.
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+OC   Sophoreae; Maackia.
+OX   NCBI_TaxID=37501 {ECO:0000313|EMBL:AAB39934.1};
+RN   [1] {ECO:0000313|EMBL:AAB39934.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=9249142; DOI=10.1023/A:1018595300863;
+RA   Van Damme E.J., Van Leuven F., Peumans W.J.;
+RT   "Isolation, characterization and molecular cloning of the bark lectins
+RT   from Maackia amurensis.";
+RL   Glycoconj. J. 14:449-456(1997).
+RN   [2] {ECO:0000313|PIR:JC5444}
+RP   PROTEIN SEQUENCE.
+RX   PubMed=9163528;
+RA   Yamamoto K., Konami Y., Irimura T.;
+RT   "Sialic acid-binding motif of Maackia amurensis lectins.";
+RL   J. Biochem. 121:756-761(1997).
+RN   [3] {ECO:0000213|PDB:1DBN}
+RP   X-RAY CRYSTALLOGRAPHY (2.75 ANGSTROMS) OF 29-267 IN COMPLEX WITH
+RP   CALCIUM; GALACTOSE AND MANGANESE, AND GLYCOSYLATION AT ASN-89; ASN-141
+RP   AND ASN-207.
+RX   PubMed=10747930; DOI=10.1074/jbc.M000560200;
+RA   Imberty A., Gautier C., Lescar J., Perez S., Wyns L., Loris R.;
+RT   "An unusual carbohydrate binding site revealed by the structures of
+RT   two Maackia amurensis lectins complexed with sialic acid-containing
+RT   oligosaccharides.";
+RL   J. Biol. Chem. 275:17541-17548(2000).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U65010; AAB39934.1; -; mRNA.
+DR   PIR; JC5444; JC5444.
+DR   PDB; 1DBN; X-ray; 2.75 A; A/B=29-267.
+DR   PDBsum; 1DBN; -.
+DR   ProteinModelPortal; P93248; -.
+DR   EvolutionaryTrace; P93248; -.
+DR   GO; GO:0030246; F:carbohydrate binding; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 2.60.120.200; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR016363; Lectin.
+DR   InterPro; IPR000985; Lectin_LegA_CS.
+DR   InterPro; IPR019825; Lectin_legB_Mn/Ca_BS.
+DR   InterPro; IPR001220; Legume_lectin_dom.
+DR   Pfam; PF00139; Lectin_legB; 1.
+DR   PIRSF; PIRSF002690; L-type_lectin_plant; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   PROSITE; PS00308; LECTIN_LEGUME_ALPHA; 1.
+DR   PROSITE; PS00307; LECTIN_LEGUME_BETA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:1DBN}; Calcium {ECO:0000213|PDB:1DBN};
+KW   Lectin {ECO:0000256|SAAS:SAAS00122626};
+KW   Manganese {ECO:0000213|PDB:1DBN};
+KW   Metal-binding {ECO:0000213|PDB:1DBN};
+KW   Signal {ECO:0000313|EMBL:AAB39934.1}.
+FT   SIGNAL       <1     28       Potential. {ECO:0000313|EMBL:AAB39934.1}.
+FT   CHAIN        29    286       lectin precursor.
+FT                                {ECO:0000313|EMBL:AAB39934.1}.
+FT                                /FTId=PRO_5000145067.
+FT   REGION      164    165       Galactose binding.
+FT                                {ECO:0000213|PDB:1DBN}.
+FT   METAL       155    155       Manganese. {ECO:0000213|PDB:1DBN}.
+FT   METAL       157    157       Calcium. {ECO:0000213|PDB:1DBN}.
+FT   METAL       157    157       Manganese. {ECO:0000213|PDB:1DBN}.
+FT   METAL       159    159       Calcium; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:1DBN}.
+FT   METAL       165    165       Calcium. {ECO:0000213|PDB:1DBN}.
+FT   METAL       168    168       Calcium. {ECO:0000213|PDB:1DBN}.
+FT   METAL       168    168       Manganese. {ECO:0000213|PDB:1DBN}.
+FT   METAL       173    173       Manganese; via tele nitrogen.
+FT                                {ECO:0000213|PDB:1DBN}.
+FT   BINDING      73     73       Galactose. {ECO:0000213|PDB:1DBN}.
+FT   BINDING     115    115       Galactose. {ECO:0000213|PDB:1DBN}.
+FT   BINDING     159    159       Galactose. {ECO:0000213|PDB:1DBN}.
+FT   CARBOHYD     89     89       N-linked (GlcNAc...).
+FT                                {ECO:0000213|PDB:1DBN}.
+FT   CARBOHYD    141    141       N-linked (GlcNAc...).
+FT                                {ECO:0000213|PDB:1DBN}.
+FT   CARBOHYD    207    207       N-linked (GlcNAc...).
+FT                                {ECO:0000213|PDB:1DBN}.
+FT   NON_TER       1      1       {ECO:0000313|EMBL:AAB39934.1}.
+SQ   SEQUENCE   286 AA;  31209 MW;  0F2E27617A0F6D00 CRC64;
+     ATSNSKPTQV LLATFLTFFF LLLNNVNSSD ELSFTINNFV PNEADLLFQG EASVSSTGVL
+     QLTRVENGQP QQYSVGRALY AAPVRIWDNT TGSVASFSTS FTFVVKAPNP TITSDGLAFF
+     LAPPDSQIPS GRVSKYLGLF NNSNSDSSNQ IVAVEFDTYF GHSYDPWDPN YRHIGIDVNG
+     IESIKTVQWD WINGGVAFAT ITYLAPNKTL IASLVYPSNQ TSFIVAASVD LKEILPEWVR
+     VGFSAATGYP TQVETHDVLS WSFTSTLEAN SDAATENNVH IARYTA
+//

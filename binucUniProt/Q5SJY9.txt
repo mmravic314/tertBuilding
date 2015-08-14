@@ -1,0 +1,99 @@
+ID   Q5SJY9_THET8            Unreviewed;       182 AA.
+AC   Q5SJY9;
+DT   21-DEC-2004, integrated into UniProtKB/TrEMBL.
+DT   21-DEC-2004, sequence version 1.
+DT   24-JUN-2015, entry version 79.
+DE   SubName: Full=MutT/nudix family protein {ECO:0000313|EMBL:BAD70686.1};
+GN   OrderedLocusNames=TTHA0863 {ECO:0000313|EMBL:BAD70686.1};
+OS   Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579).
+OC   Bacteria; Deinococcus-Thermus; Deinococci; Thermales; Thermaceae;
+OC   Thermus.
+OX   NCBI_TaxID=300852 {ECO:0000313|EMBL:BAD70686.1, ECO:0000313|Proteomes:UP000000532};
+RN   [1] {ECO:0000313|EMBL:BAD70686.1, ECO:0000313|Proteomes:UP000000532}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=HB8 / ATCC 27634 / DSM 579 {ECO:0000313|Proteomes:UP000000532};
+RA   Masui R., Kurokawa K., Nakagawa N., Tokunaga F., Koyama Y.,
+RA   Shibata T., Oshima T., Yokoyama S., Yasunaga T., Kuramitsu S.;
+RT   "Complete genome sequence of Thermus thermophilus HB8.";
+RL   Submitted (NOV-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:2YVM, ECO:0000213|PDB:2YVN, ECO:0000213|PDB:2YVO}
+RP   X-RAY CRYSTALLOGRAPHY (1.66 ANGSTROMS) IN COMPLEX WITH AMP AND
+RP   MAGNESIUM.
+RX   PubMed=18039767; DOI=10.1128/JB.01522-07;
+RA   Wakamatsu T., Nakagawa N., Kuramitsu S., Masui R.;
+RT   "Structural basis for different substrate specificities of two ADP-
+RT   ribose pyrophosphatases from Thermus thermophilus HB8.";
+RL   J. Bacteriol. 190:1108-1117(2008).
+CC   -!- SIMILARITY: Belongs to the Nudix hydrolase family.
+CC       {ECO:0000256|RuleBase:RU003476}.
+CC   -!- SIMILARITY: Contains nudix hydrolase domain.
+CC       {ECO:0000256|SAAS:SAAS00025283}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AP008226; BAD70686.1; -; Genomic_DNA.
+DR   RefSeq; WP_011228251.1; NC_006461.1.
+DR   RefSeq; YP_144129.1; NC_006461.1.
+DR   PDB; 2YVM; X-ray; 1.70 A; A=1-182.
+DR   PDB; 2YVN; X-ray; 1.84 A; A=1-182.
+DR   PDB; 2YVO; X-ray; 1.67 A; A=1-182.
+DR   PDB; 2YVP; X-ray; 1.66 A; A=1-182.
+DR   ProteinModelPortal; Q5SJY9; -.
+DR   SMR; Q5SJY9; 1-182.
+DR   STRING; 300852.TTHA0863; -.
+DR   EnsemblBacteria; BAD70686; BAD70686; BAD70686.
+DR   GeneID; 3169070; -.
+DR   KEGG; ttj:TTHA0863; -.
+DR   PATRIC; 23956710; VBITheThe93045_0857.
+DR   eggNOG; NOG298892; -.
+DR   HOGENOM; HOG000045854; -.
+DR   KO; K01515; -.
+DR   OMA; IPLPSFH; -.
+DR   OrthoDB; EOG6VMTQG; -.
+DR   PhylomeDB; Q5SJY9; -.
+DR   BioCyc; TTHE300852:GH8R-896-MONOMER; -.
+DR   EvolutionaryTrace; Q5SJY9; -.
+DR   Proteomes; UP000000532; Chromosome.
+DR   GO; GO:0016787; F:hydrolase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000166; F:nucleotide binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.90.79.10; -; 1.
+DR   InterPro; IPR020476; Nudix_hydrolase.
+DR   InterPro; IPR020084; NUDIX_hydrolase_CS.
+DR   InterPro; IPR000086; NUDIX_hydrolase_dom.
+DR   InterPro; IPR015797; NUDIX_hydrolase_dom-like.
+DR   Pfam; PF00293; NUDIX; 1.
+DR   PRINTS; PR00502; NUDIXFAMILY.
+DR   SUPFAM; SSF55811; SSF55811; 1.
+DR   PROSITE; PS51462; NUDIX; 1.
+DR   PROSITE; PS00893; NUDIX_BOX; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2YVM, ECO:0000213|PDB:2YVN};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000532};
+KW   Hydrolase {ECO:0000256|RuleBase:RU003476,
+KW   ECO:0000256|SAAS:SAAS00025287};
+KW   Magnesium {ECO:0000213|PDB:2YVM, ECO:0000213|PDB:2YVO};
+KW   Metal-binding {ECO:0000213|PDB:2YVM, ECO:0000213|PDB:2YVO};
+KW   Nucleotide-binding {ECO:0000213|PDB:2YVO};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000532}.
+FT   NP_BIND      34     35       AMP. {ECO:0000213|PDB:2YVO}.
+FT   NP_BIND      74     76       AMP. {ECO:0000213|PDB:2YVO}.
+FT   NP_BIND     137    139       AMP. {ECO:0000213|PDB:2YVO}.
+FT   METAL        90     90       Magnesium. {ECO:0000213|PDB:2YVM,
+FT                                ECO:0000213|PDB:2YVO,
+FT                                ECO:0000213|PDB:2YVP}.
+FT   METAL        94     94       Magnesium. {ECO:0000213|PDB:2YVM,
+FT                                ECO:0000213|PDB:2YVO,
+FT                                ECO:0000213|PDB:2YVP}.
+FT   METAL       139    139       Magnesium. {ECO:0000213|PDB:2YVM,
+FT                                ECO:0000213|PDB:2YVO,
+FT                                ECO:0000213|PDB:2YVP}.
+FT   BINDING      90     90       AMP. {ECO:0000213|PDB:2YVO}.
+FT   BINDING      94     94       AMP. {ECO:0000213|PDB:2YVO}.
+SQ   SEQUENCE   182 AA;  20311 MW;  F369975833B2C08D CRC64;
+     MSPWERILLE EILSEPVRLV KERVRTHTGR ELTYVYRPGP VAASFVLPVT ERGTALLVRQ
+     YRHPTGKFLL EVPAGKVDEG ETPEAAARRE LREEVGAEAE TLIPLPSFHP QPSFTAVVFH
+     PFLALKARVV TPPTLEEGEL LESLELPLTE VYALLAKGEI QDASTALTLF YAEPHLKRLG
+     LL
+//

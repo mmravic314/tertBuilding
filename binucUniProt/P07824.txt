@@ -1,0 +1,398 @@
+ID   ARGI1_RAT               Reviewed;         323 AA.
+AC   P07824; Q5BK93;
+DT   01-AUG-1988, integrated into UniProtKB/Swiss-Prot.
+DT   01-APR-1990, sequence version 2.
+DT   22-JUL-2015, entry version 156.
+DE   RecName: Full=Arginase-1;
+DE            EC=3.5.3.1;
+DE   AltName: Full=Liver-type arginase;
+DE   AltName: Full=Type I arginase;
+GN   Name=Arg1;
+OS   Rattus norvegicus (Rat).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Rattus.
+OX   NCBI_TaxID=10116;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Liver;
+RX   PubMed=3571256;
+RA   Kawamoto S., Amaya Y., Murakami K., Tokunaga F., Iwanaga S.,
+RA   Kobayashi K., Saheki T., Kimura S., Mori M.;
+RT   "Complete nucleotide sequence of cDNA and deduced amino acid sequence
+RT   of rat liver arginase.";
+RL   J. Biol. Chem. 262:6280-6283(1987).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   TISSUE=Liver;
+RX   PubMed=2892837;
+RA   Ohtake A., Takiguchi M., Shigeto Y., Amaya Y., Kawamoto S., Mori M.;
+RT   "Structural organization of the gene for rat liver-type arginase.";
+RL   J. Biol. Chem. 263:2245-2249(1988).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Liver;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4]
+RP   MUTAGENESIS OF GLY-235.
+RX   PubMed=11883902; DOI=10.1006/abbi.2001.2720;
+RA   Lavulo L.T., Emig F.A., Ash D.E.;
+RT   "Functional consequences of the G235R mutation in liver arginase
+RT   leading to hyperargininemia.";
+RL   Arch. Biochem. Biophys. 399:49-55(2002).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS).
+RX   PubMed=8849731; DOI=10.1038/383554a0;
+RA   Kanyo Z.F., Scolnick L.R., Ash D.E., Christianson D.W.;
+RT   "Structure of a unique binuclear manganese cluster in arginase.";
+RL   Nature 383:554-557(1996).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (3.0 ANGSTROMS).
+RX   PubMed=9265637; DOI=10.1021/bi970800v;
+RA   Scolnick L.R., Kanyo Z.F., Cavalli R.C., Ash D.E., Christianson D.W.;
+RT   "Altering the binuclear manganese cluster of arginase diminishes
+RT   thermostability and catalytic function.";
+RL   Biochemistry 36:10558-10565(1997).
+RN   [7]
+RP   X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS).
+RX   PubMed=10542097; DOI=10.1038/14929;
+RA   Cox J.D., Kim N.N., Traish A.M., Christianson D.W.;
+RT   "Arginase-boronic acid complex highlights a physiological role in
+RT   erectile function.";
+RL   Nat. Struct. Biol. 6:1043-1047(1999).
+RN   [8]
+RP   X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS) OF 6-319 OF MUTANTS ASN-101;
+RP   GLU-101; ASN-128; GLU-128; ALA-232; CYS-232 AND GLU-234 IN COMPLEXES
+RP   WITH MANGANESE IONS, COFACTOR, BIOPHYSICOCHEMICAL PROPERTIES, AND
+RP   MUTAGENESIS OF HIS-101; ASP-128; ASP-232 AND ASP-234.
+RX   PubMed=12820884; DOI=10.1021/bi030074y;
+RA   Cama E., Emig F.A., Ash D.E., Christianson D.W.;
+RT   "Structural and functional importance of first-shell metal ligands in
+RT   the binuclear manganese cluster of arginase I.";
+RL   Biochemistry 42:7748-7758(2003).
+RN   [9]
+RP   X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) OF 6-319 IN COMPLEX WITH
+RP   MANGANESE IONS AND THE SYNTHETIC INHIBITOR (S)-2-AMINO-7-OXOHEPTANOIC
+RP   ACID.
+RX   PubMed=15315440; DOI=10.1021/ja047788w;
+RA   Shin H., Cama E., Christianson D.W.;
+RT   "Design of amino acid aldehydes as transition-state analogue
+RT   inhibitors of arginase.";
+RL   J. Am. Chem. Soc. 126:10278-10284(2004).
+RN   [10]
+RP   X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS) OF 6-319 OF MUTANTS ALA-141;
+RP   ASN-141; ASP-141 AND CYS-141 IN COMPLEX WITH MANGANESE IONS, COFACTOR,
+RP   MUTAGENESIS OF HIS-141, BIOPHYSICOCHEMICAL PROPERTIES, AND TISSUE
+RP   SPECIFICITY.
+RX   PubMed=16266687; DOI=10.1016/j.abb.2005.09.009;
+RA   Colleluori D.M., Reczkowski R.S., Emig F.A., Cama E., Cox J.D.,
+RA   Scolnick L.R., Compher K., Jude K., Han S., Viola R.E.,
+RA   Christianson D.W., Ash D.E.;
+RT   "Probing the role of the hyper-reactive histidine residue of
+RT   arginase.";
+RL   Arch. Biochem. Biophys. 444:15-26(2005).
+CC   -!- CATALYTIC ACTIVITY: L-arginine + H(2)O = L-ornithine + urea.
+CC   -!- COFACTOR:
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000255|PROSITE-ProRule:PRU00742,
+CC         ECO:0000269|PubMed:12820884, ECO:0000269|PubMed:16266687};
+CC       Note=Binds 2 manganese ions per subunit. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00742, ECO:0000269|PubMed:12820884,
+CC       ECO:0000269|PubMed:16266687};
+CC   -!- ENZYME REGULATION: Inactivated by diethyl pyrocarbonate (DEPC).
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=1.4 mM for arginine {ECO:0000269|PubMed:12820884,
+CC         ECO:0000269|PubMed:16266687};
+CC   -!- PATHWAY: Nitrogen metabolism; urea cycle; L-ornithine and urea
+CC       from L-arginine: step 1/1.
+CC   -!- SUBUNIT: Homotrimer. {ECO:0000269|PubMed:15315440,
+CC       ECO:0000269|PubMed:16266687}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm.
+CC   -!- TISSUE SPECIFICITY: Detected in liver (at protein level).
+CC       {ECO:0000269|PubMed:16266687}.
+CC   -!- INDUCTION: By arginine or homoarginine.
+CC   -!- SIMILARITY: Belongs to the arginase family. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00742}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; J02720; AAA40761.1; -; mRNA.
+DR   EMBL; M17931; AAA40760.1; -; Genomic_DNA.
+DR   EMBL; M17924; AAA40760.1; JOINED; Genomic_DNA.
+DR   EMBL; M17925; AAA40760.1; JOINED; Genomic_DNA.
+DR   EMBL; M17926; AAA40760.1; JOINED; Genomic_DNA.
+DR   EMBL; M17927; AAA40760.1; JOINED; Genomic_DNA.
+DR   EMBL; M17928; AAA40760.1; JOINED; Genomic_DNA.
+DR   EMBL; M17929; AAA40760.1; JOINED; Genomic_DNA.
+DR   EMBL; M17930; AAA40760.1; JOINED; Genomic_DNA.
+DR   EMBL; BC091158; AAH91158.1; -; mRNA.
+DR   PIR; A26702; A26702.
+DR   RefSeq; NP_058830.2; NM_017134.3.
+DR   UniGene; Rn.9857; -.
+DR   PDB; 1D3V; X-ray; 1.70 A; A/B=1-323.
+DR   PDB; 1HQ5; X-ray; 2.30 A; A/B=1-323.
+DR   PDB; 1HQF; X-ray; 2.90 A; A/B/C=1-323.
+DR   PDB; 1HQG; X-ray; 2.00 A; A/B/C=1-323.
+DR   PDB; 1HQH; X-ray; 2.80 A; A/B/C=1-323.
+DR   PDB; 1HQX; X-ray; 3.00 A; A/B/C=1-323.
+DR   PDB; 1P8M; X-ray; 2.84 A; A/B/C=6-319.
+DR   PDB; 1P8N; X-ray; 2.90 A; A/B/C=6-319.
+DR   PDB; 1P8O; X-ray; 2.96 A; A/B/C=6-319.
+DR   PDB; 1P8P; X-ray; 2.50 A; A/B/C=6-319.
+DR   PDB; 1P8Q; X-ray; 2.95 A; A/B/C=6-319.
+DR   PDB; 1P8R; X-ray; 2.50 A; A/B=6-313.
+DR   PDB; 1P8S; X-ray; 3.20 A; A/B/C=6-319.
+DR   PDB; 1R1O; X-ray; 2.80 A; A/B/C=1-323.
+DR   PDB; 1RLA; X-ray; 2.10 A; A/B/C=1-323.
+DR   PDB; 1T4P; X-ray; 2.60 A; A/B/C=6-319.
+DR   PDB; 1T4R; X-ray; 2.60 A; A/B/C=6-319.
+DR   PDB; 1T4S; X-ray; 2.80 A; A/B/C=6-319.
+DR   PDB; 1T4T; X-ray; 2.20 A; A/B/C=6-319.
+DR   PDB; 1T5F; X-ray; 2.20 A; A/B/C=6-319.
+DR   PDB; 1T5G; X-ray; 2.40 A; A/B/C=6-319.
+DR   PDB; 1TA1; X-ray; 2.50 A; A/B/C=6-319.
+DR   PDB; 1TBH; X-ray; 2.70 A; A/B/C=6-319.
+DR   PDB; 1TBJ; X-ray; 2.80 A; A/B/C=6-319.
+DR   PDB; 1TBL; X-ray; 3.10 A; A/B/C=6-319.
+DR   PDB; 1ZPE; X-ray; 1.70 A; A/B/C=6-319.
+DR   PDB; 1ZPG; X-ray; 1.90 A; A/B/C=6-319.
+DR   PDB; 2RLA; X-ray; 3.00 A; A/B/C=1-323.
+DR   PDB; 3E8Q; X-ray; 2.90 A; A/B/C=1-323.
+DR   PDB; 3E8Z; X-ray; 2.00 A; A/B/C=1-323.
+DR   PDB; 3E9B; X-ray; 2.15 A; A/B/C=1-323.
+DR   PDB; 3RLA; X-ray; 2.54 A; A/B/C=1-323.
+DR   PDB; 4RLA; X-ray; 2.94 A; A/B/C=1-323.
+DR   PDB; 5RLA; X-ray; 2.74 A; A/B/C=1-323.
+DR   PDBsum; 1D3V; -.
+DR   PDBsum; 1HQ5; -.
+DR   PDBsum; 1HQF; -.
+DR   PDBsum; 1HQG; -.
+DR   PDBsum; 1HQH; -.
+DR   PDBsum; 1HQX; -.
+DR   PDBsum; 1P8M; -.
+DR   PDBsum; 1P8N; -.
+DR   PDBsum; 1P8O; -.
+DR   PDBsum; 1P8P; -.
+DR   PDBsum; 1P8Q; -.
+DR   PDBsum; 1P8R; -.
+DR   PDBsum; 1P8S; -.
+DR   PDBsum; 1R1O; -.
+DR   PDBsum; 1RLA; -.
+DR   PDBsum; 1T4P; -.
+DR   PDBsum; 1T4R; -.
+DR   PDBsum; 1T4S; -.
+DR   PDBsum; 1T4T; -.
+DR   PDBsum; 1T5F; -.
+DR   PDBsum; 1T5G; -.
+DR   PDBsum; 1TA1; -.
+DR   PDBsum; 1TBH; -.
+DR   PDBsum; 1TBJ; -.
+DR   PDBsum; 1TBL; -.
+DR   PDBsum; 1ZPE; -.
+DR   PDBsum; 1ZPG; -.
+DR   PDBsum; 2RLA; -.
+DR   PDBsum; 3E8Q; -.
+DR   PDBsum; 3E8Z; -.
+DR   PDBsum; 3E9B; -.
+DR   PDBsum; 3RLA; -.
+DR   PDBsum; 4RLA; -.
+DR   PDBsum; 5RLA; -.
+DR   ProteinModelPortal; P07824; -.
+DR   SMR; P07824; 6-319.
+DR   BioGrid; 247899; 2.
+DR   IntAct; P07824; 1.
+DR   MINT; MINT-4567374; -.
+DR   STRING; 10116.ENSRNOP00000017911; -.
+DR   ChEMBL; CHEMBL3232699; -.
+DR   PhosphoSite; P07824; -.
+DR   PaxDb; P07824; -.
+DR   PRIDE; P07824; -.
+DR   Ensembl; ENSRNOT00000017911; ENSRNOP00000017911; ENSRNOG00000013304.
+DR   GeneID; 29221; -.
+DR   KEGG; rno:29221; -.
+DR   CTD; 383; -.
+DR   RGD; 2150; Arg1.
+DR   eggNOG; COG0010; -.
+DR   GeneTree; ENSGT00530000063082; -.
+DR   HOGENOM; HOG000204319; -.
+DR   HOVERGEN; HBG003030; -.
+DR   InParanoid; P07824; -.
+DR   KO; K01476; -.
+DR   OMA; EQECDVK; -.
+DR   OrthoDB; EOG747PJ5; -.
+DR   PhylomeDB; P07824; -.
+DR   TreeFam; TF300034; -.
+DR   BRENDA; 3.5.3.1; 5301.
+DR   Reactome; REACT_328693; Urea cycle.
+DR   SABIO-RK; P07824; -.
+DR   UniPathway; UPA00158; UER00270.
+DR   EvolutionaryTrace; P07824; -.
+DR   NextBio; 608419; -.
+DR   PRO; PR:P07824; -.
+DR   Proteomes; UP000002494; Chromosome 1.
+DR   Genevisible; P07824; RN.
+DR   GO; GO:0005737; C:cytoplasm; IDA:RGD.
+DR   GO; GO:0070062; C:extracellular exosome; IEA:Ensembl.
+DR   GO; GO:0005615; C:extracellular space; IDA:RGD.
+DR   GO; GO:0005741; C:mitochondrial outer membrane; IDA:RGD.
+DR   GO; GO:0043005; C:neuron projection; IDA:RGD.
+DR   GO; GO:0043025; C:neuronal cell body; IDA:RGD.
+DR   GO; GO:0005634; C:nucleus; IEA:Ensembl.
+DR   GO; GO:0004053; F:arginase activity; IDA:RGD.
+DR   GO; GO:0030145; F:manganese ion binding; IDA:RGD.
+DR   GO; GO:0007568; P:aging; IEP:RGD.
+DR   GO; GO:0019547; P:arginine catabolic process to ornithine; IDA:RGD.
+DR   GO; GO:0006525; P:arginine metabolic process; IDA:RGD.
+DR   GO; GO:0071549; P:cellular response to dexamethasone stimulus; IEP:RGD.
+DR   GO; GO:0071377; P:cellular response to glucagon stimulus; IEP:RGD.
+DR   GO; GO:0070301; P:cellular response to hydrogen peroxide; IEP:RGD.
+DR   GO; GO:0071353; P:cellular response to interleukin-4; IEP:RGD.
+DR   GO; GO:0071222; P:cellular response to lipopolysaccharide; IEP:RGD.
+DR   GO; GO:0071560; P:cellular response to transforming growth factor beta stimulus; IEP:RGD.
+DR   GO; GO:0032964; P:collagen biosynthetic process; IMP:RGD.
+DR   GO; GO:0007565; P:female pregnancy; IEP:RGD.
+DR   GO; GO:0001889; P:liver development; IEP:RGD.
+DR   GO; GO:0030324; P:lung development; IEP:RGD.
+DR   GO; GO:0060056; P:mammary gland involution; IEP:RGD.
+DR   GO; GO:0060135; P:maternal process involved in female pregnancy; IEP:RGD.
+DR   GO; GO:0001938; P:positive regulation of endothelial cell proliferation; IDA:RGD.
+DR   GO; GO:0070207; P:protein homotrimerization; IDA:RGD.
+DR   GO; GO:0010963; P:regulation of L-arginine import; IDA:RGD.
+DR   GO; GO:0014075; P:response to amine; IEP:RGD.
+DR   GO; GO:0043200; P:response to amino acid; IEP:RGD.
+DR   GO; GO:0048678; P:response to axon injury; IEP:RGD.
+DR   GO; GO:0046686; P:response to cadmium ion; IEP:RGD.
+DR   GO; GO:0042493; P:response to drug; IEP:RGD.
+DR   GO; GO:0009635; P:response to herbicide; IEP:RGD.
+DR   GO; GO:0032496; P:response to lipopolysaccharide; IEP:RGD.
+DR   GO; GO:0010042; P:response to manganese ion; IEP:RGD.
+DR   GO; GO:0051597; P:response to methylmercury; IEP:RGD.
+DR   GO; GO:0043434; P:response to peptide hormone; IEP:RGD.
+DR   GO; GO:0010269; P:response to selenium ion; IEP:RGD.
+DR   GO; GO:0048545; P:response to steroid hormone; IEP:RGD.
+DR   GO; GO:0033189; P:response to vitamin A; IEP:RGD.
+DR   GO; GO:0033197; P:response to vitamin E; IEP:RGD.
+DR   GO; GO:0009611; P:response to wounding; IEP:RGD.
+DR   GO; GO:0010043; P:response to zinc ion; IEP:RGD.
+DR   GO; GO:0000050; P:urea cycle; IDA:RGD.
+DR   Gene3D; 3.40.800.10; -; 1.
+DR   InterPro; IPR014033; Arginase.
+DR   InterPro; IPR006035; Ureohydrolase.
+DR   InterPro; IPR023696; Ureohydrolase_domain.
+DR   InterPro; IPR020855; Ureohydrolase_Mn_BS.
+DR   PANTHER; PTHR11358; PTHR11358; 1.
+DR   Pfam; PF00491; Arginase; 1.
+DR   PIRSF; PIRSF036979; Arginase; 1.
+DR   PRINTS; PR00116; ARGINASE.
+DR   TIGRFAMs; TIGR01229; rocF_arginase; 1.
+DR   PROSITE; PS01053; ARGINASE_1; 1.
+DR   PROSITE; PS51409; ARGINASE_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Arginine metabolism; Complete proteome; Cytoplasm;
+KW   Hydrolase; Manganese; Metal-binding; Phosphoprotein;
+KW   Reference proteome; Urea cycle.
+FT   CHAIN         1    323       Arginase-1.
+FT                                /FTId=PRO_0000173697.
+FT   REGION      126    130       Substrate binding.
+FT   REGION      137    139       Substrate binding.
+FT   METAL       101    101       Manganese 1.
+FT   METAL       124    124       Manganese 1.
+FT   METAL       124    124       Manganese 2.
+FT   METAL       126    126       Manganese 2.
+FT   METAL       128    128       Manganese 1.
+FT   METAL       232    232       Manganese 1.
+FT   METAL       232    232       Manganese 2.
+FT   METAL       234    234       Manganese 2.
+FT   BINDING     183    183       Substrate.
+FT   MOD_RES      17     17       N6-succinyllysine.
+FT                                {ECO:0000250|UniProtKB:Q61176}.
+FT   MOD_RES      62     62       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:P05089}.
+FT   MOD_RES      72     72       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:Q61176}.
+FT   MOD_RES      75     75       N6-succinyllysine.
+FT                                {ECO:0000250|UniProtKB:Q61176}.
+FT   MOD_RES     163    163       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:P05089}.
+FT   MOD_RES     217    217       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:P05089}.
+FT   MOD_RES     281    281       Phosphothreonine.
+FT                                {ECO:0000250|UniProtKB:Q61176}.
+FT   MUTAGEN     101    101       H->E: Reduced catalytic activity. No
+FT                                effect on manganese binding.
+FT                                {ECO:0000269|PubMed:12820884}.
+FT   MUTAGEN     128    128       D->E,N: Reduced manganese binding and
+FT                                strongly reduced catalytic activity.
+FT                                {ECO:0000269|PubMed:12820884}.
+FT   MUTAGEN     141    141       H->A,C,D: Strongly reduced catalytic
+FT                                activity. Minor effect on affinity for
+FT                                arginine. {ECO:0000269|PubMed:16266687}.
+FT   MUTAGEN     141    141       H->N: Reduced affinity for arginine and
+FT                                reduced catalytic activity.
+FT                                {ECO:0000269|PubMed:16266687}.
+FT   MUTAGEN     232    232       D->A: Loss of one manganese ion and
+FT                                strongly reduced catalytic activity.
+FT                                {ECO:0000269|PubMed:12820884}.
+FT   MUTAGEN     232    232       D->C: Reduced manganese binding and
+FT                                strongly reduced catalytic activity.
+FT                                {ECO:0000269|PubMed:12820884}.
+FT   MUTAGEN     234    234       D->A,E,H: Reduced manganese binding and
+FT                                strongly reduced catalytic activity.
+FT                                {ECO:0000269|PubMed:12820884}.
+FT   MUTAGEN     235    235       G->A: 56% of wild-type activity.
+FT                                {ECO:0000269|PubMed:11883902}.
+FT   MUTAGEN     235    235       G->R: Loss of manganese-binding and
+FT                                activity. {ECO:0000269|PubMed:11883902}.
+FT   CONFLICT    298    298       A -> P (in Ref. 1; AAA40761/AAA40760).
+FT                                {ECO:0000305}.
+FT   STRAND        8     12       {ECO:0000244|PDB:1D3V}.
+FT   STRAND       19     21       {ECO:0000244|PDB:1ZPE}.
+FT   HELIX        22     26       {ECO:0000244|PDB:1D3V}.
+FT   HELIX        27     33       {ECO:0000244|PDB:1D3V}.
+FT   HELIX        36     40       {ECO:0000244|PDB:1D3V}.
+FT   STRAND       43     45       {ECO:0000244|PDB:1D3V}.
+FT   STRAND       47     52       {ECO:0000244|PDB:1D3V}.
+FT   STRAND       64     66       {ECO:0000244|PDB:5RLA}.
+FT   STRAND       67     69       {ECO:0000244|PDB:1ZPE}.
+FT   HELIX        70     89       {ECO:0000244|PDB:1D3V}.
+FT   STRAND       93     97       {ECO:0000244|PDB:1D3V}.
+FT   HELIX       101    103       {ECO:0000244|PDB:1D3V}.
+FT   HELIX       104    114       {ECO:0000244|PDB:1D3V}.
+FT   STRAND      119    126       {ECO:0000244|PDB:1D3V}.
+FT   TURN        132    134       {ECO:0000244|PDB:1D3V}.
+FT   STRAND      136    138       {ECO:0000244|PDB:1TBH}.
+FT   HELIX       140    142       {ECO:0000244|PDB:1D3V}.
+FT   HELIX       144    148       {ECO:0000244|PDB:1D3V}.
+FT   HELIX       150    152       {ECO:0000244|PDB:1D3V}.
+FT   STRAND      153    156       {ECO:0000244|PDB:1P8O}.
+FT   TURN        160    164       {ECO:0000244|PDB:1HQH}.
+FT   HELIX       171    173       {ECO:0000244|PDB:1D3V}.
+FT   STRAND      174    179       {ECO:0000244|PDB:1D3V}.
+FT   HELIX       184    193       {ECO:0000244|PDB:1D3V}.
+FT   STRAND      196    199       {ECO:0000244|PDB:1D3V}.
+FT   HELIX       200    206       {ECO:0000244|PDB:1D3V}.
+FT   HELIX       208    220       {ECO:0000244|PDB:1D3V}.
+FT   STRAND      221    223       {ECO:0000244|PDB:3E9B}.
+FT   STRAND      227    232       {ECO:0000244|PDB:1D3V}.
+FT   HELIX       233    235       {ECO:0000244|PDB:1D3V}.
+FT   TURN        238    240       {ECO:0000244|PDB:1D3V}.
+FT   STRAND      244    246       {ECO:0000244|PDB:1D3V}.
+FT   HELIX       254    267       {ECO:0000244|PDB:1D3V}.
+FT   STRAND      270    276       {ECO:0000244|PDB:1D3V}.
+FT   HELIX       280    282       {ECO:0000244|PDB:1ZPE}.
+FT   STRAND      283    285       {ECO:0000244|PDB:1P8R}.
+FT   HELIX       286    303       {ECO:0000244|PDB:1D3V}.
+SQ   SEQUENCE   323 AA;  34973 MW;  5A92CB0931F9A053 CRC64;
+     MSSKPKPIEI IGAPFSKGQP RGGVEKGPAA LRKAGLVEKL KETEYNVRDH GDLAFVDVPN
+     DSPFQIVKNP RSVGKANEQL AAVVAETQKN GTISVVLGGD HSMAIGSISG HARVHPDLCV
+     IWVDAHTDIN TPLTTSSGNL HGQPVAFLLK ELKGKFPDVP GFSWVTPCIS AKDIVYIGLR
+     DVDPGEHYII KTLGIKYFSM TEVDKLGIGK VMEETFSYLL GRKKRPIHLS FDVDGLDPVF
+     TPATGTPVVG GLSYREGLYI TEEIYKTGLL SGLDIMEVNP TLGKTPEEVT RTVNTAVALT
+     LSCFGTKREG NHKPETDYLK PPK
+//

@@ -1,0 +1,88 @@
+ID   B8YB60_SULSH            Unreviewed;        84 AA.
+AC   B8YB60;
+DT   03-MAR-2009, integrated into UniProtKB/TrEMBL.
+DT   03-MAR-2009, sequence version 1.
+DT   24-JUN-2015, entry version 37.
+DE   RecName: Full=DNA-directed RNA polymerase subunit H {ECO:0000256|HAMAP-Rule:MF_00025};
+DE            EC=2.7.7.6 {ECO:0000256|HAMAP-Rule:MF_00025};
+GN   Name=rpo5 {ECO:0000313|EMBL:ACL36495.1};
+GN   Synonyms=rpoH {ECO:0000256|HAMAP-Rule:MF_00025};
+OS   Sulfolobus shibatae B12.
+OC   Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae;
+OC   Sulfolobus.
+OX   NCBI_TaxID=523848 {ECO:0000313|EMBL:ACL36495.1};
+RN   [1] {ECO:0000313|EMBL:ACL36495.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=B12 {ECO:0000313|EMBL:ACL36495.1};
+RA   Bell S.;
+RT   "RNA polymerase from Sulfolobus shibatae.";
+RL   Submitted (DEC-2008) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:2WAQ, ECO:0000213|PDB:2WB1}
+RP   X-RAY CRYSTALLOGRAPHY (3.35 ANGSTROMS).
+RX   PubMed=19419240; DOI=10.1371/journal.pbio.1000102;
+RA   Korkhin Y., Unligil U.M., Littlefield O., Nelson P.J., Stuart D.I.,
+RA   Sigler P.B., Bell S.D., Abrescia N.G.;
+RT   "Evolution of complex RNA polymerases: the complete archaeal RNA
+RT   polymerase structure.";
+RL   PLoS Biol. 7:e1000102-e1000102(2009).
+RN   [3] {ECO:0000213|PDB:2Y0S}
+RP   X-RAY CRYSTALLOGRAPHY (3.80 ANGSTROMS).
+RX   PubMed=21265742; DOI=10.1042/BST0390025;
+RA   Wojtas M., Peralta B., Ondiviela M., Mogni M., Bell S.D.,
+RA   Abrescia N.G.;
+RT   "Archaeal RNA polymerase: the influence of the protruding stalk in
+RT   crystal packing and preliminary biophysical analysis of the Rpo13
+RT   subunit.";
+RL   Biochem. Soc. Trans. 39:25-30(2011).
+RN   [4] {ECO:0000213|PDB:4AYB, ECO:0000213|PDB:4B1O, ECO:0000213|PDB:4B1P}
+RP   X-RAY CRYSTALLOGRAPHY (3.20 ANGSTROMS).
+RX   PubMed=22848102; DOI=10.1093/nar/gks692;
+RA   Wojtas M.N., Mogni M., Millet O., Bell S.D., Abrescia N.G.;
+RT   "Structural and functional analyses of the interaction of archaeal RNA
+RT   polymerase with DNA.";
+RL   Nucleic Acids Res. 40:9941-9952(2012).
+CC   -!- FUNCTION: DNA-dependent RNA polymerase catalyzes the transcription
+CC       of DNA into RNA using the four ribonucleoside triphosphates as
+CC       substrates. {ECO:0000256|HAMAP-Rule:MF_00025}.
+CC   -!- CATALYTIC ACTIVITY: Nucleoside triphosphate + RNA(n) = diphosphate
+CC       + RNA(n+1). {ECO:0000256|HAMAP-Rule:MF_00025}.
+CC   -!- SIMILARITY: Belongs to the archaeal RpoH/eukaryotic RPB5 RNA
+CC       polymerase subunit family. {ECO:0000256|HAMAP-Rule:MF_00025}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; FJ515672; ACL36495.1; -; Genomic_DNA.
+DR   PDB; 2WAQ; X-ray; 3.35 A; H=1-84.
+DR   PDB; 2WB1; X-ray; 3.52 A; H/Z=1-84.
+DR   PDB; 2Y0S; X-ray; 3.80 A; H/Z=1-84.
+DR   PDB; 4AYB; X-ray; 3.20 A; H=1-84.
+DR   PDB; 4V8S; X-ray; 4.32 A; AZ/BH=1-84.
+DR   PDBsum; 2WAQ; -.
+DR   PDBsum; 2WB1; -.
+DR   PDBsum; 4V8S; -.
+DR   BRENDA; 2.7.7.6; 6162.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0003899; F:DNA-directed RNA polymerase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0006351; P:transcription, DNA-templated; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 3.90.940.20; -; 1.
+DR   HAMAP; MF_00025; RNApol_RpoH_RPB5; 1.
+DR   InterPro; IPR000783; RNA_pol_subH/Rpb5_C.
+DR   InterPro; IPR020608; RNA_pol_subH/Rpb5_CS.
+DR   InterPro; IPR020609; RpoH/RPB5.
+DR   Pfam; PF01191; RNA_pol_Rpb5_C; 1.
+DR   ProDom; PD005155; RNA_pol_subH/Rpb5_C; 1.
+DR   SUPFAM; SSF55287; SSF55287; 1.
+DR   PROSITE; PS01110; RNA_POL_H_23KD; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2WAQ, ECO:0000213|PDB:2WB1};
+KW   DNA-directed RNA polymerase {ECO:0000256|HAMAP-Rule:MF_00025,
+KW   ECO:0000256|SAAS:SAAS00130682};
+KW   Nucleotidyltransferase {ECO:0000256|HAMAP-Rule:MF_00025};
+KW   Transcription {ECO:0000256|HAMAP-Rule:MF_00025,
+KW   ECO:0000256|SAAS:SAAS00130682};
+KW   Transferase {ECO:0000256|HAMAP-Rule:MF_00025}.
+SQ   SEQUENCE   84 AA;  9671 MW;  2B26E5F522846532 CRC64;
+     MRGSSNRKID PRIHYLVPKH EVLSIDEAYK ILKELGIRPE QLPWIRASDP VARSINAKPG
+     DIIRIIRKSQ LYGEVVSYRY VISG
+//

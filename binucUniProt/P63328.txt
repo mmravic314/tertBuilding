@@ -1,0 +1,320 @@
+ID   PP2BA_MOUSE             Reviewed;         521 AA.
+AC   P63328; P12816; P20652; Q3UCU1; Q64135;
+DT   11-OCT-2004, integrated into UniProtKB/Swiss-Prot.
+DT   11-OCT-2004, sequence version 1.
+DT   22-JUL-2015, entry version 121.
+DE   RecName: Full=Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform;
+DE            EC=3.1.3.16;
+DE   AltName: Full=CAM-PRP catalytic subunit;
+DE   AltName: Full=Calmodulin-dependent calcineurin A subunit alpha isoform;
+GN   Name=Ppp3ca; Synonyms=Calna;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RX   PubMed=2162844;
+RA   Kincaid R.L., Giri P.R., Higuchi S., Tamura J., Dixon S.C.,
+RA   Marietta C.A., Amorese D.A., Martin B.M.;
+RT   "Cloning and characterization of molecular isoforms of the catalytic
+RT   subunit of calcineurin using nonisotopic methods.";
+RL   J. Biol. Chem. 265:11312-11319(1990).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).
+RC   STRAIN=BALB/c, and C57BL/6J; TISSUE=Bone marrow;
+RX   PubMed=16141072; DOI=10.1126/science.1112014;
+RA   Carninci P., Kasukawa T., Katayama S., Gough J., Frith M.C., Maeda N.,
+RA   Oyama R., Ravasi T., Lenhard B., Wells C., Kodzius R., Shimokawa K.,
+RA   Bajic V.B., Brenner S.E., Batalov S., Forrest A.R., Zavolan M.,
+RA   Davis M.J., Wilming L.G., Aidinis V., Allen J.E.,
+RA   Ambesi-Impiombato A., Apweiler R., Aturaliya R.N., Bailey T.L.,
+RA   Bansal M., Baxter L., Beisel K.W., Bersano T., Bono H., Chalk A.M.,
+RA   Chiu K.P., Choudhary V., Christoffels A., Clutterbuck D.R.,
+RA   Crowe M.L., Dalla E., Dalrymple B.P., de Bono B., Della Gatta G.,
+RA   di Bernardo D., Down T., Engstrom P., Fagiolini M., Faulkner G.,
+RA   Fletcher C.F., Fukushima T., Furuno M., Futaki S., Gariboldi M.,
+RA   Georgii-Hemming P., Gingeras T.R., Gojobori T., Green R.E.,
+RA   Gustincich S., Harbers M., Hayashi Y., Hensch T.K., Hirokawa N.,
+RA   Hill D., Huminiecki L., Iacono M., Ikeo K., Iwama A., Ishikawa T.,
+RA   Jakt M., Kanapin A., Katoh M., Kawasawa Y., Kelso J., Kitamura H.,
+RA   Kitano H., Kollias G., Krishnan S.P., Kruger A., Kummerfeld S.K.,
+RA   Kurochkin I.V., Lareau L.F., Lazarevic D., Lipovich L., Liu J.,
+RA   Liuni S., McWilliam S., Madan Babu M., Madera M., Marchionni L.,
+RA   Matsuda H., Matsuzawa S., Miki H., Mignone F., Miyake S., Morris K.,
+RA   Mottagui-Tabar S., Mulder N., Nakano N., Nakauchi H., Ng P.,
+RA   Nilsson R., Nishiguchi S., Nishikawa S., Nori F., Ohara O.,
+RA   Okazaki Y., Orlando V., Pang K.C., Pavan W.J., Pavesi G., Pesole G.,
+RA   Petrovsky N., Piazza S., Reed J., Reid J.F., Ring B.Z., Ringwald M.,
+RA   Rost B., Ruan Y., Salzberg S.L., Sandelin A., Schneider C.,
+RA   Schoenbach C., Sekiguchi K., Semple C.A., Seno S., Sessa L., Sheng Y.,
+RA   Shibata Y., Shimada H., Shimada K., Silva D., Sinclair B.,
+RA   Sperling S., Stupka E., Sugiura K., Sultana R., Takenaka Y., Taki K.,
+RA   Tammoja K., Tan S.L., Tang S., Taylor M.S., Tegner J., Teichmann S.A.,
+RA   Ueda H.R., van Nimwegen E., Verardo R., Wei C.L., Yagi K.,
+RA   Yamanishi H., Zabarovsky E., Zhu S., Zimmer A., Hide W., Bult C.,
+RA   Grimmond S.M., Teasdale R.D., Liu E.T., Brusic V., Quackenbush J.,
+RA   Wahlestedt C., Mattick J.S., Hume D.A., Kai C., Sasaki D., Tomaru Y.,
+RA   Fukuda S., Kanamori-Katayama M., Suzuki M., Aoki J., Arakawa T.,
+RA   Iida J., Imamura K., Itoh M., Kato T., Kawaji H., Kawagashira N.,
+RA   Kawashima T., Kojima M., Kondo S., Konno H., Nakano K., Ninomiya N.,
+RA   Nishio T., Okada M., Plessy C., Shibata K., Shiraki T., Suzuki S.,
+RA   Tagami M., Waki K., Watahiki A., Okamura-Oho Y., Suzuki H., Kawai J.,
+RA   Hayashizaki Y.;
+RT   "The transcriptional landscape of the mammalian genome.";
+RL   Science 309:1559-1563(2005).
+RN   [3]
+RP   PROTEIN SEQUENCE OF 64-73; 101-122 AND 425-459, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY.
+RC   STRAIN=C57BL/6, and OF1; TISSUE=Brain, and Hippocampus;
+RA   Lubec G., Kang S.U., Sunyer B., Chen W.-Q.;
+RL   Submitted (JAN-2009) to UniProtKB.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 95-116.
+RX   PubMed=8077208;
+RA   Becker W., Kentrup H., Klumpp S., Schultz J.E., Joost H.G.;
+RT   "Molecular cloning of a protein serine/threonine phosphatase
+RT   containing a putative regulatory tetratricopeptide repeat domain.";
+RL   J. Biol. Chem. 269:22586-22592(1994).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 215-521 (ISOFORM 1).
+RX   PubMed=2848250; DOI=10.1073/pnas.85.23.8983;
+RA   Kincaid R.L., Nightingale M.S., Martin B.M.;
+RT   "Characterization of a cDNA clone encoding the calmodulin-binding
+RT   domain of mouse brain calcineurin.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 85:8983-8987(1988).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 467-491, AND MUTAGENESIS OF ASP-477.
+RX   PubMed=7791792;
+RA   Fruman D.A., Pai S.-Y., Burakoff S.J., Bierer B.E.;
+RT   "Characterization of a mutant calcineurin A alpha gene expressed by
+RT   EL4 lymphoma cells.";
+RL   Mol. Cell. Biol. 15:3857-3863(1995).
+RN   [7]
+RP   FUNCTION.
+RX   PubMed=1328240;
+RA   Gaestel M., Benndorf R., Hayess K., Priemer E., Engel K.;
+RT   "Dephosphorylation of the small heat shock protein hsp25 by
+RT   calcium/calmodulin-dependent (type 2B) protein phosphatase.";
+RL   J. Biol. Chem. 267:21607-21611(1992).
+RN   [8]
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=11114196; DOI=10.1073/pnas.260501097;
+RA   Frey N., Richardson J.A., Olson E.N.;
+RT   "Calsarcins, a novel family of sarcomeric calcineurin-binding
+RT   proteins.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 97:14632-14637(2000).
+RN   [9]
+RP   NITRATION [LARGE SCALE ANALYSIS] AT TYR-224, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Brain;
+RX   PubMed=16800626; DOI=10.1021/bi060474w;
+RA   Sacksteder C.A., Qian W.-J., Knyushko T.V., Wang H., Chin M.H.,
+RA   Lacan G., Melega W.P., Camp D.G. II, Smith R.D., Smith D.J.,
+RA   Squier T.C., Bigelow D.J.;
+RT   "Endogenously nitrated proteins in mouse brain: links to
+RT   neurodegenerative disease.";
+RL   Biochemistry 45:8009-8022(2006).
+RN   [10]
+RP   INTERACTION WITH CIB1, AND SUBCELLULAR LOCATION.
+RX   PubMed=20639889; DOI=10.1038/nm.2181;
+RA   Heineke J., Auger-Messier M., Correll R.N., Xu J., Benard M.J.,
+RA   Yuan W., Drexler H., Parise L.V., Molkentin J.D.;
+RT   "CIB1 is a regulator of pathological cardiac hypertrophy.";
+RL   Nat. Med. 16:872-879(2010).
+RN   [11]
+RP   INTERACTION WITH CMYA5.
+RX   PubMed=21427212; DOI=10.1096/fj.10-169219;
+RA   Kielbasa O.M., Reynolds J.G., Wu C.L., Snyder C.M., Cho M.Y.,
+RA   Weiler H., Kandarian S., Naya F.J.;
+RT   "Myospryn is a calcineurin-interacting protein that negatively
+RT   modulates slow-fiber-type transformation and skeletal muscle
+RT   regeneration.";
+RL   FASEB J. 25:2276-2286(2011).
+CC   -!- FUNCTION: Calcium-dependent, calmodulin-stimulated protein
+CC       phosphatase. Many of the substrates contain a PxIxIT motif. This
+CC       subunit may have a role in the calmodulin activation of
+CC       calcineurin. Dephosphorylates DNM1L and HSPB1 (By similarity).
+CC       Dephosphorylates SSH1. {ECO:0000250, ECO:0000269|PubMed:1328240}.
+CC   -!- CATALYTIC ACTIVITY: [a protein]-serine/threonine phosphate + H(2)O
+CC       = [a protein]-serine/threonine + phosphate.
+CC   -!- COFACTOR:
+CC       Name=Fe(3+); Xref=ChEBI:CHEBI:29034; Evidence={ECO:0000250};
+CC       Note=Binds 1 Fe(3+) ion per subunit. {ECO:0000250};
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000250};
+CC       Note=Binds 1 zinc ion per subunit. {ECO:0000250};
+CC   -!- SUBUNIT: Composed of two components (A and B), the A component is
+CC       the catalytic subunit and the B component confers calcium
+CC       sensitivity. Interacts with CRTC2, MYOZ1, MYOZ2 and MYOZ3.
+CC       Interacts with DNM1L; the interaction dephosphorylates DNM1L and
+CC       regulates its translocation to mitochondria. Interacts with CHP1
+CC       and CHP2 (By similarity). Interacts with CMYA5; this interaction
+CC       represses calcineurin activity in muscle. Interacts with CIB1; the
+CC       interaction increases upon cardiomyocytes hypertrophy.
+CC       {ECO:0000250, ECO:0000269|PubMed:20639889,
+CC       ECO:0000269|PubMed:21427212}.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane. Cell membrane, sarcolemma.
+CC       Nucleus. Note=Colocalizes with ACTN1 and MYOZ2 at the Z line in
+CC       heart and skeletal muscle.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=P63328-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=P63328-2; Sequence=VSP_018563;
+CC         Note=No experimental confirmation available.;
+CC   -!- SIMILARITY: Belongs to the PPP phosphatase family. PP-2B
+CC       subfamily. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; J05479; AAA37359.1; -; mRNA.
+DR   EMBL; AK146387; BAE27131.1; -; mRNA.
+DR   EMBL; AK150393; BAE29521.1; -; mRNA.
+DR   EMBL; J04134; AAA37432.1; -; mRNA.
+DR   EMBL; S78668; AAB34675.1; -; mRNA.
+DR   CCDS; CCDS17860.1; -. [P63328-1]
+DR   PIR; A42232; A31257.
+DR   RefSeq; NP_001280551.1; NM_001293622.1. [P63328-2]
+DR   RefSeq; NP_032939.1; NM_008913.5. [P63328-1]
+DR   UniGene; Mm.331389; -.
+DR   UniGene; Mm.486983; -.
+DR   PDB; 4ORB; X-ray; 3.11 A; A=1-521.
+DR   PDBsum; 4ORB; -.
+DR   ProteinModelPortal; P63328; -.
+DR   SMR; P63328; 1-411.
+DR   BioGrid; 202344; 8.
+DR   DIP; DIP-31543N; -.
+DR   IntAct; P63328; 8.
+DR   MINT; MINT-135995; -.
+DR   STRING; 10090.ENSMUSP00000053101; -.
+DR   PhosphoSite; P63328; -.
+DR   MaxQB; P63328; -.
+DR   PaxDb; P63328; -.
+DR   PRIDE; P63328; -.
+DR   Ensembl; ENSMUST00000056758; ENSMUSP00000053101; ENSMUSG00000028161. [P63328-1]
+DR   Ensembl; ENSMUST00000070198; ENSMUSP00000071040; ENSMUSG00000028161. [P63328-2]
+DR   GeneID; 19055; -.
+DR   KEGG; mmu:19055; -.
+DR   UCSC; uc008rmg.2; mouse. [P63328-1]
+DR   UCSC; uc008rmh.2; mouse. [P63328-2]
+DR   CTD; 5530; -.
+DR   MGI; MGI:107164; Ppp3ca.
+DR   eggNOG; COG0639; -.
+DR   GeneTree; ENSGT00530000063087; -.
+DR   HOGENOM; HOG000172699; -.
+DR   HOVERGEN; HBG002819; -.
+DR   InParanoid; P63328; -.
+DR   KO; K04348; -.
+DR   OMA; LSVWPAG; -.
+DR   OrthoDB; EOG7BZVSC; -.
+DR   PhylomeDB; P63328; -.
+DR   TreeFam; TF105557; -.
+DR   Reactome; REACT_325290; DARPP-32 events.
+DR   Reactome; REACT_331940; Ca2+ pathway.
+DR   Reactome; REACT_348733; FCERI mediated Ca+2 mobilization.
+DR   Reactome; REACT_362087; CLEC7A (Dectin-1) induces NFAT activation.
+DR   ChiTaRS; Ppp3ca; mouse.
+DR   NextBio; 295542; -.
+DR   PRO; PR:P63328; -.
+DR   Proteomes; UP000000589; Chromosome 3.
+DR   Bgee; P63328; -.
+DR   ExpressionAtlas; P63328; baseline and differential.
+DR   Genevisible; P63328; MM.
+DR   GO; GO:0005955; C:calcineurin complex; IDA:MGI.
+DR   GO; GO:0005737; C:cytoplasm; ISO:MGI.
+DR   GO; GO:0005829; C:cytosol; IDA:MGI.
+DR   GO; GO:0005739; C:mitochondrion; IDA:MGI.
+DR   GO; GO:0005654; C:nucleoplasm; ISO:MGI.
+DR   GO; GO:0005634; C:nucleus; IDA:MGI.
+DR   GO; GO:0042383; C:sarcolemma; IEA:UniProtKB-SubCell.
+DR   GO; GO:0030018; C:Z disc; IDA:MGI.
+DR   GO; GO:0004723; F:calcium-dependent protein serine/threonine phosphatase activity; TAS:Reactome.
+DR   GO; GO:0005516; F:calmodulin binding; ISO:MGI.
+DR   GO; GO:0033192; F:calmodulin-dependent protein phosphatase activity; ISS:UniProtKB.
+DR   GO; GO:0008144; F:drug binding; ISO:MGI.
+DR   GO; GO:0019899; F:enzyme binding; ISO:MGI.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004721; F:phosphoprotein phosphatase activity; IDA:MGI.
+DR   GO; GO:0046983; F:protein dimerization activity; ISO:MGI.
+DR   GO; GO:0033173; P:calcineurin-NFAT signaling cascade; IDA:MGI.
+DR   GO; GO:0006816; P:calcium ion transport; IMP:MGI.
+DR   GO; GO:0019722; P:calcium-mediated signaling; IGI:MGI.
+DR   GO; GO:0014898; P:cardiac muscle hypertrophy in response to stress; IGI:MGI.
+DR   GO; GO:0035690; P:cellular response to drug; ISO:MGI.
+DR   GO; GO:0071333; P:cellular response to glucose stimulus; IEA:Ensembl.
+DR   GO; GO:0016311; P:dephosphorylation; IDA:MGI.
+DR   GO; GO:0000082; P:G1/S transition of mitotic cell cycle; IMP:MGI.
+DR   GO; GO:0033555; P:multicellular organismal response to stress; IDA:MGI.
+DR   GO; GO:0035562; P:negative regulation of chromatin binding; IMP:MGI.
+DR   GO; GO:0050774; P:negative regulation of dendrite morphogenesis; IMP:MGI.
+DR   GO; GO:0046676; P:negative regulation of insulin secretion; IEA:Ensembl.
+DR   GO; GO:1903244; P:positive regulation of cardiac muscle hypertrophy in response to stress; IDA:BHF-UCL.
+DR   GO; GO:0051533; P:positive regulation of NFAT protein import into nucleus; IDA:MGI.
+DR   GO; GO:0051091; P:positive regulation of sequence-specific DNA binding transcription factor activity; IDA:MGI.
+DR   GO; GO:0045944; P:positive regulation of transcription from RNA polymerase II promoter; IDA:MGI.
+DR   GO; GO:0006470; P:protein dephosphorylation; IMP:MGI.
+DR   GO; GO:0006606; P:protein import into nucleus; IDA:MGI.
+DR   GO; GO:0060079; P:regulation of excitatory postsynaptic membrane potential; IGI:MGI.
+DR   GO; GO:0050804; P:regulation of synaptic transmission; IMP:MGI.
+DR   GO; GO:0001975; P:response to amphetamine; IEA:Ensembl.
+DR   GO; GO:0051592; P:response to calcium ion; ISS:UniProtKB.
+DR   GO; GO:0048741; P:skeletal muscle fiber development; IMP:MGI.
+DR   GO; GO:0014883; P:transition between fast and slow fiber; IDA:MGI.
+DR   Gene3D; 3.60.21.10; -; 1.
+DR   InterPro; IPR004843; Calcineurin-like_PHP_apaH.
+DR   InterPro; IPR029052; Metallo-depent_PP-like.
+DR   InterPro; IPR006186; Ser/Thr-sp_prot-phosphatase.
+DR   Pfam; PF00149; Metallophos; 1.
+DR   PRINTS; PR00114; STPHPHTASE.
+DR   SMART; SM00156; PP2Ac; 1.
+DR   SUPFAM; SSF56300; SSF56300; 1.
+DR   PROSITE; PS00125; SER_THR_PHOSPHATASE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Alternative splicing; Calmodulin-binding;
+KW   Cell membrane; Complete proteome; Direct protein sequencing;
+KW   Hydrolase; Iron; Membrane; Metal-binding; Nitration; Nucleus;
+KW   Protein phosphatase; Reference proteome; Zinc.
+FT   INIT_MET      1      1       Removed. {ECO:0000250|UniProtKB:Q08209}.
+FT   CHAIN         2    521       Serine/threonine-protein phosphatase 2B
+FT                                catalytic subunit alpha isoform.
+FT                                /FTId=PRO_0000058823.
+FT   REGION        2    301       Catalytic.
+FT   REGION      247    253       Calcineurin B binding-site 1.
+FT                                {ECO:0000255}.
+FT   REGION      296    301       Calcineurin B binding-site 2.
+FT                                {ECO:0000255}.
+FT   REGION      392    414       Calmodulin-binding. {ECO:0000255}.
+FT   REGION      465    487       Inhibitory domain.
+FT   ACT_SITE    151    151       Proton donor. {ECO:0000250}.
+FT   METAL        90     90       Iron. {ECO:0000250}.
+FT   METAL        92     92       Iron. {ECO:0000250}.
+FT   METAL       118    118       Iron. {ECO:0000250}.
+FT   METAL       118    118       Zinc. {ECO:0000250}.
+FT   METAL       150    150       Zinc. {ECO:0000250}.
+FT   METAL       199    199       Zinc. {ECO:0000250}.
+FT   METAL       281    281       Zinc. {ECO:0000250}.
+FT   MOD_RES       2      2       N-acetylserine.
+FT                                {ECO:0000250|UniProtKB:Q08209}.
+FT   MOD_RES     224    224       Nitrated tyrosine.
+FT                                {ECO:0000269|PubMed:16800626}.
+FT   VAR_SEQ     448    457       Missing (in isoform 2).
+FT                                {ECO:0000303|PubMed:16141072}.
+FT                                /FTId=VSP_018563.
+FT   MUTAGEN     477    477       D->N: Greatly reduces inhibition of
+FT                                calcineurin phosphatase activity.
+FT                                {ECO:0000269|PubMed:7791792}.
+SQ   SEQUENCE   521 AA;  58644 MW;  16530C27DDBF1F05 CRC64;
+     MSEPKAIDPK LSTTDRVVKA VPFPPSHRLT AKEVFDNDGK PRVDILKAHL MKEGRLEESV
+     ALRIITEGAS ILRQEKNLLD IDAPVTVCGD IHGQFFDLMK LFEVGGSPAN TRYLFLGDYV
+     DRGYFSIECV LYLWALKILY PKTLFLLRGN HECRHLTEYF TFKQECKIKY SERVYDACMD
+     AFDCLPLAAL MNQQFLCVHG GLSPEINTLD DIRKLDRFKE PPAYGPMCDI LWSDPLEDFG
+     NEKTQEHFTH NTVRGCSYFY SYPAVCDFLQ HNNLLSILRA HEAQDAGYRM YRKSQTTGFP
+     SLITIFSAPN YLDVYNNKAA VLKYENNVMN IRQFNCSPHP YWLPNFMDVF TWSLPFVGEK
+     VTEMLVNVLN ICSDDELGSE EDGFDGATAA ARKEVIRNKI RAIGKMARVF SVLREESESV
+     LTLKGLTPTG MLPSGVLSGG KQTLQSATVE AIEADEAIKG FSPQHKITSF EEAKGLDRIN
+     ERMPPRRDAM PSDANLNSIN KALASETNGT DSNGSNSSNI Q
+//

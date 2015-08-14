@@ -1,0 +1,166 @@
+ID   DUS28_MOUSE             Reviewed;         163 AA.
+AC   Q8BTR5;
+DT   11-SEP-2007, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAR-2003, sequence version 1.
+DT   24-JUN-2015, entry version 102.
+DE   RecName: Full=Dual specificity phosphatase 28;
+DE            EC=3.1.3.16;
+DE            EC=3.1.3.48;
+GN   Name=Dusp28;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=C57BL/6J, and NOD; TISSUE=Corpora quadrigemina, and Thymus;
+RX   PubMed=16141072; DOI=10.1126/science.1112014;
+RA   Carninci P., Kasukawa T., Katayama S., Gough J., Frith M.C., Maeda N.,
+RA   Oyama R., Ravasi T., Lenhard B., Wells C., Kodzius R., Shimokawa K.,
+RA   Bajic V.B., Brenner S.E., Batalov S., Forrest A.R., Zavolan M.,
+RA   Davis M.J., Wilming L.G., Aidinis V., Allen J.E.,
+RA   Ambesi-Impiombato A., Apweiler R., Aturaliya R.N., Bailey T.L.,
+RA   Bansal M., Baxter L., Beisel K.W., Bersano T., Bono H., Chalk A.M.,
+RA   Chiu K.P., Choudhary V., Christoffels A., Clutterbuck D.R.,
+RA   Crowe M.L., Dalla E., Dalrymple B.P., de Bono B., Della Gatta G.,
+RA   di Bernardo D., Down T., Engstrom P., Fagiolini M., Faulkner G.,
+RA   Fletcher C.F., Fukushima T., Furuno M., Futaki S., Gariboldi M.,
+RA   Georgii-Hemming P., Gingeras T.R., Gojobori T., Green R.E.,
+RA   Gustincich S., Harbers M., Hayashi Y., Hensch T.K., Hirokawa N.,
+RA   Hill D., Huminiecki L., Iacono M., Ikeo K., Iwama A., Ishikawa T.,
+RA   Jakt M., Kanapin A., Katoh M., Kawasawa Y., Kelso J., Kitamura H.,
+RA   Kitano H., Kollias G., Krishnan S.P., Kruger A., Kummerfeld S.K.,
+RA   Kurochkin I.V., Lareau L.F., Lazarevic D., Lipovich L., Liu J.,
+RA   Liuni S., McWilliam S., Madan Babu M., Madera M., Marchionni L.,
+RA   Matsuda H., Matsuzawa S., Miki H., Mignone F., Miyake S., Morris K.,
+RA   Mottagui-Tabar S., Mulder N., Nakano N., Nakauchi H., Ng P.,
+RA   Nilsson R., Nishiguchi S., Nishikawa S., Nori F., Ohara O.,
+RA   Okazaki Y., Orlando V., Pang K.C., Pavan W.J., Pavesi G., Pesole G.,
+RA   Petrovsky N., Piazza S., Reed J., Reid J.F., Ring B.Z., Ringwald M.,
+RA   Rost B., Ruan Y., Salzberg S.L., Sandelin A., Schneider C.,
+RA   Schoenbach C., Sekiguchi K., Semple C.A., Seno S., Sessa L., Sheng Y.,
+RA   Shibata Y., Shimada H., Shimada K., Silva D., Sinclair B.,
+RA   Sperling S., Stupka E., Sugiura K., Sultana R., Takenaka Y., Taki K.,
+RA   Tammoja K., Tan S.L., Tang S., Taylor M.S., Tegner J., Teichmann S.A.,
+RA   Ueda H.R., van Nimwegen E., Verardo R., Wei C.L., Yagi K.,
+RA   Yamanishi H., Zabarovsky E., Zhu S., Zimmer A., Hide W., Bult C.,
+RA   Grimmond S.M., Teasdale R.D., Liu E.T., Brusic V., Quackenbush J.,
+RA   Wahlestedt C., Mattick J.S., Hume D.A., Kai C., Sasaki D., Tomaru Y.,
+RA   Fukuda S., Kanamori-Katayama M., Suzuki M., Aoki J., Arakawa T.,
+RA   Iida J., Imamura K., Itoh M., Kato T., Kawaji H., Kawagashira N.,
+RA   Kawashima T., Kojima M., Kondo S., Konno H., Nakano K., Ninomiya N.,
+RA   Nishio T., Okada M., Plessy C., Shibata K., Shiraki T., Suzuki S.,
+RA   Tagami M., Waki K., Watahiki A., Okamura-Oho Y., Suzuki H., Kawai J.,
+RA   Hayashizaki Y.;
+RT   "The transcriptional landscape of the mammalian genome.";
+RL   Science 309:1559-1563(2005).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Brain;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS).
+RX   PubMed=18058037; DOI=10.1007/s10969-007-9036-1;
+RA   Almo S.C., Bonanno J.B., Sauder J.M., Emtage S., Dilorenzo T.P.,
+RA   Malashkevich V., Wasserman S.R., Swaminathan S., Eswaramoorthy S.,
+RA   Agarwal R., Kumaran D., Madegowda M., Ragumani S., Patskovsky Y.,
+RA   Alvarado J., Ramagopal U.A., Faber-Barata J., Chance M.R., Sali A.,
+RA   Fiser A., Zhang Z.Y., Lawrence D.S., Burley S.K.;
+RT   "Structural genomics of protein phosphatases.";
+RL   J. Struct. Funct. Genomics 8:121-140(2007).
+CC   -!- CATALYTIC ACTIVITY: Protein tyrosine phosphate + H(2)O = protein
+CC       tyrosine + phosphate.
+CC   -!- CATALYTIC ACTIVITY: [a protein]-serine/threonine phosphate + H(2)O
+CC       = [a protein]-serine/threonine + phosphate.
+CC   -!- SIMILARITY: Belongs to the protein-tyrosine phosphatase family.
+CC       Non-receptor class dual specificity subfamily. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 tyrosine-protein phosphatase domain.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AK088940; BAC40664.1; -; mRNA.
+DR   EMBL; AK163560; BAE37397.1; -; mRNA.
+DR   EMBL; BC119127; AAI19128.1; -; mRNA.
+DR   CCDS; CCDS15179.1; -.
+DR   RefSeq; NP_780327.1; NM_175118.3.
+DR   UniGene; Mm.46179; -.
+DR   PDB; 2HCM; X-ray; 2.00 A; A=2-163.
+DR   PDBsum; 2HCM; -.
+DR   ProteinModelPortal; Q8BTR5; -.
+DR   SMR; Q8BTR5; 1-158.
+DR   STRING; 10090.ENSMUSP00000057690; -.
+DR   PaxDb; Q8BTR5; -.
+DR   PRIDE; Q8BTR5; -.
+DR   DNASU; 67446; -.
+DR   Ensembl; ENSMUST00000060913; ENSMUSP00000057690; ENSMUSG00000047067.
+DR   GeneID; 67446; -.
+DR   KEGG; mmu:67446; -.
+DR   UCSC; uc007cbu.1; mouse.
+DR   CTD; 285193; -.
+DR   MGI; MGI:1914696; Dusp28.
+DR   eggNOG; NOG313004; -.
+DR   GeneTree; ENSGT00760000118853; -.
+DR   HOGENOM; HOG000233766; -.
+DR   HOVERGEN; HBG051422; -.
+DR   InParanoid; Q8BTR5; -.
+DR   KO; K14165; -.
+DR   OMA; AKAFQMV; -.
+DR   OrthoDB; EOG715Q5Z; -.
+DR   PhylomeDB; Q8BTR5; -.
+DR   TreeFam; TF105128; -.
+DR   EvolutionaryTrace; Q8BTR5; -.
+DR   NextBio; 324594; -.
+DR   PRO; PR:Q8BTR5; -.
+DR   Proteomes; UP000000589; Chromosome 1.
+DR   Bgee; Q8BTR5; -.
+DR   CleanEx; MM_DUSP28; -.
+DR   Genevisible; Q8BTR5; MM.
+DR   GO; GO:0005622; C:intracellular; IBA:GOC.
+DR   GO; GO:0004725; F:protein tyrosine phosphatase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0008138; F:protein tyrosine/serine/threonine phosphatase activity; IBA:GO_Central.
+DR   GO; GO:0007254; P:JNK cascade; IBA:GO_Central.
+DR   GO; GO:0006470; P:protein dephosphorylation; IBA:GO_Central.
+DR   Gene3D; 3.90.190.10; -; 1.
+DR   InterPro; IPR000340; Dual-sp_phosphatase_cat-dom.
+DR   InterPro; IPR020422; Dual-sp_phosphatase_subgr_cat.
+DR   InterPro; IPR024950; DUSP.
+DR   InterPro; IPR029021; Prot-tyrosine_phosphatase-like.
+DR   InterPro; IPR000387; Tyr/Dual-sp_Pase.
+DR   PANTHER; PTHR10159; PTHR10159; 1.
+DR   Pfam; PF00782; DSPc; 1.
+DR   SMART; SM00195; DSPc; 1.
+DR   SUPFAM; SSF52799; SSF52799; 1.
+DR   PROSITE; PS50056; TYR_PHOSPHATASE_2; 1.
+DR   PROSITE; PS50054; TYR_PHOSPHATASE_DUAL; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Hydrolase; Protein phosphatase;
+KW   Reference proteome.
+FT   CHAIN         1    163       Dual specificity phosphatase 28.
+FT                                /FTId=PRO_0000302841.
+FT   DOMAIN       68    130       Tyrosine-protein phosphatase.
+FT   ACT_SITE     95     95       Phosphocysteine intermediate.
+FT                                {ECO:0000250}.
+FT   STRAND       10     15       {ECO:0000244|PDB:2HCM}.
+FT   STRAND       18     22       {ECO:0000244|PDB:2HCM}.
+FT   HELIX        23     27       {ECO:0000244|PDB:2HCM}.
+FT   HELIX        29     34       {ECO:0000244|PDB:2HCM}.
+FT   STRAND       37     42       {ECO:0000244|PDB:2HCM}.
+FT   STRAND       44     46       {ECO:0000244|PDB:2HCM}.
+FT   STRAND       56     59       {ECO:0000244|PDB:2HCM}.
+FT   HELIX        71     86       {ECO:0000244|PDB:2HCM}.
+FT   STRAND       90     99       {ECO:0000244|PDB:2HCM}.
+FT   HELIX       100    113       {ECO:0000244|PDB:2HCM}.
+FT   HELIX       118    128       {ECO:0000244|PDB:2HCM}.
+FT   HELIX       136    151       {ECO:0000244|PDB:2HCM}.
+SQ   SEQUENCE   163 AA;  17505 MW;  40259C4C084B0696 CRC64;
+     MGTSEAAPPP FARVAPALFI GNARAAGATE LLVRAGITLC VNVSRQQPGP RAPGVAELRV
+     PVFDDPAEDL LTHLEPTCAA MEAAVRDGGS CLVYCKNGRS RSAAVCTAYL MRHRGHSLDR
+     AFQMVKSARP VAEPNLGFWA QLQKYEQTLQ AQAILPREPI DPE
+//

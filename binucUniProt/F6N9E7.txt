@@ -1,0 +1,97 @@
+ID   F6N9E7_9PEZI            Unreviewed;       604 AA.
+AC   F6N9E7;
+DT   27-JUL-2011, integrated into UniProtKB/TrEMBL.
+DT   27-JUL-2011, sequence version 1.
+DT   24-JUN-2015, entry version 19.
+DE   SubName: Full=Laccase {ECO:0000313|PDB:3PPS};
+DE            EC=1.10.3.2 {ECO:0000313|PDB:3PPS};
+OS   Thielavia arenaria.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Sordariomycetidae; Sordariales; Chaetomiaceae;
+OC   Thielavia.
+OX   NCBI_TaxID=113610 {ECO:0000313|PDB:3PPS};
+RN   [1] {ECO:0000213|PDB:3PPS, ECO:0000313|PDB:3PPS}
+RP   X-RAY CRYSTALLOGRAPHY (2.50 ANGSTROMS) IN COMPLEX WITH COPPER AND
+RP   MANNOSE, ACTIVE SITE, AND GLYCOSYLATION AT ASN-129; ASN-242; ASN-257;
+RP   ASN-287; ASN-330 AND ASN-416.
+RX   PubMed=21535408; DOI=10.1111/j.1742-4658.2011.08146.x;
+RA   Kallio J.P., Gasparetti C., Andberg M., Boer H., Koivula A., Kruus K.,
+RA   Rouvinen J., Hakulinen N.;
+RT   "Crystal structure of an ascomycete fungal laccase from Thielavia
+RT   arenaria--common structural features of asco-laccases.";
+RL   FEBS J. 278:2283-2295(2011).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   PDB; 3PPS; X-ray; 2.50 A; A/B/C/D=1-604.
+DR   GO; GO:0005507; F:copper ion binding; IEA:InterPro.
+DR   GO; GO:0052716; F:hydroquinone:oxygen oxidoreductase activity; IEA:UniProtKB-EC.
+DR   Gene3D; 2.60.40.420; -; 3.
+DR   InterPro; IPR001117; Cu-oxidase.
+DR   InterPro; IPR011706; Cu-oxidase_2.
+DR   InterPro; IPR011707; Cu-oxidase_3.
+DR   InterPro; IPR002355; Cu_oxidase_Cu_BS.
+DR   InterPro; IPR008972; Cupredoxin.
+DR   Pfam; PF00394; Cu-oxidase; 1.
+DR   Pfam; PF07731; Cu-oxidase_2; 1.
+DR   Pfam; PF07732; Cu-oxidase_3; 1.
+DR   SUPFAM; SSF49503; SSF49503; 3.
+DR   PROSITE; PS00079; MULTICOPPER_OXIDASE1; 1.
+DR   PROSITE; PS00080; MULTICOPPER_OXIDASE2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3PPS, ECO:0000313|PDB:3PPS};
+KW   Copper {ECO:0000213|PDB:3PPS, ECO:0000256|SAAS:SAAS00056250};
+KW   Metal-binding {ECO:0000213|PDB:3PPS, ECO:0000256|SAAS:SAAS00056202};
+KW   Oxidoreductase {ECO:0000256|SAAS:SAAS00056252}.
+FT   METAL       134    134       Copper 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3PPS}.
+FT   METAL       136    136       Copper 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3PPS}.
+FT   METAL       179    179       Copper 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3PPS}.
+FT   METAL       181    181       Copper 3; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3PPS}.
+FT   METAL       472    472       Copper 4; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3PPS}.
+FT   METAL       475    475       Copper 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3PPS}.
+FT   METAL       477    477       Copper 1. {ECO:0000213|PDB:3PPS}.
+FT   METAL       477    477       Copper 3; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3PPS}.
+FT   METAL       543    543       Copper 3; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3PPS}.
+FT   METAL       544    544       Copper 4. {ECO:0000213|PDB:3PPS}.
+FT   METAL       545    545       Copper 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3PPS}.
+FT   METAL       549    549       Copper 4; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3PPS}.
+FT   BINDING      51     51       Mannose. {ECO:0000213|PDB:3PPS}.
+FT   CARBOHYD    129    129       N-linked (GlcNAc...).
+FT                                {ECO:0000213|PDB:3PPS}.
+FT   CARBOHYD    242    242       N-linked (GlcNAc...).
+FT                                {ECO:0000213|PDB:3PPS}.
+FT   CARBOHYD    257    257       N-linked (GlcNAc...).
+FT                                {ECO:0000213|PDB:3PPS}.
+FT   CARBOHYD    287    287       N-linked (GlcNAc...).
+FT                                {ECO:0000213|PDB:3PPS}.
+FT   CARBOHYD    330    330       N-linked (GlcNAc...).
+FT                                {ECO:0000213|PDB:3PPS}.
+FT   CARBOHYD    416    416       N-linked (GlcNAc...).
+FT                                {ECO:0000213|PDB:3PPS}.
+FT   DISULFID     45     53       {ECO:0000213|PDB:3PPS}.
+FT   DISULFID    155    585       {ECO:0000213|PDB:3PPS}.
+FT   DISULFID    338    372       {ECO:0000213|PDB:3PPS}.
+SQ   SEQUENCE   604 AA;  66533 MW;  84A810556D762F5D CRC64;
+     MKSWAAAVAL MVGILSPHAA AAPPANPVQR DMLQVLEARQ SGPTCNTPSN RACWTNGFDI
+     NTDYEVSTPN TGRTVAYQLT LTEKENWIGP DGVLKNVVML VNDKIIGPTI RANWGDNIEV
+     TVINNLKTNG TSMHWHGLRQ LGNVFNDGAN GVTECPIPPK GGRKTYKFRA TQYGTSWYHS
+     HFSAQYGNGV VGTIQIDGPA SLPYDIDLGV FPLMDYYYRS ADELVHFTQS NGAPPSDNVL
+     FNGTARHPET GAGQWYNVTL TPGKRHRLRI INTSTDNHFQ VSLVGHNMTV IATDMVPVNA
+     FTVSSLFLAV GQRYDVTIDA NSPVGNYWFN VTFGDGLCGS SNNKFPAAIF RYQGAPATLP
+     TDQGLPVPNH MCLDNLNLTP VVTRSAPVNN FVKRPSNTLG VTLDIGGTPL FVWKVNGSAI
+     NVDWGKPILD YVMSGNTSYP VSDNIVQVDA VDQWTYWLIE NDPTNPIVSL PHPMHLHGHD
+     FLVLGRSPDE LPSAGVRHIF DPAKDLPRLK GNNPVRRDVT MLPAGGWLLL AFKTDNPGAW
+     LFHCHIAWHV SGGLSVDFLE RPNDLRTQLN SNAKRADRDD FNRVCREWNA YWPTNPFPKI
+     DSGL
+//

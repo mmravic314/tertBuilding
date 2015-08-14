@@ -1,0 +1,115 @@
+ID   O68183_ENTCA            Unreviewed;       301 AA.
+AC   O68183;
+DT   01-AUG-1998, integrated into UniProtKB/TrEMBL.
+DT   01-AUG-1998, sequence version 1.
+DT   24-JUN-2015, entry version 69.
+DE   SubName: Full=APH(2'')-Id {ECO:0000313|EMBL:AAC14693.1};
+GN   Name=aph(2'')-Id {ECO:0000313|EMBL:AAC14693.1};
+OS   Enterococcus casseliflavus (Enterococcus flavescens).
+OC   Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+OC   Enterococcus.
+OX   NCBI_TaxID=37734 {ECO:0000313|EMBL:AAC14693.1};
+RN   [1] {ECO:0000313|EMBL:AAC14693.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=NC95 {ECO:0000313|EMBL:AAC14693.1};
+RX   PubMed=9593155;
+RA   Tsai S.F., Zervos M.J., Clewell D.B., Donabedian S.M., Sahm D.F.,
+RA   Chow J.W.;
+RT   "A new high-level gentamicin resistance gene, aph(2'')-Id, in
+RT   Enterococcus spp.";
+RL   Antimicrob. Agents Chemother. 42:1229-1232(1998).
+RN   [2] {ECO:0000213|PDB:3N4T, ECO:0000213|PDB:3N4U, ECO:0000213|PDB:3N4V}
+RP   X-RAY CRYSTALLOGRAPHY (2.20 ANGSTROMS).
+RX   PubMed=20556826; DOI=10.1002/pro.437;
+RA   Toth M., Frase H., Antunes N.T., Smith C.A., Vakulenko S.B.;
+RT   "Crystal structure and kinetic mechanism of aminoglycoside
+RT   phosphotransferase-2''-IVa.";
+RL   Protein Sci. 19:1565-1576(2010).
+RN   [3] {ECO:0000213|PDB:3SG8, ECO:0000213|PDB:3SG9, ECO:0000213|PDB:3SGC}
+RP   X-RAY CRYSTALLOGRAPHY (1.80 ANGSTROMS) OF 1-297.
+RX   PubMed=21678960; DOI=10.1021/bi200747f;
+RA   Shi K., Houston D.R., Berghuis A.M.;
+RT   "Crystal structures of antibiotic-bound complexes of aminoglycoside
+RT   2''-phosphotransferase IVa highlight the diversity in substrate
+RT   binding modes among aminoglycoside kinases.";
+RL   Biochemistry 50:6237-6244(2011).
+RN   [4] {ECO:0000213|PDB:4DBX, ECO:0000213|PDB:4DE4, ECO:0000213|PDB:4DFB}
+RP   X-RAY CRYSTALLOGRAPHY (1.95 ANGSTROMS).
+RX   PubMed=22195561; DOI=10.1016/j.chembiol.2011.10.018;
+RA   Shakya T., Stogios P.J., Waglechner N., Evdokimova E., Ejim L.,
+RA   Blanchard J.E., McArthur A.G., Savchenko A., Wright G.D.;
+RT   "A small molecule discrimination map of the antibiotic resistance
+RT   kinome.";
+RL   Chem. Biol. 18:1591-1601(2011).
+RN   [5] {ECO:0000213|PDB:4DT8, ECO:0000213|PDB:4DT9, ECO:0000213|PDB:4DTA}
+RP   X-RAY CRYSTALLOGRAPHY (2.10 ANGSTROMS).
+RX   PubMed=22371504; DOI=10.1074/jbc.M112.349670;
+RA   Shi K., Berghuis A.M.;
+RT   "Structural basis for dual nucleotide selectivity of aminoglycoside
+RT   2''-phosphotransferase IVa provides insight on determinants of
+RT   nucleotide specificity of aminoglycoside kinases.";
+RL   J. Biol. Chem. 287:13094-13102(2012).
+RN   [6] {ECO:0000213|PDB:4N57}
+RP   X-RAY CRYSTALLOGRAPHY (2.35 ANGSTROMS) IN COMPLEX WITH ADP.
+RA   Kaplan E., Leban N., Chaloin L., Guichou J.-F., Lionne C.;
+RT   "Crystal structure of aminoglycoside phosphotransferase APH(2'')-IVa
+RT   ADP complex.";
+RL   Submitted (OCT-2013) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF016483; AAC14693.1; -; Genomic_DNA.
+DR   PDB; 3N4T; X-ray; 2.20 A; A=1-301.
+DR   PDB; 3N4U; X-ray; 2.20 A; A=1-301.
+DR   PDB; 3N4V; X-ray; 2.40 A; A/B=1-301.
+DR   PDB; 3SG8; X-ray; 1.80 A; A/B=1-297.
+DR   PDB; 3SG9; X-ray; 2.15 A; A/B=1-297.
+DR   PDB; 3SGC; X-ray; 2.05 A; A=1-296.
+DR   PDB; 4DBX; X-ray; 2.00 A; A=1-301.
+DR   PDB; 4DE4; X-ray; 2.00 A; A/B=1-301.
+DR   PDB; 4DFB; X-ray; 1.95 A; A/B=1-301.
+DR   PDB; 4DFU; X-ray; 1.98 A; A/B=1-301.
+DR   PDB; 4DT8; X-ray; 2.15 A; A/B=1-301.
+DR   PDB; 4DT9; X-ray; 2.10 A; A/B=1-301.
+DR   PDB; 4DTA; X-ray; 2.35 A; A/B=1-301.
+DR   PDB; 4DTB; X-ray; 2.10 A; A/B=1-301.
+DR   PDB; 4N57; X-ray; 2.35 A; A/B=1-301.
+DR   PDBsum; 3N4T; -.
+DR   PDBsum; 3N4U; -.
+DR   PDBsum; 3N4V; -.
+DR   PDBsum; 3SG8; -.
+DR   PDBsum; 3SG9; -.
+DR   PDBsum; 4DBX; -.
+DR   PDBsum; 4DE4; -.
+DR   PDBsum; 4DFB; -.
+DR   PDBsum; 4DFU; -.
+DR   PDBsum; 4DT8; -.
+DR   PDBsum; 4DT9; -.
+DR   PDBsum; 4DTA; -.
+DR   PDBsum; 4DTB; -.
+DR   PDBsum; 4N57; -.
+DR   ProteinModelPortal; O68183; -.
+DR   EvolutionaryTrace; O68183; -.
+DR   GO; GO:0000166; F:nucleotide binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016772; F:transferase activity, transferring phosphorus-containing groups; IEA:InterPro.
+DR   InterPro; IPR002575; Aminoglycoside_PTrfase.
+DR   InterPro; IPR011009; Kinase-like_dom.
+DR   Pfam; PF01636; APH; 1.
+DR   SUPFAM; SSF56112; SSF56112; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3N4T, ECO:0000213|PDB:3N4U};
+KW   Nucleotide-binding {ECO:0000213|PDB:4N57}.
+FT   NP_BIND      33     34       ADP. {ECO:0000213|PDB:4N57}.
+FT   NP_BIND      96     98       ADP. {ECO:0000213|PDB:4N57}.
+FT   BINDING      46     46       ADP. {ECO:0000213|PDB:4N57}.
+FT   BINDING     202    202       ADP. {ECO:0000213|PDB:4N57}.
+FT   BINDING     217    217       ADP. {ECO:0000213|PDB:4N57}.
+SQ   SEQUENCE   301 AA;  35378 MW;  743B782340BB19A4 CRC64;
+     MRTYTFDQVE KAIEQLYPDF TINTIEISGE GNDCIAYEIN RDFIFKFPKH SRGSTNLFNE
+     VNILKRIHNK LPLPIPEVVF TGMPSETYQM SFAGFTKIKG VPLTPLLLNN LPKQSQNQAA
+     KDLARFLSEL HSINISGFKS NLVLDFREKI NEDNKKIKKL LSRELKGPQM KKVDDFYRDI
+     LENEIYFKYY PCLIHNDFSS DHILFDTEKN TICGIIDFGD AAISDPDNDF ISLMEDDEEY
+     GMEFVSKILN HYKHKDIPTV LEKYRMKEKY WSFEKIIYGK EYGYMDWYEE GLNEIRSIKI
+     K
+//

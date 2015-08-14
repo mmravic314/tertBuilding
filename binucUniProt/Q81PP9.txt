@@ -1,0 +1,133 @@
+ID   KYNB_BACAN              Reviewed;         209 AA.
+AC   Q81PP9; Q6HXW3; Q6KRY5;
+DT   10-FEB-2009, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-2003, sequence version 1.
+DT   22-JUL-2015, entry version 82.
+DE   RecName: Full=Kynurenine formamidase {ECO:0000255|HAMAP-Rule:MF_01969};
+DE            Short=KFA {ECO:0000255|HAMAP-Rule:MF_01969};
+DE            Short=KFase {ECO:0000255|HAMAP-Rule:MF_01969};
+DE            EC=3.5.1.9 {ECO:0000255|HAMAP-Rule:MF_01969};
+DE   AltName: Full=Arylformamidase {ECO:0000255|HAMAP-Rule:MF_01969};
+DE   AltName: Full=N-formylkynurenine formamidase {ECO:0000255|HAMAP-Rule:MF_01969};
+DE            Short=FKF {ECO:0000255|HAMAP-Rule:MF_01969};
+GN   Name=kynB {ECO:0000255|HAMAP-Rule:MF_01969};
+GN   OrderedLocusNames=BA_2752, GBAA_2752, BAS2566;
+OS   Bacillus anthracis.
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus;
+OC   Bacillus cereus group.
+OX   NCBI_TaxID=1392;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Ames / isolate Porton;
+RX   PubMed=12721629; DOI=10.1038/nature01586;
+RA   Read T.D., Peterson S.N., Tourasse N.J., Baillie L.W., Paulsen I.T.,
+RA   Nelson K.E., Tettelin H., Fouts D.E., Eisen J.A., Gill S.R.,
+RA   Holtzapple E.K., Okstad O.A., Helgason E., Rilstone J., Wu M.,
+RA   Kolonay J.F., Beanan M.J., Dodson R.J., Brinkac L.M., Gwinn M.L.,
+RA   DeBoy R.T., Madpu R., Daugherty S.C., Durkin A.S., Haft D.H.,
+RA   Nelson W.C., Peterson J.D., Pop M., Khouri H.M., Radune D.,
+RA   Benton J.L., Mahamoud Y., Jiang L., Hance I.R., Weidman J.F.,
+RA   Berry K.J., Plaut R.D., Wolf A.M., Watkins K.L., Nierman W.C.,
+RA   Hazen A., Cline R.T., Redmond C., Thwaite J.E., White O.,
+RA   Salzberg S.L., Thomason B., Friedlander A.M., Koehler T.M.,
+RA   Hanna P.C., Kolstoe A.-B., Fraser C.M.;
+RT   "The genome sequence of Bacillus anthracis Ames and comparison to
+RT   closely related bacteria.";
+RL   Nature 423:81-86(2003).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Sterne;
+RA   Brettin T.S., Bruce D., Challacombe J.F., Gilna P., Han C., Hill K.,
+RA   Hitchcock P., Jackson P., Keim P., Longmire J., Lucas S., Okinaka R.,
+RA   Richardson P., Rubin E., Tice H.;
+RT   "Complete genome sequence of Bacillus anthracis Sterne.";
+RL   Submitted (JAN-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Ames ancestor;
+RX   PubMed=18952800; DOI=10.1128/JB.01347-08;
+RA   Ravel J., Jiang L., Stanley S.T., Wilson M.R., Decker R.S., Read T.D.,
+RA   Worsham P., Keim P.S., Salzberg S.L., Fraser-Liggett C.M., Rasko D.A.;
+RT   "The complete genome sequence of Bacillus anthracis Ames 'Ancestor'.";
+RL   J. Bacteriol. 191:445-446(2009).
+CC   -!- FUNCTION: Catalyzes the hydrolysis of N-formyl-L-kynurenine to L-
+CC       kynurenine, the second step in the kynurenine pathway of
+CC       tryptophan degradation. {ECO:0000255|HAMAP-Rule:MF_01969}.
+CC   -!- CATALYTIC ACTIVITY: N-formyl-L-kynurenine + H(2)O = formate + L-
+CC       kynurenine. {ECO:0000255|HAMAP-Rule:MF_01969}.
+CC   -!- PATHWAY: Amino-acid degradation; L-tryptophan degradation via
+CC       kynurenine pathway; L-kynurenine from L-tryptophan: step 2/2.
+CC       {ECO:0000255|HAMAP-Rule:MF_01969}.
+CC   -!- SIMILARITY: Belongs to the KynB family. {ECO:0000255|HAMAP-
+CC       Rule:MF_01969}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE016879; AAP26588.1; -; Genomic_DNA.
+DR   EMBL; AE017334; AAT31868.1; -; Genomic_DNA.
+DR   EMBL; AE017225; AAT54876.1; -; Genomic_DNA.
+DR   RefSeq; NP_845102.1; NC_003997.3.
+DR   RefSeq; WP_000858199.1; NZ_KN050651.1.
+DR   RefSeq; YP_028825.1; NC_005945.1.
+DR   PDB; 4CO9; X-ray; 1.95 A; A/B/C/D=1-209.
+DR   PDB; 4CZ1; X-ray; 2.24 A; A/B/C/D=1-209.
+DR   PDBsum; 4CO9; -.
+DR   PDBsum; 4CZ1; -.
+DR   ProteinModelPortal; Q81PP9; -.
+DR   STRING; 198094.BA_2752; -.
+DR   DNASU; 1087435; -.
+DR   EnsemblBacteria; AAP26588; AAP26588; BA_2752.
+DR   EnsemblBacteria; AAT31868; AAT31868; GBAA_2752.
+DR   EnsemblBacteria; AAT54876; AAT54876; BAS2566.
+DR   GeneID; 1087435; -.
+DR   GeneID; 2849156; -.
+DR   KEGG; ban:BA_2752; -.
+DR   KEGG; bar:GBAA_2752; -.
+DR   KEGG; bat:BAS2566; -.
+DR   eggNOG; COG1878; -.
+DR   HOGENOM; HOG000219455; -.
+DR   KO; K07130; -.
+DR   OMA; NNNIATW; -.
+DR   OrthoDB; EOG67T5JJ; -.
+DR   BioCyc; BANT260799:GJAJ-2630-MONOMER; -.
+DR   BioCyc; BANT261594:GJ7F-2723-MONOMER; -.
+DR   UniPathway; UPA00333; UER00454.
+DR   Proteomes; UP000000594; Chromosome.
+DR   GO; GO:0004061; F:arylformamidase activity; ISS:UniProtKB.
+DR   GO; GO:0004328; F:formamidase activity; IEA:InterPro.
+DR   GO; GO:0043420; P:anthranilate metabolic process; IGC:UniProtKB.
+DR   GO; GO:0019441; P:tryptophan catabolic process to kynurenine; IGC:UniProtKB.
+DR   HAMAP; MF_01969; KynB; 1.
+DR   InterPro; IPR007325; KFase.
+DR   InterPro; IPR017484; Kynurenine_formamidase_bac.
+DR   Pfam; PF04199; Cyclase; 1.
+DR   TIGRFAMs; TIGR03035; trp_arylform; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Hydrolase; Reference proteome;
+KW   Tryptophan catabolism.
+FT   CHAIN         1    209       Kynurenine formamidase.
+FT                                /FTId=PRO_0000362088.
+FT   STRAND       27     32       {ECO:0000244|PDB:4CO9}.
+FT   HELIX        34     37       {ECO:0000244|PDB:4CO9}.
+FT   STRAND       42     56       {ECO:0000244|PDB:4CO9}.
+FT   HELIX        58     60       {ECO:0000244|PDB:4CO9}.
+FT   HELIX        68     70       {ECO:0000244|PDB:4CO9}.
+FT   HELIX        73     76       {ECO:0000244|PDB:4CO9}.
+FT   STRAND       77     84       {ECO:0000244|PDB:4CO9}.
+FT   STRAND       89     91       {ECO:0000244|PDB:4CO9}.
+FT   HELIX        93     96       {ECO:0000244|PDB:4CO9}.
+FT   STRAND      105    110       {ECO:0000244|PDB:4CO9}.
+FT   HELIX       131    138       {ECO:0000244|PDB:4CO9}.
+FT   STRAND      142    148       {ECO:0000244|PDB:4CO9}.
+FT   HELIX       159    166       {ECO:0000244|PDB:4CO9}.
+FT   STRAND      170    173       {ECO:0000244|PDB:4CO9}.
+FT   STRAND      182    188       {ECO:0000244|PDB:4CO9}.
+FT   STRAND      198    201       {ECO:0000244|PDB:4CO9}.
+FT   STRAND      205    208       {ECO:0000244|PDB:4CO9}.
+SQ   SEQUENCE   209 AA;  23188 MW;  7FDA0CE1FD44BA65 CRC64;
+     MKTSKWIDIS QPLNNDIATW PGDTPFSYEV LWSKEESGSV NVGKLTMSIH TGTHIDAPFH
+     FDNDGKKVLD LDIQVYVGPT RIIDVSNLES IGKKELEKFH LEGVERLLLR TSSHGKANEF
+     PDIIPHLRAD IAPFLSEKGI RLIGVDVPSV DPLDDKELAA HHQLFKHSIH ILENVVLDHV
+     ADGDYELIAL PLALSDADGS PVRAVIRPI
+//

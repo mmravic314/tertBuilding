@@ -1,0 +1,62 @@
+ID   J9PBR3_BIOPE            Unreviewed;       236 AA.
+AC   J9PBR3;
+DT   31-OCT-2012, integrated into UniProtKB/TrEMBL.
+DT   31-OCT-2012, sequence version 1.
+DT   29-APR-2015, entry version 17.
+DE   SubName: Full=Camptosema pedicellatum lectin (CPL) {ECO:0000313|PDB:3U4X};
+OS   Bionia pedicellata (Camptosema pedicellatum).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+OC   Phaseoleae; Bionia.
+OX   NCBI_TaxID=232302 {ECO:0000313|PDB:3U4X};
+RN   [1] {ECO:0000213|PDB:3U4X, ECO:0000313|PDB:3U4X}
+RP   X-RAY CRYSTALLOGRAPHY (2.16 ANGSTROMS) IN COMPLEX WITH CALCIUM AND
+RP   MANGANESE.
+RX   PubMed=22554687; DOI=10.1093/jb/mvs047;
+RA   Souza Teixeira C., da Silva H.C., de Moura T.R., Pereira-Junior F.N.,
+RA   do Nascimento K.S., Nagano C.S., Sampaio A.H., Delatorre P.,
+RA   Rocha B.A., Cavada B.S.;
+RT   "Crystal structure of the lectin of Camptosema pedicellatum:
+RT   implications of a conservative substitution at the hydrophobic
+RT   subsite.";
+RL   J. Biochem. 152:87-98(2012).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   PDB; 3U4X; X-ray; 2.16 A; A=1-236.
+DR   PDBsum; 3U4X; -.
+DR   GO; GO:0030246; F:carbohydrate binding; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 2.60.120.200; -; 2.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR000985; Lectin_LegA_CS.
+DR   InterPro; IPR019825; Lectin_legB_Mn/Ca_BS.
+DR   InterPro; IPR001220; Legume_lectin_dom.
+DR   Pfam; PF00139; Lectin_legB; 2.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   PROSITE; PS00308; LECTIN_LEGUME_ALPHA; 1.
+DR   PROSITE; PS00307; LECTIN_LEGUME_BETA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3U4X, ECO:0000313|PDB:3U4X};
+KW   Calcium {ECO:0000213|PDB:3U4X, ECO:0000313|PDB:3U4X};
+KW   Lectin {ECO:0000256|SAAS:SAAS00122626};
+KW   Manganese {ECO:0000213|PDB:3U4X, ECO:0000313|PDB:3U4X};
+KW   Metal-binding {ECO:0000213|PDB:3U4X, ECO:0000313|PDB:3U4X}.
+FT   METAL         8      8       Manganese. {ECO:0000213|PDB:3U4X}.
+FT   METAL        10     10       Calcium. {ECO:0000213|PDB:3U4X}.
+FT   METAL        10     10       Manganese. {ECO:0000213|PDB:3U4X}.
+FT   METAL        12     12       Calcium; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:3U4X}.
+FT   METAL        14     14       Calcium. {ECO:0000213|PDB:3U4X}.
+FT   METAL        19     19       Calcium. {ECO:0000213|PDB:3U4X}.
+FT   METAL        19     19       Manganese. {ECO:0000213|PDB:3U4X}.
+FT   METAL        24     24       Manganese; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3U4X}.
+SQ   SEQUENCE   236 AA;  25298 MW;  9AC924B5BAA662BB CRC64;
+     ADTIVAVELD TYPNTDIGDP NYQHIGINIK SIRSKATTRW NVQDGKVGTA HISYNSVAKR
+     LSAIVSYPGG SSATVSYDVD LNNILPEWVR VGLSASTGVY KETNTILSWS FTSKLKTNST
+     ADAQSLHFTF NQFSQSPKDL ILQGDASTDS DGNLQLTRVS NGSPQSNSVG RALYYAPVHV
+     WDKSAVVASF DATFTFLIKS PDSDPADGIA FFIANTDSSI PHGSGGRLLG LFPDAN
+//

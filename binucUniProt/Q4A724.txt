@@ -1,0 +1,106 @@
+ID   Q4A724_MYCS5            Unreviewed;       353 AA.
+AC   Q4A724;
+DT   13-SEP-2005, integrated into UniProtKB/TrEMBL.
+DT   13-SEP-2005, sequence version 1.
+DT   22-JUL-2015, entry version 59.
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAZ43447.1};
+GN   OrderedLocusNames=MS53_0025 {ECO:0000313|EMBL:AAZ43447.1};
+OS   Mycoplasma synoviae (strain 53).
+OC   Bacteria; Tenericutes; Mollicutes; Mycoplasmataceae; Mycoplasma.
+OX   NCBI_TaxID=262723 {ECO:0000313|EMBL:AAZ43447.1, ECO:0000313|Proteomes:UP000000549};
+RN   [1] {ECO:0000313|EMBL:AAZ43447.1, ECO:0000313|Proteomes:UP000000549}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=53 {ECO:0000313|EMBL:AAZ43447.1,
+RC   ECO:0000313|Proteomes:UP000000549};
+RX   PubMed=16077101; DOI=10.1128/JB.187.16.5568-5577.2005;
+RA   Vasconcelos A.T.R., Ferreira H.B., Bizarro C.V., Bonatto S.L.,
+RA   Carvalho M.O., Pinto P.M., Almeida D.F., Almeida L.G.P., Almeida R.,
+RA   Alves-Junior L., Assuncao E.N., Azevedo V.A.C., Bogo M.R.,
+RA   Brigido M.M., Brocchi M., Burity H.A., Camargo A.A., Camargo S.S.,
+RA   Carepo M.S., Carraro D.M., de Mattos Cascardo J.C., Castro L.A.,
+RA   Cavalcanti G., Chemale G., Collevatti R.G., Cunha C.W.,
+RA   Dallagiovanna B., Dambros B.P., Dellagostin O.A., Falcao C.,
+RA   Fantinatti-Garboggini F., Felipe M.S.S., Fiorentin L., Franco G.R.,
+RA   Freitas N.S.A., Frias D., Grangeiro T.B., Grisard E.C.,
+RA   Guimaraes C.T., Hungria M., Jardim S.N., Krieger M.A., Laurino J.P.,
+RA   Lima L.F.A., Lopes M.I., Loreto E.L.S., Madeira H.M.F., Manfio G.P.,
+RA   Maranhao A.Q., Martinkovics C.T., Medeiros S.R.B., Moreira M.A.M.,
+RA   Neiva M., Ramalho-Neto C.E., Nicolas M.F., Oliveira S.C.,
+RA   Paixao R.F.C., Pedrosa F.O., Pena S.D.J., Pereira M.,
+RA   Pereira-Ferrari L., Piffer I., Pinto L.S., Potrich D.P., Salim A.C.M.,
+RA   Santos F.R., Schmitt R., Schneider M.P.C., Schrank A., Schrank I.S.,
+RA   Schuck A.F., Seuanez H.N., Silva D.W., Silva R., Silva S.C.,
+RA   Soares C.M.A., Souza K.R.L., Souza R.C., Staats C.C., Steffens M.B.R.,
+RA   Teixeira S.M.R., Urmenyi T.P., Vainstein M.H., Zuccherato L.W.,
+RA   Simpson A.J.G., Zaha A.;
+RT   "Swine and poultry pathogens: the complete genome sequences of two
+RT   strains of Mycoplasma hyopneumoniae and a strain of Mycoplasma
+RT   synoviae.";
+RL   J. Bacteriol. 187:5568-5577(2005).
+RN   [2] {ECO:0000213|PDB:3MSR}
+RP   X-RAY CRYSTALLOGRAPHY (2.16 ANGSTROMS) OF 2-353.
+RA   Zhang Z., Burley S.K., Swaminathan S.;
+RT   "The crystal structure of an amidohydrolase from Mycoplasma
+RT   synoviae.";
+RL   Submitted (APR-2010) to the PDB data bank.
+RN   [3] {ECO:0000213|PDB:3OVG}
+RP   X-RAY CRYSTALLOGRAPHY (2.06 ANGSTROMS) OF 2-353 IN COMPLEX WITH ZINC.
+RA   Zhang Z., Kumaran D., Burley S.K., Swaminathan S.;
+RT   "The crystal structure of an amidohydrolase from Mycoplasma synoviae
+RT   with Zn ion bound.";
+RL   Submitted (SEP-2010) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE017245; AAZ43447.1; -; Genomic_DNA.
+DR   RefSeq; WP_011283191.1; NC_007294.1.
+DR   PDB; 3MSR; X-ray; 2.16 A; A=2-353.
+DR   PDB; 3OVG; X-ray; 2.06 A; A/B/C/D/E/F=2-353.
+DR   PDBsum; 3MSR; -.
+DR   PDBsum; 3OVG; -.
+DR   ProteinModelPortal; Q4A724; -.
+DR   STRING; 262723.MS53_0025; -.
+DR   EnsemblBacteria; AAZ43447; AAZ43447; MS53_0025.
+DR   KEGG; msy:MS53_0025; -.
+DR   PATRIC; 20024583; VBIMycSyn118523_0026.
+DR   eggNOG; COG1735; -.
+DR   HOGENOM; HOG000081700; -.
+DR   KO; K07048; -.
+DR   OMA; CDAHDHL; -.
+DR   OrthoDB; EOG628F2X; -.
+DR   BioCyc; MSYN262723:GH37-30-MONOMER; -.
+DR   EvolutionaryTrace; Q4A724; -.
+DR   Proteomes; UP000000549; Chromosome.
+DR   GO; GO:0050490; F:1,4-lactonase activity; IDA:CACAO.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:InterPro.
+DR   GO; GO:0009056; P:catabolic process; IEA:InterPro.
+DR   InterPro; IPR001559; Phosphotriesterase.
+DR   PANTHER; PTHR10819; PTHR10819; 1.
+DR   Pfam; PF02126; PTE; 1.
+DR   PROSITE; PS51347; PHOSPHOTRIESTERASE_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3MSR, ECO:0000213|PDB:3OVG};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000549};
+KW   Metal-binding {ECO:0000213|PDB:3OVG};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000549};
+KW   Zinc {ECO:0000213|PDB:3OVG}.
+FT   METAL        24     24       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3OVG}.
+FT   METAL        26     26       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3OVG}.
+FT   METAL       153    153       Zinc 1. {ECO:0000213|PDB:3OVG}.
+FT   METAL       153    153       Zinc 2. {ECO:0000213|PDB:3OVG}.
+FT   METAL       186    186       Zinc 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3OVG}.
+FT   METAL       214    214       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3OVG}.
+FT   METAL       272    272       Zinc 1. {ECO:0000213|PDB:3OVG}.
+SQ   SEQUENCE   353 AA;  39499 MW;  5F6004A8271CFAAB CRC64;
+     MENKFARTVL GDIPVEKLGI TDCHDHFIKN GGPEVEEHID FLMLNVDASI KEFKEFIDRG
+     GSTIVTMDPP NVGRDVLKTL EIANAVKNLG GNVIMSTGFH KAKFYDKYSS WLAVVPTEEI
+     VKMCVAEIEE GMDEYNYNGP VVKRSKAKAG IIKAGTGYGA IDRLELKALE VAARTSILTG
+     CPILVHTQLG TMALEVAKHL IGFGANPDKI QISHLNKNPD KYYYEKVIKE TGVTLCFDGP
+     DRVKYYPDSL LAENIKYLVD KGLQKHITLS LDAGRILYQR NYGLTKGKQT FGLAYLFDRF
+     LPLLKQVGVS KEAIFDILVN NPKRVLAFDE KRNFDPLKVS KEVLELKKEL NLN
+//

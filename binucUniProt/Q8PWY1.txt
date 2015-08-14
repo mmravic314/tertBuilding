@@ -1,0 +1,167 @@
+ID   PYLS_METMA              Reviewed;         454 AA.
+AC   Q8PWY1;
+DT   28-NOV-2006, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2002, sequence version 1.
+DT   29-APR-2015, entry version 93.
+DE   RecName: Full=Pyrrolysine--tRNA ligase {ECO:0000255|HAMAP-Rule:MF_01573};
+DE            EC=6.1.1.26 {ECO:0000255|HAMAP-Rule:MF_01573};
+DE   AltName: Full=Pyrrolysine--tRNA(Pyl) ligase;
+DE   AltName: Full=Pyrrolysyl-tRNA synthetase {ECO:0000255|HAMAP-Rule:MF_01573};
+DE            Short=PylRS {ECO:0000255|HAMAP-Rule:MF_01573};
+GN   Name=pylS {ECO:0000255|HAMAP-Rule:MF_01573};
+GN   OrderedLocusNames=MM_1445;
+OS   Methanosarcina mazei (strain ATCC BAA-159 / DSM 3647 / Goe1 / Go1 /
+OS   JCM 11833 / OCM 88) (Methanosarcina frisia).
+OC   Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales;
+OC   Methanosarcinaceae; Methanosarcina.
+OX   NCBI_TaxID=192952;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC BAA-159 / DSM 3647 / Goe1 / Go1 / JCM 11833 / OCM 88;
+RX   PubMed=12125824;
+RA   Deppenmeier U., Johann A., Hartsch T., Merkl R., Schmitz R.A.,
+RA   Martinez-Arias R., Henne A., Wiezer A., Baeumer S., Jacobi C.,
+RA   Brueggemann H., Lienard T., Christmann A., Boemecke M., Steckel S.,
+RA   Bhattacharyya A., Lykidis A., Overbeek R., Klenk H.-P., Gunsalus R.P.,
+RA   Fritz H.-J., Gottschalk G.;
+RT   "The genome of Methanosarcina mazei: evidence for lateral gene
+RT   transfer between Bacteria and Archaea.";
+RL   J. Mol. Microbiol. Biotechnol. 4:453-461(2002).
+CC   -!- FUNCTION: Catalyzes the attachment of pyrrolysine to tRNA(Pyl).
+CC       Pyrrolysine is a lysine derivative encoded by the termination
+CC       codon UAG. {ECO:0000255|HAMAP-Rule:MF_01573}.
+CC   -!- CATALYTIC ACTIVITY: ATP + L-pyrrolysine + tRNA(Pyl) = AMP +
+CC       diphosphate + L-pyrrolysyl-tRNA(Pyl). {ECO:0000255|HAMAP-
+CC       Rule:MF_01573}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_01573}.
+CC   -!- SIMILARITY: Belongs to the class-II aminoacyl-tRNA synthetase
+CC       family. {ECO:0000255|HAMAP-Rule:MF_01573}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE008384; AAM31141.1; -; Genomic_DNA.
+DR   RefSeq; NP_633469.1; NC_003901.1.
+DR   RefSeq; WP_011033391.1; NC_003901.1.
+DR   PDB; 2E3C; X-ray; 2.65 A; A=185-454.
+DR   PDB; 2Q7E; X-ray; 1.80 A; A=185-454.
+DR   PDB; 2Q7G; X-ray; 1.90 A; A=185-454.
+DR   PDB; 2Q7H; X-ray; 2.10 A; A=185-454.
+DR   PDB; 2ZCE; X-ray; 1.80 A; A=185-454.
+DR   PDB; 2ZIM; X-ray; 2.10 A; A=185-454.
+DR   PDB; 2ZIN; X-ray; 1.79 A; A=185-454.
+DR   PDB; 2ZIO; X-ray; 2.06 A; A=185-454.
+DR   PDB; 3QTC; X-ray; 1.75 A; A=185-454.
+DR   PDB; 3VQV; X-ray; 1.90 A; A=185-454.
+DR   PDB; 3VQW; X-ray; 2.40 A; A=185-454.
+DR   PDB; 3VQX; X-ray; 2.30 A; A/B/C/D=185-454.
+DR   PDB; 4BW9; X-ray; 2.35 A; A=185-454.
+DR   PDB; 4BWA; X-ray; 2.45 A; A=185-454.
+DR   PDB; 4CH3; X-ray; 2.28 A; A=185-454.
+DR   PDB; 4CH4; X-ray; 2.16 A; A=185-454.
+DR   PDB; 4CH5; X-ray; 2.20 A; A=185-454.
+DR   PDB; 4CH6; X-ray; 2.05 A; A=185-454.
+DR   PDB; 4CS2; X-ray; 1.90 A; A=188-454.
+DR   PDB; 4CS3; X-ray; 1.50 A; A=188-454.
+DR   PDB; 4CS4; X-ray; 1.35 A; A=188-454.
+DR   PDB; 4Q6G; X-ray; 2.25 A; A=188-454.
+DR   PDB; 4TQD; X-ray; 2.14 A; A=185-454.
+DR   PDB; 4TQF; X-ray; 2.71 A; A=185-454.
+DR   PDBsum; 2E3C; -.
+DR   PDBsum; 2Q7E; -.
+DR   PDBsum; 2Q7G; -.
+DR   PDBsum; 2Q7H; -.
+DR   PDBsum; 2ZCE; -.
+DR   PDBsum; 2ZIM; -.
+DR   PDBsum; 2ZIN; -.
+DR   PDBsum; 2ZIO; -.
+DR   PDBsum; 3QTC; -.
+DR   PDBsum; 3VQV; -.
+DR   PDBsum; 3VQW; -.
+DR   PDBsum; 3VQX; -.
+DR   PDBsum; 4BW9; -.
+DR   PDBsum; 4BWA; -.
+DR   PDBsum; 4CH3; -.
+DR   PDBsum; 4CH4; -.
+DR   PDBsum; 4CH5; -.
+DR   PDBsum; 4CH6; -.
+DR   PDBsum; 4CS2; -.
+DR   PDBsum; 4CS3; -.
+DR   PDBsum; 4CS4; -.
+DR   PDBsum; 4Q6G; -.
+DR   PDBsum; 4TQD; -.
+DR   PDBsum; 4TQF; -.
+DR   ProteinModelPortal; Q8PWY1; -.
+DR   SMR; Q8PWY1; 188-454.
+DR   STRING; 192952.MM_1445; -.
+DR   EnsemblBacteria; AAM31141; AAM31141; MM_1445.
+DR   GeneID; 1479787; -.
+DR   KEGG; mma:MM_1445; -.
+DR   eggNOG; NOG11047; -.
+DR   HOGENOM; HOG000115810; -.
+DR   KO; K11627; -.
+DR   OMA; NFCQMGS; -.
+DR   BioCyc; MMAZ192952:GCK2-1483-MONOMER; -.
+DR   BRENDA; 6.1.1.26; 3270.
+DR   EvolutionaryTrace; Q8PWY1; -.
+DR   Proteomes; UP000000595; Chromosome.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0004812; F:aminoacyl-tRNA ligase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0006418; P:tRNA aminoacylation for protein translation; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 1.10.287.540; -; 1.
+DR   HAMAP; MF_01573; Pyl_tRNA_synth; 1.
+DR   InterPro; IPR002314; aa-tRNA-synt_IIb_cons-dom.
+DR   InterPro; IPR006195; aa-tRNA-synth_II.
+DR   InterPro; IPR012739; Pyrrolysyl-tRNA_ligase.
+DR   InterPro; IPR023877; Pyrrolysyl-tRNA_ligase_C.
+DR   InterPro; IPR023878; Pyrrolysyl-tRNA_ligase_N.
+DR   InterPro; IPR023218; UPF0291_struct_dom.
+DR   Pfam; PF00587; tRNA-synt_2b; 1.
+DR   TIGRFAMs; TIGR02367; PylS_Cterm; 1.
+DR   TIGRFAMs; TIGR03912; PylS_Nterm; 1.
+DR   PROSITE; PS50862; AA_TRNA_LIGASE_II; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Aminoacyl-tRNA synthetase; ATP-binding;
+KW   Complete proteome; Cytoplasm; Ligase; Nucleotide-binding;
+KW   Protein biosynthesis; Reference proteome.
+FT   CHAIN         1    454       Pyrrolysine--tRNA ligase.
+FT                                /FTId=PRO_0000260453.
+FT   HELIX       192    201       {ECO:0000244|PDB:4CS4}.
+FT   HELIX       204    206       {ECO:0000244|PDB:4CH3}.
+FT   STRAND      210    214       {ECO:0000244|PDB:4Q6G}.
+FT   HELIX       216    236       {ECO:0000244|PDB:4CS4}.
+FT   HELIX       242    256       {ECO:0000244|PDB:4CS4}.
+FT   STRAND      260    262       {ECO:0000244|PDB:4CS4}.
+FT   STRAND      266    269       {ECO:0000244|PDB:4CS4}.
+FT   HELIX       270    275       {ECO:0000244|PDB:4CS4}.
+FT   HELIX       283    287       {ECO:0000244|PDB:4CS4}.
+FT   TURN        292    294       {ECO:0000244|PDB:4CS4}.
+FT   STRAND      295    297       {ECO:0000244|PDB:4CS4}.
+FT   STRAND      299    301       {ECO:0000244|PDB:4TQD}.
+FT   HELIX       302    312       {ECO:0000244|PDB:4CS4}.
+FT   TURN        313    315       {ECO:0000244|PDB:4CS4}.
+FT   STRAND      318    329       {ECO:0000244|PDB:4CS4}.
+FT   STRAND      335    337       {ECO:0000244|PDB:3QTC}.
+FT   STRAND      340    351       {ECO:0000244|PDB:4CS4}.
+FT   HELIX       356    370       {ECO:0000244|PDB:4CS4}.
+FT   STRAND      375    381       {ECO:0000244|PDB:4CS4}.
+FT   TURN        382    384       {ECO:0000244|PDB:4CS4}.
+FT   STRAND      385    392       {ECO:0000244|PDB:4CS4}.
+FT   STRAND      395    403       {ECO:0000244|PDB:4CS4}.
+FT   HELIX       406    411       {ECO:0000244|PDB:4CS4}.
+FT   STRAND      417    423       {ECO:0000244|PDB:4CS4}.
+FT   HELIX       424    432       {ECO:0000244|PDB:4CS4}.
+FT   HELIX       437    440       {ECO:0000244|PDB:4CS4}.
+FT   STRAND      444    447       {ECO:0000244|PDB:4CS4}.
+FT   STRAND      450    452       {ECO:0000244|PDB:4CS4}.
+SQ   SEQUENCE   454 AA;  50921 MW;  D6BE5A812B5CA96E CRC64;
+     MDKKPLNTLI SATGLWMSRT GTIHKIKHHE VSRSKIYIEM ACGDHLVVNN SRSSRTARAL
+     RHHKYRKTCK RCRVSDEDLN KFLTKANEDQ TSVKVKVVSA PTRTKKAMPK SVARAPKPLE
+     NTEAAQAQPS GSKFSPAIPV STQESVSVPA SVSTSISSIS TGATASALVK GNTNPITSMS
+     APVQASAPAL TKSQTDRLEV LLNPKDEISL NSGKPFRELE SELLSRRKKD LQQIYAEERE
+     NYLGKLEREI TRFFVDRGFL EIKSPILIPL EYIERMGIDN DTELSKQIFR VDKNFCLRPM
+     LAPNLYNYLR KLDRALPDPI KIFEIGPCYR KESDGKEHLE EFTMLNFCQM GSGCTRENLE
+     SIITDFLNHL GIDFKIVGDS CMVYGDTLDV MHGDLELSSA VVGPIPLDRE WGIDKPWIGA
+     GFGLERLLKV KHDFKNIKRA ARSESYYNGI STNL
+//

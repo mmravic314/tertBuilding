@@ -1,0 +1,317 @@
+ID   STOM_MOUSE              Reviewed;         284 AA.
+AC   P54116; O88988; Q3UP81; Q60744; Q62455;
+DT   01-OCT-1996, integrated into UniProtKB/Swiss-Prot.
+DT   09-JAN-2007, sequence version 3.
+DT   24-JUN-2015, entry version 117.
+DE   RecName: Full=Erythrocyte band 7 integral membrane protein;
+DE   AltName: Full=Protein 7.2b;
+DE   AltName: Full=Stomatin;
+GN   Name=Stom; Synonyms=Epb7.2, Epb72;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND TISSUE SPECIFICITY.
+RC   STRAIN=C57BL/6J;
+RX   PubMed=7540886;
+RA   Gallagher P.G., Romana M., Lieman J.H., Ward D.C.;
+RT   "cDNA structure, tissue-specific expression, and chromosomal
+RT   localization of the murine band 7.2b gene.";
+RL   Blood 86:359-365(1995).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=BALB/c; TISSUE=Bone marrow;
+RX   PubMed=8921901; DOI=10.1016/0378-1119(96)00347-2;
+RA   Schlegel W., Unfried I., Prohaska R.;
+RT   "Cloning and analysis of a cDNA encoding the BALB/c murine erythrocyte
+RT   band 7 integral membrane protein.";
+RL   Gene 178:115-118(1996).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=8786142; DOI=10.1006/geno.1996.0304;
+RA   Gallagher P.G., Turetsky T., Mentzer W.C.;
+RT   "Genomic organization and 5'-flanking DNA sequence of the murine
+RT   stomatin gene (Epb72).";
+RL   Genomics 34:410-412(1996).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA], SUBCELLULAR LOCATION, TISSUE SPECIFICITY,
+RP   AND DEVELOPMENTAL STAGE.
+RC   TISSUE=Neuron;
+RX   PubMed=10383825; DOI=10.1006/mcne.1999.0761;
+RA   Mannsfeldt A.G., Carroll P., Stucky C.L., Lewin G.R.;
+RT   "Stomatin, a MEC-2 like protein, is expressed by mammalian sensory
+RT   neurons.";
+RL   Mol. Cell. Neurosci. 13:391-404(1999).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=C57BL/6J;
+RC   TISSUE=Bone marrow, Cerebellum, Spleen, and Sympathetic ganglion;
+RX   PubMed=16141072; DOI=10.1126/science.1112014;
+RA   Carninci P., Kasukawa T., Katayama S., Gough J., Frith M.C., Maeda N.,
+RA   Oyama R., Ravasi T., Lenhard B., Wells C., Kodzius R., Shimokawa K.,
+RA   Bajic V.B., Brenner S.E., Batalov S., Forrest A.R., Zavolan M.,
+RA   Davis M.J., Wilming L.G., Aidinis V., Allen J.E.,
+RA   Ambesi-Impiombato A., Apweiler R., Aturaliya R.N., Bailey T.L.,
+RA   Bansal M., Baxter L., Beisel K.W., Bersano T., Bono H., Chalk A.M.,
+RA   Chiu K.P., Choudhary V., Christoffels A., Clutterbuck D.R.,
+RA   Crowe M.L., Dalla E., Dalrymple B.P., de Bono B., Della Gatta G.,
+RA   di Bernardo D., Down T., Engstrom P., Fagiolini M., Faulkner G.,
+RA   Fletcher C.F., Fukushima T., Furuno M., Futaki S., Gariboldi M.,
+RA   Georgii-Hemming P., Gingeras T.R., Gojobori T., Green R.E.,
+RA   Gustincich S., Harbers M., Hayashi Y., Hensch T.K., Hirokawa N.,
+RA   Hill D., Huminiecki L., Iacono M., Ikeo K., Iwama A., Ishikawa T.,
+RA   Jakt M., Kanapin A., Katoh M., Kawasawa Y., Kelso J., Kitamura H.,
+RA   Kitano H., Kollias G., Krishnan S.P., Kruger A., Kummerfeld S.K.,
+RA   Kurochkin I.V., Lareau L.F., Lazarevic D., Lipovich L., Liu J.,
+RA   Liuni S., McWilliam S., Madan Babu M., Madera M., Marchionni L.,
+RA   Matsuda H., Matsuzawa S., Miki H., Mignone F., Miyake S., Morris K.,
+RA   Mottagui-Tabar S., Mulder N., Nakano N., Nakauchi H., Ng P.,
+RA   Nilsson R., Nishiguchi S., Nishikawa S., Nori F., Ohara O.,
+RA   Okazaki Y., Orlando V., Pang K.C., Pavan W.J., Pavesi G., Pesole G.,
+RA   Petrovsky N., Piazza S., Reed J., Reid J.F., Ring B.Z., Ringwald M.,
+RA   Rost B., Ruan Y., Salzberg S.L., Sandelin A., Schneider C.,
+RA   Schoenbach C., Sekiguchi K., Semple C.A., Seno S., Sessa L., Sheng Y.,
+RA   Shibata Y., Shimada H., Shimada K., Silva D., Sinclair B.,
+RA   Sperling S., Stupka E., Sugiura K., Sultana R., Takenaka Y., Taki K.,
+RA   Tammoja K., Tan S.L., Tang S., Taylor M.S., Tegner J., Teichmann S.A.,
+RA   Ueda H.R., van Nimwegen E., Verardo R., Wei C.L., Yagi K.,
+RA   Yamanishi H., Zabarovsky E., Zhu S., Zimmer A., Hide W., Bult C.,
+RA   Grimmond S.M., Teasdale R.D., Liu E.T., Brusic V., Quackenbush J.,
+RA   Wahlestedt C., Mattick J.S., Hume D.A., Kai C., Sasaki D., Tomaru Y.,
+RA   Fukuda S., Kanamori-Katayama M., Suzuki M., Aoki J., Arakawa T.,
+RA   Iida J., Imamura K., Itoh M., Kato T., Kawaji H., Kawagashira N.,
+RA   Kawashima T., Kojima M., Kondo S., Konno H., Nakano K., Ninomiya N.,
+RA   Nishio T., Okada M., Plessy C., Shibata K., Shiraki T., Suzuki S.,
+RA   Tagami M., Waki K., Watahiki A., Okamura-Oho Y., Suzuki H., Kawai J.,
+RA   Hayashizaki Y.;
+RT   "The transcriptional landscape of the mammalian genome.";
+RL   Science 309:1559-1563(2005).
+RN   [6]
+RP   FUNCTION, AND INTERACTION WITH ASIC1; ASIC2 AND ASIC3.
+RX   PubMed=15471860; DOI=10.1074/jbc.M407708200;
+RA   Price M.P., Thompson R.J., Eshcol J.O., Wemmie J.A., Benson C.J.;
+RT   "Stomatin modulates gating of acid-sensing ion channels.";
+RL   J. Biol. Chem. 279:53886-53891(2004).
+RN   [7]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-161 AND SER-244, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19144319; DOI=10.1016/j.immuni.2008.11.006;
+RA   Trost M., English L., Lemieux S., Courcelles M., Desjardins M.,
+RA   Thibault P.;
+RT   "The phagosomal proteome in interferon-gamma-activated macrophages.";
+RL   Immunity 30:143-154(2009).
+RN   [8]
+RP   X-RAY CRYSTALLOGRAPHY (1.80 ANGSTROMS) OF 86-213, FUNCTION, SUBUNIT,
+RP   INTERACTION WITH ASIC3, SUBCELLULAR LOCATION, AND MUTAGENESIS OF
+RP   ARG-97; LEU-109; LEU-145; THR-182 AND VAL-197.
+RX   PubMed=22850675; DOI=10.1038/emboj.2012.203;
+RA   Brand J., Smith E.S., Schwefel D., Lapatsina L., Poole K.,
+RA   Omerbasic D., Kozlenkov A., Behlke J., Lewin G.R., Daumke O.;
+RT   "A stomatin dimer modulates the activity of acid-sensing ion
+RT   channels.";
+RL   EMBO J. 31:3635-3646(2012).
+CC   -!- FUNCTION: Regulates ion channel activity and transmembrane ion
+CC       transport. Regulates ASIC2 and ASIC3 channel activity.
+CC       {ECO:0000269|PubMed:15471860, ECO:0000269|PubMed:22850675}.
+CC   -!- SUBUNIT: Interacts with LANCL1. Interacts with SLC2A1 and SLC4A1.
+CC       Identified in large complexes with SLC40A1, SLC14A1, SLC29A1 and
+CC       AQP1 (By similarity). Homodimer and higher order homooligomers.
+CC       The homodimer is banana-shaped. Interacts with ASIC1, ASIC2 and
+CC       ASIC3. {ECO:0000250, ECO:0000269|PubMed:15471860,
+CC       ECO:0000269|PubMed:22850675}.
+CC   -!- INTERACTION:
+CC       Self; NbExp=5; IntAct=EBI-8004826, EBI-8004826;
+CC       O35240:Asic3 (xeno); NbExp=3; IntAct=EBI-8004826, EBI-982374;
+CC   -!- SUBCELLULAR LOCATION: Cell membrane; Peripheral membrane protein;
+CC       Cytoplasmic side. Cell membrane; Lipid-anchor; Cytoplasmic side.
+CC       Melanosome {ECO:0000250}. Cytoplasmic vesicle. Note=Exposed on the
+CC       cytoplasmic surface of the membrane. Associated with lipid rafts.
+CC       Concentrates preferentially in plasma membrane protrusions and in
+CC       a juxta-nuclear region which may represent Golgi-derived vesicles.
+CC       Colocalizes with actin.
+CC   -!- TISSUE SPECIFICITY: Expressed in all sensory neurons of the dorsal
+CC       root ganglia. In the CNS, expressed in many neurons of the spinal
+CC       cord, medulla and pons. Expressed only in scattered neurons in the
+CC       cortex, hippocampus, thalamus and basal ganglia. In the
+CC       cerebellum, expressed in all Purkinje cells (at protein level).
+CC       Widely expressed with high levels in heart, liver, skeletal muscle
+CC       and testis and low levels in lung, brain and spleen.
+CC       {ECO:0000269|PubMed:10383825, ECO:0000269|PubMed:7540886}.
+CC   -!- DEVELOPMENTAL STAGE: First expressed in the developing embryo at
+CC       E11.5 when target innervation is complete. Expression continues
+CC       into adulthood. {ECO:0000269|PubMed:10383825}.
+CC   -!- SIMILARITY: Belongs to the band 7/mec-2 family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAB18857.1; Type=Erroneous gene model prediction; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U17297; AAA75024.1; -; mRNA.
+DR   EMBL; X91043; CAA62503.1; -; mRNA.
+DR   EMBL; U50999; AAB18857.1; ALT_SEQ; Genomic_DNA.
+DR   EMBL; U50993; AAB18857.1; JOINED; Genomic_DNA.
+DR   EMBL; U50994; AAB18857.1; JOINED; Genomic_DNA.
+DR   EMBL; U50995; AAB18857.1; JOINED; Genomic_DNA.
+DR   EMBL; U50996; AAB18857.1; JOINED; Genomic_DNA.
+DR   EMBL; U50997; AAB18857.1; JOINED; Genomic_DNA.
+DR   EMBL; U50998; AAB18857.1; JOINED; Genomic_DNA.
+DR   EMBL; AF093620; AAC64173.1; -; mRNA.
+DR   EMBL; AK139242; BAE23930.1; -; mRNA.
+DR   EMBL; AK143724; BAE25516.1; -; mRNA.
+DR   EMBL; AK148975; BAE28708.1; -; mRNA.
+DR   EMBL; AK149689; BAE29028.1; -; mRNA.
+DR   EMBL; AK149821; BAE29103.1; -; mRNA.
+DR   EMBL; AK149991; BAE29219.1; -; mRNA.
+DR   EMBL; AK151129; BAE30137.1; -; mRNA.
+DR   CCDS; CCDS15961.1; -.
+DR   PIR; JC5221; JC5221.
+DR   RefSeq; NP_038543.1; NM_013515.2.
+DR   UniGene; Mm.295284; -.
+DR   PDB; 4FVF; X-ray; 2.46 A; A/B=86-213.
+DR   PDB; 4FVG; X-ray; 1.80 A; A=86-213.
+DR   PDB; 4FVJ; X-ray; 2.69 A; A/B/C/D/E/F/G/H=86-213.
+DR   PDBsum; 4FVF; -.
+DR   PDBsum; 4FVG; -.
+DR   PDBsum; 4FVJ; -.
+DR   ProteinModelPortal; P54116; -.
+DR   SMR; P54116; 89-255.
+DR   BioGrid; 199465; 1.
+DR   IntAct; P54116; 2.
+DR   STRING; 10090.ENSMUSP00000028241; -.
+DR   PhosphoSite; P54116; -.
+DR   MaxQB; P54116; -.
+DR   PaxDb; P54116; -.
+DR   PRIDE; P54116; -.
+DR   Ensembl; ENSMUST00000028241; ENSMUSP00000028241; ENSMUSG00000026880.
+DR   GeneID; 13830; -.
+DR   KEGG; mmu:13830; -.
+DR   UCSC; uc008jkh.1; mouse.
+DR   CTD; 2040; -.
+DR   MGI; MGI:95403; Stom.
+DR   eggNOG; COG0330; -.
+DR   GeneTree; ENSGT00550000074454; -.
+DR   HOGENOM; HOG000217040; -.
+DR   HOVERGEN; HBG004815; -.
+DR   InParanoid; P54116; -.
+DR   KO; K17286; -.
+DR   OMA; KEPGAMQ; -.
+DR   OrthoDB; EOG78D7KJ; -.
+DR   PhylomeDB; P54116; -.
+DR   TreeFam; TF105750; -.
+DR   ChiTaRS; Stom; mouse.
+DR   NextBio; 284640; -.
+DR   PRO; PR:P54116; -.
+DR   Proteomes; UP000000589; Chromosome 2.
+DR   Bgee; P54116; -.
+DR   CleanEx; MM_STOM; -.
+DR   Genevisible; P54116; MM.
+DR   GO; GO:0072562; C:blood microparticle; ISO:MGI.
+DR   GO; GO:0005737; C:cytoplasm; IDA:AgBase.
+DR   GO; GO:0005856; C:cytoskeleton; ISS:UniProtKB.
+DR   GO; GO:0005783; C:endoplasmic reticulum; ISO:MGI.
+DR   GO; GO:0070062; C:extracellular exosome; ISO:MGI.
+DR   GO; GO:0005615; C:extracellular space; ISO:MGI.
+DR   GO; GO:0005887; C:integral component of plasma membrane; IDA:UniProtKB.
+DR   GO; GO:0042470; C:melanosome; IEA:UniProtKB-SubCell.
+DR   GO; GO:0016020; C:membrane; ISO:MGI.
+DR   GO; GO:0045121; C:membrane raft; ISS:UniProtKB.
+DR   GO; GO:0005739; C:mitochondrion; IDA:AgBase.
+DR   GO; GO:0048471; C:perinuclear region of cytoplasm; IDA:AgBase.
+DR   GO; GO:0031982; C:vesicle; ISO:MGI.
+DR   GO; GO:0042802; F:identical protein binding; IPI:IntAct.
+DR   GO; GO:0042803; F:protein homodimerization activity; IPI:UniProtKB.
+DR   GO; GO:0070063; F:RNA polymerase binding; ISO:MGI.
+DR   GO; GO:0098779; P:activation of mitophagy in response to mitochondrial depolarization; ISO:MGI.
+DR   GO; GO:0044829; P:positive regulation by host of viral genome replication; IMP:AgBase.
+DR   GO; GO:0002230; P:positive regulation of defense response to virus by host; ISO:MGI.
+DR   GO; GO:0090314; P:positive regulation of protein targeting to membrane; IMP:AgBase.
+DR   GO; GO:0048524; P:positive regulation of viral process; IMP:AgBase.
+DR   GO; GO:0051260; P:protein homooligomerization; ISS:UniProtKB.
+DR   GO; GO:1901585; P:regulation of acid-sensing ion channel activity; IDA:UniProtKB.
+DR   GO; GO:0034765; P:regulation of ion transmembrane transport; IDA:UniProtKB.
+DR   InterPro; IPR001107; Band_7.
+DR   InterPro; IPR018080; Band_7/stomatin-like_CS.
+DR   InterPro; IPR028515; Stomatin.
+DR   InterPro; IPR001972; Stomatin_fam.
+DR   PANTHER; PTHR10264; PTHR10264; 1.
+DR   PANTHER; PTHR10264:SF49; PTHR10264:SF49; 1.
+DR   Pfam; PF01145; Band_7; 1.
+DR   PRINTS; PR00721; STOMATIN.
+DR   SMART; SM00244; PHB; 1.
+DR   PROSITE; PS01270; BAND_7; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cell membrane; Complete proteome; Cytoplasmic vesicle;
+KW   Lipoprotein; Membrane; Palmitate; Phosphoprotein; Reference proteome.
+FT   CHAIN         1    284       Erythrocyte band 7 integral membrane
+FT                                protein.
+FT                                /FTId=PRO_0000094028.
+FT   TOPO_DOM      1     31       Cytoplasmic. {ECO:0000255}.
+FT   INTRAMEM     32     52       {ECO:0000255}.
+FT   TOPO_DOM     53    284       Cytoplasmic. {ECO:0000255}.
+FT   REGION      265    273       Required for homooligomerization.
+FT                                {ECO:0000250}.
+FT   REGION      267    269       Required for lipid raft association.
+FT                                {ECO:0000250}.
+FT   REGION      273    284       Interaction with LANCL1. {ECO:0000250}.
+FT   MOD_RES     161    161       Phosphoserine.
+FT                                {ECO:0000269|PubMed:19144319}.
+FT   MOD_RES     244    244       Phosphoserine.
+FT                                {ECO:0000269|PubMed:19144319}.
+FT   LIPID        30     30       S-palmitoyl cysteine. {ECO:0000250}.
+FT   LIPID        87     87       S-palmitoyl cysteine. {ECO:0000250}.
+FT   MUTAGEN      97     97       R->D: Does not abolish interaction with
+FT                                ASIC3, but abolishes regulation of ASIC3
+FT                                channel activity; when associated with D-
+FT                                109 and D-145.
+FT                                {ECO:0000269|PubMed:22850675}.
+FT   MUTAGEN     109    109       L->D: Does not abolish interaction with
+FT                                ASIC3, but abolishes regulation of ASIC3
+FT                                channel activity; when associated with D-
+FT                                97 and D-145.
+FT                                {ECO:0000269|PubMed:22850675}.
+FT   MUTAGEN     145    145       L->D: Does not abolish interaction with
+FT                                ASIC3, but abolishes regulation of ASIC3
+FT                                channel activity; when associated with D-
+FT                                97 and D-109.
+FT                                {ECO:0000269|PubMed:22850675}.
+FT   MUTAGEN     182    182       T->W: Does not abolish interaction with
+FT                                ASIC3, but abolishes regulation of ASIC2
+FT                                and ASIC3 channel activity.
+FT                                {ECO:0000269|PubMed:22850675}.
+FT   MUTAGEN     197    197       V->P: Abolishes homodimerization and
+FT                                oligomerization. Abolishes regulation of
+FT                                ASIC2 and ASIC3 channel activity.
+FT                                {ECO:0000269|PubMed:22850675}.
+FT   CONFLICT      3      3       D -> V (in Ref. 4; AAC64173).
+FT                                {ECO:0000305}.
+FT   CONFLICT     37     37       A -> V (in Ref. 2; CAA62503).
+FT                                {ECO:0000305}.
+FT   CONFLICT     40     40       F -> I (in Ref. 2; CAA62503).
+FT                                {ECO:0000305}.
+FT   CONFLICT     43     43       I -> L (in Ref. 2; CAA62503).
+FT                                {ECO:0000305}.
+FT   CONFLICT     91     91       L -> F (in Ref. 2; CAA62503).
+FT                                {ECO:0000305}.
+FT   CONFLICT    273    273       V -> I (in Ref. 2; CAA62503).
+FT                                {ECO:0000305}.
+FT   CONFLICT    283    283       N -> H (in Ref. 2; CAA62503).
+FT                                {ECO:0000305}.
+FT   STRAND       99    109       {ECO:0000244|PDB:4FVG}.
+FT   STRAND      115    127       {ECO:0000244|PDB:4FVG}.
+FT   HELIX       129    134       {ECO:0000244|PDB:4FVG}.
+FT   STRAND      135    137       {ECO:0000244|PDB:4FVG}.
+FT   HELIX       139    156       {ECO:0000244|PDB:4FVG}.
+FT   HELIX       160    165       {ECO:0000244|PDB:4FVG}.
+FT   HELIX       167    182       {ECO:0000244|PDB:4FVG}.
+FT   HELIX       183    185       {ECO:0000244|PDB:4FVG}.
+FT   STRAND      187    198       {ECO:0000244|PDB:4FVG}.
+SQ   SEQUENCE   284 AA;  31375 MW;  AB7CC0E5FF2DF4A9 CRC64;
+     MSDKRQSSHV QSQRIPESFR ENSKTELGAC GWILVAASFF FVIITFPISI WICIKIVKEY
+     ERVIIFRLGR ILQGGAKGPG LFFILPCTDS LIKVDMRTIS FDIPPQEVLT KDSVTISVDG
+     VVYYRVQNAT LAVANITNAD SATRLLAQTT LRNALGTKNL SQILSDREEI AHHMQSTLDD
+     ATDDWGIKVE RVEIKDVKLP VQLQRAMAAE AEAAREARAK VIAAEGEMNA SRALKEASMV
+     ITESPAALQL RYLQTLTTIA AEKNSTIVFP LPVDMLQGIM GSNH
+//

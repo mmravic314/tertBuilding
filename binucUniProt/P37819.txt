@@ -1,0 +1,213 @@
+ID   PAH_STRC2               Reviewed;         313 AA.
+AC   P0DJQ4; P37819; P72400;
+DT   05-SEP-2012, integrated into UniProtKB/Swiss-Prot.
+DT   05-SEP-2012, sequence version 1.
+DT   24-JUN-2015, entry version 13.
+DE   RecName: Full=Proclavaminate amidinohydrolase;
+DE            EC=3.5.3.22;
+DE   AltName: Full=Proclavaminic acid amidino hydrolase;
+GN   Name=pah;
+OS   Streptomyces clavuligerus (strain ATCC 27064 / DSM 738 / JCM 4710 /
+OS   NBRC 13307 / NCIMB 12785 / NRRL 3585 / VKM Ac-602).
+OC   Bacteria; Actinobacteria; Streptomycetales; Streptomycetaceae;
+OC   Streptomyces.
+OX   NCBI_TaxID=443255;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 27064 / DSM 738 / JCM 4710 / NBRC 13307 / NCIMB 12785 /
+RC   NRRL 3585 / VKM Ac-602;
+RX   PubMed=8088547; DOI=10.1016/0378-1119(94)90036-1;
+RA   Aidoo K.A., Wong A., Alexander D.C., Rittammer R.A.R., Jensen S.E.;
+RT   "Cloning, sequencing and disruption of a gene from Streptomyces
+RT   clavuligerus involved in clavulanic acid biosynthesis.";
+RL   Gene 147:41-46(1994).
+CC   -!- CATALYTIC ACTIVITY: Amidinoproclavaminate + H(2)O = proclavaminate
+CC       + urea.
+CC   -!- COFACTOR:
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000255|PROSITE-ProRule:PRU00742};
+CC       Note=Binds 2 manganese ions per subunit. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00742};
+CC   -!- PATHWAY: Antibiotic biosynthesis; clavulanate biosynthesis;
+CC       clavulanate from D-glyceraldehyde 3-phosphate and L-arginine: step
+CC       4/8.
+CC   -!- SUBUNIT: Homohexamer. {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the arginase family. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00742}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U87786; AAA62451.1; -; Genomic_DNA.
+DR   RefSeq; WP_003952511.1; NZ_DS570624.1.
+DR   ProteinModelPortal; P0DJQ4; -.
+DR   SMR; P0DJQ4; 9-309.
+DR   STRING; 443255.SclaA2_010100020118; -.
+DR   UniPathway; UPA00112; UER00245.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0033972; F:proclavaminate amidinohydrolase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0033050; P:clavulanic acid biosynthetic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 3.40.800.10; -; 1.
+DR   InterPro; IPR005925; Agmatinase-rel.
+DR   InterPro; IPR006035; Ureohydrolase.
+DR   InterPro; IPR023696; Ureohydrolase_domain.
+DR   InterPro; IPR020855; Ureohydrolase_Mn_BS.
+DR   PANTHER; PTHR11358; PTHR11358; 1.
+DR   Pfam; PF00491; Arginase; 1.
+DR   PIRSF; PIRSF036979; Arginase; 1.
+DR   PRINTS; PR00116; ARGINASE.
+DR   TIGRFAMs; TIGR01230; agmatinase; 1.
+DR   PROSITE; PS01053; ARGINASE_1; 1.
+DR   PROSITE; PS51409; ARGINASE_2; 1.
+PE   3: Inferred from homology;
+KW   Hydrolase; Manganese; Metal-binding.
+FT   CHAIN         1    313       Proclavaminate amidinohydrolase.
+FT                                /FTId=PRO_0000419085.
+FT   METAL       121    121       Manganese 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00742}.
+FT   METAL       144    144       Manganese 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00742}.
+FT   METAL       144    144       Manganese 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00742}.
+FT   METAL       146    146       Manganese 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00742}.
+FT   METAL       148    148       Manganese 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00742}.
+FT   METAL       235    235       Manganese 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00742}.
+FT   METAL       235    235       Manganese 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00742}.
+FT   METAL       237    237       Manganese 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00742}.
+SQ   SEQUENCE   313 AA;  33401 MW;  759E9B5644B88D5E CRC64;
+     MERIDSHVSP RYAQIPTFMR LPHDPQPRGY DVVVIGAPYD GGTSYRPGAR FGPQAIRSES
+     GLIHGVGIDR GPGTFDLINC VDAGDINLTP FDMNIAIDTA QSHLSGLLKA NAAFLMIGGD
+     HSLTVAALRA VAEQHGPLAV VHLDAHSDTN PAFYGGRYHH GTPFRHGIDE KLIDPAAMVQ
+     IGIRGHNPKP DSLDYARGHG VRVVTADEFG ELGVGGTADL IREKVGQRPV YVSVDIDVVD
+     PAFAPGTGTP APGGLLSREV LALLRCVGDL KPVGFDVMEV SPLYDHGGIT SILATEIGAE
+     LLYQYARAHR TQL
+//
+ID   PAH_STRCL               Reviewed;         313 AA.
+AC   P0DJQ3; P37819; P72400;
+DT   05-SEP-2012, integrated into UniProtKB/Swiss-Prot.
+DT   05-SEP-2012, sequence version 1.
+DT   24-JUN-2015, entry version 10.
+DE   RecName: Full=Proclavaminate amidinohydrolase;
+DE            EC=3.5.3.22;
+DE   AltName: Full=Proclavaminic acid amidino hydrolase;
+GN   Name=pah;
+OS   Streptomyces clavuligerus.
+OC   Bacteria; Actinobacteria; Streptomycetales; Streptomycetaceae;
+OC   Streptomyces.
+OX   NCBI_TaxID=1901;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=8529893; DOI=10.1016/0378-1119(95)00560-9;
+RA   Hodgson J.E., Fosberry A.P., Rawlinson N.S., Ross H.N.M., Neal R.J.,
+RA   Arnell J.C., Earl A.J., Lawlor E.J.;
+RT   "Clavulanic acid biosynthesis in Streptomyces clavuligerus: gene
+RT   cloning and characterization.";
+RL   Gene 166:49-55(1995).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (1.75 ANGSTROMS) OF 9-309, PROTEIN SEQUENCE OF
+RP   1-6, CATALYTIC ACTIVITY, COFACTOR, AND SUBUNIT.
+RX   PubMed=12020346; DOI=10.1042/BJ20020125;
+RA   Elkins J.M., Clifton I.J., Hernandez H., Doan L.X., Robinson C.V.,
+RA   Schofield C.J., Hewitson K.S.;
+RT   "Oligomeric structure of proclavaminic acid amidino hydrolase:
+RT   evolution of a hydrolytic enzyme in clavulanic acid biosynthesis.";
+RL   Biochem. J. 366:423-434(2002).
+CC   -!- CATALYTIC ACTIVITY: Amidinoproclavaminate + H(2)O = proclavaminate
+CC       + urea. {ECO:0000269|PubMed:12020346}.
+CC   -!- COFACTOR:
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000255|PROSITE-ProRule:PRU00742,
+CC         ECO:0000269|PubMed:12020346};
+CC       Note=Binds 2 manganese ions per subunit. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00742, ECO:0000269|PubMed:12020346};
+CC   -!- PATHWAY: Antibiotic biosynthesis; clavulanate biosynthesis;
+CC       clavulanate from D-glyceraldehyde 3-phosphate and L-arginine: step
+CC       4/8.
+CC   -!- SUBUNIT: Homohexamer. {ECO:0000269|PubMed:12020346}.
+CC   -!- SIMILARITY: Belongs to the arginase family. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00742}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X84101; CAA58904.1; -; Genomic_DNA.
+DR   PIR; S57669; S57669.
+DR   PDB; 1GQ6; X-ray; 1.75 A; A/B/C=1-313.
+DR   PDB; 1GQ7; X-ray; 2.45 A; A/B/C/D/E/F=1-313.
+DR   PDBsum; 1GQ6; -.
+DR   PDBsum; 1GQ7; -.
+DR   ProteinModelPortal; P0DJQ3; -.
+DR   SMR; P0DJQ3; 9-309.
+DR   STRING; 443255.SclaA2_010100020118; -.
+DR   BioCyc; MetaCyc:MONOMER-13488; -.
+DR   UniPathway; UPA00112; UER00245.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0033972; F:proclavaminate amidinohydrolase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0033050; P:clavulanic acid biosynthetic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 3.40.800.10; -; 1.
+DR   InterPro; IPR005925; Agmatinase-rel.
+DR   InterPro; IPR006035; Ureohydrolase.
+DR   InterPro; IPR023696; Ureohydrolase_domain.
+DR   InterPro; IPR020855; Ureohydrolase_Mn_BS.
+DR   PANTHER; PTHR11358; PTHR11358; 1.
+DR   Pfam; PF00491; Arginase; 1.
+DR   PIRSF; PIRSF036979; Arginase; 1.
+DR   PRINTS; PR00116; ARGINASE.
+DR   TIGRFAMs; TIGR01230; agmatinase; 1.
+DR   PROSITE; PS01053; ARGINASE_1; 1.
+DR   PROSITE; PS51409; ARGINASE_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Direct protein sequencing; Hydrolase; Manganese;
+KW   Metal-binding.
+FT   CHAIN         1    313       Proclavaminate amidinohydrolase.
+FT                                /FTId=PRO_0000173746.
+FT   METAL       121    121       Manganese 1.
+FT   METAL       144    144       Manganese 1.
+FT   METAL       144    144       Manganese 2.
+FT   METAL       146    146       Manganese 2.
+FT   METAL       148    148       Manganese 1.
+FT   METAL       235    235       Manganese 1.
+FT   METAL       235    235       Manganese 2.
+FT   METAL       237    237       Manganese 2.
+FT   STRAND       13     15       {ECO:0000244|PDB:1GQ7}.
+FT   HELIX        18     20       {ECO:0000244|PDB:1GQ6}.
+FT   STRAND       31     37       {ECO:0000244|PDB:1GQ6}.
+FT   HELIX        49     51       {ECO:0000244|PDB:1GQ6}.
+FT   HELIX        52     60       {ECO:0000244|PDB:1GQ6}.
+FT   STRAND       68     72       {ECO:0000244|PDB:1GQ7}.
+FT   HELIX        74     77       {ECO:0000244|PDB:1GQ6}.
+FT   STRAND       80     85       {ECO:0000244|PDB:1GQ6}.
+FT   HELIX        93    110       {ECO:0000244|PDB:1GQ6}.
+FT   STRAND      111    119       {ECO:0000244|PDB:1GQ6}.
+FT   HELIX       121    123       {ECO:0000244|PDB:1GQ6}.
+FT   HELIX       124    135       {ECO:0000244|PDB:1GQ6}.
+FT   STRAND      136    143       {ECO:0000244|PDB:1GQ6}.
+FT   HELIX       163    169       {ECO:0000244|PDB:1GQ6}.
+FT   STRAND      172    183       {ECO:0000244|PDB:1GQ6}.
+FT   STRAND      187    189       {ECO:0000244|PDB:1GQ6}.
+FT   TURN        190    193       {ECO:0000244|PDB:1GQ7}.
+FT   HELIX       194    198       {ECO:0000244|PDB:1GQ6}.
+FT   STRAND      202    205       {ECO:0000244|PDB:1GQ6}.
+FT   HELIX       206    225       {ECO:0000244|PDB:1GQ6}.
+FT   STRAND      228    235       {ECO:0000244|PDB:1GQ6}.
+FT   HELIX       236    238       {ECO:0000244|PDB:1GQ6}.
+FT   TURN        241    243       {ECO:0000244|PDB:1GQ6}.
+FT   STRAND      246    249       {ECO:0000244|PDB:1GQ6}.
+FT   HELIX       257    263       {ECO:0000244|PDB:1GQ6}.
+FT   HELIX       264    269       {ECO:0000244|PDB:1GQ6}.
+FT   STRAND      270    278       {ECO:0000244|PDB:1GQ6}.
+FT   HELIX       282    284       {ECO:0000244|PDB:1GQ6}.
+FT   HELIX       289    308       {ECO:0000244|PDB:1GQ6}.
+SQ   SEQUENCE   313 AA;  33401 MW;  759E9B5644B88D5E CRC64;
+     MERIDSHVSP RYAQIPTFMR LPHDPQPRGY DVVVIGAPYD GGTSYRPGAR FGPQAIRSES
+     GLIHGVGIDR GPGTFDLINC VDAGDINLTP FDMNIAIDTA QSHLSGLLKA NAAFLMIGGD
+     HSLTVAALRA VAEQHGPLAV VHLDAHSDTN PAFYGGRYHH GTPFRHGIDE KLIDPAAMVQ
+     IGIRGHNPKP DSLDYARGHG VRVVTADEFG ELGVGGTADL IREKVGQRPV YVSVDIDVVD
+     PAFAPGTGTP APGGLLSREV LALLRCVGDL KPVGFDVMEV SPLYDHGGIT SILATEIGAE
+     LLYQYARAHR TQL
+//

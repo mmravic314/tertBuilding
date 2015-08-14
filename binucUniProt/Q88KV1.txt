@@ -1,0 +1,87 @@
+ID   Q88KV1_PSEPK            Unreviewed;       205 AA.
+AC   Q88KV1;
+DT   01-JUN-2003, integrated into UniProtKB/TrEMBL.
+DT   01-JUN-2003, sequence version 1.
+DT   27-MAY-2015, entry version 78.
+DE   SubName: Full=tRNA-(Ms(2)io(6)a)-hydroxylase, putative {ECO:0000313|EMBL:AAN67801.1};
+GN   OrderedLocusNames=PP_2188 {ECO:0000313|EMBL:AAN67801.1};
+OS   Pseudomonas putida (strain KT2440).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+OC   Pseudomonadaceae; Pseudomonas.
+OX   NCBI_TaxID=160488 {ECO:0000313|EMBL:AAN67801.1, ECO:0000313|Proteomes:UP000000556};
+RN   [1] {ECO:0000313|EMBL:AAN67801.1, ECO:0000313|Proteomes:UP000000556}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=KT2440 {ECO:0000313|EMBL:AAN67801.1,
+RC   ECO:0000313|Proteomes:UP000000556};
+RX   PubMed=12534463; DOI=10.1046/j.1462-2920.2002.00366.x;
+RA   Nelson K.E., Weinel C., Paulsen I.T., Dodson R.J., Hilbert H.,
+RA   Martins dos Santos V.A.P., Fouts D.E., Gill S.R., Pop M., Holmes M.,
+RA   Brinkac L.M., Beanan M.J., DeBoy R.T., Daugherty S.C., Kolonay J.F.,
+RA   Madupu R., Nelson W.C., White O., Peterson J.D., Khouri H.M.,
+RA   Hance I., Chris Lee P., Holtzapple E.K., Scanlan D., Tran K.,
+RA   Moazzez A., Utterback T.R., Rizzo M., Lee K., Kosack D., Moestl D.,
+RA   Wedler H., Lauber J., Stjepandic D., Hoheisel J., Straetz M., Heim S.,
+RA   Kiewitz C., Eisen J.A., Timmis K.N., Duesterhoeft A., Tuemmler B.,
+RA   Fraser C.M.;
+RT   "Complete genome sequence and comparative analysis of the
+RT   metabolically versatile Pseudomonas putida KT2440.";
+RL   Environ. Microbiol. 4:799-808(2002).
+RN   [2] {ECO:0000213|PDB:2ITB}
+RP   X-RAY CRYSTALLOGRAPHY (2.05 ANGSTROMS) IN COMPLEX WITH IRON.
+RG   Joint Center for Structural Genomics (JCSG);
+RT   "Crystal structure of putative tRNA-(ms(2)io(6)a)-hydroxylase
+RT   (NP_744337.1) from Pseudomonas Putida KT2440 at 2.05 A resolution.";
+RL   Submitted (OCT-2006) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE015451; AAN67801.1; -; Genomic_DNA.
+DR   RefSeq; NP_744337.1; NC_002947.3.
+DR   RefSeq; WP_010953173.1; NC_002947.3.
+DR   PDB; 2ITB; X-ray; 2.05 A; A/B=1-205.
+DR   PDBsum; 2ITB; -.
+DR   ProteinModelPortal; Q88KV1; -.
+DR   SMR; Q88KV1; 3-201.
+DR   STRING; 160488.PP_2188; -.
+DR   DNASU; 1045049; -.
+DR   EnsemblBacteria; AAN67801; AAN67801; PP_2188.
+DR   GeneID; 1045049; -.
+DR   KEGG; ppu:PP_2188; -.
+DR   PATRIC; 19942702; VBIPsePut30601_2307.
+DR   eggNOG; COG4445; -.
+DR   HOGENOM; HOG000276503; -.
+DR   KO; K06169; -.
+DR   OMA; CEFKAAS; -.
+DR   OrthoDB; EOG6PCPXT; -.
+DR   BioCyc; PPUT160488:GIXO-2251-MONOMER; -.
+DR   EvolutionaryTrace; Q88KV1; -.
+DR   Proteomes; UP000000556; Chromosome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 1.20.1260.10; -; 1.
+DR   InterPro; IPR009078; Ferritin-like_SF.
+DR   InterPro; IPR012347; Ferritin-rel.
+DR   InterPro; IPR010386; tRNA-Hydrxlase_MiaE.
+DR   Pfam; PF06175; MiaE; 2.
+DR   PIRSF; PIRSF020736; MiaE; 1.
+DR   SUPFAM; SSF47240; SSF47240; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2ITB};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000556};
+KW   Iron {ECO:0000213|PDB:2ITB}; Metal-binding {ECO:0000213|PDB:2ITB};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000556}.
+FT   METAL        38     38       Iron 1. {ECO:0000213|PDB:2ITB}.
+FT   METAL        69     69       Iron 1. {ECO:0000213|PDB:2ITB}.
+FT   METAL        69     69       Iron 2. {ECO:0000213|PDB:2ITB}.
+FT   METAL        72     72       Iron 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:2ITB}.
+FT   METAL       122    122       Iron 2. {ECO:0000213|PDB:2ITB}.
+FT   METAL       151    151       Iron 2. {ECO:0000213|PDB:2ITB}.
+FT   METAL       154    154       Iron 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:2ITB}.
+SQ   SEQUENCE   205 AA;  23031 MW;  DA044B40D55EA197 CRC64;
+     MSLIPEIDAF LGCPTPDAWI EAALADQETL LIDHKNCEFK AASTALSLIA KYNTHLDLIN
+     MMSRLAREEL VHHEQVLRLM KRRGVPLRPV SAGRYASGLR RLVRAHEPVK LVDTLVVGAF
+     IEARSCERFA ALVPHLDEEL GRFYHGLLKS EARHYQGYLK LAHNYGDEAD IARCVELVRA
+     AEMELIQSPD QELRFHSGIP QALAA
+//

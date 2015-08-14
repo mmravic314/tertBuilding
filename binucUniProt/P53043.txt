@@ -1,0 +1,306 @@
+ID   PPT1_YEAST              Reviewed;         513 AA.
+AC   P53043; D6VUQ5;
+DT   01-OCT-1996, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-1996, sequence version 1.
+DT   22-JUL-2015, entry version 147.
+DE   RecName: Full=Serine/threonine-protein phosphatase T;
+DE            Short=PPT;
+DE            EC=3.1.3.16;
+GN   Name=PPT1; OrderedLocusNames=YGR123C; ORFNames=G6347;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=559292;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=7925273;
+RA   Chen M.X., McPartlin A.E., Brown L., Chen Y.H., Barker H.M.,
+RA   Cohen P.T.W.;
+RT   "A novel human protein serine/threonine phosphatase, which possesses
+RT   four tetratricopeptide repeat motifs and localizes to the nucleus.";
+RL   EMBO J. 13:4278-4290(1994).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 96604 / S288c / FY1679;
+RX   PubMed=9046098;
+RX   DOI=10.1002/(SICI)1097-0061(199702)13:2<171::AID-YEA57>3.0.CO;2-V;
+RA   van Dyck L., Tettelin H., Purnelle B., Goffeau A.;
+RT   "An 18.3 kb DNA fragment from yeast chromosome VII carries four
+RT   unknown open reading frames, the gene for an Asn synthase, remnants of
+RT   Ty and three tRNA genes.";
+RL   Yeast 13:171-176(1997).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=9169869;
+RA   Tettelin H., Agostoni-Carbone M.L., Albermann K., Albers M.,
+RA   Arroyo J., Backes U., Barreiros T., Bertani I., Bjourson A.J.,
+RA   Brueckner M., Bruschi C.V., Carignani G., Castagnoli L., Cerdan E.,
+RA   Clemente M.L., Coblenz A., Coglievina M., Coissac E., Defoor E.,
+RA   Del Bino S., Delius H., Delneri D., de Wergifosse P., Dujon B.,
+RA   Durand P., Entian K.-D., Eraso P., Escribano V., Fabiani L.,
+RA   Fartmann B., Feroli F., Feuermann M., Frontali L., Garcia-Gonzalez M.,
+RA   Garcia-Saez M.I., Goffeau A., Guerreiro P., Hani J., Hansen M.,
+RA   Hebling U., Hernandez K., Heumann K., Hilger F., Hofmann B.,
+RA   Indge K.J., James C.M., Klima R., Koetter P., Kramer B., Kramer W.,
+RA   Lauquin G., Leuther H., Louis E.J., Maillier E., Marconi A.,
+RA   Martegani E., Mazon M.J., Mazzoni C., McReynolds A.D.K.,
+RA   Melchioretto P., Mewes H.-W., Minenkova O., Mueller-Auer S.,
+RA   Nawrocki A., Netter P., Neu R., Nombela C., Oliver S.G., Panzeri L.,
+RA   Paoluzi S., Plevani P., Portetelle D., Portillo F., Potier S.,
+RA   Purnelle B., Rieger M., Riles L., Rinaldi T., Robben J.,
+RA   Rodrigues-Pousada C., Rodriguez-Belmonte E., Rodriguez-Torres A.M.,
+RA   Rose M., Ruzzi M., Saliola M., Sanchez-Perez M., Schaefer B.,
+RA   Schaefer M., Scharfe M., Schmidheini T., Schreer A., Skala J.,
+RA   Souciet J.-L., Steensma H.Y., Talla E., Thierry A., Vandenbol M.,
+RA   van der Aart Q.J.M., Van Dyck L., Vanoni M., Verhasselt P., Voet M.,
+RA   Volckaert G., Wambutt R., Watson M.D., Weber N., Wedler E., Wedler H.,
+RA   Wipfli P., Wolf K., Wright L.F., Zaccaria P., Zimmermann M.,
+RA   Zollner A., Kleine K.;
+RT   "The nucleotide sequence of Saccharomyces cerevisiae chromosome VII.";
+RL   Nature 387:81-84(1997).
+RN   [4]
+RP   GENOME REANNOTATION.
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=24374639; DOI=10.1534/g3.113.008995;
+RA   Engel S.R., Dietrich F.S., Fisk D.G., Binkley G., Balakrishnan R.,
+RA   Costanzo M.C., Dwight S.S., Hitz B.C., Karra K., Nash R.S., Weng S.,
+RA   Wong E.D., Lloyd P., Skrzypek M.S., Miyasato S.R., Simison M.,
+RA   Cherry J.M.;
+RT   "The reference genome sequence of Saccharomyces cerevisiae: Then and
+RT   now.";
+RL   G3 (Bethesda) 4:389-398(2014).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=17322287; DOI=10.1101/gr.6037607;
+RA   Hu Y., Rolfs A., Bhullar B., Murthy T.V.S., Zhu C., Berger M.F.,
+RA   Camargo A.A., Kelley F., McCarron S., Jepson D., Richardson A.,
+RA   Raphael J., Moreira D., Taycher E., Zuo D., Mohr S., Kane M.F.,
+RA   Williamson J., Simpson A.J.G., Bulyk M.L., Harlow E., Marsischky G.,
+RA   Kolodner R.D., LaBaer J.;
+RT   "Approaching a complete repository of sequence-verified protein-
+RT   encoding clones for Saccharomyces cerevisiae.";
+RL   Genome Res. 17:536-543(2007).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 253-277.
+RX   PubMed=1321058; DOI=10.1016/0014-5793(92)80836-6;
+RA   Chen M.X., Chen Y.H., Cohen P.T.W.;
+RT   "Polymerase chain reactions using Saccharomyces, Drosophila and human
+RT   DNA predict a large family of protein serine/threonine phosphatases.";
+RL   FEBS Lett. 306:54-58(1992).
+RN   [7]
+RP   CHARACTERIZATION, ENZYME REGULATION, SUBCELLULAR LOCATION, AND
+RP   INDUCTION.
+RX   PubMed=12694636; DOI=10.1186/1471-2121-4-3;
+RA   Jeong J.-Y., Johns J., Sinclair C., Park J.-M., Rossie S.;
+RT   "Characterization of Saccharomyces cerevisiae protein Ser/Thr
+RT   phosphatase T1 and comparison to its mammalian homolog PP5.";
+RL   BMC Cell Biol. 4:3-3(2003).
+RN   [8]
+RP   SUBCELLULAR LOCATION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562095; DOI=10.1038/nature02026;
+RA   Huh W.-K., Falvo J.V., Gerke L.C., Carroll A.S., Howson R.W.,
+RA   Weissman J.S., O'Shea E.K.;
+RT   "Global analysis of protein localization in budding yeast.";
+RL   Nature 425:686-691(2003).
+RN   [9]
+RP   LEVEL OF PROTEIN EXPRESSION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562106; DOI=10.1038/nature02046;
+RA   Ghaemmaghami S., Huh W.-K., Bower K., Howson R.W., Belle A.,
+RA   Dephoure N., O'Shea E.K., Weissman J.S.;
+RT   "Global analysis of protein expression in yeast.";
+RL   Nature 425:737-741(2003).
+RN   [10]
+RP   FUNCTION, INTERACTION WITH HSP82, AND MUTAGENESIS OF HIS-311.
+RX   PubMed=16407978; DOI=10.1038/sj.emboj.7600930;
+RA   Wandinger S.K., Suhre M.H., Wegele H., Buchner J.;
+RT   "The phosphatase Ppt1 is a dedicated regulator of the molecular
+RT   chaperone Hsp90.";
+RL   EMBO J. 25:367-376(2006).
+RN   [11]
+RP   BIOPHYSICOCHEMICAL PROPERTIES.
+RX   PubMed=16442612; DOI=10.1016/j.ijbiomac.2005.12.019;
+RA   Suhre M.H., Wegele H., Wandinger S.K.;
+RT   "Expression, purification and refolding of the phosphatase domain of
+RT   protein phosphatase 1 (Ppt1) from Saccharomyces cerevisiae.";
+RL   Int. J. Biol. Macromol. 39:23-28(2006).
+RN   [12]
+RP   X-RAY CRYSTALLOGRAPHY (2.3 ANGSTROMS) OF 179-513.
+RG   Midwest center for structural genomics (MCSG);
+RT   "Structure of protein serine/threonine phosphatase from Saccharomyces
+RT   cerevisiae with similarity to human phosphatase PP5.";
+RL   Submitted (JUL-2011) to the PDB data bank.
+CC   -!- FUNCTION: Protein phosphatase that specifically binds to and
+CC       dephosphorylates the molecular chaperone Hsp90 (HSC82 and HSP82).
+CC       Dephosphorylation positively regulates the Hsp90 chaperone
+CC       machinery. {ECO:0000269|PubMed:16407978}.
+CC   -!- CATALYTIC ACTIVITY: [a protein]-serine/threonine phosphate + H(2)O
+CC       = [a protein]-serine/threonine + phosphate.
+CC   -!- COFACTOR:
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035; Evidence={ECO:0000250};
+CC       Note=Binds 2 manganese ions per subunit. {ECO:0000250};
+CC   -!- ENZYME REGULATION: Stimulated by arachidonic acid and other
+CC       unsaturated fatty acids, and by arachidoyl coenzyme A.
+CC       {ECO:0000269|PubMed:12694636}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=34 mM for p-nitrophenylphosphate
+CC         {ECO:0000269|PubMed:16442612};
+CC       pH dependence:
+CC         Optimum pH is 7.8. {ECO:0000269|PubMed:16442612};
+CC   -!- SUBUNIT: Interacts (via TPR repeats) with HSP82 (via C-terminal
+CC       MEEVD pentapeptide). {ECO:0000269|PubMed:16407978}.
+CC   -!- INTERACTION:
+CC       P15108:HSC82; NbExp=3; IntAct=EBI-13796, EBI-8666;
+CC       P02829:HSP82; NbExp=8; IntAct=EBI-13796, EBI-8659;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:12694636,
+CC       ECO:0000269|PubMed:14562095}.
+CC   -!- INDUCTION: Expression peaks in early log phase and decreases
+CC       dramatically during the stationary phase (at protein level).
+CC       {ECO:0000269|PubMed:12694636}.
+CC   -!- DOMAIN: The TPR repeats mediate protein-protein interactions with
+CC       substrate proteins, but also autoinhibit PPT1 phosphatase
+CC       activity.
+CC   -!- MISCELLANEOUS: Present with 6990 molecules/cell in log phase SD
+CC       medium. {ECO:0000269|PubMed:14562106}.
+CC   -!- SIMILARITY: Belongs to the PPP phosphatase family. PP-5 (PP-T)
+CC       subfamily. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 3 TPR repeats. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00339}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=CAA61596.1; Type=Frameshift; Positions=381; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X89417; CAA61596.1; ALT_FRAME; Genomic_DNA.
+DR   EMBL; X83099; CAA58158.1; -; Genomic_DNA.
+DR   EMBL; Z72908; CAA97134.1; -; Genomic_DNA.
+DR   EMBL; AY558095; AAS56421.1; -; Genomic_DNA.
+DR   EMBL; S39959; AAB22462.1; -; Genomic_DNA.
+DR   EMBL; BK006941; DAA08216.1; -; Genomic_DNA.
+DR   PIR; S52571; S52571.
+DR   RefSeq; NP_011639.3; NM_001181252.3.
+DR   PDB; 3ICF; X-ray; 2.30 A; A/B=179-513.
+DR   PDBsum; 3ICF; -.
+DR   ProteinModelPortal; P53043; -.
+DR   SMR; P53043; 11-508.
+DR   BioGrid; 33370; 29.
+DR   DIP; DIP-1525N; -.
+DR   IntAct; P53043; 10.
+DR   MINT; MINT-406578; -.
+DR   MaxQB; P53043; -.
+DR   PaxDb; P53043; -.
+DR   PeptideAtlas; P53043; -.
+DR   EnsemblFungi; YGR123C; YGR123C; YGR123C.
+DR   GeneID; 853023; -.
+DR   KEGG; sce:YGR123C; -.
+DR   CYGD; YGR123c; -.
+DR   EuPathDB; FungiDB:YGR123C; -.
+DR   SGD; S000003355; PPT1.
+DR   eggNOG; COG0639; -.
+DR   GeneTree; ENSGT00530000063173; -.
+DR   HOGENOM; HOG000172698; -.
+DR   InParanoid; P53043; -.
+DR   KO; K04460; -.
+DR   OMA; MNRVYGF; -.
+DR   OrthoDB; EOG7Z3FDD; -.
+DR   BioCyc; YEAST:G3O-30830-MONOMER; -.
+DR   EvolutionaryTrace; P53043; -.
+DR   NextBio; 972897; -.
+DR   PRO; PR:P53043; -.
+DR   Proteomes; UP000002311; Chromosome VII.
+DR   GO; GO:0005737; C:cytoplasm; IDA:SGD.
+DR   GO; GO:0005634; C:nucleus; IDA:SGD.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004722; F:protein serine/threonine phosphatase activity; IDA:SGD.
+DR   GO; GO:0006470; P:protein dephosphorylation; IDA:SGD.
+DR   Gene3D; 1.25.40.10; -; 1.
+DR   Gene3D; 3.60.21.10; -; 1.
+DR   InterPro; IPR004843; Calcineurin-like_PHP_apaH.
+DR   InterPro; IPR029052; Metallo-depent_PP-like.
+DR   InterPro; IPR013235; PPP_dom.
+DR   InterPro; IPR006186; Ser/Thr-sp_prot-phosphatase.
+DR   InterPro; IPR011236; Ser/Thr_PPase_5.
+DR   InterPro; IPR013026; TPR-contain_dom.
+DR   InterPro; IPR011990; TPR-like_helical_dom.
+DR   InterPro; IPR001440; TPR_1.
+DR   InterPro; IPR013105; TPR_2.
+DR   InterPro; IPR019734; TPR_repeat.
+DR   PANTHER; PTHR11668:SF12; PTHR11668:SF12; 1.
+DR   Pfam; PF00149; Metallophos; 1.
+DR   Pfam; PF08321; PPP5; 1.
+DR   Pfam; PF00515; TPR_1; 1.
+DR   Pfam; PF07719; TPR_2; 1.
+DR   PRINTS; PR00114; STPHPHTASE.
+DR   SMART; SM00156; PP2Ac; 1.
+DR   SMART; SM00028; TPR; 3.
+DR   SUPFAM; SSF56300; SSF56300; 1.
+DR   PROSITE; PS00125; SER_THR_PHOSPHATASE; 1.
+DR   PROSITE; PS50005; TPR; 3.
+DR   PROSITE; PS50293; TPR_REGION; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Hydrolase; Manganese; Metal-binding;
+KW   Nucleus; Protein phosphatase; Reference proteome; Repeat; TPR repeat.
+FT   CHAIN         1    513       Serine/threonine-protein phosphatase T.
+FT                                /FTId=PRO_0000058898.
+FT   REPEAT       12     45       TPR 1.
+FT   REPEAT       46     79       TPR 2.
+FT   REPEAT       80    113       TPR 3.
+FT   REGION      188    513       Catalytic.
+FT   ACT_SITE    311    311       Proton donor. {ECO:0000250}.
+FT   METAL       249    249       Manganese 1. {ECO:0000250}.
+FT   METAL       251    251       Manganese 1. {ECO:0000250}.
+FT   METAL       278    278       Manganese 1. {ECO:0000250}.
+FT   METAL       278    278       Manganese 2. {ECO:0000250}.
+FT   METAL       310    310       Manganese 2. {ECO:0000250}.
+FT   METAL       359    359       Manganese 2. {ECO:0000250}.
+FT   METAL       434    434       Manganese 2. {ECO:0000250}.
+FT   MUTAGEN     311    311       H->A: Loss of phosphatase activity.
+FT                                {ECO:0000269|PubMed:16407978}.
+FT   HELIX       192    201       {ECO:0000244|PDB:3ICF}.
+FT   HELIX       203    205       {ECO:0000244|PDB:3ICF}.
+FT   HELIX       211    226       {ECO:0000244|PDB:3ICF}.
+FT   STRAND      230    234       {ECO:0000244|PDB:3ICF}.
+FT   STRAND      237    239       {ECO:0000244|PDB:3ICF}.
+FT   STRAND      243    247       {ECO:0000244|PDB:3ICF}.
+FT   HELIX       254    264       {ECO:0000244|PDB:3ICF}.
+FT   STRAND      271    275       {ECO:0000244|PDB:3ICF}.
+FT   STRAND      280    283       {ECO:0000244|PDB:3ICF}.
+FT   HELIX       286    299       {ECO:0000244|PDB:3ICF}.
+FT   TURN        301    303       {ECO:0000244|PDB:3ICF}.
+FT   STRAND      304    306       {ECO:0000244|PDB:3ICF}.
+FT   HELIX       314    320       {ECO:0000244|PDB:3ICF}.
+FT   HELIX       322    329       {ECO:0000244|PDB:3ICF}.
+FT   HELIX       332    342       {ECO:0000244|PDB:3ICF}.
+FT   STRAND      347    351       {ECO:0000244|PDB:3ICF}.
+FT   TURN        352    354       {ECO:0000244|PDB:3ICF}.
+FT   STRAND      355    357       {ECO:0000244|PDB:3ICF}.
+FT   HELIX       370    374       {ECO:0000244|PDB:3ICF}.
+FT   STRAND      384    386       {ECO:0000244|PDB:3ICF}.
+FT   HELIX       387    393       {ECO:0000244|PDB:3ICF}.
+FT   STRAND      398    404       {ECO:0000244|PDB:3ICF}.
+FT   STRAND      411    413       {ECO:0000244|PDB:3ICF}.
+FT   HELIX       415    424       {ECO:0000244|PDB:3ICF}.
+FT   STRAND      428    432       {ECO:0000244|PDB:3ICF}.
+FT   STRAND      439    444       {ECO:0000244|PDB:3ICF}.
+FT   HELIX       445    447       {ECO:0000244|PDB:3ICF}.
+FT   STRAND      449    452       {ECO:0000244|PDB:3ICF}.
+FT   HELIX       458    460       {ECO:0000244|PDB:3ICF}.
+FT   STRAND      465    471       {ECO:0000244|PDB:3ICF}.
+FT   TURN        480    482       {ECO:0000244|PDB:3ICF}.
+FT   STRAND      488    493       {ECO:0000244|PDB:3ICF}.
+FT   TURN        503    506       {ECO:0000244|PDB:3ICF}.
+SQ   SEQUENCE   513 AA;  57995 MW;  6966DA22340A5793 CRC64;
+     MSTPTAADRA KALERKNEGN VFVKEKHFLK AIEKYTEAID LDSTQSIYFS NRAFAHFKVD
+     NFQSALNDCD EAIKLDPKNI KAYHRRALSC MALLEFKKAR KDLNVLLKAK PNDPAATKAL
+     LTCDRFIREE RFRKAIGGAE NEAKISLCQT LNLSSFDANA DLANYEGPKL EFEQLYDDKN
+     AFKGAKIKNM SQEFISKMVN DLFLKGKYLP KKYVAAIISH ADTLFRQEPS MVELENNSTP
+     DVKISVCGDT HGQFYDVLNL FRKFGKVGPK HTYLFNGDFV DRGSWSCEVA LLFYCLKILH
+     PNNFFLNRGN HESDNMNKIY GFEDECKYKY SQRIFNMFAQ SFESLPLATL INNDYLVMHG
+     GLPSDPSATL SDFKNIDRFA QPPRDGAFME LLWADPQEAN GMGPSQRGLG HAFGPDITDR
+     FLRNNKLRKI FRSHELRMGG VQFEQKGKLM TVFSAPNYCD SQGNLGGVIH VVPGHGILQA
+     GRNDDQNLII ETFEAVEHPD IKPMAYSNGG FGL
+//

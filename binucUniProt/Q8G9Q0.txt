@@ -1,0 +1,139 @@
+ID   Q8G9Q0_PSEAI            Unreviewed;       276 AA.
+AC   Q8G9Q0;
+DT   01-MAR-2003, integrated into UniProtKB/TrEMBL.
+DT   01-MAR-2003, sequence version 1.
+DT   22-JUL-2015, entry version 70.
+DE   SubName: Full=Beta-lactamase IMP-1 {ECO:0000313|EMBL:AKC05763.1};
+DE            EC=3.5.2.6 {ECO:0000313|EMBL:AKC05763.1};
+DE   SubName: Full=Metallo-b-lactamase {ECO:0000313|EMBL:CAD37801.1};
+DE   SubName: Full=Metallo-beta-lactamase blaSPM-1 {ECO:0000313|EMBL:ADF36538.1};
+DE   SubName: Full=SPM-1 {ECO:0000313|EMBL:AAR15341.1};
+DE   Flags: Precursor;
+GN   Name=spm-1 {ECO:0000313|EMBL:CAD37801.1};
+GN   Synonyms=bla SPM-1 {ECO:0000313|EMBL:AAR15341.1},
+GN   blaSPM-1 {ECO:0000313|EMBL:ADF36538.1};
+GN   ORFNames=ICEPaeSP_00028 {ECO:0000313|EMBL:AKC05763.1};
+OS   Pseudomonas aeruginosa.
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+OC   Pseudomonadaceae; Pseudomonas.
+OX   NCBI_TaxID=287 {ECO:0000313|EMBL:CAD37801.1};
+RN   [1] {ECO:0000313|EMBL:CAD37801.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=406 {ECO:0000313|EMBL:CAD37801.1};
+RX   PubMed=12407123; DOI=10.1093/jac/dkf210;
+RA   Toleman M.A., Simm A.M., Murphy T.A., Gales A.C., Biedenbach D.J.,
+RA   Jones R.N., Walsh T.R.;
+RT   "Molecular characterization of SPM-1, a novel metallo-beta-lactamase
+RT   isolated in Latin America: report from the SENTRY antimicrobial
+RT   surveillance programme.";
+RL   J. Antimicrob. Chemother. 50:673-679(2002).
+RN   [2] {ECO:0000313|EMBL:AAR15341.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=15047554; DOI=10.1128/AAC.48.4.1406-1409.2004;
+RA   Poirel L., Magalhaes M., Lopes M., Nordmann P.;
+RT   "Molecular analysis of metallo-beta-lactamase gene bla(SPM-1)-
+RT   surrounding sequences from disseminated Pseudomonas aeruginosa
+RT   isolates in Recife, Brazil.";
+RL   Antimicrob. Agents Chemother. 48:1406-1409(2004).
+RN   [3] {ECO:0000213|PDB:2FHX}
+RP   X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS) OF 31-276 IN COMPLEX WITH ZINC,
+RP   CYSTEINE SULFENIC ACID (-SOH) AT CYS-214, AND SULFINATION AT CYS-214.
+RX   PubMed=16460758; DOI=10.1016/j.jmb.2006.01.003;
+RA   Murphy T.A., Catto L.E., Halford S.E., Hadfield A.T., Minor W.,
+RA   Walsh T.R., Spencer J.;
+RT   "Crystal structure of Pseudomonas aeruginosa SPM-1 provides insights
+RT   into variable zinc affinity of metallo-beta-lactamases.";
+RL   J. Mol. Biol. 357:890-903(2006).
+RN   [4] {ECO:0000313|EMBL:ADF36538.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=PHB 11 {ECO:0000313|EMBL:ADF36539.1},
+RC   PHB 12 {ECO:0000313|EMBL:ADF36540.1},
+RC   PHB 18 {ECO:0000313|EMBL:ADF36541.1},
+RC   PHB 28 {ECO:0000313|EMBL:ADF36542.1},
+RC   PHB 37 {ECO:0000313|EMBL:ADF36543.1},
+RC   PHB 47 {ECO:0000313|EMBL:ADF36544.1},
+RC   PHB 5 {ECO:0000313|EMBL:ADF36538.1},
+RC   PHB 54 {ECO:0000313|EMBL:ADF36545.1},
+RC   PHB 58 {ECO:0000313|EMBL:ADF36546.1}, and
+RC   PHB 69 {ECO:0000313|EMBL:ADF36549.1};
+RA   Polotto M., Nogueira M.L., Nogueira M.C.L.;
+RL   Submitted (FEB-2010) to the EMBL/GenBank/DDBJ databases.
+RN   [5] {ECO:0000213|PDB:4BP0}
+RP   X-RAY CRYSTALLOGRAPHY (2.24 ANGSTROMS) OF 29-276 IN COMPLEX WITH ZINC.
+RA   Mcdonough M.A., Brem J., Schofield C.J.;
+RT   "The Crystal Structure of the Closed Form or Pseudomonas Aeruginosa
+RT   Spm-1.";
+RL   Submitted (MAY-2013) to the PDB data bank.
+RN   [6] {ECO:0000313|EMBL:AKC05763.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=PS106 {ECO:0000313|EMBL:AKC05763.1};
+RA   Marin M.A., Fonseca E.L., Encinas F., Vicente A.C.P.;
+RL   Submitted (DEC-2014) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AY341249; AAR15341.1; -; Genomic_DNA.
+DR   EMBL; GU831554; ADF36538.1; -; Genomic_DNA.
+DR   EMBL; GU831555; ADF36539.1; -; Genomic_DNA.
+DR   EMBL; GU831556; ADF36540.1; -; Genomic_DNA.
+DR   EMBL; GU831557; ADF36541.1; -; Genomic_DNA.
+DR   EMBL; GU831558; ADF36542.1; -; Genomic_DNA.
+DR   EMBL; GU831559; ADF36543.1; -; Genomic_DNA.
+DR   EMBL; GU831560; ADF36544.1; -; Genomic_DNA.
+DR   EMBL; GU831561; ADF36545.1; -; Genomic_DNA.
+DR   EMBL; GU831562; ADF36546.1; -; Genomic_DNA.
+DR   EMBL; GU831565; ADF36549.1; -; Genomic_DNA.
+DR   EMBL; KP299160; AKC05763.1; -; Genomic_DNA.
+DR   EMBL; AJ492820; CAD37801.1; -; Genomic_DNA.
+DR   PDB; 2FHX; X-ray; 1.90 A; A/B=31-276.
+DR   PDB; 4BP0; X-ray; 2.24 A; A/B/C/D=29-276.
+DR   PDBsum; 2FHX; -.
+DR   PDBsum; 4BP0; -.
+DR   GO; GO:0008800; F:beta-lactamase activity; IEA:InterPro.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:InterPro.
+DR   GO; GO:0017001; P:antibiotic catabolic process; IEA:InterPro.
+DR   Gene3D; 3.60.15.10; -; 1.
+DR   InterPro; IPR001279; Beta-lactamas-like.
+DR   InterPro; IPR001018; Beta-lactamase_class-B_CS.
+DR   Pfam; PF00753; Lactamase_B; 1.
+DR   SMART; SM00849; Lactamase_B; 1.
+DR   SUPFAM; SSF56281; SSF56281; 1.
+DR   PROSITE; PS00744; BETA_LACTAMASE_B_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2FHX, ECO:0000213|PDB:4BP0};
+KW   Hydrolase {ECO:0000313|EMBL:AKC05763.1};
+KW   Metal-binding {ECO:0000213|PDB:2FHX, ECO:0000213|PDB:4BP0};
+KW   Signal {ECO:0000313|EMBL:CAD37801.1};
+KW   Zinc {ECO:0000213|PDB:2FHX, ECO:0000213|PDB:4BP0}.
+FT   SIGNAL        1     20       {ECO:0000313|EMBL:CAD37801.1}.
+FT   CHAIN        21    276       metallo-b-lactamase.
+FT                                {ECO:0000313|EMBL:CAD37801.1}.
+FT                                /FTId=PRO_5000068616.
+FT   METAL        33     33       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4BP0}.
+FT   METAL        35     35       Zinc 1. {ECO:0000213|PDB:4BP0}.
+FT   METAL       106    106       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2FHX,
+FT                                ECO:0000213|PDB:4BP0}.
+FT   METAL       108    108       Zinc 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:2FHX,
+FT                                ECO:0000213|PDB:4BP0}.
+FT   METAL       110    110       Zinc 3. {ECO:0000213|PDB:4BP0}.
+FT   METAL       195    195       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2FHX,
+FT                                ECO:0000213|PDB:4BP0}.
+FT   METAL       214    214       Zinc 3. {ECO:0000213|PDB:4BP0}.
+FT   METAL       251    251       Zinc 3; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4BP0}.
+FT   MOD_RES     214    214       Cysteine sulfenic acid (-SOH).
+FT                                {ECO:0000213|PDB:2FHX}.
+FT   MOD_RES     214    214       Cysteine sulfinic acid (-SO2H).
+FT                                {ECO:0000213|PDB:2FHX}.
+SQ   SEQUENCE   276 AA;  30548 MW;  A37201C330E24AA4 CRC64;
+     MNSPKSRALL GFMGAFCLLL VAGAPLSAKS SDHVDLPYNL TATKIDSDVF VVTDRDFYSS
+     NVLVAKMLDG TVVIVSSPFE NLGTQTLMDW VAKTMKPKKV VAINTHFHLD GTGGNEIYKK
+     MGAETWSSDL TKQLRLEENK KDRIKAAEFY KNEDLKRRIL SSHPVPADNV FDLKQGKVFS
+     FSNELVEVSF PGPAHSPDNV VVYFPKKKLL FGGCMIKPKE LGYLGDANVK AWPDSARRLK
+     KFDAKIVIPG HGEWGGPEMV NKTIKVAEKA VGEMRL
+//

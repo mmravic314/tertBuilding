@@ -1,0 +1,112 @@
+ID   KKA3_ENTFL              Reviewed;         264 AA.
+AC   P0A3Y5; P00554;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   21-JUL-1986, sequence version 1.
+DT   22-JUL-2015, entry version 56.
+DE   RecName: Full=Aminoglycoside 3'-phosphotransferase;
+DE            EC=2.7.1.95;
+DE   AltName: Full=APH(3')III;
+DE   AltName: Full=Kanamycin kinase, type III;
+DE   AltName: Full=Neomycin-kanamycin phosphotransferase type III;
+GN   Name=aphA;
+OS   Enterococcus faecalis (Streptococcus faecalis).
+OG   Plasmid pJH1.
+OC   Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+OC   Enterococcus.
+OX   NCBI_TaxID=1351;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=6313476; DOI=10.1016/0378-1119(83)90022-7;
+RA   Trieu-Cuot P., Courvalin P.;
+RT   "Nucleotide sequence of the Streptococcus faecalis plasmid gene
+RT   encoding the 3'5'-aminoglycoside phosphotransferase type III.";
+RL   Gene 23:331-341(1983).
+CC   -!- FUNCTION: Resistance to kanamycin and structurally-related
+CC       aminoglycosides, including amikacin.
+CC   -!- CATALYTIC ACTIVITY: ATP + kanamycin = ADP + kanamycin 3'-
+CC       phosphate.
+CC   -!- SIMILARITY: Belongs to the aminoglycoside phosphotransferase
+CC       family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; V01547; CAA24789.1; -; Genomic_DNA.
+DR   EMBL; X99398; CAA67773.1; -; Genomic_DNA.
+DR   PIR; A00665; PKSOJF.
+DR   RefSeq; WP_001096887.1; NZ_JTKX01000017.1.
+DR   RefSeq; YP_009088946.1; NG_041215.1.
+DR   RefSeq; YP_783930.1; NC_008445.1.
+DR   PDB; 1J7I; X-ray; 3.20 A; A=1-264.
+DR   PDB; 1J7L; X-ray; 2.20 A; A/B=1-264.
+DR   PDB; 1J7U; X-ray; 2.40 A; A/B=1-264.
+DR   PDB; 1L8T; X-ray; 2.40 A; A=2-264.
+DR   PDB; 2B0Q; X-ray; 2.70 A; A=2-264.
+DR   PDB; 2BKK; X-ray; 2.15 A; A/C=1-264.
+DR   PDB; 3Q2J; X-ray; 2.15 A; A/B=1-264.
+DR   PDB; 3TM0; X-ray; 2.10 A; A=2-264.
+DR   PDBsum; 1J7I; -.
+DR   PDBsum; 1J7L; -.
+DR   PDBsum; 1J7U; -.
+DR   PDBsum; 1L8T; -.
+DR   PDBsum; 2B0Q; -.
+DR   PDBsum; 2BKK; -.
+DR   PDBsum; 3Q2J; -.
+DR   PDBsum; 3TM0; -.
+DR   ProteinModelPortal; P0A3Y5; -.
+DR   SMR; P0A3Y5; 2-264.
+DR   GeneID; 23533821; -.
+DR   GeneID; 4362702; -.
+DR   KEGG; pg:4362702; -.
+DR   KO; K19299; -.
+DR   SABIO-RK; P0A3Y5; -.
+DR   EvolutionaryTrace; P0A3Y5; -.
+DR   PRO; PR:P0A3Y5; -.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0008910; F:kanamycin kinase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0046677; P:response to antibiotic; IEA:UniProtKB-KW.
+DR   InterPro; IPR002575; Aminoglycoside_PTrfase.
+DR   InterPro; IPR024165; Kan/Strep_kinase.
+DR   InterPro; IPR011009; Kinase-like_dom.
+DR   PANTHER; PTHR21310; PTHR21310; 1.
+DR   Pfam; PF01636; APH; 1.
+DR   PIRSF; PIRSF000706; Kanamycin_kin; 1.
+DR   SUPFAM; SSF56112; SSF56112; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Antibiotic resistance; ATP-binding; Kinase;
+KW   Nucleotide-binding; Plasmid; Transferase.
+FT   CHAIN         1    264       Aminoglycoside 3'-phosphotransferase.
+FT                                /FTId=PRO_0000204805.
+FT   ACT_SITE    190    190       Proton acceptor. {ECO:0000250}.
+FT   HELIX         8     14       {ECO:0000244|PDB:3TM0}.
+FT   STRAND       17     21       {ECO:0000244|PDB:3TM0}.
+FT   STRAND       27     35       {ECO:0000244|PDB:3TM0}.
+FT   STRAND       40     46       {ECO:0000244|PDB:3TM0}.
+FT   HELIX        48     50       {ECO:0000244|PDB:3TM0}.
+FT   HELIX        57     67       {ECO:0000244|PDB:3TM0}.
+FT   TURN         68     70       {ECO:0000244|PDB:3TM0}.
+FT   STRAND       76     82       {ECO:0000244|PDB:3TM0}.
+FT   STRAND       85     91       {ECO:0000244|PDB:3TM0}.
+FT   STRAND       94     97       {ECO:0000244|PDB:3TM0}.
+FT   HELIX        98    101       {ECO:0000244|PDB:3TM0}.
+FT   TURN        104    106       {ECO:0000244|PDB:3TM0}.
+FT   HELIX       108    124       {ECO:0000244|PDB:3TM0}.
+FT   HELIX       136    148       {ECO:0000244|PDB:3TM0}.
+FT   HELIX       156    159       {ECO:0000244|PDB:3TM0}.
+FT   STRAND      164    167       {ECO:0000244|PDB:3TM0}.
+FT   HELIX       168    177       {ECO:0000244|PDB:3TM0}.
+FT   STRAND      184    187       {ECO:0000244|PDB:3TM0}.
+FT   STRAND      195    199       {ECO:0000244|PDB:3TM0}.
+FT   STRAND      202    206       {ECO:0000244|PDB:3TM0}.
+FT   STRAND      213    216       {ECO:0000244|PDB:3TM0}.
+FT   HELIX       218    231       {ECO:0000244|PDB:3TM0}.
+FT   HELIX       236    245       {ECO:0000244|PDB:3TM0}.
+FT   HELIX       251    260       {ECO:0000244|PDB:3TM0}.
+FT   HELIX       261    263       {ECO:0000244|PDB:3TM0}.
+SQ   SEQUENCE   264 AA;  30974 MW;  7EEA5851D3380C5A CRC64;
+     MAKMRISPEL KKLIEKYRCV KDTEGMSPAK VYKLVGENEN LYLKMTDSRY KGTTYDVERE
+     KDMMLWLEGK LPVPKVLHFE RHDGWSNLLM SEADGVLCSE EYEDEQSPEK IIELYAECIR
+     LFHSIDISDC PYTNSLDSRL AELDYLLNND LADVDCENWE EDTPFKDPRE LYDFLKTEKP
+     EEELVFSHGD LGDSNIFVKD GKVSGFIDLG RSGRADKWYD IAFCVRSIRE DIGEEQYVEL
+     FFDLLGIKPD WEKIKYYILL DELF
+//

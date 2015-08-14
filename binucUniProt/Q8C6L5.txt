@@ -1,0 +1,317 @@
+ID   CGAS_MOUSE              Reviewed;         507 AA.
+AC   Q8C6L5; Q3ULW3;
+DT   06-MAR-2013, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAR-2003, sequence version 1.
+DT   22-JUL-2015, entry version 87.
+DE   RecName: Full=Cyclic GMP-AMP synthase;
+DE            Short=cGAMP synthase;
+DE            Short=cGAS;
+DE            Short=m-cGAS;
+DE            EC=2.7.7.86 {ECO:0000269|PubMed:23647843};
+DE   AltName: Full=Mab-21 domain-containing protein 1;
+GN   Name=Mb21d1;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], FUNCTION, DNA-BINDING, SUBCELLULAR
+RP   LOCATION, AND MUTAGENESIS OF GLU-211 AND ASP-213.
+RX   PubMed=23258413; DOI=10.1126/science.1232458;
+RA   Sun L., Wu J., Du F., Chen X., Chen Z.J.;
+RT   "Cyclic GMP-AMP synthase is a cytosolic DNA sensor that activates the
+RT   type I interferon pathway.";
+RL   Science 339:786-791(2013).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=C57BL/6J; TISSUE=Mammary gland, and Ovary;
+RX   PubMed=16141072; DOI=10.1126/science.1112014;
+RA   Carninci P., Kasukawa T., Katayama S., Gough J., Frith M.C., Maeda N.,
+RA   Oyama R., Ravasi T., Lenhard B., Wells C., Kodzius R., Shimokawa K.,
+RA   Bajic V.B., Brenner S.E., Batalov S., Forrest A.R., Zavolan M.,
+RA   Davis M.J., Wilming L.G., Aidinis V., Allen J.E.,
+RA   Ambesi-Impiombato A., Apweiler R., Aturaliya R.N., Bailey T.L.,
+RA   Bansal M., Baxter L., Beisel K.W., Bersano T., Bono H., Chalk A.M.,
+RA   Chiu K.P., Choudhary V., Christoffels A., Clutterbuck D.R.,
+RA   Crowe M.L., Dalla E., Dalrymple B.P., de Bono B., Della Gatta G.,
+RA   di Bernardo D., Down T., Engstrom P., Fagiolini M., Faulkner G.,
+RA   Fletcher C.F., Fukushima T., Furuno M., Futaki S., Gariboldi M.,
+RA   Georgii-Hemming P., Gingeras T.R., Gojobori T., Green R.E.,
+RA   Gustincich S., Harbers M., Hayashi Y., Hensch T.K., Hirokawa N.,
+RA   Hill D., Huminiecki L., Iacono M., Ikeo K., Iwama A., Ishikawa T.,
+RA   Jakt M., Kanapin A., Katoh M., Kawasawa Y., Kelso J., Kitamura H.,
+RA   Kitano H., Kollias G., Krishnan S.P., Kruger A., Kummerfeld S.K.,
+RA   Kurochkin I.V., Lareau L.F., Lazarevic D., Lipovich L., Liu J.,
+RA   Liuni S., McWilliam S., Madan Babu M., Madera M., Marchionni L.,
+RA   Matsuda H., Matsuzawa S., Miki H., Mignone F., Miyake S., Morris K.,
+RA   Mottagui-Tabar S., Mulder N., Nakano N., Nakauchi H., Ng P.,
+RA   Nilsson R., Nishiguchi S., Nishikawa S., Nori F., Ohara O.,
+RA   Okazaki Y., Orlando V., Pang K.C., Pavan W.J., Pavesi G., Pesole G.,
+RA   Petrovsky N., Piazza S., Reed J., Reid J.F., Ring B.Z., Ringwald M.,
+RA   Rost B., Ruan Y., Salzberg S.L., Sandelin A., Schneider C.,
+RA   Schoenbach C., Sekiguchi K., Semple C.A., Seno S., Sessa L., Sheng Y.,
+RA   Shibata Y., Shimada H., Shimada K., Silva D., Sinclair B.,
+RA   Sperling S., Stupka E., Sugiura K., Sultana R., Takenaka Y., Taki K.,
+RA   Tammoja K., Tan S.L., Tang S., Taylor M.S., Tegner J., Teichmann S.A.,
+RA   Ueda H.R., van Nimwegen E., Verardo R., Wei C.L., Yagi K.,
+RA   Yamanishi H., Zabarovsky E., Zhu S., Zimmer A., Hide W., Bult C.,
+RA   Grimmond S.M., Teasdale R.D., Liu E.T., Brusic V., Quackenbush J.,
+RA   Wahlestedt C., Mattick J.S., Hume D.A., Kai C., Sasaki D., Tomaru Y.,
+RA   Fukuda S., Kanamori-Katayama M., Suzuki M., Aoki J., Arakawa T.,
+RA   Iida J., Imamura K., Itoh M., Kato T., Kawaji H., Kawagashira N.,
+RA   Kawashima T., Kojima M., Kondo S., Konno H., Nakano K., Ninomiya N.,
+RA   Nishio T., Okada M., Plessy C., Shibata K., Shiraki T., Suzuki S.,
+RA   Tagami M., Waki K., Watahiki A., Okamura-Oho Y., Suzuki H., Kawai J.,
+RA   Hayashizaki Y.;
+RT   "The transcriptional landscape of the mammalian genome.";
+RL   Science 309:1559-1563(2005).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=C57BL/6J;
+RX   PubMed=19468303; DOI=10.1371/journal.pbio.1000112;
+RA   Church D.M., Goodstadt L., Hillier L.W., Zody M.C., Goldstein S.,
+RA   She X., Bult C.J., Agarwala R., Cherry J.L., DiCuccio M., Hlavina W.,
+RA   Kapustin Y., Meric P., Maglott D., Birtle Z., Marques A.C., Graves T.,
+RA   Zhou S., Teague B., Potamousis K., Churas C., Place M., Herschleb J.,
+RA   Runnheim R., Forrest D., Amos-Landgraf J., Schwartz D.C., Cheng Z.,
+RA   Lindblad-Toh K., Eichler E.E., Ponting C.P.;
+RT   "Lineage-specific biology revealed by a finished genome assembly of
+RT   the mouse.";
+RL   PLoS Biol. 7:E1000112-E1000112(2009).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Adams M.D., Myers E.W., Smith H.O., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Brain, and Limb;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   FUNCTION.
+RX   PubMed=23722158; DOI=10.1038/nature12306;
+RA   Ablasser A., Goldeck M., Cavlar T., Deimling T., Witte G., Rohl I.,
+RA   Hopfner K.P., Ludwig J., Hornung V.;
+RT   "cGAS produces a 2'-5'-linked cyclic dinucleotide second messenger
+RT   that activates STING.";
+RL   Nature 498:380-384(2013).
+RN   [7]
+RP   X-RAY CRYSTALLOGRAPHY (1.94 ANGSTROMS) OF 147-507 IN COMPLEXES WITH
+RP   DNA; GMP; GTP; ATP; CYCLIC GMP-AMP; MAGNESIUM AND ZINC IONS, FUNCTION,
+RP   COFACTOR, CATALYTIC ACTIVITY, AND DNA-BINDING.
+RX   PubMed=23647843; DOI=10.1016/j.cell.2013.04.046;
+RA   Gao P., Ascano M., Wu Y., Barchet W., Gaffney B.L., Zillinger T.,
+RA   Serganov A.A., Liu Y., Jones R.A., Hartmann G., Tuschl T., Patel D.J.;
+RT   "Cyclic [G(2',5')pA(3',5')p] is the metazoan second messenger produced
+RT   by DNA-activated cyclic GMP-AMP synthase.";
+RL   Cell 153:1094-1107(2013).
+RN   [8]
+RP   X-RAY CRYSTALLOGRAPHY (1.86 ANGSTROMS) OF 147-507 IN COMPLEX WITH
+RP   ZINC, AND SUBUNIT.
+RX   PubMed=24462292; DOI=10.1016/j.celrep.2014.01.003;
+RA   Zhang X., Wu J., Du F., Xu H., Sun L., Chen Z., Brautigam C.A.,
+RA   Zhang X., Chen Z.J.;
+RT   "The cytosolic DNA sensor cGAS forms an oligomeric complex with DNA
+RT   and undergoes switch-like conformational changes in the activation
+RT   loop.";
+RL   Cell Rep. 6:421-430(2014).
+CC   -!- FUNCTION: Nucleotidyltransferase that catalyzes the formation of
+CC       cyclic GMP-AMP (cGAMP) from ATP and GTP. Catalysis involves both
+CC       the formation of a 2',5' phosphodiester linkage at the GpA step
+CC       and the formation of a 3',5' phosphodiester linkage at the ApG
+CC       step, producing c[G(2',5')pA(3',5')p]. Has antiviral activity by
+CC       acting as a key cytosolic DNA sensor, the presence of double-
+CC       stranded DNA (dsDNA) in the cytoplasm being a danger signal that
+CC       triggers the immune responses. Binds cytosolic DNA directly,
+CC       leading to activation and synthesis of cGAMP, a second messenger
+CC       that binds to and activates TMEM173/STING, thereby triggering
+CC       type-I interferon production. {ECO:0000269|PubMed:23258413,
+CC       ECO:0000269|PubMed:23647843, ECO:0000269|PubMed:23722158}.
+CC   -!- CATALYTIC ACTIVITY: ATP + GTP = 2 diphosphate + cyclic G-P(2'-
+CC       5')A-P(3'-5'). {ECO:0000269|PubMed:23647843}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000269|PubMed:23647843};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000269|PubMed:23647843};
+CC       Note=Binds 1 Mg(2+) per subunit. Is also active with Mn(2+).
+CC       {ECO:0000269|PubMed:23647843};
+CC   -!- ENZYME REGULATION: Nucleotidyltransferase activity is stimulated
+CC       by double-stranded DNA but not RNA.
+CC       {ECO:0000250|UniProtKB:Q8N884}.
+CC   -!- SUBUNIT: Monomer in the absence of DNA. Homodimer when bound to
+CC       DNA. {ECO:0000269|PubMed:24462292}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm, cytosol
+CC       {ECO:0000269|PubMed:23258413}.
+CC   -!- SIMILARITY: Belongs to the mab-21 family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; KC294567; AGB51854.1; -; mRNA.
+DR   EMBL; AK054330; BAC35733.1; -; mRNA.
+DR   EMBL; AK145268; BAE26335.1; -; mRNA.
+DR   EMBL; AC158987; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH466522; EDL26396.1; -; Genomic_DNA.
+DR   EMBL; BC052196; AAH52196.1; -; mRNA.
+DR   EMBL; BC145651; AAI45652.1; -; mRNA.
+DR   EMBL; BC145653; AAI45654.1; -; mRNA.
+DR   CCDS; CCDS40702.1; -.
+DR   RefSeq; NP_775562.2; NM_173386.5.
+DR   UniGene; Mm.101559; -.
+DR   PDB; 4K8V; X-ray; 2.00 A; A/B/C/D=147-507.
+DR   PDB; 4K96; X-ray; 2.08 A; A/B=147-507.
+DR   PDB; 4K97; X-ray; 2.41 A; A=147-507.
+DR   PDB; 4K98; X-ray; 1.94 A; A=147-507.
+DR   PDB; 4K99; X-ray; 1.95 A; A=147-507.
+DR   PDB; 4K9A; X-ray; 2.26 A; A=147-507.
+DR   PDB; 4K9B; X-ray; 2.26 A; A=147-507.
+DR   PDB; 4LEY; X-ray; 2.50 A; A/B/C/D=142-507.
+DR   PDB; 4LEZ; X-ray; 2.36 A; A/C=142-507.
+DR   PDB; 4O6A; X-ray; 1.86 A; A/B=147-507.
+DR   PDBsum; 4K8V; -.
+DR   PDBsum; 4K96; -.
+DR   PDBsum; 4K97; -.
+DR   PDBsum; 4K98; -.
+DR   PDBsum; 4K99; -.
+DR   PDBsum; 4K9A; -.
+DR   PDBsum; 4K9B; -.
+DR   PDBsum; 4LEY; -.
+DR   PDBsum; 4LEZ; -.
+DR   PDBsum; 4O6A; -.
+DR   ProteinModelPortal; Q8C6L5; -.
+DR   SMR; Q8C6L5; 147-506.
+DR   STRING; 10090.ENSMUSP00000063331; -.
+DR   MaxQB; Q8C6L5; -.
+DR   PRIDE; Q8C6L5; -.
+DR   Ensembl; ENSMUST00000070742; ENSMUSP00000063331; ENSMUSG00000032344.
+DR   GeneID; 214763; -.
+DR   KEGG; mmu:214763; -.
+DR   UCSC; uc009quj.2; mouse.
+DR   CTD; 115004; -.
+DR   MGI; MGI:2442261; Mb21d1.
+DR   GeneTree; ENSGT00710000106842; -.
+DR   HOGENOM; HOG000293423; -.
+DR   HOVERGEN; HBG068840; -.
+DR   InParanoid; Q8C6L5; -.
+DR   KO; K17834; -.
+DR   OMA; PQDSQWD; -.
+DR   OrthoDB; EOG7S21ZG; -.
+DR   TreeFam; TF331255; -.
+DR   BRENDA; 2.7.7.86; 3474.
+DR   Reactome; REACT_306711; STING mediated induction of host immune responses.
+DR   NextBio; 374454; -.
+DR   PRO; PR:Q8C6L5; -.
+DR   Proteomes; UP000000589; Chromosome 9.
+DR   ExpressionAtlas; Q8C6L5; baseline and differential.
+DR   Genevisible; Q8C6L5; MM.
+DR   GO; GO:0005829; C:cytosol; IDA:UniProtKB.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0061501; F:cyclic-GMP-AMP synthase activity; IMP:UniProtKB.
+DR   GO; GO:0003677; F:DNA binding; ISO:MGI.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0002218; P:activation of innate immune response; IMP:UniProtKB.
+DR   GO; GO:0071360; P:cellular response to exogenous dsRNA; IMP:UniProtKB.
+DR   GO; GO:0009190; P:cyclic nucleotide biosynthetic process; IMP:UniProtKB.
+DR   GO; GO:0051607; P:defense response to virus; IEA:UniProtKB-KW.
+DR   GO; GO:0045087; P:innate immune response; IEA:UniProtKB-KW.
+DR   GO; GO:0002230; P:positive regulation of defense response to virus by host; IMP:UniProtKB.
+DR   InterPro; IPR024810; Mab-21_dom.
+DR   Pfam; PF03281; Mab-21; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Antiviral defense; ATP-binding;
+KW   Complete proteome; Cytoplasm; DNA-binding; GTP-binding; Immunity;
+KW   Innate immunity; Magnesium; Metal-binding; Nucleotide-binding;
+KW   Nucleotidyltransferase; Reference proteome; Transferase; Zinc.
+FT   CHAIN         1    507       Cyclic GMP-AMP synthase.
+FT                                /FTId=PRO_0000421764.
+FT   NP_BIND     364    371       GTP. {ECO:0000269|PubMed:23647843}.
+FT   NP_BIND     420    424       ATP. {ECO:0000269|PubMed:23647843}.
+FT   REGION      158    201       DNA-binding.
+FT                                {ECO:0000269|PubMed:23647843}.
+FT   REGION      372    395       DNA-binding.
+FT                                {ECO:0000269|PubMed:23647843}.
+FT   METAL       211    211       Magnesium; catalytic.
+FT                                {ECO:0000269|PubMed:23647843}.
+FT   METAL       213    213       Magnesium; catalytic.
+FT                                {ECO:0000269|PubMed:23647843}.
+FT   METAL       307    307       Magnesium; catalytic.
+FT                                {ECO:0000269|PubMed:23647843}.
+FT   METAL       378    378       Zinc; via tele nitrogen.
+FT                                {ECO:0000269|PubMed:23647843,
+FT                                ECO:0000269|PubMed:24462292}.
+FT   METAL       384    384       Zinc. {ECO:0000269|PubMed:23647843,
+FT                                ECO:0000269|PubMed:24462292}.
+FT   METAL       385    385       Zinc. {ECO:0000269|PubMed:23647843,
+FT                                ECO:0000269|PubMed:24462292}.
+FT   METAL       392    392       Zinc. {ECO:0000269|PubMed:23647843,
+FT                                ECO:0000269|PubMed:24462292}.
+FT   BINDING     197    197       GTP. {ECO:0000269|PubMed:23647843}.
+FT   BINDING     199    199       ATP. {ECO:0000269|PubMed:23647843}.
+FT   BINDING     307    307       GTP. {ECO:0000269|PubMed:23647843}.
+FT   BINDING     371    371       ATP. {ECO:0000269|PubMed:23647843}.
+FT   BINDING     402    402       ATP. {ECO:0000269|PubMed:23647843}.
+FT   MOD_RES       1      1       N-acetylmethionine.
+FT                                {ECO:0000250|UniProtKB:Q8N884}.
+FT   MOD_RES     402    402       N6-acetyllysine.
+FT                                {ECO:0000250|UniProtKB:Q8N884}.
+FT   MUTAGEN     211    211       E->A: Abolishes ability to promote type-I
+FT                                interferon production.
+FT                                {ECO:0000269|PubMed:23258413}.
+FT   MUTAGEN     213    213       D->A: Abolishes ability to promote type-I
+FT                                interferon production.
+FT                                {ECO:0000269|PubMed:23258413}.
+FT   CONFLICT      6      6       R -> I (in Ref. 2; BAE26335).
+FT                                {ECO:0000305}.
+FT   CONFLICT    471    471       P -> R (in Ref. 2; BAE26335).
+FT                                {ECO:0000305}.
+FT   HELIX       147    157       {ECO:0000244|PDB:4O6A}.
+FT   HELIX       161    184       {ECO:0000244|PDB:4O6A}.
+FT   STRAND      185    187       {ECO:0000244|PDB:4O6A}.
+FT   TURN        188    191       {ECO:0000244|PDB:4O6A}.
+FT   STRAND      193    198       {ECO:0000244|PDB:4O6A}.
+FT   TURN        199    203       {ECO:0000244|PDB:4O6A}.
+FT   STRAND      207    209       {ECO:0000244|PDB:4O6A}.
+FT   STRAND      211    219       {ECO:0000244|PDB:4O6A}.
+FT   STRAND      222    228       {ECO:0000244|PDB:4O6A}.
+FT   STRAND      232    239       {ECO:0000244|PDB:4O6A}.
+FT   HELIX       249    251       {ECO:0000244|PDB:4O6A}.
+FT   STRAND      252    257       {ECO:0000244|PDB:4O6A}.
+FT   HELIX       259    274       {ECO:0000244|PDB:4O6A}.
+FT   STRAND      279    284       {ECO:0000244|PDB:4O6A}.
+FT   STRAND      293    314       {ECO:0000244|PDB:4O6A}.
+FT   HELIX       320    322       {ECO:0000244|PDB:4O6A}.
+FT   TURN        329    332       {ECO:0000244|PDB:4O6A}.
+FT   HELIX       334    340       {ECO:0000244|PDB:4O6A}.
+FT   STRAND      345    349       {ECO:0000244|PDB:4O6A}.
+FT   STRAND      352    354       {ECO:0000244|PDB:4K98}.
+FT   HELIX       359    361       {ECO:0000244|PDB:4O6A}.
+FT   STRAND      363    366       {ECO:0000244|PDB:4O6A}.
+FT   HELIX       368    376       {ECO:0000244|PDB:4O6A}.
+FT   TURN        382    385       {ECO:0000244|PDB:4O6A}.
+FT   HELIX       394    411       {ECO:0000244|PDB:4O6A}.
+FT   HELIX       413    415       {ECO:0000244|PDB:4O6A}.
+FT   HELIX       420    433       {ECO:0000244|PDB:4O6A}.
+FT   HELIX       437    440       {ECO:0000244|PDB:4O6A}.
+FT   HELIX       442    444       {ECO:0000244|PDB:4O6A}.
+FT   HELIX       445    462       {ECO:0000244|PDB:4O6A}.
+FT   STRAND      468    470       {ECO:0000244|PDB:4O6A}.
+FT   TURN        478    480       {ECO:0000244|PDB:4O6A}.
+FT   HELIX       483    498       {ECO:0000244|PDB:4O6A}.
+FT   HELIX       502    505       {ECO:0000244|PDB:4O6A}.
+SQ   SEQUENCE   507 AA;  58194 MW;  9FDA84DF5E4859CA CRC64;
+     MEDPRRRTTA PRAKKPSAKR APTQPSRTRA HAESCGPQRG ARSRRAERDG DTTEKPRAPG
+     PRVHPARATE LTKDAQPSAM DAAGATARPA VRVPQQQAIL DPELPAVREP QPPADPEARK
+     VVRGPSHRRG ARSTGQPRAP RGSRKEPDKL KKVLDKLRLK RKDISEAAET VNKVVERLLR
+     RMQKRESEFK GVEQLNTGSY YEHVKISAPN EFDVMFKLEV PRIELQEYYE TGAFYLVKFK
+     RIPRGNPLSH FLEGEVLSAT KMLSKFRKII KEEVKEIKDI DVSVEKEKPG SPAVTLLIRN
+     PEEISVDIIL ALESKGSWPI STKEGLPIQG WLGTKVRTNL RREPFYLVPK NAKDGNSFQG
+     ETWRLSFSHT EKYILNNHGI EKTCCESSGA KCCRKECLKL MKYLLEQLKK EFQELDAFCS
+     YHVKTAIFHM WTQDPQDSQW DPRNLSSCFD KLLAFFLECL RTEKLDHYFI PKFNLFSQEL
+     IDRKSKEFLS KKIEYERNNG FPIFDKL
+//

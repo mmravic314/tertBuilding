@@ -1,0 +1,89 @@
+ID   Q6N4M9_RHOPA            Unreviewed;       169 AA.
+AC   Q6N4M9;
+DT   05-JUL-2004, integrated into UniProtKB/TrEMBL.
+DT   05-JUL-2004, sequence version 1.
+DT   22-JUL-2015, entry version 67.
+DE   SubName: Full=YcfI, putative structural proteins {ECO:0000313|EMBL:CAE28749.1};
+GN   OrderedLocusNames=RPA3308 {ECO:0000313|EMBL:CAE28749.1};
+OS   Rhodopseudomonas palustris (strain ATCC BAA-98 / CGA009).
+OC   Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales;
+OC   Bradyrhizobiaceae; Rhodopseudomonas.
+OX   NCBI_TaxID=258594 {ECO:0000313|EMBL:CAE28749.1, ECO:0000313|Proteomes:UP000001426};
+RN   [1] {ECO:0000313|EMBL:CAE28749.1, ECO:0000313|Proteomes:UP000001426}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC BAA-98 / CGA009 {ECO:0000313|Proteomes:UP000001426};
+RX   PubMed=14704707; DOI=10.1038/nbt923;
+RA   Larimer F.W., Chain P., Hauser L., Lamerdin J., Malfatti S., Do L.,
+RA   Land M.L., Pelletier D.A., Beatty T.J., Lang A.S., Tabita F.R.,
+RA   Gibson J.L., Hanson T.E., Torres y Torres J., Peres C., Harrison F.H.,
+RA   Gibson J., Harwood C.S.;
+RT   "Complete genome sequence of the metabolically versatile
+RT   photosynthetic bacterium Rhodopseudomonas palustris.";
+RL   Nat. Biotechnol. 22:55-61(2004).
+RN   [2] {ECO:0000213|PDB:2GYQ}
+RP   X-RAY CRYSTALLOGRAPHY (1.40 ANGSTROMS) IN COMPLEX WITH IRON AND ZINC.
+RA   Osipiuk J., Evdokimova E., Kudritska M., Savchenko A., Edwards A.,
+RA   Joachimiak A.;
+RT   "X-ray crystal structure of YcfI protein, a putative structural
+RT   protein from Rhodopseudomonas palustris.";
+RL   Submitted (MAY-2006) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; BX572603; CAE28749.1; -; Genomic_DNA.
+DR   RefSeq; WP_011158850.1; NC_005296.1.
+DR   PDB; 2GYQ; X-ray; 1.40 A; A/B=1-169.
+DR   PDBsum; 2GYQ; -.
+DR   ProteinModelPortal; Q6N4M9; -.
+DR   SMR; Q6N4M9; 1-160.
+DR   STRING; 258594.RPA3308; -.
+DR   EnsemblBacteria; CAE28749; CAE28749; RPA3308.
+DR   KEGG; rpa:RPA3308; -.
+DR   PATRIC; 23291111; VBIRhoPal84835_3475.
+DR   HOGENOM; HOG000025592; -.
+DR   OMA; EQATNRD; -.
+DR   OrthoDB; EOG6MSS3K; -.
+DR   PhylomeDB; Q6N4M9; -.
+DR   EvolutionaryTrace; Q6N4M9; -.
+DR   Proteomes; UP000001426; Chromosome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 1.20.1260.10; -; 1.
+DR   InterPro; IPR010287; DUF892.
+DR   InterPro; IPR009078; Ferritin-like_SF.
+DR   InterPro; IPR012347; Ferritin-rel.
+DR   Pfam; PF05974; DUF892; 1.
+DR   SUPFAM; SSF47240; SSF47240; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2GYQ};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001426};
+KW   Iron {ECO:0000213|PDB:2GYQ}; Metal-binding {ECO:0000213|PDB:2GYQ};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001426};
+KW   Zinc {ECO:0000213|PDB:2GYQ}.
+FT   METAL        12     12       Zinc 1. {ECO:0000213|PDB:2GYQ}.
+FT   METAL        21     21       Iron 1. {ECO:0000213|PDB:2GYQ}.
+FT   METAL        26     26       Iron 2. {ECO:0000213|PDB:2GYQ}.
+FT   METAL        26     26       Zinc 2. {ECO:0000213|PDB:2GYQ}.
+FT   METAL        52     52       Iron 3; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2GYQ}.
+FT   METAL        52     52       Zinc 3; via pros nitrogen.
+FT                                {ECO:0000213|PDB:2GYQ}.
+FT   METAL        59     59       Iron 2. {ECO:0000213|PDB:2GYQ}.
+FT   METAL        59     59       Zinc 2. {ECO:0000213|PDB:2GYQ}.
+FT   METAL        79     79       Iron 1. {ECO:0000213|PDB:2GYQ}.
+FT   METAL       114    114       Iron 3. {ECO:0000213|PDB:2GYQ}.
+FT   METAL       114    114       Zinc 3. {ECO:0000213|PDB:2GYQ}.
+FT   METAL       116    116       Iron 1. {ECO:0000213|PDB:2GYQ}.
+FT   METAL       117    117       Iron 2. {ECO:0000213|PDB:2GYQ}.
+FT   METAL       117    117       Iron 3. {ECO:0000213|PDB:2GYQ}.
+FT   METAL       117    117       Zinc 2. {ECO:0000213|PDB:2GYQ}.
+FT   METAL       133    133       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2GYQ}.
+FT   METAL       147    147       Iron 2. {ECO:0000213|PDB:2GYQ}.
+FT   METAL       147    147       Iron 3. {ECO:0000213|PDB:2GYQ}.
+FT   METAL       147    147       Zinc 2. {ECO:0000213|PDB:2GYQ}.
+SQ   SEQUENCE   169 AA;  18795 MW;  AC435B01FE3BBE47 CRC64;
+     MGFFSRDIQT MEDLLLHGLR DIYYAEQQIT KALPKMIEQA TNRDLSQGLT SHLEETQKQI
+     ERLDQVFKKL GQKPSGVNCP AIDGLIKEAD ETAGEIADKT VLDAAIVANA QAVEHYEIAR
+     YGTLIAWAEE LGHDDIVRFL TTNLNEEKAA NTKLNTVALR KGVNRKAAS
+//

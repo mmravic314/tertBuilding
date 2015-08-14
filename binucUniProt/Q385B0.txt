@@ -1,0 +1,90 @@
+ID   Q385B0_TRYB2            Unreviewed;       521 AA.
+AC   Q385B0;
+DT   22-NOV-2005, integrated into UniProtKB/TrEMBL.
+DT   22-NOV-2005, sequence version 1.
+DT   22-JUL-2015, entry version 58.
+DE   SubName: Full=Aminopeptidase, putative {ECO:0000313|EMBL:EAN79621.1};
+GN   ORFNames=Tb11.02.4440 {ECO:0000313|EMBL:EAN79621.1};
+OS   Trypanosoma brucei brucei (strain 927/4 GUTat10.1).
+OC   Eukaryota; Euglenozoa; Kinetoplastida; Trypanosomatidae; Trypanosoma.
+OX   NCBI_TaxID=185431 {ECO:0000313|Proteomes:UP000008524};
+RN   [1] {ECO:0000313|EMBL:EAN79621.1, ECO:0000313|Proteomes:UP000008524}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=927/4 GUTat10.1 {ECO:0000313|EMBL:EAN79621.1,
+RC   ECO:0000313|Proteomes:UP000008524};
+RX   PubMed=16020726; DOI=10.1126/science.1112642;
+RA   Berriman M., Ghedin E., Hertz-Fowler C., Blandin G., Renauld H.,
+RA   Bartholomeu D.C., Lennard N.J., Caler E., Hamlin N.E., Haas B.,
+RA   Bohme U., Hannick L., Aslett M.A., Shallom J., Marcello L., Hou L.,
+RA   Wickstead B., Alsmark U.C.M., Arrowsmith C., Atkin R.J., Barron A.J.,
+RA   Bringaud F., Brooks K., Carrington M., Cherevach I.,
+RA   Chillingworth T.J., Churcher C., Clark L.N., Corton C.H., Cronin A.,
+RA   Davies R.M., Doggett J., Djikeng A., Feldblyum T., Field M.C.,
+RA   Fraser A., Goodhead I., Hance Z., Harper D., Harris B.R., Hauser H.,
+RA   Hostetler J., Ivens A., Jagels K., Johnson D., Johnson J., Jones K.,
+RA   Kerhornou A.X., Koo H., Larke N., Landfear S., Larkin C., Leech V.,
+RA   Line A., Lord A., Macleod A., Mooney P.J., Moule S., Martin D.M.,
+RA   Morgan G.W., Mungall K., Norbertczak H., Ormond D., Pai G.,
+RA   Peacock C.S., Peterson J., Quail M.A., Rabbinowitsch E.,
+RA   Rajandream M.A., Reitter C., Salzberg S.L., Sanders M., Schobel S.,
+RA   Sharp S., Simmonds M., Simpson A.J., Tallon L., Turner C.M., Tait A.,
+RA   Tivey A.R., Van Aken S., Walker D., Wanless D., Wang S., White B.,
+RA   White O., Whitehead S., Woodward J., Wortman J., Adams M.D.,
+RA   Embley T.M., Gull K., Ullu E., Barry J.D., Fairlamb A.H.,
+RA   Opperdoes F., Barrell B.G., Donelson J.E., Hall N., Fraser C.M.,
+RA   Melville S.E., El-Sayed N.M.A.;
+RT   "The genome of the African trypanosome Trypanosoma brucei.";
+RL   Science 309:416-422(2005).
+RN   [2] {ECO:0000213|PDB:4EFD}
+RP   X-RAY CRYSTALLOGRAPHY (2.45 ANGSTROMS).
+RA   Wernimont A.K., Osman K.T., Loppnau P., Arrowsmith C.H., Edwards A.M.,
+RA   Bountra C., Hui R., Lin Y.H.;
+RT   "Crystal Structure of an M17 aminopeptidase from Trypanosoma Brucei,
+RT   Tb427tmp.02.4440.";
+RL   Submitted (MAR-2012) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CH464491; EAN79621.1; -; Genomic_DNA.
+DR   RefSeq; XP_828733.1; XM_823640.1.
+DR   PDB; 4EFD; X-ray; 2.45 A; A/B/C/D/E/F=1-521.
+DR   PDBsum; 4EFD; -.
+DR   ProteinModelPortal; Q385B0; -.
+DR   MEROPS; M17.014; -.
+DR   GeneID; 3665871; -.
+DR   KEGG; tbr:Tb11.02.4440; -.
+DR   eggNOG; COG0260; -.
+DR   HOGENOM; HOG000243131; -.
+DR   InParanoid; Q385B0; -.
+DR   KO; K09611; -.
+DR   Proteomes; UP000008524; Chromosome 11 Scaffold 1.
+DR   GO; GO:0005737; C:cytoplasm; IEA:InterPro.
+DR   GO; GO:0005622; C:intracellular; ISM:GeneDB.
+DR   GO; GO:0004177; F:aminopeptidase activity; ISM:GeneDB.
+DR   GO; GO:0030145; F:manganese ion binding; IEA:InterPro.
+DR   GO; GO:0008235; F:metalloexopeptidase activity; IEA:InterPro.
+DR   GO; GO:0006508; P:proteolysis; ISM:GeneDB.
+DR   InterPro; IPR011356; Leucine_aapep/pepB.
+DR   InterPro; IPR000819; Peptidase_M17_C.
+DR   Pfam; PF00883; Peptidase_M17; 1.
+DR   PRINTS; PR00481; LAMNOPPTDASE.
+DR   PROSITE; PS00631; CYTOSOL_AP; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4EFD};
+KW   Aminopeptidase {ECO:0000313|EMBL:EAN79621.1};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000008524};
+KW   Hydrolase {ECO:0000313|EMBL:EAN79621.1};
+KW   Protease {ECO:0000313|EMBL:EAN79621.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000008524}.
+SQ   SEQUENCE   521 AA;  55359 MW;  C6CC99829A024FD0 CRC64;
+     MPTLPKAEAK ELSAFVQSCV EYKTNVCFTD VTAYESNQKG VLSSGLAVLV GTHKQLRDPA
+     VQRLPFYNPA VAEAIERVKE GGTYGVLVEG LANAAGSKFV RVVVGEVPTK ASRNNCPARP
+     DVVTALVTAA LDEVKEPNAT VDVFVLSNAV LPIAAAVARC GKHNFSAKDG AAAAAYNSGK
+     VSRLQVVFPE PPAIPPKDLE AVATSTQLCQ RLVDAPPNLL TTATFTEIAQ GYAKALGFDV
+     DVICGDDLCE RGYGGIYSVG KAAFEAPRLV TLLYTPKGTP VKKVSLVGKG IVYDCGGLAL
+     KPADYMKLMK HDMGGAAAVF CGFLTAVRLQ QPVQLSCTLC LAENAIGPKS YRNDDIIVMK
+     SGKTVEVINT DAEGRIVLGD GVFHATNELS FTPDVVIDMA TLTGAQGIAT GRHHAGLYVN
+     EEGAEAAMLR AGRESGETCF PVLYCPEYHE PEFKSNHADM TNLMERRDNA GVSCAGYFIT
+     THLSPKFTGA HIHVDLAYPV FNSNGATGFG PALLTEYFRK L
+//

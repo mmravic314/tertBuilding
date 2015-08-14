@@ -1,0 +1,134 @@
+ID   B8YB56_SULSH            Unreviewed;       265 AA.
+AC   B8YB56;
+DT   03-MAR-2009, integrated into UniProtKB/TrEMBL.
+DT   03-MAR-2009, sequence version 1.
+DT   24-JUN-2015, entry version 38.
+DE   RecName: Full=DNA-directed RNA polymerase subunit D {ECO:0000256|HAMAP-Rule:MF_00320};
+DE            EC=2.7.7.6 {ECO:0000256|HAMAP-Rule:MF_00320};
+GN   Name=rpo3 {ECO:0000313|EMBL:ACL36491.1};
+GN   Synonyms=rpoD {ECO:0000256|HAMAP-Rule:MF_00320};
+OS   Sulfolobus shibatae B12.
+OC   Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae;
+OC   Sulfolobus.
+OX   NCBI_TaxID=523848 {ECO:0000313|EMBL:ACL36491.1};
+RN   [1] {ECO:0000313|EMBL:ACL36491.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=B12 {ECO:0000313|EMBL:ACL36491.1};
+RA   Bell S.;
+RT   "RNA polymerase from Sulfolobus shibatae.";
+RL   Submitted (DEC-2008) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:2WAQ, ECO:0000213|PDB:2WB1}
+RP   X-RAY CRYSTALLOGRAPHY (3.35 ANGSTROMS) IN COMPLEX WITH IRON-SULFUR
+RP   (3FE-4S), AND DISULFIDE BONDS.
+RX   PubMed=19419240; DOI=10.1371/journal.pbio.1000102;
+RA   Korkhin Y., Unligil U.M., Littlefield O., Nelson P.J., Stuart D.I.,
+RA   Sigler P.B., Bell S.D., Abrescia N.G.;
+RT   "Evolution of complex RNA polymerases: the complete archaeal RNA
+RT   polymerase structure.";
+RL   PLoS Biol. 7:e1000102-e1000102(2009).
+RN   [3] {ECO:0000213|PDB:2Y0S}
+RP   X-RAY CRYSTALLOGRAPHY (3.80 ANGSTROMS) IN COMPLEX WITH IRON-SULFUR
+RP   (3FE-4S), AND DISULFIDE BONDS.
+RX   PubMed=21265742; DOI=10.1042/BST0390025;
+RA   Wojtas M., Peralta B., Ondiviela M., Mogni M., Bell S.D.,
+RA   Abrescia N.G.;
+RT   "Archaeal RNA polymerase: the influence of the protruding stalk in
+RT   crystal packing and preliminary biophysical analysis of the Rpo13
+RT   subunit.";
+RL   Biochem. Soc. Trans. 39:25-30(2011).
+RN   [4] {ECO:0000213|PDB:4AYB, ECO:0000213|PDB:4B1O, ECO:0000213|PDB:4B1P}
+RP   X-RAY CRYSTALLOGRAPHY (3.20 ANGSTROMS) IN COMPLEX WITH IRON-SULFUR
+RP   (4FE-4S), AND ACTIVE SITE.
+RX   PubMed=22848102; DOI=10.1093/nar/gks692;
+RA   Wojtas M.N., Mogni M., Millet O., Bell S.D., Abrescia N.G.;
+RT   "Structural and functional analyses of the interaction of archaeal RNA
+RT   polymerase with DNA.";
+RL   Nucleic Acids Res. 40:9941-9952(2012).
+CC   -!- FUNCTION: DNA-dependent RNA polymerase catalyzes the transcription
+CC       of DNA into RNA using the four ribonucleoside triphosphates as
+CC       substrates. {ECO:0000256|HAMAP-Rule:MF_00320}.
+CC   -!- CATALYTIC ACTIVITY: Nucleoside triphosphate + RNA(n) = diphosphate
+CC       + RNA(n+1). {ECO:0000256|HAMAP-Rule:MF_00320}.
+CC   -!- COFACTOR:
+CC       Name=[4Fe-4S] cluster; Xref=ChEBI:CHEBI:49883;
+CC         Evidence={ECO:0000256|HAMAP-Rule:MF_00320};
+CC       Note=Binds 1 [4Fe-4S] cluster. {ECO:0000256|HAMAP-Rule:MF_00320};
+CC   -!- SIMILARITY: Belongs to the archaeal RpoD/eukaryotic RPB3 RNA
+CC       polymerase subunit family. {ECO:0000256|HAMAP-Rule:MF_00320}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; FJ515668; ACL36491.1; -; Genomic_DNA.
+DR   PDB; 2WAQ; X-ray; 3.35 A; D=1-265.
+DR   PDB; 2WB1; X-ray; 3.52 A; D/S=1-265.
+DR   PDB; 2Y0S; X-ray; 3.80 A; D/S=1-265.
+DR   PDB; 4AYB; X-ray; 3.20 A; D=1-265.
+DR   PDB; 4V8S; X-ray; 4.32 A; AS/BD=1-265.
+DR   PDBsum; 2WAQ; -.
+DR   PDBsum; 2WB1; -.
+DR   PDBsum; 4V8S; -.
+DR   BRENDA; 2.7.7.6; 6162.
+DR   GO; GO:0051538; F:3 iron, 4 sulfur cluster binding; IEA:UniProtKB-KW.
+DR   GO; GO:0051539; F:4 iron, 4 sulfur cluster binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0003899; F:DNA-directed RNA polymerase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006351; P:transcription, DNA-templated; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 2.170.120.12; -; 1.
+DR   HAMAP; MF_00320; RNApol_arch_D; 1.
+DR   InterPro; IPR001514; DNA-dir_RNA_pol_30-40kDasu_CS.
+DR   InterPro; IPR011262; DNA-dir_RNA_pol_insert.
+DR   InterPro; IPR011263; DNA-dir_RNA_pol_RpoA/D/Rpb3.
+DR   InterPro; IPR009025; RBP11-like_dimer.
+DR   InterPro; IPR022842; RNAP_D.
+DR   Pfam; PF01000; RNA_pol_A_bac; 1.
+DR   Pfam; PF01193; RNA_pol_L; 1.
+DR   SMART; SM00662; RPOLD; 1.
+DR   SUPFAM; SSF55257; SSF55257; 2.
+DR   SUPFAM; SSF56553; SSF56553; 1.
+DR   PROSITE; PS00446; RNA_POL_D_30KD; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4B1O, ECO:0000213|PDB:4B1P}; 3Fe-4S;
+KW   4Fe-4S {ECO:0000213|PDB:4AYB, ECO:0000256|HAMAP-Rule:MF_00320};
+KW   DNA-directed RNA polymerase {ECO:0000256|HAMAP-Rule:MF_00320};
+KW   Iron {ECO:0000213|PDB:4AYB, ECO:0000256|HAMAP-Rule:MF_00320};
+KW   Iron-sulfur {ECO:0000213|PDB:4AYB, ECO:0000256|HAMAP-Rule:MF_00320};
+KW   Metal-binding {ECO:0000213|PDB:4AYB, ECO:0000256|HAMAP-Rule:MF_00320};
+KW   Nucleotidyltransferase {ECO:0000256|HAMAP-Rule:MF_00320};
+KW   Transcription {ECO:0000256|HAMAP-Rule:MF_00320};
+KW   Transferase {ECO:0000256|HAMAP-Rule:MF_00320}.
+FT   METAL       183    183       Iron-sulfur (4Fe-4S).
+FT                                {ECO:0000213|PDB:4AYB, ECO:0000256|HAMAP-
+FT                                Rule:MF_00320}.
+FT   METAL       188    188       Iron-sulfur (4Fe-4S).
+FT                                {ECO:0000213|PDB:4AYB}.
+FT   METAL       203    203       Iron-sulfur (3Fe-4S).
+FT   METAL       203    203       Iron-sulfur (4Fe-4S).
+FT                                {ECO:0000213|PDB:4AYB, ECO:0000256|HAMAP-
+FT                                Rule:MF_00320}.
+FT   METAL       204    204       Iron-sulfur (3Fe-4S); via amide nitrogen.
+FT                                {ECO:0000213|PDB:2Y0S}.
+FT   METAL       205    205       Iron-sulfur (3Fe-4S); via carbonyl
+FT                                oxygen. {ECO:0000213|PDB:2WB1,
+FT                                ECO:0000213|PDB:2Y0S}.
+FT   METAL       206    206       Iron-sulfur (3Fe-4S).
+FT   METAL       206    206       Iron-sulfur (4Fe-4S).
+FT                                {ECO:0000213|PDB:4AYB, ECO:0000256|HAMAP-
+FT                                Rule:MF_00320}.
+FT   METAL       209    209       Iron-sulfur (3Fe-4S).
+FT   METAL       209    209       Iron-sulfur (4Fe-4S).
+FT                                {ECO:0000213|PDB:4AYB, ECO:0000256|HAMAP-
+FT                                Rule:MF_00320}.
+FT   METAL       219    219       Iron-sulfur (3Fe-4S).
+FT                                {ECO:0000213|PDB:2Y0S}.
+FT   DISULFID     82     92       {ECO:0000213|PDB:4V8S}.
+FT   DISULFID     85     89       {ECO:0000213|PDB:4V8S}.
+FT   DISULFID    176    213       {ECO:0000213|PDB:4V8S}.
+SQ   SEQUENCE   265 AA;  30142 MW;  C9B868DD3DE305D0 CRC64;
+     MSINLLHKDD KRIDLVFEGY PLEFVNAIRR AAMLYVPVMS IDDVYFIENN SPLYDEILAH
+     RLALIPFTSE EALDTYRWPE ECIDCTENCE KCYTKIYIEA EALNEPKMLY SKDIKSEDPS
+     IVPISGDIPI VLLGANQKIS LEARLRLGYG KEHAKFIPVS LAIVRYYPKV EILGNCEKGA
+     TVCPEGVFEL KDGKLSVKNE LACTLCEECL RYCNGLIRIS SVEDKYILEL ESVGSLKPER
+     ILLEAGKSII RKIEELEKKL VEVIK
+//

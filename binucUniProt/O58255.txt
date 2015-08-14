@@ -1,0 +1,84 @@
+ID   O58255_PYRHO            Unreviewed;       332 AA.
+AC   O58255;
+DT   01-AUG-1998, integrated into UniProtKB/TrEMBL.
+DT   01-AUG-1998, sequence version 1.
+DT   22-JUL-2015, entry version 91.
+DE   SubName: Full=Putative uncharacterized protein PH0519 {ECO:0000313|EMBL:BAA29607.1};
+GN   OrderedLocusNames=PH0519 {ECO:0000313|EMBL:BAA29607.1};
+OS   Pyrococcus horikoshii (strain ATCC 700860 / DSM 12428 / JCM 9974 /
+OS   NBRC 100139 / OT-3).
+OC   Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae;
+OC   Pyrococcus.
+OX   NCBI_TaxID=70601 {ECO:0000313|EMBL:BAA29607.1, ECO:0000313|Proteomes:UP000000752};
+RN   [1] {ECO:0000313|Proteomes:UP000000752}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 700860 / DSM 12428 / JCM 9974 / NBRC 100139 / OT-3
+RC   {ECO:0000313|Proteomes:UP000000752};
+RX   PubMed=9679194; DOI=10.1093/dnares/5.2.55;
+RA   Kawarabayasi Y., Sawada M., Horikawa H., Haikawa Y., Hino Y.,
+RA   Yamamoto S., Sekine M., Baba S., Kosugi H., Hosoyama A., Nagai Y.,
+RA   Sakai M., Ogura K., Otsuka R., Nakazawa H., Takamiya M., Ohfuku Y.,
+RA   Funahashi T., Tanaka T., Kudoh Y., Yamazaki J., Kushida N., Oguchi A.,
+RA   Aoki K., Yoshizawa T., Nakamura Y., Robb F.T., Horikoshi K.,
+RA   Masuchi Y., Shizuya H., Kikuchi H.;
+RT   "Complete sequence and gene organization of the genome of a hyper-
+RT   thermophilic archaebacterium, Pyrococcus horikoshii OT3.";
+RL   DNA Res. 5:55-76(1998).
+RN   [2] {ECO:0000213|PDB:2CF4}
+RP   X-RAY CRYSTALLOGRAPHY (3.08 ANGSTROMS).
+RX   PubMed=16973604; DOI=10.1074/jbc.M604417200;
+RA   Schoehn G., Vellieux F.M., Asuncion Dura M., Receveur-Brechot V.,
+RA   Fabry C.M., Ruigrok R.W., Ebel C., Roussel A., Franzetti B.;
+RT   "An archaeal peptidase assembles into two different quaternary
+RT   structures: A tetrahedron and a giant octahedron.";
+RL   J. Biol. Chem. 281:36327-36337(2006).
+RN   [3] {ECO:0000213|PDB:2WYR}
+RP   X-RAY CRYSTALLOGRAPHY (2.25 ANGSTROMS), AND DISULFIDE BONDS.
+RA   Dura M.A., Vellieux F.M.D.;
+RT   "Structure of Phtet1-12S, Dodecamer in the Asymmetric Unit.";
+RL   Submitted (NOV-2009) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; BA000001; BAA29607.1; -; Genomic_DNA.
+DR   PIR; B71165; B71165.
+DR   RefSeq; NP_142487.1; NC_000961.1.
+DR   RefSeq; WP_010884620.1; NC_000961.1.
+DR   PDB; 2CF4; X-ray; 3.08 A; A=1-332.
+DR   PDB; 2WYR; X-ray; 2.25 A; A/B/C/D/E/F/G/H/I/J/K/L=1-332.
+DR   ProteinModelPortal; O58255; -.
+DR   SMR; O58255; 3-332.
+DR   IntAct; O58255; 1.
+DR   MINT; MINT-1502547; -.
+DR   STRING; 70601.PH0519; -.
+DR   MEROPS; M42.003; -.
+DR   EnsemblBacteria; BAA29607; BAA29607; BAA29607.
+DR   GeneID; 1444407; -.
+DR   KEGG; pho:PH0519; -.
+DR   eggNOG; COG1363; -.
+DR   HOGENOM; HOG000291972; -.
+DR   OMA; SHSPVEM; -.
+DR   BioCyc; PHOR70601:GJWR-510-MONOMER; -.
+DR   BRENDA; 3.4.11.B4; 5244.
+DR   EvolutionaryTrace; O58255; -.
+DR   Proteomes; UP000000752; Chromosome.
+DR   Gene3D; 2.40.30.40; -; 1.
+DR   InterPro; IPR008007; Peptidase_M42.
+DR   InterPro; IPR023367; Peptidase_M42_dom2.
+DR   Pfam; PF05343; Peptidase_M42; 1.
+DR   PIRSF; PIRSF001123; PepA_GA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2CF4};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000752}.
+FT   ACT_SITE    205    205       Proton acceptor.
+FT                                {ECO:0000256|PIRSR:PIRSR001123-1}.
+FT   DISULFID    232    233
+SQ   SEQUENCE   332 AA;  36924 MW;  8E4400D19C0F1B66 CRC64;
+     MMSMIEKLKK FTQIPGISGY EERIREEIIR EIKDFADYKV DAIGNLIVEL GEGEERILFM
+     AHMDEIGLLI TGITDEGKLR FRKVGGIDDR LLYGRHVNVV TEKGILDGVI GATPPHLSLE
+     RDKSVIPWYD LVIDIGAESK EEALELVKPL DFAVFKKHFS VLNGKYVSTR GLDDRFGVVA
+     LIEAIKDLVD HELEGKVIFA FTVQEEVGLK GAKFLANHYY PQYAFAIDSF ACCSPLTGDV
+     KLGKGPVIRA VDNSAIYSRD LARKVWSIAE KNGIEIQIGV TGGGTDASAF QDRSKTLALS
+     VPIKYLHSEV ETLHLNDLEK LVKLIEALAF EL
+//

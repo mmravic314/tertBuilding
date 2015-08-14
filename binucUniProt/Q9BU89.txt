@@ -1,0 +1,275 @@
+ID   DOHH_HUMAN              Reviewed;         302 AA.
+AC   Q9BU89; O75265;
+DT   05-SEP-2006, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-2001, sequence version 1.
+DT   22-JUL-2015, entry version 127.
+DE   RecName: Full=Deoxyhypusine hydroxylase {ECO:0000255|HAMAP-Rule:MF_03101};
+DE            Short=hDOHH;
+DE            EC=1.14.99.29 {ECO:0000255|HAMAP-Rule:MF_03101};
+DE   AltName: Full=Deoxyhypusine dioxygenase {ECO:0000255|HAMAP-Rule:MF_03101};
+DE   AltName: Full=Deoxyhypusine monooxygenase {ECO:0000255|HAMAP-Rule:MF_03101};
+DE   AltName: Full=HEAT-like repeat-containing protein 1;
+GN   Name=DOHH {ECO:0000255|HAMAP-Rule:MF_03101}; Synonyms=HLRC1;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15057824; DOI=10.1038/nature02399;
+RA   Grimwood J., Gordon L.A., Olsen A.S., Terry A., Schmutz J.,
+RA   Lamerdin J.E., Hellsten U., Goodstein D., Couronne O., Tran-Gyamfi M.,
+RA   Aerts A., Altherr M., Ashworth L., Bajorek E., Black S., Branscomb E.,
+RA   Caenepeel S., Carrano A.V., Caoile C., Chan Y.M., Christensen M.,
+RA   Cleland C.A., Copeland A., Dalin E., Dehal P., Denys M., Detter J.C.,
+RA   Escobar J., Flowers D., Fotopulos D., Garcia C., Georgescu A.M.,
+RA   Glavina T., Gomez M., Gonzales E., Groza M., Hammon N., Hawkins T.,
+RA   Haydu L., Ho I., Huang W., Israni S., Jett J., Kadner K., Kimball H.,
+RA   Kobayashi A., Larionov V., Leem S.-H., Lopez F., Lou Y., Lowry S.,
+RA   Malfatti S., Martinez D., McCready P.M., Medina C., Morgan J.,
+RA   Nelson K., Nolan M., Ovcharenko I., Pitluck S., Pollard M.,
+RA   Popkie A.P., Predki P., Quan G., Ramirez L., Rash S., Retterer J.,
+RA   Rodriguez A., Rogers S., Salamov A., Salazar A., She X., Smith D.,
+RA   Slezak T., Solovyev V., Thayer N., Tice H., Tsai M., Ustaszewska A.,
+RA   Vo N., Wagner M., Wheeler J., Wu K., Xie G., Yang J., Dubchak I.,
+RA   Furey T.S., DeJong P., Dickson M., Gordon D., Eichler E.E.,
+RA   Pennacchio L.A., Richardson P., Stubbs L., Rokhsar D.S., Myers R.M.,
+RA   Rubin E.M., Lucas S.M.;
+RT   "The DNA sequence and biology of human chromosome 19.";
+RL   Nature 428:529-535(2004).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Lung, and Lymph;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [3]
+RP   PROTEIN SEQUENCE OF 1-7, COFACTOR, AND MUTAGENESIS OF HIS-56; GLU-57;
+RP   HIS-89; GLU-90; HIS-207; GLU-208; HIS-240 AND GLU-241.
+RX   PubMed=16533814; DOI=10.1074/jbc.M601081200;
+RA   Kim Y.S., Kang K.R., Wolff E.C., Bell J.K., McPhie P., Park M.H.;
+RT   "Deoxyhypusine hydroxylase is an Fe(II)-dependent, HEAT-repeat enzyme.
+RT   Identification of amino acid residues critical for Fe(II) binding and
+RT   catalysis.";
+RL   J. Biol. Chem. 281:13217-13225(2006).
+RN   [4]
+RP   FUNCTION, AND CATALYTIC ACTIVITY.
+RX   PubMed=16371467; DOI=10.1073/pnas.0509348102;
+RA   Park J.-H., Aravind L., Wolff E.C., Kaevel J., Kim Y.S., Park M.H.;
+RT   "Molecular cloning, expression, and structural prediction of
+RT   deoxyhypusine hydroxylase: a HEAT-repeat-containing metalloenzyme.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 103:51-56(2006).
+RN   [5]
+RP   FUNCTION, AND COFACTOR.
+RX   PubMed=19706422; DOI=10.1073/pnas.0904553106;
+RA   Vu V.V., Emerson J.P., Martinho M., Kim Y.S., Munck E., Park M.H.,
+RA   Que L. Jr.;
+RT   "Human deoxyhypusine hydroxylase, an enzyme involved in regulating
+RT   cell growth, activates O(2) with a nonheme diiron center.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 106:14814-14819(2009).
+RN   [6]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P.,
+RA   Buerckstuemmer T., Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [7]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT MET-1, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=22223895; DOI=10.1074/mcp.M111.015131;
+RA   Bienvenut W.V., Sumpton D., Martinez A., Lilla S., Espagne C.,
+RA   Meinnel T., Giglione C.;
+RT   "Comparative large-scale characterisation of plant vs. mammal proteins
+RT   reveals similar and idiosyncratic N-alpha acetylation features.";
+RL   Mol. Cell. Proteomics 11:M111.015131-M111.015131(2012).
+RN   [8]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT MET-1, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=22814378; DOI=10.1073/pnas.1210303109;
+RA   Van Damme P., Lasa M., Polevoda B., Gazquez C., Elosegui-Artola A.,
+RA   Kim D.S., De Juan-Pardo E., Demeyer K., Hole K., Larrea E.,
+RA   Timmerman E., Prieto J., Arnesen T., Sherman F., Gevaert K.,
+RA   Aldabe R.;
+RT   "N-terminal acetylome analyses and functional insights of the N-
+RT   terminal acetyltransferase NatB.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 109:12449-12454(2012).
+CC   -!- FUNCTION: Catalyzes the hydroxylation of the N(6)-(4-aminobutyl)-
+CC       L-lysine intermediate to form hypusine, an essential post-
+CC       translational modification only found in mature eIF-5A factor.
+CC       {ECO:0000255|HAMAP-Rule:MF_03101, ECO:0000269|PubMed:16371467,
+CC       ECO:0000269|PubMed:19706422}.
+CC   -!- CATALYTIC ACTIVITY: [eIF5A]-deoxyhypusine + AH(2) + O(2) =
+CC       [eIF5A]-hypusine + A + H(2)O. {ECO:0000255|HAMAP-Rule:MF_03101,
+CC       ECO:0000269|PubMed:16371467}.
+CC   -!- COFACTOR:
+CC       Name=Fe(2+); Xref=ChEBI:CHEBI:29033;
+CC         Evidence={ECO:0000255|HAMAP-Rule:MF_03101,
+CC         ECO:0000269|PubMed:16533814, ECO:0000269|PubMed:19706422};
+CC       Note=Binds 2 Fe(2+) ions per subunit. {ECO:0000255|HAMAP-
+CC       Rule:MF_03101, ECO:0000269|PubMed:16533814,
+CC       ECO:0000269|PubMed:19706422};
+CC   -!- PATHWAY: Protein modification; eIF5A hypusination.
+CC       {ECO:0000255|HAMAP-Rule:MF_03101}.
+CC   -!- SIMILARITY: Belongs to the deoxyhypusine hydroxylase family.
+CC       {ECO:0000255|HAMAP-Rule:MF_03101}.
+CC   -!- SIMILARITY: Contains 5 HEAT-like PBS-type repeats.
+CC       {ECO:0000255|HAMAP-Rule:MF_03101}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AC005551; AAC33193.1; -; Genomic_DNA.
+DR   EMBL; AC093052; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC002817; AAH02817.1; -; mRNA.
+DR   EMBL; BC009863; AAH09863.1; -; mRNA.
+DR   CCDS; CCDS12108.1; -.
+DR   RefSeq; NP_001138637.1; NM_001145165.1.
+DR   RefSeq; NP_112594.1; NM_031304.4.
+DR   RefSeq; XP_011526642.1; XM_011528340.1.
+DR   UniGene; Hs.515064; -.
+DR   UniGene; Hs.609012; -.
+DR   PDB; 4D4Z; X-ray; 1.70 A; A/B=1-289.
+DR   PDB; 4D50; X-ray; 1.70 A; A/B=1-289.
+DR   PDBsum; 4D4Z; -.
+DR   PDBsum; 4D50; -.
+DR   ProteinModelPortal; Q9BU89; -.
+DR   SMR; Q9BU89; 47-226.
+DR   BioGrid; 123662; 5.
+DR   IntAct; Q9BU89; 1.
+DR   STRING; 9606.ENSP00000250937; -.
+DR   PhosphoSite; Q9BU89; -.
+DR   BioMuta; DOHH; -.
+DR   DMDM; 74733193; -.
+DR   MaxQB; Q9BU89; -.
+DR   PaxDb; Q9BU89; -.
+DR   PeptideAtlas; Q9BU89; -.
+DR   PRIDE; Q9BU89; -.
+DR   Ensembl; ENST00000250937; ENSP00000250937; ENSG00000129932.
+DR   Ensembl; ENST00000427575; ENSP00000398882; ENSG00000129932.
+DR   GeneID; 83475; -.
+DR   KEGG; hsa:83475; -.
+DR   UCSC; uc002lxs.3; human.
+DR   CTD; 83475; -.
+DR   GeneCards; GC19M003491; -.
+DR   HGNC; HGNC:28662; DOHH.
+DR   HPA; HPA041953; -.
+DR   MIM; 611262; gene.
+DR   neXtProt; NX_Q9BU89; -.
+DR   PharmGKB; PA142671678; -.
+DR   eggNOG; COG1413; -.
+DR   GeneTree; ENSGT00500000044957; -.
+DR   HOGENOM; HOG000248665; -.
+DR   HOVERGEN; HBG081460; -.
+DR   InParanoid; Q9BU89; -.
+DR   KO; K06072; -.
+DR   OMA; HEAAVPQ; -.
+DR   OrthoDB; EOG75TMCH; -.
+DR   PhylomeDB; Q9BU89; -.
+DR   TreeFam; TF105626; -.
+DR   BioCyc; MetaCyc:HS05318-MONOMER; -.
+DR   BRENDA; 1.14.99.29; 2681.
+DR   Reactome; REACT_12469; Hypusine synthesis from eIF5A-lysine.
+DR   UniPathway; UPA00354; -.
+DR   GenomeRNAi; 83475; -.
+DR   NextBio; 72407; -.
+DR   PRO; PR:Q9BU89; -.
+DR   Proteomes; UP000005640; Chromosome 19.
+DR   Bgee; Q9BU89; -.
+DR   CleanEx; HS_DOHH; -.
+DR   ExpressionAtlas; Q9BU89; baseline and differential.
+DR   Genevisible; Q9BU89; HS.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0019135; F:deoxyhypusine monooxygenase activity; IMP:UniProtKB.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0044267; P:cellular protein metabolic process; TAS:Reactome.
+DR   GO; GO:0008612; P:peptidyl-lysine modification to peptidyl-hypusine; IMP:UniProtKB.
+DR   GO; GO:0043687; P:post-translational protein modification; TAS:Reactome.
+DR   Gene3D; 1.25.10.10; -; 1.
+DR   HAMAP; MF_03101; Deoxyhypusine_hydroxylase; 1.
+DR   InterPro; IPR011989; ARM-like.
+DR   InterPro; IPR016024; ARM-type_fold.
+DR   InterPro; IPR027517; Deoxyhypusine_hydroxylase.
+DR   InterPro; IPR021133; HEAT_type_2.
+DR   InterPro; IPR004155; PBS_lyase_HEAT.
+DR   SMART; SM00567; EZ_HEAT; 6.
+DR   SUPFAM; SSF48371; SSF48371; 1.
+DR   PROSITE; PS50077; HEAT_REPEAT; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Complete proteome;
+KW   Direct protein sequencing; Hypusine biosynthesis; Iron; Metal-binding;
+KW   Monooxygenase; Oxidoreductase; Reference proteome; Repeat.
+FT   CHAIN         1    302       Deoxyhypusine hydroxylase.
+FT                                /FTId=PRO_0000248575.
+FT   REPEAT       54     80       HEAT-like PBS-type 1.
+FT   REPEAT       87    113       HEAT-like PBS-type 2.
+FT   REPEAT      174    200       HEAT-like PBS-type 3.
+FT   REPEAT      205    231       HEAT-like PBS-type 4.
+FT   REPEAT      238    264       HEAT-like PBS-type 5.
+FT   METAL        56     56       Iron 1.
+FT   METAL        57     57       Iron 1.
+FT   METAL        89     89       Iron 1.
+FT   METAL        90     90       Iron 1.
+FT   METAL       207    207       Iron 2.
+FT   METAL       208    208       Iron 2.
+FT   METAL       240    240       Iron 2.
+FT   METAL       241    241       Iron 2.
+FT   MOD_RES       1      1       N-acetylmethionine.
+FT                                {ECO:0000269|PubMed:22223895,
+FT                                ECO:0000269|PubMed:22814378}.
+FT   MUTAGEN      56     56       H->A: Abolishes both iron-binding and
+FT                                enzyme activity.
+FT                                {ECO:0000269|PubMed:16533814}.
+FT   MUTAGEN      57     57       E->A: Abolishes enzyme activity and
+FT                                impairs iron-binding.
+FT                                {ECO:0000269|PubMed:16533814}.
+FT   MUTAGEN      89     89       H->A: Abolishes both iron-binding and
+FT                                enzyme activity.
+FT                                {ECO:0000269|PubMed:16533814}.
+FT   MUTAGEN      90     90       E->A: Abolishes both iron-binding and
+FT                                enzyme activity.
+FT                                {ECO:0000269|PubMed:16533814}.
+FT   MUTAGEN     207    207       H->A: Abolishes both iron-binding and
+FT                                enzyme activity.
+FT                                {ECO:0000269|PubMed:16533814}.
+FT   MUTAGEN     208    208       E->A: Abolishes enzyme activity and
+FT                                impairs iron-binding.
+FT                                {ECO:0000269|PubMed:16533814}.
+FT   MUTAGEN     240    240       H->A: Abolishes both iron-binding and
+FT                                enzyme activity.
+FT                                {ECO:0000269|PubMed:16533814}.
+FT   MUTAGEN     241    241       E->A: Abolishes both iron-binding and
+FT                                enzyme activity.
+FT                                {ECO:0000269|PubMed:16533814}.
+FT   HELIX         1     15       {ECO:0000244|PDB:4D4Z}.
+FT   HELIX        21     34       {ECO:0000244|PDB:4D4Z}.
+FT   HELIX        37     45       {ECO:0000244|PDB:4D4Z}.
+FT   HELIX        46     48       {ECO:0000244|PDB:4D4Z}.
+FT   HELIX        52     65       {ECO:0000244|PDB:4D4Z}.
+FT   HELIX        68     70       {ECO:0000244|PDB:4D4Z}.
+FT   HELIX        71     79       {ECO:0000244|PDB:4D4Z}.
+FT   HELIX        85     98       {ECO:0000244|PDB:4D4Z}.
+FT   HELIX       101    103       {ECO:0000244|PDB:4D4Z}.
+FT   HELIX       104    110       {ECO:0000244|PDB:4D4Z}.
+FT   HELIX       116    135       {ECO:0000244|PDB:4D4Z}.
+FT   HELIX       158    166       {ECO:0000244|PDB:4D4Z}.
+FT   HELIX       172    185       {ECO:0000244|PDB:4D4Z}.
+FT   HELIX       187    196       {ECO:0000244|PDB:4D4Z}.
+FT   HELIX       197    199       {ECO:0000244|PDB:4D4Z}.
+FT   HELIX       203    216       {ECO:0000244|PDB:4D4Z}.
+FT   HELIX       219    221       {ECO:0000244|PDB:4D4Z}.
+FT   HELIX       222    230       {ECO:0000244|PDB:4D4Z}.
+FT   HELIX       236    249       {ECO:0000244|PDB:4D4Z}.
+FT   HELIX       252    261       {ECO:0000244|PDB:4D4Z}.
+FT   HELIX       267    282       {ECO:0000244|PDB:4D4Z}.
+SQ   SEQUENCE   302 AA;  32904 MW;  CDA86E5549B98A2F CRC64;
+     MVTEQEVDAI GQTLVDPKQP LQARFRALFT LRGLGGPGAI AWISQAFDDD SALLKHELAY
+     CLGQMQDARA IPMLVDVLQD TRQEPMVRHE AGEALGAIGD PEVLEILKQY SSDPVIEVAE
+     TCQLAVRRLE WLQQHGGEPA AGPYLSVDPA PPAEERDVGR LREALLDESR PLFERYRAMF
+     ALRNAGGEEA ALALAEGLHC GSALFRHEVG YVLGQLQHEA AVPQLAAALA RCTENPMVRH
+     ECAEALGAIA RPACLAALQA HADDPERVVR ESCEVALDMY EHETGRAFQY ADGLEQLRGA
+     PS
+//

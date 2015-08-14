@@ -1,0 +1,139 @@
+ID   PPAC_STRMU              Reviewed;         310 AA.
+AC   O68579;
+DT   30-MAY-2000, integrated into UniProtKB/Swiss-Prot.
+DT   01-AUG-1998, sequence version 1.
+DT   24-JUN-2015, entry version 110.
+DE   RecName: Full=Probable manganese-dependent inorganic pyrophosphatase;
+DE            EC=3.6.1.1;
+DE   AltName: Full=Pyrophosphate phospho-hydrolase;
+DE            Short=PPase;
+GN   Name=ppaC; Synonyms=dlt5, ppx1; OrderedLocusNames=SMU_1687;
+OS   Streptococcus mutans serotype c (strain ATCC 700610 / UA159).
+OC   Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae;
+OC   Streptococcus.
+OX   NCBI_TaxID=210007;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=LT11;
+RX   PubMed=11029425; DOI=10.1128/JB.182.21.6055-6065.2000;
+RA   Boyd D.A., Cvitkovitch D.G., Bleiweis A.S., Kiriukhin M.Y.,
+RA   Debabov D.V., Neuhaus F.C., Hamilton I.R.;
+RT   "Defects in D-alanyl-lipoteichoic acid synthesis in Streptococcus
+RT   mutans results in acid sensitivity.";
+RL   J. Bacteriol. 182:6055-6065(2000).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RA   Spatafora G.;
+RL   Submitted (AUG-1998) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 700610 / UA159;
+RX   PubMed=12397186; DOI=10.1073/pnas.172501299;
+RA   Ajdic D.J., McShan W.M., McLaughlin R.E., Savic G., Chang J.,
+RA   Carson M.B., Primeaux C., Tian R., Kenton S., Jia H.G., Lin S.P.,
+RA   Qian Y., Li S., Zhu H., Najar F.Z., Lai H., White J., Roe B.A.,
+RA   Ferretti J.J.;
+RT   "Genome sequence of Streptococcus mutans UA159, a cariogenic dental
+RT   pathogen.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 99:14434-14439(2002).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS).
+RX   PubMed=11525166; DOI=10.1016/S0969-2126(01)00587-1;
+RA   Merckel M.C., Fabrichniy I.P., Salminen A., Kalkkinen N., Baykov A.A.,
+RA   Lahti R., Goldman A.;
+RT   "Crystal structure of Streptococcus mutans pyrophosphatase: a new fold
+RT   for an old mechanism.";
+RL   Structure 9:289-297(2001).
+CC   -!- CATALYTIC ACTIVITY: Diphosphate + H(2)O = 2 phosphate.
+CC   -!- COFACTOR:
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035; Evidence={ECO:0000250};
+CC       Note=Binds 2 manganese ions per subunit. {ECO:0000250};
+CC   -!- SUBUNIT: Homodimer.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the PPase class C family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF051356; AAC05778.1; -; Genomic_DNA.
+DR   EMBL; AF050517; AAC29042.1; -; Genomic_DNA.
+DR   EMBL; AE014133; AAN59324.1; -; Genomic_DNA.
+DR   RefSeq; NP_722018.1; NC_004350.2.
+DR   RefSeq; WP_002262586.1; NC_004350.2.
+DR   PDB; 1I74; X-ray; 2.20 A; A/B=2-310.
+DR   PDBsum; 1I74; -.
+DR   ProteinModelPortal; O68579; -.
+DR   SMR; O68579; 2-310.
+DR   STRING; 210007.SMU_1687; -.
+DR   EnsemblBacteria; AAN59324; AAN59324; SMU_1687.
+DR   GeneID; 1028922; -.
+DR   KEGG; smu:SMU_1687; -.
+DR   PATRIC; 19665357; VBIStrMut61772_1507.
+DR   eggNOG; COG1227; -.
+DR   KO; K15986; -.
+DR   OMA; MLCAILS; -.
+DR   OrthoDB; EOG6F81QM; -.
+DR   PhylomeDB; O68579; -.
+DR   BioCyc; SMUT210007:GC7Z-1579-MONOMER; -.
+DR   EvolutionaryTrace; O68579; -.
+DR   Proteomes; UP000002512; Chromosome.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0004427; F:inorganic diphosphatase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0030145; F:manganese ion binding; IEA:UniProtKB-HAMAP.
+DR   HAMAP; MF_00207; PPase_C; 1.
+DR   InterPro; IPR001667; DDH_dom.
+DR   InterPro; IPR004097; DHHA2.
+DR   InterPro; IPR022934; Mn-dep_inorganic_PyrPase.
+DR   Pfam; PF01368; DHH; 1.
+DR   Pfam; PF02833; DHHA2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Cytoplasm; Hydrolase; Manganese;
+KW   Metal-binding; Reference proteome.
+FT   CHAIN         1    310       Probable manganese-dependent inorganic
+FT                                pyrophosphatase.
+FT                                /FTId=PRO_0000158590.
+FT   METAL         9      9       Manganese 1.
+FT   METAL        13     13       Manganese 1.
+FT   METAL        15     15       Manganese 2.
+FT   METAL        76     76       Manganese 1.
+FT   METAL        76     76       Manganese 2.
+FT   METAL        98     98       Manganese 2.
+FT   METAL       150    150       Manganese 2.
+FT   STRAND        4      7       {ECO:0000244|PDB:1I74}.
+FT   HELIX        14     29       {ECO:0000244|PDB:1I74}.
+FT   STRAND       34     36       {ECO:0000244|PDB:1I74}.
+FT   STRAND       38     40       {ECO:0000244|PDB:1I74}.
+FT   HELIX        44     52       {ECO:0000244|PDB:1I74}.
+FT   TURN         64     68       {ECO:0000244|PDB:1I74}.
+FT   STRAND       70     76       {ECO:0000244|PDB:1I74}.
+FT   HELIX        80     82       {ECO:0000244|PDB:1I74}.
+FT   HELIX        87     89       {ECO:0000244|PDB:1I74}.
+FT   STRAND       90     97       {ECO:0000244|PDB:1I74}.
+FT   STRAND      111    114       {ECO:0000244|PDB:1I74}.
+FT   STRAND      116    118       {ECO:0000244|PDB:1I74}.
+FT   HELIX       120    131       {ECO:0000244|PDB:1I74}.
+FT   HELIX       137    151       {ECO:0000244|PDB:1I74}.
+FT   TURN        152    155       {ECO:0000244|PDB:1I74}.
+FT   HELIX       163    174       {ECO:0000244|PDB:1I74}.
+FT   HELIX       178    188       {ECO:0000244|PDB:1I74}.
+FT   HELIX       197    200       {ECO:0000244|PDB:1I74}.
+FT   STRAND      203    210       {ECO:0000244|PDB:1I74}.
+FT   STRAND      213    223       {ECO:0000244|PDB:1I74}.
+FT   HELIX       225    228       {ECO:0000244|PDB:1I74}.
+FT   HELIX       229    231       {ECO:0000244|PDB:1I74}.
+FT   HELIX       232    246       {ECO:0000244|PDB:1I74}.
+FT   STRAND      249    257       {ECO:0000244|PDB:1I74}.
+FT   TURN        258    261       {ECO:0000244|PDB:1I74}.
+FT   STRAND      262    269       {ECO:0000244|PDB:1I74}.
+FT   HELIX       272    279       {ECO:0000244|PDB:1I74}.
+FT   STRAND      287    290       {ECO:0000244|PDB:1I74}.
+FT   HELIX       296    299       {ECO:0000244|PDB:1I74}.
+FT   HELIX       301    308       {ECO:0000244|PDB:1I74}.
+SQ   SEQUENCE   310 AA;  33403 MW;  307A318A2A1CEA71 CRC64;
+     MSKILVFGHQ NPDSDAIGSS MAYAYLKRQL GVDAQAVALG NPNEETAFVL DYFGIQAPPV
+     VKSAQAEGAK QVILTDHNEF QQSIADIREV EVVEVVDHHR VANFETANPL YMRLEPVGSA
+     SSIVYRLYKE NGVAIPKEIA GVMLSGLISD TLLLKSPTTH ASDPAVAEDL AKIAGVDLQE
+     YGLAMLKAGT NLASKTAAQL VDIDAKTFEL NGSQVRVAQV NTVDINEVLE RQNEIEEAIK
+     ASQAANGYSD FVLMITDILN SNSEILALGN NTDKVEAAFN FTLKNNHAFL AGAVSRKKQV
+     VPQLTESFNG
+//

@@ -1,0 +1,91 @@
+ID   D3T7F1_THEIA            Unreviewed;       466 AA.
+AC   D3T7F1;
+DT   20-APR-2010, integrated into UniProtKB/TrEMBL.
+DT   20-APR-2010, sequence version 1.
+DT   22-JUL-2015, entry version 34.
+DE   SubName: Full=Biotin and thiamin synthesis associated {ECO:0000313|EMBL:ADD01883.1};
+GN   OrderedLocusNames=Thit_0582 {ECO:0000313|EMBL:ADD01883.1};
+OS   Thermoanaerobacter italicus (strain DSM 9252 / Ab9).
+OC   Bacteria; Firmicutes; Clostridia; Thermoanaerobacterales;
+OC   Thermoanaerobacteraceae; Thermoanaerobacter.
+OX   NCBI_TaxID=580331 {ECO:0000313|EMBL:ADD01883.1, ECO:0000313|Proteomes:UP000001552};
+RN   [1] {ECO:0000313|EMBL:ADD01883.1, ECO:0000313|Proteomes:UP000001552}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=DSM 9252 / Ab9 {ECO:0000313|Proteomes:UP000001552};
+RG   US DOE Joint Genome Institute;
+RA   Lucas S., Copeland A., Lapidus A., Cheng J.-F., Bruce D., Goodwin L.,
+RA   Pitluck S., Chertkov O., Detter J.C., Han C., Tapia R., Land M.,
+RA   Hauser L., Kyrpides N., Mikhailova N., Hemme C.L., Woyke T.;
+RT   "Complete sequence of Thermoanaerobacter italicus Ab9.";
+RL   Submitted (FEB-2010) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:4WCX}
+RP   X-RAY CRYSTALLOGRAPHY (1.59 ANGSTROMS) IN COMPLEX WITH IRON-SULFUR
+RP   (4FE-4S).
+RX   PubMed=25605932;
+RA   Dinis P., Suess D.L., Fox S.J., Harmer J.E., Driesener R.C.,
+RA   De La Paz L., Swartz J.R., Essex J.W., Britt R.D., Roach P.L.;
+RT   "X-ray crystallographic and EPR spectroscopic analysis of HydG, a
+RT   maturase in [FeFe]-hydrogenase H-cluster assembly.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 112:1362-1367(2015).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP001936; ADD01883.1; -; Genomic_DNA.
+DR   RefSeq; WP_012994703.1; NC_013921.1.
+DR   PDB; 4WCX; X-ray; 1.59 A; A/C=1-466.
+DR   PDBsum; 4WCX; -.
+DR   ProteinModelPortal; D3T7F1; -.
+DR   STRING; 580331.Thit_0582; -.
+DR   EnsemblBacteria; ADD01883; ADD01883; Thit_0582.
+DR   KEGG; tit:Thit_0582; -.
+DR   PATRIC; 32496130; VBITheIta22270_0596.
+DR   HOGENOM; HOG000287506; -.
+DR   KO; K03150; -.
+DR   OMA; WDGYLGR; -.
+DR   BioCyc; TITA580331:GHTM-601-MONOMER; -.
+DR   Proteomes; UP000001552; Chromosome.
+DR   GO; GO:0051539; F:4 iron, 4 sulfur cluster binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003824; F:catalytic activity; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.20.20.70; -; 1.
+DR   InterPro; IPR013785; Aldolase_TIM.
+DR   InterPro; IPR010722; BATS_dom.
+DR   InterPro; IPR006638; Elp3/MiaB/NifB.
+DR   InterPro; IPR024007; FeFe-hyd_mat_HydG.
+DR   InterPro; IPR007197; rSAM.
+DR   Pfam; PF06968; BATS; 1.
+DR   Pfam; PF04055; Radical_SAM; 1.
+DR   SMART; SM00876; BATS; 1.
+DR   SMART; SM00729; Elp3; 1.
+DR   TIGRFAMs; TIGR03955; rSAM_HydG; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4WCX};
+KW   4Fe-4S {ECO:0000213|PDB:4WCX, ECO:0000256|SAAS:SAAS00063352};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001552};
+KW   Iron {ECO:0000213|PDB:4WCX, ECO:0000256|SAAS:SAAS00063352};
+KW   Iron-sulfur {ECO:0000213|PDB:4WCX, ECO:0000256|SAAS:SAAS00063352};
+KW   Metal-binding {ECO:0000213|PDB:4WCX, ECO:0000256|SAAS:SAAS00063352};
+KW   S-adenosyl-L-methionine {ECO:0000256|SAAS:SAAS00063330}.
+FT   METAL        90     90       Iron-sulfur (4Fe-4S) 1.
+FT                                {ECO:0000213|PDB:4WCX}.
+FT   METAL        94     94       Iron-sulfur (4Fe-4S) 1.
+FT                                {ECO:0000213|PDB:4WCX}.
+FT   METAL        97     97       Iron-sulfur (4Fe-4S) 1.
+FT                                {ECO:0000213|PDB:4WCX}.
+FT   METAL       380    380       Iron-sulfur (4Fe-4S) 2.
+FT                                {ECO:0000213|PDB:4WCX}.
+FT   METAL       383    383       Iron-sulfur (4Fe-4S) 2.
+FT                                {ECO:0000213|PDB:4WCX}.
+FT   METAL       406    406       Iron-sulfur (4Fe-4S) 2.
+FT                                {ECO:0000213|PDB:4WCX}.
+SQ   SEQUENCE   466 AA;  53522 MW;  AB6EA9E542F6BE9B CRC64;
+     MVKEKADFIN DEKIRQDLEK AKKATSKDAL EIIEKAKNLK GITPEEAAVL LNVEDEDLLN
+     EMFKVARYIK EEIYGNRIVI FAPLYVSNYC VNNCRYCGYR HSNEQQRKKL TMEEVRREVE
+     ILEEMGHKRL AVEAGEDPVN CPIDYIVDVI KTIYDTKLKN GSIRRVNVNI AATTVENYKK
+     LKKVGIGTYV LFQETYHRPT YEYMHPQGPK HDYDYHLTAM DRAMEAGIDD VGLGVLYGLY
+     DYKYETVAML YHANHLEEKF GVGPHTISVP RLRPALNISI DKFPYIVSDK DFKKLVAVIR
+     MAVPYTGMIL STREKPKFRE EVISIGISQI SAGSCTGVGG YHEEISKKGG SKPQFEVEDK
+     RSPNEILRTL CEQGYLPSYC TACYRMGRTG DRFMSFAKSG QIHNFCLPNA ILTFKEFLID
+     YGDEKTKKIG EKAIAVNLEK IPSRTVREET KRRLTRIENG ERDLYF
+//

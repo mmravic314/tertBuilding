@@ -1,0 +1,127 @@
+ID   B8YB55_SULSH            Unreviewed;      1131 AA.
+AC   B8YB55;
+DT   03-MAR-2009, integrated into UniProtKB/TrEMBL.
+DT   03-MAR-2009, sequence version 1.
+DT   24-JUN-2015, entry version 38.
+DE   RecName: Full=DNA-directed RNA polymerase {ECO:0000256|RuleBase:RU000431};
+DE            EC=2.7.7.6 {ECO:0000256|RuleBase:RU000431};
+GN   Name=rpo2 {ECO:0000313|EMBL:ACL36490.1};
+OS   Sulfolobus shibatae B12.
+OC   Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae;
+OC   Sulfolobus.
+OX   NCBI_TaxID=523848 {ECO:0000313|EMBL:ACL36490.1};
+RN   [1] {ECO:0000313|EMBL:ACL36490.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=B12 {ECO:0000313|EMBL:ACL36490.1};
+RA   Bell S.;
+RT   "RNA polymerase from Sulfolobus shibatae.";
+RL   Submitted (DEC-2008) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:2WAQ, ECO:0000213|PDB:2WB1}
+RP   X-RAY CRYSTALLOGRAPHY (3.35 ANGSTROMS) IN COMPLEX WITH ZINC.
+RX   PubMed=19419240; DOI=10.1371/journal.pbio.1000102;
+RA   Korkhin Y., Unligil U.M., Littlefield O., Nelson P.J., Stuart D.I.,
+RA   Sigler P.B., Bell S.D., Abrescia N.G.;
+RT   "Evolution of complex RNA polymerases: the complete archaeal RNA
+RT   polymerase structure.";
+RL   PLoS Biol. 7:e1000102-e1000102(2009).
+RN   [3] {ECO:0000213|PDB:2Y0S}
+RP   X-RAY CRYSTALLOGRAPHY (3.80 ANGSTROMS), AND DISULFIDE BONDS.
+RX   PubMed=21265742; DOI=10.1042/BST0390025;
+RA   Wojtas M., Peralta B., Ondiviela M., Mogni M., Bell S.D.,
+RA   Abrescia N.G.;
+RT   "Archaeal RNA polymerase: the influence of the protruding stalk in
+RT   crystal packing and preliminary biophysical analysis of the Rpo13
+RT   subunit.";
+RL   Biochem. Soc. Trans. 39:25-30(2011).
+RN   [4] {ECO:0000213|PDB:4AYB, ECO:0000213|PDB:4B1O, ECO:0000213|PDB:4B1P}
+RP   X-RAY CRYSTALLOGRAPHY (3.20 ANGSTROMS) IN COMPLEX WITH ZINC.
+RX   PubMed=22848102; DOI=10.1093/nar/gks692;
+RA   Wojtas M.N., Mogni M., Millet O., Bell S.D., Abrescia N.G.;
+RT   "Structural and functional analyses of the interaction of archaeal RNA
+RT   polymerase with DNA.";
+RL   Nucleic Acids Res. 40:9941-9952(2012).
+CC   -!- CATALYTIC ACTIVITY: Nucleoside triphosphate + RNA(n) = diphosphate
+CC       + RNA(n+1). {ECO:0000256|RuleBase:RU000431}.
+CC   -!- SIMILARITY: Belongs to the RNA polymerase beta chain family.
+CC       {ECO:0000256|RuleBase:RU000434}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; FJ515667; ACL36490.1; -; Genomic_DNA.
+DR   PDB; 2WAQ; X-ray; 3.35 A; B=1-1131.
+DR   PDB; 2WB1; X-ray; 3.52 A; B/R=1-1131.
+DR   PDB; 2Y0S; X-ray; 3.80 A; B/R=1-1131.
+DR   PDB; 4AYB; X-ray; 3.20 A; B=1-1131.
+DR   PDB; 4V8S; X-ray; 4.32 A; AR/BB=1-1131.
+DR   PDBsum; 2WAQ; -.
+DR   PDBsum; 2WB1; -.
+DR   PDBsum; 4V8S; -.
+DR   BRENDA; 2.7.7.6; 6162.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0003899; F:DNA-directed RNA polymerase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0032549; F:ribonucleoside binding; IEA:InterPro.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:InterPro.
+DR   GO; GO:0006351; P:transcription, DNA-templated; IEA:InterPro.
+DR   Gene3D; 2.40.270.10; -; 2.
+DR   Gene3D; 2.40.50.150; -; 1.
+DR   Gene3D; 3.90.1110.10; -; 1.
+DR   InterPro; IPR015712; DNA-dir_RNA_pol_su2.
+DR   InterPro; IPR007120; DNA-dir_RNA_pol_su2_6.
+DR   InterPro; IPR007121; RNA_pol_bsu_CS.
+DR   InterPro; IPR007644; RNA_pol_bsu_protrusion.
+DR   InterPro; IPR007642; RNA_pol_Rpb2_2.
+DR   InterPro; IPR007645; RNA_pol_Rpb2_3.
+DR   InterPro; IPR007646; RNA_pol_Rpb2_4.
+DR   InterPro; IPR007647; RNA_pol_Rpb2_5.
+DR   InterPro; IPR007641; RNA_pol_Rpb2_7.
+DR   InterPro; IPR014724; RNA_pol_RPB2_OB-fold.
+DR   InterPro; IPR019969; RNAP_B.
+DR   PANTHER; PTHR20856; PTHR20856; 1.
+DR   Pfam; PF04563; RNA_pol_Rpb2_1; 1.
+DR   Pfam; PF04561; RNA_pol_Rpb2_2; 1.
+DR   Pfam; PF04565; RNA_pol_Rpb2_3; 1.
+DR   Pfam; PF04566; RNA_pol_Rpb2_4; 1.
+DR   Pfam; PF04567; RNA_pol_Rpb2_5; 1.
+DR   Pfam; PF00562; RNA_pol_Rpb2_6; 1.
+DR   Pfam; PF04560; RNA_pol_Rpb2_7; 1.
+DR   TIGRFAMs; TIGR03670; rpoB_arch; 1.
+DR   PROSITE; PS01166; RNA_POL_BETA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4B1O, ECO:0000213|PDB:4B1P};
+KW   DNA-directed RNA polymerase {ECO:0000256|RuleBase:RU000431};
+KW   Metal-binding {ECO:0000213|PDB:4B1O, ECO:0000213|PDB:4B1P};
+KW   Nucleotidyltransferase {ECO:0000256|RuleBase:RU000431};
+KW   Transcription {ECO:0000256|RuleBase:RU000431};
+KW   Transferase {ECO:0000256|RuleBase:RU000431};
+KW   Zinc {ECO:0000213|PDB:4B1O, ECO:0000213|PDB:4B1P}.
+FT   METAL       174    174       Zinc 1.
+FT   METAL       570    570       Zinc 1; via pros nitrogen.
+FT   METAL       622    622       Zinc 1.
+FT   METAL      1064   1064       Zinc 2. {ECO:0000213|PDB:4AYB}.
+FT   METAL      1067   1067       Zinc 2. {ECO:0000213|PDB:4AYB}.
+FT   METAL      1082   1082       Zinc 2. {ECO:0000213|PDB:4AYB}.
+FT   METAL      1085   1085       Zinc 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:4AYB}.
+FT   DISULFID   1064   1067       {ECO:0000213|PDB:2Y0S}.
+SQ   SEQUENCE   1131 AA;  127409 MW;  E1761EF2A050BBEB CRC64;
+     MNELSSNLSI DERWKVIEAY FKSKGLVRQH LDSYNDFVRN KLQEIIDEQG EIPTEIPGLK
+     VRLGKIRIGK PRVRESDRGE REISPMEARL RNLTYAAPLW LTMIPVENNI EAEPEEVYIG
+     DLPIMLKSAI DPISQYTLDK LIEIGEDPKD PGGYFIVNGS ERVIVTQEDL APNRVLVDTG
+     KTGSNITHTA KIISSTAGYR VPVTIERLKD GTFHVSFPAV PGKIPFVILM RALGILTDRD
+     IVYAVSLDPE IQNELFPSLE QASSIANVDD ALDFIGSRVA IGQKRENRIE KAQQIIDKYF
+     LPHLGTSADD RRKKAYYLAY AISKVIELYL GRREPDDKDH YANKRLRLAG DLFASLFRVA
+     FKAFVKDLTY QLEKSKVRGR KLALKALVRP DIVTERIRHA LATGNWVGGR TGVSQLLDRT
+     NWLSMLSHLR RVISSLARGQ PNFEARDLHG TQWGRMCPFE TPEGPNSGLV KNLALMAQIA
+     VGINEKIVEK TLYEMGVVPV EEVIRRVTEG GEDQNEYLKW SKVILNGRLV GYYRDGEELA
+     KKIRERRRKG EISDEVNVGH IVTDFINEVH VNCDSGRVRR PLIIVSNGNP LVTREDIEKL
+     DSGSITFDDL VRQGKIEYLD AEEEENAYVA LEPSDLTPEH THLEIWSPAI LGITASIIPY
+     PEHNQSPRNT YQSAMAKQAL GLYAANYQLR TDTRAHLLHY PQRPLVQTRA LDIIGYTNRP
+     AGNNAILAVI SFTGYNMEDS IIMNRSSVER GMYRSTFFRL YSTEEVKYPG GQEDKIVMPE
+     PGVRGYKGKE YYRLLEDNGV VSPEVEVKGG DVLIGKVSPP RFLQEFKELS PEQAKRDTSI
+     VTRHGEMGIV DLVLITETAE GNKLVKVRVR DLRIPSIGDK FASRHGQKGV IGMLIPQVDM
+     PYTVKGVVPD VILNPHALPS RMTLGQIMEG IAGKYAALSG NIVDATPFYK TPIEQLQNEI
+     LKYGYLPDAT EVTYDGRTGQ KIKSRIYFGV VYYQKLHHMV ADKIHARARG PVQILTRQPT
+     EGRAREGGLR FGEMERDCLI GFGTAMLLKD RLLDNSDRTT IYVCDQCGYI GWYDKNKNKY
+     VCPIHGDKSN LFPVTVSYAF KLLIQELMSM IISPRLILED RVGLSGGKGN E
+//

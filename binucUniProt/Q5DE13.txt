@@ -1,0 +1,51 @@
+ID   Q5DE13_SCHJA            Unreviewed;       287 AA.
+AC   Q5DE13;
+DT   29-MAR-2005, integrated into UniProtKB/TrEMBL.
+DT   29-MAR-2005, sequence version 1.
+DT   24-JUN-2015, entry version 33.
+DE   SubName: Full=SJCHGC07024 protein {ECO:0000313|EMBL:AAW25943.1};
+OS   Schistosoma japonicum (Blood fluke).
+OC   Eukaryota; Metazoa; Platyhelminthes; Trematoda; Digenea; Strigeidida;
+OC   Schistosomatoidea; Schistosomatidae; Schistosoma.
+OX   NCBI_TaxID=6182 {ECO:0000313|EMBL:AAW25943.1};
+RN   [1] {ECO:0000313|EMBL:AAW25943.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Han Z.;
+RT   "The full-length cDNA sequences of Schistosoma japonicum genes.";
+RL   Submitted (NOV-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000313|EMBL:AAW25943.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=16617374; DOI=10.1371/journal.ppat.0020029;
+RA   Liu F., Lu J., Hu W., Wang S.Y., Cui S.J., Chi M., Yan Q., Wang X.R.,
+RA   Song H.D., Xu X.N., Wang J.J., Zhang X.L., Zhang X., Wang Z.Q.,
+RA   Xue C.L., Brindley P.J., McManus D.P., Yang P.Y., Feng Z., Chen Z.,
+RA   Han Z.G.;
+RT   "New perspectives on host-parasite interplay by comparative
+RT   transcriptomic and proteomic analyses of Schistosoma japonicum.";
+RL   PLoS Pathog. 2:268-281(2006).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AY814211; AAW25943.1; -; mRNA.
+DR   ProteinModelPortal; Q5DE13; -.
+DR   SMR; Q5DE13; 2-283.
+DR   eggNOG; COG0221; -.
+DR   GO; GO:0005737; C:cytoplasm; IEA:InterPro.
+DR   GO; GO:0004427; F:inorganic diphosphatase activity; IEA:InterPro.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:InterPro.
+DR   GO; GO:0006796; P:phosphate-containing compound metabolic process; IEA:InterPro.
+DR   Gene3D; 3.90.80.10; -; 1.
+DR   InterPro; IPR008162; Pyrophosphatase.
+DR   PANTHER; PTHR10286; PTHR10286; 1.
+DR   Pfam; PF00719; Pyrophosphatase; 1.
+DR   SUPFAM; SSF50324; SSF50324; 1.
+DR   PROSITE; PS00387; PPASE; 1.
+PE   2: Evidence at transcript level;
+SQ   SEQUENCE   287 AA;  32699 MW;  2A3382B58187DECA CRC64;
+     MSVERGTSNS ASYKMFLTHG GSPISYFHDV PLFADATNNC YNMIVEIPRW TNAKMEICKE
+     ELMNPIKHDV KNNKLRYIYN VFPHKGYIWN YGALPQTWED PSYVDEDTKA KGDNDPIDVC
+     EIGSKIWPSG SVIPVKVLGI LGMIDEGETD WKVIAINVAD PMAEKLNDIL DVDAHMPGFL
+     KATRDWFKYY KVPAGKPENS FAFNGEFKNK EFAVKIISKT HEHWQKLIST KVEAGPIIRA
+     NVTVKGSPYM VSKEDFIDAL QKHEDFKRGS EPTDQAIEQW HFCNTNI
+//

@@ -1,0 +1,177 @@
+ID   ADEC2_AGRFC             Reviewed;         597 AA.
+AC   Q7CUX4; Q8U7M3;
+DT   16-AUG-2004, integrated into UniProtKB/Swiss-Prot.
+DT   05-JUL-2004, sequence version 1.
+DT   24-JUN-2015, entry version 66.
+DE   RecName: Full=Adenine deaminase 2 {ECO:0000255|HAMAP-Rule:MF_01518};
+DE            Short=Adenase 2 {ECO:0000255|HAMAP-Rule:MF_01518};
+DE            Short=Adenine aminase 2 {ECO:0000255|HAMAP-Rule:MF_01518};
+DE            EC=3.5.4.2 {ECO:0000255|HAMAP-Rule:MF_01518};
+GN   Name=ade2 {ECO:0000255|HAMAP-Rule:MF_01518}; Synonyms=adeC;
+GN   OrderedLocusNames=Atu4426; ORFNames=AGR_L_883;
+OS   Agrobacterium fabrum (strain C58 / ATCC 33970) (Agrobacterium
+OS   tumefaciens (strain C58)).
+OC   Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales;
+OC   Rhizobiaceae; Rhizobium/Agrobacterium group; Agrobacterium;
+OC   Agrobacterium tumefaciens complex.
+OX   NCBI_TaxID=176299;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=C58 / ATCC 33970;
+RX   PubMed=11743193; DOI=10.1126/science.1066804;
+RA   Wood D.W., Setubal J.C., Kaul R., Monks D.E., Kitajima J.P.,
+RA   Okura V.K., Zhou Y., Chen L., Wood G.E., Almeida N.F. Jr., Woo L.,
+RA   Chen Y., Paulsen I.T., Eisen J.A., Karp P.D., Bovee D. Sr.,
+RA   Chapman P., Clendenning J., Deatherage G., Gillet W., Grant C.,
+RA   Kutyavin T., Levy R., Li M.-J., McClelland E., Palmieri A.,
+RA   Raymond C., Rouse G., Saenphimmachak C., Wu Z., Romero P., Gordon D.,
+RA   Zhang S., Yoo H., Tao Y., Biddle P., Jung M., Krespan W., Perry M.,
+RA   Gordon-Kamm B., Liao L., Kim S., Hendrick C., Zhao Z.-Y., Dolan M.,
+RA   Chumley F., Tingey S.V., Tomb J.-F., Gordon M.P., Olson M.V.,
+RA   Nester E.W.;
+RT   "The genome of the natural genetic engineer Agrobacterium tumefaciens
+RT   C58.";
+RL   Science 294:2317-2323(2001).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=C58 / ATCC 33970;
+RX   PubMed=11743194; DOI=10.1126/science.1066803;
+RA   Goodner B., Hinkle G., Gattung S., Miller N., Blanchard M.,
+RA   Qurollo B., Goldman B.S., Cao Y., Askenazi M., Halling C., Mullin L.,
+RA   Houmiel K., Gordon J., Vaudin M., Iartchouk O., Epp A., Liu F.,
+RA   Wollam C., Allinger M., Doughty D., Scott C., Lappas C., Markelz B.,
+RA   Flanagan C., Crowell C., Gurson J., Lomo C., Sear C., Strub G.,
+RA   Cielo C., Slater S.;
+RT   "Genome sequence of the plant pathogen and biotechnology agent
+RT   Agrobacterium tumefaciens C58.";
+RL   Science 294:2323-2328(2001).
+CC   -!- CATALYTIC ACTIVITY: Adenine + H(2)O = hypoxanthine + NH(3).
+CC       {ECO:0000255|HAMAP-Rule:MF_01518}.
+CC   -!- COFACTOR:
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000255|HAMAP-Rule:MF_01518};
+CC   -!- SIMILARITY: Belongs to the adenine deaminase family.
+CC       {ECO:0000255|HAMAP-Rule:MF_01518}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE007870; AAK89014.1; -; Genomic_DNA.
+DR   PIR; AF3100; AF3100.
+DR   PIR; D98186; D98186.
+DR   RefSeq; NP_356229.1; NC_003063.2.
+DR   RefSeq; WP_010973838.1; NC_003063.2.
+DR   PDB; 3NQB; X-ray; 2.21 A; A/B=1-597.
+DR   PDB; 3T81; X-ray; 2.63 A; A/B=1-597.
+DR   PDB; 3T8L; X-ray; 2.80 A; A/B=1-597.
+DR   PDBsum; 3NQB; -.
+DR   PDBsum; 3T81; -.
+DR   PDBsum; 3T8L; -.
+DR   ProteinModelPortal; Q7CUX4; -.
+DR   STRING; 176299.Atu4426; -.
+DR   EnsemblBacteria; AAK89014; AAK89014; Atu4426.
+DR   GeneID; 1136300; -.
+DR   KEGG; atu:Atu4426; -.
+DR   PATRIC; 20818277; VBIAgrTum91616_4234.
+DR   eggNOG; COG1001; -.
+DR   HOGENOM; HOG000276949; -.
+DR   KO; K01486; -.
+DR   OMA; RPRFTQW; -.
+DR   OrthoDB; EOG622PNM; -.
+DR   BioCyc; AGRO:ATU4426-MONOMER; -.
+DR   EvolutionaryTrace; Q7CUX4; -.
+DR   Proteomes; UP000000813; Chromosome linear.
+DR   GO; GO:0000034; F:adenine deaminase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0006146; P:adenine catabolic process; IEA:InterPro.
+DR   Gene3D; 2.30.40.10; -; 2.
+DR   HAMAP; MF_01518; Adenine_deamin; 1.
+DR   InterPro; IPR006679; Adenine_deam.
+DR   InterPro; IPR026912; Adenine_deam_C.
+DR   InterPro; IPR006680; Amidohydro_1.
+DR   InterPro; IPR011059; Metal-dep_hydrolase_composite.
+DR   Pfam; PF13382; Adenine_deam_C; 1.
+DR   Pfam; PF01979; Amidohydro_1; 1.
+DR   SUPFAM; SSF51338; SSF51338; 2.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Hydrolase; Manganese;
+KW   Reference proteome.
+FT   CHAIN         1    597       Adenine deaminase 2.
+FT                                /FTId=PRO_0000142399.
+FT   HELIX        11     13       {ECO:0000244|PDB:3NQB}.
+FT   HELIX        16     27       {ECO:0000244|PDB:3NQB}.
+FT   STRAND       32     38       {ECO:0000244|PDB:3NQB}.
+FT   STRAND       40     42       {ECO:0000244|PDB:3NQB}.
+FT   TURN         44     46       {ECO:0000244|PDB:3NQB}.
+FT   STRAND       49     51       {ECO:0000244|PDB:3NQB}.
+FT   STRAND       53     57       {ECO:0000244|PDB:3NQB}.
+FT   STRAND       60     65       {ECO:0000244|PDB:3NQB}.
+FT   STRAND       67     69       {ECO:0000244|PDB:3T8L}.
+FT   STRAND       73     78       {ECO:0000244|PDB:3NQB}.
+FT   STRAND       82     86       {ECO:0000244|PDB:3NQB}.
+FT   STRAND       88     93       {ECO:0000244|PDB:3NQB}.
+FT   HELIX        95     98       {ECO:0000244|PDB:3NQB}.
+FT   HELIX       102    110       {ECO:0000244|PDB:3NQB}.
+FT   TURN        111    113       {ECO:0000244|PDB:3NQB}.
+FT   STRAND      114    119       {ECO:0000244|PDB:3NQB}.
+FT   HELIX       122    128       {ECO:0000244|PDB:3NQB}.
+FT   HELIX       130    140       {ECO:0000244|PDB:3NQB}.
+FT   STRAND      144    151       {ECO:0000244|PDB:3NQB}.
+FT   STRAND      155    158       {ECO:0000244|PDB:3NQB}.
+FT   TURN        159    161       {ECO:0000244|PDB:3T8L}.
+FT   HELIX       170    177       {ECO:0000244|PDB:3NQB}.
+FT   STRAND      182    188       {ECO:0000244|PDB:3NQB}.
+FT   HELIX       191    195       {ECO:0000244|PDB:3NQB}.
+FT   HELIX       199    211       {ECO:0000244|PDB:3NQB}.
+FT   STRAND      214    217       {ECO:0000244|PDB:3NQB}.
+FT   HELIX       224    232       {ECO:0000244|PDB:3NQB}.
+FT   HELIX       244    252       {ECO:0000244|PDB:3NQB}.
+FT   STRAND      256    263       {ECO:0000244|PDB:3NQB}.
+FT   HELIX       264    266       {ECO:0000244|PDB:3NQB}.
+FT   HELIX       267    277       {ECO:0000244|PDB:3NQB}.
+FT   STRAND      284    287       {ECO:0000244|PDB:3NQB}.
+FT   HELIX       293    298       {ECO:0000244|PDB:3NQB}.
+FT   HELIX       302    311       {ECO:0000244|PDB:3NQB}.
+FT   HELIX       316    323       {ECO:0000244|PDB:3NQB}.
+FT   HELIX       325    331       {ECO:0000244|PDB:3NQB}.
+FT   STRAND      336    338       {ECO:0000244|PDB:3T81}.
+FT   STRAND      347    351       {ECO:0000244|PDB:3NQB}.
+FT   TURN        353    355       {ECO:0000244|PDB:3NQB}.
+FT   STRAND      358    363       {ECO:0000244|PDB:3NQB}.
+FT   STRAND      366    370       {ECO:0000244|PDB:3NQB}.
+FT   STRAND      373    376       {ECO:0000244|PDB:3T81}.
+FT   HELIX       384    386       {ECO:0000244|PDB:3NQB}.
+FT   HELIX       397    400       {ECO:0000244|PDB:3NQB}.
+FT   STRAND      405    419       {ECO:0000244|PDB:3NQB}.
+FT   STRAND      421    430       {ECO:0000244|PDB:3NQB}.
+FT   STRAND      431    434       {ECO:0000244|PDB:3T81}.
+FT   STRAND      440    446       {ECO:0000244|PDB:3NQB}.
+FT   STRAND      449    452       {ECO:0000244|PDB:3NQB}.
+FT   STRAND      456    464       {ECO:0000244|PDB:3NQB}.
+FT   STRAND      468    474       {ECO:0000244|PDB:3NQB}.
+FT   TURN        477    479       {ECO:0000244|PDB:3NQB}.
+FT   STRAND      482    488       {ECO:0000244|PDB:3NQB}.
+FT   HELIX       489    501       {ECO:0000244|PDB:3NQB}.
+FT   STRAND      504    510       {ECO:0000244|PDB:3NQB}.
+FT   STRAND      513    519       {ECO:0000244|PDB:3NQB}.
+FT   TURN        523    525       {ECO:0000244|PDB:3NQB}.
+FT   STRAND      526    529       {ECO:0000244|PDB:3T81}.
+FT   HELIX       531    548       {ECO:0000244|PDB:3NQB}.
+FT   TURN        553    555       {ECO:0000244|PDB:3NQB}.
+FT   HELIX       558    562       {ECO:0000244|PDB:3NQB}.
+FT   STRAND      569    571       {ECO:0000244|PDB:3NQB}.
+FT   STRAND      576    580       {ECO:0000244|PDB:3NQB}.
+FT   TURN        582    584       {ECO:0000244|PDB:3NQB}.
+FT   STRAND      587    589       {ECO:0000244|PDB:3NQB}.
+FT   STRAND      591    594       {ECO:0000244|PDB:3NQB}.
+SQ   SEQUENCE   597 AA;  62811 MW;  21D10CF0B7A7478B CRC64;
+     MTAQIRLAEP ADLNDDTLRA RAVAAARGDQ RFDVLITGGT LVDVVTGELR PADIGIVGAL
+     IASVHEPASR RDAAQVIDAG GAYVSPGLID THMHIESSMI TPAAYAAAVV ARGVTTIVWD
+     PHEFGNVHGV DGVRWAAKAI ENLPLRAILL APSCVPSAPG LERGGADFDA AILADLLSWP
+     EIGGIAEIMN MRGVIERDPR MSGIVQAGLA AEKLVCGHAR GLKNADLNAF MAAGVSSDHE
+     LVSGEDLMAK LRAGLTIELR GSHDHLLPEF VAALNTLGHL PQTVTLCTDD VFPDDLLQGG
+     GLDDVVRRLV RYGLKPEWAL RAATLNAAQR LGRSDLGLIA AGRRADIVVF EDLNGFSARH
+     VLASGRAVAE GGRMLVDIPT CDTTVLKGSM KLPLRMANDF LVKSQGAKVR LATIDRPRFT
+     QWGETEADVK DGFVVPPEGA TMISVTHRHG MAEPTTKTGF LTGWGRWNGA FATTVSHDSH
+     NLTVFGGNAG DMALAANAVI GTGGGMAVAS EGKVTAILPL PLSGLVSDAP LEEVARAFED
+     LREAVGKVVE WQPPYLVFKA CFGATLACNI GPHQTDMGIA DVLTGKVMES PVIEVLG
+//

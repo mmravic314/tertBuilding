@@ -1,0 +1,95 @@
+ID   Q18A84_PEPD6            Unreviewed;       292 AA.
+AC   Q18A84;
+DT   25-JUL-2006, integrated into UniProtKB/TrEMBL.
+DT   25-JUL-2006, sequence version 1.
+DT   22-JUL-2015, entry version 73.
+DE   SubName: Full=Agmatinase (Agmatine ureohydrolase) (AUH) {ECO:0000313|EMBL:CAJ67724.1};
+DE            EC=3.5.3.11 {ECO:0000313|EMBL:CAJ67724.1};
+GN   Name=speB {ECO:0000313|EMBL:CAJ67724.1};
+GN   OrderedLocusNames=CD630_08910 {ECO:0000313|EMBL:CAJ67724.1};
+OS   Peptoclostridium difficile (strain 630) (Clostridium difficile).
+OC   Bacteria; Firmicutes; Clostridia; Clostridiales;
+OC   Peptostreptococcaceae; Peptoclostridium.
+OX   NCBI_TaxID=272563 {ECO:0000313|EMBL:CAJ67724.1, ECO:0000313|Proteomes:UP000001978};
+RN   [1] {ECO:0000313|EMBL:CAJ67724.1, ECO:0000313|Proteomes:UP000001978}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=630 {ECO:0000313|EMBL:CAJ67724.1,
+RC   ECO:0000313|Proteomes:UP000001978};
+RX   PubMed=16804543; DOI=10.1038/ng1830;
+RA   Sebaihia M., Wren B.W., Mullany P., Fairweather N.F., Minton N.,
+RA   Stabler R., Thomson N.R., Roberts A.P., Cerdeno-Tarraga A.M., Wang H.,
+RA   Holden M.T.G., Wright A., Churcher C., Quail M.A., Baker S., Bason N.,
+RA   Brooks K., Chillingworth T., Cronin A., Davis P., Dowd L., Fraser A.,
+RA   Feltwell T., Hance Z., Holroyd S., Jagels K., Moule S., Mungall K.,
+RA   Price C., Rabbinowitsch E., Sharp S., Simmonds M., Stevens K.,
+RA   Unwin L., Whithead S., Dupuy B., Dougan G., Barrell B., Parkhill J.;
+RT   "The multidrug-resistant human pathogen Clostridium difficile has a
+RT   highly mobile, mosaic genome.";
+RL   Nat. Genet. 38:779-786(2006).
+RN   [2] {ECO:0000213|PDB:3LHL}
+RP   X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) OF 17-292 IN COMPLEX WITH
+RP   MANGANESE.
+RA   Palani K., Burley S.K., Swaminathan S.;
+RT   "Crystal structure of a putative agmatinase from Clostridium
+RT   difficile.";
+RL   Submitted (JAN-2010) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AM180355; CAJ67724.1; -; Genomic_DNA.
+DR   RefSeq; WP_009888724.1; NZ_CP010905.1.
+DR   RefSeq; YP_001087365.1; NC_009089.1.
+DR   PDB; 3LHL; X-ray; 2.30 A; A=17-292.
+DR   PDBsum; 3LHL; -.
+DR   ProteinModelPortal; Q18A84; -.
+DR   STRING; 272563.CD0891; -.
+DR   DNASU; 4914143; -.
+DR   EnsemblBacteria; CAJ67724; CAJ67724; CD630_08910.
+DR   GeneID; 4914143; -.
+DR   KEGG; cdf:CD630_08910; -.
+DR   PATRIC; 19440075; VBICloDif38397_0930.
+DR   eggNOG; COG0010; -.
+DR   HOGENOM; HOG000204321; -.
+DR   KO; K01480; -.
+DR   OMA; EMPRFAG; -.
+DR   OrthoDB; EOG6R2GW5; -.
+DR   BioCyc; CDIF272563:GJFE-1030-MONOMER; -.
+DR   Proteomes; UP000001978; Chromosome.
+DR   GO; GO:0008783; F:agmatinase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.800.10; -; 1.
+DR   InterPro; IPR005925; Agmatinase-rel.
+DR   InterPro; IPR006035; Ureohydrolase.
+DR   InterPro; IPR023696; Ureohydrolase_domain.
+DR   InterPro; IPR020855; Ureohydrolase_Mn_BS.
+DR   PANTHER; PTHR11358; PTHR11358; 1.
+DR   Pfam; PF00491; Arginase; 1.
+DR   PIRSF; PIRSF036979; Arginase; 1.
+DR   TIGRFAMs; TIGR01230; agmatinase; 1.
+DR   PROSITE; PS01053; ARGINASE_1; 1.
+DR   PROSITE; PS51409; ARGINASE_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3LHL};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001978};
+KW   Hydrolase {ECO:0000313|EMBL:CAJ67724.1};
+KW   Manganese {ECO:0000213|PDB:3LHL};
+KW   Metal-binding {ECO:0000213|PDB:3LHL};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001978}.
+FT   METAL       111    111       Manganese 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3LHL}.
+FT   METAL       134    134       Manganese 1. {ECO:0000213|PDB:3LHL}.
+FT   METAL       134    134       Manganese 2. {ECO:0000213|PDB:3LHL}.
+FT   METAL       136    136       Manganese 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3LHL}.
+FT   METAL       138    138       Manganese 1. {ECO:0000213|PDB:3LHL}.
+FT   METAL       215    215       Manganese 1. {ECO:0000213|PDB:3LHL}.
+FT   METAL       215    215       Manganese 2. {ECO:0000213|PDB:3LHL}.
+FT   METAL       217    217       Manganese 2. {ECO:0000213|PDB:3LHL}.
+SQ   SEQUENCE   292 AA;  33308 MW;  0DC0051680330A9E CRC64;
+     MKNNFYHMNT FMSMDKNYEE SNLIVFGVGF DGTTSNRPGA RFASSSMRKE FYGLETYSPF
+     LDLDLEDYNI CDYGDLEISV GSTEQVLKEI YQETYKIVRD SKVPFMIGGE HLVTLPAFKA
+     VHEKYNDIYV IHFDAHTDLR EEYNNSKNSH ATVIKRIWDI VGDNKIFQFG IRSGTKEEFK
+     FATEEKHTYM EIGGIDTFEN IVNMLNGKNI YLTIDLDVLD ASVFPGTGTP EPGGVNYREF
+     QEIFKIIKNS NINIVGCDIV ELSPDYDTTG VSTVIACKIL RELCLIISDK IK
+//

@@ -1,0 +1,79 @@
+ID   J3K9C5_COCIM            Unreviewed;       649 AA.
+AC   J3K9C5;
+DT   03-OCT-2012, integrated into UniProtKB/TrEMBL.
+DT   27-MAY-2015, sequence version 2.
+DT   22-JUL-2015, entry version 20.
+DE   SubName: Full=Sas10/Utp3 family protein {ECO:0000313|EMBL:EAS31488.3};
+GN   ORFNames=CIMG_06967 {ECO:0000313|EMBL:EAS31488.3};
+OS   Coccidioides immitis (strain RS) (Valley fever fungus).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Onygenales; mitosporic Onygenales; Coccidioides.
+OX   NCBI_TaxID=246410 {ECO:0000313|EMBL:EAS31488.3, ECO:0000313|Proteomes:UP000001261};
+RN   [1] {ECO:0000313|Proteomes:UP000001261}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=RS {ECO:0000313|Proteomes:UP000001261};
+RX   PubMed=19717792; DOI=10.1101/gr.087551.108;
+RA   Sharpton T.J., Stajich J.E., Rounsley S.D., Gardner M.J.,
+RA   Wortman J.R., Jordar V.S., Maiti R., Kodira C.D., Neafsey D.E.,
+RA   Zeng Q., Hung C.-Y., McMahan C., Muszewska A., Grynberg M.,
+RA   Mandel M.A., Kellner E.M., Barker B.M., Galgiani J.N., Orbach M.J.,
+RA   Kirkland T.N., Cole G.T., Henn M.R., Birren B.W., Taylor J.W.;
+RT   "Comparative genomic analyses of the human fungal pathogens
+RT   Coccidioides and their relatives.";
+RL   Genome Res. 19:1722-1731(2009).
+RN   [2] {ECO:0000313|Proteomes:UP000001261}
+RP   GENOME REANNOTATION.
+RC   STRAIN=RS {ECO:0000313|Proteomes:UP000001261};
+RX   PubMed=20516208; DOI=10.1101/gr.103911.109;
+RA   Neafsey D.E., Barker B.M., Sharpton T.J., Stajich J.E., Park D.J.,
+RA   Whiston E., Hung C.-Y., McMahan C., White J., Sykes S., Heiman D.,
+RA   Young S., Zeng Q., Abouelleil A., Aftuck L., Bessette D., Brown A.,
+RA   FitzGerald M., Lui A., Macdonald J.P., Priest M., Orbach M.J.,
+RA   Galgiani J.N., Kirkland T.N., Cole G.T., Birren B.W., Henn M.R.,
+RA   Taylor J.W., Rounsley S.D.;
+RT   "Population genomic sequencing of Coccidioides fungi reveals recent
+RT   hybridization and transposon control.";
+RL   Genome Res. 20:938-946(2010).
+RN   [3] {ECO:0000213|PDB:5B8I}
+RP   X-RAY CRYSTALLOGRAPHY (1.85 ANGSTROMS) OF 27-395.
+RG   Seattle Structural Genomics Center For Infectious Disease (SSGCID);
+RA   Fox III D., Dranow D.M., Lorimer D.D., Edwards T.E.;
+RT   "Crystal structure of Calcineurin A and Calcineurin B in complex with
+RT   FKBP12 and FK506 from Coccidioides immitis RS.";
+RL   Submitted (MAY-2015) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; GG704912; EAS31488.3; -; Genomic_DNA.
+DR   RefSeq; XP_001243071.1; XM_001243070.2.
+DR   PDB; 5B8I; X-ray; 1.85 A; A=27-395.
+DR   PDBsum; 5B8I; -.
+DR   STRING; 246410.XP_001242771.1; -.
+DR   GeneID; 4562072; -.
+DR   KEGG; cim:CIMG_06967; -.
+DR   InParanoid; J3K9C5; -.
+DR   KO; K14767; -.
+DR   OrthoDB; EOG77M8X9; -.
+DR   Proteomes; UP000001261; Unassembled WGS sequence.
+DR   InterPro; IPR007146; Sas10/Utp3/C1D.
+DR   InterPro; IPR018972; Sas10_C_dom.
+DR   Pfam; PF09368; Sas10; 1.
+DR   Pfam; PF04000; Sas10_Utp3; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:5B8I};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001261};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001261}.
+SQ   SEQUENCE   649 AA;  73588 MW;  229991097A486C7C CRC64;
+     MGKKRKSRAS SGQLASKDAA YRENSRFDLD EQFTDSADEF QAGRDRILLD EAPEAKRRRK
+     LAEDEELLQL SDEEIHAYRS SNDEDDYEDG SIVEEEYAEP SPPGKSLRRR GRESASPPIS
+     EDAQAAQDED EEIGGWGSSK KDYYDADIIE TEGDALEEEA EAKRLQQKKL QSMNEADFGL
+     DEAGWATPQP NEEDRQQAPS GDTITEVLPE LQISDDMSIG DRLNLLKQRY PEFEPLSKEF
+     LVLQQLHQEL SEALKQRAAG TDNDISALLI KWRVLSAYLG AISMYFVLLV SPARDVEQRC
+     LAMAPAQLRE HPIMETLLKC RREWEEVQNI QEPEFSNITV CEIPENVVKP VSKTNDKIVE
+     ETPKRIRKTK AQKVSDKAQM ESELRRAERI RQTEASLEEL SRQLEPYKLQ KHISKRDRVS
+     SAPDDDSDFG DEIGLTAYEA AEKAKKKKSL RFYTSQIAQK ANKRDAAGRD AGGDADLPYR
+     ERLKDRQARL NRNAEKRGHQ QANELERLGG DSDEDDYRAA KKIRGEMGSD SDDYYDFVAA
+     RNKQKKENKK KLAETYIEAT REGGHVEVQE EIGPGGKRAI TYAIEKNKGL APKRNKDVRN
+     PRVKKRKKFE EKKKKLGSIR PVYKGGEGAG GYGGELTGIK KNLVKSVKL
+//

@@ -1,0 +1,140 @@
+ID   RHAA_BACHD              Reviewed;         418 AA.
+AC   Q9KCL9;
+DT   19-DEC-2001, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2000, sequence version 1.
+DT   22-JUL-2015, entry version 91.
+DE   RecName: Full=L-rhamnose isomerase {ECO:0000255|HAMAP-Rule:MF_00541};
+DE            EC=5.3.1.14 {ECO:0000255|HAMAP-Rule:MF_00541};
+GN   Name=rhaA {ECO:0000255|HAMAP-Rule:MF_00541}; OrderedLocusNames=BH1552;
+OS   Bacillus halodurans (strain ATCC BAA-125 / DSM 18197 / FERM 7344 / JCM
+OS   9153 / C-125).
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus.
+OX   NCBI_TaxID=272558;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC BAA-125 / DSM 18197 / FERM 7344 / JCM 9153 / C-125;
+RX   PubMed=11058132; DOI=10.1093/nar/28.21.4317;
+RA   Takami H., Nakasone K., Takaki Y., Maeno G., Sasaki R., Masui N.,
+RA   Fuji F., Hirama C., Nakamura Y., Ogasawara N., Kuhara S.,
+RA   Horikoshi K.;
+RT   "Complete genome sequence of the alkaliphilic bacterium Bacillus
+RT   halodurans and genomic sequence comparison with Bacillus subtilis.";
+RL   Nucleic Acids Res. 28:4317-4331(2000).
+CC   -!- CATALYTIC ACTIVITY: L-rhamnopyranose = L-rhamnulose.
+CC       {ECO:0000255|HAMAP-Rule:MF_00541}.
+CC   -!- COFACTOR:
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000255|HAMAP-Rule:MF_00541};
+CC       Note=Binds 1 Mn(2+) ion per subunit. {ECO:0000255|HAMAP-
+CC       Rule:MF_00541};
+CC   -!- PATHWAY: Carbohydrate degradation; L-rhamnose degradation;
+CC       glycerone phosphate from L-rhamnose: step 1/3. {ECO:0000255|HAMAP-
+CC       Rule:MF_00541}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_00541}.
+CC   -!- SIMILARITY: Belongs to the rhamnose isomerase family.
+CC       {ECO:0000255|HAMAP-Rule:MF_00541}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; BA000004; BAB05271.1; -; Genomic_DNA.
+DR   PIR; H83843; H83843.
+DR   RefSeq; WP_010897715.1; NC_002570.2.
+DR   PDB; 3P14; X-ray; 2.51 A; A/B/C/D=1-418.
+DR   PDB; 3UU0; X-ray; 2.70 A; A/B/C/D=1-418.
+DR   PDB; 3UVA; X-ray; 2.69 A; A/B/C/D=1-418.
+DR   PDB; 3UXI; X-ray; 2.73 A; A/B/C/D=1-418.
+DR   PDBsum; 3P14; -.
+DR   PDBsum; 3UU0; -.
+DR   PDBsum; 3UVA; -.
+DR   PDBsum; 3UXI; -.
+DR   ProteinModelPortal; Q9KCL9; -.
+DR   SMR; Q9KCL9; 2-417.
+DR   STRING; 272558.BH1552; -.
+DR   EnsemblBacteria; BAB05271; BAB05271; BAB05271.
+DR   KEGG; bha:BH1552; -.
+DR   PATRIC; 18940208; VBIBacHal18977_1617.
+DR   eggNOG; COG4806; -.
+DR   HOGENOM; HOG000269679; -.
+DR   KO; K01813; -.
+DR   OMA; VNLHAIY; -.
+DR   OrthoDB; EOG6KMB74; -.
+DR   BioCyc; BHAL272558:GJC5-1636-MONOMER; -.
+DR   UniPathway; UPA00541; UER00601.
+DR   EvolutionaryTrace; Q9KCL9; -.
+DR   Proteomes; UP000001258; Chromosome.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0008740; F:L-rhamnose isomerase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0030145; F:manganese ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0019301; P:rhamnose catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 3.20.20.150; -; 1.
+DR   HAMAP; MF_00541; RhaA; 1.
+DR   InterPro; IPR009308; Rhamnose_isomerase.
+DR   InterPro; IPR013022; Xyl_isomerase-like_TIM-brl.
+DR   Pfam; PF06134; RhaA; 1.
+DR   SUPFAM; SSF51658; SSF51658; 1.
+DR   TIGRFAMs; TIGR01748; rhaA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Cytoplasm; Isomerase; Manganese;
+KW   Metal-binding; Reference proteome; Rhamnose metabolism.
+FT   CHAIN         1    418       L-rhamnose isomerase.
+FT                                /FTId=PRO_0000090549.
+FT   METAL       261    261       Manganese. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00541}.
+FT   METAL       293    293       Manganese. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00541}.
+FT   METAL       295    295       Manganese. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00541}.
+FT   HELIX         6     15       {ECO:0000244|PDB:3P14}.
+FT   TURN         16     18       {ECO:0000244|PDB:3P14}.
+FT   HELIX        21     30       {ECO:0000244|PDB:3P14}.
+FT   STRAND       34     36       {ECO:0000244|PDB:3P14}.
+FT   HELIX        37     39       {ECO:0000244|PDB:3P14}.
+FT   TURN         40     43       {ECO:0000244|PDB:3P14}.
+FT   HELIX        70     81       {ECO:0000244|PDB:3P14}.
+FT   STRAND       84     86       {ECO:0000244|PDB:3P14}.
+FT   STRAND       89     93       {ECO:0000244|PDB:3P14}.
+FT   HELIX        94     96       {ECO:0000244|PDB:3P14}.
+FT   STRAND      100    102       {ECO:0000244|PDB:3UU0}.
+FT   HELIX       106    108       {ECO:0000244|PDB:3P14}.
+FT   HELIX       111    114       {ECO:0000244|PDB:3P14}.
+FT   HELIX       115    124       {ECO:0000244|PDB:3P14}.
+FT   STRAND      127    131       {ECO:0000244|PDB:3P14}.
+FT   STRAND      135    137       {ECO:0000244|PDB:3P14}.
+FT   HELIX       138    140       {ECO:0000244|PDB:3P14}.
+FT   STRAND      145    147       {ECO:0000244|PDB:3UVA}.
+FT   HELIX       151    175       {ECO:0000244|PDB:3P14}.
+FT   STRAND      179    183       {ECO:0000244|PDB:3P14}.
+FT   STRAND      188    191       {ECO:0000244|PDB:3P14}.
+FT   HELIX       197    210       {ECO:0000244|PDB:3P14}.
+FT   TURN        217    219       {ECO:0000244|PDB:3P14}.
+FT   STRAND      220    225       {ECO:0000244|PDB:3P14}.
+FT   STRAND      235    239       {ECO:0000244|PDB:3P14}.
+FT   HELIX       241    250       {ECO:0000244|PDB:3P14}.
+FT   STRAND      254    258       {ECO:0000244|PDB:3P14}.
+FT   HELIX       268    270       {ECO:0000244|PDB:3P14}.
+FT   HELIX       272    275       {ECO:0000244|PDB:3P14}.
+FT   TURN        276    278       {ECO:0000244|PDB:3P14}.
+FT   STRAND      282    286       {ECO:0000244|PDB:3P14}.
+FT   STRAND      290    293       {ECO:0000244|PDB:3P14}.
+FT   HELIX       302    313       {ECO:0000244|PDB:3P14}.
+FT   TURN        317    319       {ECO:0000244|PDB:3P14}.
+FT   STRAND      320    324       {ECO:0000244|PDB:3P14}.
+FT   STRAND      329    331       {ECO:0000244|PDB:3UVA}.
+FT   HELIX       333    352       {ECO:0000244|PDB:3P14}.
+FT   HELIX       356    364       {ECO:0000244|PDB:3P14}.
+FT   HELIX       368    377       {ECO:0000244|PDB:3P14}.
+FT   HELIX       378    380       {ECO:0000244|PDB:3P14}.
+FT   HELIX       383    393       {ECO:0000244|PDB:3P14}.
+FT   TURN        399    401       {ECO:0000244|PDB:3P14}.
+FT   HELIX       402    412       {ECO:0000244|PDB:3P14}.
+FT   TURN        413    416       {ECO:0000244|PDB:3P14}.
+SQ   SEQUENCE   418 AA;  48178 MW;  10165258A259864F CRC64;
+     MSMKSQFERA KIEYGQWGID VEEALERLKQ VPISIHCWQG DDVGGFELSK GELSGGIDVT
+     GDYPGKATTP EELRMDLEKA LSLIPGKHRV NLHAIYAETD GKVVERDQLE PRHFEKWVRW
+     AKRHGLGLDF NPTLFSHEKA KDGLTLAHPD QAIRQFWIDH CIASRKIGEY FGKELETPCL
+     TNIWIPDGYK DTPSDRLTPR KRLKESLDQI FAAEINEAYN LDAVESKLFG IGSESYVVGS
+     HEFYLSYALK NDKLCLLDTG HYHPTETVSN KISAMLLFHD KLALHVSRPV RWDSDHVVTF
+     DDELREIALE IVRNDALDRV LIGLDFFDAS INRIAAWTIG TRNVIKALLF AMLIPHKQLK
+     EWQETGDYTR RLAVLEEFKT YPLGAIWNEY CERMNVPIKE EWLKEIAIYE KEVLLQRH
+//

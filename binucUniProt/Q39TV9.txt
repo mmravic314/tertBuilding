@@ -1,0 +1,50 @@
+ID   Q39TV9_GEOMG            Unreviewed;       179 AA.
+AC   Q39TV9;
+DT   22-NOV-2005, integrated into UniProtKB/TrEMBL.
+DT   22-NOV-2005, sequence version 1.
+DT   22-JUL-2015, entry version 65.
+DE   SubName: Full=Iron-sulfur cluster-binding oxidoreductase, putative benzoyl-CoA reductase electron transfer protein {ECO:0000313|EMBL:ABB32315.1};
+GN   Name=bamC-1 {ECO:0000313|EMBL:ABB32315.1};
+GN   OrderedLocusNames=Gmet_2086 {ECO:0000313|EMBL:ABB32315.1};
+OS   Geobacter metallireducens (strain GS-15 / ATCC 53774 / DSM 7210).
+OC   Bacteria; Proteobacteria; Deltaproteobacteria; Desulfuromonadales;
+OC   Geobacteraceae; Geobacter.
+OX   NCBI_TaxID=269799 {ECO:0000313|EMBL:ABB32315.1, ECO:0000313|Proteomes:UP000007073};
+RN   [1] {ECO:0000313|EMBL:ABB32315.1, ECO:0000313|Proteomes:UP000007073}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=GS-15 / ATCC 53774 / DSM 7210
+RC   {ECO:0000313|Proteomes:UP000007073};
+RG   US DOE Joint Genome Institute;
+RA   Copeland A., Lucas S., Lapidus A., Barry K., Detter J.C., Glavina T.,
+RA   Hammon N., Israni S., Pitluck S., Di Bartolo G., Chain P., Schmutz J.,
+RA   Larimer F., Land M., Kyrpides N., Ivanova N., Richardson P.;
+RT   "Complete sequence of Geobacter metallireducens GS-15.";
+RL   Submitted (OCT-2005) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP000148; ABB32315.1; -; Genomic_DNA.
+DR   RefSeq; WP_004514580.1; NC_007517.1.
+DR   ProteinModelPortal; Q39TV9; -.
+DR   STRING; 269799.Gmet_2086; -.
+DR   EnsemblBacteria; ABB32315; ABB32315; Gmet_2086.
+DR   KEGG; gme:Gmet_2086; -.
+DR   PATRIC; 22003426; VBIGeoMet55070_2128.
+DR   eggNOG; NOG147543; -.
+DR   HOGENOM; HOG000064888; -.
+DR   OMA; RACEVIC; -.
+DR   OrthoDB; EOG690MDP; -.
+DR   BioCyc; GMET269799:GHNY-2124-MONOMER; -.
+DR   Proteomes; UP000007073; Chromosome.
+DR   GO; GO:0051536; F:iron-sulfur cluster binding; IEA:InterPro.
+DR   InterPro; IPR017896; 4Fe4S_Fe-S-bd.
+DR   PROSITE; PS51379; 4FE4S_FER_2; 2.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000007073};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000007073}.
+SQ   SEQUENCE   179 AA;  20107 MW;  14CA45CBCAA48F2B CRC64;
+     MNSETKKRIV KTINIDADKC NGCRACEVIC SAFHAMPPYS SNNPARSRVR VVRDPLRDIY
+     VPLYAGEYTE SECIGRDKFI IDGKEYDECG FCRASCPSRD LFREPDSGLP LKCDLCDGEP
+     EPLCVKWCLV GALSVTEREV EEPDESVKRT EMEIGLESLI SRFGADVVAD TVEQLTKKR
+//

@@ -1,0 +1,129 @@
+ID   SYK_GEOSE               Reviewed;         494 AA.
+AC   Q9RHV9;
+DT   01-DEC-2000, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-2000, sequence version 1.
+DT   01-APR-2015, entry version 90.
+DE   RecName: Full=Lysine--tRNA ligase;
+DE            EC=6.1.1.6;
+DE   AltName: Full=Lysyl-tRNA synthetase;
+DE            Short=LysRS;
+GN   Name=lysS;
+OS   Geobacillus stearothermophilus (Bacillus stearothermophilus).
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Geobacillus.
+OX   NCBI_TaxID=1422;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 29609 / DSM 2027 / NCA 1503 / NCIMB 8924;
+RX   PubMed=10737207; DOI=10.1271/bbb.64.432;
+RA   Takita T., Shimizu N., Sukata T., Hashimoto S., Akita E., Yokota T.,
+RA   Esaki N., Soda K., Inouye K., Tonomura B.;
+RT   "Lysyl-tRNA synthetase of Bacillus stearothermophilus molecular
+RT   cloning and expression of the gene.";
+RL   Biosci. Biotechnol. Biochem. 64:432-437(2000).
+CC   -!- CATALYTIC ACTIVITY: ATP + L-lysine + tRNA(Lys) = AMP + diphosphate
+CC       + L-lysyl-tRNA(Lys).
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250};
+CC       Note=Binds 3 Mg(2+) ions per subunit. {ECO:0000250};
+CC   -!- SUBUNIT: Homodimer. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the class-II aminoacyl-tRNA synthetase
+CC       family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AB012100; BAA88691.1; -; Genomic_DNA.
+DR   PIR; JC7205; JC7205.
+DR   PDB; 3A74; X-ray; 1.80 A; A/B/C/D=2-494.
+DR   PDB; 3E9H; X-ray; 2.10 A; A/B/C/D=2-494.
+DR   PDB; 3E9I; X-ray; 2.20 A; A/B/C/D=2-494.
+DR   PDBsum; 3A74; -.
+DR   PDBsum; 3E9H; -.
+DR   PDBsum; 3E9I; -.
+DR   ProteinModelPortal; Q9RHV9; -.
+DR   SMR; Q9RHV9; 5-492.
+DR   PRIDE; Q9RHV9; -.
+DR   BRENDA; 6.1.1.6; 623.
+DR   EvolutionaryTrace; Q9RHV9; -.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0004824; F:lysine-tRNA ligase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0003676; F:nucleic acid binding; IEA:InterPro.
+DR   GO; GO:0006430; P:lysyl-tRNA aminoacylation; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 2.40.50.140; -; 1.
+DR   HAMAP; MF_00252; Lys_tRNA_synth_class2; 1.
+DR   InterPro; IPR004364; aa-tRNA-synt_II.
+DR   InterPro; IPR018150; aa-tRNA-synt_II-like.
+DR   InterPro; IPR006195; aa-tRNA-synth_II.
+DR   InterPro; IPR002313; Lys-tRNA-ligase_II.
+DR   InterPro; IPR018149; Lys-tRNA-synth_II_C.
+DR   InterPro; IPR012340; NA-bd_OB-fold.
+DR   InterPro; IPR004365; NA-bd_OB_tRNA.
+DR   PANTHER; PTHR22594; PTHR22594; 1.
+DR   Pfam; PF00152; tRNA-synt_2; 1.
+DR   Pfam; PF01336; tRNA_anti-codon; 1.
+DR   PIRSF; PIRSF039101; LysRS2; 1.
+DR   PRINTS; PR00982; TRNASYNTHLYS.
+DR   SUPFAM; SSF50249; SSF50249; 1.
+DR   TIGRFAMs; TIGR00499; lysS_bact; 1.
+DR   PROSITE; PS50862; AA_TRNA_LIGASE_II; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Aminoacyl-tRNA synthetase; ATP-binding; Cytoplasm;
+KW   Ligase; Magnesium; Metal-binding; Nucleotide-binding;
+KW   Protein biosynthesis.
+FT   CHAIN         1    494       Lysine--tRNA ligase.
+FT                                /FTId=PRO_0000152599.
+FT   METAL       405    405       Magnesium 1. {ECO:0000250}.
+FT   METAL       412    412       Magnesium 1. {ECO:0000250}.
+FT   METAL       412    412       Magnesium 2. {ECO:0000250}.
+FT   HELIX         8     22       {ECO:0000244|PDB:3A74}.
+FT   HELIX        38     45       {ECO:0000244|PDB:3A74}.
+FT   HELIX        50     56       {ECO:0000244|PDB:3A74}.
+FT   STRAND       59     72       {ECO:0000244|PDB:3A74}.
+FT   STRAND       75     82       {ECO:0000244|PDB:3A74}.
+FT   STRAND       85     92       {ECO:0000244|PDB:3A74}.
+FT   HELIX        93    106       {ECO:0000244|PDB:3A74}.
+FT   STRAND      112    121       {ECO:0000244|PDB:3A74}.
+FT   STRAND      127    138       {ECO:0000244|PDB:3A74}.
+FT   HELIX       154    159       {ECO:0000244|PDB:3A74}.
+FT   HELIX       161    167       {ECO:0000244|PDB:3A74}.
+FT   HELIX       170    191       {ECO:0000244|PDB:3A74}.
+FT   STRAND      201    205       {ECO:0000244|PDB:3A74}.
+FT   STRAND      208    211       {ECO:0000244|PDB:3A74}.
+FT   STRAND      215    218       {ECO:0000244|PDB:3A74}.
+FT   TURN        219    222       {ECO:0000244|PDB:3A74}.
+FT   STRAND      223    227       {ECO:0000244|PDB:3A74}.
+FT   HELIX       232    240       {ECO:0000244|PDB:3A74}.
+FT   STRAND      245    253       {ECO:0000244|PDB:3A74}.
+FT   STRAND      264    274       {ECO:0000244|PDB:3A74}.
+FT   HELIX       278    297       {ECO:0000244|PDB:3A74}.
+FT   STRAND      300    304       {ECO:0000244|PDB:3A74}.
+FT   STRAND      307    310       {ECO:0000244|PDB:3A74}.
+FT   STRAND      316    319       {ECO:0000244|PDB:3A74}.
+FT   HELIX       320    327       {ECO:0000244|PDB:3A74}.
+FT   HELIX       338    347       {ECO:0000244|PDB:3A74}.
+FT   HELIX       358    369       {ECO:0000244|PDB:3A74}.
+FT   HELIX       371    373       {ECO:0000244|PDB:3A74}.
+FT   STRAND      378    381       {ECO:0000244|PDB:3A74}.
+FT   HELIX       385    387       {ECO:0000244|PDB:3A74}.
+FT   STRAND      400    408       {ECO:0000244|PDB:3A74}.
+FT   STRAND      411    419       {ECO:0000244|PDB:3A74}.
+FT   HELIX       423    438       {ECO:0000244|PDB:3A74}.
+FT   HELIX       449    456       {ECO:0000244|PDB:3A74}.
+FT   STRAND      461    468       {ECO:0000244|PDB:3A74}.
+FT   HELIX       469    476       {ECO:0000244|PDB:3A74}.
+FT   HELIX       482    484       {ECO:0000244|PDB:3A74}.
+FT   STRAND      486    488       {ECO:0000244|PDB:3A74}.
+SQ   SEQUENCE   494 AA;  57406 MW;  109D1A4FDD7F714C CRC64;
+     MSHEELNDQL RVRREKLKKI EELGVDPFGK RFERTHKAEE LFELYGDLSK EELEEQQIEV
+     AVAGRIMTKR GMGKAGFAHI QDVTGQIQIY VRQDDVGEQQ YELFKISDLG DIVGVRGTMF
+     KTKVGELSIK VSSYEFLTKA LRPLPEKYHG LKDIEQRYRQ RYLDLIMNPE SKKTFITRSL
+     IIQSMRRYLD SHGYLEVETP MMHAVAGGAA ARPFITHHNA LDMTLYMRIA IELHLKRLIV
+     GGLEKVYEIG RVFRNEGIST RHNPEFTMLE LYEAYADFRD IMKLTENLIA HIATEVLGTT
+     KIQYGEHLVD LTPEWRRLHM VDAIKEYVGV DFWRQMSDEE ARELAKEHGV EVAPHMTFGH
+     IVNEFFEQKV EDKLIQPTFI YGHPVEISPL AKKNPDDPRF TDRFELFIVG REHANAFTEL
+     NDPIDQRQRF EEQLKEREQG NDEAHEMDED FLEALEYGMP PTGGLGIGVD RLVMLLTNSP
+     SIRDVLLFPQ MRHK
+//

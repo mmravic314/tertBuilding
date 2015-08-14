@@ -1,0 +1,106 @@
+ID   PQQCL_CHLTR             Reviewed;         231 AA.
+AC   O84616;
+DT   16-JUN-2003, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1998, sequence version 1.
+DT   22-JUL-2015, entry version 80.
+DE   RecName: Full=PqqC-like protein;
+DE   AltName: Full=Chlamydia protein associating with death domains;
+DE            Short=CADD;
+GN   OrderedLocusNames=CT_610;
+OS   Chlamydia trachomatis (strain D/UW-3/Cx).
+OC   Bacteria; Chlamydiae; Chlamydiales; Chlamydiaceae;
+OC   Chlamydia/Chlamydophila group; Chlamydia.
+OX   NCBI_TaxID=272561;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=D/UW-3/Cx;
+RX   PubMed=9784136; DOI=10.1126/science.282.5389.754;
+RA   Stephens R.S., Kalman S., Lammel C.J., Fan J., Marathe R., Aravind L.,
+RA   Mitchell W.P., Olinger L., Tatusov R.L., Zhao Q., Koonin E.V.,
+RA   Davis R.W.;
+RT   "Genome sequence of an obligate intracellular pathogen of humans:
+RT   Chlamydia trachomatis.";
+RL   Science 282:754-759(1998).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS), SUBUNIT, FUNCTION,
+RP   DEVELOPMENTAL STAGE, SUBCELLULAR LOCATION, AND IRON-BINDING SITES.
+RX   PubMed=15087448; DOI=10.1074/jbc.M401268200;
+RA   Schwarzenbacher R., Stenner-Liewen F., Liewen H., Robinson H.,
+RA   Yuan H., Bossy-Wetzel E., Reed J.C., Liddington R.C.;
+RT   "Structure of the Chlamydia protein CADD reveals a redox enzyme that
+RT   modulates host cell apoptosis.";
+RL   J. Biol. Chem. 279:29320-29324(2004).
+CC   -!- FUNCTION: Chlamydia specific toxin inducing apoptosis in mammalian
+CC       cell lines. {ECO:0000269|PubMed:15087448}.
+CC   -!- SUBUNIT: Homodimer. {ECO:0000269|PubMed:15087448}.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000269|PubMed:15087448}.
+CC       Note=Secreted into the host cytoplasm.
+CC   -!- DEVELOPMENTAL STAGE: Expressed late in the infectious cycle.
+CC       {ECO:0000269|PubMed:15087448}.
+CC   -!- SIMILARITY: Belongs to the PqqC family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE001273; AAC68213.1; -; Genomic_DNA.
+DR   PIR; F71493; F71493.
+DR   RefSeq; NP_220127.1; NC_000117.1.
+DR   RefSeq; WP_009871978.1; NC_000117.1.
+DR   PDB; 1RCW; X-ray; 2.50 A; A/B/C=1-231.
+DR   PDBsum; 1RCW; -.
+DR   ProteinModelPortal; O84616; -.
+DR   MINT; MINT-230957; -.
+DR   STRING; 272561.CT610; -.
+DR   EnsemblBacteria; AAC68213; AAC68213; CT_610.
+DR   GeneID; 884390; -.
+DR   KEGG; ctr:CT_610; -.
+DR   PATRIC; 20380844; VBIChlTra43535_0667.
+DR   eggNOG; COG5424; -.
+DR   InParanoid; O84616; -.
+DR   KO; K06137; -.
+DR   OMA; YTYESQI; -.
+DR   OrthoDB; EOG6GN70F; -.
+DR   EvolutionaryTrace; O84616; -.
+DR   Proteomes; UP000000431; Chromosome.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 1.20.910.10; -; 1.
+DR   InterPro; IPR027572; Fol-rel_CADD.
+DR   InterPro; IPR016084; Haem_Oase-like_multi-hlx.
+DR   InterPro; IPR004305; Thiaminase-2/PQQC.
+DR   Pfam; PF03070; TENA_THI-4; 1.
+DR   SUPFAM; SSF48613; SSF48613; 1.
+DR   TIGRFAMs; TIGR04305; fol_rel_CADD; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Iron; Metal-binding;
+KW   Reference proteome; Secreted; Toxin.
+FT   CHAIN         1    231       PqqC-like protein.
+FT                                /FTId=PRO_0000219994.
+FT   METAL        81     81       Iron 1.
+FT   METAL        81     81       Iron 2.
+FT   METAL        88     88       Iron 1.
+FT   METAL       142    142       Iron 2.
+FT   METAL       174    174       Iron 1.
+FT   METAL       178    178       Iron 2.
+FT   METAL       181    181       Iron 2.
+FT   HELIX         8     18       {ECO:0000244|PDB:1RCW}.
+FT   HELIX        21     23       {ECO:0000244|PDB:1RCW}.
+FT   HELIX        25     31       {ECO:0000244|PDB:1RCW}.
+FT   HELIX        37     46       {ECO:0000244|PDB:1RCW}.
+FT   HELIX        48     62       {ECO:0000244|PDB:1RCW}.
+FT   HELIX        68     82       {ECO:0000244|PDB:1RCW}.
+FT   STRAND       83     86       {ECO:0000244|PDB:1RCW}.
+FT   HELIX        88     98       {ECO:0000244|PDB:1RCW}.
+FT   HELIX       103    108       {ECO:0000244|PDB:1RCW}.
+FT   HELIX       113    126       {ECO:0000244|PDB:1RCW}.
+FT   HELIX       131    142       {ECO:0000244|PDB:1RCW}.
+FT   HELIX       145    159       {ECO:0000244|PDB:1RCW}.
+FT   HELIX       165    168       {ECO:0000244|PDB:1RCW}.
+FT   HELIX       169    192       {ECO:0000244|PDB:1RCW}.
+FT   HELIX       197    216       {ECO:0000244|PDB:1RCW}.
+SQ   SEQUENCE   231 AA;  26734 MW;  8AED7D2592A7FF24 CRC64;
+     MMEVFMNFLD QLDLIIQNKH MLEHTFYVKW SKGELTKEQL QAYAKDYYLH IKAFPKYLSA
+     IHSRCDDLEA RKLLLDNLMD EENGYPNHID LWKQFVFALG VTPEELEAHE PSEAAKAKVA
+     TFMRWCTGDS LAAGVAALYS YESQIPRIAR EKIRGLTEYF GFSNPEDYAY FTEHEEADVR
+     HAREEKALIE MLLKDDADKV LEASQEVTQS LYGFLDSFLD PGTCCSCHQS Y
+//

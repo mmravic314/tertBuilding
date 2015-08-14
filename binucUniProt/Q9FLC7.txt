@@ -1,0 +1,169 @@
+ID   CFI3_ARATH              Reviewed;         209 AA.
+AC   Q8VZW3; Q9FLC7;
+DT   01-MAY-2013, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAR-2002, sequence version 1.
+DT   24-JUN-2015, entry version 84.
+DE   RecName: Full=Probable chalcone--flavonone isomerase 3;
+DE            Short=Chalcone isomerase 3;
+DE            EC=5.5.1.6;
+DE   AltName: Full=Chalcone isomerase-like 1;
+GN   Name=CHI3; Synonyms=CHI-L1, CHIL; OrderedLocusNames=At5g05270;
+GN   ORFNames=K18I23.7;
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=9679202; DOI=10.1093/dnares/5.2.131;
+RA   Kaneko T., Kotani H., Nakamura Y., Sato S., Asamizu E., Miyajima N.,
+RA   Tabata S.;
+RT   "Structural analysis of Arabidopsis thaliana chromosome 5. V. Sequence
+RT   features of the regions of 1,381,565 bp covered by twenty one
+RT   physically assigned P1 and TAC clones.";
+RL   DNA Res. 5:131-145(1998).
+RN   [2]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RG   The Arabidopsis Information Resource (TAIR);
+RL   Submitted (APR-2011) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=14593172; DOI=10.1126/science.1088305;
+RA   Yamada K., Lim J., Dale J.M., Chen H., Shinn P., Palm C.J.,
+RA   Southwick A.M., Wu H.C., Kim C.J., Nguyen M., Pham P.K., Cheuk R.F.,
+RA   Karlin-Newmann G., Liu S.X., Lam B., Sakano H., Wu T., Yu G.,
+RA   Miranda M., Quach H.L., Tripp M., Chang C.H., Lee J.M., Toriumi M.J.,
+RA   Chan M.M., Tang C.C., Onodera C.S., Deng J.M., Akiyama K., Ansari Y.,
+RA   Arakawa T., Banh J., Banno F., Bowser L., Brooks S.Y., Carninci P.,
+RA   Chao Q., Choy N., Enju A., Goldsmith A.D., Gurjal M., Hansen N.F.,
+RA   Hayashizaki Y., Johnson-Hopson C., Hsuan V.W., Iida K., Karnes M.,
+RA   Khan S., Koesema E., Ishida J., Jiang P.X., Jones T., Kawai J.,
+RA   Kamiya A., Meyers C., Nakajima M., Narusaka M., Seki M., Sakurai T.,
+RA   Satou M., Tamse R., Vaysberg M., Wallender E.K., Wong C., Yamamura Y.,
+RA   Yuan S., Shinozaki K., Davis R.W., Theologis A., Ecker J.R.;
+RT   "Empirical analysis of transcriptional activity in the Arabidopsis
+RT   genome.";
+RL   Science 302:842-846(2003).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RA   Brover V.V., Troukhan M.E., Alexandrov N.A., Lu Y.-P., Flavell R.B.,
+RA   Feldmann K.A.;
+RT   "Full-length cDNA from Arabidopsis thaliana.";
+RL   Submitted (MAR-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   FUNCTION, AND INDUCTION BY PAP1.
+RX   PubMed=15807784; DOI=10.1111/j.1365-313X.2005.02371.x;
+RA   Tohge T., Nishiyama Y., Hirai M.Y., Yano M., Nakajima J.,
+RA   Awazuhara M., Inoue E., Takahashi H., Goodenowe D.B., Kitayama M.,
+RA   Noji M., Yamazaki M., Saito K.;
+RT   "Functional genomics by integrated analysis of metabolome and
+RT   transcriptome of Arabidopsis plants over-expressing an MYB
+RT   transcription factor.";
+RL   Plant J. 42:218-235(2005).
+RN   [6]
+RP   REVIEW, AND NOMENCLATURE.
+RX   DOI=10.1016/j.plaphy.2013.02.001;
+RA   Saito K., Yonekura-Sakakibara K., Nakabayashi R., Higashi Y.,
+RA   Yamazaki M., Tohge T., Fernie A.R.;
+RT   "The flavonoid biosynthetic pathway in Arabidopsis: Structural and
+RT   genetic diversity.";
+RL   Plant Physiol. Biochem. 0:0-0(2013).
+RN   [7]
+RP   X-RAY CRYSTALLOGRAPHY (1.70 ANGSTROMS) OF 5-209.
+RX   PubMed=22622584; DOI=10.1038/nature11009;
+RA   Ngaki M.N., Louie G.V., Philippe R.N., Manning G., Pojer F.,
+RA   Bowman M.E., Li L., Larsen E., Wurtele E.S., Noel J.P.;
+RT   "Evolution of the chalcone-isomerase fold from fatty-acid binding to
+RT   stereospecific catalysis.";
+RL   Nature 485:530-533(2012).
+CC   -!- FUNCTION: Involved in anthocyanin biosynthesis.
+CC       {ECO:0000305|PubMed:15807784}.
+CC   -!- CATALYTIC ACTIVITY: A chalcone = a flavanone.
+CC   -!- PATHWAY: Secondary metabolite biosynthesis; flavonoid
+CC       biosynthesis.
+CC   -!- INDUCTION: Induced by PAP1. {ECO:0000269|PubMed:15807784}.
+CC   -!- SIMILARITY: Belongs to the chalcone isomerase family.
+CC       {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAB09970.1; Type=Erroneous initiation; Note=Translation N-terminally extended.; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AB010692; BAB09970.1; ALT_INIT; Genomic_DNA.
+DR   EMBL; CP002688; AED90848.1; -; Genomic_DNA.
+DR   EMBL; CP002688; AED90849.1; -; Genomic_DNA.
+DR   EMBL; AY063786; AAL36093.1; -; mRNA.
+DR   EMBL; AY096448; AAM20088.1; -; mRNA.
+DR   EMBL; AY088019; AAM65565.1; -; mRNA.
+DR   RefSeq; NP_568154.1; NM_120609.2.
+DR   RefSeq; NP_850770.1; NM_180439.1.
+DR   UniGene; At.27434; -.
+DR   PDB; 4DOK; X-ray; 1.70 A; A/B=5-209.
+DR   PDBsum; 4DOK; -.
+DR   ProteinModelPortal; Q8VZW3; -.
+DR   SMR; Q8VZW3; 3-209.
+DR   BioGrid; 15688; 4.
+DR   STRING; 3702.AT5G05270.1; -.
+DR   PRIDE; Q8VZW3; -.
+DR   ProMEX; Q8VZW3; -.
+DR   EnsemblPlants; AT5G05270.1; AT5G05270.1; AT5G05270.
+DR   EnsemblPlants; AT5G05270.2; AT5G05270.2; AT5G05270.
+DR   GeneID; 830409; -.
+DR   KEGG; ath:AT5G05270; -.
+DR   TAIR; AT5G05270; -.
+DR   eggNOG; NOG261120; -.
+DR   HOGENOM; HOG000243947; -.
+DR   InParanoid; Q8VZW3; -.
+DR   OMA; HFLQIKF; -.
+DR   PhylomeDB; Q8VZW3; -.
+DR   BioCyc; ARA:AT5G05270-MONOMER; -.
+DR   BioCyc; ARA:GQT-2576-MONOMER; -.
+DR   UniPathway; UPA00154; -.
+DR   PRO; PR:Q8VZW3; -.
+DR   Proteomes; UP000006548; Chromosome 5.
+DR   GO; GO:0045430; F:chalcone isomerase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0009813; P:flavonoid biosynthetic process; IEA:UniProtKB-UniPathway.
+DR   GO; GO:0080167; P:response to karrikin; IEP:TAIR.
+DR   Gene3D; 1.10.890.20; -; 1.
+DR   Gene3D; 3.50.70.10; -; 1.
+DR   InterPro; IPR016087; Chalcone_isomerase.
+DR   InterPro; IPR016088; Chalcone_isomerase_3-sand.
+DR   InterPro; IPR016089; Chalcone_isomerase_bundle.
+DR   Pfam; PF02431; Chalcone; 1.
+DR   SUPFAM; SSF54626; SSF54626; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Flavonoid biosynthesis; Isomerase;
+KW   Reference proteome.
+FT   CHAIN         1    209       Probable chalcone--flavonone isomerase 3.
+FT                                /FTId=PRO_0000422076.
+FT   STRAND        6      8       {ECO:0000244|PDB:4DOK}.
+FT   STRAND       11     13       {ECO:0000244|PDB:4DOK}.
+FT   STRAND       15     35       {ECO:0000244|PDB:4DOK}.
+FT   STRAND       38     49       {ECO:0000244|PDB:4DOK}.
+FT   HELIX        51     57       {ECO:0000244|PDB:4DOK}.
+FT   HELIX        59     61       {ECO:0000244|PDB:4DOK}.
+FT   HELIX        66     70       {ECO:0000244|PDB:4DOK}.
+FT   HELIX        73     81       {ECO:0000244|PDB:4DOK}.
+FT   STRAND       82     84       {ECO:0000244|PDB:4DOK}.
+FT   STRAND       86     94       {ECO:0000244|PDB:4DOK}.
+FT   HELIX        98    115       {ECO:0000244|PDB:4DOK}.
+FT   HELIX       121    135       {ECO:0000244|PDB:4DOK}.
+FT   STRAND      144    149       {ECO:0000244|PDB:4DOK}.
+FT   STRAND      151    153       {ECO:0000244|PDB:4DOK}.
+FT   STRAND      156    161       {ECO:0000244|PDB:4DOK}.
+FT   STRAND      168    172       {ECO:0000244|PDB:4DOK}.
+FT   HELIX       175    185       {ECO:0000244|PDB:4DOK}.
+FT   TURN        188    190       {ECO:0000244|PDB:4DOK}.
+FT   HELIX       194    208       {ECO:0000244|PDB:4DOK}.
+SQ   SEQUENCE   209 AA;  23332 MW;  587A37BA5A91A0C7 CRC64;
+     MGTEMVMVHE VPFPPQIITS KPLSLLGQGI TDIEIHFLQV KFTAIGVYLD PSDVKTHLDN
+     WKGKTGKELA GDDDFFDALA SAEMEKVIRV VVIKEIKGAQ YGVQLENTVR DRLAEEDKYE
+     EEEETELEKV VGFFQSKYFK ANSVITYHFS AKDGICEIGF ETEGKEEEKL KVENANVVGM
+     MQRWYLSGSR GVSPSTIVSI ADSISAVLT
+//

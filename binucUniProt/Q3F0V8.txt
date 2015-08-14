@@ -1,0 +1,90 @@
+ID   Q3F0V8_BACTI            Unreviewed;       245 AA.
+AC   Q3F0V8;
+DT   08-NOV-2005, integrated into UniProtKB/TrEMBL.
+DT   08-NOV-2005, sequence version 1.
+DT   22-JUL-2015, entry version 32.
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EAO57230.1};
+GN   ORFNames=RBTH_06728 {ECO:0000313|EMBL:EAO57230.1};
+OS   Bacillus thuringiensis serovar israelensis ATCC 35646.
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus;
+OC   Bacillus cereus group.
+OX   NCBI_TaxID=339854 {ECO:0000313|EMBL:EAO57230.1};
+RN   [1] {ECO:0000313|EMBL:EAO57230.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=ATCC 35646 {ECO:0000313|EMBL:EAO57230.1};
+RA   Anderson I., Sorokin A., Kapatral V., Reznik G., Bhattacharya A.,
+RA   Mikhailova N., Burd H., Joukov V., Kaznadzey D., Walunas T.,
+RA   D'Souza M., Larsen N., Pusch G., Liolios K., Grechkin Y., Lapidus A.,
+RA   Goltsman E., Chu L., Fonstein M., Ehrlich D., Overbeek R.,
+RA   Kyrpides N., Ivanova N.;
+RT   "Comparative genome analysis of Bacillus cereus group genomes with
+RT   Bacillus subtilis.";
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:4KGK, ECO:0000213|PDB:4KGM}
+RP   X-RAY CRYSTALLOGRAPHY (2.36 ANGSTROMS) IN COMPLEX WITH ATP; GTP AND
+RP   MAGNESIUM.
+RX   PubMed=23844012;
+RA   Hyde S.J., Rao B.S., Eckenroth B.E., Jackman J.E., Doublie S.;
+RT   "Structural studies of a bacterial tRNA(HIS) guanylyltransferase
+RT   (Thg1)-like protein, with nucleotide in the activation and nucleotidyl
+RT   transfer sites.";
+RL   PLoS ONE 8:e67465-e67465(2013).
+CC   -!- CAUTION: The sequence shown here is derived from an
+CC       EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is
+CC       preliminary data. {ECO:0000313|EMBL:EAO57230.1}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AAJM01000003; EAO57230.1; -; Genomic_DNA.
+DR   PDB; 4KGK; X-ray; 2.95 A; A/B/C/D=1-245.
+DR   PDB; 4KGM; X-ray; 2.36 A; A/B/C/D=1-245.
+DR   PDBsum; 4KGK; -.
+DR   PDBsum; 4KGM; -.
+DR   EnsemblBacteria; EAO57230; EAO57230; RBTH_06728.
+DR   PATRIC; 38343860; VBIBacThu7829_0274.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:InterPro.
+DR   GO; GO:0008193; F:tRNA guanylyltransferase activity; IEA:InterPro.
+DR   GO; GO:0006400; P:tRNA modification; IEA:InterPro.
+DR   InterPro; IPR025845; Thg1_C_dom.
+DR   InterPro; IPR024956; tRNAHis_GuaTrfase_cat.
+DR   InterPro; IPR007537; tRNAHis_GuaTrfase_Thg1.
+DR   PANTHER; PTHR12729; PTHR12729; 1.
+DR   Pfam; PF04446; Thg1; 1.
+DR   Pfam; PF14413; Thg1C; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4KGK, ECO:0000213|PDB:4KGM};
+KW   ATP-binding {ECO:0000213|PDB:4KGM};
+KW   GTP-binding {ECO:0000213|PDB:4KGK};
+KW   Magnesium {ECO:0000213|PDB:4KGK, ECO:0000213|PDB:4KGM};
+KW   Metal-binding {ECO:0000213|PDB:4KGK, ECO:0000213|PDB:4KGM};
+KW   Nucleotide-binding {ECO:0000213|PDB:4KGK, ECO:0000213|PDB:4KGM}.
+FT   NP_BIND       5      9       GTP. {ECO:0000213|PDB:4KGK}.
+FT   NP_BIND      28     38       GTP. {ECO:0000213|PDB:4KGK}.
+FT   NP_BIND      30     35       ATP. {ECO:0000213|PDB:4KGM}.
+FT   NP_BIND      43     46       ATP. {ECO:0000213|PDB:4KGM}.
+FT   METAL        30     30       Magnesium 1. {ECO:0000213|PDB:4KGK,
+FT                                ECO:0000213|PDB:4KGM}.
+FT   METAL        30     30       Magnesium 2. {ECO:0000213|PDB:4KGK}.
+FT   METAL        31     31       Magnesium 1. {ECO:0000213|PDB:4KGK,
+FT                                ECO:0000213|PDB:4KGM}.
+FT   METAL        75     75       Magnesium 1. {ECO:0000213|PDB:4KGK,
+FT                                ECO:0000213|PDB:4KGM}.
+FT   METAL        75     75       Magnesium 2. {ECO:0000213|PDB:4KGK}.
+FT   BINDING      16     16       GTP. {ECO:0000213|PDB:4KGK}.
+FT   BINDING      42     42       GTP; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:4KGK}.
+FT   BINDING      75     75       ATP. {ECO:0000213|PDB:4KGM}.
+FT   BINDING      75     75       GTP. {ECO:0000213|PDB:4KGK}.
+FT   BINDING      99     99       GTP. {ECO:0000213|PDB:4KGK}.
+FT   BINDING     131    131       GTP. {ECO:0000213|PDB:4KGK}.
+FT   BINDING     147    147       GTP. {ECO:0000213|PDB:4KGK}.
+SQ   SEQUENCE   245 AA;  28474 MW;  81B8E7AD846CCBF9 CRC64;
+     MDSIGDRMKR YENAYRIKLP ERMPVIVRID GAHFHTYTKG CAKPFDQDLA EAFWETCKYL
+     AQNIMGAKLV YHQSDEISIL ITNYDKLTTQ SWFENNLQKI ASVSASMATA KFNEVMREKY
+     PDKPLATFDG RAQVLPQDEV ANYFIWRQQD ASKNSISMVA QANFPHKQLQ GLNGKDMQDK
+     LMTEKNINWN DLPVWQKRGI CIIKEFYEKN GALRSRWSVD HETPIISKDR EYVEQFVYLN
+     RGAAA
+//

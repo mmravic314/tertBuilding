@@ -1,0 +1,170 @@
+ID   ARIS_ASPTE              Reviewed;         320 AA.
+AC   Q9UR08;
+DT   05-SEP-2012, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-2000, sequence version 1.
+DT   01-APR-2015, entry version 54.
+DE   RecName: Full=Aristolochene synthase;
+DE            Short=AS;
+DE            EC=4.2.3.9;
+DE   AltName: Full=Sesquiterpene cyclase;
+GN   Name=Ari1;
+OS   Aspergillus terreus.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=33178;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA], PROTEIN SEQUENCE OF 35-48;
+RP   183-195 AND 215-226, FUNCTION, CATALYTIC ACTIVITY, AND
+RP   BIOPHYSICOCHEMICAL PROPERTIES.
+RC   STRAIN=ATCC 20516 / NRRL 11156;
+RX   PubMed=10775423; DOI=10.1006/abbi.2000.1734;
+RA   Cane D.E., Kang I.;
+RT   "Aristolochene synthase: purification, molecular cloning, high-level
+RT   expression in Escherichia coli, and characterization of the
+RT   Aspergillus terreus cyclase.";
+RL   Arch. Biochem. Biophys. 376:354-364(2000).
+RN   [2]
+RP   FUNCTION, BIOPHYSICOCHEMICAL PROPERTIES, AND MUTAGENESIS OF GLU-227.
+RX   PubMed=15186158; DOI=10.1021/ja0499593;
+RA   Felicetti B., Cane D.E.;
+RT   "Aristolochene synthase: mechanistic analysis of active site residues
+RT   by site-directed mutagenesis.";
+RL   J. Am. Chem. Soc. 126:7212-7221(2004).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (2.15 ANGSTROMS) IN COMPLEX WITH MAGNESIUM, AND
+RP   SUBUNIT.
+RX   PubMed=17261032; DOI=10.1021/bi0622524;
+RA   Shishova E.Y., Di Costanzo L., Cane D.E., Christianson D.W.;
+RT   "X-ray crystal structure of aristolochene synthase from Aspergillus
+RT   terreus and evolution of templates for the cyclization of farnesyl
+RT   diphosphate.";
+RL   Biochemistry 46:1941-1951(2007).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (1.89 ANGSTROMS) IN COMPLEX WITH SUBSTRATE;
+RP   SUBSTRATE ANALOGS AND MAGNESIUM.
+RX   PubMed=18385128; DOI=10.1074/jbc.M800659200;
+RA   Shishova E.Y., Yu F., Miller D.J., Faraldos J.A., Zhao Y.,
+RA   Coates R.M., Allemann R.K., Cane D.E., Christianson D.W.;
+RT   "X-ray crystallographic studies of substrate binding to aristolochene
+RT   synthase suggest a metal ion binding sequence for catalysis.";
+RL   J. Biol. Chem. 283:15431-15439(2008).
+CC   -!- FUNCTION: Catalyzes the cyclization of trans,trans-farnesyl
+CC       diphosphate (FPP) to the bicyclic sesquiterpene aristolochene.
+CC       Produces germacrene A as an enzyme-bound intermediate that is not
+CC       released by the enzyme, but is further cyclized to produce
+CC       aristolochene. Aristolochene is the likely parent compound for a
+CC       number of sesquiterpenoid toxins produced by filamentous fungi.
+CC       {ECO:0000269|PubMed:10775423, ECO:0000269|PubMed:15186158}.
+CC   -!- CATALYTIC ACTIVITY: (2E,6E)-farnesyl diphosphate = aristolochene +
+CC       diphosphate. {ECO:0000269|PubMed:10775423}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC       Note=Binds 3 Mg(2+) ions per monomer.;
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=13.5 nM for (2E,6E)-farnesyl diphosphate
+CC         {ECO:0000269|PubMed:10775423, ECO:0000269|PubMed:15186158};
+CC         Vmax=23.6 nmol/min/mg enzyme {ECO:0000269|PubMed:10775423,
+CC         ECO:0000269|PubMed:15186158};
+CC       pH dependence:
+CC         Optimum pH is 8.0. {ECO:0000269|PubMed:10775423,
+CC         ECO:0000269|PubMed:15186158};
+CC   -!- PATHWAY: Sesquiterpene biosynthesis; aristolochene biosynthesis;
+CC       aristolochene from farnesyl diphosphate: step 1/1.
+CC   -!- SUBUNIT: Homodimer. {ECO:0000269|PubMed:17261032,
+CC       ECO:0000269|PubMed:18385128}.
+CC   -!- SIMILARITY: Belongs to the terpene synthase family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF198359; AAF13263.1; -; mRNA.
+DR   EMBL; AF198360; AAF13264.1; -; Genomic_DNA.
+DR   PDB; 2E4O; X-ray; 2.20 A; A/B/C/D=1-320.
+DR   PDB; 2OA6; X-ray; 2.15 A; A/B/C/D=1-320.
+DR   PDB; 3BNX; X-ray; 2.10 A; A/B/C/D=1-320.
+DR   PDB; 3BNY; X-ray; 1.89 A; A/B/C/D=1-320.
+DR   PDB; 3CKE; X-ray; 2.40 A; A/B/C/D=1-320.
+DR   PDB; 4KUX; X-ray; 1.90 A; A/B/C/D=14-320.
+DR   PDB; 4KVD; X-ray; 2.40 A; A/B/C/D=14-320.
+DR   PDB; 4KVI; X-ray; 2.15 A; A/B/C/D=14-320.
+DR   PDB; 4KVW; X-ray; 2.10 A; A/B/C/D=14-320.
+DR   PDB; 4KVY; X-ray; 1.95 A; A/B/C/D=14-320.
+DR   PDB; 4KWD; X-ray; 1.86 A; A/B/C/D=14-320.
+DR   PDBsum; 2E4O; -.
+DR   PDBsum; 2OA6; -.
+DR   PDBsum; 3BNX; -.
+DR   PDBsum; 3BNY; -.
+DR   PDBsum; 3CKE; -.
+DR   PDBsum; 4KUX; -.
+DR   PDBsum; 4KVD; -.
+DR   PDBsum; 4KVI; -.
+DR   PDBsum; 4KVW; -.
+DR   PDBsum; 4KVY; -.
+DR   PDBsum; 4KWD; -.
+DR   ProteinModelPortal; Q9UR08; -.
+DR   SMR; Q9UR08; 13-318.
+DR   BRENDA; 4.2.3.9; 536.
+DR   UniPathway; UPA00177; UER00582.
+DR   EvolutionaryTrace; Q9UR08; -.
+DR   GO; GO:0045483; F:aristolochene synthase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:InterPro.
+DR   Gene3D; 1.10.600.10; -; 1.
+DR   InterPro; IPR008949; Isoprenoid_synthase_dom.
+DR   InterPro; IPR005630; Terpene_synthase_metal-bd.
+DR   Pfam; PF03936; Terpene_synth_C; 1.
+DR   SUPFAM; SSF48576; SSF48576; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Direct protein sequencing; Lyase; Magnesium;
+KW   Metal-binding.
+FT   CHAIN         1    320       Aristolochene synthase.
+FT                                /FTId=PRO_0000418550.
+FT   REGION      314    315       Substrate-binding.
+FT   METAL        90     90       Magnesium 1.
+FT                                {ECO:0000269|PubMed:17261032,
+FT                                ECO:0000269|PubMed:18385128}.
+FT   METAL        90     90       Magnesium 2.
+FT                                {ECO:0000269|PubMed:17261032,
+FT                                ECO:0000269|PubMed:18385128}.
+FT   METAL       219    219       Magnesium 3.
+FT                                {ECO:0000269|PubMed:17261032,
+FT                                ECO:0000269|PubMed:18385128}.
+FT   METAL       223    223       Magnesium 3.
+FT                                {ECO:0000269|PubMed:17261032,
+FT                                ECO:0000269|PubMed:18385128}.
+FT   METAL       227    227       Magnesium 3.
+FT                                {ECO:0000269|PubMed:17261032,
+FT                                ECO:0000269|PubMed:18385128}.
+FT   BINDING     175    175       Substrate. {ECO:0000269|PubMed:18385128}.
+FT   BINDING     226    226       Substrate. {ECO:0000269|PubMed:18385128}.
+FT   MUTAGEN     227    227       E->Q: Abolishes catalytic activity.
+FT                                {ECO:0000269|PubMed:15186158}.
+FT   HELIX        29     43       {ECO:0000244|PDB:4KWD}.
+FT   HELIX        49     58       {ECO:0000244|PDB:4KWD}.
+FT   HELIX        60     67       {ECO:0000244|PDB:4KWD}.
+FT   TURN         73     75       {ECO:0000244|PDB:4KWD}.
+FT   HELIX        76     92       {ECO:0000244|PDB:4KWD}.
+FT   HELIX        93     95       {ECO:0000244|PDB:4KWD}.
+FT   HELIX        98    112       {ECO:0000244|PDB:4KWD}.
+FT   HELIX       123    138       {ECO:0000244|PDB:4KWD}.
+FT   HELIX       140    144       {ECO:0000244|PDB:4KWD}.
+FT   HELIX       147    157       {ECO:0000244|PDB:4KWD}.
+FT   HELIX       160    163       {ECO:0000244|PDB:4KWD}.
+FT   HELIX       168    178       {ECO:0000244|PDB:4KWD}.
+FT   HELIX       181    192       {ECO:0000244|PDB:4KWD}.
+FT   HELIX       198    203       {ECO:0000244|PDB:4KWD}.
+FT   HELIX       205    233       {ECO:0000244|PDB:4KWD}.
+FT   TURN        236    239       {ECO:0000244|PDB:4KWD}.
+FT   HELIX       244    252       {ECO:0000244|PDB:4KWD}.
+FT   HELIX       256    283       {ECO:0000244|PDB:4KWD}.
+FT   TURN        284    286       {ECO:0000244|PDB:4KVW}.
+FT   HELIX       289    311       {ECO:0000244|PDB:4KWD}.
+FT   HELIX       313    316       {ECO:0000244|PDB:4KWD}.
+SQ   SEQUENCE   320 AA;  36481 MW;  73190707711ADC2E CRC64;
+     MKKPNGTNGA SSSLEPPPST FQPLCHPLVE EVSKEVDGYF LQHWNFPNEK ARKKFVAAGF
+     SRVTCLYFPK ALDDRIHFAC RLLTVLFLID DLLEYMSFEE GSAYNEKLIP ISRGDVLPDR
+     SIPVEYIIYD LWESMRAHDR EMADEILEPV FLFMRAQTDR TRARPMGLGG YLEYRERDVG
+     KELLAALMRF SMGLKLSPSE LQRVREIDAN CSKHLSVVND IYSYEKELYT SKTAHSEGGI
+     LCTSVQILAQ EADVTAEAAK RVLFVMCREW ELRHQLLVAR LSAEGLETPG LAAYVEGLEY
+     QMSGNELWSQ TTLRYSVVVD
+//

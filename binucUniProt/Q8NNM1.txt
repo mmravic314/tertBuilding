@@ -1,0 +1,88 @@
+ID   Q8NNM1_CORGL            Unreviewed;       371 AA.
+AC   Q8NNM1;
+DT   01-OCT-2002, integrated into UniProtKB/TrEMBL.
+DT   01-OCT-2002, sequence version 1.
+DT   22-JUL-2015, entry version 92.
+DE   SubName: Full=Geranylgeranyl pyrophosphate synthase {ECO:0000313|EMBL:BAB99565.1};
+DE            EC=2.5.1.1 {ECO:0000313|EMBL:BAB99565.1};
+GN   OrderedLocusNames=Cgl2172 {ECO:0000313|EMBL:BAB99565.1};
+OS   Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 /
+OS   LMG 3730 / NCIMB 10025).
+OC   Bacteria; Actinobacteria; Corynebacteriales; Corynebacteriaceae;
+OC   Corynebacterium.
+OX   NCBI_TaxID=196627 {ECO:0000313|Proteomes:UP000000582};
+RN   [1] {ECO:0000313|Proteomes:UP000000582}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025
+RC   {ECO:0000313|Proteomes:UP000000582};
+RX   PubMed=12743753; DOI=10.1007/s00253-003-1328-1;
+RA   Ikeda M., Nakagawa S.;
+RT   "The Corynebacterium glutamicum genome: features and impacts on
+RT   biotechnological processes.";
+RL   Appl. Microbiol. Biotechnol. 62:99-109(2003).
+RN   [2] {ECO:0000213|PDB:3LK5}
+RP   X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS) OF 3-370.
+RA   Malashkevich V.N., Toro R., Patskovsky Y., Sauder J.M., Burley S.K.,
+RA   Almo S.C.;
+RT   "Crystal structure of putative Geranylgeranyl pyrophosphate synthase
+RT   from Corynebacterium glutamicum Atcc 13032.";
+RL   Submitted (JAN-2010) to the PDB data bank.
+RN   [3] {ECO:0000213|PDB:3QQV}
+RP   X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS) OF 2-370.
+RX   PubMed=23493556;
+RA   Wallrapp F.H., Pan J.J., Ramamoorthy G., Almonacid D.E.,
+RA   Hillerich B.S., Seidel R., Patskovsky Y., Babbitt P.C., Almo S.C.,
+RA   Jacobson M.P., Poulter C.D.;
+RT   "Prediction of function for the polyprenyl transferase subgroup in the
+RT   isoprenoid synthase superfamily.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 110:E1196-E1202(2013).
+CC   -!- SIMILARITY: Belongs to the FPP/GGPP synthase family.
+CC       {ECO:0000256|RuleBase:RU004466}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; BA000036; BAB99565.1; -; Genomic_DNA.
+DR   RefSeq; NP_601376.2; NC_003450.3.
+DR   RefSeq; WP_011014931.1; NC_003450.3.
+DR   PDB; 3LK5; X-ray; 1.90 A; A=3-370.
+DR   PDB; 3QQV; X-ray; 2.00 A; A=2-370.
+DR   ProteinModelPortal; Q8NNM1; -.
+DR   STRING; 196627.NCgl2092; -.
+DR   DNASU; 1020124; -.
+DR   EnsemblBacteria; BAB99565; BAB99565; BAB99565.
+DR   GeneID; 1020124; -.
+DR   KEGG; cgl:NCgl2092; -.
+DR   PATRIC; 21496346; VBICorGlu203724_2109.
+DR   KO; K13787; -.
+DR   OMA; CLVWSDE; -.
+DR   BioCyc; CGLU1204414-WGS:GSME-2091-MONOMER; -.
+DR   EvolutionaryTrace; Q8NNM1; -.
+DR   Proteomes; UP000000582; Chromosome.
+DR   GO; GO:0004161; F:dimethylallyltranstransferase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0008299; P:isoprenoid biosynthetic process; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.600.10; -; 1.
+DR   InterPro; IPR008949; Isoprenoid_synthase_dom.
+DR   InterPro; IPR000092; Polyprenyl_synt.
+DR   InterPro; IPR017446; Polyprenyl_synth-rel.
+DR   PANTHER; PTHR12001; PTHR12001; 1.
+DR   Pfam; PF00348; polyprenyl_synt; 2.
+DR   SUPFAM; SSF48576; SSF48576; 1.
+DR   PROSITE; PS00723; POLYPRENYL_SYNTHASE_1; 1.
+DR   PROSITE; PS00444; POLYPRENYL_SYNTHASE_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3LK5, ECO:0000213|PDB:3QQV};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000582};
+KW   Isoprene biosynthesis {ECO:0000256|RuleBase:RU004466};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000582};
+KW   Transferase {ECO:0000256|RuleBase:RU004466,
+KW   ECO:0000313|EMBL:BAB99565.1}.
+SQ   SEQUENCE   371 AA;  40157 MW;  A2040246A298F5C0 CRC64;
+     MKDVSLSSFD AHDLDLDKFP EVVRDRLTQF LDAQELTIAD IGAPVTDAVA HLRSFVLNGG
+     KRIRPLYAWA GFLAAQGHKN SSEKLESVLD AAASLEFIQA CALIHDDIID SSDTRRGAPT
+     VHRAVEADHR ANNFEGDPEH FGVSVSILAG DMALVWAEDM LQDSGLSAEA LARTRDAWRG
+     MRTEVIGGQL LDIYLESHAN ESVELADSVN RFKTAAYTIA RPLHLGASIA GGSPQLIDAL
+     LHYGHDIGIA FQLRDDLLGV FGDPAITGKP AGDDIREGKR TVLLALALQR ADKQSPEAAT
+     AIRAGVGKVT SPEDIAVITE HIRATGAEEE VEQRISQLTE SGLAHLDDVD IPDEVRAQLR
+     ALAIRSTERR M
+//

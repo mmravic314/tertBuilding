@@ -1,0 +1,149 @@
+ID   HYDL_ARTAU              Reviewed;         458 AA.
+AC   P81006;
+DT   15-JUL-1998, integrated into UniProtKB/Swiss-Prot.
+DT   15-JUL-1998, sequence version 1.
+DT   24-JUN-2015, entry version 76.
+DE   RecName: Full=L-hydantoinase;
+DE            EC=3.5.2.-;
+DE   AltName: Full=Non-ATP-dependent L-selective hydantoinase;
+GN   Name=lhyD;
+OS   Arthrobacter aurescens.
+OC   Bacteria; Actinobacteria; Micrococcales; Micrococcaceae; Arthrobacter.
+OX   NCBI_TaxID=43663;
+RN   [1]
+RP   PROTEIN SEQUENCE.
+RC   STRAIN=DSM 3745;
+RX   PubMed=9687026;
+RA   May O., Habenicht A., Mattes R., Syldatk C., Siemann M.;
+RT   "Molecular evolution of hydantoinases.";
+RL   Biol. Chem. 379:743-747(1998).
+RN   [2]
+RP   PROTEIN SEQUENCE OF 1-40, CHARACTERIZATION, AND MASS SPECTROMETRY.
+RC   STRAIN=DSM 3745;
+RX   PubMed=9650283; DOI=10.1016/S0168-1656(98)00005-4;
+RA   May O., Siemann M., Pietzsch M., Kiess M., Mattes R., Syldatk C.;
+RT   "Substrate-dependent enantioselectivity of a novel hydantoinase from
+RT   Arthrobacter aurescens DSM 3745: purification and characterization as
+RT   new member of cyclic amidases.";
+RL   J. Biotechnol. 61:1-13(1998).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (2.6 ANGSTROMS).
+RC   STRAIN=DSM 3745;
+RX   PubMed=15299588; DOI=10.1107/S0907444996007731;
+RA   May O., Siemann M., Syldatk C., Niefind K., Schomburg D.;
+RT   "Crystallization and preliminary X-ray analysis of a hydantoinase from
+RT   Arthrobacter aurecens DSM 3745.";
+RL   Acta Crystallogr. D 52:1209-1210(1996).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (2.6 ANGSTROMS) IN COMPLEX WITH ZINC IONS,
+RP   SUBUNIT, AND CARBAMYLATION AT LYS-147.
+RX   PubMed=12093275; DOI=10.1021/bi0157722;
+RA   Abendroth J., Niefind K., May O., Siemann M., Syldatk C.,
+RA   Schomburg D.;
+RT   "The structure of L-hydantoinase from Arthobacter aurescens leads to
+RT   an understanding of dihydropyrimidinase substrate and enantio
+RT   specificity.";
+RL   Biochemistry 41:8589-8597(2002).
+CC   -!- FUNCTION: Rather more predominant for the cleavage of aryl- than
+CC       for alkyl-hydantoin derivatives. The stereoselectivity of this
+CC       enzyme depends on the substrate used for bioconversion: strictly
+CC       L-selective for the cleavage of D,L-5-indolylmethylhydantoin, but
+CC       D-selective for the hydrolysis of D,L-methylthioethylhydantoin.
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC       Note=Binds 2 Zn(2+) ions per subunit.;
+CC   -!- SUBUNIT: Homotetramer. {ECO:0000269|PubMed:12093275}.
+CC   -!- PTM: Carbamylation allows a single lysine to coordinate two zinc
+CC       ions. {ECO:0000269|PubMed:12093275}.
+CC   -!- MASS SPECTROMETRY: Mass=49680; Method=MALDI; Range=1-458;
+CC       Evidence={ECO:0000269|PubMed:9650283};
+CC   -!- SIMILARITY: Belongs to the DHOase family.
+CC       Hydantoinase/dihydropyrimidinase subfamily. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   PDB; 1GKR; X-ray; 2.60 A; A/B/C/D=1-458.
+DR   PDBsum; 1GKR; -.
+DR   ProteinModelPortal; P81006; -.
+DR   SMR; P81006; 1-451.
+DR   BRENDA; 3.5.2.2; 441.
+DR   EvolutionaryTrace; P81006; -.
+DR   GO; GO:0004038; F:allantoinase activity; IEA:InterPro.
+DR   GO; GO:0050897; F:cobalt ion binding; IEA:InterPro.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:InterPro.
+DR   GO; GO:0000256; P:allantoin catabolic process; IEA:InterPro.
+DR   Gene3D; 2.30.40.10; -; 2.
+DR   InterPro; IPR017593; Allantoinase.
+DR   InterPro; IPR011059; Metal-dep_hydrolase_composite.
+DR   SUPFAM; SSF51338; SSF51338; 2.
+DR   TIGRFAMs; TIGR03178; allantoinase; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Direct protein sequencing; Hydrolase; Metal-binding;
+KW   Zinc.
+FT   CHAIN         1    458       L-hydantoinase.
+FT                                /FTId=PRO_0000165938.
+FT   METAL        60     60       Zinc 1.
+FT   METAL        62     62       Zinc 1.
+FT   METAL       147    147       Zinc 1; via carbamate group.
+FT   METAL       147    147       Zinc 2; via carbamate group.
+FT   METAL       183    183       Zinc 2.
+FT   METAL       239    239       Zinc 2.
+FT   METAL       312    312       Zinc 1.
+FT   MOD_RES     147    147       N6-carboxylysine.
+FT                                {ECO:0000269|PubMed:12093275}.
+FT   STRAND        2     13       {ECO:0000244|PDB:1GKR}.
+FT   STRAND       16     25       {ECO:0000244|PDB:1GKR}.
+FT   STRAND       28     34       {ECO:0000244|PDB:1GKR}.
+FT   STRAND       41     46       {ECO:0000244|PDB:1GKR}.
+FT   STRAND       51     54       {ECO:0000244|PDB:1GKR}.
+FT   STRAND       56     62       {ECO:0000244|PDB:1GKR}.
+FT   HELIX        66     68       {ECO:0000244|PDB:1GKR}.
+FT   TURN         69     71       {ECO:0000244|PDB:1GKR}.
+FT   HELIX        75     85       {ECO:0000244|PDB:1GKR}.
+FT   STRAND       87     92       {ECO:0000244|PDB:1GKR}.
+FT   STRAND       96     98       {ECO:0000244|PDB:1GKR}.
+FT   HELIX       103    116       {ECO:0000244|PDB:1GKR}.
+FT   STRAND      118    126       {ECO:0000244|PDB:1GKR}.
+FT   HELIX       132    140       {ECO:0000244|PDB:1GKR}.
+FT   STRAND      145    151       {ECO:0000244|PDB:1GKR}.
+FT   TURN        155    157       {ECO:0000244|PDB:1GKR}.
+FT   HELIX       163    176       {ECO:0000244|PDB:1GKR}.
+FT   STRAND      179    183       {ECO:0000244|PDB:1GKR}.
+FT   HELIX       187    199       {ECO:0000244|PDB:1GKR}.
+FT   HELIX       205    211       {ECO:0000244|PDB:1GKR}.
+FT   HELIX       214    231       {ECO:0000244|PDB:1GKR}.
+FT   STRAND      234    237       {ECO:0000244|PDB:1GKR}.
+FT   HELIX       243    254       {ECO:0000244|PDB:1GKR}.
+FT   STRAND      259    263       {ECO:0000244|PDB:1GKR}.
+FT   HELIX       265    268       {ECO:0000244|PDB:1GKR}.
+FT   HELIX       272    274       {ECO:0000244|PDB:1GKR}.
+FT   HELIX       275    278       {ECO:0000244|PDB:1GKR}.
+FT   HELIX       279    282       {ECO:0000244|PDB:1GKR}.
+FT   HELIX       291    302       {ECO:0000244|PDB:1GKR}.
+FT   HELIX       318    320       {ECO:0000244|PDB:1GKR}.
+FT   HELIX       322    325       {ECO:0000244|PDB:1GKR}.
+FT   HELIX       328    330       {ECO:0000244|PDB:1GKR}.
+FT   TURN        338    340       {ECO:0000244|PDB:1GKR}.
+FT   HELIX       341    348       {ECO:0000244|PDB:1GKR}.
+FT   TURN        349    353       {ECO:0000244|PDB:1GKR}.
+FT   HELIX       357    364       {ECO:0000244|PDB:1GKR}.
+FT   HELIX       366    371       {ECO:0000244|PDB:1GKR}.
+FT   TURN        375    377       {ECO:0000244|PDB:1GKR}.
+FT   STRAND      378    380       {ECO:0000244|PDB:1GKR}.
+FT   STRAND      389    394       {ECO:0000244|PDB:1GKR}.
+FT   HELIX       402    404       {ECO:0000244|PDB:1GKR}.
+FT   STRAND      406    408       {ECO:0000244|PDB:1GKR}.
+FT   TURN        413    416       {ECO:0000244|PDB:1GKR}.
+FT   STRAND      422    428       {ECO:0000244|PDB:1GKR}.
+FT   STRAND      431    435       {ECO:0000244|PDB:1GKR}.
+SQ   SEQUENCE   458 AA;  49597 MW;  A0A78C492E461CFE CRC64;
+     MFDVIVKNCR LVSSDGITEA DILVKDGKVA AISADTSDVE ASRTIDAGGK FVMPGVVDEH
+     VHIIDMDLKN RYGRFELDSE SAAVGGITTI IEMPITFPPT TTLDAFLEKK KQAGQRLKVD
+     FALYGGGVPG NLPEIRKMHD AGAVGFKSMM AASVPGMFDA VSDGELFEIF QEIAACGSVI
+     VVHAENETII QALQKQIKAA GGKDMAAYEA SQPVFQENEA IQRALLLQKE AGCRLIVLHV
+     SNPDGVELIH QAQSEGQDVH CESGPQYLNI TTDDAERIGP YMKVAPPVRS AEMNIRLWEQ
+     LENGLIDTLG SDHGGHPVED KEPGWKDVWK AGNGALGLET SLPMMLTNGV NKGRLSLERL
+     VEVMCEKPAK LFGIYPQKGT LQVGSDADLL ILDLDIDTKV DASQFRSLHK YSPFDGMPVT
+     GAPVLTMVRG TVVAEKGEVL VEQGFGQFVT RRNYEASK
+//

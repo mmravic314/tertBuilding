@@ -1,0 +1,83 @@
+ID   A6LC72_PARD8            Unreviewed;       241 AA.
+AC   A6LC72;
+DT   24-JUL-2007, integrated into UniProtKB/TrEMBL.
+DT   24-JUL-2007, sequence version 1.
+DT   22-JUL-2015, entry version 48.
+DE   SubName: Full=Putative metal-dependent hydrolase {ECO:0000313|EMBL:ABR43286.1};
+GN   OrderedLocusNames=BDI_1531 {ECO:0000313|EMBL:ABR43286.1};
+OS   Parabacteroides distasonis (strain ATCC 8503 / DSM 20701 / NCTC
+OS   11152).
+OC   Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales;
+OC   Porphyromonadaceae; Parabacteroides.
+OX   NCBI_TaxID=435591 {ECO:0000313|EMBL:ABR43286.1, ECO:0000313|Proteomes:UP000000566};
+RN   [1] {ECO:0000313|EMBL:ABR43286.1, ECO:0000313|Proteomes:UP000000566}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 8503 / DSM 20701 / NCTC 11152
+RC   {ECO:0000313|Proteomes:UP000000566};
+RX   PubMed=17579514; DOI=10.1371/journal.pbio.0050156;
+RA   Xu J., Mahowald M.A., Ley R.E., Lozupone C.A., Hamady M.,
+RA   Martens E.C., Henrissat B., Coutinho P.M., Minx P., Latreille P.,
+RA   Cordum H., Van Brunt A., Kim K., Fulton R.S., Fulton L.A.,
+RA   Clifton S.W., Wilson R.K., Knight R.D., Gordon J.I.;
+RT   "Evolution of symbiotic bacteria in the distal human intestine.";
+RL   PLoS Biol. 5:1574-1586(2007).
+RN   [2] {ECO:0000213|PDB:3KL7}
+RP   X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) OF 26-241 IN COMPLEX WITH ZINC.
+RG   Joint Center for Structural Genomics (JCSG);
+RT   "Crystal structure of Putative metal-dependent hydrolase
+RT   (YP_001302908.1) from Parabacteroides distasonis ATCC 8503 at 2.30 A
+RT   resolution.";
+RL   Submitted (NOV-2009) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP000140; ABR43286.1; -; Genomic_DNA.
+DR   RefSeq; WP_011966494.1; NC_009615.1.
+DR   PDB; 3KL7; X-ray; 2.30 A; A=26-241.
+DR   PDBsum; 3KL7; -.
+DR   ProteinModelPortal; A6LC72; -.
+DR   STRING; 435591.BDI_1531; -.
+DR   EnsemblBacteria; ABR43286; ABR43286; BDI_1531.
+DR   GeneID; 5306684; -.
+DR   KEGG; pdi:BDI_1531; -.
+DR   PATRIC; 22846240; VBIParDis29947_1518.
+DR   eggNOG; COG2220; -.
+DR   HOGENOM; HOG000223952; -.
+DR   OMA; PAYNHED; -.
+DR   OrthoDB; EOG6S26G0; -.
+DR   BioCyc; PDIS435591:GCNH-1529-MONOMER; -.
+DR   EvolutionaryTrace; A6LC72; -.
+DR   Proteomes; UP000000566; Chromosome.
+DR   GO; GO:0016787; F:hydrolase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.60.15.10; -; 1.
+DR   InterPro; IPR001279; Beta-lactamas-like.
+DR   SUPFAM; SSF56281; SSF56281; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3KL7};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000566};
+KW   Hydrolase {ECO:0000313|EMBL:ABR43286.1};
+KW   Metal-binding {ECO:0000213|PDB:3KL7};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000566};
+KW   Zinc {ECO:0000213|PDB:3KL7}.
+FT   METAL        79     79       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3KL7}.
+FT   METAL        81     81       Zinc 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3KL7}.
+FT   METAL        83     83       Zinc 2. {ECO:0000213|PDB:3KL7}.
+FT   METAL        84     84       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3KL7}.
+FT   METAL       146    146       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3KL7}.
+FT   METAL       168    168       Zinc 1. {ECO:0000213|PDB:3KL7}.
+FT   METAL       168    168       Zinc 2. {ECO:0000213|PDB:3KL7}.
+FT   METAL       215    215       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3KL7}.
+SQ   SEQUENCE   241 AA;  27022 MW;  9274560AEA80670D CRC64;
+     MRLKSCMLMC SLFMASLASA SNFASDSFKT KSGKELTITF IKHGSLMLTY DNHSIQVDPV
+     SEYADYTTFP KADIILITHE HGDHLDPKAI QAVEKSDTEI IANENSQKKL GKGKVLKNGD
+     TDTSISYMKI EAVPAYNTTP GRDKYHPRHR DNGYILTFDG LRVYIAGDTE DIPEMKDLKD
+     IDIAFLPVNQ PYTMTVSQAA KAARMFSPKI LYPYHYGDTK IGELKDALKD SGIDVRIREL
+     Q
+//

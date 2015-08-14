@@ -1,0 +1,737 @@
+ID   PAG_BACAN               Reviewed;         764 AA.
+AC   P13423; Q937W2; Q937W3; Q9F5R7; Q9KH69; Q9RQU2;
+DT   01-JAN-1990, integrated into UniProtKB/Swiss-Prot.
+DT   18-OCT-2001, sequence version 2.
+DT   22-JUL-2015, entry version 152.
+DE   RecName: Full=Protective antigen;
+DE            Short=PA;
+DE   AltName: Full=Anthrax toxins translocating protein;
+DE   AltName: Full=PA-83;
+DE            Short=PA83;
+DE   Contains:
+DE     RecName: Full=Protective antigen PA-20;
+DE              Short=PA20;
+DE   Contains:
+DE     RecName: Full=Protective antigen PA-63;
+DE              Short=PA63;
+DE   Flags: Precursor;
+GN   Name=pagA; Synonyms=pag;
+GN   OrderedLocusNames=pXO1-110, BXA0164, GBAA_pXO1_0164;
+OS   Bacillus anthracis.
+OG   Plasmid pXO1.
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus;
+OC   Bacillus cereus group.
+OX   NCBI_TaxID=1392;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=3148491; DOI=10.1016/0378-1119(88)90439-8;
+RA   Welkos S.L., Lowe J.R., Eden-Mccutchan F., Vodkin M., Leppla S.H.,
+RA   Schmidt J.J.;
+RT   "Sequence and analysis of the DNA encoding protective antigen of
+RT   Bacillus anthracis.";
+RL   Gene 69:287-300(1988).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=28, 33, BA1024, and BA1035;
+RX   PubMed=10197996;
+RA   Price L.B., Hugh-Jones M., Jackson P.J., Keim P.;
+RT   "Genetic diversity in the protective antigen gene of Bacillus
+RT   anthracis.";
+RL   J. Bacteriol. 181:2358-2362(1999).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=V770-NP1-R / ATCC 14185;
+RX   PubMed=10899854; DOI=10.1128/IAI.68.8.4549-4558.2000;
+RA   Cohen S., Mendelson I., Altboum Z., Kobiler D., Elhanany E., Bino T.,
+RA   Leitner M., Inbar I., Rosenberg H., Gozes Y., Barak R., Fisher M.,
+RA   Kronman C., Velan B., Shafferman A.;
+RT   "Attenuated nontoxinogenic and nonencapsulated recombinant Bacillus
+RT   anthracis spore vaccines protect against anthrax.";
+RL   Infect. Immun. 68:4549-4558(2000).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Sterne;
+RX   PubMed=10515943;
+RA   Okinaka R.T., Cloud K., Hampton O., Hoffmaster A.R., Hill K.K.,
+RA   Keim P., Koehler T.M., Lamke G., Kumano S., Mahillon J., Manter D.,
+RA   Martinez Y., Ricke D., Svensson R., Jackson P.J.;
+RT   "Sequence and organization of pXO1, the large Bacillus anthracis
+RT   plasmid harboring the anthrax toxin genes.";
+RL   J. Bacteriol. 181:6509-6515(1999).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=Ames / isolate Florida / A2012;
+RX   PubMed=12004073; DOI=10.1126/science.1071837;
+RA   Read T.D., Salzberg S.L., Pop M., Shumway M.F., Umayam L., Jiang L.,
+RA   Holtzapple E., Busch J.D., Smith K.L., Schupp J.M., Solomon D.,
+RA   Keim P., Fraser C.M.;
+RT   "Comparative genome sequencing for discovery of novel polymorphisms in
+RT   Bacillus anthracis.";
+RL   Science 296:2028-2033(2002).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Ames ancestor;
+RX   PubMed=18952800; DOI=10.1128/JB.01347-08;
+RA   Ravel J., Jiang L., Stanley S.T., Wilson M.R., Decker R.S., Read T.D.,
+RA   Worsham P., Keim P.S., Salzberg S.L., Fraser-Liggett C.M., Rasko D.A.;
+RT   "The complete genome sequence of Bacillus anthracis Ames 'Ancestor'.";
+RL   J. Bacteriol. 191:445-446(2009).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 9-751.
+RC   STRAIN=Carbosap, and Ferrara;
+RX   PubMed=12067380; DOI=10.1046/j.1365-2672.2002.01660.x;
+RA   Adone R., Pasquali P., La Rosa G., Marianelli C., Muscillo M.,
+RA   Fasanella A., Francia M., Ciuchini F.;
+RT   "Sequence analysis of the genes encoding for the major virulence
+RT   factors of Bacillus anthracis vaccine strain 'Carbosap'.";
+RL   J. Appl. Microbiol. 93:117-121(2002).
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 195-434.
+RC   STRAIN=PAI;
+RX   PubMed=14985634;
+RA   Inoue S., Noguchi A., Tanabayashi K., Yamada A.;
+RT   "Preparation of a positive control DNA for molecular diagnosis of
+RT   Bacillus anthracis.";
+RL   Jpn. J. Infect. Dis. 57:29-32(2004).
+RN   [9]
+RP   DOMAINS.
+RX   PubMed=1651334;
+RA   Singh Y., Klimpel K.R., Quinn C.P., Chaudhary V.K., Leppla S.H.;
+RT   "The carboxyl-terminal end of protective antigen is required for
+RT   receptor binding and anthrax toxin activity.";
+RL   J. Biol. Chem. 266:15493-15497(1991).
+RN   [10]
+RP   CHARACTERIZATION.
+RC   STRAIN=Sterne;
+RX   PubMed=8051159;
+RA   Milne J.C., Furlong D., Hanna P.C., Wall J.S., Collier R.J.;
+RT   "Anthrax protective antigen forms oligomers during intoxication of
+RT   mammalian cells.";
+RL   J. Biol. Chem. 269:20607-20612(1994).
+RN   [11]
+RP   CHARACTERIZATION.
+RX   PubMed=11207581; DOI=10.1046/j.1462-5822.2000.00052.x;
+RA   Beauregard K.E., Collier R.J., Swanson J.A.;
+RT   "Proteolytic activation of receptor-bound anthrax protective antigen
+RT   on macrophages promotes its internalization.";
+RL   Cell. Microbiol. 2:251-258(2000).
+RN   [12]
+RP   TOXIN REGULATION.
+RC   STRAIN=Weybridge;
+RX   PubMed=8300513;
+RA   Koehler T.M., Dai Z., Kaufman-Yarbray M.;
+RT   "Regulation of the Bacillus anthracis protective antigen gene: CO2 and
+RT   a trans-acting element activate transcription from one of two
+RT   promoters.";
+RL   J. Bacteriol. 176:586-595(1994).
+RN   [13]
+RP   FOLDING BY PSRA.
+RX   PubMed=12606539; DOI=10.1074/jbc.M301244200;
+RA   Williams R.C., Rees M.L., Jacobs M.F., Pragai Z., Thwaite J.E.,
+RA   Baillie L.W., Emmerson P.T., Harwood C.R.;
+RT   "Production of Bacillus anthracis protective antigen is dependent on
+RT   the extracellular chaperone, PrsA.";
+RL   J. Biol. Chem. 278:18056-18062(2003).
+RN   [14]
+RP   INTERACTION WITH ANTHRAX TOXIN RECEPTOR.
+RX   PubMed=14507921; DOI=10.1074/jbc.M307900200;
+RA   Bradley K.A., Mogridge J., Jonah G., Rainey G.J.A., Batty S.,
+RA   Young J.A.T.;
+RT   "Binding of anthrax toxin to its receptor is similar to alpha
+RT   integrin-ligand interactions.";
+RL   J. Biol. Chem. 278:49342-49347(2003).
+RN   [15]
+RP   MUTAGENESIS OF 342-PHE-PHE-343 AND ASP-344.
+RC   STRAIN=Sterne;
+RX   PubMed=7961869;
+RA   Singh Y., Klimpel K.R., Arora N., Sharma M., Leppla S.H.;
+RT   "The chymotrypsin-sensitive site, FFD315, in anthrax toxin protective
+RT   antigen is required for translocation of lethal factor.";
+RL   J. Biol. Chem. 269:29039-29046(1994).
+RN   [16]
+RP   MUTAGENESIS OF DOMAIN 4 LOOPS.
+RC   STRAIN=Sterne;
+RX   PubMed=10085028;
+RA   Varughese M., Teixeira A.V., Liu S., Leppla S.H.;
+RT   "Identification of a receptor-binding region within domain 4 of the
+RT   protective antigen component of anthrax toxin.";
+RL   Infect. Immun. 67:1860-1865(1999).
+RN   [17]
+RP   MUTAGENESIS OF TRP-375; MET-379 AND LEU-381.
+RC   STRAIN=Sterne;
+RX   PubMed=11178978; DOI=10.1006/bbrc.2001.4320;
+RA   Batra S., Gupta P., Chauhan V., Singh A., Bhatnagar R.;
+RT   "Trp 346 and Leu 352 residues in protective antigen are required for
+RT   the expression of anthrax lethal toxin activity.";
+RL   Biochem. Biophys. Res. Commun. 281:186-192(2001).
+RN   [18]
+RP   MUTAGENESIS OF PHE-581; PHE-583; ILE-591; LEU-595 AND ILE-603.
+RC   STRAIN=Sterne;
+RX   PubMed=11554763; DOI=10.1006/bbrc.2001.5613;
+RA   Ahuja N., Kumar P., Bhatnagar R.;
+RT   "Hydrophobic residues Phe552, Phe554, Ile562, Leu566, and Ile574 are
+RT   required for oligomerization of anthrax protective antigen.";
+RL   Biochem. Biophys. Res. Commun. 287:542-549(2001).
+RN   [19]
+RP   MUTAGENESIS OF PRO-289.
+RC   STRAIN=Sterne;
+RX   PubMed=11356563; DOI=10.1111/j.1574-6968.2001.tb10646.x;
+RA   Khanna H., Chopra A.P., Arora N., Chaudhry A., Singh Y.;
+RT   "Role of residues constituting the 2beta1 strand of domain II in the
+RT   biological activity of anthrax protective antigen.";
+RL   FEMS Microbiol. Lett. 199:27-31(2001).
+RN   [20]
+RP   MUTAGENESIS OF GLN-512; ASP-541; LEU-543 AND ARG-621.
+RX   PubMed=11222612; DOI=10.1128/JB.183.6.2111-2116.2001;
+RA   Mogridge J., Mourez M., Collier R.J.;
+RT   "Involvement of domain 3 in oligomerization by the protective antigen
+RT   moiety of anthrax toxin.";
+RL   J. Bacteriol. 183:2111-2116(2001).
+RN   [21]
+RP   MUTAGENESIS OF LYS-426; ASP-454 AND PHE-456.
+RX   PubMed=11113126; DOI=10.1074/jbc.M008309200;
+RA   Sellman B.R., Nassi S., Collier R.J.;
+RT   "Point mutations in anthrax protective antigen that block
+RT   translocation.";
+RL   J. Biol. Chem. 276:8371-8376(2001).
+RN   [22]
+RP   MUTAGENESIS OF PRO-213; LEU-216; PHE-231; LEU-232; PRO-234; ILE-236;
+RP   ILE-239; TRP-255 AND PHE-265.
+RC   STRAIN=Sterne;
+RX   PubMed=12117959; DOI=10.1128/IAI.70.8.4477-4484.2002;
+RA   Chauhan V., Bhatnagar R.;
+RT   "Identification of amino acid residues of anthrax protective antigen
+RT   involved in binding with lethal factor.";
+RL   Infect. Immun. 70:4477-4484(2002).
+RN   [23]
+RP   MUTAGENESIS OF ILE-393; THR-409; SER-411; THR-422; LYS-426; ASN-428;
+RP   TYR-440; ASN-451; ASP-454 AND PHE-456.
+RX   PubMed=14623961; DOI=10.1073/pnas.2436299100;
+RA   Mourez M., Yan M., Lacy D.B., Dillon L., Bentsen L., Marpoe A.,
+RA   Maurin C., Hotze E., Wigelsworth D., Pimental R.-A., Ballard J.D.,
+RA   Collier R.J., Tweten R.K.;
+RT   "Mapping dominant-negative mutations of anthrax protective antigen by
+RT   scanning mutagenesis.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 100:13803-13808(2003).
+RN   [24]
+RP   MUTAGENESIS OF ASN-686; LYS-708; LYS-709; TYR-710; ASN-711; ASP-712;
+RP   LYS-713; LEU-714; PRO-715; LEU-716; TYR-717; ILE-718; ASN-720; PRO-721
+RP   AND ASN-722.
+RX   PubMed=12771151; DOI=10.1074/jbc.M301154200;
+RA   Rosovitz M.J., Schuck P., Varughese M., Chopra A.P., Mehra V.,
+RA   Singh Y., McGinnis L.M., Leppla S.H.;
+RT   "Alanine-scanning mutations in domain 4 of anthrax toxin protective
+RT   antigen reveal residues important for binding to the cellular receptor
+RT   and to a neutralizing monoclonal antibody.";
+RL   J. Biol. Chem. 278:30936-30944(2003).
+RN   [25]
+RP   X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS).
+RX   PubMed=9039918; DOI=10.1038/385833a0;
+RA   Petosa C., Collier R.J., Klimpel K.R., Leppla S.H., Liddington R.C.;
+RT   "Crystal structure of the anthrax toxin protective antigen.";
+RL   Nature 385:833-838(1997).
+RN   [26]
+RP   X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS) OF 30-764 IN COMPLEX WITH
+RP   ANTXR2.
+RX   PubMed=15243628; DOI=10.1038/nature02763;
+RA   Santelli E., Bankston L.A., Leppla S.H., Liddington R.C.;
+RT   "Crystal structure of a complex between anthrax toxin and its host
+RT   cell receptor.";
+RL   Nature 430:905-908(2004).
+RN   [27]
+RP   X-RAY CRYSTALLOGRAPHY (4.3 ANGSTROMS) OF 203-764 IN COMPLEX WITH
+RP   ANTXR2.
+RX   PubMed=15326297; DOI=10.1073/pnas.0405405101;
+RA   Lacy D.B., Wigelsworth D.J., Melnyk R.A., Harrison S.C., Collier R.J.;
+RT   "Structure of heptameric protective antigen bound to an anthrax toxin
+RT   receptor: a role for receptor in pH-dependent pore formation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 101:13147-13151(2004).
+RN   [28]
+RP   REVIEW.
+RX   PubMed=11544370; DOI=10.1146/annurev.micro.55.1.647;
+RA   Mock M., Fouet A.;
+RT   "Anthrax.";
+RL   Annu. Rev. Microbiol. 55:647-671(2001).
+CC   -!- FUNCTION: One of the three proteins composing the anthrax toxin,
+CC       the agent which infects many mammalian species and that may cause
+CC       death. PA binds to a receptor (ATR) in sensitive eukaryotic cells,
+CC       thereby facilitating the translocation of the enzymatic toxin
+CC       components, edema factor and lethal factor, across the target cell
+CC       membrane. PA associated with LF causes death when injected, PA
+CC       associated with EF produces edema. PA induces immunity to
+CC       infection with anthrax.
+CC   -!- SUBUNIT: Anthrax toxins are composed of three distinct proteins, a
+CC       protective antigen (PA), a lethal factor (LF) and an edema factor
+CC       (EF). None of these is toxic by itself. PA+LF forms the lethal
+CC       toxin (LeTx); PA+EF forms the edema toxin (EdTx). PA-63 forms
+CC       heptamers and this oligomerization is required for LF or EF
+CC       binding. This complex is endocytosed by the host. Once activated,
+CC       at low pH, the heptamer undergoes conformational changes and
+CC       converts from prepore to pore inserted in the membrane, forming
+CC       cation-selective channels and triggering the release of LF and EF
+CC       in the host cytoplasm. {ECO:0000269|PubMed:15243628,
+CC       ECO:0000269|PubMed:15326297}.
+CC   -!- INTERACTION:
+CC       Self; NbExp=2; IntAct=EBI-456868, EBI-456868;
+CC       Q9H6X2-2:ANTXR1 (xeno); NbExp=3; IntAct=EBI-456868, EBI-905659;
+CC       P58335:ANTXR2 (xeno); NbExp=7; IntAct=EBI-456868, EBI-456840;
+CC       P15917:lef; NbExp=5; IntAct=EBI-456868, EBI-456923;
+CC   -!- SUBCELLULAR LOCATION: Secreted, extracellular space. Note=Secreted
+CC       through the Sec-dependent secretion pathway. Therefore, PA is
+CC       translocated across the membrane in an unfolded state and then it
+CC       is folded into its native configuration on the trans side of the
+CC       membrane, prior to its release to the environment. PA requires the
+CC       extracellular chaperone PrsA for efficient folding.
+CC   -!- DOMAIN: The molecule is folded into four functional domains. Each
+CC       domain is required for a particular step in the toxicity process.
+CC       Domain 1 contains two calcium ions and the proteolytic activation
+CC       site. Cleavage of the PA monomer releases the subdomain 1a, which
+CC       is the N-terminal fragment of 20-kDa (PA20). The subdomain 1b is
+CC       part of the remaining 63-kDa fragment (PA63) and contains the
+CC       binding sites for LP and EF. Domain 2 is a beta-barrel core
+CC       containing a large flexible loop that has been implicated in
+CC       membrane insertion and pore formation. There is a chymotrypsin
+CC       cleavage site in this loop that is required for toxicity. Domain 3
+CC       has a hydrophobic patch thought to be involved in protein-protein
+CC       interactions. Domain 4 appears to be a separate domain and shows
+CC       limited contact with the other three domains: it would swing out
+CC       of the way during membrane insertion. It is required for binding
+CC       to the receptor; the small loop is involved in receptor
+CC       recognition. {ECO:0000269|PubMed:1651334}.
+CC   -!- PTM: Proteolytic activation by furin or a furin-like protease
+CC       cleaves the protein in two parts, PA-20 and PA-63; the latter is
+CC       the mature protein. The cleavage occurs at the cell surface and
+CC       probably in the serum of infected animals as well; both native and
+CC       cleaved PA are able to bind to the cell receptor. The release of
+CC       PA20 from the remaining receptor-bound PA63 exposes the binding
+CC       site for EF and LF, and promotes oligomerization and
+CC       internalization of the protein.
+CC   -!- MISCELLANEOUS: In PubMed:10085028 multiple mutagenesis experiments
+CC       were performed that showed that the residues present in the small
+CC       loop of domain 4, and not the ones in the large loop, are involved
+CC       in receptor recognition. In PubMed:14623961 high-throughput
+CC       scanning mutagenesis experiments were performed in which all
+CC       residues of PA-63 were mutated into Cys. Dominantly negative (DN)
+CC       mutants were all clustered in domain 2. DN mutants prevent the
+CC       conformational transition of PA-63 from the prepore to the pore
+CC       state.
+CC   -!- SIMILARITY: Belongs to the bacterial binary toxin family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M22589; AAA22637.1; -; Genomic_DNA.
+DR   EMBL; AF306778; AAG24446.1; -; Genomic_DNA.
+DR   EMBL; AF306779; AAG24447.1; -; Genomic_DNA.
+DR   EMBL; AF306780; AAG24448.1; -; Genomic_DNA.
+DR   EMBL; AF306781; AAG24449.1; -; Genomic_DNA.
+DR   EMBL; AF306782; AAG24450.1; -; Genomic_DNA.
+DR   EMBL; AF306783; AAG24451.1; -; Genomic_DNA.
+DR   EMBL; AF268967; AAF86457.1; -; Genomic_DNA.
+DR   EMBL; AF065404; AAD32414.1; -; Genomic_DNA.
+DR   EMBL; AE011190; AAM26109.1; -; Genomic_DNA.
+DR   EMBL; AE017336; AAT28905.2; -; Genomic_DNA.
+DR   EMBL; AJ413936; CAC93934.1; -; Genomic_DNA.
+DR   EMBL; AJ413937; CAC93935.1; -; Genomic_DNA.
+DR   EMBL; AB125961; BAD14937.1; -; Genomic_DNA.
+DR   PIR; I39934; I39934.
+DR   RefSeq; NP_052806.1; NC_001496.1.
+DR   RefSeq; WP_000746486.1; NZ_KN050652.1.
+DR   RefSeq; WP_000746487.1; NZ_JTAQ01000005.1.
+DR   RefSeq; WP_000746488.1; NZ_CP009463.1.
+DR   RefSeq; YP_009076489.1; NG_035311.1.
+DR   RefSeq; YP_009076589.1; NG_036934.1.
+DR   RefSeq; YP_009083333.1; NG_036935.1.
+DR   RefSeq; YP_009083334.1; NG_036936.1.
+DR   RefSeq; YP_009083335.1; NG_036937.1.
+DR   RefSeq; YP_009083336.1; NG_036938.1.
+DR   RefSeq; YP_009083337.1; NG_035343.1.
+DR   PDB; 1ACC; X-ray; 2.10 A; A=30-764.
+DR   PDB; 1T6B; X-ray; 2.50 A; X=30-764.
+DR   PDB; 1TX5; Model; -; C=30-764.
+DR   PDB; 1TZN; X-ray; 4.30 A; A/B/C/D/E/F/G/H/I/J/K/L/M/O=203-764.
+DR   PDB; 1TZO; X-ray; 3.60 A; A/B/C/D/E/F/G/H/I/J/K/L/M/O=203-764.
+DR   PDB; 1V36; Model; -; A/B/C/D/E/F/G=197-764.
+DR   PDB; 3ETB; X-ray; 3.80 A; J/K/L/M=621-764.
+DR   PDB; 3INO; X-ray; 1.95 A; A/B=624-764.
+DR   PDB; 3J9C; EM; 2.90 A; A=203-764.
+DR   PDB; 3KWV; X-ray; 3.10 A; A/B/D/E=197-764.
+DR   PDB; 3MHZ; X-ray; 1.70 A; A=30-764.
+DR   PDB; 3Q8A; X-ray; 3.13 A; A=30-764.
+DR   PDB; 3Q8B; X-ray; 2.00 A; A=30-764.
+DR   PDB; 3Q8C; X-ray; 2.85 A; A=30-764.
+DR   PDB; 3Q8E; X-ray; 2.10 A; A=30-764.
+DR   PDB; 3Q8F; X-ray; 2.10 A; A=30-764.
+DR   PDB; 3TEW; X-ray; 1.45 A; A=30-764.
+DR   PDB; 3TEX; X-ray; 1.70 A; A=30-764.
+DR   PDB; 3TEY; X-ray; 2.12 A; A=30-764.
+DR   PDB; 3TEZ; X-ray; 1.83 A; A=30-764.
+DR   PDB; 4EE2; X-ray; 1.91 A; A=30-764.
+DR   PDB; 4H2A; X-ray; 1.62 A; A=30-764.
+DR   PDB; 4NAM; X-ray; 1.70 A; A=30-764.
+DR   PDBsum; 1ACC; -.
+DR   PDBsum; 1T6B; -.
+DR   PDBsum; 1TX5; -.
+DR   PDBsum; 1TZN; -.
+DR   PDBsum; 1TZO; -.
+DR   PDBsum; 1V36; -.
+DR   PDBsum; 3ETB; -.
+DR   PDBsum; 3INO; -.
+DR   PDBsum; 3J9C; -.
+DR   PDBsum; 3KWV; -.
+DR   PDBsum; 3MHZ; -.
+DR   PDBsum; 3Q8A; -.
+DR   PDBsum; 3Q8B; -.
+DR   PDBsum; 3Q8C; -.
+DR   PDBsum; 3Q8E; -.
+DR   PDBsum; 3Q8F; -.
+DR   PDBsum; 3TEW; -.
+DR   PDBsum; 3TEX; -.
+DR   PDBsum; 3TEY; -.
+DR   PDBsum; 3TEZ; -.
+DR   PDBsum; 4EE2; -.
+DR   PDBsum; 4H2A; -.
+DR   PDBsum; 4NAM; -.
+DR   ProteinModelPortal; P13423; -.
+DR   SMR; P13423; 45-764.
+DR   DIP; DIP-29841N; -.
+DR   IntAct; P13423; 15.
+DR   MINT; MINT-7014733; -.
+DR   BindingDB; P13423; -.
+DR   ChEMBL; CHEMBL3301396; -.
+DR   DrugBank; DB08902; Raxibacumab.
+DR   TCDB; 1.C.42.1.1; the channel-forming bacillus anthracis protective antigen (bapa) family.
+DR   EnsemblBacteria; AAT28905; AAT28905; GBAA_pXO1_0164.
+DR   GeneID; 3361714; -.
+DR   KEGG; bar:GBAA_pXO1_0164; -.
+DR   KEGG; pg:3361714; -.
+DR   PATRIC; 24662127; VBIBacAnt106580_0153.
+DR   eggNOG; NOG284171; -.
+DR   HOGENOM; HOG000034566; -.
+DR   KO; K11030; -.
+DR   OMA; ISTNEHA; -.
+DR   OrthoDB; EOG6D5FXS; -.
+DR   BioCyc; ANTHRA:GBAA_PXO1_0164-MONOMER; -.
+DR   BioCyc; BANT261594:GJ7F-5750-MONOMER; -.
+DR   Reactome; REACT_264618; Uptake and function of anthrax toxins.
+DR   EvolutionaryTrace; P13423; -.
+DR   PMAP-CutDB; P13423; -.
+DR   PRO; PR:P13423; -.
+DR   Proteomes; UP000000594; Plasmid pXO1.
+DR   GO; GO:0010008; C:endosome membrane; TAS:Reactome.
+DR   GO; GO:0005576; C:extracellular region; TAS:Reactome.
+DR   GO; GO:0005615; C:extracellular space; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005886; C:plasma membrane; TAS:Reactome.
+DR   GO; GO:0042802; F:identical protein binding; IPI:IntAct.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0009405; P:pathogenesis; IEA:UniProtKB-KW.
+DR   GO; GO:0051260; P:protein homooligomerization; IEA:InterPro.
+DR   Gene3D; 2.60.120.240; -; 1.
+DR   Gene3D; 2.60.40.810; -; 1.
+DR   Gene3D; 3.10.20.110; -; 1.
+DR   Gene3D; 3.90.182.10; -; 1.
+DR   InterPro; IPR003896; Bacterial_exotoxin_B.
+DR   InterPro; IPR023125; Bacterial_exotoxin_B_Fd-like.
+DR   InterPro; IPR011658; PA14.
+DR   InterPro; IPR027441; PA_dom4.
+DR   InterPro; IPR027439; PA_heptamer_dom.
+DR   Pfam; PF03495; Binary_toxB; 1.
+DR   Pfam; PF07691; PA14; 1.
+DR   PRINTS; PR01391; BINARYTOXINB.
+DR   SMART; SM00758; PA14; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Calcium; Cleavage on pair of basic residues;
+KW   Complete proteome; Metal-binding; Plasmid; Reference proteome;
+KW   Secreted; Signal; Toxin; Virulence.
+FT   SIGNAL        1     29
+FT   CHAIN        30    764       Protective antigen.
+FT                                /FTId=PRO_0000021996.
+FT   CHAIN        30    196       Protective antigen PA-20.
+FT                                /FTId=PRO_0000021997.
+FT   CHAIN       197    764       Protective antigen PA-63.
+FT                                /FTId=PRO_0000021998.
+FT   REGION       30    287       Domain 1, calcium-binding; LF and EF
+FT                                binding sites.
+FT   REGION      288    516       Domain 2, membrane insertion and
+FT                                heptamerization.
+FT   REGION      517    624       Domain 3, heptamerization.
+FT   REGION      625    764       Domain 4, binding to the receptor.
+FT   METAL       206    206       Calcium.
+FT   METAL       208    208       Calcium.
+FT   METAL       210    210       Calcium.
+FT   METAL       217    217       Calcium.
+FT   SITE        196    197       Cleavage; by furin.
+FT   SITE        343    344       Cleavage; by chymotrypsin; required for
+FT                                translocation of LF and EF.
+FT   SITE        712    712       Essential for binding to cell receptor.
+FT   VARIANT     295    295       M -> I (in strain: PAI).
+FT   VARIANT     392    392       N -> D (in strain: PAI).
+FT   VARIANT     560    560       F -> L (in Sverdlovsk sample).
+FT   VARIANT     565    565       P -> S (in strain: BA1024).
+FT   VARIANT     600    600       A -> V (in strain: BA1024, V770-NP1-R,
+FT                                Carbosap and Ferrara).
+FT   MUTAGEN     213    213       P->A: Decrease in the ability to bind to
+FT                                LF and partially toxic at high
+FT                                concentrations.
+FT                                {ECO:0000269|PubMed:12117959}.
+FT   MUTAGEN     216    216       L->A: Decrease in the ability to bind to
+FT                                LF and partially toxic at high
+FT                                concentrations.
+FT                                {ECO:0000269|PubMed:12117959}.
+FT   MUTAGEN     231    231       F->A: Loss of ability to bind to LF and
+FT                                completely nontoxic.
+FT                                {ECO:0000269|PubMed:12117959}.
+FT   MUTAGEN     232    232       L->A: Loss of ability to bind to LF and
+FT                                completely nontoxic.
+FT                                {ECO:0000269|PubMed:12117959}.
+FT   MUTAGEN     234    234       P->A: Loss of ability to bind to LF and
+FT                                completely nontoxic.
+FT                                {ECO:0000269|PubMed:12117959}.
+FT   MUTAGEN     236    236       I->A: Loss of ability to bind to LF and
+FT                                completely nontoxic.
+FT                                {ECO:0000269|PubMed:12117959}.
+FT   MUTAGEN     239    239       I->A: Decrease in the ability to bind to
+FT                                LF and partially toxic at high
+FT                                concentrations.
+FT                                {ECO:0000269|PubMed:12117959}.
+FT   MUTAGEN     255    255       W->A: No effect on LF-binding ability and
+FT                                as toxic as the wild-type.
+FT                                {ECO:0000269|PubMed:12117959}.
+FT   MUTAGEN     265    265       F->A: No effect on LF-binding ability and
+FT                                as toxic as the wild-type.
+FT                                {ECO:0000269|PubMed:12117959}.
+FT   MUTAGEN     289    289       P->A: Reduced toxicity in combination
+FT                                with lethal factor. Decreased membrane
+FT                                insertion and translocation of LF.
+FT                                {ECO:0000269|PubMed:11356563}.
+FT   MUTAGEN     342    344       FFD->AAA: Decrease in toxicity probably
+FT                                due to slow translocation of LF.
+FT                                {ECO:0000269|PubMed:10085028}.
+FT   MUTAGEN     342    343       Missing: Loss of toxicity probably due to
+FT                                loss of capability to translocate LF.
+FT                                {ECO:0000269|PubMed:7961869}.
+FT   MUTAGEN     342    342       F->C: Loss of toxicity probably due to
+FT                                loss of capability to translocate LF.
+FT                                {ECO:0000269|PubMed:10085028}.
+FT   MUTAGEN     344    344       D->A: Decrease in toxicity probably due
+FT                                to slow translocation of LF.
+FT                                {ECO:0000269|PubMed:7961869}.
+FT   MUTAGEN     375    375       W->A: Loss of toxicity probably due to
+FT                                faulty membrane insertion or
+FT                                translocation of LF/EF into the cytosol.
+FT                                {ECO:0000269|PubMed:11178978}.
+FT   MUTAGEN     379    379       M->A: No effect.
+FT                                {ECO:0000269|PubMed:11178978}.
+FT   MUTAGEN     381    381       L->A: Loss of toxicity probably due to
+FT                                faulty membrane insertion or
+FT                                translocation of LF/EF into the cytosol.
+FT                                {ECO:0000269|PubMed:11178978}.
+FT   MUTAGEN     393    393       I->C: Loss of capability to undergo
+FT                                conformational changes that lead to pore
+FT                                formation and translocation.
+FT                                {ECO:0000269|PubMed:14623961}.
+FT   MUTAGEN     409    409       T->C: Loss of capability to undergo
+FT                                conformational changes that lead to pore
+FT                                formation and translocation.
+FT                                {ECO:0000269|PubMed:14623961}.
+FT   MUTAGEN     411    411       S->C: Loss of capability to undergo
+FT                                conformational changes that lead to pore
+FT                                formation and translocation.
+FT                                {ECO:0000269|PubMed:14623961}.
+FT   MUTAGEN     422    422       T->C: Loss of capability to undergo
+FT                                conformational changes that lead to pore
+FT                                formation and translocation.
+FT                                {ECO:0000269|PubMed:14623961}.
+FT   MUTAGEN     426    426       K->A,D: Loss of capability to undergo
+FT                                conformational changes that lead to pore
+FT                                formation and translocation.
+FT                                {ECO:0000269|PubMed:11113126,
+FT                                ECO:0000269|PubMed:14623961}.
+FT   MUTAGEN     428    428       N->C: Loss of capability to undergo
+FT                                conformational changes that lead to pore
+FT                                formation and translocation.
+FT                                {ECO:0000269|PubMed:14623961}.
+FT   MUTAGEN     440    440       Y->C: Loss of capability to undergo
+FT                                conformational changes that lead to pore
+FT                                formation and translocation.
+FT                                {ECO:0000269|PubMed:14623961}.
+FT   MUTAGEN     451    451       N->C: Loss of capability to undergo
+FT                                conformational changes that lead to pore
+FT                                formation and translocation.
+FT                                {ECO:0000269|PubMed:14623961}.
+FT   MUTAGEN     454    454       D->A,K: Loss of capability to undergo
+FT                                conformational changes that lead to pore
+FT                                formation and translocation.
+FT                                {ECO:0000269|PubMed:11113126,
+FT                                ECO:0000269|PubMed:14623961}.
+FT   MUTAGEN     456    456       F->A: Loss of capability to undergo
+FT                                conformational changes that lead to pore
+FT                                formation and translocation.
+FT                                {ECO:0000269|PubMed:11113126,
+FT                                ECO:0000269|PubMed:14623961}.
+FT   MUTAGEN     512    512       Q->A: Loss of heptamerization capability.
+FT                                {ECO:0000269|PubMed:11222612}.
+FT   MUTAGEN     541    541       D->A: Loss of heptamerization capability.
+FT                                {ECO:0000269|PubMed:11222612}.
+FT   MUTAGEN     543    543       L->A: Decrease in heptamerization
+FT                                capability.
+FT                                {ECO:0000269|PubMed:11222612}.
+FT   MUTAGEN     581    581       F->A: Loss of toxicity due to defective
+FT                                oligomerization.
+FT                                {ECO:0000269|PubMed:11554763}.
+FT   MUTAGEN     583    583       F->A: Decrease in toxicity due to
+FT                                defective oligomerization.
+FT                                {ECO:0000269|PubMed:11554763}.
+FT   MUTAGEN     591    591       I->A: Loss of toxicity due to defective
+FT                                oligomerization.
+FT                                {ECO:0000269|PubMed:11554763}.
+FT   MUTAGEN     595    595       L->A: Loss of toxicity due to defective
+FT                                oligomerization.
+FT                                {ECO:0000269|PubMed:11554763}.
+FT   MUTAGEN     603    603       I->A: Loss of toxicity due to defective
+FT                                oligomerization.
+FT                                {ECO:0000269|PubMed:11554763}.
+FT   MUTAGEN     621    621       R->A: No effect.
+FT                                {ECO:0000269|PubMed:11222612}.
+FT   MUTAGEN     686    686       N->A: Decrease in toxicity due to
+FT                                decrease in cell binding.
+FT                                {ECO:0000269|PubMed:12771151}.
+FT   MUTAGEN     708    708       K->A: No effect on toxicity.
+FT                                {ECO:0000269|PubMed:12771151}.
+FT   MUTAGEN     709    709       K->A: Slight decrease in toxicity.
+FT                                {ECO:0000269|PubMed:12771151}.
+FT   MUTAGEN     710    710       Y->A: Great decrease in toxicity due to
+FT                                decrease in cell binding.
+FT                                {ECO:0000269|PubMed:12771151}.
+FT   MUTAGEN     711    711       N->A: Loss of toxicity due to decrease in
+FT                                cell binding.
+FT                                {ECO:0000269|PubMed:12771151}.
+FT   MUTAGEN     712    712       D->A: Loss of toxicity due to decrease in
+FT                                cell binding.
+FT                                {ECO:0000269|PubMed:12771151}.
+FT   MUTAGEN     713    713       K->A: No effect on toxicity.
+FT                                {ECO:0000269|PubMed:12771151}.
+FT   MUTAGEN     714    714       L->A: No effect on toxicity.
+FT                                {ECO:0000269|PubMed:12771151}.
+FT   MUTAGEN     715    715       P->A: Great decrease in toxicity due to
+FT                                decrease in cell binding.
+FT                                {ECO:0000269|PubMed:12771151}.
+FT   MUTAGEN     716    716       L->A: Decrease in toxicity due to
+FT                                decrease in cell binding.
+FT                                {ECO:0000269|PubMed:12771151}.
+FT   MUTAGEN     717    717       Y->A: No effect on toxicity.
+FT                                {ECO:0000269|PubMed:12771151}.
+FT   MUTAGEN     718    718       I->A: Decrease in toxicity due to
+FT                                decrease in cell binding.
+FT                                {ECO:0000269|PubMed:12771151}.
+FT   MUTAGEN     719    719       S->A: No effect on toxicity.
+FT                                {ECO:0000269|PubMed:10085028}.
+FT   MUTAGEN     720    720       N->A: No effect on toxicity.
+FT                                {ECO:0000269|PubMed:12771151}.
+FT   MUTAGEN     721    721       P->A: No effect on toxicity.
+FT                                {ECO:0000269|PubMed:12771151}.
+FT   MUTAGEN     722    722       N->A: No effect on toxicity.
+FT                                {ECO:0000269|PubMed:12771151}.
+FT   CONFLICT    314    314       Q -> E (in Ref. 1; AAA22637).
+FT                                {ECO:0000305}.
+FT   HELIX        41     44       {ECO:0000244|PDB:4H2A}.
+FT   STRAND       47     55       {ECO:0000244|PDB:3TEW}.
+FT   STRAND       60     71       {ECO:0000244|PDB:3TEW}.
+FT   HELIX        76     78       {ECO:0000244|PDB:3TEW}.
+FT   HELIX        84     86       {ECO:0000244|PDB:3TEW}.
+FT   STRAND       91     99       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      104    110       {ECO:0000244|PDB:3TEW}.
+FT   HELIX       113    115       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      116    120       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      123    129       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      135    137       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      142    150       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      155    159       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      162    166       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      168    170       {ECO:0000244|PDB:1ACC}.
+FT   STRAND      172    174       {ECO:0000244|PDB:3TEW}.
+FT   HELIX       177    179       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      186    188       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      191    193       {ECO:0000244|PDB:4H2A}.
+FT   STRAND      199    201       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      210    212       {ECO:0000244|PDB:3TEW}.
+FT   HELIX       214    219       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      221    225       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      230    234       {ECO:0000244|PDB:3TEW}.
+FT   HELIX       237    240       {ECO:0000244|PDB:3TEW}.
+FT   TURN        241    244       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      255    258       {ECO:0000244|PDB:3Q8A}.
+FT   STRAND      259    262       {ECO:0000244|PDB:3TEW}.
+FT   HELIX       264    269       {ECO:0000244|PDB:3TEW}.
+FT   HELIX       278    281       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      291    302       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      318    326       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      330    332       {ECO:0000244|PDB:3KWV}.
+FT   STRAND      357    363       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      369    371       {ECO:0000244|PDB:3TEW}.
+FT   HELIX       375    379       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      386    397       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      399    401       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      403    405       {ECO:0000244|PDB:4EE2}.
+FT   STRAND      410    414       {ECO:0000244|PDB:3TEW}.
+FT   TURN        415    417       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      418    423       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      438    441       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      448    451       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      456    458       {ECO:0000244|PDB:3KWV}.
+FT   STRAND      461    464       {ECO:0000244|PDB:3TEW}.
+FT   HELIX       465    474       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      476    481       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      487    492       {ECO:0000244|PDB:3TEW}.
+FT   TURN        493    496       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      497    505       {ECO:0000244|PDB:3TEW}.
+FT   HELIX       506    508       {ECO:0000244|PDB:3TEW}.
+FT   HELIX       510    516       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      517    522       {ECO:0000244|PDB:3TEW}.
+FT   TURN        524    527       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      530    535       {ECO:0000244|PDB:3TEW}.
+FT   HELIX       542    546       {ECO:0000244|PDB:3TEW}.
+FT   HELIX       552    560       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      565    568       {ECO:0000244|PDB:3MHZ}.
+FT   HELIX       576    578       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      579    583       {ECO:0000244|PDB:3TEW}.
+FT   HELIX       585    597       {ECO:0000244|PDB:3TEW}.
+FT   HELIX       603    605       {ECO:0000244|PDB:3TEW}.
+FT   TURN        607    609       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      611    613       {ECO:0000244|PDB:3MHZ}.
+FT   STRAND      617    622       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      625    627       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      633    636       {ECO:0000244|PDB:3TEW}.
+FT   HELIX       638    644       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      648    652       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      655    658       {ECO:0000244|PDB:3TEW}.
+FT   HELIX       662    666       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      668    676       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      678    680       {ECO:0000244|PDB:3KWV}.
+FT   STRAND      682    684       {ECO:0000244|PDB:3TEW}.
+FT   HELIX       689    691       {ECO:0000244|PDB:4EE2}.
+FT   STRAND      695    697       {ECO:0000244|PDB:3TEW}.
+FT   TURN        699    701       {ECO:0000244|PDB:3KWV}.
+FT   STRAND      703    708       {ECO:0000244|PDB:3TEW}.
+FT   TURN        709    713       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      723    731       {ECO:0000244|PDB:3TEW}.
+FT   HELIX       732    734       {ECO:0000244|PDB:3TEW}.
+FT   STRAND      741    743       {ECO:0000244|PDB:1ACC}.
+FT   STRAND      753    759       {ECO:0000244|PDB:3TEW}.
+FT   HELIX       760    763       {ECO:0000244|PDB:3TEW}.
+SQ   SEQUENCE   764 AA;  85811 MW;  3AE1EFBF48FAA03F CRC64;
+     MKKRKVLIPL MALSTILVSS TGNLEVIQAE VKQENRLLNE SESSSQGLLG YYFSDLNFQA
+     PMVVTSSTTG DLSIPSSELE NIPSENQYFQ SAIWSGFIKV KKSDEYTFAT SADNHVTMWV
+     DDQEVINKAS NSNKIRLEKG RLYQIKIQYQ RENPTEKGLD FKLYWTDSQN KKEVISSDNL
+     QLPELKQKSS NSRKKRSTSA GPTVPDRDND GIPDSLEVEG YTVDVKNKRT FLSPWISNIH
+     EKKGLTKYKS SPEKWSTASD PYSDFEKVTG RIDKNVSPEA RHPLVAAYPI VHVDMENIIL
+     SKNEDQSTQN TDSQTRTISK NTSTSRTHTS EVHGNAEVHA SFFDIGGSVS AGFSNSNSST
+     VAIDHSLSLA GERTWAETMG LNTADTARLN ANIRYVNTGT APIYNVLPTT SLVLGKNQTL
+     ATIKAKENQL SQILAPNNYY PSKNLAPIAL NAQDDFSSTP ITMNYNQFLE LEKTKQLRLD
+     TDQVYGNIAT YNFENGRVRV DTGSNWSEVL PQIQETTARI IFNGKDLNLV ERRIAAVNPS
+     DPLETTKPDM TLKEALKIAF GFNEPNGNLQ YQGKDITEFD FNFDQQTSQN IKNQLAELNA
+     TNIYTVLDKI KLNAKMNILI RDKRFHYDRN NIAVGADESV VKEAHREVIN SSTEGLLLNI
+     DKDIRKILSG YIVEIEDTEG LKEVINDRYD MLNISSLRQD GKTFIDFKKY NDKLPLYISN
+     PNYKVNVYAV TKENTIINPS ENGDTSTNGI KKILIFSKKG YEIG
+//

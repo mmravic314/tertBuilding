@@ -1,0 +1,146 @@
+ID   PYRC_SALTY              Reviewed;         348 AA.
+AC   P06204;
+DT   01-JAN-1988, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   22-JUL-2015, entry version 118.
+DE   RecName: Full=Dihydroorotase;
+DE            Short=DHOase;
+DE            EC=3.5.2.3;
+GN   Name=pyrC; OrderedLocusNames=STM1163;
+OS   Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Salmonella.
+OX   NCBI_TaxID=99287;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=LT2;
+RX   PubMed=2872051; DOI=10.1111/j.1432-1033.1986.tb09673.x;
+RA   Neuhrd J., Kelln R.A., Stauning E.;
+RT   "Cloning and structural characterization of the Salmonella typhimurium
+RT   pyrC gene encoding dihydroorotase.";
+RL   Eur. J. Biochem. 157:335-342(1986).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=LT2 / SGSC1412 / ATCC 700720;
+RX   PubMed=11677609; DOI=10.1038/35101614;
+RA   McClelland M., Sanderson K.E., Spieth J., Clifton S.W., Latreille P.,
+RA   Courtney L., Porwollik S., Ali J., Dante M., Du F., Hou S., Layman D.,
+RA   Leonard S., Nguyen C., Scott K., Holmes A., Grewal N., Mulvaney E.,
+RA   Ryan E., Sun H., Florea L., Miller W., Stoneking T., Nhan M.,
+RA   Waterston R., Wilson R.K.;
+RT   "Complete genome sequence of Salmonella enterica serovar Typhimurium
+RT   LT2.";
+RL   Nature 413:852-856(2001).
+CC   -!- CATALYTIC ACTIVITY: (S)-dihydroorotate + H(2)O = N-carbamoyl-L-
+CC       aspartate.
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000250};
+CC       Note=Binds 2 Zn(2+) ions per subunit. {ECO:0000250};
+CC   -!- PATHWAY: Pyrimidine metabolism; UMP biosynthesis via de novo
+CC       pathway; (S)-dihydroorotate from bicarbonate: step 3/3.
+CC   -!- SUBUNIT: Homodimer.
+CC   -!- SIMILARITY: Belongs to the DHOase family. Type 1 subfamily.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X03928; CAA27567.1; -; Genomic_DNA.
+DR   EMBL; AE006468; AAL20093.1; -; Genomic_DNA.
+DR   PIR; A27143; DEEBOT.
+DR   RefSeq; NP_460134.1; NC_003197.1.
+DR   RefSeq; WP_000126580.1; NC_003197.1.
+DR   PDB; 3JZE; X-ray; 1.80 A; A/B/C/D=1-348.
+DR   PDBsum; 3JZE; -.
+DR   ProteinModelPortal; P06204; -.
+DR   SMR; P06204; 5-347.
+DR   STRING; 99287.STM1163; -.
+DR   PRIDE; P06204; -.
+DR   EnsemblBacteria; AAL20093; AAL20093; STM1163.
+DR   GeneID; 1252681; -.
+DR   KEGG; stm:STM1163; -.
+DR   PATRIC; 32380773; VBISalEnt20916_1231.
+DR   HOGENOM; HOG000256259; -.
+DR   KO; K01465; -.
+DR   OMA; YAEAFEQ; -.
+DR   OrthoDB; EOG6TFCMH; -.
+DR   PhylomeDB; P06204; -.
+DR   BioCyc; SENT99287:GCTI-1172-MONOMER; -.
+DR   UniPathway; UPA00070; UER00117.
+DR   EvolutionaryTrace; P06204; -.
+DR   Proteomes; UP000001014; Chromosome.
+DR   GO; GO:0004151; F:dihydroorotase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0044205; P:'de novo' UMP biosynthetic process; IEA:UniProtKB-UniPathway.
+DR   GO; GO:0019856; P:pyrimidine nucleobase biosynthetic process; IEA:InterPro.
+DR   HAMAP; MF_00219; PyrC_type1; 1.
+DR   InterPro; IPR006680; Amidohydro_1.
+DR   InterPro; IPR004721; DHOdimr.
+DR   InterPro; IPR002195; Dihydroorotase_CS.
+DR   PANTHER; PTHR11647:SF59; PTHR11647:SF59; 1.
+DR   Pfam; PF01979; Amidohydro_1; 1.
+DR   PIRSF; PIRSF001237; DHOdimr; 1.
+DR   TIGRFAMs; TIGR00856; pyrC_dimer; 1.
+DR   PROSITE; PS00482; DIHYDROOROTASE_1; 1.
+DR   PROSITE; PS00483; DIHYDROOROTASE_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Hydrolase; Metal-binding;
+KW   Pyrimidine biosynthesis; Reference proteome; Zinc.
+FT   INIT_MET      1      1       Removed. {ECO:0000250}.
+FT   CHAIN         2    348       Dihydroorotase.
+FT                                /FTId=PRO_0000147218.
+FT   METAL        17     17       Zinc 1; via tele nitrogen. {ECO:0000250}.
+FT   METAL        19     19       Zinc 1; via tele nitrogen. {ECO:0000250}.
+FT   METAL       103    103       Zinc 1; via carbamate group.
+FT                                {ECO:0000250}.
+FT   METAL       103    103       Zinc 2; via carbamate group.
+FT                                {ECO:0000250}.
+FT   METAL       140    140       Zinc 2; via pros nitrogen. {ECO:0000250}.
+FT   METAL       178    178       Zinc 2; via tele nitrogen. {ECO:0000250}.
+FT   METAL       251    251       Zinc 1. {ECO:0000250}.
+FT   MOD_RES     103    103       N6-carboxylysine. {ECO:0000250}.
+FT   CONFLICT     67     67       V -> G (in Ref. 1; CAA27567).
+FT                                {ECO:0000305}.
+FT   STRAND        7     11       {ECO:0000244|PDB:3JZE}.
+FT   STRAND       15     18       {ECO:0000244|PDB:3JZE}.
+FT   HELIX        23     34       {ECO:0000244|PDB:3JZE}.
+FT   STRAND       38     42       {ECO:0000244|PDB:3JZE}.
+FT   STRAND       46     48       {ECO:0000244|PDB:3JZE}.
+FT   HELIX        53     65       {ECO:0000244|PDB:3JZE}.
+FT   STRAND       74     80       {ECO:0000244|PDB:3JZE}.
+FT   HELIX        87     95       {ECO:0000244|PDB:3JZE}.
+FT   STRAND       99    104       {ECO:0000244|PDB:3JZE}.
+FT   STRAND      116    118       {ECO:0000244|PDB:3JZE}.
+FT   HELIX       121    123       {ECO:0000244|PDB:3JZE}.
+FT   HELIX       124    133       {ECO:0000244|PDB:3JZE}.
+FT   STRAND      137    139       {ECO:0000244|PDB:3JZE}.
+FT   HELIX       150    152       {ECO:0000244|PDB:3JZE}.
+FT   HELIX       153    160       {ECO:0000244|PDB:3JZE}.
+FT   HELIX       162    168       {ECO:0000244|PDB:3JZE}.
+FT   STRAND      174    176       {ECO:0000244|PDB:3JZE}.
+FT   HELIX       182    189       {ECO:0000244|PDB:3JZE}.
+FT   STRAND      195    199       {ECO:0000244|PDB:3JZE}.
+FT   HELIX       201    205       {ECO:0000244|PDB:3JZE}.
+FT   HELIX       208    212       {ECO:0000244|PDB:3JZE}.
+FT   HELIX       218    220       {ECO:0000244|PDB:3JZE}.
+FT   HELIX       229    240       {ECO:0000244|PDB:3JZE}.
+FT   STRAND      246    248       {ECO:0000244|PDB:3JZE}.
+FT   HELIX       257    260       {ECO:0000244|PDB:3JZE}.
+FT   STRAND      261    265       {ECO:0000244|PDB:3JZE}.
+FT   TURN        272    274       {ECO:0000244|PDB:3JZE}.
+FT   HELIX       275    285       {ECO:0000244|PDB:3JZE}.
+FT   HELIX       289    291       {ECO:0000244|PDB:3JZE}.
+FT   HELIX       292    297       {ECO:0000244|PDB:3JZE}.
+FT   HELIX       299    304       {ECO:0000244|PDB:3JZE}.
+FT   STRAND      311    316       {ECO:0000244|PDB:3JZE}.
+FT   STRAND      329    333       {ECO:0000244|PDB:3JZE}.
+FT   TURN        336    339       {ECO:0000244|PDB:3JZE}.
+FT   STRAND      341    343       {ECO:0000244|PDB:3JZE}.
+SQ   SEQUENCE   348 AA;  38605 MW;  EBF4CD54B8C04FCE CRC64;
+     MTAPSQVLKI RRPDDWHVHL RDGDMLKTVV PYTSEIYGRA IVMPNLASPI TTVDAAIAYR
+     QRILDAVPAG HDFTPLMTCY LTDSLDADEL ERGFHEGVFT AAKLYPANAT TNSSHGVTSV
+     DAIMPVLERM EKLGIPLLVH GEVTHADVDI FDREARFIDT VMEPLRQRLT ALKVVFEHIT
+     TKDAAQYVRD GNDYLAATIT PQHLMFNRND MLVGGIRPHL YCLPILKRNI HQQALRELVA
+     SGFTRAFLGT DSAPHSRHRK ETSCGCAGCF NAPSALGSYA AVFEEMNALA HFEAFCSLNG
+     PQFYGLPMNT GWVELVRDEQ QIPGNIALAD DSLVPFLAGE TVRWSVKK
+//

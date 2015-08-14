@@ -1,0 +1,82 @@
+ID   B9DUT7_STRU0            Unreviewed;       289 AA.
+AC   B9DUT7;
+DT   24-MAR-2009, integrated into UniProtKB/TrEMBL.
+DT   24-MAR-2009, sequence version 1.
+DT   22-JUL-2015, entry version 44.
+DE   SubName: Full=Putative geranyltranstransferase {ECO:0000313|EMBL:CAR42776.1};
+DE            EC=2.5.1.10 {ECO:0000313|EMBL:CAR42776.1};
+GN   Name=fps {ECO:0000313|EMBL:CAR42776.1};
+GN   OrderedLocusNames=SUB1274 {ECO:0000313|EMBL:CAR42776.1};
+OS   Streptococcus uberis (strain ATCC BAA-854 / 0140J).
+OC   Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae;
+OC   Streptococcus.
+OX   NCBI_TaxID=218495 {ECO:0000313|EMBL:CAR42776.1, ECO:0000313|Proteomes:UP000000449};
+RN   [1] {ECO:0000313|Proteomes:UP000000449}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC BAA-854 / 0140J {ECO:0000313|Proteomes:UP000000449};
+RX   PubMed=19175920; DOI=10.1186/1471-2164-10-54;
+RA   Ward P.N., Holden M.T.G., Leigh J.A., Lennard N., Bignell A.,
+RA   Barron A., Clark L., Quail M.A., Woodward J., Barrell B.G., Egan S.A.,
+RA   Field T.R., Maskell D., Kehoe M., Dowson C.G., Chanter N.,
+RA   Whatmore A.M., Bentley S.D., Parkhill J.;
+RT   "Evidence for niche adaptation in the genome of the bovine pathogen
+RT   Streptococcus uberis.";
+RL   BMC Genomics 10:54-54(2009).
+RN   [2] {ECO:0000213|PDB:4LFE, ECO:0000213|PDB:4LFG}
+RP   X-RAY CRYSTALLOGRAPHY (1.95 ANGSTROMS).
+RA   Patskovsky Y., Toro R., Bhosle R., Hillerich B., Seidel R.D.,
+RA   Washington E., Scott Glenn A., Chowdhury S., Evans B., Hammonds J.,
+RA   Imker H.J., Al Obaidi N., Stead M., Love J., Poulter C.D., Gerlt J.A.,
+RA   Almo S.C.;
+RT   "Crystal Structure of Geranylgeranyl Diphosphate Synthase from
+RT   Streptococcus Uberis 0140J.";
+RL   Submitted (JUN-2013) to the PDB data bank.
+CC   -!- SIMILARITY: Belongs to the FPP/GGPP synthase family.
+CC       {ECO:0000256|RuleBase:RU004466}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AM946015; CAR42776.1; -; Genomic_DNA.
+DR   RefSeq; WP_012658748.1; NC_012004.1.
+DR   PDB; 4LFE; X-ray; 1.95 A; A/B=1-289.
+DR   PDB; 4LFG; X-ray; 1.76 A; A/B=1-289.
+DR   ProteinModelPortal; B9DUT7; -.
+DR   STRING; 218495.SUB1274; -.
+DR   PRIDE; B9DUT7; -.
+DR   EnsemblBacteria; CAR42776; CAR42776; SUB1274.
+DR   GeneID; 24161329; -.
+DR   KEGG; sub:SUB1274; -.
+DR   PATRIC; 19808256; VBIStrUbe20775_1244.
+DR   eggNOG; COG0142; -.
+DR   HOGENOM; HOG000009101; -.
+DR   KO; K13789; -.
+DR   OMA; ASFIIER; -.
+DR   OrthoDB; EOG6TN43W; -.
+DR   BioCyc; SUBE218495:GJ7D-1308-MONOMER; -.
+DR   Proteomes; UP000000449; Chromosome.
+DR   GO; GO:0004337; F:geranyltranstransferase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0008299; P:isoprenoid biosynthetic process; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.600.10; -; 1.
+DR   InterPro; IPR008949; Isoprenoid_synthase_dom.
+DR   InterPro; IPR000092; Polyprenyl_synt.
+DR   InterPro; IPR017446; Polyprenyl_synth-rel.
+DR   PANTHER; PTHR12001; PTHR12001; 1.
+DR   Pfam; PF00348; polyprenyl_synt; 1.
+DR   SUPFAM; SSF48576; SSF48576; 1.
+DR   PROSITE; PS00723; POLYPRENYL_SYNTHASE_1; 1.
+DR   PROSITE; PS00444; POLYPRENYL_SYNTHASE_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4LFE, ECO:0000213|PDB:4LFG};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000449};
+KW   Isoprene biosynthesis {ECO:0000256|RuleBase:RU004466};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000449};
+KW   Transferase {ECO:0000256|RuleBase:RU004466,
+KW   ECO:0000313|EMBL:CAR42776.1}.
+SQ   SEQUENCE   289 AA;  32173 MW;  989569409C003949 CRC64;
+     MDKLKKIDQT IHAFYCEKAV ISEKLNEAVL YSINAGGKRI RPILFLEVIE ALQIPLTESH
+     FKAAAALEMI HTGSLIHDDL PAMDNDDYRR GQLTNHKKFD EATAILAGDS LFLDAFGMLA
+     ETDFPTDVTV DLVRSLSSAS GTFGMVGGQM LDMAAEGKKL NLKNLQLIHR HKTGQLLAYP
+     FWAAARVAQL DENLLATFLE IGMIIGLAFQ VRDDILDITA NFEEIGKTPK KDVMAEKMTY
+     PHLLGLNESY QILDESLDQA EAILRKLSDE IAFAPQKILS LIERLRLDA
+//

@@ -1,0 +1,213 @@
+ID   AOR_PYRFU               Reviewed;         605 AA.
+AC   Q51739;
+DT   15-JUL-1998, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   22-JUL-2015, entry version 98.
+DE   RecName: Full=Tungsten-containing aldehyde ferredoxin oxidoreductase;
+DE            EC=1.2.7.5;
+GN   Name=aor; OrderedLocusNames=PF0346;
+OS   Pyrococcus furiosus (strain ATCC 43587 / DSM 3638 / JCM 8422 / Vc1).
+OC   Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae;
+OC   Pyrococcus.
+OX   NCBI_TaxID=186497;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 43587 / DSM 3638 / JCM 8422 / Vc1;
+RX   PubMed=7642512;
+RA   Kletzin A., Mukund S., Kelley-Crouse T.L., Chan M.K.S., Rees D.C.,
+RA   Adams M.W.W.;
+RT   "Molecular characterization of the genes encoding the tungsten-
+RT   containing aldehyde ferredoxin oxidoreductase from Pyrococcus furiosus
+RT   and formaldehyde ferredoxin oxidoreductase from Thermococcus
+RT   litoralis.";
+RL   J. Bacteriol. 177:4817-4819(1995).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 43587 / DSM 3638 / JCM 8422 / Vc1;
+RX   PubMed=10430560;
+RA   Maeder D.L., Weiss R.B., Dunn D.M., Cherry J.L., Gonzalez J.M.,
+RA   DiRuggiero J., Robb F.T.;
+RT   "Divergence of the hyperthermophilic archaea Pyrococcus furiosus and
+RT   P. horikoshii inferred from complete genomic sequences.";
+RL   Genetics 152:1299-1305(1999).
+RN   [3]
+RP   CHARACTERIZATION.
+RC   STRAIN=ATCC 43587 / DSM 3638 / JCM 8422 / Vc1;
+RX   PubMed=1907273;
+RA   Mukund S., Adams M.W.W.;
+RT   "The novel tungsten-iron-sulfur protein of the hyperthermophilic
+RT   archaebacterium, Pyrococcus furiosus, is an aldehyde ferredoxin
+RT   oxidoreductase. Evidence for its participation in a unique glycolytic
+RT   pathway.";
+RL   J. Biol. Chem. 266:14208-14216(1991).
+RN   [4]
+RP   PROTEIN SEQUENCE OF 1-26, BIOPHYSICOCHEMICAL PROPERTIES, AND
+RP   CHARACTERIZATION.
+RX   PubMed=8390467;
+RA   Mukund S., Adams M.W.W.;
+RT   "Characterization of a novel tungsten-containing formaldehyde
+RT   ferredoxin oxidoreductase from the hyperthermophilic archaeon,
+RT   Thermococcus litoralis. A role for tungsten in peptide catabolism.";
+RL   J. Biol. Chem. 268:13592-13600(1993).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (2.3 ANGSTROMS).
+RC   STRAIN=ATCC 43587 / DSM 3638 / JCM 8422 / Vc1;
+RX   PubMed=7878465; DOI=10.1126/science.7878465;
+RA   Chan M.K.S., Mukund S., Kletzin A., Adams M.W.W., Rees D.C.;
+RT   "Structure of a hyperthermophilic tungstopterin enzyme, aldehyde
+RT   ferredoxin oxidoreductase.";
+RL   Science 267:1463-1469(1995).
+CC   -!- FUNCTION: Catalyzes the oxidation of aldehydes to their
+CC       corresponding carboxylic acids. May have a pyroglycolytic
+CC       (saccharolytic) role.
+CC   -!- CATALYTIC ACTIVITY: An aldehyde + H(2)O + 2 oxidized ferredoxin =
+CC       a carboxylate + 2 H(+) + 2 reduced ferredoxin.
+CC   -!- COFACTOR:
+CC       Name=[4Fe-4S] cluster; Xref=ChEBI:CHEBI:49883;
+CC       Note=Binds 1 [4Fe-4S] cluster per subunit.;
+CC   -!- COFACTOR:
+CC       Name=W-bis(molybdopterin guanine dinucleotide);
+CC         Xref=ChEBI:CHEBI:60537;
+CC       Note=Binds 1 W-bis(molybdopterin guanine dinucleotide) (W-bis-MGD)
+CC       cofactor per subunit.;
+CC   -!- ENZYME REGULATION: Inhibited by arsenite, iodoacetate and cyanide.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=0.72 mM for formaldehyde {ECO:0000269|PubMed:8390467};
+CC         Vmax=295 umol/min/mg enzyme with formaldehyde as substrate
+CC         {ECO:0000269|PubMed:8390467};
+CC         Note=Significant activity only with aliphatic and aromatic
+CC         aldehydes and only at low concentration (0.5 mM).;
+CC       pH dependence:
+CC         Optimum pH is above 10. {ECO:0000269|PubMed:8390467};
+CC       Temperature dependence:
+CC         Optimum temperature is above 90 degrees Celsius.
+CC         {ECO:0000269|PubMed:8390467};
+CC   -!- SUBUNIT: Homodimer.
+CC   -!- MISCELLANEOUS: A significant amount of formaldehyde ferredoxin
+CC       oxidoreductase activity has been observed.
+CC   -!- SIMILARITY: Belongs to the AOR/FOR family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X79777; CAA56170.1; -; Genomic_DNA.
+DR   EMBL; AE009950; AAL80470.1; -; Genomic_DNA.
+DR   RefSeq; NP_578075.1; NC_003413.1.
+DR   RefSeq; WP_011011461.1; NC_003413.1.
+DR   PDB; 1AOR; X-ray; 2.30 A; A/B=1-605.
+DR   PDBsum; 1AOR; -.
+DR   ProteinModelPortal; Q51739; -.
+DR   SMR; Q51739; 1-605.
+DR   STRING; 186497.PF0346; -.
+DR   PRIDE; Q51739; -.
+DR   EnsemblBacteria; AAL80470; AAL80470; PF0346.
+DR   GeneID; 1468181; -.
+DR   KEGG; pfu:PF0346; -.
+DR   eggNOG; COG2414; -.
+DR   HOGENOM; HOG000014651; -.
+DR   KO; K03738; -.
+DR   OMA; ERIWNAE; -.
+DR   BRENDA; 1.2.7.5; 5243.
+DR   SABIO-RK; Q51739; -.
+DR   EvolutionaryTrace; Q51739; -.
+DR   Proteomes; UP000001013; Chromosome.
+DR   GO; GO:0051539; F:4 iron, 4 sulfur cluster binding; IEA:UniProtKB-KW.
+DR   GO; GO:0033726; F:aldehyde ferredoxin oxidoreductase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0009055; F:electron carrier activity; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.599.10; -; 1.
+DR   Gene3D; 3.60.9.10; -; 1.
+DR   InterPro; IPR013985; Ald_Fedxn_OxRdtase_3.
+DR   InterPro; IPR013983; Ald_Fedxn_OxRdtase_N.
+DR   InterPro; IPR001203; OxRdtase_Ald_Fedxn_C.
+DR   Pfam; PF01314; AFOR_C; 1.
+DR   Pfam; PF02730; AFOR_N; 1.
+DR   SMART; SM00790; AFOR_N; 1.
+DR   SUPFAM; SSF48310; SSF48310; 1.
+DR   SUPFAM; SSF56228; SSF56228; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; 4Fe-4S; Complete proteome; Direct protein sequencing;
+KW   Iron; Iron-sulfur; Metal-binding; Oxidoreductase; Reference proteome;
+KW   Tungsten.
+FT   CHAIN         1    605       Tungsten-containing aldehyde ferredoxin
+FT                                oxidoreductase.
+FT                                /FTId=PRO_0000064606.
+FT   METAL       288    288       Iron-sulfur (4Fe-4S).
+FT   METAL       291    291       Iron-sulfur (4Fe-4S).
+FT   METAL       295    295       Iron-sulfur (4Fe-4S).
+FT   METAL       494    494       Iron-sulfur (4Fe-4S).
+FT   STRAND        6     12       {ECO:0000244|PDB:1AOR}.
+FT   TURN         13     16       {ECO:0000244|PDB:1AOR}.
+FT   STRAND       17     22       {ECO:0000244|PDB:1AOR}.
+FT   HELIX        25     31       {ECO:0000244|PDB:1AOR}.
+FT   HELIX        35     45       {ECO:0000244|PDB:1AOR}.
+FT   STRAND       59     63       {ECO:0000244|PDB:1AOR}.
+FT   TURN         65     68       {ECO:0000244|PDB:1AOR}.
+FT   STRAND       69     71       {ECO:0000244|PDB:1AOR}.
+FT   STRAND       77     82       {ECO:0000244|PDB:1AOR}.
+FT   TURN         84     86       {ECO:0000244|PDB:1AOR}.
+FT   STRAND       87     94       {ECO:0000244|PDB:1AOR}.
+FT   HELIX        98    104       {ECO:0000244|PDB:1AOR}.
+FT   STRAND      108    114       {ECO:0000244|PDB:1AOR}.
+FT   STRAND      120    125       {ECO:0000244|PDB:1AOR}.
+FT   STRAND      128    133       {ECO:0000244|PDB:1AOR}.
+FT   TURN        135    139       {ECO:0000244|PDB:1AOR}.
+FT   HELIX       142    153       {ECO:0000244|PDB:1AOR}.
+FT   STRAND      159    162       {ECO:0000244|PDB:1AOR}.
+FT   HELIX       165    168       {ECO:0000244|PDB:1AOR}.
+FT   STRAND      176    178       {ECO:0000244|PDB:1AOR}.
+FT   TURN        179    181       {ECO:0000244|PDB:1AOR}.
+FT   STRAND      182    184       {ECO:0000244|PDB:1AOR}.
+FT   STRAND      186    188       {ECO:0000244|PDB:1AOR}.
+FT   HELIX       189    195       {ECO:0000244|PDB:1AOR}.
+FT   STRAND      198    204       {ECO:0000244|PDB:1AOR}.
+FT   HELIX       214    230       {ECO:0000244|PDB:1AOR}.
+FT   HELIX       232    235       {ECO:0000244|PDB:1AOR}.
+FT   HELIX       237    241       {ECO:0000244|PDB:1AOR}.
+FT   HELIX       243    245       {ECO:0000244|PDB:1AOR}.
+FT   HELIX       246    252       {ECO:0000244|PDB:1AOR}.
+FT   TURN        259    262       {ECO:0000244|PDB:1AOR}.
+FT   HELIX       269    272       {ECO:0000244|PDB:1AOR}.
+FT   HELIX       274    280       {ECO:0000244|PDB:1AOR}.
+FT   STRAND      282    286       {ECO:0000244|PDB:1AOR}.
+FT   STRAND      296    301       {ECO:0000244|PDB:1AOR}.
+FT   TURN        302    304       {ECO:0000244|PDB:1AOR}.
+FT   STRAND      305    308       {ECO:0000244|PDB:1AOR}.
+FT   HELIX       312    318       {ECO:0000244|PDB:1AOR}.
+FT   HELIX       320    322       {ECO:0000244|PDB:1AOR}.
+FT   HELIX       327    340       {ECO:0000244|PDB:1AOR}.
+FT   HELIX       344    359       {ECO:0000244|PDB:1AOR}.
+FT   HELIX       365    368       {ECO:0000244|PDB:1AOR}.
+FT   HELIX       380    390       {ECO:0000244|PDB:1AOR}.
+FT   HELIX       396    399       {ECO:0000244|PDB:1AOR}.
+FT   HELIX       403    409       {ECO:0000244|PDB:1AOR}.
+FT   HELIX       413    415       {ECO:0000244|PDB:1AOR}.
+FT   HELIX       429    431       {ECO:0000244|PDB:1AOR}.
+FT   HELIX       433    441       {ECO:0000244|PDB:1AOR}.
+FT   HELIX       449    451       {ECO:0000244|PDB:1AOR}.
+FT   HELIX       454    457       {ECO:0000244|PDB:1AOR}.
+FT   STRAND      461    463       {ECO:0000244|PDB:1AOR}.
+FT   HELIX       472    491       {ECO:0000244|PDB:1AOR}.
+FT   HELIX       495    498       {ECO:0000244|PDB:1AOR}.
+FT   HELIX       503    514       {ECO:0000244|PDB:1AOR}.
+FT   HELIX       520    541       {ECO:0000244|PDB:1AOR}.
+FT   HELIX       545    548       {ECO:0000244|PDB:1AOR}.
+FT   HELIX       553    557       {ECO:0000244|PDB:1AOR}.
+FT   TURN        564    567       {ECO:0000244|PDB:1AOR}.
+FT   HELIX       572    583       {ECO:0000244|PDB:1AOR}.
+FT   HELIX       593    599       {ECO:0000244|PDB:1AOR}.
+FT   HELIX       602    604       {ECO:0000244|PDB:1AOR}.
+SQ   SEQUENCE   605 AA;  66631 MW;  86254EDF6756C00D CRC64;
+     MYGNWGRFIR VNLSTGDIKV EEYDEELAKK WLGSRGLAIY LLLKEMDPTV DPLSPENKLI
+     IAAGPLTGTS APTGGRYNVV TKSPLTGFIT MANSGGYFGA ELKFAGYDAI VVEGKAEKPV
+     YIYIKDEHIE IRDASHIWGK KVSETEATIR KEVGSEKVKI ASIGPAGENL VKFAAIMNDG
+     HRAAGRGGVG AVMGSKNLKA IAVEGSKTVP IADKQKFMLV VREKVNKLRN DPVAGGGLPK
+     YGTAVLVNII NENGLYPVKN FQTGVYPYAY EQSGEAMAAK YLVRNKPCYA CPIGCGRVNR
+     LPTVGETEGP EYESVWALGA NLGINDLASI IEANHMCDEL GLDTISTGGT LATAMELYEK
+     GHIKDEELGD APPFRWGNTE VLHYYIEKIA KREGFGDKLA EGSYRLAESY GHPELSMTVK
+     KLELPAYDPR GAEGHGLGYA TNNRGGCHIK NYMISPEILG YPYKMDPHDV SDDKIKMLIL
+     FQDLTALIDS AGLCLFTTFG LGADDYRDLL NAALGWDFTT EDYLKIGERI WNAERLFNLK
+     AGLDPARDDT LPKRFLEEPM PEGPNKGHTV RLKEMLPRYY KLRGWTEDGK IPKEKLEELG
+     IAEFY
+//

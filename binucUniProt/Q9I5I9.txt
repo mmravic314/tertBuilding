@@ -1,0 +1,128 @@
+ID   Q9I5I9_PSEAE            Unreviewed;       658 AA.
+AC   Q9I5I9;
+DT   01-MAR-2001, integrated into UniProtKB/TrEMBL.
+DT   01-MAR-2001, sequence version 1.
+DT   27-MAY-2015, entry version 90.
+DE   SubName: Full=SDS hydrolase SdsA1 {ECO:0000313|EMBL:AAG04129.1};
+GN   Name=sdsA1 {ECO:0000313|EMBL:AAG04129.1};
+GN   OrderedLocusNames=PA0740 {ECO:0000313|EMBL:AAG04129.1};
+OS   Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG
+OS   12228).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+OC   Pseudomonadaceae; Pseudomonas.
+OX   NCBI_TaxID=208964 {ECO:0000313|EMBL:AAG04129.1, ECO:0000313|Proteomes:UP000002438};
+RN   [1] {ECO:0000313|EMBL:AAG04129.1, ECO:0000313|Proteomes:UP000002438}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228
+RC   {ECO:0000313|Proteomes:UP000002438};
+RX   PubMed=10984043; DOI=10.1038/35023079;
+RA   Stover C.K., Pham X.-Q.T., Erwin A.L., Mizoguchi S.D., Warrener P.,
+RA   Hickey M.J., Brinkman F.S.L., Hufnagle W.O., Kowalik D.J., Lagrou M.,
+RA   Garber R.L., Goltry L., Tolentino E., Westbrock-Wadman S., Yuan Y.,
+RA   Brody L.L., Coulter S.N., Folger K.R., Kas A., Larbig K., Lim R.M.,
+RA   Smith K.A., Spencer D.H., Wong G.K.-S., Wu Z., Paulsen I.T.,
+RA   Reizer J., Saier M.H. Jr., Hancock R.E.W., Lory S., Olson M.V.;
+RT   "Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+RT   opportunistic pathogen.";
+RL   Nature 406:959-964(2000).
+RN   [2] {ECO:0000213|PDB:2CFU, ECO:0000213|PDB:2CFZ, ECO:0000213|PDB:2CG2}
+RP   X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS) IN COMPLEX WITH ZINC.
+RX   PubMed=16684886; DOI=10.1073/pnas.0510501103;
+RA   Hagelueken G., Adams T.M., Wiehlmann L., Widow U., Kolmar H.,
+RA   Tummler B., Heinz D.W., Schubert W.D.;
+RT   "The crystal structure of SdsA1, an alkylsulfatase from Pseudomonas
+RT   aeruginosa, defines a third class of sulfatases.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 103:7631-7636(2006).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE004091; AAG04129.1; -; Genomic_DNA.
+DR   PIR; G83552; G83552.
+DR   RefSeq; NP_249431.1; NC_002516.2.
+DR   RefSeq; WP_003114166.1; NC_002516.2.
+DR   PDB; 2CFU; X-ray; 1.90 A; A=1-658.
+DR   PDB; 2CFZ; X-ray; 2.05 A; A=1-658.
+DR   PDB; 2CG2; X-ray; 2.10 A; A=1-658.
+DR   PDB; 2CG3; X-ray; 2.60 A; A=1-658.
+DR   PDBsum; 2CFU; -.
+DR   PDBsum; 2CFZ; -.
+DR   PDBsum; 2CG2; -.
+DR   PDBsum; 2CG3; -.
+DR   ProteinModelPortal; Q9I5I9; -.
+DR   SMR; Q9I5I9; 20-654.
+DR   DIP; DIP-61164N; -.
+DR   STRING; 208964.PA0740; -.
+DR   EnsemblBacteria; AAG04129; AAG04129; PA0740.
+DR   GeneID; 882069; -.
+DR   KEGG; pae:PA0740; -.
+DR   PATRIC; 19835752; VBIPseAer58763_0769.
+DR   PseudoCAP; PA0740; -.
+DR   InParanoid; Q9I5I9; -.
+DR   OMA; PWRSVYL; -.
+DR   OrthoDB; EOG6X10SN; -.
+DR   PhylomeDB; Q9I5I9; -.
+DR   EvolutionaryTrace; Q9I5I9; -.
+DR   Proteomes; UP000002438; Chromosome.
+DR   GO; GO:0016787; F:hydrolase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.30.1050.10; -; 1.
+DR   Gene3D; 3.60.15.10; -; 2.
+DR   InterPro; IPR029229; Alkyl_sulf_C.
+DR   InterPro; IPR029228; Alkyl_sulf_dimr.
+DR   InterPro; IPR001279; Beta-lactamas-like.
+DR   InterPro; IPR003033; SCP2_sterol-bd_dom.
+DR   Pfam; PF14864; Alkyl_sulf_C; 1.
+DR   Pfam; PF14863; Alkyl_sulf_dimr; 1.
+DR   Pfam; PF00753; Lactamase_B; 1.
+DR   SMART; SM00849; Lactamase_B; 1.
+DR   SUPFAM; SSF55718; SSF55718; 1.
+DR   SUPFAM; SSF56281; SSF56281; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2CFU, ECO:0000213|PDB:2CFZ};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002438};
+KW   Hydrolase {ECO:0000313|EMBL:AAG04129.1};
+KW   Metal-binding {ECO:0000213|PDB:2CFU, ECO:0000213|PDB:2CFZ};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000002438};
+KW   Zinc {ECO:0000213|PDB:2CFU, ECO:0000213|PDB:2CFZ}.
+FT   METAL       169    169       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2CFU,
+FT                                ECO:0000213|PDB:2CFZ,
+FT                                ECO:0000213|PDB:2CG2}.
+FT   METAL       171    171       Zinc 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:2CFU,
+FT                                ECO:0000213|PDB:2CFZ,
+FT                                ECO:0000213|PDB:2CG2}.
+FT   METAL       173    173       Zinc 2. {ECO:0000213|PDB:2CFU,
+FT                                ECO:0000213|PDB:2CFZ,
+FT                                ECO:0000213|PDB:2CG2}.
+FT   METAL       174    174       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2CFU,
+FT                                ECO:0000213|PDB:2CFZ,
+FT                                ECO:0000213|PDB:2CG2}.
+FT   METAL       280    280       Zinc 1. {ECO:0000213|PDB:2CFU,
+FT                                ECO:0000213|PDB:2CFZ,
+FT                                ECO:0000213|PDB:2CG2}.
+FT   METAL       299    299       Zinc 1. {ECO:0000213|PDB:2CFU,
+FT                                ECO:0000213|PDB:2CFZ,
+FT                                ECO:0000213|PDB:2CG2}.
+FT   METAL       299    299       Zinc 2. {ECO:0000213|PDB:2CFU,
+FT                                ECO:0000213|PDB:2CFZ,
+FT                                ECO:0000213|PDB:2CG2}.
+FT   METAL       344    344       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2CFU,
+FT                                ECO:0000213|PDB:2CFZ,
+FT                                ECO:0000213|PDB:2CG2}.
+SQ   SEQUENCE   658 AA;  72592 MW;  3D29B5D2B0A2A84F CRC64;
+     MSRLLALLAL APLLAGAAET TAPKPPSAFT VEAQRRVEAE LPFADRADFE RADRGLIRRP
+     ERLLIRNPDG SVAWQLGGYD FLLDGKPRDS INPSLQRQAL LNLKYGLFEV AEGIYQVRGF
+     DLANITFIRG DSGWIVVDTL TTPATARAAY ELVSRELGER PIRTVIYSHA HADHFGGVRG
+     LVEPQQVASG AVQIIAPAGF MEAAIKENVL AGNAMMRRAT YQYGTQLPKG PQGQVDMAIG
+     KGLARGPLSL LAPTRLIEGE GEDLVLDGVP FTFQNTPGTE SPAEMNIWLP RQKALLMAEN
+     VVGTLHNLYT LRGAEVRDAL GWSKYINQAL HRFGRQAEVM FAVHNWPRWG NAEIVEVLEK
+     QRDLYGYLHD QTLHLANQGV TIGQVHNRLR LPPSLDQEWY DRGYHGSVSH NARAVLNRYL
+     GYYDGNPATL DPLSPEDSAG RYVEYMGGAE RLLEQARASY ARGEYRWVVE VVNRLVFAEP
+     DNRAARELQA DALEQLGYQA ENAGWRNSYL SAAYELRHGV PRDQPTMKAG SADALAAMDT
+     GLLFDYLGVR LDAGAAEGKA LSINLRLPDI GENYLLELKN SHLNNLRGVQ SEDAGQTVSI
+     DRADLNRLLL KEVSAVRLVF EGKLKSSGNP LLLGQLFGML GDFDFWFDIV TPAAKSEG
+//

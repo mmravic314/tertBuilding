@@ -1,0 +1,105 @@
+ID   H3C542_TETNG            Unreviewed;       516 AA.
+AC   H3C542;
+DT   18-APR-2012, integrated into UniProtKB/TrEMBL.
+DT   18-APR-2012, sequence version 1.
+DT   22-JUL-2015, entry version 20.
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|Ensembl:ENSTNIP00000003361};
+GN   Name=DPYS {ECO:0000313|Ensembl:ENSTNIP00000003361};
+OS   Tetraodon nigroviridis (Spotted green pufferfish) (Chelonodon
+OS   nigroviridis).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Actinopterygii; Neopterygii; Teleostei; Neoteleostei; Acanthomorphata;
+OC   Eupercaria; Tetraodontiformes; Tetradontoidea; Tetraodontidae;
+OC   Tetraodon.
+OX   NCBI_TaxID=99883 {ECO:0000313|Ensembl:ENSTNIP00000003361, ECO:0000313|Proteomes:UP000007303};
+RN   [1] {ECO:0000313|Ensembl:ENSTNIP00000003361}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15496914; DOI=10.1038/nature03025;
+RA   Jaillon O., Aury J.-M., Brunet F., Petit J.-L., Stange-Thomann N.,
+RA   Mauceli E., Bouneau L., Fischer C., Ozouf-Costaz C., Bernot A.,
+RA   Nicaud S., Jaffe D., Fisher S., Lutfalla G., Dossat C., Segurens B.,
+RA   Dasilva C., Salanoubat M., Levy M., Boudet N., Castellano S.,
+RA   Anthouard V., Jubin C., Castelli V., Katinka M., Vacherie B.,
+RA   Biemont C., Skalli Z., Cattolico L., Poulain J., De Berardinis V.,
+RA   Cruaud C., Duprat S., Brottier P., Coutanceau J.-P., Gouzy J.,
+RA   Parra G., Lardier G., Chapple C., McKernan K.J., McEwan P., Bosak S.,
+RA   Kellis M., Volff J.-N., Guigo R., Zody M.C., Mesirov J.,
+RA   Lindblad-Toh K., Birren B., Nusbaum C., Kahn D., Robinson-Rechavi M.,
+RA   Laudet V., Schachter V., Quetier F., Saurin W., Scarpelli C.,
+RA   Wincker P., Lander E.S., Weissenbach J., Roest Crollius H.;
+RT   "Genome duplication in the teleost fish Tetraodon nigroviridis reveals
+RT   the early vertebrate proto-karyotype.";
+RL   Nature 431:946-957(2004).
+RN   [2] {ECO:0000313|Ensembl:ENSTNIP00000003361}
+RP   IDENTIFICATION.
+RG   Ensembl;
+RL   Submitted (FEB-2012) to UniProtKB.
+RN   [3] {ECO:0000213|PDB:4H00, ECO:0000213|PDB:4H01}
+RP   X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS) OF 1-498 IN COMPLEX WITH ZINC.
+RA   Hsieh Y.C., Chen M.C., Hsu C.C., Chan S.I., Yang Y.S., Chen C.J.;
+RT   "Lysine Carboxylation: Metal and Structural Requirements for Post-
+RT   translational Modification.";
+RL   Submitted (SEP-2012) to the PDB data bank.
+CC   -!- CAUTION: The sequence shown here is derived from an Ensembl
+CC       automatic analysis pipeline and should be considered as
+CC       preliminary data. {ECO:0000313|Ensembl:ENSTNIP00000003361}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CAAE01014545; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   PDB; 4H00; X-ray; 2.00 A; A=1-498.
+DR   PDBsum; 4GZ7; -.
+DR   PDBsum; 4H00; -.
+DR   PDBsum; 4H01; -.
+DR   ProteinModelPortal; H3C542; -.
+DR   STRING; 99883.ENSTNIP00000003361; -.
+DR   Ensembl; ENSTNIT00000003142; ENSTNIP00000003361; ENSTNIG00000008212.
+DR   GeneTree; ENSGT00760000119241; -.
+DR   InParanoid; H3C542; -.
+DR   OMA; PDWDHAA; -.
+DR   OrthoDB; EOG7SJD48; -.
+DR   TreeFam; TF314706; -.
+DR   Proteomes; UP000007303; Unassembled WGS sequence.
+DR   GO; GO:0005737; C:cytoplasm; IEA:InterPro.
+DR   GO; GO:0016810; F:hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 2.30.40.10; -; 2.
+DR   InterPro; IPR006680; Amidohydro_1.
+DR   InterPro; IPR030633; Dihydropyrimidinase.
+DR   InterPro; IPR011778; Hydantoinase/dihydroPyrase.
+DR   InterPro; IPR011059; Metal-dep_hydrolase_composite.
+DR   PANTHER; PTHR11647:SF50; PTHR11647:SF50; 1.
+DR   Pfam; PF01979; Amidohydro_1; 1.
+DR   SUPFAM; SSF51338; SSF51338; 2.
+DR   TIGRFAMs; TIGR02033; D-hydantoinase; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4GZ7, ECO:0000213|PDB:4H00};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000007303};
+KW   Metal-binding {ECO:0000213|PDB:4H00, ECO:0000213|PDB:4H01};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000007303};
+KW   Zinc {ECO:0000213|PDB:4H00, ECO:0000213|PDB:4H01}.
+FT   METAL        63     63       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4H00,
+FT                                ECO:0000213|PDB:4H01}.
+FT   METAL        65     65       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4H00,
+FT                                ECO:0000213|PDB:4H01}.
+FT   METAL       155    155       Zinc 1. {ECO:0000213|PDB:4H00,
+FT                                ECO:0000213|PDB:4H01}.
+FT   METAL       155    155       Zinc 2.
+FT   METAL       188    188       Zinc 2; via pros nitrogen.
+FT   METAL       244    244       Zinc 2; via tele nitrogen.
+FT   METAL       322    322       Zinc 1. {ECO:0000213|PDB:4H00,
+FT                                ECO:0000213|PDB:4H01}.
+SQ   SEQUENCE   516 AA;  56688 MW;  35255A15B3332761 CRC64;
+     MAEAGEILIK GGKVVNEDCS FFSDVHIRGG KIVEVGPDLR VPPGARVIDA TDRLVIPGGI
+     DTHTHMELAF MGTRAVDDFH IGTKAALAGG TTMILDFVMT QKGQSLLEAY DLWRKTADPK
+     VCCDYSLHVA VTWWSDEVKD EMRTLAQERG VNSFKMFMAY KGLFMLRDDE LYAVFSRCKE
+     VGAIAQVHAE NGDLIAEGAK KMLSLGITGP EGHELCRPEA VEAEATQRAI TIASAVNCPL
+     YVVHVMSKSA ADVVSKARKD GRVVFGEPIA ASLGTDGTNY WHKDWAHAAQ YVMGPPLRPD
+     PSTPGYLMDL LANDDLTLTG TDNCTFSRCQ KALGKDDFTR IPNGVNGVED RMSVIWEKGV
+     HSGKMDENRF VAVTSSNAAK IFNFYPQKGR IAKDSDADVV IWDPKTTRKI SAQTHHQAVD
+     YNIFEGMECH GVPVVTVSGG RVVYEEGRLK VSPGQGRFIH RQPFSEFVYK RIRQRDEVGK
+     PVAVIREPYA GEVVALVTAC EEKEDSAVDC TCRGHL
+//

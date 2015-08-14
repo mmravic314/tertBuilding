@@ -1,0 +1,108 @@
+ID   YB51_ENCCU              Reviewed;         254 AA.
+AC   Q8SU65;
+DT   01-SEP-2009, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-2002, sequence version 1.
+DT   24-JUN-2015, entry version 61.
+DE   RecName: Full=Polysaccharide deacetylase domain-containing protein ECU11_0510;
+GN   OrderedLocusNames=ECU11_0510;
+OS   Encephalitozoon cuniculi (strain GB-M1) (Microsporidian parasite).
+OC   Eukaryota; Fungi; Microsporidia; Unikaryonidae; Encephalitozoon.
+OX   NCBI_TaxID=284813;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=GB-M1;
+RX   PubMed=11719806; DOI=10.1038/35106579;
+RA   Katinka M.D., Duprat S., Cornillot E., Metenier G., Thomarat F.,
+RA   Prensier G., Barbe V., Peyretaillade E., Brottier P., Wincker P.,
+RA   Delbac F., El Alaoui H., Peyret P., Saurin W., Gouy M.,
+RA   Weissenbach J., Vivares C.P.;
+RT   "Genome sequence and gene compaction of the eukaryote parasite
+RT   Encephalitozoon cuniculi.";
+RL   Nature 414:450-453(2001).
+RN   [2]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS],
+RP   DEVELOPMENTAL STAGE, AND SUBCELLULAR LOCATION.
+RX   PubMed=16691553; DOI=10.1002/pmic.200500796;
+RA   Brosson D., Kuhn L., Delbac F., Garin J., Vivares C.P., Texier C.;
+RT   "Proteomic analysis of the eukaryotic parasite Encephalitozoon
+RT   cuniculi (microsporidia): a reference map for proteins expressed in
+RT   late sporogonial stages.";
+RL   Proteomics 6:3625-3635(2006).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (1.5 ANGSTROMS).
+RX   PubMed=19472335; DOI=10.1002/pro.128;
+RA   Urch J.E., Hurtado-Guerrero R., Brosson D., Liu Z., Eijsink V.G.,
+RA   Texier C., van Aalten D.M.;
+RT   "Structural and functional characterization of a putative
+RT   polysaccharide deacetylase of the human parasite Encephalitozoon
+RT   cuniculi.";
+RL   Protein Sci. 18:1197-1209(2009).
+CC   -!- DEVELOPMENTAL STAGE: Expressed in late sporogonial stages.
+CC       {ECO:0000269|PubMed:16691553}.
+CC   -!- SIMILARITY: Contains 1 NodB homology domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU01014}.
+CC   -!- CAUTION: Although it contains a polysaccharide deacetylase domain,
+CC       the protein does not display any chitin deacetylase activity.
+CC       {ECO:0000305|PubMed:19472335}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AL590450; CAD25961.1; -; Genomic_DNA.
+DR   RefSeq; NP_586357.1; NM_001042190.1.
+DR   PDB; 2VYO; X-ray; 1.50 A; A=1-254.
+DR   PDBsum; 2VYO; -.
+DR   ProteinModelPortal; Q8SU65; -.
+DR   STRING; 284813.NP_586357.1; -.
+DR   GeneID; 860010; -.
+DR   KEGG; ecu:ECU11_0510; -.
+DR   EuPathDB; MicrosporidiaDB:ECU11_0510; -.
+DR   eggNOG; COG0726; -.
+DR   HOGENOM; HOG000149746; -.
+DR   InParanoid; Q8SU65; -.
+DR   OrthoDB; EOG79PK15; -.
+DR   EvolutionaryTrace; Q8SU65; -.
+DR   Proteomes; UP000000819; Chromosome XI.
+DR   GO; GO:0016810; F:hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds; IEA:InterPro.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   Gene3D; 3.20.20.370; -; 1.
+DR   InterPro; IPR011330; Glyco_hydro/deAcase_b/a-brl.
+DR   InterPro; IPR002509; Polysac_deacetylase.
+DR   Pfam; PF01522; Polysacc_deac_1; 1.
+DR   SUPFAM; SSF88713; SSF88713; 1.
+DR   PROSITE; PS51677; NODB; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Reference proteome.
+FT   CHAIN         1    254       Polysaccharide deacetylase domain-
+FT                                containing protein ECU11_0510.
+FT                                /FTId=PRO_0000383036.
+FT   DOMAIN       26    210       NodB homology. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU01014}.
+FT   STRAND       23     34       {ECO:0000244|PDB:2VYO}.
+FT   HELIX        40     51       {ECO:0000244|PDB:2VYO}.
+FT   STRAND       56     59       {ECO:0000244|PDB:2VYO}.
+FT   HELIX        67     70       {ECO:0000244|PDB:2VYO}.
+FT   HELIX        71     78       {ECO:0000244|PDB:2VYO}.
+FT   STRAND       82     86       {ECO:0000244|PDB:2VYO}.
+FT   HELIX        89     91       {ECO:0000244|PDB:2VYO}.
+FT   HELIX        95     97       {ECO:0000244|PDB:2VYO}.
+FT   HELIX       100    118       {ECO:0000244|PDB:2VYO}.
+FT   STRAND      124    126       {ECO:0000244|PDB:2VYO}.
+FT   HELIX       136    143       {ECO:0000244|PDB:2VYO}.
+FT   TURN        144    146       {ECO:0000244|PDB:2VYO}.
+FT   HELIX       156    158       {ECO:0000244|PDB:2VYO}.
+FT   STRAND      159    161       {ECO:0000244|PDB:2VYO}.
+FT   HELIX       162    171       {ECO:0000244|PDB:2VYO}.
+FT   TURN        175    177       {ECO:0000244|PDB:2VYO}.
+FT   STRAND      180    185       {ECO:0000244|PDB:2VYO}.
+FT   HELIX       186    189       {ECO:0000244|PDB:2VYO}.
+FT   HELIX       193    205       {ECO:0000244|PDB:2VYO}.
+FT   HELIX       212    215       {ECO:0000244|PDB:2VYO}.
+FT   TURN        216    218       {ECO:0000244|PDB:2VYO}.
+SQ   SEQUENCE   254 AA;  28078 MW;  E351013C3CD40753 CRC64;
+     MLLCLLYFTS SWCSGSDVPD VCTNSGMIAI NFVDGPVRGV TDRILNTLDE LGVKATFSFT
+     VNQKAVGNVG QLYRRAVEEG HNVALRVDPS MDEGYQCLSQ DALENNVDRE IDTIDGLSGT
+     EIRYAAVPIC NGQVNSEMYN ILTERGVLPV GYTFCPYDYD DPVGEFESMI EGSDPKHHSF
+     IILMHDGQEA DTSRLENMVK IGKDKGYRFV NMDECLQGYK GAPGDPELSL RGKGVESIGK
+     GFLPFFLMML VRLL
+//

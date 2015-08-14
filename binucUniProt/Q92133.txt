@@ -1,0 +1,145 @@
+ID   Q92133_XENLA            Unreviewed;       136 AA.
+AC   Q92133;
+DT   01-NOV-1996, integrated into UniProtKB/TrEMBL.
+DT   01-NOV-1996, sequence version 1.
+DT   22-JUL-2015, entry version 100.
+DE   RecName: Full=Histone H3 {ECO:0000256|RuleBase:RU004471};
+GN   Name=hist1h3g {ECO:0000313|Xenbase:XB-GENE-5784387};
+GN   Synonyms=H3l {ECO:0000313|EMBL:CAA51455.1};
+OS   Xenopus laevis (African clawed frog).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Amphibia; Batrachia; Anura; Pipoidea; Pipidae; Xenopodinae; Xenopus;
+OC   Xenopus.
+OX   NCBI_TaxID=8355 {ECO:0000313|EMBL:CAA51455.1};
+RN   [1] {ECO:0000313|EMBL:CAA51455.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Schilthuis J.G., Hagenaar M., Destree O.H.J.;
+RT   "Evolutionary relations between histone gene clusters in the genome of
+RT   Xenopus laevis.";
+RL   Submitted (MAR-1993) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:3GL6}
+RP   X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS) OF 2-10.
+RX   PubMed=19430464; DOI=10.1038/nature08036;
+RA   Wang G.G., Song J., Wang Z., Dormann H.L., Casadio F., Li H.,
+RA   Luo J.L., Patel D.J., Allis C.D.;
+RT   "Haematopoietic malignancies caused by dysregulation of a chromatin-
+RT   binding PHD finger.";
+RL   Nature 459:847-851(2009).
+RN   [3] {ECO:0000213|PDB:3O7A}
+RP   X-RAY CRYSTALLOGRAPHY (1.67 ANGSTROMS) OF 2-12.
+RA   Bian C.B., Xu C., Lam R., Bountra C., Arrowsmith C.H., Weigelt J.,
+RA   Edwards A.M., Bochkarev A., Min J.;
+RT   "Crystal structure of PHF13 in complex with Tri-methylated histone
+RT   H3K4.";
+RL   Submitted (JUL-2010) to the PDB data bank.
+RN   [4] {ECO:0000213|PDB:3ME9, ECO:0000213|PDB:3MEA, ECO:0000213|PDB:3MET}
+RP   X-RAY CRYSTALLOGRAPHY (1.26 ANGSTROMS) OF 2-12.
+RX   PubMed=21685874; DOI=10.1038/emboj.2011.193;
+RA   Bian C., Xu C., Ruan J., Lee K.K., Burke T.L., Tempel W., Barsyte D.,
+RA   Li J., Wu M., Zhou B.O., Fleharty B.E., Paulson A., Allali-Hassani A.,
+RA   Zhou J.Q., Mer G., Grant P.A., Workman J.L., Zang J., Min J.;
+RT   "Sgf29 binds histone H3K4me2/3 and is required for SAGA complex
+RT   recruitment and histone H3 acetylation.";
+RL   EMBO J. 30:2829-2842(2011).
+RN   [5] {ECO:0000213|PDB:2L11, ECO:0000213|PDB:2L12, ECO:0000213|PDB:2L1B}
+RP   STRUCTURE BY NMR OF 20-34.
+RX   PubMed=21047797; DOI=10.1074/jbc.M110.191411;
+RA   Kaustov L., Ouyang H., Amaya M., Lemak A., Nady N., Duan S.,
+RA   Wasney G.A., Li Z., Vedadi M., Schapira M., Min J., Arrowsmith C.H.;
+RT   "Recognition and specificity determinants of the human cbx
+RT   chromodomains.";
+RL   J. Biol. Chem. 286:521-529(2011).
+RN   [6] {ECO:0000213|PDB:4HSU}
+RP   X-RAY CRYSTALLOGRAPHY (1.99 ANGSTROMS) OF 2-31.
+RX   PubMed=23357850; DOI=10.1038/cr.2013.17;
+RA   Chen F., Yang H., Dong Z., Fang J., Wang P., Zhu T., Gong W., Fang R.,
+RA   Shi Y.G., Li Z., Xu Y.;
+RT   "Structural insight into substrate recognition by histone demethylase
+RT   LSD2/KDM1b.";
+RL   Cell Res. 23:306-309(2013).
+RN   [7] {ECO:0000213|PDB:4QEO}
+RP   X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS) OF 2-16.
+RX   PubMed=25018018;
+RA   Du J., Johnson L.M., Groth M., Feng S., Hale C.J., Li S.,
+RA   Vashisht A.A., Gallego-Bartolome J., Wohlschlegel J.A., Patel D.J.,
+RA   Jacobsen S.E.;
+RT   "Mechanism of DNA methylation-directed histone methylation by
+RT   KRYPTONITE.";
+RL   Mol. Cell 55:495-504(2014).
+CC   -!- SUBUNIT: The nucleosome is a histone octamer containing two
+CC       molecules each of H2A, H2B, H3 and H4 assembled in one H3-H4
+CC       heterotetramer and two H2A-H2B heterodimers. The octamer wraps
+CC       approximately 147 bp of DNA. {ECO:0000256|RuleBase:RU004471}.
+CC   -!- SIMILARITY: Belongs to the histone H3 family.
+CC       {ECO:0000256|RuleBase:RU004471}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X72950; CAA51455.1; -; Genomic_DNA.
+DR   PIR; S32638; S32638.
+DR   RefSeq; NP_001091119.1; NM_001097650.1.
+DR   UniGene; Xl.79618; -.
+DR   PDB; 2L11; NMR; -; B=2-16.
+DR   PDB; 2L12; NMR; -; B=2-16.
+DR   PDB; 2L1B; NMR; -; B=20-34.
+DR   PDB; 3GL6; X-ray; 1.90 A; B=2-10.
+DR   PDB; 3H91; X-ray; 1.50 A; C/D=20-34.
+DR   PDB; 3ME9; X-ray; 1.37 A; C/D=2-12.
+DR   PDB; 3MEA; X-ray; 1.26 A; B=2-12.
+DR   PDB; 3MET; X-ray; 2.00 A; C/D=2-12.
+DR   PDB; 3MEU; X-ray; 1.28 A; C/D=2-14.
+DR   PDB; 3MEV; X-ray; 1.83 A; C/D=2-9.
+DR   PDB; 3O7A; X-ray; 1.67 A; B=2-12.
+DR   PDB; 4HSU; X-ray; 1.99 A; C=2-31.
+DR   PDB; 4QEO; X-ray; 2.00 A; P=2-16.
+DR   PDBsum; 2L11; -.
+DR   PDBsum; 2L12; -.
+DR   PDBsum; 2L1B; -.
+DR   PDBsum; 3GL6; -.
+DR   PDBsum; 3H91; -.
+DR   PDBsum; 3ME9; -.
+DR   PDBsum; 3MEA; -.
+DR   PDBsum; 3MET; -.
+DR   PDBsum; 3MEU; -.
+DR   PDBsum; 3MEV; -.
+DR   PDBsum; 3O7A; -.
+DR   PDBsum; 4HSU; -.
+DR   PDBsum; 4QEO; -.
+DR   ProteinModelPortal; Q92133; -.
+DR   SMR; Q92133; 2-136.
+DR   DIP; DIP-60191N; -.
+DR   IntAct; Q92133; 1.
+DR   GeneID; 399088; -.
+DR   KEGG; xla:399088; -.
+DR   CTD; 8355; -.
+DR   Xenbase; XB-GENE-5784387; hist1h3g.
+DR   HOVERGEN; HBG001172; -.
+DR   KO; K11253; -.
+DR   EvolutionaryTrace; Q92133; -.
+DR   GO; GO:0000786; C:nucleosome; IEA:UniProtKB-KW.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-KW.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.20.10; -; 1.
+DR   InterPro; IPR009072; Histone-fold.
+DR   InterPro; IPR007125; Histone_core_D.
+DR   InterPro; IPR000164; Histone_H3/CENP-A.
+DR   PANTHER; PTHR11426; PTHR11426; 1.
+DR   Pfam; PF00125; Histone; 1.
+DR   PRINTS; PR00622; HISTONEH3.
+DR   SMART; SM00428; H3; 1.
+DR   SUPFAM; SSF47113; SSF47113; 1.
+DR   PROSITE; PS00322; HISTONE_H3_1; 1.
+DR   PROSITE; PS00959; HISTONE_H3_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2L11, ECO:0000213|PDB:2L12};
+KW   Chromosome {ECO:0000256|RuleBase:RU004471};
+KW   DNA-binding {ECO:0000256|RuleBase:RU004471};
+KW   Nucleosome core {ECO:0000256|RuleBase:RU004471};
+KW   Nucleus {ECO:0000256|RuleBase:RU004471,
+KW   ECO:0000256|SAAS:SAAS00142374}.
+SQ   SEQUENCE   136 AA;  15374 MW;  69B8368EA50A0EEC CRC64;
+     MARTKQTARK STGGKAPRKQ LATKAARKSA PATGGVKKPH RYRPGTVALR EIRRYQKSTE
+     LLIRKLPFQR LVREIAQDFK TDLRFQSSAV MALQEASEAY LVGLFEDTNL CGIHAKRVTI
+     MPKDIQLARR IRGERA
+//

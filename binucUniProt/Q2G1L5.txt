@@ -1,0 +1,127 @@
+ID   Q2G1L5_STAA8            Unreviewed;       511 AA.
+AC   Q2G1L5;
+DT   21-MAR-2006, integrated into UniProtKB/TrEMBL.
+DT   21-MAR-2006, sequence version 1.
+DT   22-JUL-2015, entry version 65.
+DE   SubName: Full=Putative uncharacterized protein {ECO:0000313|EMBL:ABD29288.1};
+GN   OrderedLocusNames=SAOUHSC_00107 {ECO:0000313|EMBL:ABD29288.1};
+OS   Staphylococcus aureus (strain NCTC 8325).
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcus.
+OX   NCBI_TaxID=93061 {ECO:0000313|EMBL:ABD29288.1, ECO:0000313|Proteomes:UP000008816};
+RN   [1] {ECO:0000313|Proteomes:UP000008816}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=NCTC 8325 {ECO:0000313|Proteomes:UP000008816};
+RA   Gillaspy A.F., Worrell V., Orvis J., Roe B.A., Dyer D.W.,
+RA   Iandolo J.J.;
+RT   "The Staphylococcus aureus NCTC 8325 genome.";
+RL   (In) Fischetti V., Novick R., Ferretti J., Portnoy D., Rood J. (eds.);
+RL   Gram positive pathogens, 2nd edition, pp.381-412, ASM Press,
+RL   Washington D.C (2006).
+RN   [2] {ECO:0000213|PDB:3QFK}
+RP   X-RAY CRYSTALLOGRAPHY (2.05 ANGSTROMS) OF 2-511 IN COMPLEX WITH
+RP   MANGANESE AND ZINC.
+RG   Center for Structural Genomics of Infectious Diseases (CSGID);
+RA   Minasov G., Wawrzak Z., Krishna S.N., Halavaty A., Shuvalova L.,
+RA   Dubrovska I., Winsor J., Kiryukhina O., Bagnoli F., Falugi F.,
+RA   Bottomley M., Grandi G., Anderson W.F.;
+RT   "2.05 Angstrom Crystal Structure of Putative 5'-Nucleotidase from
+RT   Staphylococcus aureus in complex with alpha-ketoglutarate.";
+RL   Submitted (JAN-2011) to the PDB data bank.
+RN   [3] {ECO:0000213|PDB:4Q7F}
+RP   X-RAY CRYSTALLOGRAPHY (1.98 ANGSTROMS) OF 2-511 IN COMPLEX WITH
+RP   MAGNESIUM AND MANGANESE.
+RG   Center for Structural Genomics of Infectious Diseases (CSGID);
+RA   Minasov G., Nocadello S., Shuvalova L., Dubrovska I., Winsor J.,
+RA   Bagnoli F., Falugi F., Bottomley M., Grandi G., Anderson W.F.;
+RT   "1.98 Angstrom Crystal Structure of Putative 5'-Nucleotidase from
+RT   Staphylococcus aureus in complex with Adenosine.";
+RL   Submitted (APR-2014) to the PDB data bank.
+CC   -!- SIMILARITY: Belongs to the 5'-nucleotidase family.
+CC       {ECO:0000256|RuleBase:RU003467}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP000253; ABD29288.1; -; Genomic_DNA.
+DR   RefSeq; WP_000065035.1; NC_007795.1.
+DR   RefSeq; YP_498707.1; NC_007795.1.
+DR   PDB; 3QFK; X-ray; 2.05 A; A=2-511.
+DR   PDB; 4Q7F; X-ray; 1.98 A; A=2-511.
+DR   PDBsum; 3QFK; -.
+DR   PDBsum; 4Q7F; -.
+DR   ProteinModelPortal; Q2G1L5; -.
+DR   SMR; Q2G1L5; 2-511.
+DR   STRING; 93061.SAOUHSC_00107; -.
+DR   EnsemblBacteria; ABD29288; ABD29288; SAOUHSC_00107.
+DR   GeneID; 23195964; -.
+DR   GeneID; 3919816; -.
+DR   KEGG; sao:SAOUHSC_00107; -.
+DR   PATRIC; 19577840; VBIStaAur99865_0096.
+DR   eggNOG; COG0737; -.
+DR   HOGENOM; HOG000248801; -.
+DR   OMA; GGGNYDM; -.
+DR   OrthoDB; EOG696BW0; -.
+DR   BioCyc; SAUR93061:GIWJ-101-MONOMER; -.
+DR   EvolutionaryTrace; Q2G1L5; -.
+DR   Proteomes; UP000008816; Chromosome.
+DR   GO; GO:0016788; F:hydrolase activity, acting on ester bonds; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000166; F:nucleotide binding; IEA:InterPro.
+DR   GO; GO:0009166; P:nucleotide catabolic process; IEA:InterPro.
+DR   Gene3D; 3.60.21.10; -; 1.
+DR   Gene3D; 3.90.780.10; -; 1.
+DR   InterPro; IPR008334; 5'-Nucleotdase_C.
+DR   InterPro; IPR006146; 5'-Nucleotdase_CS.
+DR   InterPro; IPR006179; 5_nucleotidase/apyrase.
+DR   InterPro; IPR004843; Calcineurin-like_PHP_apaH.
+DR   InterPro; IPR029052; Metallo-depent_PP-like.
+DR   PANTHER; PTHR11575; PTHR11575; 1.
+DR   Pfam; PF02872; 5_nucleotid_C; 1.
+DR   Pfam; PF00149; Metallophos; 1.
+DR   PRINTS; PR01607; APYRASEFAMLY.
+DR   SUPFAM; SSF55816; SSF55816; 1.
+DR   SUPFAM; SSF56300; SSF56300; 1.
+DR   PROSITE; PS00786; 5_NUCLEOTIDASE_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3QFK, ECO:0000213|PDB:4Q7F};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000008816};
+KW   Magnesium {ECO:0000213|PDB:4Q7F};
+KW   Manganese {ECO:0000213|PDB:3QFK, ECO:0000213|PDB:4Q7F};
+KW   Metal-binding {ECO:0000213|PDB:3QFK, ECO:0000213|PDB:4Q7F};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000008816};
+KW   Zinc {ECO:0000213|PDB:3QFK}.
+FT   METAL        11     11       Manganese 1. {ECO:0000213|PDB:4Q7F}.
+FT   METAL        11     11       Zinc. {ECO:0000213|PDB:3QFK}.
+FT   METAL        13     13       Manganese 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4Q7F}.
+FT   METAL        13     13       Zinc; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3QFK}.
+FT   METAL        56     56       Magnesium. {ECO:0000213|PDB:4Q7F}.
+FT   METAL        56     56       Manganese 1. {ECO:0000213|PDB:4Q7F}.
+FT   METAL        56     56       Manganese 2. {ECO:0000213|PDB:3QFK}.
+FT   METAL        56     56       Zinc. {ECO:0000213|PDB:3QFK}.
+FT   METAL        93     93       Magnesium. {ECO:0000213|PDB:4Q7F}.
+FT   METAL        93     93       Manganese 2. {ECO:0000213|PDB:3QFK}.
+FT   METAL       191    191       Magnesium; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4Q7F}.
+FT   METAL       191    191       Manganese 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3QFK}.
+FT   METAL       231    231       Magnesium; via pros nitrogen.
+FT                                {ECO:0000213|PDB:4Q7F}.
+FT   METAL       231    231       Manganese 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3QFK}.
+FT   METAL       233    233       Manganese 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4Q7F}.
+FT   METAL       233    233       Zinc; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3QFK}.
+SQ   SEQUENCE   511 AA;  58110 MW;  E901F488CFA0DD69 CRC64;
+     MSNIAFYVVS DVHGYIFPTD FTSRNQYQPM GLLLANHVIE QDRRQYDQSF KIDNGDFLQG
+     SPFCNYLIAH SGSSQPLVDF YNRMAFDFGT LGNHEFNYGL PYLKDTLRRL NYPVLCANIY
+     ENDSTLTDNG VKYFQVGDQT VGVIGLTTQF IPHWEQPEHI QSLTFHSAFE ILQQYLPEMK
+     RHADIIVVCY HGGFEKDLES GTPTEVLTGE NEGYAMLEAF SKDIDIFITG HQHRQIAERF
+     KQTAVIQPGT RGTTVGRVVL STDEYENLSV ESCELLPVID DSTFTIDEDD QHLRKQLEDW
+     LDYEITTLPY DMTINHAFEA RVAPHPFTNF MNYALLEKSD ADVACTALFD SASGFKQVVT
+     MRDVINNYPF PNTFKVLAVS GAKLKEAIER SAEYFDVKND EVSVSADFLE PKPQHFNYDI
+     YGGVSYTIHV GRPKGQRVSN MMIQGHAVDL KQTYTICVNN YRAVGGGQYD MYIDAPVVKD
+     IQVEGAQLLI DFLSNNNLMR IPQVVDFKVE K
+//

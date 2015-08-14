@@ -1,0 +1,102 @@
+ID   Q9X181_THEMA            Unreviewed;       116 AA.
+AC   Q9X181; G4FF96;
+DT   01-NOV-1999, integrated into UniProtKB/TrEMBL.
+DT   01-NOV-1999, sequence version 1.
+DT   22-JUL-2015, entry version 106.
+DE   SubName: Full=Response regulator {ECO:0000313|EMBL:AAD36430.1};
+GN   OrderedLocusNames=TM_1360 {ECO:0000313|EMBL:AAD36430.1};
+GN   ORFNames=Tmari_1367 {ECO:0000313|EMBL:AGL50291.1};
+OS   Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099).
+OC   Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Thermotoga.
+OX   NCBI_TaxID=243274 {ECO:0000313|EMBL:AAD36430.1, ECO:0000313|Proteomes:UP000008183};
+RN   [1] {ECO:0000313|EMBL:AAD36430.1, ECO:0000313|Proteomes:UP000008183}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 43589 / MSB8 / DSM 3109 / JCM 10099
+RC   {ECO:0000313|Proteomes:UP000008183}, and
+RC   MSB8 {ECO:0000313|EMBL:AAD36430.1};
+RX   PubMed=10360571; DOI=10.1038/20601;
+RA   Nelson K.E., Clayton R.A., Gill S.R., Gwinn M.L., Dodson R.J.,
+RA   Haft D.H., Hickey E.K., Peterson J.D., Nelson W.C., Ketchum K.A.,
+RA   McDonald L.A., Utterback T.R., Malek J.A., Linher K.D., Garrett M.M.,
+RA   Stewart A.M., Cotton M.D., Pratt M.S., Phillips C.A., Richardson D.L.,
+RA   Heidelberg J.F., Sutton G.G., Fleischmann R.D., Eisen J.A., White O.,
+RA   Salzberg S.L., Smith H.O., Venter J.C., Fraser C.M.;
+RT   "Evidence for lateral gene transfer between Archaea and Bacteria from
+RT   genome sequence of Thermotoga maritima.";
+RL   Nature 399:323-329(1999).
+RN   [2] {ECO:0000213|PDB:3A0R, ECO:0000213|PDB:3A0U, ECO:0000213|PDB:3A10}
+RP   X-RAY CRYSTALLOGRAPHY (1.63 ANGSTROMS) IN COMPLEX WITH MAGNESIUM.
+RX   PubMed=19836334; DOI=10.1016/j.str.2009.07.016;
+RA   Yamada S., Sugimoto H., Kobayashi M., Ohno A., Nakamura H., Shiro Y.;
+RT   "Structure of PAS-linked histidine kinase and the response regulator
+RT   complex.";
+RL   Structure 17:1333-1344(2009).
+RN   [3] {ECO:0000313|EMBL:AGL50291.1, ECO:0000313|Proteomes:UP000013901}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 43589 / MSB8 / DSM 3109 / JCM 10099
+RC   {ECO:0000313|Proteomes:UP000013901}, and
+RC   MSB8 {ECO:0000313|EMBL:AGL50291.1};
+RX   PubMed=23637642;
+RA   Latif H., Lerman J.A., Portnoy V.A., Tarasova Y., Nagarajan H.,
+RA   Schrimpe-Rutledge A.C., Smith R.D., Adkins J.N., Lee D.H., Qiu Y.,
+RA   Zengler K.;
+RT   "The genome organization of Thermotoga maritima reflects its
+RT   lifestyle.";
+RL   PLoS Genet. 9:E1003485-E1003485(2013).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE000512; AAD36430.1; -; Genomic_DNA.
+DR   EMBL; CP004077; AGL50291.1; -; Genomic_DNA.
+DR   PIR; A72263; A72263.
+DR   RefSeq; NP_229161.1; NC_000853.1.
+DR   RefSeq; WP_004081556.1; NZ_CP011107.1.
+DR   PDB; 3A0R; X-ray; 3.80 A; B=1-116.
+DR   PDB; 3A0U; X-ray; 1.66 A; A=1-116.
+DR   PDB; 3A10; X-ray; 1.63 A; A=1-116.
+DR   PDBsum; 3A0R; -.
+DR   PDBsum; 3A0U; -.
+DR   PDBsum; 3A10; -.
+DR   DIP; DIP-48291N; -.
+DR   STRING; 243274.TM1360; -.
+DR   EnsemblBacteria; AAD36430; AAD36430; TM_1360.
+DR   EnsemblBacteria; AGL50291; AGL50291; Tmari_1367.
+DR   EnsemblBacteria; AHD18744; AHD18744; THEMA_07540.
+DR   GeneID; 898120; -.
+DR   KEGG; tma:TM1360; -.
+DR   KEGG; tmi:THEMA_07540; -.
+DR   KEGG; tmm:Tmari_1367; -.
+DR   PATRIC; 23937658; VBITheMar51294_1372.
+DR   KO; K02485; -.
+DR   OMA; AYSHYRS; -.
+DR   OrthoDB; EOG6WHNMG; -.
+DR   BioCyc; TMAR243274:GC6P-1393-MONOMER; -.
+DR   Proteomes; UP000008183; Chromosome.
+DR   Proteomes; UP000013901; Chromosome.
+DR   GO; GO:0005622; C:intracellular; IEA:GOC.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000160; P:phosphorelay signal transduction system; IEA:InterPro.
+DR   InterPro; IPR011006; CheY-like_superfamily.
+DR   InterPro; IPR001789; Sig_transdc_resp-reg_receiver.
+DR   Pfam; PF00072; Response_reg; 1.
+DR   SMART; SM00448; REC; 1.
+DR   SUPFAM; SSF52172; SSF52172; 1.
+DR   PROSITE; PS50110; RESPONSE_REGULATORY; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3A0R, ECO:0000213|PDB:3A0U};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000008183};
+KW   Magnesium {ECO:0000213|PDB:3A0U, ECO:0000213|PDB:3A10};
+KW   Metal-binding {ECO:0000213|PDB:3A0U, ECO:0000213|PDB:3A10};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000008183}.
+FT   METAL         9      9       Magnesium. {ECO:0000213|PDB:3A0U,
+FT                                ECO:0000213|PDB:3A10}.
+FT   METAL        52     52       Magnesium. {ECO:0000213|PDB:3A0U,
+FT                                ECO:0000213|PDB:3A10}.
+FT   METAL        54     54       Magnesium; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:3A0U,
+FT                                ECO:0000213|PDB:3A10}.
+SQ   SEQUENCE   116 AA;  13343 MW;  145302A42E89EB78 CRC64;
+     MKRILVVDDE PNIRELLKEE LQEEGYEIDT AENGEEALKK FFSGNYDLVI LDIEMPGISG
+     LEVAGEIRKK KKDAKIILLT AYSHYRSDLS SWAADEYVVK SFNFDELKEK VKKLLS
+//

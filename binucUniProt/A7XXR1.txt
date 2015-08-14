@@ -1,0 +1,44 @@
+ID   A7XXR1_9CAUD            Unreviewed;       485 AA.
+AC   A7XXR1;
+DT   23-OCT-2007, integrated into UniProtKB/TrEMBL.
+DT   23-OCT-2007, sequence version 1.
+DT   27-MAY-2015, entry version 23.
+DE   SubName: Full=Phage terminase large subunit {ECO:0000313|EMBL:ABU97034.1};
+GN   ORFNames=P74p84 {ECO:0000313|EMBL:ABU97034.1};
+OS   Thermus phage P7426.
+OC   Viruses; dsDNA viruses, no RNA stage; Caudovirales; Siphoviridae;
+OC   P23likevirus.
+OX   NCBI_TaxID=466052 {ECO:0000313|EMBL:ABU97034.1};
+RN   [1] {ECO:0000313|EMBL:ABU97034.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=18355836; DOI=10.1016/j.jmb.2008.02.018;
+RA   Minakhin L., Goel M., Berdygulova Z., Ramanculov E., Florens L.,
+RA   Glazko G., Karamychev V.N., Slesarev A.I., Kozyavkin S.A., Khromov I.,
+RA   Ackermann H.W., Washburn M., Mushegian A., Severinov K.;
+RT   "Genome comparison and proteomic characterization of Thermus
+RT   thermophilus bacteriophages P23-45 and P74-26: siphoviruses with
+RT   triplex-forming sequences and the longest known tails.";
+RL   J. Mol. Biol. 378:468-480(2008).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; EU100884; ABU97034.1; -; Genomic_DNA.
+DR   RefSeq; YP_001468054.1; NC_009804.1.
+DR   ProteinModelPortal; A7XXR1; -.
+DR   GeneID; 5600564; -.
+DR   KEGG; vg:5600564; -.
+DR   InterPro; IPR004921; Terminase_lsu.
+DR   Pfam; PF03237; Terminase_6; 1.
+PE   4: Predicted;
+SQ   SEQUENCE   485 AA;  55138 MW;  E8529C4F68117FED CRC64;
+     MKRLRPSDKF FELLGYKPHH VQLAIHRSTA KRRVACLGRQ SGKSEAASVE AVFELFARPG
+     SQGWIIAPTY DQAEIIFGRV VEKVERLAEV FPATEVQLQR RRLRLLVHHY DRPVNAPGAK
+     RVATSEFRGK SADRPDNLRG ATLDFVILDE AAMIPFSVWS EAIEPTLSVR DGWALIISTP
+     KGLNWFYEFF LMGWRGGLKE GIPNSGINQT HPDFESFHAA SWDVWPERRE WYMERRLYIP
+     DLEFRQEYGA EFVSHSNSVF SGLDMLILLP YERRGTRLVV EDYRPDHIYC IGADFGKNQD
+     YSVFSVLDLD TGAIVCLERM NGATWSDQVA RLKALSEDYG HAYVVADTWG VGDAIAEELD
+     AQGINYTPLP VKSSSVKEQL ISNLALLMEK GQVAVPNDKT ILDELRNFRY YRTASGNQVM
+     RAYGRGHDDI VMSLALAYSQ YEGKDGYKFE LAEERPSKLK HEESVMSLVE DDFTDLELAN
+     RAFSA
+//

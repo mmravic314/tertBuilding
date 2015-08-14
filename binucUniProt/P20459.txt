@@ -1,0 +1,233 @@
+ID   IF2A_YEAST              Reviewed;         304 AA.
+AC   P20459; D6VWI2; E9P8T6;
+DT   01-FEB-1991, integrated into UniProtKB/Swiss-Prot.
+DT   01-FEB-1991, sequence version 1.
+DT   22-JUL-2015, entry version 148.
+DE   RecName: Full=Eukaryotic translation initiation factor 2 subunit alpha;
+DE            Short=eIF-2-alpha;
+GN   Name=SUI2; Synonyms=TIF211; OrderedLocusNames=YJR007W; ORFNames=J1429;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=559292;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=2649894; DOI=10.1073/pnas.86.8.2784;
+RA   Cigan A.M., Pabich E.K., Feng L., Donahue T.F.;
+RT   "Yeast translation initiation suppressor sui2 encodes the alpha
+RT   subunit of eukaryotic initiation factor 2 and shares sequence identity
+RT   with the human alpha subunit.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 86:2784-2788(1989).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=8641269;
+RA   Galibert F., Alexandraki D., Baur A., Boles E., Chalwatzis N.,
+RA   Chuat J.-C., Coster F., Cziepluch C., de Haan M., Domdey H.,
+RA   Durand P., Entian K.-D., Gatius M., Goffeau A., Grivell L.A.,
+RA   Hennemann A., Herbert C.J., Heumann K., Hilger F., Hollenberg C.P.,
+RA   Huang M.-E., Jacq C., Jauniaux J.-C., Katsoulou C., Kirchrath L.,
+RA   Kleine K., Kordes E., Koetter P., Liebl S., Louis E.J., Manus V.,
+RA   Mewes H.-W., Miosga T., Obermaier B., Perea J., Pohl T.M.,
+RA   Portetelle D., Pujol A., Purnelle B., Ramezani Rad M., Rasmussen S.W.,
+RA   Rose M., Rossau R., Schaaff-Gerstenschlaeger I., Smits P.H.M.,
+RA   Scarcez T., Soriano N., To Van D., Tzermia M., Van Broekhoven A.,
+RA   Vandenbol M., Wedler H., von Wettstein D., Wambutt R., Zagulski M.,
+RA   Zollner A., Karpfinger-Hartl L.;
+RT   "Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+RT   X.";
+RL   EMBO J. 15:2031-2049(1996).
+RN   [3]
+RP   GENOME REANNOTATION.
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=24374639; DOI=10.1534/g3.113.008995;
+RA   Engel S.R., Dietrich F.S., Fisk D.G., Binkley G., Balakrishnan R.,
+RA   Costanzo M.C., Dwight S.S., Hitz B.C., Karra K., Nash R.S., Weng S.,
+RA   Wong E.D., Lloyd P., Skrzypek M.S., Miyasato S.R., Simison M.,
+RA   Cherry J.M.;
+RT   "The reference genome sequence of Saccharomyces cerevisiae: Then and
+RT   now.";
+RL   G3 (Bethesda) 4:389-398(2014).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=17322287; DOI=10.1101/gr.6037607;
+RA   Hu Y., Rolfs A., Bhullar B., Murthy T.V.S., Zhu C., Berger M.F.,
+RA   Camargo A.A., Kelley F., McCarron S., Jepson D., Richardson A.,
+RA   Raphael J., Moreira D., Taycher E., Zuo D., Mohr S., Kane M.F.,
+RA   Williamson J., Simpson A.J.G., Bulyk M.L., Harlow E., Marsischky G.,
+RA   Kolodner R.D., LaBaer J.;
+RT   "Approaching a complete repository of sequence-verified protein-
+RT   encoding clones for Saccharomyces cerevisiae.";
+RL   Genome Res. 17:536-543(2007).
+RN   [5]
+RP   PHOSPHORYLATION AT SER-52 BY GCN2.
+RX   PubMed=1739968; DOI=10.1016/0092-8674(92)90193-G;
+RA   Dever T.E., Feng L., Wek R.C., Cigan A.M., Donahue T.F.,
+RA   Hinnebusch A.G.;
+RT   "Phosphorylation of initiation factor 2 alpha by protein kinase GCN2
+RT   mediates gene-specific translational control of GCN4 in yeast.";
+RL   Cell 68:585-596(1992).
+RN   [6]
+RP   LEVEL OF PROTEIN EXPRESSION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562106; DOI=10.1038/nature02046;
+RA   Ghaemmaghami S., Huh W.-K., Bower K., Howson R.W., Belle A.,
+RA   Dephoure N., O'Shea E.K., Weissman J.S.;
+RT   "Global analysis of protein expression in yeast.";
+RL   Nature 425:737-741(2003).
+RN   [7]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-292 AND SER-294, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=18407956; DOI=10.1074/mcp.M700468-MCP200;
+RA   Albuquerque C.P., Smolka M.B., Payne S.H., Bafna V., Eng J., Zhou H.;
+RT   "A multidimensional chromatography technology for in-depth
+RT   phosphoproteome analysis.";
+RL   Mol. Cell. Proteomics 7:1389-1396(2008).
+RN   [8]
+RP   X-RAY CRYSTALLOGRAPHY (2.86 ANGSTROMS) OF 2-176.
+RX   PubMed=14607111; DOI=10.1016/j.jmb.2003.09.045;
+RA   Dhaliwal S., Hoffman D.W.;
+RT   "The crystal structure of the N-terminal region of the alpha subunit
+RT   of translation initiation factor 2 (eIF2alpha) from Saccharomyces
+RT   cerevisiae provides a view of the loop containing serine 51, the
+RT   target of the eIF2alpha-specific kinases.";
+RL   J. Mol. Biol. 334:187-195(2003).
+RN   [9]
+RP   X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) OF 4-176.
+RX   PubMed=16179258; DOI=10.1016/j.cell.2005.06.044;
+RA   Dar A.C., Dever T.E., Sicheri F.;
+RT   "Higher-order substrate recognition of eIF2alpha by the RNA-dependent
+RT   protein kinase PKR.";
+RL   Cell 122:887-900(2005).
+CC   -!- FUNCTION: eIF-2 functions in the early steps of protein synthesis
+CC       by forming a ternary complex with GTP and initiator tRNA. This
+CC       complex binds to a 40S ribosomal subunit, followed by mRNA binding
+CC       to form a 43S preinitiation complex. Junction of the 60S ribosomal
+CC       subunit to form the 80S initiation complex is preceded by
+CC       hydrolysis of the GTP bound to eIF-2 and release of an eIF-2-GDP
+CC       binary complex. In order for eIF-2 to recycle and catalyze another
+CC       round of initiation, the GDP bound to eIF-2 must exchange with GTP
+CC       by way of a reaction catalyzed by eIF-2B.
+CC   -!- SUBUNIT: Eukaryotic translation initiation factor 2 (eIF-2) is a
+CC       heterotrimer composed of an alpha, a beta and a gamma subunit. The
+CC       factors eIF-1, eIF-2, eIF-3, TIF5/eIF-5 and methionyl-tRNAi form a
+CC       multifactor complex (MFC) that may bind to the 40S ribosome.
+CC   -!- MISCELLANEOUS: Present with 17100 molecules/cell in log phase SD
+CC       medium. {ECO:0000269|PubMed:14562106}.
+CC   -!- SIMILARITY: Belongs to the eIF-2-alpha family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 S1 motif domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00180}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M25552; AAA70332.1; -; Genomic_DNA.
+DR   EMBL; X87611; CAA60929.1; -; Genomic_DNA.
+DR   EMBL; Z49507; CAA89529.1; -; Genomic_DNA.
+DR   EMBL; AY557876; AAS56202.1; -; Genomic_DNA.
+DR   EMBL; BK006943; DAA08798.1; -; Genomic_DNA.
+DR   PIR; A32108; A32108.
+DR   RefSeq; NP_012540.3; NM_001181664.3.
+DR   PDB; 1Q46; X-ray; 2.86 A; A=2-176.
+DR   PDB; 2A19; X-ray; 2.50 A; A=4-176.
+DR   PDB; 2A1A; X-ray; 2.80 A; A=4-176.
+DR   PDB; 3J81; EM; 4.00 A; j=1-300.
+DR   PDBsum; 1Q46; -.
+DR   PDBsum; 2A19; -.
+DR   PDBsum; 2A1A; -.
+DR   PDBsum; 3J81; -.
+DR   ProteinModelPortal; P20459; -.
+DR   SMR; P20459; 3-265.
+DR   BioGrid; 33763; 98.
+DR   DIP; DIP-2327N; -.
+DR   IntAct; P20459; 15.
+DR   MINT; MINT-519024; -.
+DR   MaxQB; P20459; -.
+DR   PaxDb; P20459; -.
+DR   PeptideAtlas; P20459; -.
+DR   PRIDE; P20459; -.
+DR   EnsemblFungi; YJR007W; YJR007W; YJR007W.
+DR   GeneID; 853463; -.
+DR   KEGG; sce:YJR007W; -.
+DR   CYGD; YJR007w; -.
+DR   EuPathDB; FungiDB:YJR007W; -.
+DR   SGD; S000003767; SUI2.
+DR   eggNOG; COG1093; -.
+DR   GeneTree; ENSGT00390000007015; -.
+DR   HOGENOM; HOG000199476; -.
+DR   InParanoid; P20459; -.
+DR   KO; K03237; -.
+DR   OMA; KDVNEHQ; -.
+DR   OrthoDB; EOG7BW0VK; -.
+DR   BioCyc; YEAST:G3O-31653-MONOMER; -.
+DR   Reactome; REACT_302067; L13a-mediated translational silencing of Ceruloplasmin expression.
+DR   Reactome; REACT_334024; Recycling of eIF2:GDP.
+DR   Reactome; REACT_335938; Ribosomal scanning and start codon recognition.
+DR   Reactome; REACT_351622; Formation of the ternary complex, and subsequently, the 43S complex.
+DR   EvolutionaryTrace; P20459; -.
+DR   NextBio; 974047; -.
+DR   PRO; PR:P20459; -.
+DR   Proteomes; UP000002311; Chromosome X.
+DR   GO; GO:0033290; C:eukaryotic 48S preinitiation complex; IDA:SGD.
+DR   GO; GO:0005850; C:eukaryotic translation initiation factor 2 complex; IMP:SGD.
+DR   GO; GO:0043614; C:multi-eIF complex; IDA:SGD.
+DR   GO; GO:0005840; C:ribosome; TAS:SGD.
+DR   GO; GO:0003743; F:translation initiation factor activity; TAS:SGD.
+DR   GO; GO:0001731; P:formation of translation preinitiation complex; IDA:SGD.
+DR   GO; GO:0006413; P:translational initiation; TAS:SGD.
+DR   Gene3D; 1.10.150.190; -; 1.
+DR   Gene3D; 2.40.50.140; -; 1.
+DR   Gene3D; 3.30.70.1130; -; 1.
+DR   InterPro; IPR012340; NA-bd_OB-fold.
+DR   InterPro; IPR003029; Rbsml_prot_S1_RNA-bd_dom.
+DR   InterPro; IPR022967; S1_dom.
+DR   InterPro; IPR024055; TIF2_asu_C.
+DR   InterPro; IPR024054; TIF2_asu_middle.
+DR   InterPro; IPR011488; TIF_2_asu.
+DR   Pfam; PF07541; EIF_2_alpha; 1.
+DR   Pfam; PF00575; S1; 1.
+DR   SMART; SM00316; S1; 1.
+DR   SUPFAM; SSF110993; SSF110993; 1.
+DR   SUPFAM; SSF116742; SSF116742; 1.
+DR   SUPFAM; SSF50249; SSF50249; 1.
+DR   PROSITE; PS50126; S1; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Initiation factor; Phosphoprotein;
+KW   Protein biosynthesis; Reference proteome; RNA-binding.
+FT   CHAIN         1    304       Eukaryotic translation initiation factor
+FT                                2 subunit alpha.
+FT                                /FTId=PRO_0000137389.
+FT   DOMAIN       17     88       S1 motif. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00180}.
+FT   MOD_RES      52     52       Phosphoserine; by GCN2.
+FT                                {ECO:0000269|PubMed:1739968}.
+FT   MOD_RES     292    292       Phosphoserine.
+FT                                {ECO:0000269|PubMed:18407956}.
+FT   MOD_RES     294    294       Phosphoserine.
+FT                                {ECO:0000269|PubMed:18407956}.
+FT   CONFLICT    258    258       Y -> H (in Ref. 4; AAS56202).
+FT                                {ECO:0000305}.
+FT   STRAND        8     13       {ECO:0000244|PDB:2A19}.
+FT   STRAND       19     28       {ECO:0000244|PDB:2A19}.
+FT   STRAND       31     36       {ECO:0000244|PDB:2A19}.
+FT   TURN         37     41       {ECO:0000244|PDB:2A19}.
+FT   STRAND       43     47       {ECO:0000244|PDB:2A19}.
+FT   HELIX        48     50       {ECO:0000244|PDB:1Q46}.
+FT   HELIX        59     61       {ECO:0000244|PDB:1Q46}.
+FT   STRAND       67     77       {ECO:0000244|PDB:2A19}.
+FT   TURN         78     81       {ECO:0000244|PDB:2A19}.
+FT   STRAND       82     87       {ECO:0000244|PDB:2A19}.
+FT   HELIX        92    118       {ECO:0000244|PDB:2A19}.
+FT   HELIX       123    129       {ECO:0000244|PDB:2A19}.
+FT   HELIX       131    138       {ECO:0000244|PDB:2A19}.
+FT   HELIX       141    150       {ECO:0000244|PDB:2A19}.
+FT   HELIX       152    155       {ECO:0000244|PDB:2A19}.
+FT   HELIX       163    173       {ECO:0000244|PDB:2A19}.
+SQ   SEQUENCE   304 AA;  34718 MW;  AF4F1C80303A4E98 CRC64;
+     MSTSHCRFYE NKYPEIDDIV MVNVQQIAEM GAYVKLLEYD NIEGMILLSE LSRRRIRSIQ
+     KLIRVGKNDV AVVLRVDKEK GYIDLSKRRV SSEDIIKCEE KYQKSKTVHS ILRYCAEKFQ
+     IPLEELYKTI AWPLSRKFGH AYEAFKLSII DETVWEGIEP PSKDVLDELK NYISKRLTPQ
+     AVKIRADVEV SCFSYEGIDA IKDALKSAED MSTEQMQVKV KLVAAPLYVL TTQALDKQKG
+     IEQLESAIEK ITEVITKYGG VCNITMPPKA VTATEDAELQ ALLESKELDN RSDSEDDEDE
+     SDDE
+//

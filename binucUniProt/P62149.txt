@@ -1,0 +1,215 @@
+ID   CALM_CHICK              Reviewed;         149 AA.
+AC   P62149; P02593; P70667; P99014; Q5ZIQ6; Q61379; Q61380;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 2.
+DT   22-JUL-2015, entry version 110.
+DE   RecName: Full=Calmodulin;
+DE            Short=CaM;
+GN   Name=CALM; Synonyms=CAM; ORFNames=RCJMB04_24e7;
+OS   Gallus gallus (Chicken).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+OC   Coelurosauria; Aves; Neognathae; Galloanserae; Galliformes;
+OC   Phasianidae; Phasianinae; Gallus.
+OX   NCBI_TaxID=9031;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=6137485;
+RA   Putkey J.A., Ts'Ui K.F., Tanaka T., Lagace L., Stein J.P., Lai E.C.,
+RA   Means A.R.;
+RT   "Chicken calmodulin genes. A species comparison of cDNA sequences and
+RT   isolation of a genomic clone.";
+RL   J. Biol. Chem. 258:11864-11870(1983).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=2981850;
+RA   Simmen R.C.M., Tanaka T., Ts'Ui K.F., Putkey J.A., Scott M.J.,
+RA   Lai E.C., Means A.R.;
+RT   "The structural organization of the chicken calmodulin gene.";
+RL   J. Biol. Chem. 260:907-912(1985).
+RN   [3]
+RP   ERRATUM.
+RA   Simmen R.C.M., Tanaka T., Ts'Ui K.F., Putkey J.A., Scott M.J.,
+RA   Lai E.C., Means A.R.;
+RL   J. Biol. Chem. 262:4928-4929(1987).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RA   Iida Y.;
+RT   "cDNA sequences and molecular evolution of calmodulin genes of chicken
+RT   and eel.";
+RL   Bull. Chem. Soc. Jpn. 57:2667-2668(1984).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=CB; TISSUE=Bursa of Fabricius;
+RX   PubMed=15642098; DOI=10.1186/gb-2004-6-1-r6;
+RA   Caldwell R.B., Kierzek A.M., Arakawa H., Bezzubov Y., Zaim J.,
+RA   Fiedler P., Kutter S., Blagodatski A., Kostovska D., Koter M.,
+RA   Plachy J., Carninci P., Hayashizaki Y., Buerstedde J.-M.;
+RT   "Full-length cDNAs from chicken bursal lymphocytes to facilitate gene
+RT   function analysis.";
+RL   Genome Biol. 6:R6.1-R6.9(2005).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS).
+RX   PubMed=9195880; DOI=10.1016/S0969-2126(97)00217-7;
+RA   Tabernero L., Taylor D.A., Chandross R.J., VanBerkum M.F.A.,
+RA   Means A.R., Quiocho F.A., Sack J.S.;
+RT   "The structure of a calmodulin mutant with a deletion in the central
+RT   helix: implications for molecular recognition and protein binding.";
+RL   Structure 5:613-622(1997).
+CC   -!- FUNCTION: Calmodulin mediates the control of a large number of
+CC       enzymes, ion channels and other proteins by Ca(2+). Among the
+CC       enzymes to be stimulated by the calmodulin-Ca(2+) complex are a
+CC       number of protein kinases and phosphatases.
+CC   -!- MISCELLANEOUS: This protein has four functional calcium-binding
+CC       sites.
+CC   -!- SIMILARITY: Belongs to the calmodulin family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 4 EF-hand domains. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00448}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; L00101; AAA48653.1; -; Genomic_DNA.
+DR   EMBL; L00096; AAA48653.1; JOINED; Genomic_DNA.
+DR   EMBL; L00097; AAA48653.1; JOINED; Genomic_DNA.
+DR   EMBL; L00098; AAA48653.1; JOINED; Genomic_DNA.
+DR   EMBL; L00099; AAA48653.1; JOINED; Genomic_DNA.
+DR   EMBL; L00100; AAA48653.1; JOINED; Genomic_DNA.
+DR   EMBL; M36167; AAA48650.1; -; mRNA.
+DR   EMBL; AJ720728; CAG32387.1; -; mRNA.
+DR   PIR; A92394; MCCH.
+DR   UniGene; Gga.11685; -.
+DR   PDB; 1AHR; X-ray; 1.80 A; A=2-149.
+DR   PDB; 1UP5; X-ray; 1.90 A; A/B=2-149.
+DR   PDB; 2BCX; X-ray; 2.00 A; A=2-149.
+DR   PDB; 2BKI; X-ray; 2.90 A; B/D=2-149.
+DR   PDB; 2KZ2; NMR; -; A=77-149.
+DR   PDB; 2M3S; NMR; -; A=1-149.
+DR   PDB; 2O5G; X-ray; 1.08 A; A=2-149.
+DR   PDB; 2O60; X-ray; 1.55 A; A=2-149.
+DR   PDB; 2VB6; X-ray; 2.30 A; B=1-149.
+DR   PDB; 3GOF; X-ray; 1.45 A; A/B=2-149.
+DR   PDB; 3GP2; X-ray; 1.46 A; A=2-148.
+DR   PDB; 4BYA; NMR; -; A=77-149.
+DR   PDBsum; 1AHR; -.
+DR   PDBsum; 1UP5; -.
+DR   PDBsum; 2BCX; -.
+DR   PDBsum; 2BKI; -.
+DR   PDBsum; 2KZ2; -.
+DR   PDBsum; 2M3S; -.
+DR   PDBsum; 2O5G; -.
+DR   PDBsum; 2O60; -.
+DR   PDBsum; 2VB6; -.
+DR   PDBsum; 3GOF; -.
+DR   PDBsum; 3GP2; -.
+DR   PDBsum; 4BYA; -.
+DR   ProteinModelPortal; P62149; -.
+DR   SMR; P62149; 1-149.
+DR   DIP; DIP-29154N; -.
+DR   STRING; 9031.ENSGALP00000037503; -.
+DR   BindingDB; P62149; -.
+DR   PaxDb; P62149; -.
+DR   PRIDE; P62149; -.
+DR   eggNOG; COG5126; -.
+DR   HOVERGEN; HBG012180; -.
+DR   InParanoid; P62149; -.
+DR   OrthoDB; EOG7F7WBV; -.
+DR   TreeFam; TF300912; -.
+DR   Reactome; REACT_272591; Activation of CaMK IV.
+DR   Reactome; REACT_275573; eNOS activation.
+DR   Reactome; REACT_283814; Calmodulin induced events.
+DR   Reactome; REACT_285977; VEGFR2 mediated vascular permeability.
+DR   Reactome; REACT_288861; Platelet degranulation.
+DR   Reactome; REACT_289326; Ca2+ pathway.
+DR   Reactome; REACT_293967; CaM pathway.
+DR   Reactome; REACT_299857; Synthesis of IP3 and IP4 in the cytosol.
+DR   Reactome; REACT_301600; Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation.
+DR   Reactome; REACT_308989; CREB phosphorylation through the activation of CaMKK.
+DR   Reactome; REACT_315717; Activation of Ca-permeable Kainate Receptor.
+DR   Reactome; REACT_318735; CREB phosphorylation through the activation of CaMKII.
+DR   Reactome; REACT_324415; DARPP-32 events.
+DR   Reactome; REACT_326286; Glycogen breakdown (glycogenolysis).
+DR   Reactome; REACT_326506; Antigen activates B Cell Receptor (BCR) leading to generation of second messengers.
+DR   Reactome; REACT_327184; Smooth Muscle Contraction.
+DR   Reactome; REACT_329972; Inactivation, recovery and regulation of the phototransduction cascade.
+DR   Reactome; REACT_335363; Ras activation uopn Ca2+ infux through NMDA receptor.
+DR   Reactome; REACT_338002; FCERI mediated Ca+2 mobilization.
+DR   Reactome; REACT_343334; CaMK IV-mediated phosphorylation of CREB.
+DR   Reactome; REACT_347414; Cam-PDE 1 activation.
+DR   Reactome; REACT_353617; Translocation of GLUT4 to the plasma membrane.
+DR   Reactome; REACT_354094; VEGFR2 mediated cell proliferation.
+DR   Reactome; REACT_359218; RHO GTPases activate PAKs.
+DR   Reactome; REACT_360300; RHO GTPases activate IQGAPs.
+DR   Reactome; REACT_360664; CLEC7A (Dectin-1) induces NFAT activation.
+DR   EvolutionaryTrace; P62149; -.
+DR   NextBio; 20873068; -.
+DR   Proteomes; UP000000539; Unplaced.
+DR   ExpressionAtlas; P62149; baseline and differential.
+DR   GO; GO:0034704; C:calcium channel complex; IEA:Ensembl.
+DR   GO; GO:0005813; C:centrosome; IEA:Ensembl.
+DR   GO; GO:0070062; C:extracellular exosome; IEA:Ensembl.
+DR   GO; GO:0005634; C:nucleus; IEA:Ensembl.
+DR   GO; GO:0030017; C:sarcomere; IEA:Ensembl.
+DR   GO; GO:0005876; C:spindle microtubule; IEA:Ensembl.
+DR   GO; GO:0000922; C:spindle pole; IEA:Ensembl.
+DR   GO; GO:0005509; F:calcium ion binding; IEA:InterPro.
+DR   GO; GO:0017022; F:myosin binding; IPI:UniProtKB.
+DR   GO; GO:0072542; F:protein phosphatase activator activity; IEA:Ensembl.
+DR   GO; GO:0005513; P:detection of calcium ion; IEA:Ensembl.
+DR   GO; GO:0030801; P:positive regulation of cyclic nucleotide metabolic process; IEA:Ensembl.
+DR   GO; GO:0051343; P:positive regulation of cyclic-nucleotide phosphodiesterase activity; IEA:Ensembl.
+DR   GO; GO:0032516; P:positive regulation of phosphoprotein phosphatase activity; IEA:Ensembl.
+DR   GO; GO:0035307; P:positive regulation of protein dephosphorylation; IEA:Ensembl.
+DR   GO; GO:0060316; P:positive regulation of ryanodine-sensitive calcium-release channel activity; IEA:Ensembl.
+DR   GO; GO:0055117; P:regulation of cardiac muscle contraction; IEA:Ensembl.
+DR   GO; GO:0032465; P:regulation of cytokinesis; IEA:Ensembl.
+DR   GO; GO:0002027; P:regulation of heart rate; IEA:Ensembl.
+DR   GO; GO:0010880; P:regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum; IEA:Ensembl.
+DR   GO; GO:0021762; P:substantia nigra development; IEA:Ensembl.
+DR   Gene3D; 1.10.238.10; -; 2.
+DR   InterPro; IPR011992; EF-hand-dom_pair.
+DR   InterPro; IPR018247; EF_Hand_1_Ca_BS.
+DR   InterPro; IPR002048; EF_hand_dom.
+DR   Pfam; PF13499; EF-hand_7; 2.
+DR   SMART; SM00054; EFh; 4.
+DR   PROSITE; PS00018; EF_HAND_1; 4.
+DR   PROSITE; PS50222; EF_HAND_2; 4.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Calcium; Complete proteome; Metal-binding;
+KW   Methylation; Reference proteome; Repeat.
+FT   INIT_MET      1      1       Removed. {ECO:0000250}.
+FT   CHAIN         2    149       Calmodulin.
+FT                                /FTId=PRO_0000198230.
+FT   DOMAIN        8     43       EF-hand 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00448}.
+FT   DOMAIN       44     79       EF-hand 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00448}.
+FT   DOMAIN       81    116       EF-hand 3. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00448}.
+FT   DOMAIN      117    149       EF-hand 4. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00448}.
+FT   CA_BIND      21     32       1.
+FT   CA_BIND      57     68       2.
+FT   CA_BIND      94    105       3.
+FT   CA_BIND     130    141       4.
+FT   MOD_RES       2      2       N-acetylalanine. {ECO:0000250}.
+FT   MOD_RES     116    116       N6,N6,N6-trimethyllysine. {ECO:0000250}.
+FT   TURN          2      4       {ECO:0000244|PDB:2M3S}.
+FT   HELIX         7     20       {ECO:0000244|PDB:2O5G}.
+FT   STRAND       25     28       {ECO:0000244|PDB:2O5G}.
+FT   HELIX        30     39       {ECO:0000244|PDB:2O5G}.
+FT   HELIX        46     56       {ECO:0000244|PDB:2O5G}.
+FT   STRAND       61     65       {ECO:0000244|PDB:2O5G}.
+FT   HELIX        66     74       {ECO:0000244|PDB:2O5G}.
+FT   TURN         79     81       {ECO:0000244|PDB:2M3S}.
+FT   HELIX        82     93       {ECO:0000244|PDB:2O5G}.
+FT   STRAND       98    101       {ECO:0000244|PDB:2O5G}.
+FT   HELIX       103    112       {ECO:0000244|PDB:2O5G}.
+FT   HELIX       119    129       {ECO:0000244|PDB:2O5G}.
+FT   STRAND      134    138       {ECO:0000244|PDB:2O5G}.
+FT   HELIX       139    145       {ECO:0000244|PDB:2O5G}.
+SQ   SEQUENCE   149 AA;  16838 MW;  6B4BC3FCDE10727B CRC64;
+     MADQLTEEQI AEFKEAFSLF DKDGDGTITT KELGTVMRSL GQNPTEAELQ DMINEVDADG
+     NGTIDFPEFL TMMARKMKDT DSEEEIREAF RVFDKDGNGY ISAAELRHVM TNLGEKLTDE
+     EVDEMIREAD IDGDGQVNYE EFVQMMTAK
+//

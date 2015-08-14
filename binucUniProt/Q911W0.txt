@@ -1,0 +1,102 @@
+ID   Q911W0_9ALPH            Unreviewed;       919 AA.
+AC   Q911W0;
+DT   01-DEC-2001, integrated into UniProtKB/TrEMBL.
+DT   01-DEC-2001, sequence version 1.
+DT   01-APR-2015, entry version 46.
+DE   SubName: Full=UL37 {ECO:0000313|EMBL:AFI70802.1};
+DE   SubName: Full=UL37 protein {ECO:0000313|EMBL:CAC39439.1};
+GN   Name=ul37 {ECO:0000313|EMBL:CAC39439.1};
+GN   Synonyms=UL37 {ECO:0000313|EMBL:AEM63986.1};
+OS   Suid herpesvirus 1 (Pseudorabies virus).
+OC   Viruses; dsDNA viruses, no RNA stage; Herpesvirales; Herpesviridae;
+OC   Alphaherpesvirinae; Varicellovirus.
+OX   NCBI_TaxID=10345 {ECO:0000313|EMBL:CAC39439.1};
+RN   [1] {ECO:0000313|EMBL:CAC39439.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=11533156; DOI=10.1128/JVI.75.19.8927-8936.2001;
+RA   Klupp B.G., Granzow H., Mundt E., Mettenleiter T.C.;
+RT   "Pseudorabies virus UL37 gene product is involved in secondary
+RT   envelopment.";
+RL   J. Virol. 75:8927-8936(2001).
+RN   [2] {ECO:0000313|EMBL:AEM63986.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=Bartha {ECO:0000313|EMBL:AEM63986.1},
+RC   Becker {ECO:0000313|EMBL:AEM64124.1}, and
+RC   Kaplan {ECO:0000313|EMBL:AEM64055.1};
+RX   PubMed=22022263; DOI=10.1371/journal.ppat.1002282;
+RA   Szpara M.L., Tafuri Y.R., Parsons L., Shamim S.R., Verstrepen K.J.,
+RA   Legendre M., Enquist L.W.;
+RT   "A wide extent of inter-strain diversity in virulent and vaccine
+RT   strains of alphaherpesviruses.";
+RL   PLoS Pathog. 7:E1002282-E1002282(2011).
+RN   [3] {ECO:0000313|EMBL:AFI70802.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=Kaplan {ECO:0000313|EMBL:AFI70802.1};
+RX   PubMed=22491460; DOI=10.1128/JVI.00068-12;
+RA   Grimm K.S., Klupp B.G., Granzow H., Muller F.M., Fuchs W.,
+RA   Mettenleiter T.C.;
+RT   "Analysis of viral and cellular factors influencing herpesvirus-
+RT   induced nuclear envelope breakdown.";
+RL   J. Virol. 86:6512-6521(2012).
+RN   [4] {ECO:0000313|EMBL:AID18738.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=Kaplan {ECO:0000313|EMBL:AID18738.1};
+RX   PubMed=25035325;
+RA   Tombacz D., Sharon D., Olah P., Csabai Z., Snyder M., Boldogkoi Z.;
+RT   "Strain Kaplan of Pseudorabies Virus Genome Sequenced by PacBio
+RT   Single-Molecule Real-Time Sequencing Technology.";
+RL   Genome Announc. 2:e00628-14(2014).
+RN   [5] {ECO:0000213|PDB:4K70}
+RP   X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS) OF 1-496 IN COMPLEX WITH
+RP   CALCIUM.
+RX   PubMed=24599989;
+RA   Pitts J.D., Klabis J., Richards A.L., Smith G.A., Heldwein E.E.;
+RT   "Crystal structure of the herpesvirus inner tegument protein UL37
+RT   supports its essential role in control of viral trafficking.";
+RL   J. Virol. 88:5462-5473(2014).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; JF797217; AEM63986.1; -; Genomic_DNA.
+DR   EMBL; JF797218; AEM64055.1; -; Genomic_DNA.
+DR   EMBL; JF797219; AEM64124.1; -; Genomic_DNA.
+DR   EMBL; JQ809328; AFI70802.1; -; Genomic_DNA.
+DR   EMBL; KJ717942; AID18738.1; -; Genomic_DNA.
+DR   EMBL; AJ318065; CAC39439.1; -; Genomic_DNA.
+DR   RefSeq; YP_068340.1; NC_006151.1.
+DR   PDB; 4K70; X-ray; 2.00 A; A/B=1-496.
+DR   PDBsum; 4K70; -.
+DR   GeneID; 2952491; -.
+DR   KEGG; vg:2952491; -.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0019068; P:virion assembly; IEA:InterPro.
+DR   InterPro; IPR005655; Herpes_UL37_HHV-3-rel.
+DR   Pfam; PF03970; Herpes_UL37_1; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4K70}; Calcium {ECO:0000213|PDB:4K70};
+KW   Metal-binding {ECO:0000213|PDB:4K70}.
+FT   METAL        79     79       Calcium 1. {ECO:0000213|PDB:4K70}.
+FT   METAL        81     81       Calcium 1. {ECO:0000213|PDB:4K70}.
+FT   METAL       379    379       Calcium 2; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:4K70}.
+FT   METAL       382    382       Calcium 2. {ECO:0000213|PDB:4K70}.
+FT   METAL       383    383       Calcium 2. {ECO:0000213|PDB:4K70}.
+SQ   SEQUENCE   919 AA;  98197 MW;  626DEB4E0DF4B5C7 CRC64;
+     MEALVRALEE ADHAVATVVQ SRILEFFMAA GRETPAGVRG LWARALRLAC RAYVETGTCE
+     AAVLAENLAG LALWRLRHDW DEGTAPLLEL LGVVNGDDTT AALTEAGLRT SAEFGPDAMF
+     RLVSEWCAAF DEALAGARSA DDVLAAPRVV PPEQTARALV QPRFATLYDM DFVQDGLRYV
+     AQHTNWALPL ALAVRQMQNE GLKPLTRALF ALTIADEFFH DRQNPTLREQ FAEAARAVDE
+     AALVPVGEVN ATPRTAVEVR VSAALAHGDA YVRELRPGTV ARRLRTDQGV LALLDPGAQA
+     VHVAAAADLD HTQVDATGVW EAVQASASPL QVVEALVTAG FTRRHCDLLE RAVLDRAPRL
+     TDAQRAVGCT AVVGGVVHRL LDDYGPGLDY VRAYTDVADT LEPLYGDVTA ALGLPEKGVE
+     HVVRHCMAPR PPTEHVGAAR AALLREVAAA ERRAGLAHSA AREALNTWLA FRAQSRWGLR
+     ADGAGETPME APTSAALVDL AAAADLVNYP SMVHLEAMAD PSFAPFFVVT AVADAYNCLL
+     TASYDRRADL AQVLTWARDY GAGLIPNVSG YRTKLAALVA ALAREDLTVA HARNVEALAH
+     ELHGVVRAAA EVLEAPAPAP PSLAASAFLG DLLARALRRR LEDMATHTGD LLDSMATAAG
+     AVAERVVALE RLFTCRFVFR GRTASVFAPG EGGPCLGTWR LADVVDAVGA FRAEVNTHRS
+     DMRADAGALR GVMAQTTEAL RECEALGLQA PVFRTLCADH ARLSKLQTSA ALTAGRLQAA
+     TVLRPVERFL ARWDLVSAAL RRAVDERGVL ALVATLRETW TEAREEQAPP APAFTPEELR
+     EAADRVLGDY HEVAGDGEAG PDAVPLSASV NVRDWAAVNL EVLRRGARAP DDASAGVPLL
+     AQTWVPVDRL LAEVDAVSK
+//

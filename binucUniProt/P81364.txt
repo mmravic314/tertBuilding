@@ -1,0 +1,99 @@
+ID   CONA_CANRO              Reviewed;         236 AA.
+AC   P81364;
+DT   15-DEC-1998, integrated into UniProtKB/Swiss-Prot.
+DT   15-DEC-1998, sequence version 1.
+DT   26-NOV-2014, entry version 77.
+DE   RecName: Full=Concanavalin-Ma;
+DE            Short=Con Ma;
+OS   Canavalia rosea (Beach bean) (Canavalia maritima).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+OC   Phaseoleae; Canavalia.
+OX   NCBI_TaxID=3825;
+RN   [1]
+RP   PROTEIN SEQUENCE.
+RX   PubMed=1367779; DOI=10.1016/0031-9422(91)85111-C;
+RA   Perez G., Perez C., Sousa-Cavada B., Moreira R., Richardson M.;
+RT   "Comparison of the amino acid sequences of the lectins from seeds of
+RT   Dioclea lehmanni and Canavalia maritima.";
+RL   Phytochemistry 30:2619-2621(1991).
+CC   -!- FUNCTION: Glucose/D-mannose specific lectin.
+CC   -!- SUBUNIT: Homotetramer.
+CC   -!- MISCELLANEOUS: Binds one manganese (or another transition metal)
+CC       ion and one calcium ion. The metal ions are essential for the
+CC       saccharide-binding and cell-agglutinating activities.
+CC   -!- SIMILARITY: Belongs to the leguminous lectin family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   PIR; B45587; B45587.
+DR   PDB; 2CWM; X-ray; 1.95 A; A/D=1-236.
+DR   PDB; 2OW4; X-ray; 1.60 A; A=1-236.
+DR   PDB; 2P34; X-ray; 2.10 A; A/B/C/D=1-236.
+DR   PDB; 2P37; X-ray; 2.10 A; A/B/C/D=1-236.
+DR   PDBsum; 2CWM; -.
+DR   PDBsum; 2OW4; -.
+DR   PDBsum; 2P34; -.
+DR   PDBsum; 2P37; -.
+DR   EvolutionaryTrace; P81364; -.
+DR   GO; GO:0005537; F:mannose binding; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 2.60.120.200; -; 2.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR000985; Lectin_LegA_CS.
+DR   InterPro; IPR019825; Lectin_legB_Mn/Ca_BS.
+DR   InterPro; IPR001220; Legume_lectin_dom.
+DR   Pfam; PF00139; Lectin_legB; 2.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   PROSITE; PS00308; LECTIN_LEGUME_ALPHA; 1.
+DR   PROSITE; PS00307; LECTIN_LEGUME_BETA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Calcium; Direct protein sequencing; Lectin; Manganese;
+KW   Mannose-binding; Metal-binding.
+FT   CHAIN         1    236       Concanavalin-Ma.
+FT                                /FTId=PRO_0000105086.
+FT   REGION       98     99       Carbohydrate binding. {ECO:0000250}.
+FT   METAL         8      8       Manganese. {ECO:0000250}.
+FT   METAL        10     10       Calcium. {ECO:0000250}.
+FT   METAL        10     10       Manganese. {ECO:0000250}.
+FT   METAL        12     12       Calcium; via carbonyl oxygen.
+FT                                {ECO:0000250}.
+FT   METAL        14     14       Calcium. {ECO:0000250}.
+FT   METAL        19     19       Calcium. {ECO:0000250}.
+FT   METAL        19     19       Manganese. {ECO:0000250}.
+FT   METAL        24     24       Manganese. {ECO:0000250}.
+FT   METAL       207    207       Calcium. {ECO:0000250}.
+FT   BINDING      12     12       Carbohydrate. {ECO:0000250}.
+FT   BINDING     227    227       Carbohydrate; via amide nitrogen.
+FT                                {ECO:0000250}.
+FT   STRAND        4     10       {ECO:0000244|PDB:2OW4}.
+FT   HELIX        15     17       {ECO:0000244|PDB:2OW4}.
+FT   STRAND       24     33       {ECO:0000244|PDB:2OW4}.
+FT   STRAND       35     38       {ECO:0000244|PDB:2OW4}.
+FT   STRAND       45     54       {ECO:0000244|PDB:2OW4}.
+FT   TURN         55     58       {ECO:0000244|PDB:2OW4}.
+FT   STRAND       59     65       {ECO:0000244|PDB:2OW4}.
+FT   STRAND       71     77       {ECO:0000244|PDB:2OW4}.
+FT   HELIX        80     82       {ECO:0000244|PDB:2OW4}.
+FT   STRAND       86     95       {ECO:0000244|PDB:2OW4}.
+FT   STRAND       97     99       {ECO:0000244|PDB:2CWM}.
+FT   STRAND      104    120       {ECO:0000244|PDB:2OW4}.
+FT   STRAND      122    131       {ECO:0000244|PDB:2OW4}.
+FT   STRAND      139    143       {ECO:0000244|PDB:2OW4}.
+FT   STRAND      149    151       {ECO:0000244|PDB:2CWM}.
+FT   STRAND      153    156       {ECO:0000244|PDB:2OW4}.
+FT   STRAND      169    176       {ECO:0000244|PDB:2OW4}.
+FT   STRAND      185    197       {ECO:0000244|PDB:2OW4}.
+FT   STRAND      201    204       {ECO:0000244|PDB:2OW4}.
+FT   STRAND      208    215       {ECO:0000244|PDB:2OW4}.
+FT   HELIX       226    228       {ECO:0000244|PDB:2OW4}.
+FT   TURN        229    231       {ECO:0000244|PDB:2OW4}.
+SQ   SEQUENCE   236 AA;  25364 MW;  D67791C3B0EB150A CRC64;
+     ADTIVAVELD TYPNTDVGDP SYPHXXXXXX SVRXXTAKWN MQNGKVGTAH ISYNSVGKRL
+     SAVVSYPNGD SATVSYDVDL DNVLPEWVRV GLSASTGLYK ETNTILSWSF TSKLKSNSTH
+     ETNALHFMFN QFTKDQKDLI LQSDATTGTD GNLXXTRVSS NGPSQGSTVG RALFYAPVHI
+     WESSATVAGF DATFXXLIKS PDSHPADGIA FFISNIDSSI PSGSTGRLLG LFPDAN
+//

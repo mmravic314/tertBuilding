@@ -1,0 +1,147 @@
+ID   DCS1_GOSAR              Reviewed;         554 AA.
+AC   Q39761;
+DT   15-JUL-1998, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   01-APR-2015, entry version 83.
+DE   RecName: Full=(+)-delta-cadinene synthase isozyme XC1;
+DE            Short=D-cadinene synthase XC1;
+DE            EC=4.2.3.13;
+OS   Gossypium arboreum (Tree cotton) (Gossypium nanking).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae;
+OC   Gossypium.
+OX   NCBI_TaxID=29729;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=cv. Nanking;
+RX   PubMed=8554317; DOI=10.1006/abbi.1995.0038;
+RA   Chen X.-Y., Chen Y., Heinstein P., Davisson V.J.;
+RT   "Cloning, expression, and characterization of (+)-delta-cadinene
+RT   synthase: a catalyst for cotton phytoalexin biosynthesis.";
+RL   Arch. Biochem. Biophys. 324:255-266(1995).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS) IN COMPLEX WITH MAGNESIUM IONS
+RP   AND SUBSTRATE, FUNCTION, CATALYTIC ACTIVITY, COFACTOR, AND MUTAGENESIS
+RP   OF ASP-307; ASP-311; ASP-451; ASP-452 AND GLU-455.
+RX   PubMed=19489610; DOI=10.1021/bi900483b;
+RA   Gennadios H.A., Gonzalez V., Di Costanzo L., Li A., Yu F.,
+RA   Miller D.J., Allemann R.K., Christianson D.W.;
+RT   "Crystal structure of (+)-delta-cadinene synthase from Gossypium
+RT   arboreum and evolutionary divergence of metal binding motifs for
+RT   catalysis.";
+RL   Biochemistry 48:6175-6183(2009).
+CC   -!- FUNCTION: Responsible for the cyclization of trans,trans-farnesyl
+CC       diphosphate (FPP) to (+)-delta cadinene.
+CC       {ECO:0000269|PubMed:19489610}.
+CC   -!- CATALYTIC ACTIVITY: (2E,6E)-farnesyl diphosphate = (+)-delta-
+CC       cadinene + diphosphate. {ECO:0000269|PubMed:19489610}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000269|PubMed:19489610};
+CC       Note=Binds 3 Mg(2+) ions per subunit.
+CC       {ECO:0000269|PubMed:19489610};
+CC   -!- PATHWAY: Secondary metabolite biosynthesis; terpenoid
+CC       biosynthesis.
+CC   -!- DOMAIN: The Asp-Asp-Xaa-Xaa-Asp/Glu (DDXXD/E) motif is important
+CC       for the catalytic activity, presumably through binding to Mg(2+).
+CC   -!- SIMILARITY: Belongs to the terpene synthase family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U23206; AAA93064.1; -; mRNA.
+DR   PIR; S68365; S68365.
+DR   PDB; 3G4D; X-ray; 2.40 A; A/B=1-554.
+DR   PDB; 3G4F; X-ray; 2.65 A; A/B=1-554.
+DR   PDBsum; 3G4D; -.
+DR   PDBsum; 3G4F; -.
+DR   ProteinModelPortal; Q39761; -.
+DR   PRIDE; Q39761; -.
+DR   BRENDA; 4.2.3.13; 2497.
+DR   UniPathway; UPA00213; -.
+DR   EvolutionaryTrace; Q39761; -.
+DR   GO; GO:0047461; F:(+)-delta-cadinene synthase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:InterPro.
+DR   GO; GO:0016114; P:terpenoid biosynthetic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 1.10.600.10; -; 1.
+DR   Gene3D; 1.50.30.10; -; 1.
+DR   InterPro; IPR008949; Isoprenoid_synthase_dom.
+DR   InterPro; IPR001906; Terpene_synth_N.
+DR   InterPro; IPR005630; Terpene_synthase_metal-bd.
+DR   InterPro; IPR008930; Terpenoid_cyclase/PrenylTrfase.
+DR   Pfam; PF01397; Terpene_synth; 1.
+DR   Pfam; PF03936; Terpene_synth_C; 1.
+DR   SUPFAM; SSF48239; SSF48239; 1.
+DR   SUPFAM; SSF48576; SSF48576; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Lyase; Magnesium; Metal-binding.
+FT   CHAIN         1    554       (+)-delta-cadinene synthase isozyme XC1.
+FT                                /FTId=PRO_0000186439.
+FT   MOTIF       307    311       DDXXD motif.
+FT   METAL       307    307       Magnesium 1.
+FT   METAL       307    307       Magnesium 2. {ECO:0000305}.
+FT   METAL       311    311       Magnesium 1.
+FT   METAL       311    311       Magnesium 2. {ECO:0000305}.
+FT   METAL       451    451       Magnesium 3.
+FT   METAL       455    455       Magnesium 3.
+FT   MUTAGEN     307    307       D->A: Strongly reduced activity.
+FT                                {ECO:0000269|PubMed:19489610}.
+FT   MUTAGEN     308    308       D->A: Reduces affinity for substrate
+FT                                about 12-fold.
+FT   MUTAGEN     311    311       D->A: Strongly reduced activity.
+FT                                {ECO:0000269|PubMed:19489610}.
+FT   MUTAGEN     451    451       D->A: No effect.
+FT                                {ECO:0000269|PubMed:19489610}.
+FT   MUTAGEN     452    452       D->A: No effect.
+FT                                {ECO:0000269|PubMed:19489610}.
+FT   MUTAGEN     455    455       E->A: Strongly reduced activity.
+FT                                {ECO:0000269|PubMed:19489610}.
+FT   TURN         31     37       {ECO:0000244|PDB:3G4D}.
+FT   HELIX        46     64       {ECO:0000244|PDB:3G4D}.
+FT   HELIX        70     82       {ECO:0000244|PDB:3G4D}.
+FT   HELIX        86     88       {ECO:0000244|PDB:3G4D}.
+FT   HELIX        90    102       {ECO:0000244|PDB:3G4D}.
+FT   HELIX       111    123       {ECO:0000244|PDB:3G4D}.
+FT   HELIX       130    136       {ECO:0000244|PDB:3G4D}.
+FT   STRAND      141    143       {ECO:0000244|PDB:3G4D}.
+FT   HELIX       145    149       {ECO:0000244|PDB:3G4D}.
+FT   HELIX       151    161       {ECO:0000244|PDB:3G4D}.
+FT   HELIX       169    185       {ECO:0000244|PDB:3G4D}.
+FT   HELIX       186    188       {ECO:0000244|PDB:3G4F}.
+FT   HELIX       193    202       {ECO:0000244|PDB:3G4D}.
+FT   TURN        205    207       {ECO:0000244|PDB:3G4D}.
+FT   HELIX       210    222       {ECO:0000244|PDB:3G4D}.
+FT   HELIX       229    260       {ECO:0000244|PDB:3G4D}.
+FT   HELIX       262    265       {ECO:0000244|PDB:3G4D}.
+FT   HELIX       273    283       {ECO:0000244|PDB:3G4D}.
+FT   HELIX       287    289       {ECO:0000244|PDB:3G4D}.
+FT   HELIX       290    310       {ECO:0000244|PDB:3G4D}.
+FT   HELIX       316    328       {ECO:0000244|PDB:3G4D}.
+FT   HELIX       331    336       {ECO:0000244|PDB:3G4D}.
+FT   HELIX       339    341       {ECO:0000244|PDB:3G4D}.
+FT   HELIX       342    359       {ECO:0000244|PDB:3G4D}.
+FT   HELIX       360    362       {ECO:0000244|PDB:3G4D}.
+FT   HELIX       366    390       {ECO:0000244|PDB:3G4D}.
+FT   HELIX       397    404       {ECO:0000244|PDB:3G4D}.
+FT   HELIX       405    407       {ECO:0000244|PDB:3G4D}.
+FT   HELIX       410    419       {ECO:0000244|PDB:3G4D}.
+FT   HELIX       427    434       {ECO:0000244|PDB:3G4D}.
+FT   HELIX       438    456       {ECO:0000244|PDB:3G4D}.
+FT   HELIX       468    476       {ECO:0000244|PDB:3G4D}.
+FT   HELIX       480    502       {ECO:0000244|PDB:3G4D}.
+FT   STRAND      503    505       {ECO:0000244|PDB:3G4D}.
+FT   HELIX       510    526       {ECO:0000244|PDB:3G4D}.
+FT   HELIX       538    548       {ECO:0000244|PDB:3G4D}.
+SQ   SEQUENCE   554 AA;  64138 MW;  59D6922DEDF9DCAF CRC64;
+     MASQVSQMPS SSPLSSNKDE MRPKADFQPS IWGDLFLNCP DKNIDAETEK RHQQLKEEVR
+     KMIVAPMANS TQKLAFIDSV QRLGVSYHFT KEIEDELENI YHNNNDAEND LYTTSIRFRL
+     LREHGYNVSC DVFNKFKDEQ GNFKSSVTSD VRGLLELYQA SYLRVHGEDI LDEAISFTTH
+     HLSLAVASLD HPLSEEVSHA LKQSIRRGLP RVEARHYLSV YQDIESHNKA LLEFAKIDFN
+     MLQFLHRKEL SEICRWWKDL DFQRKLPYAR DRVVEGYFWI SGVYFEPQYS LGRKMLTKVI
+     AMASIVDDTY DSYATYEELI PYTNAIERWD IKCIDEIPEY MKPSYKALLD VYEEMVQLVA
+     EHGRQYRVEY AKNAMIRLAQ SYLVEAKWTL QNYKPSFEEF KANALPTCGY AMLAITSFVG
+     MGDIVTPETF KWAASDPKII QASTIICRFM DDVAEHKFKH RREDDCSAIE CYMEEYGVTA
+     QEAYDVFNKH VESAWKDLNQ EFLKPTEMPT EVLNRSLNLA RVMDVLYREG DGYTYVGKAA
+     KGGITSLLIE PIAL
+//

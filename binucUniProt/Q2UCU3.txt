@@ -1,0 +1,225 @@
+ID   BGALA_ASPOR             Reviewed;        1005 AA.
+AC   Q2UCU3;
+DT   13-JUL-2010, integrated into UniProtKB/Swiss-Prot.
+DT   24-JAN-2006, sequence version 1.
+DT   22-JUL-2015, entry version 63.
+DE   RecName: Full=Probable beta-galactosidase A;
+DE            EC=3.2.1.23;
+DE   AltName: Full=Lactase A;
+DE   Flags: Precursor;
+GN   Name=lacA; ORFNames=AO090012000445;
+OS   Aspergillus oryzae (strain ATCC 42149 / RIB 40) (Yellow koji mold).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=510516;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 42149 / RIB 40;
+RX   PubMed=16372010; DOI=10.1038/nature04300;
+RA   Machida M., Asai K., Sano M., Tanaka T., Kumagai T., Terai G.,
+RA   Kusumoto K., Arima T., Akita O., Kashiwagi Y., Abe K., Gomi K.,
+RA   Horiuchi H., Kitamoto K., Kobayashi T., Takeuchi M., Denning D.W.,
+RA   Galagan J.E., Nierman W.C., Yu J., Archer D.B., Bennett J.W.,
+RA   Bhatnagar D., Cleveland T.E., Fedorova N.D., Gotoh O., Horikawa H.,
+RA   Hosoyama A., Ichinomiya M., Igarashi R., Iwashita K., Juvvadi P.R.,
+RA   Kato M., Kato Y., Kin T., Kokubun A., Maeda H., Maeyama N.,
+RA   Maruyama J., Nagasaki H., Nakajima T., Oda K., Okada K., Paulsen I.,
+RA   Sakamoto K., Sawano T., Takahashi M., Takase K., Terabayashi Y.,
+RA   Wortman J.R., Yamada O., Yamagata Y., Anazawa H., Hata Y., Koide Y.,
+RA   Komori T., Koyama Y., Minetoki T., Suharnan S., Tanaka A., Isono K.,
+RA   Kuhara S., Ogasawara N., Kikuchi H.;
+RT   "Genome sequencing and analysis of Aspergillus oryzae.";
+RL   Nature 438:1157-1161(2005).
+CC   -!- FUNCTION: Cleaves beta-linked terminal galactosyl residues from
+CC       gangliosides, glycoproteins, and glycosaminoglycans.
+CC       {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Hydrolysis of terminal non-reducing beta-D-
+CC       galactose residues in beta-D-galactosides.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 35 family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AP007161; BAE60622.1; -; Genomic_DNA.
+DR   RefSeq; XP_001727461.1; XM_001727409.1.
+DR   PDB; 4IUG; X-ray; 2.60 A; A=1-1005.
+DR   PDBsum; 4IUG; -.
+DR   ProteinModelPortal; Q2UCU3; -.
+DR   SMR; Q2UCU3; 41-1005.
+DR   mycoCLAP; LAC35A_ASPOR; -.
+DR   EnsemblFungi; CADAORAT00006026; CADAORAP00005912; CADAORAG00006026.
+DR   GeneID; 5987935; -.
+DR   KEGG; aor:AOR_1_770194; -.
+DR   OMA; HNAPGTG; -.
+DR   OrthoDB; EOG7ZGXBD; -.
+DR   Proteomes; UP000006564; Chromosome 4.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0004565; F:beta-galactosidase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0000272; P:polysaccharide catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 2.102.20.10; -; 1.
+DR   Gene3D; 2.60.120.260; -; 2.
+DR   Gene3D; 2.60.390.10; -; 1.
+DR   Gene3D; 3.20.20.80; -; 1.
+DR   InterPro; IPR018954; Betagal_dom2.
+DR   InterPro; IPR025972; BetaGal_dom3.
+DR   InterPro; IPR025300; BetaGal_jelly_roll_dom.
+DR   InterPro; IPR008979; Galactose-bd-like.
+DR   InterPro; IPR019801; Glyco_hydro_35_CS.
+DR   InterPro; IPR013781; Glyco_hydro_catalytic_dom.
+DR   InterPro; IPR001944; Glycoside_Hdrlase_35.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   PANTHER; PTHR23421; PTHR23421; 1.
+DR   Pfam; PF10435; BetaGal_dom2; 1.
+DR   Pfam; PF13363; BetaGal_dom3; 1.
+DR   Pfam; PF13364; BetaGal_dom4_5; 2.
+DR   Pfam; PF01301; Glyco_hydro_35; 1.
+DR   PRINTS; PR00742; GLHYDRLASE35.
+DR   SMART; SM01029; BetaGal_dom2; 1.
+DR   SUPFAM; SSF117100; SSF117100; 1.
+DR   SUPFAM; SSF49785; SSF49785; 2.
+DR   SUPFAM; SSF51445; SSF51445; 1.
+DR   PROSITE; PS01182; GLYCOSYL_HYDROL_F35; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Carbohydrate metabolism; Complete proteome;
+KW   Disulfide bond; Glycoprotein; Glycosidase; Hydrolase;
+KW   Polysaccharide degradation; Reference proteome; Secreted; Signal.
+FT   SIGNAL        1     18       {ECO:0000255}.
+FT   CHAIN        19   1005       Probable beta-galactosidase A.
+FT                                /FTId=PRO_0000395218.
+FT   COMPBIAS    175    184       Poly-Ala.
+FT   ACT_SITE    200    200       Proton donor. {ECO:0000255}.
+FT   ACT_SITE    298    298       Nucleophile. {ECO:0000255}.
+FT   BINDING      96     96       Substrate. {ECO:0000250}.
+FT   BINDING     140    140       Substrate. {ECO:0000250}.
+FT   BINDING     141    141       Substrate; via amide nitrogen.
+FT                                {ECO:0000250}.
+FT   BINDING     142    142       Substrate. {ECO:0000250}.
+FT   BINDING     199    199       Substrate. {ECO:0000250}.
+FT   BINDING     260    260       Substrate. {ECO:0000250}.
+FT   BINDING     364    364       Substrate. {ECO:0000250}.
+FT   CARBOHYD    156    156       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    373    373       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    402    402       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    453    453       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    478    478       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    522    522       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    622    622       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    760    760       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    777    777       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    805    805       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    914    914       N-linked (GlcNAc...). {ECO:0000255}.
+FT   DISULFID    205    206       {ECO:0000250}.
+FT   DISULFID    266    315       {ECO:0000250}.
+FT   STRAND       44     48       {ECO:0000244|PDB:4IUG}.
+FT   STRAND       53     55       {ECO:0000244|PDB:4IUG}.
+FT   STRAND       58     60       {ECO:0000244|PDB:4IUG}.
+FT   STRAND       62     67       {ECO:0000244|PDB:4IUG}.
+FT   HELIX        69     71       {ECO:0000244|PDB:4IUG}.
+FT   HELIX        75     77       {ECO:0000244|PDB:4IUG}.
+FT   HELIX        78     87       {ECO:0000244|PDB:4IUG}.
+FT   STRAND       92     96       {ECO:0000244|PDB:4IUG}.
+FT   HELIX        99    102       {ECO:0000244|PDB:4IUG}.
+FT   HELIX       113    115       {ECO:0000244|PDB:4IUG}.
+FT   HELIX       118    127       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      130    137       {ECO:0000244|PDB:4IUG}.
+FT   HELIX       144    147       {ECO:0000244|PDB:4IUG}.
+FT   HELIX       150    154       {ECO:0000244|PDB:4IUG}.
+FT   HELIX       164    169       {ECO:0000244|PDB:4IUG}.
+FT   HELIX       171    183       {ECO:0000244|PDB:4IUG}.
+FT   HELIX       186    188       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      190    200       {ECO:0000244|PDB:4IUG}.
+FT   HELIX       213    224       {ECO:0000244|PDB:4IUG}.
+FT   TURN        225    227       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      236    240       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      257    259       {ECO:0000244|PDB:4IUG}.
+FT   HELIX       281    288       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      295    302       {ECO:0000244|PDB:4IUG}.
+FT   HELIX       312    318       {ECO:0000244|PDB:4IUG}.
+FT   HELIX       321    332       {ECO:0000244|PDB:4IUG}.
+FT   TURN        333    335       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      337    345       {ECO:0000244|PDB:4IUG}.
+FT   HELIX       350    352       {ECO:0000244|PDB:4IUG}.
+FT   HELIX       377    390       {ECO:0000244|PDB:4IUG}.
+FT   HELIX       393    395       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      404    410       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      412    420       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      422    424       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      426    434       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      440    443       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      445    449       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      452    460       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      463    468       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      471    479       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      482    497       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      500    507       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      512    518       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      524    528       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      534    538       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      541    547       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      553    557       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      560    566       {ECO:0000244|PDB:4IUG}.
+FT   HELIX       567    570       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      580    583       {ECO:0000244|PDB:4IUG}.
+FT   HELIX       590    594       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      598    600       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      602    611       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      614    623       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      625    631       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      638    641       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      644    646       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      656    660       {ECO:0000244|PDB:4IUG}.
+FT   HELIX       672    674       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      678    682       {ECO:0000244|PDB:4IUG}.
+FT   HELIX       684    686       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      695    697       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      706    708       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      711    714       {ECO:0000244|PDB:4IUG}.
+FT   HELIX       718    721       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      728    735       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      742    748       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      755    759       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      762    767       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      774    781       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      790    797       {ECO:0000244|PDB:4IUG}.
+FT   TURN        808    810       {ECO:0000244|PDB:4IUG}.
+FT   HELIX       812    814       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      818    824       {ECO:0000244|PDB:4IUG}.
+FT   HELIX       829    831       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      833    839       {ECO:0000244|PDB:4IUG}.
+FT   TURN        840    843       {ECO:0000244|PDB:4IUG}.
+FT   TURN        848    850       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      852    854       {ECO:0000244|PDB:4IUG}.
+FT   HELIX       859    863       {ECO:0000244|PDB:4IUG}.
+FT   TURN        864    866       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      867    869       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      875    877       {ECO:0000244|PDB:4IUG}.
+FT   TURN        880    882       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      884    899       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      908    912       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      918    925       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      928    934       {ECO:0000244|PDB:4IUG}.
+FT   TURN        935    937       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      942    945       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      953    964       {ECO:0000244|PDB:4IUG}.
+FT   STRAND      975    979       {ECO:0000244|PDB:4IUG}.
+SQ   SEQUENCE   1005 AA;  109870 MW;  BAD290D2FA9EB003 CRC64;
+     MKLLSVAAVA LLAAQAAGAS IKHRLNGFTI LEHPDPAKRD LLQDIVTWDD KSLFINGERI
+     MLFSGEVHPF RLPVPSLWLD IFHKIRALGF NCVSFYIDWA LLEGKPGDYR AEGIFALEPF
+     FDAAKEAGIY LIARPGSYIN AEVSGGGFPG WLQRVNGTLR SSDEPFLKAT DNYIANAAAA
+     VAKAQITNGG PVILYQPENE YSGGCCGVKY PDADYMQYVM DQARKADIVV PFISNDASPS
+     GHNAPGSGTG AVDIYGHDSY PLGFDCANPS VWPEGKLPDN FRTLHLEQSP STPYSLLEFQ
+     AGAFDPWGGP GFEKCYALVN HEFSRVFYRN DLSFGVSTFN LYMTFGGTNW GNLGHPGGYT
+     SYDYGSPITE TRNVTREKYS DIKLLANFVK ASPSYLTATP RNLTTGVYTD TSDLAVTPLI
+     GDSPGSFFVV RHTDYSSQES TSYKLKLPTS AGNLTIPQLE GTLSLNGRDS KIHVVDYNVS
+     GTNIIYSTAE VFTWKKFDGN KVLVLYGGPK EHHELAIASK SNVTIIEGSD SGIVSTRKGS
+     SVIIGWDVSS TRRIVQVGDL RVFLLDRNSA YNYWVPELPT EGTSPGFSTS KTTASSIIVK
+     AGYLLRGAHL DGADLHLTAD FNATTPIEVI GAPTGAKNLF VNGEKASHTV DKNGIWSSEV
+     KYAAPEIKLP GLKDLDWKYL DTLPEIKSSY DDSAWVSADL PKTKNTHRPL DTPTSLYSSD
+     YGFHTGYLIY RGHFVANGKE SEFFIRTQGG SAFGSSVWLN ETYLGSWTGA DYAMDGNSTY
+     KLSQLESGKN YVITVVIDNL GLDENWTVGE ETMKNPRGIL SYKLSGQDAS AITWKLTGNL
+     GGEDYQDKVR GPLNEGGLYA ERQGFHQPQP PSESWESGSP LEGLSKPGIG FYTAQFDLDL
+     PKGWDVPLYF NFGNNTQAAR AQLYVNGYQY GKFTGNVGPQ TSFPVPEGIL NYRGTNYVAL
+     SLWALESDGA KLGSFELSYT TPVLTGYGNV ESPEQPKYEQ RKGAY
+//

@@ -1,0 +1,561 @@
+ID   ROBO1_HUMAN             Reviewed;        1651 AA.
+AC   Q9Y6N7; B2RXI1; D3DU36; E9PD49; Q1RMC7; Q7Z300; Q9BUS7;
+DT   21-JUN-2004, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1999, sequence version 1.
+DT   22-JUL-2015, entry version 139.
+DE   RecName: Full=Roundabout homolog 1;
+DE   AltName: Full=Deleted in U twenty twenty;
+DE   AltName: Full=H-Robo-1;
+DE   Flags: Precursor;
+GN   Name=ROBO1; Synonyms=DUTT1;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RX   PubMed=9458045; DOI=10.1016/S0092-8674(00)80915-0;
+RA   Kidd T., Brose K., Mitchell K.J., Fetter R.D., Tessier-Lavigne M.,
+RA   Goodman C.S., Tear G.;
+RT   "Roundabout controls axon crossing of the CNS midline and defines a
+RT   novel subfamily of evolutionarily conserved guidance receptors.";
+RL   Cell 92:205-215(1998).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16641997; DOI=10.1038/nature04728;
+RA   Muzny D.M., Scherer S.E., Kaul R., Wang J., Yu J., Sudbrak R.,
+RA   Buhay C.J., Chen R., Cree A., Ding Y., Dugan-Rocha S., Gill R.,
+RA   Gunaratne P., Harris R.A., Hawes A.C., Hernandez J., Hodgson A.V.,
+RA   Hume J., Jackson A., Khan Z.M., Kovar-Smith C., Lewis L.R.,
+RA   Lozado R.J., Metzker M.L., Milosavljevic A., Miner G.R., Morgan M.B.,
+RA   Nazareth L.V., Scott G., Sodergren E., Song X.-Z., Steffen D., Wei S.,
+RA   Wheeler D.A., Wright M.W., Worley K.C., Yuan Y., Zhang Z., Adams C.Q.,
+RA   Ansari-Lari M.A., Ayele M., Brown M.J., Chen G., Chen Z.,
+RA   Clendenning J., Clerc-Blankenburg K.P., Chen R., Chen Z., Davis C.,
+RA   Delgado O., Dinh H.H., Dong W., Draper H., Ernst S., Fu G.,
+RA   Gonzalez-Garay M.L., Garcia D.K., Gillett W., Gu J., Hao B.,
+RA   Haugen E., Havlak P., He X., Hennig S., Hu S., Huang W., Jackson L.R.,
+RA   Jacob L.S., Kelly S.H., Kube M., Levy R., Li Z., Liu B., Liu J.,
+RA   Liu W., Lu J., Maheshwari M., Nguyen B.-V., Okwuonu G.O., Palmeiri A.,
+RA   Pasternak S., Perez L.M., Phelps K.A., Plopper F.J., Qiang B.,
+RA   Raymond C., Rodriguez R., Saenphimmachak C., Santibanez J., Shen H.,
+RA   Shen Y., Subramanian S., Tabor P.E., Verduzco D., Waldron L., Wang J.,
+RA   Wang J., Wang Q., Williams G.A., Wong G.K.-S., Yao Z., Zhang J.,
+RA   Zhang X., Zhao G., Zhou J., Zhou Y., Nelson D., Lehrach H.,
+RA   Reinhardt R., Naylor S.L., Yang H., Olson M., Weinstock G.,
+RA   Gibbs R.A.;
+RT   "The DNA sequence, annotation and analysis of human chromosome 3.";
+RL   Nature 440:1194-1198(2006).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L.,
+RA   Mobarry C.M., Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R.,
+RA   Flanigan M.J., Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V.,
+RA   Hannenhalli S., Turner R., Yooseph S., Lu F., Nusskern D.R.,
+RA   Shue B.C., Zheng X.H., Zhong F., Delcher A.L., Huson D.H.,
+RA   Kravitz S.A., Mouchard L., Reinert K., Remington K.A., Clark A.G.,
+RA   Waterman M.S., Eichler E.E., Adams M.D., Hunkapiller M.W., Myers E.W.,
+RA   Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 5 AND 6), AND
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 1158-1651 (ISOFORMS
+RP   1/2/3/4).
+RC   TISSUE=Placenta;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 366-1651 (ISOFORM 2).
+RC   TISSUE=Uterine endothelium;
+RX   PubMed=17974005; DOI=10.1186/1471-2164-8-399;
+RA   Bechtel S., Rosenfelder H., Duda A., Schmidt C.P., Ernst U.,
+RA   Wellenreuther R., Mehrle A., Schuster C., Bahr A., Bloecker H.,
+RA   Heubner D., Hoerlein A., Michel G., Wedler H., Koehrer K.,
+RA   Ottenwaelder B., Poustka A., Wiemann S., Schupp I.;
+RT   "The full-ORF clone resource of the German cDNA consortium.";
+RL   BMC Genomics 8:399-399(2007).
+RN   [6]
+RP   FUNCTION, AND INTERACTION WITH SLIT2.
+RC   TISSUE=Fetal brain;
+RX   PubMed=10102268; DOI=10.1016/S0092-8674(00)80590-5;
+RA   Brose K., Bland K.S., Wang K.H., Arnott D., Henzel W., Goodman C.S.,
+RA   Tessier-Lavigne M., Kidd T.;
+RT   "Slit proteins bind Robo receptors and have an evolutionarily
+RT   conserved role in repulsive axon guidance.";
+RL   Cell 96:795-806(1999).
+RN   [7]
+RP   TISSUE SPECIFICITY.
+RX   PubMed=9608531; DOI=10.1006/mcne.1998.0672;
+RA   Sundaresan V., Roberts I., Bateman A., Bankier A., Sheppard M.,
+RA   Hobbs C., Xiong J., Minna J., Latif F., Lerman M., Rabbitts P.;
+RT   "The DUTT1 gene, a novel NCAM family member is expressed in developing
+RT   murine neural tissues and has an unusually broad pattern of
+RT   expression.";
+RL   Mol. Cell. Neurosci. 11:29-35(1998).
+RN   [8]
+RP   MAPPING, AND IDENTIFICATION (ISOFORM 3).
+RX   PubMed=9796701; DOI=10.1038/sj.onc.1202103;
+RA   Sundaresan V., Chung G., Heppell-Parton A., Xiong J., Grundy C.,
+RA   Roberts I., James L., Cahn A., Bench A., Douglas J., Minna J.,
+RA   Sekido Y., Lerman M., Latif F., Bergh J., Li H., Lowe N., Ogilvie D.,
+RA   Rabbitts P.;
+RT   "Homozygous deletions at 3p12 in breast and lung cancer.";
+RL   Oncogene 17:1723-1729(1998).
+RN   [9]
+RP   PHOSPHORYLATION AT TYR-1038; TYR-1073 AND TYR-1114.
+RX   PubMed=10892742; DOI=10.1016/S0092-8674(00)80883-1;
+RA   Bashaw G.J., Kidd T., Murray D., Pawson T., Goodman C.S.;
+RT   "Repulsive axon guidance: Abelson and Enabled play opposing roles
+RT   downstream of the roundabout receptor.";
+RL   Cell 101:703-715(2000).
+RN   [10]
+RP   INTERACTION WITH SLIT2.
+RX   PubMed=11404413;
+RA   Nguyen-Ba-Charvet K.T., Brose K., Ma L., Wang K.H., Marillat V.,
+RA   Sotelo C., Tessier-Lavigne M., Chedotal A.;
+RT   "Diversity and specificity of actions of Slit2 proteolytic fragments
+RT   in axon guidance.";
+RL   J. Neurosci. 21:4281-4289(2001).
+RN   [11]
+RP   PROMOTER HYPERMETHYLATION, AND VARIANTS ASN-1055 AND ASP-1533.
+RX   PubMed=12082532; DOI=10.1038/sj.onc.1205421;
+RA   Dallol A., Forgacs E., Martinez A., Sekido Y., Walker R., Kishida T.,
+RA   Rabbitts P., Maher E.R., Minna J.D., Latif F.;
+RT   "Tumour specific promoter region methylation of the human homologue of
+RT   the Drosophila Roundabout gene DUTT1 (ROBO1) in human cancers.";
+RL   Oncogene 21:3020-3028(2002).
+RN   [12]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=17081983; DOI=10.1016/j.cell.2006.09.026;
+RA   Olsen J.V., Blagoev B., Gnad F., Macek B., Kumar C., Mortensen P.,
+RA   Mann M.;
+RT   "Global, in vivo, and site-specific phosphorylation dynamics in
+RT   signaling networks.";
+RL   Cell 127:635-648(2006).
+RN   [13]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-940; SER-1055; THR-1240
+RP   AND SER-1297, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE
+RP   ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [14]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-940, AND IDENTIFICATION
+RP   BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S.,
+RA   Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full
+RT   phosphorylation site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [15]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P.,
+RA   Buerckstuemmer T., Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [16]
+RP   SUBUNIT.
+RX   PubMed=24673457; DOI=10.1042/BJ20140190;
+RA   Zakrys L., Ward R.J., Pediani J.D., Godin A.G., Graham G.J.,
+RA   Milligan G.;
+RT   "Roundabout 1 exists predominantly as a basal dimeric complex and this
+RT   is unaffected by binding of the ligand Slit2.";
+RL   Biochem. J. 461:61-73(2014).
+RN   [17]
+RP   X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS) OF 61-166 IN COMPLEX WITH SLIT2,
+RP   AND DISULFIDE BOND.
+RX   PubMed=17848514; DOI=10.1073/pnas.0705310104;
+RA   Morlot C., Thielens N.M., Ravelli R.B., Hemrika W., Romijn R.A.,
+RA   Gros P., Cusack S., McCarthy A.A.;
+RT   "Structural insights into the Slit-Robo complex.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 104:14923-14928(2007).
+RN   [18]
+RP   STRUCTURE BY NMR OF 454-564.
+RG   RIKEN structural genomics initiative (RSGI);
+RT   "Solution structure of the fifth Ig-like domain from human roundabout
+RT   homolog 1.";
+RL   Submitted (OCT-2007) to the PDB data bank.
+CC   -!- FUNCTION: Receptor for SLIT1 and SLIT2 which are thought to act as
+CC       molecular guidance cue in cellular migration, including axonal
+CC       navigation at the ventral midline of the neural tube and
+CC       projection of axons to different regions during neuronal
+CC       development. In axon growth cones, the silencing of the attractive
+CC       effect of NTN1 by SLIT2 may require the formation of a ROBO1-DCC
+CC       complex. May be required for lung development.
+CC       {ECO:0000269|PubMed:10102268}.
+CC   -!- SUBUNIT: Homodimer. Dimerization is mediated by the extracellular
+CC       domain and is independent of SLIT liganding. Interacts with SLIT1
+CC       and SLIT2. {ECO:0000269|PubMed:10102268,
+CC       ECO:0000269|PubMed:11404413, ECO:0000269|PubMed:17848514,
+CC       ECO:0000269|PubMed:24673457}.
+CC   -!- SUBCELLULAR LOCATION: Membrane {ECO:0000305}; Single-pass type I
+CC       membrane protein {ECO:0000305}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=6;
+CC       Name=1;
+CC         IsoId=Q9Y6N7-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q9Y6N7-2; Sequence=VSP_010646;
+CC         Note=Incomplete.;
+CC       Name=3;
+CC         IsoId=Q9Y6N7-3; Sequence=VSP_010643, VSP_010644, VSP_010645;
+CC       Name=4;
+CC         IsoId=Q9Y6N7-4; Sequence=VSP_010643, VSP_010644;
+CC       Name=5;
+CC         IsoId=Q9Y6N7-5; Sequence=VSP_043881, VSP_010645, VSP_043882;
+CC         Note=No experimental confirmation available.;
+CC       Name=6;
+CC         IsoId=Q9Y6N7-6; Sequence=VSP_043881, VSP_010645, VSP_043882,
+CC                                  VSP_046084;
+CC         Note=No experimental confirmation available.;
+CC   -!- TISSUE SPECIFICITY: Widely expressed, with exception of kidney.
+CC       {ECO:0000269|PubMed:9608531}.
+CC   -!- PTM: Ubiquitinated. May be deubiquitinated by USP33 (By
+CC       similarity). {ECO:0000250}.
+CC   -!- MISCELLANEOUS: Maps within a region of overlapping homozygous
+CC       deletions characterized in both small cell lung cancer cell lines
+CC       (SCLC) and in a breast cancer cell line. The promoter region of
+CC       ROBO1 shows complete hypermethylation of CpG sites in the BT-20
+CC       breast tumor cell lines, some primary invasive breast carcinomasa
+CC       and some primary clear cell renal cell carcinomas (CC-RCC).
+CC   -!- SIMILARITY: Belongs to the immunoglobulin superfamily. ROBO
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 3 fibronectin type-III domains.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00316}.
+CC   -!- SIMILARITY: Contains 5 Ig-like C2-type (immunoglobulin-like)
+CC       domains. {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=Atlas of Genetics and Cytogenetics in Oncology
+CC       and Haematology;
+CC       URL="http://atlasgeneticsoncology.org/Genes/ROBO1ID42140ch3p12.html";
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF040990; AAC39575.1; -; mRNA.
+DR   EMBL; Z95705; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC016946; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC055731; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC106718; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC106720; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC108719; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC117461; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC117479; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC119035; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC123565; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC125624; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC125766; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC125815; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC131008; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471110; EAW68884.1; -; Genomic_DNA.
+DR   EMBL; CH471110; EAW68885.1; -; Genomic_DNA.
+DR   EMBL; BC001969; AAH01969.1; -; mRNA.
+DR   EMBL; BC115022; AAI15023.1; -; mRNA.
+DR   EMBL; BC157861; AAI57862.1; -; mRNA.
+DR   EMBL; BC171855; AAI71855.1; -; mRNA.
+DR   EMBL; BX538319; CAD98093.1; -; mRNA.
+DR   CCDS; CCDS46872.2; -. [Q9Y6N7-5]
+DR   CCDS; CCDS54610.1; -. [Q9Y6N7-6]
+DR   CCDS; CCDS54611.1; -. [Q9Y6N7-1]
+DR   RefSeq; NP_001139317.1; NM_001145845.1. [Q9Y6N7-6]
+DR   RefSeq; NP_002932.1; NM_002941.3. [Q9Y6N7-1]
+DR   RefSeq; NP_598334.2; NM_133631.3. [Q9Y6N7-5]
+DR   RefSeq; XP_006713340.1; XM_006713277.2. [Q9Y6N7-3]
+DR   UniGene; Hs.744218; -.
+DR   PDB; 2EO9; NMR; -; A=454-564.
+DR   PDB; 2V9Q; X-ray; 2.50 A; A=61-266.
+DR   PDB; 2V9R; X-ray; 2.00 A; A=61-266.
+DR   PDB; 2V9T; X-ray; 1.70 A; A=61-166.
+DR   PDB; 3WIH; X-ray; 1.70 A; A/B=777-873.
+DR   PDB; 4HLJ; X-ray; 1.80 A; A=660-897.
+DR   PDBsum; 2EO9; -.
+DR   PDBsum; 2V9Q; -.
+DR   PDBsum; 2V9R; -.
+DR   PDBsum; 2V9T; -.
+DR   PDBsum; 3WIH; -.
+DR   PDBsum; 4HLJ; -.
+DR   ProteinModelPortal; Q9Y6N7; -.
+DR   SMR; Q9Y6N7; 61-266, 454-564, 660-885.
+DR   BioGrid; 112018; 5.
+DR   DIP; DIP-33034N; -.
+DR   IntAct; Q9Y6N7; 4.
+DR   MINT; MINT-1392694; -.
+DR   STRING; 9606.ENSP00000420321; -.
+DR   PhosphoSite; Q9Y6N7; -.
+DR   BioMuta; ROBO1; -.
+DR   DMDM; 49036500; -.
+DR   MaxQB; Q9Y6N7; -.
+DR   PaxDb; Q9Y6N7; -.
+DR   PRIDE; Q9Y6N7; -.
+DR   Ensembl; ENST00000464233; ENSP00000420321; ENSG00000169855.
+DR   Ensembl; ENST00000467549; ENSP00000417992; ENSG00000169855. [Q9Y6N7-6]
+DR   Ensembl; ENST00000495273; ENSP00000420637; ENSG00000169855. [Q9Y6N7-5]
+DR   GeneID; 6091; -.
+DR   KEGG; hsa:6091; -.
+DR   UCSC; uc003dqb.2; human. [Q9Y6N7-4]
+DR   UCSC; uc003dqd.2; human. [Q9Y6N7-5]
+DR   UCSC; uc003dqe.2; human. [Q9Y6N7-1]
+DR   CTD; 6091; -.
+DR   GeneCards; GC03M078729; -.
+DR   HGNC; HGNC:10249; ROBO1.
+DR   HPA; CAB013524; -.
+DR   HPA; HPA052968; -.
+DR   MIM; 602430; gene.
+DR   neXtProt; NX_Q9Y6N7; -.
+DR   PharmGKB; PA34620; -.
+DR   eggNOG; NOG238978; -.
+DR   GeneTree; ENSGT00760000118840; -.
+DR   HOGENOM; HOG000010267; -.
+DR   HOVERGEN; HBG073476; -.
+DR   InParanoid; Q9Y6N7; -.
+DR   KO; K06753; -.
+DR   OMA; QCPRPTS; -.
+DR   OrthoDB; EOG7KWSGP; -.
+DR   PhylomeDB; Q9Y6N7; -.
+DR   TreeFam; TF351053; -.
+DR   Reactome; REACT_19226; Activation of Rac.
+DR   Reactome; REACT_19230; Role of Abl in Robo-Slit signaling.
+DR   Reactome; REACT_19342; Inactivation of Cdc42 and Rac.
+DR   Reactome; REACT_19351; Signaling by Robo receptor.
+DR   Reactome; REACT_19376; Regulation of Commissural axon pathfinding by Slit and Robo.
+DR   Reactome; REACT_22237; Netrin-1 signaling.
+DR   ChiTaRS; ROBO1; human.
+DR   EvolutionaryTrace; Q9Y6N7; -.
+DR   GeneWiki; ROBO1; -.
+DR   GenomeRNAi; 6091; -.
+DR   NextBio; 23685; -.
+DR   PRO; PR:Q9Y6N7; -.
+DR   Proteomes; UP000005640; Chromosome 3.
+DR   Bgee; Q9Y6N7; -.
+DR   CleanEx; HS_ROBO1; -.
+DR   ExpressionAtlas; Q9Y6N7; baseline and differential.
+DR   Genevisible; Q9Y6N7; HS.
+DR   GO; GO:0030673; C:axolemma; IEA:Ensembl.
+DR   GO; GO:0009986; C:cell surface; IDA:UniProtKB.
+DR   GO; GO:0005737; C:cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0005887; C:integral component of plasma membrane; TAS:ProtInc.
+DR   GO; GO:0005886; C:plasma membrane; TAS:Reactome.
+DR   GO; GO:0008046; F:axon guidance receptor activity; TAS:ProtInc.
+DR   GO; GO:0042802; F:identical protein binding; IDA:UniProtKB.
+DR   GO; GO:0030275; F:LRR domain binding; IPI:UniProtKB.
+DR   GO; GO:0006919; P:activation of cysteine-type endopeptidase activity involved in apoptotic process; IMP:UniProtKB.
+DR   GO; GO:0007411; P:axon guidance; TAS:Reactome.
+DR   GO; GO:0016199; P:axon midline choice point recognition; ISS:UniProtKB.
+DR   GO; GO:0007155; P:cell adhesion; TAS:ProtInc.
+DR   GO; GO:0002042; P:cell migration involved in sprouting angiogenesis; IMP:BHF-UCL.
+DR   GO; GO:0021836; P:chemorepulsion involved in postnatal olfactory bulb interneuron migration; IDA:UniProtKB.
+DR   GO; GO:0007156; P:homophilic cell adhesion via plasma membrane adhesion molecules; IDA:UniProtKB.
+DR   GO; GO:0060763; P:mammary duct terminal end bud growth; IEA:Ensembl.
+DR   GO; GO:0070100; P:negative regulation of chemokine-mediated signaling pathway; IMP:BHF-UCL.
+DR   GO; GO:0033600; P:negative regulation of mammary gland epithelial cell proliferation; IMP:BHF-UCL.
+DR   GO; GO:0050925; P:negative regulation of negative chemotaxis; IDA:UniProtKB.
+DR   GO; GO:0007399; P:nervous system development; TAS:ProtInc.
+DR   GO; GO:0050772; P:positive regulation of axonogenesis; IDA:UniProtKB.
+DR   GO; GO:0035385; P:Roundabout signaling pathway; IMP:BHF-UCL.
+DR   Gene3D; 2.60.40.10; -; 9.
+DR   InterPro; IPR003961; FN3_dom.
+DR   InterPro; IPR007110; Ig-like_dom.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   InterPro; IPR013098; Ig_I-set.
+DR   InterPro; IPR003598; Ig_sub2.
+DR   InterPro; IPR013106; Ig_V-set.
+DR   Pfam; PF00041; fn3; 3.
+DR   Pfam; PF07679; I-set; 5.
+DR   SMART; SM00060; FN3; 3.
+DR   SMART; SM00408; IGc2; 4.
+DR   SMART; SM00406; IGv; 1.
+DR   SUPFAM; SSF49265; SSF49265; 2.
+DR   PROSITE; PS50853; FN3; 3.
+DR   PROSITE; PS50835; IG_LIKE; 5.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Chemotaxis; Complete proteome;
+KW   Developmental protein; Differentiation; Disulfide bond; Glycoprotein;
+KW   Immunoglobulin domain; Membrane; Neurogenesis; Phosphoprotein;
+KW   Polymorphism; Receptor; Reference proteome; Repeat; Signal;
+KW   Transmembrane; Transmembrane helix; Ubl conjugation.
+FT   SIGNAL        1     25       {ECO:0000255}.
+FT   CHAIN        26   1651       Roundabout homolog 1.
+FT                                /FTId=PRO_0000031033.
+FT   TOPO_DOM     26    897       Extracellular. {ECO:0000255}.
+FT   TRANSMEM    898    918       Helical. {ECO:0000255}.
+FT   TOPO_DOM    919   1651       Cytoplasmic. {ECO:0000255}.
+FT   DOMAIN       68    164       Ig-like C2-type 1.
+FT   DOMAIN      170    257       Ig-like C2-type 2.
+FT   DOMAIN      262    346       Ig-like C2-type 3.
+FT   DOMAIN      351    446       Ig-like C2-type 4.
+FT   DOMAIN      455    541       Ig-like C2-type 5.
+FT   DOMAIN      563    657       Fibronectin type-III 1.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00316}.
+FT   DOMAIN      676    773       Fibronectin type-III 2.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00316}.
+FT   DOMAIN      778    874       Fibronectin type-III 3.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00316}.
+FT   MOD_RES     940    940       Phosphoserine.
+FT                                {ECO:0000269|PubMed:18669648,
+FT                                ECO:0000269|PubMed:20068231}.
+FT   MOD_RES    1038   1038       Phosphotyrosine; by ABL; in vitro.
+FT                                {ECO:0000269|PubMed:10892742}.
+FT   MOD_RES    1055   1055       Phosphoserine.
+FT                                {ECO:0000269|PubMed:18669648}.
+FT   MOD_RES    1073   1073       Phosphotyrosine; by ABL; in vitro.
+FT                                {ECO:0000269|PubMed:10892742}.
+FT   MOD_RES    1114   1114       Phosphotyrosine; by ABL; in vitro.
+FT                                {ECO:0000269|PubMed:10892742}.
+FT   MOD_RES    1240   1240       Phosphothreonine.
+FT                                {ECO:0000269|PubMed:18669648}.
+FT   MOD_RES    1297   1297       Phosphoserine.
+FT                                {ECO:0000269|PubMed:18669648}.
+FT   CARBOHYD    160    160       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    463    463       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    790    790       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    820    820       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    827    827       N-linked (GlcNAc...). {ECO:0000255}.
+FT   DISULFID     89    147       {ECO:0000255|PROSITE-ProRule:PRU00114,
+FT                                ECO:0000269|PubMed:17848514}.
+FT   DISULFID    191    240       {ECO:0000255|PROSITE-ProRule:PRU00114}.
+FT   DISULFID    283    330       {ECO:0000255|PROSITE-ProRule:PRU00114}.
+FT   DISULFID    372    428       {ECO:0000255|PROSITE-ProRule:PRU00114}.
+FT   DISULFID    476    525       {ECO:0000255|PROSITE-ProRule:PRU00114}.
+FT   VAR_SEQ       1     57       MKWKHVPFLVMISLLSLSPNHLFLAQLIPDPEDVERGNDHG
+FT                                TPIPTSDNDDNSLGYT -> MIAEPAHFYLFGLICLCS
+FT                                (in isoform 5 and isoform 6).
+FT                                {ECO:0000303|PubMed:15489334}.
+FT                                /FTId=VSP_043881.
+FT   VAR_SEQ       1     39       Missing (in isoform 3 and isoform 4).
+FT                                {ECO:0000305}.
+FT                                /FTId=VSP_010643.
+FT   VAR_SEQ      40     57       HGTPIPTSDNDDNSLGYT -> MIAEPAHFYLFGLICLCS
+FT                                (in isoform 3 and isoform 4).
+FT                                {ECO:0000305}.
+FT                                /FTId=VSP_010644.
+FT   VAR_SEQ     348    348       Q -> QVGS (in isoform 3, isoform 5 and
+FT                                isoform 6).
+FT                                {ECO:0000303|PubMed:15489334}.
+FT                                /FTId=VSP_010645.
+FT   VAR_SEQ     543    543       Q -> QGKVN (in isoform 2).
+FT                                {ECO:0000303|PubMed:17974005}.
+FT                                /FTId=VSP_010646.
+FT   VAR_SEQ     938    946       Missing (in isoform 5 and isoform 6).
+FT                                {ECO:0000303|PubMed:15489334}.
+FT                                /FTId=VSP_043882.
+FT   VAR_SEQ    1013   1067       Missing (in isoform 6).
+FT                                {ECO:0000303|PubMed:15489334}.
+FT                                /FTId=VSP_046084.
+FT   VARIANT     336    336       V -> A (in dbSNP:rs9647397).
+FT                                /FTId=VAR_053640.
+FT   VARIANT    1055   1055       S -> N (in a breast cancer sample).
+FT                                {ECO:0000269|PubMed:12082532}.
+FT                                /FTId=VAR_019071.
+FT   VARIANT    1091   1091       S -> N (in dbSNP:rs35456279).
+FT                                /FTId=VAR_053641.
+FT   VARIANT    1533   1533       E -> D (in a breast cancer sample;
+FT                                dbSNP:rs36055689).
+FT                                {ECO:0000269|PubMed:12082532}.
+FT                                /FTId=VAR_019072.
+FT   CONFLICT    182    182       A -> V (in Ref. 4; AAI15023).
+FT                                {ECO:0000305}.
+FT   CONFLICT    835    835       F -> L (in Ref. 4; AAI15023).
+FT                                {ECO:0000305}.
+FT   CONFLICT   1095   1095       G -> S (in Ref. 5; CAD98093).
+FT                                {ECO:0000305}.
+FT   CONFLICT   1223   1223       M -> T (in Ref. 2; Z95705).
+FT                                {ECO:0000305}.
+FT   CONFLICT   1443   1443       P -> L (in Ref. 5; CAD98093).
+FT                                {ECO:0000305}.
+FT   CONFLICT   1536   1536       D -> G (in Ref. 2; Z95705).
+FT                                {ECO:0000305}.
+FT   STRAND       66     72       {ECO:0000244|PDB:2V9T}.
+FT   STRAND       77     79       {ECO:0000244|PDB:2V9T}.
+FT   STRAND       85     87       {ECO:0000244|PDB:2V9T}.
+FT   STRAND       90     95       {ECO:0000244|PDB:2V9T}.
+FT   STRAND       98    103       {ECO:0000244|PDB:2V9T}.
+FT   TURN        111    113       {ECO:0000244|PDB:2V9T}.
+FT   STRAND      118    121       {ECO:0000244|PDB:2V9T}.
+FT   STRAND      127    131       {ECO:0000244|PDB:2V9T}.
+FT   STRAND      143    151       {ECO:0000244|PDB:2V9T}.
+FT   STRAND      154    157       {ECO:0000244|PDB:2V9T}.
+FT   STRAND      161    165       {ECO:0000244|PDB:2V9T}.
+FT   STRAND      179    182       {ECO:0000244|PDB:2V9R}.
+FT   STRAND      187    190       {ECO:0000244|PDB:2V9R}.
+FT   STRAND      196    198       {ECO:0000244|PDB:2V9R}.
+FT   STRAND      201    206       {ECO:0000244|PDB:2V9R}.
+FT   STRAND      209    211       {ECO:0000244|PDB:2V9R}.
+FT   STRAND      213    215       {ECO:0000244|PDB:2V9Q}.
+FT   STRAND      218    221       {ECO:0000244|PDB:2V9R}.
+FT   STRAND      224    229       {ECO:0000244|PDB:2V9R}.
+FT   HELIX       232    234       {ECO:0000244|PDB:2V9R}.
+FT   STRAND      236    244       {ECO:0000244|PDB:2V9R}.
+FT   STRAND      247    250       {ECO:0000244|PDB:2V9R}.
+FT   STRAND      254    259       {ECO:0000244|PDB:2V9R}.
+FT   HELIX       261    266       {ECO:0000244|PDB:2V9Q}.
+FT   STRAND      464    467       {ECO:0000244|PDB:2EO9}.
+FT   STRAND      471    475       {ECO:0000244|PDB:2EO9}.
+FT   STRAND      485    494       {ECO:0000244|PDB:2EO9}.
+FT   STRAND      502    506       {ECO:0000244|PDB:2EO9}.
+FT   STRAND      509    514       {ECO:0000244|PDB:2EO9}.
+FT   HELIX       517    519       {ECO:0000244|PDB:2EO9}.
+FT   STRAND      523    528       {ECO:0000244|PDB:2EO9}.
+FT   STRAND      533    537       {ECO:0000244|PDB:2EO9}.
+FT   STRAND      540    543       {ECO:0000244|PDB:2EO9}.
+FT   HELIX       666    675       {ECO:0000244|PDB:4HLJ}.
+FT   STRAND      676    680       {ECO:0000244|PDB:4HLJ}.
+FT   STRAND      687    689       {ECO:0000244|PDB:4HLJ}.
+FT   STRAND      691    699       {ECO:0000244|PDB:4HLJ}.
+FT   STRAND      706    715       {ECO:0000244|PDB:4HLJ}.
+FT   HELIX       719    721       {ECO:0000244|PDB:4HLJ}.
+FT   STRAND      724    728       {ECO:0000244|PDB:4HLJ}.
+FT   STRAND      735    738       {ECO:0000244|PDB:4HLJ}.
+FT   STRAND      746    755       {ECO:0000244|PDB:4HLJ}.
+FT   STRAND      766    769       {ECO:0000244|PDB:4HLJ}.
+FT   STRAND      780    786       {ECO:0000244|PDB:3WIH}.
+FT   STRAND      789    791       {ECO:0000244|PDB:3WIH}.
+FT   STRAND      794    799       {ECO:0000244|PDB:3WIH}.
+FT   HELIX       803    805       {ECO:0000244|PDB:4HLJ}.
+FT   STRAND      812    818       {ECO:0000244|PDB:3WIH}.
+FT   HELIX       822    824       {ECO:0000244|PDB:3WIH}.
+FT   STRAND      826    831       {ECO:0000244|PDB:3WIH}.
+FT   STRAND      836    839       {ECO:0000244|PDB:3WIH}.
+FT   STRAND      848    854       {ECO:0000244|PDB:3WIH}.
+FT   STRAND      867    869       {ECO:0000244|PDB:3WIH}.
+FT   HELIX       880    883       {ECO:0000244|PDB:4HLJ}.
+SQ   SEQUENCE   1651 AA;  180930 MW;  9D98CD7CAB73074D CRC64;
+     MKWKHVPFLV MISLLSLSPN HLFLAQLIPD PEDVERGNDH GTPIPTSDND DNSLGYTGSR
+     LRQEDFPPRI VEHPSDLIVS KGEPATLNCK AEGRPTPTIE WYKGGERVET DKDDPRSHRM
+     LLPSGSLFFL RIVHGRKSRP DEGVYVCVAR NYLGEAVSHN ASLEVAILRD DFRQNPSDVM
+     VAVGEPAVME CQPPRGHPEP TISWKKDGSP LDDKDERITI RGGKLMITYT RKSDAGKYVC
+     VGTNMVGERE SEVAELTVLE RPSFVKRPSN LAVTVDDSAE FKCEARGDPV PTVRWRKDDG
+     ELPKSRYEIR DDHTLKIRKV TAGDMGSYTC VAENMVGKAE ASATLTVQEP PHFVVKPRDQ
+     VVALGRTVTF QCEATGNPQP AIFWRREGSQ NLLFSYQPPQ SSSRFSVSQT GDLTITNVQR
+     SDVGYYICQT LNVAGSIITK AYLEVTDVIA DRPPPVIRQG PVNQTVAVDG TFVLSCVATG
+     SPVPTILWRK DGVLVSTQDS RIKQLENGVL QIRYAKLGDT GRYTCIASTP SGEATWSAYI
+     EVQEFGVPVQ PPRPTDPNLI PSAPSKPEVT DVSRNTVTLS WQPNLNSGAT PTSYIIEAFS
+     HASGSSWQTV AENVKTETSA IKGLKPNAIY LFLVRAANAY GISDPSQISD PVKTQDVLPT
+     SQGVDHKQVQ RELGNAVLHL HNPTVLSSSS IEVHWTVDQQ SQYIQGYKIL YRPSGANHGE
+     SDWLVFEVRT PAKNSVVIPD LRKGVNYEIK ARPFFNEFQG ADSEIKFAKT LEEAPSAPPQ
+     GVTVSKNDGN GTAILVSWQP PPEDTQNGMV QEYKVWCLGN ETRYHINKTV DGSTFSVVIP
+     FLVPGIRYSV EVAASTGAGS GVKSEPQFIQ LDAHGNPVSP EDQVSLAQQI SDVVKQPAFI
+     AGIGAACWII LMVFSIWLYR HRKKRNGLTS TYAGIRKVPS FTFTPTVTYQ RGGEAVSSGG
+     RPGLLNISEP AAQPWLADTW PNTGNNHNDC SISCCTAGNG NSDSNLTTYS RPADCIANYN
+     NQLDNKQTNL MLPESTVYGD VDLSNKINEM KTFNSPNLKD GRFVNPSGQP TPYATTQLIQ
+     SNLSNNMNNG SGDSGEKHWK PLGQQKQEVA PVQYNIVEQN KLNKDYRAND TVPPTIPYNQ
+     SYDQNTGGSY NSSDRGSSTS GSQGHKKGAR TPKVPKQGGM NWADLLPPPP AHPPPHSNSE
+     EYNISVDESY DQEMPCPVPP ARMYLQQDEL EEEEDERGPT PPVRGAASSP AAVSYSHQST
+     ATLTPSPQEE LQPMLQDCPE ETGHMQHQPD RRRQPVSPPP PPRPISPPHT YGYISGPLVS
+     DMDTDAPEEE EDEADMEVAK MQTRRLLLRG LEQTPASSVG DLESSVTGSM INGWGSASEE
+     DNISSGRSSV SSSDGSFFTD ADFAQAVAAA AEYAGLKVAR RQMQDAAGRR HFHASQCPRP
+     TSPVSTDSNM SAAVMQKTRP AKKLKHQPGH LRRETYTDDL PPPPVPPPAI KSPTAQSKTQ
+     LEVRPVVVPK LPSMDARTDR SSDRKGSSYK GREVLDGRQV VDMRTNPGDP REAQEQQNDG
+     KGRGNKAAKR DLPPAKTHLI QEDILPYCRP TFPTSNNPRD PSSSSSMSSR GSGSRQREQA
+     NVGRRNIAEM QVLGGYERGE DNNEELEETE S
+//

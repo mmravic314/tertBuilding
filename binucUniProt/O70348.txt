@@ -1,0 +1,209 @@
+ID   DXO_MOUSE               Reviewed;         397 AA.
+AC   O70348; Q99KD8;
+DT   19-SEP-2006, integrated into UniProtKB/Swiss-Prot.
+DT   19-SEP-2006, sequence version 2.
+DT   24-JUN-2015, entry version 88.
+DE   RecName: Full=Decapping and exoribonuclease protein;
+DE            Short=DXO;
+DE            EC=3.1.13.-;
+DE            EC=3.6.1.-;
+DE   AltName: Full=Dom-3 homolog Z;
+GN   Name=Dxo; Synonyms=Dom3z, Ng6;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=129;
+RX   PubMed=14656967; DOI=10.1101/gr.1736803;
+RA   Xie T., Rowen L., Aguado B., Ahearn M.E., Madan A., Qin S.,
+RA   Campbell R.D., Hood L.;
+RT   "Analysis of the gene-dense major histocompatibility complex class III
+RT   region and its comparison to mouse.";
+RL   Genome Res. 13:2621-2636(2003).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=FVB/N; TISSUE=Mammary gland;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (2.01 ANGSTROMS) IN COMPLEX WITH GDP.
+RX   PubMed=19194460; DOI=10.1038/nature07731;
+RA   Xiang S., Cooper-Morgan A., Jiao X., Kiledjian M., Manley J.L.,
+RA   Tong L.;
+RT   "Structure and function of the 5'-->3' exoribonuclease Rat1 and its
+RT   activating partner Rai1.";
+RL   Nature 458:784-788(2009).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (1.50 ANGSTROMS) OF 27-397 IN COMPLEX WITH
+RP   MAGNESIUM AND M(7)GPPPG CAP, FUNCTION, COFACTOR, CATALYTIC ACTIVITY,
+RP   AND MUTAGENESIS OF GLU-234 AND ASP-236.
+RX   PubMed=23523372; DOI=10.1016/j.molcel.2013.02.017;
+RA   Jiao X., Chang J.H., Kilic T., Tong L., Kiledjian M.;
+RT   "A mammalian pre-mRNA 5' end capping quality control mechanism and an
+RT   unexpected link of capping to pre-mRNA processing.";
+RL   Mol. Cell 50:104-115(2013).
+CC   -!- FUNCTION: Ribonuclease that specifically degrades pre-mRNAs with a
+CC       defective 5' end cap and is part of a pre-mRNA capping quality
+CC       control. Has decapping, pyrophosphohydrolase and 5'-3' exonuclease
+CC       activities. Has decapping activity toward incomplete 5' end cap
+CC       mRNAs such as unmethylated 5' end-capped RNA to release GpppN and
+CC       5' end monophosphate RNA. The 5' end monophosphate RNA is then
+CC       degraded by the 5'-3' exoribonuclease activity, enabling this
+CC       enzyme to decap and degrade incompletely capped mRNAs. Also
+CC       possesses RNA 5'-pyrophosphohydrolase activity by hydrolyzing the
+CC       5' end triphosphate to release pyrophosphates.
+CC       {ECO:0000269|PubMed:23523372}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000269|PubMed:23523372};
+CC       Note=Binds 2 magnesium ions. {ECO:0000269|PubMed:23523372};
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the DXO/Dom3Z family. {ECO:0000305}.
+CC   -!- CAUTION: In contrast to canonical decapping enzymes DCP2 and
+CC       NUDT16, which release m(7)pppG (m(7)GDP), the decapping activity
+CC       releases the entire cap structure GpppN and a 5' end monophosphate
+CC       RNA. {ECO:0000305|PubMed:23523372}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF049850; AAC05281.1; -; Genomic_DNA.
+DR   EMBL; BC004713; AAH04713.1; -; mRNA.
+DR   CCDS; CCDS28660.1; -.
+DR   RefSeq; NP_001157242.1; NM_001163770.1.
+DR   RefSeq; NP_291091.2; NM_033613.2.
+DR   UniGene; Mm.275309; -.
+DR   PDB; 3FQI; X-ray; 2.01 A; A=1-397.
+DR   PDB; 3FQJ; X-ray; 2.62 A; A=1-397.
+DR   PDB; 4J7L; X-ray; 1.80 A; A=27-384.
+DR   PDB; 4J7M; X-ray; 1.70 A; A=27-384.
+DR   PDB; 4J7N; X-ray; 1.50 A; A=27-384.
+DR   PDBsum; 3FQI; -.
+DR   PDBsum; 3FQJ; -.
+DR   PDBsum; 4J7L; -.
+DR   PDBsum; 4J7M; -.
+DR   PDBsum; 4J7N; -.
+DR   ProteinModelPortal; O70348; -.
+DR   SMR; O70348; 27-384.
+DR   STRING; 10090.ENSMUSP00000047018; -.
+DR   PhosphoSite; O70348; -.
+DR   MaxQB; O70348; -.
+DR   PaxDb; O70348; -.
+DR   PRIDE; O70348; -.
+DR   GeneID; 112403; -.
+DR   KEGG; mmu:112403; -.
+DR   UCSC; uc008cdr.2; mouse.
+DR   CTD; 1797; -.
+DR   MGI; MGI:1890444; Dxo.
+DR   eggNOG; NOG237475; -.
+DR   HOGENOM; HOG000200647; -.
+DR   HOVERGEN; HBG080627; -.
+DR   InParanoid; O70348; -.
+DR   KO; K14845; -.
+DR   PhylomeDB; O70348; -.
+DR   TreeFam; TF322812; -.
+DR   EvolutionaryTrace; O70348; -.
+DR   NextBio; 367877; -.
+DR   PRO; PR:O70348; -.
+DR   Proteomes; UP000000589; Unplaced.
+DR   Bgee; O70348; -.
+DR   CleanEx; MM_DOM3Z; -.
+DR   ExpressionAtlas; O70348; baseline and differential.
+DR   Genevisible; O70348; MM.
+DR   GO; GO:0005737; C:cytoplasm; ISO:MGI.
+DR   GO; GO:0005654; C:nucleoplasm; ISO:MGI.
+DR   GO; GO:0005886; C:plasma membrane; ISO:MGI.
+DR   GO; GO:0008409; F:5'-3' exonuclease activity; IDA:UniProtKB.
+DR   GO; GO:0000287; F:magnesium ion binding; IDA:UniProtKB.
+DR   GO; GO:0003729; F:mRNA binding; IDA:UniProtKB.
+DR   GO; GO:0000166; F:nucleotide binding; IEA:UniProtKB-KW.
+DR   GO; GO:0034353; F:RNA pyrophosphohydrolase activity; IDA:UniProtKB.
+DR   GO; GO:0008152; P:metabolic process; IDA:UniProtKB.
+DR   GO; GO:0006402; P:mRNA catabolic process; IMP:UniProtKB.
+DR   GO; GO:0071028; P:nuclear mRNA surveillance; IMP:UniProtKB.
+DR   GO; GO:0090305; P:nucleic acid phosphodiester bond hydrolysis; IDA:UniProtKB.
+DR   GO; GO:0050779; P:RNA destabilization; IMP:UniProtKB.
+DR   InterPro; IPR013961; RAI1.
+DR   Pfam; PF08652; RAI1; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Exonuclease; Hydrolase; Magnesium;
+KW   Metal-binding; Nuclease; Nucleotide-binding; Nucleus;
+KW   Reference proteome; RNA-binding.
+FT   CHAIN         1    397       Decapping and exoribonuclease protein.
+FT                                /FTId=PRO_0000249823.
+FT   METAL       192    192       Magnesium 1.
+FT                                {ECO:0000269|PubMed:23523372}.
+FT   METAL       192    192       Magnesium 2.
+FT                                {ECO:0000269|PubMed:23523372}.
+FT   METAL       234    234       Magnesium 2.
+FT                                {ECO:0000269|PubMed:23523372}.
+FT   METAL       236    236       Magnesium 1.
+FT                                {ECO:0000269|PubMed:23523372}.
+FT   METAL       236    236       Magnesium 2.
+FT                                {ECO:0000269|PubMed:23523372}.
+FT   METAL       253    253       Magnesium 1.
+FT                                {ECO:0000269|PubMed:23523372}.
+FT   METAL       254    254       Magnesium 1; via carbonyl oxygen.
+FT                                {ECO:0000269|PubMed:23523372}.
+FT   BINDING      58     58       Substrate.
+FT   BINDING     101    101       Substrate.
+FT   BINDING     132    132       Substrate.
+FT   BINDING     217    217       Substrate.
+FT   BINDING     234    234       Substrate.
+FT   BINDING     280    280       Substrate.
+FT   MUTAGEN     234    234       E->A: Abolishes the decapping activity.
+FT                                {ECO:0000269|PubMed:23523372}.
+FT   MUTAGEN     236    236       D->A: Abolishes the decapping activity.
+FT                                {ECO:0000269|PubMed:23523372}.
+FT   CONFLICT     20     20       N -> H (in Ref. 1; AAC05281).
+FT                                {ECO:0000305}.
+FT   CONFLICT     28     28       S -> L (in Ref. 1; AAC05281).
+FT                                {ECO:0000305}.
+FT   HELIX        33     35       {ECO:0000244|PDB:4J7N}.
+FT   STRAND       47     54       {ECO:0000244|PDB:4J7N}.
+FT   STRAND       60     64       {ECO:0000244|PDB:4J7N}.
+FT   STRAND       75     77       {ECO:0000244|PDB:4J7M}.
+FT   TURN         84     91       {ECO:0000244|PDB:4J7N}.
+FT   STRAND       97     99       {ECO:0000244|PDB:3FQJ}.
+FT   HELIX       104    113       {ECO:0000244|PDB:4J7N}.
+FT   HELIX       114    116       {ECO:0000244|PDB:4J7N}.
+FT   TURN        121    123       {ECO:0000244|PDB:4J7N}.
+FT   HELIX       124    126       {ECO:0000244|PDB:4J7N}.
+FT   STRAND      128    131       {ECO:0000244|PDB:4J7N}.
+FT   HELIX       132    140       {ECO:0000244|PDB:4J7N}.
+FT   HELIX       141    143       {ECO:0000244|PDB:4J7N}.
+FT   STRAND      149    156       {ECO:0000244|PDB:4J7N}.
+FT   STRAND      159    164       {ECO:0000244|PDB:4J7N}.
+FT   HELIX       168    175       {ECO:0000244|PDB:4J7N}.
+FT   HELIX       179    195       {ECO:0000244|PDB:4J7N}.
+FT   STRAND      196    199       {ECO:0000244|PDB:4J7N}.
+FT   STRAND      215    224       {ECO:0000244|PDB:4J7N}.
+FT   STRAND      227    234       {ECO:0000244|PDB:4J7N}.
+FT   TURN        247    250       {ECO:0000244|PDB:4J7N}.
+FT   STRAND      251    258       {ECO:0000244|PDB:4J7N}.
+FT   HELIX       263    271       {ECO:0000244|PDB:4J7N}.
+FT   HELIX       273    282       {ECO:0000244|PDB:4J7N}.
+FT   TURN        283    285       {ECO:0000244|PDB:4J7N}.
+FT   STRAND      288    294       {ECO:0000244|PDB:4J7N}.
+FT   STRAND      298    307       {ECO:0000244|PDB:4J7N}.
+FT   HELIX       308    315       {ECO:0000244|PDB:4J7N}.
+FT   HELIX       324    341       {ECO:0000244|PDB:4J7N}.
+FT   STRAND      349    355       {ECO:0000244|PDB:4J7N}.
+FT   STRAND      361    368       {ECO:0000244|PDB:4J7N}.
+FT   TURN        369    371       {ECO:0000244|PDB:4J7N}.
+FT   HELIX       376    383       {ECO:0000244|PDB:4J7N}.
+SQ   SEQUENCE   397 AA;  45280 MW;  02022DF0A77D503E CRC64;
+     MEPRGTKRKA EKTEVEKPLN KLPRAVPSLR TQPSLYSGPF PFYRRPSELG CFSLDAQRQY
+     HGDARALRYY SPPPINGPGP DFDLRDGYPD RYQPRDEEVQ ERLDHLLRWV LEHRNQLEGG
+     PGWLAGATVT WRGHLTKLLT TPYERQEGWQ LAASRFQGTL YLSEVETPAA RAQRLARPPL
+     LRELMYMGYK FEQYMCADKP GGSPDPSGEV NTNVAYCSVL RSRLGNHPLL FSGEVDCLNP
+     QAPCTQPPSC YVELKTSKEM HSPGQWRSFY RHKLLKWWAQ SFLPGVPHVV AGFRNPEGFV
+     CSLKTFPTME MFENVRNDRE GWNPSVCMNF CAAFLSFAQS TVVQDDPRLV HLFSWEPGGP
+     VTVSVHRDAP YAFLPSWYVE TMTQDLPPLS KTPSPKD
+//

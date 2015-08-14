@@ -1,0 +1,78 @@
+ID   Q0I408_HAES1            Unreviewed;       367 AA.
+AC   Q0I408;
+DT   03-OCT-2006, integrated into UniProtKB/TrEMBL.
+DT   03-OCT-2006, sequence version 1.
+DT   22-JUL-2015, entry version 55.
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ABI25413.1};
+GN   OrderedLocusNames=HS_1138 {ECO:0000313|EMBL:ABI25413.1};
+OS   Haemophilus somnus (strain 129Pt) (Histophilus somni).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pasteurellales;
+OC   Pasteurellaceae; Histophilus.
+OX   NCBI_TaxID=205914 {ECO:0000313|EMBL:ABI25413.1, ECO:0000313|Proteomes:UP000001970};
+RN   [1] {ECO:0000313|Proteomes:UP000001970}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=129Pt {ECO:0000313|Proteomes:UP000001970};
+RX   PubMed=17172329; DOI=10.1128/JB.01422-06;
+RA   Challacombe J.F., Duncan A.J., Brettin T.S., Bruce D., Chertkov O.,
+RA   Detter J.C., Han C.S., Misra M., Richardson P., Tapia R., Thayer N.,
+RA   Xie G., Inzana T.J.;
+RT   "Complete genome sequence of Haemophilus somnus (Histophilus somni)
+RT   strain 129Pt and comparison to Haemophilus ducreyi 35000HP and
+RT   Haemophilus influenzae Rd.";
+RL   J. Bacteriol. 189:1890-1898(2007).
+RN   [2] {ECO:0000213|PDB:3BWW}
+RP   X-RAY CRYSTALLOGRAPHY (2.20 ANGSTROMS) OF 62-367 IN COMPLEX WITH IRON.
+RG   Joint Center for Structural Genomics (JCSG);
+RT   "Crystal structure of protein of unknown function (DUF692/COG3220)
+RT   (YP_719350.1) from Haemophilus somnus 129PT at 2.20 A resolution.";
+RL   Submitted (JAN-2008) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP000436; ABI25413.1; -; Genomic_DNA.
+DR   PDB; 3BWW; X-ray; 2.20 A; A=62-367.
+DR   PDBsum; 3BWW; -.
+DR   ProteinModelPortal; Q0I408; -.
+DR   SMR; Q0I408; 62-367.
+DR   STRING; 205914.HS_1138; -.
+DR   EnsemblBacteria; ABI25413; ABI25413; HS_1138.
+DR   KEGG; hso:HS_1138; -.
+DR   PATRIC; 20282323; VBIHaeSom53361_1192.
+DR   eggNOG; COG3220; -.
+DR   HOGENOM; HOG000281002; -.
+DR   KO; K09930; -.
+DR   OMA; AVENISY; -.
+DR   OrthoDB; EOG6X9MK9; -.
+DR   BioCyc; HSOM205914:GJ7V-1180-MONOMER; -.
+DR   EvolutionaryTrace; Q0I408; -.
+DR   Proteomes; UP000001970; Chromosome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.20.20.150; -; 2.
+DR   InterPro; IPR007801; UPF0276.
+DR   InterPro; IPR013022; Xyl_isomerase-like_TIM-brl.
+DR   Pfam; PF05114; DUF692; 1.
+DR   SUPFAM; SSF51658; SSF51658; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3BWW};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001970};
+KW   Iron {ECO:0000213|PDB:3BWW}; Metal-binding {ECO:0000213|PDB:3BWW}.
+FT   METAL       120    120       Iron 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3BWW}.
+FT   METAL       155    155       Iron 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3BWW}.
+FT   METAL       199    199       Iron 1. {ECO:0000213|PDB:3BWW}.
+FT   METAL       199    199       Iron 2. {ECO:0000213|PDB:3BWW}.
+FT   METAL       232    232       Iron 2. {ECO:0000213|PDB:3BWW}.
+FT   METAL       264    264       Iron 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3BWW}.
+FT   METAL       331    331       Iron 2. {ECO:0000213|PDB:3BWW}.
+SQ   SEQUENCE   367 AA;  42066 MW;  F704169FCD9AB4AD CRC64;
+     MENAFQQNLL KANVVKESAV QLHLKKTCRN LLKANVAKES AVHLNKFLRV HCTLFSLRGG
+     YMRQGAGLGY RRDLAEGFLQ LRNNDRIQFM EIAPENWIKM GGFARYQFDK VAEKIPILIH
+     GLSLSLGGQA PLDKELLSSI KAMIKQYNTP FFSDHLSFCE CDGHLYDLLP MPFTDEAVKH
+     TAARIREVQD FLEIQISVEN TSYYLHSETS TMNEVEFLNA IVQEANCGIH LDVNNIYVNA
+     VNHGLLDPHV FIDNVDLKRV NYIHIAGHDD EHAATEVQIQ TSESFNKIKG DLRHLPPLLV
+     DTHGENVKGT VWDLLEYTYA RLSHMPPTLL ERDFNFPPFE KLCKEVDIIH QLQQKYVKKR
+     GLSWLKI
+//

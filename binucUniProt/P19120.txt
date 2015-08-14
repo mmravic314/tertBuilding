@@ -1,0 +1,409 @@
+ID   HSP7C_BOVIN             Reviewed;         650 AA.
+AC   P19120; A5D968; Q3MHM4;
+DT   01-NOV-1990, integrated into UniProtKB/Swiss-Prot.
+DT   29-MAY-2007, sequence version 2.
+DT   22-JUL-2015, entry version 145.
+DE   RecName: Full=Heat shock cognate 71 kDa protein;
+DE   AltName: Full=Heat shock 70 kDa protein 8;
+GN   Name=HSPA8; Synonyms=HSC70;
+OS   Bos taurus (Bovine).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
+OC   Pecora; Bovidae; Bovinae; Bos.
+OX   NCBI_TaxID=9913;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Brain cortex;
+RX   PubMed=2216746; DOI=10.1093/nar/18.18.5569;
+RA   Deluca-Flaherty C., McKay D.B.;
+RT   "Nucleotide sequence of the cDNA of a bovine 70 kilodalton heat shock
+RT   cognate protein.";
+RL   Nucleic Acids Res. 18:5569-5569(1990).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RX   PubMed=16305752; DOI=10.1186/1471-2164-6-166;
+RA   Harhay G.P., Sonstegard T.S., Keele J.W., Heaton M.P., Clawson M.L.,
+RA   Snelling W.M., Wiedmann R.T., Van Tassell C.P., Smith T.P.L.;
+RT   "Characterization of 954 bovine full-CDS cDNA sequences.";
+RL   BMC Genomics 6:166-166(2005).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=Crossbred X Angus; TISSUE=Ileum;
+RG   NIH - Mammalian Gene Collection (MGC) project;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) OF 1-385 IN COMPLEX WITH ADP.
+RX   PubMed=2143562; DOI=10.1038/346623a0;
+RA   Flaherty K.M., de Luca-Flaherty C., McKay D.B.;
+RT   "Three-dimensional structure of the ATPase fragment of a 70K heat-
+RT   shock cognate protein.";
+RL   Nature 346:623-628(1990).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS) OF 1-385 IN COMPLEXES WITH ADP
+RP   AND ATP.
+RX   PubMed=8175707;
+RA   Flaherty K.M., Wilbanks S.M., Deluca-Flaherty C., McKay D.B.;
+RT   "Structural basis of the 70-kilodalton heat shock cognate protein ATP
+RT   hydrolytic activity. II. Structure of the active site with ADP or ATP
+RT   bound to wild type and mutant ATPase fragment.";
+RL   J. Biol. Chem. 269:12899-12907(1994).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS) OF 1-385 IN COMPLEX WITH ADP.
+RX   PubMed=9585559; DOI=10.1021/bi973046m;
+RA   Wilbanks S.M., McKay D.B.;
+RT   "Structural replacement of active site monovalent cations by the
+RT   epsilon-amino group of lysine in the ATPase fragment of bovine
+RT   Hsc70.";
+RL   Biochemistry 37:7456-7462(1998).
+RN   [7]
+RP   X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS) OF 1-381 IN COMPLEX WITH ADP.
+RX   PubMed=9799500; DOI=10.1021/bi981510x;
+RA   Sousa M.C., McKay D.B.;
+RT   "The hydroxyl of threonine 13 of the bovine 70-kDa heat shock cognate
+RT   protein is essential for transducing the ATP-induced conformational
+RT   change.";
+RL   Biochemistry 37:15392-15399(1998).
+RN   [8]
+RP   X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS) OF 1-381 OF MUTANTS.
+RX   PubMed=10451379; DOI=10.1021/bi990816g;
+RA   Johnson E.R., McKay D.B.;
+RT   "Mapping the role of active site residues for transducing an ATP-
+RT   induced conformational change in the bovine 70-kDa heat shock cognate
+RT   protein.";
+RL   Biochemistry 38:10823-10830(1999).
+RN   [9]
+RP   X-RAY CRYSTALLOGRAPHY (3.12 ANGSTROMS) OF 2-554 IN COMPLEX WITH ADP.
+RX   PubMed=18550409; DOI=10.1016/j.molcel.2008.05.006;
+RA   Schuermann J.P., Jiang J., Cuellar J., Llorca O., Wang L.,
+RA   Gimenez L.E., Jin S., Taylor A.B., Demeler B., Morano K.A., Hart P.J.,
+RA   Valpuesta J.M., Lafer E.M., Sousa R.;
+RT   "Structure of the Hsp110:Hsc70 nucleotide exchange machine.";
+RL   Mol. Cell 31:232-243(2008).
+CC   -!- FUNCTION: Acts as a repressor of transcriptional activation.
+CC       Inhibits the transcriptional coactivator activity of CITED1 on
+CC       Smad-mediated transcription. Chaperone. Component of the PRP19-
+CC       CDC5L complex that forms an integral part of the spliceosome and
+CC       is required for activating pre-mRNA splicing. May have a
+CC       scaffolding role in the spliceosome assembly as it contacts all
+CC       other components of the core complex (By similarity). Binds
+CC       bacterial lipopolysaccharide (LPS) et mediates LPS-induced
+CC       inflammatory response, including TNF secretion. Participates in
+CC       the ER-associated degradation (ERAD) quality control pathway in
+CC       conjunction with J domain-containing co-chaperones and the E3
+CC       ligase CHIP (By similarity). {ECO:0000250}.
+CC   -!- SUBUNIT: Identified in a IGF2BP1-dependent mRNP granule complex
+CC       containing untranslated mRNAs. Interacts with PACRG. Interacts
+CC       with HSPH1/HSP105. Interacts with IRAK1BP1 and BAG1. Interacts
+CC       with DNAJC7 and DNAJB14 (via J domain). Interacts (via C-terminus)
+CC       with the E3 ligase CHIP forming a 210 kDa complex of one CHIP and
+CC       two HSPA8 molecules. Interacts with CITED1 (via N-terminus); the
+CC       interaction suppresses the association of CITED1 to p300/CBP and
+CC       SMAD-mediated transcription transactivation. Component of the
+CC       PRP19-CDC5L splicing complex composed of a core complex comprising
+CC       a homotetramer of PRPF19, CDC5L, PLRG1 and BCAS2, and at least
+CC       three less stably associated proteins CTNNBL1, CWC15 and HSPA8.
+CC       Interacts with TRIM5. Part of a complex composed at least of
+CC       ASCL2, EMSY, HCFC1, HSPA8, CCAR2, MATR3, MKI67, RBBP5, TUBB2A,
+CC       WDR5 and ZNF335; this complex may have a histone H3-specific
+CC       methyltransferase activity. Following LPS binding, may form a
+CC       complex with CXCR4, GDF5 and HSP90AA1. Interacts with PARK2.
+CC       Interacts with FOXP3. {ECO:0000250|UniProtKB:P11142}.
+CC   -!- INTERACTION:
+CC       P13569:CFTR (xeno); NbExp=2; IntAct=EBI-907802, EBI-349854;
+CC       P26361:Cftr (xeno); NbExp=5; IntAct=EBI-907802, EBI-6115317;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250}. Melanosome
+CC       {ECO:0000250}. Nucleus, nucleolus {ECO:0000250}. Cell membrane
+CC       {ECO:0000250}. Note=Localized in cytoplasmic mRNP granules
+CC       containing untranslated mRNAs. Translocates rapidly from the
+CC       cytoplasm to the nuclei, and especially to the nucleoli, upon heat
+CC       shock (By similarity). {ECO:0000250}.
+CC   -!- TISSUE SPECIFICITY: Ubiquitous.
+CC   -!- INDUCTION: Constitutively synthesized.
+CC   -!- DOMAIN: The N-terminal 1-386 residues constitute the ATPase
+CC       domain, while residues 387-646 form the peptide-binding domain.
+CC       {ECO:0000250}.
+CC   -!- PTM: Acetylated. {ECO:0000250}.
+CC   -!- PTM: ISGylated. {ECO:0000250}.
+CC   -!- PTM: Trimethylation at Lys-561 reduces fibrillar SNCA binding.
+CC       {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the heat shock protein 70 family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X53827; CAA37823.1; -; mRNA.
+DR   EMBL; X53335; CAA37422.1; -; mRNA.
+DR   EMBL; BT030487; ABQ12927.1; -; mRNA.
+DR   EMBL; BC105182; AAI05183.1; -; mRNA.
+DR   PIR; S11456; S11456.
+DR   RefSeq; NP_776770.2; NM_174345.4.
+DR   UniGene; Bt.12309; -.
+DR   PDB; 1ATR; X-ray; 2.34 A; A=1-386.
+DR   PDB; 1ATS; X-ray; 2.43 A; A=1-386.
+DR   PDB; 1BA0; X-ray; 1.90 A; A=1-386.
+DR   PDB; 1BA1; X-ray; 1.70 A; A=1-386.
+DR   PDB; 1BUP; X-ray; 1.70 A; A=1-386.
+DR   PDB; 1HPM; X-ray; 1.70 A; A=1-386.
+DR   PDB; 1HX1; X-ray; 1.90 A; A=4-381.
+DR   PDB; 1KAX; X-ray; 1.70 A; A=1-381.
+DR   PDB; 1KAY; X-ray; 1.70 A; A=1-381.
+DR   PDB; 1KAZ; X-ray; 1.70 A; A=1-381.
+DR   PDB; 1NGA; X-ray; 2.18 A; A=1-386.
+DR   PDB; 1NGB; X-ray; 2.18 A; A=1-386.
+DR   PDB; 1NGC; X-ray; 2.20 A; A=1-386.
+DR   PDB; 1NGD; X-ray; 2.18 A; A=1-386.
+DR   PDB; 1NGE; X-ray; 2.05 A; A=1-386.
+DR   PDB; 1NGF; X-ray; 2.17 A; A=1-386.
+DR   PDB; 1NGG; X-ray; 2.19 A; A=1-386.
+DR   PDB; 1NGH; X-ray; 2.23 A; A=1-386.
+DR   PDB; 1NGI; X-ray; 2.15 A; A=1-386.
+DR   PDB; 1NGJ; X-ray; 2.10 A; A=1-386.
+DR   PDB; 1Q2G; Model; -; B=4-381.
+DR   PDB; 1QQM; X-ray; 1.90 A; A=4-381.
+DR   PDB; 1QQN; X-ray; 1.90 A; A=4-381.
+DR   PDB; 1QQO; X-ray; 1.90 A; A=4-381.
+DR   PDB; 1YUW; X-ray; 2.60 A; A=1-554.
+DR   PDB; 2BUP; X-ray; 1.70 A; A=1-381.
+DR   PDB; 2QW9; X-ray; 1.85 A; A/B=1-394.
+DR   PDB; 2QWL; X-ray; 1.75 A; A/B=1-394.
+DR   PDB; 2QWM; X-ray; 1.86 A; A/B=1-394.
+DR   PDB; 2QWN; X-ray; 2.40 A; A=1-394.
+DR   PDB; 2QWO; X-ray; 1.70 A; A=1-394.
+DR   PDB; 2QWP; X-ray; 1.75 A; A=1-394.
+DR   PDB; 2QWQ; X-ray; 2.21 A; A=1-394.
+DR   PDB; 2QWR; X-ray; 2.21 A; A=1-394.
+DR   PDB; 3C7N; X-ray; 3.12 A; B=1-554.
+DR   PDB; 3HSC; X-ray; 1.93 A; A=1-386.
+DR   PDB; 4FL9; X-ray; 1.90 A; A=1-554.
+DR   PDBsum; 1ATR; -.
+DR   PDBsum; 1ATS; -.
+DR   PDBsum; 1BA0; -.
+DR   PDBsum; 1BA1; -.
+DR   PDBsum; 1BUP; -.
+DR   PDBsum; 1HPM; -.
+DR   PDBsum; 1HX1; -.
+DR   PDBsum; 1KAX; -.
+DR   PDBsum; 1KAY; -.
+DR   PDBsum; 1KAZ; -.
+DR   PDBsum; 1NGA; -.
+DR   PDBsum; 1NGB; -.
+DR   PDBsum; 1NGC; -.
+DR   PDBsum; 1NGD; -.
+DR   PDBsum; 1NGE; -.
+DR   PDBsum; 1NGF; -.
+DR   PDBsum; 1NGG; -.
+DR   PDBsum; 1NGH; -.
+DR   PDBsum; 1NGI; -.
+DR   PDBsum; 1NGJ; -.
+DR   PDBsum; 1Q2G; -.
+DR   PDBsum; 1QQM; -.
+DR   PDBsum; 1QQN; -.
+DR   PDBsum; 1QQO; -.
+DR   PDBsum; 1YUW; -.
+DR   PDBsum; 2BUP; -.
+DR   PDBsum; 2QW9; -.
+DR   PDBsum; 2QWL; -.
+DR   PDBsum; 2QWM; -.
+DR   PDBsum; 2QWN; -.
+DR   PDBsum; 2QWO; -.
+DR   PDBsum; 2QWP; -.
+DR   PDBsum; 2QWQ; -.
+DR   PDBsum; 2QWR; -.
+DR   PDBsum; 3C7N; -.
+DR   PDBsum; 3HSC; -.
+DR   PDBsum; 4FL9; -.
+DR   ProteinModelPortal; P19120; -.
+DR   SMR; P19120; 1-621.
+DR   BioGrid; 159144; 2.
+DR   DIP; DIP-35481N; -.
+DR   IntAct; P19120; 6.
+DR   MINT; MINT-157582; -.
+DR   STRING; 9913.ENSBTAP00000017497; -.
+DR   BindingDB; P19120; -.
+DR   ChEMBL; CHEMBL1275213; -.
+DR   PaxDb; P19120; -.
+DR   PRIDE; P19120; -.
+DR   Ensembl; ENSBTAT00000017497; ENSBTAP00000017497; ENSBTAG00000013162.
+DR   GeneID; 281831; -.
+DR   KEGG; bta:281831; -.
+DR   CTD; 3312; -.
+DR   eggNOG; COG0443; -.
+DR   GeneTree; ENSGT00750000117237; -.
+DR   HOGENOM; HOG000228135; -.
+DR   HOVERGEN; HBG051845; -.
+DR   InParanoid; P19120; -.
+DR   KO; K03283; -.
+DR   OMA; CFNIKST; -.
+DR   OrthoDB; EOG7PCJGF; -.
+DR   TreeFam; TF105042; -.
+DR   Reactome; REACT_300103; HSF1-dependent transactivation.
+DR   Reactome; REACT_307213; CHL1 interactions.
+DR   Reactome; REACT_311099; mRNA Splicing - Major Pathway.
+DR   Reactome; REACT_329646; AUF1 (hnRNP D0) destabilizes mRNA.
+DR   Reactome; REACT_338158; Regulation of HSF1-mediated heat shock response.
+DR   Reactome; REACT_344297; Attenuation phase.
+DR   EvolutionaryTrace; P19120; -.
+DR   NextBio; 20805740; -.
+DR   PRO; PR:P19120; -.
+DR   Proteomes; UP000009136; Chromosome 15.
+DR   ExpressionAtlas; P19120; baseline.
+DR   GO; GO:0072562; C:blood microparticle; IEA:Ensembl.
+DR   GO; GO:0005829; C:cytosol; IEA:Ensembl.
+DR   GO; GO:0070062; C:extracellular exosome; IEA:Ensembl.
+DR   GO; GO:0005925; C:focal adhesion; IEA:Ensembl.
+DR   GO; GO:0042470; C:melanosome; IEA:UniProtKB-SubCell.
+DR   GO; GO:0043209; C:myelin sheath; IEA:Ensembl.
+DR   GO; GO:0005730; C:nucleolus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005634; C:nucleus; ISS:UniProtKB.
+DR   GO; GO:0005886; C:plasma membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0000974; C:Prp19 complex; ISS:UniProtKB.
+DR   GO; GO:0030529; C:ribonucleoprotein complex; ISS:UniProtKB.
+DR   GO; GO:0005681; C:spliceosomal complex; IEA:UniProtKB-KW.
+DR   GO; GO:0000151; C:ubiquitin ligase complex; IEA:Ensembl.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0042623; F:ATPase activity, coupled; IEA:Ensembl.
+DR   GO; GO:0044822; F:poly(A) RNA binding; IEA:Ensembl.
+DR   GO; GO:0051085; P:chaperone mediated protein folding requiring cofactor; IEA:Ensembl.
+DR   GO; GO:0072318; P:clathrin coat disassembly; IEA:Ensembl.
+DR   GO; GO:0006397; P:mRNA processing; IEA:UniProtKB-KW.
+DR   GO; GO:1902904; P:negative regulation of fibril organization; IEA:Ensembl.
+DR   GO; GO:0045892; P:negative regulation of transcription, DNA-templated; ISS:UniProtKB.
+DR   GO; GO:0048026; P:positive regulation of mRNA splicing, via spliceosome; IEA:Ensembl.
+DR   GO; GO:0042026; P:protein refolding; IEA:Ensembl.
+DR   GO; GO:0051726; P:regulation of cell cycle; IEA:Ensembl.
+DR   GO; GO:0008380; P:RNA splicing; IEA:UniProtKB-KW.
+DR   GO; GO:0006351; P:transcription, DNA-templated; IEA:UniProtKB-KW.
+DR   Gene3D; 1.20.1270.10; -; 1.
+DR   Gene3D; 2.60.34.10; -; 1.
+DR   InterPro; IPR018181; Heat_shock_70_CS.
+DR   InterPro; IPR029048; HSP70_C.
+DR   InterPro; IPR029047; HSP70_peptide-bd.
+DR   InterPro; IPR013126; Hsp_70_fam.
+DR   Pfam; PF00012; HSP70; 1.
+DR   PRINTS; PR00301; HEATSHOCK70.
+DR   SUPFAM; SSF100920; SSF100920; 1.
+DR   SUPFAM; SSF100934; SSF100934; 1.
+DR   PROSITE; PS00297; HSP70_1; 1.
+DR   PROSITE; PS00329; HSP70_2; 1.
+DR   PROSITE; PS01036; HSP70_3; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; ATP-binding; Cell membrane; Chaperone;
+KW   Complete proteome; Cytoplasm; Membrane; Methylation; mRNA processing;
+KW   mRNA splicing; Nucleotide-binding; Nucleus; Phosphoprotein;
+KW   Reference proteome; Repressor; Spliceosome; Stress response;
+KW   Transcription; Transcription regulation; Ubl conjugation.
+FT   INIT_MET      1      1       Removed. {ECO:0000250|UniProtKB:P11142}.
+FT   CHAIN         2    650       Heat shock cognate 71 kDa protein.
+FT                                /FTId=PRO_0000078268.
+FT   NP_BIND      12     15       ATP.
+FT   NP_BIND     202    204       ATP.
+FT   NP_BIND     268    275       ATP.
+FT   NP_BIND     339    342       ATP.
+FT   REGION      186    377       Interaction with BAG1. {ECO:0000250}.
+FT   BINDING      71     71       ATP.
+FT   MOD_RES       2      2       N-acetylserine.
+FT                                {ECO:0000250|UniProtKB:P11142}.
+FT   MOD_RES     108    108       N6-acetyllysine.
+FT                                {ECO:0000250|UniProtKB:P63017}.
+FT   MOD_RES     153    153       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:P11142}.
+FT   MOD_RES     246    246       N6-acetyllysine.
+FT                                {ECO:0000250|UniProtKB:P11142}.
+FT   MOD_RES     319    319       N6-acetyllysine; alternate.
+FT                                {ECO:0000250|UniProtKB:P11142}.
+FT   MOD_RES     319    319       N6-succinyllysine; alternate.
+FT                                {ECO:0000250|UniProtKB:P63017}.
+FT   MOD_RES     328    328       N6-acetyllysine.
+FT                                {ECO:0000250|UniProtKB:P63017}.
+FT   MOD_RES     362    362       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:P11142}.
+FT   MOD_RES     512    512       N6-acetyllysine; alternate.
+FT                                {ECO:0000250|UniProtKB:P63017}.
+FT   MOD_RES     512    512       N6-succinyllysine; alternate.
+FT                                {ECO:0000250|UniProtKB:P63017}.
+FT   MOD_RES     524    524       N6-acetyllysine.
+FT                                {ECO:0000250|UniProtKB:P63017}.
+FT   MOD_RES     561    561       N6,N6,N6-trimethyllysine; by METTL21A.
+FT                                {ECO:0000250}.
+FT   MOD_RES     589    589       N6-acetyllysine.
+FT                                {ECO:0000250|UniProtKB:P11142}.
+FT   MOD_RES     597    597       N6-acetyllysine.
+FT                                {ECO:0000250|UniProtKB:P11142}.
+FT   MOD_RES     601    601       N6-acetyllysine.
+FT                                {ECO:0000250|UniProtKB:P11142}.
+FT   CONFLICT    180    180       A -> T (in Ref. 3; AAI05183).
+FT                                {ECO:0000305}.
+FT   CONFLICT    543    543       E -> K (in Ref. 1; CAA37422/CAA37823).
+FT                                {ECO:0000305}.
+FT   STRAND        7     10       {ECO:0000244|PDB:1BA1}.
+FT   STRAND       13     22       {ECO:0000244|PDB:1BA1}.
+FT   STRAND       25     28       {ECO:0000244|PDB:1BA1}.
+FT   STRAND       36     39       {ECO:0000244|PDB:1BA1}.
+FT   STRAND       42     44       {ECO:0000244|PDB:1BA1}.
+FT   STRAND       49     51       {ECO:0000244|PDB:1BA1}.
+FT   HELIX        53     56       {ECO:0000244|PDB:1BA1}.
+FT   TURN         57     61       {ECO:0000244|PDB:1BA1}.
+FT   HELIX        63     65       {ECO:0000244|PDB:1BA1}.
+FT   STRAND       66     68       {ECO:0000244|PDB:4FL9}.
+FT   HELIX        70     72       {ECO:0000244|PDB:1BA1}.
+FT   TURN         73     75       {ECO:0000244|PDB:1BA1}.
+FT   HELIX        81     87       {ECO:0000244|PDB:1BA1}.
+FT   STRAND       91     97       {ECO:0000244|PDB:1BA1}.
+FT   STRAND      100    107       {ECO:0000244|PDB:1BA1}.
+FT   STRAND      110    114       {ECO:0000244|PDB:1BA1}.
+FT   HELIX       116    135       {ECO:0000244|PDB:1BA1}.
+FT   STRAND      141    146       {ECO:0000244|PDB:1BA1}.
+FT   HELIX       152    164       {ECO:0000244|PDB:1BA1}.
+FT   STRAND      168    174       {ECO:0000244|PDB:1BA1}.
+FT   HELIX       175    182       {ECO:0000244|PDB:1BA1}.
+FT   TURN        183    186       {ECO:0000244|PDB:1BA1}.
+FT   STRAND      187    191       {ECO:0000244|PDB:2QWL}.
+FT   STRAND      193    200       {ECO:0000244|PDB:1BA1}.
+FT   STRAND      205    213       {ECO:0000244|PDB:1BA1}.
+FT   STRAND      216    225       {ECO:0000244|PDB:1BA1}.
+FT   HELIX       230    249       {ECO:0000244|PDB:1BA1}.
+FT   HELIX       253    255       {ECO:0000244|PDB:4FL9}.
+FT   HELIX       257    273       {ECO:0000244|PDB:1BA1}.
+FT   TURN        274    276       {ECO:0000244|PDB:1BA1}.
+FT   STRAND      277    288       {ECO:0000244|PDB:1BA1}.
+FT   STRAND      291    298       {ECO:0000244|PDB:1BA1}.
+FT   HELIX       299    312       {ECO:0000244|PDB:1BA1}.
+FT   HELIX       314    323       {ECO:0000244|PDB:1BA1}.
+FT   HELIX       328    330       {ECO:0000244|PDB:1BA1}.
+FT   STRAND      333    338       {ECO:0000244|PDB:1BA1}.
+FT   HELIX       339    342       {ECO:0000244|PDB:1BA1}.
+FT   HELIX       344    353       {ECO:0000244|PDB:1BA1}.
+FT   TURN        354    356       {ECO:0000244|PDB:1BA1}.
+FT   HELIX       365    367       {ECO:0000244|PDB:1BA1}.
+FT   HELIX       368    380       {ECO:0000244|PDB:1BA1}.
+FT   STRAND      386    388       {ECO:0000244|PDB:2QWO}.
+FT   STRAND      392    396       {ECO:0000244|PDB:3C7N}.
+FT   STRAND      401    405       {ECO:0000244|PDB:4FL9}.
+FT   TURN        406    408       {ECO:0000244|PDB:4FL9}.
+FT   STRAND      409    414       {ECO:0000244|PDB:4FL9}.
+FT   STRAND      419    432       {ECO:0000244|PDB:4FL9}.
+FT   STRAND      438    446       {ECO:0000244|PDB:4FL9}.
+FT   HELIX       450    452       {ECO:0000244|PDB:4FL9}.
+FT   STRAND      453    461       {ECO:0000244|PDB:4FL9}.
+FT   STRAND      474    480       {ECO:0000244|PDB:4FL9}.
+FT   STRAND      486    492       {ECO:0000244|PDB:4FL9}.
+FT   TURN        493    495       {ECO:0000244|PDB:4FL9}.
+FT   STRAND      498    503       {ECO:0000244|PDB:4FL9}.
+FT   HELIX       512    524       {ECO:0000244|PDB:4FL9}.
+FT   HELIX       526    534       {ECO:0000244|PDB:4FL9}.
+FT   STRAND      539    542       {ECO:0000244|PDB:4FL9}.
+FT   HELIX       547    549       {ECO:0000244|PDB:4FL9}.
+SQ   SEQUENCE   650 AA;  71241 MW;  FBE109C14A28B925 CRC64;
+     MSKGPAVGID LGTTYSCVGV FQHGKVEIIA NDQGNRTTPS YVAFTDTERL IGDAAKNQVA
+     MNPTNTVFDA KRLIGRRFDD AVVQSDMKHW PFMVVNDAGR PKVQVEYKGE TKSFYPEEVS
+     SMVLTKMKEI AEAYLGKTVT NAVVTVPAYF NDSQRQATKD AGTIAGLNVL RIINEPTAAA
+     IAYGLDKKVG AERNVLIFDL GGGTFDVSIL TIEDGIFEVK STAGDTHLGG EDFDNRMVNH
+     FIAEFKRKHK KDISENKRAV RRLRTACERA KRTLSSSTQA SIEIDSLYEG IDFYTSITRA
+     RFEELNADLF RGTLDPVEKA LRDAKLDKSQ IHDIVLVGGS TRIPKIQKLL QDFFNGKELN
+     KSINPDEAVA YGAAVQAAIL SGDKSENVQD LLLLDVTPLS LGIETAGGVM TVLIKRNTTI
+     PTKQTQTFTT YSDNQPGVLI QVYEGERAMT KDNNLLGKFE LTGIPPAPRG VPQIEVTFDI
+     DANGILNVSA VDKSTGKENK ITITNDKGRL SKEDIERMVQ EAEKYKAEDE KQRDKVSSKN
+     SLESYAFNMK ATVEDEKLQG KINDEDKQKI LDKCNEIINW LDKNQTAEKE EFEHQQKELE
+     KVCNPIITKL YQSAGGMPGG MPGGMPGGFP GGGAPPSGGA SSGPTIEEVD
+//

@@ -1,0 +1,103 @@
+ID   G1EUI6_9FABA            Unreviewed;       261 AA.
+AC   G1EUI6;
+DT   19-OCT-2011, integrated into UniProtKB/TrEMBL.
+DT   19-OCT-2011, sequence version 1.
+DT   29-APR-2015, entry version 26.
+DE   SubName: Full=Lectin {ECO:0000313|EMBL:AEK69351.1};
+GN   Name=pelA {ECO:0000313|EMBL:AEK69351.1};
+OS   Platypodium elegans.
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+OC   Dalbergieae; Platypodium.
+OX   NCBI_TaxID=115002 {ECO:0000313|EMBL:AEK69351.1};
+RN   [1] {ECO:0000313|EMBL:AEK69351.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   TISSUE=Seeds {ECO:0000313|EMBL:AEK69351.1};
+RA   Benevides R., Ganne G., Unverzagt C., Cavada B., Chazalet V.,
+RA   Breton C., Varrot A., Imberty A.;
+RL   Submitted (JUN-2011) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:3ZVX, ECO:0000213|PDB:3ZYR, ECO:0000313|EMBL:AEK69351.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   TISSUE=Seeds {ECO:0000313|EMBL:AEK69351.1};
+RX   PubMed=22692206; DOI=10.1074/jbc.M112.375816;
+RA   Benevides R.G., Ganne G., Simoes R.d.a. .C., Schubert V., Niemietz M.,
+RA   Unverzagt C., Chazalet V., Breton C., Varrot A., Cavada B.S.,
+RA   Imberty A.;
+RT   "A lectin from Platypodium elegans with unusual specificity and
+RT   affinity for asymmetric complex N-glycans.";
+RL   J. Biol. Chem. 287:26352-26364(2012).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; JN133278; AEK69351.1; -; mRNA.
+DR   PDB; 3ZVX; X-ray; 2.10 A; A/B=1-261.
+DR   PDB; 3ZYR; X-ray; 1.65 A; A/B=1-261.
+DR   PDBsum; 3ZVX; -.
+DR   PDBsum; 3ZYR; -.
+DR   GO; GO:0030246; F:carbohydrate binding; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 2.60.120.200; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR016363; Lectin.
+DR   InterPro; IPR000985; Lectin_LegA_CS.
+DR   InterPro; IPR019825; Lectin_legB_Mn/Ca_BS.
+DR   InterPro; IPR001220; Legume_lectin_dom.
+DR   Pfam; PF00139; Lectin_legB; 1.
+DR   PIRSF; PIRSF002690; L-type_lectin_plant; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   PROSITE; PS00308; LECTIN_LEGUME_ALPHA; 1.
+DR   PROSITE; PS00307; LECTIN_LEGUME_BETA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3ZVX, ECO:0000213|PDB:3ZYR};
+KW   Calcium {ECO:0000213|PDB:3ZVX, ECO:0000213|PDB:3ZYR};
+KW   Lectin {ECO:0000256|SAAS:SAAS00122626};
+KW   Manganese {ECO:0000213|PDB:3ZVX, ECO:0000213|PDB:3ZYR};
+KW   Metal-binding {ECO:0000213|PDB:3ZVX, ECO:0000213|PDB:3ZYR}.
+FT   REGION      145    147       Mannose binding. {ECO:0000213|PDB:3ZVX,
+FT                                ECO:0000213|PDB:3ZYR}.
+FT   REGION      145    146       Beta-D-mannose binding.
+FT                                {ECO:0000213|PDB:3ZYR}.
+FT   REGION      229    231       Mannose binding. {ECO:0000213|PDB:3ZVX,
+FT                                ECO:0000213|PDB:3ZYR}.
+FT   METAL       137    137       Manganese. {ECO:0000213|PDB:3ZVX,
+FT                                ECO:0000213|PDB:3ZYR}.
+FT   METAL       139    139       Calcium. {ECO:0000213|PDB:3ZVX,
+FT                                ECO:0000213|PDB:3ZYR}.
+FT   METAL       139    139       Manganese. {ECO:0000213|PDB:3ZVX,
+FT                                ECO:0000213|PDB:3ZYR}.
+FT   METAL       141    141       Calcium; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:3ZVX,
+FT                                ECO:0000213|PDB:3ZYR}.
+FT   METAL       147    147       Calcium. {ECO:0000213|PDB:3ZVX,
+FT                                ECO:0000213|PDB:3ZYR}.
+FT   METAL       150    150       Calcium. {ECO:0000213|PDB:3ZVX,
+FT                                ECO:0000213|PDB:3ZYR}.
+FT   METAL       150    150       Manganese. {ECO:0000213|PDB:3ZVX,
+FT                                ECO:0000213|PDB:3ZYR}.
+FT   METAL       155    155       Manganese; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3ZVX,
+FT                                ECO:0000213|PDB:3ZYR}.
+FT   BINDING      54     54       N-acetyl-D-glucosamine.
+FT                                {ECO:0000213|PDB:3ZYR}.
+FT   BINDING      92     92       N-acetyl-D-glucosamine.
+FT                                {ECO:0000213|PDB:3ZYR}.
+FT   BINDING      95     95       Mannose. {ECO:0000213|PDB:3ZVX,
+FT                                ECO:0000213|PDB:3ZYR}.
+FT   BINDING     111    111       N-acetyl-D-glucosamine; via carbonyl
+FT                                oxygen. {ECO:0000213|PDB:3ZYR}.
+FT   BINDING     115    115       Mannose; via amide nitrogen.
+FT                                {ECO:0000213|PDB:3ZVX,
+FT                                ECO:0000213|PDB:3ZYR}.
+FT   BINDING     141    141       Mannose. {ECO:0000213|PDB:3ZVX}.
+FT   BINDING     229    229       N-acetyl-D-glucosamine.
+FT                                {ECO:0000213|PDB:3ZYR}.
+FT   BINDING     231    231       Beta-D-mannose. {ECO:0000213|PDB:3ZYR}.
+SQ   SEQUENCE   261 AA;  29288 MW;  ABF9F9EA57F4C681 CRC64;
+     MLLNRANSTD SLSFSFINFD RDERNLIFQG DAHTSRNNIL QLTRTDSNGA PVRSTVGRIL
+     HSAQVRLWEK STNRVANLQT QFSFFLSSPL SNPADGIAFF IAPPDTTIPS GSAGGLLGLF
+     NPRTALNESA NQVLAVEFDT FFAQNSNTWD PNYQHIGIDV NSIRSSKVVR WERREGKTLN
+     VLVTYNPSTR TIDVVATYPD GQRYQLSHVV DLTTILPEWV RVGFSAASGE QFQTHNLESW
+     SFTSTLLYTA QKEDEYLARD M
+//

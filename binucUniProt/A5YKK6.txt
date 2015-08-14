@@ -1,0 +1,597 @@
+ID   CNOT1_HUMAN             Reviewed;        2376 AA.
+AC   A5YKK6; Q68DX7; Q7Z3K2; Q8IWB8; Q8TB53; Q9BVZ6; Q9UFR8; Q9UI27;
+AC   Q9Y2L0;
+DT   15-JAN-2008, integrated into UniProtKB/Swiss-Prot.
+DT   15-JAN-2008, sequence version 2.
+DT   22-JUL-2015, entry version 82.
+DE   RecName: Full=CCR4-NOT transcription complex subunit 1;
+DE   AltName: Full=CCR4-associated factor 1;
+DE   AltName: Full=Negative regulator of transcription subunit 1 homolog;
+DE            Short=NOT1H;
+DE            Short=hNOT1;
+GN   Name=CNOT1; Synonyms=CDC39, KIAA1007, NOT1; ORFNames=AD-005;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 2 AND 3), AND
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 244-2376 (ISOFORM 1).
+RC   TISSUE=Cervix, Fetal kidney, and Testis;
+RX   PubMed=17974005; DOI=10.1186/1471-2164-8-399;
+RA   Bechtel S., Rosenfelder H., Duda A., Schmidt C.P., Ernst U.,
+RA   Wellenreuther R., Mehrle A., Schuster C., Bahr A., Bloecker H.,
+RA   Heubner D., Hoerlein A., Michel G., Wedler H., Koehrer K.,
+RA   Ottenwaelder B., Poustka A., Wiemann S., Schupp I.;
+RT   "The full-ORF clone resource of the German cDNA consortium.";
+RL   BMC Genomics 8:399-399(2007).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15616553; DOI=10.1038/nature03187;
+RA   Martin J., Han C., Gordon L.A., Terry A., Prabhakar S., She X.,
+RA   Xie G., Hellsten U., Chan Y.M., Altherr M., Couronne O., Aerts A.,
+RA   Bajorek E., Black S., Blumer H., Branscomb E., Brown N.C., Bruno W.J.,
+RA   Buckingham J.M., Callen D.F., Campbell C.S., Campbell M.L.,
+RA   Campbell E.W., Caoile C., Challacombe J.F., Chasteen L.A.,
+RA   Chertkov O., Chi H.C., Christensen M., Clark L.M., Cohn J.D.,
+RA   Denys M., Detter J.C., Dickson M., Dimitrijevic-Bussod M., Escobar J.,
+RA   Fawcett J.J., Flowers D., Fotopulos D., Glavina T., Gomez M.,
+RA   Gonzales E., Goodstein D., Goodwin L.A., Grady D.L., Grigoriev I.,
+RA   Groza M., Hammon N., Hawkins T., Haydu L., Hildebrand C.E., Huang W.,
+RA   Israni S., Jett J., Jewett P.B., Kadner K., Kimball H., Kobayashi A.,
+RA   Krawczyk M.-C., Leyba T., Longmire J.L., Lopez F., Lou Y., Lowry S.,
+RA   Ludeman T., Manohar C.F., Mark G.A., McMurray K.L., Meincke L.J.,
+RA   Morgan J., Moyzis R.K., Mundt M.O., Munk A.C., Nandkeshwar R.D.,
+RA   Pitluck S., Pollard M., Predki P., Parson-Quintana B., Ramirez L.,
+RA   Rash S., Retterer J., Ricke D.O., Robinson D.L., Rodriguez A.,
+RA   Salamov A., Saunders E.H., Scott D., Shough T., Stallings R.L.,
+RA   Stalvey M., Sutherland R.D., Tapia R., Tesmer J.G., Thayer N.,
+RA   Thompson L.S., Tice H., Torney D.C., Tran-Gyamfi M., Tsai M.,
+RA   Ulanovsky L.E., Ustaszewska A., Vo N., White P.S., Williams A.L.,
+RA   Wills P.L., Wu J.-R., Wu K., Yang J., DeJong P., Bruce D.,
+RA   Doggett N.A., Deaven L., Schmutz J., Grimwood J., Richardson P.,
+RA   Rokhsar D.S., Eichler E.E., Gilna P., Lucas S.M., Myers R.M.,
+RA   Rubin E.M., Pennacchio L.A.;
+RT   "The sequence and analysis of duplication-rich human chromosome 16.";
+RL   Nature 432:988-994(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 4), NUCLEOTIDE
+RP   SEQUENCE [LARGE SCALE MRNA] OF 757-2376 (ISOFORM 1), AND VARIANT
+RP   ALA-603.
+RC   TISSUE=Choriocarcinoma, Leiomyosarcoma, and Testis;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 537-2376 (ISOFORM 2).
+RC   TISSUE=Brain;
+RX   PubMed=10231032; DOI=10.1093/dnares/6.1.63;
+RA   Nagase T., Ishikawa K., Suyama M., Kikuno R., Hirosawa M.,
+RA   Miyajima N., Tanaka A., Kotani H., Nomura N., Ohara O.;
+RT   "Prediction of the coding sequences of unidentified human genes. XIII.
+RT   The complete sequences of 100 new cDNA clones from brain which code
+RT   for large proteins in vitro.";
+RL   DNA Res. 6:63-70(1999).
+RN   [5]
+RP   SEQUENCE REVISION.
+RX   PubMed=12168954; DOI=10.1093/dnares/9.3.99;
+RA   Nakajima D., Okazaki N., Yamakawa H., Kikuno R., Ohara O., Nagase T.;
+RT   "Construction of expression-ready cDNA clones for KIAA genes: manual
+RT   curation of 330 KIAA cDNA clones.";
+RL   DNA Res. 9:99-106(2002).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 1964-2374 (ISOFORM 1).
+RC   TISSUE=Adrenal gland;
+RX   PubMed=10931946; DOI=10.1073/pnas.160270997;
+RA   Hu R.-M., Han Z.-G., Song H.-D., Peng Y.-D., Huang Q.-H., Ren S.-X.,
+RA   Gu Y.-J., Huang C.-H., Li Y.-B., Jiang C.-L., Fu G., Zhang Q.-H.,
+RA   Gu B.-W., Dai M., Mao Y.-F., Gao G.-F., Rong R., Ye M., Zhou J.,
+RA   Xu S.-H., Gu J., Shi J.-X., Jin W.-R., Zhang C.-K., Wu T.-M.,
+RA   Huang G.-Y., Chen Z., Chen M.-D., Chen J.-L.;
+RT   "Gene expression profiling in the human hypothalamus-pituitary-adrenal
+RT   axis and full-length cDNA cloning.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 97:9543-9548(2000).
+RN   [7]
+RP   FUNCTION, INTERACTION WITH CNOT2; CNOT4 AND CNOT8, AND TISSUE
+RP   SPECIFICITY.
+RX   PubMed=10637334; DOI=10.1093/nar/28.3.809;
+RA   Albert T.K., Lemaire M., van Berkum N.L., Gentz R., Collart M.A.,
+RA   Timmers H.T.M.;
+RT   "Isolation and characterization of human orthologs of yeast CCR4-NOT
+RT   complex subunits.";
+RL   Nucleic Acids Res. 28:809-817(2000).
+RN   [8]
+RP   FUNCTION, DOMAIN, AND INTERACTION WITH CNOT2; CNOT3; CNOT8; ESR1 AND
+RP   RXRA.
+RX   PubMed=16778766; DOI=10.1038/sj.emboj.7601194;
+RA   Winkler G.S., Mulder K.W., Bardwell V.J., Kalkhoven E., Timmers H.T.;
+RT   "Human Ccr4-Not complex is a ligand-dependent repressor of nuclear
+RT   receptor-mediated transcription.";
+RL   EMBO J. 25:3089-3099(2006).
+RN   [9]
+RP   INTERACTION WITH TOB1.
+RX   PubMed=18377426; DOI=10.1111/j.1349-7006.2008.00746.x;
+RA   Miyasaka T., Morita M., Ito K., Suzuki T., Fukuda H., Takeda S.,
+RA   Inoue J., Semba K., Yamamoto T.;
+RT   "Interaction of antiproliferative protein Tob with the CCR4-NOT
+RT   deadenylase complex.";
+RL   Cancer Sci. 99:755-761(2008).
+RN   [10]
+RP   IDENTIFICATION IN THE CCR4-NOT COMPLEX, AND COMPOSITION OF THE
+RP   CCR4-NOT COMPLEX.
+RX   PubMed=19558367; DOI=10.1042/BJ20090500;
+RA   Lau N.C., Kolkman A., van Schaik F.M., Mulder K.W., Pijnappel W.W.,
+RA   Heck A.J., Timmers H.T.;
+RT   "Human Ccr4-Not complexes contain variable deadenylase subunits.";
+RL   Biochem. J. 422:443-453(2009).
+RN   [11]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P.,
+RA   Buerckstuemmer T., Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [12]
+RP   INTERACTION WITH TNRC6A; TNRC6B AND TNRC6C.
+RX   PubMed=21981923; DOI=10.1016/j.molcel.2011.09.007;
+RA   Braun J.E., Huntzinger E., Fauser M., Izaurralde E.;
+RT   "GW182 proteins directly recruit cytoplasmic deadenylase complexes to
+RT   miRNA targets.";
+RL   Mol. Cell 44:120-133(2011).
+RN   [13]
+RP   FUNCTION, AND INTERACTION WITH TNRC6C.
+RX   PubMed=21984185; DOI=10.1038/nsmb.2149;
+RA   Fabian M.R., Cieplak M.K., Frank F., Morita M., Green J., Srikumar T.,
+RA   Nagar B., Yamamoto T., Raught B., Duchaine T.F., Sonenberg N.;
+RT   "miRNA-mediated deadenylation is orchestrated by GW182 through two
+RT   conserved motifs that interact with CCR4-NOT.";
+RL   Nat. Struct. Mol. Biol. 18:1211-1217(2011).
+RN   [14]
+RP   FUNCTION, AND INTERACTION WITH ZFP36.
+RX   PubMed=21278420; DOI=10.1093/nar/gkr011;
+RA   Sandler H., Kreth J., Timmers H.T., Stoecklin G.;
+RT   "Not1 mediates recruitment of the deadenylase Caf1 to mRNAs targeted
+RT   for degradation by tristetraprolin.";
+RL   Nucleic Acids Res. 39:4373-4386(2011).
+RN   [15]
+RP   FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=21976065; DOI=10.1007/s13238-011-1092-4;
+RA   Ito K., Takahashi A., Morita M., Suzuki T., Yamamoto T.;
+RT   "The role of the CNOT1 subunit of the CCR4-NOT complex in mRNA
+RT   deadenylation and cell viability.";
+RL   Protein Cell 2:755-763(2011).
+RN   [16]
+RP   FUNCTION, AND DEVELOPMENTAL STAGE.
+RX   PubMed=22367759; DOI=10.1002/stem.1070;
+RA   Zheng X., Dumitru R., Lackford B.L., Freudenberg J.M., Singh A.P.,
+RA   Archer T.K., Jothi R., Hu G.;
+RT   "Cnot1, Cnot2, and Cnot3 maintain mouse and human ESC identity and
+RT   inhibit extraembryonic differentiation.";
+RL   Stem Cells 30:910-922(2012).
+RN   [17]
+RP   X-RAY CRYSTALLOGRAPHY (2.7 ANGSTROMS) OF 1093-1317 IN COMPLEX WITH
+RP   CNOT7, INTERACTION WITH CNOT8; CNOT6 AND CNOT6L, AND MUTAGENESIS OF
+RP   LYS-1208; HIS-1212 AND LYS-1218.
+RX   PubMed=22977175; DOI=10.1093/nar/gks883;
+RA   Petit A.P., Wohlbold L., Bawankar P., Huntzinger E., Schmidt S.,
+RA   Izaurralde E., Weichenrieder O.;
+RT   "The structural basis for the interaction between the CAF1 nuclease
+RT   and the NOT1 scaffold of the human CCR4-NOT deadenylase complex.";
+RL   Nucleic Acids Res. 40:11058-11072(2012).
+RN   [18]
+RP   X-RAY CRYSTALLOGRAPHY (1.55 ANGSTROMS) OF 800-1004 IN COMPLEX WITH
+RP   ZFP36, INTERACTION WITH ZFP36, AND FUNCTION.
+RX   PubMed=23644599; DOI=10.1038/nsmb.2572;
+RA   Fabian M.R., Frank F., Rouya C., Siddiqui N., Lai W.S., Karetnikov A.,
+RA   Blackshear P.J., Nagar B., Sonenberg N.;
+RT   "Structural basis for the recruitment of the human CCR4-NOT
+RT   deadenylase complex by tristetraprolin.";
+RL   Nat. Struct. Mol. Biol. 20:735-739(2013).
+CC   -!- FUNCTION: Scaffolding component of the CCR4-NOT complex which is
+CC       one of the major cellular mRNA deadenylases and is linked to
+CC       various cellular processes including bulk mRNA degradation, miRNA-
+CC       mediated repression, translational repression during translational
+CC       initiation and general transcription regulation. Additional
+CC       complex functions may be a consequence of its influence on mRNA
+CC       expression. Its scaffolding function implies its interaction with
+CC       the catalytic complex module and diverse RNA-binding proteins
+CC       mediating the complex recruitment to selected mRNA 3'UTRs.
+CC       Involved in degradation of AU-rich element (ARE)-containing mRNAs
+CC       probably via association with ZFP36. Mediates the recruitment of
+CC       the CCR4-NOT complex to miRNA targets and to the RISC complex via
+CC       association with TNRC6A, TNRC6B or TNRC6C. Acts as a
+CC       transcriptional repressor. Represses the ligand-dependent
+CC       transcriptional activation by nuclear receptors. Involved in the
+CC       maintenance of emryonic stem (ES) cell identity.
+CC       {ECO:0000269|PubMed:10637334, ECO:0000269|PubMed:16778766,
+CC       ECO:0000269|PubMed:21278420, ECO:0000269|PubMed:21976065,
+CC       ECO:0000269|PubMed:21984185, ECO:0000269|PubMed:22367759,
+CC       ECO:0000269|PubMed:23644599}.
+CC   -!- SUBUNIT: Component of the CCR4-NOT complex; distinct complexes
+CC       seem to exist that differ in the participation of probably
+CC       mutually exclusive catalytic subunits. In the complex, interacts
+CC       directly with CNOT6, CNOT6L, CNOT7 or CNOT8. Interacts in a
+CC       ligand-dependent fashion with ESR1 and RXRA. Interacts with
+CC       NANOS2, TOB1 and ZFP36. Interacts with TNRC6A, TNRC6B or TNRC6C;
+CC       the interactions are direct. {ECO:0000269|PubMed:10637334,
+CC       ECO:0000269|PubMed:16778766, ECO:0000269|PubMed:18377426,
+CC       ECO:0000269|PubMed:19558367, ECO:0000269|PubMed:21278420,
+CC       ECO:0000269|PubMed:21981923, ECO:0000269|PubMed:21984185,
+CC       ECO:0000269|PubMed:22977175, ECO:0000269|PubMed:23644599}.
+CC   -!- INTERACTION:
+CC       Q9UKZ1:CNOT11; NbExp=3; IntAct=EBI-1222758, EBI-2562014;
+CC       Q9NZN8:CNOT2; NbExp=3; IntAct=EBI-1222758, EBI-743033;
+CC       Q9ULM6:CNOT6; NbExp=2; IntAct=EBI-1222758, EBI-2104530;
+CC       Q96LI5:CNOT6L; NbExp=2; IntAct=EBI-1222758, EBI-1046635;
+CC       Q9UIV1:CNOT7; NbExp=6; IntAct=EBI-1222758, EBI-2105113;
+CC       Q9UFF9:CNOT8; NbExp=5; IntAct=EBI-1222758, EBI-742299;
+CC       Q8NDV7:TNRC6A; NbExp=2; IntAct=EBI-1222758, EBI-2269715;
+CC       Q9UPQ9:TNRC6B; NbExp=4; IntAct=EBI-1222758, EBI-947158;
+CC       Q9HCJ0:TNRC6C; NbExp=6; IntAct=EBI-1222758, EBI-6507625;
+CC       P50616:TOB1; NbExp=3; IntAct=EBI-1222758, EBI-723281;
+CC       P22893:Zfp36 (xeno); NbExp=5; IntAct=EBI-1222758, EBI-647803;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm, P-body
+CC       {ECO:0000269|PubMed:21976065}. Nucleus
+CC       {ECO:0000305|PubMed:21976065}. Note=NANOS2 promotes its
+CC       localization to P-body. {ECO:0000250}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=4;
+CC       Name=1;
+CC         IsoId=A5YKK6-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=A5YKK6-2; Sequence=VSP_030559;
+CC       Name=3;
+CC         IsoId=A5YKK6-3; Sequence=VSP_030559, VSP_030562, VSP_030563;
+CC       Name=4;
+CC         IsoId=A5YKK6-4; Sequence=VSP_030560, VSP_030561;
+CC   -!- TISSUE SPECIFICITY: Strongly expressed in brain, heart, thymus,
+CC       spleen, kidney, liver, placenta and lung. Weakly expressed in
+CC       skeletal muscle and colon. {ECO:0000269|PubMed:10637334}.
+CC   -!- DEVELOPMENTAL STAGE: Expressed in embryonic stem (ES) cells.
+CC       {ECO:0000269|PubMed:22367759}.
+CC   -!- DOMAIN: Contains Leu-Xaa-Xaa-Leu-Leu (LXXLL) motifs, a motif known
+CC       to be important for the association with nuclear receptors.
+CC       {ECO:0000269|PubMed:16778766}.
+CC   -!- SIMILARITY: Belongs to the CNOT1 family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAF14861.1; Type=Frameshift; Positions=1969, 2273; Evidence={ECO:0000305};
+CC       Sequence=CAH18093.1; Type=Erroneous initiation; Note=Translation N-terminally extended.; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AL117492; CAB55960.1; -; mRNA.
+DR   EMBL; BX537840; CAD97851.1; -; mRNA.
+DR   EMBL; CR749237; CAH18093.1; ALT_INIT; mRNA.
+DR   EMBL; EF553522; ABQ66268.1; -; mRNA.
+DR   EMBL; AC009118; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC010287; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC000779; AAH00779.2; -; mRNA.
+DR   EMBL; BC024317; AAH24317.1; -; mRNA.
+DR   EMBL; BC040523; AAH40523.1; -; mRNA.
+DR   EMBL; AB023224; BAA76851.2; -; mRNA.
+DR   EMBL; AF110778; AAF14861.1; ALT_FRAME; mRNA.
+DR   CCDS; CCDS10799.1; -. [A5YKK6-1]
+DR   CCDS; CCDS45501.1; -. [A5YKK6-4]
+DR   CCDS; CCDS58468.1; -. [A5YKK6-2]
+DR   PIR; T17270; T17270.
+DR   RefSeq; NP_001252541.1; NM_001265612.1. [A5YKK6-2]
+DR   RefSeq; NP_057368.3; NM_016284.4. [A5YKK6-1]
+DR   RefSeq; NP_996882.1; NM_206999.2. [A5YKK6-4]
+DR   UniGene; Hs.460923; -.
+DR   UniGene; Hs.731691; -.
+DR   PDB; 4C0D; X-ray; 3.20 A; A=1565-2371.
+DR   PDB; 4CQO; X-ray; 2.80 A; A/C=1833-2361.
+DR   PDB; 4CRU; X-ray; 1.65 A; A=1356-1607.
+DR   PDB; 4CRV; X-ray; 2.05 A; A=1356-1607.
+DR   PDB; 4CRW; X-ray; 1.75 A; A=1093-1317.
+DR   PDB; 4CT4; X-ray; 2.30 A; A/C=1063-1314.
+DR   PDB; 4CT6; X-ray; 2.10 A; A=1352-1594.
+DR   PDB; 4CT7; X-ray; 1.90 A; A=1352-1594.
+DR   PDB; 4GMJ; X-ray; 2.70 A; A/C/E=1093-1317.
+DR   PDB; 4GML; X-ray; 2.90 A; A/B/C/D/E/F=1093-1317.
+DR   PDB; 4J8S; X-ray; 1.55 A; A=800-1004.
+DR   PDBsum; 4C0D; -.
+DR   PDBsum; 4CQO; -.
+DR   PDBsum; 4CRU; -.
+DR   PDBsum; 4CRV; -.
+DR   PDBsum; 4CRW; -.
+DR   PDBsum; 4CT4; -.
+DR   PDBsum; 4CT6; -.
+DR   PDBsum; 4CT7; -.
+DR   PDBsum; 4GMJ; -.
+DR   PDBsum; 4GML; -.
+DR   PDBsum; 4J8S; -.
+DR   ProteinModelPortal; A5YKK6; -.
+DR   SMR; A5YKK6; 827-1004, 1069-1310, 1352-1588, 1842-2353.
+DR   BioGrid; 116660; 43.
+DR   DIP; DIP-44954N; -.
+DR   IntAct; A5YKK6; 38.
+DR   MINT; MINT-3084598; -.
+DR   STRING; 9606.ENSP00000320949; -.
+DR   PhosphoSite; A5YKK6; -.
+DR   BioMuta; CNOT1; -.
+DR   MaxQB; A5YKK6; -.
+DR   PaxDb; A5YKK6; -.
+DR   PeptideAtlas; A5YKK6; -.
+DR   PRIDE; A5YKK6; -.
+DR   Ensembl; ENST00000317147; ENSP00000320949; ENSG00000125107.
+DR   Ensembl; ENST00000441024; ENSP00000413113; ENSG00000125107. [A5YKK6-4]
+DR   Ensembl; ENST00000567188; ENSP00000456649; ENSG00000125107. [A5YKK6-3]
+DR   Ensembl; ENST00000569240; ENSP00000455635; ENSG00000125107. [A5YKK6-2]
+DR   GeneID; 23019; -.
+DR   KEGG; hsa:23019; -.
+DR   UCSC; uc002enu.5; human. [A5YKK6-2]
+DR   UCSC; uc002env.4; human. [A5YKK6-1]
+DR   UCSC; uc002enx.4; human. [A5YKK6-4]
+DR   CTD; 23019; -.
+DR   GeneCards; GC16M058553; -.
+DR   H-InvDB; HIX0013093; -.
+DR   HGNC; HGNC:7877; CNOT1.
+DR   HPA; HPA046577; -.
+DR   HPA; HPA049664; -.
+DR   MIM; 604917; gene.
+DR   neXtProt; NX_A5YKK6; -.
+DR   PharmGKB; PA26672; -.
+DR   eggNOG; COG5103; -.
+DR   GeneTree; ENSGT00390000014869; -.
+DR   HOVERGEN; HBG060834; -.
+DR   InParanoid; A5YKK6; -.
+DR   KO; K12604; -.
+DR   OMA; DSAYTHY; -.
+DR   OrthoDB; EOG744T85; -.
+DR   PhylomeDB; A5YKK6; -.
+DR   TreeFam; TF105630; -.
+DR   Reactome; REACT_20514; Deadenylation of mRNA.
+DR   ChiTaRS; CNOT1; human.
+DR   GeneWiki; CNOT1; -.
+DR   GenomeRNAi; 23019; -.
+DR   NextBio; 43960; -.
+DR   PRO; PR:A5YKK6; -.
+DR   Proteomes; UP000005640; Chromosome 16.
+DR   Bgee; A5YKK6; -.
+DR   ExpressionAtlas; A5YKK6; baseline and differential.
+DR   Genevisible; A5YKK6; HS.
+DR   GO; GO:0030014; C:CCR4-NOT complex; IDA:UniProtKB.
+DR   GO; GO:0000932; C:cytoplasmic mRNA processing body; IDA:UniProtKB.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0005615; C:extracellular space; IDA:UniProtKB.
+DR   GO; GO:0016020; C:membrane; IDA:UniProtKB.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0005778; C:peroxisomal membrane; IDA:UniProtKB.
+DR   GO; GO:0070016; F:armadillo repeat domain binding; IPI:BHF-UCL.
+DR   GO; GO:0030331; F:estrogen receptor binding; IDA:UniProtKB.
+DR   GO; GO:0044822; F:poly(A) RNA binding; IDA:UniProtKB.
+DR   GO; GO:0032947; F:protein complex scaffold; IDA:BHF-UCL.
+DR   GO; GO:0019904; F:protein domain specific binding; IPI:BHF-UCL.
+DR   GO; GO:0042974; F:retinoic acid receptor binding; IDA:UniProtKB.
+DR   GO; GO:0010467; P:gene expression; TAS:Reactome.
+DR   GO; GO:0035195; P:gene silencing by miRNA; IDA:BHF-UCL.
+DR   GO; GO:0007275; P:multicellular organismal development; IEA:UniProtKB-KW.
+DR   GO; GO:0033147; P:negative regulation of intracellular estrogen receptor signaling pathway; IDA:UniProtKB.
+DR   GO; GO:0048387; P:negative regulation of retinoic acid receptor signaling pathway; IDA:UniProtKB.
+DR   GO; GO:0000122; P:negative regulation of transcription from RNA polymerase II promoter; IDA:UniProtKB.
+DR   GO; GO:0017148; P:negative regulation of translation; IDA:BHF-UCL.
+DR   GO; GO:0000288; P:nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay; TAS:Reactome.
+DR   GO; GO:0000289; P:nuclear-transcribed mRNA poly(A) tail shortening; TAS:Reactome.
+DR   GO; GO:0010606; P:positive regulation of cytoplasmic mRNA processing body assembly; IDA:UniProtKB.
+DR   GO; GO:0061014; P:positive regulation of mRNA catabolic process; IMP:BHF-UCL.
+DR   GO; GO:1900153; P:positive regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay; IMP:UniProtKB.
+DR   GO; GO:0060213; P:positive regulation of nuclear-transcribed mRNA poly(A) tail shortening; IMP:UniProtKB.
+DR   GO; GO:2000036; P:regulation of stem cell maintenance; IMP:UniProtKB.
+DR   GO; GO:0090503; P:RNA phosphodiester bond hydrolysis, exonucleolytic; IDA:GOC.
+DR   GO; GO:0006351; P:transcription, DNA-templated; IEA:UniProtKB-KW.
+DR   InterPro; IPR007196; CCR4-Not_Not1_C.
+DR   InterPro; IPR024557; CCR4-Not_Not1su_DUF3819.
+DR   Pfam; PF12842; DUF3819; 1.
+DR   Pfam; PF04054; Not1; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Complete proteome; Cytoplasm;
+KW   Developmental protein; Nucleus; Polymorphism; Reference proteome;
+KW   Repressor; RNA-mediated gene silencing; Transcription;
+KW   Transcription regulation; Translation regulation.
+FT   CHAIN         1   2376       CCR4-NOT transcription complex subunit 1.
+FT                                /FTId=PRO_0000315541.
+FT   REGION      800   1015       Interaction with ZFP36.
+FT   REGION     1090   1605       Interaction with CNOT6, CNOT6L, CNOT7 and
+FT                                CNOT8.
+FT   MOTIF       153    157       LXXLL.
+FT   MOTIF       181    185       LXXLL.
+FT   MOTIF       223    227       LXXLL.
+FT   MOTIF       570    574       LXXLL.
+FT   MOTIF      1639   1643       LXXLL.
+FT   MOTIF      1942   1946       LXXLL.
+FT   MOTIF      2096   2100       LXXLL.
+FT   COMPBIAS   1333   1350       Thr-rich.
+FT   VAR_SEQ     822    827       SKMKPS -> T (in isoform 2 and isoform 3).
+FT                                {ECO:0000303|PubMed:10231032,
+FT                                ECO:0000303|PubMed:17974005}.
+FT                                /FTId=VSP_030559.
+FT   VAR_SEQ    1479   1551       TASPQQREMMDQAAAQLAQDNCELACCFIQKTAVEKAGPEM
+FT                                DKRLATEFELRKHARQEGRRYCDPVVLTYQAE -> VSWLF
+FT                                PWYRYKTYYCLSVIIFFFVYIWHWALPLILNNHHICLMSSI
+FT                                ILDCNSVRQSIMSVCFFFFLLYSQHDV (in isoform
+FT                                4). {ECO:0000303|PubMed:15489334}.
+FT                                /FTId=VSP_030560.
+FT   VAR_SEQ    1552   2376       Missing (in isoform 4).
+FT                                {ECO:0000303|PubMed:15489334}.
+FT                                /FTId=VSP_030561.
+FT   VAR_SEQ    2152   2155       VDML -> SLTL (in isoform 3).
+FT                                {ECO:0000303|PubMed:17974005}.
+FT                                /FTId=VSP_030562.
+FT   VAR_SEQ    2156   2376       Missing (in isoform 3).
+FT                                {ECO:0000303|PubMed:17974005}.
+FT                                /FTId=VSP_030563.
+FT   VARIANT     603    603       D -> A (in dbSNP:rs17854028).
+FT                                {ECO:0000269|PubMed:15489334}.
+FT                                /FTId=VAR_038254.
+FT   MUTAGEN    1208   1208       K->E: Impairs interaction with CNOT7;
+FT                                when associated with Y-1212 and E-1218.
+FT                                {ECO:0000269|PubMed:22977175}.
+FT   MUTAGEN    1209   1209       P->Y: Abolishes interaction with CNOT7;
+FT                                when associated with Y-1257.
+FT   MUTAGEN    1212   1212       H->Y: Impairs interaction with CNOT7;
+FT                                when associated with E-1208 and E-1218.
+FT                                {ECO:0000269|PubMed:22977175}.
+FT   MUTAGEN    1218   1218       K->E: Impairs interaction with CNOT7;
+FT                                when associated with E-1208 and Y-1212.
+FT                                {ECO:0000269|PubMed:22977175}.
+FT   MUTAGEN    1251   1251       V->R: Abolishes interaction with CNOT7.
+FT   MUTAGEN    1257   1257       P->Y: Abolishes interaction with CNOT7;
+FT                                when associated with Y-1209.
+FT   CONFLICT     18     18       D -> G (in Ref. 1; CAD97851).
+FT                                {ECO:0000305}.
+FT   CONFLICT    323    323       D -> G (in Ref. 1; CAD97851).
+FT                                {ECO:0000305}.
+FT   CONFLICT    922    922       E -> G (in Ref. 1; ABQ66268).
+FT                                {ECO:0000305}.
+FT   CONFLICT   1063   1063       K -> R (in Ref. 1; CAH18093).
+FT                                {ECO:0000305}.
+FT   CONFLICT   1417   1417       M -> V (in Ref. 1; CAD97851).
+FT                                {ECO:0000305}.
+FT   CONFLICT   1799   1799       R -> G (in Ref. 1; CAD97851).
+FT                                {ECO:0000305}.
+FT   CONFLICT   1936   1936       L -> P (in Ref. 1; CAH18093).
+FT                                {ECO:0000305}.
+FT   CONFLICT   2198   2200       SNL -> RTV (in Ref. 6; AAF14861).
+FT                                {ECO:0000305}.
+FT   CONFLICT   2358   2358       Q -> R (in Ref. 1; ABQ66268).
+FT                                {ECO:0000305}.
+FT   TURN        830    832       {ECO:0000244|PDB:4J8S}.
+FT   TURN        838    840       {ECO:0000244|PDB:4J8S}.
+FT   HELIX       841    856       {ECO:0000244|PDB:4J8S}.
+FT   HELIX       866    877       {ECO:0000244|PDB:4J8S}.
+FT   HELIX       882    897       {ECO:0000244|PDB:4J8S}.
+FT   HELIX       899    904       {ECO:0000244|PDB:4J8S}.
+FT   HELIX       907    922       {ECO:0000244|PDB:4J8S}.
+FT   HELIX       929    942       {ECO:0000244|PDB:4J8S}.
+FT   HELIX       949    961       {ECO:0000244|PDB:4J8S}.
+FT   HELIX       962    967       {ECO:0000244|PDB:4J8S}.
+FT   HELIX       969    976       {ECO:0000244|PDB:4J8S}.
+FT   HELIX       981    983       {ECO:0000244|PDB:4J8S}.
+FT   HELIX       986    996       {ECO:0000244|PDB:4J8S}.
+FT   HELIX      1076   1082       {ECO:0000244|PDB:4CT4}.
+FT   HELIX      1093   1104       {ECO:0000244|PDB:4CRW}.
+FT   TURN       1108   1110       {ECO:0000244|PDB:4CRW}.
+FT   HELIX      1111   1121       {ECO:0000244|PDB:4CRW}.
+FT   HELIX      1124   1126       {ECO:0000244|PDB:4CRW}.
+FT   HELIX      1127   1137       {ECO:0000244|PDB:4CRW}.
+FT   TURN       1138   1141       {ECO:0000244|PDB:4CRW}.
+FT   HELIX      1143   1145       {ECO:0000244|PDB:4CRW}.
+FT   HELIX      1146   1156       {ECO:0000244|PDB:4CRW}.
+FT   HELIX      1159   1177       {ECO:0000244|PDB:4CRW}.
+FT   HELIX      1186   1202       {ECO:0000244|PDB:4CRW}.
+FT   HELIX      1204   1206       {ECO:0000244|PDB:4CRW}.
+FT   TURN       1212   1214       {ECO:0000244|PDB:4CRW}.
+FT   HELIX      1217   1227       {ECO:0000244|PDB:4CRW}.
+FT   HELIX      1229   1243       {ECO:0000244|PDB:4CRW}.
+FT   HELIX      1244   1248       {ECO:0000244|PDB:4CRW}.
+FT   TURN       1250   1252       {ECO:0000244|PDB:4CRW}.
+FT   HELIX      1257   1271       {ECO:0000244|PDB:4CRW}.
+FT   HELIX      1277   1289       {ECO:0000244|PDB:4CRW}.
+FT   HELIX      1294   1296       {ECO:0000244|PDB:4CRW}.
+FT   HELIX      1302   1304       {ECO:0000244|PDB:4CRW}.
+FT   HELIX      1306   1310       {ECO:0000244|PDB:4CRW}.
+FT   HELIX      1359   1361       {ECO:0000244|PDB:4CRU}.
+FT   HELIX      1367   1369       {ECO:0000244|PDB:4CRU}.
+FT   HELIX      1371   1373       {ECO:0000244|PDB:4CRU}.
+FT   HELIX      1381   1385       {ECO:0000244|PDB:4CRU}.
+FT   HELIX      1387   1392       {ECO:0000244|PDB:4CRU}.
+FT   HELIX      1393   1427       {ECO:0000244|PDB:4CRU}.
+FT   TURN       1428   1430       {ECO:0000244|PDB:4CRU}.
+FT   HELIX      1434   1476       {ECO:0000244|PDB:4CRU}.
+FT   HELIX      1482   1522       {ECO:0000244|PDB:4CRU}.
+FT   HELIX      1524   1535       {ECO:0000244|PDB:4CRU}.
+FT   HELIX      1543   1552       {ECO:0000244|PDB:4CRU}.
+FT   HELIX      1555   1557       {ECO:0000244|PDB:4CRU}.
+FT   STRAND     1561   1563       {ECO:0000244|PDB:4CRU}.
+FT   HELIX      1566   1569       {ECO:0000244|PDB:4CRU}.
+FT   HELIX      1570   1577       {ECO:0000244|PDB:4CRU}.
+FT   HELIX      1848   1865       {ECO:0000244|PDB:4CQO}.
+FT   HELIX      1870   1885       {ECO:0000244|PDB:4CQO}.
+FT   STRAND     1888   1891       {ECO:0000244|PDB:4CQO}.
+FT   HELIX      1892   1915       {ECO:0000244|PDB:4CQO}.
+FT   HELIX      1926   1948       {ECO:0000244|PDB:4CQO}.
+FT   STRAND     1950   1954       {ECO:0000244|PDB:4CQO}.
+FT   HELIX      1957   1981       {ECO:0000244|PDB:4CQO}.
+FT   HELIX      1982   1984       {ECO:0000244|PDB:4CQO}.
+FT   HELIX      1988   2000       {ECO:0000244|PDB:4CQO}.
+FT   HELIX      2006   2009       {ECO:0000244|PDB:4CQO}.
+FT   HELIX      2012   2025       {ECO:0000244|PDB:4CQO}.
+FT   TURN       2028   2030       {ECO:0000244|PDB:4CQO}.
+FT   HELIX      2032   2034       {ECO:0000244|PDB:4CQO}.
+FT   HELIX      2035   2042       {ECO:0000244|PDB:4CQO}.
+FT   HELIX      2045   2052       {ECO:0000244|PDB:4CQO}.
+FT   HELIX      2056   2058       {ECO:0000244|PDB:4CQO}.
+FT   HELIX      2061   2080       {ECO:0000244|PDB:4CQO}.
+FT   HELIX      2086   2105       {ECO:0000244|PDB:4CQO}.
+FT   HELIX      2107   2112       {ECO:0000244|PDB:4CQO}.
+FT   HELIX      2114   2120       {ECO:0000244|PDB:4CQO}.
+FT   HELIX      2126   2133       {ECO:0000244|PDB:4CQO}.
+FT   STRAND     2145   2147       {ECO:0000244|PDB:4C0D}.
+FT   HELIX      2152   2154       {ECO:0000244|PDB:4CQO}.
+FT   HELIX      2157   2159       {ECO:0000244|PDB:4CQO}.
+FT   HELIX      2168   2171       {ECO:0000244|PDB:4CQO}.
+FT   HELIX      2174   2186       {ECO:0000244|PDB:4CQO}.
+FT   HELIX      2191   2200       {ECO:0000244|PDB:4CQO}.
+FT   STRAND     2205   2207       {ECO:0000244|PDB:4C0D}.
+FT   STRAND     2208   2210       {ECO:0000244|PDB:4CQO}.
+FT   HELIX      2212   2232       {ECO:0000244|PDB:4CQO}.
+FT   TURN       2239   2241       {ECO:0000244|PDB:4CQO}.
+FT   STRAND     2242   2245       {ECO:0000244|PDB:4CQO}.
+FT   HELIX      2246   2257       {ECO:0000244|PDB:4CQO}.
+FT   HELIX      2260   2271       {ECO:0000244|PDB:4CQO}.
+FT   STRAND     2276   2278       {ECO:0000244|PDB:4CQO}.
+FT   HELIX      2279   2293       {ECO:0000244|PDB:4CQO}.
+FT   STRAND     2296   2298       {ECO:0000244|PDB:4CQO}.
+FT   HELIX      2299   2312       {ECO:0000244|PDB:4CQO}.
+FT   STRAND     2313   2316       {ECO:0000244|PDB:4CQO}.
+FT   HELIX      2320   2331       {ECO:0000244|PDB:4CQO}.
+FT   HELIX      2337   2339       {ECO:0000244|PDB:4CQO}.
+FT   TURN       2342   2344       {ECO:0000244|PDB:4CQO}.
+FT   HELIX      2348   2360       {ECO:0000244|PDB:4CQO}.
+SQ   SEQUENCE   2376 AA;  266939 MW;  937A0899537BA615 CRC64;
+     MNLDSLSLAL SQISYLVDNL TKKNYRASQQ EIQHIVNRHG PEADRHLLRC LFSHVDFSGD
+     GKSSGKDFHQ TQFLIQECAL LITKPNFIST LSYAIDNPLH YQKSLKPAPH LFAQLSKVLK
+     LSKVQEVIFG LALLNSSSSD LRGFAAQFIK QKLPDLLRSY IDADVSGNQE GGFQDIAIEV
+     LHLLLSHLLF GQKGAFGVGQ EQIDAFLKTL RRDFPQERCP VVLAPLLYPE KRDILMDRIL
+     PDSGGVAKTM MESSLADFMQ EVGYGFCASI EECRNIIVQF GVREVTAAQV ARVLGMMART
+     HSGLTDGIPL QSISAPGSGI WSDGKDKSDG AQAHTWNVEV LIDVLKELNP SLNFKEVTYE
+     LDHPGFQIRD SKGLHNVVYG IQRGLGMEVF PVDLIYRPWK HAEGQLSFIQ HSLINPEIFC
+     FADYPCHTVA TDILKAPPED DNREIATWKS LDLIESLLRL AEVGQYEQVK QLFSFPIKHC
+     PDMLVLALLQ INTSWHTLRH ELISTLMPIF LGNHPNSAII LHYAWHGQGQ SPSIRQLIMH
+     AMAEWYMRGE QYDQAKLSRI LDVAQDLKAL SMLLNGTPFA FVIDLAALAS RREYLKLDKW
+     LTDKIREHGE PFIQACMTFL KRRCPSILGG LAPEKDQPKS AQLPPETLAT MLACLQACAG
+     SVSQELSETI LTMVANCSNV MNKARQPPPG VMPKGRPPSA SSLDAISPVQ IDPLAGMTSL
+     SIGGSAAPHT QSMQGFPPNL GSAFSTPQSP AKAFPPLSTP NQTTAFSGIG GLSSQLPVGG
+     LGTGSLTGIG TGALGLPAVN NDPFVQRKLG TSGLNQPTFQ QSKMKPSDLS QVWPEANQHF
+     SKEIDDEANS YFQRIYNHPP HPTMSVDEVL EMLQRFKDST IKREREVFNC MLRNLFEEYR
+     FFPQYPDKEL HITACLFGGI IEKGLVTYMA LGLALRYVLE ALRKPFGSKM YYFGIAALDR
+     FKNRLKDYPQ YCQHLASISH FMQFPHHLQE YIEYGQQSRD PPVKMQGSIT TPGSIALAQA
+     QAQAQVPAKA PLAGQVSTMV TTSTTTTVAK TVTVTRPTGV SFKKDVPPSI NTTNIDTLLV
+     ATDQTERIVE PPENIQEKIA FIFNNLSQSN MTQKVEELKE TVKEEFMPWV SQYLVMKRVS
+     IEPNFHSLYS NFLDTLKNPE FNKMVLNETY RNIKVLLTSD KAAANFSDRS LLKNLGHWLG
+     MITLAKNKPI LHTDLDVKSL LLEAYVKGQQ ELLYVVPFVA KVLESSIRSV VFRPPNPWTM
+     AIMNVLAELH QEHDLKLNLK FEIEVLCKNL ALDINELKPG NLLKDKDRLK NLDEQLSAPK
+     KDVKQPEELP PITTTTTSTT PATNTTCTAT VPPQPQYSYH DINVYSLAGL APHITLNPTI
+     PLFQAHPQLK QCVRQAIERA VQELVHPVVD RSIKIAMTTC EQIVRKDFAL DSEESRMRIA
+     AHHMMRNLTA GMAMITCREP LLMSISTNLK NSFASALRTA SPQQREMMDQ AAAQLAQDNC
+     ELACCFIQKT AVEKAGPEMD KRLATEFELR KHARQEGRRY CDPVVLTYQA ERMPEQIRLK
+     VGGVDPKQLA VYEEFARNVP GFLPTNDLSQ PTGFLAQPMK QAWATDDVAQ IYDKCITELE
+     QHLHAIPPTL AMNPQAQALR SLLEVVVLSR NSRDAIAALG LLQKAVEGLL DATSGADADL
+     LLRYRECHLL VLKALQDGRA YGSPWCNKQI TRCLIECRDE YKYNVEAVEL LIRNHLVNMQ
+     QYDLHLAQSM ENGLNYMAVA FAMQLVKILL VDERSVAHVT EADLFHTIET LMRINAHSRG
+     NAPEGLPQLM EVVRSNYEAM IDRAHGGPNF MMHSGISQAS EYDDPPGLRE KAEYLLREWV
+     NLYHSAAAGR DSTKAFSAFV GQMHQQGILK TDDLITRFFR LCTEMCVEIS YRAQAEQQHN
+     PAANPTMIRA KCYHNLDAFV RLIALLVKHS GEATNTVTKI NLLNKVLGIV VGVLLQDHDV
+     RQSEFQQLPY HRIFIMLLLE LNAPEHVLET INFQTLTAFC NTFHILRPTK APGFVYAWLE
+     LISHRIFIAR MLAHTPQQKG WPMYAQLLID LFKYLAPFLR NVELTKPMQI LYKGTLRVLL
+     VLLHDFPEFL CDYHYGFCDV IPPNCIQLRN LILSAFPRNM RLPDPFTPNL KVDMLSEINI
+     APRILTNFTG VMPPQFKKDL DSYLKTRSPV TFLSDLRSNL QVSNEPGNRY NLQLINALVL
+     YVGTQAIAHI HNKGSTPSMS TITHSAHMDI FQNLAVDLDT EGRYLFLNAI ANQLRYPNSH
+     THYFSCTMLY LFAEANTEAI QEQITRVLLE RLIVNRPHPW GLLITFIELI KNPAFKFWNH
+     EFVHCAPEIE KLFQSVAQCC MGQKQAQQVM EGTGAS
+//

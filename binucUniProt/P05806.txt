@@ -1,0 +1,175 @@
+ID   NPRE_BACCE              Reviewed;         566 AA.
+AC   P05806;
+DT   01-NOV-1988, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-1996, sequence version 2.
+DT   22-JUL-2015, entry version 118.
+DE   RecName: Full=Bacillolysin;
+DE            EC=3.4.24.28;
+DE   AltName: Full=Neutral protease;
+DE   Flags: Precursor;
+GN   Name=npr; Synonyms=nprC;
+OS   Bacillus cereus.
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus;
+OC   Bacillus cereus group.
+OX   NCBI_TaxID=1396;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=1495388; DOI=10.1111/j.1365-2958.1992.tb00884.x;
+RA   Wetmore D.R., Wong S.L., Roche R.S.;
+RT   "The role of the pro-sequence in the processing and secretion of the
+RT   thermolysin-like neutral protease from Bacillus cereus.";
+RL   Mol. Microbiol. 6:1593-1604(1992).
+RN   [2]
+RP   PROTEIN SEQUENCE OF 250-566.
+RC   STRAIN=DSM 3101;
+RX   PubMed=3092843;
+RA   Sidler W., Niederer E., Suter F., Zuber H.;
+RT   "The primary structure of Bacillus cereus neutral proteinase and
+RT   comparison with thermolysin and Bacillus subtilis neutral
+RT   proteinase.";
+RL   Biol. Chem. Hoppe-Seyler 367:643-657(1986).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (3.0 ANGSTROMS).
+RX   PubMed=3127592; DOI=10.1016/0022-2836(88)90623-7;
+RA   Pauptit R.A., Karlsson R., Picot D., Jenkins J.A.,
+RA   Niklaus-Reimer A.-S., Jansonius J.N.;
+RT   "Crystal structure of neutral protease from Bacillus cereus refined at
+RT   3.0-A resolution and comparison with the homologous but more
+RT   thermostable enzyme thermolysin.";
+RL   J. Mol. Biol. 199:525-537(1988).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS).
+RX   PubMed=1633827; DOI=10.1111/j.1432-1033.1992.tb17109.x;
+RA   Stark W., Pauptit R.A., Wilson K.S., Jansonius J.N.;
+RT   "The structure of neutral protease from Bacillus cereus at 0.2-nm
+RT   resolution.";
+RL   Eur. J. Biochem. 207:781-791(1992).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) OF MUTANT SER-393.
+RX   PubMed=15299677; DOI=10.1107/S0907444995016684;
+RA   Lister S.A., Wetmore D.R., Roche R.S., Codding P.W.;
+RT   "E144S active-site mutant of the Bacillus cereus thermolysin-like
+RT   neutral protease at 2.8-A resolution.";
+RL   Acta Crystallogr. D 52:543-550(1996).
+CC   -!- FUNCTION: Extracellular zinc metalloprotease.
+CC   -!- CATALYTIC ACTIVITY: Similar, but not identical, to that of
+CC       thermolysin.
+CC   -!- COFACTOR:
+CC       Name=Ca(2+); Xref=ChEBI:CHEBI:29108;
+CC       Note=Binds 4 Ca(2+) ions per subunit.;
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC       Note=Binds 1 zinc ion per subunit.;
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Temperature dependence:
+CC         Thermolabile.;
+CC   -!- SUBCELLULAR LOCATION: Secreted.
+CC   -!- SIMILARITY: Belongs to the peptidase M4 family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M83910; AAA22620.1; -; Genomic_DNA.
+DR   PIR; S22690; HYBSU.
+DR   RefSeq; WP_000730369.1; NZ_JYCM01000101.1.
+DR   PDB; 1ESP; X-ray; 2.80 A; A=250-566.
+DR   PDB; 1NPC; X-ray; 2.00 A; A=250-566.
+DR   PDBsum; 1ESP; -.
+DR   PDBsum; 1NPC; -.
+DR   ProteinModelPortal; P05806; -.
+DR   SMR; P05806; 250-566.
+DR   STRING; 226900.BC0602; -.
+DR   MEROPS; M04.001; -.
+DR   EvolutionaryTrace; P05806; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004222; F:metalloendopeptidase activity; IEA:InterPro.
+DR   Gene3D; 3.10.170.10; -; 1.
+DR   InterPro; IPR011096; FTP_domain.
+DR   InterPro; IPR025711; PepSY.
+DR   InterPro; IPR023612; Peptidase_M4.
+DR   InterPro; IPR001570; Peptidase_M4_C_domain.
+DR   InterPro; IPR013856; Peptidase_M4_domain.
+DR   Pfam; PF07504; FTP; 1.
+DR   Pfam; PF03413; PepSY; 1.
+DR   Pfam; PF01447; Peptidase_M4; 1.
+DR   Pfam; PF02868; Peptidase_M4_C; 1.
+DR   PRINTS; PR00730; THERMOLYSIN.
+DR   PROSITE; PS00142; ZINC_PROTEASE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Calcium; Direct protein sequencing; Hydrolase;
+KW   Metal-binding; Metalloprotease; Protease; Secreted; Signal; Zinc.
+FT   SIGNAL        1     27       {ECO:0000255}.
+FT   PROPEP       28    249       Activation peptide.
+FT                                {ECO:0000269|PubMed:3092843}.
+FT                                /FTId=PRO_0000028598.
+FT   CHAIN       250    566       Bacillolysin.
+FT                                /FTId=PRO_0000028599.
+FT   ACT_SITE    393    393
+FT   ACT_SITE    481    481       Proton donor.
+FT   METAL       307    307       Calcium 1. {ECO:0000269|PubMed:15299677}.
+FT   METAL       309    309       Calcium 1. {ECO:0000269|PubMed:15299677}.
+FT   METAL       311    311       Calcium 1; via carbonyl oxygen.
+FT   METAL       388    388       Calcium 2. {ECO:0000269|PubMed:15299677}.
+FT   METAL       392    392       Zinc; catalytic. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU10095,
+FT                                ECO:0000269|PubMed:15299677}.
+FT   METAL       396    396       Zinc; catalytic. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU10095,
+FT                                ECO:0000269|PubMed:15299677}.
+FT   METAL       416    416       Zinc; catalytic. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU10095,
+FT                                ECO:0000269|PubMed:15299677}.
+FT   METAL       427    427       Calcium 2. {ECO:0000269|PubMed:15299677}.
+FT   METAL       427    427       Calcium 3. {ECO:0000269|PubMed:15299677}.
+FT   METAL       433    433       Calcium 3; via carbonyl oxygen.
+FT   METAL       435    435       Calcium 2. {ECO:0000269|PubMed:15299677}.
+FT   METAL       435    435       Calcium 3. {ECO:0000269|PubMed:15299677}.
+FT   METAL       437    437       Calcium 2; via carbonyl oxygen.
+FT   METAL       440    440       Calcium 2. {ECO:0000269|PubMed:15299677}.
+FT   METAL       440    440       Calcium 3. {ECO:0000269|PubMed:15299677}.
+FT   METAL       443    443       Calcium 4; via carbonyl oxygen.
+FT   METAL       444    444       Calcium 4. {ECO:0000269|PubMed:15299677}.
+FT   METAL       447    447       Calcium 4; via carbonyl oxygen.
+FT   METAL       450    450       Calcium 4. {ECO:0000269|PubMed:15299677}.
+FT   STRAND      253    260       {ECO:0000244|PDB:1NPC}.
+FT   STRAND      266    274       {ECO:0000244|PDB:1NPC}.
+FT   STRAND      277    282       {ECO:0000244|PDB:1NPC}.
+FT   STRAND      284    287       {ECO:0000244|PDB:1NPC}.
+FT   STRAND      289    298       {ECO:0000244|PDB:1NPC}.
+FT   STRAND      306    312       {ECO:0000244|PDB:1NPC}.
+FT   HELIX       315    317       {ECO:0000244|PDB:1NPC}.
+FT   HELIX       318    338       {ECO:0000244|PDB:1NPC}.
+FT   TURN        342    345       {ECO:0000244|PDB:1NPC}.
+FT   STRAND      350    359       {ECO:0000244|PDB:1NPC}.
+FT   STRAND      363    365       {ECO:0000244|PDB:1NPC}.
+FT   STRAND      367    372       {ECO:0000244|PDB:1NPC}.
+FT   STRAND      377    380       {ECO:0000244|PDB:1NPC}.
+FT   HELIX       383    385       {ECO:0000244|PDB:1NPC}.
+FT   HELIX       387    400       {ECO:0000244|PDB:1NPC}.
+FT   TURN        401    403       {ECO:0000244|PDB:1NPC}.
+FT   HELIX       409    429       {ECO:0000244|PDB:1NPC}.
+FT   STRAND      436    439       {ECO:0000244|PDB:1NPC}.
+FT   TURN        440    442       {ECO:0000244|PDB:1NPC}.
+FT   STRAND      445    447       {ECO:0000244|PDB:1ESP}.
+FT   STRAND      452    456       {ECO:0000244|PDB:1NPC}.
+FT   HELIX       458    461       {ECO:0000244|PDB:1NPC}.
+FT   HELIX       467    469       {ECO:0000244|PDB:1NPC}.
+FT   HELIX       475    496       {ECO:0000244|PDB:1NPC}.
+FT   STRAND      498    500       {ECO:0000244|PDB:1NPC}.
+FT   STRAND      503    505       {ECO:0000244|PDB:1NPC}.
+FT   HELIX       510    523       {ECO:0000244|PDB:1NPC}.
+FT   HELIX       531    546       {ECO:0000244|PDB:1NPC}.
+FT   HELIX       551    562       {ECO:0000244|PDB:1NPC}.
+SQ   SEQUENCE   566 AA;  60919 MW;  E18B4572C2C4E1D3 CRC64;
+     MKKKSLALVL ATGMAVTTFG GTGSAFADSK NVLSTKKYNE TVQSPEFISG DLTEATGKKA
+     ESVVFDYLNA AKGDYKLGEK SAQDSFKVKQ VKKDAVTDST VVRMQQVYEG VPVWGSTQVA
+     HVSKDGSLKV LSGTVAPDLD KKEKLKNKNK IEGAKAIEIA QQDLGVTPKY EVEPKADLYV
+     YQNGEETTYA YVVNLNFLDP SPGNYYYFIE ADSGKVLNKF NTIDHVTNDD KSPVKQEAPK
+     QDAKAVVKPV TGTNKVGTGK GVLGDTKSLN TTLSGSSYYL QDNTRGATIF TYDAKNRSTL
+     PGTLWADADN VFNAAYDAAA VDAHYYAGKT YDYYKATFNR NSINDAGAPL KSTVHYGSNY
+     NNAFWNGSQM VYGDGDGVTF TSLSGGIDVI GHELTHAVTE NSSNLIYQNE SGALNEAISD
+     IFGTLVEFYD NRNPDWEIGE DIYTPGKAGD ALRSMSDPTK YGDPDHYSKR YTGSSDNGGV
+     HTNSGIINKQ AYLLANGGTH YGVTVTGIGK DKLGAIYYRA NTQYFTQSTT FSQARAGAVQ
+     AAADLYGANS AEVAAVKQSF SAVGVN
+//

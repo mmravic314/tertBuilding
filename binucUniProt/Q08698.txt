@@ -1,0 +1,234 @@
+ID   RIR3_SALTY              Reviewed;         714 AA.
+AC   Q08698;
+DT   01-OCT-1994, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 2.
+DT   27-MAY-2015, entry version 124.
+DE   RecName: Full=Ribonucleoside-diphosphate reductase 2 subunit alpha;
+DE            EC=1.17.4.1;
+DE   AltName: Full=R1E protein;
+DE   AltName: Full=Ribonucleotide reductase 2;
+GN   Name=nrdE; OrderedLocusNames=STM2807;
+OS   Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Salmonella.
+OX   NCBI_TaxID=99287;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND PROTEIN SEQUENCE OF 2-15.
+RC   STRAIN=LT2;
+RX   PubMed=8195103;
+RA   Jordan A., Gibert I., Barbe J.;
+RT   "Cloning and sequencing of the genes from Salmonella typhimurium
+RT   encoding a new bacterial ribonucleotide reductase.";
+RL   J. Bacteriol. 176:3420-3427(1994).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=LT2 / SGSC1412 / ATCC 700720;
+RX   PubMed=11677609; DOI=10.1038/35101614;
+RA   McClelland M., Sanderson K.E., Spieth J., Clifton S.W., Latreille P.,
+RA   Courtney L., Porwollik S., Ali J., Dante M., Du F., Hou S., Layman D.,
+RA   Leonard S., Nguyen C., Scott K., Holmes A., Grewal N., Mulvaney E.,
+RA   Ryan E., Sun H., Florea L., Miller W., Stoneking T., Nhan M.,
+RA   Waterston R., Wilson R.K.;
+RT   "Complete genome sequence of Salmonella enterica serovar Typhimurium
+RT   LT2.";
+RL   Nature 413:852-856(2001).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) IN COMPLEXES WITH ALLOSTERIC
+RP   EFFECTORS.
+RX   PubMed=12818204; DOI=10.1016/S0022-2836(03)00538-2;
+RA   Uppsten M., Farnegardh M., Jordan A., Eliasson R., Eklund H.,
+RA   Uhlin U.;
+RT   "Structure of the large subunit of class Ib ribonucleotide reductase
+RT   from Salmonella typhimurium and its complexes with allosteric
+RT   effectors.";
+RL   J. Mol. Biol. 330:87-97(2003).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (4.0 ANGSTROMS) OF 2-713.
+RX   PubMed=16631785; DOI=10.1016/j.jmb.2006.03.035;
+RA   Uppsten M., Farnegardh M., Domkin V., Uhlin U.;
+RT   "The first holocomplex structure of ribonucleotide reductase gives new
+RT   insight into its mechanism of action.";
+RL   J. Mol. Biol. 359:365-377(2006).
+CC   -!- FUNCTION: Provides the precursors necessary for DNA synthesis.
+CC       Catalyzes the biosynthesis of deoxyribonucleotides from the
+CC       corresponding ribonucleotides. R1E contains the binding sites for
+CC       both substrates and allosteric effectors and carries out the
+CC       actual reduction of the ribonucleotide.
+CC   -!- CATALYTIC ACTIVITY: 2'-deoxyribonucleoside diphosphate +
+CC       thioredoxin disulfide + H(2)O = ribonucleoside diphosphate +
+CC       thioredoxin.
+CC   -!- ENZYME REGULATION: Under complex allosteric control mediated by
+CC       deoxynucleoside triphosphates and ATP binding. The type of
+CC       nucleotide bound at the specificity site determines substrate
+CC       preference. It seems probable that ATP makes the enzyme reduce CDP
+CC       and UDP, dGTP favors ADP reduction and dTTP favors GDP reduction.
+CC       Lacks the N-terminal activity site.
+CC   -!- PATHWAY: Genetic information processing; DNA replication.
+CC   -!- SUBUNIT: Tetramer of two alpha and two beta subunits.
+CC       {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the ribonucleoside diphosphate reductase
+CC       large chain family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X73226; CAA51699.1; -; Genomic_DNA.
+DR   EMBL; AE006468; AAL21692.1; -; Genomic_DNA.
+DR   PIR; S34271; S34271.
+DR   RefSeq; NP_461733.1; NC_003197.1.
+DR   RefSeq; WP_000246626.1; NC_003197.1.
+DR   PDB; 1PEM; X-ray; 2.99 A; A=1-714.
+DR   PDB; 1PEO; X-ray; 3.00 A; A=1-714.
+DR   PDB; 1PEQ; X-ray; 2.80 A; A=1-714.
+DR   PDB; 1PEU; X-ray; 3.20 A; A=1-714.
+DR   PDB; 2BQ1; X-ray; 3.99 A; E/F=2-714.
+DR   PDBsum; 1PEM; -.
+DR   PDBsum; 1PEO; -.
+DR   PDBsum; 1PEQ; -.
+DR   PDBsum; 1PEU; -.
+DR   PDBsum; 2BQ1; -.
+DR   ProteinModelPortal; Q08698; -.
+DR   SMR; Q08698; 8-699.
+DR   STRING; 99287.STM2807; -.
+DR   PRIDE; Q08698; -.
+DR   EnsemblBacteria; AAL21692; AAL21692; STM2807.
+DR   GeneID; 1254330; -.
+DR   KEGG; stm:STM2807; -.
+DR   PATRIC; 32384296; VBISalEnt20916_2965.
+DR   eggNOG; COG0209; -.
+DR   HOGENOM; HOG000246165; -.
+DR   KO; K00525; -.
+DR   OMA; IYFYTVT; -.
+DR   OrthoDB; EOG6J48HC; -.
+DR   PhylomeDB; Q08698; -.
+DR   BioCyc; MetaCyc:MONOMER-13835; -.
+DR   BioCyc; SENT99287:GCTI-2824-MONOMER; -.
+DR   UniPathway; UPA00326; -.
+DR   EvolutionaryTrace; Q08698; -.
+DR   Proteomes; UP000001014; Chromosome.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004748; F:ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor; IEA:UniProtKB-EC.
+DR   GO; GO:0006260; P:DNA replication; IEA:UniProtKB-UniPathway.
+DR   InterPro; IPR013346; NrdE_NrdA.
+DR   InterPro; IPR026459; RNR_1b_NrdE.
+DR   InterPro; IPR000788; RNR_lg_C.
+DR   InterPro; IPR013509; RNR_lsu_N.
+DR   InterPro; IPR013554; RNR_N.
+DR   InterPro; IPR008926; RNR_R1-su_N.
+DR   Pfam; PF02867; Ribonuc_red_lgC; 1.
+DR   Pfam; PF00317; Ribonuc_red_lgN; 1.
+DR   Pfam; PF08343; RNR_N; 1.
+DR   PRINTS; PR01183; RIBORDTASEM1.
+DR   SUPFAM; SSF48168; SSF48168; 1.
+DR   TIGRFAMs; TIGR02506; NrdE_NrdA; 1.
+DR   TIGRFAMs; TIGR04170; RNR_1b_NrdE; 1.
+DR   PROSITE; PS00089; RIBORED_LARGE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Allosteric enzyme; ATP-binding; Complete proteome;
+KW   Direct protein sequencing; Disulfide bond; DNA replication;
+KW   Nucleotide-binding; Oxidoreductase; Reference proteome.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:8195103}.
+FT   CHAIN         2    714       Ribonucleoside-diphosphate reductase 2
+FT                                subunit alpha.
+FT                                /FTId=PRO_0000187225.
+FT   REGION      177    178       Substrate binding. {ECO:0000250}.
+FT   REGION      386    390       Substrate binding. {ECO:0000250}.
+FT   REGION      588    592       Substrate binding. {ECO:0000250}.
+FT   ACT_SITE    386    386       Proton acceptor. {ECO:0000250}.
+FT   ACT_SITE    388    388       Cysteine radical intermediate.
+FT                                {ECO:0000250}.
+FT   ACT_SITE    390    390       Proton acceptor. {ECO:0000250}.
+FT   BINDING     161    161       Substrate. {ECO:0000250}.
+FT   BINDING     206    206       Substrate; via amide nitrogen.
+FT                                {ECO:0000250}.
+FT   SITE        178    178       Important for hydrogen atom transfer.
+FT                                {ECO:0000250}.
+FT   SITE        185    185       Allosteric effector binding.
+FT   SITE        215    215       Allosteric effector binding.
+FT   SITE        222    222       Allosteric effector binding.
+FT   SITE        415    415       Important for hydrogen atom transfer.
+FT                                {ECO:0000250}.
+FT   SITE        692    692       Important for electron transfer.
+FT                                {ECO:0000250}.
+FT   SITE        693    693       Important for electron transfer.
+FT                                {ECO:0000250}.
+FT   SITE        709    709       Interacts with thioredoxin/glutaredoxin.
+FT                                {ECO:0000250}.
+FT   SITE        712    712       Interacts with thioredoxin/glutaredoxin.
+FT                                {ECO:0000250}.
+FT   DISULFID    178    415       Redox-active.
+FT   HELIX        16     21       {ECO:0000244|PDB:1PEQ}.
+FT   HELIX        22     24       {ECO:0000244|PDB:1PEQ}.
+FT   HELIX        35     47       {ECO:0000244|PDB:1PEQ}.
+FT   HELIX        49     52       {ECO:0000244|PDB:1PEQ}.
+FT   HELIX        59     68       {ECO:0000244|PDB:1PEQ}.
+FT   HELIX        74     77       {ECO:0000244|PDB:1PEQ}.
+FT   HELIX        82     94       {ECO:0000244|PDB:1PEQ}.
+FT   HELIX       102    111       {ECO:0000244|PDB:1PEQ}.
+FT   STRAND      119    122       {ECO:0000244|PDB:1PEQ}.
+FT   HELIX       126    138       {ECO:0000244|PDB:1PEQ}.
+FT   HELIX       142    153       {ECO:0000244|PDB:1PEQ}.
+FT   STRAND      156    159       {ECO:0000244|PDB:1PEQ}.
+FT   HELIX       161    166       {ECO:0000244|PDB:1PEQ}.
+FT   STRAND      169    171       {ECO:0000244|PDB:1PEQ}.
+FT   STRAND      179    181       {ECO:0000244|PDB:1PEQ}.
+FT   HELIX       187    201       {ECO:0000244|PDB:1PEQ}.
+FT   TURN        202    204       {ECO:0000244|PDB:1PEQ}.
+FT   STRAND      206    210       {ECO:0000244|PDB:1PEQ}.
+FT   STRAND      224    226       {ECO:0000244|PDB:1PEQ}.
+FT   HELIX       232    244       {ECO:0000244|PDB:1PEQ}.
+FT   STRAND      254    260       {ECO:0000244|PDB:1PEQ}.
+FT   HELIX       266    270       {ECO:0000244|PDB:1PEQ}.
+FT   HELIX       271    273       {ECO:0000244|PDB:1PEQ}.
+FT   STRAND      279    281       {ECO:0000244|PDB:1PEU}.
+FT   STRAND      287    291       {ECO:0000244|PDB:1PEQ}.
+FT   HELIX       295    301       {ECO:0000244|PDB:1PEQ}.
+FT   STRAND      305    309       {ECO:0000244|PDB:1PEQ}.
+FT   HELIX       311    318       {ECO:0000244|PDB:1PEQ}.
+FT   HELIX       322    324       {ECO:0000244|PDB:1PEQ}.
+FT   HELIX       327    336       {ECO:0000244|PDB:1PEQ}.
+FT   STRAND      342    346       {ECO:0000244|PDB:1PEQ}.
+FT   HELIX       347    361       {ECO:0000244|PDB:1PEQ}.
+FT   STRAND      365    367       {ECO:0000244|PDB:1PEQ}.
+FT   HELIX       369    375       {ECO:0000244|PDB:1PEQ}.
+FT   STRAND      378    380       {ECO:0000244|PDB:1PEQ}.
+FT   STRAND      406    408       {ECO:0000244|PDB:1PEQ}.
+FT   STRAND      416    421       {ECO:0000244|PDB:1PEQ}.
+FT   HELIX       422    426       {ECO:0000244|PDB:1PEQ}.
+FT   HELIX       431    447       {ECO:0000244|PDB:1PEQ}.
+FT   HELIX       455    464       {ECO:0000244|PDB:1PEQ}.
+FT   STRAND      467    472       {ECO:0000244|PDB:1PEQ}.
+FT   HELIX       474    480       {ECO:0000244|PDB:1PEQ}.
+FT   HELIX       488    516       {ECO:0000244|PDB:1PEQ}.
+FT   HELIX       523    525       {ECO:0000244|PDB:1PEQ}.
+FT   HELIX       527    530       {ECO:0000244|PDB:1PEQ}.
+FT   HELIX       532    534       {ECO:0000244|PDB:1PEQ}.
+FT   HELIX       535    538       {ECO:0000244|PDB:1PEQ}.
+FT   HELIX       547    556       {ECO:0000244|PDB:1PEQ}.
+FT   HELIX       563    576       {ECO:0000244|PDB:1PEQ}.
+FT   HELIX       592    596       {ECO:0000244|PDB:1PEQ}.
+FT   STRAND      600    603       {ECO:0000244|PDB:1PEQ}.
+FT   STRAND      608    612       {ECO:0000244|PDB:1PEQ}.
+FT   STRAND      615    618       {ECO:0000244|PDB:1PEO}.
+FT   STRAND      620    623       {ECO:0000244|PDB:1PEQ}.
+FT   TURN        629    631       {ECO:0000244|PDB:1PEM}.
+FT   HELIX       632    634       {ECO:0000244|PDB:1PEQ}.
+FT   HELIX       638    641       {ECO:0000244|PDB:1PEQ}.
+FT   HELIX       643    654       {ECO:0000244|PDB:1PEQ}.
+FT   STRAND      665    667       {ECO:0000244|PDB:1PEQ}.
+FT   HELIX       673    686       {ECO:0000244|PDB:1PEQ}.
+FT   STRAND      694    696       {ECO:0000244|PDB:1PEQ}.
+SQ   SEQUENCE   714 AA;  80587 MW;  B12F79B42B05000D CRC64;
+     MATTTPERVM QETMDYHALN AMLNLYDKAG HIQFDKDQQA IDAFFATHVR PHSVTFASQH
+     ERLGTLVREG YYDDAVLARY DRAFVLRLFE HAHASGFRFQ TFLGAWKFYT SYTLKTFDGK
+     RYLEHFEDRV TMVALTLAQG DETLATQLTD EMLSGRFQPA TPTFLNCGKQ QRGELVSCFL
+     LRIEDNMESI GRAVNSALQL SKRGGGVAFL LSNLREAGAP IKRIENQSSG VIPVMKMLED
+     AFSYANQLGA RQGAGAVYLH AHHPDILRFL DTKRENADEK IRIKTLSLGV VIPDITFRLA
+     KENAQMALFS PYDIQRRYGK PFGDIAISER YDELIADPHV RKTYINARDF FQTLAEIQFE
+     SGYPYIMFED TVNRANPIAG RINMSNLCSE ILQVNSASRY DDNLDYTHIG HDISCNLGSL
+     NIAHVMDSPD IGRTVETAIR GLTAVSDMSH IRSVPSIAAG NAASHAIGLG QMNLHGYLAR
+     EGIAYGSPEA LDFTNLYFYT ITWHAVHTSM RLARERGKTF AGFAQSRYAS GDYFTQYLQD
+     DWQPKTAKVR ALFARSGITL PTREMWLKLR DDVMRYGIYN QNLQAVPPTG SISYINHATS
+     SIHPIVAKIE IRKEGKTGRV YYPAPFMTNE NLDMYQDAYD IGPEKIIDTY AEATRHVDQG
+     LSLTLFFPDT ATTRDINKAQ IYAWRKGIKS LYYIRLRQLA LEGTEIEGCV SCAL
+//

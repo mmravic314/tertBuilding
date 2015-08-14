@@ -1,0 +1,149 @@
+ID   Q81G55_BACCR            Unreviewed;       322 AA.
+AC   Q81G55;
+DT   01-JUN-2003, integrated into UniProtKB/TrEMBL.
+DT   01-JUN-2003, sequence version 1.
+DT   22-JUL-2015, entry version 85.
+DE   RecName: Full=Ribonucleoside-diphosphate reductase subunit beta {ECO:0000256|PIRNR:PIRNR000355};
+DE            EC=1.17.4.1 {ECO:0000256|PIRNR:PIRNR000355};
+GN   OrderedLocusNames=BC_1355 {ECO:0000313|EMBL:AAP08337.1};
+OS   Bacillus cereus (strain ATCC 14579 / DSM 31 / JCM 2152 / NBRC 15305 /
+OS   NCIMB 9373 / NRRL B-3711).
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus;
+OC   Bacillus cereus group.
+OX   NCBI_TaxID=226900 {ECO:0000313|EMBL:AAP08337.1, ECO:0000313|Proteomes:UP000001417};
+RN   [1] {ECO:0000313|EMBL:AAP08337.1, ECO:0000313|Proteomes:UP000001417}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 14579 / DSM 31 / JCM 2152 / NBRC 15305 / NCIMB 9373 / NRRL
+RC   B-3711 {ECO:0000313|Proteomes:UP000001417};
+RX   PubMed=12721630; DOI=10.1038/nature01582;
+RA   Ivanova N., Sorokin A., Anderson I., Galleron N., Candelon B.,
+RA   Kapatral V., Bhattacharyya A., Reznik G., Mikhailova N., Lapidus A.,
+RA   Chu L., Mazur M., Goltsman E., Larsen N., D'Souza M., Walunas T.,
+RA   Grechkin Y., Pusch G., Haselkorn R., Fonstein M., Ehrlich S.D.,
+RA   Overbeek R., Kyrpides N.C.;
+RT   "Genome sequence of Bacillus cereus and comparative analysis with
+RT   Bacillus anthracis.";
+RL   Nature 423:87-91(2003).
+RN   [2] {ECO:0000213|PDB:4BMO, ECO:0000213|PDB:4BMP, ECO:0000213|PDB:4BMQ}
+RP   X-RAY CRYSTALLOGRAPHY (1.81 ANGSTROMS) IN COMPLEX WITH IRON AND
+RP   MANGANESE.
+RX   PubMed=24295378;
+RA   Hammerstad M., Hersleth H.P., Tomter A.B., Rohr A.K., Andersson K.K.;
+RT   "Crystal structure of Bacillus cereus class Ib ribonucleotide
+RT   reductase di-iron NrdF in complex with NrdI.";
+RL   ACS Chem. Biol. 9:526-537(2014).
+CC   -!- FUNCTION: Provides the precursors necessary for DNA synthesis.
+CC       Catalyzes the biosynthesis of deoxyribonucleotides from the
+CC       corresponding ribonucleotides. {ECO:0000256|PIRNR:PIRNR000355}.
+CC   -!- CATALYTIC ACTIVITY: 2'-deoxyribonucleoside diphosphate +
+CC       thioredoxin disulfide + H(2)O = ribonucleoside diphosphate +
+CC       thioredoxin. {ECO:0000256|PIRNR:PIRNR000355}.
+CC   -!- COFACTOR:
+CC       Name=Fe cation; Xref=ChEBI:CHEBI:24875;
+CC         Evidence={ECO:0000256|PIRNR:PIRNR000355};
+CC       Note=Binds 2 iron ions per subunit.
+CC       {ECO:0000256|PIRNR:PIRNR000355};
+CC   -!- PATHWAY: Genetic information processing; DNA replication.
+CC       {ECO:0000256|PIRNR:PIRNR000355}.
+CC   -!- SIMILARITY: Belongs to the ribonucleoside diphosphate reductase
+CC       small chain family. {ECO:0000256|PIRNR:PIRNR000355}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE016877; AAP08337.1; -; Genomic_DNA.
+DR   RefSeq; NP_831136.1; NC_004722.1.
+DR   RefSeq; WP_001203029.1; NC_004722.1.
+DR   PDB; 4BMO; X-ray; 1.81 A; A=1-322.
+DR   PDB; 4BMP; X-ray; 2.10 A; A=1-322.
+DR   PDB; 4BMQ; X-ray; 2.20 A; A/B=1-322.
+DR   PDB; 4BMR; X-ray; 2.00 A; A/B=1-322.
+DR   PDB; 4BMT; X-ray; 2.10 A; A/B=1-322.
+DR   PDB; 4BMU; X-ray; 1.90 A; A/B=1-322.
+DR   ProteinModelPortal; Q81G55; -.
+DR   STRING; 226900.BC1355; -.
+DR   PRIDE; Q81G55; -.
+DR   EnsemblBacteria; AAP08337; AAP08337; BC_1355.
+DR   GeneID; 1203704; -.
+DR   KEGG; bce:BC1355; -.
+DR   PATRIC; 32598439; VBIBacCer54481_1329.
+DR   eggNOG; COG0208; -.
+DR   KO; K00526; -.
+DR   OMA; RWSEENI; -.
+DR   OrthoDB; EOG68DD19; -.
+DR   BioCyc; BCER226900:GJEU-1355-MONOMER; -.
+DR   UniPathway; UPA00326; -.
+DR   Proteomes; UP000001417; Chromosome.
+DR   GO; GO:0005971; C:ribonucleoside-diphosphate reductase complex; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004748; F:ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor; IEA:UniProtKB-EC.
+DR   GO; GO:0009186; P:deoxyribonucleoside diphosphate metabolic process; IEA:InterPro.
+DR   GO; GO:0009263; P:deoxyribonucleotide biosynthetic process; IEA:InterPro.
+DR   GO; GO:0006260; P:DNA replication; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 1.10.620.20; -; 1.
+DR   InterPro; IPR009078; Ferritin-like_SF.
+DR   InterPro; IPR012348; RNR-rel.
+DR   InterPro; IPR026494; RNR_NrdF.
+DR   InterPro; IPR000358; RNR_small.
+DR   InterPro; IPR030475; RNR_small_AS.
+DR   PANTHER; PTHR23409; PTHR23409; 1.
+DR   Pfam; PF00268; Ribonuc_red_sm; 1.
+DR   PIRSF; PIRSF000355; NrdB; 1.
+DR   SUPFAM; SSF47240; SSF47240; 1.
+DR   TIGRFAMs; TIGR04171; RNR_1b_NrdF; 1.
+DR   PROSITE; PS00368; RIBORED_SMALL; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4BMO, ECO:0000213|PDB:4BMP};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001417};
+KW   DNA replication {ECO:0000256|PIRNR:PIRNR000355};
+KW   Iron {ECO:0000213|PDB:4BMO, ECO:0000213|PDB:4BMP};
+KW   Manganese {ECO:0000213|PDB:4BMU};
+KW   Metal-binding {ECO:0000213|PDB:4BMO, ECO:0000213|PDB:4BMP};
+KW   Oxidoreductase {ECO:0000256|PIRNR:PIRNR000355,
+KW   ECO:0000313|EMBL:AAP08337.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001417}.
+FT   METAL        62     62       Iron 1. {ECO:0000213|PDB:4BMO,
+FT                                ECO:0000213|PDB:4BMP,
+FT                                ECO:0000213|PDB:4BMQ}.
+FT   METAL        62     62       Manganese 1. {ECO:0000213|PDB:4BMU}.
+FT   METAL        93     93       Iron 1. {ECO:0000213|PDB:4BMO,
+FT                                ECO:0000213|PDB:4BMP,
+FT                                ECO:0000213|PDB:4BMQ}.
+FT   METAL        93     93       Iron 2. {ECO:0000213|PDB:4BMO,
+FT                                ECO:0000213|PDB:4BMP,
+FT                                ECO:0000213|PDB:4BMT}.
+FT   METAL        93     93       Manganese 1. {ECO:0000213|PDB:4BMU}.
+FT   METAL        93     93       Manganese 2. {ECO:0000213|PDB:4BMU}.
+FT   METAL        96     96       Iron 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:4BMO,
+FT                                ECO:0000213|PDB:4BMP,
+FT                                ECO:0000213|PDB:4BMQ}.
+FT   METAL        96     96       Manganese 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:4BMU}.
+FT   METAL       161    161       Iron 2. {ECO:0000213|PDB:4BMO,
+FT                                ECO:0000213|PDB:4BMP,
+FT                                ECO:0000213|PDB:4BMT}.
+FT   METAL       161    161       Manganese 1. {ECO:0000213|PDB:4BMU}.
+FT   METAL       161    161       Manganese 2. {ECO:0000213|PDB:4BMU}.
+FT   METAL       195    195       Iron 1. {ECO:0000213|PDB:4BMO,
+FT                                ECO:0000213|PDB:4BMP,
+FT                                ECO:0000213|PDB:4BMQ}.
+FT   METAL       195    195       Iron 2. {ECO:0000213|PDB:4BMO,
+FT                                ECO:0000213|PDB:4BMP,
+FT                                ECO:0000213|PDB:4BMT}.
+FT   METAL       195    195       Manganese 1. {ECO:0000213|PDB:4BMU}.
+FT   METAL       195    195       Manganese 2. {ECO:0000213|PDB:4BMU}.
+FT   METAL       198    198       Iron 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:4BMO,
+FT                                ECO:0000213|PDB:4BMP,
+FT                                ECO:0000213|PDB:4BMT}.
+FT   METAL       198    198       Manganese 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:4BMU}.
+SQ   SEQUENCE   322 AA;  37017 MW;  CC4EC692CE4F8DAF CRC64;
+     MRAVNWNKKE DDFSLMFWKQ NIAQFWTEEE IAVSSDKNTW VQLSKEEQIA YKRVLGGLTL
+     LDTKQGGEGM PLVLVHLENL QAKSVLAFMG AMEEVHAKSY SHIFTTLATE EEIDDIFDWV
+     DNHPLLEKKA GIITSYYRRL LKPEVTKKEL YMAMVASVFL ESYLFYSGFF YPLYLAGQGK
+     LTASGEIINL IIRDESIHGV FVGILAQQIF AELSAEEQQE VQKETQELLM ELYEIEMAYT
+     EEIYTSIGLV EDVNRFVRYN ANKGLMNLGL EPKFEEEEIN PIVLNGLRTD TKNHDFFSVK
+     GNGYVKATNV EKLADDDFVF NF
+//

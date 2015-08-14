@@ -1,0 +1,107 @@
+ID   Q6TUJ5_LEIME            Unreviewed;       329 AA.
+AC   Q6TUJ5;
+DT   05-JUL-2004, integrated into UniProtKB/TrEMBL.
+DT   05-JUL-2004, sequence version 1.
+DT   24-JUN-2015, entry version 61.
+DE   RecName: Full=Arginase {ECO:0000256|RuleBase:RU361159};
+DE            EC=3.5.3.1 {ECO:0000256|RuleBase:RU361159};
+GN   Name=ARG {ECO:0000313|EMBL:AAR06176.1};
+OS   Leishmania mexicana.
+OC   Eukaryota; Euglenozoa; Kinetoplastida; Trypanosomatidae;
+OC   Leishmaniinae; Leishmania.
+OX   NCBI_TaxID=5665 {ECO:0000313|EMBL:AAR06176.1};
+RN   [1] {ECO:0000313|EMBL:AAR06176.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=15023992; DOI=10.1074/jbc.M402042200;
+RA   Roberts S.C., Tancer M.J., Polinsky M.R., Gibson K.M., Heby O.,
+RA   Ullman B.;
+RT   "Arginase plays a pivotal role in polyamine precursor metabolism in
+RT   Leishmania. Characterization of gene deletion mutants.";
+RL   J. Biol. Chem. 279:23668-23678(2004).
+RN   [2] {ECO:0000213|PDB:4ITY, ECO:0000213|PDB:4IU0, ECO:0000213|PDB:4IU1}
+RP   X-RAY CRYSTALLOGRAPHY (1.77 ANGSTROMS) OF 13-329 IN COMPLEX WITH
+RP   MANGANESE.
+RX   PubMed=23583962;
+RA   D'Antonio E.L., Ullman B., Roberts S.C., Dixit U.G., Wilson M.E.,
+RA   Hai Y., Christianson D.W.;
+RT   "Crystal structure of arginase from Leishmania mexicana and
+RT   implications for the inhibition of polyamine biosynthesis in parasitic
+RT   infections.";
+RL   Arch. Biochem. Biophys. 535:163-176(2013).
+CC   -!- CATALYTIC ACTIVITY: L-arginine + H(2)O = L-ornithine + urea.
+CC       {ECO:0000256|RuleBase:RU361159}.
+CC   -!- COFACTOR:
+CC       Note=Binds 2 manganese ions per subunit.;
+CC   -!- COFACTOR:
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000256|RuleBase:RU361159};
+CC       Note=Binds 2 manganese ions per subunit.
+CC       {ECO:0000256|RuleBase:RU361159};
+CC   -!- SIMILARITY: Belongs to the arginase family.
+CC       {ECO:0000256|RuleBase:RU003684}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AY386701; AAR06176.1; -; Genomic_DNA.
+DR   PDB; 4ITY; X-ray; 1.80 A; A=13-329.
+DR   PDB; 4IU0; X-ray; 1.77 A; A=13-329.
+DR   PDB; 4IU1; X-ray; 1.95 A; A=13-329.
+DR   PDB; 4IU4; X-ray; 1.80 A; A=13-329.
+DR   PDB; 4IU5; X-ray; 1.95 A; A=13-329.
+DR   ProteinModelPortal; Q6TUJ5; -.
+DR   STRING; 929439.XP_003879144.1; -.
+DR   GO; GO:0004053; F:arginase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006525; P:arginine metabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.800.10; -; 1.
+DR   InterPro; IPR014033; Arginase.
+DR   InterPro; IPR006035; Ureohydrolase.
+DR   InterPro; IPR023696; Ureohydrolase_domain.
+DR   InterPro; IPR020855; Ureohydrolase_Mn_BS.
+DR   PANTHER; PTHR11358; PTHR11358; 1.
+DR   Pfam; PF00491; Arginase; 1.
+DR   PRINTS; PR00116; ARGINASE.
+DR   TIGRFAMs; TIGR01229; rocF_arginase; 1.
+DR   PROSITE; PS01053; ARGINASE_1; 1.
+DR   PROSITE; PS51409; ARGINASE_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4ITY, ECO:0000213|PDB:4IU0};
+KW   Arginine metabolism {ECO:0000256|RuleBase:RU361159};
+KW   Hydrolase {ECO:0000256|RuleBase:RU003684};
+KW   Manganese {ECO:0000213|PDB:4ITY, ECO:0000213|PDB:4IU0};
+KW   Metal-binding {ECO:0000213|PDB:4ITY, ECO:0000213|PDB:4IU0}.
+FT   METAL       114    114       Manganese 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:4ITY,
+FT                                ECO:0000213|PDB:4IU0,
+FT                                ECO:0000213|PDB:4IU1}.
+FT   METAL       137    137       Manganese 1. {ECO:0000213|PDB:4ITY,
+FT                                ECO:0000213|PDB:4IU0,
+FT                                ECO:0000213|PDB:4IU1}.
+FT   METAL       137    137       Manganese 2. {ECO:0000213|PDB:4ITY,
+FT                                ECO:0000213|PDB:4IU0,
+FT                                ECO:0000213|PDB:4IU1}.
+FT   METAL       139    139       Manganese 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:4ITY,
+FT                                ECO:0000213|PDB:4IU0,
+FT                                ECO:0000213|PDB:4IU1}.
+FT   METAL       141    141       Manganese 1. {ECO:0000213|PDB:4ITY,
+FT                                ECO:0000213|PDB:4IU0,
+FT                                ECO:0000213|PDB:4IU1}.
+FT   METAL       243    243       Manganese 1. {ECO:0000213|PDB:4ITY,
+FT                                ECO:0000213|PDB:4IU0,
+FT                                ECO:0000213|PDB:4IU1}.
+FT   METAL       243    243       Manganese 2. {ECO:0000213|PDB:4ITY,
+FT                                ECO:0000213|PDB:4IU0,
+FT                                ECO:0000213|PDB:4IU1}.
+FT   METAL       245    245       Manganese 2. {ECO:0000213|PDB:4ITY,
+FT                                ECO:0000213|PDB:4IU0,
+FT                                ECO:0000213|PDB:4IU1}.
+SQ   SEQUENCE   329 AA;  36082 MW;  98A2BCA12455AF0B CRC64;
+     MEHVQQYKFY KEKKMSIVLA PFSGGQPHSG VELGPDYLLK QGLQQDMEKL GWDTRLERVF
+     DGKVVEARKA SDNGDRIGRV KRPRLTAECT EKIYKCVRRV AEQGRFPLTI GGDHSIALGT
+     VAGVLSVHPD AGVIWVDAHA DINTMSGTVS GNLHGCPLSI LLGLDRENIP ECFSWVPQVL
+     KPNKIAYIGL RAVDDEEKKI LHDLNIAAFS MHHVDRYGID KVVSMAIEAV SPKGTEPVMV
+     SYDVDTIDPL YVPATGTPVR GGLSFREALF LCERIAECGR LVALDVVECN PLLAATESHV
+     NDTISVGCAI ARCMMGETLL YTPHTSSKL
+//

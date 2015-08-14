@@ -1,0 +1,196 @@
+ID   SYT3_RAT                Reviewed;         588 AA.
+AC   P40748; Q925B7;
+DT   01-FEB-1995, integrated into UniProtKB/Swiss-Prot.
+DT   01-FEB-1995, sequence version 1.
+DT   22-JUL-2015, entry version 136.
+DE   RecName: Full=Synaptotagmin-3;
+DE   AltName: Full=Synaptotagmin III;
+DE            Short=SytIII;
+GN   Name=Syt3;
+OS   Rattus norvegicus (Rat).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Rattus.
+OX   NCBI_TaxID=10116;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=Sprague-Dawley; TISSUE=Brain;
+RX   PubMed=8163462;
+RA   Mizuta M., Inagaki N., Nemoto Y., Matsukura S., Takahashi M.,
+RA   Seino S.;
+RT   "Synaptotagmin III is a novel isoform of rat synaptotagmin expressed
+RT   in endocrine and neuronal cells.";
+RL   J. Biol. Chem. 269:11675-11678(1994).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RA   Shin O.-H., Li C., Ullrich B., Zhang J.Z., Anderson R.G.W., Brose N.,
+RA   Suedhof T.C.;
+RL   Submitted (MAY-2001) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (3.2 ANGSTROMS) OF 293-588.
+RX   PubMed=10545502; DOI=10.1083/jcb.147.3.589;
+RA   Sutton R.B., Ernst J.A., Brunger A.T.;
+RT   "Crystal structure of the cytosolic C2A-C2B domains of synaptotagmin
+RT   III. Implications for Ca(2+)-independent SNARE complex interaction.";
+RL   J. Cell Biol. 147:589-598(1999).
+CC   -!- FUNCTION: May be involved in Ca(2+)-dependent exocytosis of
+CC       secretory vesicles through Ca(2+) and phospholipid binding to the
+CC       C2 domain or may serve as Ca(2+) sensors in the process of
+CC       vesicular trafficking and exocytosis.
+CC   -!- COFACTOR:
+CC       Name=Ca(2+); Xref=ChEBI:CHEBI:29108; Evidence={ECO:0000250};
+CC       Note=Binds 3 Ca(2+) ions per subunit. The ions are bound to the C2
+CC       domains. {ECO:0000250};
+CC   -!- SUBUNIT: Homodimer. Can also form heterodimers with SYT6 (By
+CC       similarity). {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasmic vesicle, secretory vesicle,
+CC       synaptic vesicle membrane; Single-pass membrane protein.
+CC   -!- TISSUE SPECIFICITY: Brain, various endocrine tissues and hormone-
+CC       secreting clonal cells.
+CC   -!- DOMAIN: The first C2 domain mediates Ca(2+)-dependent phospholipid
+CC       binding.
+CC   -!- SIMILARITY: Belongs to the synaptotagmin family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 2 C2 domains. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00041}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; D28512; BAA05870.1; -; mRNA.
+DR   EMBL; AF375464; AAK56959.1; -; mRNA.
+DR   PIR; A53563; A53563.
+DR   RefSeq; NP_061995.1; NM_019122.1.
+DR   RefSeq; XP_006229040.1; XM_006228978.2.
+DR   RefSeq; XP_006229041.1; XM_006228979.2.
+DR   RefSeq; XP_008757546.1; XM_008759324.1.
+DR   RefSeq; XP_008757547.1; XM_008759325.1.
+DR   UniGene; Rn.48884; -.
+DR   PDB; 1DQV; X-ray; 3.20 A; A=293-588.
+DR   PDB; 3HN8; X-ray; 3.50 A; A/B/C=292-587.
+DR   PDBsum; 1DQV; -.
+DR   PDBsum; 3HN8; -.
+DR   ProteinModelPortal; P40748; -.
+DR   SMR; P40748; 295-569.
+DR   BioGrid; 247760; 1.
+DR   IntAct; P40748; 2.
+DR   STRING; 10116.ENSRNOP00000026251; -.
+DR   PhosphoSite; P40748; -.
+DR   PRIDE; P40748; -.
+DR   GeneID; 25731; -.
+DR   KEGG; rno:25731; -.
+DR   UCSC; RGD:3805; rat.
+DR   CTD; 84258; -.
+DR   RGD; 3805; Syt3.
+DR   eggNOG; COG5038; -.
+DR   HOGENOM; HOG000232128; -.
+DR   HOVERGEN; HBG005010; -.
+DR   InParanoid; P40748; -.
+DR   OrthoDB; EOG78PV8W; -.
+DR   PhylomeDB; P40748; -.
+DR   TreeFam; TF315600; -.
+DR   EvolutionaryTrace; P40748; -.
+DR   NextBio; 607859; -.
+DR   PRO; PR:P40748; -.
+DR   Proteomes; UP000002494; Unplaced.
+DR   ExpressionAtlas; P40748; baseline and differential.
+DR   Genevisible; P40748; RN.
+DR   GO; GO:0030054; C:cell junction; IEA:UniProtKB-KW.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0005886; C:plasma membrane; IBA:GO_Central.
+DR   GO; GO:0045202; C:synapse; NAS:RGD.
+DR   GO; GO:0030672; C:synaptic vesicle membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005509; F:calcium ion binding; TAS:RGD.
+DR   GO; GO:0005544; F:calcium-dependent phospholipid binding; IDA:RGD.
+DR   GO; GO:0030276; F:clathrin binding; IDA:BHF-UCL.
+DR   GO; GO:0001786; F:phosphatidylserine binding; IDA:RGD.
+DR   GO; GO:0000149; F:SNARE binding; IDA:RGD.
+DR   GO; GO:0019905; F:syntaxin binding; IDA:RGD.
+DR   GO; GO:0017156; P:calcium ion-dependent exocytosis; TAS:RGD.
+DR   GO; GO:0048791; P:calcium ion-dependent exocytosis of neurotransmitter; IBA:GO_Central.
+DR   GO; GO:0031340; P:positive regulation of vesicle fusion; IDA:RGD.
+DR   GO; GO:0017158; P:regulation of calcium ion-dependent exocytosis; IBA:GO_Central.
+DR   GO; GO:0051592; P:response to calcium ion; IDA:RGD.
+DR   GO; GO:0016079; P:synaptic vesicle exocytosis; TAS:RGD.
+DR   Gene3D; 2.60.40.150; -; 2.
+DR   InterPro; IPR000008; C2_dom.
+DR   InterPro; IPR001565; Synaptotagmin.
+DR   InterPro; IPR028682; SYT3.
+DR   PANTHER; PTHR10024:SF176; PTHR10024:SF176; 1.
+DR   Pfam; PF00168; C2; 2.
+DR   PRINTS; PR00360; C2DOMAIN.
+DR   PRINTS; PR00399; SYNAPTOTAGMN.
+DR   SMART; SM00239; C2; 2.
+DR   SUPFAM; SSF49562; SSF49562; 2.
+DR   PROSITE; PS50004; C2; 2.
+PE   1: Evidence at protein level;
+KW   3D-structure; Calcium; Cell junction; Complete proteome;
+KW   Cytoplasmic vesicle; Membrane; Metal-binding; Reference proteome;
+KW   Repeat; Synapse; Transmembrane; Transmembrane helix.
+FT   CHAIN         1    588       Synaptotagmin-3.
+FT                                /FTId=PRO_0000183947.
+FT   TOPO_DOM      1     54       Vesicular. {ECO:0000255}.
+FT   TRANSMEM     55     75       Helical. {ECO:0000255}.
+FT   TOPO_DOM     76    588       Cytoplasmic. {ECO:0000255}.
+FT   DOMAIN      299    400       C2 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00041}.
+FT   DOMAIN      431    534       C2 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00041}.
+FT   METAL       328    328       Calcium 1. {ECO:0000250}.
+FT   METAL       328    328       Calcium 2. {ECO:0000250}.
+FT   METAL       334    334       Calcium 1. {ECO:0000250}.
+FT   METAL       386    386       Calcium 1. {ECO:0000250}.
+FT   METAL       386    386       Calcium 2. {ECO:0000250}.
+FT   METAL       387    387       Calcium 1; via carbonyl oxygen.
+FT                                {ECO:0000250}.
+FT   METAL       388    388       Calcium 1. {ECO:0000250}.
+FT   METAL       388    388       Calcium 2. {ECO:0000250}.
+FT   METAL       388    388       Calcium 3. {ECO:0000250}.
+FT   METAL       391    391       Calcium 3. {ECO:0000250}.
+FT   METAL       394    394       Calcium 2. {ECO:0000250}.
+FT   METAL       394    394       Calcium 3. {ECO:0000250}.
+FT   CONFLICT    287    287       T -> S (in Ref. 2; AAK56959).
+FT                                {ECO:0000305}.
+FT   CONFLICT    445    445       L -> R (in Ref. 2; AAK56959).
+FT                                {ECO:0000305}.
+FT   STRAND      300    306       {ECO:0000244|PDB:1DQV}.
+FT   STRAND      309    311       {ECO:0000244|PDB:1DQV}.
+FT   STRAND      313    322       {ECO:0000244|PDB:1DQV}.
+FT   STRAND      335    340       {ECO:0000244|PDB:1DQV}.
+FT   STRAND      344    350       {ECO:0000244|PDB:3HN8}.
+FT   STRAND      361    369       {ECO:0000244|PDB:1DQV}.
+FT   HELIX       372    375       {ECO:0000244|PDB:1DQV}.
+FT   STRAND      381    386       {ECO:0000244|PDB:1DQV}.
+FT   STRAND      389    391       {ECO:0000244|PDB:1DQV}.
+FT   STRAND      395    400       {ECO:0000244|PDB:1DQV}.
+FT   HELIX       406    408       {ECO:0000244|PDB:1DQV}.
+FT   STRAND      412    414       {ECO:0000244|PDB:3HN8}.
+FT   STRAND      416    419       {ECO:0000244|PDB:3HN8}.
+FT   STRAND      432    440       {ECO:0000244|PDB:1DQV}.
+FT   TURN        441    444       {ECO:0000244|PDB:1DQV}.
+FT   STRAND      445    455       {ECO:0000244|PDB:1DQV}.
+FT   STRAND      460    463       {ECO:0000244|PDB:1DQV}.
+FT   STRAND      467    471       {ECO:0000244|PDB:1DQV}.
+FT   STRAND      478    484       {ECO:0000244|PDB:3HN8}.
+FT   STRAND      490    493       {ECO:0000244|PDB:3HN8}.
+FT   STRAND      495    498       {ECO:0000244|PDB:1DQV}.
+FT   STRAND      501    503       {ECO:0000244|PDB:3HN8}.
+FT   HELIX       507    510       {ECO:0000244|PDB:1DQV}.
+FT   STRAND      517    520       {ECO:0000244|PDB:1DQV}.
+FT   STRAND      523    525       {ECO:0000244|PDB:1DQV}.
+FT   STRAND      528    532       {ECO:0000244|PDB:1DQV}.
+FT   HELIX       542    549       {ECO:0000244|PDB:1DQV}.
+FT   STRAND      551    557       {ECO:0000244|PDB:1DQV}.
+FT   STRAND      561    564       {ECO:0000244|PDB:3HN8}.
+FT   HELIX       568    570       {ECO:0000244|PDB:3HN8}.
+SQ   SEQUENCE   588 AA;  63313 MW;  9D9D33CF5BAD8331 CRC64;
+     MSGDYEDDLC RRALILVSDL CARIRDADTN DRCQEFNELR IRGYPRGPDA DISVSLLSVI
+     VTFCGIVLLG VSLFVSWKLC WVPWRDKGGS AVGGGPLRKD LAPGVGLAGL VGGGGHHLGA
+     SLGGHPLLGG PHHHAHPAHH PPFAELLEPG GLGGSEPPEP SYLDMDSYPE AAVASVVAAG
+     VKPSQTSPEL PSEGGTGSGL LLLPPSGGGL PSAQSHQQVT SLAPTTRYPA LPRPLTQQTL
+     TTQADPSSEE RPPALPLPLP GGEEKAKLIG QIKPELYQGT GPGGRRTGGG SGEAGAPCGR
+     ISFALRYLYG SDQLVVRILQ ALDLPAKDSN GFSDPYVKIY LLPDRKKKFQ TKVHRKTLNP
+     IFNETFQFSV PLAELAQRKL HFSVYDFDRF SRHDLIGQVV LDNLLELAEQ PPDRPLWRDI
+     LEGGSEKADL GELNFSLCYL PTAGLLTVTI IKASNLKAMD LTGFSDPYVK ASLISEGRRL
+     KKRKTSIKKN TLNPTYNEAL VFDVAPESVE NVGLSIAVVD YDCIGHNEVI GVCRVGPEAA
+     DPHGREHWAE MLANPRKPVE HWHQLVEEKT LSSFTKGGKG LSEKENSE
+//

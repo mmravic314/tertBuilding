@@ -1,0 +1,95 @@
+ID   O25949_HELPY            Unreviewed;       322 AA.
+AC   O25949;
+DT   01-JAN-1998, integrated into UniProtKB/TrEMBL.
+DT   01-JAN-1998, sequence version 1.
+DT   22-JUL-2015, entry version 106.
+DE   SubName: Full=Arginase (RocF) {ECO:0000313|EMBL:AAD08436.1};
+GN   OrderedLocusNames=HP_1399 {ECO:0000313|EMBL:AAD08436.1};
+OS   Helicobacter pylori (strain ATCC 700392 / 26695) (Campylobacter
+OS   pylori).
+OC   Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales;
+OC   Helicobacteraceae; Helicobacter.
+OX   NCBI_TaxID=85962 {ECO:0000313|EMBL:AAD08436.1, ECO:0000313|Proteomes:UP000000429};
+RN   [1] {ECO:0000313|EMBL:AAD08436.1, ECO:0000313|Proteomes:UP000000429}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 700392 / 26695 {ECO:0000313|Proteomes:UP000000429};
+RX   PubMed=9252185; DOI=10.1038/41483;
+RA   Tomb J.-F., White O., Kerlavage A.R., Clayton R.A., Sutton G.G.,
+RA   Fleischmann R.D., Ketchum K.A., Klenk H.-P., Gill S.R.,
+RA   Dougherty B.A., Nelson K.E., Quackenbush J., Zhou L., Kirkness E.F.,
+RA   Peterson S.N., Loftus B.J., Richardson D.L., Dodson R.J., Khalak H.G.,
+RA   Glodek A., McKenney K., FitzGerald L.M., Lee N., Adams M.D.,
+RA   Hickey E.K., Berg D.E., Gocayne J.D., Utterback T.R., Peterson J.D.,
+RA   Kelley J.M., Cotton M.D., Weidman J.F., Fujii C., Bowman C.,
+RA   Watthey L., Wallin E., Hayes W.S., Borodovsky M., Karp P.D.,
+RA   Smith H.O., Fraser C.M., Venter J.C.;
+RT   "The complete genome sequence of the gastric pathogen Helicobacter
+RT   pylori.";
+RL   Nature 388:539-547(1997).
+RN   [2] {ECO:0000213|PDB:4G3H}
+RP   X-RAY CRYSTALLOGRAPHY (2.20 ANGSTROMS) IN COMPLEX WITH MANGANESE.
+RA   Zhang J., Zhang X., Li D., Hu Y., Zou Q., Wang D.;
+RT   "Structure and function studies on Helicobacter pylori arginase.";
+RL   Submitted (JUL-2012) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE000511; AAD08436.1; -; Genomic_DNA.
+DR   PIR; G64694; G64694.
+DR   RefSeq; NP_208190.1; NC_000915.1.
+DR   RefSeq; WP_000604403.1; NC_018939.1.
+DR   PDB; 4G3H; X-ray; 2.20 A; A/B/C/D=1-322.
+DR   PDBsum; 4G3H; -.
+DR   ProteinModelPortal; O25949; -.
+DR   DIP; DIP-3188N; -.
+DR   IntAct; O25949; 3.
+DR   MINT; MINT-178538; -.
+DR   STRING; 85962.HP1399; -.
+DR   EnsemblBacteria; AAD08436; AAD08436; HP_1399.
+DR   EnsemblBacteria; AFV42621; AFV42621; C694_07230.
+DR   GeneID; 899897; -.
+DR   KEGG; heo:C694_07230; -.
+DR   KEGG; hpy:HP1399; -.
+DR   PATRIC; 20594187; VBIHelPyl33062_1464.
+DR   KO; K01476; -.
+DR   OMA; GMPLGMV; -.
+DR   OrthoDB; EOG6BKJ5H; -.
+DR   BioCyc; HPY:HP1399-MONOMER; -.
+DR   BRENDA; 3.5.3.1; 2604.
+DR   SABIO-RK; O25949; -.
+DR   Proteomes; UP000000429; Chromosome.
+DR   GO; GO:0004053; F:arginase activity; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006525; P:arginine metabolic process; IEA:InterPro.
+DR   Gene3D; 3.40.800.10; -; 1.
+DR   InterPro; IPR014033; Arginase.
+DR   InterPro; IPR006035; Ureohydrolase.
+DR   InterPro; IPR023696; Ureohydrolase_domain.
+DR   PANTHER; PTHR11358; PTHR11358; 1.
+DR   Pfam; PF00491; Arginase; 1.
+DR   TIGRFAMs; TIGR01229; rocF_arginase; 1.
+DR   PROSITE; PS51409; ARGINASE_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4G3H};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000429};
+KW   Manganese {ECO:0000213|PDB:4G3H};
+KW   Metal-binding {ECO:0000213|PDB:4G3H};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000429}.
+FT   METAL        91     91       Manganese 1. {ECO:0000213|PDB:4G3H}.
+FT   METAL       116    116       Manganese 1. {ECO:0000213|PDB:4G3H}.
+FT   METAL       116    116       Manganese 2. {ECO:0000213|PDB:4G3H}.
+FT   METAL       118    118       Manganese 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:4G3H}.
+FT   METAL       120    120       Manganese 1. {ECO:0000213|PDB:4G3H}.
+FT   METAL       234    234       Manganese 1. {ECO:0000213|PDB:4G3H}.
+FT   METAL       234    234       Manganese 2. {ECO:0000213|PDB:4G3H}.
+FT   METAL       236    236       Manganese 2. {ECO:0000213|PDB:4G3H}.
+SQ   SEQUENCE   322 AA;  36925 MW;  25918577C4202113 CRC64;
+     MILVGLEAEL GASKRGTDKG VRRLREALSA THGDVIKGMQ TITQERCVLY KEFRYAKNFE
+     DYYLFCKENL IPCMKEVFEK KEFPLILSSE HANMFGIFQA FRSVHKDKKI GILYLDAHAD
+     IHTAYDSDSK HIHGMPLGMV LNRVRSGFNR MSESEEKAWQ KLCSLGLEKG GLEIDPKCLV
+     YFGVRSTEQS ERDVIRELQI PLFSVDAIRE NMQEVVQKTK ESLKAVDIIY LSLDLDIMDG
+     KLFTSTGVRE NNGLSFDELK QLLGLLLESF KDRLKAVEVT EYNPTVSIKH NNEEEKQVLE
+     ILDLIINSCK IKDKKHSFAR SY
+//

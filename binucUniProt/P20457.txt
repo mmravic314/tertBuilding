@@ -1,0 +1,263 @@
+ID   PRI2_YEAST              Reviewed;         528 AA.
+AC   P20457; D6VXP2;
+DT   01-FEB-1991, integrated into UniProtKB/Swiss-Prot.
+DT   01-FEB-1991, sequence version 1.
+DT   22-JUL-2015, entry version 128.
+DE   RecName: Full=DNA primase large subunit;
+DE            EC=2.7.7.-;
+DE   AltName: Full=DNA polymerase alpha:primase complex p58 subunit;
+DE            Short=DNA polymerase-primase complex p58 subunit;
+DE            Short=Pol alpha-primase complex p58 subunit;
+DE   AltName: Full=DNA primase 58 kDa subunit;
+GN   Name=PRI2; OrderedLocusNames=YKL045W; ORFNames=YKL258;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=559292;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=2528682;
+RA   Foiani M., Santocanale C., Plevani P., Lucchini G.;
+RT   "A single essential gene, PRI2, encodes the large subunit of DNA
+RT   primase in Saccharomyces cerevisiae.";
+RL   Mol. Cell. Biol. 9:3081-3087(1989).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=8154189; DOI=10.1002/yea.320091212;
+RA   Purnelle B., Tettelin H., van Dyck L., Skala J., Goffeau A.;
+RT   "The sequence of a 17.5 kb DNA fragment on the left arm of yeast
+RT   chromosome XI identifies the protein kinase gene ELM1, the DNA primase
+RT   gene PRI2, a new gene encoding a putative histone and seven new open
+RT   reading frames.";
+RL   Yeast 9:1379-1384(1993).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=8196765; DOI=10.1038/369371a0;
+RA   Dujon B., Alexandraki D., Andre B., Ansorge W., Baladron V.,
+RA   Ballesta J.P.G., Banrevi A., Bolle P.-A., Bolotin-Fukuhara M.,
+RA   Bossier P., Bou G., Boyer J., Buitrago M.J., Cheret G., Colleaux L.,
+RA   Daignan-Fornier B., del Rey F., Dion C., Domdey H., Duesterhoeft A.,
+RA   Duesterhus S., Entian K.-D., Erfle H., Esteban P.F., Feldmann H.,
+RA   Fernandes L., Fobo G.M., Fritz C., Fukuhara H., Gabel C., Gaillon L.,
+RA   Garcia-Cantalejo J.M., Garcia-Ramirez J.J., Gent M.E., Ghazvini M.,
+RA   Goffeau A., Gonzalez A., Grothues D., Guerreiro P., Hegemann J.H.,
+RA   Hewitt N., Hilger F., Hollenberg C.P., Horaitis O., Indge K.J.,
+RA   Jacquier A., James C.M., Jauniaux J.-C., Jimenez A., Keuchel H.,
+RA   Kirchrath L., Kleine K., Koetter P., Legrain P., Liebl S., Louis E.J.,
+RA   Maia e Silva A., Marck C., Monnier A.-L., Moestl D., Mueller S.,
+RA   Obermaier B., Oliver S.G., Pallier C., Pascolo S., Pfeiffer F.,
+RA   Philippsen P., Planta R.J., Pohl F.M., Pohl T.M., Poehlmann R.,
+RA   Portetelle D., Purnelle B., Puzos V., Ramezani Rad M., Rasmussen S.W.,
+RA   Remacha M.A., Revuelta J.L., Richard G.-F., Rieger M.,
+RA   Rodrigues-Pousada C., Rose M., Rupp T., Santos M.A., Schwager C.,
+RA   Sensen C., Skala J., Soares H., Sor F., Stegemann J., Tettelin H.,
+RA   Thierry A., Tzermia M., Urrestarazu L.A., van Dyck L.,
+RA   van Vliet-Reedijk J.C., Valens M., Vandenbol M., Vilela C.,
+RA   Vissers S., von Wettstein D., Voss H., Wiemann S., Xu G.,
+RA   Zimmermann J., Haasemann M., Becker I., Mewes H.-W.;
+RT   "Complete DNA sequence of yeast chromosome XI.";
+RL   Nature 369:371-378(1994).
+RN   [4]
+RP   GENOME REANNOTATION.
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=24374639; DOI=10.1534/g3.113.008995;
+RA   Engel S.R., Dietrich F.S., Fisk D.G., Binkley G., Balakrishnan R.,
+RA   Costanzo M.C., Dwight S.S., Hitz B.C., Karra K., Nash R.S., Weng S.,
+RA   Wong E.D., Lloyd P., Skrzypek M.S., Miyasato S.R., Simison M.,
+RA   Cherry J.M.;
+RT   "The reference genome sequence of Saccharomyces cerevisiae: Then and
+RT   now.";
+RL   G3 (Bethesda) 4:389-398(2014).
+RN   [5]
+RP   COMPOSITION OF THE DNA POLYMERASE ALPHA:PRIMASE COMPLEX.
+RX   PubMed=3061469; DOI=10.1016/0167-4781(88)90096-6;
+RA   Plevani P., Foiani M., Muzi Falconi M., Pizzagalli A., Santocanale C.,
+RA   Francesconi S., Valsasnini P., Comedini A., Piatti S., Lucchini G.;
+RT   "The yeast DNA polymerase-primase complex: genes and proteins.";
+RL   Biochim. Biophys. Acta 951:268-273(1988).
+RN   [6]
+RP   MUTAGENESIS.
+RX   PubMed=2023935; DOI=10.1073/pnas.88.9.3877;
+RA   Francesconi S., Longhese M.P., Piseri A., Santocanale C., Lucchini G.,
+RA   Plevani P.;
+RT   "Mutations in conserved yeast DNA primase domains impair DNA
+RT   replication in vivo.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 88:3877-3881(1991).
+RN   [7]
+RP   INTERACTION WITH MCM10.
+RX   PubMed=16675460; DOI=10.1074/jbc.M513551200;
+RA   Ricke R.M., Bielinsky A.-K.;
+RT   "A conserved Hsp10-like domain in Mcm10 is required to stabilize the
+RT   catalytic subunit of DNA polymerase-alpha in budding yeast.";
+RL   J. Biol. Chem. 281:18414-18425(2006).
+RN   [8]
+RP   IRON-SULFUR-BINDING, COFACTOR, AND MUTAGENESIS OF CYS-336; CYS-417;
+RP   CYS-434 AND CYS-474.
+RX   PubMed=17704817; DOI=10.1038/nsmb1288;
+RA   Klinge S., Hirst J., Maman J.D., Krude T., Pellegrini L.;
+RT   "An iron-sulfur domain of the eukaryotic primase is essential for RNA
+RT   primer synthesis.";
+RL   Nat. Struct. Mol. Biol. 14:875-877(2007).
+RN   [9]
+RP   X-RAY CRYSTALLOGRAPHY (1.54 ANGSTROMS) OF 317-512 IN COMPLEX WITH
+RP   IRON-SULFUR.
+RX   PubMed=20404922; DOI=10.1371/journal.pone.0010083;
+RA   Sauguet L., Klinge S., Perera R.L., Maman J.D., Pellegrini L.;
+RT   "Shared active site architecture between the large subunit of
+RT   eukaryotic primase and DNA photolyase.";
+RL   PLoS ONE 5:E10083-E10083(2010).
+CC   -!- FUNCTION: DNA primase is the polymerase that synthesizes small RNA
+CC       primers for the Okazaki fragments made during discontinuous DNA
+CC       replication. In a complex with DNA polymerase alpha (DNA
+CC       polymerase alpha:primase) constitutes a replicative polymerase.
+CC       Both primase components participate in formation of the active
+CC       center, but the ATP-binding site is exclusively located on p48.
+CC   -!- COFACTOR:
+CC       Name=[4Fe-4S] cluster; Xref=ChEBI:CHEBI:49883;
+CC         Evidence={ECO:0000269|PubMed:17704817};
+CC       Note=Binds 1 [4Fe-4S] cluster. {ECO:0000269|PubMed:17704817};
+CC   -!- SUBUNIT: DNA polymerase alpha:primase is a four subunit enzyme
+CC       complex, which is assembled throughout the cell cycle, and
+CC       consists of the two DNA polymerase subunits A and B, and the DNA
+CC       primase large and small subunits. Interacts with MCM10.
+CC       {ECO:0000269|PubMed:16675460, ECO:0000269|PubMed:20404922}.
+CC   -!- DEVELOPMENTAL STAGE: Fluctuates in amount during the cell cycle.
+CC   -!- SIMILARITY: Belongs to the eukaryotic-type primase large subunit
+CC       family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M27209; AAA34900.1; -; Genomic_DNA.
+DR   EMBL; X71621; CAA50626.1; -; Genomic_DNA.
+DR   EMBL; Z28045; CAA81880.1; -; Genomic_DNA.
+DR   EMBL; BK006944; DAA09112.1; -; Genomic_DNA.
+DR   PIR; A32497; A32497.
+DR   RefSeq; NP_012879.1; NM_001179611.1.
+DR   PDB; 3LGB; X-ray; 1.54 A; A/B=317-512.
+DR   PDBsum; 3LGB; -.
+DR   ProteinModelPortal; P20457; -.
+DR   SMR; P20457; 59-293, 317-512.
+DR   BioGrid; 34088; 37.
+DR   DIP; DIP-2535N; -.
+DR   IntAct; P20457; 14.
+DR   MINT; MINT-633434; -.
+DR   MaxQB; P20457; -.
+DR   PaxDb; P20457; -.
+DR   EnsemblFungi; YKL045W; YKL045W; YKL045W.
+DR   GeneID; 853821; -.
+DR   KEGG; sce:YKL045W; -.
+DR   CYGD; YKL045w; -.
+DR   EuPathDB; FungiDB:YKL045W; -.
+DR   SGD; S000001528; PRI2.
+DR   eggNOG; COG2219; -.
+DR   GeneTree; ENSGT00390000009790; -.
+DR   HOGENOM; HOG000212154; -.
+DR   InParanoid; P20457; -.
+DR   KO; K02685; -.
+DR   OMA; WFIQQEV; -.
+DR   OrthoDB; EOG70S7FC; -.
+DR   BioCyc; YEAST:G3O-31846-MONOMER; -.
+DR   Reactome; REACT_281907; Inhibition of replication initiation of damaged DNA by RB1/E2F1.
+DR   Reactome; REACT_286798; Activation of the pre-replicative complex.
+DR   Reactome; REACT_306878; Removal of the Flap Intermediate.
+DR   Reactome; REACT_324041; DNA replication initiation.
+DR   Reactome; REACT_329876; Polymerase switching.
+DR   Reactome; REACT_343168; Polymerase switching on the C-strand of the telomere.
+DR   Reactome; REACT_351276; Telomere C-strand synthesis initiation.
+DR   Reactome; REACT_353384; Processive synthesis on the lagging strand.
+DR   EvolutionaryTrace; P20457; -.
+DR   NextBio; 975005; -.
+DR   PRO; PR:P20457; -.
+DR   Proteomes; UP000002311; Chromosome XI.
+DR   GO; GO:0005658; C:alpha DNA polymerase:primase complex; IDA:SGD.
+DR   GO; GO:0005635; C:nuclear envelope; IDA:SGD.
+DR   GO; GO:0005634; C:nucleus; IDA:SGD.
+DR   GO; GO:1990077; C:primosome complex; IEA:UniProtKB-KW.
+DR   GO; GO:0051539; F:4 iron, 4 sulfur cluster binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003896; F:DNA primase activity; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006260; P:DNA replication; IMP:SGD.
+DR   GO; GO:0006270; P:DNA replication initiation; IC:SGD.
+DR   GO; GO:0006269; P:DNA replication, synthesis of RNA primer; IDA:SGD.
+DR   GO; GO:0006302; P:double-strand break repair; IMP:SGD.
+DR   GO; GO:0006273; P:lagging strand elongation; IC:SGD.
+DR   InterPro; IPR016558; DNA_primase_lsu_euk.
+DR   InterPro; IPR007238; DNA_primase_lsu_euk/arc.
+DR   Pfam; PF04104; DNA_primase_lrg; 1.
+DR   PIRSF; PIRSF009449; DNA_primase_large_subunit; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; 4Fe-4S; Complete proteome; DNA replication; DNA-binding;
+KW   DNA-directed RNA polymerase; Iron; Iron-sulfur; Metal-binding;
+KW   Nucleotidyltransferase; Primosome; Reference proteome; Transcription;
+KW   Transferase.
+FT   CHAIN         1    528       DNA primase large subunit.
+FT                                /FTId=PRO_0000046776.
+FT   REGION      210    239       H-T-H-like motif. {ECO:0000255}.
+FT   METAL       336    336       Iron-sulfur (4Fe-4S).
+FT                                {ECO:0000269|PubMed:20404922}.
+FT   METAL       417    417       Iron-sulfur (4Fe-4S).
+FT                                {ECO:0000269|PubMed:20404922}.
+FT   METAL       434    434       Iron-sulfur (4Fe-4S).
+FT                                {ECO:0000269|PubMed:20404922}.
+FT   METAL       474    474       Iron-sulfur (4Fe-4S).
+FT                                {ECO:0000269|PubMed:20404922}.
+FT   MUTAGEN     152    152       E->Q: Temperature-sensitive.
+FT                                {ECO:0000269|PubMed:2023935}.
+FT   MUTAGEN     336    336       C->S: Mild disruption of iron-sulfur-
+FT                                binding. Strong disruption of iron-
+FT                                sulfur-binding; when associated with S-
+FT                                474. Strong disruption of iron-sulfur-
+FT                                binding, leading to destabilization of
+FT                                the protein and preventing its
+FT                                purification; when associated with S-417
+FT                                or S-434. {ECO:0000269|PubMed:17704817}.
+FT   MUTAGEN     401    401       H->S: Lethal.
+FT                                {ECO:0000269|PubMed:2023935}.
+FT   MUTAGEN     417    417       C->S: Mild disruption of iron-sulfur-
+FT                                binding. Strong disruption of iron-
+FT                                sulfur-binding, leading to
+FT                                destabilization of the protein and
+FT                                preventing its purification; when
+FT                                associated with S-336.
+FT                                {ECO:0000269|PubMed:17704817}.
+FT   MUTAGEN     434    434       C->S: Mild disruption of iron-sulfur-
+FT                                binding. Strong disruption of iron-
+FT                                sulfur-binding, leading to
+FT                                destabilization of the protein and
+FT                                preventing its purification; when
+FT                                associated with S-336.
+FT                                {ECO:0000269|PubMed:17704817}.
+FT   MUTAGEN     434    434       C->Y: Temperature-sensitive.
+FT                                {ECO:0000269|PubMed:17704817}.
+FT   MUTAGEN     474    474       C->S: Mild disruption of iron-sulfur-
+FT                                binding. Strong disruption of iron-
+FT                                sulfur-binding; when associated with S-
+FT                                336. {ECO:0000269|PubMed:17704817}.
+FT   HELIX       323    325       {ECO:0000244|PDB:3LGB}.
+FT   HELIX       327    330       {ECO:0000244|PDB:3LGB}.
+FT   HELIX       335    347       {ECO:0000244|PDB:3LGB}.
+FT   HELIX       352    364       {ECO:0000244|PDB:3LGB}.
+FT   HELIX       369    379       {ECO:0000244|PDB:3LGB}.
+FT   HELIX       388    394       {ECO:0000244|PDB:3LGB}.
+FT   HELIX       396    402       {ECO:0000244|PDB:3LGB}.
+FT   HELIX       417    422       {ECO:0000244|PDB:3LGB}.
+FT   HELIX       435    438       {ECO:0000244|PDB:3LGB}.
+FT   HELIX       441    450       {ECO:0000244|PDB:3LGB}.
+FT   HELIX       455    466       {ECO:0000244|PDB:3LGB}.
+FT   HELIX       470    481       {ECO:0000244|PDB:3LGB}.
+FT   HELIX       500    510       {ECO:0000244|PDB:3LGB}.
+SQ   SEQUENCE   528 AA;  62263 MW;  2DA521AA104D3D16 CRC64;
+     MFRQSKRRIA SRKNFSSYDD IVKSELDVGN TNAANQIILS SSSSEEEKKL YARLYESKLS
+     FYDLPPQGEI TLEQFEIWAI DRLKILLEIE SCLSRNKSIK EIETIIKPQF QKLLPFNTES
+     LEDRKKDYYS HFILRLCFCR SKELREKFVR AETFLFKIRF NMLTSTDQTK FVQSLDLPLL
+     QFISNEEKAE LSHQLYQTVS ASLQFQLNLN EEHQRKQYFQ QEKFIKLPFE NVIELVGNRL
+     VFLKDGYAYL PQFQQLNLLS NEFASKLNQE LIKTYQYLPR LNEDDRLLPI LNHLSSGYTI
+     ADFNQQKANQ FSENVDDEIN AQSVWSEEIS SNYPLCIKNL MEGLKKNHHL RYYGRQQLSL
+     FLKGIGLSAD EALKFWSEAF TRNGNMTMEK FNKEYRYSFR HNYGLEGNRI NYKPWDCHTI
+     LSKPRPGRGD YHGCPFRDWS HERLSAELRS MKLTQAQIIS VLDSCQKGEY TIACTKVFEM
+     THNSASADLE IGEQTHIAHP NLYFERSRQL QKKQQKLEKE KLFNNGNH
+//

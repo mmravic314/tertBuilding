@@ -1,0 +1,146 @@
+ID   KDSC_HAEIN              Reviewed;         180 AA.
+AC   P45314;
+DT   01-NOV-1995, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1995, sequence version 1.
+DT   27-MAY-2015, entry version 113.
+DE   RecName: Full=3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC;
+DE            EC=3.1.3.45;
+DE   AltName: Full=KDO 8-P phosphatase;
+GN   OrderedLocusNames=HI_1679;
+OS   Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pasteurellales;
+OC   Pasteurellaceae; Haemophilus.
+OX   NCBI_TaxID=71421;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 51907 / DSM 11121 / KW20 / Rd;
+RX   PubMed=7542800; DOI=10.1126/science.7542800;
+RA   Fleischmann R.D., Adams M.D., White O., Clayton R.A., Kirkness E.F.,
+RA   Kerlavage A.R., Bult C.J., Tomb J.-F., Dougherty B.A., Merrick J.M.,
+RA   McKenney K., Sutton G.G., FitzHugh W., Fields C.A., Gocayne J.D.,
+RA   Scott J.D., Shirley R., Liu L.-I., Glodek A., Kelley J.M.,
+RA   Weidman J.F., Phillips C.A., Spriggs T., Hedblom E., Cotton M.D.,
+RA   Utterback T.R., Hanna M.C., Nguyen D.T., Saudek D.M., Brandon R.C.,
+RA   Fine L.D., Fritchman J.L., Fuhrmann J.L., Geoghagen N.S.M.,
+RA   Gnehm C.L., McDonald L.A., Small K.V., Fraser C.M., Smith H.O.,
+RA   Venter J.C.;
+RT   "Whole-genome random sequencing and assembly of Haemophilus influenzae
+RT   Rd.";
+RL   Science 269:496-512(1995).
+RN   [2]
+RP   FUNCTION AS A KDO 8-P PHOSPHATASE, AND COFACTOR.
+RX   PubMed=12639950; DOI=10.1074/jbc.M301983200;
+RA   Wu J., Woodard R.W.;
+RT   "Escherichia coli YrbI is 3-deoxy-D-manno-octulosonate 8-phosphate
+RT   phosphatase.";
+RL   J. Biol. Chem. 278:18117-18123(2003).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (1.67 ANGSTROMS) IN COMPLEX WITH DIVALENT
+RP   METALS, SUBUNIT, AND METAL-BINDING.
+RC   STRAIN=ATCC 51907 / DSM 11121 / KW20 / Rd;
+RX   PubMed=11835514; DOI=10.1002/prot.10057;
+RA   Parsons J.F., Lim K., Tempczyk A., Krajewski W., Eisenstein E.,
+RA   Herzberg O.;
+RT   "From structure to function: YrbI from Haemophilus influenzae (HI1679)
+RT   is a phosphatase.";
+RL   Proteins 46:393-404(2002).
+CC   -!- FUNCTION: Involved in the biosynthesis of lipopolysaccharides
+CC       (LPSs), but is not essential. Catalyzes the hydrolysis of 3-deoxy-
+CC       D-manno-octulosonate 8-phosphate (KDO 8-P) to 3-deoxy-D-manno-
+CC       octulosonate (KDO) and inorganic phosphate.
+CC       {ECO:0000269|PubMed:12639950}.
+CC   -!- CATALYTIC ACTIVITY: 3-deoxy-D-manno-octulosonate 8-phosphate +
+CC       H(2)O = 3-deoxy-D-manno-octulosonate + phosphate.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000305|PubMed:12639950};
+CC   -!- SUBUNIT: Homotetramer. {ECO:0000269|PubMed:11835514}.
+CC   -!- MISCELLANEOUS: Cobalt was used in the crystallography experiment
+CC       but magnesium is likely to be the physiological metal.
+CC   -!- SIMILARITY: Belongs to the KdsC family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; L42023; AAC23325.1; -; Genomic_DNA.
+DR   PIR; G64174; G64174.
+DR   RefSeq; NP_439821.1; NC_000907.1.
+DR   RefSeq; WP_005665007.1; NC_000907.1.
+DR   PDB; 1J8D; X-ray; 2.30 A; A/B/C/D=1-180.
+DR   PDB; 1K1E; X-ray; 1.67 A; A/B/C/D/E/F/G/H/I/J/K/L=1-180.
+DR   PDB; 4HGP; X-ray; 1.80 A; A=1-180.
+DR   PDBsum; 1J8D; -.
+DR   PDBsum; 1K1E; -.
+DR   PDBsum; 4HGP; -.
+DR   ProteinModelPortal; P45314; -.
+DR   SMR; P45314; 1-180.
+DR   STRING; 71421.HI1679; -.
+DR   EnsemblBacteria; AAC23325; AAC23325; HI_1679.
+DR   GeneID; 950506; -.
+DR   KEGG; hin:HI1679; -.
+DR   PATRIC; 20192109; VBIHaeInf48452_1758.
+DR   eggNOG; COG1778; -.
+DR   KO; K03270; -.
+DR   OMA; FDENFHE; -.
+DR   OrthoDB; EOG62C9JR; -.
+DR   PhylomeDB; P45314; -.
+DR   EvolutionaryTrace; P45314; -.
+DR   Proteomes; UP000000579; Chromosome.
+DR   GO; GO:0019143; F:3-deoxy-manno-octulosonate-8-phosphatase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0009103; P:lipopolysaccharide biosynthetic process; ISS:UniProtKB.
+DR   Gene3D; 3.40.50.1000; -; 1.
+DR   InterPro; IPR023214; HAD-like_dom.
+DR   InterPro; IPR006549; HAD-SF_hydro_IIIA.
+DR   InterPro; IPR010023; KDO_8-P_phosphatase.
+DR   Pfam; PF08282; Hydrolase_3; 1.
+DR   PIRSF; PIRSF006118; KDO8-P_Ptase; 1.
+DR   SUPFAM; SSF56784; SSF56784; 1.
+DR   TIGRFAMs; TIGR01662; HAD-SF-IIIA; 1.
+DR   TIGRFAMs; TIGR01670; KdsC-phosphatas; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Hydrolase;
+KW   Lipopolysaccharide biosynthesis; Magnesium; Metal-binding;
+KW   Reference proteome.
+FT   CHAIN         1    180       3-deoxy-D-manno-octulosonate 8-phosphate
+FT                                phosphatase KdsC.
+FT                                /FTId=PRO_0000201703.
+FT   REGION       14     16       Substrate binding. {ECO:0000250}.
+FT   REGION       37     41       Substrate binding. {ECO:0000250}.
+FT   REGION       58     59       Substrate binding. {ECO:0000250}.
+FT   METAL        14     14       Magnesium. {ECO:0000305}.
+FT   METAL        16     16       Magnesium. {ECO:0000305}.
+FT   METAL       107    107       Magnesium. {ECO:0000305}.
+FT   BINDING      16     16       Substrate. {ECO:0000250}.
+FT   BINDING      60     60       Substrate. {ECO:0000250}.
+FT   BINDING      68     68       Substrate. {ECO:0000250}.
+FT   BINDING      84     84       Substrate. {ECO:0000250}.
+FT   BINDING     174    174       Substrate; via carbonyl oxygen.
+FT                                {ECO:0000250}.
+FT   HELIX         5      7       {ECO:0000244|PDB:1K1E}.
+FT   STRAND       10     14       {ECO:0000244|PDB:1K1E}.
+FT   TURN         16     18       {ECO:0000244|PDB:1K1E}.
+FT   STRAND       22     27       {ECO:0000244|PDB:1K1E}.
+FT   STRAND       30     37       {ECO:0000244|PDB:1K1E}.
+FT   HELIX        38     49       {ECO:0000244|PDB:1K1E}.
+FT   STRAND       53     59       {ECO:0000244|PDB:1K1E}.
+FT   HELIX        63     72       {ECO:0000244|PDB:1K1E}.
+FT   STRAND       76     80       {ECO:0000244|PDB:1K1E}.
+FT   HELIX        84     95       {ECO:0000244|PDB:1K1E}.
+FT   HELIX        99    101       {ECO:0000244|PDB:1K1E}.
+FT   STRAND      102    106       {ECO:0000244|PDB:1K1E}.
+FT   HELIX       109    111       {ECO:0000244|PDB:1K1E}.
+FT   HELIX       112    117       {ECO:0000244|PDB:1K1E}.
+FT   STRAND      118    123       {ECO:0000244|PDB:1K1E}.
+FT   HELIX       129    132       {ECO:0000244|PDB:1K1E}.
+FT   STRAND      135    138       {ECO:0000244|PDB:1K1E}.
+FT   TURN        143    146       {ECO:0000244|PDB:1K1E}.
+FT   HELIX       147    158       {ECO:0000244|PDB:1K1E}.
+FT   HELIX       163    166       {ECO:0000244|PDB:1K1E}.
+FT   HELIX       168    174       {ECO:0000244|PDB:1K1E}.
+FT   HELIX       175    177       {ECO:0000244|PDB:1K1E}.
+SQ   SEQUENCE   180 AA;  19432 MW;  23CD435E4E83A095 CRC64;
+     MQQKLENIKF VITDVDGVLT DGQLHYDANG EAIKSFHVRD GLGIKMLMDA DIQVAVLSGR
+     DSPILRRRIA DLGIKLFFLG KLEKETACFD LMKQAGVTAE QTAYIGDDSV DLPAFAACGT
+     SFAVADAPIY VKNAVDHVLS THGGKGAFRE MSDMILQAQG KSSVFDTAQG FLKSVKSMGQ
+//

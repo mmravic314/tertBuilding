@@ -1,0 +1,802 @@
+ID   RHOA_HUMAN              Reviewed;         193 AA.
+AC   P61586; P06749; Q53HM4; Q5U024; Q9UDJ0; Q9UEJ4;
+DT   01-JAN-1988, integrated into UniProtKB/Swiss-Prot.
+DT   01-JAN-1988, sequence version 1.
+DT   22-JUL-2015, entry version 143.
+DE   RecName: Full=Transforming protein RhoA;
+DE   AltName: Full=Rho cDNA clone 12;
+DE            Short=h12;
+DE   Flags: Precursor;
+GN   Name=RHOA; Synonyms=ARH12, ARHA, RHO12;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=3822842; DOI=10.1093/nar/15.4.1869;
+RA   Yeramian P., Chardin P., Madaule P., Tavitian A.;
+RT   "Nucleotide sequence of human rho cDNA clone 12.";
+RL   Nucleic Acids Res. 15:1869-1869(1987).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Retina;
+RX   PubMed=7835413; DOI=10.1006/exer.1994.1102;
+RA   Fagan K.P., Oliveira L., Pittler S.J.;
+RT   "Sequence of rho small GTP-binding protein cDNAs from human retina and
+RT   identification of novel 5' end cloning artifacts.";
+RL   Exp. Eye Res. 59:235-237(1994).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Brain;
+RA   Puhl H.L. III, Ikeda S.R., Aronstam R.S.;
+RT   "cDNA clones of human proteins involved in signal transduction
+RT   sequenced by the Guthrie cDNA resource center (www.cdna.org).";
+RL   Submitted (APR-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RA   Kalnine N., Chen X., Rolfs A., Halleck A., Hines L., Eisenstein S.,
+RA   Koundinya M., Raphael J., Moreira D., Kelley T., LaBaer J., Lin Y.,
+RA   Phelan M., Farmer A.;
+RT   "Cloning of human full-length CDSs in BD Creator(TM) system donor
+RT   vector.";
+RL   Submitted (OCT-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Adipose tissue;
+RA   Suzuki Y., Sugano S., Totoki Y., Toyoda A., Takeda T., Sakaki Y.,
+RA   Tanaka A., Yokoyama S.;
+RL   Submitted (APR-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Esophageal carcinoma;
+RX   PubMed=17974005; DOI=10.1186/1471-2164-8-399;
+RA   Bechtel S., Rosenfelder H., Duda A., Schmidt C.P., Ernst U.,
+RA   Wellenreuther R., Mehrle A., Schuster C., Bahr A., Bloecker H.,
+RA   Heubner D., Hoerlein A., Michel G., Wedler H., Koehrer K.,
+RA   Ottenwaelder B., Poustka A., Wiemann S., Schupp I.;
+RT   "The full-ORF clone resource of the German cDNA consortium.";
+RL   BMC Genomics 8:399-399(2007).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16641997; DOI=10.1038/nature04728;
+RA   Muzny D.M., Scherer S.E., Kaul R., Wang J., Yu J., Sudbrak R.,
+RA   Buhay C.J., Chen R., Cree A., Ding Y., Dugan-Rocha S., Gill R.,
+RA   Gunaratne P., Harris R.A., Hawes A.C., Hernandez J., Hodgson A.V.,
+RA   Hume J., Jackson A., Khan Z.M., Kovar-Smith C., Lewis L.R.,
+RA   Lozado R.J., Metzker M.L., Milosavljevic A., Miner G.R., Morgan M.B.,
+RA   Nazareth L.V., Scott G., Sodergren E., Song X.-Z., Steffen D., Wei S.,
+RA   Wheeler D.A., Wright M.W., Worley K.C., Yuan Y., Zhang Z., Adams C.Q.,
+RA   Ansari-Lari M.A., Ayele M., Brown M.J., Chen G., Chen Z.,
+RA   Clendenning J., Clerc-Blankenburg K.P., Chen R., Chen Z., Davis C.,
+RA   Delgado O., Dinh H.H., Dong W., Draper H., Ernst S., Fu G.,
+RA   Gonzalez-Garay M.L., Garcia D.K., Gillett W., Gu J., Hao B.,
+RA   Haugen E., Havlak P., He X., Hennig S., Hu S., Huang W., Jackson L.R.,
+RA   Jacob L.S., Kelly S.H., Kube M., Levy R., Li Z., Liu B., Liu J.,
+RA   Liu W., Lu J., Maheshwari M., Nguyen B.-V., Okwuonu G.O., Palmeiri A.,
+RA   Pasternak S., Perez L.M., Phelps K.A., Plopper F.J., Qiang B.,
+RA   Raymond C., Rodriguez R., Saenphimmachak C., Santibanez J., Shen H.,
+RA   Shen Y., Subramanian S., Tabor P.E., Verduzco D., Waldron L., Wang J.,
+RA   Wang J., Wang Q., Williams G.A., Wong G.K.-S., Yao Z., Zhang J.,
+RA   Zhang X., Zhao G., Zhou J., Zhou Y., Nelson D., Lehrach H.,
+RA   Reinhardt R., Naylor S.L., Yang H., Olson M., Weinstock G.,
+RA   Gibbs R.A.;
+RT   "The DNA sequence, annotation and analysis of human chromosome 3.";
+RL   Nature 440:1194-1198(2006).
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Brain, and Colon;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [9]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 5-193.
+RC   TISSUE=Mammary cancer;
+RX   PubMed=8039707; DOI=10.1016/0378-1119(94)90382-4;
+RA   Moscow J.A., He R., Gudas J.M., Cowan K.H.;
+RT   "Utilization of multiple polyadenylation signals in the human RHOA
+RT   protooncogene.";
+RL   Gene 144:229-236(1994).
+RN   [10]
+RP   PROTEIN SEQUENCE OF 28-39; 45-57; 78-86; 130-144; 146-162 AND 165-184,
+RP   AND ADP-RIBOSYLATION AT ASN-41.
+RC   TISSUE=Platelet;
+RX   PubMed=1328215;
+RA   Nemoto Y., Namba T., Teru-uchi T., Ushikubi F., Morii N., Narumiya S.;
+RT   "A rho gene product in human blood platelets. I. Identification of the
+RT   platelet substrate for botulinum C3 ADP-ribosyltransferase as rhoA
+RT   protein.";
+RL   J. Biol. Chem. 267:20916-20920(1992).
+RN   [11]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 137-193.
+RX   PubMed=1556108;
+RA   Moscow J.A., Morrow C.S., He R., Mullenbach G.T., Cowan K.H.;
+RT   "Structure and function of the 5'-flanking sequence of the human
+RT   cytosolic selenium-dependent glutathione peroxidase gene (hgpx1).";
+RL   J. Biol. Chem. 267:5949-5958(1992).
+RN   [12]
+RP   INTERACTION WITH ROCK1.
+RX   PubMed=8617235;
+RA   Ishizaki T., Maekawa M., Fujisawa K., Okawa K., Iwamatsu A.,
+RA   Fujita A., Watanabe N., Saito Y., Kakizuka A., Morii N., Narumiya S.;
+RT   "The small GTP-binding protein Rho binds to and activates a 160 kDa
+RT   Ser/Thr protein kinase homologous to myotonic dystrophy kinase.";
+RL   EMBO J. 15:1885-1893(1996).
+RN   [13]
+RP   INTERACTION WITH ROCK2.
+RX   PubMed=8641286;
+RA   Matsui T., Amano M., Yamamoto T., Chihara K., Nakafuku M., Ito M.,
+RA   Nakano T., Okawa K., Iwamatsu A., Kaibuchi K.;
+RT   "Rho-associated kinase, a novel serine/threonine kinase, as a putative
+RT   target for small GTP binding protein Rho.";
+RL   EMBO J. 15:2208-2216(1996).
+RN   [14]
+RP   FUNCTION.
+RX   PubMed=8910519; DOI=10.1074/jbc.271.46.28772;
+RA   Quilliam L.A., Lambert Q.T., Mickelson-Young L.A., Westwick J.K.,
+RA   Sparks A.B., Kay B.K., Jenkins N.A., Gilbert D.J., Copeland N.G.,
+RA   Der C.J.;
+RT   "Isolation of a NCK-associated kinase, PRK2, an SH3-binding protein
+RT   and potential effector of Rho protein signaling.";
+RL   J. Biol. Chem. 271:28772-28776(1996).
+RN   [15]
+RP   FUNCTION, AND INTERACTION WITH PKN2.
+RX   PubMed=9121475;
+RA   Vincent S., Settleman J.;
+RT   "The PRK2 kinase is a potential effector target of both Rho and Rac
+RT   GTPases and regulates actin cytoskeletal organization.";
+RL   Mol. Cell. Biol. 17:2247-2256(1997).
+RN   [16]
+RP   FUNCTION, INTERACTION WITH KCNA2, AND SUBCELLULAR LOCATION.
+RX   PubMed=9635436; DOI=10.1016/S0092-8674(00)81212-X;
+RA   Cachero T.G., Morielli A.D., Peralta E.G.;
+RT   "The small GTP-binding protein RhoA regulates a delayed rectifier
+RT   potassium channel.";
+RL   Cell 93:1077-1085(1998).
+RN   [17]
+RP   INTERACTION WITH ARHGEF2.
+RX   PubMed=9857026; DOI=10.1074/jbc.273.52.34954;
+RA   Ren Y., Li R., Zheng Y., Busch H.;
+RT   "Cloning and characterization of GEF-H1, a microtubule-associated
+RT   guanine nucleotide exchange factor for Rac and Rho GTPases.";
+RL   J. Biol. Chem. 273:34954-34960(1998).
+RN   [18]
+RP   INTERACTION WITH DGKQ, AND MUTAGENESIS OF TYR-34.
+RX   PubMed=10066731; DOI=10.1074/jbc.274.11.6820;
+RA   Houssa B., de Widt J., Kranenburg O., Moolenaar W.H.,
+RA   van Blitterswijk W.J.;
+RT   "Diacylglycerol kinase theta binds to and is negatively regulated by
+RT   active RhoA.";
+RL   J. Biol. Chem. 274:6820-6822(1999).
+RN   [19]
+RP   INTERACTION WITH HRSV PROTEIN F.
+RX   PubMed=10438814;
+RA   Pastey M.K., Crowe J.E. Jr., Graham B.S.;
+RT   "RhoA interacts with the fusion glycoprotein of respiratory syncytial
+RT   virus and facilitates virus-induced syncytium formation.";
+RL   J. Virol. 73:7262-7270(1999).
+RN   [20]
+RP   INTERACTION WITH RTKN.
+RX   PubMed=10940294; DOI=10.1074/jbc.M000465200;
+RA   Reynaud C., Fabre S., Jalinot P.;
+RT   "The PDZ protein TIP-1 interacts with the Rho effector rhotekin and is
+RT   involved in Rho signaling to the serum response element.";
+RL   J. Biol. Chem. 275:33962-33968(2000).
+RN   [21]
+RP   PHOSPHORYLATION AT SER-188 BY PRKG1.
+RX   PubMed=11162591; DOI=10.1006/bbrc.2000.4194;
+RA   Sawada N., Itoh H., Yamashita J., Doi K., Inoue M., Masatsugu K.,
+RA   Fukunaga Y., Sakaguchi S., Sone M., Yamahara K., Yurugi T., Nakao K.;
+RT   "cGMP-dependent protein kinase phosphorylates and inactivates RhoA.";
+RL   Biochem. Biophys. Res. Commun. 280:798-805(2001).
+RN   [22]
+RP   INTERACTION WITH AKAP13.
+RX   PubMed=11696353; DOI=10.1016/S0014-5793(01)02995-7;
+RA   Klussmann E., Edemir B., Pepperle B., Tamma G., Henn V.,
+RA   Klauschenz E., Hundsrucker C., Maric K., Rosenthal W.;
+RT   "Ht31: the first protein kinase A anchoring protein to integrate
+RT   protein kinase A and Rho signaling.";
+RL   FEBS Lett. 507:264-268(2001).
+RN   [23]
+RP   INTERACTION WITH ARHGEF3.
+RX   PubMed=12221096; DOI=10.1074/jbc.M207401200;
+RA   Arthur W.T., Ellerbroek S.M., Der C.J., Burridge K., Wennerberg K.;
+RT   "XPLN, a guanine nucleotide exchange factor for RhoA and RhoB, but not
+RT   RhoC.";
+RL   J. Biol. Chem. 277:42964-42972(2002).
+RN   [24]
+RP   INTERACTION WITH YERSINIA PESTIS YOPT, AND CLEAVAGE.
+RX   PubMed=12062101; DOI=10.1016/S0092-8674(02)00766-3;
+RA   Shao F., Merritt P.M., Bao Z., Innes R.W., Dixon J.E.;
+RT   "A Yersinia effector and a Pseudomonas avirulence protein define a
+RT   family of cysteine proteases functioning in bacterial pathogenesis.";
+RL   Cell 109:575-588(2002).
+RN   [25]
+RP   FUNCTION, AND INTERACTION WITH PLCE1.
+RX   PubMed=12900402; DOI=10.1074/jbc.M306904200;
+RA   Wing M.R., Snyder J.T., Sondek J., Harden T.K.;
+RT   "Direct activation of phospholipase C-epsilon by Rho.";
+RL   J. Biol. Chem. 278:41253-41258(2003).
+RN   [26]
+RP   INTERACTION WITH YERSINIA PSEUDOTUBERCULOSIS YOPT, CLEAVAGE, AND
+RP   MUTAGENESIS OF LEU-193.
+RX   PubMed=12538863; DOI=10.1073/pnas.252770599;
+RA   Shao F., Vacratsis P.O., Bao Z., Bowers K.E., Fierke C.A., Dixon J.E.;
+RT   "Biochemical characterization of the Yersinia YopT protease: cleavage
+RT   site and recognition elements in Rho GTPases.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 100:904-909(2003).
+RN   [27]
+RP   FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=16103226; DOI=10.1083/jcb.200501097;
+RA   Yuce O., Piekny A., Glotzer M.;
+RT   "An ECT2-centralspindlin complex regulates the localization and
+RT   function of RhoA.";
+RL   J. Cell Biol. 170:571-582(2005).
+RN   [28]
+RP   FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=16236794; DOI=10.1091/mbc.E05-06-0569;
+RA   Kamijo K., Ohara N., Abe M., Uchimura T., Hosoya H., Lee J.S.,
+RA   Miki T.;
+RT   "Dissecting the role of Rho-mediated signaling in contractile ring
+RT   formation.";
+RL   Mol. Biol. Cell 17:43-55(2006).
+RN   [29]
+RP   INTERACTION WITH PKP4, AND SUBCELLULAR LOCATION.
+RX   PubMed=17115030; DOI=10.1038/ncb1504;
+RA   Wolf A., Keil R., Gotzl O., Mun A., Schwarze K., Lederer M.,
+RA   Huttelmaier S., Hatzfeld M.;
+RT   "The armadillo protein p0071 regulates Rho signalling during
+RT   cytokinesis.";
+RL   Nat. Cell Biol. 8:1432-1440(2006).
+RN   [30]
+RP   FUNCTION.
+RX   PubMed=19934221; DOI=10.1242/jcs.053728;
+RA   Bristow J.M., Sellers M.H., Majumdar D., Anderson B., Hu L.,
+RA   Webb D.J.;
+RT   "The Rho-family GEF Asef2 activates Rac to modulate adhesion and actin
+RT   dynamics and thereby regulate cell migration.";
+RL   J. Cell Sci. 122:4535-4546(2009).
+RN   [31]
+RP   FUNCTION.
+RX   PubMed=19403695; DOI=10.1091/mbc.E08-10-1074;
+RA   Stirling L., Williams M.R., Morielli A.D.;
+RT   "Dual roles for RHOA/RHO-kinase in the regulated trafficking of a
+RT   voltage-sensitive potassium channel.";
+RL   Mol. Biol. Cell 20:2991-3002(2009).
+RN   [32]
+RP   AMPYLATION AT TYR-34, AND MUTAGENESIS OF TYR-34.
+RX   PubMed=19362538; DOI=10.1016/j.molcel.2009.03.008;
+RA   Worby C.A., Mattoo S., Kruger R.P., Corbeil L.B., Koller A.,
+RA   Mendez J.C., Zekarias B., Lazar C., Dixon J.E.;
+RT   "The fic domain: regulation of cell signaling by adenylylation.";
+RL   Mol. Cell 34:93-103(2009).
+RN   [33]
+RP   UBIQUITINATION.
+RX   PubMed=19782033; DOI=10.1016/j.molcel.2009.09.004;
+RA   Chen Y., Yang Z., Meng M., Zhao Y., Dong N., Yan H., Liu L., Ding M.,
+RA   Peng H.B., Shao F.;
+RT   "Cullin mediates degradation of RhoA through evolutionarily conserved
+RT   BTB adaptors to control actin cytoskeleton structure and cell
+RT   movement.";
+RL   Mol. Cell 35:841-855(2009).
+RN   [34]
+RP   AMPYLATION AT THR-37.
+RX   PubMed=19039103; DOI=10.1126/science.1166382;
+RA   Yarbrough M.L., Li Y., Kinch L.N., Grishin N.V., Ball H.L., Orth K.;
+RT   "AMPylation of Rho GTPases by Vibrio VopS disrupts effector binding
+RT   and downstream signaling.";
+RL   Science 323:269-272(2009).
+RN   [35]
+RP   MUTAGENESIS OF GLY-14.
+RX   PubMed=19948726; DOI=10.1074/jbc.M109.088427;
+RA   Chatterjee A., Wang L., Armstrong D.L., Rossie S.;
+RT   "Activated Rac1 GTPase translocates protein phosphatase 5 to the cell
+RT   membrane and stimulates phosphatase activity in vitro.";
+RL   J. Biol. Chem. 285:3872-3882(2010).
+RN   [36]
+RP   INTERACTION WITH ARHGDIA.
+RX   PubMed=20400958; DOI=10.1038/ncb2049;
+RA   Boulter E., Garcia-Mata R., Guilluy C., Dubash A., Rossi G.,
+RA   Brennwald P.J., Burridge K.;
+RT   "Regulation of Rho GTPase crosstalk, degradation and activity by
+RT   RhoGDI1.";
+RL   Nat. Cell Biol. 12:477-483(2010).
+RN   [37]
+RP   FUNCTION.
+RX   PubMed=20937854; DOI=10.1073/pnas.1000975107;
+RA   Zaoui K., Benseddik K., Daou P., Salaun D., Badache A.;
+RT   "ErbB2 receptor controls microtubule capture by recruiting ACF7 to the
+RT   plasma membrane of migrating cells.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 107:18517-18522(2010).
+RN   [38]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P.,
+RA   Buerckstuemmer T., Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [39]
+RP   ENZYME REGULATION.
+RX   PubMed=21565175; DOI=10.1016/j.bbrc.2011.04.116;
+RA   Naji L., Pacholsky D., Aspenstrom P.;
+RT   "ARHGAP30 is a Wrch-1-interacting protein involved in actin dynamics
+RT   and cell adhesion.";
+RL   Biochem. Biophys. Res. Commun. 409:96-102(2011).
+RN   [40]
+RP   INTERACTION WITH GNB2L1.
+RX   PubMed=20499158; DOI=10.1007/s10549-010-0955-3;
+RA   Cao X.X., Xu J.D., Xu J.W., Liu X.L., Cheng Y.Y., Li Q.Q., Xu Z.D.,
+RA   Liu X.P.;
+RT   "RACK1 promotes breast carcinoma migration/metastasis via activation
+RT   of the RhoA/Rho kinase pathway.";
+RL   Breast Cancer Res. Treat. 126:555-563(2011).
+RN   [41]
+RP   FUNCTION, AND INTERACTION WITH PKN2.
+RX   PubMed=20974804; DOI=10.1128/MCB.01001-10;
+RA   Wallace S.W., Magalhaes A., Hall A.;
+RT   "The Rho target PRK2 regulates apical junction formation in human
+RT   bronchial epithelial cells.";
+RL   Mol. Cell. Biol. 31:81-91(2011).
+RN   [42]
+RP   INTERACTION WITH DIAPH1, AND IDENTIFICATION BY MASS SPECTROMETRY.
+RX   PubMed=23325789; DOI=10.1091/mbc.E12-08-0597;
+RA   Li D., Dammer E.B., Lucki N.C., Sewer M.B.;
+RT   "cAMP-stimulated phosphorylation of diaphanous 1 regulates protein
+RT   stability and interaction with binding partners in adrenocortical
+RT   cells.";
+RL   Mol. Biol. Cell 24:848-857(2013).
+RN   [43]
+RP   X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS).
+RX   PubMed=9302995; DOI=10.1038/nsb0997-699;
+RA   Wei Y., Zhang Y., Derewenda U., Liu X., Minor W., Nakamoto R.K.,
+RA   Somlyo A.V., Somlyo A.P., Derewenda Z.S.;
+RT   "Crystal structure of RhoA-GDP and its functional implications.";
+RL   Nat. Struct. Biol. 4:699-703(1997).
+RN   [44]
+RP   X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS) OF 4-181 OF MUTANT VAL-14.
+RX   PubMed=9545299; DOI=10.1074/jbc.273.16.9656;
+RA   Ihara K., Muraguchi S., Kato M., Shimizu T., Shirakawa M., Kuroda S.,
+RA   Kaibuchi K., Hakoshima T.;
+RT   "Crystal structure of human RhoA in a dominantly active form complexed
+RT   with a GTP analogue.";
+RL   J. Biol. Chem. 273:9656-9666(1998).
+RN   [45]
+RP   X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) OF 1-181 IN COMPLEX WITH PRKCL1.
+RX   PubMed=10388627; DOI=10.1006/jsbi.1999.4114;
+RA   Maesaki R., Shimizu T., Ihara K., Kuroda S., Kaibuchi K.,
+RA   Hakoshima T.;
+RT   "Biochemical and crystallographic characterization of a Rho effector
+RT   domain of the protein serine/threonine kinase N in a complex with
+RT   RhoA.";
+RL   J. Struct. Biol. 126:166-170(1999).
+RN   [46]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) OF 3-180 IN COMPLEX WITH GDP.
+RX   PubMed=10748207; DOI=10.1074/jbc.M910274199;
+RA   Shimizu T., Ihara K., Maesaki R., Kuroda S., Kaibuchi K.,
+RA   Hakoshima T.;
+RT   "An open conformation of switch I revealed by the crystal structure of
+RT   a Mg2+-free form of RHOA complexed with GDP. Implications for the
+RT   GDP/GTP exchange mechanism.";
+RL   J. Biol. Chem. 275:18311-18317(2000).
+RN   [47]
+RP   X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS).
+RX   PubMed=11927263; DOI=10.1016/S1074-5521(02)00112-6;
+RA   Graham D.L., Lowe P.N., Grime G.W., Marsh M., Rittinger K.,
+RA   Smerdon S.J., Gamblin S.J., Eccleston J.F.;
+RT   "MgF(3)(-) as a transition state analog of phosphoryl transfer.";
+RL   Chem. Biol. 9:375-381(2002).
+RN   [48]
+RP   X-RAY CRYSTALLOGRAPHY (2.81 ANGSTROMS) IN COMPLEX WITH MCF2.
+RX   PubMed=12006984; DOI=10.1038/nsb796;
+RA   Snyder J.T., Worthylake D.K., Rossman K.L., Betts L., Pruitt W.M.,
+RA   Siderovski D.P., Der C.J., Sondek J.;
+RT   "Structural basis for the selective activation of Rho GTPases by Dbl
+RT   exchange factors.";
+RL   Nat. Struct. Biol. 9:468-475(2002).
+RN   [49]
+RP   X-RAY CRYSTALLOGRAPHY (1.5 ANGSTROMS) OF MUTANT LEU-63 IN COMPLEX WITH
+RP   A GTP ANALOG AND MG(2+).
+RX   PubMed=12777804; DOI=10.1107/S0907444903005390;
+RA   Longenecker K., Read P., Lin S.-K., Somlyo A.P., Nakamoto R.K.,
+RA   Derewenda Z.S.;
+RT   "Structure of a constitutively activated RhoA mutant (Q63L) at 1.55 A
+RT   resolution.";
+RL   Acta Crystallogr. D 59:876-880(2003).
+CC   -!- FUNCTION: Regulates a signal transduction pathway linking plasma
+CC       membrane receptors to the assembly of focal adhesions and actin
+CC       stress fibers. Involved in a microtubule-dependent signal that is
+CC       required for the myosin contractile ring formation during cell
+CC       cycle cytokinesis. Plays an essential role in cleavage furrow
+CC       formation. Required for the apical junction formation of
+CC       keratinocyte cell-cell adhesion. Serves as a target for the yopT
+CC       cysteine peptidase from Yersinia pestis, vector of the plague, and
+CC       Yersinia pseudotuberculosis, which causes gastrointestinal
+CC       disorders. Stimulates PKN2 kinase activity. May be an activator of
+CC       PLCE1. Activated by ARHGEF2, which promotes the exchange of GDP
+CC       for GTP. Essential for the SPATA13-mediated regulation of cell
+CC       migration and adhesion assembly and disassembly. The MEMO1-RHOA-
+CC       DIAPH1 signaling pathway plays an important role in ERBB2-
+CC       dependent stabilization of microtubules at the cell cortex. It
+CC       controls the localization of APC and CLASP2 to the cell membrane,
+CC       via the regulation of GSK3B activity. In turn, membrane-bound APC
+CC       allows the localization of the MACF1 to the cell membrane, which
+CC       is required for microtubule capture and stabilization.Regulates a
+CC       signal transduction pathway linking plasma membrane receptors to
+CC       the assembly of focal adhesions and actin stress fibers. Involved
+CC       in a microtubule-dependent signal that is required for the myosin
+CC       contractile ring formation during cell cycle cytokinesis. Plays an
+CC       essential role in cleavage furrow formation. Required for the
+CC       apical junction formation of keratinocyte cell-cell adhesion. May
+CC       be an activator of PLCE1. Activated by ARHGEF2, which promotes the
+CC       exchange of GDP for GTP. Essential for the SPATA13-mediated
+CC       regulation of cell migration and adhesion assembly and
+CC       disassembly. The MEMO1-RHOA-DIAPH1 signaling pathway plays an
+CC       important role in ERBB2-dependent stabilization of microtubules at
+CC       the cell cortex. It controls the localization of APC and CLASP2 to
+CC       the cell membrane, via the regulation of GSK3B activity. In turn,
+CC       membrane-bound APC allows the localization of the MACF1 to the
+CC       cell membrane, which is required for microtubule capture and
+CC       stabilization (By similarity). Regulates KCNA2 potassium channel
+CC       activity by reducing its location at the cell surface in response
+CC       to CHRM1 activation; promotes KCNA2 endocytosis
+CC       (PubMed:9635436,PubMed:19403695). {ECO:0000250,
+CC       ECO:0000269|PubMed:12900402, ECO:0000269|PubMed:16103226,
+CC       ECO:0000269|PubMed:16236794, ECO:0000269|PubMed:19934221,
+CC       ECO:0000269|PubMed:20937854, ECO:0000269|PubMed:20974804,
+CC       ECO:0000269|PubMed:8910519, ECO:0000269|PubMed:9121475,
+CC       ECO:0000269|PubMed:9635436}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC   -!- ENZYME REGULATION: GTP hydrolysis is stimulated by ARHGAP30.
+CC       {ECO:0000269|PubMed:21565175}.
+CC   -!- SUBUNIT: Interacts with ARHGEF28 (By similarity). Binds PRKCL1,
+CC       ROCK1 and ROCK2. Interacts with ARHGEF2, ARHGEF3, NET1 and RTKN.
+CC       Interacts with PLCE1 and AKAP13. Interacts with DIAPH1
+CC       (PubMed:23325789). Interacts (in the constitutively activated,
+CC       GTP-bound form) with DGKQ. Interacts with human respiratory
+CC       syncytial virus (HRSV) protein F; this interaction facilitates
+CC       virus-induced syncytium formation. Interacts with GNB2L1/RACK1;
+CC       enhances RHOA activation. Interacts with PKP4; the interaction is
+CC       detected at the midbody. Interacts (GTP-bound form preferentially)
+CC       with PKN2; the interaction stimulates autophosphorylation and
+CC       phosphorylation of PKN2. Interacts with ARHGDIA; this interaction
+CC       inactivates and stabilizes RHOA. Interacts with ARHGDIB. Interacts
+CC       (GTP-bound form) with KCNA2 (via cytoplasmic N-terminal domain)
+CC       (PubMed:9635436). {ECO:0000250, ECO:0000269|PubMed:10066731,
+CC       ECO:0000269|PubMed:10388627, ECO:0000269|PubMed:10438814,
+CC       ECO:0000269|PubMed:10748207, ECO:0000269|PubMed:10940294,
+CC       ECO:0000269|PubMed:11696353, ECO:0000269|PubMed:12006984,
+CC       ECO:0000269|PubMed:12062101, ECO:0000269|PubMed:12221096,
+CC       ECO:0000269|PubMed:12538863, ECO:0000269|PubMed:12777804,
+CC       ECO:0000269|PubMed:12900402, ECO:0000269|PubMed:17115030,
+CC       ECO:0000269|PubMed:19403695, ECO:0000269|PubMed:20400958,
+CC       ECO:0000269|PubMed:20499158, ECO:0000269|PubMed:20974804,
+CC       ECO:0000269|PubMed:23325789, ECO:0000269|PubMed:8617235,
+CC       ECO:0000269|PubMed:8641286, ECO:0000269|PubMed:9121475,
+CC       ECO:0000269|PubMed:9857026, ECO:0000305|PubMed:9635436}.
+CC   -!- INTERACTION:
+CC       Q15109:AGER; NbExp=2; IntAct=EBI-446668, EBI-1646426;
+CC       Q07960:ARHGAP1; NbExp=2; IntAct=EBI-446668, EBI-602762;
+CC       P52565:ARHGDIA; NbExp=5; IntAct=EBI-446668, EBI-712693;
+CC       O15085:ARHGEF11; NbExp=6; IntAct=EBI-446668, EBI-311099;
+CC       Q9NZN5:ARHGEF12; NbExp=2; IntAct=EBI-446668, EBI-821440;
+CC       Q8IW93:ARHGEF19; NbExp=2; IntAct=EBI-446668, EBI-7799822;
+CC       Q9Y4D1:DAAM1; NbExp=5; IntAct=EBI-446668, EBI-2817289;
+CC       O60610:DIAPH1; NbExp=3; IntAct=EBI-446668, EBI-3959709;
+CC       O08808:Diaph1 (xeno); NbExp=3; IntAct=EBI-446668, EBI-1026445;
+CC       Q9Y4F9:FAM65B; NbExp=4; IntAct=EBI-446668, EBI-2798942;
+CC       Q9UKT9:IKZF3; NbExp=3; IntAct=EBI-446668, EBI-747204;
+CC       Q6PDM6:Mcf2l (xeno); NbExp=3; IntAct=EBI-446668, EBI-602149;
+CC       P19338:NCL; NbExp=3; IntAct=EBI-446668, EBI-346967;
+CC       Q9Z0S9:Rabac1 (xeno); NbExp=3; IntAct=EBI-446668, EBI-476965;
+CC       Q13464:ROCK1; NbExp=4; IntAct=EBI-446668, EBI-876651;
+CC       Q9BST9:RTKN; NbExp=5; IntAct=EBI-446668, EBI-446694;
+CC       Q8C6B2:Rtkn (xeno); NbExp=3; IntAct=EBI-446668, EBI-1162441;
+CC       Q15796:SMAD2; NbExp=2; IntAct=EBI-446668, EBI-1040141;
+CC       Q9HCE7-2:SMURF1; NbExp=2; IntAct=EBI-446668, EBI-9845742;
+CC       Q15654:TRIP6; NbExp=3; IntAct=EBI-446668, EBI-742327;
+CC   -!- SUBCELLULAR LOCATION: Cell membrane; Lipid-anchor; Cytoplasmic
+CC       side. Cytoplasm, cytoskeleton. Cleavage furrow. Cytoplasm, cell
+CC       cortex {ECO:0000269|PubMed:9635436}. Midbody. Cell projection,
+CC       lamellipodium {ECO:0000250}. Note=Localized to cell-cell contacts
+CC       in calcium-treated keratinocytes (By similarity). Translocates to
+CC       the equatorial region before furrow formation in a ECT2-dependent
+CC       manner. Localizes to the equatorial cell cortex (at the site of
+CC       the presumptive furrow) in early anaphase in a activated form and
+CC       in a myosin- and actin-independent manner. {ECO:0000250}.
+CC   -!- DOMAIN: The basic-rich region is essential for yopT recognition
+CC       and cleavage.
+CC   -!- PTM: Substrate for botulinum ADP-ribosyltransferase.
+CC   -!- PTM: Cleaved by yopT protease when the cell is infected by some
+CC       Yersinia pathogens. This removes the lipid attachment, and leads
+CC       to its displacement from plasma membrane and to subsequent
+CC       cytoskeleton cleavage. {ECO:0000269|PubMed:12062101,
+CC       ECO:0000269|PubMed:12538863}.
+CC   -!- PTM: AMPylation at Tyr-34 and Thr-37 are mediated by bacterial
+CC       enzymes in case of infection by H.somnus and V.parahaemolyticus,
+CC       respectively. AMPylation occurs in the effector region and leads
+CC       to inactivation of the GTPase activity by preventing the
+CC       interaction with downstream effectors, thereby inhibiting actin
+CC       assembly in infected cells. It is unclear whether some human
+CC       enzyme mediates AMPylation; FICD has such ability in vitro but
+CC       additional experiments remain to be done to confirm results in
+CC       vivo. {ECO:0000269|PubMed:19039103, ECO:0000269|PubMed:19362538}.
+CC   -!- PTM: Phosphorylation by PRKG1 at Ser-188 inactivates RHOA
+CC       signaling. {ECO:0000269|PubMed:11162591}.
+CC   -!- PTM: Ubiquitinated by the BCR(BACURD1) and BCR(BACURD2) E3
+CC       ubiquitin ligase complexes, leading to its degradation by the
+CC       proteasome, thereby regulating the actin cytoskeleton and cell
+CC       migration. {ECO:0000269|PubMed:19782033}.
+CC   -!- SIMILARITY: Belongs to the small GTPase superfamily. Rho family.
+CC       {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=Atlas of Genetics and Cytogenetics in Oncology
+CC       and Haematology;
+CC       URL="http://atlasgeneticsoncology.org/Genes/RHOAID42107ch3p21.html";
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X05026; CAA28690.1; -; mRNA.
+DR   EMBL; L25080; AAC33178.1; -; mRNA.
+DR   EMBL; AF498970; AAM21117.1; -; mRNA.
+DR   EMBL; BT019870; AAV38673.1; -; mRNA.
+DR   EMBL; AK222556; BAD96276.1; -; mRNA.
+DR   EMBL; BX647063; CAE46190.1; -; mRNA.
+DR   EMBL; AC104452; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC121247; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC137114; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC001360; AAH01360.1; -; mRNA.
+DR   EMBL; BC005976; AAH05976.1; -; mRNA.
+DR   EMBL; L09159; AAA50612.1; -; mRNA.
+DR   EMBL; M83094; AAA67539.1; -; Genomic_DNA.
+DR   CCDS; CCDS2795.1; -.
+DR   PIR; A26675; TVHU12.
+DR   RefSeq; NP_001655.1; NM_001664.2.
+DR   RefSeq; XP_011531997.1; XM_011533695.1.
+DR   UniGene; Hs.247077; -.
+DR   PDB; 1A2B; X-ray; 2.40 A; A=1-181.
+DR   PDB; 1CC0; X-ray; 5.00 A; A/C=1-190.
+DR   PDB; 1CXZ; X-ray; 2.20 A; A=1-181.
+DR   PDB; 1DPF; X-ray; 2.00 A; A=1-180.
+DR   PDB; 1FTN; X-ray; 2.10 A; A=1-193.
+DR   PDB; 1KMQ; X-ray; 1.55 A; A=4-181.
+DR   PDB; 1LB1; X-ray; 2.81 A; B/D/F/H=1-190.
+DR   PDB; 1OW3; X-ray; 1.80 A; B=1-193.
+DR   PDB; 1S1C; X-ray; 2.60 A; A/B=1-181.
+DR   PDB; 1TX4; X-ray; 1.65 A; B=3-179.
+DR   PDB; 1X86; X-ray; 3.22 A; B/D/F/H=1-193.
+DR   PDB; 1XCG; X-ray; 2.50 A; B/F=3-180.
+DR   PDB; 2RGN; X-ray; 3.50 A; C/F=1-193.
+DR   PDB; 3KZ1; X-ray; 2.70 A; E/F=1-181.
+DR   PDB; 3LW8; X-ray; 1.85 A; A/B/C/D=2-181.
+DR   PDB; 3LWN; X-ray; 2.28 A; A/B=2-181.
+DR   PDB; 3LXR; X-ray; 1.68 A; A=2-181.
+DR   PDB; 3MSX; X-ray; 1.65 A; A=1-180.
+DR   PDB; 3T06; X-ray; 2.84 A; B/F=3-180.
+DR   PDB; 4D0N; X-ray; 2.10 A; A=1-184.
+DR   PDB; 4XH9; X-ray; 2.00 A; B/E=2-180.
+DR   PDBsum; 1A2B; -.
+DR   PDBsum; 1CC0; -.
+DR   PDBsum; 1CXZ; -.
+DR   PDBsum; 1DPF; -.
+DR   PDBsum; 1FTN; -.
+DR   PDBsum; 1KMQ; -.
+DR   PDBsum; 1LB1; -.
+DR   PDBsum; 1OW3; -.
+DR   PDBsum; 1S1C; -.
+DR   PDBsum; 1TX4; -.
+DR   PDBsum; 1X86; -.
+DR   PDBsum; 1XCG; -.
+DR   PDBsum; 2RGN; -.
+DR   PDBsum; 3KZ1; -.
+DR   PDBsum; 3LW8; -.
+DR   PDBsum; 3LWN; -.
+DR   PDBsum; 3LXR; -.
+DR   PDBsum; 3MSX; -.
+DR   PDBsum; 3T06; -.
+DR   PDBsum; 4D0N; -.
+DR   PDBsum; 4XH9; -.
+DR   ProteinModelPortal; P61586; -.
+DR   SMR; P61586; 2-181.
+DR   BioGrid; 106880; 129.
+DR   DIP; DIP-29642N; -.
+DR   IntAct; P61586; 53.
+DR   MINT; MINT-4999683; -.
+DR   STRING; 9606.ENSP00000400175; -.
+DR   BindingDB; P61586; -.
+DR   ChEMBL; CHEMBL6052; -.
+DR   PhosphoSite; P61586; -.
+DR   BioMuta; RHOA; -.
+DR   DMDM; 47606458; -.
+DR   MaxQB; P61586; -.
+DR   PaxDb; P61586; -.
+DR   PeptideAtlas; P61586; -.
+DR   PRIDE; P61586; -.
+DR   DNASU; 387; -.
+DR   Ensembl; ENST00000418115; ENSP00000400175; ENSG00000067560.
+DR   GeneID; 387; -.
+DR   KEGG; hsa:387; -.
+DR   UCSC; uc003cwu.3; human.
+DR   CTD; 387; -.
+DR   GeneCards; GC03M049397; -.
+DR   HGNC; HGNC:667; RHOA.
+DR   HPA; CAB005052; -.
+DR   HPA; HPA062346; -.
+DR   MIM; 165390; gene.
+DR   neXtProt; NX_P61586; -.
+DR   PharmGKB; PA134865095; -.
+DR   eggNOG; COG1100; -.
+DR   GeneTree; ENSGT00760000119020; -.
+DR   HOGENOM; HOG000233974; -.
+DR   HOVERGEN; HBG009351; -.
+DR   InParanoid; P61586; -.
+DR   KO; K04513; -.
+DR   OMA; RNDPHTI; -.
+DR   OrthoDB; EOG73FQPD; -.
+DR   PhylomeDB; P61586; -.
+DR   TreeFam; TF300837; -.
+DR   Reactome; REACT_11051; Rho GTPase cycle.
+DR   Reactome; REACT_120726; TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition).
+DR   Reactome; REACT_12464; PI3K/AKT activation.
+DR   Reactome; REACT_13779; Axonal growth stimulation.
+DR   Reactome; REACT_13815; Axonal growth inhibition (RHOA activation).
+DR   Reactome; REACT_1695; GPVI-mediated activation cascade.
+DR   Reactome; REACT_18407; G alpha (12/13) signalling events.
+DR   Reactome; REACT_19266; Sema4D mediated inhibition of cell attachment and migration.
+DR   Reactome; REACT_19277; Sema4D induced cell migration and growth-cone collapse.
+DR   Reactome; REACT_19290; G beta:gamma signalling through PI3Kgamma.
+DR   Reactome; REACT_263952; EPHB-mediated forward signaling.
+DR   Reactome; REACT_264199; PCP/CE pathway.
+DR   Reactome; REACT_264464; VEGFA-VEGFR2 Pathway.
+DR   Reactome; REACT_264548; EPHA-mediated growth cone collapse.
+DR   Reactome; REACT_355021; RHO GTPases Activate Rhotekin and Rhophilins.
+DR   Reactome; REACT_355192; RHO GTPases Activate ROCKs.
+DR   Reactome; REACT_355252; RHO GTPases Activate Formins.
+DR   Reactome; REACT_355303; RHO GTPases activate CIT.
+DR   Reactome; REACT_355321; RHO GTPases activate KTN1.
+DR   Reactome; REACT_355542; RHO GTPases activate PKNs.
+DR   SignaLink; P61586; -.
+DR   ChiTaRS; RHOA; human.
+DR   EvolutionaryTrace; P61586; -.
+DR   GeneWiki; RHOA; -.
+DR   GenomeRNAi; 387; -.
+DR   NextBio; 1611; -.
+DR   PMAP-CutDB; P61586; -.
+DR   PRO; PR:P61586; -.
+DR   Proteomes; UP000005640; Chromosome 3.
+DR   Bgee; P61586; -.
+DR   CleanEx; HS_RHOA; -.
+DR   ExpressionAtlas; P61586; baseline and differential.
+DR   Genevisible; P61586; HS.
+DR   GO; GO:0043296; C:apical junction complex; IDA:UniProtKB.
+DR   GO; GO:0005938; C:cell cortex; IDA:UniProtKB.
+DR   GO; GO:0030054; C:cell junction; TAS:Reactome.
+DR   GO; GO:0032154; C:cleavage furrow; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005856; C:cytoskeleton; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0005789; C:endoplasmic reticulum membrane; TAS:Reactome.
+DR   GO; GO:0005768; C:endosome; IMP:AgBase.
+DR   GO; GO:0070062; C:extracellular exosome; IDA:UniProtKB.
+DR   GO; GO:0005925; C:focal adhesion; IDA:UniProtKB.
+DR   GO; GO:0030027; C:lamellipodium; ISS:UniProtKB.
+DR   GO; GO:0030496; C:midbody; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005886; C:plasma membrane; TAS:Reactome.
+DR   GO; GO:0031982; C:vesicle; IDA:AgBase.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; TAS:UniProtKB.
+DR   GO; GO:0017022; F:myosin binding; IPI:UniProtKB.
+DR   GO; GO:0030036; P:actin cytoskeleton organization; TAS:UniProtKB.
+DR   GO; GO:0043297; P:apical junction assembly; IMP:UniProtKB.
+DR   GO; GO:0038027; P:apolipoprotein A-I-mediated signaling pathway; IMP:UniProtKB.
+DR   GO; GO:0007411; P:axon guidance; TAS:Reactome.
+DR   GO; GO:0007596; P:blood coagulation; TAS:Reactome.
+DR   GO; GO:0036089; P:cleavage furrow formation; IDA:UniProtKB.
+DR   GO; GO:0048013; P:ephrin receptor signaling pathway; TAS:Reactome.
+DR   GO; GO:0008152; P:metabolic process; TAS:GOC.
+DR   GO; GO:0090307; P:mitotic spindle assembly; IMP:BHF-UCL.
+DR   GO; GO:0050919; P:negative chemotaxis; IMP:UniProtKB.
+DR   GO; GO:0050771; P:negative regulation of axonogenesis; TAS:Reactome.
+DR   GO; GO:0048011; P:neurotrophin TRK receptor signaling pathway; TAS:Reactome.
+DR   GO; GO:0043931; P:ossification involved in bone maturation; ISS:BHF-UCL.
+DR   GO; GO:0048015; P:phosphatidylinositol-mediated signaling; TAS:Reactome.
+DR   GO; GO:0030168; P:platelet activation; TAS:Reactome.
+DR   GO; GO:0050772; P:positive regulation of axonogenesis; TAS:Reactome.
+DR   GO; GO:0032467; P:positive regulation of cytokinesis; IMP:UniProtKB.
+DR   GO; GO:0043123; P:positive regulation of I-kappaB kinase/NF-kappaB signaling; IEP:UniProtKB.
+DR   GO; GO:0060193; P:positive regulation of lipase activity; IDA:AgBase.
+DR   GO; GO:0045666; P:positive regulation of neuron differentiation; IMP:MGI.
+DR   GO; GO:0042346; P:positive regulation of NF-kappaB import into nucleus; NAS:UniProtKB.
+DR   GO; GO:0051496; P:positive regulation of stress fiber assembly; IDA:MGI.
+DR   GO; GO:0050770; P:regulation of axonogenesis; TAS:Reactome.
+DR   GO; GO:0030334; P:regulation of cell migration; IMP:UniProtKB.
+DR   GO; GO:0033688; P:regulation of osteoblast proliferation; ISS:BHF-UCL.
+DR   GO; GO:0051056; P:regulation of small GTPase mediated signal transduction; TAS:Reactome.
+DR   GO; GO:0007266; P:Rho protein signal transduction; TAS:UniProtKB.
+DR   GO; GO:1902766; P:skeletal muscle satellite cell migration; ISS:AgBase.
+DR   GO; GO:0007264; P:small GTPase mediated signal transduction; TAS:Reactome.
+DR   GO; GO:0021762; P:substantia nigra development; IEP:UniProtKB.
+DR   GO; GO:0061383; P:trabecula morphogenesis; ISS:BHF-UCL.
+DR   GO; GO:0007179; P:transforming growth factor beta receptor signaling pathway; TAS:Reactome.
+DR   GO; GO:0048010; P:vascular endothelial growth factor receptor signaling pathway; TAS:Reactome.
+DR   GO; GO:0016032; P:viral process; IEA:UniProtKB-KW.
+DR   GO; GO:0044319; P:wound healing, spreading of cells; ISS:AgBase.
+DR   Gene3D; 3.40.50.300; -; 1.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   InterPro; IPR005225; Small_GTP-bd_dom.
+DR   InterPro; IPR001806; Small_GTPase.
+DR   InterPro; IPR003578; Small_GTPase_Rho.
+DR   Pfam; PF00071; Ras; 1.
+DR   PRINTS; PR00449; RASTRNSFRMNG.
+DR   SMART; SM00174; RHO; 1.
+DR   SUPFAM; SSF52540; SSF52540; 1.
+DR   TIGRFAMs; TIGR00231; small_GTP; 1.
+DR   PROSITE; PS51420; RHO; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; ADP-ribosylation; Cell cycle; Cell division;
+KW   Cell membrane; Cell projection; Complete proteome; Cytoplasm;
+KW   Cytoskeleton; Direct protein sequencing; GTP-binding;
+KW   Host-virus interaction; Lipoprotein; Magnesium; Membrane; Methylation;
+KW   Nucleotide-binding; Phosphoprotein; Prenylation; Proto-oncogene;
+KW   Reference proteome; Ubl conjugation.
+FT   CHAIN         1    190       Transforming protein RhoA.
+FT                                /FTId=PRO_0000030411.
+FT   PROPEP      191    193       Removed in mature form.
+FT                                /FTId=PRO_0000030412.
+FT   NP_BIND      12     19       GTP.
+FT   NP_BIND      59     63       GTP. {ECO:0000250}.
+FT   NP_BIND     117    120       GTP.
+FT   MOTIF        34     42       Effector region. {ECO:0000255}.
+FT   COMPBIAS    182    187       Arg/Lys-rich (basic).
+FT   SITE        189    190       Cleavage; by yopT.
+FT   MOD_RES      34     34       O-AMP-tyrosine; by Haemophilus IbpA.
+FT                                {ECO:0000269|PubMed:19362538}.
+FT   MOD_RES      37     37       O-AMP-threonine; by Vibrio VopS.
+FT                                {ECO:0000269|PubMed:19039103}.
+FT   MOD_RES      41     41       ADP-ribosylasparagine; by botulinum
+FT                                toxin. {ECO:0000305|PubMed:1328215}.
+FT   MOD_RES     188    188       Phosphoserine; by PKG/PRKG1.
+FT                                {ECO:0000269|PubMed:11162591}.
+FT   MOD_RES     190    190       Cysteine methyl ester. {ECO:0000250}.
+FT   LIPID       190    190       S-geranylgeranyl cysteine. {ECO:0000250}.
+FT   MUTAGEN      14     14       G->V: Causes constitutive activation.
+FT                                {ECO:0000269|PubMed:19948726}.
+FT   MUTAGEN      34     34       Y->A: Abolishes interaction with DGKQ.
+FT                                {ECO:0000269|PubMed:10066731,
+FT                                ECO:0000269|PubMed:19362538}.
+FT   MUTAGEN      34     34       Y->F: Abolishes AMPylation by Haemophilus
+FT                                IbpA. {ECO:0000269|PubMed:10066731,
+FT                                ECO:0000269|PubMed:19362538}.
+FT   MUTAGEN      63     63       Q->L: Causes constitutive activation.
+FT   MUTAGEN     193    193       L->M: Converts geranyl-geranylation to
+FT                                farnesylation; does not prevent the
+FT                                cleavage by yopT.
+FT                                {ECO:0000269|PubMed:12538863}.
+FT   CONFLICT     23     23       I -> T (in Ref. 5; BAD96276).
+FT                                {ECO:0000305}.
+FT   STRAND        5     13       {ECO:0000244|PDB:1KMQ}.
+FT   HELIX        14     16       {ECO:0000244|PDB:4XH9}.
+FT   HELIX        18     27       {ECO:0000244|PDB:1KMQ}.
+FT   STRAND       38     48       {ECO:0000244|PDB:1KMQ}.
+FT   STRAND       51     60       {ECO:0000244|PDB:1KMQ}.
+FT   HELIX        64     66       {ECO:0000244|PDB:1KMQ}.
+FT   TURN         67     69       {ECO:0000244|PDB:1KMQ}.
+FT   HELIX        70     73       {ECO:0000244|PDB:1KMQ}.
+FT   STRAND       78     85       {ECO:0000244|PDB:1KMQ}.
+FT   HELIX        89     97       {ECO:0000244|PDB:1KMQ}.
+FT   HELIX        99    106       {ECO:0000244|PDB:1KMQ}.
+FT   STRAND      112    117       {ECO:0000244|PDB:1KMQ}.
+FT   HELIX       119    121       {ECO:0000244|PDB:1KMQ}.
+FT   HELIX       125    133       {ECO:0000244|PDB:1KMQ}.
+FT   HELIX       141    150       {ECO:0000244|PDB:1KMQ}.
+FT   STRAND      154    158       {ECO:0000244|PDB:1KMQ}.
+FT   TURN        161    163       {ECO:0000244|PDB:1KMQ}.
+FT   HELIX       167    179       {ECO:0000244|PDB:1KMQ}.
+SQ   SEQUENCE   193 AA;  21768 MW;  C4DA2DC31FF858BC CRC64;
+     MAAIRKKLVI VGDGACGKTC LLIVFSKDQF PEVYVPTVFE NYVADIEVDG KQVELALWDT
+     AGQEDYDRLR PLSYPDTDVI LMCFSIDSPD SLENIPEKWT PEVKHFCPNV PIILVGNKKD
+     LRNDEHTRRE LAKMKQEPVK PEEGRDMANR IGAFGYMECS AKTKDGVREV FEMATRAALQ
+     ARRGKKKSGC LVL
+//

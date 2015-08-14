@@ -1,0 +1,110 @@
+ID   B9MKT4_CALBD            Unreviewed;       460 AA.
+AC   B9MKT4;
+DT   24-MAR-2009, integrated into UniProtKB/TrEMBL.
+DT   24-MAR-2009, sequence version 1.
+DT   22-JUL-2015, entry version 46.
+DE   SubName: Full=Pectate lyase {ECO:0000313|EMBL:ACM60942.1};
+DE            EC=4.2.2.2 {ECO:0000313|EMBL:ACM60942.1};
+DE   Flags: Precursor;
+GN   OrderedLocusNames=Athe_1854 {ECO:0000313|EMBL:ACM60942.1};
+OS   Caldicellulosiruptor bescii (strain ATCC BAA-1888 / DSM 6725 / Z-1320)
+OS   (Anaerocellum thermophilum).
+OC   Bacteria; Firmicutes; Clostridia; Thermoanaerobacterales;
+OC   Thermoanaerobacterales Family III. Incertae Sedis;
+OC   Caldicellulosiruptor.
+OX   NCBI_TaxID=521460 {ECO:0000313|EMBL:ACM60942.1, ECO:0000313|Proteomes:UP000007723};
+RN   [1] {ECO:0000313|Proteomes:UP000007723}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC BAA-1888 / DSM 6725 / Z-1320
+RC   {ECO:0000313|Proteomes:UP000007723};
+RA   Lucas S., Copeland A., Lapidus A., Glavina del Rio T., Tice H.,
+RA   Bruce D., Goodwin L., Pitluck S., Sims D., Meincke L., Brettin T.,
+RA   Detter J.C., Han C., Larimer F., Land M., Hauser L., Kyrpides N.,
+RA   Ovchinnikova G., Kataeva I., Adams M.W.W.;
+RT   "Complete sequence of chromosome of Anaerocellum thermophilum DSM
+RT   6725.";
+RL   Submitted (JAN-2009) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:3T9G}
+RP   X-RAY CRYSTALLOGRAPHY (1.50 ANGSTROMS) OF 268-460 IN COMPLEX WITH
+RP   CALCIUM.
+RX   PubMed=22139151;
+RA   Alahuhta M., Chandrayan P., Kataeva I., Adams M.W., Himmel M.E.,
+RA   Lunin V.V.;
+RT   "A 1.5 A resolution X-ray structure of the catalytic module of
+RT   Caldicellulosiruptor bescii family 3 pectate lyase.";
+RL   Acta Crystallogr. F 67:1498-1500(2011).
+RN   [3] {ECO:0000213|PDB:4EW9}
+RP   X-RAY CRYSTALLOGRAPHY (1.60 ANGSTROMS) OF 268-460 IN COMPLEX WITH
+RP   CALCIUM.
+RA   Alahuhta P.M., Lunin V.V.;
+RT   "The liganded structure of C. bescii family 3 pectate lyase.";
+RL   Submitted (APR-2012) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP001393; ACM60942.1; -; Genomic_DNA.
+DR   PDB; 3T9G; X-ray; 1.50 A; A/B=268-460.
+DR   PDB; 4EW9; X-ray; 1.60 A; A/B=268-460.
+DR   PDBsum; 3T9G; -.
+DR   PDBsum; 4EW9; -.
+DR   STRING; 521460.Athe_1854; -.
+DR   EnsemblBacteria; ACM60942; ACM60942; Athe_1854.
+DR   KEGG; ate:Athe_1854; -.
+DR   PATRIC; 20900890; VBIAnaThe135187_1939.
+DR   eggNOG; NOG05501; -.
+DR   HOGENOM; HOG000092739; -.
+DR   OMA; KVVIYLE; -.
+DR   OrthoDB; EOG6K9QH3; -.
+DR   BioCyc; CBES521460:GH8H-1892-MONOMER; -.
+DR   Proteomes; UP000007723; Chromosome.
+DR   GO; GO:0005576; C:extracellular region; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0030570; F:pectate lyase activity; IEA:UniProtKB-EC.
+DR   Gene3D; 2.160.20.10; -; 1.
+DR   Gene3D; 2.60.120.200; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR010496; DUF1080.
+DR   InterPro; IPR004898; Pectate_lyase_cat.
+DR   InterPro; IPR012334; Pectin_lyas_fold.
+DR   InterPro; IPR011050; Pectin_lyase_fold/virulence.
+DR   Pfam; PF06439; DUF1080; 1.
+DR   Pfam; PF03211; Pectate_lyase; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   SUPFAM; SSF51126; SSF51126; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3T9G, ECO:0000213|PDB:4EW9};
+KW   Calcium {ECO:0000213|PDB:3T9G, ECO:0000213|PDB:4EW9};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000007723};
+KW   Lyase {ECO:0000313|EMBL:ACM60942.1};
+KW   Metal-binding {ECO:0000213|PDB:3T9G, ECO:0000213|PDB:4EW9};
+KW   Signal {ECO:0000313|EMBL:ACM60942.1}.
+FT   SIGNAL        1     35       Potential. {ECO:0000313|EMBL:ACM60942.1}.
+FT   CHAIN        36    460       Potential. {ECO:0000313|EMBL:ACM60942.1}.
+FT                                /FTId=PRO_5000437570.
+FT   METAL       304    304       Calcium 1. {ECO:0000213|PDB:4EW9}.
+FT   METAL       306    306       Calcium 2. {ECO:0000213|PDB:4EW9}.
+FT   METAL       331    331       Calcium 3. {ECO:0000213|PDB:4EW9}.
+FT   METAL       348    348       Calcium 4. {ECO:0000213|PDB:3T9G,
+FT                                ECO:0000213|PDB:4EW9}.
+FT   METAL       349    349       Calcium 4; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:3T9G,
+FT                                ECO:0000213|PDB:4EW9}.
+FT   METAL       351    351       Calcium 1. {ECO:0000213|PDB:4EW9}.
+FT   METAL       351    351       Calcium 2. {ECO:0000213|PDB:4EW9}.
+FT   METAL       351    351       Calcium 3. {ECO:0000213|PDB:4EW9}.
+FT   METAL       352    352       Calcium 3. {ECO:0000213|PDB:4EW9}.
+FT   METAL       371    371       Calcium 4; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:3T9G,
+FT                                ECO:0000213|PDB:4EW9}.
+FT   METAL       374    374       Calcium 1. {ECO:0000213|PDB:4EW9}.
+SQ   SEQUENCE   460 AA;  49155 MW;  4C25D804068A978A CRC64;
+     MIKSKNKKEE VWVMSNRKIL AIVVSLIMVV SLFTGIGLRN EVAKAATLLT DDFEDGNRDG
+     WSTSNGSWSV VVDGSKVLKQ ASTGSEARAY TGSSDWSDYT VEAKVKVLNV KDSSSGAGVI
+     VRYKNSGNFY ALVLRGSKIE IGKKLNSNWS TLAFKSFTLD QDTWYNVKLE VNGSKLVGYV
+     NGSQVLSASD LSITTGKAGL IADRCVAEFD DVVVNSSVSG TAPTPTPTPT SSVTPTPTST
+     PTPTKTPTPT STPVPTQTPA VTPTPTPNTG GVLVITDTII VKSGQTYDGK GIKIIAQGMG
+     DGSQSENQKP IFKLEKGANL KNVIIGAPGC DGIHCYGDNV VENVVWEDVG EDALTVKSEG
+     VVEVIGGSAK EAADKVFQLN APCTFKVKNF TATNIGKLVR QNGNTTFKVV IYLEDVTLNN
+     VKSCVAKSDS PVSELWYHNL NVNNCKTLFE FPSQSQIHQY
+//

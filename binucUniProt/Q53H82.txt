@@ -1,0 +1,224 @@
+ID   LACB2_HUMAN             Reviewed;         288 AA.
+AC   Q53H82; A8K2D6; Q9Y392;
+DT   15-JAN-2008, integrated into UniProtKB/Swiss-Prot.
+DT   15-JAN-2008, sequence version 2.
+DT   22-JUL-2015, entry version 83.
+DE   RecName: Full=Beta-lactamase-like protein 2;
+DE            EC=3.-.-.-;
+GN   Name=LACTB2; ORFNames=CGI-83;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RX   PubMed=10810093; DOI=10.1101/gr.10.5.703;
+RA   Lai C.-H., Chou C.-Y., Ch'ang L.-Y., Liu C.-S., Lin W.-C.;
+RT   "Identification of novel human genes evolutionarily conserved in
+RT   Caenorhabditis elegans by comparative proteomics.";
+RL   Genome Res. 10:703-713(2000).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Thalamus;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A.,
+RA   Sudo H., Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M.,
+RA   Takahashi M., Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y.,
+RA   Abe K., Kamihara K., Katsuta N., Sato K., Tanikawa M., Yamazaki M.,
+RA   Ninomiya K., Ishibashi T., Yamashita H., Murakawa K., Fujimori K.,
+RA   Tanai H., Kimata M., Watanabe M., Hiraoka S., Chiba Y., Ishida S.,
+RA   Ono Y., Takiguchi S., Watanabe S., Yosida M., Hotuta T., Kusano J.,
+RA   Kanehori K., Takahashi-Fujii A., Hara H., Tanase T.-O., Nomura Y.,
+RA   Togiya S., Komai F., Hara R., Takeuchi K., Arita M., Imose N.,
+RA   Musashino K., Yuuki H., Oshima A., Sasaki N., Aotsuka S.,
+RA   Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y.,
+RA   Fujimori Y., Komiyama M., Tashiro H., Tanigami A., Fujiwara T.,
+RA   Ono T., Yamada K., Fujii Y., Ozaki K., Hirao M., Ohmori Y.,
+RA   Kawabata A., Hikiji T., Kobatake N., Inagaki H., Ikema Y., Okamoto S.,
+RA   Okitani R., Kawakami T., Noguchi S., Itoh T., Shigeta K., Senba T.,
+RA   Matsumura K., Nakajima Y., Mizuno T., Morinaga M., Sasaki M.,
+RA   Togashi T., Oyama M., Hata H., Watanabe M., Komatsu T.,
+RA   Mizushima-Sugano J., Satoh T., Shirai Y., Takahashi Y., Nakagawa K.,
+RA   Okumura K., Nagase T., Nomura N., Kikuchi H., Masuho Y., Yamashita R.,
+RA   Nakai K., Yada T., Nakamura Y., Ohara O., Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Brain;
+RA   Suzuki Y., Sugano S., Totoki Y., Toyoda A., Takeda T., Sakaki Y.,
+RA   Tanaka A., Yokoyama S.;
+RL   Submitted (APR-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L.,
+RA   Mobarry C.M., Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R.,
+RA   Flanigan M.J., Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V.,
+RA   Hannenhalli S., Turner R., Yooseph S., Lu F., Nusskern D.R.,
+RA   Shue B.C., Zheng X.H., Zhong F., Delcher A.L., Huson D.H.,
+RA   Kravitz S.A., Mouchard L., Reinert K., Remington K.A., Clark A.G.,
+RA   Waterman M.S., Eichler E.E., Adams M.D., Hunkapiller M.W., Myers E.W.,
+RA   Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Cervix;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P.,
+RA   Buerckstuemmer T., Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [7]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D.,
+RA   Wang L., Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human
+RT   liver phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+CC   -!- INTERACTION:
+CC       Q8IUQ4:SIAH1; NbExp=3; IntAct=EBI-3943430, EBI-747107;
+CC   -!- SIMILARITY: Belongs to the metallo-beta-lactamase superfamily.
+CC       Glyoxalase II family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF151841; AAD34078.1; -; mRNA.
+DR   EMBL; AK290201; BAF82890.1; -; mRNA.
+DR   EMBL; AK222699; BAD96419.1; -; mRNA.
+DR   EMBL; CH471068; EAW86969.1; -; Genomic_DNA.
+DR   EMBL; BC000878; AAH00878.1; -; mRNA.
+DR   CCDS; CCDS6208.1; -.
+DR   PIR; T44603; T44603.
+DR   RefSeq; NP_057111.1; NM_016027.2.
+DR   UniGene; Hs.118554; -.
+DR   PDB; 4AD9; X-ray; 2.60 A; A/B/C/D/E/F=1-288.
+DR   PDBsum; 4AD9; -.
+DR   ProteinModelPortal; Q53H82; -.
+DR   SMR; Q53H82; 1-288.
+DR   BioGrid; 119299; 12.
+DR   IntAct; Q53H82; 2.
+DR   STRING; 9606.ENSP00000276590; -.
+DR   BioMuta; LACTB2; -.
+DR   DMDM; 166223244; -.
+DR   REPRODUCTION-2DPAGE; IPI00006952; -.
+DR   MaxQB; Q53H82; -.
+DR   PaxDb; Q53H82; -.
+DR   PeptideAtlas; Q53H82; -.
+DR   PRIDE; Q53H82; -.
+DR   DNASU; 51110; -.
+DR   Ensembl; ENST00000276590; ENSP00000276590; ENSG00000147592.
+DR   Ensembl; ENST00000522447; ENSP00000428801; ENSG00000147592.
+DR   GeneID; 51110; -.
+DR   KEGG; hsa:51110; -.
+DR   UCSC; uc003xyp.3; human.
+DR   CTD; 51110; -.
+DR   GeneCards; GC08M071549; -.
+DR   HGNC; HGNC:18512; LACTB2.
+DR   HPA; HPA044391; -.
+DR   HPA; HPA053040; -.
+DR   neXtProt; NX_Q53H82; -.
+DR   PharmGKB; PA134952605; -.
+DR   eggNOG; COG0491; -.
+DR   GeneTree; ENSGT00390000001710; -.
+DR   HOGENOM; HOG000246879; -.
+DR   HOVERGEN; HBG099837; -.
+DR   InParanoid; Q53H82; -.
+DR   OMA; YYINHRN; -.
+DR   OrthoDB; EOG7XM2ZK; -.
+DR   PhylomeDB; Q53H82; -.
+DR   TreeFam; TF314297; -.
+DR   GenomeRNAi; 51110; -.
+DR   NextBio; 35463900; -.
+DR   PRO; PR:Q53H82; -.
+DR   Proteomes; UP000005640; Chromosome 8.
+DR   Bgee; Q53H82; -.
+DR   CleanEx; HS_LACTB2; -.
+DR   ExpressionAtlas; Q53H82; baseline and differential.
+DR   Genevisible; Q53H82; HS.
+DR   GO; GO:0005739; C:mitochondrion; IEA:Ensembl.
+DR   GO; GO:0016787; F:hydrolase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.60.15.10; -; 1.
+DR   InterPro; IPR001279; Beta-lactamas-like.
+DR   Pfam; PF00753; Lactamase_B; 1.
+DR   SMART; SM00849; Lactamase_B; 1.
+DR   SUPFAM; SSF56281; SSF56281; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Complete proteome; Hydrolase;
+KW   Metal-binding; Reference proteome; Zinc.
+FT   CHAIN         1    288       Beta-lactamase-like protein 2.
+FT                                /FTId=PRO_0000315743.
+FT   METAL        77     77       Zinc 1. {ECO:0000250}.
+FT   METAL        79     79       Zinc 1. {ECO:0000250}.
+FT   METAL        81     81       Zinc 2. {ECO:0000250}.
+FT   METAL        82     82       Zinc 2. {ECO:0000250}.
+FT   METAL       145    145       Zinc 1. {ECO:0000250}.
+FT   METAL       164    164       Zinc 1. {ECO:0000250}.
+FT   METAL       164    164       Zinc 2. {ECO:0000250}.
+FT   METAL       199    199       Zinc 2. {ECO:0000250}.
+FT   MOD_RES     102    102       N6-acetyllysine.
+FT                                {ECO:0000250|UniProtKB:Q99KR3}.
+FT   MOD_RES     273    273       N6-succinyllysine.
+FT                                {ECO:0000250|UniProtKB:Q99KR3}.
+FT   MOD_RES     282    282       N6-acetyllysine.
+FT                                {ECO:0000250|UniProtKB:Q99KR3}.
+FT   CONFLICT     39     39       G -> S (in Ref. 2; BAF82890).
+FT                                {ECO:0000305}.
+FT   CONFLICT    268    268       L -> P (in Ref. 3; BAD96419).
+FT                                {ECO:0000305}.
+FT   STRAND        7     10       {ECO:0000244|PDB:4AD9}.
+FT   STRAND       12     19       {ECO:0000244|PDB:4AD9}.
+FT   TURN         25     27       {ECO:0000244|PDB:4AD9}.
+FT   STRAND       32     36       {ECO:0000244|PDB:4AD9}.
+FT   STRAND       38     45       {ECO:0000244|PDB:4AD9}.
+FT   HELIX        53     65       {ECO:0000244|PDB:4AD9}.
+FT   STRAND       70     74       {ECO:0000244|PDB:4AD9}.
+FT   HELIX        80     83       {ECO:0000244|PDB:4AD9}.
+FT   HELIX        86     92       {ECO:0000244|PDB:4AD9}.
+FT   STRAND      101    103       {ECO:0000244|PDB:4AD9}.
+FT   TURN        115    118       {ECO:0000244|PDB:4AD9}.
+FT   STRAND      121    123       {ECO:0000244|PDB:4AD9}.
+FT   STRAND      129    132       {ECO:0000244|PDB:4AD9}.
+FT   STRAND      135    141       {ECO:0000244|PDB:4AD9}.
+FT   STRAND      144    146       {ECO:0000244|PDB:4AD9}.
+FT   STRAND      150    154       {ECO:0000244|PDB:4AD9}.
+FT   TURN        155    158       {ECO:0000244|PDB:4AD9}.
+FT   STRAND      159    163       {ECO:0000244|PDB:4AD9}.
+FT   STRAND      168    170       {ECO:0000244|PDB:4AD9}.
+FT   HELIX       177    190       {ECO:0000244|PDB:4AD9}.
+FT   STRAND      193    201       {ECO:0000244|PDB:4AD9}.
+FT   HELIX       206    230       {ECO:0000244|PDB:4AD9}.
+FT   TURN        231    233       {ECO:0000244|PDB:4AD9}.
+FT   HELIX       238    245       {ECO:0000244|PDB:4AD9}.
+FT   TURN        246    248       {ECO:0000244|PDB:4AD9}.
+FT   HELIX       251    253       {ECO:0000244|PDB:4AD9}.
+FT   HELIX       254    270       {ECO:0000244|PDB:4AD9}.
+FT   STRAND      273    276       {ECO:0000244|PDB:4AD9}.
+FT   STRAND      284    286       {ECO:0000244|PDB:4AD9}.
+SQ   SEQUENCE   288 AA;  32806 MW;  F569C7DFB070D52C CRC64;
+     MAAVLQRVER LSNRVVRVLG CNPGPMTLQG TNTYLVGTGP RRILIDTGEP AIPEYISCLK
+     QALTEFNTAI QEIVVTHWHR DHSGGIGDIC KSINNDTTYC IKKLPRNPQR EEIIGNGEQQ
+     YVYLKDGDVI KTEGATLRVL YTPGHTDDHM ALLLEEENAI FSGDCILGEG TTVFEDLYDY
+     MNSLKELLKI KADIIYPGHG PVIHNAEAKI QQYISHRNIR EQQILTLFRE NFEKSFTVME
+     LVKIIYKNTP ENLHEMAKHN LLLHLKKLEK EGKIFSNTDP DKKWKAHL
+//

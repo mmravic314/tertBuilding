@@ -1,0 +1,152 @@
+ID   Q72547_9HIV1            Unreviewed;       566 AA.
+AC   Q72547;
+DT   01-NOV-1996, integrated into UniProtKB/TrEMBL.
+DT   01-NOV-1996, sequence version 1.
+DT   04-FEB-2015, entry version 107.
+DE   SubName: Full=Reverse transcriptase/RNaseH {ECO:0000313|EMBL:AAA93161.1};
+DE   Flags: Fragment;
+GN   Name=pol {ECO:0000313|EMBL:AAA93161.1};
+OS   Human immunodeficiency virus 1.
+OC   Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae;
+OC   Lentivirus; Primate lentivirus group.
+OX   NCBI_TaxID=11676 {ECO:0000313|EMBL:AAA93161.1};
+OH   NCBI_TaxID=9606; Homo sapiens (Human).
+RN   [1] {ECO:0000313|EMBL:AAA93161.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=HXBC {ECO:0000313|EMBL:AAA93161.1};
+RX   PubMed=7545854; DOI=10.1006/viro.1995.1453;
+RA   Tachedjian G., Hooker D.J., Gurusinghe A.D., Bazmi H., Deacon N.J.,
+RA   Mellors J., Birch C., Mills J.;
+RT   "Characterisation of foscarnet-resistant strains of human
+RT   immunodeficiency virus type 1.";
+RL   Virology 212:58-68(1995).
+RN   [2] {ECO:0000213|PDB:2JLE}
+RP   X-RAY CRYSTALLOGRAPHY (2.90 ANGSTROMS).
+RX   PubMed=19175319; DOI=10.1021/jm801322h;
+RA   Jones L.H., Allan G., Barba O., Burt C., Corbau R., Dupont T.,
+RA   Knochel T., Irving S., Middleton D.S., Mowbray C.E., Perros M.,
+RA   Ringrose H., Swain N.A., Webster R., Westby M., Phillips C.;
+RT   "Novel indazole non-nucleoside reverse transcriptase inhibitors using
+RT   molecular hybridization based on crystallographic overlays.";
+RL   J. Med. Chem. 52:1219-1223(2009).
+RN   [3] {ECO:0000213|PDB:3HYF}
+RP   X-RAY CRYSTALLOGRAPHY (1.70 ANGSTROMS) OF 427-506 AND 517-561 IN
+RP   COMPLEX WITH MANGANESE.
+RX   PubMed=19791799; DOI=10.1021/jm900597q;
+RA   Kirschberg T.A., Balakrishnan M., Squires N.H., Barnes T.,
+RA   Brendza K.M., Chen X., Eisenberg E.J., Jin W., Kutty N., Leavitt S.,
+RA   Liclican A., Liu Q., Liu X., Mak J., Perry J.K., Wang M.,
+RA   Watkins W.J., Lansdon E.B.;
+RT   "RNase H active site inhibitors of human immunodeficiency virus type 1
+RT   reverse transcriptase: design, biochemical activity, and structural
+RT   information.";
+RL   J. Med. Chem. 52:5781-5784(2009).
+RN   [4] {ECO:0000213|PDB:3QIN, ECO:0000213|PDB:3QIO}
+RP   X-RAY CRYSTALLOGRAPHY (1.40 ANGSTROMS) OF 427-506 AND 517-561 IN
+RP   COMPLEX WITH MANGANESE.
+RX   PubMed=21464257; DOI=10.1128/AAC.01594-10;
+RA   Lansdon E.B., Liu Q., Leavitt S.A., Balakrishnan M., Perry J.K.,
+RA   Lancaster-Moyer C., Kutty N., Liu X., Squires N.H., Watkins W.J.,
+RA   Kirschberg T.A.;
+RT   "Structural and binding analysis of pyrimidinol carboxylic acid and N-
+RT   hydroxy quinazolinedione HIV-1 RNase H inhibitors.";
+RL   Antimicrob. Agents Chemother. 55:2905-2915(2011).
+CC   -!- CATALYTIC ACTIVITY: Deoxynucleoside triphosphate + DNA(n) =
+CC       diphosphate + DNA(n+1). {ECO:0000256|SAAS:SAAS00108528}.
+CC   -!- INTERACTION:
+CC       Self; NbExp=3; IntAct=EBI-7484755, EBI-7484755;
+CC   -!- SIMILARITY: Contains 1 reverse transcriptase domain.
+CC       {ECO:0000256|RuleBase:RU000322}.
+CC   -!- SIMILARITY: Contains RNase H domain.
+CC       {ECO:0000256|SAAS:SAAS00142830}.
+CC   -!- SIMILARITY: Contains reverse transcriptase domain.
+CC       {ECO:0000256|SAAS:SAAS00108563}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U28646; AAA93161.1; -; Genomic_DNA.
+DR   PIR; A47330; A47330.
+DR   PIR; B47330; B47330.
+DR   PIR; C47330; C47330.
+DR   PIR; D47330; D47330.
+DR   PIR; E47330; E47330.
+DR   PIR; F47330; F47330.
+DR   PIR; S32132; S32132.
+DR   PDB; 2JLE; X-ray; 2.90 A; A/B=1-566.
+DR   PDB; 3HYF; X-ray; 1.70 A; A=427-506, A=517-561.
+DR   PDB; 3QIN; X-ray; 1.70 A; A=427-506, A=517-561.
+DR   PDB; 3QIO; X-ray; 1.40 A; A=427-506, A=517-561.
+DR   PDBsum; 2JLE; -.
+DR   PDBsum; 3HYF; -.
+DR   PDBsum; 3QIN; -.
+DR   PDBsum; 3QIO; -.
+DR   ProteinModelPortal; Q72547; -.
+DR   IntAct; Q72547; 1.
+DR   MINT; MINT-8208544; -.
+DR   BindingDB; Q72547; -.
+DR   ChEMBL; CHEMBL247; -.
+DR   DrugBank; DB01048; Abacavir.
+DR   DrugBank; DB00705; Delavirdine.
+DR   DrugBank; DB00900; Didanosine.
+DR   DrugBank; DB00625; Efavirenz.
+DR   DrugBank; DB00879; Emtricitabine.
+DR   DrugBank; DB00709; Lamivudine.
+DR   DrugBank; DB00238; Nevirapine.
+DR   DrugBank; DB08864; Rilpivirine.
+DR   DrugBank; DB00649; Stavudine.
+DR   DrugBank; DB00300; Tenofovir.
+DR   DrugBank; DB00943; Zalcitabine.
+DR   DrugBank; DB00495; Zidovudine.
+DR   EvolutionaryTrace; Q72547; -.
+DR   GO; GO:0042802; F:identical protein binding; IPI:IntAct.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003676; F:nucleic acid binding; IEA:InterPro.
+DR   GO; GO:0003964; F:RNA-directed DNA polymerase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0004523; F:RNA-DNA hybrid ribonuclease activity; IEA:InterPro.
+DR   Gene3D; 3.30.420.10; -; 1.
+DR   InterPro; IPR012337; RNaseH-like_dom.
+DR   InterPro; IPR002156; RNaseH_domain.
+DR   InterPro; IPR000477; RT_dom.
+DR   InterPro; IPR010659; RVT_connect.
+DR   InterPro; IPR010661; RVT_thumb.
+DR   Pfam; PF00075; RNase_H; 1.
+DR   Pfam; PF00078; RVT_1; 1.
+DR   Pfam; PF06815; RVT_connect; 1.
+DR   Pfam; PF06817; RVT_thumb; 1.
+DR   SUPFAM; SSF53098; SSF53098; 1.
+DR   PROSITE; PS50879; RNASE_H; 1.
+DR   PROSITE; PS50878; RT_POL; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2JLE, ECO:0000213|PDB:3HYF};
+KW   Manganese {ECO:0000213|PDB:3HYF, ECO:0000213|PDB:3QIN};
+KW   Metal-binding {ECO:0000213|PDB:3HYF, ECO:0000213|PDB:3QIN};
+KW   Nucleotidyltransferase {ECO:0000256|SAAS:SAAS00108448,
+KW   ECO:0000313|EMBL:AAA93161.1};
+KW   RNA-directed DNA polymerase {ECO:0000256|SAAS:SAAS00108448,
+KW   ECO:0000313|EMBL:AAA93161.1};
+KW   Transferase {ECO:0000256|SAAS:SAAS00108448,
+KW   ECO:0000313|EMBL:AAA93161.1}.
+FT   METAL       443    443       Manganese. {ECO:0000213|PDB:3HYF,
+FT                                ECO:0000213|PDB:3QIN,
+FT                                ECO:0000213|PDB:3QIO}.
+FT   METAL       478    478       Manganese. {ECO:0000213|PDB:3HYF,
+FT                                ECO:0000213|PDB:3QIN,
+FT                                ECO:0000213|PDB:3QIO}.
+FT   METAL       498    498       Manganese. {ECO:0000213|PDB:3HYF,
+FT                                ECO:0000213|PDB:3QIN,
+FT                                ECO:0000213|PDB:3QIO}.
+FT   NON_TER       1      1       {ECO:0000313|EMBL:AAA93161.1}.
+FT   NON_TER     566    566       {ECO:0000313|EMBL:AAA93161.1}.
+SQ   SEQUENCE   566 AA;  65224 MW;  AA4B9287ECC4E5C6 CRC64;
+     PISPIETVPV KLKPGMDGPK VKQWPLTEEK IKALVEICTE MEKEGKISKI GPENPYNTPV
+     FAIKKKDSTK WRKLVDFREL NKRTQDFWEV QLGIPHPAGL KKRKSVTVLD VGDAYFSVPL
+     DEDFRKYTAF TIPSINNETP GIRYQYNVLP QGWKGSPAIF QSSMTKILEP FRKQNPDIVI
+     YQYMDDLYVG SDLEIGQHRT KIEELRQHLL RWGLTTPDKK HQKEPPFLWM GYELHPDKWT
+     VQPIVLPEKD SWTVNDIQKL VGKLNWASQI YPGIRVRQLC KLLRGTKALT EVIPLTEEAE
+     LELAENREIL KEPVHGVYYD PSKDLIAEIQ KQGQGQWTYQ IYQEPFKNLR TGKYARMRGA
+     HTNDVKQLTE AVQKITTESI VIWGKTPKFK LPIQKETWET WWTEYWQATW IPEWEFVNTP
+     PLVKLWYQLE KEPIVGAETF YVDGAANRET KLGKAGYVTN RGRQKVVTLT DTTNQKTELQ
+     AIYLALQDSG LEVNIVTDSQ YALGIIQAQP DQSESELVNQ IIEQLIKKEK VYLAWVPAHK
+     GIGGNEQVDK LVSAGIRKVL FLDGID
+//

@@ -1,0 +1,325 @@
+ID   RTCB_PYRHO              Reviewed;         871 AA.
+AC   O59245;
+DT   18-APR-2006, integrated into UniProtKB/Swiss-Prot.
+DT   01-AUG-1998, sequence version 1.
+DT   27-MAY-2015, entry version 102.
+DE   RecName: Full=tRNA-splicing ligase RtcB;
+DE            EC=6.5.1.-;
+DE   Contains:
+DE     RecName: Full=Pho hyp2 intein;
+DE              EC=3.1.-.-;
+GN   Name=rtcB; OrderedLocusNames=PH1602;
+OS   Pyrococcus horikoshii (strain ATCC 700860 / DSM 12428 / JCM 9974 /
+OS   NBRC 100139 / OT-3).
+OC   Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae;
+OC   Pyrococcus.
+OX   NCBI_TaxID=70601;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 700860 / DSM 12428 / JCM 9974 / NBRC 100139 / OT-3;
+RX   PubMed=9679194; DOI=10.1093/dnares/5.2.55;
+RA   Kawarabayasi Y., Sawada M., Horikawa H., Haikawa Y., Hino Y.,
+RA   Yamamoto S., Sekine M., Baba S., Kosugi H., Hosoyama A., Nagai Y.,
+RA   Sakai M., Ogura K., Otsuka R., Nakazawa H., Takamiya M., Ohfuku Y.,
+RA   Funahashi T., Tanaka T., Kudoh Y., Yamazaki J., Kushida N., Oguchi A.,
+RA   Aoki K., Yoshizawa T., Nakamura Y., Robb F.T., Horikoshi K.,
+RA   Masuchi Y., Shizuya H., Kikuchi H.;
+RT   "Complete sequence and gene organization of the genome of a hyper-
+RT   thermophilic archaebacterium, Pyrococcus horikoshii OT3.";
+RL   DNA Res. 5:55-76(1998).
+RN   [2]
+RP   FUNCTION.
+RX   PubMed=22320833; DOI=10.1021/bi201921a;
+RA   Desai K.K., Raines R.T.;
+RT   "tRNA ligase catalyzes the GTP-dependent ligation of RNA with 3'-
+RT   phosphate and 5'-hydroxyl termini.";
+RL   Biochemistry 51:1333-1335(2012).
+RN   [3]
+RP   IDENTIFICATION BY MASS SPECTROMETRY, AND MUTAGENESIS OF ASP-65;
+RP   ASP-95; ASN-592; HIS-593; PHE-594; GLU-596; HIS-794 AND LYS-870.
+RX   PubMed=24435797; DOI=10.1093/nar/gkt1375;
+RA   Desai K.K., Cheng C.L., Bingman C.A., Phillips G.N. Jr., Raines R.T.;
+RT   "A tRNA splicing operon: Archease endows RtcB with dual GTP/ATP
+RT   cofactor specificity and accelerates RNA ligation.";
+RL   Nucleic Acids Res. 42:3931-3942(2014).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (2.15 ANGSTROMS) OF 1-97 AND 488-871, AND
+RP   SUBUNIT.
+RX   PubMed=16485279; DOI=10.1002/prot.20912;
+RA   Okada C., Maegawa Y., Yao M., Tanaka I.;
+RT   "Crystal structure of an RtcB homolog protein (PH1602-extein protein)
+RT   from Pyrococcus horikoshii reveals a novel fold.";
+RL   Proteins 63:1119-1122(2006).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (1.48 ANGSTROMS) IN COMPLEX WITH MANGANESE AND
+RP   GMP, COFACTOR, ACTIVE SITE, FUNCTION, CATALYTIC ACTIVITY, REACTION
+RP   MECHANISM, AND MUTAGENESIS OF ASP-65; ASP-95; HIS-593; HIS-719;
+RP   HIS-794; ARG-798 AND ARG-802.
+RX   PubMed=22949672; DOI=10.1073/pnas.1213795109;
+RA   Englert M., Xia S., Okada C., Nakamura A., Tanavde V., Yao M.,
+RA   Eom S.H., Konigsberg W.H., Soll D., Wang J.;
+RT   "Structural and mechanistic insights into guanylylation of RNA-
+RT   splicing ligase RtcB joining RNA between 3'-terminal phosphate and 5'-
+RT   OH.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 109:15235-15240(2012).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) IN COMPLEX WITH MANGANESE AND
+RP   GMP, COFACTOR, ACTIVE SITE, FUNCTION, CATALYTIC ACTIVITY, AND REACTION
+RP   MECHANISM.
+RX   PubMed=23560983; DOI=10.1021/bi4002375;
+RA   Desai K.K., Bingman C.A., Phillips G.N. Jr., Raines R.T.;
+RT   "Structures of the noncanonical RNA ligase RtcB reveal the mechanism
+RT   of histidine guanylylation.";
+RL   Biochemistry 52:2518-2525(2013).
+CC   -!- FUNCTION: tRNA-splicing ligase that acts by directly joining
+CC       spliced tRNA halves to mature-sized tRNAs by incorporating the
+CC       precursor-derived splice junction phosphate into the mature tRNA
+CC       as a canonical 3',5'-phosphodiester. May act as an RNA ligase with
+CC       broad substrate specificity, and may function toward other RNAs.
+CC       {ECO:0000269|PubMed:22320833, ECO:0000269|PubMed:22949672,
+CC       ECO:0000269|PubMed:23560983}.
+CC   -!- COFACTOR:
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000269|PubMed:22949672,
+CC         ECO:0000269|PubMed:23560983};
+CC       Note=Binds 2 manganese ions per subunit.
+CC       {ECO:0000269|PubMed:22949672, ECO:0000269|PubMed:23560983};
+CC   -!- SUBUNIT: Monomer. {ECO:0000269|PubMed:16485279,
+CC       ECO:0000269|PubMed:22949672, ECO:0000269|PubMed:23560983}.
+CC   -!- PTM: This protein undergoes a protein self splicing that involves
+CC       a post-translational excision of the intervening region (intein)
+CC       followed by peptide ligation. {ECO:0000305}.
+CC   -!- MISCELLANEOUS: Ligation proceeds through 3 nucleotidyl transfer
+CC       steps, with 2',3'-cyclic phosphate termini being hydrolyzed to 3'-
+CC       P termini in a step that precedes 3'-P activation with GMP. In the
+CC       first nucleotidyl transfer step, RtcB reacts with GTP to form a
+CC       covalent RtcB-histidine-GMP intermediate with release of PPi; in
+CC       the second step, the GMP moiety is transferred to the RNA 3'-P; in
+CC       the third step, the 5'-OH from the opposite RNA strand attacks the
+CC       activated 3'-P to form a 3',5'-phosphodiester bond and release GMP
+CC       (PubMed:22949672, PubMed:23560983). {ECO:0000305|PubMed:22949672,
+CC       ECO:0000305|PubMed:23560983}.
+CC   -!- SIMILARITY: Belongs to the RtcB family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 DOD-type homing endonuclease domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00273}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; BA000001; BAA30714.1; -; Genomic_DNA.
+DR   PIR; B71039; B71039.
+DR   RefSeq; NP_143457.1; NC_000961.1.
+DR   RefSeq; WP_010885677.1; NC_000961.1.
+DR   PDB; 1UC2; X-ray; 2.15 A; A/B=1-871.
+DR   PDB; 4DWQ; X-ray; 2.25 A; A/B=1-871.
+DR   PDB; 4DWR; X-ray; 1.48 A; A/B/C=1-871.
+DR   PDB; 4ISJ; X-ray; 2.34 A; A/B=1-871.
+DR   PDB; 4ISZ; X-ray; 2.30 A; A/B=1-871.
+DR   PDB; 4IT0; X-ray; 2.40 A; A/B=1-871.
+DR   PDBsum; 1UC2; -.
+DR   PDBsum; 4DWQ; -.
+DR   PDBsum; 4DWR; -.
+DR   PDBsum; 4ISJ; -.
+DR   PDBsum; 4ISZ; -.
+DR   PDBsum; 4IT0; -.
+DR   ProteinModelPortal; O59245; -.
+DR   SMR; O59245; 2-98, 487-871.
+DR   STRING; 70601.PH1602; -.
+DR   EnsemblBacteria; BAA30714; BAA30714; BAA30714.
+DR   GeneID; 1442456; -.
+DR   KEGG; pho:PH1602; -.
+DR   eggNOG; COG1372; -.
+DR   HOGENOM; HOG000296282; -.
+DR   KO; K14415; -.
+DR   OMA; VHNCGVR; -.
+DR   BioCyc; PHOR70601:GJWR-1605-MONOMER; -.
+DR   EvolutionaryTrace; O59245; -.
+DR   Proteomes; UP000000752; Chromosome.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004519; F:endonuclease activity; IEA:UniProtKB-KW.
+DR   GO; GO:0019002; F:GMP binding; IDA:UniProtKB.
+DR   GO; GO:0030145; F:manganese ion binding; IDA:UniProtKB.
+DR   GO; GO:0003972; F:RNA ligase (ATP) activity; IDA:UniProtKB.
+DR   GO; GO:0016539; P:intein-mediated protein splicing; IEA:InterPro.
+DR   GO; GO:0006314; P:intron homing; IEA:UniProtKB-KW.
+DR   GO; GO:0000394; P:RNA splicing, via endonucleolytic cleavage and ligation; IDA:UniProtKB.
+DR   GO; GO:0008033; P:tRNA processing; IEA:UniProtKB-KW.
+DR   Gene3D; 2.170.16.10; -; 3.
+DR   Gene3D; 3.10.28.10; -; 1.
+DR   InterPro; IPR028992; Hedgehog/Intein_dom.
+DR   InterPro; IPR003586; Hint_dom_C.
+DR   InterPro; IPR003587; Hint_dom_N.
+DR   InterPro; IPR027434; Homing_endonucl.
+DR   InterPro; IPR006142; INTEIN.
+DR   InterPro; IPR030934; Intein_C.
+DR   InterPro; IPR004042; Intein_endonuc.
+DR   InterPro; IPR006141; Intein_N.
+DR   InterPro; IPR001233; RtcB.
+DR   PANTHER; PTHR11118; PTHR11118; 1.
+DR   Pfam; PF14528; LAGLIDADG_3; 1.
+DR   Pfam; PF01139; RtcB; 2.
+DR   PRINTS; PR00379; INTEIN.
+DR   SMART; SM00305; HintC; 1.
+DR   SMART; SM00306; HintN; 1.
+DR   SUPFAM; SSF103365; SSF103365; 2.
+DR   SUPFAM; SSF51294; SSF51294; 2.
+DR   SUPFAM; SSF55608; SSF55608; 1.
+DR   TIGRFAMs; TIGR01443; intein_Cterm; 1.
+DR   TIGRFAMs; TIGR01445; intein_Nterm; 1.
+DR   PROSITE; PS50818; INTEIN_C_TER; 1.
+DR   PROSITE; PS50819; INTEIN_ENDONUCLEASE; 1.
+DR   PROSITE; PS50817; INTEIN_N_TER; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Autocatalytic cleavage; Complete proteome; DNA-binding;
+KW   Endonuclease; Hydrolase; Intron homing; Ligase; Manganese;
+KW   Metal-binding; Nuclease; Protein splicing; tRNA processing.
+FT   CHAIN         1     97       tRNA-splicing ligase RtcB, 1st part.
+FT                                /FTId=PRO_0000232535.
+FT   CHAIN        98    487       Pho hyp2 intein.
+FT                                /FTId=PRO_0000232536.
+FT   CHAIN       488    871       tRNA-splicing ligase RtcB, 2nd part.
+FT                                /FTId=PRO_0000232537.
+FT   DOMAIN      248    374       DOD-type homing endonuclease.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00273}.
+FT   NP_BIND     719    720       GMP. {ECO:0000269|PubMed:22949672,
+FT                                ECO:0000269|PubMed:23560983}.
+FT   NP_BIND     766    769       GMP. {ECO:0000269|PubMed:22949672,
+FT                                ECO:0000269|PubMed:23560983}.
+FT   NP_BIND     794    797       GMP. {ECO:0000269|PubMed:22949672,
+FT                                ECO:0000269|PubMed:23560983}.
+FT   ACT_SITE    794    794       GMP-histidine intermediate.
+FT                                {ECO:0000269|PubMed:22949672,
+FT                                ECO:0000269|PubMed:23560983}.
+FT   METAL        95     95       Manganese 1.
+FT                                {ECO:0000269|PubMed:22949672,
+FT                                ECO:0000269|PubMed:23560983}.
+FT   METAL        98     98       Manganese 1.
+FT                                {ECO:0000269|PubMed:22949672,
+FT                                ECO:0000269|PubMed:23560983}.
+FT   METAL        98     98       Manganese 2.
+FT                                {ECO:0000269|PubMed:22949672,
+FT                                ECO:0000269|PubMed:23560983}.
+FT   METAL       593    593       Manganese 1.
+FT                                {ECO:0000269|PubMed:22949672,
+FT                                ECO:0000269|PubMed:23560983}.
+FT   METAL       624    624       Manganese 2.
+FT                                {ECO:0000269|PubMed:22949672,
+FT                                ECO:0000269|PubMed:23560983}.
+FT   METAL       719    719       Manganese 2.
+FT                                {ECO:0000269|PubMed:22949672,
+FT                                ECO:0000269|PubMed:23560983}.
+FT   BINDING     596    596       GMP. {ECO:0000269|PubMed:22949672,
+FT                                ECO:0000269|PubMed:23560983}.
+FT   BINDING     775    775       GMP. {ECO:0000269|PubMed:22949672,
+FT                                ECO:0000269|PubMed:23560983}.
+FT   BINDING     870    870       GMP. {ECO:0000269|PubMed:22949672,
+FT                                ECO:0000269|PubMed:23560983}.
+FT   MUTAGEN      65     65       D->A: Abolishes formation of guanylylated
+FT                                RtcB intermediate.
+FT                                {ECO:0000269|PubMed:22949672,
+FT                                ECO:0000269|PubMed:24435797}.
+FT   MUTAGEN      95     95       D->A: Abolishes tRNA ligation activity.
+FT                                {ECO:0000269|PubMed:22949672,
+FT                                ECO:0000269|PubMed:24435797}.
+FT   MUTAGEN     592    592       N->A: Abolishes tRNA ligation activity in
+FT                                vitro. {ECO:0000269|PubMed:24435797}.
+FT   MUTAGEN     593    593       H->A: Abolishes tRNA ligation activity.
+FT                                {ECO:0000269|PubMed:22949672,
+FT                                ECO:0000269|PubMed:24435797}.
+FT   MUTAGEN     594    594       F->A: Abolishes tRNA ligation activity in
+FT                                vitro. Can be rescued in presence of
+FT                                archease (PH1536).
+FT                                {ECO:0000269|PubMed:24435797}.
+FT   MUTAGEN     596    596       E->A: Abolishes tRNA ligation activity in
+FT                                vitro. Can be rescued in presence of
+FT                                archease (PH1536).
+FT                                {ECO:0000269|PubMed:24435797}.
+FT   MUTAGEN     719    719       H->A: Only produces few amount of
+FT                                guanylylated RtcB intermediate.
+FT                                {ECO:0000269|PubMed:22949672}.
+FT   MUTAGEN     794    794       H->A: Loss of function. Abolishes
+FT                                formation of guanylylated RtcB
+FT                                intermediate.
+FT                                {ECO:0000269|PubMed:22949672,
+FT                                ECO:0000269|PubMed:24435797}.
+FT   MUTAGEN     794    794       H->K: Loss of function. Still able to
+FT                                form some guanylylated RtcB intermediate
+FT                                but is unable to carry out subsequent
+FT                                transfer of GMP.
+FT                                {ECO:0000269|PubMed:22949672,
+FT                                ECO:0000269|PubMed:24435797}.
+FT   MUTAGEN     798    798       R->A: Impaired formation of guanylylated
+FT                                RtcB intermediate.
+FT                                {ECO:0000269|PubMed:22949672}.
+FT   MUTAGEN     802    802       R->A: Impaired formation of guanylylated
+FT                                RtcB intermediate.
+FT                                {ECO:0000269|PubMed:22949672}.
+FT   MUTAGEN     870    870       K->A: Abolishes tRNA ligation activity in
+FT                                vitro. Can be rescued in presence of
+FT                                archease (PH1536).
+FT                                {ECO:0000269|PubMed:24435797}.
+FT   STRAND        9     15       {ECO:0000244|PDB:4DWR}.
+FT   STRAND       26     29       {ECO:0000244|PDB:4DWR}.
+FT   HELIX        32     39       {ECO:0000244|PDB:4DWR}.
+FT   STRAND       40     42       {ECO:0000244|PDB:1UC2}.
+FT   HELIX        43     50       {ECO:0000244|PDB:4DWR}.
+FT   STRAND       60     67       {ECO:0000244|PDB:4DWR}.
+FT   STRAND       70     72       {ECO:0000244|PDB:4DWR}.
+FT   STRAND       74     81       {ECO:0000244|PDB:4DWR}.
+FT   TURN         82     84       {ECO:0000244|PDB:4DWR}.
+FT   HELIX        89     91       {ECO:0000244|PDB:4DWR}.
+FT   STRAND      489    493       {ECO:0000244|PDB:4DWR}.
+FT   HELIX       499    502       {ECO:0000244|PDB:4DWR}.
+FT   HELIX       503    505       {ECO:0000244|PDB:4DWR}.
+FT   HELIX       506    516       {ECO:0000244|PDB:4DWR}.
+FT   STRAND      520    522       {ECO:0000244|PDB:4DWR}.
+FT   HELIX       531    533       {ECO:0000244|PDB:4DWR}.
+FT   HELIX       535    540       {ECO:0000244|PDB:4DWR}.
+FT   HELIX       542    547       {ECO:0000244|PDB:4DWR}.
+FT   HELIX       553    558       {ECO:0000244|PDB:4DWR}.
+FT   HELIX       560    563       {ECO:0000244|PDB:4DWR}.
+FT   HELIX       570    572       {ECO:0000244|PDB:4DWR}.
+FT   HELIX       575    581       {ECO:0000244|PDB:4DWR}.
+FT   HELIX       582    584       {ECO:0000244|PDB:4DWR}.
+FT   STRAND      590    592       {ECO:0000244|PDB:4DWR}.
+FT   STRAND      594    604       {ECO:0000244|PDB:4DWR}.
+FT   HELIX       606    611       {ECO:0000244|PDB:4DWR}.
+FT   STRAND      618    625       {ECO:0000244|PDB:4DWR}.
+FT   HELIX       628    645       {ECO:0000244|PDB:4DWR}.
+FT   HELIX       646    648       {ECO:0000244|PDB:4DWR}.
+FT   HELIX       656    658       {ECO:0000244|PDB:4DWQ}.
+FT   HELIX       666    701       {ECO:0000244|PDB:4DWR}.
+FT   TURN        705    709       {ECO:0000244|PDB:4DWR}.
+FT   STRAND      713    729       {ECO:0000244|PDB:4DWR}.
+FT   STRAND      732    745       {ECO:0000244|PDB:4DWR}.
+FT   HELIX       756    758       {ECO:0000244|PDB:4DWR}.
+FT   TURN        759    761       {ECO:0000244|PDB:4DWR}.
+FT   STRAND      764    767       {ECO:0000244|PDB:4DWR}.
+FT   STRAND      775    779       {ECO:0000244|PDB:4DWR}.
+FT   HELIX       782    787       {ECO:0000244|PDB:4DWR}.
+FT   STRAND      788    793       {ECO:0000244|PDB:4DWR}.
+FT   STRAND      798    800       {ECO:0000244|PDB:4DWR}.
+FT   HELIX       802    806       {ECO:0000244|PDB:4DWR}.
+FT   HELIX       811    820       {ECO:0000244|PDB:4DWR}.
+FT   STRAND      824    826       {ECO:0000244|PDB:4DWR}.
+FT   HELIX       831    835       {ECO:0000244|PDB:4DWR}.
+FT   HELIX       838    840       {ECO:0000244|PDB:4DWR}.
+FT   HELIX       844    853       {ECO:0000244|PDB:4DWR}.
+FT   STRAND      856    869       {ECO:0000244|PDB:4DWR}.
+SQ   SEQUENCE   871 AA;  98125 MW;  989723B0089288F4 CRC64;
+     MVVPLKRIDK IRWEIPKFDK RMRVPGRVYA DEVLLEKMKN DRTLEQATNV AMLPGIYKYS
+     IVMPDGHQGY GFPIGGVAAF DVKEGVISPG GIGYDINCLA PGTRVLTEHG YWLKIEEMPE
+     KFKLQRLRVY NIEEGHNDFS KVVFVAEREV GSEEKAIRIV TESGKVIEGS EDHPVLTPEG
+     YVYLRNVKEG DYILVYPFEG VPYEEKKGVI LDESAFEGED PQVVKFLRER NLIPLQWKDP
+     KVGILARILG FALANGYISE NDNLTFHGKE EVLREVRKDL EELGIEAIVA EEDKLKVTSR
+     EFAFLLEKLG MAHDSIPEWI IEGPLWIKRN FLAGLFGANG SIVEFKGDVP LPITLTHSRE
+     LLNDVSRILE GFKVRAKIKM GKNGSYQLVI EDEDSIRNFL GRINYEYDPE KKARGLIAYA
+     YLKFKELMKG NLMTFEEFAR DRGYEGGFVA EKVIEVKSVK PEYDKFYDIG VYHSAHNFIA
+     NGIVVHNCGV RLIRTNLTEK EVRPRIKQLV DTLFKNVPSG VGSQGRIKLH WTQIDDVLVD
+     GAKWAVDNGY GWERDLERLE EGGRMEGADP EAVSQRAKQR GAPQLGSLGS GNHFLEVQVV
+     DKIFDPEVAK AYGLFEGQVV VMVHTGSRGL GHQVASDYLR IMERAIRKYR IPWPDRELVS
+     VPFQSEEGQR YFSAMKAAAN FAWANRQMIT HWVRESFQEV FKQDPEGDLG MDIVYDVAHN
+     IGKVEEHEVD GKRVKVIVHR KGATRAFPPG HEAVPRLYRD VGQPVLIPGS MGTASYILAG
+     TEGAMKETFG STCHGAGRVL SRKAATRQYR GDRIRQELLN RGIYVRAASM RVVAEEAPGA
+     YKNVDNVVKV VSEAGIAKLV ARMRPIGVAK G
+//

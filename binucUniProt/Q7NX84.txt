@@ -1,0 +1,112 @@
+ID   Q7NX84_CHRVO            Unreviewed;       114 AA.
+AC   Q7NX84;
+DT   15-DEC-2003, integrated into UniProtKB/TrEMBL.
+DT   15-DEC-2003, sequence version 1.
+DT   22-JUL-2015, entry version 78.
+DE   SubName: Full=Putative uncharacterized protein {ECO:0000313|EMBL:AAQ59418.1};
+GN   OrderedLocusNames=CV_1744 {ECO:0000313|EMBL:AAQ59418.1};
+OS   Chromobacterium violaceum (strain ATCC 12472 / DSM 30191 / JCM 1249 /
+OS   NBRC 12614 / NCIMB 9131 / NCTC 9757).
+OC   Bacteria; Proteobacteria; Betaproteobacteria; Neisseriales;
+OC   Chromobacteriaceae; Chromobacterium.
+OX   NCBI_TaxID=243365 {ECO:0000313|Proteomes:UP000001424};
+RN   [1] {ECO:0000313|Proteomes:UP000001424}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 12472 / DSM 30191 / JCM 1249 / NBRC 12614 / NCIMB 9131 /
+RC   NCTC 9757 {ECO:0000313|Proteomes:UP000001424};
+RX   PubMed=14500782; DOI=10.1073/pnas.1832124100;
+RA   Vasconcelos A.T.R., de Almeida D.F., Hungria M., Guimaraes C.T.,
+RA   Antonio R.V., Almeida F.C., de Almeida L.G.P., de Almeida R.,
+RA   Alves-Gomes J.A., Andrade E.M., Araripe J., de Araujo M.F.F.,
+RA   Astolfi-Filho S., Azevedo V., Baptista A.J., Bataus L.A.M.,
+RA   Batista J.S., Belo A., van den Berg C., Bogo M., Bonatto S.,
+RA   Bordignon J., Brigido M.M., Brito C.A., Brocchi M., Burity H.A.,
+RA   Camargo A.A., Cardoso D.D.P., Carneiro N.P., Carraro D.M.,
+RA   Carvalho C.M.B., Cascardo J.C.M., Cavada B.S., Chueire L.M.O.,
+RA   Creczynski-Pasa T.B., Cunha-Junior N.C., Fagundes N., Falcao C.L.,
+RA   Fantinatti F., Farias I.P., Felipe M.S.S., Ferrari L.P., Ferro J.A.,
+RA   Ferro M.I.T., Franco G.R., Freitas N.S.A., Furlan L.R.,
+RA   Gazzinelli R.T., Gomes E.A., Goncalves P.R., Grangeiro T.B.,
+RA   Grattapaglia D., Grisard E.C., Hanna E.S., Jardim S.N., Laurino J.,
+RA   Leoi L.C.T., Lima L.F.A., Loureiro M.F., Lyra M.C.C.P.,
+RA   Madeira H.M.F., Manfio G.P., Maranhao A.Q., Martins W.S.,
+RA   di Mauro S.M.Z., de Medeiros S.R.B., Meissner R.V., Moreira M.A.M.,
+RA   Nascimento F.F., Nicolas M.F., Oliveira J.G., Oliveira S.C.,
+RA   Paixao R.F.C., Parente J.A., Pedrosa F.O., Pena S.D.J., Pereira J.O.,
+RA   Pereira M., Pinto L.S.R.C., Pinto L.S., Porto J.I.R., Potrich D.P.,
+RA   Ramalho-Neto C.E., Reis A.M.M., Rigo L.U., Rondinelli E.,
+RA   Santos E.B.P., Santos F.R., Schneider M.P.C., Seuanez H.N.,
+RA   Silva A.M.R., da Silva A.L.C., Silva D.W., Silva R., Simoes I.C.,
+RA   Simon D., Soares C.M.A., Soares R.B.A., Souza E.M., Souza K.R.L.,
+RA   Souza R.C., Steffens M.B.R., Steindel M., Teixeira S.R., Urmenyi T.,
+RA   Vettore A., Wassem R., Zaha A., Simpson A.J.G.;
+RT   "The complete genome sequence of Chromobacterium violaceum reveals
+RT   remarkable and exploitable bacterial adaptability.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 100:11660-11665(2003).
+RN   [2] {ECO:0000213|PDB:2BOI, ECO:0000213|PDB:2BV4}
+RP   X-RAY CRYSTALLOGRAPHY (1.00 ANGSTROMS) OF 2-114 IN COMPLEX WITH
+RP   CALCIUM.
+RX   PubMed=16768446; DOI=10.1021/bi060214e;
+RA   Pokorna M., Cioci G., Perret S., Rebuffet E., Kostlanova N., Adam J.,
+RA   Gilboa-Garber N., Mitchell E.P., Imberty A., Wimmerova M.;
+RT   "Unusual entropy-driven affinity of Chromobacterium violaceum lectin
+RT   CV-IIL toward fucose and mannose.";
+RL   Biochemistry 45:7501-7510(2006).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE016825; AAQ59418.1; -; Genomic_DNA.
+DR   RefSeq; WP_011135296.1; NC_005085.1.
+DR   PDB; 2BOI; X-ray; 1.10 A; A/B=2-114.
+DR   PDB; 2BV4; X-ray; 1.00 A; A/B=2-114.
+DR   PDBsum; 2BOI; -.
+DR   PDBsum; 2BV4; -.
+DR   ProteinModelPortal; Q7NX84; -.
+DR   SMR; Q7NX84; 2-114.
+DR   STRING; 243365.CV_1744; -.
+DR   EnsemblBacteria; AAQ59418; AAQ59418; CV_1744.
+DR   KEGG; cvi:CV_1744; -.
+DR   PATRIC; 21438294; VBIChrVio67196_1708.
+DR   HOGENOM; HOG000110720; -.
+DR   OMA; NDYNDGI; -.
+DR   OrthoDB; EOG67X1RS; -.
+DR   BioCyc; CVIO243365:GHUD-1793-MONOMER; -.
+DR   EvolutionaryTrace; Q7NX84; -.
+DR   Proteomes; UP000001424; Chromosome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 2.60.120.400; -; 1.
+DR   InterPro; IPR010907; Ca-mediated_lectin.
+DR   InterPro; IPR016927; Lectin_sugar-bd.
+DR   Pfam; PF07472; PA-IIL; 1.
+DR   PIRSF; PIRSF029595; Lectin_LecB; 1.
+DR   SUPFAM; SSF82026; SSF82026; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2BOI, ECO:0000213|PDB:2BV4};
+KW   Calcium {ECO:0000213|PDB:2BOI, ECO:0000213|PDB:2BV4};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001424};
+KW   Metal-binding {ECO:0000213|PDB:2BOI, ECO:0000213|PDB:2BV4};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001424}.
+FT   METAL        22     22       Calcium 1; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:2BOI,
+FT                                ECO:0000213|PDB:2BV4}.
+FT   METAL        95     95       Calcium 2. {ECO:0000213|PDB:2BOI,
+FT                                ECO:0000213|PDB:2BV4}.
+FT   METAL        99     99       Calcium 2. {ECO:0000213|PDB:2BOI,
+FT                                ECO:0000213|PDB:2BV4}.
+FT   METAL       101    101       Calcium 1. {ECO:0000213|PDB:2BOI,
+FT                                ECO:0000213|PDB:2BV4}.
+FT   METAL       101    101       Calcium 2. {ECO:0000213|PDB:2BOI,
+FT                                ECO:0000213|PDB:2BV4}.
+FT   METAL       103    103       Calcium 1. {ECO:0000213|PDB:2BOI,
+FT                                ECO:0000213|PDB:2BV4}.
+FT   METAL       104    104       Calcium 1. {ECO:0000213|PDB:2BOI,
+FT                                ECO:0000213|PDB:2BV4}.
+FT   METAL       104    104       Calcium 2. {ECO:0000213|PDB:2BOI,
+FT                                ECO:0000213|PDB:2BV4}.
+FT   METAL       114    114       Calcium 1; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:2BV4}.
+SQ   SEQUENCE   114 AA;  11972 MW;  D5FC789C09E8C1CD CRC64;
+     MAQQGVFTLP ARINFGVTVL VNSAATQHVE IFVDNEPRAA FSGVGTGDNN LGTKVINSGS
+     GNVRVQITAN GRQSDLVSSQ LVLANKLNLA VVGSEDGTDM DYNDSIVILN WPLG
+//

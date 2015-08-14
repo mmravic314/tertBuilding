@@ -1,0 +1,178 @@
+ID   Q81ZH7_BACAN            Unreviewed;       383 AA.
+AC   Q81ZH7; E9QVL4; E9QVL5; Q6I4C4; Q6KY26;
+DT   01-JUN-2003, integrated into UniProtKB/TrEMBL.
+DT   01-JUN-2003, sequence version 1.
+DT   22-JUL-2015, entry version 118.
+DE   RecName: Full=N5-carboxyaminoimidazole ribonucleotide synthase {ECO:0000256|HAMAP-Rule:MF_01928, ECO:0000256|RuleBase:RU361200};
+DE            Short=N5-CAIR synthase {ECO:0000256|HAMAP-Rule:MF_01928, ECO:0000256|RuleBase:RU361200};
+DE            EC=6.3.4.18 {ECO:0000256|HAMAP-Rule:MF_01928, ECO:0000256|RuleBase:RU361200};
+DE   AltName: Full=5-(carboxyamino)imidazole ribonucleotide synthetase {ECO:0000256|HAMAP-Rule:MF_01928, ECO:0000256|RuleBase:RU361200};
+GN   Name=purK {ECO:0000256|HAMAP-Rule:MF_01928,
+GN   ECO:0000256|RuleBase:RU361200, ECO:0000313|EMBL:AAT29376.2};
+GN   OrderedLocusNames=GBAA_0289 {ECO:0000313|EMBL:AAT29376.2};
+GN   ORFNames=BASH2_05529 {ECO:0000313|EMBL:BAR78936.1},
+GN   BF27_1667 {ECO:0000313|EMBL:AJH86860.1};
+OS   Bacillus anthracis.
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus;
+OC   Bacillus cereus group.
+OX   NCBI_TaxID=1392 {ECO:0000313|Proteomes:UP000000594};
+RN   [1] {ECO:0000313|EMBL:AAT29376.2, ECO:0000313|Proteomes:UP000000594}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Ames ancestor {ECO:0000313|Proteomes:UP000000594}, and
+RC   Ames Ancestor {ECO:0000313|EMBL:AAT29376.2};
+RX   PubMed=18952800; DOI=10.1128/JB.01347-08;
+RA   Ravel J., Jiang L., Stanley S.T., Wilson M.R., Decker R.S., Read T.D.,
+RA   Worsham P., Keim P.S., Salzberg S.L., Fraser-Liggett C.M., Rasko D.A.;
+RT   "The complete genome sequence of Bacillus anthracis Ames 'Ancestor'.";
+RL   J. Bacteriol. 191:445-446(2009).
+RN   [2] {ECO:0000313|EMBL:AJH86860.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=2002013094 {ECO:0000313|EMBL:AJH86860.1};
+RA   Davenport K.W., Bishop-Lilly K.A., Broomall S.M., Chain P.S.,
+RA   Chertkov O., Coyne S.R., Daligault H.E., Erkkila T., Frey K.G.,
+RA   Gibbons H.S., Gu W., Jaissle J., Johnson S.L., Koroleva G.I.,
+RA   Ladner J.T., Lo C.-C., Minogue T.D., Munk C., Palacios G.F.,
+RA   Redden C.L., Rosenzweig C.N., Scholz M.B., Teshima H., Xu Y.;
+RL   Submitted (NOV-2014) to the EMBL/GenBank/DDBJ databases.
+RN   [3] {ECO:0000313|EMBL:BAR78936.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=Shikan-NIID {ECO:0000313|EMBL:BAR78936.1};
+RA   Okutani A., Morikawa S., Inoue S.;
+RT   "Bacillus anthracis whole genome sequence.";
+RL   Submitted (MAR-2015) to the EMBL/GenBank/DDBJ databases.
+CC   -!- FUNCTION: Catalyzes the ATP-dependent conversion of 5-
+CC       aminoimidazole ribonucleotide (AIR) and HCO(3)(-) to N5-
+CC       carboxyaminoimidazole ribonucleotide (N5-CAIR).
+CC       {ECO:0000256|HAMAP-Rule:MF_01928}.
+CC   -!- FUNCTION: Catalyzes the ATP-dependent conversion of 5-
+CC       aminoimidazole ribonucleotide (AIR) and HCO(3)- to N5-
+CC       carboxyaminoimidazole ribonucleotide (N5-CAIR).
+CC       {ECO:0000256|RuleBase:RU361200}.
+CC   -!- CATALYTIC ACTIVITY: ATP + 5-amino-1-(5-phospho-D-ribosyl)imidazole
+CC       + HCO(3)(-) = ADP + phosphate + 5-carboxyamino-1-(5-phospho-D-
+CC       ribosyl)imidazole. {ECO:0000256|HAMAP-Rule:MF_01928,
+CC       ECO:0000256|RuleBase:RU361200}.
+CC   -!- PATHWAY: Purine metabolism; IMP biosynthesis via de novo pathway;
+CC       5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate from 5-
+CC       amino-1-(5-phospho-D-ribosyl)imidazole (N5-CAIR route): step 1/2.
+CC       {ECO:0000256|HAMAP-Rule:MF_01928, ECO:0000256|RuleBase:RU361200}.
+CC   -!- SUBUNIT: Homodimer. {ECO:0000256|HAMAP-Rule:MF_01928,
+CC       ECO:0000256|RuleBase:RU361200}.
+CC   -!- SIMILARITY: Belongs to the PurK/PurT family. {ECO:0000256|HAMAP-
+CC       Rule:MF_01928, ECO:0000256|RuleBase:RU361200}.
+CC   -!- SIMILARITY: Contains 1 ATP-grasp domain. {ECO:0000256|HAMAP-
+CC       Rule:MF_01928}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE017334; AAT29376.2; -; Genomic_DNA.
+DR   EMBL; CP009902; AJH86860.1; -; Genomic_DNA.
+DR   EMBL; AP014833; BAR78936.1; -; Genomic_DNA.
+DR   RefSeq; WP_000196795.1; NZ_KN050651.1.
+DR   STRING; 198094.BA_0289; -.
+DR   DNASU; 1085688; -.
+DR   EnsemblBacteria; AAP24325; AAP24325; BA_0289.
+DR   EnsemblBacteria; AAT29376; AAT29376; GBAA_0289.
+DR   EnsemblBacteria; AAT52607; AAT52607; BAS0276.
+DR   EnsemblBacteria; AIF54758; AIF54758; HYU01_01585.
+DR   EnsemblBacteria; AIK06399; AIK06399; DH23_0273.
+DR   EnsemblBacteria; AIK33274; AIK33274; DJ48_3918.
+DR   EnsemblBacteria; AIK51583; AIK51583; DJ45_5598.
+DR   EnsemblBacteria; AIK60164; AIK60164; DJ44_4149.
+DR   EnsemblBacteria; AIM04256; AIM04256; BACvac02_0350.
+DR   EnsemblBacteria; AIM09641; AIM09641; BAHan_0355.
+DR   EnsemblBacteria; AJA84771; AJA84771; RT54_01640.
+DR   EnsemblBacteria; KFJ82806; KFJ82806; DJ42_4801.
+DR   EnsemblBacteria; KFL76897; KFL76897; DJ49_5205.
+DR   EnsemblBacteria; KFL79598; KFL79598; DJ43_4835.
+DR   EnsemblBacteria; KGZ45688; KGZ45688; OY21_21060.
+DR   EnsemblBacteria; KGZ54552; KGZ54552; OY22_04985.
+DR   EnsemblBacteria; KGZ57370; KGZ57370; NX97_02280.
+DR   EnsemblBacteria; KGZ65780; KGZ65780; OY24_20140.
+DR   EnsemblBacteria; KGZ72787; KGZ72787; OY25_00665.
+DR   EnsemblBacteria; KGZ73137; KGZ73137; OY23_03370.
+DR   EnsemblBacteria; KGZ85675; KGZ85675; OY26_06905.
+DR   EnsemblBacteria; KGZ86680; KGZ86680; OY28_08865.
+DR   EnsemblBacteria; KGZ88849; KGZ88849; OY27_03645.
+DR   EnsemblBacteria; KHA04015; KHA04015; OY30_03460.
+DR   EnsemblBacteria; KHA05721; KHA05721; OY29_02190.
+DR   EnsemblBacteria; KHA07839; KHA07839; OY32_02555.
+DR   EnsemblBacteria; KHA19245; KHA19245; OY36_18065.
+DR   EnsemblBacteria; KHA19458; KHA19458; OY34_01330.
+DR   EnsemblBacteria; KHA20382; KHA20382; OY35_02490.
+DR   EnsemblBacteria; KHA34278; KHA34278; OY38_08670.
+DR   EnsemblBacteria; KHA34287; KHA34287; OY37_01275.
+DR   EnsemblBacteria; KHA44000; KHA44000; OY39_02945.
+DR   EnsemblBacteria; KHA45130; KHA45130; OY40_04000.
+DR   EnsemblBacteria; KHG60468; KHG60468; OY33_01395.
+DR   EnsemblBacteria; KHG61834; KHG61834; OY31_00560.
+DR   EnsemblBacteria; KHG63210; KHG63210; OY20_06720.
+DR   KEGG; ban:BA_0289; -.
+DR   KEGG; banh:HYU01_01585; -.
+DR   KEGG; bar:GBAA_0289; -.
+DR   KEGG; bat:BAS0276; -.
+DR   HOGENOM; HOG000034029; -.
+DR   KO; K01589; -.
+DR   OMA; LRKMGHV; -.
+DR   OrthoDB; EOG6QZMX7; -.
+DR   BioCyc; ANTHRA:PURK-MONOMER; -.
+DR   BioCyc; BANT260799:GJAJ-318-MONOMER; -.
+DR   BioCyc; BANT261594:GJ7F-327-MONOMER; -.
+DR   UniPathway; UPA00074; UER00942.
+DR   Proteomes; UP000000594; Chromosome.
+DR   Proteomes; UP000031920; Chromosome.
+DR   GO; GO:0034028; F:5-(carboxyamino)imidazole ribonucleotide synthase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:InterPro.
+DR   GO; GO:0051287; F:NAD binding; IEA:InterPro.
+DR   GO; GO:0004638; F:phosphoribosylaminoimidazole carboxylase activity; IEA:InterPro.
+DR   GO; GO:0006189; P:'de novo' IMP biosynthetic process; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0055114; P:oxidation-reduction process; IEA:InterPro.
+DR   Gene3D; 3.30.1490.20; -; 1.
+DR   Gene3D; 3.30.470.20; -; 1.
+DR   Gene3D; 3.40.50.20; -; 1.
+DR   HAMAP; MF_01928; PurK; 1.
+DR   InterPro; IPR011761; ATP-grasp.
+DR   InterPro; IPR003135; ATP-grasp_carboxylate-amine.
+DR   InterPro; IPR013815; ATP_grasp_subdomain_1.
+DR   InterPro; IPR013816; ATP_grasp_subdomain_2.
+DR   InterPro; IPR006140; D-isomer_DH_NAD-bd.
+DR   InterPro; IPR016185; PreATP-grasp_dom.
+DR   InterPro; IPR005875; PurK.
+DR   InterPro; IPR011054; Rudment_hybrid_motif.
+DR   Pfam; PF02826; 2-Hacid_dh_C; 1.
+DR   Pfam; PF02222; ATP-grasp; 1.
+DR   SUPFAM; SSF51246; SSF51246; 1.
+DR   SUPFAM; SSF52440; SSF52440; 1.
+DR   TIGRFAMs; TIGR01161; purK; 1.
+DR   PROSITE; PS50975; ATP_GRASP; 1.
+PE   3: Inferred from homology;
+KW   ATP-binding {ECO:0000256|HAMAP-Rule:MF_01928,
+KW   ECO:0000256|RuleBase:RU361200};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000594};
+KW   Ligase {ECO:0000256|HAMAP-Rule:MF_01928,
+KW   ECO:0000256|RuleBase:RU361200}; Lyase {ECO:0000313|EMBL:AAT29376.2};
+KW   Nucleotide-binding {ECO:0000256|HAMAP-Rule:MF_01928,
+KW   ECO:0000256|RuleBase:RU361200};
+KW   Purine biosynthesis {ECO:0000256|HAMAP-Rule:MF_01928,
+KW   ECO:0000256|RuleBase:RU361200};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000594}.
+FT   DOMAIN      111    297       ATP-grasp. {ECO:0000256|HAMAP-
+FT                                Rule:MF_01928}.
+FT   NP_BIND     152    158       ATP. {ECO:0000256|HAMAP-Rule:MF_01928}.
+FT   NP_BIND     182    185       ATP. {ECO:0000256|HAMAP-Rule:MF_01928}.
+FT   NP_BIND     267    268       ATP. {ECO:0000256|HAMAP-Rule:MF_01928}.
+FT   BINDING     107    107       ATP. {ECO:0000256|HAMAP-Rule:MF_01928}.
+FT   BINDING     147    147       ATP. {ECO:0000256|HAMAP-Rule:MF_01928}.
+FT   BINDING     190    190       ATP. {ECO:0000256|HAMAP-Rule:MF_01928}.
+FT   BINDING     213    213       ATP. {ECO:0000256|HAMAP-Rule:MF_01928}.
+SQ   SEQUENCE   383 AA;  42517 MW;  BE0E5E1A56F88287 CRC64;
+     MTRIILPGKT IGIIGGGQLG RMMALAAKEM GYKIAVLDPT KNSPCAQVAD IEIVASYDDL
+     KAIQHLAEIS DVVTYEFENI DYRCLQWLEK HAYLPQGSQL LSKTQNRFTE KNAIEKAGLP
+     VATYRLVQNQ EQLTEAIAEL SYPSVLKTTT GGYDGKGQVV LRSEADVDEA RKLANAAECI
+     LEKWVPFEKE VSVIVIRSVS GETKVFPVAE NIHVNNILHE SIVPARITEE LSQKAIAYAK
+     VLADELELVG TLAVEMFATA DGEIYINELA PRPHNSGHYT QDACETSQFG QHIRAICNLP
+     LGETNLLKPV VMVNILGEHI EGVLRQVNRL TGCYLHLYGK EEAKAQRKMG HVNILNDNIE
+     VALEKAKSLH IWDHQEQLLE GKR
+//

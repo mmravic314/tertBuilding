@@ -1,0 +1,80 @@
+ID   Q0PQZ5_RHIML            Unreviewed;       484 AA.
+AC   Q0PQZ5;
+DT   05-SEP-2006, integrated into UniProtKB/TrEMBL.
+DT   05-SEP-2006, sequence version 1.
+DT   22-JUL-2015, entry version 45.
+DE   SubName: Full=Dihydropyrimidinase {ECO:0000313|EMBL:ABG76935.1};
+GN   Name=dhp {ECO:0000313|EMBL:ABG76935.1};
+OS   Rhizobium meliloti (Ensifer meliloti) (Sinorhizobium meliloti).
+OC   Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales;
+OC   Rhizobiaceae; Sinorhizobium/Ensifer group; Sinorhizobium.
+OX   NCBI_TaxID=382 {ECO:0000313|EMBL:ABG76935.1};
+RN   [1] {ECO:0000313|EMBL:ABG76935.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=CECT 4114 {ECO:0000313|EMBL:ABG76935.1};
+RX   PubMed=17142902;
+RA   Martinez-Rodriguez S., Gonzalez-Ramirez L.A., Clemente-Jimenez J.M.,
+RA   Rodriguez-Vico F., Las Heras-Vazquez F.J., Gavira J.A.,
+RA   Garcia-Ruiz J.M.;
+RT   "Crystallization and preliminary crystallographic studies of the
+RT   recombinant dihydropyrimidinase from Sinorhizobium meliloti
+RT   CECT4114.";
+RL   Acta Crystallogr. F 62:1223-1226(2006).
+RN   [2] {ECO:0000213|PDB:3DC8}
+RP   X-RAY CRYSTALLOGRAPHY (1.85 ANGSTROMS) IN COMPLEX WITH ZINC.
+RX   PubMed=19895890; DOI=10.1016/j.jsb.2009.10.013;
+RA   Martinez-Rodriguez S., Martinez-Gomez A.I., Clemente-Jimenez J.M.,
+RA   Rodriguez-Vico F., Garcia-Ruiz J.M., Las Heras-Vazquez F.J.,
+RA   Gavira J.A.;
+RT   "Structure of dihydropyrimidinase from Sinorhizobium meliloti
+RT   CECT4114: new features in an amidohydrolase family member.";
+RL   J. Struct. Biol. 169:200-208(2010).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; DQ779921; ABG76935.1; -; Genomic_DNA.
+DR   RefSeq; WP_013844770.1; NZ_CP009144.1.
+DR   PDB; 3DC8; X-ray; 1.85 A; A/B=1-484.
+DR   ProteinModelPortal; Q0PQZ5; -.
+DR   STRING; 266834.SMc01821; -.
+DR   EnsemblBacteria; AIM00402; AIM00402; DU99_13670.
+DR   KEGG; smer:DU99_13670; -.
+DR   KO; K01464; -.
+DR   BRENDA; 3.5.2.2; 5347.
+DR   EvolutionaryTrace; Q0PQZ5; -.
+DR   GO; GO:0005737; C:cytoplasm; IEA:InterPro.
+DR   GO; GO:0016810; F:hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 2.30.40.10; -; 2.
+DR   InterPro; IPR006680; Amidohydro_1.
+DR   InterPro; IPR011778; Hydantoinase/dihydroPyrase.
+DR   InterPro; IPR011059; Metal-dep_hydrolase_composite.
+DR   Pfam; PF01979; Amidohydro_1; 1.
+DR   SUPFAM; SSF51338; SSF51338; 2.
+DR   TIGRFAMs; TIGR02033; D-hydantoinase; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3DC8};
+KW   Metal-binding {ECO:0000213|PDB:3DC8}; Zinc {ECO:0000213|PDB:3DC8}.
+FT   METAL        56     56       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3DC8}.
+FT   METAL        58     58       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3DC8}.
+FT   METAL       147    147       Zinc 1. {ECO:0000213|PDB:3DC8}.
+FT   METAL       147    147       Zinc 2. {ECO:0000213|PDB:3DC8}.
+FT   METAL       180    180       Zinc 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3DC8}.
+FT   METAL       236    236       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3DC8}.
+FT   METAL       313    313       Zinc 1. {ECO:0000213|PDB:3DC8}.
+SQ   SEQUENCE   484 AA;  52610 MW;  D16860CE0F3BA93C CRC64;
+     MSTVIKGGTI VTADLTYKAD VKVEGGRIVE IGPNLSGAET LDATGCYVMP GGIDPHTHLE
+     MPFMGTYSSD DFESGTRAAL AGGTTMVVDF ALPSPGQSLL EALTMWDNKS TRANCDYSFH
+     MAITWWGEQV FNEMETIVKD KGINTFKHFM AYKGALMVDD DEMFSSFQRC AALGALPLVH
+     AENGDVVAQL QAKLLAEGNS GPEAHAYSRP AEVEGEAANR AIMIADMAGC PVYIVHTSCE
+     QAHEAIRRAR AKGMRVFGEP LIQHLTLDET EYFDKDWDHA ARRVMSPPFR NKLHQDSLWA
+     GLASGSLQVV ATDHCAFTTE QKRFGVGDFT RIPNGTGGLE DRMPMLWTYG VATGRITMNE
+     FVAVTSTNIA KILNIYPKKG AILVGADADL VVWDPKRSKT ISAKTQQSAI DYNVFEGKTV
+     TGLPRFTLTR GVVSIEEGTV KTQEGHGEFV RRDPFPAVST ALSTWKEVTA PRAVQRSGIP
+     ASGV
+//

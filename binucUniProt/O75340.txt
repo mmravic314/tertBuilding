@@ -1,0 +1,525 @@
+ID   PDCD6_HUMAN             Reviewed;         191 AA.
+AC   O75340; B2RD16; E7ESR3; Q2YDC2; Q5TZS0;
+DT   11-JAN-2001, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1998, sequence version 1.
+DT   22-JUL-2015, entry version 147.
+DE   RecName: Full=Programmed cell death protein 6;
+DE   AltName: Full=Apoptosis-linked gene 2 protein;
+DE   AltName: Full=Probable calcium-binding protein ALG-2;
+GN   Name=PDCD6; Synonyms=ALG2;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RA   Ganjei J.K., D'Adamio L.;
+RL   Submitted (NOV-1997) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RC   TISSUE=Liver;
+RA   Urcelay E., Ibarreta D., Parrilla R., Ayuso M.S.;
+RL   Submitted (MAY-1996) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Cerebellum;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A.,
+RA   Sudo H., Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M.,
+RA   Takahashi M., Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y.,
+RA   Abe K., Kamihara K., Katsuta N., Sato K., Tanikawa M., Yamazaki M.,
+RA   Ninomiya K., Ishibashi T., Yamashita H., Murakawa K., Fujimori K.,
+RA   Tanai H., Kimata M., Watanabe M., Hiraoka S., Chiba Y., Ishida S.,
+RA   Ono Y., Takiguchi S., Watanabe S., Yosida M., Hotuta T., Kusano J.,
+RA   Kanehori K., Takahashi-Fujii A., Hara H., Tanase T.-O., Nomura Y.,
+RA   Togiya S., Komai F., Hara R., Takeuchi K., Arita M., Imose N.,
+RA   Musashino K., Yuuki H., Oshima A., Sasaki N., Aotsuka S.,
+RA   Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y.,
+RA   Fujimori Y., Komiyama M., Tashiro H., Tanigami A., Fujiwara T.,
+RA   Ono T., Yamada K., Fujii Y., Ozaki K., Hirao M., Ohmori Y.,
+RA   Kawabata A., Hikiji T., Kobatake N., Inagaki H., Ikema Y., Okamoto S.,
+RA   Okitani R., Kawakami T., Noguchi S., Itoh T., Shigeta K., Senba T.,
+RA   Matsumura K., Nakajima Y., Mizuno T., Morinaga M., Sasaki M.,
+RA   Togashi T., Oyama M., Hata H., Watanabe M., Komatsu T.,
+RA   Mizushima-Sugano J., Satoh T., Shirai Y., Takahashi Y., Nakagawa K.,
+RA   Okumura K., Nagase T., Nomura N., Kikuchi H., Masuho Y., Yamashita R.,
+RA   Nakai K., Yada T., Nakamura Y., Ohara O., Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RA   Kalnine N., Chen X., Rolfs A., Halleck A., Hines L., Eisenstein S.,
+RA   Koundinya M., Raphael J., Moreira D., Kelley T., LaBaer J., Lin Y.,
+RA   Phelan M., Farmer A.;
+RT   "Cloning of human full-length CDSs in BD Creator(TM) system donor
+RT   vector.";
+RL   Submitted (OCT-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15372022; DOI=10.1038/nature02919;
+RA   Schmutz J., Martin J., Terry A., Couronne O., Grimwood J., Lowry S.,
+RA   Gordon L.A., Scott D., Xie G., Huang W., Hellsten U., Tran-Gyamfi M.,
+RA   She X., Prabhakar S., Aerts A., Altherr M., Bajorek E., Black S.,
+RA   Branscomb E., Caoile C., Challacombe J.F., Chan Y.M., Denys M.,
+RA   Detter J.C., Escobar J., Flowers D., Fotopulos D., Glavina T.,
+RA   Gomez M., Gonzales E., Goodstein D., Grigoriev I., Groza M.,
+RA   Hammon N., Hawkins T., Haydu L., Israni S., Jett J., Kadner K.,
+RA   Kimball H., Kobayashi A., Lopez F., Lou Y., Martinez D., Medina C.,
+RA   Morgan J., Nandkeshwar R., Noonan J.P., Pitluck S., Pollard M.,
+RA   Predki P., Priest J., Ramirez L., Retterer J., Rodriguez A.,
+RA   Rogers S., Salamov A., Salazar A., Thayer N., Tice H., Tsai M.,
+RA   Ustaszewska A., Vo N., Wheeler J., Wu K., Yang J., Dickson M.,
+RA   Cheng J.-F., Eichler E.E., Olsen A., Pennacchio L.A., Rokhsar D.S.,
+RA   Richardson P., Lucas S.M., Myers R.M., Rubin E.M.;
+RT   "The DNA sequence and comparative analysis of human chromosome 5.";
+RL   Nature 431:268-274(2004).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L.,
+RA   Mobarry C.M., Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R.,
+RA   Flanigan M.J., Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V.,
+RA   Hannenhalli S., Turner R., Yooseph S., Lu F., Nusskern D.R.,
+RA   Shue B.C., Zheng X.H., Zhong F., Delcher A.L., Huson D.H.,
+RA   Kravitz S.A., Mouchard L., Reinert K., Remington K.A., Clark A.G.,
+RA   Waterman M.S., Eichler E.E., Adams M.D., Hunkapiller M.W., Myers E.W.,
+RA   Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1; 2 AND 3).
+RC   TISSUE=Colon, Ovary, and Placenta;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [8]
+RP   INTERACTION WITH PEF1.
+RX   PubMed=11278427; DOI=10.1074/jbc.M008649200;
+RA   Kitaura Y., Matsumoto S., Satoh H., Hitomi K., Maki M.;
+RT   "Peflin and ALG-2, members of the penta-EF-hand protein family, form a
+RT   heterodimer that dissociates in a Ca2+-dependent manner.";
+RL   J. Biol. Chem. 276:14053-14058(2001).
+RN   [9]
+RP   INTERACTION WITH PEF1.
+RX   PubMed=11883899; DOI=10.1006/abbi.2001.2736;
+RA   Kitaura Y., Satoh H., Takahashi H., Shibata H., Maki M.;
+RT   "Both ALG-2 and peflin, penta-EF-hand (PEF) proteins, are stabilized
+RT   by dimerization through their fifth EF-hand regions.";
+RL   Arch. Biochem. Biophys. 399:12-18(2002).
+RN   [10]
+RP   INTERACTION WITH ANXA11.
+RX   PubMed=11883939; DOI=10.1006/bbrc.2002.6600;
+RA   Satoh H., Shibata H., Nakano Y., Kitaura Y., Maki M.;
+RT   "ALG-2 interacts with the amino-terminal domain of annexin XI in a
+RT   Ca(2+)-dependent manner.";
+RL   Biochem. Biophys. Res. Commun. 291:1166-1172(2002).
+RN   [11]
+RP   FUNCTION, AND INTERACTION WITH DAPK1.
+RX   PubMed=16132846; DOI=10.1007/s10529-005-7869-x;
+RA   Lee J.H., Rho S.B., Chun T.;
+RT   "Programmed cell death 6 (PDCD6) protein interacts with death-
+RT   associated protein kinase 1 (DAPk1): additive effect on apoptosis via
+RT   caspase-3 dependent pathway.";
+RL   Biotechnol. Lett. 27:1011-1015(2005).
+RN   [12]
+RP   INTERACTION WITH RBM22.
+RX   PubMed=17045351; DOI=10.1016/j.bbamcr.2006.09.003;
+RA   Montaville P., Dai Y., Cheung C.Y., Giller K., Becker S., Michalak M.,
+RA   Webb S.E., Miller A.L., Krebs J.;
+RT   "Nuclear translocation of the calcium-binding protein ALG-2 induced by
+RT   the RNA-binding protein RBM22.";
+RL   Biochim. Biophys. Acta 1763:1335-1343(2006).
+RN   [13]
+RP   INTERACTION WITH SEC31A AND PDCD6IP, MUTAGENESIS OF GLU-47 AND
+RP   GLU-114, AND SUBCELLULAR LOCATION.
+RX   PubMed=16957052; DOI=10.1091/mbc.E06-05-0444;
+RA   Yamasaki A., Tani K., Yamamoto A., Kitamura N., Komada M.;
+RT   "The Ca2+-binding protein ALG-2 is recruited to endoplasmic reticulum
+RT   exit sites by Sec31A and stabilizes the localization of Sec31A.";
+RL   Mol. Biol. Cell 17:4876-4887(2006).
+RN   [14]
+RP   FUNCTION, AND INTERACTION WITH WITH SHISA5.
+RX   PubMed=17889823; DOI=10.1016/j.abb.2007.07.028;
+RA   Draeby I., Woods Y.L., la Cour J.M., Mollerup J., Bourdon J.C.,
+RA   Berchtold M.W.;
+RT   "The calcium binding protein ALG-2 binds and stabilizes Scotin, a p53-
+RT   inducible gene product localized at the endoplasmic reticulum
+RT   membrane.";
+RL   Arch. Biochem. Biophys. 467:87-94(2007).
+RN   [15]
+RP   INTERACTION WITH PLSCR3; PLSCR4; PDCD6IP; ANXA7; ANXA11; SEC31A AND
+RP   TSG101, AND MUTAGENESIS OF GLU-47; TRP-57; PHE-60; TYR-91; TRP-95;
+RP   GLU-114 AND TYR-180.
+RX   PubMed=18256029; DOI=10.1074/jbc.M800717200;
+RA   Shibata H., Suzuki H., Kakiuchi T., Inuzuka T., Yoshida H., Mizuno T.,
+RA   Maki M.;
+RT   "Identification of Alix-type and non-Alix-type ALG-2-binding sites in
+RT   human phospholipid scramblase 3: differential binding to an
+RT   alternatively spliced isoform and amino acid-substituted mutants.";
+RL   J. Biol. Chem. 283:9623-9632(2008).
+RN   [16]
+RP   FUNCTION.
+RX   PubMed=19520058; DOI=10.1016/j.bbrc.2009.06.015;
+RA   Okumura M., Ichioka F., Kobayashi R., Suzuki H., Yoshida H.,
+RA   Shibata H., Maki M.;
+RT   "Penta-EF-hand protein ALG-2 functions as a Ca2+-dependent adaptor
+RT   that bridges Alix and TSG101.";
+RL   Biochem. Biophys. Res. Commun. 386:237-241(2009).
+RN   [17]
+RP   FUNCTION, SUBCELLULAR LOCATION, AND INTERACTION WITH MCOLN1.
+RX   PubMed=19864416; DOI=10.1074/jbc.M109.047241;
+RA   Vergarajauregui S., Martina J.A., Puertollano R.;
+RT   "Identification of the penta-EF-hand protein ALG-2 as a Ca2+-dependent
+RT   interactor of mucolipin-1.";
+RL   J. Biol. Chem. 284:36357-36366(2009).
+RN   [18]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P.,
+RA   Buerckstuemmer T., Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [19]
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=21122810; DOI=10.1016/j.bbamcr.2010.11.010;
+RA   Janowicz A., Michalak M., Krebs J.;
+RT   "Stress induced subcellular distribution of ALG-2, RBM22 and hSlu7.";
+RL   Biochim. Biophys. Acta 1813:1045-1049(2011).
+RN   [20]
+RP   FUNCTION, AND INTERACTION WITH KDR.
+RX   PubMed=21893193; DOI=10.1016/j.cellsig.2011.08.013;
+RA   Rho S.B., Song Y.J., Lim M.C., Lee S.H., Kim B.R., Park S.Y.;
+RT   "Programmed cell death 6 (PDCD6) inhibits angiogenesis through
+RT   PI3K/mTOR/p70S6K pathway by interacting of VEGFR-2.";
+RL   Cell. Signal. 24:131-139(2012).
+RN   [21]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT ALA-2, IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS], AND CLEAVAGE OF INITIATOR
+RP   METHIONINE [LARGE SCALE ANALYSIS].
+RX   PubMed=22223895; DOI=10.1074/mcp.M111.015131;
+RA   Bienvenut W.V., Sumpton D., Martinez A., Lilla S., Espagne C.,
+RA   Meinnel T., Giglione C.;
+RT   "Comparative large-scale characterisation of plant vs. mammal proteins
+RT   reveals similar and idiosyncratic N-alpha acetylation features.";
+RL   Mol. Cell. Proteomics 11:M111.015131-M111.015131(2012).
+RN   [22]
+RP   X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS) OF 24-191 IN COMPLEXES WITH
+RP   CALCIUM; ZINC AND PDCD6IP, SUBUNIT, AND INTERACTION WITH PDCD6IP.
+RX   PubMed=18940611; DOI=10.1016/j.str.2008.07.012;
+RA   Suzuki H., Kawasaki M., Inuzuka T., Okumura M., Kakiuchi T.,
+RA   Shibata H., Wakatsuki S., Maki M.;
+RT   "Structural basis for Ca2+ -dependent formation of ALG-2/Alix peptide
+RT   complex: Ca2+/EF3-driven arginine switch mechanism.";
+RL   Structure 16:1562-1573(2008).
+RN   [23]
+RP   X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS) OF 24-191, INTERACTION WITH
+RP   PDCD6IP; TSG101; ANXA7 AND ANXA11, AND MUTAGENESIS OF PHE-122.
+RX   PubMed=20691033; DOI=10.1186/1472-6807-10-25;
+RA   Inuzuka T., Suzuki H., Kawasaki M., Shibata H., Wakatsuki S., Maki M.;
+RT   "Molecular basis for defect in Alix-binding by alternatively spliced
+RT   isoform of ALG-2 (ALG-2DeltaGF122) and structural roles of F122 in
+RT   target recognition.";
+RL   BMC Struct. Biol. 10:25-25(2010).
+RN   [24]
+RP   VARIANT [LARGE SCALE ANALYSIS] CYS-123.
+RX   PubMed=16959974; DOI=10.1126/science.1133427;
+RA   Sjoeblom T., Jones S., Wood L.D., Parsons D.W., Lin J., Barber T.D.,
+RA   Mandelker D., Leary R.J., Ptak J., Silliman N., Szabo S.,
+RA   Buckhaults P., Farrell C., Meeh P., Markowitz S.D., Willis J.,
+RA   Dawson D., Willson J.K.V., Gazdar A.F., Hartigan J., Wu L., Liu C.,
+RA   Parmigiani G., Park B.H., Bachman K.E., Papadopoulos N.,
+RA   Vogelstein B., Kinzler K.W., Velculescu V.E.;
+RT   "The consensus coding sequences of human breast and colorectal
+RT   cancers.";
+RL   Science 314:268-274(2006).
+CC   -!- FUNCTION: Calcium-binding protein required for T-cell receptor-,
+CC       Fas-, and glucocorticoid-induced cell death. May mediate Ca(2+)-
+CC       regulated signals along the death pathway (By similarity).
+CC       Calcium-dependent adapter necessary for the association between
+CC       PDCD6IP and TSG101. Interaction with DAPK1 can accelerate
+CC       apoptotic cell death by increasing caspase-3 activity. May inhibit
+CC       KDR/VEGFR2-dependent angiogenesis; the function involves
+CC       inhibition of VEGF-induced phosphoprylation of the Akt signaling
+CC       pathway. Seems to play a role in the regulation of the
+CC       distribution and function of MCOLN1 in the endosomal pathway.
+CC       Isoform 2 has a lower Ca(2+) affinity than isoform 1. Isoform 1
+CC       and, to a lesser extend, isoform 2, can stabilize SHISA5.
+CC       {ECO:0000250, ECO:0000269|PubMed:16132846,
+CC       ECO:0000269|PubMed:17889823, ECO:0000269|PubMed:19520058,
+CC       ECO:0000269|PubMed:19864416, ECO:0000269|PubMed:21893193}.
+CC   -!- SUBUNIT: Isoform 1 and isoform 2 self-associate; probably forming
+CC       homodimers. Interacts with SHISA5, PEF1, RBM22, PLSCR4, ANXA7,
+CC       TSG101 and DAPK1. Interacts with PDCD6IP, SEC31A, ANXA11 (via N-
+CC       terminus), PLSCR3 (via N-terminus) and MCOLN1; the interactions
+CC       are calcium-dependent. Isoform 2 does not interact with SHISA5,
+CC       PDCD6IP, TSG101, ANXA7 and ANXA11. {ECO:0000269|PubMed:11278427,
+CC       ECO:0000269|PubMed:11883899, ECO:0000269|PubMed:11883939,
+CC       ECO:0000269|PubMed:16132846, ECO:0000269|PubMed:16957052,
+CC       ECO:0000269|PubMed:17045351, ECO:0000269|PubMed:17889823,
+CC       ECO:0000269|PubMed:18256029, ECO:0000269|PubMed:18940611,
+CC       ECO:0000269|PubMed:19864416, ECO:0000269|PubMed:20691033,
+CC       ECO:0000269|PubMed:21893193}.
+CC   -!- INTERACTION:
+CC       Self; NbExp=3; IntAct=EBI-352915, EBI-352915;
+CC       Q5T0G8:ANXA11; NbExp=3; IntAct=EBI-352915, EBI-10245225;
+CC       P53355:DAPK1; NbExp=3; IntAct=EBI-352915, EBI-358616;
+CC       Q9Y5Z4:HEBP2; NbExp=4; IntAct=EBI-352915, EBI-741593;
+CC       P35968:KDR; NbExp=4; IntAct=EBI-352915, EBI-1005487;
+CC       Q8WUM4:PDCD6IP; NbExp=5; IntAct=EBI-352915, EBI-310624;
+CC       Q9UBV8:PEF1; NbExp=7; IntAct=EBI-352915, EBI-724639;
+CC       Q9NRY6:PLSCR3; NbExp=9; IntAct=EBI-352915, EBI-750734;
+CC       Q9H3S7:PTPN23; NbExp=3; IntAct=EBI-352915, EBI-724478;
+CC       O94979:SEC31A; NbExp=6; IntAct=EBI-352915, EBI-1767898;
+CC       A5D8V6:VPS37C; NbExp=3; IntAct=EBI-352915, EBI-2559305;
+CC   -!- SUBCELLULAR LOCATION: Nucleus membrane; Peripheral membrane
+CC       protein. Endoplasmic reticulum membrane; Peripheral membrane
+CC       protein. Nucleus. Endosome. Note=Interaction with RBM22 induces
+CC       relocalization from the cytoplasm to the nucleus. Translocated
+CC       from the cytoplasm to the nucleus after heat shock cell treatment.
+CC       Accumulates in cytoplasmic vesicle-like organelles after heat
+CC       shock treatment, which may represent stress granules.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=3;
+CC       Name=1;
+CC         IsoId=O75340-1; Sequence=Displayed;
+CC       Name=2; Synonyms=ALG-2(delta)GF122;
+CC         IsoId=O75340-2; Sequence=VSP_045113;
+CC       Name=3;
+CC         IsoId=O75340-3; Sequence=VSP_045542;
+CC         Note=No experimental confirmation available.;
+CC   -!- SIMILARITY: Contains 5 EF-hand domains. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00448}.
+CC   -!- WEB RESOURCE: Name=Atlas of Genetics and Cytogenetics in Oncology
+CC       and Haematology;
+CC       URL="http://atlasgeneticsoncology.org/Genes/PDCD6ID43402ch5p15.html";
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF035606; AAC27697.1; -; mRNA.
+DR   EMBL; U58773; AAF14336.1; -; mRNA.
+DR   EMBL; AK315370; BAG37763.1; -; mRNA.
+DR   EMBL; BT020072; AAV38875.1; -; mRNA.
+DR   EMBL; AC010442; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC021087; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC118458; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471235; EAW50991.1; -; Genomic_DNA.
+DR   EMBL; BC012384; AAH12384.1; -; mRNA.
+DR   EMBL; BC106706; AAI06707.1; -; mRNA.
+DR   EMBL; BC110291; AAI10292.1; -; mRNA.
+DR   EMBL; CB991882; -; NOT_ANNOTATED_CDS; mRNA.
+DR   CCDS; CCDS3854.1; -. [O75340-1]
+DR   CCDS; CCDS58940.1; -. [O75340-2]
+DR   CCDS; CCDS58941.1; -. [O75340-3]
+DR   RefSeq; NP_001254485.1; NM_001267556.1. [O75340-2]
+DR   RefSeq; NP_001254486.1; NM_001267557.1.
+DR   RefSeq; NP_001254487.1; NM_001267558.1.
+DR   RefSeq; NP_001254488.1; NM_001267559.1. [O75340-3]
+DR   RefSeq; NP_037364.1; NM_013232.3. [O75340-1]
+DR   UniGene; Hs.50823; -.
+DR   PDB; 2ZN8; X-ray; 2.70 A; A=2-191.
+DR   PDB; 2ZN9; X-ray; 2.40 A; A/B=20-191.
+DR   PDB; 2ZND; X-ray; 1.70 A; A=20-191.
+DR   PDB; 2ZNE; X-ray; 2.20 A; A/B=24-191.
+DR   PDB; 2ZRS; X-ray; 3.10 A; A/B/C/D/E/F/G/H=24-191.
+DR   PDB; 2ZRT; X-ray; 3.30 A; A/B/C/D/E/F/G/H=24-191.
+DR   PDB; 3AAJ; X-ray; 2.40 A; A/B=24-191.
+DR   PDB; 3AAK; X-ray; 2.70 A; A=20-191.
+DR   PDB; 3WXA; X-ray; 2.36 A; A/B=20-191.
+DR   PDBsum; 2ZN8; -.
+DR   PDBsum; 2ZN9; -.
+DR   PDBsum; 2ZND; -.
+DR   PDBsum; 2ZNE; -.
+DR   PDBsum; 2ZRS; -.
+DR   PDBsum; 2ZRT; -.
+DR   PDBsum; 3AAJ; -.
+DR   PDBsum; 3AAK; -.
+DR   PDBsum; 3WXA; -.
+DR   ProteinModelPortal; O75340; -.
+DR   SMR; O75340; 24-191.
+DR   BioGrid; 115333; 40.
+DR   DIP; DIP-33217N; -.
+DR   IntAct; O75340; 32.
+DR   MINT; MINT-5000341; -.
+DR   STRING; 9606.ENSP00000264933; -.
+DR   PhosphoSite; O75340; -.
+DR   BioMuta; PDCD6; -.
+DR   MaxQB; O75340; -.
+DR   PRIDE; O75340; -.
+DR   DNASU; 10016; -.
+DR   Ensembl; ENST00000264933; ENSP00000264933; ENSG00000249915.
+DR   Ensembl; ENST00000505221; ENSP00000422085; ENSG00000249915. [O75340-3]
+DR   Ensembl; ENST00000507528; ENSP00000423815; ENSG00000249915. [O75340-2]
+DR   GeneID; 10016; -.
+DR   KEGG; hsa:10016; -.
+DR   UCSC; uc003jat.1; human. [O75340-1]
+DR   UCSC; uc003jau.2; human.
+DR   CTD; 10016; -.
+DR   GeneCards; GC05P000258; -.
+DR   HGNC; HGNC:8765; PDCD6.
+DR   MIM; 601057; gene.
+DR   neXtProt; NX_O75340; -.
+DR   PharmGKB; PA33115; -.
+DR   GeneTree; ENSGT00620000087734; -.
+DR   HOGENOM; HOG000231984; -.
+DR   HOVERGEN; HBG004492; -.
+DR   InParanoid; O75340; -.
+DR   OMA; CVVIKQI; -.
+DR   OrthoDB; EOG7RV9FM; -.
+DR   PhylomeDB; O75340; -.
+DR   TreeFam; TF314682; -.
+DR   ChiTaRS; PDCD6; human.
+DR   EvolutionaryTrace; O75340; -.
+DR   GeneWiki; PDCD6; -.
+DR   GenomeRNAi; 10016; -.
+DR   NextBio; 37841; -.
+DR   PRO; PR:O75340; -.
+DR   Proteomes; UP000005640; Chromosome 5.
+DR   Bgee; O75340; -.
+DR   CleanEx; HS_ALG2; -.
+DR   CleanEx; HS_PDCD6; -.
+DR   ExpressionAtlas; O75340; baseline and differential.
+DR   Genevisible; O75340; HS.
+DR   GO; GO:0005737; C:cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0031410; C:cytoplasmic vesicle; IDA:UniProtKB.
+DR   GO; GO:0005783; C:endoplasmic reticulum; IDA:UniProtKB.
+DR   GO; GO:0070971; C:endoplasmic reticulum exit site; IMP:UniProtKB.
+DR   GO; GO:0005789; C:endoplasmic reticulum membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005768; C:endosome; IEA:UniProtKB-SubCell.
+DR   GO; GO:0070062; C:extracellular exosome; IDA:UniProtKB.
+DR   GO; GO:0031965; C:nuclear membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005634; C:nucleus; IDA:UniProtKB.
+DR   GO; GO:0060090; F:binding, bridging; IMP:UniProtKB.
+DR   GO; GO:0005509; F:calcium ion binding; ISS:UniProtKB.
+DR   GO; GO:0004198; F:calcium-dependent cysteine-type endopeptidase activity; IBA:GO_Central.
+DR   GO; GO:0048306; F:calcium-dependent protein binding; IPI:UniProtKB.
+DR   GO; GO:0042802; F:identical protein binding; IPI:IntAct.
+DR   GO; GO:0043495; F:protein anchor; IMP:UniProtKB.
+DR   GO; GO:0046983; F:protein dimerization activity; IPI:UniProtKB.
+DR   GO; GO:0006919; P:activation of cysteine-type endopeptidase activity involved in apoptotic process; IEA:Ensembl.
+DR   GO; GO:0001525; P:angiogenesis; IEA:UniProtKB-KW.
+DR   GO; GO:0097190; P:apoptotic signaling pathway; TAS:ProtInc.
+DR   GO; GO:0034605; P:cellular response to heat; IDA:UniProtKB.
+DR   GO; GO:0006886; P:intracellular protein transport; IDA:UniProtKB.
+DR   GO; GO:0051898; P:negative regulation of protein kinase B signaling; IDA:UniProtKB.
+DR   GO; GO:0032007; P:negative regulation of TOR signaling; IDA:UniProtKB.
+DR   GO; GO:0030948; P:negative regulation of vascular endothelial growth factor receptor signaling pathway; IDA:UniProtKB.
+DR   GO; GO:0045766; P:positive regulation of angiogenesis; IDA:UniProtKB.
+DR   GO; GO:0043280; P:positive regulation of cysteine-type endopeptidase activity involved in apoptotic process; IDA:UniProtKB.
+DR   GO; GO:0010595; P:positive regulation of endothelial cell migration; IDA:UniProtKB.
+DR   GO; GO:0001938; P:positive regulation of endothelial cell proliferation; IDA:UniProtKB.
+DR   GO; GO:0006508; P:proteolysis; IBA:GO_Central.
+DR   GO; GO:0051592; P:response to calcium ion; ISS:UniProtKB.
+DR   GO; GO:0036324; P:vascular endothelial growth factor receptor-2 signaling pathway; IDA:UniProtKB.
+DR   Gene3D; 1.10.238.10; -; 1.
+DR   InterPro; IPR011992; EF-hand-dom_pair.
+DR   InterPro; IPR018247; EF_Hand_1_Ca_BS.
+DR   InterPro; IPR002048; EF_hand_dom.
+DR   Pfam; PF13499; EF-hand_7; 1.
+DR   SMART; SM00054; EFh; 5.
+DR   PROSITE; PS00018; EF_HAND_1; 2.
+DR   PROSITE; PS50222; EF_HAND_2; 3.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Alternative splicing; Angiogenesis;
+KW   Apoptosis; Calcium; Complete proteome; Endoplasmic reticulum;
+KW   Endosome; Membrane; Metal-binding; Nucleus; Polymorphism;
+KW   Reference proteome; Repeat.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:22223895}.
+FT   CHAIN         2    191       Programmed cell death protein 6.
+FT                                /FTId=PRO_0000073729.
+FT   DOMAIN       23     58       EF-hand 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00448}.
+FT   DOMAIN       59     89       EF-hand 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00448}.
+FT   DOMAIN       90    125       EF-hand 3. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00448}.
+FT   DOMAIN      126    161       EF-hand 4. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00448}.
+FT   DOMAIN      162    191       EF-hand 5. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00448}.
+FT   CA_BIND      36     47       1.
+FT   CA_BIND      73     84       2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00448}.
+FT   CA_BIND     103    114       3.
+FT   CA_BIND     169    181       4.
+FT   MOD_RES       2      2       N-acetylalanine.
+FT                                {ECO:0000269|PubMed:22223895}.
+FT   VAR_SEQ      70    191       Missing (in isoform 3).
+FT                                {ECO:0000303|PubMed:15489334}.
+FT                                /FTId=VSP_045542.
+FT   VAR_SEQ     121    122       Missing (in isoform 2).
+FT                                {ECO:0000303|PubMed:15489334}.
+FT                                /FTId=VSP_045113.
+FT   VARIANT     123    123       G -> C (in a breast cancer sample;
+FT                                somatic mutation).
+FT                                {ECO:0000269|PubMed:16959974}.
+FT                                /FTId=VAR_035459.
+FT   MUTAGEN      47     47       E->A: Loss of interaction with SEC31A and
+FT                                PLSCR3, and loss of localization to the
+FT                                endoplasmic reticulum; when associated
+FT                                with A-114. {ECO:0000269|PubMed:16957052,
+FT                                ECO:0000269|PubMed:18256029}.
+FT   MUTAGEN      57     57       W->A: Reduces the interaction with
+FT                                PDCD6IP and ANXA7.
+FT                                {ECO:0000269|PubMed:18256029}.
+FT   MUTAGEN      60     60       F->A: Abolishes the interaction with
+FT                                PDCD6IP, ANXA7 and ANXA11.
+FT                                {ECO:0000269|PubMed:18256029}.
+FT   MUTAGEN      91     91       Y->A: Abolishes the interaction with
+FT                                PDCD6IP, ANXA7 and ANXA11.
+FT                                {ECO:0000269|PubMed:18256029}.
+FT   MUTAGEN      95     95       W->A: Abolishes the interaction with
+FT                                PDCD6IP, ANXA7 and ANXA11.
+FT                                {ECO:0000269|PubMed:18256029}.
+FT   MUTAGEN     114    114       E->A: Loss of interaction with SEC31A and
+FT                                PLSCR3, and loss of localization to the
+FT                                endoplasmic reticulum; when associated
+FT                                with A-47. {ECO:0000269|PubMed:16957052,
+FT                                ECO:0000269|PubMed:18256029}.
+FT   MUTAGEN     122    122       F->A: Increases interaction with PDCD6IP
+FT                                and ANXA7. Impairs interaction with
+FT                                ANXA11. Augments stauroporine-induced
+FT                                cell death.
+FT                                {ECO:0000269|PubMed:20691033}.
+FT   MUTAGEN     122    122       F->G: Increases interaction with PDCD6IP.
+FT                                Impairs interaction with ANXA11.
+FT                                {ECO:0000269|PubMed:20691033}.
+FT   MUTAGEN     122    122       F->S: Increases interaction with PDCD6IP.
+FT                                Impairs interaction with ANAX7 and
+FT                                ANXA11. {ECO:0000269|PubMed:20691033}.
+FT   MUTAGEN     122    122       F->W: Impairs interaction with ANXA11.
+FT                                {ECO:0000269|PubMed:20691033}.
+FT   MUTAGEN     180    180       Y->A: Abolishes the interaction with
+FT                                PDCD6IP, TSG101, ANXA7 and ANXA11.
+FT                                {ECO:0000269|PubMed:18256029}.
+FT   HELIX        26     35       {ECO:0000244|PDB:2ZND}.
+FT   STRAND       36     40       {ECO:0000244|PDB:2ZRT}.
+FT   STRAND       41     43       {ECO:0000244|PDB:2ZNE}.
+FT   HELIX        45     51       {ECO:0000244|PDB:2ZND}.
+FT   STRAND       55     58       {ECO:0000244|PDB:2ZND}.
+FT   HELIX        62     72       {ECO:0000244|PDB:2ZND}.
+FT   STRAND       74     80       {ECO:0000244|PDB:2ZND}.
+FT   HELIX        82    102       {ECO:0000244|PDB:2ZND}.
+FT   STRAND      107    110       {ECO:0000244|PDB:2ZND}.
+FT   HELIX       112    121       {ECO:0000244|PDB:2ZND}.
+FT   HELIX       128    138       {ECO:0000244|PDB:2ZND}.
+FT   STRAND      143    147       {ECO:0000244|PDB:2ZND}.
+FT   HELIX       148    168       {ECO:0000244|PDB:2ZND}.
+FT   STRAND      172    174       {ECO:0000244|PDB:2ZND}.
+FT   HELIX       180    188       {ECO:0000244|PDB:2ZND}.
+SQ   SEQUENCE   191 AA;  21868 MW;  D0B5944CF3C696AD CRC64;
+     MAAYSYRPGP GAGPGPAAGA ALPDQSFLWN VFQRVDKDRS GVISDTELQQ ALSNGTWTPF
+     NPVTVRSIIS MFDRENKAGV NFSEFTGVWK YITDWQNVFR TYDRDNSGMI DKNELKQALS
+     GFGYRLSDQF HDILIRKFDR QGRGQIAFDD FIQGCIVLQR LTDIFRRYDT DQDGWIQVSY
+     EQYLSMVFSI V
+//

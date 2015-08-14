@@ -1,0 +1,158 @@
+ID   RAD50_THEMA             Reviewed;         852 AA.
+AC   Q9X1X1;
+DT   26-SEP-2001, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1999, sequence version 1.
+DT   22-JUL-2015, entry version 103.
+DE   RecName: Full=Probable DNA double-strand break repair Rad50 ATPase;
+GN   Name=rad50; OrderedLocusNames=TM_1636;
+OS   Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099).
+OC   Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Thermotoga.
+OX   NCBI_TaxID=243274;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 43589 / MSB8 / DSM 3109 / JCM 10099;
+RX   PubMed=10360571; DOI=10.1038/20601;
+RA   Nelson K.E., Clayton R.A., Gill S.R., Gwinn M.L., Dodson R.J.,
+RA   Haft D.H., Hickey E.K., Peterson J.D., Nelson W.C., Ketchum K.A.,
+RA   McDonald L.A., Utterback T.R., Malek J.A., Linher K.D., Garrett M.M.,
+RA   Stewart A.M., Cotton M.D., Pratt M.S., Phillips C.A., Richardson D.L.,
+RA   Heidelberg J.F., Sutton G.G., Fleischmann R.D., Eisen J.A., White O.,
+RA   Salzberg S.L., Smith H.O., Venter J.C., Fraser C.M.;
+RT   "Evidence for lateral gene transfer between Archaea and Bacteria from
+RT   genome sequence of Thermotoga maritima.";
+RL   Nature 399:323-329(1999).
+CC   -!- FUNCTION: Involved in DNA double-strand break repair (DSBR). The
+CC       Rad50/Mre11 complex possesses single-strand endonuclease activity
+CC       and ATP-dependent double-strand-specific 3'-5' exonuclease
+CC       activity. Rad50 provides an ATP-dependent control of Mre11 by
+CC       unwinding and/or repositioning DNA ends into the Mre11 active site
+CC       (By similarity). {ECO:0000250}.
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000250};
+CC       Note=Binds 1 zinc ion per homodimer. {ECO:0000250};
+CC   -!- SUBUNIT: Homodimer. Forms a complex with Mre11 (By similarity).
+CC       {ECO:0000250}.
+CC   -!- INTERACTION:
+CC       Q9X1X0:TM_1635; NbExp=3; IntAct=EBI-3954207, EBI-3954204;
+CC   -!- DOMAIN: The two conserved Cys that bind zinc constitute the zinc-
+CC       hook, which separates the large intramolecular coiled coil
+CC       regions. The 2 Cys residues coordinate one molecule of zinc with
+CC       the help of the 2 Cys residues of the zinc-hook of another Rad50
+CC       molecule, thereby forming a V-shaped homodimer (By similarity).
+CC       {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the SMC family. RAD50 subfamily.
+CC       {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 zinc-hook domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00471}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE000512; AAD36703.1; -; Genomic_DNA.
+DR   PIR; D72230; D72230.
+DR   RefSeq; NP_229436.1; NC_000853.1.
+DR   RefSeq; WP_004082116.1; NZ_CP011107.1.
+DR   PDB; 3QF7; X-ray; 1.90 A; A/B=1-190, A/B=686-852.
+DR   PDB; 3QG5; X-ray; 3.40 A; A/B=1-190, A/B=686-852.
+DR   PDB; 3THO; X-ray; 2.61 A; A=1-190, A=686-852.
+DR   PDB; 4W9M; X-ray; 2.70 A; C/E/I/K=1-188, C/E/I/K=687-852.
+DR   PDBsum; 3QF7; -.
+DR   PDBsum; 3QG5; -.
+DR   PDBsum; 3THO; -.
+DR   PDBsum; 4W9M; -.
+DR   ProteinModelPortal; Q9X1X1; -.
+DR   IntAct; Q9X1X1; 1.
+DR   STRING; 243274.TM1636; -.
+DR   EnsemblBacteria; AAD36703; AAD36703; TM_1636.
+DR   GeneID; 897923; -.
+DR   KEGG; tma:TM1636; -.
+DR   KEGG; tmi:THEMA_06065; -.
+DR   KEGG; tmm:Tmari_1645; -.
+DR   PATRIC; 23938246; VBITheMar51294_1655.
+DR   eggNOG; COG0419; -.
+DR   InParanoid; Q9X1X1; -.
+DR   KO; K03546; -.
+DR   OMA; THIEDLM; -.
+DR   OrthoDB; EOG6V7BNM; -.
+DR   Proteomes; UP000008183; Chromosome.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016787; F:hydrolase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006281; P:DNA repair; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.50.300; -; 2.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   InterPro; IPR013134; Zn_hook_RAD50.
+DR   SUPFAM; SSF52540; SSF52540; 5.
+DR   PROSITE; PS51131; ZN_HOOK; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; ATP-binding; Coiled coil; Complete proteome; DNA damage;
+KW   DNA repair; Hydrolase; Metal-binding; Nucleotide-binding;
+KW   Reference proteome; Zinc.
+FT   CHAIN         1    852       Probable DNA double-strand break repair
+FT                                Rad50 ATPase.
+FT                                /FTId=PRO_0000138670.
+FT   DOMAIN      389    488       Zinc-hook. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00471}.
+FT   NP_BIND      30     37       ATP. {ECO:0000250}.
+FT   COILED      155    345       {ECO:0000255}.
+FT   COILED      389    427       {ECO:0000255}.
+FT   COILED      460    488       {ECO:0000255}.
+FT   COILED      534    711       {ECO:0000255}.
+FT   COMPBIAS    768    804       Ala/Asp-rich (DA-box).
+FT   METAL       435    435       Zinc. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00471}.
+FT   METAL       438    438       Zinc. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00471}.
+FT   STRAND        2     11       {ECO:0000244|PDB:3QF7}.
+FT   STRAND       14     20       {ECO:0000244|PDB:3QF7}.
+FT   STRAND       23     29       {ECO:0000244|PDB:3QF7}.
+FT   HELIX        36     48       {ECO:0000244|PDB:3QF7}.
+FT   HELIX        57     60       {ECO:0000244|PDB:3QF7}.
+FT   STRAND       65     67       {ECO:0000244|PDB:3THO}.
+FT   STRAND       69     78       {ECO:0000244|PDB:3QF7}.
+FT   STRAND       81     90       {ECO:0000244|PDB:3QF7}.
+FT   TURN         91     94       {ECO:0000244|PDB:3QF7}.
+FT   STRAND       95    103       {ECO:0000244|PDB:3QF7}.
+FT   STRAND      105    107       {ECO:0000244|PDB:3THO}.
+FT   STRAND      109    115       {ECO:0000244|PDB:3QF7}.
+FT   HELIX       116    127       {ECO:0000244|PDB:3QF7}.
+FT   HELIX       131    137       {ECO:0000244|PDB:3QF7}.
+FT   STRAND      138    141       {ECO:0000244|PDB:3QG5}.
+FT   TURN        145    150       {ECO:0000244|PDB:3QF7}.
+FT   HELIX       153    163       {ECO:0000244|PDB:3QF7}.
+FT   HELIX       167    189       {ECO:0000244|PDB:3QF7}.
+FT   HELIX       686    709       {ECO:0000244|PDB:3QF7}.
+FT   TURN        711    713       {ECO:0000244|PDB:3QF7}.
+FT   HELIX       714    738       {ECO:0000244|PDB:3QF7}.
+FT   STRAND      742    747       {ECO:0000244|PDB:3QF7}.
+FT   TURN        748    751       {ECO:0000244|PDB:3QF7}.
+FT   STRAND      752    757       {ECO:0000244|PDB:3QF7}.
+FT   STRAND      760    763       {ECO:0000244|PDB:3QF7}.
+FT   HELIX       764    766       {ECO:0000244|PDB:3QF7}.
+FT   HELIX       769    786       {ECO:0000244|PDB:3QF7}.
+FT   TURN        787    790       {ECO:0000244|PDB:3QF7}.
+FT   STRAND      793    798       {ECO:0000244|PDB:3QF7}.
+FT   TURN        799    802       {ECO:0000244|PDB:3THO}.
+FT   HELIX       805    816       {ECO:0000244|PDB:3QF7}.
+FT   HELIX       817    820       {ECO:0000244|PDB:3QF7}.
+FT   STRAND      821    830       {ECO:0000244|PDB:3QF7}.
+FT   HELIX       832    835       {ECO:0000244|PDB:3QF7}.
+FT   STRAND      841    845       {ECO:0000244|PDB:3QF7}.
+FT   STRAND      848    850       {ECO:0000244|PDB:3QF7}.
+SQ   SEQUENCE   852 AA;  100002 MW;  31BA9F72A4EC5CD2 CRC64;
+     MRPERLTVRN FLGLKNVDIE FQSGITVVEG PNGAGKSSLF EAISFALFGN GIRYPNSYDY
+     VNRNAVDGTA RLVFQFERGG KRYEIIREIN ALQRKHNAKL SEILENGKKA AIAAKPTSVK
+     QEVEKILGIE HRTFIRTVFL PQGEIDKLLI SPPSEITEII SDVFQSKETL EKLEKLLKEK
+     MKKLENEISS LQALYTAIWK YLEENDLEVL KSELKTVSEK KKELLKKREE LQKEEEQLKR
+     LLEKYRELVK KKERLRVLSL RRNELQKEVI YEQKVKKAKE LEPLFREIYL RQREFERFSQ
+     ELNSREKRYK ELESEKEAIS KEIPVHRERL SKLEEIGEKI KEELDLLEKV LKASRPLLEQ
+     RIRLKENLTR LEEEFRRLVG EKEKREKELL SIEKTENETK NELEKLLDEL SILKKDHMKW
+     LAYQIASSLN EGDTCPVCGG VFHGKVEAVE FNIDEFEKLD QKRSELENTL NVLKERKKSL
+     SSLIEDLLMK IEEGKKNLKS IRNQIEKIEE ELHRLGYSED LEEKLDEKRK KLRKIEEERH
+     SISQKITAAD VQISQIENQL KEIKGEIEAK RETLKEQREE MDQLKSDFFD RLRKIGIGFE
+     EFRILVKEEV KDAEKELGVV ETEIRLLEES LKELESENVR DVSEDYEKVR NQLEALSQEI
+     SDLERKEGRL NHLIEETLRR ERELKSLEKK LKEMSDEYNN LDLLRKYLFD KSNFSRYFTG
+     RVLEAVLKRT KAYLDILTNG RFDIDFDDEK GGFIIKDWGI ERPARGLSGG ERALISISLA
+     MSLAEVASGR LDAFFIDEGF SSLDTENKEK IASVLKELER LNKVIVFITH DREFSEAFDR
+     KLRITGGVVV NE
+//

@@ -1,0 +1,44 @@
+ID   A6V267_PSEA7            Unreviewed;       115 AA.
+AC   A6V267;
+DT   21-AUG-2007, integrated into UniProtKB/TrEMBL.
+DT   21-AUG-2007, sequence version 1.
+DT   22-JUL-2015, entry version 39.
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ABR85736.1};
+GN   OrderedLocusNames=PSPA7_1769 {ECO:0000313|EMBL:ABR85736.1};
+OS   Pseudomonas aeruginosa (strain PA7).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+OC   Pseudomonadaceae; Pseudomonas.
+OX   NCBI_TaxID=381754 {ECO:0000313|EMBL:ABR85736.1, ECO:0000313|Proteomes:UP000001582};
+RN   [1] {ECO:0000313|EMBL:ABR85736.1, ECO:0000313|Proteomes:UP000001582}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=PA7 {ECO:0000313|EMBL:ABR85736.1,
+RC   ECO:0000313|Proteomes:UP000001582};
+RA   Dodson R.J., Harkins D., Paulsen I.T.;
+RL   Submitted (JUN-2007) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP000744; ABR85736.1; -; Genomic_DNA.
+DR   RefSeq; WP_012074888.1; NC_009656.1.
+DR   ProteinModelPortal; A6V267; -.
+DR   SMR; A6V267; 2-115.
+DR   EnsemblBacteria; ABR85736; ABR85736; PSPA7_1769.
+DR   KEGG; pap:PSPA7_1769; -.
+DR   PATRIC; 19825347; VBIPseAer80442_1709.
+DR   eggNOG; NOG12522; -.
+DR   HOGENOM; HOG000110720; -.
+DR   OMA; NDYNDGI; -.
+DR   OrthoDB; EOG67X1RS; -.
+DR   BioCyc; PAER381754:GHMY-1769-MONOMER; -.
+DR   Proteomes; UP000001582; Chromosome.
+DR   Gene3D; 2.60.120.400; -; 1.
+DR   InterPro; IPR010907; Ca-mediated_lectin.
+DR   Pfam; PF07472; PA-IIL; 1.
+DR   SUPFAM; SSF82026; SSF82026; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001582}.
+SQ   SEQUENCE   115 AA;  11787 MW;  41E16BD7CF47D846 CRC64;
+     MATQGVFTLP ANTRFGVTAF ANSSATQTVK VLVNNETAAT FTGQSTNNAV IGSQVLNSGG
+     GGKVQIQVSV NGRSSDLVSA QVILANELNV ALVGSEDSTD NDYNDAVVVI NWPLG
+//

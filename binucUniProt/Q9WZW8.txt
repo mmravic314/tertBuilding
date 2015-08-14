@@ -1,0 +1,118 @@
+ID   Q9WZW8_THEMA            Unreviewed;       280 AA.
+AC   Q9WZW8; G4FCW0;
+DT   01-NOV-1999, integrated into UniProtKB/TrEMBL.
+DT   01-NOV-1999, sequence version 1.
+DT   22-JUL-2015, entry version 93.
+DE   SubName: Full=Ribonuclease Z {ECO:0000313|EMBL:AGL49791.1};
+DE            EC=3.1.26.11 {ECO:0000313|EMBL:AGL49791.1};
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAD35946.1};
+GN   OrderedLocusNames=TM_0864 {ECO:0000313|EMBL:AAD35946.1};
+GN   ORFNames=Tmari_0866 {ECO:0000313|EMBL:AGL49791.1};
+OS   Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099).
+OC   Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Thermotoga.
+OX   NCBI_TaxID=243274 {ECO:0000313|EMBL:AAD35946.1, ECO:0000313|Proteomes:UP000008183};
+RN   [1] {ECO:0000313|EMBL:AAD35946.1, ECO:0000313|Proteomes:UP000008183}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 43589 / MSB8 / DSM 3109 / JCM 10099
+RC   {ECO:0000313|Proteomes:UP000008183}, and
+RC   MSB8 {ECO:0000313|EMBL:AAD35946.1};
+RX   PubMed=10360571; DOI=10.1038/20601;
+RA   Nelson K.E., Clayton R.A., Gill S.R., Gwinn M.L., Dodson R.J.,
+RA   Haft D.H., Hickey E.K., Peterson J.D., Nelson W.C., Ketchum K.A.,
+RA   McDonald L.A., Utterback T.R., Malek J.A., Linher K.D., Garrett M.M.,
+RA   Stewart A.M., Cotton M.D., Pratt M.S., Phillips C.A., Richardson D.L.,
+RA   Heidelberg J.F., Sutton G.G., Fleischmann R.D., Eisen J.A., White O.,
+RA   Salzberg S.L., Smith H.O., Venter J.C., Fraser C.M.;
+RT   "Evidence for lateral gene transfer between Archaea and Bacteria from
+RT   genome sequence of Thermotoga maritima.";
+RL   Nature 399:323-329(1999).
+RN   [2] {ECO:0000213|PDB:1WW1}
+RP   X-RAY CRYSTALLOGRAPHY (2.60 ANGSTROMS).
+RX   PubMed=15701599; DOI=10.1074/jbc.M500355200;
+RA   Ishii R., Minagawa A., Takaku H., Takagi M., Nashimoto M.,
+RA   Yokoyama S.;
+RT   "Crystal structure of the tRNA 3' processing endoribonuclease tRNase Z
+RT   from Thermotoga maritima.";
+RL   J. Biol. Chem. 280:14138-14144(2005).
+RN   [3] {ECO:0000213|PDB:2E7Y}
+RP   X-RAY CRYSTALLOGRAPHY (1.97 ANGSTROMS) IN COMPLEX WITH ZINC.
+RX   PubMed=17671357;
+RA   Ishii R., Minagawa A., Takaku H., Takagi M., Nashimoto M.,
+RA   Yokoyama S.;
+RT   "The structure of the flexible arm of Thermotoga maritima tRNase Z
+RT   differs from those of homologous enzymes.";
+RL   Acta Crystallogr. F 63:637-641(2007).
+RN   [4] {ECO:0000313|EMBL:AGL49791.1, ECO:0000313|Proteomes:UP000013901}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 43589 / MSB8 / DSM 3109 / JCM 10099
+RC   {ECO:0000313|Proteomes:UP000013901}, and
+RC   MSB8 {ECO:0000313|EMBL:AGL49791.1};
+RX   PubMed=23637642;
+RA   Latif H., Lerman J.A., Portnoy V.A., Tarasova Y., Nagarajan H.,
+RA   Schrimpe-Rutledge A.C., Smith R.D., Adkins J.N., Lee D.H., Qiu Y.,
+RA   Zengler K.;
+RT   "The genome organization of Thermotoga maritima reflects its
+RT   lifestyle.";
+RL   PLoS Genet. 9:E1003485-E1003485(2013).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE000512; AAD35946.1; -; Genomic_DNA.
+DR   EMBL; CP004077; AGL49791.1; -; Genomic_DNA.
+DR   PIR; C72322; C72322.
+DR   RefSeq; NP_228673.1; NC_000853.1.
+DR   RefSeq; WP_004080741.1; NZ_CP011107.1.
+DR   PDB; 1WW1; X-ray; 2.60 A; A/B=1-280.
+DR   PDB; 2E7Y; X-ray; 1.97 A; A/B=1-280.
+DR   STRING; 243274.TM0864; -.
+DR   DNASU; 898537; -.
+DR   EnsemblBacteria; AAD35946; AAD35946; TM_0864.
+DR   EnsemblBacteria; AGL49791; AGL49791; Tmari_0866.
+DR   EnsemblBacteria; AHD17383; AHD17383; THEMA_00315.
+DR   GeneID; 898537; -.
+DR   KEGG; tma:TM0864; -.
+DR   KEGG; tmi:THEMA_00315; -.
+DR   KEGG; tmm:Tmari_0866; -.
+DR   PATRIC; 23936656; VBITheMar51294_0877.
+DR   KO; K00784; -.
+DR   OMA; NTRNNAM; -.
+DR   OrthoDB; EOG61P6TK; -.
+DR   BioCyc; TMAR243274:GC6P-894-MONOMER; -.
+DR   Proteomes; UP000008183; Chromosome.
+DR   Proteomes; UP000013901; Chromosome.
+DR   GO; GO:0016787; F:hydrolase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.60.15.10; -; 1.
+DR   InterPro; IPR001279; Beta-lactamas-like.
+DR   InterPro; IPR013470; RNase_Z_THEMA.
+DR   SMART; SM00849; Lactamase_B; 1.
+DR   SUPFAM; SSF56281; SSF56281; 1.
+DR   TIGRFAMs; TIGR02650; RNase_Z_T_toga; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:1WW1, ECO:0000213|PDB:2E7Y};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000008183};
+KW   Hydrolase {ECO:0000313|EMBL:AGL49791.1};
+KW   Metal-binding {ECO:0000213|PDB:1WW1, ECO:0000213|PDB:2E7Y};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000008183};
+KW   Zinc {ECO:0000213|PDB:1WW1, ECO:0000213|PDB:2E7Y}.
+FT   METAL        48     48       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2E7Y}.
+FT   METAL        50     50       Zinc 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:2E7Y}.
+FT   METAL        52     52       Zinc 2. {ECO:0000213|PDB:2E7Y}.
+FT   METAL        53     53       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2E7Y}.
+FT   METAL       134    134       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2E7Y}.
+FT   METAL       190    190       Zinc 1. {ECO:0000213|PDB:2E7Y}.
+FT   METAL       190    190       Zinc 2. {ECO:0000213|PDB:2E7Y}.
+FT   METAL       244    244       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2E7Y}.
+SQ   SEQUENCE   280 AA;  32658 MW;  C4FE9C50C3EE9BA5 CRC64;
+     MNIIGFSKAL FSTWIYYSPE RILFDAGEGV STTLGSKVYA FKYVFLTHGH VDHIAGLWGV
+     VNIRNNGMGD REKPLDVFYP EGNRAVEEYT EFIKRANPDL RFSFNVHPLK EGERVFLRNA
+     GGFKRYVQPF RTKHVSSEVS FGYHIFEVRR KLKKEFQGLD SKEISRLVKE KGRDFVTEEY
+     HKKVLTISGD SLALDPEEIR GTELLIHECT FLDARDRRYK NHAAIDEVME SVKAAGVKKV
+     ILYHISTRYI RQLKSVIKKY REEMPDVEIL YMDPRKVFEM
+//

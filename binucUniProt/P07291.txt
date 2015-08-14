@@ -1,0 +1,135 @@
+ID   MLE_ARGIR               Reviewed;         157 AA.
+AC   P07291;
+DT   01-APR-1988, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 2.
+DT   26-NOV-2014, entry version 93.
+DE   RecName: Full=Myosin essential light chain, striated adductor muscle;
+DE            Short=E-LC;
+DE   AltName: Full=Sulfhydryl light chain;
+DE            Short=SHLC;
+OS   Argopecten irradians (Bay scallop) (Aequipecten irradians).
+OC   Eukaryota; Metazoa; Lophotrochozoa; Mollusca; Bivalvia; Pteriomorphia;
+OC   Pectinoida; Pectinoidea; Pectinidae; Argopecten.
+OX   NCBI_TaxID=31199;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=2440882;
+RA   Goodwin E.B., Szent-Gyorgyi A.G., Leinwand L.A.;
+RT   "Cloning and characterization of the scallop essential and regulatory
+RT   myosin light chain cDNAs.";
+RL   J. Biol. Chem. 262:11052-11056(1987).
+RN   [2]
+RP   PROTEIN SEQUENCE OF 2-157.
+RX   PubMed=3801438; DOI=10.1021/bi00371a056;
+RA   Collins J.H., Jakes R., Kendrick-Jones J., Leszyk J., Barouch W.,
+RA   Theibert J.L., Spiegel J., Szent-Gyorgyi A.G.;
+RT   "Amino acid sequence of myosin essential light chain from the scallop
+RT   Aquipecten irradians.";
+RL   Biochemistry 25:7651-7656(1986).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS).
+RX   PubMed=8127365; DOI=10.1038/368306a0;
+RA   Xie X., Harrison D.H., Schlichting I., Sweet R.M., Kalabokis V.N.,
+RA   Szent-Gyorgyi A.G., Cohen C.;
+RT   "Structure of the regulatory domain of scallop myosin at 2.8-A
+RT   resolution.";
+RL   Nature 368:306-312(1994).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS).
+RX   PubMed=8805510; DOI=10.1016/S0969-2126(96)00006-8;
+RA   Houdusse A., Cohen C.;
+RT   "Structure of the regulatory domain of scallop myosin at 2-A
+RT   resolution: implications for regulation.";
+RL   Structure 4:21-32(1996).
+CC   -!- FUNCTION: In molluscan muscle, calcium regulation is associated
+CC       with myosin rather than with actin. Muscle myosin contains two
+CC       types of light chains: the catalytic light chain, essential for
+CC       ATPase activity, and the regulatory light chain, a calcium-binding
+CC       protein responsible for Ca(2+) dependent binding and Ca(2+)
+CC       dependent Mg-ATPase activity.
+CC   -!- SIMILARITY: Contains 2 EF-hand domains. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00448}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M17201; AAA27714.1; -; mRNA.
+DR   PIR; A25183; A25183.
+DR   PDB; 1B7T; X-ray; 2.50 A; Z=2-157.
+DR   PDB; 1DFK; X-ray; 4.20 A; Z=4-155.
+DR   PDB; 1DFL; X-ray; 4.20 A; X/Z=4-155.
+DR   PDB; 1KK7; X-ray; 3.20 A; Z=2-157.
+DR   PDB; 1KK8; X-ray; 2.30 A; C=2-155.
+DR   PDB; 1KQM; X-ray; 3.00 A; C=2-157.
+DR   PDB; 1KWO; X-ray; 3.80 A; C=2-157.
+DR   PDB; 1L2O; X-ray; 2.80 A; C=2-157.
+DR   PDB; 1QVI; X-ray; 2.54 A; Z=2-157.
+DR   PDB; 1S5G; X-ray; 3.10 A; Z=2-157.
+DR   PDB; 1SCM; X-ray; 2.80 A; C=5-153.
+DR   PDB; 1SR6; X-ray; 2.75 A; C=2-157.
+DR   PDB; 1WDC; X-ray; 2.00 A; C=2-157.
+DR   PDB; 2W4T; EM; 35.00 A; Z=5-155.
+DR   PDB; 2W4V; EM; 35.00 A; Z=5-155.
+DR   PDB; 2W4W; EM; 35.00 A; Z=5-155.
+DR   PDB; 3JTD; X-ray; 2.57 A; C=2-156.
+DR   PDB; 3JVT; X-ray; 2.10 A; C=2-157.
+DR   PDBsum; 1B7T; -.
+DR   PDBsum; 1DFK; -.
+DR   PDBsum; 1DFL; -.
+DR   PDBsum; 1KK7; -.
+DR   PDBsum; 1KK8; -.
+DR   PDBsum; 1KQM; -.
+DR   PDBsum; 1KWO; -.
+DR   PDBsum; 1L2O; -.
+DR   PDBsum; 1QVI; -.
+DR   PDBsum; 1S5G; -.
+DR   PDBsum; 1SCM; -.
+DR   PDBsum; 1SR6; -.
+DR   PDBsum; 1WDC; -.
+DR   PDBsum; 2W4T; -.
+DR   PDBsum; 2W4V; -.
+DR   PDBsum; 2W4W; -.
+DR   PDBsum; 3JTD; -.
+DR   PDBsum; 3JVT; -.
+DR   ProteinModelPortal; P07291; -.
+DR   SMR; P07291; 2-156.
+DR   EvolutionaryTrace; P07291; -.
+DR   GO; GO:0016459; C:myosin complex; IEA:UniProtKB-KW.
+DR   GO; GO:0005509; F:calcium ion binding; IEA:InterPro.
+DR   Gene3D; 1.10.238.10; -; 2.
+DR   InterPro; IPR011992; EF-hand-dom_pair.
+DR   InterPro; IPR002048; EF_hand_dom.
+DR   Pfam; PF13499; EF-hand_7; 1.
+DR   PROSITE; PS50222; EF_HAND_2; 2.
+PE   1: Evidence at protein level;
+KW   3D-structure; Direct protein sequencing; Motor protein;
+KW   Muscle protein; Myosin; Repeat.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:3801438}.
+FT   CHAIN         2    157       Myosin essential light chain, striated
+FT                                adductor muscle.
+FT                                /FTId=PRO_0000198718.
+FT   DOMAIN        7     44       EF-hand 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00448}.
+FT   DOMAIN       82    117       EF-hand 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00448}.
+FT   HELIX         6     22       {ECO:0000244|PDB:1WDC}.
+FT   STRAND       25     27       {ECO:0000244|PDB:1WDC}.
+FT   HELIX        31     33       {ECO:0000244|PDB:1WDC}.
+FT   HELIX        34     40       {ECO:0000244|PDB:1WDC}.
+FT   HELIX        47     52       {ECO:0000244|PDB:1WDC}.
+FT   STRAND       57     61       {ECO:0000244|PDB:3JVT}.
+FT   STRAND       63     65       {ECO:0000244|PDB:1QVI}.
+FT   HELIX        66     76       {ECO:0000244|PDB:1WDC}.
+FT   HELIX        84     92       {ECO:0000244|PDB:1WDC}.
+FT   STRAND       96    103       {ECO:0000244|PDB:1WDC}.
+FT   HELIX       104    113       {ECO:0000244|PDB:1WDC}.
+FT   STRAND      114    116       {ECO:0000244|PDB:1WDC}.
+FT   HELIX       120    130       {ECO:0000244|PDB:1WDC}.
+FT   STRAND      138    141       {ECO:0000244|PDB:1WDC}.
+FT   HELIX       142    151       {ECO:0000244|PDB:1WDC}.
+FT   TURN        152    155       {ECO:0000244|PDB:3JVT}.
+SQ   SEQUENCE   157 AA;  17748 MW;  C34640DDE2A27386 CRC64;
+     MPKLSQDEID DLKDVFELFD FWDGRDGAVD AFKLGDVCRC LGINPRNEDV FAVGGTHKMG
+     EKSLPFEEFL PAYEGLMDCE QGTFADYMEA FKTFDREGQG FISGAELRHV LTALGERLSD
+     EDVDEIIKLT DLQEDLEGNV KYEDFVKKVM AGPYPDK
+//

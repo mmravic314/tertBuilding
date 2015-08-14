@@ -1,0 +1,216 @@
+ID   COX1B_PARDE             Reviewed;         558 AA.
+AC   P98002;
+DT   01-NOV-1995, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1995, sequence version 1.
+DT   22-JUL-2015, entry version 120.
+DE   RecName: Full=Cytochrome c oxidase subunit 1-beta;
+DE            EC=1.9.3.1;
+DE   AltName: Full=Cytochrome aa3 subunit 1-beta;
+DE   AltName: Full=Cytochrome c oxidase polypeptide I-beta;
+GN   Name=ctaDII;
+OS   Paracoccus denitrificans.
+OC   Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales;
+OC   Rhodobacteraceae; Paracoccus.
+OX   NCBI_TaxID=266;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=Pd 1222;
+RX   PubMed=2155830; DOI=10.1016/0014-5793(90)80609-M;
+RA   Raitio M., Pispa J.M., Metso T., Saraste M.;
+RT   "Are there isoenzymes of cytochrome c oxidase in Paracoccus
+RT   denitrificans?";
+RL   FEBS Lett. 261:431-435(1990).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS).
+RX   PubMed=7651515; DOI=10.1038/376660a0;
+RA   Iwata S., Ostermeier C., Ludwig B., Michel H.;
+RT   "Structure at 2.8-A resolution of cytochrome c oxidase from Paracoccus
+RT   denitrificans.";
+RL   Nature 376:660-669(1995).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (2.7 ANGSTROMS).
+RX   PubMed=9380672; DOI=10.1073/pnas.94.20.10547;
+RA   Ostermeier C., Harrenga A., Ermler U., Michel H.;
+RT   "Structure at 2.7-A resolution of the Paracoccus denitrificans two-
+RT   subunit cytochrome c oxidase complexed with an antibody FV fragment.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 94:10547-10553(1997).
+RN   [4]
+RP   COVALENT BOND.
+RX   PubMed=10338009; DOI=10.1110/ps.8.5.985;
+RA   Buse G., Soulimane T., Dewor M., Meyer H.E., Blueggel M.;
+RT   "Evidence for a copper-coordinated histidine-tyrosine cross-link in
+RT   the active site of cytochrome oxidase.";
+RL   Protein Sci. 8:985-990(1999).
+RN   [5]
+RP   REVIEW.
+RX   PubMed=8794157; DOI=10.1016/S0959-440X(96)80110-2;
+RA   Ostermeier C., Iwata S., Michel H.;
+RT   "Cytochrome c oxidase.";
+RL   Curr. Opin. Struct. Biol. 6:460-466(1996).
+CC   -!- FUNCTION: Subunit I and II form the functional core of the enzyme
+CC       complex. Electrons originating in cytochrome c are transferred via
+CC       heme a and Cu(A) to the binuclear center formed by heme a3 and
+CC       Cu(B). This cytochrome c oxidase shows proton pump activity across
+CC       the membrane in addition to the electron transfer.
+CC   -!- CATALYTIC ACTIVITY: 4 ferrocytochrome c + O(2) + 4 H(+) = 4
+CC       ferricytochrome c + 2 H(2)O.
+CC   -!- COFACTOR:
+CC       Name=Cu(2+); Xref=ChEBI:CHEBI:29036;
+CC       Note=Binds 1 copper B ion per subunit.;
+CC   -!- COFACTOR:
+CC       Name=heme; Xref=ChEBI:CHEBI:30413;
+CC       Note=Binds 2 heme groups per subunit.;
+CC   -!- PATHWAY: Energy metabolism; oxidative phosphorylation.
+CC   -!- SUBCELLULAR LOCATION: Cell inner membrane; Multi-pass membrane
+CC       protein.
+CC   -!- PTM: His-276 and Tyr-280 are involved in the formation of a
+CC       copper-coordinated covalent cross-link at the active site of the
+CC       catalytic subunit I.
+CC   -!- SIMILARITY: Belongs to the heme-copper respiratory oxidase family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; Y07533; CAA68821.1; -; Genomic_DNA.
+DR   PIR; S08270; S08270.
+DR   PDB; 1AR1; X-ray; 2.70 A; A=1-558.
+DR   PDB; 1QLE; X-ray; 3.00 A; A=17-554.
+DR   PDB; 1ZYY; Model; -; A=17-545.
+DR   PDB; 3EHB; X-ray; 2.32 A; A=1-558.
+DR   PDB; 3HB3; X-ray; 2.25 A; A=1-558.
+DR   PDBsum; 1AR1; -.
+DR   PDBsum; 1QLE; -.
+DR   PDBsum; 1ZYY; -.
+DR   PDBsum; 3EHB; -.
+DR   PDBsum; 3HB3; -.
+DR   ProteinModelPortal; P98002; -.
+DR   SMR; P98002; 17-554.
+DR   DIP; DIP-6088N; -.
+DR   STRING; 1051075.PDI_3131; -.
+DR   TCDB; 3.D.4.6.1; the proton-translocating cytochrome oxidase (cox) superfamily.
+DR   KEGG; pde:Pden_1938; -.
+DR   PATRIC; 22854991; VBIParDen97112_1873.
+DR   KO; K02274; -.
+DR   OrthoDB; EOG6B35XR; -.
+DR   BRENDA; 1.9.3.1; 3341.
+DR   UniPathway; UPA00705; -.
+DR   EvolutionaryTrace; P98002; -.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0005886; C:plasma membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0070469; C:respiratory chain; IEA:UniProtKB-KW.
+DR   GO; GO:0005507; F:copper ion binding; IEA:InterPro.
+DR   GO; GO:0004129; F:cytochrome-c oxidase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0020037; F:heme binding; IEA:InterPro.
+DR   GO; GO:0005506; F:iron ion binding; IEA:InterPro.
+DR   GO; GO:0009060; P:aerobic respiration; IEA:InterPro.
+DR   GO; GO:0022900; P:electron transport chain; IEA:InterPro.
+DR   GO; GO:0006119; P:oxidative phosphorylation; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 1.20.210.10; -; 1.
+DR   InterPro; IPR000883; COX1.
+DR   InterPro; IPR023615; Cyt_c_Oxase_su1_BS.
+DR   InterPro; IPR023616; Cyt_c_Oxase_su1_dom.
+DR   InterPro; IPR014241; Cyt_c_oxidase_su1_bac.
+DR   PANTHER; PTHR10422; PTHR10422; 1.
+DR   Pfam; PF00115; COX1; 1.
+DR   PRINTS; PR01165; CYCOXIDASEI.
+DR   SUPFAM; SSF81442; SSF81442; 1.
+DR   TIGRFAMs; TIGR02891; CtaD_CoxA; 1.
+DR   PROSITE; PS50855; COX1; 1.
+DR   PROSITE; PS00077; COX1_CUB; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cell inner membrane; Cell membrane; Copper;
+KW   Disulfide bond; Electron transport; Heme; Hydrogen ion transport;
+KW   Ion transport; Iron; Membrane; Metal-binding; Oxidoreductase;
+KW   Respiratory chain; Transmembrane; Transmembrane helix; Transport.
+FT   CHAIN         1    558       Cytochrome c oxidase subunit 1-beta.
+FT                                /FTId=PRO_0000183456.
+FT   TOPO_DOM      1     28       Cytoplasmic.
+FT   TRANSMEM     29     59       Helical; Name=I.
+FT   TOPO_DOM     60     82       Periplasmic.
+FT   TRANSMEM     83    120       Helical; Name=II.
+FT   TOPO_DOM    121    126       Cytoplasmic.
+FT   TRANSMEM    127    151       Helical; Name=III.
+FT   TOPO_DOM    152    176       Periplasmic.
+FT   TRANSMEM    177    206       Helical; Name=IV.
+FT   TOPO_DOM    207    217       Cytoplasmic.
+FT   TRANSMEM    218    251       Helical; Name=V.
+FT   TOPO_DOM    252    262       Periplasmic.
+FT   TRANSMEM    263    299       Helical; Name=VI.
+FT   TOPO_DOM    300    303       Cytoplasmic.
+FT   TRANSMEM    304    331       Helical; Name=VII.
+FT   TOPO_DOM    332    332       Periplasmic.
+FT   TRANSMEM    333    364       Helical; Name=VIII.
+FT   TOPO_DOM    365    369       Cytoplasmic.
+FT   TRANSMEM    370    395       Helical; Name=IX.
+FT   TOPO_DOM    396    404       Periplasmic.
+FT   TRANSMEM    405    437       Helical; Name=X.
+FT   TOPO_DOM    438    440       Cytoplasmic.
+FT   TRANSMEM    441    469       Helical; Name=XI.
+FT   TOPO_DOM    470    478       Periplasmic.
+FT   TRANSMEM    479    514       Helical; Name=XII.
+FT   TOPO_DOM    515    558       Cytoplasmic.
+FT   METAL        94     94       Iron (heme A axial ligand).
+FT   METAL       276    276       Copper B.
+FT   METAL       280    280       Copper B.
+FT   METAL       325    325       Copper B.
+FT   METAL       326    326       Copper B.
+FT   METAL       411    411       Iron (heme A3 axial ligand).
+FT   METAL       413    413       Iron (heme A axial ligand).
+FT   DISULFID     66     80
+FT   CROSSLNK    276    280       1'-histidyl-3'-tyrosine (His-Tyr).
+FT   HELIX        19     21       {ECO:0000244|PDB:3HB3}.
+FT   TURN         22     24       {ECO:0000244|PDB:3HB3}.
+FT   HELIX        28     57       {ECO:0000244|PDB:3HB3}.
+FT   STRAND       59     61       {ECO:0000244|PDB:3HB3}.
+FT   STRAND       63     66       {ECO:0000244|PDB:3HB3}.
+FT   STRAND       76     78       {ECO:0000244|PDB:1AR1}.
+FT   HELIX        84    101       {ECO:0000244|PDB:3HB3}.
+FT   HELIX       103    107       {ECO:0000244|PDB:3HB3}.
+FT   TURN        108    110       {ECO:0000244|PDB:3HB3}.
+FT   HELIX       111    119       {ECO:0000244|PDB:3HB3}.
+FT   HELIX       128    150       {ECO:0000244|PDB:3HB3}.
+FT   STRAND      151    153       {ECO:0000244|PDB:3HB3}.
+FT   HELIX       154    156       {ECO:0000244|PDB:3HB3}.
+FT   STRAND      157    159       {ECO:0000244|PDB:3HB3}.
+FT   TURN        163    166       {ECO:0000244|PDB:3HB3}.
+FT   HELIX       170    173       {ECO:0000244|PDB:3HB3}.
+FT   STRAND      175    177       {ECO:0000244|PDB:3HB3}.
+FT   HELIX       178    206       {ECO:0000244|PDB:3HB3}.
+FT   HELIX       214    216       {ECO:0000244|PDB:3HB3}.
+FT   HELIX       219    250       {ECO:0000244|PDB:3HB3}.
+FT   STRAND      254    256       {ECO:0000244|PDB:1QLE}.
+FT   HELIX       258    260       {ECO:0000244|PDB:3HB3}.
+FT   HELIX       264    298       {ECO:0000244|PDB:3HB3}.
+FT   HELIX       305    318       {ECO:0000244|PDB:3HB3}.
+FT   HELIX       323    326       {ECO:0000244|PDB:3HB3}.
+FT   HELIX       328    330       {ECO:0000244|PDB:1AR1}.
+FT   HELIX       334    345       {ECO:0000244|PDB:3HB3}.
+FT   HELIX       348    362       {ECO:0000244|PDB:3HB3}.
+FT   HELIX       371    394       {ECO:0000244|PDB:3HB3}.
+FT   HELIX       396    402       {ECO:0000244|PDB:3HB3}.
+FT   STRAND      403    405       {ECO:0000244|PDB:1QLE}.
+FT   HELIX       406    417       {ECO:0000244|PDB:3HB3}.
+FT   HELIX       420    436       {ECO:0000244|PDB:3HB3}.
+FT   STRAND      437    439       {ECO:0000244|PDB:3EHB}.
+FT   HELIX       442    460       {ECO:0000244|PDB:3HB3}.
+FT   HELIX       462    468       {ECO:0000244|PDB:3HB3}.
+FT   STRAND      472    474       {ECO:0000244|PDB:3HB3}.
+FT   HELIX       480    482       {ECO:0000244|PDB:3HB3}.
+FT   HELIX       483    513       {ECO:0000244|PDB:3HB3}.
+FT   STRAND      514    516       {ECO:0000244|PDB:3EHB}.
+FT   HELIX       530    533       {ECO:0000244|PDB:3HB3}.
+FT   STRAND      540    542       {ECO:0000244|PDB:1QLE}.
+FT   HELIX       549    552       {ECO:0000244|PDB:1QLE}.
+SQ   SEQUENCE   558 AA;  62439 MW;  A8402453C0C0339E CRC64;
+     MADAAVHGHG DHHDTRGFFT RWFMSTNHKD IGILYLFTAG IVGLISVCFT VYMRMELQHP
+     GVQYMCLEGA RLIADASAEC TPNGHLWNVM ITYHGVLMMF FVVIPALFGG FGNYFMPLHI
+     GAPDMAFPRL NNLSYWMYVC GVALGVASLL APGGNDQMGS GVGWVLYPPL STTEAGYSMD
+     LAIFAVHVSG ASSILGAINI ITTFLNMRAP GMTLFKVPLF AWSVFITAWL ILLSLPVLAG
+     AITMLLMDRN FGTQFFDPAG GGDPVLYQHI LWFFGHPEVY IIILPGFGII SHVISTFAKK
+     PIFGYLPMVL AMAAIGILGF VVWAHHMYTA GMSLTQQAYF MLATMTIAVP TGIKVFSWIA
+     TMWGGSIEFK TPMLWAFGFL FLFTVGGVTG VVLSQAPLDR VYHDTYYVVA HFHYVMSLGA
+     VFGIFAGVYY WIGKMSGRQY PEWAGQLHFW MMFIGSNLIF FPQHFLGRQG MPRRYIDYPV
+     EFAYWNNISS IGAYISFASF LFFIGIVFYT LFAGKRVNVP NYWNEHADTL EWTLPSPPPE
+     HTFETLPKRE DWDRAHAH
+//

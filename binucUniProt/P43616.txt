@@ -1,0 +1,259 @@
+ID   DUG1_YEAST              Reviewed;         481 AA.
+AC   P43616; D6VTS7;
+DT   01-NOV-1995, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1995, sequence version 1.
+DT   22-JUL-2015, entry version 139.
+DE   RecName: Full=Cys-Gly metallodipeptidase DUG1;
+DE            EC=3.4.13.-;
+DE   AltName: Full=Deficient in utilization of glutathione protein 1;
+DE   AltName: Full=GSH degradosomal complex subunit DUG1;
+GN   Name=DUG1; OrderedLocusNames=YFR044C;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=559292;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=7670463; DOI=10.1038/ng0795-261;
+RA   Murakami Y., Naitou M., Hagiwara H., Shibata T., Ozawa M.,
+RA   Sasanuma S., Sasanuma M., Tsuchiya Y., Soeda E., Yokoyama K.,
+RA   Yamazaki M., Tashiro H., Eki T.;
+RT   "Analysis of the nucleotide sequence of chromosome VI from
+RT   Saccharomyces cerevisiae.";
+RL   Nat. Genet. 10:261-268(1995).
+RN   [2]
+RP   GENOME REANNOTATION.
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=24374639; DOI=10.1534/g3.113.008995;
+RA   Engel S.R., Dietrich F.S., Fisk D.G., Binkley G., Balakrishnan R.,
+RA   Costanzo M.C., Dwight S.S., Hitz B.C., Karra K., Nash R.S., Weng S.,
+RA   Wong E.D., Lloyd P., Skrzypek M.S., Miyasato S.R., Simison M.,
+RA   Cherry J.M.;
+RT   "The reference genome sequence of Saccharomyces cerevisiae: Then and
+RT   now.";
+RL   G3 (Bethesda) 4:389-398(2014).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 204511 / S288c / AB972;
+RX   PubMed=8686379;
+RX   DOI=10.1002/(SICI)1097-0061(199602)12:2<149::AID-YEA893>3.0.CO;2-G;
+RA   Eki T., Naitou M., Hagiwara H., Ozawa M., Sasanuma S., Sasanuma M.,
+RA   Tsuchiya Y., Shibata T., Hanaoka F., Murakami Y.;
+RT   "Analysis of a 36.2 kb DNA sequence including the right telomere of
+RT   chromosome VI from Saccharomyces cerevisiae.";
+RL   Yeast 12:149-167(1996).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=17322287; DOI=10.1101/gr.6037607;
+RA   Hu Y., Rolfs A., Bhullar B., Murthy T.V.S., Zhu C., Berger M.F.,
+RA   Camargo A.A., Kelley F., McCarron S., Jepson D., Richardson A.,
+RA   Raphael J., Moreira D., Taycher E., Zuo D., Mohr S., Kane M.F.,
+RA   Williamson J., Simpson A.J.G., Bulyk M.L., Harlow E., Marsischky G.,
+RA   Kolodner R.D., LaBaer J.;
+RT   "Approaching a complete repository of sequence-verified protein-
+RT   encoding clones for Saccharomyces cerevisiae.";
+RL   Genome Res. 17:536-543(2007).
+RN   [5]
+RP   IDENTIFICATION BY MASS SPECTROMETRY.
+RX   PubMed=8962070; DOI=10.1073/pnas.93.25.14440;
+RA   Shevchenko A., Jensen O.N., Podtelejnikov A.V., Sagliocco F., Wilm M.,
+RA   Vorm O., Mortensen P., Shevchenko A., Boucherie H., Mann M.;
+RT   "Linking genome and proteome by mass spectrometry: large-scale
+RT   identification of yeast proteins from two dimensional gels.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 93:14440-14445(1996).
+RN   [6]
+RP   SUBCELLULAR LOCATION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562095; DOI=10.1038/nature02026;
+RA   Huh W.-K., Falvo J.V., Gerke L.C., Carroll A.S., Howson R.W.,
+RA   Weissman J.S., O'Shea E.K.;
+RT   "Global analysis of protein localization in budding yeast.";
+RL   Nature 425:686-691(2003).
+RN   [7]
+RP   LEVEL OF PROTEIN EXPRESSION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562106; DOI=10.1038/nature02046;
+RA   Ghaemmaghami S., Huh W.-K., Bower K., Howson R.W., Belle A.,
+RA   Dephoure N., O'Shea E.K., Weissman J.S.;
+RT   "Global analysis of protein expression in yeast.";
+RL   Nature 425:737-741(2003).
+RN   [8]
+RP   FUNCTION, IDENTIFICATION IN THE GSH DEGRADOSOMAL COMPLEX, AND
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=17179087; DOI=10.1534/genetics.106.066944;
+RA   Ganguli D., Kumar C., Bachhawat A.K.;
+RT   "The alternative pathway of glutathione degradation is mediated by a
+RT   novel protein complex involving three new genes in Saccharomyces
+RT   cerevisiae.";
+RL   Genetics 175:1137-1151(2007).
+RN   [9]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-451, AND IDENTIFICATION
+RP   BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=18407956; DOI=10.1074/mcp.M700468-MCP200;
+RA   Albuquerque C.P., Smolka M.B., Payne S.H., Bafna V., Eng J., Zhou H.;
+RT   "A multidimensional chromatography technology for in-depth
+RT   phosphoproteome analysis.";
+RL   Mol. Cell. Proteomics 7:1389-1396(2008).
+RN   [10]
+RP   SUBUNIT, FUNCTION, COFACTOR, AND DISRUPTION PHENOTYPE.
+RX   PubMed=19346245; DOI=10.1074/jbc.M808952200;
+RA   Kaur H., Kumar C., Junot C., Toledano M.B., Bachhawat A.K.;
+RT   "Dug1p Is a Cys-Gly peptidase of the gamma-glutamyl cycle of
+RT   Saccharomyces cerevisiae and represents a novel family of Cys-Gly
+RT   peptidases.";
+RL   J. Biol. Chem. 284:14493-14502(2009).
+CC   -!- FUNCTION: Catalytic component of the GSH degradosomal complex
+CC       involved in the degradation of glutathione (GSH) and other
+CC       peptides containing a gamma-glu-X bond. Functions also in a DUG2-
+CC       DUG3-independent manner as a dipeptidase with high specificity for
+CC       Cys-Gly and no activity toward tri- or tetrapeptides.
+CC       {ECO:0000269|PubMed:17179087, ECO:0000269|PubMed:19346245}.
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC         Evidence={ECO:0000269|PubMed:19346245};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000269|PubMed:19346245};
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=0.4 mM for Cys-Gly (at pH 8.0 and in the presence of 20 uM
+CC         manganese ions);
+CC         KM=0.8 mM for Cys-Gly (at pH 8.0 and in the presence of 200 uM
+CC         zinc ions);
+CC   -!- SUBUNIT: Homodimer. Component of the GSH degradosomal complex
+CC       composed of at least DUG1, DUG2 and DUG3.
+CC       {ECO:0000269|PubMed:17179087, ECO:0000269|PubMed:19346245}.
+CC   -!- INTERACTION:
+CC       Self; NbExp=1; IntAct=EBI-5137, EBI-5137;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:14562095,
+CC       ECO:0000269|PubMed:17179087}.
+CC   -!- DISRUPTION PHENOTYPE: Accumulation of Cys-Gly dipeptide and
+CC       enhanced GSH toxicity. {ECO:0000269|PubMed:19346245}.
+CC   -!- MISCELLANEOUS: Present with 22300 molecules/cell in log phase SD
+CC       medium. {ECO:0000269|PubMed:14562106}.
+CC   -!- SIMILARITY: Belongs to the peptidase M20A family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; D50617; BAA09283.1; -; Genomic_DNA.
+DR   EMBL; AY692702; AAT92721.1; -; Genomic_DNA.
+DR   EMBL; BK006940; DAA12487.1; -; Genomic_DNA.
+DR   PIR; S56299; S56299.
+DR   RefSeq; NP_116702.1; NM_001180009.1.
+DR   PDB; 4G1P; X-ray; 2.55 A; A=1-481.
+DR   PDBsum; 4G1P; -.
+DR   ProteinModelPortal; P43616; -.
+DR   SMR; P43616; 1-480.
+DR   BioGrid; 31202; 24.
+DR   DIP; DIP-6492N; -.
+DR   IntAct; P43616; 2.
+DR   MINT; MINT-640305; -.
+DR   MEROPS; M20.017; -.
+DR   MaxQB; P43616; -.
+DR   PaxDb; P43616; -.
+DR   PeptideAtlas; P43616; -.
+DR   PRIDE; P43616; -.
+DR   EnsemblFungi; YFR044C; YFR044C; YFR044C.
+DR   GeneID; 850605; -.
+DR   KEGG; sce:YFR044C; -.
+DR   CYGD; YFR044c; -.
+DR   EuPathDB; FungiDB:YFR044C; -.
+DR   SGD; S000001940; DUG1.
+DR   eggNOG; COG0624; -.
+DR   GeneTree; ENSGT00390000009682; -.
+DR   HOGENOM; HOG000216709; -.
+DR   InParanoid; P43616; -.
+DR   KO; K15428; -.
+DR   OMA; HSPNEHY; -.
+DR   OrthoDB; EOG7ZD249; -.
+DR   BioCyc; YEAST:G3O-30491-MONOMER; -.
+DR   BioCyc; YEAST:MONOMER3O-4; -.
+DR   Reactome; REACT_303899; Glutathione synthesis and recycling.
+DR   Reactome; REACT_347986; Sulfur amino acid metabolism.
+DR   SABIO-RK; P43616; -.
+DR   NextBio; 966481; -.
+DR   PRO; PR:P43616; -.
+DR   Proteomes; UP000002311; Chromosome VI.
+DR   GO; GO:0005737; C:cytoplasm; IDA:SGD.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0070573; F:metallodipeptidase activity; IDA:SGD.
+DR   GO; GO:0008242; F:omega peptidase activity; IGI:SGD.
+DR   GO; GO:0034701; F:tripeptidase activity; IEA:InterPro.
+DR   GO; GO:0006751; P:glutathione catabolic process; IMP:SGD.
+DR   Gene3D; 3.30.70.360; -; 1.
+DR   InterPro; IPR017153; GSH_degradosome_DUG1.
+DR   InterPro; IPR002933; Peptidase_M20.
+DR   InterPro; IPR011650; Peptidase_M20_dimer.
+DR   Pfam; PF07687; M20_dimer; 1.
+DR   Pfam; PF01546; Peptidase_M20; 1.
+DR   PIRSF; PIRSF037242; CNDP_dipeptidase; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Cytoplasm; Dipeptidase; Hydrolase;
+KW   Manganese; Metal-binding; Metalloprotease; Phosphoprotein; Protease;
+KW   Reference proteome; Zinc.
+FT   CHAIN         1    481       Cys-Gly metallodipeptidase DUG1.
+FT                                /FTId=PRO_0000185275.
+FT   ACT_SITE    104    104       {ECO:0000250}.
+FT   ACT_SITE    171    171       Proton acceptor. {ECO:0000250}.
+FT   METAL       102    102       Zinc 2. {ECO:0000250}.
+FT   METAL       137    137       Zinc 1. {ECO:0000250}.
+FT   METAL       137    137       Zinc 2. {ECO:0000250}.
+FT   METAL       172    172       Zinc 1. {ECO:0000250}.
+FT   METAL       200    200       Zinc 2. {ECO:0000250}.
+FT   METAL       450    450       Zinc 1. {ECO:0000250}.
+FT   MOD_RES     451    451       Phosphoserine.
+FT                                {ECO:0000269|PubMed:18407956}.
+FT   HELIX         5     14       {ECO:0000244|PDB:4G1P}.
+FT   HELIX        16     28       {ECO:0000244|PDB:4G1P}.
+FT   HELIX        36     38       {ECO:0000244|PDB:4G1P}.
+FT   HELIX        39     55       {ECO:0000244|PDB:4G1P}.
+FT   STRAND       59     64       {ECO:0000244|PDB:4G1P}.
+FT   STRAND       83     88       {ECO:0000244|PDB:4G1P}.
+FT   STRAND       96    102       {ECO:0000244|PDB:4G1P}.
+FT   HELIX       110    112       {ECO:0000244|PDB:4G1P}.
+FT   STRAND      122    124       {ECO:0000244|PDB:4G1P}.
+FT   TURN        125    128       {ECO:0000244|PDB:4G1P}.
+FT   STRAND      129    131       {ECO:0000244|PDB:4G1P}.
+FT   TURN        133    138       {ECO:0000244|PDB:4G1P}.
+FT   HELIX       139    154       {ECO:0000244|PDB:4G1P}.
+FT   STRAND      161    169       {ECO:0000244|PDB:4G1P}.
+FT   HELIX       171    173       {ECO:0000244|PDB:4G1P}.
+FT   TURN        174    177       {ECO:0000244|PDB:4G1P}.
+FT   HELIX       178    185       {ECO:0000244|PDB:4G1P}.
+FT   TURN        186    192       {ECO:0000244|PDB:4G1P}.
+FT   STRAND      195    198       {ECO:0000244|PDB:4G1P}.
+FT   STRAND      204    208       {ECO:0000244|PDB:4G1P}.
+FT   STRAND      210    215       {ECO:0000244|PDB:4G1P}.
+FT   STRAND      217    226       {ECO:0000244|PDB:4G1P}.
+FT   STRAND      228    230       {ECO:0000244|PDB:4G1P}.
+FT   TURN        234    236       {ECO:0000244|PDB:4G1P}.
+FT   TURN        238    240       {ECO:0000244|PDB:4G1P}.
+FT   HELIX       244    252       {ECO:0000244|PDB:4G1P}.
+FT   HELIX       267    270       {ECO:0000244|PDB:4G1P}.
+FT   HELIX       276    281       {ECO:0000244|PDB:4G1P}.
+FT   TURN        282    284       {ECO:0000244|PDB:4G1P}.
+FT   HELIX       289    296       {ECO:0000244|PDB:4G1P}.
+FT   HELIX       306    314       {ECO:0000244|PDB:4G1P}.
+FT   STRAND      318    327       {ECO:0000244|PDB:4G1P}.
+FT   STRAND      330    332       {ECO:0000244|PDB:4G1P}.
+FT   STRAND      339    349       {ECO:0000244|PDB:4G1P}.
+FT   HELIX       355    371       {ECO:0000244|PDB:4G1P}.
+FT   STRAND      376    387       {ECO:0000244|PDB:4G1P}.
+FT   HELIX       397    410       {ECO:0000244|PDB:4G1P}.
+FT   STRAND      415    421       {ECO:0000244|PDB:4G1P}.
+FT   HELIX       426    433       {ECO:0000244|PDB:4G1P}.
+FT   STRAND      437    439       {ECO:0000244|PDB:4G1P}.
+FT   STRAND      451    453       {ECO:0000244|PDB:4G1P}.
+FT   STRAND      455    457       {ECO:0000244|PDB:4G1P}.
+FT   HELIX       458    477       {ECO:0000244|PDB:4G1P}.
+SQ   SEQUENCE   481 AA;  52871 MW;  3E53773A945F5EBC CRC64;
+     MSHSLTSVFQ KIDSLKPQFF SRLTKAIQIP AVSSDESLRS KVFDKAKFIS EQLSQSGFHD
+     IKMVDLGIQP PPISTPNLSL PPVILSRFGS DPSKKTVLVY GHYDVQPAQL EDGWDTEPFK
+     LVIDEAKGIM KGRGVTDDTG PLLSWINVVD AFKASGQEFP VNLVTCFEGM EESGSLKLDE
+     LIKKEANGYF KGVDAVCISD NYWLGTKKPV LTYGLRGCNY YQTIIEGPSA DLHSGIFGGV
+     VAEPMIDLMQ VLGSLVDSKG KILIDGIDEM VAPLTEKEKA LYKDIEFSVE ELNAATGSKT
+     SLYDKKEDIL MHRWRYPSLS IHGVEGAFSA QGAKTVIPAK VFGKFSIRTV PDMDSEKLTS
+     LVQKHCDAKF KSLNSPNKCR TELIHDGAYW VSDPFNAQFT AAKKATKLVY GVDPDFTREG
+     GSIPITLTFQ DALNTSVLLL PMGRGDDGAH SINEKLDISN FVGGMKTMAA YLQYYSESPE
+     N
+//

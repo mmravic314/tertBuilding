@@ -1,0 +1,118 @@
+ID   Q5SK67_THET8            Unreviewed;       426 AA.
+AC   Q5SK67;
+DT   21-DEC-2004, integrated into UniProtKB/TrEMBL.
+DT   21-DEC-2004, sequence version 1.
+DT   22-JUL-2015, entry version 88.
+DE   RecName: Full=Dihydroorotase {ECO:0000256|HAMAP-Rule:MF_00220, ECO:0000256|SAAS:SAAS00252556};
+DE            Short=DHOase {ECO:0000256|HAMAP-Rule:MF_00220};
+DE            EC=3.5.2.3 {ECO:0000256|HAMAP-Rule:MF_00220};
+GN   Name=pyrC {ECO:0000256|HAMAP-Rule:MF_00220};
+GN   OrderedLocusNames=TTHA0781 {ECO:0000313|EMBL:BAD70604.1};
+OS   Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579).
+OC   Bacteria; Deinococcus-Thermus; Deinococci; Thermales; Thermaceae;
+OC   Thermus.
+OX   NCBI_TaxID=300852 {ECO:0000313|EMBL:BAD70604.1, ECO:0000313|Proteomes:UP000000532};
+RN   [1] {ECO:0000313|EMBL:BAD70604.1, ECO:0000313|Proteomes:UP000000532}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=HB8 / ATCC 27634 / DSM 579 {ECO:0000313|Proteomes:UP000000532};
+RA   Masui R., Kurokawa K., Nakagawa N., Tokunaga F., Koyama Y.,
+RA   Shibata T., Oshima T., Yokoyama S., Yasunaga T., Kuramitsu S.;
+RT   "Complete genome sequence of Thermus thermophilus HB8.";
+RL   Submitted (NOV-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:2Z00}
+RP   X-RAY CRYSTALLOGRAPHY (2.42 ANGSTROMS) IN COMPLEX WITH ZINC.
+RA   Kanagawa M., Baba S., Kuramitsu S., Yokoyama S., Kawai G., Sampei G.;
+RT   "Crystal structure of dihydroorotase from Thermus thermophilus.";
+RL   Submitted (MAY-2007) to the PDB data bank.
+CC   -!- CATALYTIC ACTIVITY: (S)-dihydroorotate + H(2)O = N-carbamoyl-L-
+CC       aspartate. {ECO:0000256|HAMAP-Rule:MF_00220,
+CC       ECO:0000256|SAAS:SAAS00106641}.
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC         Evidence={ECO:0000256|HAMAP-Rule:MF_00220};
+CC       Note=Binds 2 Zn(2+) ions per subunit. {ECO:0000256|HAMAP-
+CC       Rule:MF_00220};
+CC   -!- PATHWAY: Pyrimidine metabolism; UMP biosynthesis via de novo
+CC       pathway; (S)-dihydroorotate from bicarbonate: step 3/3.
+CC       {ECO:0000256|HAMAP-Rule:MF_00220, ECO:0000256|SAAS:SAAS00106663}.
+CC   -!- SUBUNIT: Homodimer. {ECO:0000256|HAMAP-Rule:MF_00220,
+CC       ECO:0000256|SAAS:SAAS00252540}.
+CC   -!- SIMILARITY: Belongs to the DHOase family. Type 2 subfamily.
+CC       {ECO:0000256|HAMAP-Rule:MF_00220}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AP008226; BAD70604.1; -; Genomic_DNA.
+DR   RefSeq; WP_011228195.1; NC_006461.1.
+DR   RefSeq; YP_144047.1; NC_006461.1.
+DR   PDB; 2Z00; X-ray; 2.42 A; A=1-426.
+DR   ProteinModelPortal; Q5SK67; -.
+DR   SMR; Q5SK67; 1-426.
+DR   STRING; 300852.TTHA0781; -.
+DR   EnsemblBacteria; BAD70604; BAD70604; BAD70604.
+DR   GeneID; 3170046; -.
+DR   KEGG; ttj:TTHA0781; -.
+DR   PATRIC; 23956539; VBITheThe93045_0774.
+DR   eggNOG; COG0044; -.
+DR   HOGENOM; HOG000219142; -.
+DR   KO; K01465; -.
+DR   OMA; VYLAEFT; -.
+DR   OrthoDB; EOG6KHFW6; -.
+DR   PhylomeDB; Q5SK67; -.
+DR   BioCyc; TTHE300852:GH8R-812-MONOMER; -.
+DR   UniPathway; UPA00070; UER00117.
+DR   EvolutionaryTrace; Q5SK67; -.
+DR   Proteomes; UP000000532; Chromosome.
+DR   GO; GO:0004151; F:dihydroorotase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0044205; P:'de novo' UMP biosynthetic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 2.30.40.10; -; 1.
+DR   HAMAP; MF_00220_B; PyrC_type2_B; 1.
+DR   InterPro; IPR004722; DHOase.
+DR   InterPro; IPR002195; Dihydroorotase_CS.
+DR   InterPro; IPR011059; Metal-dep_hydrolase_composite.
+DR   SUPFAM; SSF51338; SSF51338; 2.
+DR   TIGRFAMs; TIGR00857; pyrC_multi; 1.
+DR   PROSITE; PS00482; DIHYDROOROTASE_1; 1.
+DR   PROSITE; PS00483; DIHYDROOROTASE_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2Z00};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000532};
+KW   Hydrolase {ECO:0000256|HAMAP-Rule:MF_00220,
+KW   ECO:0000256|SAAS:SAAS00088295};
+KW   Metal-binding {ECO:0000213|PDB:2Z00, ECO:0000256|HAMAP-Rule:MF_00220};
+KW   Pyrimidine biosynthesis {ECO:0000256|HAMAP-Rule:MF_00220,
+KW   ECO:0000256|SAAS:SAAS00106685};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000532};
+KW   Zinc {ECO:0000213|PDB:2Z00, ECO:0000256|HAMAP-Rule:MF_00220}.
+FT   METAL        55     55       Zinc 1. {ECO:0000256|HAMAP-
+FT                                Rule:MF_00220}.
+FT   METAL        55     55       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2Z00}.
+FT   METAL        57     57       Zinc 1. {ECO:0000256|HAMAP-
+FT                                Rule:MF_00220}.
+FT   METAL        57     57       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2Z00}.
+FT   METAL       147    147       Zinc 1. {ECO:0000213|PDB:2Z00}.
+FT   METAL       147    147       Zinc 2. {ECO:0000213|PDB:2Z00}.
+FT   METAL       174    174       Zinc 2. {ECO:0000256|HAMAP-
+FT                                Rule:MF_00220}.
+FT   METAL       174    174       Zinc 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:2Z00}.
+FT   METAL       233    233       Zinc 2. {ECO:0000256|HAMAP-
+FT                                Rule:MF_00220}.
+FT   METAL       233    233       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2Z00}.
+FT   METAL       306    306       Zinc 1. {ECO:0000213|PDB:2Z00,
+FT                                ECO:0000256|HAMAP-Rule:MF_00220}.
+SQ   SEQUENCE   426 AA;  45694 MW;  753EBA4721371781 CRC64;
+     MILIRNVRLV DARGERGPAD VLIGEGRILS LEGGEAKQVV DGTGCFLAPG FLDLHAHLRE
+     PGEEVKEDLF SGLLAAVRGG YTDLVSMPNT KPPVDTPEAV RALKEKAKAL GLARLHPAAA
+     LTEKQEGKTL TPAGLLREAG AVLLTDDGRT NEDAGVLAAG LLMAAPLGLP VAVHAEDAGL
+     RRNGVMNDGP LADLLGLPGN PPEAEAARIA RDLEVLRYAL RRSPATPRLH VQHLSTKRGL
+     ELVREAKRAG LPVTAEATPH HLTLTEEALR TFDPLFKVAP PLRGEEDREA LLEGLLDGTL
+     DAIATDHAPH TLAEKEKDLL RAPFGIPSLE VAFPLLYTEL HLKRGFPLQR LVELFTDGPR
+     RVLGLPPLHL EEGAEASLVL LSPKERPVDP SAFASKARYS PWAGWVLGGW PVLTLVAGRI
+     VHEALK
+//

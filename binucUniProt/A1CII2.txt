@@ -1,0 +1,132 @@
+ID   A1CII2_ASPCL            Unreviewed;       572 AA.
+AC   A1CII2;
+DT   23-JAN-2007, integrated into UniProtKB/TrEMBL.
+DT   23-JAN-2007, sequence version 1.
+DT   22-JUL-2015, entry version 61.
+DE   SubName: Full=Phosphoribosyl-aminoimidazole carboxylase {ECO:0000313|EMBL:EAW10687.1};
+GN   ORFNames=ACLA_051590 {ECO:0000313|EMBL:EAW10687.1};
+OS   Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC
+OS   3887 / NRRL 1).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=344612 {ECO:0000313|Proteomes:UP000006701};
+RN   [1] {ECO:0000313|Proteomes:UP000006701}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1
+RC   {ECO:0000313|Proteomes:UP000006701};
+RX   PubMed=18404212; DOI=10.1371/journal.pgen.1000046;
+RA   Fedorova N.D., Khaldi N., Joardar V.S., Maiti R., Amedeo P.,
+RA   Anderson M.J., Crabtree J., Silva J.C., Badger J.H., Albarraq A.,
+RA   Angiuoli S., Bussey H., Bowyer P., Cotty P.J., Dyer P.S., Egan A.,
+RA   Galens K., Fraser-Liggett C.M., Haas B.J., Inman J.M., Kent R.,
+RA   Lemieux S., Malavazi I., Orvis J., Roemer T., Ronning C.M.,
+RA   Sundaram J.P., Sutton G., Turner G., Venter J.C., White O.R.,
+RA   Whitty B.R., Youngman P., Wolfe K.H., Goldman G.H., Wortman J.R.,
+RA   Jiang B., Denning D.W., Nierman W.C.;
+RT   "Genomic islands in the pathogenic filamentous fungus Aspergillus
+RT   fumigatus.";
+RL   PLoS Genet. 4:E1000046-E1000046(2008).
+RN   [2] {ECO:0000213|PDB:3K5H, ECO:0000213|PDB:3K5I}
+RP   X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS) OF 1-383 IN COMPLEX WITH ADP;
+RP   ATP AND MAGNESIUM.
+RX   PubMed=20050602; DOI=10.1021/bi901599u;
+RA   Thoden J.B., Holden H.M., Paritala H., Firestine S.M.;
+RT   "Structural and functional studies of Aspergillus clavatus N(5)-
+RT   carboxyaminoimidazole ribonucleotide synthetase .";
+RL   Biochemistry 49:752-760(2010).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; DS027054; EAW10687.1; -; Genomic_DNA.
+DR   RefSeq; XP_001272113.1; XM_001272112.1.
+DR   PDB; 3K5H; X-ray; 2.10 A; A/B/C/D=1-383.
+DR   PDB; 3K5I; X-ray; 2.00 A; A/B/C/D=1-383.
+DR   PDBsum; 3K5H; -.
+DR   PDBsum; 3K5I; -.
+DR   ProteinModelPortal; A1CII2; -.
+DR   SMR; A1CII2; 402-571.
+DR   EnsemblFungi; CADACLAT00005041; CADACLAP00004940; CADACLAG00005041.
+DR   GeneID; 4703659; -.
+DR   KEGG; act:ACLA_051590; -.
+DR   EuPathDB; FungiDB:ACLA_051590; -.
+DR   HOGENOM; HOG000034027; -.
+DR   KO; K11808; -.
+DR   OMA; ACETSQY; -.
+DR   OrthoDB; EOG7FJH8G; -.
+DR   BRENDA; 6.3.4.18; 502.
+DR   EvolutionaryTrace; A1CII2; -.
+DR   Proteomes; UP000006701; Unassembled WGS sequence.
+DR   GO; GO:0005829; C:cytosol; IEA:EnsemblFungi.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004638; F:phosphoribosylaminoimidazole carboxylase activity; IEA:InterPro.
+DR   GO; GO:0006189; P:'de novo' IMP biosynthetic process; IEA:InterPro.
+DR   GO; GO:0071585; P:detoxification of cadmium ion; IEA:EnsemblFungi.
+DR   GO; GO:0070814; P:hydrogen sulfide biosynthetic process; IEA:EnsemblFungi.
+DR   GO; GO:0046938; P:phytochelatin biosynthetic process; IEA:EnsemblFungi.
+DR   GO; GO:0006144; P:purine nucleobase metabolic process; IEA:EnsemblFungi.
+DR   Gene3D; 3.30.1490.20; -; 1.
+DR   Gene3D; 3.30.470.20; -; 1.
+DR   Gene3D; 3.40.50.20; -; 1.
+DR   Gene3D; 3.40.50.7700; -; 1.
+DR   HAMAP; MF_01928; PurK; 1.
+DR   HAMAP; MF_01929; PurE; 1.
+DR   InterPro; IPR016301; AIR_COase.
+DR   InterPro; IPR011761; ATP-grasp.
+DR   InterPro; IPR003135; ATP-grasp_carboxylate-amine.
+DR   InterPro; IPR013815; ATP_grasp_subdomain_1.
+DR   InterPro; IPR013816; ATP_grasp_subdomain_2.
+DR   InterPro; IPR016185; PreATP-grasp_dom.
+DR   InterPro; IPR000031; PurE_dom.
+DR   InterPro; IPR005875; PurK.
+DR   InterPro; IPR011054; Rudment_hybrid_motif.
+DR   Pfam; PF00731; AIRC; 1.
+DR   Pfam; PF02222; ATP-grasp; 1.
+DR   PIRSF; PIRSF001340; AIR_carboxylase; 1.
+DR   SMART; SM01001; AIRC; 1.
+DR   SUPFAM; SSF51246; SSF51246; 1.
+DR   SUPFAM; SSF52255; SSF52255; 1.
+DR   SUPFAM; SSF52440; SSF52440; 1.
+DR   TIGRFAMs; TIGR01162; purE; 1.
+DR   TIGRFAMs; TIGR01161; purK; 1.
+DR   PROSITE; PS50975; ATP_GRASP; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3K5H, ECO:0000213|PDB:3K5I};
+KW   ATP-binding {ECO:0000213|PDB:3K5H};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000006701};
+KW   Magnesium {ECO:0000213|PDB:3K5H, ECO:0000213|PDB:3K5I};
+KW   Metal-binding {ECO:0000213|PDB:3K5H, ECO:0000213|PDB:3K5I};
+KW   Nucleotide-binding {ECO:0000213|PDB:3K5H};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000006701}.
+FT   NP_BIND     152    157       ATP. {ECO:0000213|PDB:3K5H}.
+FT   NP_BIND     154    157       ADP. {ECO:0000213|PDB:3K5I}.
+FT   NP_BIND     181    184       ADP. {ECO:0000213|PDB:3K5I}.
+FT   NP_BIND     181    184       ATP. {ECO:0000213|PDB:3K5H}.
+FT   METAL       254    254       Magnesium. {ECO:0000213|PDB:3K5H,
+FT                                ECO:0000213|PDB:3K5I}.
+FT   METAL       267    267       Magnesium. {ECO:0000213|PDB:3K5H,
+FT                                ECO:0000213|PDB:3K5I}.
+FT   BINDING     104    104       ADP. {ECO:0000213|PDB:3K5I}.
+FT   BINDING     104    104       ATP. {ECO:0000213|PDB:3K5H}.
+FT   BINDING     146    146       ADP. {ECO:0000213|PDB:3K5I}.
+FT   BINDING     146    146       ATP. {ECO:0000213|PDB:3K5H}.
+FT   BINDING     189    189       ADP. {ECO:0000213|PDB:3K5I}.
+FT   BINDING     189    189       ATP. {ECO:0000213|PDB:3K5H}.
+FT   BINDING     214    214       ADP. {ECO:0000213|PDB:3K5I}.
+FT   BINDING     254    254       ADP. {ECO:0000213|PDB:3K5I}.
+FT   BINDING     254    254       ATP. {ECO:0000213|PDB:3K5H}.
+FT   BINDING     267    267       ADP. {ECO:0000213|PDB:3K5I}.
+FT   BINDING     267    267       ATP. {ECO:0000213|PDB:3K5H}.
+SQ   SEQUENCE   572 AA;  62052 MW;  8FBB828DE094E6FF CRC64;
+     MWNSRKVGVL GGGQLGRMLV ESANRLNIQV NVLDADNSPA KQISAHDGHV TGSFKEREAV
+     RQLAKTCDVV TAEIEHVDTY ALEEVASEVK IEPSWQAIRT IQNKFNQKEH LRKYGIPMAE
+     HRELVENTPA ELAKVGEQLG YPLMLKSKTM AYDGRGNFRV NSQDDIPEAL EALKDRPLYA
+     EKWAYFKMEL AVIVVKTKDE VLSYPTVETV QEDSICKLVY APARNVSDAI NQKAQELARK
+     AVAAFDGKGV FGVEMFLLED DSIMLCEIAS RIHNSGHYTI EGCALSQFDA HLRAILDLPI
+     PAQSLEIRQP SIMLNIIGGA APDTHLQAAE CALSIPNASI HLYSKGAAKP GRKMGHITVT
+     APTMHEAETH IQPLIDVVDR IRAQRTDIKT QPAPSGPSKP APSVAVVMGS DSDLKTLVPG
+     LKLLRDYFGI HPAVDITSAH RTPTFMAEYS AGAAARGIKV IIAAAGGAAH LPGMAAAHTA
+     LPVIGVPVKG SSLDGVDSLY SIVQMPRGVP VATVGINNSI NAALLAARIL GAFDPAIQRK
+     VEAYAEQARA ENMELKGTKM QELGWEKYFE QM
+//

@@ -1,0 +1,250 @@
+ID   PLY_BACSU               Reviewed;         420 AA.
+AC   P39116;
+DT   01-FEB-1995, integrated into UniProtKB/Swiss-Prot.
+DT   01-FEB-1995, sequence version 1.
+DT   24-JUN-2015, entry version 118.
+DE   RecName: Full=Pectate lyase;
+DE            Short=PL;
+DE            EC=4.2.2.2;
+DE   Flags: Precursor;
+GN   Name=pel; OrderedLocusNames=BSU07560;
+OS   Bacillus subtilis (strain 168).
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus.
+OX   NCBI_TaxID=224308;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND PROTEIN SEQUENCE OF 22-48.
+RC   STRAIN=168 / SO113;
+RX   PubMed=8262178; DOI=10.1016/0014-5793(93)80410-V;
+RA   Nasser W., Awade A.C., Reverchon S., Robert-Baudouy J.;
+RT   "Pectate lyase from Bacillus subtilis: molecular characterization of
+RT   the gene, and properties of the cloned enzyme.";
+RL   FEBS Lett. 335:319-326(1993).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=168 / AC327;
+RX   PubMed=9272861; DOI=10.1016/S0378-1119(97)00130-3;
+RA   Yamamoto H., Uchiyama S., Nugroho F.A., Sekiguchi J.;
+RT   "Cloning and sequencing of a 35.7 kb in the 70 degree-73 degree region
+RT   of the Bacillus subtilis genome reveal genes for a new two-component
+RT   system, three spore germination proteins, an iron uptake system and a
+RT   general stress response protein.";
+RL   Gene 194:191-199(1997).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=168;
+RX   PubMed=9384377; DOI=10.1038/36786;
+RA   Kunst F., Ogasawara N., Moszer I., Albertini A.M., Alloni G.,
+RA   Azevedo V., Bertero M.G., Bessieres P., Bolotin A., Borchert S.,
+RA   Borriss R., Boursier L., Brans A., Braun M., Brignell S.C., Bron S.,
+RA   Brouillet S., Bruschi C.V., Caldwell B., Capuano V., Carter N.M.,
+RA   Choi S.-K., Codani J.-J., Connerton I.F., Cummings N.J., Daniel R.A.,
+RA   Denizot F., Devine K.M., Duesterhoeft A., Ehrlich S.D., Emmerson P.T.,
+RA   Entian K.-D., Errington J., Fabret C., Ferrari E., Foulger D.,
+RA   Fritz C., Fujita M., Fujita Y., Fuma S., Galizzi A., Galleron N.,
+RA   Ghim S.-Y., Glaser P., Goffeau A., Golightly E.J., Grandi G.,
+RA   Guiseppi G., Guy B.J., Haga K., Haiech J., Harwood C.R., Henaut A.,
+RA   Hilbert H., Holsappel S., Hosono S., Hullo M.-F., Itaya M.,
+RA   Jones L.-M., Joris B., Karamata D., Kasahara Y., Klaerr-Blanchard M.,
+RA   Klein C., Kobayashi Y., Koetter P., Koningstein G., Krogh S.,
+RA   Kumano M., Kurita K., Lapidus A., Lardinois S., Lauber J.,
+RA   Lazarevic V., Lee S.-M., Levine A., Liu H., Masuda S., Mauel C.,
+RA   Medigue C., Medina N., Mellado R.P., Mizuno M., Moestl D., Nakai S.,
+RA   Noback M., Noone D., O'Reilly M., Ogawa K., Ogiwara A., Oudega B.,
+RA   Park S.-H., Parro V., Pohl T.M., Portetelle D., Porwollik S.,
+RA   Prescott A.M., Presecan E., Pujic P., Purnelle B., Rapoport G.,
+RA   Rey M., Reynolds S., Rieger M., Rivolta C., Rocha E., Roche B.,
+RA   Rose M., Sadaie Y., Sato T., Scanlan E., Schleich S., Schroeter R.,
+RA   Scoffone F., Sekiguchi J., Sekowska A., Seror S.J., Serror P.,
+RA   Shin B.-S., Soldo B., Sorokin A., Tacconi E., Takagi T., Takahashi H.,
+RA   Takemaru K., Takeuchi M., Tamakoshi A., Tanaka T., Terpstra P.,
+RA   Tognoni A., Tosato V., Uchiyama S., Vandenbol M., Vannier F.,
+RA   Vassarotti A., Viari A., Wambutt R., Wedler E., Wedler H.,
+RA   Weitzenegger T., Winters P., Wipat A., Yamamoto H., Yamane K.,
+RA   Yasumoto K., Yata K., Yoshida K., Yoshikawa H.-F., Zumstein E.,
+RA   Yoshikawa H., Danchin A.;
+RT   "The complete genome sequence of the Gram-positive bacterium Bacillus
+RT   subtilis.";
+RL   Nature 390:249-256(1997).
+RN   [4]
+RP   PROTEIN SEQUENCE OF 22-32, AND SUBCELLULAR LOCATION.
+RC   STRAIN=168;
+RX   PubMed=10658653;
+RA   Hirose I., Sano K., Shioda I., Kumano M., Nakamura K., Yamane K.;
+RT   "Proteome analysis of Bacillus subtilis extracellular proteins: a two-
+RT   dimensional protein electrophoretic study.";
+RL   Microbiology 146:65-75(2000).
+RN   [5]
+RP   CHARACTERIZATION.
+RC   STRAIN=168 / SO113;
+RX   PubMed=2126210; DOI=10.1016/0300-9084(90)90053-J;
+RA   Nasser W., Chalet F., Robert-Baudouy J.;
+RT   "Purification and characterization of extracellular pectate lyase from
+RT   Bacillus subtilis.";
+RL   Biochimie 72:689-695(1990).
+RN   [6]
+RP   REGULATION BY TNRA.
+RX   PubMed=12823818; DOI=10.1046/j.1365-2958.2003.03567.x;
+RA   Yoshida K., Yamaguchi H., Kinehara M., Ohki Y.-H., Nakaura Y.,
+RA   Fujita Y.;
+RT   "Identification of additional TnrA-regulated genes of Bacillus
+RT   subtilis associated with a TnrA box.";
+RL   Mol. Microbiol. 49:157-165(2003).
+RN   [7]
+RP   X-RAY CRYSTALLOGRAPHY (3.0 ANGSTROMS).
+RX   PubMed=7634076; DOI=10.1038/nsb1094-717;
+RA   Pickersgill R., Jenkins J., Harris G., Nasser W., Robert-Baudouy J.;
+RT   "The structure of Bacillus subtilis pectate lyase in complex with
+RT   calcium.";
+RL   Nat. Struct. Biol. 1:717-723(1994).
+RN   [8]
+RP   X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS).
+RA   Pickersgill R., Worboys K., Scott M., Cummings N., Cooper A.,
+RA   Jenkins J., Smith D.;
+RL   Submitted (JUL-1998) to the PDB data bank.
+CC   -!- FUNCTION: Produces unsaturated products from polygalacturonate.
+CC   -!- CATALYTIC ACTIVITY: Eliminative cleavage of (1->4)-alpha-D-
+CC       galacturonan to give oligosaccharides with 4-deoxy-alpha-D-galact-
+CC       4-enuronosyl groups at their non-reducing ends.
+CC   -!- COFACTOR:
+CC       Name=Ca(2+); Xref=ChEBI:CHEBI:29108;
+CC       Note=Binds 1 Ca(2+) ion per subunit.;
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       pH dependence:
+CC         Optimum pH is 8.4.;
+CC       Temperature dependence:
+CC         Optimum temperature is 42 degrees Celsius.;
+CC   -!- PATHWAY: Glycan metabolism; pectin degradation; 2-dehydro-3-deoxy-
+CC       D-gluconate from pectin: step 2/5.
+CC   -!- SUBUNIT: Monomer.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000269|PubMed:10658653}.
+CC   -!- DEVELOPMENTAL STAGE: Produced during the exponential death phase
+CC       of growth, just before sporulation.
+CC   -!- INDUCTION: Negatively regulated by TnrA under nitrogen-limited
+CC       conditions.
+CC   -!- SIMILARITY: Belongs to the polysaccharide lyase 1 family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X74880; CAA52866.1; -; Genomic_DNA.
+DR   EMBL; D86417; BAA22313.1; -; Genomic_DNA.
+DR   EMBL; AL009126; CAB12585.1; -; Genomic_DNA.
+DR   PIR; S39459; S39459.
+DR   RefSeq; NP_388637.1; NC_000964.3.
+DR   RefSeq; WP_003244025.1; NZ_JNCM01000032.1.
+DR   PDB; 1BN8; X-ray; 1.80 A; A=1-420.
+DR   PDB; 2BSP; X-ray; 1.80 A; A=1-420.
+DR   PDB; 2NZM; X-ray; 1.80 A; A=22-420.
+DR   PDB; 2O04; X-ray; 1.70 A; A=22-420.
+DR   PDB; 2O0V; X-ray; 1.90 A; A=22-420.
+DR   PDB; 2O0W; X-ray; 1.90 A; A=22-420.
+DR   PDB; 2O17; X-ray; 2.30 A; A=22-420.
+DR   PDB; 2O1D; X-ray; 2.00 A; A=22-420.
+DR   PDB; 3KRG; X-ray; 1.90 A; A=22-420.
+DR   PDBsum; 1BN8; -.
+DR   PDBsum; 2BSP; -.
+DR   PDBsum; 2NZM; -.
+DR   PDBsum; 2O04; -.
+DR   PDBsum; 2O0V; -.
+DR   PDBsum; 2O0W; -.
+DR   PDBsum; 2O17; -.
+DR   PDBsum; 2O1D; -.
+DR   PDBsum; 3KRG; -.
+DR   ProteinModelPortal; P39116; -.
+DR   SMR; P39116; 22-420.
+DR   STRING; 224308.Bsubs1_010100004223; -.
+DR   CAZy; PL1; Polysaccharide Lyase Family 1.
+DR   PaxDb; P39116; -.
+DR   EnsemblBacteria; CAB12585; CAB12585; BSU07560.
+DR   GeneID; 936113; -.
+DR   KEGG; bsu:BSU07560; -.
+DR   PATRIC; 18973162; VBIBacSub10457_0795.
+DR   GenoList; BSU07560; -.
+DR   eggNOG; COG3866; -.
+DR   HOGENOM; HOG000216909; -.
+DR   InParanoid; P39116; -.
+DR   KO; K01728; -.
+DR   OMA; YLKAYDP; -.
+DR   OrthoDB; EOG65J4ZZ; -.
+DR   BioCyc; BSUB:BSU07560-MONOMER; -.
+DR   BRENDA; 4.2.2.2; 658.
+DR   UniPathway; UPA00545; UER00824.
+DR   EvolutionaryTrace; P39116; -.
+DR   Proteomes; UP000001570; Chromosome.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0030570; F:pectate lyase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0045490; P:pectin catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 2.160.20.10; -; 1.
+DR   InterPro; IPR002022; Amb_allergen_dom.
+DR   InterPro; IPR012334; Pectin_lyas_fold.
+DR   InterPro; IPR011050; Pectin_lyase_fold/virulence.
+DR   Pfam; PF00544; Pec_lyase_C; 1.
+DR   SMART; SM00656; Amb_all; 1.
+DR   SUPFAM; SSF51126; SSF51126; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Calcium; Complete proteome; Direct protein sequencing;
+KW   Lyase; Metal-binding; Reference proteome; Secreted; Signal.
+FT   SIGNAL        1     21       {ECO:0000269|PubMed:10658653,
+FT                                ECO:0000269|PubMed:8262178}.
+FT   CHAIN        22    420       Pectate lyase.
+FT                                /FTId=PRO_0000024859.
+FT   ACT_SITE    300    300       {ECO:0000255}.
+FT   METAL       205    205       Calcium.
+FT   METAL       244    244       Calcium.
+FT   METAL       248    248       Calcium.
+FT   TURN         24     26       {ECO:0000244|PDB:2O04}.
+FT   HELIX        35     37       {ECO:0000244|PDB:2O04}.
+FT   TURN         44     47       {ECO:0000244|PDB:2O04}.
+FT   HELIX        50     52       {ECO:0000244|PDB:2O04}.
+FT   STRAND       53     56       {ECO:0000244|PDB:2O04}.
+FT   HELIX        59     66       {ECO:0000244|PDB:2O04}.
+FT   STRAND       75     79       {ECO:0000244|PDB:2O04}.
+FT   STRAND       81     87       {ECO:0000244|PDB:2O04}.
+FT   HELIX        96     99       {ECO:0000244|PDB:2O04}.
+FT   HELIX       106    113       {ECO:0000244|PDB:2O04}.
+FT   HELIX       115    118       {ECO:0000244|PDB:2O04}.
+FT   HELIX       126    142       {ECO:0000244|PDB:2O04}.
+FT   STRAND      143    145       {ECO:0000244|PDB:2O04}.
+FT   STRAND      148    157       {ECO:0000244|PDB:2O04}.
+FT   STRAND      160    163       {ECO:0000244|PDB:2O04}.
+FT   STRAND      165    168       {ECO:0000244|PDB:2O04}.
+FT   STRAND      170    177       {ECO:0000244|PDB:2O04}.
+FT   STRAND      179    181       {ECO:0000244|PDB:2O04}.
+FT   STRAND      189    191       {ECO:0000244|PDB:2O04}.
+FT   STRAND      194    197       {ECO:0000244|PDB:1BN8}.
+FT   STRAND      199    201       {ECO:0000244|PDB:2O04}.
+FT   STRAND      206    211       {ECO:0000244|PDB:2O04}.
+FT   STRAND      213    219       {ECO:0000244|PDB:2O04}.
+FT   STRAND      221    223       {ECO:0000244|PDB:2O04}.
+FT   HELIX       229    231       {ECO:0000244|PDB:2O04}.
+FT   STRAND      246    250       {ECO:0000244|PDB:2O04}.
+FT   STRAND      254    260       {ECO:0000244|PDB:2O04}.
+FT   STRAND      262    268       {ECO:0000244|PDB:2O04}.
+FT   STRAND      271    273       {ECO:0000244|PDB:2O04}.
+FT   HELIX       279    281       {ECO:0000244|PDB:2O04}.
+FT   STRAND      287    291       {ECO:0000244|PDB:2O04}.
+FT   STRAND      293    299       {ECO:0000244|PDB:2O04}.
+FT   STRAND      303    306       {ECO:0000244|PDB:2O04}.
+FT   STRAND      308    313       {ECO:0000244|PDB:2O04}.
+FT   STRAND      315    317       {ECO:0000244|PDB:2O04}.
+FT   STRAND      323    325       {ECO:0000244|PDB:2O04}.
+FT   STRAND      330    333       {ECO:0000244|PDB:2O04}.
+FT   STRAND      338    343       {ECO:0000244|PDB:2O04}.
+FT   STRAND      345    347       {ECO:0000244|PDB:2O04}.
+FT   HELIX       354    356       {ECO:0000244|PDB:2O04}.
+FT   STRAND      357    359       {ECO:0000244|PDB:2O04}.
+FT   STRAND      367    370       {ECO:0000244|PDB:2O04}.
+FT   STRAND      376    378       {ECO:0000244|PDB:2O1D}.
+FT   HELIX       380    383       {ECO:0000244|PDB:2O04}.
+FT   HELIX       403    413       {ECO:0000244|PDB:2O04}.
+SQ   SEQUENCE   420 AA;  45498 MW;  6FE93A671B73C15D CRC64;
+     MKKVMLATAL FLGLTPAGAN AADLGHQTLG SNDGWGAYST GTTGGSKASS SNVYTVSNRN
+     QLVSALGKET NTTPKIIYIK GTIDMNVDDN LKPLGLNDYK DPEYDLDKYL KAYDPSTWGK
+     KEPSGTQEEA RARSQKNQKA RVMVDIPANT TIVGSGTNAK VVGGNFQIKS DNVIIRNIEF
+     QDAYDYFPQW DPTDGSSGNW NSQYDNITIN GGTHIWIDHC TFNDGSRPDS TSPKYYGRKY
+     QHHDGQTDAS NGANYITMSY NYYHDHDKSS IFGSSDSKTS DDGKLKITLH HNRYKNIVQR
+     APRVRFGQVH VYNNYYEGST SSSSYPFSYA WGIGKSSKIY AQNNVIDVPG LSAAKTISVF
+     SGGTALYDSG TLLNGTQINA SAANGLSSSV GWTPSLHGSI DASANVKSNV INQAGAGKLN
+//

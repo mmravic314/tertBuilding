@@ -1,0 +1,104 @@
+ID   A0PQS3_MYCUA            Unreviewed;       375 AA.
+AC   A0PQS3;
+DT   09-JAN-2007, integrated into UniProtKB/TrEMBL.
+DT   09-JAN-2007, sequence version 1.
+DT   22-JUL-2015, entry version 69.
+DE   SubName: Full=Dipeptidase PepE {ECO:0000313|EMBL:ABL04692.1};
+GN   Name=pepE {ECO:0000313|EMBL:ABL04692.1};
+GN   OrderedLocusNames=MUL_2321 {ECO:0000313|EMBL:ABL04692.1};
+OS   Mycobacterium ulcerans (strain Agy99).
+OC   Bacteria; Actinobacteria; Corynebacteriales; Mycobacteriaceae;
+OC   Mycobacterium.
+OX   NCBI_TaxID=362242 {ECO:0000313|EMBL:ABL04692.1, ECO:0000313|Proteomes:UP000000765};
+RN   [1] {ECO:0000313|EMBL:ABL04692.1, ECO:0000313|Proteomes:UP000000765}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Agy99 {ECO:0000313|EMBL:ABL04692.1,
+RC   ECO:0000313|Proteomes:UP000000765};
+RX   PubMed=17210928; DOI=10.1101/gr.5942807;
+RA   Stinear T.P., Seemann T., Pidot S., Frigui W., Reysset G., Garnier T.,
+RA   Meurice G., Simon D., Bouchier C., Ma L., Tichit M., Porter J.L.,
+RA   Ryan J., Johnson P.D.R., Davies J.K., Jenkin G.A., Small P.L.C.,
+RA   Jones L.M., Tekaia F., Laval F., Daffe M., Parkhill J., Cole S.T.;
+RT   "Reductive evolution and niche adaptation inferred from the genome of
+RT   Mycobacterium ulcerans, the causative agent of Buruli ulcer.";
+RL   Genome Res. 17:192-200(2007).
+RN   [2] {ECO:0000213|PDB:4EGE}
+RP   X-RAY CRYSTALLOGRAPHY (2.20 ANGSTROMS) OF 1-374 IN COMPLEX WITH ZINC.
+RX   PubMed=25613812; DOI=10.1016/j.tube.2014.12.003;
+RA   Baugh L., Phan I., Begley D.W., Clifton M.C., Armour B., Dranow D.M.,
+RA   Taylor B.M., Muruthi M.M., Abendroth J., Fairman J.W., Fox D.,
+RA   Dieterich S.H., Staker B.L., Gardberg A.S., Choi R., Hewitt S.N.,
+RA   Napuli A.J., Myers J., Barrett L.K., Zhang Y., Ferrell M., Mundt E.,
+RA   Thompkins K., Tran N., Lyons-Abbott S., Abramov A., Sekar A.,
+RA   Serbzhinskiy D., Lorimer D., Buchko G.W., Stacy R., Stewart L.J.,
+RA   Edwards T.E., Van Voorhis W.C., Myler P.J.;
+RT   "Increasing the structural coverage of tuberculosis drug targets.";
+RL   Tuberculosis 95:142-148(2015).
+CC   -!- SIMILARITY: Belongs to the peptidase M24B family.
+CC       {ECO:0000256|RuleBase:RU000590}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP000325; ABL04692.1; -; Genomic_DNA.
+DR   RefSeq; WP_011740308.1; NC_008611.1.
+DR   RefSeq; YP_906163.1; NC_008611.1.
+DR   PDB; 4EGE; X-ray; 2.20 A; A=1-374.
+DR   PDBsum; 4EGE; -.
+DR   ProteinModelPortal; A0PQS3; -.
+DR   MEROPS; M24.034; -.
+DR   EnsemblBacteria; ABL04692; ABL04692; MUL_2321.
+DR   GeneID; 4550466; -.
+DR   KEGG; mul:MUL_2321; -.
+DR   PATRIC; 18171790; VBIMycUlc37413_2737.
+DR   GenoList; MUL_2321; -.
+DR   eggNOG; COG0006; -.
+DR   HOGENOM; HOG000008760; -.
+DR   OMA; HARMGEW; -.
+DR   OrthoDB; EOG618QTW; -.
+DR   Proteomes; UP000000765; Chromosome.
+DR   GO; GO:0016787; F:hydrolase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.350.10; -; 1.
+DR   Gene3D; 3.90.230.10; -; 1.
+DR   InterPro; IPR029149; Creatin/AminoP/Spt16_NTD.
+DR   InterPro; IPR028980; Creatinase/Aminopeptidase_P_N.
+DR   InterPro; IPR000587; Creatinase_N.
+DR   InterPro; IPR000994; Pept_M24_structural-domain.
+DR   InterPro; IPR001131; Peptidase_M24B_aminopep-P_CS.
+DR   Pfam; PF01321; Creatinase_N; 1.
+DR   Pfam; PF00557; Peptidase_M24; 1.
+DR   SUPFAM; SSF53092; SSF53092; 1.
+DR   SUPFAM; SSF55920; SSF55920; 1.
+DR   PROSITE; PS00491; PROLINE_PEPTIDASE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4EGE};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000765};
+KW   Hydrolase {ECO:0000256|RuleBase:RU003652};
+KW   Metal-binding {ECO:0000213|PDB:4EGE, ECO:0000256|RuleBase:RU000590};
+KW   Zinc {ECO:0000213|PDB:4EGE}.
+FT   METAL        37     37       Zinc 1. {ECO:0000213|PDB:4EGE}.
+FT   METAL        50     50       Zinc 2. {ECO:0000213|PDB:4EGE}.
+FT   METAL        71     71       Zinc 3. {ECO:0000213|PDB:4EGE}.
+FT   METAL       115    115       Zinc 1. {ECO:0000213|PDB:4EGE}.
+FT   METAL       213    213       Zinc 3; via pros nitrogen.
+FT                                {ECO:0000213|PDB:4EGE}.
+FT   METAL       230    230       Zinc 4. {ECO:0000213|PDB:4EGE}.
+FT   METAL       242    242       Zinc 4. {ECO:0000213|PDB:4EGE}.
+FT   METAL       242    242       Zinc 5. {ECO:0000213|PDB:4EGE}.
+FT   METAL       306    306       Zinc 5; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4EGE}.
+FT   METAL       313    313       Zinc 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:4EGE}.
+FT   METAL       335    335       Zinc 5. {ECO:0000213|PDB:4EGE}.
+FT   METAL       349    349       Zinc 4. {ECO:0000213|PDB:4EGE}.
+FT   METAL       349    349       Zinc 5. {ECO:0000213|PDB:4EGE}.
+SQ   SEQUENCE   375 AA;  39118 MW;  EB3597CD09F144CA CRC64;
+     MDSGRFDTAV YARRLAAAAA ATEQAGLAGL VITPGYDLRY LIGSRADTFE RLTALVLPAS
+     GVPTIVLPRL ELASLKESAA SDLGVCVRDW VDGDDPYQLV AVALGGAPAA TAVTDSMPAL
+     HLLPLADALG VLPVLATDVL RQLRMVKEAA EVDALAKAGA AIDRVHARVP AFLVPGRTEA
+     QVAADIAEAI VAEGHSAVAF VIVGSGPHGA DPHHGYSDRK LQVGDIVVVD IGGTYEPGYY
+     SDSTRTYSIG DPSPDVAQQY SALQRAQRAA VDAVRPGVTA AQVDAAARDV LADAGLAEYF
+     VHRTGHGIGL CVHEEPYIVA GNELPLVAGM AFSIEPGIYF PGRWGARIED IVVVTENGAL
+     SVNNRPHELM VVPVS
+//

@@ -1,0 +1,242 @@
+ID   MOP_DESGI               Reviewed;         907 AA.
+AC   Q46509;
+DT   15-JUL-1998, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   27-MAY-2015, entry version 94.
+DE   RecName: Full=Aldehyde oxidoreductase;
+DE            EC=1.2.99.7;
+DE   AltName: Full=Molybdenum iron sulfur protein;
+GN   Name=mop;
+OS   Desulfovibrio gigas.
+OC   Bacteria; Proteobacteria; Deltaproteobacteria; Desulfovibrionales;
+OC   Desulfovibrionaceae; Desulfovibrio.
+OX   NCBI_TaxID=879;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=8143744; DOI=10.1111/j.1432-1033.1994.tb18693.x;
+RA   Thoenes U., Flores O.L., Neves A., Devreese B., van Beeumen J.J.,
+RA   Huber R., Romao M.J., Legall J., Moura J.J.G., Rodriges-Pousada C.;
+RT   "Molecular cloning and sequence analysis of the gene of the
+RT   molybdenum-containing aldehyde oxido-reductase of Desulfovibrio gigas.
+RT   The deduced amino acid sequence shows similarity to xanthine
+RT   dehydrogenase.";
+RL   Eur. J. Biochem. 220:901-910(1994).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (2.25 ANGSTROMS).
+RX   PubMed=7502041; DOI=10.1126/science.270.5239.1170;
+RA   Romao M.J., Archer M., Moura I., Moura J.J.G., LeGall J., Engh R.,
+RA   Schneider M., Hof P., Huber R.;
+RT   "Crystal structure of the xanthine oxidase-related aldehyde oxido-
+RT   reductase from D. gigas.";
+RL   Science 270:1170-1176(1995).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS).
+RX   PubMed=8799115; DOI=10.1073/pnas.93.17.8846;
+RA   Huber R., Hof P., Duarte R.O., Moura J.J.G., Moura I., Liu M.-Y.,
+RA   LeGall J., Hille R., Archer M., Romao M.J.;
+RT   "A structure-based catalytic mechanism for the xanthine oxidase family
+RT   of molybdenum enzymes.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 93:8846-8851(1996).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (1.28 ANGSTROMS).
+RX   PubMed=11713686; DOI=10.1007/s007750100255;
+RA   Rebelo J.M., Dias J.M., Huber R., Moura J.J., Romao M.J.;
+RT   "Structure refinement of the aldehyde oxidoreductase from
+RT   Desulfovibrio gigas (MOP) at 1.28 A.";
+RL   J. Biol. Inorg. Chem. 6:791-800(2001).
+CC   -!- CATALYTIC ACTIVITY: An aldehyde + H(2)O + acceptor = a carboxylate
+CC       + reduced acceptor.
+CC   -!- COFACTOR:
+CC       Name=Mo-molybdopterin cytosine dinucleotide;
+CC         Xref=ChEBI:CHEBI:71308;
+CC       Note=Binds 1 Mo-molybdopterin cytosine dinucleotide (Mo-MCD)
+CC       cofactor per subunit.;
+CC   -!- COFACTOR:
+CC       Name=[2Fe-2S] cluster; Xref=ChEBI:CHEBI:49601;
+CC       Note=Binds 2 [2Fe-2S] clusters per subunit.;
+CC   -!- SUBUNIT: Homodimer.
+CC   -!- SIMILARITY: Belongs to the xanthine dehydrogenase family.
+CC       {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 2Fe-2S ferredoxin-type domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00465}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X77222; CAA54439.1; -; Genomic_DNA.
+DR   PIR; A57429; A57429.
+DR   PDB; 1SIJ; X-ray; 2.30 A; A=1-907.
+DR   PDB; 1VLB; X-ray; 1.28 A; A=1-907.
+DR   PDB; 3FAH; X-ray; 1.72 A; A=1-907.
+DR   PDB; 3FC4; X-ray; 1.79 A; A=1-907.
+DR   PDB; 3L4P; X-ray; 1.45 A; A=1-907.
+DR   PDB; 4C7Y; X-ray; 1.57 A; A=1-907.
+DR   PDB; 4C7Z; X-ray; 1.55 A; A=1-907.
+DR   PDB; 4C80; X-ray; 1.50 A; A=1-907.
+DR   PDB; 4US8; X-ray; 1.49 A; A=1-907.
+DR   PDB; 4US9; X-ray; 1.40 A; A=1-907.
+DR   PDB; 4USA; X-ray; 1.13 A; A=1-907.
+DR   PDBsum; 1SIJ; -.
+DR   PDBsum; 1VLB; -.
+DR   PDBsum; 3FAH; -.
+DR   PDBsum; 3FC4; -.
+DR   PDBsum; 3L4P; -.
+DR   PDBsum; 4C7Y; -.
+DR   PDBsum; 4C7Z; -.
+DR   PDBsum; 4C80; -.
+DR   PDBsum; 4US8; -.
+DR   PDBsum; 4US9; -.
+DR   PDBsum; 4USA; -.
+DR   ProteinModelPortal; Q46509; -.
+DR   SMR; Q46509; 1-907.
+DR   BRENDA; 1.2.99.7; 1907.
+DR   SABIO-RK; Q46509; -.
+DR   EvolutionaryTrace; Q46509; -.
+DR   GO; GO:0051537; F:2 iron, 2 sulfur cluster binding; IEA:UniProtKB-KW.
+DR   GO; GO:0033727; F:aldehyde dehydrogenase (FAD-independent) activity; IEA:UniProtKB-EC.
+DR   GO; GO:0009055; F:electron carrier activity; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.150.120; -; 1.
+DR   Gene3D; 3.10.20.30; -; 1.
+DR   Gene3D; 3.30.365.10; -; 6.
+DR   Gene3D; 3.90.1170.50; -; 1.
+DR   InterPro; IPR002888; 2Fe-2S-bd.
+DR   InterPro; IPR001041; 2Fe-2S_ferredoxin-type.
+DR   InterPro; IPR006058; 2Fe2S_fd_BS.
+DR   InterPro; IPR000674; Ald_Oxase/Xan_DH_a/b.
+DR   InterPro; IPR008274; AldOxase/xan_DH_Mopterin-bd.
+DR   InterPro; IPR012675; Beta-grasp_dom.
+DR   Pfam; PF01315; Ald_Xan_dh_C; 1.
+DR   Pfam; PF02738; Ald_Xan_dh_C2; 1.
+DR   Pfam; PF00111; Fer2; 1.
+DR   Pfam; PF01799; Fer2_2; 1.
+DR   SMART; SM01008; Ald_Xan_dh_C; 1.
+DR   SUPFAM; SSF47741; SSF47741; 1.
+DR   SUPFAM; SSF54292; SSF54292; 1.
+DR   SUPFAM; SSF54665; SSF54665; 1.
+DR   SUPFAM; SSF56003; SSF56003; 1.
+DR   PROSITE; PS00197; 2FE2S_FER_1; 1.
+DR   PROSITE; PS51085; 2FE2S_FER_2; 1.
+PE   1: Evidence at protein level;
+KW   2Fe-2S; 3D-structure; FAD; Flavoprotein; Iron; Iron-sulfur;
+KW   Metal-binding; Molybdenum; NAD; Oxidoreductase.
+FT   CHAIN         1    907       Aldehyde oxidoreductase.
+FT                                /FTId=PRO_0000166102.
+FT   DOMAIN        2     79       2Fe-2S ferredoxin-type.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00465}.
+FT   METAL        40     40       Iron-sulfur 1 (2Fe-2S).
+FT                                {ECO:0000269|PubMed:7502041}.
+FT   METAL        45     45       Iron-sulfur 1 (2Fe-2S).
+FT                                {ECO:0000269|PubMed:7502041}.
+FT   METAL        48     48       Iron-sulfur 1 (2Fe-2S).
+FT                                {ECO:0000269|PubMed:7502041}.
+FT   METAL        60     60       Iron-sulfur 1 (2Fe-2S).
+FT                                {ECO:0000269|PubMed:7502041}.
+FT   METAL       100    100       Iron-sulfur 2 (2Fe-2S).
+FT                                {ECO:0000269|PubMed:7502041}.
+FT   METAL       103    103       Iron-sulfur 2 (2Fe-2S).
+FT                                {ECO:0000269|PubMed:7502041}.
+FT   METAL       137    137       Iron-sulfur 2 (2Fe-2S).
+FT                                {ECO:0000269|PubMed:7502041}.
+FT   METAL       139    139       Iron-sulfur 2 (2Fe-2S).
+FT                                {ECO:0000269|PubMed:7502041}.
+FT   METAL       653    653       Molybdenum.
+FT   METAL       869    869       Molybdenum.
+FT   STRAND        2      8       {ECO:0000244|PDB:4USA}.
+FT   STRAND       11     17       {ECO:0000244|PDB:4USA}.
+FT   HELIX        23     29       {ECO:0000244|PDB:4USA}.
+FT   STRAND       39     45       {ECO:0000244|PDB:4USA}.
+FT   STRAND       49     52       {ECO:0000244|PDB:4USA}.
+FT   STRAND       55     58       {ECO:0000244|PDB:4USA}.
+FT   HELIX        59     61       {ECO:0000244|PDB:4USA}.
+FT   HELIX        64     66       {ECO:0000244|PDB:4USA}.
+FT   STRAND       72     74       {ECO:0000244|PDB:4USA}.
+FT   HELIX        76     79       {ECO:0000244|PDB:4USA}.
+FT   HELIX        87     95       {ECO:0000244|PDB:4USA}.
+FT   HELIX       104    117       {ECO:0000244|PDB:4USA}.
+FT   HELIX       123    132       {ECO:0000244|PDB:4USA}.
+FT   STRAND      138    140       {ECO:0000244|PDB:4USA}.
+FT   HELIX       143    156       {ECO:0000244|PDB:4USA}.
+FT   HELIX       162    165       {ECO:0000244|PDB:4USA}.
+FT   HELIX       185    189       {ECO:0000244|PDB:4USA}.
+FT   HELIX       196    201       {ECO:0000244|PDB:4USA}.
+FT   STRAND      208    214       {ECO:0000244|PDB:4USA}.
+FT   STRAND      216    226       {ECO:0000244|PDB:4USA}.
+FT   HELIX       228    231       {ECO:0000244|PDB:4USA}.
+FT   STRAND      236    240       {ECO:0000244|PDB:4USA}.
+FT   HELIX       242    244       {ECO:0000244|PDB:4USA}.
+FT   STRAND      249    251       {ECO:0000244|PDB:4USA}.
+FT   STRAND      267    270       {ECO:0000244|PDB:4USA}.
+FT   STRAND      272    275       {ECO:0000244|PDB:4USA}.
+FT   STRAND      281    289       {ECO:0000244|PDB:4USA}.
+FT   HELIX       290    297       {ECO:0000244|PDB:4USA}.
+FT   STRAND      301    306       {ECO:0000244|PDB:4USA}.
+FT   HELIX       313    317       {ECO:0000244|PDB:4USA}.
+FT   STRAND      330    341       {ECO:0000244|PDB:4USA}.
+FT   HELIX       343    349       {ECO:0000244|PDB:4USA}.
+FT   STRAND      351    360       {ECO:0000244|PDB:4USA}.
+FT   STRAND      372    377       {ECO:0000244|PDB:4USA}.
+FT   STRAND      383    387       {ECO:0000244|PDB:4USA}.
+FT   HELIX       392    403       {ECO:0000244|PDB:4USA}.
+FT   HELIX       407    409       {ECO:0000244|PDB:4USA}.
+FT   STRAND      410    414       {ECO:0000244|PDB:4USA}.
+FT   HELIX       423    425       {ECO:0000244|PDB:4USA}.
+FT   HELIX       430    440       {ECO:0000244|PDB:4USA}.
+FT   STRAND      444    447       {ECO:0000244|PDB:4USA}.
+FT   HELIX       450    455       {ECO:0000244|PDB:4USA}.
+FT   STRAND      463    471       {ECO:0000244|PDB:4USA}.
+FT   STRAND      477    487       {ECO:0000244|PDB:4USA}.
+FT   HELIX       495    505       {ECO:0000244|PDB:4USA}.
+FT   TURN        506    509       {ECO:0000244|PDB:4USA}.
+FT   STRAND      514    522       {ECO:0000244|PDB:4USA}.
+FT   TURN        533    536       {ECO:0000244|PDB:4USA}.
+FT   HELIX       537    555       {ECO:0000244|PDB:4USA}.
+FT   HELIX       559    566       {ECO:0000244|PDB:4USA}.
+FT   HELIX       585    606       {ECO:0000244|PDB:4USA}.
+FT   STRAND      609    626       {ECO:0000244|PDB:4USA}.
+FT   TURN        627    629       {ECO:0000244|PDB:4USA}.
+FT   STRAND      631    638       {ECO:0000244|PDB:4USA}.
+FT   STRAND      644    647       {ECO:0000244|PDB:4USA}.
+FT   STRAND      653    655       {ECO:0000244|PDB:4USA}.
+FT   HELIX       657    669       {ECO:0000244|PDB:4USA}.
+FT   HELIX       670    672       {ECO:0000244|PDB:4USA}.
+FT   HELIX       676    678       {ECO:0000244|PDB:4USA}.
+FT   STRAND      679    681       {ECO:0000244|PDB:4USA}.
+FT   TURN        686    688       {ECO:0000244|PDB:4USA}.
+FT   HELIX       700    719       {ECO:0000244|PDB:4USA}.
+FT   STRAND      724    726       {ECO:0000244|PDB:4USA}.
+FT   HELIX       729    734       {ECO:0000244|PDB:4USA}.
+FT   STRAND      740    746       {ECO:0000244|PDB:4USA}.
+FT   TURN        755    757       {ECO:0000244|PDB:4USA}.
+FT   STRAND      766    778       {ECO:0000244|PDB:4USA}.
+FT   TURN        779    781       {ECO:0000244|PDB:4USA}.
+FT   STRAND      784    794       {ECO:0000244|PDB:4USA}.
+FT   HELIX       801    820       {ECO:0000244|PDB:4USA}.
+FT   HELIX       829    831       {ECO:0000244|PDB:4USA}.
+FT   TURN        833    837       {ECO:0000244|PDB:4USA}.
+FT   HELIX       841    843       {ECO:0000244|PDB:4USA}.
+FT   STRAND      848    852       {ECO:0000244|PDB:4USA}.
+FT   STRAND      858    860       {ECO:0000244|PDB:1SIJ}.
+FT   HELIX       861    863       {ECO:0000244|PDB:4USA}.
+FT   HELIX       870    872       {ECO:0000244|PDB:4USA}.
+FT   HELIX       875    887       {ECO:0000244|PDB:4USA}.
+FT   STRAND      893    895       {ECO:0000244|PDB:1SIJ}.
+FT   HELIX       898    906       {ECO:0000244|PDB:4USA}.
+SQ   SEQUENCE   907 AA;  97035 MW;  898E7EEF708A64DF CRC64;
+     MIQKVITVNG IEQNLFVDAE ALLSDVLRQQ LGLTGVKVGC EQGQCGACSV ILDGKVVRAC
+     VTKMKRVADG AQITTIEGVG QPENLHPLQK AWVLHGGAQC GFCSPGFIVS AKGLLDTNAD
+     PSREDVRDWF QKHRNACRCT GYKPLVDAVM DAAAVINGKK PETDLEFKMP ADGRIWGSKY
+     PRPTAVAKVT GTLDYGADLG LKMPAGTLHL AMVQAKVSHA NIKGIDTSEA LTMPGVHSVI
+     THKDVKGKNR ITGLITFPTN KGDGWDRPIL CDEKVFQYGD CIALVCADSE ANARAAAEKV
+     KVDLEELPAY MSGPAAAAED AIEIHPGTPN VYFEQPIVKG EDTGPIFASA DVTVEGDFYV
+     GRQPHMPIEP DVAFAYMGDD GKCYIHSKSI GVHLHLYMIA PGVGLEPDQL VLVANPMGGT
+     FGYKFSPTSE ALVAVAAMAT GRPVHLRYNY QQQQQYTGKR SPWEMNVKFA AKKDGTLLAM
+     ESDWLVDHGP YSEFGDLLTL RGAQFIGAGY NIPNIRGLGR TVATNHVWGS AFRGYGAPQS
+     MFASECLMDM LAEKLGMDPL ELRYKNAYRP GDTNPTGQEP EVFSLPDMID QLRPKYQAAL
+     EKAQKESTAT HKKGVGISIG VYGSGLDGPD ASEAWAELNA DGTITVHTAW EDHGQGADIG
+     CVGTAHEALR PMGVAPEKIK FTWPNTATTP NSGPSGGSRQ QVMTGNAIRV ACENLLKACE
+     KPGGGYYTYD ELKAADKPTK ITGNWTASGA THCDAVTGLG KPFVVYMYGV FMAEVTVDVA
+     TGQTTVDGMT LMADLGSLCN QLATDGQIYG GLAQGIGLAL SEDFEDIKKH ATLVGAGFPF
+     IKQIPDKLDI VYVNHPRPDG PFGASGVGEL PLTSPHAAII NAIKSATGVR IYRLPAYPEK
+     VLEALKA
+//

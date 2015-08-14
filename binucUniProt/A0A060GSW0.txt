@@ -1,0 +1,59 @@
+ID   A0A060GSW0_BREDI        Unreviewed;       333 AA.
+AC   A0A060GSW0;
+DT   03-SEP-2014, integrated into UniProtKB/TrEMBL.
+DT   03-SEP-2014, sequence version 1.
+DT   22-JUL-2015, entry version 5.
+DE   SubName: Full=Phosphotriesterase variant PTE-R22 {ECO:0000313|EMBL:AIB55570.1};
+OS   Brevundimonas diminuta (Pseudomonas diminuta).
+OC   Bacteria; Proteobacteria; Alphaproteobacteria; Caulobacterales;
+OC   Caulobacteraceae; Brevundimonas.
+OX   NCBI_TaxID=293 {ECO:0000313|EMBL:AIB55570.1};
+RN   [1] {ECO:0000213|PDB:4PCN}
+RP   X-RAY CRYSTALLOGRAPHY (1.54 ANGSTROMS) IN COMPLEX WITH ZINC.
+RA   Jackson C.J., Campbell E., Kaltenbach M., Tokuriki N.;
+RT   "Phosphotriesterase variant R22.";
+RL   Submitted (APR-2014) to the PDB data bank.
+RN   [2] {ECO:0000313|EMBL:AIB55570.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Kaltenbach M., Campbell E., Jackson C.T., Hollfelder F., Tokuriki N.;
+RT   "Reverse evolution led to an efficient enzyme incompatible with its
+RT   ancestor by rewiring intra-molecular interactions.";
+RL   Submitted (APR-2014) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; KJ680376; AIB55570.1; -; Genomic_DNA.
+DR   PDB; 4PCN; X-ray; 1.54 A; A/B=1-333.
+DR   PDBsum; 4PCN; -.
+DR   GO; GO:0016788; F:hydrolase activity, acting on ester bonds; IEA:InterPro.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:InterPro.
+DR   GO; GO:0009056; P:catabolic process; IEA:InterPro.
+DR   InterPro; IPR017947; AryldialkylPase_Zn-BS.
+DR   InterPro; IPR001559; Phosphotriesterase.
+DR   PANTHER; PTHR10819; PTHR10819; 1.
+DR   Pfam; PF02126; PTE; 1.
+DR   PROSITE; PS01322; PHOSPHOTRIESTERASE_1; 1.
+DR   PROSITE; PS51347; PHOSPHOTRIESTERASE_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4PCN};
+KW   Metal-binding {ECO:0000213|PDB:4PCN}; Zinc {ECO:0000213|PDB:4PCN}.
+FT   METAL        23     23       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4PCN}.
+FT   METAL        25     25       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4PCN}.
+FT   METAL       137    137       Zinc 1. {ECO:0000213|PDB:4PCN}.
+FT   METAL       137    137       Zinc 2. {ECO:0000213|PDB:4PCN}.
+FT   METAL       169    169       Zinc 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:4PCN}.
+FT   METAL       198    198       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4PCN}.
+FT   METAL       269    269       Zinc 1. {ECO:0000213|PDB:4PCN}.
+SQ   SEQUENCE   333 AA;  36135 MW;  48E42AA5F45D05FB CRC64;
+     MGDRINTVRG PIAISEVGFT LTHEHICGSS AGFLRAWPEF FGSREALVEK AVRGLRRARA
+     AGVRTIVDVT TFDLGRDVRL LAEVSRAADV HIVAATGVWL DPPLTIRMRS VVELTQFFLR
+     EIQYGIEDTG IRAGIIKVAI TGKMTPFHEL VLRAAARASL ATGVPVITHT AGSQRGGEQQ
+     AAIFESEGLS PSRVCIGHSD ETDDLSYLTA LAARGYLIGL DRIPHSAIGL EDNASATAFM
+     GSRSWQTRAL LIKALIDQGY MKQILVSNDW LFGISSYVTN FTDVMDSVNP DGMAFIPLRV
+     IPFLREKGTP QETLAGITVT NPARFLSPTL RAS
+//

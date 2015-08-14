@@ -1,0 +1,178 @@
+ID   ACSE_MOOTH              Reviewed;         262 AA.
+AC   Q46389;
+DT   29-MAY-2013, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2001, sequence version 2.
+DT   24-JUN-2015, entry version 69.
+DE   RecName: Full=5-methyltetrahydrofolate:corrinoid/iron-sulfur protein co-methyltransferase;
+DE            EC=2.1.1.258;
+DE   AltName: Full=5-methyltetrahydrofolate corrinoid/iron sulfur protein methyltransferase;
+DE            Short=MeTr;
+GN   Name=acsE;
+OS   Moorella thermoacetica (Clostridium thermoaceticum).
+OC   Bacteria; Firmicutes; Clostridia; Thermoanaerobacterales;
+OC   Thermoanaerobacteraceae; Moorella group; Moorella.
+OX   NCBI_TaxID=1525;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], FUNCTION, AND CATALYTIC ACTIVITY.
+RC   STRAIN=DSM 521;
+RX   PubMed=7928975;
+RA   Roberts D.L., Zhao S., Doukov T., Ragsdale S.W.;
+RT   "The reductive acetyl coenzyme A pathway: sequence and heterologous
+RT   expression of active methyltetrahydrofolate:corrinoid/iron-sulfur
+RT   protein methyltransferase from Clostridium thermoaceticum.";
+RL   J. Bacteriol. 176:6127-6130(1994).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (2.20 ANGSTROMS).
+RX   PubMed=10997901; DOI=10.1016/S0969-2126(00)00172-6;
+RA   Doukov T., Seravalli J., Stezowski J.J., Ragsdale S.W.;
+RT   "Crystal structure of a methyltetrahydrofolate- and corrinoid-
+RT   dependent methyltransferase.";
+RL   Structure 8:817-830(2000).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (2.20 ANGSTROMS) IN COMPLEX WITH
+RP   METHYLTETRAHYDROFOLATE AND CALCIUM, FUNCTION, CATALYTIC ACTIVITY,
+RP   COFACTOR, AND MUTAGENESIS OF ASN-199.
+RX   PubMed=17172470; DOI=10.1074/jbc.M609828200;
+RA   Doukov T.I., Hemmi H., Drennan C.L., Ragsdale S.W.;
+RT   "Structural and kinetic evidence for an extended hydrogen-bonding
+RT   network in catalysis of methyl group transfer. Role of an active site
+RT   asparagine residue in activation of methyl transfer by
+RT   methyltransferases.";
+RL   J. Biol. Chem. 282:6609-6618(2007).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (2.38 ANGSTROMS) IN COMPLEX WITH ACSC; ACSD;
+RP   METHYLTETRAHYDROFOLATE; COBALAMIN AND CALCIUM, FUNCTION, CATALYTIC
+RP   ACTIVITY, COFACTOR, AND SUBUNIT.
+RX   PubMed=22419154; DOI=10.1038/nature10916;
+RA   Kung Y., Ando N., Doukov T.I., Blasiak L.C., Bender G., Seravalli J.,
+RA   Ragsdale S.W., Drennan C.L.;
+RT   "Visualizing molecular juggling within a B12-dependent
+RT   methyltransferase complex.";
+RL   Nature 484:265-269(2012).
+CC   -!- FUNCTION: Methyltransferase that mediates the transfer of a N5-
+CC       methyl group of (6S)-methyltetrahydrofolate to the 5-
+CC       methoxybenzimidazolylcobamide cofactor of a corrinoid/Fe-S protein
+CC       in the anaerobic acetyl-CoA pathway (Wood-Ljungdahl pathway) of
+CC       carbon monoxide and carbon dioxide fixation.
+CC       {ECO:0000269|PubMed:17172470, ECO:0000269|PubMed:22419154,
+CC       ECO:0000269|PubMed:7928975}.
+CC   -!- CATALYTIC ACTIVITY: A [methyl-Co(III) corrinoid Fe-S protein] +
+CC       tetrahydrofolate = a [Co(I) corrinoid Fe-S protein] + 5-
+CC       methyltetrahydrofolate. {ECO:0000269|PubMed:17172470,
+CC       ECO:0000269|PubMed:22419154, ECO:0000269|PubMed:7928975}.
+CC   -!- COFACTOR:
+CC       Name=Ca(2+); Xref=ChEBI:CHEBI:29108;
+CC         Evidence={ECO:0000269|PubMed:17172470,
+CC         ECO:0000269|PubMed:22419154};
+CC   -!- SUBUNIT: Heterohexamer composed of 2 subunits of AcsC, 2 subunits
+CC       of AcsD and 2 subunits of AcsE. {ECO:0000269|PubMed:17172470,
+CC       ECO:0000269|PubMed:22419154}.
+CC   -!- SIMILARITY: Belongs to the vitamin-B12 dependent methionine
+CC       synthase family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 pterin-binding domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00334}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; L34780; AAA53548.2; -; Genomic_DNA.
+DR   PIR; I40795; I40795.
+DR   PDB; 1F6Y; X-ray; 2.20 A; A/B=1-262.
+DR   PDB; 2E7F; X-ray; 2.20 A; A/B=1-262.
+DR   PDB; 2OGY; X-ray; 2.30 A; A/B=1-262.
+DR   PDB; 4DJD; X-ray; 2.38 A; A/B=1-262.
+DR   PDB; 4DJE; X-ray; 3.50 A; A/B=1-262.
+DR   PDB; 4DJF; X-ray; 3.03 A; A/B=1-262.
+DR   PDBsum; 1F6Y; -.
+DR   PDBsum; 2E7F; -.
+DR   PDBsum; 2OGY; -.
+DR   PDBsum; 4DJD; -.
+DR   PDBsum; 4DJE; -.
+DR   PDBsum; 4DJF; -.
+DR   ProteinModelPortal; Q46389; -.
+DR   SMR; Q46389; 1-262.
+DR   DIP; DIP-59668N; -.
+DR   STRING; 264732.Moth_1197; -.
+DR   BioCyc; MetaCyc:METHCOCLTH-MONOMER; -.
+DR   BRENDA; 2.1.1.258; 1528.
+DR   EvolutionaryTrace; Q46389; -.
+DR   GO; GO:0005509; F:calcium ion binding; IDA:UniProtKB.
+DR   GO; GO:0031419; F:cobalamin binding; IEA:UniProtKB-KW.
+DR   GO; GO:0008168; F:methyltransferase activity; IDA:UniProtKB.
+DR   GO; GO:0015977; P:carbon fixation; IDA:UniProtKB.
+DR   GO; GO:0042558; P:pteridine-containing compound metabolic process; IEA:InterPro.
+DR   Gene3D; 3.20.20.20; -; 1.
+DR   InterPro; IPR011005; Dihydropteroate_synth-like.
+DR   InterPro; IPR000489; Pterin-binding.
+DR   Pfam; PF00809; Pterin_bind; 1.
+DR   SUPFAM; SSF51717; SSF51717; 1.
+DR   PROSITE; PS50972; PTERIN_BINDING; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Calcium; Carbon dioxide fixation; Cobalamin; Cobalt;
+KW   Metal-binding; Methyltransferase; Transferase.
+FT   CHAIN         1    262       5-methyltetrahydrofolate:corrinoid/iron-
+FT                                sulfur protein co-methyltransferase.
+FT                                /FTId=PRO_0000422560.
+FT   DOMAIN        1    246       Pterin-binding. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00334}.
+FT   REGION      202    203       Cobalamin binding.
+FT   METAL       184    184       Calcium 1. {ECO:0000269|PubMed:17172470,
+FT                                ECO:0000269|PubMed:22419154}.
+FT   METAL       222    222       Calcium 1; via carbonyl oxygen.
+FT                                {ECO:0000269|PubMed:17172470,
+FT                                ECO:0000269|PubMed:22419154}.
+FT   METAL       222    222       Calcium 2; via carbonyl oxygen.
+FT                                {ECO:0000269|PubMed:17172470,
+FT                                ECO:0000269|PubMed:22419154}.
+FT   METAL       224    224       Calcium 1. {ECO:0000269|PubMed:17172470,
+FT                                ECO:0000269|PubMed:22419154}.
+FT   METAL       224    224       Calcium 2. {ECO:0000269|PubMed:17172470,
+FT                                ECO:0000269|PubMed:22419154}.
+FT   BINDING      96     96       Methyltetrahydrofolate.
+FT                                {ECO:0000269|PubMed:17172470,
+FT                                ECO:0000269|PubMed:22419154}.
+FT   BINDING     160    160       Methyltetrahydrofolate.
+FT                                {ECO:0000269|PubMed:17172470,
+FT                                ECO:0000269|PubMed:22419154}.
+FT   BINDING     199    199       Methyltetrahydrofolate.
+FT                                {ECO:0000269|PubMed:17172470,
+FT                                ECO:0000269|PubMed:22419154}.
+FT   BINDING     202    202       Methyltetrahydrofolate.
+FT                                {ECO:0000269|PubMed:17172470,
+FT                                ECO:0000269|PubMed:22419154}.
+FT   BINDING     207    207       Methyltetrahydrofolate.
+FT                                {ECO:0000269|PubMed:17172470,
+FT                                ECO:0000269|PubMed:22419154}.
+FT   SITE        199    199       Transition state stabilizer.
+FT   MUTAGEN     199    199       N->A: 20-fold decreased affinity for
+FT                                methyltetrahydrofolate and nearly
+FT                                abolished catalytic activity.
+FT                                {ECO:0000269|PubMed:17172470}.
+FT   STRAND        2      5       {ECO:0000244|PDB:1F6Y}.
+FT   HELIX        13     21       {ECO:0000244|PDB:1F6Y}.
+FT   HELIX        24     37       {ECO:0000244|PDB:1F6Y}.
+FT   STRAND       40     45       {ECO:0000244|PDB:1F6Y}.
+FT   HELIX        53     65       {ECO:0000244|PDB:1F6Y}.
+FT   STRAND       70     75       {ECO:0000244|PDB:1F6Y}.
+FT   HELIX        79     88       {ECO:0000244|PDB:1F6Y}.
+FT   STRAND       93     98       {ECO:0000244|PDB:1F6Y}.
+FT   HELIX       102    114       {ECO:0000244|PDB:1F6Y}.
+FT   STRAND      118    123       {ECO:0000244|PDB:1F6Y}.
+FT   HELIX       133    150       {ECO:0000244|PDB:1F6Y}.
+FT   HELIX       154    156       {ECO:0000244|PDB:1F6Y}.
+FT   STRAND      157    160       {ECO:0000244|PDB:1F6Y}.
+FT   TURN        166    168       {ECO:0000244|PDB:1F6Y}.
+FT   HELIX       172    184       {ECO:0000244|PDB:1F6Y}.
+FT   STRAND      192    196       {ECO:0000244|PDB:1F6Y}.
+FT   HELIX       197    201       {ECO:0000244|PDB:1F6Y}.
+FT   HELIX       207    220       {ECO:0000244|PDB:1F6Y}.
+FT   STRAND      225    228       {ECO:0000244|PDB:1F6Y}.
+FT   HELIX       233    245       {ECO:0000244|PDB:1F6Y}.
+FT   HELIX       255    261       {ECO:0000244|PDB:1F6Y}.
+SQ   SEQUENCE   262 AA;  28609 MW;  62466A25D42496A1 CRC64;
+     MLIIGERING MFGDIKRAIQ ERDPAPVQEW ARRQEEGGAR ALDLNVGPAV QDKVSAMEWL
+     VEVTQEVSNL TLCLDSTNIK AIEAGLKKCK NRAMINSTNA EREKVEKLFP LAVEHGAALI
+     GLTMNKTGIP KDSDTRLAFA MELVAAADEF GLPMEDLYID PLILPANVAQ DHAPEVLKTL
+     QQIKMLADPA PKTVLGLSNV SQNCQNRPLI NRTFLAMAMA CGLDAAIADA CDEALIETAA
+     TAEILLNQTV YCDSFVKMFK TR
+//

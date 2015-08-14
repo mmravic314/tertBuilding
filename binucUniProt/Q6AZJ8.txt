@@ -1,0 +1,157 @@
+ID   Q6AZJ8_XENLA            Unreviewed;       130 AA.
+AC   Q6AZJ8;
+DT   13-SEP-2004, integrated into UniProtKB/TrEMBL.
+DT   13-SEP-2004, sequence version 1.
+DT   22-JUL-2015, entry version 90.
+DE   RecName: Full=Histone H2A {ECO:0000256|RuleBase:RU000527};
+GN   Name=hist1h2aj {ECO:0000313|Xenbase:XB-GENE-994962};
+GN   Synonyms=LOC494591 {ECO:0000313|EMBL:AAH77816.1};
+OS   Xenopus laevis (African clawed frog).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Amphibia; Batrachia; Anura; Pipoidea; Pipidae; Xenopodinae; Xenopus;
+OC   Xenopus.
+OX   NCBI_TaxID=8355 {ECO:0000313|EMBL:AAH77816.1};
+RN   [1] {ECO:0000313|EMBL:AAH77816.1}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Embryo {ECO:0000313|EMBL:AAH77816.1};
+RG   NIH - Xenopus Gene Collection (XGC) project;
+RL   Submitted (JUL-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:3KXB}
+RP   X-RAY CRYSTALLOGRAPHY (3.20 ANGSTROMS) OF 2-130.
+RX   PubMed=20100606; DOI=10.1016/j.bbagrm.2010.01.009;
+RA   Watanabe S., Resch M., Lilyestrom W., Clark N., Hansen J.C.,
+RA   Peterson C., Luger K.;
+RT   "Structural characterization of H3K56Q nucleosomes and nucleosomal
+RT   arrays.";
+RL   Biochim. Biophys. Acta 1799:480-486(2010).
+RN   [3] {ECO:0000213|PDB:3LZ0, ECO:0000213|PDB:3LZ1}
+RP   X-RAY CRYSTALLOGRAPHY (2.50 ANGSTROMS) OF 2-120.
+RX   PubMed=20800598; DOI=10.1016/j.jmb.2010.08.039;
+RA   Vasudevan D., Chua E.Y., Davey C.A.;
+RT   "Crystal structures of nucleosome core particles containing the '601'
+RT   strong positioning sequence.";
+RL   J. Mol. Biol. 403:1-10(2010).
+RN   [4] {ECO:0000213|PDB:3MVD}
+RP   X-RAY CRYSTALLOGRAPHY (2.90 ANGSTROMS) OF 2-130.
+RX   PubMed=20739938; DOI=10.1038/nature09321;
+RA   Makde R.D., England J.R., Yennawar H.P., Tan S.;
+RT   "Structure of RCC1 chromatin factor bound to the nucleosome core
+RT   particle.";
+RL   Nature 467:562-566(2010).
+RN   [5] {ECO:0000213|PDB:3MGP, ECO:0000213|PDB:3MGQ, ECO:0000213|PDB:3MGR}
+RP   X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) OF 2-120.
+RX   PubMed=20494975; DOI=10.1093/nar/gkq420;
+RA   Mohideen K., Muhammad R., Davey C.A.;
+RT   "Perturbations in nucleosome structure from heavy metal association.";
+RL   Nucleic Acids Res. 38:6301-6311(2010).
+RN   [6] {ECO:0000213|PDB:3LEL}
+RP   X-RAY CRYSTALLOGRAPHY (2.95 ANGSTROMS) OF 2-130.
+RX   PubMed=20399189; DOI=10.1016/j.str.2010.01.015;
+RA   Wu B., Mohideen K., Vasudevan D., Davey C.A.;
+RT   "Structural insight into the sequence dependence of nucleosome
+RT   positioning.";
+RL   Structure 18:528-536(2010).
+RN   [7] {ECO:0000213|PDB:4KHA}
+RP   X-RAY CRYSTALLOGRAPHY (2.35 ANGSTROMS) OF 15-103.
+RX   PubMed=23698368;
+RA   Hondele M., Stuwe T., Hassler M., Halbach F., Bowman A., Zhang E.T.,
+RA   Nijmeijer B., Kotthoff C., Rybin V., Amlacher S., Hurt E.,
+RA   Ladurner A.G.;
+RT   "Structural basis of histone H2A-H2B recognition by the essential
+RT   chaperone FACT.";
+RL   Nature 499:111-114(2013).
+RN   [8] {ECO:0000213|PDB:4KGC}
+RP   X-RAY CRYSTALLOGRAPHY (2.69 ANGSTROMS).
+RX   PubMed=24637564;
+RA   Adhireksan Z., Davey G.E., Campomanes P., Groessl M., Clavel C.M.,
+RA   Yu H., Nazarov A.A., Yeo C.H., Ang W.H., Droge P., Rothlisberger U.,
+RA   Dyson P.J., Davey C.A.;
+RT   "Ligand substitutions between ruthenium-cymene compounds can control
+RT   protein versus DNA targeting and anticancer activity.";
+RL   Nat. Commun. 5:3462-3462(2014).
+RN   [9] {ECO:0000213|PDB:4R8P}
+RP   X-RAY CRYSTALLOGRAPHY (3.28 ANGSTROMS) OF 2-130.
+RX   PubMed=25355358;
+RA   McGinty R.K., Henrici R.C., Tan S.;
+RT   "Crystal structure of the PRC1 ubiquitylation module bound to the
+RT   nucleosome.";
+RL   Nature 514:591-596(2014).
+CC   -!- SUBUNIT: The nucleosome is a histone octamer containing two
+CC       molecules each of H2A, H2B, H3 and H4 assembled in one H3-H4
+CC       heterotetramer and two H2A-H2B heterodimers. The octamer wraps
+CC       approximately 147 bp of DNA. {ECO:0000256|RuleBase:RU003556}.
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000256|RuleBase:RU000527}.
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000256|SAAS:SAAS00155769}.
+CC       Chromosome {ECO:0000256|SAAS:SAAS00155769}.
+CC   -!- SIMILARITY: Belongs to the histone H2A family.
+CC       {ECO:0000256|RuleBase:RU003767}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; BC077816; AAH77816.1; -; mRNA.
+DR   RefSeq; NP_001087948.1; NM_001094479.1.
+DR   UniGene; Xl.79701; -.
+DR   PDB; 3KXB; X-ray; 3.20 A; C/G=2-130.
+DR   PDB; 3LEL; X-ray; 2.95 A; C/G/M/Q=2-130.
+DR   PDB; 3LZ0; X-ray; 2.50 A; C/G=2-120.
+DR   PDB; 3LZ1; X-ray; 2.50 A; C/G=2-120.
+DR   PDB; 3MGP; X-ray; 2.44 A; C/G=2-120.
+DR   PDB; 3MGQ; X-ray; 2.65 A; C/G=2-120.
+DR   PDB; 3MGR; X-ray; 2.30 A; C/G=2-120.
+DR   PDB; 3MGS; X-ray; 3.15 A; C/G=2-120.
+DR   PDB; 3MVD; X-ray; 2.90 A; C/G=2-130.
+DR   PDB; 4KGC; X-ray; 2.69 A; C/G=1-130.
+DR   PDB; 4KHA; X-ray; 2.35 A; B=15-103.
+DR   PDB; 4R8P; X-ray; 3.28 A; C/G=2-130.
+DR   PDBsum; 3KXB; -.
+DR   PDBsum; 3LEL; -.
+DR   PDBsum; 3LZ0; -.
+DR   PDBsum; 3LZ1; -.
+DR   PDBsum; 3MGP; -.
+DR   PDBsum; 3MGQ; -.
+DR   PDBsum; 3MGR; -.
+DR   PDBsum; 3MGS; -.
+DR   PDBsum; 3MVD; -.
+DR   PDBsum; 4KGC; -.
+DR   PDBsum; 4KHA; -.
+DR   PDBsum; 4R8P; -.
+DR   ProteinModelPortal; Q6AZJ8; -.
+DR   SMR; Q6AZJ8; 2-118.
+DR   DIP; DIP-38576N; -.
+DR   IntAct; Q6AZJ8; 1.
+DR   PRIDE; Q6AZJ8; -.
+DR   GeneID; 494591; -.
+DR   KEGG; xla:494591; -.
+DR   CTD; 8331; -.
+DR   Xenbase; XB-GENE-994962; hist1h2aj.
+DR   HOVERGEN; HBG009342; -.
+DR   KO; K11251; -.
+DR   EvolutionaryTrace; Q6AZJ8; -.
+DR   GO; GO:0000786; C:nucleosome; IEA:UniProtKB-KW.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.20.10; -; 1.
+DR   InterPro; IPR009072; Histone-fold.
+DR   InterPro; IPR007125; Histone_core_D.
+DR   InterPro; IPR002119; Histone_H2A.
+DR   Pfam; PF00125; Histone; 1.
+DR   PRINTS; PR00620; HISTONEH2A.
+DR   SMART; SM00414; H2A; 1.
+DR   SUPFAM; SSF47113; SSF47113; 1.
+DR   PROSITE; PS00046; HISTONE_H2A; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3KXB, ECO:0000213|PDB:3LEL};
+KW   Chromosome {ECO:0000256|RuleBase:RU000527,
+KW   ECO:0000256|SAAS:SAAS00155773};
+KW   DNA-binding {ECO:0000256|RuleBase:RU000527,
+KW   ECO:0000256|SAAS:SAAS00155773};
+KW   Nucleosome core {ECO:0000256|RuleBase:RU000527,
+KW   ECO:0000256|SAAS:SAAS00155773};
+KW   Nucleus {ECO:0000256|RuleBase:RU000527,
+KW   ECO:0000256|SAAS:SAAS00155767}.
+SQ   SEQUENCE   130 AA;  14081 MW;  62E46ABF27FA5E98 CRC64;
+     MSGRGKQGGK TRAKAKTRSS RAGLQFPVGR VHRLLRKGNY AERVGAGAPV YLAAVLEYLT
+     AEILELAGNA ARDNKKTRII PRHLQLAVRN DEELNKLLGR VTIAQGGVLP NIQSVLLPKK
+     TESSKSAKSK
+//

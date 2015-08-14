@@ -1,0 +1,110 @@
+ID   Q87DZ3_XYLFT            Unreviewed;       448 AA.
+AC   Q87DZ3;
+DT   01-JUN-2003, integrated into UniProtKB/TrEMBL.
+DT   01-JUN-2003, sequence version 1.
+DT   22-JUL-2015, entry version 87.
+DE   SubName: Full=Hemolysin {ECO:0000313|EMBL:AAO28409.1};
+GN   Name=tlyC {ECO:0000313|EMBL:AAO28409.1};
+GN   OrderedLocusNames=PD_0536 {ECO:0000313|EMBL:AAO28409.1};
+OS   Xylella fastidiosa (strain Temecula1 / ATCC 700964).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales;
+OC   Xanthomonadaceae; Xylella.
+OX   NCBI_TaxID=183190 {ECO:0000313|EMBL:AAO28409.1, ECO:0000313|Proteomes:UP000002516};
+RN   [1] {ECO:0000313|EMBL:AAO28409.1, ECO:0000313|Proteomes:UP000002516}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Temecula1 / ATCC 700964 {ECO:0000313|Proteomes:UP000002516};
+RX   PubMed=12533478; DOI=10.1128/JB.185.3.1018-1026.2003;
+RA   Van Sluys M.A., de Oliveira M.C., Monteiro-Vitorello C.B.,
+RA   Miyaki C.Y., Furlan L.R., Camargo L.E.A., da Silva A.C.R., Moon D.H.,
+RA   Takita M.A., Lemos E.G.M., Machado M.A., Ferro M.I.T., da Silva F.R.,
+RA   Goldman M.H.S., Goldman G.H., Lemos M.V.F., El-Dorry H., Tsai S.M.,
+RA   Carrer H., Carraro D.M., de Oliveira R.C., Nunes L.R., Siqueira W.J.,
+RA   Coutinho L.L., Kimura E.T., Ferro E.S., Harakava R., Kuramae E.E.,
+RA   Marino C.L., Giglioti E., Abreu I.L., Alves L.M.C., do Amaral A.M.,
+RA   Baia G.S., Blanco S.R., Brito M.S., Cannavan F.S., Celestino A.V.,
+RA   da Cunha A.F., Fenille R.C., Ferro J.A., Formighieri E.F., Kishi L.T.,
+RA   Leoni S.G., Oliveira A.R., Rosa V.E. Jr., Sassaki F.T., Sena J.A.D.,
+RA   de Souza A.A., Truffi D., Tsukumo F., Yanai G.M., Zaros L.G.,
+RA   Civerolo E.L., Simpson A.J.G., Almeida N.F. Jr., Setubal J.C.,
+RA   Kitajima J.P.;
+RT   "Comparative analyses of the complete genome sequences of Pierce's
+RT   disease and citrus variegated chlorosis strains of Xylella
+RT   fastidiosa.";
+RL   J. Bacteriol. 185:1018-1026(2003).
+RN   [2] {ECO:0000213|PDB:2OAI}
+RP   X-RAY CRYSTALLOGRAPHY (1.80 ANGSTROMS) OF 349-439 IN COMPLEX WITH
+RP   CALCIUM, AND METHYLATION AT LYS-432.
+RA   Cuff M.E., Volkart L., Abdullah J., Binkowski T.A., Joachimiak A.;
+RT   "The structure of transporter associated domain CorC_HlyC from a
+RT   Xylella fastidiosa Temecula1 hemolysin.";
+RL   Submitted (DEC-2006) to the PDB data bank.
+RN   [3] {ECO:0000213|PDB:2R8D}
+RP   X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS) OF 349-439 IN COMPLEX WITH
+RP   MAGNESIUM AND MANGANESE.
+RA   Cuff M.E., Volkart L., Joachimiak A.;
+RT   "The structure of transporter associated domain CorC in complex with
+RT   Mg++ and Mn++ from Xylella fastidiosa.";
+RL   Submitted (SEP-2007) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE009442; AAO28409.1; -; Genomic_DNA.
+DR   PDB; 2OAI; X-ray; 1.80 A; A=349-439.
+DR   PDB; 2R8D; X-ray; 2.00 A; A=349-439.
+DR   PDBsum; 2OAI; -.
+DR   PDBsum; 2R8D; -.
+DR   ProteinModelPortal; Q87DZ3; -.
+DR   EnsemblBacteria; AAO28409; AAO28409; PD_0536.
+DR   KEGG; xft:PD0536; -.
+DR   PATRIC; 24148771; VBIXylFas71109_0701.
+DR   eggNOG; COG1253; -.
+DR   KO; K03699; -.
+DR   OMA; TLAGMCI; -.
+DR   OrthoDB; EOG60W7V4; -.
+DR   BioCyc; XFAS183190:GIX4-536-MONOMER; -.
+DR   EvolutionaryTrace; Q87DZ3; -.
+DR   Proteomes; UP000002516; Chromosome.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0050660; F:flavin adenine dinucleotide binding; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016614; F:oxidoreductase activity, acting on CH-OH group of donors; IEA:InterPro.
+DR   Gene3D; 3.30.465.10; -; 1.
+DR   InterPro; IPR000644; CBS_dom.
+DR   InterPro; IPR016169; CO_DH_flavot_FAD-bd_sub2.
+DR   InterPro; IPR002550; DUF21.
+DR   InterPro; IPR016166; FAD-bd_2.
+DR   InterPro; IPR005170; Transptr-assoc_dom.
+DR   Pfam; PF00571; CBS; 2.
+DR   Pfam; PF03471; CorC_HlyC; 1.
+DR   Pfam; PF01595; DUF21; 1.
+DR   SMART; SM00116; CBS; 2.
+DR   SMART; SM01091; CorC_HlyC; 1.
+DR   SUPFAM; SSF56176; SSF56176; 1.
+DR   PROSITE; PS51371; CBS; 2.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2OAI, ECO:0000213|PDB:2R8D};
+KW   Calcium {ECO:0000213|PDB:2OAI};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002516};
+KW   Magnesium {ECO:0000213|PDB:2R8D}; Manganese {ECO:0000213|PDB:2R8D};
+KW   Membrane {ECO:0000256|SAAS:SAAS00244274};
+KW   Metal-binding {ECO:0000213|PDB:2OAI, ECO:0000213|PDB:2R8D};
+KW   Transmembrane {ECO:0000256|SAAS:SAAS00244274};
+KW   Transmembrane helix {ECO:0000256|SAAS:SAAS00244274}.
+FT   METAL       424    424       Calcium. {ECO:0000213|PDB:2OAI}.
+FT   METAL       425    425       Calcium; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:2OAI}.
+FT   METAL       426    426       Calcium. {ECO:0000213|PDB:2OAI}.
+FT   METAL       431    431       Calcium. {ECO:0000213|PDB:2OAI}.
+FT   MOD_RES     432    432       N6,N6-dimethyllysine.
+FT                                {ECO:0000213|PDB:2OAI}.
+SQ   SEQUENCE   448 AA;  50057 MW;  FE8C888965571C3D CRC64;
+     MPRHLRKRRV FELLIVIALI FLNGFFAMSE MSLMTSRKSR LKQMAHSSKH AAKALTLAQN
+     PESFLSTVQI GITLIGILTG LFGGDAIGTA IGQWLTALTP QLGEYTSIIG KTLSVALITF
+     LTLIFGELVP KRLALTHSEK IASTIAVPMS VLARIAAPGV WVLAKSTQLV LRVFGFGKIP
+     SSAVTEEEIR LLVAESHEAG VIDDYERNMM NRVMRLGDRT ADSLMTPRNR IAWLDNSADL
+     EHNLEIMREH QFSRYPVYRS SDQDIVGILE VKSVITRIDS QTQTTLSLFQ ELCEPVFVSE
+     STHALKLLEI FREEQQSMAL VVDEYGEILG LVTISDLMGA VIGRLQNVEN TDEDALMVTR
+     EDGSFLIDGT LPIEELREVL GAELPDGEEN NYHTLAGMCI SYFGRIPHVG EYFDWAGWRI
+     EIVDLDGARI DKLLLQRLNK EKNHVPHK
+//

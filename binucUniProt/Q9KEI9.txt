@@ -1,0 +1,170 @@
+ID   RNH1_BACHD              Reviewed;         196 AA.
+AC   Q9KEI9;
+DT   07-FEB-2006, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2000, sequence version 1.
+DT   22-JUL-2015, entry version 96.
+DE   RecName: Full=Ribonuclease H;
+DE            Short=RNase H;
+DE            EC=3.1.26.4;
+GN   Name=rnhA; OrderedLocusNames=BH0863;
+OS   Bacillus halodurans (strain ATCC BAA-125 / DSM 18197 / FERM 7344 / JCM
+OS   9153 / C-125).
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus.
+OX   NCBI_TaxID=272558;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC BAA-125 / DSM 18197 / FERM 7344 / JCM 9153 / C-125;
+RX   PubMed=11058132; DOI=10.1093/nar/28.21.4317;
+RA   Takami H., Nakasone K., Takaki Y., Maeno G., Sasaki R., Masui N.,
+RA   Fuji F., Hirama C., Nakamura Y., Ogasawara N., Kuhara S.,
+RA   Horikoshi K.;
+RT   "Complete genome sequence of the alkaliphilic bacterium Bacillus
+RT   halodurans and genomic sequence comparison with Bacillus subtilis.";
+RL   Nucleic Acids Res. 28:4317-4331(2000).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (1.5 ANGSTROMS) OF 59-196 OF MUTANT ASN-132 IN
+RP   COMPLEX WITH MAGNESIUM AND SUBSTRATE, FUNCTION, AND MUTAGENESIS OF
+RP   GLU-109; ASP-132; GLU-188 AND ASP-192.
+RX   PubMed=15989951; DOI=10.1016/j.cell.2005.04.024;
+RA   Nowotny M., Gaidamakov S.A., Crouch R.J., Yang W.;
+RT   "Crystal structures of RNase H bound to an RNA/DNA hybrid: substrate
+RT   specificity and metal-dependent catalysis.";
+RL   Cell 121:1005-1016(2005).
+CC   -!- FUNCTION: Endonuclease that specifically degrades the RNA of RNA-
+CC       DNA hybrids. {ECO:0000269|PubMed:15989951}.
+CC   -!- CATALYTIC ACTIVITY: Endonucleolytic cleavage to 5'-
+CC       phosphomonoester.
+CC   -!- COFACTOR:
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC       Note=Binds 2 metal ions per subunit. Manganese or magnesium.;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the RNase H family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 RNase H domain. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; BA000004; BAB04582.1; -; Genomic_DNA.
+DR   PIR; G83757; G83757.
+DR   RefSeq; WP_010897036.1; NC_002570.2.
+DR   PDB; 1ZBF; X-ray; 1.50 A; A=59-196.
+DR   PDB; 1ZBI; X-ray; 1.85 A; A/B=59-196.
+DR   PDB; 1ZBL; X-ray; 2.20 A; A/B=59-191.
+DR   PDB; 2G8F; X-ray; 1.65 A; A=59-196.
+DR   PDB; 2G8H; X-ray; 1.85 A; A=59-196.
+DR   PDB; 2G8I; X-ray; 1.65 A; A=59-196.
+DR   PDB; 2G8K; X-ray; 1.65 A; A=59-196.
+DR   PDB; 2G8U; X-ray; 2.70 A; A=59-196.
+DR   PDB; 2G8V; X-ray; 1.85 A; A=59-196.
+DR   PDB; 2G8W; X-ray; 2.05 A; A=59-196.
+DR   PDB; 2R7Y; X-ray; 1.80 A; A=62-193.
+DR   PDB; 3D0P; X-ray; 1.80 A; A/C=61-194.
+DR   PDB; 3EY1; X-ray; 1.60 A; A=59-196.
+DR   PDB; 3I8D; X-ray; 1.61 A; A/C=62-193.
+DR   PDB; 3TWH; X-ray; 1.79 A; A=59-196.
+DR   PDB; 3ULD; X-ray; 1.60 A; A=59-196.
+DR   PDB; 4HTU; X-ray; 1.49 A; A/B=61-194.
+DR   PDB; 4HUE; X-ray; 1.56 A; A/B=61-194.
+DR   PDB; 4HUF; X-ray; 1.69 A; A/B=61-194.
+DR   PDB; 4HUG; X-ray; 1.64 A; A/B=61-194.
+DR   PDB; 4OPJ; X-ray; 1.54 A; A/C=59-196.
+DR   PDB; 4OPK; X-ray; 1.54 A; A/C=59-196.
+DR   PDBsum; 1ZBF; -.
+DR   PDBsum; 1ZBI; -.
+DR   PDBsum; 1ZBL; -.
+DR   PDBsum; 2G8F; -.
+DR   PDBsum; 2G8H; -.
+DR   PDBsum; 2G8I; -.
+DR   PDBsum; 2G8K; -.
+DR   PDBsum; 2G8U; -.
+DR   PDBsum; 2G8V; -.
+DR   PDBsum; 2G8W; -.
+DR   PDBsum; 2R7Y; -.
+DR   PDBsum; 3D0P; -.
+DR   PDBsum; 3EY1; -.
+DR   PDBsum; 3I8D; -.
+DR   PDBsum; 3TWH; -.
+DR   PDBsum; 3ULD; -.
+DR   PDBsum; 4HTU; -.
+DR   PDBsum; 4HUE; -.
+DR   PDBsum; 4HUF; -.
+DR   PDBsum; 4HUG; -.
+DR   PDBsum; 4OPJ; -.
+DR   PDBsum; 4OPK; -.
+DR   ProteinModelPortal; Q9KEI9; -.
+DR   SMR; Q9KEI9; 61-196.
+DR   STRING; 272558.BH0863; -.
+DR   EnsemblBacteria; BAB04582; BAB04582; BAB04582.
+DR   KEGG; bha:BH0863; -.
+DR   PATRIC; 18938738; VBIBacHal18977_0907.
+DR   eggNOG; COG3341; -.
+DR   HOGENOM; HOG000251719; -.
+DR   KO; K03469; -.
+DR   OMA; KWETKAW; -.
+DR   OrthoDB; EOG6358C1; -.
+DR   BioCyc; BHAL272558:GJC5-921-MONOMER; -.
+DR   BRENDA; 3.1.26.4; 661.
+DR   EvolutionaryTrace; Q9KEI9; -.
+DR   Proteomes; UP000001258; Chromosome.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003676; F:nucleic acid binding; IEA:InterPro.
+DR   GO; GO:0004523; F:RNA-DNA hybrid ribonuclease activity; IEA:UniProtKB-EC.
+DR   Gene3D; 3.30.420.10; -; 1.
+DR   Gene3D; 3.40.970.10; -; 1.
+DR   InterPro; IPR009027; Ribosomal_L9/RNase_H1_N.
+DR   InterPro; IPR011320; RNase_H1_N.
+DR   InterPro; IPR017290; RNase_H_bac.
+DR   InterPro; IPR012337; RNaseH-like_dom.
+DR   InterPro; IPR002156; RNaseH_domain.
+DR   Pfam; PF01693; Cauli_VI; 1.
+DR   Pfam; PF00075; RNase_H; 1.
+DR   PIRSF; PIRSF037839; Ribonuclease_H; 1.
+DR   SUPFAM; SSF53098; SSF53098; 1.
+DR   SUPFAM; SSF55658; SSF55658; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Cytoplasm; Endonuclease; Hydrolase;
+KW   Magnesium; Manganese; Metal-binding; Nuclease; Reference proteome.
+FT   CHAIN         1    196       Ribonuclease H.
+FT                                /FTId=PRO_0000195430.
+FT   DOMAIN       88    196       RNase H.
+FT   METAL        71     71       Magnesium 1.
+FT                                {ECO:0000269|PubMed:15989951}.
+FT   METAL        71     71       Magnesium 2.
+FT                                {ECO:0000269|PubMed:15989951}.
+FT   METAL       109    109       Magnesium 2.
+FT                                {ECO:0000269|PubMed:15989951}.
+FT   METAL       132    132       Magnesium 2.
+FT                                {ECO:0000269|PubMed:15989951}.
+FT   METAL       192    192       Magnesium 1.
+FT                                {ECO:0000269|PubMed:15989951}.
+FT   MUTAGEN     109    109       E->Q: Loss of activity.
+FT                                {ECO:0000269|PubMed:15989951}.
+FT   MUTAGEN     132    132       D->N: Loss of activity.
+FT                                {ECO:0000269|PubMed:15989951}.
+FT   MUTAGEN     188    188       E->A: Strongly reduces activity.
+FT                                {ECO:0000269|PubMed:15989951}.
+FT   MUTAGEN     188    188       E->Q: No effect.
+FT                                {ECO:0000269|PubMed:15989951}.
+FT   MUTAGEN     192    192       D->N: Strongly reduced activity with
+FT                                manganese. Loss of activity with
+FT                                magnesium. {ECO:0000269|PubMed:15989951}.
+FT   STRAND       65     75       {ECO:0000244|PDB:4HTU}.
+FT   TURN         76     78       {ECO:0000244|PDB:4HTU}.
+FT   STRAND       79     87       {ECO:0000244|PDB:4HTU}.
+FT   TURN         88     90       {ECO:0000244|PDB:4HTU}.
+FT   STRAND       93    103       {ECO:0000244|PDB:4HTU}.
+FT   HELIX       105    122       {ECO:0000244|PDB:4HTU}.
+FT   STRAND      129    132       {ECO:0000244|PDB:4HTU}.
+FT   HELIX       134    142       {ECO:0000244|PDB:4HTU}.
+FT   TURN        153    155       {ECO:0000244|PDB:1ZBF}.
+FT   HELIX       156    171       {ECO:0000244|PDB:4HTU}.
+FT   STRAND      178    180       {ECO:0000244|PDB:4HTU}.
+FT   HELIX       183    186       {ECO:0000244|PDB:4HTU}.
+SQ   SEQUENCE   196 AA;  22373 MW;  4130558FA37D2A86 CRC64;
+     MAKSKYYVVW NGRKPGIYTS WSACEAQVKG YTGAKFKSYP SKEEAEAAFR GEEATPKLAK
+     EEIIWESLSV DVGSQGNPGI VEYKGVDTKT GEVLFEREPI PIGTNNMGEF LAIVHGLRYL
+     KERNSRKPIY SDSQTAIKWV KDKKAKSTLV RNEETALIWK LVDEAEEWLN THTYETPILK
+     WQTDKWGEIK ADYGRK
+//

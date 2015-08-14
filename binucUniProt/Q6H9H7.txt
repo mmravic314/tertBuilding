@@ -1,0 +1,89 @@
+ID   Q6H9H7_9APHY            Unreviewed;       521 AA.
+AC   Q6H9H7;
+DT   19-JUL-2004, integrated into UniProtKB/TrEMBL.
+DT   19-JUL-2004, sequence version 1.
+DT   24-JUN-2015, entry version 58.
+DE   SubName: Full=Laccase {ECO:0000313|EMBL:CAE81289.1};
+DE            EC=1.10.3.2 {ECO:0000313|EMBL:CAE81289.1};
+OS   Rigidoporus microporus.
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Polyporales; Rigidoporus.
+OX   NCBI_TaxID=219653 {ECO:0000313|EMBL:CAE81289.1};
+RN   [1] {ECO:0000313|EMBL:CAE81289.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Rizzi M., Iacobazzi V., Cambria M., Palmieri F.;
+RT   "Cloning and structure of laccase from Rigidoporus lignosus.";
+RL   Submitted (DEC-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:1V10}
+RP   X-RAY CRYSTALLOGRAPHY (1.70 ANGSTROMS) IN COMPLEX WITH COPPER, AND
+RP   DISULFIDE BONDS.
+RX   PubMed=15364578; DOI=10.1016/j.jmb.2004.07.100;
+RA   Garavaglia S., Cambria M.T., Miglio M., Ragusa S., Iacobazzi V.,
+RA   Palmieri F., D'Ambrosio C., Scaloni A., Rizzi M.;
+RT   "The structure of Rigidoporus lignosus Laccase containing a full
+RT   complement of copper ions, reveals an asymmetrical arrangement for the
+RT   T3 copper pair.";
+RL   J. Mol. Biol. 342:1519-1531(2004).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AJ609490; CAE81289.1; -; mRNA.
+DR   PDB; 1V10; X-ray; 1.70 A; A=1-521.
+DR   ProteinModelPortal; Q6H9H7; -.
+DR   SMR; Q6H9H7; 22-515.
+DR   EvolutionaryTrace; Q6H9H7; -.
+DR   GO; GO:0005507; F:copper ion binding; IEA:InterPro.
+DR   GO; GO:0052716; F:hydroquinone:oxygen oxidoreductase activity; IEA:UniProtKB-EC.
+DR   Gene3D; 2.60.40.420; -; 3.
+DR   InterPro; IPR001117; Cu-oxidase.
+DR   InterPro; IPR011706; Cu-oxidase_2.
+DR   InterPro; IPR011707; Cu-oxidase_3.
+DR   InterPro; IPR002355; Cu_oxidase_Cu_BS.
+DR   InterPro; IPR008972; Cupredoxin.
+DR   Pfam; PF00394; Cu-oxidase; 1.
+DR   Pfam; PF07731; Cu-oxidase_2; 1.
+DR   Pfam; PF07732; Cu-oxidase_3; 1.
+DR   SUPFAM; SSF49503; SSF49503; 3.
+DR   PROSITE; PS00079; MULTICOPPER_OXIDASE1; 2.
+DR   PROSITE; PS00080; MULTICOPPER_OXIDASE2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:1V10};
+KW   Copper {ECO:0000213|PDB:1V10, ECO:0000256|SAAS:SAAS00056250};
+KW   Metal-binding {ECO:0000213|PDB:1V10, ECO:0000256|SAAS:SAAS00056202};
+KW   Oxidoreductase {ECO:0000256|SAAS:SAAS00056252,
+KW   ECO:0000313|EMBL:CAE81289.1}.
+FT   METAL        85     85       Copper 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:1V10}.
+FT   METAL        87     87       Copper 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:1V10}.
+FT   METAL       130    130       Copper 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:1V10}.
+FT   METAL       132    132       Copper 3; via tele nitrogen.
+FT                                {ECO:0000213|PDB:1V10}.
+FT   METAL       417    417       Copper 4; via pros nitrogen.
+FT                                {ECO:0000213|PDB:1V10}.
+FT   METAL       420    420       Copper 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:1V10}.
+FT   METAL       422    422       Copper 3; via tele nitrogen.
+FT                                {ECO:0000213|PDB:1V10}.
+FT   METAL       472    472       Copper 3; via tele nitrogen.
+FT                                {ECO:0000213|PDB:1V10}.
+FT   METAL       473    473       Copper 4. {ECO:0000213|PDB:1V10}.
+FT   METAL       474    474       Copper 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:1V10}.
+FT   METAL       478    478       Copper 4; via pros nitrogen.
+FT                                {ECO:0000213|PDB:1V10}.
+FT   DISULFID    106    508       {ECO:0000213|PDB:1V10}.
+FT   DISULFID    138    231       {ECO:0000213|PDB:1V10}.
+SQ   SEQUENCE   521 AA;  55565 MW;  F8A6A63F57427379 CRC64;
+     MPSFASLKSL VVLSLTSLSL AATVALDLHI LNANLDPDGT GARSAVTAEG TTIAPLITGN
+     IDDRFQINVI DQLTDANMRR ATSIHWHGFF QAGTTEMDGP AFVNQCPIIP NESFVYDFVV
+     PGQAGTYWYH SHLSTQYCDG LRGAFVVYDP NDPHLSLYDV DDASTVITIA DWYHSLSTVL
+     FPNPNKAPPA PDTTLINGLG RNSANPSAGQ LAVVSVQSGK RYRFRIVSTS CFPNYAFSID
+     GHRMTVIEVD GVSHQPLTVD SLTIFAGQRY SVVVEANQAV GNYWIRANPS NGRNGFTGGI
+     NSAIFRYEGA AVAEPTTSQN SGTALNEANL IPLINPGAPG NPVPGGADIN LNLRIGRNAT
+     TADFTINGAP FIPPTVPVLL QILSGVTNPN DLLPGGAVIS LPANQVIEIS IPGGGNHPFH
+     LHGHNFDVVR TPGSSVYNYV NPVRRDVVSI GGGGDNVTFR FVTDNPGPWF LHCHIDWHLE
+     AGLAVVFAED IPNIPIANAI SPAWDDLCPK YNANNPDSGL A
+//

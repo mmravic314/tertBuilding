@@ -1,0 +1,109 @@
+ID   CEAM_ECOLX              Reviewed;         271 AA.
+AC   P05820;
+DT   01-NOV-1988, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1988, sequence version 1.
+DT   22-JUL-2015, entry version 63.
+DE   RecName: Full=Colicin-M;
+GN   Name=cma;
+OS   Escherichia coli.
+OG   Plasmid ColBM-Cl139.
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=562;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=3036784;
+RA   Koeck J., Oelschlaeger T., Kamp R.M., Braun V.;
+RT   "Primary structure of colicin M, an inhibitor of murein
+RT   biosynthesis.";
+RL   J. Bacteriol. 169:3358-3361(1987).
+CC   -!- FUNCTION: Colicins are polypeptide toxins produced by and active
+CC       against E.coli and closely related bacteria.
+CC   -!- FUNCTION: This is a calcium-requiring inhibitor for murein
+CC       biosynthesis; it causes lysis of sensitive cells accompanied by
+CC       murein degradation. The target site is possibly the cytoplasmic
+CC       membrane.
+CC   -!- MISCELLANEOUS: This colicin requires TonB for its uptake.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M16754; AAA23589.1; -; Genomic_DNA.
+DR   PIR; A27090; IKECM.
+DR   RefSeq; WP_000449473.1; NZ_LM997211.1.
+DR   RefSeq; YP_008998009.1; NC_023315.1.
+DR   RefSeq; YP_009086036.1; NG_039408.1.
+DR   RefSeq; YP_009086040.1; NG_039409.1.
+DR   RefSeq; YP_009086044.1; NG_039410.1.
+DR   RefSeq; YP_009086048.1; NG_039411.1.
+DR   RefSeq; YP_009086052.1; NG_039412.1.
+DR   RefSeq; YP_009086056.1; NG_039413.1.
+DR   RefSeq; YP_009086060.1; NG_039414.1.
+DR   RefSeq; YP_009086076.1; NG_039418.1.
+DR   RefSeq; YP_009086100.1; NG_039424.1.
+DR   RefSeq; YP_009086104.1; NG_039425.1.
+DR   RefSeq; YP_009086108.1; NG_039426.1.
+DR   RefSeq; YP_009086112.1; NG_039427.1.
+DR   RefSeq; YP_009086116.1; NG_039428.1.
+DR   RefSeq; YP_009086120.1; NG_039429.1.
+DR   RefSeq; YP_009086124.1; NG_039430.1.
+DR   RefSeq; YP_009086128.1; NG_039431.1.
+DR   RefSeq; YP_009086132.1; NG_039432.1.
+DR   RefSeq; YP_009086136.1; NG_039433.1.
+DR   PDB; 2XMX; X-ray; 1.67 A; A/B=1-271.
+DR   PDB; 2XTQ; X-ray; 2.31 A; A/B/C/D/E/F/G/H=1-271.
+DR   PDB; 2XTR; X-ray; 2.14 A; A/B=1-271.
+DR   PDB; 3DA3; X-ray; 2.50 A; A/B=1-271.
+DR   PDB; 3DA4; X-ray; 1.70 A; A/B=1-271.
+DR   PDBsum; 2XMX; -.
+DR   PDBsum; 2XTQ; -.
+DR   PDBsum; 2XTR; -.
+DR   PDBsum; 3DA3; -.
+DR   PDBsum; 3DA4; -.
+DR   ProteinModelPortal; P05820; -.
+DR   SMR; P05820; 2-271.
+DR   IntAct; P05820; 1.
+DR   GeneID; 18194796; -.
+DR   KEGG; pg:18194796; -.
+DR   EvolutionaryTrace; P05820; -.
+DR   GO; GO:0019835; P:cytolysis; IEA:UniProtKB-KW.
+DR   GO; GO:0042742; P:defense response to bacterium; IEA:UniProtKB-KW.
+DR   InterPro; IPR028056; Colicin_M.
+DR   Pfam; PF14859; Colicin_M; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Antibiotic; Antimicrobial; Bacteriocin; Plasmid;
+KW   TonB box.
+FT   CHAIN         1    271       Colicin-M.
+FT                                /FTId=PRO_0000218689.
+FT   MOTIF         2      9       TonB box.
+FT   TURN         11     13       {ECO:0000244|PDB:2XMX}.
+FT   HELIX        18     21       {ECO:0000244|PDB:2XMX}.
+FT   HELIX        38     45       {ECO:0000244|PDB:2XMX}.
+FT   HELIX        49     65       {ECO:0000244|PDB:2XMX}.
+FT   STRAND       67     69       {ECO:0000244|PDB:2XTQ}.
+FT   HELIX        70     92       {ECO:0000244|PDB:2XMX}.
+FT   HELIX        98    104       {ECO:0000244|PDB:2XMX}.
+FT   HELIX       109    111       {ECO:0000244|PDB:2XMX}.
+FT   HELIX       114    117       {ECO:0000244|PDB:2XMX}.
+FT   STRAND      120    122       {ECO:0000244|PDB:3DA4}.
+FT   HELIX       128    138       {ECO:0000244|PDB:2XMX}.
+FT   STRAND      144    146       {ECO:0000244|PDB:3DA4}.
+FT   HELIX       148    150       {ECO:0000244|PDB:2XMX}.
+FT   HELIX       157    159       {ECO:0000244|PDB:2XMX}.
+FT   HELIX       161    168       {ECO:0000244|PDB:2XMX}.
+FT   STRAND      173    184       {ECO:0000244|PDB:2XMX}.
+FT   HELIX       185    187       {ECO:0000244|PDB:2XMX}.
+FT   HELIX       190    195       {ECO:0000244|PDB:2XMX}.
+FT   STRAND      198    209       {ECO:0000244|PDB:2XMX}.
+FT   STRAND      213    231       {ECO:0000244|PDB:2XMX}.
+FT   TURN        232    234       {ECO:0000244|PDB:2XMX}.
+FT   HELIX       237    249       {ECO:0000244|PDB:2XMX}.
+FT   STRAND      255    258       {ECO:0000244|PDB:2XMX}.
+FT   STRAND      263    270       {ECO:0000244|PDB:2XMX}.
+SQ   SEQUENCE   271 AA;  29483 MW;  B41B7BE107EC1DBA CRC64;
+     METLTVHAPS PSTNLPSYGN GAFSLSAPHV PGAGPLLVQV VYSFFQSPNM CLQALTQLED
+     YIKKHGASNP LTLQIISTNI GYFCNADRNL VLHPGISVYD AYHFAKPAPS QYDYRSMNMK
+     QMSGNVTTPI VALAHYLWGN GAERSVNIAN IGLKISPMKI NQIKDIIKSG VVGTFPVSTK
+     FTHATGDYNV ITGAYLGNIT LKTEGTLTIS ANGSWTYNGV VRSYDDKYDF NASTHRGIIG
+     ESLTRLGAMF SGKEYQILLP GEIHIKESGK R
+//

@@ -1,0 +1,107 @@
+ID   Q3ACS2_CARHZ            Unreviewed;       631 AA.
+AC   Q3ACS2;
+DT   22-NOV-2005, integrated into UniProtKB/TrEMBL.
+DT   22-NOV-2005, sequence version 1.
+DT   22-JUL-2015, entry version 73.
+DE   SubName: Full=Iron-sulfur cluster binding protein {ECO:0000313|EMBL:ABB15463.1};
+GN   OrderedLocusNames=CHY_1224 {ECO:0000313|EMBL:ABB15463.1};
+OS   Carboxydothermus hydrogenoformans (strain ATCC BAA-161 / DSM 6008 /
+OS   Z-2901).
+OC   Bacteria; Firmicutes; Clostridia; Thermoanaerobacterales;
+OC   Thermoanaerobacteraceae; Carboxydothermus.
+OX   NCBI_TaxID=246194 {ECO:0000313|EMBL:ABB15463.1, ECO:0000313|Proteomes:UP000002706};
+RN   [1] {ECO:0000313|EMBL:ABB15463.1, ECO:0000313|Proteomes:UP000002706}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC BAA-161 / DSM 6008 / Z-2901
+RC   {ECO:0000313|Proteomes:UP000002706};
+RX   PubMed=16311624; DOI=10.1371/journal.pgen.0010065;
+RA   Wu M., Ren Q., Durkin A.S., Daugherty S.C., Brinkac L.M., Dodson R.J.,
+RA   Madupu R., Sullivan S.A., Kolonay J.F., Nelson W.C., Tallon L.J.,
+RA   Jones K.M., Ulrich L.E., Gonzalez J.M., Zhulin I.B., Robb F.T.,
+RA   Eisen J.A.;
+RT   "Life in hot carbon monoxide: the complete genome sequence of
+RT   Carboxydothermus hydrogenoformans Z-2901.";
+RL   PLoS Genet. 1:563-574(2005).
+RN   [2] {ECO:0000213|PDB:3ZYY}
+RP   X-RAY CRYSTALLOGRAPHY (2.20 ANGSTROMS) IN COMPLEX WITH IRON-SULFUR
+RP   (2FE-2S).
+RX   PubMed=22431597; DOI=10.1073/pnas.1117126109;
+RA   Hennig S.E., Jeoung J.H., Goetzl S., Dobbek H.;
+RT   "Redox-dependent complex formation by an ATP-dependent activator of
+RT   the corrinoid/iron-sulfur protein.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 109:5235-5240(2012).
+RN   [3] {ECO:0000213|PDB:4C1N}
+RP   X-RAY CRYSTALLOGRAPHY (2.53 ANGSTROMS) OF 122-630 AND 121-630 IN
+RP   COMPLEX WITH COBALAMIN.
+RX   PubMed=25109607;
+RA   Hennig S.E., Goetzl S., Jeoung J.H., Bommer M., Lendzian F.,
+RA   Hildebrandt P., Dobbek H.;
+RT   "ATP-induced electron transfer by redox-selective partner
+RT   recognition.";
+RL   Nat. Commun. 5:4626-4626(2014).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP000141; ABB15463.1; -; Genomic_DNA.
+DR   RefSeq; WP_011344138.1; NC_007503.1.
+DR   PDB; 3ZYY; X-ray; 2.20 A; X/Y=1-631.
+DR   PDB; 4C1N; X-ray; 2.53 A; I/J/X=122-630, K=121-630.
+DR   PDBsum; 3ZYY; -.
+DR   PDBsum; 4C1N; -.
+DR   ProteinModelPortal; Q3ACS2; -.
+DR   STRING; 246194.CHY_1224; -.
+DR   EnsemblBacteria; ABB15463; ABB15463; CHY_1224.
+DR   KEGG; chy:CHY_1224; -.
+DR   PATRIC; 21275587; VBICarHyd26463_1170.
+DR   eggNOG; COG3894; -.
+DR   HOGENOM; HOG000011738; -.
+DR   OMA; CFLPHTD; -.
+DR   OrthoDB; EOG6R87BR; -.
+DR   BioCyc; CHYD246194:GJCN-1223-MONOMER; -.
+DR   Proteomes; UP000002706; Chromosome.
+DR   GO; GO:0051537; F:2 iron, 2 sulfur cluster binding; IEA:UniProtKB-KW.
+DR   GO; GO:0031419; F:cobalamin binding; IEA:UniProtKB-KW.
+DR   GO; GO:0009055; F:electron carrier activity; ISM:TIGR.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.10.20.30; -; 1.
+DR   InterPro; IPR001041; 2Fe-2S_ferredoxin-type.
+DR   InterPro; IPR012675; Beta-grasp_dom.
+DR   InterPro; IPR027980; DUF4445.
+DR   Pfam; PF14574; DUF4445; 1.
+DR   Pfam; PF00111; Fer2; 1.
+DR   SUPFAM; SSF54292; SSF54292; 1.
+DR   PROSITE; PS51085; 2FE2S_FER_2; 1.
+PE   1: Evidence at protein level;
+KW   2Fe-2S {ECO:0000213|PDB:3ZYY};
+KW   3D-structure {ECO:0000213|PDB:3ZYY, ECO:0000213|PDB:4C1N};
+KW   Cobalamin {ECO:0000213|PDB:4C1N}; Cobalt {ECO:0000213|PDB:4C1N};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002706};
+KW   Iron {ECO:0000213|PDB:3ZYY}; Iron-sulfur {ECO:0000213|PDB:3ZYY};
+KW   Metal-binding {ECO:0000213|PDB:3ZYY};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000002706}.
+FT   METAL        38     38       Iron-sulfur (2Fe-2S).
+FT                                {ECO:0000213|PDB:3ZYY}.
+FT   METAL        39     39       Iron-sulfur (2Fe-2S); via amide nitrogen.
+FT                                {ECO:0000213|PDB:3ZYY}.
+FT   METAL        44     44       Iron-sulfur (2Fe-2S).
+FT                                {ECO:0000213|PDB:3ZYY}.
+FT   METAL        47     47       Iron-sulfur (2Fe-2S).
+FT                                {ECO:0000213|PDB:3ZYY}.
+FT   METAL        77     77       Iron-sulfur (2Fe-2S).
+FT                                {ECO:0000213|PDB:3ZYY}.
+FT   METAL       398    398       Cobalt (cobalamin axial ligand).
+FT                                {ECO:0000213|PDB:4C1N}.
+SQ   SEQUENCE   631 AA;  68699 MW;  3309526F90C7011D CRC64;
+     MAEYKVLFKP DQKEVAISEN TNLMEALNLA GINIKTVCGG AGTCGKCLVR VVDGQKRVES
+     YGKLKQEEIA QGYVLACQTY PESDLIIEIP FDSRLTQHQI VTDDEKASGV MNELDLAEED
+     ELDPLFKEVS LELPVPTLDD PRDDLSRLTA TFSRQENGNL IVEYEQLKDL PQILRNENFS
+     VTVGVSDYLG LNKALYIKSG SASQRVFGLA IDIGTTTVVV QLVDLVSGKV LGTKGNYNKQ
+     AAFGDDVISR IIYVDENPDG AEKLRKAVLS TINELIFQLC KEHGVEKKEI MAAVVAGNTT
+     MTHLFLEIDP RYIRLEPYTP AALFIPPVPA TEAKIEMNPK GFVYIMPNVA SYVGGDITSG
+     VLYTGLANSD EITLFIDIGT NGEMVLGNKD WLVTCACSAG PAFEGSGIKH GMRAMQGAIE
+     RVSISEAGLK VKYQTVGGIP PVGICGSGLI DLLANLKRAG IIDRSGKIDR TVNKERIREG
+     EDGLEFVLAW ANESGNNKDI VITEADIQNL IRAKAAIFAG VRTMLAMVDL PLEAIDRVII
+     AGGFGKYLNI KDAITIGLLP DIDINKFSYV GNSSLKGARK ALLSRKACAE VKEIARKMTY
+     LELSVGTTFM DEFVSASFIP HTDLHLFPSV E
+//

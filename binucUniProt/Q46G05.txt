@@ -1,0 +1,88 @@
+ID   Q46G05_METBF            Unreviewed;       170 AA.
+AC   Q46G05;
+DT   13-SEP-2005, integrated into UniProtKB/TrEMBL.
+DT   13-SEP-2005, sequence version 1.
+DT   22-JUL-2015, entry version 59.
+DE   RecName: Full=Acetyl-CoA decarbonylase/synthase complex subunit epsilon {ECO:0000256|HAMAP-Rule:MF_01134};
+DE            Short=ACDS complex subunit epsilon {ECO:0000256|HAMAP-Rule:MF_01134};
+GN   Name=cdhB {ECO:0000256|HAMAP-Rule:MF_01134};
+GN   OrderedLocusNames=Mbar_A0203 {ECO:0000313|EMBL:AAZ69187.1};
+OS   Methanosarcina barkeri (strain Fusaro / DSM 804).
+OC   Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales;
+OC   Methanosarcinaceae; Methanosarcina.
+OX   NCBI_TaxID=269797 {ECO:0000313|EMBL:AAZ69187.1, ECO:0000313|Proteomes:UP000008156};
+RN   [1] {ECO:0000313|Proteomes:UP000008156}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Fusaro / DSM 804 {ECO:0000313|Proteomes:UP000008156};
+RX   PubMed=16980466; DOI=10.1128/JB.00810-06;
+RA   Maeder D.L., Anderson I., Brettin T.S., Bruce D.C., Gilna P.,
+RA   Han C.S., Lapidus A., Metcalf W.W., Saunders E., Tapia R.,
+RA   Sowers K.R.;
+RT   "The Methanosarcina barkeri genome: comparative analysis with
+RT   Methanosarcina acetivorans and Methanosarcina mazei reveals extensive
+RT   rearrangement within methanosarcinal genomes.";
+RL   J. Bacteriol. 188:7922-7931(2006).
+RN   [2] {ECO:0000213|PDB:3CF4}
+RP   X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS).
+RX   PubMed=18621675; DOI=10.1073/pnas.0800415105;
+RA   Gong W., Hao B., Wei Z., Ferguson D.J., Tallant T., Krzycki J.A.,
+RA   Chan M.K.;
+RT   "Structure of the alpha2epsilon2 Ni-dependent CO dehydrogenase
+RT   component of the Methanosarcina barkeri acetyl-CoA
+RT   decarbonylase/synthase complex.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:9558-9563(2008).
+CC   -!- FUNCTION: Part of a complex that catalyzes the reversible cleavage
+CC       of acetyl-CoA, allowing growth on acetate as sole source of carbon
+CC       and energy. Probably has a structural role in stabilizing the
+CC       alpha-epsilon subcomponent of the ACDS complex by forming a
+CC       structural link between the two alpha subunits.
+CC       {ECO:0000256|HAMAP-Rule:MF_01134}.
+CC   -!- PATHWAY: One-carbon metabolism; methanogenesis from acetate.
+CC       {ECO:0000256|HAMAP-Rule:MF_01134}.
+CC   -!- SUBUNIT: Heterotetramer of two alpha and two epsilon chains. The
+CC       ACDS complex is made up of alpha, epsilon, beta, gamma and delta
+CC       chains with a probable stoichiometry of (alpha(2)epsilon(2))(4)-
+CC       beta(8)-(gamma(1)delta(1))(8). {ECO:0000256|HAMAP-Rule:MF_01134}.
+CC   -!- SIMILARITY: Belongs to the CdhB family. {ECO:0000256|HAMAP-
+CC       Rule:MF_01134}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP000099; AAZ69187.1; -; Genomic_DNA.
+DR   RefSeq; WP_011305242.1; NC_007355.1.
+DR   RefSeq; YP_303767.1; NC_007355.1.
+DR   PDB; 3CF4; X-ray; 2.00 A; G=1-170.
+DR   PDBsum; 3CF4; -.
+DR   ProteinModelPortal; Q46G05; -.
+DR   STRING; 269797.Mbar_A0203; -.
+DR   EnsemblBacteria; AAZ69187; AAZ69187; Mbar_A0203.
+DR   GeneID; 3626294; -.
+DR   KEGG; mba:Mbar_A0203; -.
+DR   eggNOG; COG1880; -.
+DR   HOGENOM; HOG000224340; -.
+DR   KO; K00195; -.
+DR   OMA; PAIAKMM; -.
+DR   BioCyc; MBAR269797:GHUW-210-MONOMER; -.
+DR   UniPathway; UPA00642; -.
+DR   EvolutionaryTrace; Q46G05; -.
+DR   Proteomes; UP000008156; Chromosome.
+DR   GO; GO:0019385; P:methanogenesis, from acetate; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 3.40.50.1220; -; 1.
+DR   HAMAP; MF_01134; CdhB; 1.
+DR   InterPro; IPR003704; CO_DH_CoA_synth.
+DR   InterPro; IPR029035; DHS-like_NAD/FAD-binding_dom.
+DR   Pfam; PF02552; CO_dh; 1.
+DR   PIRSF; PIRSF006035; CO_dh_b_ACDS_e; 1.
+DR   SUPFAM; SSF52467; SSF52467; 1.
+DR   TIGRFAMs; TIGR00315; cdhB; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3CF4};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000008156};
+KW   Methanogenesis {ECO:0000256|HAMAP-Rule:MF_01134};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000008156}.
+SQ   SEQUENCE   170 AA;  18555 MW;  63B0B42CE31EAD2A CRC64;
+     MVDTTKNTKL FTSYGVSTSR TVSPEMAAKL ISKAKRPLLM VGTLTLEPEI LDRVVKISKA
+     ANIPIAATGS SMASLVDKDV DAKYINAHML GFYLTDPKWP GLDGNGNYDM VIAIGFKKYY
+     INQVLSAAKN FSNLKTIAIE RGYIQNATMS FGNLSKADYY AALDELINAL
+//

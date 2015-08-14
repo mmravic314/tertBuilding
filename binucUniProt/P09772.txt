@@ -1,0 +1,231 @@
+ID   NIFK_KLEPN              Reviewed;         520 AA.
+AC   P09772; P09771;
+DT   01-JUL-1989, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUL-1989, sequence version 1.
+DT   27-MAY-2015, entry version 95.
+DE   RecName: Full=Nitrogenase molybdenum-iron protein beta chain;
+DE            EC=1.18.6.1;
+DE   AltName: Full=Dinitrogenase;
+DE   AltName: Full=Nitrogenase component I;
+GN   Name=nifK;
+OS   Klebsiella pneumoniae.
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Klebsiella.
+OX   NCBI_TaxID=573;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=3062178; DOI=10.1016/0022-2836(88)90205-7;
+RA   Arnold W., Rump A., Klipp W., Priefer U.B., Puehler A.;
+RT   "Nucleotide sequence of a 24,206-base-pair DNA fragment carrying the
+RT   entire nitrogen fixation gene cluster of Klebsiella pneumoniae.";
+RL   J. Mol. Biol. 203:715-738(1988).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=3043382; DOI=10.1093/nar/16.14.7199;
+RA   Steinbauer J., Wenzel W., Hess D.;
+RT   "Nucleotide and deduced amino acid sequences of the Klebsiella
+RT   pneumoniae nifK gene coding for the beta-subunit of nitrogenase MoFe
+RT   protein.";
+RL   Nucleic Acids Res. 16:7199-7199(1988).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=3322261;
+RA   Holland D., Zilberstein A., Zamir A., Sussman J.L.;
+RT   "A quantitative approach to sequence comparisons of nitrogenase MoFe
+RT   protein alpha- and beta-subunits including the newly sequenced nifK
+RT   gene from Klebsiella pneumoniae.";
+RL   Biochem. J. 247:277-285(1987).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=3211766; DOI=10.1093/nar/16.24.11843;
+RA   Lignon J.M., Nakas J.P.;
+RT   "Nucleotide sequence of nifK and partial sequence of nifD from Frankia
+RT   species strain FaC1.";
+RL   Nucleic Acids Res. 16:11843-11843(1988).
+RN   [5]
+RP   ERRATUM, AND CORRECTION OF ORGANISM GIVEN IN PUBMED:3211766.
+RA   Lignon J.M., Nakas J.P.;
+RL   Nucleic Acids Res. 18:1097-1097(1990).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (1.6 ANGSTROMS) OF 3-480.
+RX   PubMed=10525412; DOI=10.1006/jmbi.1999.3107;
+RA   Mayer S.M., Lawson D.M., Gormal C.A., Roe S.M., Smith B.E.;
+RT   "New insights into structure-function relationships in nitrogenase: a
+RT   1.6 A resolution X-ray crystallographic study of Klebsiella pneumoniae
+RT   MoFe-protein.";
+RL   J. Mol. Biol. 292:871-891(1999).
+RN   [7]
+RP   X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS) OF 3-483.
+RX   PubMed=12133839; DOI=10.1074/jbc.M205888200;
+RA   Mayer S.M., Gormal C.A., Smith B.E., Lawson D.M.;
+RT   "Crystallographic analysis of the MoFe protein of nitrogenase from a
+RT   nifV mutant of Klebsiella pneumoniae identifies citrate as a ligand to
+RT   the molybdenum of iron molybdenum cofactor (FeMoco).";
+RL   J. Biol. Chem. 277:35263-35266(2002).
+CC   -!- FUNCTION: This molybdenum-iron protein is part of the nitrogenase
+CC       complex that catalyzes the key enzymatic reactions in nitrogen
+CC       fixation.
+CC   -!- CATALYTIC ACTIVITY: 8 reduced ferredoxin + 8 H(+) + N(2) + 16 ATP
+CC       + 16 H(2)O = 8 oxidized ferredoxin + H(2) + 2 NH(3) + 16 ADP + 16
+CC       phosphate.
+CC   -!- COFACTOR:
+CC       Name=[8Fe-7S] cluster; Xref=ChEBI:CHEBI:21143;
+CC       Note=Binds 1 [8Fe-7S] cluster per heterodimer.;
+CC   -!- SUBUNIT: Tetramer of two alpha and two beta chains. Forms complex
+CC       with the iron protein (nitrogenase component 2).
+CC   -!- SIMILARITY: Belongs to the NifD/NifK/NifE/NifN family.
+CC       {ECO:0000305}.
+CC   -!- CAUTION: The authors of PubMed:3211766 originally stated that
+CC       their sequence was from Frankia sp. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X13303; CAA31668.1; -; Genomic_DNA.
+DR   EMBL; X07749; CAA30573.1; -; Genomic_DNA.
+DR   EMBL; X06243; CAA29588.1; -; Genomic_DNA.
+DR   EMBL; X12649; CAA31180.1; -; Genomic_DNA.
+DR   PIR; S02505; S02505.
+DR   PDB; 1H1L; X-ray; 1.90 A; B/D=2-520.
+DR   PDB; 1QGU; X-ray; 1.60 A; B/D=2-520.
+DR   PDB; 1QH1; X-ray; 1.60 A; B/D=2-520.
+DR   PDB; 1QH8; X-ray; 1.60 A; B/D=2-520.
+DR   PDBsum; 1H1L; -.
+DR   PDBsum; 1QGU; -.
+DR   PDBsum; 1QH1; -.
+DR   PDBsum; 1QH8; -.
+DR   ProteinModelPortal; P09772; -.
+DR   SMR; P09772; 2-520.
+DR   DIP; DIP-6207N; -.
+DR   BioCyc; MetaCyc:NIFKKLEB-MONOMER; -.
+DR   EvolutionaryTrace; P09772; -.
+DR   GO; GO:0016612; C:molybdenum-iron nitrogenase complex; IEA:InterPro.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0018697; F:carbonyl sulfide nitrogenase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0051536; F:iron-sulfur cluster binding; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016163; F:nitrogenase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0009399; P:nitrogen fixation; IEA:UniProtKB-KW.
+DR   InterPro; IPR000510; Nase/OxRdtase_comp1.
+DR   InterPro; IPR000318; Nase_comp1_CS.
+DR   InterPro; IPR005976; Nase_Mo-Fe_CF_bsu.
+DR   InterPro; IPR024564; Nase_Mo-Fe_CF_bsu_N.
+DR   Pfam; PF11844; DUF3364; 1.
+DR   Pfam; PF00148; Oxidored_nitro; 1.
+DR   TIGRFAMs; TIGR01286; nifK; 1.
+DR   PROSITE; PS00699; NITROGENASE_1_1; 1.
+DR   PROSITE; PS00090; NITROGENASE_1_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; ATP-binding; Iron; Iron-sulfur; Metal-binding;
+KW   Nitrogen fixation; Nucleotide-binding; Oxidoreductase.
+FT   CHAIN         1    520       Nitrogenase molybdenum-iron protein beta
+FT                                chain.
+FT                                /FTId=PRO_0000153101.
+FT   METAL        69     69       Iron-sulfur (8Fe-7S); shared with alpha
+FT                                chain.
+FT   METAL        94     94       Iron-sulfur (8Fe-7S); shared with alpha
+FT                                chain.
+FT   METAL       152    152       Iron-sulfur (8Fe-7S); shared with alpha
+FT                                chain.
+FT   METAL       187    187       Iron-sulfur (8Fe-7S); shared with alpha
+FT                                chain.
+FT   CONFLICT     24     24       F -> V (in Ref. 4; CAA31180).
+FT                                {ECO:0000305}.
+FT   CONFLICT     33     33       A -> R (in Ref. 4; CAA31180).
+FT                                {ECO:0000305}.
+FT   CONFLICT     57     58       RR -> H (in Ref. 4; CAA31180).
+FT                                {ECO:0000305}.
+FT   CONFLICT     57     57       R -> Q (in Ref. 2 and 3). {ECO:0000305}.
+FT   CONFLICT     70     71       QP -> HA (in Ref. 4; CAA31180).
+FT                                {ECO:0000305}.
+FT   CONFLICT     99     99       R -> G (in Ref. 4; CAA31180).
+FT                                {ECO:0000305}.
+FT   CONFLICT    163    163       A -> R (in Ref. 4; CAA31180).
+FT                                {ECO:0000305}.
+FT   CONFLICT    180    180       V -> W (in Ref. 4; CAA31180).
+FT                                {ECO:0000305}.
+FT   CONFLICT    221    221       L -> LKL (in Ref. 4). {ECO:0000305}.
+FT   CONFLICT    225    225       T -> P (in Ref. 4; CAA31180).
+FT                                {ECO:0000305}.
+FT   CONFLICT    232    232       G -> GTG (in Ref. 4). {ECO:0000305}.
+FT   CONFLICT    265    265       H -> Q (in Ref. 4; CAA31180).
+FT                                {ECO:0000305}.
+FT   CONFLICT    287    290       TLLL -> AAP (in Ref. 3; CAA29588).
+FT                                {ECO:0000305}.
+FT   CONFLICT    351    352       MM -> IV (in Ref. 3; CAA29588).
+FT                                {ECO:0000305}.
+FT   CONFLICT    357    357       Missing (in Ref. 3; CAA29588).
+FT                                {ECO:0000305}.
+FT   CONFLICT    395    400       ANKRWQ -> GQQTLD (in Ref. 3; CAA29588).
+FT                                {ECO:0000305}.
+FT   CONFLICT    411    411       P -> R (in Ref. 3; CAA29588).
+FT                                {ECO:0000305}.
+FT   CONFLICT    412    417       YGRDSE -> NRARYS (in Ref. 4; CAA31180).
+FT                                {ECO:0000305}.
+FT   CONFLICT    422    422       C -> R (in Ref. 3; CAA29588).
+FT                                {ECO:0000305}.
+FT   CONFLICT    435    438       QPDF -> SAGL (in Ref. 3; CAA29588).
+FT                                {ECO:0000305}.
+FT   CONFLICT    451    451       D -> V (in Ref. 4; CAA31180).
+FT                                {ECO:0000305}.
+FT   CONFLICT    482    482       W -> S (in Ref. 3; CAA29588).
+FT                                {ECO:0000305}.
+FT   CONFLICT    497    497       A -> V (in Ref. 3; CAA29588).
+FT                                {ECO:0000305}.
+FT   CONFLICT    508    509       QL -> PA (in Ref. 3; CAA29588).
+FT                                {ECO:0000305}.
+FT   CONFLICT    510    510       G -> A (in Ref. 4; CAA31180).
+FT                                {ECO:0000305}.
+FT   HELIX        11     14       {ECO:0000244|PDB:1QGU}.
+FT   HELIX        18     28       {ECO:0000244|PDB:1QGU}.
+FT   TURN         29     32       {ECO:0000244|PDB:1QGU}.
+FT   HELIX        36     46       {ECO:0000244|PDB:1QGU}.
+FT   HELIX        49     55       {ECO:0000244|PDB:1QGU}.
+FT   STRAND       62     64       {ECO:0000244|PDB:1QGU}.
+FT   HELIX        70     79       {ECO:0000244|PDB:1QGU}.
+FT   STRAND       84     90       {ECO:0000244|PDB:1QGU}.
+FT   HELIX        92    106       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       121    124       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       127    141       {ECO:0000244|PDB:1QGU}.
+FT   STRAND      144    150       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       152    157       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       161    170       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       192    208       {ECO:0000244|PDB:1QGU}.
+FT   STRAND      217    224       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       231    244       {ECO:0000244|PDB:1QGU}.
+FT   STRAND      248    252       {ECO:0000244|PDB:1QGU}.
+FT   TURN        254    258       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       275    280       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       281    283       {ECO:0000244|PDB:1QGU}.
+FT   STRAND      284    291       {ECO:0000244|PDB:1QGU}.
+FT   TURN        292    294       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       296    304       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       319    333       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       339    359       {ECO:0000244|PDB:1QGU}.
+FT   STRAND      363    368       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       370    382       {ECO:0000244|PDB:1QGU}.
+FT   STRAND      386    392       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       397    409       {ECO:0000244|PDB:1QGU}.
+FT   STRAND      417    421       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       424    434       {ECO:0000244|PDB:1QGU}.
+FT   STRAND      437    441       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       443    445       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       446    455       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       457    459       {ECO:0000244|PDB:1QGU}.
+FT   STRAND      463    465       {ECO:0000244|PDB:1QGU}.
+FT   STRAND      472    475       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       476    478       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       483    505       {ECO:0000244|PDB:1QGU}.
+FT   TURN        509    511       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       513    515       {ECO:0000244|PDB:1QGU}.
+SQ   SEQUENCE   520 AA;  58408 MW;  F51C455ECD0DF5C9 CRC64;
+     MSQTIDKINS CYPLFEQDEY QELFRNKRQL EEAHDAQRVQ EVFAWTTTAE YEALNFRREA
+     LTVDPAKACQ PLGAVLCSLG FANTLPYVHG SQGCVAYFRT YFNRHFKEPI ACVSDSMTED
+     AAVFGGNNNM NLGLQNASAL YKPEIIAVST TCMAEVIGDD LQAFIANAKK DGFVDSSIAV
+     PHAHTPSFIG SHVTGWDNMF EGFAKTFTAD YQGQPGKLPK LNLVTGFETY LGNFRVLKRM
+     MEQMAVPCSL LSDPSEVLDT PADGHYRMYS GGTTQQEMKE APDAIDTLLL QPWQLLKSKK
+     VVQEMWNQPA TEVAIPLGLA ATDELLMTVS QLSGKPIADA LTLERGRLVD MMLDSHTWLH
+     GKKFGLYGDP DFVMGLTRFL LELGCEPTVI LSHNANKRWQ KAMNKMLDAS PYGRDSEVFI
+     NCDLWHFRSL MFTRQPDFMI GNSYGKFIQR DTLAKGKAFE VPLIRLGFPL FDRHHLHRQT
+     TWGYEGAMNI VTTLVNAVLE KLDSDTSQLG KTDYSFDLVR
+//

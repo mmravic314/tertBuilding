@@ -1,0 +1,67 @@
+ID   I3VKD5_ECOLX            Unreviewed;       270 AA.
+AC   I3VKD5;
+DT   05-SEP-2012, integrated into UniProtKB/TrEMBL.
+DT   05-SEP-2012, sequence version 1.
+DT   04-FEB-2015, entry version 12.
+DE   SubName: Full=Class B metallo-beta-lactamase {ECO:0000313|EMBL:AGT63294.1};
+DE   SubName: Full=Metallo-beta-lactamase NDM-3 {ECO:0000313|EMBL:BAO27812.1};
+DE   SubName: Full=NDM-3 metallo-beta-lactamase {ECO:0000313|EMBL:AFK80349.1};
+GN   Name=NDM-3 {ECO:0000313|EMBL:AFK80349.1};
+GN   Synonyms=blaNDM-3 {ECO:0000313|EMBL:AGT63294.1};
+OS   Escherichia coli.
+OG   Plasmid pEC2-NDM-3 {ECO:0000313|EMBL:AGT63294.1},
+OG   Plasmid pEC77-NDM {ECO:0000313|EMBL:BAO27812.1}, and
+OG   Plasmid pHS-NDM-3 {ECO:0000313|EMBL:AFK80349.1}.
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=562 {ECO:0000313|EMBL:AFK80349.1};
+RN   [1] {ECO:0000313|EMBL:AFK80349.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=QECAU3 {ECO:0000313|EMBL:AFK80349.1};
+RC   PLASMID=pHS-NDM-3 {ECO:0000313|EMBL:AFK80349.1};
+RX   PubMed=23330550; DOI=10.1089/mdr.2012.0063;
+RA   Rogers B.A., Sidjabat H.E., Silvey A., Anderson T.L., Perera S.,
+RA   Li J., Paterson D.L.;
+RT   "Treatment options for New Delhi metallo-beta-lactamase-harboring
+RT   enterobacteriaceae.";
+RL   Microb. Drug Resist. 19:100-103(2013).
+RN   [2] {ECO:0000313|EMBL:AGT63294.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=EC2 {ECO:0000313|EMBL:AGT63294.1};
+RC   PLASMID=pEC2-NDM-3 {ECO:0000313|EMBL:AGT63294.1};
+RA   Wailan A.M., Sidjabat H.E., Paterson D.L.;
+RT   "The conjugation frequency and genetic surrounding of blaNDM-1,
+RT   blaNDM-3 and blaNDM-6 carrying plasmids in Enterobacteriaceae.";
+RL   Submitted (MAY-2013) to the EMBL/GenBank/DDBJ databases.
+RN   [3] {ECO:0000313|EMBL:BAO27812.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=NCGM 77 {ECO:0000313|EMBL:BAO27812.1};
+RC   PLASMID=pEC77-NDM {ECO:0000313|EMBL:BAO27812.1};
+RA   Tada T., Miyoshi-Akiyama T., Shimada K., Kirikae T.;
+RT   "Biochemical Analysis of Metallo-Beta-Lactamase NDM-3 from a
+RT   Multidrug-Resistant Escherichia coli Strain Isolated in Japan.";
+RL   Antimicrob. Agents Chemother. 58:3538-3540(2014).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; JQ734687; AFK80349.1; -; Genomic_DNA.
+DR   EMBL; KC999035; AGT63294.1; -; Genomic_DNA.
+DR   EMBL; AB898038; BAO27812.1; -; Genomic_DNA.
+DR   RefSeq; WP_032492661.1; NG_041559.1.
+DR   RefSeq; YP_009083196.1; NG_036919.1.
+DR   RefSeq; YP_009090273.1; NG_041559.1.
+DR   Gene3D; 3.60.15.10; -; 1.
+DR   InterPro; IPR001279; Beta-lactamas-like.
+DR   Pfam; PF00753; Lactamase_B; 1.
+DR   SMART; SM00849; Lactamase_B; 1.
+DR   SUPFAM; SSF56281; SSF56281; 1.
+PE   4: Predicted;
+KW   Plasmid {ECO:0000313|EMBL:AFK80349.1}.
+SQ   SEQUENCE   270 AA;  28498 MW;  200A0315B0F9E47C CRC64;
+     MELPNIMHPV AKLSTALAAA LMLSGCMPGE IRPTIGQQME TGDQRFGDLV FRQLAPNVWQ
+     HTSYLDMPGF GAVASNGLIV RDGGRVLVVD TAWTNDQTAQ ILNWIKQEIN LPVALAVVTH
+     AHQDKMGGMD ALHAAGIATY ANALSNQLAP QEGMVAAQHS LTFAANGWVE PATAPNFGPL
+     KVFYPGPGHT SDNITVGIDG TDIAFGGCLI KDSKAKSLGN LGDADTEHYA ASARAFGAAF
+     PKASMIVMSH SAPDSRAAIT HTARMADKLR
+//

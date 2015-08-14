@@ -1,0 +1,251 @@
+ID   LECA_DIOGR              Reviewed;         237 AA.
+AC   P08902;
+DT   01-NOV-1988, integrated into UniProtKB/Swiss-Prot.
+DT   02-FEB-2004, sequence version 2.
+DT   26-NOV-2014, entry version 99.
+DE   RecName: Full=Lectin alpha chain;
+DE   Contains:
+DE     RecName: Full=Lectin beta chain;
+DE   Contains:
+DE     RecName: Full=Lectin gamma chain;
+OS   Dioclea grandiflora (Mucana).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+OC   Phaseoleae; Dioclea.
+OX   NCBI_TaxID=3837;
+RN   [1]
+RP   PROTEIN SEQUENCE.
+RC   TISSUE=Seed;
+RX   PubMed=6383825; DOI=10.1111/j.1432-1033.1984.tb08436.x;
+RA   Richardson M., Campos F.D.A.P., Moreira R.A., Ainouz I.L., Begbie R.,
+RA   Watt W.B., Pusztai A.;
+RT   "The complete amino acid sequence of the major alpha subunit of the
+RT   lectin from the seeds of Dioclea grandiflora (Mart).";
+RL   Eur. J. Biochem. 144:101-111(1984).
+RN   [2]
+RP   PROTEIN SEQUENCE, AND MASS SPECTROMETRY.
+RC   TISSUE=Seed;
+RX   PubMed=10082964; DOI=10.1016/S0167-4838(99)00020-5;
+RA   Calvete J.J., Thole H.H., Raida M., Urbanke C., Romero A.,
+RA   Grangeiro T.B., Ramos M.V., Almeida da Rocha I.M., Guimaraes F.N.,
+RA   Cavada B.S.;
+RT   "Molecular characterization and crystallization of Diocleinae
+RT   lectins.";
+RL   Biochim. Biophys. Acta 1430:367-375(1999).
+RN   [3]
+RP   PROTEIN SEQUENCE OF 1-23; 37-107; 110-151; 159-184 AND 201-237.
+RC   TISSUE=Seed;
+RA   Ainouz I.L., Moreira R.A., Campos F.D.A.P., Richardson M., Begbie R.,
+RA   Stewart J.C., Watt W.B., Pusztai A.;
+RT   "The isolation and amino acid sequence of the beta- and gamma-subunits
+RT   of the lectin from the seeds of Dioclea grandiflora.";
+RL   Phytochemistry 26:1435-1440(1987).
+RN   [4]
+RP   FUNCTION.
+RX   PubMed=1398779; DOI=10.3109/08820139209069369;
+RA   Barral-Netto M., Santos S.B., Barral A., Moreira L.I., Santos C.F.,
+RA   Moreira R.A., Oliveira J.T., Cavada B.S.;
+RT   "Human lymphocyte stimulation by legume lectins from the Diocleae
+RT   tribe.";
+RL   Immunol. Invest. 21:297-303(1992).
+RN   [5]
+RP   FUNCTION, AND CALCIUM-BINDING.
+RX   PubMed=7524287; DOI=10.1007/BF02001905;
+RA   Gomes J.C., Ferreira R.R., Cavada B.S., Moreira R.A., Oliveira J.T.;
+RT   "Histamine release induced by glucose (mannose)-specific lectins
+RT   isolated from Brazilian beans. Comparison with concanavalin A.";
+RL   Agents Actions 41:132-135(1994).
+RN   [6]
+RP   FUNCTION.
+RX   PubMed=18472821; DOI=10.1080/09629359791695;
+RA   Assreuy A.M., Shibuya M.D., Martins G.J., De Souza M.L., Cavada B.S.,
+RA   Moreira R.A., Oliveira J.T., Ribeiro R.A., Flores C.A.;
+RT   "Anti-inflammatory effect of glucose-mannose binding lectins isolated
+RT   from Brazilian beans.";
+RL   Mediators Inflamm. 6:201-210(1997).
+RN   [7]
+RP   FUNCTION.
+RX   PubMed=9575151; DOI=10.1074/jbc.273.20.12082;
+RA   Dam T.K., Cavada B.S., Grangeiro T.B., Santos C.F., de Sousa F.A.M.,
+RA   Oscarson S., Brewer C.F.;
+RT   "Diocleinae lectins are a group of proteins with conserved binding
+RT   sites for the core trimannoside of asparagine-linked oligosaccharides
+RT   and differential specificities for complex carbohydrates.";
+RL   J. Biol. Chem. 273:12082-12088(1998).
+RN   [8]
+RP   MANGANESE-BINDING.
+RX   PubMed=10694401; DOI=10.1021/bi992102b;
+RA   Lee H.C., Goroncy A.K., Peisach J., Cavada B.S., Grangeiro T.B.,
+RA   Ramos M.V., Sampaio A.H., Dam T.K., Brewer C.F.;
+RT   "Demonstration of a conserved histidine and two water ligands at the
+RT   Mn2+ site in Diocleinae lectins by pulsed EPR spectroscopy.";
+RL   Biochemistry 39:2340-2346(2000).
+RN   [9]
+RP   FUNCTION.
+RX   PubMed=10747944; DOI=10.1074/jbc.M000670200;
+RA   Dam T.K., Cavada B.S., Grangeiro T.B., Santos C.F., Ceccatto V.M.,
+RA   de Sousa F.A., Oscarson S., Brewer C.F.;
+RT   "Thermodynamic binding studies of lectins from the diocleinae subtribe
+RT   to deoxy analogs of the core trimannoside of asparagine-linked
+RT   oligosaccharides.";
+RL   J. Biol. Chem. 275:16119-16126(2000).
+RN   [10]
+RP   FUNCTION, AND LETHAL CONCENTRATION.
+RX   PubMed=19765980; DOI=10.1016/j.biortech.2009.07.062;
+RA   dos Santos A.F., Cavada B.S., da Rocha B.A., do Nascimento K.S.,
+RA   Sant'Ana A.E.;
+RT   "Toxicity of some glucose/mannose-binding lectins to Biomphalaria
+RT   glabrata and Artemia salina.";
+RL   Bioresour. Technol. 101:794-798(2010).
+RN   [11]
+RP   X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS) IN COMPLEX WITH CALCIUM AND
+RP   MANGANESE IONS.
+RX   PubMed=8812975; DOI=10.1006/jsbi.1996.0065;
+RA   Kanellopoulos P.N., Tucker P.A., Pavlou K., Agianian B.,
+RA   Hamodrakas S.J.;
+RT   "A triclinic crystal form of the lectin concanavalin A.";
+RL   J. Struct. Biol. 117:16-23(1996).
+RN   [12]
+RP   X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS) IN COMPLEX WITH CARBOHYDRATE;
+RP   CALCIUM AND MANGANESE IONS.
+RX   PubMed=9830028; DOI=10.1074/jbc.273.49.32818;
+RA   Rozwarski D.A., Swami B.M., Brewer C.F., Sacchettini J.C.;
+RT   "Crystal structure of the lectin from Dioclea grandiflora complexed
+RT   with core trimannoside of asparagine-linked carbohydrates.";
+RL   J. Biol. Chem. 273:32818-32825(1998).
+CC   -!- FUNCTION: D-mannose/D-glucose-binding lectin. Has anti-
+CC       inflammatory activity in rats. Induces histamine release in mast
+CC       cells from rat. Induces lymphocyte proliferation and IFNG
+CC       production. Shows toxicity against the aquatic snail B.glabrata at
+CC       concentrations higher than 50 ug/ml. {ECO:0000269|PubMed:10747944,
+CC       ECO:0000269|PubMed:1398779, ECO:0000269|PubMed:18472821,
+CC       ECO:0000269|PubMed:19765980, ECO:0000269|PubMed:7524287,
+CC       ECO:0000269|PubMed:9575151}.
+CC   -!- SUBUNIT: Homotetramer. {ECO:0000269|PubMed:8812975,
+CC       ECO:0000269|PubMed:9830028}.
+CC   -!- PTM: The beta and gamma chains are produced by partial proteolytic
+CC       processing of the lectin alpha chain by an asparaginyl
+CC       endopeptidase. Mixture of 60% alpha lectin and 40% of its beta and
+CC       gamma proteolytic fragments.
+CC   -!- MASS SPECTROMETRY: Mass=26602; Mass_error=4; Method=Electrospray;
+CC       Range=1-237; Evidence={ECO:0000269|PubMed:10082964};
+CC   -!- MASS SPECTROMETRY: Mass=12872; Mass_error=2; Method=Electrospray;
+CC       Range=1-118; Evidence={ECO:0000269|PubMed:10082964};
+CC   -!- MASS SPECTROMETRY: Mass=12752; Mass_error=2; Method=Electrospray;
+CC       Range=119-237; Evidence={ECO:0000269|PubMed:10082964};
+CC   -!- TOXIC DOSE: LC(50) is 2.52 ug/ml against the brine shrimp
+CC       A.salina.
+CC   -!- MISCELLANEOUS: Binds one manganese (or another transition metal)
+CC       ion and one calcium ion. The metal ions are essential for the
+CC       saccharide-binding and cell-agglutinating activities.
+CC   -!- MISCELLANEOUS: Is being tested as a molluscicide with potential
+CC       application in controlling schistosomiasis. The causative agent of
+CC       schistosomiasis depends on freshwater snails of the genus
+CC       Biomphalaria as hosts during its larval stages.
+CC   -!- SIMILARITY: Belongs to the leguminous lectin family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   PIR; JU0176; JU0176.
+DR   PDB; 1DGL; X-ray; 2.40 A; A/B=1-237.
+DR   PDB; 1VLN; X-ray; 2.40 A; A/B/C/D/E/F/G/H=138-237.
+DR   PDB; 2GDF; X-ray; 2.40 A; A/B/C/D=1-237.
+DR   PDB; 2JE9; X-ray; 2.10 A; A/B/C/D=1-237.
+DR   PDB; 2JEC; X-ray; 2.00 A; A/B/C/D=1-237.
+DR   PDBsum; 1DGL; -.
+DR   PDBsum; 1VLN; -.
+DR   PDBsum; 2GDF; -.
+DR   PDBsum; 2JE9; -.
+DR   PDBsum; 2JEC; -.
+DR   ProteinModelPortal; P08902; -.
+DR   SMR; P08902; 1-237.
+DR   EvolutionaryTrace; P08902; -.
+DR   GO; GO:0030246; F:carbohydrate binding; IDA:UniProtKB.
+DR   GO; GO:0005537; F:mannose binding; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 2.60.120.200; -; 2.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR000985; Lectin_LegA_CS.
+DR   InterPro; IPR019825; Lectin_legB_Mn/Ca_BS.
+DR   InterPro; IPR001220; Legume_lectin_dom.
+DR   Pfam; PF00139; Lectin_legB; 2.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   PROSITE; PS00308; LECTIN_LEGUME_ALPHA; 1.
+DR   PROSITE; PS00307; LECTIN_LEGUME_BETA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Calcium; Direct protein sequencing; Lectin; Manganese;
+KW   Mannose-binding; Metal-binding.
+FT   CHAIN         1    237       Lectin alpha chain.
+FT                                /FTId=PRO_0000017597.
+FT   CHAIN         1    118       Lectin beta chain.
+FT                                /FTId=PRO_0000017598.
+FT   CHAIN       119    237       Lectin gamma chain.
+FT                                /FTId=PRO_0000017599.
+FT   REGION       99    100       Carbohydrate binding.
+FT   METAL         8      8       Manganese.
+FT   METAL        10     10       Calcium. {ECO:0000269|PubMed:8812975,
+FT                                ECO:0000269|PubMed:9830028}.
+FT   METAL        10     10       Manganese.
+FT   METAL        12     12       Calcium; via carbonyl oxygen.
+FT                                {ECO:0000269|PubMed:8812975,
+FT                                ECO:0000269|PubMed:9830028}.
+FT   METAL        14     14       Calcium. {ECO:0000269|PubMed:8812975,
+FT                                ECO:0000269|PubMed:9830028}.
+FT   METAL        19     19       Calcium. {ECO:0000269|PubMed:8812975,
+FT                                ECO:0000269|PubMed:9830028}.
+FT   METAL        19     19       Manganese.
+FT   METAL        24     24       Manganese.
+FT   METAL        34     34       Manganese. {ECO:0000250}.
+FT   METAL       208    208       Calcium. {ECO:0000250}.
+FT   BINDING      12     12       Carbohydrate.
+FT                                {ECO:0000269|PubMed:9830028}.
+FT   BINDING     228    228       Carbohydrate; via amide nitrogen.
+FT                                {ECO:0000269|PubMed:9830028}.
+FT   CONFLICT     10     10       D -> N (in Ref. 1; AA sequence and 3; AA
+FT                                sequence). {ECO:0000305}.
+FT   CONFLICT    123    123       E -> A (in Ref. 1; AA sequence).
+FT                                {ECO:0000305}.
+FT   CONFLICT    131    131       H -> N (in Ref. 1; AA sequence and 3; AA
+FT                                sequence). {ECO:0000305}.
+FT   CONFLICT    132    132       K -> Q (in Ref. 1; AA sequence and 3; AA
+FT                                sequence). {ECO:0000305}.
+FT   CONFLICT    184    184       S -> K (in Ref. 2; AA sequence).
+FT                                {ECO:0000305}.
+FT   CONFLICT    196    196       T -> I (in Ref. 1; AA sequence).
+FT                                {ECO:0000305}.
+FT   CONFLICT    196    196       T -> W (in Ref. 1; AA sequence).
+FT                                {ECO:0000305}.
+FT   CONFLICT    204    204       R -> H (in Ref. 1; AA sequence and 3; AA
+FT                                sequence). {ECO:0000305}.
+FT   STRAND        4     10       {ECO:0000244|PDB:2JEC}.
+FT   HELIX        15     17       {ECO:0000244|PDB:2JEC}.
+FT   STRAND       24     33       {ECO:0000244|PDB:2JEC}.
+FT   STRAND       35     39       {ECO:0000244|PDB:2JEC}.
+FT   STRAND       46     55       {ECO:0000244|PDB:2JEC}.
+FT   TURN         56     59       {ECO:0000244|PDB:2JEC}.
+FT   STRAND       60     67       {ECO:0000244|PDB:2JEC}.
+FT   STRAND       73     78       {ECO:0000244|PDB:2JEC}.
+FT   HELIX        81     83       {ECO:0000244|PDB:2JEC}.
+FT   STRAND       87     96       {ECO:0000244|PDB:2JEC}.
+FT   STRAND       98    100       {ECO:0000244|PDB:1DGL}.
+FT   STRAND      105    117       {ECO:0000244|PDB:2JEC}.
+FT   STRAND      118    121       {ECO:0000244|PDB:1DGL}.
+FT   STRAND      124    132       {ECO:0000244|PDB:2JEC}.
+FT   STRAND      140    144       {ECO:0000244|PDB:2JEC}.
+FT   STRAND      150    152       {ECO:0000244|PDB:1VLN}.
+FT   STRAND      154    157       {ECO:0000244|PDB:2JEC}.
+FT   STRAND      170    177       {ECO:0000244|PDB:2JEC}.
+FT   STRAND      186    198       {ECO:0000244|PDB:2JEC}.
+FT   STRAND      202    205       {ECO:0000244|PDB:2JEC}.
+FT   STRAND      209    215       {ECO:0000244|PDB:2JEC}.
+FT   HELIX       227    229       {ECO:0000244|PDB:2JEC}.
+FT   TURN        230    232       {ECO:0000244|PDB:2JEC}.
+SQ   SEQUENCE   237 AA;  25567 MW;  AF27C8A9B138861D CRC64;
+     ADTIVAVELD SYPNTDIGDP NYPHIGIDIK SIRSKSTARW NMQTGKVGTV HISYNSVAKR
+     LSAVVSYSGS SSTTVSYDVD LNNVLPEWVR VGLSATTGLY KETNTILSWS FTSKLKTNSI
+     ADENSLHFSF HKFSQNPKDL ILQGDAFTDS DGNLELTKVS SSGDPQGNSV GRALFYAPVH
+     IWESSAVVAS FDATFTFLIK SPDREPADGI TFFIANTDTS IPSGSGGRLL GLFPDAN
+//

@@ -1,0 +1,71 @@
+ID   Y073_HAEIN              Reviewed;         114 AA.
+AC   P43933;
+DT   01-NOV-1995, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1995, sequence version 1.
+DT   22-JUL-2015, entry version 82.
+DE   RecName: Full=Uncharacterized protein HI_0073;
+GN   OrderedLocusNames=HI_0073;
+OS   Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pasteurellales;
+OC   Pasteurellaceae; Haemophilus.
+OX   NCBI_TaxID=71421;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 51907 / DSM 11121 / KW20 / Rd;
+RX   PubMed=7542800; DOI=10.1126/science.7542800;
+RA   Fleischmann R.D., Adams M.D., White O., Clayton R.A., Kirkness E.F.,
+RA   Kerlavage A.R., Bult C.J., Tomb J.-F., Dougherty B.A., Merrick J.M.,
+RA   McKenney K., Sutton G.G., FitzHugh W., Fields C.A., Gocayne J.D.,
+RA   Scott J.D., Shirley R., Liu L.-I., Glodek A., Kelley J.M.,
+RA   Weidman J.F., Phillips C.A., Spriggs T., Hedblom E., Cotton M.D.,
+RA   Utterback T.R., Hanna M.C., Nguyen D.T., Saudek D.M., Brandon R.C.,
+RA   Fine L.D., Fritchman J.L., Fuhrmann J.L., Geoghagen N.S.M.,
+RA   Gnehm C.L., McDonald L.A., Small K.V., Fraser C.M., Smith H.O.,
+RA   Venter J.C.;
+RT   "Whole-genome random sequencing and assembly of Haemophilus influenzae
+RT   Rd.";
+RL   Science 269:496-512(1995).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; L42023; AAC21758.1; -; Genomic_DNA.
+DR   PIR; E64000; E64000.
+DR   RefSeq; NP_438246.1; NC_000907.1.
+DR   RefSeq; WP_005693849.1; NC_000907.1.
+DR   PDB; 1NO5; X-ray; 1.80 A; A/B=1-114.
+DR   PDBsum; 1NO5; -.
+DR   ProteinModelPortal; P43933; -.
+DR   SMR; P43933; 4-105.
+DR   STRING; 71421.HI0073; -.
+DR   EnsemblBacteria; AAC21758; AAC21758; HI_0073.
+DR   GeneID; 950966; -.
+DR   KEGG; hin:HI0073; -.
+DR   PATRIC; 20188601; VBIHaeInf48452_0074.
+DR   eggNOG; COG1708; -.
+DR   KO; K07076; -.
+DR   OMA; WHAISPE; -.
+DR   OrthoDB; EOG6P071R; -.
+DR   EvolutionaryTrace; P43933; -.
+DR   Proteomes; UP000000579; Chromosome.
+DR   GO; GO:0016779; F:nucleotidyltransferase activity; IEA:InterPro.
+DR   InterPro; IPR002934; Nucleotidyltransferase.
+DR   Pfam; PF01909; NTP_transf_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Reference proteome.
+FT   CHAIN         1    114       Uncharacterized protein HI_0073.
+FT                                /FTId=PRO_0000077881.
+FT   HELIX        11     24       {ECO:0000244|PDB:1NO5}.
+FT   STRAND       28     33       {ECO:0000244|PDB:1NO5}.
+FT   HELIX        34     36       {ECO:0000244|PDB:1NO5}.
+FT   TURN         37     39       {ECO:0000244|PDB:1NO5}.
+FT   STRAND       47     52       {ECO:0000244|PDB:1NO5}.
+FT   HELIX        59     71       {ECO:0000244|PDB:1NO5}.
+FT   STRAND       78     82       {ECO:0000244|PDB:1NO5}.
+FT   HELIX        83     85       {ECO:0000244|PDB:1NO5}.
+FT   HELIX        88     96       {ECO:0000244|PDB:1NO5}.
+FT   STRAND       99    102       {ECO:0000244|PDB:1NO5}.
+SQ   SEQUENCE   114 AA;  13179 MW;  B1367D6644F61DF6 CRC64;
+     MTSFAQLDIK SEELAIVKTI LQQLVPDYTV WAFGSRVKGK AKKYSDLDLA IISEEPLDFL
+     ARDRLKEAFS ESDLPWRVDL LDWATTSEDF REIIRKVYVV IQEKEKTVEK PTAL
+//

@@ -1,0 +1,470 @@
+ID   CAF1_DROME              Reviewed;         430 AA.
+AC   Q24572; A0AP04; Q9VFB4;
+DT   15-JUL-1998, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   22-JUL-2015, entry version 148.
+DE   RecName: Full=Probable histone-binding protein Caf1;
+DE   AltName: Full=Chromatin assembly factor 1 p55 subunit;
+DE            Short=CAF-1 p55 subunit;
+DE   AltName: Full=Nucleosome-remodeling factor 55 kDa subunit;
+DE            Short=NURF-55;
+DE   AltName: Full=dCAF-1;
+GN   Name=Caf1; ORFNames=CG4236;
+OS   Drosophila melanogaster (Fruit fly).
+OC   Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+OC   Pterygota; Neoptera; Endopterygota; Diptera; Brachycera; Muscomorpha;
+OC   Ephydroidea; Drosophilidae; Drosophila; Sophophora.
+OX   NCBI_TaxID=7227;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], PROTEIN SEQUENCE OF 256-268; 301-313;
+RP   322-334 AND 354-376, FUNCTION, SUBCELLULAR LOCATION, AND DEVELOPMENTAL
+RP   STAGE.
+RC   STRAIN=Canton-S;
+RX   PubMed=8887645;
+RA   Tyler J.K., Bulger M., Kamakaka R.T., Kobayashi R., Kadonaga J.T.;
+RT   "The p55 subunit of Drosophila chromatin assembly factor 1 is
+RT   homologous to a histone deacetylase-associated protein.";
+RL   Mol. Cell. Biol. 16:6149-6159(1996).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ZBMEL131, ZBMEL145, ZBMEL157, ZBMEL186, ZBMEL191, ZBMEL229,
+RC   ZBMEL377, ZBMEL384, ZBMEL398, ZBMEL82, ZBMEL84, and ZBMEL95;
+RX   PubMed=16951084; DOI=10.1534/genetics.106.058008;
+RA   Proeschel M., Zhang Z., Parsch J.;
+RT   "Widespread adaptive evolution of Drosophila genes with sex-biased
+RT   expression.";
+RL   Genetics 174:893-900(2006).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Berkeley;
+RX   PubMed=10731132; DOI=10.1126/science.287.5461.2185;
+RA   Adams M.D., Celniker S.E., Holt R.A., Evans C.A., Gocayne J.D.,
+RA   Amanatides P.G., Scherer S.E., Li P.W., Hoskins R.A., Galle R.F.,
+RA   George R.A., Lewis S.E., Richards S., Ashburner M., Henderson S.N.,
+RA   Sutton G.G., Wortman J.R., Yandell M.D., Zhang Q., Chen L.X.,
+RA   Brandon R.C., Rogers Y.-H.C., Blazej R.G., Champe M., Pfeiffer B.D.,
+RA   Wan K.H., Doyle C., Baxter E.G., Helt G., Nelson C.R., Miklos G.L.G.,
+RA   Abril J.F., Agbayani A., An H.-J., Andrews-Pfannkoch C., Baldwin D.,
+RA   Ballew R.M., Basu A., Baxendale J., Bayraktaroglu L., Beasley E.M.,
+RA   Beeson K.Y., Benos P.V., Berman B.P., Bhandari D., Bolshakov S.,
+RA   Borkova D., Botchan M.R., Bouck J., Brokstein P., Brottier P.,
+RA   Burtis K.C., Busam D.A., Butler H., Cadieu E., Center A., Chandra I.,
+RA   Cherry J.M., Cawley S., Dahlke C., Davenport L.B., Davies P.,
+RA   de Pablos B., Delcher A., Deng Z., Mays A.D., Dew I., Dietz S.M.,
+RA   Dodson K., Doup L.E., Downes M., Dugan-Rocha S., Dunkov B.C., Dunn P.,
+RA   Durbin K.J., Evangelista C.C., Ferraz C., Ferriera S., Fleischmann W.,
+RA   Fosler C., Gabrielian A.E., Garg N.S., Gelbart W.M., Glasser K.,
+RA   Glodek A., Gong F., Gorrell J.H., Gu Z., Guan P., Harris M.,
+RA   Harris N.L., Harvey D.A., Heiman T.J., Hernandez J.R., Houck J.,
+RA   Hostin D., Houston K.A., Howland T.J., Wei M.-H., Ibegwam C.,
+RA   Jalali M., Kalush F., Karpen G.H., Ke Z., Kennison J.A., Ketchum K.A.,
+RA   Kimmel B.E., Kodira C.D., Kraft C.L., Kravitz S., Kulp D., Lai Z.,
+RA   Lasko P., Lei Y., Levitsky A.A., Li J.H., Li Z., Liang Y., Lin X.,
+RA   Liu X., Mattei B., McIntosh T.C., McLeod M.P., McPherson D.,
+RA   Merkulov G., Milshina N.V., Mobarry C., Morris J., Moshrefi A.,
+RA   Mount S.M., Moy M., Murphy B., Murphy L., Muzny D.M., Nelson D.L.,
+RA   Nelson D.R., Nelson K.A., Nixon K., Nusskern D.R., Pacleb J.M.,
+RA   Palazzolo M., Pittman G.S., Pan S., Pollard J., Puri V., Reese M.G.,
+RA   Reinert K., Remington K., Saunders R.D.C., Scheeler F., Shen H.,
+RA   Shue B.C., Siden-Kiamos I., Simpson M., Skupski M.P., Smith T.J.,
+RA   Spier E., Spradling A.C., Stapleton M., Strong R., Sun E.,
+RA   Svirskas R., Tector C., Turner R., Venter E., Wang A.H., Wang X.,
+RA   Wang Z.-Y., Wassarman D.A., Weinstock G.M., Weissenbach J.,
+RA   Williams S.M., Woodage T., Worley K.C., Wu D., Yang S., Yao Q.A.,
+RA   Ye J., Yeh R.-F., Zaveri J.S., Zhan M., Zhang G., Zhao Q., Zheng L.,
+RA   Zheng X.H., Zhong F.N., Zhong W., Zhou X., Zhu S.C., Zhu X.,
+RA   Smith H.O., Gibbs R.A., Myers E.W., Rubin G.M., Venter J.C.;
+RT   "The genome sequence of Drosophila melanogaster.";
+RL   Science 287:2185-2195(2000).
+RN   [4]
+RP   GENOME REANNOTATION.
+RC   STRAIN=Berkeley;
+RX   PubMed=12537572; DOI=10.1186/gb-2002-3-12-research0083;
+RA   Misra S., Crosby M.A., Mungall C.J., Matthews B.B., Campbell K.S.,
+RA   Hradecky P., Huang Y., Kaminker J.S., Millburn G.H., Prochnik S.E.,
+RA   Smith C.D., Tupy J.L., Whitfield E.J., Bayraktaroglu L., Berman B.P.,
+RA   Bettencourt B.R., Celniker S.E., de Grey A.D.N.J., Drysdale R.A.,
+RA   Harris N.L., Richter J., Russo S., Schroeder A.J., Shu S.Q.,
+RA   Stapleton M., Yamada C., Ashburner M., Gelbart W.M., Rubin G.M.,
+RA   Lewis S.E.;
+RT   "Annotation of the Drosophila melanogaster euchromatic genome: a
+RT   systematic review.";
+RL   Genome Biol. 3:RESEARCH0083.1-RESEARCH0083.22(2002).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=Berkeley;
+RX   PubMed=12537569; DOI=10.1186/gb-2002-3-12-research0080;
+RA   Stapleton M., Carlson J.W., Brokstein P., Yu C., Champe M.,
+RA   George R.A., Guarin H., Kronmiller B., Pacleb J.M., Park S., Wan K.H.,
+RA   Rubin G.M., Celniker S.E.;
+RT   "A Drosophila full-length cDNA resource.";
+RL   Genome Biol. 3:RESEARCH0080.1-RESEARCH0080.8(2002).
+RN   [6]
+RP   PROTEIN SEQUENCE OF 64-80; 256-269; 301-310; 314-339 AND 354-368,
+RP   FUNCTION, IDENTIFICATION IN THE NURF COMPLEX, ASSOCIATION WITH
+RP   CHROMATIN, AND SUBCELLULAR LOCATION.
+RX   PubMed=9419341; DOI=10.1073/pnas.95.1.132;
+RA   Martinez-Balbas M.A., Tsukiyama T., Gdula D., Wu C.;
+RT   "Drosophila NURF-55, a WD repeat protein involved in histone
+RT   metabolism.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 95:132-137(1998).
+RN   [7]
+RP   CHARACTERIZATION OF THE CAF-1 COMPLEX.
+RX   PubMed=8524837; DOI=10.1073/pnas.92.25.11726;
+RA   Bulger M., Ito T., Kamakaka R.T., Kadonaga J.T.;
+RT   "Assembly of regularly spaced nucleosome arrays by Drosophila
+RT   chromatin assembly factor 1 and a 56-kDa histone-binding protein.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 92:11726-11730(1995).
+RN   [8]
+RP   CHARACTERIZATION OF THE CAF-1 COMPLEX.
+RX   PubMed=8622682;
+RA   Kamakaka R.T., Bulger M., Kaufman P.D., Stillman B., Kadonaga J.T.;
+RT   "Postreplicative chromatin assembly by Drosophila and human chromatin
+RT   assembly factor 1.";
+RL   Mol. Cell. Biol. 16:810-817(1996).
+RN   [9]
+RP   FUNCTION, AND INTERACTION WITH ISWI AND NURF-38.
+RX   PubMed=9784495; DOI=10.1101/gad.12.20.3206;
+RA   Gdula D.A., Sandaltzopoulos R., Tsukiyama T., Ossipow V., Wu C.;
+RT   "Inorganic pyrophosphatase is a component of the Drosophila nucleosome
+RT   remodeling factor complex.";
+RL   Genes Dev. 12:3206-3216(1998).
+RN   [10]
+RP   IDENTIFICATION IN AN ESC/E(Z) COMPLEX WITH ESC; E(Z) AND RPD3.
+RX   PubMed=11124122;
+RA   Tie F., Furuyama T., Prasad-Sinha J., Jane E., Harte P.J.;
+RT   "The Drosophila polycomb group proteins ESC and E(Z) are present in a
+RT   complex containing the histone-binding protein p55 and the histone
+RT   deacetylase RPD3.";
+RL   Development 128:275-286(2001).
+RN   [11]
+RP   INTERACTION WITH CAF1-105 AND CAF1-180.
+RX   PubMed=11533245; DOI=10.1128/MCB.21.19.6574-6584.2001;
+RA   Tyler J.K., Collins K.A., Prasad-Sinha J., Amiott E., Bulger M.,
+RA   Harte P.J., Kobayashi R., Kadonaga J.T.;
+RT   "Interaction between the Drosophila CAF-1 and ASF1 chromatin assembly
+RT   factors.";
+RL   Mol. Cell. Biol. 21:6574-6584(2001).
+RN   [12]
+RP   IDENTIFICATION IN AN ESC/E(Z) COMPLEX WITH ESC; E(Z); RPD3 AND
+RP   SU(Z)12.
+RX   PubMed=12408863; DOI=10.1016/S0092-8674(02)00975-3;
+RA   Czermin B., Melfi R., McCabe D., Seitz V., Imhof A., Pirrotta V.;
+RT   "Drosophila Enhancer of zeste/ESC complexes have a histone H3
+RT   methyltransferase activity that marks chromosomal Polycomb sites.";
+RL   Cell 111:185-196(2002).
+RN   [13]
+RP   IDENTIFICATION IN AN ESC/E(Z) COMPLEX WITH ESC; E(Z) AND SU(Z)12.
+RX   PubMed=12408864; DOI=10.1016/S0092-8674(02)00976-5;
+RA   Mueller J., Hart C.M., Francis N.J., Vargas M.L., Sengupta A.,
+RA   Wild B., Miller E.L., O'Connor M.B., Kingston R.E., Simon J.A.;
+RT   "Histone methyltransferase activity of a Drosophila Polycomb group
+RT   repressor complex.";
+RL   Cell 111:197-208(2002).
+RN   [14]
+RP   FUNCTION, IDENTIFICATION BY MASS SPECTROMETRY, AND IDENTIFICATION IN
+RP   THE DREAM COMPLEX.
+RX   PubMed=12490953; DOI=10.1038/nature01228;
+RA   Beall E.L., Manak J.R., Zhou S., Bell M., Lipsick J.S., Botchan M.R.;
+RT   "Role for a Drosophila Myb-containing protein complex in site-specific
+RT   DNA replication.";
+RL   Nature 420:833-837(2002).
+RN   [15]
+RP   IDENTIFICATION IN AN ESC/E(Z) COMPLEX WITH ESC; E(Z) AND RPD3.
+RX   PubMed=12533794; DOI=10.1002/gene.10173;
+RA   Furuyama T., Tie F., Harte P.J.;
+RT   "Polycomb group proteins ESC and E(Z) are present in multiple distinct
+RT   complexes that undergo dynamic changes during development.";
+RL   Genesis 35:114-124(2003).
+RN   [16]
+RP   IDENTIFICATION IN AN ESC/E(Z) COMPLEX WITH ESC; E(Z); PCL; RPD3 AND
+RP   SU(Z)12.
+RX   PubMed=12697833; DOI=10.1128/MCB.23.9.3352-3362.2003;
+RA   Tie F., Prasad-Sinha J., Birve A., Rasmuson-Lestander A., Harte P.J.;
+RT   "A 1-megadalton ESC/E(Z) complex from Drosophila that contains
+RT   polycomblike and RPD3.";
+RL   Mol. Cell. Biol. 23:3352-3362(2003).
+RN   [17]
+RP   IDENTIFICATION IN THE NURD COMPLEX, AND SELF-ASSOCIATION.
+RX   PubMed=15516265; DOI=10.1186/1471-2199-5-20;
+RA   Marhold J., Brehm A., Kramer K.;
+RT   "The Drosophila methyl-DNA binding protein MBD2/3 interacts with the
+RT   NuRD complex via p55 and MI-2.";
+RL   BMC Mol. Biol. 5:20-20(2004).
+RN   [18]
+RP   IDENTIFICATION IN THE DREAM COMPLEX.
+RX   PubMed=15479636; DOI=10.1016/j.cell.2004.09.034;
+RA   Korenjak M., Taylor-Harding B., Binne U.K., Satterlee J.S.,
+RA   Stevaux O., Aasland R., White-Cooper H., Dyson N., Brehm A.;
+RT   "Native E2F/RBF complexes contain Myb-interacting proteins and repress
+RT   transcription of developmentally controlled E2F target genes.";
+RL   Cell 119:181-193(2004).
+RN   [19]
+RP   IDENTIFICATION IN THE DREAM COMPLEX.
+RX   PubMed=15545624; DOI=10.1101/gad.1255204;
+RA   Lewis P.W., Beall E.L., Fleischer T.C., Georlette D., Link A.J.,
+RA   Botchan M.R.;
+RT   "Identification of a Drosophila Myb-E2F2/RBF transcriptional repressor
+RT   complex.";
+RL   Genes Dev. 18:2929-2940(2004).
+RN   [20]
+RP   FUNCTION, AND INTERACTION WITH RBF AND RBF2.
+RX   PubMed=15456884; DOI=10.1128/MCB.24.20.9124-9136.2004;
+RA   Taylor-Harding B., Binne U.K., Korenjak M., Brehm A., Dyson N.J.;
+RT   "p55, the Drosophila ortholog of RbAp46/RbAp48, is required for the
+RT   repression of dE2F2/RBF-regulated genes.";
+RL   Mol. Cell. Biol. 24:9124-9136(2004).
+RN   [21]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-11, AND IDENTIFICATION
+RP   BY MASS SPECTROMETRY.
+RX   PubMed=17372656; DOI=10.1039/b617545g;
+RA   Bodenmiller B., Mueller L.N., Pedrioli P.G.A., Pflieger D.,
+RA   Juenger M.A., Eng J.K., Aebersold R., Tao W.A.;
+RT   "An integrated chemical, mass spectrometric and computational strategy
+RT   for (quantitative) phosphoproteomics: application to Drosophila
+RT   melanogaster Kc167 cells.";
+RL   Mol. Biosyst. 3:275-286(2007).
+RN   [22]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-100, AND IDENTIFICATION
+RP   BY MASS SPECTROMETRY.
+RC   TISSUE=Embryo;
+RX   PubMed=18327897; DOI=10.1021/pr700696a;
+RA   Zhai B., Villen J., Beausoleil S.A., Mintseris J., Gygi S.P.;
+RT   "Phosphoproteome analysis of Drosophila melanogaster embryos.";
+RL   J. Proteome Res. 7:1675-1682(2008).
+CC   -!- FUNCTION: Core histone-binding subunit that may target chromatin
+CC       assembly factors, chromatin remodeling factors and histone
+CC       deacetylases to their histone substrates in a manner that is
+CC       regulated by nucleosomal DNA. Component of several complexes which
+CC       regulate chromatin metabolism. These include the chromatin
+CC       assembly factor 1 (CAF-1) complex, which is required for chromatin
+CC       assembly following DNA replication and DNA repair; the nucleosome
+CC       remodeling and deacetylase complex (the NuRD complex), which
+CC       promotes transcriptional repression by histone deacetylation and
+CC       nucleosome remodeling; the nucleosome remodeling factor (NURF)
+CC       complex, which catalyzes ATP-dependent nucleosome sliding and
+CC       facilitates transcription of chromatin; and the polycomb group
+CC       (PcG) repressor complex ESC-E(Z), which promotes repression of
+CC       homeotic genes during development. Also required for
+CC       transcriptional repression of E2F target genes by E2f2 and Rbf or
+CC       Rbf2. {ECO:0000269|PubMed:12490953, ECO:0000269|PubMed:15456884,
+CC       ECO:0000269|PubMed:8887645, ECO:0000269|PubMed:9419341,
+CC       ECO:0000269|PubMed:9784495}.
+CC   -!- SUBUNIT: Probably binds directly to helix 1 of the histone fold of
+CC       histone H4, a region that is not accessible when H4 is in
+CC       chromatin. Self associates. Associates with chromatin. Component
+CC       of the CAF-1 complex, composed of Caf1, Caf1-105 and Caf1-180.
+CC       Within the CAF-1 complex, Caf1-180 interacts directly with both
+CC       Caf1 and Caf1-105. Component of the NuRD complex, composed of at
+CC       least Caf1, Mi-2, MTA1-like and Rpd3. Within the NuRD complex,
+CC       Caf1 may interact directly with Mi-2, MTA1-like and Rpd3. The NuRD
+CC       complex may also associate with the methyl-DNA binding protein
+CC       MBD-like via Caf1 and Mi-2. Component of the NURF complex,
+CC       composed of Caf1, E(bx), Nurf-38 and Iswi. Component of the
+CC       Esc/E(z) complex, composed of Caf1, esc, E(z), Su(z)1, and
+CC       possibly Pho1. The Esc/E(z) complex may also associate with Pcl
+CC       and Rpd3 during early embryogenesis. Interacts with Rbf and Rbf2.
+CC       Component of the DREAM complex at least composed of Myb, Caf1,
+CC       mip40, mip120, mip130, E2f2, Dp, Rbf, Rbf2, lin-52, Rpd3 and
+CC       l(3)mbt. {ECO:0000269|PubMed:11124122,
+CC       ECO:0000269|PubMed:11533245, ECO:0000269|PubMed:12408863,
+CC       ECO:0000269|PubMed:12408864, ECO:0000269|PubMed:12490953,
+CC       ECO:0000269|PubMed:12533794, ECO:0000269|PubMed:12697833,
+CC       ECO:0000269|PubMed:15456884, ECO:0000269|PubMed:15479636,
+CC       ECO:0000269|PubMed:15516265, ECO:0000269|PubMed:15545624,
+CC       ECO:0000269|PubMed:9419341, ECO:0000269|PubMed:9784495}.
+CC   -!- INTERACTION:
+CC       P42124:E(z); NbExp=7; IntAct=EBI-75924, EBI-112315;
+CC       Q24338:esc; NbExp=11; IntAct=EBI-75924, EBI-88911;
+CC       Q94517:Rpd3; NbExp=4; IntAct=EBI-75924, EBI-302197;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:8887645,
+CC       ECO:0000269|PubMed:9419341}.
+CC   -!- DEVELOPMENTAL STAGE: Highest level during early embryogenesis and
+CC       then decreases in larvae, pupae and adults.
+CC       {ECO:0000269|PubMed:8887645}.
+CC   -!- SIMILARITY: Belongs to the WD repeat RBAP46/RBAP48/MSI1 family.
+CC       {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 6 WD repeats. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00221}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U62388; AAB37257.1; -; mRNA.
+DR   EMBL; AM294392; CAL26322.1; -; Genomic_DNA.
+DR   EMBL; AM294393; CAL26323.1; -; Genomic_DNA.
+DR   EMBL; AM294394; CAL26324.1; -; Genomic_DNA.
+DR   EMBL; AM294395; CAL26325.1; -; Genomic_DNA.
+DR   EMBL; AM294396; CAL26330.1; -; Genomic_DNA.
+DR   EMBL; AM294397; CAL26335.1; -; Genomic_DNA.
+DR   EMBL; AM294398; CAL26337.1; -; Genomic_DNA.
+DR   EMBL; AM294399; CAL26338.1; -; Genomic_DNA.
+DR   EMBL; AM294400; CAL26339.1; -; Genomic_DNA.
+DR   EMBL; AM294401; CAL26340.1; -; Genomic_DNA.
+DR   EMBL; AM294402; CAL26341.1; -; Genomic_DNA.
+DR   EMBL; AM294403; CAL26342.1; -; Genomic_DNA.
+DR   EMBL; AE014297; AAF55146.1; -; Genomic_DNA.
+DR   EMBL; AY061408; AAL28956.1; -; mRNA.
+DR   RefSeq; NP_524354.1; NM_079630.4.
+DR   UniGene; Dm.1657; -.
+DR   PDB; 2XYI; X-ray; 1.75 A; A=1-430.
+DR   PDB; 2YB8; X-ray; 2.30 A; B=1-418.
+DR   PDB; 2YBA; X-ray; 2.55 A; A/B=1-418.
+DR   PDB; 3C99; X-ray; 2.90 A; A=1-430.
+DR   PDB; 3C9C; X-ray; 3.20 A; A=1-430.
+DR   PDBsum; 2XYI; -.
+DR   PDBsum; 2YB8; -.
+DR   PDBsum; 2YBA; -.
+DR   PDBsum; 3C99; -.
+DR   PDBsum; 3C9C; -.
+DR   ProteinModelPortal; Q24572; -.
+DR   SMR; Q24572; 9-415.
+DR   BioGrid; 66900; 35.
+DR   DIP; DIP-23697N; -.
+DR   IntAct; Q24572; 23.
+DR   MINT; MINT-252601; -.
+DR   STRING; 7227.FBpp0082511; -.
+DR   PaxDb; Q24572; -.
+DR   PRIDE; Q24572; -.
+DR   EnsemblMetazoa; FBtr0083052; FBpp0082511; FBgn0263979.
+DR   GeneID; 41836; -.
+DR   CTD; 41836; -.
+DR   FlyBase; FBgn0263979; Caf1.
+DR   eggNOG; COG2319; -.
+DR   GeneTree; ENSGT00570000079069; -.
+DR   InParanoid; Q24572; -.
+DR   OMA; HTGEVNR; -.
+DR   PhylomeDB; Q24572; -.
+DR   Reactome; REACT_285740; PKMTs methylate histone lysines.
+DR   Reactome; REACT_288099; Oxidative Stress Induced Senescence.
+DR   Reactome; REACT_305574; RMTs methylate histone arginines.
+DR   Reactome; REACT_318147; G0 and Early G1.
+DR   Reactome; REACT_344008; PRC2 methylates histones and DNA.
+DR   SignaLink; Q24572; -.
+DR   EvolutionaryTrace; Q24572; -.
+DR   GenomeRNAi; 41836; -.
+DR   NextBio; 825799; -.
+DR   PRO; PR:Q24572; -.
+DR   Proteomes; UP000000803; Chromosome 3R.
+DR   Bgee; Q24572; -.
+DR   ExpressionAtlas; Q24572; differential.
+DR   Genevisible; Q24572; DM.
+DR   GO; GO:0033186; C:CAF-1 complex; IDA:FlyBase.
+DR   GO; GO:0035098; C:ESC/E(Z) complex; IDA:FlyBase.
+DR   GO; GO:0035097; C:histone methyltransferase complex; IDA:FlyBase.
+DR   GO; GO:0031523; C:Myb complex; IDA:FlyBase.
+DR   GO; GO:0005634; C:nucleus; IDA:FlyBase.
+DR   GO; GO:0016581; C:NuRD complex; IDA:FlyBase.
+DR   GO; GO:0016589; C:NURF complex; IDA:FlyBase.
+DR   GO; GO:0005700; C:polytene chromosome; IDA:FlyBase.
+DR   GO; GO:0070822; C:Sin3-type complex; IDA:FlyBase.
+DR   GO; GO:0005667; C:transcription factor complex; IPI:FlyBase.
+DR   GO; GO:0035035; F:histone acetyltransferase binding; IPI:FlyBase.
+DR   GO; GO:0042393; F:histone binding; IDA:FlyBase.
+DR   GO; GO:0042826; F:histone deacetylase binding; IDA:FlyBase.
+DR   GO; GO:0042803; F:protein homodimerization activity; IPI:FlyBase.
+DR   GO; GO:0031497; P:chromatin assembly; IDA:FlyBase.
+DR   GO; GO:0006342; P:chromatin silencing; IPI:FlyBase.
+DR   GO; GO:0048813; P:dendrite morphogenesis; IMP:FlyBase.
+DR   GO; GO:0006281; P:DNA repair; TAS:FlyBase.
+DR   GO; GO:0007307; P:eggshell chorion gene amplification; IC:FlyBase.
+DR   GO; GO:0016573; P:histone acetylation; IDA:FlyBase.
+DR   GO; GO:0070734; P:histone H3-K27 methylation; IC:GOC.
+DR   GO; GO:0051567; P:histone H3-K9 methylation; IC:GOC.
+DR   GO; GO:0016571; P:histone methylation; IDA:FlyBase.
+DR   GO; GO:0000281; P:mitotic cytokinesis; IMP:FlyBase.
+DR   GO; GO:0007517; P:muscle organ development; IMP:FlyBase.
+DR   GO; GO:0000122; P:negative regulation of transcription from RNA polymerase II promoter; IMP:FlyBase.
+DR   GO; GO:0048666; P:neuron development; IMP:FlyBase.
+DR   GO; GO:0048812; P:neuron projection morphogenesis; IMP:FlyBase.
+DR   GO; GO:0006334; P:nucleosome assembly; IDA:FlyBase.
+DR   GO; GO:0042766; P:nucleosome mobilization; IDA:FlyBase.
+DR   GO; GO:0016584; P:nucleosome positioning; IDA:FlyBase.
+DR   GO; GO:0008284; P:positive regulation of cell proliferation; IMP:FlyBase.
+DR   GO; GO:0007346; P:regulation of mitotic cell cycle; IMP:FlyBase.
+DR   GO; GO:0007379; P:segment specification; IMP:FlyBase.
+DR   GO; GO:0006351; P:transcription, DNA-templated; IDA:FlyBase.
+DR   Gene3D; 2.130.10.10; -; 1.
+DR   InterPro; IPR020472; G-protein_beta_WD-40_rep.
+DR   InterPro; IPR022052; Histone-bd_RBBP4_N.
+DR   InterPro; IPR015943; WD40/YVTN_repeat-like_dom.
+DR   InterPro; IPR001680; WD40_repeat.
+DR   InterPro; IPR019775; WD40_repeat_CS.
+DR   InterPro; IPR017986; WD40_repeat_dom.
+DR   Pfam; PF12265; CAF1C_H4-bd; 1.
+DR   Pfam; PF00400; WD40; 5.
+DR   PRINTS; PR00320; GPROTEINBRPT.
+DR   SMART; SM00320; WD40; 6.
+DR   SUPFAM; SSF50978; SSF50978; 1.
+DR   PROSITE; PS00678; WD_REPEATS_1; 3.
+DR   PROSITE; PS50082; WD_REPEATS_2; 5.
+DR   PROSITE; PS50294; WD_REPEATS_REGION; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Chromatin regulator; Complete proteome;
+KW   Direct protein sequencing; Nucleus; Phosphoprotein;
+KW   Reference proteome; Repeat; Repressor; Transcription;
+KW   Transcription regulation; WD repeat.
+FT   CHAIN         1    430       Probable histone-binding protein Caf1.
+FT                                /FTId=PRO_0000050895.
+FT   REPEAT      126    159       WD 1.
+FT   REPEAT      179    210       WD 2.
+FT   REPEAT      229    260       WD 3.
+FT   REPEAT      275    306       WD 4.
+FT   REPEAT      319    350       WD 5.
+FT   REPEAT      376    407       WD 6.
+FT   MOD_RES      11     11       Phosphoserine.
+FT                                {ECO:0000269|PubMed:17372656}.
+FT   MOD_RES     100    100       Phosphoserine.
+FT                                {ECO:0000269|PubMed:18327897}.
+FT   HELIX        12     35       {ECO:0000244|PDB:2XYI}.
+FT   STRAND       36     43       {ECO:0000244|PDB:2XYI}.
+FT   STRAND       51     53       {ECO:0000244|PDB:2XYI}.
+FT   STRAND       66     73       {ECO:0000244|PDB:2XYI}.
+FT   STRAND       77     79       {ECO:0000244|PDB:2XYI}.
+FT   STRAND       81     90       {ECO:0000244|PDB:2XYI}.
+FT   STRAND      119    129       {ECO:0000244|PDB:2XYI}.
+FT   STRAND      132    137       {ECO:0000244|PDB:2XYI}.
+FT   STRAND      140    147       {ECO:0000244|PDB:2XYI}.
+FT   STRAND      149    151       {ECO:0000244|PDB:2XYI}.
+FT   STRAND      153    157       {ECO:0000244|PDB:2XYI}.
+FT   HELIX       158    160       {ECO:0000244|PDB:2XYI}.
+FT   STRAND      174    178       {ECO:0000244|PDB:2XYI}.
+FT   STRAND      187    189       {ECO:0000244|PDB:2XYI}.
+FT   STRAND      191    193       {ECO:0000244|PDB:2YB8}.
+FT   STRAND      196    200       {ECO:0000244|PDB:2XYI}.
+FT   STRAND      206    210       {ECO:0000244|PDB:2XYI}.
+FT   HELIX       217    219       {ECO:0000244|PDB:2XYI}.
+FT   STRAND      220    222       {ECO:0000244|PDB:2XYI}.
+FT   STRAND      224    227       {ECO:0000244|PDB:2XYI}.
+FT   STRAND      234    239       {ECO:0000244|PDB:2XYI}.
+FT   STRAND      246    251       {ECO:0000244|PDB:2XYI}.
+FT   STRAND      254    260       {ECO:0000244|PDB:2XYI}.
+FT   STRAND      266    268       {ECO:0000244|PDB:2XYI}.
+FT   STRAND      270    274       {ECO:0000244|PDB:2XYI}.
+FT   STRAND      280    285       {ECO:0000244|PDB:2XYI}.
+FT   STRAND      292    297       {ECO:0000244|PDB:2XYI}.
+FT   STRAND      300    306       {ECO:0000244|PDB:2XYI}.
+FT   HELIX       307    309       {ECO:0000244|PDB:3C99}.
+FT   STRAND      314    318       {ECO:0000244|PDB:2XYI}.
+FT   STRAND      324    329       {ECO:0000244|PDB:2XYI}.
+FT   STRAND      336    341       {ECO:0000244|PDB:2XYI}.
+FT   STRAND      342    344       {ECO:0000244|PDB:2YB8}.
+FT   STRAND      347    350       {ECO:0000244|PDB:2XYI}.
+FT   HELIX       351    353       {ECO:0000244|PDB:2XYI}.
+FT   HELIX       360    365       {ECO:0000244|PDB:2XYI}.
+FT   STRAND      370    373       {ECO:0000244|PDB:2XYI}.
+FT   STRAND      381    386       {ECO:0000244|PDB:2XYI}.
+FT   STRAND      388    390       {ECO:0000244|PDB:2XYI}.
+FT   STRAND      393    398       {ECO:0000244|PDB:2XYI}.
+FT   STRAND      401    408       {ECO:0000244|PDB:2XYI}.
+FT   HELIX       410    413       {ECO:0000244|PDB:2XYI}.
+SQ   SEQUENCE   430 AA;  48635 MW;  90C5FB959F1660D5 CRC64;
+     MVDRSDNAAE SFDDAVEERV INEEYKIWKK NTPFLYDLVM THALEWPSLT AQWLPDVTKQ
+     DGKDYSVHRL ILGTHTSDEQ NHLLIASVQL PSEDAQFDGS HYDNEKGEFG GFGSVCGKIE
+     IEIKINHEGE VNRARYMPQN ACVIATKTPS SDVLVFDYTK HPSKPEPSGE CQPDLRLRGH
+     QKEGYGLSWN PNLNGYLLSA SDDHTICLWD INATPKEHRV IDAKNIFTGH TAVVEDVAWH
+     LLHESLFGSV ADDQKLMIWD TRNNNTSKPS HTVDAHTAEV NCLSFNPYSE FILATGSADK
+     TVALWDLRNL KLKLHSFESH KDEIFQVQWS PHNETILASS GTDRRLHVWD LSKIGEEQST
+     EDAEDGPPEL LFIHGGHTAK ISDFSWNPNE PWIICSVSED NIMQVWQMAE NVYNDEEPEI
+     PASELETNTA
+//

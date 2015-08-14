@@ -1,0 +1,439 @@
+ID   THER_BACTH              Reviewed;         548 AA.
+AC   P00800; Q45779;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   18-APR-2006, sequence version 3.
+DT   27-MAY-2015, entry version 132.
+DE   RecName: Full=Thermolysin;
+DE            EC=3.4.24.27;
+DE   AltName: Full=Thermostable neutral proteinase;
+DE   Flags: Precursor;
+GN   Name=npr;
+OS   Bacillus thermoproteolyticus.
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus.
+OX   NCBI_TaxID=1427;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=Rokko;
+RX   PubMed=8002967;
+RA   O'Donohue M.J., Roques B.P., Beaumont A.;
+RT   "Cloning and expression in Bacillus subtilis of the npr gene from
+RT   Bacillus thermoproteolyticus Rokko coding for the thermostable
+RT   metalloprotease thermolysin.";
+RL   Biochem. J. 300:599-603(1994).
+RN   [2]
+RP   PROTEIN SEQUENCE OF 233-548.
+RA   Titani K., Hermodson M.A., Ericsson L.H., Walsh K.A., Neurath H.;
+RT   "Amino-acid sequence of thermolysin.";
+RL   Nature New Biol. 238:35-37(1972).
+RN   [3]
+RP   PROTEIN SEQUENCE OF 233-268; 352-400 AND 438-477.
+RX   PubMed=5040648; DOI=10.1021/bi00763a007;
+RA   Titani K., Hermodson M.A., Ericsson L.H., Walsh K.A., Neurath H.;
+RT   "Amino acid sequence of thermolysin. Isolation and characterization of
+RT   the fragments obtained by cleavage with cyanogen bromide.";
+RL   Biochemistry 11:2427-2435(1972).
+RN   [4]
+RP   ACTIVE SITE.
+RX   PubMed=4808703; DOI=10.1021/bi00698a030;
+RA   Burstein Y., Walsh K.A., Neurath H.;
+RT   "Evidence of an essential histidine residue in thermolysin.";
+RL   Biochemistry 13:205-210(1974).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (1.6 ANGSTROMS).
+RX   PubMed=7175940; DOI=10.1016/0022-2836(82)90319-9;
+RA   Holmes M.A., Matthews B.W.;
+RT   "Structure of thermolysin refined at 1.6-A resolution.";
+RL   J. Mol. Biol. 160:623-639(1982).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (2.3 ANGSTROMS).
+RX   PubMed=4214815;
+RA   Matthews B.W., Weaver L.H., Kester W.R.;
+RT   "The conformation of thermolysin.";
+RL   J. Biol. Chem. 249:8030-8044(1974).
+RN   [7]
+RP   STRUCTURE BY NMR OF 487-548.
+RX   PubMed=7993910; DOI=10.1021/bi00253a023;
+RA   Rico M., Jimenez M.A., Gonzalez C., de Filippis V., Fontana A.;
+RT   "NMR solution structure of the C-terminal fragment 255-316 of
+RT   thermolysin: a dimer formed by subunits having the native structure.";
+RL   Biochemistry 33:14834-14847(1994).
+RN   [8]
+RP   STRUCTURE BY NMR OF 437-548.
+RX   PubMed=9305992; DOI=10.1021/bi971060t;
+RA   Conejero-Lara F., Gonzalez C., Jimenez M.A., Padmanabhan S.,
+RA   Mateo P.L., Rico M.;
+RT   "NMR solution structure of the 205-316 C-terminal fragment of
+RT   thermolysin. An example of dimerization coupled to partial
+RT   unfolding.";
+RL   Biochemistry 36:11975-11983(1997).
+CC   -!- FUNCTION: Extracellular zinc metalloprotease.
+CC   -!- CATALYTIC ACTIVITY: Preferential cleavage: Xaa-|-Leu > Xaa-|-Phe.
+CC   -!- COFACTOR:
+CC       Name=Ca(2+); Xref=ChEBI:CHEBI:29108;
+CC       Note=Binds 4 Ca(2+) ions per subunit.;
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC       Note=Binds 1 zinc ion per subunit.;
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Temperature dependence:
+CC         Thermostable.;
+CC   -!- SUBCELLULAR LOCATION: Secreted.
+CC   -!- SIMILARITY: Belongs to the peptidase M4 family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X76986; CAA54291.1; -; Genomic_DNA.
+DR   PIR; I40579; HYBST.
+DR   PDB; 1FJ3; X-ray; 2.00 A; A=233-548.
+DR   PDB; 1FJO; X-ray; 2.00 A; A=233-548.
+DR   PDB; 1FJQ; X-ray; 1.70 A; A=233-548.
+DR   PDB; 1FJT; X-ray; 2.20 A; A=233-548.
+DR   PDB; 1FJU; X-ray; 2.00 A; A=233-548.
+DR   PDB; 1FJV; X-ray; 2.00 A; A=233-548.
+DR   PDB; 1FJW; X-ray; 1.90 A; A=233-548.
+DR   PDB; 1GXW; X-ray; 2.18 A; A=233-548.
+DR   PDB; 1HYT; X-ray; 1.70 A; A=233-548.
+DR   PDB; 1KEI; X-ray; 1.60 A; A=233-548.
+DR   PDB; 1KJO; X-ray; 1.60 A; A=233-548.
+DR   PDB; 1KJP; X-ray; 1.60 A; A=233-548.
+DR   PDB; 1KKK; X-ray; 1.60 A; A=233-548.
+DR   PDB; 1KL6; X-ray; 1.80 A; A=233-548.
+DR   PDB; 1KR6; X-ray; 1.80 A; A=233-548.
+DR   PDB; 1KRO; X-ray; 1.70 A; A=233-548.
+DR   PDB; 1KS7; X-ray; 1.70 A; A=233-548.
+DR   PDB; 1KTO; X-ray; 1.90 A; A=233-548.
+DR   PDB; 1L3F; X-ray; 2.30 A; E=233-548.
+DR   PDB; 1LNA; X-ray; 1.90 A; E=233-548.
+DR   PDB; 1LNB; X-ray; 1.80 A; E=233-548.
+DR   PDB; 1LNC; X-ray; 1.80 A; E=233-548.
+DR   PDB; 1LND; X-ray; 1.70 A; E=233-548.
+DR   PDB; 1LNE; X-ray; 1.70 A; E=233-548.
+DR   PDB; 1LNF; X-ray; 1.70 A; E=233-548.
+DR   PDB; 1OS0; X-ray; 2.10 A; A=233-548.
+DR   PDB; 1PE5; X-ray; 1.70 A; A=233-548.
+DR   PDB; 1PE7; X-ray; 1.82 A; A=233-548.
+DR   PDB; 1PE8; X-ray; 1.80 A; A=233-548.
+DR   PDB; 1QF0; X-ray; 2.20 A; A=233-548.
+DR   PDB; 1QF1; X-ray; 2.00 A; A=233-548.
+DR   PDB; 1QF2; X-ray; 2.06 A; A=233-548.
+DR   PDB; 1THL; X-ray; 1.70 A; A=233-548.
+DR   PDB; 1TLI; X-ray; 2.05 A; A=233-548.
+DR   PDB; 1TLP; X-ray; 2.30 A; E=233-548.
+DR   PDB; 1TLX; X-ray; 2.10 A; A=233-548.
+DR   PDB; 1TMN; X-ray; 1.90 A; E=233-548.
+DR   PDB; 1TRL; NMR; -; A/B=487-548.
+DR   PDB; 1Y3G; X-ray; 2.10 A; E=233-548.
+DR   PDB; 1Z9G; X-ray; 1.70 A; E=233-548.
+DR   PDB; 1ZDP; X-ray; 1.70 A; E=233-548.
+DR   PDB; 2A7G; X-ray; 1.85 A; E=233-548.
+DR   PDB; 2G4Z; X-ray; 1.98 A; A=233-548.
+DR   PDB; 2TLI; X-ray; 1.95 A; A=233-548.
+DR   PDB; 2TLX; X-ray; 1.65 A; A=233-548.
+DR   PDB; 2TMN; X-ray; 1.60 A; E=233-548.
+DR   PDB; 2WHZ; X-ray; 1.75 A; A=233-548.
+DR   PDB; 2WI0; X-ray; 1.95 A; A=233-548.
+DR   PDB; 3DNZ; X-ray; 1.20 A; A=233-548.
+DR   PDB; 3DO0; X-ray; 1.36 A; A=233-548.
+DR   PDB; 3DO1; X-ray; 1.33 A; A=233-548.
+DR   PDB; 3DO2; X-ray; 1.22 A; A=233-548.
+DR   PDB; 3EIM; X-ray; 1.88 A; A=233-548.
+DR   PDB; 3F28; X-ray; 1.68 A; A=233-548.
+DR   PDB; 3F2P; X-ray; 1.95 A; A=233-548.
+DR   PDB; 3FB0; X-ray; 1.60 A; A=233-548.
+DR   PDB; 3FBO; X-ray; 1.92 A; A=233-548.
+DR   PDB; 3FCQ; X-ray; 1.75 A; A=233-548.
+DR   PDB; 3FGD; X-ray; 1.33 A; A=233-548.
+DR   PDB; 3FLF; X-ray; 1.97 A; A=233-548.
+DR   PDB; 3FOR; X-ray; 1.93 A; A=233-548.
+DR   PDB; 3FV4; X-ray; 1.56 A; A=233-548.
+DR   PDB; 3FVP; X-ray; 1.41 A; A=233-548.
+DR   PDB; 3FXP; X-ray; 2.05 A; A=233-548.
+DR   PDB; 3FXS; X-ray; 1.55 A; A=233-548.
+DR   PDB; 3LS7; X-ray; 1.98 A; A=233-548.
+DR   PDB; 3MS3; X-ray; 1.54 A; A=233-548.
+DR   PDB; 3MSA; X-ray; 1.66 A; A=233-548.
+DR   PDB; 3MSF; X-ray; 2.09 A; A=233-548.
+DR   PDB; 3MSN; X-ray; 1.97 A; A=233-548.
+DR   PDB; 3N21; X-ray; 1.87 A; A=233-548.
+DR   PDB; 3NN7; X-ray; 2.05 A; A=233-548.
+DR   PDB; 3P7P; X-ray; 2.20 A; E=233-548.
+DR   PDB; 3P7Q; X-ray; 2.20 A; E=233-548.
+DR   PDB; 3P7R; X-ray; 2.20 A; E=233-548.
+DR   PDB; 3P7S; X-ray; 2.20 A; E=233-548.
+DR   PDB; 3P7T; X-ray; 2.20 A; E=233-548.
+DR   PDB; 3P7U; X-ray; 2.20 A; E=233-548.
+DR   PDB; 3P7V; X-ray; 2.20 A; E=233-548.
+DR   PDB; 3P7W; X-ray; 2.20 A; E=233-548.
+DR   PDB; 3QGO; X-ray; 1.45 A; A=233-548.
+DR   PDB; 3QH1; X-ray; 1.55 A; A=233-548.
+DR   PDB; 3QH5; X-ray; 1.50 A; A=233-548.
+DR   PDB; 3SSB; X-ray; 1.80 A; A/B=233-548.
+DR   PDB; 3T2H; X-ray; 1.95 A; E=233-548.
+DR   PDB; 3T2I; X-ray; 2.10 A; E=233-548.
+DR   PDB; 3T2J; X-ray; 2.00 A; E=233-548.
+DR   PDB; 3T73; X-ray; 1.60 A; A=233-548.
+DR   PDB; 3T74; X-ray; 1.28 A; A=233-548.
+DR   PDB; 3T87; X-ray; 1.28 A; A=233-548.
+DR   PDB; 3T8C; X-ray; 1.66 A; A=233-548.
+DR   PDB; 3T8D; X-ray; 1.41 A; A=233-548.
+DR   PDB; 3T8F; X-ray; 1.44 A; A=233-548.
+DR   PDB; 3T8G; X-ray; 1.50 A; A=233-548.
+DR   PDB; 3T8H; X-ray; 1.45 A; A=233-548.
+DR   PDB; 3TLI; X-ray; 1.95 A; A=233-548.
+DR   PDB; 3TMN; X-ray; 1.70 A; E=233-548.
+DR   PDB; 3ZI6; X-ray; 2.00 A; A=233-548.
+DR   PDB; 4D91; X-ray; 1.90 A; A=233-548.
+DR   PDB; 4D9W; X-ray; 1.38 A; A=233-548.
+DR   PDB; 4H57; X-ray; 1.56 A; A=233-548.
+DR   PDB; 4MTW; X-ray; 1.32 A; E=233-548.
+DR   PDB; 4MWP; X-ray; 1.23 A; E=233-548.
+DR   PDB; 4MXJ; X-ray; 1.35 A; E=233-548.
+DR   PDB; 4MZN; X-ray; 1.17 A; E=233-548.
+DR   PDB; 4N4E; X-ray; 1.13 A; E=233-548.
+DR   PDB; 4N5P; X-ray; 1.25 A; E=233-548.
+DR   PDB; 4N66; X-ray; 1.44 A; E=233-548.
+DR   PDB; 4OI5; X-ray; 1.30 A; E=233-548.
+DR   PDB; 4OW3; X-ray; 2.10 A; A=233-548.
+DR   PDB; 4TLI; X-ray; 1.95 A; A=233-548.
+DR   PDB; 4TLN; X-ray; 2.30 A; A=233-548.
+DR   PDB; 4TMN; X-ray; 1.70 A; E=233-548.
+DR   PDB; 4TNL; X-ray; 1.80 A; A=233-548.
+DR   PDB; 5TLI; X-ray; 2.10 A; A=233-548.
+DR   PDB; 5TLN; X-ray; 2.30 A; A=233-548.
+DR   PDB; 5TMN; X-ray; 1.60 A; E=233-548.
+DR   PDB; 6TLI; X-ray; 2.10 A; A=233-548.
+DR   PDB; 6TMN; X-ray; 1.60 A; E=233-548.
+DR   PDB; 7TLI; X-ray; 1.95 A; A=233-548.
+DR   PDB; 7TLN; X-ray; 2.30 A; A=233-548.
+DR   PDB; 8TLI; X-ray; 2.20 A; A=233-548.
+DR   PDB; 8TLN; X-ray; 1.60 A; E=233-548.
+DR   PDBsum; 1FJ3; -.
+DR   PDBsum; 1FJO; -.
+DR   PDBsum; 1FJQ; -.
+DR   PDBsum; 1FJT; -.
+DR   PDBsum; 1FJU; -.
+DR   PDBsum; 1FJV; -.
+DR   PDBsum; 1FJW; -.
+DR   PDBsum; 1GXW; -.
+DR   PDBsum; 1HYT; -.
+DR   PDBsum; 1KEI; -.
+DR   PDBsum; 1KJO; -.
+DR   PDBsum; 1KJP; -.
+DR   PDBsum; 1KKK; -.
+DR   PDBsum; 1KL6; -.
+DR   PDBsum; 1KR6; -.
+DR   PDBsum; 1KRO; -.
+DR   PDBsum; 1KS7; -.
+DR   PDBsum; 1KTO; -.
+DR   PDBsum; 1L3F; -.
+DR   PDBsum; 1LNA; -.
+DR   PDBsum; 1LNB; -.
+DR   PDBsum; 1LNC; -.
+DR   PDBsum; 1LND; -.
+DR   PDBsum; 1LNE; -.
+DR   PDBsum; 1LNF; -.
+DR   PDBsum; 1OS0; -.
+DR   PDBsum; 1PE5; -.
+DR   PDBsum; 1PE7; -.
+DR   PDBsum; 1PE8; -.
+DR   PDBsum; 1QF0; -.
+DR   PDBsum; 1QF1; -.
+DR   PDBsum; 1QF2; -.
+DR   PDBsum; 1THL; -.
+DR   PDBsum; 1TLI; -.
+DR   PDBsum; 1TLP; -.
+DR   PDBsum; 1TLX; -.
+DR   PDBsum; 1TMN; -.
+DR   PDBsum; 1TRL; -.
+DR   PDBsum; 1Y3G; -.
+DR   PDBsum; 1Z9G; -.
+DR   PDBsum; 1ZDP; -.
+DR   PDBsum; 2A7G; -.
+DR   PDBsum; 2G4Z; -.
+DR   PDBsum; 2TLI; -.
+DR   PDBsum; 2TLX; -.
+DR   PDBsum; 2TMN; -.
+DR   PDBsum; 2WHZ; -.
+DR   PDBsum; 2WI0; -.
+DR   PDBsum; 3DNZ; -.
+DR   PDBsum; 3DO0; -.
+DR   PDBsum; 3DO1; -.
+DR   PDBsum; 3DO2; -.
+DR   PDBsum; 3EIM; -.
+DR   PDBsum; 3F28; -.
+DR   PDBsum; 3F2P; -.
+DR   PDBsum; 3FB0; -.
+DR   PDBsum; 3FBO; -.
+DR   PDBsum; 3FCQ; -.
+DR   PDBsum; 3FGD; -.
+DR   PDBsum; 3FLF; -.
+DR   PDBsum; 3FOR; -.
+DR   PDBsum; 3FV4; -.
+DR   PDBsum; 3FVP; -.
+DR   PDBsum; 3FXP; -.
+DR   PDBsum; 3FXS; -.
+DR   PDBsum; 3LS7; -.
+DR   PDBsum; 3MS3; -.
+DR   PDBsum; 3MSA; -.
+DR   PDBsum; 3MSF; -.
+DR   PDBsum; 3MSN; -.
+DR   PDBsum; 3N21; -.
+DR   PDBsum; 3NN7; -.
+DR   PDBsum; 3P7P; -.
+DR   PDBsum; 3P7Q; -.
+DR   PDBsum; 3P7R; -.
+DR   PDBsum; 3P7S; -.
+DR   PDBsum; 3P7T; -.
+DR   PDBsum; 3P7U; -.
+DR   PDBsum; 3P7V; -.
+DR   PDBsum; 3P7W; -.
+DR   PDBsum; 3QGO; -.
+DR   PDBsum; 3QH1; -.
+DR   PDBsum; 3QH5; -.
+DR   PDBsum; 3SSB; -.
+DR   PDBsum; 3T2H; -.
+DR   PDBsum; 3T2I; -.
+DR   PDBsum; 3T2J; -.
+DR   PDBsum; 3T73; -.
+DR   PDBsum; 3T74; -.
+DR   PDBsum; 3T87; -.
+DR   PDBsum; 3T8C; -.
+DR   PDBsum; 3T8D; -.
+DR   PDBsum; 3T8F; -.
+DR   PDBsum; 3T8G; -.
+DR   PDBsum; 3T8H; -.
+DR   PDBsum; 3TLI; -.
+DR   PDBsum; 3TMN; -.
+DR   PDBsum; 3ZI6; -.
+DR   PDBsum; 4D91; -.
+DR   PDBsum; 4D9W; -.
+DR   PDBsum; 4H57; -.
+DR   PDBsum; 4MTW; -.
+DR   PDBsum; 4MWP; -.
+DR   PDBsum; 4MXJ; -.
+DR   PDBsum; 4MZN; -.
+DR   PDBsum; 4N4E; -.
+DR   PDBsum; 4N5P; -.
+DR   PDBsum; 4N66; -.
+DR   PDBsum; 4OI5; -.
+DR   PDBsum; 4OW3; -.
+DR   PDBsum; 4TLI; -.
+DR   PDBsum; 4TLN; -.
+DR   PDBsum; 4TMN; -.
+DR   PDBsum; 4TNL; -.
+DR   PDBsum; 5TLI; -.
+DR   PDBsum; 5TLN; -.
+DR   PDBsum; 5TMN; -.
+DR   PDBsum; 6TLI; -.
+DR   PDBsum; 6TMN; -.
+DR   PDBsum; 7TLI; -.
+DR   PDBsum; 7TLN; -.
+DR   PDBsum; 8TLI; -.
+DR   PDBsum; 8TLN; -.
+DR   ProteinModelPortal; P00800; -.
+DR   SMR; P00800; 233-548.
+DR   BindingDB; P00800; -.
+DR   ChEMBL; CHEMBL3392; -.
+DR   MEROPS; M04.001; -.
+DR   BRENDA; 3.4.24.27; 708.
+DR   EvolutionaryTrace; P00800; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004222; F:metalloendopeptidase activity; IEA:InterPro.
+DR   Gene3D; 3.10.170.10; -; 1.
+DR   InterPro; IPR011096; FTP_domain.
+DR   InterPro; IPR025711; PepSY.
+DR   InterPro; IPR023612; Peptidase_M4.
+DR   InterPro; IPR001570; Peptidase_M4_C_domain.
+DR   InterPro; IPR013856; Peptidase_M4_domain.
+DR   Pfam; PF07504; FTP; 1.
+DR   Pfam; PF03413; PepSY; 1.
+DR   Pfam; PF01447; Peptidase_M4; 1.
+DR   Pfam; PF02868; Peptidase_M4_C; 1.
+DR   PRINTS; PR00730; THERMOLYSIN.
+DR   PROSITE; PS00142; ZINC_PROTEASE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Calcium; Direct protein sequencing; Hydrolase;
+KW   Metal-binding; Metalloprotease; Protease; Secreted; Signal; Zinc;
+KW   Zymogen.
+FT   SIGNAL        1     28       {ECO:0000250}.
+FT   PROPEP       29    232       Activation peptide.
+FT                                {ECO:0000269|PubMed:5040648,
+FT                                ECO:0000269|Ref.2}.
+FT                                /FTId=PRO_0000028592.
+FT   CHAIN       233    548       Thermolysin.
+FT                                /FTId=PRO_0000028593.
+FT   ACT_SITE    375    375       {ECO:0000255|PROSITE-ProRule:PRU10095,
+FT                                ECO:0000269|PubMed:4808703}.
+FT   ACT_SITE    463    463       Proton donor. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU10095,
+FT                                ECO:0000269|PubMed:4808703}.
+FT   METAL       289    289       Calcium 1.
+FT   METAL       291    291       Calcium 1.
+FT   METAL       293    293       Calcium 1; via carbonyl oxygen.
+FT   METAL       370    370       Calcium 2.
+FT   METAL       374    374       Zinc; catalytic.
+FT   METAL       378    378       Zinc; catalytic.
+FT   METAL       398    398       Zinc; catalytic.
+FT   METAL       409    409       Calcium 2.
+FT   METAL       409    409       Calcium 3.
+FT   METAL       415    415       Calcium 3; via carbonyl oxygen.
+FT   METAL       417    417       Calcium 2.
+FT   METAL       417    417       Calcium 3.
+FT   METAL       419    419       Calcium 2; via carbonyl oxygen.
+FT   METAL       422    422       Calcium 2.
+FT   METAL       422    422       Calcium 3.
+FT   METAL       425    425       Calcium 4; via carbonyl oxygen.
+FT   METAL       426    426       Calcium 4.
+FT   METAL       429    429       Calcium 4; via carbonyl oxygen.
+FT   METAL       432    432       Calcium 4.
+FT   CONFLICT    269    269       N -> D (in Ref. 2; AA sequence).
+FT                                {ECO:0000305}.
+FT   CONFLICT    351    351       Q -> E (in Ref. 2; AA sequence).
+FT                                {ECO:0000305}.
+FT   CONFLICT    400    400       I -> M (in Ref. 1; CAA54291).
+FT                                {ECO:0000305}.
+FT   CONFLICT    409    409       E -> K (in Ref. 1; CAA54291).
+FT                                {ECO:0000305}.
+FT   STRAND      236    243       {ECO:0000244|PDB:4N4E}.
+FT   STRAND      249    264       {ECO:0000244|PDB:4N4E}.
+FT   STRAND      271    275       {ECO:0000244|PDB:4N4E}.
+FT   STRAND      281    283       {ECO:0000244|PDB:4N4E}.
+FT   STRAND      288    294       {ECO:0000244|PDB:4N4E}.
+FT   HELIX       297    299       {ECO:0000244|PDB:4N4E}.
+FT   HELIX       300    320       {ECO:0000244|PDB:4N4E}.
+FT   TURN        324    326       {ECO:0000244|PDB:4N4E}.
+FT   STRAND      332    341       {ECO:0000244|PDB:4N4E}.
+FT   STRAND      345    347       {ECO:0000244|PDB:4N4E}.
+FT   STRAND      349    355       {ECO:0000244|PDB:4N4E}.
+FT   STRAND      359    363       {ECO:0000244|PDB:4N4E}.
+FT   HELIX       365    367       {ECO:0000244|PDB:4N4E}.
+FT   HELIX       369    383       {ECO:0000244|PDB:4N4E}.
+FT   HELIX       391    412       {ECO:0000244|PDB:4N4E}.
+FT   STRAND      418    421       {ECO:0000244|PDB:4N4E}.
+FT   TURN        422    424       {ECO:0000244|PDB:4N4E}.
+FT   STRAND      429    431       {ECO:0000244|PDB:3QH5}.
+FT   STRAND      434    438       {ECO:0000244|PDB:4N4E}.
+FT   HELIX       440    443       {ECO:0000244|PDB:4N4E}.
+FT   HELIX       449    451       {ECO:0000244|PDB:4N4E}.
+FT   HELIX       457    461       {ECO:0000244|PDB:4N4E}.
+FT   TURN        462    465       {ECO:0000244|PDB:4N4E}.
+FT   HELIX       466    478       {ECO:0000244|PDB:4N4E}.
+FT   STRAND      480    482       {ECO:0000244|PDB:4N4E}.
+FT   STRAND      485    487       {ECO:0000244|PDB:4N4E}.
+FT   HELIX       492    505       {ECO:0000244|PDB:4N4E}.
+FT   HELIX       513    528       {ECO:0000244|PDB:4N4E}.
+FT   HELIX       533    544       {ECO:0000244|PDB:4N4E}.
+SQ   SEQUENCE   548 AA;  60104 MW;  1D6ED3A545F045C8 CRC64;
+     MKMKMKLASF GLAAGLAAQV FLPYNALAST EHVTWNQQFQ TPQFISGDLL KVNGTSPEEL
+     VYQYVEKNEN KFKFHENAKD TLQLKEKKND NLGFTFMRFQ QTYKGIPVFG AVVTSHVKDG
+     TLTALSGTLI PNLDTKGSLK SGKKLSEKQA RDIAEKDLVA NVTKEVPEYE QGKDTEFVVY
+     VNGDEASLAY VVNLNFLTPE PGNWLYIIDA VDGKILNKFN QLDAAKPGDV KSITGTSTVG
+     VGRGVLGDQK NINTTYSTYY YLQDNTRGNG IFTYDAKYRT TLPGSLWADA DNQFFASYDA
+     PAVDAHYYAG VTYDYYKNVH NRLSYDGNNA AIRSSVHYSQ GYNNAFWNGS QMVYGDGDGQ
+     TFIPLSGGID VVAHELTHAV TDYTAGLIYQ NESGAINEAI SDIFGTLVEF YANKNPDWEI
+     GEDVYTPGIS GDSLRSMSDP AKYGDPDHYS KRYTGTQDNG GVHINSGIIN KAAYLISQGG
+     THYGVSVVGI GRDKLGKIFY RALTQYLTPT SNFSQLRAAA VQSATDLYGS TSQEVASVKQ
+     AFDAVGVK
+//

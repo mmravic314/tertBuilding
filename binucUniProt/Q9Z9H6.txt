@@ -1,0 +1,136 @@
+ID   RPOA_THETH              Reviewed;         315 AA.
+AC   Q9Z9H6;
+DT   30-MAY-2000, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-1999, sequence version 1.
+DT   24-JUN-2015, entry version 97.
+DE   RecName: Full=DNA-directed RNA polymerase subunit alpha;
+DE            Short=RNAP subunit alpha;
+DE            EC=2.7.7.6;
+DE   AltName: Full=RNA polymerase subunit alpha;
+DE   AltName: Full=Transcriptase subunit alpha;
+GN   Name=rpoA;
+OS   Thermus thermophilus.
+OC   Bacteria; Deinococcus-Thermus; Deinococci; Thermales; Thermaceae;
+OC   Thermus.
+OX   NCBI_TaxID=274;
+RN   [1]
+RP   STRUCTURE BY NMR OF 247-315.
+RX   PubMed=10821859; DOI=10.1074/jbc.275.21.16057;
+RA   Wada T., Yamazaki T., Kyogoku Y.;
+RT   "The structure and the characteristic DNA binding property of the C-
+RT   terminal domain of the RNA polymerase alpha subunit from Thermus
+RT   thermophilus.";
+RL   J. Biol. Chem. 275:16057-16063(2000).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (2.6 ANGSTROMS).
+RX   PubMed=12000971; DOI=10.1038/nature752;
+RA   Vassylyev D.G., Sekine S., Laptenko O., Lee J., Vassylyeva M.N.,
+RA   Borukhov S., Yokoyama S.;
+RT   "Crystal structure of a bacterial RNA polymerase holoenzyme at 2.6 A
+RT   resolution.";
+RL   Nature 417:712-719(2002).
+CC   -!- FUNCTION: DNA-dependent RNA polymerase catalyzes the transcription
+CC       of DNA into RNA using the four ribonucleoside triphosphates as
+CC       substrates.
+CC   -!- CATALYTIC ACTIVITY: Nucleoside triphosphate + RNA(n) = diphosphate
+CC       + RNA(n+1).
+CC   -!- SUBUNIT: Homodimer. The RNAP catalytic core consists of 2 alpha, 1
+CC       beta, 1 beta' and 1 omega subunit. When a sigma factor is
+CC       associated with the core the holoenzyme is formed, which can
+CC       initiate transcription.
+CC   -!- DOMAIN: The N-terminal domain is essential for RNAP assembly and
+CC       basal transcription, whereas the C-terminal domain is involved in
+CC       interaction with transcriptional regulators and with upstream
+CC       promoter elements. {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the RNA polymerase alpha chain family.
+CC       {ECO:0000305}.
+CC   -!- CAUTION: The sequence shown here has been extracted from PDB entry
+CC       1IW7. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   PDB; 1DOQ; NMR; -; A=247-315.
+DR   PDB; 1IW7; X-ray; 2.60 A; A/B/K/L=1-315.
+DR   PDB; 1SMY; X-ray; 2.70 A; A/B/K/L=1-315.
+DR   PDB; 2BE5; X-ray; 2.40 A; A/B/K/L=1-315.
+DR   PDB; 2PPB; X-ray; 3.00 A; A/B/K/L=1-315.
+DR   PDB; 3EQL; X-ray; 2.70 A; A/B/K/L=1-315.
+DR   PDB; 4Q4Z; X-ray; 2.90 A; A/B=1-315.
+DR   PDB; 4Q5S; X-ray; 3.00 A; A/B=1-315.
+DR   PDBsum; 1DOQ; -.
+DR   PDBsum; 1IW7; -.
+DR   PDBsum; 1SMY; -.
+DR   PDBsum; 2BE5; -.
+DR   PDBsum; 2PPB; -.
+DR   PDBsum; 3EQL; -.
+DR   PDBsum; 4Q4Z; -.
+DR   PDBsum; 4Q5S; -.
+DR   ProteinModelPortal; Q9Z9H6; -.
+DR   SMR; Q9Z9H6; 1-229, 262-315.
+DR   DIP; DIP-60256N; -.
+DR   STRING; 262724.TTC1300; -.
+DR   EvolutionaryTrace; Q9Z9H6; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0003899; F:DNA-directed RNA polymerase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0006281; P:DNA repair; IEA:InterPro.
+DR   GO; GO:0006351; P:transcription, DNA-templated; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 2.170.120.12; -; 1.
+DR   HAMAP; MF_00059; RNApol_bact_RpoA; 1.
+DR   InterPro; IPR011262; DNA-dir_RNA_pol_insert.
+DR   InterPro; IPR011263; DNA-dir_RNA_pol_RpoA/D/Rpb3.
+DR   InterPro; IPR011773; DNA-dir_RpoA.
+DR   InterPro; IPR003583; Hlx-hairpin-Hlx_DNA-bd_motif.
+DR   InterPro; IPR009025; RBP11-like_dimer.
+DR   InterPro; IPR011260; RNAP_asu_C.
+DR   Pfam; PF01000; RNA_pol_A_bac; 1.
+DR   Pfam; PF03118; RNA_pol_A_CTD; 1.
+DR   Pfam; PF01193; RNA_pol_L; 1.
+DR   ProDom; PD001179; RNAP_asu_C; 1.
+DR   SMART; SM00278; HhH1; 1.
+DR   SMART; SM00662; RPOLD; 1.
+DR   SUPFAM; SSF55257; SSF55257; 2.
+DR   SUPFAM; SSF56553; SSF56553; 1.
+DR   TIGRFAMs; TIGR02027; rpoA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; DNA-directed RNA polymerase; Nucleotidyltransferase;
+KW   Transcription; Transferase.
+FT   CHAIN         1    315       DNA-directed RNA polymerase subunit
+FT                                alpha.
+FT                                /FTId=PRO_0000175409.
+FT   REGION        1    229       Alpha N-terminal domain (alpha-NTD).
+FT   REGION      247    315       Alpha C-terminal domain (alpha-CTD).
+FT   STRAND        3      5       {ECO:0000244|PDB:1IW7}.
+FT   STRAND       10     16       {ECO:0000244|PDB:1IW7}.
+FT   TURN         17     19       {ECO:0000244|PDB:1IW7}.
+FT   STRAND       20     28       {ECO:0000244|PDB:1IW7}.
+FT   HELIX        32     46       {ECO:0000244|PDB:1IW7}.
+FT   STRAND       48     60       {ECO:0000244|PDB:1IW7}.
+FT   STRAND       71     74       {ECO:0000244|PDB:1IW7}.
+FT   HELIX        75     83       {ECO:0000244|PDB:1IW7}.
+FT   STRAND       87     89       {ECO:0000244|PDB:1IW7}.
+FT   STRAND       95    106       {ECO:0000244|PDB:1IW7}.
+FT   STRAND      108    110       {ECO:0000244|PDB:1IW7}.
+FT   HELIX       111    113       {ECO:0000244|PDB:1IW7}.
+FT   STRAND      118    123       {ECO:0000244|PDB:1IW7}.
+FT   STRAND      128    132       {ECO:0000244|PDB:1IW7}.
+FT   STRAND      137    151       {ECO:0000244|PDB:1IW7}.
+FT   HELIX       153    156       {ECO:0000244|PDB:1IW7}.
+FT   STRAND      160    163       {ECO:0000244|PDB:4Q5S}.
+FT   STRAND      173    181       {ECO:0000244|PDB:1IW7}.
+FT   STRAND      193    201       {ECO:0000244|PDB:1IW7}.
+FT   STRAND      203    205       {ECO:0000244|PDB:1IW7}.
+FT   HELIX       207    223       {ECO:0000244|PDB:1IW7}.
+FT   HELIX       256    259       {ECO:0000244|PDB:1DOQ}.
+FT   HELIX       263    271       {ECO:0000244|PDB:1DOQ}.
+FT   HELIX       277    282       {ECO:0000244|PDB:1DOQ}.
+FT   HELIX       285    288       {ECO:0000244|PDB:1DOQ}.
+FT   HELIX       296    309       {ECO:0000244|PDB:1DOQ}.
+SQ   SEQUENCE   315 AA;  35013 MW;  F79D93B57526A1CB CRC64;
+     MLDSKLKAPV FTVRTQGREY GEFVLEPLER GFGVTLGNPL RRILLSSIPG TAVTSVYIED
+     VLHEFSTIPG VKEDVVEIIL NLKELVVRFL NPSLQTVTLL LKAEGPKEVK ARDFLPVADV
+     EIMNPDLHIA TLEEGGRLNM EVRVDRGVGY VPAEKHGIKD RINAIPVDAV FSPVRRVAFQ
+     VEDTRLGQRT DLDKLTLRIW TDGSVTPLEA LNQAVEILRE HLTYFSNPQA AAVAAPEEAK
+     EPEAPPEQEE ELDLPLEELG LSTRVLHSLK EEGIESVRAL LALNLKDLKN IPGIGERSLE
+     EIKEALEKKG FTLKE
+//

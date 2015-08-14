@@ -1,0 +1,133 @@
+ID   SECY_THEMA              Reviewed;         431 AA.
+AC   Q9X1I9;
+DT   14-DEC-2011, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1999, sequence version 1.
+DT   22-JUL-2015, entry version 94.
+DE   RecName: Full=Protein translocase subunit SecY;
+GN   Name=secY; OrderedLocusNames=TM_1480;
+OS   Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099).
+OC   Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Thermotoga.
+OX   NCBI_TaxID=243274;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 43589 / MSB8 / DSM 3109 / JCM 10099;
+RX   PubMed=10360571; DOI=10.1038/20601;
+RA   Nelson K.E., Clayton R.A., Gill S.R., Gwinn M.L., Dodson R.J.,
+RA   Haft D.H., Hickey E.K., Peterson J.D., Nelson W.C., Ketchum K.A.,
+RA   McDonald L.A., Utterback T.R., Malek J.A., Linher K.D., Garrett M.M.,
+RA   Stewart A.M., Cotton M.D., Pratt M.S., Phillips C.A., Richardson D.L.,
+RA   Heidelberg J.F., Sutton G.G., Fleischmann R.D., Eisen J.A., White O.,
+RA   Salzberg S.L., Smith H.O., Venter J.C., Fraser C.M.;
+RT   "Evidence for lateral gene transfer between Archaea and Bacteria from
+RT   genome sequence of Thermotoga maritima.";
+RL   Nature 399:323-329(1999).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (4.50 ANGSTROMS) OF SECYEG IN COMPLEX WITH SECA.
+RX   PubMed=18923516; DOI=10.1038/nature07335;
+RA   Zimmer J., Nam Y., Rapoport T.A.;
+RT   "Structure of a complex of the ATPase SecA and the protein-
+RT   translocation channel.";
+RL   Nature 455:936-943(2008).
+CC   -!- FUNCTION: The central subunit of the protein translocation channel
+CC       SecYEG. Consists of two halves formed by TMs 1-5 and 6-10. These
+CC       two domains form a lateral gate at the front which open onto the
+CC       bilayer between TMs 2 and 7, and are clamped together by SecE at
+CC       the back. The channel is closed by both a pore ring composed of
+CC       hydrophobic SecY resides and a short helix (helix 2A) on the
+CC       extracellular side of the membrane which forms a plug. The plug
+CC       probably moves laterally to allow the channel to open. The ring
+CC       and the pore may move independently.
+CC   -!- SUBUNIT: Component of the Sec protein translocase complex.
+CC       Heterotrimer consisting of SecY, SecE and SecG subunits. The
+CC       heterotrimers can form oligomers, although 1 heterotrimer is
+CC       thought to be able to translocate proteins. Interacts with the
+CC       ribosome. Interacts with SecDF, and other proteins may be
+CC       involved. Interacts with SecA. {ECO:0000269|PubMed:18923516}.
+CC   -!- SUBCELLULAR LOCATION: Cell inner membrane; Multi-pass membrane
+CC       protein.
+CC   -!- SIMILARITY: Belongs to the SecY/SEC61-alpha family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE000512; AAD36546.1; -; Genomic_DNA.
+DR   PIR; H72247; H72247.
+DR   RefSeq; NP_229280.1; NC_000853.1.
+DR   RefSeq; WP_004081795.1; NZ_CP011107.1.
+DR   PDB; 3DIN; X-ray; 4.50 A; C/F=1-431.
+DR   PDBsum; 3DIN; -.
+DR   ProteinModelPortal; Q9X1I9; -.
+DR   DIP; DIP-59807N; -.
+DR   STRING; 243274.TM1480; -.
+DR   EnsemblBacteria; AAD36546; AAD36546; TM_1480.
+DR   GeneID; 898007; -.
+DR   KEGG; tma:TM1480; -.
+DR   KEGG; tmi:THEMA_06900; -.
+DR   KEGG; tmm:Tmari_1488; -.
+DR   PATRIC; 23937918; VBITheMar51294_1497.
+DR   InParanoid; Q9X1I9; -.
+DR   KO; K03076; -.
+DR   OMA; QTYVISQ; -.
+DR   OrthoDB; EOG651SWP; -.
+DR   BioCyc; TMAR243274:GC6P-1520-MONOMER; -.
+DR   EvolutionaryTrace; Q9X1I9; -.
+DR   Proteomes; UP000008183; Chromosome.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0005622; C:intracellular; IEA:GOC.
+DR   GO; GO:0005886; C:plasma membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0065002; P:intracellular protein transmembrane transport; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0006605; P:protein targeting; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0043952; P:protein transport by the Sec complex; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 1.10.3370.10; -; 1.
+DR   HAMAP; MF_01465; SecY; 1.
+DR   InterPro; IPR026593; SecY.
+DR   InterPro; IPR002208; SecY/SEC61-alpha.
+DR   InterPro; IPR030659; SecY_CS.
+DR   InterPro; IPR023201; SecY_su_dom.
+DR   PANTHER; PTHR10906; PTHR10906; 1.
+DR   Pfam; PF00344; SecY; 1.
+DR   PIRSF; PIRSF004557; SecY; 1.
+DR   SUPFAM; SSF103491; SSF103491; 1.
+DR   TIGRFAMs; TIGR00967; 3a0501s007; 1.
+DR   PROSITE; PS00755; SECY_1; 1.
+DR   PROSITE; PS00756; SECY_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cell inner membrane; Cell membrane; Complete proteome;
+KW   Membrane; Protein transport; Reference proteome; Translocation;
+KW   Transmembrane; Transmembrane helix; Transport.
+FT   CHAIN         1    431       Protein translocase subunit SecY.
+FT                                /FTId=PRO_0000414213.
+FT   TOPO_DOM      1     17       Cytoplasmic.
+FT   TRANSMEM     18     32       Helical; Name=Helix 1.
+FT   TOPO_DOM     33     73       Periplasmic.
+FT   TRANSMEM     74     95       Discontinuously helical; Name=Helix 2.
+FT   INTRAMEM     74     77       Helical; Name=Helix 2A.
+FT   INTRAMEM     78     84
+FT   INTRAMEM     85     95       Helical; Name=Helix 2B.
+FT   TOPO_DOM     96    120       Cytoplasmic.
+FT   TRANSMEM    121    133       Helical; Name=Helix 3.
+FT   TOPO_DOM    134    161       Periplasmic.
+FT   TRANSMEM    162    178       Helical; Name=Helix 4.
+FT   TOPO_DOM    179    182       Cytoplasmic.
+FT   TRANSMEM    183    198       Helical; Name=Helix 5.
+FT   TOPO_DOM    199    213       Periplasmic.
+FT   TRANSMEM    214    226       Helical; Name=Helix 6.
+FT   TOPO_DOM    227    270       Cytoplasmic.
+FT   TRANSMEM    271    283       Helical; Name=Helix 7.
+FT   TOPO_DOM    284    302       Periplasmic.
+FT   TRANSMEM    303    315       Helical; Name=Helix 8.
+FT   TOPO_DOM    316    367       Cytoplasmic.
+FT   TRANSMEM    368    382       Helical; Name=Helix 9.
+FT   TOPO_DOM    383    389       Periplasmic.
+FT   TRANSMEM    390    403       Helical; Name=Helix 10.
+FT   TOPO_DOM    404    431       Cytoplasmic.
+SQ   SEQUENCE   431 AA;  48170 MW;  0FFDBBAD1F8F0B61 CRC64;
+     MWQAFKNAFK IPELRDRIIF TFLALIVFRM GIYIPVPGLN LEAWGEIFRR IAETAGVAGI
+     LSFYDVFTGG ALSRFSVFTM SVTPYITASI ILQLLASVMP SLKEMLREGE EGRKKFAKYT
+     RRLTLLIGGF QAFFVSFSLA RSNPDMVAPG VNVLQFTVLS TMSMLAGTMF LLWLGERITE
+     KGIGNGISIL IFAGIVARYP SYIRQAYLGG LNLLEWIFLI AVALITIFGI ILVQQAERRI
+     TIQYARRVTG RRVYGGASTY LPIKVNQGGV IPIIFASAIV SIPSAIASIT NNETLKNLFR
+     AGGFLYLLIY GLLVFFFTYF YSVVIFDPRE ISENIRKYGG YIPGLRPGRS TEQYLHRVLN
+     RVTFIGAVFL VVIALLPYLV QGAIKVNVWI GGTSALIAVG VALDIIQQME THMVMRHYEG
+     FIKKGKIRGR R
+//

@@ -1,0 +1,164 @@
+ID   RNSE_THET8              Reviewed;         431 AA.
+AC   Q5SLP1;
+DT   26-FEB-2008, integrated into UniProtKB/Swiss-Prot.
+DT   21-DEC-2004, sequence version 1.
+DT   22-JUL-2015, entry version 67.
+DE   RecName: Full=Ribonuclease TTHA0252;
+DE            EC=3.1.-.-;
+GN   OrderedLocusNames=TTHA0252;
+OS   Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579).
+OC   Bacteria; Deinococcus-Thermus; Deinococci; Thermales; Thermaceae;
+OC   Thermus.
+OX   NCBI_TaxID=300852;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=HB8 / ATCC 27634 / DSM 579;
+RA   Masui R., Kurokawa K., Nakagawa N., Tokunaga F., Koyama Y.,
+RA   Shibata T., Oshima T., Yokoyama S., Yasunaga T., Kuramitsu S.;
+RT   "Complete genome sequence of Thermus thermophilus HB8.";
+RL   Submitted (NOV-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS), FUNCTION, COFACTOR, ENZYME
+RP   REGULATION, AND SUBUNIT.
+RX   PubMed=16945939; DOI=10.1093/jb/mvj183;
+RA   Ishikawa H., Nakagawa N., Kuramitsu S., Masui R.;
+RT   "Crystal structure of TTHA0252 from Thermus thermophilus HB8, a RNA
+RT   degradation protein of the metallo-beta-lactamase superfamily.";
+RL   J. Biochem. 140:535-542(2006).
+CC   -!- FUNCTION: Has endoribonuclease activity towards 23S and 16S rRNA
+CC       (in vitro). {ECO:0000269|PubMed:16945939}.
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC         Evidence={ECO:0000269|PubMed:16945939};
+CC       Note=Binds 2 Zn(2+) ions. {ECO:0000269|PubMed:16945939};
+CC   -!- ENZYME REGULATION: Inhibited by cadmium, cobalt, manganese,
+CC       magnesium, calcium and nickel ions. {ECO:0000269|PubMed:16945939}.
+CC   -!- SUBUNIT: Monomer. {ECO:0000269|PubMed:16945939}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the metallo-beta-lactamase superfamily.
+CC       RNA-metabolizing metallo-beta-lactamase-like family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AP008226; BAD70075.1; -; Genomic_DNA.
+DR   RefSeq; WP_011227806.1; NC_006461.1.
+DR   RefSeq; YP_143518.1; NC_006461.1.
+DR   PDB; 2DKF; X-ray; 2.80 A; A/B/C/D=1-431.
+DR   PDB; 3A4Y; X-ray; 2.50 A; A/B/C/D=1-431.
+DR   PDB; 3IDZ; X-ray; 2.50 A; A/B/C/D=1-431.
+DR   PDB; 3IE0; X-ray; 2.73 A; A/B/C/D=1-431.
+DR   PDB; 3IE1; X-ray; 2.85 A; A/B/C/D=1-431.
+DR   PDB; 3IE2; X-ray; 2.80 A; A/B/C/D=1-431.
+DR   PDB; 3IEK; X-ray; 2.05 A; A/B/C/D=1-431.
+DR   PDB; 3IEL; X-ray; 2.35 A; A/B/C/D=1-431.
+DR   PDB; 3IEM; X-ray; 2.50 A; A/B/C/D=1-431.
+DR   PDBsum; 2DKF; -.
+DR   PDBsum; 3A4Y; -.
+DR   PDBsum; 3IDZ; -.
+DR   PDBsum; 3IE0; -.
+DR   PDBsum; 3IE1; -.
+DR   PDBsum; 3IE2; -.
+DR   PDBsum; 3IEK; -.
+DR   PDBsum; 3IEL; -.
+DR   PDBsum; 3IEM; -.
+DR   ProteinModelPortal; Q5SLP1; -.
+DR   SMR; Q5SLP1; 1-431.
+DR   STRING; 300852.TTHA0252; -.
+DR   EnsemblBacteria; BAD70075; BAD70075; BAD70075.
+DR   GeneID; 3170139; -.
+DR   KEGG; ttj:TTHA0252; -.
+DR   PATRIC; 23955459; VBITheThe93045_0252.
+DR   eggNOG; COG1236; -.
+DR   HOGENOM; HOG000244774; -.
+DR   KO; K07576; -.
+DR   OMA; NLRLRNW; -.
+DR   OrthoDB; EOG63C0PP; -.
+DR   PhylomeDB; Q5SLP1; -.
+DR   BioCyc; TTHE300852:GH8R-266-MONOMER; -.
+DR   EvolutionaryTrace; Q5SLP1; -.
+DR   Proteomes; UP000000532; Chromosome.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0004519; F:endonuclease activity; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003723; F:RNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006364; P:rRNA processing; IEA:UniProtKB-KW.
+DR   Gene3D; 3.60.15.10; -; 1.
+DR   InterPro; IPR001279; Beta-lactamas-like.
+DR   InterPro; IPR022712; Beta_Casp.
+DR   InterPro; IPR011108; RMMBL.
+DR   Pfam; PF10996; Beta-Casp; 1.
+DR   Pfam; PF00753; Lactamase_B; 1.
+DR   Pfam; PF07521; RMMBL; 1.
+DR   SMART; SM01027; Beta-Casp; 1.
+DR   SMART; SM00849; Lactamase_B; 1.
+DR   SUPFAM; SSF56281; SSF56281; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Cytoplasm; Endonuclease; Hydrolase;
+KW   Metal-binding; Nuclease; Reference proteome; RNA-binding;
+KW   rRNA processing; Zinc.
+FT   CHAIN         1    431       Ribonuclease TTHA0252.
+FT                                /FTId=PRO_0000319322.
+FT   METAL        59     59       Zinc 1.
+FT   METAL        61     61       Zinc 1.
+FT   METAL        63     63       Zinc 2.
+FT   METAL        64     64       Zinc 2.
+FT   METAL       141    141       Zinc 1.
+FT   METAL       162    162       Zinc 1.
+FT   METAL       162    162       Zinc 2.
+FT   METAL       400    400       Zinc 2.
+FT   STRAND        2      5       {ECO:0000244|PDB:3IEK}.
+FT   STRAND        9     13       {ECO:0000244|PDB:3IEK}.
+FT   STRAND       17     21       {ECO:0000244|PDB:3IEK}.
+FT   STRAND       24     28       {ECO:0000244|PDB:3IEK}.
+FT   HELIX        35     42       {ECO:0000244|PDB:3IEK}.
+FT   HELIX        49     51       {ECO:0000244|PDB:3IEK}.
+FT   STRAND       54     56       {ECO:0000244|PDB:3IEK}.
+FT   HELIX        62     65       {ECO:0000244|PDB:3IEK}.
+FT   HELIX        68     73       {ECO:0000244|PDB:3IEK}.
+FT   STRAND       80     82       {ECO:0000244|PDB:3IEK}.
+FT   HELIX        84    100       {ECO:0000244|PDB:3IEK}.
+FT   HELIX       108    116       {ECO:0000244|PDB:3IEK}.
+FT   STRAND      118    120       {ECO:0000244|PDB:3IEK}.
+FT   STRAND      127    129       {ECO:0000244|PDB:3IEK}.
+FT   STRAND      132    138       {ECO:0000244|PDB:3IEK}.
+FT   STRAND      146    152       {ECO:0000244|PDB:3IEK}.
+FT   STRAND      155    159       {ECO:0000244|PDB:3IEK}.
+FT   STRAND      168    171       {ECO:0000244|PDB:3IEK}.
+FT   STRAND      181    186       {ECO:0000244|PDB:3IEK}.
+FT   TURN        188    191       {ECO:0000244|PDB:3IEK}.
+FT   HELIX       197    213       {ECO:0000244|PDB:3IEK}.
+FT   STRAND      217    221       {ECO:0000244|PDB:3IEK}.
+FT   TURN        224    226       {ECO:0000244|PDB:3IEK}.
+FT   HELIX       227    238       {ECO:0000244|PDB:3IEK}.
+FT   HELIX       239    241       {ECO:0000244|PDB:3IEK}.
+FT   STRAND      247    250       {ECO:0000244|PDB:3IEK}.
+FT   HELIX       252    260       {ECO:0000244|PDB:3IEK}.
+FT   HELIX       261    267       {ECO:0000244|PDB:3IEK}.
+FT   HELIX       270    277       {ECO:0000244|PDB:3IEK}.
+FT   STRAND      288    290       {ECO:0000244|PDB:3IEK}.
+FT   HELIX       294    302       {ECO:0000244|PDB:3IEK}.
+FT   STRAND      305    312       {ECO:0000244|PDB:3IEK}.
+FT   STRAND      316    319       {ECO:0000244|PDB:3IEK}.
+FT   HELIX       320    328       {ECO:0000244|PDB:3IEK}.
+FT   STRAND      335    338       {ECO:0000244|PDB:3IEK}.
+FT   HELIX       347    352       {ECO:0000244|PDB:3IEK}.
+FT   STRAND      356    360       {ECO:0000244|PDB:3IEK}.
+FT   STRAND      363    366       {ECO:0000244|PDB:3IEK}.
+FT   STRAND      369    373       {ECO:0000244|PDB:3IEK}.
+FT   HELIX       375    377       {ECO:0000244|PDB:3IEK}.
+FT   HELIX       383    390       {ECO:0000244|PDB:3IEK}.
+FT   STRAND      394    401       {ECO:0000244|PDB:3IEK}.
+FT   HELIX       403    415       {ECO:0000244|PDB:3IEK}.
+FT   STRAND      419    422       {ECO:0000244|PDB:3IEK}.
+SQ   SEQUENCE   431 AA;  47055 MW;  89BB88D1F61D4BFC CRC64;
+     MRIVPFGAAR EVTGSAHLLL AGGRRVLLDC GMFQGKEEAR NHAPFGFDPK EVDAVLLTHA
+     HLDHVGRLPK LFREGYRGPV YATRATVLLM EIVLEDALKV MDEPFFGPED VEEALGHLRP
+     LEYGEWLRLG ALSLAFGQAG HLPGSAFVVA QGEGRTLVYS GDLGNREKDV LPDPSLPPLA
+     DLVLAEGTYG DRPHRPYRET VREFLEILEK TLSQGGKVLI PTFAVERAQE ILYVLYTHGH
+     RLPRAPIYLD SPMAGRVLSL YPRLVRYFSE EVQAHFLQGK NPFRPAGLEV VEHTEASKAL
+     NRAPGPMVVL AGSGMLAGGR ILHHLKHGLS DPRNALVFVG YQPQGGLGAE IIARPPAVRI
+     LGEEVPLRAS VHTLGGFSGH AGQDELLDWL QGEPRVVLVH GEEEKLLALG KLLALRGQEV
+     SLARFGEGVP V
+//

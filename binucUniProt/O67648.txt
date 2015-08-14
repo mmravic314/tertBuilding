@@ -1,0 +1,149 @@
+ID   LPXC_AQUAE              Reviewed;         282 AA.
+AC   O67648;
+DT   01-JUN-2001, integrated into UniProtKB/Swiss-Prot.
+DT   01-AUG-1998, sequence version 1.
+DT   22-JUL-2015, entry version 109.
+DE   RecName: Full=UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase;
+DE            EC=3.5.1.-;
+DE   AltName: Full=UDP-3-O-acyl-GlcNAc deacetylase;
+GN   Name=lpxC; Synonyms=envA; OrderedLocusNames=aq_1772;
+OS   Aquifex aeolicus (strain VF5).
+OC   Bacteria; Aquificae; Aquificales; Aquificaceae; Aquifex.
+OX   NCBI_TaxID=224324;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=VF5;
+RX   PubMed=9537320; DOI=10.1038/32831;
+RA   Deckert G., Warren P.V., Gaasterland T., Young W.G., Lenox A.L.,
+RA   Graham D.E., Overbeek R., Snead M.A., Keller M., Aujay M., Huber R.,
+RA   Feldman R.A., Short J.M., Olsen G.J., Swanson R.V.;
+RT   "The complete genome of the hyperthermophilic bacterium Aquifex
+RT   aeolicus.";
+RL   Nature 392:353-358(1998).
+CC   -!- FUNCTION: Involved in the biosynthesis of lipid A, a
+CC       phosphorylated glycolipid that anchors the lipopolysaccharide to
+CC       the outer membrane of the cell. {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: UDP-3-O-(3-hydroxytetradecanoyl)-N-
+CC       acetylglucosamine + H(2)O = UDP-3-O-(3-hydroxytetradecanoyl)-
+CC       glucosamine + acetate.
+CC   -!- PATHWAY: Glycolipid biosynthesis; lipid IV(A) biosynthesis; lipid
+CC       IV(A) from (3R)-3-hydroxytetradecanoyl-[acyl-carrier-protein] and
+CC       UDP-N-acetyl-alpha-D-glucosamine: step 2/6.
+CC   -!- SIMILARITY: Belongs to the LpxC family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE000657; AAC07605.1; -; Genomic_DNA.
+DR   PIR; F70452; F70452.
+DR   RefSeq; NP_214214.1; NC_000918.1.
+DR   RefSeq; WP_010881151.1; NC_000918.1.
+DR   PDB; 1P42; X-ray; 2.00 A; A/B=2-271.
+DR   PDB; 1XXE; NMR; -; A=1-282.
+DR   PDB; 1YH8; X-ray; 2.70 A; A/B=2-271.
+DR   PDB; 1YHC; X-ray; 2.10 A; A/B=2-271.
+DR   PDB; 2GO3; X-ray; 2.00 A; A/B=1-255.
+DR   PDB; 2GO4; X-ray; 2.70 A; A/B=1-267.
+DR   PDB; 2IER; X-ray; 2.70 A; A/B=1-271.
+DR   PDB; 2IES; X-ray; 3.10 A; A/B=1-271.
+DR   PDB; 2J65; X-ray; 2.20 A; A/B=1-271.
+DR   PDB; 2JT2; NMR; -; A=1-274.
+DR   PDB; 2O3Z; X-ray; 2.25 A; A/B=1-271.
+DR   PDB; 3P3C; X-ray; 1.25 A; A=2-275.
+DR   PDB; 3P76; X-ray; 1.93 A; A=1-271.
+DR   PDB; 4OZE; X-ray; 1.61 A; A/B=1-282.
+DR   PDB; 4U3B; X-ray; 1.34 A; A=1-271.
+DR   PDB; 4U3D; X-ray; 1.25 A; A=1-271.
+DR   PDBsum; 1P42; -.
+DR   PDBsum; 1XXE; -.
+DR   PDBsum; 1YH8; -.
+DR   PDBsum; 1YHC; -.
+DR   PDBsum; 2GO3; -.
+DR   PDBsum; 2GO4; -.
+DR   PDBsum; 2IER; -.
+DR   PDBsum; 2IES; -.
+DR   PDBsum; 2J65; -.
+DR   PDBsum; 2JT2; -.
+DR   PDBsum; 2O3Z; -.
+DR   PDBsum; 3P3C; -.
+DR   PDBsum; 3P76; -.
+DR   PDBsum; 4OZE; -.
+DR   PDBsum; 4U3B; -.
+DR   PDBsum; 4U3D; -.
+DR   ProteinModelPortal; O67648; -.
+DR   SMR; O67648; 3-270.
+DR   STRING; 224324.aq_1772; -.
+DR   BindingDB; O67648; -.
+DR   ChEMBL; CHEMBL1075040; -.
+DR   EnsemblBacteria; AAC07605; AAC07605; aq_1772.
+DR   GeneID; 1193363; -.
+DR   KEGG; aae:aq_1772; -.
+DR   PATRIC; 20960534; VBIAquAeo85532_1368.
+DR   eggNOG; COG0774; -.
+DR   HOGENOM; HOG000256664; -.
+DR   InParanoid; O67648; -.
+DR   KO; K02535; -.
+DR   OMA; WEGLVIE; -.
+DR   OrthoDB; EOG6PGK74; -.
+DR   BioCyc; AAEO224324:GJBH-1269-MONOMER; -.
+DR   BRENDA; 3.5.1.108; 396.
+DR   UniPathway; UPA00359; UER00478.
+DR   EvolutionaryTrace; O67648; -.
+DR   PRO; PR:O67648; -.
+DR   Proteomes; UP000000798; Chromosome.
+DR   GO; GO:0008759; F:UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0009245; P:lipid A biosynthetic process; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 3.30.1700.10; -; 1.
+DR   Gene3D; 3.30.230.20; -; 1.
+DR   HAMAP; MF_00388; LpxC; 1.
+DR   InterPro; IPR020568; Ribosomal_S5_D2-typ_fold.
+DR   InterPro; IPR004463; UDP-acyl_GlcNac_deAcase.
+DR   InterPro; IPR011334; UDP-acyl_GlcNac_deAcase_C.
+DR   InterPro; IPR015870; UDP-acyl_N-AcGlcN_deAcase_N.
+DR   Pfam; PF03331; LpxC; 1.
+DR   SUPFAM; SSF54211; SSF54211; 2.
+DR   TIGRFAMs; TIGR00325; lpxC; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Hydrolase; Lipid A biosynthesis;
+KW   Lipid biosynthesis; Lipid metabolism; Reference proteome.
+FT   CHAIN         1    282       UDP-3-O-[3-hydroxymyristoyl] N-
+FT                                acetylglucosamine deacetylase.
+FT                                /FTId=PRO_0000191917.
+FT   STRAND        3      9       {ECO:0000244|PDB:3P3C}.
+FT   STRAND       11     16       {ECO:0000244|PDB:3P3C}.
+FT   TURN         18     20       {ECO:0000244|PDB:3P3C}.
+FT   STRAND       23     30       {ECO:0000244|PDB:3P3C}.
+FT   STRAND       37     41       {ECO:0000244|PDB:3P3C}.
+FT   STRAND       44     49       {ECO:0000244|PDB:3P3C}.
+FT   HELIX        50     52       {ECO:0000244|PDB:3P3C}.
+FT   STRAND       53     55       {ECO:0000244|PDB:3P3C}.
+FT   STRAND       57     59       {ECO:0000244|PDB:3P3C}.
+FT   STRAND       61     64       {ECO:0000244|PDB:3P3C}.
+FT   STRAND       67     70       {ECO:0000244|PDB:3P3C}.
+FT   HELIX        73     82       {ECO:0000244|PDB:3P3C}.
+FT   STRAND       86     95       {ECO:0000244|PDB:3P3C}.
+FT   STRAND      101    103       {ECO:0000244|PDB:3P3C}.
+FT   HELIX       104    111       {ECO:0000244|PDB:3P3C}.
+FT   STRAND      114    120       {ECO:0000244|PDB:3P3C}.
+FT   STRAND      130    134       {ECO:0000244|PDB:3P3C}.
+FT   STRAND      137    142       {ECO:0000244|PDB:3P3C}.
+FT   STRAND      148    154       {ECO:0000244|PDB:3P3C}.
+FT   STRAND      161    167       {ECO:0000244|PDB:3P3C}.
+FT   HELIX       171    173       {ECO:0000244|PDB:3P3C}.
+FT   TURN        174    176       {ECO:0000244|PDB:3P3C}.
+FT   STRAND      180    182       {ECO:0000244|PDB:3P3C}.
+FT   HELIX       183    191       {ECO:0000244|PDB:3P3C}.
+FT   TURN        200    202       {ECO:0000244|PDB:3P3C}.
+FT   STRAND      204    206       {ECO:0000244|PDB:3P3C}.
+FT   STRAND      211    213       {ECO:0000244|PDB:1XXE}.
+FT   HELIX       222    235       {ECO:0000244|PDB:3P3C}.
+FT   HELIX       236    238       {ECO:0000244|PDB:3P3C}.
+FT   STRAND      245    250       {ECO:0000244|PDB:3P3C}.
+FT   HELIX       253    271       {ECO:0000244|PDB:3P3C}.
+SQ   SEQUENCE   282 AA;  32145 MW;  38EFE076144B5F27 CRC64;
+     MGLEKTVKEK LSFEGVGIHT GEYSKLIIHP EKEGTGIRFF KNGVYIPARH EFVVHTNHST
+     DLGFKGQRIK TVEHILSVLH LLEITNVTIE VIGNEIPILD GSGWEFYEAI RKNILNQNRE
+     IDYFVVEEPI IVEDEGRLIK AEPSDTLEVT YEGEFKNFLG RQKFTFVEGN EEEIVLARTF
+     CFDWEIEHIK KVGLGKGGSL KNTLVLGKDK VYNPEGLRYE NEPVRHKVFD LIGDLYLLGS
+     PVKGKFYSFR GGHSLNVKLV KELAKKQKLT RDLPHLPSVQ AL
+//

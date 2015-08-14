@@ -1,0 +1,96 @@
+ID   Q8DL82_THEEB            Unreviewed;       176 AA.
+AC   Q8DL82;
+DT   01-MAR-2003, integrated into UniProtKB/TrEMBL.
+DT   01-MAR-2003, sequence version 1.
+DT   24-JUN-2015, entry version 84.
+DE   SubName: Full=Starvation induced DNA binding protein {ECO:0000313|EMBL:BAC08166.1};
+GN   Name=dpsA {ECO:0000313|EMBL:BAC08166.1};
+OS   Thermosynechococcus elongatus (strain BP-1).
+OC   Bacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales;
+OC   Thermosynechococcus.
+OX   NCBI_TaxID=197221 {ECO:0000313|EMBL:BAC08166.1, ECO:0000313|Proteomes:UP000000440};
+RN   [1] {ECO:0000313|EMBL:BAC08166.1, ECO:0000313|Proteomes:UP000000440}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=BP-1 {ECO:0000313|EMBL:BAC08166.1,
+RC   ECO:0000313|Proteomes:UP000000440};
+RX   PubMed=12240834; DOI=10.1093/dnares/9.4.123;
+RA   Nakamura Y., Kaneko T., Sato S., Ikeuchi M., Katoh H., Sasamoto S.,
+RA   Watanabe A., Iriguchi M., Kawashima K., Kimura T., Kishida Y.,
+RA   Kiyokawa C., Kohara M., Matsumoto M., Matsuno A., Nakazaki N.,
+RA   Shimpo S., Sugimoto M., Takeuchi C., Yamada M., Tabata S.;
+RT   "Complete genome structure of the thermophilic cyanobacterium
+RT   Thermosynechococcus elongatus BP-1.";
+RL   DNA Res. 9:123-130(2002).
+RN   [2] {ECO:0000213|PDB:2VXX}
+RP   X-RAY CRYSTALLOGRAPHY (2.40 ANGSTROMS) IN COMPLEX WITH ZINC.
+RX   PubMed=20088882; DOI=10.1111/j.1742-4658.2009.07532.x;
+RA   Alaleona F., Franceschini S., Ceci P., Ilari A., Chiancone E.;
+RT   "Thermosynechococcus elongatus DpsA binds Zn(II) at a unique three
+RT   histidine-containing ferroxidase center and utilizes O2 as iron
+RT   oxidant with very high efficiency, unlike the typical Dps proteins.";
+RL   FEBS J. 277:903-917(2010).
+CC   -!- SIMILARITY: Belongs to the Dps family.
+CC       {ECO:0000256|RuleBase:RU003875}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; BA000039; BAC08166.1; -; Genomic_DNA.
+DR   RefSeq; NP_681404.1; NC_004113.1.
+DR   RefSeq; WP_011056462.1; NC_004113.1.
+DR   PDB; 2VXX; X-ray; 2.40 A; A/B/C/D=1-176.
+DR   PDBsum; 2VXX; -.
+DR   ProteinModelPortal; Q8DL82; -.
+DR   MINT; MINT-7312085; -.
+DR   STRING; 197221.tll0614; -.
+DR   EnsemblBacteria; BAC08166; BAC08166; BAC08166.
+DR   GeneID; 1011231; -.
+DR   KEGG; tel:tll0614; -.
+DR   PATRIC; 23926502; VBITheElo119873_0653.
+DR   eggNOG; COG0783; -.
+DR   HOGENOM; HOG000023027; -.
+DR   OMA; AELCCFE; -.
+DR   OrthoDB; EOG6Z9B6G; -.
+DR   BRENDA; 1.16.3.1; 7763.
+DR   EvolutionaryTrace; Q8DL82; -.
+DR   Proteomes; UP000000440; Chromosome.
+DR   GO; GO:0005623; C:cell; IEA:GOC.
+DR   GO; GO:0008199; F:ferric iron binding; IEA:InterPro.
+DR   GO; GO:0016722; F:oxidoreductase activity, oxidizing metal ions; IEA:InterPro.
+DR   GO; GO:0006879; P:cellular iron ion homeostasis; IEA:InterPro.
+DR   GO; GO:0006950; P:response to stress; IEA:InterPro.
+DR   Gene3D; 1.20.1260.10; -; 1.
+DR   InterPro; IPR002177; DPS_DNA-bd.
+DR   InterPro; IPR023188; DPS_DNA-bd_CS.
+DR   InterPro; IPR009078; Ferritin-like_SF.
+DR   InterPro; IPR012347; Ferritin-rel.
+DR   InterPro; IPR008331; Ferritin_DPS_dom.
+DR   Pfam; PF00210; Ferritin; 1.
+DR   PIRSF; PIRSF005900; Dps; 1.
+DR   SUPFAM; SSF47240; SSF47240; 1.
+DR   PROSITE; PS00819; DPS_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2VXX};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000440};
+KW   Metal-binding {ECO:0000213|PDB:2VXX};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000440};
+KW   Zinc {ECO:0000213|PDB:2VXX}.
+FT   METAL        51     51       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2VXX}.
+FT   METAL        63     63       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2VXX}.
+FT   METAL        78     78       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2VXX}.
+FT   METAL        78     78       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2VXX}.
+FT   METAL        82     82       Zinc 1. {ECO:0000213|PDB:2VXX}.
+FT   METAL        82     82       Zinc 2. {ECO:0000213|PDB:2VXX}.
+FT   METAL       164    164       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2VXX}.
+FT   METAL       164    164       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2VXX}.
+SQ   SEQUENCE   176 AA;  19667 MW;  7099B7956B003018 CRC64;
+     MTTSALPRQA FGEMADTVIL LEKATTTPIC EGMNRLLASF QALYLQYQKH HFVVEGAEFY
+     PLHQFFQDCY EQVQDHVHAL GERLNGLGGV PVAGFQQLAA LCCFTPEPEG AFNCRQMLSN
+     DLQAEQAIIG VLRQQATQAE SLGDRATAYL YDQILLKTEE RAYHIGHFLA NDSLKV
+//

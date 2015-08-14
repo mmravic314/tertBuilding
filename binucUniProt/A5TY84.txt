@@ -1,0 +1,110 @@
+ID   A5TY84_MYCTA            Unreviewed;       626 AA.
+AC   A5TY84;
+DT   10-JUL-2007, integrated into UniProtKB/TrEMBL.
+DT   10-JUL-2007, sequence version 1.
+DT   22-JUL-2015, entry version 66.
+DE   SubName: Full=Serine/threonine protein kinase {ECO:0000313|EMBL:ABQ71734.1};
+GN   Name=pknB {ECO:0000313|EMBL:ABQ71734.1};
+GN   OrderedLocusNames=MRA_0016 {ECO:0000313|EMBL:ABQ71734.1};
+OS   Mycobacterium tuberculosis (strain ATCC 25177 / H37Ra).
+OC   Bacteria; Actinobacteria; Corynebacteriales; Mycobacteriaceae;
+OC   Mycobacterium; Mycobacterium tuberculosis complex.
+OX   NCBI_TaxID=419947 {ECO:0000313|EMBL:ABQ71734.1, ECO:0000313|Proteomes:UP000001988};
+RN   [1] {ECO:0000313|EMBL:ABQ71734.1, ECO:0000313|Proteomes:UP000001988}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 25177 / H37Ra {ECO:0000313|Proteomes:UP000001988};
+RX   PubMed=18584054; DOI=10.1371/journal.pone.0002375;
+RA   Zheng H., Lu L., Wang B., Pu S., Zhang X., Zhu G., Shi W., Zhang L.,
+RA   Wang H., Wang S., Zhao G., Zhang Y.;
+RT   "Genetic basis of virulence attenuation revealed by comparative
+RT   genomic analysis of Mycobacterium tuberculosis strain H37Ra versus
+RT   H37Rv.";
+RL   PLoS ONE 3:E2375-E2375(2008).
+RN   [2] {ECO:0000213|PDB:3ORM}
+RP   X-RAY CRYSTALLOGRAPHY (2.50 ANGSTROMS) OF 1-308.
+RX   PubMed=21134645; DOI=10.1016/j.str.2010.09.019;
+RA   Lombana T.N., Echols N., Good M.C., Thomsen N.D., Ng H.L.,
+RA   Greenstein A.E., Falick A.M., King D.S., Alber T.;
+RT   "Allosteric activation mechanism of the Mycobacterium tuberculosis
+RT   receptor Ser/Thr protein kinase, PknB.";
+RL   Structure 18:1667-1677(2010).
+RN   [3] {ECO:0000213|PDB:3OUV}
+RP   X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS) OF 491-558.
+RA   Prigozhin D.M., Chen T.Y., Alber T.;
+RT   "SeMet Derivative of L512M mutant of PASTA domain 3 of Mycobacterium
+RT   tuberculosis PknB.";
+RL   Submitted (SEP-2010) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP000611; ABQ71734.1; -; Genomic_DNA.
+DR   RefSeq; WP_003400356.1; NC_009525.1.
+DR   PDB; 3ORI; X-ray; 2.00 A; A/B/C/D=1-308.
+DR   PDB; 3ORK; X-ray; 1.60 A; A=1-308.
+DR   PDB; 3ORL; X-ray; 2.90 A; A=1-308.
+DR   PDB; 3ORM; X-ray; 2.50 A; A=1-308.
+DR   PDB; 3ORO; X-ray; 1.90 A; A=1-308.
+DR   PDB; 3ORP; X-ray; 2.10 A; A=1-308.
+DR   PDB; 3ORT; X-ray; 1.90 A; A=1-308.
+DR   PDB; 3OUV; X-ray; 2.00 A; A=491-558.
+DR   PDBsum; 3ORI; -.
+DR   PDBsum; 3ORK; -.
+DR   PDBsum; 3ORL; -.
+DR   PDBsum; 3ORM; -.
+DR   PDBsum; 3ORO; -.
+DR   PDBsum; 3ORP; -.
+DR   PDBsum; 3ORT; -.
+DR   PDBsum; 3OUV; -.
+DR   ProteinModelPortal; A5TY84; -.
+DR   SMR; A5TY84; 2-299, 355-626.
+DR   STRING; 419947.MtubH3_010100008957; -.
+DR   BindingDB; A5TY84; -.
+DR   EnsemblBacteria; ABQ71734; ABQ71734; MRA_0016.
+DR   KEGG; mra:MRA_0016; -.
+DR   PATRIC; 18139594; VBIMycTub106795_0020.
+DR   eggNOG; COG0515; -.
+DR   HOGENOM; HOG000037185; -.
+DR   KO; K08884; -.
+DR   OMA; PVCHALQ; -.
+DR   OrthoDB; EOG6B35XT; -.
+DR   BioCyc; MTUB419947:GJ8N-18-MONOMER; -.
+DR   EvolutionaryTrace; A5TY84; -.
+DR   Proteomes; UP000001988; Chromosome.
+DR   GO; GO:0005524; F:ATP binding; IEA:InterPro.
+DR   GO; GO:0008658; F:penicillin binding; IEA:InterPro.
+DR   GO; GO:0004674; F:protein serine/threonine kinase activity; IEA:UniProtKB-KW.
+DR   InterPro; IPR011009; Kinase-like_dom.
+DR   InterPro; IPR005543; PASTA_dom.
+DR   InterPro; IPR000719; Prot_kinase_dom.
+DR   InterPro; IPR017441; Protein_kinase_ATP_BS.
+DR   InterPro; IPR002290; Ser/Thr_dual-sp_kinase.
+DR   InterPro; IPR008271; Ser/Thr_kinase_AS.
+DR   Pfam; PF03793; PASTA; 4.
+DR   Pfam; PF00069; Pkinase; 1.
+DR   SMART; SM00740; PASTA; 4.
+DR   SMART; SM00220; S_TKc; 1.
+DR   SUPFAM; SSF56112; SSF56112; 1.
+DR   PROSITE; PS51178; PASTA; 4.
+DR   PROSITE; PS00107; PROTEIN_KINASE_ATP; 1.
+DR   PROSITE; PS50011; PROTEIN_KINASE_DOM; 1.
+DR   PROSITE; PS00108; PROTEIN_KINASE_ST; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3ORI, ECO:0000213|PDB:3ORK};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001988};
+KW   Kinase {ECO:0000313|EMBL:ABQ71734.1};
+KW   Serine/threonine-protein kinase {ECO:0000313|EMBL:ABQ71734.1};
+KW   Transferase {ECO:0000313|EMBL:ABQ71734.1}.
+SQ   SEQUENCE   626 AA;  66510 MW;  6C27EEBE9D5A453B CRC64;
+     MTTPSHLSDR YELGEILGFG GMSEVHLARD LRLHRDVAVK VLRADLARDP SFYLRFRREA
+     QNAAALNHPA IVAVYDTGEA ETPAGPLPYI VMEYVDGVTL RDIVHTEGPM TPKRAIEVIA
+     DACQALNFSH QNGIIHRDVK PANIMISATN AVKVMDFGIA RAIADSGNSV TQTAAVIGTA
+     QYLSPEQARG DSVDARSDVY SLGCVLYEVL TGEPPFTGDS PVSVAYQHVR EDPIPPSARH
+     EGLSADLDAV VLKALAKNPE NRYQTAAEMR ADLVRVHNGE PPEAPKVLTD AERTSLLSSA
+     AGNLSGPRTD PLPRQDLDDT DRDRSIGSVG RWVAVVAVLA VLTVVVTIAI NTFGGITRDV
+     QVPDVRGQSS ADAIATLQNR GFKIRTLQKP DSTIPPDHVI GTDPAANTSV SAGDEITVNV
+     STGPEQREIP DVSTLTYAEA VKKLTAAGFG RFKQANSPST PELVGKVIGT NPPANQTSAI
+     TNVVIIIVGS GPATKDIPDV AGQTVDVAQK NLNVYGFTKF SQASVDSPRP AGEVTGTNPP
+     AGTTVPVDSV IELQVSKGNQ FVMPDLSGMF WVDAEPRLRA LGWTGMLDKG ADVDAGGSQH
+     NRVVYQNPPA GTGVNRDGII TLRFGQ
+//

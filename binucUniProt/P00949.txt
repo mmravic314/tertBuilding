@@ -1,0 +1,307 @@
+ID   PGM1_RABIT              Reviewed;         562 AA.
+AC   P00949; P38651;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 2.
+DT   22-JUL-2015, entry version 135.
+DE   RecName: Full=Phosphoglucomutase-1;
+DE            Short=PGM 1;
+DE            EC=5.4.2.2;
+DE   AltName: Full=Glucose phosphomutase 1;
+GN   Name=PGM1;
+OS   Oryctolagus cuniculus (Rabbit).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Lagomorpha; Leporidae;
+OC   Oryctolagus.
+OX   NCBI_TaxID=9986;
+RN   [1]
+RP   PROTEIN SEQUENCE (ISOFORM 1).
+RC   TISSUE=Muscle;
+RX   PubMed=6223925;
+RA   Ray W.J. Jr., Hermodson M.A., Puvathingal J.M., Mahoney W.C.;
+RT   "The complete amino acid sequence of rabbit muscle
+RT   phosphoglucomutase.";
+RL   J. Biol. Chem. 258:9166-9174(1983).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RX   PubMed=1530890; DOI=10.1073/pnas.89.1.411;
+RA   Whitehouse D.B., Putt W., Lovegrove J.U., Morrison K.E., Hollyoake M.,
+RA   Fox M.F., Hopkinson D.A., Edwards Y.H.;
+RT   "Phosphoglucomutase 1: complete human and rabbit mRNA sequences and
+RT   direct mapping of this highly polymorphic marker on human chromosome
+RT   1.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 89:411-415(1992).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2).
+RC   TISSUE=Skeletal muscle;
+RX   PubMed=1328221;
+RA   Lee Y.S., Marks A.R., Gureckas N., Lacro R., Nadal-Ginard B.,
+RA   Kim D.H.;
+RT   "Purification, characterization, and molecular cloning of a 60-kDa
+RT   phosphoprotein in rabbit skeletal sarcoplasmic reticulum which is an
+RT   isoform of phosphoglucomutase.";
+RL   J. Biol. Chem. 267:21080-21088(1992).
+RN   [4]
+RP   ACTIVE SITE.
+RX   PubMed=5669853;
+RA   Milstein C.P., Milstein C.;
+RT   "A tryptic peptide containing a unique serine phosphate residue in
+RT   rabbit phosphoglucomutase.";
+RL   Biochem. J. 109:93-99(1968).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (2.7 ANGSTROMS).
+RX   PubMed=1532581;
+RA   Dai J.-B., Liu Y., Ray W.J. Jr., Konno M.;
+RT   "The crystal structure of muscle phosphoglucomutase refined at 2.7-A
+RT   resolution.";
+RL   J. Biol. Chem. 267:6322-6337(1992).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (2.7 ANGSTROMS).
+RX   PubMed=15299904; DOI=10.1107/S0907444997000887;
+RA   Ray W.J. Jr., Baranidharan S., Liu Y.;
+RT   "Enhanced diffractivity of phosphoglucomutase crystals. Use of an
+RT   alternative cryocrystallographic procedure.";
+RL   Acta Crystallogr. D 53:385-391(1997).
+RN   [7]
+RP   X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS) IN COMPLEX WITH MAGNESIUM.
+RX   PubMed=15299905; DOI=10.1107/S0907444997000875;
+RA   Liu Y., Ray W.J. Jr., Baranidharan S.;
+RT   "Structure of rabbit muscle phosphoglucomutase refined at 2.4-A
+RT   resolution.";
+RL   Acta Crystallogr. D 53:392-405(1997).
+RN   [8]
+RP   X-RAY CRYSTALLOGRAPHY (2.7 ANGSTROMS) IN COMPLEX WITH ALPHA-D-GLUCOSE
+RP   1,6-BISPHOSPHATE.
+RA   Baranidharan S., Ray W.J. Jr., Liu Y.;
+RT   "Binding driven structural changes in crystaline phosphoglucomutase
+RT   associated with chemical reaction.";
+RL   Submitted (AUG-1999) to the PDB data bank.
+RN   [9]
+RP   X-RAY CRYSTALLOGRAPHY (2.7 ANGSTROMS) IN COMPLEX WITH SUBSTRATE
+RP   ANALOG.
+RA   Baranidharan S., Ray W.J. Jr.;
+RT   "Structural relationships at the active site of Phos in analog
+RT   complexes.";
+RL   Submitted (AUG-1999) to the PDB data bank.
+CC   -!- FUNCTION: This enzyme participates in both the breakdown and
+CC       synthesis of glucose.
+CC   -!- CATALYTIC ACTIVITY: Alpha-D-glucose 1-phosphate = alpha-D-glucose
+CC       6-phosphate.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000269|PubMed:15299905};
+CC       Note=Binds 1 Mg(2+) ion per subunit.
+CC       {ECO:0000269|PubMed:15299905};
+CC   -!- SUBUNIT: Monomer.
+CC   -!- SUBCELLULAR LOCATION: Isoform 1: Cytoplasm.
+CC   -!- SUBCELLULAR LOCATION: Isoform 2: Sarcoplasmic reticulum.
+CC       Note=Localizes to the junctional skeletal sarcoplasmic reticulum,
+CC       probably by association with phospholipids and/or other proteins.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=P00949-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=P00949-2; Sequence=VSP_004690, VSP_004691, VSP_004692,
+CC                                  VSP_004693;
+CC   -!- PTM: Isoform 2 is the major calmodulin-dependent phosphoprotein in
+CC       junctional skeletal sarcoplasmic reticulum vesicles.
+CC   -!- PTM: Phosphorylation at Thr-467 by PAK1 significantly enhances
+CC       enzymatic activity. {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the phosphohexose mutase family.
+CC       {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=Worthington enzyme manual;
+CC       URL="http://www.worthington-biochem.com/PGM/";
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M97664; AAA31454.1; -; mRNA.
+DR   EMBL; M97663; AAA31453.1; -; mRNA.
+DR   PIR; A45077; PMRBI.
+DR   PIR; B41801; PMRB.
+DR   RefSeq; NP_001075785.1; NM_001082316.1. [P00949-2]
+DR   UniGene; Ocu.1953; -.
+DR   PDB; 1C47; X-ray; 2.70 A; A/B=2-562.
+DR   PDB; 1C4G; X-ray; 2.70 A; A/B=2-562.
+DR   PDB; 1JDY; X-ray; 2.70 A; A/B=2-562.
+DR   PDB; 1LXT; X-ray; 2.70 A; A/B=2-562.
+DR   PDB; 1VKL; X-ray; 2.70 A; A/B=2-562.
+DR   PDB; 3PMG; X-ray; 2.40 A; A/B=2-562.
+DR   PDBsum; 1C47; -.
+DR   PDBsum; 1C4G; -.
+DR   PDBsum; 1JDY; -.
+DR   PDBsum; 1LXT; -.
+DR   PDBsum; 1VKL; -.
+DR   PDBsum; 3PMG; -.
+DR   ProteinModelPortal; P00949; -.
+DR   SMR; P00949; 2-562.
+DR   PRIDE; P00949; -.
+DR   GeneID; 100009155; -.
+DR   KEGG; ocu:100009155; -.
+DR   CTD; 5236; -.
+DR   eggNOG; COG0033; -.
+DR   HOGENOM; HOG000009550; -.
+DR   HOVERGEN; HBG001599; -.
+DR   InParanoid; P00949; -.
+DR   KO; K01835; -.
+DR   EvolutionaryTrace; P00949; -.
+DR   Proteomes; UP000001811; Unplaced.
+DR   GO; GO:0016529; C:sarcoplasmic reticulum; IEA:UniProtKB-SubCell.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:InterPro.
+DR   GO; GO:0004614; F:phosphoglucomutase activity; ISS:AgBase.
+DR   GO; GO:0006006; P:glucose metabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 3.30.310.50; -; 1.
+DR   Gene3D; 3.40.120.10; -; 3.
+DR   InterPro; IPR005844; A-D-PHexomutase_a/b/a-I.
+DR   InterPro; IPR016055; A-D-PHexomutase_a/b/a-I/II/III.
+DR   InterPro; IPR005845; A-D-PHexomutase_a/b/a-II.
+DR   InterPro; IPR005846; A-D-PHexomutase_a/b/a-III.
+DR   InterPro; IPR005843; A-D-PHexomutase_C.
+DR   InterPro; IPR016066; A-D-PHexomutase_CS.
+DR   InterPro; IPR005841; Alpha-D-phosphohexomutase_SF.
+DR   Pfam; PF02878; PGM_PMM_I; 1.
+DR   Pfam; PF02879; PGM_PMM_II; 1.
+DR   Pfam; PF02880; PGM_PMM_III; 1.
+DR   Pfam; PF00408; PGM_PMM_IV; 1.
+DR   PRINTS; PR00509; PGMPMM.
+DR   SUPFAM; SSF53738; SSF53738; 3.
+DR   SUPFAM; SSF55957; SSF55957; 1.
+DR   PROSITE; PS00710; PGM_PMM; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Alternative splicing;
+KW   Carbohydrate metabolism; Complete proteome; Cytoplasm;
+KW   Direct protein sequencing; Glucose metabolism; Isomerase; Magnesium;
+KW   Metal-binding; Phosphoprotein; Reference proteome;
+KW   Sarcoplasmic reticulum.
+FT   CHAIN         1    562       Phosphoglucomutase-1.
+FT                                /FTId=PRO_0000147779.
+FT   REGION      117    118       Substrate binding. {ECO:0000269|Ref.8,
+FT                                ECO:0000269|Ref.9}.
+FT   REGION      292    293       Substrate binding. {ECO:0000269|Ref.8,
+FT                                ECO:0000269|Ref.9}.
+FT   REGION      376    378       Substrate binding. {ECO:0000269|Ref.8,
+FT                                ECO:0000269|Ref.9}.
+FT   ACT_SITE    117    117       Phosphoserine intermediate.
+FT                                {ECO:0000269|PubMed:5669853}.
+FT   METAL       117    117       Magnesium; via phosphate group.
+FT                                {ECO:0000269|PubMed:15299905}.
+FT   METAL       288    288       Magnesium. {ECO:0000269|PubMed:15299905}.
+FT   METAL       290    290       Magnesium. {ECO:0000269|PubMed:15299905}.
+FT   METAL       292    292       Magnesium. {ECO:0000269|PubMed:15299905}.
+FT   BINDING      19     19       Substrate. {ECO:0000269|Ref.9}.
+FT   BINDING      23     23       Substrate. {ECO:0000269|Ref.8,
+FT                                ECO:0000269|Ref.9}.
+FT   BINDING     130    130       Substrate. {ECO:0000269|Ref.9}.
+FT   BINDING     357    357       Substrate. {ECO:0000269|Ref.8}.
+FT   BINDING     389    389       Substrate. {ECO:0000269|Ref.8,
+FT                                ECO:0000269|Ref.9}.
+FT   BINDING     515    515       Substrate. {ECO:0000269|Ref.9}.
+FT   MOD_RES       1      1       N-acetylmethionine.
+FT                                {ECO:0000250|UniProtKB:P36871}.
+FT   MOD_RES      16     16       N6-acetyllysine.
+FT                                {ECO:0000250|UniProtKB:P36871}.
+FT   MOD_RES     117    117       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:P36871}.
+FT   MOD_RES     185    185       Phosphothreonine.
+FT                                {ECO:0000250|UniProtKB:P36871}.
+FT   MOD_RES     349    349       N6-acetyllysine.
+FT                                {ECO:0000250|UniProtKB:Q9D0F9}.
+FT   MOD_RES     353    353       Phosphotyrosine.
+FT                                {ECO:0000250|UniProtKB:Q9D0F9}.
+FT   MOD_RES     378    378       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:P36871}.
+FT   MOD_RES     419    419       N6-succinyllysine.
+FT                                {ECO:0000250|UniProtKB:Q9D0F9}.
+FT   MOD_RES     467    467       Phosphothreonine; by PAK1. {ECO:0000250}.
+FT   MOD_RES     505    505       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:P36871}.
+FT   MOD_RES     507    507       Phosphothreonine.
+FT                                {ECO:0000250|UniProtKB:Q9D0F9}.
+FT   MOD_RES     509    509       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:P36871}.
+FT   VAR_SEQ       1     13       MVKIVTVKTKAYP -> MEEGPLPLLTIRTAPYH (in
+FT                                isoform 2). {ECO:0000303|PubMed:1328221}.
+FT                                /FTId=VSP_004690.
+FT   VAR_SEQ      25     36       RVKVFQSSTNYA -> KTYYFEDKPCYL (in isoform
+FT                                2). {ECO:0000303|PubMed:1328221}.
+FT                                /FTId=VSP_004691.
+FT   VAR_SEQ      44     56       ISTVEPAQRQEAT -> FFSIDLKDRQGSS (in
+FT                                isoform 2). {ECO:0000303|PubMed:1328221}.
+FT                                /FTId=VSP_004692.
+FT   VAR_SEQ      65     77       FYMKEAIQLIVRI -> YFNKSAIETILQM (in
+FT                                isoform 2). {ECO:0000303|PubMed:1328221}.
+FT                                /FTId=VSP_004693.
+FT   STRAND        5      8       {ECO:0000244|PDB:3PMG}.
+FT   STRAND       21     25       {ECO:0000244|PDB:3PMG}.
+FT   HELIX        26     31       {ECO:0000244|PDB:3PMG}.
+FT   HELIX        35     45       {ECO:0000244|PDB:3PMG}.
+FT   HELIX        49     51       {ECO:0000244|PDB:3PMG}.
+FT   TURN         52     54       {ECO:0000244|PDB:3PMG}.
+FT   STRAND       56     61       {ECO:0000244|PDB:3PMG}.
+FT   HELIX        67     80       {ECO:0000244|PDB:3PMG}.
+FT   STRAND       85     93       {ECO:0000244|PDB:3PMG}.
+FT   HELIX        96    106       {ECO:0000244|PDB:3PMG}.
+FT   STRAND      109    114       {ECO:0000244|PDB:3PMG}.
+FT   STRAND      125    133       {ECO:0000244|PDB:3PMG}.
+FT   STRAND      136    138       {ECO:0000244|PDB:3PMG}.
+FT   HELIX       141    153       {ECO:0000244|PDB:3PMG}.
+FT   STRAND      156    159       {ECO:0000244|PDB:3PMG}.
+FT   STRAND      167    169       {ECO:0000244|PDB:1JDY}.
+FT   STRAND      171    175       {ECO:0000244|PDB:3PMG}.
+FT   STRAND      184    189       {ECO:0000244|PDB:3PMG}.
+FT   HELIX       193    200       {ECO:0000244|PDB:3PMG}.
+FT   HELIX       205    213       {ECO:0000244|PDB:3PMG}.
+FT   STRAND      214    216       {ECO:0000244|PDB:1C47}.
+FT   STRAND      220    223       {ECO:0000244|PDB:3PMG}.
+FT   HELIX       230    237       {ECO:0000244|PDB:3PMG}.
+FT   TURN        238    241       {ECO:0000244|PDB:3PMG}.
+FT   HELIX       245    247       {ECO:0000244|PDB:3PMG}.
+FT   STRAND      248    250       {ECO:0000244|PDB:3PMG}.
+FT   HELIX       257    259       {ECO:0000244|PDB:3PMG}.
+FT   TURN        266    269       {ECO:0000244|PDB:3PMG}.
+FT   HELIX       270    277       {ECO:0000244|PDB:3PMG}.
+FT   STRAND      282    287       {ECO:0000244|PDB:3PMG}.
+FT   STRAND      289    291       {ECO:0000244|PDB:1C47}.
+FT   STRAND      294    298       {ECO:0000244|PDB:3PMG}.
+FT   HELIX       299    301       {ECO:0000244|PDB:3PMG}.
+FT   HELIX       306    315       {ECO:0000244|PDB:3PMG}.
+FT   HELIX       317    319       {ECO:0000244|PDB:3PMG}.
+FT   HELIX       321    326       {ECO:0000244|PDB:3PMG}.
+FT   STRAND      331    334       {ECO:0000244|PDB:3PMG}.
+FT   HELIX       340    346       {ECO:0000244|PDB:3PMG}.
+FT   STRAND      348    350       {ECO:0000244|PDB:3PMG}.
+FT   STRAND      352    355       {ECO:0000244|PDB:3PMG}.
+FT   HELIX       359    367       {ECO:0000244|PDB:3PMG}.
+FT   STRAND      372    376       {ECO:0000244|PDB:3PMG}.
+FT   TURN        377    379       {ECO:0000244|PDB:3PMG}.
+FT   STRAND      380    383       {ECO:0000244|PDB:3PMG}.
+FT   STRAND      386    388       {ECO:0000244|PDB:3PMG}.
+FT   HELIX       391    405       {ECO:0000244|PDB:3PMG}.
+FT   HELIX       409    420       {ECO:0000244|PDB:3PMG}.
+FT   STRAND      422    433       {ECO:0000244|PDB:3PMG}.
+FT   HELIX       435    450       {ECO:0000244|PDB:3PMG}.
+FT   TURN        452    456       {ECO:0000244|PDB:1C47}.
+FT   STRAND      458    461       {ECO:0000244|PDB:3PMG}.
+FT   STRAND      464    473       {ECO:0000244|PDB:3PMG}.
+FT   TURN        479    481       {ECO:0000244|PDB:3PMG}.
+FT   STRAND      490    494       {ECO:0000244|PDB:3PMG}.
+FT   TURN        495    497       {ECO:0000244|PDB:1LXT}.
+FT   STRAND      499    506       {ECO:0000244|PDB:3PMG}.
+FT   STRAND      508    510       {ECO:0000244|PDB:3PMG}.
+FT   STRAND      512    522       {ECO:0000244|PDB:3PMG}.
+FT   TURN        525    529       {ECO:0000244|PDB:3PMG}.
+FT   HELIX       532    547       {ECO:0000244|PDB:3PMG}.
+FT   HELIX       549    553       {ECO:0000244|PDB:3PMG}.
+FT   STRAND      559    562       {ECO:0000244|PDB:3PMG}.
+SQ   SEQUENCE   562 AA;  61558 MW;  6D9F42284EF09002 CRC64;
+     MVKIVTVKTK AYPDQKPGTS GLRKRVKVFQ SSTNYAENFI QSIISTVEPA QRQEATLVVG
+     GDGRFYMKEA IQLIVRIAAA NGIGRLVIGQ NGILSTPAVS CIIRKIKAIG GIILTASHNP
+     GGPNGDFGIK FNISNGGPAP EAITDKIFQI SKTIEEYAIC PDLKVDLGVL GKQQFDLENK
+     FKPFTVEIVD SVEAYATMLR NIFDFNALKE LLSGPNRLKI RIDAMHGVVG PYVKKILCEE
+     LGAPANSAVN CVPLEDFGGH HPDPNLTYAA DLVETMKSGE HDFGAAFDGD GDRNMILGKH
+     GFFVNPSDSV AVIAANIFSI PYFQQTGVRG FARSMPTSGA LDRVANATKI ALYETPTGWK
+     FFGNLMDASK LSLCGEESFG TGSDHIREKD GLWAVLAWLS ILATRKQSVE DILKDHWHKF
+     GRNFFTRYDY EEVEAEGATK MMKDLEALMF DRSFVGKQFS ANDKVYTVEK ADNFEYHDPV
+     DGSVSKNQGL RLIFADGSRI IFRLSGTGSA GATIRLYIDS YEKDNAKINQ DPQVMLAPLI
+     SIALKVSQLQ ERTGRTAPTV IT
+//

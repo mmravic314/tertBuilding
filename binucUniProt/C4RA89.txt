@@ -1,0 +1,63 @@
+ID   C4RA89_HYPJE            Unreviewed;       359 AA.
+AC   C4RA89;
+DT   07-JUL-2009, integrated into UniProtKB/TrEMBL.
+DT   07-JUL-2009, sequence version 1.
+DT   24-JUN-2015, entry version 32.
+DE   SubName: Full=Endo-N-acetyl-beta-D-glucosaminidase {ECO:0000313|EMBL:CAZ16624.1};
+GN   Name=endoT {ECO:0000313|EMBL:CAZ16624.1};
+OS   Hypocrea jecorina (Trichoderma reesei).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Hypocreomycetidae; Hypocreales; Hypocreaceae;
+OC   Trichoderma.
+OX   NCBI_TaxID=51453 {ECO:0000313|EMBL:CAZ16624.1};
+RN   [1] {ECO:0000313|EMBL:CAZ16624.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Stals I., Samyn B., Sergeant K., White T., Hoorelbeke K.,
+RA   Coorevits A., Devreese B., Claeyssens M., Piens K.;
+RT   "Identification of a gene coding for a deglycosylating enzyme in
+RT   Hypocrea jecorina.";
+RL   FEMS Microbiol. Lett. 303:9-17(2010).
+RN   [2] {ECO:0000213|PDB:4AC1}
+RP   X-RAY CRYSTALLOGRAPHY (1.30 ANGSTROMS) OF 31-313, AND GLYCOSYLATION AT
+RP   ASN-96 AND ASN-266.
+RX   PubMed=22859955; DOI=10.1371/journal.pone.0040854;
+RA   Stals I., Karkehabadi S., Kim S., Ward M., Van Landschoot A.,
+RA   Devreese B., Sandgren M.;
+RT   "High resolution crystal structure of the endo-N-Acetyl-beta-D-
+RT   glucosaminidase responsible for the deglycosylation of Hypocrea
+RT   jecorina cellulases.";
+RL   PLoS ONE 7:e40854-e40854(2012).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; FN395286; CAZ16624.1; -; Genomic_DNA.
+DR   PDB; 4AC1; X-ray; 1.30 A; X=31-313.
+DR   PDBsum; 4AC1; -.
+DR   ProteinModelPortal; C4RA89; -.
+DR   STRING; 51453.JGI65162; -.
+DR   CAZy; GH18; Glycoside Hydrolase Family 18.
+DR   mycoCLAP; ENG18A_TRIRE; -.
+DR   eggNOG; NOG290216; -.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   Gene3D; 3.20.20.80; -; 1.
+DR   InterPro; IPR013781; Glyco_hydro_catalytic_dom.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   SUPFAM; SSF51445; SSF51445; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4AC1}.
+FT   CHAIN        27    316       endo-N-acetyl-beta-D-glucosaminidase.
+FT                                {ECO:0000313|EMBL:CAZ16624.1}.
+FT                                /FTId=PRO_5000467354.
+FT   CARBOHYD     96     96       N-linked (GlcNAc...).
+FT                                {ECO:0000213|PDB:4AC1}.
+FT   CARBOHYD    266    266       N-linked (GlcNAc...).
+FT                                {ECO:0000213|PDB:4AC1}.
+SQ   SEQUENCE   359 AA;  39165 MW;  9FECB0684BC39CFD CRC64;
+     MKASVYLASL LATLSMAVPV KELQLRAEPT DLPRLIVYFQ TTHDSSNRPI SMLPLITEKG
+     IALTHLIVCS FHINQGGVVH LNDFPPDDPH FYTLWNETIT MKQAGVKVMG MVGGAAPGSF
+     NTQTLDSPDS ATFEHYYGQL RDAIVNFQLE GMDLDVEQPM SQQGIDRLIA RLRADFGPDF
+     LITLAPVASA LEDSSNLSGF SYTALQQTQG NDIDWYNTQF YSGFGSMADT SDYDRIVANG
+     FAPAKVVAGQ LTTPEGAGWI PTSSLNNTIV SLVSEYGQIG GVMGWEYFNS LPGGTAEPWE
+     WAQIVTEILR PGLVPELKIT EDDAARLTGA YEESVKAAAA DNKSFVKRPS INYYAMVNA
+//

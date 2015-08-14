@@ -1,0 +1,144 @@
+ID   MEMA_METTR              Reviewed;         526 AA.
+AC   P27353;
+DT   01-AUG-1992, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 4.
+DT   24-JUN-2015, entry version 87.
+DE   RecName: Full=Methane monooxygenase component A alpha chain;
+DE            EC=1.14.13.25;
+DE   AltName: Full=Methane hydroxylase;
+GN   Name=mmoX;
+OS   Methylosinus trichosporium.
+OC   Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales;
+OC   Methylocystaceae; Methylosinus.
+OX   NCBI_TaxID=426;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=OB3b;
+RX   PubMed=1904125; DOI=10.1111/j.1365-2958.1991.tb02114.x;
+RA   Cardy D.L.N., Laidler V., Salmond G.P.C., Murrell J.C.;
+RT   "Molecular analysis of the methane monooxygenase (MMO) gene cluster of
+RT   Methylosinus trichosporium OB3b.";
+RL   Mol. Microbiol. 5:335-342(1991).
+RN   [2]
+RP   SEQUENCE REVISION.
+RA   McDonald I.;
+RL   Submitted (JUN-1999) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   PROTEIN SEQUENCE OF 2-16.
+RX   PubMed=1845980;
+RA   Fox B.G., Liu Y., Dege J.E., Lipscomb J.D.;
+RT   "Complex formation between the protein components of methane
+RT   monooxygenase from Methylosinus trichosporium OB3b. Identification of
+RT   sites of component interaction.";
+RL   J. Biol. Chem. 266:540-550(1991).
+CC   -!- FUNCTION: Responsible for the initial oxygenation of methane to
+CC       methanol in methanotrophs. It also catalyzes the monohydroxylation
+CC       of a variety of unactivated alkenes, alicyclic, aromatic and
+CC       heterocyclic compounds.
+CC   -!- CATALYTIC ACTIVITY: Methane + NAD(P)H + O(2) = methanol +
+CC       NAD(P)(+) + H(2)O.
+CC   -!- COFACTOR:
+CC       Name=Fe cation; Xref=ChEBI:CHEBI:24875;
+CC       Note=Binds 2 iron ions.;
+CC   -!- SUBUNIT: M.trichosporium has two forms of methane monooxygenase, a
+CC       soluble and a membrane-bound type. The soluble type consists of
+CC       four components (A to D): protein A, comprising three chains, in
+CC       an alpha-2, beta-2, gamma-2 configuration, is a nonheme iron
+CC       protein containing an unusual mu-hydroxo bridge structure at its
+CC       active site and interacts with both oxygen and methane.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X55394; CAA39068.2; -; Genomic_DNA.
+DR   PIR; S15207; S15207.
+DR   PDB; 1MHY; X-ray; 2.00 A; D=1-525.
+DR   PDB; 1MHZ; X-ray; 2.70 A; D=1-525.
+DR   PDBsum; 1MHY; -.
+DR   PDBsum; 1MHZ; -.
+DR   ProteinModelPortal; P27353; -.
+DR   SMR; P27353; 17-526.
+DR   STRING; 595536.MettrDRAFT_0735; -.
+DR   PATRIC; 38005870; VBIMetTri17036_0736.
+DR   EvolutionaryTrace; P27353; -.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0015049; F:methane monooxygenase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0006725; P:cellular aromatic compound metabolic process; IEA:InterPro.
+DR   GO; GO:0006730; P:one-carbon metabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.620.20; -; 1.
+DR   InterPro; IPR009078; Ferritin-like_SF.
+DR   InterPro; IPR003430; Phenol_Hydrox.
+DR   InterPro; IPR012348; RNR-rel.
+DR   Pfam; PF02332; Phenol_Hydrox; 1.
+DR   SUPFAM; SSF47240; SSF47240; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Direct protein sequencing; Iron; Metal-binding;
+KW   Monooxygenase; NADP; One-carbon metabolism; Oxidoreductase.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:1845980}.
+FT   CHAIN         2    526       Methane monooxygenase component A alpha
+FT                                chain.
+FT                                /FTId=PRO_0000096406.
+FT   ACT_SITE    151    151       {ECO:0000255}.
+FT   METAL       114    114       Iron 1. {ECO:0000250}.
+FT   METAL       144    144       Iron 1. {ECO:0000250}.
+FT   METAL       147    147       Iron 1. {ECO:0000250}.
+FT   METAL       209    209       Iron 2. {ECO:0000250}.
+FT   METAL       243    243       Iron 2. {ECO:0000250}.
+FT   METAL       246    246       Iron 2. {ECO:0000250}.
+FT   HELIX        25     29       {ECO:0000244|PDB:1MHY}.
+FT   HELIX        30     35       {ECO:0000244|PDB:1MHY}.
+FT   HELIX        64     83       {ECO:0000244|PDB:1MHY}.
+FT   HELIX        85     88       {ECO:0000244|PDB:1MHY}.
+FT   HELIX        91     93       {ECO:0000244|PDB:1MHY}.
+FT   HELIX        97    127       {ECO:0000244|PDB:1MHY}.
+FT   HELIX       131    161       {ECO:0000244|PDB:1MHY}.
+FT   TURN        166    170       {ECO:0000244|PDB:1MHY}.
+FT   HELIX       171    174       {ECO:0000244|PDB:1MHY}.
+FT   HELIX       175    177       {ECO:0000244|PDB:1MHY}.
+FT   HELIX       179    188       {ECO:0000244|PDB:1MHY}.
+FT   HELIX       190    193       {ECO:0000244|PDB:1MHY}.
+FT   HELIX       197    204       {ECO:0000244|PDB:1MHY}.
+FT   TURN        205    207       {ECO:0000244|PDB:1MHY}.
+FT   HELIX       208    211       {ECO:0000244|PDB:1MHY}.
+FT   HELIX       213    226       {ECO:0000244|PDB:1MHY}.
+FT   HELIX       231    257       {ECO:0000244|PDB:1MHY}.
+FT   HELIX       261    292       {ECO:0000244|PDB:1MHY}.
+FT   HELIX       301    308       {ECO:0000244|PDB:1MHY}.
+FT   HELIX       309    315       {ECO:0000244|PDB:1MHY}.
+FT   HELIX       316    320       {ECO:0000244|PDB:1MHY}.
+FT   HELIX       321    324       {ECO:0000244|PDB:1MHY}.
+FT   HELIX       332    338       {ECO:0000244|PDB:1MHY}.
+FT   TURN        339    341       {ECO:0000244|PDB:1MHY}.
+FT   HELIX       342    352       {ECO:0000244|PDB:1MHY}.
+FT   HELIX       354    356       {ECO:0000244|PDB:1MHY}.
+FT   STRAND      357    360       {ECO:0000244|PDB:1MHY}.
+FT   HELIX       366    375       {ECO:0000244|PDB:1MHY}.
+FT   TURN        377    382       {ECO:0000244|PDB:1MHY}.
+FT   HELIX       383    393       {ECO:0000244|PDB:1MHY}.
+FT   TURN        394    396       {ECO:0000244|PDB:1MHY}.
+FT   HELIX       398    400       {ECO:0000244|PDB:1MHY}.
+FT   HELIX       404    410       {ECO:0000244|PDB:1MHY}.
+FT   TURN        419    421       {ECO:0000244|PDB:1MHY}.
+FT   TURN        427    429       {ECO:0000244|PDB:1MHY}.
+FT   STRAND      437    441       {ECO:0000244|PDB:1MHY}.
+FT   STRAND      444    448       {ECO:0000244|PDB:1MHY}.
+FT   HELIX       451    459       {ECO:0000244|PDB:1MHY}.
+FT   HELIX       461    463       {ECO:0000244|PDB:1MHY}.
+FT   HELIX       469    473       {ECO:0000244|PDB:1MHY}.
+FT   HELIX       478    484       {ECO:0000244|PDB:1MHY}.
+FT   STRAND      492    496       {ECO:0000244|PDB:1MHY}.
+FT   STRAND      498    500       {ECO:0000244|PDB:1MHY}.
+FT   STRAND      502    504       {ECO:0000244|PDB:1MHZ}.
+FT   HELIX       509    514       {ECO:0000244|PDB:1MHY}.
+FT   HELIX       522    525       {ECO:0000244|PDB:1MHY}.
+SQ   SEQUENCE   526 AA;  59954 MW;  A56F4AAD0A55726B CRC64;
+     MAISLATKAA TDALKVNRAP VGVEPQEVHK WLQSFNWDFK ENRTKYPTKY HMANETKEQF
+     KVIAKEYARM EAAKDERQFG TLLDGLTRLG AGNKVHPRWG ETMKVISNFL EVGEYNAIAA
+     SAMLWDSATA AEQKNGYLAQ VLDEIRHTHQ CAFINHYYSK HYHDPAGHND ARRTRAIGPL
+     WKGMKRVFAD GFISGDAVEC SVNLQLVGEA CFTNPLIVAV TEWASANGDE ITPTVFLSVE
+     TDELRHMANG YQTVVSIAND PASAKFLNTD LNNAFWTQQK YFTPVLGYLF EYGSKFKVEP
+     WVKTWNRWVY EDWGGIWIGR LGKYGVESPA SLRDAKRDAY WAHHDLALAA YAMWPLGFAR
+     LALPDEEDQA WFEANYPGWA DHYGKIFNEW KKLGYEDPKS GFIPYQWLLA NGHDVYIDRV
+     SQVPFIPSLA KGTGSLRVHE FNGKKHSLTD DWGERQWLIE PERYECHNVF EQYEGRELSE
+     VIAEGHGVRS DGKTLIAQPH TRGDNLWTLE DIKRAGCVFP DPLAKF
+//

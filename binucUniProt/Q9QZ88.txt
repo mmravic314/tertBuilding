@@ -1,0 +1,317 @@
+ID   VPS29_MOUSE             Reviewed;         182 AA.
+AC   Q9QZ88; Q3UCZ0; Q9D107;
+DT   25-NOV-2002, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-2000, sequence version 1.
+DT   24-JUN-2015, entry version 122.
+DE   RecName: Full=Vacuolar protein sorting-associated protein 29;
+DE   AltName: Full=Vesicle protein sorting 29;
+GN   Name=Vps29;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RC   TISSUE=Lung;
+RA   Edgar A.J.;
+RT   "Molecular cloning of mouse vacuolar sorting protein VPS29.";
+RL   Submitted (OCT-1999) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2).
+RC   STRAIN=C57BL/6J; TISSUE=Bone marrow, and Embryo;
+RX   PubMed=16141072; DOI=10.1126/science.1112014;
+RA   Carninci P., Kasukawa T., Katayama S., Gough J., Frith M.C., Maeda N.,
+RA   Oyama R., Ravasi T., Lenhard B., Wells C., Kodzius R., Shimokawa K.,
+RA   Bajic V.B., Brenner S.E., Batalov S., Forrest A.R., Zavolan M.,
+RA   Davis M.J., Wilming L.G., Aidinis V., Allen J.E.,
+RA   Ambesi-Impiombato A., Apweiler R., Aturaliya R.N., Bailey T.L.,
+RA   Bansal M., Baxter L., Beisel K.W., Bersano T., Bono H., Chalk A.M.,
+RA   Chiu K.P., Choudhary V., Christoffels A., Clutterbuck D.R.,
+RA   Crowe M.L., Dalla E., Dalrymple B.P., de Bono B., Della Gatta G.,
+RA   di Bernardo D., Down T., Engstrom P., Fagiolini M., Faulkner G.,
+RA   Fletcher C.F., Fukushima T., Furuno M., Futaki S., Gariboldi M.,
+RA   Georgii-Hemming P., Gingeras T.R., Gojobori T., Green R.E.,
+RA   Gustincich S., Harbers M., Hayashi Y., Hensch T.K., Hirokawa N.,
+RA   Hill D., Huminiecki L., Iacono M., Ikeo K., Iwama A., Ishikawa T.,
+RA   Jakt M., Kanapin A., Katoh M., Kawasawa Y., Kelso J., Kitamura H.,
+RA   Kitano H., Kollias G., Krishnan S.P., Kruger A., Kummerfeld S.K.,
+RA   Kurochkin I.V., Lareau L.F., Lazarevic D., Lipovich L., Liu J.,
+RA   Liuni S., McWilliam S., Madan Babu M., Madera M., Marchionni L.,
+RA   Matsuda H., Matsuzawa S., Miki H., Mignone F., Miyake S., Morris K.,
+RA   Mottagui-Tabar S., Mulder N., Nakano N., Nakauchi H., Ng P.,
+RA   Nilsson R., Nishiguchi S., Nishikawa S., Nori F., Ohara O.,
+RA   Okazaki Y., Orlando V., Pang K.C., Pavan W.J., Pavesi G., Pesole G.,
+RA   Petrovsky N., Piazza S., Reed J., Reid J.F., Ring B.Z., Ringwald M.,
+RA   Rost B., Ruan Y., Salzberg S.L., Sandelin A., Schneider C.,
+RA   Schoenbach C., Sekiguchi K., Semple C.A., Seno S., Sessa L., Sheng Y.,
+RA   Shibata Y., Shimada H., Shimada K., Silva D., Sinclair B.,
+RA   Sperling S., Stupka E., Sugiura K., Sultana R., Takenaka Y., Taki K.,
+RA   Tammoja K., Tan S.L., Tang S., Taylor M.S., Tegner J., Teichmann S.A.,
+RA   Ueda H.R., van Nimwegen E., Verardo R., Wei C.L., Yagi K.,
+RA   Yamanishi H., Zabarovsky E., Zhu S., Zimmer A., Hide W., Bult C.,
+RA   Grimmond S.M., Teasdale R.D., Liu E.T., Brusic V., Quackenbush J.,
+RA   Wahlestedt C., Mattick J.S., Hume D.A., Kai C., Sasaki D., Tomaru Y.,
+RA   Fukuda S., Kanamori-Katayama M., Suzuki M., Aoki J., Arakawa T.,
+RA   Iida J., Imamura K., Itoh M., Kato T., Kawaji H., Kawagashira N.,
+RA   Kawashima T., Kojima M., Kondo S., Konno H., Nakano K., Ninomiya N.,
+RA   Nishio T., Okada M., Plessy C., Shibata K., Shiraki T., Suzuki S.,
+RA   Tagami M., Waki K., Watahiki A., Okamura-Oho Y., Suzuki H., Kawai J.,
+RA   Hayashizaki Y.;
+RT   "The transcriptional landscape of the mammalian genome.";
+RL   Science 309:1559-1563(2005).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Mammary tumor;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4]
+RP   PROTEIN SEQUENCE OF 1-14, AND IDENTIFICATION BY MASS SPECTROMETRY.
+RC   TISSUE=Hippocampus;
+RA   Lubec G., Klug S.;
+RL   Submitted (MAR-2007) to UniProtKB.
+RN   [5]
+RP   SUBUNIT.
+RX   PubMed=21040701; DOI=10.1016/j.bbrc.2010.10.121;
+RA   Kim E., Lee Y., Lee H.J., Kim J.S., Song B.S., Huh J.W., Lee S.R.,
+RA   Kim S.U., Kim S.H., Hong Y., Shim I., Chang K.T.;
+RT   "Implication of mouse Vps26b-Vps29-Vps35 retromer complex in sortilin
+RT   trafficking.";
+RL   Biochem. Biophys. Res. Commun. 403:167-171(2010).
+RN   [6]
+RP   FUNCTION, LACK OF PHOSPHATASE ACTIVITY, AND INTERACTION WITH SNX1.
+RX   PubMed=21629666; DOI=10.1371/journal.pone.0020420;
+RA   Swarbrick J.D., Shaw D.J., Chhabra S., Ghai R., Valkov E.,
+RA   Norwood S.J., Seaman M.N., Collins B.M.;
+RT   "VPS29 is not an active metallo-phosphatase but is a rigid scaffold
+RT   required for retromer interaction with accessory proteins.";
+RL   PLoS ONE 6:E20420-E20420(2011).
+RN   [7]
+RP   SUBUNIT.
+RX   PubMed=20875039; DOI=10.1111/j.1600-0854.2010.01124.x;
+RA   Norwood S.J., Shaw D.J., Cowieson N.P., Owen D.J., Teasdale R.D.,
+RA   Collins B.M.;
+RT   "Assembly and solution structure of the core retromer protein
+RT   complex.";
+RL   Traffic 12:56-71(2011).
+RN   [8]
+RP   SUBUNIT.
+RX   PubMed=21920005; DOI=10.1111/j.1600-0854.2011.01284.x;
+RA   Bugarcic A., Zhe Y., Kerr M.C., Griffin J., Collins B.M.,
+RA   Teasdale R.D.;
+RT   "Vps26A and Vps26B subunits define distinct retromer complexes.";
+RL   Traffic 12:1759-1773(2011).
+RN   [9]
+RP   INTERACTION WITH ANKRD27, AND MUTAGENESIS OF LEU-152.
+RX   PubMed=24856514; DOI=10.1016/j.devcel.2014.04.010;
+RA   Hesketh G.G., Perez-Dorado I., Jackson L.P., Wartosch L.,
+RA   Schafer I.B., Gray S.R., McCoy A.J., Zeldin O.B., Garman E.F.,
+RA   Harbour M.E., Evans P.R., Seaman M.N., Luzio J.P., Owen D.J.;
+RT   "VARP is recruited on to endosomes by direct interaction with
+RT   retromer, where together they function in export to the cell
+RT   surface.";
+RL   Dev. Cell 29:591-606(2014).
+RN   [10]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) IN COMPLEX WITH MANGANESE IONS,
+RP   ABSENCE OF CATALYTIC ACTIVITY, SUBCELLULAR LOCATION, SUBUNIT, AND
+RP   MUTAGENESIS OF ASN-39; VAL-90 AND ILE-91.
+RX   PubMed=15965486; DOI=10.1038/nsmb954;
+RA   Collins B.M., Skinner C.F., Watson P.J., Seaman M.N., Owen D.J.;
+RT   "Vps29 has a phosphoesterase fold that acts as a protein interaction
+RT   scaffold for retromer assembly.";
+RL   Nat. Struct. Mol. Biol. 12:594-602(2005).
+CC   -!- FUNCTION: Acts as component of the retromer cargo-selective
+CC       complex (CSC). The CSC is believed to be the core functional
+CC       component of retromer or respective retromer complex variants
+CC       acting to prevent missorting of selected transmembrane cargo
+CC       proteins into the lysosomal degradation pathway. The recruitment
+CC       of the CSC to the endosomal membrane involves RAB7A and SNX3. The
+CC       SNX-BAR retromer mediates retrograde transport of cargo proteins
+CC       from endosomes to the trans-Golgi network (TGN) and is involved in
+CC       endosome-to-plasma membrane transport for cargo protein recycling.
+CC       The SNX3-retromer mediates the retrograde endosome-to-TGN
+CC       transport of WLS distinct from the SNX-BAR retromer pathway. The
+CC       SNX27-retromer is believed to be involved in endosome-to-plasma
+CC       membrane trafficking and recycling of a broad spectrum of cargo
+CC       proteins. The CSC seems to act as recruitment hub for other
+CC       proteins, such as the WASH complex and TBC1D5. Required to
+CC       regulate transcytosis of the polymeric immunoglobulin receptor
+CC       (pIgR-pIgA) (By similarity). Has no activity towards p-
+CC       nitrophenylphosphate, p-nitrophenylphosphorylcholine or
+CC       phosphatidylinositlphosphates or a phosphorylated peptide derived
+CC       from retromer cargo (in vitro) (PubMed:21629666, PubMed:15965486).
+CC       {ECO:0000250|UniProtKB:Q9UBQ0, ECO:0000269|PubMed:15965486,
+CC       ECO:0000269|PubMed:21629666}.
+CC   -!- SUBUNIT: Component of the heterotrimeric retromer cargo-selective
+CC       complex (CSC), also described as vacuolar protein sorting
+CC       subcomplex (VPS) formed by VPS26 (VPS26A or VPS26B), VPS29 and
+CC       VPS35 (PubMed:21040701, PubMed:20875039, PubMed:21920005). The CSC
+CC       has a highly elongated structure with VPS26 and VPS29 binding
+CC       independently at opposite distal ends of VPS35 as central platform
+CC       (By similarity). The CSC is believed to associate with variable
+CC       sorting nexins to form functionally distinct retromer complex
+CC       variants. The originally described retromer complex (also called
+CC       SNX-BAR retromer) is a pentamer containing the CSC and a
+CC       heterodimeric membrane-deforming subcomplex formed between SNX1 or
+CC       SNX2 and SNX5 or SNX6 (also called SNX-BAR subcomplex); the
+CC       respective CSC and SNX-BAR subcomplexes associate with low
+CC       affinity. The CSC associates with SNX3 to form a SNX3-retromer
+CC       complex. The CSC associates with SNX27, the WASH complex and the
+CC       SNX-BAR subcomplex to form the SNX27-retromer complex (By
+CC       similarity). Interacts with VPS26A, VPS26B, VPS35, ANKRD27
+CC       (PubMed:20875039, PubMed:21920005, PubMed:24856514). Interacts
+CC       with SNX1, SNX2, SNX27, KIAA0196 (By similarity).
+CC       {ECO:0000250|UniProtKB:Q9UBQ0, ECO:0000269|PubMed:15965486,
+CC       ECO:0000269|PubMed:20875039, ECO:0000269|PubMed:21040701,
+CC       ECO:0000269|PubMed:21920005, ECO:0000269|PubMed:24856514}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250}. Membrane
+CC       {ECO:0000250}; Peripheral membrane protein {ECO:0000250}. Endosome
+CC       membrane {ECO:0000269|PubMed:15965486}; Peripheral membrane
+CC       protein {ECO:0000269|PubMed:15965486}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q9QZ88-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q9QZ88-2; Sequence=VSP_004074;
+CC   -!- SIMILARITY: Belongs to the VPS29 family. {ECO:0000305}.
+CC   -!- CAUTION: Was originally believed to be a metal-dependent
+CC       phosphatase but shown to lack catalytic activity; can bind metals
+CC       (Zn(2+) and Mn(2+)) with very low affinity suggesting that metal
+CC       binding is not required for its function.
+CC       {ECO:0000303|PubMed:15965486, ECO:0000303|PubMed:21629666}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF193794; AAF04595.1; -; mRNA.
+DR   EMBL; AK004103; BAB23170.1; -; mRNA.
+DR   EMBL; AK150330; BAE29472.1; -; mRNA.
+DR   EMBL; BC005663; AAH05663.1; -; mRNA.
+DR   CCDS; CCDS39256.1; -. [Q9QZ88-1]
+DR   RefSeq; NP_062754.1; NM_019780.1. [Q9QZ88-1]
+DR   RefSeq; XP_006530490.1; XM_006530427.2. [Q9QZ88-2]
+DR   UniGene; Mm.216528; -.
+DR   UniGene; Mm.445844; -.
+DR   PDB; 1Z2W; X-ray; 2.00 A; A/B=1-182.
+DR   PDB; 1Z2X; X-ray; 2.22 A; A/B=1-182.
+DR   PDB; 3PSN; X-ray; 2.20 A; A/B=1-182.
+DR   PDB; 3PSO; X-ray; 3.00 A; A/B=1-182.
+DR   PDBsum; 1Z2W; -.
+DR   PDBsum; 1Z2X; -.
+DR   PDBsum; 3PSN; -.
+DR   PDBsum; 3PSO; -.
+DR   ProteinModelPortal; Q9QZ88; -.
+DR   SMR; Q9QZ88; 1-182.
+DR   BioGrid; 207976; 4.
+DR   DIP; DIP-60495N; -.
+DR   IntAct; Q9QZ88; 5.
+DR   MINT; MINT-4140090; -.
+DR   STRING; 10090.ENSMUSP00000121020; -.
+DR   PhosphoSite; Q9QZ88; -.
+DR   REPRODUCTION-2DPAGE; Q9QZ88; -.
+DR   MaxQB; Q9QZ88; -.
+DR   PaxDb; Q9QZ88; -.
+DR   PRIDE; Q9QZ88; -.
+DR   Ensembl; ENSMUST00000118830; ENSMUSP00000113525; ENSMUSG00000029462. [Q9QZ88-2]
+DR   Ensembl; ENSMUST00000155671; ENSMUSP00000121020; ENSMUSG00000029462. [Q9QZ88-1]
+DR   GeneID; 56433; -.
+DR   KEGG; mmu:56433; -.
+DR   UCSC; uc008zlb.1; mouse. [Q9QZ88-1]
+DR   UCSC; uc008zlc.1; mouse. [Q9QZ88-2]
+DR   CTD; 51699; -.
+DR   MGI; MGI:1928344; Vps29.
+DR   eggNOG; COG0622; -.
+DR   GeneTree; ENSGT00390000012669; -.
+DR   HOGENOM; HOG000293431; -.
+DR   HOVERGEN; HBG056165; -.
+DR   InParanoid; Q9QZ88; -.
+DR   KO; K18467; -.
+DR   OMA; AFENENK; -.
+DR   OrthoDB; EOG7JHM6S; -.
+DR   PhylomeDB; Q9QZ88; -.
+DR   TreeFam; TF300880; -.
+DR   Reactome; REACT_295052; WNT ligand biogenesis and trafficking.
+DR   ChiTaRS; VPS29; mouse.
+DR   EvolutionaryTrace; Q9QZ88; -.
+DR   NextBio; 312610; -.
+DR   PRO; PR:Q9QZ88; -.
+DR   Proteomes; UP000000589; Chromosome 5.
+DR   Bgee; Q9QZ88; -.
+DR   CleanEx; MM_VPS29; -.
+DR   ExpressionAtlas; Q9QZ88; baseline and differential.
+DR   Genevisible; Q9QZ88; MM.
+DR   GO; GO:0005737; C:cytoplasm; ISO:MGI.
+DR   GO; GO:0005768; C:endosome; ISO:MGI.
+DR   GO; GO:0010008; C:endosome membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0070062; C:extracellular exosome; ISO:MGI.
+DR   GO; GO:0043231; C:intracellular membrane-bounded organelle; ISO:MGI.
+DR   GO; GO:0030904; C:retromer complex; IDA:UniProtKB.
+DR   GO; GO:0008270; F:zinc ion binding; IBA:GO_Central.
+DR   GO; GO:0006896; P:Golgi to vacuole transport; ISS:MGI.
+DR   GO; GO:0006886; P:intracellular protein transport; IBA:GO_Central.
+DR   GO; GO:0042147; P:retrograde transport, endosome to Golgi; IBA:GO_Central.
+DR   GO; GO:1990126; P:retrograde transport, endosome to plasma membrane; ISS:UniProtKB.
+DR   Gene3D; 3.60.21.10; -; 1.
+DR   InterPro; IPR024654; Calcineurin-like_PHP_lpxH.
+DR   InterPro; IPR029052; Metallo-depent_PP-like.
+DR   InterPro; IPR000979; Phosphodiesterase_MJ0936/Vps29.
+DR   PANTHER; PTHR11124; PTHR11124; 1.
+DR   Pfam; PF12850; Metallophos_2; 1.
+DR   SUPFAM; SSF56300; SSF56300; 1.
+DR   TIGRFAMs; TIGR00040; yfcE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Alternative splicing; Complete proteome;
+KW   Cytoplasm; Direct protein sequencing; Endosome; Membrane;
+KW   Metal-binding; Protein transport; Reference proteome; Transport; Zinc.
+FT   CHAIN         1    182       Vacuolar protein sorting-associated
+FT                                protein 29.
+FT                                /FTId=PRO_0000065895.
+FT   METAL         8      8       Zinc 1.
+FT   METAL        10     10       Zinc 1.
+FT   METAL        39     39       Zinc 1.
+FT   METAL        39     39       Zinc 2.
+FT   METAL        62     62       Zinc 2.
+FT   METAL        86     86       Zinc 2.
+FT   METAL       115    115       Zinc 2.
+FT   METAL       117    117       Zinc 1.
+FT   MOD_RES      50     50       N6-acetyllysine.
+FT                                {ECO:0000250|UniProtKB:Q9UBQ0}.
+FT   VAR_SEQ       1      1       M -> MAGHR (in isoform 2).
+FT                                {ECO:0000303|PubMed:16141072}.
+FT                                /FTId=VSP_004074.
+FT   MUTAGEN      39     39       N->D: Decreases interaction with VPS35.
+FT                                {ECO:0000269|PubMed:15965486}.
+FT   MUTAGEN      90     90       V->D: Decreases interaction with VPS35.
+FT                                {ECO:0000269|PubMed:15965486}.
+FT   MUTAGEN      91     91       I->S: Disrupts interaction with VPS35.
+FT                                {ECO:0000269|PubMed:15965486}.
+FT   MUTAGEN     152    152       L->E: Disrupts interaction with ANKRD27.
+FT                                {ECO:0000269|PubMed:24856514}.
+FT   STRAND        2      6       {ECO:0000244|PDB:1Z2W}.
+FT   TURN         12     14       {ECO:0000244|PDB:1Z2W}.
+FT   STRAND       16     18       {ECO:0000244|PDB:3PSN}.
+FT   HELIX        20     23       {ECO:0000244|PDB:1Z2W}.
+FT   TURN         28     30       {ECO:0000244|PDB:1Z2X}.
+FT   STRAND       32     36       {ECO:0000244|PDB:1Z2W}.
+FT   HELIX        43     52       {ECO:0000244|PDB:1Z2W}.
+FT   STRAND       54     58       {ECO:0000244|PDB:1Z2W}.
+FT   STRAND       67     69       {ECO:0000244|PDB:3PSN}.
+FT   STRAND       71     77       {ECO:0000244|PDB:1Z2W}.
+FT   STRAND       80     85       {ECO:0000244|PDB:1Z2W}.
+FT   HELIX        96    106       {ECO:0000244|PDB:1Z2W}.
+FT   STRAND      107    112       {ECO:0000244|PDB:1Z2W}.
+FT   STRAND      120    124       {ECO:0000244|PDB:1Z2W}.
+FT   STRAND      127    131       {ECO:0000244|PDB:1Z2W}.
+FT   STRAND      149    156       {ECO:0000244|PDB:1Z2W}.
+FT   STRAND      159    168       {ECO:0000244|PDB:1Z2W}.
+FT   STRAND      171    180       {ECO:0000244|PDB:1Z2W}.
+SQ   SEQUENCE   182 AA;  20496 MW;  6CDCDE6B720C9BF8 CRC64;
+     MLVLVLGDLH IPHRCNSLPA KFKKLLVPGK IQHILCTGNL CTKESYDYLK TLAGDVHIVR
+     GDFDENLNYP EQKVVTVGQF KIGLIHGHQV IPWGDMASLA LLQRQFDVDI LISGHTHKFE
+     AFEHENKFYI NPGSATGAYN ALETNIIPSF VLMDIQASTV VTYVYQLIGD DVKVERIEYK
+     KS
+//

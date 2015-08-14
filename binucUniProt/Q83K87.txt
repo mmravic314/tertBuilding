@@ -1,0 +1,75 @@
+ID   Q83K87_SHIFL            Unreviewed;       345 AA.
+AC   Q83K87; Q7C0L3;
+DT   01-JUN-2003, integrated into UniProtKB/TrEMBL.
+DT   01-JUN-2003, sequence version 1.
+DT   22-JUL-2015, entry version 89.
+DE   SubName: Full=Exoaminopeptidase,Aminopeptidase ypdE,exoaminopeptidase,glutamyl aminopeptidase,M42 glutamyl aminopeptidase {ECO:0000313|EMBL:CDX07854.1};
+GN   Name=ypdE {ECO:0000313|EMBL:CDX07854.1};
+GN   ORFNames=NCTC1_02687 {ECO:0000313|EMBL:CDX07854.1};
+OS   Shigella flexneri.
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Shigella.
+OX   NCBI_TaxID=623 {ECO:0000313|EMBL:CDX07854.1, ECO:0000313|Proteomes:UP000032424};
+RN   [1] {ECO:0000213|PDB:1YLO}
+RP   X-RAY CRYSTALLOGRAPHY (2.15 ANGSTROMS) IN COMPLEX WITH ZINC.
+RG   Midwest Center for Structural Genomics (MCSG);
+RA   Nocek B.P., Binkowski A., Li H., Joachimiak A.;
+RT   "Crystal Structure of hypothetical protein from Shigella flexneri
+RT   2a.";
+RL   Submitted (JAN-2005) to the PDB data bank.
+RN   [2] {ECO:0000313|EMBL:CDX07854.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Aslett A.Martin., De Silva Nishadi;
+RL   Submitted (JUL-2014) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; LM651928; CDX07854.1; -; Genomic_DNA.
+DR   RefSeq; WP_000366006.1; NZ_LM651928.1.
+DR   PDB; 1YLO; X-ray; 2.15 A; A/B/C/D/E/F=1-345.
+DR   PDBsum; 1YLO; -.
+DR   ProteinModelPortal; Q83K87; -.
+DR   SMR; Q83K87; 1-345.
+DR   STRING; 198214.SF2450; -.
+DR   MEROPS; M42.008; -.
+DR   EnsemblBacteria; AAN43959; AAN43959; SF2450.
+DR   EnsemblBacteria; AAP17770; AAP17770; S2589.
+DR   EnsemblBacteria; KFZ96320; KFZ96320; DP20_168.
+DR   KEGG; sfl:SF2450; -.
+DR   KEGG; sft:NCTC1_02687; -.
+DR   PATRIC; 18706784; VBIShiFle31049_2866.
+DR   HOGENOM; HOG000291973; -.
+DR   OMA; RILQHAT; -.
+DR   OrthoDB; EOG6V4GDH; -.
+DR   Proteomes; UP000032424; Chromosome.
+DR   GO; GO:0004177; F:aminopeptidase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 2.40.30.40; -; 1.
+DR   InterPro; IPR008007; Peptidase_M42.
+DR   InterPro; IPR023367; Peptidase_M42_dom2.
+DR   Pfam; PF05343; Peptidase_M42; 1.
+DR   PIRSF; PIRSF001123; PepA_GA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:1YLO};
+KW   Aminopeptidase {ECO:0000313|EMBL:CDX07854.1};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000032424};
+KW   Hydrolase {ECO:0000313|EMBL:CDX07854.1};
+KW   Metal-binding {ECO:0000213|PDB:1YLO};
+KW   Protease {ECO:0000313|EMBL:CDX07854.1}; Zinc {ECO:0000213|PDB:1YLO}.
+FT   METAL        62     62       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:1YLO}.
+FT   METAL       166    166       Zinc 1. {ECO:0000213|PDB:1YLO}.
+FT   METAL       166    166       Zinc 2. {ECO:0000213|PDB:1YLO}.
+FT   METAL       199    199       Zinc 2. {ECO:0000213|PDB:1YLO}.
+FT   METAL       221    221       Zinc 1. {ECO:0000213|PDB:1YLO}.
+FT   METAL       308    308       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:1YLO}.
+SQ   SEQUENCE   345 AA;  37438 MW;  918CA3DECE131AED CRC64;
+     MDLSLLKALS EADAIASSEQ EVRQILLEEA ARLQKEVRFD GLGSVLIRLN ESTGPKVMIC
+     AHMDEVGFMV RSISREGAID VLPVGNVRMA ARQLQPVRIT TREECKIPGL LDGDRQGNDV
+     SAMRVDIGAR TYDEVMQAGI RPGDRVTFDT TFQVLPHQRV MGKAFDDRLS CYLLVTLLRE
+     LHDAELPAEV WLVASSSEEV GLRGGQTATR AVSPDVAIVL DTACWAKNFD YGAANHRQIG
+     NGPMLVLSDK SLIAPPKLTA WIETVAAEIG VPLQADMFSN GGTDGGAVHL TGTGVPTLVM
+     GPATRHGHCA ASIADCRDIL QMEQLLSALI QRLTRETVVQ LTDFR
+//

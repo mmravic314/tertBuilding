@@ -1,0 +1,89 @@
+ID   Q2UP46_ASPOR            Unreviewed;       638 AA.
+AC   Q2UP46;
+DT   24-JAN-2006, integrated into UniProtKB/TrEMBL.
+DT   24-JAN-2006, sequence version 1.
+DT   22-JUL-2015, entry version 52.
+DE   SubName: Full=Predicted protein {ECO:0000313|EMBL:BAE56669.1};
+GN   ORFNames=AO090001000117 {ECO:0000313|EMBL:BAE56669.1};
+OS   Aspergillus oryzae (strain ATCC 42149 / RIB 40) (Yellow koji mold).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=510516 {ECO:0000313|EMBL:BAE56669.1, ECO:0000313|Proteomes:UP000006564};
+RN   [1] {ECO:0000313|Proteomes:UP000006564}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 42149 / RIB 40 {ECO:0000313|Proteomes:UP000006564};
+RX   PubMed=16372010; DOI=10.1038/nature04300;
+RA   Machida M., Asai K., Sano M., Tanaka T., Kumagai T., Terai G.,
+RA   Kusumoto K., Arima T., Akita O., Kashiwagi Y., Abe K., Gomi K.,
+RA   Horiuchi H., Kitamoto K., Kobayashi T., Takeuchi M., Denning D.W.,
+RA   Galagan J.E., Nierman W.C., Yu J., Archer D.B., Bennett J.W.,
+RA   Bhatnagar D., Cleveland T.E., Fedorova N.D., Gotoh O., Horikawa H.,
+RA   Hosoyama A., Ichinomiya M., Igarashi R., Iwashita K., Juvvadi P.R.,
+RA   Kato M., Kato Y., Kin T., Kokubun A., Maeda H., Maeyama N.,
+RA   Maruyama J., Nagasaki H., Nakajima T., Oda K., Okada K., Paulsen I.,
+RA   Sakamoto K., Sawano T., Takahashi M., Takase K., Terabayashi Y.,
+RA   Wortman J.R., Yamada O., Yamagata Y., Anazawa H., Hata Y., Koide Y.,
+RA   Komori T., Koyama Y., Minetoki T., Suharnan S., Tanaka A., Isono K.,
+RA   Kuhara S., Ogasawara N., Kikuchi H.;
+RT   "Genome sequencing and analysis of Aspergillus oryzae.";
+RL   Nature 438:1157-1161(2005).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AP007154; BAE56669.1; -; Genomic_DNA.
+DR   PDB; 3W6Q; X-ray; 2.05 A; A/B/C/D=2-580.
+DR   PDB; 3W6W; X-ray; 1.39 A; A/B=2-580.
+DR   PDBsum; 3W6Q; -.
+DR   PDBsum; 3W6W; -.
+DR   ProteinModelPortal; Q2UP46; -.
+DR   SMR; Q2UP46; 577-637.
+DR   EnsemblFungi; CADAORAT00000104; CADAORAP00000103; CADAORAG00000104.
+DR   HOGENOM; HOG000217020; -.
+DR   OMA; NDQLSYF; -.
+DR   OrthoDB; EOG754HZ1; -.
+DR   Proteomes; UP000006564; Chromosome 2.
+DR   GO; GO:0005634; C:nucleus; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004503; F:monophenol monooxygenase activity; IDA:ASPGD.
+DR   GO; GO:0055114; P:oxidation-reduction process; IDA:GOC.
+DR   Gene3D; 1.10.1280.10; -; 2.
+DR   InterPro; IPR015021; DUF1907.
+DR   InterPro; IPR002227; Tyrosinase_Cu-bd.
+DR   InterPro; IPR008922; Unchr_di-copper_centre.
+DR   Pfam; PF08925; DUF1907; 1.
+DR   Pfam; PF00264; Tyrosinase; 1.
+DR   PRINTS; PR00092; TYROSINASE.
+DR   SUPFAM; SSF48056; SSF48056; 2.
+DR   PROSITE; PS00497; TYROSINASE_1; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3W6Q, ECO:0000213|PDB:3W6W};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000006564};
+KW   Copper {ECO:0000213|PDB:3W6W};
+KW   Metal-binding {ECO:0000213|PDB:3W6W, ECO:0000256|SAAS:SAAS00067573};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000006564}.
+FT   METAL        67     67       Copper 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3W6W}.
+FT   METAL        94     94       Copper 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3W6W}.
+FT   METAL       103    103       Copper 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3W6W}.
+FT   METAL       328    328       Copper 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3W6W}.
+FT   METAL       332    332       Copper 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3W6W}.
+FT   METAL       372    372       Copper 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3W6W}.
+SQ   SEQUENCE   638 AA;  73806 MW;  81F25E73EE9D8736 CRC64;
+     MPYLITGIPK DPKHPLPIRK DIDDWYLEQT SAGSNRIQLT LFVEALTVIQ NRPLNDQLSY
+     FRLAGIHGAP WTEWDGVPGG QKDSKGNPTG FCVHNNYTFP TWHRVYVTLY EQVIYEAMLD
+     FIKQNVPQNG KADWENEAKQ WRLPYWDFAR FARHGHDNTQ GDELRLPILV TMPMVKVLVP
+     GQPGKQLSKP NPLYRFQMQT LMGTLERPYA ITSQKTEEHG WSFDLPFDKC QSTTKYGLLE
+     NYNADVWADG GQNWLRANLA LNEHPWYQNL DGWASVPTLQ DMTFRLLTTG GLNWGEFSST
+     RYDDKKEEAQ PKNNEQAPKN WMNLEAIHNN VHNWVGGFMF SRPGRHDLKL WGAGHMSSVP
+     VAAFDPIFWL HHWLTAIWQT VNSGSWFNDD KSKVSKDDDL RPFHRFCEKT RKVVFFRSDD
+     VKDWRSLNYD YAITKDASRI RKEISDLYGQ RTKEVYKDFG EEDYILSIRY SRYALGGKPF
+     QINIFFGDVD GKDFYDARSQ NFVGSVFNFS GSLEDSNCDK CAQQEQEGVL SVSQLPARLA
+     VHYYKKQNKG EVPTPRYVVV NSQGKAEAEV KVEVALHKTE VFHSVDSESW DLRMEHTHCF
+     STHGMGGHYH YDTTAEVVEY EAWLNTAKVI YRIDQPGQ
+//

@@ -1,0 +1,184 @@
+ID   FPRA_METTM              Reviewed;         404 AA.
+AC   Q50497; D9PYL0;
+DT   06-JUN-2002, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   22-JUL-2015, entry version 81.
+DE   RecName: Full=Type A flavoprotein FprA;
+DE            EC=1.-.-.-;
+DE   AltName: Full=FMN protein FprA;
+DE   AltName: Full=Flavoprotein A;
+GN   Name=fprA; Synonyms=fpaA, fprA3; OrderedLocusNames=MTBMA_c17400;
+OS   Methanothermobacter marburgensis (strain DSM 2133 / 14651 / NBRC
+OS   100331 / OCM 82 / Marburg) (Methanobacterium thermoautotrophicum).
+OC   Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales;
+OC   Methanobacteriaceae; Methanothermobacter.
+OX   NCBI_TaxID=79929;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], COFACTOR, AND PROTEIN SEQUENCE OF
+RP   1-31.
+RC   STRAIN=DSM 2133 / 14651 / NBRC 100331 / OCM 82 / Marburg;
+RX   PubMed=7730275;
+RA   Wasserfallen A., Huber K., Leisinger T.;
+RT   "Purification and structural characterization of a flavoprotein
+RT   induced by iron limitation in Methanobacterium thermoautotrophicum
+RT   Marburg.";
+RL   J. Bacteriol. 177:2436-2441(1995).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=DSM 2133 / 14651 / NBRC 100331 / OCM 82 / Marburg;
+RX   PubMed=20802048; DOI=10.1128/JB.00844-10;
+RA   Liesegang H., Kaster A.K., Wiezer A., Goenrich M., Wollherr A.,
+RA   Seedorf H., Gottschalk G., Thauer R.K.;
+RT   "Complete genome sequence of Methanothermobacter marburgensis, a
+RT   methanoarchaeon model organism.";
+RL   J. Bacteriol. 192:5850-5851(2010).
+RN   [3]
+RP   PROTEIN SEQUENCE OF 1-22, AND COFACTOR.
+RC   STRAIN=DSM 2133 / 14651 / NBRC 100331 / OCM 82 / Marburg;
+RX   PubMed=7649162; DOI=10.1111/j.1432-1033.1995.0628d.x;
+RA   Noelling J., Ishii M., Koch J., Pihl T.D., Reeve J.N., Thauer R.K.,
+RA   Hedderich R.;
+RT   "Characterization of a 45-kDa flavoprotein and evidence for a
+RT   rubredoxin, two proteins that could participate in electron transport
+RT   from H2 to CO2 in methanogenesis in Methanobacterium
+RT   thermoautotrophicum.";
+RL   Eur. J. Biochem. 231:628-638(1995).
+RN   [4]
+RP   DISCUSSION OF FUNCTION.
+RC   STRAIN=DSM 2133 / 14651 / NBRC 100331 / OCM 82 / Marburg;
+RX   PubMed=9660187; DOI=10.1046/j.1432-1327.1998.2540325.x;
+RA   Wasserfallen A., Ragettli S., Jouanneau Y., Leisinger T.;
+RT   "A family of flavoproteins in the domains Archaea and Bacteria.";
+RL   Eur. J. Biochem. 254:325-332(1998).
+CC   -!- FUNCTION: Probably functions as an electron acceptor for a
+CC       hydrogenase; however there is an uncharacterized intermediate
+CC       between the hydrogenase and flavoprotein A.
+CC   -!- COFACTOR:
+CC       Name=FMN; Xref=ChEBI:CHEBI:58210;
+CC       Note=Binds 1 FMN per subunit.;
+CC   -!- COFACTOR:
+CC       Name=Fe cation; Xref=ChEBI:CHEBI:24875;
+CC       Note=Binds 2 iron ions per subunit.;
+CC   -!- SUBUNIT: Homodimer or homotetramer.
+CC   -!- INDUCTION: By iron limitation.
+CC   -!- SIMILARITY: In the N-terminal section; belongs to the zinc
+CC       metallo-hydrolase group 3 family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 flavodoxin-like domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00088}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U17835; AAB88013.1; -; Genomic_DNA.
+DR   EMBL; CP001710; ADL59308.1; -; Genomic_DNA.
+DR   RefSeq; WP_013296518.1; NC_014408.1.
+DR   RefSeq; YP_003850621.1; NC_014408.1.
+DR   PDB; 2OHH; X-ray; 1.70 A; A/B/D/E=1-404.
+DR   PDB; 2OHI; X-ray; 2.30 A; A/B/D/E/G/H/I/J=1-404.
+DR   PDB; 2OHJ; X-ray; 2.26 A; A/B/D/E=1-404.
+DR   PDBsum; 2OHH; -.
+DR   PDBsum; 2OHI; -.
+DR   PDBsum; 2OHJ; -.
+DR   ProteinModelPortal; Q50497; -.
+DR   SMR; Q50497; 1-403.
+DR   STRING; 79929.MTBMA_c17400; -.
+DR   EnsemblBacteria; ADL59308; ADL59308; MTBMA_c17400.
+DR   GeneID; 9705451; -.
+DR   KEGG; mmg:MTBMA_c17400; -.
+DR   HOGENOM; HOG000224528; -.
+DR   OMA; INCELAD; -.
+DR   BioCyc; MMAR79929:GH5J-1746-MONOMER; -.
+DR   BRENDA; 1.5.3.22; 7427.
+DR   EvolutionaryTrace; Q50497; -.
+DR   Proteomes; UP000000345; Chromosome.
+DR   GO; GO:0009055; F:electron carrier activity; IEA:InterPro.
+DR   GO; GO:0010181; F:FMN binding; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016491; F:oxidoreductase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0004871; F:signal transducer activity; IEA:InterPro.
+DR   Gene3D; 3.40.50.360; -; 1.
+DR   Gene3D; 3.60.15.10; -; 1.
+DR   InterPro; IPR001279; Beta-lactamas-like.
+DR   InterPro; IPR008254; Flavodoxin/NO_synth.
+DR   InterPro; IPR001226; Flavodoxin_CS.
+DR   InterPro; IPR029039; Flavoprotein-like.
+DR   InterPro; IPR000014; PAS.
+DR   InterPro; IPR016440; Rubredoxin-O_OxRdtase.
+DR   Pfam; PF00258; Flavodoxin_1; 1.
+DR   Pfam; PF00753; Lactamase_B; 1.
+DR   PIRSF; PIRSF005243; ROO; 1.
+DR   SMART; SM00849; Lactamase_B; 1.
+DR   SMART; SM00091; PAS; 1.
+DR   SUPFAM; SSF52218; SSF52218; 1.
+DR   SUPFAM; SSF56281; SSF56281; 1.
+DR   PROSITE; PS00201; FLAVODOXIN; 1.
+DR   PROSITE; PS50902; FLAVODOXIN_LIKE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Direct protein sequencing;
+KW   Electron transport; Flavoprotein; FMN; Iron; Metal-binding;
+KW   Oxidoreductase; Transport.
+FT   CHAIN         1    404       Type A flavoprotein FprA.
+FT                                /FTId=PRO_0000216808.
+FT   DOMAIN      259    399       Flavodoxin-like. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00088}.
+FT   REGION       30    206       Zinc metallo-hydrolase.
+FT   METAL        83     83       Iron 1. {ECO:0000250}.
+FT   METAL        85     85       Iron 1. {ECO:0000250}.
+FT   METAL        87     87       Iron 2. {ECO:0000250}.
+FT   METAL       151    151       Iron 1. {ECO:0000250}.
+FT   METAL       170    170       Iron 1. {ECO:0000250}.
+FT   METAL       170    170       Iron 2. {ECO:0000250}.
+FT   METAL       233    233       Iron 2. {ECO:0000250}.
+FT   STRAND        6      9       {ECO:0000244|PDB:2OHH}.
+FT   STRAND       12     14       {ECO:0000244|PDB:2OHH}.
+FT   STRAND       17     19       {ECO:0000244|PDB:2OHH}.
+FT   STRAND       33     35       {ECO:0000244|PDB:2OHH}.
+FT   STRAND       38     41       {ECO:0000244|PDB:2OHH}.
+FT   STRAND       46     49       {ECO:0000244|PDB:2OHH}.
+FT   HELIX        57     71       {ECO:0000244|PDB:2OHH}.
+FT   STRAND       78     80       {ECO:0000244|PDB:2OHH}.
+FT   HELIX        86     89       {ECO:0000244|PDB:2OHH}.
+FT   HELIX        92     98       {ECO:0000244|PDB:2OHH}.
+FT   STRAND      104    106       {ECO:0000244|PDB:2OHH}.
+FT   HELIX       108    117       {ECO:0000244|PDB:2OHH}.
+FT   HELIX       119    123       {ECO:0000244|PDB:2OHH}.
+FT   STRAND      126    128       {ECO:0000244|PDB:2OHH}.
+FT   STRAND      134    136       {ECO:0000244|PDB:2OHH}.
+FT   STRAND      141    146       {ECO:0000244|PDB:2OHH}.
+FT   STRAND      150    152       {ECO:0000244|PDB:2OHH}.
+FT   STRAND      156    161       {ECO:0000244|PDB:2OHH}.
+FT   TURN        162    164       {ECO:0000244|PDB:2OHH}.
+FT   STRAND      165    167       {ECO:0000244|PDB:2OHH}.
+FT   TURN        169    172       {ECO:0000244|PDB:2OHH}.
+FT   HELIX       183    185       {ECO:0000244|PDB:2OHH}.
+FT   HELIX       188    202       {ECO:0000244|PDB:2OHH}.
+FT   HELIX       204    206       {ECO:0000244|PDB:2OHH}.
+FT   HELIX       207    219       {ECO:0000244|PDB:2OHH}.
+FT   HELIX       223    225       {ECO:0000244|PDB:2OHH}.
+FT   STRAND      227    230       {ECO:0000244|PDB:2OHH}.
+FT   STRAND      232    234       {ECO:0000244|PDB:2OHH}.
+FT   STRAND      236    239       {ECO:0000244|PDB:2OHH}.
+FT   HELIX       240    251       {ECO:0000244|PDB:2OHH}.
+FT   STRAND      257    263       {ECO:0000244|PDB:2OHH}.
+FT   STRAND      266    268       {ECO:0000244|PDB:2OHH}.
+FT   HELIX       269    282       {ECO:0000244|PDB:2OHH}.
+FT   TURN        283    285       {ECO:0000244|PDB:2OHH}.
+FT   STRAND      287    292       {ECO:0000244|PDB:2OHH}.
+FT   TURN        293    295       {ECO:0000244|PDB:2OHH}.
+FT   HELIX       298    306       {ECO:0000244|PDB:2OHH}.
+FT   STRAND      309    314       {ECO:0000244|PDB:2OHH}.
+FT   HELIX       325    336       {ECO:0000244|PDB:2OHH}.
+FT   HELIX       338    340       {ECO:0000244|PDB:2OHH}.
+FT   STRAND      344    355       {ECO:0000244|PDB:2OHH}.
+FT   HELIX       358    368       {ECO:0000244|PDB:2OHH}.
+FT   STRAND      371    382       {ECO:0000244|PDB:2OHH}.
+FT   HELIX       385    402       {ECO:0000244|PDB:2OHH}.
+SQ   SEQUENCE   404 AA;  45205 MW;  155AF7D9FE9D75FD CRC64;
+     MKAAAKRISD GVYWTGVLDW DLRNYHGYTL QGTTYNAYLV CGDEGVALID NSYPGTFDEL
+     MARVEDALQQ VGMERVDYII QNHVEKDHSG VLVELHRRFP EAPIYCTEVA VKGLLKHYPS
+     LREAEFMTVK TGDVLDLGGK TLTFLETPLL HWPDSMFTLL DEDGILFSND AFGQHLCCPQ
+     RLDREIPEYI LMDAARKFYA NLITPLSKLV LKKFDEVKEL GLLERIQMIA PSHGQIWTDP
+     MKIIEAYTGW ATGMVDERVT VIYDTMHGST RKMAHAIAEG AMSEGVDVRV YCLHEDDRSE
+     IVKDILESGA IALGAPTIYD EPYPSVGDLL MYLRGLKFNR TLTRKALVFG SMGGNGGATG
+     TMKELLAEAG FDVACEEEVY YVPTGDELDA CFEAGRKLAA EIRR
+//

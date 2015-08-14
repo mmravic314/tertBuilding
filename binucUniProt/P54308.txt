@@ -1,0 +1,112 @@
+ID   TERL_BPSPP              Reviewed;         422 AA.
+AC   P54308;
+DT   01-OCT-1996, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-1996, sequence version 1.
+DT   01-APR-2015, entry version 71.
+DE   RecName: Full=Large terminase protein;
+DE   AltName: Full=DNA-packaging protein G2P;
+DE   AltName: Full=Terminase large subunit;
+GN   Name=2;
+OS   Bacillus phage SPP1 (Bacteriophage SPP1).
+OC   Viruses; dsDNA viruses, no RNA stage; Caudovirales; Siphoviridae;
+OC   Lambdalikevirus; unclassified Lambda-like viruses.
+OX   NCBI_TaxID=10724;
+OH   NCBI_TaxID=1423; Bacillus subtilis.
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=1548711; DOI=10.1016/0022-2836(92)90578-8;
+RA   Chai S., Bravo A., Lueder G., Nedlin A., Trautner T.A., Alonso J.C.;
+RT   "Molecular analysis of the Bacillus subtilis bacteriophage SPP1 region
+RT   encompassing genes 1 to 6. The products of gene 1 and gene 2 are
+RT   required for pac cleavage.";
+RL   J. Mol. Biol. 224:87-102(1992).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=9434185; DOI=10.1016/S0378-1119(97)00547-7;
+RA   Alonso J.C., Luder G., Stiege A.C., Chai S., Weise F., Trautner T.A.;
+RT   "The complete nucleotide sequence and functional organization of
+RT   Bacillus subtilis bacteriophage SPP1.";
+RL   Gene 204:201-212(1997).
+RN   [3]
+RP   REVIEW.
+RX   PubMed=18687036; DOI=10.1146/annurev.genet.42.110807.091545;
+RA   Rao V.B., Feiss M.;
+RT   "The bacteriophage DNA packaging motor.";
+RL   Annu. Rev. Genet. 42:647-681(2008).
+CC   -!- FUNCTION: Component of the molecular motor that translocates
+CC       genomic DNA in empty capsid during DNA packaging. Heterodimerizes
+CC       with small terminase protein to be docked on capsid portal
+CC       protein. The latter forms a ring in which genomic DNA in
+CC       translocated into the capsid. May have or induce an endonuclease
+CC       activity to cleave the genome concatemer after encapsidation (By
+CC       similarity). {ECO:0000250}.
+CC   -!- SUBUNIT: Dimer of a small and a large subunit. {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the siphoviridae large terminase family.
+CC       {ECO:0000305}.
+CC   -!- SIMILARITY: To B.subtilis xtmB and yqaT. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X56064; CAA39537.1; -; Genomic_DNA.
+DR   EMBL; X97918; CAA66573.1; -; Genomic_DNA.
+DR   PIR; S24451; S24451.
+DR   RefSeq; NP_690654.1; NC_004166.2.
+DR   PDB; 2WBN; X-ray; 1.90 A; A=232-422.
+DR   PDB; 2WC9; X-ray; 2.50 A; A=232-422.
+DR   PDBsum; 2WBN; -.
+DR   PDBsum; 2WC9; -.
+DR   GeneID; 955254; -.
+DR   KEGG; vg:955254; -.
+DR   EvolutionaryTrace; P54308; -.
+DR   Proteomes; UP000002559; Genome.
+DR   GO; GO:0006323; P:DNA packaging; IEA:InterPro.
+DR   GO; GO:0019076; P:viral release from host cell; IEA:UniProtKB-KW.
+DR   InterPro; IPR006437; Phage_terminase_lsu.
+DR   Pfam; PF04466; Terminase_3; 1.
+DR   TIGRFAMs; TIGR01547; phage_term_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Viral genome packaging;
+KW   Virus exit from host cell.
+FT   CHAIN         1    422       Large terminase protein.
+FT                                /FTId=PRO_0000077789.
+FT   MOTIF        33     40       Walker A motif.
+FT   MOTIF       130    135       Walker B motif.
+FT   ACT_SITE    135    135       For ATPase activity. {ECO:0000255}.
+FT   VARIANT      18     18       W -> R (in isolate Ts6M; temperature-
+FT                                sensitive).
+FT   VARIANT      73     73       F -> L (in isolate SUS19).
+FT   VARIANT     233    233       L -> F (in isolate SUS19).
+FT   VARIANT     412    412       D -> N (in isolate Ts10M; temperature-
+FT                                sensitive).
+FT   STRAND      243    245       {ECO:0000244|PDB:2WBN}.
+FT   HELIX       252    257       {ECO:0000244|PDB:2WBN}.
+FT   STRAND      261    266       {ECO:0000244|PDB:2WBN}.
+FT   STRAND      274    282       {ECO:0000244|PDB:2WBN}.
+FT   TURN        283    286       {ECO:0000244|PDB:2WBN}.
+FT   STRAND      287    298       {ECO:0000244|PDB:2WBN}.
+FT   HELIX       301    310       {ECO:0000244|PDB:2WBN}.
+FT   STRAND      318    320       {ECO:0000244|PDB:2WBN}.
+FT   HELIX       325    333       {ECO:0000244|PDB:2WBN}.
+FT   STRAND      340    342       {ECO:0000244|PDB:2WBN}.
+FT   HELIX       347    349       {ECO:0000244|PDB:2WBN}.
+FT   HELIX       350    358       {ECO:0000244|PDB:2WBN}.
+FT   STRAND      360    365       {ECO:0000244|PDB:2WBN}.
+FT   TURN        367    369       {ECO:0000244|PDB:2WBN}.
+FT   HELIX       371    379       {ECO:0000244|PDB:2WBN}.
+FT   STRAND      382    384       {ECO:0000244|PDB:2WBN}.
+FT   STRAND      386    388       {ECO:0000244|PDB:2WC9}.
+FT   STRAND      390    394       {ECO:0000244|PDB:2WBN}.
+FT   STRAND      396    398       {ECO:0000244|PDB:2WBN}.
+FT   HELIX       400    408       {ECO:0000244|PDB:2WBN}.
+FT   HELIX       410    412       {ECO:0000244|PDB:2WBN}.
+SQ   SEQUENCE   422 AA;  48841 MW;  55D16BDB32239A5C CRC64;
+     MKKVRLSEKF TPHFLEVWRT VKAAQHLKYV LKGGRGSAKS THIAMWIILL MMMMPITFLV
+     IRRVYNTVEQ SVFEQLKEAI DMLEVGHLWK VSKSPLRLTY IPRGNSIIFR GGDDVQKIKS
+     IKASKFPVAG MWIEELAEFK TEEEVSVIEK SVLRAELPPG CRYIFFYSYN PPKRKQSWVN
+     KVFNSSFLPA NTFVDHSTYL QNPFLSKAFI EEAEEVKRRN ELKYRHEYLG EALGSGVVPF
+     ENLQIEEGII TDAEVARFDN IRQGLDFGYG PDPLAFVRWH YDKRKNRIYA IDELVDHKVS
+     LKRTADFVRK NKYESARIIA DSSEPRSIDA LKLEHGINRI EGAKKGPDSV EHGERWLDEL
+     DAIVIDPLRT PNIAREFENI DYQTDKNGDP IPRLEDKDNH TIDATRYAFE RDMKKGGVSL
+     WG
+//

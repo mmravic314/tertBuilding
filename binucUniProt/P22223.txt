@@ -1,0 +1,380 @@
+ID   CADH3_HUMAN             Reviewed;         829 AA.
+AC   P22223; B2R6F4; Q05DI6;
+DT   01-AUG-1991, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-2007, sequence version 2.
+DT   22-JUL-2015, entry version 156.
+DE   RecName: Full=Cadherin-3;
+DE   AltName: Full=Placental cadherin;
+DE            Short=P-cadherin;
+DE   Flags: Precursor;
+GN   Name=CDH3; Synonyms=CDHP;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), AND VARIANT HIS-563.
+RX   PubMed=2793940; DOI=10.1083/jcb.109.4.1787;
+RA   Shimoyama Y., Yoshida T., Terada M., Shimosato Y., Abe O.,
+RA   Hirohashi S.;
+RT   "Molecular cloning of a human Ca2+-dependent cell-cell adhesion
+RT   molecule homologous to mouse placental cadherin: its low expression in
+RT   human placental tissues.";
+RL   J. Cell Biol. 109:1787-1794(1989).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1), AND VARIANT
+RP   HIS-563.
+RC   TISSUE=Tongue;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A.,
+RA   Sudo H., Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M.,
+RA   Takahashi M., Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y.,
+RA   Abe K., Kamihara K., Katsuta N., Sato K., Tanikawa M., Yamazaki M.,
+RA   Ninomiya K., Ishibashi T., Yamashita H., Murakawa K., Fujimori K.,
+RA   Tanai H., Kimata M., Watanabe M., Hiraoka S., Chiba Y., Ishida S.,
+RA   Ono Y., Takiguchi S., Watanabe S., Yosida M., Hotuta T., Kusano J.,
+RA   Kanehori K., Takahashi-Fujii A., Hara H., Tanase T.-O., Nomura Y.,
+RA   Togiya S., Komai F., Hara R., Takeuchi K., Arita M., Imose N.,
+RA   Musashino K., Yuuki H., Oshima A., Sasaki N., Aotsuka S.,
+RA   Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y.,
+RA   Fujimori Y., Komiyama M., Tashiro H., Tanigami A., Fujiwara T.,
+RA   Ono T., Yamada K., Fujii Y., Ozaki K., Hirao M., Ohmori Y.,
+RA   Kawabata A., Hikiji T., Kobatake N., Inagaki H., Ikema Y., Okamoto S.,
+RA   Okitani R., Kawakami T., Noguchi S., Itoh T., Shigeta K., Senba T.,
+RA   Matsumura K., Nakajima Y., Mizuno T., Morinaga M., Sasaki M.,
+RA   Togashi T., Oyama M., Hata H., Watanabe M., Komatsu T.,
+RA   Mizushima-Sugano J., Satoh T., Shirai Y., Takahashi Y., Nakagawa K.,
+RA   Okumura K., Nagase T., Nomura N., Kikuchi H., Masuho Y., Yamashita R.,
+RA   Nakai K., Yada T., Nakamura Y., Ohara O., Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA], AND VARIANT HIS-563.
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L.,
+RA   Mobarry C.M., Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R.,
+RA   Flanigan M.J., Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V.,
+RA   Hannenhalli S., Turner R., Yooseph S., Lu F., Nusskern D.R.,
+RA   Shue B.C., Zheng X.H., Zhong F., Delcher A.L., Huson D.H.,
+RA   Kravitz S.A., Mouchard L., Reinert K., Remington K.A., Clark A.G.,
+RA   Waterman M.S., Eichler E.E., Adams M.D., Hunkapiller M.W., Myers E.W.,
+RA   Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2), AND VARIANT
+RP   MET-237.
+RC   TISSUE=Skin, and Testis;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-15.
+RC   TISSUE=Fetal brain;
+RX   PubMed=9815605;
+RA   Jarrard D.F., Paul R., Van Bokhoven A., Nguyen S.H., Bova G.S.,
+RA   Wheelock M.J., Johnson K.R., Schalken J., Bussemakers M., Isaacs W.B.;
+RT   "P-cadherin is a basal cell-specific epithelial marker that is not
+RT   expressed in prostate cancer.";
+RL   Clin. Cancer Res. 3:2121-2128(1997).
+RN   [6]
+RP   TISSUE SPECIFICITY.
+RX   PubMed=2702654;
+RA   Shimoyama Y., Hirohashi S., Hirano S., Noguchi M., Shimosato Y.,
+RA   Takeichi M., Abe O.;
+RT   "Cadherin cell-adhesion molecules in human epithelial tissues and
+RT   carcinomas.";
+RL   Cancer Res. 49:2128-2133(1989).
+RN   [7]
+RP   INTERACTION WITH CDCP1.
+RX   PubMed=16007225; DOI=10.1038/sj.onc.1208582;
+RA   Bhatt A.S., Erdjument-Bromage H., Tempst P., Craik C.S., Moasser M.M.;
+RT   "Adhesion signaling by a novel mitotic substrate of src kinases.";
+RL   Oncogene 24:5333-5343(2005).
+RN   [8]
+RP   INVOLVEMENT IN HJMD.
+RX   PubMed=11544476; DOI=10.1038/ng716;
+RA   Sprecher E., Bergman R., Richard G., Lurie R., Shalev S.,
+RA   Petronius D., Shalata A., Anbinder Y., Leibu R., Perlman I., Cohen N.,
+RA   Szargel R.;
+RT   "Hypotrichosis with juvenile macular dystrophy is caused by a mutation
+RT   in CDH3, encoding P-cadherin.";
+RL   Nat. Genet. 29:134-136(2001).
+RN   [9]
+RP   INTERACTION WITH CTNNB1.
+RX   PubMed=17052462; DOI=10.1016/j.molcel.2006.09.001;
+RA   Sampietro J., Dahlberg C.L., Cho U.S., Hinds T.R., Kimelman D., Xu W.;
+RT   "Crystal structure of a beta-catenin/BCL9/Tcf4 complex.";
+RL   Mol. Cell 24:293-300(2006).
+RN   [10]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P.,
+RA   Buerckstuemmer T., Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [11]
+RP   VARIANT HJMD HIS-503.
+RX   PubMed=12445216; DOI=10.1046/j.1523-1747.2002.19528.x;
+RA   Indelman M., Bergman R., Lurie R., Richard G., Miller B.,
+RA   Petronius D., Ciubutaro D., Leibu R., Sprecher E.;
+RT   "A missense mutation in CDH3, encoding P-cadherin, causes
+RT   hypotrichosis with juvenile macular dystrophy.";
+RL   J. Invest. Dermatol. 119:1210-1213(2002).
+RN   [12]
+RP   VARIANT EEMS ILE-322, AND VARIANT HIS-563.
+RX   PubMed=15805154; DOI=10.1136/jmg.2004.027821;
+RA   Kjaer K.W., Hansen L., Schwabe G.C., Marques-de-Faria A.P., Eiberg H.,
+RA   Mundlos S., Tommerup N., Rosenberg T.;
+RT   "Distinct CDH3 mutations cause ectodermal dysplasia, ectrodactyly,
+RT   macular dystrophy (EEM syndrome).";
+RL   J. Med. Genet. 42:292-298(2005).
+CC   -!- FUNCTION: Cadherins are calcium-dependent cell adhesion proteins.
+CC       They preferentially interact with themselves in a homophilic
+CC       manner in connecting cells; cadherins may thus contribute to the
+CC       sorting of heterogeneous cell types.
+CC   -!- SUBUNIT: Interacts with CDCP1 and CTNNB1.
+CC       {ECO:0000269|PubMed:16007225, ECO:0000269|PubMed:17052462}.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane; Single-pass type I membrane
+CC       protein.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=P22223-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=P22223-2; Sequence=VSP_024820;
+CC         Note=No experimental confirmation available.;
+CC   -!- TISSUE SPECIFICITY: Expressed in some normal epithelial tissues
+CC       and in some carcinoma cell lines. {ECO:0000269|PubMed:2702654}.
+CC   -!- DOMAIN: Three calcium ions are usually bound at the interface of
+CC       each cadherin domain and rigidify the connections, imparting a
+CC       strong curvature to the full-length ectodomain. {ECO:0000250}.
+CC   -!- DISEASE: Hypotrichosis congenital with juvenile macular dystrophy
+CC       (HJMD) [MIM:601553]: A disorder characterized by congenital
+CC       hypotrichosis, early hair loss, and severe degenerative changes of
+CC       the retinal macula that culminate in blindness during the second
+CC       to third decade of life. {ECO:0000269|PubMed:11544476,
+CC       ECO:0000269|PubMed:12445216}. Note=The disease is caused by
+CC       mutations affecting the gene represented in this entry.
+CC   -!- DISEASE: Ectodermal dysplasia, ectrodactyly, and macular dystrophy
+CC       syndrome (EEMS) [MIM:225280]: A form of ectodermal dysplasia, a
+CC       heterogeneous group of disorders due to abnormal development of
+CC       two or more ectodermal structures. It is an autosomal recessive
+CC       condition characterized by features of ectodermal dysplasia such
+CC       as sparse eyebrows and scalp hair, and selective tooth agenesis
+CC       associated with macular dystrophy and ectrodactyly.
+CC       {ECO:0000269|PubMed:15805154}. Note=The disease is caused by
+CC       mutations affecting the gene represented in this entry.
+CC   -!- SIMILARITY: Contains 5 cadherin domains. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00043}.
+CC   -!- WEB RESOURCE: Name=Mutations of the CDH3 gene; Note=Retina
+CC       International's Scientific Newsletter;
+CC       URL="http://www.retina-international.org/files/sci-news/cdh3mut.htm";
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X63629; CAA45177.1; -; mRNA.
+DR   EMBL; AK312554; BAG35451.1; -; mRNA.
+DR   EMBL; CH471092; EAW83238.1; -; Genomic_DNA.
+DR   EMBL; BC014462; AAH14462.1; -; mRNA.
+DR   EMBL; BC041846; AAH41846.1; -; mRNA.
+DR   EMBL; X95824; CAA65093.1; -; Genomic_DNA.
+DR   CCDS; CCDS10868.1; -. [P22223-1]
+DR   PIR; A33659; IJHUCP.
+DR   RefSeq; NP_001784.2; NM_001793.4. [P22223-1]
+DR   UniGene; Hs.191842; -.
+DR   PDB; 4OY9; X-ray; 1.62 A; A=108-320.
+DR   PDBsum; 4OY9; -.
+DR   ProteinModelPortal; P22223; -.
+DR   SMR; P22223; 108-647, 729-822.
+DR   BioGrid; 107436; 7.
+DR   IntAct; P22223; 5.
+DR   STRING; 9606.ENSP00000264012; -.
+DR   PhosphoSite; P22223; -.
+DR   BioMuta; CDH3; -.
+DR   DMDM; 146345382; -.
+DR   MaxQB; P22223; -.
+DR   PaxDb; P22223; -.
+DR   PRIDE; P22223; -.
+DR   DNASU; 1001; -.
+DR   Ensembl; ENST00000264012; ENSP00000264012; ENSG00000062038.
+DR   Ensembl; ENST00000429102; ENSP00000398485; ENSG00000062038. [P22223-2]
+DR   GeneID; 1001; -.
+DR   KEGG; hsa:1001; -.
+DR   UCSC; uc002ewf.2; human. [P22223-1]
+DR   CTD; 1001; -.
+DR   GeneCards; GC16P068679; -.
+DR   H-InvDB; HIX0026973; -.
+DR   HGNC; HGNC:1762; CDH3.
+DR   HPA; CAB002487; -.
+DR   HPA; HPA001767; -.
+DR   MIM; 114021; gene.
+DR   MIM; 225280; phenotype.
+DR   MIM; 601553; phenotype.
+DR   neXtProt; NX_P22223; -.
+DR   Orphanet; 1897; EEM syndrome.
+DR   Orphanet; 1573; Hypotrichosis with juvenile macular degeneration.
+DR   PharmGKB; PA26299; -.
+DR   eggNOG; NOG328838; -.
+DR   GeneTree; ENSGT00760000118906; -.
+DR   HOGENOM; HOG000231254; -.
+DR   HOVERGEN; HBG106438; -.
+DR   InParanoid; P22223; -.
+DR   KO; K06796; -.
+DR   OMA; AGWLAMD; -.
+DR   OrthoDB; EOG7PS1DS; -.
+DR   PhylomeDB; P22223; -.
+DR   TreeFam; TF316817; -.
+DR   Reactome; REACT_19195; Adherens junctions interactions.
+DR   ChiTaRS; CDH3; human.
+DR   GeneWiki; CDH3_(gene); -.
+DR   GenomeRNAi; 1001; -.
+DR   NextBio; 4208; -.
+DR   PRO; PR:P22223; -.
+DR   Proteomes; UP000005640; Chromosome 16.
+DR   Bgee; P22223; -.
+DR   CleanEx; HS_CDH3; -.
+DR   ExpressionAtlas; P22223; baseline and differential.
+DR   Genevisible; P22223; HS.
+DR   GO; GO:0005913; C:cell-cell adherens junction; IEA:Ensembl.
+DR   GO; GO:0005737; C:cytoplasm; IEA:Ensembl.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0005886; C:plasma membrane; IDA:UniProtKB.
+DR   GO; GO:0005509; F:calcium ion binding; IEA:InterPro.
+DR   GO; GO:0034332; P:adherens junction organization; TAS:Reactome.
+DR   GO; GO:0060070; P:canonical Wnt signaling pathway; IMP:UniProtKB.
+DR   GO; GO:0007155; P:cell adhesion; TAS:ProtInc.
+DR   GO; GO:0034329; P:cell junction assembly; TAS:Reactome.
+DR   GO; GO:0045216; P:cell-cell junction organization; TAS:Reactome.
+DR   GO; GO:0022405; P:hair cycle process; IMP:UniProtKB.
+DR   GO; GO:0007156; P:homophilic cell adhesion via plasma membrane adhesion molecules; IEA:InterPro.
+DR   GO; GO:0031424; P:keratinization; IMP:UniProtKB.
+DR   GO; GO:0051796; P:negative regulation of catagen; IMP:UniProtKB.
+DR   GO; GO:0032912; P:negative regulation of transforming growth factor beta2 production; IMP:UniProtKB.
+DR   GO; GO:0010628; P:positive regulation of gene expression; IMP:UniProtKB.
+DR   GO; GO:0043568; P:positive regulation of insulin-like growth factor receptor signaling pathway; IMP:UniProtKB.
+DR   GO; GO:0010838; P:positive regulation of keratinocyte proliferation; IMP:UniProtKB.
+DR   GO; GO:0048023; P:positive regulation of melanin biosynthetic process; IMP:UniProtKB.
+DR   GO; GO:1902910; P:positive regulation of melanosome transport; IMP:UniProtKB.
+DR   GO; GO:0032773; P:positive regulation of monophenol monooxygenase activity; IMP:UniProtKB.
+DR   GO; GO:0060901; P:regulation of hair cycle by canonical Wnt signaling pathway; IMP:UniProtKB.
+DR   GO; GO:0042493; P:response to drug; IEA:Ensembl.
+DR   GO; GO:0001895; P:retina homeostasis; IMP:UniProtKB.
+DR   GO; GO:0016337; P:single organismal cell-cell adhesion; IEA:Ensembl.
+DR   GO; GO:0007601; P:visual perception; IEA:UniProtKB-KW.
+DR   GO; GO:0042060; P:wound healing; IEA:Ensembl.
+DR   Gene3D; 2.60.40.60; -; 5.
+DR   Gene3D; 4.10.900.10; -; 1.
+DR   InterPro; IPR002126; Cadherin.
+DR   InterPro; IPR015919; Cadherin-like.
+DR   InterPro; IPR020894; Cadherin_CS.
+DR   InterPro; IPR000233; Cadherin_cytoplasmic-dom.
+DR   InterPro; IPR027397; Catenin_binding_dom.
+DR   Pfam; PF00028; Cadherin; 4.
+DR   Pfam; PF01049; Cadherin_C; 1.
+DR   PRINTS; PR00205; CADHERIN.
+DR   SMART; SM00112; CA; 4.
+DR   SUPFAM; SSF49313; SSF49313; 5.
+DR   PROSITE; PS00232; CADHERIN_1; 3.
+DR   PROSITE; PS50268; CADHERIN_2; 5.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Calcium; Cell adhesion;
+KW   Cell membrane; Cleavage on pair of basic residues; Complete proteome;
+KW   Disease mutation; Ectodermal dysplasia; Glycoprotein; Hypotrichosis;
+KW   Membrane; Metal-binding; Polymorphism; Reference proteome; Repeat;
+KW   Sensory transduction; Signal; Transmembrane; Transmembrane helix;
+KW   Vision.
+FT   SIGNAL        1     24       {ECO:0000255}.
+FT   PROPEP       25    107
+FT                                /FTId=PRO_0000003745.
+FT   CHAIN       108    829       Cadherin-3.
+FT                                /FTId=PRO_0000003746.
+FT   TOPO_DOM    108    654       Extracellular. {ECO:0000255}.
+FT   TRANSMEM    655    677       Helical. {ECO:0000255}.
+FT   TOPO_DOM    678    829       Cytoplasmic. {ECO:0000255}.
+FT   DOMAIN      108    215       Cadherin 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00043}.
+FT   DOMAIN      216    328       Cadherin 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00043}.
+FT   DOMAIN      329    440       Cadherin 3. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00043}.
+FT   DOMAIN      441    546       Cadherin 4. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00043}.
+FT   DOMAIN      547    650       Cadherin 5. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00043}.
+FT   COMPBIAS    785    800       Ser-rich.
+FT   CARBOHYD    200    200       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    566    566       N-linked (GlcNAc...). {ECO:0000255}.
+FT   VAR_SEQ     761    829       NLKAANTDPTAPPYDTLLVFDYEGSGSDAASLSSLTSSASD
+FT                                QDQDYDYLNEWGSRFKKLADMYGGGEDD -> GRGERGSQR
+FT                                GNGGLQLARGRTRRS (in isoform 2).
+FT                                {ECO:0000303|PubMed:15489334}.
+FT                                /FTId=VSP_024820.
+FT   VARIANT     237    237       V -> M (in dbSNP:rs17854171).
+FT                                {ECO:0000269|PubMed:15489334}.
+FT                                /FTId=VAR_031929.
+FT   VARIANT     322    322       N -> I (in EEMS).
+FT                                {ECO:0000269|PubMed:15805154}.
+FT                                /FTId=VAR_033010.
+FT   VARIANT     477    477       R -> H (in dbSNP:rs34494880).
+FT                                /FTId=VAR_031930.
+FT   VARIANT     503    503       R -> H (in HJMD).
+FT                                {ECO:0000269|PubMed:12445216}.
+FT                                /FTId=VAR_015422.
+FT   VARIANT     563    563       Q -> H (in dbSNP:rs1126933).
+FT                                {ECO:0000269|PubMed:14702039,
+FT                                ECO:0000269|PubMed:15805154,
+FT                                ECO:0000269|PubMed:2793940,
+FT                                ECO:0000269|Ref.3}.
+FT                                /FTId=VAR_031931.
+FT   STRAND      114    119       {ECO:0000244|PDB:4OY9}.
+FT   STRAND      124    130       {ECO:0000244|PDB:4OY9}.
+FT   HELIX       134    137       {ECO:0000244|PDB:4OY9}.
+FT   STRAND      141    148       {ECO:0000244|PDB:4OY9}.
+FT   TURN        149    151       {ECO:0000244|PDB:4OY9}.
+FT   STRAND      152    154       {ECO:0000244|PDB:4OY9}.
+FT   STRAND      157    160       {ECO:0000244|PDB:4OY9}.
+FT   TURN        162    164       {ECO:0000244|PDB:4OY9}.
+FT   STRAND      166    169       {ECO:0000244|PDB:4OY9}.
+FT   TURN        175    177       {ECO:0000244|PDB:4OY9}.
+FT   STRAND      179    189       {ECO:0000244|PDB:4OY9}.
+FT   STRAND      199    206       {ECO:0000244|PDB:4OY9}.
+FT   STRAND      214    216       {ECO:0000244|PDB:4OY9}.
+FT   STRAND      218    225       {ECO:0000244|PDB:4OY9}.
+FT   STRAND      233    236       {ECO:0000244|PDB:4OY9}.
+FT   STRAND      246    249       {ECO:0000244|PDB:4OY9}.
+FT   STRAND      254    262       {ECO:0000244|PDB:4OY9}.
+FT   STRAND      270    272       {ECO:0000244|PDB:4OY9}.
+FT   TURN        274    276       {ECO:0000244|PDB:4OY9}.
+FT   STRAND      278    281       {ECO:0000244|PDB:4OY9}.
+FT   TURN        288    290       {ECO:0000244|PDB:4OY9}.
+FT   STRAND      293    301       {ECO:0000244|PDB:4OY9}.
+FT   HELIX       303    305       {ECO:0000244|PDB:4OY9}.
+FT   STRAND      309    319       {ECO:0000244|PDB:4OY9}.
+SQ   SEQUENCE   829 AA;  91418 MW;  7C03C8536CD98C7B CRC64;
+     MGLPRGPLAS LLLLQVCWLQ CAASEPCRAV FREAEVTLEA GGAEQEPGQA LGKVFMGCPG
+     QEPALFSTDN DDFTVRNGET VQERRSLKER NPLKIFPSKR ILRRHKRDWV VAPISVPENG
+     KGPFPQRLNQ LKSNKDRDTK IFYSITGPGA DSPPEGVFAV EKETGWLLLN KPLDREEIAK
+     YELFGHAVSE NGASVEDPMN ISIIVTDQND HKPKFTQDTF RGSVLEGVLP GTSVMQVTAT
+     DEDDAIYTYN GVVAYSIHSQ EPKDPHDLMF TIHRSTGTIS VISSGLDREK VPEYTLTIQA
+     TDMDGDGSTT TAVAVVEILD ANDNAPMFDP QKYEAHVPEN AVGHEVQRLT VTDLDAPNSP
+     AWRATYLIMG GDDGDHFTIT THPESNQGIL TTRKGLDFEA KNQHTLYVEV TNEAPFVLKL
+     PTSTATIVVH VEDVNEAPVF VPPSKVVEVQ EGIPTGEPVC VYTAEDPDKE NQKISYRILR
+     DPAGWLAMDP DSGQVTAVGT LDREDEQFVR NNIYEVMVLA MDNGSPPTTG TGTLLLTLID
+     VNDHGPVPEP RQITICNQSP VRQVLNITDK DLSPHTSPFQ AQLTDDSDIY WTAEVNEEGD
+     TVVLSLKKFL KQDTYDVHLS LSDHGNKEQL TVIRATVCDC HGHVETCPGP WKGGFILPVL
+     GAVLALLFLL LVLLLLVRKK RKIKEPLLLP EDDTRDNVFY YGEEGGGEED QDYDITQLHR
+     GLEARPEVVL RNDVAPTIIP TPMYRPRPAN PDEIGNFIIE NLKAANTDPT APPYDTLLVF
+     DYEGSGSDAA SLSSLTSSAS DQDQDYDYLN EWGSRFKKLA DMYGGGEDD
+//

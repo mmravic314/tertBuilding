@@ -1,0 +1,188 @@
+ID   DNCV_VIBCH              Reviewed;         436 AA.
+AC   Q9KVG7;
+DT   16-OCT-2013, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2000, sequence version 1.
+DT   22-JUL-2015, entry version 51.
+DE   RecName: Full=Cyclic AMP-GMP synthase;
+DE            Short=c-AMP-GMP synthase;
+DE            EC=2.7.7.- {ECO:0000269|PubMed:22500802, ECO:0000269|PubMed:25131990};
+DE   AltName: Full=Dinucleotide cyclase DncV;
+GN   Name=dncV; OrderedLocusNames=VC_0179;
+OS   Vibrio cholerae serotype O1 (strain ATCC 39315 / El Tor Inaba N16961).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales;
+OC   Vibrionaceae; Vibrio.
+OX   NCBI_TaxID=243277;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 39315 / El Tor Inaba N16961;
+RX   PubMed=10952301; DOI=10.1038/35020000;
+RA   Heidelberg J.F., Eisen J.A., Nelson W.C., Clayton R.A., Gwinn M.L.,
+RA   Dodson R.J., Haft D.H., Hickey E.K., Peterson J.D., Umayam L.A.,
+RA   Gill S.R., Nelson K.E., Read T.D., Tettelin H., Richardson D.L.,
+RA   Ermolaeva M.D., Vamathevan J.J., Bass S., Qin H., Dragoi I.,
+RA   Sellers P., McDonald L.A., Utterback T.R., Fleischmann R.D.,
+RA   Nierman W.C., White O., Salzberg S.L., Smith H.O., Colwell R.R.,
+RA   Mekalanos J.J., Venter J.C., Fraser C.M.;
+RT   "DNA sequence of both chromosomes of the cholera pathogen Vibrio
+RT   cholerae.";
+RL   Nature 406:477-483(2000).
+RN   [2]
+RP   FUNCTION, CATALYTIC ACTIVITY, SUBSTRATE SPECIFICITY, GENE NAME,
+RP   INDUCTION, DISRUPTION PHENOTYPE, AND MUTAGENESIS OF 131-ASP--ASP-133.
+RC   STRAIN=ATCC 55056 / El Tor Ogawa E7946, and El Tor C6706;
+RX   PubMed=22500802; DOI=10.1016/j.cell.2012.01.053;
+RA   Davies B.W., Bogard R.W., Young T.S., Mekalanos J.J.;
+RT   "Coordinated regulation of accessory genetic elements produces cyclic
+RT   di-nucleotides for V. cholerae virulence.";
+RL   Cell 149:358-370(2012).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (1.80 ANGSTROMS) OF 3-413 IN COMPLEX WITH
+RP   MAGNESIUM AND CYCLIC DINUCLEOTIDE, FUNCTION, CATALYTIC ACTIVITY,
+RP   ENZYME REGULATION, COFACTOR, SUBUNIT, AND MUTAGENESIS OF GLN-112 AND
+RP   ILE-257.
+RX   PubMed=25131990; DOI=10.1016/j.cell.2014.07.028;
+RA   Kranzusch P.J., Lee A.S., Wilson S.C., Solovykh M.S., Vance R.E.,
+RA   Berger J.M., Doudna J.A.;
+RT   "Structure-guided reprogramming of human cGAS dinucleotide linkage
+RT   specificity.";
+RL   Cell 158:1011-1021(2014).
+CC   -!- FUNCTION: Catalyzes the synthesis of cyclic AMP-GMP from ATP and
+CC       GTP. Is also able to produce c-di-AMP and c-di-GMP from ATP and
+CC       GTP, respectively; however, c-AMP-GMP is the dominant molecule
+CC       produced by DncV in vivo, contrary to the c-GMP-AMP produced by
+CC       eukaryotes. Is required for efficient V.cholerae intestinal
+CC       colonization, and down-regulates the colonization-influencing
+CC       process of chemotaxis. Is not active with dATP, TTP, UTP, and CTP.
+CC       {ECO:0000269|PubMed:22500802, ECO:0000269|PubMed:25131990}.
+CC   -!- CATALYTIC ACTIVITY: ATP + GTP = 2 diphosphate + cyclic A-P(3'-
+CC       5')G-P(3'-5'). {ECO:0000269|PubMed:22500802,
+CC       ECO:0000269|PubMed:25131990}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000269|PubMed:25131990};
+CC       Note=Binds 1 Mg(2+) ion per subunit.
+CC       {ECO:0000269|PubMed:25131990};
+CC   -!- ENZYME REGULATION: Lacks a regulatory loop and is constitutively
+CC       activated. {ECO:0000269|PubMed:25131990}.
+CC   -!- SUBUNIT: Monomer. {ECO:0000269|PubMed:25131990}.
+CC   -!- INDUCTION: Expression is repressed by the transcriptional
+CC       regulator VspR. {ECO:0000269|PubMed:22500802}.
+CC   -!- DISRUPTION PHENOTYPE: Cells lacking this gene show a significant
+CC       defect in intestinal colonization. {ECO:0000269|PubMed:22500802}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE003852; AAF93355.1; -; Genomic_DNA.
+DR   PIR; F82354; F82354.
+DR   RefSeq; NP_229836.1; NC_002505.1.
+DR   RefSeq; WP_001901330.1; NC_002505.1.
+DR   PDB; 4TXY; X-ray; 3.00 A; A/B=3-413.
+DR   PDB; 4TXZ; X-ray; 2.80 A; A/B=3-413.
+DR   PDB; 4TY0; X-ray; 1.80 A; A/B=3-413.
+DR   PDB; 4U03; X-ray; 2.04 A; A/B=1-419.
+DR   PDB; 4U0L; X-ray; 2.10 A; A/B=1-419.
+DR   PDB; 4U0M; X-ray; 2.30 A; A/B=1-419.
+DR   PDB; 4U0N; X-ray; 2.10 A; A/B=1-419.
+DR   PDB; 4XJ1; X-ray; 1.77 A; A=1-215, A=242-412.
+DR   PDB; 4XJ3; X-ray; 1.65 A; A=1-215, A=242-412.
+DR   PDB; 4XJ4; X-ray; 1.60 A; A=1-215, A=242-412.
+DR   PDB; 4XJ5; X-ray; 1.55 A; A=1-215, A=242-412.
+DR   PDBsum; 4TXY; -.
+DR   PDBsum; 4TXZ; -.
+DR   PDBsum; 4TY0; -.
+DR   PDBsum; 4U03; -.
+DR   PDBsum; 4U0L; -.
+DR   PDBsum; 4U0M; -.
+DR   PDBsum; 4U0N; -.
+DR   PDBsum; 4XJ1; -.
+DR   PDBsum; 4XJ3; -.
+DR   PDBsum; 4XJ4; -.
+DR   PDBsum; 4XJ5; -.
+DR   STRING; 243277.VC0179; -.
+DR   DNASU; 2614190; -.
+DR   EnsemblBacteria; AAF93355; AAF93355; VC_0179.
+DR   GeneID; 2614190; -.
+DR   KEGG; vch:VC0179; -.
+DR   PATRIC; 20079408; VBIVibCho83274_0163.
+DR   OMA; CIRIEIA; -.
+DR   OrthoDB; EOG6ZPSW3; -.
+DR   BioCyc; VCHO:VC0179-MONOMER; -.
+DR   Proteomes; UP000000584; Chromosome 1.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0061501; F:cyclic-GMP-AMP synthase activity; IDA:UniProtKB.
+DR   GO; GO:0052621; F:diguanylate cyclase activity; IDA:UniProtKB.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0009190; P:cyclic nucleotide biosynthetic process; IDA:UniProtKB.
+DR   GO; GO:0050922; P:negative regulation of chemotaxis; IDA:UniProtKB.
+DR   GO; GO:0009405; P:pathogenesis; IMP:UniProtKB.
+PE   1: Evidence at protein level;
+KW   3D-structure; ATP-binding; Complete proteome; GTP-binding; Magnesium;
+KW   Metal-binding; Nucleotide-binding; Nucleotidyltransferase;
+KW   Reference proteome; Transferase.
+FT   CHAIN         1    436       Cyclic AMP-GMP synthase.
+FT                                /FTId=PRO_0000423945.
+FT   NP_BIND     112    117       GTP. {ECO:0000269|PubMed:25131990}.
+FT   METAL       131    131       Magnesium; catalytic.
+FT                                {ECO:0000269|PubMed:25131990}.
+FT   METAL       133    133       Magnesium; catalytic.
+FT                                {ECO:0000269|PubMed:25131990}.
+FT   METAL       193    193       Magnesium; catalytic.
+FT                                {ECO:0000269|PubMed:25131990}.
+FT   BINDING     182    182       ATP. {ECO:0000269|PubMed:25131990}.
+FT   BINDING     259    259       ATP. {ECO:0000269|PubMed:25131990}.
+FT   BINDING     287    287       GTP. {ECO:0000269|PubMed:25131990}.
+FT   BINDING     301    301       GTP. {ECO:0000269|PubMed:25131990}.
+FT   BINDING     348    348       GTP. {ECO:0000269|PubMed:25131990}.
+FT   MUTAGEN     112    112       Q->T: Abolishes enzyme activity.
+FT                                {ECO:0000269|PubMed:25131990}.
+FT   MUTAGEN     131    133       DID->AIA: Loss of catalytic activity.
+FT                                Lack of effect on chemotaxis.
+FT                                {ECO:0000269|PubMed:22500802}.
+FT   MUTAGEN     257    257       I->R: No effect on enzyme activity.
+FT                                {ECO:0000269|PubMed:25131990}.
+FT   STRAND        3      6       {ECO:0000244|PDB:4XJ5}.
+FT   HELIX         8     12       {ECO:0000244|PDB:4XJ5}.
+FT   TURN         14     16       {ECO:0000244|PDB:4XJ5}.
+FT   HELIX        18     22       {ECO:0000244|PDB:4XJ5}.
+FT   HELIX        26     59       {ECO:0000244|PDB:4XJ5}.
+FT   HELIX        64     72       {ECO:0000244|PDB:4XJ5}.
+FT   HELIX        75     78       {ECO:0000244|PDB:4XJ5}.
+FT   HELIX        81     93       {ECO:0000244|PDB:4XJ5}.
+FT   HELIX        96    103       {ECO:0000244|PDB:4XJ5}.
+FT   STRAND      108    112       {ECO:0000244|PDB:4XJ5}.
+FT   HELIX       113    115       {ECO:0000244|PDB:4XJ5}.
+FT   TURN        116    118       {ECO:0000244|PDB:4XJ5}.
+FT   STRAND      130    140       {ECO:0000244|PDB:4XJ5}.
+FT   STRAND      144    146       {ECO:0000244|PDB:4XJ4}.
+FT   HELIX       151    168       {ECO:0000244|PDB:4XJ5}.
+FT   STRAND      172    176       {ECO:0000244|PDB:4XJ5}.
+FT   STRAND      181    185       {ECO:0000244|PDB:4XJ5}.
+FT   HELIX       186    188       {ECO:0000244|PDB:4XJ5}.
+FT   STRAND      190    194       {ECO:0000244|PDB:4XJ5}.
+FT   STRAND      196    200       {ECO:0000244|PDB:4XJ5}.
+FT   HELIX       201    213       {ECO:0000244|PDB:4TY0}.
+FT   HELIX       242    244       {ECO:0000244|PDB:4XJ5}.
+FT   STRAND      246    248       {ECO:0000244|PDB:4XJ5}.
+FT   STRAND      250    253       {ECO:0000244|PDB:4XJ5}.
+FT   STRAND      255    258       {ECO:0000244|PDB:4XJ5}.
+FT   HELIX       261    275       {ECO:0000244|PDB:4XJ5}.
+FT   HELIX       278    293       {ECO:0000244|PDB:4XJ5}.
+FT   HELIX       301    314       {ECO:0000244|PDB:4XJ5}.
+FT   HELIX       322    338       {ECO:0000244|PDB:4XJ5}.
+FT   HELIX       356    358       {ECO:0000244|PDB:4XJ5}.
+FT   HELIX       361    381       {ECO:0000244|PDB:4XJ5}.
+FT   HELIX       386    397       {ECO:0000244|PDB:4XJ5}.
+FT   HELIX       404    406       {ECO:0000244|PDB:4XJ5}.
+FT   STRAND      407    411       {ECO:0000244|PDB:4XJ5}.
+SQ   SEQUENCE   436 AA;  49363 MW;  FB462969F3628BE6 CRC64;
+     MRMTWNFHQY YTNRNDGLMG KLVLTDEEKN NLKALRKIIR LRTRDVFEEA KGIAKAVKKS
+     ALTFEIIQEK VSTTQIKHLS DSEQREVAKL IYEMDDDARD EFLGLTPRFW TQGSFQYDTL
+     NRPFQPGQEM DIDDGTYMPM PIFESEPKIG HSLLILLVDA SLKSLVAENH GWKFEAKQTC
+     GRIKIEAEKT HIDVPMYAIP KDEFQKKQIA LEANRSFVKG AIFESYVADS ITDDSETYEL
+     DSENVNLALR EGDRKWINSD PKIVEDWFND SCIRIGKHLR KVCRFMKAWR DAQWDVGGPS
+     SISLMAATVN ILDSVAHDAS DLGETMKIIA KHLPSEFARG VESPDSTDEK PLFPPSYKHG
+     PREMDIMSKL ERLPEILSSA ESADSKSEAL KKINMAFGNR VTNSELIVLA KALPAFAQEP
+     SSASKPEKIS STMVSG
+//

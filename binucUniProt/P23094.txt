@@ -1,0 +1,440 @@
+ID   NDOB_PSEPU              Reviewed;         449 AA.
+AC   P0A110; O07830; O33461; P23094; Q52124;
+DT   01-MAR-2005, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAR-2005, sequence version 1.
+DT   22-JUL-2015, entry version 70.
+DE   RecName: Full=Naphthalene 1,2-dioxygenase subunit alpha;
+DE            EC=1.14.12.12;
+DE   AltName: Full=Naphthalene 1,2-dioxygenase ISP alpha;
+GN   Name=ndoB; Synonyms=nahA3, nahAC, ndoC2;
+OS   Pseudomonas putida (Arthrobacter siderocapsulatus).
+OG   Plasmid pDTG1, Plasmid NAH7, and Plasmid NPL1.
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+OC   Pseudomonadaceae; Pseudomonas.
+OX   NCBI_TaxID=303;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=DSM 8368 / NCIMB 9816;
+RX   PubMed=3243438; DOI=10.1016/0378-1119(88)90500-8;
+RA   Kurkela S., Lehvaeslaiho H., Palva E.T., Teeri T.H.;
+RT   "Cloning, nucleotide sequence and characterization of genes encoding
+RT   naphthalene dioxygenase of Pseudomonas putida strain NCIB9816.";
+RL   Gene 73:355-362(1988).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=NCIMB 9816-4; PLASMID=pDTG1;
+RX   PubMed=8973308; DOI=10.1016/S0378-1119(96)00462-3;
+RA   Parales J.V., Kumar A., Parales R.E., Gibson D.T.;
+RT   "Cloning and sequencing of the genes encoding 2-nitrotoluene
+RT   dioxygenase from Pseudomonas sp. JS42.";
+RL   Gene 181:57-61(1996).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 17485 / DSM 50208 / JCM 6158 / NCIMB 12092 / Stanier 111 /
+RC   Biotype A; PLASMID=NAH7;
+RX   PubMed=8486285; DOI=10.1016/0378-1119(93)90613-8;
+RA   Simon M.J., Osslund T.D., Saunders R., Ensley B.D., Suggs S.,
+RA   Harcourt A.A., Suen W.-C., Cruden D.L., Gibson D.T., Zylstra G.J.;
+RT   "Sequences of genes encoding naphthalene dioxygenase in Pseudomonas
+RT   putida strains G7 and NCIB 9816-4.";
+RL   Gene 127:31-37(1993).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=BS202; PLASMID=NPL1;
+RA   Bezborodnikov S.G., Boronin A.M., Tiedje J.M.;
+RT   "Nucleotide sequences of genes encoding an upper pathway of
+RT   naphthalene metabolism of NPL1 plasmid from Pseudomonas putida strain
+RT   BS202.";
+RL   Submitted (JUL-1997) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 17484 / DSM 50222 / NCIMB 10535 / Stanier 110 / Biotype B;
+RA   Hamann C.;
+RT   "Naphthalene dioxygenase genes from Pseudomonas putida.";
+RL   Submitted (JUN-1997) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (2.25 ANGSTROMS).
+RC   STRAIN=NCIMB 9816-4;
+RX   PubMed=9634695; DOI=10.1016/S0969-2126(98)00059-8;
+RA   Kauppi B., Lee K., Carredano E., Parales R.E., Gibson D.T., Eklund H.,
+RA   Ramaswamy S.;
+RT   "Structure of an aromatic-ring-hydroxylating dioxygenase-naphthalene
+RT   1,2-dioxygenase.";
+RL   Structure 6:571-586(1998).
+CC   -!- FUNCTION: Component of the naphthalene dioxygenase (NDO)
+CC       multicomponent enzyme system which catalyzes the incorporation of
+CC       both atoms of molecular oxygen into naphthalene to form cis-
+CC       naphthalene dihydrodiol.
+CC   -!- CATALYTIC ACTIVITY: Naphthalene + NADH + O(2) = (1R,2S)-1,2-
+CC       dihydronaphthalene-1,2-diol + NAD(+).
+CC   -!- COFACTOR:
+CC       Name=[2Fe-2S] cluster; Xref=ChEBI:CHEBI:49601;
+CC         Evidence={ECO:0000305};
+CC       Note=Binds 1 [2Fe-2S] cluster. {ECO:0000305};
+CC   -!- COFACTOR:
+CC       Name=Fe cation; Xref=ChEBI:CHEBI:24875; Evidence={ECO:0000305};
+CC       Note=Binds 1 Fe cation. {ECO:0000305};
+CC   -!- PATHWAY: Aromatic compound metabolism; naphthalene degradation.
+CC   -!- SUBUNIT: Naphthalene dioxygenase (NDO) multicomponent enzyme
+CC       system is composed of an electron transfer component and an iron
+CC       sulfur protein (ISP). The electron transfer component is composed
+CC       of ferredoxin reductase (NdoR) and ferredoxin (NdoA), and ISP is
+CC       composed of a large alpha subunit (NdoB) and a small beta subunit
+CC       (NdoC).
+CC   -!- INTERACTION:
+CC       P0A112:ndoC; NbExp=7; IntAct=EBI-1029015, EBI-1029028;
+CC   -!- SIMILARITY: Belongs to the bacterial ring-hydroxylating
+CC       dioxygenase alpha subunit family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 Rieske domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00628}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M23914; AAB47591.1; -; Genomic_DNA.
+DR   EMBL; U49496; AAA92141.1; -; Genomic_DNA.
+DR   EMBL; M83949; AAA25902.1; -; Genomic_DNA.
+DR   EMBL; AF010471; AAB62707.1; -; Genomic_DNA.
+DR   EMBL; AF004284; AAB61373.1; -; Genomic_DNA.
+DR   PIR; JN0644; JN0644.
+DR   PIR; JS0071; JS0071.
+DR   RefSeq; NP_863072.1; NC_004999.1.
+DR   RefSeq; WP_011117400.1; NC_004999.1.
+DR   RefSeq; WP_032489002.1; NG_034878.1.
+DR   RefSeq; YP_009075105.1; NG_034878.1.
+DR   RefSeq; YP_534822.1; NC_007926.1.
+DR   PDB; 1EG9; X-ray; 1.60 A; A=1-449.
+DR   PDB; 1NDO; X-ray; 2.25 A; A/C/E=1-449.
+DR   PDB; 1O7G; X-ray; 1.70 A; A=1-449.
+DR   PDB; 1O7H; X-ray; 2.20 A; A=1-449.
+DR   PDB; 1O7M; X-ray; 1.75 A; A=1-449.
+DR   PDB; 1O7N; X-ray; 1.40 A; A=1-449.
+DR   PDB; 1O7P; X-ray; 1.95 A; A=1-449.
+DR   PDB; 1O7W; X-ray; 1.90 A; A=1-449.
+DR   PDB; 1UUV; X-ray; 1.65 A; A=1-449.
+DR   PDB; 1UUW; X-ray; 2.30 A; A=1-449.
+DR   PDBsum; 1EG9; -.
+DR   PDBsum; 1NDO; -.
+DR   PDBsum; 1O7G; -.
+DR   PDBsum; 1O7H; -.
+DR   PDBsum; 1O7M; -.
+DR   PDBsum; 1O7N; -.
+DR   PDBsum; 1O7P; -.
+DR   PDBsum; 1O7W; -.
+DR   PDBsum; 1UUV; -.
+DR   PDBsum; 1UUW; -.
+DR   ProteinModelPortal; P0A110; -.
+DR   SMR; P0A110; 1-447.
+DR   IntAct; P0A110; 1.
+DR   MINT; MINT-257428; -.
+DR   GeneID; 1343187; -.
+DR   GeneID; 3974209; -.
+DR   KEGG; pg:1343187; -.
+DR   KEGG; pg:3974209; -.
+DR   KO; K14579; -.
+DR   BioCyc; MetaCyc:MONOMER-12802; -.
+DR   BRENDA; 1.14.12.12; 5092.
+DR   UniPathway; UPA00082; -.
+DR   EvolutionaryTrace; P0A110; -.
+DR   GO; GO:0051537; F:2 iron, 2 sulfur cluster binding; IEA:UniProtKB-KW.
+DR   GO; GO:0005506; F:iron ion binding; IEA:InterPro.
+DR   GO; GO:0018625; F:naphthalene 1,2-dioxygenase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0019439; P:aromatic compound catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 2.102.10.10; -; 1.
+DR   Gene3D; 3.90.380.10; -; 1.
+DR   InterPro; IPR017941; Rieske_2Fe-2S.
+DR   InterPro; IPR015881; Ring-hydroxy_dOase_2Fe2S_BS.
+DR   InterPro; IPR015879; Ring_hydroxy_dOase_asu_C_dom.
+DR   InterPro; IPR001663; Rng_hydr_dOase-A.
+DR   Pfam; PF00355; Rieske; 1.
+DR   Pfam; PF00848; Ring_hydroxyl_A; 1.
+DR   PRINTS; PR00090; RNGDIOXGNASE.
+DR   SUPFAM; SSF50022; SSF50022; 1.
+DR   PROSITE; PS51296; RIESKE; 1.
+DR   PROSITE; PS00570; RING_HYDROXYL_ALPHA; 1.
+PE   1: Evidence at protein level;
+KW   2Fe-2S; 3D-structure; Aromatic hydrocarbons catabolism; Dioxygenase;
+KW   Iron; Iron-sulfur; Metal-binding; NAD; Oxidoreductase; Plasmid.
+FT   CHAIN         1    449       Naphthalene 1,2-dioxygenase subunit
+FT                                alpha.
+FT                                /FTId=PRO_0000085053.
+FT   DOMAIN       39    137       Rieske. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00628}.
+FT   METAL        81     81       Iron-sulfur (2Fe-2S).
+FT   METAL        83     83       Iron-sulfur (2Fe-2S); via pros nitrogen.
+FT   METAL       101    101       Iron-sulfur (2Fe-2S).
+FT   METAL       104    104       Iron-sulfur (2Fe-2S); via pros nitrogen.
+FT   METAL       208    208       Iron.
+FT   METAL       213    213       Iron.
+FT   METAL       362    362       Iron.
+FT   VARIANT       4      4       N -> K (in strain: G7).
+FT   VARIANT      12     12       S -> F (in strain: ATCC 17484).
+FT   VARIANT      15     15       S -> T (in strain: G7).
+FT   VARIANT      32     32       K -> R (in strain: G7).
+FT   VARIANT      50     50       A -> S (in strain: G7).
+FT   VARIANT      70     70       N -> S (in strain: G7).
+FT   VARIANT      90     91       SV -> NA (in strain: G7).
+FT   VARIANT     122    122       D -> E (in strain: G7).
+FT   VARIANT     173    173       M -> I (in strain: G7).
+FT   VARIANT     225    225       S -> A (in strain: G7).
+FT   VARIANT     225    225       S -> C (in strain: BS202).
+FT   VARIANT     232    232       A -> V (in strain: G7).
+FT   VARIANT     275    275       A -> S (in strain: G7).
+FT   VARIANT     391    391       E -> K (in strain: G7).
+FT   VARIANT     421    421       Q -> R (in strain: ATCC 17484).
+FT   VARIANT     434    434       H -> D (in strain: G7).
+FT   TURN          3      5       {ECO:0000244|PDB:1O7N}.
+FT   HELIX        11     13       {ECO:0000244|PDB:1O7N}.
+FT   STRAND       15     17       {ECO:0000244|PDB:1O7N}.
+FT   HELIX        18     21       {ECO:0000244|PDB:1O7N}.
+FT   HELIX        24     33       {ECO:0000244|PDB:1O7N}.
+FT   TURN         34     37       {ECO:0000244|PDB:1O7N}.
+FT   STRAND       40     44       {ECO:0000244|PDB:1O7N}.
+FT   HELIX        45     47       {ECO:0000244|PDB:1O7N}.
+FT   STRAND       53     59       {ECO:0000244|PDB:1O7N}.
+FT   STRAND       62     68       {ECO:0000244|PDB:1O7N}.
+FT   STRAND       74     80       {ECO:0000244|PDB:1O7N}.
+FT   TURN         82     84       {ECO:0000244|PDB:1O7N}.
+FT   STRAND       91     95       {ECO:0000244|PDB:1O7N}.
+FT   STRAND       97    100       {ECO:0000244|PDB:1O7N}.
+FT   TURN        102    104       {ECO:0000244|PDB:1O7N}.
+FT   STRAND      107    109       {ECO:0000244|PDB:1O7N}.
+FT   STRAND      114    116       {ECO:0000244|PDB:1O7N}.
+FT   HELIX       120    123       {ECO:0000244|PDB:1O7N}.
+FT   TURN        124    126       {ECO:0000244|PDB:1O7N}.
+FT   HELIX       130    132       {ECO:0000244|PDB:1O7N}.
+FT   STRAND      139    144       {ECO:0000244|PDB:1O7N}.
+FT   STRAND      147    152       {ECO:0000244|PDB:1O7N}.
+FT   HELIX       159    163       {ECO:0000244|PDB:1O7N}.
+FT   HELIX       166    174       {ECO:0000244|PDB:1O7N}.
+FT   TURN        175    177       {ECO:0000244|PDB:1O7N}.
+FT   STRAND      180    193       {ECO:0000244|PDB:1O7N}.
+FT   HELIX       196    204       {ECO:0000244|PDB:1O7N}.
+FT   HELIX       209    212       {ECO:0000244|PDB:1O7N}.
+FT   HELIX       214    220       {ECO:0000244|PDB:1O7N}.
+FT   HELIX       225    230       {ECO:0000244|PDB:1O7N}.
+FT   STRAND      238    243       {ECO:0000244|PDB:1O7N}.
+FT   STRAND      249    253       {ECO:0000244|PDB:1O7N}.
+FT   TURN        257    260       {ECO:0000244|PDB:1O7N}.
+FT   TURN        263    265       {ECO:0000244|PDB:1O7N}.
+FT   HELIX       266    284       {ECO:0000244|PDB:1O7N}.
+FT   HELIX       286    292       {ECO:0000244|PDB:1O7N}.
+FT   STRAND      294    300       {ECO:0000244|PDB:1O7N}.
+FT   TURN        301    303       {ECO:0000244|PDB:1O7N}.
+FT   STRAND      304    307       {ECO:0000244|PDB:1O7N}.
+FT   TURN        308    311       {ECO:0000244|PDB:1O7N}.
+FT   STRAND      312    320       {ECO:0000244|PDB:1O7N}.
+FT   STRAND      323    333       {ECO:0000244|PDB:1O7N}.
+FT   HELIX       338    352       {ECO:0000244|PDB:1O7N}.
+FT   HELIX       357    372       {ECO:0000244|PDB:1O7N}.
+FT   TURN        376    380       {ECO:0000244|PDB:1O7N}.
+FT   STRAND      382    384       {ECO:0000244|PDB:1O7N}.
+FT   TURN        387    390       {ECO:0000244|PDB:1O7N}.
+FT   STRAND      393    395       {ECO:0000244|PDB:1O7N}.
+FT   STRAND      397    399       {ECO:0000244|PDB:1O7N}.
+FT   STRAND      401    408       {ECO:0000244|PDB:1O7N}.
+FT   HELIX       411    424       {ECO:0000244|PDB:1O7N}.
+FT   HELIX       429    435       {ECO:0000244|PDB:1O7N}.
+FT   TURN        436    438       {ECO:0000244|PDB:1O7N}.
+FT   HELIX       439    444       {ECO:0000244|PDB:1O7N}.
+SQ   SEQUENCE   449 AA;  49608 MW;  1FD2F42296B4F7A8 CRC64;
+     MNYNNKILVS ESGLSQKHLI HGDEELFQHE LKTIFARNWL FLTHDSLIPA PGDYVTAKMG
+     IDEVIVSRQN DGSIRAFLNV CRHRGKTLVS VEAGNAKGFV CSYHGWGFGS NGELQSVPFE
+     KDLYGESLNK KCLGLKEVAR VESFHGFIYG CFDQEAPPLM DYLGDAAWYL EPMFKHSGGL
+     ELVGPPGKVV IKANWKAPAE NFVGDAYHVG WTHASSLRSG ESIFSSLAGN AALPPEGAGL
+     QMTSKYGSGM GVLWDGYSGV HSADLVPELM AFGGAKQERL NKEIGDVRAR IYRSHLNCTV
+     FPNNSMLTCS GVFKVWNPID ANTTEVWTYA IVEKDMPEDL KRRLADSVQR TFGPAGFWES
+     DDNDNMETAS QNGKKYQSRD SDLLSNLGFG EDVYGDAVYP GVVGKSAIGE TSYRGFYRAY
+     QAHVSSSNWA EFEHASSTWH TELTKTTDR
+//
+ID   NDOB_PSEU8              Reviewed;         449 AA.
+AC   P0A111; O07830; O33461; P23094; Q52124;
+DT   01-MAR-2005, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAR-2005, sequence version 1.
+DT   27-MAY-2015, entry version 55.
+DE   RecName: Full=Naphthalene 1,2-dioxygenase subunit alpha;
+DE            EC=1.14.12.12;
+DE   AltName: Full=Naphthalene 1,2-dioxygenase ISP alpha;
+GN   Name=doxB;
+OS   Pseudomonas sp. (strain C18).
+OG   Plasmid unnamed.
+OC   Bacteria; Proteobacteria.
+OX   NCBI_TaxID=69011;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=C18; PLASMID=unnamed;
+RX   PubMed=8226631;
+RA   Denome S.A., Stanley D.C., Olson E.S., Young K.D.;
+RT   "Metabolism of dibenzothiophene and naphthalene in Pseudomonas
+RT   strains: complete DNA sequence of an upper naphthalene catabolic
+RT   pathway.";
+RL   J. Bacteriol. 175:6890-6901(1993).
+CC   -!- FUNCTION: Component of the naphthalene dioxygenase (NDO)
+CC       multicomponent enzyme system which catalyzes the incorporation of
+CC       both atoms of molecular oxygen into naphthalene to form cis-
+CC       naphthalene dihydrodiol.
+CC   -!- CATALYTIC ACTIVITY: Naphthalene + NADH + O(2) = (1R,2S)-1,2-
+CC       dihydronaphthalene-1,2-diol + NAD(+).
+CC   -!- COFACTOR:
+CC       Name=[2Fe-2S] cluster; Xref=ChEBI:CHEBI:49601;
+CC         Evidence={ECO:0000250};
+CC       Note=Binds 1 [2Fe-2S] cluster. {ECO:0000250};
+CC   -!- COFACTOR:
+CC       Name=Fe cation; Xref=ChEBI:CHEBI:24875; Evidence={ECO:0000250};
+CC       Note=Binds 1 Fe cation. {ECO:0000250};
+CC   -!- PATHWAY: Aromatic compound metabolism; naphthalene degradation.
+CC   -!- SUBUNIT: Naphthalene dioxygenase (NDO) multicomponent enzyme
+CC       system is composed of an electron transfer component and an iron
+CC       sulfur protein (ISP). The electron transfer component is composed
+CC       of ferredoxin reductase and ferredoxin (DoxA), and ISP is composed
+CC       of a large alpha subunit (DoxB) and a small beta subunit (DoxD)
+CC       (Probable). {ECO:0000305}.
+CC   -!- MISCELLANEOUS: Encoded on an unnamed 75 kb plasmid.
+CC       {ECO:0000305|PubMed:8226631}.
+CC   -!- SIMILARITY: Belongs to the bacterial ring-hydroxylating
+CC       dioxygenase alpha subunit family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 Rieske domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00628}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M60405; AAA16125.1; -; Genomic_DNA.
+DR   PIR; S27632; S27632.
+DR   PDB; 2HMJ; X-ray; 1.50 A; A=1-449.
+DR   PDB; 2HMK; X-ray; 1.65 A; A=1-449.
+DR   PDB; 2HML; X-ray; 1.80 A; A=1-449.
+DR   PDB; 2HMM; X-ray; 1.60 A; A=1-449.
+DR   PDB; 2HMN; X-ray; 1.70 A; A=1-449.
+DR   PDB; 2HMO; X-ray; 1.60 A; A=1-449.
+DR   PDB; 4HJL; X-ray; 1.50 A; A=1-446.
+DR   PDB; 4HKV; X-ray; 1.65 A; A=1-449.
+DR   PDB; 4HM0; X-ray; 1.80 A; A=1-449.
+DR   PDB; 4HM1; X-ray; 1.50 A; A=1-449.
+DR   PDB; 4HM2; X-ray; 1.60 A; A=1-449.
+DR   PDB; 4HM3; X-ray; 1.50 A; A=1-449.
+DR   PDB; 4HM4; X-ray; 1.50 A; A=1-449.
+DR   PDB; 4HM5; X-ray; 1.50 A; A=1-449.
+DR   PDB; 4HM6; X-ray; 1.50 A; A=1-449.
+DR   PDB; 4HM7; X-ray; 1.50 A; A=1-449.
+DR   PDB; 4HM8; X-ray; 1.30 A; A=1-449.
+DR   PDBsum; 2HMJ; -.
+DR   PDBsum; 2HMK; -.
+DR   PDBsum; 2HML; -.
+DR   PDBsum; 2HMM; -.
+DR   PDBsum; 2HMN; -.
+DR   PDBsum; 2HMO; -.
+DR   PDBsum; 4HJL; -.
+DR   PDBsum; 4HKV; -.
+DR   PDBsum; 4HM0; -.
+DR   PDBsum; 4HM1; -.
+DR   PDBsum; 4HM2; -.
+DR   PDBsum; 4HM3; -.
+DR   PDBsum; 4HM4; -.
+DR   PDBsum; 4HM5; -.
+DR   PDBsum; 4HM6; -.
+DR   PDBsum; 4HM7; -.
+DR   PDBsum; 4HM8; -.
+DR   ProteinModelPortal; P0A111; -.
+DR   SMR; P0A111; 1-447.
+DR   UniPathway; UPA00082; -.
+DR   EvolutionaryTrace; P0A111; -.
+DR   GO; GO:0051537; F:2 iron, 2 sulfur cluster binding; IEA:UniProtKB-KW.
+DR   GO; GO:0005506; F:iron ion binding; IEA:InterPro.
+DR   GO; GO:0018625; F:naphthalene 1,2-dioxygenase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0019439; P:aromatic compound catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 2.102.10.10; -; 1.
+DR   Gene3D; 3.90.380.10; -; 1.
+DR   InterPro; IPR017941; Rieske_2Fe-2S.
+DR   InterPro; IPR015881; Ring-hydroxy_dOase_2Fe2S_BS.
+DR   InterPro; IPR015879; Ring_hydroxy_dOase_asu_C_dom.
+DR   InterPro; IPR001663; Rng_hydr_dOase-A.
+DR   Pfam; PF00355; Rieske; 1.
+DR   Pfam; PF00848; Ring_hydroxyl_A; 1.
+DR   PRINTS; PR00090; RNGDIOXGNASE.
+DR   SUPFAM; SSF50022; SSF50022; 1.
+DR   PROSITE; PS51296; RIESKE; 1.
+DR   PROSITE; PS00570; RING_HYDROXYL_ALPHA; 1.
+PE   1: Evidence at protein level;
+KW   2Fe-2S; 3D-structure; Aromatic hydrocarbons catabolism; Dioxygenase;
+KW   Iron; Iron-sulfur; Metal-binding; NAD; Oxidoreductase; Plasmid.
+FT   CHAIN         1    449       Naphthalene 1,2-dioxygenase subunit
+FT                                alpha.
+FT                                /FTId=PRO_0000085054.
+FT   DOMAIN       39    137       Rieske. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00628}.
+FT   METAL        81     81       Iron-sulfur (2Fe-2S).
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00628}.
+FT   METAL        83     83       Iron-sulfur (2Fe-2S); via pros nitrogen.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00628}.
+FT   METAL       101    101       Iron-sulfur (2Fe-2S).
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00628}.
+FT   METAL       104    104       Iron-sulfur (2Fe-2S); via pros nitrogen.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00628}.
+FT   METAL       208    208       Iron. {ECO:0000250}.
+FT   METAL       213    213       Iron. {ECO:0000250}.
+FT   METAL       362    362       Iron. {ECO:0000250}.
+FT   TURN          3      5       {ECO:0000244|PDB:4HM8}.
+FT   HELIX        11     13       {ECO:0000244|PDB:4HM8}.
+FT   STRAND       15     17       {ECO:0000244|PDB:4HM8}.
+FT   HELIX        18     21       {ECO:0000244|PDB:4HM8}.
+FT   HELIX        24     33       {ECO:0000244|PDB:4HM8}.
+FT   TURN         34     37       {ECO:0000244|PDB:4HM8}.
+FT   STRAND       40     44       {ECO:0000244|PDB:4HM8}.
+FT   HELIX        45     47       {ECO:0000244|PDB:4HM8}.
+FT   STRAND       53     59       {ECO:0000244|PDB:4HM8}.
+FT   STRAND       62     68       {ECO:0000244|PDB:4HM8}.
+FT   STRAND       74     80       {ECO:0000244|PDB:4HM8}.
+FT   TURN         82     84       {ECO:0000244|PDB:4HM8}.
+FT   STRAND       91     95       {ECO:0000244|PDB:4HM8}.
+FT   STRAND       97    100       {ECO:0000244|PDB:4HM8}.
+FT   TURN        102    104       {ECO:0000244|PDB:4HM8}.
+FT   STRAND      107    109       {ECO:0000244|PDB:4HM8}.
+FT   STRAND      114    116       {ECO:0000244|PDB:4HM8}.
+FT   HELIX       120    123       {ECO:0000244|PDB:4HM8}.
+FT   TURN        124    126       {ECO:0000244|PDB:4HM8}.
+FT   HELIX       130    132       {ECO:0000244|PDB:4HM8}.
+FT   STRAND      139    144       {ECO:0000244|PDB:4HM8}.
+FT   STRAND      147    152       {ECO:0000244|PDB:4HM8}.
+FT   HELIX       159    163       {ECO:0000244|PDB:4HM8}.
+FT   HELIX       166    174       {ECO:0000244|PDB:4HM8}.
+FT   TURN        175    177       {ECO:0000244|PDB:4HM8}.
+FT   STRAND      180    193       {ECO:0000244|PDB:4HM8}.
+FT   HELIX       196    204       {ECO:0000244|PDB:4HM8}.
+FT   HELIX       209    212       {ECO:0000244|PDB:4HM8}.
+FT   HELIX       214    220       {ECO:0000244|PDB:4HM8}.
+FT   HELIX       225    230       {ECO:0000244|PDB:4HM8}.
+FT   STRAND      238    243       {ECO:0000244|PDB:4HM8}.
+FT   STRAND      249    253       {ECO:0000244|PDB:4HM8}.
+FT   TURN        257    260       {ECO:0000244|PDB:4HM8}.
+FT   TURN        263    265       {ECO:0000244|PDB:4HM8}.
+FT   HELIX       266    284       {ECO:0000244|PDB:4HM8}.
+FT   HELIX       286    292       {ECO:0000244|PDB:4HM8}.
+FT   STRAND      294    300       {ECO:0000244|PDB:4HM8}.
+FT   TURN        301    303       {ECO:0000244|PDB:4HM8}.
+FT   STRAND      304    307       {ECO:0000244|PDB:4HM8}.
+FT   TURN        308    311       {ECO:0000244|PDB:4HM8}.
+FT   STRAND      312    320       {ECO:0000244|PDB:4HM8}.
+FT   STRAND      323    333       {ECO:0000244|PDB:4HM8}.
+FT   HELIX       338    352       {ECO:0000244|PDB:4HM8}.
+FT   HELIX       357    372       {ECO:0000244|PDB:4HM8}.
+FT   TURN        376    380       {ECO:0000244|PDB:4HM8}.
+FT   STRAND      382    384       {ECO:0000244|PDB:4HM8}.
+FT   TURN        387    390       {ECO:0000244|PDB:4HM8}.
+FT   STRAND      393    395       {ECO:0000244|PDB:4HM8}.
+FT   STRAND      397    399       {ECO:0000244|PDB:4HM8}.
+FT   STRAND      401    410       {ECO:0000244|PDB:4HM8}.
+FT   HELIX       411    424       {ECO:0000244|PDB:4HM8}.
+FT   HELIX       429    434       {ECO:0000244|PDB:4HM8}.
+FT   TURN        435    438       {ECO:0000244|PDB:4HM8}.
+FT   HELIX       439    444       {ECO:0000244|PDB:4HM8}.
+SQ   SEQUENCE   449 AA;  49608 MW;  1FD2F42296B4F7A8 CRC64;
+     MNYNNKILVS ESGLSQKHLI HGDEELFQHE LKTIFARNWL FLTHDSLIPA PGDYVTAKMG
+     IDEVIVSRQN DGSIRAFLNV CRHRGKTLVS VEAGNAKGFV CSYHGWGFGS NGELQSVPFE
+     KDLYGESLNK KCLGLKEVAR VESFHGFIYG CFDQEAPPLM DYLGDAAWYL EPMFKHSGGL
+     ELVGPPGKVV IKANWKAPAE NFVGDAYHVG WTHASSLRSG ESIFSSLAGN AALPPEGAGL
+     QMTSKYGSGM GVLWDGYSGV HSADLVPELM AFGGAKQERL NKEIGDVRAR IYRSHLNCTV
+     FPNNSMLTCS GVFKVWNPID ANTTEVWTYA IVEKDMPEDL KRRLADSVQR TFGPAGFWES
+     DDNDNMETAS QNGKKYQSRD SDLLSNLGFG EDVYGDAVYP GVVGKSAIGE TSYRGFYRAY
+     QAHVSSSNWA EFEHASSTWH TELTKTTDR
+//

@@ -1,0 +1,172 @@
+ID   NHAB_RHOER              Reviewed;         212 AA.
+AC   P13449; Q59789;
+DT   01-JAN-1990, integrated into UniProtKB/Swiss-Prot.
+DT   01-JAN-1990, sequence version 1.
+DT   24-JUN-2015, entry version 91.
+DE   RecName: Full=Nitrile hydratase subunit beta;
+DE            Short=NHase;
+DE            Short=Nitrilase;
+DE            EC=4.2.1.84;
+GN   Name=nthB; Synonyms=nha2;
+OS   Rhodococcus erythropolis (Arthrobacter picolinophilus).
+OC   Bacteria; Actinobacteria; Corynebacteriales; Nocardiaceae;
+OC   Rhodococcus.
+OX   NCBI_TaxID=1833;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND PARTIAL PROTEIN SEQUENCE.
+RC   STRAIN=N-774;
+RX   PubMed=2659343; DOI=10.1111/j.1432-1033.1989.tb14761.x;
+RA   Ikehata O., Nishiyama M., Horinouchi S., Beppu T.;
+RT   "Primary structure of nitrile hydratase deduced from the nucleotide
+RT   sequence of a Rhodococcus species and its expression in Escherichia
+RT   coli.";
+RL   Eur. J. Biochem. 181:563-570(1989).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=N-774;
+RX   PubMed=2001397; DOI=10.1016/0167-4781(91)90058-T;
+RA   Hashimoto Y., Nishiyama M., Ikehata O., Horinouchi S., Beppu T.;
+RT   "Cloning and characterization of an amidase gene from Rhodococcus
+RT   species N-774 and its expression in Escherichia coli.";
+RL   Biochim. Biophys. Acta 1088:225-233(1991).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ACV2;
+RA   Bigey F., Chebrou H., Arnaud A., Galzy P.;
+RL   Submitted (MAR-1995) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=N-771;
+RX   PubMed=10101282; DOI=10.1093/oxfordjournals.jbchem.a022339;
+RA   Nojiri M., Yohda M., Odaka M., Matsushita Y., Tsujimura M.,
+RA   Yoshida T., Dohmae N., Takio K., Endo I.;
+RT   "Functional expression of nitrile hydratase in Escherichia coli:
+RT   requirement of a nitrile hydratase activator and post-translational
+RT   modification of a ligand cysteine.";
+RL   J. Biochem. 125:696-704(1999).
+RN   [5]
+RP   PROTEIN SEQUENCE OF 1-19.
+RC   STRAIN=N-774;
+RX   PubMed=2920826; DOI=10.1016/0014-5793(89)81218-9;
+RA   Endo T., Watanabe I.;
+RT   "Nitrile hydratase of Rhodococcus sp. N-774. Purification and amino
+RT   acid sequences.";
+RL   FEBS Lett. 243:61-64(1989).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (2.65 ANGSTROMS).
+RC   STRAIN=Brevibacterium sp. R312;
+RX   PubMed=9195885; DOI=10.1016/S0969-2126(97)00223-2;
+RA   Huang W., Jia J., Cummings J., Nelson M., Schneider G., Lindqvist Y.;
+RT   "Crystal structure of nitrile hydratase reveals a novel iron centre in
+RT   a novel fold.";
+RL   Structure 5:691-699(1997).
+RN   [7]
+RP   X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS), AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY.
+RX   PubMed=9586994; DOI=10.1038/nsb0598-347;
+RA   Nagashima S., Nakasako M., Dohmae N., Tsujimura M., Takio K.,
+RA   Odaka M., Yohda M., Kamiya N., Endo I.;
+RT   "Novel non-heme iron center of nitrile hydratase with a claw setting
+RT   of oxygen atoms.";
+RL   Nat. Struct. Biol. 5:347-351(1998).
+CC   -!- FUNCTION: NHase catalyzes the hydration of various nitrile
+CC       compounds to the corresponding amides.
+CC   -!- CATALYTIC ACTIVITY: An aliphatic amide = a nitrile + H(2)O.
+CC   -!- SUBUNIT: Heterodimer of an alpha and a beta chain.
+CC   -!- BIOTECHNOLOGY: Industrial production of acrylamide is now being
+CC       developed using some of these enzymes.
+CC   -!- SIMILARITY: Belongs to the nitrile hydratase subunit beta family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X54074; CAA38011.1; -; Genomic_DNA.
+DR   EMBL; X14668; CAA32798.1; -; Genomic_DNA.
+DR   EMBL; Z48769; CAA88686.1; -; Genomic_DNA.
+DR   EMBL; AB016078; BAA36598.1; -; Genomic_DNA.
+DR   PDB; 1AHJ; X-ray; 2.65 A; B/D/F/H=1-212.
+DR   PDB; 2AHJ; X-ray; 1.70 A; B/D=1-212.
+DR   PDB; 2CYZ; X-ray; 1.55 A; B=1-212.
+DR   PDB; 2CZ0; X-ray; 1.50 A; B=1-212.
+DR   PDB; 2CZ1; X-ray; 1.39 A; B=1-212.
+DR   PDB; 2CZ6; X-ray; 1.50 A; B=1-212.
+DR   PDB; 2CZ7; X-ray; 1.80 A; B=1-212.
+DR   PDB; 2D0Q; X-ray; 1.65 A; B=1-212.
+DR   PDB; 2QDY; X-ray; 1.30 A; B=1-212.
+DR   PDB; 2ZCF; X-ray; 1.43 A; B=1-212.
+DR   PDB; 2ZPB; X-ray; 1.30 A; B=1-212.
+DR   PDB; 2ZPE; X-ray; 1.48 A; B=1-212.
+DR   PDB; 2ZPF; X-ray; 1.48 A; B=1-212.
+DR   PDB; 2ZPG; X-ray; 1.39 A; B=1-212.
+DR   PDB; 2ZPH; X-ray; 1.59 A; B=1-212.
+DR   PDB; 2ZPI; X-ray; 1.49 A; B=1-212.
+DR   PDB; 3A8G; X-ray; 1.11 A; B=1-212.
+DR   PDB; 3A8H; X-ray; 1.66 A; B=1-212.
+DR   PDB; 3A8L; X-ray; 1.63 A; B=1-212.
+DR   PDB; 3A8M; X-ray; 1.32 A; B=1-212.
+DR   PDB; 3A8O; X-ray; 1.47 A; B=1-212.
+DR   PDBsum; 1AHJ; -.
+DR   PDBsum; 2AHJ; -.
+DR   PDBsum; 2CYZ; -.
+DR   PDBsum; 2CZ0; -.
+DR   PDBsum; 2CZ1; -.
+DR   PDBsum; 2CZ6; -.
+DR   PDBsum; 2CZ7; -.
+DR   PDBsum; 2D0Q; -.
+DR   PDBsum; 2QDY; -.
+DR   PDBsum; 2ZCF; -.
+DR   PDBsum; 2ZPB; -.
+DR   PDBsum; 2ZPE; -.
+DR   PDBsum; 2ZPF; -.
+DR   PDBsum; 2ZPG; -.
+DR   PDBsum; 2ZPH; -.
+DR   PDBsum; 2ZPI; -.
+DR   PDBsum; 3A8G; -.
+DR   PDBsum; 3A8H; -.
+DR   PDBsum; 3A8L; -.
+DR   PDBsum; 3A8M; -.
+DR   PDBsum; 3A8O; -.
+DR   ProteinModelPortal; P13449; -.
+DR   SMR; P13449; 1-212.
+DR   DIP; DIP-6076N; -.
+DR   STRING; 234621.RER_59250; -.
+DR   SABIO-RK; P13449; -.
+DR   EvolutionaryTrace; P13449; -.
+DR   GO; GO:0080109; F:indole-3-acetonitrile nitrile hydratase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0046914; F:transition metal ion binding; IEA:InterPro.
+DR   GO; GO:0006807; P:nitrogen compound metabolic process; IEA:InterPro.
+DR   InterPro; IPR024690; CN_hydtase_beta_dom.
+DR   InterPro; IPR008990; Elect_transpt_acc-like_dom.
+DR   InterPro; IPR003168; Nitrile_hydratase_bsu.
+DR   Pfam; PF02211; NHase_beta; 1.
+DR   PIRSF; PIRSF001427; NHase_beta; 1.
+DR   SUPFAM; SSF50090; SSF50090; 1.
+DR   TIGRFAMs; TIGR03888; nitrile_beta; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Direct protein sequencing; Lyase.
+FT   CHAIN         1    212       Nitrile hydratase subunit beta.
+FT                                /FTId=PRO_0000186831.
+FT   VARIANT      40     40       M -> V (in strain: ACV2).
+FT   TURN         31     34       {ECO:0000244|PDB:3A8G}.
+FT   HELIX        35     45       {ECO:0000244|PDB:3A8G}.
+FT   HELIX        52     60       {ECO:0000244|PDB:3A8G}.
+FT   HELIX        64     69       {ECO:0000244|PDB:3A8G}.
+FT   HELIX        72     86       {ECO:0000244|PDB:3A8G}.
+FT   HELIX        92     99       {ECO:0000244|PDB:3A8G}.
+FT   STRAND      128    131       {ECO:0000244|PDB:3A8G}.
+FT   HELIX       144    146       {ECO:0000244|PDB:3A8G}.
+FT   STRAND      150    156       {ECO:0000244|PDB:3A8G}.
+FT   HELIX       164    167       {ECO:0000244|PDB:3A8G}.
+FT   TURN        168    170       {ECO:0000244|PDB:3A8G}.
+FT   STRAND      179    185       {ECO:0000244|PDB:3A8G}.
+FT   HELIX       186    190       {ECO:0000244|PDB:3A8G}.
+FT   STRAND      197    204       {ECO:0000244|PDB:3A8G}.
+FT   HELIX       205    207       {ECO:0000244|PDB:3A8G}.
+FT   STRAND      208    210       {ECO:0000244|PDB:3A8G}.
+SQ   SEQUENCE   212 AA;  23487 MW;  A0401CA4FC1C2CBE CRC64;
+     MDGVHDLAGV QGFGKVPHTV NADIGPTFHA EWEHLPYSLM FAGVAELGAF SVDEVRYVVE
+     RMEPRHYMMT PYYERYVIGV ATLMVEKGIL TQDELESLAG GPFPLSRPSE SEGRPAPVET
+     TTFEVGQRVR VRDEYVPGHI RMPAYCRGRV GTISHRTTEK WPFPDAIGHG RNDAGEEPTY
+     HVKFAAEELF GSDTDGGSVV VDLFEGYLEP AA
+//

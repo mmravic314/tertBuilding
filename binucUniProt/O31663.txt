@@ -1,0 +1,198 @@
+ID   MTNK_BACSU              Reviewed;         397 AA.
+AC   O31663;
+DT   24-OCT-2003, integrated into UniProtKB/Swiss-Prot.
+DT   24-OCT-2003, sequence version 2.
+DT   22-JUL-2015, entry version 99.
+DE   RecName: Full=Methylthioribose kinase;
+DE            Short=MTR kinase;
+DE            EC=2.7.1.100;
+GN   Name=mtnK; Synonyms=ykrT; OrderedLocusNames=BSU13560;
+OS   Bacillus subtilis (strain 168).
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus.
+OX   NCBI_TaxID=224308;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=168;
+RX   PubMed=9384377; DOI=10.1038/36786;
+RA   Kunst F., Ogasawara N., Moszer I., Albertini A.M., Alloni G.,
+RA   Azevedo V., Bertero M.G., Bessieres P., Bolotin A., Borchert S.,
+RA   Borriss R., Boursier L., Brans A., Braun M., Brignell S.C., Bron S.,
+RA   Brouillet S., Bruschi C.V., Caldwell B., Capuano V., Carter N.M.,
+RA   Choi S.-K., Codani J.-J., Connerton I.F., Cummings N.J., Daniel R.A.,
+RA   Denizot F., Devine K.M., Duesterhoeft A., Ehrlich S.D., Emmerson P.T.,
+RA   Entian K.-D., Errington J., Fabret C., Ferrari E., Foulger D.,
+RA   Fritz C., Fujita M., Fujita Y., Fuma S., Galizzi A., Galleron N.,
+RA   Ghim S.-Y., Glaser P., Goffeau A., Golightly E.J., Grandi G.,
+RA   Guiseppi G., Guy B.J., Haga K., Haiech J., Harwood C.R., Henaut A.,
+RA   Hilbert H., Holsappel S., Hosono S., Hullo M.-F., Itaya M.,
+RA   Jones L.-M., Joris B., Karamata D., Kasahara Y., Klaerr-Blanchard M.,
+RA   Klein C., Kobayashi Y., Koetter P., Koningstein G., Krogh S.,
+RA   Kumano M., Kurita K., Lapidus A., Lardinois S., Lauber J.,
+RA   Lazarevic V., Lee S.-M., Levine A., Liu H., Masuda S., Mauel C.,
+RA   Medigue C., Medina N., Mellado R.P., Mizuno M., Moestl D., Nakai S.,
+RA   Noback M., Noone D., O'Reilly M., Ogawa K., Ogiwara A., Oudega B.,
+RA   Park S.-H., Parro V., Pohl T.M., Portetelle D., Porwollik S.,
+RA   Prescott A.M., Presecan E., Pujic P., Purnelle B., Rapoport G.,
+RA   Rey M., Reynolds S., Rieger M., Rivolta C., Rocha E., Roche B.,
+RA   Rose M., Sadaie Y., Sato T., Scanlan E., Schleich S., Schroeter R.,
+RA   Scoffone F., Sekiguchi J., Sekowska A., Seror S.J., Serror P.,
+RA   Shin B.-S., Soldo B., Sorokin A., Tacconi E., Takagi T., Takahashi H.,
+RA   Takemaru K., Takeuchi M., Tamakoshi A., Tanaka T., Terpstra P.,
+RA   Tognoni A., Tosato V., Uchiyama S., Vandenbol M., Vannier F.,
+RA   Vassarotti A., Viari A., Wambutt R., Wedler E., Wedler H.,
+RA   Weitzenegger T., Winters P., Wipat A., Yamamoto H., Yamane K.,
+RA   Yasumoto K., Yata K., Yoshida K., Yoshikawa H.-F., Zumstein E.,
+RA   Yoshikawa H., Danchin A.;
+RT   "The complete genome sequence of the Gram-positive bacterium Bacillus
+RT   subtilis.";
+RL   Nature 390:249-256(1997).
+RN   [2]
+RP   FUNCTION, AND REANALYSIS OF N-TERMINUS.
+RX   PubMed=11545674; DOI=10.1186/1471-2180-1-15;
+RA   Sekowska A., Mulard L., Krogh S., Tse J.K.S., Danchin A.;
+RT   "MtnK, methylthioribose kinase, is a starvation-induced protein in
+RT   Bacillus subtilis.";
+RL   BMC Microbiol. 1:15-15(2001).
+RN   [3]
+RP   REVIEW.
+RX   PubMed=12022921; DOI=10.1186/1471-2180-2-8;
+RA   Sekowska A., Danchin A.;
+RT   "The methionine salvage pathway in Bacillus subtilis.";
+RL   BMC Microbiol. 2:8-8(2002).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) IN COMPLEX WITH ADP-2HO, AND
+RP   SUBUNIT.
+RX   PubMed=17372354; DOI=10.1107/S0907444907006592;
+RA   Ku S.-Y., Smith G.D., Howell P.L.;
+RT   "ADP-2Ho as a phasing tool for nucleotide-containing proteins.";
+RL   Acta Crystallogr. D 63:493-499(2007).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) IN COMPLEX WITH ADENOSYL
+RP   NUCLEOTIDES AND SUBSTRATE ANALOGS, AND SUBUNIT.
+RX   PubMed=17522047; DOI=10.1074/jbc.M611045200;
+RA   Ku S.Y., Yip P., Cornell K.A., Riscoe M.K., Behr J.B., Guillerm G.,
+RA   Howell P.L.;
+RT   "Structures of 5-methylthioribose kinase reveal substrate specificity
+RT   and unusual mode of nucleotide binding.";
+RL   J. Biol. Chem. 282:22195-22206(2007).
+CC   -!- FUNCTION: Catalyzes the phosphorylation of methylthioribose into
+CC       methylthioribose-1-phosphate. {ECO:0000269|PubMed:11545674}.
+CC   -!- CATALYTIC ACTIVITY: ATP + S-methyl-5-thio-D-ribose = ADP + S-
+CC       methyl-5-thio-alpha-D-ribose 1-phosphate.
+CC   -!- PATHWAY: Amino-acid biosynthesis; L-methionine biosynthesis via
+CC       salvage pathway; S-methyl-5-thio-alpha-D-ribose 1-phosphate from
+CC       S-methyl-5'-thioadenosine (hydrolase route): step 2/2.
+CC   -!- SUBUNIT: Homodimer. {ECO:0000269|PubMed:17372354,
+CC       ECO:0000269|PubMed:17522047}.
+CC   -!- INDUCTION: By starvation.
+CC   -!- SIMILARITY: Belongs to the methylthioribose kinase family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AL009126; CAB13229.2; -; Genomic_DNA.
+DR   PIR; D69863; D69863.
+DR   RefSeq; WP_003244973.1; NZ_JNCM01000035.1.
+DR   PDB; 2OLC; X-ray; 2.00 A; A/B=1-397.
+DR   PDB; 2PU8; X-ray; 2.10 A; A/B=1-397.
+DR   PDB; 2PUI; X-ray; 2.20 A; A/B=1-397.
+DR   PDB; 2PUL; X-ray; 2.00 A; A/B=1-397.
+DR   PDB; 2PUN; X-ray; 2.30 A; A/B=1-397.
+DR   PDB; 2PUP; X-ray; 2.60 A; A/B=1-397.
+DR   PDBsum; 2OLC; -.
+DR   PDBsum; 2PU8; -.
+DR   PDBsum; 2PUI; -.
+DR   PDBsum; 2PUL; -.
+DR   PDBsum; 2PUN; -.
+DR   PDBsum; 2PUP; -.
+DR   ProteinModelPortal; O31663; -.
+DR   SMR; O31663; 5-396.
+DR   IntAct; O31663; 1.
+DR   MINT; MINT-8365168; -.
+DR   STRING; 224308.Bsubs1_010100007516; -.
+DR   PaxDb; O31663; -.
+DR   EnsemblBacteria; CAB13229; CAB13229; BSU13560.
+DR   PATRIC; 18974480; VBIBacSub10457_1432.
+DR   GenoList; BSU13560; -.
+DR   eggNOG; COG4857; -.
+DR   HOGENOM; HOG000082744; -.
+DR   InParanoid; O31663; -.
+DR   OMA; EMCEITE; -.
+DR   OrthoDB; EOG635877; -.
+DR   BioCyc; BSUB:BSU13560-MONOMER; -.
+DR   BRENDA; 2.7.1.100; 658.
+DR   SABIO-RK; O31663; -.
+DR   UniPathway; UPA00904; UER00872.
+DR   EvolutionaryTrace; O31663; -.
+DR   Proteomes; UP000001570; Chromosome.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0046522; F:S-methyl-5-thioribose kinase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0019509; P:L-methionine biosynthetic process from methylthioadenosine; IEA:UniProtKB-UniPathway.
+DR   GO; GO:0019284; P:L-methionine biosynthetic process from S-adenosylmethionine; IEA:UniProtKB-HAMAP.
+DR   HAMAP; MF_01683; Salvage_MtnK; 1.
+DR   InterPro; IPR002575; Aminoglycoside_PTrfase.
+DR   InterPro; IPR011009; Kinase-like_dom.
+DR   InterPro; IPR009212; Methylthioribose_kinase.
+DR   Pfam; PF01636; APH; 1.
+DR   PIRSF; PIRSF031134; MTRK; 1.
+DR   SUPFAM; SSF56112; SSF56112; 1.
+DR   TIGRFAMs; TIGR01767; MTRK; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Amino-acid biosynthesis; ATP-binding; Complete proteome;
+KW   Kinase; Methionine biosynthesis; Nucleotide-binding;
+KW   Reference proteome; Stress response; Transferase.
+FT   CHAIN         1    397       Methylthioribose kinase.
+FT                                /FTId=PRO_0000162915.
+FT   NP_BIND     115    117       ATP.
+FT   NP_BIND     250    252       ATP.
+FT   BINDING      44     44       ATP.
+FT   BINDING      61     61       ATP.
+FT   BINDING     233    233       Substrate.
+FT   BINDING     340    340       Substrate.
+FT   HELIX        14     23       {ECO:0000244|PDB:2OLC}.
+FT   STRAND       34     37       {ECO:0000244|PDB:2OLC}.
+FT   STRAND       40     50       {ECO:0000244|PDB:2OLC}.
+FT   STRAND       52     55       {ECO:0000244|PDB:2PU8}.
+FT   STRAND       57     63       {ECO:0000244|PDB:2OLC}.
+FT   HELIX        66     68       {ECO:0000244|PDB:2PUL}.
+FT   HELIX        80     92       {ECO:0000244|PDB:2OLC}.
+FT   HELIX        96     98       {ECO:0000244|PDB:2OLC}.
+FT   STRAND      102    106       {ECO:0000244|PDB:2OLC}.
+FT   TURN        107    110       {ECO:0000244|PDB:2OLC}.
+FT   STRAND      111    114       {ECO:0000244|PDB:2OLC}.
+FT   STRAND      120    122       {ECO:0000244|PDB:2OLC}.
+FT   HELIX       123    128       {ECO:0000244|PDB:2OLC}.
+FT   HELIX       136    150       {ECO:0000244|PDB:2OLC}.
+FT   TURN        153    155       {ECO:0000244|PDB:2OLC}.
+FT   HELIX       158    167       {ECO:0000244|PDB:2OLC}.
+FT   HELIX       171    180       {ECO:0000244|PDB:2OLC}.
+FT   TURN        181    183       {ECO:0000244|PDB:2OLC}.
+FT   HELIX       184    186       {ECO:0000244|PDB:2OLC}.
+FT   HELIX       196    198       {ECO:0000244|PDB:2OLC}.
+FT   HELIX       199    206       {ECO:0000244|PDB:2OLC}.
+FT   HELIX       209    224       {ECO:0000244|PDB:2OLC}.
+FT   STRAND      228    230       {ECO:0000244|PDB:2OLC}.
+FT   HELIX       236    238       {ECO:0000244|PDB:2OLC}.
+FT   STRAND      239    241       {ECO:0000244|PDB:2OLC}.
+FT   STRAND      246    248       {ECO:0000244|PDB:2OLC}.
+FT   STRAND      255    257       {ECO:0000244|PDB:2OLC}.
+FT   HELIX       260    276       {ECO:0000244|PDB:2OLC}.
+FT   HELIX       279    282       {ECO:0000244|PDB:2OLC}.
+FT   HELIX       283    307       {ECO:0000244|PDB:2OLC}.
+FT   TURN        311    314       {ECO:0000244|PDB:2OLC}.
+FT   HELIX       318    343       {ECO:0000244|PDB:2OLC}.
+FT   STRAND      344    346       {ECO:0000244|PDB:2OLC}.
+FT   HELIX       349    352       {ECO:0000244|PDB:2OLC}.
+FT   HELIX       357    377       {ECO:0000244|PDB:2OLC}.
+FT   TURN        378    380       {ECO:0000244|PDB:2OLC}.
+FT   HELIX       384    394       {ECO:0000244|PDB:2OLC}.
+SQ   SEQUENCE   397 AA;  45085 MW;  E5862F8D8492189C CRC64;
+     MGVTKTPLYE TLNESSAVAL AVKLGLFPSK STLTCQEIGD GNLNYVFHIY DQEHDRALII
+     KQAVPYAKVV GESWPLTIDR ARIESSALIR QGEHVPHLVP RVFYSDTEMA VTVMEDLSHL
+     KIARKGLIEG ENYPHLSQHI GEFLGKTLFY SSDYALEPKV KKQLVKQFTN PELCDITERL
+     VFTDPFFDHD TNDFEEELRP FVEKLWNNDS VKIEAAKLKK SFLTSAETLI HGDLHTGSIF
+     ASEHETKVID PEFAFYGPIG FDVGQFIANL FLNALSRDGA DREPLYEHVN QVWETFEETF
+     SEAWQKDSLD VYANIDGYLT DTLSHIFEEA IGFAGCELIR RTIGLAHVAD LDTIVPFDKR
+     IGRKRLALET GTAFIEKRSE FKTITDVIEL FKLLVKE
+//

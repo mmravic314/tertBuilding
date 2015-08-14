@@ -1,0 +1,81 @@
+ID   Q5CR09_CRYPI            Unreviewed;       384 AA.
+AC   Q5CR09;
+DT   12-APR-2005, integrated into UniProtKB/TrEMBL.
+DT   12-APR-2005, sequence version 1.
+DT   24-JUN-2015, entry version 60.
+DE   SubName: Full=Putative farnesyl pyrophosphate synthase {ECO:0000313|EMBL:EAK87934.1};
+DE   Flags: Fragment;
+GN   ORFNames=cgd4_2550 {ECO:0000313|EMBL:EAK87934.1};
+OS   Cryptosporidium parvum (strain Iowa II).
+OC   Eukaryota; Alveolata; Apicomplexa; Conoidasida; Coccidia;
+OC   Eucoccidiorida; Eimeriorina; Cryptosporidiidae; Cryptosporidium.
+OX   NCBI_TaxID=353152 {ECO:0000313|EMBL:EAK87934.1, ECO:0000313|Proteomes:UP000006726};
+RN   [1] {ECO:0000313|EMBL:EAK87934.1, ECO:0000313|Proteomes:UP000006726}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Iowa II {ECO:0000313|Proteomes:UP000006726};
+RX   PubMed=15044751; DOI=10.1126/science.1094786;
+RA   Abrahamsen M.S., Templeton T.J., Enomoto S., Abrahante J.E., Zhu G.,
+RA   Lancto C.A., Deng M., Liu C., Widmer G., Tzipori S., Buck G.A., Xu P.,
+RA   Bankier A.T., Dear P.H., Konfortov B.A., Spriggs H.F., Iyer L.,
+RA   Anantharaman V., Aravind L., Kapur V.;
+RT   "Complete genome sequence of the apicomplexan, Cryptosporidium
+RT   parvum.";
+RL   Science 304:441-445(2004).
+RN   [2] {ECO:0000213|PDB:2O1O, ECO:0000213|PDB:2Q58}
+RP   X-RAY CRYSTALLOGRAPHY (2.37 ANGSTROMS) OF 38-384.
+RX   PubMed=19101474; DOI=10.1016/j.chembiol.2008.10.017;
+RA   Artz J.D., Dunford J.E., Arrowood M.J., Dong A., Chruszcz M.,
+RA   Kavanagh K.L., Minor W., Russell R.G., Ebetino F.H., Oppermann U.,
+RA   Hui R.;
+RT   "Targeting a uniquely nonspecific prenyl synthase with bisphosphonates
+RT   to combat cryptosporidiosis.";
+RL   Chem. Biol. 15:1296-1306(2008).
+CC   -!- SIMILARITY: Belongs to the FPP/GGPP synthase family.
+CC       {ECO:0000256|RuleBase:RU004466}.
+CC   -!- CAUTION: The sequence shown here is derived from an
+CC       EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is
+CC       preliminary data. {ECO:0000313|EMBL:EAK87934.1}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AAEE01000008; EAK87934.1; -; Genomic_DNA.
+DR   RefSeq; XP_625843.1; XM_625843.1.
+DR   PDB; 2O1O; X-ray; 2.42 A; A/B=38-384.
+DR   PDB; 2Q58; X-ray; 2.37 A; A/B=38-384.
+DR   PDBsum; 2O1O; -.
+DR   PDBsum; 2Q58; -.
+DR   ProteinModelPortal; Q5CR09; -.
+DR   STRING; 353152.XP_625843.1; -.
+DR   BindingDB; Q5CR09; -.
+DR   GeneID; 3372978; -.
+DR   KEGG; cpv:cgd4_2550; -.
+DR   EuPathDB; CryptoDB:cgd4_2550; -.
+DR   InParanoid; Q5CR09; -.
+DR   KO; K00787; -.
+DR   EvolutionaryTrace; Q5CR09; -.
+DR   Proteomes; UP000006726; Chromosome 4.
+DR   GO; GO:0016740; F:transferase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0008299; P:isoprenoid biosynthetic process; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.600.10; -; 1.
+DR   InterPro; IPR008949; Isoprenoid_synthase_dom.
+DR   InterPro; IPR000092; Polyprenyl_synt.
+DR   Pfam; PF00348; polyprenyl_synt; 1.
+DR   SUPFAM; SSF48576; SSF48576; 1.
+DR   PROSITE; PS00723; POLYPRENYL_SYNTHASE_1; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2O1O, ECO:0000213|PDB:2Q58};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000006726};
+KW   Isoprene biosynthesis {ECO:0000256|RuleBase:RU004466};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000006726};
+KW   Transferase {ECO:0000256|RuleBase:RU004466}.
+FT   NON_TER       1      1       {ECO:0000313|EMBL:EAK87934.1}.
+SQ   SEQUENCE   384 AA;  44964 MW;  9BA091557A0FDF74 CRC64;
+     ILFHLLKITF IDSIFFALHD NYLTPQFIFN KMNDLQIEYD YTDFINYYDK FKVIVYNVLK
+     KLPLNDEIRK PVIEYYLNCI DYNVKKGKHI RGKILVLISS LSSAYSNIKR DSIYLLGWVV
+     EAIQALILIA DDIMDSGKFR RGAPCWYIVH GQSNAINDIF FLKMLSLSLI FELSSVFGND
+     IVMKIQKIYN ESIFFTVLGQ HLDLSYFDLS KADKISERYF SMVEMKTSRY TFYMPVFFGL
+     TLSEIQVSSA QLNLIEAILY KLGEFYQVHN DVSDYLFNDS NADDICRFKL TWPLQKSFEI
+     ADEEMKLKIS ENYGKNSSLV KDCYNLLKIN EHYLEYQRNA LDYLIKLVKD ITDDSLQKVF
+     IHLIHQISEL ITNSRSNADS NNSL
+//

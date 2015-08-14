@@ -1,0 +1,398 @@
+ID   POL_XMRV3               Reviewed;        1733 AA.
+AC   Q2F7J3;
+DT   19-JAN-2010, integrated into UniProtKB/Swiss-Prot.
+DT   21-MAR-2006, sequence version 1.
+DT   07-JAN-2015, entry version 75.
+DE   RecName: Full=Gag-Pol polyprotein;
+DE            Short=Pr180gag-pol;
+DE   Contains:
+DE     RecName: Full=Matrix protein p15;
+DE              Short=MA;
+DE   Contains:
+DE     RecName: Full=RNA-binding phosphoprotein p12;
+DE     AltName: Full=pp12;
+DE   Contains:
+DE     RecName: Full=Capsid protein p30;
+DE              Short=CA;
+DE   Contains:
+DE     RecName: Full=Nucleocapsid protein p10;
+DE              Short=NC-pol;
+DE   Contains:
+DE     RecName: Full=Protease p14;
+DE              Short=PR;
+DE              EC=3.4.23.-;
+DE   Contains:
+DE     RecName: Full=Reverse transcriptase/ribonuclease H p80;
+DE              Short=RT;
+DE              EC=2.7.7.49;
+DE              EC=2.7.7.7;
+DE              EC=3.1.26.4;
+DE   Contains:
+DE     RecName: Full=Integrase p46;
+DE              Short=IN;
+GN   Name=gag-pol;
+OS   Xenotropic MuLV-related virus (isolate VP35) (XMRV).
+OC   Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae;
+OC   Gammaretrovirus; unclassified Gammaretrovirus.
+OX   NCBI_TaxID=356663;
+OH   NCBI_TaxID=9606; Homo sapiens (Human).
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC RNA].
+RX   PubMed=16609730; DOI=10.1371/journal.ppat.0020025;
+RA   Urisman A., Molinaro R.J., Fischer N., Plummer S.J., Casey G.,
+RA   Klein E.A., Malathi K., Magi-Galluzzi C., Tubbs R.R., Ganem D.,
+RA   Silverman R.H., DeRisi J.L.;
+RT   "Identification of a novel Gammaretrovirus in prostate tumors of
+RT   patients homozygous for R462Q RNASEL variant.";
+RL   PLoS Pathog. 2:E25-E25(2006).
+CC   -!- FUNCTION: Matrix protein p15 targets Gag and gag-pol polyproteins
+CC       to the plasma membrane via a multipartite membrane binding signal,
+CC       that includes its myristoylated N-terminus. Also mediates nuclear
+CC       localization of the preintegration complex (By similarity).
+CC       {ECO:0000250}.
+CC   -!- FUNCTION: Capsid protein p30 forms the spherical core of the
+CC       virion that encapsulates the genomic RNA-nucleocapsid complex.
+CC       {ECO:0000250}.
+CC   -!- FUNCTION: Nucleocapsid protein p10 is involved in the packaging
+CC       and encapsidation of two copies of the genome. Binds with high
+CC       affinity to conserved UCUG elements within the packaging signal,
+CC       located near the 5'-end of the genome. This binding is dependent
+CC       on genome dimerization (By similarity). {ECO:0000250}.
+CC   -!- FUNCTION: The aspartyl protease mediates proteolytic cleavages of
+CC       Gag and Gag-Pol polyproteins during or shortly after the release
+CC       of the virion from the plasma membrane. Cleavages take place as an
+CC       ordered, step-wise cascade to yield mature proteins. This process
+CC       is called maturation. Displays maximal activity during the budding
+CC       process just prior to particle release from the cell.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00275}.
+CC   -!- FUNCTION: Reverse transcriptase/ribonuclease H is a
+CC       multifunctional enzyme that converts the viral dimeric RNA genome
+CC       into dsDNA in the cytoplasm, shortly after virus entry into the
+CC       cell. This enzyme displays a DNA polymerase activity that can copy
+CC       either DNA or RNA templates, and a ribonuclease H (RNase H)
+CC       activity that cleaves the RNA strand of RNA-DNA heteroduplexes in
+CC       a partially processive 3' to 5' endonucleasic mode. Conversion of
+CC       viral genomic RNA into dsDNA requires many steps. A tRNA binds to
+CC       the primer-binding site (PBS) situated at the 5' end of the viral
+CC       RNA. RT uses the 3' end of the tRNA primer to perform a short
+CC       round of RNA-dependent minus-strand DNA synthesis. The reading
+CC       proceeds through the U5 region and ends after the repeated (R)
+CC       region which is present at both ends of viral RNA. The portion of
+CC       the RNA-DNA heteroduplex is digested by the RNase H, resulting in
+CC       a ssDNA product attached to the tRNA primer. This ssDNA/tRNA
+CC       hybridizes with the identical R region situated at the 3' end of
+CC       viral RNA. This template exchange, known as minus-strand DNA
+CC       strong stop transfer, can be either intra- or intermolecular. RT
+CC       uses the 3' end of this newly synthesized short ssDNA to perform
+CC       the RNA-dependent minus-strand DNA synthesis of the whole
+CC       template. RNase H digests the RNA template except for a polypurine
+CC       tract (PPT) situated at the 5' end of the genome. It is not clear
+CC       if both polymerase and RNase H activities are simultaneous. RNase
+CC       H probably can proceed both in a polymerase-dependent (RNA cut
+CC       into small fragments by the same RT performing DNA synthesis) and
+CC       a polymerase-independent mode (cleavage of remaining RNA fragments
+CC       by free RTs). Secondly, RT performs DNA-directed plus-strand DNA
+CC       synthesis using the PPT that has not been removed by RNase H as
+CC       primers. PPT and tRNA primers are then removed by RNase H. The 3'
+CC       and 5' ssDNA PBS regions hybridize to form a circular dsDNA
+CC       intermediate. Strand displacement synthesis by RT to the PBS and
+CC       PPT ends produces a blunt ended, linear dsDNA copy of the viral
+CC       genome that includes long terminal repeats (LTRs) at both ends (By
+CC       similarity). {ECO:0000250}.
+CC   -!- FUNCTION: Integrase catalyzes viral DNA integration into the host
+CC       chromosome, by performing a series of DNA cutting and joining
+CC       reactions. This enzyme activity takes place after virion entry
+CC       into a cell and reverse transcription of the RNA genome in dsDNA.
+CC       The first step in the integration process is 3' processing. This
+CC       step requires a complex comprising the viral genome, matrix
+CC       protein and integrase. This complex is called the pre-integration
+CC       complex (PIC). The integrase protein removes 2 nucleotides from
+CC       each 3' end of the viral DNA, leaving recessed CA OH's at the 3'
+CC       ends. In the second step that requires cell division, the PIC
+CC       enters cell nucleus. In the third step, termed strand transfer,
+CC       the integrase protein joins the previously processed 3' ends to
+CC       the 5' ends of strands of target cellular DNA at the site of
+CC       integration. The last step is viral DNA integration into host
+CC       chromosome (By similarity). {ECO:0000250}.
+CC   -!- FUNCTION: Gag-Pol polyprotein plays a role in budding and is
+CC       processed by the viral protease during virion maturation outside
+CC       the cell. During budding, it recruits, in a PPXY-dependent or
+CC       independent manner, Nedd4-like ubiquitin ligases that conjugate
+CC       ubiquitin molecules to Gag, or to Gag binding host factors.
+CC       Interaction with HECT ubiquitin ligases probably link the viral
+CC       protein to the host ESCRT pathway and facilitate release (By
+CC       similarity). {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Deoxynucleoside triphosphate + DNA(n) =
+CC       diphosphate + DNA(n+1). {ECO:0000255|PROSITE-ProRule:PRU00405}.
+CC   -!- CATALYTIC ACTIVITY: Endonucleolytic cleavage to 5'-
+CC       phosphomonoester. {ECO:0000255|PROSITE-ProRule:PRU00408}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250};
+CC       Note=Binds 2 magnesium ions for reverse transcriptase polymerase
+CC       activity. {ECO:0000250};
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250};
+CC       Note=Binds 2 magnesium ions for ribonuclease H (RNase H) activity.
+CC       {ECO:0000250};
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250};
+CC       Note=Magnesium ions are required for integrase activity. Binds at
+CC       least 1, maybe 2 magnesium ions. {ECO:0000250};
+CC   -!- SUBUNIT: Capsid protein p30 is a homohexamer, that further
+CC       associates as homomultimer. The virus core is composed of a
+CC       lattice formed from hexagonal rings, each containing six capsid
+CC       monomers. The protease is a homodimer, whose active site consists
+CC       of two apposed aspartic acid residues. The reverse transcriptase
+CC       is a monomer (By similarity). {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Gag-Pol polyprotein: Host cell membrane
+CC       {ECO:0000305}; Lipid-anchor {ECO:0000305}.
+CC   -!- SUBCELLULAR LOCATION: Matrix protein p15: Virion {ECO:0000305}.
+CC   -!- SUBCELLULAR LOCATION: Capsid protein p30: Virion {ECO:0000305}.
+CC   -!- SUBCELLULAR LOCATION: Nucleocapsid protein p10: Virion
+CC       {ECO:0000305}.
+CC   -!- DOMAIN: Late-budding domains (L domains) are short sequence motifs
+CC       essential for viral particle release. They can occur individually
+CC       or in close proximity within structural proteins. They interacts
+CC       with sorting cellular proteins of the multivesicular body (MVB)
+CC       pathway. Most of these proteins are class E vacuolar protein
+CC       sorting factors belonging to ESCRT-I, ESCRT-II or ESCRT-III
+CC       complexes. RNA-binding phosphoprotein p12 contains one L domain: a
+CC       PPXY motif which potentially interacts with the WW domain 3 of
+CC       NEDD4 E3 ubiquitin ligase. PPXY motif is essential for virus
+CC       egress. Matrix protein p15 contains one L domain: a PTAP/PSAP
+CC       motif, which potentially interacts with the UEV domain of TSG101.
+CC       The junction between the matrix protein p15 and RNA-binding
+CC       phosphoprotein p12 also contains one L domain: a LYPX(n)L motif
+CC       which potentially interacts with PDCD6IP. Both PSAP and LYPX(n)L
+CC       domains might play little to no role in budding and possibly drive
+CC       residual virus release. contains (By similarity). {ECO:0000250}.
+CC   -!- PTM: Specific enzymatic cleavages by the viral protease yield
+CC       mature proteins. The protease is released by autocatalytic
+CC       cleavage. The polyprotein is cleaved during and after budding,
+CC       this process is termed maturation (By similarity). {ECO:0000250}.
+CC   -!- PTM: Capsid protein p30 is sumoylated; which is required for virus
+CC       replication.
+CC   -!- PTM: RNA-binding phosphoprotein p12 is phosphorylated on serine
+CC       residues. {ECO:0000250}.
+CC   -!- MISCELLANEOUS: This protein is translated as a gag-pol fusion
+CC       protein by episodic readthrough of the gag protein termination
+CC       codon. Readthrough of the terminator codon TAG occurs between the
+CC       codons for 536-Asp and 538-Gly (By similarity). {ECO:0000250}.
+CC   -!- MISCELLANEOUS: The nucleocapsid protein p10 released from Pol
+CC       polyprotein (NC-pol) is a few amino acids shorter than the
+CC       nucleocapsid protein p10 released from Gag polyprotein (NC-gag).
+CC       {ECO:0000250}.
+CC   -!- MISCELLANEOUS: The reverse transcriptase is an error-prone enzyme
+CC       that lacks a proof-reading function. High mutations rate is a
+CC       direct consequence of this characteristic. RT also displays
+CC       frequent template swiching leading to high recombination rate.
+CC       Recombination mostly occurs between homologous regions of the two
+CC       copackaged RNA genomes. If these two RNA molecules derive from
+CC       different viral strains, reverse transcription will give rise to
+CC       highly recombinated proviral DNAs. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00405}.
+CC   -!- SIMILARITY: Contains 1 CCHC-type zinc finger.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00047}.
+CC   -!- SIMILARITY: Contains 1 integrase catalytic domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00457}.
+CC   -!- SIMILARITY: Contains 1 integrase-type DNA-binding domain.
+CC       {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 peptidase A2 domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00275}.
+CC   -!- SIMILARITY: Contains 1 reverse transcriptase domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00405}.
+CC   -!- SIMILARITY: Contains 1 RNase H domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00408}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; DQ241301; ABB83225.1; -; Genomic_RNA.
+DR   PDB; 3V1O; X-ray; 1.88 A; A=1154-1328.
+DR   PDB; 3V1Q; X-ray; 2.00 A; A=1155-1328.
+DR   PDB; 3V1R; X-ray; 2.80 A; A=1154-1328.
+DR   PDBsum; 3V1O; -.
+DR   PDBsum; 3V1Q; -.
+DR   PDBsum; 3V1R; -.
+DR   ProteinModelPortal; Q2F7J3; -.
+DR   SMR; Q2F7J3; 2-98, 214-345, 350-380, 477-532, 681-1131, 1160-1325.
+DR   Proteomes; UP000008601; Genome.
+DR   GO; GO:0020002; C:host cell plasma membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0016020; C:membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0019013; C:viral nucleocapsid; IEA:UniProtKB-KW.
+DR   GO; GO:0004190; F:aspartic-type endopeptidase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003887; F:DNA-directed DNA polymerase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0003723; F:RNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003964; F:RNA-directed DNA polymerase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0004523; F:RNA-DNA hybrid ribonuclease activity; IEA:UniProtKB-EC.
+DR   GO; GO:0039660; F:structural constituent of virion; IEA:UniProtKB-KW.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:InterPro.
+DR   GO; GO:0015074; P:DNA integration; IEA:UniProtKB-KW.
+DR   GO; GO:0006310; P:DNA recombination; IEA:UniProtKB-KW.
+DR   GO; GO:0075713; P:establishment of integrated proviral latency; IEA:UniProtKB-KW.
+DR   GO; GO:0046718; P:viral entry into host cell; IEA:UniProtKB-KW.
+DR   GO; GO:0019068; P:virion assembly; IEA:InterPro.
+DR   Gene3D; 1.10.150.180; -; 1.
+DR   Gene3D; 1.10.375.10; -; 1.
+DR   Gene3D; 2.40.70.10; -; 1.
+DR   Gene3D; 3.30.420.10; -; 2.
+DR   Gene3D; 4.10.60.10; -; 1.
+DR   InterPro; IPR001969; Aspartic_peptidase_AS.
+DR   InterPro; IPR000840; G_retro_matrix.
+DR   InterPro; IPR002079; Gag_p12.
+DR   InterPro; IPR003036; Gag_P30.
+DR   InterPro; IPR001584; Integrase_cat-core.
+DR   InterPro; IPR018061; Pept_A2A_retrovirus_sg.
+DR   InterPro; IPR001995; Peptidase_A2_cat.
+DR   InterPro; IPR021109; Peptidase_aspartic_dom.
+DR   InterPro; IPR008919; Retrov_capsid_N.
+DR   InterPro; IPR010999; Retrovr_matrix.
+DR   InterPro; IPR012337; RNaseH-like_dom.
+DR   InterPro; IPR002156; RNaseH_domain.
+DR   InterPro; IPR000477; RT_dom.
+DR   InterPro; IPR001878; Znf_CCHC.
+DR   Pfam; PF01140; Gag_MA; 1.
+DR   Pfam; PF01141; Gag_p12; 1.
+DR   Pfam; PF02093; Gag_p30; 1.
+DR   Pfam; PF00075; RNase_H; 1.
+DR   Pfam; PF00665; rve; 1.
+DR   Pfam; PF00077; RVP; 1.
+DR   Pfam; PF00078; RVT_1; 1.
+DR   SMART; SM00343; ZnF_C2HC; 1.
+DR   SUPFAM; SSF47836; SSF47836; 1.
+DR   SUPFAM; SSF47943; SSF47943; 1.
+DR   SUPFAM; SSF50630; SSF50630; 1.
+DR   SUPFAM; SSF53098; SSF53098; 2.
+DR   SUPFAM; SSF57756; SSF57756; 1.
+DR   PROSITE; PS50175; ASP_PROT_RETROV; 1.
+DR   PROSITE; PS00141; ASP_PROTEASE; 1.
+DR   PROSITE; PS50994; INTEGRASE; 1.
+DR   PROSITE; PS50879; RNASE_H; 1.
+DR   PROSITE; PS50878; RT_POL; 1.
+DR   PROSITE; PS50158; ZF_CCHC; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Aspartyl protease; Capsid protein; Coiled coil;
+KW   Complete proteome; DNA integration; DNA recombination; DNA-binding;
+KW   DNA-directed DNA polymerase; Endonuclease; Host cell membrane;
+KW   Host membrane; Hydrolase; Lipoprotein; Magnesium; Membrane;
+KW   Metal-binding; Multifunctional enzyme; Myristate; Nuclease;
+KW   Nucleotidyltransferase; Phosphoprotein; Protease;
+KW   RNA suppression of termination; RNA-binding;
+KW   RNA-directed DNA polymerase; Transferase; Ubl conjugation;
+KW   Viral genome integration; Viral matrix protein; Viral nucleoprotein;
+KW   Virion; Virus entry into host cell; Zinc; Zinc-finger.
+FT   INIT_MET      1      1       Removed; by host. {ECO:0000250}.
+FT   CHAIN         2   1733       Gag-Pol polyprotein. {ECO:0000250}.
+FT                                /FTId=PRO_0000390852.
+FT   CHAIN         2    129       Matrix protein p15. {ECO:0000250}.
+FT                                /FTId=PRO_0000390853.
+FT   CHAIN       130    213       RNA-binding phosphoprotein p12.
+FT                                {ECO:0000250}.
+FT                                /FTId=PRO_0000390854.
+FT   CHAIN       214    476       Capsid protein p30. {ECO:0000250}.
+FT                                /FTId=PRO_0000390855.
+FT   CHAIN       477    532       Nucleocapsid protein p10. {ECO:0000250}.
+FT                                /FTId=PRO_0000390856.
+FT   CHAIN       533    657       Protease p14. {ECO:0000250}.
+FT                                /FTId=PRO_0000390857.
+FT   CHAIN       658   1328       Reverse transcriptase/ribonuclease H p80.
+FT                                {ECO:0000250}.
+FT                                /FTId=PRO_0000390858.
+FT   CHAIN      1329   1733       Integrase p46. {ECO:0000250}.
+FT                                /FTId=PRO_0000390859.
+FT   DOMAIN      559    629       Peptidase A2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00275}.
+FT   DOMAIN      739    930       Reverse transcriptase.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00405}.
+FT   DOMAIN     1172   1318       RNase H. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00408}.
+FT   DOMAIN     1442   1600       Integrase catalytic.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00457}.
+FT   ZN_FING     500    517       CCHC-type. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00047}.
+FT   COILED      436    476       {ECO:0000255}.
+FT   MOTIF       109    112       PTAP/PSAP motif.
+FT   MOTIF       128    132       LYPX(n)L motif.
+FT   MOTIF       161    164       PPXY motif.
+FT   COMPBIAS     71    191       Pro-rich.
+FT   ACT_SITE    564    564       Protease; shared with dimeric partner.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00275}.
+FT   METAL       807    807       Magnesium; catalytic; for reverse
+FT                                transcriptase activity. {ECO:0000250}.
+FT   METAL       881    881       Magnesium; catalytic; for reverse
+FT                                transcriptase activity. {ECO:0000250}.
+FT   METAL       882    882       Magnesium; catalytic; for reverse
+FT                                transcriptase activity. {ECO:0000250}.
+FT   METAL      1181   1181       Magnesium; for RNase H activity.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00408}.
+FT   METAL      1219   1219       Magnesium; for RNase H activity.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00408}.
+FT   METAL      1240   1240       Magnesium; for RNase H activity.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00408}.
+FT   METAL      1310   1310       Magnesium; for RNase H activity.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00408}.
+FT   METAL      1453   1453       Magnesium; catalytic; for integrase
+FT                                activity. {ECO:0000250}.
+FT   METAL      1512   1512       Magnesium; catalytic; for integrase
+FT                                activity. {ECO:0000250}.
+FT   SITE        129    130       Cleavage; by viral protease p14.
+FT                                {ECO:0000250}.
+FT   SITE        213    214       Cleavage; by viral protease p14.
+FT                                {ECO:0000250}.
+FT   SITE        476    477       Cleavage; by viral protease p14.
+FT                                {ECO:0000250}.
+FT   SITE        532    533       Cleavage; by viral protease p14.
+FT                                {ECO:0000250}.
+FT   SITE        657    658       Cleavage; by viral protease p14.
+FT                                {ECO:0000250}.
+FT   SITE       1328   1329       Cleavage; by viral protease p14.
+FT                                {ECO:0000250}.
+FT   MOD_RES     190    190       Phosphoserine; by host. {ECO:0000250}.
+FT   LIPID         2      2       N-myristoyl glycine; by host.
+FT                                {ECO:0000250}.
+FT   STRAND     1167   1169       {ECO:0000244|PDB:3V1O}.
+FT   STRAND     1175   1186       {ECO:0000244|PDB:3V1O}.
+FT   STRAND     1188   1198       {ECO:0000244|PDB:3V1O}.
+FT   STRAND     1200   1209       {ECO:0000244|PDB:3V1O}.
+FT   HELIX      1215   1229       {ECO:0000244|PDB:3V1O}.
+FT   TURN       1230   1232       {ECO:0000244|PDB:3V1O}.
+FT   STRAND     1233   1240       {ECO:0000244|PDB:3V1O}.
+FT   HELIX      1242   1249       {ECO:0000244|PDB:3V1O}.
+FT   HELIX      1251   1257       {ECO:0000244|PDB:3V1O}.
+FT   STRAND     1261   1264       {ECO:0000244|PDB:3V1O}.
+FT   STRAND     1268   1270       {ECO:0000244|PDB:3V1Q}.
+FT   HELIX      1271   1280       {ECO:0000244|PDB:3V1O}.
+FT   STRAND     1283   1291       {ECO:0000244|PDB:3V1O}.
+FT   HELIX      1301   1322       {ECO:0000244|PDB:3V1O}.
+SQ   SEQUENCE   1733 AA;  193803 MW;  35B226FA584B5122 CRC64;
+     MGQTVTTPLS LTLQHWGDVQ RIASNQSVDV KKRRWVTFCS AEWPTFNVGW PQDGTFNLGV
+     ISQVKSRVFC PGPHGHPDQV PYIVTWEALA YDPPPWVKPF VSPKPPPLPT APVLPPGPSA
+     QPPSRSALYP ALTLSIKSKP PKPQVLPDSG GPLIDLLTED PPPYGVQPSS SARENNEEEA
+     ATTSEVSPPS PMVSRLRGRR DPPAADSTTS QAFPLRMGGD GQLQYWPFSS SDLYNWKNNN
+     PSFSEDPGKL TALIESVLIT HQPTWDDCQQ LLGTLLTGEE KQRVLLEAGK AVRGNDGRPT
+     QLPNEVNAAF PLERPDWDYT TTEGRNHLVL YRQLLLAGLQ NAGRSPTNLA KVKGITQGPN
+     ESPSAFLERL KEAYRRYTPY DPEDPGQETN VSMSFIWQSA PDIGRKLERL EDLKSKTLGD
+     LVREAEKIFN KRETPEEREE RIRREIEEKE ERRRAEDEQR ERERDRRRHR EMSKLLATVV
+     IGQRQDRQGG ERRRPQLDKD QCAYCKEKGH WAKDCPKKPR GPRGPRPQTS LLTLGDXGGQ
+     GQEPPPEPRI TLKVGGQPVT FLVDTGAQHS VLTQNPGPLS DKSAWVQGAT GGKRYRWTTD
+     RKVHLATGKV THSFLHVPDC PYPLLGRDLL TKLKAQIHFE GSGAQVVGPM GQPLQVLTLN
+     IENKYRLHET SKEPDVPLGS TWLSDFPQAW AETGGMGLAV RQAPLIIPLK ATSTPVSIKQ
+     YPMSQEARLG IKPHIQRLLD QGILVPCQSP WNTPLLPVKK PGTNDYRPVQ DLREVNKRVE
+     DIHPTVPNPY NLLSGLPPSH QWYTVLDLKD AFFCLRLHPT SQPLFAFEWR DPEMGISGQL
+     TWTRLPQGFK NSPTLFDEAL HRDLADFRIQ HPDLILLQYV DDLLLAATSE QDCQRGTRAL
+     LQTLGNLGYR ASAKKAQICQ KQVKYLGYLL KEGQRWLTEA RKETVMGQPT PKTPRQLREF
+     LGTAGFCRLW IPGFAEMAAP LYPLTKTGTL FNWGPDQQKA YQEIKQALLT APALGLPDLT
+     KPFELFVDEK QGYAKGVLTQ KLGPWRRPVA YLSKKLDPVA AGWPPCLRMV AAIAVLTKDA
+     GKLTMGQPLV ILAPHAVEAL VKQPPDRWLS NARMTHYQAM LLDTDRVQFG PVVALNPATL
+     LPLPEKEAPH DCLEILAETH GTRPDLTDQP IPDADYTWYT DGSSFLQEGQ RRAGAAVTTE
+     TEVIWARALP AGTSAQRAEL IALTQALKMA EGKKLNVYTD SRYAFATAHV HGEIYRRRGL
+     LTSEGREIKN KNEILALLKA LFLPKRLSII HCPGHQKGNS AEARGNRMAD QAAREAAMKA
+     VLETSTLLIE DSTPYTPPHF HYTETDLKRL RELGATYNQT KGYWVLQGKP VMPDQSVFEL
+     LDSLHRLTHP SPQKMKALLD REESPYYMLN RDRTIQYVTE TCTACAQVNA SKAKIGAGVR
+     VRGHRPGTHW EVDFTEVKPG LYGYKYLLVF VDTFSGWVEA FPTKRETAKV VTKKLLEDIF
+     PRFGMPQVLG SDNGPAFASQ VSQSVADLLG IDWKLHCAYR PQSSGQVERM NRTIKETLTK
+     LTLASGTRDW VLLLPLALYR ARNTPGPHGL TPYEILYGAP PPLVNFHDPE MSKLTNSPSL
+     QAHLQALQAV QQEVWKPLAA AYQDQLDQPV IPHPFRVGDA VWVRRHQTKN LEPRWKGPYT
+     VLLTTPTALK VDGISAWIHA AHVKAATTPP AGTAWKVQRS QNPLKIRLTR GAP
+//

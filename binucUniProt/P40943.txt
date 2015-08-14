@@ -1,0 +1,140 @@
+ID   XYN1_GEOSE              Reviewed;         407 AA.
+AC   P40943; Q09LX3;
+DT   01-FEB-1995, integrated into UniProtKB/Swiss-Prot.
+DT   01-FEB-1995, sequence version 1.
+DT   22-JUL-2015, entry version 94.
+DE   RecName: Full=Endo-1,4-beta-xylanase;
+DE            Short=Xylanase;
+DE            EC=3.2.1.8;
+DE   AltName: Full=1,4-beta-D-xylan xylanohydrolase;
+DE   Flags: Precursor;
+OS   Geobacillus stearothermophilus (Bacillus stearothermophilus).
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Geobacillus.
+OX   NCBI_TaxID=1422;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND PARTIAL PROTEIN SEQUENCE.
+RC   STRAIN=T-6 / NCIMB 40221;
+RX   PubMed=8031084;
+RA   Gat O., Lapidot A., Alchanati I., Regueros C., Shoham Y.;
+RT   "Cloning and DNA sequence of the gene coding for Bacillus
+RT   stearothermophilus T-6 xylanase.";
+RL   Appl. Environ. Microbiol. 60:1889-1896(1994).
+RN   [2]
+RP   PROTEIN SEQUENCE OF 29-73.
+RC   STRAIN=T-6;
+RX   PubMed=8328796;
+RA   Khasin A., Alchanati I., Shoham Y.;
+RT   "Purification and characterization of a thermostable xylanase from
+RT   Bacillus stearothermophilus T-6.";
+RL   Appl. Environ. Microbiol. 59:1725-1730(1993).
+CC   -!- CATALYTIC ACTIVITY: Endohydrolysis of (1->4)-beta-D-xylosidic
+CC       linkages in xylans.
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC   -!- SUBCELLULAR LOCATION: Secreted.
+CC   -!- INDUCTION: By xylose.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 10 (cellulase F)
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 GH10 (glycosyl hydrolase family 10) domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01096}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=ABI49951.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; DQ868502; ABI49951.1; ALT_INIT; Genomic_DNA.
+DR   PIR; I40570; I40570.
+DR   PDB; 1HIZ; X-ray; 2.40 A; A=29-407.
+DR   PDB; 1R85; X-ray; 1.45 A; A=29-407.
+DR   PDB; 1R86; X-ray; 1.80 A; A=29-407.
+DR   PDB; 1R87; X-ray; 1.67 A; A=29-407.
+DR   PDB; 3MMD; X-ray; 1.70 A; A=29-407.
+DR   PDB; 4PRW; X-ray; 1.80 A; A=29-407.
+DR   PDB; 4PUD; X-ray; 2.01 A; A=37-407.
+DR   PDB; 4PUE; X-ray; 2.20 A; A=37-407.
+DR   PDBsum; 1HIZ; -.
+DR   PDBsum; 1R85; -.
+DR   PDBsum; 1R86; -.
+DR   PDBsum; 1R87; -.
+DR   PDBsum; 3MMD; -.
+DR   PDBsum; 4PRW; -.
+DR   PDBsum; 4PUD; -.
+DR   PDBsum; 4PUE; -.
+DR   ProteinModelPortal; P40943; -.
+DR   SMR; P40943; 33-407.
+DR   CAZy; GH10; Glycoside Hydrolase Family 10.
+DR   UniPathway; UPA00114; -.
+DR   EvolutionaryTrace; P40943; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0031176; F:endo-1,4-beta-xylanase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 3.20.20.80; -; 1.
+DR   InterPro; IPR001000; Glyco_hydro_10.
+DR   InterPro; IPR031158; Glyco_hydro_10_AS.
+DR   InterPro; IPR013781; Glyco_hydro_catalytic_dom.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   Pfam; PF00331; Glyco_hydro_10; 1.
+DR   PRINTS; PR00134; GLHYDRLASE10.
+DR   SMART; SM00633; Glyco_10; 1.
+DR   SUPFAM; SSF51445; SSF51445; 1.
+DR   PROSITE; PS00591; GH10_1; 1.
+DR   PROSITE; PS51760; GH10_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Carbohydrate metabolism; Direct protein sequencing;
+KW   Glycosidase; Hydrolase; Polysaccharide degradation; Secreted; Signal;
+KW   Xylan degradation.
+FT   SIGNAL        1     28       {ECO:0000269|PubMed:8328796}.
+FT   CHAIN        29    407       Endo-1,4-beta-xylanase.
+FT                                /FTId=PRO_0000007968.
+FT   DOMAIN       42    406       GH10. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU01096}.
+FT   ACT_SITE    187    187       Proton donor. {ECO:0000250}.
+FT   ACT_SITE    293    293       Nucleophile. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU10061}.
+FT   TURN         34     36       {ECO:0000244|PDB:1HIZ}.
+FT   HELIX        42     44       {ECO:0000244|PDB:1R85}.
+FT   HELIX        48     52       {ECO:0000244|PDB:1R85}.
+FT   TURN         53     55       {ECO:0000244|PDB:1R85}.
+FT   STRAND       57     62       {ECO:0000244|PDB:1R85}.
+FT   HELIX        64     68       {ECO:0000244|PDB:1R85}.
+FT   HELIX        70     79       {ECO:0000244|PDB:1R85}.
+FT   STRAND       81     87       {ECO:0000244|PDB:1R85}.
+FT   HELIX        91     94       {ECO:0000244|PDB:1R85}.
+FT   HELIX       104    115       {ECO:0000244|PDB:1R85}.
+FT   STRAND      119    123       {ECO:0000244|PDB:1R85}.
+FT   STRAND      128    130       {ECO:0000244|PDB:1R87}.
+FT   HELIX       133    136       {ECO:0000244|PDB:1R85}.
+FT   STRAND      141    143       {ECO:0000244|PDB:1R85}.
+FT   HELIX       144    146       {ECO:0000244|PDB:1R85}.
+FT   HELIX       150    175       {ECO:0000244|PDB:1R85}.
+FT   TURN        176    178       {ECO:0000244|PDB:1R85}.
+FT   STRAND      181    187       {ECO:0000244|PDB:1R85}.
+FT   STRAND      193    195       {ECO:0000244|PDB:1R85}.
+FT   HELIX       199    204       {ECO:0000244|PDB:1R85}.
+FT   HELIX       207    220       {ECO:0000244|PDB:1R85}.
+FT   STRAND      224    231       {ECO:0000244|PDB:1R85}.
+FT   HELIX       238    251       {ECO:0000244|PDB:1R85}.
+FT   STRAND      258    261       {ECO:0000244|PDB:1R85}.
+FT   STRAND      267    270       {ECO:0000244|PDB:1R85}.
+FT   HELIX       272    284       {ECO:0000244|PDB:1R85}.
+FT   STRAND      288    296       {ECO:0000244|PDB:1R85}.
+FT   STRAND      306    308       {ECO:0000244|PDB:1R87}.
+FT   HELIX       309    311       {ECO:0000244|PDB:1R85}.
+FT   HELIX       314    333       {ECO:0000244|PDB:1R85}.
+FT   HELIX       335    337       {ECO:0000244|PDB:1R85}.
+FT   STRAND      338    347       {ECO:0000244|PDB:1R85}.
+FT   HELIX       352    356       {ECO:0000244|PDB:1R85}.
+FT   STRAND      359    361       {ECO:0000244|PDB:1R85}.
+FT   STRAND      376    379       {ECO:0000244|PDB:1R85}.
+FT   STRAND      388    390       {ECO:0000244|PDB:1R85}.
+FT   STRAND      394    396       {ECO:0000244|PDB:1R85}.
+FT   HELIX       398    404       {ECO:0000244|PDB:1R85}.
+SQ   SEQUENCE   407 AA;  46763 MW;  AD385C90B252B82A CRC64;
+     MRNVVRKPLT IGLALTLLLP MGMTATSAKN ADSYAKKPHI SALNAPQLDQ RYKNEFTIGA
+     AVEPYQLQNE KDVQMLKRHF NSIVAENVMK PISIQPEEGK FNFEQADRIV KFAKANGMDI
+     RFHTLVWHSQ VPQWFFLDKE GKPMVNETDP VKREQNKQLL LKRLETHIKT IVERYKDDIK
+     YWDVVNEVVG DDGKLRNSPW YQIAGIDYIK VAFQAARKYG GDNIKLYMND YNTEVEPKRT
+     ALYNLVKQLK EEGVPIDGIG HQSHIQIGWP SEAEIEKTIN MFAALGLDNQ ITELDVSMYG
+     WPPRAYPTYD AIPKQKFLDQ AARYDRLFKL YEKLSDKISN VTFWGIADNH TWLDSRADVY
+     YDANGNVVVD PNAPYAKVEK GKGKDAPFVF GPDYKVKPAY WAIIDHK
+//

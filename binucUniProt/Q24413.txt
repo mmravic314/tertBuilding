@@ -1,0 +1,88 @@
+ID   Q24413_DROME            Unreviewed;       950 AA.
+AC   Q24413;
+DT   01-NOV-1996, integrated into UniProtKB/TrEMBL.
+DT   01-JUL-1997, sequence version 2.
+DT   24-JUN-2015, entry version 79.
+DE   SubName: Full=Na/Ca exchange protein {ECO:0000313|EMBL:AAB50166.1};
+GN   Name=Calx {ECO:0000313|FlyBase:FBgn0013995};
+GN   Synonyms=NCX {ECO:0000313|EMBL:AAB50166.1};
+GN   ORFNames=CG5685 {ECO:0000313|FlyBase:FBgn0013995};
+OS   Drosophila melanogaster (Fruit fly).
+OC   Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+OC   Pterygota; Neoptera; Endopterygota; Diptera; Brachycera; Muscomorpha;
+OC   Ephydroidea; Drosophilidae; Drosophila; Sophophora.
+OX   NCBI_TaxID=7227 {ECO:0000313|EMBL:AAB50166.1};
+RN   [1] {ECO:0000313|EMBL:AAB50166.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=8659862; DOI=10.1111/j.1749-6632.1996.tb44769.x;
+RA   Schulze D.H., Kofuji P., Valdivia C., He S., Luo S., Ruknudin A.,
+RA   Wisel S., Kirby M.S., duBell W., Lederer W.J.;
+RT   "Alternative splicing of the Na(+)-Ca2+ exchanger gene, NCX1.";
+RL   Ann. N. Y. Acad. Sci. 779:46-57(1996).
+RN   [2] {ECO:0000313|EMBL:AAB50166.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=9252464;
+RA   Ruknudin A., Valdivia C., Kofuji P., Lederer W.J., Schulze D.H.;
+RT   "Na+/Ca2+ exchanger in Drosophila: cloning, expression, and transport
+RT   differences.";
+RL   Am. J. Physiol. 273:C257-C265(1997).
+RN   [3] {ECO:0000213|PDB:3E9U}
+RP   X-RAY CRYSTALLOGRAPHY (2.50 ANGSTROMS) OF 555-709.
+RX   PubMed=19361442; DOI=10.1016/j.jmb.2009.01.045;
+RA   Wu M., Wang M., Nix J., Hryshko L.V., Zheng L.;
+RT   "Crystal structure of CBD2 from the Drosophila Na(+)/Ca(2+) exchanger:
+RT   diversity of Ca(2+) regulation and its alternative splicing
+RT   modification.";
+RL   J. Mol. Biol. 387:104-112(2009).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; L39835; AAB50166.1; -; Genomic_DNA.
+DR   PDB; 3E9U; X-ray; 2.50 A; A=555-709.
+DR   PDBsum; 3E9U; -.
+DR   ProteinModelPortal; Q24413; -.
+DR   STRING; 7227.FBpp0301144; -.
+DR   FlyBase; FBgn0013995; Calx.
+DR   Reactome; REACT_309240; Sodium/Calcium exchangers.
+DR   Reactome; REACT_317986; Reduction of cytosolic Ca++ levels.
+DR   EvolutionaryTrace; Q24413; -.
+DR   Bgee; Q24413; -.
+DR   ExpressionAtlas; Q24413; differential.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0005509; F:calcium ion binding; IDA:FlyBase.
+DR   GO; GO:0005432; F:calcium:sodium antiporter activity; IDA:FlyBase.
+DR   GO; GO:0007602; P:phototransduction; IMP:FlyBase.
+DR   GO; GO:0034976; P:response to endoplasmic reticulum stress; IMP:FlyBase.
+DR   GO; GO:0035725; P:sodium ion transmembrane transport; IDA:GOC.
+DR   InterPro; IPR003644; Calx_beta.
+DR   InterPro; IPR004836; Na_Ca_Ex.
+DR   InterPro; IPR004837; NaCa_Exmemb.
+DR   Pfam; PF03160; Calx-beta; 2.
+DR   Pfam; PF01699; Na_Ca_ex; 2.
+DR   PRINTS; PR01259; NACAEXCHNGR.
+DR   SMART; SM00237; Calx_beta; 2.
+DR   TIGRFAMs; TIGR00845; caca; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3E9U};
+KW   Membrane {ECO:0000256|SAAS:SAAS00087593};
+KW   Transmembrane {ECO:0000256|SAAS:SAAS00087593};
+KW   Transmembrane helix {ECO:0000256|SAAS:SAAS00087593}.
+SQ   SEQUENCE   950 AA;  106077 MW;  EDA3AB574F1FD0E2 CRC64;
+     MQLLLKSIFT CALFVIFVYA TAQSLLKVQE TEARQAYLNV TSSSSSNLSQ DDGHFLSRRL
+     RQVSHGEEGD EGAPSQMDDE LEQMTKVHGE APDAEELREC SEGLVLPLWM PQRNISVGDR
+     LVRGFVYFVL LIYLFVGVSI IADRFMAAIE AITSIERAVV VKGPNNTKQV MHVRIWNETV
+     ANLTLMALGS SAPEILLSVI EIYAKDFESG DLGPGTIVGS AAYNLFMIIA VCMIWIPAGE
+     VRRIRHLRVF FVTALFSVFA YVWLWLILSV FTPGVILVWE AIVTLLFFPL TVLWAYIAER
+     RLLVYKYMDK NYRVNKRGTV VAGEHDQVEM DAEKGPKQPM VTSARGNDAE AFDEARREYI
+     TLLTELRQKY PDADLEQLEM MAQEQVLARS SKSRAFYRIQ ATRKMVGSGN LMRKIQERAH
+     SDLTEVKAQL HAGDDEEADD PIRMYFEPGH YTVMENCGEF EVRVVRRGDI STYASVEYET
+     QDGTASAGTD FVGRKGLLSF PPGVDEQRFR IEVIDDDVFE EDECFYIRLF NPSEGVKLAV
+     PMIATVMILD DDHAGIFAFT DSVFEITESV GRFELKVMRY SGARGTVIVP YWTENDTATE
+     SKDYEGARGE LVFENNESEK FIDLFILEES SYEKDVSFKV HIGEPRLAPD DGLAAKIKEV
+     EKKPVQDLTE LDRILLLSKP RNGELTTAYV RIRESQEFKA TVDKLVAKAN VSAVLGTSSW
+     KEQFKDALTV IPADESEFDN DDEEEEVPSC FSYVSHFVCL FWKVLFAFVP PTDICGGYVT
+     FVVSIFVIGV ITAIIGDAAS YFGCALNIKD SVTAILFVAL GTSIPDTFAS MIAAKHDEGA
+     DNCIGNVTGS NAVNVFLGIG LAWTIAAVYH SSHGMTFNVE PGTIGFAVAL FCGEALIAIM
+     LIMFRRWHKG IGAELGGPKV SKYISAAILV FLWVFYVVIC ILEAYDVIRV
+//

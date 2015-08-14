@@ -1,0 +1,98 @@
+ID   PHOU2_THEMA             Reviewed;         235 AA.
+AC   Q9X256;
+DT   01-DEC-2000, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1999, sequence version 1.
+DT   22-JUL-2015, entry version 97.
+DE   RecName: Full=Phosphate-specific transport system accessory protein PhoU homolog 2;
+DE            Short=Pst system accessory protein PhoU homolog 2;
+DE   AltName: Full=Phosphate uptake regulator PhoU homolog 2;
+GN   Name=phoU2; OrderedLocusNames=TM_1734;
+OS   Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099).
+OC   Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Thermotoga.
+OX   NCBI_TaxID=243274;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 43589 / MSB8 / DSM 3109 / JCM 10099;
+RX   PubMed=10360571; DOI=10.1038/20601;
+RA   Nelson K.E., Clayton R.A., Gill S.R., Gwinn M.L., Dodson R.J.,
+RA   Haft D.H., Hickey E.K., Peterson J.D., Nelson W.C., Ketchum K.A.,
+RA   McDonald L.A., Utterback T.R., Malek J.A., Linher K.D., Garrett M.M.,
+RA   Stewart A.M., Cotton M.D., Pratt M.S., Phillips C.A., Richardson D.L.,
+RA   Heidelberg J.F., Sutton G.G., Fleischmann R.D., Eisen J.A., White O.,
+RA   Salzberg S.L., Smith H.O., Venter J.C., Fraser C.M.;
+RT   "Evidence for lateral gene transfer between Archaea and Bacteria from
+RT   genome sequence of Thermotoga maritima.";
+RL   Nature 399:323-329(1999).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS) IN COMPLEX WITH IRON IONS AND
+RP   NICKEL ION.
+RC   STRAIN=ATCC 43589 / MSB8 / DSM 3109 / JCM 10099;
+RX   PubMed=15716271; DOI=10.1074/jbc.M414117200;
+RA   Liu J., Lou Y., Yokota H., Adams P.D., Kim R., Kim S.H.;
+RT   "Crystal structure of a PhoU protein homologue: a new class of
+RT   metalloprotein containing multinuclear iron clusters.";
+RL   J. Biol. Chem. 280:15960-15966(2005).
+CC   -!- FUNCTION: Plays a role in the regulation of phosphate uptake.
+CC       {ECO:0000250}.
+CC   -!- SUBUNIT: Homodimer. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the PhoU family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE000512; AAD36799.1; -; Genomic_DNA.
+DR   PIR; E72217; E72217.
+DR   RefSeq; NP_229532.1; NC_000853.1.
+DR   RefSeq; WP_004082252.1; NZ_CP011107.1.
+DR   PDB; 1SUM; X-ray; 2.00 A; B=1-235.
+DR   PDBsum; 1SUM; -.
+DR   ProteinModelPortal; Q9X256; -.
+DR   SMR; Q9X256; 2-225.
+DR   STRING; 243274.TM1734; -.
+DR   EnsemblBacteria; AAD36799; AAD36799; TM_1734.
+DR   GeneID; 897173; -.
+DR   KEGG; tma:TM1734; -.
+DR   KEGG; tmi:THEMA_05565; -.
+DR   KEGG; tmm:Tmari_1742; -.
+DR   PATRIC; 23938444; VBITheMar51294_1752.
+DR   eggNOG; COG0704; -.
+DR   InParanoid; Q9X256; -.
+DR   KO; K02039; -.
+DR   OMA; HMASIVK; -.
+DR   OrthoDB; EOG6Q2SPF; -.
+DR   EvolutionaryTrace; Q9X256; -.
+DR   Proteomes; UP000008183; Chromosome.
+DR   GO; GO:0005737; C:cytoplasm; ISS:UniProtKB.
+DR   GO; GO:0042803; F:protein homodimerization activity; ISS:UniProtKB.
+DR   GO; GO:0030643; P:cellular phosphate ion homeostasis; IEA:InterPro.
+DR   GO; GO:0045936; P:negative regulation of phosphate metabolic process; ISS:UniProtKB.
+DR   GO; GO:2000186; P:negative regulation of phosphate transmembrane transport; ISS:UniProtKB.
+DR   GO; GO:0006817; P:phosphate ion transport; IEA:UniProtKB-KW.
+DR   InterPro; IPR028366; P_trasport_PhoU.
+DR   InterPro; IPR026022; PhoU_dom.
+DR   Pfam; PF01895; PhoU; 2.
+DR   PIRSF; PIRSF003107; PhoU; 1.
+DR   TIGRFAMs; TIGR02135; phoU_full; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Cytoplasm; Phosphate transport;
+KW   Reference proteome; Transport.
+FT   CHAIN         1    235       Phosphate-specific transport system
+FT                                accessory protein PhoU homolog 2.
+FT                                /FTId=PRO_0000155183.
+FT   HELIX         5     36       {ECO:0000244|PDB:1SUM}.
+FT   HELIX        39     70       {ECO:0000244|PDB:1SUM}.
+FT   HELIX        75    107       {ECO:0000244|PDB:1SUM}.
+FT   HELIX       118    138       {ECO:0000244|PDB:1SUM}.
+FT   HELIX       142    145       {ECO:0000244|PDB:1SUM}.
+FT   HELIX       147    172       {ECO:0000244|PDB:1SUM}.
+FT   HELIX       174    176       {ECO:0000244|PDB:1SUM}.
+FT   HELIX       177    209       {ECO:0000244|PDB:1SUM}.
+FT   STRAND      213    216       {ECO:0000244|PDB:1SUM}.
+FT   STRAND      219    222       {ECO:0000244|PDB:1SUM}.
+SQ   SEQUENCE   235 AA;  26821 MW;  48558C71B710D831 CRC64;
+     MNRLLNEKVE EFKKGVLKAG WFIEKMFRNS ISSLVERNES LAREVIADEE VVDQMEVEIQ
+     EKAMEVLGLF SPIGKPLLTV TAGIRVAELI ENIADKCHDI AKNVLELMEE PPLKPLEDIP
+     AMANQTSEML KFALRMFADV NVEKSFEVCR MDSKVDDLYE KVREELLLYM MESPKYVKRA
+     LLLLEIAGNI EIIADYATNI VEVSVYMVQG EAYKCYHDEL LLFKKSGGVL FESSD
+//

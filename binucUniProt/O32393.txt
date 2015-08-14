@@ -1,0 +1,159 @@
+ID   O32393_ARTPT            Unreviewed;      1202 AA.
+AC   O32393;
+DT   01-JAN-1998, integrated into UniProtKB/TrEMBL.
+DT   01-JAN-1998, sequence version 1.
+DT   22-JUL-2015, entry version 101.
+DE   SubName: Full=Adenylate cyclase {ECO:0000313|EMBL:BAA22997.1};
+DE            EC=4.6.1.1 {ECO:0000313|EMBL:BAA22997.1};
+GN   Name=cyaC {ECO:0000313|EMBL:BAA22997.1};
+OS   Arthrospira platensis (Spirulina platensis).
+OC   Bacteria; Cyanobacteria; Oscillatoriophycideae; Oscillatoriales;
+OC   Arthrospira.
+OX   NCBI_TaxID=118562 {ECO:0000313|EMBL:BAA22997.1};
+RN   [1] {ECO:0000313|EMBL:BAA22997.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=IAM M-135 {ECO:0000313|EMBL:BAA22997.1};
+RX   PubMed=9297847;
+RA   Kasahara M., Yashiro K., Sakamoto T., Ohmori M.;
+RT   "The Spirulina platensis adenylate cyclase gene, cyaC, encodes a novel
+RT   signal transduction protein.";
+RL   Plant Cell Physiol. 38:828-836(1997).
+RN   [2] {ECO:0000213|PDB:2BW7}
+RP   X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) OF 1005-1199 IN COMPLEX WITH
+RP   CALCIUM.
+RX   PubMed=16002394; DOI=10.1074/jbc.M507144200;
+RA   Steegborn C., Litvin T.N., Hess K.C., Capper A.B., Taussig R.,
+RA   Buck J., Levin L.R., Wu H.;
+RT   "A novel mechanism for adenylyl cyclase inhibition from the crystal
+RT   structure of its complex with catechol estrogen.";
+RL   J. Biol. Chem. 280:31754-31759(2005).
+RN   [3] {ECO:0000213|PDB:1WC0, ECO:0000213|PDB:1WC1, ECO:0000213|PDB:1WC3}
+RP   X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS) OF 1005-1202 IN COMPLEX WITH
+RP   CALCIUM AND MAGNESIUM.
+RX   PubMed=15619637; DOI=10.1038/nsmb880;
+RA   Steegborn C., Litvin T.N., Levin L.R., Buck J., Wu H.;
+RT   "Bicarbonate activation of adenylyl cyclase via promotion of catalytic
+RT   active site closure and metal recruitment.";
+RL   Nat. Struct. Mol. Biol. 12:32-37(2005).
+CC   -!- SIMILARITY: Contains histidine kinase domain.
+CC       {ECO:0000256|SAAS:SAAS00102782}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; D49692; BAA22997.1; -; Genomic_DNA.
+DR   PIR; T17197; T17197.
+DR   PDB; 1WC0; X-ray; 2.40 A; A/B=1005-1202.
+DR   PDB; 1WC1; X-ray; 1.93 A; A/B/C=998-1202.
+DR   PDB; 1WC3; X-ray; 1.90 A; A/B=1005-1202.
+DR   PDB; 1WC4; X-ray; 3.00 A; A/B=1005-1202.
+DR   PDB; 1WC5; X-ray; 2.30 A; A/B/C/D=1005-1202.
+DR   PDB; 1WC6; X-ray; 2.51 A; A/B/C=998-1202.
+DR   PDB; 2BW7; X-ray; 2.30 A; A/B/C/D=1005-1199.
+DR   PDBsum; 1WC0; -.
+DR   PDBsum; 1WC1; -.
+DR   PDBsum; 1WC3; -.
+DR   PDBsum; 1WC4; -.
+DR   PDBsum; 1WC5; -.
+DR   PDBsum; 1WC6; -.
+DR   PDBsum; 2BW7; -.
+DR   ProteinModelPortal; O32393; -.
+DR   SMR; O32393; 1004-1199.
+DR   STRING; 696747.NIES39_G01210; -.
+DR   BindingDB; O32393; -.
+DR   ChEMBL; CHEMBL5755; -.
+DR   BRENDA; 4.6.1.1; 5828.
+DR   EvolutionaryTrace; O32393; -.
+DR   GO; GO:0005622; C:intracellular; IEA:GOC.
+DR   GO; GO:0016020; C:membrane; IEA:InterPro.
+DR   GO; GO:0004016; F:adenylate cyclase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000155; F:phosphorelay sensor kinase activity; IEA:InterPro.
+DR   GO; GO:0018298; P:protein-chromophore linkage; IEA:InterPro.
+DR   Gene3D; 1.10.287.130; -; 1.
+DR   Gene3D; 3.30.450.40; -; 3.
+DR   Gene3D; 3.30.565.10; -; 1.
+DR   Gene3D; 3.30.70.1230; -; 1.
+DR   InterPro; IPR001054; A/G_cyclase.
+DR   InterPro; IPR011006; CheY-like_superfamily.
+DR   InterPro; IPR003661; EnvZ-like_dim/P.
+DR   InterPro; IPR003018; GAF.
+DR   InterPro; IPR029016; GAF_dom-like.
+DR   InterPro; IPR003594; HATPase_C.
+DR   InterPro; IPR029787; Nucleotide_cyclase.
+DR   InterPro; IPR016132; Phyto_chromo_attachment.
+DR   InterPro; IPR004358; Sig_transdc_His_kin-like_C.
+DR   InterPro; IPR005467; Sig_transdc_His_kinase_core.
+DR   InterPro; IPR009082; Sig_transdc_His_kinase_dimeric.
+DR   InterPro; IPR001789; Sig_transdc_resp-reg_receiver.
+DR   Pfam; PF01590; GAF; 2.
+DR   Pfam; PF00211; Guanylate_cyc; 1.
+DR   Pfam; PF02518; HATPase_c; 1.
+DR   Pfam; PF00512; HisKA; 1.
+DR   Pfam; PF00072; Response_reg; 2.
+DR   PRINTS; PR00344; BCTRLSENSOR.
+DR   SMART; SM00044; CYCc; 1.
+DR   SMART; SM00065; GAF; 2.
+DR   SMART; SM00387; HATPase_c; 1.
+DR   SMART; SM00388; HisKA; 1.
+DR   SMART; SM00448; REC; 2.
+DR   SUPFAM; SSF47384; SSF47384; 1.
+DR   SUPFAM; SSF52172; SSF52172; 2.
+DR   SUPFAM; SSF55073; SSF55073; 1.
+DR   SUPFAM; SSF55781; SSF55781; 3.
+DR   SUPFAM; SSF55874; SSF55874; 1.
+DR   PROSITE; PS50125; GUANYLATE_CYCLASE_2; 1.
+DR   PROSITE; PS50109; HIS_KIN; 1.
+DR   PROSITE; PS50046; PHYTOCHROME_2; 1.
+DR   PROSITE; PS50110; RESPONSE_REGULATORY; 2.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:1WC0, ECO:0000213|PDB:1WC1};
+KW   Calcium {ECO:0000213|PDB:1WC0, ECO:0000213|PDB:1WC5};
+KW   Lyase {ECO:0000313|EMBL:BAA22997.1};
+KW   Magnesium {ECO:0000213|PDB:1WC1, ECO:0000213|PDB:1WC5};
+KW   Metal-binding {ECO:0000213|PDB:1WC0, ECO:0000213|PDB:1WC1};
+KW   Phosphoprotein {ECO:0000256|SAAS:SAAS00241301}.
+FT   METAL      1017   1017       Calcium. {ECO:0000213|PDB:1WC0,
+FT                                ECO:0000213|PDB:1WC5,
+FT                                ECO:0000213|PDB:2BW7}.
+FT   METAL      1017   1017       Magnesium 1. {ECO:0000213|PDB:1WC1,
+FT                                ECO:0000213|PDB:1WC6}.
+FT   METAL      1017   1017       Magnesium 2. {ECO:0000213|PDB:1WC6}.
+FT   METAL      1018   1018       Calcium; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:1WC0,
+FT                                ECO:0000213|PDB:1WC5,
+FT                                ECO:0000213|PDB:2BW7}.
+FT   METAL      1018   1018       Magnesium 1; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:1WC1,
+FT                                ECO:0000213|PDB:1WC6}.
+FT   METAL      1059   1059       Magnesium 2; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:1WC6}.
+FT   METAL      1061   1061       Calcium. {ECO:0000213|PDB:1WC0,
+FT                                ECO:0000213|PDB:1WC5,
+FT                                ECO:0000213|PDB:2BW7}.
+FT   METAL      1061   1061       Magnesium 1. {ECO:0000213|PDB:1WC1,
+FT                                ECO:0000213|PDB:1WC6}.
+FT   METAL      1061   1061       Magnesium 2. {ECO:0000213|PDB:1WC6}.
+SQ   SEQUENCE   1202 AA;  133924 MW;  275BEC0C120AFD4D CRC64;
+     MSSPNRKLKP TILVVDDEPD NLDLLYRTFH REFKVLKAES GPAALKILEE VGEVAVIISD
+     QRMPYMSGTE FLSLTATQYP DSIRIILTGY TDVEDLVEAI NSGKVFKYVT KPWKSDELKA
+     IVQQGLETHN VLKSRTEELR LAQKQESLLY EVTSTIRACP NSQEMLQRIV ETVGKMFEVS
+     YCLLRSFGVG SDLIGLGAGV SPTKQDITAT QGKEWFAYLA EGQNHQNSTT DNISVINNND
+     LELRSLVWET TEVMILSEGL GNDISDHDGP EWQQRRDVYQ RADIRSSLIV PLYYRQELLA
+     VLALHHTGSP RNWHEHEVQL AAGVADQAAL ALSQVRAYEQ VRELARREAL VNTITNAIRS
+     SLDPQKIFAA ITEQLGEALE VDGCALSLWS PGDEYMQCVG LYNAAIKETV VETRPAALSE
+     PDTSTTTNLP LLGVETNQSI ESDQSDDLPQ SAAPISGNPV LQELIRTRAP VAIADIEQRP
+     DSMVMLPLRS PSKALLVVPL LLDGDIIGSI SLRQNHQVRH WQPSEIDMVL LVAAQAALAV
+     QQARLYQKTR QQAERLLEAD RLKTEFFQNV SHEFRTPLTL MIGPLETVVN QQQDLSLDQA
+     KIALRNSRRL LRLVNQLLDL QRFDAGRMQP SFRPCDLVEF CQQTVESFKS YCDRKQINLV
+     TNLQSCPQLY LDLERFDKVL YNLLSNAMKF TPTDGTITVS LQPEGNYCRL MVKDTGIGIK
+     QEQLPHLFER FRQAEGSANR SFEGSGLGLA LVKELVELHH GRITVESEYG QGTTFTVWLQ
+     MGNLHLPPSP LLDVPAEFDA RRAAVELADV EVDLPDVQID DINLPEVLVA DGSASLTDHG
+     QLGSNTVLVV DDNPDLRRYV SMMLQNAGFN AVLAKNGADG FNKAQTYHPD VIVTDLMMPQ
+     VSGLELIRMI RSSPELRGTP IILLTAKADE DTRIEGVERG ADAYVSKPFN DRELIAEVRN
+     LQALKAEERR VAHLNKYLTE SVLRRFLPES MVKKAAAGDL TLDLRPEPRL ITILFSDIVG
+     FTRMSNALQS QGVAELLNEY LGEMTRAVFE NQGTVDKFVG DAIMALYGAP EEMSPSEQVR
+     RAIATARQML VALEKLNQGW QERGLVGRNE VPPVRFRCGI HQGMAVVGLF GSQERSDFTA
+     IGPSVNIAAR LQEATAPNSI MVSAMVAQYV PDEEIIKREF LELKGIDEPV MTCVINPNML
+     NQ
+//

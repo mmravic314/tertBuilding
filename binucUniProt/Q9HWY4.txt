@@ -1,0 +1,96 @@
+ID   Q9HWY4_PSEAE            Unreviewed;       295 AA.
+AC   Q9HWY4;
+DT   01-MAR-2001, integrated into UniProtKB/TrEMBL.
+DT   01-MAR-2001, sequence version 1.
+DT   22-JUL-2015, entry version 86.
+DE   SubName: Full=Geranyltranstransferase {ECO:0000313|EMBL:AAG07430.1};
+GN   Name=ispA {ECO:0000313|EMBL:AAG07430.1};
+GN   OrderedLocusNames=PA4043 {ECO:0000313|EMBL:AAG07430.1};
+OS   Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG
+OS   12228).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+OC   Pseudomonadaceae; Pseudomonas.
+OX   NCBI_TaxID=208964 {ECO:0000313|EMBL:AAG07430.1, ECO:0000313|Proteomes:UP000002438};
+RN   [1] {ECO:0000313|EMBL:AAG07430.1, ECO:0000313|Proteomes:UP000002438}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228
+RC   {ECO:0000313|Proteomes:UP000002438};
+RX   PubMed=10984043; DOI=10.1038/35023079;
+RA   Stover C.K., Pham X.-Q.T., Erwin A.L., Mizoguchi S.D., Warrener P.,
+RA   Hickey M.J., Brinkman F.S.L., Hufnagle W.O., Kowalik D.J., Lagrou M.,
+RA   Garber R.L., Goltry L., Tolentino E., Westbrock-Wadman S., Yuan Y.,
+RA   Brody L.L., Coulter S.N., Folger K.R., Kas A., Larbig K., Lim R.M.,
+RA   Smith K.A., Spencer D.H., Wong G.K.-S., Wu Z., Paulsen I.T.,
+RA   Reizer J., Saier M.H. Jr., Hancock R.E.W., Lory S., Olson M.V.;
+RT   "Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+RT   opportunistic pathogen.";
+RL   Nature 406:959-964(2000).
+RN   [2] {ECO:0000213|PDB:3ZCD, ECO:0000213|PDB:3ZL6, ECO:0000213|PDB:3ZMB}
+RP   X-RAY CRYSTALLOGRAPHY (1.55 ANGSTROMS) IN COMPLEX WITH MAGNESIUM.
+RX   PubMed=25760619; DOI=10.1107/S1399004715001121;
+RA   Schmidberger J.W., Schnell R., Schneider G.;
+RT   "Structural characterization of substrate and inhibitor binding to
+RT   farnesyl pyrophosphate synthase from Pseudomonas aeruginosa.";
+RL   Acta Crystallogr. D 71:721-731(2015).
+CC   -!- SIMILARITY: Belongs to the FPP/GGPP synthase family.
+CC       {ECO:0000256|RuleBase:RU004466}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE004091; AAG07430.1; -; Genomic_DNA.
+DR   PIR; F83139; F83139.
+DR   RefSeq; NP_252732.1; NC_002516.2.
+DR   RefSeq; WP_003114915.1; NC_002516.2.
+DR   PDB; 3ZCD; X-ray; 1.55 A; A/B=1-295.
+DR   PDB; 3ZL6; X-ray; 1.85 A; A/B=1-295.
+DR   PDB; 3ZMB; X-ray; 1.90 A; A/B=1-295.
+DR   PDB; 3ZMC; X-ray; 1.87 A; A/B=1-295.
+DR   PDB; 3ZOU; X-ray; 1.55 A; A/B=1-295.
+DR   PDB; 4UMJ; X-ray; 1.85 A; A/B=1-295.
+DR   ProteinModelPortal; Q9HWY4; -.
+DR   SMR; Q9HWY4; 1-294.
+DR   STRING; 208964.PA4043; -.
+DR   DNASU; 879058; -.
+DR   EnsemblBacteria; AAG07430; AAG07430; PA4043.
+DR   GeneID; 879058; -.
+DR   KEGG; pae:PA4043; -.
+DR   PATRIC; 19842755; VBIPseAer58763_4234.
+DR   PseudoCAP; PA4043; -.
+DR   HOGENOM; HOG000009101; -.
+DR   InParanoid; Q9HWY4; -.
+DR   KO; K13789; -.
+DR   OMA; ASFIIER; -.
+DR   OrthoDB; EOG6TN43W; -.
+DR   PhylomeDB; Q9HWY4; -.
+DR   Proteomes; UP000002438; Chromosome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016740; F:transferase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0008299; P:isoprenoid biosynthetic process; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.600.10; -; 1.
+DR   InterPro; IPR008949; Isoprenoid_synthase_dom.
+DR   InterPro; IPR000092; Polyprenyl_synt.
+DR   InterPro; IPR017446; Polyprenyl_synth-rel.
+DR   PANTHER; PTHR12001; PTHR12001; 1.
+DR   Pfam; PF00348; polyprenyl_synt; 1.
+DR   SUPFAM; SSF48576; SSF48576; 1.
+DR   PROSITE; PS00723; POLYPRENYL_SYNTHASE_1; 1.
+DR   PROSITE; PS00444; POLYPRENYL_SYNTHASE_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3ZCD, ECO:0000213|PDB:3ZL6};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002438};
+KW   Isoprene biosynthesis {ECO:0000256|RuleBase:RU004466};
+KW   Magnesium {ECO:0000213|PDB:3ZL6, ECO:0000213|PDB:3ZMC};
+KW   Metal-binding {ECO:0000213|PDB:3ZL6, ECO:0000213|PDB:3ZMC};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000002438};
+KW   Transferase {ECO:0000256|RuleBase:RU004466,
+KW   ECO:0000313|EMBL:AAG07430.1}.
+FT   METAL        83     83       Magnesium. {ECO:0000213|PDB:3ZOU}.
+FT   METAL        89     89       Magnesium. {ECO:0000213|PDB:3ZOU}.
+SQ   SEQUENCE   295 AA;  31465 MW;  EFDFFA6D66F5C126 CRC64;
+     MIAAYQARCQ ARVDAALDAL FVAPREELQR LYEAMRYSVM NGGKRVRPLL AYAACEALGG
+     APQRADAAAC AVELIHAYSL VHDDLPAMDD DDLRRGQPTT HRAFDEATAI LAADGLQALA
+     FEVLADTRRN PQEHAVCLEM LTRLARAAGS AGMVGGQAID LGSVGVALDQ AALEVMHRHK
+     TGALIEASVR LGALASGRAE PASLAALERY AEAIGLAFQV QDDILDVESD TATLGKTQGK
+     DQAHNKPTYP ALLGLEAAKG YALELRDLAL AALDGFPPSA DPLRQLARYI VERRN
+//

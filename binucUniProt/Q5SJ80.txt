@@ -1,0 +1,195 @@
+ID   COX2_THET8              Reviewed;         168 AA.
+AC   Q5SJ80;
+DT   24-MAY-2005, integrated into UniProtKB/Swiss-Prot.
+DT   21-DEC-2004, sequence version 1.
+DT   01-APR-2015, entry version 96.
+DE   RecName: Full=Cytochrome c oxidase subunit 2;
+DE            EC=1.9.3.1;
+DE   AltName: Full=Cytochrome c ba(3) subunit II;
+DE   AltName: Full=Cytochrome c oxidase polypeptide II;
+DE   AltName: Full=Cytochrome cba3 subunit 2;
+GN   Name=cbaB; Synonyms=ctaC; OrderedLocusNames=TTHA1134;
+OS   Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579).
+OC   Bacteria; Deinococcus-Thermus; Deinococci; Thermales; Thermaceae;
+OC   Thermus.
+OX   NCBI_TaxID=300852;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND PROTEIN SEQUENCE OF 1-30.
+RX   PubMed=7657607; DOI=10.1074/jbc.270.35.20345;
+RA   Keightley J.A., Zimmermann B.H., Mather M.W., Springer P.,
+RA   Pastuszyn A., Lawrence D.M., Fee J.A.;
+RT   "Molecular genetic and protein chemical characterization of the
+RT   cytochrome ba3 from Thermus thermophilus HB8.";
+RL   J. Biol. Chem. 270:20345-20358(1995).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=HB8 / ATCC 27634 / DSM 579;
+RA   Masui R., Kurokawa K., Nakagawa N., Tokunaga F., Koyama Y.,
+RA   Shibata T., Oshima T., Yokoyama S., Yasunaga T., Kuramitsu S.;
+RT   "Complete genome sequence of Thermus thermophilus HB8.";
+RL   Submitted (NOV-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS).
+RX   PubMed=10775261; DOI=10.1093/emboj/19.8.1766;
+RA   Soulimane T., Buse G., Bourenkov G.P., Bartunik H.D., Huber R.,
+RA   Than M.E.;
+RT   "Structure and mechanism of the aberrant ba3-cytochrome c oxidase from
+RT   Thermus thermophilus.";
+RL   EMBO J. 19:1766-1776(2000).
+CC   -!- FUNCTION: Subunits I and II form the functional core of the enzyme
+CC       complex. Electrons originating in cytochrome c are transferred via
+CC       heme a and Cu(A) to the binuclear center formed by heme a3 and
+CC       Cu(B).
+CC   -!- CATALYTIC ACTIVITY: 4 ferrocytochrome c + O(2) + 4 H(+) = 4
+CC       ferricytochrome c + 2 H(2)O.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane; Single-pass membrane protein.
+CC   -!- SIMILARITY: Belongs to the cytochrome c oxidase subunit 2 family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; L09121; AAB00369.1; -; Genomic_DNA.
+DR   EMBL; AP008226; BAD70957.1; -; Genomic_DNA.
+DR   PIR; T52480; T52480.
+DR   RefSeq; WP_011173203.1; NC_006461.1.
+DR   RefSeq; YP_144400.1; NC_006461.1.
+DR   PDB; 1EHK; X-ray; 2.40 A; B=1-168.
+DR   PDB; 2QPD; X-ray; 3.25 A; B=1-168.
+DR   PDB; 2QPE; X-ray; 2.90 A; B=1-168.
+DR   PDB; 3BVD; X-ray; 3.37 A; B=1-168.
+DR   PDB; 3EH3; X-ray; 3.10 A; B=3-168.
+DR   PDB; 3EH4; X-ray; 2.90 A; B=3-168.
+DR   PDB; 3EH5; X-ray; 2.80 A; B=3-168.
+DR   PDB; 3QJQ; X-ray; 2.90 A; B=1-168.
+DR   PDB; 3QJR; X-ray; 3.20 A; B=1-168.
+DR   PDB; 3QJS; X-ray; 2.80 A; B=1-168.
+DR   PDB; 3QJT; X-ray; 2.95 A; B=1-168.
+DR   PDB; 3QJU; X-ray; 2.90 A; B=1-168.
+DR   PDB; 3QJV; X-ray; 2.80 A; B=1-168.
+DR   PDB; 3S33; X-ray; 4.45 A; B=3-168.
+DR   PDB; 3S38; X-ray; 4.20 A; B=3-168.
+DR   PDB; 3S39; X-ray; 4.80 A; B=3-168.
+DR   PDB; 3S3A; X-ray; 4.25 A; B=3-168.
+DR   PDB; 3S3B; X-ray; 3.30 A; B=3-168.
+DR   PDB; 3S3C; X-ray; 4.00 A; B=3-168.
+DR   PDB; 3S3D; X-ray; 3.75 A; B=3-168.
+DR   PDB; 3S8F; X-ray; 1.80 A; B=1-168.
+DR   PDB; 3S8G; X-ray; 1.80 A; B=1-168.
+DR   PDB; 4FA7; X-ray; 2.50 A; B=1-168.
+DR   PDB; 4FAA; X-ray; 2.80 A; B=1-168.
+DR   PDB; 4G70; X-ray; 2.60 A; B=1-168.
+DR   PDB; 4G71; X-ray; 2.90 A; B=1-168.
+DR   PDB; 4G72; X-ray; 3.19 A; B=1-168.
+DR   PDB; 4G7Q; X-ray; 2.60 A; B=1-168.
+DR   PDB; 4G7R; X-ray; 3.05 A; B=1-168.
+DR   PDB; 4G7S; X-ray; 2.00 A; B=1-168.
+DR   PDB; 4GP4; X-ray; 2.80 A; B=1-168.
+DR   PDB; 4GP5; X-ray; 2.70 A; B=1-168.
+DR   PDB; 4GP8; X-ray; 2.80 A; B=1-168.
+DR   PDB; 4N4Y; X-ray; 2.90 A; B=1-168.
+DR   PDBsum; 1EHK; -.
+DR   PDBsum; 2QPD; -.
+DR   PDBsum; 2QPE; -.
+DR   PDBsum; 3BVD; -.
+DR   PDBsum; 3EH3; -.
+DR   PDBsum; 3EH4; -.
+DR   PDBsum; 3EH5; -.
+DR   PDBsum; 3QJQ; -.
+DR   PDBsum; 3QJR; -.
+DR   PDBsum; 3QJS; -.
+DR   PDBsum; 3QJT; -.
+DR   PDBsum; 3QJU; -.
+DR   PDBsum; 3QJV; -.
+DR   PDBsum; 3S33; -.
+DR   PDBsum; 3S38; -.
+DR   PDBsum; 3S39; -.
+DR   PDBsum; 3S3A; -.
+DR   PDBsum; 3S3B; -.
+DR   PDBsum; 3S3C; -.
+DR   PDBsum; 3S3D; -.
+DR   PDBsum; 3S8F; -.
+DR   PDBsum; 3S8G; -.
+DR   PDBsum; 4FA7; -.
+DR   PDBsum; 4FAA; -.
+DR   PDBsum; 4G70; -.
+DR   PDBsum; 4G71; -.
+DR   PDBsum; 4G72; -.
+DR   PDBsum; 4G7Q; -.
+DR   PDBsum; 4G7R; -.
+DR   PDBsum; 4G7S; -.
+DR   PDBsum; 4GP4; -.
+DR   PDBsum; 4GP5; -.
+DR   PDBsum; 4GP8; -.
+DR   PDBsum; 4N4Y; -.
+DR   ProteinModelPortal; Q5SJ80; -.
+DR   SMR; Q5SJ80; 3-168.
+DR   STRING; 300852.TTHA1134; -.
+DR   TCDB; 3.D.4.2.1; the proton-translocating cytochrome oxidase (cox) superfamily.
+DR   EnsemblBacteria; BAD70957; BAD70957; BAD70957.
+DR   GeneID; 3169672; -.
+DR   KEGG; ttj:TTHA1134; -.
+DR   PATRIC; 23957227; VBITheThe93045_1113.
+DR   eggNOG; COG1622; -.
+DR   HOGENOM; HOG000249469; -.
+DR   KO; K02275; -.
+DR   OMA; AGTNVNM; -.
+DR   OrthoDB; EOG6TFCQV; -.
+DR   PhylomeDB; Q5SJ80; -.
+DR   BioCyc; TTHE300852:GH8R-1166-MONOMER; -.
+DR   BRENDA; 1.9.3.1; 2305.
+DR   EvolutionaryTrace; Q5SJ80; -.
+DR   Proteomes; UP000000532; Chromosome.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0005886; C:plasma membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0070469; C:respiratory chain; IEA:UniProtKB-KW.
+DR   GO; GO:0005507; F:copper ion binding; IEA:InterPro.
+DR   GO; GO:0004129; F:cytochrome-c oxidase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0022900; P:electron transport chain; IEA:InterPro.
+DR   Gene3D; 2.60.40.420; -; 1.
+DR   InterPro; IPR001505; Copper_CuA.
+DR   InterPro; IPR008972; Cupredoxin.
+DR   InterPro; IPR002429; Cyt_c_oxidase_su2_C.
+DR   InterPro; IPR011759; Cyt_c_oxidase_su2_TM_dom.
+DR   InterPro; IPR015209; Cyt_c_oxidase_su2a_TM_dom.
+DR   Pfam; PF00116; COX2; 1.
+DR   Pfam; PF09125; COX2-transmemb; 1.
+DR   SUPFAM; SSF49503; SSF49503; 1.
+DR   SUPFAM; SSF81464; SSF81464; 1.
+DR   PROSITE; PS00078; COX2; 1.
+DR   PROSITE; PS50857; COX2_CUA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cell membrane; Complete proteome; Copper;
+KW   Direct protein sequencing; Electron transport; Membrane;
+KW   Metal-binding; Oxidoreductase; Reference proteome; Respiratory chain;
+KW   Transmembrane; Transmembrane helix; Transport.
+FT   CHAIN         1    168       Cytochrome c oxidase subunit 2.
+FT                                /FTId=PRO_0000183722.
+FT   TOPO_DOM      1      3       Cytoplasmic.
+FT   TRANSMEM      4     38       Helical.
+FT   TOPO_DOM     39    168       Periplasmic.
+FT   METAL       114    114       Copper A.
+FT   METAL       149    149       Copper A.
+FT   METAL       153    153       Copper A.
+FT   METAL       157    157       Copper A.
+FT   HELIX         4     36       {ECO:0000244|PDB:3S8F}.
+FT   HELIX        40     44       {ECO:0000244|PDB:3S8F}.
+FT   TURN         55     60       {ECO:0000244|PDB:3S8F}.
+FT   TURN         63     65       {ECO:0000244|PDB:3QJT}.
+FT   HELIX        67     69       {ECO:0000244|PDB:3S8F}.
+FT   STRAND       71     75       {ECO:0000244|PDB:3S8F}.
+FT   STRAND       78     86       {ECO:0000244|PDB:3S8F}.
+FT   STRAND       89     98       {ECO:0000244|PDB:3S8F}.
+FT   STRAND      101    108       {ECO:0000244|PDB:3S8F}.
+FT   STRAND      110    112       {ECO:0000244|PDB:3S8F}.
+FT   STRAND      114    118       {ECO:0000244|PDB:3S8F}.
+FT   STRAND      124    127       {ECO:0000244|PDB:3S8F}.
+FT   STRAND      133    138       {ECO:0000244|PDB:3S8F}.
+FT   STRAND      143    148       {ECO:0000244|PDB:3S8F}.
+FT   HELIX       157    159       {ECO:0000244|PDB:3S8F}.
+FT   STRAND      161    167       {ECO:0000244|PDB:3S8F}.
+SQ   SEQUENCE   168 AA;  18563 MW;  FE5689FB7672CF05 CRC64;
+     MVDEHKAHKA ILAYEKGWLA FSLAMLFVFI ALIAYTLATH TAGVIPAGKL ERVDPTTVRQ
+     EGPWADPAQA VVQTGPNQYT VYVLAFAFGY QPNPIEVPQG AEIVFKITSP DVIHGFHVEG
+     TNINVEVLPG EVSTVRYTFK RPGEYRIICN QYCGLGHQNM FGTIVVKE
+//

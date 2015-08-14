@@ -1,0 +1,86 @@
+ID   Q3KK32_PSEPF            Unreviewed;       251 AA.
+AC   Q3KK32;
+DT   08-NOV-2005, integrated into UniProtKB/TrEMBL.
+DT   08-NOV-2005, sequence version 1.
+DT   22-JUL-2015, entry version 67.
+DE   SubName: Full=Putative cystine protease {ECO:0000313|EMBL:ABA71874.1};
+DE   Flags: Precursor;
+GN   Name=lapF {ECO:0000313|EMBL:ABA71874.1};
+GN   OrderedLocusNames=Pfl01_0130 {ECO:0000313|EMBL:ABA71874.1};
+OS   Pseudomonas fluorescens (strain Pf0-1).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+OC   Pseudomonadaceae; Pseudomonas.
+OX   NCBI_TaxID=205922 {ECO:0000313|EMBL:ABA71874.1, ECO:0000313|Proteomes:UP000002704};
+RN   [1] {ECO:0000313|EMBL:ABA71874.1, ECO:0000313|Proteomes:UP000002704}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Pf0-1 {ECO:0000313|EMBL:ABA71874.1,
+RC   ECO:0000313|Proteomes:UP000002704};
+RX   PubMed=19432983; DOI=10.1186/gb-2009-10-5-r51;
+RA   Silby M.W., Cerdeno-Tarraga A.M., Vernikos G.S., Giddens S.R.,
+RA   Jackson R.W., Preston G.M., Zhang X.X., Moon C.D., Gehrig S.M.,
+RA   Godfrey S.A., Knight C.G., Malone J.G., Robinson Z., Spiers A.J.,
+RA   Harris S., Challis G.L., Yaxley A.M., Harris D., Seeger K., Murphy L.,
+RA   Rutter S., Squares R., Quail M.A., Saunders E., Mavromatis K.,
+RA   Brettin T.S., Bentley S.D., Hothersall J., Stephens E., Thomas C.M.,
+RA   Parkhill J., Levy S.B., Rainey P.B., Thomson N.R.;
+RT   "Genomic and genetic analyses of diversity and plant interactions of
+RT   Pseudomonas fluorescens.";
+RL   Genome Biol. 10:R51.1-R51.16(2009).
+RN   [2] {ECO:0000213|PDB:4U65}
+RP   X-RAY CRYSTALLOGRAPHY (2.10 ANGSTROMS) OF 51-247 IN COMPLEX WITH
+RP   CALCIUM.
+RX   PubMed=25182848;
+RA   Chatterjee D., Cooley R.B., Boyd C.D., Mehl R.A., O'Toole G.A.,
+RA   Sondermann H.;
+RT   "Mechanistic insight into the conserved allosteric regulation of
+RT   periplasmic proteolysis by the signaling molecule cyclic-di-GMP.";
+RL   Elife 3:e03650-e03650(2014).
+CC   -!- INTERACTION:
+CC       Q3KK31:lapD; NbExp=2; IntAct=EBI-6418902, EBI-6418896;
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP000094; ABA71874.1; -; Genomic_DNA.
+DR   PDB; 4U65; X-ray; 2.10 A; E/F=51-247.
+DR   PDBsum; 4U65; -.
+DR   DIP; DIP-58961N; -.
+DR   IntAct; Q3KK32; 3.
+DR   STRING; 205922.Pfl01_0130; -.
+DR   MEROPS; C93.001; -.
+DR   EnsemblBacteria; ABA71874; ABA71874; Pfl01_0130.
+DR   KEGG; pfo:Pfl01_0130; -.
+DR   PATRIC; 19882280; VBIPseFlu44242_0130.
+DR   eggNOG; COG3672; -.
+DR   HOGENOM; HOG000283318; -.
+DR   OMA; DIDLWHE; -.
+DR   OrthoDB; EOG6CK7J1; -.
+DR   BioCyc; PFLU205922:GJBD-136-MONOMER; -.
+DR   Proteomes; UP000002704; Chromosome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0008233; F:peptidase activity; IEA:UniProtKB-KW.
+DR   InterPro; IPR010319; Transglutaminase-like_Cys_pept.
+DR   Pfam; PF06035; Peptidase_C93; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4U65}; Calcium {ECO:0000213|PDB:4U65};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002704};
+KW   Hydrolase {ECO:0000313|EMBL:ABA71874.1};
+KW   Metal-binding {ECO:0000213|PDB:4U65};
+KW   Protease {ECO:0000313|EMBL:ABA71874.1}.
+FT   METAL       111    111       Calcium 1. {ECO:0000213|PDB:4U65}.
+FT   METAL       111    111       Calcium 2. {ECO:0000213|PDB:4U65}.
+FT   METAL       119    119       Calcium 1. {ECO:0000213|PDB:4U65}.
+FT   METAL       120    120       Calcium 2; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:4U65}.
+FT   METAL       134    134       Calcium 1. {ECO:0000213|PDB:4U65}.
+FT   METAL       134    134       Calcium 2. {ECO:0000213|PDB:4U65}.
+FT   METAL       136    136       Calcium 1. {ECO:0000213|PDB:4U65}.
+FT   METAL       136    136       Calcium 2. {ECO:0000213|PDB:4U65}.
+FT   METAL       137    137       Calcium 2. {ECO:0000213|PDB:4U65}.
+SQ   SEQUENCE   251 AA;  28350 MW;  438AE5C5244F9A51 CRC64;
+     MFFAGLTFTI KRFLLCPGCL ALAVRFAIPR IARWLACALL LAGIMLGGLH ADWDFSAISR
+     KATALYGPLG AGQQRIDAWQ NLLATQKQVS EMEKLKVVNL FFNKQMRYVE DIDLWHEVDY
+     WETPIEALWK GAGDCEDYAI AKYFSLRHLG VASDKLRITY VKALRQNRAH MVLTYYSSPD
+     AMPLVLDSLI DPIKPAAERT DLLPVYSFNA EGLYLPGAKG NKKVGDTKRL SRWQDVLKKM
+     QAEGFPVETT N
+//

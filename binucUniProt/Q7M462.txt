@@ -1,0 +1,107 @@
+ID   Q7M462_CUCEC            Unreviewed;       140 AA.
+AC   Q7M462;
+DT   15-DEC-2003, integrated into UniProtKB/TrEMBL.
+DT   15-DEC-2003, sequence version 1.
+DT   22-JUL-2015, entry version 49.
+DE   SubName: Full=Lectin CEL-I, N-acetyl-D-galactosamine-specific C-type {ECO:0000313|PIR:JC7786};
+OS   Cucumaria echinata (Sea cucumber).
+OC   Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+OC   Holothuroidea; Dendrochirotacea; Dendrochirotida; Cucumariidae;
+OC   Cucumaria.
+OX   NCBI_TaxID=40245 {ECO:0000313|PIR:JC7786};
+RN   [1] {ECO:0000313|PIR:JC7786}
+RP   PROTEIN SEQUENCE.
+RA   Hatakeyama T., Matsuo N., Shiba K., Nishinohara S., Yamasaki N.,
+RA   Sugawara H., Aoyagi H.;
+RL   Submitted (FEB-2002) to the PIR data bank.
+RN   [2] {ECO:0000213|PDB:1WMY, ECO:0000213|PDB:1WMZ}
+RP   X-RAY CRYSTALLOGRAPHY (1.70 ANGSTROMS) IN COMPLEX WITH CALCIUM AND
+RP   N-ACETYL-D-GALACTOSAMINE, AND DISULFIDE BONDS.
+RX   PubMed=15319425; DOI=10.1074/jbc.M408840200;
+RA   Sugawara H., Kusunoki M., Kurisu G., Fujimoto T., Aoyagi H.,
+RA   Hatakeyama T.;
+RT   "Characteristic recognition of N-acetylgalactosamine by an
+RT   invertebrate C-type Lectin, CEL-I, revealed by X-ray crystallographic
+RT   analysis.";
+RL   J. Biol. Chem. 279:45219-45225(2004).
+RN   [3] {ECO:0000213|PDB:4WQQ}
+RP   X-RAY CRYSTALLOGRAPHY (1.70 ANGSTROMS) IN COMPLEX WITH CALCIUM AND
+RP   MANNOSE, AND DISULFIDE BONDS.
+RX   PubMed=25869490; DOI=10.1016/j.bbagen.2015.04.004;
+RA   Moriuchi H., Unno H., Goda S., Tateno H., Hirabayashi J.,
+RA   Hatakeyama T.;
+RT   "Mannose-recognition mutant of the galactose/N-acetylgalactosamine-
+RT   specific C-type lectin CEL-I engineered by site-directed
+RT   mutagenesis.";
+RL   Biochim. Biophys. Acta 1850:1457-1465(2015).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   PIR; JC7786; JC7786.
+DR   PDB; 1WMY; X-ray; 2.00 A; A/B=1-140.
+DR   PDB; 1WMZ; X-ray; 1.70 A; A/B/C/D=1-140.
+DR   PDB; 4WQQ; X-ray; 1.70 A; A/B/C/D=1-140.
+DR   PDBsum; 1WMY; -.
+DR   PDBsum; 1WMZ; -.
+DR   PDBsum; 4WQQ; -.
+DR   ProteinModelPortal; Q7M462; -.
+DR   SMR; Q7M462; 1-140.
+DR   EvolutionaryTrace; Q7M462; -.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.10.100.10; -; 1.
+DR   InterPro; IPR001304; C-type_lectin.
+DR   InterPro; IPR016186; C-type_lectin-like.
+DR   InterPro; IPR016187; C-type_lectin_fold.
+DR   Pfam; PF00059; Lectin_C; 1.
+DR   SMART; SM00034; CLECT; 1.
+DR   SUPFAM; SSF56436; SSF56436; 1.
+DR   PROSITE; PS50041; C_TYPE_LECTIN_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:1WMY, ECO:0000213|PDB:1WMZ};
+KW   Calcium {ECO:0000213|PDB:1WMY, ECO:0000213|PDB:1WMZ};
+KW   Direct protein sequencing;
+KW   Metal-binding {ECO:0000213|PDB:1WMY, ECO:0000213|PDB:1WMZ}.
+FT   REGION      101    103       N-acetyl-D-galactosamine binding.
+FT                                {ECO:0000213|PDB:1WMZ}.
+FT   REGION      123    124       Mannose binding. {ECO:0000213|PDB:4WQQ}.
+FT   REGION      123    124       N-acetyl-D-galactosamine binding.
+FT                                {ECO:0000213|PDB:1WMZ}.
+FT   METAL        77     77       Calcium 1. {ECO:0000213|PDB:1WMY,
+FT                                ECO:0000213|PDB:4WQQ}.
+FT   METAL        81     81       Calcium 1. {ECO:0000213|PDB:1WMY,
+FT                                ECO:0000213|PDB:4WQQ}.
+FT   METAL        81     81       Calcium 2. {ECO:0000213|PDB:1WMY,
+FT                                ECO:0000213|PDB:4WQQ}.
+FT   METAL       101    101       Calcium 3. {ECO:0000213|PDB:1WMY}.
+FT   METAL       103    103       Calcium 3. {ECO:0000213|PDB:1WMY}.
+FT   METAL       104    104       Calcium 1. {ECO:0000213|PDB:1WMY,
+FT                                ECO:0000213|PDB:4WQQ}.
+FT   METAL       109    109       Calcium 1; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:1WMY,
+FT                                ECO:0000213|PDB:4WQQ}.
+FT   METAL       109    109       Calcium 3. {ECO:0000213|PDB:1WMY}.
+FT   METAL       109    109       Calcium 4. {ECO:0000213|PDB:4WQQ}.
+FT   METAL       110    110       Calcium 1. {ECO:0000213|PDB:1WMY,
+FT                                ECO:0000213|PDB:4WQQ}.
+FT   METAL       110    110       Calcium 2. {ECO:0000213|PDB:1WMY,
+FT                                ECO:0000213|PDB:4WQQ}.
+FT   METAL       123    123       Calcium 3. {ECO:0000213|PDB:1WMY}.
+FT   METAL       123    123       Calcium 4. {ECO:0000213|PDB:4WQQ}.
+FT   METAL       124    124       Calcium 3. {ECO:0000213|PDB:1WMY}.
+FT   METAL       124    124       Calcium 4. {ECO:0000213|PDB:4WQQ}.
+FT   BINDING     109    109       Mannose. {ECO:0000213|PDB:4WQQ}.
+FT   BINDING     109    109       N-acetyl-D-galactosamine.
+FT                                {ECO:0000213|PDB:1WMZ}.
+FT   BINDING     115    115       Mannose. {ECO:0000213|PDB:4WQQ}.
+FT   BINDING     115    115       N-acetyl-D-galactosamine.
+FT                                {ECO:0000213|PDB:1WMZ}.
+FT   DISULFID      3     14       {ECO:0000213|PDB:1WMY}.
+FT   DISULFID     31    135       {ECO:0000213|PDB:1WMY}.
+FT   DISULFID     36     36       Interchain (with C-36 in Q7M462).
+FT                                {ECO:0000213|PDB:1WMY}.
+SQ   SEQUENCE   140 AA;  16032 MW;  385F2088058EA01C CRC64;
+     NQCPTDWEAE GDHCYRFFNT LTTWENAHHE CVSYSCSTLN VRSDLVSVHS AAEQAYVFNY
+     WRGIDSQAGQ LWIGLYDKYN EGDFIWTDGS KVGYTKWAGG QPDNWNNAED YGQFRHTEGG
+     AWNDNSAAAQ AKYMCKLTFE
+//

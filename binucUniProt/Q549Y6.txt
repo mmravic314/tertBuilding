@@ -1,0 +1,71 @@
+ID   Q549Y6_STREE            Unreviewed;       719 AA.
+AC   Q549Y6;
+DT   24-MAY-2005, integrated into UniProtKB/TrEMBL.
+DT   24-MAY-2005, sequence version 1.
+DT   22-JUL-2015, entry version 43.
+DE   SubName: Full=Penicillin-binding protein 1A {ECO:0000313|EMBL:BAD00748.1};
+GN   Name=pbp1a {ECO:0000313|EMBL:BAD00748.1};
+GN   Synonyms=pbp1A {ECO:0000313|EMBL:CAO91638.1};
+OS   Streptococcus pneumoniae.
+OC   Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae;
+OC   Streptococcus.
+OX   NCBI_TaxID=1313 {ECO:0000313|EMBL:BAD00748.1};
+RN   [1] {ECO:0000313|EMBL:BAD00748.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=SP00053 {ECO:0000313|EMBL:BAD00743.1},
+RC   SP00058 {ECO:0000313|EMBL:BAD00748.1}, and
+RC   SP00061 {ECO:0000313|EMBL:BAD00751.1};
+RX   PubMed=15155228; DOI=10.1128/AAC.48.6.2244-2250.2004;
+RA   Sanbongi Y., Ida T., Ishikawa M., Osaki Y., Kataoka H., Suzuki T.,
+RA   Kondo K., Ohsawa F., Yonezawa M.;
+RT   "Complete sequences of six penicillin-binding protein genes from 40
+RT   Streptococcus pneumoniae clinical isolates collected in Japan.";
+RL   Antimicrob. Agents Chemother. 48:2244-2250(2004).
+RN   [2] {ECO:0000313|EMBL:CAO91638.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=URAspn2542 {ECO:0000313|EMBL:CAO91639.1}, and
+RC   URAspn4566 {ECO:0000313|EMBL:CAO91638.1};
+RX   PubMed=18505861; DOI=10.1128/AAC.01655-07;
+RA   Dias R., Felix D., Canica M.;
+RT   "Diversity of penicillin binding proteins among clinical Streptococcus
+RT   pneumoniae strains from Portugal.";
+RL   Antimicrob. Agents Chemother. 52:2693-2695(2008).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AB119755; BAD00743.1; -; Genomic_DNA.
+DR   EMBL; AB119760; BAD00748.1; -; Genomic_DNA.
+DR   EMBL; AB119763; BAD00751.1; -; Genomic_DNA.
+DR   EMBL; AM779369; CAO91638.1; -; Genomic_DNA.
+DR   EMBL; AM779370; CAO91639.1; -; Genomic_DNA.
+DR   RefSeq; WP_001040010.1; NZ_JFJH01000024.1.
+DR   ProteinModelPortal; Q549Y6; -.
+DR   SMR; Q549Y6; 267-650.
+DR   STRING; 171101.spr0329; -.
+DR   CAZy; GT51; Glycosyltransferase Family 51.
+DR   GO; GO:0008658; F:penicillin binding; IEA:InterPro.
+DR   Gene3D; 3.40.710.10; -; 1.
+DR   InterPro; IPR012338; Beta-lactam/transpept-like.
+DR   InterPro; IPR001264; Glyco_trans_51.
+DR   InterPro; IPR023346; Lysozyme-like_dom.
+DR   InterPro; IPR001460; PCN-bd_Tpept.
+DR   Pfam; PF00912; Transgly; 1.
+DR   Pfam; PF00905; Transpeptidase; 1.
+DR   SUPFAM; SSF53955; SSF53955; 1.
+DR   SUPFAM; SSF56601; SSF56601; 2.
+PE   4: Predicted;
+SQ   SEQUENCE   719 AA;  79744 MW;  5CD390EA6B4968F1 CRC64;
+     MNKPTILRLI KYLSISFLSL VIAAIVLGGG VFFYYVSKAP SLSESKLVAT TSSKIYDNKN
+     QLIADLGSER RVNAQANDIP TDLVKAIVSI EDHRFFDHRG IDTIRILGAF LRNLQSNSLQ
+     GGSTLTQQLI KLTYFSTSTS DQTISRKAQE AWLAIQLEQK ATKQEILTYY INKVYMSNGN
+     YGMQTAAQNY YGKDLNNLSL PQLALLAGMP QAPNQYDPYS HPEAAQDRRN LVLSEMKNQG
+     YISAEQYEKA VNTPITDGLQ SLKSASNYPA YMDNYLKEVI NQVEEETGYN LLTTGMDVYT
+     NVDQEAQKHL WDIYNTDEYV AYPDDELQVA STIVDVSNGK VIAQLGARHQ SSNVSFGINQ
+     AVETNRDWGS TMKPITDYAP ALEYGVYDST ATIVHDEPYN YPGTNTPVYN WDRGYFGNIT
+     LQYALQQSRN VPAVETLNKV GLNRAKTFLN GLGIDYPSIH YSNAISSNTT ESDKKYGASS
+     EKMAAAYAAF ANGGTYYKPM YIHKVVFSDG SEKEFSNVGT RAMKETTAYM MTDMMKTVLS
+     YGTGRNAYLA WLPQAGKTGT SNYTDEEIEN HIKTSQFVAP DELFAGYTRK YSMAVWTGYS
+     NRLTPLVGNG LTVAAKVYRS MMTYLSEGSN PEDWNIPEGL YRNGEFVFKN GARSTWNSPA
+     PQQPPSTESS SSSSDSSTSQ SSSTTPSTNN STTTNPNNNT QQSNTTPDQQ NQNPQPAQP
+//

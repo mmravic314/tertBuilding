@@ -1,0 +1,119 @@
+ID   ISPS_POPCN              Reviewed;         595 AA.
+AC   Q9AR86;
+DT   05-OCT-2010, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-2001, sequence version 1.
+DT   01-APR-2015, entry version 55.
+DE   RecName: Full=Isoprene synthase, chloroplastic;
+DE            EC=4.2.3.27;
+DE   Flags: Precursor;
+GN   Name=ISPS;
+OS   Populus canescens (Grey poplar) (Populus tremula x Populus alba).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; fabids; Malpighiales; Salicaceae; Saliceae;
+OC   Populus.
+OX   NCBI_TaxID=80863;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND CATALYTIC ACTIVITY.
+RX   PubMed=11506373; DOI=10.1007/s004250100557;
+RA   Miller B., Oschinski C., Zimmer W.;
+RT   "First isolation of an isoprene synthase gene from poplar and
+RT   successful expression of the gene in Escherichia coli.";
+RL   Planta 213:483-487(2001).
+CC   -!- FUNCTION: Lyase that catalyzes the formation of isoprene from
+CC       dimethylallyl diphosphate.
+CC   -!- CATALYTIC ACTIVITY: Dimethylallyl diphosphate = isoprene +
+CC       diphosphate. {ECO:0000269|PubMed:11506373}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250};
+CC   -!- SUBCELLULAR LOCATION: Plastid, chloroplast {ECO:0000305}.
+CC   -!- DOMAIN: The Asp-Asp-Xaa-Xaa-Asp/Glu (DDXXD/E) motif is important
+CC       for the catalytic activity, presumably through binding to Mg(2+).
+CC   -!- SIMILARITY: Belongs to the terpene synthase family. Tpsb
+CC       subfamily. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AJ294819; CAC35696.1; -; mRNA.
+DR   PDB; 3N0F; X-ray; 2.70 A; A/B=53-595.
+DR   PDB; 3N0G; X-ray; 2.80 A; A/B=53-595.
+DR   PDBsum; 3N0F; -.
+DR   PDBsum; 3N0G; -.
+DR   ProteinModelPortal; Q9AR86; -.
+DR   BRENDA; 4.2.3.27; 4978.
+DR   EvolutionaryTrace; Q9AR86; -.
+DR   GO; GO:0009507; C:chloroplast; IEA:UniProtKB-SubCell.
+DR   GO; GO:0034009; F:isoprene synthase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:InterPro.
+DR   Gene3D; 1.10.600.10; -; 1.
+DR   Gene3D; 1.50.30.10; -; 1.
+DR   InterPro; IPR008949; Isoprenoid_synthase_dom.
+DR   InterPro; IPR001906; Terpene_synth_N.
+DR   InterPro; IPR005630; Terpene_synthase_metal-bd.
+DR   InterPro; IPR008930; Terpenoid_cyclase/PrenylTrfase.
+DR   Pfam; PF01397; Terpene_synth; 1.
+DR   Pfam; PF03936; Terpene_synth_C; 1.
+DR   SUPFAM; SSF48239; SSF48239; 1.
+DR   SUPFAM; SSF48576; SSF48576; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Chloroplast; Lyase; Magnesium; Metal-binding; Plastid;
+KW   Transit peptide.
+FT   TRANSIT       1     37       Chloroplast. {ECO:0000255}.
+FT   CHAIN        38    595       Isoprene synthase, chloroplastic.
+FT                                /FTId=PRO_0000398180.
+FT   MOTIF       345    349       DDXXD motif.
+FT   METAL       345    345       Magnesium or manganese 1. {ECO:0000250}.
+FT   METAL       345    345       Magnesium or manganese 2. {ECO:0000250}.
+FT   METAL       349    349       Magnesium or manganese 1. {ECO:0000250}.
+FT   METAL       349    349       Magnesium or manganese 2. {ECO:0000250}.
+FT   METAL       489    489       Magnesium or manganese 3. {ECO:0000250}.
+FT   METAL       493    493       Magnesium or manganese 3. {ECO:0000250}.
+FT   METAL       497    497       Magnesium or manganese 3. {ECO:0000250}.
+FT   HELIX        67     70       {ECO:0000244|PDB:3N0F}.
+FT   HELIX        80     98       {ECO:0000244|PDB:3N0F}.
+FT   HELIX       104    116       {ECO:0000244|PDB:3N0F}.
+FT   HELIX       120    122       {ECO:0000244|PDB:3N0F}.
+FT   HELIX       124    136       {ECO:0000244|PDB:3N0F}.
+FT   HELIX       139    143       {ECO:0000244|PDB:3N0F}.
+FT   TURN        144    146       {ECO:0000244|PDB:3N0F}.
+FT   HELIX       148    160       {ECO:0000244|PDB:3N0F}.
+FT   HELIX       167    173       {ECO:0000244|PDB:3N0F}.
+FT   STRAND      176    178       {ECO:0000244|PDB:3N0G}.
+FT   HELIX       182    186       {ECO:0000244|PDB:3N0F}.
+FT   HELIX       188    198       {ECO:0000244|PDB:3N0F}.
+FT   HELIX       206    220       {ECO:0000244|PDB:3N0F}.
+FT   HELIX       224    227       {ECO:0000244|PDB:3N0F}.
+FT   HELIX       229    240       {ECO:0000244|PDB:3N0F}.
+FT   TURN        243    245       {ECO:0000244|PDB:3N0F}.
+FT   HELIX       248    259       {ECO:0000244|PDB:3N0F}.
+FT   HELIX       267    298       {ECO:0000244|PDB:3N0F}.
+FT   HELIX       300    303       {ECO:0000244|PDB:3N0F}.
+FT   HELIX       311    321       {ECO:0000244|PDB:3N0F}.
+FT   HELIX       325    327       {ECO:0000244|PDB:3N0F}.
+FT   HELIX       328    349       {ECO:0000244|PDB:3N0F}.
+FT   HELIX       354    366       {ECO:0000244|PDB:3N0F}.
+FT   HELIX       369    374       {ECO:0000244|PDB:3N0F}.
+FT   HELIX       377    401       {ECO:0000244|PDB:3N0F}.
+FT   HELIX       406    428       {ECO:0000244|PDB:3N0F}.
+FT   HELIX       435    445       {ECO:0000244|PDB:3N0F}.
+FT   HELIX       448    459       {ECO:0000244|PDB:3N0F}.
+FT   HELIX       465    472       {ECO:0000244|PDB:3N0F}.
+FT   HELIX       476    498       {ECO:0000244|PDB:3N0F}.
+FT   TURN        499    501       {ECO:0000244|PDB:3N0F}.
+FT   HELIX       506    514       {ECO:0000244|PDB:3N0F}.
+FT   HELIX       518    541       {ECO:0000244|PDB:3N0F}.
+FT   HELIX       548    564       {ECO:0000244|PDB:3N0F}.
+FT   HELIX       574    585       {ECO:0000244|PDB:3N0F}.
+SQ   SEQUENCE   595 AA;  68386 MW;  4A5826BDCA5903F7 CRC64;
+     MATELLCLHR PISLTHKLFR NPLPKVIQAT PLTLKLRCSV STENVSFTET ETEARRSANY
+     EPNSWDYDFL LSSDTDESIE VYKDKAKKLE AEVRREINNE KAEFLTLLEL IDNVQRLGLG
+     YRFESDIRRA LDRFVSSGGF DGVTKTSLHA TALSFRLLRQ HGFEVSQEAF SGFKDQNGNF
+     LENLKEDTKA ILSLYEASFL ALEGENILDE ARVFAISHLK ELSEEKIGKE LAEQVNHALE
+     LPLHRRTQRL EAVWSIEAYR KKEDANQVLL ELAILDYNMI QSVYQRDLRE TSRWWRRVGL
+     ATKLHFAKDR LIESFYWAVG VAFEPQYSDC RNSVAKMFSF VTIIDDIYDV YGTLDELELF
+     TDAVERWDVN AINDLPDYMK LCFLALYNTI NEIAYDNLKD KGENILPYLT KAWADLCNAF
+     LQEAKWLYNK STPTFDDYFG NAWKSSSGPL QLIFAYFAVV QNIKKEEIEN LQKYHDIISR
+     PSHIFRLCND LASASAEIAR GETANSVSCY MRTKGISEEL ATESVMNLID ETCKKMNKEK
+     LGGSLFAKPF VETAINLARQ SHCTYHNGDA HTSPDELTRK RVLSVITEPI LPFER
+//

@@ -1,0 +1,221 @@
+ID   HYDE_THEMA              Reviewed;         348 AA.
+AC   Q9X0Z6; G4FE79;
+DT   24-JUN-2015, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1999, sequence version 1.
+DT   22-JUL-2015, entry version 99.
+DE   RecName: Full=[FeFe] hydrogenase maturase subunit HydE {ECO:0000305};
+DE            EC=1.8.-.- {ECO:0000305};
+GN   OrderedLocusNames=TM_1269 {ECO:0000312|EMBL:AAD36344.1};
+GN   ORFNames=THEMA_07990 {ECO:0000312|EMBL:AHD18826.1},
+GN   Tmari_1274 {ECO:0000312|EMBL:AGL50198.1};
+OS   Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099).
+OC   Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Thermotoga.
+OX   NCBI_TaxID=243274 {ECO:0000312|EMBL:AAD36344.1};
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 43589 / MSB8 / DSM 3109 / JCM 10099;
+RX   PubMed=10360571; DOI=10.1038/20601;
+RA   Nelson K.E., Clayton R.A., Gill S.R., Gwinn M.L., Dodson R.J.,
+RA   Haft D.H., Hickey E.K., Peterson J.D., Nelson W.C., Ketchum K.A.,
+RA   McDonald L.A., Utterback T.R., Malek J.A., Linher K.D., Garrett M.M.,
+RA   Stewart A.M., Cotton M.D., Pratt M.S., Phillips C.A., Richardson D.L.,
+RA   Heidelberg J.F., Sutton G.G., Fleischmann R.D., Eisen J.A., White O.,
+RA   Salzberg S.L., Smith H.O., Venter J.C., Fraser C.M.;
+RT   "Evidence for lateral gene transfer between Archaea and Bacteria from
+RT   genome sequence of Thermotoga maritima.";
+RL   Nature 399:323-329(1999).
+RN   [2] {ECO:0000312|EMBL:AGL50198.1}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 43589 / MSB8 / DSM 3109 / JCM 10099;
+RX   PubMed=23637642; DOI=10.1371/journal.pgen.1003485;
+RA   Latif H., Lerman J.A., Portnoy V.A., Tarasova Y., Nagarajan H.,
+RA   Schrimpe-Rutledge A.C., Smith R.D., Adkins J.N., Lee D.H., Qiu Y.,
+RA   Zengler K.;
+RT   "The genome organization of Thermotoga maritima reflects its
+RT   lifestyle.";
+RL   PLoS Genet. 9:E1003485-E1003485(2013).
+RN   [3]
+RP   FUNCTION, SUBUNIT, COFACTOR, AND MUTAGENESIS OF CYS-63; CYS-67 AND
+RP   CYS-70.
+RX   PubMed=16137685; DOI=10.1016/j.febslet.2005.07.092;
+RA   Rubach J.K., Brazzolotto X., Gaillard J., Fontecave M.;
+RT   "Biochemical characterization of the HydE and HydG iron-only
+RT   hydrogenase maturation enzymes from Thermatoga maritima.";
+RL   FEBS Lett. 579:5055-5060(2005).
+RN   [4] {ECO:0000244|PDB:3CIW, ECO:0000244|PDB:3CIX}
+RP   X-RAY CRYSTALLOGRAPHY (1.35 ANGSTROMS) IN COMPLEX WITH IRON-SULFUR
+RP   (2FE-2S); IRON-SULFUR (4FE-4S-S-ADOMET), SUBUNIT, AND COFACTOR.
+RX   PubMed=18400755; DOI=10.1074/jbc.M801161200;
+RA   Nicolet Y., Rubach J.K., Posewitz M.C., Amara P., Mathevon C.,
+RA   Atta M., Fontecave M., Fontecilla-Camps J.C.;
+RT   "X-ray structure of the [FeFe]-hydrogenase maturase HydE from
+RT   Thermotoga maritima.";
+RL   J. Biol. Chem. 283:18861-18872(2008).
+RN   [5] {ECO:0000244|PDB:3IIX, ECO:0000244|PDB:3IIZ}
+RP   X-RAY CRYSTALLOGRAPHY (1.25 ANGSTROMS) IN COMPLEX WITH IRON-SULFUR
+RP   (2FE-2S) AND IRON-SULFUR (4FE-4S-S-ADOMET), AND COFACTOR.
+RX   PubMed=19706452; DOI=10.1073/pnas.0904385106;
+RA   Nicolet Y., Amara P., Mouesca J.M., Fontecilla-Camps J.C.;
+RT   "Unexpected electron transfer mechanism upon AdoMet cleavage in
+RT   radical SAM proteins.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 106:14867-14871(2009).
+RN   [6] {ECO:0000244|PDB:4JXC, ECO:0000244|PDB:4JY8, ECO:0000244|PDB:4JY9}
+RP   X-RAY CRYSTALLOGRAPHY (1.45 ANGSTROMS) IN COMPLEX WITH IRON-SULFUR
+RP   (2FE-2S) AND IRON-SULFUR (4FE-4S-S-ADOMET), AND COFACTOR.
+RX   PubMed=23596207; DOI=10.1073/pnas.1302388110;
+RA   Nicolet Y., Rohac R., Martin L., Fontecilla-Camps J.C.;
+RT   "X-ray snapshots of possible intermediates in the time course of
+RT   synthesis and degradation of protein-bound Fe4S4 clusters.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 110:7188-7192(2013).
+CC   -!- FUNCTION: Required for the maturation of the [FeFe]-hydrogenase
+CC       HydA (By similarity). Catalyzes the reductive cleavage of S-
+CC       adenosyl-L-methionine (in vitro), suggesting it may contribute to
+CC       the biosynthesis of an essential sulfur-containing ligand that
+CC       binds to the hydrogenase active site [2Fe-2S] cluster
+CC       (PubMed:16137685). {ECO:0000250|UniProtKB:Q97IK9,
+CC       ECO:0000269|PubMed:16137685, ECO:0000305}.
+CC   -!- COFACTOR:
+CC       Name=[4Fe-4S] cluster; Xref=ChEBI:CHEBI:49883;
+CC         Evidence={ECO:0000255|PIRSR:PIRSR004762-1,
+CC         ECO:0000269|PubMed:16137685, ECO:0000269|PubMed:18400755,
+CC         ECO:0000269|PubMed:19706452, ECO:0000269|PubMed:23596207};
+CC       Note=Binds 1 [4Fe-4S] cluster. The cluster is coordinated with 3
+CC       cysteines and an exchangeable S-adenosyl-L-methionine.
+CC       {ECO:0000255|PIRSR:PIRSR004762-1, ECO:0000269|PubMed:18400755,
+CC       ECO:0000269|PubMed:19706452, ECO:0000269|PubMed:23596207};
+CC   -!- COFACTOR:
+CC       Name=[2Fe-2S] cluster; Xref=ChEBI:CHEBI:49601;
+CC         Evidence={ECO:0000269|PubMed:18400755,
+CC         ECO:0000269|PubMed:19706452, ECO:0000269|PubMed:23596207};
+CC       Note=Binds 1 [2Fe-2S] cluster. {ECO:0000269|PubMed:18400755,
+CC       ECO:0000269|PubMed:19706452, ECO:0000269|PubMed:23596207};
+CC   -!- SUBUNIT: Monomer. {ECO:0000269|PubMed:16137685,
+CC       ECO:0000269|PubMed:18400755}.
+CC   -!- SIMILARITY: Belongs to the radical SAM superfamily. HydE family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE000512; AAD36344.1; -; Genomic_DNA.
+DR   EMBL; CP004077; AGL50198.1; -; Genomic_DNA.
+DR   EMBL; CP007013; AHD18826.1; -; Genomic_DNA.
+DR   PIR; D72274; D72274.
+DR   RefSeq; NP_229074.1; NC_000853.1.
+DR   RefSeq; WP_004079975.1; NZ_CP011107.1.
+DR   PDB; 3CIW; X-ray; 1.35 A; A=1-348.
+DR   PDB; 3CIX; X-ray; 1.70 A; A=1-348.
+DR   PDB; 3IIX; X-ray; 1.25 A; A=1-348.
+DR   PDB; 3IIZ; X-ray; 1.62 A; A=1-348.
+DR   PDB; 4JXC; X-ray; 1.50 A; A=1-348.
+DR   PDB; 4JY8; X-ray; 2.90 A; A=2-348.
+DR   PDB; 4JY9; X-ray; 1.60 A; A=1-348.
+DR   PDB; 4JYD; X-ray; 1.71 A; A=1-348.
+DR   PDB; 4JYE; X-ray; 1.65 A; A=1-348.
+DR   PDB; 4JYF; X-ray; 1.45 A; A=1-348.
+DR   PDBsum; 3CIW; -.
+DR   PDBsum; 3CIX; -.
+DR   PDBsum; 3IIX; -.
+DR   PDBsum; 3IIZ; -.
+DR   PDBsum; 4JXC; -.
+DR   PDBsum; 4JY8; -.
+DR   PDBsum; 4JY9; -.
+DR   PDBsum; 4JYD; -.
+DR   PDBsum; 4JYE; -.
+DR   PDBsum; 4JYF; -.
+DR   ProteinModelPortal; Q9X0Z6; -.
+DR   SMR; Q9X0Z6; 2-347.
+DR   STRING; 243274.TM1269; -.
+DR   EnsemblBacteria; AAD36344; AAD36344; TM_1269.
+DR   EnsemblBacteria; AGL50198; AGL50198; Tmari_1274.
+DR   EnsemblBacteria; AHD18826; AHD18826; THEMA_07990.
+DR   GeneID; 898214; -.
+DR   KEGG; tma:TM1269; -.
+DR   KEGG; tmi:THEMA_07990; -.
+DR   KEGG; tmm:Tmari_1274; -.
+DR   PATRIC; 23937478; VBITheMar51294_1285.
+DR   KO; K01012; -.
+DR   OMA; LKHETAD; -.
+DR   OrthoDB; EOG6FJNBQ; -.
+DR   BioCyc; TMAR243274:GC6P-1300-MONOMER; -.
+DR   Proteomes; UP000008183; Chromosome.
+DR   Proteomes; UP000013901; Chromosome.
+DR   GO; GO:0051537; F:2 iron, 2 sulfur cluster binding; IEA:UniProtKB-KW.
+DR   GO; GO:0051539; F:4 iron, 4 sulfur cluster binding; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016491; F:oxidoreductase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0016765; F:transferase activity, transferring alkyl or aryl (other than methyl) groups; IEA:InterPro.
+DR   GO; GO:0051188; P:cofactor biosynthetic process; IEA:InterPro.
+DR   Gene3D; 3.20.20.70; -; 1.
+DR   InterPro; IPR013785; Aldolase_TIM.
+DR   InterPro; IPR010722; BATS_dom.
+DR   InterPro; IPR006638; Elp3/MiaB/NifB.
+DR   InterPro; IPR024021; FeFe-hyd_HydE_rSAM.
+DR   InterPro; IPR005244; FO_synthase_su2-like.
+DR   InterPro; IPR007197; rSAM.
+DR   Pfam; PF06968; BATS; 1.
+DR   Pfam; PF04055; Radical_SAM; 1.
+DR   PIRSF; PIRSF004762; CHP00423; 1.
+DR   SMART; SM00876; BATS; 1.
+DR   SMART; SM00729; Elp3; 1.
+DR   TIGRFAMs; TIGR03956; rSAM_HydE; 1.
+PE   1: Evidence at protein level;
+KW   2Fe-2S; 3D-structure; 4Fe-4S; Complete proteome; Iron; Iron-sulfur;
+KW   Metal-binding; Oxidoreductase; Reference proteome;
+KW   S-adenosyl-L-methionine.
+FT   CHAIN         1    348       [FeFe] hydrogenase maturase subunit HydE.
+FT                                /FTId=PRO_0000433230.
+FT   METAL        63     63       Iron-sulfur (4Fe-4S-S-AdoMet).
+FT                                {ECO:0000244|PDB:3CIW,
+FT                                ECO:0000244|PDB:3CIX,
+FT                                ECO:0000244|PDB:3IIX,
+FT                                ECO:0000255|PIRSR:PIRSR004762-1,
+FT                                ECO:0000269|PubMed:16137685,
+FT                                ECO:0000269|PubMed:18400755,
+FT                                ECO:0000269|PubMed:19706452}.
+FT   METAL        67     67       Iron-sulfur (4Fe-4S-S-AdoMet).
+FT                                {ECO:0000244|PDB:3CIW,
+FT                                ECO:0000244|PDB:3CIX,
+FT                                ECO:0000244|PDB:3IIX,
+FT                                ECO:0000255|PIRSR:PIRSR004762-1,
+FT                                ECO:0000269|PubMed:16137685}.
+FT   METAL        70     70       Iron-sulfur (4Fe-4S-S-AdoMet).
+FT                                {ECO:0000244|PDB:3CIW,
+FT                                ECO:0000244|PDB:3CIX,
+FT                                ECO:0000244|PDB:3IIX,
+FT                                ECO:0000255|PIRSR:PIRSR004762-1,
+FT                                ECO:0000269|PubMed:16137685}.
+FT   METAL       311    311       Iron-sulfur (2Fe-2S).
+FT                                {ECO:0000244|PDB:3CIX,
+FT                                ECO:0000244|PDB:3IIZ,
+FT                                ECO:0000244|PDB:4JXC,
+FT                                ECO:0000244|PDB:4JY8,
+FT                                ECO:0000244|PDB:4JY9,
+FT                                ECO:0000244|PDB:4JYE}.
+FT   METAL       319    319       Iron-sulfur (2Fe-2S).
+FT                                {ECO:0000244|PDB:3CIX,
+FT                                ECO:0000244|PDB:4JY8,
+FT                                ECO:0000244|PDB:4JY9,
+FT                                ECO:0000244|PDB:4JYE}.
+FT   METAL       322    322       Iron-sulfur (2Fe-2S).
+FT                                {ECO:0000244|PDB:3CIX,
+FT                                ECO:0000244|PDB:4JY8,
+FT                                ECO:0000244|PDB:4JY9,
+FT                                ECO:0000244|PDB:4JYE}.
+FT   MUTAGEN      63     63       C->A: Eliminates binding of one iron-
+FT                                sulfur cluster; when associated with A-67
+FT                                and A-70. {ECO:0000269|PubMed:16137685}.
+FT   MUTAGEN      67     67       C->A: Eliminates binding of one iron-
+FT                                sulfur cluster; when associated with A-63
+FT                                and A-70. {ECO:0000269|PubMed:16137685}.
+FT   MUTAGEN      70     70       C->A: Eliminates binding of one iron-
+FT                                sulfur cluster; when associated with A-63
+FT                                and A-67. {ECO:0000269|PubMed:16137685}.
+SQ   SEQUENCE   348 AA;  39799 MW;  472505213FF63799 CRC64;
+     MTGREILEKL ERREFTREVL KEALSINDRG FNEALFKLAD EIRRKYVGDE VHIRAIIEFS
+     NVCRKNCLYC GLRRDNKNLK RYRMTPEEIV ERARLAVQFG AKTIVLQSGE DPYYMPDVIS
+     DIVKEIKKMG VAVTLSLGEW PREYYEKWKE AGADRYLLRH ETANPVLHRK LRPDTSFENR
+     LNCLLTLKEL GYETGAGSMV GLPGQTIDDL VDDLLFLKEH DFDMVGIGPF IPHPDTPLAN
+     EKKGDFTLTL KMVALTRILL PDSNIPATTA MGTIVPGGRE ITLRCGANVI MPNWTPSPYR
+     QLYQLYPGKI CVFEKDTACI PCVMKMIELL GRKPGRDWGG RKRVFETV
+//

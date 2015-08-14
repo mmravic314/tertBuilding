@@ -1,0 +1,425 @@
+ID   CNOT7_HUMAN             Reviewed;         285 AA.
+AC   Q9UIV1; A8MZM5; B3KMP1; B3KN35; D3DSP6; G3V108; Q7Z530;
+DT   14-AUG-2001, integrated into UniProtKB/Swiss-Prot.
+DT   02-FEB-2004, sequence version 3.
+DT   22-JUL-2015, entry version 134.
+DE   RecName: Full=CCR4-NOT transcription complex subunit 7;
+DE            EC=3.1.13.4;
+DE   AltName: Full=BTG1-binding factor 1;
+DE   AltName: Full=CCR4-associated factor 1;
+DE            Short=CAF-1;
+DE   AltName: Full=Caf1a;
+GN   Name=CNOT7; Synonyms=CAF1;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RX   PubMed=9820826;
+RA   Bogdan J.A., Adams-Burton C., Pedicord D.L., Sukovich D.A.,
+RA   Benfield P.A., Corjay M.H., Stoltenborg J.K., Dicker I.B.;
+RT   "Human carbon catabolite repressor protein (CCR4)-associative factor
+RT   1: cloning, expression and characterization of its interaction with
+RT   the B-cell translocation protein BTG1.";
+RL   Biochem. J. 336:471-481(1998).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RA   Wan Y.Z., Yu L., Zhang H.L., Liu Q., Chen S.Y., Zhao S.Y.;
+RT   "Cloning and expression of a new human cDNA homology to mouse mCAF1
+RT   protein mRNA.";
+RL   Submitted (JUL-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2).
+RC   TISSUE=Embryo, and Placenta;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A.,
+RA   Sudo H., Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M.,
+RA   Takahashi M., Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y.,
+RA   Abe K., Kamihara K., Katsuta N., Sato K., Tanikawa M., Yamazaki M.,
+RA   Ninomiya K., Ishibashi T., Yamashita H., Murakawa K., Fujimori K.,
+RA   Tanai H., Kimata M., Watanabe M., Hiraoka S., Chiba Y., Ishida S.,
+RA   Ono Y., Takiguchi S., Watanabe S., Yosida M., Hotuta T., Kusano J.,
+RA   Kanehori K., Takahashi-Fujii A., Hara H., Tanase T.-O., Nomura Y.,
+RA   Togiya S., Komai F., Hara R., Takeuchi K., Arita M., Imose N.,
+RA   Musashino K., Yuuki H., Oshima A., Sasaki N., Aotsuka S.,
+RA   Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y.,
+RA   Fujimori Y., Komiyama M., Tashiro H., Tanigami A., Fujiwara T.,
+RA   Ono T., Yamada K., Fujii Y., Ozaki K., Hirao M., Ohmori Y.,
+RA   Kawabata A., Hikiji T., Kobatake N., Inagaki H., Ikema Y., Okamoto S.,
+RA   Okitani R., Kawakami T., Noguchi S., Itoh T., Shigeta K., Senba T.,
+RA   Matsumura K., Nakajima Y., Mizuno T., Morinaga M., Sasaki M.,
+RA   Togashi T., Oyama M., Hata H., Watanabe M., Komatsu T.,
+RA   Mizushima-Sugano J., Satoh T., Shirai Y., Takahashi Y., Nakagawa K.,
+RA   Okumura K., Nagase T., Nomura N., Kikuchi H., Masuho Y., Yamashita R.,
+RA   Nakai K., Yada T., Nakamura Y., Ohara O., Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16421571; DOI=10.1038/nature04406;
+RA   Nusbaum C., Mikkelsen T.S., Zody M.C., Asakawa S., Taudien S.,
+RA   Garber M., Kodira C.D., Schueler M.G., Shimizu A., Whittaker C.A.,
+RA   Chang J.L., Cuomo C.A., Dewar K., FitzGerald M.G., Yang X.,
+RA   Allen N.R., Anderson S., Asakawa T., Blechschmidt K., Bloom T.,
+RA   Borowsky M.L., Butler J., Cook A., Corum B., DeArellano K.,
+RA   DeCaprio D., Dooley K.T., Dorris L. III, Engels R., Gloeckner G.,
+RA   Hafez N., Hagopian D.S., Hall J.L., Ishikawa S.K., Jaffe D.B.,
+RA   Kamat A., Kudoh J., Lehmann R., Lokitsang T., Macdonald P.,
+RA   Major J.E., Matthews C.D., Mauceli E., Menzel U., Mihalev A.H.,
+RA   Minoshima S., Murayama Y., Naylor J.W., Nicol R., Nguyen C.,
+RA   O'Leary S.B., O'Neill K., Parker S.C.J., Polley A., Raymond C.K.,
+RA   Reichwald K., Rodriguez J., Sasaki T., Schilhabel M., Siddiqui R.,
+RA   Smith C.L., Sneddon T.P., Talamas J.A., Tenzin P., Topham K.,
+RA   Venkataraman V., Wen G., Yamazaki S., Young S.K., Zeng Q.,
+RA   Zimmer A.R., Rosenthal A., Birren B.W., Platzer M., Shimizu N.,
+RA   Lander E.S.;
+RT   "DNA sequence and analysis of human chromosome 8.";
+RL   Nature 439:331-335(2006).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L.,
+RA   Mobarry C.M., Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R.,
+RA   Flanigan M.J., Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V.,
+RA   Hannenhalli S., Turner R., Yooseph S., Lu F., Nusskern D.R.,
+RA   Shue B.C., Zheng X.H., Zhong F., Delcher A.L., Huson D.H.,
+RA   Kravitz S.A., Mouchard L., Reinert K., Remington K.A., Clark A.G.,
+RA   Waterman M.S., Eichler E.E., Adams M.D., Hunkapiller M.W., Myers E.W.,
+RA   Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Prostate, and Testis;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [7]
+RP   CATALYTIC ACTIVITY.
+RX   PubMed=15769875; DOI=10.1261/rna.7135305;
+RA   Bianchin C., Mauxion F., Sentis S., Seraphin B., Corbo L.;
+RT   "Conservation of the deadenylase activity of proteins of the Caf1
+RT   family in human.";
+RL   RNA 11:487-494(2005).
+RN   [8]
+RP   IDENTIFICATION IN THE CCR4-NOT COMPLEX, AND COMPOSITION OF THE
+RP   CCR4-NOT COMPLEX.
+RX   PubMed=19558367; DOI=10.1042/BJ20090500;
+RA   Lau N.C., Kolkman A., van Schaik F.M., Mulder K.W., Pijnappel W.W.,
+RA   Heck A.J., Timmers H.T.;
+RT   "Human Ccr4-Not complexes contain variable deadenylase subunits.";
+RL   Biochem. J. 422:443-453(2009).
+RN   [9]
+RP   FUNCTION.
+RX   PubMed=19605561; DOI=10.1091/mbc.E09-02-0146;
+RA   Aslam A., Mittal S., Koch F., Andrau J.C., Winkler G.S.;
+RT   "The Ccr4-NOT deadenylase subunits CNOT7 and CNOT8 have overlapping
+RT   roles and modulate cell proliferation.";
+RL   Mol. Biol. Cell 20:3840-3850(2009).
+RN   [10]
+RP   FUNCTION, AND CATALYTIC ACTIVITY.
+RX   PubMed=20634287; DOI=10.1074/jbc.M110.150763;
+RA   Cooke A., Prigge A., Wickens M.;
+RT   "Translational repression by deadenylases.";
+RL   J. Biol. Chem. 285:28506-28513(2010).
+RN   [11]
+RP   FUNCTION.
+RX   PubMed=20065043; DOI=10.1128/MCB.01481-09;
+RA   Piao X., Zhang X., Wu L., Belasco J.G.;
+RT   "CCR4-NOT deadenylates mRNA associated with complexes in human
+RT   cells.";
+RL   Mol. Cell. Biol. 30:1486-1494(2010).
+RN   [12]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P.,
+RA   Buerckstuemmer T., Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [13]
+RP   FUNCTION, AND INTERACTION WITH TOB1 AND BTG2.
+RX   PubMed=23236473; DOI=10.1371/journal.pone.0051331;
+RA   Doidge R., Mittal S., Aslam A., Winkler G.S.;
+RT   "The anti-proliferative activity of BTG/TOB proteins is mediated via
+RT   the Caf1a (CNOT7) and Caf1b (CNOT8) deadenylase subunits of the Ccr4-
+RT   not complex.";
+RL   PLoS ONE 7:E51331-E51331(2012).
+RN   [14]
+RP   X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS) OF 11-262 IN COMPLEX WITH TOB1,
+RP   CATALYTIC ACTIVITY, COFACTOR, AND MUTAGENESIS OF ASP-40; GLU-42;
+RP   ASP-161; HIS-225 AND ASP-230.
+RX   PubMed=19276069; DOI=10.1074/jbc.M809250200;
+RA   Horiuchi M., Takeuchi K., Noda N., Muroya N., Suzuki T., Nakamura T.,
+RA   Kawamura-Tsuzuku J., Takahasi K., Yamamoto T., Inagaki F.;
+RT   "Structural basis for the antiproliferative activity of the Tob-hCaf1
+RT   complex.";
+RL   J. Biol. Chem. 284:13244-13255(2009).
+RN   [15]
+RP   X-RAY CRYSTALLOGRAPHY (2.7 ANGSTROMS) OF 1-285 IN COMPLEX WITH CNOT1,
+RP   AND MUTAGENESIS OF GLU-138; MET-141; THR-142 AND GLU-149.
+RX   PubMed=22977175; DOI=10.1093/nar/gks883;
+RA   Petit A.P., Wohlbold L., Bawankar P., Huntzinger E., Schmidt S.,
+RA   Izaurralde E., Weichenrieder O.;
+RT   "The structural basis for the interaction between the CAF1 nuclease
+RT   and the NOT1 scaffold of the human CCR4-NOT deadenylase complex.";
+RL   Nucleic Acids Res. 40:11058-11072(2012).
+CC   -!- FUNCTION: Has 3'-5' poly(A) exoribonuclease activity for synthetic
+CC       poly(A) RNA substrate. Its function seems to be partially
+CC       redundant with that of CNOT8. Catalytic component of the CCR4-NOT
+CC       complex which is one of the major cellular mRNA deadenylases and
+CC       is linked to various cellular processes including bulk mRNA
+CC       degradation, miRNA-mediated repression, translational repression
+CC       during translational initiation and general transcription
+CC       regulation. During miRNA-mediated repression the complex seems
+CC       also to act as translational repressor during translational
+CC       initiation. Additional complex functions may be a consequence of
+CC       its influence on mRNA expression. Associates with members of the
+CC       BTG family such as TOB1 and BTG2 and is required for their anti-
+CC       proliferative activity. {ECO:0000269|PubMed:19605561,
+CC       ECO:0000269|PubMed:20065043, ECO:0000269|PubMed:20634287,
+CC       ECO:0000269|PubMed:23236473}.
+CC   -!- CATALYTIC ACTIVITY: Exonucleolytic cleavage of poly(A) to 5'-AMP.
+CC       {ECO:0000269|PubMed:15769875, ECO:0000269|PubMed:19276069,
+CC       ECO:0000269|PubMed:20634287}.
+CC   -!- COFACTOR:
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000269|PubMed:19276069};
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000269|PubMed:19276069};
+CC       Name=Co(2+); Xref=ChEBI:CHEBI:48828;
+CC         Evidence={ECO:0000269|PubMed:19276069};
+CC       Note=Binds 2 divalent metal cations per subunit with RNAase
+CC       activity being higher in presence of Mn(2+) than of Mg(2+) or
+CC       Co(2+). {ECO:0000269|PubMed:19276069};
+CC   -!- SUBUNIT: Component of the CCR4-NOT complex; distinct complexes
+CC       seem to exist that differ in the participation of probably
+CC       mutually exclusive catalytic subunits; the complex contains two
+CC       deadenylase subunits, CNOT6 or CNOT6L, and CNOT7 or CNOT8. In the
+CC       complex, interacts directly with CNOT1. Interacts with AGO2, TOB1,
+CC       BTG1, BTG2 and NANOS2. {ECO:0000269|PubMed:19276069,
+CC       ECO:0000269|PubMed:19558367, ECO:0000269|PubMed:22977175,
+CC       ECO:0000269|PubMed:23236473}.
+CC   -!- INTERACTION:
+CC       Q9UKV8:AGO2; NbExp=2; IntAct=EBI-2105113, EBI-528269;
+CC       P62324:BTG1; NbExp=3; IntAct=EBI-2105113, EBI-742279;
+CC       P78543:BTG2; NbExp=5; IntAct=EBI-2105113, EBI-1047576;
+CC       A5YKK6:CNOT1; NbExp=6; IntAct=EBI-2105113, EBI-1222758;
+CC       Q9ULM6:CNOT6; NbExp=2; IntAct=EBI-2105113, EBI-2104530;
+CC       P50616:TOB1; NbExp=6; IntAct=EBI-2105113, EBI-723281;
+CC       Q14106:TOB2; NbExp=3; IntAct=EBI-2105113, EBI-2562000;
+CC       P22893:Zfp36 (xeno); NbExp=3; IntAct=EBI-2105113, EBI-647803;
+CC   -!- SUBCELLULAR LOCATION: Nucleus. Cytoplasm, P-body {ECO:0000250}.
+CC       Note=NANOS2 promotes its localization to P-body. {ECO:0000250}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q9UIV1-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q9UIV1-2; Sequence=VSP_045497;
+CC         Note=No experimental confirmation available.;
+CC   -!- SIMILARITY: Belongs to the CAF1 family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAF01500.1; Type=Frameshift; Positions=4; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; L46722; AAF01500.1; ALT_FRAME; mRNA.
+DR   EMBL; AF086915; AAP97145.1; -; mRNA.
+DR   EMBL; AK021808; BAG51053.1; -; mRNA.
+DR   EMBL; AK023466; BAG51197.1; -; mRNA.
+DR   EMBL; AC091050; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471080; EAW63820.1; -; Genomic_DNA.
+DR   EMBL; CH471080; EAW63821.1; -; Genomic_DNA.
+DR   EMBL; CH471080; EAW63822.1; -; Genomic_DNA.
+DR   EMBL; CH471080; EAW63823.1; -; Genomic_DNA.
+DR   EMBL; BC060852; AAH60852.1; -; mRNA.
+DR   EMBL; BC070187; AAH70187.1; -; mRNA.
+DR   CCDS; CCDS55202.1; -. [Q9UIV1-2]
+DR   CCDS; CCDS6000.2; -. [Q9UIV1-1]
+DR   RefSeq; NP_037486.2; NM_013354.5. [Q9UIV1-1]
+DR   RefSeq; NP_473367.2; NM_054026.2. [Q9UIV1-2]
+DR   RefSeq; XP_005273538.1; XM_005273481.2. [Q9UIV1-1]
+DR   RefSeq; XP_011542813.1; XM_011544511.1. [Q9UIV1-1]
+DR   UniGene; Hs.587465; -.
+DR   UniGene; Hs.645009; -.
+DR   UniGene; Hs.729775; -.
+DR   PDB; 2D5R; X-ray; 2.50 A; A=11-262.
+DR   PDB; 4GMJ; X-ray; 2.70 A; B/D/F=1-285.
+DR   PDBsum; 2D5R; -.
+DR   PDBsum; 4GMJ; -.
+DR   ProteinModelPortal; Q9UIV1; -.
+DR   SMR; Q9UIV1; 11-262.
+DR   BioGrid; 118938; 38.
+DR   DIP; DIP-41902N; -.
+DR   IntAct; Q9UIV1; 24.
+DR   MINT; MINT-155676; -.
+DR   STRING; 9606.ENSP00000355279; -.
+DR   PhosphoSite; Q9UIV1; -.
+DR   BioMuta; CNOT7; -.
+DR   DMDM; 41713629; -.
+DR   MaxQB; Q9UIV1; -.
+DR   PaxDb; Q9UIV1; -.
+DR   PRIDE; Q9UIV1; -.
+DR   DNASU; 29883; -.
+DR   Ensembl; ENST00000361272; ENSP00000355279; ENSG00000198791.
+DR   Ensembl; ENST00000523917; ENSP00000429093; ENSG00000198791. [Q9UIV1-2]
+DR   GeneID; 29883; -.
+DR   KEGG; hsa:29883; -.
+DR   UCSC; uc003wxf.1; human. [Q9UIV1-1]
+DR   UCSC; uc003wxh.1; human.
+DR   CTD; 29883; -.
+DR   GeneCards; GC08M017086; -.
+DR   HGNC; HGNC:14101; CNOT7.
+DR   MIM; 604913; gene.
+DR   neXtProt; NX_Q9UIV1; -.
+DR   PharmGKB; PA26678; -.
+DR   eggNOG; COG5228; -.
+DR   GeneTree; ENSGT00390000000080; -.
+DR   HOGENOM; HOG000173077; -.
+DR   HOVERGEN; HBG051044; -.
+DR   InParanoid; Q9UIV1; -.
+DR   KO; K12581; -.
+DR   OMA; KYSGHLY; -.
+DR   OrthoDB; EOG74BJSP; -.
+DR   PhylomeDB; Q9UIV1; -.
+DR   TreeFam; TF314185; -.
+DR   Reactome; REACT_20514; Deadenylation of mRNA.
+DR   ChiTaRS; CNOT7; human.
+DR   EvolutionaryTrace; Q9UIV1; -.
+DR   GeneWiki; CNOT7; -.
+DR   GenomeRNAi; 29883; -.
+DR   NextBio; 52417; -.
+DR   PRO; PR:Q9UIV1; -.
+DR   Proteomes; UP000005640; Chromosome 8.
+DR   Bgee; Q9UIV1; -.
+DR   CleanEx; HS_CNOT7; -.
+DR   ExpressionAtlas; Q9UIV1; baseline and differential.
+DR   Genevisible; Q9UIV1; HS.
+DR   GO; GO:0030014; C:CCR4-NOT complex; IDA:UniProtKB.
+DR   GO; GO:0000932; C:cytoplasmic mRNA processing body; ISS:UniProtKB.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0016020; C:membrane; IDA:UniProtKB.
+DR   GO; GO:0005634; C:nucleus; IDA:UniProtKB.
+DR   GO; GO:0000175; F:3'-5'-exoribonuclease activity; IDA:UniProtKB.
+DR   GO; GO:0004532; F:exoribonuclease activity; IDA:UniProtKB.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004535; F:poly(A)-specific ribonuclease activity; IDA:UniProtKB.
+DR   GO; GO:0003723; F:RNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003700; F:sequence-specific DNA binding transcription factor activity; TAS:ProtInc.
+DR   GO; GO:0004871; F:signal transducer activity; TAS:ProtInc.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; TAS:ProtInc.
+DR   GO; GO:0033962; P:cytoplasmic mRNA processing body assembly; IEA:Ensembl.
+DR   GO; GO:0000290; P:deadenylation-dependent decapping of nuclear-transcribed mRNA; IEA:Ensembl.
+DR   GO; GO:0043928; P:exonucleolytic nuclear-transcribed mRNA catabolic process involved in deadenylation-dependent decay; IDA:UniProtKB.
+DR   GO; GO:0010467; P:gene expression; TAS:Reactome.
+DR   GO; GO:0035195; P:gene silencing by miRNA; TAS:UniProtKB.
+DR   GO; GO:0031047; P:gene silencing by RNA; ISS:UniProtKB.
+DR   GO; GO:0008285; P:negative regulation of cell proliferation; IDA:UniProtKB.
+DR   GO; GO:0010629; P:negative regulation of gene expression; IMP:BHF-UCL.
+DR   GO; GO:0000288; P:nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay; TAS:Reactome.
+DR   GO; GO:0000289; P:nuclear-transcribed mRNA poly(A) tail shortening; TAS:Reactome.
+DR   GO; GO:0008284; P:positive regulation of cell proliferation; IMP:UniProtKB.
+DR   GO; GO:0061014; P:positive regulation of mRNA catabolic process; IMP:BHF-UCL.
+DR   GO; GO:1900153; P:positive regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay; IMP:UniProtKB.
+DR   GO; GO:0060213; P:positive regulation of nuclear-transcribed mRNA poly(A) tail shortening; IMP:UniProtKB.
+DR   GO; GO:0045944; P:positive regulation of transcription from RNA polymerase II promoter; IEA:Ensembl.
+DR   GO; GO:0006417; P:regulation of translation; IEA:UniProtKB-KW.
+DR   GO; GO:0090503; P:RNA phosphodiester bond hydrolysis, exonucleolytic; IDA:GOC.
+DR   GO; GO:0007165; P:signal transduction; TAS:ProtInc.
+DR   GO; GO:0006351; P:transcription, DNA-templated; IEA:UniProtKB-KW.
+DR   Gene3D; 3.30.420.10; -; 1.
+DR   InterPro; IPR006941; RNase_CAF1.
+DR   InterPro; IPR012337; RNaseH-like_dom.
+DR   Pfam; PF04857; CAF1; 1.
+DR   SUPFAM; SSF53098; SSF53098; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Complete proteome; Cytoplasm;
+KW   Exonuclease; Hydrolase; Magnesium; Metal-binding; Nuclease; Nucleus;
+KW   Reference proteome; Repressor; RNA-binding;
+KW   RNA-mediated gene silencing; Transcription; Transcription regulation;
+KW   Translation regulation.
+FT   CHAIN         1    285       CCR4-NOT transcription complex subunit 7.
+FT                                /FTId=PRO_0000212844.
+FT   METAL        40     40       Divalent metal cation 1; catalytic.
+FT                                {ECO:0000305}.
+FT   METAL        40     40       Divalent metal cation 2; catalytic.
+FT                                {ECO:0000305}.
+FT   METAL        42     42       Divalent metal cation 2; catalytic.
+FT                                {ECO:0000305}.
+FT   METAL       161    161       Divalent metal cation 1; catalytic.
+FT                                {ECO:0000305}.
+FT   METAL       230    230       Divalent metal cation 2; catalytic.
+FT                                {ECO:0000305}.
+FT   METAL       278    278       Divalent metal cation 1; catalytic.
+FT                                {ECO:0000305}.
+FT   VAR_SEQ     244    285       MFFEDHIDDAKYCGHLYGLGSGSSYVQNGTGNAYEEEANKQ
+FT                                S -> V (in isoform 2).
+FT                                {ECO:0000303|PubMed:14702039}.
+FT                                /FTId=VSP_045497.
+FT   MUTAGEN      40     40       D->N: Abolishes RNA deadenylase activity.
+FT                                {ECO:0000269|PubMed:19276069}.
+FT   MUTAGEN      42     42       E->Q: Abolishes RNA deadenylase activity.
+FT                                {ECO:0000269|PubMed:19276069}.
+FT   MUTAGEN     138    138       E->K: Abolishes interaction with CNOT1;
+FT                                when associated with Y-142 and K-149.
+FT                                {ECO:0000269|PubMed:22977175}.
+FT   MUTAGEN     141    141       M->R: Abolishes interaction with CNOT1.
+FT                                {ECO:0000269|PubMed:22977175}.
+FT   MUTAGEN     142    142       T->Y: Abolishes interaction with CNOT1;
+FT                                when associated with K-138 and K-149.
+FT                                {ECO:0000269|PubMed:22977175}.
+FT   MUTAGEN     149    149       E->K: Abolishes interaction with CNOT1;
+FT                                when associated with K-138 and Y-142.
+FT                                {ECO:0000269|PubMed:22977175}.
+FT   MUTAGEN     161    161       D->N: Abolishes RNA deadenylase activity.
+FT                                {ECO:0000269|PubMed:19276069}.
+FT   MUTAGEN     203    203       K->A: Abolishes interaction with TOB1.
+FT   MUTAGEN     225    225       H->A: Abolishes RNA deadenylase activity.
+FT                                {ECO:0000269|PubMed:19276069}.
+FT   MUTAGEN     230    230       D->N: Abolishes RNA deadenylase activity.
+FT                                {ECO:0000269|PubMed:19276069}.
+FT   CONFLICT      4      5       AT -> EL (in Ref. 3; AAP97145).
+FT                                {ECO:0000305}.
+FT   CONFLICT    241    241       M -> V (in Ref. 4; BAG51197).
+FT                                {ECO:0000305}.
+FT   STRAND       12     15       {ECO:0000244|PDB:2D5R}.
+FT   HELIX        17     19       {ECO:0000244|PDB:2D5R}.
+FT   HELIX        20     33       {ECO:0000244|PDB:2D5R}.
+FT   STRAND       36     42       {ECO:0000244|PDB:2D5R}.
+FT   HELIX        57     69       {ECO:0000244|PDB:2D5R}.
+FT   STRAND       76     82       {ECO:0000244|PDB:2D5R}.
+FT   STRAND       94     99       {ECO:0000244|PDB:2D5R}.
+FT   TURN        103    105       {ECO:0000244|PDB:2D5R}.
+FT   HELIX       110    119       {ECO:0000244|PDB:2D5R}.
+FT   HELIX       123    129       {ECO:0000244|PDB:2D5R}.
+FT   HELIX       133    141       {ECO:0000244|PDB:2D5R}.
+FT   TURN        142    144       {ECO:0000244|PDB:2D5R}.
+FT   STRAND      145    150       {ECO:0000244|PDB:2D5R}.
+FT   STRAND      152    157       {ECO:0000244|PDB:2D5R}.
+FT   HELIX       159    170       {ECO:0000244|PDB:2D5R}.
+FT   HELIX       178    188       {ECO:0000244|PDB:2D5R}.
+FT   STRAND      192    194       {ECO:0000244|PDB:2D5R}.
+FT   HELIX       195    198       {ECO:0000244|PDB:2D5R}.
+FT   HELIX       199    201       {ECO:0000244|PDB:2D5R}.
+FT   HELIX       209    216       {ECO:0000244|PDB:2D5R}.
+FT   HELIX       227    244       {ECO:0000244|PDB:2D5R}.
+FT   HELIX       252    255       {ECO:0000244|PDB:2D5R}.
+SQ   SEQUENCE   285 AA;  32745 MW;  2AF23ED27E06EFDB CRC64;
+     MPAATVDHSQ RICEVWACNL DEEMKKIRQV IRKYNYVAMD TEFPGVVARP IGEFRSNADY
+     QYQLLRCNVD LLKIIQLGLT FMNEQGEYPP GTSTWQFNFK FNLTEDMYAQ DSIELLTTSG
+     IQFKKHEEEG IETQYFAELL MTSGVVLCEG VKWLSFHSGY DFGYLIKILT NSNLPEEELD
+     FFEILRLFFP VIYDVKYLMK SCKNLKGGLQ EVAEQLELER IGPQHQAGSD SLLTGMAFFK
+     MREMFFEDHI DDAKYCGHLY GLGSGSSYVQ NGTGNAYEEE ANKQS
+//

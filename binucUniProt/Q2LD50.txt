@@ -1,0 +1,77 @@
+ID   Q2LD50_VIBAL            Unreviewed;       490 AA.
+AC   Q2LD50;
+DT   21-FEB-2006, integrated into UniProtKB/TrEMBL.
+DT   21-FEB-2006, sequence version 1.
+DT   22-JUL-2015, entry version 35.
+DE   SubName: Full=Aminoacyl-histidine dipeptidase {ECO:0000313|EMBL:ABC60056.1};
+DE            EC=3.4.13.3 {ECO:0000313|EMBL:ABC60056.1};
+OS   Vibrio alginolyticus.
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales;
+OC   Vibrionaceae; Vibrio.
+OX   NCBI_TaxID=663 {ECO:0000313|EMBL:ABC60056.1};
+RN   [1] {ECO:0000313|EMBL:ABC60056.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Wang T.-Y., Wang Y.-K., Feng J.-M., Liu Y.-H., Chen Y.-C.;
+RT   "Sequence identification and biochemical characterization of aminoacyl
+RT   histidine dipeptidase from Vibrio alginolyticus.";
+RL   Submitted (DEC-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000313|EMBL:ABC60056.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Wang T.Y., Chen Y.C., Kao L.W., Chang C.Y., Wang Y.K., Liu Y.H.,
+RA   Feng J.M., Wu T.K.;
+RT   "Expression and characterization of the biofilm-related and carnosine-
+RT   hydrolyzing aminoacylhistidine dipeptidase from Vibrio
+RT   alginolyticus.";
+RL   FEBS J. 275:5007-5020(2008).
+RN   [3] {ECO:0000213|PDB:3MRU}
+RP   X-RAY CRYSTALLOGRAPHY (3.00 ANGSTROMS) IN COMPLEX WITH ZINC.
+RX   PubMed=20819954; DOI=10.1074/jbc.M110.139683;
+RA   Chang C.Y., Hsieh Y.C., Wang T.Y., Chen Y.C., Wang Y.K., Chiang T.W.,
+RA   Chen Y.J., Chang C.H., Chen C.J., Wu T.K.;
+RT   "Crystal structure and mutational analysis of aminoacylhistidine
+RT   dipeptidase from Vibrio alginolyticus reveal a new architecture of M20
+RT   metallopeptidases.";
+RL   J. Biol. Chem. 285:39500-39510(2010).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; DQ335448; ABC60056.1; -; Genomic_DNA.
+DR   PDB; 3MRU; X-ray; 3.00 A; A/B=1-490.
+DR   ProteinModelPortal; Q2LD50; -.
+DR   MEROPS; M20.007; -.
+DR   EvolutionaryTrace; Q2LD50; -.
+DR   GO; GO:0016805; F:dipeptidase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   InterPro; IPR002933; Peptidase_M20.
+DR   InterPro; IPR011650; Peptidase_M20_dimer.
+DR   InterPro; IPR001160; Peptidase_M20C.
+DR   Pfam; PF07687; M20_dimer; 1.
+DR   Pfam; PF01546; Peptidase_M20; 1.
+DR   PIRSF; PIRSF016599; Xaa-His_dipept; 1.
+DR   PRINTS; PR00934; XHISDIPTASE.
+DR   TIGRFAMs; TIGR01893; aa-his-dipept; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3MRU};
+KW   Dipeptidase {ECO:0000313|EMBL:ABC60056.1};
+KW   Hydrolase {ECO:0000313|EMBL:ABC60056.1};
+KW   Metal-binding {ECO:0000213|PDB:3MRU};
+KW   Protease {ECO:0000313|EMBL:ABC60056.1}; Zinc {ECO:0000213|PDB:3MRU}.
+FT   METAL        80     80       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3MRU}.
+FT   METAL       119    119       Zinc 1. {ECO:0000213|PDB:3MRU}.
+FT   METAL       119    119       Zinc 2. {ECO:0000213|PDB:3MRU}.
+FT   METAL       173    173       Zinc 1. {ECO:0000213|PDB:3MRU}.
+FT   METAL       461    461       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3MRU}.
+SQ   SEQUENCE   490 AA;  53581 MW;  A2E2BDE544217217 CRC64;
+     MSEFHSEIST LSPAPLWQFF DKICSIPHPS KHEEALAQYI VTWATEQGFD VRRDPTGNVF
+     IKKPATPGME NKKGVVLQAH IDMVPQKNED TDHDFTQDPI QPYIDGEWVT AKGTTLGADN
+     GIGMASCLAV LASKEIKHGP IEVLLTIDEE AGMTGAFGLE AGWLKGDILL NTDSEQEGEV
+     YMGCAGGIDG AMTFDITRDA IPAGFITRQL TLKGLKGGHS GCDIHTGRGN ANKLIGRFLA
+     GHAQELDLRL VEFRGGSLRN AIPREAFVTV ALPAENQDKL AELFNYYTEL LKTELGKIET
+     DIVTFNEEVA TDAQVFAIAD QQRFIAALNA CPNGVMRMSD EVEGVVETSL NVGVITTEEN
+     KVTVLCLIRS LIDSGRSQVE GMLQSVAELA GAQIEFSGAY PGWKPDADSE IMAIFRDMYE
+     GIYGHKPNIM VIHAGLECGL FKEPYPNMDM VSFGPTIKFP HSPDEKVKID TVQLFWDQMV
+     ALLEAIPEKA
+//

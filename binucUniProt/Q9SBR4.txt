@@ -1,0 +1,79 @@
+ID   Q9SBR4_MENPI            Unreviewed;       313 AA.
+AC   Q9SBR4;
+DT   01-MAY-2000, integrated into UniProtKB/TrEMBL.
+DT   01-MAY-2000, sequence version 1.
+DT   24-JUN-2015, entry version 78.
+DE   SubName: Full=Geranyl diphosphate synthase small subunit {ECO:0000313|EMBL:AAF08792.1};
+DE   SubName: Full=Gpp synthase small subunit {ECO:0000313|EMBL:CAC10560.1};
+OS   Mentha piperita (Peppermint) (Mentha aquatica ? Mentha spicata).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; asterids; lamiids; Lamiales; Lamiaceae; Nepetoideae;
+OC   Mentheae; Mentha.
+OX   NCBI_TaxID=34256 {ECO:0000313|EMBL:AAF08792.1};
+RN   [1] {ECO:0000313|EMBL:AAF08792.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=10557273; DOI=10.1073/pnas.96.23.13062;
+RA   Burke C.C., Wildung M.R., Croteau R.;
+RT   "Geranyl diphosphate synthase: cloning, expression, and
+RT   characterization of this prenyltransferase as a heterodimer.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 96:13062-13067(1999).
+RN   [2] {ECO:0000313|EMBL:CAC10560.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Wildung M.R., Burke C.C., Croteau R.B.;
+RT   "Gerenyl Diphosphate synthase: characterization, cloning and
+RT   functional expression as a heterodimer.";
+RL   Submitted (SEP-1999) to the EMBL/GenBank/DDBJ databases.
+RN   [3] {ECO:0000213|PDB:3OAB, ECO:0000213|PDB:3OAC}
+RP   X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) OF 49-313.
+RX   PubMed=20965200; DOI=10.1016/j.jmb.2010.10.011;
+RA   Hsieh F.L., Chang T.H., Ko T.P., Wang A.H.;
+RT   "Enhanced specificity of mint geranyl pyrophosphate synthase by
+RT   modifying the R-loop interactions.";
+RL   J. Mol. Biol. 404:859-873(2010).
+RN   [4] {ECO:0000213|PDB:3KRA, ECO:0000213|PDB:3KRC, ECO:0000213|PDB:3KRF}
+RP   X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS) OF 49-313.
+RX   PubMed=20139160; DOI=10.1105/tpc.109.071738;
+RA   Chang T.H., Hsieh F.L., Ko T.P., Teng K.H., Liang P.H., Wang A.H.;
+RT   "Structure of a heterotetrameric geranyl pyrophosphate synthase from
+RT   mint (Mentha piperita) reveals intersubunit regulation.";
+RL   Plant Cell 22:454-467(2010).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF182827; AAF08792.1; -; mRNA.
+DR   EMBL; AJ249452; CAC10560.1; -; mRNA.
+DR   PDB; 3KRA; X-ray; 1.90 A; B/C=49-313.
+DR   PDB; 3KRC; X-ray; 2.30 A; B/C=49-313.
+DR   PDB; 3KRF; X-ray; 2.20 A; B/C=49-313.
+DR   PDB; 3KRO; X-ray; 1.95 A; B/C=49-313.
+DR   PDB; 3KRP; X-ray; 2.42 A; B/C=49-313.
+DR   PDB; 3OAB; X-ray; 2.30 A; B/C=49-313.
+DR   PDB; 3OAC; X-ray; 2.60 A; B/C=49-313.
+DR   PDBsum; 3KRA; -.
+DR   PDBsum; 3KRC; -.
+DR   PDBsum; 3KRF; -.
+DR   PDBsum; 3KRO; -.
+DR   PDBsum; 3KRP; -.
+DR   PDBsum; 3OAB; -.
+DR   PDBsum; 3OAC; -.
+DR   BioCyc; MetaCyc:MONOMER-11995; -.
+DR   GO; GO:0008299; P:isoprenoid biosynthetic process; IEA:InterPro.
+DR   Gene3D; 1.10.600.10; -; 1.
+DR   InterPro; IPR008949; Isoprenoid_synthase_dom.
+DR   InterPro; IPR000092; Polyprenyl_synt.
+DR   InterPro; IPR017446; Polyprenyl_synth-rel.
+DR   PANTHER; PTHR12001; PTHR12001; 1.
+DR   Pfam; PF00348; polyprenyl_synt; 1.
+DR   SUPFAM; SSF48576; SSF48576; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3KRA, ECO:0000213|PDB:3KRC}.
+SQ   SEQUENCE   313 AA;  33465 MW;  A9312617DC480388 CRC64;
+     MAINLSHINS KTCFPLKTRS DLSRSSSARC MPTAAAAAFP TIATAAQSQP YWAAIEADIE
+     RYLKKSITIR PPETVFGPMH HLTFAAPATA ASTLCLAACE LVGGDRSQAM AAAAAIHLVH
+     AAAYVHEHLP LTDGSRPVSK PAIQHKYGPN VELLTGDGIV PFGFELLAGS VDPARTDDPD
+     RILRVIIEIS RAGGPEGMIS GLHREEEIVD GNTSLDFIEY VCKKKYGEMH ACGAACGAIL
+     GGAAEEEIQK LRNFGLYQGT LRGMMEMKNS HQLIDENIIG KLKELALEEL GGFHGKNAEL
+     MSSLVAEPSL YAA
+//

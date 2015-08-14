@@ -1,0 +1,222 @@
+ID   IPKA_MOUSE              Reviewed;          76 AA.
+AC   P63248; P27776; Q3UTL0;
+DT   11-OCT-2004, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 2.
+DT   24-JUN-2015, entry version 88.
+DE   RecName: Full=cAMP-dependent protein kinase inhibitor alpha;
+DE            Short=PKI-alpha;
+DE   AltName: Full=cAMP-dependent protein kinase inhibitor, muscle/brain isoform;
+GN   Name=Pkia;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Brain;
+RX   PubMed=1710219;
+RA   Olsen S.R., Uhler M.D.;
+RT   "Isolation and characterization of cDNA clones for an inhibitor
+RT   protein of cAMP-dependent protein kinase.";
+RL   J. Biol. Chem. 266:11158-11162(1991).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=C57BL/6J; TISSUE=Brain cortex;
+RX   PubMed=16141072; DOI=10.1126/science.1112014;
+RA   Carninci P., Kasukawa T., Katayama S., Gough J., Frith M.C., Maeda N.,
+RA   Oyama R., Ravasi T., Lenhard B., Wells C., Kodzius R., Shimokawa K.,
+RA   Bajic V.B., Brenner S.E., Batalov S., Forrest A.R., Zavolan M.,
+RA   Davis M.J., Wilming L.G., Aidinis V., Allen J.E.,
+RA   Ambesi-Impiombato A., Apweiler R., Aturaliya R.N., Bailey T.L.,
+RA   Bansal M., Baxter L., Beisel K.W., Bersano T., Bono H., Chalk A.M.,
+RA   Chiu K.P., Choudhary V., Christoffels A., Clutterbuck D.R.,
+RA   Crowe M.L., Dalla E., Dalrymple B.P., de Bono B., Della Gatta G.,
+RA   di Bernardo D., Down T., Engstrom P., Fagiolini M., Faulkner G.,
+RA   Fletcher C.F., Fukushima T., Furuno M., Futaki S., Gariboldi M.,
+RA   Georgii-Hemming P., Gingeras T.R., Gojobori T., Green R.E.,
+RA   Gustincich S., Harbers M., Hayashi Y., Hensch T.K., Hirokawa N.,
+RA   Hill D., Huminiecki L., Iacono M., Ikeo K., Iwama A., Ishikawa T.,
+RA   Jakt M., Kanapin A., Katoh M., Kawasawa Y., Kelso J., Kitamura H.,
+RA   Kitano H., Kollias G., Krishnan S.P., Kruger A., Kummerfeld S.K.,
+RA   Kurochkin I.V., Lareau L.F., Lazarevic D., Lipovich L., Liu J.,
+RA   Liuni S., McWilliam S., Madan Babu M., Madera M., Marchionni L.,
+RA   Matsuda H., Matsuzawa S., Miki H., Mignone F., Miyake S., Morris K.,
+RA   Mottagui-Tabar S., Mulder N., Nakano N., Nakauchi H., Ng P.,
+RA   Nilsson R., Nishiguchi S., Nishikawa S., Nori F., Ohara O.,
+RA   Okazaki Y., Orlando V., Pang K.C., Pavan W.J., Pavesi G., Pesole G.,
+RA   Petrovsky N., Piazza S., Reed J., Reid J.F., Ring B.Z., Ringwald M.,
+RA   Rost B., Ruan Y., Salzberg S.L., Sandelin A., Schneider C.,
+RA   Schoenbach C., Sekiguchi K., Semple C.A., Seno S., Sessa L., Sheng Y.,
+RA   Shibata Y., Shimada H., Shimada K., Silva D., Sinclair B.,
+RA   Sperling S., Stupka E., Sugiura K., Sultana R., Takenaka Y., Taki K.,
+RA   Tammoja K., Tan S.L., Tang S., Taylor M.S., Tegner J., Teichmann S.A.,
+RA   Ueda H.R., van Nimwegen E., Verardo R., Wei C.L., Yagi K.,
+RA   Yamanishi H., Zabarovsky E., Zhu S., Zimmer A., Hide W., Bult C.,
+RA   Grimmond S.M., Teasdale R.D., Liu E.T., Brusic V., Quackenbush J.,
+RA   Wahlestedt C., Mattick J.S., Hume D.A., Kai C., Sasaki D., Tomaru Y.,
+RA   Fukuda S., Kanamori-Katayama M., Suzuki M., Aoki J., Arakawa T.,
+RA   Iida J., Imamura K., Itoh M., Kato T., Kawaji H., Kawagashira N.,
+RA   Kawashima T., Kojima M., Kondo S., Konno H., Nakano K., Ninomiya N.,
+RA   Nishio T., Okada M., Plessy C., Shibata K., Shiraki T., Suzuki S.,
+RA   Tagami M., Waki K., Watahiki A., Okamura-Oho Y., Suzuki H., Kawai J.,
+RA   Hayashizaki Y.;
+RT   "The transcriptional landscape of the mammalian genome.";
+RL   Science 309:1559-1563(2005).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Adams M.D., Myers E.W., Smith H.O., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Olfactory epithelium;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) OF 6-25 IN COMPLEX WITH PRKACA.
+RX   PubMed=8443157; DOI=10.1021/bi00060a005;
+RA   Zheng J., Knighton D.R., ten Eyck L.F., Karlsson R., Xuong N.-H.,
+RA   Taylor S.S., Sowadski J.M.;
+RT   "Crystal structure of the catalytic subunit of cAMP-dependent protein
+RT   kinase complexed with MgATP and peptide inhibitor.";
+RL   Biochemistry 32:2154-2161(1993).
+CC   -!- FUNCTION: Extremely potent competitive inhibitor of cAMP-dependent
+CC       protein kinase activity, this protein interacts with the catalytic
+CC       subunit of the enzyme after the cAMP-induced dissociation of its
+CC       regulatory chains.
+CC   -!- TISSUE SPECIFICITY: Present at high levels in skeletal muscle and
+CC       brain but is present at lower levels in heart, testis and liver.
+CC   -!- MISCELLANEOUS: The inhibitory site contains regions very similar
+CC       to the hinge regions (sites that directly interact with the enzyme
+CC       active site) and "pseudosubstrate site" of the regulatory chains;
+CC       but, unlike these chains, PKI does not contain cAMP-binding sites.
+CC       The arginine residues within the inhibitory site are essential for
+CC       inhibition and recognition of the enzyme active site (By
+CC       similarity). {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the PKI family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M63554; AAA39940.1; -; mRNA.
+DR   EMBL; AK139347; BAE23970.1; -; mRNA.
+DR   EMBL; CH466577; EDL05208.1; -; Genomic_DNA.
+DR   EMBL; CH466577; EDL05209.1; -; Genomic_DNA.
+DR   EMBL; BC048244; AAH48244.1; -; mRNA.
+DR   CCDS; CCDS38383.1; -.
+DR   PIR; A40536; A40536.
+DR   RefSeq; NP_032888.1; NM_008862.3.
+DR   UniGene; Mm.3193; -.
+DR   PDB; 1APM; X-ray; 2.00 A; I=6-25.
+DR   PDB; 1ATP; X-ray; 2.20 A; I=6-25.
+DR   PDB; 1PVK; Model; -; I=6-25.
+DR   PDB; 2CPK; X-ray; 2.70 A; I=6-25.
+DR   PDB; 2GNF; X-ray; 2.28 A; I=6-25.
+DR   PDB; 2GNG; X-ray; 1.87 A; I=6-25.
+DR   PDB; 2QUR; X-ray; 2.50 A; B=6-25.
+DR   PDB; 3FJQ; X-ray; 1.60 A; I=6-25.
+DR   PDB; 3OW3; X-ray; 1.90 A; B=6-25.
+DR   PDB; 3QAL; X-ray; 1.70 A; I=6-23.
+DR   PDB; 3QAM; X-ray; 1.92 A; I=6-24.
+DR   PDB; 4DFX; X-ray; 1.35 A; I=6-25.
+DR   PDB; 4DFZ; X-ray; 2.00 A; I=6-25.
+DR   PDB; 4DG0; X-ray; 2.00 A; I=6-25.
+DR   PDB; 4DG2; X-ray; 2.00 A; I=6-25.
+DR   PDB; 4DG3; X-ray; 1.80 A; A=6-25.
+DR   PDB; 4DH1; X-ray; 2.00 A; I=6-25.
+DR   PDB; 4DH3; X-ray; 2.20 A; I=6-25.
+DR   PDB; 4DH5; X-ray; 2.20 A; I=6-25.
+DR   PDB; 4DH7; X-ray; 1.80 A; I=6-25.
+DR   PDB; 4DH8; X-ray; 2.30 A; I=6-25.
+DR   PDB; 4HPT; X-ray; 2.15 A; I=6-25.
+DR   PDB; 4HPU; X-ray; 1.55 A; I=6-25.
+DR   PDBsum; 1APM; -.
+DR   PDBsum; 1ATP; -.
+DR   PDBsum; 1PVK; -.
+DR   PDBsum; 2CPK; -.
+DR   PDBsum; 2GNF; -.
+DR   PDBsum; 2GNG; -.
+DR   PDBsum; 2QUR; -.
+DR   PDBsum; 3FJQ; -.
+DR   PDBsum; 3OW3; -.
+DR   PDBsum; 3QAL; -.
+DR   PDBsum; 3QAM; -.
+DR   PDBsum; 4DFX; -.
+DR   PDBsum; 4DFZ; -.
+DR   PDBsum; 4DG0; -.
+DR   PDBsum; 4DG2; -.
+DR   PDBsum; 4DG3; -.
+DR   PDBsum; 4DH1; -.
+DR   PDBsum; 4DH3; -.
+DR   PDBsum; 4DH5; -.
+DR   PDBsum; 4DH7; -.
+DR   PDBsum; 4DH8; -.
+DR   PDBsum; 4HPT; -.
+DR   PDBsum; 4HPU; -.
+DR   ProteinModelPortal; P63248; -.
+DR   BioGrid; 202207; 1.
+DR   DIP; DIP-6087N; -.
+DR   IntAct; P63248; 2.
+DR   MINT; MINT-4098688; -.
+DR   STRING; 10090.ENSMUSP00000028999; -.
+DR   PhosphoSite; P63248; -.
+DR   PaxDb; P63248; -.
+DR   PRIDE; P63248; -.
+DR   Ensembl; ENSMUST00000028999; ENSMUSP00000028999; ENSMUSG00000027499.
+DR   Ensembl; ENSMUST00000193330; ENSMUSP00000141466; ENSMUSG00000027499.
+DR   GeneID; 18767; -.
+DR   KEGG; mmu:18767; -.
+DR   UCSC; uc008oof.1; mouse.
+DR   CTD; 5569; -.
+DR   MGI; MGI:104747; Pkia.
+DR   eggNOG; NOG45574; -.
+DR   GeneTree; ENSGT00530000064276; -.
+DR   HOGENOM; HOG000059641; -.
+DR   HOVERGEN; HBG101093; -.
+DR   InParanoid; P63248; -.
+DR   KO; K15985; -.
+DR   OMA; TTNTTDV; -.
+DR   OrthoDB; EOG7JHM8S; -.
+DR   PhylomeDB; P63248; -.
+DR   TreeFam; TF330809; -.
+DR   EvolutionaryTrace; P63248; -.
+DR   NextBio; 294971; -.
+DR   PRO; PR:P63248; -.
+DR   Proteomes; UP000000589; Chromosome 3.
+DR   Bgee; P63248; -.
+DR   CleanEx; MM_PKIA; -.
+DR   Genevisible; P63248; MM.
+DR   GO; GO:0005737; C:cytoplasm; IDA:MGI.
+DR   GO; GO:0005634; C:nucleus; IDA:MGI.
+DR   GO; GO:0004862; F:cAMP-dependent protein kinase inhibitor activity; IDA:MGI.
+DR   GO; GO:0034236; F:protein kinase A catalytic subunit binding; ISO:MGI.
+DR   GO; GO:2000480; P:negative regulation of cAMP-dependent protein kinase activity; ISO:MGI.
+DR   GO; GO:0043086; P:negative regulation of catalytic activity; IDA:MGI.
+DR   GO; GO:0042308; P:negative regulation of protein import into nucleus; IDA:MGI.
+DR   GO; GO:0006469; P:negative regulation of protein kinase activity; IDA:MGI.
+DR   GO; GO:0000122; P:negative regulation of transcription from RNA polymerase II promoter; IDA:MGI.
+DR   GO; GO:0010389; P:regulation of G2/M transition of mitotic cell cycle; IMP:MGI.
+DR   InterPro; IPR004171; cAMP_dep_PKI.
+DR   Pfam; PF02827; PKI; 1.
+DR   PIRSF; PIRSF001667; PKI; 1.
+DR   ProDom; PD010366; cAMP_dep_PKI; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Complete proteome;
+KW   Protein kinase inhibitor; Reference proteome.
+FT   INIT_MET      1      1       Removed. {ECO:0000250|UniProtKB:P61925}.
+FT   CHAIN         2     76       cAMP-dependent protein kinase inhibitor
+FT                                alpha.
+FT                                /FTId=PRO_0000154533.
+FT   SITE         16     16       Important for inhibition. {ECO:0000250}.
+FT   SITE         19     19       Important for inhibition. {ECO:0000250}.
+FT   SITE         20     20       Important for inhibition. {ECO:0000250}.
+FT   MOD_RES       2      2       N-acetylthreonine.
+FT                                {ECO:0000250|UniProtKB:P61925}.
+FT   HELIX         7     12       {ECO:0000244|PDB:4DFX}.
+SQ   SEQUENCE   76 AA;  7960 MW;  FCCE07281498788A CRC64;
+     MTDVETTYAD FIASGRTGRR NAIHDILVSS ASGNSNELAL KLAGLDINKT EGEDDGQRSS
+     TEQSGEAQGE AAKSES
+//

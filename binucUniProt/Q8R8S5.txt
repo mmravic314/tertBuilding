@@ -1,0 +1,74 @@
+ID   Q8R8S5_CALS4            Unreviewed;       299 AA.
+AC   Q8R8S5;
+DT   01-JUN-2002, integrated into UniProtKB/TrEMBL.
+DT   01-JUN-2002, sequence version 1.
+DT   22-JUL-2015, entry version 65.
+DE   SubName: Full=Predicted acetamidase/formamidase {ECO:0000313|EMBL:AAM25099.1};
+GN   OrderedLocusNames=TTE1919 {ECO:0000313|EMBL:AAM25099.1};
+OS   Caldanaerobacter subterraneus subsp. tengcongensis (strain DSM 15242 /
+OS   JCM 11007 / NBRC 100824 / MB4) (Thermoanaerobacter tengcongensis).
+OC   Bacteria; Firmicutes; Clostridia; Thermoanaerobacterales;
+OC   Thermoanaerobacteraceae; Caldanaerobacter.
+OX   NCBI_TaxID=273068 {ECO:0000313|EMBL:AAM25099.1, ECO:0000313|Proteomes:UP000000555};
+RN   [1] {ECO:0000313|EMBL:AAM25099.1, ECO:0000313|Proteomes:UP000000555}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=DSM 15242 / JCM 11007 / NBRC 100824 / MB4
+RC   {ECO:0000313|Proteomes:UP000000555};
+RX   PubMed=11997336; DOI=10.1101/gr.219302;
+RA   Bao Q., Tian Y., Li W., Xu Z., Xuan Z., Hu S., Dong W., Yang J.,
+RA   Chen Y., Xue Y., Xu Y., Lai X., Huang L., Dong X., Ma Y., Ling L.,
+RA   Tan H., Chen R., Wang J., Yu J., Yang H.;
+RT   "A complete sequence of the T. tengcongensis genome.";
+RL   Genome Res. 12:689-700(2002).
+RN   [2] {ECO:0000213|PDB:3TKK}
+RP   X-RAY CRYSTALLOGRAPHY (1.99 ANGSTROMS) IN COMPLEX WITH CALCIUM AND
+RP   ZINC.
+RX   PubMed=22207484; DOI=10.1007/s10930-011-9387-0;
+RA   Qian M., Huang Q., Wu G., Lai L., Tang Y., Pei J., Kusunoki M.;
+RT   "Crystal structure analysis of a recombinant predicted
+RT   acetamidase/formamidase from the thermophile Thermoanaerobacter
+RT   tengcongensis.";
+RL   Protein J. 31:166-174(2012).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE008691; AAM25099.1; -; Genomic_DNA.
+DR   RefSeq; WP_011026069.1; NC_003869.1.
+DR   PDB; 3TKK; X-ray; 1.99 A; A/B/C/D=1-299.
+DR   PDBsum; 3TKK; -.
+DR   ProteinModelPortal; Q8R8S5; -.
+DR   STRING; 273068.TTE1919; -.
+DR   EnsemblBacteria; AAM25099; AAM25099; TTE1919.
+DR   KEGG; tte:TTE1919; -.
+DR   PATRIC; 23898579; VBITheTen82880_1927.
+DR   HOGENOM; HOG000080363; -.
+DR   KO; K01426; -.
+DR   OrthoDB; EOG6QP0ZJ; -.
+DR   BRENDA; 3.5.1.49; 6784.
+DR   Proteomes; UP000000555; Chromosome.
+DR   GO; GO:0016811; F:hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   InterPro; IPR004304; FmdA_AmdA.
+DR   Pfam; PF03069; FmdA_AmdA; 2.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3TKK}; Calcium {ECO:0000213|PDB:3TKK};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000555};
+KW   Metal-binding {ECO:0000213|PDB:3TKK};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000555};
+KW   Zinc {ECO:0000213|PDB:3TKK}.
+FT   METAL        37     37       Zinc. {ECO:0000213|PDB:3TKK}.
+FT   METAL       155    155       Calcium. {ECO:0000213|PDB:3TKK}.
+FT   METAL       157    157       Calcium. {ECO:0000213|PDB:3TKK}.
+FT   METAL       182    182       Calcium. {ECO:0000213|PDB:3TKK}.
+FT   METAL       182    182       Zinc. {ECO:0000213|PDB:3TKK}.
+FT   METAL       184    184       Zinc; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3TKK}.
+FT   METAL       198    198       Zinc. {ECO:0000213|PDB:3TKK}.
+SQ   SEQUENCE   299 AA;  31880 MW;  199C68A42CD3FEA9 CRC64;
+     MKYSLSADHH IFAFSKENKP AISVKSGDEL EVETMDCFSN QIQSNEDKLD EMDWNRVNPA
+     TGPIFVEGAK EGDVLKVKIK KIEVAEKGVL ATGKGLGVLG NLMEGLYSKV VDIKDGKVIF
+     NEKLALPVKP MIGVIGVAPK EGSINCGTPG SHGGNMDTTL IAEGAEVYFP VFVEGALLAL
+     GDLHALMGDG EVGVSGVEVA GKVLLEVEVI KGLNLKNPVV KTAEVTATIA SAESLDKAVE
+     IAVHDMAELF KKHTDLSTEG IATLFSITGN AQISQVVDPL KTARFSLPNW ILESYGIRF
+//

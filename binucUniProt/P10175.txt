@@ -1,0 +1,201 @@
+ID   COX8B_BOVIN             Reviewed;          70 AA.
+AC   P10175; Q2KI98;
+DT   01-JUL-1989, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1995, sequence version 3.
+DT   27-MAY-2015, entry version 127.
+DE   RecName: Full=Cytochrome c oxidase subunit 8B, mitochondrial;
+DE   AltName: Full=Cytochrome c oxidase polypeptide VIII-heart;
+DE   AltName: Full=Cytochrome c oxidase subunit 8-1;
+DE   AltName: Full=Cytochrome c oxidase subunit 8H;
+DE   AltName: Full=IX;
+DE   AltName: Full=VIIIb;
+DE   Flags: Precursor;
+GN   Name=COX8B; Synonyms=COX8H;
+OS   Bos taurus (Bovine).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
+OC   Pecora; Bovidae; Bovinae; Bos.
+OX   NCBI_TaxID=9913;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Heart;
+RX   PubMed=1689292;
+RA   Lightowlers R.N., Ewart G.D., Aggeler R.J., Zhang Y.-Z., Calavetta L.,
+RA   Capaldi R.A.;
+RT   "Isolation and characterization of the cDNAs encoding two isoforms of
+RT   subunit CIX of bovine cytochrome c oxidase.";
+RL   J. Biol. Chem. 265:2677-2681(1990).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=7766994; DOI=10.1007/BF00303255;
+RA   Lomax M.I., Riggs P.K., Womack J.E.;
+RT   "Structure and chromosomal location of the bovine gene for the heart
+RT   muscle isoform of cytochrome c oxidase subunit VIII.";
+RL   Mamm. Genome 6:118-122(1995).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=Hereford; TISSUE=Rumen;
+RG   NIH - Mammalian Gene Collection (MGC) project;
+RL   Submitted (JAN-2006) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   PROTEIN SEQUENCE OF 25-70.
+RC   TISSUE=Heart;
+RX   PubMed=6327490;
+RA   Meinecke L., Steffens G.J., Buse G.;
+RT   "Studies on cytochrome c oxidase, X. Isolation and amino-acid sequence
+RT   of polypeptide VIIIb.";
+RL   Hoppe-Seyler's Z. Physiol. Chem. 365:313-320(1984).
+RN   [5]
+RP   PROTEIN SEQUENCE OF 25-30.
+RC   TISSUE=Heart;
+RX   PubMed=2176624; DOI=10.1016/0014-5793(90)80817-3;
+RA   Anthony G., Stroh A., Lottspeich F., Kadenbach B.;
+RT   "Different isozymes of cytochrome c oxidase are expressed in bovine
+RT   smooth muscle and skeletal or heart muscle.";
+RL   FEBS Lett. 277:97-100(1990).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) OF 25-70.
+RX   PubMed=8638158; DOI=10.1126/science.272.5265.1136;
+RA   Tsukihara T., Aoyama H., Yamashita E., Tomizaki T., Yamaguchi H.,
+RA   Shinzawa-Itoh K., Nakashima R., Yaono R., Yoshikawa S.;
+RT   "The whole structure of the 13-subunit oxidized cytochrome c oxidase
+RT   at 2.8 A.";
+RL   Science 272:1136-1144(1996).
+RN   [7]
+RP   X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) OF 25-70.
+RC   TISSUE=Heart;
+RX   PubMed=10089392; DOI=10.1107/S0907444998006362;
+RA   Tomizaki T., Yamashita E., Yamaguchi H., Aoyama H., Tsukihara T.,
+RA   Shinzawa-Itoh K., Nakashima R., Yaono R., Yoshikawa S.;
+RT   "Structure analysis of bovine heart cytochrome c oxidase at 2.8 A
+RT   resolution.";
+RL   Acta Crystallogr. D 55:31-45(1999).
+RN   [8]
+RP   X-RAY CRYSTALLOGRAPHY (2.9 ANGSTROMS) OF 25-70.
+RC   TISSUE=Heart;
+RX   PubMed=10771420; DOI=10.1107/S0907444900002213;
+RA   Fei M.J., Yamashita E., Inoue N., Yao M., Yamaguchi H., Tsukihara T.,
+RA   Shinzawa-Itoh K., Nakashima R., Yoshikawa S.;
+RT   "X-ray structure of azide-bound fully oxidized cytochrome c oxidase
+RT   from bovine heart at 2.9 A resolution.";
+RL   Acta Crystallogr. D 56:529-535(2000).
+CC   -!- FUNCTION: This protein is one of the nuclear-coded polypeptide
+CC       chains of cytochrome c oxidase, the terminal oxidase in
+CC       mitochondrial electron transport.
+CC   -!- SUBCELLULAR LOCATION: Mitochondrion inner membrane.
+CC   -!- SIMILARITY: Belongs to the cytochrome c oxidase VIII family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; J05202; AAA30466.1; -; mRNA.
+DR   EMBL; U15540; AAA80279.1; -; Genomic_DNA.
+DR   EMBL; BC112717; AAI12718.1; -; mRNA.
+DR   PIR; A35537; OSBO8.
+DR   RefSeq; NP_001107989.1; NM_001114517.2.
+DR   UniGene; Bt.62953; -.
+DR   PDB; 1OCC; X-ray; 2.80 A; M/Z=25-70.
+DR   PDB; 1OCO; X-ray; 2.80 A; M/Z=25-70.
+DR   PDB; 1OCR; X-ray; 2.35 A; M/Z=25-70.
+DR   PDB; 1OCZ; X-ray; 2.90 A; M/Z=25-70.
+DR   PDB; 1V54; X-ray; 1.80 A; M/Z=25-70.
+DR   PDB; 1V55; X-ray; 1.90 A; M/Z=25-70.
+DR   PDB; 2DYR; X-ray; 1.80 A; M/Z=25-70.
+DR   PDB; 2DYS; X-ray; 2.20 A; M/Z=25-70.
+DR   PDB; 2EIJ; X-ray; 1.90 A; M/Z=25-70.
+DR   PDB; 2EIK; X-ray; 2.10 A; M/Z=25-70.
+DR   PDB; 2EIL; X-ray; 2.10 A; M/Z=25-70.
+DR   PDB; 2EIM; X-ray; 2.60 A; M/Z=25-70.
+DR   PDB; 2EIN; X-ray; 2.70 A; M/Z=25-70.
+DR   PDB; 2OCC; X-ray; 2.30 A; M/Z=25-70.
+DR   PDB; 2Y69; X-ray; 1.95 A; M/Z=1-70.
+DR   PDB; 2YBB; EM; 19.00 A; X=25-70.
+DR   PDB; 2ZXW; X-ray; 2.50 A; M/Z=25-70.
+DR   PDB; 3ABK; X-ray; 2.00 A; M/Z=25-70.
+DR   PDB; 3ABL; X-ray; 2.10 A; M/Z=25-70.
+DR   PDB; 3ABM; X-ray; 1.95 A; M/Z=25-70.
+DR   PDB; 3AG1; X-ray; 2.20 A; M/Z=25-70.
+DR   PDB; 3AG2; X-ray; 1.80 A; M/Z=25-70.
+DR   PDB; 3AG3; X-ray; 1.80 A; M/Z=25-70.
+DR   PDB; 3AG4; X-ray; 2.05 A; M/Z=25-70.
+DR   PDB; 3ASN; X-ray; 3.00 A; M/Z=25-70.
+DR   PDB; 3ASO; X-ray; 2.30 A; M/Z=25-70.
+DR   PDB; 3WG7; X-ray; 1.90 A; M/Z=25-70.
+DR   PDBsum; 1OCC; -.
+DR   PDBsum; 1OCO; -.
+DR   PDBsum; 1OCR; -.
+DR   PDBsum; 1OCZ; -.
+DR   PDBsum; 1V54; -.
+DR   PDBsum; 1V55; -.
+DR   PDBsum; 2DYR; -.
+DR   PDBsum; 2DYS; -.
+DR   PDBsum; 2EIJ; -.
+DR   PDBsum; 2EIK; -.
+DR   PDBsum; 2EIL; -.
+DR   PDBsum; 2EIM; -.
+DR   PDBsum; 2EIN; -.
+DR   PDBsum; 2OCC; -.
+DR   PDBsum; 2Y69; -.
+DR   PDBsum; 2YBB; -.
+DR   PDBsum; 2ZXW; -.
+DR   PDBsum; 3ABK; -.
+DR   PDBsum; 3ABL; -.
+DR   PDBsum; 3ABM; -.
+DR   PDBsum; 3AG1; -.
+DR   PDBsum; 3AG2; -.
+DR   PDBsum; 3AG3; -.
+DR   PDBsum; 3AG4; -.
+DR   PDBsum; 3ASN; -.
+DR   PDBsum; 3ASO; -.
+DR   PDBsum; 3WG7; -.
+DR   ProteinModelPortal; P10175; -.
+DR   SMR; P10175; 25-67.
+DR   DIP; DIP-60941N; -.
+DR   STRING; 9913.ENSBTAP00000002651; -.
+DR   GeneID; 615757; -.
+DR   KEGG; bta:615757; -.
+DR   CTD; 12869; -.
+DR   eggNOG; NOG83531; -.
+DR   HOGENOM; HOG000230478; -.
+DR   InParanoid; P10175; -.
+DR   KO; K02273; -.
+DR   OrthoDB; EOG769ZNX; -.
+DR   TreeFam; TF105070; -.
+DR   BRENDA; 1.9.3.1; 908.
+DR   EvolutionaryTrace; P10175; -.
+DR   NextBio; 20899771; -.
+DR   Proteomes; UP000009136; Unplaced.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0005743; C:mitochondrial inner membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0045277; C:respiratory chain complex IV; IDA:UniProtKB.
+DR   GO; GO:0004129; F:cytochrome-c oxidase activity; IEA:InterPro.
+DR   Gene3D; 4.10.81.10; -; 1.
+DR   InterPro; IPR003205; Cyt_c_oxidase_su8.
+DR   InterPro; IPR016070; Cyt_c_oxidase_su8/PSI_RC_su9.
+DR   PANTHER; PTHR16717; PTHR16717; 1.
+DR   Pfam; PF02285; COX8; 1.
+DR   SUPFAM; SSF81431; SSF81431; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Direct protein sequencing; Membrane;
+KW   Mitochondrion; Mitochondrion inner membrane; Reference proteome;
+KW   Transit peptide; Transmembrane; Transmembrane helix.
+FT   TRANSIT       1     24       Mitochondrion.
+FT                                {ECO:0000269|PubMed:2176624,
+FT                                ECO:0000269|PubMed:6327490}.
+FT   CHAIN        25     70       Cytochrome c oxidase subunit 8B,
+FT                                mitochondrial.
+FT                                /FTId=PRO_0000006176.
+FT   TOPO_DOM     25     35       Mitochondrial matrix.
+FT   TRANSMEM     36     59       Helical.
+FT   TOPO_DOM     60     70       Mitochondrial intermembrane.
+FT   CONFLICT     19     19       A -> V (in Ref. 1; AAA30466).
+FT                                {ECO:0000305}.
+FT   CONFLICT     31     31       K -> R (in Ref. 1; AAA30466).
+FT                                {ECO:0000305}.
+FT   HELIX        36     59       {ECO:0000244|PDB:1V54}.
+FT   HELIX        61     65       {ECO:0000244|PDB:1V54}.
+SQ   SEQUENCE   70 AA;  7639 MW;  17BE70ADEC45FDD8 CRC64;
+     MLRLAPTVRL LQAPLRGWAV PKAHITAKPA KTPTSPKEQA IGLSVTFLSF LLPAGWVLYH
+     LDNYKKSSAA
+//

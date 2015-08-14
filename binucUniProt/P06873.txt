@@ -1,0 +1,307 @@
+ID   PRTK_ENGAL              Reviewed;         384 AA.
+AC   P06873;
+DT   01-JAN-1988, integrated into UniProtKB/Swiss-Prot.
+DT   01-JAN-1990, sequence version 2.
+DT   22-JUL-2015, entry version 125.
+DE   RecName: Full=Proteinase K;
+DE            EC=3.4.21.64;
+DE   AltName: Full=Endopeptidase K;
+DE   AltName: Full=Tritirachium alkaline proteinase;
+DE   Flags: Precursor;
+GN   Name=PROK;
+OS   Engyodontium album (Tritirachium album).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; mitosporic Ascomycota;
+OC   Engyodontium.
+OX   NCBI_TaxID=37998;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA].
+RC   STRAIN=ATCC 22563 / Limber;
+RX   PubMed=2645134; DOI=10.1111/j.1432-1033.1989.tb14539.x;
+RA   Gunkel F.A., Gassen H.G.;
+RT   "Proteinase K from Tritirachium album Limber. Characterization of the
+RT   chromosomal gene and expression of the cDNA in Escherichia coli.";
+RL   Eur. J. Biochem. 179:185-194(1989).
+RN   [2]
+RP   PROTEIN SEQUENCE OF 106-384.
+RA   Jany K.-D., Lederer G., Mayer B.;
+RT   "Proteinase K - a new subclass of the subtilisins. The amino acid
+RT   sequence of the enzyme.";
+RL   Biol. Chem. Hoppe-Seyler 367:87-87(1986).
+RN   [3]
+RP   PROTEIN SEQUENCE OF 106-384.
+RA   Jany K.-D., Lederer G., Mayer B.;
+RT   "Amino acid sequence of proteinase K from the mold Tritirachium album
+RT   limber. Proteinase K - a subtilisin-related enzyme with disulfide
+RT   bonds.";
+RL   FEBS Lett. 199:139-144(1986).
+RN   [4]
+RP   PROTEIN SEQUENCE OF 259-343.
+RX   PubMed=3924077;
+RA   Jany K.-D., Mayer B.;
+RT   "Proteinase K from Tritirachium album limber. I. Molecular mass and
+RT   sequence around the active site serine residue.";
+RL   Biol. Chem. Hoppe-Seyler 366:485-492(1985).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (3.3 ANGSTROMS).
+RX   PubMed=6378621;
+RA   Paehler A., Banerjee A., Dattagupta J.K., Fujiwara T., Lindner K.,
+RA   Pal G.P., Suck D., Weber G., Saenger W.;
+RT   "Three-dimensional structure of fungal proteinase K reveals similarity
+RT   to bacterial subtilisin.";
+RL   EMBO J. 3:1311-1314(1984).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (1.5 ANGSTROMS).
+RX   PubMed=8083213;
+RA   Mueller A., Hinrichs W., Wolf W.M., Saenger W.;
+RT   "Crystal structure of calcium-free proteinase K at 1.5-A resolution.";
+RL   J. Biol. Chem. 269:23108-23111(1994).
+RN   [7]
+RP   X-RAY CRYSTALLOGRAPHY (2.44 ANGSTROMS).
+RX   PubMed=9741842;
+RX   DOI=10.1002/(SICI)1097-0134(19981001)33:1<30::AID-PROT3>3.3.CO;2-W;
+RA   Singh T.P., Sharma S., Karthikeyan S., Betzel C., Bhatia K.L.;
+RT   "Crystal structure of a complex formed between proteolytically-
+RT   generated lactoferrin fragment and proteinase K.";
+RL   Proteins 33:30-38(1998).
+CC   -!- FUNCTION: Hydrolyzes keratin at aromatic and hydrophobic residues.
+CC   -!- CATALYTIC ACTIVITY: Hydrolysis of keratin, and of other proteins
+CC       with subtilisin-like specificity. Hydrolyzes peptide amides.
+CC   -!- COFACTOR:
+CC       Name=Ca(2+); Xref=ChEBI:CHEBI:29108;
+CC       Note=Binds 2 calcium ions per subunit.;
+CC   -!- SIMILARITY: Belongs to the peptidase S8 family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 peptidase S8 domain. {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=Worthington enzyme manual;
+CC       URL="http://www.worthington-biochem.com/PROK/";
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X14689; CAA32820.1; -; Genomic_DNA.
+DR   EMBL; X14688; CAA32819.1; -; mRNA.
+DR   PIR; S02142; SUTIKA.
+DR   PDB; 1BJR; X-ray; 2.44 A; E=106-384.
+DR   PDB; 1CNM; X-ray; 2.20 A; A=106-384.
+DR   PDB; 1EGQ; X-ray; 1.55 A; A=106-384.
+DR   PDB; 1HT3; X-ray; 1.80 A; A=106-384.
+DR   PDB; 1IC6; X-ray; 0.98 A; A=106-384.
+DR   PDB; 1OYO; X-ray; 2.02 A; A=106-384.
+DR   PDB; 1P7V; X-ray; 1.08 A; A=106-384.
+DR   PDB; 1P7W; X-ray; 1.02 A; A=106-384.
+DR   PDB; 1PEK; X-ray; 2.20 A; E=106-384.
+DR   PDB; 1PFG; X-ray; 2.50 A; A=106-384.
+DR   PDB; 1PJ8; X-ray; 2.20 A; A=106-384.
+DR   PDB; 1PTK; X-ray; 2.40 A; A=106-384.
+DR   PDB; 2DP4; X-ray; 2.90 A; E=106-384.
+DR   PDB; 2DQK; X-ray; 1.93 A; A=106-384.
+DR   PDB; 2DUJ; X-ray; 1.67 A; A=106-384.
+DR   PDB; 2G4V; X-ray; 2.14 A; A=106-384.
+DR   PDB; 2HD4; X-ray; 2.15 A; A=106-384.
+DR   PDB; 2HPZ; X-ray; 1.69 A; A=106-384.
+DR   PDB; 2ID8; X-ray; 1.27 A; A=106-384.
+DR   PDB; 2PKC; X-ray; 1.50 A; A=106-384.
+DR   PDB; 2PQ2; X-ray; 1.82 A; A=106-384.
+DR   PDB; 2PRK; X-ray; 1.50 A; A=106-384.
+DR   PDB; 2PWA; X-ray; 0.83 A; A=106-384.
+DR   PDB; 2PWB; X-ray; 1.90 A; A=106-384.
+DR   PDB; 2PYZ; X-ray; 1.79 A; A=106-384.
+DR   PDB; 2V8B; X-ray; 0.94 A; A=106-384.
+DR   PDB; 3AJ8; X-ray; 1.10 A; A=106-384.
+DR   PDB; 3AJ9; X-ray; 1.10 A; A=106-384.
+DR   PDB; 3D9Q; X-ray; 1.43 A; X=106-384.
+DR   PDB; 3DDZ; X-ray; 1.70 A; X=106-384.
+DR   PDB; 3DE0; X-ray; 1.90 A; X=106-384.
+DR   PDB; 3DE1; X-ray; 2.00 A; X=106-384.
+DR   PDB; 3DE2; X-ray; 2.10 A; X=106-384.
+DR   PDB; 3DE3; X-ray; 1.43 A; X=106-384.
+DR   PDB; 3DE4; X-ray; 1.80 A; X=106-384.
+DR   PDB; 3DE5; X-ray; 2.10 A; X=106-384.
+DR   PDB; 3DE6; X-ray; 2.20 A; X=106-384.
+DR   PDB; 3DE7; X-ray; 2.30 A; X=106-384.
+DR   PDB; 3DVQ; X-ray; 1.02 A; X=106-384.
+DR   PDB; 3DVR; X-ray; 1.02 A; X=106-384.
+DR   PDB; 3DVS; X-ray; 1.02 A; X=106-384.
+DR   PDB; 3DW1; X-ray; 1.03 A; X=106-384.
+DR   PDB; 3DW3; X-ray; 0.99 A; X=106-384.
+DR   PDB; 3DWE; X-ray; 0.99 A; X=106-384.
+DR   PDB; 3DYB; X-ray; 1.32 A; A=106-384.
+DR   PDB; 3GT3; X-ray; 1.50 A; A=106-384.
+DR   PDB; 3GT4; X-ray; 1.76 A; A=106-384.
+DR   PDB; 3I2Y; X-ray; 1.00 A; X=106-384.
+DR   PDB; 3I30; X-ray; 0.99 A; X=106-384.
+DR   PDB; 3I34; X-ray; 1.00 A; X=106-384.
+DR   PDB; 3I37; X-ray; 1.00 A; X=106-384.
+DR   PDB; 3L1K; X-ray; 1.55 A; A=106-384.
+DR   PDB; 3OSZ; X-ray; 2.26 A; A=106-384.
+DR   PDB; 3PRK; X-ray; 2.20 A; E=106-384.
+DR   PDB; 3PTL; X-ray; 1.30 A; A=106-384.
+DR   PDB; 3Q40; X-ray; 1.80 A; A=106-384.
+DR   PDB; 3Q5G; X-ray; 1.77 A; A=106-384.
+DR   PDB; 3QMP; X-ray; 1.10 A; A=106-384.
+DR   PDB; 4B5L; X-ray; 1.60 A; A=106-384.
+DR   PDB; 4DJ5; X-ray; 1.80 A; X=106-384.
+DR   PDB; 4FON; X-ray; 1.05 A; A=106-384.
+DR   PDB; 4WOB; X-ray; 1.90 A; A=106-384.
+DR   PDB; 4WOC; X-ray; 1.60 A; A=106-384.
+DR   PDB; 4ZAR; X-ray; 1.15 A; A=106-384.
+DR   PDBsum; 1BJR; -.
+DR   PDBsum; 1CNM; -.
+DR   PDBsum; 1EGQ; -.
+DR   PDBsum; 1HT3; -.
+DR   PDBsum; 1IC6; -.
+DR   PDBsum; 1OYO; -.
+DR   PDBsum; 1P7V; -.
+DR   PDBsum; 1P7W; -.
+DR   PDBsum; 1PEK; -.
+DR   PDBsum; 1PFG; -.
+DR   PDBsum; 1PJ8; -.
+DR   PDBsum; 1PTK; -.
+DR   PDBsum; 2DP4; -.
+DR   PDBsum; 2DQK; -.
+DR   PDBsum; 2DUJ; -.
+DR   PDBsum; 2G4V; -.
+DR   PDBsum; 2HD4; -.
+DR   PDBsum; 2HPZ; -.
+DR   PDBsum; 2ID8; -.
+DR   PDBsum; 2PKC; -.
+DR   PDBsum; 2PQ2; -.
+DR   PDBsum; 2PRK; -.
+DR   PDBsum; 2PWA; -.
+DR   PDBsum; 2PWB; -.
+DR   PDBsum; 2PYZ; -.
+DR   PDBsum; 2V8B; -.
+DR   PDBsum; 3AJ8; -.
+DR   PDBsum; 3AJ9; -.
+DR   PDBsum; 3D9Q; -.
+DR   PDBsum; 3DDZ; -.
+DR   PDBsum; 3DE0; -.
+DR   PDBsum; 3DE1; -.
+DR   PDBsum; 3DE2; -.
+DR   PDBsum; 3DE3; -.
+DR   PDBsum; 3DE4; -.
+DR   PDBsum; 3DE5; -.
+DR   PDBsum; 3DE6; -.
+DR   PDBsum; 3DE7; -.
+DR   PDBsum; 3DVQ; -.
+DR   PDBsum; 3DVR; -.
+DR   PDBsum; 3DVS; -.
+DR   PDBsum; 3DW1; -.
+DR   PDBsum; 3DW3; -.
+DR   PDBsum; 3DWE; -.
+DR   PDBsum; 3DYB; -.
+DR   PDBsum; 3GT3; -.
+DR   PDBsum; 3GT4; -.
+DR   PDBsum; 3I2Y; -.
+DR   PDBsum; 3I30; -.
+DR   PDBsum; 3I34; -.
+DR   PDBsum; 3I37; -.
+DR   PDBsum; 3L1K; -.
+DR   PDBsum; 3OSZ; -.
+DR   PDBsum; 3PRK; -.
+DR   PDBsum; 3PTL; -.
+DR   PDBsum; 3Q40; -.
+DR   PDBsum; 3Q5G; -.
+DR   PDBsum; 3QMP; -.
+DR   PDBsum; 4B5L; -.
+DR   PDBsum; 4DJ5; -.
+DR   PDBsum; 4FON; -.
+DR   PDBsum; 4WOB; -.
+DR   PDBsum; 4WOC; -.
+DR   PDBsum; 4ZAR; -.
+DR   ProteinModelPortal; P06873; -.
+DR   SMR; P06873; 106-384.
+DR   BindingDB; P06873; -.
+DR   ChEMBL; CHEMBL1075070; -.
+DR   Allergome; 8265; Tri al Proteinase K.
+DR   MEROPS; S08.054; -.
+DR   PRIDE; P06873; -.
+DR   BRENDA; 3.4.21.64; 6510.
+DR   EvolutionaryTrace; P06873; -.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004252; F:serine-type endopeptidase activity; IEA:InterPro.
+DR   Gene3D; 3.40.50.200; -; 1.
+DR   InterPro; IPR000209; Peptidase_S8/S53_dom.
+DR   InterPro; IPR023827; Peptidase_S8_Asp-AS.
+DR   InterPro; IPR022398; Peptidase_S8_His-AS.
+DR   InterPro; IPR023828; Peptidase_S8_Ser-AS.
+DR   InterPro; IPR015500; Peptidase_S8_subtilisin-rel.
+DR   InterPro; IPR009020; Prot_inh_propept.
+DR   InterPro; IPR010259; S8pro/Inhibitor_I9.
+DR   PANTHER; PTHR10795; PTHR10795; 1.
+DR   Pfam; PF05922; Inhibitor_I9; 1.
+DR   Pfam; PF00082; Peptidase_S8; 1.
+DR   PRINTS; PR00723; SUBTILISIN.
+DR   SUPFAM; SSF52743; SSF52743; 1.
+DR   SUPFAM; SSF54897; SSF54897; 1.
+DR   PROSITE; PS00136; SUBTILASE_ASP; 1.
+DR   PROSITE; PS00137; SUBTILASE_HIS; 1.
+DR   PROSITE; PS00138; SUBTILASE_SER; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Calcium; Direct protein sequencing; Disulfide bond;
+KW   Hydrolase; Metal-binding; Protease; Serine protease; Signal; Zymogen.
+FT   SIGNAL        1     15
+FT   PROPEP       16    105       {ECO:0000269|Ref.2, ECO:0000269|Ref.3}.
+FT                                /FTId=PRO_0000027138.
+FT   CHAIN       106    384       Proteinase K.
+FT                                /FTId=PRO_0000027139.
+FT   DOMAIN      140    365       Peptidase S8.
+FT   ACT_SITE    144    144       Charge relay system.
+FT   ACT_SITE    174    174       Charge relay system.
+FT   ACT_SITE    329    329       Charge relay system.
+FT   METAL       121    121       Calcium 2; via carbonyl oxygen.
+FT   METAL       280    280       Calcium 1; via carbonyl oxygen.
+FT   METAL       282    282       Calcium 1; via carbonyl oxygen.
+FT   METAL       305    305       Calcium 1.
+FT   METAL       365    365       Calcium 2.
+FT   DISULFID    139    228
+FT   DISULFID    283    354
+FT   CONFLICT    184    184       S -> SG (in Ref. 2; AA sequence and 3; AA
+FT                                sequence). {ECO:0000305}.
+FT   CONFLICT    312    316       SILST -> DLS (in Ref. 2; AA sequence, 3;
+FT                                AA sequence and 4; AA sequence).
+FT                                {ECO:0000305}.
+FT   CONFLICT    374    374       V -> F (in Ref. 2; AA sequence).
+FT                                {ECO:0000305}.
+FT   CONFLICT    377    377       Missing (in Ref. 2; AA sequence and 3; AA
+FT                                sequence). {ECO:0000305}.
+FT   STRAND      107    109       {ECO:0000244|PDB:2DP4}.
+FT   HELIX       113    118       {ECO:0000244|PDB:2PWA}.
+FT   STRAND      121    124       {ECO:0000244|PDB:2V8B}.
+FT   STRAND      127    129       {ECO:0000244|PDB:2DP4}.
+FT   TURN        132    137       {ECO:0000244|PDB:2PWA}.
+FT   STRAND      138    145       {ECO:0000244|PDB:2PWA}.
+FT   HELIX       152    154       {ECO:0000244|PDB:2PWA}.
+FT   STRAND      158    166       {ECO:0000244|PDB:2PWA}.
+FT   STRAND      171    173       {ECO:0000244|PDB:2PWA}.
+FT   HELIX       174    183       {ECO:0000244|PDB:2PWA}.
+FT   TURN        185    187       {ECO:0000244|PDB:2PWA}.
+FT   STRAND      194    199       {ECO:0000244|PDB:2PWA}.
+FT   HELIX       209    222       {ECO:0000244|PDB:2PWA}.
+FT   HELIX       223    225       {ECO:0000244|PDB:2PWA}.
+FT   STRAND      231    236       {ECO:0000244|PDB:2PWA}.
+FT   STRAND      239    241       {ECO:0000244|PDB:3PRK}.
+FT   HELIX       244    255       {ECO:0000244|PDB:2PWA}.
+FT   STRAND      258    263       {ECO:0000244|PDB:2PWA}.
+FT   STRAND      266    270       {ECO:0000244|PDB:2PWA}.
+FT   HELIX       271    273       {ECO:0000244|PDB:2PWA}.
+FT   TURN        276    278       {ECO:0000244|PDB:2PWA}.
+FT   STRAND      282    288       {ECO:0000244|PDB:2PWA}.
+FT   STRAND      292    294       {ECO:0000244|PDB:2PWA}.
+FT   STRAND      300    303       {ECO:0000244|PDB:2DP4}.
+FT   STRAND      306    309       {ECO:0000244|PDB:2PWA}.
+FT   STRAND      311    317       {ECO:0000244|PDB:2PWA}.
+FT   TURN        318    320       {ECO:0000244|PDB:2PWA}.
+FT   STRAND      321    325       {ECO:0000244|PDB:2PWA}.
+FT   HELIX       328    344       {ECO:0000244|PDB:2PWA}.
+FT   TURN        350    352       {ECO:0000244|PDB:2PWA}.
+FT   HELIX       353    360       {ECO:0000244|PDB:2PWA}.
+FT   STRAND      361    364       {ECO:0000244|PDB:2PWA}.
+SQ   SEQUENCE   384 AA;  40300 MW;  00E1B111F0EFF5C4 CRC64;
+     MRLSVLLSLL PLALGAPAVE QRSEAAPLIE ARGEMVANKY IVKFKEGSAL SALDAAMEKI
+     SGKPDHVYKN VFSGFAATLD ENMVRVLRAH PDVEYIEQDA VVTINAAQTN APWGLARISS
+     TSPGTSTYYY DESAGQGSCV YVIDTGIEAS HPEFEGRAQM VKTYYYSSRD GNGHGTHCAG
+     TVGSRTYGVA KKTQLFGVKV LDDNGSGQYS TIIAGMDFVA SDKNNRNCPK GVVASLSLGG
+     GYSSSVNSAA ARLQSSGVMV AVAAGNNNAD ARNYSPASEP SVCTVGASDR YDRRSSFSNY
+     GSVLDIFGPG TSILSTWIGG STRSISGTSM ATPHVAGLAA YLMTLGKTTA ASACRYIADT
+     ANKGDLSNIP FGTVNLLAYN NYQA
+//

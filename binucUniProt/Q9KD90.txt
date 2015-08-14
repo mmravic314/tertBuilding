@@ -1,0 +1,79 @@
+ID   Q9KD90_BACHD            Unreviewed;       187 AA.
+AC   Q9KD90;
+DT   01-OCT-2000, integrated into UniProtKB/TrEMBL.
+DT   01-OCT-2000, sequence version 1.
+DT   22-JUL-2015, entry version 86.
+DE   SubName: Full=BH1327 protein {ECO:0000313|EMBL:BAB05046.1};
+GN   OrderedLocusNames=BH1327 {ECO:0000313|EMBL:BAB05046.1};
+OS   Bacillus halodurans (strain ATCC BAA-125 / DSM 18197 / FERM 7344 / JCM
+OS   9153 / C-125).
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus.
+OX   NCBI_TaxID=272558 {ECO:0000313|EMBL:BAB05046.1, ECO:0000313|Proteomes:UP000001258};
+RN   [1] {ECO:0000313|EMBL:BAB05046.1, ECO:0000313|Proteomes:UP000001258}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC BAA-125 / DSM 18197 / FERM 7344 / JCM 9153 / C-125
+RC   {ECO:0000313|Proteomes:UP000001258};
+RX   PubMed=11058132; DOI=10.1093/nar/28.21.4317;
+RA   Takami H., Nakasone K., Takaki Y., Maeno G., Sasaki R., Masui N.,
+RA   Fuji F., Hirama C., Nakamura Y., Ogasawara N., Kuhara S.,
+RA   Horikoshi K.;
+RT   "Complete genome sequence of the alkaliphilic bacterium Bacillus
+RT   halodurans and genomic sequence comparison with Bacillus subtilis.";
+RL   Nucleic Acids Res. 28:4317-4331(2000).
+RN   [2] {ECO:0000213|PDB:2O08}
+RP   X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS) IN COMPLEX WITH IRON.
+RG   Joint Center for Structural Genomics (JCSG);
+RT   "Crystal structure of hypothetical protein (NP_242193.1) from Bacillus
+RT   halodurans at 1.90 A resolution.";
+RL   Submitted (NOV-2006) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; BA000004; BAB05046.1; -; Genomic_DNA.
+DR   PIR; G83815; G83815.
+DR   RefSeq; WP_010897494.1; NC_002570.2.
+DR   PDB; 2O08; X-ray; 1.90 A; A/B=1-187.
+DR   PDBsum; 2O08; -.
+DR   ProteinModelPortal; Q9KD90; -.
+DR   SMR; Q9KD90; 1-186.
+DR   STRING; 272558.BH1327; -.
+DR   EnsemblBacteria; BAB05046; BAB05046; BAB05046.
+DR   KEGG; bha:BH1327; -.
+DR   PATRIC; 18939718; VBIBacHal18977_1377.
+DR   HOGENOM; HOG000016164; -.
+DR   OMA; HTTGREN; -.
+DR   OrthoDB; EOG6B8XJX; -.
+DR   BioCyc; BHAL272558:GJC5-1406-MONOMER; -.
+DR   EvolutionaryTrace; Q9KD90; -.
+DR   Proteomes; UP000001258; Chromosome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.3210.10; -; 1.
+DR   InterPro; IPR005249; CHP00488.
+DR   InterPro; IPR003607; HD/PDEase_dom.
+DR   InterPro; IPR006674; HD_domain.
+DR   Pfam; PF01966; HD; 1.
+DR   SMART; SM00471; HDc; 1.
+DR   TIGRFAMs; TIGR00488; TIGR00488; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2O08};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001258};
+KW   Iron {ECO:0000213|PDB:2O08}; Metal-binding {ECO:0000213|PDB:2O08};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001258}.
+FT   METAL        21     21       Iron 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2O08}.
+FT   METAL        50     50       Iron 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2O08}.
+FT   METAL        51     51       Iron 1. {ECO:0000213|PDB:2O08}.
+FT   METAL        51     51       Iron 2. {ECO:0000213|PDB:2O08}.
+FT   METAL        83     83       Iron 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2O08}.
+FT   METAL       109    109       Iron 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2O08}.
+FT   METAL       127    127       Iron 1. {ECO:0000213|PDB:2O08}.
+SQ   SEQUENCE   187 AA;  21521 MW;  43B6583ADA32B73E CRC64;
+     MNRGKALQLV KPHLTEHRYQ HTIGVMETAI DLAKLYGADQ QKAELAAIFH DYAKFRDKNE
+     MRTLIREKLS QQDILFYGDE LLHAPCGAYY VREEVGIEDE DVLQAIRFHT TGRPNMSLLE
+     KIIFLADYIE PNRQFPGVEK VRTQAKTDLN GAIISSLVNT ITFLLKKNQP IYPDTLATYN
+     QLLLEQK
+//

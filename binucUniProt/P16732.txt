@@ -1,0 +1,148 @@
+ID   TRM3_HCMVA              Reviewed;         674 AA.
+AC   P16732; Q7M6K2;
+DT   01-AUG-1990, integrated into UniProtKB/Swiss-Prot.
+DT   01-AUG-1990, sequence version 1.
+DT   24-JUN-2015, entry version 63.
+DE   RecName: Full=Tripartite terminase subunit UL15 homolog;
+DE   AltName: Full=DNA-packaging protein UL89;
+DE   AltName: Full=Terminase large subunit;
+GN   Name=UL89;
+OS   Human cytomegalovirus (strain AD169) (HHV-5) (Human herpesvirus 5).
+OC   Viruses; dsDNA viruses, no RNA stage; Herpesvirales; Herpesviridae;
+OC   Betaherpesvirinae; Cytomegalovirus.
+OX   NCBI_TaxID=10360;
+OH   NCBI_TaxID=9606; Homo sapiens (Human).
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=2161319;
+RA   Chee M.S., Bankier A.T., Beck S., Bohni R., Brown C.M., Cerny R.,
+RA   Horsnell T., Hutchison C.A. III, Kouzarides T., Martignetti J.A.,
+RA   Preddie E., Satchwell S.C., Tomlinson P., Weston K.M., Barrell B.G.;
+RT   "Analysis of the protein-coding content of the sequence of human
+RT   cytomegalovirus strain AD169.";
+RL   Curr. Top. Microbiol. Immunol. 154:125-169(1990).
+RN   [2]
+RP   GENOME REANNOTATION.
+RX   PubMed=12533697; DOI=10.1099/vir.0.18606-0;
+RA   Davison A.J., Dolan A., Akter P., Addison C., Dargan D.J.,
+RA   Alcendor D.J., McGeoch D.J., Hayward G.S.;
+RT   "The human cytomegalovirus genome revisited: comparison with the
+RT   chimpanzee cytomegalovirus genome.";
+RL   J. Gen. Virol. 84:17-28(2003).
+RN   [3]
+RP   ERRATUM.
+RA   Davison A.J., Dolan A., Akter P., Addison C., Dargan D.J.,
+RA   Alcendor D.J., McGeoch D.J., Hayward G.S.;
+RL   J. Gen. Virol. 84:1053-1053(2003).
+RN   [4]
+RP   IDENTIFICATION.
+RX   PubMed=15452216; DOI=10.1128/JVI.78.20.10960-10966.2004;
+RA   Varnum S.M., Streblow D.N., Monroe M.E., Smith P., Auberry K.J.,
+RA   Pasa-Tolic L., Wang D., Camp D.G. II, Rodland K., Wiley S., Britt W.,
+RA   Shenk T., Smith R.D., Nelson J.A.;
+RT   "Identification of proteins in human cytomegalovirus (HCMV) particles:
+RT   the HCMV proteome.";
+RL   J. Virol. 78:10960-10966(2004).
+RN   [5]
+RP   ERRATUM.
+RA   Varnum S.M., Streblow D.N., Monroe M.E., Smith P., Auberry K.J.,
+RA   Pasa-Tolic L., Wang D., Camp D.G. II, Rodland K., Wiley S., Britt W.,
+RA   Shenk T., Smith R.D., Nelson J.A.;
+RL   J. Virol. 78:13395-13395(2004).
+RN   [6]
+RP   REGION, AND INTERACTION WITH UL56.
+RX   PubMed=16846228; DOI=10.1021/bi0600796;
+RA   Thoma C., Borst E., Messerle M., Rieger M., Hwang J.S., Bogner E.;
+RT   "Identification of the interaction domain of the small terminase
+RT   subunit pUL89 with the large subunit pUL56 of human cytomegalovirus.";
+RL   Biochemistry 45:8855-8863(2006).
+RN   [7]
+RP   X-RAY CRYSTALLOGRAPHY (2.15 ANGSTROMS) OF 418-674.
+RX   PubMed=20805464; DOI=10.1073/pnas.1007144107;
+RA   Nadal M., Mas P.J., Blanco A.G., Arnan C., Sola M., Hart D.J.,
+RA   Coll M.;
+RT   "Structure and inhibition of herpesvirus DNA packaging terminase
+RT   nuclease domain.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 107:16078-16083(2010).
+CC   -!- FUNCTION: Component of the molecular motor that translocates
+CC       genomic DNA in empty capsid during DNA packaging. Heterodimerizes
+CC       with small terminase protein to be docked on capsid portal
+CC       protein. The latter forms a ring in which genomic DNA in
+CC       translocated into the capsid. May have or induce an endonuclease
+CC       activity to cleave the genome concatemer after encapsidation (By
+CC       similarity). {ECO:0000250}.
+CC   -!- SUBUNIT: Interacts with UL56 and UL104 (via C-terminus).
+CC       {ECO:0000269|PubMed:16846228}.
+CC   -!- SUBCELLULAR LOCATION: Host nucleus {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the herpesviridae UL15 protein family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X17403; CAA35363.1; -; Genomic_DNA.
+DR   EMBL; BK000394; DAA00186.1; -; Genomic_DNA.
+DR   PIR; S09853; QQBEI5.
+DR   PDB; 3N4P; X-ray; 2.15 A; A/B/C/D=418-674.
+DR   PDB; 3N4Q; X-ray; 3.20 A; A/B/C/D=418-674.
+DR   PDBsum; 3N4P; -.
+DR   PDBsum; 3N4Q; -.
+DR   EvolutionaryTrace; P16732; -.
+DR   Proteomes; UP000008991; Genome.
+DR   Proteomes; UP000008992; Genome.
+DR   GO; GO:0042025; C:host cell nucleus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0006323; P:DNA packaging; IEA:InterPro.
+DR   GO; GO:0019076; P:viral release from host cell; IEA:UniProtKB-KW.
+DR   InterPro; IPR003498; DNA_pack_C.
+DR   InterPro; IPR003499; DNA_pack_N.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   Pfam; PF02499; DNA_pack_C; 1.
+DR   Pfam; PF02500; DNA_pack_N; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Host nucleus; Viral genome packaging;
+KW   Virus exit from host cell.
+FT   CHAIN         1    674       Tripartite terminase subunit UL15
+FT                                homolog.
+FT                                /FTId=PRO_0000115947.
+FT   REGION      580    600       Required for interaction with UL56 and
+FT                                DNA packaging.
+FT   MOTIF       212    219       Walker A motif.
+FT   MOTIF       305    310       Walker B motif.
+FT   ACT_SITE    310    310       For ATPase activity. {ECO:0000255}.
+FT   HELIX       432    440       {ECO:0000244|PDB:3N4P}.
+FT   STRAND      441    443       {ECO:0000244|PDB:3N4P}.
+FT   HELIX       445    447       {ECO:0000244|PDB:3N4P}.
+FT   STRAND      452    454       {ECO:0000244|PDB:3N4Q}.
+FT   STRAND      457    463       {ECO:0000244|PDB:3N4P}.
+FT   STRAND      468    470       {ECO:0000244|PDB:3N4P}.
+FT   STRAND      475    483       {ECO:0000244|PDB:3N4P}.
+FT   STRAND      486    495       {ECO:0000244|PDB:3N4P}.
+FT   HELIX       504    522       {ECO:0000244|PDB:3N4P}.
+FT   STRAND      528    534       {ECO:0000244|PDB:3N4P}.
+FT   HELIX       539    556       {ECO:0000244|PDB:3N4P}.
+FT   STRAND      560    564       {ECO:0000244|PDB:3N4P}.
+FT   STRAND      566    568       {ECO:0000244|PDB:3N4P}.
+FT   TURN        569    571       {ECO:0000244|PDB:3N4P}.
+FT   STRAND      572    575       {ECO:0000244|PDB:3N4P}.
+FT   HELIX       582    595       {ECO:0000244|PDB:3N4P}.
+FT   STRAND      599    606       {ECO:0000244|PDB:3N4P}.
+FT   STRAND      608    611       {ECO:0000244|PDB:3N4P}.
+FT   HELIX       616    625       {ECO:0000244|PDB:3N4P}.
+FT   HELIX       651    661       {ECO:0000244|PDB:3N4P}.
+FT   HELIX       665    670       {ECO:0000244|PDB:3N4P}.
+FT   STRAND      671    673       {ECO:0000244|PDB:3N4Q}.
+SQ   SEQUENCE   674 AA;  77079 MW;  E73D82634C4BE739 CRC64;
+     MLRGDSAAKI QERYAELQKR KSHPTSCIST AFTNVATLCR KRYQMMHPEL GLAHSCNEAF
+     LPLMAFCGRH RDYNSPEESQ RELLFHERLK SALDKLTFRP CSEEQRASYQ KLDALTELYR
+     DPQFQQINNF MTDFKKWLDG GFSTAVEGDA KAIRLEPFQK NLLIHVIFFI AVTKIPVLAN
+     RVLQYLIHAF QIDFLSQTSI DIFKQKATVF LVPRRHGKTW FIIPIISFLL KHMIGISIGY
+     VAHQKHVSQF VLKEVEFRCR HTFARDYVVE NKDNVISIDH RGAKSTALFA SCYNTNSIRG
+     QNFHLLLVDE AHFIKKEAFN TILGFLAQNT TKIIFISSTN TTSDSTCFLT RLNNAPFDML
+     NVVSYVCEEH LHSFTEKGDA TACPCYRLHK PTFISLNSQV RKTANMFMPG AFMDEIIGGT
+     NKISQNTVLI TDQSREEFDI LRYSTLNTNA YDYFGKTLYV YLDPAFTTNR KASGTGVAAV
+     GAYRHQFLIY GLEHFFLRDL SESSEVAIAE CAAHMIISVL SLHPYLDELR IAVEGNTNQA
+     AAVRIACLIR QSVQSSTLIR VLFYHTPDQN HIEQPFYLMG RDKALAVEQF ISRFNSGYIK
+     ASQELVSYTI KLSHDPIEYL LEQIQNLHRV TLAEGTTARY SAKRQNRISD DLIIAVIMAT
+     YLCDDIHAIR FRVS
+//

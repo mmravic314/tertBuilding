@@ -1,0 +1,117 @@
+ID   Q2T3W4_BURTA            Unreviewed;       320 AA.
+AC   Q2T3W4;
+DT   24-JAN-2006, integrated into UniProtKB/TrEMBL.
+DT   24-JAN-2006, sequence version 1.
+DT   22-JUL-2015, entry version 71.
+DE   SubName: Full=Agmatinase {ECO:0000313|EMBL:AIP28881.1};
+DE            EC=3.5.3.11 {ECO:0000313|EMBL:AIP28881.1};
+DE   SubName: Full=Agmatinase, putative {ECO:0000313|EMBL:ABC35193.1};
+DE            EC=3.5.3.11 {ECO:0000313|EMBL:ABC35193.1};
+GN   Name=speB {ECO:0000313|EMBL:AIP28881.1};
+GN   OrderedLocusNames=BTH_II1941 {ECO:0000313|EMBL:ABC35193.1};
+GN   ORFNames=DR63_3839 {ECO:0000313|EMBL:AIP28881.1};
+OS   Burkholderia thailandensis (strain E264 / ATCC 700388 / DSM 13276 /
+OS   CIP 106301).
+OC   Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+OC   Burkholderiaceae; Burkholderia; pseudomallei group.
+OX   NCBI_TaxID=271848 {ECO:0000313|EMBL:ABC35193.1, ECO:0000313|Proteomes:UP000001930};
+RN   [1] {ECO:0000313|EMBL:ABC35193.1, ECO:0000313|Proteomes:UP000001930}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=E264 {ECO:0000313|EMBL:ABC35193.1}, and
+RC   E264 / ATCC 700388 / DSM 13276 / CIP 106301
+RC   {ECO:0000313|Proteomes:UP000001930};
+RX   PubMed=16336651; DOI=10.1186/1471-2164-6-174;
+RA   Kim H.S., Schell M.A., Yu Y., Ulrich R.L., Sarria S.H., Nierman W.C.,
+RA   DeShazer D.;
+RT   "Bacterial genome adaptation to niches: divergence of the potential
+RT   virulence genes in three Burkholderia species of different survival
+RT   strategies.";
+RL   BMC Genomics 6:174-174(2005).
+RN   [2] {ECO:0000313|EMBL:ABC35193.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=E264;
+RA   Fraser C.M., Casjens S., Huang W.M., Sutton G.G., Clayton R.A.,
+RA   Lathigra R., White O., Ketchum K.A., Palmer N., Dodson R.,
+RA   Hickey E.K., Gwinn M., Dougherty B., Fleischmann R.D., Richardson D.,
+RA   Peterson J., Kerlavage A.R., Quackenbush J., Salzberg S., Hanson M.,
+RA   van-Vugt R., Adams M.D., Gocayne J.D., Weidman J., Utterback T.,
+RA   Watthey L., McDonald L., Artiach P., Bowman C., Garland S., Fujii C.,
+RA   Cotton M.D., Horst K., Tomb J.-F., Roberts K., Hatch B., Smith H.O.,
+RA   Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [3] {ECO:0000213|PDB:4DZ4}
+RP   X-RAY CRYSTALLOGRAPHY (1.70 ANGSTROMS) IN COMPLEX WITH MANGANESE.
+RX   PubMed=23382856; DOI=10.1371/journal.pone.0053851;
+RA   Baugh L., Gallagher L.A., Patrapuvich R., Clifton M.C., Gardberg A.S.,
+RA   Edwards T.E., Armour B., Begley D.W., Dieterich S.H., Dranow D.M.,
+RA   Abendroth J., Fairman J.W., Fox D., Staker B.L., Phan I.,
+RA   Gillespie A., Choi R., Nakazawa-Hewitt S., Nguyen M.T., Napuli A.,
+RA   Barrett L., Buchko G.W., Stacy R., Myler P.J., Stewart L.J.,
+RA   Manoil C., Van Voorhis W.C.;
+RT   "Combining functional and structural genomics to sample the essential
+RT   Burkholderia structome.";
+RL   PLoS ONE 8:e53851-e53851(2013).
+RN   [4] {ECO:0000313|EMBL:AIP28881.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=E264 {ECO:0000313|EMBL:AIP28881.1};
+RA   Bishop-Lilly K.A., Broomall S.M., Chain P.S., Chertkov O., Coyne S.R.,
+RA   Daligault H.E., Davenport K.W., Erkkila T., Frey K.G., Gibbons H.S.,
+RA   Gu W., Jaissle J., Johnson S.L., Koroleva G.I., Ladner J.T., Lo C.-C.,
+RA   Minogue T.D., Munk C., Palacios G.F., Redden C.L., Rosenzweig C.N.,
+RA   Scholz M.B., Teshima H., Xu Y.;
+RL   Submitted (JUN-2014) to the EMBL/GenBank/DDBJ databases.
+CC   -!- SIMILARITY: Belongs to the arginase family.
+CC       {ECO:0000256|RuleBase:RU003684}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP000085; ABC35193.1; -; Genomic_DNA.
+DR   EMBL; CP008786; AIP28881.1; -; Genomic_DNA.
+DR   RefSeq; WP_009893843.1; NZ_CM000439.1.
+DR   PDB; 4DZ4; X-ray; 1.70 A; A/B/C/D/E/F=1-320.
+DR   EnsemblBacteria; ABC35193; ABC35193; BTH_II1941.
+DR   PATRIC; 19301664; VBIBurTha36512_2160.
+DR   eggNOG; COG0010; -.
+DR   HOGENOM; HOG000204320; -.
+DR   OMA; DIRCGFE; -.
+DR   OrthoDB; EOG6R2GW5; -.
+DR   BioCyc; BTHA271848:GJMY-5284-MONOMER; -.
+DR   Proteomes; UP000001930; Chromosome II.
+DR   GO; GO:0008783; F:agmatinase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.800.10; -; 1.
+DR   InterPro; IPR005925; Agmatinase-rel.
+DR   InterPro; IPR006035; Ureohydrolase.
+DR   InterPro; IPR023696; Ureohydrolase_domain.
+DR   InterPro; IPR020855; Ureohydrolase_Mn_BS.
+DR   PANTHER; PTHR11358; PTHR11358; 1.
+DR   Pfam; PF00491; Arginase; 1.
+DR   PIRSF; PIRSF036979; Arginase; 1.
+DR   TIGRFAMs; TIGR01230; agmatinase; 1.
+DR   PROSITE; PS01053; ARGINASE_1; 1.
+DR   PROSITE; PS51409; ARGINASE_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4DZ4};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001930};
+KW   Hydrolase {ECO:0000256|RuleBase:RU003684,
+KW   ECO:0000256|SAAS:SAAS00082865}; Manganese {ECO:0000213|PDB:4DZ4};
+KW   Metal-binding {ECO:0000213|PDB:4DZ4, ECO:0000256|SAAS:SAAS00082835}.
+FT   METAL       135    135       Manganese 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:4DZ4}.
+FT   METAL       159    159       Manganese 1. {ECO:0000213|PDB:4DZ4}.
+FT   METAL       159    159       Manganese 2. {ECO:0000213|PDB:4DZ4}.
+FT   METAL       161    161       Manganese 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:4DZ4}.
+FT   METAL       163    163       Manganese 1. {ECO:0000213|PDB:4DZ4}.
+FT   METAL       242    242       Manganese 1. {ECO:0000213|PDB:4DZ4}.
+FT   METAL       242    242       Manganese 2. {ECO:0000213|PDB:4DZ4}.
+FT   METAL       244    244       Manganese 2. {ECO:0000213|PDB:4DZ4}.
+SQ   SEQUENCE   320 AA;  34503 MW;  397C895EE0834AF8 CRC64;
+     MNETLYGDGA IRRPSVYGSS IENTYAGVLS FMRRNYTRDL DGVDVVVSGV PLDLATTFRS
+     GARLGPSAVR AASVQLAELN PYPWGFDPFD DLAVIDYGDC WFDAHHPLSI KPAIVEHART
+     ILQSDARMLT LGGDHYITYP LLIAHAQKYG KPLSLIHFDA HCDTWADDAP DSLNHGTMFY
+     KAVKDGLIDP KASVQVGIRT WNDDYLGINV LDAAWVHEHG ARATLERIES IVGGRPAYLT
+     FDIDCLDPAF APGTGTPVAG GLSSAQALAI VRGLGGVNLI GADVVEVAPA YDQSEITAIA
+     AAHVACDLLC LWRQRKAGAR
+//

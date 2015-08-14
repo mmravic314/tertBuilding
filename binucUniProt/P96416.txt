@@ -1,0 +1,233 @@
+ID   RIR2H_MYCTU             Reviewed;         314 AA.
+AC   P9WH69; L0T624; P96416; Q7DA78;
+DT   16-APR-2014, integrated into UniProtKB/Swiss-Prot.
+DT   16-APR-2014, sequence version 1.
+DT   22-JUL-2015, entry version 14.
+DE   RecName: Full=R2-like ligand binding oxidase;
+DE            EC=1.-.-.-;
+DE   AltName: Full=Ribonucleotide reductase R2 subunit homolog;
+DE   AltName: Full=Ribonucleotide reductase small subunit homolog;
+GN   Name=nrdB; OrderedLocusNames=Rv0233;
+OS   Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv).
+OC   Bacteria; Actinobacteria; Corynebacteriales; Mycobacteriaceae;
+OC   Mycobacterium; Mycobacterium tuberculosis complex.
+OX   NCBI_TaxID=83332;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 25618 / H37Rv;
+RX   PubMed=9634230; DOI=10.1038/31159;
+RA   Cole S.T., Brosch R., Parkhill J., Garnier T., Churcher C.M.,
+RA   Harris D.E., Gordon S.V., Eiglmeier K., Gas S., Barry C.E. III,
+RA   Tekaia F., Badcock K., Basham D., Brown D., Chillingworth T.,
+RA   Connor R., Davies R.M., Devlin K., Feltwell T., Gentles S., Hamlin N.,
+RA   Holroyd S., Hornsby T., Jagels K., Krogh A., McLean J., Moule S.,
+RA   Murphy L.D., Oliver S., Osborne J., Quail M.A., Rajandream M.A.,
+RA   Rogers J., Rutter S., Seeger K., Skelton S., Squares S., Squares R.,
+RA   Sulston J.E., Taylor K., Whitehead S., Barrell B.G.;
+RT   "Deciphering the biology of Mycobacterium tuberculosis from the
+RT   complete genome sequence.";
+RL   Nature 393:537-544(1998).
+RN   [2]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   STRAIN=ATCC 25618 / H37Rv;
+RX   PubMed=21969609; DOI=10.1074/mcp.M111.011627;
+RA   Kelkar D.S., Kumar D., Kumar P., Balakrishnan L., Muthusamy B.,
+RA   Yadav A.K., Shrivastava P., Marimuthu A., Anand S., Sundaram H.,
+RA   Kingsbury R., Harsha H.C., Nair B., Prasad T.S., Chauhan D.S.,
+RA   Katoch K., Katoch V.M., Kumar P., Chaerkady R., Ramachandran S.,
+RA   Dash D., Pandey A.;
+RT   "Proteogenomic analysis of Mycobacterium tuberculosis by high
+RT   resolution mass spectrometry.";
+RL   Mol. Cell. Proteomics 10:M111.011627-M111.011627(2011).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS) IN COMPLEX WITH IRON; MANGANESE
+RP   AND MYRISTIC ACID, FUNCTION, COFACTOR, SUBUNIT, AND VAL-TYR
+RP   CROSS-LINK.
+RC   STRAIN=ATCC 25618 / H37Rv;
+RX   PubMed=19321420; DOI=10.1073/pnas.0812971106;
+RA   Andersson C.S., Hoegbom M.;
+RT   "A Mycobacterium tuberculosis ligand-binding Mn/Fe protein reveals a
+RT   new cofactor in a remodeled R2-protein scaffold.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 106:5633-5638(2009).
+CC   -!- FUNCTION: Probable oxidase that might be involved in lipid
+CC       metabolism. {ECO:0000269|PubMed:19321420}.
+CC   -!- COFACTOR:
+CC       Name=Fe cation; Xref=ChEBI:CHEBI:24875;
+CC         Evidence={ECO:0000269|PubMed:19321420};
+CC       Note=Binds 1 Fe cation per subunit. {ECO:0000269|PubMed:19321420};
+CC   -!- COFACTOR:
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000269|PubMed:19321420};
+CC       Note=Binds 1 manganese ion per subunit. The iron and manganese
+CC       ions form a dinuclear manganese-iron cluster.
+CC       {ECO:0000269|PubMed:19321420};
+CC   -!- SUBUNIT: Homodimer. {ECO:0000305|PubMed:19321420}.
+CC   -!- SIMILARITY: Belongs to the ribonucleoside diphosphate reductase
+CC       small chain family. R2-like ligand binding oxidase subfamily.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AL123456; CCP42961.1; -; Genomic_DNA.
+DR   PIR; G70962; G70962.
+DR   RefSeq; NP_214747.1; NC_000962.3.
+DR   RefSeq; WP_003911100.1; NZ_KK339370.1.
+DR   PDB; 3EE4; X-ray; 1.90 A; A=1-314.
+DR   PDB; 4AC8; X-ray; 2.75 A; A/B/C/D=1-314.
+DR   PDBsum; 3EE4; -.
+DR   PDBsum; 4AC8; -.
+DR   ProteinModelPortal; P9WH69; -.
+DR   SMR; P9WH69; 2-312.
+DR   STRING; 83332.Rv0233; -.
+DR   EnsemblBacteria; CCP42961; CCP42961; Rv0233.
+DR   GeneID; 886699; -.
+DR   KEGG; mtu:Rv0233; -.
+DR   KEGG; mtv:RVBD_0233; -.
+DR   TubercuList; Rv0233; -.
+DR   KO; K00526; -.
+DR   OMA; QFCFEEA; -.
+DR   Proteomes; UP000001584; Chromosome.
+DR   GO; GO:0005829; C:cytosol; IDA:MTBBASE.
+DR   GO; GO:0005506; F:iron ion binding; IDA:MTBBASE.
+DR   GO; GO:0030145; F:manganese ion binding; IDA:MTBBASE.
+DR   GO; GO:0016491; F:oxidoreductase activity; IDA:MTBBASE.
+DR   GO; GO:0009186; P:deoxyribonucleoside diphosphate metabolic process; IEA:InterPro.
+DR   GO; GO:0055114; P:oxidation-reduction process; IDA:MTBBASE.
+DR   Gene3D; 1.10.620.20; -; 1.
+DR   InterPro; IPR009078; Ferritin-like_SF.
+DR   InterPro; IPR012348; RNR-rel.
+DR   InterPro; IPR000358; RNR_small.
+DR   PANTHER; PTHR23409; PTHR23409; 1.
+DR   Pfam; PF00268; Ribonuc_red_sm; 1.
+DR   SUPFAM; SSF47240; SSF47240; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Iron; Lipoprotein; Manganese;
+KW   Metal-binding; Oxidoreductase; Reference proteome.
+FT   CHAIN         1    314       R2-like ligand binding oxidase.
+FT                                /FTId=PRO_0000375432.
+FT   METAL        68     68       Manganese. {ECO:0000269|PubMed:19321420}.
+FT   METAL       101    101       Iron. {ECO:0000269|PubMed:19321420}.
+FT   METAL       101    101       Manganese. {ECO:0000269|PubMed:19321420}.
+FT   METAL       104    104       Manganese; via pros nitrogen.
+FT                                {ECO:0000269|PubMed:19321420}.
+FT   METAL       167    167       Iron. {ECO:0000269|PubMed:19321420}.
+FT   METAL       202    202       Iron. {ECO:0000269|PubMed:19321420}.
+FT   METAL       205    205       Iron; via pros nitrogen.
+FT                                {ECO:0000269|PubMed:19321420}.
+FT   CROSSLNK     71    162       3-(O4'-tyrosyl)-valine (Val-Tyr).
+FT   HELIX         7      9       {ECO:0000244|PDB:3EE4}.
+FT   HELIX        19     29       {ECO:0000244|PDB:3EE4}.
+FT   HELIX        34     36       {ECO:0000244|PDB:3EE4}.
+FT   HELIX        42     48       {ECO:0000244|PDB:3EE4}.
+FT   HELIX        51     74       {ECO:0000244|PDB:3EE4}.
+FT   HELIX        76     84       {ECO:0000244|PDB:3EE4}.
+FT   HELIX        88    115       {ECO:0000244|PDB:3EE4}.
+FT   HELIX       122    125       {ECO:0000244|PDB:3EE4}.
+FT   HELIX       129    136       {ECO:0000244|PDB:3EE4}.
+FT   HELIX       138    148       {ECO:0000244|PDB:3EE4}.
+FT   HELIX       152    162       {ECO:0000244|PDB:3EE4}.
+FT   HELIX       163    169       {ECO:0000244|PDB:3EE4}.
+FT   HELIX       170    182       {ECO:0000244|PDB:3EE4}.
+FT   TURN        183    186       {ECO:0000244|PDB:3EE4}.
+FT   HELIX       189    219       {ECO:0000244|PDB:3EE4}.
+FT   HELIX       222    247       {ECO:0000244|PDB:3EE4}.
+FT   TURN        248    251       {ECO:0000244|PDB:3EE4}.
+FT   HELIX       254    256       {ECO:0000244|PDB:4AC8}.
+FT   HELIX       259    278       {ECO:0000244|PDB:3EE4}.
+FT   TURN        279    282       {ECO:0000244|PDB:3EE4}.
+FT   HELIX       285    287       {ECO:0000244|PDB:3EE4}.
+FT   HELIX       293    311       {ECO:0000244|PDB:4AC8}.
+SQ   SEQUENCE   314 AA;  35656 MW;  0AE29D8CA604E94C CRC64;
+     MTRTRSGSLA AGGLNWASLP LKLFAGGNAK FWHPADIDFT RDRADWEKLS DDERDYATRL
+     CTQFIAGEEA VTEDIQPFMS AMRAEGRLAD EMYLTQFAFE EAKHTQVFRM WLDAVGISED
+     LHRYLDDLPA YRQIFYAELP ECLNALSADP SPAAQVRASV TYNHIVEGML ALTGYYAWHK
+     ICVERAILPG MQELVRRIGD DERRHMAWGT FTCRRHVAAD DANWTVFETR MNELIPLALR
+     LIEEGFALYG DQPPFDLSKD DFLQYSTDKG MRRFGTISNA RGRPVAEIDV DYSPAQLEDT
+     FADEDRRTLA AASA
+//
+ID   RIR2H_MYCTO             Reviewed;         314 AA.
+AC   P9WH68; L0T624; P96416; Q7DA78;
+DT   16-APR-2014, integrated into UniProtKB/Swiss-Prot.
+DT   16-APR-2014, sequence version 1.
+DT   22-JUL-2015, entry version 13.
+DE   RecName: Full=R2-like ligand binding oxidase;
+DE            EC=1.-.-.-;
+DE   AltName: Full=Ribonucleotide reductase R2 subunit homolog;
+DE   AltName: Full=Ribonucleotide reductase small subunit homolog;
+GN   Name=nrdB; OrderedLocusNames=MT0244;
+OS   Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh).
+OC   Bacteria; Actinobacteria; Corynebacteriales; Mycobacteriaceae;
+OC   Mycobacterium; Mycobacterium tuberculosis complex.
+OX   NCBI_TaxID=83331;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=CDC 1551 / Oshkosh;
+RX   PubMed=12218036; DOI=10.1128/JB.184.19.5479-5490.2002;
+RA   Fleischmann R.D., Alland D., Eisen J.A., Carpenter L., White O.,
+RA   Peterson J.D., DeBoy R.T., Dodson R.J., Gwinn M.L., Haft D.H.,
+RA   Hickey E.K., Kolonay J.F., Nelson W.C., Umayam L.A., Ermolaeva M.D.,
+RA   Salzberg S.L., Delcher A., Utterback T.R., Weidman J.F., Khouri H.M.,
+RA   Gill J., Mikula A., Bishai W., Jacobs W.R. Jr., Venter J.C.,
+RA   Fraser C.M.;
+RT   "Whole-genome comparison of Mycobacterium tuberculosis clinical and
+RT   laboratory strains.";
+RL   J. Bacteriol. 184:5479-5490(2002).
+CC   -!- FUNCTION: Probable oxidase that might be involved in lipid
+CC       metabolism. {ECO:0000250}.
+CC   -!- COFACTOR:
+CC       Name=Fe cation; Xref=ChEBI:CHEBI:24875; Evidence={ECO:0000250};
+CC       Note=Binds 1 Fe cation per subunit. {ECO:0000250};
+CC   -!- COFACTOR:
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035; Evidence={ECO:0000250};
+CC       Note=Binds 1 manganese ion per subunit. The iron and manganese
+CC       ions form a dinuclear manganese-iron cluster. {ECO:0000250};
+CC   -!- SUBUNIT: Homodimer. {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the ribonucleoside diphosphate reductase
+CC       small chain family. R2-like ligand binding oxidase subfamily.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE000516; AAK44464.1; -; Genomic_DNA.
+DR   PIR; G70962; G70962.
+DR   RefSeq; WP_003401270.1; NZ_KK341227.1.
+DR   ProteinModelPortal; P9WH68; -.
+DR   EnsemblBacteria; AAK44464; AAK44464; MT0244.
+DR   KEGG; mtc:MT0244; -.
+DR   KO; K00526; -.
+DR   Proteomes; UP000001020; Chromosome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016491; F:oxidoreductase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0009186; P:deoxyribonucleoside diphosphate metabolic process; IEA:InterPro.
+DR   Gene3D; 1.10.620.20; -; 1.
+DR   InterPro; IPR009078; Ferritin-like_SF.
+DR   InterPro; IPR012348; RNR-rel.
+DR   InterPro; IPR000358; RNR_small.
+DR   PANTHER; PTHR23409; PTHR23409; 1.
+DR   Pfam; PF00268; Ribonuc_red_sm; 1.
+DR   SUPFAM; SSF47240; SSF47240; 1.
+PE   3: Inferred from homology;
+KW   Complete proteome; Iron; Lipoprotein; Manganese; Metal-binding;
+KW   Oxidoreductase.
+FT   CHAIN         1    314       R2-like ligand binding oxidase.
+FT                                /FTId=PRO_0000428239.
+FT   METAL        68     68       Manganese. {ECO:0000250}.
+FT   METAL       101    101       Iron. {ECO:0000250}.
+FT   METAL       101    101       Manganese. {ECO:0000250}.
+FT   METAL       104    104       Manganese; via pros nitrogen.
+FT                                {ECO:0000250}.
+FT   METAL       167    167       Iron. {ECO:0000250}.
+FT   METAL       202    202       Iron. {ECO:0000250}.
+FT   METAL       205    205       Iron; via pros nitrogen. {ECO:0000250}.
+FT   CROSSLNK     71    162       3-(O4'-tyrosyl)-valine (Val-Tyr).
+FT                                {ECO:0000250}.
+SQ   SEQUENCE   314 AA;  35634 MW;  66E1927C5A03DD3F CRC64;
+     MTRTRSGSLA AGGLNWASLP LKLFAGGNAK FWDPADIDFT RDRADWEKLS DDERDYATRL
+     CTQFIAGEEA VTEDIQPFMS AMRAEGRLAD EMYLTQFAFE EAKHTQVFRM WLDAVGISED
+     LHRYLDDLPA YRQIFYAELP ECLNALSADP SPAAQVRASV TYNHIVEGML ALTGYYAWHK
+     ICVERAILPG MQELVRRIGD DERRHMAWGT FTCRRHVAAD DANWTVFETR MNELIPLALR
+     LIEEGFALYG DQPPFDLSKD DFLQYSTDKG MRRFGTISNA RGRPVAEIDV DYSPAQLEDT
+     FADEDRRTLA AASA
+//

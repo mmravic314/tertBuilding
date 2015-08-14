@@ -1,0 +1,226 @@
+ID   RLMD_ECOLI              Reviewed;         433 AA.
+AC   P55135; Q2MA47;
+DT   01-OCT-1996, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   22-JUL-2015, entry version 131.
+DE   RecName: Full=23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD {ECO:0000255|HAMAP-Rule:MF_01010};
+DE            EC=2.1.1.190 {ECO:0000255|HAMAP-Rule:MF_01010};
+DE   AltName: Full=23S rRNA(m5U1939)-methyltransferase {ECO:0000255|HAMAP-Rule:MF_01010};
+GN   Name=rlmD {ECO:0000255|HAMAP-Rule:MF_01010}; Synonyms=rumA, ygcA;
+GN   OrderedLocusNames=b2785, JW2756;
+OS   Escherichia coli (strain K12).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=83333;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / MG1655 / ATCC 47076;
+RX   PubMed=9278503; DOI=10.1126/science.277.5331.1453;
+RA   Blattner F.R., Plunkett G. III, Bloch C.A., Perna N.T., Burland V.,
+RA   Riley M., Collado-Vides J., Glasner J.D., Rode C.K., Mayhew G.F.,
+RA   Gregor J., Davis N.W., Kirkpatrick H.A., Goeden M.A., Rose D.J.,
+RA   Mau B., Shao Y.;
+RT   "The complete genome sequence of Escherichia coli K-12.";
+RL   Science 277:1453-1462(1997).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / W3110 / ATCC 27325 / DSM 5911;
+RX   PubMed=16738553; DOI=10.1038/msb4100049;
+RA   Hayashi K., Morooka N., Yamamoto Y., Fujita K., Isono K., Choi S.,
+RA   Ohtsubo E., Baba T., Wanner B.L., Mori H., Horiuchi T.;
+RT   "Highly accurate genome sequences of Escherichia coli K-12 strains
+RT   MG1655 and W3110.";
+RL   Mol. Syst. Biol. 2:E1-E5(2006).
+RN   [3]
+RP   PROTEIN SEQUENCE OF 2-11, FUNCTION, CATALYTIC ACTIVITY, AND
+RP   CHARACTERIZATION.
+RX   PubMed=11779873; DOI=10.1074/jbc.M111825200;
+RA   Agarwalla S., Kealey J.T., Santi D.V., Stroud R.M.;
+RT   "Characterization of the 23 S ribosomal RNA m5U1939 methyltransferase
+RT   from Escherichia coli.";
+RL   J. Biol. Chem. 277:8835-8840(2002).
+RN   [4]
+RP   FUNCTION, AND CATALYTIC ACTIVITY.
+RX   PubMed=12907714; DOI=10.1093/nar/gkg657;
+RA   Madsen C.T., Mengel-Joergensen J., Kirpekar F., Douthwaite S.;
+RT   "Identifying the methyltransferases for m(5)U747 and m(5)U1939 in 23S
+RT   rRNA using MALDI mass spectrometry.";
+RL   Nucleic Acids Res. 31:4738-4746(2003).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (1.95 ANGSTROMS) OF 15-431, AND IRON-SULFUR
+RP   CLUSTER.
+RX   PubMed=15016356; DOI=10.1016/j.str.2004.02.009;
+RA   Lee T.T., Agarwalla S., Stroud R.M.;
+RT   "Crystal structure of RumA, an iron-sulfur cluster containing E. coli
+RT   ribosomal RNA 5-methyluridine methyltransferase.";
+RL   Structure 12:397-407(2004).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (2.15 ANGSTROMS) IN COMPLEX WITH RNA;
+RP   S-ADENOSYL-L-HOMOCYSTEINE AND IRON-SULFUR CLUSTER, AND ACTIVE SITE.
+RX   PubMed=15766524; DOI=10.1016/j.cell.2004.12.037;
+RA   Lee T.T., Agarwalla S., Stroud R.M.;
+RT   "A unique RNA Fold in the RumA-RNA-cofactor ternary complex
+RT   contributes to substrate selectivity and enzymatic function.";
+RL   Cell 120:599-611(2005).
+CC   -!- FUNCTION: Catalyzes the formation of 5-methyl-uridine at position
+CC       1939 (m5U1939) in 23S rRNA. {ECO:0000255|HAMAP-Rule:MF_01010,
+CC       ECO:0000269|PubMed:11779873, ECO:0000269|PubMed:12907714}.
+CC   -!- CATALYTIC ACTIVITY: S-adenosyl-L-methionine + uracil(1939) in 23S
+CC       rRNA = S-adenosyl-L-homocysteine + 5-methyluracil(1939) in 23S
+CC       rRNA. {ECO:0000255|HAMAP-Rule:MF_01010,
+CC       ECO:0000269|PubMed:11779873, ECO:0000269|PubMed:12907714}.
+CC   -!- DOMAIN: Contains three structural domains: an N-terminal TRAM
+CC       domain, a central domain containing an iron-sulfur cluster, and a
+CC       C-terminal domain that displays the typical SAM-dependent
+CC       methyltransferase fold.
+CC   -!- MISCELLANEOUS: The function of the iron-sulfur cluster remains
+CC       unclear. It may be involved in the correct folding of the protein
+CC       or may have a role in RNA binding.
+CC   -!- SIMILARITY: Belongs to the class I-like SAM-binding
+CC       methyltransferase superfamily. RNA M5U methyltransferase family.
+CC       RlmD subfamily. {ECO:0000255|HAMAP-Rule:MF_01010}.
+CC   -!- SIMILARITY: Contains 1 TRAM domain. {ECO:0000255|HAMAP-
+CC       Rule:MF_01010}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U29580; AAA69295.1; -; Genomic_DNA.
+DR   EMBL; U00096; AAC75827.1; -; Genomic_DNA.
+DR   EMBL; AP009048; BAE76859.1; -; Genomic_DNA.
+DR   PIR; E65060; E65060.
+DR   RefSeq; NP_417265.1; NC_000913.3.
+DR   RefSeq; WP_000046812.1; NZ_CP010445.1.
+DR   PDB; 1UWV; X-ray; 1.95 A; A=1-433.
+DR   PDB; 2BH2; X-ray; 2.15 A; A/B=2-433.
+DR   PDBsum; 1UWV; -.
+DR   PDBsum; 2BH2; -.
+DR   ProteinModelPortal; P55135; -.
+DR   SMR; P55135; 15-431.
+DR   DIP; DIP-12119N; -.
+DR   IntAct; P55135; 1.
+DR   STRING; 511145.b2785; -.
+DR   PRIDE; P55135; -.
+DR   EnsemblBacteria; AAC75827; AAC75827; b2785.
+DR   EnsemblBacteria; BAE76859; BAE76859; BAE76859.
+DR   GeneID; 947243; -.
+DR   KEGG; eco:b2785; -.
+DR   PATRIC; 32120986; VBIEscCol129921_2885.
+DR   EchoBASE; EB1228; -.
+DR   EcoGene; EG11247; rlmD.
+DR   eggNOG; COG2265; -.
+DR   HOGENOM; HOG000029868; -.
+DR   InParanoid; P55135; -.
+DR   KO; K03215; -.
+DR   OMA; DLDPFGQ; -.
+DR   OrthoDB; EOG6V4GKM; -.
+DR   PhylomeDB; P55135; -.
+DR   BioCyc; EcoCyc:EG11247-MONOMER; -.
+DR   BioCyc; ECOL316407:JW2756-MONOMER; -.
+DR   BioCyc; MetaCyc:EG11247-MONOMER; -.
+DR   BRENDA; 2.1.1.190; 2026.
+DR   EvolutionaryTrace; P55135; -.
+DR   PRO; PR:P55135; -.
+DR   Proteomes; UP000000318; Chromosome.
+DR   Proteomes; UP000000625; Chromosome.
+DR   GO; GO:0051539; F:4 iron, 4 sulfur cluster binding; IDA:EcoCyc.
+DR   GO; GO:0005506; F:iron ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0003723; F:RNA binding; IEA:InterPro.
+DR   GO; GO:0070041; F:rRNA (uridine-C5-)-methyltransferase activity; IDA:EcoCyc.
+DR   GO; GO:0070475; P:rRNA base methylation; IDA:EcoCyc.
+DR   Gene3D; 2.40.50.140; -; 1.
+DR   Gene3D; 3.40.50.150; -; 1.
+DR   HAMAP; MF_01010; 23SrRNA_methyltr_RlmD; 1.
+DR   InterPro; IPR001566; 23S_rRNA_MeTrfase_RlmD.
+DR   InterPro; IPR030390; MeTrfase_TrmA_AS.
+DR   InterPro; IPR030391; MeTrfase_TrmA_CS.
+DR   InterPro; IPR012340; NA-bd_OB-fold.
+DR   InterPro; IPR029063; SAM-dependent_MTases.
+DR   InterPro; IPR002792; TRAM_dom.
+DR   InterPro; IPR010280; U5_MeTrfase_fam.
+DR   Pfam; PF01938; TRAM; 1.
+DR   Pfam; PF05958; tRNA_U5-meth_tr; 1.
+DR   SUPFAM; SSF50249; SSF50249; 1.
+DR   SUPFAM; SSF53335; SSF53335; 1.
+DR   TIGRFAMs; TIGR00479; rumA; 1.
+DR   PROSITE; PS51687; SAM_MT_RNA_M5U; 1.
+DR   PROSITE; PS50926; TRAM; 1.
+DR   PROSITE; PS01230; TRMA_1; 1.
+DR   PROSITE; PS01231; TRMA_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; 4Fe-4S; Complete proteome; Direct protein sequencing;
+KW   Iron; Iron-sulfur; Metal-binding; Methyltransferase;
+KW   Reference proteome; rRNA processing; S-adenosyl-L-methionine;
+KW   Transferase.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:11779873}.
+FT   CHAIN         2    433       23S rRNA (uracil(1939)-C(5))-
+FT                                methyltransferase RlmD.
+FT                                /FTId=PRO_0000161893.
+FT   DOMAIN       10     68       TRAM. {ECO:0000255|HAMAP-Rule:MF_01010}.
+FT   REGION       23     40       Interaction with RNA.
+FT   REGION       58     63       Interaction with RNA.
+FT   ACT_SITE    389    389       Nucleophile. {ECO:0000255|HAMAP-
+FT                                Rule:MF_01010,
+FT                                ECO:0000269|PubMed:15766524}.
+FT   METAL        81     81       Iron-sulfur (4Fe-4S).
+FT   METAL        87     87       Iron-sulfur (4Fe-4S).
+FT   METAL        90     90       Iron-sulfur (4Fe-4S).
+FT   METAL       162    162       Iron-sulfur (4Fe-4S).
+FT   BINDING     265    265       S-adenosyl-L-methionine.
+FT   BINDING     294    294       S-adenosyl-L-methionine; via carbonyl
+FT                                oxygen.
+FT   BINDING     299    299       S-adenosyl-L-methionine.
+FT   BINDING     315    315       S-adenosyl-L-methionine.
+FT   BINDING     342    342       S-adenosyl-L-methionine.
+FT   BINDING     363    363       S-adenosyl-L-methionine.
+FT   SITE        132    132       Interaction with RNA.
+FT   SITE        149    149       Interaction with RNA.
+FT   STRAND       17     24       {ECO:0000244|PDB:1UWV}.
+FT   STRAND       28     34       {ECO:0000244|PDB:1UWV}.
+FT   STRAND       37     42       {ECO:0000244|PDB:1UWV}.
+FT   STRAND       49     57       {ECO:0000244|PDB:1UWV}.
+FT   STRAND       59     69       {ECO:0000244|PDB:1UWV}.
+FT   TURN         82     86       {ECO:0000244|PDB:1UWV}.
+FT   STRAND       87     89       {ECO:0000244|PDB:2BH2}.
+FT   HELIX        97    112       {ECO:0000244|PDB:1UWV}.
+FT   STRAND      118    120       {ECO:0000244|PDB:1UWV}.
+FT   STRAND      124    126       {ECO:0000244|PDB:1UWV}.
+FT   STRAND      128    138       {ECO:0000244|PDB:1UWV}.
+FT   TURN        139    142       {ECO:0000244|PDB:1UWV}.
+FT   STRAND      143    150       {ECO:0000244|PDB:1UWV}.
+FT   STRAND      156    158       {ECO:0000244|PDB:1UWV}.
+FT   HELIX       167    180       {ECO:0000244|PDB:1UWV}.
+FT   HELIX       184    188       {ECO:0000244|PDB:1UWV}.
+FT   STRAND      189    197       {ECO:0000244|PDB:1UWV}.
+FT   STRAND      200    209       {ECO:0000244|PDB:1UWV}.
+FT   HELIX       213    226       {ECO:0000244|PDB:1UWV}.
+FT   STRAND      229    237       {ECO:0000244|PDB:1UWV}.
+FT   STRAND      240    243       {ECO:0000244|PDB:1UWV}.
+FT   STRAND      248    251       {ECO:0000244|PDB:1UWV}.
+FT   STRAND      254    257       {ECO:0000244|PDB:1UWV}.
+FT   STRAND      260    262       {ECO:0000244|PDB:1UWV}.
+FT   HELIX       268    282       {ECO:0000244|PDB:1UWV}.
+FT   STRAND      289    294       {ECO:0000244|PDB:1UWV}.
+FT   TURN        296    300       {ECO:0000244|PDB:1UWV}.
+FT   HELIX       301    305       {ECO:0000244|PDB:1UWV}.
+FT   STRAND      308    316       {ECO:0000244|PDB:1UWV}.
+FT   HELIX       318    330       {ECO:0000244|PDB:1UWV}.
+FT   STRAND      335    340       {ECO:0000244|PDB:1UWV}.
+FT   STRAND      348    350       {ECO:0000244|PDB:1UWV}.
+FT   HELIX       351    353       {ECO:0000244|PDB:1UWV}.
+FT   STRAND      358    362       {ECO:0000244|PDB:1UWV}.
+FT   HELIX       370    379       {ECO:0000244|PDB:1UWV}.
+FT   STRAND      382    389       {ECO:0000244|PDB:1UWV}.
+FT   HELIX       391    403       {ECO:0000244|PDB:1UWV}.
+FT   STRAND      407    414       {ECO:0000244|PDB:1UWV}.
+FT   STRAND      424    430       {ECO:0000244|PDB:1UWV}.
+SQ   SEQUENCE   433 AA;  48052 MW;  A46C07B0BD18EAAC CRC64;
+     MAQFYSAKRR TTTRQIITVS VNDLDSFGQG VARHNGKTLF IPGLLPQENA EVTVTEDKKQ
+     YARAKVVRRL SDSPERETPR CPHFGVCGGC QQQHASVDLQ QRSKSAALAR LMKHDVSEVI
+     ADVPWGYRRR ARLSLNYLPK TQQLQMGFRK AGSSDIVDVK QCPILAPQLE ALLPKVRACL
+     GSLQAMRHLG HVELVQATSG TLMILRHTAP LSSADREKLE RFSHSEGLDL YLAPDSEILE
+     TVSGEMPWYD SNGLRLTFSP RDFIQVNAGV NQKMVARALE WLDVQPEDRV LDLFCGMGNF
+     TLPLATQAAS VVGVEGVPAL VEKGQQNARL NGLQNVTFYH ENLEEDVTKQ PWAKNGFDKV
+     LLDPARAGAA GVMQQIIKLE PIRIVYVSCN PATLARDSEA LLKAGYTIAR LAMLDMFPHT
+     GHLESMVLFS RVK
+//

@@ -1,0 +1,828 @@
+ID   RNAS1_BOVIN             Reviewed;         150 AA.
+AC   P61823; A6QPW8; P00656; Q9TSF2;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   07-JUN-2004, sequence version 1.
+DT   22-JUL-2015, entry version 116.
+DE   RecName: Full=Ribonuclease pancreatic;
+DE            EC=3.1.27.5;
+DE   AltName: Full=RNase 1;
+DE   AltName: Full=RNase A;
+DE   Flags: Precursor;
+GN   Name=RNASE1; Synonyms=RNS1;
+OS   Bos taurus (Bovine).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
+OC   Pecora; Bovidae; Bovinae; Bos.
+OX   NCBI_TaxID=9913;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=2838818; DOI=10.1093/nar/16.12.5491;
+RA   Carsana A., Confalone E., Palmieri M., Libonati M., Furia A.;
+RT   "Structure of the bovine pancreatic ribonuclease gene: the unique
+RT   intervening sequence in the 5' untranslated region contains a
+RT   promoter-like element.";
+RL   Nucleic Acids Res. 16:5491-5502(1988).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=Hereford; TISSUE=Fetal pancreas;
+RG   NIH - Mammalian Gene Collection (MGC) project;
+RL   Submitted (JUL-2007) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 23-150, AND FUNCTION.
+RX   PubMed=7479688; DOI=10.1093/protein/8.3.261;
+RA   Delcardayre S.B., Ribo M., Yokel E.M., Quirk D.J., Rutter W.J.,
+RA   Raines R.T.;
+RT   "Engineering ribonuclease A: production, purification and
+RT   characterization of wild-type enzyme and mutants at Gln11.";
+RL   Protein Eng. 8:261-273(1995).
+RN   [4]
+RP   PROTEIN SEQUENCE OF 27-150, AND DISULFIDE BONDS.
+RC   TISSUE=Pancreas;
+RX   PubMed=13989651;
+RA   Smyth D.G., Stein W.H., Moore S.;
+RT   "The sequence of amino acid residues in bovine pancreatic
+RT   ribonuclease: revisions and confirmations.";
+RL   J. Biol. Chem. 238:227-234(1963).
+RN   [5]
+RP   PROTEIN SEQUENCE OF 27-150.
+RC   TISSUE=Pancreas;
+RX   PubMed=14235531;
+RA   Plummer T.H. Jr., Hirs C.H.W.;
+RT   "On the structure of bovine pancreatic ribonuclease B. Isolation of a
+RT   glycopeptide.";
+RL   J. Biol. Chem. 239:2530-2538(1964).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 27-150.
+RX   PubMed=8587129; DOI=10.1007/BF00173164;
+RA   Confalone E., Beintema J.J., Sasso M.P., Carsana A., Palmieri M.,
+RA   Vento M.T., Furia A.;
+RT   "Molecular evolution of genes encoding ribonucleases in ruminant
+RT   species.";
+RL   J. Mol. Evol. 41:850-858(1995).
+RN   [7]
+RP   ACTIVE SITE.
+RX   PubMed=14342316;
+RA   Heinrikson R.L., Stein W.H., Crestfield A.M., Moore S.;
+RT   "The reactivities of the histidine residues at the active site of
+RT   ribonuclease toward halo acids of different structures.";
+RL   J. Biol. Chem. 240:2921-2934(1965).
+RN   [8]
+RP   ACTIVE SITE.
+RX   PubMed=5801478; DOI=10.1016/0022-2836(69)90389-1;
+RA   Shall S., Barnard E.A.;
+RT   "Heavy atom-labelled derivatives of bovine pancreatic ribonuclease. I.
+RT   Specific reactions of ribonuclease with N-acetylhomocysteine
+RT   thiolactone and silver ion.";
+RL   J. Mol. Biol. 41:237-251(1969).
+RN   [9]
+RP   GLYCATION AT LYS-27; LYS-33; LYS-63 AND LYS-67.
+RX   PubMed=4030761;
+RA   Watkins N.G., Thorpe S.R., Baynes J.W.;
+RT   "Glycation of amino groups in protein. Studies on the specificity of
+RT   modification of RNase by glucose.";
+RL   J. Biol. Chem. 260:10629-10636(1985).
+RN   [10]
+RP   DNA-BINDING.
+RX   PubMed=3961503; DOI=10.1126/science.3961503;
+RA   McPherson A., Brayer G., Cascio D., Williams R.;
+RT   "The mechanism of binding of a polynucleotide chain to pancreatic
+RT   ribonuclease.";
+RL   Science 232:765-768(1986).
+RN   [11]
+RP   GLYCOSYLATION AT ASN-60.
+RX   PubMed=19358553; DOI=10.1021/ac900231w;
+RA   Thaysen-Andersen M., Mysling S., Hojrup P.;
+RT   "Site-specific glycoprofiling of N-linked glycopeptides using MALDI-
+RT   TOF MS: strong correlation between signal strength and glycoform
+RT   quantities.";
+RL   Anal. Chem. 81:3933-3943(2009).
+RN   [12]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS).
+RX   PubMed=5460889;
+RA   Wyckoff H.W., Tsernoglou D., Hanson A.W., Knox J.R., Lee B.,
+RA   Richards F.M.;
+RT   "The three-dimensional structure of ribonuclease-S. Interpretation of
+RT   an electron density map at a nominal resolution of 2 A.";
+RL   J. Biol. Chem. 245:305-328(1970).
+RN   [13]
+RP   X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS).
+RX   PubMed=4835726; DOI=10.1016/0022-2836(74)90125-9;
+RA   Carlisle C.H., Palmer R.A., Mazumdar S.K., Gorinsky B.A.,
+RA   Yeates D.G.R.;
+RT   "The structure of ribonuclease at 2.5-A resolution.";
+RL   J. Mol. Biol. 85:1-18(1974).
+RN   [14]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS).
+RX   PubMed=6276380;
+RA   Wlodawer A., Bott R., Sjoelin L.;
+RT   "The refined crystal structure of ribonuclease A at 2.0-A
+RT   resolution.";
+RL   J. Biol. Chem. 257:1325-1332(1982).
+RN   [15]
+RP   X-RAY CRYSTALLOGRAPHY (1.26 ANGSTROMS).
+RX   PubMed=3401445; DOI=10.1021/bi00408a010;
+RA   Wlodawer A., Svensson L.A., Sjoelin L., Gilliland G.L.;
+RT   "Structure of phosphate-free ribonuclease A refined at 1.26 A.";
+RL   Biochemistry 27:2705-2717(1988).
+RN   [16]
+RP   X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS).
+RX   PubMed=9154942; DOI=10.1021/bi9700330;
+RA   Leonidas D.D., Shapiro R., Irons L.I., Russo N., Acharya K.R.;
+RT   "Crystal structures of ribonuclease A complexes with 5'-
+RT   diphosphoadenosine 3'-phosphate and 5'-diphosphoadenosine 2'-phosphate
+RT   at 1.7-A resolution.";
+RL   Biochemistry 36:5578-5588(1997).
+RN   [17]
+RP   X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS) OF 2-125 OF MUTANT GLY-67.
+RX   PubMed=11087402; DOI=10.1021/bi001862f;
+RA   Kelemen B.R., Schultz L.W., Sweeney R.Y., Raines R.T.;
+RT   "Excavating an active site: the nucleobase specificity of ribonuclease
+RT   A.";
+RL   Biochemistry 39:14487-14494(2000).
+RN   [18]
+RP   X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS) OF MUTANTS ALA-38 AND ALA-145.
+RX   PubMed=11305910; DOI=10.1021/bi0100182;
+RA   Park C., Schultz L.W., Raines R.T.;
+RT   "Contribution of the active site histidine residues of ribonuclease A
+RT   to nucleic acid binding.";
+RL   Biochemistry 40:4949-4956(2001).
+RN   [19]
+RP   X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS) IN COMPLEX WITH SUBSTRATE
+RP   ANALOG.
+RX   PubMed=11513604; DOI=10.1021/bi010888j;
+RA   Jardine A.M., Leonidas D.D., Jenkins J.L., Park C., Raines R.T.,
+RA   Acharya K.R., Shapiro R.;
+RT   "Cleavage of 3',5'-pyrophosphate-linked dinucleotides by ribonuclease
+RT   A and angiogenin.";
+RL   Biochemistry 40:10262-10272(2001).
+RN   [20]
+RP   X-RAY CRYSTALLOGRAPHY (1.4 ANGSTROMS) OF MUTANTS ALA-120; PHE-120 AND
+RP   TRP-120.
+RX   PubMed=11742124; DOI=10.1110/ps.ps.31102;
+RA   Chatani E., Hayashi R., Moriyama H., Ueki T.;
+RT   "Conformational strictness required for maximum activity and stability
+RT   of bovine pancreatic ribonuclease A as revealed by crystallographic
+RT   study of three Phe120 mutants at 1.4 A resolution.";
+RL   Protein Sci. 11:72-81(2002).
+RN   [21]
+RP   STRUCTURE BY NMR.
+RX   PubMed=2775743; DOI=10.1021/bi00440a033;
+RA   Robertson A.D., Purisima E.O., Eastman M.A., Scheraga H.A.;
+RT   "Proton NMR assignments and regular backbone structure of bovine
+RT   pancreatic ribonuclease A in aqueous solution.";
+RL   Biochemistry 28:5930-5938(1989).
+RN   [22]
+RP   STRUCTURE BY NMR.
+RX   PubMed=2776756; DOI=10.1111/j.1432-1033.1989.tb21092.x;
+RA   Rico M., Bruix M., Santoro J., Gonzalez C., Neira J.L., Nieto J.L.,
+RA   Herranz J.;
+RT   "Sequential 1H-NMR assignment and solution structure of bovine
+RT   pancreatic ribonuclease A.";
+RL   Eur. J. Biochem. 183:623-638(1989).
+RN   [23]
+RP   STRUCTURE BY NMR.
+RX   PubMed=1841699; DOI=10.1007/BF01875521;
+RA   Rico M., Santoro J., Gonzalez C., Bruix M., Neira J.L., Nieto J.L.,
+RA   Herranz J.;
+RT   "3D structure of bovine pancreatic ribonuclease A in aqueous solution:
+RT   an approach to tertiary structure determination from a small basis of
+RT   1H NMR NOE correlations.";
+RL   J. Biomol. NMR 1:283-298(1991).
+CC   -!- FUNCTION: Endonuclease that catalyzes the cleavage of RNA on the
+CC       3' side of pyrimidine nucleotides. Acts on single-stranded and
+CC       double-stranded RNA. {ECO:0000269|PubMed:7479688}.
+CC   -!- CATALYTIC ACTIVITY: Endonucleolytic cleavage to nucleoside 3'-
+CC       phosphates and 3'-phosphooligonucleotides ending in Cp or Up with
+CC       2',3'-cyclic phosphate intermediates.
+CC   -!- SUBUNIT: Interacts with and forms tight 1:1 complexes with RNH1.
+CC       Dimerization of two such complexes may occur. Interaction with
+CC       RNH1 inhibits this protein (By similarity). Monomer. {ECO:0000250,
+CC       ECO:0000269|PubMed:11513604}.
+CC   -!- INTERACTION:
+CC       P17967:PDI1 (xeno); NbExp=2; IntAct=EBI-908364, EBI-13012;
+CC       P13489:RNH1 (xeno); NbExp=3; IntAct=EBI-908364, EBI-1237106;
+CC   -!- SUBCELLULAR LOCATION: Secreted.
+CC   -!- TISSUE SPECIFICITY: Pancreas.
+CC   -!- MISCELLANEOUS: Ribonuclease can destabilize or unwind the DNA
+CC       helix by complexing with single-stranded DNA; this complex arises
+CC       by an extended multisite cation-anion interaction between the
+CC       lysine and arginine residues of the enzyme and the phosphate
+CC       groups of the nucleotides.
+CC   -!- SIMILARITY: Belongs to the pancreatic ribonuclease family.
+CC       {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=Worthington enzyme manual;
+CC       URL="http://www.worthington-biochem.com/RNASE/";
+CC   -!- WEB RESOURCE: Name=Functional Glycomics Gateway - Glycan Binding;
+CC       Note=RNase A;
+CC       URL="http://www.functionalglycomics.org/glycomics/GBPServlet?&operationType=view&cbpId=cbp_oth_other_805";
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X07283; CAA30263.1; -; Genomic_DNA.
+DR   EMBL; BC149529; AAI49530.1; -; mRNA.
+DR   EMBL; BC149636; AAI49637.1; -; mRNA.
+DR   EMBL; S80747; AAB35594.1; -; mRNA.
+DR   EMBL; S81740; AAB36134.1; -; Genomic_DNA.
+DR   PIR; S00897; NRBO.
+DR   RefSeq; NP_001014408.2; NM_001014386.4.
+DR   RefSeq; XP_005211519.1; XM_005211462.2.
+DR   UniGene; Bt.4630; -.
+DR   PDB; 1A2W; X-ray; 2.10 A; A/B=27-150.
+DR   PDB; 1A5P; X-ray; 1.60 A; A=27-150.
+DR   PDB; 1A5Q; X-ray; 2.30 A; A=27-150.
+DR   PDB; 1AFK; X-ray; 1.70 A; A/B=27-150.
+DR   PDB; 1AFL; X-ray; 1.70 A; A/B=27-150.
+DR   PDB; 1AFU; X-ray; 2.00 A; A/B=27-150.
+DR   PDB; 1AQP; X-ray; 2.00 A; A=27-150.
+DR   PDB; 1B6V; X-ray; 2.00 A; A/B=27-150.
+DR   PDB; 1BEL; X-ray; 1.60 A; A=27-150.
+DR   PDB; 1BZQ; X-ray; 2.80 A; A/B/C/D=27-150.
+DR   PDB; 1C0B; X-ray; 1.90 A; A=23-150.
+DR   PDB; 1C0C; X-ray; 2.00 A; A=23-150.
+DR   PDB; 1C8W; X-ray; 1.80 A; A=27-150.
+DR   PDB; 1C9V; X-ray; 1.70 A; A=27-150.
+DR   PDB; 1C9X; X-ray; 1.80 A; A=27-150.
+DR   PDB; 1CJQ; X-ray; 3.00 A; A=27-41, B=50-150.
+DR   PDB; 1CJR; X-ray; 2.30 A; A=27-41, B=50-150.
+DR   PDB; 1D5D; X-ray; 2.25 A; A=27-41, B=50-150.
+DR   PDB; 1D5E; X-ray; 2.25 A; A=27-41, B=50-150.
+DR   PDB; 1D5H; X-ray; 2.25 A; A=27-41, B=50-150.
+DR   PDB; 1DFJ; X-ray; 2.50 A; E=27-150.
+DR   PDB; 1DY5; X-ray; 0.87 A; A/B=27-150.
+DR   PDB; 1EIC; X-ray; 1.40 A; A=27-150.
+DR   PDB; 1EID; X-ray; 1.40 A; A=27-150.
+DR   PDB; 1EIE; X-ray; 1.40 A; A=27-150.
+DR   PDB; 1EOS; X-ray; 2.00 A; A/B=27-150.
+DR   PDB; 1EOW; X-ray; 2.00 A; A=27-150.
+DR   PDB; 1F0V; X-ray; 1.70 A; A/B/C/D=27-150.
+DR   PDB; 1FEV; X-ray; 2.25 A; A=27-41, B=50-150.
+DR   PDB; 1FS3; X-ray; 1.40 A; A=27-150.
+DR   PDB; 1GV7; X-ray; 2.10 A; A=84-99.
+DR   PDB; 1IZP; X-ray; 1.50 A; A=27-150.
+DR   PDB; 1IZQ; X-ray; 1.80 A; A=27-150.
+DR   PDB; 1IZR; X-ray; 1.50 A; A=27-150.
+DR   PDB; 1J7Z; X-ray; 2.25 A; A=27-41, B=47-150.
+DR   PDB; 1J80; X-ray; 2.10 A; A=27-41, B=47-150.
+DR   PDB; 1J81; X-ray; 2.20 A; A=27-41, B=47-150.
+DR   PDB; 1J82; X-ray; 2.30 A; A=27-41, B=47-150.
+DR   PDB; 1JN4; X-ray; 1.80 A; A/B=27-150.
+DR   PDB; 1JS0; X-ray; 2.20 A; A/B/C=27-150.
+DR   PDB; 1JVT; X-ray; 2.05 A; A/B=27-150.
+DR   PDB; 1JVU; X-ray; 1.78 A; A/B=27-150.
+DR   PDB; 1JVV; X-ray; 2.20 A; A/B=27-150.
+DR   PDB; 1KF2; X-ray; 1.10 A; A=27-150.
+DR   PDB; 1KF3; X-ray; 1.05 A; A=27-150.
+DR   PDB; 1KF4; X-ray; 1.10 A; A=27-150.
+DR   PDB; 1KF5; X-ray; 1.15 A; A=27-150.
+DR   PDB; 1KF7; X-ray; 1.15 A; A=27-150.
+DR   PDB; 1KF8; X-ray; 1.15 A; A=27-150.
+DR   PDB; 1KH8; X-ray; 2.00 A; A=27-150.
+DR   PDB; 1LSQ; X-ray; 1.90 A; A/B=27-150.
+DR   PDB; 1O0F; X-ray; 1.50 A; A/B=27-150.
+DR   PDB; 1O0H; X-ray; 1.20 A; A/B=27-150.
+DR   PDB; 1O0M; X-ray; 1.50 A; A/B=27-150.
+DR   PDB; 1O0N; X-ray; 1.50 A; A/B=27-150.
+DR   PDB; 1O0O; X-ray; 1.20 A; A/B=27-150.
+DR   PDB; 1QHC; X-ray; 1.70 A; A/B=27-150.
+DR   PDB; 1RAR; X-ray; 1.90 A; A=28-150.
+DR   PDB; 1RAS; X-ray; 1.70 A; A=28-150.
+DR   PDB; 1RAT; X-ray; 1.50 A; A=27-150.
+DR   PDB; 1RBB; X-ray; 2.50 A; A/B=27-150.
+DR   PDB; 1RBC; X-ray; 2.00 A; A=47-150, S=27-41.
+DR   PDB; 1RBD; X-ray; 1.70 A; A=47-150, S=27-41.
+DR   PDB; 1RBE; X-ray; 1.75 A; A=47-150, S=27-41.
+DR   PDB; 1RBF; X-ray; 1.80 A; A=47-150, S=27-41.
+DR   PDB; 1RBG; X-ray; 1.80 A; A=47-150, S=27-41.
+DR   PDB; 1RBH; X-ray; 1.70 A; A=47-150, S=27-41.
+DR   PDB; 1RBI; X-ray; 1.80 A; A=47-150, S=27-41.
+DR   PDB; 1RBJ; X-ray; 2.70 A; A=27-150.
+DR   PDB; 1RBN; X-ray; 2.10 A; A=27-150.
+DR   PDB; 1RBW; X-ray; 1.69 A; A=27-150.
+DR   PDB; 1RBX; X-ray; 1.69 A; A=27-150.
+DR   PDB; 1RCA; X-ray; 1.90 A; A=27-150.
+DR   PDB; 1RCN; X-ray; 2.32 A; E=27-150.
+DR   PDB; 1RHA; X-ray; 1.80 A; A=27-150.
+DR   PDB; 1RHB; X-ray; 1.50 A; A=27-150.
+DR   PDB; 1RNC; X-ray; 1.50 A; A=27-150.
+DR   PDB; 1RND; X-ray; 1.50 A; A=27-150.
+DR   PDB; 1RNM; X-ray; 2.00 A; E=27-150.
+DR   PDB; 1RNN; X-ray; 1.80 A; E=27-150.
+DR   PDB; 1RNO; X-ray; 1.90 A; A=27-150.
+DR   PDB; 1RNQ; X-ray; 2.00 A; A=27-150.
+DR   PDB; 1RNU; X-ray; 1.60 A; A=27-150.
+DR   PDB; 1RNV; X-ray; 1.60 A; A=27-150.
+DR   PDB; 1RNW; X-ray; 1.80 A; A=27-150.
+DR   PDB; 1RNX; X-ray; 1.90 A; A=27-150.
+DR   PDB; 1RNY; X-ray; 2.00 A; A=27-150.
+DR   PDB; 1RNZ; X-ray; 1.90 A; A=27-150.
+DR   PDB; 1ROB; X-ray; 1.60 A; A=27-150.
+DR   PDB; 1RPF; X-ray; 2.20 A; A=27-150.
+DR   PDB; 1RPG; X-ray; 1.40 A; A=27-150.
+DR   PDB; 1RPH; X-ray; 2.20 A; A=27-150.
+DR   PDB; 1RSM; X-ray; 2.00 A; A=27-150.
+DR   PDB; 1RTA; X-ray; 2.50 A; E=27-150.
+DR   PDB; 1RTB; X-ray; 2.50 A; A=27-150.
+DR   PDB; 1RUV; X-ray; 1.25 A; A=27-150.
+DR   PDB; 1SRN; X-ray; 1.80 A; A=27-144, B=137-150.
+DR   PDB; 1SSA; X-ray; 2.00 A; A=27-144, B=137-150.
+DR   PDB; 1SSB; X-ray; 2.00 A; A=27-144, B=137-150.
+DR   PDB; 1SSC; X-ray; 2.00 A; A=27-138, B=140-150.
+DR   PDB; 1U1B; X-ray; 2.00 A; A/B=27-150.
+DR   PDB; 1UN5; X-ray; 2.60 A; A=64-68.
+DR   PDB; 1W4O; X-ray; 1.60 A; A/B=27-150.
+DR   PDB; 1W4P; X-ray; 1.69 A; A/B=27-150.
+DR   PDB; 1W4Q; X-ray; 1.68 A; A/B=27-150.
+DR   PDB; 1WBU; X-ray; 1.90 A; A/B=27-150.
+DR   PDB; 1XPS; X-ray; 1.80 A; A/B=27-150.
+DR   PDB; 1XPT; X-ray; 1.90 A; A/B=27-150.
+DR   PDB; 1YMN; X-ray; 1.45 A; A=27-150.
+DR   PDB; 1YMR; X-ray; 1.50 A; A=27-150.
+DR   PDB; 1YMW; X-ray; 1.50 A; A=27-150.
+DR   PDB; 1Z3L; X-ray; 1.80 A; E=47-150, S=27-41.
+DR   PDB; 1Z3M; X-ray; 2.00 A; E=47-150, S=27-41.
+DR   PDB; 1Z3P; X-ray; 2.00 A; E=47-150, S=27-41.
+DR   PDB; 1Z6D; X-ray; 1.54 A; A/B=27-150.
+DR   PDB; 1Z6S; X-ray; 1.50 A; A/B=27-150.
+DR   PDB; 2AAS; NMR; -; A=27-150.
+DR   PDB; 2APQ; X-ray; 1.80 A; A=27-150.
+DR   PDB; 2APU; Model; -; 0/1/2/3/A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/X/Y/Z/a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z=27-150.
+DR   PDB; 2BLP; X-ray; 1.40 A; A=27-150.
+DR   PDB; 2BLZ; X-ray; 1.40 A; A=27-150.
+DR   PDB; 2E33; X-ray; 2.70 A; B=27-150.
+DR   PDB; 2E3W; X-ray; 1.05 A; A=27-150.
+DR   PDB; 2G4W; X-ray; 1.84 A; A/B=27-150.
+DR   PDB; 2G4X; X-ray; 1.95 A; A=27-150.
+DR   PDB; 2G8Q; X-ray; 1.50 A; A/B=27-150.
+DR   PDB; 2G8R; X-ray; 1.70 A; A/B=27-150.
+DR   PDB; 2NUI; X-ray; 1.10 A; A=27-150.
+DR   PDB; 2OP2; X-ray; 1.60 A; A=27-150.
+DR   PDB; 2OQF; X-ray; 2.30 A; A/B/C/D=27-150.
+DR   PDB; 2P42; X-ray; 1.80 A; A/C=27-150.
+DR   PDB; 2P43; X-ray; 1.65 A; A=27-150.
+DR   PDB; 2P44; X-ray; 1.80 A; A=27-150.
+DR   PDB; 2P45; X-ray; 1.10 A; A=27-150.
+DR   PDB; 2P46; X-ray; 2.50 A; A/C=27-150.
+DR   PDB; 2P47; X-ray; 2.50 A; A=27-150.
+DR   PDB; 2P48; X-ray; 2.30 A; A=27-150.
+DR   PDB; 2P49; X-ray; 1.38 A; A=27-150.
+DR   PDB; 2P4A; X-ray; 1.90 A; A/C=27-150.
+DR   PDB; 2QCA; X-ray; 1.33 A; A=27-150.
+DR   PDB; 2RAT; X-ray; 1.50 A; A=27-150.
+DR   PDB; 2RLN; X-ray; 1.85 A; E=42-150, S=27-41.
+DR   PDB; 2RNS; X-ray; 1.60 A; A=27-150.
+DR   PDB; 2W5G; X-ray; 1.70 A; A/B=27-150.
+DR   PDB; 2W5I; X-ray; 2.40 A; A/B=27-150.
+DR   PDB; 2W5K; X-ray; 1.70 A; A/B=27-150.
+DR   PDB; 2W5L; X-ray; 1.70 A; A/B=27-150.
+DR   PDB; 2W5M; X-ray; 1.80 A; A/B=27-150.
+DR   PDB; 2XOG; X-ray; 1.72 A; A/B=27-150.
+DR   PDB; 2XOI; X-ray; 1.72 A; A/B=27-150.
+DR   PDB; 3A1R; Neutron; 1.70 A; A=27-150.
+DR   PDB; 3D6O; X-ray; 1.58 A; A/B=27-150.
+DR   PDB; 3D6P; X-ray; 1.60 A; A/B=27-150.
+DR   PDB; 3D6Q; X-ray; 1.60 A; A/B=27-150.
+DR   PDB; 3D7B; X-ray; 1.60 A; A/B=27-150.
+DR   PDB; 3D8Y; X-ray; 1.72 A; A/B=27-150.
+DR   PDB; 3D8Z; X-ray; 1.98 A; A/B=27-150.
+DR   PDB; 3DH5; X-ray; 1.60 A; A=27-150.
+DR   PDB; 3DH6; X-ray; 1.60 A; A=27-150.
+DR   PDB; 3DI7; X-ray; 1.60 A; A=27-150.
+DR   PDB; 3DI8; X-ray; 1.60 A; A=27-150.
+DR   PDB; 3DI9; X-ray; 2.00 A; A=27-150.
+DR   PDB; 3DIB; X-ray; 1.40 A; A=27-150.
+DR   PDB; 3DIC; X-ray; 1.60 A; A=27-150.
+DR   PDB; 3DXG; X-ray; 1.39 A; A/B=27-150.
+DR   PDB; 3DXH; X-ray; 1.40 A; A/B=27-150.
+DR   PDB; 3EUX; X-ray; 1.65 A; A/B=27-150.
+DR   PDB; 3EUY; X-ray; 1.95 A; A/B=27-150.
+DR   PDB; 3EUZ; X-ray; 1.84 A; A/B=27-150.
+DR   PDB; 3EV0; X-ray; 1.76 A; A/B=27-150.
+DR   PDB; 3EV1; X-ray; 2.00 A; A/B=27-150.
+DR   PDB; 3EV2; X-ray; 2.02 A; A/B=27-150.
+DR   PDB; 3EV3; X-ray; 1.68 A; A/B=27-150.
+DR   PDB; 3EV4; X-ray; 1.93 A; A/B=27-150.
+DR   PDB; 3EV5; X-ray; 1.68 A; A/B=27-150.
+DR   PDB; 3EV6; X-ray; 1.76 A; A/B=27-150.
+DR   PDB; 3FKZ; X-ray; 1.99 A; A/B=27-150.
+DR   PDB; 3FL0; X-ray; 1.94 A; A/B=27-150.
+DR   PDB; 3FL1; X-ray; 1.90 A; A/B=27-150.
+DR   PDB; 3FL3; X-ray; 1.60 A; A/B=27-150.
+DR   PDB; 3I67; X-ray; 1.30 A; A=27-150.
+DR   PDB; 3I6F; X-ray; 1.30 A; A=27-150.
+DR   PDB; 3I6H; X-ray; 1.30 A; A=27-150.
+DR   PDB; 3I6J; X-ray; 1.30 A; A=27-150.
+DR   PDB; 3I7W; X-ray; 2.35 A; A=27-150.
+DR   PDB; 3I7X; X-ray; 2.60 A; A=27-150.
+DR   PDB; 3I7Y; X-ray; 2.40 A; A=27-150.
+DR   PDB; 3JW1; X-ray; 1.60 A; A/B=27-150.
+DR   PDB; 3LXO; X-ray; 1.55 A; A=27-150.
+DR   PDB; 3MWQ; X-ray; 1.68 A; A=26-150.
+DR   PDB; 3MWR; X-ray; 1.85 A; A=27-150.
+DR   PDB; 3MX8; X-ray; 2.10 A; A=26-150.
+DR   PDB; 3MZQ; X-ray; 1.50 A; A=23-150.
+DR   PDB; 3MZR; X-ray; 1.50 A; A=23-150.
+DR   PDB; 3OQY; X-ray; 1.49 A; A/B=47-150, a/b=27-41.
+DR   PDB; 3OQZ; X-ray; 2.50 A; A/B=47-150, a/b=27-41.
+DR   PDB; 3OR0; X-ray; 2.30 A; A/B=47-150, a/b=27-41.
+DR   PDB; 3QL1; X-ray; 1.29 A; A=27-150.
+DR   PDB; 3QL2; X-ray; 1.49 A; A/B=27-150.
+DR   PDB; 3QSK; X-ray; 1.75 A; A=27-150.
+DR   PDB; 3RAT; X-ray; 1.50 A; A=27-150.
+DR   PDB; 3RH1; X-ray; 2.10 A; A=27-150.
+DR   PDB; 3RID; X-ray; 2.18 A; A/B/C/D=27-150.
+DR   PDB; 3RN3; X-ray; 1.45 A; A=27-150.
+DR   PDB; 3RSD; X-ray; 1.60 A; A=27-150.
+DR   PDB; 3RSK; X-ray; 2.00 A; A=27-150.
+DR   PDB; 3RSP; X-ray; 1.70 A; A=27-150.
+DR   PDB; 3SRN; X-ray; 2.00 A; A=27-139, B=140-146.
+DR   PDB; 4AO1; X-ray; 1.58 A; A=27-150.
+DR   PDB; 4G8V; X-ray; 1.70 A; A/B=27-150.
+DR   PDB; 4G8Y; X-ray; 1.80 A; A/B=27-150.
+DR   PDB; 4G90; X-ray; 1.90 A; A/B=27-150.
+DR   PDB; 4J5Z; X-ray; 1.80 A; A=27-150.
+DR   PDB; 4J60; X-ray; 1.69 A; A=27-150.
+DR   PDB; 4J61; X-ray; 1.69 A; A=27-150.
+DR   PDB; 4J62; X-ray; 2.04 A; A=27-150.
+DR   PDB; 4J63; X-ray; 2.04 A; A=27-150.
+DR   PDB; 4J64; X-ray; 1.78 A; A=27-150.
+DR   PDB; 4J65; X-ray; 1.96 A; A=27-150.
+DR   PDB; 4J66; X-ray; 2.04 A; A=27-150.
+DR   PDB; 4J67; X-ray; 1.86 A; A=27-150.
+DR   PDB; 4J68; X-ray; 1.78 A; A=27-150.
+DR   PDB; 4J69; X-ray; 1.89 A; A=27-150.
+DR   PDB; 4J6A; X-ray; 2.04 A; A=27-150.
+DR   PDB; 4K7L; X-ray; 1.38 A; A=27-41, B=47-150.
+DR   PDB; 4K7M; X-ray; 1.80 A; A=27-150.
+DR   PDB; 4L55; X-ray; 1.65 A; A/B=27-150.
+DR   PDB; 4MXF; X-ray; 2.25 A; A/B=27-150.
+DR   PDB; 4O36; X-ray; 1.22 A; A=27-41, B=47-150.
+DR   PDB; 4O37; X-ray; 1.40 A; A=27-41, B=47-150.
+DR   PDB; 4OKF; X-ray; 1.54 A; A=27-41, B=47-150.
+DR   PDB; 4OOH; X-ray; 1.89 A; A=27-150.
+DR   PDB; 4OT4; X-ray; 1.85 A; A/B=27-150.
+DR   PDB; 4PEQ; X-ray; 2.21 A; A/C=27-150.
+DR   PDB; 4POU; X-ray; 1.75 A; A=27-150.
+DR   PDB; 4QH3; X-ray; 2.00 A; A/B=27-150.
+DR   PDB; 4RAT; X-ray; 1.50 A; A=27-150.
+DR   PDB; 4RSD; X-ray; 1.60 A; A=27-150.
+DR   PDB; 4RSK; X-ray; 2.10 A; A=27-150.
+DR   PDB; 4RTE; X-ray; 1.95 A; A=27-150.
+DR   PDB; 4SRN; X-ray; 2.00 A; A=27-139, B=140-150.
+DR   PDB; 5RAT; X-ray; 1.50 A; A=27-150.
+DR   PDB; 5RSA; X-ray; 2.00 A; A=27-150.
+DR   PDB; 6RAT; X-ray; 1.50 A; A=27-150.
+DR   PDB; 6RSA; X-ray; 2.00 A; A=27-150.
+DR   PDB; 7RAT; X-ray; 1.50 A; A=27-150.
+DR   PDB; 7RSA; X-ray; 1.26 A; A=27-150.
+DR   PDB; 8RAT; X-ray; 1.50 A; A=27-150.
+DR   PDB; 8RSA; X-ray; 1.80 A; A/B=27-150.
+DR   PDB; 9RAT; X-ray; 1.50 A; A=27-150.
+DR   PDB; 9RSA; X-ray; 1.80 A; A/B=27-150.
+DR   PDBsum; 1A2W; -.
+DR   PDBsum; 1A5P; -.
+DR   PDBsum; 1A5Q; -.
+DR   PDBsum; 1AFK; -.
+DR   PDBsum; 1AFL; -.
+DR   PDBsum; 1AFU; -.
+DR   PDBsum; 1AQP; -.
+DR   PDBsum; 1B6V; -.
+DR   PDBsum; 1BEL; -.
+DR   PDBsum; 1BZQ; -.
+DR   PDBsum; 1C0B; -.
+DR   PDBsum; 1C0C; -.
+DR   PDBsum; 1C8W; -.
+DR   PDBsum; 1C9V; -.
+DR   PDBsum; 1C9X; -.
+DR   PDBsum; 1CJQ; -.
+DR   PDBsum; 1CJR; -.
+DR   PDBsum; 1D5D; -.
+DR   PDBsum; 1D5E; -.
+DR   PDBsum; 1D5H; -.
+DR   PDBsum; 1DFJ; -.
+DR   PDBsum; 1DY5; -.
+DR   PDBsum; 1EIC; -.
+DR   PDBsum; 1EID; -.
+DR   PDBsum; 1EIE; -.
+DR   PDBsum; 1EOS; -.
+DR   PDBsum; 1EOW; -.
+DR   PDBsum; 1F0V; -.
+DR   PDBsum; 1FEV; -.
+DR   PDBsum; 1FS3; -.
+DR   PDBsum; 1GV7; -.
+DR   PDBsum; 1IZP; -.
+DR   PDBsum; 1IZQ; -.
+DR   PDBsum; 1IZR; -.
+DR   PDBsum; 1J7Z; -.
+DR   PDBsum; 1J80; -.
+DR   PDBsum; 1J81; -.
+DR   PDBsum; 1J82; -.
+DR   PDBsum; 1JN4; -.
+DR   PDBsum; 1JS0; -.
+DR   PDBsum; 1JVT; -.
+DR   PDBsum; 1JVU; -.
+DR   PDBsum; 1JVV; -.
+DR   PDBsum; 1KF2; -.
+DR   PDBsum; 1KF3; -.
+DR   PDBsum; 1KF4; -.
+DR   PDBsum; 1KF5; -.
+DR   PDBsum; 1KF7; -.
+DR   PDBsum; 1KF8; -.
+DR   PDBsum; 1KH8; -.
+DR   PDBsum; 1LSQ; -.
+DR   PDBsum; 1O0F; -.
+DR   PDBsum; 1O0H; -.
+DR   PDBsum; 1O0M; -.
+DR   PDBsum; 1O0N; -.
+DR   PDBsum; 1O0O; -.
+DR   PDBsum; 1QHC; -.
+DR   PDBsum; 1RAR; -.
+DR   PDBsum; 1RAS; -.
+DR   PDBsum; 1RAT; -.
+DR   PDBsum; 1RBB; -.
+DR   PDBsum; 1RBC; -.
+DR   PDBsum; 1RBD; -.
+DR   PDBsum; 1RBE; -.
+DR   PDBsum; 1RBF; -.
+DR   PDBsum; 1RBG; -.
+DR   PDBsum; 1RBH; -.
+DR   PDBsum; 1RBI; -.
+DR   PDBsum; 1RBJ; -.
+DR   PDBsum; 1RBN; -.
+DR   PDBsum; 1RBW; -.
+DR   PDBsum; 1RBX; -.
+DR   PDBsum; 1RCA; -.
+DR   PDBsum; 1RCN; -.
+DR   PDBsum; 1RHA; -.
+DR   PDBsum; 1RHB; -.
+DR   PDBsum; 1RNC; -.
+DR   PDBsum; 1RND; -.
+DR   PDBsum; 1RNM; -.
+DR   PDBsum; 1RNN; -.
+DR   PDBsum; 1RNO; -.
+DR   PDBsum; 1RNQ; -.
+DR   PDBsum; 1RNU; -.
+DR   PDBsum; 1RNV; -.
+DR   PDBsum; 1RNW; -.
+DR   PDBsum; 1RNX; -.
+DR   PDBsum; 1RNY; -.
+DR   PDBsum; 1RNZ; -.
+DR   PDBsum; 1ROB; -.
+DR   PDBsum; 1RPF; -.
+DR   PDBsum; 1RPG; -.
+DR   PDBsum; 1RPH; -.
+DR   PDBsum; 1RSM; -.
+DR   PDBsum; 1RTA; -.
+DR   PDBsum; 1RTB; -.
+DR   PDBsum; 1RUV; -.
+DR   PDBsum; 1SRN; -.
+DR   PDBsum; 1SSA; -.
+DR   PDBsum; 1SSB; -.
+DR   PDBsum; 1SSC; -.
+DR   PDBsum; 1U1B; -.
+DR   PDBsum; 1UN5; -.
+DR   PDBsum; 1W4O; -.
+DR   PDBsum; 1W4P; -.
+DR   PDBsum; 1W4Q; -.
+DR   PDBsum; 1WBU; -.
+DR   PDBsum; 1XPS; -.
+DR   PDBsum; 1XPT; -.
+DR   PDBsum; 1YMN; -.
+DR   PDBsum; 1YMR; -.
+DR   PDBsum; 1YMW; -.
+DR   PDBsum; 1Z3L; -.
+DR   PDBsum; 1Z3M; -.
+DR   PDBsum; 1Z3P; -.
+DR   PDBsum; 1Z6D; -.
+DR   PDBsum; 1Z6S; -.
+DR   PDBsum; 2AAS; -.
+DR   PDBsum; 2APQ; -.
+DR   PDBsum; 2APU; -.
+DR   PDBsum; 2BLP; -.
+DR   PDBsum; 2BLZ; -.
+DR   PDBsum; 2E33; -.
+DR   PDBsum; 2E3W; -.
+DR   PDBsum; 2G4W; -.
+DR   PDBsum; 2G4X; -.
+DR   PDBsum; 2G8Q; -.
+DR   PDBsum; 2G8R; -.
+DR   PDBsum; 2NUI; -.
+DR   PDBsum; 2OP2; -.
+DR   PDBsum; 2OQF; -.
+DR   PDBsum; 2P42; -.
+DR   PDBsum; 2P43; -.
+DR   PDBsum; 2P44; -.
+DR   PDBsum; 2P45; -.
+DR   PDBsum; 2P46; -.
+DR   PDBsum; 2P47; -.
+DR   PDBsum; 2P48; -.
+DR   PDBsum; 2P49; -.
+DR   PDBsum; 2P4A; -.
+DR   PDBsum; 2QCA; -.
+DR   PDBsum; 2RAT; -.
+DR   PDBsum; 2RLN; -.
+DR   PDBsum; 2RNS; -.
+DR   PDBsum; 2W5G; -.
+DR   PDBsum; 2W5I; -.
+DR   PDBsum; 2W5K; -.
+DR   PDBsum; 2W5L; -.
+DR   PDBsum; 2W5M; -.
+DR   PDBsum; 2XOG; -.
+DR   PDBsum; 2XOI; -.
+DR   PDBsum; 3A1R; -.
+DR   PDBsum; 3D6O; -.
+DR   PDBsum; 3D6P; -.
+DR   PDBsum; 3D6Q; -.
+DR   PDBsum; 3D7B; -.
+DR   PDBsum; 3D8Y; -.
+DR   PDBsum; 3D8Z; -.
+DR   PDBsum; 3DH5; -.
+DR   PDBsum; 3DH6; -.
+DR   PDBsum; 3DI7; -.
+DR   PDBsum; 3DI8; -.
+DR   PDBsum; 3DI9; -.
+DR   PDBsum; 3DIB; -.
+DR   PDBsum; 3DIC; -.
+DR   PDBsum; 3DXG; -.
+DR   PDBsum; 3DXH; -.
+DR   PDBsum; 3EUX; -.
+DR   PDBsum; 3EUY; -.
+DR   PDBsum; 3EUZ; -.
+DR   PDBsum; 3EV0; -.
+DR   PDBsum; 3EV1; -.
+DR   PDBsum; 3EV2; -.
+DR   PDBsum; 3EV3; -.
+DR   PDBsum; 3EV4; -.
+DR   PDBsum; 3EV5; -.
+DR   PDBsum; 3EV6; -.
+DR   PDBsum; 3FKZ; -.
+DR   PDBsum; 3FL0; -.
+DR   PDBsum; 3FL1; -.
+DR   PDBsum; 3FL3; -.
+DR   PDBsum; 3I67; -.
+DR   PDBsum; 3I6F; -.
+DR   PDBsum; 3I6H; -.
+DR   PDBsum; 3I6J; -.
+DR   PDBsum; 3I7W; -.
+DR   PDBsum; 3I7X; -.
+DR   PDBsum; 3I7Y; -.
+DR   PDBsum; 3JW1; -.
+DR   PDBsum; 3LXO; -.
+DR   PDBsum; 3MWQ; -.
+DR   PDBsum; 3MWR; -.
+DR   PDBsum; 3MX8; -.
+DR   PDBsum; 3MZQ; -.
+DR   PDBsum; 3MZR; -.
+DR   PDBsum; 3OQY; -.
+DR   PDBsum; 3OQZ; -.
+DR   PDBsum; 3OR0; -.
+DR   PDBsum; 3QL1; -.
+DR   PDBsum; 3QL2; -.
+DR   PDBsum; 3QSK; -.
+DR   PDBsum; 3RAT; -.
+DR   PDBsum; 3RH1; -.
+DR   PDBsum; 3RID; -.
+DR   PDBsum; 3RN3; -.
+DR   PDBsum; 3RSD; -.
+DR   PDBsum; 3RSK; -.
+DR   PDBsum; 3RSP; -.
+DR   PDBsum; 3SRN; -.
+DR   PDBsum; 4AO1; -.
+DR   PDBsum; 4G8V; -.
+DR   PDBsum; 4G8Y; -.
+DR   PDBsum; 4G90; -.
+DR   PDBsum; 4J5Z; -.
+DR   PDBsum; 4J60; -.
+DR   PDBsum; 4J61; -.
+DR   PDBsum; 4J62; -.
+DR   PDBsum; 4J63; -.
+DR   PDBsum; 4J64; -.
+DR   PDBsum; 4J65; -.
+DR   PDBsum; 4J66; -.
+DR   PDBsum; 4J67; -.
+DR   PDBsum; 4J68; -.
+DR   PDBsum; 4J69; -.
+DR   PDBsum; 4J6A; -.
+DR   PDBsum; 4K7L; -.
+DR   PDBsum; 4K7M; -.
+DR   PDBsum; 4L55; -.
+DR   PDBsum; 4MXF; -.
+DR   PDBsum; 4O36; -.
+DR   PDBsum; 4O37; -.
+DR   PDBsum; 4OKF; -.
+DR   PDBsum; 4OOH; -.
+DR   PDBsum; 4OT4; -.
+DR   PDBsum; 4PEQ; -.
+DR   PDBsum; 4POU; -.
+DR   PDBsum; 4QH3; -.
+DR   PDBsum; 4RAT; -.
+DR   PDBsum; 4RSD; -.
+DR   PDBsum; 4RSK; -.
+DR   PDBsum; 4RTE; -.
+DR   PDBsum; 4SRN; -.
+DR   PDBsum; 5RAT; -.
+DR   PDBsum; 5RSA; -.
+DR   PDBsum; 6RAT; -.
+DR   PDBsum; 6RSA; -.
+DR   PDBsum; 7RAT; -.
+DR   PDBsum; 7RSA; -.
+DR   PDBsum; 8RAT; -.
+DR   PDBsum; 8RSA; -.
+DR   PDBsum; 9RAT; -.
+DR   PDBsum; 9RSA; -.
+DR   ProteinModelPortal; P61823; -.
+DR   SMR; P61823; 27-150.
+DR   DIP; DIP-36384N; -.
+DR   IntAct; P61823; 6.
+DR   MINT; MINT-1510416; -.
+DR   STRING; 9913.ENSBTAP00000011586; -.
+DR   BindingDB; P61823; -.
+DR   ChEMBL; CHEMBL6091; -.
+DR   PaxDb; P61823; -.
+DR   PRIDE; P61823; -.
+DR   Ensembl; ENSBTAT00000011586; ENSBTAP00000011586; ENSBTAG00000008793.
+DR   GeneID; 282340; -.
+DR   KEGG; bta:282340; -.
+DR   CTD; 6035; -.
+DR   eggNOG; NOG40319; -.
+DR   GeneTree; ENSGT00390000007840; -.
+DR   HOGENOM; HOG000276883; -.
+DR   HOVERGEN; HBG008396; -.
+DR   InParanoid; P61823; -.
+DR   KO; K01168; -.
+DR   OMA; ACKNGQT; -.
+DR   OrthoDB; EOG7J1826; -.
+DR   TreeFam; TF333393; -.
+DR   BRENDA; 3.1.27.5; 908.
+DR   SABIO-RK; P61823; -.
+DR   EvolutionaryTrace; P61823; -.
+DR   NextBio; 20806135; -.
+DR   PMAP-CutDB; P61823; -.
+DR   PRO; PR:P61823; -.
+DR   Proteomes; UP000009136; Chromosome 10.
+DR   ExpressionAtlas; P61823; baseline.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0003676; F:nucleic acid binding; IEA:InterPro.
+DR   GO; GO:0004522; F:ribonuclease A activity; IBA:GO_Central.
+DR   GO; GO:0090502; P:RNA phosphodiester bond hydrolysis, endonucleolytic; IBA:GOC.
+DR   Gene3D; 3.10.130.10; -; 1.
+DR   InterPro; IPR001427; RNaseA.
+DR   InterPro; IPR023411; RNaseA_AS.
+DR   InterPro; IPR023412; RNaseA_domain.
+DR   PANTHER; PTHR11437; PTHR11437; 1.
+DR   Pfam; PF00074; RnaseA; 1.
+DR   PRINTS; PR00794; RIBONUCLEASE.
+DR   ProDom; PD000535; RNaseA; 1.
+DR   SMART; SM00092; RNAse_Pc; 1.
+DR   SUPFAM; SSF54076; SSF54076; 1.
+DR   PROSITE; PS00127; RNASE_PANCREATIC; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Direct protein sequencing;
+KW   Disulfide bond; Endonuclease; Glycation; Glycoprotein; Hydrolase;
+KW   Nuclease; Reference proteome; Secreted; Signal.
+FT   SIGNAL        1     26       {ECO:0000269|PubMed:13989651,
+FT                                ECO:0000269|PubMed:14235531}.
+FT   CHAIN        27    150       Ribonuclease pancreatic.
+FT                                /FTId=PRO_0000030915.
+FT   REGION       67     71       Substrate binding.
+FT   ACT_SITE     38     38       Proton acceptor.
+FT   ACT_SITE    145    145       Proton donor.
+FT   BINDING      33     33       Substrate.
+FT   BINDING      36     36       Substrate.
+FT   BINDING      92     92       Substrate.
+FT   BINDING     111    111       Substrate.
+FT   CARBOHYD     27     27       N-linked (Glc) (glycation); in vitro.
+FT   CARBOHYD     33     33       N-linked (Glc) (glycation); in vitro.
+FT   CARBOHYD     60     60       N-linked (GlcNAc...); partial.
+FT                                {ECO:0000269|PubMed:19358553}.
+FT                                /FTId=CAR_000006.
+FT   CARBOHYD     63     63       N-linked (Glc) (glycation); in vitro.
+FT   CARBOHYD     67     67       N-linked (Glc) (glycation); in vitro.
+FT   DISULFID     52    110       {ECO:0000269|PubMed:13989651}.
+FT   DISULFID     66    121       {ECO:0000269|PubMed:13989651}.
+FT   DISULFID     84    136       {ECO:0000269|PubMed:13989651}.
+FT   DISULFID     91     98       {ECO:0000269|PubMed:13989651}.
+FT   MUTAGEN      38     38       H->A: Loss of activity.
+FT   MUTAGEN     145    145       H->A: Loss of activity.
+FT   HELIX        30     38       {ECO:0000244|PDB:1DY5}.
+FT   STRAND       43     45       {ECO:0000244|PDB:1DY5}.
+FT   HELIX        48     50       {ECO:0000244|PDB:3FL0}.
+FT   HELIX        51     58       {ECO:0000244|PDB:1DY5}.
+FT   STRAND       61     65       {ECO:0000244|PDB:1DY5}.
+FT   STRAND       68     73       {ECO:0000244|PDB:1DY5}.
+FT   HELIX        77     82       {ECO:0000244|PDB:1DY5}.
+FT   HELIX        83     85       {ECO:0000244|PDB:1DY5}.
+FT   STRAND       86     89       {ECO:0000244|PDB:1DY5}.
+FT   STRAND       92     94       {ECO:0000244|PDB:3DH6}.
+FT   STRAND       98    100       {ECO:0000244|PDB:1DY5}.
+FT   STRAND      102    112       {ECO:0000244|PDB:1DY5}.
+FT   STRAND      118    120       {ECO:0000244|PDB:1YMN}.
+FT   STRAND      123    130       {ECO:0000244|PDB:1DY5}.
+FT   STRAND      132    137       {ECO:0000244|PDB:1DY5}.
+FT   TURN        138    141       {ECO:0000244|PDB:1DY5}.
+FT   STRAND      142    149       {ECO:0000244|PDB:1DY5}.
+SQ   SEQUENCE   150 AA;  16461 MW;  74E5DC61E679187D CRC64;
+     MALKSLVLLS LLVLVLLLVR VQPSLGKETA AAKFERQHMD SSTSAASSSN YCNQMMKSRN
+     LTKDRCKPVN TFVHESLADV QAVCSQKNVA CKNGQTNCYQ SYSTMSITDC RETGSSKYPN
+     CAYKTTQANK HIIVACEGNP YVPVHFDASV
+//

@@ -1,0 +1,177 @@
+ID   MUP2_MOUSE              Reviewed;         180 AA.
+AC   P11589; Q99JF6;
+DT   01-OCT-1989, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-1989, sequence version 1.
+DT   24-JUN-2015, entry version 144.
+DE   RecName: Full=Major urinary protein 2;
+DE            Short=MUP 2;
+DE   Flags: Precursor;
+GN   Name=Mup2;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=BALB/c; TISSUE=Liver;
+RX   PubMed=3600652;
+RA   Shahan K., Gilmartin M., Derman E.;
+RT   "Nucleotide sequences of liver, lachrymal, and submaxillary gland
+RT   mouse major urinary protein mRNAs: mosaic structure and construction
+RT   of panels of gene-specific synthetic oligonucleotide probes.";
+RL   Mol. Cell. Biol. 7:1938-1946(1987).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=Swiss; TISSUE=Liver;
+RA   Spisni A.;
+RL   Submitted (FEB-2001) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=FVB/N; TISSUE=Liver;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4]
+RP   STRUCTURE BY NMR.
+RX   PubMed=10583419; DOI=10.1046/j.1432-1327.1999.00984.x;
+RA   Luecke C., Franzoni L., Abbate F., Lohr F., Ferrari E., Sorbi R.T.,
+RA   Rueterjans H., Spisni A.;
+RT   "Solution structure of a recombinant mouse major urinary protein.";
+RL   Eur. J. Biochem. 266:1210-1218(1999).
+RN   [5]
+RP   STRUCTURE BY NMR.
+RX   PubMed=10605093; DOI=10.1023/A:1008328813017;
+RA   Abbate F., Franzoni L., Lohr F., Luecke C., Ferrari E., Sorbi R.T.,
+RA   Rueterjans H., Spisni A.;
+RT   "Complete 1H, 15N and 13C assignment of a recombinant mouse major
+RT   urinary protein.";
+RL   J. Biomol. NMR 15:187-188(1999).
+CC   -!- FUNCTION: Binds pheromones that are released from drying urine of
+CC       males. These pheromones affect the sexual behavior of females.
+CC   -!- SUBCELLULAR LOCATION: Secreted.
+CC   -!- TISSUE SPECIFICITY: Abundant in the urine of adult male mice but
+CC       absent from that of females.
+CC   -!- SIMILARITY: Belongs to the calycin superfamily. Lipocalin family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M16356; AAA39768.1; -; mRNA.
+DR   EMBL; AJ309921; CAC34259.1; -; mRNA.
+DR   EMBL; BC012259; AAH12259.1; -; mRNA.
+DR   EMBL; BC059097; AAH59097.1; -; mRNA.
+DR   UniGene; Mm.335875; -.
+DR   UniGene; Mm.457980; -.
+DR   UniGene; Mm.457982; -.
+DR   UniGene; Mm.482557; -.
+DR   PDB; 1DF3; NMR; -; A=19-180.
+DR   PDB; 1JV4; X-ray; 1.75 A; A=19-180.
+DR   PDB; 1ZND; X-ray; 1.60 A; A=19-180.
+DR   PDB; 1ZNE; X-ray; 2.00 A; A=19-180.
+DR   PDB; 1ZNG; X-ray; 1.60 A; A=19-180.
+DR   PDB; 1ZNH; X-ray; 2.10 A; A=19-180.
+DR   PDB; 1ZNK; X-ray; 1.60 A; A=19-180.
+DR   PDB; 1ZNL; X-ray; 1.70 A; A=19-180.
+DR   PDB; 2DM5; X-ray; 1.70 A; A=19-180.
+DR   PDB; 2NND; X-ray; 1.60 A; A=19-180.
+DR   PDB; 2NNE; X-ray; 1.60 A; A=19-180.
+DR   PDB; 2OZQ; X-ray; 1.80 A; A=19-180.
+DR   PDBsum; 1DF3; -.
+DR   PDBsum; 1JV4; -.
+DR   PDBsum; 1ZND; -.
+DR   PDBsum; 1ZNE; -.
+DR   PDBsum; 1ZNG; -.
+DR   PDBsum; 1ZNH; -.
+DR   PDBsum; 1ZNK; -.
+DR   PDBsum; 1ZNL; -.
+DR   PDBsum; 2DM5; -.
+DR   PDBsum; 2NND; -.
+DR   PDBsum; 2NNE; -.
+DR   PDBsum; 2OZQ; -.
+DR   ProteinModelPortal; P11589; -.
+DR   SMR; P11589; 19-180.
+DR   MINT; MINT-1864997; -.
+DR   STRING; 10090.ENSMUSP00000095655; -.
+DR   Allergome; 478; Mus m 1.
+DR   Allergome; 8430; Mus m 1.0102.
+DR   SWISS-2DPAGE; P11589; -.
+DR   MaxQB; P11589; -.
+DR   PaxDb; P11589; -.
+DR   PRIDE; P11589; -.
+DR   MGI; MGI:97234; Mup2.
+DR   eggNOG; NOG45000; -.
+DR   HOGENOM; HOG000231458; -.
+DR   HOVERGEN; HBG000215; -.
+DR   InParanoid; P11589; -.
+DR   EvolutionaryTrace; P11589; -.
+DR   PRO; PR:P11589; -.
+DR   Proteomes; UP000000589; Unplaced.
+DR   GO; GO:0005829; C:cytosol; ISS:UniProtKB.
+DR   GO; GO:0005615; C:extracellular space; ISS:UniProtKB.
+DR   GO; GO:0005634; C:nucleus; ISS:UniProtKB.
+DR   GO; GO:0005009; F:insulin-activated receptor activity; ISS:UniProtKB.
+DR   GO; GO:0005550; F:pheromone binding; ISS:UniProtKB.
+DR   GO; GO:0036094; F:small molecule binding; IEA:InterPro.
+DR   GO; GO:0005215; F:transporter activity; IEA:InterPro.
+DR   GO; GO:0009060; P:aerobic respiration; ISS:UniProtKB.
+DR   GO; GO:0071396; P:cellular response to lipid; ISS:UniProtKB.
+DR   GO; GO:0006112; P:energy reserve metabolic process; ISS:UniProtKB.
+DR   GO; GO:0042593; P:glucose homeostasis; ISS:UniProtKB.
+DR   GO; GO:0031649; P:heat generation; ISS:UniProtKB.
+DR   GO; GO:0008286; P:insulin receptor signaling pathway; ISS:GOC.
+DR   GO; GO:0045475; P:locomotor rhythm; ISS:UniProtKB.
+DR   GO; GO:0070584; P:mitochondrion morphogenesis; ISS:UniProtKB.
+DR   GO; GO:0045721; P:negative regulation of gluconeogenesis; ISS:UniProtKB.
+DR   GO; GO:0061179; P:negative regulation of insulin secretion involved in cellular response to glucose stimulus; ISS:UniProtKB.
+DR   GO; GO:0051055; P:negative regulation of lipid biosynthetic process; ISS:UniProtKB.
+DR   GO; GO:0010888; P:negative regulation of lipid storage; ISS:UniProtKB.
+DR   GO; GO:0045892; P:negative regulation of transcription, DNA-templated; ISS:UniProtKB.
+DR   GO; GO:0010628; P:positive regulation of gene expression; ISS:UniProtKB.
+DR   GO; GO:0010907; P:positive regulation of glucose metabolic process; ISS:UniProtKB.
+DR   GO; GO:0045834; P:positive regulation of lipid metabolic process; ISS:UniProtKB.
+DR   GO; GO:0051897; P:positive regulation of protein kinase B signaling; ISS:UniProtKB.
+DR   Gene3D; 2.40.128.20; -; 1.
+DR   InterPro; IPR012674; Calycin.
+DR   InterPro; IPR011038; Calycin-like.
+DR   InterPro; IPR002345; Lipocalin.
+DR   InterPro; IPR022272; Lipocalin_CS.
+DR   InterPro; IPR000566; Lipocln_cytosolic_FA-bd_dom.
+DR   InterPro; IPR002971; Maj_urinary.
+DR   Pfam; PF00061; Lipocalin; 1.
+DR   PRINTS; PR00179; LIPOCALIN.
+DR   PRINTS; PR01221; MAJORURINARY.
+DR   SUPFAM; SSF50814; SSF50814; 1.
+DR   PROSITE; PS00213; LIPOCALIN; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Disulfide bond; Pheromone-binding;
+KW   Reference proteome; Secreted; Signal; Transport.
+FT   SIGNAL        1     18
+FT   CHAIN        19    180       Major urinary protein 2.
+FT                                /FTId=PRO_0000017928.
+FT   DISULFID     82    175       {ECO:0000250}.
+FT   CONFLICT    154    154       K -> Q (in Ref. 2; CAC34259).
+FT                                {ECO:0000305}.
+FT   STRAND       23     25       {ECO:0000244|PDB:1JV4}.
+FT   HELIX        30     33       {ECO:0000244|PDB:1ZND}.
+FT   STRAND       38     46       {ECO:0000244|PDB:1ZND}.
+FT   HELIX        47     50       {ECO:0000244|PDB:1ZND}.
+FT   STRAND       59     65       {ECO:0000244|PDB:1ZND}.
+FT   STRAND       67     78       {ECO:0000244|PDB:1ZND}.
+FT   STRAND       81     91       {ECO:0000244|PDB:1ZND}.
+FT   TURN         94     96       {ECO:0000244|PDB:1DF3}.
+FT   STRAND       98    113       {ECO:0000244|PDB:1ZND}.
+FT   STRAND      115    127       {ECO:0000244|PDB:1ZND}.
+FT   STRAND      130    142       {ECO:0000244|PDB:1ZND}.
+FT   HELIX       146    158       {ECO:0000244|PDB:1ZND}.
+FT   HELIX       163    165       {ECO:0000244|PDB:1ZND}.
+FT   STRAND      166    168       {ECO:0000244|PDB:1ZND}.
+FT   TURN        170    172       {ECO:0000244|PDB:1JV4}.
+SQ   SEQUENCE   180 AA;  20664 MW;  477F5971ACAB622A CRC64;
+     MKMLLLLCLG LTLVCVHAEE ASSTGRNFNV EKINGEWHTI ILASDKREKI EDNGNFRLFL
+     EQIHVLEKSL VLKFHTVRDE ECSELSMVAD KTEKAGEYSV TYDGFNTFTI PKTDYDNFLM
+     AHLINEKDGE TFQLMGLYGR EPDLSSDIKE RFAKLCEEHG ILRENIIDLS NANRCLQARE
+//

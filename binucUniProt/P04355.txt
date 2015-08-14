@@ -1,0 +1,177 @@
+ID   MT2_RAT                 Reviewed;          61 AA.
+AC   P04355;
+DT   20-MAR-1987, integrated into UniProtKB/Swiss-Prot.
+DT   20-MAR-1987, sequence version 1.
+DT   24-JUN-2015, entry version 134.
+DE   RecName: Full=Metallothionein-2;
+DE            Short=MT-2;
+DE   AltName: Full=Metallothionein-II;
+DE            Short=MT-II;
+GN   Name=Mt2;
+OS   Rattus norvegicus (Rat).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Rattus.
+OX   NCBI_TaxID=10116;
+RN   [1]
+RP   PROTEIN SEQUENCE, AND ACETYLATION AT MET-1.
+RC   TISSUE=Liver;
+RX   PubMed=6470004;
+RA   Winge D.R., Nielson K.B., Zeikus R.D., Gray W.R.;
+RT   "Structural characterization of the isoforms of neonatal and adult rat
+RT   liver metallothionein.";
+RL   J. Biol. Chem. 259:11419-11425(1984).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=2959527;
+RA   Andersen R.D., Taplitz S.J., Birren B.W., Bristol G., Herschman H.R.;
+RT   "Rat metallothionein multigene family.";
+RL   Experientia Suppl. 52:373-384(1987).
+RN   [3]
+RP   CRYSTALLIZATION.
+RX   PubMed=6853483;
+RA   Melis K.A., Carter D.C., Stout C.D., Winge D.R.;
+RT   "Single crystals of cadmium, zinc metallothionein.";
+RL   J. Biol. Chem. 258:6255-6257(1983).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (2.3 ANGSTROMS).
+RX   PubMed=3945804; DOI=10.1126/science.3945804;
+RA   Furey W.F. Jr., Robbins A.H., Clancy L.L., Winge D.R., Wand B.C.,
+RA   Stout C.D.;
+RT   "Crystal structure of Cd,Zn metallothionein.";
+RL   Science 231:704-710(1986).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS).
+RX   PubMed=1942051;
+RA   Robbins A.H., McRee D.E., Williamson M., Collett S.A., Xuong N.H.,
+RA   Furey W.F. Jr., Wang B.C., Stout C.D.;
+RT   "Refined crystal structure of Cd, Zn metallothionein at 2.0-A
+RT   resolution.";
+RL   J. Mol. Biol. 221:1269-1293(1991).
+RN   [6]
+RP   STRUCTURE BY NMR.
+RX   PubMed=3184190; DOI=10.1016/0022-2836(88)90106-4;
+RA   Schultze P., Woergotter E., Braun W., Wagner G., Vasak M.,
+RA   Kaegi J.H.R., Wuethrich K.;
+RT   "Conformation of [Cd7]-metallothionein-2 from rat liver in aqueous
+RT   solution determined by nuclear magnetic resonance spectroscopy.";
+RL   J. Mol. Biol. 203:251-268(1988).
+RN   [7]
+RP   STRUCTURE BY NMR.
+RX   PubMed=3653102; DOI=10.1111/j.1432-1033.1987.tb13359.x;
+RA   Woergoetter E., Wagner G., Vasak M., Kaegi J.H.R., Wuethrich K.;
+RT   "Sequence-specific 1H-NMR assignments in rat-liver metallothionein-
+RT   2.";
+RL   Eur. J. Biochem. 167:457-466(1987).
+CC   -!- FUNCTION: Metallothioneins have a high content of cysteine
+CC       residues that bind various heavy metals; these proteins are
+CC       transcriptionally regulated by both heavy metals and
+CC       glucocorticoids.
+CC   -!- DOMAIN: Class I metallothioneins contain 2 metal-binding domains:
+CC       four divalent ions are chelated within cluster A of the alpha
+CC       domain and are coordinated via cysteinyl thiolate bridges to 11
+CC       cysteine ligands. Cluster B, the corresponding region within the
+CC       beta domain, can ligate three divalent ions to 9 cysteines.
+CC   -!- SIMILARITY: Belongs to the metallothionein superfamily. Type 1
+CC       family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M11794; AAA41640.1; -; Genomic_DNA.
+DR   PIR; B61561; SMRT2.
+DR   RefSeq; NP_001131036.1; NM_001137564.1.
+DR   UniGene; Rn.115549; -.
+DR   PDB; 1MRT; NMR; -; A=31-61.
+DR   PDB; 2MRT; NMR; -; A=1-30.
+DR   PDB; 4MT2; X-ray; 2.00 A; A=1-61.
+DR   PDBsum; 1MRT; -.
+DR   PDBsum; 2MRT; -.
+DR   PDBsum; 4MT2; -.
+DR   ProteinModelPortal; P04355; -.
+DR   SMR; P04355; 1-61.
+DR   IntAct; P04355; 1.
+DR   STRING; 10116.ENSRNOP00000062585; -.
+DR   PaxDb; P04355; -.
+DR   PRIDE; P04355; -.
+DR   Ensembl; ENSRNOT00000067391; ENSRNOP00000062585; ENSRNOG00000043098.
+DR   GeneID; 689415; -.
+DR   KEGG; rno:689415; -.
+DR   UCSC; RGD:1592345; rat.
+DR   CTD; 4502; -.
+DR   eggNOG; NOG138665; -.
+DR   GeneTree; ENSGT00730000110883; -.
+DR   HOGENOM; HOG000236262; -.
+DR   HOVERGEN; HBG096105; -.
+DR   InParanoid; P04355; -.
+DR   KO; K14739; -.
+DR   OMA; CKKSCCT; -.
+DR   OrthoDB; EOG79CZ35; -.
+DR   PhylomeDB; P04355; -.
+DR   TreeFam; TF336054; -.
+DR   EvolutionaryTrace; P04355; -.
+DR   NextBio; 738628; -.
+DR   PRO; PR:P04355; -.
+DR   Proteomes; UP000002494; Chromosome 19.
+DR   ExpressionAtlas; P04355; baseline and differential.
+DR   Genevisible; P04355; RN.
+DR   GO; GO:0005737; C:cytoplasm; ISS:UniProtKB.
+DR   GO; GO:0005634; C:nucleus; ISS:UniProtKB.
+DR   GO; GO:0048471; C:perinuclear region of cytoplasm; ISS:UniProtKB.
+DR   GO; GO:0046870; F:cadmium ion binding; IDA:RGD.
+DR   GO; GO:0008270; F:zinc ion binding; ISS:UniProtKB.
+DR   GO; GO:0048143; P:astrocyte activation; IEP:RGD.
+DR   GO; GO:0071294; P:cellular response to zinc ion; ISS:UniProtKB.
+DR   GO; GO:0045926; P:negative regulation of growth; ISS:UniProtKB.
+DR   Gene3D; 4.10.10.10; -; 1.
+DR   InterPro; IPR017854; Metalthion_dom.
+DR   InterPro; IPR023587; Metalthion_dom_vert.
+DR   InterPro; IPR003019; Metalthion_sfam_euk.
+DR   InterPro; IPR000006; Metalthion_vert.
+DR   InterPro; IPR018064; Metalthion_vert_metal_BS.
+DR   PANTHER; PTHR23299; PTHR23299; 1.
+DR   Pfam; PF00131; Metallothio; 1.
+DR   PRINTS; PR00860; MTVERTEBRATE.
+DR   SUPFAM; SSF57868; SSF57868; 1.
+DR   PROSITE; PS00203; METALLOTHIONEIN_VRT; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Complete proteome;
+KW   Direct protein sequencing; Metal-binding; Metal-thiolate cluster;
+KW   Phosphoprotein; Reference proteome.
+FT   CHAIN         1     61       Metallothionein-2.
+FT                                /FTId=PRO_0000197222.
+FT   REGION        1     29       Beta.
+FT   REGION       30     61       Alpha.
+FT   METAL         5      5       Divalent metal cation; cluster B.
+FT   METAL         7      7       Divalent metal cation; cluster B.
+FT   METAL        13     13       Divalent metal cation; cluster B.
+FT   METAL        15     15       Divalent metal cation; cluster B.
+FT   METAL        19     19       Divalent metal cation; cluster B.
+FT   METAL        21     21       Divalent metal cation; cluster B.
+FT   METAL        24     24       Divalent metal cation; cluster B.
+FT   METAL        26     26       Divalent metal cation; cluster B.
+FT   METAL        29     29       Divalent metal cation; cluster B.
+FT   METAL        33     33       Divalent metal cation; cluster A.
+FT   METAL        34     34       Divalent metal cation; cluster A.
+FT   METAL        36     36       Divalent metal cation; cluster A.
+FT   METAL        37     37       Divalent metal cation; cluster A.
+FT   METAL        41     41       Divalent metal cation; cluster A.
+FT   METAL        44     44       Divalent metal cation; cluster A.
+FT   METAL        48     48       Divalent metal cation; cluster A.
+FT   METAL        50     50       Divalent metal cation; cluster A.
+FT   METAL        57     57       Divalent metal cation; cluster A.
+FT   METAL        59     59       Divalent metal cation; cluster A.
+FT   METAL        60     60       Divalent metal cation; cluster A.
+FT   MOD_RES       1      1       N-acetylmethionine.
+FT                                {ECO:0000269|PubMed:6470004}.
+FT   MOD_RES      58     58       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:P02795}.
+FT   STRAND        9     11       {ECO:0000244|PDB:4MT2}.
+FT   STRAND       16     18       {ECO:0000244|PDB:2MRT}.
+FT   STRAND       35     37       {ECO:0000244|PDB:1MRT}.
+FT   TURN         38     40       {ECO:0000244|PDB:1MRT}.
+FT   TURN         42     46       {ECO:0000244|PDB:4MT2}.
+SQ   SEQUENCE   61 AA;  6145 MW;  D50D1306A5ED08E9 CRC64;
+     MDPNCSCATD GSCSCAGSCK CKQCKCTSCK KSCCSCCPVG CAKCSQGCIC KEASDKCSCC
+     A
+//

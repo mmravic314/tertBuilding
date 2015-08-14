@@ -1,0 +1,104 @@
+ID   O97447_GIAIN            Unreviewed;       323 AA.
+AC   O97447;
+DT   01-MAY-1999, integrated into UniProtKB/TrEMBL.
+DT   01-MAY-1999, sequence version 1.
+DT   24-JUN-2015, entry version 71.
+DE   SubName: Full=Putative fructose-1,6-bisphosphate aldolase {ECO:0000313|EMBL:AAD05239.1};
+DE            EC=4.1.2.13 {ECO:0000313|EMBL:AAD05239.1};
+GN   Name=ald {ECO:0000313|EMBL:AAD05239.1};
+OS   Giardia intestinalis (Giardia lamblia).
+OC   Eukaryota; Diplomonadida; Hexamitidae; Giardiinae; Giardia.
+OX   NCBI_TaxID=5741 {ECO:0000313|EMBL:AAD05239.1};
+RN   [1] {ECO:0000313|EMBL:AAD05239.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=WB/ATCC30957 {ECO:0000313|EMBL:AAD05239.1};
+RX   PubMed=9831644; DOI=10.1016/S0378-1119(98)00499-5;
+RA   Henze K., Morrison H.G., Sogin M.L., MullerM;
+RT   "Sequence and phylogenetic position of a class II aldolase gene in the
+RT   amitochondriate protist, Giardia lamblia.";
+RL   Gene 222:163-168(1998).
+RN   [2] {ECO:0000213|PDB:2ISV, ECO:0000213|PDB:2ISW}
+RP   X-RAY CRYSTALLOGRAPHY (1.75 ANGSTROMS) IN COMPLEX WITH ZINC.
+RX   PubMed=17166851; DOI=10.1074/jbc.M609534200;
+RA   Galkin A., Kulakova L., Melamud E., Li L., Wu C., Mariano P.,
+RA   Dunaway-Mariano D., Nash T.E., Herzberg O.;
+RT   "Characterization, kinetics, and crystal structures of fructose-1,6-
+RT   bisphosphate aldolase from the human parasite, Giardia lamblia.";
+RL   J. Biol. Chem. 282:4859-4867(2007).
+RN   [3] {ECO:0000213|PDB:3GAK, ECO:0000213|PDB:3GAY, ECO:0000213|PDB:3GB6}
+RP   X-RAY CRYSTALLOGRAPHY (1.80 ANGSTROMS) IN COMPLEX WITH ZINC.
+RX   PubMed=19236002; DOI=10.1021/bi9001166;
+RA   Galkin A., Li Z., Li L., Kulakova L., Pal L.R., Dunaway-Mariano D.,
+RA   Herzberg O.;
+RT   "Structural insights into the substrate binding and stereoselectivity
+RT   of giardia fructose-1,6-bisphosphate aldolase.";
+RL   Biochemistry 48:3186-3196(2009).
+RN   [4] {ECO:0000213|PDB:3OHI}
+RP   X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) IN COMPLEX WITH ZINC.
+RX   PubMed=21333622; DOI=10.1016/j.jinorgbio.2010.12.012;
+RA   Li Z., Liu Z., Cho D.W., Zou J., Gong M., Breece R.M., Galkin A.,
+RA   Li L., Zhao H., Maestas G.D., Tierney D.L., Herzberg O.,
+RA   Dunaway-Mariano D., Mariano P.S.;
+RT   "Rational design, synthesis and evaluation of first generation
+RT   inhibitors of the Giardia lamblia fructose-1,6-biphosphate aldolase.";
+RL   J. Inorg. Biochem. 105:509-517(2011).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF079109; AAD05239.1; -; Genomic_DNA.
+DR   PDB; 2ISV; X-ray; 2.30 A; A/B=1-323.
+DR   PDB; 2ISW; X-ray; 1.75 A; A/B=1-323.
+DR   PDB; 3GAK; X-ray; 2.90 A; A/B=1-323.
+DR   PDB; 3GAY; X-ray; 1.80 A; A/B=1-323.
+DR   PDB; 3GB6; X-ray; 2.00 A; A/B=1-323.
+DR   PDB; 3OHI; X-ray; 2.30 A; A/B=1-323.
+DR   ProteinModelPortal; O97447; -.
+DR   SMR; O97447; 2-322.
+DR   STRING; 184922.XP_001710050.1; -.
+DR   ChEMBL; CHEMBL1293234; -.
+DR   BRENDA; 4.1.2.13; 2401.
+DR   SABIO-RK; O97447; -.
+DR   EvolutionaryTrace; O97447; -.
+DR   GO; GO:0004332; F:fructose-bisphosphate aldolase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:InterPro.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   Gene3D; 3.20.20.70; -; 1.
+DR   InterPro; IPR013785; Aldolase_TIM.
+DR   InterPro; IPR000771; Ketose_bisP_aldolase_II.
+DR   Pfam; PF01116; F_bP_aldolase; 1.
+DR   PIRSF; PIRSF001359; F_bP_aldolase_II; 1.
+DR   TIGRFAMs; TIGR00167; cbbA; 1.
+DR   PROSITE; PS00806; ALDOLASE_CLASS_II_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2ISV, ECO:0000213|PDB:2ISW};
+KW   Lyase {ECO:0000313|EMBL:AAD05239.1};
+KW   Metal-binding {ECO:0000213|PDB:2ISV, ECO:0000213|PDB:2ISW};
+KW   Zinc {ECO:0000213|PDB:2ISV, ECO:0000213|PDB:2ISW}.
+FT   ACT_SITE     83     83       Proton donor.
+FT                                {ECO:0000256|PIRSR:PIRSR001359-1}.
+FT   METAL        84     84       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2ISV,
+FT                                ECO:0000213|PDB:2ISW,
+FT                                ECO:0000213|PDB:3GAK}.
+FT   METAL        84     84       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3GAK}.
+FT   METAL       135    135       Zinc 2. {ECO:0000213|PDB:3GAK}.
+FT   METAL       178    178       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2ISV,
+FT                                ECO:0000213|PDB:2ISW,
+FT                                ECO:0000213|PDB:3GAK}.
+FT   METAL       210    210       Zinc 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:2ISV,
+FT                                ECO:0000213|PDB:2ISW,
+FT                                ECO:0000213|PDB:3GAK}.
+FT   METAL       210    210       Zinc 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3GAK}.
+SQ   SEQUENCE   323 AA;  35244 MW;  CB3C40993E15D692 CRC64;
+     MPLCTLRQML GEARKHKYGV GAFNVNNMEQ IQGIMKAVVQ LKSPVILQCS RGALKYSDMI
+     YLKKLCEAAL EKHPDIPICI HLDHGDTLES VKMAIDLGFS SVMIDASHHP FDENVRITKE
+     VVAYAHARSV SVEAELGTLG GIEEDVQNTV QLTEPQDAKK FVELTGVDAL AVAIGTSHGA
+     YKFKSESDIR LAIDRVKTIS DLTGIPLVMH GSSSVPKDVK DMINKYGGKM PDAVGVPIES
+     IVHAIGEGVC KINVDSDSRM AMTGAIRKVF VEHPEKFDPR DYLGPGRDAI TEMLIPKIKA
+     FGSAGHAGDY KVVSLEEAKA WYK
+//

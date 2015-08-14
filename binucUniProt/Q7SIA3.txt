@@ -1,0 +1,98 @@
+ID   Q7SIA3_MARHY            Unreviewed;       581 AA.
+AC   Q7SIA3;
+DT   15-DEC-2003, integrated into UniProtKB/TrEMBL.
+DT   15-DEC-2003, sequence version 1.
+DT   24-JUN-2015, entry version 54.
+DE   SubName: Full=Oxidoreductase {ECO:0000313|PDB:1QNI};
+OS   Marinobacter hydrocarbonoclasticus (Pseudomonas nautica).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales;
+OC   Alteromonadaceae; Marinobacter.
+OX   NCBI_TaxID=2743 {ECO:0000313|PDB:1QNI};
+RN   [1] {ECO:0000213|PDB:1QNI, ECO:0000313|PDB:1QNI}
+RP   X-RAY CRYSTALLOGRAPHY (2.40 ANGSTROMS) IN COMPLEX WITH CALCIUM; COPPER
+RP   A AND COPPERZ.
+RX   PubMed=10700275; DOI=10.1038/73288;
+RA   Brown K., Tegoni M., Prudencio M., Pereira A.S., Besson S.,
+RA   Moura J.J., Moura I., Cambillau C.;
+RT   "A novel type of catalytic copper cluster in nitrous oxide
+RT   reductase.";
+RL   Nat. Struct. Biol. 7:191-195(2000).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   PDB; 1QNI; X-ray; 2.40 A; A/B/C/D/E/F=1-581.
+DR   PDBsum; 1QNI; -.
+DR   ProteinModelPortal; Q7SIA3; -.
+DR   SMR; Q7SIA3; 10-581.
+DR   STRING; 351348.Maqu_3078; -.
+DR   EvolutionaryTrace; Q7SIA3; -.
+DR   GO; GO:0016020; C:membrane; IEA:InterPro.
+DR   GO; GO:0005509; F:calcium ion binding; IEA:InterPro.
+DR   GO; GO:0005507; F:copper ion binding; IEA:InterPro.
+DR   GO; GO:0004129; F:cytochrome-c oxidase activity; IEA:InterPro.
+DR   GO; GO:0050304; F:nitrous-oxide reductase activity; IEA:InterPro.
+DR   Gene3D; 2.130.10.10; -; 1.
+DR   Gene3D; 2.60.40.420; -; 1.
+DR   InterPro; IPR001505; Copper_CuA.
+DR   InterPro; IPR008972; Cupredoxin.
+DR   InterPro; IPR002429; Cyt_c_oxidase_su2_C.
+DR   InterPro; IPR011045; N2O_reductase_N.
+DR   InterPro; IPR023644; NO_Rdtase.
+DR   InterPro; IPR015943; WD40/YVTN_repeat-like_dom.
+DR   Pfam; PF00116; COX2; 1.
+DR   SUPFAM; SSF49503; SSF49503; 1.
+DR   SUPFAM; SSF50974; SSF50974; 1.
+DR   TIGRFAMs; TIGR04244; nitrous_NosZ_RR; 1.
+DR   PROSITE; PS00078; COX2; 1.
+DR   PROSITE; PS50857; COX2_CUA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:1QNI, ECO:0000313|PDB:1QNI};
+KW   Calcium {ECO:0000213|PDB:1QNI, ECO:0000313|PDB:1QNI};
+KW   Copper {ECO:0000213|PDB:1QNI, ECO:0000313|PDB:1QNI};
+KW   Metal-binding {ECO:0000213|PDB:1QNI, ECO:0000313|PDB:1QNI}.
+FT   METAL        79     79       Copper Z; via pros nitrogen.
+FT                                {ECO:0000213|PDB:1QNI}.
+FT   METAL        80     80       Copper Z; via tele nitrogen.
+FT                                {ECO:0000213|PDB:1QNI}.
+FT   METAL       128    128       Copper Z; via tele nitrogen.
+FT                                {ECO:0000213|PDB:1QNI}.
+FT   METAL       204    204       Calcium 1; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:1QNI}.
+FT   METAL       207    207       Calcium 1. {ECO:0000213|PDB:1QNI}.
+FT   METAL       215    215       Calcium 1; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:1QNI}.
+FT   METAL       221    221       Calcium 1. {ECO:0000213|PDB:1QNI}.
+FT   METAL       268    268       Calcium 1. {ECO:0000213|PDB:1QNI}.
+FT   METAL       270    270       Copper Z; via tele nitrogen.
+FT                                {ECO:0000213|PDB:1QNI}.
+FT   METAL       325    325       Copper Z; via tele nitrogen.
+FT                                {ECO:0000213|PDB:1QNI}.
+FT   METAL       376    376       Copper Z; via tele nitrogen.
+FT                                {ECO:0000213|PDB:1QNI}.
+FT   METAL       397    397       Calcium 2; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:1QNI}.
+FT   METAL       412    412       Calcium 2. {ECO:0000213|PDB:1QNI}.
+FT   METAL       437    437       Copper Z; via pros nitrogen.
+FT                                {ECO:0000213|PDB:1QNI}.
+FT   METAL       526    526       Copper A; via pros nitrogen.
+FT                                {ECO:0000213|PDB:1QNI}.
+FT   METAL       561    561       Copper A. {ECO:0000213|PDB:1QNI}.
+FT   METAL       563    563       Copper A; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:1QNI}.
+FT   METAL       565    565       Copper A. {ECO:0000213|PDB:1QNI}.
+FT   METAL       569    569       Copper A; via pros nitrogen.
+FT                                {ECO:0000213|PDB:1QNI}.
+FT   METAL       572    572       Copper A. {ECO:0000213|PDB:1QNI}.
+SQ   SEQUENCE   581 AA;  65150 MW;  FE2B57F7B6D985A5 CRC64;
+     AAAEEARNKA HVAPGELDEY YGFWSGGHQG EVRVLGVPSM RELMRIPVFN VDSATGWGIT
+     NESKEILGGD QQYLNGDCHH PHISMTDGRY DGKYLFINDK ANTRVARIRL DIMKTDKITH
+     IPNVQAIHGL RLQKVPKTNY VFCNAEFVIP QPNDGTDFSL DNSYTMFTAI DAETMDVAWQ
+     VIVDGNLDNT DADYTGKYAT STCYNSERAV DLAGTMRNDR DWVVVFNVER IAAAVKAGNF
+     KTIGDSKVPV VDGRGESEFT RYIPVPKNPH GLNTSPDGKY FIANGKLSPT VSVIAIDKLD
+     DLFEDKIELR DTIVAEPELG LGPLHTTFDG RGNAYTTLFI DSQVCKWNIA DAIKHYNGDR
+     VNYIRQKLDV QYQPGHNHAS LTESRDADGK WLVVLSKFSK DRFLPVGPLH PENDQLIDIS
+     GEEMKLVHDG PTYAEPHDCI LVRRDQIKTK KIYERNDPYF ASCRAQAEKD GVTLESDNKV
+     IRDGNKVRVY MTSVAPQYGM TDFKVKEGDE VTVYITNLDM VEDVTHGFCM VNHGVSMEIS
+     PQQTASVTFT AGKPGVYWYY CNWFCHALHM EMVGRMLVEA A
+//

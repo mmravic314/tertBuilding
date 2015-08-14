@@ -1,0 +1,186 @@
+ID   G3X9S2_MOUSE            Unreviewed;       905 AA.
+AC   G3X9S2;
+DT   16-NOV-2011, integrated into UniProtKB/TrEMBL.
+DT   16-NOV-2011, sequence version 1.
+DT   22-JUL-2015, entry version 42.
+DE   SubName: Full=Ectonucleotide pyrophosphatase/phosphodiesterase 1, isoform CRA_d {ECO:0000313|EMBL:EDL04787.1};
+DE   SubName: Full=Ectonucleotide pyrophosphatase/phosphodiesterase family member 1 {ECO:0000313|Ensembl:ENSMUSP00000101159};
+GN   Name=Enpp1 {ECO:0000313|EMBL:EDL04787.1,
+GN   ECO:0000313|Ensembl:ENSMUSP00000101159, ECO:0000313|MGI:MGI:97370};
+GN   ORFNames=mCG_9001 {ECO:0000313|EMBL:EDL04787.1};
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090 {ECO:0000313|Ensembl:ENSMUSP00000101159, ECO:0000313|Proteomes:UP000000589};
+RN   [1] {ECO:0000313|EMBL:EDL04787.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=Mixed {ECO:0000313|EMBL:EDL04787.1};
+RX   PubMed=12040188; DOI=10.1126/science.1069193;
+RA   Mural R.J., Adams M.D., Myers E.W., Smith H.O., Miklos G.L., Wides R.,
+RA   Halpern A., Li P.W., Sutton G.G., Nadeau J., Salzberg S.L., Holt R.A.,
+RA   Kodira C.D., Lu F., Chen L., Deng Z., Evangelista C.C., Gan W.,
+RA   Heiman T.J., Li J., Li Z., Merkulov G.V., Milshina N.V., Naik A.K.,
+RA   Qi R., Shue B.C., Wang A., Wang J., Wang X., Yan X., Ye J.,
+RA   Yooseph S., Zhao Q., Zheng L., Zhu S.C., Biddick K., Bolanos R.,
+RA   Delcher A.L., Dew I.M., Fasulo D., Flanigan M.J., Huson D.H.,
+RA   Kravitz S.A., Miller J.R., Mobarry C.M., Reinert K., Remington K.A.,
+RA   Zhang Q., Zheng X.H., Nusskern D.R., Lai Z., Lei Y., Zhong W., Yao A.,
+RA   Guan P., Ji R.R., Gu Z., Wang Z.Y., Zhong F., Xiao C., Chiang C.C.,
+RA   Yandell M., Wortman J.R., Amanatides P.G., Hladun S.L., Pratts E.C.,
+RA   Johnson J.E., Dodson K.L., Woodford K.J., Evans C.A., Gropman B.,
+RA   Rusch D.B., Venter E., Wang M., Smith T.J., Houck J.T., Tompkins D.E.,
+RA   Haynes C., Jacob D., Chin S.H., Allen D.R., Dahlke C.E., Sanders R.,
+RA   Li K., Liu X., Levitsky A.A., Majoros W.H., Chen Q., Xia A.C.,
+RA   Lopez J.R., Donnelly M.T., Newman M.H., Glodek A., Kraft C.L.,
+RA   Nodell M., Ali F., An H.J., Baldwin-Pitts D., Beeson K.Y., Cai S.,
+RA   Carnes M., Carver A., Caulk P.M., Center A., Chen Y.H., Cheng M.L.,
+RA   Coyne M.D., Crowder M., Danaher S., Davenport L.B., Desilets R.,
+RA   Dietz S.M., Doup L., Dullaghan P., Ferriera S., Fosler C.R.,
+RA   Gire H.C., Gluecksmann A., Gocayne J.D., Gray J., Hart B., Haynes J.,
+RA   Hoover J., Howland T., Ibegwam C., Jalali M., Johns D., Kline L.,
+RA   Ma D.S., MacCawley S., Magoon A., Mann F., May D., McIntosh T.C.,
+RA   Mehta S., Moy L., Moy M.C., Murphy B.J., Murphy S.D., Nelson K.A.,
+RA   Nuri Z., Parker K.A., Prudhomme A.C., Puri V.N., Qureshi H.,
+RA   Raley J.C., Reardon M.S., Regier M.A., Rogers Y.H., Romblad D.L.,
+RA   Schutz J., Scott J.L., Scott R., Sitter C.D., Smallwood M.,
+RA   Sprague A.C., Stewart E., Strong R.V., Suh E., Sylvester K.,
+RA   Thomas R., Tint N.N., Tsonis C., Wang G., Wang G., Williams M.S.,
+RA   Williams S.M., Windsor S.M., Wolfe K., Wu M.M., Zaveri J.,
+RA   Chaturvedi K., Gabrielian A.E., Ke Z., Sun J., Subramanian G.,
+RA   Venter J.C., Pfannkoch C.M., Barnstead M., Stephenson L.D.;
+RT   "A comparison of whole-genome shotgun-derived mouse chromosome 16 and
+RT   the human genome.";
+RL   Science 296:1661-1671(2002).
+RN   [2] {ECO:0000313|EMBL:EDL04787.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=Mixed {ECO:0000313|EMBL:EDL04787.1};
+RA   Mural R.J., Adams M.D., Myers E.W., Smith H.O., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [3] {ECO:0000313|Ensembl:ENSMUSP00000101159, ECO:0000313|Proteomes:UP000000589}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=C57BL/6J {ECO:0000313|Ensembl:ENSMUSP00000101159,
+RC   ECO:0000313|Proteomes:UP000000589};
+RX   PubMed=19468303; DOI=10.1371/journal.pbio.1000112;
+RA   Church D.M., Goodstadt L., Hillier L.W., Zody M.C., Goldstein S.,
+RA   She X., Bult C.J., Agarwala R., Cherry J.L., DiCuccio M., Hlavina W.,
+RA   Kapustin Y., Meric P., Maglott D., Birtle Z., Marques A.C., Graves T.,
+RA   Zhou S., Teague B., Potamousis K., Churas C., Place M., Herschleb J.,
+RA   Runnheim R., Forrest D., Amos-Landgraf J., Schwartz D.C., Cheng Z.,
+RA   Lindblad-Toh K., Eichler E.E., Ponting C.P.;
+RT   "Lineage-specific biology revealed by a finished genome assembly of
+RT   the mouse.";
+RL   PLoS Biol. 7:E1000112-E1000112(2009).
+RN   [4] {ECO:0000213|PubMed:21183079}
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21183079; DOI=10.1016/j.cell.2010.12.001;
+RA   Huttlin E.L., Jedrychowski M.P., Elias J.E., Goswami T., Rad R.,
+RA   Beausoleil S.A., Villen J., Haas W., Sowa M.E., Gygi S.P.;
+RT   "A tissue-specific atlas of mouse protein phosphorylation and
+RT   expression.";
+RL   Cell 143:1174-1189(2010).
+RN   [5] {ECO:0000313|Ensembl:ENSMUSP00000101159}
+RP   IDENTIFICATION.
+RC   STRAIN=C57BL/6J {ECO:0000313|Ensembl:ENSMUSP00000101159};
+RG   Ensembl;
+RL   Submitted (SEP-2011) to UniProtKB.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AC099695; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC158616; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH466540; EDL04787.1; -; Genomic_DNA.
+DR   RefSeq; NP_032839.3; NM_008813.4.
+DR   UniGene; Mm.27254; -.
+DR   UniGene; Mm.478860; -.
+DR   STRING; 10090.ENSMUSP00000101159; -.
+DR   Ensembl; ENSMUST00000105520; ENSMUSP00000101159; ENSMUSG00000037370.
+DR   GeneID; 18605; -.
+DR   KEGG; mmu:18605; -.
+DR   UCSC; uc007eqx.1; mouse.
+DR   CTD; 5167; -.
+DR   MGI; MGI:97370; Enpp1.
+DR   GeneTree; ENSGT00760000119157; -.
+DR   KO; K01513; -.
+DR   OrthoDB; EOG7XM2X4; -.
+DR   TreeFam; TF330032; -.
+DR   NextBio; 294518; -.
+DR   Proteomes; UP000000589; Chromosome 10.
+DR   GO; GO:0009986; C:cell surface; ISO:MGI.
+DR   GO; GO:0005615; C:extracellular space; ISO:MGI.
+DR   GO; GO:0005765; C:lysosomal membrane; ISO:MGI.
+DR   GO; GO:0005886; C:plasma membrane; ISO:MGI.
+DR   GO; GO:0005524; F:ATP binding; ISO:MGI.
+DR   GO; GO:0005158; F:insulin receptor binding; ISO:MGI.
+DR   GO; GO:0046872; F:metal ion binding; IEA:InterPro.
+DR   GO; GO:0003676; F:nucleic acid binding; IEA:InterPro.
+DR   GO; GO:0047429; F:nucleoside-triphosphate diphosphatase activity; ISO:MGI.
+DR   GO; GO:0004551; F:nucleotide diphosphatase activity; ISO:MGI.
+DR   GO; GO:0004528; F:phosphodiesterase I activity; IEA:InterPro.
+DR   GO; GO:0030247; F:polysaccharide binding; IEA:InterPro.
+DR   GO; GO:0042803; F:protein homodimerization activity; ISO:MGI.
+DR   GO; GO:0005044; F:scavenger receptor activity; IEA:InterPro.
+DR   GO; GO:0050427; P:3'-phosphoadenosine 5'-phosphosulfate metabolic process; ISO:MGI.
+DR   GO; GO:0046849; P:bone remodeling; IMP:MGI.
+DR   GO; GO:0030643; P:cellular phosphate ion homeostasis; ISO:MGI.
+DR   GO; GO:0032869; P:cellular response to insulin stimulus; ISO:MGI.
+DR   GO; GO:0006091; P:generation of precursor metabolites and energy; ISO:MGI.
+DR   GO; GO:0006955; P:immune response; IEA:InterPro.
+DR   GO; GO:0030505; P:inorganic diphosphate transport; ISO:MGI.
+DR   GO; GO:0030308; P:negative regulation of cell growth; ISO:MGI.
+DR   GO; GO:0045599; P:negative regulation of fat cell differentiation; ISO:MGI.
+DR   GO; GO:0046325; P:negative regulation of glucose import; ISO:MGI.
+DR   GO; GO:0045719; P:negative regulation of glycogen biosynthetic process; ISO:MGI.
+DR   GO; GO:0046627; P:negative regulation of insulin receptor signaling pathway; ISO:MGI.
+DR   GO; GO:0030279; P:negative regulation of ossification; IMP:MGI.
+DR   GO; GO:0031953; P:negative regulation of protein autophosphorylation; ISO:MGI.
+DR   GO; GO:0009143; P:nucleoside triphosphate catabolic process; ISO:MGI.
+DR   GO; GO:0006796; P:phosphate-containing compound metabolic process; ISO:MGI.
+DR   GO; GO:0030730; P:sequestering of triglyceride; ISO:MGI.
+DR   Gene3D; 3.40.570.10; -; 1.
+DR   Gene3D; 3.40.720.10; -; 1.
+DR   InterPro; IPR017849; Alkaline_Pase-like_a/b/a.
+DR   InterPro; IPR017850; Alkaline_phosphatase_core.
+DR   InterPro; IPR001604; DNA/RNA_non-sp_Endonuclease.
+DR   InterPro; IPR024873; E-NPP.
+DR   InterPro; IPR029890; ENPP1.
+DR   InterPro; IPR020821; Extracellular_endonuc_su_A.
+DR   InterPro; IPR002591; Phosphodiest/P_Trfase.
+DR   InterPro; IPR020436; Somatomedin_B_chordata.
+DR   InterPro; IPR001212; Somatomedin_B_dom.
+DR   PANTHER; PTHR10151; PTHR10151; 1.
+DR   PANTHER; PTHR10151:SF64; PTHR10151:SF64; 1.
+DR   Pfam; PF01223; Endonuclease_NS; 1.
+DR   Pfam; PF01663; Phosphodiest; 1.
+DR   Pfam; PF01033; Somatomedin_B; 2.
+DR   PRINTS; PR00022; SOMATOMEDINB.
+DR   SMART; SM00892; Endonuclease_NS; 1.
+DR   SMART; SM00477; NUC; 1.
+DR   SMART; SM00201; SO; 2.
+DR   SUPFAM; SSF53649; SSF53649; 1.
+DR   PROSITE; PS00524; SMB_1; 2.
+DR   PROSITE; PS50958; SMB_2; 2.
+PE   1: Evidence at protein level;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000589};
+KW   Proteomics identification {ECO:0000213|MaxQB:G3X9S2,
+KW   ECO:0000213|PeptideAtlas:G3X9S2};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000589}.
+SQ   SEQUENCE   905 AA;  103026 MW;  E243DA170C212A3C CRC64;
+     MERDGDQAGH GPRHGSAGNG RELESPAAAS LLAPMDLGEE PLEKAERARP AKDPNTYKVL
+     SLVLSVCVLT TILGCIFGLK PSCAKEVKSC KGRCFERTFS NCRCDAACVS LGNCCLDFQE
+     TCVEPTHIWT CNKFRCGEKR LSRFVCSCAD DCKTHNDCCI NYSSVCQDKK SWVEETCESI
+     DTPECPAEFE SPPTLLFSLD GFRAEYLHTW GGLLPVISKL KNCGTYTKNM RPMYPTKTFP
+     NHYSIVTGLY PESHGIIDNK MYDPKMNASF SLKSKEKFNP LWYKGQPIWV TANHQEVKSG
+     TYFWPGSDVE IDGILPDIYK VYNGSVPFEE RILAVLEWLQ LPSHERPHFY TLYLEEPDSS
+     GHSHGPVSSE VIKALQKVDR LVGMLMDGLK DLGLDKCLNL ILISDHGMEQ GSCKKYVYLN
+     KYLGDVNNVK VVYGPAARLR PTDVPETYYS FNYEALAKNL SCREPNQHFR PYLKPFLPKR
+     LHFAKSDRIE PLTFYLDPQW QLALNPSERK YCGSGFHGSD NLFSNMQALF IGYGPAFKHG
+     AEVDSFENIE VYNLMCDLLG LIPAPNNGSH GSLNHLLKKP IYNPSHPKEE GFLSQCPIKS
+     TSNDLGCTCD PWIVPIKDFE KQLNLTTEDD DIYHMTVPYG RPRILLKQHR VCLLQQQQFL
+     TGYSLDLLMP LWASYTFLSN DQFSRDDFSN CLYQDLRIPL SPVHKCSYYK SNSKLSYGFL
+     TPPRLNRVSN HIYSEALLTS NIVPMYQSFQ VIWHYLHDTL LQRYAHERNG INVVSGPVFD
+     FDYDGRYDSL EILKQNSRVI RSQEILIPTH FFIVLTSCKQ LSETPLECSA LESSAYILPH
+     RPDNIESCTH GKRESSWVEE LLTLHRARVT DVELITGLSF YQDRQESVSE LLRLKTHLPI
+     FSQED
+//

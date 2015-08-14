@@ -1,0 +1,191 @@
+ID   CAD13_CHICK             Reviewed;         712 AA.
+AC   P33150; Q91353;
+DT   01-OCT-1993, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-1993, sequence version 1.
+DT   04-FEB-2015, entry version 114.
+DE   RecName: Full=Cadherin-13;
+DE   AltName: Full=Truncated cadherin;
+DE            Short=T-cad;
+DE            Short=T-cadherin;
+DE   Flags: Precursor;
+GN   Name=CDH13;
+OS   Gallus gallus (Chicken).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+OC   Coelurosauria; Aves; Neognathae; Galloanserae; Galliformes;
+OC   Phasianidae; Phasianinae; Gallus.
+OX   NCBI_TaxID=9031;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), AND PARTIAL PROTEIN SEQUENCE.
+RC   TISSUE=Embryonic brain;
+RX   PubMed=1654948; DOI=10.1016/0896-6273(91)90291-7;
+RA   Ranscht B., Dours-Zimmermann M.T.;
+RT   "T-cadherin, a novel cadherin cell adhesion molecule in the nervous
+RT   system lacks the conserved cytoplasmic region.";
+RL   Neuron 7:391-402(1991).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2).
+RX   PubMed=8315665; DOI=10.1002/jnr.490340610;
+RA   Sacristan M.P., Vestal D.J., Dours-Zimmermann M.T., Ranscht B.;
+RT   "T-cadherin 2: molecular characterization, function in cell adhesion,
+RT   and coexpression with T-cadherin and N-cadherin.";
+RL   J. Neurosci. Res. 34:664-680(1993).
+RN   [3]
+RP   CHARACTERIZATION.
+RX   PubMed=1400585; DOI=10.1083/jcb.119.2.451;
+RA   Vestal D.J., Ranscht B.;
+RT   "Glycosyl phosphatidylinositol-anchored T-cadherin mediates calcium-
+RT   dependent, homophilic cell adhesion.";
+RL   J. Cell Biol. 119:451-461(1992).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (2.9 ANGSTROMS) OF 140-355, AND SUBUNIT.
+RX   PubMed=20190755; DOI=10.1038/nsmb.1781;
+RA   Ciatto C., Bahna F., Zampieri N., VanSteenhouse H.C., Katsamba P.S.,
+RA   Ahlsen G., Harrison O.J., Brasch J., Jin X., Posy S., Vendome J.,
+RA   Ranscht B., Jessell T.M., Honig B., Shapiro L.;
+RT   "T-cadherin structures reveal a novel adhesive binding mechanism.";
+RL   Nat. Struct. Mol. Biol. 17:339-347(2010).
+CC   -!- FUNCTION: Cadherins are calcium-dependent cell adhesion proteins.
+CC       They preferentially interact with themselves in a homophilic
+CC       manner in connecting cells; cadherins may thus contribute to the
+CC       sorting of heterogeneous cell types. May act as a negative
+CC       regulator of neural cell growth.
+CC   -!- SUBUNIT: By contrast to classical cadherins, homodimerization in
+CC       trans is not mediated by cadherin EC1 domain strand-swapping, but
+CC       instead through a homophilic adhesive interface which joins two
+CC       elongated EC1-EC2 domains through a region near their Ca2+-binding
+CC       sites to form a tetrahedral, X-like shape.
+CC       {ECO:0000269|PubMed:20190755}.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane; Lipid-anchor, GPI-anchor.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1; Synonyms=T-Cad1;
+CC         IsoId=P33150-1; Sequence=Displayed;
+CC       Name=2; Synonyms=T-Cad2;
+CC         IsoId=P33150-2; Sequence=VSP_000642;
+CC   -!- TISSUE SPECIFICITY: Neural tissues. Also found in muscles; kidney
+CC       and retina.
+CC   -!- DOMAIN: Three calcium ions are usually bound at the interface of
+CC       each cadherin domain and rigidify the connections, imparting a
+CC       strong curvature to the full-length ectodomain. {ECO:0000250}.
+CC   -!- SIMILARITY: Contains 5 cadherin domains. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00043}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M81779; AAA49079.1; -; mRNA.
+DR   EMBL; S62757; AAB27242.1; -; mRNA.
+DR   PIR; I51206; I51206.
+DR   PIR; JU0279; IJMSCT.
+DR   RefSeq; NP_001001760.1; NM_001001760.1. [P33150-2]
+DR   UniGene; Gga.24273; -.
+DR   PDB; 3K5S; X-ray; 2.90 A; A/B=140-355.
+DR   PDB; 3K6I; X-ray; 1.13 A; A=140-237.
+DR   PDBsum; 3K5S; -.
+DR   PDBsum; 3K6I; -.
+DR   ProteinModelPortal; P33150; -.
+DR   SMR; P33150; 139-243.
+DR   DIP; DIP-58996N; -.
+DR   STRING; 9031.ENSGALP00000038306; -.
+DR   PaxDb; P33150; -.
+DR   GeneID; 414849; -.
+DR   KEGG; gga:414849; -.
+DR   CTD; 1012; -.
+DR   eggNOG; NOG304703; -.
+DR   HOGENOM; HOG000231254; -.
+DR   HOVERGEN; HBG106438; -.
+DR   InParanoid; P33150; -.
+DR   KO; K06808; -.
+DR   PhylomeDB; P33150; -.
+DR   EvolutionaryTrace; P33150; -.
+DR   NextBio; 20818745; -.
+DR   PRO; PR:P33150; -.
+DR   Proteomes; UP000000539; Unplaced.
+DR   GO; GO:0031225; C:anchored component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0005886; C:plasma membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005509; F:calcium ion binding; IEA:InterPro.
+DR   GO; GO:0007156; P:homophilic cell adhesion via plasma membrane adhesion molecules; IEA:InterPro.
+DR   Gene3D; 2.60.40.60; -; 6.
+DR   InterPro; IPR002126; Cadherin.
+DR   InterPro; IPR015919; Cadherin-like.
+DR   InterPro; IPR020894; Cadherin_CS.
+DR   InterPro; IPR014868; Cadherin_pro_dom.
+DR   Pfam; PF00028; Cadherin; 5.
+DR   Pfam; PF08758; Cadherin_pro; 1.
+DR   PRINTS; PR00205; CADHERIN.
+DR   SMART; SM00112; CA; 5.
+DR   SMART; SM01055; Cadherin_pro; 1.
+DR   SUPFAM; SSF49313; SSF49313; 6.
+DR   PROSITE; PS00232; CADHERIN_1; 3.
+DR   PROSITE; PS50268; CADHERIN_2; 5.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Calcium; Cell adhesion;
+KW   Cell membrane; Cleavage on pair of basic residues; Complete proteome;
+KW   Direct protein sequencing; Glycoprotein; GPI-anchor; Lipoprotein;
+KW   Membrane; Metal-binding; Reference proteome; Repeat; Signal.
+FT   SIGNAL        1     22       {ECO:0000255}.
+FT   PROPEP       23    138       {ECO:0000250}.
+FT                                /FTId=PRO_0000003802.
+FT   CHAIN       139    693       Cadherin-13.
+FT                                /FTId=PRO_0000003803.
+FT   PROPEP      694    712       Removed in mature form. {ECO:0000255}.
+FT                                /FTId=PRO_0000003804.
+FT   DOMAIN      143    245       Cadherin 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00043}.
+FT   DOMAIN      246    363       Cadherin 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00043}.
+FT   DOMAIN      364    477       Cadherin 3. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00043}.
+FT   DOMAIN      478    585       Cadherin 4. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00043}.
+FT   DOMAIN      586    680       Cadherin 5. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00043}.
+FT   LIPID       693    693       GPI-anchor amidated aspartate.
+FT                                {ECO:0000255}.
+FT   CARBOHYD     86     86       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    382    382       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    500    500       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    530    530       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    638    638       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    671    671       N-linked (GlcNAc...). {ECO:0000255}.
+FT   VAR_SEQ     712    712       L -> KSFPYV (in isoform 2).
+FT                                {ECO:0000303|PubMed:8315665}.
+FT                                /FTId=VSP_000642.
+FT   STRAND      145    148       {ECO:0000244|PDB:3K6I}.
+FT   STRAND      153    155       {ECO:0000244|PDB:3K6I}.
+FT   STRAND      157    161       {ECO:0000244|PDB:3K6I}.
+FT   STRAND      169    178       {ECO:0000244|PDB:3K6I}.
+FT   TURN        179    181       {ECO:0000244|PDB:3K6I}.
+FT   STRAND      182    184       {ECO:0000244|PDB:3K6I}.
+FT   STRAND      187    190       {ECO:0000244|PDB:3K6I}.
+FT   TURN        192    194       {ECO:0000244|PDB:3K6I}.
+FT   STRAND      196    199       {ECO:0000244|PDB:3K6I}.
+FT   TURN        205    207       {ECO:0000244|PDB:3K6I}.
+FT   STRAND      210    219       {ECO:0000244|PDB:3K6I}.
+FT   STRAND      224    236       {ECO:0000244|PDB:3K6I}.
+FT   STRAND      250    257       {ECO:0000244|PDB:3K5S}.
+FT   STRAND      263    266       {ECO:0000244|PDB:3K5S}.
+FT   STRAND      277    280       {ECO:0000244|PDB:3K5S}.
+FT   STRAND      283    290       {ECO:0000244|PDB:3K5S}.
+FT   STRAND      299    301       {ECO:0000244|PDB:3K5S}.
+FT   TURN        303    305       {ECO:0000244|PDB:3K5S}.
+FT   STRAND      307    310       {ECO:0000244|PDB:3K5S}.
+FT   STRAND      314    317       {ECO:0000244|PDB:3K5S}.
+FT   STRAND      319    335       {ECO:0000244|PDB:3K5S}.
+FT   HELIX       336    338       {ECO:0000244|PDB:3K5S}.
+FT   STRAND      344    354       {ECO:0000244|PDB:3K5S}.
+SQ   SEQUENCE   712 AA;  78381 MW;  572F5576E0D231B1 CRC64;
+     MQHKTQLTLS FLLSQVLLLA CAEDLECTPG FQQKVFYIEQ PFEFTEDQPI LNLVFDDCKG
+     NNKLNFEVSN PDFKVEHDGS LVALKNVSEA GRALFVHARS EHAEDMAEIL IVGADEKHDA
+     LKEIFKIEGN LGIPRQKRAI LATPILIPEN QRPPFPRSVG KVIRSEGTEG AKFRLSGKGV
+     DQDPKGIFRI NEISGDVSVT RPLDREAIAN YELEVEVTDL SGKIIDGPVR LDISVIDQND
+     NRPMFKEGPY VGHVMEGSPT GTTVMRMTAF DADDPSTDNA LLRYNILKQT PTKPSPNMFY
+     IDPEKGDIVT VVSPVLLDRE TMETPKYELV IEAKDMGGHD VGLTGTATAT ILIDDKNDHP
+     PEFTKKEFQA TVKEGVTGVI VNLTVGDRDD PATGAWRAVY TIINGNPGQS FEIHTNPQTN
+     EGMLSVVKPL DYEISAFHTL LIKVENEDPL IPDIAYGPSS TATVQITVED VNEGPVFHPN
+     PMTVTKQENI PIGSIVLTVN ATDPDTLQHQ TIRYSVYKDP ASWLEINPTN GTVATTAVLD
+     RESPHVQDNK YTALFLAIDS GNPPATGTGT LHITLEDVND NVPSLYPTLA KVCDDAKDLR
+     VVVLGASDKD LHPNTDPFKF ELSKQSGPEK LWRINKLNNT HAQVVLLQNL KKANYNIPIS
+     VTDSGKPPLT NNTELKLQVC SCKKSRMDCS ASDALHISMT LILLSLFSLF CL
+//

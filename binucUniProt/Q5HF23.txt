@@ -1,0 +1,142 @@
+ID   PEPVL_STAAC             Reviewed;         469 AA.
+AC   Q5HF23; Q9KWZ7;
+DT   03-APR-2007, integrated into UniProtKB/Swiss-Prot.
+DT   15-FEB-2005, sequence version 1.
+DT   22-JUL-2015, entry version 79.
+DE   RecName: Full=Putative dipeptidase SACOL1801;
+DE            EC=3.4.13.-;
+GN   OrderedLocusNames=SACOL1801;
+OS   Staphylococcus aureus (strain COL).
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcus.
+OX   NCBI_TaxID=93062;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=10566865; DOI=10.1089/mdr.1999.5.163;
+RA   de Lencastre H., Wu S.-W., Pinho M.G., Ludovice A.M., Filipe S.,
+RA   Gardete S., Sobral R., Gill S.R., Chung M., Tomasz A.;
+RT   "Antibiotic resistance as a stress response: complete sequencing of a
+RT   large number of chromosomal loci in Staphylococcus aureus strain COL
+RT   that impact on the expression of resistance to methicillin.";
+RL   Microb. Drug Resist. 5:163-175(1999).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=COL;
+RX   PubMed=15774886; DOI=10.1128/JB.187.7.2426-2438.2005;
+RA   Gill S.R., Fouts D.E., Archer G.L., Mongodin E.F., DeBoy R.T.,
+RA   Ravel J., Paulsen I.T., Kolonay J.F., Brinkac L.M., Beanan M.J.,
+RA   Dodson R.J., Daugherty S.C., Madupu R., Angiuoli S.V., Durkin A.S.,
+RA   Haft D.H., Vamathevan J.J., Khouri H., Utterback T.R., Lee C.,
+RA   Dimitrov G., Jiang L., Qin H., Weidman J., Tran K., Kang K.H.,
+RA   Hance I.R., Nelson K.E., Fraser C.M.;
+RT   "Insights on evolution of virulence and resistance from the complete
+RT   genome analysis of an early methicillin-resistant Staphylococcus
+RT   aureus strain and a biofilm-producing methicillin-resistant
+RT   Staphylococcus epidermidis strain.";
+RL   J. Bacteriol. 187:2426-2438(2005).
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000250};
+CC       Note=Binds 2 Zn(2+) ions per subunit. {ECO:0000250};
+CC   -!- SIMILARITY: Belongs to the peptidase M20A family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; Y14816; CAB82474.1; -; Genomic_DNA.
+DR   EMBL; CP000046; AAW38329.1; -; Genomic_DNA.
+DR   RefSeq; WP_000265417.1; NC_002951.2.
+DR   PDB; 3KHX; X-ray; 2.30 A; A/B=1-469.
+DR   PDB; 3KHZ; X-ray; 2.50 A; A/B=1-469.
+DR   PDB; 3KI9; X-ray; 2.90 A; A=1-469.
+DR   PDBsum; 3KHX; -.
+DR   PDBsum; 3KHZ; -.
+DR   PDBsum; 3KI9; -.
+DR   ProteinModelPortal; Q5HF23; -.
+DR   SMR; Q5HF23; 1-469.
+DR   STRING; 93062.SACOL1801; -.
+DR   EnsemblBacteria; AAW38329; AAW38329; SACOL1801.
+DR   GeneID; 23197546; -.
+DR   KEGG; sac:SACOL1801; -.
+DR   PATRIC; 19529805; VBIStaAur112458_1758.
+DR   eggNOG; COG0624; -.
+DR   HOGENOM; HOG000024359; -.
+DR   KO; K01439; -.
+DR   OMA; IYAQAIY; -.
+DR   OrthoDB; EOG6FNHN8; -.
+DR   BioCyc; SAUR93062:GCEP-1762-MONOMER; -.
+DR   EvolutionaryTrace; Q5HF23; -.
+DR   Proteomes; UP000000530; Chromosome.
+DR   GO; GO:0016805; F:dipeptidase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0008237; F:metallopeptidase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:InterPro.
+DR   Gene3D; 3.30.70.360; -; 2.
+DR   InterPro; IPR010964; M20A_pepV-rel.
+DR   InterPro; IPR002933; Peptidase_M20.
+DR   InterPro; IPR011650; Peptidase_M20_dimer.
+DR   Pfam; PF01546; Peptidase_M20; 1.
+DR   SUPFAM; SSF55031; SSF55031; 1.
+DR   TIGRFAMs; TIGR01887; dipeptidaselike; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Dipeptidase; Hydrolase;
+KW   Metal-binding; Metalloprotease; Protease; Zinc.
+FT   CHAIN         1    469       Putative dipeptidase SACOL1801.
+FT                                /FTId=PRO_0000282625.
+FT   ACT_SITE     86     86       {ECO:0000250}.
+FT   ACT_SITE    149    149       Proton acceptor. {ECO:0000250}.
+FT   METAL        84     84       Zinc 2. {ECO:0000250}.
+FT   METAL       115    115       Zinc 1. {ECO:0000250}.
+FT   METAL       115    115       Zinc 2. {ECO:0000250}.
+FT   METAL       150    150       Zinc 1. {ECO:0000250}.
+FT   METAL       173    173       Zinc 2. {ECO:0000250}.
+FT   METAL       440    440       Zinc 1. {ECO:0000250}.
+FT   HELIX         3      7       {ECO:0000244|PDB:3KHX}.
+FT   HELIX        10     21       {ECO:0000244|PDB:3KHX}.
+FT   STRAND       29     31       {ECO:0000244|PDB:3KHX}.
+FT   STRAND       34     36       {ECO:0000244|PDB:3KHX}.
+FT   HELIX        40     55       {ECO:0000244|PDB:3KHX}.
+FT   STRAND       59     63       {ECO:0000244|PDB:3KHX}.
+FT   TURN         64     66       {ECO:0000244|PDB:3KHX}.
+FT   STRAND       67     73       {ECO:0000244|PDB:3KHX}.
+FT   STRAND       78     84       {ECO:0000244|PDB:3KHX}.
+FT   STRAND      105    110       {ECO:0000244|PDB:3KHX}.
+FT   TURN        111    116       {ECO:0000244|PDB:3KHX}.
+FT   HELIX       117    132       {ECO:0000244|PDB:3KHX}.
+FT   STRAND      138    146       {ECO:0000244|PDB:3KHX}.
+FT   TURN        149    151       {ECO:0000244|PDB:3KI9}.
+FT   HELIX       158    162       {ECO:0000244|PDB:3KHX}.
+FT   STRAND      167    170       {ECO:0000244|PDB:3KHX}.
+FT   STRAND      179    182       {ECO:0000244|PDB:3KI9}.
+FT   STRAND      184    192       {ECO:0000244|PDB:3KHX}.
+FT   STRAND      203    211       {ECO:0000244|PDB:3KHX}.
+FT   STRAND      214    217       {ECO:0000244|PDB:3KHZ}.
+FT   STRAND      221    228       {ECO:0000244|PDB:3KHX}.
+FT   HELIX       232    245       {ECO:0000244|PDB:3KHX}.
+FT   STRAND      249    255       {ECO:0000244|PDB:3KHX}.
+FT   STRAND      258    264       {ECO:0000244|PDB:3KHX}.
+FT   HELIX       273    275       {ECO:0000244|PDB:3KHX}.
+FT   HELIX       279    287       {ECO:0000244|PDB:3KHX}.
+FT   HELIX       294    306       {ECO:0000244|PDB:3KHX}.
+FT   TURN        307    309       {ECO:0000244|PDB:3KHX}.
+FT   HELIX       314    316       {ECO:0000244|PDB:3KHX}.
+FT   TURN        323    325       {ECO:0000244|PDB:3KHZ}.
+FT   STRAND      329    338       {ECO:0000244|PDB:3KHX}.
+FT   TURN        339    341       {ECO:0000244|PDB:3KHX}.
+FT   STRAND      344    351       {ECO:0000244|PDB:3KHX}.
+FT   HELIX       357    368       {ECO:0000244|PDB:3KHX}.
+FT   HELIX       369    371       {ECO:0000244|PDB:3KHX}.
+FT   STRAND      373    381       {ECO:0000244|PDB:3KHX}.
+FT   HELIX       387    389       {ECO:0000244|PDB:3KHX}.
+FT   HELIX       391    401       {ECO:0000244|PDB:3KHX}.
+FT   STRAND      411    413       {ECO:0000244|PDB:3KI9}.
+FT   HELIX       419    421       {ECO:0000244|PDB:3KI9}.
+FT   STRAND      445    447       {ECO:0000244|PDB:3KHX}.
+FT   HELIX       448    466       {ECO:0000244|PDB:3KHX}.
+SQ   SEQUENCE   469 AA;  52824 MW;  589267D3EEC82350 CRC64;
+     MWKEKVQQYE DQIINDLKGL LAIESVRDDA KASEDAPVGP GPRKALDYMY EIAHRDGFTT
+     HDVDHIAGRI EAGKGNDVLG ILCHVDVVPA GDGWDSNPFE PVVTEDAIIA RGTLDDKGPT
+     IAAYYAIKIL EDMNVDWKKR IHMIIGTDEE SDWKCTDRYF KTEEMPTLGF APDAEFPCIH
+     GEKGITTFDL VQNKLTEDQD EPDYELITFK SGERYNMVPD HAEARVLVKE NMTDVIQDFE
+     YFLEQNHLQG DSTVDSGILV LTVEGKAVHG MDPSIGVNAG LYLLKFLASL NLDNNAQAFV
+     AFSNRYLFNS DFGEKMGMKF HTDVMGDVTT NIGVITYDNE NAGLFGINLR YPEGFEFEKA
+     MDRFANEIQQ YGFEVKLGKV QPPHYVDKND PFVQKLVTAY RNQTNDMTEP YTIGGGTYAR
+     NLDKGVAFGA MFSDSEDLMH QKNEYITKKQ LFNATSIYLE AIYSLCVEE
+//

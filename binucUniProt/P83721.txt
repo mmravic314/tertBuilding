@@ -1,0 +1,119 @@
+ID   LEC1_CRAMO              Reviewed;         234 AA.
+AC   P83721;
+DT   16-FEB-2004, integrated into UniProtKB/Swiss-Prot.
+DT   02-FEB-2004, sequence version 1.
+DT   27-MAY-2015, entry version 60.
+DE   RecName: Full=Mannose/glucose-specific lectin Cramoll;
+DE   AltName: Full=Iso1;
+DE   Contains:
+DE     RecName: Full=Cramoll alpha chain;
+DE   Contains:
+DE     RecName: Full=Cramoll beta chain;
+DE   Flags: Fragments;
+OS   Cratylia mollis (Camaratu bean).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+OC   Phaseoleae; Cratylia.
+OX   NCBI_TaxID=252530 {ECO:0000305};
+RN   [1] {ECO:0000305}
+RP   PROTEIN SEQUENCE, SUBUNIT, METAL-BINDING, AND X-RAY CRYSTALLOGRAPHY
+RP   (1.77 ANGSTROMS).
+RC   TISSUE=Seed {ECO:0000269|PubMed:12966038};
+RX   PubMed=12966038; DOI=10.1093/glycob/cwg115;
+RA   De Souza G.A., Oliveira P.S.L., Trapani S., Santos A.C.O., Rosa J.C.,
+RA   Laure H.J., Faca V.M., Correia M.T.S., Tavares G.A., Oliva G.,
+RA   Coelho L.C.B.B., Greene L.J.;
+RT   "Amino acid sequence and tertiary structure of Cratylia mollis seed
+RT   lectin.";
+RL   Glycobiology 13:961-972(2003).
+RN   [2] {ECO:0000305}
+RP   FUNCTION.
+RX   PubMed=8579345; DOI=10.1007/BF02786865;
+RA   Correia M.T.S., Coelho L.C.B.B.;
+RT   "Purification of a glucose/mannose specific lectin, isoform 1, from
+RT   seeds of Cratylia mollis Mart. (Camaratu bean).";
+RL   Appl. Biochem. Biotechnol. 55:261-273(1995).
+CC   -!- FUNCTION: Glucose/D-mannose specific lectin.
+CC       {ECO:0000269|PubMed:8579345}.
+CC   -!- SUBUNIT: Homotetramer. {ECO:0000269|PubMed:12966038}.
+CC   -!- PTM: The alpha and beta chains are produced by partial proteolytic
+CC       processing of the lectin precursor by an asparaginyl
+CC       endopeptidase. {ECO:0000303|PubMed:12966038}.
+CC   -!- MISCELLANEOUS: Binds one manganese (or another transition metal)
+CC       ion and one calcium ion. The metal ions are essential for the
+CC       saccharide-binding and cell-agglutinating activities.
+CC   -!- SIMILARITY: Belongs to the leguminous lectin family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   PDB; 1MVQ; X-ray; 1.77 A; A=1-234.
+DR   PDBsum; 1MVQ; -.
+DR   ProteinModelPortal; P83721; -.
+DR   SMR; P83721; 1-234.
+DR   EvolutionaryTrace; P83721; -.
+DR   GO; GO:0005536; F:glucose binding; IDA:UniProtKB.
+DR   GO; GO:0005537; F:mannose binding; IDA:UniProtKB.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 2.60.120.200; -; 2.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR000985; Lectin_LegA_CS.
+DR   InterPro; IPR019825; Lectin_legB_Mn/Ca_BS.
+DR   InterPro; IPR001220; Legume_lectin_dom.
+DR   Pfam; PF00139; Lectin_legB; 2.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   PROSITE; PS00308; LECTIN_LEGUME_ALPHA; 1.
+DR   PROSITE; PS00307; LECTIN_LEGUME_BETA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Calcium; Direct protein sequencing; Lectin; Manganese;
+KW   Mannose-binding; Metal-binding.
+FT   CHAIN         1    116       Cramoll alpha chain. {ECO:0000250}.
+FT                                /FTId=PRO_0000017591.
+FT   CHAIN       117    234       Cramoll beta chain. {ECO:0000250}.
+FT                                /FTId=PRO_0000017592.
+FT   REGION       99    100       Carbohydrate binding. {ECO:0000250}.
+FT   METAL         8      8       Manganese.
+FT   METAL        10     10       Calcium.
+FT   METAL        10     10       Manganese.
+FT   METAL        12     12       Calcium; via carbonyl oxygen.
+FT   METAL        14     14       Calcium.
+FT   METAL        19     19       Calcium.
+FT   METAL        19     19       Manganese.
+FT   METAL        24     24       Manganese.
+FT   METAL        34     34       Manganese.
+FT   METAL       205    205       Calcium.
+FT   BINDING      12     12       Carbohydrate. {ECO:0000250}.
+FT   BINDING     225    225       Carbohydrate; via amide nitrogen.
+FT                                {ECO:0000250}.
+FT   NON_CONS    114    115       {ECO:0000303|PubMed:12966038}.
+FT   STRAND        4     10       {ECO:0000244|PDB:1MVQ}.
+FT   HELIX        15     17       {ECO:0000244|PDB:1MVQ}.
+FT   STRAND       24     33       {ECO:0000244|PDB:1MVQ}.
+FT   STRAND       35     39       {ECO:0000244|PDB:1MVQ}.
+FT   STRAND       47     55       {ECO:0000244|PDB:1MVQ}.
+FT   TURN         56     59       {ECO:0000244|PDB:1MVQ}.
+FT   STRAND       60     67       {ECO:0000244|PDB:1MVQ}.
+FT   TURN         68     70       {ECO:0000244|PDB:1MVQ}.
+FT   STRAND       71     78       {ECO:0000244|PDB:1MVQ}.
+FT   HELIX        81     83       {ECO:0000244|PDB:1MVQ}.
+FT   STRAND       87     96       {ECO:0000244|PDB:1MVQ}.
+FT   STRAND       98    100       {ECO:0000244|PDB:1MVQ}.
+FT   STRAND      105    114       {ECO:0000244|PDB:1MVQ}.
+FT   STRAND      116    119       {ECO:0000244|PDB:1MVQ}.
+FT   STRAND      121    130       {ECO:0000244|PDB:1MVQ}.
+FT   STRAND      138    142       {ECO:0000244|PDB:1MVQ}.
+FT   STRAND      152    155       {ECO:0000244|PDB:1MVQ}.
+FT   STRAND      167    174       {ECO:0000244|PDB:1MVQ}.
+FT   STRAND      184    195       {ECO:0000244|PDB:1MVQ}.
+FT   STRAND      199    202       {ECO:0000244|PDB:1MVQ}.
+FT   STRAND      206    213       {ECO:0000244|PDB:1MVQ}.
+FT   HELIX       224    226       {ECO:0000244|PDB:1MVQ}.
+FT   TURN        227    229       {ECO:0000244|PDB:1MVQ}.
+SQ   SEQUENCE   234 AA;  25130 MW;  6DC1F3FF1D3C1C58 CRC64;
+     ADTIVAVELD TYPNTDIGDP SYQHIGINIK SIRSKATTRW DVQNGKVGTA HISYNSVAKR
+     LSAVVSYPGG SSATVSYDVD LNNILPEWVR VGLSASTGLY KETNTILSWS FTSKSNSTAD
+     AQSLHFTFNQ FSQSPKDLIL QGDASTDSDG NLQLTRVSNG SPQSDSVGRA LYYAPVHIWD
+     KSAVVASFDA TFTFLIKSPD REIADGIAFF IANTDSSIPH GSGGRLLGLF PDAN
+//

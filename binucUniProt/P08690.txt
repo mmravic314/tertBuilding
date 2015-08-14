@@ -1,0 +1,142 @@
+ID   ARSA1_ECOLX             Reviewed;         583 AA.
+AC   P08690;
+DT   01-JAN-1988, integrated into UniProtKB/Swiss-Prot.
+DT   01-JAN-1988, sequence version 1.
+DT   01-APR-2015, entry version 96.
+DE   RecName: Full=Arsenical pump-driving ATPase;
+DE            EC=3.6.3.16;
+DE   AltName: Full=Arsenical resistance ATPase;
+DE   AltName: Full=Arsenite-translocating ATPase;
+DE   AltName: Full=Arsenite-transporting ATPase;
+GN   Name=arsA;
+OS   Escherichia coli.
+OG   Plasmid R773.
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=562;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=3021763;
+RA   Chen C.-M., Misra T.K., Silver S., Rosen B.P.;
+RT   "Nucleotide sequence of the structural genes for an anion pump. The
+RT   plasmid-encoded arsenical resistance operon.";
+RL   J. Biol. Chem. 261:15030-15038(1986).
+RN   [2]
+RP   REVIEW.
+RX   PubMed=1704144; DOI=10.1016/0923-2508(90)90008-E;
+RA   Rosen B.P.;
+RT   "The plasmid-encoded arsenical resistance pump: an anion-translocating
+RT   ATPase.";
+RL   Res. Microbiol. 141:336-341(1990).
+CC   -!- FUNCTION: Anion-transporting ATPase. Catalyzes the extrusion of
+CC       the oxyanions arsenite, antimonite and arsenate. Maintenance of a
+CC       low intracellular concentration of oxyanion produces resistance to
+CC       the toxic agents.
+CC   -!- CATALYTIC ACTIVITY: ATP + H(2)O + arsenite(In) = ADP + phosphate +
+CC       arsenite(Out).
+CC   -!- SIMILARITY: Belongs to the arsA ATPase family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; J02591; AAA21094.1; -; Genomic_DNA.
+DR   PIR; A25937; A25937.
+DR   PDB; 1F48; X-ray; 2.30 A; A=1-583.
+DR   PDB; 1IHU; X-ray; 2.15 A; A=1-583.
+DR   PDB; 1II0; X-ray; 2.40 A; A/B=1-583.
+DR   PDB; 1II9; X-ray; 2.60 A; A/B=1-583.
+DR   PDBsum; 1F48; -.
+DR   PDBsum; 1IHU; -.
+DR   PDBsum; 1II0; -.
+DR   PDBsum; 1II9; -.
+DR   ProteinModelPortal; P08690; -.
+DR   SMR; P08690; 1-583.
+DR   DIP; DIP-16995N; -.
+DR   TCDB; 3.A.4.1.1; the arsenite-antimonite (arsab) efflux family.
+DR   PRIDE; P08690; -.
+DR   BRENDA; 3.6.3.16; 2026.
+DR   EvolutionaryTrace; P08690; -.
+DR   GO; GO:0015446; F:arsenite-transmembrane transporting ATPase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0071722; P:detoxification of arsenic-containing substance; IEA:InterPro.
+DR   Gene3D; 3.40.50.300; -; 2.
+DR   InterPro; IPR003593; AAA+_ATPase.
+DR   InterPro; IPR025723; Anion-transp_ATPase-like_dom.
+DR   InterPro; IPR027541; Ars_ATPase.
+DR   InterPro; IPR016300; ATPase_ArsA/GET3.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10803; PTHR10803; 1.
+DR   Pfam; PF02374; ArsA_ATPase; 3.
+DR   PIRSF; PIRSF001327; Arsenical_pump-driving_ATPase; 1.
+DR   SMART; SM00382; AAA; 2.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+DR   TIGRFAMs; TIGR04291; arsen_driv_ArsA; 1.
+DR   TIGRFAMs; TIGR00345; GET3_arsA_TRC40; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Arsenical resistance; ATP-binding; Hydrolase;
+KW   Nucleotide-binding; Plasmid.
+FT   CHAIN         1    583       Arsenical pump-driving ATPase.
+FT                                /FTId=PRO_0000152251.
+FT   NP_BIND      15     22       ATP. {ECO:0000255}.
+FT   NP_BIND     334    341       ATP. {ECO:0000255}.
+FT   HELIX         2      4       {ECO:0000244|PDB:1IHU}.
+FT   STRAND        9     14       {ECO:0000244|PDB:1IHU}.
+FT   HELIX        21     34       {ECO:0000244|PDB:1IHU}.
+FT   STRAND       39     43       {ECO:0000244|PDB:1IHU}.
+FT   HELIX        50     53       {ECO:0000244|PDB:1IHU}.
+FT   STRAND       71     75       {ECO:0000244|PDB:1IHU}.
+FT   HELIX        78     90       {ECO:0000244|PDB:1IHU}.
+FT   HELIX        91     93       {ECO:0000244|PDB:1IHU}.
+FT   TURN         94     96       {ECO:0000244|PDB:1IHU}.
+FT   HELIX        99    108       {ECO:0000244|PDB:1IHU}.
+FT   HELIX       112    128       {ECO:0000244|PDB:1IHU}.
+FT   HELIX       132    135       {ECO:0000244|PDB:1IHU}.
+FT   STRAND      137    143       {ECO:0000244|PDB:1IHU}.
+FT   HELIX       147    154       {ECO:0000244|PDB:1IHU}.
+FT   HELIX       156    159       {ECO:0000244|PDB:1IHU}.
+FT   STRAND      167    169       {ECO:0000244|PDB:1II0}.
+FT   HELIX       170    172       {ECO:0000244|PDB:1II0}.
+FT   HELIX       174    178       {ECO:0000244|PDB:1IHU}.
+FT   HELIX       183    194       {ECO:0000244|PDB:1IHU}.
+FT   TURN        196    198       {ECO:0000244|PDB:1IHU}.
+FT   STRAND      199    207       {ECO:0000244|PDB:1IHU}.
+FT   HELIX       209    225       {ECO:0000244|PDB:1IHU}.
+FT   STRAND      230    237       {ECO:0000244|PDB:1IHU}.
+FT   HELIX       240    243       {ECO:0000244|PDB:1IHU}.
+FT   HELIX       247    261       {ECO:0000244|PDB:1IHU}.
+FT   HELIX       265    268       {ECO:0000244|PDB:1IHU}.
+FT   STRAND      272    276       {ECO:0000244|PDB:1IHU}.
+FT   HELIX       285    290       {ECO:0000244|PDB:1IHU}.
+FT   HELIX       315    323       {ECO:0000244|PDB:1IHU}.
+FT   STRAND      328    333       {ECO:0000244|PDB:1IHU}.
+FT   HELIX       340    353       {ECO:0000244|PDB:1IHU}.
+FT   STRAND      358    363       {ECO:0000244|PDB:1IHU}.
+FT   STRAND      380    384       {ECO:0000244|PDB:1IHU}.
+FT   HELIX       387    403       {ECO:0000244|PDB:1IHU}.
+FT   HELIX       408    417       {ECO:0000244|PDB:1IHU}.
+FT   HELIX       421    432       {ECO:0000244|PDB:1IHU}.
+FT   TURN        433    435       {ECO:0000244|PDB:1IHU}.
+FT   HELIX       436    440       {ECO:0000244|PDB:1IHU}.
+FT   STRAND      442    447       {ECO:0000244|PDB:1IHU}.
+FT   HELIX       452    460       {ECO:0000244|PDB:1IHU}.
+FT   HELIX       482    486       {ECO:0000244|PDB:1IHU}.
+FT   TURN        488    490       {ECO:0000244|PDB:1IHU}.
+FT   STRAND      491    497       {ECO:0000244|PDB:1IHU}.
+FT   HELIX       501    516       {ECO:0000244|PDB:1IHU}.
+FT   STRAND      523    530       {ECO:0000244|PDB:1IHU}.
+FT   HELIX       538    555       {ECO:0000244|PDB:1IHU}.
+FT   TURN        556    558       {ECO:0000244|PDB:1IHU}.
+FT   STRAND      560    566       {ECO:0000244|PDB:1IHU}.
+FT   HELIX       575    582       {ECO:0000244|PDB:1IHU}.
+SQ   SEQUENCE   583 AA;  63188 MW;  658C5AF65E5E75F5 CRC64;
+     MQFLQNIPPY LFFTGKGGVG KTSISCATAI RLAEQGKRVL LVSTDPASNV GQVFSQTIGI
+     TIQAIASVPG LSALEIDPQA AAQQYRARIV DPIKGVLPDD VVSSINEQLS GACTTEIAAF
+     DEFTGLLTDA SLLTRFDHII FDTAPTGHTI RLLQLPGAWS SFIDSNPEGA SCLGPMAGLE
+     KQREQYAYAV EALSDPKRTR LVLVARLQKS TLQEVARTHL ELAAIGLKNQ YLVINGVLPK
+     TEAANDTLAA AIWEREQEAL ANLPADLAGL PTDTLFLQPV NMVGVSALSR LLSTQPVASP
+     SSDEYLQQRP DIPSLSALVD DIARNEHGLI MLMGKGGVGK TTMAAAIAVR LADMGFDVHL
+     TTSDPAAHLS MTLNGSLNNL QVSRIDPHEE TERYRQHVLE TKGKELDEAG KRLLEEDLRS
+     PCTEEIAVFQ AFSRVIREAG KRFVVMDTAP TGHTLLLLDA TGAYHREIAK KMGEKGHFTT
+     PMMLLQDPER TKVLLVTLPE TTPVLEAANL QADLERAGIH PWGWIINNSL SIADTRSPLL
+     RMRAQQELPQ IESVKRQHAS RVALVPVLAS EPTGIDKLKQ LAG
+//

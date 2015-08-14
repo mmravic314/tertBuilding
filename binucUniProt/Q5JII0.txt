@@ -1,0 +1,88 @@
+ID   Q5JII0_THEKO            Unreviewed;        75 AA.
+AC   Q5JII0; Q5H7P7;
+DT   15-FEB-2005, integrated into UniProtKB/TrEMBL.
+DT   15-FEB-2005, sequence version 1.
+DT   22-JUL-2015, entry version 83.
+DE   SubName: Full=Hydrogenase expression/formation protein HypC {ECO:0000313|EMBL:BAD86190.1};
+GN   Name=Tk-hypC {ECO:0000313|EMBL:BAD89077.1};
+GN   OrderedLocusNames=TK2001 {ECO:0000313|EMBL:BAD86190.1};
+OS   Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)
+OS   (Pyrococcus kodakaraensis (strain KOD1)).
+OC   Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae;
+OC   Thermococcus.
+OX   NCBI_TaxID=69014 {ECO:0000313|Proteomes:UP000000536};
+RN   [1] {ECO:0000313|EMBL:BAD89077.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Kanai T., Hirao Y., Atomi H., Imanaka T.;
+RT   "An archaeal HypC interacts both with the large subunit of [NiFe]-
+RT   hydrogenase and HypD.";
+RL   Submitted (JUL-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000313|EMBL:BAD86190.1, ECO:0000313|Proteomes:UP000000536}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC BAA-918 / JCM 12380 / KOD1
+RC   {ECO:0000313|Proteomes:UP000000536};
+RX   PubMed=15710748; DOI=10.1101/gr.3003105;
+RA   Fukui T., Atomi H., Kanai T., Matsumi R., Fujiwara S., Imanaka T.;
+RT   "Complete genome sequence of the hyperthermophilic archaeon
+RT   Thermococcus kodakaraensis KOD1 and comparison with Pyrococcus
+RT   genomes.";
+RL   Genome Res. 15:352-363(2005).
+RN   [3] {ECO:0000213|PDB:2Z1C}
+RP   X-RAY CRYSTALLOGRAPHY (1.80 ANGSTROMS).
+RX   PubMed=17612488; DOI=10.1016/j.molcel.2007.05.039;
+RA   Watanabe S., Matsumi R., Arai T., Atomi H., Imanaka T., Miki K.;
+RT   "Crystal structures of [NiFe] hydrogenase maturation proteins HypC,
+RT   HypD, and HypE: insights into cyanation reaction by thiol redox
+RT   signaling.";
+RL   Mol. Cell 27:29-40(2007).
+RN   [4] {ECO:0000213|PDB:3VYR, ECO:0000213|PDB:3VYS, ECO:0000213|PDB:3VYT}
+RP   X-RAY CRYSTALLOGRAPHY (2.25 ANGSTROMS) OF 2-75.
+RX   PubMed=23123111; DOI=10.1016/j.str.2012.09.018;
+RA   Watanabe S., Matsumi R., Atomi H., Imanaka T., Miki K.;
+RT   "Crystal structures of the HypCD complex and the HypCDE ternary
+RT   complex: transient intermediate complexes during [NiFe] hydrogenase
+RT   maturation.";
+RL   Structure 20:2124-2137(2012).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AP006878; BAD86190.1; -; Genomic_DNA.
+DR   EMBL; AB185891; BAD89077.1; -; Genomic_DNA.
+DR   RefSeq; WP_011250951.1; NC_006624.1.
+DR   RefSeq; YP_184414.1; NC_006624.1.
+DR   PDB; 2Z1C; X-ray; 1.80 A; A/B/C=1-75.
+DR   PDB; 3VYR; X-ray; 2.55 A; A=2-75.
+DR   PDB; 3VYS; X-ray; 2.35 A; A=2-75.
+DR   PDB; 3VYT; X-ray; 2.25 A; A=2-75.
+DR   PDB; 3VYU; X-ray; 2.75 A; A=2-75.
+DR   PDBsum; 2Z1C; -.
+DR   PDBsum; 3VYR; -.
+DR   PDBsum; 3VYS; -.
+DR   PDBsum; 3VYT; -.
+DR   PDBsum; 3VYU; -.
+DR   DIP; DIP-59989N; -.
+DR   STRING; 69014.TK2001; -.
+DR   EnsemblBacteria; BAD86190; BAD86190; TK2001.
+DR   GeneID; 3234801; -.
+DR   KEGG; tko:TK2001; -.
+DR   eggNOG; COG0298; -.
+DR   HOGENOM; HOG000278755; -.
+DR   KO; K04653; -.
+DR   OMA; CIAAPAK; -.
+DR   BioCyc; TKOD69014:GH72-2043-MONOMER; -.
+DR   Proteomes; UP000000536; Chromosome.
+DR   InterPro; IPR019812; Hydgase_assmbl_chp_CS.
+DR   InterPro; IPR001109; Hydrogenase_HupF/HypC.
+DR   Pfam; PF01455; HupF_HypC; 1.
+DR   PRINTS; PR00445; HUPFHYPC.
+DR   TIGRFAMs; TIGR00074; hypC_hupF; 1.
+DR   PROSITE; PS01097; HUPF_HYPC; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2Z1C, ECO:0000213|PDB:3VYR};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000536};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000536}.
+SQ   SEQUENCE   75 AA;  8255 MW;  DEC8833D39C6DF70 CRC64;
+     MCLAVPGKVI EVNGPVAVVD FGGVKREVRL DLMPDTKPGD WVIVHTGFAI EKLDEKKAME
+     ILEAWAEVEK AMEGF
+//

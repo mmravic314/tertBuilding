@@ -1,0 +1,200 @@
+ID   RNZ_BACSU               Reviewed;         307 AA.
+AC   P54548;
+DT   01-OCT-1996, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-1996, sequence version 1.
+DT   24-JUN-2015, entry version 113.
+DE   RecName: Full=Ribonuclease Z {ECO:0000255|HAMAP-Rule:MF_01818};
+DE            Short=RNase Z {ECO:0000255|HAMAP-Rule:MF_01818};
+DE            EC=3.1.26.11 {ECO:0000255|HAMAP-Rule:MF_01818};
+DE   AltName: Full=tRNA 3 endonuclease {ECO:0000255|HAMAP-Rule:MF_01818};
+DE   AltName: Full=tRNase Z {ECO:0000255|HAMAP-Rule:MF_01818};
+GN   Name=rnz {ECO:0000255|HAMAP-Rule:MF_01818}; Synonyms=yqjK;
+GN   OrderedLocusNames=BSU23840;
+OS   Bacillus subtilis (strain 168).
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus.
+OX   NCBI_TaxID=224308;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=168 / JH642;
+RX   PubMed=8969508;
+RA   Mizuno M., Masuda S., Takemaru K., Hosono S., Sato T., Takeuchi M.,
+RA   Kobayashi Y.;
+RT   "Systematic sequencing of the 283 kb 210 degrees-232 degrees region of
+RT   the Bacillus subtilis genome containing the skin element and many
+RT   sporulation genes.";
+RL   Microbiology 142:3103-3111(1996).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=168;
+RX   PubMed=9384377; DOI=10.1038/36786;
+RA   Kunst F., Ogasawara N., Moszer I., Albertini A.M., Alloni G.,
+RA   Azevedo V., Bertero M.G., Bessieres P., Bolotin A., Borchert S.,
+RA   Borriss R., Boursier L., Brans A., Braun M., Brignell S.C., Bron S.,
+RA   Brouillet S., Bruschi C.V., Caldwell B., Capuano V., Carter N.M.,
+RA   Choi S.-K., Codani J.-J., Connerton I.F., Cummings N.J., Daniel R.A.,
+RA   Denizot F., Devine K.M., Duesterhoeft A., Ehrlich S.D., Emmerson P.T.,
+RA   Entian K.-D., Errington J., Fabret C., Ferrari E., Foulger D.,
+RA   Fritz C., Fujita M., Fujita Y., Fuma S., Galizzi A., Galleron N.,
+RA   Ghim S.-Y., Glaser P., Goffeau A., Golightly E.J., Grandi G.,
+RA   Guiseppi G., Guy B.J., Haga K., Haiech J., Harwood C.R., Henaut A.,
+RA   Hilbert H., Holsappel S., Hosono S., Hullo M.-F., Itaya M.,
+RA   Jones L.-M., Joris B., Karamata D., Kasahara Y., Klaerr-Blanchard M.,
+RA   Klein C., Kobayashi Y., Koetter P., Koningstein G., Krogh S.,
+RA   Kumano M., Kurita K., Lapidus A., Lardinois S., Lauber J.,
+RA   Lazarevic V., Lee S.-M., Levine A., Liu H., Masuda S., Mauel C.,
+RA   Medigue C., Medina N., Mellado R.P., Mizuno M., Moestl D., Nakai S.,
+RA   Noback M., Noone D., O'Reilly M., Ogawa K., Ogiwara A., Oudega B.,
+RA   Park S.-H., Parro V., Pohl T.M., Portetelle D., Porwollik S.,
+RA   Prescott A.M., Presecan E., Pujic P., Purnelle B., Rapoport G.,
+RA   Rey M., Reynolds S., Rieger M., Rivolta C., Rocha E., Roche B.,
+RA   Rose M., Sadaie Y., Sato T., Scanlan E., Schleich S., Schroeter R.,
+RA   Scoffone F., Sekiguchi J., Sekowska A., Seror S.J., Serror P.,
+RA   Shin B.-S., Soldo B., Sorokin A., Tacconi E., Takagi T., Takahashi H.,
+RA   Takemaru K., Takeuchi M., Tamakoshi A., Tanaka T., Terpstra P.,
+RA   Tognoni A., Tosato V., Uchiyama S., Vandenbol M., Vannier F.,
+RA   Vassarotti A., Viari A., Wambutt R., Wedler E., Wedler H.,
+RA   Weitzenegger T., Winters P., Wipat A., Yamamoto H., Yamane K.,
+RA   Yasumoto K., Yata K., Yoshida K., Yoshikawa H.-F., Zumstein E.,
+RA   Yoshikawa H., Danchin A.;
+RT   "The complete genome sequence of the Gram-positive bacterium Bacillus
+RT   subtilis.";
+RL   Nature 390:249-256(1997).
+RN   [3]
+RP   FUNCTION, AND CATALYTIC ACTIVITY.
+RX   PubMed=12941704; DOI=10.1093/emboj/cdg435;
+RA   Pellegrini O., Nezzar J., Marchfelder A., Putzer H., Condon C.;
+RT   "Endonucleolytic processing of CCA-less tRNA precursors by RNase Z in
+RT   Bacillus subtilis.";
+RL   EMBO J. 22:4534-4543(2003).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS) IN COMPLEX WITH ZINC IONS,
+RP   ACTIVE SITE, ENZYME MECHANISM, AND SUBUNIT.
+RX   PubMed=15654328; DOI=10.1038/nature03284;
+RA   de la Sierra-Gallay I.L., Pellegrini O., Condon C.;
+RT   "Structural basis for substrate binding, cleavage and allostery in the
+RT   tRNA maturase RNase Z.";
+RL   Nature 433:657-661(2005).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (2.9 ANGSTROMS) IN COMPLEX WITH TRNA AND ZINC
+RP   ION.
+RX   PubMed=16518398; DOI=10.1038/nsmb1066;
+RA   Li de la Sierra-Gallay I., Mathy N., Pellegrini O., Condon C.;
+RT   "Structure of the ubiquitous 3' processing enzyme RNase Z bound to
+RT   transfer RNA.";
+RL   Nat. Struct. Mol. Biol. 13:376-377(2006).
+CC   -!- FUNCTION: Zinc phosphodiesterase, which displays some tRNA 3'-
+CC       processing endonuclease activity. Probably involved in tRNA
+CC       maturation, by removing a 3'-trailer from precursor tRNA.
+CC       {ECO:0000255|HAMAP-Rule:MF_01818, ECO:0000269|PubMed:12941704}.
+CC   -!- CATALYTIC ACTIVITY: Endonucleolytic cleavage of RNA, removing
+CC       extra 3' nucleotides from tRNA precursor, generating 3' termini of
+CC       tRNAs. A 3'-hydroxy group is left at the tRNA terminus and a 5'-
+CC       phosphoryl group is left at the trailer molecule.
+CC       {ECO:0000255|HAMAP-Rule:MF_01818, ECO:0000269|PubMed:12941704}.
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC       Note=Binds 2 Zn(2+) ions.;
+CC   -!- SUBUNIT: Homodimer. {ECO:0000255|HAMAP-Rule:MF_01818,
+CC       ECO:0000269|PubMed:15654328, ECO:0000269|PubMed:16518398}.
+CC   -!- SIMILARITY: Belongs to the RNase Z family. {ECO:0000255|HAMAP-
+CC       Rule:MF_01818}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; D84432; BAA12617.1; -; Genomic_DNA.
+DR   EMBL; AL009126; CAB14316.1; -; Genomic_DNA.
+DR   PIR; C69964; C69964.
+DR   RefSeq; NP_390265.1; NC_000964.3.
+DR   RefSeq; WP_004398681.1; NZ_JNCM01000036.1.
+DR   PDB; 1Y44; X-ray; 2.10 A; A/B=1-307.
+DR   PDB; 2FK6; X-ray; 2.90 A; A=1-307.
+DR   PDB; 4GCW; X-ray; 3.00 A; A=1-307.
+DR   PDBsum; 1Y44; -.
+DR   PDBsum; 2FK6; -.
+DR   PDBsum; 4GCW; -.
+DR   ProteinModelPortal; P54548; -.
+DR   SMR; P54548; 1-307.
+DR   DIP; DIP-29070N; -.
+DR   STRING; 224308.Bsubs1_010100013081; -.
+DR   PaxDb; P54548; -.
+DR   EnsemblBacteria; CAB14316; CAB14316; BSU23840.
+DR   GeneID; 938694; -.
+DR   KEGG; bsu:BSU23840; -.
+DR   PATRIC; 18976593; VBIBacSub10457_2487.
+DR   GenoList; BSU23840; -.
+DR   eggNOG; COG1234; -.
+DR   HOGENOM; HOG000272419; -.
+DR   InParanoid; P54548; -.
+DR   KO; K00784; -.
+DR   OMA; WYLVDCG; -.
+DR   OrthoDB; EOG61P6TK; -.
+DR   PhylomeDB; P54548; -.
+DR   BioCyc; BSUB:BSU23840-MONOMER; -.
+DR   BRENDA; 3.1.26.11; 658.
+DR   EvolutionaryTrace; P54548; -.
+DR   Proteomes; UP000001570; Chromosome.
+DR   GO; GO:0042781; F:3'-tRNA processing endoribonuclease activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 3.60.15.10; -; 2.
+DR   HAMAP; MF_01818; RNase_Z_BN; 1.
+DR   InterPro; IPR001279; Beta-lactamas-like.
+DR   InterPro; IPR013471; RNase_Z/BN.
+DR   SMART; SM00849; Lactamase_B; 1.
+DR   SUPFAM; SSF56281; SSF56281; 1.
+DR   TIGRFAMs; TIGR02651; RNase_Z; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Endonuclease; Hydrolase;
+KW   Metal-binding; Nuclease; Reference proteome; tRNA processing; Zinc.
+FT   CHAIN         1    307       Ribonuclease Z.
+FT                                /FTId=PRO_0000155849.
+FT   ACT_SITE     67     67       Proton acceptor. {ECO:0000255|HAMAP-
+FT                                Rule:MF_01818}.
+FT   METAL        63     63       Zinc 1; catalytic.
+FT   METAL        65     65       Zinc 1; catalytic.
+FT   METAL        67     67       Zinc 2; catalytic.
+FT   METAL        68     68       Zinc 2; catalytic.
+FT   METAL       140    140       Zinc 1; catalytic.
+FT   METAL       211    211       Zinc 1; catalytic.
+FT   METAL       211    211       Zinc 2; catalytic.
+FT   METAL       269    269       Zinc 2; catalytic.
+FT   STRAND        2      7       {ECO:0000244|PDB:1Y44}.
+FT   STRAND        9     12       {ECO:0000244|PDB:1Y44}.
+FT   STRAND       21     25       {ECO:0000244|PDB:1Y44}.
+FT   TURN         27     30       {ECO:0000244|PDB:1Y44}.
+FT   STRAND       31     36       {ECO:0000244|PDB:1Y44}.
+FT   HELIX        42     46       {ECO:0000244|PDB:1Y44}.
+FT   HELIX        53     55       {ECO:0000244|PDB:1Y44}.
+FT   STRAND       56     60       {ECO:0000244|PDB:1Y44}.
+FT   HELIX        66     68       {ECO:0000244|PDB:1Y44}.
+FT   TURN         69     71       {ECO:0000244|PDB:1Y44}.
+FT   HELIX        72     81       {ECO:0000244|PDB:1Y44}.
+FT   STRAND       88     93       {ECO:0000244|PDB:1Y44}.
+FT   HELIX        96    106       {ECO:0000244|PDB:1Y44}.
+FT   STRAND      115    119       {ECO:0000244|PDB:1Y44}.
+FT   STRAND      122    127       {ECO:0000244|PDB:1Y44}.
+FT   STRAND      129    137       {ECO:0000244|PDB:1Y44}.
+FT   STRAND      139    151       {ECO:0000244|PDB:1Y44}.
+FT   HELIX       160    165       {ECO:0000244|PDB:1Y44}.
+FT   HELIX       172    178       {ECO:0000244|PDB:1Y44}.
+FT   STRAND      182    184       {ECO:0000244|PDB:1Y44}.
+FT   STRAND      190    192       {ECO:0000244|PDB:1Y44}.
+FT   HELIX       193    196       {ECO:0000244|PDB:1Y44}.
+FT   STRAND      205    208       {ECO:0000244|PDB:1Y44}.
+FT   HELIX       216    221       {ECO:0000244|PDB:1Y44}.
+FT   TURN        222    224       {ECO:0000244|PDB:1Y44}.
+FT   STRAND      226    231       {ECO:0000244|PDB:1Y44}.
+FT   HELIX       239    244       {ECO:0000244|PDB:1Y44}.
+FT   HELIX       250    260       {ECO:0000244|PDB:1Y44}.
+FT   STRAND      263    268       {ECO:0000244|PDB:1Y44}.
+FT   HELIX       278    289       {ECO:0000244|PDB:1Y44}.
+FT   STRAND      291    295       {ECO:0000244|PDB:1Y44}.
+FT   STRAND      301    303       {ECO:0000244|PDB:1Y44}.
+SQ   SEQUENCE   307 AA;  34023 MW;  6E03CA54C55D7C84 CRC64;
+     MELLFLGTGA GIPAKARNVT SVALKLLEER RSVWLFDCGE ATQHQILHTT IKPRKIEKIF
+     ITHMHGDHVY GLPGLLGSRS FQGGEDELTV YGPKGIKAFI ETSLAVTKTH LTYPLAIQEI
+     EEGIVFEDDQ FIVTAVSVIH GVEAFGYRVQ EKDVPGSLKA DVLKEMNIPP GPVYQKIKKG
+     ETVTLEDGRI INGNDFLEPP KKGRSVVFSG DTRVSDKLKE LARDCDVLVH EATFAKEDRK
+     LAYDYYHSTT EQAAVTAKEA RAKQLILTHI SARYQGDASL ELQKEAVDVF PNSVAAYDFL
+     EVNVPRG
+//

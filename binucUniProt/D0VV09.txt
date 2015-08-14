@@ -1,0 +1,110 @@
+ID   D0VV09_BACCE            Unreviewed;       360 AA.
+AC   D0VV09;
+DT   15-DEC-2009, integrated into UniProtKB/TrEMBL.
+DT   15-DEC-2009, sequence version 1.
+DT   24-JUN-2015, entry version 27.
+DE   SubName: Full=Chitinase A {ECO:0000313|EMBL:ACY39278.1};
+OS   Bacillus cereus.
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus;
+OC   Bacillus cereus group.
+OX   NCBI_TaxID=1396 {ECO:0000313|EMBL:ACY39278.1};
+RN   [1] {ECO:0000313|EMBL:ACY39278.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=49 {ECO:0000313|EMBL:ACY39278.1};
+RA   Liu C., Chen Y., Jun C., Xiao L.;
+RL   Submitted (OCT-2009) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:3N11, ECO:0000213|PDB:3N12, ECO:0000213|PDB:3N13}
+RP   X-RAY CRYSTALLOGRAPHY (1.20 ANGSTROMS) OF 28-360 IN COMPLEX WITH
+RP   N-ACETYL-D-GLUCOSAMINE AND ZINC.
+RX   PubMed=20685646; DOI=10.1074/jbc.M110.149310;
+RA   Hsieh Y.C., Wu Y.J., Chiang T.Y., Kuo C.Y., Shrestha K.L., Chao C.F.,
+RA   Huang Y.C., Chuankhayan P., Wu W.G., Li Y.K., Chen C.J.;
+RT   "Crystal structures of Bacillus cereus NCTU2 chitinase complexes with
+RT   chitooligomers reveal novel substrate binding for catalysis: a
+RT   chitinase without chitin binding and insertion domains.";
+RL   J. Biol. Chem. 285:31603-31615(2010).
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 18 family.
+CC       {ECO:0000256|RuleBase:RU004453}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; GU134904; ACY39278.1; -; Genomic_DNA.
+DR   PDB; 3N11; X-ray; 1.35 A; A=28-360.
+DR   PDB; 3N12; X-ray; 1.20 A; A=28-360.
+DR   PDB; 3N13; X-ray; 1.70 A; A=28-360.
+DR   PDB; 3N15; X-ray; 1.94 A; A=28-360.
+DR   PDB; 3N17; X-ray; 1.20 A; A=28-360.
+DR   PDB; 3N18; X-ray; 1.60 A; A=28-360.
+DR   PDB; 3N1A; X-ray; 2.00 A; A=28-360.
+DR   PDBsum; 3N11; -.
+DR   PDBsum; 3N12; -.
+DR   PDBsum; 3N13; -.
+DR   PDBsum; 3N15; -.
+DR   PDBsum; 3N17; -.
+DR   PDBsum; 3N18; -.
+DR   PDBsum; 3N1A; -.
+DR   ProteinModelPortal; D0VV09; -.
+DR   STRING; 226900.BC3725; -.
+DR   EvolutionaryTrace; D0VV09; -.
+DR   GO; GO:0004568; F:chitinase activity; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   GO; GO:0006032; P:chitin catabolic process; IEA:InterPro.
+DR   Gene3D; 3.20.20.80; -; 1.
+DR   InterPro; IPR011583; Chitinase_II.
+DR   InterPro; IPR001223; Glyco_hydro18cat.
+DR   InterPro; IPR001579; Glyco_hydro_18_chit_AS.
+DR   InterPro; IPR013781; Glyco_hydro_catalytic_dom.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   Pfam; PF00704; Glyco_hydro_18; 1.
+DR   SMART; SM00636; Glyco_18; 1.
+DR   SUPFAM; SSF51445; SSF51445; 1.
+DR   PROSITE; PS01095; CHITINASE_18; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3N11, ECO:0000213|PDB:3N12};
+KW   Glycosidase {ECO:0000256|RuleBase:RU000489};
+KW   Hydrolase {ECO:0000256|RuleBase:RU000489};
+KW   Metal-binding {ECO:0000213|PDB:3N12}; Zinc {ECO:0000213|PDB:3N12}.
+FT   REGION      225    228       N-acetyl-D-glucosamine binding.
+FT                                {ECO:0000213|PDB:3N13,
+FT                                ECO:0000213|PDB:3N15,
+FT                                ECO:0000213|PDB:3N17}.
+FT   METAL       145    145       Zinc. {ECO:0000213|PDB:3N12}.
+FT   METAL       190    190       Zinc. {ECO:0000213|PDB:3N12}.
+FT   BINDING      39     39       N-acetyl-D-glucosamine.
+FT                                {ECO:0000213|PDB:3N13}.
+FT   BINDING      45     45       N-acetyl-D-glucosamine.
+FT                                {ECO:0000213|PDB:3N13,
+FT                                ECO:0000213|PDB:3N15,
+FT                                ECO:0000213|PDB:3N17}.
+FT   BINDING     109    109       N-acetyl-D-glucosamine.
+FT                                {ECO:0000213|PDB:3N15,
+FT                                ECO:0000213|PDB:3N17,
+FT                                ECO:0000213|PDB:3N18}.
+FT   BINDING     143    143       N-acetyl-D-glucosamine.
+FT                                {ECO:0000213|PDB:3N15,
+FT                                ECO:0000213|PDB:3N17,
+FT                                ECO:0000213|PDB:3N18}.
+FT   BINDING     190    190       N-acetyl-D-glucosamine.
+FT                                {ECO:0000213|PDB:3N18}.
+FT   BINDING     287    287       N-acetyl-D-glucosamine; via carbonyl
+FT                                oxygen. {ECO:0000213|PDB:3N13,
+FT                                ECO:0000213|PDB:3N15,
+FT                                ECO:0000213|PDB:3N17}.
+FT   BINDING     333    333       N-acetyl-D-glucosamine.
+FT                                {ECO:0000213|PDB:3N13,
+FT                                ECO:0000213|PDB:3N15,
+FT                                ECO:0000213|PDB:3N17}.
+FT   BINDING     337    337       N-acetyl-D-glucosamine.
+FT                                {ECO:0000213|PDB:3N13,
+FT                                ECO:0000213|PDB:3N15,
+FT                                ECO:0000213|PDB:3N17}.
+SQ   SEQUENCE   360 AA;  39354 MW;  31EA2B05502B0D97 CRC64;
+     MLNKFKFFCC ILVMFLLLPL SPFQAQAANN LGSKLLVGYW HNFDNGTGII KLKDVSPKWD
+     VINVSFGETG GDRSTVEFSP VYGTDADFKS DISYLKSKGK KVVLSIGGQN GVVLLPDNAA
+     KDRFINSIQS LIDKYGFDGI DIDLESGIYL NGNDTNFKNP TTPQIVNLIS AIRTISDHYG
+     PDFLLSMAPE TAYVQGGYSA YGSIWGAYLP IIYGVKDKLT YIHVQHYNAG SGIGMDGNNY
+     NQGTADYEVA MADMLLHGFP VGGNANNIFP ALRSDQAMIG LPAAPAAAPS GGYISPTEMK
+     KALNYIIKGV PFGGKYKLSN QSGYPAFRGL MSWSINWDAK NNFEFSNNYR TYFDGLSLQK
+//

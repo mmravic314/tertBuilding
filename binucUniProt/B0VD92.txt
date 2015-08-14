@@ -1,0 +1,87 @@
+ID   B0VD92_ACIBY            Unreviewed;       271 AA.
+AC   B0VD92;
+DT   10-JUN-2008, integrated into UniProtKB/TrEMBL.
+DT   10-JUN-2008, sequence version 1.
+DT   22-JUL-2015, entry version 49.
+DE   SubName: Full=Aminoglycoside 3'-phosphotransferase AphA1-IAB {ECO:0000313|EMBL:CAM88361.1};
+DE            EC=2.7.1.95 {ECO:0000313|EMBL:CAM88361.1};
+GN   OrderedLocusNames=ABAYE3578 {ECO:0000313|EMBL:CAM88361.1};
+OS   Acinetobacter baumannii (strain AYE).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+OC   Moraxellaceae; Acinetobacter;
+OC   Acinetobacter calcoaceticus/baumannii complex.
+OX   NCBI_TaxID=509173 {ECO:0000313|Proteomes:UP000002446};
+RN   [1] {ECO:0000313|EMBL:CAM88361.1, ECO:0000313|Proteomes:UP000002446}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=AYE {ECO:0000313|EMBL:CAM88361.1,
+RC   ECO:0000313|Proteomes:UP000002446};
+RX   PubMed=18350144; DOI=10.1371/journal.pone.0001805;
+RA   Vallenet D., Nordmann P., Barbe V., Poirel L., Mangenot S.,
+RA   Bataille E., Dossat C., Gas S., Kreimeyer A., Lenoble P., Oztas S.,
+RA   Poulain J., Segurens B., Robert C., Abergel C., Claverie J.-M.,
+RA   Raoult D., Medigue C., Weissenbach J., Cruveiller S.;
+RT   "Comparative analysis of Acinetobacters: three genomes for three
+RT   lifestyles.";
+RL   PLoS ONE 3:E1805-E1805(2008).
+RN   [2] {ECO:0000213|PDB:4EJ7, ECO:0000213|PDB:4FEU, ECO:0000213|PDB:4FEV}
+RP   X-RAY CRYSTALLOGRAPHY (1.86 ANGSTROMS) IN COMPLEX WITH ATP.
+RX   PubMed=23758273;
+RA   Stogios P.J., Spanogiannopoulos P., Evdokimova E., Egorova O.,
+RA   Shakya T., Todorovic N., Capretta A., Wright G.D., Savchenko A.;
+RT   "Structure-guided optimization of protein kinase inhibitors reverses
+RT   aminoglycoside antibiotic resistance.";
+RL   Biochem. J. 454:191-200(2013).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CU459141; CAM88361.1; -; Genomic_DNA.
+DR   RefSeq; WP_000018326.1; NC_010410.1.
+DR   PDB; 4EJ7; X-ray; 2.29 A; A/B/C=1-271.
+DR   PDB; 4FEU; X-ray; 2.37 A; A/B/C/D/E/F=1-271.
+DR   PDB; 4FEV; X-ray; 1.89 A; A/B/C/D/E/F=1-271.
+DR   PDB; 4FEW; X-ray; 1.98 A; A/B/C/D/E/F=1-271.
+DR   PDB; 4FEX; X-ray; 2.71 A; A/B/C/D/E=1-271.
+DR   PDB; 4GKH; X-ray; 1.86 A; A/B/C/D/E/F/G/H/I/J/K/L=1-271.
+DR   PDB; 4GKI; X-ray; 1.88 A; A/B/C/D/E/F/G/H/I/J/K/L=1-271.
+DR   ProteinModelPortal; B0VD92; -.
+DR   EnsemblBacteria; CAM88361; CAM88361; ABAYE3578.
+DR   KEGG; aby:ABAYE3578; -.
+DR   PATRIC; 20730280; VBIAciBau69881_3427.
+DR   eggNOG; COG3231; -.
+DR   HOGENOM; HOG000233068; -.
+DR   KO; K19272; -.
+DR   OMA; WNYGPGY; -.
+DR   OrthoDB; EOG69D39V; -.
+DR   BioCyc; ABAU509173:GJXF-3457-MONOMER; -.
+DR   EvolutionaryTrace; B0VD92; -.
+DR   Proteomes; UP000002446; Chromosome.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0008910; F:kanamycin kinase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0046677; P:response to antibiotic; IEA:InterPro.
+DR   InterPro; IPR002575; Aminoglycoside_PTrfase.
+DR   InterPro; IPR024165; Kan/Strep_kinase.
+DR   InterPro; IPR011009; Kinase-like_dom.
+DR   PANTHER; PTHR21310; PTHR21310; 1.
+DR   Pfam; PF01636; APH; 1.
+DR   PIRSF; PIRSF000706; Kanamycin_kin; 1.
+DR   SUPFAM; SSF56112; SSF56112; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4EJ7, ECO:0000213|PDB:4FEU};
+KW   ATP-binding {ECO:0000213|PDB:4EJ7};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002446};
+KW   Nucleotide-binding {ECO:0000213|PDB:4EJ7};
+KW   Transferase {ECO:0000313|EMBL:CAM88361.1}.
+FT   NP_BIND      35     36       ATP. {ECO:0000213|PDB:4EJ7}.
+FT   NP_BIND      53     55       ATP. {ECO:0000213|PDB:4EJ7}.
+FT   NP_BIND      99    101       ATP. {ECO:0000213|PDB:4EJ7}.
+FT   ACT_SITE    198    198       Proton acceptor.
+FT                                {ECO:0000256|PIRSR:PIRSR000706-1}.
+FT   BINDING     216    216       ATP. {ECO:0000213|PDB:4EJ7}.
+SQ   SEQUENCE   271 AA;  30930 MW;  3B8CE6C591219263 CRC64;
+     MSHIQRETSC SRPRLNSNLD ADLYGYRWAR DNVGQSGATI YRLYGKPNAP ELFLKHGKGS
+     VANDVTDEMV RLNWLTAFMP LPTIKHFIRT PDDAWLLTTA IPGKTAFQVL EEYPDSGENI
+     VDALAVFLRR LHSIPVCNCP FNSDRVFRLA QAQSRMNNGL VDASDFDDER NGWPVEQVWK
+     EMHKLLPFSP DSVVTHGDFS LDNLIFDEGK LIGCIDVGRV GIADRYQDLA ILWNCLGEFS
+     PSLQKRLFQK YGIDNPDMNK LQFHLMLDEF F
+//

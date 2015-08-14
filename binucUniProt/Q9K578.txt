@@ -1,0 +1,75 @@
+ID   Q9K578_9GAMM            Unreviewed;       282 AA.
+AC   Q9K578;
+DT   01-OCT-2000, integrated into UniProtKB/TrEMBL.
+DT   01-OCT-2000, sequence version 1.
+DT   27-MAY-2015, entry version 57.
+DE   SubName: Full=FEZ-1 protein {ECO:0000313|EMBL:CAB96921.1};
+GN   Name=blaFEZ-1 {ECO:0000313|EMBL:CAB96921.1};
+OS   Fluoribacter gormanii.
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Legionellales;
+OC   Legionellaceae; Fluoribacter.
+OX   NCBI_TaxID=464 {ECO:0000313|EMBL:CAB96921.1};
+RN   [1] {ECO:0000313|EMBL:CAB96921.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=CCUG 12267 {ECO:0000313|EMBL:CAB96921.1};
+RX   PubMed=10817705; DOI=10.1128/AAC.44.6.1538-1543.2000;
+RA   Boschi L., Mercuri P.S., Riccio M.L., Amicosante G., Galleni M.,
+RA   Frere J.M., Rossolini G.M.;
+RT   "The Legionella (Fluoribacter) gormanii metallo-beta-lactamase: a new
+RT   member of the highly divergent lineage of molecular-subclass B3 beta-
+RT   lactamases.";
+RL   Antimicrob. Agents Chemother. 44:1538-1543(2000).
+RN   [2] {ECO:0000213|PDB:1JT1, ECO:0000213|PDB:1K07, ECO:0000213|PDB:1L9Y}
+RP   X-RAY CRYSTALLOGRAPHY (1.65 ANGSTROMS) OF 20-282 IN COMPLEX WITH ZINC,
+RP   AND DISULFIDE BONDS.
+RX   PubMed=12507470; DOI=10.1016/S0022-2836(02)01271-8;
+RA   Garcia-Saez I., Mercuri P.S., Papamicael C., Kahn R., Frere J.M.,
+RA   Galleni M., Rossolini G.M., Dideberg O.;
+RT   "Three-dimensional structure of FEZ-1, a monomeric subclass B3
+RT   metallo-beta-lactamase from Fluoribacter gormanii, in native form and
+RT   in complex with D-captopril.";
+RL   J. Mol. Biol. 325:651-660(2003).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; Y17896; CAB96921.1; -; Genomic_DNA.
+DR   PDB; 1JT1; X-ray; 1.78 A; A=20-282.
+DR   PDB; 1K07; X-ray; 1.65 A; A/B=20-282.
+DR   PDB; 1L9Y; X-ray; 2.01 A; A/B=20-282.
+DR   PDBsum; 1JT1; -.
+DR   PDBsum; 1K07; -.
+DR   PDBsum; 1L9Y; -.
+DR   ProteinModelPortal; Q9K578; -.
+DR   SMR; Q9K578; 21-282.
+DR   ChEMBL; CHEMBL1287596; -.
+DR   SABIO-RK; Q9K578; -.
+DR   EvolutionaryTrace; Q9K578; -.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.60.15.10; -; 1.
+DR   InterPro; IPR001279; Beta-lactamas-like.
+DR   Pfam; PF00753; Lactamase_B; 1.
+DR   SMART; SM00849; Lactamase_B; 1.
+DR   SUPFAM; SSF56281; SSF56281; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:1JT1};
+KW   Metal-binding {ECO:0000213|PDB:1JT1}; Zinc {ECO:0000213|PDB:1JT1}.
+FT   METAL        90     90       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:1JT1}.
+FT   METAL        92     92       Zinc 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:1JT1}.
+FT   METAL        94     94       Zinc 2. {ECO:0000213|PDB:1JT1}.
+FT   METAL        95     95       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:1JT1}.
+FT   METAL       168    168       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:1JT1}.
+FT   METAL       234    234       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:1JT1}.
+FT   DISULFID    227    261       {ECO:0000213|PDB:1JT1}.
+SQ   SEQUENCE   282 AA;  31465 MW;  B91A75E99A17CC5F CRC64;
+     MKKVLSLTAL MMVLNHSSFA YPMPNPFPPF RIAGNLYYVG TDDLASYLIV TPRGNILINS
+     DLEANVPMIK ASIKKLGFKF SDTKILLISH AHFDHAAGSE LIKQQTKAKY MVMDEDVSVI
+     LSGGKSDFHY ANDSSTYFTQ STVDKVLHDG ERVELGGTVL TAHLTPGHTR GCTTWTMKLK
+     DHGKQYQAVI IGSIGVNPGY KLVDNITYPK IAEDYKHSIK VLESMRCDIF LGSHAGMFDL
+     KNKYVLLQKG QNNPFVDPTG CKNYIEQKAN DFYTELKKQE TA
+//

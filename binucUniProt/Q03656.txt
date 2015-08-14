@@ -1,0 +1,258 @@
+ID   SKY1_YEAST              Reviewed;         742 AA.
+AC   Q03656; D6W041;
+DT   01-NOV-1997, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1997, sequence version 1.
+DT   22-JUL-2015, entry version 143.
+DE   RecName: Full=Serine/threonine-protein kinase SKY1;
+DE            Short=SRPK;
+DE            EC=2.7.11.1;
+GN   Name=SKY1; OrderedLocusNames=YMR216C; ORFNames=YM8261.10C;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=559292;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=9169872;
+RA   Bowman S., Churcher C.M., Badcock K., Brown D., Chillingworth T.,
+RA   Connor R., Dedman K., Devlin K., Gentles S., Hamlin N., Hunt S.,
+RA   Jagels K., Lye G., Moule S., Odell C., Pearson D., Rajandream M.A.,
+RA   Rice P., Skelton J., Walsh S.V., Whitehead S., Barrell B.G.;
+RT   "The nucleotide sequence of Saccharomyces cerevisiae chromosome
+RT   XIII.";
+RL   Nature 387:90-93(1997).
+RN   [2]
+RP   GENOME REANNOTATION.
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=24374639; DOI=10.1534/g3.113.008995;
+RA   Engel S.R., Dietrich F.S., Fisk D.G., Binkley G., Balakrishnan R.,
+RA   Costanzo M.C., Dwight S.S., Hitz B.C., Karra K., Nash R.S., Weng S.,
+RA   Wong E.D., Lloyd P., Skrzypek M.S., Miyasato S.R., Simison M.,
+RA   Cherry J.M.;
+RT   "The reference genome sequence of Saccharomyces cerevisiae: Then and
+RT   now.";
+RL   G3 (Bethesda) 4:389-398(2014).
+RN   [3]
+RP   LEVEL OF PROTEIN EXPRESSION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562106; DOI=10.1038/nature02046;
+RA   Ghaemmaghami S., Huh W.-K., Bower K., Howson R.W., Belle A.,
+RA   Dephoure N., O'Shea E.K., Weissman J.S.;
+RT   "Global analysis of protein expression in yeast.";
+RL   Nature 425:737-741(2003).
+RN   [4]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-383; SER-393; SER-449
+RP   AND SER-453, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE
+RP   ANALYSIS].
+RC   STRAIN=ADR376;
+RX   PubMed=17330950; DOI=10.1021/pr060559j;
+RA   Li X., Gerber S.A., Rudner A.D., Beausoleil S.A., Haas W., Villen J.,
+RA   Elias J.E., Gygi S.P.;
+RT   "Large-scale phosphorylation analysis of alpha-factor-arrested
+RT   Saccharomyces cerevisiae.";
+RL   J. Proteome Res. 6:1190-1197(2007).
+RN   [5]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-393; SER-432; SER-445;
+RP   SER-449 AND SER-453, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE
+RP   SCALE ANALYSIS].
+RX   PubMed=18407956; DOI=10.1074/mcp.M700468-MCP200;
+RA   Albuquerque C.P., Smolka M.B., Payne S.H., Bafna V., Eng J., Zhou H.;
+RT   "A multidimensional chromatography technology for in-depth
+RT   phosphoproteome analysis.";
+RL   Mol. Cell. Proteomics 7:1389-1396(2008).
+RN   [6]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-383; THR-386; SER-388;
+RP   SER-393; SER-410; SER-427; SER-432; SER-445; SER-449 AND SER-453, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19779198; DOI=10.1126/science.1172867;
+RA   Holt L.J., Tuch B.B., Villen J., Johnson A.D., Gygi S.P., Morgan D.O.;
+RT   "Global analysis of Cdk1 substrate phosphorylation sites provides
+RT   insights into evolution.";
+RL   Science 325:1682-1686(2009).
+RN   [7]
+RP   X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS) OF 138-742, AND FUNCTION.
+RX   PubMed=11175909; DOI=10.1038/84178;
+RA   Nolen B., Yun C.Y., Wong C.F., McCammon J.A., Fu X.-D., Ghosh G.;
+RT   "The structure of Sky1p reveals a novel mechanism for constitutive
+RT   activity.";
+RL   Nat. Struct. Biol. 8:176-183(2001).
+RN   [8]
+RP   X-RAY CRYSTALLOGRAPHY (2.05 ANGSTROMS) OF 138-742 ALONE AND IN COMPLEX
+RP   WITH ADP AND ATP.
+RX   PubMed=12911299; DOI=10.1021/bi0344331;
+RA   Nolen B., Ngo J., Chakrabarti S., Vu D., Adams J.A., Ghosh G.;
+RT   "Nucleotide-induced conformational changes in the Saccharomyces
+RT   cerevisiae SR protein kinase, Sky1p, revealed by X-ray
+RT   crystallography.";
+RL   Biochemistry 42:9575-9585(2003).
+CC   -!- FUNCTION: Constitutively active kinase, specifically and
+CC       sequentially phosphorylates serine/arginine (SR)-type shuttling
+CC       mRNA binding proteins in their RS dipeptide repeats.
+CC       {ECO:0000269|PubMed:11175909}.
+CC   -!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+CC   -!- INTERACTION:
+CC       P35169:TOR1; NbExp=2; IntAct=EBI-9800, EBI-19374;
+CC   -!- MISCELLANEOUS: Present with 2420 molecules/cell in log phase SD
+CC       medium. {ECO:0000269|PubMed:14562106}.
+CC   -!- SIMILARITY: Belongs to the protein kinase superfamily. Ser/Thr
+CC       protein kinase family. {ECO:0000255|PROSITE-ProRule:PRU00159}.
+CC   -!- SIMILARITY: Contains 1 protein kinase domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00159}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; Z49809; CAA89931.1; -; Genomic_DNA.
+DR   EMBL; BK006946; DAA10115.1; -; Genomic_DNA.
+DR   PIR; S55098; S55098.
+DR   RefSeq; NP_013943.1; NM_001182723.1.
+DR   PDB; 1HOW; X-ray; 2.10 A; A=138-304, A=539-742.
+DR   PDB; 1Q8Y; X-ray; 2.05 A; A/B=138-304, A/B=539-742.
+DR   PDB; 1Q8Z; X-ray; 2.35 A; A/B=138-304, A/B=539-742.
+DR   PDB; 1Q97; X-ray; 2.30 A; A/B=138-304, A/B=539-742.
+DR   PDB; 1Q99; X-ray; 2.11 A; A/B=138-304, A/B=539-742.
+DR   PDB; 2JD5; X-ray; 2.50 A; A/B=138-742.
+DR   PDBsum; 1HOW; -.
+DR   PDBsum; 1Q8Y; -.
+DR   PDBsum; 1Q8Z; -.
+DR   PDBsum; 1Q97; -.
+DR   PDBsum; 1Q99; -.
+DR   PDBsum; 2JD5; -.
+DR   ProteinModelPortal; Q03656; -.
+DR   SMR; Q03656; 142-313, 537-737.
+DR   BioGrid; 35394; 240.
+DR   DIP; DIP-2884N; -.
+DR   IntAct; Q03656; 15.
+DR   MINT; MINT-1738833; -.
+DR   MaxQB; Q03656; -.
+DR   PaxDb; Q03656; -.
+DR   PeptideAtlas; Q03656; -.
+DR   EnsemblFungi; YMR216C; YMR216C; YMR216C.
+DR   GeneID; 855256; -.
+DR   KEGG; sce:YMR216C; -.
+DR   CYGD; YMR216c; -.
+DR   EuPathDB; FungiDB:YMR216C; -.
+DR   SGD; S000004829; SKY1.
+DR   eggNOG; COG0515; -.
+DR   GeneTree; ENSGT00530000063566; -.
+DR   HOGENOM; HOG000171558; -.
+DR   InParanoid; Q03656; -.
+DR   KO; K08832; -.
+DR   OMA; CDERNEE; -.
+DR   OrthoDB; EOG7SV148; -.
+DR   BioCyc; YEAST:G3O-32899-MONOMER; -.
+DR   EvolutionaryTrace; Q03656; -.
+DR   NextBio; 978840; -.
+DR   PRO; PR:Q03656; -.
+DR   Proteomes; UP000002311; Chromosome XIII.
+DR   GO; GO:0005737; C:cytoplasm; IDA:SGD.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004674; F:protein serine/threonine kinase activity; IDA:SGD.
+DR   GO; GO:0030003; P:cellular cation homeostasis; IMP:SGD.
+DR   GO; GO:0006873; P:cellular ion homeostasis; IMP:SGD.
+DR   GO; GO:0006376; P:mRNA splice site selection; IGI:SGD.
+DR   GO; GO:0042307; P:positive regulation of protein import into nucleus; IMP:SGD.
+DR   GO; GO:0006468; P:protein phosphorylation; IDA:SGD.
+DR   GO; GO:0042493; P:response to drug; IMP:SGD.
+DR   InterPro; IPR011009; Kinase-like_dom.
+DR   InterPro; IPR000719; Prot_kinase_dom.
+DR   InterPro; IPR017441; Protein_kinase_ATP_BS.
+DR   InterPro; IPR008271; Ser/Thr_kinase_AS.
+DR   Pfam; PF00069; Pkinase; 2.
+DR   SUPFAM; SSF56112; SSF56112; 2.
+DR   PROSITE; PS00107; PROTEIN_KINASE_ATP; 1.
+DR   PROSITE; PS50011; PROTEIN_KINASE_DOM; 1.
+DR   PROSITE; PS00108; PROTEIN_KINASE_ST; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; ATP-binding; Complete proteome; Kinase;
+KW   Nucleotide-binding; Phosphoprotein; Reference proteome;
+KW   Serine/threonine-protein kinase; Transferase.
+FT   CHAIN         1    742       Serine/threonine-protein kinase SKY1.
+FT                                /FTId=PRO_0000086658.
+FT   DOMAIN      158    706       Protein kinase. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00159}.
+FT   NP_BIND     164    172       ATP. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00159}.
+FT   ACT_SITE    294    294       Proton acceptor. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00159, ECO:0000255|PROSITE-
+FT                                ProRule:PRU10027}.
+FT   BINDING     187    187       ATP. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00159}.
+FT   MOD_RES     383    383       Phosphothreonine.
+FT                                {ECO:0000269|PubMed:17330950,
+FT                                ECO:0000269|PubMed:19779198}.
+FT   MOD_RES     386    386       Phosphothreonine.
+FT                                {ECO:0000269|PubMed:19779198}.
+FT   MOD_RES     388    388       Phosphoserine.
+FT                                {ECO:0000269|PubMed:19779198}.
+FT   MOD_RES     393    393       Phosphoserine.
+FT                                {ECO:0000269|PubMed:17330950,
+FT                                ECO:0000269|PubMed:18407956,
+FT                                ECO:0000269|PubMed:19779198}.
+FT   MOD_RES     410    410       Phosphoserine.
+FT                                {ECO:0000269|PubMed:19779198}.
+FT   MOD_RES     427    427       Phosphoserine.
+FT                                {ECO:0000269|PubMed:19779198}.
+FT   MOD_RES     432    432       Phosphoserine.
+FT                                {ECO:0000269|PubMed:18407956,
+FT                                ECO:0000269|PubMed:19779198}.
+FT   MOD_RES     445    445       Phosphoserine.
+FT                                {ECO:0000269|PubMed:18407956,
+FT                                ECO:0000269|PubMed:19779198}.
+FT   MOD_RES     449    449       Phosphoserine.
+FT                                {ECO:0000269|PubMed:17330950,
+FT                                ECO:0000269|PubMed:18407956,
+FT                                ECO:0000269|PubMed:19779198}.
+FT   MOD_RES     453    453       Phosphoserine.
+FT                                {ECO:0000269|PubMed:17330950,
+FT                                ECO:0000269|PubMed:18407956,
+FT                                ECO:0000269|PubMed:19779198}.
+FT   TURN        154    157       {ECO:0000244|PDB:1Q8Y}.
+FT   STRAND      158    166       {ECO:0000244|PDB:1Q8Y}.
+FT   STRAND      168    177       {ECO:0000244|PDB:1Q8Y}.
+FT   TURN        178    181       {ECO:0000244|PDB:1Q8Y}.
+FT   STRAND      182    189       {ECO:0000244|PDB:1Q8Y}.
+FT   HELIX       193    211       {ECO:0000244|PDB:1Q8Y}.
+FT   HELIX       216    222       {ECO:0000244|PDB:1Q8Y}.
+FT   STRAND      230    236       {ECO:0000244|PDB:1Q8Y}.
+FT   STRAND      239    246       {ECO:0000244|PDB:1Q8Y}.
+FT   HELIX       253    259       {ECO:0000244|PDB:1Q8Y}.
+FT   TURN        260    262       {ECO:0000244|PDB:1Q8Y}.
+FT   HELIX       267    286       {ECO:0000244|PDB:1Q8Y}.
+FT   HELIX       297    299       {ECO:0000244|PDB:1Q8Y}.
+FT   STRAND      300    304       {ECO:0000244|PDB:1Q8Y}.
+FT   TURN        539    542       {ECO:0000244|PDB:1Q8Y}.
+FT   STRAND      543    548       {ECO:0000244|PDB:1Q8Y}.
+FT   HELIX       551    553       {ECO:0000244|PDB:1HOW}.
+FT   HELIX       568    570       {ECO:0000244|PDB:1Q8Y}.
+FT   HELIX       573    577       {ECO:0000244|PDB:1Q8Y}.
+FT   HELIX       584    599       {ECO:0000244|PDB:1Q8Y}.
+FT   STRAND      610    612       {ECO:0000244|PDB:1Q8Y}.
+FT   HELIX       615    626       {ECO:0000244|PDB:1Q8Y}.
+FT   HELIX       631    636       {ECO:0000244|PDB:1Q8Y}.
+FT   HELIX       640    643       {ECO:0000244|PDB:1Q8Y}.
+FT   STRAND      650    652       {ECO:0000244|PDB:1Q8Y}.
+FT   HELIX       661    667       {ECO:0000244|PDB:1Q8Y}.
+FT   HELIX       673    683       {ECO:0000244|PDB:1Q8Y}.
+FT   HELIX       684    687       {ECO:0000244|PDB:1Q8Y}.
+FT   TURN        691    693       {ECO:0000244|PDB:1Q8Y}.
+FT   HELIX       697    701       {ECO:0000244|PDB:1Q8Y}.
+FT   HELIX       704    706       {ECO:0000244|PDB:1Q8Y}.
+FT   TURN        710    714       {ECO:0000244|PDB:1Q99}.
+FT   HELIX       726    728       {ECO:0000244|PDB:1Q99}.
+FT   STRAND      732    734       {ECO:0000244|PDB:1Q8Y}.
+SQ   SEQUENCE   742 AA;  83238 MW;  C775F10B30C950FC CRC64;
+     MGSSINYPGF VTKSAHLADT STDASISCEE ATSSQEAKKN FFQRDYNMMK KAPAPTKSKL
+     SLALQTSKSS SSANGTVQED TSSKTEDFST KSIKKKPDSG VESHVSIQSD SGPQSDSDLD
+     SDSSISSCDE RNEESLKDYR PGGYHPAFKG EPYKDARYIL VRKLGWGHFS TVWLAKDMVN
+     NTHVAMKIVR GDKVYTEAAE DEIKLLQRVN DADNTKEDSM GANHILKLLD HFNHKGPNGV
+     HVVMVFEVLG ENLLALIKKY EHRGIPLIYV KQISKQLLLG LDYMHRRCGI IHTDIKPENV
+     LMEIGDVEGI VQMVEALDKQ KREAKRLQRH VSRSSDITAN DSSDEKWAEC QTSMPCGSSS
+     NSKSRSIEKD LSKRCFRRPR RHTIITGSQP LPSPISSSNF FEMRAHFCGS SHNSFSSVSG
+     NRNIPSSINN NSINNGIGIK NSNNSFLNSV PHSVTRMFIN EDSNDNNNND NSKNKNNNNN
+     NSNNNNNEDI MNTPLHEEQL ADSLSTFDIS NISQSSDTNG PYISNTMDSN SNVSTDINSP
+     ENLIQIKIAD LGNACWYDEH YTNSIQTREY RSPEVLLGAP WGCGADIWST ACLIFELITG
+     DFLFEPDEGH SYTKDDDHIA QIIELLGELP SYLLRNGKYT RTFFNSRGLL RNISKLKFWP
+     LEDVLTEKYK FSKDEAKEIS DFLSPMLQLD PRKRADAGGL VNHPWLKDTL GMEEIRVPDR
+     ELYGSGSDIP GWFEEVRDHK RH
+//

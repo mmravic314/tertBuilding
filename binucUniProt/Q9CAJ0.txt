@@ -1,0 +1,438 @@
+ID   P2C16_ARATH             Reviewed;         511 AA.
+AC   Q9CAJ0; C0Z251; O81709; Q0WLM7;
+DT   22-JUL-2008, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-2001, sequence version 1.
+DT   22-JUL-2015, entry version 109.
+DE   RecName: Full=Protein phosphatase 2C 16;
+DE            Short=AtPP2C16;
+DE            EC=3.1.3.16;
+DE   AltName: Full=AtP2C-HA;
+DE   AltName: Full=Protein HYPERSENSITIVE TO ABA 1;
+DE   AltName: Full=Protein phosphatase 2C HAB1;
+DE            Short=PP2C HAB1;
+DE   Flags: Precursor;
+GN   Name=HAB1; Synonyms=P2C-HA; OrderedLocusNames=At1g72770;
+GN   ORFNames=F28P22.4;
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] (ISOFORM 1), TISSUE SPECIFICITY, AND
+RP   INDUCTION BY ABA.
+RC   STRAIN=cv. Landsberg erecta;
+RX   PubMed=9862504; DOI=10.1023/A:1006012218704;
+RA   Rodriguez P.L., Leube M.P., Grill E.;
+RT   "Molecular cloning in Arabidopsis thaliana of a new protein
+RT   phosphatase 2C (PP2C) with homology to ABI1 and ABI2.";
+RL   Plant Mol. Biol. 38:879-883(1998).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=11130712; DOI=10.1038/35048500;
+RA   Theologis A., Ecker J.R., Palm C.J., Federspiel N.A., Kaul S.,
+RA   White O., Alonso J., Altafi H., Araujo R., Bowman C.L., Brooks S.Y.,
+RA   Buehler E., Chan A., Chao Q., Chen H., Cheuk R.F., Chin C.W.,
+RA   Chung M.K., Conn L., Conway A.B., Conway A.R., Creasy T.H., Dewar K.,
+RA   Dunn P., Etgu P., Feldblyum T.V., Feng J.-D., Fong B., Fujii C.Y.,
+RA   Gill J.E., Goldsmith A.D., Haas B., Hansen N.F., Hughes B., Huizar L.,
+RA   Hunter J.L., Jenkins J., Johnson-Hopson C., Khan S., Khaykin E.,
+RA   Kim C.J., Koo H.L., Kremenetskaia I., Kurtz D.B., Kwan A., Lam B.,
+RA   Langin-Hooper S., Lee A., Lee J.M., Lenz C.A., Li J.H., Li Y.-P.,
+RA   Lin X., Liu S.X., Liu Z.A., Luros J.S., Maiti R., Marziali A.,
+RA   Militscher J., Miranda M., Nguyen M., Nierman W.C., Osborne B.I.,
+RA   Pai G., Peterson J., Pham P.K., Rizzo M., Rooney T., Rowley D.,
+RA   Sakano H., Salzberg S.L., Schwartz J.R., Shinn P., Southwick A.M.,
+RA   Sun H., Tallon L.J., Tambunga G., Toriumi M.J., Town C.D.,
+RA   Utterback T., Van Aken S., Vaysberg M., Vysotskaia V.S., Walker M.,
+RA   Wu D., Yu G., Fraser C.M., Venter J.C., Davis R.W.;
+RT   "Sequence and analysis of chromosome 1 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 408:816-820(2000).
+RN   [3]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RG   The Arabidopsis Information Resource (TAIR);
+RL   Submitted (APR-2011) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   STRAIN=cv. Columbia;
+RA   Cheuk R.F., Chen H., Kim C.J., Shinn P., Ecker J.R.;
+RT   "Arabidopsis ORF clones.";
+RL   Submitted (AUG-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).
+RC   STRAIN=cv. Columbia;
+RA   Totoki Y., Seki M., Ishida J., Nakajima M., Enju A., Kamiya A.,
+RA   Narusaka M., Shin-i T., Nakagawa M., Sakamoto N., Oishi K., Kohara Y.,
+RA   Kobayashi M., Toyoda A., Sakaki Y., Sakurai T., Iida K., Akiyama K.,
+RA   Satou M., Toyoda T., Konagaya A., Carninci P., Kawai J.,
+RA   Hayashizaki Y., Shinozaki K.;
+RT   "Large-scale analysis of RIKEN Arabidopsis full-length (RAFL) cDNAs.";
+RL   Submitted (JUL-2006) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 148-511 (ISOFORM 1).
+RC   TISSUE=Rosette leaf;
+RX   PubMed=19423640; DOI=10.1093/dnares/dsp009;
+RA   Iida K., Fukami-Kobayashi K., Toyoda A., Sakaki Y., Kobayashi M.,
+RA   Seki M., Shinozaki K.;
+RT   "Analysis of multiple occurrences of alternative splicing events in
+RT   Arabidopsis thaliana using novel sequenced full-length cDNAs.";
+RL   DNA Res. 16:155-164(2009).
+RN   [7]
+RP   FUNCTION, TISSUE SPECIFICITY, AND INDUCTION BY ABA.
+RX   PubMed=14731256; DOI=10.1046/j.1365-313X.2003.01966.x;
+RA   Saez A., Apostolova N., Gonzalez-Guzman M., Gonzalez-Garcia M.P.,
+RA   Nicolas C., Lorenzo O., Rodriguez P.L.;
+RT   "Gain-of-function and loss-of-function phenotypes of the protein
+RT   phosphatase 2C HAB1 reveal its role as a negative regulator of
+RT   abscisic acid signalling.";
+RL   Plant J. 37:354-369(2004).
+RN   [8]
+RP   GENE FAMILY, AND NOMENCLATURE.
+RX   PubMed=15130549; DOI=10.1016/j.tplants.2004.03.007;
+RA   Schweighofer A., Hirt H., Meskiene I.;
+RT   "Plant PP2C phosphatases: emerging functions in stress signaling.";
+RL   Trends Plant Sci. 9:236-243(2004).
+RN   [9]
+RP   FUNCTION, AND MUTAGENESIS OF GLY-246.
+RX   PubMed=16876791; DOI=10.1016/j.febslet.2006.07.047;
+RA   Robert N., Merlot S., N'guyen V., Boisson-Dernier A., Schroeder J.I.;
+RT   "A hypermorphic mutation in the protein phosphatase 2C HAB1 strongly
+RT   affects ABA signaling in Arabidopsis.";
+RL   FEBS Lett. 580:4691-4696(2006).
+RN   [10]
+RP   INDUCTION BY ABA, AND TISSUE SPECIFICITY.
+RX   PubMed=16339800; DOI=10.1104/pp.105.070128;
+RA   Yoshida T., Nishimura N., Kitahata N., Kuromori T., Ito T., Asami T.,
+RA   Shinozaki K., Hirayama T.;
+RT   "ABA-hypersensitive germination3 encodes a protein phosphatase 2C
+RT   (AtPP2CA) that strongly regulates abscisic acid signaling during
+RT   germination among Arabidopsis protein phosphatase 2Cs.";
+RL   Plant Physiol. 140:115-126(2006).
+RN   [11]
+RP   FUNCTION.
+RX   PubMed=16798945; DOI=10.1104/pp.106.081018;
+RA   Saez A., Robert N., Maktabi M.H., Schroeder J.I., Serrano R.,
+RA   Rodriguez P.L.;
+RT   "Enhancement of abscisic acid sensitivity and reduction of water
+RT   consumption in Arabidopsis by combined inactivation of the protein
+RT   phosphatases type 2C ABI1 and HAB1.";
+RL   Plant Physiol. 141:1389-1399(2006).
+RN   [12]
+RP   GENE FAMILY, AND NOMENCLATURE.
+RX   PubMed=19021904; DOI=10.1186/1471-2164-9-550;
+RA   Xue T., Wang D., Zhang S., Ehlting J., Ni F., Jacab S., Zheng C.,
+RA   Zhong Y.;
+RT   "Genome-wide and expression analysis of protein phosphatase 2C in rice
+RT   and Arabidopsis.";
+RL   BMC Genomics 9:550-550(2008).
+RN   [13]
+RP   FUNCTION, SUBCELLULAR LOCATION, INTERACTION WITH SWI3B, AND
+RP   MUTAGENESIS OF GLY-246.
+RX   PubMed=19033529; DOI=10.1105/tpc.107.056705;
+RA   Saez A., Rodrigues A., Santiago J., Rubio S., Rodriguez P.L.;
+RT   "HAB1-SWI3B interaction reveals a link between abscisic acid signaling
+RT   and putative SWI/SNF chromatin-remodeling complexes in Arabidopsis.";
+RL   Plant Cell 20:2972-2988(2008).
+RN   [14]
+RP   INDUCTION BY MYB44.
+RX   PubMed=18162593; DOI=10.1104/pp.107.110981;
+RA   Jung C., Seo J.S., Han S.W., Koo Y.J., Kim C.H., Song S.I., Nahm B.H.,
+RA   Choi Y.D., Cheong J.-J.;
+RT   "Overexpression of AtMYB44 enhances stomatal closure to confer abiotic
+RT   stress tolerance in transgenic Arabidopsis.";
+RL   Plant Physiol. 146:623-635(2008).
+RN   [15]
+RP   INTERACTION WITH PYL5; PYL6 AND PYL8, AND MUTAGENESIS OF GLY-246.
+RX   PubMed=19624469; DOI=10.1111/j.1365-313X.2009.03981.x;
+RA   Santiago J., Rodrigues A., Saez A., Rubio S., Antoni R., Dupeux F.,
+RA   Park S.-Y., Marquez J.A., Cutler S.R., Rodriguez P.L.;
+RT   "Modulation of drought resistance by the abscisic acid receptor PYL5
+RT   through inhibition of clade A PP2Cs.";
+RL   Plant J. 60:575-588(2009).
+RN   [16]
+RP   INTERACTION WITH PYL9/RCAR1.
+RX   PubMed=19407143; DOI=10.1126/science.1172408;
+RA   Ma Y., Szostkiewicz I., Korte A., Moes D., Yang Y., Christmann A.,
+RA   Grill E.;
+RT   "Regulators of PP2C phosphatase activity function as abscisic acid
+RT   sensors.";
+RL   Science 324:1064-1068(2009).
+RN   [17]
+RP   INTERACTION WITH PYR1; PYL1; PYL2; PYL3 AND PYL4, AND ENZYME
+RP   REGULATION.
+RX   PubMed=19407142; DOI=10.1126/science.1173041;
+RA   Park S.-Y., Fung P., Nishimura N., Jensen D.R., Fujii H., Zhao Y.,
+RA   Lumba S., Santiago J., Rodrigues A., Chow T.F., Alfred S.E.,
+RA   Bonetta D., Finkelstein R., Provart N.J., Desveaux D., Rodriguez P.L.,
+RA   McCourt P., Zhu J.-K., Schroeder J.I., Volkman B.F., Cutler S.R.;
+RT   "Abscisic acid inhibits type 2C protein phosphatases via the PYR/PYL
+RT   family of START proteins.";
+RL   Science 324:1068-1071(2009).
+RN   [18]
+RP   INTERACTION WITH PYL13.
+RX   PubMed=24165892; DOI=10.1038/cr.2013.143;
+RA   Li W., Wang L., Sheng X., Yan C., Zhou R., Hang J., Yin P., Yan N.;
+RT   "Molecular basis for the selective and ABA-independent inhibition of
+RT   PP2CA by PYL13.";
+RL   Cell Res. 23:1369-1379(2013).
+RN   [19]
+RP   X-RAY CRYSTALLOGRAPHY (1.95 ANGSTROMS) OF 186-506 IN COMPLEX WITH
+RP   MAGNESIUM; ABSCISIC ACID AND PYL2, INTERACTION WITH PYR1; PYL1; PYL2;
+RP   PYL3; PYL4; PYL5 AND PYL6, AND LOCK SITE.
+RX   PubMed=19898420; DOI=10.1038/nature08613;
+RA   Melcher K., Ng L.-M., Zhou X.E., Soon F.-F., Xu Y., Suino-Powell K.M.,
+RA   Park S.-Y., Weiner J.J., Fujii H., Chinnusamy V., Kovach A., Li J.,
+RA   Wang Y., Li J., Peterson F.C., Jensen D.R., Yong E.-L., Volkman B.F.,
+RA   Cutler S.R., Zhu J.-K., Xu H.E.;
+RT   "A gate-latch-lock mechanism for hormone signalling by abscisic acid
+RT   receptors.";
+RL   Nature 462:602-608(2009).
+RN   [20]
+RP   X-RAY CRYSTALLOGRAPHY (2.11 ANGSTROMS) OF 172-511 IN COMPLEX WITH
+RP   MAGNESIUM, AND INTERACTION WITH PYL10.
+RX   PubMed=21658606; DOI=10.1016/j.molcel.2011.05.011;
+RA   Hao Q., Yin P., Li W., Wang L., Yan C., Lin Z., Wu J.Z., Wang J.,
+RA   Yan S.F., Yan N.;
+RT   "The molecular basis of ABA-independent inhibition of PP2Cs by a
+RT   subclass of PYL proteins.";
+RL   Mol. Cell 42:662-672(2011).
+CC   -!- FUNCTION: Key component and repressor of the abscisic acid (ABA)
+CC       signaling pathway that regulates numerous ABA responses, such as
+CC       stomatal closure, seed germination and inhibition of vegetative
+CC       growth. Confers enhanced sensitivity to drought.
+CC       {ECO:0000269|PubMed:14731256, ECO:0000269|PubMed:16798945,
+CC       ECO:0000269|PubMed:16876791, ECO:0000269|PubMed:19033529}.
+CC   -!- CATALYTIC ACTIVITY: [a protein]-serine/threonine phosphate + H(2)O
+CC       = [a protein]-serine/threonine + phosphate.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000269|PubMed:19898420,
+CC         ECO:0000269|PubMed:21658606};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035; Evidence={ECO:0000250};
+CC       Note=Binds 2 magnesium or manganese ions per subunit.
+CC       {ECO:0000250};
+CC   -!- ENZYME REGULATION: Repressed by PYR/PYL/RCAR ABA receptors in an
+CC       ABA-dependent manner. {ECO:0000269|PubMed:19407142}.
+CC   -!- SUBUNIT: Interacts with SWI3B (via N-terminus). Interacts with
+CC       ABA-bounded PYR1, PYL1, PYL2, PYL3, PYL4, PYL5, PYL6, PYL8 and
+CC       PYL9, and with free PYL2, PYL3, PYL4, PYL10 and PYL13.
+CC       {ECO:0000269|PubMed:19033529, ECO:0000269|PubMed:19407142,
+CC       ECO:0000269|PubMed:19407143, ECO:0000269|PubMed:19624469,
+CC       ECO:0000269|PubMed:19898420, ECO:0000269|PubMed:21658606,
+CC       ECO:0000269|PubMed:24165892}.
+CC   -!- INTERACTION:
+CC       Q8VZS8:PYL1; NbExp=2; IntAct=EBI-2309302, EBI-2363104;
+CC       Q9FLB1:PYL5; NbExp=6; IntAct=EBI-2309302, EBI-2363181;
+CC       Q8S8E3:PYL6; NbExp=4; IntAct=EBI-2309302, EBI-2363192;
+CC       Q9FGM1:PYL8; NbExp=3; IntAct=EBI-2309302, EBI-2429535;
+CC       O49686:PYR1; NbExp=8; IntAct=EBI-2309302, EBI-2349590;
+CC       Q84JG2:SWI3B; NbExp=4; IntAct=EBI-2309302, EBI-1102271;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:19033529}.
+CC       Nucleus {ECO:0000269|PubMed:19033529}. Note=Mainly cytoplasmic.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q9CAJ0-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q9CAJ0-2; Sequence=VSP_034844, VSP_034845;
+CC         Note=No experimental confirmation available.;
+CC   -!- TISSUE SPECIFICITY: Expressed in seeds, roots, stems, leaves and
+CC       flowers, especially in meristematic tissues, guard cells, embryo
+CC       and siliques. {ECO:0000269|PubMed:14731256,
+CC       ECO:0000269|PubMed:16339800, ECO:0000269|PubMed:9862504}.
+CC   -!- INDUCTION: Repressed by MYB44. Induced by ABA.
+CC       {ECO:0000269|PubMed:14731256, ECO:0000269|PubMed:16339800,
+CC       ECO:0000269|PubMed:18162593, ECO:0000269|PubMed:9862504}.
+CC   -!- DOMAIN: The 'lock' site stabilizes the complex made of PP2C, ABA
+CC       and PYR/PYL/RCAR receptor by keeping receptor 'gate' and 'latch'
+CC       loops in closed positions.
+CC   -!- SIMILARITY: Belongs to the PP2C family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 PPM-type phosphatase domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01082}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAH56780.1; Type=Erroneous initiation; Note=Translation N-terminally extended.; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AJ003119; CAA05875.1; -; Genomic_DNA.
+DR   EMBL; AC010926; AAG51849.1; -; Genomic_DNA.
+DR   EMBL; CP002684; AEE35370.1; -; Genomic_DNA.
+DR   EMBL; CP002684; AEE35371.1; -; Genomic_DNA.
+DR   EMBL; CP002684; AEE35372.1; -; Genomic_DNA.
+DR   EMBL; BT015409; AAU05532.1; -; mRNA.
+DR   EMBL; AK230171; BAF01980.1; -; mRNA.
+DR   EMBL; AK318665; BAH56780.1; ALT_INIT; mRNA.
+DR   PIR; F96752; F96752.
+DR   RefSeq; NP_001077815.1; NM_001084346.2. [Q9CAJ0-2]
+DR   RefSeq; NP_001185385.1; NM_001198456.1. [Q9CAJ0-1]
+DR   RefSeq; NP_177421.1; NM_105936.3. [Q9CAJ0-1]
+DR   UniGene; At.46635; -.
+DR   UniGene; At.67356; -.
+DR   PDB; 3KB3; X-ray; 1.95 A; B=186-506.
+DR   PDB; 3NMT; X-ray; 2.56 A; B=172-511.
+DR   PDB; 3QN1; X-ray; 1.80 A; B=178-511.
+DR   PDB; 3RT0; X-ray; 2.11 A; A/B=172-511.
+DR   PDB; 3UJG; X-ray; 2.60 A; B=172-511.
+DR   PDB; 3ZVU; X-ray; 2.10 A; B=178-511.
+DR   PDB; 4DS8; X-ray; 2.21 A; B=169-511.
+DR   PDB; 4LA7; X-ray; 1.98 A; B=178-505.
+DR   PDB; 4LG5; X-ray; 2.88 A; B=172-511.
+DR   PDB; 4LGA; X-ray; 2.70 A; B=172-511.
+DR   PDB; 4LGB; X-ray; 3.15 A; B=172-511.
+DR   PDB; 4WVO; X-ray; 2.25 A; B=178-505.
+DR   PDBsum; 3KB3; -.
+DR   PDBsum; 3NMT; -.
+DR   PDBsum; 3QN1; -.
+DR   PDBsum; 3RT0; -.
+DR   PDBsum; 3UJG; -.
+DR   PDBsum; 3ZVU; -.
+DR   PDBsum; 4DS8; -.
+DR   PDBsum; 4LA7; -.
+DR   PDBsum; 4LG5; -.
+DR   PDBsum; 4LGA; -.
+DR   PDBsum; 4LGB; -.
+DR   PDBsum; 4WVO; -.
+DR   ProteinModelPortal; Q9CAJ0; -.
+DR   SMR; Q9CAJ0; 180-510.
+DR   BioGrid; 28828; 24.
+DR   DIP; DIP-48988N; -.
+DR   IntAct; Q9CAJ0; 16.
+DR   MINT; MINT-8299472; -.
+DR   STRING; 3702.AT1G72770.1; -.
+DR   PRIDE; Q9CAJ0; -.
+DR   EnsemblPlants; AT1G72770.1; AT1G72770.1; AT1G72770. [Q9CAJ0-1]
+DR   EnsemblPlants; AT1G72770.3; AT1G72770.3; AT1G72770. [Q9CAJ0-1]
+DR   GeneID; 843609; -.
+DR   KEGG; ath:AT1G72770; -.
+DR   TAIR; AT1G72770; -.
+DR   eggNOG; COG0631; -.
+DR   HOGENOM; HOG000233896; -.
+DR   InParanoid; Q9CAJ0; -.
+DR   KO; K14497; -.
+DR   OMA; DELCKRN; -.
+DR   PhylomeDB; Q9CAJ0; -.
+DR   BioCyc; ARA:AT1G72770-MONOMER; -.
+DR   BioCyc; ARA:GQT-2826-MONOMER; -.
+DR   BioCyc; ARA:GQT-408-MONOMER; -.
+DR   EvolutionaryTrace; Q9CAJ0; -.
+DR   PRO; PR:Q9CAJ0; -.
+DR   Proteomes; UP000006548; Chromosome 1.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004722; F:protein serine/threonine phosphatase activity; IDA:TAIR.
+DR   GO; GO:0009738; P:abscisic acid-activated signaling pathway; IEA:UniProtKB-KW.
+DR   GO; GO:0006470; P:protein dephosphorylation; IEA:InterPro.
+DR   Gene3D; 3.60.40.10; -; 1.
+DR   InterPro; IPR015655; PP2C.
+DR   InterPro; IPR000222; PP2C_BS.
+DR   InterPro; IPR001932; PPM-type_phosphatase_dom.
+DR   PANTHER; PTHR13832; PTHR13832; 1.
+DR   Pfam; PF00481; PP2C; 1.
+DR   SMART; SM00331; PP2C_SIG; 1.
+DR   SMART; SM00332; PP2Cc; 1.
+DR   SUPFAM; SSF81606; SSF81606; 1.
+DR   PROSITE; PS01032; PPM_1; 1.
+DR   PROSITE; PS51746; PPM_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Abscisic acid signaling pathway; Alternative splicing;
+KW   Complete proteome; Cytoplasm; Hydrolase; Magnesium; Manganese;
+KW   Metal-binding; Nucleus; Protein phosphatase; Reference proteome;
+KW   Signal.
+FT   SIGNAL        1     22       {ECO:0000255}.
+FT   CHAIN        23    511       Protein phosphatase 2C 16.
+FT                                /FTId=PRO_0000344524.
+FT   DOMAIN      189    501       PPM-type phosphatase.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU01082}.
+FT   METAL       243    243       Manganese 1. {ECO:0000244|PDB:3KB3,
+FT                                ECO:0000269|PubMed:19898420}.
+FT   METAL       243    243       Manganese 2. {ECO:0000244|PDB:3NMT,
+FT                                ECO:0000244|PDB:3QN1,
+FT                                ECO:0000244|PDB:3RT0,
+FT                                ECO:0000244|PDB:3UJG,
+FT                                ECO:0000244|PDB:3ZVU,
+FT                                ECO:0000244|PDB:4LA7,
+FT                                ECO:0000244|PDB:4LG5,
+FT                                ECO:0000244|PDB:4LGA,
+FT                                ECO:0000244|PDB:4WVO,
+FT                                ECO:0000269|PubMed:21658606}.
+FT   METAL       244    244       Manganese 1; via carbonyl oxygen.
+FT                                {ECO:0000244|PDB:3KB3,
+FT                                ECO:0000269|PubMed:19898420}.
+FT   METAL       432    432       Manganese 2. {ECO:0000244|PDB:3NMT,
+FT                                ECO:0000244|PDB:3QN1,
+FT                                ECO:0000244|PDB:3RT0,
+FT                                ECO:0000244|PDB:3UJG,
+FT                                ECO:0000244|PDB:3ZVU,
+FT                                ECO:0000244|PDB:4LA7,
+FT                                ECO:0000244|PDB:4LG5,
+FT                                ECO:0000244|PDB:4LGA,
+FT                                ECO:0000244|PDB:4WVO,
+FT                                ECO:0000269|PubMed:21658606}.
+FT   METAL       492    492       Manganese 2. {ECO:0000244|PDB:3NMT,
+FT                                ECO:0000244|PDB:3QN1,
+FT                                ECO:0000244|PDB:3RT0,
+FT                                ECO:0000244|PDB:3UJG,
+FT                                ECO:0000244|PDB:3ZVU,
+FT                                ECO:0000244|PDB:4LA7,
+FT                                ECO:0000244|PDB:4LG5,
+FT                                ECO:0000244|PDB:4LGA,
+FT                                ECO:0000244|PDB:4WVO,
+FT                                ECO:0000269|PubMed:21658606}.
+FT   SITE        385    385       Lock.
+FT   VAR_SEQ     402    406       DRYLK -> KHCFF (in isoform 2).
+FT                                {ECO:0000303|Ref.5}.
+FT                                /FTId=VSP_034844.
+FT   VAR_SEQ     407    511       Missing (in isoform 2).
+FT                                {ECO:0000303|Ref.5}.
+FT                                /FTId=VSP_034845.
+FT   MUTAGEN     246    246       G->D: Reduced phosphatase activity,
+FT                                impaired affinity for PYR/PYL/RCAR
+FT                                receptors, and insensitivity to ABA.
+FT                                {ECO:0000269|PubMed:16876791,
+FT                                ECO:0000269|PubMed:19033529,
+FT                                ECO:0000269|PubMed:19624469}.
+FT   CONFLICT     46     46       Q -> P (in Ref. 1; CAA05875).
+FT                                {ECO:0000305}.
+FT   HELIX       181    183       {ECO:0000244|PDB:3RT0}.
+FT   STRAND      190    195       {ECO:0000244|PDB:3QN1}.
+FT   STRAND      199    201       {ECO:0000244|PDB:3QN1}.
+FT   STRAND      204    216       {ECO:0000244|PDB:3QN1}.
+FT   HELIX       217    219       {ECO:0000244|PDB:3QN1}.
+FT   STRAND      233    248       {ECO:0000244|PDB:3QN1}.
+FT   HELIX       249    268       {ECO:0000244|PDB:3QN1}.
+FT   TURN        269    271       {ECO:0000244|PDB:4LA7}.
+FT   HELIX       284    302       {ECO:0000244|PDB:3QN1}.
+FT   STRAND      319    321       {ECO:0000244|PDB:4LG5}.
+FT   STRAND      329    334       {ECO:0000244|PDB:3QN1}.
+FT   STRAND      336    346       {ECO:0000244|PDB:3QN1}.
+FT   STRAND      348    353       {ECO:0000244|PDB:3QN1}.
+FT   STRAND      356    360       {ECO:0000244|PDB:3QN1}.
+FT   HELIX       369    377       {ECO:0000244|PDB:3QN1}.
+FT   STRAND      382    390       {ECO:0000244|PDB:3QN1}.
+FT   TURN        391    393       {ECO:0000244|PDB:3QN1}.
+FT   HELIX       403    405       {ECO:0000244|PDB:3QN1}.
+FT   TURN        406    408       {ECO:0000244|PDB:3QN1}.
+FT   STRAND      414    419       {ECO:0000244|PDB:3QN1}.
+FT   STRAND      424    430       {ECO:0000244|PDB:3QN1}.
+FT   HELIX       432    435       {ECO:0000244|PDB:3QN1}.
+FT   HELIX       440    458       {ECO:0000244|PDB:3QN1}.
+FT   TURN        463    468       {ECO:0000244|PDB:3KB3}.
+FT   HELIX       472    487       {ECO:0000244|PDB:3QN1}.
+FT   STRAND      494    500       {ECO:0000244|PDB:3QN1}.
+SQ   SEQUENCE   511 AA;  55744 MW;  B001BAF0DD8333E1 CRC64;
+     MEEMTPAVAM TLSLAANTMC ESSPVEITQL KNVTDAADLL SDSENQSFCN GGTECTMEDV
+     SELEEVGEQD LLKTLSDTRS GSSNVFDEDD VLSVVEDNSA VISEGLLVVD AGSELSLSNT
+     AMEIDNGRVL ATAIIVGESS IEQVPTAEVL IAGVNQDTNT SEVVIRLPDE NSNHLVKGRS
+     VYELDCIPLW GTVSIQGNRS EMEDAFAVSP HFLKLPIKML MGDHEGMSPS LTHLTGHFFG
+     VYDGHGGHKV ADYCRDRLHF ALAEEIERIK DELCKRNTGE GRQVQWDKVF TSCFLTVDGE
+     IEGKIGRAVV GSSDKVLEAV ASETVGSTAV VALVCSSHIV VSNCGDSRAV LFRGKEAMPL
+     SVDHKPDRED EYARIENAGG KVIQWQGARV FGVLAMSRSI GDRYLKPYVI PEPEVTFMPR
+     SREDECLILA SDGLWDVMNN QEVCEIARRR ILMWHKKNGA PPLAERGKGI DPACQAAADY
+     LSMLALQKGS KDNISIIVID LKAQRKFKTR T
+//

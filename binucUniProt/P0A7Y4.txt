@@ -1,0 +1,418 @@
+ID   RNH_ECOLI               Reviewed;         155 AA.
+AC   P0A7Y4; P00647; Q8FKY5;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   21-JUL-1986, sequence version 1.
+DT   22-JUL-2015, entry version 101.
+DE   RecName: Full=Ribonuclease HI;
+DE            Short=RNase HI;
+DE            EC=3.1.26.4;
+DE   AltName: Full=Ribonuclease H;
+DE            Short=RNase H;
+GN   Name=rnhA; Synonyms=dasF, herA, rnh, sdrA;
+GN   OrderedLocusNames=b0214, JW0204;
+OS   Escherichia coli (strain K12).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=83333;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=6296074;
+RA   Kanaya S., Crouch R.J.;
+RT   "DNA sequence of the gene coding for Escherichia coli ribonuclease
+RT   H.";
+RL   J. Biol. Chem. 258:1276-1281(1983).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=FB2;
+RX   PubMed=6316347; DOI=10.1073/pnas.80.23.7137;
+RA   Maki H., Horiuchi T., Sekiguchi M.;
+RT   "Structure and expression of the dnaQ mutator and the RNase H genes of
+RT   Escherichia coli: overlap of the promoter regions.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 80:7137-7141(1983).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=6302075;
+RA   Kanaya S., Crouch R.J.;
+RT   "Low levels of RNase H activity in Escherichia coli FB2 rnh result
+RT   from a single-base change in the structural gene of RNase H.";
+RL   J. Bacteriol. 154:1021-1026(1983).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=3023634; DOI=10.1016/0022-2836(86)90080-X;
+RA   Cox E.C., Horner D.L.;
+RT   "DNA sequence and coding properties of mutD(dnaQ) a dominant
+RT   Escherichia coli mutator gene.";
+RL   J. Mol. Biol. 190:113-117(1986).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / W3110 / ATCC 27325 / DSM 5911;
+RA   Takemoto K., Mori H., Murayama N., Kataoka K., Yano M., Itoh T.,
+RA   Yamamoto Y., Inokuchi H., Miki T., Hatada E., Fukuda R., Ichihara S.,
+RA   Mizuno T., Makino K., Nakata A., Yura T., Sampei G., Mizobuchi K.;
+RT   "Systematic sequencing of the Escherichia coli genome: analysis of the
+RT   4.0 - 6.0 min (189,987 - 281,416bp) region.";
+RL   Submitted (FEB-1996) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / MG1655 / ATCC 47076;
+RA   Chung E., Allen E., Araujo R., Aparicio A.M., Davis K., Duncan M.,
+RA   Federspiel N., Hyman R., Kalman S., Komp C., Kurdi O., Lew H., Lin D.,
+RA   Namath A., Oefner P., Roberts D., Schramm S., Davis R.W.;
+RT   "Sequence of minutes 4-25 of Escherichia coli.";
+RL   Submitted (JAN-1997) to the EMBL/GenBank/DDBJ databases.
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / MG1655 / ATCC 47076;
+RX   PubMed=9278503; DOI=10.1126/science.277.5331.1453;
+RA   Blattner F.R., Plunkett G. III, Bloch C.A., Perna N.T., Burland V.,
+RA   Riley M., Collado-Vides J., Glasner J.D., Rode C.K., Mayhew G.F.,
+RA   Gregor J., Davis N.W., Kirkpatrick H.A., Goeden M.A., Rose D.J.,
+RA   Mau B., Shao Y.;
+RT   "The complete genome sequence of Escherichia coli K-12.";
+RL   Science 277:1453-1462(1997).
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / W3110 / ATCC 27325 / DSM 5911;
+RX   PubMed=16738553; DOI=10.1038/msb4100049;
+RA   Hayashi K., Morooka N., Yamamoto Y., Fujita K., Isono K., Choi S.,
+RA   Ohtsubo E., Baba T., Wanner B.L., Mori H., Horiuchi T.;
+RT   "Highly accurate genome sequences of Escherichia coli K-12 strains
+RT   MG1655 and W3110.";
+RL   Mol. Syst. Biol. 2:E1-E5(2006).
+RN   [9]
+RP   PARTIAL PROTEIN SEQUENCE, AND MUTAGENESIS OF CYSTEINE RESIDUES.
+RX   PubMed=2171503;
+RA   Kanaya S., Kimura S., Katsuda C., Ikehara M.;
+RT   "Role of cysteine residues in ribonuclease H from Escherichia coli.
+RT   Site-directed mutagenesis and chemical modification.";
+RL   Biochem. J. 271:59-66(1990).
+RN   [10]
+RP   MUTAGENESIS OF ASP-10; GLU-48; ASP-70; HIS-124; ASN-130 AND ASP-134.
+RX   PubMed=1689729;
+RA   Kanaya S., Kohara A., Miura Y., Sekiguchi A., Iwai S., Inoue H.,
+RA   Ohtsuka E., Ikehara M.;
+RT   "Identification of the amino acid residues involved in an active site
+RT   of Escherichia coli ribonuclease H by site-directed mutagenesis.";
+RL   J. Biol. Chem. 265:4615-4621(1990).
+RN   [11]
+RP   COFACTOR, AND MUTAGENESIS OF HIS-124 AND ASP-134.
+RX   PubMed=9852071; DOI=10.1074/jbc.273.51.34128;
+RA   Keck J.L., Goedken E.R., Marqusee S.;
+RT   "Activation/attenuation model for RNase H. A one-metal mechanism with
+RT   second-metal inhibition.";
+RL   J. Biol. Chem. 273:34128-34133(1998).
+RN   [12]
+RP   X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS).
+RX   PubMed=1698262; DOI=10.1038/347306a0;
+RA   Katayanagi K., Miyagawa M., Matsushima M., Ishikawa M., Kanaya S.,
+RA   Ikehara M., Matsuzaki T., Morikawa K.;
+RT   "Three-dimensional structure of ribonuclease H from E. coli.";
+RL   Nature 347:306-309(1990).
+RN   [13]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS), AND SUBUNIT.
+RX   PubMed=2169648; DOI=10.1126/science.2169648;
+RA   Yang W., Hendrickson W.A., Crouch R.J., Satow Y.;
+RT   "Structure of ribonuclease H phased at 2-A resolution by MAD analysis
+RT   of the selenomethionyl protein.";
+RL   Science 249:1398-1405(1990).
+RN   [14]
+RP   STRUCTURE BY NMR.
+RX   PubMed=1646006; DOI=10.1021/bi00238a030;
+RA   Yamazaki T., Yoshida M., Kanaya S., Nakamura H., Nagayama K.;
+RT   "Assignments of backbone 1H, 13C, and 15N resonances and secondary
+RT   structure of ribonuclease H from Escherichia coli by heteronuclear
+RT   three-dimensional NMR spectroscopy.";
+RL   Biochemistry 30:6036-6047(1991).
+RN   [15]
+RP   X-RAY CRYSTALLOGRAPHY (1.48 ANGSTROMS) IN COMPLEX WITH MAGNESIUM.
+RX   PubMed=1311386; DOI=10.1016/0022-2836(92)90260-Q;
+RA   Katayanagi K., Miyagawa M., Matsushima M., Ishikawa M., Kanaya S.,
+RA   Nakamura H., Ikehara M., Matsuzaki T., Morikawa K.;
+RT   "Structural details of ribonuclease H from Escherichia coli as refined
+RT   to an atomic resolution.";
+RL   J. Mol. Biol. 223:1029-1052(1992).
+RN   [16]
+RP   X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS) OF MUTANTS.
+RX   PubMed=8381958; DOI=10.1093/protein/6.1.85;
+RA   Ishikawa K., Kimura S., Kanaya S., Morikawa K., Nakamura H.;
+RT   "Structural study of mutants of Escherichia coli ribonuclease HI with
+RT   enhanced thermostability.";
+RL   Protein Eng. 6:85-91(1993).
+RN   [17]
+RP   X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS) OF MUTANTS ASN-10; GLN-48 AND
+RP   ASN-70.
+RX   PubMed=8408067;
+RA   Katayanagi K., Ishikawa K., Okumura M., Ariyoshi M., Kanaya S.,
+RA   Kawano Y., Suzuki M., Tanaka I., Morikawa K.;
+RT   "Crystal structures of ribonuclease HI active site mutants from
+RT   Escherichia coli.";
+RL   J. Biol. Chem. 268:22092-22099(1993).
+RN   [18]
+RP   STRUCTURE BY NMR.
+RX   PubMed=8527428; DOI=10.1021/bi00051a003;
+RA   Yamazaki T., Ogasahara K., Yutani K., Oobatake M., Kanaya S.;
+RT   "Folding pathway of Escherichia coli ribonuclease HI: a circular
+RT   dichroism, fluorescence, and NMR study.";
+RL   Biochemistry 34:16552-16562(1995).
+RN   [19]
+RP   X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS), AND MUTAGENESIS OF HIS-124 AND
+RP   ASP-134.
+RX   PubMed=8931125; DOI=10.1093/protein/9.10.857;
+RA   Kashiwagi T., Jeanteur D., Haruki M., Katayanagi K., Kanaya S.,
+RA   Morikawa K.;
+RT   "Proposal for new catalytic roles for two invariant residues in
+RT   Escherichia coli ribonuclease HI.";
+RL   Protein Eng. 9:857-867(1996).
+RN   [20]
+RP   X-RAY CRYSTALLOGRAPHY (1.4 ANGSTROMS).
+RX   PubMed=11106164; DOI=10.1110/ps.9.10.1914;
+RA   Goedken E.R., Keck J.L., Berger J.M., Marqusee S.;
+RT   "Divalent metal cofactor binding in the kinetic folding trajectory of
+RT   Escherichia coli ribonuclease HI.";
+RL   Protein Sci. 9:1914-1921(2000).
+RN   [21]
+RP   X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS) IN COMPLEX WITH MANGANESE IONS.
+RX   PubMed=11083878; DOI=10.1074/jbc.M009626200;
+RA   Goedken E.R., Marqusee S.;
+RT   "Co-crystal of Escherichia coli RNase HI with Mn2+ ions reveals two
+RT   divalent metals bound in the active site.";
+RL   J. Biol. Chem. 276:7266-7271(2001).
+RN   [22]
+RP   X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) OF MUTANTS ALA-48 AND ASN-134 IN
+RP   COMPLEX WITH MANGANESE IONS.
+RX   PubMed=15644213; DOI=10.1016/j.jmb.2004.11.007;
+RA   Tsunaka Y., Takano K., Matsumura H., Yamagata Y., Kanaya S.;
+RT   "Identification of single Mn(2+) binding sites required for activation
+RT   of the mutant proteins of E.coli RNase HI at Glu48 and/or Asp134 by X-
+RT   ray crystallography.";
+RL   J. Mol. Biol. 345:1171-1183(2005).
+CC   -!- FUNCTION: Endonuclease that specifically degrades the RNA of RNA-
+CC       DNA hybrids. RNase H participates in DNA replication; it helps to
+CC       specify the origin of genomic replication by suppressing
+CC       initiation at origins other than the oriC locus; along with the
+CC       5'-3' exonuclease of pol1, it removes RNA primers from the Okazaki
+CC       fragments of lagging strand synthesis; and it defines the origin
+CC       of replication for ColE1-type plasmids by specific cleavage of an
+CC       RNA preprimer.
+CC   -!- CATALYTIC ACTIVITY: Endonucleolytic cleavage to 5'-
+CC       phosphomonoester.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000269|PubMed:9852071};
+CC       Note=Binds 1 Mg(2+) ion per subunit in the absence of substrate.
+CC       Requires millimolar levels of Mg(2+) for maximal activity. Has low
+CC       activity at micromolar concentrations of Mn(2+) and is inhibited
+CC       at higher Mn(2+) levels. Can bind a second metal ion at a
+CC       regulatory site, or after substrate binding.
+CC       {ECO:0000269|PubMed:9852071};
+CC   -!- SUBUNIT: Monomer. {ECO:0000269|PubMed:11083878,
+CC       ECO:0000269|PubMed:1311386, ECO:0000269|PubMed:15644213,
+CC       ECO:0000269|PubMed:2169648}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the RNase H family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 RNase H domain. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; K00985; AAA24565.1; -; Genomic_DNA.
+DR   EMBL; V00337; CAA23620.1; -; Genomic_DNA.
+DR   EMBL; X04027; CAA27660.1; -; Genomic_DNA.
+DR   EMBL; U70214; AAB08636.1; -; Genomic_DNA.
+DR   EMBL; U00096; AAC73319.1; -; Genomic_DNA.
+DR   EMBL; AP009048; BAA77885.1; -; Genomic_DNA.
+DR   PIR; A92401; NRECH.
+DR   RefSeq; NP_414750.1; NC_000913.3.
+DR   RefSeq; WP_000917883.1; NZ_CP010445.1.
+DR   PDB; 1F21; X-ray; 1.40 A; A=1-155.
+DR   PDB; 1G15; X-ray; 1.90 A; A=1-155.
+DR   PDB; 1GOA; X-ray; 1.90 A; A=1-155.
+DR   PDB; 1GOB; X-ray; 2.00 A; A=1-155.
+DR   PDB; 1GOC; X-ray; 2.00 A; A=1-155.
+DR   PDB; 1JL1; X-ray; 1.30 A; A=1-155.
+DR   PDB; 1JL2; X-ray; 1.76 A; A/B/C/D=1-155.
+DR   PDB; 1JXB; X-ray; 1.60 A; A=1-155.
+DR   PDB; 1KVA; X-ray; 1.80 A; A=1-155.
+DR   PDB; 1KVB; X-ray; 1.90 A; A=1-155.
+DR   PDB; 1KVC; X-ray; 1.90 A; A=1-155.
+DR   PDB; 1LAV; X-ray; 1.80 A; A=1-155.
+DR   PDB; 1LAW; X-ray; 1.80 A; A=1-155.
+DR   PDB; 1RBR; X-ray; 1.80 A; A=1-155.
+DR   PDB; 1RBS; X-ray; 1.80 A; A=1-155.
+DR   PDB; 1RBT; X-ray; 1.80 A; A=1-155.
+DR   PDB; 1RBU; X-ray; 1.80 A; A=1-155.
+DR   PDB; 1RBV; X-ray; 1.80 A; A=1-155.
+DR   PDB; 1RCH; NMR; -; A=1-155.
+DR   PDB; 1RDA; X-ray; 2.15 A; A=1-155.
+DR   PDB; 1RDB; X-ray; 1.90 A; A=1-155.
+DR   PDB; 1RDC; X-ray; 2.30 A; A=1-155.
+DR   PDB; 1RDD; X-ray; 2.80 A; A=1-155.
+DR   PDB; 1RNH; X-ray; 2.00 A; A=1-155.
+DR   PDB; 1WSE; X-ray; 2.30 A; A/B=1-155.
+DR   PDB; 1WSF; X-ray; 2.30 A; A/B/C/D=1-155.
+DR   PDB; 1WSG; X-ray; 2.20 A; A/B/C/D=1-155.
+DR   PDB; 1WSH; X-ray; 1.90 A; A/B/C/D=1-155.
+DR   PDB; 1WSI; X-ray; 2.00 A; A/B/C/D=1-155.
+DR   PDB; 1WSJ; X-ray; 2.00 A; A/B/C/D/E/F/G/H=1-155.
+DR   PDB; 2RN2; X-ray; 1.48 A; A=1-155.
+DR   PDB; 2YV0; X-ray; 1.40 A; X=1-155.
+DR   PDB; 2Z1G; X-ray; 2.10 A; A=1-155.
+DR   PDB; 2Z1H; X-ray; 2.60 A; A=1-155.
+DR   PDB; 2Z1I; X-ray; 2.00 A; A/B=1-155.
+DR   PDB; 2Z1J; X-ray; 2.38 A; A=1-155.
+DR   PDB; 3AA2; X-ray; 1.90 A; A=1-155.
+DR   PDB; 3AA3; X-ray; 2.20 A; A=1-155.
+DR   PDB; 3AA4; X-ray; 1.79 A; A=1-155.
+DR   PDB; 3AA5; X-ray; 2.10 A; X=1-155.
+DR   PDB; 3HYF; X-ray; 1.70 A; A=79-102.
+DR   PDB; 3QIN; X-ray; 1.70 A; A=79-102.
+DR   PDB; 3QIO; X-ray; 1.40 A; A=79-102.
+DR   PDB; 4Z0U; X-ray; 2.00 A; A/B=1-155.
+DR   PDBsum; 1F21; -.
+DR   PDBsum; 1G15; -.
+DR   PDBsum; 1GOA; -.
+DR   PDBsum; 1GOB; -.
+DR   PDBsum; 1GOC; -.
+DR   PDBsum; 1JL1; -.
+DR   PDBsum; 1JL2; -.
+DR   PDBsum; 1JXB; -.
+DR   PDBsum; 1KVA; -.
+DR   PDBsum; 1KVB; -.
+DR   PDBsum; 1KVC; -.
+DR   PDBsum; 1LAV; -.
+DR   PDBsum; 1LAW; -.
+DR   PDBsum; 1RBR; -.
+DR   PDBsum; 1RBS; -.
+DR   PDBsum; 1RBT; -.
+DR   PDBsum; 1RBU; -.
+DR   PDBsum; 1RBV; -.
+DR   PDBsum; 1RCH; -.
+DR   PDBsum; 1RDA; -.
+DR   PDBsum; 1RDB; -.
+DR   PDBsum; 1RDC; -.
+DR   PDBsum; 1RDD; -.
+DR   PDBsum; 1RNH; -.
+DR   PDBsum; 1WSE; -.
+DR   PDBsum; 1WSF; -.
+DR   PDBsum; 1WSG; -.
+DR   PDBsum; 1WSH; -.
+DR   PDBsum; 1WSI; -.
+DR   PDBsum; 1WSJ; -.
+DR   PDBsum; 2RN2; -.
+DR   PDBsum; 2YV0; -.
+DR   PDBsum; 2Z1G; -.
+DR   PDBsum; 2Z1H; -.
+DR   PDBsum; 2Z1I; -.
+DR   PDBsum; 2Z1J; -.
+DR   PDBsum; 3AA2; -.
+DR   PDBsum; 3AA3; -.
+DR   PDBsum; 3AA4; -.
+DR   PDBsum; 3AA5; -.
+DR   PDBsum; 3HYF; -.
+DR   PDBsum; 3QIN; -.
+DR   PDBsum; 3QIO; -.
+DR   PDBsum; 4Z0U; -.
+DR   ProteinModelPortal; P0A7Y4; -.
+DR   SMR; P0A7Y4; 1-155.
+DR   DIP; DIP-47864N; -.
+DR   IntAct; P0A7Y4; 21.
+DR   MINT; MINT-1224022; -.
+DR   STRING; 511145.b0214; -.
+DR   BindingDB; P0A7Y4; -.
+DR   ChEMBL; CHEMBL1770039; -.
+DR   PaxDb; P0A7Y4; -.
+DR   PRIDE; P0A7Y4; -.
+DR   EnsemblBacteria; AAC73319; AAC73319; b0214.
+DR   EnsemblBacteria; BAA77885; BAA77885; BAA77885.
+DR   GeneID; 946955; -.
+DR   KEGG; eco:b0214; -.
+DR   PATRIC; 32115541; VBIEscCol129921_0216.
+DR   EchoBASE; EB0853; -.
+DR   EcoGene; EG10860; rnhA.
+DR   eggNOG; COG0328; -.
+DR   HOGENOM; HOG000040465; -.
+DR   InParanoid; P0A7Y4; -.
+DR   KO; K03469; -.
+DR   OMA; LVTDSQY; -.
+DR   OrthoDB; EOG696BTR; -.
+DR   PhylomeDB; P0A7Y4; -.
+DR   BioCyc; EcoCyc:EG10860-MONOMER; -.
+DR   BioCyc; ECOL316407:JW0204-MONOMER; -.
+DR   BioCyc; MetaCyc:EG10860-MONOMER; -.
+DR   BRENDA; 3.1.26.4; 2026.
+DR   EvolutionaryTrace; P0A7Y4; -.
+DR   PRO; PR:P0A7Y4; -.
+DR   Proteomes; UP000000318; Chromosome.
+DR   Proteomes; UP000000625; Chromosome.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0004519; F:endonuclease activity; IDA:EcoliWiki.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0003676; F:nucleic acid binding; IDA:EcoliWiki.
+DR   GO; GO:0004523; F:RNA-DNA hybrid ribonuclease activity; IDA:EcoCyc.
+DR   GO; GO:0043137; P:DNA replication, removal of RNA primer; IMP:EcoCyc.
+DR   GO; GO:0090502; P:RNA phosphodiester bond hydrolysis, endonucleolytic; IBA:GO_Central.
+DR   Gene3D; 3.30.420.10; -; 1.
+DR   HAMAP; MF_00042; RNase_H; 1.
+DR   InterPro; IPR022892; RNaseH.
+DR   InterPro; IPR012337; RNaseH-like_dom.
+DR   InterPro; IPR002156; RNaseH_domain.
+DR   Pfam; PF00075; RNase_H; 1.
+DR   SUPFAM; SSF53098; SSF53098; 1.
+DR   PROSITE; PS50879; RNASE_H; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Cytoplasm; Direct protein sequencing;
+KW   Endonuclease; Hydrolase; Magnesium; Metal-binding; Nuclease;
+KW   Reference proteome.
+FT   CHAIN         1    155       Ribonuclease HI.
+FT                                /FTId=PRO_0000195372.
+FT   DOMAIN        1    142       RNase H.
+FT   METAL        10     10       Magnesium 1.
+FT                                {ECO:0000269|PubMed:1311386}.
+FT   METAL        10     10       Magnesium 2.
+FT                                {ECO:0000269|PubMed:1311386}.
+FT   METAL        48     48       Magnesium 1.
+FT                                {ECO:0000269|PubMed:1311386}.
+FT   METAL        70     70       Magnesium 1.
+FT                                {ECO:0000269|PubMed:1311386}.
+FT   METAL       134    134       Magnesium 2.
+FT                                {ECO:0000269|PubMed:1311386}.
+FT   MUTAGEN      10     10       D->N: Loss of activity.
+FT                                {ECO:0000269|PubMed:1689729}.
+FT   MUTAGEN      48     48       E->Q: Loss of activity.
+FT                                {ECO:0000269|PubMed:1689729}.
+FT   MUTAGEN      70     70       D->N: Loss of activity.
+FT                                {ECO:0000269|PubMed:1689729}.
+FT   MUTAGEN     124    124       H->A: Reduces activity.
+FT                                {ECO:0000269|PubMed:1689729,
+FT                                ECO:0000269|PubMed:8931125,
+FT                                ECO:0000269|PubMed:9852071}.
+FT   MUTAGEN     130    130       N->A: Reduces activity.
+FT                                {ECO:0000269|PubMed:1689729}.
+FT   MUTAGEN     134    134       D->A: Loss of activity.
+FT                                {ECO:0000269|PubMed:1689729,
+FT                                ECO:0000269|PubMed:8931125,
+FT                                ECO:0000269|PubMed:9852071}.
+FT   MUTAGEN     134    134       D->H,N: Slight decrease of activity.
+FT                                {ECO:0000269|PubMed:1689729,
+FT                                ECO:0000269|PubMed:8931125,
+FT                                ECO:0000269|PubMed:9852071}.
+FT   STRAND        2      4       {ECO:0000244|PDB:1RDD}.
+FT   STRAND        5     15       {ECO:0000244|PDB:1JL1}.
+FT   STRAND       18     28       {ECO:0000244|PDB:1JL1}.
+FT   STRAND       31     42       {ECO:0000244|PDB:1JL1}.
+FT   HELIX        44     57       {ECO:0000244|PDB:1JL1}.
+FT   STRAND       64     69       {ECO:0000244|PDB:1JL1}.
+FT   HELIX        72     79       {ECO:0000244|PDB:1JL1}.
+FT   HELIX        82     87       {ECO:0000244|PDB:1JL1}.
+FT   TURN         88     90       {ECO:0000244|PDB:1JL1}.
+FT   STRAND       95     97       {ECO:0000244|PDB:2YV0}.
+FT   HELIX       101    110       {ECO:0000244|PDB:1JL1}.
+FT   TURN        111    113       {ECO:0000244|PDB:1JL1}.
+FT   STRAND      115    120       {ECO:0000244|PDB:1JL1}.
+FT   HELIX       123    125       {ECO:0000244|PDB:1LAV}.
+FT   HELIX       128    142       {ECO:0000244|PDB:1JL1}.
+SQ   SEQUENCE   155 AA;  17597 MW;  B8EF81EEB2F94CBE CRC64;
+     MLKQVEIFTD GSCLGNPGPG GYGAILRYRG REKTFSAGYT RTTNNRMELM AAIVALEALK
+     EHCEVILSTD SQYVRQGITQ WIHNWKKRGW KTADKKPVKN VDLWQRLDAA LGQHQIKWEW
+     VKGHAGHPEN ERCDELARAA AMNPTLEDTG YQVEV
+//

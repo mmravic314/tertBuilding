@@ -1,0 +1,137 @@
+ID   PA_I75A3                Reviewed;         716 AA.
+AC   P31343;
+DT   01-JUL-1993, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUL-1993, sequence version 1.
+DT   24-JUN-2015, entry version 73.
+DE   RecName: Full=Polymerase acidic protein;
+DE   AltName: Full=RNA-directed RNA polymerase subunit P2;
+GN   Name=PA;
+OS   Influenza A virus (strain A/Victoria/3/1975 H3N2).
+OC   Viruses; ssRNA viruses; ssRNA negative-strand viruses;
+OC   Orthomyxoviridae; Influenzavirus A.
+OX   NCBI_TaxID=392809;
+OH   NCBI_TaxID=8782; Aves.
+OH   NCBI_TaxID=9721; Cetacea (whales).
+OH   NCBI_TaxID=9606; Homo sapiens (Human).
+OH   NCBI_TaxID=9709; Phocidae (true seals).
+OH   NCBI_TaxID=9823; Sus scrofa (Pig).
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=2773594; DOI=10.1016/0168-1702(89)90012-9;
+RA   de la Luna S., Martinez C., Ortin J.;
+RT   "Molecular cloning and sequencing of influenza virus A/Victoria/3/75
+RT   polymerase genes: sequence evolution and prediction of possible
+RT   functional domains.";
+RL   Virus Res. 13:143-156(1989).
+RN   [2]
+RP   PHOSPHORYLATION.
+RX   PubMed=9519825;
+RA   Sanz-Ezquerro J.J., Fernandez-Santaren J., Sierra T., Aragon T.,
+RA   Ortega J., Ortin J., Smith G.L., Nieto A.;
+RT   "The PA influenza virus polymerase subunit is a phosphorylated
+RT   protein.";
+RL   J. Gen. Virol. 79:471-478(1998).
+RN   [3]
+RP   FUNCTION.
+RX   PubMed=23847103; DOI=10.1093/nar/gkt603;
+RA   Datta K., Wolkerstorfer A., Szolar O.H., Cusack S., Klumpp K.;
+RT   "Characterization of PA-N terminal domain of Influenza A polymerase
+RT   reveals sequence specific RNA cleavage.";
+RL   Nucleic Acids Res. 41:8289-8299(2013).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (2.05 ANGSTROMS) OF 1-209, AND FUNCTION.
+RX   PubMed=19194459; DOI=10.1038/nature07745;
+RA   Dias A., Bouvier D., Crepin T., McCarthy A.A., Hart D.J., Baudin F.,
+RA   Cusack S., Ruigrok R.W.;
+RT   "The cap-snatching endonuclease of influenza virus polymerase resides
+RT   in the PA subunit.";
+RL   Nature 458:914-918(2009).
+CC   -!- FUNCTION: Plays an essential role in viral RNA transcription and
+CC       replication by forming the heterotrimeric polymerase complex
+CC       together with PB1 and PB2 subunits. The complex transcibes viral
+CC       mRNAs by using a unique mechanism called cap-snatching. It
+CC       consists in the hijacking and cleavage of host capped pre-mRNAs.
+CC       These short capped RNAs are then used as primers for viral mRNAs.
+CC       The PB2 subunit is responsible for the binding of the 5' cap of
+CC       cellular pre-mRNAs which are subsequently cleaved after 10-13
+CC       nucleotides by the PA subunit that carries the endonuclease
+CC       activity. In addition of its function in viral transcription, PA
+CC       also plays an essential role in viral RNA synthesis and promotes
+CC       the formation of the trimeric polymerase complex.
+CC       {ECO:0000250|UniProtKB:P03433, ECO:0000269|PubMed:19194459,
+CC       ECO:0000269|PubMed:23847103}.
+CC   -!- SUBUNIT: Influenza RNA polymerase is composed of three subunits:
+CC       PB1, PB2 and PA. Interacts (via C-terminus) with PB1 (via N-
+CC       terminus). {ECO:0000250|UniProtKB:P03433}.
+CC   -!- INTERACTION:
+CC       Q9Y224:C14orf166 (xeno); NbExp=4; IntAct=EBI-5800362, EBI-1104547;
+CC   -!- SUBCELLULAR LOCATION: Host cytoplasm. Host nucleus. Note=PB1 and
+CC       PA are transported in the host nucleus as a complex.
+CC       {ECO:0000250|UniProtKB:P03433}.
+CC   -!- PTM: Phosphorylated on serines and threonines by host kinases,
+CC       including human casein kinase II. {ECO:0000269|PubMed:9519825}.
+CC   -!- SIMILARITY: Belongs to the influenza viruses PA family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   PDB; 2W69; X-ray; 2.05 A; A/B/D=1-209.
+DR   PDBsum; 2W69; -.
+DR   ProteinModelPortal; P31343; -.
+DR   SMR; P31343; 257-716.
+DR   IntAct; P31343; 2.
+DR   BRENDA; 2.7.7.48; 7479.
+DR   EvolutionaryTrace; P31343; -.
+DR   GO; GO:0030430; C:host cell cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0042025; C:host cell nucleus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0003723; F:RNA binding; IEA:InterPro.
+DR   GO; GO:0003968; F:RNA-directed RNA polymerase activity; IEA:InterPro.
+DR   GO; GO:0075526; P:cap snatching; IEA:UniProtKB-KW.
+DR   GO; GO:0039523; P:suppression by virus of host RNA polymerase II activity; IEA:UniProtKB-KW.
+DR   GO; GO:0006351; P:transcription, DNA-templated; IEA:InterPro.
+DR   InterPro; IPR001009; RNA-dir_pol_influenzavirus.
+DR   Pfam; PF00603; Flu_PA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cap snatching;
+KW   Eukaryotic host gene expression shutoff by virus;
+KW   Eukaryotic host transcription shutoff by virus; Host cytoplasm;
+KW   Host gene expression shutoff by virus; Host nucleus;
+KW   Host-virus interaction; Inhibition of host RNA polymerase II by virus;
+KW   Phosphoprotein.
+FT   CHAIN         1    716       Polymerase acidic protein.
+FT                                /FTId=PRO_0000078800.
+FT   MOTIF       124    139       Nuclear localization signal 1 (NLS1).
+FT                                {ECO:0000250|UniProtKB:P03433}.
+FT   MOTIF       184    247       Nuclear localization signal 2 (NLS2).
+FT                                {ECO:0000250|UniProtKB:P03433}.
+FT   HELIX         1      8       {ECO:0000244|PDB:2W69}.
+FT   HELIX        11     23       {ECO:0000244|PDB:2W69}.
+FT   TURN         28     30       {ECO:0000244|PDB:2W69}.
+FT   HELIX        32     49       {ECO:0000244|PDB:2W69}.
+FT   HELIX        62     64       {ECO:0000244|PDB:2W69}.
+FT   STRAND       75     78       {ECO:0000244|PDB:2W69}.
+FT   HELIX        84     98       {ECO:0000244|PDB:2W69}.
+FT   STRAND      108    111       {ECO:0000244|PDB:2W69}.
+FT   TURN        112    115       {ECO:0000244|PDB:2W69}.
+FT   STRAND      116    125       {ECO:0000244|PDB:2W69}.
+FT   HELIX       127    135       {ECO:0000244|PDB:2W69}.
+FT   STRAND      144    149       {ECO:0000244|PDB:2W69}.
+FT   STRAND      154    156       {ECO:0000244|PDB:2W69}.
+FT   HELIX       157    159       {ECO:0000244|PDB:2W69}.
+FT   HELIX       165    184       {ECO:0000244|PDB:2W69}.
+FT   HELIX       188    193       {ECO:0000244|PDB:2W69}.
+SQ   SEQUENCE   716 AA;  82822 MW;  B1FC817C171BB50F CRC64;
+     MEDFVRQCFN PMIVELAEKA MKEYGEDLKI ETNKFAAICT HLEVCFMYSD FHFINEQGES
+     IVVELDDPNA LLKHRFEIIE GRDRTMAWTV VNSICNTTGA EKPKFLPDLY DYKENRFIEI
+     GVTRREVHIY YLEKANKIKS ENTHIHIFSF TGEGMATKAD YTLDEESRAR IKTRLFTIRQ
+     EMANRGLWDS FRQSERGEET IEERFEITGT MRRLADQSLP PNFSCLENFR AYVDGFEPNG
+     CIEGKLSQMS KEVNAKIEPF LKTTPRPIKL PDGPPCFQRS KFLLMDALKL SIEDPSHEGE
+     GIPLYDAIKC MRTFFGWKEP YIVKPHERGI NSNYLLSWKQ VLAELQDIEN EEKIPRTKNM
+     KKTSQLKWAL GENMAPEKVD FDNCRDISDL KQYDSDEPEL RSLSSWIQNE FNKACELTDS
+     IWIELDEIGE DVAPIEYIAS MRRNYFTAEV SHCRATEYIM KGVYINTALL NASCAAMDDF
+     QLIPMISKCR TKEGRRKTNL YGFIIKGRSH LRNDTDVVNF VSMEFSLTDP RLEPHKWEKY
+     CVLEIGDMLL RSAIGQMSRP MFLYVRTNGT SKIKMKWGME MRRCLLQSLQ QIESMIEAES
+     SVKEKDMTKE FFENKSETWP IGESPKGVEE GSIGKVCRTL LAKSVFNSLY ASPQLEGFSA
+     ESRKLLLVVQ ALRDNLEPGT FDLGGLYEAI EECLINDPWV LLNASWFNSF LTHALR
+//

@@ -1,0 +1,138 @@
+ID   T2BA_BACAM              Reviewed;         213 AA.
+AC   P23940;
+DT   01-MAR-1992, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAR-1992, sequence version 1.
+DT   27-MAY-2015, entry version 96.
+DE   RecName: Full=Type-2 restriction enzyme BamHI;
+DE            Short=R.BamHI;
+DE            EC=3.1.21.4 {ECO:0000269|PubMed:1177312, ECO:0000269|PubMed:834250};
+DE   AltName: Full=Endonuclease BamHI;
+DE   AltName: Full=Type II restriction enzyme BamHI;
+GN   Name=bamHIR;
+OS   Bacillus amyloliquefaciens (Bacillus velezensis).
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus.
+OX   NCBI_TaxID=1390;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND PROTEIN SEQUENCE OF 1-8 AND
+RP   11-14.
+RC   STRAIN=ATCC 49763 / H;
+RX   PubMed=1901989; DOI=10.1093/nar/19.4.841;
+RA   Brooks J.E., Nathan P.D., Landry D., Sznyter L.A., White-Rees P.,
+RA   Ives C.L., Moran L.S., Slatko B.E., Benner J.S.;
+RT   "Characterization of the cloned BamHI restriction modification system:
+RT   its nucleotide sequence, properties of the methylase, and expression
+RT   in heterologous hosts.";
+RL   Nucleic Acids Res. 19:841-850(1991).
+RN   [2]
+RP   FUNCTION AS AN ENDONUCLEASE, AND CATALYTIC ACTIVITY.
+RC   STRAIN=ATCC 49763 / H / RUB500;
+RX   PubMed=1177312; DOI=10.1016/S0022-2836(75)80028-3;
+RA   Wilson G.A., Young F.E.;
+RT   "Isolation of a sequence-specific endonuclease (BamI) from Bacillus
+RT   amyloliquefaciens H.";
+RL   J. Mol. Biol. 97:123-125(1975).
+RN   [3]
+RP   FUNCTION, SUBSTRATE SPECIFICITY, AND CATALYTIC ACTIVITY.
+RC   STRAIN=ATCC 49763 / H;
+RX   PubMed=834250; DOI=10.1038/265082a0;
+RA   Roberts R.J., Wilson G.A., Young F.E.;
+RT   "Recognition sequence of specific endonuclease BamH.I from Bacillus
+RT   amyloliquefaciens H.";
+RL   Nature 265:82-84(1977).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (1.95 ANGSTROMS).
+RX   PubMed=8145855; DOI=10.1038/368660a0;
+RA   Newman M., Strzelecka T., Dorner L.F., Schildkraut I., Aggarwal A.K.;
+RT   "Structure of restriction endonuclease BamHI and its relationship to
+RT   EcoRI.";
+RL   Nature 368:660-664(1994).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS).
+RX   PubMed=9783752; DOI=10.1038/2352;
+RA   Viadiu H., Aggarwal A.K.;
+RT   "The role of metals in catalysis by the restriction endonuclease
+RT   BamHI.";
+RL   Nat. Struct. Biol. 5:910-916(1998).
+CC   -!- FUNCTION: Recognizes the double-stranded sequence GGATCC and
+CC       cleaves after G-1. {ECO:0000269|PubMed:834250}.
+CC   -!- CATALYTIC ACTIVITY: Endonucleolytic cleavage of DNA to give
+CC       specific double-stranded fragments with terminal 5'-phosphates.
+CC       {ECO:0000269|PubMed:1177312, ECO:0000269|PubMed:834250}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC       Note=Binds 2 magnesium ions per subunit.;
+CC   -!- SUBUNIT: Homodimer.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X55285; CAA38999.1; -; Genomic_DNA.
+DR   PIR; A38693; A38693.
+DR   PIR; S26844; S26844.
+DR   RefSeq; WP_013353547.1; NG_034330.1.
+DR   RefSeq; YP_009073767.1; NG_034330.1.
+DR   PDB; 1BAM; X-ray; 1.95 A; A=1-213.
+DR   PDB; 1BHM; X-ray; 2.20 A; A/B=1-213.
+DR   PDB; 1ESG; X-ray; 1.90 A; A/B=1-213.
+DR   PDB; 2BAM; X-ray; 2.00 A; A/B=1-213.
+DR   PDB; 3BAM; X-ray; 1.80 A; A/B=1-213.
+DR   PDBsum; 1BAM; -.
+DR   PDBsum; 1BHM; -.
+DR   PDBsum; 1ESG; -.
+DR   PDBsum; 2BAM; -.
+DR   PDBsum; 3BAM; -.
+DR   ProteinModelPortal; P23940; -.
+DR   SMR; P23940; 1-212.
+DR   BindingDB; P23940; -.
+DR   ChEMBL; CHEMBL5928; -.
+DR   REBASE; 185; BamHI.
+DR   GeneID; 9779203; -.
+DR   EvolutionaryTrace; P23940; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:InterPro.
+DR   GO; GO:0009036; F:Type II site-specific deoxyribonuclease activity; IEA:UniProtKB-EC.
+DR   GO; GO:0009307; P:DNA restriction-modification system; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.91.20; -; 1.
+DR   InterPro; IPR011338; BamHI/BglII/BstY.
+DR   InterPro; IPR011335; Restrct_endonuc-II-like.
+DR   InterPro; IPR004194; Restrct_endonuc_II_BamHI.
+DR   Pfam; PF02923; BamHI; 1.
+DR   PIRSF; PIRSF009309; Restrict_endonuc_II_BamHI; 1.
+DR   SUPFAM; SSF52980; SSF52980; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Direct protein sequencing; Endonuclease; Hydrolase;
+KW   Magnesium; Metal-binding; Nuclease; Restriction system.
+FT   CHAIN         1    213       Type-2 restriction enzyme BamHI.
+FT                                /FTId=PRO_0000077281.
+FT   ACT_SITE     94     94
+FT   ACT_SITE    111    111
+FT   ACT_SITE    113    113
+FT   METAL        77     77       Magnesium 2.
+FT   METAL        94     94       Magnesium 1.
+FT   METAL        94     94       Magnesium 2.
+FT   METAL       112    112       Magnesium 1; via carbonyl oxygen.
+FT   STRAND        2      8       {ECO:0000244|PDB:3BAM}.
+FT   HELIX        10     18       {ECO:0000244|PDB:3BAM}.
+FT   HELIX        20     34       {ECO:0000244|PDB:3BAM}.
+FT   STRAND       43     48       {ECO:0000244|PDB:3BAM}.
+FT   HELIX        58     61       {ECO:0000244|PDB:3BAM}.
+FT   HELIX        62     70       {ECO:0000244|PDB:3BAM}.
+FT   STRAND       75     78       {ECO:0000244|PDB:3BAM}.
+FT   HELIX        81     84       {ECO:0000244|PDB:3BAM}.
+FT   STRAND       87     89       {ECO:0000244|PDB:1ESG}.
+FT   STRAND       93    101       {ECO:0000244|PDB:3BAM}.
+FT   STRAND      104    112       {ECO:0000244|PDB:3BAM}.
+FT   HELIX       117    132       {ECO:0000244|PDB:3BAM}.
+FT   STRAND      137    144       {ECO:0000244|PDB:3BAM}.
+FT   HELIX       146    149       {ECO:0000244|PDB:3BAM}.
+FT   HELIX       159    162       {ECO:0000244|PDB:3BAM}.
+FT   HELIX       163    169       {ECO:0000244|PDB:3BAM}.
+FT   STRAND      174    180       {ECO:0000244|PDB:3BAM}.
+FT   STRAND      182    185       {ECO:0000244|PDB:3BAM}.
+FT   HELIX       200    205       {ECO:0000244|PDB:1ESG}.
+SQ   SEQUENCE   213 AA;  24570 MW;  FFE57F518F37D8D6 CRC64;
+     MEVEKEFITD EAKELLSKDK LIQQAYNEVK TSICSPIWPA TSKTFTINNT EKNCNGVVPI
+     KELCYTLLED TYNWYREKPL DILKLEKKKG GPIDVYKEFI ENSELKRVGM EFETGNISSA
+     HRSMNKLLLG LKHGEIDLAI ILMPIKQLAY YLTDRVTNFE ELEPYFELTE GQPFIFIGFN
+     AEAYNSNVPL IPKGSDGMSK RSIKKWKDKV ENK
+//

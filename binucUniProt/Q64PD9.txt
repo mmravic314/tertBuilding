@@ -1,0 +1,84 @@
+ID   Q64PD9_BACFR            Unreviewed;       343 AA.
+AC   Q64PD9;
+DT   25-OCT-2004, integrated into UniProtKB/TrEMBL.
+DT   25-OCT-2004, sequence version 1.
+DT   22-JUL-2015, entry version 57.
+DE   SubName: Full=Putative exopolyphosphatase-related protein {ECO:0000313|EMBL:BAD50642.1};
+GN   OrderedLocusNames=BF3900 {ECO:0000313|EMBL:BAD50642.1};
+OS   Bacteroides fragilis (strain YCH46).
+OC   Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Bacteroidaceae;
+OC   Bacteroides.
+OX   NCBI_TaxID=295405 {ECO:0000313|EMBL:BAD50642.1, ECO:0000313|Proteomes:UP000002197};
+RN   [1] {ECO:0000313|EMBL:BAD50642.1, ECO:0000313|Proteomes:UP000002197}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=YCH46 {ECO:0000313|EMBL:BAD50642.1,
+RC   ECO:0000313|Proteomes:UP000002197};
+RX   PubMed=15466707; DOI=10.1073/pnas.0404172101;
+RA   Kuwahara T., Yamashita A., Hirakawa H., Nakayama H., Toh H., Okada N.,
+RA   Kuhara S., Hattori M., Hayashi T., Ohnishi Y.;
+RT   "Genomic analysis of Bacteroides fragilis reveals extensive DNA
+RT   inversions regulating cell surface adaptation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 101:14919-14924(2004).
+RN   [2] {ECO:0000213|PDB:3W5W}
+RP   X-RAY CRYSTALLOGRAPHY (2.95 ANGSTROMS) IN COMPLEX WITH MANGANESE.
+RA   Uemura Y., Nakagawa N., Wakamatsu T., Kim K., Montelione G.T.,
+RA   Hunt J.F., Kuramitsu S., Masui R.;
+RT   "Crystal structure of the ligand-binding form of nanoRNase from
+RT   Bacteroides fragilis, a member of the DHH/DHHA1 phosphoesterase family
+RT   of proteins.";
+RL   Submitted (FEB-2013) to the PDB data bank.
+RN   [3] {ECO:0000213|PDB:4PY9}
+RP   X-RAY CRYSTALLOGRAPHY (2.25 ANGSTROMS).
+RG   Northeast Structural Genomics Consortium (NESG);
+RA   Seetharaman J., Abashidze M., Wang H., Janjua H., Foote E.L., Xiao R.,
+RA   Nair R., Everett J.K., Acton T.B., Rost B., Montelione G.T., Tong L.,
+RA   Hunt J.F.;
+RT   "Crystal structure of an exopolyphosphatase-related protein from
+RT   Bacteroides Fragilis. Northeast Structural Genomics target BFR192.";
+RL   Submitted (MAR-2014) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AP006841; BAD50642.1; -; Genomic_DNA.
+DR   RefSeq; WP_005791024.1; NC_006347.1.
+DR   RefSeq; YP_101176.1; NC_006347.1.
+DR   PDB; 3W5W; X-ray; 2.95 A; A=1-343.
+DR   PDB; 4PY9; X-ray; 2.25 A; A=1-343.
+DR   PDBsum; 3W5W; -.
+DR   PDBsum; 4PY9; -.
+DR   ProteinModelPortal; Q64PD9; -.
+DR   EnsemblBacteria; BAD50642; BAD50642; BF3900.
+DR   GeneID; 3084981; -.
+DR   KEGG; bfr:BF3900; -.
+DR   PATRIC; 21053334; VBIBacFra17906_3744.
+DR   KO; K06881; -.
+DR   OMA; CESYASS; -.
+DR   OrthoDB; EOG6FBX0G; -.
+DR   EvolutionaryTrace; Q64PD9; -.
+DR   Proteomes; UP000002197; Chromosome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   InterPro; IPR001667; DDH_dom.
+DR   Pfam; PF01368; DHH; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3DMA, ECO:0000213|PDB:3W5W};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002197};
+KW   Manganese {ECO:0000213|PDB:3W5W};
+KW   Metal-binding {ECO:0000213|PDB:3W5W}.
+FT   METAL        29     29       Manganese 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3W5W}.
+FT   METAL        33     33       Manganese 1. {ECO:0000213|PDB:3W5W}.
+FT   METAL        35     35       Manganese 2. {ECO:0000213|PDB:3W5W}.
+FT   METAL        99     99       Manganese 1. {ECO:0000213|PDB:3W5W}.
+FT   METAL        99     99       Manganese 2. {ECO:0000213|PDB:3W5W}.
+FT   METAL       125    125       Manganese 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3W5W}.
+FT   METAL       177    177       Manganese 2. {ECO:0000213|PDB:3W5W}.
+SQ   SEQUENCE   343 AA;  39160 MW;  529FD5E3D12E2E8D CRC64;
+     MLTKVIAQAH IDHFTKWFER ADKIVIVSHV SPDGDAIGSS LGLYHFLDSQ DKIVNVIVPN
+     AFPDFLKWMP GSKDILLYDR YQEFADKLIM EADVICCLDF NALKRIDEMS DIVAASPGRK
+     IMIDHHLYPE DFCRITISHP EISSTSELVF RLICRMGYFS DISKEGAECI YTGMMTDTGG
+     FTYNSNNREI YFIISELLSK GIDKDDIYRK VYNTYSESRL RLMGYVLSNM KVYKDYNSAL
+     ISLTKEEQGK FDYIKGDSEG FVNIPLSIKN VCFSCFLRED TEKKMIKISL RSVGKFPCNR
+     LAAEFFNGGG HLNASGGEFY GTMEEAVKVF EQALEKYKPL LKE
+//

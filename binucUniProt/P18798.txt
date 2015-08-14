@@ -1,0 +1,198 @@
+ID   MEMB_METCA              Reviewed;         389 AA.
+AC   P18798; Q609N7;
+DT   01-NOV-1990, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 4.
+DT   22-JUL-2015, entry version 118.
+DE   RecName: Full=Methane monooxygenase component A beta chain;
+DE            EC=1.14.13.25;
+DE   AltName: Full=Methane hydroxylase;
+GN   Name=mmoY; OrderedLocusNames=MCA1195;
+OS   Methylococcus capsulatus (strain ATCC 33009 / NCIMB 11132 / Bath).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Methylococcales;
+OC   Methylococcaceae; Methylococcus.
+OX   NCBI_TaxID=243233;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND PROTEIN SEQUENCE OF 2-41.
+RC   STRAIN=ATCC 33009 / NCIMB 11132 / Bath;
+RX   PubMed=2505721; DOI=10.1007/BF00456094;
+RA   Stainthorpe A.C., Murrell J.C., Salmond G.P.C., Dalton H., Lees V.;
+RT   "Molecular analysis of methane monooxygenase from Methylococcus
+RT   capsulatus (Bath).";
+RL   Arch. Microbiol. 152:154-159(1989).
+RN   [2]
+RP   SEQUENCE REVISION TO 142-145 AND C-TERMINUS.
+RA   McDonald I., Murrell J.C.;
+RL   Submitted (OCT-1999) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 33009 / NCIMB 11132 / Bath;
+RX   PubMed=15383840; DOI=10.1371/journal.pbio.0020303;
+RA   Ward N.L., Larsen O., Sakwa J., Bruseth L., Khouri H.M., Durkin A.S.,
+RA   Dimitrov G., Jiang L., Scanlan D., Kang K.H., Lewis M.R., Nelson K.E.,
+RA   Methe B.A., Wu M., Heidelberg J.F., Paulsen I.T., Fouts D.E.,
+RA   Ravel J., Tettelin H., Ren Q., Read T.D., DeBoy R.T., Seshadri R.,
+RA   Salzberg S.L., Jensen H.B., Birkeland N.K., Nelson W.C., Dodson R.J.,
+RA   Grindhaug S.H., Holt I.E., Eidhammer I., Jonasen I., Vanaken S.,
+RA   Utterback T.R., Feldblyum T.V., Fraser C.M., Lillehaug J.R.,
+RA   Eisen J.A.;
+RT   "Genomic insights into methanotrophy: the complete genome sequence of
+RT   Methylococcus capsulatus (Bath).";
+RL   PLoS Biol. 2:1616-1628(2004).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS).
+RX   PubMed=8255292; DOI=10.1038/366537a0;
+RA   Rosenzweig A.C., Frederick C.A., Lippard S.J., Nordlund P.;
+RT   "Crystal structure of a bacterial non-haem iron hydroxylase that
+RT   catalyses the biological oxidation of methane.";
+RL   Nature 366:537-543(1993).
+CC   -!- FUNCTION: Responsible for the initial oxygenation of methane to
+CC       methanol in methanotrophs. It also catalyzes the monohydroxylation
+CC       of a variety of unactivated alkenes, alicyclic, aromatic and
+CC       heterocyclic compounds.
+CC   -!- CATALYTIC ACTIVITY: Methane + NAD(P)H + O(2) = methanol +
+CC       NAD(P)(+) + H(2)O.
+CC   -!- SUBUNIT: M.capsulatus has two forms of methane monooxygenase, a
+CC       soluble and a membrane-bound type. The soluble type consists of
+CC       four components (A to D): protein A, comprising three chains, in
+CC       an alpha-2, beta-2, gamma-2 configuration, is a nonheme iron
+CC       protein containing an unusual mu-hydroxo bridge structure at its
+CC       active site and interacts with both oxygen and methane.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M90050; AAB62393.2; -; Genomic_DNA.
+DR   EMBL; AE017282; AAU92727.1; -; Genomic_DNA.
+DR   PIR; A61412; A61412.
+DR   PIR; JL0101; JL0101.
+DR   RefSeq; WP_010960483.1; NC_002977.6.
+DR   PDB; 1FYZ; X-ray; 2.15 A; C/D=1-389.
+DR   PDB; 1FZ0; X-ray; 2.07 A; C/D=1-389.
+DR   PDB; 1FZ1; X-ray; 1.96 A; C/D=1-389.
+DR   PDB; 1FZ2; X-ray; 2.15 A; C/D=1-389.
+DR   PDB; 1FZ3; X-ray; 2.03 A; C/D=1-389.
+DR   PDB; 1FZ4; X-ray; 2.38 A; C/D=1-389.
+DR   PDB; 1FZ5; X-ray; 2.40 A; C/D=1-389.
+DR   PDB; 1FZ6; X-ray; 2.05 A; C/D=1-389.
+DR   PDB; 1FZ7; X-ray; 1.96 A; C/D=1-389.
+DR   PDB; 1FZ8; X-ray; 2.10 A; C/D=1-389.
+DR   PDB; 1FZ9; X-ray; 2.30 A; C/D=1-389.
+DR   PDB; 1FZH; X-ray; 2.60 A; C/D=1-389.
+DR   PDB; 1FZI; X-ray; 3.30 A; C/D=1-389.
+DR   PDB; 1MMO; X-ray; 2.20 A; B/C=6-389.
+DR   PDB; 1MTY; X-ray; 1.70 A; B/C=6-362.
+DR   PDB; 1XMF; X-ray; 2.32 A; C/D=2-389.
+DR   PDB; 1XMG; X-ray; 2.10 A; C/D=2-389.
+DR   PDB; 1XMH; X-ray; 2.32 A; C/D=2-389.
+DR   PDB; 1XU3; X-ray; 2.30 A; C/D=1-389.
+DR   PDB; 1XU5; X-ray; 1.96 A; C/D=1-389.
+DR   PDB; 1XVB; X-ray; 1.80 A; C/D=1-389.
+DR   PDB; 1XVC; X-ray; 2.00 A; C/D=1-389.
+DR   PDB; 1XVD; X-ray; 2.30 A; C/D=1-389.
+DR   PDB; 1XVE; X-ray; 2.40 A; C/D=1-389.
+DR   PDB; 1XVF; X-ray; 2.00 A; C/D=1-389.
+DR   PDB; 1XVG; X-ray; 1.96 A; C/D=1-389.
+DR   PDB; 4GAM; X-ray; 2.90 A; B/G/L/Q=1-389.
+DR   PDBsum; 1FYZ; -.
+DR   PDBsum; 1FZ0; -.
+DR   PDBsum; 1FZ1; -.
+DR   PDBsum; 1FZ2; -.
+DR   PDBsum; 1FZ3; -.
+DR   PDBsum; 1FZ4; -.
+DR   PDBsum; 1FZ5; -.
+DR   PDBsum; 1FZ6; -.
+DR   PDBsum; 1FZ7; -.
+DR   PDBsum; 1FZ8; -.
+DR   PDBsum; 1FZ9; -.
+DR   PDBsum; 1FZH; -.
+DR   PDBsum; 1FZI; -.
+DR   PDBsum; 1MMO; -.
+DR   PDBsum; 1MTY; -.
+DR   PDBsum; 1XMF; -.
+DR   PDBsum; 1XMG; -.
+DR   PDBsum; 1XMH; -.
+DR   PDBsum; 1XU3; -.
+DR   PDBsum; 1XU5; -.
+DR   PDBsum; 1XVB; -.
+DR   PDBsum; 1XVC; -.
+DR   PDBsum; 1XVD; -.
+DR   PDBsum; 1XVE; -.
+DR   PDBsum; 1XVF; -.
+DR   PDBsum; 1XVG; -.
+DR   PDBsum; 4GAM; -.
+DR   ProteinModelPortal; P18798; -.
+DR   SMR; P18798; 2-389.
+DR   DIP; DIP-59862N; -.
+DR   STRING; 243233.MCA1195; -.
+DR   EnsemblBacteria; AAU92727; AAU92727; MCA1195.
+DR   KEGG; mca:MCA1195; -.
+DR   PATRIC; 22606222; VBIMetCap22254_1227.
+DR   eggNOG; NOG268646; -.
+DR   HOGENOM; HOG000086315; -.
+DR   KO; K16158; -.
+DR   OMA; KAEEWRY; -.
+DR   OrthoDB; EOG679T94; -.
+DR   BioCyc; MetaCyc:MONOMER-3862; -.
+DR   BRENDA; 1.14.13.25; 3305.
+DR   EvolutionaryTrace; P18798; -.
+DR   Proteomes; UP000006821; Chromosome.
+DR   GO; GO:0015049; F:methane monooxygenase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0006725; P:cellular aromatic compound metabolic process; IEA:InterPro.
+DR   GO; GO:0006730; P:one-carbon metabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.620.20; -; 1.
+DR   InterPro; IPR009078; Ferritin-like_SF.
+DR   InterPro; IPR012078; MP_mOase_hydro.
+DR   InterPro; IPR003430; Phenol_Hydrox.
+DR   InterPro; IPR012348; RNR-rel.
+DR   Pfam; PF02332; Phenol_Hydrox; 1.
+DR   PIRSF; PIRSF000040; MMOH_comp; 1.
+DR   SUPFAM; SSF47240; SSF47240; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Direct protein sequencing;
+KW   Monooxygenase; NADP; One-carbon metabolism; Oxidoreductase;
+KW   Reference proteome.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:2505721}.
+FT   CHAIN         2    389       Methane monooxygenase component A beta
+FT                                chain.
+FT                                /FTId=PRO_0000096407.
+FT   CONFLICT    370    370       R -> A (in Ref. 1; AAB62393).
+FT                                {ECO:0000305}.
+FT   TURN         10     12       {ECO:0000244|PDB:1MTY}.
+FT   HELIX        14     23       {ECO:0000244|PDB:1MTY}.
+FT   TURN         35     38       {ECO:0000244|PDB:1MTY}.
+FT   STRAND       42     45       {ECO:0000244|PDB:1MTY}.
+FT   HELIX        48     53       {ECO:0000244|PDB:1MTY}.
+FT   HELIX        85     87       {ECO:0000244|PDB:1MTY}.
+FT   HELIX        95     97       {ECO:0000244|PDB:1XMH}.
+FT   HELIX       106    129       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       132    135       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       138    142       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       143    147       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       148    161       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       164    169       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       173    203       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       212    220       {ECO:0000244|PDB:1MTY}.
+FT   STRAND      222    224       {ECO:0000244|PDB:1MMO}.
+FT   HELIX       225    236       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       241    250       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       252    262       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       265    268       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       269    272       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       276    299       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       300    304       {ECO:0000244|PDB:1MTY}.
+FT   TURN        307    309       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       310    335       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       336    341       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       349    362       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       368    371       {ECO:0000244|PDB:1XVB}.
+FT   HELIX       377    385       {ECO:0000244|PDB:1XVB}.
+FT   TURN        386    388       {ECO:0000244|PDB:1FZI}.
+SQ   SEQUENCE   389 AA;  45133 MW;  1737FEA30EEA9875 CRC64;
+     MSMLGERRRG LTDPEMAAVI LKALPEAPLD GNNKMGYFVT PRWKRLTEYE ALTVYAQPNA
+     DWIAGGLDWG DWTQKFHGGR PSWGNETTEL RTVDWFKHRD PLRRWHAPYV KDKAEEWRYT
+     DRFLQGYSAD GQIRAMNPTW RDEFINRYWG AFLFNEYGLF NAHSQGAREA LSDVTRVSLA
+     FWGFDKIDIA QMIQLERGFL AKIVPGFDES TAVPKAEWTN GEVYKSARLA VEGLWQEVFD
+     WNESAFSVHA VYDALFGQFV RREFFQRLAP RFGDNLTPFF INQAQTYFQI AKQGVQDLYY
+     NCLGDDPEFS DYNRTVMRNW TGKWLEPTIA ALRDFMGLFA KLPAGTTDKE EITASLYRVV
+     DDWIEDYASR IDFKADRDQI VKAVLAGLK
+//

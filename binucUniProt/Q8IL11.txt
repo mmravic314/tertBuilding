@@ -1,0 +1,169 @@
+ID   Q8IL11_PLAF7            Unreviewed;       605 AA.
+AC   Q8IL11;
+DT   01-MAR-2003, integrated into UniProtKB/TrEMBL.
+DT   01-MAR-2003, sequence version 1.
+DT   22-JUL-2015, entry version 88.
+DE   SubName: Full=M17 leucyl aminopeptidase {ECO:0000313|EMBL:AAN37052.1};
+GN   Name=LAP {ECO:0000313|EMBL:AAN37052.1};
+GN   ORFNames=PF14_0439 {ECO:0000313|EMBL:AAN37052.1};
+OS   Plasmodium falciparum (isolate 3D7).
+OC   Eukaryota; Alveolata; Apicomplexa; Aconoidasida; Haemosporida;
+OC   Plasmodiidae; Plasmodium; Plasmodium (Laverania).
+OX   NCBI_TaxID=36329 {ECO:0000313|EMBL:AAN37052.1, ECO:0000313|Proteomes:UP000001450};
+RN   [1] {ECO:0000313|EMBL:AAN37052.1, ECO:0000313|Proteomes:UP000001450}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Isolate 3D7 {ECO:0000313|Proteomes:UP000001450};
+RX   PubMed=12368864; DOI=10.1038/nature01097;
+RA   Gardner M.J., Hall N., Fung E., White O., Berriman M., Hyman R.W.,
+RA   Carlton J.M., Pain A., Nelson K.E., Bowman S., Paulsen I.T., James K.,
+RA   Eisen J.A., Rutherford K., Salzberg S.L., Craig A., Kyes S.,
+RA   Chan M.-S., Nene V., Shallom S.J., Suh B., Peterson J., Angiuoli S.,
+RA   Pertea M., Allen J., Selengut J., Haft D., Mather M.W., Vaidya A.B.,
+RA   Martin D.M.A., Fairlamb A.H., Fraunholz M.J., Roos D.S., Ralph S.A.,
+RA   McFadden G.I., Cummings L.M., Subramanian G.M., Mungall C.,
+RA   Venter J.C., Carucci D.J., Hoffman S.L., Newbold C., Davis R.W.,
+RA   Fraser C.M., Barrell B.;
+RT   "Genome sequence of the human malaria parasite Plasmodium
+RT   falciparum.";
+RL   Nature 419:498-511(2002).
+RN   [2] {ECO:0000213|PDB:3KQX, ECO:0000213|PDB:3KQZ, ECO:0000213|PDB:3KR4}
+RP   X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS) OF 84-605 IN COMPLEX WITH
+RP   MAGNESIUM AND ZINC.
+RX   PubMed=20133789; DOI=10.1073/pnas.0911813107;
+RA   McGowan S., Oellig C.A., Birru W.A., Caradoc-Davies T.T., Stack C.M.,
+RA   Lowther J., Skinner-Adams T., Mucha A., Kafarski P., Grembecka J.,
+RA   Trenholme K.R., Buckle A.M., Gardiner D.L., Dalton J.P.,
+RA   Whisstock J.C.;
+RT   "Structure of the Plasmodium falciparum M17 aminopeptidase and
+RT   significance for the design of drugs targeting the neutral
+RT   exopeptidases.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 107:2449-2454(2010).
+RN   [3] {ECO:0000213|PDB:3T8W}
+RP   X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS) OF 84-605 IN COMPLEX WITH ZINC.
+RX   PubMed=21844374; DOI=10.1073/pnas.1105601108;
+RA   Harbut M.B., Velmourougane G., Dalal S., Reiss G., Whisstock J.C.,
+RA   Onder O., Brisson D., McGowan S., Klemba M., Greenbaum D.C.;
+RT   "Bestatin-based chemical biology strategy reveals distinct roles for
+RT   malaria M1- and M17-family aminopeptidases.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 108:E526-E534(2011).
+RN   [4] {ECO:0000213|PDB:4K3N}
+RP   X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS) OF 84-605 IN COMPLEX WITH ZINC.
+RX   PubMed=23713488;
+RA   Kannan Sivaraman K., Paiardini A., Sienczyk M., Ruggeri C.,
+RA   Oellig C.A., Dalton J.P., Scammells P.J., Drag M., McGowan S.;
+RT   "Synthesis and structure-activity relationships of phosphonic arginine
+RT   mimetics as inhibitors of the M1 and M17 aminopeptidases from
+RT   Plasmodium falciparum.";
+RL   J. Med. Chem. 56:5213-5217(2013).
+RN   [5] {ECO:0000213|PDB:4R6T, ECO:0000213|PDB:4R76, ECO:0000213|PDB:4R7M}
+RP   X-RAY CRYSTALLOGRAPHY (2.50 ANGSTROMS) OF 84-605 IN COMPLEX WITH ZINC.
+RX   PubMed=25299353;
+RA   Mistry S.N., Drinkwater N., Ruggeri C., Sivaraman K.K., Loganathan S.,
+RA   Fletcher S., Drag M., Paiardini A., Avery V.M., Scammells P.J.,
+RA   McGowan S.;
+RT   "Two-pronged attack: dual inhibition of Plasmodium falciparum M1 and
+RT   M17 metalloaminopeptidases by a novel series of hydroxamic acid-based
+RT   inhibitors.";
+RL   J. Med. Chem. 57:9168-9183(2014).
+RN   [6] {ECO:0000213|PDB:4X2T}
+RP   X-RAY CRYSTALLOGRAPHY (2.73 ANGSTROMS) OF 85-603 IN COMPLEX WITH ZINC.
+RX   PubMed=25645579; DOI=10.1002/prot.24771;
+RA   Drinkwater N., Bamert R.S., Sivaraman K.K., Paiardini A., McGowan S.;
+RT   "X-ray crystal structures of an orally available aminopeptidase
+RT   inhibitor, Tosedostat, bound to anti-malarial drug targets PfA-M1 and
+RT   PfA-M17.";
+RL   Proteins 83:789-795(2015).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE014187; AAN37052.1; -; Genomic_DNA.
+DR   RefSeq; XP_001348613.1; XM_001348577.1.
+DR   PDB; 3KQX; X-ray; 2.01 A; A/B/C/D/E/F/G/H/I/J/K/L=84-605.
+DR   PDB; 3KQZ; X-ray; 2.39 A; A/B/C/D/E/F/G/H/I/J/K/L=84-605.
+DR   PDB; 3KR4; X-ray; 2.00 A; A/B/C/D/E/F/G/H/I/J/K/L=84-605.
+DR   PDB; 3KR5; X-ray; 2.56 A; A/B/C/D/E/F/G/H/I/J/K/L=84-605.
+DR   PDB; 3T8W; X-ray; 2.00 A; A/B/C/D/E/F/G/H/I/J/K/L=84-605.
+DR   PDB; 4K3N; X-ray; 2.00 A; A/B/C/D/E/F/G/H/I/J/K/L=84-605.
+DR   PDB; 4R6T; X-ray; 2.60 A; A/B/C/D/E/F/G/H/I/J/K/L=84-605.
+DR   PDB; 4R76; X-ray; 2.50 A; A/B/C/D/E/F/G/H/I/J/K/L=84-605.
+DR   PDB; 4R7M; X-ray; 2.85 A; A/B/C/D/E/F/G/H/I/J/K/L=84-605.
+DR   PDB; 4X2T; X-ray; 2.73 A; A/B/C/D/E/F/G/H/I/J/K/L=85-603.
+DR   PDBsum; 3KQX; -.
+DR   PDBsum; 3KQZ; -.
+DR   PDBsum; 3KR4; -.
+DR   PDBsum; 3KR5; -.
+DR   PDBsum; 3T8W; -.
+DR   PDBsum; 4K3N; -.
+DR   PDBsum; 4R6T; -.
+DR   PDBsum; 4R76; -.
+DR   PDBsum; 4R7M; -.
+DR   PDBsum; 4X2T; -.
+DR   ProteinModelPortal; Q8IL11; -.
+DR   SMR; Q8IL11; 85-603.
+DR   DIP; DIP-58533N; -.
+DR   BindingDB; Q8IL11; -.
+DR   ChEMBL; CHEMBL1293313; -.
+DR   MEROPS; M17.008; -.
+DR   PRIDE; Q8IL11; -.
+DR   EnsemblProtists; PF14_0439:mRNA; PF14_0439:pep; PF14_0439.
+DR   GeneID; 812021; -.
+DR   KEGG; pfa:PF14_0439; -.
+DR   EuPathDB; PlasmoDB:PF3D7_1446200; -.
+DR   HOGENOM; HOG000243129; -.
+DR   InParanoid; Q8IL11; -.
+DR   KO; K01255; -.
+DR   PhylomeDB; Q8IL11; -.
+DR   BRENDA; 3.4.11.1; 4889.
+DR   BRENDA; 3.4.11.20; 4889.
+DR   EvolutionaryTrace; Q8IL11; -.
+DR   Proteomes; UP000001450; Chromosome 14.
+DR   GO; GO:0005829; C:cytosol; IDA:GeneDB.
+DR   GO; GO:0004177; F:aminopeptidase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0030145; F:manganese ion binding; IEA:InterPro.
+DR   GO; GO:0008235; F:metalloexopeptidase activity; IEA:InterPro.
+DR   HAMAP; MF_00181; Cytosol_peptidase_M17; 1.
+DR   InterPro; IPR011356; Leucine_aapep/pepB.
+DR   InterPro; IPR000819; Peptidase_M17_C.
+DR   InterPro; IPR023042; Peptidase_M17_leu_NH2_pept.
+DR   Pfam; PF00883; Peptidase_M17; 1.
+DR   PRINTS; PR00481; LAMNOPPTDASE.
+DR   PROSITE; PS00631; CYTOSOL_AP; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Aminopeptidase {ECO:0000313|EMBL:AAN37052.1};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001450};
+KW   Hydrolase {ECO:0000313|EMBL:AAN37052.1};
+KW   Magnesium {ECO:0000213|PDB:3KR4};
+KW   Metal-binding {ECO:0000213|PDB:4X2T};
+KW   Protease {ECO:0000313|EMBL:AAN37052.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001450};
+KW   Zinc {ECO:0000213|PDB:4X2T}.
+FT   METAL       374    374       Zinc 1. {ECO:0000213|PDB:4X2T}.
+FT   METAL       379    379       Magnesium. {ECO:0000213|PDB:3KR4}.
+FT   METAL       379    379       Zinc 1. {ECO:0000213|PDB:4X2T}.
+FT   METAL       379    379       Zinc 2. {ECO:0000213|PDB:3KQZ,
+FT                                ECO:0000213|PDB:3KR5,
+FT                                ECO:0000213|PDB:3T8W}.
+FT   METAL       399    399       Zinc 1. {ECO:0000213|PDB:4X2T}.
+FT   METAL       459    459       Magnesium. {ECO:0000213|PDB:3KR4}.
+FT   METAL       459    459       Zinc 2. {ECO:0000213|PDB:3KQZ,
+FT                                ECO:0000213|PDB:3KR5,
+FT                                ECO:0000213|PDB:3T8W}.
+FT   METAL       461    461       Magnesium. {ECO:0000213|PDB:3KR4}.
+FT   METAL       461    461       Zinc 1. {ECO:0000213|PDB:4X2T}.
+FT   METAL       461    461       Zinc 2. {ECO:0000213|PDB:3KQZ,
+FT                                ECO:0000213|PDB:3KR5,
+FT                                ECO:0000213|PDB:3T8W}.
+SQ   SEQUENCE   605 AA;  67821 MW;  CA30B9A341AB9F44 CRC64;
+     MYFSSLCKFL PISEKEKIYL NIVKKRFCKS NIYYNNNNNN IINYNKRGLK FYPFCNNLKK
+     NINFVNINNK KGINFHSINK ERKMASEVPQ VVSLDPTSIP IEYNTPIHDI KVQVYDIKGG
+     CNVEEGLTIF LVNNPGKENG PVKISSKVND KNVSEFLKDE NMEKFNVKLG TSKHFYMFND
+     NKNSVAVGYV GCGSVADLSE ADMKRVVLSL VTMLHDNKLS KLTVVFEINV DKNLFRFFLE
+     TLFYEYMTDE RFKSTDKNVN MEYIKHLGVY INNADTYKEE VEKARVYYFG TYYASQLIAA
+     PSNYCNPVSL SNAAVELAQK LNLEYKILGV KELEELKMGA YLSVGKGSMY PNKFIHLTYK
+     SKGDVKKKIA LVGKGITFDS GGYNLKAAPG SMIDLMKFDM SGCAAVLGCA YCVGTLKPEN
+     VEIHFLSAVC ENMVSKNSYR PGDIITASNG KTIEVGNTDA EGRLTLADAL VYAEKLGVDY
+     IVDIATLTGA MLYSLGTSYA GVFGNNEELI NKILNSSKTS NEPVWWLPII NEYRATLNSK
+     YADINNISSS VKASSIVASL FLKEFVQNTA WAHIDIAGVS WNFKARKPKG FGVRLLTEFV
+     LNDAL
+//

@@ -1,0 +1,37 @@
+ID   X2JGA4_ECOLX            Unreviewed;       221 AA.
+AC   X2JGA4;
+DT   11-JUN-2014, integrated into UniProtKB/TrEMBL.
+DT   11-JUN-2014, sequence version 1.
+DT   29-OCT-2014, entry version 5.
+DE   SubName: Full=NDM-4 {ECO:0000313|EMBL:AHN60081.1};
+DE   Flags: Fragment;
+GN   Name=blaNDM-4 {ECO:0000313|EMBL:AHN60081.1};
+OS   Escherichia coli.
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=562 {ECO:0000313|EMBL:AHN60081.1};
+RN   [1] {ECO:0000313|EMBL:AHN60081.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=AK1 {ECO:0000313|EMBL:AHN60081.1};
+RA   Parvez S., Khan A.U.;
+RT   "NDM-4 detection in E. coli from India.";
+RL   Submitted (JAN-2014) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; KJ184353; AHN60081.1; -; Genomic_DNA.
+DR   Gene3D; 3.60.15.10; -; 1.
+DR   InterPro; IPR001279; Beta-lactamas-like.
+DR   Pfam; PF00753; Lactamase_B; 1.
+DR   SMART; SM00849; Lactamase_B; 1.
+DR   SUPFAM; SSF56281; SSF56281; 1.
+PE   4: Predicted;
+FT   NON_TER       1      1       {ECO:0000313|EMBL:AHN60081.1}.
+FT   NON_TER     221    221       {ECO:0000313|EMBL:AHN60081.1}.
+SQ   SEQUENCE   221 AA;  23177 MW;  236FC7363D600C9E CRC64;
+     FGDLVFRQLA PNVWQHTSYL DMPGFGAVAS NGLIVRDGGR VLVVDTAWTD DQTAQILNWI
+     KQEINLPVAL AVVTHAHQDK MGGMDALHAA GIATYANALS NQLAPQEGLV AAQHSLTFAA
+     NGWVEPATAP NFGPLKVFYP GPGHTSDNIT VGIDGTDIAF GGCLIKDSKA KSLGNLGDAD
+     TEHYAASARA FGAAFPKASM IVMSHSAPDS RAAITHTARM A
+//

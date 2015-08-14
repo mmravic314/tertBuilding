@@ -1,0 +1,151 @@
+ID   COPZ_ARCFU              Reviewed;         204 AA.
+AC   O29901;
+DT   14-OCT-2008, integrated into UniProtKB/Swiss-Prot.
+DT   01-JAN-1998, sequence version 1.
+DT   27-MAY-2015, entry version 73.
+DE   RecName: Full=Copper chaperone CopZ;
+GN   Name=copZ; OrderedLocusNames=AF_0346;
+OS   Archaeoglobus fulgidus (strain ATCC 49558 / VC-16 / DSM 4304 / JCM
+OS   9628 / NBRC 100126).
+OC   Archaea; Euryarchaeota; Archaeoglobi; Archaeoglobales;
+OC   Archaeoglobaceae; Archaeoglobus.
+OX   NCBI_TaxID=224325;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 49558 / VC-16 / DSM 4304 / JCM 9628 / NBRC 100126;
+RX   PubMed=9389475; DOI=10.1038/37052;
+RA   Klenk H.-P., Clayton R.A., Tomb J.-F., White O., Nelson K.E.,
+RA   Ketchum K.A., Dodson R.J., Gwinn M.L., Hickey E.K., Peterson J.D.,
+RA   Richardson D.L., Kerlavage A.R., Graham D.E., Kyrpides N.C.,
+RA   Fleischmann R.D., Quackenbush J., Lee N.H., Sutton G.G., Gill S.R.,
+RA   Kirkness E.F., Dougherty B.A., McKenney K., Adams M.D., Loftus B.J.,
+RA   Peterson S.N., Reich C.I., McNeil L.K., Badger J.H., Glodek A.,
+RA   Zhou L., Overbeek R., Gocayne J.D., Weidman J.F., McDonald L.A.,
+RA   Utterback T.R., Cotton M.D., Spriggs T., Artiach P., Kaine B.P.,
+RA   Sykes S.M., Sadow P.W., D'Andrea K.P., Bowman C., Fujii C.,
+RA   Garland S.A., Mason T.M., Olsen G.J., Fraser C.M., Smith H.O.,
+RA   Woese C.R., Venter J.C.;
+RT   "The complete genome sequence of the hyperthermophilic, sulphate-
+RT   reducing archaeon Archaeoglobus fulgidus.";
+RL   Nature 390:364-370(1997).
+RN   [2]
+RP   FUNCTION IN COPPER DELIVERY, AND SUBUNIT.
+RX   PubMed=18417453; DOI=10.1073/pnas.0711446105;
+RA   Gonzalez-Guerrero M., Arguello J.M.;
+RT   "Mechanism of Cu+-transporting ATPases: soluble Cu+ chaperones
+RT   directly transfer Cu+ to transmembrane transport sites.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:5992-5997(2008).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (1.78 ANGSTROMS) OF 1-130, FUNCTION, COFACTOR,
+RP   SUBUNIT, AND MUTAGENESIS OF CYS-75; CYS-77; CYS-109; CYS-118 AND
+RP   CYS-119.
+RC   STRAIN=ATCC 49558 / VC-16 / DSM 4304 / JCM 9628 / NBRC 100126;
+RX   PubMed=17609202; DOI=10.1074/jbc.M703311200;
+RA   Sazinsky M.H., LeMoine B., Orofino M., Davydov R., Bencze K.Z.,
+RA   Stemmler T.L., Hoffman B.M., Arguello J.M., Rosenzweig A.C.;
+RT   "Characterization and structure of a Zn2+ and [2Fe-2S]-containing
+RT   copper chaperone from Archaeoglobus fulgidus.";
+RL   J. Biol. Chem. 282:25950-25959(2007).
+CC   -!- FUNCTION: Chaperone that serves for the intracellular
+CC       sequestration and transport of Cu(+). Delivers Cu(+) directly to
+CC       the transmembrane transport sites of copper-exporting P-type
+CC       ATPase A (CopA). Probably has a redox function due to the presence
+CC       of a 2Fe-2S cluster and could reduce Cu(2+) to Cu(+).
+CC       {ECO:0000269|PubMed:17609202, ECO:0000269|PubMed:18417453}.
+CC   -!- COFACTOR:
+CC       Name=[2Fe-2S] cluster; Xref=ChEBI:CHEBI:49601;
+CC         Evidence={ECO:0000269|PubMed:17609202};
+CC       Note=Binds 1 [2Fe-2S] cluster per subunit.
+CC       {ECO:0000269|PubMed:17609202};
+CC   -!- SUBUNIT: Homodimer or homooligomer in the presence of copper ions
+CC       (By similarity). Monomer in the absence of copper. Interacts with
+CC       CopA probably in its Cu(+)-bound form. {ECO:0000250,
+CC       ECO:0000269|PubMed:17609202, ECO:0000269|PubMed:18417453}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 HMA domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00280}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE000782; AAB90886.1; -; Genomic_DNA.
+DR   PIR; B69293; B69293.
+DR   RefSeq; NP_069182.1; NC_000917.1.
+DR   RefSeq; WP_010877853.1; NC_000917.1.
+DR   PDB; 2HU9; X-ray; 1.78 A; A/B=1-130.
+DR   PDBsum; 2HU9; -.
+DR   ProteinModelPortal; O29901; -.
+DR   SMR; O29901; 1-130.
+DR   STRING; 224325.AF0346; -.
+DR   DNASU; 1483560; -.
+DR   EnsemblBacteria; AAB90886; AAB90886; AF_0346.
+DR   GeneID; 1483560; -.
+DR   KEGG; afu:AF0346; -.
+DR   eggNOG; COG2608; -.
+DR   BioCyc; AFUL224325:GJBC-355-MONOMER; -.
+DR   EvolutionaryTrace; O29901; -.
+DR   Proteomes; UP000002199; Chromosome.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0051539; F:4 iron, 4 sulfur cluster binding; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0030001; P:metal ion transport; IEA:InterPro.
+DR   InterPro; IPR007419; BFD-like_2Fe2S-bd_dom.
+DR   InterPro; IPR017969; Heavy-metal-associated_CS.
+DR   InterPro; IPR006121; HeavyMe-assoc_HMA.
+DR   Pfam; PF04324; Fer2_BFD; 1.
+DR   Pfam; PF00403; HMA; 1.
+DR   SUPFAM; SSF55008; SSF55008; 1.
+DR   PROSITE; PS01047; HMA_1; 1.
+DR   PROSITE; PS50846; HMA_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; 4Fe-4S; Chaperone; Complete proteome; Copper; Cytoplasm;
+KW   Iron; Iron-sulfur; Metal-binding; Reference proteome; Zinc.
+FT   CHAIN         1    204       Copper chaperone CopZ.
+FT                                /FTId=PRO_0000351288.
+FT   DOMAIN      139    201       HMA. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00280}.
+FT   METAL         4      4       Zinc.
+FT   METAL         7      7       Zinc.
+FT   METAL        38     38       Zinc.
+FT   METAL        43     43       Zinc.
+FT   METAL        75     75       Iron-sulfur (2Fe-2S).
+FT   METAL        77     77       Iron-sulfur (2Fe-2S).
+FT   METAL       109    109       Iron-sulfur (2Fe-2S).
+FT   METAL       119    119       Iron-sulfur (2Fe-2S).
+FT   METAL       149    149       Copper. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00280}.
+FT   METAL       152    152       Copper. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00280}.
+FT   MUTAGEN      75     75       C->S: Alters iron-sulfur binding.
+FT                                {ECO:0000269|PubMed:17609202}.
+FT   MUTAGEN      77     77       C->S: Alters iron-sulfur binding.
+FT                                {ECO:0000269|PubMed:17609202}.
+FT   MUTAGEN     109    109       C->S: Alters iron-sulfur binding.
+FT                                {ECO:0000269|PubMed:17609202}.
+FT   MUTAGEN     118    118       C->S: No effect on iron-sulfur binding.
+FT                                {ECO:0000269|PubMed:17609202}.
+FT   MUTAGEN     119    119       C->S: Alters iron-sulfur binding.
+FT                                {ECO:0000269|PubMed:17609202}.
+FT   TURN          5      7       {ECO:0000244|PDB:2HU9}.
+FT   STRAND       12     14       {ECO:0000244|PDB:2HU9}.
+FT   HELIX        16     22       {ECO:0000244|PDB:2HU9}.
+FT   HELIX        25     30       {ECO:0000244|PDB:2HU9}.
+FT   STRAND       35     37       {ECO:0000244|PDB:2HU9}.
+FT   STRAND       44     48       {ECO:0000244|PDB:2HU9}.
+FT   STRAND       53     55       {ECO:0000244|PDB:2HU9}.
+FT   HELIX        56     58       {ECO:0000244|PDB:2HU9}.
+FT   STRAND       59     61       {ECO:0000244|PDB:2HU9}.
+FT   HELIX        64     66       {ECO:0000244|PDB:2HU9}.
+FT   STRAND       68     70       {ECO:0000244|PDB:2HU9}.
+FT   STRAND       73     75       {ECO:0000244|PDB:2HU9}.
+FT   TURN         76     79       {ECO:0000244|PDB:2HU9}.
+FT   HELIX        82     92       {ECO:0000244|PDB:2HU9}.
+FT   HELIX        94    101       {ECO:0000244|PDB:2HU9}.
+FT   HELIX       109    112       {ECO:0000244|PDB:2HU9}.
+FT   HELIX       120    125       {ECO:0000244|PDB:2HU9}.
+SQ   SEQUENCE   204 AA;  22588 MW;  776EE192AFDD8C85 CRC64;
+     MMRCPECSTE GWRVLPLTVG AHVKEGLWSK IKGDFYFCSL ESCEVVYFNE QTVFRKGELK
+     TRVGVKEREE PKPVCYCNRV TEKMLLEAAE KFGKEKAVEI TGAGKGKWCV VTNPSGRCCH
+     WHLERLGFPV GGEKKAAKRV EIKLDGLTCM GCVSAVKAAL EEAGANVVEI GLDRAVVEVD
+     EEAELQKLVE AVEGAGYSAR LEKR
+//

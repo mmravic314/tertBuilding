@@ -1,0 +1,654 @@
+ID   SHH_MOUSE               Reviewed;         437 AA.
+AC   Q62226;
+DT   15-JUL-1999, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-1998, sequence version 2.
+DT   24-JUN-2015, entry version 169.
+DE   RecName: Full=Sonic hedgehog protein;
+DE            Short=SHH;
+DE   AltName: Full=HHG-1;
+DE   Contains:
+DE     RecName: Full=Sonic hedgehog protein N-product;
+DE     AltName: Full=Sonic hedgehog protein 19 kDa product;
+DE   Contains:
+DE     RecName: Full=Sonic hedgehog protein C-product;
+DE     AltName: Full=Sonic hedgehog protein 27 kDa product;
+DE   Flags: Precursor;
+GN   Name=Shh; Synonyms=Hhg1;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=C57BL/6J; TISSUE=Embryo;
+RX   PubMed=7916661; DOI=10.1016/0092-8674(93)90627-3;
+RA   Echelard Y., Epstein D.J., St Jacques B., Shen L., Mohler J.,
+RA   McMahon J.A., McMahon A.P.;
+RT   "Sonic hedgehog, a member of a family of putative signaling molecules,
+RT   is implicated in the regulation of CNS polarity.";
+RL   Cell 75:1417-1430(1993).
+RN   [2]
+RP   SEQUENCE REVISION TO 122.
+RA   McMahon A.P.;
+RL   Submitted (NOV-1997) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA], PROTEOLYTIC PROCESSING, AND AUTOCATALYTIC
+RP   CLEAVAGE.
+RX   PubMed=7720571;
+RA   Chang D.T., Lopez A., von Kessler D.P., Chiang C., Simandl B.K.,
+RA   Zhao R., Seldin M.F., Fallon J.F., Beachy P.A.;
+RT   "Products, genetic linkage and limb patterning activity of a murine
+RT   hedgehog gene.";
+RL   Development 120:3339-3353(1994).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=C57BL/6J;
+RX   PubMed=16141072; DOI=10.1126/science.1112014;
+RA   Carninci P., Kasukawa T., Katayama S., Gough J., Frith M.C., Maeda N.,
+RA   Oyama R., Ravasi T., Lenhard B., Wells C., Kodzius R., Shimokawa K.,
+RA   Bajic V.B., Brenner S.E., Batalov S., Forrest A.R., Zavolan M.,
+RA   Davis M.J., Wilming L.G., Aidinis V., Allen J.E.,
+RA   Ambesi-Impiombato A., Apweiler R., Aturaliya R.N., Bailey T.L.,
+RA   Bansal M., Baxter L., Beisel K.W., Bersano T., Bono H., Chalk A.M.,
+RA   Chiu K.P., Choudhary V., Christoffels A., Clutterbuck D.R.,
+RA   Crowe M.L., Dalla E., Dalrymple B.P., de Bono B., Della Gatta G.,
+RA   di Bernardo D., Down T., Engstrom P., Fagiolini M., Faulkner G.,
+RA   Fletcher C.F., Fukushima T., Furuno M., Futaki S., Gariboldi M.,
+RA   Georgii-Hemming P., Gingeras T.R., Gojobori T., Green R.E.,
+RA   Gustincich S., Harbers M., Hayashi Y., Hensch T.K., Hirokawa N.,
+RA   Hill D., Huminiecki L., Iacono M., Ikeo K., Iwama A., Ishikawa T.,
+RA   Jakt M., Kanapin A., Katoh M., Kawasawa Y., Kelso J., Kitamura H.,
+RA   Kitano H., Kollias G., Krishnan S.P., Kruger A., Kummerfeld S.K.,
+RA   Kurochkin I.V., Lareau L.F., Lazarevic D., Lipovich L., Liu J.,
+RA   Liuni S., McWilliam S., Madan Babu M., Madera M., Marchionni L.,
+RA   Matsuda H., Matsuzawa S., Miki H., Mignone F., Miyake S., Morris K.,
+RA   Mottagui-Tabar S., Mulder N., Nakano N., Nakauchi H., Ng P.,
+RA   Nilsson R., Nishiguchi S., Nishikawa S., Nori F., Ohara O.,
+RA   Okazaki Y., Orlando V., Pang K.C., Pavan W.J., Pavesi G., Pesole G.,
+RA   Petrovsky N., Piazza S., Reed J., Reid J.F., Ring B.Z., Ringwald M.,
+RA   Rost B., Ruan Y., Salzberg S.L., Sandelin A., Schneider C.,
+RA   Schoenbach C., Sekiguchi K., Semple C.A., Seno S., Sessa L., Sheng Y.,
+RA   Shibata Y., Shimada H., Shimada K., Silva D., Sinclair B.,
+RA   Sperling S., Stupka E., Sugiura K., Sultana R., Takenaka Y., Taki K.,
+RA   Tammoja K., Tan S.L., Tang S., Taylor M.S., Tegner J., Teichmann S.A.,
+RA   Ueda H.R., van Nimwegen E., Verardo R., Wei C.L., Yagi K.,
+RA   Yamanishi H., Zabarovsky E., Zhu S., Zimmer A., Hide W., Bult C.,
+RA   Grimmond S.M., Teasdale R.D., Liu E.T., Brusic V., Quackenbush J.,
+RA   Wahlestedt C., Mattick J.S., Hume D.A., Kai C., Sasaki D., Tomaru Y.,
+RA   Fukuda S., Kanamori-Katayama M., Suzuki M., Aoki J., Arakawa T.,
+RA   Iida J., Imamura K., Itoh M., Kato T., Kawaji H., Kawagashira N.,
+RA   Kawashima T., Kojima M., Kondo S., Konno H., Nakano K., Ninomiya N.,
+RA   Nishio T., Okada M., Plessy C., Shibata K., Shiraki T., Suzuki S.,
+RA   Tagami M., Waki K., Watahiki A., Okamura-Oho Y., Suzuki H., Kawai J.,
+RA   Hayashizaki Y.;
+RT   "The transcriptional landscape of the mammalian genome.";
+RL   Science 309:1559-1563(2005).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Limb;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   PROTEOLYTIC PROCESSING, GLYCOSYLATION, AND SUBCELLULAR LOCATION.
+RX   PubMed=7891723;
+RA   Bumcrot D.A., Takada R., McMahon A.P.;
+RT   "Proteolytic processing yields two secreted forms of sonic hedgehog.";
+RL   Mol. Cell. Biol. 15:2294-2303(1995).
+RN   [7]
+RP   FUNCTION, PROTEOLYTIC PROCESSING, AND AUTOCATALYTIC CLEAVAGE.
+RX   PubMed=7736596; DOI=10.1016/0092-8674(95)90397-6;
+RA   Roelink H., Porter J.A., Chiang C., Tanabe Y., Chang D.T.,
+RA   Beachy P.A., Jessell T.M.;
+RT   "Floor plate and motor neuron induction by different concentrations of
+RT   the amino-terminal cleavage product of sonic hedgehog
+RT   autoproteolysis.";
+RL   Cell 81:445-455(1995).
+RN   [8]
+RP   CHOLESTERYLATION AT GLY-198.
+RX   PubMed=8824192; DOI=10.1126/science.274.5285.255;
+RA   Porter J.A., Young K.E., Beachy P.A.;
+RT   "Cholesterol modification of hedgehog signaling proteins in animal
+RT   development.";
+RL   Science 274:255-259(1996).
+RN   [9]
+RP   PALMITOYLATION AT CYS-25, AND MUTAGENESIS OF CYS-25.
+RX   PubMed=11486055; DOI=10.1126/science.1064437;
+RA   Chamoun Z., Mann R.K., Nellen D., von Kessler D.P., Bellotto M.,
+RA   Beachy P.A., Basler K.;
+RT   "Skinny hedgehog, an acyltransferase required for palmitoylation and
+RT   activity of the hedgehog signal.";
+RL   Science 293:2080-2084(2001).
+RN   [10]
+RP   FUNCTION IN CEREBELLAR DEVELOPMENT.
+RX   PubMed=14687547; DOI=10.1016/S0896-6273(03)00769-4;
+RA   Gold D.A., Baek S.H., Schork N.J., Rose D.W., Larsen D.D., Sachs B.D.,
+RA   Rosenfeld M.G., Hamilton B.A.;
+RT   "RORalpha coordinates reciprocal signaling in cerebellar development
+RT   through sonic hedgehog and calcium-dependent pathways.";
+RL   Neuron 40:1119-1131(2003).
+RN   [11]
+RP   PALMITOYLATION AT CYS-25, MUTAGENESIS OF CYS-25, SUBUNIT, AND
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=15075292; DOI=10.1101/gad.1185804;
+RA   Chen M.-H., Li Y.-J., Kawakami T., Xu S.-M., Chuang P.-T.;
+RT   "Palmitoylation is required for the production of a soluble multimeric
+RT   Hedgehog protein complex and long-range signaling in vertebrates.";
+RL   Genes Dev. 18:641-659(2004).
+RN   [12]
+RP   MUTAGENESIS OF GLY-32; ASP-89; GLN-101; ASN-116; TRP-118 AND GLU-189.
+RX   PubMed=16282375; DOI=10.1073/pnas.0507848102;
+RA   Maity T., Fuse N., Beachy P.A.;
+RT   "Molecular mechanisms of Sonic hedgehog mutant effects in
+RT   holoprosencephaly.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 102:17026-17031(2005).
+RN   [13]
+RP   INTERACTION WITH HHATL.
+RX   PubMed=18081866; DOI=10.1111/j.1742-4658.2007.06202.x;
+RA   Abe Y., Kita Y., Niikura T.;
+RT   "Mammalian Gup1, a homolog of Saccharomyces cerevisiae glycerol
+RT   uptake/transporter 1, acts as a negative regulator for N-terminal
+RT   palmitoylation of Sonic hedgehog.";
+RL   FEBS J. 275:318-331(2008).
+RN   [14]
+RP   X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS) OF 34-195 IN COMPLEX WITH ZINC
+RP   IONS.
+RX   PubMed=7477329; DOI=10.1038/378212a0;
+RA   Hall T.M.T., Porter J.A., Beachy P.A., Leahy D.J.;
+RT   "A potential catalytic site revealed by the 1.7-A crystal structure of
+RT   the amino-terminal signalling domain of Sonic hedgehog.";
+RL   Nature 378:212-216(1995).
+RN   [15]
+RP   X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS) OF 26-189 IN COMPLEX WITH CDON;
+RP   CALCIUM AND ZINC IONS, DOMAIN, AND INTERACTION WITH CDON.
+RX   PubMed=18794898; DOI=10.1038/nature07358;
+RA   McLellan J.S., Zheng X., Hauk G., Ghirlando R., Beachy P.A.,
+RA   Leahy D.J.;
+RT   "The mode of Hedgehog binding to Ihog homologues is not conserved
+RT   across different phyla.";
+RL   Nature 455:979-983(2008).
+RN   [16]
+RP   X-RAY CRYSTALLOGRAPHY (3.2 ANGSTROMS) OF 40-191 IN COMPLEX WITH HHIP;
+RP   CALCIUM AND ZINC IONS, DOMAIN, AND INTERACTION WITH HHIP.
+RX   PubMed=19561611; DOI=10.1038/nsmb.1607;
+RA   Bishop B., Aricescu A.R., Harlos K., O'Callaghan C.A., Jones E.Y.,
+RA   Siebold C.;
+RT   "Structural insights into hedgehog ligand sequestration by the human
+RT   hedgehog-interacting protein HHIP.";
+RL   Nat. Struct. Mol. Biol. 16:698-703(2009).
+RN   [17]
+RP   X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS) OF 26-189 IN COMPLEX WITH
+RP   CALCIUM AND ZINC IONS, DOMAIN, AND INTERACTION WITH BOC AND CDON.
+RX   PubMed=20519495; DOI=10.1074/jbc.M110.131680;
+RA   Kavran J.M., Ward M.D., Oladosu O.O., Mulepati S., Leahy D.J.;
+RT   "All mammalian Hedgehog proteins interact with cell adhesion molecule,
+RT   down-regulated by oncogenes (CDO) and brother of CDO (BOC) in a
+RT   conserved manner.";
+RL   J. Biol. Chem. 285:24584-24590(2010).
+CC   -!- FUNCTION: Intercellular signal essential for a variety of
+CC       patterning events during development: signal produced by the
+CC       notochord that induces ventral cell fate in the neural tube and
+CC       somites, and the polarizing signal for patterning of the anterior-
+CC       posterior axis of the developing limb bud. Displays both floor
+CC       plate- and motor neuron-inducing activity. The threshold
+CC       concentration of N-product required for motor neuron induction is
+CC       5-fold lower than that required for floor plate induction.
+CC       Activates the transcription of target genes by interacting with
+CC       its receptor PTCH1 to prevent normal inhibition by PTCH1 on the
+CC       constitutive signaling activity of SMO.
+CC       {ECO:0000269|PubMed:14687547, ECO:0000269|PubMed:7736596}.
+CC   -!- SUBUNIT: Interacts with HHATL/GUP1 which negatively regulates
+CC       HHAT-mediated palmitoylation of the SHH N-terminus. N-product is
+CC       active as a multimer. Interacts with BOC and CDON. Interacts with
+CC       HHIP. {ECO:0000269|PubMed:15075292, ECO:0000269|PubMed:18081866,
+CC       ECO:0000269|PubMed:18794898, ECO:0000269|PubMed:19561611,
+CC       ECO:0000269|PubMed:20519495, ECO:0000269|PubMed:7477329}.
+CC   -!- SUBCELLULAR LOCATION: Sonic hedgehog protein C-product: Secreted,
+CC       extracellular space. Note=The C-terminal peptide diffuses from the
+CC       cell.
+CC   -!- SUBCELLULAR LOCATION: Sonic hedgehog protein N-product: Cell
+CC       membrane; Lipid-anchor. Note=The N-product either remains
+CC       associated with lipid rafts at the cell surface, or forms freely
+CC       diffusible active multimers with its hydrophobic lipid-modified N-
+CC       and C-termini buried inside.
+CC   -!- TISSUE SPECIFICITY: Expressed in a number of embryonic tissues
+CC       including the notochord, ventral neural tube, floor plate, lung
+CC       bud, zone of polarizing activity and posterior distal mesenchyme
+CC       of limbs. In the adult, expressed in lung and neural retina.
+CC   -!- DEVELOPMENTAL STAGE: First detectable during gastrulation.
+CC   -!- INDUCTION: By retinoic acid.
+CC   -!- DOMAIN: The sonic hedgehog protein N-product binds calcium and
+CC       zinc ions; this stabilizes the protein fold and is essential for
+CC       protein-protein interactions mediated by this domain.
+CC       {ECO:0000269|PubMed:18794898, ECO:0000269|PubMed:19561611,
+CC       ECO:0000269|PubMed:20519495}.
+CC   -!- PTM: The C-terminal domain displays an autoproteolysis activity
+CC       and a cholesterol transferase activity. Both activities result in
+CC       the cleavage of the full-length protein and covalent attachment of
+CC       a cholesterol moiety to the C-terminal of the newly generated N-
+CC       terminal fragment (N-product). The N-product is the active species
+CC       in both local and long-range signaling, whereas the C-product has
+CC       no signaling activity. {ECO:0000269|PubMed:7720571,
+CC       ECO:0000269|PubMed:7736596, ECO:0000269|PubMed:7891723}.
+CC   -!- PTM: Cholesterylation is required for N-product targeting to lipid
+CC       rafts and multimerization. {ECO:0000269|PubMed:8824192}.
+CC   -!- PTM: N-palmitoylation of Cys-25 by HHAT is required for N-product
+CC       multimerization and full activity. {ECO:0000269|PubMed:11486055,
+CC       ECO:0000269|PubMed:15075292}.
+CC   -!- MISCELLANEOUS: Mice overexpressing Shh display digit duplications
+CC       in both forelimbs and hindlimbs.
+CC   -!- SIMILARITY: Belongs to the hedgehog family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X76290; CAA53922.1; -; mRNA.
+DR   EMBL; AK077688; BAC36956.1; -; mRNA.
+DR   EMBL; BC063087; AAH63087.1; -; mRNA.
+DR   CCDS; CCDS19146.1; -.
+DR   PIR; A49425; A49425.
+DR   RefSeq; NP_033196.1; NM_009170.3.
+DR   UniGene; Mm.57202; -.
+DR   PDB; 1VHH; X-ray; 1.70 A; A=34-195.
+DR   PDB; 2WFX; X-ray; 3.20 A; A=40-191.
+DR   PDB; 2WG4; X-ray; 3.15 A; A=40-191.
+DR   PDB; 3D1M; X-ray; 1.70 A; A/B=26-189.
+DR   PDB; 3N1R; X-ray; 2.13 A; A=40-195.
+DR   PDB; 4C4M; X-ray; 1.74 A; A=40-195.
+DR   PDB; 4C4N; X-ray; 2.36 A; A/B=40-195.
+DR   PDBsum; 1VHH; -.
+DR   PDBsum; 2WFX; -.
+DR   PDBsum; 2WG4; -.
+DR   PDBsum; 3D1M; -.
+DR   PDBsum; 3N1R; -.
+DR   PDBsum; 4C4M; -.
+DR   PDBsum; 4C4N; -.
+DR   ProteinModelPortal; Q62226; -.
+DR   SMR; Q62226; 39-195, 199-351.
+DR   BioGrid; 203220; 10.
+DR   DIP; DIP-48537N; -.
+DR   STRING; 10090.ENSMUSP00000002708; -.
+DR   BindingDB; Q62226; -.
+DR   ChEMBL; CHEMBL5387; -.
+DR   MEROPS; C46.002; -.
+DR   PhosphoSite; Q62226; -.
+DR   PRIDE; Q62226; -.
+DR   Ensembl; ENSMUST00000002708; ENSMUSP00000002708; ENSMUSG00000002633.
+DR   GeneID; 20423; -.
+DR   KEGG; mmu:20423; -.
+DR   UCSC; uc008wua.2; mouse.
+DR   CTD; 6469; -.
+DR   MGI; MGI:98297; Shh.
+DR   eggNOG; NOG250647; -.
+DR   GeneTree; ENSGT00390000001117; -.
+DR   HOGENOM; HOG000233428; -.
+DR   HOVERGEN; HBG005480; -.
+DR   InParanoid; Q62226; -.
+DR   KO; K11988; -.
+DR   OMA; HSWAHRA; -.
+DR   OrthoDB; EOG779NZ5; -.
+DR   PhylomeDB; Q62226; -.
+DR   TreeFam; TF106458; -.
+DR   Reactome; REACT_282161; Release of Hh-Np from the secreting cell.
+DR   Reactome; REACT_295321; Ligand-receptor interactions.
+DR   Reactome; REACT_335449; Class B/2 (Secretin family receptors).
+DR   Reactome; REACT_347264; Hedgehog ligand biogenesis.
+DR   EvolutionaryTrace; Q62226; -.
+DR   NextBio; 298432; -.
+DR   PRO; PR:Q62226; -.
+DR   Proteomes; UP000000589; Chromosome 5.
+DR   Bgee; Q62226; -.
+DR   CleanEx; MM_SHH; -.
+DR   Genevisible; Q62226; MM.
+DR   GO; GO:0009986; C:cell surface; IDA:MGI.
+DR   GO; GO:0005576; C:extracellular region; TAS:Reactome.
+DR   GO; GO:0005615; C:extracellular space; IDA:MGI.
+DR   GO; GO:0016020; C:membrane; IDA:MGI.
+DR   GO; GO:0045121; C:membrane raft; IDA:MGI.
+DR   GO; GO:0005634; C:nucleus; IDA:MGI.
+DR   GO; GO:0005886; C:plasma membrane; TAS:Reactome.
+DR   GO; GO:0005578; C:proteinaceous extracellular matrix; IDA:MGI.
+DR   GO; GO:0005509; F:calcium ion binding; ISS:UniProtKB.
+DR   GO; GO:0001948; F:glycoprotein binding; IDA:MGI.
+DR   GO; GO:0005539; F:glycosaminoglycan binding; IDA:MGI.
+DR   GO; GO:0043237; F:laminin-1 binding; IDA:MGI.
+DR   GO; GO:0005113; F:patched binding; IPI:Roslin.
+DR   GO; GO:0008270; F:zinc ion binding; ISS:UniProtKB.
+DR   GO; GO:0048856; P:anatomical structure development; IMP:MGI.
+DR   GO; GO:0048646; P:anatomical structure formation involved in morphogenesis; IMP:MGI.
+DR   GO; GO:0008209; P:androgen metabolic process; IMP:MGI.
+DR   GO; GO:0001525; P:angiogenesis; IDA:MGI.
+DR   GO; GO:0009952; P:anterior/posterior pattern specification; IMP:MGI.
+DR   GO; GO:0006915; P:apoptotic process; IGI:MGI.
+DR   GO; GO:0097190; P:apoptotic signaling pathway; IDA:Roslin.
+DR   GO; GO:0060840; P:artery development; IMP:MGI.
+DR   GO; GO:0007411; P:axon guidance; IDA:MGI.
+DR   GO; GO:0060020; P:Bergmann glial cell differentiation; IDA:MGI.
+DR   GO; GO:0007596; P:blood coagulation; IMP:MGI.
+DR   GO; GO:0060442; P:branching involved in prostate gland morphogenesis; IDA:MGI.
+DR   GO; GO:0060445; P:branching involved in salivary gland morphogenesis; IMP:MGI.
+DR   GO; GO:0001658; P:branching involved in ureteric bud morphogenesis; IMP:MGI.
+DR   GO; GO:0048754; P:branching morphogenesis of an epithelial tube; IMP:MGI.
+DR   GO; GO:0060447; P:bud outgrowth involved in lung branching; IMP:MGI.
+DR   GO; GO:0043010; P:camera-type eye development; IDA:MGI.
+DR   GO; GO:0060070; P:canonical Wnt signaling pathway; IDA:MGI.
+DR   GO; GO:0043369; P:CD4-positive or CD8-positive, alpha-beta T cell lineage commitment; IMP:BHF-UCL.
+DR   GO; GO:0048468; P:cell development; IMP:MGI.
+DR   GO; GO:0045165; P:cell fate commitment; IGI:MGI.
+DR   GO; GO:0001708; P:cell fate specification; IDA:MGI.
+DR   GO; GO:0008283; P:cell proliferation; IGI:MGI.
+DR   GO; GO:0007267; P:cell-cell signaling; IMP:MGI.
+DR   GO; GO:0071285; P:cellular response to lithium ion; IDA:MGI.
+DR   GO; GO:0007417; P:central nervous system development; IMP:MGI.
+DR   GO; GO:0021930; P:cerebellar granule cell precursor proliferation; IGI:UniProtKB.
+DR   GO; GO:0003140; P:determination of left/right asymmetry in lateral mesoderm; IMP:BHF-UCL.
+DR   GO; GO:0007368; P:determination of left/right symmetry; IMP:MGI.
+DR   GO; GO:0048589; P:developmental growth; IMP:MGI.
+DR   GO; GO:0048546; P:digestive tract morphogenesis; IMP:MGI.
+DR   GO; GO:0021904; P:dorsal/ventral neural tube patterning; IMP:BHF-UCL.
+DR   GO; GO:0009953; P:dorsal/ventral pattern formation; IGI:MGI.
+DR   GO; GO:0007398; P:ectoderm development; IMP:MGI.
+DR   GO; GO:0048557; P:embryonic digestive tract morphogenesis; TAS:BHF-UCL.
+DR   GO; GO:0042733; P:embryonic digit morphogenesis; IMP:Roslin.
+DR   GO; GO:0048617; P:embryonic foregut morphogenesis; IMP:MGI.
+DR   GO; GO:0035115; P:embryonic forelimb morphogenesis; IMP:MGI.
+DR   GO; GO:0035116; P:embryonic hindlimb morphogenesis; IMP:MGI.
+DR   GO; GO:0030326; P:embryonic limb morphogenesis; IMP:MGI.
+DR   GO; GO:0048598; P:embryonic morphogenesis; IMP:MGI.
+DR   GO; GO:0048568; P:embryonic organ development; IMP:MGI.
+DR   GO; GO:0048706; P:embryonic skeletal system development; IGI:MGI.
+DR   GO; GO:0006897; P:endocytosis; IDA:MGI.
+DR   GO; GO:0060664; P:epithelial cell proliferation involved in salivary gland morphogenesis; IMP:MGI.
+DR   GO; GO:0060441; P:epithelial tube branching involved in lung morphogenesis; IMP:MGI.
+DR   GO; GO:0060684; P:epithelial-mesenchymal cell signaling; IMP:MGI.
+DR   GO; GO:0060738; P:epithelial-mesenchymal signaling involved in prostate gland development; IGI:MGI.
+DR   GO; GO:0030010; P:establishment of cell polarity; IDA:MGI.
+DR   GO; GO:0030900; P:forebrain development; IGI:MGI.
+DR   GO; GO:0048859; P:formation of anatomical boundary; IMP:MGI.
+DR   GO; GO:0001942; P:hair follicle development; IMP:MGI.
+DR   GO; GO:0031069; P:hair follicle morphogenesis; IMP:MGI.
+DR   GO; GO:0007507; P:heart development; IMP:MGI.
+DR   GO; GO:0001947; P:heart looping; IMP:BHF-UCL.
+DR   GO; GO:0030902; P:hindbrain development; IMP:MGI.
+DR   GO; GO:0007442; P:hindgut morphogenesis; IMP:MGI.
+DR   GO; GO:0048839; P:inner ear development; IMP:MGI.
+DR   GO; GO:0016539; P:intein-mediated protein splicing; IEA:InterPro.
+DR   GO; GO:0045109; P:intermediate filament organization; IMP:MGI.
+DR   GO; GO:0001822; P:kidney development; IMP:MGI.
+DR   GO; GO:0060459; P:left lung development; IMP:MGI.
+DR   GO; GO:0060174; P:limb bud formation; IMP:MGI.
+DR   GO; GO:0060173; P:limb development; IMP:MGI.
+DR   GO; GO:0030324; P:lung development; IMP:MGI.
+DR   GO; GO:0060428; P:lung epithelium development; IMP:MGI.
+DR   GO; GO:0060463; P:lung lobe morphogenesis; IMP:MGI.
+DR   GO; GO:0060425; P:lung morphogenesis; IMP:MGI.
+DR   GO; GO:0060484; P:lung-associated mesenchyme development; IMP:MGI.
+DR   GO; GO:0002320; P:lymphoid progenitor cell differentiation; IMP:BHF-UCL.
+DR   GO; GO:0030539; P:male genitalia development; IMP:MGI.
+DR   GO; GO:0010463; P:mesenchymal cell proliferation; IMP:MGI.
+DR   GO; GO:0060916; P:mesenchymal cell proliferation involved in lung development; IDA:MGI.
+DR   GO; GO:0060783; P:mesenchymal smoothened signaling pathway involved in prostate gland development; IMP:MGI.
+DR   GO; GO:0072136; P:metanephric mesenchymal cell proliferation involved in metanephros development; IMP:UniProtKB.
+DR   GO; GO:0001656; P:metanephros development; IMP:UniProtKB.
+DR   GO; GO:0030901; P:midbrain development; IGI:MGI.
+DR   GO; GO:0080125; P:multicellular structure septum development; IMP:MGI.
+DR   GO; GO:0045445; P:myoblast differentiation; IDA:MGI.
+DR   GO; GO:0014902; P:myotube differentiation; IMP:MGI.
+DR   GO; GO:0046639; P:negative regulation of alpha-beta T cell differentiation; IMP:MGI.
+DR   GO; GO:0043066; P:negative regulation of apoptotic process; IDA:Roslin.
+DR   GO; GO:0090090; P:negative regulation of canonical Wnt signaling pathway; IMP:MGI.
+DR   GO; GO:0045596; P:negative regulation of cell differentiation; IDA:MGI.
+DR   GO; GO:0030336; P:negative regulation of cell migration; IDA:MGI.
+DR   GO; GO:0090370; P:negative regulation of cholesterol efflux; IMP:BHF-UCL.
+DR   GO; GO:0010629; P:negative regulation of gene expression; IMP:UniProtKB.
+DR   GO; GO:2000357; P:negative regulation of kidney smooth muscle cell differentiation; IDA:UniProtKB.
+DR   GO; GO:2001054; P:negative regulation of mesenchymal cell apoptotic process; IMP:MGI.
+DR   GO; GO:0032435; P:negative regulation of proteasomal ubiquitin-dependent protein catabolic process; IMP:MGI.
+DR   GO; GO:0042177; P:negative regulation of protein catabolic process; IMP:MGI.
+DR   GO; GO:0042130; P:negative regulation of T cell proliferation; IMP:MGI.
+DR   GO; GO:0034244; P:negative regulation of transcription elongation from RNA polymerase II promoter; IDA:MGI.
+DR   GO; GO:0000122; P:negative regulation of transcription from RNA polymerase II promoter; IMP:BHF-UCL.
+DR   GO; GO:2000062; P:negative regulation of ureter smooth muscle cell differentiation; IDA:UniProtKB.
+DR   GO; GO:0030178; P:negative regulation of Wnt signaling pathway; IDA:MGI.
+DR   GO; GO:0045060; P:negative thymic T cell selection; IMP:BHF-UCL.
+DR   GO; GO:0001755; P:neural crest cell migration; IMP:MGI.
+DR   GO; GO:0007405; P:neuroblast proliferation; IDA:MGI.
+DR   GO; GO:0048663; P:neuron fate commitment; IMP:MGI.
+DR   GO; GO:0042476; P:odontogenesis; IDA:MGI.
+DR   GO; GO:0042475; P:odontogenesis of dentin-containing tooth; IMP:MGI.
+DR   GO; GO:0014003; P:oligodendrocyte development; IDA:MGI.
+DR   GO; GO:0048709; P:oligodendrocyte differentiation; IGI:MGI.
+DR   GO; GO:0048645; P:organ formation; IMP:MGI.
+DR   GO; GO:0002076; P:osteoblast development; IDA:MGI.
+DR   GO; GO:0060021; P:palate development; IMP:MGI.
+DR   GO; GO:0031016; P:pancreas development; IMP:MGI.
+DR   GO; GO:0007389; P:pattern specification process; IMP:MGI.
+DR   GO; GO:0001569; P:patterning of blood vessels; IMP:MGI.
+DR   GO; GO:0009949; P:polarity specification of anterior/posterior axis; IMP:Roslin.
+DR   GO; GO:0046638; P:positive regulation of alpha-beta T cell differentiation; IMP:BHF-UCL.
+DR   GO; GO:0045597; P:positive regulation of cell differentiation; IMP:MGI.
+DR   GO; GO:0051781; P:positive regulation of cell division; ISO:MGI.
+DR   GO; GO:0008284; P:positive regulation of cell proliferation; IDA:MGI.
+DR   GO; GO:0021940; P:positive regulation of cerebellar granule cell precursor proliferation; IDA:MGI.
+DR   GO; GO:0060769; P:positive regulation of epithelial cell proliferation involved in prostate gland development; IMP:MGI.
+DR   GO; GO:0010628; P:positive regulation of gene expression; IMP:UniProtKB.
+DR   GO; GO:0007228; P:positive regulation of hh target transcription factor activity; IMP:BHF-UCL.
+DR   GO; GO:0033092; P:positive regulation of immature T cell proliferation in thymus; IMP:BHF-UCL.
+DR   GO; GO:2000358; P:positive regulation of kidney smooth muscle cell differentiation; IDA:UniProtKB.
+DR   GO; GO:0002053; P:positive regulation of mesenchymal cell proliferation; IMP:MGI.
+DR   GO; GO:2000729; P:positive regulation of mesenchymal cell proliferation involved in ureter development; IMP:UniProtKB.
+DR   GO; GO:0002052; P:positive regulation of neuroblast proliferation; IDA:MGI.
+DR   GO; GO:0048714; P:positive regulation of oligodendrocyte differentiation; IDA:MGI.
+DR   GO; GO:0042307; P:positive regulation of protein import into nucleus; IGI:MGI.
+DR   GO; GO:0061189; P:positive regulation of sclerotome development; ISO:MGI.
+DR   GO; GO:0014858; P:positive regulation of skeletal muscle cell proliferation; IMP:MGI.
+DR   GO; GO:0048643; P:positive regulation of skeletal muscle tissue development; IMP:MGI.
+DR   GO; GO:0045880; P:positive regulation of smoothened signaling pathway; ISS:UniProtKB.
+DR   GO; GO:0051155; P:positive regulation of striated muscle cell differentiation; IMP:MGI.
+DR   GO; GO:0033089; P:positive regulation of T cell differentiation in thymus; IMP:BHF-UCL.
+DR   GO; GO:0045944; P:positive regulation of transcription from RNA polymerase II promoter; IDA:BHF-UCL.
+DR   GO; GO:0045893; P:positive regulation of transcription, DNA-templated; IDA:UniProtKB.
+DR   GO; GO:2000063; P:positive regulation of ureter smooth muscle cell differentiation; IMP:UniProtKB.
+DR   GO; GO:0030177; P:positive regulation of Wnt signaling pathway; IMP:MGI.
+DR   GO; GO:0045059; P:positive thymic T cell selection; IMP:BHF-UCL.
+DR   GO; GO:0060516; P:primary prostatic bud elongation; IDA:MGI.
+DR   GO; GO:0060523; P:prostate epithelial cord elongation; IDA:MGI.
+DR   GO; GO:0030850; P:prostate gland development; IMP:MGI.
+DR   GO; GO:0034504; P:protein localization to nucleus; IDA:MGI.
+DR   GO; GO:0042127; P:regulation of cell proliferation; IDA:MGI.
+DR   GO; GO:0060768; P:regulation of epithelial cell proliferation involved in prostate gland development; IMP:MGI.
+DR   GO; GO:0010468; P:regulation of gene expression; IDA:MGI.
+DR   GO; GO:0060782; P:regulation of mesenchymal cell proliferation involved in prostate gland development; IMP:MGI.
+DR   GO; GO:0042481; P:regulation of odontogenesis; IMP:BHF-UCL.
+DR   GO; GO:0060685; P:regulation of prostatic bud formation; IDA:MGI.
+DR   GO; GO:1900180; P:regulation of protein localization to nucleus; ISO:MGI.
+DR   GO; GO:0030162; P:regulation of proteolysis; IDA:MGI.
+DR   GO; GO:0006355; P:regulation of transcription, DNA-templated; IMP:MGI.
+DR   GO; GO:0030323; P:respiratory tube development; IMP:MGI.
+DR   GO; GO:0060458; P:right lung development; IMP:MGI.
+DR   GO; GO:0060662; P:salivary gland cavitation; IDA:MGI.
+DR   GO; GO:0007165; P:signal transduction; TAS:MGI.
+DR   GO; GO:0043588; P:skin development; IMP:MGI.
+DR   GO; GO:0007224; P:smoothened signaling pathway; IDA:MGI.
+DR   GO; GO:0021938; P:smoothened signaling pathway involved in regulation of cerebellar granule cell precursor cell proliferation; IDA:MGI.
+DR   GO; GO:0061053; P:somite development; IMP:BHF-UCL.
+DR   GO; GO:0021513; P:spinal cord dorsal/ventral patterning; IMP:MGI.
+DR   GO; GO:0021522; P:spinal cord motor neuron differentiation; IGI:MGI.
+DR   GO; GO:0048864; P:stem cell development; IMP:BHF-UCL.
+DR   GO; GO:0051146; P:striated muscle cell differentiation; IDA:MGI.
+DR   GO; GO:0014706; P:striated muscle tissue development; IMP:MGI.
+DR   GO; GO:0033077; P:T cell differentiation in thymus; IMP:BHF-UCL.
+DR   GO; GO:0021978; P:telencephalon regionalization; IMP:MGI.
+DR   GO; GO:0021794; P:thalamus development; IMP:MGI.
+DR   GO; GO:0048538; P:thymus development; IMP:BHF-UCL.
+DR   GO; GO:0030878; P:thyroid gland development; IMP:MGI.
+DR   GO; GO:0060438; P:trachea development; IMP:MGI.
+DR   GO; GO:0060439; P:trachea morphogenesis; IMP:MGI.
+DR   GO; GO:0001944; P:vasculature development; IMP:MGI.
+DR   GO; GO:0001570; P:vasculogenesis; IDA:MGI.
+DR   GO; GO:0060979; P:vasculogenesis involved in coronary vascular morphogenesis; TAS:DFLAT.
+DR   GO; GO:0021521; P:ventral spinal cord interneuron specification; ISO:MGI.
+DR   Gene3D; 2.170.16.10; -; 1.
+DR   Gene3D; 3.30.1380.10; -; 1.
+DR   InterPro; IPR001657; Hedgehog.
+DR   InterPro; IPR028992; Hedgehog/Intein_dom.
+DR   InterPro; IPR009045; Hedgehog_sig/DD-Pept_Zn-bd_dom.
+DR   InterPro; IPR000320; Hedgehog_signalling_dom.
+DR   InterPro; IPR001767; Hint_dom.
+DR   InterPro; IPR003586; Hint_dom_C.
+DR   InterPro; IPR003587; Hint_dom_N.
+DR   InterPro; IPR006141; Intein_N.
+DR   Pfam; PF01085; HH_signal; 1.
+DR   Pfam; PF01079; Hint; 1.
+DR   PIRSF; PIRSF009400; Peptidase_C46; 1.
+DR   PRINTS; PR00632; SONICHHOG.
+DR   SMART; SM00305; HintC; 1.
+DR   SMART; SM00306; HintN; 1.
+DR   SUPFAM; SSF51294; SSF51294; 1.
+DR   SUPFAM; SSF55166; SSF55166; 1.
+DR   PROSITE; PS50817; INTEIN_N_TER; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Autocatalytic cleavage; Calcium; Cell membrane;
+KW   Complete proteome; Developmental protein; Glycoprotein; Hydrolase;
+KW   Lipoprotein; Membrane; Metal-binding; Palmitate; Protease;
+KW   Reference proteome; Secreted; Signal; Zinc.
+FT   SIGNAL        1     24       {ECO:0000255}.
+FT   CHAIN        25    437       Sonic hedgehog protein.
+FT                                /FTId=PRO_0000013211.
+FT   CHAIN        25    198       Sonic hedgehog protein N-product.
+FT                                /FTId=PRO_0000013212.
+FT   CHAIN       199    437       Sonic hedgehog protein C-product.
+FT                                /FTId=PRO_0000013213.
+FT   COMPBIAS    383    387       Poly-Gly.
+FT   METAL        90     90       Calcium 1. {ECO:0000269|PubMed:18794898,
+FT                                ECO:0000269|PubMed:19561611,
+FT                                ECO:0000269|PubMed:20519495}.
+FT   METAL        91     91       Calcium 1. {ECO:0000269|PubMed:18794898,
+FT                                ECO:0000269|PubMed:19561611,
+FT                                ECO:0000269|PubMed:20519495}.
+FT   METAL        91     91       Calcium 2. {ECO:0000269|PubMed:18794898,
+FT                                ECO:0000269|PubMed:19561611,
+FT                                ECO:0000269|PubMed:20519495}.
+FT   METAL        96     96       Calcium 1. {ECO:0000269|PubMed:18794898,
+FT                                ECO:0000269|PubMed:19561611,
+FT                                ECO:0000269|PubMed:20519495}.
+FT   METAL       126    126       Calcium 1; via carbonyl oxygen.
+FT                                {ECO:0000269|PubMed:18794898,
+FT                                ECO:0000269|PubMed:19561611,
+FT                                ECO:0000269|PubMed:20519495}.
+FT   METAL       127    127       Calcium 1. {ECO:0000269|PubMed:18794898,
+FT                                ECO:0000269|PubMed:19561611,
+FT                                ECO:0000269|PubMed:20519495}.
+FT   METAL       127    127       Calcium 2. {ECO:0000269|PubMed:18794898,
+FT                                ECO:0000269|PubMed:19561611,
+FT                                ECO:0000269|PubMed:20519495}.
+FT   METAL       130    130       Calcium 2. {ECO:0000269|PubMed:18794898,
+FT                                ECO:0000269|PubMed:19561611,
+FT                                ECO:0000269|PubMed:20519495}.
+FT   METAL       132    132       Calcium 2. {ECO:0000269|PubMed:18794898,
+FT                                ECO:0000269|PubMed:19561611,
+FT                                ECO:0000269|PubMed:20519495}.
+FT   METAL       141    141       Zinc.
+FT   METAL       148    148       Zinc.
+FT   METAL       183    183       Zinc.
+FT   SITE        198    199       Cleavage; by autolysis. {ECO:0000250}.
+FT   SITE        244    244       Involved in cholesterol transfer.
+FT                                {ECO:0000250}.
+FT   SITE        268    268       Involved in auto-cleavage. {ECO:0000250}.
+FT   SITE        271    271       Essential for auto-cleavage.
+FT                                {ECO:0000250}.
+FT   LIPID        25     25       N-palmitoyl cysteine.
+FT                                {ECO:0000269|PubMed:11486055,
+FT                                ECO:0000269|PubMed:15075292}.
+FT   LIPID       198    198       Cholesterol glycine ester.
+FT                                {ECO:0000269|PubMed:8824192}.
+FT   CARBOHYD    279    279       N-linked (GlcNAc...). {ECO:0000255}.
+FT   MUTAGEN      25     25       C->S: Strongly reduces effects of in vivo
+FT                                overexpression; impairs multimer
+FT                                formation; does not affect subcellular
+FT                                location to lipid rafts. Homozygous mice
+FT                                are characterized by a smaller size and
+FT                                holoprosencephaly at E10.5, and
+FT                                shortening of limbs at E13.5. They die
+FT                                soon after birth.
+FT                                {ECO:0000269|PubMed:11486055,
+FT                                ECO:0000269|PubMed:15075292}.
+FT   MUTAGEN      32     32       G->R: Introduces a cleavage site for a
+FT                                furin-like protease resulting in abnormal
+FT                                protein processing; cleavage at this site
+FT                                removes 11 amino acids from the N-
+FT                                terminal domain and reduces affinity of
+FT                                Shh for Ptch1 and signaling potency in
+FT                                assays using chicken embryo neural plate
+FT                                explants and mouse C3H10T1/2 stem cells.
+FT                                {ECO:0000269|PubMed:16282375}.
+FT   MUTAGEN      89     89       D->V: Moderately reduces Ptch1 binding in
+FT                                vitro and signaling potency in chicken
+FT                                embryo neural plate explant assays
+FT                                compared with wild-type sequence.
+FT                                {ECO:0000269|PubMed:16282375}.
+FT   MUTAGEN     101    101       Q->H: Does not affect signaling activity
+FT                                in any of Shh signaling assays and causes
+FT                                no apparent defects in cholesterol-
+FT                                mediated autoprocessing reactions.
+FT                                {ECO:0000269|PubMed:16282375}.
+FT   MUTAGEN     116    116       N->K: Shows no change in activities at
+FT                                different temperatures.
+FT                                {ECO:0000269|PubMed:16282375}.
+FT   MUTAGEN     118    118       W->G: Causes a failure of Shh processing
+FT                                leading to retention of the immature
+FT                                glycosylated protein within the
+FT                                endoplasmic reticulum of transfected
+FT                                cells; causes a temperature-dependent
+FT                                conformational change that allows Shh to
+FT                                bind Ptch1 at 4 or 32 degrees Celsius but
+FT                                not at 37 degrees Celsius; drastically
+FT                                reduces signaling potency in chicken
+FT                                embryo neural plate explant assays.
+FT                                {ECO:0000269|PubMed:16282375}.
+FT   MUTAGEN     118    118       W->R: Causes a failure of Shh processing
+FT                                leading to retention of the immature
+FT                                glycosylated protein within the
+FT                                endoplasmic reticulum of transfected
+FT                                cells; causes a temperature-dependent
+FT                                conformational change that allows Shh to
+FT                                bind Ptch1 at 4 or 32 degrees Celsius but
+FT                                not at 37 degrees Celsius; drastically
+FT                                reduces signaling potency in chicken
+FT                                embryo neural plate explant assays.
+FT                                {ECO:0000269|PubMed:16282375}.
+FT   MUTAGEN     189    189       E->Q: Does not affect signaling activity
+FT                                in any of Shh signaling assays and causes
+FT                                no apparent defects in cholesterol-
+FT                                mediated autoprocessing reactions.
+FT                                {ECO:0000269|PubMed:16282375}.
+FT   STRAND       48     52       {ECO:0000244|PDB:1VHH}.
+FT   TURN         57     60       {ECO:0000244|PDB:1VHH}.
+FT   STRAND       69     71       {ECO:0000244|PDB:3N1R}.
+FT   HELIX        72     76       {ECO:0000244|PDB:1VHH}.
+FT   STRAND       85     87       {ECO:0000244|PDB:1VHH}.
+FT   STRAND       92     94       {ECO:0000244|PDB:1VHH}.
+FT   HELIX        95     97       {ECO:0000244|PDB:1VHH}.
+FT   HELIX       101    117       {ECO:0000244|PDB:1VHH}.
+FT   STRAND      123    127       {ECO:0000244|PDB:1VHH}.
+FT   STRAND      131    135       {ECO:0000244|PDB:2WG4}.
+FT   HELIX       140    143       {ECO:0000244|PDB:1VHH}.
+FT   STRAND      146    151       {ECO:0000244|PDB:1VHH}.
+FT   HELIX       156    158       {ECO:0000244|PDB:1VHH}.
+FT   HELIX       159    168       {ECO:0000244|PDB:1VHH}.
+FT   STRAND      172    178       {ECO:0000244|PDB:1VHH}.
+FT   STRAND      181    185       {ECO:0000244|PDB:1VHH}.
+FT   HELIX       189    192       {ECO:0000244|PDB:1VHH}.
+SQ   SEQUENCE   437 AA;  47773 MW;  D0EB72F08E7860EF CRC64;
+     MLLLLARCFL VILASSLLVC PGLACGPGRG FGKRRHPKKL TPLAYKQFIP NVAEKTLGAS
+     GRYEGKITRN SERFKELTPN YNPDIIFKDE ENTGADRLMT QRCKDKLNAL AISVMNQWPG
+     VKLRVTEGWD EDGHHSEESL HYEGRAVDIT TSDRDRSKYG MLARLAVEAG FDWVYYESKA
+     HIHCSVKAEN SVAAKSGGCF PGSATVHLEQ GGTKLVKDLR PGDRVLAADD QGRLLYSDFL
+     TFLDRDEGAK KVFYVIETLE PRERLLLTAA HLLFVAPHND SGPTPGPSAL FASRVRPGQR
+     VYVVAERGGD RRLLPAAVHS VTLREEEAGA YAPLTAHGTI LINRVLASCY AVIEEHSWAH
+     RAFAPFRLAH ALLAALAPAR TDGGGGGSIP AAQSATEARG AEPTAGIHWY SQLLYHIGTW
+     LLDSETMHPL GMAVKSS
+//

@@ -1,0 +1,106 @@
+ID   Q2UNF9_ASPOR            Unreviewed;       408 AA.
+AC   Q2UNF9;
+DT   24-JAN-2006, integrated into UniProtKB/TrEMBL.
+DT   24-JAN-2006, sequence version 1.
+DT   22-JUL-2015, entry version 58.
+DE   SubName: Full=Predicted protein {ECO:0000313|EMBL:BAE56906.1};
+GN   ORFNames=AO090001000383 {ECO:0000313|EMBL:BAE56906.1};
+OS   Aspergillus oryzae (strain ATCC 42149 / RIB 40) (Yellow koji mold).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=510516 {ECO:0000313|EMBL:BAE56906.1, ECO:0000313|Proteomes:UP000006564};
+RN   [1] {ECO:0000313|Proteomes:UP000006564}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 42149 / RIB 40 {ECO:0000313|Proteomes:UP000006564};
+RX   PubMed=16372010; DOI=10.1038/nature04300;
+RA   Machida M., Asai K., Sano M., Tanaka T., Kumagai T., Terai G.,
+RA   Kusumoto K., Arima T., Akita O., Kashiwagi Y., Abe K., Gomi K.,
+RA   Horiuchi H., Kitamoto K., Kobayashi T., Takeuchi M., Denning D.W.,
+RA   Galagan J.E., Nierman W.C., Yu J., Archer D.B., Bennett J.W.,
+RA   Bhatnagar D., Cleveland T.E., Fedorova N.D., Gotoh O., Horikawa H.,
+RA   Hosoyama A., Ichinomiya M., Igarashi R., Iwashita K., Juvvadi P.R.,
+RA   Kato M., Kato Y., Kin T., Kokubun A., Maeda H., Maeyama N.,
+RA   Maruyama J., Nagasaki H., Nakajima T., Oda K., Okada K., Paulsen I.,
+RA   Sakamoto K., Sawano T., Takahashi M., Takase K., Terabayashi Y.,
+RA   Wortman J.R., Yamada O., Yamagata Y., Anazawa H., Hata Y., Koide Y.,
+RA   Komori T., Koyama Y., Minetoki T., Suharnan S., Tanaka A., Isono K.,
+RA   Kuhara S., Ogasawara N., Kikuchi H.;
+RT   "Genome sequencing and analysis of Aspergillus oryzae.";
+RL   Nature 438:1157-1161(2005).
+RN   [2] {ECO:0000213|PDB:4J3P, ECO:0000213|PDB:4J3Q, ECO:0000213|PDB:4J3R}
+RP   X-RAY CRYSTALLOGRAPHY (2.20 ANGSTROMS) OF 26-408 IN COMPLEX WITH
+RP   COPPER, DISULFIDE BONDS, AND GLYCOSYLATION AT THR-39; ASN-55; ASN-129;
+RP   ASN-247 AND ASN-373.
+RX   PubMed=24043469;
+RA   Hakulinen N., Gasparetti C., Kaljunen H., Kruus K., Rouvinen J.;
+RT   "The crystal structure of an extracellular catechol oxidase from the
+RT   ascomycete fungus Aspergillus oryzae.";
+RL   J. Biol. Inorg. Chem. 18:917-929(2013).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AP007154; BAE56906.1; -; Genomic_DNA.
+DR   RefSeq; XP_001818908.1; XM_001818856.2.
+DR   PDB; 4J3P; X-ray; 2.50 A; A=26-408.
+DR   PDB; 4J3Q; X-ray; 2.90 A; A/B=70-408.
+DR   PDB; 4J3R; X-ray; 2.20 A; A=26-408.
+DR   PDBsum; 4J3P; -.
+DR   PDBsum; 4J3Q; -.
+DR   PDBsum; 4J3R; -.
+DR   ProteinModelPortal; Q2UNF9; -.
+DR   EnsemblFungi; CADAORAT00000343; CADAORAP00000340; CADAORAG00000343.
+DR   GeneID; 5990879; -.
+DR   KEGG; aor:AOR_1_662164; -.
+DR   HOGENOM; HOG000158828; -.
+DR   KO; K00505; -.
+DR   OMA; VRREWNT; -.
+DR   OrthoDB; EOG799314; -.
+DR   BRENDA; 1.10.3.1; 522.
+DR   Proteomes; UP000006564; Chromosome 2.
+DR   GO; GO:0004097; F:catechol oxidase activity; IDA:ASPGD.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0055114; P:oxidation-reduction process; IDA:GOC.
+DR   Gene3D; 1.10.1280.10; -; 1.
+DR   InterPro; IPR002227; Tyrosinase_Cu-bd.
+DR   InterPro; IPR008922; Unchr_di-copper_centre.
+DR   Pfam; PF00264; Tyrosinase; 1.
+DR   PRINTS; PR00092; TYROSINASE.
+DR   SUPFAM; SSF48056; SSF48056; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4J3Q};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000006564};
+KW   Copper {ECO:0000213|PDB:4J3Q};
+KW   Metal-binding {ECO:0000213|PDB:4J3Q, ECO:0000256|SAAS:SAAS00067573};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000006564}.
+FT   METAL       127    127       Copper 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4J3Q}.
+FT   METAL       135    135       Copper 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4J3Q}.
+FT   METAL       144    144       Copper 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4J3Q}.
+FT   METAL       309    309       Copper 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4J3Q}.
+FT   METAL       313    313       Copper 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4J3Q}.
+FT   METAL       337    337       Copper 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4J3Q}.
+FT   CARBOHYD     39     39       O-linked (Man...).
+FT   CARBOHYD     55     55       N-linked (GlcNAc...).
+FT   CARBOHYD    129    129       N-linked (GlcNAc...).
+FT                                {ECO:0000213|PDB:4J3Q}.
+FT   CARBOHYD    247    247       N-linked (GlcNAc...).
+FT   CARBOHYD    373    373       N-linked (GlcNAc...).
+FT                                {ECO:0000213|PDB:4J3Q}.
+FT   DISULFID     72    404       {ECO:0000213|PDB:4J3Q}.
+FT   DISULFID    100    159       {ECO:0000213|PDB:4J3Q}.
+FT   DISULFID    223    261       {ECO:0000213|PDB:4J3Q}.
+SQ   SEQUENCE   408 AA;  44469 MW;  BDF6CF383E4FE148 CRC64;
+     MVALQALSLG LLASQALAFP AASQQAATAT LPTTASSSTA VASSQLDQLA NFAYNVTTDS
+     VAGGSESKRG GCTLQNLRVR RDWRAFSKTQ KKDYINSVLC LQKLPSRTPA HLAPGARTRY
+     DDFVATHINQ TQIIHYTGTF LAWHRYFIYE FEQALRDECS YTGDYPYWNW GADADNMEKS
+     QVFDGSETSM SGNGEYIPNQ GDIKLLLGNY PAIDLPPGSG GGCVTSGPFK DYKLNLGPAA
+     LSLPGGNMTA AANPLTYNPR CMKRSLTTEI LQRYNTFPKI VELILDSDDI WDFQMTMQGV
+     PGSGSIGVHG GGHYSMGGDP GRDVYVSPGD TAFWLHHGMI DRVWWIWQNL DLRKRQNAIS
+     GTGTFMNNPA SPNTTLDTVI DLGYANGGPI AMRDLMSTTA GPFCYVYL
+//

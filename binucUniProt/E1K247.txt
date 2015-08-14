@@ -1,0 +1,125 @@
+ID   E1K247_DESFR            Unreviewed;       564 AA.
+AC   E1K247;
+DT   30-NOV-2010, integrated into UniProtKB/TrEMBL.
+DT   30-NOV-2010, sequence version 1.
+DT   22-JUL-2015, entry version 20.
+DE   SubName: Full=Nickel-dependent hydrogenase large subunit {ECO:0000313|EMBL:EFL49300.1};
+GN   ORFNames=DesfrDRAFT_3947 {ECO:0000313|EMBL:EFL49300.1};
+OS   Desulfovibrio fructosivorans JJ.
+OC   Bacteria; Proteobacteria; Deltaproteobacteria; Desulfovibrionales;
+OC   Desulfovibrionaceae; Desulfovibrio.
+OX   NCBI_TaxID=596151 {ECO:0000313|EMBL:EFL49300.1};
+RN   [1] {ECO:0000313|EMBL:EFL49300.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=JJ {ECO:0000313|EMBL:EFL49300.1};
+RG   US DOE Joint Genome Institute (JGI-PGF);
+RA   Lucas S., Copeland A., Lapidus A., Cheng J.-F., Bruce D., Goodwin L.,
+RA   Pitluck S., Land M.L., Hauser L., Chang Y.-J., Jeffries C., Wall J.D.,
+RA   Stahl D.A., Arkin A.P., Dehal P., Stolyar S.M., Hazen T.C.,
+RA   Woyke T.J.;
+RT   "The draft genome of Desulfovibrio fructosovorans JJ.";
+RL   Submitted (AUG-2010) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:4UCW}
+RP   X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) OF 2-549 IN COMPLEX WITH
+RP   MAGNESIUM, AND DISULFIDE BONDS.
+RX   PubMed=25666617; DOI=10.1074/JBC.M114.630491;
+RA   Abou-Hamdan A., Ceccaldi P., Lebrette H., Gutierrez-Sanz O.,
+RA   Richaud P., Cournac L., Guigliarelli B., De Lacey A.L., Leger C.,
+RA   Volbeda A., Burlat B., Dementin S.;
+RT   "A threonine stabilizes the NiC and NiR catalytic intermediates of
+RT   [NiFe]-hydrogenase.";
+RL   J. Biol. Chem. 290:8550-8558(2015).
+RN   [3] {ECO:0000213|PDB:4UD2, ECO:0000213|PDB:4UD6, ECO:0000213|PDB:4UE2}
+RP   X-RAY CRYSTALLOGRAPHY (1.70 ANGSTROMS) OF 2-549 IN COMPLEX WITH
+RP   CALCIUM AND MAGNESIUM, AND DISULFIDE BONDS.
+RX   PubMed=25780984; DOI=10.1039/C4MT00309H;
+RA   Volbeda A., Martin L., Liebgott P.P., De Lacey A.L.,
+RA   Fontecilla-Camps J.C.;
+RT   "[NiFe]-hydrogenases revisited: nickel-carboxamido bond formation in a
+RT   variant with accrued O2-tolerance and a tentative re-interpretation of
+RT   Ni-SI states.";
+RL   Metallomics 7:710-718(2015).
+CC   -!- SIMILARITY: Belongs to the [NiFe]/[NiFeSe] hydrogenase large
+CC       subunit family. {ECO:0000256|RuleBase:RU003896}.
+CC   -!- CAUTION: The sequence shown here is derived from an
+CC       EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is
+CC       preliminary data. {ECO:0000313|EMBL:EFL49300.1}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AECZ01000050; EFL49300.1; -; Genomic_DNA.
+DR   RefSeq; WP_005996860.1; NZ_AECZ01000050.1.
+DR   PDB; 4UCQ; X-ray; 2.60 A; Q/R/S=2-549.
+DR   PDB; 4UCW; X-ray; 2.30 A; Q/R/S=2-549.
+DR   PDB; 4UD2; X-ray; 2.30 A; Q/R/S=1-549.
+DR   PDB; 4UD6; X-ray; 2.12 A; Q/R/S=1-549.
+DR   PDB; 4UE2; X-ray; 2.02 A; Q/R/S=1-549.
+DR   PDB; 4UE6; X-ray; 2.30 A; Q/R/S=1-549.
+DR   PDB; 4UEQ; X-ray; 1.70 A; Q/R/S/T/U/V=2-549.
+DR   PDBsum; 4UCQ; -.
+DR   PDBsum; 4UCW; -.
+DR   PDBsum; 4UD2; -.
+DR   PDBsum; 4UD6; -.
+DR   PDBsum; 4UE2; -.
+DR   PDBsum; 4UE6; -.
+DR   PDBsum; 4UEQ; -.
+DR   ProteinModelPortal; E1K247; -.
+DR   SMR; E1K247; 5-549.
+DR   STRING; 596151.DesfrDRAFT_3947; -.
+DR   EnsemblBacteria; EFL49300; EFL49300; DesfrDRAFT_3947.
+DR   PATRIC; 41172703; VBIDesFru57976_4058.
+DR   GO; GO:0008901; F:ferredoxin hydrogenase activity; IEA:InterPro.
+DR   GO; GO:0016151; F:nickel cation binding; IEA:InterPro.
+DR   Gene3D; 1.10.645.10; -; 1.
+DR   InterPro; IPR001501; Ni-dep_hyd_lsu.
+DR   InterPro; IPR018194; Ni-dep_hyd_lsu_Ni_BS.
+DR   InterPro; IPR029014; NiFe_Hase-like.
+DR   Pfam; PF00374; NiFeSe_Hases; 1.
+DR   SUPFAM; SSF56762; SSF56762; 1.
+DR   PROSITE; PS00507; NI_HGENASE_L_1; 1.
+DR   PROSITE; PS00508; NI_HGENASE_L_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4UCQ, ECO:0000213|PDB:4UCW};
+KW   Calcium {ECO:0000213|PDB:4UEQ};
+KW   Magnesium {ECO:0000213|PDB:4UCQ, ECO:0000213|PDB:4UCW};
+KW   Metal-binding {ECO:0000213|PDB:4UCQ, ECO:0000213|PDB:4UCW};
+KW   Nickel {ECO:0000256|RuleBase:RU003896};
+KW   Oxidoreductase {ECO:0000256|RuleBase:RU003896}.
+FT   METAL        53     53       Calcium. {ECO:0000213|PDB:4UEQ}.
+FT   METAL        53     53       Magnesium. {ECO:0000213|PDB:4UD2,
+FT                                ECO:0000213|PDB:4UD6,
+FT                                ECO:0000213|PDB:4UE2}.
+FT   METAL       495    495       Calcium; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:4UEQ}.
+FT   METAL       495    495       Magnesium; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:4UD2,
+FT                                ECO:0000213|PDB:4UD6,
+FT                                ECO:0000213|PDB:4UE2}.
+FT   METAL       549    549       Calcium; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4UEQ}.
+FT   METAL       549    549       Magnesium; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4UD2,
+FT                                ECO:0000213|PDB:4UD6,
+FT                                ECO:0000213|PDB:4UE2}.
+FT   DISULFID     72    543       {ECO:0000213|PDB:4UCQ,
+FT                                ECO:0000213|PDB:4UCW}.
+FT   DISULFID     72     75       {ECO:0000213|PDB:4UEQ}.
+FT   DISULFID     75    546       {ECO:0000213|PDB:4UD2,
+FT                                ECO:0000213|PDB:4UD6,
+FT                                ECO:0000213|PDB:4UE2}.
+FT   DISULFID    259    436       {ECO:0000213|PDB:4UCQ,
+FT                                ECO:0000213|PDB:4UCW,
+FT                                ECO:0000213|PDB:4UD2}.
+SQ   SEQUENCE   564 AA;  61436 MW;  AB3EBF47F364D849 CRC64;
+     MAESKPTPQS TFTGPIVVDP ITRIEGHLRI MVEVENGKVK DAWSSSQLFR GLEIILKGRD
+     PRDAQHFTQR ACGVCTYVHA LASSRCVDDA VKVSIPANAR MMRNLVMASQ YLHDHLVHFY
+     HLHALDWVDV TAALKADPNK AAKLAASIAP ARPGNSAKAL KAVQDKLKAF VESGQLGIFT
+     NAYFLGGHKA YYLPPEVDLI ATAHYLEALH MQVKAASAMA ILGGKNPHTQ FTVVGGCSNY
+     QGLTKDPLAN YLALSKEVCQ FVNECYIPDL LAVAGFYKDW GGIGGTSNYL AFGEFATDDS
+     SPEKHLATSQ FPSGVITGRD LGKVDNVDLG AIYEDVKYSW YAPGGDGKHP YDGVTDPKYT
+     KLDDKDHYSW MKAPRYKGKA MEVGPLARTF IAYAKGQPDF KKVVDMVLGK LSVPATALHS
+     TLGRTAARGI ETAIVCANME KWIKEMADSG AKDNTLCAKW EMPEESKGVG LADAPRGALS
+     HWIRIKGKKI DNFQLVVPST WNLGPRGAQG DKSPVEEALI GTPIADPKRP VEILRTVHAF
+     DPCIACGVHV IEPETNEILK FKVC
+//

@@ -1,0 +1,269 @@
+ID   MYH11_CHICK             Reviewed;        1979 AA.
+AC   P10587;
+DT   01-JUL-1989, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 4.
+DT   22-JUL-2015, entry version 146.
+DE   RecName: Full=Myosin-11;
+DE   AltName: Full=Myosin heavy chain 11;
+DE   AltName: Full=Myosin heavy chain, gizzard smooth muscle;
+GN   Name=MYH11;
+OS   Gallus gallus (Chicken).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+OC   Coelurosauria; Aves; Neognathae; Galloanserae; Galliformes;
+OC   Phasianidae; Phasianinae; Gallus.
+OX   NCBI_TaxID=9031;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=2892941; DOI=10.1016/0022-2836(87)90302-0;
+RA   Yanagisawa M., Hamada Y., Katsuragawa Y., Imamura M., Mikawa T.,
+RA   Masaki T.;
+RT   "Complete primary structure of vertebrate smooth muscle myosin heavy
+RT   chain deduced from its complementary DNA sequence. Implications on
+RT   topography and function of myosin.";
+RL   J. Mol. Biol. 198:143-157(1987).
+RN   [2]
+RP   SEQUENCE REVISION.
+RA   Masaki T.;
+RL   Submitted (FEB-1989) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   PROTEIN SEQUENCE OF 2-204, AND METHYLATION AT LYS-128.
+RX   PubMed=3312184;
+RA   Maita T., Onishi H., Yajima E., Matsuda G.;
+RT   "Amino acid sequence of the amino-terminal 24 kDa fragment of the
+RT   heavy chain of chicken gizzard myosin.";
+RL   J. Biochem. 102:133-145(1987).
+RN   [4]
+RP   PROTEIN SEQUENCE OF 54-64 AND 143-183.
+RX   PubMed=1977747;
+RA   Onishi H., Maita T., Matsuda G., Fujiwara K.;
+RT   "Lys-65 and Glu-168 are the residues for carbodiimide-catalyzed cross-
+RT   linking between the two heads of rigor smooth muscle heavy
+RT   meromyosin.";
+RL   J. Biol. Chem. 265:19362-19368(1990).
+RN   [5]
+RP   PROTEIN SEQUENCE OF 169-183.
+RX   PubMed=1385724; DOI=10.1021/bi00142a003;
+RA   Cole D.G., Yount R.G.;
+RT   "Stability and photochemical properties of vanadate-trapped nucleotide
+RT   complexes of gizzard myosin in the 6S and 10S conformations:
+RT   identification of an active-site serine.";
+RL   Biochemistry 31:6186-6192(1992).
+RN   [6]
+RP   PROTEIN SEQUENCE OF 653-855.
+RX   PubMed=3571180;
+RA   Onishi H., Maita T., Miyanishi T., Watanabe S., Matsuda G.;
+RT   "Amino acid sequence of the 203-residue fragment of the heavy chain of
+RT   chicken gizzard myosin containing the SH1-type cysteine residue.";
+RL   J. Biochem. 100:1433-1447(1986).
+RN   [7]
+RP   X-RAY CRYSTALLOGRAPHY (3.5 ANGSTROMS) OF 1-819, AND SEQUENCE REVISION
+RP   TO 205-216.
+RX   PubMed=9741621; DOI=10.1016/S0092-8674(00)81598-6;
+RA   Dominguez R., Freyzon Y., Trybus K.M., Cohen C.;
+RT   "Crystal structure of a vertebrate smooth muscle myosin motor domain
+RT   and its complex with the essential light chain: visualization of the
+RT   pre-power stroke state.";
+RL   Cell 94:559-571(1998).
+CC   -!- FUNCTION: Muscle contraction.
+CC   -!- SUBUNIT: Muscle myosin is a hexameric protein that consists of 2
+CC       heavy chain subunits (MHC), 2 alkali light chain subunits (MLC)
+CC       and 2 regulatory light chain subunits (MLC-2).
+CC   -!- INTERACTION:
+CC       P02607:MYL6; NbExp=2; IntAct=EBI-1027098, EBI-1027073;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm, myofibril. Note=Thick filaments
+CC       of the myofibrils.
+CC   -!- DOMAIN: The rodlike tail sequence is highly repetitive, showing
+CC       cycles of a 28-residue repeat pattern composed of 4 heptapeptides,
+CC       characteristic for alpha-helical coiled coils.
+CC   -!- DOMAIN: Each myosin heavy chain can be split into 1 light
+CC       meromyosin (LMM) and 1 heavy meromyosin (HMM). It can later be
+CC       split further into 2 globular subfragments (S1) and 1 rod-shaped
+CC       subfragment (S2).
+CC   -!- SIMILARITY: Belongs to the TRAFAC class myosin-kinesin ATPase
+CC       superfamily. Myosin family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 IQ domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00116}.
+CC   -!- SIMILARITY: Contains 1 myosin motor domain. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X06546; CAA29793.1; -; mRNA.
+DR   PIR; S03166; S03166.
+DR   UniGene; Gga.3225; -.
+DR   PDB; 1BR1; X-ray; 3.50 A; A/C/E/G=3-819.
+DR   PDB; 1BR2; X-ray; 2.90 A; A/B/C/D/E/F=3-792.
+DR   PDB; 1BR4; X-ray; 3.62 A; A/C/E/G=3-819.
+DR   PDB; 1I84; EM; 20.00 A; S/V=2-1175.
+DR   PDB; 3DTP; EM; 20.00 A; A/B=3-852.
+DR   PDB; 3J04; EM; -; A/D=2-910.
+DR   PDBsum; 1BR1; -.
+DR   PDBsum; 1BR2; -.
+DR   PDBsum; 1BR4; -.
+DR   PDBsum; 1I84; -.
+DR   PDBsum; 3DTP; -.
+DR   PDBsum; 3J04; -.
+DR   DisProt; DP00102; -.
+DR   ProteinModelPortal; P10587; -.
+DR   SMR; P10587; 2-819.
+DR   IntAct; P10587; 1.
+DR   STRING; 9031.ENSGALP00000032964; -.
+DR   PaxDb; P10587; -.
+DR   PRIDE; P10587; -.
+DR   CTD; 4629; -.
+DR   eggNOG; COG5022; -.
+DR   HOGENOM; HOG000173958; -.
+DR   HOVERGEN; HBG004704; -.
+DR   InParanoid; P10587; -.
+DR   PhylomeDB; P10587; -.
+DR   TreeFam; TF333601; -.
+DR   EvolutionaryTrace; P10587; -.
+DR   NextBio; 20816263; -.
+DR   PRO; PR:P10587; -.
+DR   Proteomes; UP000000539; Unplaced.
+DR   GO; GO:0030016; C:myofibril; IEA:UniProtKB-SubCell.
+DR   GO; GO:0032982; C:myosin filament; IEA:UniProtKB-KW.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003774; F:motor activity; IEA:InterPro.
+DR   GO; GO:0008307; F:structural constituent of muscle; ISS:UniProtKB.
+DR   GO; GO:0048739; P:cardiac muscle fiber development; ISS:UniProtKB.
+DR   GO; GO:0048251; P:elastic fiber assembly; ISS:UniProtKB.
+DR   GO; GO:0030241; P:skeletal muscle myosin thick filament assembly; ISS:UniProtKB.
+DR   GO; GO:0006939; P:smooth muscle contraction; ISS:UniProtKB.
+DR   Gene3D; 4.10.270.10; -; 1.
+DR   InterPro; IPR000048; IQ_motif_EF-hand-BS.
+DR   InterPro; IPR027401; Myosin-like_IQ_dom.
+DR   InterPro; IPR001609; Myosin_head_motor_dom.
+DR   InterPro; IPR004009; Myosin_N.
+DR   InterPro; IPR002928; Myosin_tail.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   Pfam; PF00063; Myosin_head; 1.
+DR   Pfam; PF02736; Myosin_N; 1.
+DR   Pfam; PF01576; Myosin_tail_1; 1.
+DR   PRINTS; PR00193; MYOSINHEAVY.
+DR   SMART; SM00015; IQ; 1.
+DR   SMART; SM00242; MYSc; 1.
+DR   SUPFAM; SSF52540; SSF52540; 1.
+DR   PROSITE; PS50096; IQ; 1.
+DR   PROSITE; PS51456; MYOSIN_MOTOR; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Actin-binding; ATP-binding; Calmodulin-binding;
+KW   Coiled coil; Complete proteome; Cytoplasm; Direct protein sequencing;
+KW   Methylation; Motor protein; Muscle protein; Myosin;
+KW   Nucleotide-binding; Reference proteome; Thick filament.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:3312184}.
+FT   CHAIN         2   1979       Myosin-11.
+FT                                /FTId=PRO_0000123429.
+FT   DOMAIN       84    789       Myosin motor.
+FT   DOMAIN      792    821       IQ. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00116}.
+FT   NP_BIND     177    184       ATP.
+FT   REGION      667    689       Actin-binding.
+FT   REGION      768    782       Actin-binding.
+FT   REGION      850   1979       Rodlike tail (S2 and LMM domains).
+FT   COILED      850   1979       {ECO:0000255}.
+FT   MOD_RES       2      2       Blocked amino end (Ser).
+FT                                {ECO:0000269|PubMed:3312184}.
+FT   MOD_RES     128    128       N6,N6,N6-trimethyllysine.
+FT                                {ECO:0000269|PubMed:3312184}.
+FT   CONFLICT    205    216       KDTSITQGPSFS -> RTPASLKVHLFP (in Ref. 1;
+FT                                CAA29793). {ECO:0000305}.
+FT   HELIX        10     12       {ECO:0000244|PDB:1BR1}.
+FT   HELIX        23     28       {ECO:0000244|PDB:1BR1}.
+FT   STRAND       35     38       {ECO:0000244|PDB:1BR2}.
+FT   STRAND       40     48       {ECO:0000244|PDB:1BR2}.
+FT   STRAND       57     64       {ECO:0000244|PDB:1BR2}.
+FT   STRAND       67     70       {ECO:0000244|PDB:1BR2}.
+FT   HELIX        81     83       {ECO:0000244|PDB:1BR2}.
+FT   STRAND       91     93       {ECO:0000244|PDB:1BR1}.
+FT   HELIX        97    109       {ECO:0000244|PDB:1BR2}.
+FT   STRAND      114    116       {ECO:0000244|PDB:1BR2}.
+FT   STRAND      118    124       {ECO:0000244|PDB:1BR2}.
+FT   HELIX       135    140       {ECO:0000244|PDB:1BR2}.
+FT   TURN        141    143       {ECO:0000244|PDB:1BR2}.
+FT   HELIX       146    148       {ECO:0000244|PDB:1BR2}.
+FT   HELIX       153    167       {ECO:0000244|PDB:1BR2}.
+FT   STRAND      171    176       {ECO:0000244|PDB:1BR2}.
+FT   HELIX       183    198       {ECO:0000244|PDB:1BR2}.
+FT   HELIX       219    224       {ECO:0000244|PDB:1BR2}.
+FT   HELIX       227    235       {ECO:0000244|PDB:1BR2}.
+FT   STRAND      236    239       {ECO:0000244|PDB:1BR1}.
+FT   STRAND      245    256       {ECO:0000244|PDB:1BR2}.
+FT   STRAND      258    260       {ECO:0000244|PDB:1BR1}.
+FT   STRAND      262    270       {ECO:0000244|PDB:1BR2}.
+FT   HELIX       274    277       {ECO:0000244|PDB:1BR2}.
+FT   HELIX       288    296       {ECO:0000244|PDB:1BR2}.
+FT   HELIX       299    302       {ECO:0000244|PDB:1BR2}.
+FT   TURN        303    306       {ECO:0000244|PDB:1BR2}.
+FT   TURN        310    312       {ECO:0000244|PDB:1BR2}.
+FT   HELIX       328    342       {ECO:0000244|PDB:1BR2}.
+FT   HELIX       346    364       {ECO:0000244|PDB:1BR2}.
+FT   TURN        371    373       {ECO:0000244|PDB:1BR1}.
+FT   HELIX       382    391       {ECO:0000244|PDB:1BR2}.
+FT   HELIX       395    403       {ECO:0000244|PDB:1BR2}.
+FT   HELIX       420    450       {ECO:0000244|PDB:1BR2}.
+FT   STRAND      459    465       {ECO:0000244|PDB:1BR2}.
+FT   STRAND      473    475       {ECO:0000244|PDB:1BR2}.
+FT   HELIX       477    507       {ECO:0000244|PDB:1BR2}.
+FT   HELIX       522    529       {ECO:0000244|PDB:1BR2}.
+FT   STRAND      532    534       {ECO:0000244|PDB:1BR2}.
+FT   HELIX       537    544       {ECO:0000244|PDB:1BR2}.
+FT   HELIX       552    562       {ECO:0000244|PDB:1BR2}.
+FT   TURN        563    565       {ECO:0000244|PDB:1BR2}.
+FT   STRAND      569    571       {ECO:0000244|PDB:1BR2}.
+FT   TURN        576    578       {ECO:0000244|PDB:1BR1}.
+FT   STRAND      580    585       {ECO:0000244|PDB:1BR2}.
+FT   STRAND      588    593       {ECO:0000244|PDB:1BR2}.
+FT   HELIX       597    602       {ECO:0000244|PDB:1BR2}.
+FT   HELIX       607    614       {ECO:0000244|PDB:1BR2}.
+FT   HELIX       619    624       {ECO:0000244|PDB:1BR2}.
+FT   HELIX       659    675       {ECO:0000244|PDB:1BR2}.
+FT   STRAND      677    685       {ECO:0000244|PDB:1BR2}.
+FT   HELIX       698    707       {ECO:0000244|PDB:1BR2}.
+FT   HELIX       710    719       {ECO:0000244|PDB:1BR2}.
+FT   STRAND      723    726       {ECO:0000244|PDB:1BR2}.
+FT   HELIX       727    734       {ECO:0000244|PDB:1BR2}.
+FT   HELIX       735    738       {ECO:0000244|PDB:1BR2}.
+FT   TURN        739    741       {ECO:0000244|PDB:1BR1}.
+FT   HELIX       749    760       {ECO:0000244|PDB:1BR2}.
+FT   HELIX       764    766       {ECO:0000244|PDB:1BR2}.
+FT   STRAND      767    769       {ECO:0000244|PDB:1BR2}.
+FT   STRAND      771    776       {ECO:0000244|PDB:1BR2}.
+FT   HELIX       780    788       {ECO:0000244|PDB:1BR2}.
+FT   HELIX       793    819       {ECO:0000244|PDB:1BR1}.
+SQ   SEQUENCE   1979 AA;  228796 MW;  2F583CDDD4D9557D CRC64;
+     MSQKPLSDDE KFLFVDKNFV NNPLAQADWS AKKLVWVPSE KHGFEAASIK EEKGDEVTVE
+     LQENGKKVTL SKDDIQKMNP PKFSKVEDMA ELTCLNEASV LHNLRERYFS GLIYTYSGLF
+     CVVINPYKQL PIYSEKIIDM YKGKKRHEMP PHIYAIADTA YRSMLQDRED QSILCTGESG
+     AGKTENTKKV IQYLAVVASS HKGKKDTSIT QGPSFSYGEL EKQLLQANPI LEAFGNAKTV
+     KNDNSSRFGK FIRINFDVTG YIVGANIETY LLEKSRAIRQ AKDERTFHIF YYLIAGASEQ
+     MRNDLLLEGF NNYTFLSNGH VPIPAQQDDE MFQETLEAMT IMGFTEEEQT SILRVVSSVL
+     QLGNIVFKKE RNTDQASMPD NTAAQKVCHL MGINVTDFTR SILTPRIKVG RDVVQKAQTK
+     EQADFAIEAL AKAKFERLFR WILTRVNKAL DKTKRQGASF LGILDIAGFE IFEINSFEQL
+     CINYTNEKLQ QLFNHTMFIL EQEEYQREGI EWNFIDFGLD LQPCIELIER PTNPPGVLAL
+     LDEECWFPKA TDTSFVEKLI QEQGNHAKFQ KSKQLKDKTE FCILHYAGKV TYNASAWLTK
+     NMDPLNDNVT SLLNQSSDKF VADLWKDVDR IVGLDQMAKM TESSLPSASK TKKGMFRTVG
+     QLYKEQLTKL MTTLRNTNPN FVRCIIPNHE KRAGKLDAHL VLEQLRCNGV LEGIRICRQG
+     FPNRIVFQEF RQRYEILAAN AIPKGFMDGK QACILMIKAL ELDPNLYRIG QSKIFFRTGV
+     LAHLEEERDL KITDVIIAFQ AQCRGYLARK AFAKRQQQLT AMKVIQRNCA AYLKLRNWQW
+     WRLFTKVKPL LQVTRQEEEM QAKDEELQRT KERQQKAEAE LKELEQKHTQ LCEEKNLLQE
+     KLQAETELYA EAEEMRVRLA AKKQELEEIL HEMEARIEEE EERSQQLQAE KKKMQQQMLD
+     LEEQLEEEEA ARQKLQLEKV TADGKIKKME DDILIMEDQN NKLTKERKLL EERVSDLTTN
+     LAEEEEKAKN LTKLKNKHES MISELEVRLK KEEKSRQELE KIKRKLEGES SDLHEQIAEL
+     QAQIAELKAQ LAKKEEELQA ALARLEDETS QKNNALKKIR ELESHISDLQ EDLESEKAAR
+     NKAEKQKRDL SEELEALKTE LEDTLDTTAT QQELRAKREQ EVTVLKRALE EETRTHEAQV
+     QEMRQKHTQA VEELTEQLEQ FKRAKANLDK TKQTLEKDNA DLANEIRSLS QAKQDVEHKK
+     KKLEVQLQDL QSKYSDGERV RTELNEKVHK LQIEVENVTS LLNEAESKNI KLTKDVATLG
+     SQLQDTQELL QEETRQKLNV TTKLRQLEDD KNSLQEQLDE EVEAKQNLER HISTLTIQLS
+     DSKKKLQEFT ATVETMEEGK KKLQREIESL TQQFEEKAAS YDKLEKTKNR LQQELDDLVV
+     DLDNQRQLVS NLEKKQKKFD QMLAEEKNIS SKYADERDRA EAEAREKETK ALSLARALEE
+     ALEAKEELER TNKMLKAEME DLVSSKDDVG KNVHELEKSK RTLEQQVEEM KTQLEELEDE
+     LQAAEDAKLR LEVNMQAMKS QFERDLQARD EQNEEKRRQL LKQLHEHETE LEDERKQRAL
+     AAAAKKKLEV DVKDLESQVD SANKAREEAI KQLRKLQAQM KDYQRDLDDA RAAREEIFAT
+     ARENEKKAKN LEAELIQLQE DLAAAERARK QADLEKEEMA EELASANSGR TSLQDEKRRL
+     EARIAQLEEE LDEEHSNIET MSDRMRKAVQ QAEQLNNELA TERATAQKNE NARQQLERQN
+     KELRSKLQEM EGAVKSKFKS TIAALEAKIA SLEEQLEQEA REKQAAAKTL RQKDKKLKDA
+     LLQVEDERKQ AEQYKDQAEK GNLRLKQLKR QLEEAEEESQ RINANRRKLQ RELDEATESN
+     DALGREVAAL KSKLRRGNEP VSFAPPRRSG GRRVIENATD GGEEEIDGRD GDFNGKASE
+//

@@ -1,0 +1,225 @@
+ID   PCRB_BACSU              Reviewed;         228 AA.
+AC   O34790;
+DT   30-MAY-2000, integrated into UniProtKB/Swiss-Prot.
+DT   01-JAN-1998, sequence version 1.
+DT   22-JUL-2015, entry version 112.
+DE   RecName: Full=Heptaprenylglyceryl phosphate synthase;
+DE            Short=HepGP synthase;
+DE            EC=2.5.1.n9;
+DE   AltName: Full=Glycerol-1-phosphate heptaprenyltransferase;
+GN   Name=pcrB; Synonyms=yerE; OrderedLocusNames=BSU06600;
+OS   Bacillus subtilis (strain 168).
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus.
+OX   NCBI_TaxID=224308;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=168;
+RX   PubMed=9701819; DOI=10.1046/j.1365-2958.1998.00927.x;
+RA   Petit M.-A., Dervyn E., Rose M., Entian K.-D., McGovern S.,
+RA   Ehrlich S.D., Bruand C.;
+RT   "PcrA is an essential DNA helicase of Bacillus subtilis fulfilling
+RT   functions both in repair and rolling-circle replication.";
+RL   Mol. Microbiol. 29:261-273(1998).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=168;
+RX   PubMed=9384377; DOI=10.1038/36786;
+RA   Kunst F., Ogasawara N., Moszer I., Albertini A.M., Alloni G.,
+RA   Azevedo V., Bertero M.G., Bessieres P., Bolotin A., Borchert S.,
+RA   Borriss R., Boursier L., Brans A., Braun M., Brignell S.C., Bron S.,
+RA   Brouillet S., Bruschi C.V., Caldwell B., Capuano V., Carter N.M.,
+RA   Choi S.-K., Codani J.-J., Connerton I.F., Cummings N.J., Daniel R.A.,
+RA   Denizot F., Devine K.M., Duesterhoeft A., Ehrlich S.D., Emmerson P.T.,
+RA   Entian K.-D., Errington J., Fabret C., Ferrari E., Foulger D.,
+RA   Fritz C., Fujita M., Fujita Y., Fuma S., Galizzi A., Galleron N.,
+RA   Ghim S.-Y., Glaser P., Goffeau A., Golightly E.J., Grandi G.,
+RA   Guiseppi G., Guy B.J., Haga K., Haiech J., Harwood C.R., Henaut A.,
+RA   Hilbert H., Holsappel S., Hosono S., Hullo M.-F., Itaya M.,
+RA   Jones L.-M., Joris B., Karamata D., Kasahara Y., Klaerr-Blanchard M.,
+RA   Klein C., Kobayashi Y., Koetter P., Koningstein G., Krogh S.,
+RA   Kumano M., Kurita K., Lapidus A., Lardinois S., Lauber J.,
+RA   Lazarevic V., Lee S.-M., Levine A., Liu H., Masuda S., Mauel C.,
+RA   Medigue C., Medina N., Mellado R.P., Mizuno M., Moestl D., Nakai S.,
+RA   Noback M., Noone D., O'Reilly M., Ogawa K., Ogiwara A., Oudega B.,
+RA   Park S.-H., Parro V., Pohl T.M., Portetelle D., Porwollik S.,
+RA   Prescott A.M., Presecan E., Pujic P., Purnelle B., Rapoport G.,
+RA   Rey M., Reynolds S., Rieger M., Rivolta C., Rocha E., Roche B.,
+RA   Rose M., Sadaie Y., Sato T., Scanlan E., Schleich S., Schroeter R.,
+RA   Scoffone F., Sekiguchi J., Sekowska A., Seror S.J., Serror P.,
+RA   Shin B.-S., Soldo B., Sorokin A., Tacconi E., Takagi T., Takahashi H.,
+RA   Takemaru K., Takeuchi M., Tamakoshi A., Tanaka T., Terpstra P.,
+RA   Tognoni A., Tosato V., Uchiyama S., Vandenbol M., Vannier F.,
+RA   Vassarotti A., Viari A., Wambutt R., Wedler E., Wedler H.,
+RA   Weitzenegger T., Winters P., Wipat A., Yamamoto H., Yamane K.,
+RA   Yasumoto K., Yata K., Yoshida K., Yoshikawa H.-F., Zumstein E.,
+RA   Yoshikawa H., Danchin A.;
+RT   "The complete genome sequence of the Gram-positive bacterium Bacillus
+RT   subtilis.";
+RL   Nature 390:249-256(1997).
+RN   [3]
+RP   PUTATIVE FUNCTION.
+RC   STRAIN=168;
+RX   PubMed=18558723; DOI=10.1021/bi8005779;
+RA   Guldan H., Sterner R., Babinger P.;
+RT   "Identification and characterization of a bacterial glycerol-1-
+RT   phosphate dehydrogenase: Ni(2+)-dependent AraM from Bacillus
+RT   subtilis.";
+RL   Biochemistry 47:7376-7384(2008).
+RN   [4]
+RP   FUNCTION, CATALYTIC ACTIVITY, SUBSTRATE SPECIFICITY, SUBUNIT, PATHWAY,
+RP   AND DISRUPTION PHENOTYPE.
+RC   STRAIN=168;
+RX   PubMed=21761520; DOI=10.1002/anie.201101832;
+RA   Guldan H., Matysik F.M., Bocola M., Sterner R., Babinger P.;
+RT   "Functional assignment of an enzyme that catalyzes the synthesis of an
+RT   archaea-type ether lipid in bacteria.";
+RL   Angew. Chem. Int. Ed. Engl. 50:8188-8191(2011).
+RN   [5]
+RP   FUNCTION AS A PRENYLTRANSFERASE, STEREOCHEMISTRY, AND SUBSTRATE
+RP   SPECIFICITY.
+RC   STRAIN=168 / PY79;
+RX   PubMed=21214173; DOI=10.1021/ja109578b;
+RA   Doud E.H., Perlstein D.L., Wolpert M., Cane D.E., Walker S.;
+RT   "Two distinct mechanisms for TIM barrel prenyltransferases in
+RT   bacteria.";
+RL   J. Am. Chem. Soc. 133:1270-1273(2011).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (1.85 ANGSTROMS) OF 2-228.
+RX   PubMed=16021622; DOI=10.1002/prot.20541;
+RA   Badger J., Sauder J.M., Adams J.M., Antonysamy S., Bain K.,
+RA   Bergseid M.G., Buchanan S.G., Buchanan M.D., Batiyenko Y.,
+RA   Christopher J.A., Emtage S., Eroshkina A., Feil I., Furlong E.B.,
+RA   Gajiwala K.S., Gao X., He D., Hendle J., Huber A., Hoda K.,
+RA   Kearins P., Kissinger C., Laubert B., Lewis H.A., Lin J., Loomis K.,
+RA   Lorimer D., Louie G., Maletic M., Marsh C.D., Miller I., Molinari J.,
+RA   Muller-Dieckmann H.J., Newman J.M., Noland B.W., Pagarigan B.,
+RA   Park F., Peat T.S., Post K.W., Radojicic S., Ramos A., Romero R.,
+RA   Rutter M.E., Sanderson W.E., Schwinn K.D., Tresser J., Winhoven J.,
+RA   Wright T.A., Wu L., Xu J., Harris T.J.R.;
+RT   "Structural analysis of a set of proteins resulting from a bacterial
+RT   genomics project.";
+RL   Proteins 60:787-796(2005).
+CC   -!- FUNCTION: Prenyltransferase that catalyzes in vivo the transfer of
+CC       the heptaprenyl moiety of heptaprenyl pyrophosphate (HepPP; 35
+CC       carbon atoms) to the C3 hydroxyl of sn-glycerol-1-phosphate (G1P),
+CC       producing heptaprenylglyceryl phosphate (HepGP). This reaction is
+CC       an ether-bond-formation step in the biosynthesis of archaea-type
+CC       G1P-based membrane lipids found in Bacillales. To a much lesser
+CC       extent, is also able to use geranyl diphosphate (GPP; C10) and
+CC       geranylgeranyl diphosphate (GGPP; C20) as the prenyl donors, but
+CC       not farnesyl pyrophosphate (FPP; C15). Can not use glycerol-3-
+CC       phosphate (G3P) or 3-phosphoglycerate (3PG) as an acceptor.
+CC       {ECO:0000269|PubMed:21214173, ECO:0000269|PubMed:21761520}.
+CC   -!- CATALYTIC ACTIVITY: All-trans-heptaprenyl diphosphate + sn-
+CC       glycerol 1-phosphate = diphosphate + sn-3-O-(all-trans-
+CC       heptaprenyl)glycerol 1-phosphate. {ECO:0000269|PubMed:21761520}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250};
+CC   -!- PATHWAY: Membrane lipid metabolism; glycerophospholipid
+CC       metabolism. {ECO:0000269|PubMed:21761520}.
+CC   -!- SUBUNIT: Homodimer. {ECO:0000269|PubMed:21761520}.
+CC   -!- DISRUPTION PHENOTYPE: Cells lacking this gene show a cloggy growth
+CC       and do not produce the dephosphorylated and acetylated derivatives
+CC       of HepGP. {ECO:0000269|PubMed:21761520}.
+CC   -!- MISCELLANEOUS: The HepGP product, which is the first archaea-type
+CC       G1P-based ether lipid being identified within the phylogenetic
+CC       domain of the bacteria, was found to be subsequently
+CC       dephosphorylated and acetylated in vivo. However, HepG and its
+CC       acetylated derivatives represent only a minor fraction of the
+CC       total lipid in B.subtilis.
+CC   -!- SIMILARITY: Belongs to the GGGP/HepGP synthase family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; Y15254; CAA75551.1; -; Genomic_DNA.
+DR   EMBL; AL009126; CAB12480.1; -; Genomic_DNA.
+DR   PIR; D69794; D69794.
+DR   RefSeq; NP_388542.1; NC_000964.3.
+DR   RefSeq; WP_003233922.1; NZ_JNCM01000032.1.
+DR   PDB; 1VIZ; X-ray; 1.85 A; A/B=2-228.
+DR   PDB; 3VZX; X-ray; 1.54 A; A/B=1-228.
+DR   PDB; 3VZY; X-ray; 1.63 A; A/B=1-228.
+DR   PDB; 3VZZ; X-ray; 2.04 A; A/B=1-228.
+DR   PDB; 3W00; X-ray; 2.50 A; A/B=1-228.
+DR   PDBsum; 1VIZ; -.
+DR   PDBsum; 3VZX; -.
+DR   PDBsum; 3VZY; -.
+DR   PDBsum; 3VZZ; -.
+DR   PDBsum; 3W00; -.
+DR   ProteinModelPortal; O34790; -.
+DR   SMR; O34790; 1-228.
+DR   STRING; 224308.Bsubs1_010100003733; -.
+DR   PaxDb; O34790; -.
+DR   EnsemblBacteria; CAB12480; CAB12480; BSU06600.
+DR   GeneID; 936052; -.
+DR   KEGG; bsu:BSU06600; -.
+DR   PATRIC; 18972966; VBIBacSub10457_0697.
+DR   GenoList; BSU06600; -.
+DR   eggNOG; COG1646; -.
+DR   HOGENOM; HOG000015607; -.
+DR   InParanoid; O34790; -.
+DR   KO; K07094; -.
+DR   OMA; DPAKEIS; -.
+DR   OrthoDB; EOG6XM79M; -.
+DR   PhylomeDB; O34790; -.
+DR   BioCyc; BSUB:BSU06600-MONOMER; -.
+DR   UniPathway; UPA00940; -.
+DR   EvolutionaryTrace; O34790; -.
+DR   Proteomes; UP000001570; Chromosome.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0002094; F:polyprenyltransferase activity; IDA:UniProtKB.
+DR   GO; GO:0046474; P:glycerophospholipid biosynthetic process; IDA:UniProtKB.
+DR   Gene3D; 3.20.20.390; -; 1.
+DR   HAMAP; MF_00112; GGGP_HepGP_synthase; 1.
+DR   InterPro; IPR008205; GGGP_HepGP_synthase.
+DR   Pfam; PF01884; PcrB; 1.
+DR   TIGRFAMs; TIGR01768; GGGP-family; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Lipid biosynthesis; Lipid metabolism;
+KW   Magnesium; Metal-binding; Phospholipid biosynthesis;
+KW   Phospholipid metabolism; Reference proteome; Transferase.
+FT   CHAIN         1    228       Heptaprenylglyceryl phosphate synthase.
+FT                                /FTId=PRO_0000138711.
+FT   REGION      158    160       Glycerol-1-phosphate binding.
+FT                                {ECO:0000250}.
+FT   METAL        14     14       Magnesium. {ECO:0000255}.
+FT   METAL        40     40       Magnesium. {ECO:0000255}.
+FT   BINDING      12     12       Glycerol-1-phosphate. {ECO:0000250}.
+FT   BINDING     163    163       Glycerol-1-phosphate; via amide nitrogen.
+FT                                {ECO:0000250}.
+FT   BINDING     188    188       Glycerol-1-phosphate; via amide nitrogen.
+FT                                {ECO:0000250}.
+FT   BINDING     209    209       Glycerol-1-phosphate. {ECO:0000250}.
+FT   HELIX         4      6       {ECO:0000244|PDB:3VZX}.
+FT   STRAND        9     13       {ECO:0000244|PDB:3VZX}.
+FT   HELIX        23     28       {ECO:0000244|PDB:3VZX}.
+FT   STRAND       33     37       {ECO:0000244|PDB:3VZX}.
+FT   STRAND       40     42       {ECO:0000244|PDB:3VZY}.
+FT   HELIX        45     55       {ECO:0000244|PDB:3VZX}.
+FT   STRAND       58     60       {ECO:0000244|PDB:3VZX}.
+FT   STRAND       62     65       {ECO:0000244|PDB:3VZX}.
+FT   HELIX        69     71       {ECO:0000244|PDB:3VZX}.
+FT   STRAND       77     84       {ECO:0000244|PDB:3VZX}.
+FT   STRAND       87     89       {ECO:0000244|PDB:3VZX}.
+FT   TURN         90     94       {ECO:0000244|PDB:3VZX}.
+FT   HELIX        95    110       {ECO:0000244|PDB:3VZX}.
+FT   STRAND      113    120       {ECO:0000244|PDB:3VZX}.
+FT   STRAND      123    125       {ECO:0000244|PDB:3VZX}.
+FT   HELIX       126    130       {ECO:0000244|PDB:3VZX}.
+FT   HELIX       139    151       {ECO:0000244|PDB:3VZX}.
+FT   STRAND      155    160       {ECO:0000244|PDB:3VZX}.
+FT   HELIX       168    177       {ECO:0000244|PDB:3VZX}.
+FT   STRAND      179    188       {ECO:0000244|PDB:3VZX}.
+FT   HELIX       192    199       {ECO:0000244|PDB:3VZX}.
+FT   STRAND      203    207       {ECO:0000244|PDB:3VZX}.
+FT   HELIX       210    213       {ECO:0000244|PDB:3VZX}.
+FT   HELIX       215    219       {ECO:0000244|PDB:3VZX}.
+FT   HELIX       221    226       {ECO:0000244|PDB:3VZX}.
+SQ   SEQUENCE   228 AA;  25088 MW;  05360F1F863A5ABA CRC64;
+     MYDVTEWKHV FKLDPNKDLP DEQLEILCES GTDAVIIGGS DGVTEDNVLR MMSKVRRFLV
+     PCVLEVSAIE AIVPGFDLYF IPSVLNSKNA DWIVGMHQKA MKEYGELMSM EEIVAEGYCI
+     ANPDCKAAAL TEADADLNMD DIVAYARVSE LLQLPIFYLE YSGVLGDIEA VKKTKAVLET
+     STLFYGGGIK DAETAKQYAE HADVIVVGNA VYEDFDRALK TVAAVKGE
+//

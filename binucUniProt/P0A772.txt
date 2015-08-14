@@ -1,0 +1,141 @@
+ID   NRDI_ECOLI              Reviewed;         136 AA.
+AC   P0A772; P77025; Q47415;
+DT   07-JUN-2005, integrated into UniProtKB/Swiss-Prot.
+DT   07-JUN-2005, sequence version 1.
+DT   22-JUL-2015, entry version 81.
+DE   RecName: Full=Protein NrdI;
+GN   Name=nrdI; Synonyms=ygaO; OrderedLocusNames=b2674, JW2649;
+OS   Escherichia coli (strain K12).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=83333;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=K12;
+RX   PubMed=8820648; DOI=10.1046/j.1365-2958.1996.424950.x;
+RA   Jordan A., Aragall E., Gibert I., Barbe J.;
+RT   "Promoter identification and expression analysis of Salmonella
+RT   typhimurium and Escherichia coli nrdEF operons encoding one of two
+RT   class I ribonucleotide reductases present in both bacteria.";
+RL   Mol. Microbiol. 19:777-790(1996).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / W3110 / ATCC 27325 / DSM 5911;
+RX   PubMed=9205837; DOI=10.1093/dnares/4.2.91;
+RA   Yamamoto Y., Aiba H., Baba T., Hayashi K., Inada T., Isono K.,
+RA   Itoh T., Kimura S., Kitagawa M., Makino K., Miki T., Mitsuhashi N.,
+RA   Mizobuchi K., Mori H., Nakade S., Nakamura Y., Nashimoto H.,
+RA   Oshima T., Oyama S., Saito N., Sampei G., Satoh Y., Sivasundaram S.,
+RA   Tagami H., Takahashi H., Takeda J., Takemoto K., Uehara K., Wada C.,
+RA   Yamagata S., Horiuchi T.;
+RT   "Construction of a contiguous 874-kb sequence of the Escherichia coli-
+RT   K12 genome corresponding to 50.0-68.8 min on the linkage map and
+RT   analysis of its sequence features.";
+RL   DNA Res. 4:91-113(1997).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / MG1655 / ATCC 47076;
+RX   PubMed=9278503; DOI=10.1126/science.277.5331.1453;
+RA   Blattner F.R., Plunkett G. III, Bloch C.A., Perna N.T., Burland V.,
+RA   Riley M., Collado-Vides J., Glasner J.D., Rode C.K., Mayhew G.F.,
+RA   Gregor J., Davis N.W., Kirkpatrick H.A., Goeden M.A., Rose D.J.,
+RA   Mau B., Shao Y.;
+RT   "The complete genome sequence of Escherichia coli K-12.";
+RL   Science 277:1453-1462(1997).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / W3110 / ATCC 27325 / DSM 5911;
+RX   PubMed=16738553; DOI=10.1038/msb4100049;
+RA   Hayashi K., Morooka N., Yamamoto Y., Fujita K., Isono K., Choi S.,
+RA   Ohtsubo E., Baba T., Wanner B.L., Mori H., Horiuchi T.;
+RT   "Highly accurate genome sequences of Escherichia coli K-12 strains
+RT   MG1655 and W3110.";
+RL   Mol. Syst. Biol. 2:E1-E5(2006).
+RN   [5]
+RP   INDUCTION BY HYDROXYUREA.
+RC   STRAIN=K12 / MC4100 / ATCC 35695 / DSM 6574;
+RX   PubMed=20005847; DOI=10.1016/j.molcel.2009.11.024;
+RA   Davies B.W., Kohanski M.A., Simmons L.A., Winkler J.A., Collins J.J.,
+RA   Walker G.C.;
+RT   "Hydroxyurea induces hydroxyl radical-mediated cell death in
+RT   Escherichia coli.";
+RL   Mol. Cell 36:845-860(2009).
+CC   -!- FUNCTION: Probably involved in ribonucleotide reductase function.
+CC       {ECO:0000250}.
+CC   -!- INDUCTION: Induced 2-fold by hydroxyurea.
+CC       {ECO:0000269|PubMed:20005847}.
+CC   -!- SIMILARITY: Belongs to the NrdI family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X79787; CAA56185.1; -; Genomic_DNA.
+DR   EMBL; U00096; AAC75721.1; -; Genomic_DNA.
+DR   EMBL; AP009048; BAA16538.2; -; Genomic_DNA.
+DR   PIR; S70890; S70890.
+DR   RefSeq; NP_417160.1; NC_000913.3.
+DR   RefSeq; WP_000080947.1; NZ_CP010445.1.
+DR   PDB; 3N39; X-ray; 2.50 A; C/D=1-133.
+DR   PDB; 3N3A; X-ray; 1.99 A; C/D=1-133.
+DR   PDB; 3N3B; X-ray; 2.36 A; C/D=1-133.
+DR   PDBsum; 3N39; -.
+DR   PDBsum; 3N3A; -.
+DR   PDBsum; 3N3B; -.
+DR   ProteinModelPortal; P0A772; -.
+DR   SMR; P0A772; 3-133.
+DR   IntAct; P0A772; 26.
+DR   STRING; 511145.b2674; -.
+DR   PRIDE; P0A772; -.
+DR   EnsemblBacteria; AAC75721; AAC75721; b2674.
+DR   EnsemblBacteria; BAA16538; BAA16538; BAA16538.
+DR   GeneID; 947158; -.
+DR   KEGG; eco:b2674; -.
+DR   PATRIC; 32120738; VBIEscCol129921_2766.
+DR   EchoBASE; EB3072; -.
+DR   EcoGene; EG13287; nrdI.
+DR   eggNOG; COG1780; -.
+DR   HOGENOM; HOG000246177; -.
+DR   InParanoid; P0A772; -.
+DR   KO; K03647; -.
+DR   OMA; FLNDPHN; -.
+DR   OrthoDB; EOG6W19RD; -.
+DR   PhylomeDB; P0A772; -.
+DR   BioCyc; EcoCyc:G7402-MONOMER; -.
+DR   BioCyc; ECOL316407:JW2649-MONOMER; -.
+DR   EvolutionaryTrace; P0A772; -.
+DR   PRO; PR:P0A772; -.
+DR   Proteomes; UP000000318; Chromosome.
+DR   Proteomes; UP000000625; Chromosome.
+DR   GO; GO:0010181; F:FMN binding; IDA:EcoCyc.
+DR   GO; GO:0006464; P:cellular protein modification process; IDA:EcoCyc.
+DR   Gene3D; 3.40.50.360; -; 1.
+DR   HAMAP; MF_00128; NrdI; 1.
+DR   InterPro; IPR029039; Flavoprotein-like.
+DR   InterPro; IPR020852; RNR_Ib_NrdI_bac.
+DR   InterPro; IPR004465; RNR_NrdI.
+DR   Pfam; PF07972; Flavodoxin_NdrI; 1.
+DR   PIRSF; PIRSF005087; NrdI; 1.
+DR   SUPFAM; SSF52218; SSF52218; 1.
+DR   TIGRFAMs; TIGR00333; nrdI; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Reference proteome.
+FT   CHAIN         1    136       Protein NrdI.
+FT                                /FTId=PRO_0000164314.
+FT   STRAND        4      6       {ECO:0000244|PDB:3N3A}.
+FT   HELIX        13     21       {ECO:0000244|PDB:3N3A}.
+FT   STRAND       25     27       {ECO:0000244|PDB:3N3B}.
+FT   STRAND       30     33       {ECO:0000244|PDB:3N39}.
+FT   STRAND       42     47       {ECO:0000244|PDB:3N3A}.
+FT   STRAND       52     58       {ECO:0000244|PDB:3N3A}.
+FT   HELIX        60     66       {ECO:0000244|PDB:3N3A}.
+FT   HELIX        69     74       {ECO:0000244|PDB:3N3A}.
+FT   STRAND       75     82       {ECO:0000244|PDB:3N3A}.
+FT   HELIX        84     89       {ECO:0000244|PDB:3N3A}.
+FT   HELIX        92    101       {ECO:0000244|PDB:3N3A}.
+FT   STRAND      105    110       {ECO:0000244|PDB:3N3A}.
+FT   HELIX       115    130       {ECO:0000244|PDB:3N3A}.
+SQ   SEQUENCE   136 AA;  15340 MW;  2834D808D18EBCBB CRC64;
+     MSQLVYFSSS SENTQRFIER LGLPAVRIPL NERERIQVDE PYILIVPSYG GGGTAGAVPR
+     QVIRFLNDEH NRALLRGVIA SGNRNFGEAY GRAGDVIARK CGVPWLYRFE LMGTQSDIEN
+     VRKGVTEFWQ RQPQNA
+//

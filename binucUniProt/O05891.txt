@@ -1,0 +1,377 @@
+ID   KTHY_MYCTU              Reviewed;         214 AA.
+AC   P9WKE1; L0TDK8; O05891; Q7D5U8;
+DT   16-APR-2014, integrated into UniProtKB/Swiss-Prot.
+DT   16-APR-2014, sequence version 1.
+DT   22-JUL-2015, entry version 16.
+DE   RecName: Full=Thymidylate kinase;
+DE            EC=2.7.4.9;
+DE   AltName: Full=Thymidine monophosphate kinase;
+DE   AltName: Full=dTMP kinase;
+DE            Short=TMPK;
+GN   Name=tmk; OrderedLocusNames=Rv3247c;
+OS   Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv).
+OC   Bacteria; Actinobacteria; Corynebacteriales; Mycobacteriaceae;
+OC   Mycobacterium; Mycobacterium tuberculosis complex.
+OX   NCBI_TaxID=83332;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 25618 / H37Rv;
+RX   PubMed=9634230; DOI=10.1038/31159;
+RA   Cole S.T., Brosch R., Parkhill J., Garnier T., Churcher C.M.,
+RA   Harris D.E., Gordon S.V., Eiglmeier K., Gas S., Barry C.E. III,
+RA   Tekaia F., Badcock K., Basham D., Brown D., Chillingworth T.,
+RA   Connor R., Davies R.M., Devlin K., Feltwell T., Gentles S., Hamlin N.,
+RA   Holroyd S., Hornsby T., Jagels K., Krogh A., McLean J., Moule S.,
+RA   Murphy L.D., Oliver S., Osborne J., Quail M.A., Rajandream M.A.,
+RA   Rogers J., Rutter S., Seeger K., Skelton S., Squares S., Squares R.,
+RA   Sulston J.E., Taylor K., Whitehead S., Barrell B.G.;
+RT   "Deciphering the biology of Mycobacterium tuberculosis from the
+RT   complete genome sequence.";
+RL   Nature 393:537-544(1998).
+RN   [2]
+RP   PROTEIN SEQUENCE OF N-TERMINUS, PARTIAL PROTEIN SEQUENCE,
+RP   CHARACTERIZATION, SUBUNIT, BIOPHYSICOCHEMICAL PROPERTIES, AND MASS
+RP   SPECTROMETRY.
+RC   STRAIN=ATCC 25618 / H37Rv;
+RX   PubMed=11369858; DOI=10.1110/ps.45701;
+RA   Munier-Lehmann H., Chaffotte A., Pochet S., Labesse G.;
+RT   "Thymidylate kinase of Mycobacterium tuberculosis: a chimera sharing
+RT   properties common to eukaryotic and bacterial enzymes.";
+RL   Protein Sci. 10:1195-1205(2001).
+RN   [3]
+RP   CRYSTALLIZATION.
+RX   PubMed=10666613; DOI=10.1107/S0907444999016212;
+RA   Li de la Sierra I., Munier-Lehmann H., Gilles A.-M., Barzu O.,
+RA   Delarue M.;
+RT   "Crystallization and preliminary X-ray analysis of the thymidylate
+RT   kinase from Mycobacterium tuberculosis.";
+RL   Acta Crystallogr. D 56:226-228(2000).
+RN   [4]
+RP   IDENTIFICATION AS A DRUG TARGET [LARGE SCALE ANALYSIS].
+RX   PubMed=19099550; DOI=10.1186/1752-0509-2-109;
+RA   Raman K., Yeturu K., Chandra N.;
+RT   "targetTB: a target identification pipeline for Mycobacterium
+RT   tuberculosis through an interactome, reactome and genome-scale
+RT   structural analysis.";
+RL   BMC Syst. Biol. 2:109-109(2008).
+RN   [5]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   STRAIN=ATCC 25618 / H37Rv;
+RX   PubMed=21969609; DOI=10.1074/mcp.M111.011627;
+RA   Kelkar D.S., Kumar D., Kumar P., Balakrishnan L., Muthusamy B.,
+RA   Yadav A.K., Shrivastava P., Marimuthu A., Anand S., Sundaram H.,
+RA   Kingsbury R., Harsha H.C., Nair B., Prasad T.S., Chauhan D.S.,
+RA   Katoch K., Katoch V.M., Kumar P., Chaerkady R., Ramachandran S.,
+RA   Dash D., Pandey A.;
+RT   "Proteogenomic analysis of Mycobacterium tuberculosis by high
+RT   resolution mass spectrometry.";
+RL   Mol. Cell. Proteomics 10:M111.011627-M111.011627(2011).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (1.95 ANGSTROMS) OF COMPLEX WITH THYMIDINE
+RP   MONOPHOSPHATE.
+RX   PubMed=11469859; DOI=10.1006/jmbi.2001.4843;
+RA   Li de la Sierra I., Munier-Lehmann H., Gilles A.-M., Barzu O.,
+RA   Delarue M.;
+RT   "X-ray structure of TMP kinase from Mycobacterium tuberculosis
+RT   complexed with TMP at 1.95 A resolution.";
+RL   J. Mol. Biol. 311:87-100(2001).
+RN   [7]
+RP   X-RAY CRYSTALLOGRAPHY (1.55 ANGSTROMS) OF COMPLEXES WITH THYMIDINE
+RP   MONOPHOSPHATE AND THYMIDINE-5'-DIPHOSPHATE.
+RX   PubMed=11914484; DOI=10.1107/S0907444902002135;
+RA   Ursby T., Weik M., Fioravanti E., Delarue M., Goeldner M.,
+RA   Bourgeois D.;
+RT   "Cryophotolysis of caged compounds: a technique for trapping
+RT   intermediate states in protein crystals.";
+RL   Acta Crystallogr. D 58:607-614(2002).
+RN   [8]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) OF COMPLEXES WITH THE INHIBITORS
+RP   AP5T AND 5-CH2OH DEOXYURIDINE MONOPHOSPHATE.
+RX   PubMed=12454011; DOI=10.1074/jbc.M209630200;
+RA   Haouz A., Vanheusden V., Munier-Lehmann H., Froeyen M., Herdewijn P.,
+RA   Van Calenbergh S., Delarue M.;
+RT   "Enzymatic and structural analysis of inhibitors designed against
+RT   Mycobacterium tuberculosis thymidylate kinase. New insights into the
+RT   phosphoryl transfer mechanism.";
+RL   J. Biol. Chem. 278:4963-4971(2003).
+RN   [9]
+RP   X-RAY CRYSTALLOGRAPHY (1.85 ANGSTROMS) OF NATIVE PROTEIN AND COMPLEXES
+RP   WITH THYMIDINE MONOPHOSPHATE, THYMIDINE DIPHOSPHATE AND THYMIDINE
+RP   TRIPHOSPHATE, PH DEPENDENCE, AND ROLE OF THE MAGNESIUM ION.
+RX   PubMed=12662932; DOI=10.1016/S0022-2836(03)00202-X;
+RA   Fioravanti E., Haouz A., Ursby T., Munier-Lehmann H., Delarue M.,
+RA   Bourgeois D.;
+RT   "Mycobacterium tuberculosis thymidylate kinase: structural studies of
+RT   intermediates along the reaction pathway.";
+RL   J. Mol. Biol. 327:1077-1092(2003).
+RN   [10]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) OF COMPLEXES WITH DEOXYTHYMIDINE
+RP   AND AZIDODEOXYTHYMIDINE MONOPHOSPHATE.
+RX   PubMed=15628853; DOI=10.1021/bi0484163;
+RA   Fioravanti E., Adam V., Munier-Lehmann H., Bourgeois D.;
+RT   "The crystal structure of Mycobacterium tuberculosis thymidylate
+RT   kinase in complex with 3'-azidodeoxythymidine monophosphate suggests a
+RT   mechanism for competitive inhibition.";
+RL   Biochemistry 44:130-137(2005).
+CC   -!- FUNCTION: Catalyzes the reversible phosphorylation of
+CC       deoxythymidine monophosphate (dTMP) to deoxythymidine diphosphate
+CC       (dTDP), using ATP as its preferred phosphoryl donor. Situated at
+CC       the junction of both de novo and salvage pathways of
+CC       deoxythymidine triphosphate (dTTP) synthesis, is essential for DNA
+CC       synthesis and cellular growth. Has a broad specificity for
+CC       nucleoside triphosphates, being highly active with ATP or dATP as
+CC       phosphate donors, and less active with ITP, GTP, CTP and UTP.
+CC   -!- CATALYTIC ACTIVITY: ATP + dTMP = ADP + dTDP.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC       Note=Binds 1 Mg(2+) ion per subunit. This ion is required for
+CC       catalysis, binding to the active site transiently (at the TMP-
+CC       binding site), and probably acting as a clamp between the
+CC       phosphoryl donor and acceptor.;
+CC   -!- ENZYME REGULATION: Competitively inhibited at the phosphate
+CC       acceptor site by 3'-azido-3'-deoxythymidine monophosphate (AZT-MP)
+CC       (in contrast to other TMPKs such as E.coli, in which it is a good
+CC       substrate). Inhibition seems to result from the impossibility of
+CC       magnesium binding.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=0.1 mM for ATP (at pH 7.4 and 30 degrees Celsius)
+CC         {ECO:0000269|PubMed:11369858};
+CC         KM=4.5 uM for dTMP (at pH 7.4 and 30 degrees Celsius)
+CC         {ECO:0000269|PubMed:11369858};
+CC         KM=0.14 mM for dehydro-TMP (at pH 7.4 and 30 degrees Celsius)
+CC         {ECO:0000269|PubMed:11369858};
+CC         KM=2.10 mM for dUMP (at pH 7.4 and 30 degrees Celsius)
+CC         {ECO:0000269|PubMed:11369858};
+CC         Vmax=13 umol/min/mg enzyme with ATP and dTMP as substrates (at
+CC         pH 7.4 and 30 degrees Celsius) {ECO:0000269|PubMed:11369858};
+CC         Vmax=0.16 umol/min/mg enzyme with ATP and dehydro-TMP as
+CC         substrates (at pH 7.4 and 30 degrees Celsius)
+CC         {ECO:0000269|PubMed:11369858};
+CC         Vmax=3.50 umol/min/mg enzyme with ATP and dUMP as substrates (at
+CC         pH 7.4 and 30 degrees Celsius) {ECO:0000269|PubMed:11369858};
+CC       pH dependence:
+CC         Optimum pH is 7.5-8.5. Inactive below pH 4.6.
+CC         {ECO:0000269|PubMed:11369858, ECO:0000269|PubMed:12662932};
+CC       Temperature dependence:
+CC         Highly thermostable. Is half-inactivated at 65 degrees Celsius.
+CC         {ECO:0000269|PubMed:11369858};
+CC   -!- PATHWAY: Pyrimidine metabolism; dTTP biosynthesis.
+CC   -!- SUBUNIT: Homodimer. {ECO:0000269|PubMed:11369858}.
+CC   -!- DOMAIN: The LID domain is a solvent-exposed domain that closes
+CC       over the site of phosphoryl transfer upon ATP binding.
+CC   -!- MASS SPECTROMETRY: Mass=22635.89; Mass_error=2.23;
+CC       Method=Electrospray; Range=1-214;
+CC       Evidence={ECO:0000269|PubMed:11369858};
+CC   -!- MISCELLANEOUS: Was identified as a high-confidence drug target.
+CC   -!- SIMILARITY: Belongs to the thymidylate kinase family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AL123456; CCP46066.1; -; Genomic_DNA.
+DR   PIR; A70593; A70593.
+DR   RefSeq; NP_217764.1; NC_000962.3.
+DR   RefSeq; WP_003417036.1; NZ_KK339370.1.
+DR   PDB; 1G3U; X-ray; 1.95 A; A=1-214.
+DR   PDB; 1GSI; X-ray; 1.60 A; A=1-214.
+DR   PDB; 1GTV; X-ray; 1.55 A; A/B=1-214.
+DR   PDB; 1MRN; X-ray; 2.45 A; A=1-214.
+DR   PDB; 1MRS; X-ray; 2.00 A; A=1-214.
+DR   PDB; 1N5I; X-ray; 1.85 A; A=1-214.
+DR   PDB; 1N5J; X-ray; 1.85 A; A=1-214.
+DR   PDB; 1N5K; X-ray; 2.10 A; A/B=1-214.
+DR   PDB; 1N5L; X-ray; 2.30 A; A/B=1-214.
+DR   PDB; 1W2G; X-ray; 2.10 A; A/B=1-214.
+DR   PDB; 1W2H; X-ray; 2.00 A; A/B=1-214.
+DR   PDB; 4UNP; X-ray; 2.30 A; A=1-210.
+DR   PDBsum; 1G3U; -.
+DR   PDBsum; 1GSI; -.
+DR   PDBsum; 1GTV; -.
+DR   PDBsum; 1MRN; -.
+DR   PDBsum; 1MRS; -.
+DR   PDBsum; 1N5I; -.
+DR   PDBsum; 1N5J; -.
+DR   PDBsum; 1N5K; -.
+DR   PDBsum; 1N5L; -.
+DR   PDBsum; 1W2G; -.
+DR   PDBsum; 1W2H; -.
+DR   PDBsum; 4UNP; -.
+DR   ProteinModelPortal; P9WKE1; -.
+DR   SMR; P9WKE1; 1-208.
+DR   STRING; 83332.Rv3247c; -.
+DR   BindingDB; P9WKE1; -.
+DR   ChEMBL; CHEMBL2361; -.
+DR   EnsemblBacteria; CCP46066; CCP46066; Rv3247c.
+DR   GeneID; 888740; -.
+DR   KEGG; mtu:Rv3247c; -.
+DR   KEGG; mtv:RVBD_3247c; -.
+DR   TubercuList; Rv3247c; -.
+DR   KO; K00943; -.
+DR   OMA; FPRYGRS; -.
+DR   PhylomeDB; P9WKE1; -.
+DR   UniPathway; UPA00575; -.
+DR   PRO; PR:P9WKE1; -.
+DR   Proteomes; UP000001584; Chromosome.
+DR   GO; GO:0005524; F:ATP binding; IDA:MTBBASE.
+DR   GO; GO:0005525; F:GTP binding; IDA:MTBBASE.
+DR   GO; GO:0000287; F:magnesium ion binding; IDA:MTBBASE.
+DR   GO; GO:0042803; F:protein homodimerization activity; IPI:MTBBASE.
+DR   GO; GO:0004798; F:thymidylate kinase activity; IDA:MTBBASE.
+DR   GO; GO:0006233; P:dTDP biosynthetic process; IEA:InterPro.
+DR   GO; GO:0006235; P:dTTP biosynthetic process; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0046939; P:nucleotide phosphorylation; IDA:GOC.
+DR   GO; GO:0046044; P:TMP metabolic process; IDA:MTBBASE.
+DR   Gene3D; 3.40.50.300; -; 1.
+DR   HAMAP; MF_00165; Thymidylate_kinase; 1.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   InterPro; IPR018095; Thymidylate_kin_CS.
+DR   InterPro; IPR018094; Thymidylate_kinase.
+DR   SUPFAM; SSF52540; SSF52540; 1.
+DR   PROSITE; PS01331; THYMIDYLATE_KINASE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; ATP-binding; Complete proteome;
+KW   Direct protein sequencing; Kinase; Magnesium; Metal-binding;
+KW   Nucleotide biosynthesis; Nucleotide-binding; Reference proteome;
+KW   Transferase.
+FT   CHAIN         1    214       Thymidylate kinase.
+FT                                /FTId=PRO_0000155309.
+FT   NP_BIND       7     14       ATP.
+FT   REGION      147    159       LID.
+FT   METAL         9      9       Magnesium.
+FT   METAL       166    166       Magnesium.
+FT   BINDING       9      9       TMP.
+FT   BINDING      39     39       TMP.
+FT   BINDING      70     70       TMP.
+FT   BINDING      74     74       TMP.
+FT   BINDING      95     95       TMP.
+FT   BINDING     100    100       TMP.
+FT   BINDING     103    103       TMP.
+FT   BINDING     163    163       TMP.
+FT   BINDING     165    165       TMP.
+FT   SITE        153    153       Transition state stabilizer.
+FT                                {ECO:0000255}.
+FT   STRAND        2     12       {ECO:0000244|PDB:1GTV}.
+FT   HELIX        13     25       {ECO:0000244|PDB:1GTV}.
+FT   STRAND       26     47       {ECO:0000244|PDB:1GTV}.
+FT   HELIX        48     51       {ECO:0000244|PDB:1GTV}.
+FT   STRAND       52     62       {ECO:0000244|PDB:1GTV}.
+FT   HELIX        63     74       {ECO:0000244|PDB:1GTV}.
+FT   STRAND       75     79       {ECO:0000244|PDB:1GTV}.
+FT   HELIX        80     83       {ECO:0000244|PDB:1GTV}.
+FT   STRAND       84     97       {ECO:0000244|PDB:1GTV}.
+FT   HELIX        98    107       {ECO:0000244|PDB:1GTV}.
+FT   STRAND      108    114       {ECO:0000244|PDB:1GTV}.
+FT   HELIX       115    123       {ECO:0000244|PDB:1GTV}.
+FT   STRAND      124    129       {ECO:0000244|PDB:1GTV}.
+FT   STRAND      134    142       {ECO:0000244|PDB:1GTV}.
+FT   HELIX       143    155       {ECO:0000244|PDB:1GTV}.
+FT   STRAND      158    168       {ECO:0000244|PDB:1GTV}.
+FT   HELIX       169    183       {ECO:0000244|PDB:1GTV}.
+FT   STRAND      184    198       {ECO:0000244|PDB:1GTV}.
+FT   HELIX       200    207       {ECO:0000244|PDB:1GTV}.
+SQ   SEQUENCE   214 AA;  22635 MW;  E435123C250F46E7 CRC64;
+     MLIAIEGVDG AGKRTLVEKL SGAFRAAGRS VATLAFPRYG QSVAADIAAE ALHGEHGDLA
+     SSVYAMATLF ALDRAGAVHT IQGLCRGYDV VILDRYVASN AAYSAARLHE NAAGKAAAWV
+     QRIEFARLGL PKPDWQVLLA VSAELAGERS RGRAQRDPGR ARDNYERDAE LQQRTGAVYA
+     ELAAQGWGGR WLVVGADVDP GRLAATLAPP DVPS
+//
+ID   KTHY_MYCTO              Reviewed;         214 AA.
+AC   P9WKE0; L0TDK8; O05891; Q7D5U8;
+DT   16-APR-2014, integrated into UniProtKB/Swiss-Prot.
+DT   16-APR-2014, sequence version 1.
+DT   22-JUL-2015, entry version 14.
+DE   RecName: Full=Thymidylate kinase;
+DE            EC=2.7.4.9;
+DE   AltName: Full=Thymidine monophosphate kinase;
+DE   AltName: Full=dTMP kinase;
+DE            Short=TMPK;
+GN   Name=tmk; OrderedLocusNames=MT3345;
+OS   Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh).
+OC   Bacteria; Actinobacteria; Corynebacteriales; Mycobacteriaceae;
+OC   Mycobacterium; Mycobacterium tuberculosis complex.
+OX   NCBI_TaxID=83331;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=CDC 1551 / Oshkosh;
+RX   PubMed=12218036; DOI=10.1128/JB.184.19.5479-5490.2002;
+RA   Fleischmann R.D., Alland D., Eisen J.A., Carpenter L., White O.,
+RA   Peterson J.D., DeBoy R.T., Dodson R.J., Gwinn M.L., Haft D.H.,
+RA   Hickey E.K., Kolonay J.F., Nelson W.C., Umayam L.A., Ermolaeva M.D.,
+RA   Salzberg S.L., Delcher A., Utterback T.R., Weidman J.F., Khouri H.M.,
+RA   Gill J., Mikula A., Bishai W., Jacobs W.R. Jr., Venter J.C.,
+RA   Fraser C.M.;
+RT   "Whole-genome comparison of Mycobacterium tuberculosis clinical and
+RT   laboratory strains.";
+RL   J. Bacteriol. 184:5479-5490(2002).
+CC   -!- FUNCTION: Catalyzes the reversible phosphorylation of
+CC       deoxythymidine monophosphate (dTMP) to deoxythymidine diphosphate
+CC       (dTDP), using ATP as its preferred phosphoryl donor. Situated at
+CC       the junction of both de novo and salvage pathways of
+CC       deoxythymidine triphosphate (dTTP) synthesis, is essential for DNA
+CC       synthesis and cellular growth (By similarity). {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: ATP + dTMP = ADP + dTDP.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250};
+CC       Note=Binds 1 Mg(2+) ion per subunit. This ion is required for
+CC       catalysis, binding to the active site transiently (at the TMP-
+CC       binding site), and probably acting as a clamp between the
+CC       phosphoryl donor and acceptor. {ECO:0000250};
+CC   -!- PATHWAY: Pyrimidine metabolism; dTTP biosynthesis.
+CC   -!- SUBUNIT: Homodimer. {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the thymidylate kinase family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE000516; AAK47687.1; -; Genomic_DNA.
+DR   PIR; A70593; A70593.
+DR   RefSeq; WP_003417036.1; NZ_KK341227.1.
+DR   ProteinModelPortal; P9WKE0; -.
+DR   SMR; P9WKE0; 1-208.
+DR   BindingDB; P9WKE0; -.
+DR   EnsemblBacteria; AAK47687; AAK47687; MT3345.
+DR   KEGG; mtc:MT3345; -.
+DR   KO; K00943; -.
+DR   UniPathway; UPA00575; -.
+DR   Proteomes; UP000001020; Chromosome.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004798; F:thymidylate kinase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0006233; P:dTDP biosynthetic process; IEA:InterPro.
+DR   GO; GO:0006235; P:dTTP biosynthetic process; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 3.40.50.300; -; 1.
+DR   HAMAP; MF_00165; Thymidylate_kinase; 1.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   InterPro; IPR018095; Thymidylate_kin_CS.
+DR   InterPro; IPR018094; Thymidylate_kinase.
+DR   SUPFAM; SSF52540; SSF52540; 1.
+DR   PROSITE; PS01331; THYMIDYLATE_KINASE; 1.
+PE   3: Inferred from homology;
+KW   ATP-binding; Complete proteome; Kinase; Magnesium; Metal-binding;
+KW   Nucleotide biosynthesis; Nucleotide-binding; Transferase.
+FT   CHAIN         1    214       Thymidylate kinase.
+FT                                /FTId=PRO_0000427670.
+FT   NP_BIND       7     14       ATP. {ECO:0000250}.
+FT   REGION      147    159       LID. {ECO:0000250}.
+FT   METAL         9      9       Magnesium. {ECO:0000250}.
+FT   METAL       166    166       Magnesium. {ECO:0000250}.
+FT   BINDING       9      9       TMP. {ECO:0000250}.
+FT   BINDING      39     39       TMP. {ECO:0000250}.
+FT   BINDING      70     70       TMP. {ECO:0000250}.
+FT   BINDING      74     74       TMP. {ECO:0000250}.
+FT   BINDING      95     95       TMP. {ECO:0000250}.
+FT   BINDING     100    100       TMP. {ECO:0000250}.
+FT   BINDING     103    103       TMP. {ECO:0000250}.
+FT   BINDING     163    163       TMP. {ECO:0000250}.
+FT   BINDING     165    165       TMP. {ECO:0000250}.
+FT   SITE        153    153       Transition state stabilizer.
+FT                                {ECO:0000255}.
+SQ   SEQUENCE   214 AA;  22635 MW;  E435123C250F46E7 CRC64;
+     MLIAIEGVDG AGKRTLVEKL SGAFRAAGRS VATLAFPRYG QSVAADIAAE ALHGEHGDLA
+     SSVYAMATLF ALDRAGAVHT IQGLCRGYDV VILDRYVASN AAYSAARLHE NAAGKAAAWV
+     QRIEFARLGL PKPDWQVLLA VSAELAGERS RGRAQRDPGR ARDNYERDAE LQQRTGAVYA
+     ELAAQGWGGR WLVVGADVDP GRLAATLAPP DVPS
+//

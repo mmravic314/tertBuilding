@@ -1,0 +1,80 @@
+ID   RS17_THETH              Reviewed;         105 AA.
+AC   P24321;
+DT   01-MAR-1992, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 4.
+DT   29-APR-2015, entry version 84.
+DE   RecName: Full=30S ribosomal protein S17 {ECO:0000255|HAMAP-Rule:MF_01345};
+GN   Name=rpsQ {ECO:0000255|HAMAP-Rule:MF_01345};
+GN   Synonyms=rps17 {ECO:0000255|HAMAP-Rule:MF_01345};
+OS   Thermus thermophilus.
+OC   Bacteria; Deinococcus-Thermus; Deinococci; Thermales; Thermaceae;
+OC   Thermus.
+OX   NCBI_TaxID=274;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=VK1;
+RX   PubMed=9249063; DOI=10.1016/S0378-1119(97)00072-3;
+RA   Vysotskaya V.S., Shcherbakov D.V., Garber M.B.;
+RT   "Sequencing and analysis of the Thermus thermophilus ribosomal protein
+RT   gene cluster equivalent to the spectinomycin operon.";
+RL   Gene 193:23-30(1997).
+CC   -!- FUNCTION: One of the primary rRNA binding proteins, it binds
+CC       specifically to the 5'-end of 16S ribosomal RNA.
+CC       {ECO:0000255|HAMAP-Rule:MF_01345}.
+CC   -!- SUBUNIT: Part of the 30S ribosomal subunit. {ECO:0000255|HAMAP-
+CC       Rule:MF_01345}.
+CC   -!- SIMILARITY: Belongs to the ribosomal protein S17P family.
+CC       {ECO:0000255|HAMAP-Rule:MF_01345}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; Z36971; CAA85419.1; -; Genomic_DNA.
+DR   PDB; 1QD7; X-ray; 5.50 A; I=6-85.
+DR   PDB; 1TWT; Model; -; T=2-105.
+DR   PDB; 2VQE; X-ray; 2.50 A; Q=1-105.
+DR   PDB; 2VQF; X-ray; 2.90 A; Q=1-105.
+DR   PDBsum; 1QD7; -.
+DR   PDBsum; 1TWT; -.
+DR   PDBsum; 2VQE; -.
+DR   PDBsum; 2VQF; -.
+DR   ProteinModelPortal; P24321; -.
+DR   SMR; P24321; 2-105.
+DR   STRING; 262724.TTC1319; -.
+DR   EvolutionaryTrace; P24321; -.
+DR   GO; GO:0005840; C:ribosome; IEA:UniProtKB-KW.
+DR   GO; GO:0019843; F:rRNA binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0003735; F:structural constituent of ribosome; IEA:InterPro.
+DR   GO; GO:0006412; P:translation; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 2.40.50.140; -; 1.
+DR   HAMAP; MF_01345_B; Ribosomal_S17_B; 1.
+DR   InterPro; IPR012340; NA-bd_OB-fold.
+DR   InterPro; IPR000266; Ribosomal_S17.
+DR   InterPro; IPR019984; Ribosomal_S17_bac-type.
+DR   InterPro; IPR019979; Ribosomal_S17_CS.
+DR   PANTHER; PTHR10744; PTHR10744; 1.
+DR   Pfam; PF00366; Ribosomal_S17; 1.
+DR   PRINTS; PR00973; RIBOSOMALS17.
+DR   ProDom; PD001295; Ribosomal_S17; 1.
+DR   SUPFAM; SSF50249; SSF50249; 1.
+DR   TIGRFAMs; TIGR03635; uS17_bact; 1.
+DR   PROSITE; PS00056; RIBOSOMAL_S17; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+KW   rRNA-binding.
+FT   INIT_MET      1      1       Removed. {ECO:0000250}.
+FT   CHAIN         2    105       30S ribosomal protein S17.
+FT                                /FTId=PRO_0000128493.
+FT   STRAND        5     15       {ECO:0000244|PDB:2VQE}.
+FT   STRAND       18     28       {ECO:0000244|PDB:2VQE}.
+FT   TURN         30     32       {ECO:0000244|PDB:2VQE}.
+FT   STRAND       35     45       {ECO:0000244|PDB:2VQE}.
+FT   STRAND       56     66       {ECO:0000244|PDB:2VQE}.
+FT   STRAND       69     78       {ECO:0000244|PDB:2VQE}.
+FT   HELIX        82     93       {ECO:0000244|PDB:2VQE}.
+FT   HELIX        94     97       {ECO:0000244|PDB:2VQE}.
+FT   STRAND       98    101       {ECO:0000244|PDB:2VQE}.
+SQ   SEQUENCE   105 AA;  12297 MW;  6089596D57478FBD CRC64;
+     MPKKVLTGVV VSDKMQKTVT VLVERQFPHP LYGKVIKRSK KYLAHDPEEK YKLGDVVEII
+     ESRPISKRKR FRVLRLVESG RMDLVEKYLI RRQNYQSLSK RGGKA
+//

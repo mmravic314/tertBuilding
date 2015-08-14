@@ -1,0 +1,123 @@
+ID   PHYC_BACIU              Reviewed;         383 AA.
+AC   O31097;
+DT   30-MAY-2000, integrated into UniProtKB/Swiss-Prot.
+DT   01-JAN-1998, sequence version 1.
+DT   01-APR-2015, entry version 74.
+DE   RecName: Full=3-phytase;
+DE            EC=3.1.3.8;
+DE   AltName: Full=MYO-inositol-hexaphosphate 3-phosphohydrolase;
+DE   AltName: Full=Phytate 3-phosphatase;
+DE   Flags: Precursor;
+GN   Name=phyC; Synonyms=phyB13;
+OS   Bacillus subtilis.
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus.
+OX   NCBI_TaxID=1423;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND PARTIAL PROTEIN SEQUENCE.
+RC   STRAIN=VTT-E-68013;
+RX   PubMed=9603817;
+RA   Kerovuo J., Lauraeus M., Nurminen P., Kalkkinen N., Apajalahti J.;
+RT   "Isolation, characterization, molecular gene cloning, and sequencing
+RT   of a novel phytase from Bacillus subtilis.";
+RL   Appl. Environ. Microbiol. 64:2079-2085(1998).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=981;
+RA   Yao B., Yuan T., Wang Y., Fan Y.;
+RT   "Cloning of neutral phytase gene nphy from Bacillus subtilis and its
+RT   expression in Escherichia coli.";
+RL   Chin. J. Biotechnol. 17:11-15(2001).
+CC   -!- FUNCTION: Catalyzes the hydrolysis of inorganic orthophosphate
+CC       from phytate. Only phytate, ADP, and ATP were hydrolyzed (100, 75,
+CC       and 50% of the relative activity, respectively).
+CC   -!- CATALYTIC ACTIVITY: Myo-inositol hexakisphosphate + H(2)O = 1D-
+CC       myo-inositol 1,2,4,5,6-pentakisphosphate + phosphate.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00997}.
+CC   -!- COFACTOR:
+CC       Name=Ca(2+); Xref=ChEBI:CHEBI:29108;
+CC       Note=Ca(2+) is required for its activity and/or stability.;
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       pH dependence:
+CC         Optimum pH is 7.;
+CC       Temperature dependence:
+CC         Optimum temperature is 55 degrees Celsius.;
+CC   -!- SUBCELLULAR LOCATION: Secreted.
+CC   -!- INDUCTION: By phytate.
+CC   -!- SIMILARITY: Contains 1 BPP (beta-propeller phytase) domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00997}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF029053; AAC31775.1; -; Genomic_DNA.
+DR   EMBL; AJ277890; CAB91845.1; -; Genomic_DNA.
+DR   PDB; 3AMR; X-ray; 1.25 A; A=29-383.
+DR   PDB; 3AMS; X-ray; 2.08 A; A=29-383.
+DR   PDBsum; 3AMR; -.
+DR   PDBsum; 3AMS; -.
+DR   ProteinModelPortal; O31097; -.
+DR   SMR; O31097; 29-381.
+DR   BRENDA; 3.1.3.8; 658.
+DR   EvolutionaryTrace; O31097; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0016158; F:3-phytase activity; IEA:UniProtKB-EC.
+DR   Gene3D; 2.120.10.20; -; 1.
+DR   InterPro; IPR003431; b_Phytase.
+DR   Pfam; PF02333; Phytase; 1.
+DR   PROSITE; PS51662; BP_PHYTASE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Direct protein sequencing; Hydrolase; Secreted; Signal.
+FT   SIGNAL        1     26       {ECO:0000255}.
+FT   PROPEP       27     29
+FT                                /FTId=PRO_0000022055.
+FT   CHAIN        30    383       3-phytase.
+FT                                /FTId=PRO_0000022056.
+FT   DOMAIN       30    362       BPP. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00997}.
+FT   STRAND       35     38       {ECO:0000244|PDB:3AMR}.
+FT   STRAND       41     43       {ECO:0000244|PDB:3AMR}.
+FT   STRAND       54     60       {ECO:0000244|PDB:3AMR}.
+FT   HELIX        66     68       {ECO:0000244|PDB:3AMR}.
+FT   STRAND       70     75       {ECO:0000244|PDB:3AMR}.
+FT   TURN         76     78       {ECO:0000244|PDB:3AMR}.
+FT   STRAND       79     84       {ECO:0000244|PDB:3AMR}.
+FT   STRAND       89     93       {ECO:0000244|PDB:3AMR}.
+FT   STRAND       98    109       {ECO:0000244|PDB:3AMR}.
+FT   STRAND      112    121       {ECO:0000244|PDB:3AMR}.
+FT   TURN        124    126       {ECO:0000244|PDB:3AMS}.
+FT   STRAND      128    134       {ECO:0000244|PDB:3AMR}.
+FT   TURN        136    138       {ECO:0000244|PDB:3AMR}.
+FT   STRAND      141    143       {ECO:0000244|PDB:3AMR}.
+FT   STRAND      161    165       {ECO:0000244|PDB:3AMR}.
+FT   TURN        167    169       {ECO:0000244|PDB:3AMR}.
+FT   STRAND      172    177       {ECO:0000244|PDB:3AMR}.
+FT   STRAND      179    190       {ECO:0000244|PDB:3AMR}.
+FT   STRAND      196    205       {ECO:0000244|PDB:3AMR}.
+FT   STRAND      210    216       {ECO:0000244|PDB:3AMR}.
+FT   TURN        217    220       {ECO:0000244|PDB:3AMR}.
+FT   STRAND      221    226       {ECO:0000244|PDB:3AMR}.
+FT   TURN        227    229       {ECO:0000244|PDB:3AMR}.
+FT   STRAND      230    235       {ECO:0000244|PDB:3AMR}.
+FT   STRAND      245    255       {ECO:0000244|PDB:3AMR}.
+FT   STRAND      259    266       {ECO:0000244|PDB:3AMR}.
+FT   HELIX       268    270       {ECO:0000244|PDB:3AMR}.
+FT   STRAND      272    278       {ECO:0000244|PDB:3AMR}.
+FT   HELIX       279    281       {ECO:0000244|PDB:3AMR}.
+FT   STRAND      283    290       {ECO:0000244|PDB:3AMR}.
+FT   STRAND      295    301       {ECO:0000244|PDB:3AMR}.
+FT   STRAND      305    307       {ECO:0000244|PDB:3AMR}.
+FT   STRAND      316    319       {ECO:0000244|PDB:3AMR}.
+FT   STRAND      331    338       {ECO:0000244|PDB:3AMR}.
+FT   STRAND      349    354       {ECO:0000244|PDB:3AMR}.
+FT   HELIX       355    361       {ECO:0000244|PDB:3AMR}.
+FT   HELIX       368    370       {ECO:0000244|PDB:3AMR}.
+FT   HELIX       374    376       {ECO:0000244|PDB:3AMR}.
+SQ   SEQUENCE   383 AA;  41923 MW;  E9BEC2E4A48EB9CA CRC64;
+     MNHSKTLLLT AAAGLMLTCG AVSSQAKHKL SDPYHFTVNA AAETEPVDTA GDAADDPAIW
+     LDPKTPQNSK LITTNKKSGL VVYSLDGKML HSYNTGKLNN VDIRYDFPLN GKKVDIAAAS
+     NRSEGKNTIE IYAIDGKNGT LQSMTDPDHP IATAINEVYG FTLYHSQKTG KYYAMVTGKE
+     GEFEQYELKA DKNGYISGKK VRAFKMNSQT EGMAADDEYG RLYIAEEDEA IWKFSAEPDG
+     GSNGTVIDRA DGRHLTRDIE GLTIYYAADG KGYLMASSQG NSSYAIYDRQ GKNKYVADFR
+     ITDGPETDGT SDTDGIDVLG FGLGPEYPFG IFVAQDGENI DHGQKANQNF KIVPWERIAD
+     QIGFRPLANE QVDPRKLTDR SGK
+//

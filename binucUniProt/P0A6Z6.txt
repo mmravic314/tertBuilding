@@ -1,0 +1,204 @@
+ID   NIKR_ECOLI              Reviewed;         133 AA.
+AC   P0A6Z6; P28910; Q2M7E4; Q47559;
+DT   07-JUN-2005, integrated into UniProtKB/Swiss-Prot.
+DT   07-JUN-2005, sequence version 1.
+DT   22-JUL-2015, entry version 95.
+DE   RecName: Full=Nickel-responsive regulator;
+GN   Name=nikR; Synonyms=yhhG; OrderedLocusNames=b3481, JW3446;
+OS   Escherichia coli (strain K12).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=83333;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], PROTEIN SEQUENCE OF 1-7, AND
+RP   CHARACTERIZATION.
+RX   PubMed=9882686;
+RA   De Pina K., Desjardin V., Mandrand-Berthelot M.-A., Giordano G.,
+RA   Wu L.-F.;
+RT   "Isolation and characterization of the nikR gene encoding a nickel-
+RT   responsive regulator in Escherichia coli.";
+RL   J. Bacteriol. 181:670-674(1999).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=K12;
+RX   PubMed=8387990;
+RA   Zhao S., Sandt C.H., Feulner G., Vlazny D.A., Gray J.A., Hill C.W.;
+RT   "Rhs elements of Escherichia coli K-12: complex composites of shared
+RT   and unique components that have different evolutionary histories.";
+RL   J. Bacteriol. 175:2799-2808(1993).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / MG1655 / ATCC 47076;
+RX   PubMed=8041620; DOI=10.1093/nar/22.13.2576;
+RA   Sofia H.J., Burland V., Daniels D.L., Plunkett G. III, Blattner F.R.;
+RT   "Analysis of the Escherichia coli genome. V. DNA sequence of the
+RT   region from 76.0 to 81.5 minutes.";
+RL   Nucleic Acids Res. 22:2576-2586(1994).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / MG1655 / ATCC 47076;
+RX   PubMed=9278503; DOI=10.1126/science.277.5331.1453;
+RA   Blattner F.R., Plunkett G. III, Bloch C.A., Perna N.T., Burland V.,
+RA   Riley M., Collado-Vides J., Glasner J.D., Rode C.K., Mayhew G.F.,
+RA   Gregor J., Davis N.W., Kirkpatrick H.A., Goeden M.A., Rose D.J.,
+RA   Mau B., Shao Y.;
+RT   "The complete genome sequence of Escherichia coli K-12.";
+RL   Science 277:1453-1462(1997).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / W3110 / ATCC 27325 / DSM 5911;
+RX   PubMed=16738553; DOI=10.1038/msb4100049;
+RA   Hayashi K., Morooka N., Yamamoto Y., Fujita K., Isono K., Choi S.,
+RA   Ohtsubo E., Baba T., Wanner B.L., Mori H., Horiuchi T.;
+RT   "Highly accurate genome sequences of Escherichia coli K-12 strains
+RT   MG1655 and W3110.";
+RL   Mol. Syst. Biol. 2:E1-E5(2006).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 101-133.
+RC   STRAIN=K12 / W3110 / ATCC 27325 / DSM 5911;
+RX   PubMed=7764507; DOI=10.1271/bbb.58.117;
+RA   Talukder A.A., Yanai S., Yamada M.;
+RT   "Analysis of products of the Escherichia coli genomic genes and
+RT   regulation of their expressions: an applicable procedure for genomic
+RT   analysis of other microorganisms.";
+RL   Biosci. Biotechnol. Biochem. 58:117-120(1994).
+RN   [7]
+RP   CHARACTERIZATION, AND MUTAGENESIS OF ARG-3.
+RC   STRAIN=K12 / MC1061 / ATCC 53338 / DSM 7140;
+RX   PubMed=10595554; DOI=10.1110/ps.8.11.2494;
+RA   Chivers P.T., Sauer R.T.;
+RT   "NikR is a ribbon-helix-helix DNA-binding protein.";
+RL   Protein Sci. 8:2494-2500(1999).
+RN   [8]
+RP   CHARACTERIZATION.
+RC   STRAIN=K12 / MC1061 / ATCC 53338 / DSM 7140;
+RX   PubMed=10787413; DOI=10.1074/jbc.M002232200;
+RA   Chivers P.T., Sauer R.T.;
+RT   "Regulation of high affinity nickel uptake in bacteria. Ni2+-dependent
+RT   interaction of NikR with wild-type and mutant operator sites.";
+RL   J. Biol. Chem. 275:19735-19741(2000).
+RN   [9]
+RP   X-RAY CRYSTALLOGRAPHY (1.4 ANGSTROMS).
+RX   PubMed=12970756; DOI=10.1038/nsb985;
+RA   Schreiter E.R., Sintchak M.D., Guo Y., Chivers P.T., Sauer R.T.,
+RA   Drennan C.L.;
+RT   "Crystal structure of the nickel-responsive transcription factor
+RT   NikR.";
+RL   Nat. Struct. Biol. 10:794-799(2003).
+CC   -!- FUNCTION: Transcriptional repressor of the nikABCDE operon. Is
+CC       active in the presence of excessive concentrations of
+CC       intracellular nickel.
+CC   -!- COFACTOR:
+CC       Name=Ni(2+); Xref=ChEBI:CHEBI:49786;
+CC       Note=Binds 1 nickel ion per subunit.;
+CC   -!- SUBUNIT: Homotetramer.
+CC   -!- INTERACTION:
+CC       P77650:hcaD; NbExp=2; IntAct=EBI-562488, EBI-1129389;
+CC   -!- SIMILARITY: Belongs to the transcriptional regulatory CopG/NikR
+CC       family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAA04676.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; Y08952; CAA70150.1; -; Genomic_DNA.
+DR   EMBL; L02370; AAC61882.1; -; Genomic_DNA.
+DR   EMBL; U00039; AAB18456.1; -; Genomic_DNA.
+DR   EMBL; U00096; AAC76506.1; -; Genomic_DNA.
+DR   EMBL; AP009048; BAE77812.1; -; Genomic_DNA.
+DR   EMBL; D21140; BAA04676.1; ALT_INIT; Genomic_DNA.
+DR   PIR; S47700; S47700.
+DR   RefSeq; NP_417938.1; NC_000913.3.
+DR   RefSeq; WP_001190062.1; NZ_CP010445.1.
+DR   PDB; 1Q5V; X-ray; 2.30 A; A/B/C/D=1-133.
+DR   PDB; 1Q5Y; X-ray; 1.40 A; A/B/C/D=49-133.
+DR   PDB; 2HZA; X-ray; 2.10 A; A/B=1-133.
+DR   PDB; 2HZV; X-ray; 3.10 A; A/B/C/D/E/F/G/H=1-133.
+DR   PDB; 3BKF; X-ray; 1.90 A; A=48-133.
+DR   PDB; 3BKT; X-ray; 1.50 A; A/B/C/D=48-133.
+DR   PDB; 3BKU; X-ray; 2.10 A; A/B/C/D=48-133.
+DR   PDB; 3OD2; X-ray; 2.60 A; A/B=1-133.
+DR   PDBsum; 1Q5V; -.
+DR   PDBsum; 1Q5Y; -.
+DR   PDBsum; 2HZA; -.
+DR   PDBsum; 2HZV; -.
+DR   PDBsum; 3BKF; -.
+DR   PDBsum; 3BKT; -.
+DR   PDBsum; 3BKU; -.
+DR   PDBsum; 3OD2; -.
+DR   ProteinModelPortal; P0A6Z6; -.
+DR   SMR; P0A6Z6; 1-131.
+DR   DIP; DIP-48066N; -.
+DR   IntAct; P0A6Z6; 15.
+DR   STRING; 511145.b3481; -.
+DR   EnsemblBacteria; AAC76506; AAC76506; b3481.
+DR   EnsemblBacteria; BAE77812; BAE77812; BAE77812.
+DR   GeneID; 947995; -.
+DR   KEGG; eco:b3481; -.
+DR   PATRIC; 32122406; VBIEscCol129921_3580.
+DR   EchoBASE; EB1481; -.
+DR   EcoGene; EG11519; nikR.
+DR   eggNOG; COG0864; -.
+DR   HOGENOM; HOG000102781; -.
+DR   InParanoid; P0A6Z6; -.
+DR   KO; K07722; -.
+DR   OMA; AHNCLET; -.
+DR   OrthoDB; EOG65QWK8; -.
+DR   PhylomeDB; P0A6Z6; -.
+DR   BioCyc; EcoCyc:EG11519-MONOMER; -.
+DR   BioCyc; ECOL316407:JW3446-MONOMER; -.
+DR   EvolutionaryTrace; P0A6Z6; -.
+DR   PRO; PR:P0A6Z6; -.
+DR   Proteomes; UP000000318; Chromosome.
+DR   Proteomes; UP000000625; Chromosome.
+DR   GO; GO:0032993; C:protein-DNA complex; IDA:EcoCyc.
+DR   GO; GO:0003677; F:DNA binding; IDA:EcoCyc.
+DR   GO; GO:0016151; F:nickel cation binding; TAS:EcoCyc.
+DR   GO; GO:0003700; F:sequence-specific DNA binding transcription factor activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0006355; P:regulation of transcription, DNA-templated; IMP:EcoCyc.
+DR   GO; GO:0010045; P:response to nickel cation; IEA:InterPro.
+DR   GO; GO:0006351; P:transcription, DNA-templated; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.1220.10; -; 1.
+DR   HAMAP; MF_00476; NikR; 1.
+DR   InterPro; IPR013321; Arc_rbn_hlx_hlx.
+DR   InterPro; IPR002145; CopG.
+DR   InterPro; IPR022988; Ni_resp_reg_NikR.
+DR   InterPro; IPR014160; Nickel_NikR_proteobac.
+DR   InterPro; IPR010985; Ribbon_hlx_hlx.
+DR   InterPro; IPR014864; TF_NikR_Ni-bd_C.
+DR   Pfam; PF08753; NikR_C; 1.
+DR   Pfam; PF01402; RHH_1; 1.
+DR   SUPFAM; SSF47598; SSF47598; 1.
+DR   TIGRFAMs; TIGR02793; nikR; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Direct protein sequencing;
+KW   DNA-binding; Metal-binding; Nickel; Reference proteome; Repressor;
+KW   Transcription; Transcription regulation.
+FT   CHAIN         1    133       Nickel-responsive regulator.
+FT                                /FTId=PRO_0000139274.
+FT   METAL        76     76       Nickel.
+FT   METAL        87     87       Nickel.
+FT   METAL        89     89       Nickel.
+FT   METAL        95     95       Nickel.
+FT   MUTAGEN       3      3       R->A: Loss of DNA-binding.
+FT                                {ECO:0000269|PubMed:10595554}.
+FT   CONFLICT    131    132       KE -> EGRLSLLLGPLVN (in Ref. 6;
+FT                                BAA04676). {ECO:0000305}.
+FT   STRAND        2      8       {ECO:0000244|PDB:2HZA}.
+FT   HELIX        10     22       {ECO:0000244|PDB:2HZA}.
+FT   HELIX        28     45       {ECO:0000244|PDB:2HZA}.
+FT   STRAND       46     49       {ECO:0000244|PDB:2HZV}.
+FT   STRAND       51     61       {ECO:0000244|PDB:1Q5Y}.
+FT   HELIX        65     77       {ECO:0000244|PDB:1Q5Y}.
+FT   HELIX        79     81       {ECO:0000244|PDB:1Q5Y}.
+FT   STRAND       82     89       {ECO:0000244|PDB:1Q5Y}.
+FT   STRAND       91    104       {ECO:0000244|PDB:1Q5Y}.
+FT   HELIX       105    116       {ECO:0000244|PDB:1Q5Y}.
+FT   STRAND      118    120       {ECO:0000244|PDB:1Q5V}.
+FT   STRAND      122    130       {ECO:0000244|PDB:1Q5Y}.
+SQ   SEQUENCE   133 AA;  15094 MW;  9A9E9F838D3FFEF1 CRC64;
+     MQRVTITLDD DLLETLDSLS QRRGYNNRSE AIRDILRSAL AQEATQQHGT QGFAVLSYVY
+     EHEKRDLASR IVSTQHHHHD LSVATLHVHI NHDDCLEIAV LKGDMGDVQH FADDVIAQRG
+     VRHGHLQCLP KED
+//

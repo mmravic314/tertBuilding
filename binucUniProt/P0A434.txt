@@ -1,0 +1,304 @@
+ID   OPD_BREDI               Reviewed;         365 AA.
+AC   P0A434; P13739; P16648;
+DT   15-MAR-2005, integrated into UniProtKB/Swiss-Prot.
+DT   15-MAR-2005, sequence version 1.
+DT   22-JUL-2015, entry version 71.
+DE   RecName: Full=Parathion hydrolase;
+DE            EC=3.1.8.1;
+DE   AltName: Full=Phosphotriesterase;
+DE            Short=PTE;
+DE   Flags: Precursor;
+GN   Name=opd;
+OS   Brevundimonas diminuta (Pseudomonas diminuta).
+OG   Plasmid pCMS1.
+OC   Bacteria; Proteobacteria; Alphaproteobacteria; Caulobacterales;
+OC   Caulobacteraceae; Brevundimonas.
+OX   NCBI_TaxID=293;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND PROTEIN SEQUENCE OF 30-44.
+RC   STRAIN=MG;
+RA   Serdar C.M., Murdock D.C., Rohde M.F.;
+RT   "Parathion hydrolase gene from Pseudomonas diminuta MG: subcloning,
+RT   complete nucleotide sequence, and expression of the mature portion of
+RT   the enzyme in Escherichia coli.";
+RL   Biotechnology (N.Y.) 7:1151-1155(1989).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=MG;
+RX   PubMed=2834339;
+RA   McDaniel C.S., Harper L.L., Wild J.R.;
+RT   "Cloning and sequencing of a plasmid-borne gene (opd) encoding a
+RT   phosphotriesterase.";
+RL   J. Bacteriol. 170:2306-2311(1988).
+RN   [3]
+RP   METAL BINDING SITES.
+RX   PubMed=8155644; DOI=10.1021/bi00180a022;
+RA   Kuo J.M., Raushel F.M.;
+RT   "Identification of the histidine ligands to the binuclear metal center
+RT   of phosphotriesterase by site-directed mutagenesis.";
+RL   Biochemistry 33:4265-4272(1994).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS).
+RX   PubMed=7999757; DOI=10.1021/bi00254a008;
+RA   Benning M.M., Kuo J.M., Raushel F.M., Holden H.M.;
+RT   "Three-dimensional structure of phosphotriesterase: an enzyme capable
+RT   of detoxifying organophosphate nerve agents.";
+RL   Biochemistry 33:15001-15007(1994).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS), AND CARBAMYLATION AT LYS-169.
+RX   PubMed=7794910; DOI=10.1021/bi00025a002;
+RA   Benning M.M., Kuo J.M., Raushel F.M., Holden H.M.;
+RT   "Three-dimensional structure of the binuclear metal center of
+RT   phosphotriesterase.";
+RL   Biochemistry 34:7973-7978(1995).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS).
+RX   PubMed=8634243; DOI=10.1021/bi960325l;
+RA   Vanhooke J.L., Benning M.M., Raushel F.M., Holden H.M.;
+RT   "Three-dimensional structure of the zinc-containing phosphotriesterase
+RT   with the bound substrate analog diethyl 4-methylbenzylphosphonate.";
+RL   Biochemistry 35:6020-6025(1996).
+CC   -!- FUNCTION: Has an unusual substrate specificity for synthetic
+CC       organophosphate triesters and phosphorofluoridates. All of the
+CC       phosphate triesters found to be substrates are synthetic
+CC       compounds. The identity of any naturally occurring substrate for
+CC       the enzyme is unknown. Has no detectable activity with phosphate
+CC       monoesters or diesters and no activity as an esterase or protease.
+CC       It catalyzes the hydrolysis of the insecticide paraoxon at a rate
+CC       approaching the diffusion limit and thus appears to be optimally
+CC       evolved for utilizing this synthetic substrate.
+CC   -!- CATALYTIC ACTIVITY: An aryl dialkyl phosphate + H(2)O = dialkyl
+CC       phosphate + an aryl alcohol.
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC       Note=Binds 2 Zn(2+) ions per subunit.;
+CC   -!- SUBUNIT: Homodimer.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane; Peripheral membrane protein.
+CC   -!- PTM: Predicted to be exported by the Tat system. The position of
+CC       the signal peptide cleavage has been experimentally proven.
+CC   -!- BIOTECHNOLOGY: Has attracted interest because of its potential use
+CC       in the detoxification of chemical waste and warfare agents and its
+CC       ability to degrade agricultural pesticides such as parathion.
+CC   -!- SIMILARITY: Belongs to the phosphotriesterase family.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00679}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAA98299.1; Type=Frameshift; Positions=Several; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M20392; AAA98299.1; ALT_FRAME; Genomic_DNA.
+DR   PIR; A28214; A28214.
+DR   RefSeq; WP_015063462.1; NG_041265.1.
+DR   RefSeq; YP_009089179.1; NG_041265.1.
+DR   PDB; 1DPM; X-ray; 2.10 A; A/B=36-363.
+DR   PDB; 1EYW; X-ray; 1.90 A; A=35-365.
+DR   PDB; 1EZ2; X-ray; 1.90 A; A/B=35-365.
+DR   PDB; 1HZY; X-ray; 1.30 A; A/B=34-365.
+DR   PDB; 1I0B; X-ray; 1.30 A; A/B=34-365.
+DR   PDB; 1I0D; X-ray; 1.30 A; A/B=34-365.
+DR   PDB; 1JGM; X-ray; 1.30 A; A/B=30-365.
+DR   PDB; 1PSC; X-ray; 2.00 A; A/B=1-365.
+DR   PDB; 1PTA; X-ray; 2.10 A; A=36-362.
+DR   PDB; 1QW7; X-ray; 1.90 A; A/B=30-365.
+DR   PDB; 2O4M; X-ray; 1.64 A; A/B/C/P=34-364.
+DR   PDB; 2O4Q; X-ray; 1.95 A; A/B/K/P=34-364.
+DR   PDB; 2OB3; X-ray; 1.04 A; A/B=35-364.
+DR   PDB; 2OQL; X-ray; 1.80 A; A/B=35-365.
+DR   PDB; 3CAK; X-ray; 1.83 A; A/B=35-365.
+DR   PDB; 3CS2; X-ray; 1.95 A; A/B/K/P=34-364.
+DR   PDB; 3E3H; X-ray; 2.15 A; A/B=30-365.
+DR   PDB; 3UPM; X-ray; 1.95 A; A/B=35-361.
+DR   PDB; 3UR2; X-ray; 2.00 A; A/B=35-363.
+DR   PDB; 3UR5; X-ray; 1.60 A; A/B=35-361.
+DR   PDB; 3URA; X-ray; 1.88 A; A/B=35-361.
+DR   PDB; 3URB; X-ray; 1.77 A; A/B=35-361.
+DR   PDB; 3URN; X-ray; 1.95 A; A/B=35-361.
+DR   PDB; 3URQ; X-ray; 2.10 A; A/B=35-361.
+DR   PDB; 4E3T; X-ray; 1.65 A; A/B=34-365.
+DR   PDB; 4GY0; X-ray; 1.85 A; A/B=34-365.
+DR   PDB; 4GY1; X-ray; 1.50 A; A/B=34-365.
+DR   PDBsum; 1DPM; -.
+DR   PDBsum; 1EYW; -.
+DR   PDBsum; 1EZ2; -.
+DR   PDBsum; 1HZY; -.
+DR   PDBsum; 1I0B; -.
+DR   PDBsum; 1I0D; -.
+DR   PDBsum; 1JGM; -.
+DR   PDBsum; 1PSC; -.
+DR   PDBsum; 1PTA; -.
+DR   PDBsum; 1QW7; -.
+DR   PDBsum; 2O4M; -.
+DR   PDBsum; 2O4Q; -.
+DR   PDBsum; 2OB3; -.
+DR   PDBsum; 2OQL; -.
+DR   PDBsum; 3CAK; -.
+DR   PDBsum; 3CS2; -.
+DR   PDBsum; 3E3H; -.
+DR   PDBsum; 3UPM; -.
+DR   PDBsum; 3UR2; -.
+DR   PDBsum; 3UR5; -.
+DR   PDBsum; 3URA; -.
+DR   PDBsum; 3URB; -.
+DR   PDBsum; 3URN; -.
+DR   PDBsum; 3URQ; -.
+DR   PDBsum; 4E3T; -.
+DR   PDBsum; 4GY0; -.
+DR   PDBsum; 4GY1; -.
+DR   ProteinModelPortal; P0A434; -.
+DR   SMR; P0A434; 34-364.
+DR   BioCyc; MetaCyc:MONOMER-3322; -.
+DR   BRENDA; 3.1.1.2; 982.
+DR   BRENDA; 3.1.8.1; 982.
+DR   SABIO-RK; P0A434; -.
+DR   EvolutionaryTrace; P0A434; -.
+DR   GO; GO:0005886; C:plasma membrane; IDA:CACAO.
+DR   GO; GO:0004063; F:aryldialkylphosphatase activity; IDA:CACAO.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:InterPro.
+DR   GO; GO:0009056; P:catabolic process; IEA:InterPro.
+DR   GO; GO:0016311; P:dephosphorylation; IDA:GOC.
+DR   InterPro; IPR017947; AryldialkylPase_Zn-BS.
+DR   InterPro; IPR001559; Phosphotriesterase.
+DR   InterPro; IPR006311; TAT_signal.
+DR   PANTHER; PTHR10819; PTHR10819; 1.
+DR   Pfam; PF02126; PTE; 1.
+DR   PROSITE; PS01322; PHOSPHOTRIESTERASE_1; 1.
+DR   PROSITE; PS51347; PHOSPHOTRIESTERASE_2; 1.
+DR   PROSITE; PS51318; TAT; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cell membrane; Direct protein sequencing; Hydrolase;
+KW   Membrane; Metal-binding; Plasmid; Signal; Zinc.
+FT   SIGNAL        1     29       Tat-type signal. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00648, ECO:0000269|Ref.1}.
+FT   CHAIN        30    365       Parathion hydrolase.
+FT                                /FTId=PRO_0000029860.
+FT   METAL        55     55       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000244|PDB:1DPM,
+FT                                ECO:0000244|PDB:1EYW,
+FT                                ECO:0000244|PDB:1EZ2,
+FT                                ECO:0000244|PDB:1HZY,
+FT                                ECO:0000244|PDB:2O4M,
+FT                                ECO:0000244|PDB:2O4Q,
+FT                                ECO:0000244|PDB:2OB3,
+FT                                ECO:0000244|PDB:2OQL,
+FT                                ECO:0000269|PubMed:7794910}.
+FT   METAL        57     57       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000244|PDB:1DPM,
+FT                                ECO:0000244|PDB:1EYW,
+FT                                ECO:0000244|PDB:1EZ2,
+FT                                ECO:0000244|PDB:1HZY,
+FT                                ECO:0000244|PDB:2O4M,
+FT                                ECO:0000244|PDB:2O4Q,
+FT                                ECO:0000244|PDB:2OB3,
+FT                                ECO:0000244|PDB:2OQL,
+FT                                ECO:0000269|PubMed:7794910}.
+FT   METAL       169    169       Zinc 1; via carbamate group.
+FT                                {ECO:0000244|PDB:1DPM,
+FT                                ECO:0000244|PDB:1EYW,
+FT                                ECO:0000244|PDB:1EZ2,
+FT                                ECO:0000244|PDB:1HZY,
+FT                                ECO:0000244|PDB:2O4M,
+FT                                ECO:0000244|PDB:2O4Q,
+FT                                ECO:0000244|PDB:2OB3,
+FT                                ECO:0000244|PDB:2OQL,
+FT                                ECO:0000269|PubMed:7794910}.
+FT   METAL       169    169       Zinc 2; via carbamate group.
+FT                                {ECO:0000244|PDB:1DPM,
+FT                                ECO:0000244|PDB:1EYW,
+FT                                ECO:0000244|PDB:1EZ2,
+FT                                ECO:0000244|PDB:1HZY,
+FT                                ECO:0000244|PDB:2O4M,
+FT                                ECO:0000244|PDB:2O4Q,
+FT                                ECO:0000244|PDB:2OB3,
+FT                                ECO:0000244|PDB:2OQL,
+FT                                ECO:0000269|PubMed:7794910}.
+FT   METAL       201    201       Zinc 2; via pros nitrogen.
+FT                                {ECO:0000244|PDB:1DPM,
+FT                                ECO:0000244|PDB:1EYW,
+FT                                ECO:0000244|PDB:1EZ2,
+FT                                ECO:0000244|PDB:1HZY,
+FT                                ECO:0000244|PDB:2O4M,
+FT                                ECO:0000244|PDB:2O4Q,
+FT                                ECO:0000244|PDB:2OB3,
+FT                                ECO:0000244|PDB:2OQL,
+FT                                ECO:0000269|PubMed:7794910}.
+FT   METAL       230    230       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000244|PDB:1DPM,
+FT                                ECO:0000244|PDB:1EYW,
+FT                                ECO:0000244|PDB:1EZ2,
+FT                                ECO:0000244|PDB:1HZY,
+FT                                ECO:0000244|PDB:2O4M,
+FT                                ECO:0000244|PDB:2O4Q,
+FT                                ECO:0000244|PDB:2OB3,
+FT                                ECO:0000244|PDB:2OQL,
+FT                                ECO:0000269|PubMed:7794910}.
+FT   METAL       301    301       Zinc 1. {ECO:0000244|PDB:1DPM,
+FT                                ECO:0000244|PDB:1EYW,
+FT                                ECO:0000244|PDB:1EZ2,
+FT                                ECO:0000244|PDB:1HZY,
+FT                                ECO:0000244|PDB:2O4M,
+FT                                ECO:0000244|PDB:2O4Q,
+FT                                ECO:0000244|PDB:2OB3,
+FT                                ECO:0000244|PDB:2OQL,
+FT                                ECO:0000269|PubMed:7794910}.
+FT   MOD_RES     169    169       N6-carboxylysine. {ECO:0000244|PDB:1DPM,
+FT                                ECO:0000244|PDB:1EYW,
+FT                                ECO:0000244|PDB:1EZ2,
+FT                                ECO:0000244|PDB:1HZY,
+FT                                ECO:0000244|PDB:2O4M,
+FT                                ECO:0000244|PDB:2O4Q,
+FT                                ECO:0000244|PDB:2OB3,
+FT                                ECO:0000244|PDB:2OQL,
+FT                                ECO:0000255|PROSITE-ProRule:PRU00679,
+FT                                ECO:0000269|PubMed:7794910}.
+FT   STRAND       37     39       {ECO:0000244|PDB:2OB3}.
+FT   STRAND       42     44       {ECO:0000244|PDB:2OB3}.
+FT   HELIX        46     49       {ECO:0000244|PDB:2OB3}.
+FT   STRAND       51     56       {ECO:0000244|PDB:2OB3}.
+FT   STRAND       58     60       {ECO:0000244|PDB:2OB3}.
+FT   TURN         61     64       {ECO:0000244|PDB:1PTA}.
+FT   HELIX        65     68       {ECO:0000244|PDB:2OB3}.
+FT   HELIX        70     73       {ECO:0000244|PDB:2OB3}.
+FT   HELIX        76     92       {ECO:0000244|PDB:2OB3}.
+FT   STRAND       97    100       {ECO:0000244|PDB:2OB3}.
+FT   HELIX       104    106       {ECO:0000244|PDB:2OB3}.
+FT   HELIX       110    120       {ECO:0000244|PDB:2OB3}.
+FT   STRAND      123    125       {ECO:0000244|PDB:2OB3}.
+FT   STRAND      127    129       {ECO:0000244|PDB:2OB3}.
+FT   HELIX       136    139       {ECO:0000244|PDB:2OB3}.
+FT   HELIX       143    155       {ECO:0000244|PDB:2OB3}.
+FT   TURN        159    162       {ECO:0000244|PDB:1HZY}.
+FT   STRAND      166    171       {ECO:0000244|PDB:2OB3}.
+FT   STRAND      173    175       {ECO:0000244|PDB:2OB3}.
+FT   HELIX       178    194       {ECO:0000244|PDB:2OB3}.
+FT   STRAND      198    201       {ECO:0000244|PDB:2OB3}.
+FT   HELIX       204    206       {ECO:0000244|PDB:2OB3}.
+FT   HELIX       208    218       {ECO:0000244|PDB:2OB3}.
+FT   HELIX       223    225       {ECO:0000244|PDB:2OB3}.
+FT   STRAND      226    228       {ECO:0000244|PDB:2OB3}.
+FT   HELIX       231    233       {ECO:0000244|PDB:2OB3}.
+FT   HELIX       237    245       {ECO:0000244|PDB:2OB3}.
+FT   STRAND      249    252       {ECO:0000244|PDB:2OB3}.
+FT   HELIX       255    258       {ECO:0000244|PDB:4E3T}.
+FT   HELIX       266    272       {ECO:0000244|PDB:2OB3}.
+FT   HELIX       277    289       {ECO:0000244|PDB:2OB3}.
+FT   TURN        290    292       {ECO:0000244|PDB:1PTA}.
+FT   HELIX       293    295       {ECO:0000244|PDB:2OB3}.
+FT   STRAND      296    298       {ECO:0000244|PDB:2OB3}.
+FT   STRAND      304    306       {ECO:0000244|PDB:2OB3}.
+FT   STRAND      308    310       {ECO:0000244|PDB:2OB3}.
+FT   HELIX       313    320       {ECO:0000244|PDB:2OB3}.
+FT   HELIX       324    326       {ECO:0000244|PDB:2OB3}.
+FT   HELIX       327    330       {ECO:0000244|PDB:2OB3}.
+FT   HELIX       332    338       {ECO:0000244|PDB:2OB3}.
+FT   HELIX       343    350       {ECO:0000244|PDB:2OB3}.
+FT   HELIX       352    358       {ECO:0000244|PDB:2OB3}.
+SQ   SEQUENCE   365 AA;  39004 MW;  41FF8E4B029B46DC CRC64;
+     MQTRRVVLKS AAAAGTLLGG LAGCASVAGS IGTGDRINTV RGPITISEAG FTLTHEHICG
+     SSAGFLRAWP EFFGSRKALA EKAVRGLRRA RAAGVRTIVD VSTFDIGRDV SLLAEVSRAA
+     DVHIVAATGL WFDPPLSMRL RSVEELTQFF LREIQYGIED TGIRAGIIKV ATTGKATPFQ
+     ELVLKAAARA SLATGVPVTT HTAASQRDGE QQAAIFESEG LSPSRVCIGH SDDTDDLSYL
+     TALAARGYLI GLDHIPHSAI GLEDNASASA LLGIRSWQTR ALLIKALIDQ GYMKQILVSN
+     DWLFGFSSYV TNIMDVMDRV NPDGMAFIPL RVIPFLREKG VPQETLAGIT VTNPARFLSP
+     TLRAS
+//

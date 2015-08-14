@@ -1,0 +1,373 @@
+ID   HIPA_ECOLI              Reviewed;         440 AA.
+AC   P23874; P76139; P76880; P77507;
+DT   01-NOV-1991, integrated into UniProtKB/Swiss-Prot.
+DT   19-JUL-2003, sequence version 2.
+DT   22-JUL-2015, entry version 119.
+DE   RecName: Full=Serine/threonine-protein kinase HipA;
+DE            Short=Ser/Thr-protein kinase HipA;
+DE            EC=2.7.11.1 {ECO:0000269|PubMed:19150849};
+DE   AltName: Full=Toxin HipA;
+GN   Name=hipA; OrderedLocusNames=b1507, JW1500;
+OS   Escherichia coli (strain K12).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=83333;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=K12;
+RX   PubMed=1715862;
+RA   Black D.S., Kelly A.J., Mardis M.J., Moyed H.S.;
+RT   "Structure and organization of hip, an operon that affects lethality
+RT   due to inhibition of peptidoglycan or DNA synthesis.";
+RL   J. Bacteriol. 173:5732-5739(1991).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / MG1655 / ATCC 47076;
+RX   PubMed=9278503; DOI=10.1126/science.277.5331.1453;
+RA   Blattner F.R., Plunkett G. III, Bloch C.A., Perna N.T., Burland V.,
+RA   Riley M., Collado-Vides J., Glasner J.D., Rode C.K., Mayhew G.F.,
+RA   Gregor J., Davis N.W., Kirkpatrick H.A., Goeden M.A., Rose D.J.,
+RA   Mau B., Shao Y.;
+RT   "The complete genome sequence of Escherichia coli K-12.";
+RL   Science 277:1453-1462(1997).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / W3110 / ATCC 27325 / DSM 5911;
+RX   PubMed=16738553; DOI=10.1038/msb4100049;
+RA   Hayashi K., Morooka N., Yamamoto Y., Fujita K., Isono K., Choi S.,
+RA   Ohtsubo E., Baba T., Wanner B.L., Mori H., Horiuchi T.;
+RT   "Highly accurate genome sequences of Escherichia coli K-12 strains
+RT   MG1655 and W3110.";
+RL   Mol. Syst. Biol. 2:E1-E5(2006).
+RN   [4]
+RP   PROTEIN SEQUENCE OF 134-157, FUNCTION AS A KINASE, ACTIVE SITE,
+RP   PHOSPHORYLATION AT SER-150, ANTIBIOTIC TOLERANCE, AND MUTAGENESIS OF
+RP   SER-150; ASP-309 AND ASP-332.
+RC   STRAIN=K12;
+RX   PubMed=17041039; DOI=10.1128/JB.01237-06;
+RA   Correia F.F., D'Onofrio A., Rejtar T., Li L., Karger B.L.,
+RA   Makarova K., Koonin E.V., Lewis K.;
+RT   "Kinase activity of overexpressed HipA is required for growth arrest
+RT   and multidrug tolerance in Escherichia coli.";
+RL   J. Bacteriol. 188:8360-8367(2006).
+RN   [5]
+RP   MUTANT HIPA7 ISOLATION, ROLE IN ANTIBIOTIC TOLERANCE, AND ROLE IN
+RP   PERSISTENCE.
+RC   STRAIN=K12;
+RX   PubMed=6348026;
+RA   Moyed H.S., Bertrand K.P.;
+RT   "hipA, a newly recognized gene of Escherichia coli K-12 that affects
+RT   frequency of persistence after inhibition of murein synthesis.";
+RL   J. Bacteriol. 155:768-775(1983).
+RN   [6]
+RP   FUNCTION AS A TOXIN, AND DISRUPTION PHENOTYPE.
+RC   STRAIN=K12;
+RX   PubMed=8021189;
+RA   Black D.S., Irwin B., Moyed H.S.;
+RT   "Autoregulation of hip, an operon that affects lethality due to
+RT   inhibition of peptidoglycan or DNA synthesis.";
+RL   J. Bacteriol. 176:4081-4091(1994).
+RN   [7]
+RP   FUNCTION AS A TOXIN, FUNCTION IN PERSISTENCE, REQUIREMENT FOR
+RP   (P)PPGPP, AND MUTAGENESIS OF GLY-22; ASP-88 AND ASP-291.
+RC   STRAIN=K12 / MG1655 / ATCC 47076;
+RX   PubMed=14622409; DOI=10.1046/j.1365-2958.2003.03779.x;
+RA   Korch S.B., Henderson T.A., Hill T.M.;
+RT   "Characterization of the hipA7 allele of Escherichia coli and evidence
+RT   that high persistence is governed by (p)ppGpp synthesis.";
+RL   Mol. Microbiol. 50:1199-1213(2003).
+RN   [8]
+RP   FUNCTION AS A TOXIN.
+RC   STRAIN=K12 / MG1655 / ATCC 47076;
+RX   PubMed=16707675; DOI=10.1128/JB.01740-05;
+RA   Korch S.B., Hill T.M.;
+RT   "Ectopic overexpression of wild-type and mutant hipA genes in
+RT   Escherichia coli: effects on macromolecular synthesis and persister
+RT   formation.";
+RL   J. Bacteriol. 188:3826-3836(2006).
+RN   [9]
+RP   FUNCTION, AND ROLE IN PPGPP RESPONSE.
+RX   PubMed=23667235; DOI=10.1128/JB.02210-12;
+RA   Bokinsky G., Baidoo E.E., Akella S., Burd H., Weaver D.,
+RA   Alonso-Gutierrez J., Garcia-Martin H., Lee T.S., Keasling J.D.;
+RT   "HipA-triggered growth arrest and beta-lactam tolerance in Escherichia
+RT   coli are mediated by RelA-dependent ppGpp synthesis.";
+RL   J. Bacteriol. 195:3173-3182(2013).
+RN   [10]
+RP   SUBUNIT, AND MODELING OF INTERACTION.
+RX   PubMed=24089363; DOI=10.1002/jmr.2300;
+RA   Li C., Wang Y., Wang Y., Chen G.;
+RT   "Interaction investigations of HipA binding to HipB dimer and HipB
+RT   dimer + DNA complex: a molecular dynamics simulation study.";
+RL   J. Mol. Recognit. 26:556-567(2013).
+RN   [11]
+RP   FUNCTION, INTERACTION WITH HIPB, SUBUNIT, AND MASS SPECTROMETRY.
+RC   STRAIN=K12 / MG1655 / ATCC 47076;
+RX   PubMed=24095282; DOI=10.1016/j.molcel.2013.08.045;
+RA   Germain E., Castro-Roa D., Zenkin N., Gerdes K.;
+RT   "Molecular mechanism of bacterial persistence by HipA.";
+RL   Mol. Cell 52:248-254(2013).
+RN   [12]
+RP   X-RAY CRYSTALLOGRAPHY (2.35 ANGSTROMS) IN COMPLEX WITH HIPB.
+RC   STRAIN=K12 / DH5-alpha;
+RX   PubMed=19622872; DOI=10.1107/S0907444909018800;
+RA   Evdokimov A., Voznesensky I., Fennell K., Anderson M., Smith J.F.,
+RA   Fisher D.A.;
+RT   "New kinase regulation mechanism found in HipBA: a bacterial
+RT   persistence switch.";
+RL   Acta Crystallogr. D 65:875-879(2009).
+RN   [13]
+RP   X-RAY CRYSTALLOGRAPHY (1.54 ANGSTROMS) ALONE AND IN COMPLEX WITH
+RP   MG-ATP, HIPB AND DNA, FUNCTION AS A KINASE, CATALYTIC ACTIVITY,
+RP   ATP-BINDING, DNA-BINDING, SUBSTRATE, AND SUBUNIT.
+RX   PubMed=19150849; DOI=10.1126/science.1163806;
+RA   Schumacher M.A., Piro K.M., Xu W., Hansen S., Lewis K., Brennan R.G.;
+RT   "Molecular mechanisms of HipA-mediated multidrug tolerance and its
+RT   neutralization by HipB.";
+RL   Science 323:396-401(2009).
+RN   [14]
+RP   X-RAY CRYSTALLOGRAPHY (1.50 ANGSTROMS) PHOSPHORYLATED AND
+RP   NON-PHOSPHORYLATED AND IN COMPLEX WITH ATP, ATP-BINDING, ENZYME
+RP   REGULATION, AND PHOSPHORYLATION AT SER-150.
+RX   PubMed=22999936; DOI=10.1016/j.celrep.2012.08.013;
+RA   Schumacher M.A., Min J., Link T.M., Guan Z., Xu W., Ahn Y.H.,
+RA   Soderblom E.J., Kurie J.M., Evdokimov A., Moseley M.A., Lewis K.,
+RA   Brennan R.G.;
+RT   "Role of unusual P loop ejection and autophosphorylation in HipA-
+RT   mediated persistence and multidrug tolerance.";
+RL   Cell Rep. 2:518-525(2012).
+CC   -!- FUNCTION: Toxic component of a toxin-antitoxin (TA) module.
+CC       Phosphorylates Glu-tRNA-ligase (GltX, on 'Ser-239') in vivo.
+CC       Phosphorylation of GltX prevents it from being charged, leading to
+CC       an increase in uncharged tRNA(Glu). This induces amino acid
+CC       starvation and the stringent response via RelA/SpoT and increased
+CC       ppGpp levels, which inhibits replication, transcription,
+CC       translation and cell wall synthesis, reducing growth and leading
+CC       to multidrug resistance and persistence. The hipA7 mutation (a
+CC       double G22S D291A mutation) leads to increased generation of
+CC       persister cells, cells that survive antibiotic treatment probably
+CC       by entering into a dormant state. Wild-type cells produce
+CC       persisters at a frequency of 10(-6) to 10(-5) whereas mutant hipA7
+CC       cells produce persisters at a frequency of 10(-2). Generation of
+CC       persister cells requires ppGpp as cells lacking relA or relA/spoT
+CC       generate fewer or no persister cells respectively compared to
+CC       hipA7. Low level expression of HipA induces dormancy and depending
+CC       on the protein level, can be toxic enough to reduce cell growth or
+CC       even kill cells. Low levels of wild-type HipA lead to high beta-
+CC       lactam antibiotic tolerance of the survivor cells, also dependent
+CC       on relA and relA/spoT. The toxic effect of HipA is neutralized by
+CC       its cognate antitoxin HipB. With HipB acts as a corepressor for
+CC       transcription of the hipBA promoter; binding to DNA induces a 70
+CC       degree bend. {ECO:0000269|PubMed:14622409,
+CC       ECO:0000269|PubMed:16707675, ECO:0000269|PubMed:17041039,
+CC       ECO:0000269|PubMed:19150849, ECO:0000269|PubMed:23667235,
+CC       ECO:0000269|PubMed:24095282, ECO:0000269|PubMed:6348026,
+CC       ECO:0000269|PubMed:8021189}.
+CC   -!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+CC       {ECO:0000269|PubMed:19150849}.
+CC   -!- ENZYME REGULATION: Once phosphorylated no longer has kinase
+CC       activity. {ECO:0000269|PubMed:22999936}.
+CC   -!- SUBUNIT: Forms a HipA(2)HipB(2) heterotetramer which can interact
+CC       with DNA. {ECO:0000269|PubMed:19150849,
+CC       ECO:0000269|PubMed:19622872, ECO:0000269|PubMed:22999936,
+CC       ECO:0000269|PubMed:24089363, ECO:0000269|PubMed:24095282}.
+CC   -!- PTM: Autophosphorylates intermolecularly on Ser-150;
+CC       phosphorylated form not seen to bind ATP and no longer has kinase
+CC       activity. {ECO:0000269|PubMed:17041039,
+CC       ECO:0000269|PubMed:22999936}.
+CC   -!- MASS SPECTROMETRY: Mass=49143.80; Method=MALDI; Range=1-440;
+CC       Evidence={ECO:0000269|PubMed:24095282};
+CC   -!- MASS SPECTROMETRY: Mass=49223.80; Method=MALDI; Range=1-440;
+CC       Note=Phosphorylated form.; Evidence={ECO:0000269|PubMed:24095282};
+CC   -!- DISRUPTION PHENOTYPE: Cells lacking hipA or the hipBA operon
+CC       cannot produce persister cells at a high frequency.
+CC       {ECO:0000269|PubMed:8021189}.
+CC   -!- SIMILARITY: Belongs to the HipA Ser/Thr kinase family.
+CC       {ECO:0000305}.
+CC   -!- CAUTION: Has been reported to phosphorylate EF-Tu in vitro (on
+CC       'Thr-383') (PubMed:19150849). According to another report, does
+CC       not phosphorylate EF-Tu (PubMed:19622872).
+CC       {ECO:0000305|PubMed:19150849, ECO:0000305|PubMed:19622872}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M61242; AAA56878.1; -; Genomic_DNA.
+DR   EMBL; U00096; AAC74580.1; -; Genomic_DNA.
+DR   EMBL; AP009048; BAA15179.2; -; Genomic_DNA.
+DR   PIR; F64904; F64904.
+DR   RefSeq; NP_416024.1; NC_000913.3.
+DR   RefSeq; WP_001125439.1; NZ_CP010445.1.
+DR   PDB; 2WIU; X-ray; 2.35 A; A/C=1-440.
+DR   PDB; 3DNT; X-ray; 1.66 A; A/B=1-440.
+DR   PDB; 3DNU; X-ray; 1.54 A; A=1-440.
+DR   PDB; 3DNV; X-ray; 2.68 A; A=1-440.
+DR   PDB; 3FBR; X-ray; 3.50 A; A=1-437.
+DR   PDB; 3HZI; X-ray; 2.98 A; A=1-440.
+DR   PDB; 3TPB; X-ray; 1.88 A; A=1-440.
+DR   PDB; 3TPD; X-ray; 1.50 A; A=1-440.
+DR   PDB; 3TPE; X-ray; 1.90 A; A=1-440.
+DR   PDB; 3TPT; X-ray; 2.25 A; A/B=1-440.
+DR   PDB; 3TPV; X-ray; 2.30 A; B=1-440.
+DR   PDBsum; 2WIU; -.
+DR   PDBsum; 3DNT; -.
+DR   PDBsum; 3DNU; -.
+DR   PDBsum; 3DNV; -.
+DR   PDBsum; 3FBR; -.
+DR   PDBsum; 3HZI; -.
+DR   PDBsum; 3TPB; -.
+DR   PDBsum; 3TPD; -.
+DR   PDBsum; 3TPE; -.
+DR   PDBsum; 3TPT; -.
+DR   PDBsum; 3TPV; -.
+DR   ProteinModelPortal; P23874; -.
+DR   SMR; P23874; 2-437.
+DR   DIP; DIP-9898N; -.
+DR   IntAct; P23874; 4.
+DR   MINT; MINT-1292260; -.
+DR   STRING; 511145.b1507; -.
+DR   PaxDb; P23874; -.
+DR   PRIDE; P23874; -.
+DR   EnsemblBacteria; AAC74580; AAC74580; b1507.
+DR   EnsemblBacteria; BAA15179; BAA15179; BAA15179.
+DR   GeneID; 946064; -.
+DR   KEGG; eco:b1507; -.
+DR   PATRIC; 32118308; VBIEscCol129921_1574.
+DR   EchoBASE; EB0438; -.
+DR   EcoGene; EG10443; hipA.
+DR   eggNOG; COG3550; -.
+DR   HOGENOM; HOG000188799; -.
+DR   InParanoid; P23874; -.
+DR   KO; K07154; -.
+DR   OMA; KAKMAMA; -.
+DR   OrthoDB; EOG6ZSP44; -.
+DR   BioCyc; EcoCyc:EG10443-MONOMER; -.
+DR   BioCyc; ECOL316407:JW1500-MONOMER; -.
+DR   BioCyc; MetaCyc:EG10443-MONOMER; -.
+DR   EvolutionaryTrace; P23874; -.
+DR   PRO; PR:P23874; -.
+DR   Proteomes; UP000000318; Chromosome.
+DR   Proteomes; UP000000625; Chromosome.
+DR   GO; GO:0005524; F:ATP binding; IDA:EcoCyc.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000287; F:magnesium ion binding; IDA:EcoCyc.
+DR   GO; GO:0004674; F:protein serine/threonine kinase activity; IDA:EcoCyc.
+DR   GO; GO:0022611; P:dormancy process; IDA:EcoCyc.
+DR   GO; GO:0043086; P:negative regulation of catalytic activity; IDA:EcoCyc.
+DR   GO; GO:0036289; P:peptidyl-serine autophosphorylation; IDA:EcoCyc.
+DR   GO; GO:0046677; P:response to antibiotic; IEA:UniProtKB-KW.
+DR   GO; GO:0044010; P:single-species biofilm formation; IMP:EcoCyc.
+DR   InterPro; IPR012893; HipA-like_C.
+DR   InterPro; IPR017508; HipA_N1.
+DR   InterPro; IPR012894; HipA_N2.
+DR   Pfam; PF13657; Couple_hipA; 1.
+DR   Pfam; PF07804; HipA_C; 1.
+DR   Pfam; PF07805; HipA_N; 1.
+DR   TIGRFAMs; TIGR03071; couple_hipA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Antibiotic resistance; ATP-binding; Complete proteome;
+KW   Direct protein sequencing; DNA-binding; Kinase; Nucleotide-binding;
+KW   Phosphoprotein; Reference proteome; Repressor;
+KW   Serine/threonine-protein kinase; Toxin; Transferase.
+FT   CHAIN         1    440       Serine/threonine-protein kinase HipA.
+FT                                /FTId=PRO_0000083988.
+FT   NP_BIND     152    157       ATP. {ECO:0000269|PubMed:22999936}.
+FT   NP_BIND     234    236       ATP. {ECO:0000269|PubMed:22999936}.
+FT   NP_BIND     311    314       ATP. {ECO:0000269|PubMed:22999936}.
+FT   NP_BIND     331    332       ATP. {ECO:0000269|PubMed:22999936}.
+FT   DNA_BIND    379    382       {ECO:0000269|PubMed:19150849}.
+FT   ACT_SITE    309    309       Proton acceptor.
+FT                                {ECO:0000305|PubMed:17041039}.
+FT   BINDING     181    181       ATP. {ECO:0000269|PubMed:22999936}.
+FT   MOD_RES     150    150       Phosphoserine; by autocatalysis.
+FT                                {ECO:0000269|PubMed:17041039,
+FT                                ECO:0000269|PubMed:22999936}.
+FT   MUTAGEN      22     22       G->S: Loss of toxicity, does not confer
+FT                                high persistence. Loss of toxicity, high
+FT                                persistence and cold sensitivity; in
+FT                                hipA7; when associated with A-291.
+FT                                {ECO:0000269|PubMed:14622409}.
+FT   MUTAGEN      88     88       D->N: Loss of toxicity, still confers
+FT                                high persistence.
+FT                                {ECO:0000269|PubMed:14622409}.
+FT   MUTAGEN     150    150       S->A: No phosphorylation; cells grow
+FT                                normally. {ECO:0000269|PubMed:17041039}.
+FT   MUTAGEN     291    291       D->A: Retains toxicity and high
+FT                                persistence but not cold-sensitive. Loss
+FT                                of toxicity, high persistence and cold
+FT                                sensitivity; in hipA7; when associated
+FT                                with S-22. {ECO:0000269|PubMed:14622409}.
+FT   MUTAGEN     309    309       D->Q: Loss of autophosphorylation; cells
+FT                                grow normally; protein can accumulate to
+FT                                high levels in E.coli.
+FT                                {ECO:0000269|PubMed:17041039}.
+FT   MUTAGEN     332    332       D->Q: Loss of autophosphorylation; cells
+FT                                grow normally.
+FT                                {ECO:0000269|PubMed:17041039}.
+FT   CONFLICT     40     40       P -> Q (in Ref. 1; AAA56878).
+FT                                {ECO:0000305}.
+FT   CONFLICT    214    215       GL -> WV (in Ref. 1; AAA56878).
+FT                                {ECO:0000305}.
+FT   CONFLICT    274    274       G -> R (in Ref. 1; AAA56878).
+FT                                {ECO:0000305}.
+FT   STRAND        3      8       {ECO:0000244|PDB:3TPD}.
+FT   STRAND       11     18       {ECO:0000244|PDB:3TPD}.
+FT   STRAND       24     28       {ECO:0000244|PDB:3TPD}.
+FT   HELIX        30     34       {ECO:0000244|PDB:3TPD}.
+FT   STRAND       35     37       {ECO:0000244|PDB:3DNV}.
+FT   STRAND       49     52       {ECO:0000244|PDB:3DNT}.
+FT   HELIX        55     62       {ECO:0000244|PDB:3TPD}.
+FT   STRAND       65     67       {ECO:0000244|PDB:2WIU}.
+FT   HELIX        69     79       {ECO:0000244|PDB:3TPD}.
+FT   STRAND       82     85       {ECO:0000244|PDB:3TPV}.
+FT   HELIX        86     93       {ECO:0000244|PDB:3TPD}.
+FT   STRAND       98    100       {ECO:0000244|PDB:3DNT}.
+FT   STRAND      101    104       {ECO:0000244|PDB:3TPD}.
+FT   STRAND      114    116       {ECO:0000244|PDB:3FBR}.
+FT   STRAND      117    119       {ECO:0000244|PDB:3TPD}.
+FT   HELIX       122    130       {ECO:0000244|PDB:3TPD}.
+FT   TURN        131    133       {ECO:0000244|PDB:3DNU}.
+FT   HELIX       137    139       {ECO:0000244|PDB:3DNT}.
+FT   STRAND      149    152       {ECO:0000244|PDB:3TPE}.
+FT   STRAND      153    155       {ECO:0000244|PDB:3DNU}.
+FT   STRAND      158    163       {ECO:0000244|PDB:3TPD}.
+FT   STRAND      166    170       {ECO:0000244|PDB:3TPD}.
+FT   STRAND      178    181       {ECO:0000244|PDB:3TPD}.
+FT   STRAND      185    188       {ECO:0000244|PDB:3TPE}.
+FT   STRAND      189    191       {ECO:0000244|PDB:3FBR}.
+FT   STRAND      193    196       {ECO:0000244|PDB:3TPE}.
+FT   HELIX       199    212       {ECO:0000244|PDB:3TPD}.
+FT   STRAND      220    225       {ECO:0000244|PDB:3TPD}.
+FT   STRAND      228    234       {ECO:0000244|PDB:3TPD}.
+FT   STRAND      236    240       {ECO:0000244|PDB:3TPD}.
+FT   STRAND      247    249       {ECO:0000244|PDB:3TPD}.
+FT   STRAND      252    254       {ECO:0000244|PDB:3TPD}.
+FT   HELIX       255    258       {ECO:0000244|PDB:3TPD}.
+FT   HELIX       263    265       {ECO:0000244|PDB:3TPD}.
+FT   HELIX       268    270       {ECO:0000244|PDB:3TPD}.
+FT   HELIX       275    282       {ECO:0000244|PDB:3TPD}.
+FT   HELIX       288    304       {ECO:0000244|PDB:3TPD}.
+FT   HELIX       312    314       {ECO:0000244|PDB:3TPD}.
+FT   STRAND      316    319       {ECO:0000244|PDB:3TPD}.
+FT   HELIX       321    323       {ECO:0000244|PDB:3TPD}.
+FT   STRAND      325    327       {ECO:0000244|PDB:3TPD}.
+FT   HELIX       337    339       {ECO:0000244|PDB:3TPD}.
+FT   STRAND      342    344       {ECO:0000244|PDB:3TPD}.
+FT   HELIX       347    349       {ECO:0000244|PDB:3TPD}.
+FT   STRAND      351    358       {ECO:0000244|PDB:3TPD}.
+FT   STRAND      361    365       {ECO:0000244|PDB:3TPD}.
+FT   HELIX       366    368       {ECO:0000244|PDB:3TPD}.
+FT   HELIX       371    381       {ECO:0000244|PDB:3TPD}.
+FT   HELIX       385    407       {ECO:0000244|PDB:3TPD}.
+FT   STRAND      412    414       {ECO:0000244|PDB:3FBR}.
+FT   HELIX       416    434       {ECO:0000244|PDB:3TPD}.
+SQ   SEQUENCE   440 AA;  49276 MW;  378771C4CAB55319 CRC64;
+     MPKLVTWMNN QRVGELTKLA NGAHTFKYAP EWLASRYARP LSLSLPLQRG NITSDAVFNF
+     FDNLLPDSPI VRDRIVKRYH AKSRQPFDLL SEIGRDSVGA VTLIPEDETV THPIMAWEKL
+     TEARLEEVLT AYKADIPLGM IREENDFRIS VAGAQEKTAL LRIGNDWCIP KGITPTTHII
+     KLPIGEIRQP NATLDLSQSV DNEYYCLLLA KELGLNVPDA EIIKAGNVRA LAVERFDRRW
+     NAERTVLLRL PQEDMCQTFG LPSSVKYESD GGPGIARIMA FLMGSSEALK DRYDFMKFQV
+     FQWLIGATDG HAKNFSVFIQ AGGSYRLTPF YDIISAFPVL GGTGIHISDL KLAMGLNASK
+     GKKTAIDKIY PRHFLATAKV LRFPEVQMHE ILSDFARMIP AALDNVKTSL PTDFPENVVT
+     AVESNVLRLH GRLSREYGSK
+//

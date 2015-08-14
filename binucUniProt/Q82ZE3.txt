@@ -1,0 +1,92 @@
+ID   Q82ZE3_ENTFA            Unreviewed;       214 AA.
+AC   Q82ZE3;
+DT   01-JUN-2003, integrated into UniProtKB/TrEMBL.
+DT   01-JUN-2003, sequence version 1.
+DT   27-MAY-2015, entry version 75.
+DE   SubName: Full=Thiamin pyrophosphokinase family protein {ECO:0000313|EMBL:AAO82797.1};
+GN   OrderedLocusNames=EF_3117 {ECO:0000313|EMBL:AAO82797.1};
+OS   Enterococcus faecalis (strain ATCC 700802 / V583).
+OC   Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+OC   Enterococcus.
+OX   NCBI_TaxID=226185 {ECO:0000313|EMBL:AAO82797.1, ECO:0000313|Proteomes:UP000001415};
+RN   [1] {ECO:0000313|EMBL:AAO82797.1, ECO:0000313|Proteomes:UP000001415}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 700802 / V583 {ECO:0000313|Proteomes:UP000001415};
+RX   PubMed=12663927; DOI=10.1126/science.1080613;
+RA   Paulsen I.T., Banerjei L., Myers G.S.A., Nelson K.E., Seshadri R.,
+RA   Read T.D., Fouts D.E., Eisen J.A., Gill S.R., Heidelberg J.F.,
+RA   Tettelin H., Dodson R.J., Umayam L.A., Brinkac L.M., Beanan M.J.,
+RA   Daugherty S.C., DeBoy R.T., Durkin S.A., Kolonay J.F., Madupu R.,
+RA   Nelson W.C., Vamathevan J.J., Tran B., Upton J., Hansen T., Shetty J.,
+RA   Khouri H.M., Utterback T.R., Radune D., Ketchum K.A., Dougherty B.A.,
+RA   Fraser C.M.;
+RT   "Role of mobile DNA in the evolution of vancomycin-resistant
+RT   Enterococcus faecalis.";
+RL   Science 299:2071-2074(2003).
+RN   [2] {ECO:0000213|PDB:3MEL}
+RP   X-RAY CRYSTALLOGRAPHY (2.79 ANGSTROMS) IN COMPLEX WITH THIAMINE
+RP   PYROPHOSPHATE.
+RA   Kuzin A., Abasidze M., Seetharaman J., Mao M., Xiao R., Ciccosanti C.,
+RA   Foote E.L., Maglaqui M., Zhao L., Everett J.K., Nair R., Acton T.B.,
+RA   Rost B., Montelione G.T., Hunt J.F., Tong L.;
+RT   "Northeast Structural Genomics Consortium Target EfR150.";
+RL   Submitted (MAR-2010) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE016830; AAO82797.1; -; Genomic_DNA.
+DR   RefSeq; NP_816727.1; NC_004668.1.
+DR   RefSeq; WP_002378967.1; NZ_KE136524.1.
+DR   PDB; 3MEL; X-ray; 2.79 A; A/B/C/D=1-214.
+DR   PDBsum; 3MEL; -.
+DR   ProteinModelPortal; Q82ZE3; -.
+DR   STRING; 226185.EF3117; -.
+DR   DNASU; 1201961; -.
+DR   EnsemblBacteria; AAO82797; AAO82797; EF_3117.
+DR   EnsemblBacteria; EOT52695; EOT52695; OO5_00452.
+DR   EnsemblBacteria; EOT89481; EOT89481; I574_00213.
+DR   GeneID; 1201961; -.
+DR   KEGG; efa:EF3117; -.
+DR   PATRIC; 21856389; VBIEntFae7065_2907.
+DR   KO; K00949; -.
+DR   OMA; ITYCPEG; -.
+DR   OrthoDB; EOG62NX6M; -.
+DR   BioCyc; EFAE226185:GHI1-3043-MONOMER; -.
+DR   Proteomes; UP000001415; Chromosome.
+DR   GO; GO:0005524; F:ATP binding; IEA:InterPro.
+DR   GO; GO:0016301; F:kinase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0030975; F:thiamine binding; IEA:InterPro.
+DR   GO; GO:0004788; F:thiamine diphosphokinase activity; IEA:InterPro.
+DR   GO; GO:0009229; P:thiamine diphosphate biosynthetic process; IEA:InterPro.
+DR   GO; GO:0006772; P:thiamine metabolic process; IEA:InterPro.
+DR   Gene3D; 3.40.50.10240; -; 1.
+DR   InterPro; IPR006282; Thi_PPkinase.
+DR   InterPro; IPR007373; Thiamin_PyroPKinase_B1-bd.
+DR   InterPro; IPR007371; TPK_catalytic.
+DR   Pfam; PF04265; TPK_B1_binding; 1.
+DR   Pfam; PF04263; TPK_catalytic; 1.
+DR   SMART; SM00983; TPK_B1_binding; 1.
+DR   SUPFAM; SSF63999; SSF63999; 1.
+DR   TIGRFAMs; TIGR01378; thi_PPkinase; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3MEL};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001415};
+KW   Kinase {ECO:0000313|EMBL:AAO82797.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001415};
+KW   Thiamine pyrophosphate {ECO:0000213|PDB:3MEL};
+KW   Transferase {ECO:0000313|EMBL:AAO82797.1}.
+FT   REGION       76     80       Thiamine pyrophosphate binding.
+FT                                {ECO:0000213|PDB:3MEL}.
+FT   BINDING     108    108       Thiamine pyrophosphate.
+FT                                {ECO:0000213|PDB:3MEL}.
+FT   BINDING     174    174       Thiamine pyrophosphate.
+FT                                {ECO:0000213|PDB:3MEL}.
+FT   BINDING     189    189       Thiamine pyrophosphate.
+FT                                {ECO:0000213|PDB:3MEL}.
+SQ   SEQUENCE   214 AA;  24145 MW;  D1B0080AABD805C8 CRC64;
+     MSRVLLVAGG NPSDWPTIEP ATYDYFVGID RGCLHLLEAD LPLQLAVGDF DSLSREEYHF
+     VQETTETLIQ APAEKDDTDT QLALQEALQR FPQAEMTIIG ATGGRIDHLL ANLWLPFEPR
+     FQGVLRQIRL CDRQNSIQYY APGSYIVPKE PDKEYLAYCC LTPVENLTLR RSKYLLTNQD
+     VPYPTSYASN EFIEEAAAFS FDAGMIAVIQ SKDK
+//

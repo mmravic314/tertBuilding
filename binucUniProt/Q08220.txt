@@ -1,0 +1,252 @@
+ID   GSHB_YEAST              Reviewed;         491 AA.
+AC   Q08220; D6W218;
+DT   01-NOV-1997, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   22-JUL-2015, entry version 138.
+DE   RecName: Full=Glutathione synthetase;
+DE            Short=GSH synthetase;
+DE            Short=GSH-S;
+DE            EC=6.3.2.3;
+DE   AltName: Full=Glutathione synthase;
+GN   Name=GSH2; OrderedLocusNames=YOL049W;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=559292;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=9512666; DOI=10.1016/S0167-4781(97)00199-1;
+RA   Inoue Y., Sugiyama K.I., Izawa S., Kimura A.;
+RT   "Molecular identification of glutathione synthetase (GSH2) gene from
+RT   Saccharomyces cerevisiae.";
+RL   Biochim. Biophys. Acta 1395:315-320(1998).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=9169874;
+RA   Dujon B., Albermann K., Aldea M., Alexandraki D., Ansorge W.,
+RA   Arino J., Benes V., Bohn C., Bolotin-Fukuhara M., Bordonne R.,
+RA   Boyer J., Camasses A., Casamayor A., Casas C., Cheret G.,
+RA   Cziepluch C., Daignan-Fornier B., Dang V.-D., de Haan M., Delius H.,
+RA   Durand P., Fairhead C., Feldmann H., Gaillon L., Galisson F.,
+RA   Gamo F.-J., Gancedo C., Goffeau A., Goulding S.E., Grivell L.A.,
+RA   Habbig B., Hand N.J., Hani J., Hattenhorst U., Hebling U.,
+RA   Hernando Y., Herrero E., Heumann K., Hiesel R., Hilger F., Hofmann B.,
+RA   Hollenberg C.P., Hughes B., Jauniaux J.-C., Kalogeropoulos A.,
+RA   Katsoulou C., Kordes E., Lafuente M.J., Landt O., Louis E.J.,
+RA   Maarse A.C., Madania A., Mannhaupt G., Marck C., Martin R.P.,
+RA   Mewes H.-W., Michaux G., Paces V., Parle-McDermott A.G., Pearson B.M.,
+RA   Perrin A., Pettersson B., Poch O., Pohl T.M., Poirey R.,
+RA   Portetelle D., Pujol A., Purnelle B., Ramezani Rad M., Rechmann S.,
+RA   Schwager C., Schweizer M., Sor F., Sterky F., Tarassov I.A.,
+RA   Teodoru C., Tettelin H., Thierry A., Tobiasch E., Tzermia M.,
+RA   Uhlen M., Unseld M., Valens M., Vandenbol M., Vetter I., Vlcek C.,
+RA   Voet M., Volckaert G., Voss H., Wambutt R., Wedler H., Wiemann S.,
+RA   Winsor B., Wolfe K.H., Zollner A., Zumstein E., Kleine K.;
+RT   "The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+RL   Nature 387:98-102(1997).
+RN   [3]
+RP   GENOME REANNOTATION.
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=24374639; DOI=10.1534/g3.113.008995;
+RA   Engel S.R., Dietrich F.S., Fisk D.G., Binkley G., Balakrishnan R.,
+RA   Costanzo M.C., Dwight S.S., Hitz B.C., Karra K., Nash R.S., Weng S.,
+RA   Wong E.D., Lloyd P., Skrzypek M.S., Miyasato S.R., Simison M.,
+RA   Cherry J.M.;
+RT   "The reference genome sequence of Saccharomyces cerevisiae: Then and
+RT   now.";
+RL   G3 (Bethesda) 4:389-398(2014).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=17322287; DOI=10.1101/gr.6037607;
+RA   Hu Y., Rolfs A., Bhullar B., Murthy T.V.S., Zhu C., Berger M.F.,
+RA   Camargo A.A., Kelley F., McCarron S., Jepson D., Richardson A.,
+RA   Raphael J., Moreira D., Taycher E., Zuo D., Mohr S., Kane M.F.,
+RA   Williamson J., Simpson A.J.G., Bulyk M.L., Harlow E., Marsischky G.,
+RA   Kolodner R.D., LaBaer J.;
+RT   "Approaching a complete repository of sequence-verified protein-
+RT   encoding clones for Saccharomyces cerevisiae.";
+RL   Genome Res. 17:536-543(2007).
+RN   [5]
+RP   LEVEL OF PROTEIN EXPRESSION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562106; DOI=10.1038/nature02046;
+RA   Ghaemmaghami S., Huh W.-K., Bower K., Howson R.W., Belle A.,
+RA   Dephoure N., O'Shea E.K., Weissman J.S.;
+RT   "Global analysis of protein expression in yeast.";
+RL   Nature 425:737-741(2003).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (1.80 ANGSTROMS) IN COMPLEX WITH SUBSTRATE AND
+RP   AMP-PNP, COFACTOR, AND SUBUNIT.
+RX   PubMed=12467574; DOI=10.1016/S0969-2126(02)00906-1;
+RA   Gogos A., Shapiro L.;
+RT   "Large conformational changes in the catalytic cycle of glutathione
+RT   synthase.";
+RL   Structure 10:1669-1676(2002).
+CC   -!- CATALYTIC ACTIVITY: ATP + gamma-L-glutamyl-L-cysteine + glycine =
+CC       ADP + phosphate + glutathione.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000269|PubMed:12467574};
+CC       Note=Binds 1 Mg(2+) ion per subunit.
+CC       {ECO:0000269|PubMed:12467574};
+CC   -!- PATHWAY: Sulfur metabolism; glutathione biosynthesis; glutathione
+CC       from L-cysteine and L-glutamate: step 2/2.
+CC   -!- SUBUNIT: Homodimer. {ECO:0000269|PubMed:12467574}.
+CC   -!- INTERACTION:
+CC       Self; NbExp=1; IntAct=EBI-7915, EBI-7915;
+CC       P10592:SSA2; NbExp=1; IntAct=EBI-7915, EBI-8603;
+CC   -!- MISCELLANEOUS: Present with 3430 molecules/cell in log phase SD
+CC       medium. {ECO:0000269|PubMed:14562106}.
+CC   -!- SIMILARITY: Belongs to the eukaryotic GSH synthase family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; Y13804; CAA74136.1; -; Genomic_DNA.
+DR   EMBL; Z74791; CAA99054.1; -; Genomic_DNA.
+DR   EMBL; AY723864; AAU09781.1; -; Genomic_DNA.
+DR   EMBL; BK006948; DAA10734.1; -; Genomic_DNA.
+DR   PIR; S66734; S66734.
+DR   RefSeq; NP_014593.1; NM_001183303.1.
+DR   PDB; 1M0T; X-ray; 2.30 A; A/B=1-491.
+DR   PDB; 1M0W; X-ray; 1.80 A; A/B=1-491.
+DR   PDBsum; 1M0T; -.
+DR   PDBsum; 1M0W; -.
+DR   ProteinModelPortal; Q08220; -.
+DR   SMR; Q08220; 6-491.
+DR   BioGrid; 34354; 46.
+DR   IntAct; Q08220; 1.
+DR   MINT; MINT-625950; -.
+DR   MaxQB; Q08220; -.
+DR   PaxDb; Q08220; -.
+DR   PeptideAtlas; Q08220; -.
+DR   EnsemblFungi; YOL049W; YOL049W; YOL049W.
+DR   GeneID; 854108; -.
+DR   KEGG; sce:YOL049W; -.
+DR   CYGD; YOL049w; -.
+DR   EuPathDB; FungiDB:YOL049W; -.
+DR   SGD; S000005409; GSH2.
+DR   eggNOG; NOG329040; -.
+DR   GeneTree; ENSGT00390000013764; -.
+DR   HOGENOM; HOG000172641; -.
+DR   InParanoid; Q08220; -.
+DR   KO; K01920; -.
+DR   OMA; PSHRDED; -.
+DR   OrthoDB; EOG7GBG71; -.
+DR   BioCyc; YEAST:YOL049W-MONOMER; -.
+DR   BRENDA; 6.3.2.3; 984.
+DR   Reactome; REACT_303899; Glutathione synthesis and recycling.
+DR   UniPathway; UPA00142; UER00210.
+DR   EvolutionaryTrace; Q08220; -.
+DR   NextBio; 975792; -.
+DR   PRO; PR:Q08220; -.
+DR   Proteomes; UP000002311; Chromosome XV.
+DR   GO; GO:0005622; C:intracellular; TAS:SGD.
+DR   GO; GO:0005524; F:ATP binding; IDA:UniProtKB.
+DR   GO; GO:0043295; F:glutathione binding; IDA:UniProtKB.
+DR   GO; GO:0004363; F:glutathione synthase activity; IDA:SGD.
+DR   GO; GO:0000287; F:magnesium ion binding; IDA:UniProtKB.
+DR   GO; GO:0042803; F:protein homodimerization activity; IDA:UniProtKB.
+DR   GO; GO:0006750; P:glutathione biosynthetic process; IMP:SGD.
+DR   Gene3D; 1.10.1080.10; -; 2.
+DR   Gene3D; 3.30.1490.50; -; 1.
+DR   Gene3D; 3.30.1490.80; -; 1.
+DR   Gene3D; 3.40.50.1760; -; 1.
+DR   InterPro; IPR004887; Glutathione_synth_subst-bd_euk.
+DR   InterPro; IPR014042; Glutathione_synthase_a-hlx_euk.
+DR   InterPro; IPR014709; Glutathione_synthase_dom.
+DR   InterPro; IPR005615; Glutathione_synthase_euk.
+DR   InterPro; IPR014049; Glutathione_synthase_N_euk.
+DR   InterPro; IPR016185; PreATP-grasp_dom.
+DR   PANTHER; PTHR11130; PTHR11130; 1.
+DR   Pfam; PF03917; GSH_synth_ATP; 1.
+DR   Pfam; PF03199; GSH_synthase; 1.
+DR   PIRSF; PIRSF001558; GSHase; 1.
+DR   SUPFAM; SSF52440; SSF52440; 1.
+DR   TIGRFAMs; TIGR01986; glut_syn_euk; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; ATP-binding; Complete proteome;
+KW   Glutathione biosynthesis; Ligase; Magnesium; Metal-binding;
+KW   Nucleotide-binding; Reference proteome.
+FT   CHAIN         1    491       Glutathione synthetase.
+FT                                /FTId=PRO_0000211266.
+FT   NP_BIND     382    391       ATP.
+FT   NP_BIND     415    418       ATP.
+FT   REGION      150    153       Substrate binding.
+FT   REGION      228    230       Substrate binding.
+FT   REGION      285    288       Substrate binding.
+FT   REGION      478    479       Substrate binding. {ECO:0000250}.
+FT   METAL       146    146       Magnesium.
+FT   METAL       148    148       Magnesium. {ECO:0000250}.
+FT   METAL       386    386       Magnesium.
+FT   BINDING     128    128       Substrate. {ECO:0000269|PubMed:12467574}.
+FT   BINDING     146    146       ATP.
+FT   BINDING     234    234       Substrate. {ECO:0000269|PubMed:12467574}.
+FT   BINDING     324    324       ATP.
+FT   BINDING     393    393       ATP.
+FT   BINDING     442    442       ATP.
+FT   BINDING     467    467       Substrate. {ECO:0000250}.
+FT   BINDING     469    469       ATP.
+FT   BINDING     475    475       ATP; via carbonyl oxygen. {ECO:0000250}.
+FT   HELIX         8     25       {ECO:0000244|PDB:1M0W}.
+FT   HELIX        34     36       {ECO:0000244|PDB:1M0W}.
+FT   STRAND       40     43       {ECO:0000244|PDB:1M0W}.
+FT   STRAND       46     49       {ECO:0000244|PDB:1M0W}.
+FT   STRAND       51     54       {ECO:0000244|PDB:1M0W}.
+FT   HELIX        55     79       {ECO:0000244|PDB:1M0W}.
+FT   HELIX        85     96       {ECO:0000244|PDB:1M0W}.
+FT   TURN         97    100       {ECO:0000244|PDB:1M0W}.
+FT   HELIX       101    111       {ECO:0000244|PDB:1M0W}.
+FT   STRAND      123    136       {ECO:0000244|PDB:1M0W}.
+FT   STRAND      139    148       {ECO:0000244|PDB:1M0W}.
+FT   HELIX       155    170       {ECO:0000244|PDB:1M0W}.
+FT   HELIX       183    185       {ECO:0000244|PDB:1M0W}.
+FT   HELIX       191    208       {ECO:0000244|PDB:1M0W}.
+FT   STRAND      219    224       {ECO:0000244|PDB:1M0W}.
+FT   HELIX       231    243       {ECO:0000244|PDB:1M0W}.
+FT   STRAND      249    252       {ECO:0000244|PDB:1M0W}.
+FT   HELIX       254    260       {ECO:0000244|PDB:1M0W}.
+FT   STRAND      261    263       {ECO:0000244|PDB:1M0W}.
+FT   TURN        265    267       {ECO:0000244|PDB:1M0W}.
+FT   STRAND      270    272       {ECO:0000244|PDB:1M0W}.
+FT   TURN        273    275       {ECO:0000244|PDB:1M0W}.
+FT   STRAND      278    286       {ECO:0000244|PDB:1M0W}.
+FT   HELIX       290    292       {ECO:0000244|PDB:1M0W}.
+FT   HELIX       296    307       {ECO:0000244|PDB:1M0W}.
+FT   STRAND      308    313       {ECO:0000244|PDB:1M0W}.
+FT   HELIX       316    321       {ECO:0000244|PDB:1M0W}.
+FT   HELIX       324    329       {ECO:0000244|PDB:1M0W}.
+FT   HELIX       333    336       {ECO:0000244|PDB:1M0W}.
+FT   TURN        337    339       {ECO:0000244|PDB:1M0W}.
+FT   HELIX       343    350       {ECO:0000244|PDB:1M0W}.
+FT   STRAND      356    358       {ECO:0000244|PDB:1M0W}.
+FT   STRAND      360    362       {ECO:0000244|PDB:1M0W}.
+FT   HELIX       363    374       {ECO:0000244|PDB:1M0W}.
+FT   HELIX       376    378       {ECO:0000244|PDB:1M0W}.
+FT   STRAND      379    385       {ECO:0000244|PDB:1M0W}.
+FT   HELIX       394    396       {ECO:0000244|PDB:1M0W}.
+FT   HELIX       397    402       {ECO:0000244|PDB:1M0W}.
+FT   HELIX       406    411       {ECO:0000244|PDB:1M0W}.
+FT   STRAND      412    416       {ECO:0000244|PDB:1M0W}.
+FT   STRAND      428    430       {ECO:0000244|PDB:1M0W}.
+FT   STRAND      433    435       {ECO:0000244|PDB:1M0W}.
+FT   STRAND      439    451       {ECO:0000244|PDB:1M0W}.
+FT   STRAND      456    469       {ECO:0000244|PDB:1M0W}.
+FT   STRAND      472    474       {ECO:0000244|PDB:1M0W}.
+FT   STRAND      477    480       {ECO:0000244|PDB:1M0W}.
+FT   STRAND      483    485       {ECO:0000244|PDB:1M0W}.
+FT   STRAND      488    491       {ECO:0000244|PDB:1M0W}.
+SQ   SEQUENCE   491 AA;  55815 MW;  D2AE50A487E0791C CRC64;
+     MAHYPPSKDQ LNELIQEVNQ WAITNGLSMY PPKFEENPSN ASVSPVTIYP TPIPRKCFDE
+     AVQIQPVFNE LYARITQDMA QPDSYLHKTT EALALSDSEF TGKLWSLYLA TLKSAQYKKQ
+     NFRLGIFRSD YLIDKKKGTE QIKQVEFNTV SVSFAGLSEK VDRLHSYLNR ANKYDPKGPI
+     YNDQNMVISD SGYLLSKALA KAVESYKSQQ SSSTTSDPIV AFIVQRNERN VFDQKVLELN
+     LLEKFGTKSV RLTFDDVNDK LFIDDKTGKL FIRDTEQEIA VVYYRTGYTT TDYTSEKDWE
+     ARLFLEKSFA IKAPDLLTQL SGSKKIQQLL TDEGVLGKYI SDAEKKSSLL KTFVKIYPLD
+     DTKLGREGKR LALSEPSKYV LKPQREGGGN NVYKENIPNF LKGIEERHWD AYILMELIEP
+     ELNENNIILR DNKSYNEPII SELGIYGCVL FNDEQVLSNE FSGSLLRSKF NTSNEGGVAA
+     GFGCLDSIIL Y
+//

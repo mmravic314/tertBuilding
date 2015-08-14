@@ -1,0 +1,151 @@
+ID   F1RQI7_PIG              Unreviewed;      1253 AA.
+AC   F1RQI7;
+DT   03-MAY-2011, integrated into UniProtKB/TrEMBL.
+DT   03-MAY-2011, sequence version 1.
+DT   22-JUL-2015, entry version 40.
+DE   SubName: Full=Unconventional myosin-VI {ECO:0000313|Ensembl:ENSSSCP00000004831};
+GN   Name=MYO6 {ECO:0000313|Ensembl:ENSSSCP00000004831};
+OS   Sus scrofa (Pig).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Suina; Suidae;
+OC   Sus.
+OX   NCBI_TaxID=9823 {ECO:0000313|Ensembl:ENSSSCP00000004831, ECO:0000313|Proteomes:UP000008227};
+RN   [1] {ECO:0000313|Ensembl:ENSSSCP00000004831, ECO:0000313|Proteomes:UP000008227}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RG   Porcine genome sequencing project;
+RL   Submitted (NOV-2009) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000313|Ensembl:ENSSSCP00000004831}
+RP   IDENTIFICATION.
+RG   Ensembl;
+RL   Submitted (MAY-2011) to UniProtKB.
+RN   [3] {ECO:0000213|PDB:4E7S, ECO:0000213|PDB:4E7Z}
+RP   X-RAY CRYSTALLOGRAPHY (2.25 ANGSTROMS) OF 2-789 IN COMPLEX WITH ADP.
+RX   PubMed=22940248; DOI=10.1016/j.molcel.2012.07.034;
+RA   Menetrey J., Isabet T., Ropars V., Mukherjea M., Pylypenko O., Liu X.,
+RA   Perez J., Vachette P., Sweeney H.L., Houdusse A.M.;
+RT   "Processive steps in the reverse direction require uncoupling of the
+RT   lead head lever arm of myosin VI.";
+RL   Mol. Cell 48:75-86(2012).
+CC   -!- SIMILARITY: Contains myosin motor domain.
+CC       {ECO:0000256|SAAS:SAAS00117419}.
+CC   -!- CAUTION: The sequence shown here is derived from an Ensembl
+CC       automatic analysis pipeline and should be considered as
+CC       preliminary data. {ECO:0000313|Ensembl:ENSSSCP00000004831}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CU469475; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   RefSeq; XP_005659486.1; XM_005659429.1.
+DR   RefSeq; XP_005659487.1; XM_005659430.1.
+DR   UniGene; Ssc.94; -.
+DR   PDB; 4E7S; X-ray; 2.25 A; A/B=2-789.
+DR   PDB; 4E7Z; X-ray; 2.30 A; A/B=2-789.
+DR   PDB; 4PFO; X-ray; 1.75 A; A=2-789.
+DR   PDB; 4PFP; X-ray; 2.32 A; A/C=2-789.
+DR   PDB; 4PJJ; X-ray; 2.40 A; A=2-815.
+DR   PDB; 4PJL; X-ray; 2.10 A; A=2-789.
+DR   PDB; 4PJM; X-ray; 2.05 A; A=2-789.
+DR   PDB; 4PJN; X-ray; 2.00 A; A=2-789.
+DR   PDB; 4PK4; X-ray; 2.78 A; A=2-789.
+DR   PDBsum; 4E7S; -.
+DR   PDBsum; 4E7Z; -.
+DR   PDBsum; 4PFO; -.
+DR   PDBsum; 4PFP; -.
+DR   PDBsum; 4PJJ; -.
+DR   PDBsum; 4PJL; -.
+DR   PDBsum; 4PJM; -.
+DR   PDBsum; 4PJN; -.
+DR   PDBsum; 4PK4; -.
+DR   STRING; 9823.ENSSSCP00000004831; -.
+DR   Ensembl; ENSSSCT00000004948; ENSSSCP00000004831; ENSSSCG00000004478.
+DR   GeneID; 397085; -.
+DR   CTD; 4646; -.
+DR   GeneTree; ENSGT00800000124053; -.
+DR   OMA; RICVQGK; -.
+DR   OrthoDB; EOG7TQTZZ; -.
+DR   TreeFam; TF351449; -.
+DR   Reactome; REACT_303428; Gap junction degradation.
+DR   Reactome; REACT_341983; Trafficking of AMPA receptors.
+DR   Proteomes; UP000008227; Chromosome 1.
+DR   GO; GO:0030424; C:axon; IEA:Ensembl.
+DR   GO; GO:0045334; C:clathrin-coated endocytic vesicle; IEA:Ensembl.
+DR   GO; GO:0016591; C:DNA-directed RNA polymerase II, holoenzyme; IEA:Ensembl.
+DR   GO; GO:0070062; C:extracellular exosome; IEA:Ensembl.
+DR   GO; GO:0031941; C:filamentous actin; IEA:Ensembl.
+DR   GO; GO:0005794; C:Golgi apparatus; IEA:Ensembl.
+DR   GO; GO:0016459; C:myosin complex; IEA:UniProtKB-KW.
+DR   GO; GO:0043025; C:neuronal cell body; IEA:Ensembl.
+DR   GO; GO:0031965; C:nuclear membrane; IEA:Ensembl.
+DR   GO; GO:0005886; C:plasma membrane; IEA:Ensembl.
+DR   GO; GO:0001726; C:ruffle; IEA:Ensembl.
+DR   GO; GO:0012506; C:vesicle membrane; IEA:Ensembl.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003774; F:motor activity; IEA:InterPro.
+DR   GO; GO:0042491; P:auditory receptor cell differentiation; IEA:Ensembl.
+DR   GO; GO:0071257; P:cellular response to electrical stimulus; IEA:Ensembl.
+DR   GO; GO:0016358; P:dendrite development; IEA:Ensembl.
+DR   GO; GO:0030330; P:DNA damage response, signal transduction by p53 class mediator; IEA:Ensembl.
+DR   GO; GO:0014047; P:glutamate secretion; IEA:Ensembl.
+DR   GO; GO:0042472; P:inner ear morphogenesis; IEA:Ensembl.
+DR   GO; GO:0007626; P:locomotory behavior; IEA:Ensembl.
+DR   GO; GO:0045944; P:positive regulation of transcription from RNA polymerase II promoter; IEA:Ensembl.
+DR   GO; GO:0006605; P:protein targeting; IEA:Ensembl.
+DR   GO; GO:0051046; P:regulation of secretion; IEA:Ensembl.
+DR   GO; GO:0048167; P:regulation of synaptic plasticity; IEA:Ensembl.
+DR   GO; GO:0007605; P:sensory perception of sound; IEA:Ensembl.
+DR   GO; GO:0007416; P:synapse assembly; IEA:Ensembl.
+DR   GO; GO:0007268; P:synaptic transmission; IEA:Ensembl.
+DR   InterPro; IPR000048; IQ_motif_EF-hand-BS.
+DR   InterPro; IPR001609; Myosin_head_motor_dom.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   Pfam; PF00063; Myosin_head; 1.
+DR   PRINTS; PR00193; MYOSINHEAVY.
+DR   SMART; SM00015; IQ; 1.
+DR   SMART; SM00242; MYSc; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+DR   PROSITE; PS51456; MYOSIN_MOTOR; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4E7S, ECO:0000213|PDB:4E7Z};
+KW   ATP-binding {ECO:0000256|SAAS:SAAS00117369};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000008227};
+KW   Motor protein {ECO:0000256|SAAS:SAAS00117479};
+KW   Myosin {ECO:0000256|SAAS:SAAS00117479};
+KW   Nucleotide-binding {ECO:0000256|SAAS:SAAS00117369};
+KW   Proteomics identification {ECO:0000213|PeptideAtlas:F1RQI7};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000008227}.
+FT   NP_BIND     154    159       ADP. {ECO:0000213|PDB:4E7S,
+FT                                ECO:0000213|PDB:4E7Z,
+FT                                ECO:0000213|PDB:4PFO}.
+FT   BINDING      98     98       ADP. {ECO:0000213|PDB:4E7S,
+FT                                ECO:0000213|PDB:4E7Z,
+FT                                ECO:0000213|PDB:4PFO}.
+FT   BINDING     107    107       ADP. {ECO:0000213|PDB:4E7S,
+FT                                ECO:0000213|PDB:4E7Z,
+FT                                ECO:0000213|PDB:4PFO}.
+FT   BINDING     200    200       ADP. {ECO:0000213|PDB:4E7S,
+FT                                ECO:0000213|PDB:4E7Z,
+FT                                ECO:0000213|PDB:4PFO}.
+SQ   SEQUENCE   1253 AA;  144928 MW;  3CB3C2C720469A8B CRC64;
+     MEDGKPVWAP HPTDGFQVGN IVDIGPDSLT IEPLNQKGKT FLALINQVFP AEEDSKKDVE
+     DNCSLMYLNE ATLLHNIKVR YSKDRIYTYV ANILIAVNPY FDIPKIYSSE TIKSYQGKSL
+     GTMPPHVFAI ADKAFRDMKV LKLSQSIIVS GESGAGKTEN TKFVLRYLTE SYGTGQDIDD
+     RIVEANPLLE AFGNAKTVRN NNSSRFGKFV EIHFNEKSSV VGGFVSHYLL EKSRICVQGK
+     EERNYHIFYR LCAGASEDIR ERLHLSSPDN FRYLNRGCTR YFANKETDKQ ILQNRKSPEY
+     LKAGSLKDPL LDDHGDFIRM CTAMKKIGLD DEEKLDLFRV VAGVLHLGNI DFEEAGSTSG
+     GCNLKNKSTQ ALEYCAELLG LDQDDLRVSL TTRVMLTTAG GAKGTVIKVP LKVEQANNAR
+     DALAKTVYSH LFDHVVNRVN QCFPFETSSY FIGVLDIAGF EYFEHNSFEQ FCINYCNEKL
+     QQFFNERILK EEQELYQKEG LGVNEVHYVD NQDCIDLIEA RLVGILDILD EENRLPQPSD
+     QHFTSAVHQK HKDHFRLSIP RKSKLAIHRN IRDDEGFIIR HFAGAVCYET TQFVEKNNDA
+     LHMSLESLIC ESRDKFIREL FESSTNNNKD TKQKAGKLSF ISVGNKFKTQ LNLLLDKLRS
+     TGASFIRCIK PNLKMTSHHF EGAQILSQLQ CSGMVSVLDL MQGGFPSRAS FHELYNMYKK
+     YMPDKLARLD PRLFCKALFK ALGLNEIDYK FGLTKVFFRP GKFAEFDQIM KSDPDHLAEL
+     VKRVNHWLIC SRWKKVQWCS LSVIKLKNKI KYRAEACIKM QKTIRMWLCK RRHKPRIDGL
+     VKVGTLKKRL DKFNEVVSAL KDGKQEMSKQ VKDLEISIDA LMAKIKSTMM TREQIQKEYD
+     ALVKSSAVLL SALQKKKQQE EEAERLRRIQ EEMEKERKRR EEDEQRRRKE EEERRMKLEM
+     EAKRKQEEEE RKKREDDEKR IQAEVEAQLA RQREEESQQQ AVLEQERRDR ELALRIAQSE
+     AELISDEAQA DPGLRRGPAV QATKAAAGTK KYDLSKWKYA ELRDTINTSC DIELLAACRE
+     EFHRRLKVYH AWKSKNKKRN TETEQRAPKS VTDYAQQNPA VQLPARQQEI EMNRQQRFFR
+     IPFIRPADQY KDPQNKKKGW WYAHFDGPWI ARQMELHPDK PPILLVAGKD DMEMCELNLE
+     ETGLTRKRGA EILPRQFEEI WERCGGIQYL QNAIESRQAR PTYATAMLQN LLK
+//

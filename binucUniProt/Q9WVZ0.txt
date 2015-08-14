@@ -1,0 +1,38 @@
+ID   Q9WVZ0_9NOCA            Unreviewed;       172 AA.
+AC   Q9WVZ0;
+DT   01-NOV-1999, integrated into UniProtKB/TrEMBL.
+DT   01-NOV-1999, sequence version 1.
+DT   24-JUN-2015, entry version 50.
+DE   SubName: Full=Iron-sulfur protein {ECO:0000313|EMBL:BAA76339.1};
+GN   Name=rnoA4 {ECO:0000313|EMBL:BAA76339.1};
+OS   Rhodococcus sp. CIR2.
+OC   Bacteria; Actinobacteria; Corynebacteriales; Nocardiaceae;
+OC   Rhodococcus.
+OX   NCBI_TaxID=90325 {ECO:0000313|EMBL:BAA76339.1};
+RN   [1] {ECO:0000313|EMBL:BAA76339.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=CIR2 {ECO:0000313|EMBL:BAA76339.1};
+RA   Takizawa N., Fujiwara T., Hatta T., Fukuda M., Kiyohara H.;
+RT   "Cloning, nucleotide sequence, and characterization of naphthalene
+RT   degradation genes, rno, of gram-positive bacteria Rhodococcus sp.
+RT   CIR2.";
+RL   Submitted (MAR-1999) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AB024936; BAA76339.1; -; Genomic_DNA.
+DR   ProteinModelPortal; Q9WVZ0; -.
+DR   SMR; Q9WVZ0; 6-172.
+DR   EvolutionaryTrace; Q9WVZ0; -.
+DR   GO; GO:0003824; F:catalytic activity; IEA:InterPro.
+DR   GO; GO:0006725; P:cellular aromatic compound metabolic process; IEA:InterPro.
+DR   GO; GO:0055114; P:oxidation-reduction process; IEA:InterPro.
+DR   InterPro; IPR000391; Rng_hydr_dOase-bsu.
+DR   Pfam; PF00866; Ring_hydroxyl_B; 1.
+PE   4: Predicted;
+SQ   SEQUENCE   172 AA;  19813 MW;  04414A24394B18A3 CRC64;
+     MNTQTRVSDT TVREITEWLY MEAELLDAGK YREWLALVTE DLSYVVPIRV TREREAVTDV
+     VEGMTHMDDD ADSMEMRVLR LETEYAWAED PPSRSRHFVT NVRVATGDSE DEFKVTSNLL
+     LYRTRGDVAT YDVLSGERTD VLRRAGDSFL MAKRVVLLDQ TTIMTHNLAL IM
+//

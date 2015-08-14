@@ -1,0 +1,116 @@
+ID   XYLA_GEOSE              Reviewed;         441 AA.
+AC   P54273;
+DT   01-OCT-1996, integrated into UniProtKB/Swiss-Prot.
+DT   15-JUL-1998, sequence version 2.
+DT   07-JAN-2015, entry version 92.
+DE   RecName: Full=Xylose isomerase;
+DE            EC=5.3.1.5;
+GN   Name=xylA;
+OS   Geobacillus stearothermophilus (Bacillus stearothermophilus).
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Geobacillus.
+OX   NCBI_TaxID=1422;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=NCIMB 12403 / LLD-R;
+RA   Jackson R., Brannigan J., Taylor M.;
+RL   Submitted (MAY-1996) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (3.0 ANGSTROMS), AND SEQUENCE REVISION TO 248.
+RC   STRAIN=NCIMB 12403 / LLD-R;
+RA   Gallay O., Chopra R., Conti E., Brick P., Jackson R., Hartley B.,
+RA   Vieille C., Zeikus J.G., Blow D.;
+RT   "Crystal structures of class II xylose isomerases from two
+RT   thermophiles and a hyperthermophile.";
+RL   Submitted (NOV-1997) to the PDB data bank.
+CC   -!- CATALYTIC ACTIVITY: D-xylopyranose = D-xylulose.
+CC   -!- COFACTOR:
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC       Note=Binds 2 manganese ions per subunit.;
+CC   -!- SUBUNIT: Homotetramer.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm.
+CC   -!- SIMILARITY: Belongs to the xylose isomerase family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X98088; CAA66715.1; -; Genomic_DNA.
+DR   PDB; 1A0D; X-ray; 3.00 A; A/B/C/D=2-441.
+DR   PDBsum; 1A0D; -.
+DR   ProteinModelPortal; P54273; -.
+DR   SMR; P54273; 2-438.
+DR   EvolutionaryTrace; P54273; -.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0009045; F:xylose isomerase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0042732; P:D-xylose metabolic process; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0006098; P:pentose-phosphate shunt; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 3.20.20.150; -; 1.
+DR   HAMAP; MF_00455; Xylose_isom_A; 1.
+DR   InterPro; IPR013022; Xyl_isomerase-like_TIM-brl.
+DR   InterPro; IPR013452; Xylose_isom_bac.
+DR   InterPro; IPR001998; Xylose_isomerase.
+DR   Pfam; PF01261; AP_endonuc_2; 1.
+DR   PRINTS; PR00688; XYLOSISMRASE.
+DR   SUPFAM; SSF51658; SSF51658; 1.
+DR   TIGRFAMs; TIGR02630; xylose_isom_A; 1.
+DR   PROSITE; PS51415; XYLOSE_ISOMERASE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Carbohydrate metabolism; Cytoplasm; Isomerase;
+KW   Manganese; Metal-binding; Pentose shunt; Xylose metabolism.
+FT   CHAIN         1    441       Xylose isomerase.
+FT                                /FTId=PRO_0000195766.
+FT   ACT_SITE     99     99
+FT   ACT_SITE    102    102       {ECO:0000250}.
+FT   METAL       230    230       Manganese 1.
+FT   METAL       266    266       Manganese 1.
+FT   METAL       266    266       Manganese 2.
+FT   METAL       294    294       Manganese 1.
+FT   METAL       305    305       Manganese 2.
+FT   METAL       307    307       Manganese 2.
+FT   METAL       337    337       Manganese 1.
+FT   CONFLICT    248    248       A -> R (in Ref. 1; CAA66715).
+FT                                {ECO:0000305}.
+FT   STRAND       22     25       {ECO:0000244|PDB:1A0D}.
+FT   HELIX        37     41       {ECO:0000244|PDB:1A0D}.
+FT   STRAND       43     46       {ECO:0000244|PDB:1A0D}.
+FT   HELIX        47     52       {ECO:0000244|PDB:1A0D}.
+FT   HELIX        67     70       {ECO:0000244|PDB:1A0D}.
+FT   HELIX        73     91       {ECO:0000244|PDB:1A0D}.
+FT   STRAND       94     99       {ECO:0000244|PDB:1A0D}.
+FT   HELIX       100    103       {ECO:0000244|PDB:1A0D}.
+FT   HELIX       110    128       {ECO:0000244|PDB:1A0D}.
+FT   STRAND      134    139       {ECO:0000244|PDB:1A0D}.
+FT   STRAND      143    145       {ECO:0000244|PDB:1A0D}.
+FT   HELIX       146    148       {ECO:0000244|PDB:1A0D}.
+FT   HELIX       158    178       {ECO:0000244|PDB:1A0D}.
+FT   STRAND      181    185       {ECO:0000244|PDB:1A0D}.
+FT   STRAND      190    193       {ECO:0000244|PDB:1A0D}.
+FT   HELIX       195    197       {ECO:0000244|PDB:1A0D}.
+FT   HELIX       200    220       {ECO:0000244|PDB:1A0D}.
+FT   STRAND      225    229       {ECO:0000244|PDB:1A0D}.
+FT   STRAND      235    242       {ECO:0000244|PDB:1A0D}.
+FT   HELIX       245    254       {ECO:0000244|PDB:1A0D}.
+FT   HELIX       258    260       {ECO:0000244|PDB:1A0D}.
+FT   STRAND      261    266       {ECO:0000244|PDB:1A0D}.
+FT   HELIX       267    272       {ECO:0000244|PDB:1A0D}.
+FT   HELIX       277    286       {ECO:0000244|PDB:1A0D}.
+FT   STRAND      290    294       {ECO:0000244|PDB:1A0D}.
+FT   STRAND      302    304       {ECO:0000244|PDB:1A0D}.
+FT   HELIX       313    325       {ECO:0000244|PDB:1A0D}.
+FT   STRAND      334    336       {ECO:0000244|PDB:1A0D}.
+FT   HELIX       348    373       {ECO:0000244|PDB:1A0D}.
+FT   HELIX       376    384       {ECO:0000244|PDB:1A0D}.
+FT   HELIX       386    388       {ECO:0000244|PDB:1A0D}.
+FT   HELIX       391    398       {ECO:0000244|PDB:1A0D}.
+FT   HELIX       403    411       {ECO:0000244|PDB:1A0D}.
+FT   HELIX       423    435       {ECO:0000244|PDB:1A0D}.
+SQ   SEQUENCE   441 AA;  50142 MW;  78BB39852919D017 CRC64;
+     MPYFDNISTI AYEGPASKNP LAFKFYNPEE KVGDKTMEEH LRFSVAYWHT FTGDGSDPFG
+     AGNMIRPWNK YSGMDLAKAR VEAAFEFFEK LNIPFFCFHD VDIAPEGETL KETYKNLDII
+     VDMIEEYMKT SKTKLLWNTA NLFTHPRFVH GAATSCNADV FAYAAAKVKK GLEIAKRLGA
+     ENYVFWGGRE GYETLLNTDM KLELDNLARF LHMAVDYAKE IGFDGQFLIE PKPKEPTKHQ
+     YDFDVATALA FLQTYGLKDY FKFNIEANHA TLAGHTFEHE LRVARIHGML GSVDANQGDM
+     LLGWDTDEFP TDLYSTTLAM YEILKNGGLG RGGLNFDAKV RRGSFEPEDL FYAHIAGMDS
+     FAVGLKVAHR LIEDRVFDEF IEERYKSYTE GIGREIVEGT ADFHKLEAHA LQLGEIQNQS
+     GRQERLKTLL NQYLLEVCAA R
+//

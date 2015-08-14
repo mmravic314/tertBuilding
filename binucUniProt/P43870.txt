@@ -1,0 +1,125 @@
+ID   T2D3_HAEIN              Reviewed;         300 AA.
+AC   P43870;
+DT   01-NOV-1995, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1995, sequence version 1.
+DT   22-JUL-2015, entry version 93.
+DE   RecName: Full=Type-2 restriction enzyme HindIII;
+DE            Short=R.HindIII;
+DE            EC=3.1.21.4;
+DE   AltName: Full=Endonuclease HindIII;
+DE   AltName: Full=Type II restriction enzyme HindIII;
+GN   Name=hindIIIR; OrderedLocusNames=HI_1393;
+OS   Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pasteurellales;
+OC   Pasteurellaceae; Haemophilus.
+OX   NCBI_TaxID=71421;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND PROTEIN SEQUENCE OF 1-26.
+RC   STRAIN=ATCC 51907 / DSM 11121 / KW20 / Rd;
+RX   PubMed=7959067; DOI=10.1016/0378-1119(94)90861-3;
+RA   Nwankwo D.O., Moran L.S., Slatko B.E., Waite-Rees P.A., Dorner L.F.,
+RA   Benner J.S., Wilson G.G.;
+RT   "Cloning, analysis and expression of the HindIII R-M-encoding genes.";
+RL   Gene 150:75-80(1994).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 51907 / DSM 11121 / KW20 / Rd;
+RX   PubMed=7542800; DOI=10.1126/science.7542800;
+RA   Fleischmann R.D., Adams M.D., White O., Clayton R.A., Kirkness E.F.,
+RA   Kerlavage A.R., Bult C.J., Tomb J.-F., Dougherty B.A., Merrick J.M.,
+RA   McKenney K., Sutton G.G., FitzHugh W., Fields C.A., Gocayne J.D.,
+RA   Scott J.D., Shirley R., Liu L.-I., Glodek A., Kelley J.M.,
+RA   Weidman J.F., Phillips C.A., Spriggs T., Hedblom E., Cotton M.D.,
+RA   Utterback T.R., Hanna M.C., Nguyen D.T., Saudek D.M., Brandon R.C.,
+RA   Fine L.D., Fritchman J.L., Fuhrmann J.L., Geoghagen N.S.M.,
+RA   Gnehm C.L., McDonald L.A., Small K.V., Fraser C.M., Smith H.O.,
+RA   Venter J.C.;
+RT   "Whole-genome random sequencing and assembly of Haemophilus influenzae
+RT   Rd.";
+RL   Science 269:496-512(1995).
+CC   -!- FUNCTION: Recognizes the double-stranded sequence AAGCTT and
+CC       cleaves after A-1.
+CC   -!- CATALYTIC ACTIVITY: Endonucleolytic cleavage of DNA to give
+CC       specific double-stranded fragments with terminal 5'-phosphates.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; L15391; AAA61958.1; -; Genomic_DNA.
+DR   EMBL; L42023; AAC23040.1; -; Genomic_DNA.
+DR   PIR; H64121; H64121.
+DR   RefSeq; NP_439547.1; NC_000907.1.
+DR   PDB; 2E52; X-ray; 2.00 A; A/B/C/D=1-300.
+DR   PDB; 3A4K; X-ray; 2.17 A; A/B/C/D=1-300.
+DR   PDB; 3WVG; X-ray; 2.25 A; A/B/C/D=1-300.
+DR   PDB; 3WVH; X-ray; 2.54 A; A/B/C/D=1-300.
+DR   PDB; 3WVI; X-ray; 2.55 A; A/B/C/D=1-300.
+DR   PDB; 3WVK; X-ray; 2.00 A; A/B/C/D=1-300.
+DR   PDB; 3WVP; X-ray; 2.30 A; A/B/C/D=1-300.
+DR   PDBsum; 2E52; -.
+DR   PDBsum; 3A4K; -.
+DR   PDBsum; 3WVG; -.
+DR   PDBsum; 3WVH; -.
+DR   PDBsum; 3WVI; -.
+DR   PDBsum; 3WVK; -.
+DR   PDBsum; 3WVP; -.
+DR   ProteinModelPortal; P43870; -.
+DR   SMR; P43870; 2-300.
+DR   STRING; 71421.HI1393; -.
+DR   BindingDB; P43870; -.
+DR   ChEMBL; CHEMBL5004; -.
+DR   REBASE; 1151; HindIII.
+DR   EnsemblBacteria; AAC23040; AAC23040; HI_1393.
+DR   GeneID; 950303; -.
+DR   KEGG; hin:HI1393; -.
+DR   PATRIC; 20191483; VBIHaeInf48452_1452.
+DR   eggNOG; NOG45031; -.
+DR   KO; K01155; -.
+DR   OMA; DINMSSK; -.
+DR   OrthoDB; EOG686NN8; -.
+DR   EvolutionaryTrace; P43870; -.
+DR   PRO; PR:P43870; -.
+DR   Proteomes; UP000000579; Chromosome.
+DR   GO; GO:0009036; F:Type II site-specific deoxyribonuclease activity; IEA:UniProtKB-EC.
+DR   GO; GO:0009307; P:DNA restriction-modification system; IEA:UniProtKB-KW.
+DR   InterPro; IPR019043; Restrct_endonuc_II_HindIII.
+DR   Pfam; PF09518; RE_HindIII; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Direct protein sequencing;
+KW   Endonuclease; Hydrolase; Nuclease; Reference proteome;
+KW   Restriction system.
+FT   CHAIN         1    300       Type-2 restriction enzyme HindIII.
+FT                                /FTId=PRO_0000077321.
+FT   HELIX         5     15       {ECO:0000244|PDB:2E52}.
+FT   TURN         16     18       {ECO:0000244|PDB:2E52}.
+FT   HELIX        21     33       {ECO:0000244|PDB:2E52}.
+FT   HELIX        37     47       {ECO:0000244|PDB:2E52}.
+FT   HELIX        59     78       {ECO:0000244|PDB:2E52}.
+FT   STRAND       81     85       {ECO:0000244|PDB:2E52}.
+FT   STRAND       89     91       {ECO:0000244|PDB:3WVK}.
+FT   STRAND       94    103       {ECO:0000244|PDB:2E52}.
+FT   STRAND      105    110       {ECO:0000244|PDB:2E52}.
+FT   HELIX       122    125       {ECO:0000244|PDB:2E52}.
+FT   HELIX       127    133       {ECO:0000244|PDB:2E52}.
+FT   TURN        134    136       {ECO:0000244|PDB:2E52}.
+FT   STRAND      137    144       {ECO:0000244|PDB:2E52}.
+FT   HELIX       146    148       {ECO:0000244|PDB:2E52}.
+FT   STRAND      151    153       {ECO:0000244|PDB:2E52}.
+FT   HELIX       155    163       {ECO:0000244|PDB:2E52}.
+FT   STRAND      165    169       {ECO:0000244|PDB:2E52}.
+FT   HELIX       170    178       {ECO:0000244|PDB:2E52}.
+FT   HELIX       190    193       {ECO:0000244|PDB:2E52}.
+FT   HELIX       195    200       {ECO:0000244|PDB:2E52}.
+FT   HELIX       205    207       {ECO:0000244|PDB:2E52}.
+FT   HELIX       213    224       {ECO:0000244|PDB:2E52}.
+FT   HELIX       228    261       {ECO:0000244|PDB:2E52}.
+FT   HELIX       265    275       {ECO:0000244|PDB:2E52}.
+FT   HELIX       278    293       {ECO:0000244|PDB:2E52}.
+FT   HELIX       295    298       {ECO:0000244|PDB:2E52}.
+SQ   SEQUENCE   300 AA;  34952 MW;  62F62AC4B18E841B CRC64;
+     MKKSALEKLL SLIENLTNQE FKQATNSLIS FIYKLNRNEV IELVRSIGIL PEAIKPSSTQ
+     EKLFSKAGDI VLAKAFQLLN LNSKPLEQRG NAGDVIALSK EFNYGLVADA KSFRLSRTAK
+     NQKDFKVKAL SEWREDKDYA VLTAPFFQYP TTKSQIFKQS LDENVLLFSW EHLAILLQLD
+     LEETNIFSFE QLWNFPKKQS KKTSVSDAEN NFMRDFNKYF MDLFKIDKDT LNQLLQKEIN
+     FIEERSLIEK EYWKKQINII KNFTREEAIE ALLKDINMSS KIETIDSFIK GIKSNDRLYL
+//

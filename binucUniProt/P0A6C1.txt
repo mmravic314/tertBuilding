@@ -1,0 +1,209 @@
+ID   END4_ECOLI              Reviewed;         285 AA.
+AC   P0A6C1; P12638; P78086; Q2MAS0;
+DT   07-JUN-2005, integrated into UniProtKB/Swiss-Prot.
+DT   07-JUN-2005, sequence version 1.
+DT   22-JUL-2015, entry version 100.
+DE   RecName: Full=Endonuclease 4;
+DE            EC=3.1.21.2;
+DE   AltName: Full=Endodeoxyribonuclease IV;
+DE   AltName: Full=Endonuclease IV;
+GN   Name=nfo; OrderedLocusNames=b2159, JW2146;
+OS   Escherichia coli (strain K12).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=83333;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=K12;
+RX   PubMed=2460435;
+RA   Saporito S.M., Cunningham R.P.;
+RT   "Nucleotide sequence of the nfo gene of Escherichia coli K-12.";
+RL   J. Bacteriol. 170:5141-5145(1988).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / BHB2600;
+RA   Richterich P., Lakey N., Gryan G., Jaehn L., Mintz L., Robison K.,
+RA   Church G.M.;
+RT   "Automated multiplex sequencing of the E.coli genome.";
+RL   Submitted (OCT-1993) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / MG1655 / ATCC 47076;
+RX   PubMed=9278503; DOI=10.1126/science.277.5331.1453;
+RA   Blattner F.R., Plunkett G. III, Bloch C.A., Perna N.T., Burland V.,
+RA   Riley M., Collado-Vides J., Glasner J.D., Rode C.K., Mayhew G.F.,
+RA   Gregor J., Davis N.W., Kirkpatrick H.A., Goeden M.A., Rose D.J.,
+RA   Mau B., Shao Y.;
+RT   "The complete genome sequence of Escherichia coli K-12.";
+RL   Science 277:1453-1462(1997).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / W3110 / ATCC 27325 / DSM 5911;
+RX   PubMed=16738553; DOI=10.1038/msb4100049;
+RA   Hayashi K., Morooka N., Yamamoto Y., Fujita K., Isono K., Choi S.,
+RA   Ohtsubo E., Baba T., Wanner B.L., Mori H., Horiuchi T.;
+RT   "Highly accurate genome sequences of Escherichia coli K-12 strains
+RT   MG1655 and W3110.";
+RL   Mol. Syst. Biol. 2:E1-E5(2006).
+RN   [5]
+RP   METAL-BINDING STUDIES.
+RX   PubMed=1720775;
+RA   Levin J.D., Shapiro R., Demple B.;
+RT   "Metalloenzymes in DNA repair. Escherichia coli endonuclease IV and
+RT   Saccharomyces cerevisiae Apn1.";
+RL   J. Biol. Chem. 266:22893-22898(1991).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (1.02 ANGSTROMS).
+RX   PubMed=10458614; DOI=10.1016/S0092-8674(00)81968-6;
+RA   Hosfield D.J., Guan Y., Haas B.J., Cunningham R.P., Tainer J.A.;
+RT   "Structure of the DNA repair enzyme endonuclease IV and its DNA
+RT   complex: double-nucleotide flipping at abasic sites and three-metal-
+RT   ion catalysis.";
+RL   Cell 98:397-408(1999).
+CC   -!- FUNCTION: Endonuclease IV plays a role in DNA repair. It cleaves
+CC       phosphodiester bonds at apurinic or apyrimidinic sites (AP sites)
+CC       to produce new 5'-ends that are base-free deoxyribose 5-phosphate
+CC       residues. It preferentially attacks modified AP sites created by
+CC       bleomycin and neocarzinostatin.
+CC   -!- CATALYTIC ACTIVITY: Endonucleolytic cleavage to 5'-
+CC       phosphooligonucleotide end-products.
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC       Note=Binds 3 Zn(2+) ions. Can also bind Mn(2+) ions.;
+CC   -!- SUBUNIT: Monomer.
+CC   -!- INDUCTION: Endonuclease IV is induced by agents which generate
+CC       superoxide radical anions.
+CC   -!- SIMILARITY: Belongs to the AP endonuclease 2 family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M22591; AAA24216.1; -; Genomic_DNA.
+DR   EMBL; U00007; AAA60529.1; -; Genomic_DNA.
+DR   EMBL; U00096; AAC75220.1; -; Genomic_DNA.
+DR   EMBL; AP009048; BAE76636.1; -; Genomic_DNA.
+DR   PIR; F64984; NDEC4.
+DR   RefSeq; NP_416664.1; NC_000913.3.
+DR   RefSeq; WP_000873894.1; NZ_CP010445.1.
+DR   PDB; 1QTW; X-ray; 1.02 A; A=1-285.
+DR   PDB; 1QUM; X-ray; 1.55 A; A=1-285.
+DR   PDB; 2NQ9; X-ray; 1.45 A; A=1-285.
+DR   PDB; 2NQH; X-ray; 1.10 A; A=1-285.
+DR   PDB; 2NQJ; X-ray; 2.45 A; A/B=1-285.
+DR   PDB; 4K1G; X-ray; 1.90 A; A/B=1-285.
+DR   PDBsum; 1QTW; -.
+DR   PDBsum; 1QUM; -.
+DR   PDBsum; 2NQ9; -.
+DR   PDBsum; 2NQH; -.
+DR   PDBsum; 2NQJ; -.
+DR   PDBsum; 4K1G; -.
+DR   ProteinModelPortal; P0A6C1; -.
+DR   SMR; P0A6C1; 1-285.
+DR   DIP; DIP-47966N; -.
+DR   IntAct; P0A6C1; 10.
+DR   MINT; MINT-1242700; -.
+DR   STRING; 511145.b2159; -.
+DR   ChEMBL; CHEMBL1293285; -.
+DR   PaxDb; P0A6C1; -.
+DR   PRIDE; P0A6C1; -.
+DR   EnsemblBacteria; AAC75220; AAC75220; b2159.
+DR   EnsemblBacteria; BAE76636; BAE76636; BAE76636.
+DR   GeneID; 946669; -.
+DR   KEGG; eco:b2159; -.
+DR   PATRIC; 32119667; VBIEscCol129921_2244.
+DR   EchoBASE; EB0645; -.
+DR   EcoGene; EG10651; nfo.
+DR   eggNOG; COG0648; -.
+DR   HOGENOM; HOG000224893; -.
+DR   InParanoid; P0A6C1; -.
+DR   KO; K01151; -.
+DR   OMA; MKYVGAH; -.
+DR   OrthoDB; EOG6Z0QCM; -.
+DR   PhylomeDB; P0A6C1; -.
+DR   BioCyc; EcoCyc:EG10651-MONOMER; -.
+DR   BioCyc; ECOL316407:JW2146-MONOMER; -.
+DR   BioCyc; MetaCyc:EG10651-MONOMER; -.
+DR   BRENDA; 3.1.21.2; 2026.
+DR   EvolutionaryTrace; P0A6C1; -.
+DR   PRO; PR:P0A6C1; -.
+DR   Proteomes; UP000000318; Chromosome.
+DR   Proteomes; UP000000625; Chromosome.
+DR   GO; GO:0008833; F:deoxyribonuclease IV (phage-T4-induced) activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0003906; F:DNA-(apurinic or apyrimidinic site) lyase activity; IBA:GO_Central.
+DR   GO; GO:0004519; F:endonuclease activity; IDA:EcoCyc.
+DR   GO; GO:0008081; F:phosphoric diester hydrolase activity; IBA:GO_Central.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0006284; P:base-excision repair; IBA:GO_Central.
+DR   GO; GO:0000726; P:non-recombinational repair; IDA:EcoCyc.
+DR   GO; GO:0090305; P:nucleic acid phosphodiester bond hydrolysis; IDA:GOC.
+DR   Gene3D; 3.20.20.150; -; 1.
+DR   HAMAP; MF_00152; Nfo; 1.
+DR   InterPro; IPR001719; AP_endonuc_2.
+DR   InterPro; IPR018246; AP_endonuc_F2_Zn_BS.
+DR   InterPro; IPR013022; Xyl_isomerase-like_TIM-brl.
+DR   PANTHER; PTHR21445; PTHR21445; 1.
+DR   Pfam; PF01261; AP_endonuc_2; 1.
+DR   SMART; SM00518; AP2Ec; 1.
+DR   SUPFAM; SSF51658; SSF51658; 1.
+DR   TIGRFAMs; TIGR00587; nfo; 1.
+DR   PROSITE; PS00729; AP_NUCLEASE_F2_1; 1.
+DR   PROSITE; PS00730; AP_NUCLEASE_F2_2; 1.
+DR   PROSITE; PS00731; AP_NUCLEASE_F2_3; 1.
+DR   PROSITE; PS51432; AP_NUCLEASE_F2_4; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; DNA damage; DNA repair; Endonuclease;
+KW   Hydrolase; Manganese; Metal-binding; Nuclease; Reference proteome;
+KW   Zinc.
+FT   CHAIN         1    285       Endonuclease 4.
+FT                                /FTId=PRO_0000190838.
+FT   METAL        69     69       Zinc 1.
+FT   METAL       109    109       Zinc 1.
+FT   METAL       145    145       Zinc 1.
+FT   METAL       145    145       Zinc 2.
+FT   METAL       179    179       Zinc 2.
+FT   METAL       182    182       Zinc 3.
+FT   METAL       216    216       Zinc 2.
+FT   METAL       229    229       Zinc 3.
+FT   METAL       231    231       Zinc 3.
+FT   METAL       261    261       Zinc 2.
+FT   CONFLICT     10     10       A -> R (in Ref. 1; AAA24216).
+FT                                {ECO:0000305}.
+FT   CONFLICT    273    273       A -> T (in Ref. 2; AAA60529).
+FT                                {ECO:0000305}.
+FT   STRAND        3      7       {ECO:0000244|PDB:1QTW}.
+FT   HELIX        14     23       {ECO:0000244|PDB:1QTW}.
+FT   STRAND       27     30       {ECO:0000244|PDB:1QTW}.
+FT   STRAND       32     34       {ECO:0000244|PDB:4K1G}.
+FT   HELIX        46     58       {ECO:0000244|PDB:1QTW}.
+FT   HELIX        63     65       {ECO:0000244|PDB:1QTW}.
+FT   STRAND       66     69       {ECO:0000244|PDB:1QUM}.
+FT   HELIX        81    100       {ECO:0000244|PDB:1QTW}.
+FT   STRAND      105    108       {ECO:0000244|PDB:1QTW}.
+FT   TURN        114    116       {ECO:0000244|PDB:1QTW}.
+FT   HELIX       119    136       {ECO:0000244|PDB:1QTW}.
+FT   STRAND      141    145       {ECO:0000244|PDB:1QTW}.
+FT   HELIX       158    167       {ECO:0000244|PDB:1QTW}.
+FT   HELIX       171    173       {ECO:0000244|PDB:1QTW}.
+FT   STRAND      174    179       {ECO:0000244|PDB:1QTW}.
+FT   HELIX       180    186       {ECO:0000244|PDB:1QTW}.
+FT   HELIX       193    206       {ECO:0000244|PDB:1QTW}.
+FT   HELIX       209    211       {ECO:0000244|PDB:1QTW}.
+FT   STRAND      212    217       {ECO:0000244|PDB:1QTW}.
+FT   STRAND      219    222       {ECO:0000244|PDB:1QTW}.
+FT   TURN        234    236       {ECO:0000244|PDB:1QTW}.
+FT   STRAND      237    239       {ECO:0000244|PDB:1QTW}.
+FT   HELIX       242    248       {ECO:0000244|PDB:1QTW}.
+FT   HELIX       251    253       {ECO:0000244|PDB:1QTW}.
+FT   STRAND      256    260       {ECO:0000244|PDB:1QTW}.
+FT   HELIX       265    267       {ECO:0000244|PDB:1QTW}.
+FT   HELIX       268    278       {ECO:0000244|PDB:1QTW}.
+SQ   SEQUENCE   285 AA;  31480 MW;  EAAE5861E54C47FD CRC64;
+     MKYIGAHVSA AGGLANAAIR AAEIDATAFA LFTKNQRQWR AAPLTTQTID EFKAACEKYH
+     YTSAQILPHD SYLINLGHPV TEALEKSRDA FIDEMQRCEQ LGLSLLNFHP GSHLMQISEE
+     DCLARIAESI NIALDKTQGV TAVIENTAGQ GSNLGFKFEH LAAIIDGVED KSRVGVCIDT
+     CHAFAAGYDL RTPAECEKTF ADFARTVGFK YLRGMHLNDA KSTFGSRVDR HHSLGEGNIG
+     HDAFRWIMQD DRFDGIPLIL ETINPDIWAE EIAWLKAQQT EKAVA
+//

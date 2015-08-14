@@ -1,0 +1,105 @@
+ID   Q0KFV0_SOLLC            Unreviewed;       302 AA.
+AC   Q0KFV0;
+DT   03-OCT-2006, integrated into UniProtKB/TrEMBL.
+DT   03-OCT-2006, sequence version 1.
+DT   24-JUN-2015, entry version 50.
+DE   SubName: Full=Putative endonuclease {ECO:0000313|EMBL:CAJ87709.1};
+DE   Flags: Precursor;
+GN   Name=tbn1 {ECO:0000313|EMBL:CAJ87709.1};
+OS   Solanum lycopersicum (Tomato) (Lycopersicon esculentum).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; asterids; lamiids; Solanales; Solanaceae; Solanoideae;
+OC   Solaneae; Solanum; Lycopersicon.
+OX   NCBI_TaxID=4081 {ECO:0000313|EMBL:CAJ87709.1};
+RN   [1] {ECO:0000313|EMBL:CAJ87709.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   TISSUE=Leaf veins {ECO:0000313|EMBL:CAJ87709.1};
+RX   PubMed=17214544; DOI=10.1515/BC.2007.001;
+RA   Matousek J., Kozlova P., Orctova L., Schmitz A., Pesina K.,
+RA   Bannach O., Diermann N., Steger G., Riesner D.;
+RT   "Accumulation of viroid-specific small RNAs and increase in
+RT   nucleolytic activities linked to viroid-caused pathogenesis.";
+RL   Biol. Chem. 388:1-13(2007).
+RN   [2] {ECO:0000213|PDB:3SNG, ECO:0000213|PDB:4DJ4}
+RP   X-RAY CRYSTALLOGRAPHY (2.16 ANGSTROMS) OF 26-302 IN COMPLEX WITH
+RP   MANNOSE AND ZINC, DISULFIDE BONDS, AND GLYCOSYLATION AT ASN-119;
+RP   ASN-137 AND ASN-211.
+RX   PubMed=23385457; DOI=10.1107/S0907444912043697;
+RA   Koval' T., Lipovova P., Podzimek T., Matousek J., Duskova J.,
+RA   Skalova T., Stepankova A., Hasek J., Dohnalek J.;
+RT   "Plant multifunctional nuclease TBN1 with unexpected phospholipase
+RT   activity: structural study and reaction-mechanism analysis.";
+RL   Acta Crystallogr. D 69:213-226(2013).
+RN   [3] {ECO:0000213|PDB:4JDG}
+RP   X-RAY CRYSTALLOGRAPHY (2.74 ANGSTROMS) OF 26-302 IN COMPLEX WITH
+RP   MANNOSE AND ZINC, DISULFIDE BONDS, AND GLYCOSYLATION AT ASN-119 AND
+RP   ASN-137.
+RA   Stransky J., Koval T., Podzimek T., Lipovova P., Matousek J.,
+RA   Dohnalek J.;
+RT   "Plant nuclease TBN1 involved in apoptotic processes blocks its active
+RT   site by a surface loop.";
+RL   Submitted (FEB-2013) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AM238701; CAJ87709.1; -; mRNA.
+DR   RefSeq; NP_001234227.1; NM_001247298.1.
+DR   UniGene; Les.18298; -.
+DR   PDB; 3SNG; X-ray; 2.16 A; A=26-302.
+DR   PDB; 4DJ4; X-ray; 2.35 A; A/B=26-302.
+DR   PDB; 4JDG; X-ray; 2.74 A; A=26-302.
+DR   PDBsum; 3SNG; -.
+DR   PDBsum; 4DJ4; -.
+DR   PDBsum; 4JDG; -.
+DR   ProteinModelPortal; Q0KFV0; -.
+DR   STRING; 4081.Solyc02g078910.2.1; -.
+DR   GeneID; 100037736; -.
+DR   KEGG; sly:100037736; -.
+DR   GO; GO:0004519; F:endonuclease activity; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003676; F:nucleic acid binding; IEA:InterPro.
+DR   GO; GO:0006308; P:DNA catabolic process; IEA:InterPro.
+DR   Gene3D; 1.10.575.10; -; 1.
+DR   InterPro; IPR008947; PLipase_C/P1_nuclease.
+DR   InterPro; IPR003154; S1/P1nuclease.
+DR   Pfam; PF02265; S1-P1_nuclease; 1.
+DR   SUPFAM; SSF48537; SSF48537; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Endonuclease {ECO:0000313|EMBL:CAJ87709.1};
+KW   Hydrolase {ECO:0000313|EMBL:CAJ87709.1}; Metal-binding;
+KW   Nuclease {ECO:0000313|EMBL:CAJ87709.1};
+KW   Signal {ECO:0000313|EMBL:CAJ87709.1}; Zinc.
+FT   SIGNAL        1     25       Potential. {ECO:0000313|EMBL:CAJ87709.1}.
+FT   CHAIN        26    302       putative endonuclease.
+FT                                {ECO:0000313|EMBL:CAJ87709.1}.
+FT                                /FTId=PRO_5000079754.
+FT   METAL        26     26       Zinc 1.
+FT   METAL        31     31       Zinc 1; via tele nitrogen.
+FT   METAL        70     70       Zinc 2.
+FT   METAL        85     85       Zinc 2; via pros nitrogen.
+FT   METAL       133    133       Zinc 3. {ECO:0000213|PDB:4DJ4}.
+FT   METAL       147    147       Zinc 2; via tele nitrogen.
+FT   METAL       151    151       Zinc 1.
+FT   METAL       151    151       Zinc 2.
+FT   METAL       157    157       Zinc 3; via tele nitrogen.
+FT   METAL       181    181       Zinc 3; via tele nitrogen.
+FT   METAL       185    185       Zinc 3.
+FT   BINDING      57     57       Mannose. {ECO:0000213|PDB:4DJ4,
+FT                                ECO:0000213|PDB:4JDG}.
+FT   CARBOHYD    119    119       N-linked (GlcNAc...).
+FT   CARBOHYD    137    137       N-linked (GlcNAc...).
+FT   CARBOHYD    211    211       N-linked (GlcNAc...).
+FT   DISULFID     35     66
+FT   DISULFID     94    246
+FT   DISULFID    102    112
+FT   DISULFID    227    233
+SQ   SEQUENCE   302 AA;  34413 MW;  549B386D2D3FB2E4 CRC64;
+     MLRLTLLSSI FFLCVAFINQ HGVEAWSKEG HVMTCRIAQG LLNDEAAHAV KMLLPEYVNG
+     DLSALCVWPD QVRHWYKYKW TSPLHFIDTP DKACNFDYER DCHDQHGVKD MCVAGAIQNF
+     TTQLSHYREG TSDRRYNMTE ALLFLSHFMG DIHQPMHVGF TSDAGGNSID LRWFRHKSNL
+     HHVWDREIIL TAAKDYYAKD INLLEEDIEG NFTDGIWSDD LASWRECGNV FSCVNKFATE
+     SINIACKWGY KGVEAGETLS DDYFNSRLPI VMKRVAQGGI RLAMLLNNVF GASQQEDSVV
+     AT
+//

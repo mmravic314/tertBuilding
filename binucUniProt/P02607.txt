@@ -1,0 +1,148 @@
+ID   MYL6_CHICK              Reviewed;         151 AA.
+AC   P02607; P08296;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   27-MAY-2015, entry version 117.
+DE   RecName: Full=Myosin light polypeptide 6;
+DE   AltName: Full=G2 catalytic;
+DE   AltName: Full=LC17-GI;
+DE   AltName: Full=LC17-NM;
+DE   AltName: Full=Myosin light chain alkali smooth-muscle/non-muscle isoforms;
+GN   Name=MYL6;
+OS   Gallus gallus (Chicken).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+OC   Coelurosauria; Aves; Neognathae; Galloanserae; Galliformes;
+OC   Phasianidae; Phasianinae; Gallus.
+OX   NCBI_TaxID=9031;
+RN   [1]
+RP   PROTEIN SEQUENCE (ISOFORM 1), AND ACETYLATION AT CYS-2.
+RX   PubMed=7319048; DOI=10.1016/0014-5793(81)80789-2;
+RA   Matsuda G., Maita T., Kato Y., Chen J., Umegane T.;
+RT   "Amino acid sequences of the cardiac L-2A, L-2B and gizzard 17 000-Mr
+RT   light chains of chicken muscle myosin.";
+RL   FEBS Lett. 135:232-236(1981).
+RN   [2]
+RP   PROTEIN SEQUENCE (ISOFORM 1).
+RX   PubMed=6870825;
+RA   Grand R.J., Perry S.V.;
+RT   "Preparation of the alkali and P light chains of chicken gizzard
+RT   myosin. Amino acid sequence of the alkali light chain.";
+RL   Biochem. J. 211:267-272(1983).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 1 AND 2).
+RC   TISSUE=Fibroblast, and Gizzard;
+RX   PubMed=3038890;
+RA   Nabeshima Y., Nabeshima Y., Nonomura Y., Fujii-Kuriyama Y.;
+RT   "Nonmuscle and smooth muscle myosin light chain mRNAs are generated
+RT   from a single gene by the tissue-specific alternative RNA splicing.";
+RL   J. Biol. Chem. 262:10608-10612(1987).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (3.5 ANGSTROMS) (ISOFORM 1).
+RX   PubMed=9741621; DOI=10.1016/S0092-8674(00)81598-6;
+RA   Dominguez R., Freyzon Y., Trybus K.M., Cohen C.;
+RT   "Crystal structure of a vertebrate smooth muscle myosin motor domain
+RT   and its complex with the essential light chain: visualization of the
+RT   pre-power stroke state.";
+RL   Cell 94:559-571(1998).
+CC   -!- FUNCTION: Regulatory light chain of myosin. Does not bind calcium.
+CC   -!- SUBUNIT: Myosin is a hexamer of 2 heavy chains and 4 light chains.
+CC   -!- INTERACTION:
+CC       P10587:MYH11; NbExp=2; IntAct=EBI-1027073, EBI-1027098;
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1; Synonyms=Smooth muscle, MLC3sm;
+CC         IsoId=P02607-1; Sequence=Displayed;
+CC       Name=2; Synonyms=Non-muscle, MLC3nm;
+CC         IsoId=P02607-2, P08296-1;
+CC         Sequence=VSP_017063;
+CC   -!- SIMILARITY: Contains 3 EF-hand domains. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00448}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M15645; AAA48978.1; -; mRNA.
+DR   EMBL; M15646; AAA48979.1; -; mRNA.
+DR   PIR; A28488; MOCHG2.
+DR   PIR; B28488; MOCH6N.
+DR   UniGene; Gga.840; -.
+DR   PDB; 1BR1; X-ray; 3.50 A; B/D/F/H=2-151.
+DR   PDB; 1BR4; X-ray; 3.62 A; B/D/F/H=2-151.
+DR   PDB; 1I84; EM; 20.00 A; T/W=2-151.
+DR   PDB; 3DTP; EM; 20.00 A; C/D=2-151.
+DR   PDB; 3J04; EM; -; C/F=4-151.
+DR   PDBsum; 1BR1; -.
+DR   PDBsum; 1BR4; -.
+DR   PDBsum; 1I84; -.
+DR   PDBsum; 3DTP; -.
+DR   PDBsum; 3J04; -.
+DR   ProteinModelPortal; P02607; -.
+DR   SMR; P02607; 4-151.
+DR   IntAct; P02607; 2.
+DR   PRIDE; P02607; -.
+DR   HOVERGEN; HBG012180; -.
+DR   InParanoid; P02607; -.
+DR   PhylomeDB; P02607; -.
+DR   EvolutionaryTrace; P02607; -.
+DR   Proteomes; UP000000539; Unplaced.
+DR   GO; GO:0042641; C:actomyosin; IDA:UniProtKB.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0016460; C:myosin II complex; IDA:UniProtKB.
+DR   GO; GO:0097513; C:myosin II filament; IDA:UniProtKB.
+DR   GO; GO:0030898; F:actin-dependent ATPase activity; ISS:HGNC.
+DR   GO; GO:0005509; F:calcium ion binding; IEA:InterPro.
+DR   GO; GO:0008307; F:structural constituent of muscle; ISS:HGNC.
+DR   GO; GO:0031032; P:actomyosin structure organization; IDA:UniProtKB.
+DR   GO; GO:0008152; P:metabolic process; IDA:GOC.
+DR   Gene3D; 1.10.238.10; -; 2.
+DR   InterPro; IPR011992; EF-hand-dom_pair.
+DR   InterPro; IPR002048; EF_hand_dom.
+DR   Pfam; PF13405; EF-hand_6; 1.
+DR   Pfam; PF13499; EF-hand_7; 1.
+DR   SMART; SM00054; EFh; 2.
+DR   PROSITE; PS50222; EF_HAND_2; 3.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Alternative splicing; Complete proteome;
+KW   Direct protein sequencing; Motor protein; Muscle protein; Myosin;
+KW   Reference proteome; Repeat.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:7319048}.
+FT   CHAIN         2    151       Myosin light polypeptide 6.
+FT                                /FTId=PRO_0000198694.
+FT   DOMAIN        7     42       EF-hand 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00448}.
+FT   DOMAIN       84    119       EF-hand 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00448}.
+FT   DOMAIN      119    151       EF-hand 3. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00448}.
+FT   MOD_RES       2      2       N-acetylcysteine.
+FT                                {ECO:0000269|PubMed:7319048}.
+FT   VAR_SEQ     143    151       ELVRMVLSG -> AFVRHILSG (in isoform 2).
+FT                                {ECO:0000303|PubMed:3038890}.
+FT                                /FTId=VSP_017063.
+FT   CONFLICT     66     66       K -> N (in Ref. 1; AA sequence and 2; AA
+FT                                sequence). {ECO:0000305}.
+FT   CONFLICT    101    101       N -> D (in Ref. 2; AA sequence).
+FT                                {ECO:0000305}.
+FT   HELIX         6     17       {ECO:0000244|PDB:1BR1}.
+FT   STRAND       21     25       {ECO:0000244|PDB:1BR1}.
+FT   TURN         29     31       {ECO:0000244|PDB:1BR1}.
+FT   HELIX        32     38       {ECO:0000244|PDB:1BR1}.
+FT   HELIX        45     49       {ECO:0000244|PDB:1BR1}.
+FT   HELIX        50     52       {ECO:0000244|PDB:1BR1}.
+FT   HELIX        57     60       {ECO:0000244|PDB:1BR1}.
+FT   HELIX        67     78       {ECO:0000244|PDB:1BR1}.
+FT   HELIX        86     93       {ECO:0000244|PDB:1BR1}.
+FT   HELIX        94     96       {ECO:0000244|PDB:1BR1}.
+FT   STRAND      100    102       {ECO:0000244|PDB:1BR1}.
+FT   HELIX       108    112       {ECO:0000244|PDB:1BR1}.
+FT   TURN        113    115       {ECO:0000244|PDB:1BR1}.
+FT   STRAND      116    118       {ECO:0000244|PDB:1BR1}.
+FT   HELIX       122    129       {ECO:0000244|PDB:1BR1}.
+FT   STRAND      137    139       {ECO:0000244|PDB:1BR1}.
+FT   HELIX       141    150       {ECO:0000244|PDB:1BR1}.
+SQ   SEQUENCE   151 AA;  16987 MW;  40A6916EC1E90C41 CRC64;
+     MCDFSEEQTA EFKEAFQLFD RTGDGKILYS QCGDVMRALG QNPTNAEVMK VLGNPKSDEM
+     NLKTLKFEQF LPMMQTIAKN KDQGCFEDYV EGLRVFDKEG NGTVMGAEIR HVLVTLGEKM
+     TEEEVEQLVA GHEDSNGCIN YEELVRMVLS G
+//

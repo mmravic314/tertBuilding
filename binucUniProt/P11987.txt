@@ -1,0 +1,193 @@
+ID   MEMG_METCA              Reviewed;         170 AA.
+AC   P11987; Q609N4; Q9RLQ5;
+DT   01-OCT-1989, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 4.
+DT   22-JUL-2015, entry version 110.
+DE   RecName: Full=Methane monooxygenase component A gamma chain;
+DE            EC=1.14.13.25;
+DE   AltName: Full=Methane hydroxylase;
+GN   Name=mmoZ; OrderedLocusNames=MCA1198;
+OS   Methylococcus capsulatus (strain ATCC 33009 / NCIMB 11132 / Bath).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Methylococcales;
+OC   Methylococcaceae; Methylococcus.
+OX   NCBI_TaxID=243233;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 33009 / NCIMB 11132 / Bath;
+RX   PubMed=2505721; DOI=10.1007/BF00456094;
+RA   Stainthorpe A.C., Murrell J.C., Salmond G.P.C., Dalton H., Lees V.;
+RT   "Molecular analysis of methane monooxygenase from Methylococcus
+RT   capsulatus (Bath).";
+RL   Arch. Microbiol. 152:154-159(1989).
+RN   [2]
+RP   SEQUENCE REVISION TO 21-22.
+RA   McDonald I., Murrell J.C.;
+RL   Submitted (MAY-2000) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 33009 / NCIMB 11132 / Bath;
+RX   PubMed=15383840; DOI=10.1371/journal.pbio.0020303;
+RA   Ward N.L., Larsen O., Sakwa J., Bruseth L., Khouri H.M., Durkin A.S.,
+RA   Dimitrov G., Jiang L., Scanlan D., Kang K.H., Lewis M.R., Nelson K.E.,
+RA   Methe B.A., Wu M., Heidelberg J.F., Paulsen I.T., Fouts D.E.,
+RA   Ravel J., Tettelin H., Ren Q., Read T.D., DeBoy R.T., Seshadri R.,
+RA   Salzberg S.L., Jensen H.B., Birkeland N.K., Nelson W.C., Dodson R.J.,
+RA   Grindhaug S.H., Holt I.E., Eidhammer I., Jonasen I., Vanaken S.,
+RA   Utterback T.R., Feldblyum T.V., Fraser C.M., Lillehaug J.R.,
+RA   Eisen J.A.;
+RT   "Genomic insights into methanotrophy: the complete genome sequence of
+RT   Methylococcus capsulatus (Bath).";
+RL   PLoS Biol. 2:1616-1628(2004).
+RN   [4]
+RP   PROTEIN SEQUENCE OF 2-40.
+RA   Mullens I.A., Dalton H.;
+RT   "Cloning of the gamma-subunit methane monooxygenase from Methylococcus
+RT   capsulatus.";
+RL   Biotechnology (N.Y.) 5:490-493(1987).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 166-170.
+RC   STRAIN=ATCC 33009 / NCIMB 11132 / Bath;
+RX   PubMed=2205538; DOI=10.1016/0378-1119(90)90158-N;
+RA   Stainthorpe A.C., Lees V., Salmond G.P.C., Dalton H., Murrell J.C.;
+RT   "The methane monooxygenase gene cluster of Methylococcus capsulatus
+RT   (Bath).";
+RL   Gene 91:27-34(1990).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS).
+RX   PubMed=8255292; DOI=10.1038/366537a0;
+RA   Rosenzweig A.C., Frederick C.A., Lippard S.J., Nordlund P.;
+RT   "Crystal structure of a bacterial non-haem iron hydroxylase that
+RT   catalyses the biological oxidation of methane.";
+RL   Nature 366:537-543(1993).
+CC   -!- FUNCTION: Responsible for the initial oxygenation of methane to
+CC       methanol in methanotrophs. It also catalyzes the monohydroxylation
+CC       of a variety of unactivated alkenes, alicyclic, aromatic and
+CC       heterocyclic compounds.
+CC   -!- CATALYTIC ACTIVITY: Methane + NAD(P)H + O(2) = methanol +
+CC       NAD(P)(+) + H(2)O.
+CC   -!- SUBUNIT: M.capsulatus has two forms of methane monooxygenase, a
+CC       soluble and a membrane-bound type. The soluble type consists of
+CC       four components (A to D): protein A, comprising three chains, in
+CC       an alpha-2, beta-2, gamma-2 configuration, is a nonheme iron
+CC       protein containing an unusual mu-hydroxo bridge structure at its
+CC       active site and interacts with both oxygen and methane.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M90050; AAF04157.2; -; Genomic_DNA.
+DR   EMBL; AE017282; AAU92724.1; -; Genomic_DNA.
+DR   PIR; JL0102; JL0102.
+DR   RefSeq; WP_010960485.1; NC_002977.6.
+DR   PDB; 1FYZ; X-ray; 2.15 A; E/F=1-170.
+DR   PDB; 1FZ0; X-ray; 2.07 A; E/F=1-170.
+DR   PDB; 1FZ1; X-ray; 1.96 A; E/F=1-170.
+DR   PDB; 1FZ2; X-ray; 2.15 A; E/F=1-170.
+DR   PDB; 1FZ3; X-ray; 2.03 A; E/F=1-170.
+DR   PDB; 1FZ4; X-ray; 2.38 A; E/F=1-170.
+DR   PDB; 1FZ5; X-ray; 2.40 A; E/F=1-170.
+DR   PDB; 1FZ6; X-ray; 2.05 A; E/F=1-170.
+DR   PDB; 1FZ7; X-ray; 1.96 A; E/F=1-170.
+DR   PDB; 1FZ8; X-ray; 2.10 A; E/F=1-170.
+DR   PDB; 1FZ9; X-ray; 2.30 A; E/F=1-170.
+DR   PDB; 1FZH; X-ray; 2.60 A; E/F=1-170.
+DR   PDB; 1FZI; X-ray; 3.30 A; E/F=1-170.
+DR   PDB; 1MMO; X-ray; 2.20 A; G/H=4-165.
+DR   PDB; 1MTY; X-ray; 1.70 A; G/H=4-165.
+DR   PDB; 1XMF; X-ray; 2.32 A; E/F=2-170.
+DR   PDB; 1XMG; X-ray; 2.10 A; E/F=2-170.
+DR   PDB; 1XMH; X-ray; 2.32 A; E/F=2-170.
+DR   PDB; 1XU3; X-ray; 2.30 A; E/F=1-170.
+DR   PDB; 1XU5; X-ray; 1.96 A; E/F=1-170.
+DR   PDB; 1XVB; X-ray; 1.80 A; E/F=1-170.
+DR   PDB; 1XVC; X-ray; 2.00 A; E/F=1-170.
+DR   PDB; 1XVD; X-ray; 2.30 A; E/F=1-170.
+DR   PDB; 1XVE; X-ray; 2.40 A; E/F=1-170.
+DR   PDB; 1XVF; X-ray; 2.00 A; E/F=1-170.
+DR   PDB; 1XVG; X-ray; 1.96 A; E/F=1-170.
+DR   PDB; 4GAM; X-ray; 2.90 A; C/H/M/R=1-170.
+DR   PDBsum; 1FYZ; -.
+DR   PDBsum; 1FZ0; -.
+DR   PDBsum; 1FZ1; -.
+DR   PDBsum; 1FZ2; -.
+DR   PDBsum; 1FZ3; -.
+DR   PDBsum; 1FZ4; -.
+DR   PDBsum; 1FZ5; -.
+DR   PDBsum; 1FZ6; -.
+DR   PDBsum; 1FZ7; -.
+DR   PDBsum; 1FZ8; -.
+DR   PDBsum; 1FZ9; -.
+DR   PDBsum; 1FZH; -.
+DR   PDBsum; 1FZI; -.
+DR   PDBsum; 1MMO; -.
+DR   PDBsum; 1MTY; -.
+DR   PDBsum; 1XMF; -.
+DR   PDBsum; 1XMG; -.
+DR   PDBsum; 1XMH; -.
+DR   PDBsum; 1XU3; -.
+DR   PDBsum; 1XU5; -.
+DR   PDBsum; 1XVB; -.
+DR   PDBsum; 1XVC; -.
+DR   PDBsum; 1XVD; -.
+DR   PDBsum; 1XVE; -.
+DR   PDBsum; 1XVF; -.
+DR   PDBsum; 1XVG; -.
+DR   PDBsum; 4GAM; -.
+DR   ProteinModelPortal; P11987; -.
+DR   SMR; P11987; 3-170.
+DR   DIP; DIP-59863N; -.
+DR   STRING; 243233.MCA1198; -.
+DR   EnsemblBacteria; AAU92724; AAU92724; MCA1198.
+DR   KEGG; mca:MCA1198; -.
+DR   PATRIC; 22606228; VBIMetCap22254_1230.
+DR   eggNOG; NOG257614; -.
+DR   HOGENOM; HOG000086317; -.
+DR   KO; K16159; -.
+DR   OMA; SLWIEAR; -.
+DR   OrthoDB; EOG6SV5J6; -.
+DR   BioCyc; MetaCyc:MONOMER-3863; -.
+DR   BRENDA; 1.14.13.25; 3305.
+DR   EvolutionaryTrace; P11987; -.
+DR   Proteomes; UP000006821; Chromosome.
+DR   GO; GO:0015049; F:methane monooxygenase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0015947; P:methane metabolic process; IEA:InterPro.
+DR   GO; GO:0006730; P:one-carbon metabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 1.20.1280.10; -; 1.
+DR   Gene3D; 1.20.1280.30; -; 1.
+DR   InterPro; IPR004222; Me_mOase_g.
+DR   InterPro; IPR015952; Me_mOase_g_dom1.
+DR   InterPro; IPR015953; Me_mOase_g_dom2.
+DR   Pfam; PF02964; MeMO_Hyd_G; 1.
+DR   PIRSF; PIRSF018503; Me_mOase_g; 1.
+DR   ProDom; PD022203; Me_mOase_g; 1.
+DR   SUPFAM; SSF47152; SSF47152; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Direct protein sequencing;
+KW   Monooxygenase; NADP; One-carbon metabolism; Oxidoreductase;
+KW   Reference proteome.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|Ref.4}.
+FT   CHAIN         2    170       Methane monooxygenase component A gamma
+FT                                chain.
+FT                                /FTId=PRO_0000096409.
+FT   CONFLICT     21     21       Q -> E (in Ref. 4; AA sequence).
+FT                                {ECO:0000305}.
+FT   CONFLICT     26     26       E -> Q (in Ref. 4; AA sequence).
+FT                                {ECO:0000305}.
+FT   STRAND        6      8       {ECO:0000244|PDB:1MTY}.
+FT   HELIX        10     20       {ECO:0000244|PDB:1MTY}.
+FT   HELIX        25     39       {ECO:0000244|PDB:1MTY}.
+FT   TURN         48     52       {ECO:0000244|PDB:1MTY}.
+FT   HELIX        53     71       {ECO:0000244|PDB:1MTY}.
+FT   HELIX        74     79       {ECO:0000244|PDB:1MTY}.
+FT   HELIX        87    100       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       104    118       {ECO:0000244|PDB:1MTY}.
+FT   TURN        119    122       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       125    143       {ECO:0000244|PDB:1MTY}.
+FT   TURN        144    148       {ECO:0000244|PDB:1MTY}.
+FT   HELIX       152    159       {ECO:0000244|PDB:1MTY}.
+FT   STRAND      162    167       {ECO:0000244|PDB:1XVB}.
+SQ   SEQUENCE   170 AA;  19847 MW;  6030AF38130BA497 CRC64;
+     MAKLGIHSND TRDAWVNKIA QLNTLEKAAE MLKQFRMDHT TPFRNSYELD NDYLWIEAKL
+     EEKVAVLKAR AFNEVDFRHK TAFGEDAKSV LDGTVAKMNA AKDKWEAEKI HIGFRQAYKP
+     PIMPVNYFLD GERQLGTRLM ELRNLNYYDT PLEELRKQRG VRVVHLQSPH
+//

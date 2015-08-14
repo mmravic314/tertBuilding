@@ -1,0 +1,356 @@
+ID   GGPPS_YEAST             Reviewed;         335 AA.
+AC   Q12051; D6W3U6;
+DT   21-MAR-2006, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   22-JUL-2015, entry version 122.
+DE   RecName: Full=Geranylgeranyl pyrophosphate synthase;
+DE            Short=GGPP synthase;
+DE            Short=GGPPSase;
+DE            EC=2.5.1.-;
+DE   AltName: Full=(2E,6E)-farnesyl diphosphate synthase;
+DE   AltName: Full=BET2 suppressor protein 1;
+DE   AltName: Full=Dimethylallyltranstransferase;
+DE            EC=2.5.1.1;
+DE   AltName: Full=Farnesyl diphosphate synthase;
+DE   AltName: Full=Farnesyltranstransferase;
+DE            EC=2.5.1.29;
+DE   AltName: Full=Geranylgeranyl diphosphate synthase;
+DE   AltName: Full=Geranyltranstransferase;
+DE            EC=2.5.1.10;
+GN   Name=BTS1; OrderedLocusNames=YPL069C;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=559292;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND FUNCTION.
+RX   PubMed=7665600; DOI=10.1074/jbc.270.37.21958;
+RA   Jiang Y., Proteau P., Poulter D., Ferro-Novick S.;
+RT   "BTS1 encodes a geranylgeranyl diphosphate synthase in Saccharomyces
+RT   cerevisiae.";
+RL   J. Biol. Chem. 270:21793-21799(1995).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=9169875;
+RA   Bussey H., Storms R.K., Ahmed A., Albermann K., Allen E., Ansorge W.,
+RA   Araujo R., Aparicio A., Barrell B.G., Badcock K., Benes V.,
+RA   Botstein D., Bowman S., Brueckner M., Carpenter J., Cherry J.M.,
+RA   Chung E., Churcher C.M., Coster F., Davis K., Davis R.W.,
+RA   Dietrich F.S., Delius H., DiPaolo T., Dubois E., Duesterhoeft A.,
+RA   Duncan M., Floeth M., Fortin N., Friesen J.D., Fritz C., Goffeau A.,
+RA   Hall J., Hebling U., Heumann K., Hilbert H., Hillier L.W.,
+RA   Hunicke-Smith S., Hyman R.W., Johnston M., Kalman S., Kleine K.,
+RA   Komp C., Kurdi O., Lashkari D., Lew H., Lin A., Lin D., Louis E.J.,
+RA   Marathe R., Messenguy F., Mewes H.-W., Mirtipati S., Moestl D.,
+RA   Mueller-Auer S., Namath A., Nentwich U., Oefner P., Pearson D.,
+RA   Petel F.X., Pohl T.M., Purnelle B., Rajandream M.A., Rechmann S.,
+RA   Rieger M., Riles L., Roberts D., Schaefer M., Scharfe M., Scherens B.,
+RA   Schramm S., Schroeder M., Sdicu A.-M., Tettelin H., Urrestarazu L.A.,
+RA   Ushinsky S., Vierendeels F., Vissers S., Voss H., Walsh S.V.,
+RA   Wambutt R., Wang Y., Wedler E., Wedler H., Winnett E., Zhong W.-W.,
+RA   Zollner A., Vo D.H., Hani J.;
+RT   "The nucleotide sequence of Saccharomyces cerevisiae chromosome XVI.";
+RL   Nature 387:103-105(1997).
+RN   [3]
+RP   GENOME REANNOTATION.
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=24374639; DOI=10.1534/g3.113.008995;
+RA   Engel S.R., Dietrich F.S., Fisk D.G., Binkley G., Balakrishnan R.,
+RA   Costanzo M.C., Dwight S.S., Hitz B.C., Karra K., Nash R.S., Weng S.,
+RA   Wong E.D., Lloyd P., Skrzypek M.S., Miyasato S.R., Simison M.,
+RA   Cherry J.M.;
+RT   "The reference genome sequence of Saccharomyces cerevisiae: Then and
+RT   now.";
+RL   G3 (Bethesda) 4:389-398(2014).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=17322287; DOI=10.1101/gr.6037607;
+RA   Hu Y., Rolfs A., Bhullar B., Murthy T.V.S., Zhu C., Berger M.F.,
+RA   Camargo A.A., Kelley F., McCarron S., Jepson D., Richardson A.,
+RA   Raphael J., Moreira D., Taycher E., Zuo D., Mohr S., Kane M.F.,
+RA   Williamson J., Simpson A.J.G., Bulyk M.L., Harlow E., Marsischky G.,
+RA   Kolodner R.D., LaBaer J.;
+RT   "Approaching a complete repository of sequence-verified protein-
+RT   encoding clones for Saccharomyces cerevisiae.";
+RL   Genome Res. 17:536-543(2007).
+RN   [5]
+RP   LEVEL OF PROTEIN EXPRESSION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562106; DOI=10.1038/nature02046;
+RA   Ghaemmaghami S., Huh W.-K., Bower K., Howson R.W., Belle A.,
+RA   Dephoure N., O'Shea E.K., Weissman J.S.;
+RT   "Global analysis of protein expression in yeast.";
+RL   Nature 425:737-741(2003).
+RN   [6]
+RP   FUNCTION.
+RX   PubMed=15296494; DOI=10.1111/j.1600-0854.2004.00213.x;
+RA   Shiflett S.L., Vaughn M.B., Huynh D., Kaplan J., McVey Ward D.;
+RT   "Bph1p, the Saccharomyces cerevisiae homologue of CHS1/beige,
+RT   functions in cell wall formation and protein sorting.";
+RL   Traffic 5:700-710(2004).
+RN   [7]
+RP   SUBUNIT, AND MUTAGENESIS OF GLU-7; LEU-8 AND ILE-9.
+RX   PubMed=19245203; DOI=10.1021/ja808699c;
+RA   Lo C.-H., Chang Y.-H., Wright J.D., Chen S.-H., Kan D., Lim C.,
+RA   Liang P.-H.;
+RT   "Combined experimental and theoretical study of long-range
+RT   interactions modulating dimerization and activity of yeast
+RT   geranylgeranyl diphosphate synthase.";
+RL   J. Am. Chem. Soc. 131:4051-4062(2009).
+RN   [8]
+RP   X-RAY CRYSTALLOGRAPHY (1.98 ANGSTROMS) IN COMPLEX WITH MAGNESIUM IONS,
+RP   AND SUBUNIT.
+RX   PubMed=16554305; DOI=10.1074/jbc.M512886200;
+RA   Chang T.-H., Guo R.-T., Ko T.-P., Wang A.H.-J., Liang P.-H.;
+RT   "Crystal structure of type-III geranylgeranyl pyrophosphate synthase
+RT   from Saccharomyces cerevisiae and the mechanism of product chain
+RT   length determination.";
+RL   J. Biol. Chem. 281:14991-15000(2006).
+RN   [9]
+RP   X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS) IN COMPLEXES WITH ISOPENTENYL
+RP   DIPHOSPHATE; FARNESYL DIPHOSPHATE AND MAGNESIUM, COFACTOR, AND
+RP   SUBUNIT.
+RX   PubMed=17535895; DOI=10.1073/pnas.0702254104;
+RA   Guo R.-T., Cao R., Liang P.-H., Ko T.-P., Chang T.-H., Hudock M.P.,
+RA   Jeng W.-Y., Chen C.K.-M., Zhang Y., Song Y., Kuo C.-J., Yin F.,
+RA   Oldfield E., Wang A.H.-J.;
+RT   "Bisphosphonates target multiple sites in both cis- and trans-
+RT   prenyltransferases.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 104:10022-10027(2007).
+CC   -!- FUNCTION: Catalyzes the trans-addition of the 3 molecules of IPP
+CC       onto DMAPP to form geranylgeranyl pyrophosphate. Required for the
+CC       membrane attachment of YPT1 and SEC4. May be involved in vesicle
+CC       trafficking and protein sorting. {ECO:0000269|PubMed:15296494,
+CC       ECO:0000269|PubMed:7665600}.
+CC   -!- CATALYTIC ACTIVITY: Dimethylallyl diphosphate + isopentenyl
+CC       diphosphate = diphosphate + geranyl diphosphate.
+CC   -!- CATALYTIC ACTIVITY: Geranyl diphosphate + isopentenyl diphosphate
+CC       = diphosphate + (2E,6E)-farnesyl diphosphate.
+CC   -!- CATALYTIC ACTIVITY: (2E,6E)-farnesyl diphosphate + isopentenyl
+CC       diphosphate = diphosphate + geranylgeranyl diphosphate.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000269|PubMed:17535895};
+CC       Note=Binds 3 Mg(2+) ions per subunit.
+CC       {ECO:0000269|PubMed:17535895};
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=3.2 uM for farnesyl diphosphate;
+CC         KM=0.8 uM for isopentenyl diphosphate;
+CC   -!- PATHWAY: Isoprenoid biosynthesis; farnesyl diphosphate
+CC       biosynthesis; farnesyl diphosphate from geranyl diphosphate and
+CC       isopentenyl diphosphate: step 1/1.
+CC   -!- PATHWAY: Isoprenoid biosynthesis; geranyl diphosphate
+CC       biosynthesis; geranyl diphosphate from dimethylallyl diphosphate
+CC       and isopentenyl diphosphate: step 1/1.
+CC   -!- PATHWAY: Isoprenoid biosynthesis; geranylgeranyl diphosphate
+CC       biosynthesis; geranylgeranyl diphosphate from farnesyl diphosphate
+CC       and isopentenyl diphosphate: step 1/1.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250}.
+CC   -!- MISCELLANEOUS: Present with 2840 molecules/cell in log phase SD
+CC       medium. {ECO:0000269|PubMed:14562106}.
+CC   -!- SIMILARITY: Belongs to the FPP/GGPP synthase family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U39205; AAB68296.1; -; Genomic_DNA.
+DR   EMBL; U31632; AAA83262.1; -; Genomic_DNA.
+DR   EMBL; AY692852; AAT92871.1; -; Genomic_DNA.
+DR   EMBL; BK006949; DAA11362.1; -; Genomic_DNA.
+DR   PIR; S60921; S60921.
+DR   RefSeq; NP_015256.1; NM_001183883.1.
+DR   PDB; 2DH4; X-ray; 1.98 A; A/B=1-335.
+DR   PDB; 2E8T; X-ray; 2.13 A; A/B=1-335.
+DR   PDB; 2E8U; X-ray; 2.08 A; A/B=1-335.
+DR   PDB; 2E8V; X-ray; 1.80 A; A/B=1-335.
+DR   PDB; 2E8W; X-ray; 2.35 A; A/B=1-335.
+DR   PDB; 2E8X; X-ray; 2.04 A; A/B=1-335.
+DR   PDB; 2E90; X-ray; 2.55 A; A/B=1-335.
+DR   PDB; 2E91; X-ray; 2.14 A; A/B=1-335.
+DR   PDB; 2E92; X-ray; 2.31 A; A/B=1-335.
+DR   PDB; 2E93; X-ray; 2.12 A; A/B=1-335.
+DR   PDB; 2E94; X-ray; 2.18 A; A/B=1-335.
+DR   PDB; 2E95; X-ray; 2.20 A; A/B=1-335.
+DR   PDB; 2Z4V; X-ray; 1.86 A; A/B=1-335.
+DR   PDB; 2Z4W; X-ray; 2.45 A; A/B=1-335.
+DR   PDB; 2Z4X; X-ray; 1.90 A; A/B=1-335.
+DR   PDB; 2Z4Y; X-ray; 2.10 A; A/B=1-335.
+DR   PDB; 2Z4Z; X-ray; 2.09 A; A/B=1-335.
+DR   PDB; 2Z50; X-ray; 2.01 A; A/B=1-335.
+DR   PDB; 2Z52; X-ray; 2.13 A; A/B=1-335.
+DR   PDB; 2Z78; X-ray; 2.10 A; A/B=1-335.
+DR   PDB; 2Z7H; X-ray; 2.08 A; A/B=1-335.
+DR   PDB; 2Z7I; X-ray; 2.10 A; A/B=1-335.
+DR   PDB; 2ZEU; X-ray; 2.00 A; A/B=1-335.
+DR   PDB; 2ZEV; X-ray; 2.23 A; A/B=1-335.
+DR   PDBsum; 2DH4; -.
+DR   PDBsum; 2E8T; -.
+DR   PDBsum; 2E8U; -.
+DR   PDBsum; 2E8V; -.
+DR   PDBsum; 2E8W; -.
+DR   PDBsum; 2E8X; -.
+DR   PDBsum; 2E90; -.
+DR   PDBsum; 2E91; -.
+DR   PDBsum; 2E92; -.
+DR   PDBsum; 2E93; -.
+DR   PDBsum; 2E94; -.
+DR   PDBsum; 2E95; -.
+DR   PDBsum; 2Z4V; -.
+DR   PDBsum; 2Z4W; -.
+DR   PDBsum; 2Z4X; -.
+DR   PDBsum; 2Z4Y; -.
+DR   PDBsum; 2Z4Z; -.
+DR   PDBsum; 2Z50; -.
+DR   PDBsum; 2Z52; -.
+DR   PDBsum; 2Z78; -.
+DR   PDBsum; 2Z7H; -.
+DR   PDBsum; 2Z7I; -.
+DR   PDBsum; 2ZEU; -.
+DR   PDBsum; 2ZEV; -.
+DR   ProteinModelPortal; Q12051; -.
+DR   SMR; Q12051; 1-335.
+DR   BioGrid; 36110; 316.
+DR   DIP; DIP-8889N; -.
+DR   IntAct; Q12051; 5.
+DR   MINT; MINT-4504645; -.
+DR   BindingDB; Q12051; -.
+DR   ChEMBL; CHEMBL1075251; -.
+DR   MaxQB; Q12051; -.
+DR   PaxDb; Q12051; -.
+DR   EnsemblFungi; YPL069C; YPL069C; YPL069C.
+DR   GeneID; 856036; -.
+DR   KEGG; sce:YPL069C; -.
+DR   CYGD; YPL069c; -.
+DR   EuPathDB; FungiDB:YPL069C; -.
+DR   SGD; S000005990; BTS1.
+DR   eggNOG; COG0142; -.
+DR   GeneTree; ENSGT00390000010417; -.
+DR   HOGENOM; HOG000169461; -.
+DR   InParanoid; Q12051; -.
+DR   KO; K00804; -.
+DR   OMA; NKGYAED; -.
+DR   OrthoDB; EOG790G9Q; -.
+DR   BioCyc; MetaCyc:MONOMER-13701; -.
+DR   BioCyc; YEAST:YPL069C-MONOMER; -.
+DR   BRENDA; 2.5.1.29; 984.
+DR   Reactome; REACT_283157; Cholesterol biosynthesis.
+DR   SABIO-RK; Q12051; -.
+DR   UniPathway; UPA00259; UER00368.
+DR   UniPathway; UPA00260; UER00369.
+DR   UniPathway; UPA00389; UER00564.
+DR   EvolutionaryTrace; Q12051; -.
+DR   NextBio; 980968; -.
+DR   PRO; PR:Q12051; -.
+DR   Proteomes; UP000002311; Chromosome XVI.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0004161; F:dimethylallyltranstransferase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0004311; F:farnesyltranstransferase activity; IDA:CACAO.
+DR   GO; GO:0004337; F:geranyltranstransferase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016117; P:carotenoid biosynthetic process; IEA:UniProtKB-KW.
+DR   GO; GO:0045337; P:farnesyl diphosphate biosynthetic process; IEA:UniProtKB-UniPathway.
+DR   GO; GO:0033384; P:geranyl diphosphate biosynthetic process; IEA:UniProtKB-UniPathway.
+DR   GO; GO:0033386; P:geranylgeranyl diphosphate biosynthetic process; IDA:CACAO.
+DR   GO; GO:0015031; P:protein transport; IEA:UniProtKB-KW.
+DR   GO; GO:0016114; P:terpenoid biosynthetic process; IDA:SGD.
+DR   Gene3D; 1.10.600.10; -; 1.
+DR   InterPro; IPR008949; Isoprenoid_synthase_dom.
+DR   InterPro; IPR000092; Polyprenyl_synt.
+DR   InterPro; IPR017446; Polyprenyl_synth-rel.
+DR   PANTHER; PTHR12001; PTHR12001; 1.
+DR   Pfam; PF00348; polyprenyl_synt; 1.
+DR   SUPFAM; SSF48576; SSF48576; 1.
+DR   PROSITE; PS00723; POLYPRENYL_SYNTHASE_1; 1.
+DR   PROSITE; PS00444; POLYPRENYL_SYNTHASE_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Carotenoid biosynthesis; Complete proteome; Cytoplasm;
+KW   Isoprene biosynthesis; Magnesium; Metal-binding; Protein transport;
+KW   Reference proteome; Transferase; Transport.
+FT   CHAIN         1    335       Geranylgeranyl pyrophosphate synthase.
+FT                                /FTId=PRO_0000228139.
+FT   METAL        75     75       Magnesium 1.
+FT                                {ECO:0000269|PubMed:16554305,
+FT                                ECO:0000269|PubMed:17535895}.
+FT   METAL        75     75       Magnesium 2.
+FT                                {ECO:0000269|PubMed:16554305,
+FT                                ECO:0000269|PubMed:17535895}.
+FT   METAL        79     79       Magnesium 1.
+FT                                {ECO:0000269|PubMed:16554305,
+FT                                ECO:0000269|PubMed:17535895}.
+FT   METAL        79     79       Magnesium 2.
+FT                                {ECO:0000269|PubMed:16554305,
+FT                                ECO:0000269|PubMed:17535895}.
+FT   METAL       209    209       Magnesium 3.
+FT                                {ECO:0000269|PubMed:16554305,
+FT                                ECO:0000269|PubMed:17535895}.
+FT   BINDING      36     36       Isopentenyl diphosphate.
+FT                                {ECO:0000269|PubMed:17535895}.
+FT   BINDING      39     39       Isopentenyl diphosphate.
+FT                                {ECO:0000269|PubMed:17535895}.
+FT   BINDING      68     68       Isopentenyl diphosphate.
+FT                                {ECO:0000269|PubMed:17535895}.
+FT   BINDING      84     84       Dimethylallyl diphosphate.
+FT                                {ECO:0000269|PubMed:17535895}.
+FT   BINDING      85     85       Isopentenyl diphosphate.
+FT                                {ECO:0000269|PubMed:17535895}.
+FT   BINDING     169    169       Dimethylallyl diphosphate.
+FT                                {ECO:0000269|PubMed:17535895}.
+FT   BINDING     170    170       Dimethylallyl diphosphate.
+FT                                {ECO:0000269|PubMed:17535895}.
+FT   BINDING     206    206       Dimethylallyl diphosphate.
+FT                                {ECO:0000269|PubMed:17535895}.
+FT   BINDING     213    213       Dimethylallyl diphosphate.
+FT                                {ECO:0000269|PubMed:17535895}.
+FT   BINDING     223    223       Dimethylallyl diphosphate. {ECO:0000250}.
+FT   BINDING     233    233       Dimethylallyl diphosphate.
+FT                                {ECO:0000269|PubMed:17535895}.
+FT   SITE        107    107       Important for determining product chain
+FT                                length.
+FT   MUTAGEN       7      7       E->G: No effect. Monomer; when associated
+FT                                with G-8. {ECO:0000269|PubMed:19245203}.
+FT   MUTAGEN       8      8       L->G: Monomer and homodimer. Monomer;
+FT                                when associated with G-7.
+FT                                {ECO:0000269|PubMed:19245203}.
+FT   MUTAGEN       9      9       I->G: Mostly monomer. Exclusively
+FT                                monomer; when associated with G-8.
+FT                                Reduces enzyme activity 1000-fold.
+FT                                {ECO:0000269|PubMed:19245203}.
+FT   MUTAGEN     107    107       Y->A: Reduced affinity for isopentenyl
+FT                                diphosphate (IPP).
+FT   MUTAGEN     108    108       F->A: Reduced affinity for isopentenyl
+FT                                diphosphate (IPP).
+FT   MUTAGEN     139    139       H->A: Reduced affinity for isopentenyl
+FT                                diphosphate (IPP).
+FT   HELIX         1      9       {ECO:0000244|PDB:2E8V}.
+FT   HELIX        17     31       {ECO:0000244|PDB:2E8V}.
+FT   STRAND       32     34       {ECO:0000244|PDB:2E8X}.
+FT   HELIX        38     50       {ECO:0000244|PDB:2E8V}.
+FT   HELIX        54     78       {ECO:0000244|PDB:2E8V}.
+FT   STRAND       82     84       {ECO:0000244|PDB:2E8V}.
+FT   HELIX        90     93       {ECO:0000244|PDB:2E8V}.
+FT   HELIX        96    113       {ECO:0000244|PDB:2E8V}.
+FT   HELIX       114    117       {ECO:0000244|PDB:2E8V}.
+FT   HELIX       121    150       {ECO:0000244|PDB:2E8V}.
+FT   TURN        151    153       {ECO:0000244|PDB:2Z4V}.
+FT   HELIX       159    169       {ECO:0000244|PDB:2E8V}.
+FT   HELIX       171    184       {ECO:0000244|PDB:2E8V}.
+FT   HELIX       195    215       {ECO:0000244|PDB:2E8V}.
+FT   TURN        221    223       {ECO:0000244|PDB:2DH4}.
+FT   HELIX       227    230       {ECO:0000244|PDB:2E8V}.
+FT   HELIX       236    247       {ECO:0000244|PDB:2E8V}.
+FT   HELIX       251    263       {ECO:0000244|PDB:2E8V}.
+FT   HELIX       268    280       {ECO:0000244|PDB:2E8V}.
+FT   HELIX       284    300       {ECO:0000244|PDB:2E8V}.
+FT   HELIX       325    330       {ECO:0000244|PDB:2Z4V}.
+FT   TURN        331    333       {ECO:0000244|PDB:2Z4V}.
+SQ   SEQUENCE   335 AA;  38651 MW;  4C7D6527FF29F157 CRC64;
+     MEAKIDELIN NDPVWSSQNE SLISKPYNHI LLKPGKNFRL NLIVQINRVM NLPKDQLAIV
+     SQIVELLHNS SLLIDDIEDN APLRRGQTTS HLIFGVPSTI NTANYMYFRA MQLVSQLTTK
+     EPLYHNLITI FNEELINLHR GQGLDIYWRD FLPEIIPTQE MYLNMVMNKT GGLFRLTLRL
+     MEALSPSSHH GHSLVPFINL LGIIYQIRDD YLNLKDFQMS SEKGFAEDIT EGKLSFPIVH
+     ALNFTKTKGQ TEQHNEILRI LLLRTSDKDI KLKLIQILEF DTNSLAYTKN FINQLVNMIK
+     NDNENKYLPD LASHSDTATN LHDELLYIID HLSEL
+//

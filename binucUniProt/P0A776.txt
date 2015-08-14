@@ -1,0 +1,186 @@
+ID   RPPH_ECOLI              Reviewed;         176 AA.
+AC   P0A776; Q2MA07; Q46930;
+DT   07-JUN-2005, integrated into UniProtKB/Swiss-Prot.
+DT   07-JUN-2005, sequence version 1.
+DT   22-JUL-2015, entry version 79.
+DE   RecName: Full=RNA pyrophosphohydrolase;
+DE            EC=3.6.1.-;
+DE   AltName: Full=(Di)nucleoside polyphosphate hydrolase;
+DE   AltName: Full=Ap5A pyrophosphatase;
+GN   Name=rppH; Synonyms=nudH, ygdP; OrderedLocusNames=b2830, JW2798;
+OS   Escherichia coli (strain K12).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=83333;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / MG1655 / ATCC 47076;
+RX   PubMed=9278503; DOI=10.1126/science.277.5331.1453;
+RA   Blattner F.R., Plunkett G. III, Bloch C.A., Perna N.T., Burland V.,
+RA   Riley M., Collado-Vides J., Glasner J.D., Rode C.K., Mayhew G.F.,
+RA   Gregor J., Davis N.W., Kirkpatrick H.A., Goeden M.A., Rose D.J.,
+RA   Mau B., Shao Y.;
+RT   "The complete genome sequence of Escherichia coli K-12.";
+RL   Science 277:1453-1462(1997).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / W3110 / ATCC 27325 / DSM 5911;
+RX   PubMed=16738553; DOI=10.1038/msb4100049;
+RA   Hayashi K., Morooka N., Yamamoto Y., Fujita K., Isono K., Choi S.,
+RA   Ohtsubo E., Baba T., Wanner B.L., Mori H., Horiuchi T.;
+RT   "Highly accurate genome sequences of Escherichia coli K-12 strains
+RT   MG1655 and W3110.";
+RL   Mol. Syst. Biol. 2:E1-E5(2006).
+RN   [3]
+RP   CATALYTIC ACTIVITY, COFACTOR, AND SUBUNIT.
+RC   STRAIN=K12;
+RX   PubMed=11479323; DOI=10.1074/jbc.M107032200;
+RA   Bessman M.J., Walsh J.D., Dunn C.A., Swaminathan J., Weldon J.E.,
+RA   Shen J.;
+RT   "The gene ygdP, associated with the invasiveness of Escherichia coli
+RT   K1, designates a Nudix hydrolase, Orf176, active on adenosine (5')-
+RT   pentaphospho-(5')-adenosine (Ap5A).";
+RL   J. Biol. Chem. 276:37834-37838(2001).
+RN   [4]
+RP   FUNCTION IN PATHOGENIC STRAIN K1.
+RX   PubMed=10760174; DOI=10.1046/j.1365-2958.2000.01840.x;
+RA   Badger J.L., Wass C.A., Kim K.S.;
+RT   "Identification of Escherichia coli K1 genes contributing to human
+RT   brain microvascular endothelial cell invasion by differential
+RT   fluorescence induction.";
+RL   Mol. Microbiol. 36:174-182(2000).
+RN   [5]
+RP   FUNCTION AS A RNA PYROPHOSPHOHYDROLASE, AND MUTAGENESIS OF GLU-53.
+RX   PubMed=18202662; DOI=10.1038/nature06475;
+RA   Deana A., Celesnik H., Belasco J.G.;
+RT   "The bacterial enzyme RppH triggers messenger RNA degradation by 5'
+RT   pyrophosphate removal.";
+RL   Nature 451:355-358(2008).
+CC   -!- FUNCTION: Master regulator of 5'-dependent mRNA decay. Accelerates
+CC       the degradation of transcripts by removing pyrophosphate from the
+CC       5'-end of triphosphorylated RNA, leading to a more labile
+CC       monophosphorylated state that can stimulate subsequent
+CC       ribonuclease cleavage. Preferentially hydrolyzes diadenosine
+CC       penta-phosphate with ATP as one of the reaction products. Also
+CC       able to hydrolyze diadenosine hexa- and tetra-phosphate. Has no
+CC       activity on diadenosine tri-phosphate, ADP-ribose, NADH and UDP-
+CC       glucose. In the meningitis causing strain E.coli K1, has been
+CC       shown to play a role in HBMEC (human brain microvascular
+CC       endothelial cells) invasion in vitro.
+CC       {ECO:0000269|PubMed:10760174, ECO:0000269|PubMed:18202662}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000269|PubMed:11479323};
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC         Evidence={ECO:0000269|PubMed:11479323};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000269|PubMed:11479323};
+CC       Note=Magnesium or zinc. Manganese can be used to a lesser extent.
+CC       {ECO:0000269|PubMed:11479323};
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       pH dependence:
+CC         Optimum pH is 8.5-9.0.;
+CC   -!- SUBUNIT: Monomer. {ECO:0000269|PubMed:11479323}.
+CC   -!- SIMILARITY: Belongs to the Nudix hydrolase family. RppH subfamily.
+CC       {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 nudix hydrolase domain. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U29581; AAB40477.1; -; Genomic_DNA.
+DR   EMBL; U00096; AAC75869.1; -; Genomic_DNA.
+DR   EMBL; AP009048; BAE76899.1; -; Genomic_DNA.
+DR   PIR; G65065; G65065.
+DR   RefSeq; NP_417307.1; NC_000913.3.
+DR   RefSeq; WP_000564489.1; NZ_CP010445.1.
+DR   PDB; 2KDV; NMR; -; A=1-164.
+DR   PDB; 2KDW; NMR; -; A=1-164.
+DR   PDB; 4S2V; X-ray; 1.70 A; A=1-156.
+DR   PDB; 4S2W; X-ray; 1.99 A; A=1-158.
+DR   PDB; 4S2X; X-ray; 1.50 A; A=1-158.
+DR   PDB; 4S2Y; X-ray; 1.60 A; A=1-158.
+DR   PDBsum; 2KDV; -.
+DR   PDBsum; 2KDW; -.
+DR   PDBsum; 4S2V; -.
+DR   PDBsum; 4S2W; -.
+DR   PDBsum; 4S2X; -.
+DR   PDBsum; 4S2Y; -.
+DR   ProteinModelPortal; P0A776; -.
+DR   SMR; P0A776; 1-164.
+DR   DIP; DIP-47855N; -.
+DR   IntAct; P0A776; 55.
+DR   STRING; 511145.b2830; -.
+DR   PaxDb; P0A776; -.
+DR   PRIDE; P0A776; -.
+DR   EnsemblBacteria; AAC75869; AAC75869; b2830.
+DR   EnsemblBacteria; BAE76899; BAE76899; BAE76899.
+DR   GeneID; 947300; -.
+DR   KEGG; eco:b2830; -.
+DR   PATRIC; 32121078; VBIEscCol129921_2928.
+DR   EchoBASE; EB2896; -.
+DR   EcoGene; EG13091; nudH.
+DR   eggNOG; COG0494; -.
+DR   HOGENOM; HOG000066723; -.
+DR   InParanoid; P0A776; -.
+DR   KO; K08311; -.
+DR   OMA; CNESDIN; -.
+DR   OrthoDB; EOG6Q2SKR; -.
+DR   PhylomeDB; P0A776; -.
+DR   BioCyc; EcoCyc:G7459-MONOMER; -.
+DR   BioCyc; ECOL316407:JW2798-MONOMER; -.
+DR   BioCyc; MetaCyc:G7459-MONOMER; -.
+DR   BRENDA; 3.6.1.61; 2026.
+DR   EvolutionaryTrace; P0A776; -.
+DR   PRO; PR:P0A776; -.
+DR   Proteomes; UP000000318; Chromosome.
+DR   Proteomes; UP000000625; Chromosome.
+DR   GO; GO:0016818; F:hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides; IDA:EcoliWiki.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0034353; F:RNA pyrophosphohydrolase activity; IDA:EcoCyc.
+DR   GO; GO:0006402; P:mRNA catabolic process; IMP:EcoCyc.
+DR   GO; GO:0050779; P:RNA destabilization; IMP:EcoliWiki.
+DR   Gene3D; 3.90.79.10; -; 1.
+DR   HAMAP; MF_00298; Nudix_RppH; 1.
+DR   InterPro; IPR020476; Nudix_hydrolase.
+DR   InterPro; IPR020084; NUDIX_hydrolase_CS.
+DR   InterPro; IPR000086; NUDIX_hydrolase_dom.
+DR   InterPro; IPR015797; NUDIX_hydrolase_dom-like.
+DR   InterPro; IPR022927; RppH.
+DR   Pfam; PF00293; NUDIX; 1.
+DR   PRINTS; PR00502; NUDIXFAMILY.
+DR   SUPFAM; SSF55811; SSF55811; 1.
+DR   PROSITE; PS51462; NUDIX; 1.
+DR   PROSITE; PS00893; NUDIX_BOX; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Hydrolase; Magnesium; Manganese;
+KW   Reference proteome; Zinc.
+FT   CHAIN         1    176       RNA pyrophosphohydrolase.
+FT                                /FTId=PRO_0000057005.
+FT   DOMAIN        6    149       Nudix hydrolase.
+FT   MOTIF        38     59       Nudix box.
+FT   MUTAGEN      53     53       E->A: Loss of function.
+FT                                {ECO:0000269|PubMed:18202662}.
+FT   STRAND        6     16       {ECO:0000244|PDB:4S2X}.
+FT   STRAND       18     27       {ECO:0000244|PDB:4S2X}.
+FT   TURN         28     30       {ECO:0000244|PDB:2KDW}.
+FT   STRAND       32     34       {ECO:0000244|PDB:2KDW}.
+FT   STRAND       37     39       {ECO:0000244|PDB:4S2X}.
+FT   HELIX        46     58       {ECO:0000244|PDB:4S2X}.
+FT   HELIX        62     64       {ECO:0000244|PDB:4S2X}.
+FT   STRAND       65     70       {ECO:0000244|PDB:4S2X}.
+FT   STRAND       75     78       {ECO:0000244|PDB:4S2X}.
+FT   HELIX        81     83       {ECO:0000244|PDB:4S2X}.
+FT   STRAND       88     90       {ECO:0000244|PDB:4S2V}.
+FT   STRAND       94    104       {ECO:0000244|PDB:4S2X}.
+FT   HELIX       108    110       {ECO:0000244|PDB:4S2X}.
+FT   STRAND      116    118       {ECO:0000244|PDB:4S2X}.
+FT   STRAND      120    128       {ECO:0000244|PDB:4S2X}.
+FT   HELIX       131    135       {ECO:0000244|PDB:4S2X}.
+FT   HELIX       138    140       {ECO:0000244|PDB:4S2X}.
+FT   HELIX       141    158       {ECO:0000244|PDB:4S2X}.
+SQ   SEQUENCE   176 AA;  20795 MW;  AF701FE93450C6D4 CRC64;
+     MIDDDGYRPN VGIVICNRQG QVMWARRFGQ HSWQFPQGGI NPGESAEQAM YRELFEEVGL
+     SRKDVRILAS TRNWLRYKLP KRLVRWDTKP VCIGQKQKWF LLQLVSGDAE INMQTSSTPE
+     FDGWRWVSYW YPVRQVVSFK RDVYRRVMKE FASVVMSLQE NTPKPQNASA YRRKRG
+//

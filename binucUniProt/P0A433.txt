@@ -1,0 +1,168 @@
+ID   OPD_SPHSA               Reviewed;         365 AA.
+AC   P0A433; P13739; P16648;
+DT   15-MAR-2005, integrated into UniProtKB/Swiss-Prot.
+DT   15-MAR-2005, sequence version 1.
+DT   22-JUL-2015, entry version 60.
+DE   RecName: Full=Parathion hydrolase;
+DE            EC=3.1.8.1;
+DE   AltName: Full=Phosphotriesterase;
+DE            Short=PTE;
+DE   Flags: Precursor;
+GN   Name=opd;
+OS   Sphingobium fuliginis (strain ATCC 27551).
+OG   Plasmid pPDL2.
+OC   Bacteria; Proteobacteria; Alphaproteobacteria; Sphingomonadales;
+OC   Sphingomonadaceae; Sphingobium.
+OX   NCBI_TaxID=336203;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND PROTEIN SEQUENCE OF 30-53.
+RX   PubMed=2556372;
+RA   Mulbry W.W., Karns J.S.;
+RT   "Parathion hydrolase specified by the Flavobacterium opd gene:
+RT   relationship between the gene and protein.";
+RL   J. Bacteriol. 171:6740-6746(1989).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS) OF 30-365, AND CARBAMYLATION AT
+RP   LYS-169.
+RX   PubMed=15369336; DOI=10.1021/ja0358798;
+RA   Hill C.M., Li W.S., Thoden J.B., Holden H.M., Raushel F.M.;
+RT   "Enhanced degradation of chemical warfare agents through molecular
+RT   engineering of the phosphotriesterase active site.";
+RL   J. Am. Chem. Soc. 125:8990-8991(2003).
+CC   -!- FUNCTION: Has an unusual substrate specificity for synthetic
+CC       organophosphate triesters and phosphorofluoridates. All of the
+CC       phosphate triesters found to be substrates are synthetic
+CC       compounds. The identity of any naturally occurring substrate for
+CC       the enzyme is unknown. Has no detectable activity with phosphate
+CC       monoesters or diesters and no activity as an esterase or protease.
+CC       It catalyzes the hydrolysis of the insecticide paraoxon at a rate
+CC       approaching the diffusion limit and thus appears to be optimally
+CC       evolved for utilizing this synthetic substrate (By similarity).
+CC       {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: An aryl dialkyl phosphate + H(2)O = dialkyl
+CC       phosphate + an aryl alcohol.
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC         Evidence={ECO:0000255|PROSITE-ProRule:PRU00679};
+CC       Note=Binds 2 Zn(2+) ions per subunit. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00679};
+CC   -!- SUBUNIT: Homodimer. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000250}; Peripheral
+CC       membrane protein {ECO:0000250}.
+CC   -!- PTM: Predicted to be exported by the Tat system. The position of
+CC       the signal peptide cleavage has been experimentally proven.
+CC   -!- SIMILARITY: Belongs to the phosphotriesterase family.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00679}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M29593; AAA24930.1; -; Genomic_DNA.
+DR   PIR; A43720; A43720.
+DR   PDB; 1P6B; X-ray; 1.90 A; A/B=30-365.
+DR   PDB; 1P6C; X-ray; 2.00 A; A/B=30-365.
+DR   PDBsum; 1P6B; -.
+DR   PDBsum; 1P6C; -.
+DR   ProteinModelPortal; P0A433; -.
+DR   SMR; P0A433; 34-364.
+DR   BioCyc; MetaCyc:MONOMER-3321; -.
+DR   BRENDA; 3.1.8.1; 2302.
+DR   EvolutionaryTrace; P0A433; -.
+DR   GO; GO:0005886; C:plasma membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0004063; F:aryldialkylphosphatase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:InterPro.
+DR   GO; GO:0009056; P:catabolic process; IEA:InterPro.
+DR   InterPro; IPR017947; AryldialkylPase_Zn-BS.
+DR   InterPro; IPR001559; Phosphotriesterase.
+DR   InterPro; IPR006311; TAT_signal.
+DR   PANTHER; PTHR10819; PTHR10819; 1.
+DR   Pfam; PF02126; PTE; 1.
+DR   PROSITE; PS01322; PHOSPHOTRIESTERASE_1; 1.
+DR   PROSITE; PS51347; PHOSPHOTRIESTERASE_2; 1.
+DR   PROSITE; PS51318; TAT; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cell membrane; Direct protein sequencing; Hydrolase;
+KW   Membrane; Metal-binding; Plasmid; Signal; Zinc.
+FT   SIGNAL        1     29       Tat-type signal. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00648,
+FT                                ECO:0000269|PubMed:2556372}.
+FT   CHAIN        30    365       Parathion hydrolase.
+FT                                /FTId=PRO_0000029861.
+FT   METAL        55     55       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000244|PDB:1P6B,
+FT                                ECO:0000244|PDB:1P6C,
+FT                                ECO:0000269|PubMed:15369336}.
+FT   METAL        57     57       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000244|PDB:1P6B,
+FT                                ECO:0000244|PDB:1P6C,
+FT                                ECO:0000269|PubMed:15369336}.
+FT   METAL       169    169       Zinc 1; via carbamate group.
+FT                                {ECO:0000244|PDB:1P6B,
+FT                                ECO:0000244|PDB:1P6C,
+FT                                ECO:0000269|PubMed:15369336}.
+FT   METAL       169    169       Zinc 2; via carbamate group.
+FT                                {ECO:0000244|PDB:1P6B,
+FT                                ECO:0000244|PDB:1P6C,
+FT                                ECO:0000269|PubMed:15369336}.
+FT   METAL       201    201       Zinc 2; via pros nitrogen.
+FT                                {ECO:0000244|PDB:1P6B,
+FT                                ECO:0000244|PDB:1P6C,
+FT                                ECO:0000269|PubMed:15369336}.
+FT   METAL       230    230       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000244|PDB:1P6B,
+FT                                ECO:0000244|PDB:1P6C,
+FT                                ECO:0000269|PubMed:15369336}.
+FT   METAL       301    301       Zinc 1. {ECO:0000244|PDB:1P6B,
+FT                                ECO:0000244|PDB:1P6C,
+FT                                ECO:0000269|PubMed:15369336}.
+FT   MOD_RES     169    169       N6-carboxylysine. {ECO:0000244|PDB:1P6B,
+FT                                ECO:0000244|PDB:1P6C,
+FT                                ECO:0000255|PROSITE-ProRule:PRU00679,
+FT                                ECO:0000269|PubMed:15369336}.
+FT   STRAND       36     39       {ECO:0000244|PDB:1P6B}.
+FT   STRAND       42     45       {ECO:0000244|PDB:1P6B}.
+FT   HELIX        46     48       {ECO:0000244|PDB:1P6B}.
+FT   STRAND       51     56       {ECO:0000244|PDB:1P6B}.
+FT   STRAND       58     60       {ECO:0000244|PDB:1P6B}.
+FT   HELIX        65     68       {ECO:0000244|PDB:1P6B}.
+FT   HELIX        70     73       {ECO:0000244|PDB:1P6B}.
+FT   HELIX        76     92       {ECO:0000244|PDB:1P6B}.
+FT   STRAND       97    100       {ECO:0000244|PDB:1P6B}.
+FT   HELIX       104    106       {ECO:0000244|PDB:1P6B}.
+FT   HELIX       110    120       {ECO:0000244|PDB:1P6B}.
+FT   STRAND      123    125       {ECO:0000244|PDB:1P6B}.
+FT   STRAND      127    129       {ECO:0000244|PDB:1P6B}.
+FT   HELIX       136    139       {ECO:0000244|PDB:1P6B}.
+FT   HELIX       143    155       {ECO:0000244|PDB:1P6B}.
+FT   STRAND      167    171       {ECO:0000244|PDB:1P6B}.
+FT   STRAND      173    175       {ECO:0000244|PDB:1P6B}.
+FT   HELIX       178    194       {ECO:0000244|PDB:1P6B}.
+FT   STRAND      198    201       {ECO:0000244|PDB:1P6B}.
+FT   HELIX       204    206       {ECO:0000244|PDB:1P6B}.
+FT   HELIX       208    218       {ECO:0000244|PDB:1P6B}.
+FT   HELIX       223    225       {ECO:0000244|PDB:1P6B}.
+FT   STRAND      226    228       {ECO:0000244|PDB:1P6B}.
+FT   HELIX       231    233       {ECO:0000244|PDB:1P6B}.
+FT   HELIX       237    245       {ECO:0000244|PDB:1P6B}.
+FT   STRAND      249    252       {ECO:0000244|PDB:1P6B}.
+FT   HELIX       266    272       {ECO:0000244|PDB:1P6B}.
+FT   HELIX       277    289       {ECO:0000244|PDB:1P6B}.
+FT   HELIX       293    295       {ECO:0000244|PDB:1P6B}.
+FT   STRAND      296    298       {ECO:0000244|PDB:1P6B}.
+FT   STRAND      304    306       {ECO:0000244|PDB:1P6B}.
+FT   STRAND      308    310       {ECO:0000244|PDB:1P6B}.
+FT   HELIX       313    320       {ECO:0000244|PDB:1P6B}.
+FT   HELIX       324    326       {ECO:0000244|PDB:1P6B}.
+FT   HELIX       327    337       {ECO:0000244|PDB:1P6B}.
+FT   TURN        338    340       {ECO:0000244|PDB:1P6B}.
+FT   HELIX       343    350       {ECO:0000244|PDB:1P6B}.
+FT   HELIX       352    358       {ECO:0000244|PDB:1P6B}.
+SQ   SEQUENCE   365 AA;  39004 MW;  41FF8E4B029B46DC CRC64;
+     MQTRRVVLKS AAAAGTLLGG LAGCASVAGS IGTGDRINTV RGPITISEAG FTLTHEHICG
+     SSAGFLRAWP EFFGSRKALA EKAVRGLRRA RAAGVRTIVD VSTFDIGRDV SLLAEVSRAA
+     DVHIVAATGL WFDPPLSMRL RSVEELTQFF LREIQYGIED TGIRAGIIKV ATTGKATPFQ
+     ELVLKAAARA SLATGVPVTT HTAASQRDGE QQAAIFESEG LSPSRVCIGH SDDTDDLSYL
+     TALAARGYLI GLDHIPHSAI GLEDNASASA LLGIRSWQTR ALLIKALIDQ GYMKQILVSN
+     DWLFGFSSYV TNIMDVMDRV NPDGMAFIPL RVIPFLREKG VPQETLAGIT VTNPARFLSP
+     TLRAS
+//

@@ -1,0 +1,163 @@
+ID   SYP_RHOPA               Reviewed;         438 AA.
+AC   Q6N5P6;
+DT   05-SEP-2006, integrated into UniProtKB/Swiss-Prot.
+DT   05-JUL-2004, sequence version 1.
+DT   22-JUL-2015, entry version 86.
+DE   RecName: Full=Proline--tRNA ligase;
+DE            EC=6.1.1.15;
+DE   AltName: Full=Prolyl-tRNA synthetase;
+DE            Short=ProRS;
+GN   Name=proS; OrderedLocusNames=RPA2928;
+OS   Rhodopseudomonas palustris (strain ATCC BAA-98 / CGA009).
+OC   Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales;
+OC   Bradyrhizobiaceae; Rhodopseudomonas.
+OX   NCBI_TaxID=258594;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC BAA-98 / CGA009;
+RX   PubMed=14704707; DOI=10.1038/nbt923;
+RA   Larimer F.W., Chain P., Hauser L., Lamerdin J.E., Malfatti S., Do L.,
+RA   Land M.L., Pelletier D.A., Beatty J.T., Lang A.S., Tabita F.R.,
+RA   Gibson J.L., Hanson T.E., Bobst C., Torres y Torres J.L., Peres C.,
+RA   Harrison F.H., Gibson J., Harwood C.S.;
+RT   "Complete genome sequence of the metabolically versatile
+RT   photosynthetic bacterium Rhodopseudomonas palustris.";
+RL   Nat. Biotechnol. 22:55-61(2004).
+RN   [2]
+RP   PROLINE AND CYSTEINE ACTIVATION, LACK OF EDITING ACTIVITY, AND KINETIC
+RP   PARAMETERS.
+RX   PubMed=12130657; DOI=10.1074/jbc.M206928200;
+RA   Ahel I., Stathopoulos C., Ambrogelly A., Sauerwald A., Toogood H.,
+RA   Hartsch T., Soell D.;
+RT   "Cysteine activation is an inherent in vitro property of prolyl-tRNA
+RT   synthetases.";
+RL   J. Biol. Chem. 277:34743-34748(2002).
+CC   -!- FUNCTION: Catalyzes the attachment of proline to tRNA(Pro) in a
+CC       two-step reaction: proline is first activated by ATP to form Pro-
+CC       AMP and then transferred to the acceptor end of tRNA(Pro). Can
+CC       inadvertently accommodate and process cysteine. The misacylated
+CC       Cys-tRNA(Pro) is not edited by ProRS.
+CC   -!- CATALYTIC ACTIVITY: ATP + L-proline + tRNA(Pro) = AMP +
+CC       diphosphate + L-prolyl-tRNA(Pro).
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=0.28 mM for proline {ECO:0000269|PubMed:12130657};
+CC         KM=0.17 mM for cysteine {ECO:0000269|PubMed:12130657};
+CC   -!- SUBUNIT: Homodimer. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm.
+CC   -!- SIMILARITY: Belongs to the class-II aminoacyl-tRNA synthetase
+CC       family. ProS type 2 subfamily. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; BX572602; CAE28369.1; -; Genomic_DNA.
+DR   RefSeq; WP_011158477.1; NC_005296.1.
+DR   PDB; 2I4L; X-ray; 2.00 A; A/B/C=1-438.
+DR   PDB; 2I4M; X-ray; 2.80 A; A/B/C=1-438.
+DR   PDB; 2I4N; X-ray; 2.85 A; A/B/C=1-438.
+DR   PDB; 2I4O; X-ray; 2.40 A; A/B/C=1-438.
+DR   PDBsum; 2I4L; -.
+DR   PDBsum; 2I4M; -.
+DR   PDBsum; 2I4N; -.
+DR   PDBsum; 2I4O; -.
+DR   ProteinModelPortal; Q6N5P6; -.
+DR   SMR; Q6N5P6; 1-438.
+DR   DIP; DIP-29058N; -.
+DR   STRING; 258594.RPA2928; -.
+DR   EnsemblBacteria; CAE28369; CAE28369; RPA2928.
+DR   KEGG; rpa:RPA2928; -.
+DR   PATRIC; 23290299; VBIRhoPal84835_3076.
+DR   eggNOG; COG0442; -.
+DR   HOGENOM; HOG000076894; -.
+DR   KO; K01881; -.
+DR   OMA; IQPAELW; -.
+DR   OrthoDB; EOG6TTVMR; -.
+DR   PhylomeDB; Q6N5P6; -.
+DR   BRENDA; 6.1.1.15; 5412.
+DR   SABIO-RK; Q6N5P6; -.
+DR   EvolutionaryTrace; Q6N5P6; -.
+DR   Proteomes; UP000001426; Chromosome.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0004827; F:proline-tRNA ligase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0006433; P:prolyl-tRNA aminoacylation; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 3.40.50.800; -; 1.
+DR   HAMAP; MF_01570; Pro_tRNA_synth_type2; 1.
+DR   InterPro; IPR002314; aa-tRNA-synt_IIb_cons-dom.
+DR   InterPro; IPR006195; aa-tRNA-synth_II.
+DR   InterPro; IPR004154; Anticodon-bd.
+DR   InterPro; IPR002316; Pro-tRNA-ligase_IIa.
+DR   InterPro; IPR004500; Pro-tRNA-synth_IIa_bac-type.
+DR   InterPro; IPR023716; Prolyl-tRNA_ligase_IIa_type2.
+DR   Pfam; PF03129; HGTP_anticodon; 1.
+DR   Pfam; PF00587; tRNA-synt_2b; 1.
+DR   PRINTS; PR01046; TRNASYNTHPRO.
+DR   SUPFAM; SSF52954; SSF52954; 1.
+DR   TIGRFAMs; TIGR00409; proS_fam_II; 1.
+DR   PROSITE; PS50862; AA_TRNA_LIGASE_II; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Aminoacyl-tRNA synthetase; ATP-binding;
+KW   Complete proteome; Cytoplasm; Ligase; Nucleotide-binding;
+KW   Protein biosynthesis; Reference proteome.
+FT   CHAIN         1    438       Proline--tRNA ligase.
+FT                                /FTId=PRO_0000248227.
+FT   HELIX         3      5       {ECO:0000244|PDB:2I4L}.
+FT   HELIX        21     28       {ECO:0000244|PDB:2I4L}.
+FT   STRAND       32     36       {ECO:0000244|PDB:2I4L}.
+FT   STRAND       39     42       {ECO:0000244|PDB:2I4L}.
+FT   HELIX        44     63       {ECO:0000244|PDB:2I4L}.
+FT   STRAND       73     76       {ECO:0000244|PDB:2I4L}.
+FT   HELIX        77     82       {ECO:0000244|PDB:2I4L}.
+FT   HELIX        85     88       {ECO:0000244|PDB:2I4L}.
+FT   HELIX        90     92       {ECO:0000244|PDB:2I4N}.
+FT   STRAND       93     97       {ECO:0000244|PDB:2I4L}.
+FT   STRAND      103    106       {ECO:0000244|PDB:2I4L}.
+FT   HELIX       111    121       {ECO:0000244|PDB:2I4L}.
+FT   HELIX       125    127       {ECO:0000244|PDB:2I4L}.
+FT   STRAND      129    139       {ECO:0000244|PDB:2I4L}.
+FT   HELIX       148    150       {ECO:0000244|PDB:2I4L}.
+FT   STRAND      153    166       {ECO:0000244|PDB:2I4L}.
+FT   HELIX       167    186       {ECO:0000244|PDB:2I4L}.
+FT   TURN        187    189       {ECO:0000244|PDB:2I4L}.
+FT   STRAND      192    196       {ECO:0000244|PDB:2I4L}.
+FT   HELIX       200    202       {ECO:0000244|PDB:2I4N}.
+FT   STRAND      207    213       {ECO:0000244|PDB:2I4L}.
+FT   STRAND      218    224       {ECO:0000244|PDB:2I4L}.
+FT   HELIX       225    229       {ECO:0000244|PDB:2I4L}.
+FT   STRAND      239    241       {ECO:0000244|PDB:2I4M}.
+FT   HELIX       244    252       {ECO:0000244|PDB:2I4L}.
+FT   STRAND      255    257       {ECO:0000244|PDB:2I4L}.
+FT   TURN        258    260       {ECO:0000244|PDB:2I4L}.
+FT   HELIX       265    269       {ECO:0000244|PDB:2I4L}.
+FT   TURN        272    274       {ECO:0000244|PDB:2I4L}.
+FT   STRAND      275    290       {ECO:0000244|PDB:2I4L}.
+FT   HELIX       292    296       {ECO:0000244|PDB:2I4L}.
+FT   STRAND      300    302       {ECO:0000244|PDB:2I4L}.
+FT   STRAND      308    310       {ECO:0000244|PDB:2I4L}.
+FT   STRAND      312    319       {ECO:0000244|PDB:2I4L}.
+FT   HELIX       320    330       {ECO:0000244|PDB:2I4L}.
+FT   STRAND      331    333       {ECO:0000244|PDB:2I4L}.
+FT   TURN        341    343       {ECO:0000244|PDB:2I4L}.
+FT   STRAND      347    354       {ECO:0000244|PDB:2I4L}.
+FT   HELIX       358    373       {ECO:0000244|PDB:2I4L}.
+FT   STRAND      378    381       {ECO:0000244|PDB:2I4L}.
+FT   HELIX       387    397       {ECO:0000244|PDB:2I4L}.
+FT   STRAND      400    405       {ECO:0000244|PDB:2I4L}.
+FT   HELIX       407    410       {ECO:0000244|PDB:2I4L}.
+FT   TURN        411    413       {ECO:0000244|PDB:2I4L}.
+FT   STRAND      414    419       {ECO:0000244|PDB:2I4L}.
+FT   TURN        420    422       {ECO:0000244|PDB:2I4L}.
+FT   STRAND      425    429       {ECO:0000244|PDB:2I4L}.
+FT   TURN        430    434       {ECO:0000244|PDB:2I4L}.
+FT   TURN        435    437       {ECO:0000244|PDB:2I4N}.
+SQ   SEQUENCE   438 AA;  49309 MW;  36D07FB76904F42A CRC64;
+     MRLSRFFLPI LKENPKEAEI VSHRLMLRAG MLRQEAAGIY AWLPLGHRVL KKIEQIVREE
+     QNRAGAIELL MPTLQLADLW RESGRYDAYG PEMLRIADRH KRELLYGPTN EEMITEIFRA
+     YIKSYKSLPL NLYHIQWKFR DEQRPRFGVM RGREFLMKDA YSFDVDEAGA RKSYNKMFVA
+     YLRTFARMGL KAIPMRAETG PIGGDLSHEF IVLAETGESG VYIDRDVLNL PVPDENVDYD
+     GDLTPIIKQW TSVYAATEDV HEPARYESEV PEANRLNTRG IEVGQIFYFG TKYSDSMKAN
+     VTGPDGTDAP IHGGSYGVGV SRLLGAIIEA CHDDNGIIWP EAVAPFRVTI LNLKQGDAAT
+     DAACDQLYRE LSAKGVDVLY DDTDQRAGAK FATADLIGIP WQIHVGPRGL AEGKVELKRR
+     SDGARENLAL ADVVARLT
+//

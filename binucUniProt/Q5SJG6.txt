@@ -1,0 +1,156 @@
+ID   GFH1_THET8              Reviewed;         156 AA.
+AC   Q5SJG6; Q8VQD5;
+DT   01-MAY-2013, integrated into UniProtKB/Swiss-Prot.
+DT   21-DEC-2004, sequence version 1.
+DT   22-JUL-2015, entry version 87.
+DE   RecName: Full=Transcription inhibitor protein Gfh1;
+DE   AltName: Full=Anti-cleavage anti-GreA transcription factor;
+DE   AltName: Full=Gre factor homolog 1;
+GN   Name=gfh1; OrderedLocusNames=TTHA1042;
+OS   Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579).
+OC   Bacteria; Deinococcus-Thermus; Deinococci; Thermales; Thermaceae;
+OC   Thermus.
+OX   NCBI_TaxID=300852;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], FUNCTION, AND GENE NAME.
+RC   STRAIN=HB8 / ATCC 27634 / DSM 579;
+RX   PubMed=11606592; DOI=10.1074/jbc.M108737200;
+RA   Hogan B.P., Hartsch T., Erie D.A.;
+RT   "Transcript cleavage by Thermus thermophilus RNA polymerase. Effects
+RT   of GreA and anti-GreA factors.";
+RL   J. Biol. Chem. 277:967-975(2002).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=HB8 / ATCC 27634 / DSM 579;
+RA   Masui R., Kurokawa K., Nakagawa N., Tokunaga F., Koyama Y.,
+RA   Shibata T., Oshima T., Yokoyama S., Yasunaga T., Kuramitsu S.;
+RT   "Complete genome sequence of Thermus thermophilus HB8.";
+RL   Submitted (NOV-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   FUNCTION, AND INTERACTION WITH RNAP.
+RX   PubMed=14712703; DOI=10.1016/S0076-6879(03)71016-7;
+RA   Laptenko O., Borukhov S.;
+RT   "Biochemical assays of Gre factors of Thermus thermophilus.";
+RL   Methods Enzymol. 371:219-232(2003).
+RN   [4]
+RP   CRYSTALLIZATION.
+RC   STRAIN=HB8 / ATCC 27634 / DSM 579;
+RX   PubMed=16511259; DOI=10.1107/S1744309105040297;
+RA   Perederina A.A., Vassylyeva M.N., Berezin I.A., Svetlov V.,
+RA   Artsimovitch I., Vassylyev D.G.;
+RT   "Cloning, expression, purification, crystallization and initial
+RT   crystallographic analysis of transcription elongation factors GreB
+RT   from Escherichia coli and Gfh1 from Thermus thermophilus.";
+RL   Acta Crystallogr. F 62:44-46(2006).
+RN   [5]
+RP   CRYSTALLIZATION, AND INTERACTION WITH RNAP.
+RX   PubMed=20057074; DOI=10.1107/S1744309109049215;
+RA   Tagami S., Sekine S., Kumarevel T., Yamamoto M., Yokoyama S.;
+RT   "Crystallization and preliminary X-ray crystallographic analysis of
+RT   Thermus thermophilus transcription elongation complex bound to Gfh1.";
+RL   Acta Crystallogr. F 66:64-68(2010).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (2.40 ANGSTROMS) IN COMPLEX WITH ZINC, AND
+RP   FUNCTION.
+RX   PubMed=16298991; DOI=10.1074/jbc.C500405200;
+RA   Symersky J., Perederina A., Vassylyeva M.N., Svetlov V.,
+RA   Artsimovitch I., Vassylyev D.G.;
+RT   "Regulation through the RNA polymerase secondary channel. Structural
+RT   and functional variability of the coiled-coil transcription factors.";
+RL   J. Biol. Chem. 281:1309-1312(2006).
+RN   [7]
+RP   X-RAY CRYSTALLOGRAPHY (4.10 ANGSTROMS) IN COMPLEX WITH RNAP.
+RX   PubMed=21124318; DOI=10.1038/nature09573;
+RA   Tagami S., Sekine S., Kumarevel T., Hino N., Murayama Y.,
+RA   Kamegamori S., Yamamoto M., Sakamoto K., Yokoyama S.;
+RT   "Crystal structure of bacterial RNA polymerase bound with a
+RT   transcription inhibitor protein.";
+RL   Nature 468:978-982(2010).
+CC   -!- FUNCTION: Inhibits all catalytic activities of RNA polymerase
+CC       (RNAP) by partially occluding its substrate-binding site and
+CC       preventing NTP binding. {ECO:0000269|PubMed:11606592,
+CC       ECO:0000269|PubMed:14712703, ECO:0000269|PubMed:16298991}.
+CC   -!- SUBUNIT: Interacts with RNAP. {ECO:0000269|PubMed:14712703,
+CC       ECO:0000269|PubMed:16298991, ECO:0000269|PubMed:20057074,
+CC       ECO:0000269|PubMed:21124318}.
+CC   -!- DOMAIN: Inhibitory activity is regulated via a pH-induced
+CC       conformational change of the structure. At pH above 7, Gfh1 is in
+CC       an inactive flipped orientation that prevents binding to RNAP. At
+CC       lower pH, Gfh1 switches to an active orientation, which enables
+CC       binding to RNAP and inhibitory activity (By similarity).
+CC       {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the GreA/GreB family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF456235; AAL57612.1; -; Genomic_DNA.
+DR   EMBL; AP008226; BAD70865.1; -; Genomic_DNA.
+DR   RefSeq; WP_011228396.1; NC_006461.1.
+DR   RefSeq; YP_144308.1; NC_006461.1.
+DR   PDB; 2EUL; X-ray; 2.40 A; A/B/C/D=1-156.
+DR   PDB; 3AOH; X-ray; 4.10 A; X/Y/Z=1-156.
+DR   PDB; 3AOI; X-ray; 4.30 A; X/Y/Z=1-156.
+DR   PDBsum; 2EUL; -.
+DR   PDBsum; 3AOH; -.
+DR   PDBsum; 3AOI; -.
+DR   ProteinModelPortal; Q5SJG6; -.
+DR   SMR; Q5SJG6; 1-156.
+DR   DIP; DIP-59216N; -.
+DR   STRING; 300852.TTHA1042; -.
+DR   EnsemblBacteria; BAD70865; BAD70865; BAD70865.
+DR   GeneID; 3168268; -.
+DR   KEGG; ttj:TTHA1042; -.
+DR   PATRIC; 23957044; VBITheThe93045_1022.
+DR   eggNOG; COG0782; -.
+DR   HOGENOM; HOG000241145; -.
+DR   KO; K03624; -.
+DR   OMA; AFMETRI; -.
+DR   OrthoDB; EOG686NQ9; -.
+DR   PhylomeDB; Q5SJG6; -.
+DR   BioCyc; TTHE300852:GH8R-1074-MONOMER; -.
+DR   EvolutionaryTrace; Q5SJG6; -.
+DR   Proteomes; UP000000532; Chromosome.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0032784; P:regulation of DNA-templated transcription, elongation; IEA:InterPro.
+DR   GO; GO:0006351; P:transcription, DNA-templated; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.287.180; -; 1.
+DR   Gene3D; 3.10.50.30; -; 1.
+DR   InterPro; IPR018151; TF_GreA/GreB_CS.
+DR   InterPro; IPR001437; Tscrpt_elong_fac_GreA/B_C.
+DR   InterPro; IPR023459; Tscrpt_elong_fac_GreA/B_fam.
+DR   InterPro; IPR022691; Tscrpt_elong_fac_GreA/B_N.
+DR   Pfam; PF01272; GreA_GreB; 1.
+DR   Pfam; PF03449; GreA_GreB_N; 1.
+DR   PIRSF; PIRSF006092; GreA_GreB; 1.
+DR   SUPFAM; SSF46557; SSF46557; 1.
+DR   PROSITE; PS00830; GREAB_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Coiled coil; Complete proteome; Metal-binding;
+KW   Reference proteome; Transcription; Transcription regulation; Zinc.
+FT   CHAIN         1    156       Transcription inhibitor protein Gfh1.
+FT                                /FTId=PRO_0000422249.
+FT   COILED        1     74       {ECO:0000255}.
+FT   METAL        20     20       Zinc. {ECO:0000269|PubMed:16298991}.
+FT   METAL        24     24       Zinc. {ECO:0000269|PubMed:16298991}.
+FT   CONFLICT    146    146       R -> K (in Ref. 1; AAL57612).
+FT                                {ECO:0000305}.
+FT   STRAND        5      7       {ECO:0000244|PDB:2EUL}.
+FT   HELIX         9     38       {ECO:0000244|PDB:2EUL}.
+FT   HELIX        46     71       {ECO:0000244|PDB:2EUL}.
+FT   STRAND       72     74       {ECO:0000244|PDB:2EUL}.
+FT   STRAND       88     93       {ECO:0000244|PDB:2EUL}.
+FT   TURN         94     97       {ECO:0000244|PDB:2EUL}.
+FT   STRAND       98    105       {ECO:0000244|PDB:2EUL}.
+FT   TURN        107    109       {ECO:0000244|PDB:2EUL}.
+FT   STRAND      114    116       {ECO:0000244|PDB:2EUL}.
+FT   STRAND      118    120       {ECO:0000244|PDB:2EUL}.
+FT   HELIX       124    129       {ECO:0000244|PDB:2EUL}.
+FT   STRAND      137    140       {ECO:0000244|PDB:2EUL}.
+FT   STRAND      147    154       {ECO:0000244|PDB:2EUL}.
+SQ   SEQUENCE   156 AA;  17183 MW;  2B7BB05B0E8ECE14 CRC64;
+     MAREVKLTKA GYERLMQQLE RERERLQEAT KILQELMESS DDYDDSGLEA AKQEKARIEA
+     RIDSLEDILS RAVILEEGSG EVIGLGSVVE LEDPLSGERL SVQVVSPAEA NVLDTPMKIS
+     DASPMGKALL GHRVGDVLSL DTPKGRREFR VVAIHG
+//

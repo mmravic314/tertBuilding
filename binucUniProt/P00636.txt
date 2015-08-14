@@ -1,0 +1,478 @@
+ID   F16P1_PIG               Reviewed;         338 AA.
+AC   P00636;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 4.
+DT   24-JUN-2015, entry version 140.
+DE   RecName: Full=Fructose-1,6-bisphosphatase 1;
+DE            Short=FBPase 1;
+DE            EC=3.1.3.11;
+DE   AltName: Full=D-fructose-1,6-bisphosphate 1-phosphohydrolase 1;
+DE   AltName: Full=Liver FBPase;
+GN   Name=FBP1; Synonyms=FBP;
+OS   Sus scrofa (Pig).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Suina; Suidae;
+OC   Sus.
+OX   NCBI_TaxID=9823;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Kidney;
+RX   PubMed=1313579; DOI=10.1073/pnas.89.7.3080;
+RA   Williams M.K., Kantrowitz E.R.;
+RT   "Isolation and sequence analysis of the cDNA for pig kidney fructose
+RT   1,6-bisphosphatase.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 89:3080-3082(1992).
+RN   [2]
+RP   PROTEIN SEQUENCE OF 2-336, ACETYLATION AT THR-2, AND PHOSPHORYLATION
+RP   AT SER-208.
+RC   TISSUE=Kidney cortex;
+RX   PubMed=6296821; DOI=10.1073/pnas.79.23.7161;
+RA   Marcus F., Edelstein I., Reardon I., Heinrikson R.L.;
+RT   "Complete amino acid sequence of pig kidney fructose-1,6-
+RT   bisphosphatase.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 79:7161-7165(1982).
+RN   [3]
+RP   PROTEIN SEQUENCE OF 2-24 AND 44-61, AND ACETYLATION AT THR-2.
+RC   TISSUE=Kidney;
+RX   PubMed=6291465; DOI=10.1016/0003-9861(82)90547-1;
+RA   McGregor J.S., Hannappel E., Xu G.-J., Pontremoli S., Horecker B.L.;
+RT   "Conservation of primary structure at the proteinase-sensitive site of
+RT   fructose 1,6-bisphosphatases.";
+RL   Arch. Biochem. Biophys. 217:652-664(1982).
+RN   [4]
+RP   SUBSTRATE-BINDING SITE, LIGANDS, AND REVIEW.
+RX   PubMed=6277165;
+RA   Benkovic S.J., Demaine M.M.;
+RT   "Mechanism of action of fructose 1,6-bisphosphatase.";
+RL   Adv. Enzymol. Relat. Areas Mol. Biol. 53:45-82(1982).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (2.6 ANGSTROMS) IN COMPLEX WITH
+RP   FRUCTOSE-2,6-BISPHOSPHATE, AND SEQUENCE REVISION.
+RX   PubMed=2157849; DOI=10.1016/0022-2836(90)90329-K;
+RA   Ke H.M., Thorpe C.M., Seaton B.A., Lipscomb W.N., Marcus F.;
+RT   "Structure refinement of fructose-1,6-bisphosphatase and its fructose
+RT   2,6-bisphosphate complex at 2.8-A resolution.";
+RL   J. Mol. Biol. 212:513-539(1990).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS) IN COMPLEX WITH
+RP   FRUCTOSE-6-PHOSPHATE; AMP AND MAGNESIUM, ENZYME REGULATION, AND
+RP   SUBUNIT.
+RX   PubMed=2164670; DOI=10.1073/pnas.87.14.5243;
+RA   Ke H.M., Zhang Y.P., Lipscomb W.N.;
+RT   "Crystal structure of fructose-1,6-bisphosphatase complexed with
+RT   fructose 6-phosphate, AMP, and magnesium.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 87:5243-5247(1990).
+RN   [7]
+RP   X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS) IN COMPLEX WITH
+RP   FRUCTOSE-6-PHOSPHATE.
+RX   PubMed=1849642; DOI=10.1073/pnas.88.8.2989;
+RA   Ke H.M., Zhang Y.P., Liang J.-Y., Lipscomb W.N.;
+RT   "Crystal structure of the neutral form of fructose-1,6-bisphosphatase
+RT   complexed with the product fructose 6-phosphate at 2.1-A resolution.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 88:2989-2993(1991).
+RN   [8]
+RP   X-RAY CRYSTALLOGRAPHY (2.6 ANGSTROMS) IN COMPLEX WITH
+RP   FRUCTOSE-2,6-BISPHOSPHATE.
+RX   PubMed=1312721; DOI=10.1073/pnas.89.6.2404;
+RA   Liang J.-Y., Huang S., Zhang Y.P., Ke H.M., Lipscomb W.N.;
+RT   "Crystal structure of the neutral form of fructose 1,6-bisphosphatase
+RT   complexed with regulatory inhibitor fructose 2,6-bisphosphate at 2.6-A
+RT   resolution.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 89:2404-2408(1992).
+RN   [9]
+RP   X-RAY CRYSTALLOGRAPHY (2.27 ANGSTROMS) IN COMPLEX WITH ZINC IONS,
+RP   COFACTOR, AND ENZYME REGULATION.
+RX   PubMed=9708979; DOI=10.1021/bi981112u;
+RA   Choe J.-Y., Poland B.W., Fromm H.J., Honzatko R.B.;
+RT   "Role of a dynamic loop in cation activation and allosteric regulation
+RT   of recombinant porcine fructose-1,6-bisphosphatase.";
+RL   Biochemistry 37:11441-11450(1998).
+RN   [10]
+RP   X-RAY CRYSTALLOGRAPHY (2.23 ANGSTROMS) IN COMPLEXES WITH
+RP   FRUCTOSE-6-PHOSPHATE; PHOSPHATE; AMP; MAGNESIUM AND ZINC IONS,
+RP   SUBUNIT, AND ENZYME REGULATION.
+RX   PubMed=10913263; DOI=10.1021/bi000574g;
+RA   Choe J.-Y., Fromm H.J., Honzatko R.B.;
+RT   "Crystal structures of fructose 1,6-bisphosphatase: mechanism of
+RT   catalysis and allosteric inhibition revealed in product complexes.";
+RL   Biochemistry 39:8565-8574(2000).
+RN   [11]
+RP   X-RAY CRYSTALLOGRAPHY (1.3 ANGSTROMS) IN COMPLEXES WITH MAGNESIUM
+RP   IONS; FRUCTOSE-6-PHOSPHATE AND PHOSPHATE, COFACTOR, AND ENZYME
+RP   MECHANISM.
+RX   PubMed=12595528; DOI=10.1074/jbc.M212395200;
+RA   Choe J.-Y., Iancu C.V., Fromm H.J., Honzatko R.B.;
+RT   "Metaphosphate in the active site of fructose-1,6-bisphosphatase.";
+RL   J. Biol. Chem. 278:16015-16020(2003).
+RN   [12]
+RP   X-RAY CRYSTALLOGRAPHY (2.35 ANGSTROMS) IN COMPLEX WITH THE SYNTHETIC
+RP   INHIBITOR OC252; FRUCTOSE-6-PHOSPHATE; PHOSPHATE AND DIVALENT METAL
+RP   CATIONS, COFACTOR, SUBUNIT, AND ENZYME REGULATION.
+RX   PubMed=14530289; DOI=10.1074/jbc.M308396200;
+RA   Choe J.-Y., Nelson S.W., Arienti K.L., Axe F.U., Collins T.L.,
+RA   Jones T.K., Kimmich R.D.A., Newman M.J., Norvell K., Ripka W.C.,
+RA   Romano S.J., Short K.M., Slee D.H., Fromm H.J., Honzatko R.B.;
+RT   "Inhibition of fructose-1,6-bisphosphatase by a new class of
+RT   allosteric effectors.";
+RL   J. Biol. Chem. 278:51176-51183(2003).
+RN   [13]
+RP   X-RAY CRYSTALLOGRAPHY (1.85 ANGSTROMS) OF MUTANT LEU-55 IN COMPLEXES
+RP   WITH AMP; FRUCTORSE-6-PHOSPHAT; PHOSPHATE AND MAGNESIUM IONS, SUBUNIT,
+RP   COFACTOR, BIOPHYSICOCHEMICAL PROPERTIES, AND ENZYME REGULATION.
+RX   PubMed=15767255; DOI=10.1074/jbc.M501011200;
+RA   Iancu C.V., Mukund S., Fromm H.J., Honzatko R.B.;
+RT   "R-state AMP complex reveals initial steps of the quaternary
+RT   transition of fructose-1,6-bisphosphatase.";
+RL   J. Biol. Chem. 280:19737-19745(2005).
+RN   [14]
+RP   X-RAY CRYSTALLOGRAPHY (1.5 ANGSTROMS) IN COMPLEXES WITH MAGNESIUM IONS
+RP   AND FRUCTOSE-2,6-DIPHOSPHATE, SUBUNIT, AND ENZYME REGULATION.
+RX   PubMed=17933867; DOI=10.1074/jbc.M707302200;
+RA   Hines J.K., Chen X., Nix J.C., Fromm H.J., Honzatko R.B.;
+RT   "Structures of mammalian and bacterial fructose-1,6-bisphosphatase
+RT   reveal the basis for synergism in AMP/fructose 2,6-bisphosphate
+RT   inhibition.";
+RL   J. Biol. Chem. 282:36121-36131(2007).
+CC   -!- FUNCTION: Catalyzes the hydrolysis of fructose 1,6-bisphosphate to
+CC       fructose 6-phosphate in the presence of divalent cations, acting
+CC       as a rate-limiting enzyme in gluconeogenesis. Plays a role in
+CC       regulating glucose sensing and insulin secretion of pancreatic
+CC       beta-cells. Appears to modulate glycerol gluconeogenesis in liver.
+CC       Important regulator of appetite and adiposity; increased
+CC       expression of the protein in liver after nutrient excess increases
+CC       circulating satiety hormones and reduces appetite-stimulating
+CC       neuropeptides and thus seems to provide a feedback mechanism to
+CC       limit weight gain (By similarity). {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: D-fructose 1,6-bisphosphate + H(2)O = D-
+CC       fructose 6-phosphate + phosphate.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000269|PubMed:12595528,
+CC         ECO:0000269|PubMed:14530289, ECO:0000269|PubMed:15767255,
+CC         ECO:0000269|PubMed:9708979};
+CC       Note=Binds 3 Mg(2+) ions per subunit.
+CC       {ECO:0000269|PubMed:12595528, ECO:0000269|PubMed:14530289,
+CC       ECO:0000269|PubMed:15767255, ECO:0000269|PubMed:9708979};
+CC   -!- ENZYME REGULATION: Subject to complex allosteric regulation. The
+CC       enzyme can assume an active R-state, or an inactive T-state.
+CC       Intermediate conformations may exist. AMP acts as allosteric
+CC       inhibitor. AMP binding affects the turnover of bound substrate and
+CC       not the affinity for substrate. Fructose 2,6-bisphosphate acts as
+CC       competitive inhibitor. Fructose 2,6-bisphosphate and AMP have
+CC       synergistic effects. {ECO:0000269|PubMed:10913263,
+CC       ECO:0000269|PubMed:14530289, ECO:0000269|PubMed:15767255,
+CC       ECO:0000269|PubMed:17933867, ECO:0000269|PubMed:2164670,
+CC       ECO:0000269|PubMed:9708979}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=1.2 uM for fructose-1,6-diphosphate
+CC         {ECO:0000269|PubMed:15767255};
+CC   -!- PATHWAY: Carbohydrate biosynthesis; gluconeogenesis.
+CC   -!- SUBUNIT: Homotetramer. {ECO:0000269|PubMed:10913263,
+CC       ECO:0000269|PubMed:1312721, ECO:0000269|PubMed:14530289,
+CC       ECO:0000269|PubMed:15767255, ECO:0000269|PubMed:17933867,
+CC       ECO:0000269|PubMed:1849642, ECO:0000269|PubMed:2157849,
+CC       ECO:0000269|PubMed:2164670, ECO:0000269|PubMed:9708979}.
+CC   -!- MISCELLANEOUS: The molecule has a highly reactive cysteine residue
+CC       (Cys-117 or Cys-129), which tends to form mixed disulfides (e.g.
+CC       with homocystine) but is not essential for enzyme activity.
+CC   -!- SIMILARITY: Belongs to the FBPase class 1 family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M86347; AAA31035.1; -; mRNA.
+DR   PIR; S37696; PAPGF.
+DR   RefSeq; NP_999144.1; NM_213979.1.
+DR   UniGene; Ssc.5127; -.
+DR   PDB; 1CNQ; X-ray; 2.27 A; A=2-338.
+DR   PDB; 1EYI; X-ray; 2.32 A; A=2-338.
+DR   PDB; 1EYJ; X-ray; 2.28 A; A/B=2-338.
+DR   PDB; 1EYK; X-ray; 2.23 A; A/B=2-338.
+DR   PDB; 1FBC; X-ray; 2.60 A; A/B=2-336.
+DR   PDB; 1FBD; X-ray; 2.90 A; A/B=2-336.
+DR   PDB; 1FBE; X-ray; 3.00 A; A/B=2-336.
+DR   PDB; 1FBF; X-ray; 2.70 A; A/B=2-336.
+DR   PDB; 1FBG; X-ray; 3.00 A; A/B=2-336.
+DR   PDB; 1FBH; X-ray; 2.50 A; A/B=2-336.
+DR   PDB; 1FBP; X-ray; 2.50 A; A/B=2-336.
+DR   PDB; 1FJ6; X-ray; 2.50 A; A=2-338.
+DR   PDB; 1FJ9; X-ray; 2.50 A; A/B=2-338.
+DR   PDB; 1FPB; X-ray; 2.60 A; A/B=2-336.
+DR   PDB; 1FPD; X-ray; 2.10 A; A/B=2-336.
+DR   PDB; 1FPE; X-ray; 2.20 A; A/B=2-336.
+DR   PDB; 1FPF; X-ray; 2.10 A; A/B=2-336.
+DR   PDB; 1FPG; X-ray; 2.30 A; A/B=2-336.
+DR   PDB; 1FPI; X-ray; 2.30 A; A/B=2-336.
+DR   PDB; 1FPJ; X-ray; 2.20 A; A/B=2-336.
+DR   PDB; 1FPK; X-ray; 3.00 A; A/B=2-336.
+DR   PDB; 1FPL; X-ray; 2.30 A; A/B=2-336.
+DR   PDB; 1FRP; X-ray; 2.00 A; A/B=2-336.
+DR   PDB; 1FSA; X-ray; 2.30 A; A/B=2-338.
+DR   PDB; 1KZ8; X-ray; 2.00 A; A/F=2-338.
+DR   PDB; 1LEV; X-ray; 2.15 A; A/F=2-338.
+DR   PDB; 1NUW; X-ray; 1.30 A; A=2-338.
+DR   PDB; 1NUX; X-ray; 1.60 A; A=2-338.
+DR   PDB; 1NUY; X-ray; 1.30 A; A=2-338.
+DR   PDB; 1NUZ; X-ray; 1.90 A; A=2-338.
+DR   PDB; 1NV0; X-ray; 1.80 A; A=2-338.
+DR   PDB; 1NV1; X-ray; 1.90 A; A=2-338.
+DR   PDB; 1NV2; X-ray; 2.10 A; A=2-338.
+DR   PDB; 1NV3; X-ray; 2.00 A; A=2-338.
+DR   PDB; 1NV4; X-ray; 1.90 A; A=2-338.
+DR   PDB; 1NV5; X-ray; 1.90 A; A=2-338.
+DR   PDB; 1NV6; X-ray; 2.15 A; A=2-338.
+DR   PDB; 1NV7; X-ray; 2.15 A; A/B=2-338.
+DR   PDB; 1Q9D; X-ray; 2.35 A; A/B=2-338.
+DR   PDB; 1RDX; X-ray; 2.75 A; A/B=2-338.
+DR   PDB; 1RDY; X-ray; 2.20 A; A/B=2-338.
+DR   PDB; 1RDZ; X-ray; 2.05 A; A/B=2-338.
+DR   PDB; 1YXI; X-ray; 2.00 A; A=2-338.
+DR   PDB; 1YYZ; X-ray; 1.85 A; A=2-338.
+DR   PDB; 1YZ0; X-ray; 2.07 A; A/B=2-338.
+DR   PDB; 2F3B; X-ray; 1.80 A; A=1-338.
+DR   PDB; 2F3D; X-ray; 1.83 A; A=1-338.
+DR   PDB; 2FBP; X-ray; 2.80 A; A/B=2-336.
+DR   PDB; 2QVU; X-ray; 1.50 A; A/B=2-338.
+DR   PDB; 2QVV; X-ray; 2.03 A; A/B=2-338.
+DR   PDB; 3FBP; X-ray; 2.80 A; A/B=2-336.
+DR   PDB; 4FBP; X-ray; 2.50 A; A/B/C/D=2-336.
+DR   PDB; 4GBV; X-ray; 2.90 A; A=2-336.
+DR   PDB; 4GBW; X-ray; 2.00 A; A=2-336.
+DR   PDB; 4GWS; X-ray; 2.75 A; A/B=2-338.
+DR   PDB; 4GWU; X-ray; 3.00 A; A=2-338.
+DR   PDB; 4GWW; X-ray; 3.20 A; A=2-338.
+DR   PDB; 4GWX; X-ray; 2.35 A; A=2-338.
+DR   PDB; 4GWY; X-ray; 3.00 A; A=2-338.
+DR   PDB; 4GWZ; X-ray; 2.60 A; A/B=2-338.
+DR   PDB; 4GX3; X-ray; 2.25 A; A/B=2-338.
+DR   PDB; 4GX4; X-ray; 2.50 A; A/B=2-338.
+DR   PDB; 4GX6; X-ray; 2.50 A; A/B=2-338.
+DR   PDB; 4H45; X-ray; 3.10 A; A=2-338.
+DR   PDB; 4H46; X-ray; 2.50 A; A=2-338.
+DR   PDB; 4KXP; X-ray; 2.70 A; A/B=1-338.
+DR   PDB; 5FBP; X-ray; 2.10 A; A/B=2-336.
+DR   PDBsum; 1CNQ; -.
+DR   PDBsum; 1EYI; -.
+DR   PDBsum; 1EYJ; -.
+DR   PDBsum; 1EYK; -.
+DR   PDBsum; 1FBC; -.
+DR   PDBsum; 1FBD; -.
+DR   PDBsum; 1FBE; -.
+DR   PDBsum; 1FBF; -.
+DR   PDBsum; 1FBG; -.
+DR   PDBsum; 1FBH; -.
+DR   PDBsum; 1FBP; -.
+DR   PDBsum; 1FJ6; -.
+DR   PDBsum; 1FJ9; -.
+DR   PDBsum; 1FPB; -.
+DR   PDBsum; 1FPD; -.
+DR   PDBsum; 1FPE; -.
+DR   PDBsum; 1FPF; -.
+DR   PDBsum; 1FPG; -.
+DR   PDBsum; 1FPI; -.
+DR   PDBsum; 1FPJ; -.
+DR   PDBsum; 1FPK; -.
+DR   PDBsum; 1FPL; -.
+DR   PDBsum; 1FRP; -.
+DR   PDBsum; 1FSA; -.
+DR   PDBsum; 1KZ8; -.
+DR   PDBsum; 1LEV; -.
+DR   PDBsum; 1NUW; -.
+DR   PDBsum; 1NUX; -.
+DR   PDBsum; 1NUY; -.
+DR   PDBsum; 1NUZ; -.
+DR   PDBsum; 1NV0; -.
+DR   PDBsum; 1NV1; -.
+DR   PDBsum; 1NV2; -.
+DR   PDBsum; 1NV3; -.
+DR   PDBsum; 1NV4; -.
+DR   PDBsum; 1NV5; -.
+DR   PDBsum; 1NV6; -.
+DR   PDBsum; 1NV7; -.
+DR   PDBsum; 1Q9D; -.
+DR   PDBsum; 1RDX; -.
+DR   PDBsum; 1RDY; -.
+DR   PDBsum; 1RDZ; -.
+DR   PDBsum; 1YXI; -.
+DR   PDBsum; 1YYZ; -.
+DR   PDBsum; 1YZ0; -.
+DR   PDBsum; 2F3B; -.
+DR   PDBsum; 2F3D; -.
+DR   PDBsum; 2FBP; -.
+DR   PDBsum; 2QVU; -.
+DR   PDBsum; 2QVV; -.
+DR   PDBsum; 3FBP; -.
+DR   PDBsum; 4FBP; -.
+DR   PDBsum; 4GBV; -.
+DR   PDBsum; 4GBW; -.
+DR   PDBsum; 4GWS; -.
+DR   PDBsum; 4GWU; -.
+DR   PDBsum; 4GWW; -.
+DR   PDBsum; 4GWX; -.
+DR   PDBsum; 4GWY; -.
+DR   PDBsum; 4GWZ; -.
+DR   PDBsum; 4GX3; -.
+DR   PDBsum; 4GX4; -.
+DR   PDBsum; 4GX6; -.
+DR   PDBsum; 4H45; -.
+DR   PDBsum; 4H46; -.
+DR   PDBsum; 4KXP; -.
+DR   PDBsum; 5FBP; -.
+DR   ProteinModelPortal; P00636; -.
+DR   SMR; P00636; 7-338.
+DR   STRING; 9823.ENSSSCP00000011671; -.
+DR   BindingDB; P00636; -.
+DR   ChEMBL; CHEMBL2263; -.
+DR   PaxDb; P00636; -.
+DR   PRIDE; P00636; -.
+DR   GeneID; 397038; -.
+DR   KEGG; ssc:397038; -.
+DR   CTD; 2203; -.
+DR   eggNOG; COG0158; -.
+DR   HOGENOM; HOG000191265; -.
+DR   HOVERGEN; HBG005627; -.
+DR   InParanoid; P00636; -.
+DR   KO; K03841; -.
+DR   BRENDA; 3.1.3.11; 6170.
+DR   SABIO-RK; P00636; -.
+DR   UniPathway; UPA00138; -.
+DR   EvolutionaryTrace; P00636; -.
+DR   PRO; PR:P00636; -.
+DR   Proteomes; UP000008227; Unplaced.
+DR   Genevisible; P00636; SS.
+DR   GO; GO:0005737; C:cytoplasm; ISS:UniProtKB.
+DR   GO; GO:0005829; C:cytosol; ISS:UniProtKB.
+DR   GO; GO:0016208; F:AMP binding; ISS:UniProtKB.
+DR   GO; GO:0042132; F:fructose 1,6-bisphosphate 1-phosphatase activity; ISS:UniProtKB.
+DR   GO; GO:0046872; F:metal ion binding; ISS:UniProtKB.
+DR   GO; GO:0048029; F:monosaccharide binding; ISS:UniProtKB.
+DR   GO; GO:0035690; P:cellular response to drug; ISS:UniProtKB.
+DR   GO; GO:0071286; P:cellular response to magnesium ion; ISS:UniProtKB.
+DR   GO; GO:0016311; P:dephosphorylation; ISS:UniProtKB.
+DR   GO; GO:0006002; P:fructose 6-phosphate metabolic process; ISS:UniProtKB.
+DR   GO; GO:0006094; P:gluconeogenesis; ISS:UniProtKB.
+DR   GO; GO:0030308; P:negative regulation of cell growth; ISS:UniProtKB.
+DR   GO; GO:0045820; P:negative regulation of glycolytic process; ISS:UniProtKB.
+DR   GO; GO:0046580; P:negative regulation of Ras protein signal transduction; ISS:UniProtKB.
+DR   GO; GO:0051289; P:protein homotetramerization; ISS:UniProtKB.
+DR   GO; GO:0006111; P:regulation of gluconeogenesis; ISS:UniProtKB.
+DR   HAMAP; MF_01855; FBPase_class1; 1.
+DR   InterPro; IPR000146; FBPase_class-1/SBPase.
+DR   InterPro; IPR028343; FBPtase.
+DR   InterPro; IPR020548; Fructose_bisphosphatase_AS.
+DR   PANTHER; PTHR11556; PTHR11556; 1.
+DR   Pfam; PF00316; FBPase; 1.
+DR   PIRSF; PIRSF500210; FBPtase; 1.
+DR   PIRSF; PIRSF000904; FBPtase_SBPase; 1.
+DR   PRINTS; PR00115; F16BPHPHTASE.
+DR   PROSITE; PS00124; FBPASE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Allosteric enzyme; Carbohydrate metabolism;
+KW   Complete proteome; Direct protein sequencing; Gluconeogenesis;
+KW   Hydrolase; Magnesium; Metal-binding; Phosphoprotein;
+KW   Reference proteome.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:6291465,
+FT                                ECO:0000269|PubMed:6296821}.
+FT   CHAIN         2    338       Fructose-1,6-bisphosphatase 1.
+FT                                /FTId=PRO_0000200500.
+FT   NP_BIND      18     22       AMP. {ECO:0000269|PubMed:2164670}.
+FT   NP_BIND      28     32       AMP. {ECO:0000269|PubMed:2164670}.
+FT   NP_BIND     113    114       AMP. {ECO:0000269|PubMed:2164670}.
+FT   REGION      122    125       Substrate binding.
+FT   REGION      213    216       Substrate binding.
+FT   REGION      244    249       Substrate binding.
+FT   REGION      275    277       Substrate binding.
+FT   METAL        69     69       Magnesium 1.
+FT                                {ECO:0000269|PubMed:2164670}.
+FT   METAL        98     98       Magnesium 1.
+FT                                {ECO:0000269|PubMed:2164670}.
+FT   METAL        98     98       Magnesium 2.
+FT                                {ECO:0000269|PubMed:2164670}.
+FT   METAL       119    119       Magnesium 2.
+FT                                {ECO:0000269|PubMed:2164670}.
+FT   METAL       119    119       Magnesium 3.
+FT                                {ECO:0000269|PubMed:2164670}.
+FT   METAL       121    121       Magnesium 2; via carbonyl oxygen.
+FT                                {ECO:0000269|PubMed:2164670}.
+FT   METAL       122    122       Magnesium 3.
+FT                                {ECO:0000269|PubMed:2164670}.
+FT   METAL       281    281       Magnesium 3.
+FT                                {ECO:0000269|PubMed:2164670}.
+FT   BINDING     141    141       AMP. {ECO:0000269|PubMed:2164670}.
+FT   BINDING     265    265       Substrate.
+FT   MOD_RES       2      2       N-acetylthreonine.
+FT                                {ECO:0000269|PubMed:6291465,
+FT                                ECO:0000269|PubMed:6296821}.
+FT   MOD_RES     151    151       N6-succinyllysine.
+FT                                {ECO:0000250|UniProtKB:Q9QXD6}.
+FT   MOD_RES     208    208       Phosphoserine; by PKA.
+FT                                {ECO:0000269|PubMed:6296821}.
+FT   MOD_RES     216    216       Phosphotyrosine.
+FT                                {ECO:0000250|UniProtKB:Q9QXD6}.
+FT   MOD_RES     265    265       Phosphotyrosine.
+FT                                {ECO:0000250|UniProtKB:P09467}.
+FT   MUTAGEN      55     55       A->L: Destabilizes the inactive T-state
+FT                                and promotes transition to the R-state.
+FT   CONFLICT      2      2       T -> A (in Ref. 3; AA sequence).
+FT                                {ECO:0000305}.
+FT   CONFLICT      4      4       Q -> E (in Ref. 3; AA sequence).
+FT                                {ECO:0000305}.
+FT   CONFLICT     21     21       E -> Q (in Ref. 2; AA sequence).
+FT                                {ECO:0000305}.
+FT   CONFLICT     97     97       S -> T (in Ref. 2; AA sequence).
+FT                                {ECO:0000305}.
+FT   CONFLICT    157    157       G -> E (in Ref. 2; AA sequence).
+FT                                {ECO:0000305}.
+FT   CONFLICT    200    200       D -> N (in Ref. 2; AA sequence).
+FT                                {ECO:0000305}.
+FT   CONFLICT    229    229       Q -> E (in Ref. 2; AA sequence).
+FT                                {ECO:0000305}.
+FT   HELIX        14     24       {ECO:0000244|PDB:1NUW}.
+FT   HELIX        30     50       {ECO:0000244|PDB:1NUW}.
+FT   TURN         51     56       {ECO:0000244|PDB:1NUW}.
+FT   STRAND       59     64       {ECO:0000244|PDB:1NUW}.
+FT   STRAND       66     68       {ECO:0000244|PDB:1NV1}.
+FT   STRAND       70     72       {ECO:0000244|PDB:1NUW}.
+FT   HELIX        73     88       {ECO:0000244|PDB:1NUW}.
+FT   STRAND       92     97       {ECO:0000244|PDB:1NUW}.
+FT   STRAND      101    105       {ECO:0000244|PDB:1FSA}.
+FT   HELIX       108    110       {ECO:0000244|PDB:1NUW}.
+FT   STRAND      111    122       {ECO:0000244|PDB:1NUW}.
+FT   HELIX       124    126       {ECO:0000244|PDB:1NUW}.
+FT   TURN        127    130       {ECO:0000244|PDB:1NUW}.
+FT   STRAND      133    141       {ECO:0000244|PDB:1NUW}.
+FT   STRAND      144    146       {ECO:0000244|PDB:2QVU}.
+FT   STRAND      147    149       {ECO:0000244|PDB:3FBP}.
+FT   HELIX       150    153       {ECO:0000244|PDB:1NUW}.
+FT   HELIX       157    159       {ECO:0000244|PDB:1NUW}.
+FT   STRAND      161    178       {ECO:0000244|PDB:1NUW}.
+FT   STRAND      181    188       {ECO:0000244|PDB:1NUW}.
+FT   TURN        189    192       {ECO:0000244|PDB:1NUW}.
+FT   STRAND      193    198       {ECO:0000244|PDB:1NUW}.
+FT   STRAND      208    211       {ECO:0000244|PDB:1NUW}.
+FT   HELIX       214    219       {ECO:0000244|PDB:1NUW}.
+FT   HELIX       222    232       {ECO:0000244|PDB:1NUW}.
+FT   STRAND      235    237       {ECO:0000244|PDB:1LEV}.
+FT   STRAND      242    245       {ECO:0000244|PDB:1FBC}.
+FT   HELIX       249    259       {ECO:0000244|PDB:1NUW}.
+FT   STRAND      262    265       {ECO:0000244|PDB:1NUW}.
+FT   STRAND      268    270       {ECO:0000244|PDB:1FPD}.
+FT   TURN        271    273       {ECO:0000244|PDB:1FBP}.
+FT   STRAND      275    277       {ECO:0000244|PDB:1NUW}.
+FT   TURN        278    281       {ECO:0000244|PDB:1NUW}.
+FT   HELIX       282    291       {ECO:0000244|PDB:1NUW}.
+FT   STRAND      295    297       {ECO:0000244|PDB:1NUW}.
+FT   STRAND      299    302       {ECO:0000244|PDB:1NUW}.
+FT   HELIX       303    305       {ECO:0000244|PDB:1NUW}.
+FT   STRAND      309    312       {ECO:0000244|PDB:1FBP}.
+FT   STRAND      317    320       {ECO:0000244|PDB:1NUW}.
+FT   HELIX       322    334       {ECO:0000244|PDB:1NUW}.
+SQ   SEQUENCE   338 AA;  36779 MW;  610BF8D3C6D320F6 CRC64;
+     MTDQAAFDTN IVTLTRFVME EGRKARGTGE MTQLLNSLCT AVKAISTAVR KAGIAHLYGI
+     AGSTNVTGDQ VKKLDVLSND LVINVLKSSF ATCVLVSEED KNAIIVEPEK RGKYVVCFDP
+     LDGSSNIDCL VSIGTIFGIY RKNSTDEPSE KDALQPGRNL VAAGYALYGS ATMLVLAMVN
+     GVNCFMLDPA IGEFILVDRD VKIKKKGSIY SINEGYAKEF DPAITEYIQR KKFPPDNSAP
+     YGARYVGSMV ADVHRTLVYG GIFMYPANKK SPKGKLRLLY ECNPMAYVME KAGGLATTGK
+     EAVLDIVPTD IHQRAPIILG SPEDVTELLE IYQKHAAK
+//

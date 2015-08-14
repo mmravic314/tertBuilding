@@ -1,0 +1,162 @@
+ID   CYB_RHOSH               Reviewed;         445 AA.
+AC   Q02761;
+DT   01-FEB-1994, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 2.
+DT   22-JUL-2015, entry version 96.
+DE   RecName: Full=Cytochrome b;
+GN   Name=petB; Synonyms=fbcB;
+OS   Rhodobacter sphaeroides (Rhodopseudomonas sphaeroides).
+OC   Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales;
+OC   Rhodobacteraceae; Rhodobacter.
+OX   NCBI_TaxID=1063;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=2176595; DOI=10.1111/j.1432-1033.1990.tb15633.x;
+RA   Yun C.-H., Beci R., Crofts A.R., Kaplan S., Gennis R.B.;
+RT   "Cloning and DNA sequencing of the fbc operon encoding the cytochrome
+RT   bc1 complex from Rhodobacter sphaeroides. Characterization of fbc
+RT   deletion mutants and complementation by a site-specific mutational
+RT   variant.";
+RL   Eur. J. Biochem. 194:399-411(1990).
+RN   [2]
+RP   TOPOLOGY.
+RX   PubMed=1645718;
+RA   Yun C.H., Van Doren S.R., Crofts A.R., Gennis R.B.;
+RT   "The use of gene fusions to examine the membrane topology of the L-
+RT   subunit of the photosynthetic reaction center and of the cytochrome b
+RT   subunit of the bc1 complex from Rhodobacter sphaeroides.";
+RL   J. Biol. Chem. 266:10967-10973(1991).
+CC   -!- FUNCTION: Component of the ubiquinol-cytochrome c reductase
+CC       complex (complex III or cytochrome b-c1 complex), which is a
+CC       respiratory chain that generates an electrochemical potential
+CC       coupled to ATP synthesis. {ECO:0000250}.
+CC   -!- COFACTOR:
+CC       Name=heme; Xref=ChEBI:CHEBI:30413; Evidence={ECO:0000250};
+CC       Note=Binds 2 heme groups non-covalently. {ECO:0000250};
+CC   -!- SUBUNIT: The main subunits of complex b-c1 are: cytochrome b,
+CC       cytochrome c1 and the Rieske protein. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane; Multi-pass membrane protein.
+CC   -!- MISCELLANEOUS: Heme 1 (or BL or b562) is low-potential and absorbs
+CC       at about 562 nm, and heme 2 (or BH or b566) is high-potential and
+CC       absorbs at about 566 nm. {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the cytochrome b family.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00967, ECO:0000255|PROSITE-
+CC       ProRule:PRU00968}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X56157; CAA39624.1; -; Genomic_DNA.
+DR   PIR; S13869; S13869.
+DR   PDB; 2FYN; X-ray; 3.20 A; A/D/G/J/M/P=1-445.
+DR   PDB; 2QJK; X-ray; 3.10 A; A/D/G/J/M/P=3-430.
+DR   PDB; 2QJP; X-ray; 2.60 A; A/D/G/J=3-430.
+DR   PDB; 2QJY; X-ray; 2.40 A; A/D/G/J/M/P=1-445.
+DR   PDBsum; 2FYN; -.
+DR   PDBsum; 2QJK; -.
+DR   PDBsum; 2QJP; -.
+DR   PDBsum; 2QJY; -.
+DR   ProteinModelPortal; Q02761; -.
+DR   SMR; Q02761; 3-430.
+DR   DIP; DIP-61256N; -.
+DR   STRING; 272943.RSP_1395; -.
+DR   TCDB; 3.E.2.1.1; the photosynthetic reaction center (prc) family.
+DR   EvolutionaryTrace; Q02761; -.
+DR   GO; GO:0005886; C:plasma membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0045275; C:respiratory chain complex III; IEA:InterPro.
+DR   GO; GO:0009055; F:electron carrier activity; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0008121; F:ubiquinol-cytochrome-c reductase activity; IEA:InterPro.
+DR   GO; GO:0006122; P:mitochondrial electron transport, ubiquinol to cytochrome c; IEA:InterPro.
+DR   Gene3D; 1.20.810.10; -; 1.
+DR   InterPro; IPR005798; Cyt_b/b6_C.
+DR   InterPro; IPR005797; Cyt_b/b6_N.
+DR   InterPro; IPR027387; Cytb/b6-like.
+DR   InterPro; IPR030689; Cytochrome_b.
+DR   InterPro; IPR016174; Di-haem_cyt_TM.
+DR   Pfam; PF00032; Cytochrom_B_C; 1.
+DR   Pfam; PF13631; Cytochrom_B_N_2; 1.
+DR   PIRSF; PIRSF038885; COB; 1.
+DR   SUPFAM; SSF81342; SSF81342; 1.
+DR   SUPFAM; SSF81648; SSF81648; 1.
+DR   PROSITE; PS51003; CYTB_CTER; 1.
+DR   PROSITE; PS51002; CYTB_NTER; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cell membrane; Electron transport; Heme; Iron; Membrane;
+KW   Metal-binding; Respiratory chain; Transmembrane; Transmembrane helix;
+KW   Transport.
+FT   INIT_MET      1      1       Removed. {ECO:0000250}.
+FT   CHAIN         2    445       Cytochrome b.
+FT                                /FTId=PRO_0000061774.
+FT   TOPO_DOM      2     49       Cytoplasmic.
+FT                                {ECO:0000305|PubMed:1645718}.
+FT   TRANSMEM     50     67       Helical. {ECO:0000305}.
+FT   TOPO_DOM     68     94       Periplasmic.
+FT                                {ECO:0000305|PubMed:1645718}.
+FT   TRANSMEM     95    113       Helical. {ECO:0000305}.
+FT   TOPO_DOM    114    129       Cytoplasmic.
+FT                                {ECO:0000305|PubMed:1645718}.
+FT   TRANSMEM    130    149       Helical. {ECO:0000305}.
+FT   TOPO_DOM    150    193       Periplasmic.
+FT                                {ECO:0000305|PubMed:1645718}.
+FT   TRANSMEM    194    216       Helical. {ECO:0000305}.
+FT   TOPO_DOM    217    252       Cytoplasmic.
+FT                                {ECO:0000305|PubMed:1645718}.
+FT   TRANSMEM    253    270       Helical. {ECO:0000305}.
+FT   TOPO_DOM    271    329       Periplasmic.
+FT                                {ECO:0000305|PubMed:1645718}.
+FT   TRANSMEM    330    346       Helical. {ECO:0000305}.
+FT   TOPO_DOM    347    364       Cytoplasmic.
+FT                                {ECO:0000305|PubMed:1645718}.
+FT   TRANSMEM    365    382       Helical. {ECO:0000305}.
+FT   TOPO_DOM    383    388       Periplasmic.
+FT                                {ECO:0000305|PubMed:1645718}.
+FT   TRANSMEM    389    408       Helical. {ECO:0000305}.
+FT   TOPO_DOM    409    445       Cytoplasmic.
+FT                                {ECO:0000305|PubMed:1645718}.
+FT   METAL        97     97       Iron 1 (heme b562 axial ligand).
+FT   METAL       111    111       Iron 2 (heme b566 axial ligand).
+FT   METAL       198    198       Iron 1 (heme b562 axial ligand).
+FT   METAL       212    212       Iron 2 (heme b566 axial ligand).
+FT   HELIX        14     20       {ECO:0000244|PDB:2QJY}.
+FT   HELIX        25     33       {ECO:0000244|PDB:2QJY}.
+FT   STRAND       36     38       {ECO:0000244|PDB:2QJY}.
+FT   HELIX        43     45       {ECO:0000244|PDB:2QJY}.
+FT   HELIX        47     66       {ECO:0000244|PDB:2QJY}.
+FT   TURN         73     75       {ECO:0000244|PDB:2QJY}.
+FT   HELIX        76     85       {ECO:0000244|PDB:2QJY}.
+FT   HELIX        90    118       {ECO:0000244|PDB:2QJY}.
+FT   TURN        119    121       {ECO:0000244|PDB:2QJY}.
+FT   TURN        123    125       {ECO:0000244|PDB:2QJK}.
+FT   HELIX       126    148       {ECO:0000244|PDB:2QJY}.
+FT   HELIX       153    167       {ECO:0000244|PDB:2QJY}.
+FT   TURN        170    172       {ECO:0000244|PDB:2QJY}.
+FT   HELIX       173    181       {ECO:0000244|PDB:2QJY}.
+FT   STRAND      183    186       {ECO:0000244|PDB:2QJY}.
+FT   HELIX       188    219       {ECO:0000244|PDB:2QJY}.
+FT   HELIX       234    240       {ECO:0000244|PDB:2QJY}.
+FT   STRAND      241    243       {ECO:0000244|PDB:2QJY}.
+FT   HELIX       244    269       {ECO:0000244|PDB:2QJY}.
+FT   TURN        271    274       {ECO:0000244|PDB:2QJY}.
+FT   HELIX       277    280       {ECO:0000244|PDB:2QJY}.
+FT   HELIX       296    298       {ECO:0000244|PDB:2QJY}.
+FT   HELIX       299    307       {ECO:0000244|PDB:2QJY}.
+FT   HELIX       313    321       {ECO:0000244|PDB:2QJY}.
+FT   TURN        322    324       {ECO:0000244|PDB:2QJY}.
+FT   HELIX       328    344       {ECO:0000244|PDB:2QJY}.
+FT   HELIX       346    349       {ECO:0000244|PDB:2QJY}.
+FT   HELIX       357    359       {ECO:0000244|PDB:2QJY}.
+FT   HELIX       361    381       {ECO:0000244|PDB:2QJY}.
+FT   HELIX       389    405       {ECO:0000244|PDB:2QJY}.
+FT   HELIX       407    414       {ECO:0000244|PDB:2QJY}.
+FT   HELIX       424    429       {ECO:0000244|PDB:2QJY}.
+SQ   SEQUENCE   445 AA;  50050 MW;  3DE9FB13523CDBD2 CRC64;
+     MSGIPHDHYE PRTGIEKWLH SRLPIVALAY DTIMIPTPRN LNWMWIWGVV LAFCLVLQIV
+     TGIVLAMHYT PHVDLAFASV EHIMRNVNGG FMLRYLHANG ASLFFIAVYL HIFRGLYYGS
+     YKAPREVTWI VGMLIYLAMM ATAFMGYVLP WGQMSFWGAT VITGLFGAIP GIGHSIQTWL
+     LGGPAVDNAT LNRFFSLHYL LPFVIAALVA IHIWAFHSTG NNNPTGVEVR RTSKAEAQKD
+     TVPFWPYFII KDVFALAVVL LVFFAIVGFM PNYLGHPDNY IEANPLSTPA HIVPEWYFLP
+     FYAILRAFTA DVWVVQIANF ISFGIIDAKF FGVLAMFGAI LVMALVPWLD TSPVRSGRYR
+     PMFKIYFWLL AADFVILTWV GAQQTTFPYD WISLIASAYW FAYFLVILPI LGAIEKPVAP
+     PATIEEDFNA HYSPATGGTK TVVAE
+//

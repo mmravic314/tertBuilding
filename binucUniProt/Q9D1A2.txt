@@ -1,0 +1,288 @@
+ID   CNDP2_MOUSE             Reviewed;         475 AA.
+AC   Q9D1A2; Q3TA80; Q3TI32; Q3U7B9; Q99PV1;
+DT   19-SEP-2002, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-2001, sequence version 1.
+DT   22-JUL-2015, entry version 116.
+DE   RecName: Full=Cytosolic non-specific dipeptidase;
+DE            EC=3.4.13.18;
+DE   AltName: Full=CNDP dipeptidase 2;
+DE   AltName: Full=Glutamate carboxypeptidase-like protein 1;
+GN   Name=Cndp2; Synonyms=Cn2;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Brain;
+RA   Yoshikawa T., Nagasugi Y., Sugano S., Hashimoto K., Masuho Y.,
+RA   Seki N.;
+RT   "Novel mouse gene differentially expressed in kidney.";
+RL   Submitted (AUG-2000) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=BALB/c, C57BL/6J, and NOD;
+RC   TISSUE=Bone marrow macrophage, Embryonic heart, Heart, and Spleen;
+RX   PubMed=16141072; DOI=10.1126/science.1112014;
+RA   Carninci P., Kasukawa T., Katayama S., Gough J., Frith M.C., Maeda N.,
+RA   Oyama R., Ravasi T., Lenhard B., Wells C., Kodzius R., Shimokawa K.,
+RA   Bajic V.B., Brenner S.E., Batalov S., Forrest A.R., Zavolan M.,
+RA   Davis M.J., Wilming L.G., Aidinis V., Allen J.E.,
+RA   Ambesi-Impiombato A., Apweiler R., Aturaliya R.N., Bailey T.L.,
+RA   Bansal M., Baxter L., Beisel K.W., Bersano T., Bono H., Chalk A.M.,
+RA   Chiu K.P., Choudhary V., Christoffels A., Clutterbuck D.R.,
+RA   Crowe M.L., Dalla E., Dalrymple B.P., de Bono B., Della Gatta G.,
+RA   di Bernardo D., Down T., Engstrom P., Fagiolini M., Faulkner G.,
+RA   Fletcher C.F., Fukushima T., Furuno M., Futaki S., Gariboldi M.,
+RA   Georgii-Hemming P., Gingeras T.R., Gojobori T., Green R.E.,
+RA   Gustincich S., Harbers M., Hayashi Y., Hensch T.K., Hirokawa N.,
+RA   Hill D., Huminiecki L., Iacono M., Ikeo K., Iwama A., Ishikawa T.,
+RA   Jakt M., Kanapin A., Katoh M., Kawasawa Y., Kelso J., Kitamura H.,
+RA   Kitano H., Kollias G., Krishnan S.P., Kruger A., Kummerfeld S.K.,
+RA   Kurochkin I.V., Lareau L.F., Lazarevic D., Lipovich L., Liu J.,
+RA   Liuni S., McWilliam S., Madan Babu M., Madera M., Marchionni L.,
+RA   Matsuda H., Matsuzawa S., Miki H., Mignone F., Miyake S., Morris K.,
+RA   Mottagui-Tabar S., Mulder N., Nakano N., Nakauchi H., Ng P.,
+RA   Nilsson R., Nishiguchi S., Nishikawa S., Nori F., Ohara O.,
+RA   Okazaki Y., Orlando V., Pang K.C., Pavan W.J., Pavesi G., Pesole G.,
+RA   Petrovsky N., Piazza S., Reed J., Reid J.F., Ring B.Z., Ringwald M.,
+RA   Rost B., Ruan Y., Salzberg S.L., Sandelin A., Schneider C.,
+RA   Schoenbach C., Sekiguchi K., Semple C.A., Seno S., Sessa L., Sheng Y.,
+RA   Shibata Y., Shimada H., Shimada K., Silva D., Sinclair B.,
+RA   Sperling S., Stupka E., Sugiura K., Sultana R., Takenaka Y., Taki K.,
+RA   Tammoja K., Tan S.L., Tang S., Taylor M.S., Tegner J., Teichmann S.A.,
+RA   Ueda H.R., van Nimwegen E., Verardo R., Wei C.L., Yagi K.,
+RA   Yamanishi H., Zabarovsky E., Zhu S., Zimmer A., Hide W., Bult C.,
+RA   Grimmond S.M., Teasdale R.D., Liu E.T., Brusic V., Quackenbush J.,
+RA   Wahlestedt C., Mattick J.S., Hume D.A., Kai C., Sasaki D., Tomaru Y.,
+RA   Fukuda S., Kanamori-Katayama M., Suzuki M., Aoki J., Arakawa T.,
+RA   Iida J., Imamura K., Itoh M., Kato T., Kawaji H., Kawagashira N.,
+RA   Kawashima T., Kojima M., Kondo S., Konno H., Nakano K., Ninomiya N.,
+RA   Nishio T., Okada M., Plessy C., Shibata K., Shiraki T., Suzuki S.,
+RA   Tagami M., Waki K., Watahiki A., Okamura-Oho Y., Suzuki H., Kawai J.,
+RA   Hayashizaki Y.;
+RT   "The transcriptional landscape of the mammalian genome.";
+RL   Science 309:1559-1563(2005).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Mammary gland;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4]
+RP   PROTEIN SEQUENCE OF 6-17; 311-329 AND 414-430, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY.
+RC   TISSUE=Hippocampus;
+RA   Lubec G., Klug S.;
+RL   Submitted (MAR-2007) to UniProtKB.
+RN   [5]
+RP   ENZYME REGULATION, COFACTOR, CATALYTIC ACTIVITY, AND TISSUE
+RP   SPECIFICITY.
+RX   PubMed=15749831; DOI=10.1093/jb/mvi016;
+RA   Otani H., Okumura N., Hashida-Okumura A., Nagai K.;
+RT   "Identification and characterization of a mouse dipeptidase that
+RT   hydrolyzes L-carnosine.";
+RL   J. Biochem. 137:167-175(2005).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS) IN COMPLEX WITH MANGANESE AND
+RP   BESTATIN, MUTAGENESIS OF HIS-228, COFACTOR, AND SUBUNIT.
+RX   PubMed=18550540; DOI=10.1074/jbc.M801657200;
+RA   Unno H., Yamashita T., Ujita S., Okumura N., Otani H., Okumura A.,
+RA   Nagai K., Kusunoki M.;
+RT   "Structural basis for substrate recognition and hydrolysis by mouse
+RT   carnosinase CN2.";
+RL   J. Biol. Chem. 283:27289-27299(2008).
+CC   -!- FUNCTION: Hydrolyzes a variety of dipeptides including L-
+CC       carnosine. Has a strong preference for Cys-Gly (By similarity).
+CC       {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Hydrolysis of dipeptides, preferentially
+CC       hydrophobic dipeptides including prolyl amino acids.
+CC       {ECO:0000269|PubMed:15749831}.
+CC   -!- COFACTOR:
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000269|PubMed:15749831,
+CC         ECO:0000269|PubMed:18550540};
+CC       Note=Binds 2 manganese ions per subunit.
+CC       {ECO:0000269|PubMed:15749831, ECO:0000269|PubMed:18550540};
+CC   -!- ENZYME REGULATION: Inhibited by bestatin.
+CC       {ECO:0000269|PubMed:15749831}.
+CC   -!- SUBUNIT: Homodimer. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250}.
+CC   -!- TISSUE SPECIFICITY: Highly expressed in the parafascicular nucleus
+CC       of the thalamus, tuberomammillary nucleus of the hypothalamus and
+CC       the mitral cell layer of the olfactory bulb.
+CC       {ECO:0000269|PubMed:15749831}.
+CC   -!- SIMILARITY: Belongs to the peptidase M20A family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AB046738; BAB21596.1; -; mRNA.
+DR   EMBL; AK003779; BAB22991.1; -; mRNA.
+DR   EMBL; AK151013; BAE30033.1; -; mRNA.
+DR   EMBL; AK152729; BAE31451.1; -; mRNA.
+DR   EMBL; AK168029; BAE40014.1; -; mRNA.
+DR   EMBL; AK168652; BAE40509.1; -; mRNA.
+DR   EMBL; AK172034; BAE42789.1; -; mRNA.
+DR   EMBL; BC005532; AAH05532.1; -; mRNA.
+DR   CCDS; CCDS29383.1; -.
+DR   RefSeq; NP_001276460.1; NM_001289531.1.
+DR   RefSeq; NP_075638.2; NM_023149.3.
+DR   UniGene; Mm.29646; -.
+DR   PDB; 2ZOF; X-ray; 2.30 A; A/B=1-475.
+DR   PDB; 2ZOG; X-ray; 1.70 A; A/B=1-475.
+DR   PDBsum; 2ZOF; -.
+DR   PDBsum; 2ZOG; -.
+DR   ProteinModelPortal; Q9D1A2; -.
+DR   SMR; Q9D1A2; 1-474.
+DR   BioGrid; 211181; 1.
+DR   IntAct; Q9D1A2; 2.
+DR   MINT; MINT-1855384; -.
+DR   STRING; 10090.ENSMUSP00000025546; -.
+DR   MEROPS; M20.005; -.
+DR   PhosphoSite; Q9D1A2; -.
+DR   REPRODUCTION-2DPAGE; Q9D1A2; -.
+DR   MaxQB; Q9D1A2; -.
+DR   PaxDb; Q9D1A2; -.
+DR   PRIDE; Q9D1A2; -.
+DR   DNASU; 66054; -.
+DR   Ensembl; ENSMUST00000025546; ENSMUSP00000025546; ENSMUSG00000024644.
+DR   Ensembl; ENSMUST00000168419; ENSMUSP00000128696; ENSMUSG00000024644.
+DR   GeneID; 66054; -.
+DR   KEGG; mmu:66054; -.
+DR   UCSC; uc008fut.2; mouse.
+DR   CTD; 55748; -.
+DR   MGI; MGI:1913304; Cndp2.
+DR   eggNOG; COG0624; -.
+DR   GeneTree; ENSGT00390000009682; -.
+DR   HOGENOM; HOG000216709; -.
+DR   HOVERGEN; HBG051103; -.
+DR   InParanoid; Q9D1A2; -.
+DR   KO; K08660; -.
+DR   OMA; HSPNEHY; -.
+DR   OrthoDB; EOG7JHM55; -.
+DR   PhylomeDB; Q9D1A2; -.
+DR   TreeFam; TF300633; -.
+DR   Reactome; REACT_277860; Sulfur amino acid metabolism.
+DR   Reactome; REACT_319124; Glutathione synthesis and recycling.
+DR   EvolutionaryTrace; Q9D1A2; -.
+DR   NextBio; 320490; -.
+DR   PRO; PR:Q9D1A2; -.
+DR   Proteomes; UP000000589; Chromosome 18.
+DR   Bgee; Q9D1A2; -.
+DR   CleanEx; MM_CNDP2; -.
+DR   ExpressionAtlas; Q9D1A2; baseline and differential.
+DR   Genevisible; Q9D1A2; MM.
+DR   GO; GO:0005829; C:cytosol; ISA:MGI.
+DR   GO; GO:0070062; C:extracellular exosome; ISO:MGI.
+DR   GO; GO:0004180; F:carboxypeptidase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0016805; F:dipeptidase activity; IDA:MGI.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0008237; F:metallopeptidase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0008233; F:peptidase activity; IDA:MGI.
+DR   GO; GO:0034701; F:tripeptidase activity; IEA:InterPro.
+DR   GO; GO:0006508; P:proteolysis; IDA:MGI.
+DR   Gene3D; 3.30.70.360; -; 1.
+DR   InterPro; IPR001261; ArgE/DapE_CS.
+DR   InterPro; IPR017153; GSH_degradosome_DUG1.
+DR   InterPro; IPR002933; Peptidase_M20.
+DR   InterPro; IPR011650; Peptidase_M20_dimer.
+DR   Pfam; PF07687; M20_dimer; 1.
+DR   Pfam; PF01546; Peptidase_M20; 1.
+DR   PIRSF; PIRSF037242; CNDP_dipeptidase; 1.
+DR   PROSITE; PS00759; ARGE_DAPE_CPG2_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Carboxypeptidase; Complete proteome; Cytoplasm;
+KW   Direct protein sequencing; Hydrolase; Manganese; Metal-binding;
+KW   Metalloprotease; Phosphoprotein; Protease; Reference proteome.
+FT   INIT_MET      1      1       Removed. {ECO:0000250|UniProtKB:Q96KP4}.
+FT   CHAIN         2    475       Cytosolic non-specific dipeptidase.
+FT                                /FTId=PRO_0000185273.
+FT   REGION      166    167       Substrate binding.
+FT   ACT_SITE    101    101       {ECO:0000250}.
+FT   ACT_SITE    166    166       Proton acceptor. {ECO:0000250}.
+FT   METAL        99     99       Manganese 2.
+FT                                {ECO:0000269|PubMed:18550540}.
+FT   METAL       132    132       Manganese 1.
+FT                                {ECO:0000269|PubMed:18550540}.
+FT   METAL       132    132       Manganese 2.
+FT                                {ECO:0000269|PubMed:18550540}.
+FT   METAL       167    167       Manganese 1.
+FT                                {ECO:0000269|PubMed:18550540}.
+FT   METAL       195    195       Manganese 2.
+FT                                {ECO:0000269|PubMed:18550540}.
+FT   METAL       445    445       Manganese 1.
+FT                                {ECO:0000269|PubMed:18550540}.
+FT   BINDING     195    195       Substrate; via carbonyl oxygen.
+FT   BINDING     228    228       Substrate; shared with homodimeric
+FT                                partner.
+FT   BINDING     330    330       Substrate; shared with homodimeric
+FT                                partner.
+FT   BINDING     343    343       Substrate.
+FT   BINDING     417    417       Substrate; via amide nitrogen and
+FT                                carbonyl oxygen.
+FT   BINDING     445    445       Substrate.
+FT   SITE        228    228       Important for catalytic activity.
+FT   MOD_RES     299    299       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:Q96KP4}.
+FT   MUTAGEN     228    228       H->A: Loss of activity.
+FT                                {ECO:0000269|PubMed:18550540}.
+FT   CONFLICT     45     45       M -> I (in Ref. 2; BAE31451).
+FT                                {ECO:0000305}.
+FT   CONFLICT    105    105       A -> T (in Ref. 2; BAE42789).
+FT                                {ECO:0000305}.
+FT   CONFLICT    357    357       V -> A (in Ref. 1; BAB21596).
+FT                                {ECO:0000305}.
+FT   HELIX         2     13       {ECO:0000244|PDB:2ZOG}.
+FT   HELIX        15     27       {ECO:0000244|PDB:2ZOG}.
+FT   HELIX        35     37       {ECO:0000244|PDB:2ZOG}.
+FT   HELIX        38     54       {ECO:0000244|PDB:2ZOG}.
+FT   STRAND       58     62       {ECO:0000244|PDB:2ZOG}.
+FT   STRAND       66     68       {ECO:0000244|PDB:2ZOG}.
+FT   STRAND       74     76       {ECO:0000244|PDB:2ZOG}.
+FT   STRAND       80     85       {ECO:0000244|PDB:2ZOG}.
+FT   STRAND       93     99       {ECO:0000244|PDB:2ZOG}.
+FT   HELIX       107    109       {ECO:0000244|PDB:2ZOG}.
+FT   STRAND      119    121       {ECO:0000244|PDB:2ZOG}.
+FT   STRAND      124    127       {ECO:0000244|PDB:2ZOG}.
+FT   TURN        128    133       {ECO:0000244|PDB:2ZOG}.
+FT   HELIX       134    149       {ECO:0000244|PDB:2ZOG}.
+FT   STRAND      155    164       {ECO:0000244|PDB:2ZOG}.
+FT   HELIX       166    168       {ECO:0000244|PDB:2ZOG}.
+FT   HELIX       173    179       {ECO:0000244|PDB:2ZOG}.
+FT   TURN        180    187       {ECO:0000244|PDB:2ZOG}.
+FT   STRAND      190    193       {ECO:0000244|PDB:2ZOG}.
+FT   STRAND      199    203       {ECO:0000244|PDB:2ZOG}.
+FT   STRAND      205    210       {ECO:0000244|PDB:2ZOG}.
+FT   STRAND      212    221       {ECO:0000244|PDB:2ZOG}.
+FT   HELIX       229    232       {ECO:0000244|PDB:2ZOG}.
+FT   TURN        233    235       {ECO:0000244|PDB:2ZOG}.
+FT   HELIX       239    247       {ECO:0000244|PDB:2ZOG}.
+FT   TURN        260    265       {ECO:0000244|PDB:2ZOG}.
+FT   HELIX       271    276       {ECO:0000244|PDB:2ZOG}.
+FT   HELIX       284    290       {ECO:0000244|PDB:2ZOG}.
+FT   HELIX       301    309       {ECO:0000244|PDB:2ZOG}.
+FT   STRAND      313    322       {ECO:0000244|PDB:2ZOG}.
+FT   STRAND      325    327       {ECO:0000244|PDB:2ZOG}.
+FT   STRAND      334    344       {ECO:0000244|PDB:2ZOG}.
+FT   HELIX       350    366       {ECO:0000244|PDB:2ZOG}.
+FT   STRAND      372    382       {ECO:0000244|PDB:2ZOG}.
+FT   HELIX       392    405       {ECO:0000244|PDB:2ZOG}.
+FT   STRAND      410    416       {ECO:0000244|PDB:2ZOG}.
+FT   HELIX       420    428       {ECO:0000244|PDB:2ZOG}.
+FT   STRAND      430    434       {ECO:0000244|PDB:2ZOG}.
+FT   STRAND      450    452       {ECO:0000244|PDB:2ZOG}.
+FT   HELIX       453    472       {ECO:0000244|PDB:2ZOG}.
+SQ   SEQUENCE   475 AA;  52767 MW;  086950275A698500 CRC64;
+     MSALKAVFQY IDENQDRYVK KLAEWVAIQS VSAWPEKRGE IRRMMEVAAA DVQRLGGSVE
+     LVDIGKQKLP DGSEIPLPPI LLGKLGSDPQ KKTVCIYGHL DVQPAALEDG WDSEPFTLVE
+     REGKLYGRGS TDDKGPVAGW MNALEAYQKT GQEIPVNLRF CLEGMEESGS EGLDELIFAQ
+     KDKFFKDVDY VCISDNYWLG KNKPCITYGL RGICYFFIEV ECSDKDLHSG VYGGSVHEAM
+     TDLISLMGCL VDKKGKILIP GINDAVAPVT DEEHALYDHI DFDMEEFAKD VGAETLLHSC
+     KKDILMHRWR YPSLSLHGIE GAFSGSGAKT VIPRKVVGKF SIRLVPDMIP EVVSEQVSSY
+     LSKKFAELQS PNKFKVYMGH GGKPWVSDFN HPHYQAGRRA LKTVFGVEPD LTREGGSIPV
+     TLTFQEATGK NVMLLPVGSA DDGAHSQNEK LNRLNYIEGT KMLAAYLYEV SQLKN
+//

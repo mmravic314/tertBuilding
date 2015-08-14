@@ -1,0 +1,120 @@
+ID   A8EVM5_ARCB4            Unreviewed;       267 AA.
+AC   A8EVM5;
+DT   13-NOV-2007, integrated into UniProtKB/TrEMBL.
+DT   13-NOV-2007, sequence version 1.
+DT   22-JUL-2015, entry version 56.
+DE   SubName: Full=Ion transport protein {ECO:0000313|EMBL:ABV67998.1};
+GN   OrderedLocusNames=Abu_1752 {ECO:0000313|EMBL:ABV67998.1};
+OS   Arcobacter butzleri (strain RM4018).
+OC   Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales;
+OC   Campylobacteraceae; Arcobacter.
+OX   NCBI_TaxID=367737 {ECO:0000313|EMBL:ABV67998.1, ECO:0000313|Proteomes:UP000001136};
+RN   [1] {ECO:0000313|EMBL:ABV67998.1, ECO:0000313|Proteomes:UP000001136}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=RM4018 {ECO:0000313|EMBL:ABV67998.1,
+RC   ECO:0000313|Proteomes:UP000001136};
+RX   PubMed=18159241; DOI=10.1371/journal.pone.0001358;
+RA   Miller W.G., Parker C.T., Rubenfield M., Mendz G.L., Woesten M.M.S.M.,
+RA   Ussery D.W., Stolz J.F., Binnewies T.T., Hallin P.F., Wang G.,
+RA   Malek J.A., Rogosin A., Stanker L.H., Mandrell R.E.;
+RT   "The complete genome sequence and analysis of the
+RT   Epsilonproteobacterium Arcobacter butzleri.";
+RL   PLoS ONE 2:E1358-E1358(2007).
+RN   [2] {ECO:0000213|PDB:3RVY, ECO:0000213|PDB:3RVZ, ECO:0000213|PDB:3RW0}
+RP   X-RAY CRYSTALLOGRAPHY (2.70 ANGSTROMS).
+RX   PubMed=21743477; DOI=10.1038/nature10238;
+RA   Payandeh J., Scheuer T., Zheng N., Catterall W.A.;
+RT   "The crystal structure of a voltage-gated sodium channel.";
+RL   Nature 475:353-358(2011).
+RN   [3] {ECO:0000213|PDB:4EKW}
+RP   X-RAY CRYSTALLOGRAPHY (3.21 ANGSTROMS).
+RX   PubMed=22678296; DOI=10.1038/nature11077;
+RA   Payandeh J., Gamal El-Din T.M., Scheuer T., Zheng N., Catterall W.A.;
+RT   "Crystal structure of a voltage-gated sodium channel in two
+RT   potentially inactivated states.";
+RL   Nature 486:135-139(2012).
+RN   [4] {ECO:0000213|PDB:4MS2, ECO:0000213|PDB:4MTF, ECO:0000213|PDB:4MTG}
+RP   X-RAY CRYSTALLOGRAPHY (2.75 ANGSTROMS) OF 1-219.
+RX   PubMed=24270805;
+RA   Tang L., Gamal El-Din T.M., Payandeh J., Martinez G.Q., Heard T.M.,
+RA   Scheuer T., Zheng N., Catterall W.A.;
+RT   "Structural basis for Ca2+ selectivity of a voltage-gated calcium
+RT   channel.";
+RL   Nature 505:56-61(2014).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP000361; ABV67998.1; -; Genomic_DNA.
+DR   RefSeq; WP_012147720.1; NC_009850.1.
+DR   PDB; 3RVY; X-ray; 2.70 A; A/B=1-267.
+DR   PDB; 3RVZ; X-ray; 2.80 A; A/B=1-267.
+DR   PDB; 3RW0; X-ray; 2.95 A; A/B=1-267.
+DR   PDB; 4EKW; X-ray; 3.21 A; A/B/C/D=1-267.
+DR   PDB; 4MS2; X-ray; 2.75 A; A/B/C/D=1-219.
+DR   PDB; 4MTF; X-ray; 3.20 A; A/B/C/D=1-219.
+DR   PDB; 4MTG; X-ray; 3.30 A; A/B/C/D=1-219.
+DR   PDB; 4MTO; X-ray; 3.40 A; A/B/C/D=1-219.
+DR   PDB; 4MVM; X-ray; 3.20 A; A/B/C/D=1-219.
+DR   PDB; 4MVO; X-ray; 3.30 A; A/B/C/D=1-219.
+DR   PDB; 4MVQ; X-ray; 3.40 A; A/B/C/D=1-219.
+DR   PDB; 4MVR; X-ray; 3.20 A; A/B/C/D=1-219.
+DR   PDB; 4MVS; X-ray; 3.30 A; A/B/C/D=1-219.
+DR   PDB; 4MVU; X-ray; 3.20 A; A/B/C/D=1-219.
+DR   PDB; 4MVZ; X-ray; 3.30 A; A/B/C/D=1-219.
+DR   PDB; 4MW3; X-ray; 3.30 A; A/B/C/D=1-219.
+DR   PDB; 4MW8; X-ray; 3.26 A; A/B/C/D=1-219.
+DR   PDBsum; 3RVY; -.
+DR   PDBsum; 3RVZ; -.
+DR   PDBsum; 3RW0; -.
+DR   PDBsum; 4EKW; -.
+DR   PDBsum; 4MS2; -.
+DR   PDBsum; 4MTF; -.
+DR   PDBsum; 4MTG; -.
+DR   PDBsum; 4MTO; -.
+DR   PDBsum; 4MVM; -.
+DR   PDBsum; 4MVO; -.
+DR   PDBsum; 4MVQ; -.
+DR   PDBsum; 4MVR; -.
+DR   PDBsum; 4MVS; -.
+DR   PDBsum; 4MVU; -.
+DR   PDBsum; 4MVZ; -.
+DR   PDBsum; 4MW3; -.
+DR   PDBsum; 4MW8; -.
+DR   DIP; DIP-59168N; -.
+DR   STRING; 367737.Abu_1752; -.
+DR   TCDB; 1.A.1.14.5; the voltage-gated ion channel (vic) superfamily.
+DR   EnsemblBacteria; ABV67998; ABV67998; Abu_1752.
+DR   GeneID; 24303594; -.
+DR   KEGG; abu:Abu_1752; -.
+DR   PATRIC; 20964870; VBIArcBut20197_1725.
+DR   eggNOG; COG1226; -.
+DR   HOGENOM; HOG000004763; -.
+DR   KO; K08714; -.
+DR   OMA; FFVPFIM; -.
+DR   OrthoDB; EOG6S7XSX; -.
+DR   BioCyc; ABUT367737:GHWO-1750-MONOMER; -.
+DR   EvolutionaryTrace; A8EVM5; -.
+DR   Proteomes; UP000001136; Chromosome.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0005216; F:ion channel activity; IEA:InterPro.
+DR   Gene3D; 1.20.120.350; -; 1.
+DR   InterPro; IPR027359; Channel_four-helix_dom.
+DR   InterPro; IPR005821; Ion_trans_dom.
+DR   Pfam; PF00520; Ion_trans; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3RVY, ECO:0000213|PDB:3RVZ};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001136};
+KW   Ion channel {ECO:0000256|RuleBase:RU003378};
+KW   Ion transport {ECO:0000256|RuleBase:RU003378};
+KW   Membrane {ECO:0000256|RuleBase:RU003378};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001136};
+KW   Transmembrane {ECO:0000256|RuleBase:RU003378};
+KW   Transport {ECO:0000256|RuleBase:RU003378}.
+SQ   SEQUENCE   267 AA;  31071 MW;  0BC9D03C5E94038B CRC64;
+     MYLRITNIVE SSFFTKFIIY LIVLNGITMG LETSKTFMQS FGVYTTLFNQ IVITIFTIEI
+     ILRIYVHRIS FFKDPWSLFD FFVVAISLVP TSSGFEILRV LRVLRLFRLV TAVPQMRKIV
+     SALISVIPGM LSVIALMTLF FYIFAIMATQ LFGERFPEWF GTLGESFYTL FQVMTLESWS
+     MGIVRPLMEV YPYAWVFFIP FIFVVTFVMI NLVVAIIVDA MAILNQKEEQ HIIDEVQSHE
+     DNINNEIIKL REEIVELKEL IKTSLKN
+//

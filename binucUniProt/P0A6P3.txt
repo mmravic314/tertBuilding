@@ -1,0 +1,104 @@
+ID   EFTS_ECO57              Reviewed;         283 AA.
+AC   P0A6P3; P02997;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 2.
+DT   22-JUL-2015, entry version 77.
+DE   RecName: Full=Elongation factor Ts;
+DE            Short=EF-Ts;
+GN   Name=tsf; OrderedLocusNames=Z0181, ECs0172;
+OS   Escherichia coli O157:H7.
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=83334;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=O157:H7 / EDL933 / ATCC 700927 / EHEC;
+RX   PubMed=11206551; DOI=10.1038/35054089;
+RA   Perna N.T., Plunkett G. III, Burland V., Mau B., Glasner J.D.,
+RA   Rose D.J., Mayhew G.F., Evans P.S., Gregor J., Kirkpatrick H.A.,
+RA   Posfai G., Hackett J., Klink S., Boutin A., Shao Y., Miller L.,
+RA   Grotbeck E.J., Davis N.W., Lim A., Dimalanta E.T., Potamousis K.,
+RA   Apodaca J., Anantharaman T.S., Lin J., Yen G., Schwartz D.C.,
+RA   Welch R.A., Blattner F.R.;
+RT   "Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+RL   Nature 409:529-533(2001).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=O157:H7 / Sakai / RIMD 0509952 / EHEC;
+RX   PubMed=11258796; DOI=10.1093/dnares/8.1.11;
+RA   Hayashi T., Makino K., Ohnishi M., Kurokawa K., Ishii K., Yokoyama K.,
+RA   Han C.-G., Ohtsubo E., Nakayama K., Murata T., Tanaka M., Tobe T.,
+RA   Iida T., Takami H., Honda T., Sasakawa C., Ogasawara N., Yasunaga T.,
+RA   Kuhara S., Shiba T., Hattori M., Shinagawa H.;
+RT   "Complete genome sequence of enterohemorrhagic Escherichia coli
+RT   O157:H7 and genomic comparison with a laboratory strain K-12.";
+RL   DNA Res. 8:11-22(2001).
+CC   -!- FUNCTION: Associates with the EF-Tu.GDP complex and induces the
+CC       exchange of GDP to GTP. It remains bound to the aminoacyl-tRNA.EF-
+CC       Tu.GTP complex up to the GTP hydrolysis stage on the ribosome (By
+CC       similarity). {ECO:0000250}.
+CC   -!- SUBUNIT: Heterotetramer composed of two EF-Ts.EF-Tu dimer
+CC       complexes. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the EF-Ts family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE005174; AAG54472.1; -; Genomic_DNA.
+DR   EMBL; BA000007; BAB33595.1; -; Genomic_DNA.
+DR   PIR; D85501; D85501.
+DR   PIR; D90650; D90650.
+DR   RefSeq; NP_308199.1; NC_002695.1.
+DR   RefSeq; WP_000818114.1; NZ_LAZD01000130.1.
+DR   ProteinModelPortal; P0A6P3; -.
+DR   SMR; P0A6P3; 2-283.
+DR   MINT; MINT-1273879; -.
+DR   STRING; 155864.Z0181; -.
+DR   PRIDE; P0A6P3; -.
+DR   EnsemblBacteria; AAG54472; AAG54472; Z0181.
+DR   EnsemblBacteria; BAB33595; BAB33595; BAB33595.
+DR   GeneID; 913854; -.
+DR   KEGG; ecs:ECs0172; -.
+DR   PATRIC; 18349288; VBIEscCol44059_0174.
+DR   eggNOG; COG0264; -.
+DR   HOGENOM; HOG000220986; -.
+DR   KO; K02357; -.
+DR   OMA; FIMEPKK; -.
+DR   OrthoDB; EOG66B42N; -.
+DR   BioCyc; ECOL386585:GJFA-170-MONOMER; -.
+DR   BioCyc; ECOO157:TSF-MONOMER; -.
+DR   EvolutionaryTrace; P0A6P3; -.
+DR   Proteomes; UP000000558; Chromosome.
+DR   Proteomes; UP000002519; Chromosome.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0003746; F:translation elongation factor activity; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 3.30.479.20; -; 2.
+DR   HAMAP; MF_00050; EF_Ts; 1.
+DR   InterPro; IPR001816; Transl_elong_EFTs/EF1B.
+DR   InterPro; IPR014039; Transl_elong_EFTs/EF1B_dimer.
+DR   InterPro; IPR018101; Transl_elong_Ts_CS.
+DR   InterPro; IPR009060; UBA-like.
+DR   InterPro; IPR000449; UBA/Ts_N.
+DR   PANTHER; PTHR11741; PTHR11741; 1.
+DR   Pfam; PF00889; EF_TS; 1.
+DR   Pfam; PF00627; UBA; 1.
+DR   SUPFAM; SSF46934; SSF46934; 1.
+DR   SUPFAM; SSF54713; SSF54713; 2.
+DR   TIGRFAMs; TIGR00116; tsf; 1.
+DR   PROSITE; PS01126; EF_TS_1; 1.
+DR   PROSITE; PS01127; EF_TS_2; 1.
+PE   3: Inferred from homology;
+KW   Complete proteome; Cytoplasm; Elongation factor; Protein biosynthesis.
+FT   INIT_MET      1      1       Removed. {ECO:0000250}.
+FT   CHAIN         2    283       Elongation factor Ts.
+FT                                /FTId=PRO_0000161119.
+FT   REGION       80     83       Involved in Mg(2+) ion dislocation from
+FT                                EF-Tu.
+SQ   SEQUENCE   283 AA;  30423 MW;  0B9D21E928A5051C CRC64;
+     MAEITASLVK ELRERTGAGM MDCKKALTEA NGDIELAIEN MRKSGAIKAA KKAGNVAADG
+     VIKTKIDGNY GIILEVNCQT DFVAKDAGFQ AFADKVLDAA VAGKITDVEV LKAQFEEERV
+     ALVAKIGENI NIRRVAALEG DVLGSYQHGA RIGVLVAAKG ADEELVKHIA MHVAASKPEF
+     IKPEDVSAEV VEKEYQVQLD IAMQSGKPKE IAEKMVEGRM KKFTGEVSLT GQPFVMEPSK
+     TVGQLLKEHN AEVTGFIRFE VGEGIEKVET DFAAEVAAMS KQS
+//

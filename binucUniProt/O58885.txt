@@ -1,0 +1,144 @@
+ID   PEPQ_PYRHO              Reviewed;         351 AA.
+AC   O58885;
+DT   26-SEP-2001, integrated into UniProtKB/Swiss-Prot.
+DT   01-AUG-1998, sequence version 1.
+DT   22-JUL-2015, entry version 112.
+DE   RecName: Full=Xaa-Pro dipeptidase;
+DE            Short=X-Pro dipeptidase;
+DE            EC=3.4.13.9;
+DE   AltName: Full=Imidodipeptidase;
+DE   AltName: Full=Proline dipeptidase;
+DE            Short=Prolidase;
+GN   Name=pepQ; OrderedLocusNames=PH1149;
+OS   Pyrococcus horikoshii (strain ATCC 700860 / DSM 12428 / JCM 9974 /
+OS   NBRC 100139 / OT-3).
+OC   Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae;
+OC   Pyrococcus.
+OX   NCBI_TaxID=70601;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 700860 / DSM 12428 / JCM 9974 / NBRC 100139 / OT-3;
+RX   PubMed=9679194; DOI=10.1093/dnares/5.2.55;
+RA   Kawarabayasi Y., Sawada M., Horikawa H., Haikawa Y., Hino Y.,
+RA   Yamamoto S., Sekine M., Baba S., Kosugi H., Hosoyama A., Nagai Y.,
+RA   Sakai M., Ogura K., Otsuka R., Nakazawa H., Takamiya M., Ohfuku Y.,
+RA   Funahashi T., Tanaka T., Kudoh Y., Yamazaki J., Kushida N., Oguchi A.,
+RA   Aoki K., Yoshizawa T., Nakamura Y., Robb F.T., Horikoshi K.,
+RA   Masuchi Y., Shizuya H., Kikuchi H.;
+RT   "Complete sequence and gene organization of the genome of a hyper-
+RT   thermophilic archaebacterium, Pyrococcus horikoshii OT3.";
+RL   DNA Res. 5:55-76(1998).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS) IN COMPLEX WITH ZINC IONS,
+RP   COFACTOR, AND SUBUNIT.
+RC   STRAIN=ATCC 700860 / DSM 12428 / JCM 9974 / NBRC 100139 / OT-3;
+RA   Mizutani M., Kunishima N.;
+RT   "Crystal structure of the prolidase from Pyrococcus horikoshii OT3.";
+RL   Submitted (FEB-2005) to the PDB data bank.
+CC   -!- FUNCTION: Splits dipeptides with a prolyl in the C-terminal
+CC       position and a nonpolar amino acid at the N-terminal position.
+CC       {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Hydrolysis of Xaa-|-Pro dipeptides; also acts
+CC       on aminoacyl-hydroxyproline analogs. No action on Pro-|-Pro.
+CC   -!- COFACTOR:
+CC       Name=Co(2+); Xref=ChEBI:CHEBI:48828; Evidence={ECO:0000269|Ref.2};
+CC       Note=Binds 2 cobalt ions per subunit. {ECO:0000269|Ref.2};
+CC   -!- SUBUNIT: Homodimer. {ECO:0000269|Ref.2}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the peptidase M24B family. Archaeal-type
+CC       prolidase subfamily. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; BA000001; BAA30249.1; -; Genomic_DNA.
+DR   PIR; G71056; G71056.
+DR   RefSeq; NP_143052.1; NC_000961.1.
+DR   RefSeq; WP_010885233.1; NC_000961.1.
+DR   PDB; 1WY2; X-ray; 1.70 A; A/B=1-351.
+DR   PDBsum; 1WY2; -.
+DR   ProteinModelPortal; O58885; -.
+DR   SMR; O58885; 1-351.
+DR   STRING; 70601.PH1149; -.
+DR   MEROPS; M24.008; -.
+DR   EnsemblBacteria; BAA30249; BAA30249; BAA30249.
+DR   GeneID; 1443468; -.
+DR   KEGG; pho:PH1149; -.
+DR   eggNOG; COG0006; -.
+DR   HOGENOM; HOG000008760; -.
+DR   KO; K01271; -.
+DR   OMA; GIYIEDF; -.
+DR   BioCyc; PHOR70601:GJWR-1140-MONOMER; -.
+DR   BRENDA; 3.4.13.9; 5244.
+DR   EvolutionaryTrace; O58885; -.
+DR   Proteomes; UP000000752; Chromosome.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0004177; F:aminopeptidase activity; IEA:InterPro.
+DR   GO; GO:0016805; F:dipeptidase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0008235; F:metalloexopeptidase activity; IEA:InterPro.
+DR   Gene3D; 3.40.350.10; -; 1.
+DR   Gene3D; 3.90.230.10; -; 1.
+DR   InterPro; IPR029149; Creatin/AminoP/Spt16_NTD.
+DR   InterPro; IPR028980; Creatinase/Aminopeptidase_P_N.
+DR   InterPro; IPR000587; Creatinase_N.
+DR   InterPro; IPR001714; Pept_M24_MAP.
+DR   InterPro; IPR000994; Pept_M24_structural-domain.
+DR   InterPro; IPR001131; Peptidase_M24B_aminopep-P_CS.
+DR   Pfam; PF01321; Creatinase_N; 1.
+DR   Pfam; PF00557; Peptidase_M24; 1.
+DR   PRINTS; PR00599; MAPEPTIDASE.
+DR   SUPFAM; SSF53092; SSF53092; 1.
+DR   SUPFAM; SSF55920; SSF55920; 1.
+DR   PROSITE; PS00491; PROLINE_PEPTIDASE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cobalt; Complete proteome; Cytoplasm; Dipeptidase;
+KW   Hydrolase; Metal-binding; Metalloprotease; Protease.
+FT   CHAIN         1    351       Xaa-Pro dipeptidase.
+FT                                /FTId=PRO_0000185094.
+FT   METAL       212    212       Cobalt 2.
+FT   METAL       223    223       Cobalt 1.
+FT   METAL       223    223       Cobalt 2.
+FT   METAL       287    287       Cobalt 1.
+FT   METAL       316    316       Cobalt 1.
+FT   METAL       330    330       Cobalt 1.
+FT   METAL       330    330       Cobalt 2.
+FT   HELIX         6     17       {ECO:0000244|PDB:1WY2}.
+FT   STRAND       21     25       {ECO:0000244|PDB:1WY2}.
+FT   HELIX        28     35       {ECO:0000244|PDB:1WY2}.
+FT   STRAND       44     48       {ECO:0000244|PDB:1WY2}.
+FT   STRAND       51     57       {ECO:0000244|PDB:1WY2}.
+FT   HELIX        58     67       {ECO:0000244|PDB:1WY2}.
+FT   STRAND       72     77       {ECO:0000244|PDB:1WY2}.
+FT   HELIX        78     85       {ECO:0000244|PDB:1WY2}.
+FT   STRAND       89     93       {ECO:0000244|PDB:1WY2}.
+FT   HELIX        99    108       {ECO:0000244|PDB:1WY2}.
+FT   STRAND      113    116       {ECO:0000244|PDB:1WY2}.
+FT   HELIX       118    125       {ECO:0000244|PDB:1WY2}.
+FT   HELIX       130    153       {ECO:0000244|PDB:1WY2}.
+FT   HELIX       160    173       {ECO:0000244|PDB:1WY2}.
+FT   STRAND      177    181       {ECO:0000244|PDB:1WY2}.
+FT   STRAND      184    187       {ECO:0000244|PDB:1WY2}.
+FT   HELIX       188    192       {ECO:0000244|PDB:1WY2}.
+FT   STRAND      208    213       {ECO:0000244|PDB:1WY2}.
+FT   STRAND      215    217       {ECO:0000244|PDB:1WY2}.
+FT   STRAND      224    231       {ECO:0000244|PDB:1WY2}.
+FT   HELIX       235    254       {ECO:0000244|PDB:1WY2}.
+FT   HELIX       261    274       {ECO:0000244|PDB:1WY2}.
+FT   HELIX       278    280       {ECO:0000244|PDB:1WY2}.
+FT   STRAND      285    288       {ECO:0000244|PDB:1WY2}.
+FT   STRAND      290    300       {ECO:0000244|PDB:1WY2}.
+FT   STRAND      312    315       {ECO:0000244|PDB:1WY2}.
+FT   STRAND      318    321       {ECO:0000244|PDB:1WY2}.
+FT   TURN        322    324       {ECO:0000244|PDB:1WY2}.
+FT   STRAND      325    328       {ECO:0000244|PDB:1WY2}.
+FT   STRAND      330    336       {ECO:0000244|PDB:1WY2}.
+FT   STRAND      339    343       {ECO:0000244|PDB:1WY2}.
+SQ   SEQUENCE   351 AA;  39401 MW;  38CB76FFFB766A7E CRC64;
+     MDIMNEKVKK IIEFMDKNSI DAVLIAKNPN VYYISGASPL AGGYILITGE SATLYVPELE
+     YEMAKEESNI PVEKFKKMDE FYKALEGIKS LGIESSLPYG FIEELKKKAN IKEFKKVDDV
+     IRDMRIIKSE KEIKIIEKAC EIADKAVMAA IEEITEGKKE REVAAKVEYL MKMNGAEKPA
+     FDTIIASGYR SALPHGVASD KRIERGDLVV IDLGALYQHY NSDITRTIVV GSPNEKQKEI
+     YEIVLEAQKK AVESAKPGIT AKELDSIARN IIAEYGYGEY FNHSLGHGVG LEVHEWPRVS
+     QYDETVLREG MVITIEPGIY IPKIGGVRIE DTILITKNGS KRLTKTEREL I
+//

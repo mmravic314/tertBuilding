@@ -1,0 +1,76 @@
+ID   EC1_WHEAT               Reviewed;          81 AA.
+AC   P30569;
+DT   01-APR-1993, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 2.
+DT   22-JUL-2015, entry version 64.
+DE   RecName: Full=EC protein I/II;
+DE   AltName: Full=Zinc metallothionein class II;
+OS   Triticum aestivum (Wheat).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae; BOP clade;
+OC   Pooideae; Triticodae; Triticeae; Triticinae; Triticum.
+OX   NCBI_TaxID=4565;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=cv. Neepawa; TISSUE=Embryo;
+RX   PubMed=1425704; DOI=10.1111/j.1432-1033.1992.tb17370.x;
+RA   Kawashima I., Kennedy T.D., Chino M., Lane B.G.;
+RT   "Wheat Ec metallothionein genes. Like mammalian Zn2+ metallothionein
+RT   genes, wheat Zn2+ metallothionein genes are conspicuously expressed
+RT   during embryogenesis.";
+RL   Eur. J. Biochem. 209:971-976(1992).
+RN   [2]
+RP   PROTEIN SEQUENCE OF 2-60.
+RC   STRAIN=cv. Thatcher; TISSUE=Embryo;
+RA   Hofmann T., Kells D.I.C., Lane B.G.;
+RT   "Partial amino acid sequence of the wheat germ Ec protein. Comparison
+RT   with another protein very rich in half-cystine and glycine. Wheat germ
+RT   agglutinin.";
+RL   Can. J. Biochem. Cell Biol. 62:908-913(1984).
+CC   -!- FUNCTION: Binds 5 molecules of zinc. May have a role in Zn(2+)
+CC       homeostasis during embryogenesis.
+CC   -!- DEVELOPMENTAL STAGE: Expressed during embryogenesis.
+CC   -!- INDUCTION: By abscisic acid (ABA).
+CC   -!- SIMILARITY: Belongs to the metallothionein superfamily. Type 15
+CC       family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X68289; CAA48349.1; -; mRNA.
+DR   EMBL; X68290; CAA48350.1; -; mRNA.
+DR   PIR; S27369; S27369.
+DR   UniGene; Ta.2799; -.
+DR   PDB; 2KAK; NMR; -; A=31-81.
+DR   PDB; 2L61; NMR; -; A=2-25.
+DR   PDB; 2L62; NMR; -; A=2-25.
+DR   PDB; 2MFP; NMR; -; A=2-27.
+DR   PDBsum; 2KAK; -.
+DR   PDBsum; 2L61; -.
+DR   PDBsum; 2L62; -.
+DR   PDBsum; 2MFP; -.
+DR   Gramene; P30569; -.
+DR   EvolutionaryTrace; P30569; -.
+DR   Proteomes; UP000019116; Unassembled WGS sequence.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:InterPro.
+DR   InterPro; IPR000316; Metallthion_15.
+DR   Pfam; PF02068; Metallothio_PEC; 1.
+DR   PRINTS; PR00877; MTPLANTPEC.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Direct protein sequencing;
+KW   Metal-binding; Metal-thiolate cluster; Reference proteome; Zinc.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|Ref.2}.
+FT   CHAIN         2     81       EC protein I/II.
+FT                                /FTId=PRO_0000197426.
+FT   CONFLICT     51     51       R -> G (in Ref. 2; AA sequence).
+FT                                {ECO:0000305}.
+FT   HELIX         5      7       {ECO:0000244|PDB:2L61}.
+FT   STRAND       14     16       {ECO:0000244|PDB:2L61}.
+FT   HELIX        20     22       {ECO:0000244|PDB:2L61}.
+FT   TURN         37     39       {ECO:0000244|PDB:2KAK}.
+FT   STRAND       58     61       {ECO:0000244|PDB:2KAK}.
+FT   HELIX        74     77       {ECO:0000244|PDB:2KAK}.
+SQ   SEQUENCE   81 AA;  7713 MW;  A08668901106B7A7 CRC64;
+     MGCDDKCGCA VPCPGGTGCR CTSARSGAAA GEHTTCGCGE HCGCNPCACG REGTPSGRAN
+     RRANCSCGAA CNCASCGSAT A
+//

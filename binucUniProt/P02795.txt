@@ -1,0 +1,272 @@
+ID   MT2_HUMAN               Reviewed;          61 AA.
+AC   P02795; Q14823; Q2HXR9; Q53XT9;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   21-JUL-1986, sequence version 1.
+DT   22-JUL-2015, entry version 162.
+DE   RecName: Full=Metallothionein-2;
+DE            Short=MT-2;
+DE   AltName: Full=Metallothionein-2A;
+DE   AltName: Full=Metallothionein-II;
+DE            Short=MT-II;
+GN   Name=MT2A; Synonyms=CES1, MT2;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   PRELIMINARY PROTEIN SEQUENCE.
+RC   TISSUE=Liver;
+RX   PubMed=913597; DOI=10.1016/0014-5793(77)80594-2;
+RA   Kissling M.M., Kaegi J.H.R.;
+RT   "Primary structure of human hepatic metallothionein.";
+RL   FEBS Lett. 82:247-250(1977).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=7133118; DOI=10.1038/299797a0;
+RA   Karin M., Richards R.I.;
+RT   "Human metallothionein genes -- primary structure of the
+RT   metallothionein-II gene and a related processed gene.";
+RL   Nature 299:797-802(1982).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=6896577; DOI=10.1093/nar/10.10.3165;
+RA   Karin M., Richards R.I.;
+RT   "Human metallothionein genes: molecular cloning and sequence analysis
+RT   of the mRNA.";
+RL   Nucleic Acids Res. 10:3165-3173(1982).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=2780570; DOI=10.1073/pnas.86.18.7260;
+RA   Duguid J.R., Bohmont C.W., Liu N.G., Tourtellotte W.W.;
+RT   "Changes in brain gene expression shared by scrapie and Alzheimer
+RT   disease.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 86:7260-7264(1989).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=1339282;
+RA   Yamazaki S., Nakanishi M., Hamamoto T., Hirata H., Ebihara A.,
+RA   Tokue A., Kagawa Y.;
+RT   "Expression of human metallothionein-II fusion protein in Escherichia
+RT   coli.";
+RL   Biochem. Int. 28:451-460(1992).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RA   Lambert E., Kille P., Kay J., Swaminathan R.;
+RT   "Cloning and sequencing a novel metallothionein 1 isoform expressed in
+RT   human reticulocytes.";
+RL   Submitted (AUG-1996) to the EMBL/GenBank/DDBJ databases.
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RA   Kalnine N., Chen X., Rolfs A., Halleck A., Hines L., Eisenstein S.,
+RA   Koundinya M., Raphael J., Moreira D., Kelley T., LaBaer J., Lin Y.,
+RA   Phelan M., Farmer A.;
+RT   "Cloning of human full-length CDSs in BD Creator(TM) system donor
+RT   vector.";
+RL   Submitted (MAY-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND VARIANT VAL-42.
+RG   NIEHS SNPs program;
+RL   Submitted (JAN-2006) to the EMBL/GenBank/DDBJ databases.
+RN   [9]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Brain, and Kidney;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [10]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT MET-1, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19413330; DOI=10.1021/ac9004309;
+RA   Gauci S., Helbig A.O., Slijper M., Krijgsveld J., Heck A.J.,
+RA   Mohammed S.;
+RT   "Lys-N and trypsin cover complementary parts of the phosphoproteome in
+RT   a refined SCX-based approach.";
+RL   Anal. Chem. 81:4493-4501(2009).
+RN   [11]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-58, AND IDENTIFICATION
+RP   BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D.,
+RA   Wang L., Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human
+RT   liver phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [12]
+RP   STRUCTURE BY NMR.
+RX   PubMed=2388267; DOI=10.1016/0022-2836(90)90291-S;
+RA   Messerle B.A., Schaeffer A., Vasak M., Kaegi J.H.R., Wuethrich K.;
+RT   "Three-dimensional structure of human [113Cd7]metallothionein-2 in
+RT   solution determined by nuclear magnetic resonance spectroscopy.";
+RL   J. Mol. Biol. 214:765-779(1990).
+RN   [13]
+RP   STRUCTURE BY NMR.
+RX   PubMed=1593628; DOI=10.1016/0022-2836(92)90930-I;
+RA   Messerle B.A., Schaeffer A., Vasak M., Kaegi J.H.R., Wuethrich K.;
+RT   "Comparison of the solution conformations of human [Zn7]-
+RT   metallothionein-2 and [Cd7]-metallothionein-2 using nuclear magnetic
+RT   resonance spectroscopy.";
+RL   J. Mol. Biol. 225:433-443(1992).
+CC   -!- FUNCTION: Metallothioneins have a high content of cysteine
+CC       residues that bind various heavy metals; these proteins are
+CC       transcriptionally regulated by both heavy metals and
+CC       glucocorticoids.
+CC   -!- INTERACTION:
+CC       Q8TE69:CXorf40A; NbExp=2; IntAct=EBI-996616, EBI-996609;
+CC       Q13585:GPR50; NbExp=2; IntAct=EBI-996616, EBI-8550965;
+CC       Q15139:PRKD1; NbExp=7; IntAct=EBI-996616, EBI-1181072;
+CC       P58062:SPINK7; NbExp=7; IntAct=EBI-996616, EBI-1182445;
+CC   -!- DOMAIN: Class I metallothioneins contain 2 metal-binding domains:
+CC       four divalent ions are chelated within cluster A of the alpha
+CC       domain and are coordinated via cysteinyl thiolate bridges to 11
+CC       cysteine ligands. Cluster B, the corresponding region within the
+CC       beta domain, can ligate three divalent ions to 9 cysteines.
+CC   -!- MISCELLANEOUS: This metallothionein binds zinc.
+CC   -!- SIMILARITY: Belongs to the metallothionein superfamily. Type 1
+CC       family. {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=NIEHS-SNPs;
+CC       URL="http://egp.gs.washington.edu/data/mt2a/";
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; J00271; AAA59583.1; -; Genomic_DNA.
+DR   EMBL; V00594; CAA23841.1; -; mRNA.
+DR   EMBL; M26637; AAA59584.1; ALT_SEQ; mRNA.
+DR   EMBL; S52379; AAB24908.1; -; mRNA.
+DR   EMBL; X97260; CAA65915.1; -; mRNA.
+DR   EMBL; BT007315; AAP35979.1; -; mRNA.
+DR   EMBL; DQ370420; ABC79300.1; -; Genomic_DNA.
+DR   EMBL; BC007034; AAH07034.1; -; mRNA.
+DR   EMBL; BC070289; AAH70289.1; -; mRNA.
+DR   CCDS; CCDS10763.1; -.
+DR   PIR; A03271; SMHU2.
+DR   PIR; I63131; I63131.
+DR   RefSeq; NP_005944.1; NM_005953.3.
+DR   UniGene; Hs.534330; -.
+DR   PDB; 1MHU; NMR; -; A=31-61.
+DR   PDB; 2MHU; NMR; -; A=1-30.
+DR   PDBsum; 1MHU; -.
+DR   PDBsum; 2MHU; -.
+DR   ProteinModelPortal; P02795; -.
+DR   SMR; P02795; 1-61.
+DR   BioGrid; 110608; 13.
+DR   DIP; DIP-35232N; -.
+DR   IntAct; P02795; 14.
+DR   MINT; MINT-2836376; -.
+DR   STRING; 9606.ENSP00000245185; -.
+DR   DrugBank; DB00958; Carboplatin.
+DR   DrugBank; DB00515; Cisplatin.
+DR   DrugBank; DB00526; Oxaliplatin.
+DR   PhosphoSite; P02795; -.
+DR   BioMuta; MT2A; -.
+DR   MaxQB; P02795; -.
+DR   PRIDE; P02795; -.
+DR   DNASU; 4502; -.
+DR   Ensembl; ENST00000245185; ENSP00000245185; ENSG00000125148.
+DR   GeneID; 4502; -.
+DR   KEGG; hsa:4502; -.
+DR   UCSC; uc002ejh.3; human.
+DR   CTD; 4502; -.
+DR   GeneCards; GC16P056642; -.
+DR   HGNC; HGNC:7406; MT2A.
+DR   MIM; 156360; gene.
+DR   neXtProt; NX_P02795; -.
+DR   PharmGKB; PA31214; -.
+DR   GeneTree; ENSGT00730000110883; -.
+DR   HOGENOM; HOG000236262; -.
+DR   HOVERGEN; HBG094456; -.
+DR   InParanoid; P02795; -.
+DR   KO; K14739; -.
+DR   OMA; CKKSCCT; -.
+DR   OrthoDB; EOG7PZS1X; -.
+DR   PhylomeDB; P02795; -.
+DR   TreeFam; TF336054; -.
+DR   Reactome; REACT_25078; Interferon gamma signaling.
+DR   ChiTaRS; MT2A; human.
+DR   EvolutionaryTrace; P02795; -.
+DR   GeneWiki; Metallothionein_2A; -.
+DR   GenomeRNAi; 4502; -.
+DR   NextBio; 17406; -.
+DR   PRO; PR:P02795; -.
+DR   Proteomes; UP000005640; Chromosome 16.
+DR   Bgee; P02795; -.
+DR   CleanEx; HS_CES1; -.
+DR   CleanEx; HS_MT2A; -.
+DR   ExpressionAtlas; P02795; baseline and differential.
+DR   Genevisible; P02795; HS.
+DR   GO; GO:0005737; C:cytoplasm; ISS:UniProtKB.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0005634; C:nucleus; ISS:UniProtKB.
+DR   GO; GO:0048471; C:perinuclear region of cytoplasm; ISS:UniProtKB.
+DR   GO; GO:0008144; F:drug binding; IDA:UniProtKB.
+DR   GO; GO:0008270; F:zinc ion binding; IDA:UniProtKB.
+DR   GO; GO:0006878; P:cellular copper ion homeostasis; TAS:ProtInc.
+DR   GO; GO:0035690; P:cellular response to drug; IDA:UniProtKB.
+DR   GO; GO:0036018; P:cellular response to erythropoietin; IEP:UniProtKB.
+DR   GO; GO:0036016; P:cellular response to interleukin-3; IEP:UniProtKB.
+DR   GO; GO:0071294; P:cellular response to zinc ion; IEP:UniProtKB.
+DR   GO; GO:0019221; P:cytokine-mediated signaling pathway; TAS:Reactome.
+DR   GO; GO:0060333; P:interferon-gamma-mediated signaling pathway; TAS:Reactome.
+DR   GO; GO:0045926; P:negative regulation of growth; ISS:UniProtKB.
+DR   Gene3D; 4.10.10.10; -; 1.
+DR   InterPro; IPR017854; Metalthion_dom.
+DR   InterPro; IPR023587; Metalthion_dom_vert.
+DR   InterPro; IPR003019; Metalthion_sfam_euk.
+DR   InterPro; IPR000006; Metalthion_vert.
+DR   InterPro; IPR018064; Metalthion_vert_metal_BS.
+DR   PANTHER; PTHR23299; PTHR23299; 1.
+DR   Pfam; PF00131; Metallothio; 1.
+DR   PRINTS; PR00860; MTVERTEBRATE.
+DR   SUPFAM; SSF57868; SSF57868; 1.
+DR   PROSITE; PS00203; METALLOTHIONEIN_VRT; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Complete proteome;
+KW   Direct protein sequencing; Metal-binding; Metal-thiolate cluster;
+KW   Phosphoprotein; Polymorphism; Reference proteome; Zinc.
+FT   CHAIN         1     61       Metallothionein-2.
+FT                                /FTId=PRO_0000197245.
+FT   REGION        1     29       Beta.
+FT   REGION       30     61       Alpha.
+FT   METAL         5      5       Divalent metal cation; cluster B.
+FT                                {ECO:0000269|PubMed:2388267}.
+FT   METAL         7      7       Divalent metal cation; cluster B.
+FT                                {ECO:0000269|PubMed:2388267}.
+FT   METAL        13     13       Divalent metal cation; cluster B.
+FT                                {ECO:0000269|PubMed:2388267}.
+FT   METAL        15     15       Divalent metal cation; cluster B.
+FT                                {ECO:0000269|PubMed:2388267}.
+FT   METAL        19     19       Divalent metal cation; cluster B.
+FT   METAL        21     21       Divalent metal cation; cluster B.
+FT   METAL        24     24       Divalent metal cation; cluster B.
+FT   METAL        26     26       Divalent metal cation; cluster B.
+FT   METAL        29     29       Divalent metal cation; cluster B.
+FT   METAL        33     33       Divalent metal cation; cluster A.
+FT   METAL        34     34       Divalent metal cation; cluster A.
+FT   METAL        36     36       Divalent metal cation; cluster A.
+FT   METAL        37     37       Divalent metal cation; cluster A.
+FT   METAL        41     41       Divalent metal cation; cluster A.
+FT   METAL        44     44       Divalent metal cation; cluster A.
+FT   METAL        48     48       Divalent metal cation; cluster A.
+FT   METAL        50     50       Divalent metal cation; cluster A.
+FT   METAL        57     57       Divalent metal cation; cluster A.
+FT   METAL        59     59       Divalent metal cation; cluster A.
+FT   METAL        60     60       Divalent metal cation; cluster A.
+FT   MOD_RES       1      1       N-acetylmethionine.
+FT                                {ECO:0000269|PubMed:19413330}.
+FT   MOD_RES      58     58       Phosphoserine.
+FT                                {ECO:0000269|PubMed:24275569}.
+FT   VARIANT      42     42       A -> V (in dbSNP:rs35109646).
+FT                                {ECO:0000269|Ref.8}.
+FT                                /FTId=VAR_025840.
+FT   STRAND        7     11       {ECO:0000244|PDB:2MHU}.
+FT   HELIX        27     29       {ECO:0000244|PDB:2MHU}.
+FT   STRAND       35     37       {ECO:0000244|PDB:1MHU}.
+FT   HELIX        42     44       {ECO:0000244|PDB:1MHU}.
+SQ   SEQUENCE   61 AA;  6042 MW;  7B0A7E1F99843078 CRC64;
+     MDPNCSCAAG DSCTCAGSCK CKECKCTSCK KSCCSCCPVG CAKCAQGCIC KGASDKCSCC
+     A
+//

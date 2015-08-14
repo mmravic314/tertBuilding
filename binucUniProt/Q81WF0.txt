@@ -1,0 +1,186 @@
+ID   PYRC_BACAN              Reviewed;         428 AA.
+AC   Q81WF0; Q6HUJ8; Q6KNT3;
+DT   18-MAR-2008, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-2003, sequence version 1.
+DT   22-JUL-2015, entry version 92.
+DE   RecName: Full=Dihydroorotase {ECO:0000255|HAMAP-Rule:MF_00220};
+DE            Short=DHOase {ECO:0000255|HAMAP-Rule:MF_00220};
+DE            EC=3.5.2.3 {ECO:0000255|HAMAP-Rule:MF_00220};
+GN   Name=pyrC {ECO:0000255|HAMAP-Rule:MF_00220};
+GN   OrderedLocusNames=BA_4027, GBAA_4027, BAS3739;
+OS   Bacillus anthracis.
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus;
+OC   Bacillus cereus group.
+OX   NCBI_TaxID=1392;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Ames / isolate Porton;
+RX   PubMed=12721629; DOI=10.1038/nature01586;
+RA   Read T.D., Peterson S.N., Tourasse N.J., Baillie L.W., Paulsen I.T.,
+RA   Nelson K.E., Tettelin H., Fouts D.E., Eisen J.A., Gill S.R.,
+RA   Holtzapple E.K., Okstad O.A., Helgason E., Rilstone J., Wu M.,
+RA   Kolonay J.F., Beanan M.J., Dodson R.J., Brinkac L.M., Gwinn M.L.,
+RA   DeBoy R.T., Madpu R., Daugherty S.C., Durkin A.S., Haft D.H.,
+RA   Nelson W.C., Peterson J.D., Pop M., Khouri H.M., Radune D.,
+RA   Benton J.L., Mahamoud Y., Jiang L., Hance I.R., Weidman J.F.,
+RA   Berry K.J., Plaut R.D., Wolf A.M., Watkins K.L., Nierman W.C.,
+RA   Hazen A., Cline R.T., Redmond C., Thwaite J.E., White O.,
+RA   Salzberg S.L., Thomason B., Friedlander A.M., Koehler T.M.,
+RA   Hanna P.C., Kolstoe A.-B., Fraser C.M.;
+RT   "The genome sequence of Bacillus anthracis Ames and comparison to
+RT   closely related bacteria.";
+RL   Nature 423:81-86(2003).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Sterne;
+RA   Brettin T.S., Bruce D., Challacombe J.F., Gilna P., Han C., Hill K.,
+RA   Hitchcock P., Jackson P., Keim P., Longmire J., Lucas S., Okinaka R.,
+RA   Richardson P., Rubin E., Tice H.;
+RT   "Complete genome sequence of Bacillus anthracis Sterne.";
+RL   Submitted (JAN-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Ames ancestor;
+RX   PubMed=18952800; DOI=10.1128/JB.01347-08;
+RA   Ravel J., Jiang L., Stanley S.T., Wilson M.R., Decker R.S., Read T.D.,
+RA   Worsham P., Keim P.S., Salzberg S.L., Fraser-Liggett C.M., Rasko D.A.;
+RT   "The complete genome sequence of Bacillus anthracis Ames 'Ancestor'.";
+RL   J. Bacteriol. 191:445-446(2009).
+CC   -!- CATALYTIC ACTIVITY: (S)-dihydroorotate + H(2)O = N-carbamoyl-L-
+CC       aspartate. {ECO:0000255|HAMAP-Rule:MF_00220}.
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC         Evidence={ECO:0000255|HAMAP-Rule:MF_00220};
+CC       Note=Binds 2 Zn(2+) ions per subunit. {ECO:0000255|HAMAP-
+CC       Rule:MF_00220};
+CC   -!- PATHWAY: Pyrimidine metabolism; UMP biosynthesis via de novo
+CC       pathway; (S)-dihydroorotate from bicarbonate: step 3/3.
+CC       {ECO:0000255|HAMAP-Rule:MF_00220}.
+CC   -!- SUBUNIT: Homodimer. {ECO:0000255|HAMAP-Rule:MF_00220}.
+CC   -!- SIMILARITY: Belongs to the DHOase family. Type 2 subfamily.
+CC       {ECO:0000255|HAMAP-Rule:MF_00220}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE016879; AAP27754.1; -; Genomic_DNA.
+DR   EMBL; AE017334; AAT33144.1; -; Genomic_DNA.
+DR   EMBL; AE017225; AAT56041.1; -; Genomic_DNA.
+DR   RefSeq; NP_846268.1; NC_003997.3.
+DR   RefSeq; WP_001108379.1; NZ_KN050651.1.
+DR   RefSeq; YP_029990.1; NC_005945.1.
+DR   PDB; 3MPG; X-ray; 2.60 A; A/B=1-428.
+DR   PDBsum; 3MPG; -.
+DR   ProteinModelPortal; Q81WF0; -.
+DR   IntAct; Q81WF0; 2.
+DR   STRING; 198094.BA_4027; -.
+DR   ChEMBL; CHEMBL3102690; -.
+DR   DNASU; 1086660; -.
+DR   EnsemblBacteria; AAP27754; AAP27754; BA_4027.
+DR   EnsemblBacteria; AAT33144; AAT33144; GBAA_4027.
+DR   EnsemblBacteria; AAT56041; AAT56041; BAS3739.
+DR   GeneID; 1086660; -.
+DR   GeneID; 2852141; -.
+DR   KEGG; ban:BA_4027; -.
+DR   KEGG; bar:GBAA_4027; -.
+DR   KEGG; bat:BAS3739; -.
+DR   eggNOG; COG0044; -.
+DR   HOGENOM; HOG000219142; -.
+DR   KO; K01465; -.
+DR   OMA; AFGEIFM; -.
+DR   OrthoDB; EOG6KHFW6; -.
+DR   BioCyc; ANTHRA:PYRC-MONOMER; -.
+DR   BioCyc; BANT260799:GJAJ-3797-MONOMER; -.
+DR   BioCyc; BANT261594:GJ7F-3915-MONOMER; -.
+DR   BRENDA; 3.5.2.3; 634.
+DR   UniPathway; UPA00070; UER00117.
+DR   Proteomes; UP000000594; Chromosome.
+DR   GO; GO:0004151; F:dihydroorotase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0044205; P:'de novo' UMP biosynthetic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 2.30.40.10; -; 1.
+DR   HAMAP; MF_00220_B; PyrC_type2_B; 1.
+DR   InterPro; IPR006680; Amidohydro_1.
+DR   InterPro; IPR004722; DHOase.
+DR   InterPro; IPR002195; Dihydroorotase_CS.
+DR   InterPro; IPR011059; Metal-dep_hydrolase_composite.
+DR   Pfam; PF01979; Amidohydro_1; 1.
+DR   SUPFAM; SSF51338; SSF51338; 2.
+DR   TIGRFAMs; TIGR00857; pyrC_multi; 1.
+DR   PROSITE; PS00482; DIHYDROOROTASE_1; 1.
+DR   PROSITE; PS00483; DIHYDROOROTASE_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Hydrolase; Metal-binding;
+KW   Pyrimidine biosynthesis; Reference proteome; Zinc.
+FT   CHAIN         1    428       Dihydroorotase.
+FT                                /FTId=PRO_0000325582.
+FT   METAL        59     59       Zinc 1. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00220}.
+FT   METAL        61     61       Zinc 1. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00220}.
+FT   METAL       141    141       Zinc 1; via carbamate group.
+FT                                {ECO:0000255|HAMAP-Rule:MF_00220}.
+FT   METAL       141    141       Zinc 2; via carbamate group.
+FT                                {ECO:0000255|HAMAP-Rule:MF_00220}.
+FT   METAL       178    178       Zinc 2. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00220}.
+FT   METAL       231    231       Zinc 2. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00220}.
+FT   METAL       304    304       Zinc 1. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00220}.
+FT   MOD_RES     141    141       N6-carboxylysine. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00220}.
+FT   STRAND        2     11       {ECO:0000244|PDB:3MPG}.
+FT   STRAND       13     15       {ECO:0000244|PDB:3MPG}.
+FT   STRAND       17     31       {ECO:0000244|PDB:3MPG}.
+FT   STRAND       41     45       {ECO:0000244|PDB:3MPG}.
+FT   STRAND       50     53       {ECO:0000244|PDB:3MPG}.
+FT   STRAND       55     60       {ECO:0000244|PDB:3MPG}.
+FT   TURN         64     66       {ECO:0000244|PDB:3MPG}.
+FT   TURN         68     70       {ECO:0000244|PDB:3MPG}.
+FT   HELIX        73     83       {ECO:0000244|PDB:3MPG}.
+FT   STRAND       85     90       {ECO:0000244|PDB:3MPG}.
+FT   STRAND       94     96       {ECO:0000244|PDB:3MPG}.
+FT   HELIX       101    114       {ECO:0000244|PDB:3MPG}.
+FT   STRAND      116    121       {ECO:0000244|PDB:3MPG}.
+FT   STRAND      123    126       {ECO:0000244|PDB:3MPG}.
+FT   HELIX       127    129       {ECO:0000244|PDB:3MPG}.
+FT   STRAND      131    134       {ECO:0000244|PDB:3MPG}.
+FT   HELIX       137    142       {ECO:0000244|PDB:3MPG}.
+FT   HELIX       158    170       {ECO:0000244|PDB:3MPG}.
+FT   STRAND      175    177       {ECO:0000244|PDB:3MPG}.
+FT   HELIX       182    184       {ECO:0000244|PDB:3MPG}.
+FT   STRAND      189    191       {ECO:0000244|PDB:3MPG}.
+FT   HELIX       194    198       {ECO:0000244|PDB:3MPG}.
+FT   HELIX       207    223       {ECO:0000244|PDB:3MPG}.
+FT   STRAND      227    229       {ECO:0000244|PDB:3MPG}.
+FT   HELIX       235    246       {ECO:0000244|PDB:3MPG}.
+FT   STRAND      251    253       {ECO:0000244|PDB:3MPG}.
+FT   HELIX       257    261       {ECO:0000244|PDB:3MPG}.
+FT   HELIX       264    266       {ECO:0000244|PDB:3MPG}.
+FT   HELIX       272    274       {ECO:0000244|PDB:3MPG}.
+FT   HELIX       283    295       {ECO:0000244|PDB:3MPG}.
+FT   STRAND      296    298       {ECO:0000244|PDB:3MPG}.
+FT   HELIX       312    314       {ECO:0000244|PDB:3MPG}.
+FT   TURN        317    319       {ECO:0000244|PDB:3MPG}.
+FT   TURN        327    329       {ECO:0000244|PDB:3MPG}.
+FT   HELIX       330    337       {ECO:0000244|PDB:3MPG}.
+FT   TURN        338    342       {ECO:0000244|PDB:3MPG}.
+FT   HELIX       346    351       {ECO:0000244|PDB:3MPG}.
+FT   TURN        352    354       {ECO:0000244|PDB:3MPG}.
+FT   HELIX       355    361       {ECO:0000244|PDB:3MPG}.
+FT   STRAND      376    382       {ECO:0000244|PDB:3MPG}.
+FT   HELIX       389    391       {ECO:0000244|PDB:3MPG}.
+FT   STRAND      393    395       {ECO:0000244|PDB:3MPG}.
+FT   STRAND      409    415       {ECO:0000244|PDB:3MPG}.
+FT   STRAND      418    422       {ECO:0000244|PDB:3MPG}.
+SQ   SEQUENCE   428 AA;  46656 MW;  6AA9493906CCA956 CRC64;
+     MNYLFKNGRY MNEEGKIVAT DLLVQDGKIA KVAENITADN AEVIDVNGKL IAPGLVDVHV
+     HLREPGGEHK ETIETGTLAA AKGGFTTICA MPNTRPVPDC REHMEDLQNR IKEKAHVNVL
+     PYGAITVRQA GSEMTDFETL KELGAFAFTD DGVGVQDASM MLAAMKRAAK LNMAVVAHCE
+     ENTLINKGCV HEGKFSEKHG LNGIPSVCES VHIARDILLA EAADCHYHVC HVSTKGSVRV
+     IRDAKRAGIK VTAEVTPHHL VLCEDDIPSA DPNFKMNPPL RGKEDHEALI EGLLDGTIDM
+     IATDHAPHTA EEKAQGIERA PFGITGFETA FPLLYTNLVK KGIITLEQLI QFLTEKPADT
+     FGLEAGRLKE GRTADITIID LEQEEEIDPT TFLSKGKNTP FAGWKCQGWP VMTIVGGKIA
+     WQKESALV
+//

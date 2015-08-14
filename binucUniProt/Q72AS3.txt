@@ -1,0 +1,115 @@
+ID   Q72AS3_DESVH            Unreviewed;       510 AA.
+AC   Q72AS3;
+DT   05-JUL-2004, integrated into UniProtKB/TrEMBL.
+DT   26-FEB-2008, sequence version 2.
+DT   22-JUL-2015, entry version 91.
+DE   SubName: Full=Periplasmic [NiFeSe] hydrogenase, large subunit, selenocysteine-containing {ECO:0000313|EMBL:AAS96394.1};
+DE            EC=1.12.7.2 {ECO:0000313|EMBL:AAS96394.1};
+GN   Name=hysA {ECO:0000313|EMBL:AAS96394.1};
+GN   OrderedLocusNames=DVU_1918 {ECO:0000313|EMBL:AAS96394.1};
+OS   Desulfovibrio vulgaris (strain Hildenborough / ATCC 29579 / NCIMB
+OS   8303).
+OC   Bacteria; Proteobacteria; Deltaproteobacteria; Desulfovibrionales;
+OC   Desulfovibrionaceae; Desulfovibrio.
+OX   NCBI_TaxID=882 {ECO:0000313|EMBL:AAS96394.1, ECO:0000313|Proteomes:UP000002194};
+RN   [1] {ECO:0000313|EMBL:AAS96394.1, ECO:0000313|Proteomes:UP000002194}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Hildenborough / ATCC 29579 / NCIMB 8303
+RC   {ECO:0000313|Proteomes:UP000002194};
+RX   PubMed=15077118; DOI=10.1038/nbt959;
+RA   Heidelberg J.F., Seshadri R., Haveman S.A., Hemme C.L., Paulsen I.T.,
+RA   Kolonay J.F., Eisen J.A., Ward N.L., Methe B.A., Brinkac L.M.,
+RA   Daugherty S.C., DeBoy R.T., Dodson R.J., Durkin A.S., Madupu R.,
+RA   Nelson W.C., Sullivan S.A., Fouts D.E., Haft D.H., Selengut J.,
+RA   Peterson J.D., Davidsen T.M., Zafar N., Zhou L., Radune D.,
+RA   Dimitrov G., Hance M., Tran K., Khouri H.M., Gill J., Utterback T.R.,
+RA   Feldblyum T.V., Wall J.D., Voordouw G., Fraser C.M.;
+RT   "The genome sequence of the anaerobic, sulfate-reducing bacterium
+RT   Desulfovibrio vulgaris Hildenborough.";
+RL   Nat. Biotechnol. 22:554-559(2004).
+RN   [2] {ECO:0000213|PDB:2WPN}
+RP   X-RAY CRYSTALLOGRAPHY (2.04 ANGSTROMS) OF 1-495 IN COMPLEX WITH IRON,
+RP   AND DISULFIDE BONDS.
+RX   PubMed=20026074; DOI=10.1016/j.jmb.2009.12.013;
+RA   Marques M.C., Coelho R., De Lacey A.L., Pereira I.A., Matias P.M.;
+RT   "The three-dimensional structure of [NiFeSe] hydrogenase from
+RT   Desulfovibrio vulgaris Hildenborough: a hydrogenase without a bridging
+RT   ligand in the active site in its oxidised, "as-isolated" state.";
+RL   J. Mol. Biol. 396:893-907(2010).
+CC   -!- SIMILARITY: Belongs to the [NiFe]/[NiFeSe] hydrogenase large
+CC       subunit family. {ECO:0000256|RuleBase:RU003896}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE017285; AAS96394.1; -; Genomic_DNA.
+DR   RefSeq; WP_010939204.1; NC_002937.3.
+DR   RefSeq; YP_011135.1; NC_002937.3.
+DR   PDB; 2WPN; X-ray; 2.04 A; B=1-495.
+DR   PDB; 3ZE6; X-ray; 1.50 A; B=12-495.
+DR   PDB; 3ZE7; X-ray; 1.95 A; B=12-495.
+DR   PDB; 3ZE8; X-ray; 1.80 A; B=12-495.
+DR   PDB; 3ZE9; X-ray; 1.33 A; B=12-495.
+DR   PDB; 3ZEA; X-ray; 1.82 A; B=12-495.
+DR   PDBsum; 2WPN; -.
+DR   PDBsum; 3ZE6; -.
+DR   PDBsum; 3ZE7; -.
+DR   PDBsum; 3ZE8; -.
+DR   PDBsum; 3ZE9; -.
+DR   PDBsum; 3ZEA; -.
+DR   STRING; 882.DVU1918; -.
+DR   EnsemblBacteria; AAS96394; AAS96394; DVU_1918.
+DR   GeneID; 2793334; -.
+DR   KEGG; dvu:DVU1918; -.
+DR   PATRIC; 32063576; VBIDesVul119526_1761.
+DR   eggNOG; COG0374; -.
+DR   KO; K06281; -.
+DR   OMA; YIGEHVV; -.
+DR   OrthoDB; EOG6M9DSB; -.
+DR   PhylomeDB; Q72AS3; -.
+DR   BioCyc; DVUL882:GJIL-1961-MONOMER; -.
+DR   EvolutionaryTrace; Q72AS3; -.
+DR   Proteomes; UP000002194; Chromosome.
+DR   GO; GO:0051539; F:4 iron, 4 sulfur cluster binding; IEA:UniProtKB-KW.
+DR   GO; GO:0008901; F:ferredoxin hydrogenase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0016151; F:nickel cation binding; IEA:InterPro.
+DR   Gene3D; 1.10.645.10; -; 1.
+DR   InterPro; IPR001501; Ni-dep_hyd_lsu.
+DR   InterPro; IPR018194; Ni-dep_hyd_lsu_Ni_BS.
+DR   InterPro; IPR029014; NiFe_Hase-like.
+DR   Pfam; PF00374; NiFeSe_Hases; 2.
+DR   SUPFAM; SSF56762; SSF56762; 1.
+DR   PROSITE; PS00507; NI_HGENASE_L_1; 1.
+DR   PROSITE; PS00508; NI_HGENASE_L_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2WPN}; 4Fe-4S {ECO:0000213|PDB:2WPN};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002194};
+KW   Iron {ECO:0000213|PDB:2WPN}; Iron-sulfur {ECO:0000213|PDB:2WPN};
+KW   Metal-binding {ECO:0000213|PDB:2WPN};
+KW   Nickel {ECO:0000256|RuleBase:RU003896};
+KW   Oxidoreductase {ECO:0000256|RuleBase:RU003896,
+KW   ECO:0000313|EMBL:AAS96394.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000002194};
+KW   Selenium {ECO:0000313|EMBL:AAS96394.1};
+KW   Selenocysteine {ECO:0000313|EMBL:AAS96394.1}.
+FT   METAL        56     56       Iron. {ECO:0000213|PDB:2WPN}.
+FT   METAL       182    182       Iron-sulfur (4Fe-4S) 2.
+FT                                {ECO:0000213|PDB:3ZE8}.
+FT   METAL       441    441       Iron; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:2WPN}.
+FT   METAL       495    495       Iron; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2WPN}.
+FT   NON_STD     489    489       Selenocysteine.
+FT                                {ECO:0000313|EMBL:AAS96394.1}.
+FT   DISULFID     78    492       {ECO:0000213|PDB:2WPN}.
+SQ   SEQUENCE   510 AA;  55853 MW;  8CA1FE743876ED36 CRC64;
+     MSGCTPKAAP AGATGRTTIA IDPVTRIEGH LKAEVVVENG KVVDARLSGG MYRGFETILR
+     GRDPRDASQI VQRICGVCPT AHSTASVLAL DEAFGAKVPN NGRITRNLIF GANYLQSHIL
+     HFYHLSAQDF VQGPDTAPFV PRFPKSDLRL SKELNKAGVD QYIEALEVRR ICHEMVALFG
+     GRMPHVQGQV VGGATEIPTK EKLVEYAARF KKVRDFVEQK YVPVVYTIGS KYKDMFKVGQ
+     GFKAALCVGA FPLDNSGKKH LFMPGVYAKG KDMPFDPSKI KEYVKYSWFA EETTGLNYKE
+     GKTIPAPDKA GAYSFVKAPR YDGLSLEVGP LARMWVNNPE LSPVGKKLLK DLFGISAKKF
+     RDLGEEAAFS LMGRHVARAE ETYYMLGAIE GWLKEIKAGE DTVVMPAVPA SAEGTGFTEA
+     PRGSLLHYVK VKDSKIDNYQ IVSASLWNCN PRDDMGQRGA VEEALIGIPV DDIQNPVNVA
+     RLIRAFDPUL GCAVHVLHAE SGKVAVIEVK
+//

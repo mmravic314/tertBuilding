@@ -1,0 +1,298 @@
+ID   HSP7F_YEAST             Reviewed;         693 AA.
+AC   P32589; D6W3R1;
+DT   01-OCT-1993, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 4.
+DT   22-JUL-2015, entry version 153.
+DE   RecName: Full=Heat shock protein homolog SSE1;
+DE   AltName: Full=Chaperone protein MSI3;
+GN   Name=SSE1; Synonyms=MSI3; OrderedLocusNames=YPL106C; ORFNames=LPG3C;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=559292;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=ATCC 204626 / S288c / A364A;
+RX   PubMed=8406043; DOI=10.1016/0378-1119(93)90514-4;
+RA   Mukai H., Kuno T., Tanaka H., Hirata D., Miyakawa T., Tanaka C.;
+RT   "Isolation and characterization of SSE1 and SSE2, new members of the
+RT   yeast HSP70 multigene family.";
+RL   Gene 132:57-66(1993).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=8413180;
+RA   Shirayama M., Kawakami K., Matsui Y., Tanaka K., Toh-e A.;
+RT   "MSI3, a multicopy suppressor of mutants hyperactivated in the RAS-
+RT   cAMP pathway, encodes a novel HSP70 protein of Saccharomyces
+RT   cerevisiae.";
+RL   Mol. Gen. Genet. 240:323-332(1993).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=9169875;
+RA   Bussey H., Storms R.K., Ahmed A., Albermann K., Allen E., Ansorge W.,
+RA   Araujo R., Aparicio A., Barrell B.G., Badcock K., Benes V.,
+RA   Botstein D., Bowman S., Brueckner M., Carpenter J., Cherry J.M.,
+RA   Chung E., Churcher C.M., Coster F., Davis K., Davis R.W.,
+RA   Dietrich F.S., Delius H., DiPaolo T., Dubois E., Duesterhoeft A.,
+RA   Duncan M., Floeth M., Fortin N., Friesen J.D., Fritz C., Goffeau A.,
+RA   Hall J., Hebling U., Heumann K., Hilbert H., Hillier L.W.,
+RA   Hunicke-Smith S., Hyman R.W., Johnston M., Kalman S., Kleine K.,
+RA   Komp C., Kurdi O., Lashkari D., Lew H., Lin A., Lin D., Louis E.J.,
+RA   Marathe R., Messenguy F., Mewes H.-W., Mirtipati S., Moestl D.,
+RA   Mueller-Auer S., Namath A., Nentwich U., Oefner P., Pearson D.,
+RA   Petel F.X., Pohl T.M., Purnelle B., Rajandream M.A., Rechmann S.,
+RA   Rieger M., Riles L., Roberts D., Schaefer M., Scharfe M., Scherens B.,
+RA   Schramm S., Schroeder M., Sdicu A.-M., Tettelin H., Urrestarazu L.A.,
+RA   Ushinsky S., Vierendeels F., Vissers S., Voss H., Walsh S.V.,
+RA   Wambutt R., Wang Y., Wedler E., Wedler H., Winnett E., Zhong W.-W.,
+RA   Zollner A., Vo D.H., Hani J.;
+RT   "The nucleotide sequence of Saccharomyces cerevisiae chromosome XVI.";
+RL   Nature 387:103-105(1997).
+RN   [4]
+RP   GENOME REANNOTATION.
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=24374639; DOI=10.1534/g3.113.008995;
+RA   Engel S.R., Dietrich F.S., Fisk D.G., Binkley G., Balakrishnan R.,
+RA   Costanzo M.C., Dwight S.S., Hitz B.C., Karra K., Nash R.S., Weng S.,
+RA   Wong E.D., Lloyd P., Skrzypek M.S., Miyasato S.R., Simison M.,
+RA   Cherry J.M.;
+RT   "The reference genome sequence of Saccharomyces cerevisiae: Then and
+RT   now.";
+RL   G3 (Bethesda) 4:389-398(2014).
+RN   [5]
+RP   PROTEIN SEQUENCE OF 100-110.
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=7895733; DOI=10.1002/elps.11501501210;
+RA   Garrels J.I., Futcher B., Kobayashi R., Latter G.I., Schwender B.,
+RA   Volpe T., Warner J.R., McLaughlin C.S.;
+RT   "Protein identifications for a Saccharomyces cerevisiae protein
+RT   database.";
+RL   Electrophoresis 15:1466-1486(1994).
+RN   [6]
+RP   PROTEIN SEQUENCE OF 330-339.
+RC   STRAIN=ATCC 38531 / Y41;
+RX   PubMed=8935650; DOI=10.1111/j.1574-6968.1996.tb08073.x;
+RA   Norbeck J., Blomberg A.;
+RT   "Protein expression during exponential growth in 0.7 M NaCl medium of
+RT   Saccharomyces cerevisiae.";
+RL   FEMS Microbiol. Lett. 137:1-8(1996).
+RN   [7]
+RP   ACETYLATION AT SER-2.
+RX   PubMed=9298649; DOI=10.1002/elps.1150180810;
+RA   Garrels J.I., McLaughlin C.S., Warner J.R., Futcher B., Latter G.I.,
+RA   Kobayashi R., Schwender B., Volpe T., Anderson D.S.,
+RA   Mesquita-Fuentes R., Payne W.E.;
+RT   "Proteome studies of Saccharomyces cerevisiae: identification and
+RT   characterization of abundant proteins.";
+RL   Electrophoresis 18:1347-1360(1997).
+RN   [8]
+RP   SUBCELLULAR LOCATION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562095; DOI=10.1038/nature02026;
+RA   Huh W.-K., Falvo J.V., Gerke L.C., Carroll A.S., Howson R.W.,
+RA   Weissman J.S., O'Shea E.K.;
+RT   "Global analysis of protein localization in budding yeast.";
+RL   Nature 425:686-691(2003).
+RN   [9]
+RP   LEVEL OF PROTEIN EXPRESSION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562106; DOI=10.1038/nature02046;
+RA   Ghaemmaghami S., Huh W.-K., Bower K., Howson R.W., Belle A.,
+RA   Dephoure N., O'Shea E.K., Weissman J.S.;
+RT   "Global analysis of protein expression in yeast.";
+RL   Nature 425:737-741(2003).
+RN   [10]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-242, AND IDENTIFICATION
+RP   BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=17287358; DOI=10.1073/pnas.0607084104;
+RA   Chi A., Huttenhower C., Geer L.Y., Coon J.J., Syka J.E.P., Bai D.L.,
+RA   Shabanowitz J., Burke D.J., Troyanskaya O.G., Hunt D.F.;
+RT   "Analysis of phosphorylation sites on proteins from Saccharomyces
+RT   cerevisiae by electron transfer dissociation (ETD) mass
+RT   spectrometry.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 104:2193-2198(2007).
+RN   [11]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-660, AND IDENTIFICATION
+RP   BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=18407956; DOI=10.1074/mcp.M700468-MCP200;
+RA   Albuquerque C.P., Smolka M.B., Payne S.H., Bafna V., Eng J., Zhou H.;
+RT   "A multidimensional chromatography technology for in-depth
+RT   phosphoproteome analysis.";
+RL   Mol. Cell. Proteomics 7:1389-1396(2008).
+RN   [12]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=22106047; DOI=10.1002/pmic.201100166;
+RA   Starita L.M., Lo R.S., Eng J.K., von Haller P.D., Fields S.;
+RT   "Sites of ubiquitin attachment in Saccharomyces cerevisiae.";
+RL   Proteomics 12:236-240(2012).
+CC   -!- FUNCTION: Has a calcium-dependent calmodulin-binding activity.
+CC       Required for normal growth at various temperatures.
+CC   -!- INTERACTION:
+CC       P02829:HSP82; NbExp=3; IntAct=EBI-8648, EBI-8659;
+CC       P08107:HSPA1B (xeno); NbExp=2; IntAct=EBI-8648, EBI-629985;
+CC       P10591:SSA1; NbExp=8; IntAct=EBI-8648, EBI-8591;
+CC       P11484:SSB1; NbExp=2; IntAct=EBI-8648, EBI-8627;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:14562095}.
+CC   -!- INDUCTION: Increases a few-fold upon upshift to 37 degrees
+CC       Celsius.
+CC   -!- MISCELLANEOUS: Present with 71700 molecules/cell in log phase SD
+CC       medium. {ECO:0000269|PubMed:14562106}.
+CC   -!- SIMILARITY: Belongs to the heat shock protein 70 family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; D13319; BAA02576.1; -; mRNA.
+DR   EMBL; D38368; BAA07449.1; -; mRNA.
+DR   EMBL; D38370; BAA07451.1; -; Genomic_DNA.
+DR   EMBL; D13743; BAA02888.1; -; Genomic_DNA.
+DR   EMBL; U43281; AAB68194.1; -; Genomic_DNA.
+DR   EMBL; BK006949; DAA11327.1; -; Genomic_DNA.
+DR   PIR; S46417; S46417.
+DR   RefSeq; NP_015219.1; NM_001183920.1.
+DR   PDB; 2QXL; X-ray; 2.41 A; A/B=2-659.
+DR   PDB; 3C7N; X-ray; 3.12 A; A=1-666.
+DR   PDB; 3D2E; X-ray; 2.35 A; A/C=1-502, A/C=525-693.
+DR   PDB; 3D2F; X-ray; 2.30 A; A/C=1-502, A/C=525-693.
+DR   PDBsum; 2QXL; -.
+DR   PDBsum; 3C7N; -.
+DR   PDBsum; 3D2E; -.
+DR   PDBsum; 3D2F; -.
+DR   ProteinModelPortal; P32589; -.
+DR   SMR; P32589; 1-649.
+DR   BioGrid; 36075; 260.
+DR   DIP; DIP-6645N; -.
+DR   IntAct; P32589; 126.
+DR   MINT; MINT-8285491; -.
+DR   SWISS-2DPAGE; P32589; -.
+DR   MaxQB; P32589; -.
+DR   PaxDb; P32589; -.
+DR   PeptideAtlas; P32589; -.
+DR   PRIDE; P32589; -.
+DR   EnsemblFungi; YPL106C; YPL106C; YPL106C.
+DR   GeneID; 855998; -.
+DR   KEGG; sce:YPL106C; -.
+DR   EuPathDB; FungiDB:YPL106C; -.
+DR   SGD; S000006027; SSE1.
+DR   eggNOG; COG0443; -.
+DR   GeneTree; ENSGT00390000016919; -.
+DR   HOGENOM; HOG000228138; -.
+DR   InParanoid; P32589; -.
+DR   KO; K09485; -.
+DR   OMA; EASMIME; -.
+DR   OrthoDB; EOG7B8SC7; -.
+DR   BioCyc; YEAST:G3O-34008-MONOMER; -.
+DR   Reactome; REACT_333905; Regulation of HSF1-mediated heat shock response.
+DR   EvolutionaryTrace; P32589; -.
+DR   NextBio; 980863; -.
+DR   PRO; PR:P32589; -.
+DR   Proteomes; UP000002311; Chromosome XVI.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005844; C:polysome; IDA:SGD.
+DR   GO; GO:0000774; F:adenyl-nucleotide exchange factor activity; IDA:SGD.
+DR   GO; GO:0005524; F:ATP binding; IDA:SGD.
+DR   GO; GO:0042277; F:peptide binding; IDA:SGD.
+DR   GO; GO:0006457; P:protein folding; IMP:SGD.
+DR   GO; GO:0042026; P:protein refolding; IDA:SGD.
+DR   GO; GO:0050790; P:regulation of catalytic activity; IDA:GOC.
+DR   Gene3D; 1.20.1270.10; -; 1.
+DR   Gene3D; 2.60.34.10; -; 1.
+DR   InterPro; IPR018181; Heat_shock_70_CS.
+DR   InterPro; IPR029048; HSP70_C.
+DR   InterPro; IPR029047; HSP70_peptide-bd.
+DR   InterPro; IPR013126; Hsp_70_fam.
+DR   Pfam; PF00012; HSP70; 1.
+DR   PRINTS; PR00301; HEATSHOCK70.
+DR   SUPFAM; SSF100920; SSF100920; 2.
+DR   SUPFAM; SSF100934; SSF100934; 1.
+DR   PROSITE; PS00329; HSP70_2; 1.
+DR   PROSITE; PS01036; HSP70_3; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; ATP-binding; Calmodulin-binding; Chaperone;
+KW   Complete proteome; Cytoplasm; Direct protein sequencing;
+KW   Nucleotide-binding; Phosphoprotein; Reference proteome;
+KW   Stress response.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:9298649}.
+FT   CHAIN         2    693       Heat shock protein homolog SSE1.
+FT                                /FTId=PRO_0000078396.
+FT   MOD_RES       2      2       N-acetylserine.
+FT                                {ECO:0000269|PubMed:9298649}.
+FT   MOD_RES     242    242       Phosphothreonine.
+FT                                {ECO:0000269|PubMed:17287358}.
+FT   MOD_RES     660    660       Phosphoserine.
+FT                                {ECO:0000269|PubMed:18407956}.
+FT   CONFLICT    269    270       TA -> NT (in Ref. 1; BAA02576/BAA07449).
+FT                                {ECO:0000305}.
+FT   STRAND        5      8       {ECO:0000244|PDB:3D2F}.
+FT   STRAND       11     20       {ECO:0000244|PDB:3D2F}.
+FT   STRAND       23     27       {ECO:0000244|PDB:3D2F}.
+FT   STRAND       34     37       {ECO:0000244|PDB:3D2F}.
+FT   STRAND       40     42       {ECO:0000244|PDB:3D2F}.
+FT   STRAND       44     49       {ECO:0000244|PDB:3D2F}.
+FT   HELIX        51     57       {ECO:0000244|PDB:3D2F}.
+FT   HELIX        61     63       {ECO:0000244|PDB:3D2F}.
+FT   HELIX        68     71       {ECO:0000244|PDB:3D2F}.
+FT   HELIX        81     85       {ECO:0000244|PDB:3D2F}.
+FT   STRAND       90     94       {ECO:0000244|PDB:3D2F}.
+FT   STRAND       98    106       {ECO:0000244|PDB:3D2F}.
+FT   STRAND      109    114       {ECO:0000244|PDB:3D2F}.
+FT   HELIX       115    134       {ECO:0000244|PDB:3D2F}.
+FT   STRAND      140    145       {ECO:0000244|PDB:3D2F}.
+FT   HELIX       151    163       {ECO:0000244|PDB:3D2F}.
+FT   STRAND      167    173       {ECO:0000244|PDB:3D2F}.
+FT   HELIX       174    185       {ECO:0000244|PDB:3D2F}.
+FT   STRAND      192    194       {ECO:0000244|PDB:3D2F}.
+FT   STRAND      197    204       {ECO:0000244|PDB:3D2F}.
+FT   STRAND      209    217       {ECO:0000244|PDB:3D2F}.
+FT   STRAND      220    229       {ECO:0000244|PDB:3D2F}.
+FT   HELIX       234    252       {ECO:0000244|PDB:3D2F}.
+FT   HELIX       257    259       {ECO:0000244|PDB:3D2F}.
+FT   HELIX       261    280       {ECO:0000244|PDB:3D2F}.
+FT   STRAND      282    288       {ECO:0000244|PDB:3D2F}.
+FT   STRAND      291    294       {ECO:0000244|PDB:3D2F}.
+FT   STRAND      297    302       {ECO:0000244|PDB:3D2F}.
+FT   HELIX       303    309       {ECO:0000244|PDB:3D2F}.
+FT   HELIX       311    314       {ECO:0000244|PDB:3D2F}.
+FT   TURN        315    318       {ECO:0000244|PDB:3D2F}.
+FT   HELIX       319    328       {ECO:0000244|PDB:3D2F}.
+FT   HELIX       332    334       {ECO:0000244|PDB:3D2F}.
+FT   STRAND      337    342       {ECO:0000244|PDB:3D2F}.
+FT   HELIX       343    346       {ECO:0000244|PDB:3D2F}.
+FT   HELIX       348    358       {ECO:0000244|PDB:3D2F}.
+FT   TURN        368    370       {ECO:0000244|PDB:3D2F}.
+FT   HELIX       371    382       {ECO:0000244|PDB:3D2F}.
+FT   STRAND      385    387       {ECO:0000244|PDB:2QXL}.
+FT   STRAND      393    398       {ECO:0000244|PDB:3D2F}.
+FT   STRAND      402    406       {ECO:0000244|PDB:3D2F}.
+FT   STRAND      414    419       {ECO:0000244|PDB:3D2F}.
+FT   STRAND      423    437       {ECO:0000244|PDB:3D2F}.
+FT   STRAND      439    446       {ECO:0000244|PDB:3D2F}.
+FT   HELIX       448    450       {ECO:0000244|PDB:3D2F}.
+FT   STRAND      457    465       {ECO:0000244|PDB:3D2F}.
+FT   STRAND      476    484       {ECO:0000244|PDB:3D2F}.
+FT   STRAND      490    498       {ECO:0000244|PDB:3D2F}.
+FT   STRAND      505    507       {ECO:0000244|PDB:3C7N}.
+FT   STRAND      520    522       {ECO:0000244|PDB:3C7N}.
+FT   STRAND      529    532       {ECO:0000244|PDB:3D2F}.
+FT   STRAND      534    538       {ECO:0000244|PDB:3D2F}.
+FT   HELIX       544    585       {ECO:0000244|PDB:3D2F}.
+FT   TURN        586    589       {ECO:0000244|PDB:3D2F}.
+FT   HELIX       590    592       {ECO:0000244|PDB:3D2F}.
+FT   HELIX       595    611       {ECO:0000244|PDB:3D2F}.
+FT   TURN        612    614       {ECO:0000244|PDB:3D2F}.
+FT   HELIX       615    618       {ECO:0000244|PDB:3D2F}.
+FT   HELIX       621    653       {ECO:0000244|PDB:3D2F}.
+SQ   SEQUENCE   693 AA;  77366 MW;  6558259111B0BC38 CRC64;
+     MSTPFGLDLG NNNSVLAVAR NRGIDIVVNE VSNRSTPSVV GFGPKNRYLG ETGKNKQTSN
+     IKNTVANLKR IIGLDYHHPD FEQESKHFTS KLVELDDKKT GAEVRFAGEK HVFSATQLAA
+     MFIDKVKDTV KQDTKANITD VCIAVPPWYT EEQRYNIADA ARIAGLNPVR IVNDVTAAGV
+     SYGIFKTDLP EGEEKPRIVA FVDIGHSSYT CSIMAFKKGQ LKVLGTACDK HFGGRDFDLA
+     ITEHFADEFK TKYKIDIREN PKAYNRILTA AEKLKKVLSA NTNAPFSVES VMNDVDVSSQ
+     LSREELEELV KPLLERVTEP VTKALAQAKL SAEEVDFVEI IGGTTRIPTL KQSISEAFGK
+     PLSTTLNQDE AIAKGAAFIC AIHSPTLRVR PFKFEDIHPY SVSYSWDKQV EDEDHMEVFP
+     AGSSFPSTKL ITLNRTGDFS MAASYTDITQ LPPNTPEQIA NWEITGVQLP EGQDSVPVKL
+     KLRCDPSGLH TIEEAYTIED IEVEEPIPLP EDAPEDAEQE FKKVTKTVKK DDLTIVAHTF
+     GLDAKKLNEL IEKENEMLAQ DKLVAETEDR KNTLEEYIYT LRGKLEEEYA PFASDAEKTK
+     LQGMLNKAEE WLYDEGFDSI KAKYIAKYEE LASLGNIIRG RYLAKEEEKK QAIRSKQEAS
+     QMAAMAEKLA AQRKAEAEKK EEKKDTEGDV DMD
+//

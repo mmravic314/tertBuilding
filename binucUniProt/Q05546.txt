@@ -1,0 +1,317 @@
+ID   TENR_RAT                Reviewed;        1356 AA.
+AC   Q05546;
+DT   15-MAR-2005, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   22-JUL-2015, entry version 121.
+DE   RecName: Full=Tenascin-R;
+DE            Short=TN-R;
+DE   AltName: Full=Janusin;
+DE   AltName: Full=Neural recognition molecule J1-160/180;
+DE   AltName: Full=Restrictin;
+DE   Flags: Precursor;
+GN   Name=Tnr;
+OS   Rattus norvegicus (Rat).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Rattus.
+OX   NCBI_TaxID=10116;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 1 AND 2), DEVELOPMENTAL STAGE,
+RP   AND TISSUE SPECIFICITY.
+RX   PubMed=7679676; DOI=10.1083/jcb.120.5.1237;
+RA   Fuss B., Wintergerst E.-S., Bartsch U., Schachner M.;
+RT   "Molecular characterization and in situ mRNA localization of the
+RT   neural recognition molecule J1-160/180: a modular structure similar to
+RT   tenascin.";
+RL   J. Cell Biol. 120:1237-1249(1993).
+RN   [2]
+RP   INTERACTION WITH CNTN1.
+RX   PubMed=9081628; DOI=10.1111/j.1460-9568.1996.tb01262.x;
+RA   Xiao Z.-C., Taylor J., Montag D., Rougon G., Schachner M.;
+RT   "Distinct effects of recombinant tenascin-R domains in neuronal cell
+RT   functions and identification of the domain interacting with the
+RT   neuronal recognition molecule F3/11.";
+RL   Eur. J. Neurosci. 8:766-782(1996).
+RN   [3]
+RP   INTERACTION WITH BCAN.
+RX   PubMed=9294172; DOI=10.1073/pnas.94.19.10116;
+RA   Aspberg A., Miura R., Bourdoulous S., Shimonaka M., Heinegard D.,
+RA   Schachner M., Ruoslahti E., Yamaguchi Y.;
+RT   "The C-type lectin domains of lecticans, a family of aggregating
+RT   chondroitin sulfate proteoglycans, bind tenascin-R by protein-protein
+RT   interactions independent of carbohydrate moiety.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 94:10116-10121(1997).
+RN   [4]
+RP   INTERACTION WITH SCN2B, AND FUNCTION.
+RX   PubMed=9861042; DOI=10.1073/pnas.95.26.15753;
+RA   Srinivasan J., Schachner M., Catterall W.A.;
+RT   "Interaction of voltage-gated sodium channels with the extracellular
+RT   matrix molecules tenascin-C and tenascin-R.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 95:15753-15757(1998).
+RN   [5]
+RP   INTERACTION WITH PTPRZ1 AND CSPG3.
+RX   PubMed=9507007; DOI=10.1074/jbc.273.12.6998;
+RA   Milev P., Chiba A., Haring M., Rauvala H., Schachner M., Ranscht B.,
+RA   Margolis R.K., Margolis R.U.;
+RT   "High affinity binding and overlapping localization of neurocan and
+RT   phosphacan/protein-tyrosine phosphatase-zeta/beta with tenascin-R,
+RT   amphoterin, and the heparin-binding growth-associated molecule.";
+RL   J. Biol. Chem. 273:6998-7005(1998).
+RN   [6]
+RP   GLYCOSYLATION, AND FUNCTION.
+RX   PubMed=10723065;
+RX   DOI=10.1002/(SICI)1097-4547(20000401)60:1<21::AID-JNR3>3.0.CO;2-H;
+RA   Probstmeier R., Stichel C.C., Muller H.W., Asou H., Pesheva P.;
+RT   "Chondroitin sulfates expressed on oligodendrocyte-derived tenascin-R
+RT   are involved in neural cell recognition. Functional implications
+RT   during CNS development and regeneration.";
+RL   J. Neurosci. Res. 60:21-36(2000).
+RN   [7]
+RP   GLYCOSYLATION.
+RX   PubMed=12393878; DOI=10.1074/jbc.M209876200;
+RA   Woodworth A., Fiete D., Baenziger J.U.;
+RT   "Spatial and temporal regulation of tenascin-R glycosylation in the
+RT   cerebellum.";
+RL   J. Biol. Chem. 277:50941-50947(2002).
+RN   [8]
+RP   GLYCOSYLATION, DEVELOPMENTAL STAGE, AND FUNCTION.
+RX   PubMed=14681222; DOI=10.1074/jbc.M312466200;
+RA   Woodworth A., Pesheva P., Fiete D., Baenziger J.U.;
+RT   "Neuronal-specific synthesis and glycosylation of tenascin-R.";
+RL   J. Biol. Chem. 279:10413-10421(2004).
+RN   [9]
+RP   X-RAY CRYSTALLOGRAPHY (2.6 ANGSTROMS) OF 489-771, AND INTERACTION WITH
+RP   ACAN.
+RX   PubMed=15296743; DOI=10.1016/j.str.2004.05.021;
+RA   Lundell A., Olin A.I., Morgelin M., al-Karadaghi S., Aspberg A.,
+RA   Logan D.T.;
+RT   "Structural basis for interactions between tenascins and lectican C-
+RT   type lectin domains: evidence for a crosslinking role for tenascins.";
+RL   Structure 12:1495-1506(2004).
+CC   -!- FUNCTION: Neural extracellular matrix (ECM) protein involved in
+CC       interactions with different cells and matrix components. Theses
+CC       interactions can influence cellular behavior by either evoking a
+CC       stable adhesion and differentiation, or repulsion and inhibition
+CC       of neurite growth. Binding to cell surface gangliosides inhibits
+CC       RGD-dependent integrin-mediated cell adhesion and results in an
+CC       inhibition of PTK2/FAK1 (FAK) phosphorylation and cell detachment.
+CC       Binding to membrane surface sulfatides results in a
+CC       oligodendrocyte adhesion and differentiation. Interaction with
+CC       CNTN1 induces a repulsion of neurons and an inhibition of neurite
+CC       outgrowth. Interacts with SCN2B may play a crucial role in
+CC       clustering and regulation of activity of sodium channels at nodes
+CC       of Ranvier. TNR-linked chondroitin sulfate glycosaminoglycans are
+CC       involved in the interaction with FN1 and mediates inhibition of
+CC       cell adhesion and neurite outgrowth. The highly regulated addition
+CC       of sulfated carbohydrate structure may modulate the adhesive
+CC       properties of TNR over the course of development and during
+CC       synapse maintenance (By similarity). {ECO:0000250}.
+CC   -!- SUBUNIT: Forms oligomers. Interacts with TNC and FN1 (By
+CC       similarity). Interacts with BCAN and ACAN in a calcium -dependent
+CC       manner. Interacts with CNTN1, SCN2B, PTPRZ1, and CSPG3.
+CC       {ECO:0000250, ECO:0000269|PubMed:15296743,
+CC       ECO:0000269|PubMed:9081628, ECO:0000269|PubMed:9294172,
+CC       ECO:0000269|PubMed:9507007, ECO:0000269|PubMed:9861042}.
+CC   -!- SUBCELLULAR LOCATION: Secreted, extracellular space, extracellular
+CC       matrix.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1; Synonyms=TN-R 180, 180 kDa form;
+CC         IsoId=Q05546-1; Sequence=Displayed;
+CC       Name=2; Synonyms=TN-R 160, 160 kDa form;
+CC         IsoId=Q05546-2; Sequence=VSP_012995;
+CC   -!- TISSUE SPECIFICITY: Brain-specific. Expressed in oligodendrocytes
+CC       and small subsets of neurons (mainly interneurons and motoneurons)
+CC       of the cerebellum, hippocampus and olfactory bulb.
+CC       {ECO:0000269|PubMed:7679676}.
+CC   -!- DEVELOPMENTAL STAGE: Expression in oligodendrocytes is highest
+CC       between the second and third postnatal week and low in the adult.
+CC       In contrast the expression in neurons increases from birth to
+CC       third postnatal week and is continuous from late development to
+CC       adulthood. Isoform 1 is the dominant form early in development.
+CC       Isoform 2 is more prominent later in development and in adulthood.
+CC       {ECO:0000269|PubMed:14681222, ECO:0000269|PubMed:7679676}.
+CC   -!- DOMAIN: The EGF-like domains mediate interaction with CNTN1. The
+CC       fibronectin type-III domains 3-5 mediate interaction with BCAN.
+CC       The fibronectin type-III domains 1-2 and 7-9 mediate interaction
+CC       with SCN2B.
+CC   -!- PTM: Contains N-linked oligosaccharides, O-linked sialylated
+CC       structures (By similarity). Contains O-linked chondroitin sulfate
+CC       glycosaminoglycans. Contains N-linked oligosaccharides with a
+CC       sulfated carbohydrate structure type GalNAc-4-SO4 or HNK-1 (SO4-3-
+CC       GlcUABeta1,3GalBeta1,4GlcNAc). The levels of HNK-1 rise and fall
+CC       in parallel to those of TNR during postnatal development of the
+CC       cerebellum. In contrast, levels of GalNAc-4-SO4 are regulated
+CC       independently from those of TNR, rising late in cerebellar
+CC       development and continuing into adulthood. Early in postnatal
+CC       development, GalNAc-4-SO4 is found predominantly on isoform 1,
+CC       whereas in the adult it is predominantly on isoform 2.
+CC       {ECO:0000250, ECO:0000269|PubMed:10723065,
+CC       ECO:0000269|PubMed:12393878, ECO:0000269|PubMed:14681222}.
+CC   -!- SIMILARITY: Belongs to the tenascin family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 5 EGF-like domains. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 fibrinogen C-terminal domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00739}.
+CC   -!- SIMILARITY: Contains 9 fibronectin type-III domains.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00316}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; Z18630; CAA79229.1; -; mRNA.
+DR   PIR; A45445; A45445.
+DR   RefSeq; NP_037177.1; NM_013045.1. [Q05546-1]
+DR   UniGene; Rn.11028; -.
+DR   UniGene; Rn.131578; -.
+DR   PDB; 1TDQ; X-ray; 2.60 A; A=502-771.
+DR   PDBsum; 1TDQ; -.
+DR   ProteinModelPortal; Q05546; -.
+DR   SMR; Q05546; 502-770.
+DR   BioGrid; 247598; 1.
+DR   IntAct; Q05546; 1.
+DR   PhosphoSite; Q05546; -.
+DR   PaxDb; Q05546; -.
+DR   PRIDE; Q05546; -.
+DR   GeneID; 25567; -.
+DR   KEGG; rno:25567; -.
+DR   CTD; 7143; -.
+DR   RGD; 3886; Tnr.
+DR   eggNOG; NOG311251; -.
+DR   HOGENOM; HOG000234355; -.
+DR   HOVERGEN; HBG008949; -.
+DR   InParanoid; Q05546; -.
+DR   KO; K06252; -.
+DR   PhylomeDB; Q05546; -.
+DR   EvolutionaryTrace; Q05546; -.
+DR   NextBio; 607175; -.
+DR   PRO; PR:Q05546; -.
+DR   Proteomes; UP000002494; Unplaced.
+DR   Genevisible; Q05546; RN.
+DR   GO; GO:0005578; C:proteinaceous extracellular matrix; IDA:RGD.
+DR   GO; GO:0005178; F:integrin binding; IPI:RGD.
+DR   GO; GO:0007155; P:cell adhesion; IEA:UniProtKB-KW.
+DR   GO; GO:0007162; P:negative regulation of cell adhesion; IDA:RGD.
+DR   GO; GO:0007399; P:nervous system development; TAS:RGD.
+DR   Gene3D; 2.60.40.10; -; 9.
+DR   Gene3D; 3.90.215.10; -; 1.
+DR   Gene3D; 4.10.530.10; -; 1.
+DR   InterPro; IPR000742; EG-like_dom.
+DR   InterPro; IPR013032; EGF-like_CS.
+DR   InterPro; IPR013111; EGF_extracell.
+DR   InterPro; IPR014716; Fibrinogen_a/b/g_C_1.
+DR   InterPro; IPR014715; Fibrinogen_a/b/g_C_2.
+DR   InterPro; IPR002181; Fibrinogen_a/b/g_C_dom.
+DR   InterPro; IPR003961; FN3_dom.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   Pfam; PF07974; EGF_2; 1.
+DR   Pfam; PF00147; Fibrinogen_C; 1.
+DR   Pfam; PF00041; fn3; 9.
+DR   SMART; SM00181; EGF; 1.
+DR   SMART; SM00186; FBG; 1.
+DR   SMART; SM00060; FN3; 9.
+DR   SUPFAM; SSF49265; SSF49265; 5.
+DR   SUPFAM; SSF56496; SSF56496; 1.
+DR   PROSITE; PS00022; EGF_1; 5.
+DR   PROSITE; PS01186; EGF_2; 4.
+DR   PROSITE; PS51406; FIBRINOGEN_C_2; 1.
+DR   PROSITE; PS50853; FN3; 9.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Cell adhesion; Coiled coil;
+KW   Complete proteome; Disulfide bond; EGF-like domain;
+KW   Extracellular matrix; Glycoprotein; Proteoglycan; Reference proteome;
+KW   Repeat; Secreted; Sialic acid; Signal.
+FT   SIGNAL        1     31       {ECO:0000255}.
+FT   CHAIN        32   1356       Tenascin-R.
+FT                                /FTId=PRO_0000007749.
+FT   DOMAIN      188    199       EGF-like 1.
+FT   DOMAIN      204    230       EGF-like 2.
+FT   DOMAIN      235    261       EGF-like 3.
+FT   DOMAIN      281    292       EGF-like 4.
+FT   DOMAIN      293    324       EGF-like 5.
+FT   DOMAIN      328    419       Fibronectin type-III 1.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00316}.
+FT   DOMAIN      420    504       Fibronectin type-III 2.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00316}.
+FT   DOMAIN      505    596       Fibronectin type-III 3.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00316}.
+FT   DOMAIN      597    686       Fibronectin type-III 4.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00316}.
+FT   DOMAIN      687    776       Fibronectin type-III 5.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00316}.
+FT   DOMAIN      777    864       Fibronectin type-III 6.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00316}.
+FT   DOMAIN      865    953       Fibronectin type-III 7.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00316}.
+FT   DOMAIN      954   1040       Fibronectin type-III 8.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00316}.
+FT   DOMAIN     1041   1129       Fibronectin type-III 9.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00316}.
+FT   DOMAIN     1127   1342       Fibrinogen C-terminal.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00739}.
+FT   COILED      127    157       {ECO:0000255}.
+FT   COMPBIAS    155    314       Cys-rich.
+FT   CARBOHYD     55     55       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    180    180       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    198    198       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    278    278       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    391    391       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    469    469       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    580    580       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    790    790       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    868    868       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    873    873       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1034   1034       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1044   1044       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1259   1259       N-linked (GlcNAc...). {ECO:0000255}.
+FT   DISULFID    297    307       {ECO:0000255|PROSITE-ProRule:PRU00739}.
+FT   DISULFID    314    323       {ECO:0000255|PROSITE-ProRule:PRU00739}.
+FT   VAR_SEQ     772    861       Missing (in isoform 2).
+FT                                {ECO:0000303|PubMed:7679676}.
+FT                                /FTId=VSP_012995.
+FT   STRAND      507    514       {ECO:0000244|PDB:1TDQ}.
+FT   STRAND      519    524       {ECO:0000244|PDB:1TDQ}.
+FT   STRAND      531    543       {ECO:0000244|PDB:1TDQ}.
+FT   STRAND      547    551       {ECO:0000244|PDB:1TDQ}.
+FT   STRAND      556    560       {ECO:0000244|PDB:1TDQ}.
+FT   STRAND      568    577       {ECO:0000244|PDB:1TDQ}.
+FT   STRAND      585    590       {ECO:0000244|PDB:1TDQ}.
+FT   STRAND      597    604       {ECO:0000244|PDB:1TDQ}.
+FT   STRAND      609    614       {ECO:0000244|PDB:1TDQ}.
+FT   STRAND      621    629       {ECO:0000244|PDB:1TDQ}.
+FT   STRAND      636    641       {ECO:0000244|PDB:1TDQ}.
+FT   STRAND      644    652       {ECO:0000244|PDB:1TDQ}.
+FT   STRAND      660    669       {ECO:0000244|PDB:1TDQ}.
+FT   STRAND      677    682       {ECO:0000244|PDB:1TDQ}.
+FT   STRAND      689    696       {ECO:0000244|PDB:1TDQ}.
+FT   STRAND      701    706       {ECO:0000244|PDB:1TDQ}.
+FT   STRAND      713    720       {ECO:0000244|PDB:1TDQ}.
+FT   STRAND      722    724       {ECO:0000244|PDB:1TDQ}.
+FT   STRAND      727    734       {ECO:0000244|PDB:1TDQ}.
+FT   STRAND      736    740       {ECO:0000244|PDB:1TDQ}.
+FT   STRAND      749    757       {ECO:0000244|PDB:1TDQ}.
+FT   STRAND      765    769       {ECO:0000244|PDB:1TDQ}.
+SQ   SEQUENCE   1356 AA;  149371 MW;  9BFE2BF7AD4CA781 CRC64;
+     MGIEGETVVL KNMLIGVNLI LLGSMLKPSE CRLEVTTERV QRQTVEEEGG ASSYNTSSKE
+     QPMVFNHVYN INVPLESLCS SGLEASAEQD VSAEDDTLAE YTGQTSDHES QVTFTHKINL
+     PKKACPCASS AQVLQELLSR IEMLEREVSV LRDQCNTNCC QESAATGQLD YVPHCSGHGN
+     FSFESCGCIC NEGWFGKNCS EPYCPLGCSS RGVCVDGQCI CDSEYSGDDC SELRCPTDCS
+     SRGLCVDGEC VCEEPYTGED CRELRCPGDC SGKGQCANGT CLCQEGYAGE DCSQRRCLNA
+     CSGRGHCQEG LCICEEGYQG PDCSAVTPPE DLRVAGISDR SIELEWDGPM AVTEYVISYQ
+     PSLGGLQLQQ RVPGDWSGVT ITELEPGLTY NISVYAVISN ILSLPITAKV ATHLSTPQGL
+     QFKTITETTV EVQWEPFSFS FDGWEISFTP KNNEGGVIAQ LPSDVTSFNQ TGLKPGEEYI
+     VNVVALKEQA RGPPTSASVS TVIDGPTQIL VRDVSDTVAF VEWTPPRAKV DFILLKYGLV
+     GGEGGKTTFR LQPPLSQYSV QALRPGSRYE VSISAVRGTN ESDASSTQFT TEIDAPKNLR
+     VGSRTATSLD LEWDNSEAEA QEYKVVYSTL AGEQYHEVLV PKGIGPTTKT TLTDLVPGTE
+     YGVGISAVMN SKQSIPATMN ARTELDSPRD LMVTASSETS ISLIWTKASG PIDHYRITFT
+     PSSGISSEVT VPRDRTSYTL TDLEPGAEYI ISITAERGRQ QSLESTVDAF TGFRPISHLH
+     FSHVTSSSVN ITWSDPSPPA DRLILNYSPR DEEEEMMEVL LDATKRHAVL MGLQPATEYI
+     VNLVAVHGTV TSEPIVGSIT TGIDPPKNIT ISNVTKDSLT VSWSPPVAPF DYYEYPIDHP
+     SGRLDSSVVP NTVTEFTITR LYPASQYEIS LNSVRGREES ERICTLVHTA MDSPMDLIAT
+     NITPTEALLQ WKAPMGEVEN YVIVLTHFAM AGETILVDGV SEEFQLVDLL PRTHYTVTMY
+     ATSGPLVSGT IATNFSTLLD PPANLTASEV TRQSALISWQ PPRAAIENYV LTYKSTDGSR
+     KELIVDAEDT WIRLEGLSEN TDYTVLLQAA QEATRSSLTS TIFTTGGRVF SHPQDCAQHL
+     MNGDTLSGVY TIFLNGELSH KLQVYCDMTT DGGGWIVFQR RQNGQTDFFR KWADYRVGFG
+     NLEDEFWLGL DNYHRITAQG RYELRVDMRD GQEAVFAYYD KFAVEDSRSL YKLRIGGYNG
+     TAGDSLSYHQ GRPFSTEDRD NDVAVTNCAM SYKGAWWYKN CHRTNLNGKY GESRHSQGIN
+     WYHWKGHEFS IPFVEMKMRP YIHRLTAGRK RRALKF
+//

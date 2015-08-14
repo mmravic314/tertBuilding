@@ -1,0 +1,118 @@
+ID   ACPS_STRCO              Reviewed;         123 AA.
+AC   O86785;
+DT   30-MAY-2000, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1998, sequence version 1.
+DT   24-JUN-2015, entry version 103.
+DE   RecName: Full=Holo-[acyl-carrier-protein] synthase {ECO:0000255|HAMAP-Rule:MF_00101};
+DE            Short=Holo-ACP synthase {ECO:0000255|HAMAP-Rule:MF_00101};
+DE            EC=2.7.8.7 {ECO:0000255|HAMAP-Rule:MF_00101};
+DE   AltName: Full=4'-phosphopantetheinyl transferase AcpS {ECO:0000255|HAMAP-Rule:MF_00101};
+GN   Name=acpS {ECO:0000255|HAMAP-Rule:MF_00101};
+GN   OrderedLocusNames=SCO4744; ORFNames=SC6G4.22c;
+OS   Streptomyces coelicolor (strain ATCC BAA-471 / A3(2) / M145).
+OC   Bacteria; Actinobacteria; Streptomycetales; Streptomycetaceae;
+OC   Streptomyces; Streptomyces albidoflavus group.
+OX   NCBI_TaxID=100226;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC BAA-471 / A3(2) / M145;
+RX   PubMed=12000953; DOI=10.1038/417141a;
+RA   Bentley S.D., Chater K.F., Cerdeno-Tarraga A.-M., Challis G.L.,
+RA   Thomson N.R., James K.D., Harris D.E., Quail M.A., Kieser H.,
+RA   Harper D., Bateman A., Brown S., Chandra G., Chen C.W., Collins M.,
+RA   Cronin A., Fraser A., Goble A., Hidalgo J., Hornsby T., Howarth S.,
+RA   Huang C.-H., Kieser T., Larke L., Murphy L.D., Oliver K., O'Neil S.,
+RA   Rabbinowitsch E., Rajandream M.A., Rutherford K.M., Rutter S.,
+RA   Seeger K., Saunders D., Sharp S., Squares R., Squares S., Taylor K.,
+RA   Warren T., Wietzorrek A., Woodward J.R., Barrell B.G., Parkhill J.,
+RA   Hopwood D.A.;
+RT   "Complete genome sequence of the model actinomycete Streptomyces
+RT   coelicolor A3(2).";
+RL   Nature 417:141-147(2002).
+CC   -!- FUNCTION: Transfers the 4'-phosphopantetheine moiety from coenzyme
+CC       A to a Ser of acyl-carrier-protein. {ECO:0000255|HAMAP-
+CC       Rule:MF_00101}.
+CC   -!- CATALYTIC ACTIVITY: CoA-(4'-phosphopantetheine) + apo-[acyl-
+CC       carrier-protein] = adenosine 3',5'-bisphosphate + holo-[acyl-
+CC       carrier-protein]. {ECO:0000255|HAMAP-Rule:MF_00101}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000255|HAMAP-Rule:MF_00101};
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_00101}.
+CC   -!- SIMILARITY: Belongs to the P-Pant transferase superfamily. AcpS
+CC       family. {ECO:0000255|HAMAP-Rule:MF_00101}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AL939121; CAA20400.1; -; Genomic_DNA.
+DR   PIR; T35573; T35573.
+DR   RefSeq; NP_628902.1; NC_003888.3.
+DR   RefSeq; WP_003974229.1; NC_003888.3.
+DR   PDB; 2JBZ; X-ray; 1.62 A; A=1-123.
+DR   PDB; 2JCA; X-ray; 1.98 A; A/B/C=1-123.
+DR   PDB; 2WDO; X-ray; 1.56 A; A=1-123.
+DR   PDB; 2WDS; X-ray; 1.35 A; A=1-123.
+DR   PDB; 2WDY; X-ray; 1.40 A; A=1-123.
+DR   PDBsum; 2JBZ; -.
+DR   PDBsum; 2JCA; -.
+DR   PDBsum; 2WDO; -.
+DR   PDBsum; 2WDS; -.
+DR   PDBsum; 2WDY; -.
+DR   ProteinModelPortal; O86785; -.
+DR   SMR; O86785; 1-123.
+DR   STRING; 100226.SCO4744; -.
+DR   PRIDE; O86785; -.
+DR   EnsemblBacteria; CAA20400; CAA20400; CAA20400.
+DR   GeneID; 1100185; -.
+DR   KEGG; sco:SCO4744; -.
+DR   PATRIC; 23739312; VBIStrCoe124346_4816.
+DR   eggNOG; NOG129113; -.
+DR   HOGENOM; HOG000014315; -.
+DR   InParanoid; O86785; -.
+DR   KO; K00997; -.
+DR   OMA; WHDCEIV; -.
+DR   OrthoDB; EOG6W7266; -.
+DR   EvolutionaryTrace; O86785; -.
+DR   Proteomes; UP000001973; Chromosome.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0008897; F:holo-[acyl-carrier-protein] synthase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0006633; P:fatty acid biosynthetic process; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 3.90.470.20; -; 1.
+DR   HAMAP; MF_00101; AcpS; 1.
+DR   InterPro; IPR008278; 4-PPantetheinyl_Trfase_SF.
+DR   InterPro; IPR002582; ACPS.
+DR   InterPro; IPR004568; Ppantetheine-prot_Trfase_dom.
+DR   Pfam; PF01648; ACPS; 1.
+DR   ProDom; PD004282; PPantethiene-prot_Trfase; 1.
+DR   SUPFAM; SSF56214; SSF56214; 1.
+DR   TIGRFAMs; TIGR00516; acpS; 1.
+DR   TIGRFAMs; TIGR00556; pantethn_trn; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Cytoplasm; Fatty acid biosynthesis;
+KW   Fatty acid metabolism; Lipid biosynthesis; Lipid metabolism;
+KW   Magnesium; Metal-binding; Reference proteome; Transferase.
+FT   CHAIN         1    123       Holo-[acyl-carrier-protein] synthase.
+FT                                /FTId=PRO_0000175711.
+FT   METAL         9      9       Magnesium. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00101}.
+FT   METAL        57     57       Magnesium. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00101}.
+FT   STRAND        2     12       {ECO:0000244|PDB:2WDS}.
+FT   HELIX        13     22       {ECO:0000244|PDB:2WDS}.
+FT   HELIX        26     30       {ECO:0000244|PDB:2WDS}.
+FT   HELIX        33     36       {ECO:0000244|PDB:2WDS}.
+FT   STRAND       41     43       {ECO:0000244|PDB:2WDS}.
+FT   HELIX        46     62       {ECO:0000244|PDB:2WDS}.
+FT   HELIX        71     73       {ECO:0000244|PDB:2WDS}.
+FT   STRAND       74     78       {ECO:0000244|PDB:2WDS}.
+FT   STRAND       84     88       {ECO:0000244|PDB:2WDS}.
+FT   HELIX        90     99       {ECO:0000244|PDB:2WDS}.
+FT   STRAND      103    111       {ECO:0000244|PDB:2WDS}.
+FT   STRAND      114    123       {ECO:0000244|PDB:2WDS}.
+SQ   SEQUENCE   123 AA;  12566 MW;  C8301B17E510E56D CRC64;
+     MSIIGVGIDV AEVERFGAAL ERTPALAGRL FLESELLLPG GERRGVASLA ARFAAKEALA
+     KALGAPAGLL WTDAEVWVEA GGRPRLRVTG TVAARAAELG VASWHVSLSH DAGIASAVVI
+     AEG
+//

@@ -1,0 +1,90 @@
+ID   Q50964_NEIGO            Unreviewed;       331 AA.
+AC   Q50964;
+DT   01-NOV-1996, integrated into UniProtKB/TrEMBL.
+DT   01-NOV-1996, sequence version 1.
+DT   22-JUL-2015, entry version 67.
+DE   SubName: Full=FbpA protein {ECO:0000313|EMBL:AAB63559.1};
+DE   Flags: Precursor;
+GN   Name=FbpA {ECO:0000313|EMBL:AAB63559.1};
+OS   Neisseria gonorrhoeae.
+OC   Bacteria; Proteobacteria; Betaproteobacteria; Neisseriales;
+OC   Neisseriaceae; Neisseria.
+OX   NCBI_TaxID=485 {ECO:0000313|EMBL:AAB63559.1};
+RN   [1] {ECO:0000313|EMBL:AAB63559.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=F62 {ECO:0000313|EMBL:AAB63559.1};
+RX   PubMed=2110241; DOI=10.1084/jem.171.5.1535;
+RA   Berish S.A., Mietzner T.A., Mayer L.W., Genco C.A., Holloway B.P.,
+RA   Morse S.A.;
+RT   "Molecular cloning and characterization of the structural gene for the
+RT   major iron-regulated protein expressed by Neisseria gonorrhoeae.";
+RL   J. Exp. Med. 171:1535-1546(1990).
+RN   [2] {ECO:0000313|EMBL:AAB63559.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=F62 {ECO:0000313|EMBL:AAB63559.1};
+RX   PubMed=7559648; DOI=10.1074/jbc.270.42.25142;
+RA   Adhikari P., Kirby S.D., Nowalk A.J., Veraldi K.L., Schryvers A.B.,
+RA   Mietzner T.A.;
+RT   "Biochemical characterization of a Haemophilus influenzae periplasmic
+RT   iron transport operon.";
+RL   J. Biol. Chem. 270:25142-25149(1995).
+RN   [3] {ECO:0000213|PDB:1D9Y}
+RP   X-RAY CRYSTALLOGRAPHY (2.20 ANGSTROMS) OF 23-331 IN COMPLEX WITH IRON.
+RA   McRee D.E., Bruns C.M., Williams P.A., Mietzner T.A., Nunn R.;
+RT   "Structural Basis of Iron Uptake in the Pathogen Neisseria
+RT   gonorrhoeae.";
+RL   Submitted (OCT-1999) to the PDB data bank.
+RN   [4] {ECO:0000213|PDB:1O7T}
+RP   X-RAY CRYSTALLOGRAPHY (1.65 ANGSTROMS) OF 23-331.
+RX   PubMed=12598891; DOI=10.1038/nsb903;
+RA   Alexeev D., Zhu H., Guo M., Zhong W., Hunter D.J., Yang W.,
+RA   Campopiano D.J., Sadler P.J.;
+RT   "A novel protein-mineral interface.";
+RL   Nat. Struct. Biol. 10:297-302(2003).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U33937; AAB63559.1; -; Genomic_DNA.
+DR   RefSeq; WP_003687545.1; NZ_JPOZ01000015.1.
+DR   PDB; 1D9Y; X-ray; 2.20 A; A=23-331.
+DR   PDB; 1O7T; X-ray; 1.65 A; A/B/C/D/E/F/G/H/I=23-331.
+DR   PDBsum; 1D9Y; -.
+DR   PDBsum; 1O7T; -.
+DR   ProteinModelPortal; Q50964; -.
+DR   SMR; Q50964; 23-331.
+DR   STRING; 528357.NgonPI_010100002261; -.
+DR   EnsemblBacteria; KDM98591; KDM98591; AW44_07510.
+DR   EnsemblBacteria; KDN00813; KDN00813; BK61_07810.
+DR   EnsemblBacteria; KDN03120; KDN03120; BK60_06205.
+DR   EnsemblBacteria; KEC87323; KEC87323; DT75_06985.
+DR   EnsemblBacteria; KGI96350; KGI96350; IX30_05570.
+DR   EvolutionaryTrace; Q50964; -.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0005215; F:transporter activity; IEA:InterPro.
+DR   InterPro; IPR026045; Ferric-bd.
+DR   InterPro; IPR006061; SBP_1_CS.
+DR   InterPro; IPR006059; SBP_1_dom.
+DR   Pfam; PF01547; SBP_bac_1; 1.
+DR   PIRSF; PIRSF002825; CfbpA; 1.
+DR   PROSITE; PS01037; SBP_BACTERIAL_1; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:1D9Y, ECO:0000213|PDB:1O7T};
+KW   Iron {ECO:0000213|PDB:1D9Y}; Metal-binding {ECO:0000213|PDB:1D9Y};
+KW   Signal {ECO:0000313|EMBL:AAB63559.1}.
+FT   SIGNAL        1     22       Potential. {ECO:0000313|EMBL:AAB63559.1}.
+FT   CHAIN        23    331       FbpA. {ECO:0000313|EMBL:AAB63559.1}.
+FT                                /FTId=PRO_5000144725.
+FT   METAL        31     31       Iron; via tele nitrogen.
+FT                                {ECO:0000213|PDB:1D9Y}.
+FT   METAL        79     79       Iron. {ECO:0000213|PDB:1D9Y}.
+FT   METAL       217    217       Iron. {ECO:0000213|PDB:1D9Y}.
+FT   METAL       218    218       Iron. {ECO:0000213|PDB:1D9Y}.
+SQ   SEQUENCE   331 AA;  35840 MW;  843DC30F1B3E8EA4 CRC64;
+     MKTSIRYALL AAALTAATPA LADITVYNGQ HKEAAQAVAD AFTRATGIKV KLNSAKGDQL
+     AGQIKEEGSR SPADVFYSEQ IPALATLSAA NLLEPLPAST INETRGKGVP VAAKKDWVAL
+     SGRSRVVVYD TRKLSEKDLE KSVLNYATPK WKNRIGYVPT SGAFLEQIVA IVKLKGEAAA
+     LKWLKGLKEY GKPYAKNSVA LQAVENGEID AALINNYYWH AFAREKGVQN VHTRLNFVRH
+     RDPGALVTYS GAAVLKSSQN KDEAKKFVAF LAGKEGQRAL TAVRAEYPLN PHVVSTFNLE
+     PIAKLEAPQV SATTVSEKEH ATRLLEQAGM K
+//

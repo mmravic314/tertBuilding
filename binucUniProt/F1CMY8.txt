@@ -1,0 +1,95 @@
+ID   F1CMY8_RHORH            Unreviewed;       390 AA.
+AC   F1CMY8;
+DT   03-MAY-2011, integrated into UniProtKB/TrEMBL.
+DT   03-MAY-2011, sequence version 1.
+DT   24-JUN-2015, entry version 16.
+DE   SubName: Full=3-ketosteroid 9alpha-hydroxylase oxygenase {ECO:0000313|EMBL:ADY18328.1};
+GN   Name=kshA5 {ECO:0000313|EMBL:ADY18328.1};
+OS   Rhodococcus rhodochrous.
+OC   Bacteria; Actinobacteria; Corynebacteriales; Nocardiaceae;
+OC   Rhodococcus.
+OX   NCBI_TaxID=1829 {ECO:0000313|EMBL:ADY18328.1};
+RN   [1] {ECO:0000313|EMBL:ADY18328.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=DSM 43269 {ECO:0000313|EMBL:ADY18328.1};
+RA   Petrusma M., Hessels G.I., Nienhuis-Kuiper M., Dijkhuizen L.,
+RA   Van der Geize R.;
+RT   "Multiplicity of 3-ketosteroid-9alpha-hydroxylase enzymes in
+RT   Rhodococcus rhodochrous DSM 43269 for the specific degradation of
+RT   different classes of steroids.";
+RL   Submitted (OCT-2010) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:4QDC, ECO:0000213|PDB:4QDD, ECO:0000213|PDB:4QDF}
+RP   X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS) IN COMPLEX WITH IRON AND
+RP   IRON-SULFUR (2FE-2S).
+RX   PubMed=25049233;
+RA   Penfield J.S., Worrall L.J., Strynadka N.C., Eltis L.D.;
+RT   "Substrate specificities and conformational flexibility of 3-
+RT   ketosteroid 9alpha-hydroxylases.";
+RL   J. Biol. Chem. 289:25523-25536(2014).
+CC   -!- SIMILARITY: Contains 1 Rieske domain.
+CC       {ECO:0000256|RuleBase:RU004493}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; HQ425877; ADY18328.1; -; Genomic_DNA.
+DR   PDB; 4QDC; X-ray; 1.90 A; A=1-390.
+DR   PDB; 4QDD; X-ray; 2.60 A; A=1-390.
+DR   PDB; 4QDF; X-ray; 2.43 A; A=1-390.
+DR   PDBsum; 4QDC; -.
+DR   PDBsum; 4QDD; -.
+DR   PDBsum; 4QDF; -.
+DR   BRENDA; 1.14.13.142; 5395.
+DR   GO; GO:0051537; F:2 iron, 2 sulfur cluster binding; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016491; F:oxidoreductase activity; IEA:InterPro.
+DR   Gene3D; 2.102.10.10; -; 1.
+DR   InterPro; IPR017941; Rieske_2Fe-2S.
+DR   Pfam; PF00355; Rieske; 1.
+DR   SUPFAM; SSF50022; SSF50022; 1.
+DR   PROSITE; PS51296; RIESKE; 1.
+PE   1: Evidence at protein level;
+KW   2Fe-2S {ECO:0000213|PDB:4QDC, ECO:0000213|PDB:4QDD};
+KW   3D-structure {ECO:0000213|PDB:4QDC, ECO:0000213|PDB:4QDD};
+KW   Iron {ECO:0000213|PDB:4QDC, ECO:0000213|PDB:4QDD};
+KW   Iron-sulfur {ECO:0000213|PDB:4QDC, ECO:0000213|PDB:4QDD};
+KW   Metal-binding {ECO:0000213|PDB:4QDC, ECO:0000213|PDB:4QDD}.
+FT   METAL        73     73       Iron-sulfur (2Fe-2S).
+FT                                {ECO:0000213|PDB:4QDC,
+FT                                ECO:0000213|PDB:4QDD,
+FT                                ECO:0000213|PDB:4QDF}.
+FT   METAL        75     75       Iron-sulfur (2Fe-2S); via pros nitrogen.
+FT                                {ECO:0000213|PDB:4QDC,
+FT                                ECO:0000213|PDB:4QDD,
+FT                                ECO:0000213|PDB:4QDF}.
+FT   METAL        92     92       Iron-sulfur (2Fe-2S).
+FT                                {ECO:0000213|PDB:4QDC,
+FT                                ECO:0000213|PDB:4QDD,
+FT                                ECO:0000213|PDB:4QDF}.
+FT   METAL        95     95       Iron-sulfur (2Fe-2S); via pros nitrogen.
+FT                                {ECO:0000213|PDB:4QDC,
+FT                                ECO:0000213|PDB:4QDD,
+FT                                ECO:0000213|PDB:4QDF}.
+FT   METAL        97     97       Iron-sulfur (2Fe-2S).
+FT                                {ECO:0000213|PDB:4QDC}.
+FT   METAL       181    181       Iron. {ECO:0000213|PDB:4QDC}.
+FT   METAL       187    187       Iron; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4QDC,
+FT                                ECO:0000213|PDB:4QDD,
+FT                                ECO:0000213|PDB:4QDF}.
+FT   METAL       192    192       Iron; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4QDC,
+FT                                ECO:0000213|PDB:4QDD,
+FT                                ECO:0000213|PDB:4QDF}.
+FT   METAL       311    311       Iron. {ECO:0000213|PDB:4QDC,
+FT                                ECO:0000213|PDB:4QDD,
+FT                                ECO:0000213|PDB:4QDF}.
+SQ   SEQUENCE   390 AA;  44249 MW;  46E13D2C9B6F7025 CRC64;
+     MSIDTARSGS DDDVEIREIQ AAAAPTRFAR GWHCLGLLRD FQDGKPHSIE AFGTKLVVFA
+     DSKGQLNVLD AYCRHMGGDL SRGEVKGDSI ACPFHDWRWN GKGKCTDIPY ARRVPPIAKT
+     RAWTTLERNG QLYVWNDPQG NPPPEDVTIP EIAGYGTDEW TDWSWKSLRI KGSHCREIVD
+     NVVDMAHFFY IHYSFPRYFK NVFEGHTATQ YMHSTGREDV ISGTNYDDPN AELRSEATYF
+     GPSYMIDWLE SDANGQTIET ILINCHYPVS NNEFVLQYGA IVKKLPGVSD EIAAGMAEQF
+     AEGVQLGFEQ DVEIWKNKAP IDNPLLSEED GPVYQLRRWY QQFYVDVEDI TEDMTKRFEF
+     EIDTTRAVAS WQKEVAENLA KQAEGSTATP
+//

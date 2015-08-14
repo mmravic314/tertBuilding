@@ -1,0 +1,175 @@
+ID   END4_BACAN              Reviewed;         298 AA.
+AC   Q81LV1; Q6HTA3; Q6KMJ5;
+DT   15-DEC-2003, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-2003, sequence version 1.
+DT   22-JUL-2015, entry version 94.
+DE   RecName: Full=Probable endonuclease 4 {ECO:0000255|HAMAP-Rule:MF_00152};
+DE            EC=3.1.21.2 {ECO:0000255|HAMAP-Rule:MF_00152};
+DE   AltName: Full=Endodeoxyribonuclease IV {ECO:0000255|HAMAP-Rule:MF_00152};
+DE   AltName: Full=Endonuclease IV {ECO:0000255|HAMAP-Rule:MF_00152};
+GN   Name=nfo {ECO:0000255|HAMAP-Rule:MF_00152};
+GN   OrderedLocusNames=BA_4508, GBAA_4508, BAS4186;
+OS   Bacillus anthracis.
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus;
+OC   Bacillus cereus group.
+OX   NCBI_TaxID=1392;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Ames / isolate Porton;
+RX   PubMed=12721629; DOI=10.1038/nature01586;
+RA   Read T.D., Peterson S.N., Tourasse N.J., Baillie L.W., Paulsen I.T.,
+RA   Nelson K.E., Tettelin H., Fouts D.E., Eisen J.A., Gill S.R.,
+RA   Holtzapple E.K., Okstad O.A., Helgason E., Rilstone J., Wu M.,
+RA   Kolonay J.F., Beanan M.J., Dodson R.J., Brinkac L.M., Gwinn M.L.,
+RA   DeBoy R.T., Madpu R., Daugherty S.C., Durkin A.S., Haft D.H.,
+RA   Nelson W.C., Peterson J.D., Pop M., Khouri H.M., Radune D.,
+RA   Benton J.L., Mahamoud Y., Jiang L., Hance I.R., Weidman J.F.,
+RA   Berry K.J., Plaut R.D., Wolf A.M., Watkins K.L., Nierman W.C.,
+RA   Hazen A., Cline R.T., Redmond C., Thwaite J.E., White O.,
+RA   Salzberg S.L., Thomason B., Friedlander A.M., Koehler T.M.,
+RA   Hanna P.C., Kolstoe A.-B., Fraser C.M.;
+RT   "The genome sequence of Bacillus anthracis Ames and comparison to
+RT   closely related bacteria.";
+RL   Nature 423:81-86(2003).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Ames ancestor;
+RX   PubMed=18952800; DOI=10.1128/JB.01347-08;
+RA   Ravel J., Jiang L., Stanley S.T., Wilson M.R., Decker R.S., Read T.D.,
+RA   Worsham P., Keim P.S., Salzberg S.L., Fraser-Liggett C.M., Rasko D.A.;
+RT   "The complete genome sequence of Bacillus anthracis Ames 'Ancestor'.";
+RL   J. Bacteriol. 191:445-446(2009).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Sterne;
+RA   Brettin T.S., Bruce D., Challacombe J.F., Gilna P., Han C., Hill K.,
+RA   Hitchcock P., Jackson P., Keim P., Longmire J., Lucas S., Okinaka R.,
+RA   Richardson P., Rubin E., Tice H.;
+RT   "Complete genome sequence of Bacillus anthracis Sterne.";
+RL   Submitted (JAN-2004) to the EMBL/GenBank/DDBJ databases.
+CC   -!- FUNCTION: Endonuclease IV plays a role in DNA repair. It cleaves
+CC       phosphodiester bonds at apurinic or apyrimidinic sites (AP sites)
+CC       to produce new 5'-ends that are base-free deoxyribose 5-phosphate
+CC       residues. It preferentially attacks modified AP sites created by
+CC       bleomycin and neocarzinostatin. {ECO:0000255|HAMAP-Rule:MF_00152}.
+CC   -!- CATALYTIC ACTIVITY: Endonucleolytic cleavage to 5'-
+CC       phosphooligonucleotide end-products. {ECO:0000255|HAMAP-
+CC       Rule:MF_00152}.
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC         Evidence={ECO:0000255|HAMAP-Rule:MF_00152};
+CC       Note=Binds 3 Zn(2+) ions. {ECO:0000255|HAMAP-Rule:MF_00152};
+CC   -!- SIMILARITY: Belongs to the AP endonuclease 2 family.
+CC       {ECO:0000255|HAMAP-Rule:MF_00152}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE016879; AAP28219.1; -; Genomic_DNA.
+DR   EMBL; AE017334; AAT33627.1; -; Genomic_DNA.
+DR   EMBL; AE017225; AAT56486.1; -; Genomic_DNA.
+DR   RefSeq; NP_846733.1; NC_003997.3.
+DR   RefSeq; WP_000912468.1; NZ_KN050651.1.
+DR   RefSeq; YP_030435.1; NC_005945.1.
+DR   PDB; 1XP3; X-ray; 2.57 A; A=1-298.
+DR   PDBsum; 1XP3; -.
+DR   ProteinModelPortal; Q81LV1; -.
+DR   SMR; Q81LV1; 2-298.
+DR   STRING; 198094.BA_4508; -.
+DR   DNASU; 1088232; -.
+DR   EnsemblBacteria; AAP28219; AAP28219; BA_4508.
+DR   EnsemblBacteria; AAT33627; AAT33627; GBAA_4508.
+DR   EnsemblBacteria; AAT56486; AAT56486; BAS4186.
+DR   GeneID; 1088232; -.
+DR   GeneID; 2852108; -.
+DR   KEGG; ban:BA_4508; -.
+DR   KEGG; bar:GBAA_4508; -.
+DR   KEGG; bat:BAS4186; -.
+DR   eggNOG; COG0648; -.
+DR   HOGENOM; HOG000224895; -.
+DR   KO; K01151; -.
+DR   OMA; MKYVGAH; -.
+DR   OrthoDB; EOG6Z0QCM; -.
+DR   BioCyc; ANTHRA:NFO-MONOMER; -.
+DR   BioCyc; BANT260799:GJAJ-4243-MONOMER; -.
+DR   BioCyc; BANT261594:GJ7F-4385-MONOMER; -.
+DR   EvolutionaryTrace; Q81LV1; -.
+DR   Proteomes; UP000000594; Chromosome.
+DR   GO; GO:0008833; F:deoxyribonuclease IV (phage-T4-induced) activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0006281; P:DNA repair; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 3.20.20.150; -; 1.
+DR   HAMAP; MF_00152; Nfo; 1.
+DR   InterPro; IPR001719; AP_endonuc_2.
+DR   InterPro; IPR018246; AP_endonuc_F2_Zn_BS.
+DR   InterPro; IPR013022; Xyl_isomerase-like_TIM-brl.
+DR   PANTHER; PTHR21445; PTHR21445; 1.
+DR   Pfam; PF01261; AP_endonuc_2; 1.
+DR   SMART; SM00518; AP2Ec; 1.
+DR   SUPFAM; SSF51658; SSF51658; 1.
+DR   TIGRFAMs; TIGR00587; nfo; 1.
+DR   PROSITE; PS00729; AP_NUCLEASE_F2_1; 1.
+DR   PROSITE; PS00730; AP_NUCLEASE_F2_2; 1.
+DR   PROSITE; PS00731; AP_NUCLEASE_F2_3; 1.
+DR   PROSITE; PS51432; AP_NUCLEASE_F2_4; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; DNA damage; DNA repair; Endonuclease;
+KW   Hydrolase; Metal-binding; Nuclease; Reference proteome; Zinc.
+FT   CHAIN         1    298       Probable endonuclease 4.
+FT                                /FTId=PRO_0000190819.
+FT   METAL        69     69       Zinc 1. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00152}.
+FT   METAL       111    111       Zinc 1. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00152}.
+FT   METAL       146    146       Zinc 1. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00152}.
+FT   METAL       146    146       Zinc 2. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00152}.
+FT   METAL       180    180       Zinc 2. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00152}.
+FT   METAL       183    183       Zinc 3. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00152}.
+FT   METAL       215    215       Zinc 2. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00152}.
+FT   METAL       228    228       Zinc 3. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00152}.
+FT   METAL       230    230       Zinc 3. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00152}.
+FT   METAL       260    260       Zinc 2. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00152}.
+FT   STRAND        4      7       {ECO:0000244|PDB:1XP3}.
+FT   STRAND       12     14       {ECO:0000244|PDB:1XP3}.
+FT   HELIX        16     24       {ECO:0000244|PDB:1XP3}.
+FT   TURN         25     27       {ECO:0000244|PDB:1XP3}.
+FT   STRAND       29     33       {ECO:0000244|PDB:1XP3}.
+FT   HELIX        46     49       {ECO:0000244|PDB:1XP3}.
+FT   HELIX        51     60       {ECO:0000244|PDB:1XP3}.
+FT   STRAND       66     69       {ECO:0000244|PDB:1XP3}.
+FT   HELIX        82    101       {ECO:0000244|PDB:1XP3}.
+FT   STRAND      102    104       {ECO:0000244|PDB:1XP3}.
+FT   STRAND      107    110       {ECO:0000244|PDB:1XP3}.
+FT   HELIX       120    134       {ECO:0000244|PDB:1XP3}.
+FT   STRAND      140    146       {ECO:0000244|PDB:1XP3}.
+FT   HELIX       159    168       {ECO:0000244|PDB:1XP3}.
+FT   HELIX       172    174       {ECO:0000244|PDB:1XP3}.
+FT   STRAND      175    180       {ECO:0000244|PDB:1XP3}.
+FT   HELIX       181    186       {ECO:0000244|PDB:1XP3}.
+FT   HELIX       191    205       {ECO:0000244|PDB:1XP3}.
+FT   HELIX       208    210       {ECO:0000244|PDB:1XP3}.
+FT   STRAND      211    216       {ECO:0000244|PDB:1XP3}.
+FT   STRAND      218    221       {ECO:0000244|PDB:1XP3}.
+FT   STRAND      235    238       {ECO:0000244|PDB:1XP3}.
+FT   HELIX       240    247       {ECO:0000244|PDB:1XP3}.
+FT   HELIX       250    252       {ECO:0000244|PDB:1XP3}.
+FT   STRAND      257    259       {ECO:0000244|PDB:1XP3}.
+FT   STRAND      267    269       {ECO:0000244|PDB:1XP3}.
+FT   HELIX       275    284       {ECO:0000244|PDB:1XP3}.
+FT   HELIX       291    296       {ECO:0000244|PDB:1XP3}.
+SQ   SEQUENCE   298 AA;  32909 MW;  C5178AB085784C8A CRC64;
+     MLKIGSHVSM SGKKMLLAAS EEAVSYGATT FMIYTGAPQN TRRKPIEELN IEAGRKHMEQ
+     NGIEEIIVHA PYIINVGNTT KPETFQLGVD FLRMEIERTS ALGVAKQIVL HPGAHVGAGA
+     DAGIQQIIKG LNEVLTPDQT VNIALETMAG KGTECGRSFE EIAKIIDGVK YNEKLSVCFD
+     TCHTHDAGYD IVNNFDGVLN EFDKIVGIDR LQVLHINDSK NVRGAGKDRH ENIGFGHIGY
+     KALHHIVHHP QLTHVPKILE TPYVGEDKKD KKPPYKLEIE MLKNGTFDEG LLEKIKAQ
+//

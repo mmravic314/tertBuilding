@@ -1,0 +1,156 @@
+ID   Q83WS1_9ACTN            Unreviewed;       126 AA.
+AC   Q83WS1;
+DT   01-JUN-2003, integrated into UniProtKB/TrEMBL.
+DT   01-JUN-2003, sequence version 1.
+DT   24-JUN-2015, entry version 48.
+DE   SubName: Full=MelC {ECO:0000313|EMBL:AAP33666.1};
+OS   Streptomyces castaneoglobisporus.
+OC   Bacteria; Actinobacteria; Streptomycetales; Streptomycetaceae;
+OC   Streptomyces.
+OX   NCBI_TaxID=79261 {ECO:0000313|EMBL:AAP33666.1};
+RN   [1] {ECO:0000313|EMBL:AAP33666.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Jordaan A., Botha A.-M.;
+RT   "Transformation of Nicotiana tabacum cv. Samsun with melanin and
+RT   indigo genes.";
+RL   Submitted (MAR-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:1WX2, ECO:0000213|PDB:1WX4, ECO:0000213|PDB:1WX5}
+RP   X-RAY CRYSTALLOGRAPHY (1.20 ANGSTROMS) IN COMPLEX WITH COPPER.
+RX   PubMed=16436386; DOI=10.1074/jbc.M509785200;
+RA   Matoba Y., Kumagai T., Yamamoto A., Yoshitsu H., Sugiyama M.;
+RT   "Crystallographic evidence that the dinuclear copper center of
+RT   tyrosinase is flexible during catalysis.";
+RL   J. Biol. Chem. 281:8981-8990(2006).
+RN   [3] {ECO:0000213|PDB:2ZMY, ECO:0000213|PDB:2ZMZ}
+RP   X-RAY CRYSTALLOGRAPHY (1.45 ANGSTROMS) IN COMPLEX WITH COPPER.
+RA   Matoba Y., Yoshitsu H., Jeon H.-J., Oda K., Noda M., Kumagai T.,
+RA   Sugiyama M.;
+RT   "X-Ray Snapshots of a Hydroxylation Mechanism of Tyrosinase.";
+RL   Submitted (APR-2008) to the PDB data bank.
+RN   [4] {ECO:0000213|PDB:2ZWD, ECO:0000213|PDB:2ZWE, ECO:0000213|PDB:2ZWF}
+RP   X-RAY CRYSTALLOGRAPHY (1.32 ANGSTROMS) IN COMPLEX WITH COPPER.
+RA   Matoba Y., Yoshitsu H., Jeon H.J., Oda K., Noda M., Kumagai T.,
+RA   Sugiyama M.;
+RT   "Crystallographic evidence of drastic movement of a copper ion toward
+RT   the substrate tyrosine for starting hydroxylation reaction of
+RT   tyrosinase.";
+RL   Submitted (DEC-2008) to the PDB data bank.
+RN   [5] {ECO:0000213|PDB:3AWS, ECO:0000213|PDB:3AWT, ECO:0000213|PDB:3AWU}
+RP   X-RAY CRYSTALLOGRAPHY (1.16 ANGSTROMS) IN COMPLEX WITH COPPER.
+RX   PubMed=21730070; DOI=10.1074/jbc.M111.256818;
+RA   Matoba Y., Bando N., Oda K., Noda M., Higashikawa F., Kumagai T.,
+RA   Sugiyama M.;
+RT   "A molecular mechanism for copper transportation to tyrosinase that is
+RT   assisted by a metallochaperone, caddie protein.";
+RL   J. Biol. Chem. 286:30219-30231(2011).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AY254102; AAP33666.1; -; Genomic_DNA.
+DR   PDB; 1WX2; X-ray; 1.80 A; B=1-126.
+DR   PDB; 1WX4; X-ray; 1.50 A; B=1-126.
+DR   PDB; 1WX5; X-ray; 2.02 A; B/D=1-126.
+DR   PDB; 1WXC; X-ray; 1.20 A; B=1-126.
+DR   PDB; 2AHK; X-ray; 1.71 A; B=1-126.
+DR   PDB; 2AHL; X-ray; 1.60 A; B=1-126.
+DR   PDB; 2ZMX; X-ray; 1.33 A; B=1-126.
+DR   PDB; 2ZMY; X-ray; 1.45 A; B=1-126.
+DR   PDB; 2ZMZ; X-ray; 1.37 A; B=1-126.
+DR   PDB; 2ZWD; X-ray; 1.35 A; B=1-126.
+DR   PDB; 2ZWE; X-ray; 1.32 A; B=1-126.
+DR   PDB; 2ZWF; X-ray; 1.40 A; B=1-126.
+DR   PDB; 2ZWG; X-ray; 1.32 A; B=1-126.
+DR   PDB; 3AWS; X-ray; 1.24 A; B=1-126.
+DR   PDB; 3AWT; X-ray; 1.35 A; B=1-126.
+DR   PDB; 3AWU; X-ray; 1.16 A; B=1-126.
+DR   PDB; 3AWV; X-ray; 1.40 A; B=1-126.
+DR   PDB; 3AWW; X-ray; 1.35 A; B=1-126.
+DR   PDB; 3AWX; X-ray; 1.25 A; B=1-126.
+DR   PDB; 3AWY; X-ray; 1.58 A; B=1-126.
+DR   PDB; 3AWZ; X-ray; 1.43 A; B=1-126.
+DR   PDB; 3AX0; X-ray; 1.40 A; B=1-126.
+DR   PDBsum; 1WX2; -.
+DR   PDBsum; 1WX4; -.
+DR   PDBsum; 1WX5; -.
+DR   PDBsum; 1WXC; -.
+DR   PDBsum; 2AHK; -.
+DR   PDBsum; 2AHL; -.
+DR   PDBsum; 2ZMX; -.
+DR   PDBsum; 2ZMY; -.
+DR   PDBsum; 2ZMZ; -.
+DR   PDBsum; 2ZWD; -.
+DR   PDBsum; 2ZWE; -.
+DR   PDBsum; 2ZWF; -.
+DR   PDBsum; 2ZWG; -.
+DR   PDBsum; 3AWS; -.
+DR   PDBsum; 3AWT; -.
+DR   PDBsum; 3AWU; -.
+DR   PDBsum; 3AWV; -.
+DR   PDBsum; 3AWW; -.
+DR   PDBsum; 3AWX; -.
+DR   PDBsum; 3AWY; -.
+DR   PDBsum; 3AWZ; -.
+DR   PDBsum; 3AX0; -.
+DR   ProteinModelPortal; Q83WS1; -.
+DR   SMR; Q83WS1; 41-122.
+DR   EvolutionaryTrace; Q83WS1; -.
+DR   GO; GO:0005507; F:copper ion binding; IEA:InterPro.
+DR   GO; GO:0042438; P:melanin biosynthetic process; IEA:InterPro.
+DR   InterPro; IPR010928; MelC1.
+DR   InterPro; IPR006311; TAT_signal.
+DR   Pfam; PF06236; MelC1; 1.
+DR   PROSITE; PS51318; TAT; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:1WX2, ECO:0000213|PDB:1WX4};
+KW   Copper {ECO:0000213|PDB:1WX2, ECO:0000213|PDB:1WX4};
+KW   Metal-binding {ECO:0000213|PDB:1WX2, ECO:0000213|PDB:1WX4}.
+FT   METAL        67     67       Copper 1. {ECO:0000213|PDB:2ZMX,
+FT                                ECO:0000213|PDB:2ZMY,
+FT                                ECO:0000213|PDB:3AWS}.
+FT   METAL        67     67       Copper 2. {ECO:0000213|PDB:2ZWE,
+FT                                ECO:0000213|PDB:3AWT,
+FT                                ECO:0000213|PDB:3AWU}.
+FT   METAL        68     68       Copper 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:2ZMX,
+FT                                ECO:0000213|PDB:2ZMY,
+FT                                ECO:0000213|PDB:3AWS}.
+FT   METAL        68     68       Copper 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:2ZWE,
+FT                                ECO:0000213|PDB:3AWT,
+FT                                ECO:0000213|PDB:3AWU}.
+FT   METAL        82     82       Copper 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2ZMX,
+FT                                ECO:0000213|PDB:2ZMY,
+FT                                ECO:0000213|PDB:3AWS}.
+FT   METAL        82     82       Copper 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2ZWE,
+FT                                ECO:0000213|PDB:3AWT,
+FT                                ECO:0000213|PDB:3AWU}.
+FT   METAL        82     82       Copper 3; via tele nitrogen.
+FT                                {ECO:0000213|PDB:1WX2,
+FT                                ECO:0000213|PDB:2AHK,
+FT                                ECO:0000213|PDB:2ZWF}.
+FT   METAL        84     84       Copper 1. {ECO:0000213|PDB:3AWT,
+FT                                ECO:0000213|PDB:3AWU,
+FT                                ECO:0000213|PDB:3AWV}.
+FT   METAL        84     84       Copper 2. {ECO:0000213|PDB:2ZWE,
+FT                                ECO:0000213|PDB:3AWT,
+FT                                ECO:0000213|PDB:3AWU}.
+FT   METAL        84     84       Copper 3. {ECO:0000213|PDB:1WX2,
+FT                                ECO:0000213|PDB:2AHK,
+FT                                ECO:0000213|PDB:2ZWF}.
+FT   METAL        97     97       Copper 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3AX0}.
+FT   METAL        97     97       Copper 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2ZWE,
+FT                                ECO:0000213|PDB:3AX0}.
+FT   METAL        97     97       Copper 3; via tele nitrogen.
+FT                                {ECO:0000213|PDB:1WX2,
+FT                                ECO:0000213|PDB:2AHK,
+FT                                ECO:0000213|PDB:2ZWF}.
+SQ   SEQUENCE   126 AA;  13001 MW;  F1689C913E93DBC5 CRC64;
+     MPEITRRRAL TAAAAVAATA SAAVTLAAPA ASAAGHHEPA APESFDEVYK GRRIQGRPAG
+     GGAHHHEHGG GYEVFVDGVQ LHVMRNADGS WISVVSHYDP VPTPRAAARA AVDELQGAPL
+     LPFPAN
+//

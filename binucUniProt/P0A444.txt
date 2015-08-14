@@ -1,0 +1,607 @@
+ID   PSBA1_THEEB             Reviewed;         360 AA.
+AC   P0A444; P35876;
+DT   15-MAR-2005, integrated into UniProtKB/Swiss-Prot.
+DT   15-MAR-2005, sequence version 1.
+DT   22-JUL-2015, entry version 87.
+DE   RecName: Full=Photosystem II protein D1 1 {ECO:0000255|HAMAP-Rule:MF_01379};
+DE            Short=PSII D1 protein 1 {ECO:0000255|HAMAP-Rule:MF_01379};
+DE            EC=1.10.3.9 {ECO:0000255|HAMAP-Rule:MF_01379, ECO:0000269|PubMed:20558739, ECO:0000269|PubMed:25006873};
+DE   AltName: Full=Photosystem II Q(B) protein 1 {ECO:0000255|HAMAP-Rule:MF_01379};
+DE   Flags: Precursor;
+GN   Name=psbA1 {ECO:0000255|HAMAP-Rule:MF_01379, ECO:0000305};
+GN   Synonyms=psbA-1; OrderedLocusNames=tlr1843;
+OS   Thermosynechococcus elongatus (strain BP-1).
+OC   Bacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales;
+OC   Thermosynechococcus.
+OX   NCBI_TaxID=197221;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=BP-1;
+RX   PubMed=12240834; DOI=10.1093/dnares/9.4.123;
+RA   Nakamura Y., Kaneko T., Sato S., Ikeuchi M., Katoh H., Sasamoto S.,
+RA   Watanabe A., Iriguchi M., Kawashima K., Kimura T., Kishida Y.,
+RA   Kiyokawa C., Kohara M., Matsumoto M., Matsuno A., Nakazaki N.,
+RA   Shimpo S., Sugimoto M., Takeuchi C., Yamada M., Tabata S.;
+RT   "Complete genome structure of the thermophilic cyanobacterium
+RT   Thermosynechococcus elongatus BP-1.";
+RL   DNA Res. 9:123-130(2002).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (3.8 ANGSTROMS) OF 1-360.
+RX   PubMed=11217865; DOI=10.1038/35055589;
+RA   Zouni A., Witt H.T., Kern J., Fromme P., Krauss N., Saenger W.,
+RA   Orth P.;
+RT   "Crystal structure of photosystem II from Synechococcus elongatus at
+RT   3.8 A resolution.";
+RL   Nature 409:739-743(2001).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (3.20 ANGSTROMS) IN PHOTOSYSTEM II, COFACTOR,
+RP   SUBUNIT, AND SUBCELLULAR LOCATION.
+RX   DOI=10.1039/B406989G;
+RA   Biesiadka J., Loll B., Kern J., Irrgang K.-D., Zouni A.;
+RT   "Crystal structure of cyanobacterial photosystem II at 3.2 A
+RT   resolution: a closer look at the Mn-cluster.";
+RL   Phys. Chem. Chem. Phys. 6:4733-4736(2004).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (3.5 ANGSTROMS) OF 1-344 IN PHOTOSYSTEM II,
+RP   COFACTOR, SUBUNIT, AND SUBCELLULAR LOCATION.
+RX   PubMed=14764885; DOI=10.1126/science.1093087;
+RA   Ferreira K.N., Iverson T.M., Maghlaoui K., Barber J., Iwata S.;
+RT   "Architecture of the photosynthetic oxygen-evolving center.";
+RL   Science 303:1831-1838(2004).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (3.0 ANGSTROMS) OF 1-344 IN PHOTOSYSTEM II,
+RP   COFACTOR, SUBUNIT, AND SUBCELLULAR LOCATION.
+RC   STRAIN=BP-1;
+RX   PubMed=16355230; DOI=10.1038/nature04224;
+RA   Loll B., Kern J., Saenger W., Zouni A., Biesiadka J.;
+RT   "Towards complete cofactor arrangement in the 3.0 A resolution
+RT   structure of photosystem II.";
+RL   Nature 438:1040-1044(2005).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (2.90 ANGSTROMS) OF 1-344 IN PHOTOSYSTEM II,
+RP   COFACTOR, SUBUNIT, SUBCELLULAR LOCATION, AND MASS SPECTROMETRY.
+RC   STRAIN=BP-1;
+RX   PubMed=19219048; DOI=10.1038/nsmb.1559;
+RA   Guskov A., Kern J., Gabdulkhakov A., Broser M., Zouni A., Saenger W.;
+RT   "Cyanobacterial photosystem II at 2.9-A resolution and the role of
+RT   quinones, lipids, channels and chloride.";
+RL   Nat. Struct. Mol. Biol. 16:334-342(2009).
+RN   [7]
+RP   X-RAY CRYSTALLOGRAPHY (3.60 ANGSTROMS) OF 1-344 IN PHOTOSYSTEM II,
+RP   FUNCTION, CATALYTIC ACTIVITY, COFACTOR, SUBUNIT, AND SUBCELLULAR
+RP   LOCATION.
+RC   STRAIN=BP-1;
+RX   PubMed=20558739; DOI=10.1074/jbc.M110.127589;
+RA   Broser M., Gabdulkhakov A., Kern J., Guskov A., Muh F., Saenger W.,
+RA   Zouni A.;
+RT   "Crystal structure of monomeric photosystem II from
+RT   Thermosynechococcus elongatus at 3.6 A resolution.";
+RL   J. Biol. Chem. 285:26255-26262(2010).
+RN   [8]
+RP   X-RAY CRYSTALLOGRAPHY (3.20 ANGSTROMS) OF 1-344 IN PHOTOSYSTEM II IN
+RP   COMPLEX WITH HERBICIDE, FUNCTION, COFACTOR, SUBUNIT, AND SUBCELLULAR
+RP   LOCATION.
+RC   STRAIN=BP-1;
+RX   PubMed=21367867; DOI=10.1074/jbc.M110.215970;
+RA   Broser M., Glockner C., Gabdulkhakov A., Guskov A., Buchta J.,
+RA   Kern J., Muh F., Dau H., Saenger W., Zouni A.;
+RT   "Structural basis of cyanobacterial photosystem II inhibition by the
+RT   herbicide terbutryn.";
+RL   J. Biol. Chem. 286:15964-15972(2011).
+RN   [9]
+RP   X-RAY CRYSTALLOGRAPHY (6.56 ANGSTROMS) OF 1-344 IN PHOTOSYSTEM II,
+RP   COFACTOR, SUBUNIT, AND SUBCELLULAR LOCATION.
+RC   STRAIN=BP-1;
+RX   PubMed=22665786; DOI=10.1073/pnas.1204598109;
+RA   Kern J., Alonso-Mori R., Hellmich J., Tran R., Hattne J., Laksmono H.,
+RA   Glockner C., Echols N., Sierra R.G., Sellberg J., Lassalle-Kaiser B.,
+RA   Gildea R.J., Glatzel P., Grosse-Kunstleve R.W., Latimer M.J.,
+RA   McQueen T.A., DiFiore D., Fry A.R., Messerschmidt M., Miahnahri A.,
+RA   Schafer D.W., Seibert M.M., Sokaras D., Weng T.C., Zwart P.H.,
+RA   White W.E., Adams P.D., Bogan M.J., Boutet S., Williams G.J.,
+RA   Messinger J., Sauter N.K., Zouni A., Bergmann U., Yano J.,
+RA   Yachandra V.K.;
+RT   "Room temperature femtosecond X-ray diffraction of photosystem II
+RT   microcrystals.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 109:9721-9726(2012).
+RN   [10]
+RP   X-RAY CRYSTALLOGRAPHY (5.70 ANGSTROMS) IN PHOTOSYSTEM II, COFACTOR,
+RP   SUBUNIT, AND SUBCELLULAR LOCATION.
+RC   STRAIN=BP-1;
+RX   PubMed=23413188; DOI=10.1126/science.1234273;
+RA   Kern J., Alonso-Mori R., Tran R., Hattne J., Gildea R.J., Echols N.,
+RA   Glockner C., Hellmich J., Laksmono H., Sierra R.G.,
+RA   Lassalle-Kaiser B., Koroidov S., Lampe A., Han G., Gul S., Difiore D.,
+RA   Milathianaki D., Fry A.R., Miahnahri A., Schafer D.W.,
+RA   Messerschmidt M., Seibert M.M., Koglin J.E., Sokaras D., Weng T.C.,
+RA   Sellberg J., Latimer M.J., Grosse-Kunstleve R.W., Zwart P.H.,
+RA   White W.E., Glatzel P., Adams P.D., Bogan M.J., Williams G.J.,
+RA   Boutet S., Messinger J., Zouni A., Sauter N.K., Yachandra V.K.,
+RA   Bergmann U., Yano J.;
+RT   "Simultaneous femtosecond X-ray spectroscopy and diffraction of
+RT   photosystem II at room temperature.";
+RL   Science 340:491-495(2013).
+RN   [11]
+RP   X-RAY CRYSTALLOGRAPHY (5.00 ANGSTROMS) OF 11-344 IN PHOTOSYSTEM II,
+RP   COFACTOR, SUBUNIT, AND SUBCELLULAR LOCATION.
+RC   STRAIN=BP-1;
+RX   PubMed=25043005; DOI=10.1038/nature13453;
+RA   Kupitz C., Basu S., Grotjohann I., Fromme R., Zatsepin N.A.,
+RA   Rendek K.N., Hunter M.S., Shoeman R.L., White T.A., Wang D., James D.,
+RA   Yang J.H., Cobb D.E., Reeder B., Sierra R.G., Liu H., Barty A.,
+RA   Aquila A.L., Deponte D., Kirian R.A., Bari S., Bergkamp J.J.,
+RA   Beyerlein K.R., Bogan M.J., Caleman C., Chao T.C., Conrad C.E.,
+RA   Davis K.M., Fleckenstein H., Galli L., Hau-Riege S.P., Kassemeyer S.,
+RA   Laksmono H., Liang M., Lomb L., Marchesini S., Martin A.V.,
+RA   Messerschmidt M., Milathianaki D., Nass K., Ros A., Roy-Chowdhury S.,
+RA   Schmidt K., Seibert M., Steinbrener J., Stellato F., Yan L., Yoon C.,
+RA   Moore T.A., Moore A.L., Pushkar Y., Williams G.J., Boutet S.,
+RA   Doak R.B., Weierstall U., Frank M., Chapman H.N., Spence J.C.,
+RA   Fromme P.;
+RT   "Serial time-resolved crystallography of photosystem II using a
+RT   femtosecond X-ray laser.";
+RL   Nature 513:261-265(2014).
+RN   [12]
+RP   X-RAY CRYSTALLOGRAPHY (4.50 ANGSTROMS) OF 1-344 IN PHOTOSYSTEM II,
+RP   FUNCTION, CATALYTIC ACTIVITY, COFACTOR, SUBUNIT, AND SUBCELLULAR
+RP   LOCATION.
+RC   STRAIN=BP-1;
+RX   PubMed=25006873; DOI=10.1038/ncomms5371;
+RA   Kern J., Tran R., Alonso-Mori R., Koroidov S., Echols N., Hattne J.,
+RA   Ibrahim M., Gul S., Laksmono H., Sierra R.G., Gildea R.J., Han G.,
+RA   Hellmich J., Lassalle-Kaiser B., Chatterjee R., Brewster A.S.,
+RA   Stan C.A., Gloeckner C., Lampe A., DiFiore D., Milathianaki D.,
+RA   Fry A.R., Seibert M.M., Koglin J.E., Gallo E., Uhlig J., Sokaras D.,
+RA   Weng T.C., Zwart P.H., Skinner D.E., Bogan M.J., Messerschmidt M.,
+RA   Glatzel P., Williams G.J., Boutet S., Adams P.D., Zouni A.,
+RA   Messinger J., Sauter N.K., Bergmann U., Yano J., Yachandra V.K.;
+RT   "Taking snapshots of photosynthetic water oxidation using femtosecond
+RT   X-ray diffraction and spectroscopy.";
+RL   Nat. Commun. 5:4371-4371(2014).
+CC   -!- FUNCTION: Photosystem II (PSII) is a light-driven water:
+CC       plastoquinone oxidoreductase that uses light energy to abstract
+CC       electrons from H(2)O, generating O(2) and a proton gradient
+CC       subsequently used for ATP formation. It consists of a core antenna
+CC       complex that captures photons, and an electron transfer chain that
+CC       converts photonic excitation into a charge separation. The D1/D2
+CC       (PsbA/PsbA) reaction center heterodimer binds P680, the primary
+CC       electron donor of PSII as well as several subsequent electron
+CC       acceptors. {ECO:0000255|HAMAP-Rule:MF_01379,
+CC       ECO:0000269|PubMed:20558739, ECO:0000269|PubMed:21367867,
+CC       ECO:0000269|PubMed:25006873}.
+CC   -!- CATALYTIC ACTIVITY: 2 H(2)O + 2 plastoquinone + 4 light = O(2) + 2
+CC       plastoquinol. {ECO:0000255|HAMAP-Rule:MF_01379,
+CC       ECO:0000269|PubMed:20558739, ECO:0000269|PubMed:25006873}.
+CC   -!- COFACTOR:
+CC       Note=The D1/D2 heterodimer binds P680, chlorophylls that are the
+CC       primary electron donor of PSII, and subsequent electron acceptors.
+CC       It shares a non-heme iron and each subunit binds pheophytin,
+CC       quinone, additional chlorophylls, carotenoids and lipids. D1
+CC       provides most of the ligands for the Mn4-Ca-O5 cluster of the
+CC       oxygen-evolving complex (OEC). There is also a Cl(-1) ion
+CC       associated with D1 and D2, which is required for oxygen evolution
+CC       (PubMed:19219048, PubMed:21367867). PSII binds additional
+CC       chlorophylls, carotenoids and specific lipids. {ECO:0000255|HAMAP-
+CC       Rule:MF_01379, ECO:0000269|PubMed:14764885,
+CC       ECO:0000269|PubMed:16355230, ECO:0000269|PubMed:19219048,
+CC       ECO:0000269|PubMed:20558739, ECO:0000269|PubMed:21367867,
+CC       ECO:0000269|PubMed:22665786, ECO:0000269|PubMed:23413188,
+CC       ECO:0000269|PubMed:25006873, ECO:0000269|PubMed:25043005,
+CC       ECO:0000269|Ref.3};
+CC   -!- SUBUNIT: Cyanobacterial PSII is composed of 1 copy each of
+CC       membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI,
+CC       PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Ycf12, at least 3
+CC       peripheral proteins PsbO, PsbU, PsbV and a large number of
+CC       cofactors. It forms dimeric complexes. {ECO:0000255|HAMAP-
+CC       Rule:MF_01379, ECO:0000269|PubMed:14764885,
+CC       ECO:0000269|PubMed:16355230, ECO:0000269|PubMed:19219048,
+CC       ECO:0000269|PubMed:20558739, ECO:0000269|PubMed:21367867,
+CC       ECO:0000269|PubMed:22665786, ECO:0000269|PubMed:23413188,
+CC       ECO:0000269|PubMed:25006873, ECO:0000269|PubMed:25043005,
+CC       ECO:0000269|Ref.3}.
+CC   -!- SUBCELLULAR LOCATION: Cellular thylakoid membrane
+CC       {ECO:0000255|HAMAP-Rule:MF_01379, ECO:0000269|PubMed:14764885,
+CC       ECO:0000269|PubMed:16355230, ECO:0000269|PubMed:19219048,
+CC       ECO:0000269|PubMed:20558739, ECO:0000269|PubMed:21367867,
+CC       ECO:0000269|PubMed:22665786, ECO:0000269|PubMed:23413188,
+CC       ECO:0000269|PubMed:25006873, ECO:0000269|PubMed:25043005,
+CC       ECO:0000269|Ref.3}; Multi-pass membrane protein
+CC       {ECO:0000255|HAMAP-Rule:MF_01379, ECO:0000269|PubMed:14764885,
+CC       ECO:0000269|PubMed:16355230, ECO:0000269|PubMed:19219048,
+CC       ECO:0000269|PubMed:20558739, ECO:0000269|PubMed:21367867,
+CC       ECO:0000269|PubMed:22665786, ECO:0000269|PubMed:23413188,
+CC       ECO:0000269|PubMed:25006873, ECO:0000269|PubMed:25043005,
+CC       ECO:0000269|Ref.3}.
+CC   -!- PTM: C-terminally processed by CtpA; processing is essential to
+CC       allow assembly of the oxygen-evolving complex and thus
+CC       photosynthetic growth. {ECO:0000255|HAMAP-Rule:MF_01379}.
+CC   -!- PTM: Tyr-161 forms a radical intermediate that is referred to as
+CC       redox-active TyrZ, YZ or Y-Z. {ECO:0000255|HAMAP-Rule:MF_01379,
+CC       ECO:0000303|PubMed:11217865, ECO:0000303|PubMed:14764885,
+CC       ECO:0000303|PubMed:19219048, ECO:0000303|PubMed:21367867,
+CC       ECO:0000303|Ref.3}.
+CC   -!- MASS SPECTROMETRY: Mass=38144; Mass_error=224; Method=MALDI;
+CC       Range=2-344; Note=Mass for C-terminally truncated D1. The measured
+CC       protein is probably a mixture of the products of the 3 psbA
+CC       genes.; Evidence={ECO:0000269|PubMed:19219048};
+CC   -!- MISCELLANEOUS: 2 of the reaction center chlorophylls (ChlD1 and
+CC       ChlD2) are entirely coordinated by water. {ECO:0000255|HAMAP-
+CC       Rule:MF_01379, ECO:0000269|PubMed:16355230,
+CC       ECO:0000269|PubMed:19219048}.
+CC   -!- MISCELLANEOUS: Herbicides such as terbutryn, atrazine, BNT, diuron
+CC       or ioxynil bind in the Q(B) binding site and block subsequent
+CC       electron transfer. {ECO:0000255|HAMAP-Rule:MF_01379,
+CC       ECO:0000269|PubMed:21367867}.
+CC   -!- MISCELLANEOUS: Cyanobacteria usually contain more than 2 copies of
+CC       the psbA gene; this strain encodes 3. {ECO:0000255|HAMAP-
+CC       Rule:MF_01379, ECO:0000269|PubMed:12240834}.
+CC   -!- SIMILARITY: Belongs to the reaction center PufL/M/PsbA/D family.
+CC       {ECO:0000255|HAMAP-Rule:MF_01379}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; BA000039; BAC09395.1; -; Genomic_DNA.
+DR   RefSeq; NP_682633.1; NC_004113.1.
+DR   RefSeq; WP_011057680.1; NC_004113.1.
+DR   PDB; 1S5L; X-ray; 3.50 A; A/a=1-344.
+DR   PDB; 1W5C; X-ray; 3.20 A; A/G=1-360.
+DR   PDB; 2AXT; X-ray; 3.00 A; A/a=1-344.
+DR   PDB; 3KZI; X-ray; 3.60 A; A=1-344.
+DR   PDB; 4FBY; X-ray; 6.56 A; A/G=1-344.
+DR   PDB; 4IXQ; X-ray; 5.70 A; A/a=1-360.
+DR   PDB; 4IXR; X-ray; 5.90 A; A/a=1-360.
+DR   PDB; 4PBU; X-ray; 5.00 A; A/a=11-344.
+DR   PDB; 4PJ0; X-ray; 2.44 A; A/a=1-344.
+DR   PDB; 4Q54; X-ray; 5.50 A; A/a=11-344.
+DR   PDB; 4TNH; X-ray; 4.90 A; A/a=1-344.
+DR   PDB; 4TNI; X-ray; 4.60 A; A/a=1-344.
+DR   PDB; 4TNJ; X-ray; 4.50 A; A/a=1-344.
+DR   PDB; 4TNK; X-ray; 5.20 A; A/a=1-344.
+DR   PDB; 4V62; X-ray; 2.90 A; AA/BA=1-344.
+DR   PDB; 4V82; X-ray; 3.20 A; AA/BA=1-344.
+DR   PDBsum; 1S5L; -.
+DR   PDBsum; 1W5C; -.
+DR   PDBsum; 2AXT; -.
+DR   PDBsum; 3KZI; -.
+DR   PDBsum; 4FBY; -.
+DR   PDBsum; 4IXQ; -.
+DR   PDBsum; 4IXR; -.
+DR   PDBsum; 4PBU; -.
+DR   PDBsum; 4PJ0; -.
+DR   PDBsum; 4Q54; -.
+DR   PDBsum; 4TNH; -.
+DR   PDBsum; 4TNI; -.
+DR   PDBsum; 4TNJ; -.
+DR   PDBsum; 4TNK; -.
+DR   PDBsum; 4V62; -.
+DR   PDBsum; 4V82; -.
+DR   ProteinModelPortal; P0A444; -.
+DR   SMR; P0A444; 10-344.
+DR   DIP; DIP-48487N; -.
+DR   STRING; 197221.tlr1843; -.
+DR   EnsemblBacteria; BAC09395; BAC09395; BAC09395.
+DR   GeneID; 1010908; -.
+DR   KEGG; tel:tlr1843; -.
+DR   PATRIC; 23929074; VBITheElo119873_1926.
+DR   eggNOG; NOG04871; -.
+DR   HOGENOM; HOG000246913; -.
+DR   KO; K02703; -.
+DR   OMA; RESANLW; -.
+DR   OrthoDB; EOG6Q2SGP; -.
+DR   BRENDA; 1.10.3.9; 7763.
+DR   EvolutionaryTrace; P0A444; -.
+DR   Proteomes; UP000000440; Chromosome.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0009523; C:photosystem II; IEA:UniProtKB-KW.
+DR   GO; GO:0042651; C:thylakoid membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0016168; F:chlorophyll binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0045156; F:electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity; IEA:InterPro.
+DR   GO; GO:0005506; F:iron ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0010242; F:oxygen evolving activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0009772; P:photosynthetic electron transport in photosystem II; IEA:InterPro.
+DR   GO; GO:0018298; P:protein-chromophore linkage; IEA:UniProtKB-KW.
+DR   GO; GO:0009635; P:response to herbicide; IEA:UniProtKB-KW.
+DR   Gene3D; 1.20.85.10; -; 1.
+DR   HAMAP; MF_01379; PSII_PsbA_D1; 1.
+DR   InterPro; IPR000484; Photo_RC_L/M.
+DR   InterPro; IPR005867; PSII_D1.
+DR   Pfam; PF00124; Photo_RC; 1.
+DR   SUPFAM; SSF81483; SSF81483; 1.
+DR   TIGRFAMs; TIGR01151; psbA; 1.
+DR   PROSITE; PS00244; REACTION_CENTER; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Calcium; Chlorophyll; Chromophore; Complete proteome;
+KW   Electron transport; Herbicide resistance; Iron; Magnesium; Manganese;
+KW   Membrane; Metal-binding; Oxidoreductase; Photosynthesis;
+KW   Photosystem II; Reference proteome; Thylakoid; Transmembrane;
+KW   Transmembrane helix; Transport.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:19219048}.
+FT   CHAIN         2    344       Photosystem II protein D1 1.
+FT                                /FTId=PRO_0000090485.
+FT   PROPEP      345    360       {ECO:0000255|HAMAP-Rule:MF_01379}.
+FT                                /FTId=PRO_0000316376.
+FT   TOPO_DOM      2     31       Cytoplasmic.
+FT                                {ECO:0000269|PubMed:19219048}.
+FT   TRANSMEM     32     49       Helical. {ECO:0000269|PubMed:19219048}.
+FT   TOPO_DOM     50    114       Lumenal. {ECO:0000269|PubMed:19219048}.
+FT   TRANSMEM    115    130       Helical. {ECO:0000269|PubMed:19219048}.
+FT   TOPO_DOM    131    143       Cytoplasmic.
+FT                                {ECO:0000269|PubMed:19219048}.
+FT   TRANSMEM    144    156       Helical. {ECO:0000269|PubMed:19219048}.
+FT   TOPO_DOM    157    196       Lumenal. {ECO:0000269|PubMed:19219048}.
+FT   TRANSMEM    197    214       Helical. {ECO:0000269|PubMed:19219048}.
+FT   TOPO_DOM    215    273       Cytoplasmic.
+FT                                {ECO:0000269|PubMed:19219048}.
+FT   TRANSMEM    274    288       Helical. {ECO:0000255|HAMAP-
+FT                                Rule:MF_01379,
+FT                                ECO:0000269|PubMed:19219048}.
+FT   TOPO_DOM    289    344       Lumenal. {ECO:0000269|PubMed:19219048}.
+FT   REGION      264    265       Quinone (B). {ECO:0000255|HAMAP-
+FT                                Rule:MF_01379,
+FT                                ECO:0000269|PubMed:16355230,
+FT                                ECO:0000269|PubMed:19219048,
+FT                                ECO:0000303|PubMed:14764885,
+FT                                ECO:0000303|PubMed:22665786,
+FT                                ECO:0000303|PubMed:23413188,
+FT                                ECO:0000303|PubMed:25006873,
+FT                                ECO:0000303|PubMed:25043005}.
+FT   METAL       118    118       Magnesium (chlorophyll-a ChlzD1 axial
+FT                                ligand); via tele nitrogen.
+FT                                {ECO:0000255|HAMAP-Rule:MF_01379,
+FT                                ECO:0000269|PubMed:16355230,
+FT                                ECO:0000269|PubMed:19219048,
+FT                                ECO:0000303|PubMed:14764885,
+FT                                ECO:0000303|PubMed:20558739,
+FT                                ECO:0000303|PubMed:21367867,
+FT                                ECO:0000303|PubMed:22665786,
+FT                                ECO:0000303|PubMed:23413188,
+FT                                ECO:0000303|PubMed:25043005,
+FT                                ECO:0000303|Ref.3}.
+FT   METAL       170    170       Calcium-manganese-oxide [Ca-4Mn-5O];
+FT                                calcium. {ECO:0000255|HAMAP-
+FT                                Rule:MF_01379,
+FT                                ECO:0000269|PubMed:19219048,
+FT                                ECO:0000303|PubMed:20558739,
+FT                                ECO:0000303|PubMed:21367867,
+FT                                ECO:0000303|PubMed:22665786,
+FT                                ECO:0000303|PubMed:23413188,
+FT                                ECO:0000303|PubMed:25006873,
+FT                                ECO:0000303|PubMed:25043005}.
+FT   METAL       170    170       Calcium-manganese-oxide [Ca-4Mn-5O];
+FT                                manganese 1. {ECO:0000255|HAMAP-
+FT                                Rule:MF_01379,
+FT                                ECO:0000269|PubMed:19219048,
+FT                                ECO:0000303|PubMed:14764885,
+FT                                ECO:0000303|PubMed:16355230,
+FT                                ECO:0000303|PubMed:20558739,
+FT                                ECO:0000303|PubMed:21367867,
+FT                                ECO:0000303|PubMed:22665786,
+FT                                ECO:0000303|PubMed:23413188,
+FT                                ECO:0000303|PubMed:25006873,
+FT                                ECO:0000303|PubMed:25043005}.
+FT   METAL       189    189       Calcium-manganese-oxide [Ca-4Mn-5O];
+FT                                calcium. {ECO:0000269|PubMed:19219048,
+FT                                ECO:0000303|PubMed:20558739,
+FT                                ECO:0000303|PubMed:21367867,
+FT                                ECO:0000303|PubMed:22665786,
+FT                                ECO:0000303|PubMed:23413188,
+FT                                ECO:0000303|PubMed:25006873}.
+FT   METAL       189    189       Calcium-manganese-oxide [Ca-4Mn-5O];
+FT                                manganese 2. {ECO:0000255|HAMAP-
+FT                                Rule:MF_01379,
+FT                                ECO:0000269|PubMed:19219048,
+FT                                ECO:0000303|PubMed:14764885,
+FT                                ECO:0000303|PubMed:16355230,
+FT                                ECO:0000303|PubMed:20558739,
+FT                                ECO:0000303|PubMed:21367867,
+FT                                ECO:0000303|PubMed:22665786,
+FT                                ECO:0000303|PubMed:23413188,
+FT                                ECO:0000303|PubMed:25006873,
+FT                                ECO:0000303|PubMed:25043005}.
+FT   METAL       198    198       Magnesium (chlorophyll-a PD1 axial
+FT                                ligand); via tele nitrogen.
+FT                                {ECO:0000255|HAMAP-Rule:MF_01379,
+FT                                ECO:0000269|PubMed:16355230,
+FT                                ECO:0000269|PubMed:19219048,
+FT                                ECO:0000303|PubMed:14764885,
+FT                                ECO:0000303|PubMed:20558739,
+FT                                ECO:0000303|PubMed:21367867,
+FT                                ECO:0000303|PubMed:22665786,
+FT                                ECO:0000303|PubMed:23413188,
+FT                                ECO:0000303|PubMed:25043005,
+FT                                ECO:0000303|Ref.3}.
+FT   METAL       215    215       Iron; shared with heterodimeric partner;
+FT                                via tele nitrogen. {ECO:0000255|HAMAP-
+FT                                Rule:MF_01379,
+FT                                ECO:0000269|PubMed:16355230,
+FT                                ECO:0000269|PubMed:19219048,
+FT                                ECO:0000303|PubMed:14764885,
+FT                                ECO:0000303|PubMed:20558739,
+FT                                ECO:0000303|PubMed:21367867,
+FT                                ECO:0000303|PubMed:22665786,
+FT                                ECO:0000303|PubMed:23413188,
+FT                                ECO:0000303|PubMed:25006873,
+FT                                ECO:0000303|PubMed:25043005,
+FT                                ECO:0000303|Ref.3}.
+FT   METAL       272    272       Iron; shared with heterodimeric partner;
+FT                                via tele nitrogen. {ECO:0000255|HAMAP-
+FT                                Rule:MF_01379,
+FT                                ECO:0000269|PubMed:16355230,
+FT                                ECO:0000269|PubMed:19219048,
+FT                                ECO:0000303|PubMed:14764885,
+FT                                ECO:0000303|PubMed:20558739,
+FT                                ECO:0000303|PubMed:21367867,
+FT                                ECO:0000303|PubMed:22665786,
+FT                                ECO:0000303|PubMed:23413188,
+FT                                ECO:0000303|PubMed:25006873,
+FT                                ECO:0000303|PubMed:25043005,
+FT                                ECO:0000303|Ref.3}.
+FT   METAL       332    332       Calcium-manganese-oxide [Ca-4Mn-5O];
+FT                                manganese 2; via tele nitrogen.
+FT                                {ECO:0000255|HAMAP-Rule:MF_01379,
+FT                                ECO:0000269|PubMed:19219048,
+FT                                ECO:0000303|PubMed:14764885,
+FT                                ECO:0000303|PubMed:16355230,
+FT                                ECO:0000303|PubMed:20558739,
+FT                                ECO:0000303|PubMed:21367867,
+FT                                ECO:0000303|PubMed:22665786,
+FT                                ECO:0000303|PubMed:23413188,
+FT                                ECO:0000303|PubMed:25006873,
+FT                                ECO:0000303|PubMed:25043005}.
+FT   METAL       333    333       Calcium-manganese-oxide [Ca-4Mn-5O];
+FT                                manganese 1. {ECO:0000255|HAMAP-
+FT                                Rule:MF_01379,
+FT                                ECO:0000269|PubMed:19219048,
+FT                                ECO:0000303|PubMed:14764885,
+FT                                ECO:0000303|PubMed:16355230,
+FT                                ECO:0000303|PubMed:20558739,
+FT                                ECO:0000303|PubMed:21367867,
+FT                                ECO:0000303|PubMed:22665786,
+FT                                ECO:0000303|PubMed:23413188,
+FT                                ECO:0000303|PubMed:25006873,
+FT                                ECO:0000303|PubMed:25043005}.
+FT   METAL       333    333       Calcium-manganese-oxide [Ca-4Mn-5O];
+FT                                manganese 3. {ECO:0000255|HAMAP-
+FT                                Rule:MF_01379,
+FT                                ECO:0000303|PubMed:14764885,
+FT                                ECO:0000303|PubMed:16355230,
+FT                                ECO:0000303|PubMed:19219048,
+FT                                ECO:0000303|PubMed:20558739,
+FT                                ECO:0000303|PubMed:21367867,
+FT                                ECO:0000303|PubMed:22665786,
+FT                                ECO:0000303|PubMed:23413188,
+FT                                ECO:0000303|PubMed:25006873,
+FT                                ECO:0000303|PubMed:25043005}.
+FT   METAL       342    342       Calcium-manganese-oxide [Ca-4Mn-5O];
+FT                                manganese 2. {ECO:0000255|HAMAP-
+FT                                Rule:MF_01379,
+FT                                ECO:0000269|PubMed:19219048,
+FT                                ECO:0000303|PubMed:14764885,
+FT                                ECO:0000303|PubMed:16355230,
+FT                                ECO:0000303|PubMed:20558739,
+FT                                ECO:0000303|PubMed:21367867,
+FT                                ECO:0000303|PubMed:23413188,
+FT                                ECO:0000303|PubMed:25006873,
+FT                                ECO:0000303|PubMed:25043005}.
+FT   METAL       342    342       Calcium-manganese-oxide [Ca-4Mn-5O];
+FT                                manganese 4. {ECO:0000255|HAMAP-
+FT                                Rule:MF_01379,
+FT                                ECO:0000269|PubMed:19219048,
+FT                                ECO:0000303|PubMed:16355230,
+FT                                ECO:0000303|PubMed:20558739,
+FT                                ECO:0000303|PubMed:21367867,
+FT                                ECO:0000303|PubMed:22665786,
+FT                                ECO:0000303|PubMed:23413188,
+FT                                ECO:0000303|PubMed:25006873,
+FT                                ECO:0000303|PubMed:25043005}.
+FT   METAL       344    344       Calcium-manganese-oxide [Ca-4Mn-5O];
+FT                                calcium; via carboxylate.
+FT                                {ECO:0000255|HAMAP-Rule:MF_01379,
+FT                                ECO:0000269|PubMed:19219048,
+FT                                ECO:0000303|PubMed:14764885,
+FT                                ECO:0000303|PubMed:16355230,
+FT                                ECO:0000303|PubMed:20558739,
+FT                                ECO:0000303|PubMed:21367867,
+FT                                ECO:0000303|PubMed:23413188,
+FT                                ECO:0000303|PubMed:25043005}.
+FT   METAL       344    344       Calcium-manganese-oxide [Ca-4Mn-5O];
+FT                                manganese 4; via carboxylate.
+FT                                {ECO:0000255|HAMAP-Rule:MF_01379,
+FT                                ECO:0000269|PubMed:19219048,
+FT                                ECO:0000303|PubMed:16355230,
+FT                                ECO:0000303|PubMed:20558739,
+FT                                ECO:0000303|PubMed:21367867,
+FT                                ECO:0000303|PubMed:22665786,
+FT                                ECO:0000303|PubMed:23413188,
+FT                                ECO:0000303|PubMed:25006873,
+FT                                ECO:0000303|PubMed:25043005}.
+FT   BINDING     126    126       Pheophytin D1. {ECO:0000255|HAMAP-
+FT                                Rule:MF_01379,
+FT                                ECO:0000269|PubMed:16355230,
+FT                                ECO:0000269|PubMed:19219048,
+FT                                ECO:0000303|PubMed:14764885,
+FT                                ECO:0000303|PubMed:20558739,
+FT                                ECO:0000303|PubMed:21367867,
+FT                                ECO:0000303|PubMed:22665786,
+FT                                ECO:0000303|PubMed:23413188,
+FT                                ECO:0000303|PubMed:25006873,
+FT                                ECO:0000303|PubMed:25043005,
+FT                                ECO:0000303|Ref.3}.
+FT   BINDING     130    130       Pheophytin D1.
+FT                                {ECO:0000269|PubMed:16355230,
+FT                                ECO:0000269|PubMed:19219048,
+FT                                ECO:0000303|PubMed:14764885,
+FT                                ECO:0000303|PubMed:20558739,
+FT                                ECO:0000303|PubMed:21367867,
+FT                                ECO:0000303|PubMed:22665786,
+FT                                ECO:0000303|PubMed:23413188,
+FT                                ECO:0000303|PubMed:25006873,
+FT                                ECO:0000303|PubMed:25043005,
+FT                                ECO:0000303|Ref.3}.
+FT   BINDING     147    147       Pheophytin D1.
+FT                                {ECO:0000269|PubMed:16355230,
+FT                                ECO:0000269|PubMed:19219048,
+FT                                ECO:0000303|PubMed:14764885,
+FT                                ECO:0000303|PubMed:21367867,
+FT                                ECO:0000303|PubMed:22665786,
+FT                                ECO:0000303|PubMed:23413188,
+FT                                ECO:0000303|PubMed:25006873,
+FT                                ECO:0000303|PubMed:25043005,
+FT                                ECO:0000303|Ref.3}.
+FT   BINDING     215    215       Quinone (B). {ECO:0000255|HAMAP-
+FT                                Rule:MF_01379,
+FT                                ECO:0000269|PubMed:16355230,
+FT                                ECO:0000269|PubMed:19219048,
+FT                                ECO:0000303|PubMed:14764885,
+FT                                ECO:0000303|PubMed:22665786,
+FT                                ECO:0000303|PubMed:23413188,
+FT                                ECO:0000303|PubMed:25006873,
+FT                                ECO:0000303|PubMed:25043005}.
+FT   SITE        161    161       Tyrosine radical intermediate.
+FT                                {ECO:0000255|HAMAP-Rule:MF_01379,
+FT                                ECO:0000303|PubMed:11217865,
+FT                                ECO:0000303|PubMed:14764885,
+FT                                ECO:0000303|PubMed:19219048,
+FT                                ECO:0000303|PubMed:21367867,
+FT                                ECO:0000303|Ref.3}.
+FT   SITE        190    190       Stabilizes free radical intermediate.
+FT                                {ECO:0000255|HAMAP-Rule:MF_01379}.
+FT   SITE        344    345       Cleavage; by CtpA. {ECO:0000255|HAMAP-
+FT                                Rule:MF_01379}.
+FT   HELIX        14     21       {ECO:0000244|PDB:4PJ0}.
+FT   STRAND       24     28       {ECO:0000244|PDB:4PJ0}.
+FT   HELIX        31     54       {ECO:0000244|PDB:4PJ0}.
+FT   STRAND       62     64       {ECO:0000244|PDB:4PJ0}.
+FT   HELIX        71     73       {ECO:0000244|PDB:4PJ0}.
+FT   TURN         77     79       {ECO:0000244|PDB:4PJ0}.
+FT   TURN         87     91       {ECO:0000244|PDB:4PJ0}.
+FT   HELIX        96     98       {ECO:0000244|PDB:4PJ0}.
+FT   STRAND       99    101       {ECO:0000244|PDB:2AXT}.
+FT   HELIX       102    107       {ECO:0000244|PDB:4PJ0}.
+FT   HELIX       110    137       {ECO:0000244|PDB:4PJ0}.
+FT   HELIX       143    158       {ECO:0000244|PDB:4PJ0}.
+FT   HELIX       160    165       {ECO:0000244|PDB:4PJ0}.
+FT   HELIX       168    170       {ECO:0000244|PDB:4PJ0}.
+FT   HELIX       176    190       {ECO:0000244|PDB:4PJ0}.
+FT   HELIX       192    194       {ECO:0000244|PDB:4PJ0}.
+FT   HELIX       196    221       {ECO:0000244|PDB:4PJ0}.
+FT   STRAND      229    231       {ECO:0000244|PDB:4PJ0}.
+FT   HELIX       233    236       {ECO:0000244|PDB:4PJ0}.
+FT   HELIX       248    258       {ECO:0000244|PDB:4PJ0}.
+FT   HELIX       261    263       {ECO:0000244|PDB:4PJ0}.
+FT   HELIX       268    293       {ECO:0000244|PDB:4PJ0}.
+FT   TURN        294    296       {ECO:0000244|PDB:4PJ0}.
+FT   STRAND      297    299       {ECO:0000244|PDB:2AXT}.
+FT   STRAND      309    311       {ECO:0000244|PDB:4PJ0}.
+FT   HELIX       317    329       {ECO:0000244|PDB:4PJ0}.
+FT   TURN        330    335       {ECO:0000244|PDB:4PJ0}.
+FT   STRAND      339    341       {ECO:0000244|PDB:4PJ0}.
+SQ   SEQUENCE   360 AA;  39737 MW;  D4B45833FA46A4D4 CRC64;
+     MTTTLQRRES ANLWERFCNW VTSTDNRLYV GWFGVIMIPT LLAATICFVI AFIAAPPVDI
+     DGIREPVSGS LLYGNNIITG AVVPSSNAIG LHFYPIWEAA SLDEWLYNGG PYQLIIFHFL
+     LGASCYMGRQ WELSYRLGMR PWICVAYSAP LASAFAVFLI YPIGQGSFSD GMPLGISGTF
+     NFMIVFQAEH NILMHPFHQL GVAGVFGGAL FCAMHGSLVT SSLIRETTET ESANYGYKFG
+     QEEETYNIVA AHGYFGRLIF QYASFNNSRS LHFFLAAWPV VGVWFTALGI STMAFNLNGF
+     NFNHSVIDAK GNVINTWADI INRANLGMEV MHERNAHNFP LDLASAESAP VAMIAPSING
+//

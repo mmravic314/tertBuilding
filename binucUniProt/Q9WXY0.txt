@@ -1,0 +1,109 @@
+ID   Q9WXY0_THEMA            Unreviewed;       220 AA.
+AC   Q9WXY0; G4FH41;
+DT   01-NOV-1999, integrated into UniProtKB/TrEMBL.
+DT   01-NOV-1999, sequence version 1.
+DT   22-JUL-2015, entry version 122.
+DE   SubName: Full=Response regulator {ECO:0000313|EMBL:AAD35220.1};
+GN   OrderedLocusNames=TM_0126 {ECO:0000313|EMBL:AAD35220.1};
+OS   Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099).
+OC   Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Thermotoga.
+OX   NCBI_TaxID=243274 {ECO:0000313|EMBL:AAD35220.1, ECO:0000313|Proteomes:UP000008183};
+RN   [1] {ECO:0000313|EMBL:AAD35220.1, ECO:0000313|Proteomes:UP000008183}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 43589 / MSB8 / DSM 3109 / JCM 10099
+RC   {ECO:0000313|Proteomes:UP000008183};
+RX   PubMed=10360571; DOI=10.1038/20601;
+RA   Nelson K.E., Clayton R.A., Gill S.R., Gwinn M.L., Dodson R.J.,
+RA   Haft D.H., Hickey E.K., Peterson J.D., Nelson W.C., Ketchum K.A.,
+RA   McDonald L.A., Utterback T.R., Malek J.A., Linher K.D., Garrett M.M.,
+RA   Stewart A.M., Cotton M.D., Pratt M.S., Phillips C.A., Richardson D.L.,
+RA   Heidelberg J.F., Sutton G.G., Fleischmann R.D., Eisen J.A., White O.,
+RA   Salzberg S.L., Smith H.O., Venter J.C., Fraser C.M.;
+RT   "Evidence for lateral gene transfer between Archaea and Bacteria from
+RT   genome sequence of Thermotoga maritima.";
+RL   Nature 399:323-329(1999).
+RN   [2] {ECO:0000213|PDB:1P2F}
+RP   X-RAY CRYSTALLOGRAPHY (1.80 ANGSTROMS) OF 3-220.
+RX   PubMed=12837793; DOI=10.1128/JB.185.14.4186-4194.2003;
+RA   Robinson V.L., Wu T., Stock A.M.;
+RT   "Structural analysis of the domain interface in DrrB, a response
+RT   regulator of the OmpR/PhoB subfamily.";
+RL   J. Bacteriol. 185:4186-4194(2003).
+RN   [3] {ECO:0000213|PDB:3NNS}
+RP   X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS) OF 1-117 IN COMPLEX WITH
+RP   MAGNESIUM.
+RX   PubMed=20702407; DOI=10.1074/jbc.M110.157164;
+RA   Barbieri C.M., Mack T.R., Robinson V.L., Miller M.T., Stock A.M.;
+RT   "Regulation of response regulator autophosphorylation through
+RT   interdomain contacts.";
+RL   J. Biol. Chem. 285:32325-32335(2010).
+CC   -!- SIMILARITY: Contains OmpR/PhoB-type DNA-binding domain.
+CC       {ECO:0000256|SAAS:SAAS00278727}.
+CC   -!- SIMILARITY: Contains response regulatory domain.
+CC       {ECO:0000256|SAAS:SAAS00053378}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE000512; AAD35220.1; -; Genomic_DNA.
+DR   PIR; F72415; F72415.
+DR   RefSeq; NP_227942.1; NC_000853.1.
+DR   RefSeq; WP_004082711.1; NZ_CP011107.1.
+DR   PDB; 1P2F; X-ray; 1.80 A; A=3-220.
+DR   PDB; 3NNS; X-ray; 1.90 A; A/B=1-117.
+DR   PDBsum; 1P2F; -.
+DR   PDBsum; 3NNS; -.
+DR   ProteinModelPortal; Q9WXY0; -.
+DR   SMR; Q9WXY0; 1-217.
+DR   STRING; 243274.TM0126; -.
+DR   EnsemblBacteria; AAD35220; AAD35220; TM_0126.
+DR   EnsemblBacteria; AHD18105; AHD18105; THEMA_04175.
+DR   GeneID; 896953; -.
+DR   KEGG; tma:TM0126; -.
+DR   KEGG; tmi:THEMA_04175; -.
+DR   PATRIC; 23935092; VBITheMar51294_0124.
+DR   KO; K02483; -.
+DR   OMA; NIGQYKI; -.
+DR   OrthoDB; EOG6G4VQG; -.
+DR   BioCyc; TMAR243274:GC6P-126-MONOMER; -.
+DR   Proteomes; UP000008183; Chromosome.
+DR   GO; GO:0005622; C:intracellular; IEA:GOC.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000160; P:phosphorelay signal transduction system; IEA:InterPro.
+DR   GO; GO:0006355; P:regulation of transcription, DNA-templated; IEA:UniProtKB-KW.
+DR   GO; GO:0006351; P:transcription, DNA-templated; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.10.10; -; 1.
+DR   InterPro; IPR011006; CheY-like_superfamily.
+DR   InterPro; IPR001867; Sig_transdc_resp-reg_C.
+DR   InterPro; IPR016032; Sig_transdc_resp-reg_C-effctor.
+DR   InterPro; IPR001789; Sig_transdc_resp-reg_receiver.
+DR   InterPro; IPR011991; WHTH_DNA-bd_dom.
+DR   Pfam; PF00072; Response_reg; 1.
+DR   Pfam; PF00486; Trans_reg_C; 1.
+DR   SMART; SM00448; REC; 1.
+DR   SMART; SM00862; Trans_reg_C; 1.
+DR   SUPFAM; SSF46894; SSF46894; 1.
+DR   SUPFAM; SSF52172; SSF52172; 1.
+DR   PROSITE; PS50110; RESPONSE_REGULATORY; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:1P2F, ECO:0000213|PDB:3NNS};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000008183};
+KW   DNA-binding {ECO:0000256|SAAS:SAAS00278681};
+KW   Magnesium {ECO:0000213|PDB:3NNS};
+KW   Metal-binding {ECO:0000213|PDB:3NNS};
+KW   Phosphoprotein {ECO:0000256|SAAS:SAAS00230985};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000008183};
+KW   Transcription {ECO:0000256|SAAS:SAAS00122800};
+KW   Transcription regulation {ECO:0000256|SAAS:SAAS00122800};
+KW   Two-component regulatory system {ECO:0000256|SAAS:SAAS00278688}.
+FT   METAL        10     10       Magnesium. {ECO:0000213|PDB:3NNS}.
+FT   METAL        50     50       Magnesium. {ECO:0000213|PDB:3NNS}.
+FT   METAL        52     52       Magnesium; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:3NNS}.
+SQ   SEQUENCE   220 AA;  25521 MW;  2581C6BF38452800 CRC64;
+     MMWKIAVVDD DKNILKKVSE KLQQLGRVKT FLTGEDFLND EEAFHVVVLD VMLPDYSGYE
+     ICRMIKETRP ETWVILLTLL SDDESVLKGF EAGADDYVTK PFNPEILLAR VKRFLEREKK
+     GLYDFGDLKI DATGFTVFLK GKRIHLPKKE FEILLFLAEN AGKVVTREKL LETFWEDPVS
+     PRVVDTVIKR IRKAIEDDPN RPRYIKTIWG VGYMFTGGER
+//

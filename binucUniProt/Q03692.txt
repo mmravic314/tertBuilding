@@ -1,0 +1,447 @@
+ID   COAA1_HUMAN             Reviewed;         680 AA.
+AC   Q03692; A1L4P2;
+DT   01-NOV-1995, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1997, sequence version 2.
+DT   22-JUL-2015, entry version 153.
+DE   RecName: Full=Collagen alpha-1(X) chain;
+DE   Flags: Precursor;
+GN   Name=COL10A1;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND VARIANT THR-27.
+RX   PubMed=1764025;
+RA   Thomas J.T., Cresswell C.J., Rash B., Nicolai H., Jones T.,
+RA   Solomon E., Grant M.E., Boot-Handford R.P.;
+RT   "The human collagen X gene. Complete primary translated sequence and
+RT   chromosomal localization.";
+RL   Biochem. J. 280:617-623(1991).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=1397333; DOI=10.1016/0014-5793(92)81126-7;
+RA   Reichenberger E., Beier F., LuValle P., Olsen B.R., von der Mark K.,
+RA   Bertling W.M.;
+RT   "Genomic organization and full-length cDNA sequence of human collagen
+RT   X.";
+RL   FEBS Lett. 311:305-310(1992).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RA   Beier F., Lammi M.B., von der Mark K.;
+RL   Submitted (JUN-1996) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=14574404; DOI=10.1038/nature02055;
+RA   Mungall A.J., Palmer S.A., Sims S.K., Edwards C.A., Ashurst J.L.,
+RA   Wilming L., Jones M.C., Horton R., Hunt S.E., Scott C.E.,
+RA   Gilbert J.G.R., Clamp M.E., Bethel G., Milne S., Ainscough R.,
+RA   Almeida J.P., Ambrose K.D., Andrews T.D., Ashwell R.I.S.,
+RA   Babbage A.K., Bagguley C.L., Bailey J., Banerjee R., Barker D.J.,
+RA   Barlow K.F., Bates K., Beare D.M., Beasley H., Beasley O., Bird C.P.,
+RA   Blakey S.E., Bray-Allen S., Brook J., Brown A.J., Brown J.Y.,
+RA   Burford D.C., Burrill W., Burton J., Carder C., Carter N.P.,
+RA   Chapman J.C., Clark S.Y., Clark G., Clee C.M., Clegg S., Cobley V.,
+RA   Collier R.E., Collins J.E., Colman L.K., Corby N.R., Coville G.J.,
+RA   Culley K.M., Dhami P., Davies J., Dunn M., Earthrowl M.E.,
+RA   Ellington A.E., Evans K.A., Faulkner L., Francis M.D., Frankish A.,
+RA   Frankland J., French L., Garner P., Garnett J., Ghori M.J.,
+RA   Gilby L.M., Gillson C.J., Glithero R.J., Grafham D.V., Grant M.,
+RA   Gribble S., Griffiths C., Griffiths M.N.D., Hall R., Halls K.S.,
+RA   Hammond S., Harley J.L., Hart E.A., Heath P.D., Heathcott R.,
+RA   Holmes S.J., Howden P.J., Howe K.L., Howell G.R., Huckle E.,
+RA   Humphray S.J., Humphries M.D., Hunt A.R., Johnson C.M., Joy A.A.,
+RA   Kay M., Keenan S.J., Kimberley A.M., King A., Laird G.K., Langford C.,
+RA   Lawlor S., Leongamornlert D.A., Leversha M., Lloyd C.R., Lloyd D.M.,
+RA   Loveland J.E., Lovell J., Martin S., Mashreghi-Mohammadi M.,
+RA   Maslen G.L., Matthews L., McCann O.T., McLaren S.J., McLay K.,
+RA   McMurray A., Moore M.J.F., Mullikin J.C., Niblett D., Nickerson T.,
+RA   Novik K.L., Oliver K., Overton-Larty E.K., Parker A., Patel R.,
+RA   Pearce A.V., Peck A.I., Phillimore B.J.C.T., Phillips S., Plumb R.W.,
+RA   Porter K.M., Ramsey Y., Ranby S.A., Rice C.M., Ross M.T., Searle S.M.,
+RA   Sehra H.K., Sheridan E., Skuce C.D., Smith S., Smith M., Spraggon L.,
+RA   Squares S.L., Steward C.A., Sycamore N., Tamlyn-Hall G., Tester J.,
+RA   Theaker A.J., Thomas D.W., Thorpe A., Tracey A., Tromans A., Tubby B.,
+RA   Wall M., Wallis J.M., West A.P., White S.S., Whitehead S.L.,
+RA   Whittaker H., Wild A., Willey D.J., Wilmer T.E., Wood J.M., Wray P.W.,
+RA   Wyatt J.C., Young L., Younger R.M., Bentley D.R., Coulson A.,
+RA   Durbin R.M., Hubbard T., Sulston J.E., Dunham I., Rogers J., Beck S.;
+RT   "The DNA sequence and analysis of human chromosome 6.";
+RL   Nature 425:805-811(2003).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L.,
+RA   Mobarry C.M., Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R.,
+RA   Flanigan M.J., Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V.,
+RA   Hannenhalli S., Turner R., Yooseph S., Lu F., Nusskern D.R.,
+RA   Shue B.C., Zheng X.H., Zhong F., Delcher A.L., Huson D.H.,
+RA   Kravitz S.A., Mouchard L., Reinert K., Remington K.A., Clark A.G.,
+RA   Waterman M.S., Eichler E.E., Adams M.D., Hunkapiller M.W., Myers E.W.,
+RA   Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 52-680.
+RX   PubMed=1587271; DOI=10.1111/j.1432-1033.1992.tb16919.x;
+RA   Apte S.S., Seldin M.F., Hayashi M., Olsen B.R.;
+RT   "Cloning of the human and mouse type X collagen genes and mapping of
+RT   the mouse type X collagen gene to chromosome 10.";
+RL   Eur. J. Biochem. 206:217-224(1992).
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE OF 561-666.
+RX   PubMed=2037056; DOI=10.1016/0014-5793(91)80521-4;
+RA   Apte S., Mattei M.-G., Olsen B.R.;
+RT   "Cloning of human alpha 1(X) collagen DNA and localization of the
+RT   COL10A1 gene to the q21-q22 region of human chromosome 6.";
+RL   FEBS Lett. 282:393-396(1991).
+RN   [9]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 547-655.
+RX   PubMed=1743401; DOI=10.1016/0012-1606(91)90274-7;
+RA   Reichenberger E., Aigner T., von der Mark K., Stoeb H., Bertling W.;
+RT   "In situ hybridization studies on the expression of type X collagen in
+RT   fetal human cartilage.";
+RL   Dev. Biol. 148:562-572(1991).
+RN   [10]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) OF 521-680, AND CALCIUM-BINDING.
+RX   PubMed=11839302; DOI=10.1016/S0969-2126(02)00697-4;
+RA   Bogin O., Kvansakul M., Rom E., Singer J., Yayon A., Hohenester E.;
+RT   "Insight into Schmid metaphyseal chondrodysplasia from the crystal
+RT   structure of the collagen X NC1 domain trimer.";
+RL   Structure 10:165-173(2002).
+RN   [11]
+RP   REVIEW ON VARIANTS.
+RX   PubMed=9101290;
+RX   DOI=10.1002/(SICI)1098-1004(1997)9:4<300::AID-HUMU2>3.0.CO;2-9;
+RA   Kuivaniemi H., Tromp G., Prockop D.J.;
+RT   "Mutations in fibrillar collagens (types I, II, III, and XI), fibril-
+RT   associated collagen (type IX), and network-forming collagen (type X)
+RT   cause a spectrum of diseases of bone, cartilage, and blood vessels.";
+RL   Hum. Mutat. 9:300-315(1997).
+RN   [12]
+RP   VARIANTS SMCD ASP-598 AND PRO-614.
+RX   PubMed=8304336;
+RA   Wallis G.A., Rash B., Sweetman W.A., Thomas J.T., Super M., Evans G.,
+RA   Grant M.E., Boot-Handford R.P.;
+RT   "Amino acid substitutions of conserved residues in the carboxyl-
+RT   terminal domain of the alpha 1(X) chain of type X collagen occur in
+RT   two unrelated families with metaphyseal chondrodysplasia type
+RT   Schmid.";
+RL   Am. J. Hum. Genet. 54:169-178(1994).
+RN   [13]
+RP   VARIANT SMCD ARG-591.
+RX   PubMed=8004099; DOI=10.1093/hmg/3.2.303;
+RA   McIntosh I., Abbott M.H., Warman M.L., Olsen B.R., Francomano C.A.;
+RT   "Additional mutations of type X collagen confirm COL10A1 as the Schmid
+RT   metaphyseal chondrodysplasia locus.";
+RL   Hum. Mol. Genet. 3:303-307(1994).
+RN   [14]
+RP   VARIANT SMCD VAL-618.
+RX   PubMed=7876225; DOI=10.1074/jbc.270.9.4558;
+RA   Chan D., Cole W.G., Rogers J.G., Bateman J.F.;
+RT   "Type X collagen multimer assembly in vitro is prevented by a Gly618
+RT   to Val mutation in the alpha 1(X) NC1 domain resulting in Schmid
+RT   metaphyseal chondrodysplasia.";
+RL   J. Biol. Chem. 270:4558-4562(1995).
+RN   [15]
+RP   VARIANTS SMCD ARG-545; GLU-595; HIS-597; LYS-617; ARG-644 AND GLY-648.
+RX   PubMed=7607655; DOI=10.1007/BF00214187;
+RA   Bonaventure J., Chaminade F., Maroteaux P.;
+RT   "Mutations in three subdomains of the carboxy-terminal region of
+RT   collagen type X account for most of the Schmid metaphyseal
+RT   dysplasias.";
+RL   Hum. Genet. 96:58-64(1995).
+RN   [16]
+RP   VARIANT SMCD PRO-600.
+RX   PubMed=8782043; DOI=10.1136/jmg.33.6.450;
+RA   Wallis G.A., Rash B., Sykes B., Bonaventure J., Maroteaux P.,
+RA   Zabel B., Wynne-Davies R., Grant M.E., Boot-Handford R.P.;
+RT   "Mutations within the gene encoding the alpha 1 (X) chain of type X
+RT   collagen (COL10A1) cause metaphyseal chondrodysplasia type Schmid but
+RT   not several other forms of metaphyseal chondrodysplasia.";
+RL   J. Med. Genet. 33:450-457(1996).
+RN   [17]
+RP   VARIANTS SMCD GLU-18 AND ARG-18.
+RX   PubMed=9067753;
+RX   DOI=10.1002/(SICI)1098-1004(1997)9:2<131::AID-HUMU5>3.0.CO;2-C;
+RA   Ikegawa S., Nakamura K., Nagano A., Haga N., Nakamura Y.;
+RT   "Mutations in the N-terminal globular domain of the type X collagen
+RT   gene (COL10A1) in patients with schmid metaphyseal chondrodysplasia.";
+RL   Hum. Mutat. 9:131-135(1997).
+RN   [18]
+RP   VARIANT SPONDYLOMETAPHYSEAL DYSPLASIA JAPANESE TYPE GLU-595.
+RX   PubMed=9837818; DOI=10.1086/302158;
+RA   Ikegawa S., Nishimura G., Nagai T., Hasegawa T., Ohashi H.,
+RA   Nakamura Y.;
+RT   "Mutation of the type X collagen gene 'COL10A1' causes
+RT   spondylometaphyseal dysplasia.";
+RL   Am. J. Hum. Genet. 63:1659-1662(1998).
+RN   [19]
+RP   VARIANT SMCD CYS-597.
+RX   PubMed=9852679; DOI=10.1007/s100380050085;
+RA   Sawai H., Ida A., Nakata Y., Koyama K.;
+RT   "Novel missense mutation resulting in the substitution of tyrosine by
+RT   cysteine at codon 597 of the type X collagen gene associated with
+RT   Schmid metaphyseal chondrodysplasia.";
+RL   J. Hum. Genet. 43:259-261(1998).
+RN   [20]
+RP   VARIANTS SMCD ARG-18; GLU-18; ASP-582; ARG-591; ARG-595; GLU-595;
+RP   HIS-597; CYS-597; ASP-598; PRO-600; PRO-614; LYS-617; VAL-618;
+RP   ARG-644; GLY-648; ARG-651; PRO-653 AND PRO-671, AND VARIANTS THR-27;
+RP   HIS-198; ARG-545 AND MET-603.
+RX   PubMed=15880705; DOI=10.1002/humu.20183;
+RA   Bateman J.F., Wilson R., Freddi S., Lamande S.R., Savarirayan R.;
+RT   "Mutations of COL10A1 in Schmid metaphyseal chondrodysplasia.";
+RL   Hum. Mutat. 25:525-534(2005).
+CC   -!- FUNCTION: Type X collagen is a product of hypertrophic
+CC       chondrocytes and has been localized to presumptive mineralization
+CC       zones of hyaline cartilage.
+CC   -!- SUBUNIT: Homotrimer.
+CC   -!- INTERACTION:
+CC       Q8N9N5:BANP; NbExp=3; IntAct=EBI-2528309, EBI-744695;
+CC       Q9UMX0:UBQLN1; NbExp=3; IntAct=EBI-2528309, EBI-741480;
+CC       Q9UMX0-2:UBQLN1; NbExp=3; IntAct=EBI-2528309, EBI-10173939;
+CC   -!- SUBCELLULAR LOCATION: Secreted, extracellular space, extracellular
+CC       matrix {ECO:0000250}.
+CC   -!- PTM: Prolines at the third position of the tripeptide repeating
+CC       unit (G-X-Y) are hydroxylated in some or all of the chains.
+CC   -!- DISEASE: Schmid type metaphyseal chondrodysplasia (SMCD)
+CC       [MIM:156500]: Dominantly inherited disorder of the osseous
+CC       skeleton. The cardinal features of the phenotype are mild short
+CC       stature, coxa vara and a waddling gait. Radiography usually shows
+CC       sclerosis of the ribs, flaring of the metaphyses, and a wide
+CC       irregular growth plate, especially of the knees. A variant form of
+CC       SMCD is spondylometaphyseal dysplasia Japanese type. It is
+CC       characterized by spinal involvement comprising mild platyspondyly,
+CC       vertebral body abnormalities, and end-plate irregularity.
+CC       {ECO:0000269|PubMed:15880705, ECO:0000269|PubMed:7607655,
+CC       ECO:0000269|PubMed:7876225, ECO:0000269|PubMed:8004099,
+CC       ECO:0000269|PubMed:8304336, ECO:0000269|PubMed:8782043,
+CC       ECO:0000269|PubMed:9067753, ECO:0000269|PubMed:9852679}. Note=The
+CC       disease is caused by mutations affecting the gene represented in
+CC       this entry.
+CC   -!- SIMILARITY: Contains 1 C1q domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00368}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X60382; CAA42933.1; -; Genomic_DNA.
+DR   EMBL; X72579; CAA51170.1; -; Genomic_DNA.
+DR   EMBL; X72580; CAA51170.1; JOINED; Genomic_DNA.
+DR   EMBL; X98568; CAA67178.1; -; Genomic_DNA.
+DR   EMBL; AL121963; CAB87590.1; -; Genomic_DNA.
+DR   EMBL; CH471051; EAW48240.1; -; Genomic_DNA.
+DR   EMBL; BC130621; AAI30622.1; -; mRNA.
+DR   EMBL; BC130623; AAI30624.1; -; mRNA.
+DR   EMBL; X65120; CAA46236.1; -; Genomic_DNA.
+DR   EMBL; X58879; CAA41686.1; -; Genomic_DNA.
+DR   EMBL; M74050; AAA61221.1; -; Genomic_DNA.
+DR   EMBL; S68531; AAC60615.1; -; mRNA.
+DR   CCDS; CCDS5105.1; -.
+DR   PIR; S26396; CGHU1D.
+DR   RefSeq; NP_000484.2; NM_000493.3.
+DR   RefSeq; XP_006715396.1; XM_006715333.2.
+DR   RefSeq; XP_011533734.1; XM_011535432.1.
+DR   RefSeq; XP_011533735.1; XM_011535433.1.
+DR   UniGene; Hs.520339; -.
+DR   PDB; 1GR3; X-ray; 2.00 A; A=521-680.
+DR   PDBsum; 1GR3; -.
+DR   ProteinModelPortal; Q03692; -.
+DR   SMR; Q03692; 549-680.
+DR   BioGrid; 107697; 3.
+DR   IntAct; Q03692; 2.
+DR   MINT; MINT-101719; -.
+DR   STRING; 9606.ENSP00000243222; -.
+DR   BioMuta; COL10A1; -.
+DR   DMDM; 2506306; -.
+DR   PaxDb; Q03692; -.
+DR   PRIDE; Q03692; -.
+DR   Ensembl; ENST00000243222; ENSP00000243222; ENSG00000123500.
+DR   Ensembl; ENST00000327673; ENSP00000327368; ENSG00000123500.
+DR   GeneID; 1300; -.
+DR   KEGG; hsa:1300; -.
+DR   UCSC; uc003pwm.3; human.
+DR   CTD; 1300; -.
+DR   GeneCards; GC06M116440; -.
+DR   HGNC; HGNC:2185; COL10A1.
+DR   HPA; HPA053268; -.
+DR   MIM; 120110; gene.
+DR   MIM; 156500; phenotype.
+DR   neXtProt; NX_Q03692; -.
+DR   Orphanet; 174; Metaphyseal chondrodysplasia, Schmid type.
+DR   PharmGKB; PA26701; -.
+DR   eggNOG; NOG114228; -.
+DR   GeneTree; ENSGT00760000118830; -.
+DR   HOGENOM; HOG000085653; -.
+DR   HOVERGEN; HBG108220; -.
+DR   InParanoid; Q03692; -.
+DR   OMA; PQPNTKT; -.
+DR   OrthoDB; EOG70ZZPW; -.
+DR   PhylomeDB; Q03692; -.
+DR   TreeFam; TF334029; -.
+DR   Reactome; REACT_121139; Collagen biosynthesis and modifying enzymes.
+DR   Reactome; REACT_13552; Integrin cell surface interactions.
+DR   Reactome; REACT_150180; Assembly of collagen fibrils and other multimeric structures.
+DR   Reactome; REACT_150401; Collagen degradation.
+DR   Reactome; REACT_163874; Non-integrin membrane-ECM interactions.
+DR   EvolutionaryTrace; Q03692; -.
+DR   GeneWiki; Collagen,_type_X,_alpha_1; -.
+DR   GenomeRNAi; 1300; -.
+DR   NextBio; 5279; -.
+DR   PRO; PR:Q03692; -.
+DR   Proteomes; UP000005640; Chromosome 6.
+DR   Bgee; Q03692; -.
+DR   CleanEx; HS_COL10A1; -.
+DR   ExpressionAtlas; Q03692; baseline and differential.
+DR   Genevisible; Q03692; HS.
+DR   GO; GO:0005938; C:cell cortex; IEA:Ensembl.
+DR   GO; GO:0005581; C:collagen trimer; TAS:ProtInc.
+DR   GO; GO:0005788; C:endoplasmic reticulum lumen; TAS:Reactome.
+DR   GO; GO:0005576; C:extracellular region; TAS:Reactome.
+DR   GO; GO:0005578; C:proteinaceous extracellular matrix; IEA:UniProtKB-SubCell.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0030574; P:collagen catabolic process; TAS:Reactome.
+DR   GO; GO:0022617; P:extracellular matrix disassembly; TAS:Reactome.
+DR   GO; GO:0030198; P:extracellular matrix organization; TAS:Reactome.
+DR   GO; GO:0001501; P:skeletal system development; TAS:ProtInc.
+DR   Gene3D; 2.60.120.40; -; 1.
+DR   InterPro; IPR001073; C1q.
+DR   InterPro; IPR008160; Collagen.
+DR   InterPro; IPR008983; Tumour_necrosis_fac-like_dom.
+DR   Pfam; PF00386; C1q; 1.
+DR   Pfam; PF01391; Collagen; 4.
+DR   PRINTS; PR00007; COMPLEMNTC1Q.
+DR   SMART; SM00110; C1Q; 1.
+DR   SUPFAM; SSF49842; SSF49842; 1.
+DR   PROSITE; PS50871; C1Q; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Calcium; Collagen; Complete proteome; Disease mutation;
+KW   Extracellular matrix; Hydroxylation; Metal-binding; Polymorphism;
+KW   Reference proteome; Repeat; Secreted; Signal.
+FT   SIGNAL        1     18       {ECO:0000255}.
+FT   CHAIN        19    680       Collagen alpha-1(X) chain.
+FT                                /FTId=PRO_0000005770.
+FT   DOMAIN      547    680       C1q. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00368}.
+FT   REGION       19     56       Nonhelical region (NC2).
+FT   REGION       57    519       Triple-helical region.
+FT   REGION      520    680       Nonhelical region (NC1).
+FT   METAL       634    634       Calcium.
+FT   VARIANT      18     18       G -> E (in SMCD).
+FT                                {ECO:0000269|PubMed:15880705,
+FT                                ECO:0000269|PubMed:9067753}.
+FT                                /FTId=VAR_001838.
+FT   VARIANT      18     18       G -> R (in SMCD).
+FT                                {ECO:0000269|PubMed:15880705,
+FT                                ECO:0000269|PubMed:9067753}.
+FT                                /FTId=VAR_001839.
+FT   VARIANT      27     27       M -> T (in dbSNP:rs1064583).
+FT                                {ECO:0000269|PubMed:15880705,
+FT                                ECO:0000269|PubMed:1764025}.
+FT                                /FTId=VAR_023186.
+FT   VARIANT      98     98       G -> R (in dbSNP:rs2243370).
+FT                                /FTId=VAR_048767.
+FT   VARIANT     198    198       R -> H (in dbSNP:rs148785195).
+FT                                {ECO:0000269|PubMed:15880705}.
+FT                                /FTId=VAR_023187.
+FT   VARIANT     545    545       G -> R (in dbSNP:rs2228547).
+FT                                {ECO:0000269|PubMed:15880705,
+FT                                ECO:0000269|PubMed:7607655}.
+FT                                /FTId=VAR_001840.
+FT   VARIANT     582    582       Y -> D (in SMCD).
+FT                                {ECO:0000269|PubMed:15880705}.
+FT                                /FTId=VAR_023188.
+FT   VARIANT     591    591       C -> R (in SMCD).
+FT                                {ECO:0000269|PubMed:15880705,
+FT                                ECO:0000269|PubMed:8004099}.
+FT                                /FTId=VAR_001841.
+FT   VARIANT     595    595       G -> E (in SMCD and spondylometaphyseal
+FT                                dysplasia Japanese type).
+FT                                {ECO:0000269|PubMed:15880705,
+FT                                ECO:0000269|PubMed:7607655,
+FT                                ECO:0000269|PubMed:9837818}.
+FT                                /FTId=VAR_001842.
+FT   VARIANT     595    595       G -> R (in SMCD).
+FT                                {ECO:0000269|PubMed:15880705}.
+FT                                /FTId=VAR_023189.
+FT   VARIANT     597    597       Y -> C (in SMCD).
+FT                                {ECO:0000269|PubMed:15880705,
+FT                                ECO:0000269|PubMed:9852679}.
+FT                                /FTId=VAR_008039.
+FT   VARIANT     597    597       Y -> H (in SMCD).
+FT                                {ECO:0000269|PubMed:15880705,
+FT                                ECO:0000269|PubMed:7607655}.
+FT                                /FTId=VAR_001843.
+FT   VARIANT     598    598       Y -> D (in SMCD).
+FT                                {ECO:0000269|PubMed:15880705,
+FT                                ECO:0000269|PubMed:8304336}.
+FT                                /FTId=VAR_001844.
+FT   VARIANT     600    600       S -> P (in SMCD).
+FT                                {ECO:0000269|PubMed:15880705,
+FT                                ECO:0000269|PubMed:8782043}.
+FT                                /FTId=VAR_001845.
+FT   VARIANT     603    603       V -> M. {ECO:0000269|PubMed:15880705}.
+FT                                /FTId=VAR_023190.
+FT   VARIANT     614    614       L -> P (in SMCD).
+FT                                {ECO:0000269|PubMed:15880705,
+FT                                ECO:0000269|PubMed:8304336}.
+FT                                /FTId=VAR_001846.
+FT   VARIANT     617    617       N -> K (in SMCD).
+FT                                {ECO:0000269|PubMed:15880705,
+FT                                ECO:0000269|PubMed:7607655}.
+FT                                /FTId=VAR_001847.
+FT   VARIANT     618    618       G -> V (in SMCD).
+FT                                {ECO:0000269|PubMed:15880705,
+FT                                ECO:0000269|PubMed:7876225}.
+FT                                /FTId=VAR_001848.
+FT   VARIANT     644    644       L -> R (in SMCD).
+FT                                {ECO:0000269|PubMed:15880705,
+FT                                ECO:0000269|PubMed:7607655}.
+FT                                /FTId=VAR_001849.
+FT   VARIANT     648    648       D -> G (in SMCD).
+FT                                {ECO:0000269|PubMed:15880705,
+FT                                ECO:0000269|PubMed:7607655}.
+FT                                /FTId=VAR_001850.
+FT   VARIANT     651    651       W -> R (in SMCD).
+FT                                {ECO:0000269|PubMed:15880705}.
+FT                                /FTId=VAR_023191.
+FT   VARIANT     653    653       Q -> P (in SMCD).
+FT                                {ECO:0000269|PubMed:15880705}.
+FT                                /FTId=VAR_023192.
+FT   VARIANT     671    671       S -> P (in SMCD).
+FT                                {ECO:0000269|PubMed:15880705}.
+FT                                /FTId=VAR_023193.
+FT   CONFLICT    500    500       H -> P (in Ref. 1; CAA42933).
+FT                                {ECO:0000305}.
+FT   STRAND      553    557       {ECO:0000244|PDB:1GR3}.
+FT   STRAND      560    562       {ECO:0000244|PDB:1GR3}.
+FT   STRAND      573    576       {ECO:0000244|PDB:1GR3}.
+FT   TURN        584    586       {ECO:0000244|PDB:1GR3}.
+FT   STRAND      595    616       {ECO:0000244|PDB:1GR3}.
+FT   STRAND      619    626       {ECO:0000244|PDB:1GR3}.
+FT   STRAND      634    644       {ECO:0000244|PDB:1GR3}.
+FT   STRAND      649    653       {ECO:0000244|PDB:1GR3}.
+FT   STRAND      659    663       {ECO:0000244|PDB:1GR3}.
+FT   STRAND      666    668       {ECO:0000244|PDB:1GR3}.
+FT   STRAND      671    679       {ECO:0000244|PDB:1GR3}.
+SQ   SEQUENCE   680 AA;  66158 MW;  E2F98E53E7882459 CRC64;
+     MLPQIPFLLL VSLNLVHGVF YAERYQMPTG IKGPLPNTKT QFFIPYTIKS KGIAVRGEQG
+     TPGPPGPAGP RGHPGPSGPP GKPGYGSPGL QGEPGLPGPP GPSAVGKPGV PGLPGKPGER
+     GPYGPKGDVG PAGLPGPRGP PGPPGIPGPA GISVPGKPGQ QGPTGAPGPR GFPGEKGAPG
+     VPGMNGQKGE MGYGAPGRPG ERGLPGPQGP TGPSGPPGVG KRGENGVPGQ PGIKGDRGFP
+     GEMGPIGPPG PQGPPGERGP EGIGKPGAAG APGQPGIPGT KGLPGAPGIA GPPGPPGFGK
+     PGLPGLKGER GPAGLPGGPG AKGEQGPAGL PGKPGLTGPP GNMGPQGPKG IPGSHGLPGP
+     KGETGPAGPA GYPGAKGERG SPGSDGKPGY PGKPGLDGPK GNPGLPGPKG DPGVGGPPGL
+     PGPVGPAGAK GMPGHNGEAG PRGAPGIPGT RGPIGPPGIP GFPGSKGDPG SPGPPGPAGI
+     ATKGLNGPTG PPGPPGPRGH SGEPGLPGPP GPPGPPGQAV MPEGFIKAGQ RPSLSGTPLV
+     SANQGVTGMP VSAFTVILSK AYPAIGTPIP FDKILYNRQQ HYDPRTGIFT CQIPGIYYFS
+     YHVHVKGTHV WVGLYKNGTP VMYTYDEYTK GYLDQASGSA IIDLTENDQV WLQLPNAESN
+     GLYSSEYVHS SFSGFLVAPM
+//

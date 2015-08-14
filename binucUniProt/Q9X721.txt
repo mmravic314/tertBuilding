@@ -1,0 +1,154 @@
+ID   Q9X721_CLOHI            Unreviewed;      1118 AA.
+AC   Q9X721;
+DT   01-NOV-1999, integrated into UniProtKB/TrEMBL.
+DT   01-NOV-1999, sequence version 1.
+DT   27-MAY-2015, entry version 73.
+DE   SubName: Full=Collagenase {ECO:0000313|EMBL:BAA77453.1};
+GN   Name=colG {ECO:0000313|EMBL:BAA77453.1};
+OS   Clostridium histolyticum.
+OC   Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+OC   Clostridium.
+OX   NCBI_TaxID=1498 {ECO:0000313|EMBL:BAA77453.1};
+RN   [1] {ECO:0000313|EMBL:BAA77453.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=JCM 1403 {ECO:0000313|EMBL:BAA77453.1};
+RX   PubMed=9922257;
+RA   Matsushita O., Jung C.-M., Katayama S., Minami J., Takahashi Y.,
+RA   Okabe A.;
+RT   "Gene duplication and multiplicity of collagenases in Clostridium
+RT   histolyticum.";
+RL   J. Bacteriol. 181:923-933(1999).
+RN   [2] {ECO:0000213|PDB:2Y3U, ECO:0000213|PDB:2Y50, ECO:0000213|PDB:2Y6I}
+RP   X-RAY CRYSTALLOGRAPHY (1.18 ANGSTROMS) OF 799-880 IN COMPLEX WITH
+RP   ZINC.
+RX   PubMed=21947205; DOI=10.1038/nsmb.2127;
+RA   Eckhard U., Schonauer E., Nuss D., Brandstetter H.;
+RT   "Structure of collagenase G reveals a chew-and-digest mechanism of
+RT   bacterial collagenolysis.";
+RL   Nat. Struct. Mol. Biol. 18:1109-1114(2011).
+RN   [3] {ECO:0000213|PDB:4HPK}
+RP   X-RAY CRYSTALLOGRAPHY (1.35 ANGSTROMS) OF 1006-1118 AND 1002-1118 IN
+RP   COMPLEX WITH CALCIUM.
+RX   PubMed=23144249; DOI=10.1128/JB.00010-12;
+RA   Bauer R., Wilson J.J., Philominathan S.T., Davis D., Matsushita O.,
+RA   Sakon J.;
+RT   "Structural comparison of ColH and ColG collagen-binding domains from
+RT   Clostridium histolyticum.";
+RL   J. Bacteriol. 195:318-327(2013).
+RN   [4] {ECO:0000213|PDB:4AQO, ECO:0000213|PDB:4ARE}
+RP   X-RAY CRYSTALLOGRAPHY (0.99 ANGSTROMS) OF 792-880 IN COMPLEX WITH
+RP   CALCIUM AND ZINC.
+RX   PubMed=23703618;
+RA   Eckhard U., Schonauer E., Brandstetter H.;
+RT   "Structural basis for activity regulation and substrate preference of
+RT   clostridial collagenases G, H, and T.";
+RL   J. Biol. Chem. 288:20184-20194(2013).
+RN   [5] {ECO:0000213|PDB:4JRW, ECO:0000213|PDB:4TN9}
+RP   X-RAY CRYSTALLOGRAPHY (1.40 ANGSTROMS) OF 797-881.
+RX   PubMed=25760606; DOI=10.1107/S1399004714027722;
+RA   Bauer R., Janowska K., Taylor K., Jordan B., Gann S., Janowski T.,
+RA   Latimer E.C., Matsushita O., Sakon J.;
+RT   "Structures of three polycystic kidney disease-like domains from
+RT   Clostridium histolyticum collagenases ColG and ColH.";
+RL   Acta Crystallogr. D 71:565-577(2015).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; D87215; BAA77453.1; -; Genomic_DNA.
+DR   PDB; 2Y3U; X-ray; 2.55 A; A=119-880.
+DR   PDB; 2Y50; X-ray; 2.80 A; A=119-880.
+DR   PDB; 2Y6I; X-ray; 3.25 A; A=119-880.
+DR   PDB; 2Y72; X-ray; 1.18 A; A/B=799-880.
+DR   PDB; 4AQO; X-ray; 0.99 A; A=792-880.
+DR   PDB; 4ARE; X-ray; 2.19 A; A=119-790.
+DR   PDB; 4HPK; X-ray; 1.35 A; A=1006-1118, B=1002-1118.
+DR   PDB; 4JRW; X-ray; 1.60 A; A/B=797-881.
+DR   PDB; 4TN9; X-ray; 1.40 A; A/B=797-881.
+DR   PDBsum; 2Y3U; -.
+DR   PDBsum; 2Y50; -.
+DR   PDBsum; 2Y6I; -.
+DR   PDBsum; 2Y72; -.
+DR   PDBsum; 4AQO; -.
+DR   PDBsum; 4ARE; -.
+DR   PDBsum; 4HPK; -.
+DR   PDBsum; 4JRW; -.
+DR   PDBsum; 4TN9; -.
+DR   ProteinModelPortal; Q9X721; -.
+DR   SMR; Q9X721; 1005-1118.
+DR   ChEMBL; CHEMBL2268009; -.
+DR   Allergome; 5989; Clo hi Collagenase.
+DR   MEROPS; M09.002; -.
+DR   BRENDA; 3.4.24.3; 1481.
+DR   EvolutionaryTrace; Q9X721; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:InterPro.
+DR   GO; GO:0004252; F:serine-type endopeptidase activity; IEA:InterPro.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:InterPro.
+DR   Gene3D; 2.60.40.670; -; 1.
+DR   InterPro; IPR007280; Peptidase_C_arc/bac.
+DR   InterPro; IPR013661; Peptidase_M9_N_dom.
+DR   InterPro; IPR002169; Peptidase_M9A/M9B.
+DR   InterPro; IPR022409; PKD/Chitinase_dom.
+DR   InterPro; IPR000601; PKD_dom.
+DR   Pfam; PF01752; Peptidase_M9; 1.
+DR   Pfam; PF08453; Peptidase_M9_N; 1.
+DR   Pfam; PF00801; PKD; 1.
+DR   Pfam; PF04151; PPC; 1.
+DR   PRINTS; PR00931; MICOLLPTASE.
+DR   SMART; SM00089; PKD; 1.
+DR   SUPFAM; SSF49299; SSF49299; 1.
+DR   PROSITE; PS50093; PKD; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3JQU, ECO:0000213|PDB:3JS7};
+KW   Calcium {ECO:0000213|PDB:4AQO, ECO:0000213|PDB:4HPK};
+KW   Collagen {ECO:0000313|EMBL:BAA77453.1}; Metal-binding; Zinc.
+FT   METAL       523    523       Zinc; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2Y50,
+FT                                ECO:0000213|PDB:2Y6I,
+FT                                ECO:0000213|PDB:4ARE}.
+FT   METAL       527    527       Zinc; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2Y50,
+FT                                ECO:0000213|PDB:2Y6I,
+FT                                ECO:0000213|PDB:4ARE}.
+FT   METAL       555    555       Zinc. {ECO:0000213|PDB:2Y50,
+FT                                ECO:0000213|PDB:2Y6I,
+FT                                ECO:0000213|PDB:4ARE}.
+FT   METAL       795    795       Calcium 1.
+FT   METAL       796    796       Calcium 1; via carbonyl oxygen.
+FT   METAL       823    823       Calcium 1.
+FT   METAL       825    825       Calcium 1.
+FT   METAL       864    864       Calcium 1.
+FT   METAL      1009   1009       Calcium 2. {ECO:0000213|PDB:4HPK}.
+FT   METAL      1011   1011       Calcium 2. {ECO:0000213|PDB:4HPK}.
+FT   METAL      1011   1011       Calcium 3. {ECO:0000213|PDB:4HPK}.
+FT   METAL      1013   1013       Calcium 3. {ECO:0000213|PDB:4HPK}.
+FT   METAL      1014   1014       Calcium 3. {ECO:0000213|PDB:4HPK}.
+FT   METAL      1032   1032       Calcium 2; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:4HPK}.
+FT   METAL      1037   1037       Calcium 2. {ECO:0000213|PDB:4HPK}.
+FT   METAL      1037   1037       Calcium 3. {ECO:0000213|PDB:4HPK}.
+FT   METAL      1039   1039       Calcium 3; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:4HPK}.
+FT   METAL      1040   1040       Calcium 2. {ECO:0000213|PDB:4HPK}.
+FT   METAL      1040   1040       Calcium 3. {ECO:0000213|PDB:4HPK}.
+SQ   SEQUENCE   1118 AA;  126242 MW;  770CF3F60E4D4FD4 CRC64;
+     MKKNILKILM DSYSKESKIQ TVRRVTSVSL LAVYLTMNTS SLVLAKPIEN TNDTSIKNVE
+     KLRNAPNEEN SKKVEDSKND KVEHVKNIEE AKVEQVAPEV KSKSTLRSAS IANTNSEKYD
+     FEYLNGLSYT ELTNLIKNIK WNQINGLFNY STGSQKFFGD KNRVQAIINA LQESGRTYTA
+     NDMKGIETFT EVLRAGFYLG YYNDGLSYLN DRNFQDKCIP AMIAIQKNPN FKLGTAVQDE
+     VITSLGKLIG NASANAEVVN NCVPVLKQFR ENLNQYAPDY VKGTAVNELI KGIEFDFSGA
+     AYEKDVKTMP WYGKIDPFIN ELKALGLYGN ITSATEWASD VGIYYLSKFG LYSTNRNDIV
+     QSLEKAVDMY KYGKIAFVAM ERITWDYDGI GSNGKKVDHD KFLDDAEKHY LPKTYTFDNG
+     TFIIRAGDKV SEEKIKRLYW ASREVKSQFH RVVGNDKALE VGNADDVLTM KIFNSPEEYK
+     FNTNINGVST DNGGLYIEPR GTFYTYERTP QQSIFSLEEL FRHEYTHYLQ ARYLVDGLWG
+     QGPFYEKNRL TWFDEGTAEF FAGSTRTSGV LPRKSILGYL AKDKVDHRYS LKKTLNSGYD
+     DSDWMFYNYG FAVAHYLYEK DMPTFIKMNK AILNTDVKSY DEIIKKLSDD ANKNTEYQNH
+     IQELADKYQG AGIPLVSDDY LKDHGYKKAS EVYSEISKAA SLTNTSVTAE KSQYFNTFTL
+     RGTYTGETSK GEFKDWDEMS KKLDGTLESL AKNSWSGYKT LTAYFTNYRV TSDNKVQYDV
+     VFHGVLTDNA DISNNKAPIA KVTGPSTGAV GRNIEFSGKD SKDEDGKIVS YDWDFGDGAT
+     SRGKNSVHAY KKAGTYNVTL KVTDDKGATA TESFTIEIKN EDTTTPITKE MEPNDDIKEA
+     NGPIVEGVTV KGDLNGSDDA DTFYFDVKED GDVTIELPYS GSSNFTWLVY KEGDDQNHIA
+     SGIDKNNSKV GTFKSTKGRH YVFIYKHDSA SNISYSLNIK GLGNEKLKEK ENNDSSDKAT
+     VIPNFNTTMQ GSLLGDDSRD YYSFEVKEEG EVNIELDKKD EFGVTWTLHP ESNINDRITY
+     GQVDGNKVSN KVKLRPGKYY LLVYKYSGSG NYELRVNK
+//

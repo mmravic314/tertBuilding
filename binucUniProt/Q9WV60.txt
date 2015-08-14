@@ -1,0 +1,473 @@
+ID   GSK3B_MOUSE             Reviewed;         420 AA.
+AC   Q9WV60;
+DT   01-DEC-2000, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-2000, sequence version 2.
+DT   22-JUL-2015, entry version 162.
+DE   RecName: Full=Glycogen synthase kinase-3 beta;
+DE            Short=GSK-3 beta;
+DE            EC=2.7.11.26;
+DE   AltName: Full=Serine/threonine-protein kinase GSK3B;
+DE            EC=2.7.11.1;
+GN   Name=Gsk3b;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Testis;
+RA   Salameh W.A., Guo T.B., Chan K.C., Mitchell A.P.;
+RT   "Testicular expression and hormonal control of glycogen synthase
+RT   kinase 3, a homologue of yeast RIM11.";
+RL   Submitted (FEB-2000) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=Czech II, and FVB/N; TISSUE=Mammary gland;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [3]
+RP   FUNCTION, AND DISRUPTION PHENOTYPE.
+RX   PubMed=10894547; DOI=10.1038/35017574;
+RA   Hoeflich K.P., Luo J., Rubie E.A., Tsao M.S., Jin O., Woodgett J.R.;
+RT   "Requirement for glycogen synthase kinase-3beta in cell survival and
+RT   NF-kappaB activation.";
+RL   Nature 406:86-90(2000).
+RN   [4]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-389, AND IDENTIFICATION
+RP   BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Embryonic brain;
+RX   PubMed=15345747; DOI=10.1074/mcp.M400085-MCP200;
+RA   Ballif B.A., Villen J., Beausoleil S.A., Schwartz D., Gygi S.P.;
+RT   "Phosphoproteomic analysis of the developing mouse brain.";
+RL   Mol. Cell. Proteomics 3:1093-1101(2004).
+RN   [5]
+RP   INTERACTION WITH ARRB2.
+RX   PubMed=16051150; DOI=10.1016/j.cell.2005.05.012;
+RA   Beaulieu J.-M., Sotnikova T.D., Marion S., Lefkowitz R.J.,
+RA   Gainetdinov R.R., Caron M.G.;
+RT   "An Akt/beta-arrestin 2/PP2A signaling complex mediates dopaminergic
+RT   neurotransmission and behavior.";
+RL   Cell 122:261-273(2005).
+RN   [6]
+RP   FUNCTION, AND MUTAGENESIS OF SER-9.
+RX   PubMed=15791206; DOI=10.1038/sj.emboj.7600633;
+RA   McManus E.J., Sakamoto K., Armit L.J., Ronaldson L., Shpiro N.,
+RA   Marquez R., Alessi D.R.;
+RT   "Role that phosphorylation of GSK3 plays in insulin and Wnt signalling
+RT   defined by knockin analysis.";
+RL   EMBO J. 24:1571-1583(2005).
+RN   [7]
+RP   FUNCTION IN MCL1 PHOSPHORYLATION.
+RX   PubMed=16543145; DOI=10.1016/j.molcel.2006.02.009;
+RA   Maurer U., Charvet C., Wagman A.S., Dejardin E., Green D.R.;
+RT   "Glycogen synthase kinase-3 regulates mitochondrial outer membrane
+RT   permeabilization and apoptosis by destabilization of MCL-1.";
+RL   Mol. Cell 21:749-760(2006).
+RN   [8]
+RP   FUNCTION IN AXON FORMATION.
+RX   PubMed=17391670; DOI=10.1016/j.febslet.2007.03.018;
+RA   Garrido J.J., Simon D., Varea O., Wandosell F.;
+RT   "GSK3 alpha and GSK3 beta are necessary for axon formation.";
+RL   FEBS Lett. 581:1579-1586(2007).
+RN   [9]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=17242355; DOI=10.1073/pnas.0609836104;
+RA   Villen J., Beausoleil S.A., Gerber S.A., Gygi S.P.;
+RT   "Large-scale phosphorylation analysis of mouse liver.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 104:1488-1493(2007).
+RN   [10]
+RP   FUNCTION IN REGULATION OF PANCREATIC BETA-CELLS.
+RX   PubMed=18288891; DOI=10.1371/journal.pbio.0060037;
+RA   Tanabe K., Liu Z., Patel S., Doble B.W., Li L., Cras-Meneur C.,
+RA   Martinez S.C., Welling C.M., White M.F., Bernal-Mizrachi E.,
+RA   Woodgett J.R., Permutt M.A.;
+RT   "Genetic deficiency of glycogen synthase kinase-3beta corrects
+RT   diabetes in mouse models of insulin resistance.";
+RL   PLoS Biol. 6:E37-E37(2008).
+RN   [11]
+RP   INTERACTION WITH DISC1.
+RX   PubMed=19303846; DOI=10.1016/j.cell.2008.12.044;
+RA   Mao Y., Ge X., Frank C.L., Madison J.M., Koehler A.N., Doud M.K.,
+RA   Tassa C., Berry E.M., Soda T., Singh K.K., Biechele T.,
+RA   Petryshen T.L., Moon R.T., Haggarty S.J., Tsai L.H.;
+RT   "Disrupted in schizophrenia 1 regulates neuronal progenitor
+RT   proliferation via modulation of GSK3beta/beta-catenin signaling.";
+RL   Cell 136:1017-1031(2009).
+RN   [12]
+RP   INTERACTION WITH AXIN1 AND ZBED3, AND MUTAGENESIS OF LYS-85.
+RX   PubMed=19141611; DOI=10.1074/jbc.M807753200;
+RA   Chen T., Li M., Ding Y., Zhang L.S., Xi Y., Pan W.J., Tao D.L.,
+RA   Wang J.Y., Li L.;
+RT   "Identification of zinc-finger BED domain-containing 3 (Zbed3) as a
+RT   novel Axin-interacting protein that activates Wnt/beta-catenin
+RT   signaling.";
+RL   J. Biol. Chem. 284:6683-6689(2009).
+RN   [13]
+RP   FUNCTION.
+RX   PubMed=20123978; DOI=10.1128/MCB.01047-09;
+RA   Kurabayashi N., Hirota T., Sakai M., Sanada K., Fukada Y.;
+RT   "DYRK1A and glycogen synthase kinase 3beta, a dual-kinase mechanism
+RT   directing proteasomal degradation of CRY2 for circadian timekeeping.";
+RL   Mol. Cell. Biol. 30:1757-1768(2010).
+RN   [14]
+RP   FUNCTION, AND INTERACTION WITH ARNTL/BMAL1.
+RX   PubMed=20049328; DOI=10.1371/journal.pone.0008561;
+RA   Sahar S., Zocchi L., Kinoshita C., Borrelli E., Sassone-Corsi P.;
+RT   "Regulation of BMAL1 protein stability and circadian function by
+RT   GSK3beta-mediated phosphorylation.";
+RL   PLoS ONE 5:E8561-E8561(2010).
+RN   [15]
+RP   FUNCTION.
+RX   PubMed=21295697; DOI=10.1016/j.cell.2010.12.033;
+RA   Wu X., Shen Q.T., Oristian D.S., Lu C.P., Zheng Q., Wang H.W.,
+RA   Fuchs E.;
+RT   "Skin stem cells orchestrate directional migration by regulating
+RT   microtubule-ACF7 connections through GSK3beta.";
+RL   Cell 144:341-352(2011).
+RN   [16]
+RP   FUNCTION IN PHOSPHORYLATION OF DPYSL2, PHOSPHORYLATION AT SER-9, AND
+RP   MUTAGENESIS OF SER-9.
+RX   PubMed=22057101; DOI=10.1038/ncb2373;
+RA   Wakatsuki S., Saitoh F., Araki T.;
+RT   "ZNRF1 promotes Wallerian degeneration by degrading AKT to induce
+RT   GSK3B-dependent CRMP2 phosphorylation.";
+RL   Nat. Cell Biol. 13:1415-1423(2011).
+RN   [17]
+RP   FUNCTION, AND PHOSPHORYLATION AT SER-9.
+RX   PubMed=23395175; DOI=10.1016/j.cmet.2012.12.017;
+RA   Kaasik K., Kivimae S., Allen J.J., Chalkley R.J., Huang Y., Baer K.,
+RA   Kissel H., Burlingame A.L., Shokat K.M., Ptacek L.J., Fu Y.H.;
+RT   "Glucose sensor O-GlcNAcylation coordinates with phosphorylation to
+RT   regulate circadian clock.";
+RL   Cell Metab. 17:291-302(2013).
+CC   -!- FUNCTION: Constitutively active protein kinase that acts as a
+CC       negative regulator in the hormonal control of glucose homeostasis,
+CC       Wnt signaling and regulation of transcription factors and
+CC       microtubules, by phosphorylating and inactivating glycogen
+CC       synthase (GYS1 or GYS2), EIF2B, CTNNB1/beta-catenin, APC, AXIN1,
+CC       DPYSL2/CRMP2, JUN, NFATC1/NFATC, MAPT/TAU and MACF1. Requires
+CC       primed phosphorylation of the majority of its substrates. In
+CC       skeletal muscle, contributes to insulin regulation of glycogen
+CC       synthesis by phosphorylating and inhibiting GYS1 activity and
+CC       hence glycogen synthesis. May also mediate the development of
+CC       insulin resistance by regulating activation of transcription
+CC       factors. Regulates protein synthesis by controlling the activity
+CC       of initiation factor 2B (EIF2BE/EIF2B5) in the same manner as
+CC       glycogen synthase. In Wnt signaling, GSK3B forms a multimeric
+CC       complex with APC, AXIN1 and CTNNB1/beta-catenin and phosphorylates
+CC       the N-terminus of CTNNB1 leading to its degradation mediated by
+CC       ubiquitin/proteasomes. Phosphorylates JUN at sites proximal to its
+CC       DNA-binding domain, thereby reducing its affinity for DNA.
+CC       Phosphorylates NFATC1/NFATC on conserved serine residues promoting
+CC       NFATC1/NFATC nuclear export, shutting off NFATC1/NFATC gene
+CC       regulation, and thereby opposing the action of calcineurin.
+CC       Phosphorylates MAPT/TAU on 'Thr-548', decreasing significantly
+CC       MAPT/TAU ability to bind and stabilize microtubules. Plays an
+CC       important role in ERBB2-dependent stabilization of microtubules at
+CC       the cell cortex. Phosphorylates MACF1, inhibiting its binding to
+CC       microtubules which is critical for its role in bulge stem cell
+CC       migration and skin wound repair. Probably regulates NF-kappa-B
+CC       (NFKB1) at the transcriptional level and is required for the NF-
+CC       kappa-B-mediated anti-apoptotic response to TNF-alpha (TNF/TNFA).
+CC       Negatively regulates replication in pancreatic beta-cells,
+CC       resulting in apoptosis, loss of beta-cells. Through
+CC       phosphorylation of the anti-apoptotic protein MCL1, may control
+CC       cell apoptosis in response to growth factors deprivation.
+CC       Phosphorylates MUC1 in breast cancer cells, decreasing the
+CC       interaction of MUC1 with CTNNB1/beta-catenin. Is necessary for the
+CC       establishment of neuronal polarity and axon outgrowth.
+CC       Phosphorylates MARK2, leading to inhibit its activity.
+CC       Phosphorylates SIK1 at 'Thr-182', leading to sustain its activity.
+CC       Phosphorylates ZC3HAV1 which enhances its antiviral activity.
+CC       Phosphorylates SFPQ at 'Thr-679' upon T-cell activation.
+CC       Phosphorylates SNAI1, leading to its BTRC-triggered ubiquitination
+CC       and proteasomal degradation. Phosphorylates NR1D1 st 'Ser-55' and
+CC       'Ser-59' and stabilizes it by protecting it from proteasomal
+CC       degradation. Regulates the circadian clock via phosphorylation of
+CC       the major clock components including ARNTL/BMAL1, CLOCK and PER2.
+CC       Phosphorylates CLOCK AT 'Ser-427' and targets it for proteasomal
+CC       degradation. Phosphorylates ARNTL/BMAL1 at 'Ser-17' and 'Ser-21'
+CC       and primes it for ubiquitination and proteasomal degradation.
+CC       Phosphorylates OGT at 'Ser-3' or 'Ser-4' which positively
+CC       regulates its activity. {ECO:0000269|PubMed:10894547,
+CC       ECO:0000269|PubMed:15791206, ECO:0000269|PubMed:16543145,
+CC       ECO:0000269|PubMed:17391670, ECO:0000269|PubMed:18288891,
+CC       ECO:0000269|PubMed:20049328, ECO:0000269|PubMed:20123978,
+CC       ECO:0000269|PubMed:21295697, ECO:0000269|PubMed:22057101,
+CC       ECO:0000269|PubMed:23395175}.
+CC   -!- CATALYTIC ACTIVITY: ATP + [tau protein] = ADP + [tau protein]
+CC       phosphate.
+CC   -!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+CC   -!- ENZYME REGULATION: Activated by phosphorylation at Tyr-216. In
+CC       response to insulin, inhibited by phosphorylation at Ser-9 by
+CC       PKB/AKT1 and RPS6KA3; phosphorylation at this site causes a
+CC       conformational change, preventing access of substrates to the
+CC       active site. Inhibited by lithium.
+CC   -!- SUBUNIT: Monomer. Interacts with DAB2IP (via C2 domain); the
+CC       interaction stimulates GSK3B kinase activation. Interacts (via C2
+CC       domain) with PPP2CA (By similarity). Interacts with CABYR, MMP2,
+CC       MUC1, NIN and PRUNE (By similarity). Interacts with AXIN1; the
+CC       interaction mediates hyperphosphorylation of CTNNB1 leading to its
+CC       ubiquitination and destruction. Interacts with and phosphorylates
+CC       SNAI1. Interacts with DNM1L (via a C-terminal domain) (By
+CC       similarity). Interacts with ARRB2 and DISC1. Found in a complex
+CC       composed of MACF1, APC, AXIN1, CTNNB1 and GSK3B (By similarity).
+CC       Interacts with SGK3. Interacts with the CLOCK-ARNTL/BMAL1
+CC       heterodimer (By similarity). Interacts with AXIN1 and ZBED3.
+CC       Interacts with the ARNTL/BMAL1. {ECO:0000250,
+CC       ECO:0000269|PubMed:16051150, ECO:0000269|PubMed:19141611,
+CC       ECO:0000269|PubMed:19303846, ECO:0000269|PubMed:20049328}.
+CC   -!- INTERACTION:
+CC       Q02248:Ctnnb1; NbExp=2; IntAct=EBI-400793, EBI-397872;
+CC       Q9WUA5:Epm2a; NbExp=2; IntAct=EBI-400793, EBI-1040928;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250}. Nucleus
+CC       {ECO:0000250}. Cell membrane {ECO:0000250}. Note=The
+CC       phosphorylated form shows localization to cytoplasm and cell
+CC       membrane. The MEMO1-RHOA-DIAPH1 signaling pathway controls
+CC       localization of the phosphorylated form to the cell membrane (By
+CC       similarity). {ECO:0000250}.
+CC   -!- PTM: Phosphorylated by AKT1 and ILK1. Upon insulin-mediated
+CC       signaling, the activated PKB/AKT1 protein kinase phosphorylates
+CC       and desactivates GSK3B, resulting in the dephosphorylation and
+CC       activation of GYS1. Activated by phosphorylation at Tyr-216.
+CC       Phosphorylation of Ser-9 in the hippocampus peaks at CT0, whereas
+CC       in the liver it peaks at CT12. {ECO:0000269|PubMed:22057101,
+CC       ECO:0000269|PubMed:23395175}.
+CC   -!- PTM: Mono-ADP-ribosylation by PARP10 negatively regulates kinase
+CC       activity. {ECO:0000250}.
+CC   -!- DISRUPTION PHENOTYPE: Embryonic lethality at E16 due to hepatocyte
+CC       apoptosis. {ECO:0000269|PubMed:10894547}.
+CC   -!- SIMILARITY: Belongs to the protein kinase superfamily. CMGC
+CC       Ser/Thr protein kinase family. GSK-3 subfamily. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 protein kinase domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00159}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF156099; AAD39258.2; -; mRNA.
+DR   EMBL; BC006936; AAH06936.1; -; mRNA.
+DR   EMBL; BC060743; AAH60743.1; -; mRNA.
+DR   CCDS; CCDS28163.1; -.
+DR   RefSeq; NP_062801.1; NM_019827.6.
+DR   UniGene; Mm.394930; -.
+DR   PDB; 4NU1; X-ray; 2.50 A; A=1-383.
+DR   PDB; 5AIR; X-ray; 2.53 A; A/B=4-420.
+DR   PDBsum; 4NU1; -.
+DR   PDBsum; 5AIR; -.
+DR   ProteinModelPortal; Q9WV60; -.
+DR   SMR; Q9WV60; 6-386.
+DR   BioGrid; 208115; 27.
+DR   IntAct; Q9WV60; 20.
+DR   MINT; MINT-4096935; -.
+DR   STRING; 10090.ENSMUSP00000023507; -.
+DR   BindingDB; Q9WV60; -.
+DR   ChEMBL; CHEMBL1075321; -.
+DR   PhosphoSite; Q9WV60; -.
+DR   MaxQB; Q9WV60; -.
+DR   PaxDb; Q9WV60; -.
+DR   PRIDE; Q9WV60; -.
+DR   Ensembl; ENSMUST00000023507; ENSMUSP00000023507; ENSMUSG00000022812.
+DR   GeneID; 56637; -.
+DR   KEGG; mmu:56637; -.
+DR   UCSC; uc007zen.1; mouse.
+DR   CTD; 2932; -.
+DR   MGI; MGI:1861437; Gsk3b.
+DR   eggNOG; COG0515; -.
+DR   GeneTree; ENSGT00520000055635; -.
+DR   HOGENOM; HOG000233017; -.
+DR   HOVERGEN; HBG014652; -.
+DR   InParanoid; Q9WV60; -.
+DR   KO; K03083; -.
+DR   OrthoDB; EOG7TF78V; -.
+DR   PhylomeDB; Q9WV60; -.
+DR   TreeFam; TF101104; -.
+DR   BRENDA; 2.7.11.26; 3474.
+DR   Reactome; REACT_272921; Regulation of HSF1-mediated heat shock response.
+DR   Reactome; REACT_274287; Degradation of beta-catenin by the destruction complex.
+DR   Reactome; REACT_294625; Ubiquitin-dependent degradation of Cyclin D1.
+DR   Reactome; REACT_303008; Beta-catenin phosphorylation cascade.
+DR   Reactome; REACT_310780; Degradation of GLI2 by the proteasome.
+DR   Reactome; REACT_314392; CRMPs in Sema3A signaling.
+DR   Reactome; REACT_317277; disassembly of the destruction complex and recruitment of AXIN to the membrane.
+DR   Reactome; REACT_320952; AKT phosphorylates targets in the cytosol.
+DR   Reactome; REACT_353777; GLI3 is processed to GLI3R by the proteasome.
+DR   ChiTaRS; Gsk3b; mouse.
+DR   NextBio; 313081; -.
+DR   PMAP-CutDB; Q9WV60; -.
+DR   PRO; PR:Q9WV60; -.
+DR   Proteomes; UP000000589; Chromosome 16.
+DR   Bgee; Q9WV60; -.
+DR   CleanEx; MM_GSK3B; -.
+DR   ExpressionAtlas; Q9WV60; baseline and differential.
+DR   Genevisible; Q9WV60; MM.
+DR   GO; GO:0030877; C:beta-catenin destruction complex; IDA:MGI.
+DR   GO; GO:0044297; C:cell body; IDA:MGI.
+DR   GO; GO:0005813; C:centrosome; ISO:MGI.
+DR   GO; GO:0005737; C:cytoplasm; ISS:UniProtKB.
+DR   GO; GO:0005829; C:cytosol; IDA:MGI.
+DR   GO; GO:0043198; C:dendritic shaft; IDA:MGI.
+DR   GO; GO:0030426; C:growth cone; IDA:MGI.
+DR   GO; GO:0016020; C:membrane; ISS:UniProtKB.
+DR   GO; GO:0043227; C:membrane-bounded organelle; IDA:MGI.
+DR   GO; GO:0043025; C:neuronal cell body; IDA:MGI.
+DR   GO; GO:0097481; C:neuronal postsynaptic density; IDA:MGI.
+DR   GO; GO:0005654; C:nucleoplasm; ISO:MGI.
+DR   GO; GO:0005634; C:nucleus; ISS:UniProtKB.
+DR   GO; GO:0048471; C:perinuclear region of cytoplasm; IDA:BHF-UCL.
+DR   GO; GO:0005886; C:plasma membrane; ISS:UniProtKB.
+DR   GO; GO:0030529; C:ribonucleoprotein complex; IDA:MGI.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0008013; F:beta-catenin binding; IPI:MGI.
+DR   GO; GO:0016301; F:kinase activity; ISS:UniProtKB.
+DR   GO; GO:0051059; F:NF-kappaB binding; ISO:MGI.
+DR   GO; GO:0002039; F:p53 binding; ISO:MGI.
+DR   GO; GO:0034236; F:protein kinase A catalytic subunit binding; ISO:MGI.
+DR   GO; GO:0004672; F:protein kinase activity; IDA:MGI.
+DR   GO; GO:0019901; F:protein kinase binding; ISO:MGI.
+DR   GO; GO:0004674; F:protein serine/threonine kinase activity; IDA:UniProtKB.
+DR   GO; GO:0001085; F:RNA polymerase II transcription factor binding; ISO:MGI.
+DR   GO; GO:0050321; F:tau-protein kinase activity; IDA:MGI.
+DR   GO; GO:0031625; F:ubiquitin protein ligase binding; ISO:MGI.
+DR   GO; GO:0007409; P:axonogenesis; IGI:MGI.
+DR   GO; GO:0060070; P:canonical Wnt signaling pathway; IDA:MGI.
+DR   GO; GO:0044337; P:canonical Wnt signaling pathway involved in positive regulation of apoptotic process; IMP:BHF-UCL.
+DR   GO; GO:0016477; P:cell migration; IGI:MGI.
+DR   GO; GO:0008283; P:cell proliferation; TAS:MGI.
+DR   GO; GO:0036016; P:cellular response to interleukin-3; IDA:UniProtKB.
+DR   GO; GO:0007623; P:circadian rhythm; IMP:UniProtKB.
+DR   GO; GO:0007010; P:cytoskeleton organization; TAS:UniProtKB.
+DR   GO; GO:0001837; P:epithelial to mesenchymal transition; ISS:UniProtKB.
+DR   GO; GO:0006983; P:ER overload response; IDA:MGI.
+DR   GO; GO:0097192; P:extrinsic apoptotic signaling pathway in absence of ligand; IDA:UniProtKB.
+DR   GO; GO:0045444; P:fat cell differentiation; IDA:MGI.
+DR   GO; GO:0005977; P:glycogen metabolic process; ISO:MGI.
+DR   GO; GO:0021766; P:hippocampus development; ISO:MGI.
+DR   GO; GO:0044027; P:hypermethylation of CpG island; IMP:BHF-UCL.
+DR   GO; GO:0035556; P:intracellular signal transduction; ISO:MGI.
+DR   GO; GO:0070059; P:intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress; IDA:CACAO.
+DR   GO; GO:0007520; P:myoblast fusion; IDA:MGI.
+DR   GO; GO:0014902; P:myotube differentiation; IGI:MGI.
+DR   GO; GO:0043066; P:negative regulation of apoptotic process; IMP:MGI.
+DR   GO; GO:0010614; P:negative regulation of cardiac muscle hypertrophy; IDA:MGI.
+DR   GO; GO:0014043; P:negative regulation of neuron maturation; IGI:MGI.
+DR   GO; GO:0010977; P:negative regulation of neuron projection development; IMP:MGI.
+DR   GO; GO:0051534; P:negative regulation of NFAT protein import into nucleus; ISS:UniProtKB.
+DR   GO; GO:0032091; P:negative regulation of protein binding; ISO:MGI.
+DR   GO; GO:0031333; P:negative regulation of protein complex assembly; ISO:MGI.
+DR   GO; GO:0009968; P:negative regulation of signal transduction; IEA:UniProtKB-KW.
+DR   GO; GO:0009887; P:organ morphogenesis; IMP:MGI.
+DR   GO; GO:0018105; P:peptidyl-serine phosphorylation; IDA:UniProtKB.
+DR   GO; GO:0016310; P:phosphorylation; IMP:UniProtKB.
+DR   GO; GO:0045773; P:positive regulation of axon extension; IGI:MGI.
+DR   GO; GO:0001954; P:positive regulation of cell-matrix adhesion; ISO:MGI.
+DR   GO; GO:0043547; P:positive regulation of GTPase activity; ISO:MGI.
+DR   GO; GO:1901030; P:positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway; IDA:UniProtKB.
+DR   GO; GO:0033138; P:positive regulation of peptidyl-serine phosphorylation; IDA:MGI.
+DR   GO; GO:0010800; P:positive regulation of peptidyl-threonine phosphorylation; IDA:MGI.
+DR   GO; GO:0032436; P:positive regulation of proteasomal ubiquitin-dependent protein catabolic process; IGI:MGI.
+DR   GO; GO:0032092; P:positive regulation of protein binding; IDA:MGI.
+DR   GO; GO:0031334; P:positive regulation of protein complex assembly; ISO:MGI.
+DR   GO; GO:0046827; P:positive regulation of protein export from nucleus; ISO:MGI.
+DR   GO; GO:2000738; P:positive regulation of stem cell differentiation; IMP:MGI.
+DR   GO; GO:0045944; P:positive regulation of transcription from RNA polymerase II promoter; IMP:BHF-UCL.
+DR   GO; GO:0046777; P:protein autophosphorylation; ISO:MGI.
+DR   GO; GO:0006611; P:protein export from nucleus; IDA:MGI.
+DR   GO; GO:0035372; P:protein localization to microtubule; IGI:MGI.
+DR   GO; GO:0006468; P:protein phosphorylation; IMP:UniProtKB.
+DR   GO; GO:0000320; P:re-entry into mitotic cell cycle; IDA:MGI.
+DR   GO; GO:0006349; P:regulation of gene expression by genetic imprinting; IMP:BHF-UCL.
+DR   GO; GO:0032886; P:regulation of microtubule-based process; IDA:UniProtKB.
+DR   GO; GO:0010975; P:regulation of neuron projection development; IGI:MGI.
+DR   GO; GO:0071109; P:superior temporal gyrus development; ISO:MGI.
+DR   GO; GO:0016055; P:Wnt signaling pathway; IGI:MGI.
+DR   InterPro; IPR011009; Kinase-like_dom.
+DR   InterPro; IPR000719; Prot_kinase_dom.
+DR   InterPro; IPR017441; Protein_kinase_ATP_BS.
+DR   InterPro; IPR002290; Ser/Thr_dual-sp_kinase.
+DR   InterPro; IPR008271; Ser/Thr_kinase_AS.
+DR   Pfam; PF00069; Pkinase; 1.
+DR   SMART; SM00220; S_TKc; 1.
+DR   SUPFAM; SSF56112; SSF56112; 1.
+DR   PROSITE; PS00107; PROTEIN_KINASE_ATP; 1.
+DR   PROSITE; PS50011; PROTEIN_KINASE_DOM; 1.
+DR   PROSITE; PS00108; PROTEIN_KINASE_ST; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; ADP-ribosylation; ATP-binding; Biological rhythms;
+KW   Carbohydrate metabolism; Cell membrane; Complete proteome; Cytoplasm;
+KW   Developmental protein; Differentiation; Glycogen metabolism; Kinase;
+KW   Membrane; Neurogenesis; Nucleotide-binding; Nucleus; Phosphoprotein;
+KW   Reference proteome; Serine/threonine-protein kinase;
+KW   Signal transduction inhibitor; Transferase; Wnt signaling pathway.
+FT   CHAIN         1    420       Glycogen synthase kinase-3 beta.
+FT                                /FTId=PRO_0000085981.
+FT   DOMAIN       56    340       Protein kinase. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00159}.
+FT   NP_BIND      62     70       ATP. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00159}.
+FT   ACT_SITE    181    181       Proton acceptor. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00159, ECO:0000255|PROSITE-
+FT                                ProRule:PRU10027}.
+FT   BINDING      85     85       ATP. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00159}.
+FT   MOD_RES       9      9       Phosphoserine; by PKB/AKT1, RPS6KA3 and
+FT                                SGK3. {ECO:0000269|PubMed:22057101,
+FT                                ECO:0000269|PubMed:23395175}.
+FT   MOD_RES     216    216       Phosphotyrosine.
+FT                                {ECO:0000250|UniProtKB:P49841}.
+FT   MOD_RES     389    389       Phosphoserine.
+FT                                {ECO:0000269|PubMed:15345747}.
+FT   MUTAGEN       9      9       S->A: Loss of phosphorylation; No
+FT                                inhibition of activity and constitutively
+FT                                active. {ECO:0000269|PubMed:15791206,
+FT                                ECO:0000269|PubMed:22057101}.
+FT   MUTAGEN      85     85       K->R: Inhibits interaction with AXIN1 and
+FT                                ZBED3. {ECO:0000269|PubMed:19141611}.
+FT   STRAND       27     29       {ECO:0000244|PDB:5AIR}.
+FT   STRAND       38     48       {ECO:0000244|PDB:4NU1}.
+FT   STRAND       52     64       {ECO:0000244|PDB:4NU1}.
+FT   STRAND       69     75       {ECO:0000244|PDB:4NU1}.
+FT   TURN         76     78       {ECO:0000244|PDB:4NU1}.
+FT   STRAND       81     88       {ECO:0000244|PDB:4NU1}.
+FT   HELIX        97    101       {ECO:0000244|PDB:4NU1}.
+FT   STRAND      112    118       {ECO:0000244|PDB:4NU1}.
+FT   STRAND      121    124       {ECO:0000244|PDB:5AIR}.
+FT   STRAND      127    133       {ECO:0000244|PDB:4NU1}.
+FT   HELIX       139    148       {ECO:0000244|PDB:4NU1}.
+FT   HELIX       155    173       {ECO:0000244|PDB:4NU1}.
+FT   TURN        174    176       {ECO:0000244|PDB:4NU1}.
+FT   HELIX       184    186       {ECO:0000244|PDB:4NU1}.
+FT   STRAND      187    190       {ECO:0000244|PDB:4NU1}.
+FT   TURN        191    194       {ECO:0000244|PDB:4NU1}.
+FT   STRAND      195    198       {ECO:0000244|PDB:4NU1}.
+FT   HELIX       201    203       {ECO:0000244|PDB:5AIR}.
+FT   HELIX       220    222       {ECO:0000244|PDB:5AIR}.
+FT   HELIX       225    228       {ECO:0000244|PDB:4NU1}.
+FT   HELIX       237    252       {ECO:0000244|PDB:4NU1}.
+FT   HELIX       262    273       {ECO:0000244|PDB:4NU1}.
+FT   HELIX       278    284       {ECO:0000244|PDB:4NU1}.
+FT   HELIX       286    288       {ECO:0000244|PDB:4NU1}.
+FT   HELIX       301    304       {ECO:0000244|PDB:4NU1}.
+FT   HELIX       311    320       {ECO:0000244|PDB:4NU1}.
+FT   HELIX       325    327       {ECO:0000244|PDB:4NU1}.
+FT   HELIX       331    335       {ECO:0000244|PDB:4NU1}.
+FT   HELIX       338    340       {ECO:0000244|PDB:4NU1}.
+FT   HELIX       341    344       {ECO:0000244|PDB:4NU1}.
+FT   TURN        364    367       {ECO:0000244|PDB:4NU1}.
+FT   HELIX       371    373       {ECO:0000244|PDB:4NU1}.
+FT   HELIX       374    377       {ECO:0000244|PDB:4NU1}.
+FT   HELIX       380    382       {ECO:0000244|PDB:4NU1}.
+SQ   SEQUENCE   420 AA;  46710 MW;  200C3FD1B38B4883 CRC64;
+     MSGRPRTTSF AESCKPVQQP SAFGSMKVSR DKDGSKVTTV VATPGQGPDR PQEVSYTDTK
+     VIGNGSFGVV YQAKLCDSGE LVAIKKVLQD KRFKNRELQI MRKLDHCNIV RLRYFFYSSG
+     EKKDEVYLNL VLDYVPETVY RVARHYSRAK QTLPVIYVKL YMYQLFRSLA YIHSFGICHR
+     DIKPQNLLLD PDTAVLKLCD FGSAKQLVRG EPNVSYICSR YYRAPELIFG ATDYTSSIDV
+     WSAGCVLAEL LLGQPIFPGD SGVDQLVEII KVLGTPTREQ IREMNPNYTE FKFPQIKAHP
+     WTKVFRPRTP PEAIALCSRL LEYTPTARLT PLEACAHSFF DELRDPNVKL PNGRDTPALF
+     NFTTQELSSN PPLATILIPP HARIQAAASP PANATAASDT NAGDRGQTNN AASASASNST
+//

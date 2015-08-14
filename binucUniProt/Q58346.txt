@@ -1,0 +1,148 @@
+ID   P936_METJA              Reviewed;         166 AA.
+AC   Q58346;
+DT   01-NOV-1997, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   22-JUL-2015, entry version 102.
+DE   RecName: Full=Phosphodiesterase MJ0936;
+DE            EC=3.1.4.-;
+GN   OrderedLocusNames=MJ0936;
+OS   Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 /
+OS   JCM 10045 / NBRC 100440) (Methanococcus jannaschii).
+OC   Archaea; Euryarchaeota; Methanococci; Methanococcales;
+OC   Methanocaldococcaceae; Methanocaldococcus.
+OX   NCBI_TaxID=243232;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440;
+RX   PubMed=8688087; DOI=10.1126/science.273.5278.1058;
+RA   Bult C.J., White O., Olsen G.J., Zhou L., Fleischmann R.D.,
+RA   Sutton G.G., Blake J.A., FitzGerald L.M., Clayton R.A., Gocayne J.D.,
+RA   Kerlavage A.R., Dougherty B.A., Tomb J.-F., Adams M.D., Reich C.I.,
+RA   Overbeek R., Kirkness E.F., Weinstock K.G., Merrick J.M., Glodek A.,
+RA   Scott J.L., Geoghagen N.S.M., Weidman J.F., Fuhrmann J.L., Nguyen D.,
+RA   Utterback T.R., Kelley J.M., Peterson J.D., Sadow P.W., Hanna M.C.,
+RA   Cotton M.D., Roberts K.M., Hurst M.A., Kaine B.P., Borodovsky M.,
+RA   Klenk H.-P., Fraser C.M., Smith H.O., Woese C.R., Venter J.C.;
+RT   "Complete genome sequence of the methanogenic archaeon, Methanococcus
+RT   jannaschii.";
+RL   Science 273:1058-1073(1996).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS) OF 1-165 OF NATIVE PROTEIN AND
+RP   IN COMPLEXES WITH NICKEL AND MANGANESE, FUNCTION, COFACTOR, AND
+RP   BIOPHYSICOCHEMICAL PROPERTIES.
+RC   STRAIN=ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440;
+RX   PubMed=15128743; DOI=10.1074/jbc.M401059200;
+RA   Chen S., Yakunin A.F., Kuznetsova E., Busso D., Pufan R.,
+RA   Proudfoot M., Kim R., Kim S.-H.;
+RT   "Structural and functional characterization of a novel
+RT   phosphodiesterase from Methanococcus jannaschii.";
+RL   J. Biol. Chem. 279:31854-31862(2004).
+CC   -!- FUNCTION: Shows phosphodiesterase activity, hydrolyzing
+CC       phosphodiesters bonds in the artificial chromogenic substrates
+CC       bis-p-nitrophenyl phosphate (bis-pNPP), and less efficiently
+CC       thymidine 5'-monophosphate p-nitrophenyl ester (pNP-TMP) and p-
+CC       nitrophenylphosphorylcholine (pNPPC). No catalytic activity was
+CC       found toward cAMP or cGMP, nucleotides or phospholipase substrates
+CC       such as phosphatidylcholine. The physiological substrate is
+CC       unknown. {ECO:0000269|PubMed:15128743}.
+CC   -!- COFACTOR:
+CC       Name=Ni(2+); Xref=ChEBI:CHEBI:49786;
+CC         Evidence={ECO:0000269|PubMed:15128743};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000269|PubMed:15128743};
+CC       Note=Binds 2 divalent metal ions per subunit. Most effective are
+CC       nickel and manganese. {ECO:0000269|PubMed:15128743};
+CC   -!- ENZYME REGULATION: Competitively inhibited by phosphate.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=0.15 mM for bis-pNPP (in the presence of Ni(2+))
+CC         {ECO:0000269|PubMed:15128743};
+CC         KM=0.035 mM for pNP-TMP (in the presence of Ni(2+))
+CC         {ECO:0000269|PubMed:15128743};
+CC         KM=3.33 mM for pNPPC (in the presence of Ni(2+))
+CC         {ECO:0000269|PubMed:15128743};
+CC         KM=1.53 mM for pNPPC (in the presence of Mn(2+))
+CC         {ECO:0000269|PubMed:15128743};
+CC       pH dependence:
+CC         Optimum pH is 9.4-9.8. {ECO:0000269|PubMed:15128743};
+CC   -!- SUBUNIT: Monomer. {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the metallophosphoesterase superfamily.
+CC       YfcE family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; L77117; AAB98941.1; -; Genomic_DNA.
+DR   PIR; H64416; H64416.
+DR   RefSeq; NP_247931.1; NC_000909.1.
+DR   RefSeq; WP_010870450.1; NC_000909.1.
+DR   PDB; 1S3L; X-ray; 2.40 A; A/B=1-165.
+DR   PDB; 1S3M; X-ray; 2.50 A; A/B=1-165.
+DR   PDB; 1S3N; X-ray; 2.50 A; A/B=1-165.
+DR   PDB; 2AHD; X-ray; 3.00 A; A/B/C/D=1-165.
+DR   PDBsum; 1S3L; -.
+DR   PDBsum; 1S3M; -.
+DR   PDBsum; 1S3N; -.
+DR   PDBsum; 2AHD; -.
+DR   ProteinModelPortal; Q58346; -.
+DR   SMR; Q58346; 1-165.
+DR   STRING; 243232.MJ_0936; -.
+DR   EnsemblBacteria; AAB98941; AAB98941; MJ_0936.
+DR   GeneID; 1451832; -.
+DR   KEGG; mja:MJ_0936; -.
+DR   eggNOG; COG0622; -.
+DR   InParanoid; Q58346; -.
+DR   KO; K07095; -.
+DR   OMA; VIHCGDF; -.
+DR   PhylomeDB; Q58346; -.
+DR   BRENDA; 3.1.4.1; 3260.
+DR   SABIO-RK; Q58346; -.
+DR   EvolutionaryTrace; Q58346; -.
+DR   Proteomes; UP000000805; Chromosome.
+DR   GO; GO:0016787; F:hydrolase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.60.21.10; -; 1.
+DR   InterPro; IPR004843; Calcineurin-like_PHP_apaH.
+DR   InterPro; IPR029052; Metallo-depent_PP-like.
+DR   InterPro; IPR020935; PdiEstase_YfcE_CS.
+DR   InterPro; IPR000979; Phosphodiesterase_MJ0936/Vps29.
+DR   PANTHER; PTHR11124; PTHR11124; 1.
+DR   Pfam; PF00149; Metallophos; 1.
+DR   SUPFAM; SSF56300; SSF56300; 1.
+DR   TIGRFAMs; TIGR00040; yfcE; 1.
+DR   PROSITE; PS01269; UPF0025; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Hydrolase; Manganese; Metal-binding;
+KW   Nickel; Reference proteome.
+FT   CHAIN         1    166       Phosphodiesterase MJ0936.
+FT                                /FTId=PRO_0000155612.
+FT   METAL         8      8       Nickel or manganese 1.
+FT   METAL        10     10       Nickel or manganese 1.
+FT   METAL        36     36       Nickel or manganese 1.
+FT   METAL        36     36       Nickel or manganese 2.
+FT   METAL        59     59       Nickel or manganese 2.
+FT   METAL        97     97       Nickel or manganese 2.
+FT   METAL       120    120       Nickel or manganese 2.
+FT   METAL       122    122       Nickel or manganese 1.
+FT   STRAND        2      6       {ECO:0000244|PDB:1S3L}.
+FT   HELIX        13     25       {ECO:0000244|PDB:1S3L}.
+FT   STRAND       29     33       {ECO:0000244|PDB:1S3L}.
+FT   HELIX        41     45       {ECO:0000244|PDB:1S3L}.
+FT   HELIX        46     48       {ECO:0000244|PDB:1S3L}.
+FT   STRAND       50     56       {ECO:0000244|PDB:1S3L}.
+FT   HELIX        64     74       {ECO:0000244|PDB:1S3L}.
+FT   STRAND       79     88       {ECO:0000244|PDB:1S3L}.
+FT   STRAND       91     98       {ECO:0000244|PDB:1S3L}.
+FT   HELIX       101    110       {ECO:0000244|PDB:1S3L}.
+FT   STRAND      114    119       {ECO:0000244|PDB:1S3L}.
+FT   STRAND      125    129       {ECO:0000244|PDB:1S3L}.
+FT   STRAND      132    136       {ECO:0000244|PDB:1S3L}.
+FT   TURN        143    145       {ECO:0000244|PDB:1S3L}.
+FT   STRAND      149    154       {ECO:0000244|PDB:1S3L}.
+FT   TURN        155    158       {ECO:0000244|PDB:1S3L}.
+FT   STRAND      159    164       {ECO:0000244|PDB:1S3L}.
+SQ   SEQUENCE   166 AA;  19039 MW;  1F92D7A501EEA315 CRC64;
+     MKIGIMSDTH DHLPNIRKAI EIFNDENVET VIHCGDFVSL FVIKEFENLN ANIIATYGNN
+     DGERCKLKEW LKDINEENII DDFISVEIDD LKFFITHGHH QSVLEMAIKS GLYDVVIYGH
+     THERVFEEVD DVLVINPGEC CGYLTGIPTI GILDTEKKEY REIVLE
+//

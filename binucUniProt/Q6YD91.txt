@@ -1,0 +1,107 @@
+ID   Q6YD91_ERYCG            Unreviewed;       242 AA.
+AC   Q6YD91;
+DT   05-JUL-2004, integrated into UniProtKB/TrEMBL.
+DT   05-JUL-2004, sequence version 1.
+DT   04-MAR-2015, entry version 67.
+DE   SubName: Full=Lectin {ECO:0000313|EMBL:AAO16568.1};
+DE   Flags: Fragment;
+GN   Name=ECL {ECO:0000313|EMBL:AAO16568.1};
+OS   Erythrina crista-galli (Cockspur coral tree) (Micropteryx
+OS   crista-galli).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+OC   Phaseoleae; Erythrina.
+OX   NCBI_TaxID=49817 {ECO:0000313|EMBL:AAO16568.1};
+RN   [1] {ECO:0000313|EMBL:AAO16568.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=12880778; DOI=10.1016/S1046-5928(03)00125-6;
+RA   Stancombe P.R., Alexander F.C., Ling R., Matheson M.A., Shone C.C.,
+RA   Chaddock J.A.;
+RT   "Isolation of the gene and large-scale expression and purification of
+RT   recombinant Erythrina cristagalli lectin.";
+RL   Protein Expr. Purif. 30:283-292(2003).
+RN   [2] {ECO:0000213|PDB:1UZY, ECO:0000213|PDB:1UZZ, ECO:0000213|PDB:1V00}
+RP   X-RAY CRYSTALLOGRAPHY (1.70 ANGSTROMS) IN COMPLEX WITH CALCIUM;
+RP   GALACTOSE AND MANGANESE, AND GLYCOSYLATION AT ASN-113.
+RX   PubMed=15201215; DOI=10.1093/glycob/cwh114;
+RA   Turton K., Natesh R., Thiyagarajan N., Chaddock J.A., Acharya K.R.;
+RT   "Crystal structures of Erythrina cristagalli lectin with bound N-
+RT   linked oligosaccharide and lactose.";
+RL   Glycobiology 14:923-929(2004).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AY158072; AAO16568.1; -; Genomic_DNA.
+DR   PDB; 1UZY; X-ray; 2.00 A; A/B=1-242.
+DR   PDB; 1UZZ; X-ray; 2.13 A; A/B/C/D=1-242.
+DR   PDB; 1V00; X-ray; 1.70 A; A/B/C/D=1-242.
+DR   PDBsum; 1UZY; -.
+DR   PDBsum; 1UZZ; -.
+DR   PDBsum; 1V00; -.
+DR   ProteinModelPortal; Q6YD91; -.
+DR   EvolutionaryTrace; Q6YD91; -.
+DR   GO; GO:0030246; F:carbohydrate binding; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 2.60.120.200; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR016363; Lectin.
+DR   InterPro; IPR000985; Lectin_LegA_CS.
+DR   InterPro; IPR019825; Lectin_legB_Mn/Ca_BS.
+DR   InterPro; IPR001220; Legume_lectin_dom.
+DR   Pfam; PF00139; Lectin_legB; 1.
+DR   PIRSF; PIRSF002690; L-type_lectin_plant; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   PROSITE; PS00308; LECTIN_LEGUME_ALPHA; 1.
+DR   PROSITE; PS00307; LECTIN_LEGUME_BETA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:1UZY, ECO:0000213|PDB:1UZZ};
+KW   Calcium {ECO:0000213|PDB:1UZY, ECO:0000213|PDB:1UZZ};
+KW   Lectin {ECO:0000256|SAAS:SAAS00122626};
+KW   Manganese {ECO:0000213|PDB:1UZY, ECO:0000213|PDB:1UZZ};
+KW   Metal-binding {ECO:0000213|PDB:1UZY, ECO:0000213|PDB:1UZZ}.
+FT   REGION      131    133       Galactose binding.
+FT                                {ECO:0000213|PDB:1UZY}.
+FT   METAL       127    127       Manganese. {ECO:0000213|PDB:1UZY,
+FT                                ECO:0000213|PDB:1UZZ,
+FT                                ECO:0000213|PDB:1V00}.
+FT   METAL       129    129       Calcium. {ECO:0000213|PDB:1UZY,
+FT                                ECO:0000213|PDB:1UZZ,
+FT                                ECO:0000213|PDB:1V00}.
+FT   METAL       129    129       Manganese. {ECO:0000213|PDB:1UZY,
+FT                                ECO:0000213|PDB:1UZZ,
+FT                                ECO:0000213|PDB:1V00}.
+FT   METAL       131    131       Calcium; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:1UZY,
+FT                                ECO:0000213|PDB:1UZZ,
+FT                                ECO:0000213|PDB:1V00}.
+FT   METAL       133    133       Calcium. {ECO:0000213|PDB:1UZY,
+FT                                ECO:0000213|PDB:1UZZ,
+FT                                ECO:0000213|PDB:1V00}.
+FT   METAL       136    136       Calcium. {ECO:0000213|PDB:1UZY,
+FT                                ECO:0000213|PDB:1UZZ,
+FT                                ECO:0000213|PDB:1V00}.
+FT   METAL       136    136       Manganese. {ECO:0000213|PDB:1UZY,
+FT                                ECO:0000213|PDB:1UZZ,
+FT                                ECO:0000213|PDB:1V00}.
+FT   METAL       142    142       Manganese; via tele nitrogen.
+FT                                {ECO:0000213|PDB:1UZY,
+FT                                ECO:0000213|PDB:1UZZ,
+FT                                ECO:0000213|PDB:1V00}.
+FT   BINDING      89     89       Galactose. {ECO:0000213|PDB:1UZY}.
+FT   BINDING     107    107       Galactose; via amide nitrogen.
+FT                                {ECO:0000213|PDB:1UZY}.
+FT   BINDING     218    218       Galactose; via amide nitrogen.
+FT                                {ECO:0000213|PDB:1UZY}.
+FT   CARBOHYD    113    113       N-linked (GlcNAc...).
+FT                                {ECO:0000213|PDB:1UZY}.
+FT   NON_TER       1      1       {ECO:0000313|EMBL:AAO16568.1}.
+FT   NON_TER     242    242       {ECO:0000313|EMBL:AAO16568.1}.
+SQ   SEQUENCE   242 AA;  26549 MW;  E012297C33A3286A CRC64;
+     VETISFSFSE FEPGNNDLTL QGAAIITQSG VLQLTKINQN GMPAWDSTGR TLYTKPVHIW
+     DMTTGTVASF ETRFSFSIEQ PYTRPLPADG LVFFMGPTKS KPAQGYGYLG VFNNSKQDNS
+     YQTLAVEFDT FSNPWDPPQV PHIGIDVNSI RSIKTQPFQL DNGQVANVVI KYDASSKILL
+     AVLVYPSSGA IYTIAEIVDV KQVLPEWVDV GLSGATGAQR DAAETHDVYS WSFHASLPET
+     ND
+//

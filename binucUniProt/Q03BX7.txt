@@ -1,0 +1,89 @@
+ID   Q03BX7_LACC3            Unreviewed;       375 AA.
+AC   Q03BX7;
+DT   14-NOV-2006, integrated into UniProtKB/TrEMBL.
+DT   14-NOV-2006, sequence version 1.
+DT   24-JUN-2015, entry version 55.
+DE   SubName: Full=Predicted metal-dependent hydrolase of the TIM-barrel fold {ECO:0000313|EMBL:ABJ69295.1};
+GN   OrderedLocusNames=LSEI_0440 {ECO:0000313|EMBL:ABJ69295.1};
+OS   Lactobacillus casei (strain ATCC 334).
+OC   Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+OC   Lactobacillus.
+OX   NCBI_TaxID=321967 {ECO:0000313|EMBL:ABJ69295.1, ECO:0000313|Proteomes:UP000001651};
+RN   [1] {ECO:0000313|EMBL:ABJ69295.1, ECO:0000313|Proteomes:UP000001651}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 334 {ECO:0000313|EMBL:ABJ69295.1,
+RC   ECO:0000313|Proteomes:UP000001651};
+RX   PubMed=17030793; DOI=10.1073/pnas.0607117103;
+RA   Makarova K.S., Slesarev A., Wolf Y.I., Sorokin A., Mirkin B.,
+RA   Koonin E.V., Pavlov A., Pavlova N., Karamychev V., Polouchine N.,
+RA   Shakhova V., Grigoriev I., Lou Y., Rohksar D., Lucas S., Huang K.,
+RA   Goodstein D.M., Hawkins T., Plengvidhya V., Welker D., Hughes J.,
+RA   Goh Y., Benson A., Baldwin K., Lee J.-H., Diaz-Muniz I., Dosti B.,
+RA   Smeianov V., Wechter W., Barabote R., Lorca G., Altermann E.,
+RA   Barrangou R., Ganesan B., Xie Y., Rawsthorne H., Tamir D., Parker C.,
+RA   Breidt F., Broadbent J.R., Hutkins R., O'Sullivan D., Steele J.,
+RA   Unlu G., Saier M.H. Jr., Klaenhammer T., Richardson P., Kozyavkin S.,
+RA   Weimer B.C., Mills D.A.;
+RT   "Comparative genomics of the lactic acid bacteria.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 103:15611-15616(2006).
+RN   [2] {ECO:0000213|PDB:2QPX}
+RP   X-RAY CRYSTALLOGRAPHY (1.40 ANGSTROMS) IN COMPLEX WITH ZINC.
+RG   Joint Center for Structural Genomics (JCSG);
+RT   "Crystal structure of putative metal-dependent hydrolase (YP_805737.1)
+RT   from Lactobacillus casei ATCC 334 at 1.40 A resolution.";
+RL   Submitted (JUL-2007) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP000423; ABJ69295.1; -; Genomic_DNA.
+DR   RefSeq; WP_003593063.1; NC_008526.1.
+DR   RefSeq; YP_805737.1; NC_008526.1.
+DR   PDB; 2QPX; X-ray; 1.40 A; A=1-375.
+DR   PDBsum; 2QPX; -.
+DR   ProteinModelPortal; Q03BX7; -.
+DR   SMR; Q03BX7; 1-375.
+DR   EnsemblBacteria; ABJ69295; ABJ69295; LSEI_0440.
+DR   GeneID; 4420433; -.
+DR   KEGG; lca:LSEI_0440; -.
+DR   PATRIC; 22204598; VBILacCas62221_0460.
+DR   eggNOG; COG2159; -.
+DR   HOGENOM; HOG000068343; -.
+DR   KO; K07045; -.
+DR   OMA; INAICWE; -.
+DR   OrthoDB; EOG6QRW51; -.
+DR   BioCyc; LCAS321967:GH4S-439-MONOMER; -.
+DR   EvolutionaryTrace; Q03BX7; -.
+DR   Proteomes; UP000001651; Chromosome.
+DR   GO; GO:0016787; F:hydrolase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   InterPro; IPR006992; Amidohydro_2.
+DR   Pfam; PF04909; Amidohydro_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2QPX};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001651};
+KW   Hydrolase {ECO:0000313|EMBL:ABJ69295.1};
+KW   Metal-binding {ECO:0000213|PDB:2QPX};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001651};
+KW   Zinc {ECO:0000213|PDB:2QPX}.
+FT   METAL        17     17       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2QPX}.
+FT   METAL        19     19       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2QPX}.
+FT   METAL       166    166       Zinc 1. {ECO:0000213|PDB:2QPX}.
+FT   METAL       166    166       Zinc 2. {ECO:0000213|PDB:2QPX}.
+FT   METAL       171    171       Zinc 2. {ECO:0000213|PDB:2QPX}.
+FT   METAL       227    227       Zinc 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:2QPX}.
+FT   METAL       263    263       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2QPX}.
+FT   METAL       317    317       Zinc 1. {ECO:0000213|PDB:2QPX}.
+SQ   SEQUENCE   375 AA;  42589 MW;  B0D5271EE20975C7 CRC64;
+     MDDLSEFVDQ VPLLDHHCHF LIDGKVPNRD DRLAQVSTEA DKDYPLADTK NRLAYHGFLA
+     LAKEFALDAN NPLAAMNDPG YATYNHRIFG HFHFKELLID TGFVPDDPIL DLDQTAELVG
+     IPVKAIYRLE THAEDFMLEH DNFAAWWQAF SNDVKQAKAH GFVGFKSIAA YRVGLHLEPV
+     NVIEAAAGFD TWKHSGEKRL TSKPLIDYML YHVAPFIIAQ DMPLQFHVGY GDADTDMYLG
+     NPLLMRDYLK AFTKKGLKVV LLHCYPYHRE AGYLASVFPN LYFDISLLDN LGPSGASRVF
+     NEAVELAPYT RILFASDAST YPEMYGLAAR QFKQALVAHF NQLPFVDLAQ KKAWINAICW
+     QTSAKLYHQE RELRV
+//

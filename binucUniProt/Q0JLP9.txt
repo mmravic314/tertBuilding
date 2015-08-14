@@ -1,0 +1,140 @@
+ID   P2C06_ORYSJ             Reviewed;         467 AA.
+AC   Q0JLP9;
+DT   10-FEB-2009, integrated into UniProtKB/Swiss-Prot.
+DT   03-OCT-2006, sequence version 1.
+DT   24-JUN-2015, entry version 64.
+DE   RecName: Full=Probable protein phosphatase 2C 6;
+DE            Short=OsPP2C06;
+DE            EC=3.1.3.16;
+GN   OrderedLocusNames=Os01g0583100, LOC_Os01g40094;
+OS   Oryza sativa subsp. japonica (Rice).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae; BOP clade;
+OC   Oryzoideae; Oryzeae; Oryzinae; Oryza.
+OX   NCBI_TaxID=39947;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Nipponbare;
+RX   PubMed=16100779; DOI=10.1038/nature03895;
+RG   International rice genome sequencing project (IRGSP);
+RT   "The map-based sequence of the rice genome.";
+RL   Nature 436:793-800(2005).
+RN   [2]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Nipponbare;
+RX   PubMed=18089549; DOI=10.1093/nar/gkm978;
+RG   The rice annotation project (RAP);
+RT   "The rice annotation project database (RAP-DB): 2008 update.";
+RL   Nucleic Acids Res. 36:D1028-D1033(2008).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 72-467.
+RC   STRAIN=cv. Nipponbare;
+RG   The rice full-length cDNA consortium;
+RT   "Oryza sativa full length cDNA.";
+RL   Submitted (OCT-2006) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   GENE FAMILY, AND NOMENCLATURE.
+RX   PubMed=19021904; DOI=10.1186/1471-2164-9-550;
+RA   Xue T., Wang D., Zhang S., Ehlting J., Ni F., Jacab S., Zheng C.,
+RA   Zhong Y.;
+RT   "Genome-wide and expression analysis of protein phosphatase 2C in rice
+RT   and Arabidopsis.";
+RL   BMC Genomics 9:550-550(2008).
+CC   -!- CATALYTIC ACTIVITY: [a protein]-serine/threonine phosphate + H(2)O
+CC       = [a protein]-serine/threonine + phosphate.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035; Evidence={ECO:0000250};
+CC       Note=Binds 2 magnesium or manganese ions per subunit.
+CC       {ECO:0000250};
+CC   -!- SIMILARITY: Belongs to the PP2C family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 PPM-type phosphatase domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01082}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAF05329.2; Type=Erroneous gene model prediction; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AP008207; BAF05329.2; ALT_SEQ; Genomic_DNA.
+DR   EMBL; AK242616; -; NOT_ANNOTATED_CDS; mRNA.
+DR   RefSeq; NP_001043415.2; NM_001049950.2.
+DR   UniGene; Os.5367; -.
+DR   PDB; 4OIC; X-ray; 2.00 A; B=1-467.
+DR   PDBsum; 4OIC; -.
+DR   ProteinModelPortal; Q0JLP9; -.
+DR   STRING; 39947.LOC_Os01g40094.1; -.
+DR   PRIDE; Q0JLP9; -.
+DR   GeneID; 4324201; -.
+DR   KEGG; osa:4324201; -.
+DR   Gramene; Q0JLP9; -.
+DR   eggNOG; COG0631; -.
+DR   HOGENOM; HOG000233896; -.
+DR   InParanoid; Q0JLP9; -.
+DR   KO; K14497; -.
+DR   OMA; VPEITIV; -.
+DR   Proteomes; UP000000763; Chromosome 1.
+DR   ExpressionAtlas; Q0JLP9; baseline.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004722; F:protein serine/threonine phosphatase activity; IEA:InterPro.
+DR   GO; GO:0006470; P:protein dephosphorylation; IEA:InterPro.
+DR   Gene3D; 3.60.40.10; -; 1.
+DR   InterPro; IPR015655; PP2C.
+DR   InterPro; IPR000222; PP2C_BS.
+DR   InterPro; IPR001932; PPM-type_phosphatase_dom.
+DR   PANTHER; PTHR13832; PTHR13832; 1.
+DR   Pfam; PF00481; PP2C; 1.
+DR   SMART; SM00331; PP2C_SIG; 1.
+DR   SMART; SM00332; PP2Cc; 1.
+DR   SUPFAM; SSF81606; SSF81606; 1.
+DR   PROSITE; PS01032; PPM_1; 1.
+DR   PROSITE; PS51746; PPM_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Hydrolase; Magnesium; Manganese;
+KW   Metal-binding; Protein phosphatase; Reference proteome.
+FT   CHAIN         1    467       Probable protein phosphatase 2C 6.
+FT                                /FTId=PRO_0000363252.
+FT   DOMAIN      149    457       PPM-type phosphatase.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU01082}.
+FT   COMPBIAS      5    138       Ala-rich.
+FT   METAL       205    205       Manganese 1. {ECO:0000250}.
+FT   METAL       205    205       Manganese 2. {ECO:0000250}.
+FT   METAL       206    206       Manganese 1; via carbonyl oxygen.
+FT                                {ECO:0000250}.
+FT   METAL       386    386       Manganese 2. {ECO:0000250}.
+FT   METAL       448    448       Manganese 2. {ECO:0000250}.
+FT   STRAND      142    144       {ECO:0000244|PDB:4OIC}.
+FT   STRAND      149    155       {ECO:0000244|PDB:4OIC}.
+FT   STRAND      159    161       {ECO:0000244|PDB:4OIC}.
+FT   STRAND      164    176       {ECO:0000244|PDB:4OIC}.
+FT   HELIX       178    181       {ECO:0000244|PDB:4OIC}.
+FT   TURN        191    193       {ECO:0000244|PDB:4OIC}.
+FT   STRAND      195    210       {ECO:0000244|PDB:4OIC}.
+FT   HELIX       211    234       {ECO:0000244|PDB:4OIC}.
+FT   HELIX       239    241       {ECO:0000244|PDB:4OIC}.
+FT   HELIX       245    264       {ECO:0000244|PDB:4OIC}.
+FT   STRAND      280    288       {ECO:0000244|PDB:4OIC}.
+FT   STRAND      290    300       {ECO:0000244|PDB:4OIC}.
+FT   STRAND      302    307       {ECO:0000244|PDB:4OIC}.
+FT   STRAND      310    313       {ECO:0000244|PDB:4OIC}.
+FT   HELIX       323    331       {ECO:0000244|PDB:4OIC}.
+FT   STRAND      336    344       {ECO:0000244|PDB:4OIC}.
+FT   TURN        345    347       {ECO:0000244|PDB:4OIC}.
+FT   HELIX       357    359       {ECO:0000244|PDB:4OIC}.
+FT   TURN        360    362       {ECO:0000244|PDB:4OIC}.
+FT   STRAND      368    373       {ECO:0000244|PDB:4OIC}.
+FT   STRAND      378    384       {ECO:0000244|PDB:4OIC}.
+FT   HELIX       386    389       {ECO:0000244|PDB:4OIC}.
+FT   HELIX       394    411       {ECO:0000244|PDB:4OIC}.
+FT   HELIX       428    443       {ECO:0000244|PDB:4OIC}.
+FT   STRAND      450    456       {ECO:0000244|PDB:4OIC}.
+SQ   SEQUENCE   467 AA;  48635 MW;  50CB687EAB641C5B CRC64;
+     MEDVAVAAAL APAPATAPVF SPAAAGLTLI AAAAADPIAA VVAGAMDGVV TVPPVRTASA
+     VEDDAVAPGR GEEGGEASAV GSPCSVTSDC SSVASADFEG VGLGFFGAAA DGGAAMVFED
+     SAASAATVEA EARVAAGARS VFAVECVPLW GHKSICGRRP EMEDAVVAVS RFFDIPLWML
+     TGNSVVDGLD PMSFRLPAHF FGVYDGHGGA QVANYCRERL HAALVEELSR IEGSVSGANL
+     GSVEFKKKWE QAFVDCFSRV DEEVGGNASR GEAVAPETVG STAVVAVICS SHIIVANCGD
+     SRAVLCRGKQ PVPLSVDHKP NREDEYARIE AEGGKVIQWN GYRVFGVLAM SRSIGDRYLK
+     PWIIPVPEIT IVPRAKDDEC LVLASDGLWD VMSNEEVCDV ARKRILLWHK KNGTNPASAP
+     RSGDSSDPAA EAAAECLSKL ALQKGSKDNI SVIVVDLKAH RKFKSKS
+//

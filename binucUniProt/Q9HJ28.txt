@@ -1,0 +1,179 @@
+ID   PNCB_THEAC              Reviewed;         392 AA.
+AC   Q9HJ28;
+DT   28-JUN-2011, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAR-2001, sequence version 1.
+DT   22-JUL-2015, entry version 86.
+DE   RecName: Full=Putative nicotinate phosphoribosyltransferase;
+DE            Short=NAPRTase;
+DE            EC=6.3.4.21;
+GN   OrderedLocusNames=Ta1145;
+OS   Thermoplasma acidophilum (strain ATCC 25905 / DSM 1728 / JCM 9062 /
+OS   NBRC 15155 / AMRC-C165).
+OC   Archaea; Euryarchaeota; Thermoplasmata; Thermoplasmatales;
+OC   Thermoplasmataceae; Thermoplasma.
+OX   NCBI_TaxID=273075;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 25905 / DSM 1728 / JCM 9062 / NBRC 15155 / AMRC-C165;
+RX   PubMed=11029001; DOI=10.1038/35035069;
+RA   Ruepp A., Graml W., Santos-Martinez M.-L., Koretke K.K., Volker C.,
+RA   Mewes H.-W., Frishman D., Stocker S., Lupas A.N., Baumeister W.;
+RT   "The genome sequence of the thermoacidophilic scavenger Thermoplasma
+RT   acidophilum.";
+RL   Nature 407:508-513(2000).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (2.65 ANGSTROMS) OF APOPROTEIN AND IN COMPLEXES
+RP   WITH NICOTINATE MONONUCLEOTIDE AND PRPP, FUNCTION, DOMAIN, AND
+RP   SUBUNIT.
+RC   STRAIN=ATCC 25905 / DSM 1728 / JCM 9062 / NBRC 15155 / AMRC-C165;
+RX   PubMed=15753098; DOI=10.1074/jbc.M501622200;
+RA   Shin D.H., Oganesyan N., Jancarik J., Yokota H., Kim R., Kim S.H.;
+RT   "Crystal structure of a nicotinate phosphoribosyltransferase from
+RT   Thermoplasma acidophilum.";
+RL   J. Biol. Chem. 280:18326-18335(2005).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (2.40 ANGSTROMS) IN COMPLEX WITH ZINC.
+RG   Berkeley structural genomics center (BSGC);
+RT   "Crystal structure of a zinc ion bound nicotinate
+RT   phosphoribosyltransferase from Thermoplasma acidophilum.";
+RL   Submitted (FEB-2009) to the PDB data bank.
+CC   -!- FUNCTION: Catalyzes the transfer of the phosphoribosyl moiety of
+CC       phosphoribosylpyrophosphate (PRPP) onto nicotinate (NA) to yield
+CC       nicotinate mononucleotide (NAMN), an intermediate in the
+CC       biosynthesis of NAD. {ECO:0000305}.
+CC   -!- FUNCTION: Catalyzes the synthesis of beta-nicotinate D-
+CC       ribonucleotide from nicotinate and 5-phospho-D-ribose 1-phosphate
+CC       at the expense of ATP. {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Nicotinate + 5-phospho-alpha-D-ribose 1-
+CC       diphosphate + ATP + H(2)O = beta-nicotinate D-ribonucleotide +
+CC       diphosphate + ADP + phosphate.
+CC   -!- PATHWAY: Cofactor biosynthesis; NAD(+) biosynthesis; nicotinate D-
+CC       ribonucleotide from nicotinate: step 1/1.
+CC   -!- SUBUNIT: Homodimer. Forms a trimer of dimers in the crystal.
+CC       {ECO:0000269|PubMed:15753098, ECO:0000269|Ref.3}.
+CC   -!- DOMAIN: Consists of three domains, an N-terminal domain, a central
+CC       functional domain, and a unique C-terminal domain containing a
+CC       zinc knuckle-like motif containing 4 cysteines.
+CC       {ECO:0000269|PubMed:15753098}.
+CC   -!- SIMILARITY: Belongs to the NAPRTase family. Highly divergent.
+CC       {ECO:0000305}.
+CC   -!- CAUTION: Although this protein is stated to be a nicotinate
+CC       phosphoribosyltransferase, it has not been functionally
+CC       characterized, and it might be a quinolinate
+CC       phosphoribosyltransferase (QPRTase).
+CC       {ECO:0000305|PubMed:15753098}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AL445066; CAC12271.1; -; Genomic_DNA.
+DR   RefSeq; NP_394603.1; NC_002578.1.
+DR   RefSeq; WP_010901554.1; NC_002578.1.
+DR   PDB; 1YTD; X-ray; 2.80 A; A=1-392.
+DR   PDB; 1YTE; X-ray; 2.75 A; A=1-392.
+DR   PDB; 1YTK; X-ray; 2.65 A; A=1-392.
+DR   PDB; 2I1O; X-ray; 2.40 A; A=1-392.
+DR   PDBsum; 1YTD; -.
+DR   PDBsum; 1YTE; -.
+DR   PDBsum; 1YTK; -.
+DR   PDBsum; 2I1O; -.
+DR   ProteinModelPortal; Q9HJ28; -.
+DR   SMR; Q9HJ28; 1-389.
+DR   STRING; 273075.Ta1145; -.
+DR   PRIDE; Q9HJ28; -.
+DR   EnsemblBacteria; CAC12271; CAC12271; CAC12271.
+DR   GeneID; 1456649; -.
+DR   KEGG; tac:Ta1145; -.
+DR   eggNOG; COG1488; -.
+DR   HOGENOM; HOG000098010; -.
+DR   KO; K00763; -.
+DR   OMA; EVRWTLD; -.
+DR   BRENDA; 6.3.4.21; 6324.
+DR   UniPathway; UPA00253; UER00457.
+DR   EvolutionaryTrace; Q9HJ28; -.
+DR   Proteomes; UP000001024; Chromosome.
+DR   GO; GO:0016874; F:ligase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004514; F:nicotinate-nucleotide diphosphorylase (carboxylating) activity; IEA:InterPro.
+DR   GO; GO:0000166; F:nucleotide binding; IEA:UniProtKB-KW.
+DR   GO; GO:0009435; P:NAD biosynthetic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 3.20.20.70; -; 1.
+DR   Gene3D; 3.90.1170.20; -; 1.
+DR   InterPro; IPR013785; Aldolase_TIM.
+DR   InterPro; IPR007229; Nic_PRibTrfase-Fam.
+DR   InterPro; IPR002638; Quinolinate_PRibosylTrfase_C.
+DR   InterPro; IPR022412; Quinolinate_PRibosylTrfase_N.
+DR   PANTHER; PTHR11098; PTHR11098; 1.
+DR   Pfam; PF01729; QRPTase_C; 1.
+DR   PIRSF; PIRSF000484; NAPRT; 1.
+DR   SUPFAM; SSF51690; SSF51690; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Ligase; Metal-binding;
+KW   Nucleotide-binding; Pyridine nucleotide biosynthesis;
+KW   Reference proteome; Transferase; Zinc.
+FT   CHAIN         1    392       Putative nicotinate
+FT                                phosphoribosyltransferase.
+FT                                /FTId=PRO_0000410976.
+FT   METAL       330    330       Zinc 1. {ECO:0000269|Ref.3}.
+FT   METAL       330    330       Zinc 2. {ECO:0000269|Ref.3}.
+FT   METAL       333    333       Zinc 1. {ECO:0000269|Ref.3}.
+FT   METAL       348    348       Zinc 2. {ECO:0000269|Ref.3}.
+FT   METAL       350    350       Zinc 1. {ECO:0000269|Ref.3}.
+FT   METAL       350    350       Zinc 2. {ECO:0000269|Ref.3}.
+FT   BINDING      21     21       Nicotinate. {ECO:0000305}.
+FT   BINDING     138    138       Nicotinate. {ECO:0000305}.
+FT   BINDING     179    179       Nicotinate. {ECO:0000305}.
+FT   BINDING     235    235       Nicotinate. {ECO:0000305}.
+FT   BINDING     240    240       Phosphoribosylpyrophosphate.
+FT   BINDING     272    272       Phosphoribosylpyrophosphate; via amide
+FT                                nitrogen.
+FT   BINDING     293    293       Phosphoribosylpyrophosphate.
+FT   STRAND        3      5       {ECO:0000244|PDB:2I1O}.
+FT   HELIX         9     13       {ECO:0000244|PDB:2I1O}.
+FT   HELIX        21     29       {ECO:0000244|PDB:2I1O}.
+FT   HELIX        30     35       {ECO:0000244|PDB:2I1O}.
+FT   STRAND       37     44       {ECO:0000244|PDB:2I1O}.
+FT   HELIX        57     64       {ECO:0000244|PDB:2I1O}.
+FT   STRAND       70     73       {ECO:0000244|PDB:2I1O}.
+FT   STRAND       91     98       {ECO:0000244|PDB:2I1O}.
+FT   HELIX        99    102       {ECO:0000244|PDB:2I1O}.
+FT   HELIX       103    105       {ECO:0000244|PDB:2I1O}.
+FT   HELIX       106    130       {ECO:0000244|PDB:2I1O}.
+FT   STRAND      135    137       {ECO:0000244|PDB:2I1O}.
+FT   HELIX       140    142       {ECO:0000244|PDB:2I1O}.
+FT   HELIX       145    147       {ECO:0000244|PDB:2I1O}.
+FT   HELIX       148    157       {ECO:0000244|PDB:2I1O}.
+FT   STRAND      161    163       {ECO:0000244|PDB:2I1O}.
+FT   HELIX       166    172       {ECO:0000244|PDB:2I1O}.
+FT   HELIX       182    188       {ECO:0000244|PDB:2I1O}.
+FT   HELIX       190    199       {ECO:0000244|PDB:2I1O}.
+FT   STRAND      208    210       {ECO:0000244|PDB:2I1O}.
+FT   STRAND      213    215       {ECO:0000244|PDB:2I1O}.
+FT   HELIX       217    225       {ECO:0000244|PDB:2I1O}.
+FT   STRAND      233    236       {ECO:0000244|PDB:2I1O}.
+FT   HELIX       240    242       {ECO:0000244|PDB:2I1O}.
+FT   HELIX       246    259       {ECO:0000244|PDB:2I1O}.
+FT   STRAND      265    272       {ECO:0000244|PDB:2I1O}.
+FT   HELIX       275    283       {ECO:0000244|PDB:2I1O}.
+FT   STRAND      288    291       {ECO:0000244|PDB:2I1O}.
+FT   HELIX       293    296       {ECO:0000244|PDB:2I1O}.
+FT   STRAND      303    310       {ECO:0000244|PDB:2I1O}.
+FT   STRAND      325    330       {ECO:0000244|PDB:2I1O}.
+FT   TURN        331    333       {ECO:0000244|PDB:2I1O}.
+FT   STRAND      336    340       {ECO:0000244|PDB:2I1O}.
+FT   STRAND      345    347       {ECO:0000244|PDB:1YTK}.
+FT   STRAND      349    352       {ECO:0000244|PDB:2I1O}.
+FT   STRAND      354    356       {ECO:0000244|PDB:2I1O}.
+FT   STRAND      359    363       {ECO:0000244|PDB:2I1O}.
+FT   STRAND      366    369       {ECO:0000244|PDB:2I1O}.
+FT   HELIX       374    384       {ECO:0000244|PDB:2I1O}.
+FT   HELIX       385    388       {ECO:0000244|PDB:2I1O}.
+SQ   SEQUENCE   392 AA;  43297 MW;  CC9BCD4E77E7C9AA CRC64;
+     MNVFNTASDE DIKKGLASDV YFERTISAIG DKCNDLRVAM EATVSGPLDT WINFTGLDEV
+     LKLLEGLDVD LYAIPEGTIL FPRDANGLPV PFIRVEGRYC DFGMYETAIL GFICQASGIS
+     TKASKVRLAA GDSPFFSFGI RRMHPAISPM IDRSAYIGGA DGVSGILGAK LIDQDPVGTM
+     PHALSIMLGD EEAWKLTLEN TKNGQKSVLL IDTYMDEKFA AIKIAEMFDK VDYIRLDTPS
+     SRRGNFEALI REVRWELALR GRSDIKIMVS GGLDENTVKK LREAGAEAFG VGTSISSAKP
+     FDFAMDIVEV NGKPETKRGK MSGRKNVLRC TSCHRIEVVP ANVQEKTCIC GGSMQNLLVK
+     YLSHGKRTSE YPRPKEIRSR SMKELEYFKD IS
+//

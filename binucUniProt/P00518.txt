@@ -1,0 +1,205 @@
+ID   PHKG1_RABIT             Reviewed;         387 AA.
+AC   P00518;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 2.
+DT   04-FEB-2015, entry version 127.
+DE   RecName: Full=Phosphorylase b kinase gamma catalytic chain, skeletal muscle/heart isoform;
+DE            EC=2.7.11.19;
+DE   AltName: Full=Phosphorylase kinase subunit gamma-1;
+DE   AltName: Full=Serine/threonine-protein kinase PHKG1;
+DE            EC=2.7.11.1;
+DE            EC=2.7.11.26;
+GN   Name=PHKG1; Synonyms=PHKG;
+OS   Oryctolagus cuniculus (Rabbit).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Lagomorpha; Leporidae;
+OC   Oryctolagus.
+OX   NCBI_TaxID=9986;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=New Zealand white;
+RX   PubMed=3609320; DOI=10.1016/0014-5793(87)80871-2;
+RA   da Cruz e Silva E.F., Cohen P.T.W.;
+RT   "Isolation and sequence analysis of a cDNA clone encoding the entire
+RT   catalytic subunit of phosphorylase kinase.";
+RL   FEBS Lett. 220:36-42(1987).
+RN   [2]
+RP   PROTEIN SEQUENCE OF 2-387.
+RX   PubMed=6541504; DOI=10.1021/bi00313a027;
+RA   Reimann E.M., Titani K., Ericsson L.H., Wade R.D., Fischer E.H.,
+RA   Walsh K.A.;
+RT   "Homology of the gamma subunit of phosphorylase b kinase with cAMP-
+RT   dependent protein kinase.";
+RL   Biochemistry 23:4185-4192(1984).
+RN   [3]
+RP   CALMODULIN-BINDING DOMAINS.
+RX   PubMed=2507540;
+RA   Dasgupta M., Honeycutt T., Blumenthal D.K.;
+RT   "The gamma-subunit of skeletal muscle phosphorylase kinase contains
+RT   two noncontiguous domains that act in concert to bind calmodulin.";
+RL   J. Biol. Chem. 264:17156-17163(1989).
+RN   [4]
+RP   FUNCTION IN PHOSPHORYLATION OF GAP43 AND NRGN/RC3.
+RX   PubMed=8454596;
+RA   Paudel H.K., Zwiers H., Wang J.H.;
+RT   "Phosphorylase kinase phosphorylates the calmodulin-binding regulatory
+RT   regions of neuronal tissue-specific proteins B-50 (GAP-43) and
+RT   neurogranin.";
+RL   J. Biol. Chem. 268:6207-6213(1993).
+RN   [5]
+RP   CALMODULIN-BINDING DOMAINS.
+RX   PubMed=7673209; DOI=10.1074/jbc.270.38.22283;
+RA   Dasgupta M., Blumenthal D.K.;
+RT   "Characterization of the regulatory domain of the gamma-subunit of
+RT   phosphorylase kinase. The two noncontiguous calmodulin-binding
+RT   subdomains are also autoinhibitory.";
+RL   J. Biol. Chem. 270:22283-22289(1995).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) OF 16-292.
+RX   PubMed=7663944; DOI=10.1016/S0969-2126(01)00180-0;
+RA   Owen D.J., Noble M.E.M., Garman E.F., Papageorgiou A.C., Johnson L.N.;
+RT   "Two structures of the catalytic domain of phosphorylase kinase: an
+RT   active protein kinase complexed with substrate analogue and product.";
+RL   Structure 3:467-482(1995).
+RN   [7]
+RP   FUNCTION IN PHOSPHORYLATION OF MAPT.
+RX   PubMed=8999860;
+RA   Paudel H.K.;
+RT   "The regulatory Ser262 of microtubule-associated protein tau is
+RT   phosphorylated by phosphorylase kinase.";
+RL   J. Biol. Chem. 272:1777-1785(1997).
+RN   [8]
+RP   X-RAY CRYSTALLOGRAPHY (2.6 ANGSTROMS) OF 1-299.
+RX   PubMed=9362479; DOI=10.1093/emboj/16.22.6646;
+RA   Lowe E.D., Noble M.E.M., Skamnaki V.T., Oikonomakos N.G., Owen D.J.,
+RA   Johnson L.N.;
+RT   "The crystal structure of a phosphorylase kinase peptide substrate
+RT   complex: kinase substrate recognition.";
+RL   EMBO J. 16:6646-6658(1997).
+CC   -!- FUNCTION: Catalytic subunit of the phosphorylase b kinase (PHK),
+CC       which mediates the neural and hormonal regulation of glycogen
+CC       breakdown (glycogenolysis) by phosphorylating and thereby
+CC       activating glycogen phosphorylase. In vitro, phosphorylates PYGM,
+CC       TNNI3, MAPT/TAU, GAP43 and NRGN/RC3. {ECO:0000269|PubMed:8454596,
+CC       ECO:0000269|PubMed:8999860}.
+CC   -!- CATALYTIC ACTIVITY: 2 ATP + phosphorylase b = 2 ADP +
+CC       phosphorylase a.
+CC   -!- CATALYTIC ACTIVITY: ATP + [tau protein] = ADP + [tau protein]
+CC       phosphate.
+CC   -!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+CC   -!- SUBUNIT: Hexadecamer of 4 heterotetramers, each composed of alpha,
+CC       beta, gamma, and delta subunits. Alpha (PHKA1 or PHKA2) and beta
+CC       (PHKB) are regulatory subunits, gamma (PHKG1 or PHKG2) is the
+CC       catalytic subunit, and delta is calmodulin.
+CC   -!- DOMAIN: The two calmodulin-binding domains appear to act in
+CC       concert to bind a single molecule of calmodulin and are
+CC       pseudosubstrate/autoinhibitory domains.
+CC   -!- SIMILARITY: Belongs to the protein kinase superfamily. CAMK
+CC       Ser/Thr protein kinase family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 protein kinase domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00159}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; Y00684; CAA68682.1; -; mRNA.
+DR   PIR; S00075; KIRBFG.
+DR   RefSeq; NP_001095175.1; NM_001101705.1.
+DR   RefSeq; XP_008247862.1; XM_008249640.1.
+DR   UniGene; Ocu.2086; -.
+DR   PDB; 1PHK; X-ray; 2.20 A; A=2-299.
+DR   PDB; 1QL6; X-ray; 2.40 A; A=2-299.
+DR   PDB; 2PHK; X-ray; 2.60 A; A=15-291.
+DR   PDBsum; 1PHK; -.
+DR   PDBsum; 1QL6; -.
+DR   PDBsum; 2PHK; -.
+DR   ProteinModelPortal; P00518; -.
+DR   SMR; P00518; 15-291.
+DR   DIP; DIP-48334N; -.
+DR   STRING; 9986.ENSOCUP00000011717; -.
+DR   Ensembl; ENSOCUT00000013615; ENSOCUP00000011717; ENSOCUG00000013618.
+DR   GeneID; 100009297; -.
+DR   KEGG; ocu:100009297; -.
+DR   CTD; 5260; -.
+DR   eggNOG; COG0515; -.
+DR   GeneTree; ENSGT00780000121878; -.
+DR   HOGENOM; HOG000233016; -.
+DR   HOVERGEN; HBG106193; -.
+DR   InParanoid; P00518; -.
+DR   KO; K00871; -.
+DR   BRENDA; 2.7.11.19; 1749.
+DR   EvolutionaryTrace; P00518; -.
+DR   Proteomes; UP000001811; Unplaced.
+DR   GO; GO:0005964; C:phosphorylase kinase complex; IEA:InterPro.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004689; F:phosphorylase kinase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0050321; F:tau-protein kinase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0005978; P:glycogen biosynthetic process; IEA:InterPro.
+DR   InterPro; IPR020636; Ca/CaM-dep_Ca-dep_prot_Kinase.
+DR   InterPro; IPR011009; Kinase-like_dom.
+DR   InterPro; IPR002291; Phosph_kin_gamma.
+DR   InterPro; IPR000719; Prot_kinase_dom.
+DR   InterPro; IPR017441; Protein_kinase_ATP_BS.
+DR   InterPro; IPR002290; Ser/Thr_dual-sp_kinase.
+DR   InterPro; IPR008271; Ser/Thr_kinase_AS.
+DR   PANTHER; PTHR24347; PTHR24347; 1.
+DR   Pfam; PF00069; Pkinase; 1.
+DR   PRINTS; PR01049; PHOSPHBKNASE.
+DR   SMART; SM00220; S_TKc; 1.
+DR   SUPFAM; SSF56112; SSF56112; 1.
+DR   PROSITE; PS00107; PROTEIN_KINASE_ATP; 1.
+DR   PROSITE; PS50011; PROTEIN_KINASE_DOM; 1.
+DR   PROSITE; PS00108; PROTEIN_KINASE_ST; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; ATP-binding; Calmodulin-binding;
+KW   Carbohydrate metabolism; Complete proteome; Direct protein sequencing;
+KW   Glycogen metabolism; Kinase; Muscle protein; Nucleotide-binding;
+KW   Reference proteome; Serine/threonine-protein kinase; Transferase.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:6541504}.
+FT   CHAIN         2    387       Phosphorylase b kinase gamma catalytic
+FT                                chain, skeletal muscle/heart isoform.
+FT                                /FTId=PRO_0000086510.
+FT   DOMAIN       20    288       Protein kinase. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00159}.
+FT   NP_BIND      26     34       ATP. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00159}.
+FT   REGION      303    327       Calmodulin-binding (domain-N).
+FT   REGION      343    367       Calmodulin-binding (domain-C).
+FT   ACT_SITE    150    150       Proton acceptor. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00159, ECO:0000255|PROSITE-
+FT                                ProRule:PRU10027}.
+FT   BINDING      49     49       ATP. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00159}.
+FT   TURN         17     19       {ECO:0000244|PDB:1PHK}.
+FT   STRAND       20     28       {ECO:0000244|PDB:1PHK}.
+FT   STRAND       30     39       {ECO:0000244|PDB:1PHK}.
+FT   TURN         40     43       {ECO:0000244|PDB:1PHK}.
+FT   STRAND       44     52       {ECO:0000244|PDB:1PHK}.
+FT   TURN         55     58       {ECO:0000244|PDB:1QL6}.
+FT   HELIX        61     81       {ECO:0000244|PDB:1PHK}.
+FT   STRAND       90     95       {ECO:0000244|PDB:1PHK}.
+FT   STRAND       97    105       {ECO:0000244|PDB:1PHK}.
+FT   HELIX       112    119       {ECO:0000244|PDB:1PHK}.
+FT   HELIX       124    143       {ECO:0000244|PDB:1PHK}.
+FT   HELIX       153    155       {ECO:0000244|PDB:1PHK}.
+FT   STRAND      156    158       {ECO:0000244|PDB:1PHK}.
+FT   STRAND      164    166       {ECO:0000244|PDB:1PHK}.
+FT   HELIX       188    190       {ECO:0000244|PDB:1PHK}.
+FT   HELIX       193    200       {ECO:0000244|PDB:1PHK}.
+FT   HELIX       210    225       {ECO:0000244|PDB:1PHK}.
+FT   HELIX       235    244       {ECO:0000244|PDB:1PHK}.
+FT   TURN        251    253       {ECO:0000244|PDB:1PHK}.
+FT   HELIX       254    256       {ECO:0000244|PDB:1PHK}.
+FT   HELIX       259    268       {ECO:0000244|PDB:1PHK}.
+FT   HELIX       273    275       {ECO:0000244|PDB:1PHK}.
+FT   HELIX       279    282       {ECO:0000244|PDB:1PHK}.
+FT   HELIX       286    288       {ECO:0000244|PDB:1PHK}.
+SQ   SEQUENCE   387 AA;  44803 MW;  0EC8710C2A4C1BE8 CRC64;
+     MTRDAALPGS HSTHGFYENY EPKEILGRGV SSVVRRCIHK PTCKEYAVKI IDVTGGGSFS
+     AEEVQELREA TLKEVDILRK VSGHPNIIQL KDTYETNTFF FLVFDLMKKG ELFDYLTEKV
+     TLSEKETRKI MRALLEVICA LHKLNIVHRD LKPENILLDD DMNIKLTDFG FSCQLDPGEK
+     LREVCGTPSY LAPEIIECSM NDNHPGYGKE VDMWSTGVIM YTLLAGSPPF WHRKQMLMLR
+     MIMSGNYQFG SPEWDDYSDT VKDLVSRFLV VQPQKRYTAE EALAHPFFQQ YVVEEVRHFS
+     PRGKFKVICL TVLASVRIYY QYRRVKPVTR EIVIRDPYAL RPLRRLIDAY AFRIYGHWVK
+     KGQQQNRAAL FENTPKAVLF SLAEDDY
+//

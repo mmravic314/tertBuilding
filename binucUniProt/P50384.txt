@@ -1,0 +1,261 @@
+ID   TRPD_SULSO              Reviewed;         345 AA.
+AC   P50384;
+DT   01-OCT-1996, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-1996, sequence version 1.
+DT   22-JUL-2015, entry version 113.
+DE   RecName: Full=Anthranilate phosphoribosyltransferase {ECO:0000255|HAMAP-Rule:MF_00211};
+DE            EC=2.4.2.18 {ECO:0000255|HAMAP-Rule:MF_00211};
+GN   Name=trpD {ECO:0000255|HAMAP-Rule:MF_00211};
+GN   OrderedLocusNames=SSO0890;
+OS   Sulfolobus solfataricus (strain ATCC 35092 / DSM 1617 / JCM 11322 /
+OS   P2).
+OC   Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae;
+OC   Sulfolobus.
+OX   NCBI_TaxID=273057;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=DSM 5833 / MT-4;
+RA   Tutino M.L., Cubellis M., Sannia G., Marino G.;
+RT   "The tryptophan operon in Sulfolobus solfataricus.";
+RL   Submitted (JUL-1995) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 35092 / DSM 1617 / JCM 11322 / P2;
+RX   PubMed=11427726; DOI=10.1073/pnas.141222098;
+RA   She Q., Singh R.K., Confalonieri F., Zivanovic Y., Allard G.,
+RA   Awayez M.J., Chan-Weiher C.C.-Y., Clausen I.G., Curtis B.A.,
+RA   De Moors A., Erauso G., Fletcher C., Gordon P.M.K.,
+RA   Heikamp-de Jong I., Jeffries A.C., Kozera C.J., Medina N., Peng X.,
+RA   Thi-Ngoc H.P., Redder P., Schenk M.E., Theriault C., Tolstrup N.,
+RA   Charlebois R.L., Doolittle W.F., Duguet M., Gaasterland T.,
+RA   Garrett R.A., Ragan M.A., Sensen C.W., Van der Oost J.;
+RT   "The complete genome of the crenarchaeon Sulfolobus solfataricus P2.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 98:7835-7840(2001).
+RN   [3]
+RP   FUNCTION, CATALYTIC ACTIVITY, BIOPHYSICOCHEMICAL PROPERTIES,
+RP   CRYSTALLIZATION, AND SUBUNIT.
+RX   PubMed=11298741; DOI=10.1046/j.1432-1327.2001.02102.x;
+RA   Ivens A., Mayans O., Szadkowski H., Wilmanns M., Kirschner K.;
+RT   "Purification, characterization and crystallization of thermostable
+RT   anthranilate phosphoribosyltransferase from Sulfolobus solfataricus.";
+RL   Eur. J. Biochem. 268:2246-2252(2001).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (2.7 ANGSTROMS) IN COMPLEX WITH MAGNESIUM IONS,
+RP   AND SUBUNIT.
+RX   PubMed=12093726; DOI=10.1093/emboj/cdf298;
+RA   Mayans O., Ivens A., Nissen L.J., Kirschner K., Wilmanns M.;
+RT   "Structural analysis of two enzymes catalysing reverse metabolic
+RT   reactions implies common ancestry.";
+RL   EMBO J. 21:3245-3254(2002).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (2.56 ANGSTROMS) IN COMPLEX WITH
+RP   PHOSPHORIBOSYLPYROPHOSPHATE, ANTHRANILATE AND MAGNESIUM IONS,
+RP   FUNCTION, MUTAGENESIS OF LYS-106; HIS-107; HIS-154; ARG-164; ASP-223
+RP   AND GLU-224, BIOPHYSICOCHEMICAL PROPERTIES, AND SUBUNIT.
+RX   PubMed=16714288; DOI=10.1074/jbc.M601403200;
+RA   Marino M., Deuss M., Svergun D.I., Konarev P.V., Sterner R.,
+RA   Mayans O.;
+RT   "Structural and mutational analysis of substrate complexation by
+RT   anthranilate phosphoribosyltransferase from Sulfolobus solfataricus.";
+RL   J. Biol. Chem. 281:21410-21421(2006).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (2.25 ANGSTROMS) IN COMPLEX WITH
+RP   PHOSPHORIBOSYLPYROPHOSPHATE AND MAGNESIUM IONS, AND SUBUNIT.
+RX   PubMed=19385665; DOI=10.1021/bi802335s;
+RA   Schlee S., Deuss M., Bruning M., Ivens A., Schwab T., Hellmann N.,
+RA   Mayans O., Sterner R.;
+RT   "Activation of anthranilate phosphoribosyltransferase from Sulfolobus
+RT   solfataricus by removal of magnesium inhibition and acceleration of
+RT   product release.";
+RL   Biochemistry 48:5199-5209(2009).
+CC   -!- FUNCTION: Catalyzes the transfer of the phosphoribosyl group of 5-
+CC       phosphorylribose-1-pyrophosphate (PRPP) to anthranilate to yield
+CC       N-(5'-phosphoribosyl)-anthranilate (PRA). {ECO:0000255|HAMAP-
+CC       Rule:MF_00211, ECO:0000269|PubMed:11298741,
+CC       ECO:0000269|PubMed:16714288}.
+CC   -!- CATALYTIC ACTIVITY: N-(5-phospho-D-ribosyl)-anthranilate +
+CC       diphosphate = anthranilate + 5-phospho-alpha-D-ribose 1-
+CC       diphosphate. {ECO:0000255|HAMAP-Rule:MF_00211,
+CC       ECO:0000269|PubMed:11298741}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC       Note=Binds 2 magnesium ions per monomer.;
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=50 uM for magnesium (at 60 degrees Celsius and at pH 7.5)
+CC         {ECO:0000269|PubMed:11298741, ECO:0000269|PubMed:16714288};
+CC         KM=40 nM for anthranilate (at 60 degrees Celsius and at pH 7.5)
+CC         {ECO:0000269|PubMed:11298741, ECO:0000269|PubMed:16714288};
+CC         KM=160 uM for phosphoribosylpyrophosphate (at 60 degrees Celsius
+CC         and at pH 7.5) {ECO:0000269|PubMed:11298741,
+CC         ECO:0000269|PubMed:16714288};
+CC         KM=20 nM for anthranilate (at 25 degrees Celsius and at pH 7.5)
+CC         {ECO:0000269|PubMed:11298741, ECO:0000269|PubMed:16714288};
+CC         KM=26 nM for anthranilate (at 40 degrees Celsius and at pH 7.5)
+CC         {ECO:0000269|PubMed:11298741, ECO:0000269|PubMed:16714288};
+CC         KM=32 nM for anthranilate (at 50 degrees Celsius and at pH 7.5)
+CC         {ECO:0000269|PubMed:11298741, ECO:0000269|PubMed:16714288};
+CC         KM=35 nM for anthranilate (at 60 degrees Celsius and at pH 7.5)
+CC         {ECO:0000269|PubMed:11298741, ECO:0000269|PubMed:16714288};
+CC         KM=500 nM for anthranilate (at 87 degrees Celsius and at pH 7.5
+CC         {ECO:0000269|PubMed:11298741, ECO:0000269|PubMed:16714288};
+CC   -!- PATHWAY: Amino-acid biosynthesis; L-tryptophan biosynthesis; L-
+CC       tryptophan from chorismate: step 2/5. {ECO:0000255|HAMAP-
+CC       Rule:MF_00211}.
+CC   -!- SUBUNIT: Homodimer. {ECO:0000255|HAMAP-Rule:MF_00211,
+CC       ECO:0000269|PubMed:11298741, ECO:0000269|PubMed:12093726,
+CC       ECO:0000269|PubMed:16714288, ECO:0000269|PubMed:19385665}.
+CC   -!- SIMILARITY: Belongs to the anthranilate phosphoribosyltransferase
+CC       family. {ECO:0000255|HAMAP-Rule:MF_00211}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; Z50014; CAA90309.1; -; Genomic_DNA.
+DR   EMBL; AE006641; AAK41173.1; -; Genomic_DNA.
+DR   PIR; F90239; F90239.
+DR   RefSeq; NP_342383.1; NC_002754.1.
+DR   RefSeq; WP_009992305.1; NC_002754.1.
+DR   PDB; 1GXB; X-ray; 2.70 A; A/B/C/D=1-345.
+DR   PDB; 1O17; X-ray; 2.05 A; A/B/C/D=1-345.
+DR   PDB; 1ZXY; X-ray; 2.56 A; A/B/C/D=1-345.
+DR   PDB; 1ZYK; X-ray; 2.40 A; A/B/C/D=1-345.
+DR   PDB; 2GVQ; X-ray; 2.43 A; A/B/C/D=1-345.
+DR   PDB; 3GBR; X-ray; 2.25 A; A/B=1-345.
+DR   PDBsum; 1GXB; -.
+DR   PDBsum; 1O17; -.
+DR   PDBsum; 1ZXY; -.
+DR   PDBsum; 1ZYK; -.
+DR   PDBsum; 2GVQ; -.
+DR   PDBsum; 3GBR; -.
+DR   ProteinModelPortal; P50384; -.
+DR   SMR; P50384; 1-345.
+DR   STRING; 273057.SSO0890; -.
+DR   EnsemblBacteria; AAK41173; AAK41173; SSO0890.
+DR   GeneID; 1455140; -.
+DR   KEGG; sso:SSO0890; -.
+DR   eggNOG; COG0547; -.
+DR   HOGENOM; HOG000230451; -.
+DR   InParanoid; P50384; -.
+DR   KO; K00766; -.
+DR   OMA; ARMTHES; -.
+DR   BioCyc; SSOL273057:GCH2-847-MONOMER; -.
+DR   BRENDA; 2.4.2.18; 6163.
+DR   UniPathway; UPA00035; UER00041.
+DR   EvolutionaryTrace; P50384; -.
+DR   Proteomes; UP000001974; Chromosome.
+DR   GO; GO:0004048; F:anthranilate phosphoribosyltransferase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0000162; P:tryptophan biosynthetic process; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 3.40.1030.10; -; 2.
+DR   HAMAP; MF_00211; TrpD; 1.
+DR   InterPro; IPR005940; Anthranilate_Pribosyl_Tfrase.
+DR   InterPro; IPR000312; Glycosyl_Trfase_fam3.
+DR   InterPro; IPR017459; Glycosyl_Trfase_fam3_N_dom.
+DR   Pfam; PF02885; Glycos_trans_3N; 1.
+DR   Pfam; PF00591; Glycos_transf_3; 1.
+DR   SUPFAM; SSF47648; SSF47648; 1.
+DR   SUPFAM; SSF52418; SSF52418; 1.
+DR   TIGRFAMs; TIGR01245; trpD; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Amino-acid biosynthesis;
+KW   Aromatic amino acid biosynthesis; Complete proteome;
+KW   Glycosyltransferase; Magnesium; Metal-binding; Reference proteome;
+KW   Transferase; Tryptophan biosynthesis.
+FT   CHAIN         1    345       Anthranilate phosphoribosyltransferase.
+FT                                /FTId=PRO_0000154523.
+FT   REGION       77     79       Phosphoribosylpyrophosphate binding.
+FT   REGION       82     83       Phosphoribosylpyrophosphate binding.
+FT   REGION       89     92       Phosphoribosylpyrophosphate binding.
+FT   REGION      106    114       Phosphoribosylpyrophosphate binding.
+FT   METAL        91     91       Magnesium 1.
+FT   METAL       223    223       Magnesium 2.
+FT   METAL       224    224       Magnesium 1.
+FT   METAL       224    224       Magnesium 2.
+FT   BINDING      79     79       Anthranilate 1; via carbonyl oxygen.
+FT   BINDING      87     87       Phosphoribosylpyrophosphate.
+FT                                {ECO:0000255|HAMAP-Rule:MF_00211,
+FT                                ECO:0000269|PubMed:16714288,
+FT                                ECO:0000269|PubMed:19385665}.
+FT   BINDING     109    109       Anthranilate 1.
+FT   BINDING     118    118       Phosphoribosylpyrophosphate; via amide
+FT                                nitrogen. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00211,
+FT                                ECO:0000269|PubMed:16714288,
+FT                                ECO:0000269|PubMed:19385665}.
+FT   BINDING     164    164       Anthranilate 2.
+FT   MUTAGEN     106    106       K->Q: Affinity for
+FT                                phosphoribosylpyrophosphate is similar to
+FT                                that of the wild-type enzyme and
+FT                                catalytic efficiency dedreases only 10-
+FT                                fold. {ECO:0000269|PubMed:16714288}.
+FT   MUTAGEN     107    107       H->A: Limited effect on either affinity
+FT                                for anthranilate and catalytic
+FT                                efficiency. 300-fold decrease of the
+FT                                affinity for anthranilate, whereas
+FT                                catalytic efficiency remains nearly
+FT                                unchanged; when associated with A-178.
+FT                                {ECO:0000269|PubMed:16714288}.
+FT   MUTAGEN     154    154       H->A: Limited effect on either affinity
+FT                                for anthranilate and catalytic
+FT                                efficiency.
+FT                                {ECO:0000269|PubMed:16714288}.
+FT   MUTAGEN     164    164       R->A: Strong decrease of the affinity for
+FT                                anthranilate, although only a moderate 7-
+FT                                fold decrease in catalytic efficiency.
+FT                                {ECO:0000269|PubMed:16714288}.
+FT   MUTAGEN     178    178       P->A: 300-fold decrease of the affinity
+FT                                for anthranilate, whereas catalytic
+FT                                efficiency remains nearly unchanged; when
+FT                                associated with A-107.
+FT   MUTAGEN     223    223       D->N: Affinity for
+FT                                phosphoribosylpyrophosphate is similar to
+FT                                that of the wild-type enzyme and
+FT                                catalytic efficiency is unchanged.
+FT                                {ECO:0000269|PubMed:16714288}.
+FT   MUTAGEN     224    224       E->Q: Affinity for
+FT                                phosphoribosylpyrophosphate is similar to
+FT                                that of the wild-type enzyme and
+FT                                catalytic efficiency is unchanged.
+FT                                {ECO:0000269|PubMed:16714288}.
+FT   HELIX         3     11       {ECO:0000244|PDB:1O17}.
+FT   HELIX        18     29       {ECO:0000244|PDB:1O17}.
+FT   HELIX        35     48       {ECO:0000244|PDB:1O17}.
+FT   HELIX        52     65       {ECO:0000244|PDB:1O17}.
+FT   STRAND       75     79       {ECO:0000244|PDB:3GBR}.
+FT   HELIX        90     98       {ECO:0000244|PDB:1O17}.
+FT   TURN         99    101       {ECO:0000244|PDB:1O17}.
+FT   STRAND      104    108       {ECO:0000244|PDB:1O17}.
+FT   STRAND      112    115       {ECO:0000244|PDB:1O17}.
+FT   HELIX       118    125       {ECO:0000244|PDB:1O17}.
+FT   HELIX       133    143       {ECO:0000244|PDB:1O17}.
+FT   STRAND      144    149       {ECO:0000244|PDB:1O17}.
+FT   HELIX       150    153       {ECO:0000244|PDB:1O17}.
+FT   HELIX       155    159       {ECO:0000244|PDB:1O17}.
+FT   HELIX       161    167       {ECO:0000244|PDB:1O17}.
+FT   HELIX       172    175       {ECO:0000244|PDB:1O17}.
+FT   HELIX       177    179       {ECO:0000244|PDB:1O17}.
+FT   STRAND      186    191       {ECO:0000244|PDB:1O17}.
+FT   HELIX       195    205       {ECO:0000244|PDB:1O17}.
+FT   TURN        207    209       {ECO:0000244|PDB:1ZYK}.
+FT   STRAND      211    218       {ECO:0000244|PDB:1O17}.
+FT   TURN        219    221       {ECO:0000244|PDB:1O17}.
+FT   STRAND      222    224       {ECO:0000244|PDB:1O17}.
+FT   STRAND      227    237       {ECO:0000244|PDB:1O17}.
+FT   STRAND      240    247       {ECO:0000244|PDB:1O17}.
+FT   HELIX       248    251       {ECO:0000244|PDB:1O17}.
+FT   HELIX       258    260       {ECO:0000244|PDB:1O17}.
+FT   HELIX       266    277       {ECO:0000244|PDB:1O17}.
+FT   HELIX       282    298       {ECO:0000244|PDB:1O17}.
+FT   STRAND      301    304       {ECO:0000244|PDB:1O17}.
+FT   HELIX       305    316       {ECO:0000244|PDB:1O17}.
+FT   HELIX       319    329       {ECO:0000244|PDB:1O17}.
+FT   HELIX       333    340       {ECO:0000244|PDB:1O17}.
+SQ   SEQUENCE   345 AA;  37574 MW;  D51927F4B7AAFA90 CRC64;
+     MNINEILKKL INKSDLEINE AEELAKAIIR GEVPEILVSA ILVALRMKGE SKNEIVGFAR
+     AMRELAIKID VPNAIDTAGT GGDGLGTVNV STASAILLSL VNPVAKHGNR AVSGKSGSAD
+     VLEALGYNII VPPERAKELV NKTNFVFLFA QYYHPAMKNV ANVRKTLGIR TIFNILGPLT
+     NPANAKYQLM GVFSKDHLDL LSKSAYELDF NKIILVYGEP GIDEVSPIGN TFMKIVSKRG
+     IEEVKLNVTD FGISPIPIEK LIVNSAEDSA IKIVRAFLGK DEHVAEFIKI NTAVALFALD
+     RVGDFREGYE YADHLIEKSL DKLNEIISMN GDVTKLKTIV VKSSG
+//

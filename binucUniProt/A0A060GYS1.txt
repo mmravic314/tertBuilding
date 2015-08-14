@@ -1,0 +1,61 @@
+ID   A0A060GYS1_BREDI        Unreviewed;       333 AA.
+AC   A0A060GYS1;
+DT   03-SEP-2014, integrated into UniProtKB/TrEMBL.
+DT   03-SEP-2014, sequence version 1.
+DT   22-JUL-2015, entry version 5.
+DE   SubName: Full=Phosphotriesterase variant PTE-R0 {ECO:0000313|EMBL:AIB55573.1};
+OS   Brevundimonas diminuta (Pseudomonas diminuta).
+OC   Bacteria; Proteobacteria; Alphaproteobacteria; Caulobacterales;
+OC   Caulobacteraceae; Brevundimonas.
+OX   NCBI_TaxID=293 {ECO:0000313|EMBL:AIB55573.1};
+RN   [1] {ECO:0000213|PDB:4PCP}
+RP   X-RAY CRYSTALLOGRAPHY (1.63 ANGSTROMS) IN COMPLEX WITH ZINC.
+RA   Campbell E., Kaltenbach M., Tokuriki N., Jackson C.;
+RT   "Crystal Structure of Phosphotriesterase variant R0.";
+RL   Submitted (APR-2014) to the PDB data bank.
+RN   [2] {ECO:0000313|EMBL:AIB55573.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Campbell E., Kaltenbach M., Carr P., Livingstone E., Jurnou L.,
+RA   Weik M., Tawfik D.S., Hyvonen M., Hollfelder F., Tokuriki N.,
+RA   Jackson C.J.;
+RT   "Cycles of disruption and repair underlie the evolution of new enzyme
+RT   function.";
+RL   Submitted (APR-2014) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; KJ680379; AIB55573.1; -; Genomic_DNA.
+DR   PDB; 4PCP; X-ray; 1.63 A; A/G=1-333.
+DR   PDBsum; 4PCP; -.
+DR   GO; GO:0016788; F:hydrolase activity, acting on ester bonds; IEA:InterPro.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:InterPro.
+DR   GO; GO:0009056; P:catabolic process; IEA:InterPro.
+DR   InterPro; IPR017947; AryldialkylPase_Zn-BS.
+DR   InterPro; IPR001559; Phosphotriesterase.
+DR   PANTHER; PTHR10819; PTHR10819; 1.
+DR   Pfam; PF02126; PTE; 1.
+DR   PROSITE; PS01322; PHOSPHOTRIESTERASE_1; 1.
+DR   PROSITE; PS51347; PHOSPHOTRIESTERASE_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4PCP};
+KW   Metal-binding {ECO:0000213|PDB:4PCP}; Zinc {ECO:0000213|PDB:4PCP}.
+FT   METAL        23     23       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4PCP}.
+FT   METAL        25     25       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4PCP}.
+FT   METAL       137    137       Zinc 1. {ECO:0000213|PDB:4PCP}.
+FT   METAL       137    137       Zinc 2. {ECO:0000213|PDB:4PCP}.
+FT   METAL       169    169       Zinc 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:4PCP}.
+FT   METAL       198    198       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4PCP}.
+FT   METAL       269    269       Zinc 1. {ECO:0000213|PDB:4PCP}.
+SQ   SEQUENCE   333 AA;  35973 MW;  2B9078C66365E515 CRC64;
+     MGDRINTVRG PITISEAGFT LTHEHICGSS AGFLRAWPEF FGSRKALAEK AVRGLRRARA
+     AGVRTIVDVS TFDLGRDVSL LAEVSRAADV HIVAATGLWL DPPLSMRLRS VEELTQFFLR
+     EIQYGIEDTG IRAGIIKVAT TGKVTPFQEL VLRAAARASL ATGVPVTTHT AASQRGGEQQ
+     AAIFESEGLS PSRVCIGHSD DTDDLSYLTA LAARGYLIGL DHIPHSAIGL EDNASASALL
+     GIRSWQTRAL LIKALIDQGY MKQILVSNDW LFGFSSYVTN IMDVMDSVNP DGMAFIPLRV
+     IPFLREKGIP QETLAGITVT NPARFLSPTL RAS
+//

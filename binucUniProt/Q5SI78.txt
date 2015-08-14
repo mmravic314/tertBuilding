@@ -1,0 +1,105 @@
+ID   Q5SI78_THET8            Unreviewed;       291 AA.
+AC   Q5SI78;
+DT   21-DEC-2004, integrated into UniProtKB/TrEMBL.
+DT   21-DEC-2004, sequence version 1.
+DT   29-APR-2015, entry version 76.
+DE   RecName: Full=Arginase {ECO:0000256|RuleBase:RU361159};
+DE            EC=3.5.3.1 {ECO:0000256|RuleBase:RU361159};
+GN   OrderedLocusNames=TTHA1496 {ECO:0000313|EMBL:BAD71319.1};
+OS   Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579).
+OC   Bacteria; Deinococcus-Thermus; Deinococci; Thermales; Thermaceae;
+OC   Thermus.
+OX   NCBI_TaxID=300852 {ECO:0000313|EMBL:BAD71319.1, ECO:0000313|Proteomes:UP000000532};
+RN   [1] {ECO:0000313|EMBL:BAD71319.1, ECO:0000313|Proteomes:UP000000532}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=HB8 / ATCC 27634 / DSM 579 {ECO:0000313|Proteomes:UP000000532};
+RA   Masui R., Kurokawa K., Nakagawa N., Tokunaga F., Koyama Y.,
+RA   Shibata T., Oshima T., Yokoyama S., Yasunaga T., Kuramitsu S.;
+RT   "Complete genome sequence of Thermus thermophilus HB8.";
+RL   Submitted (NOV-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:2EF4, ECO:0000213|PDB:2EF5}
+RP   X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) OF 2-291.
+RA   Kumarevel T.S., Karthe P., Kuramitsu S., Yokoyama S.;
+RT   "Crystal structure of the arginase from thermus thermophilus.";
+RL   Submitted (FEB-2007) to the PDB data bank.
+RN   [3] {ECO:0000213|PDB:2EIV}
+RP   X-RAY CRYSTALLOGRAPHY (2.91 ANGSTROMS).
+RA   Kumarevel T.S., Karthe P., Kuramitsu S., Yokoyama S.;
+RT   "Crystal Structure of the arginase from Thermus thermophilus.";
+RL   Submitted (MAR-2007) to the PDB data bank.
+CC   -!- CATALYTIC ACTIVITY: L-arginine + H(2)O = L-ornithine + urea.
+CC       {ECO:0000256|RuleBase:RU361159}.
+CC   -!- COFACTOR:
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000256|RuleBase:RU361159};
+CC       Note=Binds 2 manganese ions per subunit.
+CC       {ECO:0000256|RuleBase:RU361159};
+CC   -!- SIMILARITY: Belongs to the arginase family.
+CC       {ECO:0000256|RuleBase:RU361159}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AP008226; BAD71319.1; -; Genomic_DNA.
+DR   RefSeq; WP_011228718.1; NC_006461.1.
+DR   RefSeq; YP_144762.1; NC_006461.1.
+DR   PDB; 2EF4; X-ray; 2.30 A; A=2-291.
+DR   PDB; 2EF5; X-ray; 2.00 A; A/B/D/E/F/G=2-291.
+DR   PDB; 2EIV; X-ray; 2.91 A; A/C/D/E/F/G/H/I/J/K/L/M=1-291.
+DR   PDBsum; 2EF4; -.
+DR   PDBsum; 2EF5; -.
+DR   PDBsum; 2EIV; -.
+DR   ProteinModelPortal; Q5SI78; -.
+DR   SMR; Q5SI78; 2-291.
+DR   STRING; 300852.TTHA1496; -.
+DR   EnsemblBacteria; BAD71319; BAD71319; BAD71319.
+DR   GeneID; 3169704; -.
+DR   KEGG; ttj:TTHA1496; -.
+DR   PATRIC; 23957953; VBITheThe93045_1471.
+DR   eggNOG; COG0010; -.
+DR   HOGENOM; HOG000204319; -.
+DR   KO; K01476; -.
+DR   OMA; IYTMHEV; -.
+DR   OrthoDB; EOG6BKJ5H; -.
+DR   PhylomeDB; Q5SI78; -.
+DR   BioCyc; TTHE300852:GH8R-1533-MONOMER; -.
+DR   EvolutionaryTrace; Q5SI78; -.
+DR   Proteomes; UP000000532; Chromosome.
+DR   GO; GO:0004053; F:arginase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006525; P:arginine metabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.800.10; -; 1.
+DR   InterPro; IPR014033; Arginase.
+DR   InterPro; IPR006035; Ureohydrolase.
+DR   InterPro; IPR023696; Ureohydrolase_domain.
+DR   PANTHER; PTHR11358; PTHR11358; 1.
+DR   Pfam; PF00491; Arginase; 1.
+DR   PIRSF; PIRSF036979; Arginase; 1.
+DR   PRINTS; PR00116; ARGINASE.
+DR   TIGRFAMs; TIGR01229; rocF_arginase; 1.
+DR   PROSITE; PS51409; ARGINASE_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2EF4, ECO:0000213|PDB:2EF5};
+KW   Arginine metabolism {ECO:0000256|RuleBase:RU361159};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000532};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361159};
+KW   Manganese {ECO:0000213|PDB:2EF5, ECO:0000256|RuleBase:RU361159};
+KW   Metal-binding {ECO:0000213|PDB:2EF5, ECO:0000256|RuleBase:RU361159};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000532}.
+FT   METAL        97     97       Manganese 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:2EF5}.
+FT   METAL       119    119       Manganese 1. {ECO:0000213|PDB:2EF5}.
+FT   METAL       119    119       Manganese 2. {ECO:0000213|PDB:2EF5}.
+FT   METAL       121    121       Manganese 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:2EF5}.
+FT   METAL       123    123       Manganese 1. {ECO:0000213|PDB:2EF5}.
+FT   METAL       218    218       Manganese 1. {ECO:0000213|PDB:2EF5}.
+FT   METAL       218    218       Manganese 2. {ECO:0000213|PDB:2EF5}.
+FT   METAL       220    220       Manganese 2. {ECO:0000213|PDB:2EF5}.
+SQ   SEQUENCE   291 AA;  31229 MW;  EC505E6C4C27A40B CRC64;
+     MERVAVVGVP MDLGANRRGV DMGPSALRYA RLLEQLEDLG YTVEDLGDVP VSLARASRRR
+     GRGLAYLEEI RAAALVLKER LAALPEGVFP IVLGGDHSLS MGSVAGAARG RRVGVVWVDA
+     HADFNTPETS PSGNVHGMPL AVLSGLGHPR LTEVFRAVDP KDVVLVGVRS LDPGEKRLLK
+     EAGVRVYTMH EVDRLGVARI AEEVLKHLQG LPLHVSLDAD VLDPTLAPGV GTPVPGGLTY
+     REAHLLMEIL AESGRVQSLD LVEVNPILDE RNRTAEMLVG LALSLLGKRI F
+//

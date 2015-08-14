@@ -1,0 +1,333 @@
+ID   ATPB_RAT                Reviewed;         529 AA.
+AC   P10719; Q499W0;
+DT   01-JUL-1989, integrated into UniProtKB/Swiss-Prot.
+DT   01-APR-1990, sequence version 2.
+DT   24-JUN-2015, entry version 155.
+DE   RecName: Full=ATP synthase subunit beta, mitochondrial;
+DE            EC=3.6.3.14;
+DE   Flags: Precursor;
+GN   Name=Atp5b;
+OS   Rattus norvegicus (Rat).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Rattus.
+OX   NCBI_TaxID=10116;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Prostate;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 1-60.
+RX   PubMed=2522775; DOI=10.1016/0006-291X(89)92235-3;
+RA   Boulet D., Poirier J., Cote C.;
+RT   "Studies on the biogenesis of the mammalian ATP synthase complex:
+RT   isolation and characterization of a full-length cDNA encoding the rat
+RT   F1-beta-subunit.";
+RL   Biochem. Biophys. Res. Commun. 159:1184-1190(1989).
+RN   [3]
+RP   PROTEIN SEQUENCE OF 47-60.
+RC   TISSUE=Liver;
+RX   PubMed=2531579; DOI=10.1016/0006-291X(89)91791-9;
+RA   Cretin F., Baggetto L.G., Denoroy L., Godinot C.;
+RT   "N-terminal sequence of the rat liver beta-subunit in the
+RT   mitochondrial ATPase-ATPsynthase.";
+RL   Biochem. Biophys. Res. Commun. 164:1165-1169(1989).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 58-529.
+RX   PubMed=2894849; DOI=10.1021/bi00402a008;
+RA   Garboczi D.N., Fox A.H., Gerring S.L., Pedersen P.L.;
+RT   "Beta subunit of rat liver mitochondrial ATP synthase: cDNA cloning,
+RT   amino acid sequence, expression in Escherichia coli, and structural
+RT   relationship to adenylate kinase.";
+RL   Biochemistry 27:553-560(1988).
+RN   [5]
+RP   PROTEIN SEQUENCE OF 87-98; 208-219; 225-234; 268-279 AND 433-454, AND
+RP   CALCIUM-BINDING.
+RX   PubMed=8764999; DOI=10.1016/0014-5793(96)00767-3;
+RA   Hubbard M.J., McHugh N.J.;
+RT   "Mitochondrial ATP synthase F1-beta-subunit is a calcium-binding
+RT   protein.";
+RL   FEBS Lett. 391:323-329(1996).
+RN   [6]
+RP   PROTEIN SEQUENCE OF 95-121; 125-155; 189-198; 202-239; 226-239;
+RP   242-259; 265-279; 282-345; 388-422; 427-456 AND 463-480, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY.
+RC   STRAIN=Sprague-Dawley; TISSUE=Brain, Hippocampus, and Spinal cord;
+RA   Lubec G., Afjehi-Sadat L., Chen W.-Q., Kang S.U.;
+RL   Submitted (JUL-2007) to UniProtKB.
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 172-529.
+RX   PubMed=2907347;
+RA   Lee Y.M., Chu L.P., Lee S.C.;
+RT   "Molecular cloning of cDNA for the rat F1-ATPase beta subunit.";
+RL   Taiwan Yi Xue Hui Za Zhi 87:933-938(1988).
+RN   [8]
+RP   IDENTIFICATION BY MASS SPECTROMETRY.
+RC   TISSUE=Pancreatic acinar cell;
+RX   PubMed=14673794; DOI=10.1002/pmic.200300585;
+RA   Yu J.-H., Yun S.-Y., Lim J.-W., Kim H., Kim K.-H.;
+RT   "Mass spectrometry and tandem mass spectrometry analysis of rat
+RT   mitochondrial ATP synthase: up-regulation in pancreatic acinar cells
+RT   treated with cerulein.";
+RL   Proteomics 3:2437-2445(2003).
+RN   [9]
+RP   IDENTIFICATION BY MASS SPECTROMETRY, AND IDENTIFICATION IN THE ATP
+RP   SYNTHASE COMPLEX.
+RX   PubMed=17575325; DOI=10.1074/mcp.M700097-MCP200;
+RA   Meyer B., Wittig I., Trifilieff E., Karas M., Schaegger H.;
+RT   "Identification of two proteins associated with mammalian ATP
+RT   synthase.";
+RL   Mol. Cell. Proteomics 6:1690-1699(2007).
+RN   [10]
+RP   INTERACTION WITH BCL2L1.
+RX   PubMed=21926988; DOI=10.1038/ncb2330;
+RA   Alavian K.N., Li H., Collis L., Bonanni L., Zeng L., Sacchetti S.,
+RA   Lazrove E., Nabili P., Flaherty B., Graham M., Chen Y., Messerli S.M.,
+RA   Mariggio M.A., Rahner C., McNay E., Shore G.C., Smith P.J.,
+RA   Hardwick J.M., Jonas E.A.;
+RT   "Bcl-xL regulates metabolic efficiency of neurons through interaction
+RT   with the mitochondrial F1FO ATP synthase.";
+RL   Nat. Cell Biol. 13:1224-1233(2011).
+RN   [11]
+RP   GLYCOSYLATION AT SER-106.
+RX   PubMed=24098488; DOI=10.1371/journal.pone.0076399;
+RA   Cao W., Cao J., Huang J., Yao J., Yan G., Xu H., Yang P.;
+RT   "Discovery and confirmation of O-GlcNAcylated proteins in rat liver
+RT   mitochondria by combination of mass spectrometry and immunological
+RT   methods.";
+RL   PLoS ONE 8:E76399-E76399(2013).
+RN   [12]
+RP   X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS).
+RX   PubMed=9736690; DOI=10.1073/pnas.95.19.11065;
+RA   Bianchet M.A., Hullihen J., Pedersen P.L., Amzel L.M.;
+RT   "The 2.8-A structure of rat liver F1-ATPase: configuration of a
+RT   critical intermediate in ATP synthesis/hydrolysis.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 95:11065-11070(1998).
+CC   -!- FUNCTION: Mitochondrial membrane ATP synthase (F(1)F(0) ATP
+CC       synthase or Complex V) produces ATP from ADP in the presence of a
+CC       proton gradient across the membrane which is generated by electron
+CC       transport complexes of the respiratory chain. F-type ATPases
+CC       consist of two structural domains, F(1) - containing the
+CC       extramembraneous catalytic core, and F(0) - containing the
+CC       membrane proton channel, linked together by a central stalk and a
+CC       peripheral stalk. During catalysis, ATP synthesis in the catalytic
+CC       domain of F(1) is coupled via a rotary mechanism of the central
+CC       stalk subunits to proton translocation. Subunits alpha and beta
+CC       form the catalytic core in F(1). Rotation of the central stalk
+CC       against the surrounding alpha(3)beta(3) subunits leads to
+CC       hydrolysis of ATP in three separate catalytic sites on the beta
+CC       subunits.
+CC   -!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+CC       H(+)(Out).
+CC   -!- SUBUNIT: F-type ATPases have 2 components, CF(1) - the catalytic
+CC       core - and CF(0) - the membrane proton channel. CF(1) has five
+CC       subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0)
+CC       has three main subunits: a, b and c. Component of an ATP synthase
+CC       complex composed of ATP5F1, ATP5G1, ATP5E, ATP5H, ATP5I, ATP5J,
+CC       ATP5J2, MT-ATP6, MT-ATP8, ATP5A1, ATP5B, ATP5D, ATP5C1, ATP5O,
+CC       ATP5L, USMG5 and MP68. Interacts with PPIF. Interacts with BCL2L1
+CC       isoform BCL-X(L); the interaction mediates the association of
+CC       BCL2L1 isoform BCL-X(L) with the mitochondrial membrane F(1)F(0)
+CC       ATP synthase and enhances neurons metabolic efficency.
+CC       {ECO:0000269|PubMed:17575325, ECO:0000269|PubMed:21926988}.
+CC   -!- SUBCELLULAR LOCATION: Mitochondrion. Mitochondrion inner membrane.
+CC       Note=Peripheral membrane protein.
+CC   -!- MISCELLANEOUS: Binds calcium ions.
+CC   -!- SIMILARITY: Belongs to the ATPase alpha/beta chains family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; BC099743; AAH99743.1; -; mRNA.
+DR   EMBL; M25301; AAA57154.1; -; mRNA.
+DR   EMBL; M19044; AAB02288.1; ALT_SEQ; mRNA.
+DR   EMBL; M57634; AAA40778.1; -; mRNA.
+DR   PIR; A28701; A28701.
+DR   PIR; A30160; A30160.
+DR   RefSeq; NP_599191.1; NM_134364.1.
+DR   UniGene; Rn.92965; -.
+DR   PDB; 1MAB; X-ray; 2.80 A; B=51-529.
+DR   PDB; 2F43; X-ray; 3.00 A; B=51-529.
+DR   PDBsum; 1MAB; -.
+DR   PDBsum; 2F43; -.
+DR   ProteinModelPortal; P10719; -.
+DR   SMR; P10719; 51-527.
+DR   BioGrid; 251212; 4.
+DR   IntAct; P10719; 6.
+DR   MINT; MINT-4587159; -.
+DR   STRING; 10116.ENSRNOP00000003965; -.
+DR   ChEMBL; CHEMBL2176796; -.
+DR   PhosphoSite; P10719; -.
+DR   UCD-2DPAGE; P10719; -.
+DR   World-2DPAGE; 0004:P10719; -.
+DR   PaxDb; P10719; -.
+DR   PRIDE; P10719; -.
+DR   GeneID; 171374; -.
+DR   KEGG; rno:171374; -.
+DR   UCSC; RGD:621368; rat.
+DR   CTD; 506; -.
+DR   RGD; 621368; Atp5b.
+DR   eggNOG; COG0055; -.
+DR   HOGENOM; HOG000009605; -.
+DR   HOVERGEN; HBG004307; -.
+DR   InParanoid; P10719; -.
+DR   KO; K02133; -.
+DR   PhylomeDB; P10719; -.
+DR   BRENDA; 3.6.3.14; 5301.
+DR   EvolutionaryTrace; P10719; -.
+DR   NextBio; 622183; -.
+DR   PRO; PR:P10719; -.
+DR   Proteomes; UP000002494; Unplaced.
+DR   Genevisible; P10719; RN.
+DR   GO; GO:0005743; C:mitochondrial inner membrane; IDA:RGD.
+DR   GO; GO:0005753; C:mitochondrial proton-transporting ATP synthase complex; IDA:UniProtKB.
+DR   GO; GO:0000275; C:mitochondrial proton-transporting ATP synthase complex, catalytic core F(1); IDA:RGD.
+DR   GO; GO:0005739; C:mitochondrion; IDA:RGD.
+DR   GO; GO:0045261; C:proton-transporting ATP synthase complex, catalytic core F(1); IDA:RGD.
+DR   GO; GO:0005524; F:ATP binding; IDA:RGD.
+DR   GO; GO:0016887; F:ATPase activity; IDA:RGD.
+DR   GO; GO:0005509; F:calcium ion binding; IDA:RGD.
+DR   GO; GO:0030228; F:lipoprotein particle receptor activity; IDA:RGD.
+DR   GO; GO:0046933; F:proton-transporting ATP synthase activity, rotational mechanism; IEA:InterPro.
+DR   GO; GO:0015991; P:ATP hydrolysis coupled proton transport; IEA:InterPro.
+DR   GO; GO:0046034; P:ATP metabolic process; IDA:RGD.
+DR   GO; GO:0015986; P:ATP synthesis coupled proton transport; IEA:InterPro.
+DR   GO; GO:0006898; P:receptor-mediated endocytosis; IDA:RGD.
+DR   Gene3D; 1.10.1140.10; -; 1.
+DR   Gene3D; 3.40.50.300; -; 1.
+DR   HAMAP; MF_01347; ATP_synth_beta_bact; 1.
+DR   InterPro; IPR003593; AAA+_ATPase.
+DR   InterPro; IPR020003; ATPase_a/bsu_AS.
+DR   InterPro; IPR005722; ATPase_F1-cplx_bsu.
+DR   InterPro; IPR000793; ATPase_F1/V1/A1-cplx_a/bsu_C.
+DR   InterPro; IPR000194; ATPase_F1/V1/A1_a/bsu_nucl-bd.
+DR   InterPro; IPR004100; ATPase_F1_a/bsu_N.
+DR   InterPro; IPR024034; ATPase_F1_bsu/V1_C.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   Pfam; PF00006; ATP-synt_ab; 1.
+DR   Pfam; PF00306; ATP-synt_ab_C; 1.
+DR   Pfam; PF02874; ATP-synt_ab_N; 1.
+DR   SMART; SM00382; AAA; 1.
+DR   SUPFAM; SSF47917; SSF47917; 1.
+DR   SUPFAM; SSF50615; SSF50615; 1.
+DR   SUPFAM; SSF52540; SSF52540; 1.
+DR   TIGRFAMs; TIGR01039; atpD; 1.
+DR   PROSITE; PS00152; ATPASE_ALPHA_BETA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; ATP synthesis; ATP-binding; CF(1);
+KW   Complete proteome; Direct protein sequencing; Glycoprotein;
+KW   Hydrogen ion transport; Hydrolase; Ion transport; Membrane;
+KW   Mitochondrion; Mitochondrion inner membrane; Nucleotide-binding;
+KW   Phosphoprotein; Reference proteome; Transit peptide; Transport.
+FT   TRANSIT       1     46       Mitochondrion.
+FT                                {ECO:0000269|PubMed:2531579}.
+FT   CHAIN        47    529       ATP synthase subunit beta, mitochondrial.
+FT                                /FTId=PRO_0000002445.
+FT   NP_BIND     206    213       ATP. {ECO:0000250}.
+FT   MOD_RES     124    124       N6-acetyllysine; alternate.
+FT                                {ECO:0000250|UniProtKB:P56480}.
+FT   MOD_RES     124    124       N6-succinyllysine; alternate.
+FT                                {ECO:0000250|UniProtKB:P56480}.
+FT   MOD_RES     133    133       N6-acetyllysine; alternate.
+FT                                {ECO:0000250|UniProtKB:P06576}.
+FT   MOD_RES     133    133       N6-succinyllysine; alternate.
+FT                                {ECO:0000250|UniProtKB:P56480}.
+FT   MOD_RES     161    161       N6-acetyllysine; alternate.
+FT                                {ECO:0000250|UniProtKB:P56480}.
+FT   MOD_RES     161    161       N6-succinyllysine; alternate.
+FT                                {ECO:0000250|UniProtKB:P56480}.
+FT   MOD_RES     198    198       N6-acetyllysine.
+FT                                {ECO:0000250|UniProtKB:P06576}.
+FT   MOD_RES     259    259       N6-acetyllysine; alternate.
+FT                                {ECO:0000250|UniProtKB:P56480}.
+FT   MOD_RES     259    259       N6-succinyllysine; alternate.
+FT                                {ECO:0000250|UniProtKB:P56480}.
+FT   MOD_RES     264    264       N6-acetyllysine; alternate.
+FT                                {ECO:0000250|UniProtKB:P56480}.
+FT   MOD_RES     264    264       N6-succinyllysine; alternate.
+FT                                {ECO:0000250|UniProtKB:P56480}.
+FT   MOD_RES     415    415       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:P06576}.
+FT   MOD_RES     426    426       N6-acetyllysine.
+FT                                {ECO:0000250|UniProtKB:P06576}.
+FT   MOD_RES     480    480       N6-acetyllysine.
+FT                                {ECO:0000250|UniProtKB:P56480}.
+FT   MOD_RES     485    485       N6-acetyllysine.
+FT                                {ECO:0000250|UniProtKB:P56480}.
+FT   MOD_RES     522    522       N6-acetyllysine; alternate.
+FT                                {ECO:0000250|UniProtKB:P56480}.
+FT   MOD_RES     522    522       N6-succinyllysine; alternate.
+FT                                {ECO:0000250|UniProtKB:P56480}.
+FT   MOD_RES     529    529       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:P06576}.
+FT   CARBOHYD    106    106       O-linked (GlcNAc).
+FT                                {ECO:0000269|PubMed:24098488}.
+FT   CONFLICT    257    258       NL -> KV (in Ref. 7; AAA40778).
+FT                                {ECO:0000305}.
+FT   CONFLICT    429    430       QD -> HV (in Ref. 7; AAA40778).
+FT                                {ECO:0000305}.
+FT   STRAND       60     62       {ECO:0000244|PDB:1MAB}.
+FT   STRAND       65     67       {ECO:0000244|PDB:1MAB}.
+FT   STRAND       70     72       {ECO:0000244|PDB:1MAB}.
+FT   STRAND       75     77       {ECO:0000244|PDB:1MAB}.
+FT   STRAND       85     90       {ECO:0000244|PDB:1MAB}.
+FT   STRAND       96    104       {ECO:0000244|PDB:1MAB}.
+FT   STRAND      107    114       {ECO:0000244|PDB:1MAB}.
+FT   STRAND      124    127       {ECO:0000244|PDB:1MAB}.
+FT   STRAND      129    131       {ECO:0000244|PDB:1MAB}.
+FT   STRAND      133    137       {ECO:0000244|PDB:2F43}.
+FT   HELIX       138    140       {ECO:0000244|PDB:2F43}.
+FT   STRAND      141    146       {ECO:0000244|PDB:1MAB}.
+FT   STRAND      153    155       {ECO:0000244|PDB:1MAB}.
+FT   STRAND      164    167       {ECO:0000244|PDB:1MAB}.
+FT   TURN        173    175       {ECO:0000244|PDB:1MAB}.
+FT   HELIX       188    191       {ECO:0000244|PDB:1MAB}.
+FT   STRAND      205    212       {ECO:0000244|PDB:1MAB}.
+FT   HELIX       213    222       {ECO:0000244|PDB:1MAB}.
+FT   TURN        223    225       {ECO:0000244|PDB:1MAB}.
+FT   STRAND      231    238       {ECO:0000244|PDB:1MAB}.
+FT   HELIX       240    252       {ECO:0000244|PDB:1MAB}.
+FT   STRAND      254    256       {ECO:0000244|PDB:1MAB}.
+FT   STRAND      258    261       {ECO:0000244|PDB:1MAB}.
+FT   STRAND      265    271       {ECO:0000244|PDB:1MAB}.
+FT   HELIX       276    294       {ECO:0000244|PDB:1MAB}.
+FT   TURN        295    298       {ECO:0000244|PDB:2F43}.
+FT   STRAND      301    306       {ECO:0000244|PDB:1MAB}.
+FT   HELIX       310    316       {ECO:0000244|PDB:1MAB}.
+FT   HELIX       320    322       {ECO:0000244|PDB:1MAB}.
+FT   HELIX       335    343       {ECO:0000244|PDB:1MAB}.
+FT   STRAND      354    357       {ECO:0000244|PDB:1MAB}.
+FT   HELIX       363    365       {ECO:0000244|PDB:1MAB}.
+FT   HELIX       372    376       {ECO:0000244|PDB:1MAB}.
+FT   HELIX       387    390       {ECO:0000244|PDB:1MAB}.
+FT   TURN        391    393       {ECO:0000244|PDB:2F43}.
+FT   STRAND      400    402       {ECO:0000244|PDB:1MAB}.
+FT   TURN        410    414       {ECO:0000244|PDB:1MAB}.
+FT   HELIX       415    434       {ECO:0000244|PDB:1MAB}.
+FT   TURN        435    439       {ECO:0000244|PDB:1MAB}.
+FT   HELIX       448    464       {ECO:0000244|PDB:1MAB}.
+FT   HELIX       469    471       {ECO:0000244|PDB:1MAB}.
+FT   HELIX       472    475       {ECO:0000244|PDB:1MAB}.
+FT   STRAND      483    485       {ECO:0000244|PDB:1MAB}.
+FT   TURN        486    489       {ECO:0000244|PDB:1MAB}.
+FT   HELIX       490    496       {ECO:0000244|PDB:1MAB}.
+FT   TURN        498    501       {ECO:0000244|PDB:2F43}.
+FT   HELIX       504    507       {ECO:0000244|PDB:1MAB}.
+FT   HELIX       514    520       {ECO:0000244|PDB:1MAB}.
+FT   TURN        521    523       {ECO:0000244|PDB:2F43}.
+SQ   SEQUENCE   529 AA;  56354 MW;  9753BFBDBCD30E0F CRC64;
+     MLSLVGRVAS ASASGALRGL NPLAALPQAH LLLRTAPAGV HPARDYAAQS SAAPKAGTAT
+     GQIVAVIGAV VDVQFDEGLP PILNALEVQG RESRLVLEVA QHLGESTVRT IAMDGTEGLV
+     RGQKVLDSGA PIKIPVGPET LGRIMNVIGE PIDERGPIKT KQFAPIHAEA PEFIEMSVEQ
+     EILVTGIKVV DLLAPYAKGG KIGLFGGAGV GKTVLIMELI NNVAKAHGGY SVFAGVGERT
+     REGNDLYHEM IESGVINLKD ATSKVALVYG QMNEPPGARA RVALTGLTVA EYFRDQEGQD
+     VLLFIDNIFR FTQAGSEVSA LLGRIPSAVG YQPTLATDMG TMQERITTTK KGSITSVQAI
+     YVPADDLTDP APATTFAHLD ATTVLSRAIA ELGIYPAVDP LDSTSRIMDP NIVGSEHYDV
+     ARGVQKILQD YKSLQDIIAI LGMDELSEED KLTVSRARKI QRFLSQPFQV AEVFTGHMGK
+     LVPLKETIKG FQQILAGDYD HLPEQAFYMV GPIEEAVAKA DKLAEEHGS
+//

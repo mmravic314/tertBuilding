@@ -1,0 +1,125 @@
+ID   SYW_AERPE               Reviewed;         372 AA.
+AC   Q9Y924;
+DT   30-MAY-2000, integrated into UniProtKB/Swiss-Prot.
+DT   10-JUL-2007, sequence version 2.
+DT   29-APR-2015, entry version 85.
+DE   RecName: Full=Tryptophan--tRNA ligase {ECO:0000255|HAMAP-Rule:MF_00140};
+DE            EC=6.1.1.2 {ECO:0000255|HAMAP-Rule:MF_00140};
+DE   AltName: Full=Tryptophanyl-tRNA synthetase {ECO:0000255|HAMAP-Rule:MF_00140};
+DE            Short=TrpRS {ECO:0000255|HAMAP-Rule:MF_00140};
+GN   Name=trpS {ECO:0000255|HAMAP-Rule:MF_00140};
+GN   OrderedLocusNames=APE_2461.1;
+OS   Aeropyrum pernix (strain ATCC 700893 / DSM 11879 / JCM 9820 / NBRC
+OS   100138 / K1).
+OC   Archaea; Crenarchaeota; Thermoprotei; Desulfurococcales;
+OC   Desulfurococcaceae; Aeropyrum.
+OX   NCBI_TaxID=272557;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 700893 / DSM 11879 / JCM 9820 / NBRC 100138 / K1;
+RX   PubMed=10382966; DOI=10.1093/dnares/6.2.83;
+RA   Kawarabayasi Y., Hino Y., Horikawa H., Yamazaki S., Haikawa Y.,
+RA   Jin-no K., Takahashi M., Sekine M., Baba S., Ankai A., Kosugi H.,
+RA   Hosoyama A., Fukui S., Nagai Y., Nishijima K., Nakazawa H.,
+RA   Takamiya M., Masuda S., Funahashi T., Tanaka T., Kudoh Y.,
+RA   Yamazaki J., Kushida N., Oguchi A., Aoki K., Kubota K., Nakamura Y.,
+RA   Nomura N., Sako Y., Kikuchi H.;
+RT   "Complete genome sequence of an aerobic hyper-thermophilic
+RT   crenarchaeon, Aeropyrum pernix K1.";
+RL   DNA Res. 6:83-101(1999).
+CC   -!- CATALYTIC ACTIVITY: ATP + L-tryptophan + tRNA(Trp) = AMP +
+CC       diphosphate + L-tryptophyl-tRNA(Trp). {ECO:0000255|HAMAP-
+CC       Rule:MF_00140}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_00140}.
+CC   -!- SIMILARITY: Belongs to the class-I aminoacyl-tRNA synthetase
+CC       family. {ECO:0000255|HAMAP-Rule:MF_00140}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; BA000002; BAA81476.2; -; Genomic_DNA.
+DR   PIR; D72477; D72477.
+DR   RefSeq; NP_148625.2; NC_000854.2.
+DR   RefSeq; WP_010867022.1; NC_000854.2.
+DR   PDB; 3A04; X-ray; 1.97 A; A=1-372.
+DR   PDB; 3A05; X-ray; 2.20 A; A=1-372.
+DR   PDBsum; 3A04; -.
+DR   PDBsum; 3A05; -.
+DR   ProteinModelPortal; Q9Y924; -.
+DR   STRING; 272557.APE_2461.1; -.
+DR   EnsemblBacteria; BAA81476; BAA81476; APE_2461.1.
+DR   GeneID; 1445433; -.
+DR   KEGG; ape:APE_2461.1; -.
+DR   eggNOG; COG0180; -.
+DR   HOGENOM; HOG000224743; -.
+DR   KO; K01867; -.
+DR   BioCyc; APER272557:GJD6-1652-MONOMER; -.
+DR   BRENDA; 6.1.1.2; 171.
+DR   EvolutionaryTrace; Q9Y924; -.
+DR   Proteomes; UP000002518; Chromosome.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0004830; F:tryptophan-tRNA ligase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0006436; P:tryptophanyl-tRNA aminoacylation; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 3.40.50.620; -; 1.
+DR   HAMAP; MF_00140_A; Trp_tRNA_synth_A; 1.
+DR   InterPro; IPR002305; aa-tRNA-synth_Ic.
+DR   InterPro; IPR014729; Rossmann-like_a/b/a_fold.
+DR   InterPro; IPR002306; Trp-tRNA-ligase.
+DR   InterPro; IPR020653; Tryptophan-tRNA-ligase_arc.
+DR   PANTHER; PTHR10055; PTHR10055; 1.
+DR   Pfam; PF00579; tRNA-synt_1b; 1.
+DR   PRINTS; PR01039; TRNASYNTHTRP.
+DR   TIGRFAMs; TIGR00233; trpS; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Aminoacyl-tRNA synthetase; ATP-binding;
+KW   Complete proteome; Cytoplasm; Ligase; Nucleotide-binding;
+KW   Protein biosynthesis; Reference proteome.
+FT   CHAIN         1    372       Tryptophan--tRNA ligase.
+FT                                /FTId=PRO_0000136718.
+FT   MOTIF        79     87       "HIGH" region.
+FT   MOTIF       256    260       "KMSKS" region.
+FT   TURN         12     17       {ECO:0000244|PDB:3A04}.
+FT   HELIX        18     22       {ECO:0000244|PDB:3A04}.
+FT   TURN         23     25       {ECO:0000244|PDB:3A04}.
+FT   HELIX        29     32       {ECO:0000244|PDB:3A04}.
+FT   HELIX        33     38       {ECO:0000244|PDB:3A04}.
+FT   HELIX        45     48       {ECO:0000244|PDB:3A04}.
+FT   STRAND       51     57       {ECO:0000244|PDB:3A04}.
+FT   HELIX        58     66       {ECO:0000244|PDB:3A04}.
+FT   STRAND       72     77       {ECO:0000244|PDB:3A04}.
+FT   HELIX        85     99       {ECO:0000244|PDB:3A04}.
+FT   STRAND      103    108       {ECO:0000244|PDB:3A04}.
+FT   HELIX       110    115       {ECO:0000244|PDB:3A04}.
+FT   HELIX       121    130       {ECO:0000244|PDB:3A04}.
+FT   HELIX       133    139       {ECO:0000244|PDB:3A04}.
+FT   TURN        143    145       {ECO:0000244|PDB:3A04}.
+FT   STRAND      147    150       {ECO:0000244|PDB:3A04}.
+FT   HELIX       151    153       {ECO:0000244|PDB:3A04}.
+FT   HELIX       156    165       {ECO:0000244|PDB:3A04}.
+FT   HELIX       171    178       {ECO:0000244|PDB:3A04}.
+FT   HELIX       183    197       {ECO:0000244|PDB:3A04}.
+FT   HELIX       198    200       {ECO:0000244|PDB:3A04}.
+FT   HELIX       202    204       {ECO:0000244|PDB:3A04}.
+FT   STRAND      210    215       {ECO:0000244|PDB:3A04}.
+FT   HELIX       216    218       {ECO:0000244|PDB:3A04}.
+FT   HELIX       219    231       {ECO:0000244|PDB:3A04}.
+FT   TURN        232    235       {ECO:0000244|PDB:3A04}.
+FT   STRAND      242    246       {ECO:0000244|PDB:3A04}.
+FT   STRAND      254    256       {ECO:0000244|PDB:3A04}.
+FT   HELIX       262    264       {ECO:0000244|PDB:3A04}.
+FT   HELIX       272    280       {ECO:0000244|PDB:3A04}.
+FT   HELIX       290    296       {ECO:0000244|PDB:3A04}.
+FT   HELIX       300    302       {ECO:0000244|PDB:3A04}.
+FT   HELIX       304    311       {ECO:0000244|PDB:3A04}.
+FT   HELIX       317    328       {ECO:0000244|PDB:3A04}.
+FT   HELIX       334    364       {ECO:0000244|PDB:3A04}.
+SQ   SEQUENCE   372 AA;  42154 MW;  90E3D4F2E8121A2B CRC64;
+     MAAERLDPWG AVEIKDYDRL LRTFGIRPFS EVLPLLRKAG MEPSFLMRRG IIFGHRDFDK
+     ILEAKARGER VAVLTGFMPS GKFHFGHKLT VDQLIYLQKN GFKVFVAIAD AEAFAVRRIG
+     REEAVRIAVE EYIANMIALG LDPKDTEFYF QTNRGTPYFR LIQLFSGKVT AAEMEAIYGE
+     LTPAKMMASL TQAADILHVQ LDEYGGYRHV VVPVGADQDP HLRLTRDLAD RMAGVVELER
+     PASTYHKLQP GLDGRKMSSS RPDSTIFLTD PPEVARNKLF RALTGGRATA EEQRRLGGVP
+     EVCSVYHMDL YHLMPDDGEV KHIYTSCRLG KILCGECKQI AWEKLERFLA EHQSRLEKAK
+     TIAWKLVEPP RF
+//

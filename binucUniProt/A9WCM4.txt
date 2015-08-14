@@ -1,0 +1,135 @@
+ID   ENO_CHLAA               Reviewed;         426 AA.
+AC   A9WCM4;
+DT   20-MAY-2008, integrated into UniProtKB/Swiss-Prot.
+DT   05-FEB-2008, sequence version 1.
+DT   22-JUL-2015, entry version 54.
+DE   RecName: Full=Enolase {ECO:0000255|HAMAP-Rule:MF_00318};
+DE            EC=4.2.1.11 {ECO:0000255|HAMAP-Rule:MF_00318};
+DE   AltName: Full=2-phospho-D-glycerate hydro-lyase {ECO:0000255|HAMAP-Rule:MF_00318};
+DE   AltName: Full=2-phosphoglycerate dehydratase {ECO:0000255|HAMAP-Rule:MF_00318};
+GN   Name=eno {ECO:0000255|HAMAP-Rule:MF_00318};
+GN   OrderedLocusNames=Caur_3808;
+OS   Chloroflexus aurantiacus (strain ATCC 29366 / DSM 635 / J-10-fl).
+OC   Bacteria; Chloroflexi; Chloroflexia; Chloroflexales; Chloroflexineae;
+OC   Chloroflexaceae; Chloroflexus.
+OX   NCBI_TaxID=324602;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 29366 / DSM 635 / J-10-fl;
+RX   PubMed=21714912; DOI=10.1186/1471-2164-12-334;
+RA   Tang K.H., Barry K., Chertkov O., Dalin E., Han C.S., Hauser L.J.,
+RA   Honchak B.M., Karbach L.E., Land M.L., Lapidus A., Larimer F.W.,
+RA   Mikhailova N., Pitluck S., Pierson B.K., Blankenship R.E.;
+RT   "Complete genome sequence of the filamentous anoxygenic phototrophic
+RT   bacterium Chloroflexus aurantiacus.";
+RL   BMC Genomics 12:334-334(2011).
+CC   -!- FUNCTION: Catalyzes the reversible conversion of 2-
+CC       phosphoglycerate into phosphoenolpyruvate. It is essential for the
+CC       degradation of carbohydrates via glycolysis. {ECO:0000255|HAMAP-
+CC       Rule:MF_00318}.
+CC   -!- CATALYTIC ACTIVITY: 2-phospho-D-glycerate = phosphoenolpyruvate +
+CC       H(2)O. {ECO:0000255|HAMAP-Rule:MF_00318}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000255|HAMAP-Rule:MF_00318};
+CC   -!- ENZYME REGULATION: The covalent binding to the substrate causes
+CC       inactivation of the enzyme, and possibly serves as a signal for
+CC       the export of the protein. {ECO:0000255|HAMAP-Rule:MF_00318}.
+CC   -!- PATHWAY: Carbohydrate degradation; glycolysis; pyruvate from D-
+CC       glyceraldehyde 3-phosphate: step 4/5. {ECO:0000255|HAMAP-
+CC       Rule:MF_00318}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_00318}.
+CC       Secreted {ECO:0000255|HAMAP-Rule:MF_00318}. Cell surface
+CC       {ECO:0000255|HAMAP-Rule:MF_00318}. Note=Fractions of enolase are
+CC       present in both the cytoplasm and on the cell surface. The export
+CC       of enolase possibly depends on the covalent binding to the
+CC       substrate; once secreted, it remains attached to the cell surface.
+CC       {ECO:0000255|HAMAP-Rule:MF_00318}.
+CC   -!- SIMILARITY: Belongs to the enolase family. {ECO:0000255|HAMAP-
+CC       Rule:MF_00318}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP000909; ABY36986.1; -; Genomic_DNA.
+DR   RefSeq; WP_012259639.1; NC_010175.1.
+DR   RefSeq; YP_001637375.1; NC_010175.1.
+DR   ProteinModelPortal; A9WCM4; -.
+DR   SMR; A9WCM4; 3-424.
+DR   STRING; 324602.Caur_3808; -.
+DR   EnsemblBacteria; ABY36986; ABY36986; Caur_3808.
+DR   GeneID; 5825617; -.
+DR   KEGG; cau:Caur_3808; -.
+DR   PATRIC; 21419084; VBIChlAur28763_4274.
+DR   eggNOG; COG0148; -.
+DR   HOGENOM; HOG000072174; -.
+DR   InParanoid; A9WCM4; -.
+DR   KO; K01689; -.
+DR   OMA; EFMIIPV; -.
+DR   OrthoDB; EOG65J589; -.
+DR   BioCyc; CAUR324602:GIXU-3863-MONOMER; -.
+DR   UniPathway; UPA00109; UER00187.
+DR   Proteomes; UP000002008; Chromosome.
+DR   GO; GO:0009986; C:cell surface; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0000015; C:phosphopyruvate hydratase complex; IEA:InterPro.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0004634; F:phosphopyruvate hydratase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0006096; P:glycolytic process; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 3.20.20.120; -; 1.
+DR   Gene3D; 3.30.390.10; -; 1.
+DR   HAMAP; MF_00318; Enolase; 1.
+DR   InterPro; IPR000941; Enolase.
+DR   InterPro; IPR020810; Enolase_C.
+DR   InterPro; IPR029065; Enolase_C-like.
+DR   InterPro; IPR020809; Enolase_CS.
+DR   InterPro; IPR020811; Enolase_N.
+DR   InterPro; IPR029017; Enolase_N-like.
+DR   PANTHER; PTHR11902; PTHR11902; 1.
+DR   Pfam; PF00113; Enolase_C; 1.
+DR   Pfam; PF03952; Enolase_N; 1.
+DR   PIRSF; PIRSF001400; Enolase; 1.
+DR   PRINTS; PR00148; ENOLASE.
+DR   SUPFAM; SSF51604; SSF51604; 1.
+DR   SUPFAM; SSF54826; SSF54826; 1.
+DR   TIGRFAMs; TIGR01060; eno; 1.
+DR   PROSITE; PS00164; ENOLASE; 1.
+PE   3: Inferred from homology;
+KW   Complete proteome; Cytoplasm; Glycolysis; Lyase; Magnesium;
+KW   Metal-binding; Reference proteome; Secreted.
+FT   CHAIN         1    426       Enolase.
+FT                                /FTId=PRO_1000079126.
+FT   REGION      365    368       Substrate binding. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00318}.
+FT   ACT_SITE    206    206       Proton donor. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00318}.
+FT   ACT_SITE    338    338       Proton acceptor. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00318}.
+FT   METAL       243    243       Magnesium. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00318}.
+FT   METAL       286    286       Magnesium. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00318}.
+FT   METAL       313    313       Magnesium. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00318}.
+FT   BINDING     156    156       Substrate. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00318}.
+FT   BINDING     165    165       Substrate. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00318}.
+FT   BINDING     286    286       Substrate. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00318}.
+FT   BINDING     313    313       Substrate. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00318}.
+FT   BINDING     338    338       Substrate (covalent); in inhibited form.
+FT                                {ECO:0000255|HAMAP-Rule:MF_00318}.
+FT   BINDING     389    389       Substrate. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00318}.
+SQ   SEQUENCE   426 AA;  45897 MW;  1EAF451AA599E19D CRC64;
+     MSTLIEAIVA REVLDSRGNP TIEVDVRLES GDVGRAIVPS GASTGAHEAL ELRDGDKSRY
+     NGKGVLKAVQ AVNEDIAEAL IGFDAADQIA LDQELIALDG TPNKSKLGAN AILGVSLAAA
+     KAAAAAFGLP LYRYLGGVYA HVLPVPMMNI MNGGQHATNS TDFQEFMIMP VGAESFREGL
+     RWGAEIYHML KKVIHDRGFS TTVGDEGGFA PSLPTNDAPL QLIMEAIEKA GYRPGEQIVI
+     ALDPATTEIF EDGKYHLKRE GRSLSSAEMV DYWVDLVNRY PIISLEDGLA EDDWEGWALL
+     RAKLGDRVQL VGDDFLVTNV QRLQRAIEAK AANSILIKLN QIGSLTETLS AIQLAQRSGW
+     TAVVSHRSGE SEDVTIADLV VATNAGQIKT GAPARTDRIA KYNQLLRIEE ELGSAARYAG
+     RSAFKV
+//

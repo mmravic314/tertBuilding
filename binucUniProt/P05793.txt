@@ -1,0 +1,208 @@
+ID   ILVC_ECOLI              Reviewed;         491 AA.
+AC   P05793; Q2M883;
+DT   01-NOV-1988, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 4.
+DT   22-JUL-2015, entry version 145.
+DE   RecName: Full=Ketol-acid reductoisomerase;
+DE            EC=1.1.1.86;
+DE   AltName: Full=Acetohydroxy-acid isomeroreductase;
+DE   AltName: Full=Alpha-keto-beta-hydroxylacyl reductoisomerase;
+GN   Name=ilvC; OrderedLocusNames=b3774, JW3747;
+OS   Escherichia coli (strain K12).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=83333;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=K12;
+RX   PubMed=3003115;
+RA   Wek R.C., Hatfield G.W.;
+RT   "Nucleotide sequence and in vivo expression of the ilvY and ilvC genes
+RT   in Escherichia coli K12. Transcription from divergent overlapping
+RT   promoters.";
+RL   J. Biol. Chem. 261:2441-2450(1986).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / MG1655 / ATCC 47076;
+RX   PubMed=1379743; DOI=10.1126/science.1379743;
+RA   Daniels D.L., Plunkett G. III, Burland V.D., Blattner F.R.;
+RT   "Analysis of the Escherichia coli genome: DNA sequence of the region
+RT   from 84.5 to 86.5 minutes.";
+RL   Science 257:771-778(1992).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / MG1655 / ATCC 47076;
+RX   PubMed=9278503; DOI=10.1126/science.277.5331.1453;
+RA   Blattner F.R., Plunkett G. III, Bloch C.A., Perna N.T., Burland V.,
+RA   Riley M., Collado-Vides J., Glasner J.D., Rode C.K., Mayhew G.F.,
+RA   Gregor J., Davis N.W., Kirkpatrick H.A., Goeden M.A., Rose D.J.,
+RA   Mau B., Shao Y.;
+RT   "The complete genome sequence of Escherichia coli K-12.";
+RL   Science 277:1453-1462(1997).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / W3110 / ATCC 27325 / DSM 5911;
+RX   PubMed=16738553; DOI=10.1038/msb4100049;
+RA   Hayashi K., Morooka N., Yamamoto Y., Fujita K., Isono K., Choi S.,
+RA   Ohtsubo E., Baba T., Wanner B.L., Mori H., Horiuchi T.;
+RT   "Highly accurate genome sequences of Escherichia coli K-12 strains
+RT   MG1655 and W3110.";
+RL   Mol. Syst. Biol. 2:E1-E5(2006).
+RN   [5]
+RP   PROTEIN SEQUENCE OF 2-13.
+RC   STRAIN=K12 / EMG2;
+RX   PubMed=9298646; DOI=10.1002/elps.1150180807;
+RA   Link A.J., Robison K., Church G.M.;
+RT   "Comparing the predicted and observed properties of proteins encoded
+RT   in the genome of Escherichia coli K-12.";
+RL   Electrophoresis 18:1259-1313(1997).
+CC   -!- CATALYTIC ACTIVITY: (2R)-2,3-dihydroxy-3-methylbutanoate + NADP(+)
+CC       = (2S)-2-hydroxy-2-methyl-3-oxobutanoate + NADPH.
+CC   -!- CATALYTIC ACTIVITY: (2R,3R)-2,3-dihydroxy-3-methylpentanoate +
+CC       NADP(+) = (S)-2-hydroxy-2-ethyl-3-oxobutanoate + NADPH.
+CC   -!- PATHWAY: Amino-acid biosynthesis; L-isoleucine biosynthesis; L-
+CC       isoleucine from 2-oxobutanoate: step 2/4.
+CC   -!- PATHWAY: Amino-acid biosynthesis; L-valine biosynthesis; L-valine
+CC       from pyruvate: step 2/4.
+CC   -!- INTERACTION:
+CC       P16918:rhsC; NbExp=1; IntAct=EBI-1133427, EBI-546818;
+CC   -!- INDUCTION: In the presence of acetohydroxybutyrate and
+CC       acetolactate, the substrates of ketol-acid reductoisomerase.
+CC   -!- SIMILARITY: Belongs to the ketol-acid reductoisomerase family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M11689; AAA24029.1; -; Genomic_DNA.
+DR   EMBL; M87049; AAA67577.1; -; Genomic_DNA.
+DR   EMBL; U00096; AAC76779.1; -; Genomic_DNA.
+DR   EMBL; AP009048; BAE77523.1; -; Genomic_DNA.
+DR   PIR; A65181; ISECKR.
+DR   RefSeq; NP_418222.1; NC_000913.3.
+DR   RefSeq; WP_000024939.1; NZ_CP010445.1.
+DR   PDB; 1YRL; X-ray; 2.60 A; A/B/C/D=1-491.
+DR   PDB; 3ULK; X-ray; 2.30 A; A/B=1-491.
+DR   PDBsum; 1YRL; -.
+DR   PDBsum; 3ULK; -.
+DR   ProteinModelPortal; P05793; -.
+DR   SMR; P05793; 3-489.
+DR   IntAct; P05793; 4.
+DR   STRING; 511145.b3774; -.
+DR   BindingDB; P05793; -.
+DR   ChEMBL; CHEMBL2366462; -.
+DR   SWISS-2DPAGE; P05793; -.
+DR   PaxDb; P05793; -.
+DR   PRIDE; P05793; -.
+DR   EnsemblBacteria; AAC76779; AAC76779; b3774.
+DR   EnsemblBacteria; BAE77523; BAE77523; BAE77523.
+DR   GeneID; 948286; -.
+DR   KEGG; eco:b3774; -.
+DR   PATRIC; 32123043; VBIEscCol129921_3891.
+DR   EchoBASE; EB0490; -.
+DR   EcoGene; EG10495; ilvC.
+DR   eggNOG; COG0059; -.
+DR   HOGENOM; HOG000286135; -.
+DR   InParanoid; P05793; -.
+DR   KO; K00053; -.
+DR   OMA; KLFEMNR; -.
+DR   OrthoDB; EOG625K07; -.
+DR   PhylomeDB; P05793; -.
+DR   BioCyc; EcoCyc:KETOLREDUCTOISOM-MONOMER; -.
+DR   BioCyc; ECOL316407:JW3747-MONOMER; -.
+DR   BioCyc; MetaCyc:KETOLREDUCTOISOM-MONOMER; -.
+DR   BRENDA; 1.1.1.86; 2026.
+DR   UniPathway; UPA00047; UER00056.
+DR   UniPathway; UPA00049; UER00060.
+DR   EvolutionaryTrace; P05793; -.
+DR   PRO; PR:P05793; -.
+DR   Proteomes; UP000000318; Chromosome.
+DR   Proteomes; UP000000625; Chromosome.
+DR   GO; GO:0005829; C:cytosol; IDA:EcoCyc.
+DR   GO; GO:0004455; F:ketol-acid reductoisomerase activity; IDA:EcoCyc.
+DR   GO; GO:0000287; F:magnesium ion binding; IDA:EcoCyc.
+DR   GO; GO:0050661; F:NADP binding; IMP:EcoCyc.
+DR   GO; GO:0009097; P:isoleucine biosynthetic process; IDA:EcoCyc.
+DR   GO; GO:0009099; P:valine biosynthetic process; IDA:EcoCyc.
+DR   Gene3D; 1.10.1040.10; -; 1.
+DR   Gene3D; 3.40.50.720; -; 1.
+DR   HAMAP; MF_00435; IlvC; 1.
+DR   InterPro; IPR008927; 6-PGluconate_DH_C-like.
+DR   InterPro; IPR013328; 6PGD_dom_2.
+DR   InterPro; IPR013023; AcH_isomrdctse.
+DR   InterPro; IPR000506; AcH_isomrdctse_C.
+DR   InterPro; IPR013116; IlvN.
+DR   InterPro; IPR016040; NAD(P)-bd_dom.
+DR   PANTHER; PTHR21371; PTHR21371; 1.
+DR   Pfam; PF01450; IlvC; 2.
+DR   Pfam; PF07991; IlvN; 1.
+DR   SUPFAM; SSF48179; SSF48179; 2.
+DR   TIGRFAMs; TIGR00465; ilvC; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Amino-acid biosynthesis;
+KW   Branched-chain amino acid biosynthesis; Complete proteome;
+KW   Direct protein sequencing; NADP; Oxidoreductase; Reference proteome.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:9298646}.
+FT   CHAIN         2    491       Ketol-acid reductoisomerase.
+FT                                /FTId=PRO_0000151309.
+FT   ACT_SITE    132    132       {ECO:0000255}.
+FT   CONFLICT    251    251       E -> K (in Ref. 1; AAA24029).
+FT                                {ECO:0000305}.
+FT   HELIX         5      7       {ECO:0000244|PDB:3ULK}.
+FT   HELIX        10     17       {ECO:0000244|PDB:3ULK}.
+FT   STRAND       20     22       {ECO:0000244|PDB:1YRL}.
+FT   HELIX        25     28       {ECO:0000244|PDB:3ULK}.
+FT   TURN         29     32       {ECO:0000244|PDB:3ULK}.
+FT   HELIX        33     35       {ECO:0000244|PDB:3ULK}.
+FT   STRAND       38     44       {ECO:0000244|PDB:3ULK}.
+FT   HELIX        47     58       {ECO:0000244|PDB:3ULK}.
+FT   STRAND       62     67       {ECO:0000244|PDB:3ULK}.
+FT   HELIX        69     73       {ECO:0000244|PDB:3ULK}.
+FT   HELIX        77     84       {ECO:0000244|PDB:3ULK}.
+FT   STRAND       88     91       {ECO:0000244|PDB:3ULK}.
+FT   HELIX        92     95       {ECO:0000244|PDB:3ULK}.
+FT   HELIX        96     98       {ECO:0000244|PDB:3ULK}.
+FT   STRAND      100    104       {ECO:0000244|PDB:3ULK}.
+FT   HELIX       108    110       {ECO:0000244|PDB:3ULK}.
+FT   HELIX       111    118       {ECO:0000244|PDB:3ULK}.
+FT   HELIX       119    121       {ECO:0000244|PDB:3ULK}.
+FT   STRAND      127    132       {ECO:0000244|PDB:3ULK}.
+FT   HELIX       134    137       {ECO:0000244|PDB:3ULK}.
+FT   STRAND      147    156       {ECO:0000244|PDB:3ULK}.
+FT   HELIX       158    166       {ECO:0000244|PDB:3ULK}.
+FT   STRAND      173    177       {ECO:0000244|PDB:3ULK}.
+FT   HELIX       179    181       {ECO:0000244|PDB:3ULK}.
+FT   HELIX       187    197       {ECO:0000244|PDB:3ULK}.
+FT   HELIX       200    202       {ECO:0000244|PDB:3ULK}.
+FT   STRAND      205    207       {ECO:0000244|PDB:3ULK}.
+FT   HELIX       210    222       {ECO:0000244|PDB:3ULK}.
+FT   TURN        223    226       {ECO:0000244|PDB:3ULK}.
+FT   HELIX       227    242       {ECO:0000244|PDB:3ULK}.
+FT   HELIX       247    275       {ECO:0000244|PDB:3ULK}.
+FT   HELIX       279    309       {ECO:0000244|PDB:3ULK}.
+FT   HELIX       311    321       {ECO:0000244|PDB:3ULK}.
+FT   TURN        322    324       {ECO:0000244|PDB:3ULK}.
+FT   HELIX       325    336       {ECO:0000244|PDB:3ULK}.
+FT   HELIX       338    341       {ECO:0000244|PDB:3ULK}.
+FT   HELIX       351    356       {ECO:0000244|PDB:3ULK}.
+FT   HELIX       359    377       {ECO:0000244|PDB:3ULK}.
+FT   TURN        378    380       {ECO:0000244|PDB:3ULK}.
+FT   HELIX       383    388       {ECO:0000244|PDB:3ULK}.
+FT   HELIX       391    393       {ECO:0000244|PDB:3ULK}.
+FT   HELIX       394    412       {ECO:0000244|PDB:3ULK}.
+FT   HELIX       415    431       {ECO:0000244|PDB:3ULK}.
+FT   HELIX       433    437       {ECO:0000244|PDB:3ULK}.
+FT   STRAND      443    446       {ECO:0000244|PDB:3ULK}.
+FT   HELIX       455    466       {ECO:0000244|PDB:3ULK}.
+FT   HELIX       469    487       {ECO:0000244|PDB:3ULK}.
+SQ   SEQUENCE   491 AA;  54069 MW;  9CA34BA61C9AEBBA CRC64;
+     MANYFNTLNL RQQLAQLGKC RFMGRDEFAD GASYLQGKKV VIVGCGAQGL NQGLNMRDSG
+     LDISYALRKE AIAEKRASWR KATENGFKVG TYEELIPQAD LVINLTPDKQ HSDVVRTVQP
+     LMKDGAALGY SHGFNIVEVG EQIRKDITVV MVAPKCPGTE VREEYKRGFG VPTLIAVHPE
+     NDPKGEGMAI AKAWAAATGG HRAGVLESSF VAEVKSDLMG EQTILCGMLQ AGSLLCFDKL
+     VEEGTDPAYA EKLIQFGWET ITEALKQGGI TLMMDRLSNP AKLRAYALSE QLKEIMAPLF
+     QKHMDDIISG EFSSGMMADW ANDDKKLLTW REETGKTAFE TAPQYEGKIG EQEYFDKGVL
+     MIAMVKAGVE LAFETMVDSG IIEESAYYES LHELPLIANT IARKRLYEMN VVISDTAEYG
+     NYLFSYACVP LLKPFMAELQ PGDLGKAIPE GAVDNGQLRD VNEAIRSHAI EQVGKKLRGY
+     MTDMKRIAVA G
+//

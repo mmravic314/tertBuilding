@@ -1,0 +1,71 @@
+ID   RS18_THETH              Reviewed;          88 AA.
+AC   P80382; Q9LCZ0;
+DT   01-FEB-1995, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   24-JUN-2015, entry version 90.
+DE   RecName: Full=30S ribosomal protein S18;
+GN   Name=rpsR; Synonyms=rps18;
+OS   Thermus thermophilus.
+OC   Bacteria; Deinococcus-Thermus; Deinococci; Thermales; Thermaceae;
+OC   Thermus.
+OX   NCBI_TaxID=274;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=VK1;
+RA   Shcherbakov D.V., Cherepanova E.A., Garber M.B.;
+RT   "Sequencing and analysis of the Thermus thermophilus gene cluster
+RT   equivalent to the S6 operon.";
+RL   Submitted (APR-1999) to the EMBL/GenBank/DDBJ databases.
+CC   -!- FUNCTION: Binds as a heterodimer with protein S6 to the central
+CC       domain of the 16S rRNA, where it helps stabilize the platform of
+CC       the 30S subunit. {ECO:0000250}.
+CC   -!- SUBUNIT: Part of the 30S ribosomal subunit. Forms a tight
+CC       heterodimer with protein S6 (By similarity). {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the ribosomal protein S18P family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF146075; AAF27297.1; -; Genomic_DNA.
+DR   PDB; 1TWT; Model; -; U=1-88.
+DR   PDB; 2VQE; X-ray; 2.50 A; R=1-88.
+DR   PDB; 2VQF; X-ray; 2.90 A; R=1-88.
+DR   PDBsum; 1TWT; -.
+DR   PDBsum; 2VQE; -.
+DR   PDBsum; 2VQF; -.
+DR   ProteinModelPortal; P80382; -.
+DR   SMR; P80382; 7-88.
+DR   STRING; 262724.TTC1742; -.
+DR   EvolutionaryTrace; P80382; -.
+DR   GO; GO:0005840; C:ribosome; IEA:UniProtKB-KW.
+DR   GO; GO:0019843; F:rRNA binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0003735; F:structural constituent of ribosome; IEA:InterPro.
+DR   GO; GO:0006412; P:translation; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 4.10.640.10; -; 1.
+DR   HAMAP; MF_00270; Ribosomal_S18; 1.
+DR   InterPro; IPR001648; Ribosomal_S18.
+DR   InterPro; IPR018275; Ribosomal_S18_CS.
+DR   PANTHER; PTHR13479; PTHR13479; 1.
+DR   Pfam; PF01084; Ribosomal_S18; 1.
+DR   PRINTS; PR00974; RIBOSOMALS18.
+DR   ProDom; PD002239; Ribosomal_S18; 1.
+DR   SUPFAM; SSF46911; SSF46911; 1.
+DR   TIGRFAMs; TIGR00165; S18; 1.
+DR   PROSITE; PS00057; RIBOSOMAL_S18; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+KW   rRNA-binding.
+FT   INIT_MET      1      1       Removed. {ECO:0000250}.
+FT   CHAIN         2     88       30S ribosomal protein S18.
+FT                                /FTId=PRO_0000111251.
+FT   TURN         22     24       {ECO:0000244|PDB:2VQE}.
+FT   HELIX        37     40       {ECO:0000244|PDB:2VQE}.
+FT   HELIX        41     43       {ECO:0000244|PDB:2VQE}.
+FT   STRAND       46     48       {ECO:0000244|PDB:2VQE}.
+FT   HELIX        53     56       {ECO:0000244|PDB:2VQE}.
+FT   HELIX        60     75       {ECO:0000244|PDB:2VQE}.
+SQ   SEQUENCE   88 AA;  10217 MW;  CFDE7AC4935E9E09 CRC64;
+     MSTKNAKPKK EAQRRPSRKA KVKATLGEFD LRDYRNVEVL KRFLSETGKI LPRRRTGLSG
+     KEQRILAKTI KRARILGLLP FTEKLVRK
+//

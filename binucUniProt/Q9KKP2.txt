@@ -1,0 +1,144 @@
+ID   RIBB_VIBCH              Reviewed;         218 AA.
+AC   Q9KKP2;
+DT   30-MAY-2003, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2000, sequence version 1.
+DT   24-JUN-2015, entry version 72.
+DE   RecName: Full=3,4-dihydroxy-2-butanone 4-phosphate synthase {ECO:0000255|HAMAP-Rule:MF_00180};
+DE            Short=DHBP synthase {ECO:0000255|HAMAP-Rule:MF_00180};
+DE            EC=4.1.99.12 {ECO:0000255|HAMAP-Rule:MF_00180};
+GN   Name=ribB {ECO:0000255|HAMAP-Rule:MF_00180};
+GN   OrderedLocusNames=VC_A1060;
+OS   Vibrio cholerae serotype O1 (strain ATCC 39315 / El Tor Inaba N16961).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales;
+OC   Vibrionaceae; Vibrio.
+OX   NCBI_TaxID=243277;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 39315 / El Tor Inaba N16961;
+RX   PubMed=10952301; DOI=10.1038/35020000;
+RA   Heidelberg J.F., Eisen J.A., Nelson W.C., Clayton R.A., Gwinn M.L.,
+RA   Dodson R.J., Haft D.H., Hickey E.K., Peterson J.D., Umayam L.A.,
+RA   Gill S.R., Nelson K.E., Read T.D., Tettelin H., Richardson D.L.,
+RA   Ermolaeva M.D., Vamathevan J.J., Bass S., Qin H., Dragoi I.,
+RA   Sellers P., McDonald L.A., Utterback T.R., Fleischmann R.D.,
+RA   Nierman W.C., White O., Salzberg S.L., Smith H.O., Colwell R.R.,
+RA   Mekalanos J.J., Venter J.C., Fraser C.M.;
+RT   "DNA sequence of both chromosomes of the cholera pathogen Vibrio
+RT   cholerae.";
+RL   Nature 406:477-483(2000).
+CC   -!- FUNCTION: Catalyzes the conversion of D-ribulose 5-phosphate to
+CC       formate and 3,4-dihydroxy-2-butanone 4-phosphate.
+CC       {ECO:0000255|HAMAP-Rule:MF_00180}.
+CC   -!- CATALYTIC ACTIVITY: D-ribulose 5-phosphate = formate + L-3,4-
+CC       dihydroxybutan-2-one 4-phosphate. {ECO:0000255|HAMAP-
+CC       Rule:MF_00180}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000255|HAMAP-Rule:MF_00180};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000255|HAMAP-Rule:MF_00180};
+CC       Note=Binds 2 divalent metal cations per subunit. Magnesium or
+CC       manganese. {ECO:0000255|HAMAP-Rule:MF_00180};
+CC   -!- PATHWAY: Cofactor biosynthesis; riboflavin biosynthesis; 2-
+CC       hydroxy-3-oxobutyl phosphate from D-ribulose 5-phosphate: step
+CC       1/1. {ECO:0000255|HAMAP-Rule:MF_00180}.
+CC   -!- SUBUNIT: Homodimer. {ECO:0000255|HAMAP-Rule:MF_00180}.
+CC   -!- SIMILARITY: Belongs to the DHBP synthase family.
+CC       {ECO:0000255|HAMAP-Rule:MF_00180}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE003853; AAF96954.1; -; Genomic_DNA.
+DR   PIR; B82384; B82384.
+DR   RefSeq; NP_233442.1; NC_002506.1.
+DR   RefSeq; WP_001076646.1; NC_002506.1.
+DR   PDB; 4P6C; X-ray; 1.86 A; A/B=1-218.
+DR   PDB; 4P6D; X-ray; 1.59 A; A/B=1-218.
+DR   PDB; 4P6P; X-ray; 1.86 A; A/B=1-218.
+DR   PDB; 4P77; X-ray; 2.04 A; A/B=1-218.
+DR   PDB; 4P8E; X-ray; 2.04 A; A/B=1-218.
+DR   PDB; 4P8J; X-ray; 1.96 A; A/B=1-218.
+DR   PDBsum; 4P6C; -.
+DR   PDBsum; 4P6D; -.
+DR   PDBsum; 4P6P; -.
+DR   PDBsum; 4P77; -.
+DR   PDBsum; 4P8E; -.
+DR   PDBsum; 4P8J; -.
+DR   ProteinModelPortal; Q9KKP2; -.
+DR   SMR; Q9KKP2; 1-210.
+DR   STRING; 243277.VCA1060; -.
+DR   DNASU; 2612048; -.
+DR   EnsemblBacteria; AAF96954; AAF96954; VC_A1060.
+DR   GeneID; 2612048; -.
+DR   KEGG; vch:VCA1060; -.
+DR   PATRIC; 20086638; VBIVibCho83274_3666.
+DR   eggNOG; COG0108; -.
+DR   KO; K02858; -.
+DR   OMA; QMAKLIR; -.
+DR   OrthoDB; EOG679TK8; -.
+DR   BioCyc; VCHO:VCA1060-MONOMER; -.
+DR   UniPathway; UPA00275; UER00399.
+DR   Proteomes; UP000000584; Chromosome 2.
+DR   GO; GO:0008686; F:3,4-dihydroxy-2-butanone-4-phosphate synthase activity; ISS:TIGR.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0030145; F:manganese ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0009231; P:riboflavin biosynthetic process; ISS:TIGR.
+DR   Gene3D; 3.90.870.10; -; 1.
+DR   HAMAP; MF_00180; RibB; 1.
+DR   InterPro; IPR017945; DHBP_synth_RibB-like_a/b_dom.
+DR   InterPro; IPR000422; DHBP_synthase_RibB.
+DR   Pfam; PF00926; DHBP_synthase; 1.
+DR   SUPFAM; SSF55821; SSF55821; 1.
+DR   TIGRFAMs; TIGR00506; ribB; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Lyase; Magnesium; Manganese;
+KW   Metal-binding; Reference proteome; Riboflavin biosynthesis.
+FT   CHAIN         1    218       3,4-dihydroxy-2-butanone 4-phosphate
+FT                                synthase.
+FT                                /FTId=PRO_0000151813.
+FT   REGION       38     39       Substrate binding. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00180}.
+FT   REGION      151    155       Substrate binding. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00180}.
+FT   METAL        39     39       Magnesium or manganese 1.
+FT                                {ECO:0000255|HAMAP-Rule:MF_00180}.
+FT   METAL        39     39       Magnesium or manganese 2.
+FT                                {ECO:0000255|HAMAP-Rule:MF_00180}.
+FT   METAL       154    154       Magnesium or manganese 2.
+FT                                {ECO:0000255|HAMAP-Rule:MF_00180}.
+FT   BINDING      43     43       Substrate. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00180}.
+FT   BINDING     175    175       Substrate. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00180}.
+FT   SITE        137    137       Essential for catalytic activity.
+FT                                {ECO:0000255|HAMAP-Rule:MF_00180}.
+FT   SITE        175    175       Essential for catalytic activity.
+FT                                {ECO:0000255|HAMAP-Rule:MF_00180}.
+FT   HELIX         3      7       {ECO:0000244|PDB:4P6C}.
+FT   HELIX         8     10       {ECO:0000244|PDB:4P6D}.
+FT   HELIX        13     25       {ECO:0000244|PDB:4P6D}.
+FT   STRAND       30     36       {ECO:0000244|PDB:4P6D}.
+FT   STRAND       43     48       {ECO:0000244|PDB:4P6D}.
+FT   HELIX        53     62       {ECO:0000244|PDB:4P6D}.
+FT   STRAND       68     71       {ECO:0000244|PDB:4P6D}.
+FT   HELIX        73     78       {ECO:0000244|PDB:4P6D}.
+FT   STRAND       83     87       {ECO:0000244|PDB:4P6P}.
+FT   STRAND      100    105       {ECO:0000244|PDB:4P6D}.
+FT   STRAND      107    109       {ECO:0000244|PDB:4P6D}.
+FT   HELIX       112    123       {ECO:0000244|PDB:4P6D}.
+FT   HELIX       129    131       {ECO:0000244|PDB:4P6D}.
+FT   STRAND      132    142       {ECO:0000244|PDB:4P6D}.
+FT   HELIX       147    149       {ECO:0000244|PDB:4P6D}.
+FT   HELIX       154    165       {ECO:0000244|PDB:4P6D}.
+FT   STRAND      171    177       {ECO:0000244|PDB:4P6D}.
+FT   STRAND      181    183       {ECO:0000244|PDB:4P6D}.
+FT   HELIX       186    196       {ECO:0000244|PDB:4P6D}.
+FT   STRAND      200    202       {ECO:0000244|PDB:4P6D}.
+FT   HELIX       203    213       {ECO:0000244|PDB:4P6D}.
+SQ   SEQUENCE   218 AA;  23567 MW;  69E4167C234999F0 CRC64;
+     MNQSSLLAEF GDPITRVENA LQALREGRGV LLLDDEDREN EGDIIYAVES LTTAQMALMI
+     RECSGIVCLC LTEAQADRLA LPPMVVNNNS ANQTAFTVSI EAKHGVTTGV SAQDRVTTIK
+     TAANPQAKPE DLARPGHVFP LRARAGGVLA RRGHTEGTVD LMQMAGLQPA GVLCELTNPD
+     GSMAKTPEII EFGKLHNMPV LTIEDMVQYR IQFDLKLA
+//

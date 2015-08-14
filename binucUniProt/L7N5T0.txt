@@ -1,0 +1,218 @@
+ID   EXRBN_MYCTO             Reviewed;         168 AA.
+AC   P9WJ72; F2GJZ2; I6Y8M5; L7N5T0; O53513; Q7D7E6;
+DT   16-APR-2014, integrated into UniProtKB/Swiss-Prot.
+DT   16-APR-2014, sequence version 1.
+DT   22-JUL-2015, entry version 15.
+DE   RecName: Full=3'-5' exoribonuclease MT2234.1 {ECO:0000255|HAMAP-Rule:MF_00977};
+DE            EC=3.1.13.- {ECO:0000255|HAMAP-Rule:MF_00977};
+GN   OrderedLocusNames=MT2234.1;
+OS   Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh).
+OC   Bacteria; Actinobacteria; Corynebacteriales; Mycobacteriaceae;
+OC   Mycobacterium; Mycobacterium tuberculosis complex.
+OX   NCBI_TaxID=83331;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=CDC 1551 / Oshkosh;
+RX   PubMed=12218036; DOI=10.1128/JB.184.19.5479-5490.2002;
+RA   Fleischmann R.D., Alland D., Eisen J.A., Carpenter L., White O.,
+RA   Peterson J.D., DeBoy R.T., Dodson R.J., Gwinn M.L., Haft D.H.,
+RA   Hickey E.K., Kolonay J.F., Nelson W.C., Umayam L.A., Ermolaeva M.D.,
+RA   Salzberg S.L., Delcher A., Utterback T.R., Weidman J.F., Khouri H.M.,
+RA   Gill J., Mikula A., Bishai W., Jacobs W.R. Jr., Venter J.C.,
+RA   Fraser C.M.;
+RT   "Whole-genome comparison of Mycobacterium tuberculosis clinical and
+RT   laboratory strains.";
+RL   J. Bacteriol. 184:5479-5490(2002).
+CC   -!- FUNCTION: Exonuclease that cleaves single-stranded 3' overhangs of
+CC       double-stranded RNA. {ECO:0000255|HAMAP-Rule:MF_00977}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000255|HAMAP-Rule:MF_00977};
+CC       Note=Binds 1 Mg(2+) ion per subunit. {ECO:0000255|HAMAP-
+CC       Rule:MF_00977};
+CC   -!- SUBUNIT: Homodimer. {ECO:0000255|HAMAP-Rule:MF_00977}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE000516; AAK46520.1; -; Genomic_DNA.
+DR   PIR; E70936; E70936.
+DR   RefSeq; WP_003411331.1; NZ_KK341227.1.
+DR   PDB; 4OKE; X-ray; 1.70 A; A/B=2-168.
+DR   PDB; 4OKJ; X-ray; 2.10 A; A/B=2-168.
+DR   PDB; 4OKK; X-ray; 2.21 A; A/B=2-168.
+DR   PDBsum; 4OKE; -.
+DR   PDBsum; 4OKJ; -.
+DR   PDBsum; 4OKK; -.
+DR   ProteinModelPortal; P9WJ72; -.
+DR   SMR; P9WJ72; 1-160.
+DR   EnsemblBacteria; AAK46520; AAK46520; MT2234.1.
+DR   KEGG; mtc:MT2234.1; -.
+DR   Proteomes; UP000001020; Chromosome.
+DR   GO; GO:0008408; F:3'-5' exonuclease activity; IEA:InterPro.
+DR   GO; GO:0004532; F:exoribonuclease activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0003676; F:nucleic acid binding; IEA:InterPro.
+DR   HAMAP; MF_00977; 3_5_Exoribonuc_actinobact; 1.
+DR   InterPro; IPR030853; 3_5_Exoribonuc_actinobac.
+DR   InterPro; IPR012337; RNaseH-like_dom.
+DR   SUPFAM; SSF53098; SSF53098; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Exonuclease; Hydrolase; Magnesium;
+KW   Metal-binding; Nuclease.
+FT   CHAIN         1    168       3'-5' exoribonuclease MT2234.1.
+FT                                /FTId=PRO_0000427880.
+FT   REGION        6      9       RNA binding. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00977}.
+FT   METAL         6      6       Magnesium; catalytic. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00977}.
+SQ   SEQUENCE   168 AA;  19520 MW;  D6CE7EF4D2FB7FA1 CRC64;
+     MRYFYDTEFI EDGHTIELIS IGVVAEDGRE YYAVSTEFDP ERAGSWVRTH VLPKLPPPAS
+     QLWRSRQQIR LDLEEFLRID GTDSIELWAW VGAYDHVALC QLWGPMTALP PTVPRFTREL
+     RQLWEDRGCP RMPPRPRDVH DALVDARDQL RRFRLITSTD DAGRGAAR
+//
+ID   EXRBN_MYCTU             Reviewed;         168 AA.
+AC   P9WJ73; F2GJZ2; I6Y8M5; L7N5T0; O53513; Q7D7E6;
+DT   16-APR-2014, integrated into UniProtKB/Swiss-Prot.
+DT   16-APR-2014, sequence version 1.
+DT   22-JUL-2015, entry version 15.
+DE   RecName: Full=3'-5' exoribonuclease Rv2179c {ECO:0000255|HAMAP-Rule:MF_00977};
+DE            EC=3.1.13.- {ECO:0000255|HAMAP-Rule:MF_00977};
+GN   OrderedLocusNames=Rv2179c, RVBD_2179c;
+OS   Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv).
+OC   Bacteria; Actinobacteria; Corynebacteriales; Mycobacteriaceae;
+OC   Mycobacterium; Mycobacterium tuberculosis complex.
+OX   NCBI_TaxID=83332;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 25618 / H37Rv;
+RX   PubMed=9634230; DOI=10.1038/31159;
+RA   Cole S.T., Brosch R., Parkhill J., Garnier T., Churcher C.M.,
+RA   Harris D.E., Gordon S.V., Eiglmeier K., Gas S., Barry C.E. III,
+RA   Tekaia F., Badcock K., Basham D., Brown D., Chillingworth T.,
+RA   Connor R., Davies R.M., Devlin K., Feltwell T., Gentles S., Hamlin N.,
+RA   Holroyd S., Hornsby T., Jagels K., Krogh A., McLean J., Moule S.,
+RA   Murphy L.D., Oliver S., Osborne J., Quail M.A., Rajandream M.A.,
+RA   Rogers J., Rutter S., Seeger K., Skelton S., Squares S., Squares R.,
+RA   Sulston J.E., Taylor K., Whitehead S., Barrell B.G.;
+RT   "Deciphering the biology of Mycobacterium tuberculosis from the
+RT   complete genome sequence.";
+RL   Nature 393:537-544(1998).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 25618 / H37Rv;
+RG   The Broad Institute Genome Sequencing Platform;
+RA   Galagan J., Kreiswirth B., Dobos K., Fortune S., Fitzgerald M.,
+RA   Young S.K., Zeng Q., Gargeya S., Abouelleil A., Alvarado L.,
+RA   Berlin A.M., Chapman S.B., Gainer-Dewar J., Goldberg J., Gnerre S.,
+RA   Griggs A., Gujja S., Hansen M., Howarth C., Imamovic A., Larimer J.,
+RA   McCowan C., Murphy C., Pearson M., Poon T., Priest M., Roberts A.,
+RA   Saif S., Shea T., Sykes S., Wortman J., Nusbaum C., Birren B.;
+RT   "The genome sequence of Mycobacterium tuberculosis H37Rv.";
+RL   Submitted (NOV-2013) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   STRAIN=ATCC 25618 / H37Rv;
+RX   PubMed=21969609; DOI=10.1074/mcp.M111.011627;
+RA   Kelkar D.S., Kumar D., Kumar P., Balakrishnan L., Muthusamy B.,
+RA   Yadav A.K., Shrivastava P., Marimuthu A., Anand S., Sundaram H.,
+RA   Kingsbury R., Harsha H.C., Nair B., Prasad T.S., Chauhan D.S.,
+RA   Katoch K., Katoch V.M., Kumar P., Chaerkady R., Ramachandran S.,
+RA   Dash D., Pandey A.;
+RT   "Proteogenomic analysis of Mycobacterium tuberculosis by high
+RT   resolution mass spectrometry.";
+RL   Mol. Cell. Proteomics 10:M111.011627-M111.011627(2011).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (2.10 ANGSTROMS) IN COMPLEX WITH AMP AND
+RP   MAGNESIUM IONS, FUNCTION, COFACTOR, ENZYME REGULATION, MUTAGENESIS OF
+RP   ASP-145, AND SUBUNIT.
+RX   PubMed=24311791; DOI=10.1074/jbc.M113.525683;
+RA   Abendroth J., Ollodart A., Andrews E.S., Myler P.J., Staker B.L.,
+RA   Edwards T.E., Arcus V.L., Grundner C.;
+RT   "Mycobacterium tuberculosis Rv2179c establishes a new exoribonuclease
+RT   family with broad phylogenetic distribution.";
+RL   J. Biol. Chem. 289:2139-2147(2014).
+CC   -!- FUNCTION: Exonuclease that cleaves single-stranded 3' overhangs of
+CC       double-stranded RNA. Has no activity with 5' overhangs. Has
+CC       negligible endonuclease activity. Can bind ATP, dATP and AMP (in
+CC       vitro); the nucleotide occupies the predicted substrate binding
+CC       site. {ECO:0000255|HAMAP-Rule:MF_00977,
+CC       ECO:0000269|PubMed:24311791}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000255|HAMAP-Rule:MF_00977,
+CC         ECO:0000269|PubMed:24311791};
+CC       Note=Binds 1 Mg(2+) ion per subunit. {ECO:0000255|HAMAP-
+CC       Rule:MF_00977, ECO:0000269|PubMed:24311791};
+CC   -!- ENZYME REGULATION: Inhibited by EDTA.
+CC       {ECO:0000269|PubMed:24311791}.
+CC   -!- SUBUNIT: Homodimer. {ECO:0000255|HAMAP-Rule:MF_00977,
+CC       ECO:0000269|PubMed:24311791}.
+CC   -!- MISCELLANEOUS: Member of the DEDD group of RNAses that are
+CC       characterized by the presence of four acidic residues in the
+CC       active site. These residues are conserved even when the proteins
+CC       have highly divergent sequences. Has high structural similarity to
+CC       RNase T in spite of very low sequence identity.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AL123456; CCP44956.1; -; Genomic_DNA.
+DR   EMBL; CP003248; AFN50127.1; -; Genomic_DNA.
+DR   PIR; E70936; E70936.
+DR   RefSeq; NP_216695.1; NC_000962.3.
+DR   RefSeq; WP_003411331.1; NZ_KK339370.1.
+DR   PDB; 4HEC; X-ray; 1.80 A; A/B=2-168.
+DR   PDB; 4HVJ; X-ray; 2.10 A; A/B=2-168.
+DR   PDBsum; 4HEC; -.
+DR   PDBsum; 4HVJ; -.
+DR   ProteinModelPortal; P9WJ73; -.
+DR   SMR; P9WJ73; 1-160.
+DR   STRING; 83332.Rv2179c; -.
+DR   EnsemblBacteria; AFN50127; AFN50127; RVBD_2179c.
+DR   EnsemblBacteria; CCP44956; CCP44956; Rv2179c.
+DR   GeneID; 887927; -.
+DR   KEGG; mtu:Rv2179c; -.
+DR   KEGG; mtv:RVBD_2179c; -.
+DR   TubercuList; Rv2179c; -.
+DR   OMA; EFYAVST; -.
+DR   PhylomeDB; P9WJ73; -.
+DR   Proteomes; UP000001584; Chromosome.
+DR   GO; GO:0008408; F:3'-5' exonuclease activity; IEA:InterPro.
+DR   GO; GO:0004532; F:exoribonuclease activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0003676; F:nucleic acid binding; IEA:InterPro.
+DR   GO; GO:0040007; P:growth; IMP:MTBBASE.
+DR   HAMAP; MF_00977; 3_5_Exoribonuc_actinobact; 1.
+DR   InterPro; IPR030853; 3_5_Exoribonuc_actinobac.
+DR   InterPro; IPR012337; RNaseH-like_dom.
+DR   SUPFAM; SSF53098; SSF53098; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Exonuclease; Hydrolase; Magnesium;
+KW   Metal-binding; Nuclease; Reference proteome.
+FT   CHAIN         1    168       3'-5' exoribonuclease Rv2179c.
+FT                                /FTId=PRO_0000424958.
+FT   REGION        6      9       RNA binding.
+FT   METAL         6      6       Magnesium; catalytic.
+FT   MUTAGEN     145    145       D->A: Strongly reduces enzyme activity.
+FT                                {ECO:0000269|PubMed:24311791}.
+FT   STRAND        2     11       {ECO:0000244|PDB:4HEC}.
+FT   STRAND       16     25       {ECO:0000244|PDB:4HEC}.
+FT   STRAND       30     35       {ECO:0000244|PDB:4HEC}.
+FT   HELIX        40     42       {ECO:0000244|PDB:4HEC}.
+FT   HELIX        45     50       {ECO:0000244|PDB:4HEC}.
+FT   HELIX        52     54       {ECO:0000244|PDB:4HEC}.
+FT   HELIX        66     76       {ECO:0000244|PDB:4HEC}.
+FT   TURN         77     80       {ECO:0000244|PDB:4HEC}.
+FT   STRAND       84     91       {ECO:0000244|PDB:4HEC}.
+FT   HELIX        93    100       {ECO:0000244|PDB:4HEC}.
+FT   TURN        101    103       {ECO:0000244|PDB:4HEC}.
+FT   HELIX       106    108       {ECO:0000244|PDB:4HEC}.
+FT   HELIX       120    126       {ECO:0000244|PDB:4HEC}.
+FT   TURN        137    139       {ECO:0000244|PDB:4HEC}.
+FT   HELIX       142    157       {ECO:0000244|PDB:4HEC}.
+SQ   SEQUENCE   168 AA;  19520 MW;  D6CE7EF4D2FB7FA1 CRC64;
+     MRYFYDTEFI EDGHTIELIS IGVVAEDGRE YYAVSTEFDP ERAGSWVRTH VLPKLPPPAS
+     QLWRSRQQIR LDLEEFLRID GTDSIELWAW VGAYDHVALC QLWGPMTALP PTVPRFTREL
+     RQLWEDRGCP RMPPRPRDVH DALVDARDQL RRFRLITSTD DAGRGAAR
+//

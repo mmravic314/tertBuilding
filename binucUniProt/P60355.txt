@@ -1,0 +1,115 @@
+ID   MCAT_LACPN              Reviewed;         266 AA.
+AC   P60355;
+DT   16-FEB-2004, integrated into UniProtKB/Swiss-Prot.
+DT   16-FEB-2004, sequence version 1.
+DT   27-MAY-2015, entry version 59.
+DE   RecName: Full=Manganese catalase;
+DE            EC=1.11.1.6;
+DE   AltName: Full=Pseudocatalase;
+OS   Lactobacillus plantarum.
+OC   Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+OC   Lactobacillus.
+OX   NCBI_TaxID=1590;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND PROTEIN SEQUENCE OF 1-32 AND
+RP   67-86.
+RC   STRAIN=ATCC 14431 / T-1043-5;
+RX   PubMed=8939876; DOI=10.1074/jbc.271.47.29521;
+RA   Igarashi T., Kono Y., Tanaka K.;
+RT   "Molecular cloning of manganese catalase from Lactobacillus
+RT   plantarum.";
+RL   J. Biol. Chem. 271:29521-29524(1996).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (1.4 ANGSTROMS), AND SUBUNIT.
+RX   PubMed=11587647; DOI=10.1016/S0969-2126(01)00628-1;
+RA   Barynin V.V., Whittaker M.M., Antonyuk S.V., Lamzin V.S.,
+RA   Harrison P.M., Artymiuk P.J., Whittaker J.W.;
+RT   "Crystal structure of manganese catalase from Lactobacillus
+RT   plantarum.";
+RL   Structure 9:725-738(2001).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (1.33 ANGSTROMS), AND MUTAGENESIS OF TYR-42.
+RX   PubMed=12631270; DOI=10.1046/j.1432-1033.2003.03459.x;
+RA   Whittaker M.M., Barynin V.V., Igarashi T., Whittaker J.W.;
+RT   "Outer sphere mutagenesis of Lactobacillus plantarum manganese
+RT   catalase disrupts the cluster core. Mechanistic implications.";
+RL   Eur. J. Biochem. 270:1102-1116(2003).
+CC   -!- CATALYTIC ACTIVITY: 2 H(2)O(2) = O(2) + 2 H(2)O.
+CC   -!- COFACTOR:
+CC       Name=Ca(2+); Xref=ChEBI:CHEBI:29108;
+CC       Note=Binds 1 Ca(2+) ion per subunit.;
+CC   -!- COFACTOR:
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC       Note=Binds 2 manganese ions per subunit.;
+CC   -!- SUBUNIT: Homohexamer. {ECO:0000269|PubMed:11587647}.
+CC   -!- SIMILARITY: Belongs to the manganese catalase family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; D87070; BAA13239.1; -; Genomic_DNA.
+DR   PDB; 1JKU; X-ray; 1.84 A; A/B/C/D/E/F=1-266.
+DR   PDB; 1JKV; X-ray; 1.39 A; A/B/C/D/E/F=1-266.
+DR   PDB; 1O9I; X-ray; 1.33 A; A/B/C/D/E/F=1-266.
+DR   PDBsum; 1JKU; -.
+DR   PDBsum; 1JKV; -.
+DR   PDBsum; 1O9I; -.
+DR   ProteinModelPortal; P60355; -.
+DR   SMR; P60355; 1-266.
+DR   PeroxiBase; 3978; LplMnCat01.
+DR   EvolutionaryTrace; P60355; -.
+DR   GO; GO:0004096; F:catalase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 1.20.1260.10; -; 1.
+DR   Gene3D; 3.30.1530.10; -; 1.
+DR   InterPro; IPR009078; Ferritin-like_SF.
+DR   InterPro; IPR012347; Ferritin-rel.
+DR   InterPro; IPR007760; Mn_catalase.
+DR   InterPro; IPR027407; Mn_catalase_dom2.
+DR   Pfam; PF05067; Mn_catalase; 1.
+DR   SUPFAM; SSF47240; SSF47240; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Calcium; Direct protein sequencing; Manganese;
+KW   Metal-binding; Oxidoreductase; Peroxidase.
+FT   CHAIN         1    266       Manganese catalase.
+FT                                /FTId=PRO_0000096155.
+FT   METAL        35     35       Manganese 1.
+FT   METAL        57     57       Calcium.
+FT   METAL        61     61       Calcium.
+FT   METAL        66     66       Manganese 1.
+FT   METAL        66     66       Manganese 2.
+FT   METAL        69     69       Manganese 1.
+FT   METAL       148    148       Manganese 2.
+FT   METAL       181    181       Manganese 2.
+FT   METAL       218    218       Calcium.
+FT   METAL       220    220       Calcium; via carbonyl oxygen.
+FT   METAL       222    222       Calcium; via carbonyl oxygen.
+FT   MUTAGEN      42     42       Y->F: Loss of activity.
+FT                                {ECO:0000269|PubMed:12631270}.
+FT   STRAND        2      4       {ECO:0000244|PDB:1O9I}.
+FT   HELIX        19     30       {ECO:0000244|PDB:1O9I}.
+FT   HELIX        35     48       {ECO:0000244|PDB:1O9I}.
+FT   HELIX        53     80       {ECO:0000244|PDB:1O9I}.
+FT   TURN         81     83       {ECO:0000244|PDB:1O9I}.
+FT   HELIX        88     93       {ECO:0000244|PDB:1O9I}.
+FT   HELIX        97    103       {ECO:0000244|PDB:1O9I}.
+FT   HELIX       106    110       {ECO:0000244|PDB:1O9I}.
+FT   STRAND      113    115       {ECO:0000244|PDB:1JKU}.
+FT   HELIX       128    130       {ECO:0000244|PDB:1O9I}.
+FT   HELIX       137    159       {ECO:0000244|PDB:1O9I}.
+FT   HELIX       165    196       {ECO:0000244|PDB:1O9I}.
+FT   STRAND      198    201       {ECO:0000244|PDB:1O9I}.
+FT   TURN        205    207       {ECO:0000244|PDB:1O9I}.
+FT   HELIX       210    212       {ECO:0000244|PDB:1O9I}.
+FT   STRAND      215    217       {ECO:0000244|PDB:1O9I}.
+FT   HELIX       224    228       {ECO:0000244|PDB:1O9I}.
+FT   STRAND      240    244       {ECO:0000244|PDB:1O9I}.
+FT   HELIX       259    261       {ECO:0000244|PDB:1O9I}.
+SQ   SEQUENCE   266 AA;  29743 MW;  2943A15DD7A60CB1 CRC64;
+     MFKHTRKLQY NAKPDRSDPI MARRLQESLG GQWGETTGMM SYLSQGWAST GAEKYKDLLL
+     DTGTEEMAHV EMISTMIGYL LEDAPFGPED LKRDPSLATT MAGMDPEHSL VHGLNASLNN
+     PNGAAWNAGY VTSSGNLVAD MRFNVVRESE ARLQVSRLYS MTEDEGVRDM LKFLLARETQ
+     HQLQFMKAQE ELEEKYGIIV PGDMKEIEHS EFSHVLMNFS DGDGSKAFEG QVAKDGEKFT
+     YQENPEAMGG IPHIKPGDPR LHNHQG
+//

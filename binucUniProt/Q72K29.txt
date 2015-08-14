@@ -1,0 +1,99 @@
+ID   Q72K29_THET2            Unreviewed;       259 AA.
+AC   Q72K29;
+DT   05-JUL-2004, integrated into UniProtKB/TrEMBL.
+DT   05-JUL-2004, sequence version 1.
+DT   22-JUL-2015, entry version 67.
+DE   SubName: Full=Mannosyl-3-phosphoglycerate phosphatase {ECO:0000313|EMBL:AAS80937.1};
+GN   OrderedLocusNames=TT_C0589 {ECO:0000313|EMBL:AAS80937.1};
+OS   Thermus thermophilus (strain HB27 / ATCC BAA-163 / DSM 7039).
+OC   Bacteria; Deinococcus-Thermus; Deinococci; Thermales; Thermaceae;
+OC   Thermus.
+OX   NCBI_TaxID=262724 {ECO:0000313|EMBL:AAS80937.1, ECO:0000313|Proteomes:UP000000592};
+RN   [1] {ECO:0000313|EMBL:AAS80937.1, ECO:0000313|Proteomes:UP000000592}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=HB27 / ATCC BAA-163 / DSM 7039
+RC   {ECO:0000313|Proteomes:UP000000592};
+RX   PubMed=15064768; DOI=10.1038/nbt956;
+RA   Henne A., Brueggemann H., Raasch C., Wiezer A., Hartsch T.,
+RA   Liesegang H., Johann A., Lienard T., Gohl O., Martinez-Arias R.,
+RA   Jacobi C., Starkuviene V., Schlenczeck S., Dencker S., Huber R.,
+RA   Klenk H.-P., Kramer W., Merkl R., Gottschalk G., Fritz H.-J.;
+RT   "The genome sequence of the extreme thermophile Thermus
+RT   thermophilus.";
+RL   Nat. Biotechnol. 22:547-553(2004).
+RN   [2] {ECO:0000213|PDB:3ZTW, ECO:0000213|PDB:3ZTY, ECO:0000213|PDB:3ZU6}
+RP   X-RAY CRYSTALLOGRAPHY (1.74 ANGSTROMS) IN COMPLEX WITH MAGNESIUM, AND
+RP   DISULFIDE BONDS.
+RX   PubMed=21961705; DOI=10.1021/bi201171h;
+RA   Goncalves S., Esteves A.M., Santos H., Borges N., Matias P.M.;
+RT   "Three-dimensional structure of mannosyl-3-phosphoglycerate
+RT   phosphatase from Thermus thermophilus HB27: a new member of the
+RT   haloalcanoic acid dehalogenase superfamily.";
+RL   Biochemistry 50:9551-9567(2011).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE017221; AAS80937.1; -; Genomic_DNA.
+DR   RefSeq; WP_011173034.1; NC_005835.1.
+DR   PDB; 3ZTW; X-ray; 1.90 A; A/B=1-259.
+DR   PDB; 3ZTY; X-ray; 2.50 A; A/B=1-259.
+DR   PDB; 3ZU6; X-ray; 1.90 A; A/B=1-259.
+DR   PDB; 3ZUP; X-ray; 1.80 A; A/B=1-259.
+DR   PDB; 3ZW7; X-ray; 1.90 A; A/B=1-259.
+DR   PDB; 3ZWD; X-ray; 1.92 A; A/B=1-259.
+DR   PDB; 3ZWK; X-ray; 2.10 A; A/B=1-259.
+DR   PDB; 3ZX4; X-ray; 1.74 A; A/B=1-259.
+DR   PDB; 3ZX5; X-ray; 1.81 A; A/B=1-259.
+DR   ProteinModelPortal; Q72K29; -.
+DR   STRING; 262724.TTC0589; -.
+DR   EnsemblBacteria; AAS80937; AAS80937; TT_C0589.
+DR   KEGG; tth:TTC0589; -.
+DR   PATRIC; 23951583; VBITheThe54392_0587.
+DR   eggNOG; COG3769; -.
+DR   KO; K07026; -.
+DR   OMA; IPVIPCT; -.
+DR   BioCyc; TTHE262724:GCAT-602-MONOMER; -.
+DR   BRENDA; 3.1.3.70; 2305.
+DR   EvolutionaryTrace; Q72K29; -.
+DR   Proteomes; UP000000592; Chromosome.
+DR   GO; GO:0005737; C:cytoplasm; IEA:InterPro.
+DR   GO; GO:0050531; F:mannosyl-3-phosphoglycerate phosphatase activity; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0051479; P:mannosylglycerate biosynthetic process; IEA:InterPro.
+DR   Gene3D; 3.40.50.1000; -; 2.
+DR   InterPro; IPR023214; HAD-like_dom.
+DR   InterPro; IPR006379; HAD-SF_hydro_IIB.
+DR   InterPro; IPR006381; HAD-SF_hydro_IIB_YedP.
+DR   InterPro; IPR012813; Osmo_MPG_phos.
+DR   Pfam; PF08282; Hydrolase_3; 1.
+DR   SUPFAM; SSF56784; SSF56784; 1.
+DR   TIGRFAMs; TIGR01484; HAD-SF-IIB; 1.
+DR   TIGRFAMs; TIGR01486; HAD-SF-IIB-MPGP; 1.
+DR   TIGRFAMs; TIGR02461; osmo_MPG_phos; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3ZTY};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000592}; Magnesium;
+KW   Metal-binding.
+FT   METAL         6      6       Magnesium. {ECO:0000213|PDB:3ZU6,
+FT                                ECO:0000213|PDB:3ZUP,
+FT                                ECO:0000213|PDB:3ZW7}.
+FT   METAL         8      8       Magnesium; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:3ZU6,
+FT                                ECO:0000213|PDB:3ZUP,
+FT                                ECO:0000213|PDB:3ZW7}.
+FT   METAL       165    165       Magnesium; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:3ZWD}.
+FT   METAL       202    202       Magnesium. {ECO:0000213|PDB:3ZU6,
+FT                                ECO:0000213|PDB:3ZUP,
+FT                                ECO:0000213|PDB:3ZW7}.
+FT   METAL       203    203       Magnesium. {ECO:0000213|PDB:3ZW7,
+FT                                ECO:0000213|PDB:3ZWD}.
+FT   DISULFID    144    144       Interchain (with C-144 in Q72K29).
+SQ   SEQUENCE   259 AA;  28179 MW;  621E5998C1155EF6 CRC64;
+     MIVFTDLDGT LLDERGELGP AREALERLRA LGVPVVPVTA KTRKEVEALG LEPPFIVENG
+     GGLYLPRDWP VRAGRPKGGY RVVSLAWPYR KVRARLREAE ALAGRPILGY GDLTAEAVAR
+     LTGLSREAAR RAKAREYDET LVLCPEEVEA VLEALEAVGL EWTHGGRFYH AAKGADKGRA
+     VARLRALWPD PEEARFAVGL GDSLNDLPLF RAVDLAVYVG RGDPPEGVLA TPAPGPEGFR
+     YAVERYLLPR LSRRGGSGP
+//

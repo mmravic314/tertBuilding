@@ -1,0 +1,106 @@
+ID   Q8WQX9_9TRYP            Unreviewed;       930 AA.
+AC   Q8WQX9;
+DT   01-MAR-2002, integrated into UniProtKB/TrEMBL.
+DT   01-MAR-2002, sequence version 1.
+DT   22-JUL-2015, entry version 59.
+DE   SubName: Full=Class 1 phosphodiesterase PDEB1 {ECO:0000313|EMBL:AAK33016.1};
+GN   Name=PDEB1 {ECO:0000313|EMBL:AAK33016.1};
+OS   Trypanosoma brucei.
+OC   Eukaryota; Euglenozoa; Kinetoplastida; Trypanosomatidae; Trypanosoma.
+OX   NCBI_TaxID=5691 {ECO:0000313|EMBL:AAK33016.1};
+RN   [1] {ECO:0000313|EMBL:AAK33016.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=427 {ECO:0000313|EMBL:AAK33016.1};
+RX   PubMed=11930001; DOI=10.1073/pnas.062716599;
+RA   Zoraghi R., Seebeck T.;
+RT   "The cAMP-specific phosphodiesterase TbPDE2C is an essential enzyme in
+RT   bloodstream form Trypanosoma brucei.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 99:4343-4348(2002).
+RN   [2] {ECO:0000213|PDB:4I15}
+RP   X-RAY CRYSTALLOGRAPHY (1.65 ANGSTROMS) OF 576-918 IN COMPLEX WITH
+RP   ZINC.
+RX   PubMed=23409953;
+RA   Jansen C., Wang H., Kooistra A.J., de Graaf C., Orrling K.M.,
+RA   Tenor H., Seebeck T., Bailey D., de Esch I.J., Ke H., Leurs R.;
+RT   "Discovery of novel Trypanosoma brucei phosphodiesterase B1 inhibitors
+RT   by virtual screening against the unliganded TbrPDEB1 crystal
+RT   structure.";
+RL   J. Med. Chem. 56:2087-2096(2013).
+RN   [3] {ECO:0000213|PDB:4PHL}
+RP   X-RAY CRYSTALLOGRAPHY (1.95 ANGSTROMS) OF 576-918 IN COMPLEX WITH
+RP   ZINC.
+RA   Bland N., Choy M.S., Pollastri M., Campbell R., Peti W., Page R.;
+RT   "TbrPDEB1-inhibitor complex.";
+RL   Submitted (MAY-2014) to the PDB data bank.
+CC   -!- COFACTOR:
+CC       Name=a divalent metal cation; Xref=ChEBI:CHEBI:60240;
+CC         Evidence={ECO:0000256|SAAS:SAAS00166437};
+CC       Note=Binds 2 divalent metal cations per subunit. Site 1 may
+CC       preferentially bind zinc ions, while site 2 has a preference for
+CC       magnesium and/or manganese ions. {ECO:0000256|SAAS:SAAS00166437};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AY028446; AAK33016.1; -; mRNA.
+DR   PDB; 4I15; X-ray; 1.65 A; A/B=576-918.
+DR   PDB; 4PHL; X-ray; 1.95 A; A/B=576-918.
+DR   PDBsum; 4I15; -.
+DR   PDBsum; 4PHL; -.
+DR   ProteinModelPortal; Q8WQX9; -.
+DR   SMR; Q8WQX9; 586-918.
+DR   STRING; 5691.EAN76574; -.
+DR   BindingDB; Q8WQX9; -.
+DR   ChEMBL; CHEMBL2010636; -.
+DR   BRENDA; 3.1.4.53; 6519.
+DR   GO; GO:0004114; F:3',5'-cyclic-nucleotide phosphodiesterase activity; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0007165; P:signal transduction; IEA:InterPro.
+DR   Gene3D; 1.10.1300.10; -; 1.
+DR   Gene3D; 3.30.450.40; -; 2.
+DR   InterPro; IPR003018; GAF.
+DR   InterPro; IPR029016; GAF_dom-like.
+DR   InterPro; IPR003607; HD/PDEase_dom.
+DR   InterPro; IPR023088; PDEase.
+DR   InterPro; IPR002073; PDEase_catalytic_dom.
+DR   InterPro; IPR023174; PDEase_CS.
+DR   Pfam; PF01590; GAF; 2.
+DR   Pfam; PF00233; PDEase_I; 1.
+DR   PRINTS; PR00387; PDIESTERASE1.
+DR   SMART; SM00065; GAF; 2.
+DR   SMART; SM00471; HDc; 1.
+DR   SUPFAM; SSF55781; SSF55781; 2.
+DR   PROSITE; PS00126; PDEASE_I; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4I15, ECO:0000213|PDB:4PHL};
+KW   Hydrolase {ECO:0000256|SAAS:SAAS00013364};
+KW   Metal-binding {ECO:0000213|PDB:4I15, ECO:0000213|PDB:4PHL};
+KW   Zinc {ECO:0000213|PDB:4I15, ECO:0000213|PDB:4PHL}.
+FT   METAL       673    673       Zinc; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4I15,
+FT                                ECO:0000213|PDB:4PHL}.
+FT   METAL       709    709       Zinc; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4I15,
+FT                                ECO:0000213|PDB:4PHL}.
+FT   METAL       710    710       Zinc. {ECO:0000213|PDB:4I15,
+FT                                ECO:0000213|PDB:4PHL}.
+FT   METAL       822    822       Zinc. {ECO:0000213|PDB:4I15,
+FT                                ECO:0000213|PDB:4PHL}.
+SQ   SEQUENCE   930 AA;  103694 MW;  1D5A12E39818C807 CRC64;
+     MFMNKPFGSK RCEPFHESEH LCEAFAITEA ILARYQRGKR SFTSSEKSGL AALIKRIPYD
+     ILVEVLDQSG FTPTSNATPP VDYLAMMEHT MTHGASITHA LQYLNDLMTK CTGCPGIRTY
+     YHNPNDDVLA DPVHDTAALI DETTAVGKSV VTKQYLNIAG AHYIPLIHGD IVVGCVEVPR
+     FSGNLEKLPS FPSLIRAVTC TAHKFIEEAR INWNREKAEA MLQMATRLAR DNLDETVLAS
+     SIMNTVKSLT ESARCSLFLV KDDKLEAHFE DGNVVSIPKG TGIVGYVAQT GETVNIVDAY
+     ADDRFNREVD KATGYRTKTI LCMPVMYEGT IVAVTQLINK LDLTTESGLR LPRVFGKRDE
+     ELFQTFSMFA GASLRNCRIN DRLLKEKKKS DVILDVVTVL SNTDIRDVDG IVRHALHGAK
+     KLLNADRSTL FLVDKERNEL CSRMADSVAG KEIRFPCGQG IAGTVAASGV GENIQDAYQD
+     PRFNREVDKQ LGYRTQTILC EPIILNGEIL AVVQLVNKLD TSGEVTVFTE DDRDTFRVFS
+     LFAGISINNS HLLEFAVKAG REVMELNEHR ATLFNKNVPS RAVKRVTAIT KVEREAVLVC
+     ELPSFDVTDV EFDLFRARES TDKPLDVAAA IAYRLLLGSG LPQKFGCSDE VLLNFILQCR
+     KKYRNVPYHN FYHVVDVCQT IHTFLYRGNV YEKLTELECF VLLITALVHD LDHMGLNNSF
+     YLKTESPLGI LSSASGNTSV LEVHHCNLAV EILSDPESDV FDGLEGAERT LAFRSMIDCV
+     LATDMAKHGS ALEAFLASAA DQSSDEAAFH RMTMEIILKA GDISNVTKPF DISRQWAMAV
+     TEEFYRQGDM EKERGVEVLP MFDRSKNMEL AKGQIGFIDF VAAPFFQKIV DACLQGMQWT
+     VDRIKSNRAQ WERVLETRLS TSSGNNSSTR
+//

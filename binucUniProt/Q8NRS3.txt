@@ -1,0 +1,112 @@
+ID   Q8NRS3_CORGL            Unreviewed;       126 AA.
+AC   Q8NRS3; Q63ZF8; Q6M6I2; Q7AT31;
+DT   01-OCT-2002, integrated into UniProtKB/TrEMBL.
+DT   01-OCT-2002, sequence version 1.
+DT   22-JUL-2015, entry version 89.
+DE   SubName: Full=Anion-specific porin {ECO:0000313|EMBL:CAF19679.1};
+DE   SubName: Full=PorB {ECO:0000313|EMBL:DAA01140.1};
+DE   SubName: Full=Putative uncharacterized protein Cgl0972 {ECO:0000313|EMBL:BAB98365.1};
+GN   Name=porB {ECO:0000313|EMBL:CAF19679.1};
+GN   OrderedLocusNames=cg1109 {ECO:0000313|EMBL:CAF19679.1},
+GN   Cgl0972 {ECO:0000313|EMBL:BAB98365.1};
+OS   Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 /
+OS   LMG 3730 / NCIMB 10025).
+OC   Bacteria; Actinobacteria; Corynebacteriales; Corynebacteriaceae;
+OC   Corynebacterium.
+OX   NCBI_TaxID=196627 {ECO:0000313|Proteomes:UP000000582};
+RN   [1] {ECO:0000313|EMBL:BAB98365.1}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Nakagawa S.;
+RT   "Complete genomic sequence of Corynebacterium glutamicum ATCC 13032.";
+RL   Submitted (MAY-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000313|Proteomes:UP000000582}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025
+RC   {ECO:0000313|Proteomes:UP000000582};
+RX   PubMed=12743753; DOI=10.1007/s00253-003-1328-1;
+RA   Ikeda M., Nakagawa S.;
+RT   "The Corynebacterium glutamicum genome: features and impacts on
+RT   biotechnological processes.";
+RL   Appl. Microbiol. Biotechnol. 62:99-109(2003).
+RN   [3] {ECO:0000313|EMBL:CAF19679.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=DSM 20300 {ECO:0000313|EMBL:CAF19679.1};
+RX   PubMed=12948626; DOI=10.1016/S0168-1656(03)00154-8;
+RA   Kalinowski J., Bathe B., Bartels D., Bischoff N., Bott M.,
+RA   Burkovski A., Dusch N., Eggeling L., Eikmanns B.J., Gaigalat L.,
+RA   Goesmann A., Hartmann M., Huthmacher K., Kramer R., Linke B.,
+RA   McHardy A.C., Meyer F., Mockel B., Pfefferle W., Puhler A., Rey D.A.,
+RA   Ruckert C., Rupp O., Sahm H., Wendisch V.F., Wiegrabe I., Tauch A.;
+RT   "The complete Corynebacterium glutamicum ATCC 13032 genome sequence
+RT   and its impact on the production of L-aspartate-derived amino acids
+RT   and vitamins.";
+RL   J. Biotechnol. 104:5-25(2003).
+RN   [4] {ECO:0000313|EMBL:DAA01140.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=ATCC 13032 {ECO:0000313|EMBL:DAA01140.1};
+RX   PubMed=14622416; DOI=10.1046/j.1365-2958.2003.03754.x;
+RA   Costa-Riu N., Maier E., Burkovski A., Kramer R., Lottspeich F.,
+RA   Benz R.;
+RT   "Identification of an anion-specific channel in the cell wall of the
+RT   Gram-positive bacterium Corynebacterium glutamicum.";
+RL   Mol. Microbiol. 50:1295-1308(2003).
+RN   [5] {ECO:0000313|EMBL:CAF19679.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=DSM 20300 {ECO:0000313|EMBL:CAF19679.1};
+RA   Kalinowski J.;
+RL   Submitted (JAN-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [6] {ECO:0000213|PDB:2VQG, ECO:0000213|PDB:2VQH, ECO:0000213|PDB:2VQK}
+RP   X-RAY CRYSTALLOGRAPHY (1.82 ANGSTROMS) OF 28-126 IN COMPLEX WITH ZINC,
+RP   AND DISULFIDE BONDS.
+RX   PubMed=18462756; DOI=10.1016/j.jmb.2008.04.017;
+RA   Ziegler K., Benz R., Schulz G.E.;
+RT   "A putative alpha-helical porin from Corynebacterium glutamicum.";
+RL   J. Mol. Biol. 379:482-491(2008).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; BA000036; BAB98365.1; -; Genomic_DNA.
+DR   EMBL; BX927150; CAF19679.1; -; Genomic_DNA.
+DR   EMBL; BK001251; DAA01140.1; -; Genomic_DNA.
+DR   RefSeq; NP_600199.1; NC_003450.3.
+DR   RefSeq; WP_011014018.1; NC_006958.1.
+DR   PDB; 2VQG; X-ray; 1.82 A; A/B/C/D/E/F/G/H/I=28-126.
+DR   PDB; 2VQH; X-ray; 2.89 A; A/B=28-126.
+DR   PDB; 2VQK; X-ray; 4.20 A; A=28-126.
+DR   PDB; 2VQL; X-ray; 3.16 A; A/B/C/D=28-126.
+DR   PDBsum; 2VQG; -.
+DR   PDBsum; 2VQH; -.
+DR   PDBsum; 2VQK; -.
+DR   PDBsum; 2VQL; -.
+DR   STRING; 196627.cg1109; -.
+DR   TCDB; 1.B.41.1.1; the corynebacterial porin b (porb) family.
+DR   EnsemblBacteria; BAB98365; BAB98365; BAB98365.
+DR   EnsemblBacteria; CAF19679; CAF19679; cg1109.
+DR   GeneID; 1018962; -.
+DR   KEGG; cgb:cg1109; -.
+DR   KEGG; cgl:NCgl0933; -.
+DR   PATRIC; 21493998; VBICorGlu203724_0957.
+DR   eggNOG; NOG25047; -.
+DR   HOGENOM; HOG000263851; -.
+DR   OMA; CPIVEAS; -.
+DR   OrthoDB; EOG6SJJNV; -.
+DR   BioCyc; CGLU1204414-WGS:GSME-932-MONOMER; -.
+DR   Proteomes; UP000000582; Chromosome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   InterPro; IPR021114; Porin_PorB/PorC.
+DR   Pfam; PF11565; PorB; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2VQG};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000582};
+KW   Metal-binding {ECO:0000213|PDB:2VQG};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000582};
+KW   Zinc {ECO:0000213|PDB:2VQG}.
+FT   METAL        92     92       Zinc. {ECO:0000213|PDB:2VQG}.
+FT   METAL        96     96       Zinc. {ECO:0000213|PDB:2VQG}.
+FT   DISULFID     49    108       {ECO:0000213|PDB:2VQG}.
+SQ   SEQUENCE   126 AA;  13220 MW;  9291D395CAC6423E CRC64;
+     MKLSHRIAAM AATAGITVAA FAAPASASDF ANLSSTNKEL SPQYNWVACG ILEGGLKAAG
+     VLEEGQYNRE LAEAIAAKGE GFWTTQFPQI GDWNEDQAAA LADRAQTCGL VKADTYLSEL
+     SSNFSS
+//

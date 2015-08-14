@@ -1,0 +1,104 @@
+ID   BRK1_DICDI              Reviewed;          68 AA.
+AC   Q54X65;
+DT   29-APR-2008, integrated into UniProtKB/Swiss-Prot.
+DT   24-MAY-2005, sequence version 1.
+DT   22-JUL-2015, entry version 55.
+DE   RecName: Full=Protein BRICK1;
+GN   Name=brk1; Synonyms=hspc300; ORFNames=DDB_G0279175;
+OS   Dictyostelium discoideum (Slime mold).
+OC   Eukaryota; Amoebozoa; Mycetozoa; Dictyosteliida; Dictyostelium.
+OX   NCBI_TaxID=44689;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=AX4;
+RX   PubMed=15875012; DOI=10.1038/nature03481;
+RA   Eichinger L., Pachebat J.A., Gloeckner G., Rajandream M.A.,
+RA   Sucgang R., Berriman M., Song J., Olsen R., Szafranski K., Xu Q.,
+RA   Tunggal B., Kummerfeld S., Madera M., Konfortov B.A., Rivero F.,
+RA   Bankier A.T., Lehmann R., Hamlin N., Davies R., Gaudet P., Fey P.,
+RA   Pilcher K., Chen G., Saunders D., Sodergren E.J., Davis P.,
+RA   Kerhornou A., Nie X., Hall N., Anjard C., Hemphill L., Bason N.,
+RA   Farbrother P., Desany B., Just E., Morio T., Rost R., Churcher C.M.,
+RA   Cooper J., Haydock S., van Driessche N., Cronin A., Goodhead I.,
+RA   Muzny D.M., Mourier T., Pain A., Lu M., Harper D., Lindsay R.,
+RA   Hauser H., James K.D., Quiles M., Madan Babu M., Saito T.,
+RA   Buchrieser C., Wardroper A., Felder M., Thangavelu M., Johnson D.,
+RA   Knights A., Loulseged H., Mungall K.L., Oliver K., Price C.,
+RA   Quail M.A., Urushihara H., Hernandez J., Rabbinowitsch E., Steffen D.,
+RA   Sanders M., Ma J., Kohara Y., Sharp S., Simmonds M.N., Spiegler S.,
+RA   Tivey A., Sugano S., White B., Walker D., Woodward J.R., Winckler T.,
+RA   Tanaka Y., Shaulsky G., Schleicher M., Weinstock G.M., Rosenthal A.,
+RA   Cox E.C., Chisholm R.L., Gibbs R.A., Loomis W.F., Platzer M.,
+RA   Kay R.R., Williams J.G., Dear P.H., Noegel A.A., Barrell B.G.,
+RA   Kuspa A.;
+RT   "The genome of the social amoeba Dictyostelium discoideum.";
+RL   Nature 435:43-57(2005).
+RN   [2]
+RP   IDENTIFICATION.
+RX   PubMed=12956949; DOI=10.1016/S0960-9822(03)00580-3;
+RA   Blagg S.L., Stewart M., Sambles C., Insall R.H.;
+RT   "PIR121 regulates pseudopod dynamics and SCAR activity in
+RT   Dictyostelium.";
+RL   Curr. Biol. 13:1480-1487(2003).
+RN   [3]
+RP   IDENTIFICATION IN THE WAVE COMPLEX, INTERACTION WITH SCRA, AND
+RP   FUNCTION.
+RX   PubMed=17314411; DOI=10.1091/mbc.E06-06-0518;
+RA   Caracino D., Jones C., Compton M., Saxe C.L. III;
+RT   "The N-terminus of Dictyostelium Scar interacts with Abi and HSPC300
+RT   and is essential for proper regulation and function.";
+RL   Mol. Biol. Cell 18:1609-1620(2007).
+CC   -!- FUNCTION: Involved in regulation of actin and microtubule
+CC       organization. {ECO:0000269|PubMed:17314411}.
+CC   -!- SUBUNIT: Part of a Scar/WAVE complex containing brk1, scrA, abiA,
+CC       pirA and napA. Interacts with scrA. {ECO:0000269|PubMed:17314411}.
+CC   -!- INTERACTION:
+CC       Q54NF8:scrA; NbExp=3; IntAct=EBI-1808171, EBI-1808146;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm, cytoskeleton {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the BRK1 family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AAFI02000029; EAL67856.1; -; Genomic_DNA.
+DR   RefSeq; XP_641829.1; XM_636737.1.
+DR   PDB; 3PP5; X-ray; 1.50 A; A=1-68.
+DR   PDBsum; 3PP5; -.
+DR   IntAct; Q54X65; 1.
+DR   STRING; 44689.DDB0231424; -.
+DR   PRIDE; Q54X65; -.
+DR   EnsemblProtists; DDB0231424; DDB0231424; DDB_G0279175.
+DR   GeneID; 8621907; -.
+DR   KEGG; ddi:DDB_G0279175; -.
+DR   dictyBase; DDB_G0279175; hspc300.
+DR   eggNOG; NOG43375; -.
+DR   InParanoid; Q54X65; -.
+DR   KO; K05752; -.
+DR   OMA; QEYIEII; -.
+DR   PhylomeDB; Q54X65; -.
+DR   PRO; PR:Q54X65; -.
+DR   Proteomes; UP000002195; Chromosome 3.
+DR   Proteomes; UP000002195; Unassembled WGS sequence.
+DR   GO; GO:0031252; C:cell leading edge; IDA:dictyBase.
+DR   GO; GO:0060187; C:cell pole; IDA:dictyBase.
+DR   GO; GO:0005911; C:cell-cell junction; IDA:dictyBase.
+DR   GO; GO:0005856; C:cytoskeleton; IEA:UniProtKB-SubCell.
+DR   GO; GO:0032433; C:filopodium tip; IDA:dictyBase.
+DR   GO; GO:0031143; C:pseudopodium; IDA:dictyBase.
+DR   GO; GO:0031209; C:SCAR complex; IDA:dictyBase.
+DR   GO; GO:0016049; P:cell growth; IMP:dictyBase.
+DR   GO; GO:0048870; P:cell motility; IMP:dictyBase.
+DR   GO; GO:0051260; P:protein homooligomerization; IDA:dictyBase.
+DR   GO; GO:0031269; P:pseudopodium assembly; IMP:dictyBase.
+DR   GO; GO:0008064; P:regulation of actin polymerization or depolymerization; IMP:dictyBase.
+PE   1: Evidence at protein level;
+KW   3D-structure; Coiled coil; Complete proteome; Cytoplasm; Cytoskeleton;
+KW   Reference proteome.
+FT   CHAIN         1     68       Protein BRICK1.
+FT                                /FTId=PRO_0000331406.
+FT   COILED       37     62       {ECO:0000255}.
+FT   HELIX         6     64       {ECO:0000244|PDB:3PP5}.
+SQ   SEQUENCE   68 AA;  8198 MW;  F3FF3A098EA5D721 CRC64;
+     MSTKTNIQKD WEQREFIEDM SINIQKIVEF LNKFELSTRN KLSDLNEKLT ILDRQVDYLE
+     ATFKTVQE
+//

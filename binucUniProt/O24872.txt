@@ -1,0 +1,160 @@
+ID   BIOD_HELPY              Reviewed;         218 AA.
+AC   O24872;
+DT   15-DEC-1998, integrated into UniProtKB/Swiss-Prot.
+DT   01-JAN-1998, sequence version 1.
+DT   22-JUL-2015, entry version 97.
+DE   RecName: Full=ATP-dependent dethiobiotin synthetase BioD;
+DE            EC=6.3.3.3;
+DE   AltName: Full=DTB synthetase;
+DE            Short=DTBS;
+DE   AltName: Full=Dethiobiotin synthase;
+GN   Name=bioD; OrderedLocusNames=HP_0029;
+OS   Helicobacter pylori (strain ATCC 700392 / 26695) (Campylobacter
+OS   pylori).
+OC   Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales;
+OC   Helicobacteraceae; Helicobacter.
+OX   NCBI_TaxID=85962;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 700392 / 26695;
+RX   PubMed=9252185; DOI=10.1038/41483;
+RA   Tomb J.-F., White O., Kerlavage A.R., Clayton R.A., Sutton G.G.,
+RA   Fleischmann R.D., Ketchum K.A., Klenk H.-P., Gill S.R.,
+RA   Dougherty B.A., Nelson K.E., Quackenbush J., Zhou L., Kirkness E.F.,
+RA   Peterson S.N., Loftus B.J., Richardson D.L., Dodson R.J., Khalak H.G.,
+RA   Glodek A., McKenney K., FitzGerald L.M., Lee N., Adams M.D.,
+RA   Hickey E.K., Berg D.E., Gocayne J.D., Utterback T.R., Peterson J.D.,
+RA   Kelley J.M., Cotton M.D., Weidman J.F., Fujii C., Bowman C.,
+RA   Watthey L., Wallin E., Hayes W.S., Borodovsky M., Karp P.D.,
+RA   Smith H.O., Fraser C.M., Venter J.C.;
+RT   "The complete genome sequence of the gastric pathogen Helicobacter
+RT   pylori.";
+RL   Nature 388:539-547(1997).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (1.47 ANGSTROMS).
+RG   Midwest center for structural genomics (MCSG);
+RT   "Crystal structure of dethiobiotin synthetase (biod) from Helicobacter
+RT   pylori.";
+RL   Submitted (MAR-2009) to the PDB data bank.
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) IN COMPLEX WITH SUBSTRATE
+RP   ANALOGS, ATP AND MAGNESIUM IONS, AND SUBUNIT.
+RG   Midwest center for structural genomics (MCSG);
+RT   "Crystal structure of dethiobiotin synthetase (biod) from Helicobacter
+RT   pylori cocrystallized with ATP.";
+RL   Submitted (MAY-2010) to the PDB data bank.
+CC   -!- FUNCTION: Catalyzes a mechanistically unusual reaction, the ATP-
+CC       dependent insertion of CO2 between the N7 and N8 nitrogen atoms of
+CC       7,8-diaminopelargonic acid (DAPA) to form an ureido ring.
+CC       {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: ATP + 7,8-diaminononanoate + CO(2) = ADP +
+CC       phosphate + dethiobiotin.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250};
+CC   -!- PATHWAY: Cofactor biosynthesis; biotin biosynthesis; biotin from
+CC       7,8-diaminononanoate: step 1/2.
+CC   -!- SUBUNIT: Homodimer. {ECO:0000269|Ref.3}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the dethiobiotin synthetase family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE000511; AAD07100.1; -; Genomic_DNA.
+DR   PIR; E64523; E64523.
+DR   RefSeq; NP_206831.1; NC_000915.1.
+DR   RefSeq; WP_000897490.1; NC_018939.1.
+DR   PDB; 2QMO; X-ray; 1.47 A; A=1-218.
+DR   PDB; 3MLE; X-ray; 2.80 A; A/B/C/D/E/F=1-218.
+DR   PDB; 3QXC; X-ray; 1.34 A; A=1-218.
+DR   PDB; 3QXH; X-ray; 1.36 A; A=1-218.
+DR   PDB; 3QXJ; X-ray; 1.38 A; A=1-218.
+DR   PDB; 3QXS; X-ray; 1.35 A; A=1-218.
+DR   PDB; 3QXX; X-ray; 1.36 A; A=1-218.
+DR   PDB; 3QY0; X-ray; 1.60 A; A=1-218.
+DR   PDBsum; 2QMO; -.
+DR   PDBsum; 3MLE; -.
+DR   PDBsum; 3QXC; -.
+DR   PDBsum; 3QXH; -.
+DR   PDBsum; 3QXJ; -.
+DR   PDBsum; 3QXS; -.
+DR   PDBsum; 3QXX; -.
+DR   PDBsum; 3QY0; -.
+DR   ProteinModelPortal; O24872; -.
+DR   SMR; O24872; 1-218.
+DR   MINT; MINT-8303355; -.
+DR   STRING; 85962.HP0029; -.
+DR   PRIDE; O24872; -.
+DR   EnsemblBacteria; AAD07100; AAD07100; HP_0029.
+DR   GeneID; 899125; -.
+DR   KEGG; heo:C694_00135; -.
+DR   KEGG; hpy:HP0029; -.
+DR   PATRIC; 20591257; VBIHelPyl33062_0030.
+DR   eggNOG; COG0132; -.
+DR   KO; K01935; -.
+DR   OMA; GLCVPIT; -.
+DR   OrthoDB; EOG66B3XT; -.
+DR   BioCyc; HPY:HP0029-MONOMER; -.
+DR   UniPathway; UPA00078; UER00161.
+DR   EvolutionaryTrace; O24872; -.
+DR   Proteomes; UP000000429; Chromosome.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0004141; F:dethiobiotin synthase activity; ISS:UniProtKB.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0009102; P:biotin biosynthetic process; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 3.40.50.300; -; 1.
+DR   HAMAP; MF_00336; BioD; 1.
+DR   InterPro; IPR004472; DTB_synth_BioD.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   SUPFAM; SSF52540; SSF52540; 1.
+DR   TIGRFAMs; TIGR00347; bioD; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; ATP-binding; Biotin biosynthesis; Complete proteome;
+KW   Cytoplasm; Ligase; Magnesium; Metal-binding; Nucleotide-binding;
+KW   Reference proteome.
+FT   CHAIN         1    218       ATP-dependent dethiobiotin synthetase
+FT                                BioD.
+FT                                /FTId=PRO_0000187971.
+FT   NP_BIND       9     15       ATP.
+FT   NP_BIND     116    119       ATP.
+FT   NP_BIND     151    154       Substrate.
+FT   METAL        10     10       Magnesium 1. {ECO:0000250}.
+FT   METAL        14     14       Magnesium 2.
+FT   METAL        50     50       Magnesium 2.
+FT   METAL       116    116       Magnesium 2.
+FT   BINDING      35     35       ATP.
+FT   BINDING      39     39       Substrate.
+FT   BINDING      50     50       ATP.
+FT   BINDING      63     63       ATP.
+FT   BINDING     175    175       ATP.
+FT   STRAND        1      8       {ECO:0000244|PDB:3QXC}.
+FT   HELIX        13     26       {ECO:0000244|PDB:3QXC}.
+FT   STRAND       31     34       {ECO:0000244|PDB:3QXC}.
+FT   STRAND       37     40       {ECO:0000244|PDB:3MLE}.
+FT   TURN         43     45       {ECO:0000244|PDB:3QXC}.
+FT   HELIX        50     59       {ECO:0000244|PDB:3QXC}.
+FT   HELIX        67     70       {ECO:0000244|PDB:3QXC}.
+FT   STRAND       76     79       {ECO:0000244|PDB:3QXC}.
+FT   HELIX        81     88       {ECO:0000244|PDB:3QXC}.
+FT   HELIX        96    105       {ECO:0000244|PDB:3QXC}.
+FT   HELIX       106    108       {ECO:0000244|PDB:3QXC}.
+FT   STRAND      111    116       {ECO:0000244|PDB:3QXC}.
+FT   STRAND      118    120       {ECO:0000244|PDB:3QXH}.
+FT   STRAND      124    128       {ECO:0000244|PDB:3QXC}.
+FT   HELIX       131    138       {ECO:0000244|PDB:3QXC}.
+FT   STRAND      141    146       {ECO:0000244|PDB:3QXC}.
+FT   HELIX       152    164       {ECO:0000244|PDB:3QXC}.
+FT   STRAND      166    168       {ECO:0000244|PDB:3QXC}.
+FT   STRAND      170    174       {ECO:0000244|PDB:3QXC}.
+FT   HELIX       182    186       {ECO:0000244|PDB:3QXC}.
+FT   HELIX       188    197       {ECO:0000244|PDB:3QXC}.
+FT   HELIX       205    207       {ECO:0000244|PDB:3QXC}.
+FT   HELIX       209    217       {ECO:0000244|PDB:3QXC}.
+SQ   SEQUENCE   218 AA;  24407 MW;  C818F3D3A88C6015 CRC64;
+     MLFISATNTN AGKTTCARLL AQYCNACGVK TILLKPIETG VNDAINHSSD AHLFLQDNRL
+     LDRSLTLKDI SFYRYHKVSA PLIAQQEEDP NAPIDTDNLT QRLHNFTKTY DLVIVEGAGG
+     LCVPITLEEN MLDFALKLKA KMLLISHDNL GLINDCLLND FLLKSHQLDY KIAINLKGNN
+     TAFHSISLPY IELFNTRSNN PIVIFQQSLK VLMSFALK
+//

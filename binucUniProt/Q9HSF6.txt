@@ -1,0 +1,155 @@
+ID   RNH_HALSA               Reviewed;         199 AA.
+AC   Q9HSF6;
+DT   06-FEB-2013, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAR-2001, sequence version 1.
+DT   29-APR-2015, entry version 85.
+DE   RecName: Full=Ribonuclease HI;
+DE            Short=Halo-RNase HI;
+DE            Short=RNase HI;
+DE            EC=3.1.26.4;
+GN   Name=rnhA; OrderedLocusNames=VNG_0255C;
+OS   Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1)
+OS   (Halobacterium halobium).
+OC   Archaea; Euryarchaeota; Halobacteria; Halobacteriales;
+OC   Halobacteriaceae; Halobacterium.
+OX   NCBI_TaxID=64091;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 700922 / JCM 11081 / NRC-1;
+RX   PubMed=11016950; DOI=10.1073/pnas.190337797;
+RA   Ng W.V., Kennedy S.P., Mahairas G.G., Berquist B., Pan M.,
+RA   Shukla H.D., Lasky S.R., Baliga N.S., Thorsson V., Sbrogna J.,
+RA   Swartzell S., Weir D., Hall J., Dahl T.A., Welti R., Goo Y.A.,
+RA   Leithauser B., Keller K., Cruz R., Danson M.J., Hough D.W.,
+RA   Maddocks D.G., Jablonski P.E., Krebs M.P., Angevine C.M., Dale H.,
+RA   Isenbarger T.A., Peck R.F., Pohlschroder M., Spudich J.L., Jung K.-H.,
+RA   Alam M., Freitas T., Hou S., Daniels C.J., Dennis P.P., Omer A.D.,
+RA   Ebhardt H., Lowe T.M., Liang P., Riley M., Hood L., DasSarma S.;
+RT   "Genome sequence of Halobacterium species NRC-1.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 97:12176-12181(2000).
+RN   [2]
+RP   FUNCTION, CATALYTIC ACTIVITY, COFACTOR, AND MUTAGENESIS OF HIS-29;
+RP   HIS-33; HIS-40 AND HIS-179.
+RC   STRAIN=ATCC 700922 / JCM 11081 / NRC-1;
+RX   PubMed=15115438; DOI=10.1042/BJ20040153;
+RA   Ohtani N., Yanagawa H., Tomita M., Itaya M.;
+RT   "Identification of the first archaeal Type 1 RNase H gene from
+RT   Halobacterium sp. NRC-1: archaeal RNase HI can cleave an RNA-DNA
+RT   junction.";
+RL   Biochem. J. 381:795-802(2004).
+RN   [3]
+RP   COFACTOR, AND NUCLEIC ACID-BINDING.
+RC   STRAIN=ATCC 700922 / JCM 11081 / NRC-1;
+RX   DOI=10.1016/j.fob.2012.10.003;
+RA   Tannous E., Yokoyama K., You D.J., Koga Y., Kanaya S.;
+RT   "A dual role of divalent metal ions in catalysis and folding of RNase
+RT   H1 from extreme halophilic archaeon Halobacterium sp. NRC-1.";
+RL   FEBS Open Bio 2:345-352(2012).
+CC   -!- FUNCTION: Nuclease that specifically degrades the RNA of RNA-DNA
+CC       hybrids; seems to act exonucleolytically on RNA/DNA hybrids.
+CC       Endonucleolytically removes RNA primers from the Okazaki fragments
+CC       of lagging strand synthesis on its own. Complements the
+CC       temperature-sensitive phenotype of an E.coli double rnhA/rnhB
+CC       (RNase H) disruption mutant. {ECO:0000269|PubMed:15115438}.
+CC   -!- CATALYTIC ACTIVITY: Endonucleolytic cleavage to 5'-
+CC       phosphomonoester. {ECO:0000255|PROSITE-ProRule:PRU00408,
+CC       ECO:0000269|PubMed:15115438}.
+CC   -!- COFACTOR:
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000269|PubMed:15115438, ECO:0000269|Ref.3};
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000269|PubMed:15115438, ECO:0000269|Ref.3};
+CC       Name=Co(2+); Xref=ChEBI:CHEBI:48828;
+CC         Evidence={ECO:0000269|PubMed:15115438, ECO:0000269|Ref.3};
+CC       Name=Ni(2+); Xref=ChEBI:CHEBI:49786;
+CC         Evidence={ECO:0000269|PubMed:15115438, ECO:0000269|Ref.3};
+CC       Note=Divalent cations; Mn(2+) and Mg(2+) are preferred over Co(2+)
+CC       or Ni(2+). Divalent cations are required for folding and
+CC       substrate-binding, while divalent cations and NaCl are required
+CC       for maximal protein stability. {ECO:0000269|PubMed:15115438,
+CC       ECO:0000269|Ref.3};
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the RNase H family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 RNase H domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00408}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE004437; AAG18851.1; -; Genomic_DNA.
+DR   PIR; G84185; G84185.
+DR   RefSeq; NP_279371.1; NC_002607.1.
+DR   RefSeq; WP_010902145.1; NC_002607.1.
+DR   PDB; 4E19; X-ray; 1.41 A; A/B=1-199.
+DR   PDB; 4NYN; X-ray; 1.41 A; A/B=1-199.
+DR   PDBsum; 4E19; -.
+DR   PDBsum; 4NYN; -.
+DR   ProteinModelPortal; Q9HSF6; -.
+DR   STRING; 64091.VNG0255C; -.
+DR   PaxDb; Q9HSF6; -.
+DR   DNASU; 1447160; -.
+DR   EnsemblBacteria; AAG18851; AAG18851; VNG_0255C.
+DR   GeneID; 1447160; -.
+DR   KEGG; hal:VNG0255C; -.
+DR   eggNOG; COG0328; -.
+DR   InParanoid; Q9HSF6; -.
+DR   KO; K03469; -.
+DR   OMA; NTDHERW; -.
+DR   PhylomeDB; Q9HSF6; -.
+DR   Proteomes; UP000000554; Chromosome.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004527; F:exonuclease activity; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003723; F:RNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004523; F:RNA-DNA hybrid ribonuclease activity; IEA:UniProtKB-EC.
+DR   Gene3D; 3.30.420.10; -; 1.
+DR   InterPro; IPR012337; RNaseH-like_dom.
+DR   InterPro; IPR002156; RNaseH_domain.
+DR   SUPFAM; SSF53098; SSF53098; 1.
+DR   PROSITE; PS50879; RNASE_H; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Cytoplasm; DNA-binding; Endonuclease;
+KW   Exonuclease; Hydrolase; Magnesium; Manganese; Metal-binding; Nuclease;
+KW   Reference proteome; RNA-binding.
+FT   CHAIN         1    199       Ribonuclease HI.
+FT                                /FTId=PRO_0000420869.
+FT   DOMAIN       66    197       RNase H. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00408}.
+FT   REGION        1     68       Not required for RNase H activity.
+FT   REGION       69    199       As active as intact RNase H.
+FT   METAL        75     75       Magnesium or manganese 1.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00408}.
+FT   METAL        75     75       Magnesium or manganese 2.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00408}.
+FT   METAL       115    115       Magnesium or manganese 1.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00408}.
+FT   METAL       139    139       Magnesium or manganese 1.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00408}.
+FT   METAL       189    189       Magnesium or manganese 2.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00408}.
+FT   MUTAGEN      29     29       H->A: No loss of RNase H activity.
+FT                                {ECO:0000269|PubMed:15115438}.
+FT   MUTAGEN      33     33       H->A: No loss of RNase H activity.
+FT                                {ECO:0000269|PubMed:15115438}.
+FT   MUTAGEN      40     40       H->A: No loss of RNase H activity.
+FT                                {ECO:0000269|PubMed:15115438}.
+FT   MUTAGEN      71     71       H->A: No loss of RNase H activity.
+FT   MUTAGEN     179    179       H->A,W: No loss of RNase H activity.
+FT                                {ECO:0000269|PubMed:15115438}.
+FT   STRAND       69     80       {ECO:0000244|PDB:4E19}.
+FT   STRAND       83     92       {ECO:0000244|PDB:4E19}.
+FT   STRAND       98    109       {ECO:0000244|PDB:4E19}.
+FT   HELIX       111    128       {ECO:0000244|PDB:4E19}.
+FT   STRAND      132    139       {ECO:0000244|PDB:4E19}.
+FT   HELIX       141    147       {ECO:0000244|PDB:4E19}.
+FT   HELIX       156    170       {ECO:0000244|PDB:4E19}.
+FT   STRAND      172    179       {ECO:0000244|PDB:4E19}.
+FT   TURN        182    185       {ECO:0000244|PDB:4E19}.
+FT   HELIX       186    197       {ECO:0000244|PDB:4E19}.
+SQ   SEQUENCE   199 AA;  20981 MW;  C29CB636384B8E97 CRC64;
+     MPVVECDIQT ARAALADAGA SFSDGNSEHE LWHADLGDAH AVAYADKLVV QGGSPTDITA
+     VVQPDRGGRV HAYFDGASRG NPGPAAVGWV LVSGDGGIVA EGGDTIGRAT NNQAEYDALI
+     AALEAAADFG FDDIELRGDS QLVEKQLTGA WDTNDPDLRR KRVRARELLT GFDDWSITHV
+     PRATNERADA LANEALDDA
+//

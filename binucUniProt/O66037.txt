@@ -1,0 +1,128 @@
+ID   PHYT_BACSD              Reviewed;         383 AA.
+AC   O66037;
+DT   15-DEC-1998, integrated into UniProtKB/Swiss-Prot.
+DT   01-AUG-1998, sequence version 1.
+DT   27-MAY-2015, entry version 73.
+DE   RecName: Full=3-phytase;
+DE            EC=3.1.3.8;
+DE   AltName: Full=Myo-inositol-hexaphosphate 3-phosphohydrolase;
+DE   AltName: Full=Phytate 3-phosphatase;
+DE   Flags: Precursor;
+GN   Name=phy;
+OS   Bacillus sp. (strain DS11).
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus.
+OX   NCBI_TaxID=86035;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND PROTEIN SEQUENCE OF 31-44 AND
+RP   214-223.
+RX   PubMed=9595681; DOI=10.1111/j.1574-6968.1998.tb12997.x;
+RA   Kim Y.-O., Lee J.-K., Kim H.-K., Yu J.-H., Oh T.-K.;
+RT   "Cloning of the thermostable phytase gene (phy) from Bacillus sp. DS11
+RT   and its overexpression in Escherichia coli.";
+RL   FEMS Microbiol. Lett. 162:185-191(1998).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (2.05 ANGSTROMS).
+RX   PubMed=10089471; DOI=10.1107/S0907444998015285;
+RA   Ha N.-C., Kim Y.-O., Oh T.-K., Oh B.-H.;
+RT   "Preliminary X-ray crystallographic analysis of a novel phytase from a
+RT   Bacillus amyloliquefaciens strain.";
+RL   Acta Crystallogr. D 55:691-693(1999).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS).
+RX   PubMed=10655618; DOI=10.1038/72421;
+RA   Ha N.-C., Oh B.-C., Shin S., Kim H.-J., Oh T.-K., Kim Y.-O.,
+RA   Choi K.Y., Oh B.-H.;
+RT   "Crystal structures of a novel, thermostable phytase in partially and
+RT   fully calcium-loaded states.";
+RL   Nat. Struct. Biol. 7:147-153(2000).
+CC   -!- CATALYTIC ACTIVITY: Myo-inositol hexakisphosphate + H(2)O = 1D-
+CC       myo-inositol 1,2,4,5,6-pentakisphosphate + phosphate.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00997}.
+CC   -!- SUBCELLULAR LOCATION: Secreted.
+CC   -!- SIMILARITY: Contains 1 BPP (beta-propeller phytase) domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00997}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U85968; AAC38573.1; -; Genomic_DNA.
+DR   PDB; 1CVM; X-ray; 2.40 A; A=29-381.
+DR   PDB; 1H6L; X-ray; 1.80 A; A=29-381.
+DR   PDB; 1POO; X-ray; 2.10 A; A=29-383.
+DR   PDB; 1QLG; X-ray; 2.20 A; A=29-381.
+DR   PDB; 2POO; X-ray; 2.05 A; A=29-383.
+DR   PDBsum; 1CVM; -.
+DR   PDBsum; 1H6L; -.
+DR   PDBsum; 1POO; -.
+DR   PDBsum; 1QLG; -.
+DR   PDBsum; 2POO; -.
+DR   ProteinModelPortal; O66037; -.
+DR   SMR; O66037; 29-381.
+DR   EvolutionaryTrace; O66037; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0016158; F:3-phytase activity; IEA:UniProtKB-EC.
+DR   Gene3D; 2.120.10.20; -; 1.
+DR   InterPro; IPR003431; b_Phytase.
+DR   Pfam; PF02333; Phytase; 1.
+DR   PROSITE; PS51662; BP_PHYTASE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Direct protein sequencing; Hydrolase; Secreted; Signal.
+FT   SIGNAL        1     26       {ECO:0000255}.
+FT   PROPEP       27     30       {ECO:0000269|PubMed:9595681}.
+FT                                /FTId=PRO_0000022058.
+FT   CHAIN        31    383       3-phytase.
+FT                                /FTId=PRO_0000022059.
+FT   DOMAIN       31    362       BPP. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00997}.
+FT   STRAND       35     38       {ECO:0000244|PDB:1H6L}.
+FT   STRAND       41     43       {ECO:0000244|PDB:1H6L}.
+FT   STRAND       54     60       {ECO:0000244|PDB:1H6L}.
+FT   HELIX        66     68       {ECO:0000244|PDB:1H6L}.
+FT   STRAND       70     75       {ECO:0000244|PDB:1H6L}.
+FT   STRAND       81     84       {ECO:0000244|PDB:1H6L}.
+FT   STRAND       89     92       {ECO:0000244|PDB:1H6L}.
+FT   STRAND       98    109       {ECO:0000244|PDB:1H6L}.
+FT   STRAND      112    121       {ECO:0000244|PDB:1H6L}.
+FT   TURN        124    126       {ECO:0000244|PDB:1H6L}.
+FT   STRAND      128    135       {ECO:0000244|PDB:1H6L}.
+FT   TURN        136    139       {ECO:0000244|PDB:1H6L}.
+FT   STRAND      140    143       {ECO:0000244|PDB:1H6L}.
+FT   STRAND      147    149       {ECO:0000244|PDB:1H6L}.
+FT   STRAND      154    157       {ECO:0000244|PDB:1H6L}.
+FT   STRAND      161    165       {ECO:0000244|PDB:1H6L}.
+FT   TURN        167    169       {ECO:0000244|PDB:1H6L}.
+FT   STRAND      172    177       {ECO:0000244|PDB:1H6L}.
+FT   STRAND      179    190       {ECO:0000244|PDB:1H6L}.
+FT   STRAND      194    205       {ECO:0000244|PDB:1H6L}.
+FT   STRAND      210    216       {ECO:0000244|PDB:1H6L}.
+FT   TURN        217    220       {ECO:0000244|PDB:1H6L}.
+FT   STRAND      221    226       {ECO:0000244|PDB:1H6L}.
+FT   TURN        227    229       {ECO:0000244|PDB:1H6L}.
+FT   STRAND      230    237       {ECO:0000244|PDB:1H6L}.
+FT   HELIX       238    240       {ECO:0000244|PDB:2POO}.
+FT   STRAND      245    249       {ECO:0000244|PDB:1H6L}.
+FT   STRAND      251    254       {ECO:0000244|PDB:1H6L}.
+FT   STRAND      259    266       {ECO:0000244|PDB:1H6L}.
+FT   HELIX       268    270       {ECO:0000244|PDB:1H6L}.
+FT   STRAND      272    278       {ECO:0000244|PDB:1H6L}.
+FT   HELIX       279    281       {ECO:0000244|PDB:1H6L}.
+FT   STRAND      283    290       {ECO:0000244|PDB:1H6L}.
+FT   STRAND      295    301       {ECO:0000244|PDB:1H6L}.
+FT   STRAND      305    307       {ECO:0000244|PDB:1H6L}.
+FT   STRAND      316    319       {ECO:0000244|PDB:1H6L}.
+FT   STRAND      324    326       {ECO:0000244|PDB:2POO}.
+FT   STRAND      331    338       {ECO:0000244|PDB:1H6L}.
+FT   STRAND      344    346       {ECO:0000244|PDB:2POO}.
+FT   STRAND      349    354       {ECO:0000244|PDB:1H6L}.
+FT   HELIX       356    359       {ECO:0000244|PDB:1H6L}.
+FT   HELIX       360    362       {ECO:0000244|PDB:1H6L}.
+FT   HELIX       374    376       {ECO:0000244|PDB:1QLG}.
+SQ   SEQUENCE   383 AA;  41802 MW;  DCB65188F7B61C8C CRC64;
+     MNHSKTLLLT AAAGLMLTCG AVSSQAKHKL SDPYHFTVNA AAETEPVDTA GDAADDPAIW
+     LDPKNPQNSK LITTNKKSGL AVYSLEGKML HSYHTGKLNN VDIRYDFPLN GKKVDIAAAS
+     NRSEGKNTIE IYAIDGKNGT LQSITDPNRP IASAIDEVYG FSLYHSQKTG KYYAMVTGKE
+     GEFEQYELNA DKNGYISGKK VRAFKMNSQT EGMAADDEYG SLYIAEEDEA IWKFSAEPDG
+     GSNGTVIDRA DGRHLTPDIE GLTIYYAADG KGYLLASSQG NSSYAIYERQ GQNKYVADFQ
+     ITDGPETDGT SDTDGIDVLG FGLGPEYPFG LFVAQDGENI DHGQKANQNF KMVPWERIAD
+     KIGFHPQVNK QVDPRKMTDR SGK
+//

@@ -1,0 +1,160 @@
+ID   B6DMH6_9STRA            Unreviewed;       230 AA.
+AC   B6DMH6;
+DT   25-NOV-2008, integrated into UniProtKB/TrEMBL.
+DT   25-NOV-2008, sequence version 1.
+DT   24-JUN-2015, entry version 42.
+DE   RecName: Full=Ferritin {ECO:0000256|RuleBase:RU361145};
+DE            EC=1.16.3.1 {ECO:0000256|RuleBase:RU361145};
+DE   Flags: Fragment;
+GN   Name=FTN {ECO:0000313|EMBL:ACI30660.1};
+OS   Pseudo-nitzschia multiseries.
+OC   Eukaryota; Stramenopiles; Bacillariophyta; Bacillariophyceae;
+OC   Bacillariophycidae; Bacillariales; Bacillariaceae; Pseudo-nitzschia.
+OX   NCBI_TaxID=37319 {ECO:0000313|EMBL:ACI30660.1};
+RN   [1] {ECO:0000213|PDB:3E6R, ECO:0000213|PDB:3E6S, ECO:0000313|EMBL:ACI30660.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=CLN-47 {ECO:0000313|EMBL:ACI30660.1};
+RX   PubMed=19037243; DOI=10.1038/nature07539;
+RA   Marchetti A., Parker M.S., Moccia L.P., Lin E.O., Arrieta A.L.,
+RA   Ribalet F., Murphy M.E., Maldonado M.T., Armbrust E.V.;
+RT   "Ferritin is used for iron storage in bloom-forming marine pennate
+RT   diatoms.";
+RL   Nature 457:467-470(2009).
+RN   [2] {ECO:0000213|PDB:4ISM, ECO:0000213|PDB:4ISP, ECO:0000213|PDB:4ITT}
+RP   X-RAY CRYSTALLOGRAPHY (1.65 ANGSTROMS) OF 63-229 IN COMPLEX WITH IRON
+RP   AND ZINC.
+RX   PubMed=23548912;
+RA   Pfaffen S., Abdulqadir R., Le Brun N.E., Murphy M.E.;
+RT   "Mechanism of ferrous iron binding and oxidation by ferritin from a
+RT   pennate diatom.";
+RL   J. Biol. Chem. 288:14917-14925(2013).
+CC   -!- FUNCTION: Stores iron in a soluble, non-toxic, readily available
+CC       form. Important for iron homeostasis. Iron is taken up in the
+CC       ferrous form and deposited as ferric hydroxides after oxidation.
+CC       {ECO:0000256|RuleBase:RU361145}.
+CC   -!- CATALYTIC ACTIVITY: 4 Fe(2+) + 4 H(+) + O(2) = 4 Fe(3+) + 2 H(2)O.
+CC       {ECO:0000256|RuleBase:RU361145}.
+CC   -!- SIMILARITY: Belongs to the ferritin family.
+CC       {ECO:0000256|RuleBase:RU361145}.
+CC   -!- SIMILARITY: Contains 1 ferritin-like diiron domain.
+CC       {ECO:0000256|RuleBase:RU003668}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; FJ004953; ACI30660.1; -; mRNA.
+DR   PDB; 3E6R; X-ray; 2.40 A; A/B/C/D/E/F=63-229.
+DR   PDB; 3E6S; X-ray; 1.95 A; A/B/C/D/E/F=63-229.
+DR   PDB; 4ISM; X-ray; 2.00 A; A/B/C/D/E/F/G/H=63-229.
+DR   PDB; 4ISP; X-ray; 2.20 A; A/B/C/D/E/F/G/H=63-229.
+DR   PDB; 4ITT; X-ray; 2.10 A; A/B/C/D/E/F/G/H=63-229.
+DR   PDB; 4ITW; X-ray; 2.00 A; A/B/C/D/E/F/G/H=63-229.
+DR   PDB; 4IWJ; X-ray; 1.95 A; A/B/C/D/E/F/G/H=63-229.
+DR   PDB; 4IWK; X-ray; 1.65 A; A/B/C/D/E/F=63-229.
+DR   PDB; 4IXK; X-ray; 2.10 A; A/B/C/D/E/F/G/H=63-229.
+DR   PDBsum; 3E6R; -.
+DR   PDBsum; 3E6S; -.
+DR   PDBsum; 4ISM; -.
+DR   PDBsum; 4ISP; -.
+DR   PDBsum; 4ITT; -.
+DR   PDBsum; 4ITW; -.
+DR   PDBsum; 4IWJ; -.
+DR   PDBsum; 4IWK; -.
+DR   PDBsum; 4IXK; -.
+DR   DIP; DIP-59728N; -.
+DR   EvolutionaryTrace; B6DMH6; -.
+DR   GO; GO:0005623; C:cell; IEA:GOC.
+DR   GO; GO:0008199; F:ferric iron binding; IEA:InterPro.
+DR   GO; GO:0004322; F:ferroxidase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0006879; P:cellular iron ion homeostasis; IEA:UniProtKB-KW.
+DR   GO; GO:0006826; P:iron ion transport; IEA:InterPro.
+DR   Gene3D; 1.20.1260.10; -; 1.
+DR   InterPro; IPR001519; Ferritin.
+DR   InterPro; IPR009040; Ferritin-like_diiron.
+DR   InterPro; IPR009078; Ferritin-like_SF.
+DR   InterPro; IPR012347; Ferritin-rel.
+DR   InterPro; IPR008331; Ferritin_DPS_dom.
+DR   PANTHER; PTHR11431; PTHR11431; 1.
+DR   Pfam; PF00210; Ferritin; 1.
+DR   SUPFAM; SSF47240; SSF47240; 1.
+DR   PROSITE; PS50905; FERRITIN_LIKE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3E6R, ECO:0000213|PDB:3E6S};
+KW   Iron {ECO:0000256|RuleBase:RU361145};
+KW   Iron storage {ECO:0000256|RuleBase:RU361145};
+KW   Metal-binding {ECO:0000213|PDB:3E6S, ECO:0000213|PDB:4ISM};
+KW   Oxidoreductase {ECO:0000256|RuleBase:RU361145};
+KW   Zinc {ECO:0000213|PDB:4ISM}.
+FT   METAL        64     64       Iron 1. {ECO:0000213|PDB:3E6S}.
+FT   METAL        64     64       Iron 2. {ECO:0000213|PDB:3E6S}.
+FT   METAL        65     65       Iron 1. {ECO:0000213|PDB:3E6S}.
+FT   METAL        68     68       Iron 2. {ECO:0000213|PDB:3E6S}.
+FT   METAL        77     77       Iron 3. {ECO:0000213|PDB:4ISP,
+FT                                ECO:0000213|PDB:4ITW,
+FT                                ECO:0000213|PDB:4IWJ}.
+FT   METAL        77     77       Zinc 1. {ECO:0000213|PDB:4ISM}.
+FT   METAL       102    102       Iron 4. {ECO:0000213|PDB:4ISP}.
+FT   METAL       106    106       Iron 12. {ECO:0000213|PDB:4ITT}.
+FT   METAL       106    106       Iron 4. {ECO:0000213|PDB:4ISP}.
+FT   METAL       106    106       Iron 5. {ECO:0000213|PDB:4IWK}.
+FT   METAL       106    106       Iron 6. {ECO:0000213|PDB:3E6S,
+FT                                ECO:0000213|PDB:4ISP,
+FT                                ECO:0000213|PDB:4IWK}.
+FT   METAL       106    106       Iron 7. {ECO:0000213|PDB:3E6S}.
+FT   METAL       106    106       Iron 8. {ECO:0000213|PDB:3E6S,
+FT                                ECO:0000213|PDB:4ISP,
+FT                                ECO:0000213|PDB:4ITT}.
+FT   METAL       106    106       Iron 9. {ECO:0000213|PDB:4ISP}.
+FT   METAL       106    106       Zinc 2. {ECO:0000213|PDB:4ISM}.
+FT   METAL       109    109       Iron 10. {ECO:0000213|PDB:3E6S}.
+FT   METAL       109    109       Iron 11. {ECO:0000213|PDB:4ISP}.
+FT   METAL       109    109       Iron 6. {ECO:0000213|PDB:3E6S,
+FT                                ECO:0000213|PDB:4ISP,
+FT                                ECO:0000213|PDB:4IWK}.
+FT   METAL       109    109       Iron 7. {ECO:0000213|PDB:3E6S,
+FT                                ECO:0000213|PDB:4IWK}.
+FT   METAL       109    109       Iron 9. {ECO:0000213|PDB:4ISP}.
+FT   METAL       109    109       Zinc 2. {ECO:0000213|PDB:4ISM}.
+FT   METAL       110    110       Iron 12. {ECO:0000213|PDB:4ITT,
+FT                                ECO:0000213|PDB:4IWJ}.
+FT   METAL       110    110       Iron 3. {ECO:0000213|PDB:4ISP,
+FT                                ECO:0000213|PDB:4ITW,
+FT                                ECO:0000213|PDB:4IWJ}.
+FT   METAL       110    110       Iron 8. {ECO:0000213|PDB:3E6S,
+FT                                ECO:0000213|PDB:4ISP,
+FT                                ECO:0000213|PDB:4ITT}.
+FT   METAL       110    110       Zinc 1. {ECO:0000213|PDB:4ISM}.
+FT   METAL       110    110       Zinc 3. {ECO:0000213|PDB:4ISM}.
+FT   METAL       110    110       Zinc 4. {ECO:0000213|PDB:4ISM}.
+FT   METAL       113    113       Iron 3; via pros nitrogen.
+FT                                {ECO:0000213|PDB:4ISP,
+FT                                ECO:0000213|PDB:4ITW,
+FT                                ECO:0000213|PDB:4IWJ}.
+FT   METAL       113    113       Zinc 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:4ISM}.
+FT   METAL       156    156       Iron 12. {ECO:0000213|PDB:4ITT,
+FT                                ECO:0000213|PDB:4IWJ}.
+FT   METAL       156    156       Iron 8. {ECO:0000213|PDB:3E6S,
+FT                                ECO:0000213|PDB:4ISP,
+FT                                ECO:0000213|PDB:4ITT}.
+FT   METAL       156    156       Zinc 3. {ECO:0000213|PDB:4ISM}.
+FT   METAL       156    156       Zinc 4. {ECO:0000213|PDB:4ISM}.
+FT   METAL       159    159       Iron 3. {ECO:0000213|PDB:4ITW}.
+FT   METAL       192    192       Iron 4. {ECO:0000213|PDB:4ISP}.
+FT   METAL       192    192       Iron 6. {ECO:0000213|PDB:3E6S,
+FT                                ECO:0000213|PDB:4ISP,
+FT                                ECO:0000213|PDB:4IWK}.
+FT   METAL       192    192       Iron 7. {ECO:0000213|PDB:3E6S}.
+FT   METAL       192    192       Iron 8. {ECO:0000213|PDB:3E6S,
+FT                                ECO:0000213|PDB:4ISP,
+FT                                ECO:0000213|PDB:4ITT}.
+FT   METAL       192    192       Iron 9. {ECO:0000213|PDB:4ISP}.
+FT   METAL       192    192       Zinc 2. {ECO:0000213|PDB:4ISM}.
+FT   METAL       192    192       Zinc 4. {ECO:0000213|PDB:4ISM}.
+FT   NON_TER     230    230       {ECO:0000313|EMBL:ACI30660.1}.
+SQ   SEQUENCE   230 AA;  25199 MW;  56107F9680350575 CRC64;
+     MKSPFFFLSA LALTLRDSSP SFATAFRLAV TRCARQGIHA PSSSSSSSSR CLVASASALA
+     GPSEELLDLF NRQVTQEFTA SQVYLSASIW FDQNDWEGMA AYMLAESAEE REHGLGFVDF
+     ANKRNIPIEL QAVPAPVSCA EWSSPEDVWQ SILELEQANT RSLLNLAEAA STCHDFAVMA
+     FLNPFHLQQV NEEDKIGSIL AKVTDENRTP GLLRSLDVVS FLGPCLFRSV
+//

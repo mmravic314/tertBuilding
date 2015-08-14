@@ -1,0 +1,710 @@
+ID   B2MG_MOUSE              Reviewed;         119 AA.
+AC   P01887; Q91XJ8;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   03-OCT-2012, sequence version 2.
+DT   22-JUL-2015, entry version 165.
+DE   RecName: Full=Beta-2-microglobulin;
+DE   Flags: Precursor;
+GN   Name=B2m;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ALLELE A).
+RX   PubMed=6354707;
+RA   Daniel F., Morello D., le Bail O., Chambon P., Cayre Y., Kourilsky P.;
+RT   "Structure and expression of the mouse beta 2-microglobulin gene
+RT   isolated from somatic and non-expressing teratocarcinoma cells.";
+RL   EMBO J. 2:1061-1065(1983).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE (ALLELE A).
+RC   STRAIN=BALB/c;
+RX   PubMed=6180834; DOI=10.1016/0092-8674(82)90182-9;
+RA   Parnes J.R., Seidman J.G.;
+RT   "Structure of wild-type and mutant mouse beta 2-microglobulin genes.";
+RL   Cell 29:661-669(1982).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] (ALLELES W2; W3; W4 AND W5).
+RC   TISSUE=Liver;
+RX   PubMed=8482575; DOI=10.1007/BF00190898;
+RA   Hermel E., Robinson P.J., She J.-X., Lindahl K.F.;
+RT   "Sequence divergence of B2m alleles of wild Mus musculus and Mus
+RT   spretus implies positive selection.";
+RL   Immunogenetics 38:106-116(1993).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=C57BL/6J; TISSUE=Head, Lung, and Placenta;
+RX   PubMed=16141072; DOI=10.1126/science.1112014;
+RA   Carninci P., Kasukawa T., Katayama S., Gough J., Frith M.C., Maeda N.,
+RA   Oyama R., Ravasi T., Lenhard B., Wells C., Kodzius R., Shimokawa K.,
+RA   Bajic V.B., Brenner S.E., Batalov S., Forrest A.R., Zavolan M.,
+RA   Davis M.J., Wilming L.G., Aidinis V., Allen J.E.,
+RA   Ambesi-Impiombato A., Apweiler R., Aturaliya R.N., Bailey T.L.,
+RA   Bansal M., Baxter L., Beisel K.W., Bersano T., Bono H., Chalk A.M.,
+RA   Chiu K.P., Choudhary V., Christoffels A., Clutterbuck D.R.,
+RA   Crowe M.L., Dalla E., Dalrymple B.P., de Bono B., Della Gatta G.,
+RA   di Bernardo D., Down T., Engstrom P., Fagiolini M., Faulkner G.,
+RA   Fletcher C.F., Fukushima T., Furuno M., Futaki S., Gariboldi M.,
+RA   Georgii-Hemming P., Gingeras T.R., Gojobori T., Green R.E.,
+RA   Gustincich S., Harbers M., Hayashi Y., Hensch T.K., Hirokawa N.,
+RA   Hill D., Huminiecki L., Iacono M., Ikeo K., Iwama A., Ishikawa T.,
+RA   Jakt M., Kanapin A., Katoh M., Kawasawa Y., Kelso J., Kitamura H.,
+RA   Kitano H., Kollias G., Krishnan S.P., Kruger A., Kummerfeld S.K.,
+RA   Kurochkin I.V., Lareau L.F., Lazarevic D., Lipovich L., Liu J.,
+RA   Liuni S., McWilliam S., Madan Babu M., Madera M., Marchionni L.,
+RA   Matsuda H., Matsuzawa S., Miki H., Mignone F., Miyake S., Morris K.,
+RA   Mottagui-Tabar S., Mulder N., Nakano N., Nakauchi H., Ng P.,
+RA   Nilsson R., Nishiguchi S., Nishikawa S., Nori F., Ohara O.,
+RA   Okazaki Y., Orlando V., Pang K.C., Pavan W.J., Pavesi G., Pesole G.,
+RA   Petrovsky N., Piazza S., Reed J., Reid J.F., Ring B.Z., Ringwald M.,
+RA   Rost B., Ruan Y., Salzberg S.L., Sandelin A., Schneider C.,
+RA   Schoenbach C., Sekiguchi K., Semple C.A., Seno S., Sessa L., Sheng Y.,
+RA   Shibata Y., Shimada H., Shimada K., Silva D., Sinclair B.,
+RA   Sperling S., Stupka E., Sugiura K., Sultana R., Takenaka Y., Taki K.,
+RA   Tammoja K., Tan S.L., Tang S., Taylor M.S., Tegner J., Teichmann S.A.,
+RA   Ueda H.R., van Nimwegen E., Verardo R., Wei C.L., Yagi K.,
+RA   Yamanishi H., Zabarovsky E., Zhu S., Zimmer A., Hide W., Bult C.,
+RA   Grimmond S.M., Teasdale R.D., Liu E.T., Brusic V., Quackenbush J.,
+RA   Wahlestedt C., Mattick J.S., Hume D.A., Kai C., Sasaki D., Tomaru Y.,
+RA   Fukuda S., Kanamori-Katayama M., Suzuki M., Aoki J., Arakawa T.,
+RA   Iida J., Imamura K., Itoh M., Kato T., Kawaji H., Kawagashira N.,
+RA   Kawashima T., Kojima M., Kondo S., Konno H., Nakano K., Ninomiya N.,
+RA   Nishio T., Okada M., Plessy C., Shibata K., Shiraki T., Suzuki S.,
+RA   Tagami M., Waki K., Watahiki A., Okamura-Oho Y., Suzuki H., Kawai J.,
+RA   Hayashizaki Y.;
+RT   "The transcriptional landscape of the mammalian genome.";
+RL   Science 309:1559-1563(2005).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=C57BL/6J;
+RX   PubMed=19468303; DOI=10.1371/journal.pbio.1000112;
+RA   Church D.M., Goodstadt L., Hillier L.W., Zody M.C., Goldstein S.,
+RA   She X., Bult C.J., Agarwala R., Cherry J.L., DiCuccio M., Hlavina W.,
+RA   Kapustin Y., Meric P., Maglott D., Birtle Z., Marques A.C., Graves T.,
+RA   Zhou S., Teague B., Potamousis K., Churas C., Place M., Herschleb J.,
+RA   Runnheim R., Forrest D., Amos-Landgraf J., Schwartz D.C., Cheng Z.,
+RA   Lindblad-Toh K., Eichler E.E., Ponting C.P.;
+RT   "Lineage-specific biology revealed by a finished genome assembly of
+RT   the mouse.";
+RL   PLoS Biol. 7:E1000112-E1000112(2009).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Adams M.D., Myers E.W., Smith H.O., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=C57BL/6; TISSUE=Brain;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [8]
+RP   PROTEIN SEQUENCE OF 21-119 (ALLELES A AND B).
+RC   STRAIN=BALB/c, and C57BL/6;
+RX   PubMed=6165997; DOI=10.1073/pnas.78.1.554;
+RA   Gates F.T. III, Coligan J.E., Kindt T.J.;
+RT   "Complete amino acid sequence of murine beta 2-microglobulin:
+RT   structural evidence for strain-related polymorphism.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 78:554-558(1981).
+RN   [9]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 31-57 AND 86-119 (ALLELE A).
+RX   PubMed=6166005; DOI=10.1073/pnas.78.4.2253;
+RA   Parnes J.R., Velan B., Felsenfeld A., Ramanathan L., Ferrini U.,
+RA   Appella E., Seidman J.G.;
+RT   "Mouse beta 2-microglobulin cDNA clones: a screening procedure for
+RT   cDNA clones corresponding to rare mRNAs.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 78:2253-2257(1981).
+RN   [10]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-3 (ALLELE A).
+RX   PubMed=3510743; DOI=10.1016/0092-8674(86)90760-9;
+RA   Kimura A., Israel A., le Bail O., Kourilsky P.;
+RT   "Detailed analysis of the mouse H-2Kb promoter: enhancer-like
+RT   sequences and their role in the regulation of class I gene
+RT   expression.";
+RL   Cell 44:261-272(1986).
+RN   [11]
+RP   PROTEIN SEQUENCE OF 21-60 (ALLELE A).
+RX   PubMed=59595; DOI=10.1016/0006-291X(76)91063-9;
+RA   Appella E., Tanigaki N., Natori T., Pressman D.;
+RT   "Partial amino acid sequence of mouse beta2-microglobulin.";
+RL   Biochem. Biophys. Res. Commun. 70:425-430(1976).
+RN   [12]
+RP   X-RAY CRYSTALLOGRAPHY (2.3 ANGSTROMS).
+RX   PubMed=1323877; DOI=10.1126/science.1323877;
+RA   Fremont D.H., Matsumura M., Stura E.A., Peterson P.A., Wilson I.A.;
+RT   "Crystal structures of two viral peptides in complex with murine MHC
+RT   class I H-2Kb.";
+RL   Science 257:919-927(1992).
+RN   [13]
+RP   X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS).
+RX   PubMed=7506996; DOI=10.1016/0092-8674(94)90171-6;
+RA   Young A.C.M., Zhang W., Sacchettini J.C., Nathenson S.G.;
+RT   "The three-dimensional structure of H-2Db at 2.4-A resolution:
+RT   implications for antigen-determinant selection.";
+RL   Cell 76:39-50(1994).
+RN   [14]
+RP   X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS).
+RX   PubMed=9192660; DOI=10.1073/pnas.94.13.6880;
+RA   Balendiran G.K., Solheim J.C., Young A.C., Hansen T.H.,
+RA   Nathenson S.G., Sacchettini J.C.;
+RT   "The three-dimensional structure of an H-2Ld-peptide complex explains
+RT   the unique interaction of Ld with beta-2 microglobulin and peptide.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 94:6880-6885(1997).
+RN   [15]
+RP   X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS).
+RX   PubMed=9729040; DOI=10.1016/S1074-7613(00)80602-0;
+RA   Achour A., Persson K., Harris R.A., Sundbaeck J., Sentman C.L.,
+RA   Lindqvist Y., Schneider G., Kaerre K.;
+RT   "The crystal structure of H-2Dd MHC class I complexed with the HIV-1-
+RT   derived peptide P18-I10 at 2.4-A resolution: implications for T cell
+RT   and NK cell recognition.";
+RL   Immunity 9:199-208(1998).
+CC   -!- FUNCTION: Component of the class I major histocompatibility
+CC       complex (MHC). Involved in the presentation of peptide antigens to
+CC       the immune system.
+CC   -!- SUBUNIT: Heterodimer of an alpha chain and a beta chain. Beta-2-
+CC       microglobulin is the beta-chain of major histocompatibility
+CC       complex class I molecules.
+CC   -!- SUBCELLULAR LOCATION: Secreted.
+CC   -!- POLYMORPHISM: The following alleles of B2M are known: A, B, W2,
+CC       W3, W4 and W5 (C). The sequence shown is that of allele B.
+CC   -!- SIMILARITY: Belongs to the beta-2-microglobulin family.
+CC       {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 Ig-like C1-type (immunoglobulin-like)
+CC       domain. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X01838; CAA25970.1; -; mRNA.
+DR   EMBL; M12485; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; M84363; AAA39667.1; -; Genomic_DNA.
+DR   EMBL; M84364; AAA39668.1; -; Genomic_DNA.
+DR   EMBL; M84365; AAA39669.1; -; Genomic_DNA.
+DR   EMBL; M84366; AAA39670.1; -; Genomic_DNA.
+DR   EMBL; M84367; AAA39671.1; -; Genomic_DNA.
+DR   EMBL; AK019389; BAB31695.1; -; mRNA.
+DR   EMBL; AK028378; BAC25917.1; -; mRNA.
+DR   EMBL; AK166067; BAE38551.1; -; mRNA.
+DR   EMBL; AL845457; CAM21783.1; -; Genomic_DNA.
+DR   EMBL; CH466519; EDL28084.1; -; Genomic_DNA.
+DR   EMBL; BC085164; AAH85164.1; -; mRNA.
+DR   EMBL; M10389; AAA39536.1; -; mRNA.
+DR   EMBL; M10416; AAA39537.1; -; mRNA.
+DR   CCDS; CCDS16654.1; -.
+DR   PIR; A90822; MGMSB2.
+DR   RefSeq; NP_033865.2; NM_009735.3.
+DR   UniGene; Mm.163; -.
+DR   PDB; 1BII; X-ray; 2.40 A; B=1-119.
+DR   PDB; 1BQH; X-ray; 2.80 A; B/E=21-119.
+DR   PDB; 1BZ9; X-ray; 2.80 A; B=21-119.
+DR   PDB; 1CD1; X-ray; 2.67 A; B/D=21-119.
+DR   PDB; 1DDH; X-ray; 3.10 A; B=22-119.
+DR   PDB; 1FFN; X-ray; 2.70 A; B/E=21-119.
+DR   PDB; 1FFO; X-ray; 2.65 A; B/E=21-119.
+DR   PDB; 1FFP; X-ray; 2.60 A; B/E=21-119.
+DR   PDB; 1FG2; X-ray; 2.75 A; B/E/H/K=21-119.
+DR   PDB; 1FO0; X-ray; 2.50 A; L=21-119.
+DR   PDB; 1FZJ; X-ray; 1.90 A; B=21-119.
+DR   PDB; 1FZK; X-ray; 1.70 A; B=21-119.
+DR   PDB; 1FZM; X-ray; 1.80 A; B=21-119.
+DR   PDB; 1FZO; X-ray; 1.80 A; B=21-119.
+DR   PDB; 1G6R; X-ray; 2.80 A; L/M=21-119.
+DR   PDB; 1G7P; X-ray; 1.50 A; B=21-119.
+DR   PDB; 1G7Q; X-ray; 1.60 A; B=21-119.
+DR   PDB; 1HOC; X-ray; 2.40 A; B=21-119.
+DR   PDB; 1INQ; X-ray; 2.20 A; B=21-119.
+DR   PDB; 1JPF; X-ray; 2.18 A; B=21-119.
+DR   PDB; 1JPG; X-ray; 2.20 A; B=21-119.
+DR   PDB; 1JUF; X-ray; 2.00 A; B=21-119.
+DR   PDB; 1K8D; X-ray; 2.30 A; B=21-119.
+DR   PDB; 1KBG; X-ray; 2.20 A; L=21-119.
+DR   PDB; 1KJ2; X-ray; 2.71 A; L/M=21-119.
+DR   PDB; 1KJ3; X-ray; 2.30 A; L/M=21-119.
+DR   PDB; 1KPU; X-ray; 1.50 A; B=21-119.
+DR   PDB; 1KPV; X-ray; 1.71 A; B=21-119.
+DR   PDB; 1L6Q; Model; -; B=21-119.
+DR   PDB; 1LD9; X-ray; 2.40 A; B/E=21-119.
+DR   PDB; 1LDP; X-ray; 3.10 A; L=21-119.
+DR   PDB; 1LEG; X-ray; 1.75 A; B=21-119.
+DR   PDB; 1LEK; X-ray; 2.15 A; B=21-119.
+DR   PDB; 1LK2; X-ray; 1.35 A; B=21-119.
+DR   PDB; 1MHC; X-ray; 2.10 A; B/E=21-119.
+DR   PDB; 1MWA; X-ray; 2.40 A; L/M=21-119.
+DR   PDB; 1N3N; X-ray; 3.00 A; B/D/F/H=21-119.
+DR   PDB; 1N59; X-ray; 2.95 A; B/D=21-119.
+DR   PDB; 1N5A; X-ray; 2.85 A; B/E/H/K=21-119.
+DR   PDB; 1NAM; X-ray; 2.70 A; L=21-119.
+DR   PDB; 1NAN; X-ray; 2.30 A; I/P=21-119.
+DR   PDB; 1NEZ; X-ray; 2.10 A; B=21-119.
+DR   PDB; 1OSZ; X-ray; 2.10 A; B=21-119.
+DR   PDB; 1P1Z; X-ray; 3.26 A; B=21-119.
+DR   PDB; 1P4L; X-ray; 2.90 A; B=21-119.
+DR   PDB; 1PQZ; X-ray; 2.10 A; B=21-119.
+DR   PDB; 1QO3; X-ray; 2.30 A; B=21-119.
+DR   PDB; 1RJY; X-ray; 1.90 A; B/E=21-119.
+DR   PDB; 1RJZ; X-ray; 2.60 A; B/E=21-119.
+DR   PDB; 1RK0; X-ray; 2.61 A; B=21-119.
+DR   PDB; 1RK1; X-ray; 2.10 A; B=21-119.
+DR   PDB; 1S7Q; X-ray; 1.99 A; B=21-119.
+DR   PDB; 1S7R; X-ray; 2.95 A; B/E=21-119.
+DR   PDB; 1S7S; X-ray; 1.99 A; B=21-119.
+DR   PDB; 1S7T; X-ray; 2.30 A; B/E=21-119.
+DR   PDB; 1S7U; X-ray; 2.20 A; B/E/H/K=21-119.
+DR   PDB; 1S7V; X-ray; 2.20 A; B/E=21-119.
+DR   PDB; 1S7W; X-ray; 2.40 A; B/E/H/K=21-119.
+DR   PDB; 1S7X; X-ray; 2.41 A; B/E/H/K=21-119.
+DR   PDB; 1T0M; X-ray; 2.00 A; B/E=21-119.
+DR   PDB; 1T0N; X-ray; 1.80 A; B/E=21-119.
+DR   PDB; 1U58; X-ray; 1.90 A; B=21-119.
+DR   PDB; 1VAC; X-ray; 2.50 A; B=21-119.
+DR   PDB; 1VAD; X-ray; 2.50 A; B=21-119.
+DR   PDB; 1WBX; X-ray; 1.90 A; B=21-119.
+DR   PDB; 1WBY; X-ray; 2.30 A; B=21-119.
+DR   PDB; 1WBZ; X-ray; 2.00 A; B/D=21-119.
+DR   PDB; 1YN6; X-ray; 2.20 A; B=21-119.
+DR   PDB; 1YN7; X-ray; 2.20 A; B=21-119.
+DR   PDB; 1Z5L; X-ray; 2.20 A; B/D=21-119.
+DR   PDB; 1ZHB; X-ray; 2.70 A; B/E/H/K=21-119.
+DR   PDB; 1ZHN; X-ray; 2.80 A; B=21-119.
+DR   PDB; 1ZT1; X-ray; 2.50 A; B=21-119.
+DR   PDB; 1ZT7; X-ray; 3.00 A; B/D=21-119.
+DR   PDB; 2AKR; X-ray; 1.90 A; B/D=21-119.
+DR   PDB; 2CKB; X-ray; 3.00 A; L/M=21-119.
+DR   PDB; 2CLV; X-ray; 1.90 A; B/P=21-119.
+DR   PDB; 2CLZ; X-ray; 1.90 A; B/P=21-119.
+DR   PDB; 2FIK; X-ray; 1.80 A; B=21-119.
+DR   PDB; 2FO4; X-ray; 2.70 A; B=21-119.
+DR   PDB; 2FWO; X-ray; 2.60 A; B=21-119.
+DR   PDB; 2GAZ; X-ray; 2.61 A; B=21-119.
+DR   PDB; 2MHA; X-ray; 2.50 A; B/D=21-119.
+DR   PDB; 2OL3; X-ray; 2.90 A; L=21-119.
+DR   PDB; 2Q7Y; X-ray; 1.95 A; B/D=21-119.
+DR   PDB; 2QRI; X-ray; 2.00 A; A/B=21-119.
+DR   PDB; 2QRS; X-ray; 2.00 A; A/B=21-119.
+DR   PDB; 2QRT; X-ray; 1.80 A; A/B=21-119.
+DR   PDB; 2VAA; X-ray; 2.30 A; B=21-119.
+DR   PDB; 2VAB; X-ray; 2.50 A; B=21-119.
+DR   PDB; 2VE6; X-ray; 2.65 A; B/E/H/K=22-119.
+DR   PDB; 2ZOK; X-ray; 2.10 A; B/D/F/H=21-119.
+DR   PDB; 2ZOL; X-ray; 2.70 A; B/D=21-119.
+DR   PDB; 2ZSV; X-ray; 1.80 A; B/D=21-119.
+DR   PDB; 2ZSW; X-ray; 2.80 A; B/D/F/H=21-119.
+DR   PDB; 3ARB; X-ray; 2.70 A; B=21-119.
+DR   PDB; 3ARD; X-ray; 3.01 A; B=21-119.
+DR   PDB; 3ARE; X-ray; 2.80 A; B=21-119.
+DR   PDB; 3ARF; X-ray; 2.90 A; B=21-119.
+DR   PDB; 3ARG; X-ray; 3.00 A; B=21-119.
+DR   PDB; 3AU1; X-ray; 2.50 A; B=21-119.
+DR   PDB; 3BUY; X-ray; 2.60 A; B=21-119.
+DR   PDB; 3C8K; X-ray; 2.90 A; B=21-119.
+DR   PDB; 3CC5; X-ray; 1.91 A; B/E=21-119.
+DR   PDB; 3CCH; X-ray; 2.60 A; B/E/H/K=21-119.
+DR   PDB; 3CH1; X-ray; 2.30 A; B/E/H/K=21-119.
+DR   PDB; 3CPL; X-ray; 2.50 A; B/D=21-119.
+DR   PDB; 3CVH; X-ray; 2.90 A; B/N=21-119.
+DR   PDB; 3DMM; X-ray; 2.60 A; B=21-119.
+DR   PDB; 3E6F; X-ray; 2.41 A; B=22-119.
+DR   PDB; 3E6H; X-ray; 2.10 A; B=21-119.
+DR   PDB; 3ECB; X-ray; 1.70 A; B=21-119.
+DR   PDB; 3FOL; X-ray; 2.50 A; B=21-119.
+DR   PDB; 3FOM; X-ray; 2.10 A; B=21-119.
+DR   PDB; 3FON; X-ray; 2.03 A; B/D=21-119.
+DR   PDB; 3FTG; X-ray; 2.60 A; B=21-119.
+DR   PDB; 3G08; X-ray; 1.60 A; B=21-119.
+DR   PDB; 3GML; X-ray; 1.70 A; B=21-119.
+DR   PDB; 3GMM; X-ray; 1.80 A; B=21-119.
+DR   PDB; 3GMN; X-ray; 1.70 A; B=21-119.
+DR   PDB; 3GMO; X-ray; 1.60 A; B=21-119.
+DR   PDB; 3GMP; X-ray; 1.70 A; B=21-119.
+DR   PDB; 3GMQ; X-ray; 1.80 A; B=21-119.
+DR   PDB; 3GMR; X-ray; 1.90 A; B=21-119.
+DR   PDB; 3HE6; X-ray; 2.90 A; B=21-119.
+DR   PDB; 3HE7; X-ray; 2.80 A; B=21-119.
+DR   PDB; 3ILP; X-ray; 1.85 A; B=21-119.
+DR   PDB; 3ILQ; X-ray; 2.05 A; D=21-119.
+DR   PDB; 3L3H; X-ray; 2.70 A; B=21-119.
+DR   PDB; 3MA7; X-ray; 2.29 A; B/D=21-119.
+DR   PDB; 3NWM; X-ray; 2.70 A; A=21-119.
+DR   PDB; 3O8X; X-ray; 2.74 A; B=21-119.
+DR   PDB; 3O9W; X-ray; 2.80 A; B=21-119.
+DR   PDB; 3P4M; X-ray; 2.50 A; B/E=21-119.
+DR   PDB; 3P4N; X-ray; 2.50 A; B/E=21-119.
+DR   PDB; 3P4O; X-ray; 2.30 A; B/E=21-119.
+DR   PDB; 3P9L; X-ray; 2.00 A; B/E=21-119.
+DR   PDB; 3P9M; X-ray; 2.00 A; B/E=21-119.
+DR   PDB; 3PAB; X-ray; 2.20 A; B/E=21-119.
+DR   PDB; 3PQY; X-ray; 3.19 A; B/G/L/Q=21-119.
+DR   PDB; 3PWU; X-ray; 1.90 A; B=21-119.
+DR   PDB; 3QI9; X-ray; 2.30 A; B=21-119.
+DR   PDB; 3QUK; X-ray; 2.41 A; B/E=21-119.
+DR   PDB; 3QUL; X-ray; 2.00 A; B/E/H/K=21-119.
+DR   PDB; 3QUX; X-ray; 2.91 A; B=21-119.
+DR   PDB; 3QUY; X-ray; 2.25 A; B=21-119.
+DR   PDB; 3QUZ; X-ray; 2.30 A; B=21-119.
+DR   PDB; 3RGV; X-ray; 2.90 A; D=21-119.
+DR   PDB; 3ROL; X-ray; 2.60 A; B/D=21-119.
+DR   PDB; 3ROO; X-ray; 2.00 A; B/D=21-119.
+DR   PDB; 3RTQ; X-ray; 2.80 A; B=21-119.
+DR   PDB; 3RUG; X-ray; 2.20 A; B/D=21-119.
+DR   PDB; 3RZC; X-ray; 2.80 A; B=21-119.
+DR   PDB; 3SCM; X-ray; 2.50 A; B=21-119.
+DR   PDB; 3SDA; X-ray; 2.80 A; B=21-119.
+DR   PDB; 3SDC; X-ray; 3.10 A; B=21-119.
+DR   PDB; 3SDD; X-ray; 3.00 A; B=21-119.
+DR   PDB; 3T1F; X-ray; 1.70 A; B=21-119.
+DR   PDB; 3TA3; X-ray; 2.70 A; B=21-119.
+DR   PDB; 3TBS; X-ray; 2.49 A; B/E=21-119.
+DR   PDB; 3TBT; X-ray; 2.30 A; B/E/H/K=21-119.
+DR   PDB; 3TBV; X-ray; 2.10 A; B/D/F/H=21-119.
+DR   PDB; 3TBW; X-ray; 2.15 A; B/D/F/H=21-119.
+DR   PDB; 3TBY; X-ray; 2.50 A; B/E/H/K=21-119.
+DR   PDB; 3TN0; X-ray; 3.20 A; B=21-119.
+DR   PDB; 3TO4; X-ray; 3.10 A; B=21-119.
+DR   PDB; 3TVM; X-ray; 2.80 A; B/F=21-119.
+DR   PDB; 3UBX; X-ray; 3.10 A; B/E=21-119.
+DR   PDB; 3VJ6; X-ray; 1.90 A; B=21-119.
+DR   PDB; 3WS3; X-ray; 2.34 A; B/D=21-119.
+DR   PDB; 3WS6; X-ray; 1.98 A; C/D=21-119.
+DR   PDB; 4APQ; X-ray; 3.00 A; B=21-119.
+DR   PDB; 4EI5; X-ray; 3.10 A; B/F=21-119.
+DR   PDB; 4ELM; X-ray; 3.48 A; B/D=21-119.
+DR   PDB; 4HS3; X-ray; 2.10 A; B=21-119.
+DR   PDB; 4HUU; X-ray; 2.00 A; B/E=21-119.
+DR   PDB; 4HUV; X-ray; 2.50 A; B/E=21-119.
+DR   PDB; 4HUW; X-ray; 3.16 A; B/D/F/H=21-119.
+DR   PDB; 4HUX; X-ray; 2.20 A; B=21-119.
+DR   PDB; 4HV8; X-ray; 2.00 A; B/D=21-119.
+DR   PDB; 4IHO; X-ray; 2.80 A; B/E=21-119.
+DR   PDB; 4IRJ; X-ray; 3.00 A; B=21-119.
+DR   PDB; 4IRS; X-ray; 2.80 A; B=21-119.
+DR   PDB; 4L8B; X-ray; 2.20 A; B=21-119.
+DR   PDB; 4L8C; X-ray; 2.80 A; B/D/F/H=21-119.
+DR   PDB; 4L8D; X-ray; 1.90 A; B/D=21-119.
+DR   PDB; 4MNG; X-ray; 3.01 A; B/D=21-119.
+DR   PDB; 4MQ7; X-ray; 2.60 A; B=21-119.
+DR   PDB; 4MX7; X-ray; 2.24 A; B=21-119.
+DR   PDB; 4NSK; X-ray; 2.60 A; B=21-119.
+DR   PDB; 4PG2; X-ray; 2.80 A; C=21-119.
+DR   PDB; 4PG9; X-ray; 2.40 A; B=21-119.
+DR   PDB; 4PGB; X-ray; 2.80 A; B/E=21-119.
+DR   PDB; 4PGC; X-ray; 2.30 A; B/E=21-119.
+DR   PDB; 4PGD; X-ray; 2.70 A; B=21-119.
+DR   PDB; 4PGE; X-ray; 2.00 A; B=21-119.
+DR   PDB; 4PV8; X-ray; 2.31 A; B/D=21-119.
+DR   PDB; 4PV9; X-ray; 2.00 A; B/D=21-119.
+DR   PDB; 4Y16; X-ray; 2.60 A; B=21-119.
+DR   PDB; 4Y2D; X-ray; 3.05 A; B/F=21-119.
+DR   PDB; 4Y4F; X-ray; 3.19 A; B/F=21-119.
+DR   PDB; 4Y4H; X-ray; 3.10 A; B/F=21-119.
+DR   PDB; 4Y4K; X-ray; 2.90 A; B=21-119.
+DR   PDBsum; 1BII; -.
+DR   PDBsum; 1BQH; -.
+DR   PDBsum; 1BZ9; -.
+DR   PDBsum; 1CD1; -.
+DR   PDBsum; 1DDH; -.
+DR   PDBsum; 1FFN; -.
+DR   PDBsum; 1FFO; -.
+DR   PDBsum; 1FFP; -.
+DR   PDBsum; 1FG2; -.
+DR   PDBsum; 1FO0; -.
+DR   PDBsum; 1FZJ; -.
+DR   PDBsum; 1FZK; -.
+DR   PDBsum; 1FZM; -.
+DR   PDBsum; 1FZO; -.
+DR   PDBsum; 1G6R; -.
+DR   PDBsum; 1G7P; -.
+DR   PDBsum; 1G7Q; -.
+DR   PDBsum; 1HOC; -.
+DR   PDBsum; 1INQ; -.
+DR   PDBsum; 1JPF; -.
+DR   PDBsum; 1JPG; -.
+DR   PDBsum; 1JUF; -.
+DR   PDBsum; 1K8D; -.
+DR   PDBsum; 1KBG; -.
+DR   PDBsum; 1KJ2; -.
+DR   PDBsum; 1KJ3; -.
+DR   PDBsum; 1KPU; -.
+DR   PDBsum; 1KPV; -.
+DR   PDBsum; 1L6Q; -.
+DR   PDBsum; 1LD9; -.
+DR   PDBsum; 1LDP; -.
+DR   PDBsum; 1LEG; -.
+DR   PDBsum; 1LEK; -.
+DR   PDBsum; 1LK2; -.
+DR   PDBsum; 1MHC; -.
+DR   PDBsum; 1MWA; -.
+DR   PDBsum; 1N3N; -.
+DR   PDBsum; 1N59; -.
+DR   PDBsum; 1N5A; -.
+DR   PDBsum; 1NAM; -.
+DR   PDBsum; 1NAN; -.
+DR   PDBsum; 1NEZ; -.
+DR   PDBsum; 1OSZ; -.
+DR   PDBsum; 1P1Z; -.
+DR   PDBsum; 1P4L; -.
+DR   PDBsum; 1PQZ; -.
+DR   PDBsum; 1QO3; -.
+DR   PDBsum; 1RJY; -.
+DR   PDBsum; 1RJZ; -.
+DR   PDBsum; 1RK0; -.
+DR   PDBsum; 1RK1; -.
+DR   PDBsum; 1S7Q; -.
+DR   PDBsum; 1S7R; -.
+DR   PDBsum; 1S7S; -.
+DR   PDBsum; 1S7T; -.
+DR   PDBsum; 1S7U; -.
+DR   PDBsum; 1S7V; -.
+DR   PDBsum; 1S7W; -.
+DR   PDBsum; 1S7X; -.
+DR   PDBsum; 1T0M; -.
+DR   PDBsum; 1T0N; -.
+DR   PDBsum; 1U58; -.
+DR   PDBsum; 1VAC; -.
+DR   PDBsum; 1VAD; -.
+DR   PDBsum; 1WBX; -.
+DR   PDBsum; 1WBY; -.
+DR   PDBsum; 1WBZ; -.
+DR   PDBsum; 1YN6; -.
+DR   PDBsum; 1YN7; -.
+DR   PDBsum; 1Z5L; -.
+DR   PDBsum; 1ZHB; -.
+DR   PDBsum; 1ZHN; -.
+DR   PDBsum; 1ZT1; -.
+DR   PDBsum; 1ZT7; -.
+DR   PDBsum; 2AKR; -.
+DR   PDBsum; 2CKB; -.
+DR   PDBsum; 2CLV; -.
+DR   PDBsum; 2CLZ; -.
+DR   PDBsum; 2FIK; -.
+DR   PDBsum; 2FO4; -.
+DR   PDBsum; 2FWO; -.
+DR   PDBsum; 2GAZ; -.
+DR   PDBsum; 2MHA; -.
+DR   PDBsum; 2OL3; -.
+DR   PDBsum; 2Q7Y; -.
+DR   PDBsum; 2QRI; -.
+DR   PDBsum; 2QRS; -.
+DR   PDBsum; 2QRT; -.
+DR   PDBsum; 2VAA; -.
+DR   PDBsum; 2VAB; -.
+DR   PDBsum; 2VE6; -.
+DR   PDBsum; 2ZOK; -.
+DR   PDBsum; 2ZOL; -.
+DR   PDBsum; 2ZSV; -.
+DR   PDBsum; 2ZSW; -.
+DR   PDBsum; 3ARB; -.
+DR   PDBsum; 3ARD; -.
+DR   PDBsum; 3ARE; -.
+DR   PDBsum; 3ARF; -.
+DR   PDBsum; 3ARG; -.
+DR   PDBsum; 3AU1; -.
+DR   PDBsum; 3BUY; -.
+DR   PDBsum; 3C8K; -.
+DR   PDBsum; 3CC5; -.
+DR   PDBsum; 3CCH; -.
+DR   PDBsum; 3CH1; -.
+DR   PDBsum; 3CPL; -.
+DR   PDBsum; 3CVH; -.
+DR   PDBsum; 3DMM; -.
+DR   PDBsum; 3E6F; -.
+DR   PDBsum; 3E6H; -.
+DR   PDBsum; 3ECB; -.
+DR   PDBsum; 3FOL; -.
+DR   PDBsum; 3FOM; -.
+DR   PDBsum; 3FON; -.
+DR   PDBsum; 3FTG; -.
+DR   PDBsum; 3G08; -.
+DR   PDBsum; 3GML; -.
+DR   PDBsum; 3GMM; -.
+DR   PDBsum; 3GMN; -.
+DR   PDBsum; 3GMO; -.
+DR   PDBsum; 3GMP; -.
+DR   PDBsum; 3GMQ; -.
+DR   PDBsum; 3GMR; -.
+DR   PDBsum; 3HE6; -.
+DR   PDBsum; 3HE7; -.
+DR   PDBsum; 3ILP; -.
+DR   PDBsum; 3ILQ; -.
+DR   PDBsum; 3L3H; -.
+DR   PDBsum; 3MA7; -.
+DR   PDBsum; 3NWM; -.
+DR   PDBsum; 3O8X; -.
+DR   PDBsum; 3O9W; -.
+DR   PDBsum; 3P4M; -.
+DR   PDBsum; 3P4N; -.
+DR   PDBsum; 3P4O; -.
+DR   PDBsum; 3P9L; -.
+DR   PDBsum; 3P9M; -.
+DR   PDBsum; 3PAB; -.
+DR   PDBsum; 3PQY; -.
+DR   PDBsum; 3PWU; -.
+DR   PDBsum; 3QI9; -.
+DR   PDBsum; 3QUK; -.
+DR   PDBsum; 3QUL; -.
+DR   PDBsum; 3QUX; -.
+DR   PDBsum; 3QUY; -.
+DR   PDBsum; 3QUZ; -.
+DR   PDBsum; 3RGV; -.
+DR   PDBsum; 3ROL; -.
+DR   PDBsum; 3ROO; -.
+DR   PDBsum; 3RTQ; -.
+DR   PDBsum; 3RUG; -.
+DR   PDBsum; 3RZC; -.
+DR   PDBsum; 3SCM; -.
+DR   PDBsum; 3SDA; -.
+DR   PDBsum; 3SDC; -.
+DR   PDBsum; 3SDD; -.
+DR   PDBsum; 3T1F; -.
+DR   PDBsum; 3TA3; -.
+DR   PDBsum; 3TBS; -.
+DR   PDBsum; 3TBT; -.
+DR   PDBsum; 3TBV; -.
+DR   PDBsum; 3TBW; -.
+DR   PDBsum; 3TBY; -.
+DR   PDBsum; 3TN0; -.
+DR   PDBsum; 3TO4; -.
+DR   PDBsum; 3TVM; -.
+DR   PDBsum; 3UBX; -.
+DR   PDBsum; 3VJ6; -.
+DR   PDBsum; 3WS3; -.
+DR   PDBsum; 3WS6; -.
+DR   PDBsum; 4APQ; -.
+DR   PDBsum; 4EI5; -.
+DR   PDBsum; 4ELM; -.
+DR   PDBsum; 4HS3; -.
+DR   PDBsum; 4HUU; -.
+DR   PDBsum; 4HUV; -.
+DR   PDBsum; 4HUW; -.
+DR   PDBsum; 4HUX; -.
+DR   PDBsum; 4HV8; -.
+DR   PDBsum; 4IHO; -.
+DR   PDBsum; 4IRJ; -.
+DR   PDBsum; 4IRS; -.
+DR   PDBsum; 4L8B; -.
+DR   PDBsum; 4L8C; -.
+DR   PDBsum; 4L8D; -.
+DR   PDBsum; 4MNG; -.
+DR   PDBsum; 4MQ7; -.
+DR   PDBsum; 4MX7; -.
+DR   PDBsum; 4NSK; -.
+DR   PDBsum; 4PG2; -.
+DR   PDBsum; 4PG9; -.
+DR   PDBsum; 4PGB; -.
+DR   PDBsum; 4PGC; -.
+DR   PDBsum; 4PGD; -.
+DR   PDBsum; 4PGE; -.
+DR   PDBsum; 4PV8; -.
+DR   PDBsum; 4PV9; -.
+DR   PDBsum; 4Y16; -.
+DR   PDBsum; 4Y2D; -.
+DR   PDBsum; 4Y4F; -.
+DR   PDBsum; 4Y4H; -.
+DR   PDBsum; 4Y4K; -.
+DR   ProteinModelPortal; P01887; -.
+DR   SMR; P01887; 21-119.
+DR   BioGrid; 198291; 2.
+DR   DIP; DIP-6111N; -.
+DR   IntAct; P01887; 5.
+DR   MINT; MINT-1870185; -.
+DR   STRING; 10090.ENSMUSP00000099534; -.
+DR   PhosphoSite; P01887; -.
+DR   SWISS-2DPAGE; P01887; -.
+DR   PaxDb; P01887; -.
+DR   PRIDE; P01887; -.
+DR   Ensembl; ENSMUST00000102476; ENSMUSP00000099534; ENSMUSG00000060802.
+DR   GeneID; 12010; -.
+DR   KEGG; mmu:12010; -.
+DR   UCSC; uc008maf.1; mouse.
+DR   CTD; 567; -.
+DR   MGI; MGI:88127; B2m.
+DR   eggNOG; NOG40777; -.
+DR   GeneTree; ENSGT00690000102227; -.
+DR   HOGENOM; HOG000043084; -.
+DR   HOVERGEN; HBG006197; -.
+DR   InParanoid; P01887; -.
+DR   KO; K08055; -.
+DR   OMA; PNFLNCY; -.
+DR   OrthoDB; EOG7RFTKJ; -.
+DR   TreeFam; TF334167; -.
+DR   Reactome; REACT_300990; Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell.
+DR   Reactome; REACT_301936; DAP12 signaling.
+DR   Reactome; REACT_308964; ER-Phagosome pathway.
+DR   Reactome; REACT_320278; DAP12 interactions.
+DR   Reactome; REACT_339401; Antigen Presentation: Folding, assembly and peptide loading of class I MHC.
+DR   Reactome; REACT_341075; ER-Phagosome pathway.
+DR   Reactome; REACT_342269; Endosomal/Vacuolar pathway.
+DR   Reactome; REACT_349056; Interferon gamma signaling.
+DR   EvolutionaryTrace; P01887; -.
+DR   NextBio; 280211; -.
+DR   PMAP-CutDB; P01887; -.
+DR   PRO; PR:P01887; -.
+DR   Proteomes; UP000000589; Chromosome 2.
+DR   CleanEx; MM_B2M; -.
+DR   GO; GO:0005737; C:cytoplasm; ISO:MGI.
+DR   GO; GO:0009897; C:external side of plasma membrane; IDA:MGI.
+DR   GO; GO:0070062; C:extracellular exosome; ISO:MGI.
+DR   GO; GO:0005615; C:extracellular space; ISO:MGI.
+DR   GO; GO:0005925; C:focal adhesion; ISO:MGI.
+DR   GO; GO:0005794; C:Golgi apparatus; ISO:MGI.
+DR   GO; GO:0016020; C:membrane; ISO:MGI.
+DR   GO; GO:0042612; C:MHC class I protein complex; IEA:UniProtKB-KW.
+DR   GO; GO:0030670; C:phagocytic vesicle membrane; TAS:Reactome.
+DR   GO; GO:0005886; C:plasma membrane; ISO:MGI.
+DR   GO; GO:0001948; F:glycoprotein binding; ISO:MGI.
+DR   GO; GO:0042802; F:identical protein binding; ISO:MGI.
+DR   GO; GO:0002481; P:antigen processing and presentation of exogenous protein antigen via MHC class Ib, TAP-dependent; IMP:MGI.
+DR   GO; GO:0002474; P:antigen processing and presentation of peptide antigen via MHC class I; IEA:UniProtKB-KW.
+DR   GO; GO:0006968; P:cellular defense response; TAS:MGI.
+DR   GO; GO:0055072; P:iron ion homeostasis; IMP:MGI.
+DR   GO; GO:1900121; P:negative regulation of receptor binding; ISO:MGI.
+DR   GO; GO:0001916; P:positive regulation of T cell mediated cytotoxicity; IMP:MGI.
+DR   GO; GO:0042026; P:protein refolding; IDA:MGI.
+DR   GO; GO:0046686; P:response to cadmium ion; IEA:Ensembl.
+DR   GO; GO:0042493; P:response to drug; IEA:Ensembl.
+DR   GO; GO:0002237; P:response to molecule of bacterial origin; IMP:MGI.
+DR   GO; GO:0001895; P:retina homeostasis; IEA:Ensembl.
+DR   GO; GO:0033077; P:T cell differentiation in thymus; IGI:MGI.
+DR   Gene3D; 2.60.40.10; -; 1.
+DR   InterPro; IPR007110; Ig-like_dom.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   InterPro; IPR003006; Ig/MHC_CS.
+DR   InterPro; IPR003597; Ig_C1-set.
+DR   Pfam; PF07654; C1-set; 1.
+DR   SMART; SM00407; IGc1; 1.
+DR   PROSITE; PS50835; IG_LIKE; 1.
+DR   PROSITE; PS00290; IG_MHC; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Direct protein sequencing;
+KW   Disulfide bond; Immunity; Immunoglobulin domain; MHC I; Polymorphism;
+KW   Reference proteome; Secreted; Signal.
+FT   SIGNAL        1     20       {ECO:0000269|PubMed:59595,
+FT                                ECO:0000269|PubMed:6165997}.
+FT   CHAIN        21    119       Beta-2-microglobulin.
+FT                                /FTId=PRO_0000018784.
+FT   DOMAIN       25    114       Ig-like C1-type.
+FT   DISULFID     45    100
+FT   VARIANT       8      8       V -> I (in allele W3).
+FT   VARIANT      54     54       H -> Q (in allele W4).
+FT   VARIANT      64     64       K -> E (in allele W3).
+FT   VARIANT     101    101       R -> T (in allele W2).
+FT   VARIANT     105    105       A -> D (in allele A).
+FT   VARIANT     105    105       A -> V (in allele W2, W4 and W5).
+FT   STRAND       26     33       {ECO:0000244|PDB:1LK2}.
+FT   STRAND       37     39       {ECO:0000244|PDB:1BII}.
+FT   STRAND       41     53       {ECO:0000244|PDB:1LK2}.
+FT   STRAND       56     61       {ECO:0000244|PDB:1LK2}.
+FT   STRAND       70     76       {ECO:0000244|PDB:1LK2}.
+FT   TURN         78     80       {ECO:0000244|PDB:2MHA}.
+FT   STRAND       82     90       {ECO:0000244|PDB:1LK2}.
+FT   STRAND       94     96       {ECO:0000244|PDB:1S7V}.
+FT   STRAND       98    103       {ECO:0000244|PDB:1LK2}.
+FT   STRAND      107    109       {ECO:0000244|PDB:1LK2}.
+FT   STRAND      111    114       {ECO:0000244|PDB:1LK2}.
+SQ   SEQUENCE   119 AA;  13779 MW;  94F649EBCF1D7A4E CRC64;
+     MARSVTLVFL VLVSLTGLYA IQKTPQIQVY SRHPPENGKP NILNCYVTQF HPPHIEIQML
+     KNGKKIPKVE MSDMSFSKDW SFYILAHTEF TPTETDTYAC RVKHASMAEP KTVYWDRDM
+//

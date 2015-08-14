@@ -1,0 +1,94 @@
+ID   Q53W91_THET8            Unreviewed;       254 AA.
+AC   Q53W91;
+DT   24-MAY-2005, integrated into UniProtKB/TrEMBL.
+DT   24-MAY-2005, sequence version 1.
+DT   24-JUN-2015, entry version 52.
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:BAD71867.1};
+GN   OrderedLocusNames=TTHB071 {ECO:0000313|EMBL:BAD71867.1};
+OS   Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579).
+OG   Plasmid pTT27 {ECO:0000313|EMBL:BAD71867.1,
+OG   ECO:0000313|Proteomes:UP000000532}.
+OC   Bacteria; Deinococcus-Thermus; Deinococci; Thermales; Thermaceae;
+OC   Thermus.
+OX   NCBI_TaxID=300852 {ECO:0000313|EMBL:BAD71867.1, ECO:0000313|Proteomes:UP000000532};
+RN   [1] {ECO:0000313|EMBL:BAD71867.1, ECO:0000313|Proteomes:UP000000532}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=HB8 / ATCC 27634 / DSM 579 {ECO:0000313|Proteomes:UP000000532};
+RA   Masui R., Kurokawa K., Nakagawa N., Tokunaga F., Koyama Y.,
+RA   Shibata T., Oshima T., Yokoyama S., Yasunaga T., Kuramitsu S.;
+RT   "Complete genome sequence of Thermus thermophilus HB8.";
+RL   Submitted (NOV-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:3AYT, ECO:0000213|PDB:3AYV}
+RP   X-RAY CRYSTALLOGRAPHY (1.85 ANGSTROMS) IN COMPLEX WITH ZINC.
+RX   PubMed=21984829; DOI=10.1074/jbc.M111.293886;
+RA   Nakane S., Wakamatsu T., Masui R., Kuramitsu S., Fukui K.;
+RT   "In vivo, in vitro, and x-ray crystallographic analyses suggest the
+RT   involvement of an uncharacterized triose-phosphate isomerase (TIM)
+RT   barrel protein in protection against oxidative stress.";
+RL   J. Biol. Chem. 286:41636-41646(2011).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AP008227; BAD71867.1; -; Genomic_DNA.
+DR   RefSeq; WP_011229219.1; NC_006462.1.
+DR   RefSeq; YP_145310.1; NC_006462.1.
+DR   PDB; 3AYT; X-ray; 1.95 A; A/B/C/D=1-254.
+DR   PDB; 3AYV; X-ray; 1.85 A; A/B/C/D=1-254.
+DR   PDBsum; 3AYT; -.
+DR   PDBsum; 3AYV; -.
+DR   ProteinModelPortal; Q53W91; -.
+DR   EnsemblBacteria; BAD71867; BAD71867; BAD71867.
+DR   GeneID; 3169279; -.
+DR   KEGG; ttj:TTHB071; -.
+DR   PATRIC; 23959068; VBITheThe93045_2015.
+DR   eggNOG; NOG87239; -.
+DR   HOGENOM; HOG000136830; -.
+DR   OMA; LENSHEP; -.
+DR   OrthoDB; EOG6716KH; -.
+DR   BioCyc; TTHE300852:GH8R-2094-MONOMER; -.
+DR   Proteomes; UP000000532; Plasmid pTT27.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.20.20.150; -; 1.
+DR   InterPro; IPR013022; Xyl_isomerase-like_TIM-brl.
+DR   Pfam; PF01261; AP_endonuc_2; 1.
+DR   SUPFAM; SSF51658; SSF51658; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3AYT, ECO:0000213|PDB:3AYV};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000532};
+KW   Metal-binding {ECO:0000213|PDB:3AYT, ECO:0000213|PDB:3AYV};
+KW   Plasmid {ECO:0000313|EMBL:BAD71867.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000532};
+KW   Zinc {ECO:0000213|PDB:3AYT, ECO:0000213|PDB:3AYV}.
+FT   METAL        55     55       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3AYT,
+FT                                ECO:0000213|PDB:3AYV}.
+FT   METAL        96     96       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3AYT,
+FT                                ECO:0000213|PDB:3AYV}.
+FT   METAL       136    136       Zinc 1. {ECO:0000213|PDB:3AYT,
+FT                                ECO:0000213|PDB:3AYV}.
+FT   METAL       136    136       Zinc 2. {ECO:0000213|PDB:3AYT,
+FT                                ECO:0000213|PDB:3AYV}.
+FT   METAL       162    162       Zinc 2. {ECO:0000213|PDB:3AYT,
+FT                                ECO:0000213|PDB:3AYV}.
+FT   METAL       165    165       Zinc 3; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3AYT,
+FT                                ECO:0000213|PDB:3AYV}.
+FT   METAL       187    187       Zinc 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3AYT,
+FT                                ECO:0000213|PDB:3AYV}.
+FT   METAL       196    196       Zinc 3. {ECO:0000213|PDB:3AYT,
+FT                                ECO:0000213|PDB:3AYV}.
+FT   METAL       198    198       Zinc 3; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3AYT,
+FT                                ECO:0000213|PDB:3AYV}.
+FT   METAL       223    223       Zinc 2. {ECO:0000213|PDB:3AYT,
+FT                                ECO:0000213|PDB:3AYV}.
+SQ   SEQUENCE   254 AA;  28254 MW;  3EEA90F1177E4DAC CRC64;
+     MDVRLAFPLS RAEEALPRLQ ALGLGAEVYL DPALLEEDAL FQSLRRRFSG KLSVHLPFWN
+     LDLLSPDPEV RGLTLRRLLF GLDRAAELGA DRAVFHSGIP HGRTPEEALE RALPLAEALG
+     LVVRRARTLG VRLLLENSHE PHPEALRPVL EAHAGELGFC FDAAHARVFS RTPDPGPWLA
+     LAPEHLHLND TDGVYDRHWN LGRGVLGHGA WLRPYLDRTM VLEVREDPEA SLAFLQALAG
+     EGRTALDRLL MGER
+//

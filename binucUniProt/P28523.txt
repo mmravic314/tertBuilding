@@ -1,0 +1,213 @@
+ID   CSK2A_MAIZE             Reviewed;         332 AA.
+AC   P28523;
+DT   01-DEC-1992, integrated into UniProtKB/Swiss-Prot.
+DT   01-DEC-1992, sequence version 1.
+DT   22-JUL-2015, entry version 113.
+DE   RecName: Full=Casein kinase II subunit alpha;
+DE            EC=2.7.11.1;
+DE   AltName: Full=CK II;
+DE   AltName: Full=CK2-alpha;
+GN   Name=ACK2;
+OS   Zea mays (Maize).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae;
+OC   PACMAD clade; Panicoideae; Andropogoneae; Zea.
+OX   NCBI_TaxID=4577;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=cv. B73 Inbred;
+RX   PubMed=1756176; DOI=10.1016/0167-4781(91)90230-J;
+RA   Dobrowolska G., Boldyreff B., Issinger O.-G.;
+RT   "Cloning and sequencing of the casein kinase 2 alpha subunit from Zea
+RT   mays.";
+RL   Biochim. Biophys. Acta 1129:139-140(1991).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS).
+RX   PubMed=9564028; DOI=10.1093/emboj/17.9.2451;
+RA   Niefind K., Guerra B., Pinna L.A., Issinger O.G., Schomburg D.;
+RT   "Crystal structure of the catalytic subunit of protein kinase CK2 from
+RT   Zea mays at 2.1-A resolution.";
+RL   EMBO J. 17:2451-2462(1998).
+CC   -!- FUNCTION: Casein kinases are operationally defined by their
+CC       preferential utilization of acidic proteins such as caseins as
+CC       substrates. The alpha chain contains the catalytic site.
+CC   -!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+CC   -!- SUBUNIT: Tetramer of two alpha and two beta chains (possible).
+CC   -!- SIMILARITY: Belongs to the protein kinase superfamily. Ser/Thr
+CC       protein kinase family. CK2 subfamily. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00159}.
+CC   -!- SIMILARITY: Contains 1 protein kinase domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00159}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X61387; CAA43659.1; -; mRNA.
+DR   PIR; S19726; S19726.
+DR   RefSeq; XP_008668648.1; XM_008670426.1.
+DR   UniGene; Zm.569; -.
+DR   PDB; 1DAW; X-ray; 2.20 A; A=2-328.
+DR   PDB; 1DAY; X-ray; 2.20 A; A=2-328.
+DR   PDB; 1DS5; X-ray; 3.16 A; A/B/C/D=1-332.
+DR   PDB; 1F0Q; X-ray; 2.63 A; A=1-332.
+DR   PDB; 1J91; X-ray; 2.22 A; A/B=1-332.
+DR   PDB; 1JAM; X-ray; 2.18 A; A=1-332.
+DR   PDB; 1LP4; X-ray; 1.86 A; A=1-332.
+DR   PDB; 1LPU; X-ray; 1.86 A; A=1-332.
+DR   PDB; 1LR4; X-ray; 2.00 A; A=1-332.
+DR   PDB; 1M2P; X-ray; 2.00 A; A=2-326.
+DR   PDB; 1M2Q; X-ray; 1.79 A; A=2-328.
+DR   PDB; 1M2R; X-ray; 1.70 A; A=2-328.
+DR   PDB; 1OM1; X-ray; 1.68 A; A=1-332.
+DR   PDB; 1ZOE; X-ray; 1.77 A; A=1-332.
+DR   PDB; 1ZOG; X-ray; 2.30 A; A=1-332.
+DR   PDB; 1ZOH; X-ray; 1.81 A; A=1-332.
+DR   PDB; 2OXD; X-ray; 2.30 A; A=1-332.
+DR   PDB; 2OXX; X-ray; 2.30 A; A=1-332.
+DR   PDB; 2OXY; X-ray; 1.81 A; A/B=1-332.
+DR   PDB; 2PVH; X-ray; 2.20 A; A=1-332.
+DR   PDB; 2PVJ; X-ray; 1.70 A; A=1-332.
+DR   PDB; 2PVK; X-ray; 1.90 A; A=1-332.
+DR   PDB; 2PVL; X-ray; 1.90 A; A=1-332.
+DR   PDB; 2PVM; X-ray; 2.00 A; A=1-332.
+DR   PDB; 2PVN; X-ray; 2.00 A; A=1-332.
+DR   PDB; 2QC6; X-ray; 1.85 A; A=1-332.
+DR   PDB; 3BE9; X-ray; 2.00 A; A=1-332.
+DR   PDB; 3FL5; X-ray; 2.30 A; A=1-332.
+DR   PDB; 3KXG; X-ray; 1.70 A; A=2-328.
+DR   PDB; 3KXH; X-ray; 1.70 A; A=2-328.
+DR   PDB; 3KXM; X-ray; 1.75 A; A=2-328.
+DR   PDB; 3KXN; X-ray; 2.00 A; A=2-328.
+DR   PDB; 3PVG; X-ray; 1.50 A; A=2-332.
+DR   PDB; 3PWD; X-ray; 2.20 A; A=1-332.
+DR   PDB; 3PZH; X-ray; 1.92 A; A=1-332.
+DR   PDB; 4ANM; X-ray; 1.70 A; A=2-332.
+DR   PDB; 4DGM; X-ray; 1.65 A; A=2-327.
+DR   PDB; 4DGN; X-ray; 1.75 A; A=2-327.
+DR   PDB; 4DGO; X-ray; 1.96 A; A=2-326.
+DR   PDB; 4RLK; X-ray; 1.24 A; A=1-332.
+DR   PDBsum; 1DAW; -.
+DR   PDBsum; 1DAY; -.
+DR   PDBsum; 1DS5; -.
+DR   PDBsum; 1F0Q; -.
+DR   PDBsum; 1J91; -.
+DR   PDBsum; 1JAM; -.
+DR   PDBsum; 1LP4; -.
+DR   PDBsum; 1LPU; -.
+DR   PDBsum; 1LR4; -.
+DR   PDBsum; 1M2P; -.
+DR   PDBsum; 1M2Q; -.
+DR   PDBsum; 1M2R; -.
+DR   PDBsum; 1OM1; -.
+DR   PDBsum; 1ZOE; -.
+DR   PDBsum; 1ZOG; -.
+DR   PDBsum; 1ZOH; -.
+DR   PDBsum; 2OXD; -.
+DR   PDBsum; 2OXX; -.
+DR   PDBsum; 2OXY; -.
+DR   PDBsum; 2PVH; -.
+DR   PDBsum; 2PVJ; -.
+DR   PDBsum; 2PVK; -.
+DR   PDBsum; 2PVL; -.
+DR   PDBsum; 2PVM; -.
+DR   PDBsum; 2PVN; -.
+DR   PDBsum; 2QC6; -.
+DR   PDBsum; 3BE9; -.
+DR   PDBsum; 3FL5; -.
+DR   PDBsum; 3KXG; -.
+DR   PDBsum; 3KXH; -.
+DR   PDBsum; 3KXM; -.
+DR   PDBsum; 3KXN; -.
+DR   PDBsum; 3PVG; -.
+DR   PDBsum; 3PWD; -.
+DR   PDBsum; 3PZH; -.
+DR   PDBsum; 4ANM; -.
+DR   PDBsum; 4DGM; -.
+DR   PDBsum; 4DGN; -.
+DR   PDBsum; 4DGO; -.
+DR   PDBsum; 4RLK; -.
+DR   ProteinModelPortal; P28523; -.
+DR   SMR; P28523; 1-329.
+DR   IntAct; P28523; 1.
+DR   STRING; 4577.GRMZM2G143602_P03; -.
+DR   BindingDB; P28523; -.
+DR   ChEMBL; CHEMBL4514; -.
+DR   PRIDE; P28523; -.
+DR   EnsemblPlants; GRMZM2G143602_T01; GRMZM2G143602_P01; GRMZM2G143602.
+DR   GeneID; 542637; -.
+DR   Gramene; P28523; -.
+DR   MaizeGDB; 30032; -.
+DR   HOGENOM; HOG000233021; -.
+DR   BRENDA; 2.7.11.1; 6752.
+DR   EvolutionaryTrace; P28523; -.
+DR   PRO; PR:P28523; -.
+DR   Proteomes; UP000007305; Chromosome 2.
+DR   ExpressionAtlas; P28523; baseline.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004674; F:protein serine/threonine kinase activity; IEA:UniProtKB-KW.
+DR   InterPro; IPR011009; Kinase-like_dom.
+DR   InterPro; IPR000719; Prot_kinase_dom.
+DR   InterPro; IPR017441; Protein_kinase_ATP_BS.
+DR   InterPro; IPR002290; Ser/Thr_dual-sp_kinase.
+DR   InterPro; IPR008271; Ser/Thr_kinase_AS.
+DR   Pfam; PF00069; Pkinase; 1.
+DR   SMART; SM00220; S_TKc; 1.
+DR   SUPFAM; SSF56112; SSF56112; 1.
+DR   PROSITE; PS00107; PROTEIN_KINASE_ATP; 1.
+DR   PROSITE; PS50011; PROTEIN_KINASE_DOM; 1.
+DR   PROSITE; PS00108; PROTEIN_KINASE_ST; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; ATP-binding; Complete proteome; Kinase;
+KW   Nucleotide-binding; Reference proteome;
+KW   Serine/threonine-protein kinase; Transferase.
+FT   CHAIN         1    332       Casein kinase II subunit alpha.
+FT                                /FTId=PRO_0000085901.
+FT   DOMAIN       34    319       Protein kinase. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00159}.
+FT   NP_BIND      40     48       ATP.
+FT   ACT_SITE    151    151       Proton acceptor.
+FT   BINDING      63     63       ATP.
+FT   STRAND        5      7       {ECO:0000244|PDB:4RLK}.
+FT   HELIX        10     13       {ECO:0000244|PDB:4RLK}.
+FT   HELIX        16     19       {ECO:0000244|PDB:4RLK}.
+FT   HELIX        21     23       {ECO:0000244|PDB:4RLK}.
+FT   HELIX        31     33       {ECO:0000244|PDB:4RLK}.
+FT   STRAND       34     43       {ECO:0000244|PDB:4RLK}.
+FT   STRAND       46     53       {ECO:0000244|PDB:4RLK}.
+FT   TURN         54     57       {ECO:0000244|PDB:4RLK}.
+FT   STRAND       58     65       {ECO:0000244|PDB:4RLK}.
+FT   HELIX        70     83       {ECO:0000244|PDB:4RLK}.
+FT   STRAND       92     97       {ECO:0000244|PDB:4RLK}.
+FT   TURN         99    101       {ECO:0000244|PDB:4RLK}.
+FT   STRAND      104    109       {ECO:0000244|PDB:4RLK}.
+FT   HELIX       116    119       {ECO:0000244|PDB:4RLK}.
+FT   HELIX       120    122       {ECO:0000244|PDB:4RLK}.
+FT   HELIX       125    144       {ECO:0000244|PDB:4RLK}.
+FT   HELIX       154    156       {ECO:0000244|PDB:4RLK}.
+FT   STRAND      157    160       {ECO:0000244|PDB:4RLK}.
+FT   TURN        161    164       {ECO:0000244|PDB:4RLK}.
+FT   STRAND      165    168       {ECO:0000244|PDB:4RLK}.
+FT   HELIX       171    173       {ECO:0000244|PDB:4RLK}.
+FT   HELIX       190    192       {ECO:0000244|PDB:4RLK}.
+FT   HELIX       195    198       {ECO:0000244|PDB:4RLK}.
+FT   HELIX       207    222       {ECO:0000244|PDB:4RLK}.
+FT   STRAND      225    228       {ECO:0000244|PDB:4RLK}.
+FT   HELIX       233    244       {ECO:0000244|PDB:4RLK}.
+FT   HELIX       246    255       {ECO:0000244|PDB:4RLK}.
+FT   HELIX       262    268       {ECO:0000244|PDB:4RLK}.
+FT   HELIX       276    279       {ECO:0000244|PDB:4RLK}.
+FT   TURN        282    284       {ECO:0000244|PDB:4RLK}.
+FT   HELIX       285    287       {ECO:0000244|PDB:4RLK}.
+FT   HELIX       290    299       {ECO:0000244|PDB:4RLK}.
+FT   HELIX       304    306       {ECO:0000244|PDB:4RLK}.
+FT   HELIX       310    315       {ECO:0000244|PDB:4RLK}.
+FT   HELIX       317    319       {ECO:0000244|PDB:4RLK}.
+FT   HELIX       320    326       {ECO:0000244|PDB:4RLK}.
+SQ   SEQUENCE   332 AA;  39230 MW;  85513A5A5C77235A CRC64;
+     MSKARVYADV NVLRPKEYWD YEALTVQWGE QDDYEVVRKV GRGKYSEVFE GINVNNNEKC
+     IIKILKPVKK KKIKREIKIL QNLCGGPNIV KLLDIVRDQH SKTPSLIFEY VNNTDFKVLY
+     PTLTDYDIRY YIYELLKALD YCHSQGIMHR DVKPHNVMID HELRKLRLID WGLAEFYHPG
+     KEYNVRVASR YFKGPELLVD LQDYDYSLDM WSLGCMFAGM IFRKEPFFYG HDNHDQLVKI
+     AKVLGTDGLN VYLNKYRIEL DPQLEALVGR HSRKPWLKFM NADNQHLVSP EAIDFLDKLL
+     RYDHQERLTA LEAMTHPYFQ QVRAAENSRT RA
+//

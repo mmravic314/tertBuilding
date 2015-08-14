@@ -1,0 +1,515 @@
+ID   VATA_YEAST              Reviewed;        1071 AA.
+AC   P17255; D6VRG7; O74301; Q9Y7W5;
+DT   01-AUG-1990, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   22-JUL-2015, entry version 194.
+DE   RecName: Full=V-type proton ATPase catalytic subunit A;
+DE            Short=V-ATPase subunit A;
+DE            EC=3.6.3.14;
+DE   AltName: Full=Vacuolar proton pump subunit A;
+DE   Contains:
+DE     RecName: Full=Endonuclease PI-SceI;
+DE              EC=3.1.-.-;
+DE     AltName: Full=Sce VMA intein;
+DE     AltName: Full=VMA1-derived endonuclease;
+DE              Short=VDE;
+GN   Name=VMA1; Synonyms=CLS8, TFP1; OrderedLocusNames=YDL185W;
+GN   ORFNames=D1286;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=559292;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], PROTEIN SEQUENCE OF 181-196;
+RP   815-820; 826-836; 862-879; 925-936 AND 1004-1013, AND SUBUNIT.
+RC   STRAIN=ATCC 26786 / X2180-1A;
+RX   PubMed=2139027;
+RA   Hirata R., Ohsumi Y., Nakano A., Kawasaki H., Suzuki K., Anraku Y.;
+RT   "Molecular structure of a gene, VMA1, encoding the catalytic subunit
+RT   of H(+)-translocating adenosine triphosphatase from vacuolar membranes
+RT   of Saccharomyces cerevisiae.";
+RL   J. Biol. Chem. 265:6726-6733(1990).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 96604 / S288c / FY1679;
+RX   PubMed=8533471; DOI=10.1002/yea.320111007;
+RA   Verhasselt P., Voet M., Volckaert G.;
+RT   "New open reading frames, one of which is similar to the nifV gene of
+RT   Azotobacter vinelandii, found on a 12.5 kbp fragment of chromosome IV
+RT   of Saccharomyces cerevisiae.";
+RL   Yeast 11:961-966(1995).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=9169867;
+RA   Jacq C., Alt-Moerbe J., Andre B., Arnold W., Bahr A., Ballesta J.P.G.,
+RA   Bargues M., Baron L., Becker A., Biteau N., Bloecker H., Blugeon C.,
+RA   Boskovic J., Brandt P., Brueckner M., Buitrago M.J., Coster F.,
+RA   Delaveau T., del Rey F., Dujon B., Eide L.G., Garcia-Cantalejo J.M.,
+RA   Goffeau A., Gomez-Peris A., Granotier C., Hanemann V., Hankeln T.,
+RA   Hoheisel J.D., Jaeger W., Jimenez A., Jonniaux J.-L., Kraemer C.,
+RA   Kuester H., Laamanen P., Legros Y., Louis E.J., Moeller-Rieker S.,
+RA   Monnet A., Moro M., Mueller-Auer S., Nussbaumer B., Paricio N.,
+RA   Paulin L., Perea J., Perez-Alonso M., Perez-Ortin J.E., Pohl T.M.,
+RA   Prydz H., Purnelle B., Rasmussen S.W., Remacha M.A., Revuelta J.L.,
+RA   Rieger M., Salom D., Saluz H.P., Saiz J.E., Saren A.-M., Schaefer M.,
+RA   Scharfe M., Schmidt E.R., Schneider C., Scholler P., Schwarz S.,
+RA   Soler-Mira A., Urrestarazu L.A., Verhasselt P., Vissers S., Voet M.,
+RA   Volckaert G., Wagner G., Wambutt R., Wedler E., Wedler H., Woelfl S.,
+RA   Harris D.E., Bowman S., Brown D., Churcher C.M., Connor R., Dedman K.,
+RA   Gentles S., Hamlin N., Hunt S., Jones L., McDonald S., Murphy L.D.,
+RA   Niblett D., Odell C., Oliver K., Rajandream M.A., Richards C.,
+RA   Shore L., Walsh S.V., Barrell B.G., Dietrich F.S., Mulligan J.T.,
+RA   Allen E., Araujo R., Aviles E., Berno A., Carpenter J., Chen E.,
+RA   Cherry J.M., Chung E., Duncan M., Hunicke-Smith S., Hyman R.W.,
+RA   Komp C., Lashkari D., Lew H., Lin D., Mosedale D., Nakahara K.,
+RA   Namath A., Oefner P., Oh C., Petel F.X., Roberts D., Schramm S.,
+RA   Schroeder M., Shogren T., Shroff N., Winant A., Yelton M.A.,
+RA   Botstein D., Davis R.W., Johnston M., Andrews S., Brinkman R.,
+RA   Cooper J., Ding H., Du Z., Favello A., Fulton L., Gattung S.,
+RA   Greco T., Hallsworth K., Hawkins J., Hillier L.W., Jier M.,
+RA   Johnson D., Johnston L., Kirsten J., Kucaba T., Langston Y.,
+RA   Latreille P., Le T., Mardis E., Menezes S., Miller N., Nhan M.,
+RA   Pauley A., Peluso D., Rifkin L., Riles L., Taich A., Trevaskis E.,
+RA   Vignati D., Wilcox L., Wohldman P., Vaudin M., Wilson R.,
+RA   Waterston R., Albermann K., Hani J., Heumann K., Kleine K.,
+RA   Mewes H.-W., Zollner A., Zaccaria P.;
+RT   "The nucleotide sequence of Saccharomyces cerevisiae chromosome IV.";
+RL   Nature 387:75-78(1997).
+RN   [4]
+RP   GENOME REANNOTATION.
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=24374639; DOI=10.1534/g3.113.008995;
+RA   Engel S.R., Dietrich F.S., Fisk D.G., Binkley G., Balakrishnan R.,
+RA   Costanzo M.C., Dwight S.S., Hitz B.C., Karra K., Nash R.S., Weng S.,
+RA   Wong E.D., Lloyd P., Skrzypek M.S., Miyasato S.R., Simison M.,
+RA   Cherry J.M.;
+RT   "The reference genome sequence of Saccharomyces cerevisiae: Then and
+RT   now.";
+RL   G3 (Bethesda) 4:389-398(2014).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-34.
+RC   STRAIN=ATCC 208353 / W303-1A;
+RX   PubMed=1656215;
+RA   Ronne H., Carlberg M., Hu G.-Z., Nehlin J.O.;
+RT   "Protein phosphatase 2A in Saccharomyces cerevisiae: effects on cell
+RT   growth and bud morphogenesis.";
+RL   Mol. Cell. Biol. 11:4876-4884(1991).
+RN   [6]
+RP   PROTEIN SEQUENCE OF 2-10; 52-63; 115-136; 173-178; 181-207; 220-239;
+RP   264-272; 770-784; 804-814; 826-842; 853-861; 918-937; 940-959;
+RP   1004-1014 AND 1058-1065, CLEAVAGE OF INITIATOR METHIONINE, ACETYLATION
+RP   AT ALA-2, AND IDENTIFICATION BY MASS SPECTROMETRY.
+RA   Bienvenut W.V., Peters C.;
+RL   Submitted (OCT-2005) to UniProtKB.
+RN   [7]
+RP   PROTEIN SEQUENCE OF 2-6, CLEAVAGE OF INITIATOR METHIONINE, MUTAGENESIS
+RP   OF CYS-284; HIS-362; ASN-737 AND CYS-738, AND X-RAY CRYSTALLOGRAPHY
+RP   (2.1 ANGSTROMS) OF 274-747.
+RX   PubMed=11884132; DOI=10.1006/jmbi.2001.5357;
+RA   Mizutani R., Nogami S., Kawasaki M., Ohya Y., Anraku Y., Satow Y.;
+RT   "Protein-splicing reaction via a thiazolidine intermediate: crystal
+RT   structure of the VMA1-derived endonuclease bearing the N and C-
+RT   terminal propeptides.";
+RL   J. Mol. Biol. 316:919-929(2002).
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 41-1071.
+RX   PubMed=2905423;
+RA   Shih C.K., Wagner R., Feinstein S., Kanik-Ennulat C., Neff N.;
+RT   "A dominant trifluoperazine resistance gene from Saccharomyces
+RT   cerevisiae has homology with F0F1 ATP synthase and confers calcium-
+RT   sensitive growth.";
+RL   Mol. Cell. Biol. 8:3094-3103(1988).
+RN   [9]
+RP   PROTEIN SPLICING.
+RX   PubMed=2146742; DOI=10.1126/science.2146742;
+RA   Kane P.M., Yamashiro C.T., Wolczyk D.F., Neff N., Goebl M.,
+RA   Stevens T.H.;
+RT   "Protein splicing converts the yeast TFP1 gene product to the 69-kD
+RT   subunit of the vacuolar H(+)-adenosine triphosphatase.";
+RL   Science 250:651-657(1990).
+RN   [10]
+RP   MUTAGENESIS OF CYS-284 AND CYS-738.
+RX   PubMed=1417861; DOI=10.1016/0006-291X(92)92347-Z;
+RA   Hirata R., Anraku Y.;
+RT   "Mutations at the putative junction sites of the yeast VMA1 protein,
+RT   the catalytic subunit of the vacuolar membrane H(+)-ATPase, inhibit
+RT   its processing by protein splicing.";
+RL   Biochem. Biophys. Res. Commun. 188:40-47(1992).
+RN   [11]
+RP   SELF-SPLICING MECHANISM.
+RX   PubMed=8508780;
+RA   Cooper A.A., Chen Y.-J., Lindorfer M.A., Stevens T.H.;
+RT   "Protein splicing of the yeast TFP1 intervening protein sequence: a
+RT   model for self-excision.";
+RL   EMBO J. 12:2575-2583(1993).
+RN   [12]
+RP   FUNCTION OF VDE.
+RX   PubMed=1534148; DOI=10.1038/357301a0;
+RA   Gimble F.S., Thorner J.;
+RT   "Homing of a DNA endonuclease gene by meiotic gene conversion in
+RT   Saccharomyces cerevisiae.";
+RL   Nature 357:301-306(1992).
+RN   [13]
+RP   INTERACTION WITH RAV1 AND RAV2.
+RX   PubMed=11283612; DOI=10.1038/35070067;
+RA   Seol J.H., Shevchenko A., Shevchenko A., Deshaies R.J.;
+RT   "Skp1 forms multiple protein complexes, including RAVE, a regulator of
+RT   V-ATPase assembly.";
+RL   Nat. Cell Biol. 3:384-391(2001).
+RN   [14]
+RP   SUBCELLULAR LOCATION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562095; DOI=10.1038/nature02026;
+RA   Huh W.-K., Falvo J.V., Gerke L.C., Carroll A.S., Howson R.W.,
+RA   Weissman J.S., O'Shea E.K.;
+RT   "Global analysis of protein localization in budding yeast.";
+RL   Nature 425:686-691(2003).
+RN   [15]
+RP   LEVEL OF PROTEIN EXPRESSION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562106; DOI=10.1038/nature02046;
+RA   Ghaemmaghami S., Huh W.-K., Bower K., Howson R.W., Belle A.,
+RA   Dephoure N., O'Shea E.K., Weissman J.S.;
+RT   "Global analysis of protein expression in yeast.";
+RL   Nature 425:737-741(2003).
+RN   [16]
+RP   REVIEW.
+RX   PubMed=15335920; DOI=10.1016/0960-9822(92)90336-9;
+RA   Grivell L.A.;
+RT   "Homing in on an endosymbiotic endonuclease.";
+RL   Curr. Biol. 2:450-452(1992).
+RN   [17]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-131; SER-858 AND
+RP   SER-928, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE
+RP   ANALYSIS].
+RX   PubMed=18407956; DOI=10.1074/mcp.M700468-MCP200;
+RA   Albuquerque C.P., Smolka M.B., Payne S.H., Bafna V., Eng J., Zhou H.;
+RT   "A multidimensional chromatography technology for in-depth
+RT   phosphoproteome analysis.";
+RL   Mol. Cell. Proteomics 7:1389-1396(2008).
+RN   [18]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19779198; DOI=10.1126/science.1172867;
+RA   Holt L.J., Tuch B.B., Villen J., Johnson A.D., Gygi S.P., Morgan D.O.;
+RT   "Global analysis of Cdk1 substrate phosphorylation sites provides
+RT   insights into evolution.";
+RL   Science 325:1682-1686(2009).
+RN   [19]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT ALA-2, IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS], AND CLEAVAGE OF INITIATOR
+RP   METHIONINE [LARGE SCALE ANALYSIS].
+RX   PubMed=22814378; DOI=10.1073/pnas.1210303109;
+RA   Van Damme P., Lasa M., Polevoda B., Gazquez C., Elosegui-Artola A.,
+RA   Kim D.S., De Juan-Pardo E., Demeyer K., Hole K., Larrea E.,
+RA   Timmerman E., Prieto J., Arnesen T., Sherman F., Gevaert K.,
+RA   Aldabe R.;
+RT   "N-terminal acetylome analyses and functional insights of the N-
+RT   terminal acetyltransferase NatB.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 109:12449-12454(2012).
+RN   [20]
+RP   X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS) OF PI-SCE I.
+RX   PubMed=9160747; DOI=10.1016/S0092-8674(00)80237-8;
+RA   Duan X., Gimble F.S., Quiocho F.A.;
+RT   "Crystal structure of PI-SceI, a homing endonuclease with protein
+RT   splicing activity.";
+RL   Cell 89:555-564(1997).
+RN   [21]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) OF PI-SCE I.
+RX   PubMed=10644733; DOI=10.1074/jbc.275.4.2705;
+RA   Hu D., Crist M., Duan X., Quiocho F.A., Gimble F.S.;
+RT   "Probing the structure of the PI-SceI-DNA complex by affinity cleavage
+RT   and affinity photocross-linking.";
+RL   J. Biol. Chem. 275:2705-2712(2000).
+RN   [22]
+RP   X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS) OF 283-741, AND MUTAGENESIS OF
+RP   CYS-284 AND ASN-737.
+RX   PubMed=10828056; DOI=10.1074/jbc.275.22.16408;
+RA   Poland B.W., Xu M.-Q., Quiocho F.A.;
+RT   "Structural insights into the protein splicing mechanism of PI-SceI.";
+RL   J. Biol. Chem. 275:16408-16413(2000).
+RN   [23]
+RP   X-RAY CRYSTALLOGRAPHY (1.35 ANGSTROMS) OF 284-465.
+RX   PubMed=12235380; DOI=10.1093/nar/gkf523;
+RA   Werner E., Wende W., Pingoud A., Heinemann U.;
+RT   "High resolution crystal structure of domain I of the Saccharomyces
+RT   cerevisiae homing endonuclease PI-SceI.";
+RL   Nucleic Acids Res. 30:3962-3971(2002).
+CC   -!- FUNCTION: Catalytic subunit of the peripheral V1 complex of
+CC       vacuolar ATPase. V-ATPase (vacuolar ATPase) is responsible for
+CC       acidifying a variety of intracellular compartments in eukaryotic
+CC       cells. It is an electrogenic proton pump that generates a proton
+CC       motive force of 180 mV, inside positive and acidic, in the
+CC       vacuolar membrane vesicles. It may participate in maintenance of
+CC       cytoplasmic Ca(2+) homeostasis. This is a catalytic subunit.
+CC       {ECO:0000269|PubMed:1534148}.
+CC   -!- FUNCTION: PI-SceI is an endonuclease that can cleave at a site
+CC       present in a VMA1 allele that lacks the derived endonuclease
+CC       segment of the open reading frame; cleavage at this site only
+CC       occurs during meiosis and initiates "homing", a genetic event that
+CC       converts a VMA1 allele lacking VDE into one that contains it.
+CC       {ECO:0000269|PubMed:1534148}.
+CC   -!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+CC       H(+)(Out). {ECO:0000255|PROSITE-ProRule:PRU10106}.
+CC   -!- SUBUNIT: V-ATPase is a heteromultimeric enzyme composed of a
+CC       peripheral catalytic V1 complex (components A to H) attached to an
+CC       integral membrane V0 proton pore complex (components: a, c, c',
+CC       c'', d and e). Interacts with RAV1 and RAV2 components of the RAVE
+CC       complex, which are essential for the stability and assembly of V-
+CC       ATPase. {ECO:0000269|PubMed:11283612, ECO:0000269|PubMed:2139027}.
+CC   -!- INTERACTION:
+CC       P47104:RAV1; NbExp=2; IntAct=EBI-20245, EBI-25471;
+CC       P32366:VMA6; NbExp=2; IntAct=EBI-20245, EBI-20201;
+CC   -!- SUBCELLULAR LOCATION: Endomembrane system
+CC       {ECO:0000269|PubMed:14562095}. Vacuole membrane
+CC       {ECO:0000305|PubMed:14562095}. Note=Membranes of various
+CC       intracellular acidic compartments.
+CC   -!- PTM: This protein undergoes a protein self splicing that involves
+CC       a post-translational excision of the VDE intervening region
+CC       (intein) followed by peptide ligation.
+CC   -!- MISCELLANEOUS: Present with 199895 molecules/cell in log phase SD
+CC       medium. {ECO:0000269|PubMed:14562106}.
+CC   -!- SIMILARITY: Belongs to the ATPase alpha/beta chains family.
+CC       {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 DOD-type homing endonuclease domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00273}.
+CC   -!- WEB RESOURCE: Name=Description of Sce VMA in Inbase;
+CC       URL="http://tools.neb.com/inbase/intein.php?name=Sce+VMA";
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; J05409; AAA34664.1; -; Genomic_DNA.
+DR   EMBL; X83276; CAA58261.1; -; Genomic_DNA.
+DR   EMBL; Z74233; CAA98760.1; -; Genomic_DNA.
+DR   EMBL; Z74233; CAA98761.1; ALT_SEQ; Genomic_DNA.
+DR   EMBL; Z74233; CAA98762.1; -; Genomic_DNA.
+DR   EMBL; X58857; CAA41657.1; -; Genomic_DNA.
+DR   EMBL; M21609; AAB63978.1; -; Genomic_DNA.
+DR   EMBL; BK006938; DAA11677.1; -; Genomic_DNA.
+DR   PIR; A35746; PXBYVA.
+DR   RefSeq; NP_010096.1; NM_001180245.1.
+DR   PDB; 1DFA; X-ray; 2.00 A; A=284-737.
+DR   PDB; 1EF0; X-ray; 2.10 A; A/B=283-741.
+DR   PDB; 1GPP; X-ray; 1.35 A; A=284-736.
+DR   PDB; 1JVA; X-ray; 2.10 A; A/B=274-747.
+DR   PDB; 1LWS; X-ray; 3.50 A; A=284-737.
+DR   PDB; 1LWT; X-ray; 3.20 A; A=284-737.
+DR   PDB; 1UM2; X-ray; 2.90 A; A/B=284-737, C/D=274-747.
+DR   PDB; 1VDE; X-ray; 2.40 A; A/B=284-737.
+DR   PDB; 3J9T; EM; 6.90 A; A/C/E=2-1071.
+DR   PDB; 3J9U; EM; 7.60 A; A/C/E=2-1071.
+DR   PDB; 3J9V; EM; 8.30 A; A/C/E=2-1071.
+DR   PDBsum; 1DFA; -.
+DR   PDBsum; 1EF0; -.
+DR   PDBsum; 1GPP; -.
+DR   PDBsum; 1JVA; -.
+DR   PDBsum; 1LWS; -.
+DR   PDBsum; 1LWT; -.
+DR   PDBsum; 1UM2; -.
+DR   PDBsum; 1VDE; -.
+DR   PDBsum; 3J9T; -.
+DR   PDBsum; 3J9U; -.
+DR   PDBsum; 3J9V; -.
+DR   ProteinModelPortal; P17255; -.
+DR   SMR; P17255; 46-1063.
+DR   BioGrid; 31859; 377.
+DR   DIP; DIP-2293N; -.
+DR   IntAct; P17255; 74.
+DR   MINT; MINT-641889; -.
+DR   MEROPS; N09.001; -.
+DR   REBASE; 2615; PI-SceI.
+DR   TCDB; 3.A.2.2.3; the h(+)- or na(+)-translocating f-type, v-type and a-type atpase (f-atpase) superfamily.
+DR   UCD-2DPAGE; P17255; -.
+DR   MaxQB; P17255; -.
+DR   PaxDb; P17255; -.
+DR   PeptideAtlas; P17255; -.
+DR   PRIDE; P17255; -.
+DR   EnsemblFungi; YDL185W; YDL185W; YDL185W.
+DR   GeneID; 851342; -.
+DR   KEGG; sce:YDL185W; -.
+DR   EuPathDB; FungiDB:YDL185W; -.
+DR   SGD; S000002344; VMA1.
+DR   eggNOG; COG1372; -.
+DR   GeneTree; ENSGT00550000074787; -.
+DR   HOGENOM; HOG000141780; -.
+DR   InParanoid; P17255; -.
+DR   KO; K02145; -.
+DR   OMA; VHNCGER; -.
+DR   OrthoDB; EOG7M98QZ; -.
+DR   BioCyc; YEAST:G3O-29571-MONOMER; -.
+DR   Reactome; REACT_322706; Transferrin endocytosis and recycling.
+DR   Reactome; REACT_347079; Insulin receptor recycling.
+DR   EvolutionaryTrace; P17255; -.
+DR   NextBio; 968420; -.
+DR   PMAP-CutDB; P17255; -.
+DR   PRO; PR:P17255; -.
+DR   Proteomes; UP000002311; Chromosome IV.
+DR   GO; GO:0012505; C:endomembrane system; IEA:UniProtKB-SubCell.
+DR   GO; GO:0000329; C:fungal-type vacuole membrane; IDA:UniProtKB.
+DR   GO; GO:0000221; C:vacuolar proton-transporting V-type ATPase, V1 domain; TAS:SGD.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004520; F:endodeoxyribonuclease activity; TAS:SGD.
+DR   GO; GO:0046961; F:proton-transporting ATPase activity, rotational mechanism; TAS:SGD.
+DR   GO; GO:0015991; P:ATP hydrolysis coupled proton transport; IEA:InterPro.
+DR   GO; GO:0046034; P:ATP metabolic process; IEA:InterPro.
+DR   GO; GO:0044267; P:cellular protein metabolic process; IDA:SGD.
+DR   GO; GO:0016539; P:intein-mediated protein splicing; IEA:InterPro.
+DR   GO; GO:0006314; P:intron homing; TAS:SGD.
+DR   GO; GO:0007035; P:vacuolar acidification; IMP:SGD.
+DR   Gene3D; 1.10.1140.10; -; 1.
+DR   Gene3D; 2.170.16.10; -; 1.
+DR   Gene3D; 3.10.28.10; -; 1.
+DR   Gene3D; 3.40.50.300; -; 2.
+DR   InterPro; IPR020003; ATPase_a/bsu_AS.
+DR   InterPro; IPR000793; ATPase_F1/V1/A1-cplx_a/bsu_C.
+DR   InterPro; IPR000194; ATPase_F1/V1/A1_a/bsu_nucl-bd.
+DR   InterPro; IPR004100; ATPase_F1_a/bsu_N.
+DR   InterPro; IPR024034; ATPase_F1_bsu/V1_C.
+DR   InterPro; IPR028992; Hedgehog/Intein_dom.
+DR   InterPro; IPR003586; Hint_dom_C.
+DR   InterPro; IPR003587; Hint_dom_N.
+DR   InterPro; IPR007868; Hom_end_hint.
+DR   InterPro; IPR007869; Homing_endonuc_PI-Sce.
+DR   InterPro; IPR027434; Homing_endonucl.
+DR   InterPro; IPR006142; INTEIN.
+DR   InterPro; IPR030934; Intein_C.
+DR   InterPro; IPR004042; Intein_endonuc.
+DR   InterPro; IPR006141; Intein_N.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   Pfam; PF00006; ATP-synt_ab; 1.
+DR   Pfam; PF00306; ATP-synt_ab_C; 1.
+DR   Pfam; PF02874; ATP-synt_ab_N; 1.
+DR   Pfam; PF05204; Hom_end; 2.
+DR   Pfam; PF05203; Hom_end_hint; 1.
+DR   PRINTS; PR00379; INTEIN.
+DR   SMART; SM00305; HintC; 1.
+DR   SMART; SM00306; HintN; 1.
+DR   SUPFAM; SSF47917; SSF47917; 1.
+DR   SUPFAM; SSF50615; SSF50615; 1.
+DR   SUPFAM; SSF51294; SSF51294; 2.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+DR   SUPFAM; SSF55608; SSF55608; 2.
+DR   PROSITE; PS00152; ATPASE_ALPHA_BETA; 1.
+DR   PROSITE; PS50818; INTEIN_C_TER; 1.
+DR   PROSITE; PS50819; INTEIN_ENDONUCLEASE; 1.
+DR   PROSITE; PS50817; INTEIN_N_TER; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; ATP-binding; Autocatalytic cleavage;
+KW   Complete proteome; Direct protein sequencing; DNA-binding;
+KW   Endonuclease; Hydrogen ion transport; Hydrolase; Intron homing;
+KW   Ion transport; Membrane; Nuclease; Nucleotide-binding; Phosphoprotein;
+KW   Protein splicing; Reference proteome; Transport; Vacuole.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:11884132,
+FT                                ECO:0000269|PubMed:22814378,
+FT                                ECO:0000269|Ref.6}.
+FT   CHAIN         2    283       V-type proton ATPase catalytic subunit A,
+FT                                1st part.
+FT                                /FTId=PRO_0000002458.
+FT   CHAIN       284    737       Endonuclease PI-SceI.
+FT                                /FTId=PRO_0000002459.
+FT   CHAIN       738   1071       V-type proton ATPase catalytic subunit A,
+FT                                2nd part.
+FT                                /FTId=PRO_0000002460.
+FT   DOMAIN      494    642       DOD-type homing endonuclease.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00273}.
+FT   NP_BIND     257    264       ATP. {ECO:0000250}.
+FT   MOD_RES       2      2       N-acetylalanine.
+FT                                {ECO:0000269|PubMed:22814378,
+FT                                ECO:0000269|Ref.6}.
+FT   MOD_RES     131    131       Phosphothreonine.
+FT                                {ECO:0000269|PubMed:18407956}.
+FT   MOD_RES     858    858       Phosphoserine.
+FT                                {ECO:0000269|PubMed:18407956}.
+FT   MOD_RES     928    928       Phosphoserine.
+FT                                {ECO:0000269|PubMed:18407956}.
+FT   MUTAGEN     284    284       C->S: Reduces splicing reaction speed.
+FT                                Inhibits splicing; when associated with
+FT                                N-362; S-737 and S-738 in X10SSS VDE.
+FT                                {ECO:0000269|PubMed:10828056,
+FT                                ECO:0000269|PubMed:11884132,
+FT                                ECO:0000269|PubMed:1417861}.
+FT   MUTAGEN     362    362       H->N: Inhibits splicing; when associated
+FT                                with S-284; S-737 and S-738 in X10SSS
+FT                                VDE. {ECO:0000269|PubMed:11884132}.
+FT   MUTAGEN     737    737       N->S: Inhibits splicing; when associated
+FT                                with S-284; N-362 and S-738 in X10SSS
+FT                                VDE. {ECO:0000269|PubMed:10828056,
+FT                                ECO:0000269|PubMed:11884132}.
+FT   MUTAGEN     738    738       C->S: Reduces splicing reaction speed.
+FT                                Inhibits splicing; when associated with
+FT                                S-284; N-362 and S-737 in X10SSS VDE.
+FT                                {ECO:0000269|PubMed:11884132,
+FT                                ECO:0000269|PubMed:1417861}.
+FT   CONFLICT    875    875       G -> D (in Ref. 8; AAB63978).
+FT                                {ECO:0000305}.
+FT   STRAND      290    293       {ECO:0000244|PDB:1GPP}.
+FT   STRAND      298    300       {ECO:0000244|PDB:1GPP}.
+FT   HELIX       301    303       {ECO:0000244|PDB:1GPP}.
+FT   STRAND      309    312       {ECO:0000244|PDB:1GPP}.
+FT   STRAND      315    322       {ECO:0000244|PDB:1GPP}.
+FT   STRAND      325    335       {ECO:0000244|PDB:1GPP}.
+FT   STRAND      343    345       {ECO:0000244|PDB:1EF0}.
+FT   STRAND      347    349       {ECO:0000244|PDB:1EF0}.
+FT   STRAND      355    359       {ECO:0000244|PDB:1GPP}.
+FT   STRAND      363    369       {ECO:0000244|PDB:1GPP}.
+FT   STRAND      372    379       {ECO:0000244|PDB:1GPP}.
+FT   STRAND      382    396       {ECO:0000244|PDB:1GPP}.
+FT   STRAND      398    400       {ECO:0000244|PDB:1VDE}.
+FT   STRAND      402    414       {ECO:0000244|PDB:1GPP}.
+FT   HELIX       415    417       {ECO:0000244|PDB:1GPP}.
+FT   HELIX       420    431       {ECO:0000244|PDB:1GPP}.
+FT   STRAND      434    443       {ECO:0000244|PDB:1GPP}.
+FT   HELIX       444    449       {ECO:0000244|PDB:1GPP}.
+FT   HELIX       452    457       {ECO:0000244|PDB:1GPP}.
+FT   STRAND      459    462       {ECO:0000244|PDB:1GPP}.
+FT   TURN        471    474       {ECO:0000244|PDB:1DFA}.
+FT   STRAND      479    481       {ECO:0000244|PDB:1VDE}.
+FT   STRAND      485    487       {ECO:0000244|PDB:1DFA}.
+FT   HELIX       488    501       {ECO:0000244|PDB:1DFA}.
+FT   STRAND      506    514       {ECO:0000244|PDB:1EF0}.
+FT   HELIX       516    528       {ECO:0000244|PDB:1DFA}.
+FT   STRAND      531    533       {ECO:0000244|PDB:1LWT}.
+FT   STRAND      534    537       {ECO:0000244|PDB:1EF0}.
+FT   STRAND      538    540       {ECO:0000244|PDB:1UM2}.
+FT   TURN        541    543       {ECO:0000244|PDB:1EF0}.
+FT   STRAND      544    548       {ECO:0000244|PDB:1EF0}.
+FT   TURN        556    559       {ECO:0000244|PDB:1LWT}.
+FT   HELIX       570    575       {ECO:0000244|PDB:1DFA}.
+FT   STRAND      579    584       {ECO:0000244|PDB:1DFA}.
+FT   HELIX       588    591       {ECO:0000244|PDB:1DFA}.
+FT   HELIX       595    609       {ECO:0000244|PDB:1DFA}.
+FT   STRAND      610    613       {ECO:0000244|PDB:1EF0}.
+FT   STRAND      619    625       {ECO:0000244|PDB:1DFA}.
+FT   HELIX       627    639       {ECO:0000244|PDB:1DFA}.
+FT   STRAND      643    650       {ECO:0000244|PDB:1DFA}.
+FT   HELIX       654    656       {ECO:0000244|PDB:1DFA}.
+FT   STRAND      657    659       {ECO:0000244|PDB:1EF0}.
+FT   STRAND      661    669       {ECO:0000244|PDB:1DFA}.
+FT   HELIX       672    678       {ECO:0000244|PDB:1DFA}.
+FT   TURN        684    686       {ECO:0000244|PDB:1DFA}.
+FT   HELIX       693    695       {ECO:0000244|PDB:1GPP}.
+FT   STRAND      700    702       {ECO:0000244|PDB:1GPP}.
+FT   STRAND      704    719       {ECO:0000244|PDB:1GPP}.
+FT   STRAND      721    723       {ECO:0000244|PDB:1EF0}.
+FT   STRAND      727    729       {ECO:0000244|PDB:1GPP}.
+FT   STRAND      733    735       {ECO:0000244|PDB:1GPP}.
+SQ   SEQUENCE   1071 AA;  118637 MW;  2A4C65D2F59426FD CRC64;
+     MAGAIENARK EIKRISLEDH AESEYGAIYS VSGPVVIAEN MIGCAMYELV KVGHDNLVGE
+     VIRIDGDKAT IQVYEETAGL TVGDPVLRTG KPLSVELGPG LMETIYDGIQ RPLKAIKEES
+     QSIYIPRGID TPALDRTIKW QFTPGKFQVG DHISGGDIYG SVFENSLISS HKILLPPRSR
+     GTITWIAPAG EYTLDEKILE VEFDGKKSDF TLYHTWPVRV PRPVTEKLSA DYPLLTGQRV
+     LDALFPCVQG GTTCIPGAFG CGKTVISQSL SKYSNSDAII YVGCFAKGTN VLMADGSIEC
+     IENIEVGNKV MGKDGRPREV IKLPRGRETM YSVVQKSQHR AHKSDSSREV PELLKFTCNA
+     THELVVRTPR SVRRLSRTIK GVEYFEVITF EMGQKKAPDG RIVELVKEVS KSYPISEGPE
+     RANELVESYR KASNKAYFEW TIEARDLSLL GSHVRKATYQ TYAPILYEND HFFDYMQKSK
+     FHLTIEGPKV LAYLLGLWIG DGLSDRATFS VDSRDTSLME RVTEYAEKLN LCAEYKDRKE
+     PQVAKTVNLY SKVVRGNGIR NNLNTENPLW DAIVGLGFLK DGVKNIPSFL STDNIGTRET
+     FLAGLIDSDG YVTDEHGIKA TIKTIHTSVR DGLVSLARSL GLVVSVNAEP AKVDMNGTKH
+     KISYAIYMSG GDVLLNVLSK CAGSKKFRPA PAAAFARECR GFYFELQELK EDDYYGITLS
+     DDSDHQFLLA NQVVVHNCGE RGNEMAEVLM EFPELYTEMS GTKEPIMKRT TLVANTSNMP
+     VAAREASIYT GITLAEYFRD QGKNVSMIAD SSSRWAEALR EISGRLGEMP ADQGFPAYLG
+     AKLASFYERA GKAVALGSPD RTGSVSIVAA VSPAGGDFSD PVTTATLGIT QVFWGLDKKL
+     AQRKHFPSIN TSVSYSKYTN VLNKFYDSNY PEFPVLRDRM KEILSNAEEL EQVVQLVGKS
+     ALSDSDKITL DVATLIKEDF LQQNGYSTYD AFCPIWKTFD MMRAFISYHD EAQKAVANGA
+     NWSKLADSTG DVKHAVSSSK FFEPSRGEKE VHGEFEKLLS TMQERFAEST D
+//

@@ -1,0 +1,244 @@
+ID   HDDC2_HUMAN             Reviewed;         204 AA.
+AC   Q7Z4H3; Q5TDQ4; Q6NZ49; Q9BTT2; Q9BV31; Q9Y3D1;
+DT   04-DEC-2007, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2003, sequence version 1.
+DT   22-JUL-2015, entry version 93.
+DE   RecName: Full=HD domain-containing protein 2;
+DE   AltName: Full=Hepatitis C virus NS5A-transactivated protein 2;
+DE            Short=HCV NS5A-transactivated protein 2;
+GN   Name=HDDC2; Synonyms=C6orf74, NS5ATP2; ORFNames=CGI-130;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RC   TISSUE=Hepatoma;
+RX   PubMed=15188496;
+RA   Yang Q., Cheng J., Liu Y., Hong Y., Wang J.-J., Zhang S.-L.;
+RT   "Cloning and identification of NS5ATP2 gene and its spliced variant
+RT   transactivated by hepatitis C virus non-structural protein 5A.";
+RL   World J. Gastroenterol. 10:1735-1739(2004).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 3).
+RX   PubMed=10810093; DOI=10.1101/gr.10.5.703;
+RA   Lai C.-H., Chou C.-Y., Ch'ang L.-Y., Liu C.-S., Lin W.-C.;
+RT   "Identification of novel human genes evolutionarily conserved in
+RT   Caenorhabditis elegans by comparative proteomics.";
+RL   Genome Res. 10:703-713(2000).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=14574404; DOI=10.1038/nature02055;
+RA   Mungall A.J., Palmer S.A., Sims S.K., Edwards C.A., Ashurst J.L.,
+RA   Wilming L., Jones M.C., Horton R., Hunt S.E., Scott C.E.,
+RA   Gilbert J.G.R., Clamp M.E., Bethel G., Milne S., Ainscough R.,
+RA   Almeida J.P., Ambrose K.D., Andrews T.D., Ashwell R.I.S.,
+RA   Babbage A.K., Bagguley C.L., Bailey J., Banerjee R., Barker D.J.,
+RA   Barlow K.F., Bates K., Beare D.M., Beasley H., Beasley O., Bird C.P.,
+RA   Blakey S.E., Bray-Allen S., Brook J., Brown A.J., Brown J.Y.,
+RA   Burford D.C., Burrill W., Burton J., Carder C., Carter N.P.,
+RA   Chapman J.C., Clark S.Y., Clark G., Clee C.M., Clegg S., Cobley V.,
+RA   Collier R.E., Collins J.E., Colman L.K., Corby N.R., Coville G.J.,
+RA   Culley K.M., Dhami P., Davies J., Dunn M., Earthrowl M.E.,
+RA   Ellington A.E., Evans K.A., Faulkner L., Francis M.D., Frankish A.,
+RA   Frankland J., French L., Garner P., Garnett J., Ghori M.J.,
+RA   Gilby L.M., Gillson C.J., Glithero R.J., Grafham D.V., Grant M.,
+RA   Gribble S., Griffiths C., Griffiths M.N.D., Hall R., Halls K.S.,
+RA   Hammond S., Harley J.L., Hart E.A., Heath P.D., Heathcott R.,
+RA   Holmes S.J., Howden P.J., Howe K.L., Howell G.R., Huckle E.,
+RA   Humphray S.J., Humphries M.D., Hunt A.R., Johnson C.M., Joy A.A.,
+RA   Kay M., Keenan S.J., Kimberley A.M., King A., Laird G.K., Langford C.,
+RA   Lawlor S., Leongamornlert D.A., Leversha M., Lloyd C.R., Lloyd D.M.,
+RA   Loveland J.E., Lovell J., Martin S., Mashreghi-Mohammadi M.,
+RA   Maslen G.L., Matthews L., McCann O.T., McLaren S.J., McLay K.,
+RA   McMurray A., Moore M.J.F., Mullikin J.C., Niblett D., Nickerson T.,
+RA   Novik K.L., Oliver K., Overton-Larty E.K., Parker A., Patel R.,
+RA   Pearce A.V., Peck A.I., Phillimore B.J.C.T., Phillips S., Plumb R.W.,
+RA   Porter K.M., Ramsey Y., Ranby S.A., Rice C.M., Ross M.T., Searle S.M.,
+RA   Sehra H.K., Sheridan E., Skuce C.D., Smith S., Smith M., Spraggon L.,
+RA   Squares S.L., Steward C.A., Sycamore N., Tamlyn-Hall G., Tester J.,
+RA   Theaker A.J., Thomas D.W., Thorpe A., Tracey A., Tromans A., Tubby B.,
+RA   Wall M., Wallis J.M., West A.P., White S.S., Whitehead S.L.,
+RA   Whittaker H., Wild A., Willey D.J., Wilmer T.E., Wood J.M., Wray P.W.,
+RA   Wyatt J.C., Young L., Younger R.M., Bentley D.R., Coulson A.,
+RA   Durbin R.M., Hubbard T., Sulston J.E., Dunham I., Rogers J., Beck S.;
+RT   "The DNA sequence and analysis of human chromosome 6.";
+RL   Nature 425:805-811(2003).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L.,
+RA   Mobarry C.M., Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R.,
+RA   Flanigan M.J., Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V.,
+RA   Hannenhalli S., Turner R., Yooseph S., Lu F., Nusskern D.R.,
+RA   Shue B.C., Zheng X.H., Zhong F., Delcher A.L., Huson D.H.,
+RA   Kravitz S.A., Mouchard L., Reinert K., Remington K.A., Clark A.G.,
+RA   Waterman M.S., Eichler E.E., Adams M.D., Hunkapiller M.W., Myers E.W.,
+RA   Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 3).
+RC   TISSUE=Brain, Lung, and Placenta;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT ALA-2, IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS], AND CLEAVAGE OF INITIATOR
+RP   METHIONINE [LARGE SCALE ANALYSIS].
+RX   PubMed=19413330; DOI=10.1021/ac9004309;
+RA   Gauci S., Helbig A.O., Slijper M., Krijgsveld J., Heck A.J.,
+RA   Mohammed S.;
+RT   "Lys-N and trypsin cover complementary parts of the phosphoproteome in
+RT   a refined SCX-based approach.";
+RL   Anal. Chem. 81:4493-4501(2009).
+RN   [7]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P.,
+RA   Buerckstuemmer T., Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [8]
+RP   X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS).
+RG   Northeast structural genomics consortium (NESG);
+RT   "Northeast structural genomics consortium target HR6723.";
+RL   Submitted (APR-2012) to the PDB data bank.
+CC   -!- INTERACTION:
+CC       Q76353:- (xeno); NbExp=2; IntAct=EBI-6163836, EBI-6248077;
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=3;
+CC       Name=1;
+CC         IsoId=Q7Z4H3-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q7Z4H3-2; Sequence=VSP_029556;
+CC       Name=3;
+CC         IsoId=Q7Z4H3-3; Sequence=VSP_029557, VSP_029558;
+CC         Note=No experimental confirmation available. May be produced at
+CC         very low levels due to a premature stop codon in the mRNA,
+CC         leading to nonsense-mediated mRNA decay.;
+CC   -!- SIMILARITY: Belongs to the HDDC2 family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 HD domain. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAD34125.1; Type=Miscellaneous discrepancy; Note=Correction of a non-canonical splice junction.; Evidence={ECO:0000305};
+CC       Sequence=AAH03357.2; Type=Erroneous initiation; Note=Translation N-terminally shortened.; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF529363; AAQ09597.1; -; mRNA.
+DR   EMBL; AF151888; AAD34125.1; ALT_SEQ; mRNA.
+DR   EMBL; AL121938; CAI19646.1; -; Genomic_DNA.
+DR   EMBL; CH471051; EAW48138.1; -; Genomic_DNA.
+DR   EMBL; BC001671; AAH01671.1; -; mRNA.
+DR   EMBL; BC003357; AAH03357.2; ALT_INIT; mRNA.
+DR   EMBL; BC066332; AAH66332.1; -; mRNA.
+DR   CCDS; CCDS43503.1; -. [Q7Z4H3-1]
+DR   RefSeq; NP_057147.2; NM_016063.2. [Q7Z4H3-1]
+DR   UniGene; Hs.32826; -.
+DR   PDB; 4DMB; X-ray; 1.90 A; A/B=1-204.
+DR   PDB; 4L1J; X-ray; 1.82 A; A/B=1-204.
+DR   PDB; 4L7E; X-ray; 2.23 A; A/B=1-204.
+DR   PDB; 4L7W; X-ray; 2.30 A; A=1-204.
+DR   PDBsum; 4DMB; -.
+DR   PDBsum; 4L1J; -.
+DR   PDBsum; 4L7E; -.
+DR   PDBsum; 4L7W; -.
+DR   ProteinModelPortal; Q7Z4H3; -.
+DR   SMR; Q7Z4H3; 11-200.
+DR   BioGrid; 119226; 1.
+DR   IntAct; Q7Z4H3; 1.
+DR   STRING; 9606.ENSP00000381220; -.
+DR   PhosphoSite; Q7Z4H3; -.
+DR   BioMuta; HDDC2; -.
+DR   DMDM; 74713511; -.
+DR   REPRODUCTION-2DPAGE; IPI00386751; -.
+DR   MaxQB; Q7Z4H3; -.
+DR   PaxDb; Q7Z4H3; -.
+DR   PRIDE; Q7Z4H3; -.
+DR   Ensembl; ENST00000318787; ENSP00000316242; ENSG00000111906. [Q7Z4H3-3]
+DR   Ensembl; ENST00000398153; ENSP00000381220; ENSG00000111906.
+DR   Ensembl; ENST00000609477; ENSP00000476969; ENSG00000111906. [Q7Z4H3-3]
+DR   GeneID; 51020; -.
+DR   KEGG; hsa:51020; -.
+DR   UCSC; uc003qaa.1; human. [Q7Z4H3-1]
+DR   CTD; 51020; -.
+DR   GeneCards; GC06M125596; -.
+DR   HGNC; HGNC:21078; HDDC2.
+DR   HPA; HPA035677; -.
+DR   neXtProt; NX_Q7Z4H3; -.
+DR   PharmGKB; PA134943525; -.
+DR   eggNOG; COG1896; -.
+DR   GeneTree; ENSGT00390000009937; -.
+DR   HOGENOM; HOG000216981; -.
+DR   HOVERGEN; HBG097476; -.
+DR   InParanoid; Q7Z4H3; -.
+DR   KO; K07023; -.
+DR   OMA; RFEMILQ; -.
+DR   OrthoDB; EOG73NG4R; -.
+DR   PhylomeDB; Q7Z4H3; -.
+DR   TreeFam; TF313855; -.
+DR   ChiTaRS; HDDC2; human.
+DR   GenomeRNAi; 51020; -.
+DR   NextBio; 53540; -.
+DR   PRO; PR:Q7Z4H3; -.
+DR   Proteomes; UP000005640; Chromosome 6.
+DR   Bgee; Q7Z4H3; -.
+DR   CleanEx; HS_HDDC2; -.
+DR   ExpressionAtlas; Q7Z4H3; baseline and differential.
+DR   Genevisible; Q7Z4H3; HS.
+DR   GO; GO:0070062; C:extracellular exosome; IDA:UniProtKB.
+DR   GO; GO:0005739; C:mitochondrion; IEA:Ensembl.
+DR   Gene3D; 1.10.3210.10; -; 1.
+DR   InterPro; IPR003607; HD/PDEase_dom.
+DR   InterPro; IPR006674; HD_domain.
+DR   Pfam; PF13023; HD_3; 1.
+DR   SMART; SM00471; HDc; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Alternative splicing; Complete proteome;
+KW   Polymorphism; Reference proteome.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:19413330}.
+FT   CHAIN         2    204       HD domain-containing protein 2.
+FT                                /FTId=PRO_0000311389.
+FT   DOMAIN       46    148       HD.
+FT   MOD_RES       2      2       N-acetylalanine.
+FT                                {ECO:0000269|PubMed:19413330}.
+FT   VAR_SEQ      70    103       Missing (in isoform 2). {ECO:0000305}.
+FT                                /FTId=VSP_029556.
+FT   VAR_SEQ      70     71       CV -> KL (in isoform 3).
+FT                                {ECO:0000303|PubMed:10810093,
+FT                                ECO:0000303|PubMed:15489334}.
+FT                                /FTId=VSP_029557.
+FT   VAR_SEQ      72    204       Missing (in isoform 3).
+FT                                {ECO:0000303|PubMed:10810093,
+FT                                ECO:0000303|PubMed:15489334}.
+FT                                /FTId=VSP_029558.
+FT   VARIANT      64     64       R -> C (in dbSNP:rs12213371).
+FT                                /FTId=VAR_037238.
+FT   CONFLICT     69     69       R -> P (in Ref. 2; AAD34125).
+FT                                {ECO:0000305}.
+FT   CONFLICT    131    131       Q -> R (in Ref. 5; AAH66332).
+FT                                {ECO:0000305}.
+FT   HELIX        14     25       {ECO:0000244|PDB:4L1J}.
+FT   HELIX        26     29       {ECO:0000244|PDB:4L1J}.
+FT   HELIX        33     36       {ECO:0000244|PDB:4L1J}.
+FT   TURN         37     39       {ECO:0000244|PDB:4L1J}.
+FT   HELIX        46     59       {ECO:0000244|PDB:4L1J}.
+FT   HELIX        67     76       {ECO:0000244|PDB:4L1J}.
+FT   TURN         77     80       {ECO:0000244|PDB:4L1J}.
+FT   HELIX        81     84       {ECO:0000244|PDB:4L1J}.
+FT   HELIX        89     91       {ECO:0000244|PDB:4L1J}.
+FT   HELIX        95    110       {ECO:0000244|PDB:4L1J}.
+FT   HELIX       115    130       {ECO:0000244|PDB:4L1J}.
+FT   HELIX       134    158       {ECO:0000244|PDB:4L1J}.
+FT   TURN        161    164       {ECO:0000244|PDB:4L1J}.
+FT   HELIX       165    171       {ECO:0000244|PDB:4L1J}.
+FT   HELIX       178    199       {ECO:0000244|PDB:4L1J}.
+SQ   SEQUENCE   204 AA;  23390 MW;  E59D03224F8D6A16 CRC64;
+     MASVSSATFS GHGARSLLQF LRLVGQLKRV PRTGWVYRNV QRPESVSDHM YRMAVMAMVI
+     KDDRLNKDRC VRLALVHDMA ECIVGDIAPA DNIPKEEKHR REEEAMKQIT QLLPEDLRKE
+     LYELWEEYET QSSAEAKFVK QLDQCEMILQ ASEYEDLEHK PGRLQDFYDS TAGKFNHPEI
+     VQLVSELEAE RSTNIAAAAS EPHS
+//

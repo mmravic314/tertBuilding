@@ -1,0 +1,62 @@
+ID   Q932P5_9GAMM            Unreviewed;       246 AA.
+AC   Q932P5;
+DT   01-DEC-2001, integrated into UniProtKB/TrEMBL.
+DT   01-DEC-2001, sequence version 1.
+DT   07-JAN-2015, entry version 46.
+DE   RecName: Full=Beta-lactamase {ECO:0000256|RuleBase:RU361140};
+DE            EC=3.5.2.6 {ECO:0000256|RuleBase:RU361140};
+GN   Name=blaIMP {ECO:0000313|EMBL:AAL17637.1};
+OS   Acinetobacter sp. A1411.
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+OC   Moraxellaceae; Acinetobacter.
+OX   NCBI_TaxID=173966 {ECO:0000313|EMBL:AAL17637.1};
+RN   [1] {ECO:0000313|EMBL:AAL17637.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=A1411 {ECO:0000313|EMBL:AAL17637.1};
+RX   PubMed=11751794; DOI=10.1093/jac/49.1.217;
+RA   Tysall L., Stockdale M.W., Chadwick P.R., Palepou M.F., Towner K.J.,
+RA   Livermore D.M., Woodford N.;
+RT   "IMP-1 carbapenemase detected in an Acinetobacter clinical isolate
+RT   from the UK.";
+RL   J. Antimicrob. Chemother. 49:217-218(2002).
+CC   -!- CATALYTIC ACTIVITY: A beta-lactam + H(2)O = a substituted beta-
+CC       amino acid. {ECO:0000256|RuleBase:RU361140}.
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC         Evidence={ECO:0000256|RuleBase:RU361140};
+CC       Note=Binds 2 Zn(2+) ions per subunit.
+CC       {ECO:0000256|RuleBase:RU361140};
+CC   -!- SIMILARITY: Belongs to the metallo-beta-lactamase superfamily.
+CC       Class-B beta-lactamase family. {ECO:0000256|RuleBase:RU361140}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AY055216; AAL17637.1; -; Genomic_DNA.
+DR   ProteinModelPortal; Q932P5; -.
+DR   SMR; Q932P5; 19-239.
+DR   BindingDB; Q932P5; -.
+DR   GO; GO:0008800; F:beta-lactamase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:InterPro.
+DR   GO; GO:0017001; P:antibiotic catabolic process; IEA:InterPro.
+DR   GO; GO:0046677; P:response to antibiotic; IEA:UniProtKB-KW.
+DR   Gene3D; 3.60.15.10; -; 1.
+DR   InterPro; IPR001279; Beta-lactamas-like.
+DR   InterPro; IPR001018; Beta-lactamase_class-B_CS.
+DR   Pfam; PF00753; Lactamase_B; 1.
+DR   SMART; SM00849; Lactamase_B; 1.
+DR   SUPFAM; SSF56281; SSF56281; 1.
+DR   PROSITE; PS00743; BETA_LACTAMASE_B_1; 1.
+DR   PROSITE; PS00744; BETA_LACTAMASE_B_2; 1.
+PE   3: Inferred from homology;
+KW   Antibiotic resistance {ECO:0000256|RuleBase:RU361140};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361140};
+KW   Metal-binding {ECO:0000256|RuleBase:RU361140};
+KW   Zinc {ECO:0000256|RuleBase:RU361140}.
+SQ   SEQUENCE   246 AA;  27120 MW;  9B2599E8F1B22D36 CRC64;
+     MSKLSVFFIF LFCSIATAAE SLPDLKIEKL DEGVYVHTSF EEVNGWGVVP KHGLVVLVNA
+     EAYLIDTPFT AKDTEKLVTW FVERGYKIKG SISSHFHSDS TGGIEWLNSR SIPTYASELT
+     NELLKKDGKV QATNSFSGVN YWLVKNKIEV FYPGPGHTPD NVVVWLPERK ILFGGCFIKP
+     YGLGNLGDAN IEAWPKSAKL LKSKYGKAKL VVPSHSEVGD ASLLKLTLEQ AVKGLNESKK
+     PSKPSN
+//

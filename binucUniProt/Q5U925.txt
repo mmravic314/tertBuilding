@@ -1,0 +1,120 @@
+ID   Q5U925_PEPDI            Unreviewed;       266 AA.
+AC   Q5U925;
+DT   07-DEC-2004, integrated into UniProtKB/TrEMBL.
+DT   07-DEC-2004, sequence version 1.
+DT   22-JUL-2015, entry version 34.
+DE   SubName: Full=Activator of 2-hydroxyisocaproyl-CoA dehydratase {ECO:0000313|EMBL:AAV40818.1};
+DE   SubName: Full=Activator of 2-hydroxyisocaproyl-CoAdehydratase {ECO:0000313|EMBL:CEJ96914.1};
+DE   SubName: Full=Activator of lactoyl-CoA dehydratase {ECO:0000313|EMBL:CDS83578.1};
+DE   Flags: Fragment;
+GN   Name=hadI {ECO:0000313|EMBL:AAV40818.1};
+GN   Synonyms=lcdC {ECO:0000313|EMBL:CDS83578.1};
+GN   ORFNames=BN1095_530010 {ECO:0000313|EMBL:CDT50868.1},
+GN   BN1096_180047 {ECO:0000313|EMBL:CDS83472.1},
+GN   BN1097_160049 {ECO:0000313|EMBL:CDS83578.1},
+GN   CD630DERM_03960 {ECO:0000313|EMBL:CEJ96914.1},
+GN   ERS445050_03311 {ECO:0000313|EMBL:CKH72430.1};
+OS   Peptoclostridium difficile (Clostridium difficile).
+OG   Plasmid 2 {ECO:0000313|EMBL:CKH72430.1}.
+OC   Bacteria; Firmicutes; Clostridia; Clostridiales;
+OC   Peptostreptococcaceae; Peptoclostridium.
+OX   NCBI_TaxID=1496 {ECO:0000313|EMBL:AAV40818.1};
+RN   [1] {ECO:0000313|EMBL:AAV40818.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=DSM 1296 {ECO:0000313|EMBL:AAV40818.1};
+RX   PubMed=15654892; DOI=10.1111/j.1742-4658.2004.04498.x;
+RA   Kim J., Darley D., Buckel W.;
+RT   "2-Hydroxyisocaproyl-CoA dehydratase and its activator from
+RT   Clostridium difficile.";
+RL   FEBS J. 272:550-561(2005).
+RN   [2] {ECO:0000213|PDB:4EHT, ECO:0000213|PDB:4EHU, ECO:0000213|PDB:4EIA}
+RP   X-RAY CRYSTALLOGRAPHY (1.60 ANGSTROMS) IN COMPLEX WITH ADP; ATP ANALOG
+RP   AND IRON-SULFUR (4FE-4S).
+RX   PubMed=22827463; DOI=10.1021/bi300571z;
+RA   Knauer S.H., Buckel W., Dobbek H.;
+RT   "On the ATP-dependent activation of the radical enzyme (R)-2-
+RT   hydroxyisocaproyl-CoA dehydratase.";
+RL   Biochemistry 51:6609-6622(2012).
+RN   [3] {ECO:0000313|EMBL:CDS83472.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=7032989 {ECO:0000313|EMBL:CDT50868.1}, and
+RC   7032994 {ECO:0000313|EMBL:CDS83578.1};
+RA   Monot Marc;
+RL   Submitted (JUL-2014) to the EMBL/GenBank/DDBJ databases.
+RN   [4] {ECO:0000313|EMBL:CEJ96914.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=630Derm {ECO:0000313|EMBL:CEJ96914.1};
+RA   Aslett A.Martin., De Silva Nishadi;
+RL   Submitted (SEP-2014) to the EMBL/GenBank/DDBJ databases.
+RN   [5] {ECO:0000313|EMBL:CKH72430.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=NCTC13307 {ECO:0000313|EMBL:CKH72430.1};
+RC   PLASMID=2 {ECO:0000313|EMBL:CKH72430.1};
+RA   Informatics Pathogen;
+RL   Submitted (MAR-2015) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AY772815; AAV40818.1; -; Genomic_DNA.
+DR   EMBL; LK932467; CDS83472.1; -; Genomic_DNA.
+DR   EMBL; LK932350; CDS83578.1; -; Genomic_DNA.
+DR   EMBL; LK933216; CDT50868.1; -; Genomic_DNA.
+DR   EMBL; LN614756; CEJ96914.1; -; Genomic_DNA.
+DR   EMBL; LN831031; CKH72430.1; -; Genomic_DNA.
+DR   RefSeq; WP_009888223.1; NZ_LN614756.1.
+DR   PDB; 4EHT; X-ray; 1.95 A; A/B=1-266.
+DR   PDB; 4EHU; X-ray; 1.60 A; A/B=1-266.
+DR   PDB; 4EIA; X-ray; 3.00 A; A=1-266.
+DR   PDBsum; 4EHT; -.
+DR   PDBsum; 4EHU; -.
+DR   PDBsum; 4EIA; -.
+DR   STRING; 272563.CD0396; -.
+DR   EnsemblBacteria; EZR27308; EZR27308; BG47_14000.
+DR   KEGG; pdf:CD630DERM_03960; -.
+DR   Proteomes; UP000032805; Chromosome 1.
+DR   GO; GO:0051539; F:4 iron, 4 sulfur cluster binding; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000166; F:nucleotide binding; IEA:UniProtKB-KW.
+DR   InterPro; IPR002731; ATPase_BadF.
+DR   InterPro; IPR008275; CoA_E_activase.
+DR   Pfam; PF01869; BcrAD_BadFG; 1.
+DR   TIGRFAMs; TIGR00241; CoA_E_activ; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4EHT, ECO:0000213|PDB:4EHU};
+KW   4Fe-4S {ECO:0000213|PDB:4EHT, ECO:0000213|PDB:4EHU};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000032805};
+KW   Iron {ECO:0000213|PDB:4EHT, ECO:0000213|PDB:4EHU};
+KW   Iron-sulfur {ECO:0000213|PDB:4EHT, ECO:0000213|PDB:4EHU};
+KW   Metal-binding {ECO:0000213|PDB:4EHT, ECO:0000213|PDB:4EHU};
+KW   Nucleotide-binding {ECO:0000213|PDB:4EHT, ECO:0000213|PDB:4EHU};
+KW   Plasmid {ECO:0000313|EMBL:CKH72430.1}.
+FT   NP_BIND      10     14       ATP analog. {ECO:0000213|PDB:4EHU}.
+FT   NP_BIND      11     14       ADP. {ECO:0000213|PDB:4EHT}.
+FT   NP_BIND     102    104       ATP analog. {ECO:0000213|PDB:4EHU}.
+FT   NP_BIND     215    218       ADP. {ECO:0000213|PDB:4EHT}.
+FT   NP_BIND     215    218       ATP analog. {ECO:0000213|PDB:4EHU}.
+FT   METAL       125    125       Iron-sulfur (4Fe-4S).
+FT                                {ECO:0000213|PDB:4EHT,
+FT                                ECO:0000213|PDB:4EHU,
+FT                                ECO:0000213|PDB:4EIA}.
+FT   METAL       164    164       Iron-sulfur (4Fe-4S).
+FT                                {ECO:0000213|PDB:4EHT,
+FT                                ECO:0000213|PDB:4EHU,
+FT                                ECO:0000213|PDB:4EIA}.
+FT   METAL       165    165       Iron-sulfur (4Fe-4S).
+FT                                {ECO:0000213|PDB:4EIA}.
+FT   BINDING     102    102       ADP; via amide nitrogen.
+FT                                {ECO:0000213|PDB:4EHT}.
+FT   BINDING     134    134       ADP. {ECO:0000213|PDB:4EHT}.
+FT   BINDING     134    134       ATP analog. {ECO:0000213|PDB:4EHU}.
+FT   BINDING     241    241       ADP. {ECO:0000213|PDB:4EHT}.
+FT   BINDING     241    241       ATP analog. {ECO:0000213|PDB:4EHU}.
+FT   NON_TER     266    266       {ECO:0000313|EMBL:AAV40818.1}.
+SQ   SEQUENCE   266 AA;  28423 MW;  7D763B2C5C5A24EE CRC64;
+     MYTMGLDIGS TASKGVILKN GEDIVASETI SSGTGTTGPS RVLEKLYGKT GLAREDIKKV
+     VVTGYGRMNY SDADKQISEL SCHARGVNFI IPETRTIIDI GGQDAKVLKL DNNGRLLNFL
+     MNDKCAAGTG RFLDVMAKII EVDVSELGSI SMNSQNEVSI SSTCTVFAES EVISHLSENA
+     KIEDIVAGIH TSVAKRVSSL VKRIGVQRNV VMVGGVARNS GIVRAMAREI NTEIIVPDIP
+     QLTGALGAAL YAFDEAKESQ KEVKNI
+//

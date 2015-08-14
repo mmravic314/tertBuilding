@@ -1,0 +1,181 @@
+ID   HIPA_SHEON              Reviewed;         433 AA.
+AC   Q8EIX3;
+DT   04-FEB-2015, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAR-2003, sequence version 1.
+DT   27-MAY-2015, entry version 60.
+DE   RecName: Full=Serine/threonine-protein kinase HipA {ECO:0000305};
+DE            Short=Ser/Thr-protein kinase HipA;
+DE            EC=2.7.11.1 {ECO:0000269|PubMed:25056321};
+DE   AltName: Full=Toxin HipA {ECO:0000303|PubMed:25056321};
+GN   Name=hipA {ECO:0000303|PubMed:25056321}; OrderedLocusNames=SO_0706;
+OS   Shewanella oneidensis (strain MR-1).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales;
+OC   Shewanellaceae; Shewanella.
+OX   NCBI_TaxID=211586;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=MR-1;
+RX   PubMed=12368813; DOI=10.1038/nbt749;
+RA   Heidelberg J.F., Paulsen I.T., Nelson K.E., Gaidos E.J., Nelson W.C.,
+RA   Read T.D., Eisen J.A., Seshadri R., Ward N.L., Methe B.A.,
+RA   Clayton R.A., Meyer T., Tsapin A., Scott J., Beanan M.J.,
+RA   Brinkac L.M., Daugherty S.C., DeBoy R.T., Dodson R.J., Durkin A.S.,
+RA   Haft D.H., Kolonay J.F., Madupu R., Peterson J.D., Umayam L.A.,
+RA   White O., Wolf A.M., Vamathevan J.J., Weidman J.F., Impraim M.,
+RA   Lee K., Berry K.J., Lee C., Mueller J., Khouri H.M., Gill J.,
+RA   Utterback T.R., McDonald L.A., Feldblyum T.V., Smith H.O.,
+RA   Venter J.C., Nealson K.H., Fraser C.M.;
+RT   "Genome sequence of the dissimilatory metal ion-reducing bacterium
+RT   Shewanella oneidensis.";
+RL   Nat. Biotechnol. 20:1118-1123(2002).
+RN   [2]
+RP   DISRUPTION PHENOTYPE.
+RC   STRAIN=MR-1;
+RX   PubMed=20034561; DOI=10.1016/j.resmic.2009.12.002;
+RA   Theunissen S., De Smet L., Dansercoer A., Motte B., Coenye T.,
+RA   Van Beeumen J.J., Devreese B., Savvides S.N., Vergauwen B.;
+RT   "The 285 kDa Bap/RTX hybrid cell surface protein (SO4317) of
+RT   Shewanella oneidensis MR-1 is a key mediator of biofilm formation.";
+RL   Res. Microbiol. 161:144-152(2010).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (1.83 ANGSTROMS) OF APOPROTEIN; IN COMPLEX WITH
+RP   HIPB AND DNA AND IN COMPLEX WITH ATP ANALOG, FUNCTION, CATALYTIC
+RP   ACTIVITY, SUBUNIT, INDUCTION, AUTOPHOSPHORYLATION AT SER-147,
+RP   MUTAGENESIS OF ASP-306, AND DNA-BINDING.
+RC   STRAIN=MR-1;
+RX   PubMed=25056321; DOI=10.1093/nar/gku665;
+RA   Wen Y., Behiels E., Felix J., Elegheert J., Vergauwen B., Devreese B.,
+RA   Savvides S.N.;
+RT   "The bacterial antitoxin HipB establishes a ternary complex with
+RT   operator DNA and phosphorylated toxin HipA to regulate bacterial
+RT   persistence.";
+RL   Nucleic Acids Res. 42:10134-10147(2014).
+CC   -!- FUNCTION: Toxic component of a toxin-antitoxin (TA) module;
+CC       overexpression in wild-type temporarily inhibits cell growth,
+CC       overexpression in a hipAB deletion leads to acute growth
+CC       inhibition. The toxic effect of HipA is neutralized by its cognate
+CC       antitoxin HipB. In the ternary phosphoserine-HipA-HipB-DNA complex
+CC       the DNA is bent about 125 degrees; all HipA in the crystallized
+CC       ternary complex is phosphorylated. In E.coli phosphorylation of
+CC       HipA is thought to release HipB from the HipA-HipB-DNA complex,
+CC       suggesting the complex functions differently in the 2 bacteria
+CC       (PubMed:25056321). Phosphorylates Glu-tRNA-ligase (GltX, on 'Ser-
+CC       239') in vivo, with HipB probably acts as a corepressor for
+CC       transcription of the hipBA promoter (By similarity).
+CC       {ECO:0000250|UniProtKB:P23874, ECO:0000269|PubMed:25056321}.
+CC   -!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+CC       {ECO:0000269|PubMed:25056321}.
+CC   -!- SUBUNIT: Monomer. Forms a HipA(2)HipB(2)-DNA complex with cognate
+CC       antitoxin HipB; has higher affinity for the latter when HipB is
+CC       prebound to DNA and HipA is phosphorylated. Binds DNA in the
+CC       ternary complex. {ECO:0000269|PubMed:25056321}.
+CC   -!- INDUCTION: Expressed in late-exponential phase; part of the hipBA
+CC       operon. {ECO:0000269|PubMed:25056321}.
+CC   -!- DISRUPTION PHENOTYPE: 50% decrease in biofilm.
+CC       {ECO:0000269|PubMed:20034561}.
+CC   -!- SIMILARITY: Belongs to the HipA Ser/Thr kinase family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE014299; AAN53784.1; -; Genomic_DNA.
+DR   RefSeq; NP_716339.1; NC_004347.2.
+DR   RefSeq; WP_011071024.1; NC_004347.2.
+DR   PDB; 4PU3; X-ray; 3.39 A; A/B=1-433.
+DR   PDB; 4PU4; X-ray; 3.79 A; A/B=1-433.
+DR   PDB; 4PU5; X-ray; 1.83 A; A=1-433.
+DR   PDBsum; 4PU3; -.
+DR   PDBsum; 4PU4; -.
+DR   PDBsum; 4PU5; -.
+DR   STRING; 211586.SO_0706; -.
+DR   DNASU; 1168566; -.
+DR   EnsemblBacteria; AAN53784; AAN53784; SO_0706.
+DR   GeneID; 1168566; -.
+DR   KEGG; son:SO_0706; -.
+DR   PATRIC; 23521094; VBISheOne101494_0681.
+DR   HOGENOM; HOG000268726; -.
+DR   KO; K07154; -.
+DR   OMA; LAAKCRN; -.
+DR   OrthoDB; EOG6P06V1; -.
+DR   PhylomeDB; Q8EIX3; -.
+DR   Proteomes; UP000008186; Chromosome.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004674; F:protein serine/threonine kinase activity; IEA:UniProtKB-KW.
+DR   InterPro; IPR012893; HipA-like_C.
+DR   InterPro; IPR017508; HipA_N1.
+DR   InterPro; IPR012894; HipA_N2.
+DR   Pfam; PF13657; Couple_hipA; 1.
+DR   Pfam; PF07804; HipA_C; 1.
+DR   Pfam; PF07805; HipA_N; 1.
+DR   TIGRFAMs; TIGR03071; couple_hipA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; ATP-binding; Complete proteome; DNA-binding; Kinase;
+KW   Nucleotide-binding; Phosphoprotein; Reference proteome; Repressor;
+KW   Serine/threonine-protein kinase; Toxin; Transferase.
+FT   CHAIN         1    433       Serine/threonine-protein kinase HipA.
+FT                                /FTId=PRO_0000431937.
+FT   NP_BIND     151    154       ATP. {ECO:0000269|PubMed:25056321}.
+FT   NP_BIND     220    222       ATP. {ECO:0000269|PubMed:25056321}.
+FT   NP_BIND     308    311       ATP. {ECO:0000269|PubMed:25056321}.
+FT   NP_BIND     327    328       ATP. {ECO:0000269|PubMed:25056321}.
+FT   DNA_BIND    380    384       {ECO:0000269|PubMed:25056321}.
+FT   DNA_BIND    429    429       {ECO:0000269|PubMed:25056321}.
+FT   ACT_SITE    306    306       Proton acceptor.
+FT                                {ECO:0000250|UniProtKB:P23874}.
+FT   BINDING     178    178       ATP. {ECO:0000269|PubMed:25056321}.
+FT   MOD_RES     147    147       Phosphoserine; by autocatalysis.
+FT                                {ECO:0000269|PubMed:25056321}.
+FT   MUTAGEN     306    306       D->Q: No autophosphorylation.
+FT                                {ECO:0000269|PubMed:25056321}.
+FT   HELIX         3      6       {ECO:0000244|PDB:4PU5}.
+FT   STRAND        8     13       {ECO:0000244|PDB:4PU5}.
+FT   STRAND       16     24       {ECO:0000244|PDB:4PU5}.
+FT   TURN         25     28       {ECO:0000244|PDB:4PU5}.
+FT   STRAND       29     34       {ECO:0000244|PDB:4PU5}.
+FT   HELIX        36     41       {ECO:0000244|PDB:4PU5}.
+FT   HELIX        57     65       {ECO:0000244|PDB:4PU5}.
+FT   HELIX        72     81       {ECO:0000244|PDB:4PU5}.
+FT   HELIX        88     95       {ECO:0000244|PDB:4PU5}.
+FT   STRAND      100    107       {ECO:0000244|PDB:4PU5}.
+FT   STRAND      116    119       {ECO:0000244|PDB:4PU5}.
+FT   HELIX       122    130       {ECO:0000244|PDB:4PU5}.
+FT   TURN        132    134       {ECO:0000244|PDB:4PU5}.
+FT   STRAND      154    162       {ECO:0000244|PDB:4PU5}.
+FT   STRAND      164    168       {ECO:0000244|PDB:4PU5}.
+FT   STRAND      175    178       {ECO:0000244|PDB:4PU5}.
+FT   HELIX       185    198       {ECO:0000244|PDB:4PU5}.
+FT   STRAND      206    211       {ECO:0000244|PDB:4PU5}.
+FT   STRAND      214    220       {ECO:0000244|PDB:4PU5}.
+FT   STRAND      222    226       {ECO:0000244|PDB:4PU5}.
+FT   STRAND      233    235       {ECO:0000244|PDB:4PU5}.
+FT   STRAND      238    240       {ECO:0000244|PDB:4PU5}.
+FT   HELIX       241    245       {ECO:0000244|PDB:4PU5}.
+FT   HELIX       249    251       {ECO:0000244|PDB:4PU5}.
+FT   STRAND      252    255       {ECO:0000244|PDB:4PU5}.
+FT   TURN        261    265       {ECO:0000244|PDB:4PU3}.
+FT   HELIX       272    277       {ECO:0000244|PDB:4PU5}.
+FT   HELIX       278    281       {ECO:0000244|PDB:4PU5}.
+FT   STRAND      282    284       {ECO:0000244|PDB:4PU5}.
+FT   HELIX       285    302       {ECO:0000244|PDB:4PU5}.
+FT   HELIX       309    311       {ECO:0000244|PDB:4PU3}.
+FT   STRAND      313    317       {ECO:0000244|PDB:4PU5}.
+FT   STRAND      320    323       {ECO:0000244|PDB:4PU5}.
+FT   HELIX       332    334       {ECO:0000244|PDB:4PU5}.
+FT   STRAND      346    348       {ECO:0000244|PDB:4PU3}.
+FT   HELIX       352    354       {ECO:0000244|PDB:4PU5}.
+FT   HELIX       357    367       {ECO:0000244|PDB:4PU5}.
+FT   HELIX       371    393       {ECO:0000244|PDB:4PU5}.
+FT   HELIX       401    422       {ECO:0000244|PDB:4PU5}.
+FT   HELIX       425    430       {ECO:0000244|PDB:4PU5}.
+SQ   SEQUENCE   433 AA;  48732 MW;  8B168C5DE511A92B CRC64;
+     MSTAKTLTLE MHLGDLMIGE LSFDATADTF AVHYTKDWQQ SGFPLSPTIP LDGTGTSNQI
+     SMFLVNLLPE NKGLDYLIES LGVSKGNTFA LIRAIGLDTA GAIAFVPKGA LLPETQLRPI
+     KAEEVIQRIE DPTMWPMEIW DGKPRLSVAG VQPKLNLFYN GKEFAFAEGT LSSTHIVKFE
+     KYHHLVINEF ITMRLAKVLG MNVANVDIVH FGRYKALCVE RFDRRNIPGE QRVLRRHIVD
+     SCQALGFSVS KKYERNFGTG RDVKDIREGV SFNRLFSLAA KCRNPVAAKQ DMLQWALFNL
+     LTGNADAHGK NYSFFMTPSG MEPTPWYDLV SVDMYEDFEQ QLAMAIDDEF DPNSIYAYQL
+     AAFMDGLGLP RNLLISNLTR IARRIPQAIA EVILMLPPLD EDEASFVAHY KTQLLARCER
+     YLGFVDEVRD VEV
+//

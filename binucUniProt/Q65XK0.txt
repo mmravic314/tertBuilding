@@ -1,0 +1,199 @@
+ID   ILV5_ORYSJ              Reviewed;         578 AA.
+AC   Q65XK0;
+DT   22-SEP-2009, integrated into UniProtKB/Swiss-Prot.
+DT   25-OCT-2004, sequence version 1.
+DT   24-JUN-2015, entry version 78.
+DE   RecName: Full=Ketol-acid reductoisomerase, chloroplastic;
+DE            EC=1.1.1.86;
+DE   AltName: Full=Acetohydroxy-acid reductoisomerase;
+DE   AltName: Full=Alpha-keto-beta-hydroxylacyl reductoisomerase;
+DE   AltName: Full=Protein KARI;
+DE   Flags: Precursor;
+GN   OrderedLocusNames=Os05g0573700, LOC_Os05g49800;
+GN   ORFNames=OJ1735_C10.18;
+OS   Oryza sativa subsp. japonica (Rice).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae; BOP clade;
+OC   Oryzoideae; Oryzeae; Oryzinae; Oryza.
+OX   NCBI_TaxID=39947;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Nipponbare;
+RX   PubMed=16261349; DOI=10.1007/s00438-005-0039-y;
+RA   Cheng C.-H., Chung M.C., Liu S.-M., Chen S.-K., Kao F.Y., Lin S.-J.,
+RA   Hsiao S.-H., Tseng I.C., Hsing Y.-I.C., Wu H.-P., Chen C.-S.,
+RA   Shaw J.-F., Wu J., Matsumoto T., Sasaki T., Chen H.-C., Chow T.-Y.;
+RT   "A fine physical map of the rice chromosome 5.";
+RL   Mol. Genet. Genomics 274:337-345(2005).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Nipponbare;
+RX   PubMed=16100779; DOI=10.1038/nature03895;
+RG   International rice genome sequencing project (IRGSP);
+RT   "The map-based sequence of the rice genome.";
+RL   Nature 436:793-800(2005).
+RN   [3]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Nipponbare;
+RX   PubMed=18089549; DOI=10.1093/nar/gkm978;
+RG   The rice annotation project (RAP);
+RT   "The rice annotation project database (RAP-DB): 2008 update.";
+RL   Nucleic Acids Res. 36:D1028-D1033(2008).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Nipponbare;
+RX   PubMed=12869764; DOI=10.1126/science.1081288;
+RG   The rice full-length cDNA consortium;
+RT   "Collection, mapping, and annotation of over 28,000 cDNA clones from
+RT   japonica rice.";
+RL   Science 301:376-379(2003).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (1.55 ANGSTROMS) OF 54-578 IN COMPLEX WITH
+RP   MAGNESIUM IONS AND NADPH, AND SUBUNIT.
+RX   PubMed=19362563; DOI=10.1016/j.jmb.2009.04.012;
+RA   Leung E.W.W., Guddat L.W.;
+RT   "Conformational changes in a plant ketol-acid reductoisomerase upon
+RT   Mg(2+) and NADPH binding as revealed by two crystal structures.";
+RL   J. Mol. Biol. 389:167-182(2009).
+CC   -!- CATALYTIC ACTIVITY: (2R)-2,3-dihydroxy-3-methylbutanoate + NADP(+)
+CC       = (2S)-2-hydroxy-2-methyl-3-oxobutanoate + NADPH.
+CC   -!- CATALYTIC ACTIVITY: (2R,3R)-2,3-dihydroxy-3-methylpentanoate +
+CC       NADP(+) = (S)-2-hydroxy-2-ethyl-3-oxobutanoate + NADPH.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC       Note=Binds 2 magnesium ions per subunit.;
+CC   -!- PATHWAY: Amino-acid biosynthesis; L-isoleucine biosynthesis; L-
+CC       isoleucine from 2-oxobutanoate: step 2/4.
+CC   -!- PATHWAY: Amino-acid biosynthesis; L-valine biosynthesis; L-valine
+CC       from pyruvate: step 2/4.
+CC   -!- SUBUNIT: Homodimer. {ECO:0000269|PubMed:19362563}.
+CC   -!- SUBCELLULAR LOCATION: Plastid, chloroplast {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the ketol-acid reductoisomerase family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AC104284; AAU44107.1; -; Genomic_DNA.
+DR   EMBL; AP008211; BAF18298.1; -; Genomic_DNA.
+DR   EMBL; AK065295; -; NOT_ANNOTATED_CDS; mRNA.
+DR   RefSeq; NP_001056384.1; NM_001062919.1.
+DR   UniGene; Os.99904; -.
+DR   PDB; 3FR7; X-ray; 1.55 A; A/B=54-578.
+DR   PDB; 3FR8; X-ray; 2.80 A; A/B=54-578.
+DR   PDBsum; 3FR7; -.
+DR   PDBsum; 3FR8; -.
+DR   ProteinModelPortal; Q65XK0; -.
+DR   STRING; 39947.LOC_Os05g49800.1; -.
+DR   ChEMBL; CHEMBL2366499; -.
+DR   PRIDE; Q65XK0; -.
+DR   EnsemblPlants; OS05T0573700-01; OS05T0573700-01; OS05G0573700.
+DR   GeneID; 4339677; -.
+DR   KEGG; osa:4339677; -.
+DR   Gramene; Q65XK0; -.
+DR   eggNOG; COG0059; -.
+DR   InParanoid; Q65XK0; -.
+DR   KO; K00053; -.
+DR   OMA; NPYMHAR; -.
+DR   BRENDA; 1.1.1.86; 4460.
+DR   UniPathway; UPA00047; UER00056.
+DR   UniPathway; UPA00049; UER00060.
+DR   EvolutionaryTrace; Q65XK0; -.
+DR   Proteomes; UP000000763; Chromosome 5.
+DR   ExpressionAtlas; Q65XK0; baseline.
+DR   GO; GO:0009507; C:chloroplast; IEA:UniProtKB-SubCell.
+DR   GO; GO:0004455; F:ketol-acid reductoisomerase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0000287; F:magnesium ion binding; IDA:UniProtKB.
+DR   GO; GO:0070402; F:NADPH binding; IDA:UniProtKB.
+DR   GO; GO:0042803; F:protein homodimerization activity; IPI:UniProtKB.
+DR   GO; GO:0009097; P:isoleucine biosynthetic process; IEA:UniProtKB-UniPathway.
+DR   GO; GO:0009099; P:valine biosynthetic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 1.10.1040.10; -; 1.
+DR   Gene3D; 3.40.50.720; -; 1.
+DR   InterPro; IPR008927; 6-PGluconate_DH_C-like.
+DR   InterPro; IPR013328; 6PGD_dom_2.
+DR   InterPro; IPR013023; AcH_isomrdctse.
+DR   InterPro; IPR000506; AcH_isomrdctse_C.
+DR   InterPro; IPR013116; IlvN.
+DR   InterPro; IPR016206; KetolA_reductoisomerase_plant.
+DR   InterPro; IPR016040; NAD(P)-bd_dom.
+DR   PANTHER; PTHR21371; PTHR21371; 1.
+DR   Pfam; PF01450; IlvC; 2.
+DR   Pfam; PF07991; IlvN; 1.
+DR   PIRSF; PIRSF000118; Ilv5_plant; 1.
+DR   SUPFAM; SSF48179; SSF48179; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Amino-acid biosynthesis;
+KW   Branched-chain amino acid biosynthesis; Chloroplast;
+KW   Complete proteome; Magnesium; Metal-binding; NADP; Oxidoreductase;
+KW   Plastid; Reference proteome; Transit peptide.
+FT   TRANSIT       1     52       Chloroplast. {ECO:0000255}.
+FT   CHAIN        53    578       Ketol-acid reductoisomerase,
+FT                                chloroplastic.
+FT                                /FTId=PRO_0000383458.
+FT   NP_BIND     111    118       NADP. {ECO:0000269|PubMed:19362563}.
+FT   NP_BIND     144    149       NADP. {ECO:0000269|PubMed:19362563}.
+FT   NP_BIND     183    187       NADP. {ECO:0000269|PubMed:19362563}.
+FT   ACT_SITE    208    208       {ECO:0000255}.
+FT   METAL       297    297       Magnesium 1.
+FT   METAL       297    297       Magnesium 2.
+FT   METAL       301    301       Magnesium 1.
+FT   CONFLICT    173    173       S -> F (in Ref. 4; AK065295).
+FT                                {ECO:0000305}.
+FT   CONFLICT    183    183       S -> L (in Ref. 4; AK065295).
+FT                                {ECO:0000305}.
+FT   STRAND       73     75       {ECO:0000244|PDB:3FR7}.
+FT   STRAND       77     82       {ECO:0000244|PDB:3FR7}.
+FT   STRAND       85     91       {ECO:0000244|PDB:3FR7}.
+FT   HELIX        94     99       {ECO:0000244|PDB:3FR7}.
+FT   HELIX       100    103       {ECO:0000244|PDB:3FR7}.
+FT   TURN        104    106       {ECO:0000244|PDB:3FR7}.
+FT   STRAND      108    113       {ECO:0000244|PDB:3FR7}.
+FT   HELIX       118    132       {ECO:0000244|PDB:3FR7}.
+FT   STRAND      138    143       {ECO:0000244|PDB:3FR7}.
+FT   HELIX       150    155       {ECO:0000244|PDB:3FR7}.
+FT   TURN        160    163       {ECO:0000244|PDB:3FR7}.
+FT   STRAND      165    167       {ECO:0000244|PDB:3FR7}.
+FT   HELIX       168    174       {ECO:0000244|PDB:3FR7}.
+FT   STRAND      176    180       {ECO:0000244|PDB:3FR7}.
+FT   HELIX       184    197       {ECO:0000244|PDB:3FR7}.
+FT   STRAND      203    209       {ECO:0000244|PDB:3FR7}.
+FT   HELIX       210    217       {ECO:0000244|PDB:3FR7}.
+FT   STRAND      226    235       {ECO:0000244|PDB:3FR7}.
+FT   HELIX       237    247       {ECO:0000244|PDB:3FR7}.
+FT   STRAND      257    263       {ECO:0000244|PDB:3FR7}.
+FT   STRAND      265    267       {ECO:0000244|PDB:3FR7}.
+FT   HELIX       269    279       {ECO:0000244|PDB:3FR7}.
+FT   STRAND      283    287       {ECO:0000244|PDB:3FR7}.
+FT   HELIX       290    302       {ECO:0000244|PDB:3FR7}.
+FT   TURN        303    306       {ECO:0000244|PDB:3FR7}.
+FT   HELIX       307    322       {ECO:0000244|PDB:3FR7}.
+FT   HELIX       327    333       {ECO:0000244|PDB:3FR7}.
+FT   HELIX       335    339       {ECO:0000244|PDB:3FR7}.
+FT   HELIX       341    349       {ECO:0000244|PDB:3FR7}.
+FT   HELIX       351    356       {ECO:0000244|PDB:3FR7}.
+FT   HELIX       360    390       {ECO:0000244|PDB:3FR7}.
+FT   HELIX       392    402       {ECO:0000244|PDB:3FR7}.
+FT   HELIX       422    433       {ECO:0000244|PDB:3FR7}.
+FT   HELIX       444    463       {ECO:0000244|PDB:3FR7}.
+FT   HELIX       468    475       {ECO:0000244|PDB:3FR7}.
+FT   HELIX       477    481       {ECO:0000244|PDB:3FR7}.
+FT   HELIX       483    490       {ECO:0000244|PDB:3FR7}.
+FT   HELIX       492    498       {ECO:0000244|PDB:3FR7}.
+FT   HELIX       501    520       {ECO:0000244|PDB:3FR7}.
+FT   HELIX       522    527       {ECO:0000244|PDB:3FR7}.
+FT   HELIX       534    542       {ECO:0000244|PDB:3FR7}.
+FT   HELIX       545    553       {ECO:0000244|PDB:3FR7}.
+FT   STRAND      568    570       {ECO:0000244|PDB:3FR8}.
+SQ   SEQUENCE   578 AA;  62377 MW;  C81C84F7F03F5506 CRC64;
+     MAASTTLALS HPKTLAAAAA AAPKAPTAPA AVSFPVSHAA CAPLAARRRA VTAMVAAPPA
+     VGAAMPSLDF DTSVFNKEKV SLAGHEEYIV RGGRNLFPLL PEAFKGIKQI GVIGWGSQGP
+     AQAQNLRDSL AEAKSDIVVK IGLRKGSKSF DEARAAGFTE ESGTLGDIWE TVSGSDLVLL
+     LISDAAQADN YEKIFSHMKP NSILGLSHGF LLGHLQSAGL DFPKNISVIA VCPKGMGPSV
+     RRLYVQGKEI NGAGINSSFA VHQDVDGRAT DVALGWSVAL GSPFTFATTL EQEYKSDIFG
+     ERGILLGAVH GIVEALFRRY TEQGMDEEMA YKNTVEGITG IISKTISKKG MLEVYNSLTE
+     EGKKEFNKAY SASFYPCMDI LYECYEDVAS GSEIRSVVLA GRRFYEKEGL PAFPMGNIDQ
+     TRMWKVGEKV RSTRPENDLG PLHPFTAGVY VALMMAQIEV LRKKGHSYSE IINESVIESV
+     DSLNPFMHAR GVAFMVDNCS TTARLGSRKW APRFDYILTQ QAFVTVDKDA PINQDLISNF
+     MSDPVHGAIE VCAELRPTVD ISVPANADFV RPELRQSS
+//

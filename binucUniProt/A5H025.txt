@@ -1,0 +1,107 @@
+ID   A5H025_PIG              Unreviewed;       743 AA.
+AC   A5H025;
+DT   12-JUN-2007, integrated into UniProtKB/TrEMBL.
+DT   12-JUN-2007, sequence version 1.
+DT   24-JUN-2015, entry version 55.
+DE   SubName: Full=Ribonuclease L {ECO:0000313|EMBL:ABF55362.1};
+GN   Name=RNASEL {ECO:0000313|EMBL:ABF55362.1};
+OS   Sus scrofa (Pig).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Suina; Suidae;
+OC   Sus.
+OX   NCBI_TaxID=9823 {ECO:0000313|EMBL:ABF55362.1};
+RN   [1] {ECO:0000313|EMBL:ABF55362.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=17822564; DOI=10.1186/1471-2164-8-313;
+RA   Rios J.J., Perelygin A.A., Long M.T., Lear T.L., Zharkikh A.A.,
+RA   Brinton M.A., Adelson D.L.;
+RT   "Characterization of the equine 2'-5' oligoadenylate synthetase 1
+RT   (OAS1) and ribonuclease L (RNASEL) innate immunity genes.";
+RL   BMC Genomics 8:313-313(2007).
+RN   [2] {ECO:0000213|PDB:4O1O, ECO:0000213|PDB:4O1P}
+RP   X-RAY CRYSTALLOGRAPHY (2.50 ANGSTROMS) OF 21-732 IN COMPLEX WITH ATP
+RP   ANALOG AND MAGNESIUM.
+RX   PubMed=24462203;
+RA   Huang H., Zeqiraj E., Dong B., Jha B.K., Duffy N.M., Orlicky S.,
+RA   Thevakumaran N., Talukdar M., Pillon M.C., Ceccarelli D.F., Wan L.C.,
+RA   Juang Y.C., Mao D.Y., Gaughan C., Brinton M.A., Perelygin A.A.,
+RA   Kourinov I., Guarne A., Silverman R.H., Sicheri F.;
+RT   "Dimeric structure of pseudokinase RNase L bound to 2-5A reveals a
+RT   basis for interferon-induced antiviral activity.";
+RL   Mol. Cell 53:221-234(2014).
+CC   -!- SIMILARITY: Contains 8 ANK repeats.
+CC       {ECO:0000256|RuleBase:RU003321}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; DQ497160; ABF55362.1; -; mRNA.
+DR   RefSeq; NP_001090981.1; NM_001097512.1.
+DR   UniGene; Ssc.51931; -.
+DR   PDB; 4O1O; X-ray; 3.27 A; A/B/C/D=21-732.
+DR   PDB; 4O1P; X-ray; 2.50 A; A/B/C/D=21-732.
+DR   PDBsum; 4O1O; -.
+DR   PDBsum; 4O1P; -.
+DR   ProteinModelPortal; A5H025; -.
+DR   SMR; A5H025; 26-303.
+DR   GeneID; 100048946; -.
+DR   KEGG; ssc:100048946; -.
+DR   CTD; 6041; -.
+DR   eggNOG; COG0666; -.
+DR   HOGENOM; HOG000276879; -.
+DR   HOVERGEN; HBG012673; -.
+DR   KO; K01165; -.
+DR   GO; GO:0005524; F:ATP binding; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004672; F:protein kinase activity; IEA:InterPro.
+DR   GO; GO:0004540; F:ribonuclease activity; IEA:InterPro.
+DR   GO; GO:0006397; P:mRNA processing; IEA:InterPro.
+DR   Gene3D; 1.25.40.20; -; 1.
+DR   InterPro; IPR002110; Ankyrin_rpt.
+DR   InterPro; IPR020683; Ankyrin_rpt-contain_dom.
+DR   InterPro; IPR010513; KEN_dom.
+DR   InterPro; IPR011009; Kinase-like_dom.
+DR   InterPro; IPR000719; Prot_kinase_dom.
+DR   InterPro; IPR006567; PUG-dom.
+DR   Pfam; PF12796; Ank_2; 3.
+DR   Pfam; PF00069; Pkinase; 1.
+DR   Pfam; PF06479; Ribonuc_2-5A; 1.
+DR   PRINTS; PR01415; ANKYRIN.
+DR   SMART; SM00248; ANK; 8.
+DR   SMART; SM00580; PUG; 1.
+DR   SUPFAM; SSF48403; SSF48403; 1.
+DR   SUPFAM; SSF56112; SSF56112; 1.
+DR   PROSITE; PS50297; ANK_REP_REGION; 1.
+DR   PROSITE; PS50088; ANK_REPEAT; 6.
+DR   PROSITE; PS51392; KEN; 1.
+DR   PROSITE; PS50011; PROTEIN_KINASE_DOM; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4O1O, ECO:0000213|PDB:4O1P};
+KW   ANK repeat {ECO:0000256|RuleBase:RU003321};
+KW   Magnesium {ECO:0000213|PDB:4O1P};
+KW   Metal-binding {ECO:0000213|PDB:4O1P};
+KW   Nucleotide-binding {ECO:0000213|PDB:4O1P};
+KW   Repeat {ECO:0000256|RuleBase:RU003536}.
+FT   NP_BIND     433    438       ATP analog. {ECO:0000213|PDB:4O1P}.
+FT   NP_BIND     486    487       ATP analog. {ECO:0000213|PDB:4O1P}.
+FT   NP_BIND     500    502       ATP analog. {ECO:0000213|PDB:4O1P}.
+FT   METAL       500    500       Magnesium. {ECO:0000213|PDB:4O1P}.
+FT   METAL       502    502       Magnesium. {ECO:0000213|PDB:4O1P}.
+FT   BINDING     373    373       ATP analog; via amide nitrogen.
+FT                                {ECO:0000213|PDB:4O1P}.
+FT   BINDING     390    390       ATP analog. {ECO:0000213|PDB:4O1P}.
+SQ   SEQUENCE   743 AA;  83984 MW;  CFBB7163785F1C3F CRC64;
+     METKRHNNPQ ETPTPSSDGG ASLEEMLTQA VQEADIEQVR QLLERGADAN FQEEEWGWSP
+     LHSAVQMDSE DLVALLLKHG ADPCLRKRNG ATPFIIAGIT GNVRLLQLLL PNVEDVNECD
+     VNGFTAFMEA AVYGRVEALR FLYENGADVN MHRKTKQDQE RIRKGGATAL MDAAEKGHVG
+     VVTILLHAMK AEVDARDNMG RNALVYALLN PDDGKAKAIT RLLLDHGADV NVRGEGSKTP
+     LILAVERKNL DLVQMLLEQE QIEVNDTDRE GKTALLLAVE LRLEEIAKLL CHRGASTNCG
+     DLVAIARRNY DSDLVKFLRL HKAGEDFRPP AENWKPQSSR WGEALKHLHR IWRPMIGKLK
+     IFIDEEYKIA DTAEGGIYLG LYEDQEVAVK RFSEGSTRGQ QEVSCLQSSR ANDNVVTFYG
+     SESDGSCLHV CLALCEYTLQ EHLANHRGDA VPNEEDESAR NILSSLFKAI GELHRSGYSH
+     QDLQPQNILI DSKNGTFLAD FDKSIKWAED PQKIKRDLEA LGLLVLYVVK KGDISFETLK
+     NQSFEEVIQG SPDEETRDLI HHLFHPGDNV EDRLSSLLAH PFFWSWESRY RTLRDVGNES
+     DIKTRNQNSR ILQLLQPGTS ELSTSFAQWT TKIDSFVMEE MNAYYKKISK KKKAKHTNEG
+     NLYQDTLGDL LKFIRNLGEH INEQKNKKMK SIIGEPSQYF QEKFPDLVMY VYTKLQNTEY
+     MKHFPKTHNP NKLRCDGAGD GQT
+//

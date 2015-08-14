@@ -1,0 +1,46 @@
+ID   Q6Q8Q3_PSEME            Unreviewed;       327 AA.
+AC   Q6Q8Q3;
+DT   05-JUL-2004, integrated into UniProtKB/TrEMBL.
+DT   05-JUL-2004, sequence version 1.
+DT   01-OCT-2014, entry version 44.
+DE   SubName: Full=Beta hydroxylase {ECO:0000313|EMBL:AAS66664.1};
+GN   Name=tmoE {ECO:0000313|EMBL:AAS66664.1};
+OS   Pseudomonas mendocina.
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+OC   Pseudomonadaceae; Pseudomonas.
+OX   NCBI_TaxID=300 {ECO:0000313|EMBL:AAS66664.1};
+RN   [1] {ECO:0000313|EMBL:AAS66664.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=KR1 {ECO:0000313|EMBL:AAS66664.1};
+RX   PubMed=15240250; DOI=10.1128/AEM.70.7.3814-3820.2004;
+RA   Tao Y., Fishman A., Bentley W.E., Wood T.K.;
+RT   "Oxidation of benzene to phenol, catechol, and 1,2,3-trihydroxybenzene
+RT   by toluene 4-monooxygenase of Pseudomonas mendocina KR1 and toluene 3-
+RT   monooxygenase of Ralstonia pickettii PKO1.";
+RL   Appl. Environ. Microbiol. 70:3814-3820(2004).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AY552601; AAS66664.1; -; Genomic_DNA.
+DR   ProteinModelPortal; Q6Q8Q3; -.
+DR   SMR; Q6Q8Q3; 7-304.
+DR   GO; GO:0016709; F:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen; IEA:InterPro.
+DR   GO; GO:0006725; P:cellular aromatic compound metabolic process; IEA:InterPro.
+DR   Gene3D; 1.10.620.20; -; 1.
+DR   InterPro; IPR009078; Ferritin-like_SF.
+DR   InterPro; IPR012078; MP_mOase_hydro.
+DR   InterPro; IPR003430; Phenol_Hydrox.
+DR   InterPro; IPR012348; RNR-rel.
+DR   Pfam; PF02332; Phenol_Hydrox; 1.
+DR   PIRSF; PIRSF000040; MMOH_comp; 1.
+DR   SUPFAM; SSF47240; SSF47240; 1.
+PE   4: Predicted;
+SQ   SEQUENCE   327 AA;  38346 MW;  65D6575FF57E040D CRC64;
+     MSFESKKPMR TWSHLAEMRK KPSEYDIVSR KLHYSTNNPD SPWELSPDSP MNLWYKQYRN
+     ASPLKHDNWD AFTDPDQLVY RTYNLMQDGQ ESYVQSLFDQ FNEREHDQMV REGWEHTMAR
+     CYSPLRYLFH CLQMSSAYVQ QMAPASTISN CCILQTADSL RWLTHTAYRT HELSLTYPDA
+     GLGEHERELW EKEPGWQGLR ELMEKQLTAF DWGEAFVSLN LVVKPMIVES IFKPLQQQAW
+     ENNDTLLPLL IDSQLKDAER HSRWSKALVK HALENPDNHA VIEGWIEKWR PLADRAAEAY
+     LSMLSSDILP AQYLERSTSL RASILTV
+//

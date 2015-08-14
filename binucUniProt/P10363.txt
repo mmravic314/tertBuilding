@@ -1,0 +1,232 @@
+ID   PRI1_YEAST              Reviewed;         409 AA.
+AC   P10363; D6VVT8;
+DT   01-JUL-1989, integrated into UniProtKB/Swiss-Prot.
+DT   01-FEB-1995, sequence version 2.
+DT   22-JUL-2015, entry version 141.
+DE   RecName: Full=DNA primase small subunit;
+DE            EC=2.7.7.-;
+DE   AltName: Full=DNA polymerase alpha:primase complex p48 subunit;
+DE            Short=DNA polymerase-primase complex p48 subunit;
+DE            Short=Pol alpha-primase complex p48 subunit;
+DE   AltName: Full=DNA primase 48 kDa subunit;
+GN   Name=PRI1; OrderedLocusNames=YIR008C; ORFNames=YIB8C;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=559292;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=DBY939;
+RX   PubMed=3313275; DOI=10.1093/nar/15.19.7975;
+RA   Plevani P., Francesconi S., Lucchini G.;
+RT   "The nucleotide sequence of the PRI1 gene related to DNA primase in
+RT   Saccharomyces cerevisiae.";
+RL   Nucleic Acids Res. 15:7975-7989(1987).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=7762303; DOI=10.1002/yea.320110109;
+RA   Voss H., Tamames J., Teodoru C., Valencia A., Sensen C., Wiemann S.,
+RA   Schwager C., Zimmermann J., Sander C., Ansorge W.;
+RT   "Nucleotide sequence and analysis of the centromeric region of yeast
+RT   chromosome IX.";
+RL   Yeast 11:61-78(1995).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=9169870;
+RA   Churcher C.M., Bowman S., Badcock K., Bankier A.T., Brown D.,
+RA   Chillingworth T., Connor R., Devlin K., Gentles S., Hamlin N.,
+RA   Harris D.E., Horsnell T., Hunt S., Jagels K., Jones M., Lye G.,
+RA   Moule S., Odell C., Pearson D., Rajandream M.A., Rice P., Rowley N.,
+RA   Skelton J., Smith V., Walsh S.V., Whitehead S., Barrell B.G.;
+RT   "The nucleotide sequence of Saccharomyces cerevisiae chromosome IX.";
+RL   Nature 387:84-87(1997).
+RN   [4]
+RP   GENOME REANNOTATION.
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=24374639; DOI=10.1534/g3.113.008995;
+RA   Engel S.R., Dietrich F.S., Fisk D.G., Binkley G., Balakrishnan R.,
+RA   Costanzo M.C., Dwight S.S., Hitz B.C., Karra K., Nash R.S., Weng S.,
+RA   Wong E.D., Lloyd P., Skrzypek M.S., Miyasato S.R., Simison M.,
+RA   Cherry J.M.;
+RT   "The reference genome sequence of Saccharomyces cerevisiae: Then and
+RT   now.";
+RL   G3 (Bethesda) 4:389-398(2014).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=17322287; DOI=10.1101/gr.6037607;
+RA   Hu Y., Rolfs A., Bhullar B., Murthy T.V.S., Zhu C., Berger M.F.,
+RA   Camargo A.A., Kelley F., McCarron S., Jepson D., Richardson A.,
+RA   Raphael J., Moreira D., Taycher E., Zuo D., Mohr S., Kane M.F.,
+RA   Williamson J., Simpson A.J.G., Bulyk M.L., Harlow E., Marsischky G.,
+RA   Kolodner R.D., LaBaer J.;
+RT   "Approaching a complete repository of sequence-verified protein-
+RT   encoding clones for Saccharomyces cerevisiae.";
+RL   Genome Res. 17:536-543(2007).
+RN   [6]
+RP   COMPOSITION OF THE DNA POLYMERASE ALPHA:PRIMASE COMPLEX.
+RX   PubMed=3061469; DOI=10.1016/0167-4781(88)90096-6;
+RA   Plevani P., Foiani M., Muzi Falconi M., Pizzagalli A., Santocanale C.,
+RA   Francesconi S., Valsasnini P., Comedini A., Piatti S., Lucchini G.;
+RT   "The yeast DNA polymerase-primase complex: genes and proteins.";
+RL   Biochim. Biophys. Acta 951:268-273(1988).
+RN   [7]
+RP   MUTAGENESIS.
+RX   PubMed=2023935; DOI=10.1073/pnas.88.9.3877;
+RA   Francesconi S., Longhese M.P., Piseri A., Santocanale C., Lucchini G.,
+RA   Plevani P.;
+RT   "Mutations in conserved yeast DNA primase domains impair DNA
+RT   replication in vivo.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 88:3877-3881(1991).
+RN   [8]
+RP   LEVEL OF PROTEIN EXPRESSION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562106; DOI=10.1038/nature02046;
+RA   Ghaemmaghami S., Huh W.-K., Bower K., Howson R.W., Belle A.,
+RA   Dephoure N., O'Shea E.K., Weissman J.S.;
+RT   "Global analysis of protein expression in yeast.";
+RL   Nature 425:737-741(2003).
+CC   -!- FUNCTION: DNA primase is the polymerase that synthesizes small RNA
+CC       primers for the Okazaki fragments made during discontinuous DNA
+CC       replication. In a complex with DNA polymerase alpha (DNA
+CC       polymerase alpha:primase) constitutes a replicative polymerase.
+CC       Both primase components participate in formation of the active
+CC       center, but the ATP-binding site is exclusively located on p48.
+CC   -!- SUBUNIT: DNA polymerase alpha:primase is a four subunit enzyme
+CC       complex, which is assembled throughout the cell cycle, and
+CC       consists of the two DNA polymerase subunits A and B, and the DNA
+CC       primase large and small subunits.
+CC   -!- MISCELLANEOUS: The bound zinc ion is not a cofactor. It is bound
+CC       to a zinc knuckle motif that may be involved in sequence
+CC       recognition and the binding of ssDNA (By similarity).
+CC       {ECO:0000250}.
+CC   -!- MISCELLANEOUS: Present with 197 molecules/cell in log phase SD
+CC       medium. {ECO:0000269|PubMed:14562106}.
+CC   -!- SIMILARITY: Belongs to the eukaryotic-type primase small subunit
+CC       family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; Z37996; CAA86078.1; -; Genomic_DNA.
+DR   EMBL; X79743; CAB38098.1; -; Genomic_DNA.
+DR   EMBL; Y00458; CAA68513.1; -; Genomic_DNA.
+DR   EMBL; AY692859; AAT92878.1; -; Genomic_DNA.
+DR   EMBL; BK006942; DAA08554.1; -; Genomic_DNA.
+DR   PIR; S48352; S48352.
+DR   RefSeq; NP_012273.1; NM_001179530.1.
+DR   PDB; 4LIM; X-ray; 1.63 A; A=8-396.
+DR   PDB; 4MM2; X-ray; 1.60 A; A/B=1-409.
+DR   PDBsum; 4LIM; -.
+DR   PDBsum; 4MM2; -.
+DR   ProteinModelPortal; P10363; -.
+DR   SMR; P10363; 8-403.
+DR   BioGrid; 35000; 146.
+DR   DIP; DIP-2534N; -.
+DR   IntAct; P10363; 6.
+DR   MINT; MINT-572443; -.
+DR   MaxQB; P10363; -.
+DR   PaxDb; P10363; -.
+DR   PeptideAtlas; P10363; -.
+DR   EnsemblFungi; YIR008C; YIR008C; YIR008C.
+DR   GeneID; 854825; -.
+DR   KEGG; sce:YIR008C; -.
+DR   CYGD; YIR008c; -.
+DR   EuPathDB; FungiDB:YIR008C; -.
+DR   SGD; S000001447; PRI1.
+DR   eggNOG; COG1467; -.
+DR   GeneTree; ENSGT00390000011466; -.
+DR   HOGENOM; HOG000196041; -.
+DR   InParanoid; P10363; -.
+DR   KO; K02684; -.
+DR   OMA; VCDPRAR; -.
+DR   OrthoDB; EOG7RJQ25; -.
+DR   BioCyc; YEAST:G3O-31429-MONOMER; -.
+DR   Reactome; REACT_281907; Inhibition of replication initiation of damaged DNA by RB1/E2F1.
+DR   Reactome; REACT_286798; Activation of the pre-replicative complex.
+DR   Reactome; REACT_306878; Removal of the Flap Intermediate.
+DR   Reactome; REACT_324041; DNA replication initiation.
+DR   Reactome; REACT_329876; Polymerase switching.
+DR   Reactome; REACT_343168; Polymerase switching on the C-strand of the telomere.
+DR   Reactome; REACT_351276; Telomere C-strand synthesis initiation.
+DR   Reactome; REACT_353384; Processive synthesis on the lagging strand.
+DR   NextBio; 977680; -.
+DR   PRO; PR:P10363; -.
+DR   Proteomes; UP000002311; Chromosome IX.
+DR   GO; GO:0005658; C:alpha DNA polymerase:primase complex; IDA:SGD.
+DR   GO; GO:0043596; C:nuclear replication fork; IDA:SGD.
+DR   GO; GO:1990077; C:primosome complex; IEA:UniProtKB-KW.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003896; F:DNA primase activity; IMP:SGD.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006260; P:DNA replication; IMP:SGD.
+DR   GO; GO:0006270; P:DNA replication initiation; IC:SGD.
+DR   GO; GO:0006269; P:DNA replication, synthesis of RNA primer; IDA:SGD.
+DR   GO; GO:0006273; P:lagging strand elongation; IC:SGD.
+DR   InterPro; IPR002755; DNA_primase_S.
+DR   InterPro; IPR014052; DNA_primase_ssu_euk/arc.
+DR   PANTHER; PTHR10536; PTHR10536; 1.
+DR   Pfam; PF01896; DNA_primase_S; 1.
+DR   TIGRFAMs; TIGR00335; primase_sml; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; ATP-binding; Complete proteome; DNA replication;
+KW   DNA-directed RNA polymerase; Metal-binding; Nucleotide-binding;
+KW   Nucleotidyltransferase; Primosome; Reference proteome; Transcription;
+KW   Transferase; Zinc.
+FT   CHAIN         1    409       DNA primase small subunit.
+FT                                /FTId=PRO_0000046736.
+FT   MOTIF       123    133       Zinc knuckle motif.
+FT   ACT_SITE     46     46       {ECO:0000255}.
+FT   ACT_SITE    111    111       {ECO:0000255}.
+FT   ACT_SITE    113    113       {ECO:0000255}.
+FT   MUTAGEN     184    184       R->Q: Temperature-sensitive.
+FT                                {ECO:0000269|PubMed:2023935}.
+FT   MUTAGEN     316    316       E->K: Cold-sensitive.
+FT                                {ECO:0000269|PubMed:2023935}.
+FT   CONFLICT    231    232       EQ -> DE (in Ref. 1; CAA68513).
+FT                                {ECO:0000305}.
+FT   HELIX        12     21       {ECO:0000244|PDB:4MM2}.
+FT   HELIX        25     33       {ECO:0000244|PDB:4MM2}.
+FT   STRAND       34     37       {ECO:0000244|PDB:4MM2}.
+FT   HELIX        40     43       {ECO:0000244|PDB:4MM2}.
+FT   STRAND       45     50       {ECO:0000244|PDB:4MM2}.
+FT   STRAND       56     60       {ECO:0000244|PDB:4MM2}.
+FT   HELIX        65     75       {ECO:0000244|PDB:4MM2}.
+FT   STRAND       78     88       {ECO:0000244|PDB:4MM2}.
+FT   HELIX        90     92       {ECO:0000244|PDB:4MM2}.
+FT   STRAND      103    105       {ECO:0000244|PDB:4MM2}.
+FT   STRAND      108    113       {ECO:0000244|PDB:4MM2}.
+FT   HELIX       114    117       {ECO:0000244|PDB:4MM2}.
+FT   TURN        118    120       {ECO:0000244|PDB:4MM2}.
+FT   HELIX       131    150       {ECO:0000244|PDB:4MM2}.
+FT   STRAND      157    161       {ECO:0000244|PDB:4MM2}.
+FT   STRAND      163    171       {ECO:0000244|PDB:4MM2}.
+FT   HELIX       174    177       {ECO:0000244|PDB:4MM2}.
+FT   HELIX       181    191       {ECO:0000244|PDB:4MM2}.
+FT   STRAND      199    201       {ECO:0000244|PDB:4MM2}.
+FT   HELIX       211    220       {ECO:0000244|PDB:4MM2}.
+FT   HELIX       221    223       {ECO:0000244|PDB:4MM2}.
+FT   HELIX       224    227       {ECO:0000244|PDB:4MM2}.
+FT   HELIX       228    232       {ECO:0000244|PDB:4MM2}.
+FT   HELIX       238    244       {ECO:0000244|PDB:4MM2}.
+FT   HELIX       246    248       {ECO:0000244|PDB:4MM2}.
+FT   HELIX       252    264       {ECO:0000244|PDB:4MM2}.
+FT   HELIX       270    285       {ECO:0000244|PDB:4MM2}.
+FT   STRAND      287    289       {ECO:0000244|PDB:4MM2}.
+FT   HELIX       290    309       {ECO:0000244|PDB:4MM2}.
+FT   HELIX       315    319       {ECO:0000244|PDB:4MM2}.
+FT   TURN        333    335       {ECO:0000244|PDB:4MM2}.
+FT   HELIX       348    350       {ECO:0000244|PDB:4MM2}.
+FT   HELIX       354    363       {ECO:0000244|PDB:4MM2}.
+FT   HELIX       367    369       {ECO:0000244|PDB:4LIM}.
+FT   HELIX       373    401       {ECO:0000244|PDB:4MM2}.
+SQ   SEQUENCE   409 AA;  47690 MW;  C4B1C82257AA86F2 CRC64;
+     MTNSVKTNGP SSSDMEYYYK SLYPFKHIFN WLNHSPKPSR DMINREFAMA FRSGAYKRYN
+     SFNSVQDFKA QIEKANPDRF EIGAIYNKPP RERDTLLKSE LKALEKELVF DIDMDDYDAF
+     RTCCSGAQVC SKCWKFISLA MKITNTALRE DFGYKDFIWV FSGRRGAHCW VSDKRARALT
+     DVQRRNVLDY VNVIRDRNTD KRLALKRPYH PHLARSLEQL KPFFVSIMLE EQNPWEDDQH
+     AIQTLLPALY DKQLIDSLKK YWLDNPRRSS KEKWNDIDQI ATSLFKGPKQ DSHIIKLREC
+     KEDLVLMTLY PKLDVEVTKQ TIHLLKAPFC IHPATGNVCV PIDESFAPEK APKLIDLQTE
+     MEKNNDVSLT ALQPFINQFQ AYVSSLLKNE LGSVKRERED DDEPASLDF
+//

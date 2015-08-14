@@ -1,0 +1,329 @@
+ID   AMYA1_ASPOR             Reviewed;         499 AA.
+AC   P0C1B3; P10529; P11763; Q00250; Q2U6K7;
+DT   02-MAY-2006, integrated into UniProtKB/Swiss-Prot.
+DT   02-MAY-2006, sequence version 1.
+DT   22-JUL-2015, entry version 72.
+DE   RecName: Full=Alpha-amylase A type-1/2;
+DE            EC=3.2.1.1;
+DE   AltName: Full=1,4-alpha-D-glucan glucanohydrolase;
+DE   AltName: Full=Taka-amylase A;
+DE            Short=TAA;
+DE   Flags: Precursor;
+GN   Name=amy1; Synonyms=amyI, Taa-G1; ORFNames=AO090023000944;
+GN   and
+GN   Name=amy2; Synonyms=amyII, Taa-G2; ORFNames=AO090120000196;
+OS   Aspergillus oryzae (strain ATCC 42149 / RIB 40) (Yellow koji mold).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=510516;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] (AMY1 AND AMY2).
+RC   STRAIN=DSM 63303;
+RX   PubMed=2785629; DOI=10.1111/j.1365-2958.1989.tb00097.x;
+RA   Wirsel S., Lachmund A., Wildhardt G., Ruttkowski E.;
+RT   "Three alpha-amylase genes of Aspergillus oryzae exhibit identical
+RT   intron-exon organization.";
+RL   Mol. Microbiol. 3:3-14(1989).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=2789162; DOI=10.1016/0378-1119(89)90096-6;
+RA   Genes M.J., Dove M.J., Seligy V.L.;
+RT   "Aspergillus oryzae has two nearly identical Taka-amylase genes, each
+RT   containing eight introns.";
+RL   Gene 79:107-117(1989).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RA   Tada S., Iimura Y., Gomi K., Takahashi K., Hara S., Yoshizawa K.;
+RT   "Cloning and nucleotide sequence of the genomic Taka-amylase A gene of
+RT   Aspergillus oryzae.";
+RL   Agric. Biol. Chem. 53:593-599(1989).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA] (AMY1 AND AMY2).
+RC   STRAIN=ATCC 42149 / RIB 40;
+RX   PubMed=16372010; DOI=10.1038/nature04300;
+RA   Machida M., Asai K., Sano M., Tanaka T., Kumagai T., Terai G.,
+RA   Kusumoto K., Arima T., Akita O., Kashiwagi Y., Abe K., Gomi K.,
+RA   Horiuchi H., Kitamoto K., Kobayashi T., Takeuchi M., Denning D.W.,
+RA   Galagan J.E., Nierman W.C., Yu J., Archer D.B., Bennett J.W.,
+RA   Bhatnagar D., Cleveland T.E., Fedorova N.D., Gotoh O., Horikawa H.,
+RA   Hosoyama A., Ichinomiya M., Igarashi R., Iwashita K., Juvvadi P.R.,
+RA   Kato M., Kato Y., Kin T., Kokubun A., Maeda H., Maeyama N.,
+RA   Maruyama J., Nagasaki H., Nakajima T., Oda K., Okada K., Paulsen I.,
+RA   Sakamoto K., Sawano T., Takahashi M., Takase K., Terabayashi Y.,
+RA   Wortman J.R., Yamada O., Yamagata Y., Anazawa H., Hata Y., Koide Y.,
+RA   Komori T., Koyama Y., Minetoki T., Suharnan S., Tanaka A., Isono K.,
+RA   Kuhara S., Ogasawara N., Kikuchi H.;
+RT   "Genome sequencing and analysis of Aspergillus oryzae.";
+RL   Nature 438:1157-1161(2005).
+RN   [5]
+RP   PROTEIN SEQUENCE OF 22-499.
+RX   DOI=10.2183/pjab.58.208;
+RA   Toda H., Kondo K., Narita K.;
+RT   "The complete amino acid sequence of Taka-amylase A.";
+RL   Proc. Jpn. Acad., B, Phys. Biol. Sci. 58:208-212(1982).
+RN   [6]
+RP   PROTEIN SEQUENCE OF 206-225.
+RX   PubMed=4733850;
+RA   Isemura S., Ikenaka T.;
+RT   "The amino acid sequences of glycopeptides obtained from Taka-amylase
+RT   A with trypsin and chymotrypsin.";
+RL   J. Biochem. 74:1-10(1973).
+RN   [7]
+RP   PROTEIN SEQUENCE OF 434-499.
+RA   Narita K.;
+RT   "Amino acid sequence of the C-terminal sixty-six residues of Taka-
+RT   amylase A.";
+RL   Proc. Jpn. Acad. 51:285-290(1975).
+RN   [8]
+RP   X-RAY CRYSTALLOGRAPHY (3 ANGSTROMS).
+RX   PubMed=6156152;
+RA   Matsuura Y., Kusunoki M., Harada W., Tanaka N., Iga Y., Yasuoka N.,
+RA   Toda H., Narita K., Kakudo M.;
+RT   "Molecular structure of taka-amylase A. I. Backbone chain folding at
+RT   3-A resolution.";
+RL   J. Biochem. 87:1555-1558(1980).
+RN   [9]
+RP   X-RAY CRYSTALLOGRAPHY (3 ANGSTROMS).
+RX   PubMed=6609921;
+RA   Matsuura Y., Kusunoki M., Harada W., Kakudo M.;
+RT   "Structure and possible catalytic residues of Taka-amylase A.";
+RL   J. Biochem. 95:697-702(1984).
+RN   [10]
+RP   X-RAY CRYSTALLOGRAPHY (1.98 ANGSTROMS) IN COMPLEX WITH CALCIUM AND
+RP   ACARBOSE, AND DISULFIDE BONDS.
+RX   PubMed=9283074; DOI=10.1021/bi970539i;
+RA   Brzozowski A.M., Davies G.J.;
+RT   "Structure of the Aspergillus oryzae alpha-amylase complexed with the
+RT   inhibitor acarbose at 2.0-A resolution.";
+RL   Biochemistry 36:10837-10845(1997).
+RN   [11]
+RP   X-RAY CRYSTALLOGRAPHY (1.59 ANGSTROMS) OF 22-499 IN COMPLEX WITH
+RP   MALTOSE AND CALCIUM IONS, GLYCOSYLATION AT ASN-218, AND DISULFIDE
+RP   BONDS.
+RX   PubMed=16880540; DOI=10.1107/S1744309106024729;
+RA   Vujicic-Zagar A., Dijkstra B.W.;
+RT   "Monoclinic crystal form of Aspergillus niger alpha-amylase in complex
+RT   with maltose at 1.8 angstroms resolution.";
+RL   Acta Crystallogr. F 62:716-721(2006).
+CC   -!- CATALYTIC ACTIVITY: Endohydrolysis of (1->4)-alpha-D-glucosidic
+CC       linkages in polysaccharides containing three or more (1->4)-alpha-
+CC       linked D-glucose units.
+CC   -!- COFACTOR:
+CC       Name=Ca(2+); Xref=ChEBI:CHEBI:29108;
+CC       Note=Binds 2 calcium ions per subunit. Calcium is inhibitory at
+CC       high concentrations.;
+CC   -!- SUBUNIT: Monomer. {ECO:0000269|PubMed:16880540,
+CC       ECO:0000269|PubMed:9283074}.
+CC   -!- BIOTECHNOLOGY: Used in the brewing industry to increase the
+CC       fermentability of beer worts (including those made from unmalted
+CC       cereals), in the starch industry to make high maltose and high DE
+CC       syrups (starch saccharification), in the alcohol industry to
+CC       reduce fermentation time, in the cereal food industry for flour
+CC       supplementation and improvement of chilled and frozen dough, and
+CC       in the forestry industry for low-temperature modification of
+CC       starch. Sold under the name Fungamyl by Novozymes.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 13 family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X12725; CAA31218.1; -; Genomic_DNA.
+DR   EMBL; X12726; CAA31219.1; -; Genomic_DNA.
+DR   EMBL; D00434; BAA00336.1; -; Genomic_DNA.
+DR   EMBL; AP007157; BAE59434.1; -; Genomic_DNA.
+DR   EMBL; AP007166; BAE62808.1; -; Genomic_DNA.
+DR   PIR; JK0201; JK0201.
+DR   PIR; JT0466; JT0466.
+DR   PIR; S04548; ALAS1.
+DR   RefSeq; XP_001821436.1; XM_001821384.2.
+DR   RefSeq; XP_001823941.1; XM_001823889.2.
+DR   PDB; 2GUY; X-ray; 1.59 A; A=22-499.
+DR   PDB; 2GVY; X-ray; 1.80 A; A/B=22-499.
+DR   PDB; 2TAA; X-ray; 3.00 A; A/B/C=22-499.
+DR   PDB; 3KWX; X-ray; 2.40 A; A=22-499.
+DR   PDB; 3VX0; X-ray; 1.50 A; A=22-499.
+DR   PDB; 3VX1; X-ray; 2.20 A; A=22-499.
+DR   PDB; 6TAA; X-ray; 2.10 A; A=22-499.
+DR   PDB; 7TAA; X-ray; 1.98 A; A=22-499.
+DR   PDBsum; 2GUY; -.
+DR   PDBsum; 2GVY; -.
+DR   PDBsum; 2TAA; -.
+DR   PDBsum; 3KWX; -.
+DR   PDBsum; 3VX0; -.
+DR   PDBsum; 3VX1; -.
+DR   PDBsum; 6TAA; -.
+DR   PDBsum; 7TAA; -.
+DR   ProteinModelPortal; P0C1B3; -.
+DR   SMR; P0C1B3; 22-497.
+DR   Allergome; 86; Asp o 21.
+DR   CAZy; GH13; Glycoside Hydrolase Family 13.
+DR   UniCarbKB; P0C1B3; -.
+DR   EnsemblFungi; CADAORAT00008024; CADAORAP00007860; CADAORAG00008024.
+DR   EnsemblFungi; CADAORAT00011354; CADAORAP00011123; CADAORAG00011354.
+DR   GeneID; 5993438; -.
+DR   GeneID; 5996200; -.
+DR   KEGG; aor:AOR_1_1668144; -.
+DR   KEGG; aor:AOR_1_336094; -.
+DR   HOGENOM; HOG000165530; -.
+DR   KO; K01176; -.
+DR   OMA; SELYTWI; -.
+DR   OrthoDB; EOG7RBZJ4; -.
+DR   EvolutionaryTrace; P0C1B3; -.
+DR   Proteomes; UP000006564; Chromosome 3.
+DR   Proteomes; UP000006564; Chromosome 5.
+DR   GO; GO:0030428; C:cell septum; IDA:ASPGD.
+DR   GO; GO:0030287; C:cell wall-bounded periplasmic space; IDA:ASPGD.
+DR   GO; GO:0009277; C:fungal-type cell wall; IDA:ASPGD.
+DR   GO; GO:0032163; C:hyphal septin band; IDA:ASPGD.
+DR   GO; GO:0031521; C:spitzenkorper; IDA:ASPGD.
+DR   GO; GO:0004556; F:alpha-amylase activity; IGI:ASPGD.
+DR   GO; GO:0005509; F:calcium ion binding; IEA:InterPro.
+DR   GO; GO:0016052; P:carbohydrate catabolic process; IGI:ASPGD.
+DR   Gene3D; 2.60.40.1180; -; 1.
+DR   Gene3D; 3.20.20.80; -; 1.
+DR   InterPro; IPR015340; A_amylase_DUF1966_C.
+DR   InterPro; IPR006046; Alpha_amylase.
+DR   InterPro; IPR015902; Glyco_hydro_13.
+DR   InterPro; IPR013780; Glyco_hydro_13_b.
+DR   InterPro; IPR006047; Glyco_hydro_13_cat_dom.
+DR   InterPro; IPR006589; Glyco_hydro_13_sub_cat_dom.
+DR   InterPro; IPR013781; Glyco_hydro_catalytic_dom.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   PANTHER; PTHR10357; PTHR10357; 1.
+DR   Pfam; PF00128; Alpha-amylase; 1.
+DR   Pfam; PF09260; DUF1966; 1.
+DR   PRINTS; PR00110; ALPHAAMYLASE.
+DR   SMART; SM00642; Aamy; 1.
+DR   SUPFAM; SSF51445; SSF51445; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Calcium; Carbohydrate metabolism; Complete proteome;
+KW   Direct protein sequencing; Disulfide bond; Glycoprotein; Glycosidase;
+KW   Hydrolase; Metal-binding; Reference proteome; Signal.
+FT   SIGNAL        1     21       {ECO:0000269|Ref.5}.
+FT   CHAIN        22    499       Alpha-amylase A type-1/2.
+FT                                /FTId=PRO_0000001349.
+FT   REGION      230    231       Substrate binding.
+FT   ACT_SITE    227    227       Nucleophile.
+FT   ACT_SITE    251    251       Proton donor.
+FT   METAL       142    142       Calcium 1. {ECO:0000269|PubMed:9283074}.
+FT   METAL       183    183       Calcium 1; via carbonyl oxygen.
+FT                                {ECO:0000269|PubMed:9283074}.
+FT   METAL       196    196       Calcium 1. {ECO:0000269|PubMed:9283074}.
+FT   METAL       227    227       Calcium 2. {ECO:0000269|PubMed:9283074}.
+FT   METAL       231    231       Calcium 1; via carbonyl oxygen.
+FT                                {ECO:0000269|PubMed:9283074}.
+FT   METAL       251    251       Calcium 2. {ECO:0000269|PubMed:9283074}.
+FT   BINDING      56     56       Substrate.
+FT   BINDING     104    104       Substrate.
+FT   BINDING     143    143       Substrate.
+FT   BINDING     225    225       Substrate.
+FT   BINDING     255    255       Substrate; via amide nitrogen.
+FT   BINDING     317    317       Substrate.
+FT   BINDING     365    365       Substrate.
+FT   SITE        318    318       Transition state stabilizer.
+FT   CARBOHYD    218    218       N-linked (GlcNAc...).
+FT                                {ECO:0000269|PubMed:16880540}.
+FT                                /FTId=CAR_000125.
+FT   DISULFID     51     59
+FT   DISULFID    171    185
+FT   DISULFID    261    304
+FT   DISULFID    461    496
+FT   CONFLICT     93     94       TT -> DC (in Ref. 5; AA sequence).
+FT                                {ECO:0000305}.
+FT   CONFLICT    101    101       H -> T (in Ref. 5; AA sequence).
+FT                                {ECO:0000305}.
+FT   CONFLICT    106    106       Q -> T (in Ref. 5; AA sequence).
+FT                                {ECO:0000305}.
+FT   CONFLICT    184    184       D -> Y (in Ref. 3; BAA00336).
+FT                                {ECO:0000305}.
+FT   CONFLICT    195    195       P -> L (in Ref. 3; BAA00336).
+FT                                {ECO:0000305}.
+FT   CONFLICT    255    255       G -> V (in Ref. 3; BAA00336).
+FT                                {ECO:0000305}.
+FT   CONFLICT    345    345       I -> L (in Ref. 5; AA sequence).
+FT                                {ECO:0000305}.
+FT   CONFLICT    406    409       WPIY -> PYI (in Ref. 5; AA sequence).
+FT                                {ECO:0000305}.
+FT   CONFLICT    443    444       Missing (in Ref. 7; AA sequence).
+FT                                {ECO:0000305}.
+FT   CONFLICT    448    448       G -> Q (in Ref. 7; AA sequence).
+FT                                {ECO:0000305}.
+FT   CONFLICT    448    448       G -> S (in Ref. 5; AA sequence).
+FT                                {ECO:0000305}.
+FT   CONFLICT    458    458       V -> VGTTV (in Ref. 7; AA sequence).
+FT                                {ECO:0000305}.
+FT   CONFLICT    465    466       Missing (in Ref. 7; AA sequence).
+FT                                {ECO:0000305}.
+FT   CONFLICT    469    471       DGN -> BGB (in Ref. 7; AA sequence).
+FT                                {ECO:0000305}.
+FT   CONFLICT    497    497       S -> SD (in Ref. 5; AA sequence).
+FT                                {ECO:0000305}.
+FT   HELIX        24     27       {ECO:0000244|PDB:3VX0}.
+FT   STRAND       32     35       {ECO:0000244|PDB:3VX0}.
+FT   HELIX        37     40       {ECO:0000244|PDB:3VX0}.
+FT   HELIX        53     55       {ECO:0000244|PDB:3VX0}.
+FT   HELIX        63     68       {ECO:0000244|PDB:3VX0}.
+FT   HELIX        70     74       {ECO:0000244|PDB:3VX0}.
+FT   TURN         75     77       {ECO:0000244|PDB:3VX0}.
+FT   STRAND       80     83       {ECO:0000244|PDB:3VX0}.
+FT   STRAND       87     89       {ECO:0000244|PDB:3VX0}.
+FT   STRAND      104    111       {ECO:0000244|PDB:3VX0}.
+FT   TURN        113    115       {ECO:0000244|PDB:3VX0}.
+FT   HELIX       118    130       {ECO:0000244|PDB:3VX0}.
+FT   STRAND      134    139       {ECO:0000244|PDB:3VX0}.
+FT   STRAND      146    148       {ECO:0000244|PDB:3VX0}.
+FT   HELIX       150    152       {ECO:0000244|PDB:3VX0}.
+FT   HELIX       155    157       {ECO:0000244|PDB:3VX0}.
+FT   STRAND      158    160       {ECO:0000244|PDB:3VX0}.
+FT   HELIX       164    166       {ECO:0000244|PDB:3VX0}.
+FT   HELIX       176    178       {ECO:0000244|PDB:2TAA}.
+FT   HELIX       179    184       {ECO:0000244|PDB:3VX0}.
+FT   STRAND      185    188       {ECO:0000244|PDB:3VX0}.
+FT   STRAND      190    194       {ECO:0000244|PDB:3VX0}.
+FT   HELIX       202    219       {ECO:0000244|PDB:3VX0}.
+FT   STRAND      223    227       {ECO:0000244|PDB:3VX0}.
+FT   HELIX       229    231       {ECO:0000244|PDB:3VX0}.
+FT   HELIX       234    236       {ECO:0000244|PDB:3VX0}.
+FT   HELIX       237    244       {ECO:0000244|PDB:3VX0}.
+FT   STRAND      246    250       {ECO:0000244|PDB:3VX0}.
+FT   HELIX       257    260       {ECO:0000244|PDB:3VX0}.
+FT   HELIX       261    265       {ECO:0000244|PDB:3VX0}.
+FT   STRAND      267    271       {ECO:0000244|PDB:3VX0}.
+FT   HELIX       273    283       {ECO:0000244|PDB:3VX0}.
+FT   HELIX       290    303       {ECO:0000244|PDB:3VX0}.
+FT   HELIX       307    309       {ECO:0000244|PDB:3VX0}.
+FT   STRAND      310    312       {ECO:0000244|PDB:3VX0}.
+FT   HELIX       322    325       {ECO:0000244|PDB:3VX0}.
+FT   HELIX       329    341       {ECO:0000244|PDB:3VX0}.
+FT   STRAND      342    349       {ECO:0000244|PDB:3VX0}.
+FT   HELIX       352    354       {ECO:0000244|PDB:3VX0}.
+FT   TURN        361    364       {ECO:0000244|PDB:3VX0}.
+FT   HELIX       368    371       {ECO:0000244|PDB:3VX0}.
+FT   STRAND      375    377       {ECO:0000244|PDB:7TAA}.
+FT   HELIX       378    396       {ECO:0000244|PDB:3VX0}.
+FT   TURN        398    402       {ECO:0000244|PDB:3VX0}.
+FT   STRAND      406    410       {ECO:0000244|PDB:3VX0}.
+FT   STRAND      412    421       {ECO:0000244|PDB:3VX0}.
+FT   TURN        422    424       {ECO:0000244|PDB:3VX0}.
+FT   STRAND      426    431       {ECO:0000244|PDB:3VX0}.
+FT   STRAND      440    444       {ECO:0000244|PDB:3VX0}.
+FT   STRAND      454    457       {ECO:0000244|PDB:3VX0}.
+FT   TURN        458    461       {ECO:0000244|PDB:3VX0}.
+FT   STRAND      462    465       {ECO:0000244|PDB:3VX0}.
+FT   STRAND      468    470       {ECO:0000244|PDB:6TAA}.
+FT   STRAND      472    476       {ECO:0000244|PDB:3VX0}.
+FT   STRAND      482    486       {ECO:0000244|PDB:3VX0}.
+FT   HELIX       487    490       {ECO:0000244|PDB:3VX0}.
+FT   STRAND      493    495       {ECO:0000244|PDB:3KWX}.
+SQ   SEQUENCE   499 AA;  54810 MW;  E407AE50DD071B52 CRC64;
+     MMVAWWSLFL YGLQVAAPAL AATPADWRSQ SIYFLLTDRF ARTDGSTTAT CNTADQKYCG
+     GTWQGIIDKL DYIQGMGFTA IWITPVTAQL PQTTAYGDAY HGYWQQDIYS LNENYGTADD
+     LKALSSALHE RGMYLMVDVV ANHMGYDGAG SSVDYSVFKP FSSQDYFHPF CFIQNYEDQT
+     QVEDCWLGDN TVSLPDLDTT KDVVKNEWYD WVGSLVSNYS IDGLRIDTVK HVQKDFWPGY
+     NKAAGVYCIG EVLDGDPAYT CPYQNVMDGV LNYPIYYPLL NAFKSTSGSM DDLYNMINTV
+     KSDCPDSTLL GTFVENHDNP RFASYTNDIA LAKNVAAFII LNDGIPIIYA GQEQHYAGGN
+     DPANREATWL SGYPTDSELY KLIASANAIR NYAISKDTGF VTYKNWPIYK DDTTIAMRKG
+     TDGSQIVTIL SNKGASGDSY TLSLSGAGYT AGQQLTEVIG CTTVTVGSDG NVPVPMAGGL
+     PRVLYPTEKL AGSKICSSS
+//

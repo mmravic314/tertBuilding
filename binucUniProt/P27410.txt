@@ -1,0 +1,418 @@
+ID   POLG_RHDVF              Reviewed;        2344 AA.
+AC   P27410;
+DT   01-AUG-1992, integrated into UniProtKB/Swiss-Prot.
+DT   01-AUG-1992, sequence version 1.
+DT   24-JUN-2015, entry version 113.
+DE   RecName: Full=Genome polyprotein;
+DE   AltName: Full=p254;
+DE   Contains:
+DE     RecName: Full=Protein p16;
+DE   Contains:
+DE     RecName: Full=Protein p23;
+DE   Contains:
+DE     RecName: Full=NTPase;
+DE              EC=3.6.1.15;
+DE     AltName: Full=2C-like protein;
+DE     AltName: Full=P2C;
+DE     AltName: Full=p37;
+DE   Contains:
+DE     RecName: Full=Precursor p41;
+DE   Contains:
+DE     RecName: Full=Protein p29;
+DE   Contains:
+DE     RecName: Full=Protein p23/2;
+DE   Contains:
+DE     RecName: Full=Protein p18;
+DE   Contains:
+DE     RecName: Full=Viral genome-linked protein;
+DE     AltName: Full=VPg;
+DE     AltName: Full=p13;
+DE   Contains:
+DE     RecName: Full=3C-like protease;
+DE              Short=3CLpro;
+DE              EC=3.4.22.66;
+DE     AltName: Full=Calicivirin;
+DE     AltName: Full=Thiol protease P3C;
+DE     AltName: Full=p15;
+DE   Contains:
+DE     RecName: Full=RNA-directed RNA polymerase;
+DE              EC=2.7.7.48;
+DE     AltName: Full=3Dpol;
+DE     AltName: Full=p58;
+DE   Contains:
+DE     RecName: Full=Capsid protein VP60;
+GN   ORFNames=ORF1;
+OS   Rabbit hemorrhagic disease virus (strain Rabbit/Germany/FRG/1989)
+OS   (Ra/LV/RHDV/GH/1989/GE) (RHDV-FRG).
+OC   Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage;
+OC   Caliciviridae; Lagovirus.
+OX   NCBI_TaxID=314536;
+OH   NCBI_TaxID=9986; Oryctolagus cuniculus (Rabbit).
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC RNA].
+RX   PubMed=1840711; DOI=10.1016/0042-6822(91)90436-F;
+RA   Meyers G., Wirblich C., Thiel H.-J.;
+RT   "Rabbit hemorrhagic disease virus -- molecular cloning and nucleotide
+RT   sequencing of a calicivirus genome.";
+RL   Virology 184:664-676(1991).
+RN   [2]
+RP   FUNCTION OF VPG.
+RX   PubMed=1887589; DOI=10.1016/0042-6822(91)90437-G;
+RA   Meyers G., Wirblich C., Thiel H.-J.;
+RT   "Genomic and subgenomic RNAs of rabbit hemorrhagic disease virus are
+RT   both protein-linked and packaged into particles.";
+RL   Virology 184:677-686(1991).
+RN   [3]
+RP   MUTAGENESIS OF HIS-1135; ASP-1152; ASP-1175; CYS-1212 AND HIS-1227.
+RX   PubMed=8083986;
+RA   Boniotti B., Wirblich C., Sibilia M., Meyers G., Thiel H.J., Rossi C.;
+RT   "Identification and characterization of a 3C-like protease from rabbit
+RT   hemorrhagic disease virus, a calicivirus.";
+RL   J. Virol. 68:6487-6495(1994).
+RN   [4]
+RP   PROTEOLYTIC PROCESSING OF POLYPROTEIN.
+RX   PubMed=7474137;
+RA   Wirblich C., Sibilia M., Boniotti M.B., Rossi C., Thiel H.-J.,
+RA   Meyers G.;
+RT   "3C-like protease of rabbit hemorrhagic disease virus: identification
+RT   of cleavage sites in the ORF1 polyprotein and analysis of cleavage
+RT   specificity.";
+RL   J. Virol. 69:7159-7168(1995).
+RN   [5]
+RP   SUBGENOMIC ORIGIN OF VP60.
+RX   PubMed=7637026;
+RA   Sibilia M., Boniotti M.B., Angoscini P., Capucci L., Rossi C.;
+RT   "Two independent pathways of expression lead to self-assembly of the
+RT   rabbit hemorrhagic disease virus capsid protein.";
+RL   J. Virol. 69:5812-5815(1995).
+RN   [6]
+RP   PROTEOLYTIC PROCESSING OF POLYPROTEIN.
+RX   PubMed=9557747;
+RA   Konig M., Thiel H.J., Meyers G.;
+RT   "Detection of viral proteins after infection of cultured hepatocytes
+RT   with rabbit hemorrhagic disease virus.";
+RL   J. Virol. 72:4492-4497(1998).
+RN   [7]
+RP   PROTEOLYTIC PROCESSING OF POLYPROTEIN.
+RX   PubMed=11040126; DOI=10.1006/viro.2000.0545;
+RA   Meyers G., Wirblich C., Thiel H.J., Thumfart J.O.;
+RT   "Rabbit hemorrhagic disease virus: genome organization and polyprotein
+RT   processing of a calicivirus studied after transient expression of cDNA
+RT   constructs.";
+RL   Virology 276:349-363(2000).
+RN   [8]
+RP   PROTEOLYTIC PROCESSING OF POLYPROTEIN.
+RX   PubMed=10644847;
+RA   Joubert P., Pautigny C., Madelaine M.-F., Rasschaert D.;
+RT   "Identification of a new cleavage site of the 3C-like protease of
+RT   rabbit haemorrhagic disease virus.";
+RL   J. Gen. Virol. 81:481-488(2000).
+RN   [9]
+RP   CHARACTERIZATION OF RNA-DIRECTED RNA POLYMERASE.
+RX   PubMed=11266218; DOI=10.1007/s007050170191;
+RA   Lopez Vazquez A.L., Martin Alonso J.M., Parra F.;
+RT   "Characterisation of the RNA-dependent RNA polymerase from Rabbit
+RT   hemorrhagic disease virus produced in Escherichia coli.";
+RL   Arch. Virol. 146:59-69(2001).
+RN   [10]
+RP   PROTEOLYTIC PROCESSING OF POLYPROTEIN.
+RX   PubMed=12504575; DOI=10.1006/viro.2002.1660;
+RA   Thumfart J.O., Meyers G.;
+RT   "Rabbit hemorrhagic disease virus: identification of a cleavage site
+RT   in the viral polyprotein that is not processed by the known
+RT   calicivirus protease.";
+RL   Virology 304:352-363(2002).
+RN   [11]
+RP   FUNCTION OF CAPSID PROTEIN VP60.
+RX   PubMed=15063122; DOI=10.1016/j.virol.2004.01.021;
+RA   Barcena J., Verdaguer N., Roca R., Morales M., Angulo I., Risco C.,
+RA   Carrascosa J.L., Torres J.M., Caston J.R.;
+RT   "The coat protein of Rabbit hemorrhagic disease virus contains a
+RT   molecular switch at the N-terminal region facing the inner surface of
+RT   the capsid.";
+RL   Virology 322:118-134(2004).
+RN   [12]
+RP   X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS) OF 1252-1767.
+RX   PubMed=11677245; DOI=10.1074/jbc.M109261200;
+RA   Ng K.K.S., Cherney M.M., Vazquez A.L., Machin A., Martin-Alonso J.M.,
+RA   Parra F., James M.N.G.;
+RT   "Crystal structures of active and inactive conformations of a
+RT   caliciviral RNA-dependent RNA polymerase.";
+RL   J. Biol. Chem. 277:1381-1387(2002).
+CC   -!- FUNCTION: NTPase presumably plays a role in replication.
+CC       {ECO:0000250}.
+CC   -!- FUNCTION: Viral genome-linked protein is covalently linked to the
+CC       5'-end of the positive-strand, negative-strand genomic RNAs and
+CC       subgenomic RNA. Acts as a genome-linked replication primer. May
+CC       recruit ribosome to viral RNA thereby promoting viral proteins
+CC       translation (By similarity). {ECO:0000250}.
+CC   -!- FUNCTION: 3C-like protease processes the polyprotein: 3CLpro-RdRp
+CC       (p72) is first released by autocleavage, then all other proteins
+CC       are cleaved. {ECO:0000250}.
+CC   -!- FUNCTION: RNA-directed RNA polymerase replicates genomic and
+CC       antigenomic RNA by recognizing replications specific signals.
+CC       Transcribes also a subgenomic mRNA by initiating RNA synthesis
+CC       internally on antigenomic RNA. This sgRNA codes for structural
+CC       proteins. Catalyzes the covalent attachment VPg with viral RNAs
+CC       (By similarity). {ECO:0000255|PROSITE-ProRule:PRU00539}.
+CC   -!- FUNCTION: Capsid protein VP60 self assembles to form an
+CC       icosahedral capsid with a T=3 symmetry, about 35 nm in diameter,
+CC       and consisting of 180 capsid proteins. A smaller form of capsid
+CC       with a diameter of 23 nm might be capsid proteins assembled as
+CC       icosahedron with T=1 symmetry. The capsid encapsulate VP2 proteins
+CC       and genomic or subgenomic RNA. Attaches virion to target cells by
+CC       binding histo-blood group antigens, inducing endocytosis of the
+CC       viral particle. Acidification of the endosome induces
+CC       conformational change of capsid protein thereby injecting virus
+CC       genomic RNA into host cytoplasm (By similarity). {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: NTP + H(2)O = NDP + phosphate.
+CC   -!- CATALYTIC ACTIVITY: Endopeptidase with a preference for cleavage
+CC       when the P1 position is occupied by Glu-|-Xaa and the P1' position
+CC       is occupied by Gly-|-Yaa.
+CC   -!- CATALYTIC ACTIVITY: Nucleoside triphosphate + RNA(n) = diphosphate
+CC       + RNA(n+1). {ECO:0000255|PROSITE-ProRule:PRU00539}.
+CC   -!- SUBUNIT: Binds to histo-blood group antigens at surface of target
+CC       cells. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Capsid protein VP60: Virion. Host cytoplasm
+CC       {ECO:0000250}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative promoter usage; Named isoforms=2;
+CC       Name=Genome polyprotein;
+CC         IsoId=P27410-1; Sequence=Displayed;
+CC         Note=Produced from the genomic RNA.;
+CC       Name=Subgenomic capsid protein VP60; Synonyms=VP1;
+CC         IsoId=P27410-2; Sequence=VSP_034381;
+CC         Note=Produced from the subgenomic RNA.;
+CC   -!- PTM: Specific enzymatic cleavages by its own cysteine protease
+CC       yield mature proteins. The protease cleaves itself from the
+CC       nascent polyprotein autocatalytically. Precursor p41 can be
+CC       cleaved by viral 3CLpro into protein p19 and VPg, or cleaved by
+CC       host protease into protein p23/2 and protein p18.
+CC       {ECO:0000269|PubMed:10644847, ECO:0000269|PubMed:11040126,
+CC       ECO:0000269|PubMed:12504575, ECO:0000269|PubMed:7474137,
+CC       ECO:0000269|PubMed:9557747}.
+CC   -!- PTM: VPg is uridylylated by the polymerase and is covalently
+CC       attached to the 5'-end of the polyadenylated genomic and
+CC       subgenomic RNAs. This uridylylated form acts as a nucleotide-
+CC       peptide primer for the polymerase (By similarity). {ECO:0000250}.
+CC   -!- MISCELLANEOUS: Two differents RNAs lead the expression of the
+CC       capsid protein. One arises from the cleavage of the polyprotein
+CC       translated from the genomic RNA and the other from the translation
+CC       of a subgenomic RNA derived from the (-)RNA template. Capsid
+CC       protein expressed from the subgenomic mRNA is produced in much
+CC       larger amounts than the cleaved one (By similarity).
+CC       {ECO:0000250}.
+CC   -!- SIMILARITY: Contains 1 peptidase C24 domain. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 RdRp catalytic domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00539}.
+CC   -!- SIMILARITY: Contains 1 SF3 helicase domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00551}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M67473; AAA47285.1; -; Genomic_RNA.
+DR   PIR; A41039; RRWWRH.
+DR   RefSeq; NP_062875.1; NC_001543.1.
+DR   PDB; 1KHV; X-ray; 2.50 A; A/B=1252-1767.
+DR   PDB; 1KHW; X-ray; 2.70 A; A/B=1252-1767.
+DR   PDBsum; 1KHV; -.
+DR   PDBsum; 1KHW; -.
+DR   ProteinModelPortal; P27410; -.
+DR   SMR; P27410; 1256-1752.
+DR   GeneID; 1491968; -.
+DR   KEGG; vg:1491968; -.
+DR   BRENDA; 3.4.22.B15; 5265.
+DR   EvolutionaryTrace; P27410; -.
+DR   Proteomes; UP000000413; Genome.
+DR   GO; GO:0030430; C:host cell cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0019028; C:viral capsid; IEA:UniProtKB-KW.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004197; F:cysteine-type endopeptidase activity; IEA:InterPro.
+DR   GO; GO:0003723; F:RNA binding; IEA:InterPro.
+DR   GO; GO:0003724; F:RNA helicase activity; IEA:InterPro.
+DR   GO; GO:0003968; F:RNA-directed RNA polymerase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0018144; P:RNA-protein covalent cross-linking; IEA:UniProtKB-KW.
+DR   GO; GO:0006351; P:transcription, DNA-templated; IEA:InterPro.
+DR   GO; GO:0039694; P:viral RNA genome replication; IEA:InterPro.
+DR   Gene3D; 2.60.120.20; -; 1.
+DR   Gene3D; 3.40.50.300; -; 2.
+DR   InterPro; IPR003593; AAA+_ATPase.
+DR   InterPro; IPR004005; Calicivirus_coat.
+DR   InterPro; IPR004004; Helic/Pol/Pept_Calicivir-typ.
+DR   InterPro; IPR000605; Helicase_SF3_ssDNA/RNA_vir.
+DR   InterPro; IPR014759; Helicase_SF3_ssRNA_vir.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   InterPro; IPR000317; Peptidase_C24.
+DR   InterPro; IPR001205; RNA-dir_pol_C.
+DR   InterPro; IPR007094; RNA-dir_pol_PSvirus.
+DR   InterPro; IPR009003; Trypsin-like_Pept_dom.
+DR   InterPro; IPR029053; Viral_coat.
+DR   Pfam; PF00915; Calici_coat; 1.
+DR   Pfam; PF03510; Peptidase_C24; 1.
+DR   Pfam; PF00680; RdRP_1; 1.
+DR   Pfam; PF00910; RNA_helicase; 1.
+DR   PRINTS; PR00916; 2CENDOPTASE.
+DR   PRINTS; PR00918; CALICVIRUSNS.
+DR   SMART; SM00382; AAA; 1.
+DR   SUPFAM; SSF50494; SSF50494; 1.
+DR   SUPFAM; SSF52540; SSF52540; 1.
+DR   PROSITE; PS50507; RDRP_SSRNA_POS; 1.
+DR   PROSITE; PS51218; SF3_HELICASE_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative promoter usage; ATP-binding; Capsid protein;
+KW   Complete proteome; Covalent protein-RNA linkage; Disulfide bond;
+KW   Helicase; Host cytoplasm; Hydrolase; Nucleotide-binding;
+KW   Nucleotidyltransferase; Phosphoprotein; Protease; Reference proteome;
+KW   RNA-directed RNA polymerase; Thiol protease; Transferase;
+KW   Viral RNA replication; Virion.
+FT   CHAIN         1   2344       Genome polyprotein.
+FT                                /FTId=PRO_0000341645.
+FT   CHAIN         1    143       Protein p16.
+FT                                /FTId=PRO_0000036959.
+FT   CHAIN       144    339       Protein p23.
+FT                                /FTId=PRO_0000036960.
+FT   CHAIN       340    718       NTPase.
+FT                                /FTId=PRO_0000036961.
+FT   CHAIN       719   1108       Precursor p41.
+FT                                /FTId=PRO_0000341646.
+FT   CHAIN       719    993       Protein p29.
+FT                                /FTId=PRO_0000036962.
+FT   CHAIN       719    936       Protein p23/2.
+FT                                /FTId=PRO_0000341647.
+FT   CHAIN       937   1108       Protein p18.
+FT                                /FTId=PRO_0000341648.
+FT   CHAIN       994   1108       Viral genome-linked protein.
+FT                                /FTId=PRO_0000036963.
+FT   CHAIN      1109   1251       3C-like protease.
+FT                                /FTId=PRO_0000036964.
+FT   CHAIN      1252   1767       RNA-directed RNA polymerase.
+FT                                /FTId=PRO_0000036965.
+FT   CHAIN      1768   2344       Capsid protein VP60.
+FT                                /FTId=PRO_0000036967.
+FT   DOMAIN      492    653       SF3 helicase. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00551}.
+FT   DOMAIN     1120   1218       Peptidase C24.
+FT   DOMAIN     1495   1619       RdRp catalytic. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00539}.
+FT   NP_BIND     522    529       ATP. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00551}.
+FT   ACT_SITE   1135   1135       For 3CLpro activity. {ECO:0000250}.
+FT   ACT_SITE   1159   1159       For 3CLpro activity. {ECO:0000250}.
+FT   ACT_SITE   1212   1212       For 3CLpro activity. {ECO:0000250}.
+FT   SITE        143    144       Cleavage; by 3CLpro.
+FT   SITE        339    340       Cleavage; by 3CLpro.
+FT   SITE        718    719       Cleavage; by 3CLpro.
+FT   SITE        936    937       Cleavage; by host.
+FT   SITE        993    994       Cleavage; by 3CLpro.
+FT   SITE       1108   1109       Cleavage; by 3CLpro.
+FT   SITE       1251   1252       Cleavage; by 3CLpro.
+FT   SITE       1767   1768       Cleavage; by 3CLpro.
+FT   MOD_RES    1014   1014       O-(5'-phospho-RNA)-tyrosine.
+FT                                {ECO:0000250}.
+FT   DISULFID   1584   1591
+FT   VAR_SEQ       1   1765       Missing (in isoform Subgenomic capsid
+FT                                protein VP60). {ECO:0000305}.
+FT                                /FTId=VSP_034381.
+FT   MUTAGEN    1135   1135       H->N: Complete loss of 3CLpro activity in
+FT                                vitro. {ECO:0000269|PubMed:8083986}.
+FT   MUTAGEN    1152   1152       D->E: Partial loss of 3CLpro activity in
+FT                                vitro. {ECO:0000269|PubMed:8083986}.
+FT   MUTAGEN    1152   1152       D->G,N: Complete loss of 3CLpro activity
+FT                                in vitro. {ECO:0000269|PubMed:8083986}.
+FT   MUTAGEN    1175   1175       D->G,E: Complete loss of 3CLpro activity
+FT                                in vitro. {ECO:0000269|PubMed:8083986}.
+FT   MUTAGEN    1175   1175       D->N: Partial loss of 3CLpro activity in
+FT                                vitro. {ECO:0000269|PubMed:8083986}.
+FT   MUTAGEN    1212   1212       C->G: Complete loss of 3CLpro activity in
+FT                                vitro. {ECO:0000269|PubMed:8083986}.
+FT   MUTAGEN    1212   1212       C->S: Partial loss of 3CLpro activity in
+FT                                vitro. {ECO:0000269|PubMed:8083986}.
+FT   MUTAGEN    1227   1227       H->L,N: Complete loss of 3CLpro activity
+FT                                in vitro. {ECO:0000269|PubMed:8083986}.
+FT   STRAND     1257   1263       {ECO:0000244|PDB:1KHV}.
+FT   STRAND     1266   1271       {ECO:0000244|PDB:1KHV}.
+FT   STRAND     1282   1287       {ECO:0000244|PDB:1KHV}.
+FT   HELIX      1293   1295       {ECO:0000244|PDB:1KHV}.
+FT   STRAND     1300   1302       {ECO:0000244|PDB:1KHV}.
+FT   HELIX      1305   1307       {ECO:0000244|PDB:1KHV}.
+FT   HELIX      1315   1324       {ECO:0000244|PDB:1KHV}.
+FT   HELIX      1325   1327       {ECO:0000244|PDB:1KHV}.
+FT   HELIX      1337   1353       {ECO:0000244|PDB:1KHV}.
+FT   TURN       1354   1356       {ECO:0000244|PDB:1KHV}.
+FT   HELIX      1364   1370       {ECO:0000244|PDB:1KHV}.
+FT   STRAND     1373   1376       {ECO:0000244|PDB:1KHW}.
+FT   STRAND     1379   1381       {ECO:0000244|PDB:1KHV}.
+FT   HELIX      1385   1387       {ECO:0000244|PDB:1KHV}.
+FT   STRAND     1391   1393       {ECO:0000244|PDB:1KHV}.
+FT   HELIX      1396   1410       {ECO:0000244|PDB:1KHV}.
+FT   STRAND     1418   1423       {ECO:0000244|PDB:1KHV}.
+FT   STRAND     1440   1444       {ECO:0000244|PDB:1KHV}.
+FT   HELIX      1446   1465       {ECO:0000244|PDB:1KHV}.
+FT   TURN       1466   1469       {ECO:0000244|PDB:1KHV}.
+FT   STRAND     1470   1472       {ECO:0000244|PDB:1KHV}.
+FT   HELIX      1482   1493       {ECO:0000244|PDB:1KHV}.
+FT   STRAND     1495   1502       {ECO:0000244|PDB:1KHV}.
+FT   HELIX      1505   1508       {ECO:0000244|PDB:1KHV}.
+FT   HELIX      1511   1522       {ECO:0000244|PDB:1KHV}.
+FT   HELIX      1529   1539       {ECO:0000244|PDB:1KHV}.
+FT   STRAND     1543   1545       {ECO:0000244|PDB:1KHV}.
+FT   STRAND     1547   1551       {ECO:0000244|PDB:1KHV}.
+FT   HELIX      1564   1586       {ECO:0000244|PDB:1KHV}.
+FT   HELIX      1594   1597       {ECO:0000244|PDB:1KHV}.
+FT   STRAND     1600   1603       {ECO:0000244|PDB:1KHV}.
+FT   STRAND     1606   1611       {ECO:0000244|PDB:1KHV}.
+FT   HELIX      1613   1617       {ECO:0000244|PDB:1KHV}.
+FT   HELIX      1619   1628       {ECO:0000244|PDB:1KHV}.
+FT   STRAND     1633   1637       {ECO:0000244|PDB:1KHV}.
+FT   HELIX      1647   1649       {ECO:0000244|PDB:1KHV}.
+FT   STRAND     1655   1660       {ECO:0000244|PDB:1KHV}.
+FT   STRAND     1663   1668       {ECO:0000244|PDB:1KHV}.
+FT   HELIX      1670   1678       {ECO:0000244|PDB:1KHV}.
+FT   STRAND     1679   1689       {ECO:0000244|PDB:1KHV}.
+FT   HELIX      1698   1712       {ECO:0000244|PDB:1KHV}.
+FT   HELIX      1716   1729       {ECO:0000244|PDB:1KHV}.
+FT   TURN       1730   1732       {ECO:0000244|PDB:1KHV}.
+FT   HELIX      1740   1750       {ECO:0000244|PDB:1KHV}.
+SQ   SEQUENCE   2344 AA;  257068 MW;  1454C248F81E9212 CRC64;
+     MAAMSRLTGM TTAILPEKKP LDFFLDLRDK TPPCCIRATG RLAWPVFPGQ NGKEGPLETC
+     NKCGKWLNGF GNFGLEDLGD VCLCSIAQQK HKFGPVCLCN RVYIHDCGRW RRRSRFLKHY
+     KALNKVIPCA YQFDESFPTP IFEGEVDDLF VELGAPTSMG FMDKKLLKKG KKLMDKFVDV
+     DEPCLTSRDT SLLDSIASDN TIRAKLEEEY GVEMVQAARD RKDFMKNLRL ALDNRPANPV
+     TWYTKLGNIT EKGKQWAKKV VYGARKVTDP LKTLASILLV GLHNVIAVDT TVMLSTFKPV
+     NLLAILMDWN NDLTGFITTL VRLLELYGVV QATVNLIIEG VKSFWDKVVC ATDRCFDLLK
+     RLFDTFEDSV PTGPTAGCLI FMAFVFSTVV GYLPNNSVIT TFMKGAGKLT TFAGVVGAIR
+     TLWITINQHM VAKDLTSVQQ KVMTVVKMAN EAATLDQLEI VSCLCSDLET TLTNRCTLPS
+     YNQHLGILNA SQKVISDLHT MVLGKINMTK QRPQPVAVIF KGAPGIGKTY LVHRIARDLG
+     CQHPSTINFG LDHFDSYTGE EVAIADEFNT CGDGESWVEL FIQMVNTNPC PLNCDKAENK
+     NKVFNSKYLL CTTNSNMILN ATHPRAGAFY RRVMIVEARN KAVESWQATR HGSKPGKSCY
+     SKDMSHLTFQ VYPHNMPAPG FVFVGDKLVK SQVTPREYKY SELLDLIKSE HPDVASFEGA
+     NKFNFVYPDA QYDQALLMWK QYFVMYGCVA RLAKNFVDDI PYNQVHISRA SDPKIEGCVE
+     YQCKFQHLWR MVPQFVLGCV NMTNQLGTPL TQQQLDRITN GVEGVTVTTV NNILPFHSQT
+     TLINPSFIKL IWAVRKHLKG LSGVTKVAQF IWRVMTNPVD AYGTLVRTLT GAATFSDDPV
+     STTIICSNCT IQLHSCGGLL VRYSRDPVPV ASDNVDRGDQ GVDVFTDPNL ISGFSWRQIA
+     HLFVEVISHL CANHLVNLAT MAALGAVATK AFQGVKGKTK RGRGARVNLG NDEYDEWQAA
+     RREFVNAHDM TAEEYLAMKN KAAMGSDDQD SIMFRSWWTR RQLRPEEDQV TIVGRSGVRN
+     EVIRTRVRQT PRGPKTLDDG GFYDNDYEGL PGFMRHNGSG WMIHIGNGLY ISNTHTARSS
+     CSEIVTCSPT TDLCLVKGES IRSVAQIAEG TPVCDWKKSP ISTYGIKKTL SDSTKIDVLA
+     YDGCTQTTHG DCGLPLYDSS GKIVAIHTGK LLGFSKMCTL IDLTITKGVY ETSNFFCGEP
+     IDYRGITAHR LVGAEPRPPV SGTRYAKVPG VPDEYKTGYR PANLGRSDPD SDKSLMNIAV
+     KNLQVYQQEP KLDKVDEFIE RAAADVLGYL RFLTKGERQA NLNFKAAFNT LDLSTSCGPF
+     VPGKKIDHVK DGVMDQVLAK HLYKCWSVAN SGKALHHIYA CGLKDELRPL DKVKEGKKRL
+     LWGCDVGVAV CAAAVFHNIC YKLKMVARFG PIAVGVDMTS RDVDVIINNL TSKASDFLCL
+     DYSKWDSTMS PCVVRLAIDI LADCCEQTEL TKSVVLTLKS HPMTILDAMI VQTKRGLPSG
+     MPFTSVINSI CHWLLWSAAV YKSCAEIGLH CSNLYEDAPF YTYGDDGVYA MTPMMVSLLP
+     AIIENLRDYG LSPTAADKTE FIDVCPLNKI SFLKRTFELT DIGWVSKLDK SSILRQLEWS
+     KTTSRHMVIE ETYDLAKEER GVQLEELQVA AAAHGQEFFN FVCRELERQQ AYTQFSVYSY
+     DAARKILADR KRVVSVVPDD EFVNVMEGKA RAAPQGEAAG TATTASVPGT TTDGMDPGVV
+     ATTSVITAEN SSASIATAGI GGPPQQVDQQ ETWRTNFYYN DVFTWSVADA PGSILYTVQH
+     SPQNNPFTAV LSQMYAGWAG GMQFRFIVAG SGVFGGRLVR AVIPPGIEIG PGLEVRQFPH
+     VVIDARSLEP VTITMPDLRP NMYHPTGDPG LVPTLVLSVY NNLINPFGGS TSAIQVTVET
+     RPSEDFEFVM IRAPSSKTVD SISPAGLLTT PVLTGVGNDN RWNGQIVGLQ PVPGGFSTCN
+     RHWNLNGSTY GWSSPRFGDI DHRRGSASYS GSNATNVLQF WYANAGSAID NPISQVAPDG
+     FPDMSFVPFN GPGIPAAGWV GFGAIWNSNS GAPNVTTVQA YELGFATGAP GNLQPTTNTS
+     GAQTVAKSIY AVVTGTAQNP AGLFVMASGI ISTPNASAIT YTPQPDRIVT TPGTPAAAPV
+     GKNTPIMFAS VVRRTGDVNA TAGSANGTQY GTGSQPLPVT IGLSLNNYSS ALMPGQFFVW
+     QLTFASGFME IGLSVDGYFY AGTGASTTLI DLTELIDVRP VGPRPSKSTL VFNLGGTANG
+     FSYV
+//

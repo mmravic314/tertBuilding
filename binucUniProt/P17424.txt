@@ -1,0 +1,170 @@
+ID   RIR4_SALTY              Reviewed;         319 AA.
+AC   P17424;
+DT   01-AUG-1990, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-1994, sequence version 2.
+DT   27-MAY-2015, entry version 129.
+DE   RecName: Full=Ribonucleoside-diphosphate reductase 2 subunit beta;
+DE            EC=1.17.4.1;
+DE   AltName: Full=R2F protein;
+DE   AltName: Full=Ribonucleotide reductase 2;
+GN   Name=nrdF; OrderedLocusNames=STM2808;
+OS   Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Salmonella.
+OX   NCBI_TaxID=99287;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=LT2;
+RX   PubMed=8195103;
+RA   Jordan A., Gibert I., Barbe J.;
+RT   "Cloning and sequencing of the genes from Salmonella typhimurium
+RT   encoding a new bacterial ribonucleotide reductase.";
+RL   J. Bacteriol. 176:3420-3427(1994).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=LT2 / SGSC1412 / ATCC 700720;
+RX   PubMed=11677609; DOI=10.1038/35101614;
+RA   McClelland M., Sanderson K.E., Spieth J., Clifton S.W., Latreille P.,
+RA   Courtney L., Porwollik S., Ali J., Dante M., Du F., Hou S., Layman D.,
+RA   Leonard S., Nguyen C., Scott K., Holmes A., Grewal N., Mulvaney E.,
+RA   Ryan E., Sun H., Florea L., Miller W., Stoneking T., Nhan M.,
+RA   Waterston R., Wilson R.K.;
+RT   "Complete genome sequence of Salmonella enterica serovar Typhimurium
+RT   LT2.";
+RL   Nature 413:852-856(2001).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 219-319.
+RC   STRAIN=LT2;
+RX   PubMed=2691838; DOI=10.1111/j.1365-2958.1989.tb00253.x;
+RA   Stirling D.A., Hulton C.S.J., Waddell L., Park S.F., Stewart G.S.A.B.,
+RA   Booth I.R., Higgins C.F.;
+RT   "Molecular characterization of the proU loci of Salmonella typhimurium
+RT   and Escherichia coli encoding osmoregulated glycine betaine transport
+RT   systems.";
+RL   Mol. Microbiol. 3:1025-1038(1989).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 219-319.
+RX   PubMed=2548994;
+RA   Overdier D.G., Olson E.R., Erickson B.D., Ederer M.M., Csonka L.N.;
+RT   "Nucleotide sequence of the transcriptional control region of the
+RT   osmotically regulated proU operon of Salmonella typhimurium and
+RT   identification of the 5' endpoint of the proU mRNA.";
+RL   J. Bacteriol. 171:4694-4706(1989).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS).
+RX   PubMed=9748343; DOI=10.1021/bi981380s;
+RA   Eriksson M., Jordan A., Eklund H.;
+RT   "Structure of Salmonella typhimurium nrdF ribonucleotide reductase in
+RT   its oxidized and reduced forms.";
+RL   Biochemistry 37:13359-13369(1998).
+CC   -!- FUNCTION: Provides the precursors necessary for DNA synthesis.
+CC       Catalyzes the biosynthesis of deoxyribonucleotides from the
+CC       corresponding ribonucleotides. R2F contains the tyrosyl radical
+CC       required for catalysis.
+CC   -!- CATALYTIC ACTIVITY: 2'-deoxyribonucleoside diphosphate +
+CC       thioredoxin disulfide + H(2)O = ribonucleoside diphosphate +
+CC       thioredoxin. {ECO:0000255|PROSITE-ProRule:PRU10014}.
+CC   -!- COFACTOR:
+CC       Name=Fe cation; Xref=ChEBI:CHEBI:24875;
+CC       Note=Binds 2 iron ions per subunit.;
+CC   -!- PATHWAY: Genetic information processing; DNA replication.
+CC   -!- SUBUNIT: Tetramer of two alpha and two beta subunits.
+CC       {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the ribonucleoside diphosphate reductase
+CC       small chain family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X73226; CAA51695.1; -; Genomic_DNA.
+DR   EMBL; AE006468; AAL21693.1; -; Genomic_DNA.
+DR   EMBL; X52693; CAA36920.1; -; Genomic_DNA.
+DR   EMBL; M26063; AAA88620.1; -; Genomic_DNA.
+DR   PIR; S34272; S34272.
+DR   RefSeq; NP_461734.1; NC_003197.1.
+DR   RefSeq; WP_000777903.1; NC_003197.1.
+DR   PDB; 1R2F; X-ray; 2.10 A; A/B=1-319.
+DR   PDB; 2BQ1; X-ray; 4.00 A; I/J=1-319.
+DR   PDB; 2R2F; X-ray; 2.25 A; A/B=1-319.
+DR   PDBsum; 1R2F; -.
+DR   PDBsum; 2BQ1; -.
+DR   PDBsum; 2R2F; -.
+DR   ProteinModelPortal; P17424; -.
+DR   SMR; P17424; 4-318.
+DR   STRING; 99287.STM2808; -.
+DR   PRIDE; P17424; -.
+DR   EnsemblBacteria; AAL21693; AAL21693; STM2808.
+DR   GeneID; 1254331; -.
+DR   KEGG; stm:STM2808; -.
+DR   PATRIC; 32384298; VBISalEnt20916_2966.
+DR   eggNOG; COG0208; -.
+DR   HOGENOM; HOG000246154; -.
+DR   KO; K00526; -.
+DR   OMA; YYQADEP; -.
+DR   OrthoDB; EOG68DD19; -.
+DR   PhylomeDB; P17424; -.
+DR   BioCyc; MetaCyc:MONOMER-13836; -.
+DR   BioCyc; SENT99287:GCTI-2825-MONOMER; -.
+DR   UniPathway; UPA00326; -.
+DR   EvolutionaryTrace; P17424; -.
+DR   Proteomes; UP000001014; Chromosome.
+DR   GO; GO:0005971; C:ribonucleoside-diphosphate reductase complex; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004748; F:ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor; IEA:UniProtKB-EC.
+DR   GO; GO:0009186; P:deoxyribonucleoside diphosphate metabolic process; IEA:InterPro.
+DR   GO; GO:0009263; P:deoxyribonucleotide biosynthetic process; IEA:InterPro.
+DR   GO; GO:0006260; P:DNA replication; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 1.10.620.20; -; 1.
+DR   InterPro; IPR009078; Ferritin-like_SF.
+DR   InterPro; IPR012348; RNR-rel.
+DR   InterPro; IPR026494; RNR_NrdF.
+DR   InterPro; IPR000358; RNR_small.
+DR   InterPro; IPR030475; RNR_small_AS.
+DR   PANTHER; PTHR23409; PTHR23409; 1.
+DR   Pfam; PF00268; Ribonuc_red_sm; 1.
+DR   PIRSF; PIRSF000355; NrdB; 1.
+DR   SUPFAM; SSF47240; SSF47240; 1.
+DR   TIGRFAMs; TIGR04171; RNR_1b_NrdF; 1.
+DR   PROSITE; PS00368; RIBORED_SMALL; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; DNA replication; Iron; Metal-binding;
+KW   Oxidoreductase; Reference proteome.
+FT   CHAIN         1    319       Ribonucleoside-diphosphate reductase 2
+FT                                subunit beta.
+FT                                /FTId=PRO_0000190489.
+FT   ACT_SITE    105    105       {ECO:0000255|PROSITE-ProRule:PRU10014}.
+FT   METAL        67     67       Iron 1.
+FT   METAL        98     98       Iron 1.
+FT   METAL        98     98       Iron 2.
+FT   METAL       101    101       Iron 1.
+FT   METAL       158    158       Iron 2.
+FT   METAL       192    192       Iron 2.
+FT   METAL       195    195       Iron 2.
+FT   CONFLICT    286    286       L -> V (in Ref. 4; AAA88620).
+FT                                {ECO:0000305}.
+FT   HELIX        17     28       {ECO:0000244|PDB:1R2F}.
+FT   HELIX        33     35       {ECO:0000244|PDB:1R2F}.
+FT   HELIX        38     41       {ECO:0000244|PDB:1R2F}.
+FT   HELIX        42     46       {ECO:0000244|PDB:1R2F}.
+FT   HELIX        50     72       {ECO:0000244|PDB:1R2F}.
+FT   HELIX        74     79       {ECO:0000244|PDB:1R2F}.
+FT   HELIX        85    112       {ECO:0000244|PDB:1R2F}.
+FT   HELIX       115    127       {ECO:0000244|PDB:1R2F}.
+FT   HELIX       129    143       {ECO:0000244|PDB:1R2F}.
+FT   HELIX       147    159       {ECO:0000244|PDB:1R2F}.
+FT   TURN        160    162       {ECO:0000244|PDB:1R2F}.
+FT   HELIX       163    174       {ECO:0000244|PDB:1R2F}.
+FT   HELIX       179    208       {ECO:0000244|PDB:1R2F}.
+FT   HELIX       212    240       {ECO:0000244|PDB:1R2F}.
+FT   TURN        241    244       {ECO:0000244|PDB:1R2F}.
+FT   HELIX       247    264       {ECO:0000244|PDB:1R2F}.
+FT   TURN        273    275       {ECO:0000244|PDB:1R2F}.
+FT   HELIX       280    286       {ECO:0000244|PDB:1R2F}.
+SQ   SEQUENCE   319 AA;  36232 MW;  AFBB6E02A57C959A CRC64;
+     MKLSRISAIN WNKIQDDKDL EVWNRLTSNF WLPEKVPLSN DIPAWQTLSA AEQQLTIRVF
+     TGLTLLDTIQ NIAGAPSLMA DAITPHEEAV LSNISFMEAV HARSYSSIFS TLCQTKEVDA
+     AYAWSEENPP LQRKAQIILA HYVSDEPLKK KIASVFLESF LFYSGFWLPM YFSSRGKLTN
+     TADLIRLIIR DEAVHGYYIG YKYQIALQKL SAIEREELKL FALDLLMELY DNEIRYTEAL
+     YAETGWVNDV KAFLCYNANK ALMNLGYEAL FPPEMADVNP AILAALSPNA DENHDFFSGS
+     GSSYVMGKTV ETEDEDWNF
+//

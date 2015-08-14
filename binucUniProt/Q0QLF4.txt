@@ -1,0 +1,152 @@
+ID   NDFS_EUBBA              Reviewed;         296 AA.
+AC   Q0QLF4;
+DT   08-FEB-2011, integrated into UniProtKB/Swiss-Prot.
+DT   05-SEP-2006, sequence version 1.
+DT   27-MAY-2015, entry version 45.
+DE   RecName: Full=Nicotinate dehydrogenase FAD-subunit {ECO:0000312|EMBL:ABC88396.1};
+DE            Short=NDH {ECO:0000303|PubMed:19549881};
+DE            EC=1.17.1.5;
+DE   AltName: Full=Nicotinic acid hydroxylase FAD-subunit {ECO:0000303|PubMed:8555176};
+DE            Short=NAH {ECO:0000303|PubMed:8555176};
+GN   Name=ndhF;
+OS   Eubacterium barkeri (Clostridium barkeri).
+OC   Bacteria; Firmicutes; Clostridia; Clostridiales; Eubacteriaceae;
+OC   Eubacterium.
+OX   NCBI_TaxID=1528;
+RN   [1] {ECO:0000305, ECO:0000312|EMBL:ABC88396.1}
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND PATHWAY.
+RC   STRAIN=ATCC 25849 / DSM 1223 / JCM 1389 / NCIB 10623
+RC   {ECO:0000312|EMBL:ABC88396.1};
+RX   PubMed=16894175; DOI=10.1073/pnas.0601635103;
+RA   Alhapel A., Darley D.J., Wagener N., Eckel E., Elsner N., Pierik A.J.;
+RT   "Molecular and functional analysis of nicotinate catabolism in
+RT   Eubacterium barkeri.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 103:12341-12346(2006).
+RN   [2] {ECO:0000305}
+RP   PROTEIN SEQUENCE OF 1-25, FUNCTION, CATALYTIC ACTIVITY, COFACTOR,
+RP   BIOPHYSICOCHEMICAL PROPERTIES, ENZYME REGULATION, AND SUBUNIT.
+RC   STRAIN=ATCC 25849 / DSM 1223 / JCM 1389 / NCIB 10623
+RC   {ECO:0000269|PubMed:8555176};
+RX   PubMed=8555176; DOI=10.1021/bi951793i;
+RA   Gladyshev V.N., Khangulov S.V., Stadtman T.C.;
+RT   "Properties of the selenium- and molybdenum-containing nicotinic acid
+RT   hydroxylase from Clostridium barkeri.";
+RL   Biochemistry 35:212-223(1996).
+RN   [3] {ECO:0000305}
+RP   X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) IN COMPLEX WITH FAD; NDHM; NDHS
+RP   AND NDHL, COFACTOR, AND SUBUNIT.
+RC   STRAIN=ATCC 25849 / DSM 1223 / JCM 1389 / NCIB 10623
+RC   {ECO:0000269|PubMed:19549881};
+RX   PubMed=19549881; DOI=10.1073/pnas.0902210106;
+RA   Wagener N., Pierik A.J., Ibdah A., Hille R., Dobbek H.;
+RT   "The Mo-Se active site of nicotinate dehydrogenase.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 106:11055-11060(2009).
+CC   -!- FUNCTION: Catalyzes the hydroxylation of nicotinate to 6-
+CC       hydroxynicotinate. Also active against 2-pyrazinecarboxylic acid,
+CC       but inactive against other nicotinate analogs.
+CC       {ECO:0000269|PubMed:8555176}.
+CC   -!- CATALYTIC ACTIVITY: Nicotinate + H(2)O + NADP(+) = 6-
+CC       hydroxynicotinate + NADPH. {ECO:0000269|PubMed:8555176}.
+CC   -!- COFACTOR:
+CC       Name=FAD; Xref=ChEBI:CHEBI:57692;
+CC         Evidence={ECO:0000269|PubMed:19549881,
+CC         ECO:0000269|PubMed:8555176};
+CC       Note=Binds 1 FAD per subunit. {ECO:0000269|PubMed:19549881,
+CC       ECO:0000269|PubMed:8555176};
+CC   -!- ENZYME REGULATION: Reversibly inactivated by selenide and sulfide.
+CC       Not inhibited by cyanide. {ECO:0000269|PubMed:8555176}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       pH dependence:
+CC         Most stable at pH 8.0. Unstable at acidic pH values.
+CC         {ECO:0000269|PubMed:8555176};
+CC   -!- PATHWAY: Cofactor degradation; nicotinate degradation; 6-
+CC       hydroxynicotinate from nicotinate: step 1/1.
+CC       {ECO:0000269|PubMed:16894175}.
+CC   -!- SUBUNIT: Heterooctamer of NDHM, NDHL, NDHS and NDHF. Dimer of
+CC       heterotetramers. {ECO:0000269|PubMed:19549881,
+CC       ECO:0000269|PubMed:8555176}.
+CC   -!- SIMILARITY: Contains 1 FAD-binding PCMH-type domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00718}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; DQ310789; ABC88396.1; -; Genomic_DNA.
+DR   PDB; 3HRD; X-ray; 2.20 A; C/G=1-296.
+DR   PDBsum; 3HRD; -.
+DR   ProteinModelPortal; Q0QLF4; -.
+DR   DIP; DIP-48911N; -.
+DR   BioCyc; MetaCyc:MONOMER-11707; -.
+DR   UniPathway; UPA01010; UER01011.
+DR   EvolutionaryTrace; Q0QLF4; -.
+DR   GO; GO:0050660; F:flavin adenine dinucleotide binding; IEA:InterPro.
+DR   GO; GO:0050138; F:nicotinate dehydrogenase activity; IDA:UniProtKB.
+DR   GO; GO:0008762; F:UDP-N-acetylmuramate dehydrogenase activity; IEA:InterPro.
+DR   GO; GO:0051187; P:cofactor catabolic process; IDA:UniProtKB.
+DR   Gene3D; 3.30.43.10; -; 1.
+DR   Gene3D; 3.30.465.10; -; 1.
+DR   InterPro; IPR005107; CO_DH_flav_C.
+DR   InterPro; IPR016169; CO_DH_flavot_FAD-bd_sub2.
+DR   InterPro; IPR016166; FAD-bd_2.
+DR   InterPro; IPR016167; FAD-bd_2_sub1.
+DR   InterPro; IPR002346; Mopterin_DH_FAD-bd.
+DR   Pfam; PF03450; CO_deh_flav_C; 1.
+DR   Pfam; PF00941; FAD_binding_5; 1.
+DR   SMART; SM01092; CO_deh_flav_C; 1.
+DR   SUPFAM; SSF55447; SSF55447; 1.
+DR   SUPFAM; SSF56176; SSF56176; 1.
+DR   PROSITE; PS51387; FAD_PCMH; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Direct protein sequencing; FAD; Flavoprotein; NADP;
+KW   Oxidoreductase.
+FT   CHAIN         1    296       Nicotinate dehydrogenase FAD-subunit.
+FT                                /FTId=PRO_0000404245.
+FT   DOMAIN        1    179       FAD-binding PCMH-type.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00718}.
+FT   NP_BIND      29     36       FAD. {ECO:0000269|PubMed:19549881}.
+FT   NP_BIND     110    114       FAD. {ECO:0000269|PubMed:19549881}.
+FT   BINDING     101    101       FAD; via amide nitrogen.
+FT                                {ECO:0000269|PubMed:19549881}.
+FT   BINDING     123    123       FAD. {ECO:0000269|PubMed:19549881}.
+FT   BINDING     160    160       FAD. {ECO:0000269|PubMed:19549881}.
+FT   BINDING     169    169       FAD; via amide nitrogen and carbonyl
+FT                                oxygen. {ECO:0000269|PubMed:19549881}.
+FT   BINDING     187    187       FAD. {ECO:0000269|PubMed:19549881}.
+FT   STRAND        5      7       {ECO:0000244|PDB:3HRD}.
+FT   HELIX        12     21       {ECO:0000244|PDB:3HRD}.
+FT   TURN         22     24       {ECO:0000244|PDB:3HRD}.
+FT   STRAND       28     32       {ECO:0000244|PDB:3HRD}.
+FT   HELIX        36     41       {ECO:0000244|PDB:3HRD}.
+FT   STRAND       48     52       {ECO:0000244|PDB:3HRD}.
+FT   HELIX        57     59       {ECO:0000244|PDB:3HRD}.
+FT   STRAND       62     64       {ECO:0000244|PDB:3HRD}.
+FT   STRAND       66     72       {ECO:0000244|PDB:3HRD}.
+FT   HELIX        77     82       {ECO:0000244|PDB:3HRD}.
+FT   HELIX        84     89       {ECO:0000244|PDB:3HRD}.
+FT   HELIX        91     98       {ECO:0000244|PDB:3HRD}.
+FT   HELIX       103    108       {ECO:0000244|PDB:3HRD}.
+FT   HELIX       111    117       {ECO:0000244|PDB:3HRD}.
+FT   HELIX       123    130       {ECO:0000244|PDB:3HRD}.
+FT   STRAND      134    139       {ECO:0000244|PDB:3HRD}.
+FT   STRAND      142    147       {ECO:0000244|PDB:3HRD}.
+FT   HELIX       148    153       {ECO:0000244|PDB:3HRD}.
+FT   STRAND      156    162       {ECO:0000244|PDB:3HRD}.
+FT   STRAND      168    175       {ECO:0000244|PDB:3HRD}.
+FT   STRAND      181    188       {ECO:0000244|PDB:3HRD}.
+FT   STRAND      190    194       {ECO:0000244|PDB:3HRD}.
+FT   STRAND      198    208       {ECO:0000244|PDB:3HRD}.
+FT   TURN        209    211       {ECO:0000244|PDB:3HRD}.
+FT   STRAND      212    221       {ECO:0000244|PDB:3HRD}.
+FT   STRAND      223    226       {ECO:0000244|PDB:3HRD}.
+FT   HELIX       231    237       {ECO:0000244|PDB:3HRD}.
+FT   HELIX       244    248       {ECO:0000244|PDB:3HRD}.
+FT   HELIX       251    261       {ECO:0000244|PDB:3HRD}.
+FT   TURN        262    264       {ECO:0000244|PDB:3HRD}.
+FT   HELIX       268    290       {ECO:0000244|PDB:3HRD}.
+SQ   SEQUENCE   296 AA;  32622 MW;  B14B447981D8E7FD CRC64;
+     MKDFEFFAPK TLEEAKGLLH QYKDVPPAII AGGTDLVIEI NDRWEKPDVV IDIKKLKELE
+     YIRVEENTIH IGALSTFTQI ENHPFIRSHV RALYKAASQV GSPQIRNLGT IGGNLSTSSV
+     AGDGVSAMTT LDATVVLESV RGTRQMKLTD FFDGEGFKRR NALEADEIMT EVIIDRPDAH
+     SASAFYKLAK RKSLAISVIG GGMAVKVDDA GVCTWASMRG GCIGRYPLHF KQAEEMLVGA
+     PLTMETMEAT LPILHDTVYD MARARPSVLY KKESVQGVFK KLFVDILDQL EGGCNE
+//

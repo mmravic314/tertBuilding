@@ -1,0 +1,194 @@
+ID   HCYA_PANIN              Reviewed;         657 AA.
+AC   P04254;
+DT   20-MAR-1987, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUL-1989, sequence version 2.
+DT   07-JAN-2015, entry version 100.
+DE   RecName: Full=Hemocyanin A chain;
+OS   Panulirus interruptus (California spiny lobster) (Palinurus
+OS   interruptus).
+OC   Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea; Malacostraca;
+OC   Eumalacostraca; Eucarida; Decapoda; Pleocyemata; Achelata;
+OC   Palinuroidea; Palinuridae; Panulirus.
+OX   NCBI_TaxID=6735;
+RN   [1]
+RP   PROTEIN SEQUENCE.
+RA   Bak H.J., Neuteboom B., Jekel P.A., Soeter N.M., Vereijken J.M.,
+RA   Beintema J.J.;
+RT   "Structure of arthropod hemocyanin.";
+RL   FEBS Lett. 204:141-144(1986).
+RN   [2]
+RP   PROTEIN SEQUENCE.
+RX   PubMed=3480218; DOI=10.1111/j.1432-1033.1987.tb13616.x;
+RA   Bak H.J., Beintema J.J.;
+RT   "Panulirus interruptus hemocyanin. The elucidation of the complete
+RT   amino acid sequence of subunit a.";
+RL   Eur. J. Biochem. 169:333-348(1987).
+RN   [3]
+RP   PROTEIN SEQUENCE OF 1-158.
+RX   PubMed=3319611; DOI=10.1111/j.1432-1033.1987.tb13615.x;
+RA   Soeter N.M., Jekel P.A., Beintema J.J., Volbeda A., Hol W.G.J.;
+RT   "Primary and tertiary structures of the first domain of Panulirus
+RT   interruptus hemocyanin and comparison of arthropod hemocyanins.";
+RL   Eur. J. Biochem. 169:323-332(1987).
+RN   [4]
+RP   PROTEIN SEQUENCE OF 160-230.
+RA   Vereijken J.M., de Vlieg J., Beintema J.J.;
+RT   "Panulirus interruptus hemocyanin. The amino-acid sequence of the
+RT   region containing one copper-binding site and the sites susceptible to
+RT   limited proteolysis.";
+RL   Biochim. Biophys. Acta 788:298-305(1984).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (3.2 ANGSTROMS).
+RA   Gaykema W.P.J., Hol W.G.J., Vereijken J.M., Soeter N.M., Bak H.J.,
+RA   Beintema J.J.;
+RT   "3.2-A structure of the copper-containing, oxygen-carrying protein
+RT   Panulirus interruptus haemocyanin.";
+RL   Nature 309:23-29(1984).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (3.2 ANGSTROMS).
+RX   PubMed=2585484; DOI=10.1016/0022-2836(89)90276-3;
+RA   Volbeda A., Hol W.G.J.;
+RT   "Crystal structure of hexameric haemocyanin from Panulirus interruptus
+RT   refined at 3.2-A resolution.";
+RL   J. Mol. Biol. 209:249-279(1989).
+CC   -!- FUNCTION: Hemocyanins are copper-containing oxygen carriers
+CC       occurring freely dissolved in the hemolymph of many mollusks and
+CC       arthropods.
+CC   -!- SUBUNIT: Hexamer of a number of different chains, of which A, B,
+CC       and C have been identified.
+CC   -!- SUBCELLULAR LOCATION: Secreted, extracellular space.
+CC   -!- TISSUE SPECIFICITY: Hemolymph.
+CC   -!- MISCELLANEOUS: The A chain contains two copper-binding sites.
+CC       Three histidine residues are ligands to each copper ion.
+CC   -!- SIMILARITY: Belongs to the tyrosinase family. Hemocyanin
+CC       subfamily. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   PIR; A24183; BHLOA.
+DR   PDB; 1HC1; X-ray; 3.20 A; A/B/C/D/E/F=1-657.
+DR   PDB; 1HCY; X-ray; 3.20 A; A/B/C/D/E/F=1-657.
+DR   PDBsum; 1HC1; -.
+DR   PDBsum; 1HCY; -.
+DR   ProteinModelPortal; P04254; -.
+DR   SMR; P04254; 1-653.
+DR   EvolutionaryTrace; P04254; -.
+DR   GO; GO:0005615; C:extracellular space; IEA:UniProtKB-SubCell.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016491; F:oxidoreductase activity; IEA:InterPro.
+DR   GO; GO:0005344; F:oxygen transporter activity; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.1280.10; -; 1.
+DR   Gene3D; 1.20.1370.10; -; 1.
+DR   Gene3D; 2.60.40.1520; -; 1.
+DR   InterPro; IPR013788; Hemocyanin/hexamerin.
+DR   InterPro; IPR000896; Hemocyanin/hexamerin_mid_dom.
+DR   InterPro; IPR005203; Hemocyanin_C.
+DR   InterPro; IPR005204; Hemocyanin_N.
+DR   InterPro; IPR014756; Ig_E-set.
+DR   InterPro; IPR002227; Tyrosinase_Cu-bd.
+DR   InterPro; IPR008922; Unchr_di-copper_centre.
+DR   PANTHER; PTHR11511; PTHR11511; 1.
+DR   Pfam; PF03723; Hemocyanin_C; 1.
+DR   Pfam; PF00372; Hemocyanin_M; 1.
+DR   Pfam; PF03722; Hemocyanin_N; 1.
+DR   PRINTS; PR00187; HAEMOCYANIN.
+DR   SUPFAM; SSF48050; SSF48050; 1.
+DR   SUPFAM; SSF48056; SSF48056; 1.
+DR   SUPFAM; SSF81296; SSF81296; 1.
+DR   PROSITE; PS00209; HEMOCYANIN_1; 1.
+DR   PROSITE; PS00210; HEMOCYANIN_2; 1.
+DR   PROSITE; PS00498; TYROSINASE_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Copper; Direct protein sequencing; Disulfide bond;
+KW   Glycoprotein; Metal-binding; Oxygen transport; Secreted; Transport.
+FT   CHAIN         1    657       Hemocyanin A chain.
+FT                                /FTId=PRO_0000204291.
+FT   METAL       194    194       Copper A.
+FT   METAL       198    198       Copper A.
+FT   METAL       224    224       Copper A.
+FT   METAL       344    344       Copper B.
+FT   METAL       348    348       Copper B.
+FT   METAL       384    384       Copper B.
+FT   CARBOHYD    167    167       N-linked (GlcNAc...).
+FT   DISULFID     93     98
+FT   DISULFID    483    502
+FT   DISULFID    562    609
+FT   HELIX         8     17       {ECO:0000244|PDB:1HC1}.
+FT   TURN         18     22       {ECO:0000244|PDB:1HC1}.
+FT   HELIX        28     36       {ECO:0000244|PDB:1HC1}.
+FT   STRAND       45     50       {ECO:0000244|PDB:1HC1}.
+FT   HELIX        53     55       {ECO:0000244|PDB:1HC1}.
+FT   HELIX        56     61       {ECO:0000244|PDB:1HC1}.
+FT   STRAND       68     70       {ECO:0000244|PDB:1HC1}.
+FT   HELIX        77     90       {ECO:0000244|PDB:1HC1}.
+FT   STRAND       93     95       {ECO:0000244|PDB:1HC1}.
+FT   HELIX        96    105       {ECO:0000244|PDB:1HC1}.
+FT   TURN        106    109       {ECO:0000244|PDB:1HC1}.
+FT   HELIX       112    125       {ECO:0000244|PDB:1HC1}.
+FT   HELIX       127    129       {ECO:0000244|PDB:1HCY}.
+FT   HELIX       137    140       {ECO:0000244|PDB:1HC1}.
+FT   TURN        142    145       {ECO:0000244|PDB:1HC1}.
+FT   HELIX       148    160       {ECO:0000244|PDB:1HC1}.
+FT   TURN        174    176       {ECO:0000244|PDB:1HCY}.
+FT   HELIX       182    185       {ECO:0000244|PDB:1HC1}.
+FT   HELIX       188    200       {ECO:0000244|PDB:1HC1}.
+FT   STRAND      209    211       {ECO:0000244|PDB:1HC1}.
+FT   HELIX       218    236       {ECO:0000244|PDB:1HC1}.
+FT   TURN        237    239       {ECO:0000244|PDB:1HC1}.
+FT   STRAND      250    252       {ECO:0000244|PDB:1HCY}.
+FT   STRAND      263    265       {ECO:0000244|PDB:1HC1}.
+FT   STRAND      273    275       {ECO:0000244|PDB:1HC1}.
+FT   TURN        281    283       {ECO:0000244|PDB:1HC1}.
+FT   HELIX       286    302       {ECO:0000244|PDB:1HC1}.
+FT   STRAND      303    306       {ECO:0000244|PDB:1HC1}.
+FT   STRAND      308    310       {ECO:0000244|PDB:1HC1}.
+FT   STRAND      312    314       {ECO:0000244|PDB:1HC1}.
+FT   HELIX       320    328       {ECO:0000244|PDB:1HC1}.
+FT   TURN        337    339       {ECO:0000244|PDB:1HC1}.
+FT   HELIX       343    352       {ECO:0000244|PDB:1HC1}.
+FT   HELIX       353    355       {ECO:0000244|PDB:1HC1}.
+FT   HELIX       367    369       {ECO:0000244|PDB:1HC1}.
+FT   TURN        371    373       {ECO:0000244|PDB:1HC1}.
+FT   HELIX       374    376       {ECO:0000244|PDB:1HCY}.
+FT   HELIX       379    395       {ECO:0000244|PDB:1HC1}.
+FT   HELIX       403    406       {ECO:0000244|PDB:1HC1}.
+FT   STRAND      409    420       {ECO:0000244|PDB:1HC1}.
+FT   STRAND      423    426       {ECO:0000244|PDB:1HC1}.
+FT   STRAND      429    432       {ECO:0000244|PDB:1HC1}.
+FT   HELIX       433    436       {ECO:0000244|PDB:1HC1}.
+FT   STRAND      441    443       {ECO:0000244|PDB:1HCY}.
+FT   STRAND      449    452       {ECO:0000244|PDB:1HC1}.
+FT   STRAND      455    457       {ECO:0000244|PDB:1HC1}.
+FT   STRAND      461    468       {ECO:0000244|PDB:1HC1}.
+FT   STRAND      470    472       {ECO:0000244|PDB:1HC1}.
+FT   STRAND      475    483       {ECO:0000244|PDB:1HC1}.
+FT   STRAND      488    490       {ECO:0000244|PDB:1HC1}.
+FT   TURN        497    501       {ECO:0000244|PDB:1HC1}.
+FT   STRAND      503    511       {ECO:0000244|PDB:1HC1}.
+FT   STRAND      517    522       {ECO:0000244|PDB:1HC1}.
+FT   TURN        523    525       {ECO:0000244|PDB:1HC1}.
+FT   HELIX       536    543       {ECO:0000244|PDB:1HC1}.
+FT   STRAND      546    548       {ECO:0000244|PDB:1HC1}.
+FT   STRAND      558    560       {ECO:0000244|PDB:1HC1}.
+FT   STRAND      563    565       {ECO:0000244|PDB:1HC1}.
+FT   HELIX       566    568       {ECO:0000244|PDB:1HC1}.
+FT   STRAND      578    587       {ECO:0000244|PDB:1HC1}.
+FT   HELIX       589    592       {ECO:0000244|PDB:1HC1}.
+FT   TURN        622    627       {ECO:0000244|PDB:1HC1}.
+FT   TURN        633    635       {ECO:0000244|PDB:1HC1}.
+FT   HELIX       636    638       {ECO:0000244|PDB:1HC1}.
+FT   STRAND      642    651       {ECO:0000244|PDB:1HC1}.
+SQ   SEQUENCE   657 AA;  75696 MW;  FB5520EDD2667D85 CRC64;
+     DALGTGNAQK QQDINHLLDK IYEPTKYPDL KEIAENFNPL GDTSIYNDHG AAVETLMKEL
+     NDHRLLEQRH WYSLFNTRQR KEALMLFAVL NQCKEWYCFR SNAAYFRERM NEGEFVYALY
+     VSVIHSKLGD GIVLPPLYQI TPHMFTNSEV IDKAYSAKMT QKQGTFNVSF TGTKKNREQR
+     VAYFGEDIGM NIHHVTWHMD FPFWWEDSYG YHLDRKGELF FWVHHQLTAR FDFERLSNWL
+     DPVDELHWDR IIREGFAPLT SYKYGGEFPV RPDNIHFEDV DGVAHVHDLE ITESRIHEAI
+     DHGYITDSDG HTIDIRQPKG IELLGDIIES SKYSSNVQYY GSLHNTAHVM LGRQGDPHGK
+     FNLPPGVMEH FETATRDPSF FRLHKYMDNI FKKHTDSFPP YTHDNLEFSG MVVNGVAIDG
+     ELITFFDEFQ YSLINAVDSG ENIEDVEINA RVHRLNHKEF TYKITMSNNN DGERLATFRI
+     FLCPIEDNNG ITLTLDEARW FCIELDKFFQ KVPKGPETIE RSSKDSSVTV PDMPSFQSLK
+     EQADNAVNGG HDLDLSAYER SCGIPDRMLL PKSKPEGMEF NLYVAVTDGD KDTEGHNGGH
+     DYGGTHAQCG VHGEAYPDNR PLGYPLERRI PDERVIDGVS NIKHVVVKIV HHLEHHD
+//

@@ -1,0 +1,183 @@
+ID   DIRL1_ARATH             Reviewed;         102 AA.
+AC   Q8W453; Q8LEU7;
+DT   30-NOV-2010, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAR-2002, sequence version 1.
+DT   24-JUN-2015, entry version 86.
+DE   RecName: Full=Putative lipid-transfer protein DIR1;
+DE   AltName: Full=Protein DEFECTIVE IN INDUCED RESISTANCE 1;
+DE   Flags: Precursor;
+GN   Name=DIR1; OrderedLocusNames=At5g48485; ORFNames=MJE7;
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], FUNCTION, AND DISRUPTION PHENOTYPE.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=12353036; DOI=10.1038/nature00962;
+RA   Maldonado A.M., Doerner P., Dixon R.A., Lamb C.J., Cameron R.K.;
+RT   "A putative lipid transfer protein involved in systemic resistance
+RT   signalling in Arabidopsis.";
+RL   Nature 419:399-403(2002).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=10718197; DOI=10.1093/dnares/7.1.31;
+RA   Sato S., Nakamura Y., Kaneko T., Katoh T., Asamizu E., Kotani H.,
+RA   Tabata S.;
+RT   "Structural analysis of Arabidopsis thaliana chromosome 5. X. Sequence
+RT   features of the regions of 3,076,755 bp covered by sixty P1 and TAC
+RT   clones.";
+RL   DNA Res. 7:31-63(2000).
+RN   [3]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RG   The Arabidopsis Information Resource (TAIR);
+RL   Submitted (APR-2011) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=14593172; DOI=10.1126/science.1088305;
+RA   Yamada K., Lim J., Dale J.M., Chen H., Shinn P., Palm C.J.,
+RA   Southwick A.M., Wu H.C., Kim C.J., Nguyen M., Pham P.K., Cheuk R.F.,
+RA   Karlin-Newmann G., Liu S.X., Lam B., Sakano H., Wu T., Yu G.,
+RA   Miranda M., Quach H.L., Tripp M., Chang C.H., Lee J.M., Toriumi M.J.,
+RA   Chan M.M., Tang C.C., Onodera C.S., Deng J.M., Akiyama K., Ansari Y.,
+RA   Arakawa T., Banh J., Banno F., Bowser L., Brooks S.Y., Carninci P.,
+RA   Chao Q., Choy N., Enju A., Goldsmith A.D., Gurjal M., Hansen N.F.,
+RA   Hayashizaki Y., Johnson-Hopson C., Hsuan V.W., Iida K., Karnes M.,
+RA   Khan S., Koesema E., Ishida J., Jiang P.X., Jones T., Kawai J.,
+RA   Kamiya A., Meyers C., Nakajima M., Narusaka M., Seki M., Sakurai T.,
+RA   Satou M., Tamse R., Vaysberg M., Wallender E.K., Wong C., Yamamura Y.,
+RA   Yuan S., Shinozaki K., Davis R.W., Theologis A., Ecker J.R.;
+RT   "Empirical analysis of transcriptional activity in the Arabidopsis
+RT   genome.";
+RL   Science 302:842-846(2003).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RA   Brover V.V., Troukhan M.E., Alexandrov N.A., Lu Y.-P., Flavell R.B.,
+RA   Feldmann K.A.;
+RT   "Full-length cDNA from Arabidopsis thaliana.";
+RL   Submitted (MAR-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   FUNCTION, DISRUPTION PHENOTYPE, INDUCTION BY GLYCEROL-3-PHOSPHATE,
+RP   SUBCELLULAR LOCATION, INTERACTION WITH AZI1, AND SUBUNIT.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=23602565; DOI=10.1016/j.celrep.2013.03.030;
+RA   Yu K., Soares J.M., Mandal M.K., Wang C., Chanda B., Gifford A.N.,
+RA   Fowler J.S., Navarre D., Kachroo A., Kachroo P.;
+RT   "A feedback regulatory loop between G3P and lipid transfer proteins
+RT   DIR1 and AZI1 mediates azelaic-acid-induced systemic immunity.";
+RL   Cell Rep. 3:1266-1278(2013).
+RN   [7]
+RP   X-RAY CRYSTALLOGRAPHY (1.60 ANGSTROMS) OF 26-102 IN COMPLEX WITH FATTY
+RP   ACID ANALOG AND ZINC IONS, AND DISULFIDE BONDS.
+RX   PubMed=18552128; DOI=10.1110/ps.035972.108;
+RA   Lascombe M.B., Bakan B., Buhot N., Marion D., Blein J.P., Larue V.,
+RA   Lamb C., Prange T.;
+RT   "The structure of 'defective in induced resistance' protein of
+RT   Arabidopsis thaliana, DIR1, reveals a new type of lipid transfer
+RT   protein.";
+RL   Protein Sci. 17:1522-1530(2008).
+CC   -!- FUNCTION: Putative lipid transfer protein required for systemic
+CC       acquired resistance (SAR) long distance signaling. May interact
+CC       with a lipid-derived molecule to promote long distance signaling
+CC       associated with SAR. Together with AZI1, required for glycerol-3-
+CC       phosphate- (G3P) and azelaic acid- (AA) induced systemic acquired
+CC       resistance (SAR). Component of plant systemic immunity involved in
+CC       priming defenses in a AA-dependent manner, by modulating
+CC       production and/or translocation of a mobile signal(s) during SAR.
+CC       {ECO:0000269|PubMed:12353036, ECO:0000269|PubMed:23602565}.
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC       Note=Binds 1 zinc ion per subunit.;
+CC   -!- SUBUNIT: Self-interacts and binds to AZI1.
+CC       {ECO:0000269|PubMed:18552128, ECO:0000269|PubMed:23602565}.
+CC   -!- SUBCELLULAR LOCATION: Secreted, extracellular space, apoplast
+CC       {ECO:0000305}. Endoplasmic reticulum
+CC       {ECO:0000269|PubMed:23602565}. Cell junction, plasmodesma
+CC       {ECO:0000269|PubMed:23602565}.
+CC   -!- INDUCTION: Induced by glycerol-3-phosphate (G3P).
+CC       {ECO:0000269|PubMed:23602565}.
+CC   -!- DISRUPTION PHENOTYPE: No visible phenotype under normal growth
+CC       condition, but compromised pathogen-induced glycerol-3-phosphate-
+CC       (G3P) and azelaic acid- (AA) dependent systemic acquired
+CC       resistance (SAR). {ECO:0000269|PubMed:12353036,
+CC       ECO:0000269|PubMed:23602565}.
+CC   -!- SIMILARITY: Belongs to the A9/FIL1 family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF342726; AAL76110.1; -; Genomic_DNA.
+DR   EMBL; AB020745; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CP002688; AED95676.1; -; Genomic_DNA.
+DR   EMBL; AY062857; AAL32935.1; -; mRNA.
+DR   EMBL; BT006510; AAP21318.1; -; mRNA.
+DR   EMBL; AY085224; AAM62457.1; -; mRNA.
+DR   RefSeq; NP_568699.1; NM_124224.2.
+DR   UniGene; At.27209; -.
+DR   PDB; 2RKN; X-ray; 1.60 A; A=26-102.
+DR   PDBsum; 2RKN; -.
+DR   ProteinModelPortal; Q8W453; -.
+DR   SMR; Q8W453; 26-102.
+DR   BioGrid; 20150; 1.
+DR   STRING; 3702.AT5G48485.1; -.
+DR   PaxDb; Q8W453; -.
+DR   PRIDE; Q8W453; -.
+DR   EnsemblPlants; AT5G48485.1; AT5G48485.1; AT5G48485.
+DR   GeneID; 834904; -.
+DR   KEGG; ath:AT5G48485; -.
+DR   TAIR; AT5G48485; -.
+DR   eggNOG; NOG297830; -.
+DR   HOGENOM; HOG000242259; -.
+DR   InParanoid; Q8W453; -.
+DR   OMA; APSEACC; -.
+DR   PhylomeDB; Q8W453; -.
+DR   EvolutionaryTrace; Q8W453; -.
+DR   PRO; PR:Q8W453; -.
+DR   Proteomes; UP000006548; Chromosome 5.
+DR   GO; GO:0048046; C:apoplast; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005783; C:endoplasmic reticulum; IDA:UniProtKB.
+DR   GO; GO:0009506; C:plasmodesma; IDA:UniProtKB.
+DR   GO; GO:0005504; F:fatty acid binding; IDA:UniProtKB.
+DR   GO; GO:0043621; F:protein self-association; IDA:UniProtKB.
+DR   GO; GO:0008270; F:zinc ion binding; IDA:UniProtKB.
+DR   GO; GO:0006869; P:lipid transport; IEA:UniProtKB-KW.
+DR   GO; GO:0009862; P:systemic acquired resistance, salicylic acid mediated signaling pathway; IMP:UniProtKB.
+DR   InterPro; IPR016140; Bifunc_inhib/LTP/seed_store.
+DR   Pfam; PF14368; LTP_2; 1.
+DR   SMART; SM00499; AAI; 1.
+DR   SUPFAM; SSF47699; SSF47699; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Apoplast; Cell junction; Complete proteome;
+KW   Disulfide bond; Endoplasmic reticulum; Lipid transport; Lipid-binding;
+KW   Metal-binding; Plant defense; Reference proteome; Secreted; Signal;
+KW   Transport; Zinc.
+FT   SIGNAL        1     25       {ECO:0000255}.
+FT   CHAIN        26    102       Putative lipid-transfer protein DIR1.
+FT                                /FTId=PRO_0000401376.
+FT   METAL        36     36       Zinc.
+FT   METAL        62     62       Zinc.
+FT   BINDING      34     34       Fatty acid.
+FT   BINDING      38     38       Fatty acid.
+FT   DISULFID     30     67       {ECO:0000269|PubMed:18552128}.
+FT   DISULFID     40     56       {ECO:0000269|PubMed:18552128}.
+FT   DISULFID     57     94       {ECO:0000269|PubMed:18552128}.
+FT   DISULFID     69    102       {ECO:0000269|PubMed:18552128}.
+FT   CONFLICT      9      9       V -> A (in Ref. 5; AAM62457).
+FT                                {ECO:0000305}.
+FT   HELIX        34     40       {ECO:0000244|PDB:2RKN}.
+FT   HELIX        41     44       {ECO:0000244|PDB:2RKN}.
+FT   STRAND       45     48       {ECO:0000244|PDB:2RKN}.
+FT   HELIX        54     60       {ECO:0000244|PDB:2RKN}.
+FT   HELIX        65     69       {ECO:0000244|PDB:2RKN}.
+FT   TURN         70     73       {ECO:0000244|PDB:2RKN}.
+FT   HELIX        75     80       {ECO:0000244|PDB:2RKN}.
+FT   HELIX        84     93       {ECO:0000244|PDB:2RKN}.
+SQ   SEQUENCE   102 AA;  10702 MW;  297614408B34EB32 CRC64;
+     MASKKAAMVM MAMIVIMAML VDTSVAIDLC GMSQDELNEC KPAVSKENPT SPSQPCCTAL
+     QHADFACLCG YKNSPWLGSF GVDPELASAL PKQCGLANAP TC
+//

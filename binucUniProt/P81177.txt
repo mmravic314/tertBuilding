@@ -1,0 +1,144 @@
+ID   AURE_STAAU              Reviewed;         509 AA.
+AC   P81177; Q9R2Z8;
+DT   15-JUL-1998, integrated into UniProtKB/Swiss-Prot.
+DT   01-DEC-2000, sequence version 2.
+DT   22-JUL-2015, entry version 90.
+DE   RecName: Full=Zinc metalloproteinase aureolysin;
+DE            EC=3.4.24.29;
+DE   AltName: Full=Staphylococcus aureus neutral proteinase;
+DE   Flags: Precursor;
+GN   Name=aur;
+OS   Staphylococcus aureus.
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcus.
+OX   NCBI_TaxID=1280;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=022, and V8-BC10;
+RX   PubMed=10639475; DOI=10.1128/IAI.68.2.973-976.2000;
+RA   Sabat A., Kosowska K., Poulsen K., Kasprowicz A., Sekowska A.,
+RA   van Den Burg B., Travis J., Potempa J.;
+RT   "Two allelic forms of the aureolysin gene (aur) within Staphylococcus
+RT   aureus.";
+RL   Infect. Immun. 68:973-976(2000).
+RN   [2]
+RP   PROTEIN SEQUENCE OF 210-509, AND X-RAY CRYSTALLOGRAPHY (1.72
+RP   ANGSTROMS).
+RC   STRAIN=ATCC 27733 / V8;
+RX   PubMed=9753696; DOI=10.1016/S0969-2126(98)00118-X;
+RA   Banbula A., Potempa J., Travis J., Fernandez-Catalan C., Mann K.,
+RA   Huber R., Bode W., Medrano F.J.;
+RT   "Amino-acid sequence and three-dimensional structure of the
+RT   Staphylococcus aureus metalloproteinase at 1.72-A resolution.";
+RL   Structure 6:1185-1193(1998).
+CC   -!- CATALYTIC ACTIVITY: Cleavage of insulin B chain with specificity
+CC       similar to that of thermolysin, preferring hydrophobic P1'
+CC       residues. Activates the glutamyl endopeptidase (EC 3.4.21.19) of
+CC       Staphylococcus aureus.
+CC   -!- COFACTOR:
+CC       Name=Ca(2+); Xref=ChEBI:CHEBI:29108;
+CC       Note=Binds 3 Ca(2+) ions per subunit.;
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC       Note=Binds 1 zinc ion per subunit.;
+CC   -!- SIMILARITY: Belongs to the peptidase M4 family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AJ249166; CAB59567.1; -; Genomic_DNA.
+DR   EMBL; AJ249167; CAB59568.1; -; Genomic_DNA.
+DR   RefSeq; WP_001225040.1; NZ_LN626917.1.
+DR   PDB; 1BQB; X-ray; 1.72 A; A=209-509.
+DR   PDBsum; 1BQB; -.
+DR   ProteinModelPortal; P81177; -.
+DR   SMR; P81177; 209-509.
+DR   MEROPS; M04.009; -.
+DR   eggNOG; COG3227; -.
+DR   EvolutionaryTrace; P81177; -.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004222; F:metalloendopeptidase activity; IEA:InterPro.
+DR   Gene3D; 3.10.170.10; -; 1.
+DR   InterPro; IPR011096; FTP_domain.
+DR   InterPro; IPR025711; PepSY.
+DR   InterPro; IPR023612; Peptidase_M4.
+DR   InterPro; IPR001570; Peptidase_M4_C_domain.
+DR   InterPro; IPR013856; Peptidase_M4_domain.
+DR   Pfam; PF07504; FTP; 1.
+DR   Pfam; PF03413; PepSY; 1.
+DR   Pfam; PF01447; Peptidase_M4; 1.
+DR   Pfam; PF02868; Peptidase_M4_C; 1.
+DR   PRINTS; PR00730; THERMOLYSIN.
+DR   PROSITE; PS00142; ZINC_PROTEASE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Calcium; Direct protein sequencing; Hydrolase;
+KW   Metal-binding; Metalloprotease; Protease; Signal; Zinc; Zymogen.
+FT   SIGNAL        1     27       {ECO:0000255}.
+FT   PROPEP       28    209       {ECO:0000269|PubMed:9753696}.
+FT                                /FTId=PRO_0000028614.
+FT   CHAIN       210    509       Zinc metalloproteinase aureolysin.
+FT                                /FTId=PRO_0000028615.
+FT   ACT_SITE    353    353
+FT   ACT_SITE    436    436       Proton donor.
+FT   METAL       348    348       Calcium 1.
+FT   METAL       352    352       Zinc; catalytic.
+FT   METAL       356    356       Zinc; catalytic.
+FT   METAL       376    376       Zinc; catalytic.
+FT   METAL       387    387       Calcium 1.
+FT   METAL       387    387       Calcium 2.
+FT   METAL       389    389       Calcium 2.
+FT   METAL       390    390       Calcium 1.
+FT   METAL       390    390       Calcium 2.
+FT   METAL       392    392       Calcium 1; via carbonyl oxygen.
+FT   METAL       395    395       Calcium 1.
+FT   METAL       395    395       Calcium 2.
+FT   METAL       398    398       Calcium 3; via carbonyl oxygen.
+FT   METAL       399    399       Calcium 3.
+FT   METAL       402    402       Calcium 3; via carbonyl oxygen.
+FT   METAL       405    405       Calcium 3.
+FT   CONFLICT    354    354       L -> I (in Ref. 2; AA sequence).
+FT                                {ECO:0000305}.
+FT   CONFLICT    361    361       E -> Q (in Ref. 2; AA sequence).
+FT                                {ECO:0000305}.
+FT   CONFLICT    479    479       C -> L (in Ref. 2; AA sequence).
+FT                                {ECO:0000305}.
+FT   CONFLICT    492    493       DE -> EQ (in Ref. 2; AA sequence).
+FT                                {ECO:0000305}.
+FT   STRAND      210    216       {ECO:0000244|PDB:1BQB}.
+FT   STRAND      222    230       {ECO:0000244|PDB:1BQB}.
+FT   STRAND      233    238       {ECO:0000244|PDB:1BQB}.
+FT   STRAND      240    243       {ECO:0000244|PDB:1BQB}.
+FT   STRAND      245    250       {ECO:0000244|PDB:1BQB}.
+FT   TURN        252    254       {ECO:0000244|PDB:1BQB}.
+FT   STRAND      257    259       {ECO:0000244|PDB:1BQB}.
+FT   STRAND      261    267       {ECO:0000244|PDB:1BQB}.
+FT   HELIX       270    272       {ECO:0000244|PDB:1BQB}.
+FT   HELIX       273    293       {ECO:0000244|PDB:1BQB}.
+FT   STRAND      305    309       {ECO:0000244|PDB:1BQB}.
+FT   STRAND      323    325       {ECO:0000244|PDB:1BQB}.
+FT   STRAND      327    332       {ECO:0000244|PDB:1BQB}.
+FT   STRAND      337    341       {ECO:0000244|PDB:1BQB}.
+FT   HELIX       343    345       {ECO:0000244|PDB:1BQB}.
+FT   HELIX       347    361       {ECO:0000244|PDB:1BQB}.
+FT   HELIX       369    386       {ECO:0000244|PDB:1BQB}.
+FT   STRAND      391    394       {ECO:0000244|PDB:1BQB}.
+FT   TURN        395    397       {ECO:0000244|PDB:1BQB}.
+FT   STRAND      407    411       {ECO:0000244|PDB:1BQB}.
+FT   HELIX       413    416       {ECO:0000244|PDB:1BQB}.
+FT   HELIX       422    424       {ECO:0000244|PDB:1BQB}.
+FT   HELIX       430    438       {ECO:0000244|PDB:1BQB}.
+FT   HELIX       440    453       {ECO:0000244|PDB:1BQB}.
+FT   HELIX       455    468       {ECO:0000244|PDB:1BQB}.
+FT   HELIX       476    490       {ECO:0000244|PDB:1BQB}.
+FT   HELIX       493    504       {ECO:0000244|PDB:1BQB}.
+FT   TURN        505    507       {ECO:0000244|PDB:1BQB}.
+SQ   SEQUENCE   509 AA;  56321 MW;  C622D5B7228108E5 CRC64;
+     MRKFSRYAFT SMATVTLLSS LTPAALASDT NHKPATSDIN FEITQKSDAV KALKELPKSE
+     NVKNHYQDYS VTDVKTDKKG FTHYTLQPSV DGVHAPDKEV KVHADKSGKV VLINGDTDAK
+     KVKPTNKVTL SKDEAADKAF NAVKIDKNKA KNLQDDVIKE NKVEIDGDSN KYIYNIELIT
+     VTPEISHWKV KIDADTGAVV EKTNLVKEAA ATGTGKGVLG DTKDININSI DGGFSLEDLT
+     HQGKLSAYNF NDQTGQATLI TNEDENFVKD DQRAGVDANY YAKQTYDYYK NTFGRESYDN
+     HGSPIVSLTH VNHYGGQDNR NNAAWIGDKM IYGDGDGRTF TNLSGANDVV AHELTHGVTQ
+     ETANLEYKDQ SGALNESFSD VFGYFVDDED FLMGEDVYTP GKEGDALRSM SNPEQFGQPS
+     HMKDYVYTEK DNGGVHTNSG IPNKAAYNVI QAIGKSKSEQ IYYRALTEYL TSNSNFKDCK
+     DALYQAAKDL YDEQTAEQVY EAWNEVGVE
+//

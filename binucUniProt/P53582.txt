@@ -1,0 +1,383 @@
+ID   MAP11_HUMAN             Reviewed;         386 AA.
+AC   P53582; B4E2E6;
+DT   01-OCT-1996, integrated into UniProtKB/Swiss-Prot.
+DT   25-JUL-2003, sequence version 2.
+DT   22-JUL-2015, entry version 159.
+DE   RecName: Full=Methionine aminopeptidase 1 {ECO:0000255|HAMAP-Rule:MF_03174};
+DE            Short=MAP 1 {ECO:0000255|HAMAP-Rule:MF_03174};
+DE            Short=MetAP 1 {ECO:0000255|HAMAP-Rule:MF_03174};
+DE            EC=3.4.11.18 {ECO:0000255|HAMAP-Rule:MF_03174};
+DE   AltName: Full=Peptidase M 1 {ECO:0000255|HAMAP-Rule:MF_03174};
+GN   Name=METAP1; Synonyms=KIAA0094;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Bone marrow;
+RX   PubMed=7788527; DOI=10.1093/dnares/2.1.37;
+RA   Nagase T., Miyajima N., Tanaka A., Sazuka T., Seki N., Sato S.,
+RA   Tabata S., Ishikawa K., Kawarabayasi Y., Kotani H., Nomura N.;
+RT   "Prediction of the coding sequences of unidentified human genes. III.
+RT   The coding sequences of 40 new genes (KIAA0081-KIAA0120) deduced by
+RT   analysis of cDNA clones from human cell line KG-1.";
+RL   DNA Res. 2:37-43(1995).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Trachea;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A.,
+RA   Sudo H., Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M.,
+RA   Takahashi M., Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y.,
+RA   Abe K., Kamihara K., Katsuta N., Sato K., Tanikawa M., Yamazaki M.,
+RA   Ninomiya K., Ishibashi T., Yamashita H., Murakawa K., Fujimori K.,
+RA   Tanai H., Kimata M., Watanabe M., Hiraoka S., Chiba Y., Ishida S.,
+RA   Ono Y., Takiguchi S., Watanabe S., Yosida M., Hotuta T., Kusano J.,
+RA   Kanehori K., Takahashi-Fujii A., Hara H., Tanase T.-O., Nomura Y.,
+RA   Togiya S., Komai F., Hara R., Takeuchi K., Arita M., Imose N.,
+RA   Musashino K., Yuuki H., Oshima A., Sasaki N., Aotsuka S.,
+RA   Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y.,
+RA   Fujimori Y., Komiyama M., Tashiro H., Tanigami A., Fujiwara T.,
+RA   Ono T., Yamada K., Fujii Y., Ozaki K., Hirao M., Ohmori Y.,
+RA   Kawabata A., Hikiji T., Kobatake N., Inagaki H., Ikema Y., Okamoto S.,
+RA   Okitani R., Kawakami T., Noguchi S., Itoh T., Shigeta K., Senba T.,
+RA   Matsumura K., Nakajima Y., Mizuno T., Morinaga M., Sasaki M.,
+RA   Togashi T., Oyama M., Hata H., Watanabe M., Komatsu T.,
+RA   Mizushima-Sugano J., Satoh T., Shirai Y., Takahashi Y., Nakagawa K.,
+RA   Okumura K., Nagase T., Nomura N., Kikuchi H., Masuho Y., Yamashita R.,
+RA   Nakai K., Yada T., Nakamura Y., Ohara O., Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L.,
+RA   Mobarry C.M., Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R.,
+RA   Flanigan M.J., Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V.,
+RA   Hannenhalli S., Turner R., Yooseph S., Lu F., Nusskern D.R.,
+RA   Shue B.C., Zheng X.H., Zhong F., Delcher A.L., Huson D.H.,
+RA   Kravitz S.A., Mouchard L., Reinert K., Remington K.A., Clark A.G.,
+RA   Waterman M.S., Eichler E.E., Adams M.D., Hunkapiller M.W., Myers E.W.,
+RA   Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 110-386.
+RC   TISSUE=Placenta;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT ALA-2, IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS], AND CLEAVAGE OF INITIATOR
+RP   METHIONINE [LARGE SCALE ANALYSIS].
+RX   PubMed=19413330; DOI=10.1021/ac9004309;
+RA   Gauci S., Helbig A.O., Slijper M., Krijgsveld J., Heck A.J.,
+RA   Mohammed S.;
+RT   "Lys-N and trypsin cover complementary parts of the phosphoproteome in
+RT   a refined SCX-based approach.";
+RL   Anal. Chem. 81:4493-4501(2009).
+RN   [6]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P.,
+RA   Buerckstuemmer T., Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [7]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D.,
+RA   Wang L., Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human
+RT   liver phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [8]
+RP   X-RAY CRYSTALLOGRAPHY (1.1 ANGSTROMS) OF 81-384 IN COMPLEX WITH COBALT
+RP   IONS, FUNCTION, AND COFACTOR.
+RX   PubMed=16274222; DOI=10.1021/bi051691k;
+RA   Addlagatta A., Hu X., Liu J.O., Matthews B.W.;
+RT   "Structural basis for the functional differences between type I and
+RT   type II human methionine aminopeptidases.";
+RL   Biochemistry 44:14741-14749(2005).
+RN   [9]
+RP   X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS) OF 81-384 IN COMPLEX WITH COBALT
+RP   IONS AND INHIBITORS.
+RX   PubMed=16724298; DOI=10.1002/anie.200600757;
+RA   Hu X., Addlagatta A., Matthews B.W., Liu J.O.;
+RT   "Identification of pyridinylpyrimidines as inhibitors of human
+RT   methionine aminopeptidases.";
+RL   Angew. Chem. Int. Ed. 45:3772-3775(2006).
+RN   [10]
+RP   X-RAY CRYSTALLOGRAPHY (1.5 ANGSTROMS) OF 81-384 IN COMPLEX WITH COBALT
+RP   IONS AND INHIBITORS, CATALYTIC ACTIVITY, AND FUNCTION.
+RX   PubMed=17114291; DOI=10.1073/pnas.0608389103;
+RA   Hu X., Addlagatta A., Lu J., Matthews B.W., Liu J.O.;
+RT   "Elucidation of the function of type 1 human methionine aminopeptidase
+RT   during cell cycle progression.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 103:18148-18153(2006).
+RN   [11]
+RP   X-RAY CRYSTALLOGRAPHY (1.1 ANGSTROMS) OF 81-384 IN COMPLEX WITH COBALT
+RP   IONS AND THE INHIBITOR OVALICIN.
+RX   PubMed=16823043; DOI=10.1110/ps.062278006;
+RA   Addlagatta A., Matthews B.W.;
+RT   "Structure of the angiogenesis inhibitor ovalicin bound to its
+RT   noncognate target, human Type 1 methionine aminopeptidase.";
+RL   Protein Sci. 15:1842-1848(2006).
+CC   -!- FUNCTION: Cotranslationally removes the N-terminal methionine from
+CC       nascent proteins. The N-terminal methionine is often cleaved when
+CC       the second residue in the primary sequence is small and uncharged
+CC       (Met-Ala-, Cys, Gly, Pro, Ser, Thr, or Val). Required for normal
+CC       progression through the cell cycle. {ECO:0000255|HAMAP-
+CC       Rule:MF_03174, ECO:0000269|PubMed:16274222,
+CC       ECO:0000269|PubMed:17114291}.
+CC   -!- CATALYTIC ACTIVITY: Release of N-terminal amino acids,
+CC       preferentially methionine, from peptides and arylamides.
+CC       {ECO:0000255|HAMAP-Rule:MF_03174, ECO:0000269|PubMed:17114291}.
+CC   -!- COFACTOR:
+CC       Name=Co(2+); Xref=ChEBI:CHEBI:48828;
+CC         Evidence={ECO:0000255|HAMAP-Rule:MF_03174};
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC         Evidence={ECO:0000255|HAMAP-Rule:MF_03174};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000255|HAMAP-Rule:MF_03174};
+CC       Name=Fe(2+); Xref=ChEBI:CHEBI:29033;
+CC         Evidence={ECO:0000255|HAMAP-Rule:MF_03174};
+CC       Note=Binds 2 divalent metal cations per subunit. Has a high-
+CC       affinity and a low affinity metal-binding site. The true nature of
+CC       the physiological cofactor is under debate. The enzyme is active
+CC       with cobalt, zinc, manganese or divalent iron ions. Most likely,
+CC       methionine aminopeptidases function as mononuclear Fe(2+)-
+CC       metalloproteases under physiological conditions, and the
+CC       catalytically relevant metal-binding site has been assigned to the
+CC       histidine-containing high-affinity site. {ECO:0000255|HAMAP-
+CC       Rule:MF_03174};
+CC   -!- COFACTOR:
+CC       Name=Na(+); Xref=ChEBI:CHEBI:29101;
+CC         Evidence={ECO:0000269|PubMed:16274222};
+CC       Note=Binds 1 sodium ion per subunit. The sodium ion has a
+CC       structural role. {ECO:0000269|PubMed:16274222};
+CC   -!- SUBUNIT: Associates with the 60S ribosomal subunit of the 80S
+CC       translational complex. {ECO:0000255|HAMAP-Rule:MF_03174}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_03174}.
+CC   -!- SIMILARITY: Belongs to the peptidase M24A family. Methionine
+CC       aminopeptidase type 1 subfamily. {ECO:0000255|HAMAP-
+CC       Rule:MF_03174}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAH30054.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC       Sequence=BAA07679.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; D42084; BAA07679.1; ALT_INIT; mRNA.
+DR   EMBL; AK304239; BAG65108.1; -; mRNA.
+DR   EMBL; CH471057; EAX06083.1; -; Genomic_DNA.
+DR   EMBL; BC030054; AAH30054.1; ALT_INIT; mRNA.
+DR   CCDS; CCDS47110.1; -.
+DR   RefSeq; NP_055958.2; NM_015143.2.
+DR   UniGene; Hs.480364; -.
+DR   PDB; 2B3H; X-ray; 1.10 A; A=81-384.
+DR   PDB; 2B3K; X-ray; 1.55 A; A=81-384.
+DR   PDB; 2B3L; X-ray; 1.50 A; A=81-384.
+DR   PDB; 2G6P; X-ray; 1.90 A; A=81-384.
+DR   PDB; 2GZ5; X-ray; 1.10 A; A=81-384.
+DR   PDB; 2NQ6; X-ray; 1.50 A; A=81-384.
+DR   PDB; 2NQ7; X-ray; 1.60 A; A=81-384.
+DR   PDB; 4FLI; X-ray; 1.55 A; A=81-386.
+DR   PDB; 4FLJ; X-ray; 1.74 A; A=81-386.
+DR   PDB; 4FLK; X-ray; 1.47 A; A=81-386.
+DR   PDB; 4FLL; X-ray; 1.50 A; A=81-386.
+DR   PDB; 4HXX; X-ray; 2.09 A; A=81-384.
+DR   PDB; 4IKR; X-ray; 1.78 A; A=81-384.
+DR   PDB; 4IKS; X-ray; 1.70 A; A=81-384.
+DR   PDB; 4IKT; X-ray; 1.60 A; A=81-384.
+DR   PDB; 4IKU; X-ray; 1.30 A; A=81-384.
+DR   PDB; 4IU6; X-ray; 1.90 A; A=1-384.
+DR   PDB; 4U1B; X-ray; 1.89 A; A=81-386.
+DR   PDB; 4U69; X-ray; 1.60 A; A=81-386.
+DR   PDB; 4U6C; X-ray; 1.91 A; A=81-386.
+DR   PDB; 4U6E; X-ray; 1.90 A; A=81-386.
+DR   PDB; 4U6J; X-ray; 1.56 A; A=81-386.
+DR   PDB; 4U6W; X-ray; 1.83 A; A=81-386.
+DR   PDB; 4U6Z; X-ray; 1.80 A; A=81-386.
+DR   PDB; 4U70; X-ray; 1.60 A; A=81-386.
+DR   PDB; 4U71; X-ray; 1.80 A; A=81-386.
+DR   PDB; 4U73; X-ray; 1.80 A; A=81-386.
+DR   PDB; 4U75; X-ray; 1.94 A; A=81-386.
+DR   PDB; 4U76; X-ray; 1.87 A; A=81-386.
+DR   PDBsum; 2B3H; -.
+DR   PDBsum; 2B3K; -.
+DR   PDBsum; 2B3L; -.
+DR   PDBsum; 2G6P; -.
+DR   PDBsum; 2GZ5; -.
+DR   PDBsum; 2NQ6; -.
+DR   PDBsum; 2NQ7; -.
+DR   PDBsum; 4FLI; -.
+DR   PDBsum; 4FLJ; -.
+DR   PDBsum; 4FLK; -.
+DR   PDBsum; 4FLL; -.
+DR   PDBsum; 4HXX; -.
+DR   PDBsum; 4IKR; -.
+DR   PDBsum; 4IKS; -.
+DR   PDBsum; 4IKT; -.
+DR   PDBsum; 4IKU; -.
+DR   PDBsum; 4IU6; -.
+DR   PDBsum; 4U1B; -.
+DR   PDBsum; 4U69; -.
+DR   PDBsum; 4U6C; -.
+DR   PDBsum; 4U6E; -.
+DR   PDBsum; 4U6J; -.
+DR   PDBsum; 4U6W; -.
+DR   PDBsum; 4U6Z; -.
+DR   PDBsum; 4U70; -.
+DR   PDBsum; 4U71; -.
+DR   PDBsum; 4U73; -.
+DR   PDBsum; 4U75; -.
+DR   PDBsum; 4U76; -.
+DR   ProteinModelPortal; P53582; -.
+DR   SMR; P53582; 81-384.
+DR   BioGrid; 116785; 6.
+DR   IntAct; P53582; 1.
+DR   MINT; MINT-1191219; -.
+DR   STRING; 9606.ENSP00000296411; -.
+DR   BindingDB; P53582; -.
+DR   ChEMBL; CHEMBL2474; -.
+DR   MEROPS; M24.017; -.
+DR   PhosphoSite; P53582; -.
+DR   BioMuta; METAP1; -.
+DR   DMDM; 33302602; -.
+DR   MaxQB; P53582; -.
+DR   PaxDb; P53582; -.
+DR   PeptideAtlas; P53582; -.
+DR   PRIDE; P53582; -.
+DR   Ensembl; ENST00000296411; ENSP00000296411; ENSG00000164024.
+DR   GeneID; 23173; -.
+DR   KEGG; hsa:23173; -.
+DR   UCSC; uc003huf.4; human.
+DR   CTD; 23173; -.
+DR   GeneCards; GC04P099916; -.
+DR   HGNC; HGNC:15789; METAP1.
+DR   HPA; CAB025485; -.
+DR   HPA; HPA037997; -.
+DR   HPA; HPA037998; -.
+DR   MIM; 610151; gene.
+DR   neXtProt; NX_P53582; -.
+DR   PharmGKB; PA30764; -.
+DR   eggNOG; COG0024; -.
+DR   GeneTree; ENSGT00390000002284; -.
+DR   HOGENOM; HOG000030427; -.
+DR   HOVERGEN; HBG067178; -.
+DR   InParanoid; P53582; -.
+DR   KO; K01265; -.
+DR   OMA; AIAMCKP; -.
+DR   OrthoDB; EOG786H38; -.
+DR   PhylomeDB; P53582; -.
+DR   TreeFam; TF105753; -.
+DR   BRENDA; 3.4.11.18; 2681.
+DR   Reactome; REACT_163919; Inactivation, recovery and regulation of the phototransduction cascade.
+DR   SABIO-RK; P53582; -.
+DR   ChiTaRS; METAP1; human.
+DR   EvolutionaryTrace; P53582; -.
+DR   GeneWiki; METAP1; -.
+DR   GenomeRNAi; 23173; -.
+DR   NextBio; 44587; -.
+DR   PRO; PR:P53582; -.
+DR   Proteomes; UP000005640; Chromosome 4.
+DR   Bgee; P53582; -.
+DR   CleanEx; HS_METAP1; -.
+DR   ExpressionAtlas; P53582; baseline and differential.
+DR   Genevisible; P53582; HS.
+DR   GO; GO:0005737; C:cytoplasm; TAS:HGNC.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0022626; C:cytosolic ribosome; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0005634; C:nucleus; IDA:HPA.
+DR   GO; GO:0004177; F:aminopeptidase activity; TAS:UniProtKB.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0070006; F:metalloaminopeptidase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0008235; F:metalloexopeptidase activity; TAS:UniProtKB.
+DR   GO; GO:0031365; P:N-terminal protein amino acid modification; TAS:HGNC.
+DR   GO; GO:0018206; P:peptidyl-methionine modification; TAS:HGNC.
+DR   GO; GO:0007603; P:phototransduction, visible light; TAS:Reactome.
+DR   GO; GO:0070527; P:platelet aggregation; IMP:UniProtKB.
+DR   GO; GO:0070084; P:protein initiator methionine removal; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0022400; P:regulation of rhodopsin mediated signaling pathway; TAS:Reactome.
+DR   GO; GO:0006417; P:regulation of translation; TAS:HGNC.
+DR   GO; GO:0016056; P:rhodopsin mediated signaling pathway; TAS:Reactome.
+DR   Gene3D; 3.90.230.10; -; 1.
+DR   HAMAP; MF_01974; MetAP_1; 1.
+DR   InterPro; IPR001714; Pept_M24_MAP.
+DR   InterPro; IPR000994; Pept_M24_structural-domain.
+DR   InterPro; IPR002467; Pept_M24A_MAP1.
+DR   Pfam; PF00557; Peptidase_M24; 1.
+DR   PRINTS; PR00599; MAPEPTIDASE.
+DR   SUPFAM; SSF55920; SSF55920; 1.
+DR   TIGRFAMs; TIGR00500; met_pdase_I; 1.
+DR   PROSITE; PS00680; MAP_1; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Aminopeptidase; Complete proteome;
+KW   Cytoplasm; Hydrolase; Metal-binding; Protease; Reference proteome.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:19413330}.
+FT   CHAIN         2    386       Methionine aminopeptidase 1.
+FT                                /FTId=PRO_0000148967.
+FT   REGION        9     52       Zinc finger-like; important for proper
+FT                                ribosome association. {ECO:0000255|HAMAP-
+FT                                Rule:MF_03174}.
+FT   METAL       220    220       Divalent metal cation 1.
+FT   METAL       231    231       Divalent metal cation 1.
+FT   METAL       231    231       Divalent metal cation 2; catalytic.
+FT   METAL       294    294       Divalent metal cation 2; catalytic; via
+FT                                tele nitrogen.
+FT   METAL       327    327       Divalent metal cation 2; catalytic.
+FT   METAL       358    358       Divalent metal cation 1.
+FT   METAL       358    358       Divalent metal cation 2; catalytic.
+FT   BINDING     203    203       Substrate.
+FT   BINDING     301    301       Substrate.
+FT   MOD_RES       2      2       N-acetylalanine.
+FT                                {ECO:0000269|PubMed:19413330}.
+FT   STRAND       84     86       {ECO:0000244|PDB:2B3H}.
+FT   HELIX       107    110       {ECO:0000244|PDB:2B3H}.
+FT   HELIX       117    121       {ECO:0000244|PDB:2B3H}.
+FT   TURN        122    124       {ECO:0000244|PDB:2B3H}.
+FT   HELIX       133    155       {ECO:0000244|PDB:2B3H}.
+FT   HELIX       163    176       {ECO:0000244|PDB:2B3H}.
+FT   TURN        182    185       {ECO:0000244|PDB:2B3H}.
+FT   HELIX       186    188       {ECO:0000244|PDB:2B3H}.
+FT   STRAND      191    197       {ECO:0000244|PDB:2B3H}.
+FT   STRAND      200    202       {ECO:0000244|PDB:2B3H}.
+FT   STRAND      216    225       {ECO:0000244|PDB:2B3H}.
+FT   STRAND      228    237       {ECO:0000244|PDB:2B3H}.
+FT   HELIX       243    261       {ECO:0000244|PDB:2B3H}.
+FT   HELIX       271    282       {ECO:0000244|PDB:2B3H}.
+FT   STRAND      293    295       {ECO:0000244|PDB:2B3H}.
+FT   STRAND      297    306       {ECO:0000244|PDB:2B3H}.
+FT   STRAND      309    311       {ECO:0000244|PDB:2B3H}.
+FT   STRAND      323    326       {ECO:0000244|PDB:2B3H}.
+FT   STRAND      329    333       {ECO:0000244|PDB:2B3H}.
+FT   STRAND      337    339       {ECO:0000244|PDB:2B3H}.
+FT   STRAND      346    348       {ECO:0000244|PDB:2B3H}.
+FT   STRAND      354    356       {ECO:0000244|PDB:2B3H}.
+FT   STRAND      358    363       {ECO:0000244|PDB:2B3H}.
+FT   STRAND      365    370       {ECO:0000244|PDB:2B3H}.
+FT   HELIX       381    383       {ECO:0000244|PDB:2B3H}.
+SQ   SEQUENCE   386 AA;  43215 MW;  372879013C2BB01D CRC64;
+     MAAVETRVCE TDGCSSEAKL QCPTCIKLGI QGSYFCSQEC FKGSWATHKL LHKKAKDEKA
+     KREVSSWTVE GDINTDPWAG YRYTGKLRPH YPLMPTRPVP SYIQRPDYAD HPLGMSESEQ
+     ALKGTSQIKL LSSEDIEGMR LVCRLAREVL DVAAGMIKPG VTTEEIDHAV HLACIARNCY
+     PSPLNYYNFP KSCCTSVNEV ICHGIPDRRP LQEGDIVNVD ITLYRNGYHG DLNETFFVGE
+     VDDGARKLVQ TTYECLMQAI DAVKPGVRYR ELGNIIQKHA QANGFSVVRS YCGHGIHKLF
+     HTAPNVPHYA KNKAVGVMKS GHVFTIEPMI CEGGWQDETW PDGWTAVTRD GKRSAQFEHT
+     LLVTDTGCEI LTRRLDSARP HFMSQF
+//

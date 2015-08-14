@@ -1,0 +1,89 @@
+ID   E5BDC6_KLEPN            Unreviewed;       266 AA.
+AC   E5BDC6;
+DT   08-FEB-2011, integrated into UniProtKB/TrEMBL.
+DT   08-FEB-2011, sequence version 1.
+DT   22-JUL-2015, entry version 14.
+DE   SubName: Full=Metallo-beta-lactamase VIM-26 {ECO:0000313|EMBL:CBY80143.1};
+DE   SubName: Full=VIM-26 {ECO:0000313|EMBL:AJT60374.1};
+GN   Name=blaVIM-26 {ECO:0000313|EMBL:CBY80143.1};
+OS   Klebsiella pneumoniae.
+OG   Plasmid pKP-M1192 {ECO:0000313|EMBL:AJT60374.1}.
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Klebsiella.
+OX   NCBI_TaxID=573 {ECO:0000313|EMBL:CBY80143.1};
+RN   [1] {ECO:0000313|EMBL:CBY80143.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=U-60687 {ECO:0000313|EMBL:CBY80143.1};
+RX   PubMed=21595797; DOI=10.1111/j.1469-0691.2011.03532.x;
+RA   Samuelsen O., Toleman M.A., Hasseltvedt V., Fuursted K.,
+RA   Leegaard T.M., Walsh T.R., Sundsfjord A., Giske C.G.;
+RT   "Molecular characterization of VIM-producing Klebsiella pneumoniae
+RT   from Scandinavia reveals genetic relatedness with international clonal
+RT   complexes encoding transferable multidrug resistance.";
+RL   Clin. Microbiol. Infect. 17:1811-1816(2011).
+RN   [2] {ECO:0000213|PDB:4UWO, ECO:0000213|PDB:4UWP, ECO:0000213|PDB:4UWR}
+RP   X-RAY CRYSTALLOGRAPHY (1.55 ANGSTROMS) IN COMPLEX WITH ZINC.
+RX   PubMed=25601024; DOI=10.1111/FEBS.13200;
+RA   Leiros H.K., Edvardsen K.S., Bjerga G.E., Samuelsen O.;
+RT   "Structural and biochemical characterization of VIM-26 shows that
+RT   Leu224 has implications for the substrate specificity of VIM metallo-
+RT   beta-lactamases.";
+RL   FEBS J. 282:1031-1042(2015).
+RN   [3] {ECO:0000313|EMBL:AJT60374.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=Kpn1192 {ECO:0000313|EMBL:AJT60374.1};
+RC   PLASMID=pKP-M1192 {ECO:0000313|EMBL:AJT60374.1};
+RX   PubMed=25759034;
+RG   MOSAR WP2, WP3 and WP5 study groups;
+RG   MOSAR WP2 WP3 and WP5 study groups;
+RA   Papagiannitsis C.C., Izdebski R., Baraniak A., Fiett J., Herda M.,
+RA   Hrabak J., Derde L.P., Bonten M.J., Carmeli Y., Goossens H.,
+RA   Hryniewicz W., Brun-Buisson C., Gniadkowski M.;
+RT   "Survey of metallo-beta-lactamase-producing Enterobacteriaceae
+RT   colonizing patients in European ICUs and rehabilitation units, 2008-
+RT   11.";
+RL   J. Antimicrob. Chemother. 0:0-0(2015).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; KM975295; AJT60374.1; -; Genomic_DNA.
+DR   EMBL; FR748153; CBY80143.1; -; Genomic_DNA.
+DR   PDB; 4UWO; X-ray; 1.55 A; B=1-266.
+DR   PDB; 4UWP; X-ray; 1.70 A; B=32-266.
+DR   PDB; 4UWR; X-ray; 1.55 A; B=1-266.
+DR   PDB; 4UWS; X-ray; 1.66 A; B=1-266.
+DR   PDBsum; 4UWO; -.
+DR   PDBsum; 4UWP; -.
+DR   PDBsum; 4UWR; -.
+DR   PDBsum; 4UWS; -.
+DR   GO; GO:0008800; F:beta-lactamase activity; IDA:CACAO.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0008152; P:metabolic process; IDA:GOC.
+DR   Gene3D; 3.60.15.10; -; 1.
+DR   InterPro; IPR001279; Beta-lactamas-like.
+DR   Pfam; PF00753; Lactamase_B; 1.
+DR   SMART; SM00849; Lactamase_B; 1.
+DR   SUPFAM; SSF56281; SSF56281; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4UWO, ECO:0000213|PDB:4UWP};
+KW   Metal-binding {ECO:0000213|PDB:4UWO, ECO:0000213|PDB:4UWP};
+KW   Plasmid {ECO:0000313|EMBL:AJT60374.1};
+KW   Zinc {ECO:0000213|PDB:4UWO, ECO:0000213|PDB:4UWP}.
+FT   METAL       114    114       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4UWP}.
+FT   METAL       116    116       Zinc 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:4UWP}.
+FT   METAL       118    118       Zinc 2. {ECO:0000213|PDB:4UWP}.
+FT   METAL       179    179       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4UWP}.
+FT   METAL       198    198       Zinc 2. {ECO:0000213|PDB:4UWP}.
+FT   METAL       240    240       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4UWP}.
+SQ   SEQUENCE   266 AA;  28000 MW;  A669E08603F01235 CRC64;
+     MLKVISSLLV YMTASVMAVA SPLAHSGEPS GEYPTVNEIP VGEVRLYQIA DGVWSHIATQ
+     SFDGAVYPSN GLIVRDGDEL LLIDTAWGAK NTAALLAEIE KQIGLPVTRA VSTHFHDDRV
+     GGVDVLRAAG VATYASPSTR RLAEAEGNEI PTHSLEGLSS SGDAVRFGPV ELFYPGAAHS
+     TDNLVVYVPS ANVLYGGCAV LELSSTSAGN VADADLAEWP TSVERIQKHY PEAEVVIPGH
+     GLPGGLDLLQ HTANVVKAHK NRSVAE
+//

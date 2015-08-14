@@ -1,0 +1,271 @@
+ID   SMT3_YEAST              Reviewed;         101 AA.
+AC   Q12306; D6VTD1;
+DT   01-NOV-1997, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   22-JUL-2015, entry version 141.
+DE   RecName: Full=Ubiquitin-like protein SMT3;
+DE   Flags: Precursor;
+GN   Name=SMT3; OrderedLocusNames=YDR510W; ORFNames=D9719.15;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=559292;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=YPH1/YNN214;
+RA   Meluh P.B., Koshland D.E.;
+RL   Submitted (JUL-1995) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=9169867;
+RA   Jacq C., Alt-Moerbe J., Andre B., Arnold W., Bahr A., Ballesta J.P.G.,
+RA   Bargues M., Baron L., Becker A., Biteau N., Bloecker H., Blugeon C.,
+RA   Boskovic J., Brandt P., Brueckner M., Buitrago M.J., Coster F.,
+RA   Delaveau T., del Rey F., Dujon B., Eide L.G., Garcia-Cantalejo J.M.,
+RA   Goffeau A., Gomez-Peris A., Granotier C., Hanemann V., Hankeln T.,
+RA   Hoheisel J.D., Jaeger W., Jimenez A., Jonniaux J.-L., Kraemer C.,
+RA   Kuester H., Laamanen P., Legros Y., Louis E.J., Moeller-Rieker S.,
+RA   Monnet A., Moro M., Mueller-Auer S., Nussbaumer B., Paricio N.,
+RA   Paulin L., Perea J., Perez-Alonso M., Perez-Ortin J.E., Pohl T.M.,
+RA   Prydz H., Purnelle B., Rasmussen S.W., Remacha M.A., Revuelta J.L.,
+RA   Rieger M., Salom D., Saluz H.P., Saiz J.E., Saren A.-M., Schaefer M.,
+RA   Scharfe M., Schmidt E.R., Schneider C., Scholler P., Schwarz S.,
+RA   Soler-Mira A., Urrestarazu L.A., Verhasselt P., Vissers S., Voet M.,
+RA   Volckaert G., Wagner G., Wambutt R., Wedler E., Wedler H., Woelfl S.,
+RA   Harris D.E., Bowman S., Brown D., Churcher C.M., Connor R., Dedman K.,
+RA   Gentles S., Hamlin N., Hunt S., Jones L., McDonald S., Murphy L.D.,
+RA   Niblett D., Odell C., Oliver K., Rajandream M.A., Richards C.,
+RA   Shore L., Walsh S.V., Barrell B.G., Dietrich F.S., Mulligan J.T.,
+RA   Allen E., Araujo R., Aviles E., Berno A., Carpenter J., Chen E.,
+RA   Cherry J.M., Chung E., Duncan M., Hunicke-Smith S., Hyman R.W.,
+RA   Komp C., Lashkari D., Lew H., Lin D., Mosedale D., Nakahara K.,
+RA   Namath A., Oefner P., Oh C., Petel F.X., Roberts D., Schramm S.,
+RA   Schroeder M., Shogren T., Shroff N., Winant A., Yelton M.A.,
+RA   Botstein D., Davis R.W., Johnston M., Andrews S., Brinkman R.,
+RA   Cooper J., Ding H., Du Z., Favello A., Fulton L., Gattung S.,
+RA   Greco T., Hallsworth K., Hawkins J., Hillier L.W., Jier M.,
+RA   Johnson D., Johnston L., Kirsten J., Kucaba T., Langston Y.,
+RA   Latreille P., Le T., Mardis E., Menezes S., Miller N., Nhan M.,
+RA   Pauley A., Peluso D., Rifkin L., Riles L., Taich A., Trevaskis E.,
+RA   Vignati D., Wilcox L., Wohldman P., Vaudin M., Wilson R.,
+RA   Waterston R., Albermann K., Hani J., Heumann K., Kleine K.,
+RA   Mewes H.-W., Zollner A., Zaccaria P.;
+RT   "The nucleotide sequence of Saccharomyces cerevisiae chromosome IV.";
+RL   Nature 387:75-78(1997).
+RN   [3]
+RP   GENOME REANNOTATION.
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=24374639; DOI=10.1534/g3.113.008995;
+RA   Engel S.R., Dietrich F.S., Fisk D.G., Binkley G., Balakrishnan R.,
+RA   Costanzo M.C., Dwight S.S., Hitz B.C., Karra K., Nash R.S., Weng S.,
+RA   Wong E.D., Lloyd P., Skrzypek M.S., Miyasato S.R., Simison M.,
+RA   Cherry J.M.;
+RT   "The reference genome sequence of Saccharomyces cerevisiae: Then and
+RT   now.";
+RL   G3 (Bethesda) 4:389-398(2014).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=17322287; DOI=10.1101/gr.6037607;
+RA   Hu Y., Rolfs A., Bhullar B., Murthy T.V.S., Zhu C., Berger M.F.,
+RA   Camargo A.A., Kelley F., McCarron S., Jepson D., Richardson A.,
+RA   Raphael J., Moreira D., Taycher E., Zuo D., Mohr S., Kane M.F.,
+RA   Williamson J., Simpson A.J.G., Bulyk M.L., Harlow E., Marsischky G.,
+RA   Kolodner R.D., LaBaer J.;
+RT   "Approaching a complete repository of sequence-verified protein-
+RT   encoding clones for Saccharomyces cerevisiae.";
+RL   Genome Res. 17:536-543(2007).
+RN   [5]
+RP   INTERACTION WITH AOS1 AND UBA2.
+RX   PubMed=9312010; DOI=10.1093/emboj/16.18.5509;
+RA   Johnson E.S., Schwienhorst I., Dohmen R.J., Blobel G.;
+RT   "The ubiquitin-like protein Smt3p is activated for conjugation to
+RT   other proteins by an Aos1p/Uba2p heterodimer.";
+RL   EMBO J. 16:5509-5519(1997).
+RN   [6]
+RP   LEVEL OF PROTEIN EXPRESSION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562106; DOI=10.1038/nature02046;
+RA   Ghaemmaghami S., Huh W.-K., Bower K., Howson R.W., Belle A.,
+RA   Dephoure N., O'Shea E.K., Weissman J.S.;
+RT   "Global analysis of protein expression in yeast.";
+RL   Nature 425:737-741(2003).
+RN   [7]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   STRAIN=ADR376;
+RX   PubMed=17330950; DOI=10.1021/pr060559j;
+RA   Li X., Gerber S.A., Rudner A.D., Beausoleil S.A., Haas W., Villen J.,
+RA   Elias J.E., Gygi S.P.;
+RT   "Large-scale phosphorylation analysis of alpha-factor-arrested
+RT   Saccharomyces cerevisiae.";
+RL   J. Proteome Res. 6:1190-1197(2007).
+RN   [8]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT SER-2, PHOSPHORYLATION [LARGE
+RP   SCALE ANALYSIS] AT SER-2 AND SER-4, IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS], AND CLEAVAGE OF INITIATOR
+RP   METHIONINE [LARGE SCALE ANALYSIS].
+RX   PubMed=17287358; DOI=10.1073/pnas.0607084104;
+RA   Chi A., Huttenhower C., Geer L.Y., Coon J.J., Syka J.E.P., Bai D.L.,
+RA   Shabanowitz J., Burke D.J., Troyanskaya O.G., Hunt D.F.;
+RT   "Analysis of phosphorylation sites on proteins from Saccharomyces
+RT   cerevisiae by electron transfer dissociation (ETD) mass
+RT   spectrometry.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 104:2193-2198(2007).
+RN   [9]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=18407956; DOI=10.1074/mcp.M700468-MCP200;
+RA   Albuquerque C.P., Smolka M.B., Payne S.H., Bafna V., Eng J., Zhou H.;
+RT   "A multidimensional chromatography technology for in-depth
+RT   phosphoproteome analysis.";
+RL   Mol. Cell. Proteomics 7:1389-1396(2008).
+RN   [10]
+RP   STRUCTURE BY NMR.
+RX   PubMed=12021447; DOI=10.1110/ps.0201602;
+RA   Sheng W., Liao X.;
+RT   "Solution structure of a yeast ubiquitin-like protein Smt3: the role
+RT   of structurally less defined sequences in protein-protein
+RT   recognitions.";
+RL   Protein Sci. 11:1482-1491(2002).
+RN   [11]
+RP   X-RAY CRYSTALLOGRAPHY (1.6 ANGSTROMS) OF 13-98 IN COMPLEX WITH ULP1.
+RX   PubMed=10882122; DOI=10.1016/S1097-2765(00)80326-3;
+RA   Mossessova E., Lima C.D.;
+RT   "Ulp1-SUMO crystal structure and genetic analysis reveal conserved
+RT   interactions and a regulatory element essential for cell growth in
+RT   yeast.";
+RL   Mol. Cell 5:865-876(2000).
+CC   -!- FUNCTION: Not known; suppressor of MIF2 mutations.
+CC   -!- SUBUNIT: Activated by a E1 ligase composed of AOS1 and UBA2.
+CC       {ECO:0000269|PubMed:10882122}.
+CC   -!- INTERACTION:
+CC       Self; NbExp=2; IntAct=EBI-17490, EBI-17490;
+CC       Q12050:ELG1; NbExp=11; IntAct=EBI-17490, EBI-32195;
+CC       P15873:POL30; NbExp=6; IntAct=EBI-17490, EBI-12993;
+CC       P14291:RED1; NbExp=6; IntAct=EBI-17490, EBI-14909;
+CC       P35187:SGS1; NbExp=3; IntAct=EBI-17490, EBI-17059;
+CC       P12954:SRS2; NbExp=4; IntAct=EBI-17490, EBI-18110;
+CC   -!- MISCELLANEOUS: Present with 2940 molecules/cell in log phase SD
+CC       medium. {ECO:0000269|PubMed:14562106}.
+CC   -!- SIMILARITY: Belongs to the ubiquitin family. SUMO subfamily.
+CC       {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 ubiquitin-like domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00214}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U27233; AAB01675.1; -; Genomic_DNA.
+DR   EMBL; U33057; AAB64951.1; -; Genomic_DNA.
+DR   EMBL; AY558174; AAS56500.1; -; Genomic_DNA.
+DR   EMBL; BK006938; DAA12341.1; -; Genomic_DNA.
+DR   PIR; S63999; S63999.
+DR   RefSeq; NP_010798.1; NM_001180818.1.
+DR   PDB; 1EUV; X-ray; 1.60 A; B=13-98.
+DR   PDB; 1L2N; NMR; -; A=1-101.
+DR   PDB; 2EKE; X-ray; 1.90 A; C/D=13-98.
+DR   PDB; 3PGE; X-ray; 2.80 A; A=1-98.
+DR   PDB; 3QHT; X-ray; 2.40 A; A/B=2-98.
+DR   PDB; 3TIX; X-ray; 2.90 A; A/C=1-98.
+DR   PDB; 3UF8; X-ray; 1.50 A; A=13-98.
+DR   PDB; 3UQA; X-ray; 1.55 A; A=13-98.
+DR   PDB; 3UQB; X-ray; 1.90 A; A=13-98.
+DR   PDB; 3V60; X-ray; 2.60 A; A=20-98.
+DR   PDB; 3V61; X-ray; 2.80 A; A=20-98.
+DR   PDB; 3V62; X-ray; 2.90 A; A/D=20-98.
+DR   PDB; 3VAW; X-ray; 1.55 A; A=13-98.
+DR   PDB; 4FN2; X-ray; 1.95 A; A/B=13-98.
+DR   PDB; 4G50; X-ray; 1.75 A; A/B=13-98.
+DR   PDB; 4GGQ; X-ray; 1.95 A; A/B/C/D=13-98.
+DR   PDB; 4GIV; X-ray; 2.45 A; A/B=13-98.
+DR   PDBsum; 1EUV; -.
+DR   PDBsum; 1L2N; -.
+DR   PDBsum; 2EKE; -.
+DR   PDBsum; 3PGE; -.
+DR   PDBsum; 3QHT; -.
+DR   PDBsum; 3TIX; -.
+DR   PDBsum; 3UF8; -.
+DR   PDBsum; 3UQA; -.
+DR   PDBsum; 3UQB; -.
+DR   PDBsum; 3V60; -.
+DR   PDBsum; 3V61; -.
+DR   PDBsum; 3V62; -.
+DR   PDBsum; 3VAW; -.
+DR   PDBsum; 4FN2; -.
+DR   PDBsum; 4G50; -.
+DR   PDBsum; 4GGQ; -.
+DR   PDBsum; 4GIV; -.
+DR   ProteinModelPortal; Q12306; -.
+DR   SMR; Q12306; 20-98.
+DR   BioGrid; 32561; 433.
+DR   DIP; DIP-1364N; -.
+DR   IntAct; Q12306; 50.
+DR   MINT; MINT-390217; -.
+DR   MaxQB; Q12306; -.
+DR   PaxDb; Q12306; -.
+DR   PeptideAtlas; Q12306; -.
+DR   EnsemblFungi; YDR510W; YDR510W; YDR510W.
+DR   GeneID; 852122; -.
+DR   KEGG; sce:YDR510W; -.
+DR   CYGD; YDR510w; -.
+DR   EuPathDB; FungiDB:YDR510W; -.
+DR   SGD; S000002918; SMT3.
+DR   eggNOG; COG5227; -.
+DR   GeneTree; ENSGT00390000018808; -.
+DR   HOGENOM; HOG000207495; -.
+DR   InParanoid; Q12306; -.
+DR   KO; K12160; -.
+DR   OMA; FDGHRIL; -.
+DR   OrthoDB; EOG7SR514; -.
+DR   BioCyc; YEAST:G3O-30030-MONOMER; -.
+DR   Reactome; REACT_325765; SUMO is proteolytically processed.
+DR   Reactome; REACT_326849; SUMO is transferred from E1 to E2 (UBE2I, UBC9).
+DR   Reactome; REACT_338960; SUMO is conjugated to E1 (UBA2:SAE1).
+DR   Reactome; REACT_357266; SUMOylation of DNA damage response and repair proteins.
+DR   EvolutionaryTrace; Q12306; -.
+DR   NextBio; 970504; -.
+DR   PMAP-CutDB; Q12306; -.
+DR   PRO; PR:Q12306; -.
+DR   Proteomes; UP000002311; Chromosome IV.
+DR   GO; GO:0000794; C:condensed nuclear chromosome; IDA:SGD.
+DR   GO; GO:0005634; C:nucleus; IDA:SGD.
+DR   GO; GO:0005940; C:septin ring; IDA:SGD.
+DR   GO; GO:0042802; F:identical protein binding; IPI:IntAct.
+DR   GO; GO:0031386; F:protein tag; IDA:SGD.
+DR   GO; GO:0016925; P:protein sumoylation; IDA:SGD.
+DR   InterPro; IPR000626; Ubiquitin-like.
+DR   InterPro; IPR029071; Ubiquitin-rel_dom.
+DR   Pfam; PF00240; ubiquitin; 1.
+DR   SMART; SM00213; UBQ; 1.
+DR   SUPFAM; SSF54236; SSF54236; 1.
+DR   PROSITE; PS50053; UBIQUITIN_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Complete proteome; Isopeptide bond;
+KW   Phosphoprotein; Reference proteome; Ubl conjugation pathway.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:17287358}.
+FT   CHAIN         2     98       Ubiquitin-like protein SMT3.
+FT                                /FTId=PRO_0000035963.
+FT   PROPEP       99    101
+FT                                /FTId=PRO_0000035964.
+FT   DOMAIN       22     98       Ubiquitin-like. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00214}.
+FT   MOD_RES       2      2       N-acetylserine.
+FT                                {ECO:0000269|PubMed:17287358}.
+FT   MOD_RES       2      2       Phosphoserine.
+FT                                {ECO:0000269|PubMed:17287358}.
+FT   MOD_RES       4      4       Phosphoserine.
+FT                                {ECO:0000269|PubMed:17287358}.
+FT   CROSSLNK     98     98       Glycyl lysine isopeptide (Gly-Lys)
+FT                                (interchain with K-? in acceptor
+FT                                proteins).
+FT   STRAND       22     29       {ECO:0000244|PDB:3UF8}.
+FT   STRAND       34     40       {ECO:0000244|PDB:3UF8}.
+FT   HELIX        46     56       {ECO:0000244|PDB:3UF8}.
+FT   HELIX        60     62       {ECO:0000244|PDB:3UF8}.
+FT   STRAND       64     67       {ECO:0000244|PDB:3UF8}.
+FT   STRAND       70     72       {ECO:0000244|PDB:3V60}.
+FT   TURN         78     82       {ECO:0000244|PDB:3UF8}.
+FT   STRAND       87     92       {ECO:0000244|PDB:3UF8}.
+SQ   SEQUENCE   101 AA;  11597 MW;  A2790DE7F315E1A7 CRC64;
+     MSDSEVNQEA KPEVKPEVKP ETHINLKVSD GSSEIFFKIK KTTPLRRLME AFAKRQGKEM
+     DSLRFLYDGI RIQADQTPED LDMEDNDIIE AHREQIGGAT Y
+//

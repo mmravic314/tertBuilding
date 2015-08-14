@@ -1,0 +1,116 @@
+ID   M1GME7_9APHY            Unreviewed;       517 AA.
+AC   M1GME7;
+DT   01-MAY-2013, integrated into UniProtKB/TrEMBL.
+DT   01-MAY-2013, sequence version 1.
+DT   27-MAY-2015, entry version 12.
+DE   SubName: Full=Laccase 2 {ECO:0000313|EMBL:AGE13770.1};
+DE            EC=1.10.3.2 {ECO:0000313|EMBL:AGE13770.1};
+GN   Name=Lac2 {ECO:0000313|EMBL:AGE13770.1};
+OS   Coriolopsis caperata.
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Polyporales; Coriolopsis.
+OX   NCBI_TaxID=195176 {ECO:0000313|EMBL:AGE13770.1};
+RN   [1] {ECO:0000313|EMBL:AGE13770.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Maloshenok L.G., Moiseenko K.V., Fedorova T.V., Polyakov K.M.,
+RA   Bruskin S.A., Koroleva O.V.;
+RT   "A new laccase from Coriolopsis caperata: biochemical and physico-
+RT   chemical properties and 3D structure.";
+RL   Submitted (NOV-2012) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:4JHV}
+RP   X-RAY CRYSTALLOGRAPHY (1.60 ANGSTROMS) OF 22-517 IN COMPLEX WITH
+RP   COPPER, DISULFIDE BONDS, AND GLYCOSYLATION AT ASN-75 AND ASN-454.
+RA   Polyakov K.M., Fedorova T.V., Glazunova O.A., Kurzeev S.A.,
+RA   Maloshenok L.G., Koroleva O.V.;
+RT   "X-ray study of copper ions incorporation in T2D laccase from
+RT   Coriolopsis Caperata.";
+RL   Submitted (MAR-2013) to the PDB data bank.
+RN   [3] {ECO:0000213|PDB:4JHU}
+RP   X-RAY CRYSTALLOGRAPHY (1.89 ANGSTROMS) OF 22-517 IN COMPLEX WITH
+RP   COPPER, DISULFIDE BONDS, AND GLYCOSYLATION AT ASN-75 AND ASN-454.
+RA   Polyakov K.M., Fedorova T.V., Glazunova O.A., Kurzeev S.A.,
+RA   Maloshenok L.G., Koroleva O.A.;
+RT   "X-ray study of copper ions incorporation in T2D laccase from
+RT   Coriolopsis Caperata.";
+RL   Submitted (MAR-2013) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; KC119400; AGE13770.1; -; mRNA.
+DR   PDB; 4JHU; X-ray; 1.89 A; A=22-517.
+DR   PDB; 4JHV; X-ray; 1.60 A; A=22-517.
+DR   PDBsum; 4JHU; -.
+DR   PDBsum; 4JHV; -.
+DR   GO; GO:0005507; F:copper ion binding; IEA:InterPro.
+DR   GO; GO:0052716; F:hydroquinone:oxygen oxidoreductase activity; IEA:UniProtKB-EC.
+DR   Gene3D; 2.60.40.420; -; 3.
+DR   InterPro; IPR001117; Cu-oxidase.
+DR   InterPro; IPR011706; Cu-oxidase_2.
+DR   InterPro; IPR011707; Cu-oxidase_3.
+DR   InterPro; IPR002355; Cu_oxidase_Cu_BS.
+DR   InterPro; IPR008972; Cupredoxin.
+DR   Pfam; PF00394; Cu-oxidase; 1.
+DR   Pfam; PF07731; Cu-oxidase_2; 1.
+DR   Pfam; PF07732; Cu-oxidase_3; 1.
+DR   SUPFAM; SSF49503; SSF49503; 3.
+DR   PROSITE; PS00079; MULTICOPPER_OXIDASE1; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4JHU};
+KW   Copper {ECO:0000213|PDB:4JHU, ECO:0000256|SAAS:SAAS00056250};
+KW   Metal-binding {ECO:0000213|PDB:4JHU, ECO:0000256|SAAS:SAAS00056202};
+KW   Oxidoreductase {ECO:0000256|SAAS:SAAS00056252,
+KW   ECO:0000313|EMBL:AGE13770.1}.
+FT   METAL        85     85       Copper 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4JHU,
+FT                                ECO:0000213|PDB:4JHV}.
+FT   METAL        87     87       Copper 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:4JHU,
+FT                                ECO:0000213|PDB:4JHV}.
+FT   METAL       130    130       Copper 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4JHU,
+FT                                ECO:0000213|PDB:4JHV}.
+FT   METAL       132    132       Copper 3; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4JHU,
+FT                                ECO:0000213|PDB:4JHV}.
+FT   METAL       415    415       Copper 4; via pros nitrogen.
+FT                                {ECO:0000213|PDB:4JHU,
+FT                                ECO:0000213|PDB:4JHV}.
+FT   METAL       418    418       Copper 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4JHU,
+FT                                ECO:0000213|PDB:4JHV}.
+FT   METAL       420    420       Copper 3; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4JHU,
+FT                                ECO:0000213|PDB:4JHV}.
+FT   METAL       470    470       Copper 3; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4JHU,
+FT                                ECO:0000213|PDB:4JHV}.
+FT   METAL       471    471       Copper 4. {ECO:0000213|PDB:4JHU,
+FT                                ECO:0000213|PDB:4JHV}.
+FT   METAL       472    472       Copper 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4JHU,
+FT                                ECO:0000213|PDB:4JHV}.
+FT   METAL       476    476       Copper 4; via pros nitrogen.
+FT                                {ECO:0000213|PDB:4JHU,
+FT                                ECO:0000213|PDB:4JHV}.
+FT   CARBOHYD     75     75       N-linked (GlcNAc...).
+FT                                {ECO:0000213|PDB:4JHU,
+FT                                ECO:0000213|PDB:4JHV}.
+FT   CARBOHYD    454    454       N-linked (GlcNAc...).
+FT                                {ECO:0000213|PDB:4JHU,
+FT                                ECO:0000213|PDB:4JHV}.
+FT   DISULFID    106    506       {ECO:0000213|PDB:4JHU,
+FT                                ECO:0000213|PDB:4JHV}.
+FT   DISULFID    138    225       {ECO:0000213|PDB:4JHU,
+FT                                ECO:0000213|PDB:4JHV}.
+SQ   SEQUENCE   517 AA;  55545 MW;  3A7AE9DB13BBD204 CRC64;
+     MAGFQTLLAY ITLSLVASVY AGIGPVTDLT ISDGPVSPDG FTRQAILVNN QFPSPLITGN
+     KGDRFQLNVI DNMNNHTMLK STSIHWHGFF QHGTNWADGP AFVNQCPISP GHSFLYDFQV
+     PDQAGTFWYH SHLSTQYCDG LRGPIVVYDP QDPHKDLYDV DDDSTVITLA DWYHLAAKVG
+     PAVPTADATL INGLGRSIST LNADLAVISV TKGKRYRFRL VSLSCDPNHT FSIDGHTMTV
+     IEADSVNLKP QVVDSIQIFA AQRYSFVLNA DQDIGNYWIR AMPNSGTRNF DGGVNSAILR
+     YDGADPVEPT TTQTPSSQPL VESALTTLEG TAAPGSPTAG GVDLAINMAF GFAGGRFTIN
+     GASFTPPTVP VLLQILSGAQ NAQDLLPTGS VYSLPANADI EISLPATAAA PGFPHPFHLH
+     GHTFAVVRSA GSSTYNYANP VYRDVVSTGS PGDNVTIRFR TDNPGPWFLH CHIDFHLEAG
+     FAVVMAEDIP DVAAVNPVPQ AWSDLCPTYN ALDPNDQ
+//

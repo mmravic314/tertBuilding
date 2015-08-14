@@ -1,0 +1,58 @@
+ID   Q9WVY4_ENTFC            Unreviewed;       267 AA.
+AC   Q9WVY4;
+DT   01-NOV-1999, integrated into UniProtKB/TrEMBL.
+DT   01-NOV-1999, sequence version 1.
+DT   24-JUN-2015, entry version 50.
+DE   SubName: Full=Lincosamide nucleotidyltransferase {ECO:0000313|EMBL:CAB41414.1};
+GN   Name=linB {ECO:0000313|EMBL:CAB41414.1};
+OS   Enterococcus faecium (Streptococcus faecium).
+OC   Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+OC   Enterococcus.
+OX   NCBI_TaxID=1352 {ECO:0000313|EMBL:CAB41414.1};
+RN   [1] {ECO:0000313|EMBL:CAB41414.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=HM1025 {ECO:0000313|EMBL:CAB41414.1};
+RX   PubMed=10103201;
+RA   Bozdogan B., Berrezouga L., Kuo M.S., Yurek D.A., Farley K.A.,
+RA   Stockman B.J., Leclercq R.;
+RT   "A new resistance gene, linB, conferring resistance to lincosamides by
+RT   nucleotidylation in Enterococcus faecium HM1025.";
+RL   Antimicrob. Agents Chemother. 43:925-929(1999).
+RN   [2] {ECO:0000213|PDB:3JYY, ECO:0000213|PDB:3JZ0}
+RP   X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS) IN COMPLEX WITH MAGNESIUM.
+RX   PubMed=20004168; DOI=10.1016/j.str.2009.10.013;
+RA   Morar M., Bhullar K., Hughes D.W., Junop M., Wright G.D.;
+RT   "Structure and mechanism of the lincosamide antibiotic
+RT   adenylyltransferase LinB.";
+RL   Structure 17:1649-1659(2009).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF110130; AAD26631.1; -; Genomic_DNA.
+DR   EMBL; AJ238249; CAB41414.1; -; Genomic_DNA.
+DR   PDB; 3JYY; X-ray; 2.10 A; A/B=1-267.
+DR   PDB; 3JZ0; X-ray; 2.00 A; A/B=1-267.
+DR   PDBsum; 3JYY; -.
+DR   PDBsum; 3JZ0; -.
+DR   DIP; DIP-48287N; -.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016740; F:transferase activity; IEA:UniProtKB-KW.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3JYY, ECO:0000213|PDB:3JZ0};
+KW   Magnesium {ECO:0000213|PDB:3JYY, ECO:0000213|PDB:3JZ0};
+KW   Metal-binding {ECO:0000213|PDB:3JYY, ECO:0000213|PDB:3JZ0};
+KW   Transferase {ECO:0000313|EMBL:CAB41414.1}.
+FT   METAL        40     40       Magnesium. {ECO:0000213|PDB:3JYY,
+FT                                ECO:0000213|PDB:3JZ0}.
+FT   METAL        42     42       Magnesium. {ECO:0000213|PDB:3JYY,
+FT                                ECO:0000213|PDB:3JZ0}.
+FT   METAL        89     89       Magnesium. {ECO:0000213|PDB:3JYY,
+FT                                ECO:0000213|PDB:3JZ0}.
+SQ   SEQUENCE   267 AA;  31196 MW;  02654F88B5BFFB95 CRC64;
+     MLKQKELIAN VKNLTESDER ITACMMYGSF TKGEGDQYSD IEFYIFLKHS ITSNFDSSNW
+     LFDVAPYLML YKNEYGTEVV IFDNLIRGEF HFLSEKDMNI IPSFKDSGYI PDTKAMLIYD
+     ETGQLENYLS EISGARPNRL TEENANFLLC NFSNLWLMGI NVLKRGEYAR SLELLSQLQK
+     NTLQLIRMAE KNADNWLNMS KNLEKEISLE NYKKFAKTTA RLDKVELFEA YKNSLLLVMD
+     LQSHLIEQYN LKVTHDILER LLNYISE
+//

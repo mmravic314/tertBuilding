@@ -1,0 +1,189 @@
+ID   PPAF1_IPOBA             Reviewed;         473 AA.
+AC   Q9SE00;
+DT   05-MAY-2009, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-2000, sequence version 1.
+DT   27-MAY-2015, entry version 66.
+DE   RecName: Full=Purple acid phosphatase 1;
+DE            EC=3.1.3.2;
+DE   AltName: Full=Manganese(II) purple acid phosphatase 1;
+DE   Flags: Precursor;
+GN   Name=PAP1;
+OS   Ipomoea batatas (Sweet potato) (Convolvulus batatas).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; asterids; lamiids; Solanales; Convolvulaceae; Ipomoeeae;
+OC   Ipomoea.
+OX   NCBI_TaxID=4120;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], CATALYTIC ACTIVITY, COFACTOR, AND
+RP   BIOPHYSICOCHEMICAL PROPERTIES.
+RC   STRAIN=cv. Golden;
+RX   PubMed=10510276; DOI=10.1006/abbi.1999.1407;
+RA   Schenk G., Ge Y., Carrington L.E., Wynne C.J., Searle I.R.,
+RA   Carroll B.J., Hamilton S., de Jersey J.;
+RT   "Binuclear metal centers in plant purple acid phosphatases: Fe-Mn in
+RT   sweet potato and Fe-Zn in soybean.";
+RL   Arch. Biochem. Biophys. 370:183-189(1999).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS) OF 39-464 IN COMPLEX WITH
+RP   SUBSTRATE AND COFACTOR, AND BIOPHYSICOCHEMICAL PROPERTIES.
+RX   PubMed=15625111; DOI=10.1073/pnas.0407239102;
+RA   Schenk G., Gahan L.R., Carrington L.E., Mitic N., Valizadeh M.,
+RA   Hamilton S.E., de Jersey J., Guddat L.W.;
+RT   "Phosphate forms an unusual tripodal complex with the Fe-Mn center of
+RT   sweet potato purple acid phosphatase.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 102:273-278(2005).
+CC   -!- CATALYTIC ACTIVITY: A phosphate monoester + H(2)O = an alcohol +
+CC       phosphate. {ECO:0000269|PubMed:10510276}.
+CC   -!- COFACTOR:
+CC       Name=Fe cation; Xref=ChEBI:CHEBI:24875; Evidence={ECO:0000250};
+CC       Note=Binds 1 Fe cation per subunit. {ECO:0000250};
+CC   -!- COFACTOR:
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000269|PubMed:10510276};
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC         Evidence={ECO:0000269|PubMed:10510276};
+CC       Name=Cu(2+); Xref=ChEBI:CHEBI:29036;
+CC         Evidence={ECO:0000269|PubMed:10510276};
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000269|PubMed:10510276};
+CC       Note=Binds 1 Mn(2+) ion per subunit. Can also use Zn(2+), Cu(2+)
+CC       and Mg(2+) ions. {ECO:0000269|PubMed:10510276};
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Absorption:
+CC         Abs(max)=560 nm {ECO:0000269|PubMed:10510276,
+CC         ECO:0000269|PubMed:15625111};
+CC       Kinetic parameters:
+CC         KM=95 uM for p-NPP (at pH 4.9 and 25 degrees Celsius)
+CC         {ECO:0000269|PubMed:10510276, ECO:0000269|PubMed:15625111};
+CC         KM=120 uM for ATP (at pH 4.9 and 25 degrees Celsius)
+CC         {ECO:0000269|PubMed:10510276, ECO:0000269|PubMed:15625111};
+CC         KM=180 uM for ADP (at pH 4.9 and 25 degrees Celsius)
+CC         {ECO:0000269|PubMed:10510276, ECO:0000269|PubMed:15625111};
+CC         KM=360 uM for AMP (at pH 4.9 and 25 degrees Celsius)
+CC         {ECO:0000269|PubMed:10510276, ECO:0000269|PubMed:15625111};
+CC         KM=75 uM for pyrophosphate (at pH 4.9 and 25 degrees Celsius)
+CC         {ECO:0000269|PubMed:10510276, ECO:0000269|PubMed:15625111};
+CC         KM=490 uM for beta-glycerophosphate (at pH 4.9 and 25 degrees
+CC         Celsius) {ECO:0000269|PubMed:10510276,
+CC         ECO:0000269|PubMed:15625111};
+CC         KM=44 uM for 4-nitrophenol phosphate (at pH 3.5)
+CC         {ECO:0000269|PubMed:10510276, ECO:0000269|PubMed:15625111};
+CC         KM=68 uM for 4-nitrophenol phosphate (at pH 4)
+CC         {ECO:0000269|PubMed:10510276, ECO:0000269|PubMed:15625111};
+CC         KM=68 uM for 4-nitrophenol phosphate (at pH 4.5)
+CC         {ECO:0000269|PubMed:10510276, ECO:0000269|PubMed:15625111};
+CC         KM=93 uM for 4-nitrophenol phosphate (at pH 5)
+CC         {ECO:0000269|PubMed:10510276, ECO:0000269|PubMed:15625111};
+CC         KM=330 uM for 4-nitrophenol phosphate (at pH 6)
+CC         {ECO:0000269|PubMed:10510276, ECO:0000269|PubMed:15625111};
+CC         KM=930 uM for 4-nitrophenol phosphate (at pH 6.5)
+CC         {ECO:0000269|PubMed:10510276, ECO:0000269|PubMed:15625111};
+CC         KM=1800 uM for 4-nitrophenol phosphate (at pH 7)
+CC         {ECO:0000269|PubMed:10510276, ECO:0000269|PubMed:15625111};
+CC         KM=5000 uM for 4-nitrophenol phosphate (at pH 8)
+CC         {ECO:0000269|PubMed:10510276, ECO:0000269|PubMed:15625111};
+CC       pH dependence:
+CC         Optimum pH is 4.5. {ECO:0000269|PubMed:10510276,
+CC         ECO:0000269|PubMed:15625111};
+CC   -!- SUBUNIT: Homodimer; disulfide-linked. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the metallophosphoesterase superfamily.
+CC       Purple acid phosphatase family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF200825; AAF19821.1; -; mRNA.
+DR   PIR; A59200; A59200.
+DR   PDB; 1XZW; X-ray; 2.50 A; A/B=39-464.
+DR   PDBsum; 1XZW; -.
+DR   ProteinModelPortal; Q9SE00; -.
+DR   SMR; Q9SE00; 39-464.
+DR   BioCyc; MetaCyc:MONOMER-15153; -.
+DR   BRENDA; 3.1.3.2; 2773.
+DR   EvolutionaryTrace; Q9SE00; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0003993; F:acid phosphatase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 2.60.40.380; -; 1.
+DR   Gene3D; 3.60.21.10; -; 1.
+DR   InterPro; IPR004843; Calcineurin-like_PHP_apaH.
+DR   InterPro; IPR029052; Metallo-depent_PP-like.
+DR   InterPro; IPR008963; Purple_acid_Pase-like_N.
+DR   InterPro; IPR015914; Purple_acid_Pase_N.
+DR   InterPro; IPR025733; Purple_acid_PPase_C_dom.
+DR   Pfam; PF00149; Metallophos; 1.
+DR   Pfam; PF14008; Metallophos_C; 1.
+DR   SUPFAM; SSF49363; SSF49363; 1.
+DR   SUPFAM; SSF56300; SSF56300; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Disulfide bond; Glycoprotein; Hydrolase; Iron;
+KW   Metal-binding; Secreted; Signal; Zinc.
+FT   SIGNAL        1     38       {ECO:0000255}.
+FT   CHAIN        39    473       Purple acid phosphatase 1.
+FT                                /FTId=PRO_5000057351.
+FT   REGION      360    362       Substrate binding. {ECO:0000250}.
+FT   ACT_SITE    333    333       Proton donor. {ECO:0000250}.
+FT   METAL       172    172       Iron. {ECO:0000250}.
+FT   METAL       201    201       Iron. {ECO:0000250}.
+FT   METAL       201    201       Manganese.
+FT   METAL       204    204       Iron. {ECO:0000250}.
+FT   METAL       238    238       Manganese.
+FT   METAL       323    323       Manganese.
+FT   METAL       360    360       Manganese.
+FT   METAL       362    362       Iron. {ECO:0000250}.
+FT   BINDING     238    238       Substrate. {ECO:0000250}.
+FT   CARBOHYD    118    118       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    180    180       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    311    311       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    433    433       N-linked (GlcNAc...). {ECO:0000255}.
+FT   DISULFID    382    382       Interchain. {ECO:0000250}.
+FT   HELIX        42     45       {ECO:0000244|PDB:1XZW}.
+FT   HELIX        52     54       {ECO:0000244|PDB:1XZW}.
+FT   STRAND       64     70       {ECO:0000244|PDB:1XZW}.
+FT   STRAND       72     76       {ECO:0000244|PDB:1XZW}.
+FT   STRAND       78     86       {ECO:0000244|PDB:1XZW}.
+FT   TURN         89     92       {ECO:0000244|PDB:1XZW}.
+FT   STRAND       93     98       {ECO:0000244|PDB:1XZW}.
+FT   STRAND      105    108       {ECO:0000244|PDB:1XZW}.
+FT   STRAND      110    112       {ECO:0000244|PDB:1XZW}.
+FT   STRAND      123    129       {ECO:0000244|PDB:1XZW}.
+FT   STRAND      137    142       {ECO:0000244|PDB:1XZW}.
+FT   HELIX       145    147       {ECO:0000244|PDB:1XZW}.
+FT   STRAND      149    154       {ECO:0000244|PDB:1XZW}.
+FT   STRAND      165    170       {ECO:0000244|PDB:1XZW}.
+FT   HELIX       177    188       {ECO:0000244|PDB:1XZW}.
+FT   STRAND      194    198       {ECO:0000244|PDB:1XZW}.
+FT   HELIX       205    207       {ECO:0000244|PDB:1XZW}.
+FT   HELIX       209    211       {ECO:0000244|PDB:1XZW}.
+FT   HELIX       214    227       {ECO:0000244|PDB:1XZW}.
+FT   HELIX       238    240       {ECO:0000244|PDB:1XZW}.
+FT   HELIX       245    247       {ECO:0000244|PDB:1XZW}.
+FT   HELIX       254    259       {ECO:0000244|PDB:1XZW}.
+FT   HELIX       265    267       {ECO:0000244|PDB:1XZW}.
+FT   STRAND      274    279       {ECO:0000244|PDB:1XZW}.
+FT   STRAND      282    286       {ECO:0000244|PDB:1XZW}.
+FT   HELIX       298    309       {ECO:0000244|PDB:1XZW}.
+FT   TURN        312    314       {ECO:0000244|PDB:1XZW}.
+FT   STRAND      317    321       {ECO:0000244|PDB:1XZW}.
+FT   TURN        332    337       {ECO:0000244|PDB:1XZW}.
+FT   HELIX       338    350       {ECO:0000244|PDB:1XZW}.
+FT   STRAND      354    358       {ECO:0000244|PDB:1XZW}.
+FT   STRAND      360    367       {ECO:0000244|PDB:1XZW}.
+FT   STRAND      369    371       {ECO:0000244|PDB:1XZW}.
+FT   STRAND      392    396       {ECO:0000244|PDB:1XZW}.
+FT   STRAND      417    421       {ECO:0000244|PDB:1XZW}.
+FT   STRAND      425    431       {ECO:0000244|PDB:1XZW}.
+FT   STRAND      433    443       {ECO:0000244|PDB:1XZW}.
+FT   STRAND      452    458       {ECO:0000244|PDB:1XZW}.
+SQ   SEQUENCE   473 AA;  53815 MW;  BAE4B807DADD95A7 CRC64;
+     MRLVVVGLWC LILGLILNPT KFCDAGVTSS YVRKSLSALP NAEDVDMPWD SDVFAVPSGY
+     NAPQQVHITQ GDYEGRGVII SWTTPYDKAG ANKVVYWSEN SKSQKRAMGT VVTYKYYNYT
+     SAFIHHCTIK DLEYDTKYYY RLGFGDAKRQ FWFVTPPKPG PDVPYVFGLI GDIGQTHDSN
+     TTLTHYEQNS AKGQAVLFMG DLSYSNRWPN HDNNRWDTWG RFSERSVAYQ PWIWTAGNHE
+     IDYAPDIGEY QPFVPFTNRY PTPHEASGSG DPLWYAIKRA SAHIIVLSSY SGFVKYSPQY
+     KWFTSELEKV NRSETPWLIV LVHAPLYNSY EAHYMEGEAM RAIFEPYFVY YKVDIVFSGH
+     VHSYERSERV SNVAYNIVNA KCTPVSDESA PVYITIGDGG NSEGLASEMT QPQPSYSAFR
+     EASFGHGIFD IKNRTHAHFS WHRNQDGASV EADSLWLLNR YWASEDASSM SAM
+//

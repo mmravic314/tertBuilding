@@ -1,0 +1,175 @@
+ID   TNSA_ECOLX              Reviewed;         273 AA.
+AC   P13988; Q47662;
+DT   01-JAN-1990, integrated into UniProtKB/Swiss-Prot.
+DT   01-JAN-1990, sequence version 1.
+DT   22-JUL-2015, entry version 91.
+DE   RecName: Full=Transposon Tn7 transposition protein TnsA;
+GN   Name=tnsA;
+OS   Escherichia coli.
+OG   Plasmid R721.
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=562;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=2156235; DOI=10.1093/nar/18.4.901;
+RA   Flores C., Qadri M.I., Lichtenstein C.;
+RT   "DNA sequence analysis of five genes; tnsA, B, C, D and E, required
+RT   for Tn7 transposition.";
+RL   Nucleic Acids Res. 18:901-911(1990).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RA   Orle K.A., Craig N.L.;
+RT   "Identification of transposition proteins encoded by the bacterial
+RT   transposon Tn7.";
+RL   Gene 96:1-7(1990).
+RN   [3]
+RP   ERRATUM.
+RX   PubMed=1655576; DOI=10.1016/0378-1119(91)90478-T;
+RA   Orle K.A., Craig N.L.;
+RL   Gene 104:125-131(1991).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   PLASMID=R721;
+RA   Sampei G., Motomura K., Masuda S., Yamaguchi T., Ando K., Oishi T.,
+RA   Furuya N., Komano T., Mizobuchi K.;
+RT   "Organization and diversification of plasmid genomes: complete
+RT   nucleotide sequence of the R721 genome.";
+RL   Submitted (JUN-2000) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-134.
+RX   PubMed=3010949;
+RA   Gay N.J., Tybulewicz V.L.J., Walker J.E.;
+RT   "Insertion of transposon Tn7 into the Escherichia coli glmS
+RT   transcriptional terminator.";
+RL   Biochem. J. 234:111-117(1986).
+RN   [6]
+RP   FUNCTION, MUTAGENESIS OF ASP-28; THR-34; GLU-37; HIS-57; SER-60;
+RP   ASP-108; ASP-114; GLU-144; GLU-147 AND GLU-149, AND COFACTOR.
+RX   PubMed=8947057;
+RA   Sarnovsky R.J., May E.W., Craig N.L.;
+RT   "The Tn7 transposase is a heteromeric complex in which DNA breakage
+RT   and joining activities are distributed between different gene
+RT   products.";
+RL   EMBO J. 15:6348-6361(1996).
+RN   [7]
+RP   FUNCTION.
+RX   PubMed=10704304; DOI=10.1006/jmbi.2000.3558;
+RA   Biery M.C., Lopata M., Craig N.L.;
+RT   "A minimal system for Tn7 transposition: the transposon-encoded
+RT   proteins TnsA and TnsB can execute DNA breakage and joining reactions
+RT   that generate circularized Tn7 species.";
+RL   J. Mol. Biol. 297:25-37(2000).
+CC   -!- FUNCTION: Required for Tn7 transposition. Forms the transposase,
+CC       together with TnsB. TnsA executes the 5'-DNA strand breakage
+CC       reaction. TnsABC and TnsD promote high-frequency insertion of Tn7
+CC       into a specific target site known as ATT-Tn7 whereas TnsABC and
+CC       TnsD promote low-frequency insertion into many different sites.
+CC       {ECO:0000269|PubMed:10704304, ECO:0000269|PubMed:8947057}.
+CC   -!- COFACTOR:
+CC       Name=a divalent metal cation; Xref=ChEBI:CHEBI:60240;
+CC         Evidence={ECO:0000269|PubMed:8947057};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X17693; CAA35683.1; -; Genomic_DNA.
+DR   EMBL; M37391; AAA24680.1; -; Genomic_DNA.
+DR   EMBL; AP002527; BAB12613.1; -; Genomic_DNA.
+DR   EMBL; X03474; CAA27192.1; -; Genomic_DNA.
+DR   EMBL; V00620; CAA23895.1; -; Genomic_DNA.
+DR   PIR; S12637; S12637.
+DR   RefSeq; NP_065320.1; NC_002525.1.
+DR   RefSeq; WP_001029679.1; NZ_JSPA01000037.1.
+DR   PDB; 1F1Z; X-ray; 2.40 A; A/B=1-273.
+DR   PDB; 1T0F; X-ray; 1.85 A; A/B=1-273.
+DR   PDBsum; 1F1Z; -.
+DR   PDBsum; 1T0F; -.
+DR   ProteinModelPortal; P13988; -.
+DR   SMR; P13988; 5-268.
+DR   IntAct; P13988; 1.
+DR   PRIDE; P13988; -.
+DR   GeneID; 1238710; -.
+DR   KEGG; pg:1238710; -.
+DR   EvolutionaryTrace; P13988; -.
+DR   GO; GO:0000229; C:cytoplasmic chromosome; IDA:UniProtKB.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004518; F:nuclease activity; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IDA:UniProtKB.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IDA:UniProtKB.
+DR   Gene3D; 1.10.10.10; -; 1.
+DR   Gene3D; 3.40.1350.10; -; 1.
+DR   InterPro; IPR011335; Restrct_endonuc-II-like.
+DR   InterPro; IPR014832; TnsA_C.
+DR   InterPro; IPR014833; TnsA_N.
+DR   InterPro; IPR011856; tRNA_endonuc-like_dom.
+DR   InterPro; IPR011991; WHTH_DNA-bd_dom.
+DR   Pfam; PF08721; Tn7_Tnp_TnsA_C; 1.
+DR   Pfam; PF08722; Tn7_Tnp_TnsA_N; 1.
+DR   SUPFAM; SSF52980; SSF52980; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; DNA recombination; DNA-binding; Plasmid;
+KW   Transposable element; Transposition.
+FT   CHAIN         1    273       Transposon Tn7 transposition protein
+FT                                TnsA.
+FT                                /FTId=PRO_0000072611.
+FT   DNA_BIND     90    108       H-T-H motif. {ECO:0000250}.
+FT   MUTAGEN      28     28       D->A: No effect on recombination.
+FT                                {ECO:0000269|PubMed:8947057}.
+FT   MUTAGEN      34     34       T->A: No effect on recombination.
+FT                                {ECO:0000269|PubMed:8947057}.
+FT   MUTAGEN      37     37       E->A: Modest decrease in 5'-cleavage.
+FT                                {ECO:0000269|PubMed:8947057}.
+FT   MUTAGEN      57     57       H->A: Prevents recombination, may effect
+FT                                protein structure.
+FT                                {ECO:0000269|PubMed:8947057}.
+FT   MUTAGEN      60     60       S->A: Prevents recombination, may effect
+FT                                protein structure.
+FT                                {ECO:0000269|PubMed:8947057}.
+FT   MUTAGEN     108    108       D->A: No effect on recombination.
+FT                                {ECO:0000269|PubMed:8947057}.
+FT   MUTAGEN     114    114       D->A: Prevents 5'-cleavage.
+FT                                {ECO:0000269|PubMed:8947057}.
+FT   MUTAGEN     144    144       E->A: No effect on recombination.
+FT                                {ECO:0000269|PubMed:8947057}.
+FT   MUTAGEN     147    147       E->A: No effect on recombination.
+FT                                {ECO:0000269|PubMed:8947057}.
+FT   MUTAGEN     149    149       E->A: Decrease in 5' cleavage.
+FT                                {ECO:0000269|PubMed:8947057}.
+FT   CONFLICT    139    139       D -> G (in Ref. 2; AAA24680).
+FT                                {ECO:0000305}.
+FT   CONFLICT    227    227       K -> Q (in Ref. 2; AAA24680).
+FT                                {ECO:0000305}.
+FT   HELIX        10     18       {ECO:0000244|PDB:1T0F}.
+FT   TURN         19     22       {ECO:0000244|PDB:1T0F}.
+FT   HELIX        26     28       {ECO:0000244|PDB:1T0F}.
+FT   HELIX        35     37       {ECO:0000244|PDB:1T0F}.
+FT   STRAND       45     48       {ECO:0000244|PDB:1T0F}.
+FT   TURN         50     52       {ECO:0000244|PDB:1T0F}.
+FT   STRAND       53     58       {ECO:0000244|PDB:1T0F}.
+FT   HELIX        61     72       {ECO:0000244|PDB:1T0F}.
+FT   STRAND       76     84       {ECO:0000244|PDB:1T0F}.
+FT   HELIX        87     97       {ECO:0000244|PDB:1T0F}.
+FT   STRAND      112    123       {ECO:0000244|PDB:1T0F}.
+FT   STRAND      125    131       {ECO:0000244|PDB:1T0F}.
+FT   HELIX       134    138       {ECO:0000244|PDB:1T0F}.
+FT   HELIX       140    156       {ECO:0000244|PDB:1T0F}.
+FT   STRAND      160    163       {ECO:0000244|PDB:1T0F}.
+FT   HELIX       165    167       {ECO:0000244|PDB:1T0F}.
+FT   HELIX       170    180       {ECO:0000244|PDB:1T0F}.
+FT   HELIX       189    192       {ECO:0000244|PDB:1T0F}.
+FT   HELIX       195    204       {ECO:0000244|PDB:1T0F}.
+FT   TURN        205    207       {ECO:0000244|PDB:1T0F}.
+FT   HELIX       210    220       {ECO:0000244|PDB:1T0F}.
+FT   HELIX       227    237       {ECO:0000244|PDB:1T0F}.
+FT   STRAND      240    242       {ECO:0000244|PDB:1T0F}.
+FT   HELIX       249    251       {ECO:0000244|PDB:1T0F}.
+FT   HELIX       254    256       {ECO:0000244|PDB:1T0F}.
+FT   STRAND      262    264       {ECO:0000244|PDB:1T0F}.
+SQ   SEQUENCE   273 AA;  31257 MW;  2C2EFDE9A7D9C477 CRC64;
+     MAKANSSFSE VQIARRIKEG RGQGHGKDYI PWLTVQEVPS SGRSHRIYSH KTGRVHHLLS
+     DLELAVFLSL EWESSVLDIR EQFPLLPSDT RQIAIDSGIK HPVIRGVDQV MSTDFLVDCK
+     DGPFEQFAIQ VKPAAALQDE RTLEKLELER RYWQQKQIPW FIFTDKEINP VVKENIEWLY
+     SVKTEEVSAE LLAQLSPLAH ILQEKGDENI INVCKQVDIA YDLELGKTLS EIRALTANGF
+     IKFNIYKSFR ANKCADLCIS QVVNMEELRY VAN
+//

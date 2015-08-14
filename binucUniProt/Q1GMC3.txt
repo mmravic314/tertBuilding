@@ -1,0 +1,96 @@
+ID   Q1GMC3_RUEST            Unreviewed;       408 AA.
+AC   Q1GMC3;
+DT   27-JUN-2006, integrated into UniProtKB/TrEMBL.
+DT   27-JUN-2006, sequence version 1.
+DT   22-JUL-2015, entry version 74.
+DE   SubName: Full=Probable Ring hydroxylating alpha subunit {ECO:0000313|EMBL:ABF62193.1};
+GN   Name=benA {ECO:0000313|EMBL:ABF62193.1};
+GN   OrderedLocusNames=TM1040_3219 {ECO:0000313|EMBL:ABF62193.1};
+OS   Ruegeria sp. (strain TM1040) (Silicibacter sp.).
+OG   Plasmid megaplasmid TM1040 {ECO:0000313|Proteomes:UP000000636}.
+OC   Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales;
+OC   Rhodobacteraceae; Ruegeria.
+OX   NCBI_TaxID=292414 {ECO:0000313|EMBL:ABF62193.1, ECO:0000313|Proteomes:UP000000636};
+RN   [1] {ECO:0000313|Proteomes:UP000000636}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RG   US DOE Joint Genome Institute;
+RA   Copeland A., Lucas S., Lapidus A., Barry K., Detter J.C.,
+RA   Glavina del Rio T., Hammon N., Israni S., Dalin E., Tice H.,
+RA   Pitluck S., Brettin T., Bruce D., Han C., Tapia R., Goodwin L.,
+RA   Thompson L.S., Gilna P., Schmutz J., Larimer F., Land M., Hauser L.,
+RA   Kyrpides N., Kim E., Belas R., Moran M.A., Buchan A., Gonzalez J.M.,
+RA   Schell M.A., Sun F., Richardson P.;
+RT   "Complete sequence of megaplasmid of Silicibacter sp. TM1040.";
+RL   Submitted (MAY-2006) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:3N0Q}
+RP   X-RAY CRYSTALLOGRAPHY (1.80 ANGSTROMS) IN COMPLEX WITH IRON-SULFUR
+RP   (2FE-2S), AND DISULFIDE BONDS.
+RG   Joint Center for Structural Genomics (JCSG);
+RT   "Crystal structure of a Putative aromatic-ring hydroxylating
+RT   dioxygenase (TM1040_3219) from SILICIBACTER SP. TM1040 at 1.80 A
+RT   resolution.";
+RL   Submitted (MAY-2010) to the PDB data bank.
+CC   -!- SIMILARITY: Contains 1 Rieske domain.
+CC       {ECO:0000256|RuleBase:RU004493}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP000376; ABF62193.1; -; Genomic_DNA.
+DR   PDB; 3N0Q; X-ray; 1.80 A; A=1-408.
+DR   PDBsum; 3N0Q; -.
+DR   ProteinModelPortal; Q1GMC3; -.
+DR   DNASU; 4075361; -.
+DR   EnsemblBacteria; ABF62193; ABF62193; TM1040_3219.
+DR   KEGG; sit:TM1040_3219; -.
+DR   PATRIC; 23382866; VBIRueSp69653_0295.
+DR   eggNOG; COG4638; -.
+DR   HOGENOM; HOG000217650; -.
+DR   KO; K00479; -.
+DR   OMA; CKAREGQ; -.
+DR   OrthoDB; EOG6W19DT; -.
+DR   BioCyc; RSP292414:GHCT-3278-MONOMER; -.
+DR   Proteomes; UP000000636; Plasmid megaplasmid TM1040.
+DR   GO; GO:0051537; F:2 iron, 2 sulfur cluster binding; IEA:UniProtKB-KW.
+DR   GO; GO:0005506; F:iron ion binding; IEA:InterPro.
+DR   GO; GO:0016708; F:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of two atoms of oxygen into one donor; IEA:InterPro.
+DR   GO; GO:0019439; P:aromatic compound catabolic process; IEA:InterPro.
+DR   Gene3D; 2.102.10.10; -; 1.
+DR   Gene3D; 3.90.380.10; -; 1.
+DR   InterPro; IPR017941; Rieske_2Fe-2S.
+DR   InterPro; IPR015881; Ring-hydroxy_dOase_2Fe2S_BS.
+DR   InterPro; IPR015879; Ring_hydroxy_dOase_asu_C_dom.
+DR   InterPro; IPR001663; Rng_hydr_dOase-A.
+DR   Pfam; PF00355; Rieske; 1.
+DR   Pfam; PF00848; Ring_hydroxyl_A; 1.
+DR   PRINTS; PR00090; RNGDIOXGNASE.
+DR   SUPFAM; SSF50022; SSF50022; 1.
+DR   PROSITE; PS51296; RIESKE; 1.
+DR   PROSITE; PS00570; RING_HYDROXYL_ALPHA; 1.
+PE   1: Evidence at protein level;
+KW   2Fe-2S {ECO:0000213|PDB:3N0Q, ECO:0000256|RuleBase:RU004492};
+KW   3D-structure {ECO:0000213|PDB:3N0Q};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000636};
+KW   Iron {ECO:0000213|PDB:3N0Q, ECO:0000256|RuleBase:RU004492};
+KW   Iron-sulfur {ECO:0000213|PDB:3N0Q, ECO:0000256|RuleBase:RU004492};
+KW   Metal-binding {ECO:0000213|PDB:3N0Q, ECO:0000256|RuleBase:RU004492};
+KW   Plasmid {ECO:0000313|EMBL:ABF62193.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000636}.
+FT   METAL        83     83       Iron-sulfur (2Fe-2S).
+FT                                {ECO:0000213|PDB:3N0Q}.
+FT   METAL        85     85       Iron-sulfur (2Fe-2S); via pros nitrogen.
+FT                                {ECO:0000213|PDB:3N0Q}.
+FT   METAL       103    103       Iron-sulfur (2Fe-2S).
+FT                                {ECO:0000213|PDB:3N0Q}.
+FT   METAL       106    106       Iron-sulfur (2Fe-2S); via pros nitrogen.
+FT                                {ECO:0000213|PDB:3N0Q}.
+FT   DISULFID    199    202       {ECO:0000213|PDB:3N0Q}.
+SQ   SEQUENCE   408 AA;  46091 MW;  2BD6974F1A07694C CRC64;
+     MHSNINTLIA NHRAGHALDQ AFYTDAEVFQ TDLQEIFYKE WLFAIPACEL DKPGSYVTHQ
+     VGNYNVIIVR GADNVIRAFH NACRHRGSVI CKAKKGNNPK LVCPYHQWTY ELDGRLLWAR
+     DMGPDFEPSR HGLKTVHCRE LAGLIYICLA DEAPDFERFA EVARPYLEVH DLSNAKVAHE
+     SSIVERGNWK LVWENNRECY HCGGNHPALC RTFPDDPSVT GIEGGETPSN LQAHFDRCEQ
+     AGMPSGFHLS GDGQFRVARM PLKEGAESYT MDGKTAVRRW LGRAAFADAG SLLKFHYPTT
+     WNHFLSDHSI VFRVTPISPT ETEVTTKWLV HKDAVEGVDY DLQRLTEVWI ATNDEDREVV
+     EFNQMGINSP AYEPGPYSPT QESGVLQFVE WYLSTLKRNS GPHAVAAE
+//

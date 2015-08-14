@@ -1,0 +1,338 @@
+ID   RL18E_HALMA             Reviewed;         116 AA.
+AC   P12733; Q5V5Q8;
+DT   01-OCT-1989, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 2.
+DT   22-JUL-2015, entry version 120.
+DE   RecName: Full=50S ribosomal protein L18e;
+DE   AltName: Full=Hl29;
+DE   AltName: Full=L19;
+GN   Name=rpl18e; OrderedLocusNames=rrnAC0064;
+OS   Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM
+OS   B-1809) (Halobacterium marismortui).
+OC   Archaea; Euryarchaeota; Halobacteria; Halobacteriales;
+OC   Halobacteriaceae; Haloarcula.
+OX   NCBI_TaxID=272569;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=1840597;
+RA   Kroemer W.J., Arndt E.;
+RT   "Halobacterial S9 operon. Three ribosomal protein genes are
+RT   cotranscribed with genes encoding a tRNA(Leu), the enolase, and a
+RT   putative membrane protein in the archaebacterium Haloarcula
+RT   (Halobacterium) marismortui.";
+RL   J. Biol. Chem. 266:24573-24579(1991).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809;
+RX   PubMed=15520287; DOI=10.1101/gr.2700304;
+RA   Baliga N.S., Bonneau R., Facciotti M.T., Pan M., Glusman G.,
+RA   Deutsch E.W., Shannon P., Chiu Y., Weng R.S., Gan R.R., Hung P.,
+RA   Date S.V., Marcotte E., Hood L., Ng W.V.;
+RT   "Genome sequence of Haloarcula marismortui: a halophilic archaeon from
+RT   the Dead Sea.";
+RL   Genome Res. 14:2221-2234(2004).
+RN   [3]
+RP   PROTEIN SEQUENCE OF 2-116.
+RX   PubMed=3350019; DOI=10.1111/j.1432-1033.1988.tb13945.x;
+RA   Hatakeyama T., Kimura M.;
+RT   "Complete amino acid sequences of the ribosomal proteins L25, L29 and
+RT   L31 from the archaebacterium Halobacterium marismortui.";
+RL   Eur. J. Biochem. 172:703-711(1988).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-72.
+RX   PubMed=1376318;
+RA   Scholzen T., Arndt E.;
+RT   "The alpha-operon equivalent genome region in the extreme halophilic
+RT   archaebacterium Haloarcula (Halobacterium) marismortui.";
+RL   J. Biol. Chem. 267:12123-12130(1992).
+RN   [5]
+RP   PROTEIN SEQUENCE OF 2-24.
+RX   PubMed=3196689; DOI=10.1021/bi00418a032;
+RA   Walsh M.J., McDougall J., Wittmann-Liebold B.;
+RT   "Extended N-terminal sequencing of proteins of archaebacterial
+RT   ribosomes blotted from two-dimensional gels onto glass fiber and
+RT   poly(vinylidene difluoride) membrane.";
+RL   Biochemistry 27:6867-6876(1988).
+RN   [6]
+RP   PROTEIN SEQUENCE OF 4-27; 37-39 AND 65-82, AND CROSS-LINKING TO L4.
+RX   PubMed=8345527; DOI=10.1006/jmbi.1993.1419;
+RA   Bergmann U., Wittmann-Liebold B.;
+RT   "Localization of proteins HL29 and HL31 from Haloarcula marismortui
+RT   within the 50 S ribosomal subunit by chemical crosslinking.";
+RL   J. Mol. Biol. 232:693-700(1993).
+RN   [7]
+RP   X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS) OF THE 50S SUBUNIT.
+RC   STRAIN=ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809;
+RX   PubMed=10937989; DOI=10.1126/science.289.5481.905;
+RA   Ban N., Nissen P., Hansen J., Moore P.B., Steitz T.A.;
+RT   "The complete atomic structure of the large ribosomal subunit at 2.4 A
+RT   resolution.";
+RL   Science 289:905-920(2000).
+RN   [8]
+RP   X-RAY CRYSTALLOGRAPHY (3.0 ANGSTROMS) OF THE 50S SUBUNIT.
+RC   STRAIN=ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809;
+RX   PubMed=10937990; DOI=10.1126/science.289.5481.920;
+RA   Nissen P., Hansen J., Ban N., Moore P.B., Steitz T.A.;
+RT   "The structural basis of ribosome activity in peptide bond
+RT   synthesis.";
+RL   Science 289:920-930(2000).
+RN   [9]
+RP   X-RAY CRYSTALLOGRAPHY (3.1 ANGSTROMS) OF THE 50S SUBUNIT.
+RC   STRAIN=ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809;
+RX   PubMed=11828326; DOI=10.1038/nsb758;
+RA   Schmeing T.M., Seila A.C., Hansen J.L., Freeborn B., Soukup J.K.,
+RA   Scaringe S.A., Strobel S.A., Moore P.B., Steitz T.A.;
+RT   "A pre-translocational intermediate in protein synthesis observed in
+RT   crystals of enzymatically active 50S subunits.";
+RL   Nat. Struct. Biol. 9:225-230(2002).
+RN   [10]
+RP   X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS) OF THE 50S SUBUNIT.
+RC   STRAIN=ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809;
+RX   PubMed=11483524; DOI=10.1093/emboj/20.15.4214;
+RA   Klein D.J., Schmeing T.M., Moore P.B., Steitz T.A.;
+RT   "The kink-turn: a new RNA secondary structure motif.";
+RL   EMBO J. 20:4214-4221(2001).
+RN   [11]
+RP   X-RAY CRYSTALLOGRAPHY (3.0 ANGSTROMS) OF THE 50S SUBUNIT IN COMPLEX
+RP   WITH FOUR MACROLIDE ANTIBIOTICS.
+RC   STRAIN=ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809;
+RX   PubMed=12150912; DOI=10.1016/S1097-2765(02)00570-1;
+RA   Hansen J.L., Ippolito J.A., Ban N., Nissen P., Moore P.B.,
+RA   Steitz T.A.;
+RT   "The structures of four macrolide antibiotics bound to the large
+RT   ribosomal subunit.";
+RL   Mol. Cell 10:117-128(2002).
+RN   [12]
+RP   X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) OF THE 50S SUBUNIT.
+RC   STRAIN=ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809;
+RX   PubMed=12185246; DOI=10.1073/pnas.172404099;
+RA   Hansen J.L., Schmeing T.M., Moore P.B., Steitz T.A.;
+RT   "Structural insights into peptide bond formation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 99:11670-11675(2002).
+RN   [13]
+RP   X-RAY CRYSTALLOGRAPHY (3.0 ANGSTROMS) OF THE 50S SUBUNIT IN COMPLEX
+RP   WITH FIVE ANTIBIOTICS AT THE PEPTIDYL TRANSFERASE CENTER.
+RC   STRAIN=ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809;
+RX   PubMed=12860128; DOI=10.1016/S0022-2836(03)00668-5;
+RA   Hansen J.L., Moore P.B., Steitz T.A.;
+RT   "Structures of five antibiotics bound at the peptidyl transferase
+RT   center of the large ribosomal subunit.";
+RL   J. Mol. Biol. 330:1061-1075(2003).
+RN   [14]
+RP   X-RAY CRYSTALLOGRAPHY (2.9 ANGSTROMS) OF THE 50S SUBUNIT WITH TWO
+RP   DIFFERENT E SITE SUBSTRATES.
+RX   PubMed=14561884; DOI=10.1261/rna.5120503;
+RA   Schmeing T.M., Moore P.B., Steitz T.A.;
+RT   "Structures of deacylated tRNA mimics bound to the E site of the large
+RT   ribosomal subunit.";
+RL   RNA 9:1345-1352(2003).
+RN   [15]
+RP   X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS) OF THE 50S SUBUNIT.
+RX   PubMed=23695244; DOI=10.1107/S0907444913004745;
+RA   Gabdulkhakov A., Nikonov S., Garber M.;
+RT   "Revisiting the Haloarcula marismortui 50S ribosomal subunit model.";
+RL   Acta Crystallogr. D 69:997-1004(2013).
+CC   -!- FUNCTION: Stabilizes the tertiary rRNA structure within the 23S
+CC       rRNA domain (domain II) to which it binds.
+CC   -!- SUBUNIT: Part of the 50S ribosomal subunit. Interacts weakly with
+CC       proteins L4 and L15. Has been cross-linked to L4.
+CC       {ECO:0000269|PubMed:12150912, ECO:0000269|PubMed:12860128}.
+CC   -!- SIMILARITY: Belongs to the ribosomal protein L18e family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M76567; AAA73096.1; -; Genomic_DNA.
+DR   EMBL; AY596297; AAV45144.1; -; Genomic_DNA.
+DR   EMBL; M87833; AAA73213.1; -; Genomic_DNA.
+DR   PIR; A41715; R5HSH9.
+DR   RefSeq; WP_004516800.1; NC_006396.1.
+DR   RefSeq; YP_134850.1; NC_006396.1.
+DR   PDB; 1FFK; X-ray; 2.40 A; L=2-116.
+DR   PDB; 1JJ2; X-ray; 2.40 A; N=2-116.
+DR   PDB; 1K73; X-ray; 3.01 A; P=2-116.
+DR   PDB; 1K8A; X-ray; 3.00 A; P=2-116.
+DR   PDB; 1K9M; X-ray; 3.00 A; P=2-116.
+DR   PDB; 1KC8; X-ray; 3.01 A; P=2-116.
+DR   PDB; 1KD1; X-ray; 3.00 A; P=2-116.
+DR   PDB; 1KQS; X-ray; 3.10 A; N=2-116.
+DR   PDB; 1M1K; X-ray; 3.20 A; P=2-116.
+DR   PDB; 1M90; X-ray; 2.80 A; P=2-116.
+DR   PDB; 1N8R; X-ray; 3.00 A; P=2-116.
+DR   PDB; 1NJI; X-ray; 3.00 A; P=2-116.
+DR   PDB; 1Q7Y; X-ray; 3.20 A; P=2-116.
+DR   PDB; 1Q81; X-ray; 2.95 A; P=2-116.
+DR   PDB; 1Q82; X-ray; 2.98 A; P=2-116.
+DR   PDB; 1Q86; X-ray; 3.00 A; P=2-116.
+DR   PDB; 1QVF; X-ray; 3.10 A; N=2-116.
+DR   PDB; 1QVG; X-ray; 2.90 A; N=2-116.
+DR   PDB; 1S72; X-ray; 2.40 A; O=1-116.
+DR   PDB; 1VQ4; X-ray; 2.70 A; O=1-116.
+DR   PDB; 1VQ5; X-ray; 2.60 A; O=1-116.
+DR   PDB; 1VQ6; X-ray; 2.70 A; O=1-116.
+DR   PDB; 1VQ7; X-ray; 2.50 A; O=1-116.
+DR   PDB; 1VQ8; X-ray; 2.20 A; O=1-116.
+DR   PDB; 1VQ9; X-ray; 2.40 A; O=1-116.
+DR   PDB; 1VQK; X-ray; 2.30 A; O=1-116.
+DR   PDB; 1VQL; X-ray; 2.30 A; O=1-116.
+DR   PDB; 1VQM; X-ray; 2.30 A; O=1-116.
+DR   PDB; 1VQN; X-ray; 2.40 A; O=1-116.
+DR   PDB; 1VQO; X-ray; 2.20 A; O=1-116.
+DR   PDB; 1VQP; X-ray; 2.25 A; O=1-116.
+DR   PDB; 1W2B; X-ray; 3.50 A; N=2-116.
+DR   PDB; 1YHQ; X-ray; 2.40 A; O=1-116.
+DR   PDB; 1YI2; X-ray; 2.65 A; O=1-116.
+DR   PDB; 1YIJ; X-ray; 2.60 A; O=1-116.
+DR   PDB; 1YIT; X-ray; 2.80 A; O=1-116.
+DR   PDB; 1YJ9; X-ray; 2.90 A; O=1-116.
+DR   PDB; 1YJN; X-ray; 3.00 A; O=1-116.
+DR   PDB; 1YJW; X-ray; 2.90 A; O=1-116.
+DR   PDB; 2OTJ; X-ray; 2.90 A; O=1-116.
+DR   PDB; 2OTL; X-ray; 2.70 A; O=1-116.
+DR   PDB; 2QA4; X-ray; 3.00 A; O=1-116.
+DR   PDB; 2QEX; X-ray; 2.90 A; O=1-116.
+DR   PDB; 3CC2; X-ray; 2.40 A; O=1-116.
+DR   PDB; 3CC4; X-ray; 2.70 A; O=1-116.
+DR   PDB; 3CC7; X-ray; 2.70 A; O=1-116.
+DR   PDB; 3CCE; X-ray; 2.75 A; O=1-116.
+DR   PDB; 3CCJ; X-ray; 2.70 A; O=1-116.
+DR   PDB; 3CCL; X-ray; 2.90 A; O=1-116.
+DR   PDB; 3CCM; X-ray; 2.55 A; O=1-116.
+DR   PDB; 3CCQ; X-ray; 2.90 A; O=1-116.
+DR   PDB; 3CCR; X-ray; 3.00 A; O=1-116.
+DR   PDB; 3CCS; X-ray; 2.95 A; O=1-116.
+DR   PDB; 3CCU; X-ray; 2.80 A; O=1-116.
+DR   PDB; 3CCV; X-ray; 2.90 A; O=1-116.
+DR   PDB; 3CD6; X-ray; 2.75 A; O=1-116.
+DR   PDB; 3CMA; X-ray; 2.80 A; O=1-116.
+DR   PDB; 3CME; X-ray; 2.95 A; O=1-116.
+DR   PDB; 3CPW; X-ray; 2.70 A; N=1-116.
+DR   PDB; 3CXC; X-ray; 3.00 A; N=2-116.
+DR   PDB; 3G4S; X-ray; 3.20 A; O=2-116.
+DR   PDB; 3G6E; X-ray; 2.70 A; O=2-116.
+DR   PDB; 3G71; X-ray; 2.85 A; O=2-116.
+DR   PDB; 3I55; X-ray; 3.11 A; O=1-116.
+DR   PDB; 3I56; X-ray; 2.90 A; O=1-116.
+DR   PDB; 3OW2; X-ray; 2.70 A; N=2-116.
+DR   PDB; 4ADX; EM; 6.60 A; O=1-116.
+DR   PDB; 4V9F; X-ray; 2.40 A; O=1-116.
+DR   PDBsum; 1FFK; -.
+DR   PDBsum; 1JJ2; -.
+DR   PDBsum; 1K73; -.
+DR   PDBsum; 1K8A; -.
+DR   PDBsum; 1K9M; -.
+DR   PDBsum; 1KC8; -.
+DR   PDBsum; 1KD1; -.
+DR   PDBsum; 1KQS; -.
+DR   PDBsum; 1M1K; -.
+DR   PDBsum; 1M90; -.
+DR   PDBsum; 1N8R; -.
+DR   PDBsum; 1NJI; -.
+DR   PDBsum; 1Q7Y; -.
+DR   PDBsum; 1Q81; -.
+DR   PDBsum; 1Q82; -.
+DR   PDBsum; 1Q86; -.
+DR   PDBsum; 1QVF; -.
+DR   PDBsum; 1QVG; -.
+DR   PDBsum; 1S72; -.
+DR   PDBsum; 1VQ4; -.
+DR   PDBsum; 1VQ5; -.
+DR   PDBsum; 1VQ6; -.
+DR   PDBsum; 1VQ7; -.
+DR   PDBsum; 1VQ8; -.
+DR   PDBsum; 1VQ9; -.
+DR   PDBsum; 1VQK; -.
+DR   PDBsum; 1VQL; -.
+DR   PDBsum; 1VQM; -.
+DR   PDBsum; 1VQN; -.
+DR   PDBsum; 1VQO; -.
+DR   PDBsum; 1VQP; -.
+DR   PDBsum; 1W2B; -.
+DR   PDBsum; 1YHQ; -.
+DR   PDBsum; 1YI2; -.
+DR   PDBsum; 1YIJ; -.
+DR   PDBsum; 1YIT; -.
+DR   PDBsum; 1YJ9; -.
+DR   PDBsum; 1YJN; -.
+DR   PDBsum; 1YJW; -.
+DR   PDBsum; 2OTJ; -.
+DR   PDBsum; 2OTL; -.
+DR   PDBsum; 2QA4; -.
+DR   PDBsum; 2QEX; -.
+DR   PDBsum; 3CC2; -.
+DR   PDBsum; 3CC4; -.
+DR   PDBsum; 3CC7; -.
+DR   PDBsum; 3CCE; -.
+DR   PDBsum; 3CCJ; -.
+DR   PDBsum; 3CCL; -.
+DR   PDBsum; 3CCM; -.
+DR   PDBsum; 3CCQ; -.
+DR   PDBsum; 3CCR; -.
+DR   PDBsum; 3CCS; -.
+DR   PDBsum; 3CCU; -.
+DR   PDBsum; 3CCV; -.
+DR   PDBsum; 3CD6; -.
+DR   PDBsum; 3CMA; -.
+DR   PDBsum; 3CME; -.
+DR   PDBsum; 3CPW; -.
+DR   PDBsum; 3CXC; -.
+DR   PDBsum; 3G4S; -.
+DR   PDBsum; 3G6E; -.
+DR   PDBsum; 3G71; -.
+DR   PDBsum; 3I55; -.
+DR   PDBsum; 3I56; -.
+DR   PDBsum; 3OW2; -.
+DR   PDBsum; 4ADX; -.
+DR   PDBsum; 4V9F; -.
+DR   ProteinModelPortal; P12733; -.
+DR   SMR; P12733; 2-116.
+DR   STRING; 272569.rrnAC0064; -.
+DR   EnsemblBacteria; AAV45144; AAV45144; rrnAC0064.
+DR   GeneID; 23805366; -.
+DR   GeneID; 3130533; -.
+DR   KEGG; hma:rrnAC0064; -.
+DR   eggNOG; COG1727; -.
+DR   HOGENOM; HOG000225300; -.
+DR   KO; K02883; -.
+DR   OMA; VAAWKFS; -.
+DR   BioCyc; HMAR272569:GJDH-60-MONOMER; -.
+DR   EvolutionaryTrace; P12733; -.
+DR   Proteomes; UP000001169; Chromosome I.
+DR   GO; GO:0005840; C:ribosome; IEA:UniProtKB-KW.
+DR   GO; GO:0019843; F:rRNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003735; F:structural constituent of ribosome; IEA:InterPro.
+DR   GO; GO:0006412; P:translation; IEA:UniProtKB-HAMAP.
+DR   HAMAP; MF_00329; Ribosomal_L18e; 1.
+DR   InterPro; IPR001196; Ribosomal_L15_CS.
+DR   InterPro; IPR000039; Ribosomal_L18e.
+DR   InterPro; IPR021131; Ribosomal_L18e/L15P.
+DR   InterPro; IPR022947; Ribosomal_L18e_arc.
+DR   InterPro; IPR021132; Ribosomal_L18e_CS.
+DR   PANTHER; PTHR10934; PTHR10934; 1.
+DR   Pfam; PF00828; Ribosomal_L18e; 1.
+DR   SUPFAM; SSF52080; SSF52080; 1.
+DR   PROSITE; PS01106; RIBOSOMAL_L18E; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Direct protein sequencing;
+KW   Reference proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+KW   rRNA-binding.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:3196689,
+FT                                ECO:0000269|PubMed:3350019}.
+FT   CHAIN         2    116       50S ribosomal protein L18e.
+FT                                /FTId=PRO_0000132787.
+FT   HELIX         6     21       {ECO:0000244|PDB:1VQ8}.
+FT   HELIX        25     34       {ECO:0000244|PDB:1VQ8}.
+FT   HELIX        38     40       {ECO:0000244|PDB:1VQ8}.
+FT   STRAND       41     45       {ECO:0000244|PDB:1VQ8}.
+FT   HELIX        46     52       {ECO:0000244|PDB:1VQ8}.
+FT   STRAND       57     66       {ECO:0000244|PDB:1VQ8}.
+FT   STRAND       76     82       {ECO:0000244|PDB:1VQ8}.
+FT   HELIX        84     93       {ECO:0000244|PDB:1VQ8}.
+FT   STRAND       94     98       {ECO:0000244|PDB:1VQ8}.
+FT   HELIX        99    105       {ECO:0000244|PDB:1VQ8}.
+FT   STRAND      111    114       {ECO:0000244|PDB:1VQ8}.
+SQ   SEQUENCE   116 AA;  12422 MW;  BFACD702AE94474D CRC64;
+     MSKTNPRLSS LIADLKSAAR SSGGAVWGDV AERLEKPRRT HAEVNLGRIE RYAQEDETVV
+     VPGKVLGSGV LQKDVTVAAV DFSGTAETKI DQVGEAVSLE QAIENNPEGS HVRVIR
+//

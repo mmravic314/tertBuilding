@@ -1,0 +1,196 @@
+ID   DOP_ACIC1               Reviewed;         503 AA.
+AC   A0LU48;
+DT   13-NOV-2013, integrated into UniProtKB/Swiss-Prot.
+DT   12-DEC-2006, sequence version 1.
+DT   22-JUL-2015, entry version 54.
+DE   RecName: Full=Depupylase;
+DE            EC=3.4.-.-;
+GN   Name=dop; OrderedLocusNames=Acel_1186;
+OS   Acidothermus cellulolyticus (strain ATCC 43068 / 11B).
+OC   Bacteria; Actinobacteria; Acidothermales; Acidothermaceae;
+OC   Acidothermus.
+OX   NCBI_TaxID=351607;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 43068 / 11B;
+RA   Copeland A., Lucas S., Lapidus A., Barry K., Detter J.C.,
+RA   Glavina del Rio T., Hammon N., Israni S., Dalin E., Tice H.,
+RA   Pitluck S., Zharchuk I., Schmutz J., Larimer F., Land M., Hauser L.,
+RA   Kyrpides N., Mikhailova N., Berry A.M., Adney W.S., Normand P.,
+RA   Leu D., Pujic P., Richardson P.;
+RT   "Complete sequence of Acidothermus cellulolyticus 11B.";
+RL   Submitted (OCT-2006) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (2.60 ANGSTROMS) OF 1-501 OF APOENZYME AND IN
+RP   COMPLEX WITH ATP AND MAGNESIUM, FUNCTION, CATALYTIC ACTIVITY, ACTIVE
+RP   SITE, AND MUTAGENESIS OF GLU-8; GLU-10; TYR-92; ASP-94; HIS-97;
+RP   GLN-139; HIS-155; ARG-205; ARG-221; HIS-241 AND ARG-400.
+RC   STRAIN=ATCC 43068 / 11B;
+RX   PubMed=22910360; DOI=10.1038/ncomms2009;
+RA   Ozcelik D., Barandun J., Schmitz N., Sutter M., Guth E.,
+RA   Damberger F.F., Allain F.H., Ban N., Weber-Ban E.;
+RT   "Structures of Pup ligase PafA and depupylase Dop from the prokaryotic
+RT   ubiquitin-like modification pathway.";
+RL   Nat. Commun. 3:1014-1014(2012).
+CC   -!- FUNCTION: Displays depupylase (DPUP) activity, removing conjugated
+CC       Pup from target proteins; is thus involved in the recycling of Pup
+CC       and may function similarly to deubiquitinases (DUBs) in eukaryotes
+CC       to prevent or promote proteasomal degradation of certain proteins.
+CC       Is also able to catalyze the deamidation of the C-terminal
+CC       glutamine to glutamate in a variant of the prokaryotic ubiquitin-
+CC       like protein Pup; however, since Pup from A.cellulolyticus
+CC       possesses a C-terminal glutamate, this deamidase activity may be
+CC       of no significance in vivo. {ECO:0000269|PubMed:22910360}.
+CC   -!- COFACTOR:
+CC       Name=ATP; Xref=ChEBI:CHEBI:30616; Evidence={ECO:0000250};
+CC       Note=ATP is required for the deamidation and depupylation
+CC       reactions but is not hydrolyzed during the reactions.
+CC       {ECO:0000250};
+CC   -!- PATHWAY: Protein degradation; proteasomal Pup-dependent pathway.
+CC   -!- SUBUNIT: Likely interacts with the C-terminal half of the
+CC       prokaryotic ubiquitin-like protein Pup.
+CC       {ECO:0000269|PubMed:22910360}.
+CC   -!- SIMILARITY: Belongs to the Pup ligase/Pup deamidase family. Pup
+CC       deamidase subfamily. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP000481; ABK52958.1; -; Genomic_DNA.
+DR   PDB; 4B0R; X-ray; 2.60 A; A=1-501.
+DR   PDB; 4B0S; X-ray; 2.85 A; A=1-501.
+DR   PDBsum; 4B0R; -.
+DR   PDBsum; 4B0S; -.
+DR   STRING; 351607.Acel_1186; -.
+DR   EnsemblBacteria; ABK52958; ABK52958; Acel_1186.
+DR   KEGG; ace:Acel_1186; -.
+DR   PATRIC; 20672844; VBIAciCel132453_1258.
+DR   eggNOG; NOG04176; -.
+DR   HOGENOM; HOG000264266; -.
+DR   KO; K13571; -.
+DR   OMA; YFRGRCL; -.
+DR   OrthoDB; EOG6PS5V6; -.
+DR   BioCyc; ACEL351607:GIXW-1212-MONOMER; -.
+DR   UniPathway; UPA00997; -.
+DR   Proteomes; UP000008221; Chromosome.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016811; F:hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0008233; F:peptidase activity; IEA:InterPro.
+DR   GO; GO:0019941; P:modification-dependent protein catabolic process; IEA:InterPro.
+DR   GO; GO:0010498; P:proteasomal protein catabolic process; IEA:InterPro.
+DR   InterPro; IPR022366; Pup_deamidase.
+DR   InterPro; IPR004347; Pup_ligase/deamidase.
+DR   Pfam; PF03136; Pup_ligase; 1.
+DR   PIRSF; PIRSF018077; UCP018077; 1.
+DR   TIGRFAMs; TIGR03688; pupylate_PafA2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; ATP-binding; Complete proteome; Hydrolase; Magnesium;
+KW   Metal-binding; Nucleotide-binding; Reference proteome.
+FT   CHAIN         1    503       Depupylase.
+FT                                /FTId=PRO_0000424323.
+FT   NP_BIND     101    102       ATP. {ECO:0000269|PubMed:22910360}.
+FT   ACT_SITE     94     94       Proton acceptor.
+FT                                {ECO:0000305|PubMed:22910360}.
+FT   METAL         8      8       Magnesium 1.
+FT                                {ECO:0000269|PubMed:22910360}.
+FT   METAL         8      8       Magnesium 2.
+FT                                {ECO:0000269|PubMed:22910360}.
+FT   METAL        92     92       Magnesium 1.
+FT                                {ECO:0000269|PubMed:22910360}.
+FT   METAL        99     99       Magnesium 1.
+FT                                {ECO:0000269|PubMed:22910360}.
+FT   METAL       155    155       Magnesium 2.
+FT                                {ECO:0000269|PubMed:22910360}.
+FT   METAL       241    241       Magnesium 2.
+FT                                {ECO:0000269|PubMed:22910360}.
+FT   BINDING     157    157       ATP. {ECO:0000269|PubMed:22910360}.
+FT   BINDING     239    239       ATP. {ECO:0000269|PubMed:22910360}.
+FT   MUTAGEN       8      8       E->A: Abolishes depupylation and
+FT                                deamidation activities.
+FT                                {ECO:0000269|PubMed:22910360}.
+FT   MUTAGEN      10     10       E->A: Abolishes depupylation and
+FT                                deamidation activities.
+FT                                {ECO:0000269|PubMed:22910360}.
+FT   MUTAGEN      92     92       Y->A: Reduces depupylation but not
+FT                                deamidation activity.
+FT                                {ECO:0000269|PubMed:22910360}.
+FT   MUTAGEN      94     94       D->A: Abolishes depupylation and
+FT                                deamidation activities.
+FT                                {ECO:0000269|PubMed:22910360}.
+FT   MUTAGEN      97     97       H->A: Reduces depupylation but not
+FT                                deamidation activity.
+FT                                {ECO:0000269|PubMed:22910360}.
+FT   MUTAGEN     139    139       Q->E: Abolishes depupylation.
+FT                                {ECO:0000269|PubMed:22910360}.
+FT   MUTAGEN     155    155       H->A: Abolishes depupylation but not
+FT                                deamidation activity.
+FT                                {ECO:0000269|PubMed:22910360}.
+FT   MUTAGEN     205    205       R->A: Impairs depupylation and
+FT                                significantly slows deamidation.
+FT                                {ECO:0000269|PubMed:22910360}.
+FT   MUTAGEN     221    221       R->A: Abolishes depupylation and
+FT                                deamidation activities.
+FT                                {ECO:0000269|PubMed:22910360}.
+FT   MUTAGEN     241    241       H->A: Abolishes depupylation and
+FT                                deamidation activities.
+FT                                {ECO:0000269|PubMed:22910360}.
+FT   MUTAGEN     400    400       R->E: Abolishes depupylation.
+FT                                {ECO:0000269|PubMed:22910360}.
+FT   STRAND        5     10       {ECO:0000244|PDB:4B0R}.
+FT   STRAND       12     14       {ECO:0000244|PDB:4B0R}.
+FT   HELIX        23     34       {ECO:0000244|PDB:4B0R}.
+FT   STRAND       82     84       {ECO:0000244|PDB:4B0S}.
+FT   STRAND       90     94       {ECO:0000244|PDB:4B0R}.
+FT   STRAND       97    101       {ECO:0000244|PDB:4B0R}.
+FT   STRAND      105    107       {ECO:0000244|PDB:4B0R}.
+FT   HELIX       108    129       {ECO:0000244|PDB:4B0R}.
+FT   STRAND      132    134       {ECO:0000244|PDB:4B0R}.
+FT   STRAND      139    141       {ECO:0000244|PDB:4B0R}.
+FT   STRAND      143    145       {ECO:0000244|PDB:4B0R}.
+FT   STRAND      147    149       {ECO:0000244|PDB:4B0R}.
+FT   STRAND      154    161       {ECO:0000244|PDB:4B0R}.
+FT   HELIX       166    179       {ECO:0000244|PDB:4B0R}.
+FT   HELIX       181    184       {ECO:0000244|PDB:4B0R}.
+FT   STRAND      188    194       {ECO:0000244|PDB:4B0R}.
+FT   STRAND      197    202       {ECO:0000244|PDB:4B0R}.
+FT   HELIX       206    208       {ECO:0000244|PDB:4B0R}.
+FT   STRAND      211    214       {ECO:0000244|PDB:4B0R}.
+FT   STRAND      222    225       {ECO:0000244|PDB:4B0R}.
+FT   TURN        234    236       {ECO:0000244|PDB:4B0R}.
+FT   STRAND      237    242       {ECO:0000244|PDB:4B0R}.
+FT   HELIX       251    269       {ECO:0000244|PDB:4B0R}.
+FT   STRAND      279    281       {ECO:0000244|PDB:4B0R}.
+FT   HELIX       282    290       {ECO:0000244|PDB:4B0R}.
+FT   STRAND      298    304       {ECO:0000244|PDB:4B0R}.
+FT   STRAND      306    308       {ECO:0000244|PDB:4B0R}.
+FT   HELIX       309    328       {ECO:0000244|PDB:4B0R}.
+FT   HELIX       329    331       {ECO:0000244|PDB:4B0R}.
+FT   HELIX       334    352       {ECO:0000244|PDB:4B0R}.
+FT   HELIX       355    357       {ECO:0000244|PDB:4B0R}.
+FT   TURN        358    360       {ECO:0000244|PDB:4B0R}.
+FT   HELIX       362    377       {ECO:0000244|PDB:4B0R}.
+FT   HELIX       384    392       {ECO:0000244|PDB:4B0R}.
+FT   TURN        398    400       {ECO:0000244|PDB:4B0R}.
+FT   HELIX       402    408       {ECO:0000244|PDB:4B0R}.
+FT   HELIX       418    426       {ECO:0000244|PDB:4B0R}.
+FT   STRAND      430    432       {ECO:0000244|PDB:4B0R}.
+FT   HELIX       434    443       {ECO:0000244|PDB:4B0R}.
+FT   HELIX       445    447       {ECO:0000244|PDB:4B0R}.
+FT   STRAND      448    451       {ECO:0000244|PDB:4B0R}.
+FT   STRAND      453    458       {ECO:0000244|PDB:4B0R}.
+FT   STRAND      467    470       {ECO:0000244|PDB:4B0R}.
+FT   STRAND      476    478       {ECO:0000244|PDB:4B0S}.
+FT   HELIX       479    488       {ECO:0000244|PDB:4B0R}.
+FT   HELIX       492    498       {ECO:0000244|PDB:4B0R}.
+SQ   SEQUENCE   503 AA;  56577 MW;  B57F6E5A8943BBD2 CRC64;
+     MHRVMGIETE YGISVPHQPN ANAMAASSQV VNAYAPIGAP AQRQARWDFE EENPLRDARG
+     FEVAREAADP SQLTDEDLGL ANVILTNGAR LYVDHAHPEY STPEVTNPRD AVLWDKAGER
+     IMAEAARRAA DLPMGWTIQL YKNNTDNKGA SYGCHENYLM NRSTPFADIV RHLIPFFVTR
+     QVFCGAGRVG IGADGRGEGF QLSQRADFFE VEVGLETTLK RPIINTRDEP HADPEKYRRL
+     HVIIGDANMS EIATYLKLGT TALVLAMIED GFLSQDFSVE SPVGALRAVS HDPTLRYQLR
+     LHDGRRLTAV QLQMEYLEQA RKYVEDRFGT DVDDMTRDVL DRWETTLVRL ADDPMQLSRD
+     LDWVAKLSIL EGYRQRENLP WSAHKLQLVD LQYHDVRPDR GLYNRLVARG RMNLLVDEAA
+     VRTAMHEPPN DTRAYFRGRC LAKFGAEIAA ASWDSVIFDL PGRDSLQRVP TLEPLRGTRA
+     HVGDLLDRCR SATELVAALT GGR
+//

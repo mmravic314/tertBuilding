@@ -1,0 +1,87 @@
+ID   NUDJ_ECOK1              Reviewed;         153 AA.
+AC   A1AA28;
+DT   01-JUL-2008, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 1.
+DT   22-JUL-2015, entry version 60.
+DE   RecName: Full=Phosphatase NudJ;
+DE            EC=3.6.1.-;
+GN   Name=nudJ; OrderedLocusNames=Ecok1_10240; ORFNames=APECO1_216;
+OS   Escherichia coli O1:K1 / APEC.
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=405955;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=17293413; DOI=10.1128/JB.01726-06;
+RA   Johnson T.J., Kariyawasam S., Wannemuehler Y., Mangiamele P.,
+RA   Johnson S.J., Doetkott C., Skyberg J.A., Lynne A.M., Johnson J.R.,
+RA   Nolan L.K.;
+RT   "The genome sequence of avian pathogenic Escherichia coli strain
+RT   O1:K1:H7 shares strong similarities with human extraintestinal
+RT   pathogenic E. coli genomes.";
+RL   J. Bacteriol. 189:3228-3236(2007).
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250};
+CC   -!- SUBUNIT: Monomer. {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the Nudix hydrolase family. NudJ subfamily.
+CC       {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 nudix hydrolase domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00794}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP000468; ABJ00518.1; -; Genomic_DNA.
+DR   RefSeq; WP_000476093.1; NC_008563.1.
+DR   PDB; 3DKU; X-ray; 2.69 A; A/B/C/D/E/F/G/H=1-153.
+DR   PDB; 3SHD; X-ray; 2.50 A; A/B/C/D/E/F/G/H/I/J/K/L=1-153.
+DR   PDBsum; 3DKU; -.
+DR   PDBsum; 3SHD; -.
+DR   ProteinModelPortal; A1AA28; -.
+DR   SMR; A1AA28; 1-153.
+DR   EnsemblBacteria; ABJ00518; ABJ00518; APECO1_216.
+DR   KEGG; ecv:APECO1_216; -.
+DR   PATRIC; 18213704; VBIEscCol127180_1138.
+DR   eggNOG; COG0494; -.
+DR   HOGENOM; HOG000256353; -.
+DR   KO; K12152; -.
+DR   OMA; RWKPNVT; -.
+DR   OrthoDB; EOG66F083; -.
+DR   EvolutionaryTrace; A1AA28; -.
+DR   Proteomes; UP000008216; Chromosome.
+DR   GO; GO:0016787; F:hydrolase activity; IEA:UniProtKB-KW.
+DR   Gene3D; 3.90.79.10; -; 1.
+DR   InterPro; IPR020476; Nudix_hydrolase.
+DR   InterPro; IPR020084; NUDIX_hydrolase_CS.
+DR   InterPro; IPR000086; NUDIX_hydrolase_dom.
+DR   InterPro; IPR015797; NUDIX_hydrolase_dom-like.
+DR   Pfam; PF00293; NUDIX; 1.
+DR   PRINTS; PR00502; NUDIXFAMILY.
+DR   SUPFAM; SSF55811; SSF55811; 1.
+DR   PROSITE; PS51462; NUDIX; 1.
+DR   PROSITE; PS00893; NUDIX_BOX; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Hydrolase; Magnesium.
+FT   CHAIN         1    153       Phosphatase NudJ.
+FT                                /FTId=PRO_0000342642.
+FT   DOMAIN        3    131       Nudix hydrolase. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00794}.
+FT   MOTIF        36     57       Nudix box.
+FT   STRAND        5     14       {ECO:0000244|PDB:3SHD}.
+FT   STRAND       17     25       {ECO:0000244|PDB:3SHD}.
+FT   STRAND       28     32       {ECO:0000244|PDB:3SHD}.
+FT   STRAND       34     37       {ECO:0000244|PDB:3SHD}.
+FT   HELIX        44     56       {ECO:0000244|PDB:3SHD}.
+FT   STRAND       64     71       {ECO:0000244|PDB:3SHD}.
+FT   STRAND       79     87       {ECO:0000244|PDB:3SHD}.
+FT   STRAND      103    107       {ECO:0000244|PDB:3SHD}.
+FT   HELIX       109    113       {ECO:0000244|PDB:3SHD}.
+FT   STRAND      118    120       {ECO:0000244|PDB:3SHD}.
+FT   HELIX       122    131       {ECO:0000244|PDB:3SHD}.
+FT   HELIX       138    141       {ECO:0000244|PDB:3SHD}.
+FT   STRAND      143    145       {ECO:0000244|PDB:3SHD}.
+SQ   SEQUENCE   153 AA;  17433 MW;  BDB7423E97D6735A CRC64;
+     MFKPHVTVAC VVHAEGKFLV VEETINGKAL WNQPAGHLEA DETLVEAAAR ELWEETGISA
+     QPQHFIRMHQ WIAPDKTPFL RFLFAIELEQ ICPTQPHDSD IDCCRWVSAE EILQASNLRS
+     PLVAESIRCY QSGQRYPLEM IGDFNWPFTK GVI
+//

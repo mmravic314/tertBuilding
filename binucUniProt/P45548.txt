@@ -1,0 +1,178 @@
+ID   PHP_ECOLI               Reviewed;         292 AA.
+AC   P45548; Q2M744;
+DT   01-NOV-1995, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1995, sequence version 1.
+DT   22-JUL-2015, entry version 112.
+DE   RecName: Full=Phosphotriesterase homology protein;
+GN   Name=php; Synonyms=yhfV; OrderedLocusNames=b3379, JW3342;
+OS   Escherichia coli (strain K12).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=83333;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / MG1655 / ATCC 47076;
+RX   PubMed=9278503; DOI=10.1126/science.277.5331.1453;
+RA   Blattner F.R., Plunkett G. III, Bloch C.A., Perna N.T., Burland V.,
+RA   Riley M., Collado-Vides J., Glasner J.D., Rode C.K., Mayhew G.F.,
+RA   Gregor J., Davis N.W., Kirkpatrick H.A., Goeden M.A., Rose D.J.,
+RA   Mau B., Shao Y.;
+RT   "The complete genome sequence of Escherichia coli K-12.";
+RL   Science 277:1453-1462(1997).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / W3110 / ATCC 27325 / DSM 5911;
+RX   PubMed=16738553; DOI=10.1038/msb4100049;
+RA   Hayashi K., Morooka N., Yamamoto Y., Fujita K., Isono K., Choi S.,
+RA   Ohtsubo E., Baba T., Wanner B.L., Mori H., Horiuchi T.;
+RT   "Highly accurate genome sequences of Escherichia coli K-12 strains
+RT   MG1655 and W3110.";
+RL   Mol. Syst. Biol. 2:E1-E5(2006).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS), AND PARTIAL PROTEIN SEQUENCE.
+RX   PubMed=9548740; DOI=10.1021/bi971707+;
+RA   Buchbinder J.L., Stephenson R.C., Dresser M.J., Pitera J.W.,
+RA   Scanlan T.S., Fletterick R.J.;
+RT   "Biochemical characterization and crystallographic structure of an
+RT   Escherichia coli protein from the phosphotriesterase gene family.";
+RL   Biochemistry 37:5096-5106(1998).
+RN   [4]
+RP   ERRATUM.
+RX   PubMed=9692977; DOI=10.1021/bi985043v;
+RA   Buchbinder J.L., Stephenson R.C., Dresser M.J., Pitera J.W.,
+RA   Scanlan T.S., Fletterick R.J.;
+RL   Biochemistry 37:10860-10860(1998).
+CC   -!- FUNCTION: Its real enzymatic activity is not yet known. It was
+CC       tested for general esterase, aminopeptidase, sulfatase,
+CC       phosphatase, carbonic anhydrase, phosphodiesterase, and
+CC       phosphotriesterase activities with the following substrates: p-
+CC       nitrophenyl acetate, L-alanine nitroanilide, p-nitrophenyl
+CC       sulfate, bis(p-nitrophenyl) phosphate, paraoxon, and p-nitrophenyl
+CC       phosphate. No enzymatic activity was detected with any of these
+CC       non-specific substrates.
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC       Note=Binds 2 Zn(2+) ions per subunit.;
+CC   -!- SUBUNIT: Monomer.
+CC   -!- INTERACTION:
+CC       P0A6F5:groL; NbExp=1; IntAct=EBI-1123441, EBI-543750;
+CC   -!- SIMILARITY: Belongs to the phosphotriesterase family.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00679}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U18997; AAA58176.1; -; Genomic_DNA.
+DR   EMBL; U00096; AAC76404.1; -; Genomic_DNA.
+DR   EMBL; AP009048; BAE77912.1; -; Genomic_DNA.
+DR   PIR; F65132; F65132.
+DR   RefSeq; NP_417838.1; NC_000913.3.
+DR   RefSeq; WP_000007010.1; NZ_CP010445.1.
+DR   PDB; 1BF6; X-ray; 1.70 A; A/B=2-292.
+DR   PDB; 4LEF; X-ray; 1.84 A; A/B/C/D/E/F/G/H=1-292.
+DR   PDBsum; 1BF6; -.
+DR   PDBsum; 4LEF; -.
+DR   ProteinModelPortal; P45548; -.
+DR   SMR; P45548; 2-292.
+DR   DIP; DIP-10504N; -.
+DR   IntAct; P45548; 2.
+DR   STRING; 511145.b3379; -.
+DR   PaxDb; P45548; -.
+DR   PRIDE; P45548; -.
+DR   EnsemblBacteria; AAC76404; AAC76404; b3379.
+DR   EnsemblBacteria; BAE77912; BAE77912; BAE77912.
+DR   GeneID; 947891; -.
+DR   KEGG; eco:b3379; -.
+DR   PATRIC; 32122190; VBIEscCol129921_3472.
+DR   EchoBASE; EB2753; -.
+DR   EcoGene; EG12917; php.
+DR   eggNOG; COG1735; -.
+DR   HOGENOM; HOG000081700; -.
+DR   InParanoid; P45548; -.
+DR   KO; K07048; -.
+DR   OMA; CDAHDHL; -.
+DR   OrthoDB; EOG628F2X; -.
+DR   PhylomeDB; P45548; -.
+DR   BioCyc; EcoCyc:G7731-MONOMER; -.
+DR   BioCyc; ECOL316407:JW3342-MONOMER; -.
+DR   EvolutionaryTrace; P45548; -.
+DR   PRO; PR:P45548; -.
+DR   Proteomes; UP000000318; Chromosome.
+DR   Proteomes; UP000000625; Chromosome.
+DR   GO; GO:0016788; F:hydrolase activity, acting on ester bonds; IEA:InterPro.
+DR   GO; GO:0008270; F:zinc ion binding; IDA:EcoCyc.
+DR   GO; GO:0009056; P:catabolic process; IEA:InterPro.
+DR   InterPro; IPR017947; AryldialkylPase_Zn-BS.
+DR   InterPro; IPR001559; Phosphotriesterase.
+DR   PANTHER; PTHR10819; PTHR10819; 1.
+DR   Pfam; PF02126; PTE; 1.
+DR   PROSITE; PS01322; PHOSPHOTRIESTERASE_1; 1.
+DR   PROSITE; PS51347; PHOSPHOTRIESTERASE_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Direct protein sequencing; Hydrolase;
+KW   Metal-binding; Reference proteome; Zinc.
+FT   CHAIN         1    292       Phosphotriesterase homology protein.
+FT                                /FTId=PRO_0000205362.
+FT   METAL        12     12       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000244|PDB:1BF6,
+FT                                ECO:0000244|PDB:4LEF,
+FT                                ECO:0000269|PubMed:9548740}.
+FT   METAL        14     14       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000244|PDB:1BF6,
+FT                                ECO:0000244|PDB:4LEF,
+FT                                ECO:0000269|PubMed:9548740}.
+FT   METAL       125    125       Zinc 1. {ECO:0000244|PDB:1BF6,
+FT                                ECO:0000244|PDB:4LEF,
+FT                                ECO:0000269|PubMed:9548740}.
+FT   METAL       125    125       Zinc 2. {ECO:0000244|PDB:1BF6,
+FT                                ECO:0000244|PDB:4LEF,
+FT                                ECO:0000269|PubMed:9548740}.
+FT   METAL       158    158       Zinc 2; via pros nitrogen.
+FT                                {ECO:0000244|PDB:1BF6,
+FT                                ECO:0000244|PDB:4LEF,
+FT                                ECO:0000269|PubMed:9548740}.
+FT   METAL       186    186       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000244|PDB:1BF6,
+FT                                ECO:0000244|PDB:4LEF,
+FT                                ECO:0000269|PubMed:9548740}.
+FT   METAL       243    243       Zinc 1. {ECO:0000244|PDB:1BF6,
+FT                                ECO:0000244|PDB:4LEF,
+FT                                ECO:0000269|PubMed:9548740}.
+FT   STRAND        7     13       {ECO:0000244|PDB:1BF6}.
+FT   STRAND       15     18       {ECO:0000244|PDB:1BF6}.
+FT   HELIX        20     23       {ECO:0000244|PDB:1BF6}.
+FT   HELIX        26     28       {ECO:0000244|PDB:1BF6}.
+FT   HELIX        33     45       {ECO:0000244|PDB:1BF6}.
+FT   STRAND       48     53       {ECO:0000244|PDB:1BF6}.
+FT   HELIX        57     59       {ECO:0000244|PDB:1BF6}.
+FT   HELIX        63     73       {ECO:0000244|PDB:1BF6}.
+FT   STRAND       76     81       {ECO:0000244|PDB:1BF6}.
+FT   HELIX        86     88       {ECO:0000244|PDB:1BF6}.
+FT   HELIX        92     95       {ECO:0000244|PDB:1BF6}.
+FT   HELIX        98    110       {ECO:0000244|PDB:1BF6}.
+FT   STRAND      120    127       {ECO:0000244|PDB:1BF6}.
+FT   HELIX       135    151       {ECO:0000244|PDB:1BF6}.
+FT   STRAND      155    158       {ECO:0000244|PDB:1BF6}.
+FT   HELIX       160    162       {ECO:0000244|PDB:1BF6}.
+FT   HELIX       165    174       {ECO:0000244|PDB:1BF6}.
+FT   HELIX       179    181       {ECO:0000244|PDB:1BF6}.
+FT   STRAND      182    184       {ECO:0000244|PDB:1BF6}.
+FT   HELIX       193    201       {ECO:0000244|PDB:1BF6}.
+FT   STRAND      205    208       {ECO:0000244|PDB:1BF6}.
+FT   TURN        214    216       {ECO:0000244|PDB:1BF6}.
+FT   HELIX       219    231       {ECO:0000244|PDB:1BF6}.
+FT   HELIX       235    237       {ECO:0000244|PDB:1BF6}.
+FT   STRAND      238    240       {ECO:0000244|PDB:1BF6}.
+FT   HELIX       247    249       {ECO:0000244|PDB:1BF6}.
+FT   HELIX       251    253       {ECO:0000244|PDB:1BF6}.
+FT   HELIX       260    263       {ECO:0000244|PDB:1BF6}.
+FT   HELIX       265    271       {ECO:0000244|PDB:1BF6}.
+FT   HELIX       276    283       {ECO:0000244|PDB:1BF6}.
+FT   HELIX       285    290       {ECO:0000244|PDB:1BF6}.
+SQ   SEQUENCE   292 AA;  32915 MW;  1480C6858E5E8230 CRC64;
+     MSFDPTGYTL AHEHLHIDLS GFKNNVDCRL DQYAFICQEM NDLMTRGVRN VIEMTNRYMG
+     RNAQFMLDVM RETGINVVAC TGYYQDAFFP EHVATRSVQE LAQEMVDEIE QGIDGTELKA
+     GIIAEIGTSE GKITPLEEKV FIAAALAHNQ TGRPISTHTS FSTMGLEQLA LLQAHGVDLS
+     RVTVGHCDLK DNLDNILKMI DLGAYVQFDT IGKNSYYPDE KRIAMLHALR DRGLLNRVML
+     SMDITRRSHL KANGGYGYDY LLTTFIPQLR QSGFSQADVD VMLRENPSQF FQ
+//

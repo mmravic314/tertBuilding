@@ -1,0 +1,99 @@
+ID   Q3IXP1_RHOS4            Unreviewed;       508 AA.
+AC   Q3IXP1;
+DT   08-NOV-2005, integrated into UniProtKB/TrEMBL.
+DT   08-NOV-2005, sequence version 1.
+DT   27-MAY-2015, entry version 50.
+DE   SubName: Full=Rhodobacter sphaeroides 2.4.1 chromosome 2, complete sequence {ECO:0000313|EMBL:ABA80693.1};
+GN   ORFNames=RSP_3077 {ECO:0000313|EMBL:ABA80693.1};
+OS   Rhodobacter sphaeroides (strain ATCC 17023 / 2.4.1 / NCIB 8253 / DSM
+OS   158).
+OC   Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales;
+OC   Rhodobacteraceae; Rhodobacter.
+OX   NCBI_TaxID=272943 {ECO:0000313|EMBL:ABA80693.1, ECO:0000313|Proteomes:UP000002703};
+RN   [1] {ECO:0000313|Proteomes:UP000002703}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 17023 / 2.4.1 / NCIB 8253 / DSM 158
+RC   {ECO:0000313|Proteomes:UP000002703};
+RA   Copeland A., Lucas S., Lapidus A., Barry K., Detter J.C., Glavina T.,
+RA   Hammon N., Israni S., Pitluck S., Richardson P., Mackenzie C.,
+RA   Choudhary M., Larimer F., Hauser L.J., Land M., Donohue T.J.,
+RA   Kaplan S.;
+RT   "Complete sequence of chromosome 2 of Rhodobacter sphaeroides 2.4.1.";
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:3ZXS}
+RP   X-RAY CRYSTALLOGRAPHY (2.70 ANGSTROMS) OF 2-508 IN COMPLEX WITH FAD
+RP   AND IRON-SULFUR (4FE-4S).
+RX   PubMed=22290493; DOI=10.1038/embor.2012.2;
+RA   Geisselbrecht Y., Fruhwirth S., Schroeder C., Pierik A.J., Klug G.,
+RA   Essen L.O.;
+RT   "CryB from Rhodobacter sphaeroides: a unique class of cryptochromes
+RT   with new cofactors.";
+RL   EMBO Rep. 13:223-229(2012).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP000144; ABA80693.1; -; Genomic_DNA.
+DR   RefSeq; WP_011339023.1; NZ_AKVW01000002.1.
+DR   RefSeq; YP_354594.1; NC_007494.2.
+DR   PDB; 3ZXS; X-ray; 2.70 A; A/B/C=2-508.
+DR   PDBsum; 3ZXS; -.
+DR   MINT; MINT-8329933; -.
+DR   STRING; 272943.RSP_3077; -.
+DR   EnsemblBacteria; ABA80693; ABA80693; RSP_3077.
+DR   GeneID; 3721353; -.
+DR   KEGG; rsp:RSP_3077; -.
+DR   PATRIC; 23156301; VBIRhoSph57909_3499.
+DR   eggNOG; COG3046; -.
+DR   HOGENOM; HOG000276804; -.
+DR   KO; K06876; -.
+DR   OMA; LPEFYWT; -.
+DR   OrthoDB; EOG68DCVS; -.
+DR   PhylomeDB; Q3IXP1; -.
+DR   BioCyc; RSPH272943:GJAS-3212-MONOMER; -.
+DR   Proteomes; UP000002703; Chromosome 2.
+DR   GO; GO:0051539; F:4 iron, 4 sulfur cluster binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003913; F:DNA photolyase activity; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000166; F:nucleotide binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006281; P:DNA repair; IEA:InterPro.
+DR   InterPro; IPR007357; Photolyase-related.
+DR   InterPro; IPR005101; Photolyase_FAD-bd/Cryptochr_C.
+DR   Pfam; PF04244; DPRP; 1.
+DR   Pfam; PF03441; FAD_binding_7; 1.
+DR   SUPFAM; SSF48173; SSF48173; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3ZXS}; 4Fe-4S {ECO:0000213|PDB:3ZXS};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002703};
+KW   FAD {ECO:0000213|PDB:3ZXS}; Flavoprotein {ECO:0000213|PDB:3ZXS};
+KW   Iron {ECO:0000213|PDB:3ZXS}; Iron-sulfur {ECO:0000213|PDB:3ZXS};
+KW   Metal-binding {ECO:0000213|PDB:3ZXS};
+KW   Nucleotide-binding {ECO:0000213|PDB:3ZXS};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000002703}.
+FT   NP_BIND     261    265       FAD. {ECO:0000213|PDB:3ZXS}.
+FT   NP_BIND     359    362       FAD. {ECO:0000213|PDB:3ZXS}.
+FT   METAL       346    346       Iron-sulfur (4Fe-4S).
+FT                                {ECO:0000213|PDB:3ZXS}.
+FT   METAL       434    434       Iron-sulfur (4Fe-4S).
+FT                                {ECO:0000213|PDB:3ZXS}.
+FT   METAL       437    437       Iron-sulfur (4Fe-4S).
+FT                                {ECO:0000213|PDB:3ZXS}.
+FT   METAL       450    450       Iron-sulfur (4Fe-4S).
+FT                                {ECO:0000213|PDB:3ZXS}.
+FT   BINDING     269    269       FAD. {ECO:0000213|PDB:3ZXS}.
+FT   BINDING     306    306       FAD. {ECO:0000213|PDB:3ZXS}.
+FT   BINDING     387    387       FAD. {ECO:0000213|PDB:3ZXS}.
+FT   BINDING     393    393       FAD. {ECO:0000213|PDB:3ZXS}.
+FT   BINDING     398    398       FAD. {ECO:0000213|PDB:3ZXS}.
+FT   BINDING     402    402       FAD. {ECO:0000213|PDB:3ZXS}.
+SQ   SEQUENCE   508 AA;  58043 MW;  7F9816E3D17C421F CRC64;
+     MTRLILVLGD QLSDDLPALR AADPAADLVV MAEVMEEGTY VPHHPQKIAL ILAAMRKFAR
+     RLQERGFRVA YSRLDDPDTG PSIGAELLRR AAETGAREAV ATRPGDWRLI EALEAMPLPV
+     RFLPDDRFLC PADEFARWTE GRKQLRMEWF YREMRRRTGL LMEGDEPAGG KWNFDTENRK
+     PAAPDLLRPR PLRFEPDAEV RAVLDLVEAR FPRHFGRLRP FHWATDRAEA LRALDHFIRE
+     SLPRFGDEQD AMLADDPFLS HALLSSSMNL GLLGPMEVCR RAETEWREGR APLNAVEGFI
+     RQILGWREYV RGIWTLSGPD YIRSNGLGHS AALPPLYWGK PTRMACLSAA VAQTRDLAYA
+     HHIQRLMVTG NFALLAGVDP AEVHEWYLSV YIDALEWVEA PNTIGMSQFA DHGLLGSKPY
+     VSSGAYIDRM SDYCRGCAYA VKDRTGPRAC PFNLLYWHFL NRHRARFERN PRMVQMYRTW
+     DRMEETHRAR VLTEAEAFLG RLHAGEPV
+//

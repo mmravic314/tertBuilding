@@ -1,0 +1,70 @@
+ID   Q8WQK3_LIMPO            Unreviewed;       234 AA.
+AC   Q8WQK3;
+DT   01-MAR-2002, integrated into UniProtKB/TrEMBL.
+DT   01-MAR-2002, sequence version 1.
+DT   27-MAY-2015, entry version 53.
+DE   SubName: Full=SAP-like pentraxin {ECO:0000313|EMBL:AAL55404.1};
+OS   Limulus polyphemus (Atlantic horseshoe crab).
+OC   Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Chelicerata; Merostomata;
+OC   Xiphosura; Limulidae; Limulus.
+OX   NCBI_TaxID=6850 {ECO:0000313|EMBL:AAL55404.1};
+RN   [1] {ECO:0000313|EMBL:AAL55404.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=11866519; DOI=10.1006/jmbi.2001.5356;
+RA   Tharia H.A., Shrive A.K., Mills J.D., Arme C., Williams G.T.,
+RA   Greenhough T.J.;
+RT   "Complete cDNA sequence of SAP-like pentraxin from Limulus polyphemus:
+RT   implications for pentraxin evolution.";
+RL   J. Mol. Biol. 316:583-597(2002).
+RN   [2] {ECO:0000213|PDB:3FLP, ECO:0000213|PDB:3FLR, ECO:0000213|PDB:3FLT}
+RP   X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) OF 18-234 IN COMPLEX WITH
+RP   CALCIUM, AND DISULFIDE BONDS.
+RX   PubMed=19452596; DOI=10.1016/j.jmb.2009.01.008;
+RA   Shrive A.K., Burns I., Chou H.T., Stahlberg H., Armstrong P.B.,
+RA   Greenhough T.J.;
+RT   "Crystal structures of Limulus SAP-like pentraxin reveal two molecular
+RT   aggregations.";
+RL   J. Mol. Biol. 386:1240-1254(2009).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AY066022; AAL55404.1; -; mRNA.
+DR   PDB; 3FLP; X-ray; 2.30 A; A/B/C/D/E/F/G/H/I/J/K/L/M/N=18-234.
+DR   PDB; 3FLR; X-ray; 3.00 A; A/B=18-234.
+DR   PDB; 3FLT; X-ray; 2.70 A; A/B=18-234.
+DR   PDBsum; 3FLP; -.
+DR   PDBsum; 3FLR; -.
+DR   PDBsum; 3FLT; -.
+DR   ProteinModelPortal; Q8WQK3; -.
+DR   EvolutionaryTrace; Q8WQK3; -.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 2.60.120.200; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001759; Pentaxin.
+DR   Pfam; PF00354; Pentaxin; 1.
+DR   PRINTS; PR00895; PENTAXIN.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3FLP}; Calcium {ECO:0000213|PDB:3FLP};
+KW   Metal-binding {ECO:0000213|PDB:3FLP}.
+FT   METAL        76     76       Calcium 1. {ECO:0000213|PDB:3FLP}.
+FT   METAL        77     77       Calcium 1. {ECO:0000213|PDB:3FLP}.
+FT   METAL       162    162       Calcium 1. {ECO:0000213|PDB:3FLP}.
+FT   METAL       162    162       Calcium 2. {ECO:0000213|PDB:3FLP}.
+FT   METAL       163    163       Calcium 1. {ECO:0000213|PDB:3FLP}.
+FT   METAL       164    164       Calcium 1. {ECO:0000213|PDB:3FLP}.
+FT   METAL       164    164       Calcium 2. {ECO:0000213|PDB:3FLP}.
+FT   METAL       171    171       Calcium 2. {ECO:0000213|PDB:3FLP}.
+FT   METAL       171    171       Calcium 3. {ECO:0000213|PDB:3FLT}.
+FT   METAL       174    174       Calcium 2. {ECO:0000213|PDB:3FLP}.
+FT   METAL       174    174       Calcium 3. {ECO:0000213|PDB:3FLT}.
+FT   DISULFID     54    120       {ECO:0000213|PDB:3FLP}.
+FT   DISULFID    107    139       {ECO:0000213|PDB:3FLP}.
+FT   DISULFID    201    232       {ECO:0000213|PDB:3FLP}.
+SQ   SEQUENCE   234 AA;  25607 MW;  BD509E007EC702C1 CRC64;
+     MVSGYIVIFV ILALTKAAVD IRDVKISFPG TQNPKFPHLR FMQTLPAVRQ LTVCQRIKPF
+     HRNTGYIFSC ATSNQDNQFI TSMYVKSDGT LNLGLQVNAS SNKYISCPIE IELGQWYHVC
+     HVWSGVDGRM AVYANGSPCG TMENVGKGHQ ISAGGTVVIG QEQDKIGGGF EEQESWSGEL
+     SDLQVWDEAL TTHQVSTVAS CNGIRPRGNV ISWMEDSFVA DDGVIVGISH MCSL
+//

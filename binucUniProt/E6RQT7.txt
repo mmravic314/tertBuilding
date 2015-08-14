@@ -1,0 +1,119 @@
+ID   E6RQT7_PSEU9            Unreviewed;       835 AA.
+AC   E6RQT7;
+DT   08-MAR-2011, integrated into UniProtKB/TrEMBL.
+DT   08-MAR-2011, sequence version 1.
+DT   22-JUL-2015, entry version 35.
+DE   SubName: Full=Deseasin MCP-01 {ECO:0000313|EMBL:ADT70291.1};
+GN   OrderedLocusNames=PSM_B0251 {ECO:0000313|EMBL:ADT70291.1};
+OS   Pseudoalteromonas sp. (strain SM9913).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales;
+OC   Pseudoalteromonadaceae; Pseudoalteromonas.
+OX   NCBI_TaxID=234831 {ECO:0000313|EMBL:ADT70291.1, ECO:0000313|Proteomes:UP000007933};
+RN   [1] {ECO:0000313|EMBL:ADT70291.1, ECO:0000313|Proteomes:UP000007933}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=SM9913 {ECO:0000313|Proteomes:UP000007933};
+RX   PubMed=20703316; DOI=10.1038/ismej.2010.103;
+RA   Qin Q.L., Li Y., Zhang Y.J., Zhou Z.M., Zhang W.X., Chen X.L.,
+RA   Zhang X.Y., Zhou B.C., Wang L., Zhang Y.Z.;
+RT   "Comparative genomics reveals a deep-sea sediment-adapted life style
+RT   of Pseudoalteromonas sp. SM9913.";
+RL   ISME J. 5:274-284(2011).
+RN   [2] {ECO:0000213|PDB:3VV3}
+RP   X-RAY CRYSTALLOGRAPHY (1.76 ANGSTROMS) OF 117-450 IN COMPLEX WITH
+RP   CALCIUM, AND DISULFIDE BONDS.
+RA   Zhao G.Y., Gao X., Chen X.L., Zhang Y.Z.;
+RT   "Structural Insights into the Collagen-degradation by the Bacterial
+RT   Collagenolytic Serine Proteases in the Subtilase Family.";
+RL   Submitted (JUL-2012) to the PDB data bank.
+CC   -!- SIMILARITY: Belongs to the peptidase S8 family.
+CC       {ECO:0000256|RuleBase:RU003355}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP001797; ADT70291.1; -; Genomic_DNA.
+DR   RefSeq; WP_013463003.1; NC_014800.1.
+DR   PDB; 3VV3; X-ray; 1.76 A; A/B=117-450.
+DR   PDBsum; 3VV3; -.
+DR   ProteinModelPortal; E6RQT7; -.
+DR   STRING; 234831.PSM_B0251; -.
+DR   EnsemblBacteria; ADT70291; ADT70291; PSM_B0251.
+DR   KEGG; psm:PSM_B0251; -.
+DR   PATRIC; 45326602; VBIPseSp136886_0244.
+DR   HOGENOM; HOG000296618; -.
+DR   OMA; WGLTSVD; -.
+DR   BioCyc; PSP234831:GH93-3430-MONOMER; -.
+DR   Proteomes; UP000007933; Chromosome II.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004252; F:serine-type endopeptidase activity; IEA:InterPro.
+DR   Gene3D; 2.60.120.260; -; 1.
+DR   Gene3D; 2.60.40.670; -; 1.
+DR   Gene3D; 3.40.50.200; -; 1.
+DR   InterPro; IPR008979; Galactose-bd-like.
+DR   InterPro; IPR000209; Peptidase_S8/S53_dom.
+DR   InterPro; IPR023827; Peptidase_S8_Asp-AS.
+DR   InterPro; IPR022398; Peptidase_S8_His-AS.
+DR   InterPro; IPR023828; Peptidase_S8_Ser-AS.
+DR   InterPro; IPR015500; Peptidase_S8_subtilisin-rel.
+DR   InterPro; IPR022409; PKD/Chitinase_dom.
+DR   InterPro; IPR000601; PKD_dom.
+DR   InterPro; IPR002884; PrprotnconvertsP.
+DR   InterPro; IPR010259; S8pro/Inhibitor_I9.
+DR   PANTHER; PTHR10795; PTHR10795; 1.
+DR   Pfam; PF05922; Inhibitor_I9; 1.
+DR   Pfam; PF01483; P_proprotein; 1.
+DR   Pfam; PF00082; Peptidase_S8; 1.
+DR   Pfam; PF00801; PKD; 1.
+DR   PRINTS; PR00723; SUBTILISIN.
+DR   SMART; SM00089; PKD; 1.
+DR   SUPFAM; SSF49299; SSF49299; 1.
+DR   SUPFAM; SSF49785; SSF49785; 1.
+DR   SUPFAM; SSF52743; SSF52743; 1.
+DR   PROSITE; PS50093; PKD; 1.
+DR   PROSITE; PS00136; SUBTILASE_ASP; 1.
+DR   PROSITE; PS00137; SUBTILASE_HIS; 1.
+DR   PROSITE; PS00138; SUBTILASE_SER; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3VV3}; Calcium {ECO:0000213|PDB:3VV3};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000007933};
+KW   Hydrolase {ECO:0000256|RuleBase:RU004261};
+KW   Metal-binding {ECO:0000213|PDB:3VV3};
+KW   Protease {ECO:0000256|RuleBase:RU004261};
+KW   Serine protease {ECO:0000256|RuleBase:RU004261}.
+FT   METAL       142    142       Calcium 1. {ECO:0000213|PDB:3VV3}.
+FT   METAL       142    142       Calcium 2. {ECO:0000213|PDB:3VV3}.
+FT   METAL       144    144       Calcium 1. {ECO:0000213|PDB:3VV3}.
+FT   METAL       146    146       Calcium 1. {ECO:0000213|PDB:3VV3}.
+FT   METAL       146    146       Calcium 2. {ECO:0000213|PDB:3VV3}.
+FT   METAL       186    186       Calcium 3. {ECO:0000213|PDB:3VV3}.
+FT   METAL       186    186       Calcium 4. {ECO:0000213|PDB:3VV3}.
+FT   METAL       187    187       Calcium 3; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:3VV3}.
+FT   METAL       190    190       Calcium 3. {ECO:0000213|PDB:3VV3}.
+FT   METAL       192    192       Calcium 3; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:3VV3}.
+FT   METAL       193    193       Calcium 4. {ECO:0000213|PDB:3VV3}.
+FT   METAL       194    194       Calcium 3. {ECO:0000213|PDB:3VV3}.
+FT   METAL       195    195       Calcium 4. {ECO:0000213|PDB:3VV3}.
+FT   METAL       197    197       Calcium 4. {ECO:0000213|PDB:3VV3}.
+FT   METAL       199    199       Calcium 4; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:3VV3}.
+FT   METAL       201    201       Calcium 3. {ECO:0000213|PDB:3VV3}.
+FT   METAL       202    202       Calcium 4. {ECO:0000213|PDB:3VV3}.
+FT   DISULFID    251    268       {ECO:0000213|PDB:3VV3}.
+SQ   SEQUENCE   835 AA;  87836 MW;  BB380ABB5F73C97E CRC64;
+     MKTKLSIITL ALLPCLAAAK LPDVNSTTQK VTASSDSIIV KYKKNASPKM RKQARSLVKA
+     KISDLNNDEI DDNFTSLFSG RLAKFKISGM SAKEAIERLK SHQAIEYVEP DYRVSIASAT
+     NDPRFDDLWG LNNEGQTGGT ADADIDAPEA WSISTGSRDV VVGVIDTGVD YSHPDLAANA
+     WVNSGEIAGD GIDNDGNGYI DDVHGINAIT DVGDPMDDEG HGTHVSGTIG ASGNNGVGVV
+     GVNHDVSIVG CKFLAADGTG STSGAIKCID YMVGLKNAGV NLRVLNNSWG GGGFSQALAD
+     AITASEQADI LFVAAAGNDA VDNDQNPHYP SNYENDNVLS IASTDSRDNM SSFSQWGLTS
+     VDMGAPGSGI LSTVPGNSYA TYSGTSMATP HVAGAAALVL SVNPDLTTLE LKELLMSSGD
+     ANAALNGKTV AGTRLNVNQA LIDADPTPGF KLSVSPVSQQ ATVGDTVTYT FTIGSIAQWE
+     GDVSLALASD LTDASLSATT ARPGDEVVLT VATNSDTQWG NYDFTVTATT EEQVKEQTVS
+     LMLQPAGLND FTYSSDENIA IPDNSPEGAS SVITVADDLT IFGTTADVDI THTWSGDLVL
+     TLISAQGTEV TLQSNEGGSA DDIVKSFTSS VFNSEVATGD WTLHVEDTAG ADTGNINGWS
+     LTFSAIGEVS PQPPQAGFSV SAQGLTATFV DTSRDVNDDI SQWSWNFGDG STSTNPNPTH
+     VYAQSGSYEV ELTVTDSENN SDTFTQTVVV SDVEIELSLK RANKSRLDTM RVELNWAEVG
+     AESLSLYRNG ELVDTVSDNG RYRDYVRNAT LPAYDYQLCV SENVCSNIIT VSFSE
+//

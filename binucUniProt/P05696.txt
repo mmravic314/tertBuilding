@@ -1,0 +1,419 @@
+ID   KPCA_RAT                Reviewed;         672 AA.
+AC   P05696;
+DT   01-NOV-1988, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   24-JUN-2015, entry version 165.
+DE   RecName: Full=Protein kinase C alpha type;
+DE            Short=PKC-A;
+DE            Short=PKC-alpha;
+DE            EC=2.7.11.13;
+GN   Name=Prkca; Synonyms=Pkca;
+OS   Rattus norvegicus (Rat).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Rattus.
+OX   NCBI_TaxID=10116;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Brain;
+RX   PubMed=3387228; DOI=10.1093/nar/16.11.5199;
+RA   Ono Y., Fujii T., Igarashi K., Kikkawa U., Ogita K., Nishizuka Y.;
+RT   "Nucleotide sequences of cDNAs for alpha and gamma subspecies of rat
+RT   brain protein kinase C.";
+RL   Nucleic Acids Res. 16:5199-5200(1988).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Brain;
+RX   PubMed=3666147; DOI=10.1016/0014-5793(87)80291-0;
+RA   Kikkawa U., Ogita K., Ono Y., Asaoka Y., Shearman M.S., Fujii T.,
+RA   Ase K., Sekiguchi K., Igarashi K., Nishizuka Y.;
+RT   "The common structure and activities of four subspecies of rat brain
+RT   protein kinase C family.";
+RL   FEBS Lett. 223:212-216(1987).
+RN   [3]
+RP   INTERACTION WITH SDPR.
+RX   PubMed=9566962; DOI=10.1083/jcb.141.3.601;
+RA   Mineo C., Ying Y.-S., Chapline C., Jaken S., Anderson R.G.W.;
+RT   "Targeting of protein kinase Calpha to caveolae.";
+RL   J. Cell Biol. 141:601-610(1998).
+RN   [4]
+RP   FUNCTION IN CELL CYCLE ARREST.
+RX   PubMed=11076962; DOI=10.1083/jcb.151.4.763;
+RA   Frey M.R., Clark J.A., Leontieva O., Uronis J.M., Black A.R.,
+RA   Black J.D.;
+RT   "Protein kinase C signaling mediates a program of cell cycle
+RT   withdrawal in the intestinal epithelium.";
+RL   J. Cell Biol. 151:763-778(2000).
+RN   [5]
+RP   FUNCTION IN CARDIAC HYPERTROPHY.
+RX   PubMed=11864993; DOI=10.1083/jcb.200108062;
+RA   Braz J.C., Bueno O.F., De Windt L.J., Molkentin J.D.;
+RT   "PKC alpha regulates the hypertrophic growth of cardiomyocytes through
+RT   extracellular signal-regulated kinase1/2 (ERK1/2).";
+RL   J. Cell Biol. 156:905-919(2002).
+RN   [6]
+RP   FUNCTION IN HEART FAILURE, AND SUBCELLULAR LOCATION.
+RX   PubMed=15271671; DOI=10.1152/ajpheart.00171.2004;
+RA   Vijayan K., Szotek E.L., Martin J.L., Samarel A.M.;
+RT   "Protein kinase C-alpha-induced hypertrophy of neonatal rat
+RT   ventricular myocytes.";
+RL   Am. J. Physiol. 287:H2777-H2789(2004).
+RN   [7]
+RP   REVIEW.
+RX   PubMed=3045562; DOI=10.1038/334661a0;
+RA   Nishizuka Y.;
+RT   "The molecular heterogeneity of protein kinase C and its implications
+RT   for cellular regulation.";
+RL   Nature 334:661-665(1988).
+RN   [8]
+RP   FUNCTION.
+RX   PubMed=19176525; DOI=10.1074/jbc.M808719200;
+RA   Yamasaki T., Takahashi A., Pan J., Yamaguchi N., Yokoyama K.K.;
+RT   "Phosphorylation of activation transcription factor-2 at serine 121 by
+RT   protein kinase c controls c-Jun-mediated activation of
+RT   transcription.";
+RL   J. Biol. Chem. 284:8567-8581(2009).
+RN   [9]
+RP   X-RAY CRYSTALLOGRAPHY (2.6 ANGSTROMS) OF 155-293 IN COMPLEX WITH
+RP   PHOSPHATIDYLSERINE.
+RX   PubMed=10562545; DOI=10.1093/emboj/18.22.6329;
+RA   Verdaguer N., Corbalan-Garcia S., Ochoa W.F., Fita I.,
+RA   Gomez-Fernandez J.C.;
+RT   "Ca(2+) bridges the C2 membrane-binding domain of protein kinase
+RT   Calpha directly to phosphatidylserine.";
+RL   EMBO J. 18:6329-6338(1999).
+RN   [10]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) OF 156-292 IN COMPLEX WITH
+RP   PHOSPHATIDYLINOSITOL 4,5-BISPHOSPHATE, MUTAGENESIS OF TYR-195;
+RP   LYS-209; LYS-211 AND TRP-245, AND SUBCELLULAR LOCATION.
+RX   PubMed=19346474; DOI=10.1073/pnas.0813099106;
+RA   Guerrero-Valero M., Ferrer-Orta C., Querol-Audi J., Marin-Vicente C.,
+RA   Fita I., Gomez-Fernandez J.C., Verdaguer N., Corbalan-Garcia S.;
+RT   "Structural and mechanistic insights into the association of PKCalpha-
+RT   C2 domain to PtdIns(4,5)P2.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 106:6603-6607(2009).
+CC   -!- FUNCTION: Calcium-activated, phospholipid- and diacylglycerol
+CC       (DAG)-dependent serine/threonine-protein kinase that is involved
+CC       in positive and negative regulation of cell proliferation,
+CC       apoptosis, differentiation, migration and adhesion, cardiac
+CC       hypertrophy, angiogenesis, platelet function and inflammation, by
+CC       directly phosphorylating targets such as RAF1, BCL2, CSPG4,
+CC       TNNT2/CTNT, or activating signaling cascades involving MAPK1/3
+CC       (ERK1/2) and RAP1GAP. Depending on the cell type, is involved in
+CC       cell proliferation and cell growth arrest by positive and negative
+CC       regulation of the cell cycle. Can promote cell growth by
+CC       phosphorylating and activating RAF1, which mediates the activation
+CC       of the MAPK/ERK signaling cascade, and/or by up-regulating CDKN1A,
+CC       which facilitates active cyclin-dependent kinase (CDK) complex
+CC       formation. In cells stimulated by the phorbol ester PMA, can
+CC       trigger a cell cycle arrest program which is associated with the
+CC       accumulation of the hyper-phosphorylated growth-suppressive form
+CC       of RB1 and induction of the CDK inhibitors CDKN1A and CDKN1B.
+CC       Depending on the cell type, exhibits anti-apoptotic function and
+CC       protects cells from apoptosis by suppressing the p53/TP53-mediated
+CC       activation of IGFBP3, or mediates anti-apoptotic action by
+CC       phosphorylating BCL2. During macrophage differentiation induced by
+CC       macrophage colony-stimulating factor (CSF1), is translocated to
+CC       the nucleus and is associated with macrophage development. After
+CC       wounding, translocates from focal contacts to lamellipodia and
+CC       participates in the modulation of desmosomal adhesion. Plays a
+CC       role in cell motility by phosphorylating CSPG4, which induces
+CC       association of CSPG4 with extensive lamellipodia at the cell
+CC       periphery and polarization of the cell accompanied by increases in
+CC       cell motility. Negatively regulates myocardial contractility and
+CC       positively regulates angiogenesis, platelet aggregation and
+CC       thrombus formation in arteries. Mediates hypertrophic growth of
+CC       neonatal cardiomyocytes, in part through a MAPK1/3 (ERK1/2)-
+CC       dependent signaling pathway, and upon PMA treatment, is required
+CC       to induce cardiomyocyte hypertrophy up to heart failure and death,
+CC       by increasing protein synthesis, protein-DNA ratio and cell
+CC       surface area. Regulates cardiomyocyte function by phosphorylating
+CC       cardiac troponin T (TNNT2/CTNT), which induces significant
+CC       reduction in actomyosin ATPase activity, myofilament calcium
+CC       sensitivity and myocardial contractility. In angiogenesis, is
+CC       required for full endothelial cell migration, adhesion to
+CC       vitronectin (VTN), and vascular endothelial growth factor A
+CC       (VEGFA)-dependent regulation of kinase activation and vascular
+CC       tube formation. Involved in the stabilization of VEGFA mRNA at
+CC       post-transcriptional level and mediates VEGFA-induced cell
+CC       proliferation. In the regulation of calcium-induced platelet
+CC       aggregation, mediates signals from the CD36/GP4 receptor for
+CC       granule release, and activates the integrin heterodimer ITGA2B-
+CC       ITGB3 through the RAP1GAP pathway for adhesion. During response to
+CC       lipopolysaccharides (LPS), may regulate selective LPS-induced
+CC       macrophage functions involved in host defense and inflammation.
+CC       But in some inflammatory responses, may negatively regulate NF-
+CC       kappa-B-induced genes, through IL1A-dependent induction of NF-
+CC       kappa-B inhibitor alpha (NFKBIA/IKBA). Upon stimulation with 12-O-
+CC       tetradecanoylphorbol-13-acetate (TPA), phosphorylates EIF4G1,
+CC       which modulates EIF4G1 binding to MKNK1 and may be involved in the
+CC       regulation of EIF4E phosphorylation. Phosphorylates KIT, leading
+CC       to inhibition of KIT activity. Phosphorylates ATF2 which promotes
+CC       cooperation between ATF2 and JUN, activating transcription.
+CC       {ECO:0000269|PubMed:11076962, ECO:0000269|PubMed:11864993,
+CC       ECO:0000269|PubMed:15271671, ECO:0000269|PubMed:19176525}.
+CC   -!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+CC   -!- COFACTOR:
+CC       Name=Ca(2+); Xref=ChEBI:CHEBI:29108; Evidence={ECO:0000250};
+CC       Note=Binds 3 Ca(2+) ions per subunit. The ions are bound to the C2
+CC       domain. {ECO:0000250};
+CC   -!- ENZYME REGULATION: Classical (or conventional) PKCs (PRKCA, PRKCB
+CC       and PRKCG) are activated by calcium and diacylglycerol (DAG) in
+CC       the presence of phosphatidylserine. Three specific sites; Thr-497
+CC       (activation loop of the kinase domain), Thr-638 (turn motif) and
+CC       Ser-657 (hydrophobic region), need to be phosphorylated for its
+CC       full activation.
+CC   -!- SUBUNIT: Interacts with ADAP1/CENTA1, CSPG4 and PRKCABP. Binds to
+CC       SDPR in the presence of phosphatidylserine (By similarity).
+CC       Interacts with PICK1 (via PDZ domain) (By similarity). Interacts
+CC       with TRIM41 (By similarity). Recruited in a circadian manner into
+CC       a nuclear complex which also includes BMAL1 and GNB2L1/RACK1 (By
+CC       similarity). {ECO:0000250}.
+CC   -!- INTERACTION:
+CC       P34901:Sdc4; NbExp=3; IntAct=EBI-935801, EBI-1173182;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm. Cell membrane; Peripheral
+CC       membrane protein. Mitochondrion membrane {ECO:0000250}; Peripheral
+CC       membrane protein {ECO:0000250}. Nucleus. Note=Translocated to the
+CC       nucleus upon treatment with PMA or IGF1.
+CC   -!- SIMILARITY: Belongs to the protein kinase superfamily. AGC Ser/Thr
+CC       protein kinase family. PKC subfamily. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 AGC-kinase C-terminal domain.
+CC       {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 C2 domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00041}.
+CC   -!- SIMILARITY: Contains 2 phorbol-ester/DAG-type zinc fingers.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00226}.
+CC   -!- SIMILARITY: Contains 1 protein kinase domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00159}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X07286; CAA30266.1; -; mRNA.
+DR   PIR; S02248; KIRTC.
+DR   UniGene; Rn.86669; -.
+DR   PDB; 1DSY; X-ray; 2.60 A; A=155-293.
+DR   PDB; 3GPE; X-ray; 2.00 A; A=156-292.
+DR   PDB; 3RDJ; X-ray; 1.90 A; A=156-292.
+DR   PDB; 3TWY; X-ray; 1.50 A; A=156-292.
+DR   PDB; 4L1L; X-ray; 1.60 A; A=155-293.
+DR   PDBsum; 1DSY; -.
+DR   PDBsum; 3GPE; -.
+DR   PDBsum; 3RDJ; -.
+DR   PDBsum; 3TWY; -.
+DR   PDBsum; 4L1L; -.
+DR   ProteinModelPortal; P05696; -.
+DR   SMR; P05696; 37-292, 336-666.
+DR   IntAct; P05696; 6.
+DR   MINT; MINT-86103; -.
+DR   STRING; 10116.ENSRNOP00000004699; -.
+DR   BindingDB; P05696; -.
+DR   ChEMBL; CHEMBL2855; -.
+DR   PhosphoSite; P05696; -.
+DR   PaxDb; P05696; -.
+DR   PRIDE; P05696; -.
+DR   RGD; 3395; Prkca.
+DR   eggNOG; COG0515; -.
+DR   HOGENOM; HOG000233022; -.
+DR   HOVERGEN; HBG108317; -.
+DR   InParanoid; P05696; -.
+DR   PhylomeDB; P05696; -.
+DR   BRENDA; 2.7.11.13; 5301.
+DR   EvolutionaryTrace; P05696; -.
+DR   PRO; PR:P05696; -.
+DR   Proteomes; UP000002494; Unplaced.
+DR   GO; GO:0005737; C:cytoplasm; ISS:UniProtKB.
+DR   GO; GO:0005829; C:cytosol; IDA:UniProtKB.
+DR   GO; GO:0045121; C:membrane raft; IDA:RGD.
+DR   GO; GO:0031966; C:mitochondrial membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005739; C:mitochondrion; IDA:RGD.
+DR   GO; GO:0043005; C:neuron projection; IDA:RGD.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0048471; C:perinuclear region of cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0005886; C:plasma membrane; IDA:RGD.
+DR   GO; GO:0043234; C:protein complex; IDA:RGD.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004698; F:calcium-dependent protein kinase C activity; IDA:RGD.
+DR   GO; GO:0004697; F:protein kinase C activity; IDA:RGD.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:InterPro.
+DR   GO; GO:0007568; P:aging; IEP:RGD.
+DR   GO; GO:0001525; P:angiogenesis; IEA:UniProtKB-KW.
+DR   GO; GO:0006915; P:apoptotic process; IEA:UniProtKB-KW.
+DR   GO; GO:0007155; P:cell adhesion; IEA:UniProtKB-KW.
+DR   GO; GO:0021955; P:central nervous system neuron axonogenesis; IMP:RGD.
+DR   GO; GO:0045184; P:establishment of protein localization; TAS:UniProtKB.
+DR   GO; GO:0035556; P:intracellular signal transduction; IDA:RGD.
+DR   GO; GO:0007611; P:learning or memory; IMP:RGD.
+DR   GO; GO:0034351; P:negative regulation of glial cell apoptotic process; ISS:UniProtKB.
+DR   GO; GO:0045822; P:negative regulation of heart contraction; IMP:RGD.
+DR   GO; GO:0017148; P:negative regulation of translation; IMP:RGD.
+DR   GO; GO:0018105; P:peptidyl-serine phosphorylation; IDA:RGD.
+DR   GO; GO:0018107; P:peptidyl-threonine phosphorylation; IDA:RGD.
+DR   GO; GO:0045766; P:positive regulation of angiogenesis; ISS:UniProtKB.
+DR   GO; GO:0010613; P:positive regulation of cardiac muscle hypertrophy; IDA:UniProtKB.
+DR   GO; GO:0045785; P:positive regulation of cell adhesion; ISS:UniProtKB.
+DR   GO; GO:0030335; P:positive regulation of cell migration; ISS:UniProtKB.
+DR   GO; GO:2000707; P:positive regulation of dense core granule biogenesis; ISS:UniProtKB.
+DR   GO; GO:0010595; P:positive regulation of endothelial cell migration; ISS:UniProtKB.
+DR   GO; GO:0001938; P:positive regulation of endothelial cell proliferation; ISS:UniProtKB.
+DR   GO; GO:0070374; P:positive regulation of ERK1 and ERK2 cascade; IMP:UniProtKB.
+DR   GO; GO:0045921; P:positive regulation of exocytosis; IMP:RGD.
+DR   GO; GO:0031666; P:positive regulation of lipopolysaccharide-mediated signaling pathway; ISS:UniProtKB.
+DR   GO; GO:0045651; P:positive regulation of macrophage differentiation; ISS:UniProtKB.
+DR   GO; GO:0045931; P:positive regulation of mitotic cell cycle; ISS:UniProtKB.
+DR   GO; GO:0048661; P:positive regulation of smooth muscle cell proliferation; IMP:RGD.
+DR   GO; GO:0051965; P:positive regulation of synapse assembly; IMP:RGD.
+DR   GO; GO:0046777; P:protein autophosphorylation; IDA:RGD.
+DR   GO; GO:0006468; P:protein phosphorylation; IDA:RGD.
+DR   GO; GO:0090330; P:regulation of platelet aggregation; ISS:UniProtKB.
+DR   GO; GO:0048259; P:regulation of receptor-mediated endocytosis; IMP:RGD.
+DR   GO; GO:0046677; P:response to antibiotic; IEP:RGD.
+DR   GO; GO:0051412; P:response to corticosterone; IEP:RGD.
+DR   GO; GO:0032355; P:response to estradiol; IMP:RGD.
+DR   GO; GO:0045471; P:response to ethanol; IMP:RGD.
+DR   GO; GO:0009612; P:response to mechanical stimulus; IEP:RGD.
+DR   GO; GO:0014070; P:response to organic cyclic compound; IEP:RGD.
+DR   GO; GO:0043434; P:response to peptide hormone; IEP:RGD.
+DR   GO; GO:0000302; P:response to reactive oxygen species; IMP:RGD.
+DR   GO; GO:0009636; P:response to toxic substance; IEP:RGD.
+DR   Gene3D; 2.60.40.150; -; 1.
+DR   InterPro; IPR000961; AGC-kinase_C.
+DR   InterPro; IPR000008; C2_dom.
+DR   InterPro; IPR020454; DAG/PE-bd.
+DR   InterPro; IPR011009; Kinase-like_dom.
+DR   InterPro; IPR002219; PE/DAG-bd.
+DR   InterPro; IPR017892; Pkinase_C.
+DR   InterPro; IPR000719; Prot_kinase_dom.
+DR   InterPro; IPR017441; Protein_kinase_ATP_BS.
+DR   InterPro; IPR014375; Protein_kinase_C_a/b/g.
+DR   InterPro; IPR002290; Ser/Thr_dual-sp_kinase.
+DR   InterPro; IPR008271; Ser/Thr_kinase_AS.
+DR   Pfam; PF00130; C1_1; 2.
+DR   Pfam; PF00168; C2; 1.
+DR   Pfam; PF00069; Pkinase; 1.
+DR   Pfam; PF00433; Pkinase_C; 1.
+DR   PIRSF; PIRSF000550; PKC_alpha; 1.
+DR   PRINTS; PR00360; C2DOMAIN.
+DR   PRINTS; PR00008; DAGPEDOMAIN.
+DR   SMART; SM00109; C1; 2.
+DR   SMART; SM00239; C2; 1.
+DR   SMART; SM00133; S_TK_X; 1.
+DR   SMART; SM00220; S_TKc; 1.
+DR   SUPFAM; SSF49562; SSF49562; 1.
+DR   SUPFAM; SSF56112; SSF56112; 1.
+DR   PROSITE; PS51285; AGC_KINASE_CTER; 1.
+DR   PROSITE; PS50004; C2; 1.
+DR   PROSITE; PS00107; PROTEIN_KINASE_ATP; 1.
+DR   PROSITE; PS50011; PROTEIN_KINASE_DOM; 1.
+DR   PROSITE; PS00108; PROTEIN_KINASE_ST; 1.
+DR   PROSITE; PS00479; ZF_DAG_PE_1; 2.
+DR   PROSITE; PS50081; ZF_DAG_PE_2; 2.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Angiogenesis; Apoptosis; ATP-binding;
+KW   Calcium; Cell adhesion; Cell membrane; Complete proteome; Cytoplasm;
+KW   Kinase; Membrane; Metal-binding; Mitochondrion; Nucleotide-binding;
+KW   Nucleus; Phosphoprotein; Reference proteome; Repeat;
+KW   Serine/threonine-protein kinase; Transferase; Zinc; Zinc-finger.
+FT   INIT_MET      1      1       Removed. {ECO:0000250|UniProtKB:P17252}.
+FT   CHAIN         2    672       Protein kinase C alpha type.
+FT                                /FTId=PRO_0000055682.
+FT   DOMAIN      172    260       C2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00041}.
+FT   DOMAIN      339    597       Protein kinase. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00159}.
+FT   DOMAIN      598    668       AGC-kinase C-terminal.
+FT   ZN_FING      36     86       Phorbol-ester/DAG-type 1.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00226}.
+FT   ZN_FING     101    151       Phorbol-ester/DAG-type 2.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00226}.
+FT   NP_BIND     345    353       ATP. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00159}.
+FT   ACT_SITE    463    463       Proton acceptor. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00159, ECO:0000255|PROSITE-
+FT                                ProRule:PRU10027}.
+FT   METAL       186    186       Calcium 1; via carbonyl oxygen.
+FT   METAL       187    187       Calcium 1.
+FT   METAL       187    187       Calcium 2.
+FT   METAL       193    193       Calcium 2.
+FT   METAL       246    246       Calcium 1.
+FT   METAL       246    246       Calcium 2.
+FT   METAL       247    247       Calcium 2; via carbonyl oxygen.
+FT   METAL       248    248       Calcium 1.
+FT   METAL       248    248       Calcium 2.
+FT   METAL       248    248       Calcium 3.
+FT   METAL       252    252       Calcium 3; via carbonyl oxygen.
+FT   METAL       254    254       Calcium 1.
+FT   METAL       254    254       Calcium 3.
+FT   BINDING     195    195       Inositol phosphate group.
+FT   BINDING     245    245       Inositol phosphate group.
+FT   BINDING     368    368       ATP. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00159}.
+FT   MOD_RES       2      2       N-acetylalanine.
+FT                                {ECO:0000250|UniProtKB:P17252}.
+FT   MOD_RES     226    226       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:P17252}.
+FT   MOD_RES     497    497       Phosphothreonine; by PDPK1.
+FT                                {ECO:0000250}.
+FT   MOD_RES     628    628       N6-acetyllysine.
+FT                                {ECO:0000250|UniProtKB:P17252}.
+FT   MOD_RES     631    631       Phosphothreonine; by autocatalysis.
+FT                                {ECO:0000255}.
+FT   MOD_RES     638    638       Phosphothreonine; by autocatalysis.
+FT                                {ECO:0000250}.
+FT   MOD_RES     651    651       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:P17252}.
+FT   MOD_RES     657    657       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:P04409}.
+FT   MOD_RES     658    658       Phosphotyrosine; by SYK. {ECO:0000250}.
+FT   MUTAGEN     195    195       Y->S: Reduced phosphatidylinositol 4,5-
+FT                                bisphosphate recognition and impaired
+FT                                membrane docking. Loss of
+FT                                phosphatidylinositol 4,5-bisphosphate-
+FT                                binding and strong decrease of membrane
+FT                                docking; when associated with A-209; A-
+FT                                211 and A-245.
+FT                                {ECO:0000269|PubMed:19346474}.
+FT   MUTAGEN     209    209       K->A: Loss of phosphatidylinositol 4,5-
+FT                                bisphosphate-binding and strong decrease
+FT                                of membrane docking; when associated with
+FT                                S-195; A-211 and A-245.
+FT                                {ECO:0000269|PubMed:19346474}.
+FT   MUTAGEN     211    211       K->A: Loss of phosphatidylinositol 4,5-
+FT                                bisphosphate-binding and strong decrease
+FT                                of membrane docking; when associated with
+FT                                S-195; A-209 and A-245.
+FT                                {ECO:0000269|PubMed:19346474}.
+FT   MUTAGEN     245    245       W->A: Reduced phosphatidylinositol 4,5-
+FT                                bisphosphate recognition and impaired
+FT                                membrane docking. Loss of
+FT                                phosphatidylinositol 4,5-bisphosphate-
+FT                                binding and strong decrease of membrane
+FT                                docking; when associated with S-195; A-
+FT                                209 and A-211.
+FT                                {ECO:0000269|PubMed:19346474}.
+FT   STRAND      161    169       {ECO:0000244|PDB:3TWY}.
+FT   STRAND      172    182       {ECO:0000244|PDB:3TWY}.
+FT   STRAND      194    201       {ECO:0000244|PDB:3TWY}.
+FT   STRAND      222    230       {ECO:0000244|PDB:3TWY}.
+FT   HELIX       233    237       {ECO:0000244|PDB:3TWY}.
+FT   STRAND      239    246       {ECO:0000244|PDB:3TWY}.
+FT   STRAND      249    251       {ECO:0000244|PDB:3TWY}.
+FT   STRAND      254    262       {ECO:0000244|PDB:3TWY}.
+FT   HELIX       263    268       {ECO:0000244|PDB:3TWY}.
+FT   STRAND      271    276       {ECO:0000244|PDB:3TWY}.
+FT   HELIX       280    283       {ECO:0000244|PDB:3TWY}.
+FT   STRAND      288    290       {ECO:0000244|PDB:1DSY}.
+SQ   SEQUENCE   672 AA;  76792 MW;  94889E7339C17719 CRC64;
+     MADVYPANDS TASQDVANRF ARKGALRQKN VHEVKDHKFI ARFFKQPTFC SHCTDFIWGF
+     GKQGFQCQVC CFVVHKRCHE FVTFSCPGAD KGPDTDDPRS KHKFKIHTYG SPTFCDHCGS
+     LLYGLIHQGM KCDTCDMNVH KQCVINVPSL CGMDHTEKRG RIYLKAEVTD EKLHVTVRDA
+     KNLIPMDPNG LSDPYVKLKL IPDPKNESKQ KTKTIRSTLN PQWNESFTFK LKPSDKDRRL
+     SVEIWDWDRT TRNDFMGSLS FGVSELMKMP ASGWYKLLNQ EEGEYYNVPI PEGDEEGNVE
+     LRQKFEKAKL GPAGNKVISP SEDRKQPSNN LDRVKLTDFN FLMVLGKGSF GKVMLADRKG
+     TEELYAIKIL KKDVVIQDDD VECTMVEKRV LALLDKPPFL TQLHSCFQTV DRLYFVMEYV
+     NGGDLMYHIQ QVGKFKEPQA VFYAAEISIG LFFLHKRGII YRDLKLDNVM LDSEGHIKIA
+     DFGMCKEHMM DGVTTRTFCG TPDYIAPEII AYQPYGKSVD WWAYGVLLYE MLAGQPPFDG
+     EDEDELFQSI MEHNVSYPKS LSKEAVSICK GLMTKHPAKR LGCGPEGERD VREHAFFRRI
+     DWEKLENREI QPPFKPKVCG KGAENFDKFF TRGQPVLTPP DQLVIANIDQ SDFEGFSYVN
+     PQFVHPILQS AV
+//

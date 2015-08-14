@@ -1,0 +1,111 @@
+ID   HEMTB_METCA             Reviewed;         131 AA.
+AC   Q60AX2;
+DT   01-JUL-2008, integrated into UniProtKB/Swiss-Prot.
+DT   23-NOV-2004, sequence version 1.
+DT   22-JUL-2015, entry version 71.
+DE   RecName: Full=Bacteriohemerythrin;
+DE   AltName: Full=McHr;
+GN   OrderedLocusNames=MCA0715;
+OS   Methylococcus capsulatus (strain ATCC 33009 / NCIMB 11132 / Bath).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Methylococcales;
+OC   Methylococcaceae; Methylococcus.
+OX   NCBI_TaxID=243233;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 33009 / NCIMB 11132 / Bath;
+RX   PubMed=15383840; DOI=10.1371/journal.pbio.0020303;
+RA   Ward N.L., Larsen O., Sakwa J., Bruseth L., Khouri H.M., Durkin A.S.,
+RA   Dimitrov G., Jiang L., Scanlan D., Kang K.H., Lewis M.R., Nelson K.E.,
+RA   Methe B.A., Wu M., Heidelberg J.F., Paulsen I.T., Fouts D.E.,
+RA   Ravel J., Tettelin H., Ren Q., Read T.D., DeBoy R.T., Seshadri R.,
+RA   Salzberg S.L., Jensen H.B., Birkeland N.K., Nelson W.C., Dodson R.J.,
+RA   Grindhaug S.H., Holt I.E., Eidhammer I., Jonasen I., Vanaken S.,
+RA   Utterback T.R., Feldblyum T.V., Fraser C.M., Lillehaug J.R.,
+RA   Eisen J.A.;
+RT   "Genomic insights into methanotrophy: the complete genome sequence of
+RT   Methylococcus capsulatus (Bath).";
+RL   PLoS Biol. 2:1616-1628(2004).
+RN   [2]
+RP   FUNCTION, SUBUNIT, IRON-BINDING, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY.
+RX   PubMed=15885093; DOI=10.1111/j.1742-4658.2005.04663.x;
+RA   Karlsen O.A., Ramsevik L., Bruseth L.J., Larsen O., Brenner A.,
+RA   Berven F.S., Jensen H.B., Lillehaug J.R.;
+RT   "Characterization of a prokaryotic haemerythrin from the
+RT   methanotrophic bacterium Methylococcus capsulatus (Bath).";
+RL   FEBS J. 272:2428-2440(2005).
+RN   [3]
+RP   SUBUNIT.
+RX   PubMed=18397812; DOI=10.1016/j.jinorgbio.2008.02.008;
+RA   Kao W.C., Wang V.C., Huang Y.C., Yu S.S., Chang T.C., Chan S.I.;
+RT   "Isolation, purification and characterization of hemerythrin from
+RT   Methylococcus capsulatus (Bath).";
+RL   J. Inorg. Biochem. 102:1607-1614(2008).
+CC   -!- FUNCTION: Oxygen-binding protein. May be involved in a storage
+CC       mechanism or for delivery to oxygen-requiring enzymes. The oxygen-
+CC       binding site contains two iron atoms.
+CC       {ECO:0000269|PubMed:15885093}.
+CC   -!- SUBUNIT: Monomer. {ECO:0000269|PubMed:15885093,
+CC       ECO:0000269|PubMed:18397812}.
+CC   -!- SIMILARITY: Belongs to the hemerythrin family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE017282; AAU93139.1; -; Genomic_DNA.
+DR   RefSeq; WP_010960053.1; NC_002977.6.
+DR   PDB; 4XPW; X-ray; 1.17 A; A=1-131.
+DR   PDB; 4XPX; X-ray; 1.03 A; A=2-131.
+DR   PDB; 4XPY; X-ray; 1.13 A; A=1-131.
+DR   PDB; 4XQ1; X-ray; 1.40 A; A=1-131.
+DR   PDBsum; 4XPW; -.
+DR   PDBsum; 4XPX; -.
+DR   PDBsum; 4XPY; -.
+DR   PDBsum; 4XQ1; -.
+DR   ProteinModelPortal; Q60AX2; -.
+DR   STRING; 243233.MCA0715; -.
+DR   EnsemblBacteria; AAU93139; AAU93139; MCA0715.
+DR   KEGG; mca:MCA0715; -.
+DR   PATRIC; 22605206; VBIMetCap22254_0732.
+DR   eggNOG; COG2703; -.
+DR   HOGENOM; HOG000132927; -.
+DR   KO; K07216; -.
+DR   OMA; TEEKIMD; -.
+DR   OrthoDB; EOG6PKF80; -.
+DR   Proteomes; UP000006821; Chromosome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0005344; F:oxygen transporter activity; IEA:UniProtKB-KW.
+DR   Gene3D; 1.20.120.50; -; 1.
+DR   InterPro; IPR012827; Haemerythrin-like_metal-bd.
+DR   InterPro; IPR012312; Haemerythrin/HHE_cat-bd_motif.
+DR   InterPro; IPR016131; Haemerythrin_Fe_BS.
+DR   Pfam; PF01814; Hemerythrin; 1.
+DR   SUPFAM; SSF47188; SSF47188; 1.
+DR   TIGRFAMs; TIGR02481; hemeryth_dom; 1.
+DR   PROSITE; PS00550; HEMERYTHRINS; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Iron; Metal-binding;
+KW   Oxygen transport; Reference proteome; Transport.
+FT   CHAIN         1    131       Bacteriohemerythrin.
+FT                                /FTId=PRO_0000343361.
+FT   METAL        22     22       Iron 1. {ECO:0000250}.
+FT   METAL        58     58       Iron 1. {ECO:0000250}.
+FT   METAL        62     62       Iron 1. {ECO:0000250}.
+FT   METAL        62     62       Iron 2. {ECO:0000250}.
+FT   METAL        77     77       Iron 2. {ECO:0000250}.
+FT   METAL        81     81       Iron 2. {ECO:0000250}.
+FT   METAL       117    117       Iron 2. {ECO:0000250}.
+FT   METAL       122    122       Iron 1. {ECO:0000250}.
+FT   METAL       122    122       Iron 2. {ECO:0000250}.
+FT   HELIX         8     11       {ECO:0000244|PDB:4XPX}.
+FT   HELIX        16     35       {ECO:0000244|PDB:4XPX}.
+FT   HELIX        41     68       {ECO:0000244|PDB:4XPX}.
+FT   HELIX        74     96       {ECO:0000244|PDB:4XPX}.
+FT   HELIX       104    120       {ECO:0000244|PDB:4XPX}.
+FT   HELIX       122    125       {ECO:0000244|PDB:4XPX}.
+FT   HELIX       126    130       {ECO:0000244|PDB:4XPX}.
+SQ   SEQUENCE   131 AA;  14715 MW;  3ED34BBE2F3C178E CRC64;
+     MALMTWTAAE FGTNVGFADD QHKTIFDMVN KLHDTAATGN RSEIGKQLDA LIDYVVMHFK
+     SEETEMQKKG YADFAAHKAE HDKLVGVCAD LQKKFHAGEA EVNQDTTRFV RDWLVNHIPK
+     VDKLYGPCLS A
+//

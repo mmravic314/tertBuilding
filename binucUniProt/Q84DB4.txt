@@ -1,0 +1,78 @@
+ID   Q84DB4_THETH            Unreviewed;       302 AA.
+AC   Q84DB4;
+DT   01-JUN-2003, integrated into UniProtKB/TrEMBL.
+DT   01-JUN-2003, sequence version 1.
+DT   22-JUL-2015, entry version 58.
+DE   SubName: Full=Manganese catalase {ECO:0000313|EMBL:CAD83850.1};
+DE            EC=1.11.1.6 {ECO:0000313|EMBL:CAD83850.1};
+GN   Name=cat {ECO:0000313|EMBL:CAD83850.1};
+OS   Thermus thermophilus.
+OC   Bacteria; Deinococcus-Thermus; Deinococci; Thermales; Thermaceae;
+OC   Thermus.
+OX   NCBI_TaxID=274 {ECO:0000313|EMBL:CAD83850.1};
+RN   [1] {ECO:0000313|EMBL:CAD83850.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=15240253; DOI=10.1128/AEM.70.7.3839-3844.2004;
+RA   Hidalgo A., Betancor L., Moreno R., Zafra O., Cava F.,
+RA   Fernandez-Lafuente R., Guisan J.M., Berenguer J.;
+RT   "Thermus thermophilus as a cell factory for the production of a
+RT   thermophilic Mn-dependent catalase which fails to be synthesized in an
+RT   active form in Escherichia coli.";
+RL   Appl. Environ. Microbiol. 70:3839-3844(2004).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AJ551423; CAD83850.1; -; Genomic_DNA.
+DR   PDB; 2V8U; X-ray; 1.05 A; A/B=1-302.
+DR   ProteinModelPortal; Q84DB4; -.
+DR   SMR; Q84DB4; 1-302.
+DR   STRING; 262724.TTC1872; -.
+DR   KEGG; tth:TTC1872; -.
+DR   PATRIC; 23954215; VBITheThe54392_1871.
+DR   OrthoDB; EOG6N0HGF; -.
+DR   EvolutionaryTrace; Q84DB4; -.
+DR   GO; GO:0004096; F:catalase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 1.20.1260.10; -; 1.
+DR   InterPro; IPR009078; Ferritin-like_SF.
+DR   InterPro; IPR012347; Ferritin-rel.
+DR   InterPro; IPR007760; Mn_catalase.
+DR   Pfam; PF05067; Mn_catalase; 1.
+DR   SUPFAM; SSF47240; SSF47240; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2V8U}; Manganese {ECO:0000213|PDB:2V8U};
+KW   Metal-binding {ECO:0000213|PDB:2V8U};
+KW   Oxidoreductase {ECO:0000313|EMBL:CAD83850.1};
+KW   Peroxidase {ECO:0000313|EMBL:CAD83850.1}.
+FT   REGION      239    242       Sulfate 2 binding.
+FT                                {ECO:0000213|PDB:2V8U}.
+FT   REGION      267    268       Sulfate 4 binding.
+FT                                {ECO:0000213|PDB:2V8U}.
+FT   METAL        36     36       Manganese 1. {ECO:0000213|PDB:2V8U}.
+FT   METAL        70     70       Manganese 1. {ECO:0000213|PDB:2V8U}.
+FT   METAL        70     70       Manganese 2. {ECO:0000213|PDB:2V8U}.
+FT   METAL        73     73       Manganese 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:2V8U}.
+FT   METAL       155    155       Manganese 2. {ECO:0000213|PDB:2V8U}.
+FT   METAL       188    188       Manganese 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:2V8U}.
+FT   BINDING      16     16       Sulfate 1; via amide nitrogen.
+FT                                {ECO:0000213|PDB:2V8U}.
+FT   BINDING      57     57       Sulfate 2. {ECO:0000213|PDB:2V8U}.
+FT   BINDING     171    171       Sulfate 1. {ECO:0000213|PDB:2V8U}.
+FT   BINDING     194    194       Sulfate 3. {ECO:0000213|PDB:2V8U}.
+FT   BINDING     222    222       Sulfate 4. {ECO:0000213|PDB:2V8U}.
+FT   BINDING     231    231       Sulfate 5. {ECO:0000213|PDB:2V8U}.
+FT   BINDING     251    251       Sulfate 3; via amide nitrogen.
+FT                                {ECO:0000213|PDB:2V8U}.
+FT   BINDING     258    258       Sulfate 6; via amide nitrogen.
+FT                                {ECO:0000213|PDB:2V8U}.
+SQ   SEQUENCE   302 AA;  33305 MW;  C339E41B24ED854E CRC64;
+     MFLRIDRLQI ELPMPKEQDP NAAAAVQALL GGRFGEMSTL MNYMYQSFNF RGKKALKPYY
+     DLIANIATEE LGHIELVAAT INSLLAKNPG KDLEEGVDPA STPLGFAKDV RNAAHFIAGG
+     ANSLVMGAMG EHWNGEYVFT SGNLILDLLH NFFLEVAART HKLRVYEMTD NPVAREMIGY
+     LLVRGGVHAA AYGKALESLT GVEMTKMLPI PKIDNSKIPE AKKYMDLGFH RNLYRFSPED
+     YRDLGLIWKG ASPEDGTEVV VVDGPPTGGP VFDAGHDAAE FAPEFHPGEL YEIAKKLYEK
+     AK
+//

@@ -1,0 +1,192 @@
+ID   PP1RA_RAT               Reviewed;         872 AA.
+AC   O55000; Q6MG09;
+DT   15-MAR-2005, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-1998, sequence version 1.
+DT   24-JUN-2015, entry version 112.
+DE   RecName: Full=Serine/threonine-protein phosphatase 1 regulatory subunit 10;
+DE   AltName: Full=MHC class I region proline-rich protein CAT53;
+DE   AltName: Full=Phosphatase 1 nuclear targeting subunit;
+DE            Short=Protein PNUTS;
+GN   Name=Ppp1r10; Synonyms=Cat53, Pnuts;
+OS   Rattus norvegicus (Rat).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Rattus.
+OX   NCBI_TaxID=10116;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], FUNCTION IN PPP1CA INHIBITION, INTERACTION
+RP   WITH PPP1CA, TISSUE SPECIFICITY, AND SUBCELLULAR LOCATION.
+RC   STRAIN=Sprague-Dawley; TISSUE=Hippocampus;
+RX   PubMed=9461602; DOI=10.1074/jbc.273.7.4089;
+RA   Allen P.B., Kwon Y.G., Nairn A.C., Greengard P.;
+RT   "Isolation and characterization of PNUTS, a putative protein
+RT   phosphatase 1 nuclear targeting subunit.";
+RL   J. Biol. Chem. 273:4089-4095(1998).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Brown Norway;
+RX   PubMed=15060004; DOI=10.1101/gr.1987704;
+RA   Hurt P., Walter L., Sudbrak R., Klages S., Mueller I., Shiina T.,
+RA   Inoko H., Lehrach H., Guenther E., Reinhardt R., Himmelbauer H.;
+RT   "The genomic sequence and comparative analysis of the rat major
+RT   histocompatibility complex.";
+RL   Genome Res. 14:631-639(2004).
+RN   [3]
+RP   FUNCTION IN PPP1CA INHIBITION, IDENTIFICATION IN A COMPLEX WITH PPP1CA
+RP   AND RNA HOMOPOLYMERS, PHOSPHORYLATION AT THR-398, MUTAGENESIS OF
+RP   ARG-396; LYS-397; VAL-399; TRP-401 AND 445-GLU--LEU-450, DNA-BINDING,
+RP   RNA-BINDING, TISSUE SPECIFICITY, AND SUBCELLULAR LOCATION.
+RX   PubMed=12574161; DOI=10.1074/jbc.M209621200;
+RA   Kim Y.M., Watanabe T., Allen P.B., Kim Y.M., Lee S.J., Greengard P.,
+RA   Nairn A.C., Kwon Y.G.;
+RT   "PNUTS, a protein phosphatase 1 (PP1) nuclear targeting subunit.
+RT   Characterization of its PP1- and RNA-binding domains and regulation by
+RT   phosphorylation.";
+RL   J. Biol. Chem. 278:13819-13828(2003).
+CC   -!- FUNCTION: Scaffold protein which mediates the formation of the
+CC       PTW/PP1 phosphatase complex by providing a binding platform to
+CC       each component of the complex. The PTW/PP1 phosphatase complex
+CC       plays a role in the control of chromatin structure and cell cycle
+CC       progression during the transition from mitosis into interphase.
+CC       Mediates interaction of WDR82 and PPP1CA. Inhibitor of PPP1CA and
+CC       PPP1CC phosphatase activities. Has inhibitory activity on PPP1CA
+CC       only when phosphorylated. Binds to mRNA, single-stranded DNA
+CC       (ssDNA), poly(A) and poly(G) homopolymers.
+CC       {ECO:0000269|PubMed:12574161, ECO:0000269|PubMed:9461602}.
+CC   -!- SUBUNIT: Component of the PTW/PP1 phosphatase complex, composed of
+CC       PPP1R10/PNUTS, TOX4, WDR82, and PPP1CA or PPP1CB or PPP1CC.
+CC       Interacts with PPP1CC. Interacts with PPP1CA, WDR82 and TOX4 (By
+CC       similarity). {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000255|PROSITE-
+CC       ProRule:PRU00649}. Note=Found in discrete nucleoplasmic bodies and
+CC       within nucleoli. Associates with chromatin during interphase,
+CC       excluded from condensed chromosomes during early mitosis and is
+CC       reloaded onto chromosomes at the late telophase (By similarity).
+CC       {ECO:0000250}.
+CC   -!- TISSUE SPECIFICITY: Expressed in testis, brain and intestine (at
+CC       protein level). Highly expressed in testis.
+CC       {ECO:0000269|PubMed:12574161, ECO:0000269|PubMed:9461602}.
+CC   -!- PTM: Phosphorylated on Thr-398 by PKA within the region necessary
+CC       for interaction with PPP1CA. {ECO:0000269|PubMed:12574161}.
+CC   -!- SIMILARITY: Contains 1 C3H1-type zinc finger.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00723}.
+CC   -!- SIMILARITY: Contains 1 TFIIS N-terminal domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00649}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=CAE84038.1; Type=Erroneous gene model prediction; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF040954; AAB96775.1; -; mRNA.
+DR   EMBL; BX883048; CAE84038.1; ALT_SEQ; Genomic_DNA.
+DR   RefSeq; NP_075240.1; NM_022951.2.
+DR   UniGene; Rn.37758; -.
+DR   PDB; 4MOY; X-ray; 2.20 A; B=393-433.
+DR   PDB; 4MP0; X-ray; 2.10 A; B/D=394-433.
+DR   PDBsum; 4MOY; -.
+DR   PDBsum; 4MP0; -.
+DR   ProteinModelPortal; O55000; -.
+DR   PhosphoSite; O55000; -.
+DR   PaxDb; O55000; -.
+DR   PRIDE; O55000; -.
+DR   GeneID; 65045; -.
+DR   KEGG; rno:65045; -.
+DR   UCSC; RGD:620079; rat.
+DR   CTD; 5514; -.
+DR   RGD; 620079; Ppp1r10.
+DR   eggNOG; NOG69306; -.
+DR   HOGENOM; HOG000049285; -.
+DR   HOVERGEN; HBG053646; -.
+DR   InParanoid; O55000; -.
+DR   KO; K17552; -.
+DR   PhylomeDB; O55000; -.
+DR   NextBio; 613876; -.
+DR   PRO; PR:O55000; -.
+DR   Proteomes; UP000002494; Unplaced.
+DR   Genevisible; O55000; RN.
+DR   GO; GO:0000790; C:nuclear chromatin; IDA:RGD.
+DR   GO; GO:0072357; C:PTW/PP1 phosphatase complex; ISS:UniProtKB.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0008157; F:protein phosphatase 1 binding; IDA:RGD.
+DR   GO; GO:0004864; F:protein phosphatase inhibitor activity; IDA:RGD.
+DR   GO; GO:0003723; F:RNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0043086; P:negative regulation of catalytic activity; IDA:GOC.
+DR   GO; GO:0006351; P:transcription, DNA-templated; IEA:InterPro.
+DR   Gene3D; 1.20.930.10; -; 1.
+DR   InterPro; IPR003617; TFIIS/CRSP70_N_sub.
+DR   InterPro; IPR017923; TFIIS_N.
+DR   InterPro; IPR000571; Znf_CCCH.
+DR   Pfam; PF08711; Med26; 1.
+DR   Pfam; PF00642; zf-CCCH; 1.
+DR   SMART; SM00509; TFS2N; 1.
+DR   SMART; SM00356; ZnF_C3H1; 1.
+DR   SUPFAM; SSF47676; SSF47676; 1.
+DR   PROSITE; PS51319; TFIIS_N; 1.
+DR   PROSITE; PS50103; ZF_C3H1; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; DNA-binding; Metal-binding; Nucleus;
+KW   Phosphoprotein; Protein phosphatase inhibitor; Reference proteome;
+KW   RNA-binding; Zinc; Zinc-finger.
+FT   CHAIN         1    872       Serine/threonine-protein phosphatase 1
+FT                                regulatory subunit 10.
+FT                                /FTId=PRO_0000071515.
+FT   DOMAIN       73    147       TFIIS N-terminal. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00649}.
+FT   ZN_FING     838    866       C3H1-type. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00723}.
+FT   REGION        1    348       Interaction with TOX4. {ECO:0000250}.
+FT   REGION      357    433       Necessary for interaction with PPP1CA.
+FT   REGION      382    450       Essential for PPP1CA inhibition.
+FT   REGION      393    408       Necessary for interaction with PPP1CC.
+FT                                {ECO:0000250}.
+FT   REGION      418    619       Interaction with WDR82. {ECO:0000250}.
+FT   MOTIF       420    423       PP1-binding motif.
+FT   COMPBIAS    304    310       Poly-Lys.
+FT   COMPBIAS    540    836       Gly-rich.
+FT   MOD_RES     313    313       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:Q96QC0}.
+FT   MOD_RES     382    382       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:Q96QC0}.
+FT   MOD_RES     398    398       Phosphothreonine; by PKA.
+FT                                {ECO:0000269|PubMed:12574161}.
+FT   MOD_RES     545    545       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:Q96QC0}.
+FT   MOD_RES     591    591       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:Q96QC0}.
+FT   MUTAGEN     396    396       R->A: Does not abolish interaction with
+FT                                PPP1CA and does not reduce PPP1CA
+FT                                inhibition.
+FT                                {ECO:0000269|PubMed:12574161}.
+FT   MUTAGEN     397    397       K->A: Does not abolish interaction with
+FT                                PPP1CA and reduces a little PPP1CA
+FT                                inhibition.
+FT                                {ECO:0000269|PubMed:12574161}.
+FT   MUTAGEN     399    399       V->A: Reduces interaction with PPP1CA and
+FT                                reduces strongly PPP1CA inhibition.
+FT                                {ECO:0000269|PubMed:12574161}.
+FT   MUTAGEN     401    401       W->A: Abolishes interaction with PPP1CA
+FT                                and PPP1CA inhibition.
+FT                                {ECO:0000269|PubMed:12574161}.
+FT   MUTAGEN     445    450       Missing: Abolishes PPP1CA inhibition.
+FT                                {ECO:0000269|PubMed:12574161}.
+FT   HELIX       404    406       {ECO:0000244|PDB:4MP0}.
+FT   STRAND      407    413       {ECO:0000244|PDB:4MP0}.
+SQ   SEQUENCE   872 AA;  92828 MW;  23CC61B4B296E948 CRC64;
+     MGSGPIDPKE LLKGLDSFLT RDGEVKSVDG IAKIFSLMKE ARKMVSRCTY LNIILQTRAP
+     EVLVKFIDVG GYKLLNSWLT YSKTTNNIPL LQQILLTLQH LPLTVDHLKQ NNTAKLVKQL
+     SKSSEDEELR KLASVLVSDW MAVIRSQSST QPAEKDKKKR KEEGKSRTTL PERPLTEVKA
+     ETRAEEAPEK KKEKPKSLRT TAPSHAKFRS TGLELDTPSL VPVKKNSSTV VVSDKYNLKP
+     IPLKRQSATA APGDAAPPAE KKYKPLNTTP NTTKEIKVKI IPPQPMEGLG FLDALNSAPV
+     PGIKIKKKKK VLSPTAAKPS PFEGKTSTEP STAKPSSPEP AAPAEPMDTD RPGTPVPAVE
+     VPELMDAASS EPGALDAKPV ESPGDPNQLT RKGRKRKTVT WPEEGKLREY FYFELDETER
+     VNVNKIKDFG EAAKREILSD RHAFETARRL SHDNMEEKVP WVCPRPLVLP SPLVIPGSNS
+     QERYIQAERE KGILQELFLN KESPHEPDPE PYEPIPPKLI PLDEECAMDE TPYVETLEPG
+     GSGGSPDGAG GSKLPPVLAN LMGSMGAGKS PQGPGGGGIN VQEILTSIMG SPNNHPSEEL
+     LKQPDYSDKL KQMLVPHGLL GPGPVANGFP PGGPGGPKGM QHFPPGPGGP MPGPHGGPGG
+     PVGPRLLGPP PPSRGGDPFW DGPGDPMRGG PMRGGPGPGP GPYHRGRGGR GGNEPPPPPP
+     FRGARGGRSG GGPPNGRGGP GGGGMVGGGG HRPHEGPGGS MGSGHRSHEG PGGSMGSGHR
+     SHEGPGHGGP HGHRPHDVPS HRGHDHRGPP PHEHRGHDGH GGGGHRGHDG GHSHGGDMSN
+     RPVCRHFMMK GNCRYENNCA FYHPGVNGPP LP
+//

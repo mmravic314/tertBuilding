@@ -1,0 +1,79 @@
+ID   Q9KGN3_BACHD            Unreviewed;       300 AA.
+AC   Q9KGN3;
+DT   01-OCT-2000, integrated into UniProtKB/TrEMBL.
+DT   01-OCT-2000, sequence version 1.
+DT   22-JUL-2015, entry version 73.
+DE   SubName: Full=Acetamidase {ECO:0000313|EMBL:BAB03744.1};
+GN   OrderedLocusNames=BH0025 {ECO:0000313|EMBL:BAB03744.1};
+OS   Bacillus halodurans (strain ATCC BAA-125 / DSM 18197 / FERM 7344 / JCM
+OS   9153 / C-125).
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus.
+OX   NCBI_TaxID=272558 {ECO:0000313|EMBL:BAB03744.1, ECO:0000313|Proteomes:UP000001258};
+RN   [1] {ECO:0000313|EMBL:BAB03744.1, ECO:0000313|Proteomes:UP000001258}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC BAA-125 / DSM 18197 / FERM 7344 / JCM 9153 / C-125
+RC   {ECO:0000313|Proteomes:UP000001258};
+RX   PubMed=11058132; DOI=10.1093/nar/28.21.4317;
+RA   Takami H., Nakasone K., Takaki Y., Maeno G., Sasaki R., Masui N.,
+RA   Fuji F., Hirama C., Nakamura Y., Ogasawara N., Kuhara S.,
+RA   Horikoshi K.;
+RT   "Complete genome sequence of the alkaliphilic bacterium Bacillus
+RT   halodurans and genomic sequence comparison with Bacillus subtilis.";
+RL   Nucleic Acids Res. 28:4317-4331(2000).
+RN   [2] {ECO:0000213|PDB:2II1}
+RP   X-RAY CRYSTALLOGRAPHY (1.95 ANGSTROMS) IN COMPLEX WITH CALCIUM.
+RG   Joint Center for Structural Genomics (Jcsg);
+RT   "Crystal Structure of Acetamidase (10172637) from Bacillus Halodurans
+RT   at 1.95 A Resolution.";
+RL   Submitted (SEP-2006) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; BA000004; BAB03744.1; -; Genomic_DNA.
+DR   PIR; A83653; A83653.
+DR   RefSeq; WP_010896209.1; NC_002570.2.
+DR   PDB; 2II1; X-ray; 1.95 A; A/B/C/D=1-300.
+DR   PDBsum; 2II1; -.
+DR   ProteinModelPortal; Q9KGN3; -.
+DR   SMR; Q9KGN3; 1-297.
+DR   STRING; 272558.BH0025; -.
+DR   EnsemblBacteria; BAB03744; BAB03744; BAB03744.
+DR   KEGG; bha:BH0025; -.
+DR   PATRIC; 18936866; VBIBacHal18977_0027.
+DR   HOGENOM; HOG000228370; -.
+DR   KO; K01426; -.
+DR   OMA; CMEVEIG; -.
+DR   OrthoDB; EOG6QP0ZJ; -.
+DR   BioCyc; BHAL272558:GJC5-28-MONOMER; -.
+DR   EvolutionaryTrace; Q9KGN3; -.
+DR   Proteomes; UP000001258; Chromosome.
+DR   GO; GO:0016811; F:hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   InterPro; IPR004304; FmdA_AmdA.
+DR   Pfam; PF03069; FmdA_AmdA; 2.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2II1}; Calcium {ECO:0000213|PDB:2II1};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001258};
+KW   Metal-binding {ECO:0000213|PDB:2II1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001258}.
+FT   METAL       154    154       Calcium 2. {ECO:0000213|PDB:2II1}.
+FT   METAL       156    156       Calcium 2. {ECO:0000213|PDB:2II1}.
+FT   METAL       181    181       Calcium 1. {ECO:0000213|PDB:2II1}.
+FT   METAL       181    181       Calcium 2. {ECO:0000213|PDB:2II1}.
+FT   METAL       183    183       Calcium 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2II1}.
+FT   METAL       197    197       Calcium 1. {ECO:0000213|PDB:2II1}.
+FT   METAL       250    250       Calcium 3; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:2II1}.
+FT   METAL       253    253       Calcium 3; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:2II1}.
+FT   METAL       255    255       Calcium 3; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:2II1}.
+SQ   SEQUENCE   300 AA;  31865 MW;  4E1F13BE7164E0DD CRC64;
+     MIRLSNENTI FFMDKENVPI ASCQSGDTVI FETKDCFSDQ ITNEEQALTS IDFNRVNPAT
+     GPLYVEGARR GDMLEIEILD IKVGKQGVMT AAPGLGALGE SLNSPTTKLF PIEGDDVVYS
+     TGLRLPLQPM IGVIGTAPPG EPINNGTPGP HGGNLDTKDI KPGTTVYLPV EVDGALLALG
+     DLHAAMGDGE ILICGVEIAG TVTLKVNVKK ERMFPLPALK TDTHFMTIAS AETLDAAAVQ
+     ATKNMATFLA NRTALSIEEA GMLLSGAGDL YVSQIVNPLK TARFSLALHY FEKLGVDLCN
+//

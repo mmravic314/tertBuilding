@@ -1,0 +1,676 @@
+ID   ARI1B_HUMAN             Reviewed;        2236 AA.
+AC   Q8NFD5; Q5JRD1; Q5VYC4; Q8IZY8; Q8TEV0; Q8TF02; Q99491; Q9ULI5;
+DT   30-AUG-2005, integrated into UniProtKB/Swiss-Prot.
+DT   30-AUG-2005, sequence version 2.
+DT   22-JUL-2015, entry version 130.
+DE   RecName: Full=AT-rich interactive domain-containing protein 1B;
+DE            Short=ARID domain-containing protein 1B;
+DE   AltName: Full=BRG1-associated factor 250b;
+DE            Short=BAF250B;
+DE   AltName: Full=BRG1-binding protein hELD/OSA1;
+DE   AltName: Full=Osa homolog 2;
+DE            Short=hOsa2;
+DE   AltName: Full=p250R;
+GN   Name=ARID1B; Synonyms=BAF250B, DAN15, KIAA1235, OSA2;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 4), AND IDENTIFICATION IN THE
+RP   EPAFB COMPLEX.
+RC   TISSUE=Brain;
+RX   PubMed=11734557; DOI=10.1074/jbc.M108702200;
+RA   Kato H., Tjernberg A., Zhang W., Krutchinsky A.N., An W., Takeuchi T.,
+RA   Ohtsuki Y., Sugano S., de Bruijn D.R., Chait B.T., Roeder R.G.;
+RT   "SYT associates with human SNF/SWI complexes and the C-terminal region
+RT   of its fusion partner SSX1 targets histones.";
+RL   J. Biol. Chem. 277:5498-5505(2002).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=14574404; DOI=10.1038/nature02055;
+RA   Mungall A.J., Palmer S.A., Sims S.K., Edwards C.A., Ashurst J.L.,
+RA   Wilming L., Jones M.C., Horton R., Hunt S.E., Scott C.E.,
+RA   Gilbert J.G.R., Clamp M.E., Bethel G., Milne S., Ainscough R.,
+RA   Almeida J.P., Ambrose K.D., Andrews T.D., Ashwell R.I.S.,
+RA   Babbage A.K., Bagguley C.L., Bailey J., Banerjee R., Barker D.J.,
+RA   Barlow K.F., Bates K., Beare D.M., Beasley H., Beasley O., Bird C.P.,
+RA   Blakey S.E., Bray-Allen S., Brook J., Brown A.J., Brown J.Y.,
+RA   Burford D.C., Burrill W., Burton J., Carder C., Carter N.P.,
+RA   Chapman J.C., Clark S.Y., Clark G., Clee C.M., Clegg S., Cobley V.,
+RA   Collier R.E., Collins J.E., Colman L.K., Corby N.R., Coville G.J.,
+RA   Culley K.M., Dhami P., Davies J., Dunn M., Earthrowl M.E.,
+RA   Ellington A.E., Evans K.A., Faulkner L., Francis M.D., Frankish A.,
+RA   Frankland J., French L., Garner P., Garnett J., Ghori M.J.,
+RA   Gilby L.M., Gillson C.J., Glithero R.J., Grafham D.V., Grant M.,
+RA   Gribble S., Griffiths C., Griffiths M.N.D., Hall R., Halls K.S.,
+RA   Hammond S., Harley J.L., Hart E.A., Heath P.D., Heathcott R.,
+RA   Holmes S.J., Howden P.J., Howe K.L., Howell G.R., Huckle E.,
+RA   Humphray S.J., Humphries M.D., Hunt A.R., Johnson C.M., Joy A.A.,
+RA   Kay M., Keenan S.J., Kimberley A.M., King A., Laird G.K., Langford C.,
+RA   Lawlor S., Leongamornlert D.A., Leversha M., Lloyd C.R., Lloyd D.M.,
+RA   Loveland J.E., Lovell J., Martin S., Mashreghi-Mohammadi M.,
+RA   Maslen G.L., Matthews L., McCann O.T., McLaren S.J., McLay K.,
+RA   McMurray A., Moore M.J.F., Mullikin J.C., Niblett D., Nickerson T.,
+RA   Novik K.L., Oliver K., Overton-Larty E.K., Parker A., Patel R.,
+RA   Pearce A.V., Peck A.I., Phillimore B.J.C.T., Phillips S., Plumb R.W.,
+RA   Porter K.M., Ramsey Y., Ranby S.A., Rice C.M., Ross M.T., Searle S.M.,
+RA   Sehra H.K., Sheridan E., Skuce C.D., Smith S., Smith M., Spraggon L.,
+RA   Squares S.L., Steward C.A., Sycamore N., Tamlyn-Hall G., Tester J.,
+RA   Theaker A.J., Thomas D.W., Thorpe A., Tracey A., Tromans A., Tubby B.,
+RA   Wall M., Wallis J.M., West A.P., White S.S., Whitehead S.L.,
+RA   Whittaker H., Wild A., Willey D.J., Wilmer T.E., Wood J.M., Wray P.W.,
+RA   Wyatt J.C., Young L., Younger R.M., Bentley D.R., Coulson A.,
+RA   Durbin R.M., Hubbard T., Sulston J.E., Dunham I., Rogers J., Beck S.;
+RT   "The DNA sequence and analysis of human chromosome 6.";
+RL   Nature 425:805-811(2003).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-515.
+RX   PubMed=9804814; DOI=10.1074/jbc.273.46.30466;
+RA   Mangel L., Ternes T., Schmitz B., Doerfler W.;
+RT   "New 5'-(CGG)-3' repeats in the human genome.";
+RL   J. Biol. Chem. 273:30466-30471(1998).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 9-199.
+RX   PubMed=8896557; DOI=10.1038/ng1196-285;
+RA   Imbert G., Saudou F., Yvert G., Devys D., Trottier Y., Garnier J.-M.,
+RA   Weber C., Mandel J.-L., Cancel G., Abbas N., Duerr A., Didierjean O.,
+RA   Stevanin G., Agid Y., Brice A.;
+RT   "Cloning of the gene for spinocerebellar ataxia 2 reveals a locus with
+RT   high sensitivity to expanded CAG/glutamine repeats.";
+RL   Nat. Genet. 14:285-291(1996).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 72-2236 (ISOFORM 1), TISSUE SPECIFICITY,
+RP   INTERACTION WITH SMARCA2 AND SMARCA4, AND IDENTIFICATION IN A
+RP   SWI/SNF-LIKE COMPLEX WITH ARID1A.
+RX   PubMed=12200431; DOI=10.1074/jbc.M205961200;
+RA   Inoue H., Furukawa T., Giannakopoulos S., Zhou S., King D.S.,
+RA   Tanese N.;
+RT   "Largest subunits of the human SWI/SNF chromatin-remodeling complex
+RT   promote transcriptional activation by steroid hormone receptors.";
+RL   J. Biol. Chem. 277:41674-41685(2002).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 272-2236 (ISOFORM 1), TISSUE
+RP   SPECIFICITY, IDENTIFICATION BY MASS SPECTROMETRY, AND IDENTIFICATION
+RP   IN A SWI/SNF-LIKE EPAFB COMPLEX.
+RX   PubMed=12665591; DOI=10.1128/MCB.23.8.2942-2952.2003;
+RA   Nie Z., Yan Z., Chen E.H., Sechi S., Ling C., Zhou S., Xue Y.,
+RA   Yang D., Murray D., Kanakubo E., Cleary M.L., Wang W.;
+RT   "Novel SWI/SNF chromatin-remodeling complexes contain a mixed-lineage
+RT   leukemia chromosomal translocation partner.";
+RL   Mol. Cell. Biol. 23:2942-2952(2003).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 491-2236 (ISOFORM 2), SUBCELLULAR
+RP   LOCATION, TISSUE SPECIFICITY, INTERACTION WITH SMARCA4, IDENTIFICATION
+RP   IN A COMPLEX WITH SMARCA4 AND SMARCD1, AND IDENTIFICATION IN A
+RP   SWI/SNF-LIKE COMPLEX WITH ARID1A.
+RX   PubMed=11988099;
+RA   Hurlstone A.F., Olave I.A., Barker N., van Noort M., Clevers H.;
+RT   "Cloning and characterization of hELD/OSA1, a novel BRG1 interacting
+RT   protein.";
+RL   Biochem. J. 364:255-264(2002).
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 705-2236 (ISOFORM 3).
+RC   TISSUE=Brain;
+RX   PubMed=10574462; DOI=10.1093/dnares/6.5.337;
+RA   Nagase T., Ishikawa K., Kikuno R., Hirosawa M., Nomura N., Ohara O.;
+RT   "Prediction of the coding sequences of unidentified human genes. XV.
+RT   The complete sequences of 100 new cDNA clones from brain which code
+RT   for large proteins in vitro.";
+RL   DNA Res. 6:337-345(1999).
+RN   [9]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-516; SER-1555 AND
+RP   SER-1559, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE
+RP   ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [10]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT ALA-2, IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS], AND CLEAVAGE OF INITIATOR
+RP   METHIONINE [LARGE SCALE ANALYSIS].
+RX   PubMed=19413330; DOI=10.1021/ac9004309;
+RA   Gauci S., Helbig A.O., Slijper M., Krijgsveld J., Heck A.J.,
+RA   Mohammed S.;
+RT   "Lys-N and trypsin cover complementary parts of the phosphoproteome in
+RT   a refined SCX-based approach.";
+RL   Anal. Chem. 81:4493-4501(2009).
+RN   [11]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Leukemic T-cell;
+RX   PubMed=19690332; DOI=10.1126/scisignal.2000007;
+RA   Mayya V., Lundgren D.H., Hwang S.-I., Rezaul K., Wu L., Eng J.K.,
+RA   Rodionov V., Han D.K.;
+RT   "Quantitative phosphoproteomic analysis of T cell receptor signaling
+RT   reveals system-wide modulation of protein-protein interactions.";
+RL   Sci. Signal. 2:RA46-RA46(2009).
+RN   [12]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT LYS-1777, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19608861; DOI=10.1126/science.1175371;
+RA   Choudhary C., Kumar C., Gnad F., Nielsen M.L., Rehman M.,
+RA   Walther T.C., Olsen J.V., Mann M.;
+RT   "Lysine acetylation targets protein complexes and co-regulates major
+RT   cellular functions.";
+RL   Science 325:834-840(2009).
+RN   [13]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1555 AND SER-1559, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S.,
+RA   Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full
+RT   phosphorylation site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [14]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1555 AND SER-1715, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21406692; DOI=10.1126/scisignal.2001570;
+RA   Rigbolt K.T., Prokhorova T.A., Akimov V., Henningsen J.,
+RA   Johansen P.T., Kratchmarova I., Kassem M., Mann M., Olsen J.V.,
+RA   Blagoev B.;
+RT   "System-wide temporal characterization of the proteome and
+RT   phosphoproteome of human embryonic stem cell differentiation.";
+RL   Sci. Signal. 4:RS3-RS3(2011).
+RN   [15]
+RP   INVOLVEMENT IN MRD12, AND VARIANTS ALA-11 INS; 45-ALA--ALA-47 DEL;
+RP   HIS-82; SER-246; 318-GLY-GLY-319 DEL; GLY-319 DEL; 327-GLY-GLY-328
+RP   DEL; 333-GLY--GLY-337 DEL; VAL-363; ALA-396; VAL-429; PRO-450 INS;
+RP   ASN-497; THR-531; GLU-876; LEU-980; ILE-1092; PRO-1249; GLU-1271;
+RP   ARG-1303; ASN-1321; SER-1411; LYS-1466; HIS-1506; MET-1573; SER-1659;
+RP   GLU-1733 DEL; ARG-1773; ASN-1851; ARG-1898; ARG-1954 AND ARG-2163.
+RX   PubMed=22405089; DOI=10.1016/j.ajhg.2012.02.007;
+RA   Hoyer J., Ekici A.B., Endele S., Popp B., Zweier C., Wiesener A.,
+RA   Wohlleber E., Dufke A., Rossier E., Petsch C., Zweier M., Gohring I.,
+RA   Zink A.M., Rappold G., Schrock E., Wieczorek D., Riess O., Engels H.,
+RA   Rauch A., Reis A.;
+RT   "Haploinsufficiency of ARID1B, a member of the SWI/SNF-a chromatin-
+RT   remodeling complex, is a frequent cause of intellectual disability.";
+RL   Am. J. Hum. Genet. 90:565-572(2012).
+RN   [16]
+RP   INVOLVEMENT IN MRD12.
+RX   PubMed=22426308; DOI=10.1038/ng.2219;
+RA   Tsurusaki Y., Okamoto N., Ohashi H., Kosho T., Imai Y., Hibi-Ko Y.,
+RA   Kaname T., Naritomi K., Kawame H., Wakui K., Fukushima Y., Homma T.,
+RA   Kato M., Hiraki Y., Yamagata T., Yano S., Mizuno S., Sakazume S.,
+RA   Ishii T., Nagai T., Shiina M., Ogata K., Ohta T., Niikawa N.,
+RA   Miyatake S., Okada I., Mizuguchi T., Doi H., Saitsu H., Miyake N.,
+RA   Matsumoto N.;
+RT   "Mutations affecting components of the SWI/SNF complex cause Coffin-
+RT   Siris syndrome.";
+RL   Nat. Genet. 44:376-378(2012).
+RN   [17]
+RP   INVOLVEMENT IN MRD12.
+RX   PubMed=22426309; DOI=10.1038/ng.2217;
+RA   Santen G.W., Aten E., Sun Y., Almomani R., Gilissen C., Nielsen M.,
+RA   Kant S.G., Snoeck I.N., Peeters E.A., Hilhorst-Hofstee Y.,
+RA   Wessels M.W., den Hollander N.S., Ruivenkamp C.A., van Ommen G.J.,
+RA   Breuning M.H., den Dunnen J.T., van Haeringen A., Kriek M.;
+RT   "Mutations in SWI/SNF chromatin remodeling complex gene ARID1B cause
+RT   Coffin-Siris syndrome.";
+RL   Nat. Genet. 44:379-380(2012).
+RN   [18]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D.,
+RA   Wang L., Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human
+RT   liver phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [19]
+RP   REVIEW ON SWI/SNF CHROMATIN REMODELING COMPLEXES.
+RX   PubMed=12672490; DOI=10.1016/S0959-437X(03)00022-4;
+RA   Martens J.A., Winston F.;
+RT   "Recent advances in understanding chromatin remodeling by SWI/SNF
+RT   complexes.";
+RL   Curr. Opin. Genet. Dev. 13:136-142(2003).
+RN   [20]
+RP   DNA-BINDING, IDENTIFICATION IN SWI/SNF COMPLEXES, AND INTERACTION WITH
+RP   SMARCA2; SMARCA4 AND SMARCC1.
+RX   PubMed=15170388; DOI=10.1042/BJ20040524;
+RA   Wang X., Nagl N.G., Wilsker D., Van Scoy M., Pacchione S., Yaciuk P.,
+RA   Dallas P.B., Moran E.;
+RT   "Two related ARID family proteins are alternative subunits of human
+RT   SWI/SNF complexes.";
+RL   Biochem. J. 383:319-325(2004).
+RN   [21]
+RP   DNA-BINDING.
+RX   PubMed=14982958; DOI=10.1093/nar/gkh277;
+RA   Wilsker D., Patsialou A., Zumbrun S.D., Kim S., Chen Y., Dallas P.B.,
+RA   Moran E.;
+RT   "The DNA-binding properties of the ARID-containing subunits of yeast
+RT   and mammalian SWI/SNF complexes.";
+RL   Nucleic Acids Res. 32:1345-1353(2004).
+RN   [22]
+RP   IDENTIFICATION IN THE BAF COMPLEX, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY.
+RX   PubMed=18765789; DOI=10.1101/gad.471408;
+RA   Lange M., Kaynak B., Forster U.B., Toenjes M., Fischer J.J., Grimm C.,
+RA   Schlesinger J., Just S., Dunkel I., Krueger T., Mebus S., Lehrach H.,
+RA   Lurz R., Gobom J., Rottbauer W., Abdelilah-Seyfried S., Sperling S.;
+RT   "Regulation of muscle development by DPF3, a novel histone acetylation
+RT   and methylation reader of the BAF chromatin remodeling complex.";
+RL   Genes Dev. 22:2370-2384(2008).
+RN   [23]
+RP   X-RAY CRYSTALLOGRAPHY (1.6 ANGSTROMS) OF 1041-1159.
+RG   RIKEN structural genomics initiative (RSGI);
+RT   "Crystal structure of the HBAF250B AT-rich interaction domain
+RT   (ARID).";
+RL   Submitted (OCT-2006) to the PDB data bank.
+RN   [24]
+RP   VARIANT [LARGE SCALE ANALYSIS] ALA-814.
+RX   PubMed=16959974; DOI=10.1126/science.1133427;
+RA   Sjoeblom T., Jones S., Wood L.D., Parsons D.W., Lin J., Barber T.D.,
+RA   Mandelker D., Leary R.J., Ptak J., Silliman N., Szabo S.,
+RA   Buckhaults P., Farrell C., Meeh P., Markowitz S.D., Willis J.,
+RA   Dawson D., Willson J.K.V., Gazdar A.F., Hartigan J., Wu L., Liu C.,
+RA   Parmigiani G., Park B.H., Bachman K.E., Papadopoulos N.,
+RA   Vogelstein B., Kinzler K.W., Velculescu V.E.;
+RT   "The consensus coding sequences of human breast and colorectal
+RT   cancers.";
+RL   Science 314:268-274(2006).
+CC   -!- FUNCTION: Involved in transcriptional activation and repression of
+CC       select genes by chromatin remodeling (alteration of DNA-nucleosome
+CC       topology). Belongs to the neural progenitors-specific chromatin
+CC       remodeling complex (npBAF complex) and the neuron-specific
+CC       chromatin remodeling complex (nBAF complex). During neural
+CC       development a switch from a stem/progenitor to a post-mitotic
+CC       chromatin remodeling mechanism occurs as neurons exit the cell
+CC       cycle and become committed to their adult state. The transition
+CC       from proliferating neural stem/progenitor cells to post-mitotic
+CC       neurons requires a switch in subunit composition of the npBAF and
+CC       nBAF complexes. As neural progenitors exit mitosis and
+CC       differentiate into neurons, npBAF complexes which contain
+CC       ACTL6A/BAF53A and PHF10/BAF45A, are exchanged for homologous
+CC       alternative ACTL6B/BAF53B and DPF1/BAF45B or DPF3/BAF45C subunits
+CC       in neuron-specific complexes (nBAF). The npBAF complex is
+CC       essential for the self-renewal/proliferative capacity of the
+CC       multipotent neural stem cells. The nBAF complex along with CREST
+CC       plays a role regulating the activity of genes essential for
+CC       dendrite growth (By similarity). Binds DNA non-specifically.
+CC       {ECO:0000250}.
+CC   -!- SUBUNIT: Component of SWI/SNF chromatin remodeling complexes, in
+CC       some of which it can be mutually exclusive with ARID1A/BAF250A.
+CC       Component of the BAF (SWI/SNF-A) complex, which includes at least
+CC       actin (ACTB), ARID1A, ARID1B/BAF250, SMARCA2,
+CC       SMARCA4/BRG1/BAF190A, ACTL6A/BAF53, ACTL6B/BAF53B, SMARCE1/BAF57,
+CC       SMARCC1/BAF155, SMARCC2/BAF170, SMARCB1/SNF5/INI1, and one or more
+CC       of SMARCD1/BAF60A, SMARCD2/BAF60B, or SMARCD3/BAF60C. In muscle
+CC       cells, the BAF complex also contains DPF3. Component of the
+CC       SWI/SNF-B (PBAF) complex, at least composed of
+CC       SMARCA4/BRG1/BAF190A, SMARCB1/BAF47, ACTL6A/BAF53A or
+CC       ACTL6B/BAF53B, SMARCE1/BAF57, SMARCD1/BAF60A, SMARCD2/BAF60B,
+CC       perhaps SMARCD3/BAF60C, SMARCC1/BAF155, SMARCC2/BAF170,
+CC       PB1/BAF180, ARID2/BAF200, ARID1A/BAF250A or ARID1B/BAF250B and
+CC       actin. Component of a SWI/SNF-like EPAFb complex, at least
+CC       composed of SMARCA4/BRG1/BAF190A, SMARCB1/BAF47, ACTL6A/BAF53A,
+CC       SMARCE1/BAF57, SMARCD1/BAF60A, SMARCD2/BAF60B, SMARCC1/BAF155,
+CC       SMARCC2/BAF170, ARID1B/BAF250B, MLLT1/ENL and actin. Component of
+CC       a SWI/SNF-like complex containing ARID1A/BAF250A and
+CC       ARID1B/BAF250B. Interacts through its C-terminus with
+CC       SMARCA2/BRM/BAF190B and SMARCA4/BRG1/BAF190A. Interacts with
+CC       SMARCC1/BAF155. Component of neural progenitors-specific chromatin
+CC       remodeling complex (npBAF complex) composed of at least,
+CC       ARID1A/BAF250A or ARID1B/BAF250B, SMARCD1/BAF60A, SMARCD3/BAF60C,
+CC       SMARCA2/BRM/BAF190B, SMARCA4/BRG1/BAF190A, SMARCB1/BAF47,
+CC       SMARCC1/BAF155, SMARCE1/BAF57, SMARCC2/BAF170, PHF10/BAF45A,
+CC       ACTL6A/BAF53A and actin. Component of neuron-specific chromatin
+CC       remodeling complex (nBAF complex) composed of at least,
+CC       ARID1A/BAF250A or ARID1B/BAF250B, SMARCD1/BAF60A, SMARCD3/BAF60C,
+CC       SMARCA2/BRM/BAF190B, SMARCA4/BRG1/BAF190A, SMARCB1/BAF47,
+CC       SMARCC1/BAF155, SMARCE1/BAF57, SMARCC2/BAF170, DPF1/BAF45B,
+CC       DPF3/BAF45C, ACTL6B/BAF53B and actin (By similarity).
+CC       {ECO:0000250}.
+CC   -!- INTERACTION:
+CC       P51531:SMARCA2; NbExp=3; IntAct=EBI-679921, EBI-679562;
+CC       P51532:SMARCA4; NbExp=3; IntAct=EBI-679921, EBI-302489;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000255|PROSITE-
+CC       ProRule:PRU00355, ECO:0000269|PubMed:11988099}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=4;
+CC       Name=1;
+CC         IsoId=Q8NFD5-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q8NFD5-2; Sequence=VSP_015226;
+CC       Name=3;
+CC         IsoId=Q8NFD5-3; Sequence=VSP_015227;
+CC       Name=4;
+CC         IsoId=Q8NFD5-4; Sequence=VSP_040800;
+CC   -!- TISSUE SPECIFICITY: Widely expressed with high levels in heart,
+CC       skeletal muscle and kidney. {ECO:0000269|PubMed:11988099,
+CC       ECO:0000269|PubMed:12200431, ECO:0000269|PubMed:12665591}.
+CC   -!- POLYMORPHISM: The poly-Gln region is polymorphic and the number of
+CC       Gln varies in the population (from 17 to 23).
+CC   -!- DISEASE: Mental retardation, autosomal dominant 12 (MRD12)
+CC       [MIM:614562]: A disorder characterized by significantly below
+CC       average general intellectual functioning associated with
+CC       impairments in adaptive behavior and manifested during the
+CC       developmental period. MRD12 patients present with moderate to
+CC       severe psychomotor retardation, and most show evidence of muscular
+CC       hypotonia. In many patients, expressive speech is more severely
+CC       affected than receptive function. Additional common findings
+CC       include short stature, abnormal head shape and low-set,
+CC       posteriorly rotated, and abnormally shaped ears, downslanting
+CC       palpebral fissures, a bulbous nasal tip, a thin upper lip, minor
+CC       teeth anomalies, and brachydactyly or single palmar creases.
+CC       Autistic features are uncommon. {ECO:0000269|PubMed:22405089,
+CC       ECO:0000269|PubMed:22426308, ECO:0000269|PubMed:22426309}.
+CC       Note=The disease is caused by mutations affecting the gene
+CC       represented in this entry.
+CC   -!- SIMILARITY: Contains 1 ARID domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00355}.
+CC   -!- CAUTION: It is uncertain whether Met-1 or Met-59 is the initiator.
+CC       {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAL76077.1; Type=Erroneous initiation; Note=Translation N-terminally extended.; Evidence={ECO:0000305};
+CC       Sequence=AAN70985.1; Type=Frameshift; Positions=857, 863; Evidence={ECO:0000305};
+CC       Sequence=CAA69592.1; Type=Frameshift; Positions=132; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF259792; AAG36928.1; -; mRNA.
+DR   EMBL; AL355297; CAH71534.1; -; Genomic_DNA.
+DR   EMBL; AL049820; CAH71534.1; JOINED; Genomic_DNA.
+DR   EMBL; AL162578; CAH71534.1; JOINED; Genomic_DNA.
+DR   EMBL; AL591545; CAH71534.1; JOINED; Genomic_DNA.
+DR   EMBL; AL049820; CAI42308.1; -; Genomic_DNA.
+DR   EMBL; AL162578; CAI42308.1; JOINED; Genomic_DNA.
+DR   EMBL; AL355297; CAI42308.1; JOINED; Genomic_DNA.
+DR   EMBL; AL591545; CAI42308.1; JOINED; Genomic_DNA.
+DR   EMBL; AL162578; CAI40014.1; -; Genomic_DNA.
+DR   EMBL; AL049820; CAI40014.1; JOINED; Genomic_DNA.
+DR   EMBL; AL355297; CAI40014.1; JOINED; Genomic_DNA.
+DR   EMBL; AL591545; CAI40014.1; JOINED; Genomic_DNA.
+DR   EMBL; AL591545; CAI40666.1; -; Genomic_DNA.
+DR   EMBL; AL049820; CAI40666.1; JOINED; Genomic_DNA.
+DR   EMBL; AL162578; CAI40666.1; JOINED; Genomic_DNA.
+DR   EMBL; AL355297; CAI40666.1; JOINED; Genomic_DNA.
+DR   EMBL; AL049820; CAI42305.1; -; Genomic_DNA.
+DR   EMBL; AL591545; CAI42305.1; JOINED; Genomic_DNA.
+DR   EMBL; AL591545; CAI40664.1; -; Genomic_DNA.
+DR   EMBL; AL049820; CAI40664.1; JOINED; Genomic_DNA.
+DR   EMBL; AJ001216; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; Y08266; CAA69592.1; ALT_FRAME; mRNA.
+DR   EMBL; AF521671; AAN03447.1; -; mRNA.
+DR   EMBL; AF253515; AAN70985.1; ALT_SEQ; mRNA.
+DR   EMBL; AF468300; AAL76077.1; ALT_INIT; mRNA.
+DR   EMBL; AB033061; BAA86549.1; -; mRNA.
+DR   CCDS; CCDS5251.2; -. [Q8NFD5-1]
+DR   CCDS; CCDS55072.1; -. [Q8NFD5-2]
+DR   RefSeq; NP_059989.2; NM_017519.2. [Q8NFD5-1]
+DR   RefSeq; NP_065783.3; NM_020732.3. [Q8NFD5-2]
+DR   RefSeq; XP_005267126.2; XM_005267069.3. [Q8NFD5-3]
+DR   UniGene; Hs.291587; -.
+DR   UniGene; Hs.744461; -.
+DR   PDB; 2CXY; X-ray; 1.60 A; A=1041-1159.
+DR   PDB; 2EH9; X-ray; 2.00 A; A=1041-1159.
+DR   PDBsum; 2CXY; -.
+DR   PDBsum; 2EH9; -.
+DR   ProteinModelPortal; Q8NFD5; -.
+DR   SMR; Q8NFD5; 1041-1154.
+DR   BioGrid; 121559; 28.
+DR   IntAct; Q8NFD5; 10.
+DR   MINT; MINT-1153351; -.
+DR   STRING; 9606.ENSP00000344546; -.
+DR   PhosphoSite; Q8NFD5; -.
+DR   BioMuta; ARID1B; -.
+DR   DMDM; 73921720; -.
+DR   MaxQB; Q8NFD5; -.
+DR   PaxDb; Q8NFD5; -.
+DR   PRIDE; Q8NFD5; -.
+DR   Ensembl; ENST00000346085; ENSP00000344546; ENSG00000049618. [Q8NFD5-2]
+DR   Ensembl; ENST00000350026; ENSP00000055163; ENSG00000049618.
+DR   GeneID; 57492; -.
+DR   KEGG; hsa:57492; -.
+DR   UCSC; uc003qqn.3; human. [Q8NFD5-3]
+DR   UCSC; uc003qqo.3; human. [Q8NFD5-2]
+DR   UCSC; uc003qqp.3; human. [Q8NFD5-1]
+DR   CTD; 57492; -.
+DR   GeneCards; GC06P157105; -.
+DR   GeneReviews; ARID1B; -.
+DR   H-InvDB; HIX0006320; -.
+DR   H-InvDB; HIX0165033; -.
+DR   HGNC; HGNC:18040; ARID1B.
+DR   HPA; HPA016511; -.
+DR   MIM; 614556; gene.
+DR   MIM; 614562; phenotype.
+DR   neXtProt; NX_Q8NFD5; -.
+DR   Orphanet; 251056; 6q25 microdeletion syndrome.
+DR   Orphanet; 1465; Coffin-Siris syndrome.
+DR   Orphanet; 3051; intellectual disability - sparse hair - brachydactyly.
+DR   PharmGKB; PA134909463; -.
+DR   eggNOG; NOG12793; -.
+DR   GeneTree; ENSGT00550000074575; -.
+DR   HOVERGEN; HBG058196; -.
+DR   InParanoid; Q8NFD5; -.
+DR   KO; K11653; -.
+DR   OMA; AQQRSHP; -.
+DR   OrthoDB; EOG7M6D7M; -.
+DR   PhylomeDB; Q8NFD5; -.
+DR   TreeFam; TF320364; -.
+DR   Reactome; REACT_264545; RMTs methylate histone arginines.
+DR   ChiTaRS; ARID1B; human.
+DR   EvolutionaryTrace; Q8NFD5; -.
+DR   GeneWiki; ARID1B; -.
+DR   GenomeRNAi; 57492; -.
+DR   NextBio; 63782; -.
+DR   PRO; PR:Q8NFD5; -.
+DR   Proteomes; UP000005640; Chromosome 6.
+DR   Bgee; Q8NFD5; -.
+DR   CleanEx; HS_ARID1B; -.
+DR   ExpressionAtlas; Q8NFD5; baseline and differential.
+DR   Genevisible; Q8NFD5; HS.
+DR   GO; GO:0005737; C:cytoplasm; IDA:HPA.
+DR   GO; GO:0071565; C:nBAF complex; IEA:Ensembl.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0016514; C:SWI/SNF complex; IDA:UniProtKB.
+DR   GO; GO:0003677; F:DNA binding; IDA:GDB.
+DR   GO; GO:0003713; F:transcription coactivator activity; NAS:UniProtKB.
+DR   GO; GO:0048096; P:chromatin-mediated maintenance of transcription; NAS:UniProtKB.
+DR   GO; GO:0007399; P:nervous system development; IEA:UniProtKB-KW.
+DR   GO; GO:0006351; P:transcription, DNA-templated; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.150.60; -; 1.
+DR   Gene3D; 1.25.10.10; -; 1.
+DR   InterPro; IPR001606; ARID_dom.
+DR   InterPro; IPR011989; ARM-like.
+DR   InterPro; IPR021906; BAF250/Osa.
+DR   Pfam; PF01388; ARID; 1.
+DR   Pfam; PF12031; DUF3518; 1.
+DR   SMART; SM00501; BRIGHT; 1.
+DR   SUPFAM; SSF46774; SSF46774; 1.
+DR   PROSITE; PS51011; ARID; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Alternative splicing; Chromatin regulator;
+KW   Complete proteome; DNA-binding; Mental retardation; Neurogenesis;
+KW   Nucleus; Phosphoprotein; Polymorphism; Reference proteome;
+KW   Transcription; Transcription regulation; Triplet repeat expansion.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:19413330}.
+FT   CHAIN         2   2236       AT-rich interactive domain-containing
+FT                                protein 1B.
+FT                                /FTId=PRO_0000200576.
+FT   DOMAIN     1053   1144       ARID. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00355}.
+FT   MOTIF       419    423       LXXLL.
+FT   MOTIF      2036   2040       LXXLL.
+FT   COMPBIAS      2     47       Ala-rich.
+FT   COMPBIAS     35     57       Ser-rich.
+FT   COMPBIAS     81    104       His-rich.
+FT   COMPBIAS    107    131       Gln-rich.
+FT   COMPBIAS    114    131       Poly-Gln.
+FT   COMPBIAS    141    401       Gly-rich.
+FT   COMPBIAS    329    493       Ala-rich.
+FT   COMPBIAS    574    633       Gln-rich.
+FT   COMPBIAS    684    771       Ser-rich.
+FT   COMPBIAS    932    935       Poly-Ala.
+FT   COMPBIAS   1034   1037       Poly-Ser.
+FT   COMPBIAS   1441   1444       Poly-Ser.
+FT   COMPBIAS   1459   1597       Pro-rich.
+FT   COMPBIAS   1833   1836       Poly-Pro.
+FT   MOD_RES       2      2       N-acetylalanine.
+FT                                {ECO:0000269|PubMed:19413330}.
+FT   MOD_RES     516    516       Phosphoserine.
+FT                                {ECO:0000269|PubMed:18669648}.
+FT   MOD_RES    1555   1555       Phosphoserine.
+FT                                {ECO:0000269|PubMed:18669648,
+FT                                ECO:0000269|PubMed:20068231,
+FT                                ECO:0000269|PubMed:21406692}.
+FT   MOD_RES    1559   1559       Phosphoserine.
+FT                                {ECO:0000269|PubMed:18669648,
+FT                                ECO:0000269|PubMed:20068231}.
+FT   MOD_RES    1715   1715       Phosphoserine.
+FT                                {ECO:0000269|PubMed:21406692}.
+FT   MOD_RES    1777   1777       N6-acetyllysine.
+FT                                {ECO:0000269|PubMed:19608861}.
+FT   VAR_SEQ       1    750       Missing (in isoform 4).
+FT                                {ECO:0000303|PubMed:11734557}.
+FT                                /FTId=VSP_040800.
+FT   VAR_SEQ     579    579       Q -> QDSGDATWKETFWL (in isoform 2).
+FT                                {ECO:0000303|PubMed:11988099}.
+FT                                /FTId=VSP_015226.
+FT   VAR_SEQ    1032   1032       K -> KDSYSSQGISQPPTPGNLPVPSPMSPSSASISSFHG
+FT                                DESDSISSPGWPKTPSSP (in isoform 3).
+FT                                {ECO:0000303|PubMed:10574462}.
+FT                                /FTId=VSP_015227.
+FT   VARIANT      11     11       A -> AA. {ECO:0000269|PubMed:22405089}.
+FT                                /FTId=VAR_067662.
+FT   VARIANT      45     47       Missing. {ECO:0000269|PubMed:22405089}.
+FT                                /FTId=VAR_067663.
+FT   VARIANT      82     82       Q -> H. {ECO:0000269|PubMed:22405089}.
+FT                                /FTId=VAR_067664.
+FT   VARIANT     246    246       G -> S. {ECO:0000269|PubMed:22405089}.
+FT                                /FTId=VAR_067665.
+FT   VARIANT     318    319       Missing. {ECO:0000269|PubMed:22405089}.
+FT                                /FTId=VAR_067666.
+FT   VARIANT     319    319       Missing. {ECO:0000269|PubMed:22405089}.
+FT                                /FTId=VAR_067667.
+FT   VARIANT     327    328       Missing. {ECO:0000269|PubMed:22405089}.
+FT                                /FTId=VAR_067668.
+FT   VARIANT     333    337       Missing. {ECO:0000269|PubMed:22405089}.
+FT                                /FTId=VAR_067669.
+FT   VARIANT     363    363       A -> V. {ECO:0000269|PubMed:22405089}.
+FT                                /FTId=VAR_067670.
+FT   VARIANT     396    396       G -> A. {ECO:0000269|PubMed:22405089}.
+FT                                /FTId=VAR_067671.
+FT   VARIANT     429    429       M -> V. {ECO:0000269|PubMed:22405089}.
+FT                                /FTId=VAR_067672.
+FT   VARIANT     450    450       P -> PP. {ECO:0000269|PubMed:22405089}.
+FT                                /FTId=VAR_067673.
+FT   VARIANT     497    497       S -> N. {ECO:0000269|PubMed:22405089}.
+FT                                /FTId=VAR_067674.
+FT   VARIANT     531    531       M -> T. {ECO:0000269|PubMed:22405089}.
+FT                                /FTId=VAR_067675.
+FT   VARIANT     814    814       G -> A (in a breast cancer sample;
+FT                                somatic mutation).
+FT                                {ECO:0000269|PubMed:16959974}.
+FT                                /FTId=VAR_036257.
+FT   VARIANT     876    876       Q -> E. {ECO:0000269|PubMed:22405089}.
+FT                                /FTId=VAR_067676.
+FT   VARIANT     980    980       Q -> L. {ECO:0000269|PubMed:22405089}.
+FT                                /FTId=VAR_067677.
+FT   VARIANT    1092   1092       V -> I. {ECO:0000269|PubMed:22405089}.
+FT                                /FTId=VAR_067678.
+FT   VARIANT    1249   1249       Q -> P. {ECO:0000269|PubMed:22405089}.
+FT                                /FTId=VAR_067679.
+FT   VARIANT    1271   1271       G -> E. {ECO:0000269|PubMed:22405089}.
+FT                                /FTId=VAR_067680.
+FT   VARIANT    1303   1303       G -> R. {ECO:0000269|PubMed:22405089}.
+FT                                /FTId=VAR_067681.
+FT   VARIANT    1321   1321       S -> N. {ECO:0000269|PubMed:22405089}.
+FT                                /FTId=VAR_067682.
+FT   VARIANT    1411   1411       P -> S. {ECO:0000269|PubMed:22405089}.
+FT                                /FTId=VAR_067683.
+FT   VARIANT    1466   1466       Q -> K. {ECO:0000269|PubMed:22405089}.
+FT                                /FTId=VAR_067684.
+FT   VARIANT    1506   1506       R -> H. {ECO:0000269|PubMed:22405089}.
+FT                                /FTId=VAR_067685.
+FT   VARIANT    1573   1573       T -> M. {ECO:0000269|PubMed:22405089}.
+FT                                /FTId=VAR_067686.
+FT   VARIANT    1659   1659       N -> S. {ECO:0000269|PubMed:22405089}.
+FT                                /FTId=VAR_067687.
+FT   VARIANT    1733   1733       Missing. {ECO:0000269|PubMed:22405089}.
+FT                                /FTId=VAR_067688.
+FT   VARIANT    1773   1773       K -> R. {ECO:0000269|PubMed:22405089}.
+FT                                /FTId=VAR_067689.
+FT   VARIANT    1851   1851       D -> N. {ECO:0000269|PubMed:22405089}.
+FT                                /FTId=VAR_067690.
+FT   VARIANT    1898   1898       K -> R. {ECO:0000269|PubMed:22405089}.
+FT                                /FTId=VAR_067691.
+FT   VARIANT    1954   1954       K -> R. {ECO:0000269|PubMed:22405089}.
+FT                                /FTId=VAR_067692.
+FT   VARIANT    2163   2163       Q -> R. {ECO:0000269|PubMed:22405089}.
+FT                                /FTId=VAR_067693.
+FT   CONFLICT    334    336       AGA -> SRS (in Ref. 5; AAN03447).
+FT                                {ECO:0000305}.
+FT   CONFLICT    446    446       P -> A (in Ref. 6; AAN70985).
+FT                                {ECO:0000305}.
+FT   CONFLICT    687    687       V -> A (in Ref. 7; AAL76077).
+FT                                {ECO:0000305}.
+FT   CONFLICT    904    904       T -> P (in Ref. 7; AAL76077).
+FT                                {ECO:0000305}.
+FT   CONFLICT   1201   1201       T -> I (in Ref. 1; AAG36928).
+FT                                {ECO:0000305}.
+FT   CONFLICT   1339   1339       P -> S (in Ref. 6; AAN70985).
+FT                                {ECO:0000305}.
+FT   CONFLICT   1432   1432       P -> L (in Ref. 8; BAA86549).
+FT                                {ECO:0000305}.
+FT   CONFLICT   1534   1534       P -> S (in Ref. 6; AAN70985).
+FT                                {ECO:0000305}.
+FT   CONFLICT   1713   1713       D -> N (in Ref. 7; AAL76077).
+FT                                {ECO:0000305}.
+FT   CONFLICT   2196   2196       D -> N (in Ref. 1; AAG36928).
+FT                                {ECO:0000305}.
+FT   HELIX      1046   1049       {ECO:0000244|PDB:2CXY}.
+FT   HELIX      1056   1070       {ECO:0000244|PDB:2CXY}.
+FT   HELIX      1087   1097       {ECO:0000244|PDB:2CXY}.
+FT   HELIX      1100   1106       {ECO:0000244|PDB:2CXY}.
+FT   HELIX      1109   1115       {ECO:0000244|PDB:2CXY}.
+FT   HELIX      1122   1135       {ECO:0000244|PDB:2CXY}.
+FT   HELIX      1137   1145       {ECO:0000244|PDB:2CXY}.
+SQ   SEQUENCE   2236 AA;  236123 MW;  4538B4747606C918 CRC64;
+     MAHNAGAAAA AGTHSAKSGG SEAALKEGGS AAALSSSSSS SAAAAAASSS SSSGPGSAME
+     TGLLPNHKLK TVGEAPAAPP HQQHHHHHHA HHHHHHAHHL HHHHALQQQL NQFQQQQQQQ
+     QQQQQQQQQQ QHPISNNNSL GGAGGGAPQP GPDMEQPQHG GAKDSAAGGQ ADPPGPPLLS
+     KPGDEDDAPP KMGEPAGGRY EHPGLGALGT QQPPVAVPGG GGGPAAVPEF NNYYGSAAPA
+     SGGPGGRAGP CFDQHGGQQS PGMGMMHSAS AAAAGAPGSM DPLQNSHEGY PNSQCNHYPG
+     YSRPGAGGGG GGGGGGGGGS GGGGGGGGAG AGGAGAGAVA AAAAAAAAAA GGGGGGGYGG
+     SSAGYGVLSS PRQQGGGMMM GPGGGGAASL SKAAAGSAAG GFQRFAGQNQ HPSGATPTLN
+     QLLTSPSPMM RSYGGSYPEY SSPSAPPPPP SQPQSQAAAA GAAAGGQQAA AGMGLGKDMG
+     AQYAAASPAW AAAQQRSHPA MSPGTPGPTM GRSQGSPMDP MVMKRPQLYG MGSNPHSQPQ
+     QSSPYPGGSY GPPGPQRYPI GIQGRTPGAM AGMQYPQQQM PPQYGQQGVS GYCQQGQQPY
+     YSQQPQPPHL PPQAQYLPSQ SQQRYQPQQD MSQEGYGTRS QPPLAPGKPN HEDLNLIQQE
+     RPSSLPDLSG SIDDLPTGTE ATLSSAVSAS GSTSSQGDQS NPAQSPFSPH ASPHLSSIPG
+     GPSPSPVGSP VGSNQSRSGP ISPASIPGSQ MPPQPPGSQS ESSSHPALSQ SPMPQERGFM
+     AGTQRNPQMA QYGPQQTGPS MSPHPSPGGQ MHAGISSFQQ SNSSGTYGPQ MSQYGPQGNY
+     SRPPAYSGVP SASYSGPGPG MGISANNQMH GQGPSQPCGA VPLGRMPSAG MQNRPFPGNM
+     SSMTPSSPGM SQQGGPGMGP PMPTVNRKAQ EAAAAVMQAA ANSAQSRQGS FPGMNQSGLM
+     ASSSPYSQPM NNSSSLMNTQ APPYSMAPAM VNSSAASVGL ADMMSPGESK LPLPLKADGK
+     EEGTPQPESK SKKSSSSTTT GEKITKVYEL GNEPERKLWV DRYLTFMEER GSPVSSLPAV
+     GKKPLDLFRL YVCVKEIGGL AQVNKNKKWR ELATNLNVGT SSSAASSLKK QYIQYLFAFE
+     CKIERGEEPP PEVFSTGDTK KQPKLQPPSP ANSGSLQGPQ TPQSTGSNSM AEVPGDLKPP
+     TPASTPHGQM TPMQGGRSST ISVHDPFSDV SDSSFPKRNS MTPNAPYQQG MSMPDVMGRM
+     PYEPNKDPFG GMRKVPGSSE PFMTQGQMPN SSMQDMYNQS PSGAMSNLGM GQRQQFPYGA
+     SYDRRHEPYG QQYPGQGPPS GQPPYGGHQP GLYPQQPNYK RHMDGMYGPP AKRHEGDMYN
+     MQYSSQQQEM YNQYGGSYSG PDRRPIQGQY PYPYSRERMQ GPGQIQTHGI PPQMMGGPLQ
+     SSSSEGPQQN MWAARNDMPY PYQNRQGPGG PTQAPPYPGM NRTDDMMVPD QRINHESQWP
+     SHVSQRQPYM SSSASMQPIT RPPQPSYQTP PSLPNHISRA PSPASFQRSL ENRMSPSKSP
+     FLPSMKMQKV MPTVPTSQVT GPPPQPPPIR REITFPPGSV EASQPVLKQR RKITSKDIVT
+     PEAWRVMMSL KSGLLAESTW ALDTINILLY DDSTVATFNL SQLSGFLELL VEYFRKCLID
+     IFGILMEYEV GDPSQKALDH NAARKDDSQS LADDSGKEEE DAECIDDDEE DEEDEEEDSE
+     KTESDEKSSI ALTAPDAAAD PKEKPKQASK FDKLPIKIVK KNNLFVVDRS DKLGRVQEFN
+     SGLLHWQLGG GDTTEHIQTH FESKMEIPPR RRPPPPLSSA GRKKEQEGKG DSEEQQEKSI
+     IATIDDVLSA RPGALPEDAN PGPQTESSKF PFGIQQAKSH RNIKLLEDEP RSRDETPLCT
+     IAHWQDSLAK RCICVSNIVR SLSFVPGNDA EMSKHPGLVL ILGKLILLHH EHPERKRAPQ
+     TYEKEEDEDK GVACSKDEWW WDCLEVLRDN TLVTLANISG QLDLSAYTES ICLPILDGLL
+     HWMVCPSAEA QDPFPTVGPN SVLSPQRLVL ETLCKLSIQD NNVDLILATP PFSRQEKFYA
+     TLVRYVGDRK NPVCREMSMA LLSNLAQGDA LAARAIAVQK GSIGNLISFL EDGVTMAQYQ
+     QSQHNLMHMQ PPPLEPPSVD MMCRAAKALL AMARVDENRS EFLLHEGRLL DISISAVLNS
+     LVASVICDVL FQIGQL
+//

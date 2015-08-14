@@ -1,0 +1,82 @@
+ID   A1S420_SHEAM            Unreviewed;       467 AA.
+AC   A1S420;
+DT   06-FEB-2007, integrated into UniProtKB/TrEMBL.
+DT   06-FEB-2007, sequence version 1.
+DT   22-JUL-2015, entry version 45.
+DE   SubName: Full=Peptidase M28 {ECO:0000313|EMBL:ABL99126.1};
+DE   Flags: Precursor;
+GN   OrderedLocusNames=Sama_0919 {ECO:0000313|EMBL:ABL99126.1};
+OS   Shewanella amazonensis (strain ATCC BAA-1098 / SB2B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales;
+OC   Shewanellaceae; Shewanella.
+OX   NCBI_TaxID=326297 {ECO:0000313|EMBL:ABL99126.1, ECO:0000313|Proteomes:UP000009175};
+RN   [1] {ECO:0000313|EMBL:ABL99126.1, ECO:0000313|Proteomes:UP000009175}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC BAA-1098 / SB2B {ECO:0000313|Proteomes:UP000009175};
+RG   US DOE Joint Genome Institute;
+RA   Copeland A., Lucas S., Lapidus A., Barry K., Detter J.C.,
+RA   Glavina del Rio T., Hammon N., Israni S., Dalin E., Tice H.,
+RA   Pitluck S., Munk A.C., Brettin T., Bruce D., Han C., Tapia R.,
+RA   Gilna P., Schmutz J., Larimer F., Land M., Hauser L., Kyrpides N.,
+RA   Mikhailova N., Fredrickson J., Richardson P.;
+RT   "Complete sequence of Shewanella amazonensis SB2B.";
+RL   Submitted (DEC-2006) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:3IIB}
+RP   X-RAY CRYSTALLOGRAPHY (1.70 ANGSTROMS) OF 25-467 IN COMPLEX WITH ZINC.
+RG   Joint Center for Structural Genomics (JCSG);
+RT   "Crystal structure of Peptidase M28 precursor (YP_926796.1) from
+RT   SHEWANELLA AMAZONENSIS SB2B at 1.70 A resolution.";
+RL   Submitted (JUL-2009) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP000507; ABL99126.1; -; Genomic_DNA.
+DR   RefSeq; WP_011759035.1; NC_008700.1.
+DR   PDB; 3IIB; X-ray; 1.70 A; A=25-467.
+DR   PDBsum; 3IIB; -.
+DR   ProteinModelPortal; A1S420; -.
+DR   STRING; 326297.Sama_0919; -.
+DR   DNASU; 4603171; -.
+DR   EnsemblBacteria; ABL99126; ABL99126; Sama_0919.
+DR   KEGG; saz:Sama_0919; -.
+DR   PATRIC; 23450445; VBISheAma74963_0955.
+DR   eggNOG; COG2234; -.
+DR   HOGENOM; HOG000295607; -.
+DR   OMA; RVVLFMN; -.
+DR   OrthoDB; EOG6ZSP4W; -.
+DR   BioCyc; SAMA326297:GH0T-950-MONOMER; -.
+DR   EvolutionaryTrace; A1S420; -.
+DR   Proteomes; UP000009175; Chromosome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   InterPro; IPR007484; Peptidase_M28.
+DR   InterPro; IPR003137; Protease-assoc_domain.
+DR   Pfam; PF02225; PA; 1.
+DR   Pfam; PF04389; Peptidase_M28; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3IIB};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000009175};
+KW   Metal-binding {ECO:0000213|PDB:3IIB};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000009175};
+KW   Signal {ECO:0000313|EMBL:ABL99126.1}; Zinc {ECO:0000213|PDB:3IIB}.
+FT   SIGNAL        1     25       Potential. {ECO:0000313|EMBL:ABL99126.1}.
+FT   CHAIN        26    467       Potential. {ECO:0000313|EMBL:ABL99126.1}.
+FT                                /FTId=PRO_5000205077.
+FT   METAL       280    280       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3IIB}.
+FT   METAL       292    292       Zinc 1. {ECO:0000213|PDB:3IIB}.
+FT   METAL       292    292       Zinc 2. {ECO:0000213|PDB:3IIB}.
+FT   METAL       327    327       Zinc 2. {ECO:0000213|PDB:3IIB}.
+FT   METAL       354    354       Zinc 1. {ECO:0000213|PDB:3IIB}.
+FT   METAL       425    425       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3IIB}.
+SQ   SEQUENCE   467 AA;  49537 MW;  91CB43733AA07499 CRC64;
+     MKTLPKLLAG VGLIALTAPL GAFSSDDINQ KVAEQLAQKA QSSSLGYDIV ESLTVEVGPR
+     LAGSEQDKVA VDWAIAKLQS LGFDRVYKEP VTVPVWRRGI AKASILSPFP QPLVVTALGG
+     SIATPAQGLS ATIVRFDTLQ DLQNAEAGSL NDKIAFIDAK TERHRDGKGY GQTASGRSRG
+     AVAAAEKGAV GIIIRSIGTD HDRMAHTGMM RYEEGVTAIP AAAISNPDAD LINAMLKRDK
+     EVVISLELGS ERRGETTSYN VIAEVKGSTK ADEIVLIGAH LDSWDEGTGA IDDGAGVAIV
+     TAAAKHILDL PQKPERTIRV VLYAAEELGL LGGKTYAKEH EAELEKHYIA AESDFGAGPI
+     YQIDWRVADT AHSPVINAMK VAEPLGVAAG NNKASGGPDV SMLPALGVPV ASLRQDGSDY
+     FDYHHTPNDT LDKINPEALA QNVAVYAQFA WVMANSKVEL RPLPPKE
+//

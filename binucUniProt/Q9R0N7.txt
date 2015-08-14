@@ -1,0 +1,154 @@
+ID   SYT7_MOUSE              Reviewed;         403 AA.
+AC   Q9R0N7; A4QPF1;
+DT   18-OCT-2001, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-2000, sequence version 1.
+DT   24-JUN-2015, entry version 116.
+DE   RecName: Full=Synaptotagmin-7;
+DE   AltName: Full=Synaptotagmin VII;
+DE            Short=SytVII;
+GN   Name=Syt7;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=ICR; TISSUE=Cerebellum;
+RX   PubMed=10531343; DOI=10.1074/jbc.274.44.31421;
+RA   Fukuda M., Kanno E., Mikoshiba K.;
+RT   "Conserved N-terminal cysteine motif is essential for homo- and
+RT   heterodimer formation of synaptotagmins III, V, VI, and X.";
+RL   J. Biol. Chem. 274:31421-31427(1999).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+CC   -!- FUNCTION: May be involved in Ca(2+)-dependent exocytosis of
+CC       secretory vesicles through Ca(2+) and phospholipid binding to the
+CC       C2 domain or may serve as Ca(2+) sensors in the process of
+CC       vesicular trafficking and exocytosis. {ECO:0000250}.
+CC   -!- COFACTOR:
+CC       Name=Ca(2+); Xref=ChEBI:CHEBI:29108; Evidence={ECO:0000250};
+CC       Note=Binds 3 Ca(2+) ions per subunit. The ions are bound to the C2
+CC       domains. {ECO:0000250};
+CC   -!- SUBCELLULAR LOCATION: Cytoplasmic vesicle, secretory vesicle,
+CC       synaptic vesicle membrane {ECO:0000250}; Single-pass membrane
+CC       protein {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the synaptotagmin family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 2 C2 domains. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00041}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AB026804; BAA85776.1; -; mRNA.
+DR   EMBL; BC139806; AAI39807.1; -; mRNA.
+DR   CCDS; CCDS29575.1; -.
+DR   RefSeq; NP_061271.1; NM_018801.3.
+DR   UniGene; Mm.182654; -.
+DR   PDB; 3N5A; X-ray; 1.44 A; A=266-403.
+DR   PDBsum; 3N5A; -.
+DR   ProteinModelPortal; Q9R0N7; -.
+DR   SMR; Q9R0N7; 133-403.
+DR   IntAct; Q9R0N7; 1.
+DR   MINT; MINT-4998417; -.
+DR   STRING; 10090.ENSMUSP00000127973; -.
+DR   PhosphoSite; Q9R0N7; -.
+DR   MaxQB; Q9R0N7; -.
+DR   PaxDb; Q9R0N7; -.
+DR   PRIDE; Q9R0N7; -.
+DR   Ensembl; ENSMUST00000073899; ENSMUSP00000073560; ENSMUSG00000024743.
+DR   GeneID; 54525; -.
+DR   KEGG; mmu:54525; -.
+DR   UCSC; uc008gpq.2; mouse.
+DR   CTD; 9066; -.
+DR   MGI; MGI:1859545; Syt7.
+DR   eggNOG; COG5038; -.
+DR   GeneTree; ENSGT00760000118973; -.
+DR   HOGENOM; HOG000232126; -.
+DR   HOVERGEN; HBG005010; -.
+DR   InParanoid; Q9R0N7; -.
+DR   PhylomeDB; Q9R0N7; -.
+DR   ChiTaRS; Syt7; mouse.
+DR   NextBio; 311364; -.
+DR   PRO; PR:Q9R0N7; -.
+DR   Proteomes; UP000000589; Chromosome 19.
+DR   Bgee; Q9R0N7; -.
+DR   CleanEx; MM_SYT7; -.
+DR   ExpressionAtlas; Q9R0N7; baseline and differential.
+DR   Genevisible; Q9R0N7; MM.
+DR   GO; GO:0030054; C:cell junction; IEA:UniProtKB-KW.
+DR   GO; GO:0070062; C:extracellular exosome; ISO:MGI.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0005764; C:lysosome; IDA:MGI.
+DR   GO; GO:0005886; C:plasma membrane; IBA:GO_Central.
+DR   GO; GO:0030672; C:synaptic vesicle membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005509; F:calcium ion binding; IBA:GO_Central.
+DR   GO; GO:0005544; F:calcium-dependent phospholipid binding; IBA:GO_Central.
+DR   GO; GO:0030276; F:clathrin binding; IBA:GO_Central.
+DR   GO; GO:0019905; F:syntaxin binding; IBA:GO_Central.
+DR   GO; GO:0048791; P:calcium ion-dependent exocytosis of neurotransmitter; IBA:GO_Central.
+DR   GO; GO:0001778; P:plasma membrane repair; IDA:MGI.
+DR   GO; GO:0017158; P:regulation of calcium ion-dependent exocytosis; IBA:GO_Central.
+DR   GO; GO:0016079; P:synaptic vesicle exocytosis; IBA:GO_Central.
+DR   Gene3D; 2.60.40.150; -; 2.
+DR   InterPro; IPR000008; C2_dom.
+DR   InterPro; IPR001565; Synaptotagmin.
+DR   InterPro; IPR015427; Synaptotagmin7.
+DR   PANTHER; PTHR10024:SF97; PTHR10024:SF97; 1.
+DR   Pfam; PF00168; C2; 2.
+DR   PRINTS; PR00360; C2DOMAIN.
+DR   PRINTS; PR00399; SYNAPTOTAGMN.
+DR   SMART; SM00239; C2; 2.
+DR   SUPFAM; SSF49562; SSF49562; 2.
+DR   PROSITE; PS50004; C2; 2.
+PE   1: Evidence at protein level;
+KW   3D-structure; Calcium; Cell junction; Complete proteome;
+KW   Cytoplasmic vesicle; Membrane; Metal-binding; Reference proteome;
+KW   Repeat; Synapse; Transmembrane; Transmembrane helix.
+FT   CHAIN         1    403       Synaptotagmin-7.
+FT                                /FTId=PRO_0000183958.
+FT   TOPO_DOM      1     16       Vesicular. {ECO:0000255}.
+FT   TRANSMEM     17     37       Helical. {ECO:0000255}.
+FT   TOPO_DOM     38    403       Cytoplasmic. {ECO:0000255}.
+FT   DOMAIN      137    239       C2 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00041}.
+FT   DOMAIN      268    371       C2 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00041}.
+FT   METAL       166    166       Calcium 1. {ECO:0000250}.
+FT   METAL       166    166       Calcium 2. {ECO:0000250}.
+FT   METAL       172    172       Calcium 1. {ECO:0000250}.
+FT   METAL       225    225       Calcium 1. {ECO:0000250}.
+FT   METAL       225    225       Calcium 2. {ECO:0000250}.
+FT   METAL       227    227       Calcium 1. {ECO:0000250}.
+FT   METAL       227    227       Calcium 2. {ECO:0000250}.
+FT   METAL       227    227       Calcium 3. {ECO:0000250}.
+FT   METAL       230    230       Calcium 3. {ECO:0000250}.
+FT   METAL       233    233       Calcium 2. {ECO:0000250}.
+FT   METAL       233    233       Calcium 3. {ECO:0000250}.
+FT   STRAND      269    277       {ECO:0000244|PDB:3N5A}.
+FT   TURN        278    281       {ECO:0000244|PDB:3N5A}.
+FT   STRAND      282    292       {ECO:0000244|PDB:3N5A}.
+FT   TURN        298    300       {ECO:0000244|PDB:3N5A}.
+FT   STRAND      304    312       {ECO:0000244|PDB:3N5A}.
+FT   STRAND      315    321       {ECO:0000244|PDB:3N5A}.
+FT   STRAND      332    340       {ECO:0000244|PDB:3N5A}.
+FT   HELIX       343    348       {ECO:0000244|PDB:3N5A}.
+FT   STRAND      349    357       {ECO:0000244|PDB:3N5A}.
+FT   STRAND      360    362       {ECO:0000244|PDB:3N5A}.
+FT   STRAND      365    376       {ECO:0000244|PDB:3N5A}.
+FT   HELIX       378    389       {ECO:0000244|PDB:3N5A}.
+FT   STRAND      395    400       {ECO:0000244|PDB:3N5A}.
+SQ   SEQUENCE   403 AA;  45472 MW;  4E63C5779C2ED43E CRC64;
+     MYRDPEAASP GAPTRDVLLV SAIITVSLSV TIVLCGLCHW CQRKLGKRYK NSLETVGTPD
+     SGRGRGEKKA IKLPAGGKAV NTAPVPGQTP HDESDRRTET RSSVSDLVNS LTSEMLMLSP
+     GSEEDEAHEG CSRENLGRIQ FSVGYNFQES TLTVKVMKAQ ELPAKDFSGT SDPFVKIYLL
+     PDKKHKLETK VKRKNLNPHW NETFLFEGFP YEKVVQRVLY LQVLDYDRFS RNDPIGEVSI
+     PLNKVDLTQM QTFWKDLKPC SDGSGSRGEL LLSLCYNPSA NSIIVNIIKA RNLKAMDIGG
+     TSDPYVKVWL MYKDKRVEKK KTVTKKRNLN PIFNESFAFD IPTEKLRETT IIITVMDKDK
+     LSRNDVIGKI YLSWKSGPGE VKHWKDMIAR PRQPVAQWHQ LKA
+//

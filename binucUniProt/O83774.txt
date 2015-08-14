@@ -1,0 +1,159 @@
+ID   APBE_TREPA              Reviewed;         362 AA.
+AC   O83774;
+DT   15-DEC-1998, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1998, sequence version 1.
+DT   22-JUL-2015, entry version 87.
+DE   RecName: Full=FAD:protein FMN transferase {ECO:0000250|UniProtKB:A5F5Y3};
+DE            EC=2.7.1.180 {ECO:0000250|UniProtKB:A5F5Y3};
+DE   AltName: Full=Flavin transferase {ECO:0000250|UniProtKB:A5F5Y3};
+DE   Flags: Precursor;
+GN   Name=apbE; OrderedLocusNames=TP_0796;
+OS   Treponema pallidum (strain Nichols).
+OC   Bacteria; Spirochaetes; Spirochaetales; Spirochaetaceae; Treponema.
+OX   NCBI_TaxID=243276;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Nichols;
+RX   PubMed=9665876; DOI=10.1126/science.281.5375.375;
+RA   Fraser C.M., Norris S.J., Weinstock G.M., White O., Sutton G.G.,
+RA   Dodson R.J., Gwinn M.L., Hickey E.K., Clayton R.A., Ketchum K.A.,
+RA   Sodergren E., Hardham J.M., McLeod M.P., Salzberg S.L., Peterson J.D.,
+RA   Khalak H.G., Richardson D.L., Howell J.K., Chidambaram M.,
+RA   Utterback T.R., McDonald L.A., Artiach P., Bowman C., Cotton M.D.,
+RA   Fujii C., Garland S.A., Hatch B., Horst K., Roberts K.M., Sandusky M.,
+RA   Weidman J.F., Smith H.O., Venter J.C.;
+RT   "Complete genome sequence of Treponema pallidum, the syphilis
+RT   spirochete.";
+RL   Science 281:375-388(1998).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (1.43 ANGSTROMS) OF 23-362 IN COMPLEXES WITH
+RP   ADP; AMP; FAD AND MAGNESIUM, FUNCTION, COFACTOR, AND SUBUNIT.
+RX   PubMed=23447540; DOI=10.1074/jbc.M113.449975;
+RA   Deka R.K., Brautigam C.A., Liu W.Z., Tomchick D.R., Norgard M.V.;
+RT   "The TP0796 lipoprotein of Treponema pallidum is a bimetal-dependent
+RT   FAD pyrophosphatase with a potential role in flavin homeostasis.";
+RL   J. Biol. Chem. 288:11106-11121(2013).
+CC   -!- FUNCTION: Flavin transferase that catalyzes the transfer of the
+CC       FMN moiety of FAD and its covalent binding to the hydroxyl group
+CC       of a threonine residue in a target flavoprotein (By similarity).
+CC       Displays FAD pyrophosphatase activity in vitro, hydrolyzing FAD
+CC       into FMN and AMP (PubMed:23447540). {ECO:0000250|UniProtKB:A5F5Y3,
+CC       ECO:0000269|PubMed:23447540}.
+CC   -!- CATALYTIC ACTIVITY: FAD + [protein]-L-threonine = [protein]-FMN-L-
+CC       threonine + AMP. {ECO:0000250|UniProtKB:A5F5Y3}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000269|PubMed:23447540};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000269|PubMed:23447540};
+CC       Note=Magnesium. Can also use manganese.
+CC       {ECO:0000269|PubMed:23447540};
+CC   -!- SUBUNIT: Monomer. {ECO:0000269|PubMed:23447540}.
+CC   -!- SUBCELLULAR LOCATION: Cell inner membrane
+CC       {ECO:0000250|UniProtKB:P41780, ECO:0000255|PROSITE-
+CC       ProRule:PRU00303}; Lipid-anchor {ECO:0000250|UniProtKB:P41780,
+CC       ECO:0000255|PROSITE-ProRule:PRU00303}; Periplasmic side
+CC       {ECO:0000250|UniProtKB:P41780}.
+CC   -!- SIMILARITY: Belongs to the ApbE family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE000520; AAC65759.1; -; Genomic_DNA.
+DR   PIR; C71281; C71281.
+DR   RefSeq; WP_010882241.1; NC_000919.1.
+DR   PDB; 4IFU; X-ray; 1.83 A; A=23-362.
+DR   PDB; 4IFW; X-ray; 2.30 A; A=23-362.
+DR   PDB; 4IFX; X-ray; 1.45 A; A=23-362.
+DR   PDB; 4IFZ; X-ray; 1.90 A; A=23-362.
+DR   PDB; 4IG1; X-ray; 1.43 A; A=23-362.
+DR   PDBsum; 4IFU; -.
+DR   PDBsum; 4IFW; -.
+DR   PDBsum; 4IFX; -.
+DR   PDBsum; 4IFZ; -.
+DR   PDBsum; 4IG1; -.
+DR   ProteinModelPortal; O83774; -.
+DR   STRING; 243276.TP0796; -.
+DR   EnsemblBacteria; AAC65759; AAC65759; TP_0796.
+DR   GeneID; 2610802; -.
+DR   KEGG; tpa:TP0796; -.
+DR   PATRIC; 20531687; VBITrePal57110_0841.
+DR   eggNOG; COG1477; -.
+DR   KO; K03734; -.
+DR   OMA; RVYSYSA; -.
+DR   OrthoDB; EOG6CGCF7; -.
+DR   BioCyc; TPAL243276:GC1H-844-MONOMER; -.
+DR   Proteomes; UP000000811; Chromosome.
+DR   GO; GO:0005886; C:plasma membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016740; F:transferase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0017013; P:protein flavinylation; IEA:InterPro.
+DR   InterPro; IPR024932; ApbE.
+DR   InterPro; IPR003374; ApbE-like.
+DR   PANTHER; PTHR30040:SF2; PTHR30040:SF2; 1.
+DR   Pfam; PF02424; ApbE; 1.
+DR   PIRSF; PIRSF006268; ApbE; 1.
+DR   SUPFAM; SSF143631; SSF143631; 1.
+DR   PROSITE; PS51257; PROKAR_LIPOPROTEIN; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cell inner membrane; Cell membrane; Complete proteome;
+KW   FAD; Flavoprotein; Lipoprotein; Magnesium; Membrane; Metal-binding;
+KW   Palmitate; Reference proteome; Signal; Transferase.
+FT   SIGNAL        1     22       {ECO:0000255|PROSITE-ProRule:PRU00303}.
+FT   CHAIN        23    362       FAD:protein FMN transferase.
+FT                                /FTId=PRO_0000001751.
+FT   NP_BIND     118    120       FAD. {ECO:0000269|PubMed:23447540}.
+FT   NP_BIND     278    280       FAD. {ECO:0000269|PubMed:23447540}.
+FT   METAL       184    184       Magnesium; via carbonyl oxygen.
+FT                                {ECO:0000269|PubMed:23447540}.
+FT   METAL       306    306       Magnesium. {ECO:0000269|PubMed:23447540}.
+FT   METAL       310    310       Magnesium. {ECO:0000269|PubMed:23447540}.
+FT   BINDING     181    181       FAD. {ECO:0000269|PubMed:23447540}.
+FT   BINDING     187    187       FAD. {ECO:0000269|PubMed:23447540}.
+FT   LIPID        23     23       N-palmitoyl cysteine.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00303}.
+FT   LIPID        23     23       S-diacylglycerol cysteine.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00303}.
+FT   STRAND       30     38       {ECO:0000244|PDB:4IG1}.
+FT   STRAND       41     49       {ECO:0000244|PDB:4IG1}.
+FT   HELIX        53     74       {ECO:0000244|PDB:4IG1}.
+FT   STRAND       79     81       {ECO:0000244|PDB:4IFW}.
+FT   HELIX        82     88       {ECO:0000244|PDB:4IG1}.
+FT   TURN         89     91       {ECO:0000244|PDB:4IG1}.
+FT   STRAND       95     97       {ECO:0000244|PDB:4IG1}.
+FT   HELIX        99    114       {ECO:0000244|PDB:4IG1}.
+FT   TURN        115    117       {ECO:0000244|PDB:4IG1}.
+FT   HELIX       124    135       {ECO:0000244|PDB:4IG1}.
+FT   HELIX       142    149       {ECO:0000244|PDB:4IG1}.
+FT   HELIX       154    156       {ECO:0000244|PDB:4IG1}.
+FT   STRAND      157    161       {ECO:0000244|PDB:4IG1}.
+FT   STRAND      169    173       {ECO:0000244|PDB:4IG1}.
+FT   TURN        183    185       {ECO:0000244|PDB:4IG1}.
+FT   HELIX       186    200       {ECO:0000244|PDB:4IG1}.
+FT   STRAND      206    210       {ECO:0000244|PDB:4IG1}.
+FT   STRAND      213    218       {ECO:0000244|PDB:4IG1}.
+FT   STRAND      234    238       {ECO:0000244|PDB:4IG1}.
+FT   STRAND      245    247       {ECO:0000244|PDB:4IG1}.
+FT   STRAND      249    263       {ECO:0000244|PDB:4IG1}.
+FT   STRAND      266    271       {ECO:0000244|PDB:4IG1}.
+FT   STRAND      274    278       {ECO:0000244|PDB:4IG1}.
+FT   TURN        282    284       {ECO:0000244|PDB:4IG1}.
+FT   STRAND      285    287       {ECO:0000244|PDB:4IG1}.
+FT   STRAND      293    300       {ECO:0000244|PDB:4IG1}.
+FT   HELIX       302    315       {ECO:0000244|PDB:4IG1}.
+FT   HELIX       317    324       {ECO:0000244|PDB:4IG1}.
+FT   STRAND      331    335       {ECO:0000244|PDB:4IG1}.
+FT   STRAND      339    343       {ECO:0000244|PDB:4IG1}.
+FT   TURN        345    347       {ECO:0000244|PDB:4IG1}.
+FT   HELIX       348    350       {ECO:0000244|PDB:4IG1}.
+FT   STRAND      351    353       {ECO:0000244|PDB:4IG1}.
+FT   STRAND      358    360       {ECO:0000244|PDB:4IG1}.
+SQ   SEQUENCE   362 AA;  39064 MW;  E64E2FAFD1A7041C CRC64;
+     MKSSCVYWRI GVLVCILCGV GSCGGRARVR EYSRAELVIG TLCRVRVYSK RPAAEVHAAL
+     EEVFTLLQQQ EMVLSANRDD SALAALNAQA GSAPVVVDRS LYALLERALF FAEKSGGAFN
+     PALGAXVKLW NIGFDRAAVP DPDALKEALT RCDFRQVHLR AGVSVGAPHT VQLAQAGMQL
+     DLGAIAKGFL ADKIVQLLTA HALDSALVDL GGNIFALGLK YGDVRSAAAQ RLEWNVGIRD
+     PHGTGQKPAL VVSVRDCSVV TSGAYERFFE RDGVRYHHII DPVTGFPAHT DVDSVSIFAP
+     RSTDADALAT ACFVLGYEKS CALLREFPGV DALFIFPDKR VRASAGIVDR VRVLDARFVL
+     ER
+//

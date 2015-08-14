@@ -1,0 +1,276 @@
+ID   DEF1B_ARATH             Reviewed;         273 AA.
+AC   Q9FUZ2; Q8LEH0; Q949U8; Q9LYJ4;
+DT   05-DEC-2001, integrated into UniProtKB/Swiss-Prot.
+DT   15-DEC-2003, sequence version 2.
+DT   24-JUN-2015, entry version 108.
+DE   RecName: Full=Peptide deformylase 1B, chloroplastic/mitochondrial;
+DE            Short=AtDEF2;
+DE            Short=AtPDF1B;
+DE            Short=PDF 1B;
+DE            EC=3.5.1.88;
+DE   AltName: Full=Polypeptide deformylase;
+DE   Flags: Precursor;
+GN   Name=PDF1B; Synonyms=DEF2; OrderedLocusNames=At5g14660;
+GN   ORFNames=T15N1_150;
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], FUNCTION, TISSUE SPECIFICITY, AND
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=11060042; DOI=10.1093/emboj/19.21.5916;
+RA   Giglione C., Serero A., Pierre M., Boisson B., Meinnel T.;
+RT   "Identification of eukaryotic peptide deformylases reveals
+RT   universality of N-terminal protein processing mechanisms.";
+RL   EMBO J. 19:5916-5929(2000).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=11130714; DOI=10.1038/35048507;
+RA   Tabata S., Kaneko T., Nakamura Y., Kotani H., Kato T., Asamizu E.,
+RA   Miyajima N., Sasamoto S., Kimura T., Hosouchi T., Kawashima K.,
+RA   Kohara M., Matsumoto M., Matsuno A., Muraki A., Nakayama S.,
+RA   Nakazaki N., Naruo K., Okumura S., Shinpo S., Takeuchi C., Wada T.,
+RA   Watanabe A., Yamada M., Yasuda M., Sato S., de la Bastide M.,
+RA   Huang E., Spiegel L., Gnoj L., O'Shaughnessy A., Preston R.,
+RA   Habermann K., Murray J., Johnson D., Rohlfing T., Nelson J.,
+RA   Stoneking T., Pepin K., Spieth J., Sekhon M., Armstrong J., Becker M.,
+RA   Belter E., Cordum H., Cordes M., Courtney L., Courtney W., Dante M.,
+RA   Du H., Edwards J., Fryman J., Haakensen B., Lamar E., Latreille P.,
+RA   Leonard S., Meyer R., Mulvaney E., Ozersky P., Riley A., Strowmatt C.,
+RA   Wagner-McPherson C., Wollam A., Yoakum M., Bell M., Dedhia N.,
+RA   Parnell L., Shah R., Rodriguez M., Hoon See L., Vil D., Baker J.,
+RA   Kirchoff K., Toth K., King L., Bahret A., Miller B., Marra M.A.,
+RA   Martienssen R., McCombie W.R., Wilson R.K., Murphy G., Bancroft I.,
+RA   Volckaert G., Wambutt R., Duesterhoeft A., Stiekema W., Pohl T.,
+RA   Entian K.-D., Terryn N., Hartley N., Bent E., Johnson S.,
+RA   Langham S.-A., McCullagh B., Robben J., Grymonprez B., Zimmermann W.,
+RA   Ramsperger U., Wedler H., Balke K., Wedler E., Peters S.,
+RA   van Staveren M., Dirkse W., Mooijman P., Klein Lankhorst R.,
+RA   Weitzenegger T., Bothe G., Rose M., Hauf J., Berneiser S., Hempel S.,
+RA   Feldpausch M., Lamberth S., Villarroel R., Gielen J., Ardiles W.,
+RA   Bents O., Lemcke K., Kolesov G., Mayer K.F.X., Rudd S., Schoof H.,
+RA   Schueller C., Zaccaria P., Mewes H.-W., Bevan M., Fransz P.F.;
+RT   "Sequence and analysis of chromosome 5 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 408:823-826(2000).
+RN   [3]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RG   The Arabidopsis Information Resource (TAIR);
+RL   Submitted (APR-2011) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=14593172; DOI=10.1126/science.1088305;
+RA   Yamada K., Lim J., Dale J.M., Chen H., Shinn P., Palm C.J.,
+RA   Southwick A.M., Wu H.C., Kim C.J., Nguyen M., Pham P.K., Cheuk R.F.,
+RA   Karlin-Newmann G., Liu S.X., Lam B., Sakano H., Wu T., Yu G.,
+RA   Miranda M., Quach H.L., Tripp M., Chang C.H., Lee J.M., Toriumi M.J.,
+RA   Chan M.M., Tang C.C., Onodera C.S., Deng J.M., Akiyama K., Ansari Y.,
+RA   Arakawa T., Banh J., Banno F., Bowser L., Brooks S.Y., Carninci P.,
+RA   Chao Q., Choy N., Enju A., Goldsmith A.D., Gurjal M., Hansen N.F.,
+RA   Hayashizaki Y., Johnson-Hopson C., Hsuan V.W., Iida K., Karnes M.,
+RA   Khan S., Koesema E., Ishida J., Jiang P.X., Jones T., Kawai J.,
+RA   Kamiya A., Meyers C., Nakajima M., Narusaka M., Seki M., Sakurai T.,
+RA   Satou M., Tamse R., Vaysberg M., Wallender E.K., Wong C., Yamamura Y.,
+RA   Yuan S., Shinozaki K., Davis R.W., Theologis A., Ecker J.R.;
+RT   "Empirical analysis of transcriptional activity in the Arabidopsis
+RT   genome.";
+RL   Science 302:842-846(2003).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RA   Brover V.V., Troukhan M.E., Alexandrov N.A., Lu Y.-P., Flavell R.B.,
+RA   Feldmann K.A.;
+RT   "Full-length cDNA from Arabidopsis thaliana.";
+RL   Submitted (MAR-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   SUBCELLULAR LOCATION, ENZYME REGULATION, AND BIOPHYSICOCHEMICAL
+RP   PROPERTIES.
+RX   PubMed=11553738; DOI=10.1104/pp.127.1.97;
+RA   Dirk L.M., Williams M.A., Houtz R.L.;
+RT   "Eukaryotic peptide deformylases. Nuclear-encoded and chloroplast-
+RT   targeted enzymes in Arabidopsis.";
+RL   Plant Physiol. 127:97-107(2001).
+RN   [7]
+RP   COFACTOR, AND ENZYME REGULATION.
+RX   PubMed=11733990; DOI=10.1006/jmbi.2001.5175;
+RA   Serero A., Giglione C., Meinnel T.;
+RT   "Distinctive features of the two classes of eukaryotic peptide
+RT   deformylases.";
+RL   J. Mol. Biol. 314:695-708(2001).
+RN   [8]
+RP   DISRUPTION PHENOTYPE.
+RX   PubMed=12505980; DOI=10.1093/emboj/cdg007;
+RA   Giglione C., Vallon O., Meinnel T.;
+RT   "Control of protein life-span by N-terminal methionine excision.";
+RL   EMBO J. 22:13-23(2003).
+RN   [9]
+RP   X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS) OF 65-257, HOMODIMERIZATION, AND
+RP   MUTAGENESIS OF TYR-178.
+RX   PubMed=18412546; DOI=10.1042/BJ20071641;
+RA   Dirk L.M., Schmidt J.J., Cai Y., Barnes J.C., Hanger K.M., Nayak N.R.,
+RA   Williams M.A., Grossman R.B., Houtz R.L., Rodgers D.W.;
+RT   "Insights into the substrate specificity of plant peptide deformylase,
+RT   an essential enzyme with potential for the development of novel
+RT   biotechnology applications in agriculture.";
+RL   Biochem. J. 413:417-427(2008).
+CC   -!- FUNCTION: Removes the formyl group from the N-terminal Met of
+CC       newly synthesized proteins. Has a preferred substrate specificity
+CC       towards the photosystem II (PS II) D1 polypeptide.
+CC       {ECO:0000269|PubMed:11060042}.
+CC   -!- CATALYTIC ACTIVITY: Formyl-L-methionyl peptide + H(2)O = formate +
+CC       methionyl peptide.
+CC   -!- COFACTOR:
+CC       Name=Fe(2+); Xref=ChEBI:CHEBI:29033;
+CC         Evidence={ECO:0000269|PubMed:11733990};
+CC       Note=Binds 1 Fe(2+) ion. {ECO:0000269|PubMed:11733990};
+CC   -!- ENZYME REGULATION: Inhibited by actinonin.
+CC       {ECO:0000269|PubMed:11553738, ECO:0000269|PubMed:11733990}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=130 uM for N-formyl-Met-Leu-rho-nitroanilide
+CC         {ECO:0000269|PubMed:11553738};
+CC         KM=3200 uM for N-formyl-Met-Ala-Ser
+CC         {ECO:0000269|PubMed:11553738};
+CC         Vmax=20 umol/min/mg enzyme toward N-formyl-Met-Leu-rho-
+CC         nitroanilide {ECO:0000269|PubMed:11553738};
+CC         Vmax=1.3 umol/min/mg enzyme toward N-formyl-Met-Ala-Ser
+CC         {ECO:0000269|PubMed:11553738};
+CC   -!- SUBUNIT: Homodimer.
+CC   -!- SUBCELLULAR LOCATION: Plastid, chloroplast stroma. Mitochondrion.
+CC       Note=Reported to be localized to chloroplast and mitochondria
+CC       based on transient GFP expression in a heterologous system.
+CC       {ECO:0000269|PubMed:11060042}.
+CC   -!- TISSUE SPECIFICITY: Expressed in leaves and flowers.
+CC       {ECO:0000269|PubMed:11060042}.
+CC   -!- DISRUPTION PHENOTYPE: Albino. {ECO:0000269|PubMed:12505980}.
+CC   -!- SIMILARITY: Belongs to the polypeptide deformylase family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF269165; AAG33980.1; -; mRNA.
+DR   EMBL; AL163792; CAB87633.1; -; Genomic_DNA.
+DR   EMBL; CP002688; AED92059.1; -; Genomic_DNA.
+DR   EMBL; CP002688; AED92060.1; -; Genomic_DNA.
+DR   EMBL; AY050879; AAK92816.1; -; mRNA.
+DR   EMBL; AY096673; AAM20307.1; -; mRNA.
+DR   EMBL; AY085417; AAM62644.1; -; mRNA.
+DR   PIR; T48639; T48639.
+DR   RefSeq; NP_196970.1; NM_121470.3.
+DR   RefSeq; NP_850821.1; NM_180490.1.
+DR   UniGene; At.5087; -.
+DR   PDB; 3CPM; X-ray; 2.40 A; A=65-257.
+DR   PDB; 3M6O; X-ray; 2.00 A; A/B=83-273.
+DR   PDB; 3M6P; X-ray; 2.00 A; A/B=83-273.
+DR   PDB; 3M6Q; X-ray; 2.40 A; A=83-273.
+DR   PDB; 3M6R; X-ray; 2.40 A; A/B/C/D=83-273.
+DR   PDB; 3O3J; X-ray; 3.00 A; A=83-273.
+DR   PDB; 3PN2; X-ray; 2.00 A; A=83-273.
+DR   PDB; 3PN3; X-ray; 1.30 A; A/B=83-273.
+DR   PDB; 3PN4; X-ray; 1.90 A; A=83-273.
+DR   PDB; 3PN5; X-ray; 2.30 A; A=83-273.
+DR   PDB; 3PN6; X-ray; 2.10 A; A/B=83-273.
+DR   PDBsum; 3CPM; -.
+DR   PDBsum; 3M6O; -.
+DR   PDBsum; 3M6P; -.
+DR   PDBsum; 3M6Q; -.
+DR   PDBsum; 3M6R; -.
+DR   PDBsum; 3O3J; -.
+DR   PDBsum; 3PN2; -.
+DR   PDBsum; 3PN3; -.
+DR   PDBsum; 3PN4; -.
+DR   PDBsum; 3PN5; -.
+DR   PDBsum; 3PN6; -.
+DR   ProteinModelPortal; Q9FUZ2; -.
+DR   SMR; Q9FUZ2; 74-257.
+DR   BioGrid; 16595; 3.
+DR   IntAct; Q9FUZ2; 2.
+DR   STRING; 3702.AT5G14660.1; -.
+DR   PaxDb; Q9FUZ2; -.
+DR   PRIDE; Q9FUZ2; -.
+DR   EnsemblPlants; AT5G14660.1; AT5G14660.1; AT5G14660.
+DR   EnsemblPlants; AT5G14660.2; AT5G14660.2; AT5G14660.
+DR   GeneID; 831318; -.
+DR   KEGG; ath:AT5G14660; -.
+DR   TAIR; AT5G14660; -.
+DR   eggNOG; COG0242; -.
+DR   HOGENOM; HOG000243509; -.
+DR   InParanoid; Q9FUZ2; -.
+DR   KO; K01462; -.
+DR   OMA; HEFDHLL; -.
+DR   PhylomeDB; Q9FUZ2; -.
+DR   BioCyc; ARA:AT5G14660-MONOMER; -.
+DR   BioCyc; ARA:GQT-2354-MONOMER; -.
+DR   BRENDA; 3.5.1.88; 399.
+DR   SABIO-RK; Q9FUZ2; -.
+DR   EvolutionaryTrace; Q9FUZ2; -.
+DR   PRO; PR:Q9FUZ2; -.
+DR   Proteomes; UP000006548; Chromosome 5.
+DR   GO; GO:0009507; C:chloroplast; IDA:TAIR.
+DR   GO; GO:0009570; C:chloroplast stroma; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005739; C:mitochondrion; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005506; F:iron ion binding; IEA:InterPro.
+DR   GO; GO:0042586; F:peptide deformylase activity; IDA:TAIR.
+DR   GO; GO:0043686; P:co-translational protein modification; IBA:GO_Central.
+DR   GO; GO:0031365; P:N-terminal protein amino acid modification; IBA:GO_Central.
+DR   GO; GO:0018206; P:peptidyl-methionine modification; IBA:GO_Central.
+DR   GO; GO:0006412; P:translation; IEA:UniProtKB-KW.
+DR   Gene3D; 3.90.45.10; -; 1.
+DR   HAMAP; MF_00163; Pep_deformylase; 1.
+DR   InterPro; IPR000181; Fmet_deformylase.
+DR   InterPro; IPR023635; Peptide_deformylase.
+DR   PANTHER; PTHR10458; PTHR10458; 1.
+DR   Pfam; PF01327; Pep_deformylase; 1.
+DR   PRINTS; PR01576; PDEFORMYLASE.
+DR   SUPFAM; SSF56420; SSF56420; 1.
+DR   TIGRFAMs; TIGR00079; pept_deformyl; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Chloroplast; Complete proteome; Hydrolase; Iron;
+KW   Metal-binding; Mitochondrion; Plastid; Protein biosynthesis;
+KW   Reference proteome; Transit peptide.
+FT   TRANSIT       1     56       Chloroplast and mitochondrion.
+FT                                {ECO:0000255}.
+FT   CHAIN        57    273       Peptide deformylase 1B,
+FT                                chloroplastic/mitochondrial.
+FT                                /FTId=PRO_0000006732.
+FT   ACT_SITE    214    214       {ECO:0000250}.
+FT   METAL       171    171       Iron.
+FT   METAL       213    213       Iron.
+FT   METAL       217    217       Iron.
+FT   MUTAGEN     178    178       Y->A: Decrease in substrate affinity.
+FT                                {ECO:0000269|PubMed:18412546}.
+FT   MUTAGEN     178    178       Y->F,R: Increase in substrate affinity.
+FT                                {ECO:0000269|PubMed:18412546}.
+FT   CONFLICT     48     48       T -> N (in Ref. 5; AAM62644).
+FT                                {ECO:0000305}.
+FT   CONFLICT    205    205       R -> S (in Ref. 1; AAG33980).
+FT                                {ECO:0000305}.
+FT   HELIX        89     91       {ECO:0000244|PDB:3PN3}.
+FT   HELIX       103    118       {ECO:0000244|PDB:3PN3}.
+FT   STRAND      122    125       {ECO:0000244|PDB:3PN3}.
+FT   HELIX       126    129       {ECO:0000244|PDB:3PN3}.
+FT   STRAND      133    138       {ECO:0000244|PDB:3PN3}.
+FT   STRAND      150    160       {ECO:0000244|PDB:3PN3}.
+FT   STRAND      164    169       {ECO:0000244|PDB:3PN3}.
+FT   STRAND      179    185       {ECO:0000244|PDB:3PN3}.
+FT   STRAND      187    192       {ECO:0000244|PDB:3PN3}.
+FT   STRAND      194    196       {ECO:0000244|PDB:3M6O}.
+FT   STRAND      198    203       {ECO:0000244|PDB:3PN3}.
+FT   HELIX       205    218       {ECO:0000244|PDB:3PN3}.
+FT   HELIX       223    226       {ECO:0000244|PDB:3PN3}.
+FT   HELIX       229    233       {ECO:0000244|PDB:3PN3}.
+FT   HELIX       236    250       {ECO:0000244|PDB:3PN3}.
+FT   HELIX       258    260       {ECO:0000244|PDB:3PN3}.
+SQ   SEQUENCE   273 AA;  30610 MW;  25CDA90ED6D9603E CRC64;
+     MAVCNCFLQA PPLSRILLPV LSRRATTLSA GYGRLKSTVT FCSTVNRTSP LTSSVRAEVK
+     RVSRKDDKVA SATDVQFETP LKIVEYPDPI LRAKNKRIDI FDENLKNLVD AMFDVMYKTD
+     GIGLSAPQVG LNVQLMVFNP AGEPGEGKEI VLVNPKIKKY SDKLVPFDEG CLSFPGIYAE
+     VVRPQSVKID ARDITGERFS ISLSRLPARI FQHEYDHLEG VLFFDRMTDQ VLDSIREELE
+     ALEKKYEEKT GLPSPERVEA RQKRKAGVGF GKR
+//

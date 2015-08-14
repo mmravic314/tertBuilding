@@ -1,0 +1,221 @@
+ID   MYPT1_CHICK             Reviewed;        1004 AA.
+AC   Q90623; Q10727; Q90624;
+DT   16-DEC-2008, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   27-MAY-2015, entry version 91.
+DE   RecName: Full=Protein phosphatase 1 regulatory subunit 12A;
+DE   AltName: Full=130 kDa myosin-binding subunit of smooth muscle myosin phosphatase;
+DE   AltName: Full=Myosin phosphatase-targeting subunit 1;
+DE            Short=Myosin phosphatase target subunit 1;
+DE   AltName: Full=PP1M subunit M110;
+DE   AltName: Full=Protein phosphatase myosin-binding subunit;
+GN   Name=PPP1R12A; Synonyms=MBS, MYPT1;
+OS   Gallus gallus (Chicken).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+OC   Coelurosauria; Aves; Neognathae; Galloanserae; Galliformes;
+OC   Phasianidae; Phasianinae; Gallus.
+OX   NCBI_TaxID=9031;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 1 AND 2), PARTIAL PROTEIN
+RP   SEQUENCE, FUNCTION, SUBUNIT, INTERACTION WITH MYOSIN, AND TISSUE
+RP   SPECIFICITY.
+RC   TISSUE=Gizzard;
+RX   PubMed=7982954;
+RA   Shimizu H., Ito M., Miyahara M., Ichikawa K., Okubo S., Konishi T.,
+RA   Naka M., Tanaka T., Hirano K., Hartshorne D.J., Nakano T.;
+RT   "Characterization of the myosin-binding subunit of smooth muscle
+RT   myosin phosphatase.";
+RL   J. Biol. Chem. 269:30407-30411(1994).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 681-1004, AND PARTIAL PROTEIN SEQUENCE.
+RC   TISSUE=Gizzard;
+RX   PubMed=7988720; DOI=10.1016/0014-5793(94)01231-8;
+RA   Chen Y.H., Chen M.X., Alessi D.R., Campbell D.G., Shanahan C.,
+RA   Cohen P., Cohen P.T.W.;
+RT   "Molecular cloning of cDNA encoding the 110 kDa and 21 kDa regulatory
+RT   subunits of smooth muscle protein phosphatase 1M.";
+RL   FEBS Lett. 356:51-55(1994).
+RN   [3]
+RP   PARTIAL PROTEIN SEQUENCE, IDENTIFICATION BY MASS SPECTROMETRY, AND
+RP   PHOSPHORYLATION AT THR-695 AND THR-850.
+RX   PubMed=12220642; DOI=10.1016/S0014-5793(02)03175-7;
+RA   Velasco G., Armstrong C., Morrice N., Frame S., Cohen P.;
+RT   "Phosphorylation of the regulatory subunit of smooth muscle protein
+RT   phosphatase 1M at Thr850 induces its dissociation from myosin.";
+RL   FEBS Lett. 527:101-104(2002).
+RN   [4]
+RP   PHOSPHORYLATION AT THR-695 AND THR-850, AND MUTAGENESIS OF THR-695 AND
+RP   THR-850.
+RX   PubMed=10601309; DOI=10.1074/jbc.274.52.37385;
+RA   Feng J., Ito M., Ichikawa K., Isaka N., Nishikawa M., Hartshorne D.J.,
+RA   Nakano T.;
+RT   "Inhibitory phosphorylation site for Rho-associated kinase on smooth
+RT   muscle myosin phosphatase.";
+RL   J. Biol. Chem. 274:37385-37390(1999).
+RN   [5]
+RP   PHOSPHORYLATION BY DMPK.
+RX   PubMed=11287000; DOI=10.1016/S0014-5793(01)02283-9;
+RA   Muranyi A., Zhang R., Liu F., Hirano K., Ito M., Epstein H.F.,
+RA   Hartshorne D.J.;
+RT   "Myotonic dystrophy protein kinase phosphorylates the myosin
+RT   phosphatase targeting subunit and inhibits myosin phosphatase
+RT   activity.";
+RL   FEBS Lett. 493:80-84(2001).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (2.7 ANGSTROMS) OF 1-299 IN COMPLEX WITH PPP1CB.
+RX   PubMed=15164081; DOI=10.1038/nature02582;
+RA   Terrak M., Kerff F., Langsetmo K., Tao T., Dominguez R.;
+RT   "Structural basis of protein phosphatase 1 regulation.";
+RL   Nature 429:780-784(2004).
+CC   -!- FUNCTION: Regulates myosin phosphatase activity.
+CC       {ECO:0000269|PubMed:7982954}.
+CC   -!- SUBUNIT: PP1 comprises a catalytic subunit, PPP1CA, PPP1CB or
+CC       PPP1CC, and one or several targeting or regulatory subunits (By
+CC       similarity). PPP1R12A mediates binding to myosin. {ECO:0000250,
+CC       ECO:0000269|PubMed:15164081, ECO:0000269|PubMed:7982954}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250}. Note=Along
+CC       actomyosin filaments and stress fibers. {ECO:0000250}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1; Synonyms=M133;
+CC         IsoId=Q90623-1; Sequence=Displayed;
+CC       Name=2; Synonyms=M130;
+CC         IsoId=Q90623-2; Sequence=VSP_035912;
+CC   -!- TISSUE SPECIFICITY: Detected in brain, lung, aorta, heart,
+CC       gizzard, stomach, oviduct, spleen, kidney and small intestine.
+CC       {ECO:0000269|PubMed:7982954}.
+CC   -!- PTM: Phosphorylated by CIT (Rho-associated kinase) and by ROCK2 on
+CC       serine and threonine residues. Phosphorylation at Thr-695 leads to
+CC       inhibition of myosin phosphatase activity. Phosphorylation at Thr-
+CC       850 abolishes myosin binding. May be phosphorylated at Thr-695 by
+CC       DMPK; may inhibit the myosin phosphatase activity.
+CC       {ECO:0000269|PubMed:10601309, ECO:0000269|PubMed:11287000,
+CC       ECO:0000269|PubMed:12220642}.
+CC   -!- SIMILARITY: Contains 6 ANK repeats. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00023}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; D37985; BAA07201.1; -; mRNA.
+DR   EMBL; D37986; BAA07202.1; -; mRNA.
+DR   EMBL; S74623; AAB32730.1; -; mRNA.
+DR   PIR; A55142; A55142.
+DR   RefSeq; NP_990454.1; NM_205123.1. [Q90623-1]
+DR   UniGene; Gga.3159; -.
+DR   PDB; 1S70; X-ray; 2.70 A; B=1-299.
+DR   PDBsum; 1S70; -.
+DR   DisProt; DP00218; -.
+DR   ProteinModelPortal; Q90623; -.
+DR   SMR; Q90623; 1-291.
+DR   BioGrid; 676290; 1.
+DR   IntAct; Q90623; 1.
+DR   STRING; 9031.ENSGALP00000016789; -.
+DR   PaxDb; Q90623; -.
+DR   PRIDE; Q90623; -.
+DR   GeneID; 396020; -.
+DR   KEGG; gga:396020; -.
+DR   CTD; 4659; -.
+DR   eggNOG; COG0666; -.
+DR   HOGENOM; HOG000290648; -.
+DR   HOVERGEN; HBG052561; -.
+DR   InParanoid; Q90623; -.
+DR   KO; K06270; -.
+DR   PhylomeDB; Q90623; -.
+DR   EvolutionaryTrace; Q90623; -.
+DR   NextBio; 20816082; -.
+DR   PRO; PR:Q90623; -.
+DR   Proteomes; UP000000539; Unplaced.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0072357; C:PTW/PP1 phosphatase complex; ISS:UniProtKB.
+DR   GO; GO:0071889; F:14-3-3 protein binding; ISS:UniProtKB.
+DR   GO; GO:0019208; F:phosphatase regulator activity; ISS:UniProtKB.
+DR   GO; GO:0030155; P:regulation of cell adhesion; ISS:UniProtKB.
+DR   GO; GO:0035507; P:regulation of myosin-light-chain-phosphatase activity; ISS:UniProtKB.
+DR   GO; GO:0007165; P:signal transduction; IEA:InterPro.
+DR   Gene3D; 1.25.40.20; -; 1.
+DR   InterPro; IPR002110; Ankyrin_rpt.
+DR   InterPro; IPR020683; Ankyrin_rpt-contain_dom.
+DR   InterPro; IPR017401; MYPT1/MYPT2_chordates.
+DR   Pfam; PF12796; Ank_2; 1.
+DR   PIRSF; PIRSF038141; PP1_12ABC_vert; 1.
+DR   SMART; SM00248; ANK; 6.
+DR   SUPFAM; SSF48403; SSF48403; 1.
+DR   PROSITE; PS50297; ANK_REP_REGION; 1.
+DR   PROSITE; PS50088; ANK_REPEAT; 4.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; ANK repeat; Complete proteome;
+KW   Cytoplasm; Direct protein sequencing; Phosphoprotein;
+KW   Reference proteome; Repeat.
+FT   CHAIN         1   1004       Protein phosphatase 1 regulatory subunit
+FT                                12A.
+FT                                /FTId=PRO_0000355556.
+FT   REPEAT       39     68       ANK 1.
+FT   REPEAT       72    101       ANK 2.
+FT   REPEAT      105    134       ANK 3.
+FT   REPEAT      138    164       ANK 4.
+FT   REPEAT      198    227       ANK 5.
+FT   REPEAT      231    260       ANK 6.
+FT   REGION       35     38       Important for interaction with PPP1CB.
+FT   COMPBIAS    343    370       Asp/Glu-rich.
+FT   COMPBIAS    514    660       Ser/Thr-rich.
+FT   COMPBIAS    720    751       Asp/Glu/Lys-rich.
+FT   COMPBIAS    771    811       Ser-rich.
+FT   COMPBIAS    771    793       Ser/Thr-rich.
+FT   MOD_RES     695    695       Phosphothreonine; by ROCK2.
+FT                                {ECO:0000269|PubMed:10601309,
+FT                                ECO:0000269|PubMed:12220642}.
+FT   MOD_RES     850    850       Phosphothreonine; by ROCK2.
+FT                                {ECO:0000269|PubMed:10601309,
+FT                                ECO:0000269|PubMed:12220642}.
+FT   VAR_SEQ     512    552       Missing (in isoform 2).
+FT                                {ECO:0000303|PubMed:7982954}.
+FT                                /FTId=VSP_035912.
+FT   MUTAGEN     695    695       T->A: Reduces phosphorylation. Reduces
+FT                                phosphorylation on serine and threonine
+FT                                residues by 80%; when associated with A-
+FT                                850. {ECO:0000269|PubMed:10601309}.
+FT   MUTAGEN     850    850       T->A: Reduces phosphorylation. Reduces
+FT                                phosphorylation on serine and threonine
+FT                                residues by 80%; when associated with A-
+FT                                695. {ECO:0000269|PubMed:10601309}.
+FT   HELIX         4     19       {ECO:0000244|PDB:1S70}.
+FT   TURN         20     22       {ECO:0000244|PDB:1S70}.
+FT   HELIX        40     50       {ECO:0000244|PDB:1S70}.
+FT   HELIX        53     62       {ECO:0000244|PDB:1S70}.
+FT   HELIX        76     82       {ECO:0000244|PDB:1S70}.
+FT   HELIX        86     94       {ECO:0000244|PDB:1S70}.
+FT   HELIX       109    116       {ECO:0000244|PDB:1S70}.
+FT   HELIX       119    127       {ECO:0000244|PDB:1S70}.
+FT   HELIX       142    145       {ECO:0000244|PDB:1S70}.
+FT   HELIX       149    162       {ECO:0000244|PDB:1S70}.
+FT   HELIX       166    187       {ECO:0000244|PDB:1S70}.
+FT   TURN        196    198       {ECO:0000244|PDB:1S70}.
+FT   HELIX       202    209       {ECO:0000244|PDB:1S70}.
+FT   HELIX       212    219       {ECO:0000244|PDB:1S70}.
+FT   TURN        220    222       {ECO:0000244|PDB:1S70}.
+FT   HELIX       235    241       {ECO:0000244|PDB:1S70}.
+FT   HELIX       245    253       {ECO:0000244|PDB:1S70}.
+FT   TURN        268    270       {ECO:0000244|PDB:1S70}.
+FT   HELIX       275    277       {ECO:0000244|PDB:1S70}.
+FT   HELIX       278    286       {ECO:0000244|PDB:1S70}.
+SQ   SEQUENCE   1004 AA;  111606 MW;  7ED870DB87046929 CRC64;
+     MKMADAKQKR NEQLKRWIGS ETDLEPPVVK RKKTKVKFDD GAVFLAACSS GDTEEVLRLL
+     ERGADINYAN VDGLTALHQA CIDDNVDMVK FLVENGANIN QPDNEGWIPL HAAASCGYLD
+     IAEYLISQGA HVGAVNSEGD TPLDIAEEEA MEELLQNEVN RQGVDIEAAR KEEERIMLRD
+     ARQWLNSGHI NDVRHAKSGG TALHVAAAKG YTEVLKLLIQ ARYDVNIKDY DGWTPLHAAA
+     HWGKEEACRI LVENLCDMEA VNKVGQTAFD VADEDILGYL EELQKKQNLL HSEKREKKSP
+     LIESTANLDN NQTQKTFKNK ETLIMEQEKN ASSIESLEHE KADEEEEGKK DESSCSSEEE
+     EDDDSESEAE TDKAKTLANA NTTSTQSASM TAPSVAGGQG TPTSPLKKFP TSTTKVSPKE
+     EERKDESPAS WRLGLRKTGS YGALAEITAS KEAQKEKDSA GVIRSASSPR LSSSLDNKEK
+     EKDGKGTRLA YVAPTIPRRL ASTSDIDEKE NRDSSASSIR SGSSYARRKW EEDVKKNSLN
+     EGPTSLNTSY QRSGSFGRRQ DDLVSSNVPS TASTVTSSAG LQKTLPASAN TTTKSTTGST
+     SAGVQSSTSN RLWAEDSTEK EKDSVPTAVT VPVAPSVVNA AATTTAMTTA TSGTVSSTSE
+     VRERRRSYLT PVRDEESESQ RKARSRQARQ SRRSTQGVTL TDLQEAEKTI GRSRSTRTRE
+     QENEEKEKEE KEKQDKEKQE EKKESETKDD DYRQRYSRTV EEPYHRYRPT STSTSTSSTS
+     SLSTSTSSLS SSSQLNRPNS LIGITSAYSR SGTKESEREG GKKEEEKEED KSQPKSIRER
+     RRPREKRRST GVSFWTQDSD ENEQEHQSDS EEGTNKKETQ SDSLSRYDTG SLSVSSGDRY
+     DSAQGRSGSQ SYLEDRKPYC SRLEKEDSTD FKKLYEQILA ENEKLKAQLH DTNMELTDLK
+     LQLEKTTQRQ ERFADRSLLE MEKRVSGKSQ YLLGGKKSSR KKDI
+//

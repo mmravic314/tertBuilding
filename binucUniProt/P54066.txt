@@ -1,0 +1,125 @@
+ID   RL7A_METJA              Reviewed;         117 AA.
+AC   P54066;
+DT   01-OCT-1996, integrated into UniProtKB/Swiss-Prot.
+DT   15-JUL-1998, sequence version 2.
+DT   22-JUL-2015, entry version 102.
+DE   RecName: Full=50S ribosomal protein L7Ae {ECO:0000255|HAMAP-Rule:MF_00326};
+DE   AltName: Full=Ribosomal protein L8e {ECO:0000255|HAMAP-Rule:MF_00326};
+GN   Name=rpl7ae {ECO:0000255|HAMAP-Rule:MF_00326};
+GN   OrderedLocusNames=MJ1203;
+OS   Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 /
+OS   JCM 10045 / NBRC 100440) (Methanococcus jannaschii).
+OC   Archaea; Euryarchaeota; Methanococci; Methanococcales;
+OC   Methanocaldococcaceae; Methanocaldococcus.
+OX   NCBI_TaxID=243232;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440;
+RX   PubMed=8688087; DOI=10.1126/science.273.5278.1058;
+RA   Bult C.J., White O., Olsen G.J., Zhou L., Fleischmann R.D.,
+RA   Sutton G.G., Blake J.A., FitzGerald L.M., Clayton R.A., Gocayne J.D.,
+RA   Kerlavage A.R., Dougherty B.A., Tomb J.-F., Adams M.D., Reich C.I.,
+RA   Overbeek R., Kirkness E.F., Weinstock K.G., Merrick J.M., Glodek A.,
+RA   Scott J.L., Geoghagen N.S.M., Weidman J.F., Fuhrmann J.L., Nguyen D.,
+RA   Utterback T.R., Kelley J.M., Peterson J.D., Sadow P.W., Hanna M.C.,
+RA   Cotton M.D., Roberts K.M., Hurst M.A., Kaine B.P., Borodovsky M.,
+RA   Klenk H.-P., Fraser C.M., Smith H.O., Woese C.R., Venter J.C.;
+RT   "Complete genome sequence of the methanogenic archaeon, Methanococcus
+RT   jannaschii.";
+RL   Science 273:1058-1073(1996).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS), AND RNA-BINDING.
+RX   PubMed=15130481; DOI=10.1016/j.str.2004.03.015;
+RA   Hamma T., Ferre-D'Amare A.R.;
+RT   "Structure of protein L7Ae bound to a K-turn derived from an archaeal
+RT   box H/ACA sRNA at 1.8 A resolution.";
+RL   Structure 12:893-903(2004).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (1.45 ANGSTROMS).
+RX   PubMed=16008351; DOI=10.1021/bi050568q;
+RA   Suryadi J., Tran E.J., Maxwell E.S., Brown B.A. II;
+RT   "The crystal structure of the Methanocaldococcus jannaschii
+RT   multifunctional L7Ae RNA-binding protein reveals an induced-fit
+RT   interaction with the box C/D RNAs.";
+RL   Biochemistry 44:9657-9672(2005).
+CC   -!- FUNCTION: Multifunctional RNA-binding protein that recognizes the
+CC       K-turn motif in ribosomal RNA, the RNA component of RNase P, box
+CC       H/ACA, box C/D and box C'/D' sRNAs.
+CC   -!- SUBUNIT: Part of the 50S ribosomal subunit. Probably part of the
+CC       RNase P complex. {ECO:0000255|HAMAP-Rule:MF_00326}.
+CC   -!- INTERACTION:
+CC       Q58105:MJ0694; NbExp=4; IntAct=EBI-2944269, EBI-2944259;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_00326}.
+CC   -!- SIMILARITY: Belongs to the ribosomal protein L7Ae family.
+CC       {ECO:0000255|HAMAP-Rule:MF_00326}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; L77117; AAB99207.1; -; Genomic_DNA.
+DR   RefSeq; NP_248198.1; NC_000909.1.
+DR   RefSeq; WP_010870715.1; NC_000909.1.
+DR   PDB; 1RA4; X-ray; 1.86 A; A=1-117.
+DR   PDB; 1SDS; X-ray; 1.80 A; A/B/C=1-117.
+DR   PDB; 1XBI; X-ray; 1.45 A; A=1-117.
+DR   PDB; 3PAF; X-ray; 1.70 A; A/B=1-117.
+DR   PDBsum; 1RA4; -.
+DR   PDBsum; 1SDS; -.
+DR   PDBsum; 1XBI; -.
+DR   PDBsum; 3PAF; -.
+DR   ProteinModelPortal; P54066; -.
+DR   SMR; P54066; 1-117.
+DR   IntAct; P54066; 2.
+DR   STRING; 243232.MJ_1203; -.
+DR   EnsemblBacteria; AAB99207; AAB99207; MJ_1203.
+DR   GeneID; 1452098; -.
+DR   KEGG; mja:MJ_1203; -.
+DR   eggNOG; COG1358; -.
+DR   InParanoid; P54066; -.
+DR   KO; K02936; -.
+DR   OMA; FIETQDD; -.
+DR   PhylomeDB; P54066; -.
+DR   EvolutionaryTrace; P54066; -.
+DR   Proteomes; UP000000805; Chromosome.
+DR   GO; GO:0005840; C:ribosome; IEA:UniProtKB-KW.
+DR   GO; GO:0004526; F:ribonuclease P activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0019843; F:rRNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003735; F:structural constituent of ribosome; IEA:InterPro.
+DR   GO; GO:0042254; P:ribosome biogenesis; IEA:InterPro.
+DR   GO; GO:0006412; P:translation; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0001682; P:tRNA 5'-leader removal; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 3.30.1330.30; -; 1.
+DR   HAMAP; MF_00326; Ribosomal_L7Ae_Arch; 1.
+DR   InterPro; IPR029064; L30e-like.
+DR   InterPro; IPR004038; Ribosomal_L7Ae/L30e/S12e/Gad45.
+DR   InterPro; IPR018492; Ribosomal_L7Ae/L8/Nhp2.
+DR   InterPro; IPR022481; Ribosomal_L7Ae_arc.
+DR   InterPro; IPR004037; Ribosomal_L7Ae_CS.
+DR   InterPro; IPR000948; Ribosomal_L7Ae_prok.
+DR   Pfam; PF01248; Ribosomal_L7Ae; 1.
+DR   PRINTS; PR00881; L7ARS6FAMILY.
+DR   PRINTS; PR00884; RIBOSOMALHS6.
+DR   SUPFAM; SSF55315; SSF55315; 1.
+DR   TIGRFAMs; TIGR03677; eL8_ribo; 1.
+DR   PROSITE; PS01082; RIBOSOMAL_L7AE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Cytoplasm; Reference proteome;
+KW   Ribonucleoprotein; Ribosomal protein; RNA-binding; rRNA-binding;
+KW   tRNA processing.
+FT   CHAIN         1    117       50S ribosomal protein L7Ae.
+FT                                /FTId=PRO_0000136793.
+FT   HELIX        11     22       {ECO:0000244|PDB:1XBI}.
+FT   STRAND       25     30       {ECO:0000244|PDB:1XBI}.
+FT   HELIX        31     39       {ECO:0000244|PDB:1XBI}.
+FT   STRAND       44     50       {ECO:0000244|PDB:1XBI}.
+FT   HELIX        55     57       {ECO:0000244|PDB:1XBI}.
+FT   TURN         58     60       {ECO:0000244|PDB:1XBI}.
+FT   HELIX        61     67       {ECO:0000244|PDB:1XBI}.
+FT   STRAND       72     76       {ECO:0000244|PDB:1XBI}.
+FT   HELIX        78     84       {ECO:0000244|PDB:1XBI}.
+FT   STRAND       92     98       {ECO:0000244|PDB:1XBI}.
+FT   HELIX       102    115       {ECO:0000244|PDB:1XBI}.
+SQ   SEQUENCE   117 AA;  12686 MW;  7CAB706F09371BA6 CRC64;
+     MAVYVKFKVP EEIQKELLDA VAKAQKIKKG ANEVTKAVER GIAKLVIIAE DVKPEEVVAH
+     LPYLCEEKGI PYAYVASKQD LGKAAGLEVA ASSVAIINEG DAEELKVLIE KVNVLKQ
+//

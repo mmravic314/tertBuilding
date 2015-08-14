@@ -1,0 +1,84 @@
+ID   A5HZZ4_CLOBH            Unreviewed;       626 AA.
+AC   A5HZZ4; A7G1U4;
+DT   26-JUN-2007, integrated into UniProtKB/TrEMBL.
+DT   26-JUN-2007, sequence version 1.
+DT   24-JUN-2015, entry version 56.
+DE   SubName: Full=Hemagglutinin component of the neurotoxin complex {ECO:0000313|EMBL:CAL82355.1};
+GN   Name=ha70 {ECO:0000313|EMBL:CAL82355.1};
+GN   OrderedLocusNames=CBO0801 {ECO:0000313|EMBL:CAL82355.1};
+OS   Clostridium botulinum (strain Hall / ATCC 3502 / NCTC 13319 / Type A).
+OC   Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+OC   Clostridium.
+OX   NCBI_TaxID=441771 {ECO:0000313|Proteomes:UP000001986};
+RN   [1] {ECO:0000313|EMBL:CAL82355.1, ECO:0000313|Proteomes:UP000001986}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Hall / ATCC 3502 / NCTC 13319 / Type A [Sanger]
+RC   {ECO:0000313|Proteomes:UP000001986};
+RX   PubMed=17519437; DOI=10.1101/gr.6282807;
+RA   Sebaihia M., Peck M.W., Minton N.P., Thomson N.R., Holden M.T.G.,
+RA   Mitchell W.J., Carter A.T., Bentley S.D., Mason D.R., Crossman L.,
+RA   Paul C.J., Ivens A., Wells-Bennik M.H.J., Davis I.J.,
+RA   Cerdeno-Tarraga A.M., Churcher C., Quail M.A., Chillingworth T.,
+RA   Feltwell T., Fraser A., Goodhead I., Hance Z., Jagels K., Larke N.,
+RA   Maddison M., Moule S., Mungall K., Norbertczak H., Rabbinowitsch E.,
+RA   Sanders M., Simmonds M., White B., Whithead S., Parkhill J.;
+RT   "Genome sequence of a proteolytic (Group I) Clostridium botulinum
+RT   strain Hall A and comparative analysis of the clostridial genomes.";
+RL   Genome Res. 17:1082-1092(2007).
+RN   [2] {ECO:0000213|PDB:4QD2}
+RP   X-RAY CRYSTALLOGRAPHY (2.40 ANGSTROMS) OF 378-626.
+RX   PubMed=24948737;
+RA   Lee K., Zhong X., Gu S., Kruel A.M., Dorner M.B., Perry K., Rummel A.,
+RA   Dong M., Jin R.;
+RT   "Molecular basis for disruption of E-cadherin adhesion by botulinum
+RT   neurotoxin A complex.";
+RL   Science 344:1405-1410(2014).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AM412317; CAL82355.1; -; Genomic_DNA.
+DR   RefSeq; WP_011948507.1; NC_009698.1.
+DR   RefSeq; YP_001253337.1; NC_009495.1.
+DR   RefSeq; YP_001386733.1; NC_009698.1.
+DR   PDB; 4QD2; X-ray; 2.40 A; A/F=378-626.
+DR   PDBsum; 4QD2; -.
+DR   ProteinModelPortal; A5HZZ4; -.
+DR   SMR; A5HZZ4; 21-186, 207-618.
+DR   EnsemblBacteria; ABS36851; ABS36851; CLC_0857.
+DR   GeneID; 5185056; -.
+DR   GeneID; 5401021; -.
+DR   KEGG; cbh:CLC_0857; -.
+DR   KEGG; cbo:CBO0801; -.
+DR   PATRIC; 19363707; VBICloBot22612_0797.
+DR   HOGENOM; HOG000277128; -.
+DR   KO; K16626; -.
+DR   OMA; NKNICIK; -.
+DR   OrthoDB; EOG68Q0KF; -.
+DR   BioCyc; CBOT413999:GJ72-867-MONOMER; -.
+DR   BioCyc; CBOT441771:GIWX-828-MONOMER; -.
+DR   Proteomes; UP000001986; Chromosome.
+DR   GO; GO:0005576; C:extracellular region; IEA:InterPro.
+DR   GO; GO:0009405; P:pathogenesis; IEA:InterPro.
+DR   InterPro; IPR003897; Clenterotox.
+DR   Pfam; PF03505; Clenterotox; 2.
+DR   PRINTS; PR01394; CLENTEROTOXN.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4QD2};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001986};
+KW   Neurotoxin {ECO:0000313|EMBL:CAL82355.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001986};
+KW   Toxin {ECO:0000313|EMBL:CAL82355.1}.
+SQ   SEQUENCE   626 AA;  71391 MW;  6137CE6D64BDE32C CRC64;
+     MNSSIKKIYN DIQEKVINYS DTIDLADGNY VVRRGDGWIL SRQNQILGGS VISNGSTGIV
+     GDLRVNDNAI PYYYPTPSFN EEYIKNNIQT VFTNFTEANQ IPIGFEFSKT APSNKNLYMY
+     LQYTYIRYEI IKVLQHEIIE RAVLYVPSLG YVKSIEFNPG EKINKDFYFL TNDKCILNEQ
+     FLYKKILETT KNIPTNNIFN SKVSSTQRVL PYSNGLYVIN KGDGYIRTND KDLIGTLLIE
+     AGSSGSIIQP RLRNTTRPLF TTSNDTKFSQ QYTEERLKDA FNVQLFNTST SLFKFVEEAP
+     SDKNICIKAY NTYEKYELID YQNGSIVNKA EYYLPSLGYC EVTNAPSPES EVVKMQVAED
+     GFIQNGPEEE IVVGVIDPSE NIQEINTAIS DNYTYNIPGI VNNNPFYILF TVNTTGIYKI
+     NAQNNLPSLK IYEAIGSGNR NFQSGNLCDD DIKAINYITG FDSPNAKSYL VVLLNKDKNY
+     YIRVPQTSSN IENQIQFKRE EGDLRNLMNS SVNIIDNLNS TGAHYYTRQS PDVHDYISYE
+     FTIPGNFNNK DTSNIRLYTS YNQGIGTLFR VTETIDGYNL INIQQNLHLL NNTNSIRLLN
+     GAIYILKVEV TELNNYNIRL HIDITN
+//

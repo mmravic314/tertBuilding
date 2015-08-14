@@ -1,0 +1,44 @@
+ID   G5CQN7_9VIRU            Unreviewed;       371 AA.
+AC   G5CQN7;
+DT   14-DEC-2011, integrated into UniProtKB/TrEMBL.
+DT   14-DEC-2011, sequence version 1.
+DT   01-APR-2015, entry version 9.
+DE   SubName: Full=Putative uncharacterized protein mg662 {ECO:0000313|EMBL:AEQ32837.1};
+GN   Name=mg662 {ECO:0000313|EMBL:AEQ32837.1};
+OS   Megavirus chiliensis.
+OC   Viruses; dsDNA viruses, no RNA stage; Mimiviridae;
+OC   unclassified Mimiviridae.
+OX   NCBI_TaxID=1094892 {ECO:0000313|EMBL:AEQ32837.1};
+RN   [1] {ECO:0000313|EMBL:AEQ32837.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=21987820; DOI=10.1073/pnas.1110889108;
+RA   Arslan D., Legendre M., Seltzer V., Abergel C., Claverie J.M.;
+RT   "Distant Mimivirus relative with a larger genome highlights the
+RT   fundamental features of Megaviridae.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 108:17486-17491(2011).
+RN   [2] {ECO:0000213|PDB:4AMS}
+RP   X-RAY CRYSTALLOGRAPHY (2.60 ANGSTROMS) OF 2-371.
+RA   Ciaccafava A., Lartigue A., Mansuelle P., Jeudy S., Abergel C.;
+RT   "A Megaviridae Orphan Gene Encodes a New Nucleotidyl Transferase.";
+RL   Submitted (MAR-2012) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; JN258408; AEQ32837.1; -; Genomic_DNA.
+DR   RefSeq; YP_004894713.1; NC_016072.1.
+DR   PDB; 4AMS; X-ray; 2.60 A; A=2-371.
+DR   PDBsum; 4AMS; -.
+DR   GeneID; 11256750; -.
+DR   KEGG; vg:11256750; -.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4AMS}.
+SQ   SEQUENCE   371 AA;  44069 MW;  802E8FD5F4FBAAA3 CRC64;
+     MLIYTYKLEK YVRTKIFPKI LLIPDKNRYI IKGSFRRRVP FVTDIDVVNN VYPEISRENI
+     YDEIIKLVNN IQSDPNIILA YLSCGTDERF KISTGSSKEL SNIQSLLPDN EKNEFQLVLN
+     KYYNDQQKKL FFLNELIWDH YKLRWKPEDV LIGSMNLANN VSVNFRETVE NNSTILLQYY
+     VKLGSYPVGI DVVINYQKID LTPAYKNAAL YQLQLANYSR EYYYMLFPLR YYFKNNQDIS
+     QRLENIIEKK YGLYKQLMVR IDDYHTLYKS GNLKIDMATN IVIGILRDIE KLPGFESDTI
+     YQIKKVATNN SPSIKIEEWD ILLKVLYQEI NTAVNNKSRK YFYRYIAMVP PQDRSKNYIS
+     ENQDMRLKMV N
+//

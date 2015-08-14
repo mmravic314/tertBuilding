@@ -1,0 +1,229 @@
+ID   PEPQ_ECOLI              Reviewed;         443 AA.
+AC   P21165; P21176; Q2M8F0;
+DT   01-MAY-1991, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-1993, sequence version 2.
+DT   22-JUL-2015, entry version 133.
+DE   RecName: Full=Xaa-Pro dipeptidase;
+DE            Short=X-Pro dipeptidase;
+DE            EC=3.4.13.9;
+DE   AltName: Full=Imidodipeptidase;
+DE   AltName: Full=Proline dipeptidase;
+DE            Short=Prolidase;
+GN   Name=pepQ; OrderedLocusNames=b3847, JW3823;
+OS   Escherichia coli (strain K12).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=83333;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=K12 / W3110 / ATCC 27325 / DSM 5911;
+RX   PubMed=2243799; DOI=10.1093/nar/18.21.6439;
+RA   Nakahigashi K., Inokuchi H.;
+RT   "Nucleotide sequence between the fadB gene and the rrnA operon from
+RT   Escherichia coli.";
+RL   Nucleic Acids Res. 18:6439-6439(1990).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / MG1655 / ATCC 47076;
+RX   PubMed=1379743; DOI=10.1126/science.1379743;
+RA   Daniels D.L., Plunkett G. III, Burland V.D., Blattner F.R.;
+RT   "Analysis of the Escherichia coli genome: DNA sequence of the region
+RT   from 84.5 to 86.5 minutes.";
+RL   Science 257:771-778(1992).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / MG1655 / ATCC 47076;
+RX   PubMed=9278503; DOI=10.1126/science.277.5331.1453;
+RA   Blattner F.R., Plunkett G. III, Bloch C.A., Perna N.T., Burland V.,
+RA   Riley M., Collado-Vides J., Glasner J.D., Rode C.K., Mayhew G.F.,
+RA   Gregor J., Davis N.W., Kirkpatrick H.A., Goeden M.A., Rose D.J.,
+RA   Mau B., Shao Y.;
+RT   "The complete genome sequence of Escherichia coli K-12.";
+RL   Science 277:1453-1462(1997).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / W3110 / ATCC 27325 / DSM 5911;
+RX   PubMed=16738553; DOI=10.1038/msb4100049;
+RA   Hayashi K., Morooka N., Yamamoto Y., Fujita K., Isono K., Choi S.,
+RA   Ohtsubo E., Baba T., Wanner B.L., Mori H., Horiuchi T.;
+RT   "Highly accurate genome sequences of Escherichia coli K-12 strains
+RT   MG1655 and W3110.";
+RL   Mol. Syst. Biol. 2:E1-E5(2006).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-438.
+RC   STRAIN=K12 / W3110 / ATCC 27325 / DSM 5911;
+RA   Nakahigashi K.;
+RL   Submitted (MAY-1990) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   PROTEIN SEQUENCE OF 1-5, FUNCTION, CHARACTERIZATION, SUBSTRATE
+RP   SPECIFICITY, AND KINETIC PARAMETERS.
+RX   PubMed=15313226; DOI=10.1016/j.abb.2004.06.022;
+RA   Park M.-S., Hill C.M., Li Y., Hardy R.K., Khanna H., Khang Y.-H.,
+RA   Raushel F.M.;
+RT   "Catalytic properties of the PepQ prolidase from Escherichia coli.";
+RL   Arch. Biochem. Biophys. 429:224-230(2004).
+CC   -!- FUNCTION: Splits dipeptides with a prolyl residue in the C-
+CC       terminal position and a polar or nonpolar amino acid at the N-
+CC       terminal position. With much lower efficiency, also catalyzes the
+CC       stereoselective hydrolysis of a wide variety of organophosphate
+CC       triesters and organophosphonate diesters. Is able to hydrolyze the
+CC       organophosphorus insecticide paraoxon and the p-nitrophenyl
+CC       analogs of the nerve agents GB (sarin), GD (soman), GF, Vx and
+CC       rVX. {ECO:0000269|PubMed:15313226}.
+CC   -!- CATALYTIC ACTIVITY: Hydrolysis of Xaa-|-Pro dipeptides; also acts
+CC       on aminoacyl-hydroxyproline analogs. No action on Pro-|-Pro.
+CC   -!- COFACTOR:
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035; Evidence={ECO:0000250};
+CC       Note=Binds 2 manganese ions per subunit. {ECO:0000250};
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=1.9 mM for Ala-Pro {ECO:0000269|PubMed:15313226};
+CC         KM=0.10 mM for Arg-Pro {ECO:0000269|PubMed:15313226};
+CC         KM=1.4 mM for Gly-Pro {ECO:0000269|PubMed:15313226};
+CC         KM=0.15 mM for His-Pro {ECO:0000269|PubMed:15313226};
+CC         KM=0.10 mM for Ile-Pro {ECO:0000269|PubMed:15313226};
+CC         KM=1.0 mM for Leu-Pro {ECO:0000269|PubMed:15313226};
+CC         KM=0.27 mM for Lys-Pro {ECO:0000269|PubMed:15313226};
+CC         KM=0.13 mM for Met-Pro {ECO:0000269|PubMed:15313226};
+CC         KM=0.43 mM for Phe-Pro {ECO:0000269|PubMed:15313226};
+CC         KM=0.31 mM for Pro-Pro {ECO:0000269|PubMed:15313226};
+CC         KM=0.46 mM for Ser-Pro {ECO:0000269|PubMed:15313226};
+CC         KM=0.16 mM for Tyr-Pro {ECO:0000269|PubMed:15313226};
+CC         KM=0.40 mM for Val-Pro {ECO:0000269|PubMed:15313226};
+CC         KM=38 mM for diisopropylfluorophosphate
+CC         {ECO:0000269|PubMed:15313226};
+CC         Note=Among the dipeptides described above, the highest catalytic
+CC         efficiency is observed with dipeptides containing charge
+CC         residues.;
+CC   -!- INTERACTION:
+CC       P33643:rluD; NbExp=1; IntAct=EBI-552580, EBI-558026;
+CC   -!- BIOTECHNOLOGY: Can be utilized for the kinetic resolution of
+CC       racemic phosphate esters.
+CC   -!- MISCELLANEOUS: Has a stereoselective preference for isomers with
+CC       R-configuration at the phosphorous center of organophosphonate
+CC       diesters and with S-configuration in organophosphate triesters.
+CC   -!- SIMILARITY: Belongs to the peptidase M24B family. Bacterial-type
+CC       prolidase subfamily. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=CAA38501.1; Type=Frameshift; Positions=430; Note=The resulting sequence is much longer and includes the sequence of yigZ.; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X54687; CAA38501.1; ALT_FRAME; Genomic_DNA.
+DR   EMBL; M87049; AAA67644.1; -; Genomic_DNA.
+DR   EMBL; U00096; AAC76850.1; -; Genomic_DNA.
+DR   EMBL; AP009048; BAE77456.1; -; Genomic_DNA.
+DR   EMBL; X52837; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   PIR; H65189; H65189.
+DR   RefSeq; NP_418289.1; NC_000913.3.
+DR   RefSeq; WP_000444561.1; NZ_CP010445.1.
+DR   PDB; 4QR8; X-ray; 2.00 A; A/B=1-443.
+DR   PDBsum; 4QR8; -.
+DR   ProteinModelPortal; P21165; -.
+DR   SMR; P21165; 8-442.
+DR   DIP; DIP-10460N; -.
+DR   IntAct; P21165; 4.
+DR   MINT; MINT-1302254; -.
+DR   STRING; 511145.b3847; -.
+DR   MEROPS; M24.003; -.
+DR   SWISS-2DPAGE; P21165; -.
+DR   PaxDb; P21165; -.
+DR   PRIDE; P21165; -.
+DR   EnsemblBacteria; AAC76850; AAC76850; b3847.
+DR   EnsemblBacteria; BAE77456; BAE77456; BAE77456.
+DR   GeneID; 948335; -.
+DR   KEGG; eco:b3847; -.
+DR   PATRIC; 32123191; VBIEscCol129921_3961.
+DR   EchoBASE; EB0692; -.
+DR   EcoGene; EG10698; pepQ.
+DR   eggNOG; COG0006; -.
+DR   HOGENOM; HOG000290531; -.
+DR   InParanoid; P21165; -.
+DR   KO; K01271; -.
+DR   OMA; MQDDTGT; -.
+DR   OrthoDB; EOG6XHC3N; -.
+DR   PhylomeDB; P21165; -.
+DR   BioCyc; EcoCyc:EG10698-MONOMER; -.
+DR   BioCyc; ECOL316407:JW3823-MONOMER; -.
+DR   BioCyc; MetaCyc:EG10698-MONOMER; -.
+DR   PRO; PR:P21165; -.
+DR   Proteomes; UP000000318; Chromosome.
+DR   Proteomes; UP000000625; Chromosome.
+DR   GO; GO:0016805; F:dipeptidase activity; IDA:EcoCyc.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0008235; F:metalloexopeptidase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0016795; F:phosphoric triester hydrolase activity; IEA:InterPro.
+DR   GO; GO:0043171; P:peptide catabolic process; IGI:EcoliWiki.
+DR   Gene3D; 3.90.230.10; -; 1.
+DR   HAMAP; MF_01279; X_Pro_dipeptid; 1.
+DR   InterPro; IPR000994; Pept_M24_structural-domain.
+DR   InterPro; IPR001131; Peptidase_M24B_aminopep-P_CS.
+DR   InterPro; IPR022846; X_Pro_dipept.
+DR   Pfam; PF00557; Peptidase_M24; 1.
+DR   SUPFAM; SSF55920; SSF55920; 1.
+DR   PROSITE; PS00491; PROLINE_PEPTIDASE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Dipeptidase;
+KW   Direct protein sequencing; Hydrolase; Manganese; Metal-binding;
+KW   Metalloprotease; Protease; Reference proteome.
+FT   CHAIN         1    443       Xaa-Pro dipeptidase.
+FT                                /FTId=PRO_0000185089.
+FT   METAL       246    246       Manganese 2. {ECO:0000250}.
+FT   METAL       257    257       Manganese 1. {ECO:0000250}.
+FT   METAL       257    257       Manganese 2. {ECO:0000250}.
+FT   METAL       339    339       Manganese 1. {ECO:0000250}.
+FT   METAL       384    384       Manganese 1. {ECO:0000250}.
+FT   METAL       423    423       Manganese 1. {ECO:0000250}.
+FT   METAL       423    423       Manganese 2. {ECO:0000250}.
+FT   HELIX         4     26       {ECO:0000244|PDB:4QR8}.
+FT   STRAND       29     34       {ECO:0000244|PDB:4QR8}.
+FT   HELIX        54     57       {ECO:0000244|PDB:4QR8}.
+FT   STRAND       69     72       {ECO:0000244|PDB:4QR8}.
+FT   STRAND       74     76       {ECO:0000244|PDB:4QR8}.
+FT   STRAND       79     83       {ECO:0000244|PDB:4QR8}.
+FT   STRAND       88     90       {ECO:0000244|PDB:4QR8}.
+FT   HELIX        99    102       {ECO:0000244|PDB:4QR8}.
+FT   STRAND      104    111       {ECO:0000244|PDB:4QR8}.
+FT   HELIX       112    114       {ECO:0000244|PDB:4QR8}.
+FT   TURN        116    118       {ECO:0000244|PDB:4QR8}.
+FT   STRAND      126    131       {ECO:0000244|PDB:4QR8}.
+FT   HELIX       133    138       {ECO:0000244|PDB:4QR8}.
+FT   HELIX       143    145       {ECO:0000244|PDB:4QR8}.
+FT   HELIX       149    159       {ECO:0000244|PDB:4QR8}.
+FT   HELIX       164    189       {ECO:0000244|PDB:4QR8}.
+FT   HELIX       194    205       {ECO:0000244|PDB:4QR8}.
+FT   TURN        209    211       {ECO:0000244|PDB:4QR8}.
+FT   STRAND      212    214       {ECO:0000244|PDB:4QR8}.
+FT   STRAND      217    220       {ECO:0000244|PDB:4QR8}.
+FT   HELIX       221    225       {ECO:0000244|PDB:4QR8}.
+FT   STRAND      242    251       {ECO:0000244|PDB:4QR8}.
+FT   STRAND      254    264       {ECO:0000244|PDB:4QR8}.
+FT   STRAND      266    268       {ECO:0000244|PDB:4QR8}.
+FT   HELIX       269    287       {ECO:0000244|PDB:4QR8}.
+FT   HELIX       294    311       {ECO:0000244|PDB:4QR8}.
+FT   HELIX       320    325       {ECO:0000244|PDB:4QR8}.
+FT   TURN        326    329       {ECO:0000244|PDB:4QR8}.
+FT   HELIX       330    332       {ECO:0000244|PDB:4QR8}.
+FT   STRAND      342    346       {ECO:0000244|PDB:4QR8}.
+FT   STRAND      350    352       {ECO:0000244|PDB:4QR8}.
+FT   STRAND      380    383       {ECO:0000244|PDB:4QR8}.
+FT   STRAND      386    388       {ECO:0000244|PDB:4QR8}.
+FT   HELIX       391    399       {ECO:0000244|PDB:4QR8}.
+FT   HELIX       403    405       {ECO:0000244|PDB:4QR8}.
+FT   HELIX       408    414       {ECO:0000244|PDB:4QR8}.
+FT   HELIX       415    417       {ECO:0000244|PDB:4QR8}.
+FT   STRAND      419    421       {ECO:0000244|PDB:4QR8}.
+FT   STRAND      423    428       {ECO:0000244|PDB:4QR8}.
+FT   STRAND      433    435       {ECO:0000244|PDB:4QR8}.
+FT   HELIX       436    439       {ECO:0000244|PDB:4QR8}.
+SQ   SEQUENCE   443 AA;  50176 MW;  C5CB313DB774F670 CRC64;
+     MESLASLYKN HIATLQERTR DALARFKLDA LLIHSGELFN VFLDDHPYPF KVNPQFKAWV
+     PVTQVPNCWL LVDGVNKPKL WFYLPVDYWH NVEPLPTSFW TEDVEVIALP KADGIGSLLP
+     AARGNIGYIG PVPERALQLG IEASNINPKG VIDYLHYYRS FKTEYELACM REAQKMAVNG
+     HRAAEEAFRS GMSEFDINIA YLTATGHRDT DVPYSNIVAL NEHAAVLHYT KLDHQAPEEM
+     RSFLLDAGAE YNGYAADLTR TWSAKSDNDY AQLVKDVNDE QLALIATMKA GVSYVDYHIQ
+     FHQRIAKLLR KHQIITDMSE EAMVENDLTG PFMPHGIGHP LGLQVHDVAG FMQDDSGTHL
+     AAPAKYPYLR CTRILQPGMV LTIEPGIYFI ESLLAPWREG QFSKHFNWQK IEALKPFGGI
+     RIEDNVVIHE NNVENMTRDL KLA
+//

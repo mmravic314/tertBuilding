@@ -1,0 +1,152 @@
+ID   HYDA_GEOSE              Reviewed;         471 AA.
+AC   Q45515;
+DT   15-JUL-1998, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   27-MAY-2015, entry version 84.
+DE   RecName: Full=D-hydantoinase;
+DE            EC=3.5.2.-;
+OS   Geobacillus stearothermophilus (Bacillus stearothermophilus).
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Geobacillus.
+OX   NCBI_TaxID=1422;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], PROTEIN SEQUENCE OF 1-20, COFACTOR,
+RP   ENZYME REGULATION, AND BIOPHYSICOCHEMICAL PROPERTIES.
+RC   STRAIN=NS1122A;
+RX   PubMed=7765480; DOI=10.1271/bbb.58.1621;
+RA   Mukohara Y., Ishikawa T., Watabe K., Nakamura H.;
+RT   "A thermostable hydantoinase of Bacillus stearothermophilus NS1122A:
+RT   cloning, sequencing, and high expression of the enzyme gene, and some
+RT   properties of the expressed enzyme.";
+RL   Biosci. Biotechnol. Biochem. 58:1621-1626(1994).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (3.01 ANGSTROMS) OF 1-459 IN COMPLEX WITH ZINC
+RP   IONS, SUBUNIT, COFACTOR, AND CARBAMYLATION AT LYS-150.
+RX   PubMed=12135362; DOI=10.1021/bi0201567;
+RA   Cheon Y.-H., Kim H.-S., Han K.-H., Abendroth J., Niefind K.,
+RA   Schomburg D., Wang J., Kim Y.;
+RT   "Crystal structure of D-hydantoinase from Bacillus stearothermophilus:
+RT   insight into the stereochemistry of enantioselectivity.";
+RL   Biochemistry 41:9410-9417(2002).
+CC   -!- FUNCTION: Catalyzes the stereospecific hydrolysis of the cyclic
+CC       amide bond of D-hydantoin. Has no activity on dihydropyrimidines.
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC         Evidence={ECO:0000269|PubMed:12135362,
+CC         ECO:0000269|PubMed:7765480};
+CC       Name=Ni(2+); Xref=ChEBI:CHEBI:49786;
+CC         Evidence={ECO:0000269|PubMed:12135362,
+CC         ECO:0000269|PubMed:7765480};
+CC       Name=Co(2+); Xref=ChEBI:CHEBI:48828;
+CC         Evidence={ECO:0000269|PubMed:12135362,
+CC         ECO:0000269|PubMed:7765480};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000269|PubMed:12135362,
+CC         ECO:0000269|PubMed:7765480};
+CC       Note=Binds 2 Zn(2+) ions per subunit. Can also use Ni(2+), Co(2+)
+CC       or Mn(2+). {ECO:0000269|PubMed:12135362,
+CC       ECO:0000269|PubMed:7765480};
+CC   -!- ENZYME REGULATION: Completely inhibited by p-chloromercuribenzoate
+CC       and partially inhibited by metal chelating agents.
+CC       {ECO:0000269|PubMed:7765480}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Temperature dependence:
+CC         The optimal activity is at pH 8.8 for manganese-containing form
+CC         and pH 8.5 for cobalt-containing form. The oligomer is
+CC         thermostable and retains full initial activity at 40-60 degrees
+CC         Celsius. {ECO:0000269|PubMed:7765480};
+CC   -!- SUBUNIT: Homotetramer. {ECO:0000269|PubMed:12135362}.
+CC   -!- PTM: Carbamylation allows a single lysine to coordinate two zinc
+CC       ions. {ECO:0000269|PubMed:12135362}.
+CC   -!- SIMILARITY: Belongs to the DHOase family.
+CC       Hydantoinase/dihydropyrimidinase subfamily. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; S73773; AAC60487.1; -; Genomic_DNA.
+DR   PIR; JC2310; JC2310.
+DR   PDB; 1K1D; X-ray; 3.01 A; A/B/C/D/E/F/G/H=1-459.
+DR   PDBsum; 1K1D; -.
+DR   ProteinModelPortal; Q45515; -.
+DR   SMR; Q45515; 1-459.
+DR   BRENDA; 3.5.2.2; 623.
+DR   EvolutionaryTrace; Q45515; -.
+DR   GO; GO:0005737; C:cytoplasm; IEA:InterPro.
+DR   GO; GO:0016810; F:hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 2.30.40.10; -; 2.
+DR   InterPro; IPR011778; Hydantoinase/dihydroPyrase.
+DR   InterPro; IPR011059; Metal-dep_hydrolase_composite.
+DR   SUPFAM; SSF51338; SSF51338; 2.
+DR   TIGRFAMs; TIGR02033; D-hydantoinase; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Direct protein sequencing; Hydrolase; Metal-binding;
+KW   Zinc.
+FT   CHAIN         1    471       D-hydantoinase.
+FT                                /FTId=PRO_0000165933.
+FT   METAL        58     58       Zinc 1.
+FT   METAL        60     60       Zinc 1.
+FT   METAL       150    150       Zinc 1; via carbamate group.
+FT   METAL       150    150       Zinc 2; via carbamate group.
+FT   METAL       183    183       Zinc 2.
+FT   METAL       239    239       Zinc 2.
+FT   METAL       315    315       Zinc 1.
+FT   BINDING     155    155       Substrate. {ECO:0000250}.
+FT   BINDING     288    288       Substrate; via amide nitrogen and
+FT                                carbonyl oxygen. {ECO:0000250}.
+FT   BINDING     337    337       Substrate; via carbonyl oxygen.
+FT                                {ECO:0000250}.
+FT   MOD_RES     150    150       N6-carboxylysine.
+FT                                {ECO:0000269|PubMed:12135362}.
+FT   STRAND        3     11       {ECO:0000244|PDB:1K1D}.
+FT   STRAND       16     23       {ECO:0000244|PDB:1K1D}.
+FT   STRAND       25     34       {ECO:0000244|PDB:1K1D}.
+FT   STRAND       49     52       {ECO:0000244|PDB:1K1D}.
+FT   STRAND       54     59       {ECO:0000244|PDB:1K1D}.
+FT   STRAND       66     68       {ECO:0000244|PDB:1K1D}.
+FT   HELIX        74     83       {ECO:0000244|PDB:1K1D}.
+FT   STRAND       86     93       {ECO:0000244|PDB:1K1D}.
+FT   HELIX       101    112       {ECO:0000244|PDB:1K1D}.
+FT   TURN        113    115       {ECO:0000244|PDB:1K1D}.
+FT   STRAND      117    125       {ECO:0000244|PDB:1K1D}.
+FT   HELIX       131    142       {ECO:0000244|PDB:1K1D}.
+FT   STRAND      148    155       {ECO:0000244|PDB:1K1D}.
+FT   TURN        156    159       {ECO:0000244|PDB:1K1D}.
+FT   HELIX       163    176       {ECO:0000244|PDB:1K1D}.
+FT   STRAND      179    183       {ECO:0000244|PDB:1K1D}.
+FT   HELIX       187    199       {ECO:0000244|PDB:1K1D}.
+FT   HELIX       206    210       {ECO:0000244|PDB:1K1D}.
+FT   HELIX       214    231       {ECO:0000244|PDB:1K1D}.
+FT   STRAND      234    237       {ECO:0000244|PDB:1K1D}.
+FT   HELIX       243    254       {ECO:0000244|PDB:1K1D}.
+FT   STRAND      258    263       {ECO:0000244|PDB:1K1D}.
+FT   HELIX       265    269       {ECO:0000244|PDB:1K1D}.
+FT   HELIX       272    275       {ECO:0000244|PDB:1K1D}.
+FT   HELIX       281    285       {ECO:0000244|PDB:1K1D}.
+FT   HELIX       296    306       {ECO:0000244|PDB:1K1D}.
+FT   STRAND      307    309       {ECO:0000244|PDB:1K1D}.
+FT   TURN        321    324       {ECO:0000244|PDB:1K1D}.
+FT   HELIX       325    328       {ECO:0000244|PDB:1K1D}.
+FT   HELIX       332    334       {ECO:0000244|PDB:1K1D}.
+FT   TURN        342    344       {ECO:0000244|PDB:1K1D}.
+FT   HELIX       345    352       {ECO:0000244|PDB:1K1D}.
+FT   HELIX       354    356       {ECO:0000244|PDB:1K1D}.
+FT   HELIX       361    368       {ECO:0000244|PDB:1K1D}.
+FT   HELIX       370    375       {ECO:0000244|PDB:1K1D}.
+FT   TURN        379    381       {ECO:0000244|PDB:1K1D}.
+FT   STRAND      393    403       {ECO:0000244|PDB:1K1D}.
+FT   TURN        406    408       {ECO:0000244|PDB:1K1D}.
+FT   STRAND      411    414       {ECO:0000244|PDB:1K1D}.
+FT   TURN        417    420       {ECO:0000244|PDB:1K1D}.
+FT   STRAND      422    432       {ECO:0000244|PDB:1K1D}.
+FT   STRAND      435    439       {ECO:0000244|PDB:1K1D}.
+SQ   SEQUENCE   471 AA;  51725 MW;  FB75A507727292FB CRC64;
+     MTKLIKNGTI VTATDIYEAD LLIQDGKIAV IGRNLDESGA EVIDATGCYV FPGGIDPHTH
+     LDMPFGGTVT KDDFESGTIA AAFGGTTTII DFCLTNKGEP LKKAIETWHN KATGKAVIDY
+     GFHLMISEIT DDVLEELPKV IEEEGITSFK VFMAYKDVFQ ADDGTLYRTL VAAKELGALV
+     MVHAENGDVI DYLTKKALED GHTDPIYHAL TRPPELEGEA TGRACQLTEL AGSQLYVVHV
+     SCAQAVEKIA EARNKGLNVW GETCPQYLVL DQSYLEKPNF EGAKYVWSPP LREKWHQEVL
+     WNALKNGQLQ TLGSDQCSFD FKGQKELGRG DFTKIPNGGP IIEDRVSILF SEGVKKGRIT
+     LNQFVDIVST RIAKLFGLFP KKGTIAVGAD ADLVIFDPTV ERVISAETHH MAVDYNPFEG
+     MKVTGEPVSV LCRGEFVVRD KQFVGKPGYG QYVKRAKYGA LMADQDVVKM S
+//

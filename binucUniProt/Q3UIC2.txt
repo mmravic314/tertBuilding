@@ -1,0 +1,184 @@
+ID   Q3UIC2_MOUSE            Unreviewed;       906 AA.
+AC   Q3UIC2;
+DT   11-OCT-2005, integrated into UniProtKB/TrEMBL.
+DT   11-OCT-2005, sequence version 1.
+DT   22-JUL-2015, entry version 92.
+DE   SubName: Full=Putative uncharacterized protein {ECO:0000313|EMBL:BAE27584.1};
+GN   Name=Cdh2 {ECO:0000313|MGI:MGI:88355};
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090 {ECO:0000313|EMBL:BAE27584.1};
+RN   [1] {ECO:0000313|EMBL:BAE27584.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=C57BL/6J {ECO:0000313|EMBL:BAE27584.1};
+RC   TISSUE=Heart {ECO:0000313|EMBL:BAE27584.1};
+RX   PubMed=10349636; DOI=10.1016/S0076-6879(99)03004-9;
+RA   Carninci P., Hayashizaki Y.;
+RT   "High-efficiency full-length cDNA cloning.";
+RL   Methods Enzymol. 303:19-44(1999).
+RN   [2] {ECO:0000313|EMBL:BAE27584.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=C57BL/6J {ECO:0000313|EMBL:BAE27584.1};
+RC   TISSUE=Heart {ECO:0000313|EMBL:BAE27584.1};
+RX   PubMed=11042159; DOI=10.1101/gr.145100;
+RA   Carninci P., Shibata Y., Hayatsu N., Sugahara Y., Shibata K., Itoh M.,
+RA   Konno H., Okazaki Y., Muramatsu M., Hayashizaki Y.;
+RT   "Normalization and subtraction of cap-trapper-selected cDNAs to
+RT   prepare full-length cDNA libraries for rapid discovery of new genes.";
+RL   Genome Res. 10:1617-1630(2000).
+RN   [3] {ECO:0000313|EMBL:BAE27584.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=C57BL/6J {ECO:0000313|EMBL:BAE27584.1};
+RC   TISSUE=Heart {ECO:0000313|EMBL:BAE27584.1};
+RX   PubMed=11076861; DOI=10.1101/gr.152600;
+RA   Shibata K., Itoh M., Aizawa K., Nagaoka S., Sasaki N., Carninci P.,
+RA   Konno H., Akiyama J., Nishi K., Kitsunai T., Tashiro H., Itoh M.,
+RA   Sumi N., Ishii Y., Nakamura S., Hazama M., Nishine T., Harada A.,
+RA   Yamamoto R., Matsumoto H., Sakaguchi S., Ikegami T., Kashiwagi K.,
+RA   Fujiwake S., Inoue K., Togawa Y., Izawa M., Ohara E., Watahiki M.,
+RA   Yoneda Y., Ishikawa T., Ozawa K., Tanaka T., Matsuura S., Kawai J.,
+RA   Okazaki Y., Muramatsu M., Inoue Y., Kira A., Hayashizaki Y.;
+RT   "RIKEN integrated sequence analysis (RISA) system--384-format
+RT   sequencing pipeline with 384 multicapillary sequencer.";
+RL   Genome Res. 10:1757-1771(2000).
+RN   [4] {ECO:0000313|EMBL:BAE27584.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=C57BL/6J {ECO:0000313|EMBL:BAE27584.1};
+RC   TISSUE=Heart {ECO:0000313|EMBL:BAE27584.1};
+RG   The RIKEN Genome Exploration Research Group Phase II Team and the FANTOM Consortium;
+RT   "Functional annotation of a full-length mouse cDNA collection.";
+RL   Nature 409:685-690(2001).
+RN   [5] {ECO:0000313|EMBL:BAE27584.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=C57BL/6J {ECO:0000313|EMBL:BAE27584.1};
+RC   TISSUE=Heart {ECO:0000313|EMBL:BAE27584.1};
+RG   The FANTOM Consortium and the RIKEN Genome Exploration Research Group Phase I and II Team;
+RT   "Analysis of the mouse transcriptome based on functional annotation of
+RT   60,770 full-length cDNAs.";
+RL   Nature 420:563-573(2002).
+RN   [6] {ECO:0000313|EMBL:BAE27584.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=C57BL/6J {ECO:0000313|EMBL:BAE27584.1};
+RC   TISSUE=Heart {ECO:0000313|EMBL:BAE27584.1};
+RA   Arakawa T., Carninci P., Fukuda S., Hashizume W., Hayashida K.,
+RA   Hori F., Iida J., Imamura K., Imotani K., Itoh M., Kanagawa S.,
+RA   Kawai J., Kojima M., Konno H., Murata M., Nakamura M., Ninomiya N.,
+RA   Nishiyori H., Nomura K., Ohno M., Sakazume N., Sano H., Sasaki D.,
+RA   Shibata K., Shiraki T., Tagami M., Tagami Y., Waki K., Watahiki A.,
+RA   Muramatsu M., Hayashizaki Y.;
+RL   Submitted (MAR-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [7] {ECO:0000313|EMBL:BAE27584.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=C57BL/6J {ECO:0000313|EMBL:BAE27584.1};
+RC   TISSUE=Heart {ECO:0000313|EMBL:BAE27584.1};
+RG   The FANTOM Consortium;
+RG   Riken Genome Exploration Research Group and Genome Science Group (Genome Network Project Core Group);
+RT   "The Transcriptional Landscape of the Mammalian Genome.";
+RL   Science 309:1559-1563(2005).
+RN   [8] {ECO:0000313|EMBL:BAE27584.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=C57BL/6J {ECO:0000313|EMBL:BAE27584.1};
+RC   TISSUE=Heart {ECO:0000313|EMBL:BAE27584.1};
+RX   PubMed=16141073; DOI=10.1126/science.1112009;
+RG   RIKEN Genome Exploration Research Group and Genome Science Group (Genome Network Project Core Group) and the FANTOM Consortium;
+RT   "Antisense Transcription in the Mammalian Transcriptome.";
+RL   Science 309:1564-1566(2005).
+CC   -!- FUNCTION: Cadherins are calcium-dependent cell adhesion proteins.
+CC       {ECO:0000256|RuleBase:RU004357}.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane; Single-pass type I membrane
+CC       protein.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AK146981; BAE27584.1; -; mRNA.
+DR   RefSeq; NP_031690.3; NM_007664.4.
+DR   UniGene; Mm.257437; -.
+DR   ProteinModelPortal; Q3UIC2; -.
+DR   SMR; Q3UIC2; 24-374, 836-901.
+DR   STRING; 10090.ENSMUSP00000025166; -.
+DR   PRIDE; Q3UIC2; -.
+DR   GeneID; 12558; -.
+DR   KEGG; mmu:12558; -.
+DR   CTD; 1000; -.
+DR   MGI; MGI:88355; Cdh2.
+DR   HOVERGEN; HBG106438; -.
+DR   KO; K06736; -.
+DR   NextBio; 281622; -.
+DR   PMAP-CutDB; Q3UIC2; -.
+DR   Genevisible; Q3UIC2; MM.
+DR   GO; GO:0005912; C:adherens junction; IDA:MGI.
+DR   GO; GO:0016324; C:apical plasma membrane; IDA:MGI.
+DR   GO; GO:0016323; C:basolateral plasma membrane; IDA:MGI.
+DR   GO; GO:0016342; C:catenin complex; ISO:MGI.
+DR   GO; GO:0005913; C:cell-cell adherens junction; ISO:MGI.
+DR   GO; GO:0005911; C:cell-cell junction; IDA:MGI.
+DR   GO; GO:0070062; C:extracellular exosome; ISO:MGI.
+DR   GO; GO:0005916; C:fascia adherens; IDA:MGI.
+DR   GO; GO:0005925; C:focal adhesion; ISO:MGI.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0030027; C:lamellipodium; IDA:MGI.
+DR   GO; GO:0016020; C:membrane; ISO:MGI.
+DR   GO; GO:0045202; C:synapse; IDA:MGI.
+DR   GO; GO:0045294; F:alpha-catenin binding; ISO:MGI.
+DR   GO; GO:0005509; F:calcium ion binding; IEA:InterPro.
+DR   GO; GO:0045295; F:gamma-catenin binding; ISO:MGI.
+DR   GO; GO:0048514; P:blood vessel morphogenesis; IMP:MGI.
+DR   GO; GO:0016339; P:calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules; IDA:MGI.
+DR   GO; GO:0007155; P:cell adhesion; IDA:MGI.
+DR   GO; GO:0016477; P:cell migration; IDA:MGI.
+DR   GO; GO:0007157; P:heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules; IDA:MGI.
+DR   GO; GO:0007156; P:homophilic cell adhesion via plasma membrane adhesion molecules; IDA:MGI.
+DR   GO; GO:0090090; P:negative regulation of canonical Wnt signaling pathway; IGI:MGI.
+DR   GO; GO:0043410; P:positive regulation of MAPK cascade; IGI:MGI.
+DR   GO; GO:0051146; P:striated muscle cell differentiation; IGI:MGI.
+DR   Gene3D; 2.60.40.60; -; 6.
+DR   Gene3D; 4.10.900.10; -; 1.
+DR   InterPro; IPR002126; Cadherin.
+DR   InterPro; IPR015919; Cadherin-like.
+DR   InterPro; IPR020894; Cadherin_CS.
+DR   InterPro; IPR000233; Cadherin_cytoplasmic-dom.
+DR   InterPro; IPR014868; Cadherin_pro_dom.
+DR   InterPro; IPR027397; Catenin_binding_dom.
+DR   InterPro; IPR030051; CDH2.
+DR   PANTHER; PTHR24027:SF79; PTHR24027:SF79; 1.
+DR   Pfam; PF00028; Cadherin; 5.
+DR   Pfam; PF01049; Cadherin_C; 1.
+DR   Pfam; PF08758; Cadherin_pro; 1.
+DR   PRINTS; PR00205; CADHERIN.
+DR   SMART; SM00112; CA; 5.
+DR   SMART; SM01055; Cadherin_pro; 1.
+DR   SUPFAM; SSF49313; SSF49313; 6.
+DR   PROSITE; PS00232; CADHERIN_1; 3.
+DR   PROSITE; PS50268; CADHERIN_2; 5.
+PE   2: Evidence at transcript level;
+KW   Calcium {ECO:0000256|RuleBase:RU000484,
+KW   ECO:0000256|SAAS:SAAS00167235};
+KW   Cell adhesion {ECO:0000256|RuleBase:RU003318,
+KW   ECO:0000256|SAAS:SAAS00226312};
+KW   Cell membrane {ECO:0000256|SAAS:SAAS00020203};
+KW   Membrane {ECO:0000256|SAAS:SAAS00020203,
+KW   ECO:0000256|SAAS:SAAS00212405};
+KW   Repeat {ECO:0000256|SAAS:SAAS00226229};
+KW   Transmembrane {ECO:0000256|SAAS:SAAS00212405};
+KW   Transmembrane helix {ECO:0000256|SAAS:SAAS00212405}.
+SQ   SEQUENCE   906 AA;  99808 MW;  A52D780CDBFC3434 CRC64;
+     MCRIAGAPRT LLPLLAALLQ ASVEASGEIA LCKTGFPEDV YSAVLPKDVH EGQPLLNVKF
+     SNCNRKRKVQ YESSEPADFK VDEDGTVYAV RSFPLTAEQA KFLIYAQDKE TQEKWQVAVN
+     LSREPTLTEE PMKEPHEIEE IVFPRQLAKH SGALQRQKRD WVIPPINLPE NSRGPFPQEL
+     VRIRSDRDKN LSLRYSVTGP GADQPPTGIF IINPISGQLS VTKPLDRELI ARFHLRAHAV
+     DINGNQVENP IDIVINVIDM NDNRPEFLHQ VWNGSVPEGS KPGTYVMTVT AIDADDPNAL
+     NGMLRYRILS QAPSTPSPNM FTINNETGDI ITVAAGLDRE KVQQYTLIIQ ATDMEGNPTY
+     GLSNTATAVI TVTDVNDNPP EFTAMTFYGE VPENRVDVIV ANLTVTDKDQ PHTPAWNAAY
+     RISGGDPTGR FAILTDPNSN DGLVTVVKPI DFETNRMFVL TVAAENQVPL AKGIQHPPQS
+     TATVSVTVID VNENPYFAPN PKIIRQEEGL HAGTMLTTLT AQDPDRYMQQ NIRYTKLSDP
+     ANWLKIDPVN GQITTIAVLD RESPNVKNNI YNATFLASDN GIPPMSGTGT LQIYLLDIND
+     NAPQVLPQEA ETCETPEPNS INITALDYDI DPNAGPFAFD LSLCSVTIKR NWTINRLNGD
+     FAQLNLKIKF LEAGIYEVPI IITDSGNPPK SNISILRVKV CQCDSNGDCT DVDRIVGAGL
+     GTGAIIAILL CIIILLILVL MFVVWMKRRD KERQAKQLLI DPEDDVRDNI LKYDEEGGGE
+     EDQDYDLSQL QQPDTVEPDA IKPVGIRRLD ERPIHAEPQY PVRSAAPHPG DIGDFINEGL
+     KSADNDPTAP PYDSLLVFDY EGSGSTAGSL SSLNSSSSGG DQDYDYLNDW GPRFKKLADM
+     YGGGDD
+//

@@ -1,0 +1,254 @@
+ID   ARHL2_MOUSE             Reviewed;         370 AA.
+AC   Q8CG72; A3KFY3; Q80UW9; Q8R575; Q921U6;
+DT   06-FEB-2007, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAR-2003, sequence version 1.
+DT   22-JUL-2015, entry version 100.
+DE   RecName: Full=Poly(ADP-ribose) glycohydrolase ARH3;
+DE            EC=3.2.1.143;
+DE   AltName: Full=ADP-ribosylhydrolase 3;
+DE   AltName: Full=[Protein ADP-ribosylarginine] hydrolase-like protein 2;
+DE   Flags: Precursor;
+GN   Name=Adprhl2; Synonyms=Arh3;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RC   STRAIN=C57BL/6J;
+RX   PubMed=12070318; DOI=10.1110/ps.0200602;
+RA   Glowacki G., Braren R., Firner K., Nissen M., Kuehl M., Reche P.,
+RA   Bazan J.F., Cetkovic-Cvrlje M., Leiter E., Haag F., Koch-Nolte F.;
+RT   "The family of toxin-related ecto-ADP-ribosyltransferases in humans
+RT   and the mouse.";
+RL   Protein Sci. 11:1657-1670(2002).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   STRAIN=C57BL/6J, and NOD; TISSUE=Kidney, Liver, and Spleen;
+RX   PubMed=16141072; DOI=10.1126/science.1112014;
+RA   Carninci P., Kasukawa T., Katayama S., Gough J., Frith M.C., Maeda N.,
+RA   Oyama R., Ravasi T., Lenhard B., Wells C., Kodzius R., Shimokawa K.,
+RA   Bajic V.B., Brenner S.E., Batalov S., Forrest A.R., Zavolan M.,
+RA   Davis M.J., Wilming L.G., Aidinis V., Allen J.E.,
+RA   Ambesi-Impiombato A., Apweiler R., Aturaliya R.N., Bailey T.L.,
+RA   Bansal M., Baxter L., Beisel K.W., Bersano T., Bono H., Chalk A.M.,
+RA   Chiu K.P., Choudhary V., Christoffels A., Clutterbuck D.R.,
+RA   Crowe M.L., Dalla E., Dalrymple B.P., de Bono B., Della Gatta G.,
+RA   di Bernardo D., Down T., Engstrom P., Fagiolini M., Faulkner G.,
+RA   Fletcher C.F., Fukushima T., Furuno M., Futaki S., Gariboldi M.,
+RA   Georgii-Hemming P., Gingeras T.R., Gojobori T., Green R.E.,
+RA   Gustincich S., Harbers M., Hayashi Y., Hensch T.K., Hirokawa N.,
+RA   Hill D., Huminiecki L., Iacono M., Ikeo K., Iwama A., Ishikawa T.,
+RA   Jakt M., Kanapin A., Katoh M., Kawasawa Y., Kelso J., Kitamura H.,
+RA   Kitano H., Kollias G., Krishnan S.P., Kruger A., Kummerfeld S.K.,
+RA   Kurochkin I.V., Lareau L.F., Lazarevic D., Lipovich L., Liu J.,
+RA   Liuni S., McWilliam S., Madan Babu M., Madera M., Marchionni L.,
+RA   Matsuda H., Matsuzawa S., Miki H., Mignone F., Miyake S., Morris K.,
+RA   Mottagui-Tabar S., Mulder N., Nakano N., Nakauchi H., Ng P.,
+RA   Nilsson R., Nishiguchi S., Nishikawa S., Nori F., Ohara O.,
+RA   Okazaki Y., Orlando V., Pang K.C., Pavan W.J., Pavesi G., Pesole G.,
+RA   Petrovsky N., Piazza S., Reed J., Reid J.F., Ring B.Z., Ringwald M.,
+RA   Rost B., Ruan Y., Salzberg S.L., Sandelin A., Schneider C.,
+RA   Schoenbach C., Sekiguchi K., Semple C.A., Seno S., Sessa L., Sheng Y.,
+RA   Shibata Y., Shimada H., Shimada K., Silva D., Sinclair B.,
+RA   Sperling S., Stupka E., Sugiura K., Sultana R., Takenaka Y., Taki K.,
+RA   Tammoja K., Tan S.L., Tang S., Taylor M.S., Tegner J., Teichmann S.A.,
+RA   Ueda H.R., van Nimwegen E., Verardo R., Wei C.L., Yagi K.,
+RA   Yamanishi H., Zabarovsky E., Zhu S., Zimmer A., Hide W., Bult C.,
+RA   Grimmond S.M., Teasdale R.D., Liu E.T., Brusic V., Quackenbush J.,
+RA   Wahlestedt C., Mattick J.S., Hume D.A., Kai C., Sasaki D., Tomaru Y.,
+RA   Fukuda S., Kanamori-Katayama M., Suzuki M., Aoki J., Arakawa T.,
+RA   Iida J., Imamura K., Itoh M., Kato T., Kawaji H., Kawagashira N.,
+RA   Kawashima T., Kojima M., Kondo S., Konno H., Nakano K., Ninomiya N.,
+RA   Nishio T., Okada M., Plessy C., Shibata K., Shiraki T., Suzuki S.,
+RA   Tagami M., Waki K., Watahiki A., Okamura-Oho Y., Suzuki H., Kawai J.,
+RA   Hayashizaki Y.;
+RT   "The transcriptional landscape of the mammalian genome.";
+RL   Science 309:1559-1563(2005).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=C57BL/6J;
+RX   PubMed=19468303; DOI=10.1371/journal.pbio.1000112;
+RA   Church D.M., Goodstadt L., Hillier L.W., Zody M.C., Goldstein S.,
+RA   She X., Bult C.J., Agarwala R., Cherry J.L., DiCuccio M., Hlavina W.,
+RA   Kapustin Y., Meric P., Maglott D., Birtle Z., Marques A.C., Graves T.,
+RA   Zhou S., Teague B., Potamousis K., Churas C., Place M., Herschleb J.,
+RA   Runnheim R., Forrest D., Amos-Landgraf J., Schwartz D.C., Cheng Z.,
+RA   Lindblad-Toh K., Eichler E.E., Ponting C.P.;
+RT   "Lineage-specific biology revealed by a finished genome assembly of
+RT   the mouse.";
+RL   PLoS Biol. 7:E1000112-E1000112(2009).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2).
+RC   STRAIN=FVB/N-3; TISSUE=Mammary gland;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   SUBCELLULAR LOCATION, AND TISSUE SPECIFICITY.
+RX   PubMed=16278211; DOI=10.1074/jbc.M510290200;
+RA   Oka S., Kato J., Moss J.;
+RT   "Identification and characterization of a mammalian 39-kDa poly(ADP-
+RT   ribose) glycohydrolase.";
+RL   J. Biol. Chem. 281:705-713(2006).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS) OF 25-369, SUBUNIT, COFACTOR,
+RP   AND MAGNESIUM-BINDING SITES.
+RX   PubMed=18323597; DOI=10.1107/S1744309108001413;
+RA   Mueller-Dieckmann C., Kernstock S., Mueller-Dieckmann J., Weiss M.S.,
+RA   Koch-Nolte F.;
+RT   "Structure of mouse ADP-ribosylhydrolase 3 (mARH3).";
+RL   Acta Crystallogr. F 64:156-162(2008).
+CC   -!- FUNCTION: Poly(ADP-ribose) synthesized after DNA damage is only
+CC       present transiently and is rapidly degraded by poly(ADP-ribose)
+CC       glycohydrolase. Poly(ADP-ribose) metabolism may be required for
+CC       maintenance of the normal function of neuronal cells. Generates
+CC       ADP-ribose from poly-(ADP-ribose), but does not hydrolyze ADP-
+CC       ribose-arginine, -cysteine, -diphthamide, or -asparagine bonds.
+CC       Due to catalytic inactivity of PARG mitochondrial isoforms, ARH3
+CC       is the only PAR hydrolyzing enzyme in mitochondria (By
+CC       similarity). {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Hydrolyzes poly(ADP-D-ribose) at glycosidic
+CC       (1''-2') linkage of ribose-ribose bond to produce free ADP-D-
+CC       ribose.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000269|PubMed:18323597};
+CC       Note=Binds 2 magnesium ions per subunit.
+CC       {ECO:0000269|PubMed:18323597};
+CC   -!- SUBUNIT: Monomer. {ECO:0000269|PubMed:18323597}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:16278211}.
+CC       Mitochondrion matrix {ECO:0000250}. Nucleus
+CC       {ECO:0000269|PubMed:16278211}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q8CG72-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q8CG72-2; Sequence=VSP_023037;
+CC   -!- TISSUE SPECIFICITY: Ubiquitous. {ECO:0000269|PubMed:16278211}.
+CC   -!- SIMILARITY: Belongs to the ADP-ribosylglycohydrolase family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AJ427296; CAD20317.1; -; mRNA.
+DR   EMBL; AK143583; BAE25451.1; -; mRNA.
+DR   EMBL; AK147034; BAE27626.1; -; mRNA.
+DR   EMBL; AK169070; BAE40857.1; -; mRNA.
+DR   EMBL; AK171780; BAE42660.1; -; mRNA.
+DR   EMBL; AL606976; CAM45877.1; -; Genomic_DNA.
+DR   EMBL; BC010639; AAH10639.1; -; mRNA.
+DR   EMBL; BC023177; AAH23177.2; -; mRNA.
+DR   EMBL; BC045203; AAH45203.1; -; mRNA.
+DR   CCDS; CCDS18650.1; -. [Q8CG72-1]
+DR   RefSeq; NP_598644.1; NM_133883.2. [Q8CG72-1]
+DR   UniGene; Mm.11285; -.
+DR   PDB; 2QTY; X-ray; 1.80 A; A/B=25-369.
+DR   PDBsum; 2QTY; -.
+DR   ProteinModelPortal; Q8CG72; -.
+DR   SMR; Q8CG72; 25-369.
+DR   IntAct; Q8CG72; 1.
+DR   MINT; MINT-4383260; -.
+DR   STRING; 10090.ENSMUSP00000099677; -.
+DR   PhosphoSite; Q8CG72; -.
+DR   MaxQB; Q8CG72; -.
+DR   PaxDb; Q8CG72; -.
+DR   PRIDE; Q8CG72; -.
+DR   Ensembl; ENSMUST00000102617; ENSMUSP00000099677; ENSMUSG00000042558. [Q8CG72-1]
+DR   GeneID; 100206; -.
+DR   KEGG; mmu:100206; -.
+DR   UCSC; uc008ute.1; mouse. [Q8CG72-1]
+DR   CTD; 54936; -.
+DR   MGI; MGI:2140364; Adprhl2.
+DR   eggNOG; COG1397; -.
+DR   GeneTree; ENSGT00390000015369; -.
+DR   HOGENOM; HOG000225333; -.
+DR   HOVERGEN; HBG080863; -.
+DR   InParanoid; Q8CG72; -.
+DR   KO; K11687; -.
+DR   OMA; KCRDVYE; -.
+DR   OrthoDB; EOG7D2FFB; -.
+DR   PhylomeDB; Q8CG72; -.
+DR   TreeFam; TF324754; -.
+DR   BRENDA; 3.2.1.143; 3474.
+DR   EvolutionaryTrace; Q8CG72; -.
+DR   NextBio; 354321; -.
+DR   PRO; PR:Q8CG72; -.
+DR   Proteomes; UP000000589; Chromosome 4.
+DR   Bgee; Q8CG72; -.
+DR   CleanEx; MM_ADPRHL2; -.
+DR   Genevisible; Q8CG72; MM.
+DR   GO; GO:0005737; C:cytoplasm; IDA:MGI.
+DR   GO; GO:0005759; C:mitochondrial matrix; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005739; C:mitochondrion; IDA:MGI.
+DR   GO; GO:0005654; C:nucleoplasm; ISO:MGI.
+DR   GO; GO:0005634; C:nucleus; IDA:MGI.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004649; F:poly(ADP-ribose) glycohydrolase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0071451; P:cellular response to superoxide; IMP:MGI.
+DR   InterPro; IPR005502; Ribosyl_crysJ1.
+DR   Pfam; PF03747; ADP_ribosyl_GH; 1.
+DR   SUPFAM; SSF101478; SSF101478; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Complete proteome; Cytoplasm;
+KW   Hydrolase; Magnesium; Metal-binding; Mitochondrion; Nucleus;
+KW   Reference proteome; Transit peptide.
+FT   TRANSIT       1     33       Mitochondrion. {ECO:0000255}.
+FT   CHAIN        34    370       Poly(ADP-ribose) glycohydrolase ARH3.
+FT                                /FTId=PRO_0000277614.
+FT   COMPBIAS      2     11       Poly-Ala.
+FT   COMPBIAS     16     19       Poly-Gly.
+FT   METAL        47     47       Magnesium 2.
+FT   METAL        82     82       Magnesium 1.
+FT   METAL        83     83       Magnesium 1.
+FT   METAL        84     84       Magnesium 1.
+FT   METAL       320    320       Magnesium 2.
+FT   METAL       322    322       Magnesium 1.
+FT   METAL       322    322       Magnesium 2.
+FT   METAL       323    323       Magnesium 2.
+FT   BINDING     260    260       Substrate. {ECO:0000250}.
+FT   VAR_SEQ       1     86       Missing (in isoform 2).
+FT                                {ECO:0000303|PubMed:15489334}.
+FT                                /FTId=VSP_023037.
+FT   CONFLICT     77     77       E -> Q (in Ref. 4; AAH23177).
+FT                                {ECO:0000305}.
+FT   HELIX        25     43       {ECO:0000244|PDB:2QTY}.
+FT   HELIX        44     46       {ECO:0000244|PDB:2QTY}.
+FT   HELIX        54     62       {ECO:0000244|PDB:2QTY}.
+FT   HELIX        83     98       {ECO:0000244|PDB:2QTY}.
+FT   HELIX       103    116       {ECO:0000244|PDB:2QTY}.
+FT   TURN        118    121       {ECO:0000244|PDB:2QTY}.
+FT   HELIX       124    133       {ECO:0000244|PDB:2QTY}.
+FT   HELIX       143    146       {ECO:0000244|PDB:2QTY}.
+FT   HELIX       148    151       {ECO:0000244|PDB:2QTY}.
+FT   HELIX       158    161       {ECO:0000244|PDB:2QTY}.
+FT   HELIX       164    169       {ECO:0000244|PDB:2QTY}.
+FT   HELIX       173    185       {ECO:0000244|PDB:2QTY}.
+FT   HELIX       191    209       {ECO:0000244|PDB:2QTY}.
+FT   HELIX       214    228       {ECO:0000244|PDB:2QTY}.
+FT   HELIX       232    239       {ECO:0000244|PDB:2QTY}.
+FT   TURN        240    242       {ECO:0000244|PDB:2QTY}.
+FT   HELIX       247    259       {ECO:0000244|PDB:2QTY}.
+FT   HELIX       266    273       {ECO:0000244|PDB:2QTY}.
+FT   STRAND      276    278       {ECO:0000244|PDB:2QTY}.
+FT   HELIX       279    281       {ECO:0000244|PDB:2QTY}.
+FT   HELIX       283    292       {ECO:0000244|PDB:2QTY}.
+FT   HELIX       306    315       {ECO:0000244|PDB:2QTY}.
+FT   HELIX       321    336       {ECO:0000244|PDB:2QTY}.
+FT   HELIX       338    340       {ECO:0000244|PDB:2QTY}.
+FT   HELIX       343    346       {ECO:0000244|PDB:2QTY}.
+FT   HELIX       352    366       {ECO:0000244|PDB:2QTY}.
+SQ   SEQUENCE   370 AA;  39414 MW;  3251113C67432A8D CRC64;
+     MAVAAAAAAT AMSAAGGGGA SAARSISRFR GCLAGALLGD CVGAVYEAHD TVSLASVLSH
+     VESLEPDPGT PGSARTETLY YTDDTAMTRA LVQSLLAKEA FDEVDMAHRF AQEYKKDPDR
+     GYGAGVITVF KKLLNPKCRD VYEPARAQFN GKGSYGNGGA MRVAGISLAY SSVQDVQKFA
+     RLSAQLTHAS SLGYNGAILQ ALAVHLALQG VSSSEHFLEQ LLGHMEELEG DAQSVLDAKE
+     LGMEERPYSS RLKKVGELLD QDVVSREEVV SELGNGIAAF ESVPTAIYCF LRCMEPHPEI
+     PSTFNSLQRT LIYSISLGGD TDTIATMAGA IAGAYYGMEQ VPESWQQSCE GFEETDVLAQ
+     SLHRVFQESS
+//

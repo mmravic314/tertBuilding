@@ -1,0 +1,51 @@
+ID   Q65AT0_9SPHN            Unreviewed;       174 AA.
+AC   Q65AT0;
+DT   25-OCT-2004, integrated into UniProtKB/TrEMBL.
+DT   25-OCT-2004, sequence version 1.
+DT   07-JAN-2015, entry version 33.
+DE   SubName: Full=Ring-hydroxylating dioxygenase beta subunit {ECO:0000313|EMBL:CAG17577.1};
+GN   Name=phnA2a {ECO:0000313|EMBL:CAG17577.1};
+OS   Sphingomonas sp. CHY-1.
+OC   Bacteria; Proteobacteria; Alphaproteobacteria; Sphingomonadales;
+OC   Sphingomonadaceae; Sphingomonas.
+OX   NCBI_TaxID=279135 {ECO:0000313|EMBL:CAG17577.1};
+RN   [1] {ECO:0000313|EMBL:CAG17577.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=CHY-1 {ECO:0000313|EMBL:CAG17577.1};
+RX   PubMed=15528538; DOI=10.1128/AEM.70.11.6714-6725.2004;
+RA   Demaneche S., Meyer C., Micoud J., Louwagie M., Willison J.C.,
+RA   Jouanneau Y.;
+RT   "Identification and functional analysis of two aromatic-ring-
+RT   hydroxylating dioxygenases from a sphingomonas strain that degrades
+RT   various polycyclic aromatic hydrocarbons.";
+RL   Appl. Environ. Microbiol. 70:6714-6725(2004).
+RN   [2] {ECO:0000213|PDB:2CKF}
+RP   X-RAY CRYSTALLOGRAPHY (1.85 ANGSTROMS).
+RX   PubMed=17157819; DOI=10.1016/j.bbrc.2006.11.117;
+RA   Jakoncic J., Jouanneau Y., Meyer C., Stojanoff V.;
+RT   "The catalytic pocket of the ring-hydroxylating dioxygenase from
+RT   Sphingomonas CHY-1.";
+RL   Biochem. Biophys. Res. Commun. 352:861-866(2007).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AJ633551; CAG17577.1; -; Genomic_DNA.
+DR   PDB; 2CKF; X-ray; 1.85 A; B/D/F=1-174.
+DR   PDBsum; 2CKF; -.
+DR   ProteinModelPortal; Q65AT0; -.
+DR   SMR; Q65AT0; 5-174.
+DR   EvolutionaryTrace; Q65AT0; -.
+DR   GO; GO:0051213; F:dioxygenase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0006725; P:cellular aromatic compound metabolic process; IEA:InterPro.
+DR   InterPro; IPR000391; Rng_hydr_dOase-bsu.
+DR   Pfam; PF00866; Ring_hydroxyl_B; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2CKF};
+KW   Dioxygenase {ECO:0000313|EMBL:CAG17577.1};
+KW   Oxidoreductase {ECO:0000313|EMBL:CAG17577.1}.
+SQ   SEQUENCE   174 AA;  20804 MW;  D1A1901AED1D03E0 CRC64;
+     MSTEQVPVTP DVHYAVEAHY RAEVRLLQTG QYREWLHGMV AEDIHYWMPI YEQRFVRDRR
+     PDPTPDDAAI YNDDFEELKQ RVERLYSGQV WMEDPPSKIR YFVSNVEAFE AENGELDVLS
+     NILVYRNRRQ TEVTVHTLGR EDKLRQDGNG FKVFRRKLIL DARVTQDKNL YFFC
+//

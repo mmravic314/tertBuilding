@@ -1,0 +1,89 @@
+ID   Q9HYA2_PSEAE            Unreviewed;       265 AA.
+AC   Q9HYA2;
+DT   01-MAR-2001, integrated into UniProtKB/TrEMBL.
+DT   01-MAR-2001, sequence version 1.
+DT   27-MAY-2015, entry version 94.
+DE   SubName: Full=Probable short-chain dehydrogenase {ECO:0000313|EMBL:AAG06895.1};
+GN   OrderedLocusNames=PA3507 {ECO:0000313|EMBL:AAG06895.1};
+OS   Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG
+OS   12228).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+OC   Pseudomonadaceae; Pseudomonas.
+OX   NCBI_TaxID=208964 {ECO:0000313|EMBL:AAG06895.1, ECO:0000313|Proteomes:UP000002438};
+RN   [1] {ECO:0000313|EMBL:AAG06895.1, ECO:0000313|Proteomes:UP000002438}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228
+RC   {ECO:0000313|Proteomes:UP000002438};
+RX   PubMed=10984043; DOI=10.1038/35023079;
+RA   Stover C.K., Pham X.-Q.T., Erwin A.L., Mizoguchi S.D., Warrener P.,
+RA   Hickey M.J., Brinkman F.S.L., Hufnagle W.O., Kowalik D.J., Lagrou M.,
+RA   Garber R.L., Goltry L., Tolentino E., Westbrock-Wadman S., Yuan Y.,
+RA   Brody L.L., Coulter S.N., Folger K.R., Kas A., Larbig K., Lim R.M.,
+RA   Smith K.A., Spencer D.H., Wong G.K.-S., Wu Z., Paulsen I.T.,
+RA   Reizer J., Saier M.H. Jr., Hancock R.E.W., Lory S., Olson M.V.;
+RT   "Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+RT   opportunistic pathogen.";
+RL   Nature 406:959-964(2000).
+RN   [2] {ECO:0000213|PDB:3LF1, ECO:0000213|PDB:3LF2}
+RP   X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) IN COMPLEX WITH MANGANESE AND
+RP   NADP.
+RX   PubMed=20340135; DOI=10.1002/pro.384;
+RA   Huether R., Mao Q., Duax W.L., Umland T.C.;
+RT   "The short-chain oxidoreductase Q9HYA2 from Pseudomonas aeruginosa
+RT   PAO1 contains an atypical catalytic center.";
+RL   Protein Sci. 19:1097-1103(2010).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE004091; AAG06895.1; -; Genomic_DNA.
+DR   PIR; A83207; A83207.
+DR   RefSeq; NP_252197.1; NC_002516.2.
+DR   RefSeq; WP_003112903.1; NC_002516.2.
+DR   PDB; 3LF1; X-ray; 2.31 A; A/B=1-265.
+DR   PDB; 3LF2; X-ray; 2.30 A; A/B/C/D=1-265.
+DR   PDBsum; 3LF1; -.
+DR   PDBsum; 3LF2; -.
+DR   ProteinModelPortal; Q9HYA2; -.
+DR   SMR; Q9HYA2; 3-265.
+DR   STRING; 208964.PA3507; -.
+DR   DNASU; 879158; -.
+DR   EnsemblBacteria; AAG06895; AAG06895; PA3507.
+DR   GeneID; 879158; -.
+DR   KEGG; pae:PA3507; -.
+DR   PATRIC; 19841627; VBIPseAer58763_3671.
+DR   PseudoCAP; PA3507; -.
+DR   InParanoid; Q9HYA2; -.
+DR   OMA; GRISTFE; -.
+DR   OrthoDB; EOG6N3CR8; -.
+DR   EvolutionaryTrace; Q9HYA2; -.
+DR   Proteomes; UP000002438; Chromosome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000166; F:nucleotide binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016491; F:oxidoreductase activity; IEA:InterPro.
+DR   Gene3D; 3.40.50.720; -; 1.
+DR   InterPro; IPR002198; DH_sc/Rdtase_SDR.
+DR   InterPro; IPR002347; Glc/ribitol_DH.
+DR   InterPro; IPR016040; NAD(P)-bd_dom.
+DR   Pfam; PF00106; adh_short; 1.
+DR   PRINTS; PR00081; GDHRDH.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3LF1, ECO:0000213|PDB:3LF2};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002438};
+KW   Manganese {ECO:0000213|PDB:3LF1};
+KW   Metal-binding {ECO:0000213|PDB:3LF1}; NADP {ECO:0000213|PDB:3LF2};
+KW   Nucleotide-binding {ECO:0000213|PDB:3LF2};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000002438}.
+FT   NP_BIND      17     18       NADP. {ECO:0000213|PDB:3LF2}.
+FT   NP_BIND      40     44       NADP. {ECO:0000213|PDB:3LF2}.
+FT   NP_BIND      67     68       NADP. {ECO:0000213|PDB:3LF2}.
+FT   METAL        79     79       Manganese. {ECO:0000213|PDB:3LF1}.
+FT   METAL        82     82       Manganese. {ECO:0000213|PDB:3LF1}.
+FT   BINDING      97     97       NADP. {ECO:0000213|PDB:3LF2}.
+SQ   SEQUENCE   265 AA;  28489 MW;  693F25C651B7001A CRC64;
+     MKPYDLSEAV AVVTGGSSGI GLATVELLLE AGAAVAFCAR DGERLRAAES ALRQRFPGAR
+     LFASVCDVLD ALQVRAFAEA CERTLGCASI LVNNAGQGRV STFAETTDEA WSEELQLKFF
+     SVIHPVRAFL PQLESRADAA IVCVNSLLAS QPEPHMVATS AARAGVKNLV RSMAFEFAPK
+     GVRVNGILIG LVESGQWRRR FEAREERELD WAQWTAQLAR NKQIPLGRLG KPIEAARAIL
+     FLASPLSAYT TGSHIDVSGG LSRHA
+//

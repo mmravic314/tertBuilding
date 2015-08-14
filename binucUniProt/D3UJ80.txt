@@ -1,0 +1,182 @@
+ID   D3UJ80_HELM1            Unreviewed;       568 AA.
+AC   D3UJ80;
+DT   20-APR-2010, integrated into UniProtKB/TrEMBL.
+DT   20-APR-2010, sequence version 1.
+DT   22-JUL-2015, entry version 46.
+DE   RecName: Full=Urease subunit beta {ECO:0000256|HAMAP-Rule:MF_01953};
+DE            EC=3.5.1.5 {ECO:0000256|HAMAP-Rule:MF_01953, ECO:0000313|EMBL:CBG40555.1};
+DE   AltName: Full=Urea amidohydrolase subunit beta {ECO:0000256|HAMAP-Rule:MF_01953};
+GN   Name=ureB {ECO:0000256|HAMAP-Rule:MF_01953};
+GN   Synonyms=ureB2 {ECO:0000313|EMBL:CBG40555.1};
+GN   OrderedLocusNames=HMU13010 {ECO:0000313|EMBL:CBG40555.1};
+OS   Helicobacter mustelae (strain ATCC 43772 / LMG 18044 / NCTC 12198 /
+OS   12198) (Campylobacter mustelae).
+OC   Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales;
+OC   Helicobacteraceae; Helicobacter.
+OX   NCBI_TaxID=679897 {ECO:0000313|EMBL:CBG40555.1, ECO:0000313|Proteomes:UP000001522};
+RN   [1] {ECO:0000313|EMBL:CBG40555.1, ECO:0000313|Proteomes:UP000001522}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 43772 / LMG 18044 / NCTC 12198 / 12198
+RC   {ECO:0000313|Proteomes:UP000001522};
+RX   PubMed=20219135; DOI=10.1186/1471-2164-11-164;
+RA   O'Toole P.W., Snelling W.J., Canchaya C., Forde B.M., Hardie K.R.,
+RA   Josenhans C., Graham R.L., McMullan G., Parkhill J., Belda E.,
+RA   Bentley S.D.;
+RT   "Comparative genomics and proteomics of Helicobacter mustelae, an
+RT   ulcerogenic and carcinogenic gastric pathogen.";
+RL   BMC Genomics 11:164-164(2010).
+RN   [2] {ECO:0000213|PDB:3QGA, ECO:0000213|PDB:3QGK}
+RP   X-RAY CRYSTALLOGRAPHY (3.00 ANGSTROMS) IN COMPLEX WITH IRON.
+RX   PubMed=21788478; DOI=10.1073/pnas.1106915108;
+RA   Carter E.L., Tronrud D.E., Taber S.R., Karplus P.A., Hausinger R.P.;
+RT   "Iron-containing urease in a pathogenic bacterium.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 108:13095-13099(2011).
+CC   -!- CATALYTIC ACTIVITY: Urea + H(2)O = CO(2) + 2 NH(3).
+CC       {ECO:0000256|HAMAP-Rule:MF_01953, ECO:0000256|SAAS:SAAS00033826}.
+CC   -!- COFACTOR:
+CC       Name=Ni cation; Xref=ChEBI:CHEBI:25516;
+CC         Evidence={ECO:0000256|HAMAP-Rule:MF_01953};
+CC       Note=Binds 2 nickel ions per subunit. {ECO:0000256|HAMAP-
+CC       Rule:MF_01953};
+CC   -!- COFACTOR:
+CC       Name=Ni cation; Xref=ChEBI:CHEBI:25516;
+CC       Note=Binds 2 nickel ions per subunit.;
+CC   -!- COFACTOR:
+CC       Name=Ni(2+); Xref=ChEBI:CHEBI:49786;
+CC         Evidence={ECO:0000256|HAMAP-Rule:MF_01953};
+CC       Note=Binds 2 nickel ions per subunit. {ECO:0000256|HAMAP-
+CC       Rule:MF_01953};
+CC   -!- PATHWAY: Nitrogen metabolism; urea degradation; CO(2) and NH(3)
+CC       from urea (urease route): step 1/1. {ECO:0000256|HAMAP-
+CC       Rule:MF_01953, ECO:0000256|SAAS:SAAS00033851}.
+CC   -!- PATHWAY: Nitrogen metabolism; urea degradation; CO(2) and NH(3)
+CC       from urea (urease route): step 1/1.
+CC   -!- SUBUNIT: Heterohexamer of 3 UreA (alpha) and 3 UreB (beta)
+CC       subunits. {ECO:0000256|HAMAP-Rule:MF_01953}.
+CC   -!- INTERACTION:
+CC       D3UJ81:ureA2; NbExp=9; IntAct=EBI-6516810, EBI-6516829;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000256|HAMAP-Rule:MF_01953}.
+CC   -!- PTM: Carbamylation allows a single lysine to coordinate two nickel
+CC       ions. {ECO:0000256|HAMAP-Rule:MF_01953}.
+CC   -!- SIMILARITY: Belongs to the urease family. {ECO:0000256|HAMAP-
+CC       Rule:MF_01953, ECO:0000256|RuleBase:RU004158}.
+CC   -!- SIMILARITY: Contains 1 urease domain. {ECO:0000256|HAMAP-
+CC       Rule:MF_01953}.
+CC   -!- CAUTION: The orthologous protein is known as the alpha subunit
+CC       (UreC) in most other bacteria. {ECO:0000256|HAMAP-Rule:MF_01953}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; FN555004; CBG40555.1; -; Genomic_DNA.
+DR   RefSeq; WP_013023622.1; NC_013949.1.
+DR   PDB; 3QGA; X-ray; 3.00 A; C/F/I/L/O/R=1-568.
+DR   PDB; 3QGK; X-ray; 3.00 A; C/F/I/L/O/R=1-568.
+DR   PDBsum; 3QGA; -.
+DR   PDBsum; 3QGK; -.
+DR   ProteinModelPortal; D3UJ80; -.
+DR   DIP; DIP-60393N; -.
+DR   IntAct; D3UJ80; 1.
+DR   STRING; 679897.HMU13010; -.
+DR   MEROPS; M38.982; -.
+DR   EnsemblBacteria; CBG40555; CBG40555; HMU13010.
+DR   KEGG; hms:HMU13010; -.
+DR   PATRIC; 35380340; VBIHelMus149082_1559.
+DR   HOGENOM; HOG000075064; -.
+DR   KO; K01428; -.
+DR   OMA; WGLQVAL; -.
+DR   BioCyc; HMUS679897:GJBK-1334-MONOMER; -.
+DR   UniPathway; UPA00258; UER00370.
+DR   UniPathway; UPA00258; UER00370.
+DR   Proteomes; UP000001522; Chromosome.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0016151; F:nickel cation binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0009039; F:urease activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0043419; P:urea catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 2.30.40.10; -; 1.
+DR   HAMAP; MF_01953; Urease_alpha; 1.
+DR   InterPro; IPR006680; Amidohydro_1.
+DR   InterPro; IPR011059; Metal-dep_hydrolase_composite.
+DR   InterPro; IPR011612; Urease_alpha_N_dom.
+DR   InterPro; IPR005848; Urease_asu.
+DR   InterPro; IPR017951; Urease_asu_c.
+DR   Pfam; PF01979; Amidohydro_1; 1.
+DR   Pfam; PF00449; Urease_alpha; 1.
+DR   PRINTS; PR01752; UREASE.
+DR   SUPFAM; SSF51338; SSF51338; 2.
+DR   TIGRFAMs; TIGR01792; urease_alph; 1.
+DR   PROSITE; PS51368; UREASE_3; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3QGA, ECO:0000213|PDB:3QGK};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001522};
+KW   Cytoplasm {ECO:0000256|HAMAP-Rule:MF_01953,
+KW   ECO:0000256|SAAS:SAAS00222707};
+KW   Hydrolase {ECO:0000256|HAMAP-Rule:MF_01953,
+KW   ECO:0000256|SAAS:SAAS00033812};
+KW   Iron {ECO:0000213|PDB:3QGA, ECO:0000213|PDB:3QGK};
+KW   Metal-binding {ECO:0000213|PDB:3QGA, ECO:0000213|PDB:3QGK};
+KW   Nickel {ECO:0000256|HAMAP-Rule:MF_01953,
+KW   ECO:0000256|SAAS:SAAS00033862};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001522}.
+FT   DOMAIN      130    568       Urease. {ECO:0000256|HAMAP-
+FT                                Rule:MF_01953}.
+FT   ACT_SITE    321    321       Proton donor. {ECO:0000256|HAMAP-
+FT                                Rule:MF_01953}.
+FT   METAL       135    135       Iron 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3QGA,
+FT                                ECO:0000213|PDB:3QGK}.
+FT   METAL       135    135       Nickel 1; via tele nitrogen.
+FT                                {ECO:0000256|HAMAP-Rule:MF_01953}.
+FT   METAL       135    135       Nickel 2. {ECO:0000256|HAMAP-
+FT                                Rule:MF_01953}.
+FT   METAL       137    137       Iron 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3QGA,
+FT                                ECO:0000213|PDB:3QGK}.
+FT   METAL       137    137       Nickel 1; via tele nitrogen.
+FT                                {ECO:0000256|HAMAP-Rule:MF_01953}.
+FT   METAL       137    137       Nickel 2. {ECO:0000256|HAMAP-
+FT                                Rule:MF_01953}.
+FT   METAL       218    218       Iron 1. {ECO:0000213|PDB:3QGA,
+FT                                ECO:0000213|PDB:3QGK}.
+FT   METAL       218    218       Iron 2. {ECO:0000213|PDB:3QGA,
+FT                                ECO:0000213|PDB:3QGK}.
+FT   METAL       218    218       Nickel 1; via carbamate group.
+FT                                {ECO:0000256|HAMAP-Rule:MF_01953}.
+FT   METAL       218    218       Nickel 2; via carbamate group.
+FT                                {ECO:0000256|HAMAP-Rule:MF_01953}.
+FT   METAL       247    247       Iron 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3QGA,
+FT                                ECO:0000213|PDB:3QGK}.
+FT   METAL       247    247       Nickel 1. {ECO:0000256|HAMAP-
+FT                                Rule:MF_01953}.
+FT   METAL       247    247       Nickel 2; via pros nitrogen.
+FT                                {ECO:0000256|HAMAP-Rule:MF_01953}.
+FT   METAL       273    273       Iron 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3QGA,
+FT                                ECO:0000213|PDB:3QGK}.
+FT   METAL       273    273       Nickel 1. {ECO:0000256|HAMAP-
+FT                                Rule:MF_01953}.
+FT   METAL       273    273       Nickel 2; via tele nitrogen.
+FT                                {ECO:0000256|HAMAP-Rule:MF_01953}.
+FT   METAL       361    361       Iron 1. {ECO:0000213|PDB:3QGA,
+FT                                ECO:0000213|PDB:3QGK}.
+FT   METAL       361    361       Nickel 1. {ECO:0000256|HAMAP-
+FT                                Rule:MF_01953}.
+FT   METAL       361    361       Nickel 2. {ECO:0000256|HAMAP-
+FT                                Rule:MF_01953}.
+FT   BINDING     220    220       Substrate. {ECO:0000256|HAMAP-
+FT                                Rule:MF_01953}.
+FT   MOD_RES     218    218       N6-carboxylysine. {ECO:0000256|HAMAP-
+FT                                Rule:MF_01953}.
+SQ   SEQUENCE   568 AA;  61880 MW;  74E06B993A43824A CRC64;
+     MKMKRQEYVN TYGPTTGDKV RLGDTDLWAE VEHDYTVYGE ELKFGAGKTI REGMGQSNSP
+     DENTLDLVIT NALIIDYTGI YKADIGIKNG KIHGIGKAGN KDMQDGVTPH MVVGVGTEAL
+     AGEGMIITAG GIDSHTHFLS PQQFPTALAN GVTTMFGGGT GPVDGTNATT ITPGVWNLHR
+     MLRAAEEYGM NVGLLGKGNS SSRAQLVEQV KAGAIGFKLH EDWGTTPSAI DHCLSVADEY
+     DVQVCIHTDT VNEAGYVDDT LRAMNGRAIH AYHIEGAGGG HSPDVITMAG EVNILPSSTT
+     PTIPYTINTV AEHLDMLMTC HHLDKRIRED LQFSQSRIRP GSIAAEDTLH DMGVIAMTSS
+     DSQAMGRAGE VIPRTWQTAD KNKKEFGRLT EEKGDNDNFR IKRYISKYTI NPAITHGVSE
+     YIGSVEEGKI ADLVVWNPAF FGVKPKIIIK GGMVVFSEMG DSNASVPTPQ PVYYREMFGH
+     HGKAKFDTSI TFVSKVAYEN GIKEKLGLER KVLPVKNCRN VTKKDFKFNN TTAKITVNPE
+     TFEVFVNGKL CTSKPATEVA LASRYTFF
+//

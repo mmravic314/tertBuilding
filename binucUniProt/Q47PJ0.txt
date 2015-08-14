@@ -1,0 +1,138 @@
+ID   Q47PJ0_THEFY            Unreviewed;       944 AA.
+AC   Q47PJ0;
+DT   13-SEP-2005, integrated into UniProtKB/TrEMBL.
+DT   13-SEP-2005, sequence version 1.
+DT   22-JUL-2015, entry version 70.
+DE   SubName: Full=CRISPR-associated helicase, Cas3 family {ECO:0000313|EMBL:AAZ55629.1};
+GN   OrderedLocusNames=Tfu_1593 {ECO:0000313|EMBL:AAZ55629.1};
+OS   Thermobifida fusca (strain YX).
+OC   Bacteria; Actinobacteria; Streptosporangiales; Nocardiopsaceae;
+OC   Thermobifida.
+OX   NCBI_TaxID=269800 {ECO:0000313|EMBL:AAZ55629.1, ECO:0000313|Proteomes:UP000000434};
+RN   [1] {ECO:0000313|Proteomes:UP000000434}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=YX {ECO:0000313|Proteomes:UP000000434};
+RX   PubMed=17209016; DOI=10.1128/JB.01899-06;
+RA   Lykidis A., Mavromatis K., Ivanova N., Anderson I., Land M.,
+RA   DiBartolo G., Martinez M., Lapidus A., Lucas S., Copeland A.,
+RA   Richardson P., Wilson D.B., Kyrpides N.;
+RT   "Genome sequence and analysis of the soil cellulolytic actinomycete
+RT   Thermobifida fusca YX.";
+RL   J. Bacteriol. 189:2477-2486(2007).
+RN   [2] {ECO:0000213|PDB:4QQW, ECO:0000213|PDB:4QQX, ECO:0000213|PDB:4QQY}
+RP   X-RAY CRYSTALLOGRAPHY (2.66 ANGSTROMS) IN COMPLEX WITH ADP; ATP; ATP
+RP   ANALOG AND IRON.
+RX   PubMed=25132177;
+RA   Huo Y., Nam K.H., Ding F., Lee H., Wu L., Xiao Y., Farchione M.D.,
+RA   Zhou S., Rajashankar K., Kurinov I., Zhang R., Ke A.;
+RT   "Structures of CRISPR Cas3 offer mechanistic insights into Cascade-
+RT   activated DNA unwinding and degradation.";
+RL   Nat. Struct. Mol. Biol. 21:771-777(2014).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP000088; AAZ55629.1; -; Genomic_DNA.
+DR   PDB; 4QQW; X-ray; 2.66 A; A/C/E/G=1-944.
+DR   PDB; 4QQX; X-ray; 3.34 A; A/C/E/G=1-944.
+DR   PDB; 4QQY; X-ray; 3.12 A; A/C/E/G=1-944.
+DR   PDB; 4QQZ; X-ray; 2.93 A; A/C/E/G=1-944.
+DR   PDBsum; 4QQW; -.
+DR   PDBsum; 4QQX; -.
+DR   PDBsum; 4QQY; -.
+DR   PDBsum; 4QQZ; -.
+DR   ProteinModelPortal; Q47PJ0; -.
+DR   STRING; 269800.Tfu_1593; -.
+DR   EnsemblBacteria; AAZ55629; AAZ55629; Tfu_1593.
+DR   KEGG; tfu:Tfu_1593; -.
+DR   PATRIC; 23903778; VBITheFus33945_1720.
+DR   eggNOG; COG1203; -.
+DR   HOGENOM; HOG000015796; -.
+DR   KO; K07012; -.
+DR   OMA; FWAGLHD; -.
+DR   OrthoDB; EOG6QCD7N; -.
+DR   BioCyc; TFUS269800:GI42-1598-MONOMER; -.
+DR   Proteomes; UP000000434; Chromosome.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.50.300; -; 3.
+DR   InterPro; IPR006483; CRISPR-assoc_Cas3_HD.
+DR   InterPro; IPR003607; HD/PDEase_dom.
+DR   InterPro; IPR001650; Helicase_C.
+DR   InterPro; IPR006474; Helicase_Cas3_CRISPR-ass_core.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   Pfam; PF00271; Helicase_C; 1.
+DR   SMART; SM00471; HDc; 1.
+DR   SUPFAM; SSF52540; SSF52540; 3.
+DR   TIGRFAMs; TIGR01587; cas3_core; 1.
+DR   TIGRFAMs; TIGR01596; cas3_HD; 1.
+DR   PROSITE; PS51643; HD_CAS3; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4QQW, ECO:0000213|PDB:4QQX};
+KW   ATP-binding {ECO:0000213|PDB:4QQX};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000434};
+KW   Iron {ECO:0000213|PDB:4QQW, ECO:0000213|PDB:4QQX};
+KW   Metal-binding {ECO:0000213|PDB:4QQW, ECO:0000213|PDB:4QQX};
+KW   Nucleotide-binding {ECO:0000213|PDB:4QQX};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000434}.
+FT   NP_BIND     279    281       ATP. {ECO:0000213|PDB:4QQX}.
+FT   NP_BIND     308    313       ATP. {ECO:0000213|PDB:4QQX}.
+FT   NP_BIND     308    310       ADP. {ECO:0000213|PDB:4QQY}.
+FT   NP_BIND     309    313       ATP analog. {ECO:0000213|PDB:4QQZ}.
+FT   NP_BIND     451    452       ATP. {ECO:0000213|PDB:4QQX}.
+FT   METAL        37     37       Iron 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4QQW,
+FT                                ECO:0000213|PDB:4QQX,
+FT                                ECO:0000213|PDB:4QQY}.
+FT   METAL        83     83       Iron 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4QQW,
+FT                                ECO:0000213|PDB:4QQX,
+FT                                ECO:0000213|PDB:4QQY}.
+FT   METAL        84     84       Iron 1. {ECO:0000213|PDB:4QQW,
+FT                                ECO:0000213|PDB:4QQX,
+FT                                ECO:0000213|PDB:4QQY}.
+FT   METAL        84     84       Iron 2. {ECO:0000213|PDB:4QQW,
+FT                                ECO:0000213|PDB:4QQX,
+FT                                ECO:0000213|PDB:4QQY}.
+FT   METAL       115    115       Iron 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4QQW,
+FT                                ECO:0000213|PDB:4QQX,
+FT                                ECO:0000213|PDB:4QQY}.
+FT   METAL       149    149       Iron 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4QQW,
+FT                                ECO:0000213|PDB:4QQX,
+FT                                ECO:0000213|PDB:4QQY}.
+FT   METAL       150    150       Iron 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4QQW,
+FT                                ECO:0000213|PDB:4QQX,
+FT                                ECO:0000213|PDB:4QQY}.
+FT   METAL       215    215       Iron 1. {ECO:0000213|PDB:4QQW,
+FT                                ECO:0000213|PDB:4QQX,
+FT                                ECO:0000213|PDB:4QQY}.
+FT   BINDING     279    279       ADP; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:4QQY}.
+FT   BINDING     279    279       ATP analog; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:4QQZ}.
+FT   BINDING     284    284       ADP. {ECO:0000213|PDB:4QQY}.
+FT   BINDING     284    284       ATP analog. {ECO:0000213|PDB:4QQZ}.
+FT   BINDING     347    347       ATP. {ECO:0000213|PDB:4QQX}.
+FT   BINDING     692    692       ADP. {ECO:0000213|PDB:4QQY}.
+FT   BINDING     692    692       ATP analog. {ECO:0000213|PDB:4QQZ}.
+SQ   SEQUENCE   944 AA;  103918 MW;  43DF0D1AF105FE96 CRC64;
+     MPEHDSTDDK HGIPPLDLRF WAKERGLRGK TYPLVCHSLD AAAAALVLWN EYLSPGLRDT
+     IASSMETDEE HAGHCIAFWA GLHDIGKLTR EFQQQIAIDL SAYPGEELSG EQRSHAAATG
+     KWLPFALPSL GYPNGGLVTG LVAQMLGGHH GTFHPHPSFQ SRNPLAEFGF SSPHWEKQRH
+     ALLHAVFDAT GRPTPPDMLD GPTASVVCGL VILADWLVSQ EDFLLERLTS LPADGSASAL
+     RAHFETSLRR IPSLLDAAGL RPITVPPATF TESFPHLSKP NGLQASLAKH LPCLCTGPGL
+     VLITAPMGEG KTEAAYHVAD LLGKATGRPG RFLALPTMAT ADQMHTRLKE YARYRVENTD
+     LPRSSTLALL HSMAWLNPDY APADLPGVSK VLSNLGHRDP FAATDWLMGR KRGLLAPWAV
+     GTIDQALMAV LRAKHNALRL FGLAGKVVVV DEAHAVDPYM QVLLEQLLRW LGTLDVPVVL
+     LSATLHHSIA NSLVKAYLEG ARGRRWNRSE PQPVSEVSYP GWLHVDARIG KVTRSSDVDP
+     LPIATTPRKP LEVRLVDVPV KEGALNRSTV LAKELTPLVK QGGCAAIICT TVAEAQGVYD
+     LLSQWFATLG EDAPDLYLLH SRFPNRQRTE ITATIVDLFG KEGAQSGRRP TRGAVLVATQ
+     VVEQSLDLDV DLMISDLAPV SLLLQRAGRC WRHEHLGIIN RPQWAKQPEL VVLTPEQNGD
+     ADRAPWFPRS WTSVYPLALL QRTYTLLRRR NGAPVQIPED VQQLVDDVYD DDSLAEDLEA
+     DMERMGEELA QRGLARNAVI PDPDDAEDNL NGLTEFSFDV DEHVLATRFG AGSVRVLCYY
+     VDTAGNRWLD PECTVEFPEQ GTGREGRFTM ADCRDLVART IPVRMGPWAS QLTEDNHPPE
+     AWRESFYLRD LVLIPQRVTD EGAVLPTETG GREWLLDPCK GLIF
+//

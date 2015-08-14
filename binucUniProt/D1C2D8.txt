@@ -1,0 +1,87 @@
+ID   D1C2D8_SPHTD            Unreviewed;       239 AA.
+AC   D1C2D8;
+DT   19-JAN-2010, integrated into UniProtKB/TrEMBL.
+DT   19-JAN-2010, sequence version 1.
+DT   22-JUL-2015, entry version 38.
+DE   SubName: Full=Protein serine/threonine phosphatase {ECO:0000313|EMBL:ACZ38405.1};
+GN   OrderedLocusNames=Sthe_0969 {ECO:0000313|EMBL:ACZ38405.1};
+OS   Sphaerobacter thermophilus (strain DSM 20745 / S 6022).
+OC   Bacteria; Chloroflexi; Sphaerobacteridae; Sphaerobacterales;
+OC   Sphaerobacterineae; Sphaerobacteraceae; Sphaerobacter.
+OX   NCBI_TaxID=479434 {ECO:0000313|EMBL:ACZ38405.1, ECO:0000313|Proteomes:UP000002027};
+RN   [1] {ECO:0000313|Proteomes:UP000002027}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=DSM 20745 / S 6022 {ECO:0000313|Proteomes:UP000002027};
+RA   Lucas S., Copeland A., Lapidus A., Glavina del Rio T., Dalin E.,
+RA   Tice H., Bruce D., Goodwin L., Pitluck S., Kyrpides N., Mavromatis K.,
+RA   Ivanova N., Mikhailova N., LaButti K.M., Clum A., Sun H.I.,
+RA   Brettin T., Detter J.C., Han C., Larimer F., Land M., Hauser L.,
+RA   Markowitz V., Cheng J.F., Hugenholtz P., Woyke T., Wu D.,
+RA   Steenblock K., Schneider S., Pukall R., Goeker M., Klenk H.P.,
+RA   Eisen J.A.;
+RT   "The complete chromosome 1 of Sphaerobacter thermophilus DSM 20745.";
+RL   Submitted (NOV-2009) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000313|EMBL:ACZ38405.1, ECO:0000313|Proteomes:UP000002027}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=DSM 20745 / S 6022 {ECO:0000313|Proteomes:UP000002027};
+RX   PubMed=21304676;
+RA   Spring S., Nolan M., Lapidus A., Glavina Del Rio T., Copeland A.,
+RA   Tice H., Cheng J.F., Lucas S., Land M., Chen F., Bruce D., Goodwin L.,
+RA   Pitluck S., Ivanova N., Mavromatis K., Mikhailova N., Pati A.,
+RA   Chen A., Palaniappan K., Hauser L., Chang Y.J., Jeffries C.D.,
+RA   Munk C., Kiss H., Chain P., Han C., Brettin T., Detter J.C.,
+RA   Schuler E., Goker M., Rohde M., Bristow J., Eisen J.A., Markowitz V.,
+RA   Hugenholtz P., Kyrpides N.C., Klenk H.P.;
+RT   "Complete genome sequence of Desulfohalobium retbaense type strain
+RT   (HR(100)).";
+RL   Stand. Genomic Sci. 2:38-48(2010).
+RN   [3] {ECO:0000213|PDB:3PU9}
+RP   X-RAY CRYSTALLOGRAPHY (1.55 ANGSTROMS) IN COMPLEX WITH MAGNESIUM.
+RA   Nocek B., Tesar C., Clancy S., Joachimiak A.;
+RT   "Crystal structure of serine/threonine phosphatase Sphaerobacter
+RT   thermophilus DSM 20745.";
+RL   Submitted (DEC-2010) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP001823; ACZ38405.1; -; Genomic_DNA.
+DR   PDB; 3PU9; X-ray; 1.55 A; A/B=1-239.
+DR   PDBsum; 3PU9; -.
+DR   STRING; 479434.Sthe_0969; -.
+DR   EnsemblBacteria; ACZ38405; ACZ38405; Sthe_0969.
+DR   KEGG; sti:Sthe_0969; -.
+DR   PATRIC; 32424683; VBISphThe120955_0985.
+DR   HOGENOM; HOG000288096; -.
+DR   OMA; ESGDTLE; -.
+DR   OrthoDB; EOG66HVD2; -.
+DR   BioCyc; STHE479434:GHJN-989-MONOMER; -.
+DR   EvolutionaryTrace; D1C2D8; -.
+DR   Proteomes; UP000002027; Chromosome 1.
+DR   GO; GO:0003824; F:catalytic activity; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.60.40.10; -; 1.
+DR   InterPro; IPR001932; PPM-type_phosphatase_dom.
+DR   Pfam; PF07228; SpoIIE; 1.
+DR   SMART; SM00331; PP2C_SIG; 1.
+DR   SUPFAM; SSF81606; SSF81606; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3PU9};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002027};
+KW   Magnesium {ECO:0000213|PDB:3PU9};
+KW   Metal-binding {ECO:0000213|PDB:3PU9};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000002027}.
+FT   METAL        43     43       Magnesium 1. {ECO:0000213|PDB:3PU9}.
+FT   METAL        43     43       Magnesium 2. {ECO:0000213|PDB:3PU9}.
+FT   METAL        44     44       Magnesium 1; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:3PU9}.
+FT   METAL        46     46       Magnesium 1; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:3PU9}.
+FT   METAL       161    161       Magnesium 2. {ECO:0000213|PDB:3PU9}.
+FT   METAL       211    211       Magnesium 2. {ECO:0000213|PDB:3PU9}.
+SQ   SEQUENCE   239 AA;  25026 MW;  F06E56C1D8CB8902 CRC64;
+     MTPMPVTIEL AVAKTHKFGT RESGDTVELV ERPGGGFSAV LVDGQGSGAG AKRLSLLVAG
+     AAVRLLNEGV RDGAAARAAH DFLYAMRDGK VSAALDILSV DLASRSVLVT RNSEVPMLLG
+     RNGEFEQISE SGGRIGIYRH TRPRVLEFPA EPGLTVILVS DGIIGAGGRR GQPLEFLATG
+     GRVAGPETPA QAIADELLEA ALVADDGRAG DDMTVVVLRL RNVEEVEPIR RMALTVPLG
+//

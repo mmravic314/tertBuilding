@@ -1,0 +1,179 @@
+ID   LEUR_YEAST              Reviewed;         886 AA.
+AC   P08638; D6VZ85;
+DT   01-AUG-1988, integrated into UniProtKB/Swiss-Prot.
+DT   01-AUG-1988, sequence version 1.
+DT   22-JUL-2015, entry version 139.
+DE   RecName: Full=Regulatory protein LEU3;
+GN   Name=LEU3; OrderedLocusNames=YLR451W; ORFNames=L9324.1;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=559292;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=3299266; DOI=10.1093/nar/15.13.5261;
+RA   Zhou K., Brisco P.R.G., Hinkkanen A.E., Kohlhaw G.B.;
+RT   "Structure of yeast regulatory gene LEU3 and evidence that LEU3 itself
+RT   is under general amino acid control.";
+RL   Nucleic Acids Res. 15:5261-5273(1987).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=2823102;
+RA   Friden P., Schimmel P.;
+RT   "LEU3 of Saccharomyces cerevisiae encodes a factor for control of RNA
+RT   levels of a group of leucine-specific genes.";
+RL   Mol. Cell. Biol. 7:2708-2717(1987).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=9169871;
+RA   Johnston M., Hillier L.W., Riles L., Albermann K., Andre B.,
+RA   Ansorge W., Benes V., Brueckner M., Delius H., Dubois E.,
+RA   Duesterhoeft A., Entian K.-D., Floeth M., Goffeau A., Hebling U.,
+RA   Heumann K., Heuss-Neitzel D., Hilbert H., Hilger F., Kleine K.,
+RA   Koetter P., Louis E.J., Messenguy F., Mewes H.-W., Miosga T.,
+RA   Moestl D., Mueller-Auer S., Nentwich U., Obermaier B., Piravandi E.,
+RA   Pohl T.M., Portetelle D., Purnelle B., Rechmann S., Rieger M.,
+RA   Rinke M., Rose M., Scharfe M., Scherens B., Scholler P., Schwager C.,
+RA   Schwarz S., Underwood A.P., Urrestarazu L.A., Vandenbol M.,
+RA   Verhasselt P., Vierendeels F., Voet M., Volckaert G., Voss H.,
+RA   Wambutt R., Wedler E., Wedler H., Zimmermann F.K., Zollner A.,
+RA   Hani J., Hoheisel J.D.;
+RT   "The nucleotide sequence of Saccharomyces cerevisiae chromosome XII.";
+RL   Nature 387:87-90(1997).
+RN   [4]
+RP   GENOME REANNOTATION.
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=24374639; DOI=10.1534/g3.113.008995;
+RA   Engel S.R., Dietrich F.S., Fisk D.G., Binkley G., Balakrishnan R.,
+RA   Costanzo M.C., Dwight S.S., Hitz B.C., Karra K., Nash R.S., Weng S.,
+RA   Wong E.D., Lloyd P., Skrzypek M.S., Miyasato S.R., Simison M.,
+RA   Cherry J.M.;
+RT   "The reference genome sequence of Saccharomyces cerevisiae: Then and
+RT   now.";
+RL   G3 (Bethesda) 4:389-398(2014).
+RN   [5]
+RP   LEVEL OF PROTEIN EXPRESSION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562106; DOI=10.1038/nature02046;
+RA   Ghaemmaghami S., Huh W.-K., Bower K., Howson R.W., Belle A.,
+RA   Dephoure N., O'Shea E.K., Weissman J.S.;
+RT   "Global analysis of protein expression in yeast.";
+RL   Nature 425:737-741(2003).
+RN   [6]
+RP   DOMAIN.
+RX   PubMed=17467953; DOI=10.1016/j.ygeno.2007.02.003;
+RA   Piskacek S., Gregor M., Nemethova M., Grabner M., Kovarik P.,
+RA   Piskacek M.;
+RT   "Nine-amino-acid transactivation domain: establishment and prediction
+RT   utilities.";
+RL   Genomics 89:756-768(2007).
+RN   [7]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19779198; DOI=10.1126/science.1172867;
+RA   Holt L.J., Tuch B.B., Villen J., Johnson A.D., Gygi S.P., Morgan D.O.;
+RT   "Global analysis of Cdk1 substrate phosphorylation sites provides
+RT   insights into evolution.";
+RL   Science 325:1682-1686(2009).
+CC   -!- FUNCTION: Factor for control of RNA levels of a group of leucine-
+CC       specific genes.
+CC   -!- SUBCELLULAR LOCATION: Nucleus.
+CC   -!- DOMAIN: the 9aaTAD motif is a transactivation domain present in a
+CC       large number of yeast and animal transcription factors.
+CC       {ECO:0000269|PubMed:17467953}.
+CC   -!- MISCELLANEOUS: Present with 125 molecules/cell in log phase SD
+CC       medium. {ECO:0000269|PubMed:14562106}.
+CC   -!- SIMILARITY: Contains 1 Zn(2)-C6 fungal-type DNA-binding domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00227}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; Y00360; CAA68438.1; -; Genomic_DNA.
+DR   EMBL; M17222; AAA34741.1; -; Genomic_DNA.
+DR   EMBL; U22382; AAB67526.1; -; Genomic_DNA.
+DR   EMBL; BK006945; DAA09751.1; -; Genomic_DNA.
+DR   PIR; S00638; RGBYL3.
+DR   RefSeq; NP_013556.3; NM_001182339.3.
+DR   PDB; 2ER8; X-ray; 2.85 A; A/B/C/D=32-103.
+DR   PDB; 2ERE; X-ray; 3.00 A; A/B=32-103.
+DR   PDB; 2ERG; X-ray; 3.15 A; A/B=32-103.
+DR   PDBsum; 2ER8; -.
+DR   PDBsum; 2ERE; -.
+DR   PDBsum; 2ERG; -.
+DR   ProteinModelPortal; P08638; -.
+DR   SMR; P08638; 32-99.
+DR   BioGrid; 31709; 48.
+DR   DIP; DIP-2400N; -.
+DR   IntAct; P08638; 3.
+DR   MINT; MINT-423692; -.
+DR   MaxQB; P08638; -.
+DR   PaxDb; P08638; -.
+DR   EnsemblFungi; YLR451W; YLR451W; YLR451W.
+DR   GeneID; 851172; -.
+DR   KEGG; sce:YLR451W; -.
+DR   CYGD; YLR451w; -.
+DR   EuPathDB; FungiDB:YLR451W; -.
+DR   SGD; S000004443; LEU3.
+DR   eggNOG; NOG75248; -.
+DR   GeneTree; ENSGT00530000068718; -.
+DR   HOGENOM; HOG000074528; -.
+DR   InParanoid; P08638; -.
+DR   KO; K09242; -.
+DR   OMA; HEYYESS; -.
+DR   OrthoDB; EOG7QC84H; -.
+DR   BioCyc; YEAST:G3O-32504-MONOMER; -.
+DR   EvolutionaryTrace; P08638; -.
+DR   NextBio; 967984; -.
+DR   PRO; PR:P08638; -.
+DR   Proteomes; UP000002311; Chromosome XII.
+DR   GO; GO:0005634; C:nucleus; IDA:SGD.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0001078; F:RNA polymerase II core promoter proximal region sequence-specific DNA binding transcription factor activity involved in negative regulation of transcription; IDA:SGD.
+DR   GO; GO:0001077; F:RNA polymerase II core promoter proximal region sequence-specific DNA binding transcription factor activity involved in positive regulation of transcription; IDA:SGD.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:InterPro.
+DR   GO; GO:0009098; P:leucine biosynthetic process; IEA:UniProtKB-KW.
+DR   GO; GO:0000122; P:negative regulation of transcription from RNA polymerase II promoter; IDA:SGD.
+DR   GO; GO:2001278; P:positive regulation of leucine biosynthetic process; IMP:SGD.
+DR   GO; GO:0045944; P:positive regulation of transcription from RNA polymerase II promoter; IDA:SGD.
+DR   GO; GO:0006366; P:transcription from RNA polymerase II promoter; IDA:GOC.
+DR   Gene3D; 4.10.240.10; -; 1.
+DR   InterPro; IPR001138; Zn2-C6_fun-type_DNA-bd.
+DR   Pfam; PF00172; Zn_clus; 1.
+DR   SMART; SM00066; GAL4; 1.
+DR   SUPFAM; SSF57701; SSF57701; 1.
+DR   PROSITE; PS00463; ZN2_CY6_FUNGAL_1; 1.
+DR   PROSITE; PS50048; ZN2_CY6_FUNGAL_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Activator; Amino-acid biosynthesis;
+KW   Branched-chain amino acid biosynthesis; Complete proteome;
+KW   DNA-binding; Leucine biosynthesis; Metal-binding; Nucleus;
+KW   Reference proteome; Transcription; Transcription regulation; Zinc.
+FT   CHAIN         1    886       Regulatory protein LEU3.
+FT                                /FTId=PRO_0000114954.
+FT   DNA_BIND     37     67       Zn(2)-C6 fungal-type.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00227}.
+FT   MOTIF       874    882       9aaTAD.
+FT   COMPBIAS    678    697       Asp/Glu-rich (acidic).
+FT   CONFLICT    504    504       M -> I (in Ref. 2; AAA34741).
+FT                                {ECO:0000305}.
+FT   HELIX        38     42       {ECO:0000244|PDB:2ER8}.
+FT   HELIX        50     52       {ECO:0000244|PDB:2ER8}.
+FT   HELIX        58     62       {ECO:0000244|PDB:2ER8}.
+FT   HELIX        78     97       {ECO:0000244|PDB:2ER8}.
+SQ   SEQUENCE   886 AA;  100153 MW;  C5F8EDCD326B1EBB CRC64;
+     MEGRSDFVAT SQSGSEMSHS ETRNRTGMNA RKRKFACVEC RQQKSKCDAH ERAPEPCTKC
+     AKKNVPCILK RDFRRTYKRA RNEAIEKRFK ELTRTLTNLT SDEILKKIEE EQEIVLDNSN
+     FTKEKVKQLR KSAFETTEIE PRSYKTLRGE PISYSTNRRH TDSSPLTLLS SSTNFDPVHS
+     TNVMTDDQLK CLPKSLGDVY LSSSDIAELF QEFATKYHQF LPVVDLSKGA ERIYHLSPCL
+     FWVILLIGLR RKFGATDLMT RLSVLVKSVL SEITISPIIR YTPSDKDEPV LNVASVYSVQ
+     AFLLYTFWPP LTSSLSADTS WNTIGTAMFQ ALRVGLNCAG FSKEYASANS ELVNEQIRTW
+     ICCNVVSQTV ASSFGFPAYV SFDYLVISSI RVPNSKSQVD IPNELRQMAQ IARFENQIVN
+     TMNSTPASVT GMVSQEEKQP LLHVLNQQLS QLEISLEENN LDDIRKFLLL VAKVHLLTYY
+     FTDVTSQSAG KSNGNIYEGS YSIMELDTSF ETKRGLVKVY NAAVNFLIHA NSMWEHDPTI
+     IKYFPGLFVL NIWQSACIIS KLIHSSLHSM LDVNSGKKAY NNAISLTFNA SVLKYDMAYR
+     SSGIMRSIWS LFANMYDAWK NDQKEGGGRL NNDFNLGITI KSRMSVNVFF DCLYILKEKC
+     GMAKLERETK VSTAYNVDEE EEEDEDEEGE EEEEEEELSS KVPENMDSQQ LRTRKFTNVR
+     HPEKKARKII ETIPLDPNPI NAGSTSSGSS LTTPNSQVAN TISYRGILNK MSPREQLNHA
+     NLDSSVSTDI KDTEAVNEPL PIGRNAEHPA NQPPLSITQM QENTLPATQA NSSLLETYPI
+     VQSNPVTTTI KESPNSIMAG WDNWESDMVW RDVDILMNEF AFNPKV
+//

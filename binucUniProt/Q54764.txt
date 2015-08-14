@@ -1,0 +1,131 @@
+ID   ALDEC_SYNE7             Reviewed;         231 AA.
+AC   Q54764;
+DT   05-SEP-2012, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   22-JUL-2015, entry version 79.
+DE   RecName: Full=Aldehyde decarbonylase {ECO:0000255|HAMAP-Rule:MF_00931};
+DE            Short=AD {ECO:0000255|HAMAP-Rule:MF_00931};
+DE            EC=4.1.99.5 {ECO:0000255|HAMAP-Rule:MF_00931};
+DE   AltName: Full=Fatty aldehyde decarbonylase {ECO:0000255|HAMAP-Rule:MF_00931};
+GN   OrderedLocusNames=Synpcc7942_1593;
+OS   Synechococcus elongatus (strain PCC 7942) (Anacystis nidulans R2).
+OC   Bacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales;
+OC   Synechococcus.
+OX   NCBI_TaxID=1140;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=PCC 7942;
+RA   Phung L.T., Haselkorn R.;
+RT   "Genes encoding the alpha subunit of carboxyltransferase of the
+RT   acetyl-CoA carboxylase complex and GTP cyclohydrolase I from
+RT   cyanobacterium Synechococcus sp. PCC 7942.";
+RL   Submitted (OCT-1997) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=PCC 7942;
+RG   US DOE Joint Genome Institute;
+RA   Copeland A., Lucas S., Lapidus A., Barry K., Detter J.C., Glavina T.,
+RA   Hammon N., Israni S., Pitluck S., Schmutz J., Larimer F., Land M.,
+RA   Kyrpides N., Lykidis A., Richardson P.;
+RT   "Complete sequence of chromosome 1 of Synechococcus elongatus PCC
+RT   7942.";
+RL   Submitted (AUG-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   FUNCTION.
+RX   PubMed=20671186; DOI=10.1126/science.1187936;
+RA   Schirmer A., Rude M.A., Li X., Popova E., del Cardayre S.B.;
+RT   "Microbial biosynthesis of alkanes.";
+RL   Science 329:559-562(2010).
+CC   -!- FUNCTION: Catalyzes the decarbonylation of fatty aldehydes to
+CC       alkanes. Requires the presence of ferredoxin, ferredoxin reductase
+CC       and NADPH for in vitro decarbonylase activity (By similarity).
+CC       Involved in the biosynthesis of alkanes, mainly heptadecane and
+CC       pentadecane. {ECO:0000255|HAMAP-Rule:MF_00931,
+CC       ECO:0000269|PubMed:20671186}.
+CC   -!- CATALYTIC ACTIVITY: A long-chain aldehyde + O(2) + 2 NADPH = an
+CC       alkane + formate + H(2)O + 2 NADP(+). {ECO:0000255|HAMAP-
+CC       Rule:MF_00931}.
+CC   -!- COFACTOR:
+CC       Note=Binds 2 metal cations per subunit. The catalytic dinuclear
+CC       metal-binding site could be either a di-iron or a manganese-iron
+CC       cofactor. {ECO:0000255|HAMAP-Rule:MF_00931};
+CC   -!- SIMILARITY: Belongs to the aldehyde decarbonylase family.
+CC       {ECO:0000255|HAMAP-Rule:MF_00931}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U59236; AAB82038.1; -; Genomic_DNA.
+DR   EMBL; CP000100; ABB57623.1; -; Genomic_DNA.
+DR   RefSeq; WP_011378104.1; NC_007604.1.
+DR   PDB; 4QUW; X-ray; 2.26 A; A=1-231.
+DR   PDB; 4RC5; X-ray; 2.30 A; A=11-231, B=10-231.
+DR   PDB; 4RC6; X-ray; 2.90 A; A=13-227, B=16-227.
+DR   PDB; 4RC7; X-ray; 2.20 A; A=11-230, B=10-231.
+DR   PDB; 4RC8; X-ray; 1.71 A; A/B=10-231.
+DR   PDBsum; 4QUW; -.
+DR   PDBsum; 4RC5; -.
+DR   PDBsum; 4RC6; -.
+DR   PDBsum; 4RC7; -.
+DR   PDBsum; 4RC8; -.
+DR   ProteinModelPortal; Q54764; -.
+DR   SMR; Q54764; 11-228.
+DR   STRING; 1140.Synpcc7942_1593; -.
+DR   EnsemblBacteria; ABB57623; ABB57623; Synpcc7942_1593.
+DR   KEGG; syf:Synpcc7942_1593; -.
+DR   PATRIC; 23788581; VBISynElo51371_1814.
+DR   HOGENOM; HOG000232652; -.
+DR   KO; K14331; -.
+DR   OrthoDB; EOG6M3PC2; -.
+DR   BioCyc; MetaCyc:SYNPCC7942_1593-MONOMER; -.
+DR   BioCyc; SYNEL:SYNPCC7942_1593-MONOMER; -.
+DR   BRENDA; 4.1.99.5; 7781.
+DR   Proteomes; UP000002717; Chromosome.
+DR   GO; GO:0071771; F:aldehyde decarbonylase activity; IMP:CACAO.
+DR   GO; GO:1990465; F:aldehyde oxygenase (deformylating) activity; IEA:UniProtKB-EC.
+DR   GO; GO:0009924; F:octadecanal decarbonylase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0046914; F:transition metal ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0008152; P:metabolic process; IMP:GOC.
+DR   Gene3D; 1.20.1260.10; -; 1.
+DR   HAMAP; MF_00931; Aldeh_decarbonylase; 1.
+DR   InterPro; IPR022612; Ald_deCOase.
+DR   InterPro; IPR009078; Ferritin-like_SF.
+DR   InterPro; IPR012347; Ferritin-rel.
+DR   Pfam; PF11266; DUF3066; 1.
+DR   SUPFAM; SSF47240; SSF47240; 1.
+DR   TIGRFAMs; TIGR04059; Ald_deCOase; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Iron; Lyase; Metal-binding; NADP;
+KW   Reference proteome.
+FT   CHAIN         1    231       Aldehyde decarbonylase.
+FT                                /FTId=PRO_0000418902.
+FT   METAL        32     32       Iron 1. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00931}.
+FT   METAL        60     60       Iron 1. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00931}.
+FT   METAL        60     60       Iron 2. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00931}.
+FT   METAL        63     63       Iron 1; via pros nitrogen.
+FT                                {ECO:0000255|HAMAP-Rule:MF_00931}.
+FT   METAL       115    115       Iron 2. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00931}.
+FT   METAL       147    147       Iron 2; via pros nitrogen.
+FT                                {ECO:0000255|HAMAP-Rule:MF_00931}.
+FT   STRAND       12     14       {ECO:0000244|PDB:4QUW}.
+FT   HELIX        15     45       {ECO:0000244|PDB:4RC8}.
+FT   HELIX        47     49       {ECO:0000244|PDB:4RC8}.
+FT   HELIX        50     73       {ECO:0000244|PDB:4RC8}.
+FT   HELIX        80     99       {ECO:0000244|PDB:4RC8}.
+FT   HELIX       103    111       {ECO:0000244|PDB:4RC8}.
+FT   HELIX       113    125       {ECO:0000244|PDB:4RC8}.
+FT   HELIX       126    128       {ECO:0000244|PDB:4RC8}.
+FT   HELIX       131    157       {ECO:0000244|PDB:4RC8}.
+FT   HELIX       159    190       {ECO:0000244|PDB:4RC8}.
+FT   HELIX       195    213       {ECO:0000244|PDB:4RC8}.
+FT   HELIX       217    228       {ECO:0000244|PDB:4RC8}.
+SQ   SEQUENCE   231 AA;  26369 MW;  7168C8103A1D0951 CRC64;
+     MPQLEASLEL DFQSESYKDA YSRINAIVIE GEQEAFDNYN RLAEMLPDQR DELHKLAKME
+     QRHMKGFMAC GKNLSVTPDM GFAQKFFERL HENFKAAAAE GKVVTCLLIQ SLIIECFAIA
+     AYNIYIPVAD AFARKITEGV VRDEYLHRNF GEEWLKANFD ASKAELEEAN RQNLPLVWLM
+     LNEVADDARE LGMERESLVE DFMIAYGEAL ENIGFTTREI MRMSAYGLAA V
+//

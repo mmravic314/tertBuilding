@@ -1,0 +1,117 @@
+ID   O50112_PYRHO            Unreviewed;       651 AA.
+AC   O50112;
+DT   01-JUN-1998, integrated into UniProtKB/TrEMBL.
+DT   01-JUN-1998, sequence version 1.
+DT   22-JUL-2015, entry version 97.
+DE   SubName: Full=Putative uncharacterized protein PH1404 {ECO:0000313|EMBL:BAA30510.1};
+GN   OrderedLocusNames=PH1404 {ECO:0000313|EMBL:BAA30510.1};
+OS   Pyrococcus horikoshii (strain ATCC 700860 / DSM 12428 / JCM 9974 /
+OS   NBRC 100139 / OT-3).
+OC   Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae;
+OC   Pyrococcus.
+OX   NCBI_TaxID=70601 {ECO:0000313|EMBL:BAA30510.1, ECO:0000313|Proteomes:UP000000752};
+RN   [1] {ECO:0000313|Proteomes:UP000000752}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 700860 / DSM 12428 / JCM 9974 / NBRC 100139 / OT-3
+RC   {ECO:0000313|Proteomes:UP000000752};
+RX   PubMed=9679194; DOI=10.1093/dnares/5.2.55;
+RA   Kawarabayasi Y., Sawada M., Horikawa H., Haikawa Y., Hino Y.,
+RA   Yamamoto S., Sekine M., Baba S., Kosugi H., Hosoyama A., Nagai Y.,
+RA   Sakai M., Ogura K., Otsuka R., Nakazawa H., Takamiya M., Ohfuku Y.,
+RA   Funahashi T., Tanaka T., Kudoh Y., Yamazaki J., Kushida N., Oguchi A.,
+RA   Aoki K., Yoshizawa T., Nakamura Y., Robb F.T., Horikoshi K.,
+RA   Masuchi Y., Shizuya H., Kikuchi H.;
+RT   "Complete sequence and gene organization of the genome of a hyper-
+RT   thermophilic archaebacterium, Pyrococcus horikoshii OT3.";
+RL   DNA Res. 5:55-76(1998).
+RN   [2] {ECO:0000213|PDB:3AF5, ECO:0000213|PDB:3AF6}
+RP   X-RAY CRYSTALLOGRAPHY (2.60 ANGSTROMS) IN COMPLEX WITH ZINC.
+RX   PubMed=20544974; DOI=10.1002/prot.22748;
+RA   Nishida Y., Ishikawa H., Baba S., Nakagawa N., Kuramitsu S., Masui R.;
+RT   "Crystal structure of an archaeal cleavage and polyadenylation
+RT   specificity factor subunit from Pyrococcus horikoshii.";
+RL   Proteins 78:2395-2398(2010).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; BA000001; BAA30510.1; -; Genomic_DNA.
+DR   PIR; F71013; F71013.
+DR   RefSeq; NP_143278.1; NC_000961.1.
+DR   RefSeq; WP_010885489.1; NC_000961.1.
+DR   PDB; 3AF5; X-ray; 2.60 A; A=1-651.
+DR   PDB; 3AF6; X-ray; 2.60 A; A=1-651.
+DR   PDBsum; 3AF5; -.
+DR   PDBsum; 3AF6; -.
+DR   ProteinModelPortal; O50112; -.
+DR   STRING; 70601.PH1404; -.
+DR   EnsemblBacteria; BAA30510; BAA30510; BAA30510.
+DR   GeneID; 1443727; -.
+DR   KEGG; pho:PH1404; -.
+DR   eggNOG; COG1782; -.
+DR   HOGENOM; HOG000223261; -.
+DR   KO; K07041; -.
+DR   OMA; KMEFLKG; -.
+DR   BioCyc; PHOR70601:GJWR-1407-MONOMER; -.
+DR   EvolutionaryTrace; O50112; -.
+DR   Proteomes; UP000000752; Chromosome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003723; F:RNA binding; IEA:InterPro.
+DR   Gene3D; 3.60.15.10; -; 1.
+DR   InterPro; IPR001279; Beta-lactamas-like.
+DR   InterPro; IPR022712; Beta_Casp.
+DR   InterPro; IPR019975; KH-dom/beta-lactamase-dom_arc.
+DR   InterPro; IPR004087; KH_dom.
+DR   InterPro; IPR009019; KH_prok-type.
+DR   InterPro; IPR011108; RMMBL.
+DR   Pfam; PF10996; Beta-Casp; 1.
+DR   Pfam; PF00753; Lactamase_B; 1.
+DR   Pfam; PF07521; RMMBL; 1.
+DR   SMART; SM01027; Beta-Casp; 1.
+DR   SMART; SM00322; KH; 1.
+DR   SMART; SM00849; Lactamase_B; 1.
+DR   SUPFAM; SSF54814; SSF54814; 1.
+DR   SUPFAM; SSF56281; SSF56281; 1.
+DR   TIGRFAMs; TIGR03675; arCOG00543; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3AF5, ECO:0000213|PDB:3AF6};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000752};
+KW   Metal-binding {ECO:0000213|PDB:3AF5, ECO:0000213|PDB:3AF6};
+KW   Zinc {ECO:0000213|PDB:3AF5, ECO:0000213|PDB:3AF6}.
+FT   METAL       256    256       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3AF5,
+FT                                ECO:0000213|PDB:3AF6}.
+FT   METAL       258    258       Zinc 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3AF5,
+FT                                ECO:0000213|PDB:3AF6}.
+FT   METAL       260    260       Zinc 2. {ECO:0000213|PDB:3AF5,
+FT                                ECO:0000213|PDB:3AF6}.
+FT   METAL       261    261       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3AF5,
+FT                                ECO:0000213|PDB:3AF6}.
+FT   METAL       344    344       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3AF5,
+FT                                ECO:0000213|PDB:3AF6}.
+FT   METAL       367    367       Zinc 1. {ECO:0000213|PDB:3AF5,
+FT                                ECO:0000213|PDB:3AF6}.
+FT   METAL       367    367       Zinc 2. {ECO:0000213|PDB:3AF5,
+FT                                ECO:0000213|PDB:3AF6}.
+FT   METAL       498    498       Zinc 3; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3AF5}.
+FT   METAL       505    505       Zinc 3. {ECO:0000213|PDB:3AF5}.
+FT   METAL       618    618       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3AF5,
+FT                                ECO:0000213|PDB:3AF6}.
+SQ   SEQUENCE   651 AA;  73954 MW;  48882326682DCDEA CRC64;
+     MTFLIKRETQ VDQILRDIRA VVNQMVPKEA KITEIEFEGP ELVIYVKNPE AIMKDGELIK
+     DLAKVLKKRI SVRPDPEVLL PPEEAEKLIF EIVPKEAEIT NIAFDPSVGE VLIEAKKPGL
+     VIGKNGETLR LITQKVKWAP KVVRTPPLQS QTIYSIRQIL QTESKDRRKF LRQVGRNIYR
+     KPEYKSRWIR ITGLGGFREV GRSALLVQTD ESFVLVDFGV NVAMLNDPYK AFPHFDAPEF
+     QYVLREGLLD AIIITHAHLD HCGMLPYLFR YNLFDGPIYT TPPTRDLMVL LQKDFIEIQQ
+     SNGQDPLYRP RDIKEVIKHT ITLDYGEVRD ISPDIRLTLH NAGHILGSAI VHLHIGNGLH
+     NIAITGDFKF IPTRLLEPAN AKFPRLETLV MESTYGGAND IQMPREEAEK RLIEVIHNTI
+     KRGGKVLIPA MAVGRAQEVM MVLEEYARIG GIEVPIYLDG MIWEATAIHT AYPEYLSRRL
+     REQIFKEGYN PFLSEIFHPV ANSRERQDII DSNEPAIIIA SSGMLVGGPS VEYFKQLAPD
+     PKNSIIFVSY QAEGTLGRQV QSGIREIPMV GEEGRTEVIK VNMEVHTIDG FSGHADRREL
+     MNYVAKVRPR PERIITVHGE PQKCLDLATS IHRKFGISTR APNNLDTIRL R
+//

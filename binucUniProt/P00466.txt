@@ -1,0 +1,231 @@
+ID   NIFD_KLEPN              Reviewed;         483 AA.
+AC   P00466; P09770;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUL-1989, sequence version 2.
+DT   26-NOV-2014, entry version 100.
+DE   RecName: Full=Nitrogenase molybdenum-iron protein alpha chain;
+DE            EC=1.18.6.1;
+DE   AltName: Full=Dinitrogenase;
+DE   AltName: Full=Nitrogenase component I;
+GN   Name=nifD;
+OS   Klebsiella pneumoniae.
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Klebsiella.
+OX   NCBI_TaxID=573;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=3062178; DOI=10.1016/0022-2836(88)90205-7;
+RA   Arnold W., Rump A., Klipp W., Priefer U.B., Puehler A.;
+RT   "Nucleotide sequence of a 24,206-base-pair DNA fragment carrying the
+RT   entire nitrogen fixation gene cluster of Klebsiella pneumoniae.";
+RL   J. Mol. Biol. 203:715-738(1988).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RA   Arnold W.;
+RL   Submitted (JAN-1989) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=3043382; DOI=10.1093/nar/16.14.7199;
+RA   Steinbauer J., Wenzel W., Hess D.;
+RT   "Nucleotide and deduced amino acid sequences of the Klebsiella
+RT   pneumoniae nifK gene coding for the beta-subunit of nitrogenase MoFe
+RT   protein.";
+RL   Nucleic Acids Res. 16:7199-7199(1988).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=MSAL;
+RX   PubMed=3322262;
+RA   Ioannidis I., Buck M.;
+RT   "Nucleotide sequence of the Klebsiella pneumoniae nifD gene and
+RT   predicted amino acid sequence of the alpha-subunit of nitrogenase MoFe
+RT   protein.";
+RL   Biochem. J. 247:287-291(1987).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-207.
+RC   STRAIN=UNF 841;
+RX   PubMed=6809876;
+RA   Scott K.F., Rolfe B.G., Shine J.;
+RT   "Biological nitrogen fixation: primary structure of the Klebsiella
+RT   pneumoniae nifH and nifD genes.";
+RL   J. Mol. Appl. Genet. 1:71-81(1981).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 207-483.
+RX   PubMed=3211766; DOI=10.1093/nar/16.24.11843;
+RA   Lignon J.M., Nakas J.P.;
+RT   "Nucleotide sequence of nifK and partial sequence of nifD from Frankia
+RT   species strain FaC1.";
+RL   Nucleic Acids Res. 16:11843-11843(1988).
+RN   [7]
+RP   ERRATUM, AND CORRECTION OF ORGANISM GIVEN IN PUBMED:3211766.
+RA   Lignon J.M., Nakas J.P.;
+RL   Nucleic Acids Res. 18:1097-1097(1990).
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 452-483.
+RX   PubMed=3322261;
+RA   Holland D., Zilberstein A., Zamir A., Sussman J.L.;
+RT   "A quantitative approach to sequence comparisons of nitrogenase MoFe
+RT   protein alpha- and beta-subunits including the newly sequenced nifK
+RT   gene from Klebsiella pneumoniae.";
+RL   Biochem. J. 247:277-285(1987).
+RN   [9]
+RP   X-RAY CRYSTALLOGRAPHY (1.6 ANGSTROMS) OF 3-480 IN COMPLEX WITH 8FE-7S
+RP   CLUSTER AND 7FE-MO-9S-C-HOMOCITRYL CLUSTER, COFACTOR, AND SUBUNIT.
+RX   PubMed=10525412; DOI=10.1006/jmbi.1999.3107;
+RA   Mayer S.M., Lawson D.M., Gormal C.A., Roe S.M., Smith B.E.;
+RT   "New insights into structure-function relationships in nitrogenase: a
+RT   1.6 A resolution X-ray crystallographic study of Klebsiella pneumoniae
+RT   MoFe-protein.";
+RL   J. Mol. Biol. 292:871-891(1999).
+RN   [10]
+RP   X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS) OF 3-483 IN COMPLEX WITH 8FE-7S
+RP   CLUSTER AND 7FE-MO-9S-C-HOMOCITRYL CLUSTER, COFACTOR, AND SUBUNIT.
+RX   PubMed=12133839; DOI=10.1074/jbc.M205888200;
+RA   Mayer S.M., Gormal C.A., Smith B.E., Lawson D.M.;
+RT   "Crystallographic analysis of the MoFe protein of nitrogenase from a
+RT   nifV mutant of Klebsiella pneumoniae identifies citrate as a ligand to
+RT   the molybdenum of iron molybdenum cofactor (FeMoco).";
+RL   J. Biol. Chem. 277:35263-35266(2002).
+CC   -!- FUNCTION: This molybdenum-iron protein is part of the nitrogenase
+CC       complex that catalyzes the key enzymatic reactions in nitrogen
+CC       fixation.
+CC   -!- CATALYTIC ACTIVITY: 8 reduced ferredoxin + 8 H(+) + N(2) + 16 ATP
+CC       + 16 H(2)O = 8 oxidized ferredoxin + H(2) + 2 NH(3) + 16 ADP + 16
+CC       phosphate.
+CC   -!- COFACTOR:
+CC       Name=[8Fe-7S] cluster; Xref=ChEBI:CHEBI:21143;
+CC       Note=Binds 1 [8Fe-7S] cluster per heterodimer.;
+CC   -!- COFACTOR:
+CC       Name=[7Fe-Mo-9S-C-homocitryl] cluster; Xref=ChEBI:CHEBI:30409;
+CC       Note=Binds 1 [7Fe-Mo-9S-C-homocitryl] cluster per subunit.;
+CC   -!- SUBUNIT: Tetramer of two alpha and two beta chains. Forms complex
+CC       with the iron protein (nitrogenase component 2).
+CC       {ECO:0000269|PubMed:10525412, ECO:0000269|PubMed:12133839}.
+CC   -!- SIMILARITY: Belongs to the NifD/NifK/NifE/NifN family.
+CC       {ECO:0000305}.
+CC   -!- CAUTION: The authors of PubMed:3211766 originally stated that
+CC       their sequence was from Frankia sp. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; Y00316; CAA68413.1; -; Genomic_DNA.
+DR   EMBL; X07748; CAA30571.1; -; Genomic_DNA.
+DR   EMBL; X13303; CAA31667.1; -; Genomic_DNA.
+DR   EMBL; V00631; CAA23904.1; -; Genomic_DNA.
+DR   EMBL; X12649; CAA31179.1; -; Genomic_DNA.
+DR   EMBL; X06243; CAA29587.1; -; Genomic_DNA.
+DR   PIR; S01729; NIKBMA.
+DR   PDB; 1H1L; X-ray; 1.90 A; A/C=3-483.
+DR   PDB; 1QGU; X-ray; 1.60 A; A/C=3-480.
+DR   PDB; 1QH1; X-ray; 1.60 A; A/C=3-480.
+DR   PDB; 1QH8; X-ray; 1.60 A; A/C=3-480.
+DR   PDBsum; 1H1L; -.
+DR   PDBsum; 1QGU; -.
+DR   PDBsum; 1QH1; -.
+DR   PDBsum; 1QH8; -.
+DR   ProteinModelPortal; P00466; -.
+DR   SMR; P00466; 3-480.
+DR   DIP; DIP-6206N; -.
+DR   BioCyc; MetaCyc:NIFDKLEB-MONOMER; -.
+DR   EvolutionaryTrace; P00466; -.
+DR   GO; GO:0016612; C:molybdenum-iron nitrogenase complex; IEA:InterPro.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0018697; F:carbonyl sulfide nitrogenase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0051536; F:iron-sulfur cluster binding; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016163; F:nitrogenase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0009399; P:nitrogen fixation; IEA:UniProtKB-KW.
+DR   InterPro; IPR000510; Nase/OxRdtase_comp1.
+DR   InterPro; IPR010143; Nase_comp1_asu.
+DR   InterPro; IPR000318; Nase_comp1_CS.
+DR   InterPro; IPR005972; Nase_Mo-Fe_asu.
+DR   Pfam; PF00148; Oxidored_nitro; 1.
+DR   TIGRFAMs; TIGR01862; N2-ase-Ialpha; 1.
+DR   TIGRFAMs; TIGR01282; nifD; 1.
+DR   PROSITE; PS00699; NITROGENASE_1_1; 1.
+DR   PROSITE; PS00090; NITROGENASE_1_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; ATP-binding; Iron; Iron-sulfur; Metal-binding;
+KW   Molybdenum; Nitrogen fixation; Nucleotide-binding; Oxidoreductase.
+FT   CHAIN         1    483       Nitrogenase molybdenum-iron protein alpha
+FT                                chain.
+FT                                /FTId=PRO_0000153069.
+FT   METAL        63     63       Iron-sulfur (8Fe-7S); shared with beta
+FT                                chain.
+FT   METAL        89     89       Iron-sulfur (8Fe-7S); shared with beta
+FT                                chain.
+FT   METAL       155    155       Iron-sulfur (8Fe-7S); shared with beta
+FT                                chain.
+FT   METAL       275    275       Molybdenum-iron-sulfur-carbon (7Fe-Mo-9S-
+FT                                C-homocitryl).
+FT   METAL       442    442       Molybdenum-iron-sulfur-carbon (7Fe-Mo-9S-
+FT                                C-homocitryl); via pros nitrogen.
+FT   CONFLICT     16     16       E -> Q (in Ref. 4). {ECO:0000305}.
+FT   CONFLICT    261    264       EMEN -> GDGD (in Ref. 6; CAA31179).
+FT                                {ECO:0000305}.
+FT   CONFLICT    288    288       E -> D (in Ref. 6; CAA31179).
+FT                                {ECO:0000305}.
+FT   CONFLICT    341    343       KYR -> NIA (in Ref. 6; CAA31179).
+FT                                {ECO:0000305}.
+FT   CONFLICT    349    361       RKVLLYMGGLRPR -> LRCCSIWRLP (in Ref. 6;
+FT                                CAA31179). {ECO:0000305}.
+FT   CONFLICT    355    355       M -> I (in Ref. 2; CAA31667).
+FT                                {ECO:0000305}.
+FT   CONFLICT    469    469       N -> T (in Ref. 6; CAA31179).
+FT                                {ECO:0000305}.
+FT   HELIX         5     18       {ECO:0000244|PDB:1QGU}.
+FT   HELIX        23     29       {ECO:0000244|PDB:1QGU}.
+FT   HELIX        30     32       {ECO:0000244|PDB:1QGU}.
+FT   STRAND       33     35       {ECO:0000244|PDB:1QGU}.
+FT   HELIX        44     46       {ECO:0000244|PDB:1QGU}.
+FT   HELIX        64     68       {ECO:0000244|PDB:1QGU}.
+FT   HELIX        69     73       {ECO:0000244|PDB:1QGU}.
+FT   STRAND       79     87       {ECO:0000244|PDB:1QGU}.
+FT   HELIX        88     92       {ECO:0000244|PDB:1QGU}.
+FT   TURN         93     95       {ECO:0000244|PDB:1QGU}.
+FT   TURN        105    107       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       121    126       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       129    142       {ECO:0000244|PDB:1QGU}.
+FT   STRAND      147    153       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       156    159       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       164    175       {ECO:0000244|PDB:1QGU}.
+FT   STRAND      179    182       {ECO:0000244|PDB:1QGU}.
+FT   STRAND      188    191       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       192    206       {ECO:0000244|PDB:1QGU}.
+FT   TURN        207    213       {ECO:0000244|PDB:1QGU}.
+FT   STRAND      222    228       {ECO:0000244|PDB:1QGU}.
+FT   TURN        232    235       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       236    244       {ECO:0000244|PDB:1QGU}.
+FT   STRAND      248    254       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       259    264       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       265    267       {ECO:0000244|PDB:1QGU}.
+FT   STRAND      269    274       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       276    290       {ECO:0000244|PDB:1QGU}.
+FT   STRAND      294    296       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       301    313       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       318    346       {ECO:0000244|PDB:1QGU}.
+FT   STRAND      350    358       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       359    362       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       364    369       {ECO:0000244|PDB:1QGU}.
+FT   STRAND      373    381       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       384    390       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       391    393       {ECO:0000244|PDB:1QGU}.
+FT   STRAND      399    403       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       406    416       {ECO:0000244|PDB:1QGU}.
+FT   STRAND      419    423       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       425    433       {ECO:0000244|PDB:1QGU}.
+FT   STRAND      438    443       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       444    446       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       452    467       {ECO:0000244|PDB:1QGU}.
+FT   HELIX       470    473       {ECO:0000244|PDB:1QGU}.
+SQ   SEQUENCE   483 AA;  54158 MW;  4A2BA83B2C0C6EE7 CRC64;
+     MMTNATGERN LALIQEVLEV FPETARKERR KHMMVSDPKM KSVGKCIISN RKSQPGVMTV
+     RGCAYAGSKG VVFGPIKDMA HISHGPAGCG QYSRAERRNY YTGVSGVDSF GTLNFTSDFQ
+     ERDIVFGGDK KLSKLIEEME LLFPLTKGIT IQSECPVGLI GDDISAVANA SSKALDKPVI
+     PVRCEGFRGV SQSLGHHIAN DVVRDWILNN REGQPFETTP YDVAIIGDYN IGGDAWASRI
+     LLEEMGLRVV AQWSGDGTLV EMENTPFVKL NLVHCYRSMN YIARHMEEKH QIPWMEYNFF
+     GPTKIAESLR KIADQFDDTI RANAEAVIAR YEGQMAAIIA KYRPRLEGRK VLLYMGGLRP
+     RHVIGAYEDL GMEIIAAGYE FAHNDDYDRT LPDLKEGTLL FDDASSYELE AFVKALKPDL
+     IGSGIKEKYI FQKMGVPFRQ MHSWDYSGPY HGYDGFAIFA RDMDMTLNNP AWNELTAPWL
+     KSA
+//

@@ -1,0 +1,841 @@
+ID   WRN_HUMAN               Reviewed;        1432 AA.
+AC   Q14191; A1KYY9;
+DT   15-DEC-1998, integrated into UniProtKB/Swiss-Prot.
+DT   08-FEB-2011, sequence version 2.
+DT   22-JUL-2015, entry version 177.
+DE   RecName: Full=Werner syndrome ATP-dependent helicase;
+DE            EC=3.6.4.12;
+DE   AltName: Full=DNA helicase, RecQ-like type 3;
+DE            Short=RecQ3;
+DE   AltName: Full=Exonuclease WRN;
+DE            EC=3.1.-.-;
+DE   AltName: Full=RecQ protein-like 2;
+GN   Name=WRN; Synonyms=RECQ3, RECQL2;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND VARIANT PHE-1074.
+RX   PubMed=8602509; DOI=10.1126/science.272.5259.258;
+RA   Yu C.-E., Oshima J., Fu Y.-H., Wijsman E.M., Hisama F., Alisch R.,
+RA   Matthews S., Nakura J., Miki T., Ouais S., Martin G.M., Mulligan J.,
+RA   Schellenberg G.D.;
+RT   "Positional cloning of the Werner's syndrome gene.";
+RL   Science 272:258-262(1996).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND VARIANT PHE-1074.
+RX   PubMed=16723399; DOI=10.1073/pnas.0600645103;
+RA   Agrelo R., Cheng W.H., Setien F., Ropero S., Espada J., Fraga M.F.,
+RA   Herranz M., Paz M.F., Sanchez-Cespedes M., Artiga M.J., Guerrero D.,
+RA   Castells A., von Kobbe C., Bohr V.A., Esteller M.;
+RT   "Epigenetic inactivation of the premature aging Werner syndrome gene
+RT   in human cancer.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 103:8822-8827(2006).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND VARIANT PHE-1074.
+RA   Paeper B.W., Gayle M., Brady W., Swartz A., Gillett L.A., Alisch R.S.,
+RA   Mulligan J., Galas D., Fu Y.-H.;
+RT   "Genomic structure of the human Werner's gene and cloning of the mouse
+RT   homolog.";
+RL   Submitted (AUG-1999) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND VARIANTS ILE-114; LYS-343;
+RP   ILE-387; SER-533; CYS-612; PHE-708; CYS-834; SER-912; LEU-1079;
+RP   ALA-1133; ILE-1339 AND ARG-1367.
+RG   NIEHS SNPs program;
+RL   Submitted (OCT-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16421571; DOI=10.1038/nature04406;
+RA   Nusbaum C., Mikkelsen T.S., Zody M.C., Asakawa S., Taudien S.,
+RA   Garber M., Kodira C.D., Schueler M.G., Shimizu A., Whittaker C.A.,
+RA   Chang J.L., Cuomo C.A., Dewar K., FitzGerald M.G., Yang X.,
+RA   Allen N.R., Anderson S., Asakawa T., Blechschmidt K., Bloom T.,
+RA   Borowsky M.L., Butler J., Cook A., Corum B., DeArellano K.,
+RA   DeCaprio D., Dooley K.T., Dorris L. III, Engels R., Gloeckner G.,
+RA   Hafez N., Hagopian D.S., Hall J.L., Ishikawa S.K., Jaffe D.B.,
+RA   Kamat A., Kudoh J., Lehmann R., Lokitsang T., Macdonald P.,
+RA   Major J.E., Matthews C.D., Mauceli E., Menzel U., Mihalev A.H.,
+RA   Minoshima S., Murayama Y., Naylor J.W., Nicol R., Nguyen C.,
+RA   O'Leary S.B., O'Neill K., Parker S.C.J., Polley A., Raymond C.K.,
+RA   Reichwald K., Rodriguez J., Sasaki T., Schilhabel M., Siddiqui R.,
+RA   Smith C.L., Sneddon T.P., Talamas J.A., Tenzin P., Topham K.,
+RA   Venkataraman V., Wen G., Yamazaki S., Young S.K., Zeng Q.,
+RA   Zimmer A.R., Rosenthal A., Birren B.W., Platzer M., Shimizu N.,
+RA   Lander E.S.;
+RT   "DNA sequence and analysis of human chromosome 8.";
+RL   Nature 439:331-335(2006).
+RN   [6]
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=9618508; DOI=10.1073/pnas.95.12.6887;
+RA   Marciniak R.A., Lombard D.B., Johnson F.B., Guarente L.;
+RT   "Nucleolar localization of the Werner syndrome protein in human
+RT   cells.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 95:6887-6892(1998).
+RN   [7]
+RP   REPEATS.
+RX   PubMed=10049920;
+RA   Kusano K., Berres M.E., Engels W.R.;
+RT   "Evolution of the RECQ family of helicases: a Drosophila homolog,
+RT   Dmblm, is similar to the human Bloom syndrome gene.";
+RL   Genetics 151:1027-1039(1999).
+RN   [8]
+RP   FUNCTION, MUTAGENESIS OF GLU-84, FUNCTION AS AN EXONUCLEASE,
+RP   DNA-BINDING, INTERACTION WITH PCNA, AND SUBUNIT.
+RX   PubMed=11863428; DOI=10.1021/bi0157161;
+RA   Xue Y., Ratcliff G.C., Wang H., Davis-Searles P.R., Gray M.D.,
+RA   Erie D.A., Redinbo M.R.;
+RT   "A minimal exonuclease domain of WRN forms a hexamer on DNA and
+RT   possesses both 3'- 5' exonuclease and 5'-protruding strand
+RT   endonuclease activities.";
+RL   Biochemistry 41:2901-2912(2002).
+RN   [9]
+RP   PHOSPHORYLATION.
+RX   PubMed=11889123; DOI=10.1074/jbc.M111523200;
+RA   Karmakar P., Piotrowski J., Brosh R.M. Jr., Sommers J.A., Miller S.P.,
+RA   Cheng W.H., Snowden C.M., Ramsden D.A., Bohr V.A.;
+RT   "Werner protein is a target of DNA-dependent protein kinase in vivo
+RT   and in vitro, and its catalytic activities are regulated by
+RT   phosphorylation.";
+RL   J. Biol. Chem. 277:18291-18302(2002).
+RN   [10]
+RP   INTERACTION WITH EXO1.
+RX   PubMed=12704184; DOI=10.1074/jbc.M212798200;
+RA   Sharma S., Sommers J.A., Driscoll H.C., Uzdilla L.A., Wilson T.M.,
+RA   Brosh R.M. Jr.;
+RT   "The exonucleolytic and endonucleolytic cleavage activities of human
+RT   exonuclease 1 are stimulated by an interaction with the carboxyl-
+RT   terminal region of the Werner syndrome protein.";
+RL   J. Biol. Chem. 278:23487-23496(2003).
+RN   [11]
+RP   INTERACTION WITH SUPV3L1.
+RX   PubMed=17961633; DOI=10.1016/j.mad.2007.09.001;
+RA   Pereira M., Mason P., Szczesny R.J., Maddukuri L., Dziwura S.,
+RA   Jedrzejczak R., Paul E., Wojcik A., Dybczynska L., Tudek B.,
+RA   Bartnik E., Klysik J., Bohr V.A., Stepien P.P.;
+RT   "Interaction of human SUV3 RNA/DNA helicase with BLM helicase; loss of
+RT   the SUV3 gene results in mouse embryonic lethality.";
+RL   Mech. Ageing Dev. 128:609-617(2007).
+RN   [12]
+RP   FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=17563354; DOI=10.1073/pnas.0702513104;
+RA   Kamath-Loeb A.S., Lan L., Nakajima S., Yasui A., Loeb L.A.;
+RT   "Werner syndrome protein interacts functionally with translesion DNA
+RT   polymerases.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 104:10394-10399(2007).
+RN   [13]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Embryonic kidney;
+RX   PubMed=17525332; DOI=10.1126/science.1140321;
+RA   Matsuoka S., Ballif B.A., Smogorzewska A., McDonald E.R. III,
+RA   Hurov K.E., Luo J., Bakalarski C.E., Zhao Z., Solimini N.,
+RA   Lerenthal Y., Shiloh Y., Gygi S.P., Elledge S.J.;
+RT   "ATM and ATR substrate analysis reveals extensive protein networks
+RT   responsive to DNA damage.";
+RL   Science 316:1160-1166(2007).
+RN   [14]
+RP   FUNCTION, SUBUNIT, AND DNA-BINDING.
+RX   PubMed=18596042; DOI=10.1074/jbc.M803370200;
+RA   Compton S.A., Tolun G., Kamath-Loeb A.S., Loeb L.A., Griffith J.D.;
+RT   "The Werner syndrome protein binds replication fork and Holliday
+RT   junction DNAs as an oligomer.";
+RL   J. Biol. Chem. 283:24478-24483(2008).
+RN   [15]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-440 AND SER-467, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [16]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19413330; DOI=10.1021/ac9004309;
+RA   Gauci S., Helbig A.O., Slijper M., Krijgsveld J., Heck A.J.,
+RA   Mohammed S.;
+RT   "Lys-N and trypsin cover complementary parts of the phosphoproteome in
+RT   a refined SCX-based approach.";
+RL   Anal. Chem. 81:4493-4501(2009).
+RN   [17]
+RP   FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=19652551; DOI=10.4161/cc.8.17.9410;
+RA   Zecevic A., Menard H., Gurel V., Hagan E., DeCaro R., Zhitkovich A.;
+RT   "WRN helicase promotes repair of DNA double-strand breaks caused by
+RT   aberrant mismatch repair of chromium-DNA adducts.";
+RL   Cell Cycle 8:2769-2778(2009).
+RN   [18]
+RP   FUNCTION.
+RX   PubMed=19283071; DOI=10.1371/journal.pone.0004825;
+RA   Opresko P.L., Sowd G., Wang H.;
+RT   "The Werner syndrome helicase/exonuclease processes mobile D-loops
+RT   through branch migration and degradation.";
+RL   PLoS ONE 4:E4825-E4825(2009).
+RN   [19]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-426; SER-440; SER-453
+RP   AND SER-467, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE
+RP   ANALYSIS].
+RC   TISSUE=Leukemic T-cell;
+RX   PubMed=19690332; DOI=10.1126/scisignal.2000007;
+RA   Mayya V., Lundgren D.H., Hwang S.-I., Rezaul K., Wu L., Eng J.K.,
+RA   Rodionov V., Han D.K.;
+RT   "Quantitative phosphoproteomic analysis of T cell receptor signaling
+RT   reveals system-wide modulation of protein-protein interactions.";
+RL   Sci. Signal. 2:RA46-RA46(2009).
+RN   [20]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P.,
+RA   Buerckstuemmer T., Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [21]
+RP   FUNCTION, SUBCELLULAR LOCATION, AND INTERACTION WITH PML.
+RX   PubMed=21639834; DOI=10.1134/S000629791105004X;
+RA   Liu J., Song Y., Qian J., Liu B., Dong Y., Tian B., Sun Z.;
+RT   "Promyelocytic leukemia protein interacts with werner syndrome
+RT   helicase and regulates double-strand break repair in gamma-
+RT   irradiation-induced DNA damage responses.";
+RL   Biochemistry (Mosc.) 76:550-554(2011).
+RN   [22]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1133, AND IDENTIFICATION
+RP   BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21406692; DOI=10.1126/scisignal.2001570;
+RA   Rigbolt K.T., Prokhorova T.A., Akimov V., Henningsen J.,
+RA   Johansen P.T., Kratchmarova I., Kassem M., Mann M., Olsen J.V.,
+RA   Blagoev B.;
+RT   "System-wide temporal characterization of the proteome and
+RT   phosphoproteome of human embryonic stem cell differentiation.";
+RL   Sci. Signal. 4:RS3-RS3(2011).
+RN   [23]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT SER-2, IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS], AND CLEAVAGE OF INITIATOR
+RP   METHIONINE [LARGE SCALE ANALYSIS].
+RX   PubMed=22814378; DOI=10.1073/pnas.1210303109;
+RA   Van Damme P., Lasa M., Polevoda B., Gazquez C., Elosegui-Artola A.,
+RA   Kim D.S., De Juan-Pardo E., Demeyer K., Hole K., Larrea E.,
+RA   Timmerman E., Prieto J., Arnesen T., Sherman F., Gevaert K.,
+RA   Aldabe R.;
+RT   "N-terminal acetylome analyses and functional insights of the N-
+RT   terminal acetyltransferase NatB.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 109:12449-12454(2012).
+RN   [24]
+RP   STRUCTURE BY NMR OF 949-1092.
+RX   PubMed=16339893; DOI=10.1073/pnas.0509380102;
+RA   Hu J.S., Feng H., Zeng W., Lin G.X., Xi X.G.;
+RT   "Solution structure of a multifunctional DNA- and protein-binding
+RT   motif of human Werner syndrome protein.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 102:18379-18384(2005).
+RN   [25]
+RP   X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS) OF 38-236 IN COMPLEXES WITH
+RP   MAGNESIUM; MANGANESE; EUROPIUM AND GMP, PARTIAL PROTEIN SEQUENCE,
+RP   IDENTIFICATION BY MASS SPECTROMETRY, CATALYTIC ACTIVITY, COFACTOR,
+RP   MUTAGENESIS OF GLU-84; TRP-145 AND TYR-212, AND CHARACTERIZATION OF
+RP   VARIANTS ILE-114 AND PRO-172.
+RX   PubMed=16622405; DOI=10.1038/nsmb1088;
+RA   Perry J.J., Yannone S.M., Holden L.G., Hitomi C., Asaithamby A.,
+RA   Han S., Cooper P.K., Chen D.J., Tainer J.A.;
+RT   "WRN exonuclease structure and molecular mechanism imply an editing
+RT   role in DNA end processing.";
+RL   Nat. Struct. Mol. Biol. 13:414-422(2006).
+RN   [26]
+RP   REVIEW ON VARIANTS.
+RX   PubMed=10220139;
+RX   DOI=10.1002/(SICI)1098-1004(1999)13:4<271::AID-HUMU2>3.0.CO;2-Q;
+RA   Moser M.J., Oshima J., Monnat R.J. Jr.;
+RT   "WRN mutations in Werner syndrome.";
+RL   Hum. Mutat. 13:271-279(1999).
+RN   [27]
+RP   STRUCTURE BY NMR OF 1140-1239.
+RG   RIKEN structural genomics initiative (RSGI);
+RT   "Solution structure of the helicase and RNase D C-terminal domain in
+RT   Werner syndrome ATP-dependent helicase.";
+RL   Submitted (SEP-2006) to the PDB data bank.
+RN   [28]
+RP   X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS) OF 1142-1242, PARTIAL PROTEIN
+RP   SEQUENCE, IDENTIFICATION BY MASS SPECTROMETRY, AND CIRCULAR DICHROISM.
+RX   PubMed=17148451; DOI=10.1074/jbc.M610142200;
+RA   Kitano K., Yoshihara N., Hakoshima T.;
+RT   "Crystal structure of the HRDC domain of human Werner syndrome
+RT   protein, WRN.";
+RL   J. Biol. Chem. 282:2717-2728(2007).
+RN   [29]
+RP   X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS) OF 949-1079 IN COMPLEX WITH
+RP   DOUBLE-STRANDED DNA, INTERACTION WITH DNA, AND MUTAGENESIS OF ARG-987;
+RP   SER-989; ARG-993; PHE-1037 AND MET-1038.
+RX   PubMed=20159463; DOI=10.1016/j.str.2009.12.011;
+RA   Kitano K., Kim S.Y., Hakoshima T.;
+RT   "Structural basis for DNA strand separation by the unconventional
+RT   winged-helix domain of RecQ helicase WRN.";
+RL   Structure 18:177-187(2010).
+RN   [30]
+RP   VARIANT ARG-1367.
+RX   PubMed=9021029;
+RX   DOI=10.1002/(SICI)1096-8628(19970211)68:4<494::AID-AJMG30>3.0.CO;2-L;
+RA   Ye L., Miki T., Nakura J., Oshima J., Kamino K., Rakugi H.,
+RA   Ikegami H., Higaki J., Edland S.D., Martin G.M., Ogihara T.;
+RT   "Association of a polymorphic variant of the Werner helicase gene with
+RT   myocardial infarction in a Japanese population.";
+RL   Am. J. Med. Genet. 68:494-498(1997).
+RN   [31]
+RP   ERRATUM.
+RA   Ye L., Miki T., Nakura J., Oshima J., Kamino K., Rakugi H.,
+RA   Ikegami H., Higaki J., Edland S.D., Martin G.M., Ogihara T.;
+RL   Am. J. Med. Genet. 70:103-103(1997).
+RN   [32]
+RP   VARIANTS ILE-387 AND PHE-1074.
+RX   PubMed=9450180;
+RA   Meisslitzer C., Ruppitsch W., Weirich-Schwaiger H., Weirich H.G.,
+RA   Jabkowsky J., Klein G., Schweiger M., Hirsch-Kauffmann M.;
+RT   "Werner syndrome: characterization of mutations in the WRN gene in an
+RT   affected family.";
+RL   Eur. J. Hum. Genet. 5:364-370(1997).
+RN   [33]
+RP   VARIANT ILE-387.
+RX   PubMed=10206685;
+RX   DOI=10.1002/(SICI)1098-1004(1998)11:5<413::AID-HUMU18>3.0.CO;2-C;
+RA   Vidal V., Bay J.-O., Champomier F., Grancho M., Beauville L.,
+RA   Glowaczower C., Lemery D., Ferrara M., Bignon Y.-J.;
+RT   "The 1396del A mutation and a missense mutation or a rare polymorphism
+RT   of the WRN gene detected in a French Werner family with a severe
+RT   phenotype and a case of an unusual vulvar cancer.";
+RL   Hum. Mutat. 11:413-414(1998).
+RN   [34]
+RP   VARIANTS ALA-324 AND ARG-1367.
+RX   PubMed=10069711;
+RX   DOI=10.1002/(SICI)1096-8628(19990219)82:5<399::AID-AJMG8>3.3.CO;2-I;
+RA   Castro E., Ogburn C.E., Hunt K.E., Tilvis R., Louhija J.,
+RA   Penttinen R., Erkkola R., Panduro A., Riestra R., Piussan C.,
+RA   Deeb S.S., Wang L., Edland S.D., Martin G.M., Oshima J.;
+RT   "Polymorphisms at the Werner locus: I. Newly identified polymorphisms,
+RT   ethnic variability of 1367Cys/Arg, and its stability in a population
+RT   of Finnish centenarians.";
+RL   Am. J. Med. Genet. 82:399-403(1999).
+RN   [35]
+RP   VARIANTS ARG-32; ILE-114; PRO-172; LYS-240; TRP-383; ILE-387; LEU-724;
+RP   PHE-1074; GLU-1269 AND ARG-1367.
+RX   PubMed=11161804; DOI=10.1006/geno.2000.6405;
+RA   Passarino G., Shen P., Van Kirk J.B., Lin A.A., De Benedictis G.,
+RA   Cavalli-Sforza L.L., Oefner P.J., Underhill P.A.;
+RT   "The Werner syndrome gene and global sequence variation.";
+RL   Genomics 71:118-122(2001).
+RN   [36]
+RP   VARIANTS WRN ASN-125 AND GLU-135.
+RX   PubMed=16673358; DOI=10.1002/humu.20337;
+RA   Huang S., Lee L., Hanson N.B., Lenaerts C., Hoehn H., Poot M.,
+RA   Rubin C.D., Chen D.-F., Yang C.-C., Juch H., Dorn T., Spiegel R.,
+RA   Oral E.A., Abid M., Battisti C., Lucci-Cordisco E., Neri G.,
+RA   Steed E.H., Kidd A., Isley W., Showalter D., Vittone J.L.,
+RA   Konstantinow A., Ring J., Meyer P., Wenger S.L., Herbay A.V.,
+RA   Wollina U., Schuelke M., Huizenga C.R., Leistritz D.F., Martin G.M.,
+RA   Mian I.S., Oshima J.;
+RT   "The spectrum of WRN mutations in Werner syndrome patients.";
+RL   Hum. Mutat. 27:558-567(2006).
+RN   [37]
+RP   VARIANT [LARGE SCALE ANALYSIS] VAL-92.
+RX   PubMed=16959974; DOI=10.1126/science.1133427;
+RA   Sjoeblom T., Jones S., Wood L.D., Parsons D.W., Lin J., Barber T.D.,
+RA   Mandelker D., Leary R.J., Ptak J., Silliman N., Szabo S.,
+RA   Buckhaults P., Farrell C., Meeh P., Markowitz S.D., Willis J.,
+RA   Dawson D., Willson J.K.V., Gazdar A.F., Hartigan J., Wu L., Liu C.,
+RA   Parmigiani G., Park B.H., Bachman K.E., Papadopoulos N.,
+RA   Vogelstein B., Kinzler K.W., Velculescu V.E.;
+RT   "The consensus coding sequences of human breast and colorectal
+RT   cancers.";
+RL   Science 314:268-274(2006).
+RN   [38]
+RP   VARIANT [LARGE SCALE ANALYSIS] LEU-1141.
+RX   PubMed=18987736; DOI=10.1038/nature07485;
+RA   Ley T.J., Mardis E.R., Ding L., Fulton B., McLellan M.D., Chen K.,
+RA   Dooling D., Dunford-Shore B.H., McGrath S., Hickenbotham M., Cook L.,
+RA   Abbott R., Larson D.E., Koboldt D.C., Pohl C., Smith S., Hawkins A.,
+RA   Abbott S., Locke D., Hillier L.W., Miner T., Fulton L., Magrini V.,
+RA   Wylie T., Glasscock J., Conyers J., Sander N., Shi X., Osborne J.R.,
+RA   Minx P., Gordon D., Chinwalla A., Zhao Y., Ries R.E., Payton J.E.,
+RA   Westervelt P., Tomasson M.H., Watson M., Baty J., Ivanovich J.,
+RA   Heath S., Shannon W.D., Nagarajan R., Walter M.J., Link D.C.,
+RA   Graubert T.A., DiPersio J.F., Wilson R.K.;
+RT   "DNA sequencing of a cytogenetically normal acute myeloid leukaemia
+RT   genome.";
+RL   Nature 456:66-72(2008).
+CC   -!- FUNCTION: Multifunctional enzyme that has both magnesium and ATP-
+CC       dependent DNA-helicase activity and 3'->5' exonuclease activity
+CC       towards double-stranded DNA with a 5'-overhang. Has no nuclease
+CC       activity towards single-stranded DNA or blunt-ended double-
+CC       stranded DNA. Binds preferentially to DNA substrates containing
+CC       alternate secondary structures, such as replication forks and
+CC       Holliday junctions. May play an important role in the dissociation
+CC       of joint DNA molecules that can arise as products of homologous
+CC       recombination, at stalled replication forks or during DNA repair.
+CC       Alleviates stalling of DNA polymerases at the site of DNA lesions.
+CC       Important for genomic integrity. Plays a role in the formation of
+CC       DNA replication focal centers; stably associates with foci
+CC       elements generating binding sites for RP-A (By similarity). Plays
+CC       a role in double-strand break repair after gamma-irradiation.
+CC       {ECO:0000250, ECO:0000269|PubMed:11863428,
+CC       ECO:0000269|PubMed:17563354, ECO:0000269|PubMed:18596042,
+CC       ECO:0000269|PubMed:19283071, ECO:0000269|PubMed:19652551,
+CC       ECO:0000269|PubMed:21639834}.
+CC   -!- CATALYTIC ACTIVITY: ATP + H(2)O = ADP + phosphate.
+CC       {ECO:0000269|PubMed:16622405}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000269|PubMed:16622405};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000269|PubMed:16622405};
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC         Evidence={ECO:0000269|PubMed:16622405};
+CC       Note=Binds 2 magnesium ions per subunit. Has high activity with
+CC       manganese and zinc ions (in vitro). {ECO:0000269|PubMed:16622405};
+CC   -!- SUBUNIT: Monomer, and homooligomer. May exist as homodimer,
+CC       homotrimer, homotetramer and/or homohexamer. Homotetramer, or
+CC       homohexamer, when bound to DNA. Interacts via its N-terminal
+CC       domain with WRNIP1 (By similarity). Interacts with EXO1, PCNA and
+CC       SUPV3L1. Interacts with PML (isoform PML-4). {ECO:0000250,
+CC       ECO:0000269|PubMed:11863428, ECO:0000269|PubMed:12704184,
+CC       ECO:0000269|PubMed:17961633, ECO:0000269|PubMed:18596042,
+CC       ECO:0000269|PubMed:20159463, ECO:0000269|PubMed:21639834}.
+CC   -!- INTERACTION:
+CC       P54132:BLM; NbExp=9; IntAct=EBI-368417, EBI-621372;
+CC       P39748:FEN1; NbExp=9; IntAct=EBI-368417, EBI-707816;
+CC       P09874:PARP1; NbExp=8; IntAct=EBI-368417, EBI-355676;
+CC       P43351:RAD52; NbExp=9; IntAct=EBI-368417, EBI-706448;
+CC       P27694:RPA1; NbExp=9; IntAct=EBI-368417, EBI-621389;
+CC       Q96EB6:SIRT1; NbExp=9; IntAct=EBI-368417, EBI-1802965;
+CC       Q15554:TERF2; NbExp=8; IntAct=EBI-368417, EBI-706637;
+CC       P04637:TP53; NbExp=5; IntAct=EBI-368417, EBI-366083;
+CC       P12956:XRCC6; NbExp=4; IntAct=EBI-368417, EBI-353208;
+CC   -!- SUBCELLULAR LOCATION: Nucleus, nucleolus. Nucleus. Nucleus,
+CC       nucleoplasm. Note=Gamma-irradiation leads to its translocation
+CC       from nucleoli to nucleoplasm and PML regulates the irradiation-
+CC       induced WRN relocation.
+CC   -!- PTM: Phosphorylated by PRKDC. {ECO:0000269|PubMed:11889123}.
+CC   -!- DISEASE: Werner syndrome (WRN) [MIM:277700]: A rare autosomal
+CC       recessive progeroid syndrome characterized by the premature onset
+CC       of multiple age-related disorders, including atherosclerosis,
+CC       cancer, non-insulin-dependent diabetes mellitus, ocular cataracts
+CC       and osteoporosis. The major cause of death, at a median age of 47,
+CC       is myocardial infarction. {ECO:0000269|PubMed:16673358}. Note=The
+CC       disease is caused by mutations affecting the gene represented in
+CC       this entry.
+CC   -!- DISEASE: Colorectal cancer (CRC) [MIM:114500]: A complex disease
+CC       characterized by malignant lesions arising from the inner wall of
+CC       the large intestine (the colon) and the rectum. Genetic
+CC       alterations are often associated with progression from
+CC       premalignant lesion (adenoma) to invasive adenocarcinoma. Risk
+CC       factors for cancer of the colon and rectum include colon polyps,
+CC       long-standing ulcerative colitis, and genetic family history.
+CC       Note=The disease may be caused by mutations affecting the gene
+CC       represented in this entry.
+CC   -!- SIMILARITY: Belongs to the helicase family. RecQ subfamily.
+CC       {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 3'-5' exonuclease domain. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 helicase ATP-binding domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00541}.
+CC   -!- SIMILARITY: Contains 1 helicase C-terminal domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00542}.
+CC   -!- SIMILARITY: Contains 1 HRDC domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00328}.
+CC   -!- WEB RESOURCE: Name=WRN; Note=WRN mutation db (Warner disease);
+CC       URL="http://www.pathology.washington.edu/werner/ws_wrn.html";
+CC   -!- WEB RESOURCE: Name=Atlas of Genetics and Cytogenetics in Oncology
+CC       and Haematology;
+CC       URL="http://atlasgeneticsoncology.org/Genes/WRNID284.html";
+CC   -!- WEB RESOURCE: Name=NIEHS-SNPs;
+CC       URL="http://egp.gs.washington.edu/data/wrn/";
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; L76937; AAC41981.1; -; Genomic_DNA.
+DR   EMBL; AY818673; AAX21098.1; -; mRNA.
+DR   EMBL; AF091214; AAC63361.1; -; mRNA.
+DR   EMBL; AF181897; AAF06162.1; -; Genomic_DNA.
+DR   EMBL; AF181896; AAF06162.1; JOINED; Genomic_DNA.
+DR   EMBL; AY442327; AAR05448.1; -; Genomic_DNA.
+DR   EMBL; AC084736; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   CCDS; CCDS6082.1; -.
+DR   RefSeq; NP_000544.2; NM_000553.4.
+DR   UniGene; Hs.632050; -.
+DR   PDB; 2AXL; NMR; -; A=949-1092.
+DR   PDB; 2DGZ; NMR; -; A=1140-1239.
+DR   PDB; 2E1E; X-ray; 2.30 A; A=1142-1242.
+DR   PDB; 2E1F; X-ray; 2.00 A; A=1142-1242.
+DR   PDB; 2FBT; X-ray; 2.05 A; A=38-236.
+DR   PDB; 2FBV; X-ray; 2.40 A; A=38-236.
+DR   PDB; 2FBX; X-ray; 2.20 A; A=38-236.
+DR   PDB; 2FBY; X-ray; 2.00 A; A=38-236.
+DR   PDB; 2FC0; X-ray; 2.00 A; A=38-236.
+DR   PDB; 3AAF; X-ray; 1.90 A; A/B=949-1079.
+DR   PDBsum; 2AXL; -.
+DR   PDBsum; 2DGZ; -.
+DR   PDBsum; 2E1E; -.
+DR   PDBsum; 2E1F; -.
+DR   PDBsum; 2FBT; -.
+DR   PDBsum; 2FBV; -.
+DR   PDBsum; 2FBX; -.
+DR   PDBsum; 2FBY; -.
+DR   PDBsum; 2FC0; -.
+DR   PDBsum; 3AAF; -.
+DR   DisProt; DP00443; -.
+DR   ProteinModelPortal; Q14191; -.
+DR   SMR; Q14191; 38-231, 540-1092, 1142-1235.
+DR   BioGrid; 113323; 44.
+DR   DIP; DIP-31380N; -.
+DR   IntAct; Q14191; 21.
+DR   MINT; MINT-95856; -.
+DR   STRING; 9606.ENSP00000298139; -.
+DR   BindingDB; Q14191; -.
+DR   ChEMBL; CHEMBL2146312; -.
+DR   PhosphoSite; Q14191; -.
+DR   BioMuta; WRN; -.
+DR   DMDM; 322510082; -.
+DR   MaxQB; Q14191; -.
+DR   PaxDb; Q14191; -.
+DR   PRIDE; Q14191; -.
+DR   Ensembl; ENST00000298139; ENSP00000298139; ENSG00000165392.
+DR   GeneID; 7486; -.
+DR   KEGG; hsa:7486; -.
+DR   UCSC; uc003xio.4; human.
+DR   CTD; 7486; -.
+DR   GeneCards; GC08P030948; -.
+DR   GeneReviews; WRN; -.
+DR   H-InvDB; HIX0007441; -.
+DR   HGNC; HGNC:12791; WRN.
+DR   HPA; HPA028661; -.
+DR   MIM; 114500; phenotype.
+DR   MIM; 277700; phenotype.
+DR   MIM; 604611; gene.
+DR   neXtProt; NX_Q14191; -.
+DR   Orphanet; 902; Werner syndrome.
+DR   PharmGKB; PA367; -.
+DR   eggNOG; COG0514; -.
+DR   GeneTree; ENSGT00550000074520; -.
+DR   HOGENOM; HOG000146447; -.
+DR   HOVERGEN; HBG000325; -.
+DR   InParanoid; Q14191; -.
+DR   KO; K10900; -.
+DR   OMA; YLIHMAI; -.
+DR   OrthoDB; EOG7J70F2; -.
+DR   PhylomeDB; Q14191; -.
+DR   TreeFam; TF312852; -.
+DR   BRENDA; 3.6.4.12; 2681.
+DR   Reactome; REACT_355174; SUMOylation of DNA damage response and repair proteins.
+DR   ChiTaRS; WRN; human.
+DR   EvolutionaryTrace; Q14191; -.
+DR   GeneWiki; Werner_syndrome_ATP-dependent_helicase; -.
+DR   GenomeRNAi; 7486; -.
+DR   NextBio; 29326; -.
+DR   PRO; PR:Q14191; -.
+DR   Proteomes; UP000005640; Chromosome 8.
+DR   Bgee; Q14191; -.
+DR   CleanEx; HS_WRN; -.
+DR   Genevisible; Q14191; HS.
+DR   GO; GO:0005813; C:centrosome; IDA:UniProtKB.
+DR   GO; GO:0005730; C:nucleolus; IDA:UniProtKB.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:UniProtKB.
+DR   GO; GO:0043138; F:3'-5' DNA helicase activity; IDA:UniProtKB.
+DR   GO; GO:0008408; F:3'-5' exonuclease activity; IDA:UniProtKB.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0043140; F:ATP-dependent 3'-5' DNA helicase activity; IEA:InterPro.
+DR   GO; GO:0004003; F:ATP-dependent DNA helicase activity; IDA:UniProtKB.
+DR   GO; GO:0016887; F:ATPase activity; IDA:UniProtKB.
+DR   GO; GO:0000405; F:bubble DNA binding; IDA:UniProtKB.
+DR   GO; GO:0003677; F:DNA binding; IDA:UniProtKB.
+DR   GO; GO:0003678; F:DNA helicase activity; IMP:UniProtKB.
+DR   GO; GO:0004527; F:exonuclease activity; IDA:MGI.
+DR   GO; GO:0009378; F:four-way junction helicase activity; IDA:UniProtKB.
+DR   GO; GO:0051880; F:G-quadruplex DNA binding; IDA:UniProtKB.
+DR   GO; GO:0004386; F:helicase activity; IDA:UniProtKB.
+DR   GO; GO:0000287; F:magnesium ion binding; IDA:UniProtKB.
+DR   GO; GO:0030145; F:manganese ion binding; IDA:UniProtKB.
+DR   GO; GO:0032403; F:protein complex binding; IDA:UniProtKB.
+DR   GO; GO:0042803; F:protein homodimerization activity; IDA:UniProtKB.
+DR   GO; GO:0000403; F:Y-form DNA binding; IDA:UniProtKB.
+DR   GO; GO:0007568; P:aging; NAS:UniProtKB.
+DR   GO; GO:0006284; P:base-excision repair; IDA:UniProtKB.
+DR   GO; GO:0007569; P:cell aging; IMP:UniProtKB.
+DR   GO; GO:0044267; P:cellular protein metabolic process; TAS:Reactome.
+DR   GO; GO:0006974; P:cellular response to DNA damage stimulus; IDA:UniProtKB.
+DR   GO; GO:0071480; P:cellular response to gamma radiation; IDA:UniProtKB.
+DR   GO; GO:0009267; P:cellular response to starvation; IDA:MGI.
+DR   GO; GO:0032508; P:DNA duplex unwinding; IDA:GOC.
+DR   GO; GO:0006259; P:DNA metabolic process; IDA:UniProtKB.
+DR   GO; GO:0006310; P:DNA recombination; IEA:InterPro.
+DR   GO; GO:0006260; P:DNA replication; IMP:UniProtKB.
+DR   GO; GO:0000731; P:DNA synthesis involved in DNA repair; IDA:UniProtKB.
+DR   GO; GO:0006302; P:double-strand break repair; IMP:UniProtKB.
+DR   GO; GO:0010259; P:multicellular organismal aging; IMP:UniProtKB.
+DR   GO; GO:0090305; P:nucleic acid phosphodiester bond hydrolysis; IDA:GOC.
+DR   GO; GO:0032066; P:nucleolus to nucleoplasm transport; IDA:MGI.
+DR   GO; GO:0051345; P:positive regulation of hydrolase activity; IDA:UniProtKB.
+DR   GO; GO:0043687; P:post-translational protein modification; TAS:Reactome.
+DR   GO; GO:0016925; P:protein sumoylation; TAS:Reactome.
+DR   GO; GO:0042981; P:regulation of apoptotic process; IGI:MGI.
+DR   GO; GO:0040009; P:regulation of growth rate; IEA:Ensembl.
+DR   GO; GO:0031297; P:replication fork processing; IDA:UniProtKB.
+DR   GO; GO:0001302; P:replicative cell aging; IEA:Ensembl.
+DR   GO; GO:0006979; P:response to oxidative stress; IDA:UniProtKB.
+DR   GO; GO:0010225; P:response to UV-C; IDA:UniProtKB.
+DR   GO; GO:0000723; P:telomere maintenance; IMP:UniProtKB.
+DR   Gene3D; 1.10.10.10; -; 1.
+DR   Gene3D; 1.10.150.80; -; 1.
+DR   Gene3D; 3.30.420.10; -; 1.
+DR   Gene3D; 3.40.50.300; -; 2.
+DR   InterPro; IPR002562; 3'-5'_exonuclease_dom.
+DR   InterPro; IPR011545; DEAD/DEAH_box_helicase_dom.
+DR   InterPro; IPR004589; DNA_helicase_ATP-dep_RecQ.
+DR   InterPro; IPR014001; Helicase_ATP-bd.
+DR   InterPro; IPR001650; Helicase_C.
+DR   InterPro; IPR029491; Helicase_HTH.
+DR   InterPro; IPR010997; HRDC-like.
+DR   InterPro; IPR002121; HRDC_dom.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   InterPro; IPR012337; RNaseH-like_dom.
+DR   InterPro; IPR018982; RQC_domain.
+DR   InterPro; IPR011991; WHTH_DNA-bd_dom.
+DR   Pfam; PF00270; DEAD; 1.
+DR   Pfam; PF01612; DNA_pol_A_exo1; 1.
+DR   Pfam; PF00271; Helicase_C; 1.
+DR   Pfam; PF00570; HRDC; 1.
+DR   Pfam; PF14493; HTH_40; 1.
+DR   Pfam; PF09382; RQC; 1.
+DR   SMART; SM00474; 35EXOc; 1.
+DR   SMART; SM00487; DEXDc; 1.
+DR   SMART; SM00490; HELICc; 1.
+DR   SMART; SM00341; HRDC; 1.
+DR   SMART; SM00956; RQC; 1.
+DR   SUPFAM; SSF47819; SSF47819; 1.
+DR   SUPFAM; SSF52540; SSF52540; 1.
+DR   SUPFAM; SSF53098; SSF53098; 1.
+DR   TIGRFAMs; TIGR00614; recQ_fam; 1.
+DR   PROSITE; PS51192; HELICASE_ATP_BIND_1; 1.
+DR   PROSITE; PS51194; HELICASE_CTER; 1.
+DR   PROSITE; PS50967; HRDC; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; ATP-binding; Complete proteome;
+KW   Direct protein sequencing; Disease mutation; DNA damage; DNA repair;
+KW   DNA-binding; Exonuclease; Helicase; Hydrolase; Magnesium;
+KW   Metal-binding; Multifunctional enzyme; Nuclease; Nucleotide-binding;
+KW   Nucleus; Phosphoprotein; Polymorphism; Reference proteome; Repeat;
+KW   Zinc.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:22814378}.
+FT   CHAIN         2   1432       Werner syndrome ATP-dependent helicase.
+FT                                /FTId=PRO_0000205045.
+FT   DOMAIN       60    228       3'-5' exonuclease.
+FT   REPEAT      424    450       1. {ECO:0000269|PubMed:10049920}.
+FT   REPEAT      451    477       2. {ECO:0000269|PubMed:10049920}.
+FT   DOMAIN      558    724       Helicase ATP-binding.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00541}.
+FT   DOMAIN      749    899       Helicase C-terminal.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00542}.
+FT   DOMAIN     1150   1229       HRDC. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00328}.
+FT   NP_BIND     571    578       ATP. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00541}.
+FT   REGION        2    277       Interaction with WRNIP1. {ECO:0000250}.
+FT   REGION      424    477       2 X 27 AA tandem repeats of H-L-S-P-N-D-
+FT                                N-E-N-D-T-S-Y-V-I-E-S-D-E-D-L-E-M-E-M-L-
+FT                                K.
+FT   REGION      987    993       Interaction with DNA.
+FT   MOTIF       668    671       DEAH box.
+FT   COMPBIAS    507    510       Poly-Glu.
+FT   METAL        82     82       Magnesium 1; catalytic.
+FT   METAL        82     82       Magnesium 2; catalytic.
+FT   METAL        84     84       Magnesium 1; catalytic.
+FT   METAL       216    216       Magnesium 1; catalytic.
+FT   SITE        145    145       Interaction with DNA. {ECO:0000305}.
+FT   SITE       1037   1037       Interaction with DNA.
+FT   MOD_RES       2      2       N-acetylserine.
+FT                                {ECO:0000269|PubMed:22814378}.
+FT   MOD_RES     426    426       Phosphoserine.
+FT                                {ECO:0000269|PubMed:19690332}.
+FT   MOD_RES     440    440       Phosphoserine.
+FT                                {ECO:0000269|PubMed:18669648,
+FT                                ECO:0000269|PubMed:19690332}.
+FT   MOD_RES     453    453       Phosphoserine.
+FT                                {ECO:0000269|PubMed:19690332}.
+FT   MOD_RES     467    467       Phosphoserine.
+FT                                {ECO:0000269|PubMed:18669648,
+FT                                ECO:0000269|PubMed:19690332}.
+FT   MOD_RES    1133   1133       Phosphoserine.
+FT                                {ECO:0000269|PubMed:21406692}.
+FT   VARIANT      32     32       K -> R (in dbSNP:rs34477820).
+FT                                {ECO:0000269|PubMed:11161804}.
+FT                                /FTId=VAR_017453.
+FT   VARIANT      92     92       G -> V (in a colorectal cancer sample;
+FT                                somatic mutation).
+FT                                {ECO:0000269|PubMed:16959974}.
+FT                                /FTId=VAR_036318.
+FT   VARIANT     114    114       V -> I (no effect on exonuclease
+FT                                activity; dbSNP:rs2230009).
+FT                                {ECO:0000269|PubMed:11161804,
+FT                                ECO:0000269|PubMed:16622405,
+FT                                ECO:0000269|Ref.4}.
+FT                                /FTId=VAR_017454.
+FT   VARIANT     125    125       K -> N (in WRN).
+FT                                {ECO:0000269|PubMed:16673358}.
+FT                                /FTId=VAR_026588.
+FT   VARIANT     135    135       K -> E (in WRN).
+FT                                {ECO:0000269|PubMed:16673358}.
+FT                                /FTId=VAR_026589.
+FT   VARIANT     172    172       T -> P (no effect on exonuclease
+FT                                activity). {ECO:0000269|PubMed:11161804,
+FT                                ECO:0000269|PubMed:16622405}.
+FT                                /FTId=VAR_017455.
+FT   VARIANT     240    240       N -> K (in dbSNP:rs148229804).
+FT                                {ECO:0000269|PubMed:11161804}.
+FT                                /FTId=VAR_017456.
+FT   VARIANT     324    324       T -> A (in dbSNP:rs1800390).
+FT                                {ECO:0000269|PubMed:10069711}.
+FT                                /FTId=VAR_006904.
+FT   VARIANT     329    329       Q -> R (in dbSNP:rs4987237).
+FT                                /FTId=VAR_020450.
+FT   VARIANT     343    343       E -> K (in dbSNP:rs11574222).
+FT                                {ECO:0000269|Ref.4}.
+FT                                /FTId=VAR_018941.
+FT   VARIANT     383    383       L -> F (in dbSNP:rs4987238).
+FT                                /FTId=VAR_020451.
+FT   VARIANT     383    383       L -> W. {ECO:0000269|PubMed:11161804}.
+FT                                /FTId=VAR_017457.
+FT   VARIANT     387    387       M -> I (in dbSNP:rs1800391).
+FT                                {ECO:0000269|PubMed:10206685,
+FT                                ECO:0000269|PubMed:11161804,
+FT                                ECO:0000269|PubMed:9450180,
+FT                                ECO:0000269|Ref.4}.
+FT                                /FTId=VAR_006905.
+FT   VARIANT     533    533       N -> S (in dbSNP:rs11574240).
+FT                                {ECO:0000269|Ref.4}.
+FT                                /FTId=VAR_018942.
+FT   VARIANT     612    612       S -> C (in dbSNP:rs11574250).
+FT                                {ECO:0000269|Ref.4}.
+FT                                /FTId=VAR_018943.
+FT   VARIANT     708    708       S -> F (in dbSNP:rs11574289).
+FT                                {ECO:0000269|Ref.4}.
+FT                                /FTId=VAR_018944.
+FT   VARIANT     711    711       R -> W (in dbSNP:rs34560788).
+FT                                /FTId=VAR_057124.
+FT   VARIANT     724    724       Q -> L. {ECO:0000269|PubMed:11161804}.
+FT                                /FTId=VAR_017458.
+FT   VARIANT     834    834       R -> C (in dbSNP:rs3087425).
+FT                                {ECO:0000269|Ref.4}.
+FT                                /FTId=VAR_014913.
+FT   VARIANT     912    912       I -> S (in dbSNP:rs11574323).
+FT                                {ECO:0000269|Ref.4}.
+FT                                /FTId=VAR_018945.
+FT   VARIANT    1074   1074       L -> F (in dbSNP:rs1801195).
+FT                                {ECO:0000269|PubMed:11161804,
+FT                                ECO:0000269|PubMed:16723399,
+FT                                ECO:0000269|PubMed:8602509,
+FT                                ECO:0000269|PubMed:9450180,
+FT                                ECO:0000269|Ref.3}.
+FT                                /FTId=VAR_007903.
+FT   VARIANT    1079   1079       S -> L (in dbSNP:rs3087414).
+FT                                {ECO:0000269|Ref.4}.
+FT                                /FTId=VAR_014914.
+FT   VARIANT    1133   1133       S -> A (in dbSNP:rs11574358).
+FT                                {ECO:0000269|Ref.4}.
+FT                                /FTId=VAR_018946.
+FT   VARIANT    1141   1141       S -> L. {ECO:0000269|PubMed:18987736}.
+FT                                /FTId=VAR_054162.
+FT   VARIANT    1269   1269       K -> E. {ECO:0000269|PubMed:11161804}.
+FT                                /FTId=VAR_017459.
+FT   VARIANT    1339   1339       V -> I (in dbSNP:rs11574395).
+FT                                {ECO:0000269|Ref.4}.
+FT                                /FTId=VAR_018947.
+FT   VARIANT    1367   1367       C -> R (polymorphism associated with a
+FT                                higher risk of myocardial infarction;
+FT                                dbSNP:rs1346044).
+FT                                {ECO:0000269|PubMed:10069711,
+FT                                ECO:0000269|PubMed:11161804,
+FT                                ECO:0000269|PubMed:9021029,
+FT                                ECO:0000269|Ref.4}.
+FT                                /FTId=VAR_006906.
+FT   MUTAGEN      84     84       E->A: Abolishes exonuclease activity.
+FT                                {ECO:0000269|PubMed:11863428,
+FT                                ECO:0000269|PubMed:16622405}.
+FT   MUTAGEN      88     88       L->A: No effect on exonuclease activity.
+FT   MUTAGEN     145    145       W->A: Reduces exonuclease activity.
+FT                                {ECO:0000269|PubMed:16622405}.
+FT   MUTAGEN     212    212       Y->F: Strongly reduces exonuclease
+FT                                activity. {ECO:0000269|PubMed:16622405}.
+FT   MUTAGEN     987    987       R->A: Reduces affinity for DNA about 8-
+FT                                fold. Loss of DNA binding; when
+FT                                associated with A-993.
+FT                                {ECO:0000269|PubMed:20159463}.
+FT   MUTAGEN     989    989       S->A: Reduces affinity for DNA about 4-
+FT                                fold. {ECO:0000269|PubMed:20159463}.
+FT   MUTAGEN     993    993       R->A: Reduces affinity for DNA about 20-
+FT                                fold. Loss of DNA binding; when
+FT                                associated with A-987.
+FT                                {ECO:0000269|PubMed:20159463}.
+FT   MUTAGEN     993    993       R->E: Loss of DNA binding.
+FT                                {ECO:0000269|PubMed:20159463}.
+FT   MUTAGEN    1037   1037       F->A: Reduces affinity for DNA about 8-
+FT                                fold. {ECO:0000269|PubMed:20159463}.
+FT   MUTAGEN    1038   1038       M->A: Reduces affinity for DNA about 4-
+FT                                fold. {ECO:0000269|PubMed:20159463}.
+FT   HELIX        39     41       {ECO:0000244|PDB:2FBY}.
+FT   STRAND       51     56       {ECO:0000244|PDB:2FBY}.
+FT   HELIX        59     72       {ECO:0000244|PDB:2FBY}.
+FT   STRAND       78     84       {ECO:0000244|PDB:2FBY}.
+FT   STRAND       99    105       {ECO:0000244|PDB:2FBY}.
+FT   STRAND      108    112       {ECO:0000244|PDB:2FBY}.
+FT   HELIX       114    116       {ECO:0000244|PDB:2FBY}.
+FT   STRAND      117    119       {ECO:0000244|PDB:2FBY}.
+FT   HELIX       122    128       {ECO:0000244|PDB:2FBY}.
+FT   STRAND      133    139       {ECO:0000244|PDB:2FBY}.
+FT   HELIX       140    151       {ECO:0000244|PDB:2FBY}.
+FT   STRAND      157    160       {ECO:0000244|PDB:2FBY}.
+FT   HELIX       161    169       {ECO:0000244|PDB:2FBY}.
+FT   HELIX       177    185       {ECO:0000244|PDB:2FBY}.
+FT   HELIX       193    196       {ECO:0000244|PDB:2FBY}.
+FT   STRAND      202    204       {ECO:0000244|PDB:2FBY}.
+FT   HELIX       207    228       {ECO:0000244|PDB:2FBY}.
+FT   STRAND      955    958       {ECO:0000244|PDB:2AXL}.
+FT   HELIX       960    972       {ECO:0000244|PDB:3AAF}.
+FT   TURN        973    975       {ECO:0000244|PDB:3AAF}.
+FT   HELIX       980    986       {ECO:0000244|PDB:3AAF}.
+FT   HELIX       996   1000       {ECO:0000244|PDB:3AAF}.
+FT   TURN       1002   1009       {ECO:0000244|PDB:3AAF}.
+FT   HELIX      1012   1024       {ECO:0000244|PDB:3AAF}.
+FT   STRAND     1027   1032       {ECO:0000244|PDB:3AAF}.
+FT   TURN       1036   1038       {ECO:0000244|PDB:2AXL}.
+FT   STRAND     1039   1043       {ECO:0000244|PDB:3AAF}.
+FT   HELIX      1045   1054       {ECO:0000244|PDB:3AAF}.
+FT   STRAND     1062   1064       {ECO:0000244|PDB:2AXL}.
+FT   HELIX      1147   1171       {ECO:0000244|PDB:2E1F}.
+FT   HELIX      1175   1178       {ECO:0000244|PDB:2E1F}.
+FT   HELIX      1181   1190       {ECO:0000244|PDB:2E1F}.
+FT   HELIX      1195   1198       {ECO:0000244|PDB:2E1F}.
+FT   STRAND     1201   1203       {ECO:0000244|PDB:2DGZ}.
+FT   HELIX      1206   1211       {ECO:0000244|PDB:2E1F}.
+FT   HELIX      1213   1225       {ECO:0000244|PDB:2E1F}.
+SQ   SEQUENCE   1432 AA;  162461 MW;  63F10D19E90AA461 CRC64;
+     MSEKKLETTA QQRKCPEWMN VQNKRCAVEE RKACVRKSVF EDDLPFLEFT GSIVYSYDAS
+     DCSFLSEDIS MSLSDGDVVG FDMEWPPLYN RGKLGKVALI QLCVSESKCY LFHVSSMSVF
+     PQGLKMLLEN KAVKKAGVGI EGDQWKLLRD FDIKLKNFVE LTDVANKKLK CTETWSLNSL
+     VKHLLGKQLL KDKSIRCSNW SKFPLTEDQK LYAATDAYAG FIIYRNLEIL DDTVQRFAIN
+     KEEEILLSDM NKQLTSISEE VMDLAKHLPH AFSKLENPRR VSILLKDISE NLYSLRRMII
+     GSTNIETELR PSNNLNLLSF EDSTTGGVQQ KQIREHEVLI HVEDETWDPT LDHLAKHDGE
+     DVLGNKVERK EDGFEDGVED NKLKENMERA CLMSLDITEH ELQILEQQSQ EEYLSDIAYK
+     STEHLSPNDN ENDTSYVIES DEDLEMEMLK HLSPNDNEND TSYVIESDED LEMEMLKSLE
+     NLNSGTVEPT HSKCLKMERN LGLPTKEEEE DDENEANEGE EDDDKDFLWP APNEEQVTCL
+     KMYFGHSSFK PVQWKVIHSV LEERRDNVAV MATGYGKSLC FQYPPVYVGK IGLVISPLIS
+     LMEDQVLQLK MSNIPACFLG SAQSENVLTD IKLGKYRIVY VTPEYCSGNM GLLQQLEADI
+     GITLIAVDEA HCISEWGHDF RDSFRKLGSL KTALPMVPIV ALTATASSSI REDIVRCLNL
+     RNPQITCTGF DRPNLYLEVR RKTGNILQDL QPFLVKTSSH WEFEGPTIIY CPSRKMTQQV
+     TGELRKLNLS CGTYHAGMSF STRKDIHHRF VRDEIQCVIA TIAFGMGINK ADIRQVIHYG
+     APKDMESYYQ EIGRAGRDGL QSSCHVLWAP ADINLNRHLL TEIRNEKFRL YKLKMMAKME
+     KYLHSSRCRR QIILSHFEDK QVQKASLGIM GTEKCCDNCR SRLDHCYSMD DSEDTSWDFG
+     PQAFKLLSAV DILGEKFGIG LPILFLRGSN SQRLADQYRR HSLFGTGKDQ TESWWKAFSR
+     QLITEGFLVE VSRYNKFMKI CALTKKGRNW LHKANTESQS LILQANEELC PKKLLLPSSK
+     TVSSGTKEHC YNQVPVELST EKKSNLEKLY SYKPCDKISS GSNISKKSIM VQSPEKAYSS
+     SQPVISAQEQ ETQIVLYGKL VEARQKHANK MDVPPAILAT NKILVDMAKM RPTTVENVKR
+     IDGVSEGKAA MLAPLLEVIK HFCQTNSVQT DLFSSTKPQE EQKTSLVAKN KICTLSQSMA
+     ITYSLFQEKK MPLKSIAESR ILPLMTIGMH LSQAVKAGCP LDLERAGLTP EVQKIIADVI
+     RNPPVNSDMS KISLIRMLVP ENIDTYLIHM AIEILKHGPD SGLQPSCDVN KRRCFPGSEE
+     ICSSSKRSKE EVGINTETSS AERKRRLPVW FAKGSDTSKK LMDKTKRGGL FS
+//

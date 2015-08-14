@@ -1,0 +1,325 @@
+ID   2AAA_MOUSE              Reviewed;         589 AA.
+AC   Q76MZ3;
+DT   27-SEP-2004, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   22-JUL-2015, entry version 104.
+DE   RecName: Full=Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform;
+DE   AltName: Full=PP2A subunit A isoform PR65-alpha;
+DE   AltName: Full=PP2A subunit A isoform R1-alpha;
+GN   Name=Ppp2r1a;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=10100624; DOI=10.1016/S0014-5793(99)00189-1;
+RA   Nanahoshi M., Tsujishita Y., Tokunaga C., Inui S., Sakaguchi N.,
+RA   Hara K., Yonezawa K.;
+RT   "Alpha4 protein as a common regulator of type 2A-related
+RT   serine/threonine protein phosphatases.";
+RL   FEBS Lett. 446:108-112(1999).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=C57BL/6J; TISSUE=Medulla oblongata, and Oviduct;
+RX   PubMed=16141072; DOI=10.1126/science.1112014;
+RA   Carninci P., Kasukawa T., Katayama S., Gough J., Frith M.C., Maeda N.,
+RA   Oyama R., Ravasi T., Lenhard B., Wells C., Kodzius R., Shimokawa K.,
+RA   Bajic V.B., Brenner S.E., Batalov S., Forrest A.R., Zavolan M.,
+RA   Davis M.J., Wilming L.G., Aidinis V., Allen J.E.,
+RA   Ambesi-Impiombato A., Apweiler R., Aturaliya R.N., Bailey T.L.,
+RA   Bansal M., Baxter L., Beisel K.W., Bersano T., Bono H., Chalk A.M.,
+RA   Chiu K.P., Choudhary V., Christoffels A., Clutterbuck D.R.,
+RA   Crowe M.L., Dalla E., Dalrymple B.P., de Bono B., Della Gatta G.,
+RA   di Bernardo D., Down T., Engstrom P., Fagiolini M., Faulkner G.,
+RA   Fletcher C.F., Fukushima T., Furuno M., Futaki S., Gariboldi M.,
+RA   Georgii-Hemming P., Gingeras T.R., Gojobori T., Green R.E.,
+RA   Gustincich S., Harbers M., Hayashi Y., Hensch T.K., Hirokawa N.,
+RA   Hill D., Huminiecki L., Iacono M., Ikeo K., Iwama A., Ishikawa T.,
+RA   Jakt M., Kanapin A., Katoh M., Kawasawa Y., Kelso J., Kitamura H.,
+RA   Kitano H., Kollias G., Krishnan S.P., Kruger A., Kummerfeld S.K.,
+RA   Kurochkin I.V., Lareau L.F., Lazarevic D., Lipovich L., Liu J.,
+RA   Liuni S., McWilliam S., Madan Babu M., Madera M., Marchionni L.,
+RA   Matsuda H., Matsuzawa S., Miki H., Mignone F., Miyake S., Morris K.,
+RA   Mottagui-Tabar S., Mulder N., Nakano N., Nakauchi H., Ng P.,
+RA   Nilsson R., Nishiguchi S., Nishikawa S., Nori F., Ohara O.,
+RA   Okazaki Y., Orlando V., Pang K.C., Pavan W.J., Pavesi G., Pesole G.,
+RA   Petrovsky N., Piazza S., Reed J., Reid J.F., Ring B.Z., Ringwald M.,
+RA   Rost B., Ruan Y., Salzberg S.L., Sandelin A., Schneider C.,
+RA   Schoenbach C., Sekiguchi K., Semple C.A., Seno S., Sessa L., Sheng Y.,
+RA   Shibata Y., Shimada H., Shimada K., Silva D., Sinclair B.,
+RA   Sperling S., Stupka E., Sugiura K., Sultana R., Takenaka Y., Taki K.,
+RA   Tammoja K., Tan S.L., Tang S., Taylor M.S., Tegner J., Teichmann S.A.,
+RA   Ueda H.R., van Nimwegen E., Verardo R., Wei C.L., Yagi K.,
+RA   Yamanishi H., Zabarovsky E., Zhu S., Zimmer A., Hide W., Bult C.,
+RA   Grimmond S.M., Teasdale R.D., Liu E.T., Brusic V., Quackenbush J.,
+RA   Wahlestedt C., Mattick J.S., Hume D.A., Kai C., Sasaki D., Tomaru Y.,
+RA   Fukuda S., Kanamori-Katayama M., Suzuki M., Aoki J., Arakawa T.,
+RA   Iida J., Imamura K., Itoh M., Kato T., Kawaji H., Kawagashira N.,
+RA   Kawashima T., Kojima M., Kondo S., Konno H., Nakano K., Ninomiya N.,
+RA   Nishio T., Okada M., Plessy C., Shibata K., Shiraki T., Suzuki S.,
+RA   Tagami M., Waki K., Watahiki A., Okamura-Oho Y., Suzuki H., Kawai J.,
+RA   Hayashizaki Y.;
+RT   "The transcriptional landscape of the mammalian genome.";
+RL   Science 309:1559-1563(2005).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=FVB/N; TISSUE=Mammary tumor;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4]
+RP   IDENTIFICATION BY MASS SPECTROMETRY, AND INTERACTION WITH FOXO1.
+RX   PubMed=22417654; DOI=10.1042/BJ20111606;
+RA   Yan L., Guo S., Brault M., Harmon J., Robertson R.P., Hamid R.,
+RA   Stein R., Yang E.;
+RT   "The B55alpha-containing PP2A holoenzyme dephosphorylates FOXO1 in
+RT   islet beta-cells under oxidative stress.";
+RL   Biochem. J. 444:239-247(2012).
+RN   [5]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT LYS-280, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Embryonic fibroblast;
+RX   PubMed=23806337; DOI=10.1016/j.molcel.2013.06.001;
+RA   Park J., Chen Y., Tishkoff D.X., Peng C., Tan M., Dai L., Xie Z.,
+RA   Zhang Y., Zwaans B.M., Skinner M.E., Lombard D.B., Zhao Y.;
+RT   "SIRT5-mediated lysine desuccinylation impacts diverse metabolic
+RT   pathways.";
+RL   Mol. Cell 50:919-930(2013).
+CC   -!- FUNCTION: The PR65 subunit of protein phosphatase 2A serves as a
+CC       scaffolding molecule to coordinate the assembly of the catalytic
+CC       subunit and a variable regulatory B subunit. Required for proper
+CC       chromosome segregation and for centromeric localization of SGOL1
+CC       in mitosis (By similarity). {ECO:0000250}.
+CC   -!- SUBUNIT: PP2A consists of a common heterodimeric core enzyme,
+CC       composed of PPP2CA a 36 kDa catalytic subunit (subunit C) and
+CC       PPP2R1A a 65 kDa constant regulatory subunit (PR65 or subunit A),
+CC       that associates with a variety of regulatory subunits. Proteins
+CC       that associate with the core dimer include three families of
+CC       regulatory subunits B (the R2/B/PR55/B55, R3/B''/PR72/PR130/PR59
+CC       and R5/B'/B56 families), the 48 kDa variable regulatory subunit,
+CC       viral proteins, and cell signaling molecules. Interacts with IPO9.
+CC       Interacts with TP53 and SGOL1. Found in a complex with at least
+CC       ARL2, PPP2CB, PPP2R1A, PPP2R2A, PPP2R5E and TBCD (By similarity).
+CC       Interacts with PLA2G16; this interaction might decrease PP2A
+CC       activity (By similarity). Interacts with FOXO1; the interaction
+CC       dephosphorylates FOXO1 on AKT-mediated phosphoylation sites.
+CC       Interacts with CTTNBP2NL (By similarity). {ECO:0000250}.
+CC   -!- INTERACTION:
+CC       P03081:- (xeno); NbExp=2; IntAct=EBI-400413, EBI-1266256;
+CC       P63330:Ppp2ca; NbExp=3; IntAct=EBI-400413, EBI-397144;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250}. Chromosome,
+CC       centromere {ECO:0000250}. Note=Centromeric localization requires
+CC       the presence of BUB1. {ECO:0000250}.
+CC   -!- DOMAIN: Each HEAT repeat appears to consist of two alpha helices
+CC       joined by a hydrophilic region, the intrarepeat loop. The repeat
+CC       units may be arranged laterally to form a rod-like structure.
+CC   -!- SIMILARITY: Belongs to the phosphatase 2A regulatory subunit A
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 15 HEAT repeats. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00103}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AB021743; BAA75478.1; -; mRNA.
+DR   EMBL; AK054239; BAC35700.1; -; mRNA.
+DR   EMBL; AK078135; BAC37143.1; -; mRNA.
+DR   EMBL; BC006606; AAH06606.1; -; mRNA.
+DR   CCDS; CCDS28432.1; -.
+DR   RefSeq; NP_058587.1; NM_016891.3.
+DR   UniGene; Mm.294138; -.
+DR   PDB; 2IAE; X-ray; 3.50 A; A/D=1-589.
+DR   PDB; 2PF4; X-ray; 3.10 A; A/B/C/D=1-589.
+DR   PDB; 3FGA; X-ray; 2.70 A; A=2-589.
+DR   PDBsum; 2IAE; -.
+DR   PDBsum; 2PF4; -.
+DR   PDBsum; 3FGA; -.
+DR   ProteinModelPortal; Q76MZ3; -.
+DR   SMR; Q76MZ3; 2-589.
+DR   BioGrid; 206176; 28.
+DR   DIP; DIP-29429N; -.
+DR   IntAct; Q76MZ3; 47.
+DR   MINT; MINT-135926; -.
+DR   STRING; 10090.ENSMUSP00000007708; -.
+DR   BindingDB; Q76MZ3; -.
+DR   ChEMBL; CHEMBL3557; -.
+DR   PhosphoSite; Q76MZ3; -.
+DR   REPRODUCTION-2DPAGE; Q76MZ3; -.
+DR   MaxQB; Q76MZ3; -.
+DR   PaxDb; Q76MZ3; -.
+DR   PRIDE; Q76MZ3; -.
+DR   Ensembl; ENSMUST00000007708; ENSMUSP00000007708; ENSMUSG00000007564.
+DR   GeneID; 51792; -.
+DR   KEGG; mmu:51792; -.
+DR   UCSC; uc008aqi.1; mouse.
+DR   CTD; 5518; -.
+DR   MGI; MGI:1926334; Ppp2r1a.
+DR   eggNOG; NOG247268; -.
+DR   GeneTree; ENSGT00730000110944; -.
+DR   HOGENOM; HOG000078539; -.
+DR   HOVERGEN; HBG000011; -.
+DR   InParanoid; Q76MZ3; -.
+DR   KO; K03456; -.
+DR   OMA; MALGPQR; -.
+DR   OrthoDB; EOG764722; -.
+DR   PhylomeDB; Q76MZ3; -.
+DR   TreeFam; TF105552; -.
+DR   Reactome; REACT_272448; Recruitment of mitotic centrosome proteins and complexes.
+DR   Reactome; REACT_274287; Degradation of beta-catenin by the destruction complex.
+DR   Reactome; REACT_276302; Loss of Nlp from mitotic centrosomes.
+DR   Reactome; REACT_279505; Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC).
+DR   Reactome; REACT_279737; Integration of energy metabolism.
+DR   Reactome; REACT_286537; Loss of proteins required for interphase microtubule organization from the centrosome.
+DR   Reactome; REACT_289448; Cyclin D associated events in G1.
+DR   Reactome; REACT_298419; Spry regulation of FGF signaling.
+DR   Reactome; REACT_299247; ERKs are inactivated.
+DR   Reactome; REACT_303008; Beta-catenin phosphorylation cascade.
+DR   Reactome; REACT_306375; Mitotic Prometaphase.
+DR   Reactome; REACT_307423; PP2A-mediated dephosphorylation of key metabolic factors.
+DR   Reactome; REACT_311393; CTLA4 inhibitory signaling.
+DR   Reactome; REACT_314687; Glycolysis.
+DR   Reactome; REACT_317277; disassembly of the destruction complex and recruitment of AXIN to the membrane.
+DR   Reactome; REACT_320608; Initiation of Nuclear Envelope Reformation.
+DR   Reactome; REACT_321346; Separation of Sister Chromatids.
+DR   Reactome; REACT_323000; ERK/MAPK targets.
+DR   Reactome; REACT_324544; Inhibition of replication initiation of damaged DNA by RB1/E2F1.
+DR   Reactome; REACT_325290; DARPP-32 events.
+DR   Reactome; REACT_328862; Anchoring of the basal body to the plasma membrane.
+DR   Reactome; REACT_329805; Resolution of Sister Chromatid Cohesion.
+DR   Reactome; REACT_342444; MASTL Facilitates Mitotic Progression.
+DR   Reactome; REACT_345278; Regulation of PLK1 Activity at G2/M Transition.
+DR   Reactome; REACT_349749; Cyclin A/B1 associated events during G2/M transition.
+DR   Reactome; REACT_358264; RHO GTPases Activate Formins.
+DR   ChiTaRS; Ppp2r1a; mouse.
+DR   EvolutionaryTrace; Q76MZ3; -.
+DR   NextBio; 308024; -.
+DR   PRO; PR:Q76MZ3; -.
+DR   Proteomes; UP000000589; Chromosome 17.
+DR   Bgee; Q76MZ3; -.
+DR   ExpressionAtlas; Q76MZ3; baseline and differential.
+DR   Genevisible; Q76MZ3; MM.
+DR   GO; GO:0000775; C:chromosome, centromeric region; ISS:UniProtKB.
+DR   GO; GO:0005829; C:cytosol; IDA:MGI.
+DR   GO; GO:0070062; C:extracellular exosome; ISO:MGI.
+DR   GO; GO:0000159; C:protein phosphatase type 2A complex; IDA:MGI.
+DR   GO; GO:0003823; F:antigen binding; ISO:MGI.
+DR   GO; GO:0046982; F:protein heterodimerization activity; ISO:MGI.
+DR   GO; GO:0004722; F:protein serine/threonine phosphatase activity; IDA:MGI.
+DR   GO; GO:0007059; P:chromosome segregation; ISS:UniProtKB.
+DR   GO; GO:0007143; P:female meiotic division; IMP:MGI.
+DR   GO; GO:0051754; P:meiotic sister chromatid cohesion, centromeric; IMP:MGI.
+DR   GO; GO:0051232; P:meiotic spindle elongation; IMP:MGI.
+DR   GO; GO:0051306; P:mitotic sister chromatid separation; IMP:MGI.
+DR   GO; GO:0070262; P:peptidyl-serine dephosphorylation; IDA:MGI.
+DR   GO; GO:2001241; P:positive regulation of extrinsic apoptotic signaling pathway in absence of ligand; IMP:MGI.
+DR   GO; GO:1903538; P:regulation of meiotic cell cycle process involved in oocyte maturation; IMP:MGI.
+DR   Gene3D; 1.25.10.10; -; 1.
+DR   InterPro; IPR011989; ARM-like.
+DR   InterPro; IPR016024; ARM-type_fold.
+DR   InterPro; IPR000357; HEAT.
+DR   InterPro; IPR021133; HEAT_type_2.
+DR   InterPro; IPR031090; PP2A_A_meta.
+DR   PANTHER; PTHR10648:SF9; PTHR10648:SF9; 1.
+DR   Pfam; PF02985; HEAT; 1.
+DR   SUPFAM; SSF48371; SSF48371; 1.
+DR   PROSITE; PS50077; HEAT_REPEAT; 11.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Centromere; Chromosome;
+KW   Chromosome partition; Complete proteome; Cytoplasm;
+KW   Reference proteome; Repeat.
+FT   INIT_MET      1      1       Removed. {ECO:0000250|UniProtKB:P30153}.
+FT   CHAIN         2    589       Serine/threonine-protein phosphatase 2A
+FT                                65 kDa regulatory subunit A alpha
+FT                                isoform.
+FT                                /FTId=PRO_0000071401.
+FT   REPEAT        8     46       HEAT 1.
+FT   REPEAT       47     84       HEAT 2.
+FT   REPEAT       85    123       HEAT 3.
+FT   REPEAT      124    161       HEAT 4.
+FT   REPEAT      162    200       HEAT 5.
+FT   REPEAT      201    239       HEAT 6.
+FT   REPEAT      240    278       HEAT 7.
+FT   REPEAT      279    321       HEAT 8.
+FT   REPEAT      322    360       HEAT 9.
+FT   REPEAT      361    399       HEAT 10.
+FT   REPEAT      400    438       HEAT 11.
+FT   REPEAT      439    477       HEAT 12.
+FT   REPEAT      478    516       HEAT 13.
+FT   REPEAT      517    555       HEAT 14.
+FT   REPEAT      556    589       HEAT 15.
+FT   MOD_RES       2      2       N-acetylalanine.
+FT                                {ECO:0000250|UniProtKB:P30153}.
+FT   MOD_RES     280    280       N6-acetyllysine.
+FT                                {ECO:0000269|PubMed:23806337}.
+FT   HELIX        11     21       {ECO:0000244|PDB:3FGA}.
+FT   HELIX        25     33       {ECO:0000244|PDB:3FGA}.
+FT   HELIX        35     41       {ECO:0000244|PDB:3FGA}.
+FT   HELIX        44     49       {ECO:0000244|PDB:3FGA}.
+FT   HELIX        51     56       {ECO:0000244|PDB:3FGA}.
+FT   HELIX        63     73       {ECO:0000244|PDB:3FGA}.
+FT   TURN         77     81       {ECO:0000244|PDB:3FGA}.
+FT   HELIX        83     85       {ECO:0000244|PDB:2IAE}.
+FT   HELIX        86     89       {ECO:0000244|PDB:3FGA}.
+FT   HELIX        90     98       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       102    116       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       121    126       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       128    136       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       141    147       {ECO:0000244|PDB:3FGA}.
+FT   TURN        148    150       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       151    154       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       155    157       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       160    174       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       179    187       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       189    193       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       198    213       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       218    232       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       237    242       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       244    251       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       257    265       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       267    274       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       276    291       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       296    303       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       306    311       {ECO:0000244|PDB:3FGA}.
+FT   TURN        315    317       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       318    324       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       327    334       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       339    346       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       349    352       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       353    373       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       378    385       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       386    388       {ECO:0000244|PDB:2IAE}.
+FT   HELIX       389    394       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       397    403       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       405    411       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       417    424       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       427    434       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       436    442       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       444    451       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       456    473       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       475    481       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       483    488       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       489    491       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       495    520       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       522    528       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       534    547       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       548    550       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       553    558       {ECO:0000244|PDB:3FGA}.
+FT   HELIX       560    568       {ECO:0000244|PDB:3FGA}.
+FT   STRAND      569    571       {ECO:0000244|PDB:2IAE}.
+FT   HELIX       573    585       {ECO:0000244|PDB:3FGA}.
+SQ   SEQUENCE   589 AA;  65323 MW;  5175409E4D50A366 CRC64;
+     MAAADGDDSL YPIAVLIDEL RNEDVQLRLN SIKKLSTIAL ALGVERTRSE LLPFLTDTIY
+     DEDEVLLALA EQLGTFTTLV GGPEYVHCLL PPLESLATVE ETVVRDKAVE SLRAISHEHS
+     PSDLEAHFVP LVKRLAGGDW FTSRTSACGL FSVCYPRVSS AVKAELRQYF RNLCSDDTPM
+     VRRAAASKLG EFAKVLELDN VKSEIIPMFS NLASDEQDSV RLLAVEACVN IAQLLPQEDL
+     EALVMPTLRQ AAEDKSWRVR YMVADKFTEL QKAVGPEITK TDLVPAFQNL MKDCEAEVRA
+     AASHKVKEFC ENLSADCREN VIMTQILPCI KELVSDANQH VKSALASVIM GLSPILGKDN
+     TIEHLLPLFL AQLKDECPEV RLNIISNLDC VNEVIGIRQL SQSLLPAIVE LAEDAKWRVR
+     LAIIEYMPLL AGQLGVEFFD EKLNSLCMAW LVDHVYAIRE AATSNLKKLV EKFGKEWAHA
+     TIIPKVLAMS GDPNYLHRMT TLFCINVLSE VCGQDITTKH MLPTVLRMAG DPVANVRFNV
+     AKSLQKIGPI LDNSTLQSEV KPILEKLTQD QDVDVKYFAQ EALTVLSLA
+//

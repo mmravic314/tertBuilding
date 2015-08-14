@@ -1,0 +1,368 @@
+ID   ADDB_BACSU              Reviewed;        1166 AA.
+AC   P23477;
+DT   01-NOV-1991, integrated into UniProtKB/Swiss-Prot.
+DT   16-JUN-2009, sequence version 2.
+DT   24-JUN-2015, entry version 117.
+DE   RecName: Full=ATP-dependent helicase/deoxyribonuclease subunit B;
+DE            EC=3.1.-.-;
+DE            EC=3.6.4.12;
+DE   AltName: Full=ATP-dependent helicase/nuclease AddB;
+GN   Name=addB; OrderedLocusNames=BSU10620;
+OS   Bacillus subtilis (strain 168).
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus.
+OX   NCBI_TaxID=224308;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=OG1;
+RX   PubMed=1646786;
+RA   Kooistra J., Venema G.;
+RT   "Cloning, sequencing, and expression of Bacillus subtilis genes
+RT   involved in ATP-dependent nuclease synthesis.";
+RL   J. Bacteriol. 173:3644-3655(1991).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=168;
+RX   PubMed=9579061; DOI=10.1099/00221287-144-4-859;
+RA   Noback M.A., Holsappel S., Kiewiet R., Terpstra P., Wambutt R.,
+RA   Wedler H., Venema G., Bron S.;
+RT   "The 172 kb prkA-addAB region from 83 degrees to 97 degrees of the
+RT   Bacillus subtilis chromosome contains several dysfunctional genes, the
+RT   glyB marker, many genes encoding transporter proteins, and the
+RT   ubiquitous hit gene.";
+RL   Microbiology 144:859-875(1998).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=168;
+RX   PubMed=9384377; DOI=10.1038/36786;
+RA   Kunst F., Ogasawara N., Moszer I., Albertini A.M., Alloni G.,
+RA   Azevedo V., Bertero M.G., Bessieres P., Bolotin A., Borchert S.,
+RA   Borriss R., Boursier L., Brans A., Braun M., Brignell S.C., Bron S.,
+RA   Brouillet S., Bruschi C.V., Caldwell B., Capuano V., Carter N.M.,
+RA   Choi S.-K., Codani J.-J., Connerton I.F., Cummings N.J., Daniel R.A.,
+RA   Denizot F., Devine K.M., Duesterhoeft A., Ehrlich S.D., Emmerson P.T.,
+RA   Entian K.-D., Errington J., Fabret C., Ferrari E., Foulger D.,
+RA   Fritz C., Fujita M., Fujita Y., Fuma S., Galizzi A., Galleron N.,
+RA   Ghim S.-Y., Glaser P., Goffeau A., Golightly E.J., Grandi G.,
+RA   Guiseppi G., Guy B.J., Haga K., Haiech J., Harwood C.R., Henaut A.,
+RA   Hilbert H., Holsappel S., Hosono S., Hullo M.-F., Itaya M.,
+RA   Jones L.-M., Joris B., Karamata D., Kasahara Y., Klaerr-Blanchard M.,
+RA   Klein C., Kobayashi Y., Koetter P., Koningstein G., Krogh S.,
+RA   Kumano M., Kurita K., Lapidus A., Lardinois S., Lauber J.,
+RA   Lazarevic V., Lee S.-M., Levine A., Liu H., Masuda S., Mauel C.,
+RA   Medigue C., Medina N., Mellado R.P., Mizuno M., Moestl D., Nakai S.,
+RA   Noback M., Noone D., O'Reilly M., Ogawa K., Ogiwara A., Oudega B.,
+RA   Park S.-H., Parro V., Pohl T.M., Portetelle D., Porwollik S.,
+RA   Prescott A.M., Presecan E., Pujic P., Purnelle B., Rapoport G.,
+RA   Rey M., Reynolds S., Rieger M., Rivolta C., Rocha E., Roche B.,
+RA   Rose M., Sadaie Y., Sato T., Scanlan E., Schleich S., Schroeter R.,
+RA   Scoffone F., Sekiguchi J., Sekowska A., Seror S.J., Serror P.,
+RA   Shin B.-S., Soldo B., Sorokin A., Tacconi E., Takagi T., Takahashi H.,
+RA   Takemaru K., Takeuchi M., Tamakoshi A., Tanaka T., Terpstra P.,
+RA   Tognoni A., Tosato V., Uchiyama S., Vandenbol M., Vannier F.,
+RA   Vassarotti A., Viari A., Wambutt R., Wedler E., Wedler H.,
+RA   Weitzenegger T., Winters P., Wipat A., Yamamoto H., Yamane K.,
+RA   Yasumoto K., Yata K., Yoshida K., Yoshikawa H.-F., Zumstein E.,
+RA   Yoshikawa H., Danchin A.;
+RT   "The complete genome sequence of the Gram-positive bacterium Bacillus
+RT   subtilis.";
+RL   Nature 390:249-256(1997).
+RN   [4]
+RP   SEQUENCE REVISION TO 844.
+RX   PubMed=19383706; DOI=10.1099/mic.0.027839-0;
+RA   Barbe V., Cruveiller S., Kunst F., Lenoble P., Meurice G.,
+RA   Sekowska A., Vallenet D., Wang T., Moszer I., Medigue C., Danchin A.;
+RT   "From a consortium sequence to a unified sequence: the Bacillus
+RT   subtilis 168 reference genome a decade later.";
+RL   Microbiology 155:1758-1775(2009).
+RN   [5]
+RP   SUBUNIT, AND FUNCTION IN E.COLI.
+RX   PubMed=8387145; DOI=10.1111/j.1365-2958.1993.tb01182.x;
+RA   Kooistra J., Haijema B.J., Venema G.;
+RT   "The Bacillus subtilis addAB genes are fully functional in Escherichia
+RT   coli.";
+RL   Mol. Microbiol. 7:915-923(1993).
+RN   [6]
+RP   FUNCTION AS AN EXONUCLEASE AND HELICASE, MAGNESIUM COFACTOR, AND
+RP   ATP-DEPENDENCE.
+RX   PubMed=10756102; DOI=10.1006/jmbi.2000.3556;
+RA   Chedin F., Ehrlich S.D., Kowalczykowski S.C.;
+RT   "The Bacillus subtilis AddAB helicase/nuclease is regulated by its
+RT   cognate Chi sequence in vitro.";
+RL   J. Mol. Biol. 298:7-20(2000).
+RN   [7]
+RP   RECRUITS RECA TO DNA DOUBLE-STRAND BREAKS.
+RC   STRAIN=168 / YB886 / BG214;
+RX   PubMed=16061691; DOI=10.1083/jcb.200412090;
+RA   Kidane D., Graumann P.L.;
+RT   "Dynamic formation of RecA filaments at DNA double strand break repair
+RT   centers in live cells.";
+RL   J. Cell Biol. 170:357-366(2005).
+RN   [8]
+RP   CHARACTERIZATION.
+RC   STRAIN=168 / YB886 / BG214;
+RX   PubMed=16385024; DOI=10.1128/JB.188.2.353-360.2006;
+RA   Sanchez H., Kidane D., Castillo Cozar M., Graumann P.L., Alonso J.C.;
+RT   "Recruitment of Bacillus subtilis RecN to DNA double-strand breaks in
+RT   the absence of DNA end processing.";
+RL   J. Bacteriol. 188:353-360(2006).
+RN   [9]
+RP   FUNCTION, AND MUTAGENESIS OF ASP-961.
+RX   PubMed=17570399; DOI=10.1016/j.jmb.2007.05.053;
+RA   Yeeles J.T.P., Dillingham M.S.;
+RT   "A dual-nuclease mechanism for DNA break processing by AddAB-type
+RT   helicase-nucleases.";
+RL   J. Mol. Biol. 371:66-78(2007).
+RN   [10]
+RP   COFACTOR, SUBUNIT, DNA-BINDING, AND MUTAGENESIS OF CYS-801; CYS-1121;
+RP   CYS-1124 AND CYS-1130.
+RX   PubMed=19129187; DOI=10.1074/jbc.M808526200;
+RA   Yeeles J.T.P., Cammack R., Dillingham M.S.;
+RT   "An iron-sulfur cluster is essential for the binding of broken DNA by
+RT   AddAB-type helicase-nucleases.";
+RL   J. Biol. Chem. 284:7746-7755(2009).
+CC   -!- FUNCTION: The heterodimer acts as both an ATP-dependent DNA
+CC       helicase and an ATP-dependent single-stranded exonuclease, acting
+CC       in both directions. Recognizes the B.subtilis chi site (5'-AGCGG-
+CC       3') which transforms the enzyme from a helicase which degrades
+CC       both DNA strands to one with only 5' to 3' exonuclease activity.
+CC       This generates a double-stranded DNA with a protruding 3'-
+CC       terminated single-stranded tail suitable for the initiation of
+CC       homologous recombination (chi fragment). The AddB nuclease domain
+CC       is not required for chi fragment generation; this subunit has 5'
+CC       -> 3' nuclease activity. RecA thread formation during DNA double-
+CC       strand break repair requires RecJ or AddAB.
+CC       {ECO:0000269|PubMed:10756102, ECO:0000269|PubMed:17570399,
+CC       ECO:0000269|PubMed:8387145}.
+CC   -!- CATALYTIC ACTIVITY: ATP + H(2)O = ADP + phosphate.
+CC   -!- COFACTOR:
+CC       Name=[4Fe-4S] cluster; Xref=ChEBI:CHEBI:49883;
+CC         Evidence={ECO:0000269|PubMed:19129187};
+CC       Note=Binds 1 [4Fe-4S] cluster. {ECO:0000269|PubMed:19129187};
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000269|PubMed:19129187};
+CC       Note=At low magnesium concentrations there is no nuclease
+CC       activity, but helicase activity is unaffected.
+CC       {ECO:0000269|PubMed:19129187};
+CC   -!- SUBUNIT: Heterodimer of AddA and AddB.
+CC       {ECO:0000269|PubMed:19129187, ECO:0000269|PubMed:8387145}.
+CC   -!- MISCELLANEOUS: This enzyme is a functional homolog of the RecBCD
+CC       enzyme; unlike the RecBCD enzyme it degrades both duplex strands
+CC       symmetrically.
+CC   -!- SIMILARITY: Belongs to the helicase family. AddB/RexB type 1
+CC       subfamily. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 uvrD-like helicase ATP-binding domain.
+CC       {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 uvrD-like helicase C-terminal domain.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M63489; AAA22200.1; -; Genomic_DNA.
+DR   EMBL; Y14081; CAA74481.1; -; Genomic_DNA.
+DR   EMBL; AL009126; CAB12902.2; -; Genomic_DNA.
+DR   PIR; A39432; A39432.
+DR   RefSeq; NP_388943.2; NC_000964.3.
+DR   RefSeq; WP_003244988.1; NZ_JNCM01000035.1.
+DR   PDB; 3U44; X-ray; 3.20 A; B=1-1166.
+DR   PDB; 3U4Q; X-ray; 2.80 A; B=1-1166.
+DR   PDB; 4CEH; X-ray; 3.24 A; B=1-1166.
+DR   PDB; 4CEI; X-ray; 2.80 A; B=1-1166.
+DR   PDB; 4CEJ; X-ray; 3.00 A; B=1-1166.
+DR   PDBsum; 3U44; -.
+DR   PDBsum; 3U4Q; -.
+DR   PDBsum; 4CEH; -.
+DR   PDBsum; 4CEI; -.
+DR   PDBsum; 4CEJ; -.
+DR   ProteinModelPortal; P23477; -.
+DR   DIP; DIP-60826N; -.
+DR   IntAct; P23477; 2.
+DR   STRING; 224308.Bsubs1_010100005876; -.
+DR   PaxDb; P23477; -.
+DR   PRIDE; P23477; -.
+DR   EnsemblBacteria; CAB12902; CAB12902; BSU10620.
+DR   GeneID; 936341; -.
+DR   KEGG; bsu:BSU10620; -.
+DR   PATRIC; 18973826; VBIBacSub10457_1107.
+DR   GenoList; BSU10620; -.
+DR   eggNOG; COG3857; -.
+DR   HOGENOM; HOG000285805; -.
+DR   KO; K16899; -.
+DR   OMA; VPDQMTF; -.
+DR   OrthoDB; EOG6DC6FN; -.
+DR   PhylomeDB; P23477; -.
+DR   BioCyc; BSUB:BSU10620-MONOMER; -.
+DR   Proteomes; UP000001570; Chromosome.
+DR   GO; GO:0051539; F:4 iron, 4 sulfur cluster binding; IEA:UniProtKB-KW.
+DR   GO; GO:0008409; F:5'-3' exonuclease activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0003690; F:double-stranded DNA binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0004386; F:helicase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000724; P:double-strand break repair via homologous recombination; IEA:UniProtKB-HAMAP.
+DR   Gene3D; 3.40.50.300; -; 2.
+DR   HAMAP; MF_01452; AddB_type1; 1.
+DR   InterPro; IPR014140; DNA_helicase_suAddB.
+DR   InterPro; IPR014017; DNA_helicase_UvrD-like_C.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   Pfam; PF13361; UvrD_C; 1.
+DR   SUPFAM; SSF52540; SSF52540; 1.
+DR   TIGRFAMs; TIGR02773; addB_Gpos; 1.
+DR   PROSITE; PS51198; UVRD_HELICASE_ATP_BIND; 1.
+DR   PROSITE; PS51217; UVRD_HELICASE_CTER; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; 4Fe-4S; ATP-binding; Complete proteome; DNA damage;
+KW   DNA repair; DNA-binding; Exonuclease; Hydrolase; Iron; Iron-sulfur;
+KW   Metal-binding; Nuclease; Nucleotide-binding; Reference proteome.
+FT   CHAIN         1   1166       ATP-dependent helicase/deoxyribonuclease
+FT                                subunit B.
+FT                                /FTId=PRO_0000064450.
+FT   DOMAIN        1    278       UvrD-like helicase ATP-binding.
+FT   DOMAIN      281    586       UvrD-like helicase C-terminal.
+FT   NP_BIND       8     15       ATP. {ECO:0000255}.
+FT   METAL       801    801       Iron-sulfur (4Fe-4S).
+FT   METAL      1121   1121       Iron-sulfur (4Fe-4S).
+FT   METAL      1124   1124       Iron-sulfur (4Fe-4S).
+FT   METAL      1130   1130       Iron-sulfur (4Fe-4S).
+FT   MUTAGEN     801    801       C->A: Loss of iron-sulfur group binding,
+FT                                loss of DNA-binding.
+FT                                {ECO:0000269|PubMed:19129187}.
+FT   MUTAGEN     961    961       D->A: Some loss of nuclease activity,
+FT                                helicase and DNA-binding are unaltered;
+FT                                when associated with A-1172 in AddA
+FT                                nearly complete loss of nuclease
+FT                                activity. {ECO:0000269|PubMed:17570399}.
+FT   MUTAGEN    1121   1121       C->A: Loss of iron-sulfur group binding,
+FT                                loss of DNA-binding.
+FT                                {ECO:0000269|PubMed:19129187}.
+FT   MUTAGEN    1124   1124       C->A: Loss of iron-sulfur group binding,
+FT                                loss of DNA-binding.
+FT                                {ECO:0000269|PubMed:19129187}.
+FT   MUTAGEN    1130   1130       C->A: Loss of iron-sulfur group binding,
+FT                                loss of DNA-binding.
+FT                                {ECO:0000269|PubMed:19129187}.
+FT   CONFLICT    843    844       EQ -> DE (in Ref. 1; AAA22200 and 2;
+FT                                CAA74481). {ECO:0000305}.
+FT   STRAND        3      8       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX        14     28       {ECO:0000244|PDB:3U4Q}.
+FT   STRAND       35     38       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX        41     43       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX        44     51       {ECO:0000244|PDB:3U4Q}.
+FT   TURN         55     57       {ECO:0000244|PDB:4CEI}.
+FT   STRAND       58     66       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX        68     79       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX        89    102       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       103    106       {ECO:0000244|PDB:3U4Q}.
+FT   TURN        110    113       {ECO:0000244|PDB:3U4Q}.
+FT   STRAND      114    116       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       118    132       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       137    144       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       155    175       {ECO:0000244|PDB:3U4Q}.
+FT   TURN        177    179       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       183    185       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       186    193       {ECO:0000244|PDB:3U4Q}.
+FT   TURN        194    196       {ECO:0000244|PDB:3U44}.
+FT   HELIX       198    200       {ECO:0000244|PDB:3U4Q}.
+FT   STRAND      204    207       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       215    227       {ECO:0000244|PDB:3U4Q}.
+FT   STRAND      229    236       {ECO:0000244|PDB:3U4Q}.
+FT   STRAND      242    244       {ECO:0000244|PDB:3U4Q}.
+FT   STRAND      248    251       {ECO:0000244|PDB:4CEH}.
+FT   HELIX       253    268       {ECO:0000244|PDB:3U4Q}.
+FT   STRAND      273    278       {ECO:0000244|PDB:3U4Q}.
+FT   TURN        283    286       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       288    295       {ECO:0000244|PDB:3U4Q}.
+FT   STRAND      296    298       {ECO:0000244|PDB:3U4Q}.
+FT   STRAND      310    319       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       320    336       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       342    344       {ECO:0000244|PDB:3U4Q}.
+FT   STRAND      345    350       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       352    354       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       356    365       {ECO:0000244|PDB:3U4Q}.
+FT   STRAND      370    374       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       382    395       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       400    407       {ECO:0000244|PDB:3U4Q}.
+FT   TURN        408    410       {ECO:0000244|PDB:3U4Q}.
+FT   STRAND      411    413       {ECO:0000244|PDB:3U4Q}.
+FT   STRAND      415    417       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       419    436       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       441    444       {ECO:0000244|PDB:3U4Q}.
+FT   STRAND      445    447       {ECO:0000244|PDB:4CEJ}.
+FT   STRAND      457    459       {ECO:0000244|PDB:4CEI}.
+FT   HELIX       465    494       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       498    511       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       514    527       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       531    554       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       562    575       {ECO:0000244|PDB:3U4Q}.
+FT   STRAND      584    586       {ECO:0000244|PDB:3U4Q}.
+FT   STRAND      588    595       {ECO:0000244|PDB:3U4Q}.
+FT   STRAND      602    607       {ECO:0000244|PDB:3U4Q}.
+FT   TURN        611    616       {ECO:0000244|PDB:3U4Q}.
+FT   STRAND      622    624       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       626    634       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       645    658       {ECO:0000244|PDB:3U4Q}.
+FT   STRAND      662    672       {ECO:0000244|PDB:3U4Q}.
+FT   STRAND      674    676       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       683    691       {ECO:0000244|PDB:3U4Q}.
+FT   STRAND      698    700       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       704    706       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       709    712       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       713    715       {ECO:0000244|PDB:4CEI}.
+FT   HELIX       719    734       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       742    750       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       756    763       {ECO:0000244|PDB:3U4Q}.
+FT   TURN        764    767       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       777    783       {ECO:0000244|PDB:3U4Q}.
+FT   STRAND      786    788       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       792    800       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       802    808       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       824    843       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       848    850       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       853    867       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       868    870       {ECO:0000244|PDB:3U4Q}.
+FT   TURN        872    874       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       875    878       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       880    904       {ECO:0000244|PDB:3U4Q}.
+FT   STRAND      910    924       {ECO:0000244|PDB:3U4Q}.
+FT   STRAND      927    931       {ECO:0000244|PDB:3U4Q}.
+FT   TURN        932    934       {ECO:0000244|PDB:3U4Q}.
+FT   STRAND      935    951       {ECO:0000244|PDB:3U4Q}.
+FT   STRAND      954    966       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       971    975       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX       981    997       {ECO:0000244|PDB:3U4Q}.
+FT   STRAND     1001   1010       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX      1024   1033       {ECO:0000244|PDB:3U4Q}.
+FT   STRAND     1037   1042       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX      1045   1051       {ECO:0000244|PDB:3U4Q}.
+FT   STRAND     1056   1059       {ECO:0000244|PDB:3U4Q}.
+FT   STRAND     1061   1064       {ECO:0000244|PDB:3U4Q}.
+FT   STRAND     1071   1073       {ECO:0000244|PDB:4CEI}.
+FT   HELIX      1082   1104       {ECO:0000244|PDB:3U4Q}.
+FT   STRAND     1113   1115       {ECO:0000244|PDB:4CEI}.
+FT   HELIX      1121   1123       {ECO:0000244|PDB:4CEI}.
+FT   HELIX      1127   1130       {ECO:0000244|PDB:3U4Q}.
+FT   STRAND     1134   1136       {ECO:0000244|PDB:3U4Q}.
+FT   HELIX      1149   1159       {ECO:0000244|PDB:3U4Q}.
+SQ   SEQUENCE   1166 AA;  134645 MW;  FA63593585A4CA73 CRC64;
+     MGAEFLVGRS GSGKTKLIIN SIQDELRRAP FGKPIIFLVP DQMTFLMEYE LAKTPDMGGM
+     IRAQVFSFSR LAWRVLQHTG GMSRPFLTST GVQMLLRKLI EEHKQEFKVY QKASDKSGFT
+     AQVERMLTEF KRYCLEPEDI RRMAESGTAS EYRGERVLSE KLHDLSILYQ QMEKSLADQY
+     LHSEDYLTLL AEHIPLAEDI KGAHIYVDGF YQFTPQEFRV LEQLMVHAEH ITFSLTADKP
+     SYEREPHELE LFRMTGKTYY RLHQKAKELN LDITYKELSG TERHTKTPEL AHLEAQYEAR
+     PAIPYAEKQE ALTVMQAANR RAELEGIARE IHALVREKGY RYKDVAILAR QPEDYKDMVK
+     EVFADYEIPY FIDGKASMLN HPLIEFIRSS LDVLKGNWRY EAVFRCVKTE LLFPLNEPKA
+     KVREQVDQLE NYCIAYGIKG DRWTKGDRFQ YRRFVSLDDD FAQTDQEIEM ENMLNDTRDW
+     IVPPLFQLQK RMKKAKTVQE KAEALYRYLE ETDVPLKLDQ ERQRAEDDGR IIEAQQHQQA
+     WDAVIQLLEE FVEMMGDDEI SLDLFQQMIE AGAESLTFSL IPPALDQVFV GNMDLSRMYG
+     TSCTFVLGAN DGVLPARPDE NGVLSDDDRE WLKTIGVELS SGGRERLLDE HFLIYMAFSS
+     PSDRLYVSYP IADAEGKTLL PSMIVKRLEE LFPHHKERLL TNEPEQVSDE EQLMYVVNKS
+     VAQSFTASQL RLWTREYDIS DVWWSTYNVL MSEQDRLQSK KLFSSLFFRN EVKQLERSVS
+     RQLYGERIQG SVSRMETFNA CPFSHFASHG LHLKERQFFK LEAPDIGQLF HSSLKLISDR
+     LREQKLDWRD LTKEQCELFS YDAVERLAPK LQKEILLSSN RHYYVKEKLQ KIVTRVSGIL
+     SEHAKASGFV PIGLELGFGG KGPLPPLTFQ LKNGCTMELV GRIDRVDKAE SSKGLLLRIV
+     DYKSSDKGLD LAEVYYGLAL QMLTYLDLSI THSADWLGMR ATPAGVLYFH IHDPMIQSNL
+     PLGLDEIEQE IFKKFKMKGL LLGDQEVVRL MDTTLQEGRS NIINAGLKKD GSLRSDSAAV
+     GEKEFDLLTK HVRRTFQEAG EQITDGRVSI EPYKMKNKTP CTYCAFKSVC QFDESLEENE
+     YRPLKAEKDK TILEWIKKEA DGNEHS
+//

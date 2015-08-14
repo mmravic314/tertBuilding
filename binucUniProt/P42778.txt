@@ -1,0 +1,144 @@
+ID   AMPT_THET8              Reviewed;         408 AA.
+AC   P42778; Q5SJ62;
+DT   01-NOV-1995, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1995, sequence version 1.
+DT   22-JUL-2015, entry version 74.
+DE   RecName: Full=Aminopeptidase T;
+DE            Short=AP-T;
+DE            EC=3.4.11.-;
+DE   AltName: Full=Heat-stable aminopeptidase;
+GN   OrderedLocusNames=TTHA1152;
+OS   Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579).
+OC   Bacteria; Deinococcus-Thermus; Deinococci; Thermales; Thermaceae;
+OC   Thermus.
+OX   NCBI_TaxID=300852;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=9362117; DOI=10.1271/bbb.61.1710;
+RA   Motoshima H., Minagawa E., Tsukasaki F., Kaminogawa S.;
+RT   "Cloning of genes of the aminopeptidase T family from Thermus
+RT   thermophilus HB8 and Bacillus stearothermophilus NCIB8924: apparent
+RT   similarity to the leucyl aminopeptidase family.";
+RL   Biosci. Biotechnol. Biochem. 61:1710-1717(1997).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=HB8 / ATCC 27634 / DSM 579;
+RA   Masui R., Kurokawa K., Nakagawa N., Tokunaga F., Koyama Y.,
+RA   Shibata T., Oshima T., Yokoyama S., Yasunaga T., Kuramitsu S.;
+RT   "Complete genome sequence of Thermus thermophilus HB8.";
+RL   Submitted (NOV-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (3.7 ANGSTROMS) IN COMPLEX WITH ZINC IONS,
+RP   CATALYTIC ACTIVITY, FUNCTION, COFACTOR, AND SUBUNIT.
+RX   PubMed=16242715; DOI=10.1016/j.jmb.2005.09.042;
+RA   Odintsov S.G., Sabala I., Bourenkov G., Rybin V., Bochtler M.;
+RT   "Substrate access to the active sites in aminopeptidase T, a
+RT   representative of a new metallopeptidase clan.";
+RL   J. Mol. Biol. 354:403-412(2005).
+CC   -!- FUNCTION: Metal-dependent exopeptidase.
+CC       {ECO:0000269|PubMed:16242715}.
+CC   -!- COFACTOR:
+CC       Name=Co(2+); Xref=ChEBI:CHEBI:48828;
+CC         Evidence={ECO:0000269|PubMed:16242715};
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC         Evidence={ECO:0000269|PubMed:16242715};
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000269|PubMed:16242715};
+CC       Note=Binds 2 divalent metal cations per subunit. Can use cobalt,
+CC       zinc, and possibly also magnesium ions.
+CC       {ECO:0000269|PubMed:16242715};
+CC   -!- SUBUNIT: Homodimer. {ECO:0000269|PubMed:16242715}.
+CC   -!- SIMILARITY: Belongs to the peptidase M29 family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; D13386; BAA02654.1; -; Genomic_DNA.
+DR   EMBL; AP008226; BAD70975.1; -; Genomic_DNA.
+DR   RefSeq; WP_011173220.1; NC_006461.1.
+DR   RefSeq; YP_144418.1; NC_006461.1.
+DR   PDB; 2AYI; X-ray; 3.70 A; A/B/C/D/E=1-408.
+DR   PDBsum; 2AYI; -.
+DR   ProteinModelPortal; P42778; -.
+DR   SMR; P42778; 3-408.
+DR   STRING; 300852.TTHA1152; -.
+DR   MEROPS; M29.001; -.
+DR   EnsemblBacteria; BAD70975; BAD70975; BAD70975.
+DR   GeneID; 3170035; -.
+DR   KEGG; ttj:TTHA1152; -.
+DR   PATRIC; 23957265; VBITheThe93045_1132.
+DR   eggNOG; COG2309; -.
+DR   HOGENOM; HOG000023469; -.
+DR   KO; K01269; -.
+DR   OMA; HIALGRC; -.
+DR   OrthoDB; EOG600DR8; -.
+DR   PhylomeDB; P42778; -.
+DR   BioCyc; TTHE300852:GH8R-1184-MONOMER; -.
+DR   EvolutionaryTrace; P42778; -.
+DR   Proteomes; UP000000532; Chromosome.
+DR   GO; GO:0004177; F:aminopeptidase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0008237; F:metallopeptidase activity; IEA:UniProtKB-KW.
+DR   InterPro; IPR000787; Peptidase_M29.
+DR   Pfam; PF02073; Peptidase_M29; 1.
+DR   PRINTS; PR00919; THERMOPTASE.
+PE   1: Evidence at protein level;
+KW   3D-structure; Aminopeptidase; Cobalt; Complete proteome; Hydrolase;
+KW   Metal-binding; Metalloprotease; Protease; Reference proteome; Zinc.
+FT   CHAIN         1    408       Aminopeptidase T.
+FT                                /FTId=PRO_0000079176.
+FT   METAL       250    250       Divalent metal cation 1.
+FT   METAL       316    316       Divalent metal cation 1.
+FT   METAL       316    316       Divalent metal cation 2.
+FT   METAL       340    340       Divalent metal cation 1.
+FT   METAL       340    340       Divalent metal cation 2.
+FT   METAL       345    345       Divalent metal cation 1.
+FT   METAL       376    376       Divalent metal cation 2.
+FT   METAL       378    378       Divalent metal cation 2.
+FT   HELIX         5     17
+FT   TURN         18     20
+FT   STRAND       27     32
+FT   HELIX        37     49
+FT   STRAND       53     59
+FT   HELIX        62     71
+FT   HELIX        82     93
+FT   STRAND       97    102
+FT   HELIX       106    108
+FT   HELIX       114    136
+FT   STRAND      144    146
+FT   TURN        150    152
+FT   HELIX       153    156
+FT   HELIX       162    176
+FT   HELIX       185    204
+FT   STRAND      208    214
+FT   STRAND      217    222
+FT   STRAND      230    233
+FT   STRAND      237    239
+FT   STRAND      244    247
+FT   STRAND      251    253
+FT   STRAND      260    265
+FT   STRAND      270    272
+FT   STRAND      275    279
+FT   STRAND      281    285
+FT   STRAND      288    293
+FT   HELIX       298    304
+FT   STRAND      307    309
+FT   HELIX       310    312
+FT   STRAND      313    318
+FT   HELIX       325    329
+FT   HELIX       336    340
+FT   STRAND      345    349
+FT   HELIX       353    355
+FT   HELIX       365    368
+FT   STRAND      376    380
+FT   STRAND      387    391
+FT   STRAND      397    402
+SQ   SEQUENCE   408 AA;  45018 MW;  CBA7F8E0DA99A2D2 CRC64;
+     MDAFKRNLEK LAELAIRVGL NLEKGQEVIA TAPIEAVDFV RLLAEKAYRE GASLFTVIYG
+     DQELARKRLA LAPEEGLDKA PAWLYEGMAR AFREGAARLA VSGSDPKALE GLPPEKVGRA
+     QKANARAYKP ALEAITEFVT NWTIVPFAHP GWARAVFPGL PEEEAVRRLW EAIFQATRAD
+     QEDPIAAWEA HNRALHEKVA YLNARRFHAL HFKGPGTDLV VGLAEGHLWQ GGATATKGGR
+     LCNPNLPTEE VFTAPHRERV EGVVRASRPL ALGGTLVEGI FARFERGFAV EVRAEKGEEV
+     LRRLLDTDEG ARRLGEVALV PADNPIAKTG LVFFDTLFDE NAASHIAFGQ AYQENLEGRP
+     SGEAFRKRGG NESLVHVDWM IGSEEMDVDG LYEDGTRTPL MRRGRWVV
+//

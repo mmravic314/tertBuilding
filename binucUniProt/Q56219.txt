@@ -1,0 +1,157 @@
+ID   NQO5_THET8              Reviewed;         207 AA.
+AC   Q56219; Q5SM57;
+DT   01-NOV-1997, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1997, sequence version 1.
+DT   24-JUN-2015, entry version 105.
+DE   RecName: Full=NADH-quinone oxidoreductase subunit 5;
+DE            EC=1.6.5.11 {ECO:0000255|HAMAP-Rule:MF_01357};
+DE   AltName: Full=NADH dehydrogenase I chain 5;
+DE   AltName: Full=NDH-1 subunit 5;
+GN   Name=nqo5; OrderedLocusNames=TTHA0086;
+OS   Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579).
+OC   Bacteria; Deinococcus-Thermus; Deinococci; Thermales; Thermaceae;
+OC   Thermus.
+OX   NCBI_TaxID=300852;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=9020134; DOI=10.1074/jbc.272.7.4201;
+RA   Yano T., Chu S.S., Sled' V.D., Ohnishi T., Yagi T.;
+RT   "The proton-translocating NADH-quinone oxidoreductase (NDH-1) of
+RT   thermophilic bacterium Thermus thermophilus HB-8. Complete DNA
+RT   sequence of the gene cluster and thermostable properties of the
+RT   expressed NQO2 subunit.";
+RL   J. Biol. Chem. 272:4201-4211(1997).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=HB8 / ATCC 27634 / DSM 579;
+RA   Masui R., Kurokawa K., Nakagawa N., Tokunaga F., Koyama Y.,
+RA   Shibata T., Oshima T., Yokoyama S., Yasunaga T., Kuramitsu S.;
+RT   "Complete genome sequence of Thermus thermophilus HB8.";
+RL   Submitted (NOV-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   PROTEIN SEQUENCE OF 1-8, IDENTIFICATION BY MASS SPECTROMETRY, AND
+RP   SUBUNIT.
+RX   PubMed=16584177; DOI=10.1021/bi0600998;
+RA   Hinchliffe P., Carroll J., Sazanov L.A.;
+RT   "Identification of a novel subunit of respiratory complex I from
+RT   Thermus thermophilus.";
+RL   Biochemistry 45:4413-4420(2006).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (3.3 ANGSTROMS), SUBUNIT, AND ELECTRON TRANSFER
+RP   MECHANISM.
+RX   PubMed=16469879; DOI=10.1126/science.1123809;
+RA   Sazanov L.A., Hinchliffe P.;
+RT   "Structure of the hydrophilic domain of respiratory complex I from
+RT   Thermus thermophilus.";
+RL   Science 311:1430-1436(2006).
+CC   -!- FUNCTION: NDH-1 shuttles electrons from NADH, via FMN and iron-
+CC       sulfur (Fe-S) centers, to quinones in the respiratory chain. The
+CC       immediate electron acceptor for the enzyme in this species is
+CC       menaquinone. Couples the redox reaction to proton translocation
+CC       (for every two electrons transferred, four hydrogen ions are
+CC       translocated across the cytoplasmic membrane), and thus conserves
+CC       the redox energy in a proton gradient required for the synthesis
+CC       of ATP. The nqo5 subunit may be involved in the stabilization of
+CC       the complex.
+CC   -!- CATALYTIC ACTIVITY: NADH + a quinone = NAD(+) + a quinol.
+CC       {ECO:0000255|HAMAP-Rule:MF_01357}.
+CC   -!- SUBUNIT: NDH-1 is composed of 15 different subunits, nqo1 to
+CC       nqo15. The complex has a L-shaped structure, with the hydrophobic
+CC       arm (subunits nqo7, nqo8 and nqo10 to nqo14) embedded in the
+CC       membrane and the hydrophilic peripheral arm (subunits nqo1 to
+CC       nqo6, nqo9 and nqo15) protruding into the bacterial cytoplasm. The
+CC       hydrophilic domain contains all the redox centers. The N-terminal
+CC       domain of subunit nqo5 (residues 1 to 153) wraps around nqo4 on
+CC       one side, and the subunit interacts also with nqo9 via a two-
+CC       stranded beta sheet (residues 154 to 171) and with nqo3 via an
+CC       extended C-terminal loop (residues 172 to 196).
+CC       {ECO:0000269|PubMed:16469879, ECO:0000269|PubMed:16584177}.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane; Peripheral membrane protein;
+CC       Cytoplasmic side.
+CC   -!- SIMILARITY: Belongs to the complex I 30 kDa subunit family.
+CC       {ECO:0000255|HAMAP-Rule:MF_01357}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U52917; AAA97940.1; -; Genomic_DNA.
+DR   EMBL; AP008226; BAD69909.1; -; Genomic_DNA.
+DR   PIR; T11900; T11900.
+DR   RefSeq; WP_011174270.1; NC_006461.1.
+DR   RefSeq; YP_143352.1; NC_006461.1.
+DR   PDB; 2FUG; X-ray; 3.30 A; 5/E/N/W=1-207.
+DR   PDB; 2YBB; EM; 19.00 A; 5=1-207.
+DR   PDB; 3I9V; X-ray; 3.10 A; 5/E=1-207.
+DR   PDB; 3IAM; X-ray; 3.10 A; 5/E=1-207.
+DR   PDB; 3IAS; X-ray; 3.15 A; 5/E/N/W=1-207.
+DR   PDB; 3M9S; X-ray; 4.50 A; 5/E=1-207.
+DR   PDB; 4HEA; X-ray; 3.30 A; 5/F=1-207.
+DR   PDBsum; 2FUG; -.
+DR   PDBsum; 2YBB; -.
+DR   PDBsum; 3I9V; -.
+DR   PDBsum; 3IAM; -.
+DR   PDBsum; 3IAS; -.
+DR   PDBsum; 3M9S; -.
+DR   PDBsum; 4HEA; -.
+DR   ProteinModelPortal; Q56219; -.
+DR   SMR; Q56219; 1-196.
+DR   DIP; DIP-59263N; -.
+DR   STRING; 300852.TTHA0086; -.
+DR   TCDB; 3.D.1.3.1; the h(+) or na(+)-translocating nadh dehydrogenase (ndh) family.
+DR   EnsemblBacteria; BAD69909; BAD69909; BAD69909.
+DR   GeneID; 3168317; -.
+DR   KEGG; ttj:TTHA0086; -.
+DR   PATRIC; 23955103; VBITheThe93045_0084.
+DR   eggNOG; COG0852; -.
+DR   HOGENOM; HOG000099654; -.
+DR   KO; K00332; -.
+DR   OMA; TPEGHLC; -.
+DR   OrthoDB; EOG60PHFK; -.
+DR   PhylomeDB; Q56219; -.
+DR   BioCyc; TTHE300852:GH8R-90-MONOMER; -.
+DR   EvolutionaryTrace; Q56219; -.
+DR   Proteomes; UP000000532; Chromosome.
+DR   GO; GO:0005886; C:plasma membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0008137; F:NADH dehydrogenase (ubiquinone) activity; IEA:InterPro.
+DR   GO; GO:0048038; F:quinone binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006810; P:transport; IEA:UniProtKB-KW.
+DR   HAMAP; MF_01357; NDH1_NuoC; 1.
+DR   InterPro; IPR010218; NADH_DH_suC.
+DR   InterPro; IPR001268; NADH_UbQ_OxRdtase_30kDa_su.
+DR   InterPro; IPR020396; NADH_UbQ_OxRdtase_CS.
+DR   Pfam; PF00329; Complex1_30kDa; 1.
+DR   ProDom; PD001581; NADH_UbQ_OxRdtase_30kDa_su; 1.
+DR   PROSITE; PS00542; COMPLEX1_30K; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cell membrane; Complete proteome;
+KW   Direct protein sequencing; Membrane; NAD; Oxidoreductase; Quinone;
+KW   Reference proteome; Transport.
+FT   CHAIN         1    207       NADH-quinone oxidoreductase subunit 5.
+FT                                /FTId=PRO_0000118669.
+FT   HELIX         4     12       {ECO:0000244|PDB:3I9V}.
+FT   STRAND       17     19       {ECO:0000244|PDB:3IAM}.
+FT   STRAND       21     23       {ECO:0000244|PDB:2FUG}.
+FT   STRAND       25     28       {ECO:0000244|PDB:3I9V}.
+FT   HELIX        31     43       {ECO:0000244|PDB:3I9V}.
+FT   STRAND       49     56       {ECO:0000244|PDB:3I9V}.
+FT   STRAND       65     74       {ECO:0000244|PDB:3I9V}.
+FT   STRAND       80     82       {ECO:0000244|PDB:3I9V}.
+FT   STRAND       88     94       {ECO:0000244|PDB:3I9V}.
+FT   STRAND      100    102       {ECO:0000244|PDB:4HEA}.
+FT   TURN        105    107       {ECO:0000244|PDB:3I9V}.
+FT   HELIX       111    120       {ECO:0000244|PDB:3I9V}.
+FT   STRAND      125    127       {ECO:0000244|PDB:4HEA}.
+FT   STRAND      135    137       {ECO:0000244|PDB:3IAS}.
+FT   STRAND      141    143       {ECO:0000244|PDB:2FUG}.
+FT   STRAND      145    147       {ECO:0000244|PDB:2FUG}.
+FT   STRAND      160    162       {ECO:0000244|PDB:4HEA}.
+FT   HELIX       167    169       {ECO:0000244|PDB:3I9V}.
+FT   STRAND      176    178       {ECO:0000244|PDB:3IAS}.
+FT   STRAND      181    183       {ECO:0000244|PDB:3I9V}.
+FT   HELIX       187    189       {ECO:0000244|PDB:3I9V}.
+SQ   SEQUENCE   207 AA;  23859 MW;  EB6891BEF6F314AD CRC64;
+     MRLERVLEEA RAKGYPIEDN GLGNLWVVLP RERFKEEMAH YKAMGFNFLA DIVGLDYLTY
+     PDPRPERFAV VYELVSLPGW KDGDGSRFFV RVYVPEEDPR LPTVTDLWGS ANFLEREVYD
+     LFGIVFEGHP DLRKILTPED LEGHPLRKDY PLGETPTLFR EGRYIIPAEF RAALTGKDPG
+     LTFYKGGSRK GYRSLWADLK KAREVKG
+//

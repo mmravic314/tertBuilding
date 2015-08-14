@@ -1,0 +1,984 @@
+ID   PCSK9_HUMAN             Reviewed;         692 AA.
+AC   Q8NBP7; A8T640; C0JYY9; Q5PSM5; Q5SZQ2;
+DT   07-NOV-2003, integrated into UniProtKB/Swiss-Prot.
+DT   11-JAN-2011, sequence version 3.
+DT   22-JUL-2015, entry version 144.
+DE   RecName: Full=Proprotein convertase subtilisin/kexin type 9;
+DE            EC=3.4.21.-;
+DE   AltName: Full=Neural apoptosis-regulated convertase 1;
+DE            Short=NARC-1;
+DE   AltName: Full=Proprotein convertase 9;
+DE            Short=PC9;
+DE   AltName: Full=Subtilisin/kexin-like protease PC9;
+DE   Flags: Precursor;
+GN   Name=PCSK9; Synonyms=NARC1; ORFNames=PSEC0052;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), AND VARIANTS ILE-474 AND
+RP   GLU-670.
+RA   Chiang L.W.;
+RT   "Nucleic acid molecules derived from rat brain and programmed cell
+RT   death models.";
+RL   Patent number WO0131007, 03-MAY-2001.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), AND VARIANTS ILE-474 AND
+RP   GLU-670.
+RX   PubMed=17971861; DOI=10.1371/journal.pone.0001098;
+RA   Ding K., McDonough S.J., Kullo I.J.;
+RT   "Evidence for positive selection in the C-terminal domain of the
+RT   cholesterol metabolism gene PCSK9 based on phylogenetic analysis in 14
+RT   primate species.";
+RL   PLoS ONE 2:E1098-E1098(2007).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2), AND VARIANT
+RP   ILE-474.
+RC   TISSUE=Cerebellum, and Teratocarcinoma;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A.,
+RA   Sudo H., Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M.,
+RA   Takahashi M., Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y.,
+RA   Abe K., Kamihara K., Katsuta N., Sato K., Tanikawa M., Yamazaki M.,
+RA   Ninomiya K., Ishibashi T., Yamashita H., Murakawa K., Fujimori K.,
+RA   Tanai H., Kimata M., Watanabe M., Hiraoka S., Chiba Y., Ishida S.,
+RA   Ono Y., Takiguchi S., Watanabe S., Yosida M., Hotuta T., Kusano J.,
+RA   Kanehori K., Takahashi-Fujii A., Hara H., Tanase T.-O., Nomura Y.,
+RA   Togiya S., Komai F., Hara R., Takeuchi K., Arita M., Imose N.,
+RA   Musashino K., Yuuki H., Oshima A., Sasaki N., Aotsuka S.,
+RA   Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y.,
+RA   Fujimori Y., Komiyama M., Tashiro H., Tanigami A., Fujiwara T.,
+RA   Ono T., Yamada K., Fujii Y., Ozaki K., Hirao M., Ohmori Y.,
+RA   Kawabata A., Hikiji T., Kobatake N., Inagaki H., Ikema Y., Okamoto S.,
+RA   Okitani R., Kawakami T., Noguchi S., Itoh T., Shigeta K., Senba T.,
+RA   Matsumura K., Nakajima Y., Mizuno T., Morinaga M., Sasaki M.,
+RA   Togashi T., Oyama M., Hata H., Watanabe M., Komatsu T.,
+RA   Mizushima-Sugano J., Satoh T., Shirai Y., Takahashi Y., Nakagawa K.,
+RA   Okumura K., Nagase T., Nomura N., Kikuchi H., Masuho Y., Yamashita R.,
+RA   Nakai K., Yada T., Nakamura Y., Ohara O., Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND VARIANTS LEU-23 INS; LEU-46;
+RP   VAL-53; SER-425; THR-443; ILE-474; ARG-553; PRO-619 AND GLU-670.
+RG   SeattleSNPs variation discovery resource;
+RL   Submitted (NOV-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND VARIANTS LEU-23 INS; ILE-474
+RP   AND GLU-670.
+RG   NHLBI resequencing and genotyping service (RS&G);
+RL   Submitted (DEC-2008) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16710414; DOI=10.1038/nature04727;
+RA   Gregory S.G., Barlow K.F., McLay K.E., Kaul R., Swarbreck D.,
+RA   Dunham A., Scott C.E., Howe K.L., Woodfine K., Spencer C.C.A.,
+RA   Jones M.C., Gillson C., Searle S., Zhou Y., Kokocinski F.,
+RA   McDonald L., Evans R., Phillips K., Atkinson A., Cooper R., Jones C.,
+RA   Hall R.E., Andrews T.D., Lloyd C., Ainscough R., Almeida J.P.,
+RA   Ambrose K.D., Anderson F., Andrew R.W., Ashwell R.I.S., Aubin K.,
+RA   Babbage A.K., Bagguley C.L., Bailey J., Beasley H., Bethel G.,
+RA   Bird C.P., Bray-Allen S., Brown J.Y., Brown A.J., Buckley D.,
+RA   Burton J., Bye J., Carder C., Chapman J.C., Clark S.Y., Clarke G.,
+RA   Clee C., Cobley V., Collier R.E., Corby N., Coville G.J., Davies J.,
+RA   Deadman R., Dunn M., Earthrowl M., Ellington A.G., Errington H.,
+RA   Frankish A., Frankland J., French L., Garner P., Garnett J., Gay L.,
+RA   Ghori M.R.J., Gibson R., Gilby L.M., Gillett W., Glithero R.J.,
+RA   Grafham D.V., Griffiths C., Griffiths-Jones S., Grocock R.,
+RA   Hammond S., Harrison E.S.I., Hart E., Haugen E., Heath P.D.,
+RA   Holmes S., Holt K., Howden P.J., Hunt A.R., Hunt S.E., Hunter G.,
+RA   Isherwood J., James R., Johnson C., Johnson D., Joy A., Kay M.,
+RA   Kershaw J.K., Kibukawa M., Kimberley A.M., King A., Knights A.J.,
+RA   Lad H., Laird G., Lawlor S., Leongamornlert D.A., Lloyd D.M.,
+RA   Loveland J., Lovell J., Lush M.J., Lyne R., Martin S.,
+RA   Mashreghi-Mohammadi M., Matthews L., Matthews N.S.W., McLaren S.,
+RA   Milne S., Mistry S., Moore M.J.F., Nickerson T., O'Dell C.N.,
+RA   Oliver K., Palmeiri A., Palmer S.A., Parker A., Patel D., Pearce A.V.,
+RA   Peck A.I., Pelan S., Phelps K., Phillimore B.J., Plumb R., Rajan J.,
+RA   Raymond C., Rouse G., Saenphimmachak C., Sehra H.K., Sheridan E.,
+RA   Shownkeen R., Sims S., Skuce C.D., Smith M., Steward C.,
+RA   Subramanian S., Sycamore N., Tracey A., Tromans A., Van Helmond Z.,
+RA   Wall M., Wallis J.M., White S., Whitehead S.L., Wilkinson J.E.,
+RA   Willey D.L., Williams H., Wilming L., Wray P.W., Wu Z., Coulson A.,
+RA   Vaudin M., Sulston J.E., Durbin R.M., Hubbard T., Wooster R.,
+RA   Dunham I., Carter N.P., McVean G., Ross M.T., Harrow J., Olson M.V.,
+RA   Beck S., Rogers J., Bentley D.R.;
+RT   "The DNA sequence and biological annotation of human chromosome 1.";
+RL   Nature 441:315-321(2006).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA], AND VARIANTS ILE-474
+RP   AND GLU-670.
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L.,
+RA   Mobarry C.M., Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R.,
+RA   Flanigan M.J., Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V.,
+RA   Hannenhalli S., Turner R., Yooseph S., Lu F., Nusskern D.R.,
+RA   Shue B.C., Zheng X.H., Zhong F., Delcher A.L., Huson D.H.,
+RA   Kravitz S.A., Mouchard L., Reinert K., Remington K.A., Clark A.G.,
+RA   Waterman M.S., Eichler E.E., Adams M.D., Hunkapiller M.W., Myers E.W.,
+RA   Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [8]
+RP   PROTEIN SEQUENCE OF N-TERMINUS, CHARACTERIZATION, AND MUTAGENESIS OF
+RP   CYS-67; HIS-226 AND ASN-533.
+RX   PubMed=12552133; DOI=10.1073/pnas.0335507100;
+RA   Seidah N.G., Benjannet S., Wickham L., Marcinkiewicz J., Jasmin S.B.,
+RA   Stifani S., Basak A., Prat A., Chretien M.;
+RT   "The secretory proprotein convertase neural apoptosis-regulated
+RT   convertase 1 (NARC-1): liver regeneration and neuronal
+RT   differentiation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 100:928-933(2003).
+RN   [9]
+RP   AUTOCATALYTIC CLEAVAGE SITE.
+RX   PubMed=14622975; DOI=10.1016/j.abb.2003.09.011;
+RA   Naureckiene S., Ma L., Sreekumar K., Purandare U., Lo C.F., Huang Y.,
+RA   Chiang L.W., Grenier J.M., Ozenberger B.A., Jacobsen J.S.,
+RA   Kennedy J.D., DiStefano P.S., Wood A., Bingham B.;
+RT   "Functional characterization of Narc 1, a novel proteinase related to
+RT   proteinase K.";
+RL   Arch. Biochem. Biophys. 420:55-67(2003).
+RN   [10]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-688, AND IDENTIFICATION
+RP   BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=17081983; DOI=10.1016/j.cell.2006.09.026;
+RA   Olsen J.V., Blagoev B., Gnad F., Macek B., Kumar C., Mortensen P.,
+RA   Mann M.;
+RT   "Global, in vivo, and site-specific phosphorylation dynamics in
+RT   signaling networks.";
+RL   Cell 127:635-648(2006).
+RN   [11]
+RP   GLYCOSYLATION AT ASN-533, SULFATION AT TYR-38, AND CLEAVAGE AT ARG-218
+RP   BY FURIN AND PCSK5.
+RX   PubMed=16912035; DOI=10.1074/jbc.M606495200;
+RA   Benjannet S., Rhainds D., Hamelin J., Nassoury N., Seidah N.G.;
+RT   "The proprotein convertase (PC) PCSK9 is inactivated by furin and/or
+RT   PC5/6A: functional consequences of natural mutations and post-
+RT   translational modifications.";
+RL   J. Biol. Chem. 281:30561-30572(2006).
+RN   [12]
+RP   FUNCTION, SUBCELLULAR LOCATION, AND INTERACTION WITH LDLR.
+RX   PubMed=17461796; DOI=10.1111/j.1600-0854.2007.00562.x;
+RA   Nassoury N., Blasiole D.A., Tebon Oler A., Benjannet S., Hamelin J.,
+RA   Poupon V., McPherson P.S., Attie A.D., Prat A., Seidah N.G.;
+RT   "The cellular trafficking of the secretory proprotein convertase PCSK9
+RT   and its dependence on the LDLR.";
+RL   Traffic 8:718-732(2007).
+RN   [13]
+RP   FUNCTION, AND SUBUNIT.
+RX   PubMed=18197702; DOI=10.1021/bi7016359;
+RA   Fan D., Yancey P.G., Qiu S., Ding L., Weeber E.J., Linton M.F.,
+RA   Fazio S.;
+RT   "Self-association of human PCSK9 correlates with its LDLR-degrading
+RT   activity.";
+RL   Biochemistry 47:1631-1639(2008).
+RN   [14]
+RP   FUNCTION, AND INTERACTION WITH BACE1.
+RX   PubMed=18660751; DOI=10.1038/embor.2008.132;
+RA   Jonas M.C., Costantini C., Puglielli L.;
+RT   "PCSK9 is required for the disposal of non-acetylated intermediates of
+RT   the nascent membrane protein BACE1.";
+RL   EMBO Rep. 9:916-922(2008).
+RN   [15]
+RP   PHOSPHORYLATION AT SER-47 AND SER-688, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY.
+RX   PubMed=18498363; DOI=10.1111/j.1742-4658.2008.06495.x;
+RA   Dewpura T., Raymond A., Hamelin J., Seidah N.G., Mbikay M.,
+RA   Chretien M., Mayne J.;
+RT   "PCSK9 is phosphorylated by a Golgi casein kinase-like kinase ex vivo
+RT   and circulates as a phosphoprotein in humans.";
+RL   FEBS J. 275:3480-3493(2008).
+RN   [16]
+RP   FUNCTION, SUBCELLULAR LOCATION, AND INTERACTION WITH VLDLR AND
+RP   LRP8/APOER2.
+RX   PubMed=18039658; DOI=10.1074/jbc.M708098200;
+RA   Poirier S., Mayer G., Benjannet S., Bergeron E., Marcinkiewicz J.,
+RA   Nassoury N., Mayer H., Nimpf J., Prat A., Seidah N.G.;
+RT   "The proprotein convertase PCSK9 induces the degradation of low
+RT   density lipoprotein receptor (LDLR) and its closest family members
+RT   VLDLR and ApoER2.";
+RL   J. Biol. Chem. 283:2363-2372(2008).
+RN   [17]
+RP   FUNCTION, INTERACTION WITH ANXA2, VARIANT HCHOLA3 TYR-374,
+RP   CHARACTERIZATION OF VARIANT HCHOLA3 TYR-374, VARIANT GLU-554, AND
+RP   CHARACTERIZATION OF VARIANT GLU-554.
+RX   PubMed=18799458; DOI=10.1074/jbc.M805971200;
+RA   Mayer G., Poirier S., Seidah N.G.;
+RT   "Annexin A2 is a C-terminal PCSK9-binding protein that regulates
+RT   endogenous low density lipoprotein receptor levels.";
+RL   J. Biol. Chem. 283:31791-31801(2008).
+RN   [18]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [19]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-688, AND IDENTIFICATION
+RP   BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S.,
+RA   Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full
+RT   phosphorylation site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [20]
+RP   FUNCTION.
+RX   PubMed=22074827; DOI=10.1016/j.bbrc.2011.10.110;
+RA   Chen Y., Wang H., Yu L., Yu X., Qian Y.W., Cao G., Wang J.;
+RT   "Role of ubiquitination in PCSK9-mediated low-density lipoprotein
+RT   receptor degradation.";
+RL   Biochem. Biophys. Res. Commun. 415:515-518(2011).
+RN   [21]
+RP   INTERACTION WITH LDLR.
+RX   PubMed=21149300; DOI=10.1074/jbc.M110.199042;
+RA   Yamamoto T., Lu C., Ryan R.O.;
+RT   "A two-step binding model of PCSK9 interaction with the low density
+RT   lipoprotein receptor.";
+RL   J. Biol. Chem. 286:5464-5470(2011).
+RN   [22]
+RP   DOMAIN C-TERMINAL.
+RX   PubMed=22027821; DOI=10.1074/jbc.M111.273474;
+RA   Du F., Hui Y., Zhang M., Linton M.F., Fazio S., Fan D.;
+RT   "Novel domain interaction regulates secretion of proprotein convertase
+RT   subtilisin/kexin type 9 (PCSK9) protein.";
+RL   J. Biol. Chem. 286:43054-43061(2011).
+RN   [23]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-688, AND IDENTIFICATION
+RP   BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21406692; DOI=10.1126/scisignal.2001570;
+RA   Rigbolt K.T., Prokhorova T.A., Akimov V., Henningsen J.,
+RA   Johansen P.T., Kratchmarova I., Kassem M., Mann M., Olsen J.V.,
+RA   Blagoev B.;
+RT   "System-wide temporal characterization of the proteome and
+RT   phosphoproteome of human embryonic stem cell differentiation.";
+RL   Sci. Signal. 4:RS3-RS3(2011).
+RN   [24]
+RP   FUNCTION, SUBCELLULAR LOCATION, AND INTERACTION WITH APOB.
+RX   PubMed=22580899; DOI=10.1161/ATVBAHA.112.250043;
+RA   Sun H., Samarghandi A., Zhang N., Yao Z., Xiong M., Teng B.B.;
+RT   "Proprotein convertase subtilisin/kexin type 9 interacts with
+RT   apolipoprotein B and prevents its intracellular degradation,
+RT   irrespective of the low-density lipoprotein receptor.";
+RL   Arterioscler. Thromb. Vasc. Biol. 32:1585-1595(2012).
+RN   [25]
+RP   REVIEW.
+RX   PubMed=18280815; DOI=10.1016/j.bbalip.2008.01.003;
+RA   Lopez D.;
+RT   "PCSK9: an enigmatic protease.";
+RL   Biochim. Biophys. Acta 1781:184-191(2008).
+RN   [26]
+RP   REVIEW.
+RX   PubMed=18649882; DOI=10.1016/j.atherosclerosis.2008.06.010;
+RA   Lambert G., Charlton F., Rye K.A., Piper D.E.;
+RT   "Molecular basis of PCSK9 function.";
+RL   Atherosclerosis 203:1-7(2009).
+RN   [27]
+RP   REVIEW.
+RX   PubMed=19930098; DOI=10.1111/j.1365-2796.2009.02167.x;
+RA   Mousavi S.A., Berge K.E., Leren T.P.;
+RT   "The unique role of proprotein convertase subtilisin/kexin 9 in
+RT   cholesterol homeostasis.";
+RL   J. Intern. Med. 266:507-519(2009).
+RN   [28]
+RP   REVIEW.
+RX   PubMed=19020338; DOI=10.1194/jlr.R800091-JLR200;
+RA   Horton J.D., Cohen J.C., Hobbs H.H.;
+RT   "PCSK9: a convertase that coordinates LDL catabolism.";
+RL   J. Lipid Res. 50:S172-S177(2009).
+RN   [29]
+RP   REVIEW.
+RX   PubMed=21943799; DOI=10.1016/j.numecd.2011.06.002;
+RA   Tibolla G., Norata G.D., Artali R., Meneghetti F., Catapano A.L.;
+RT   "Proprotein convertase subtilisin/kexin type 9 (PCSK9): from
+RT   structure-function relation to therapeutic inhibition.";
+RL   Nutr. Metab. Cardiovasc. Dis. 21:835-843(2011).
+RN   [30]
+RP   REVIEW ON VARIANTS.
+RX   PubMed=19191301; DOI=10.1002/humu.20882;
+RA   Abifadel M., Rabes J.P., Devillers M., Munnich A., Erlich D.,
+RA   Junien C., Varret M., Boileau C.;
+RT   "Mutations and polymorphisms in the proprotein convertase subtilisin
+RT   kexin 9 (PCSK9) gene in cholesterol metabolism and disease.";
+RL   Hum. Mutat. 30:520-529(2009).
+RN   [31]
+RP   INVOLVEMENT IN LDLCQ1, AND VARIANT SER-174.
+RX   PubMed=22417841; DOI=10.1016/j.atherosclerosis.2012.02.018;
+RA   Slimani A., Jelassi A., Jguirim I., Najah M., Rebhi L., Omezzine A.,
+RA   Maatouk F., Hamda K.B., Kacem M., Rabes J.P., Abifadel M., Boileau C.,
+RA   Rouis M., Slimane M.N., Varret M.;
+RT   "Effect of mutations in LDLR and PCSK9 genes on phenotypic variability
+RT   in Tunisian familial hypercholesterolemia patients.";
+RL   Atherosclerosis 222:158-166(2012).
+RN   [32]
+RP   FUNCTION, AND INTERACTION WITH SCNN1A; SCNN1B AND SCNN1G.
+RX   PubMed=22493497; DOI=10.1074/jbc.M112.363382;
+RA   Sharotri V., Collier D.M., Olson D.R., Zhou R., Snyder P.M.;
+RT   "Regulation of epithelial sodium channel trafficking by proprotein
+RT   convertase subtilisin/kexin type 9 (PCSK9).";
+RL   J. Biol. Chem. 287:19266-19274(2012).
+RN   [33]
+RP   FUNCTION, INTERACTION WITH ANXA2, VARIANT GLN-482, CHARACTERIZATION OF
+RP   VARIANT GLN-482, VARIANTS HCHOLA3 SER-218 AND TYR-374,
+RP   CHARACTERIZATION OF VARIANTS HCHOLA3 SER-218 AND TYR-374, SULFATION,
+RP   PHOSPHORYLATION, GLYCOSYLATION, AND SUBUNIT.
+RX   PubMed=24808179; DOI=10.1074/jbc.M113.541094;
+RA   Ly K., Saavedra Y.G., Canuel M., Routhier S., Desjardins R.,
+RA   Hamelin J., Mayne J., Lazure C., Seidah N.G., Day R.;
+RT   "Annexin A2 reduces PCSK9 protein levels via a translational mechanism
+RT   and interacts with the M1 and M2 domains of PCSK9.";
+RL   J. Biol. Chem. 289:17732-17746(2014).
+RN   [34]
+RP   X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) OF 31-692.
+RX   PubMed=17502100; DOI=10.1016/j.str.2007.04.004;
+RA   Piper D.E., Jackson S., Liu Q., Romanow W.G., Shetterly S.,
+RA   Thibault S.T., Shan B., Walker N.P.;
+RT   "The crystal structure of PCSK9: a regulator of plasma LDL-
+RT   cholesterol.";
+RL   Structure 15:545-552(2007).
+RN   [35]
+RP   VARIANTS HCHOLA3 ARG-127 AND LEU-216, AND VARIANTS LEU-46; VAL-53 AND
+RP   GLU-670.
+RX   PubMed=12730697; DOI=10.1038/ng1161;
+RA   Abifadel M., Varret M., Rabes J.-P., Allard D., Ouguerram K.,
+RA   Devillers M., Cruaud C., Benjannet S., Wickham L., Erlich D.,
+RA   Derre A., Villeger L., Farnier M., Beucler I., Bruckert E.,
+RA   Chambaz J., Chanu B., Lecerf J.-M., Luc G., Moulin P., Weissenbach J.,
+RA   Prat A., Krempf M., Junien C., Seidah N.G., Boileau C.;
+RT   "Mutations in PCSK9 cause autosomal dominant hypercholesterolemia.";
+RL   Nat. Genet. 34:154-156(2003).
+RN   [36]
+RP   VARIANTS LEU-46; VAL-53; LYS-57; TRP-237; PHE-253; ASN-391; GLN-417;
+RP   SER-425; THR-443; TRP-469; ILE-474; GLY-482; LEU-515; ARG-553;
+RP   GLU-554; PRO-619 AND GLU-670.
+RX   PubMed=16465619; DOI=10.1086/500615;
+RA   Kotowski I.K., Pertsemlidis A., Luke A., Cooper R.S., Vega G.L.,
+RA   Cohen J.C., Hobbs H.H.;
+RT   "A spectrum of PCSK9 alleles contributes to plasma levels of low-
+RT   density lipoprotein cholesterol.";
+RL   Am. J. Hum. Genet. 78:410-422(2006).
+RN   [37]
+RP   INVOLVEMENT IN LDLCQ1, VARIANT LEU-23 INS, AND IMPACT ON FAMILIAL
+RP   HYPERCHOLESTEROLEMIA.
+RX   PubMed=19319977; DOI=10.1002/humu.21002;
+RA   Abifadel M., Rabes J.-P., Jambart S., Halaby G., Gannage-Yared M.-H.,
+RA   Sarkis A., Beaino G., Varret M., Salem N., Corbani S., Aydenian H.,
+RA   Junien C., Munnich A., Boileau C.;
+RT   "The molecular basis of familial hypercholesterolemia in Lebanon:
+RT   spectrum of LDLR mutations and role of PCSK9 as a modifier gene.";
+RL   Hum. Mutat. 30:E682-E691(2009).
+RN   [38]
+RP   INVOLVEMENT IN LDLCQ1, AND VARIANTS LEU-23 INS; LEU-46; VAL-53;
+RP   SER-394; ILE-474 AND GLU-670.
+RX   PubMed=22095935; DOI=10.1002/humu.21660;
+RA   Huijgen R., Sjouke B., Vis K., de Randamie J.S., Defesche J.C.,
+RA   Kastelein J.J., Hovingh G.K., Fouchier S.W.;
+RT   "Genetic variation in APOB, PCSK9, and ANGPTL3 in carriers of
+RT   pathogenic autosomal dominant hypercholesterolemic mutations with
+RT   unexpected low LDL-Cl Levels.";
+RL   Hum. Mutat. 33:448-455(2012).
+CC   -!- FUNCTION: Crucial player in the regulation of plasma cholesterol
+CC       homeostasis. Binds to low-density lipid receptor family members:
+CC       low density lipoprotein receptor (LDLR), very low density
+CC       lipoprotein receptor (VLDLR), apolipoprotein E receptor
+CC       (LRP1/APOER) and apolipoprotein receptor 2 (LRP8/APOER2), and
+CC       promotes their degradation in intracellular acidic compartments
+CC       (PubMed:18039658). Acts via a non-proteolytic mechanism to enhance
+CC       the degradation of the hepatic LDLR through a clathrin
+CC       LDLRAP1/ARH-mediated pathway. May prevent the recycling of LDLR
+CC       from endosomes to the cell surface or direct it to lysosomes for
+CC       degradation. Can induce ubiquitination of LDLR leading to its
+CC       subsequent degradation (PubMed:18799458, PubMed:17461796,
+CC       PubMed:18197702, PubMed:22074827). Inhibits intracellular
+CC       degradation of APOB via the autophagosome/lysosome pathway in a
+CC       LDLR-independent manner. Involved in the disposal of non-
+CC       acetylated intermediates of BACE1 in the early secretory pathway
+CC       (PubMed:18660751). Inhibits epithelial Na(+) channel (ENaC)-
+CC       mediated Na(+) absorption by reducing ENaC surface expression
+CC       primarily by increasing its proteasomal degradation. Regulates
+CC       neuronal apoptosis via modulation of LRP8/APOER2 levels and
+CC       related anti-apoptotic signaling pathways.
+CC       {ECO:0000269|PubMed:17461796, ECO:0000269|PubMed:18039658,
+CC       ECO:0000269|PubMed:18197702, ECO:0000269|PubMed:18660751,
+CC       ECO:0000269|PubMed:18799458, ECO:0000269|PubMed:22074827,
+CC       ECO:0000269|PubMed:22493497, ECO:0000269|PubMed:22580899}.
+CC   -!- COFACTOR:
+CC       Name=Ca(2+); Xref=ChEBI:CHEBI:29108; Evidence={ECO:0000305};
+CC   -!- ENZYME REGULATION: Its proteolytic activity is autoinhibited by
+CC       the non-covalent binding of the propeptide to the catalytic
+CC       domain. Inhibited by EGTA.
+CC   -!- SUBUNIT: Monomer. Can self-associate to form dimers and higher
+CC       multimers which may have increased LDLR degrading activity. The
+CC       precursor protein but not the mature protein may form multimers.
+CC       Interacts with APOB, VLDLR, LRP8/APOER2 and BACE1. The full length
+CC       immature form (pro-PCSK9) interacts with SCNN1A, SCNN1B and
+CC       SCNN1G. The pro-PCSK9 form (via C-terminal domain) interacts with
+CC       LDLR. Interacts (via the C-terminal domain) with ANXA2 (via repeat
+CC       Annexin 1); the interaction inhibits the degradation of LDLR
+CC       (PubMed:18799458). {ECO:0000269|PubMed:17461796,
+CC       ECO:0000269|PubMed:18039658, ECO:0000269|PubMed:18197702,
+CC       ECO:0000269|PubMed:18660751, ECO:0000269|PubMed:18799458,
+CC       ECO:0000269|PubMed:21149300, ECO:0000269|PubMed:22493497,
+CC       ECO:0000269|PubMed:22580899, ECO:0000269|PubMed:24808179}.
+CC   -!- INTERACTION:
+CC       P07355:ANXA2; NbExp=7; IntAct=EBI-7539251, EBI-352622;
+CC       P01130:LDLR; NbExp=10; IntAct=EBI-7539251, EBI-988319;
+CC       P08253:MMP2; NbExp=4; IntAct=EBI-7539251, EBI-1033518;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm. Secreted. Endosome. Lysosome.
+CC       Cell surface. Endoplasmic reticulum. Golgi apparatus.
+CC       Note=Autocatalytic cleavage is required to transport it from the
+CC       endoplasmic reticulum to the Golgi apparatus and for the secretion
+CC       of the mature protein. Localizes to the endoplasmic reticulum in
+CC       the absence of LDLR and colocalizes to the cell surface and to the
+CC       endosomes/lysosomes in the presence of LDLR. The sorting to the
+CC       cell surface and endosomes is required in order to fully promote
+CC       LDLR degradation.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q8NBP7-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q8NBP7-2; Sequence=VSP_008844, VSP_008845, VSP_008846;
+CC         Note=No experimental confirmation available.;
+CC   -!- TISSUE SPECIFICITY: Expressed in neuro-epithelioma, colon
+CC       carcinoma, hepatic and pancreatic cell lines, and in Schwann
+CC       cells.
+CC   -!- DOMAIN: The C-terminal domain (CRD) is essential for the LDLR-
+CC       binding and degrading activities. {ECO:0000269|PubMed:22027821}.
+CC   -!- DOMAIN: The catalytic domain is responsible for mediating its
+CC       self-association. {ECO:0000269|PubMed:22027821}.
+CC   -!- PTM: Cleavage by furin and PCSK5 generates a truncated inactive
+CC       protein that is unable to induce LDLR degradation.
+CC   -!- PTM: Undergoes autocatalytic cleavage in the endoplasmic reticulum
+CC       to release the propeptide from the N-terminus and the cleavage of
+CC       the propeptide is strictly required for its maturation and
+CC       activation. The cleaved propeptide however remains associated with
+CC       the catalytic domain through non-covalent interactions, preventing
+CC       potential substrates from accessing its active site. As a result,
+CC       it is secreted from cells as a propeptide-containing,
+CC       enzymatically inactive protein. {ECO:0000269|PubMed:16912035}.
+CC   -!- PTM: Phosphorylation protects the propeptide against proteolysis.
+CC       {ECO:0000269|PubMed:18498363}.
+CC   -!- POLYMORPHISM: Variant Leu-23 ins polymorphism in PCSK9 might have
+CC       a modifier effect on LDLR mutation and familial
+CC       hypercholesterolemia.
+CC   -!- POLYMORPHISM: Genetic variations in PCSK9 define the low density
+CC       lipoprotein cholesterol level quantitative trait locus 1 (LDLCQ1)
+CC       [MIM:603776].
+CC   -!- DISEASE: Hypercholesterolemia, autosomal dominant, 3 (HCHOLA3)
+CC       [MIM:603776]: A familial condition characterized by elevated
+CC       circulating cholesterol contained in either low-density
+CC       lipoproteins alone or also in very-low-density lipoproteins.
+CC       {ECO:0000269|PubMed:12730697}. Note=The disease is caused by
+CC       mutations affecting the gene represented in this entry.
+CC   -!- SIMILARITY: Belongs to the peptidase S8 family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 peptidase S8 domain. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAC11572.1; Type=Frameshift; Positions=494; Evidence={ECO:0000305};
+CC   -!- WEB RESOURCE: Name=SeattleSNPs;
+CC       URL="http://pga.gs.washington.edu/data/pcsk9/";
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AX127530; CAC38896.1; -; mRNA.
+DR   EMBL; EF692496; ABV59216.1; -; mRNA.
+DR   EMBL; AK075365; BAC11572.1; ALT_FRAME; mRNA.
+DR   EMBL; AK124635; BAC85910.1; -; mRNA.
+DR   EMBL; AY829011; AAV67948.1; -; Genomic_DNA.
+DR   EMBL; FJ525880; ACN81318.1; -; Genomic_DNA.
+DR   EMBL; AL589790; CAI17845.1; -; Genomic_DNA.
+DR   EMBL; AC091609; CAI17845.1; JOINED; Genomic_DNA.
+DR   EMBL; CH471059; EAX06660.1; -; Genomic_DNA.
+DR   CCDS; CCDS603.1; -. [Q8NBP7-1]
+DR   RefSeq; NP_777596.2; NM_174936.3. [Q8NBP7-1]
+DR   UniGene; Hs.18844; -.
+DR   PDB; 2P4E; X-ray; 1.98 A; A/P=1-692.
+DR   PDB; 2PMW; X-ray; 2.30 A; A=31-152, B=153-692.
+DR   PDB; 2QTW; X-ray; 1.90 A; A=29-152, B=153-692.
+DR   PDB; 2W2M; X-ray; 2.40 A; A=153-451, P=53-152.
+DR   PDB; 2W2N; X-ray; 2.30 A; A=153-451, P=53-152.
+DR   PDB; 2W2O; X-ray; 2.62 A; A=153-451, P=53-152.
+DR   PDB; 2W2P; X-ray; 2.62 A; A=153-451, P=53-152.
+DR   PDB; 2W2Q; X-ray; 2.33 A; A=153-451, P=53-152.
+DR   PDB; 2XTJ; X-ray; 2.70 A; A=153-451, P=53-152.
+DR   PDB; 3BPS; X-ray; 2.41 A; A=153-692, P=53-152.
+DR   PDB; 3GCW; X-ray; 2.70 A; A=153-692, P=53-152.
+DR   PDB; 3GCX; X-ray; 2.70 A; A=153-692, P=53-152.
+DR   PDB; 3H42; X-ray; 2.30 A; A=31-152, B=153-692.
+DR   PDB; 3M0C; X-ray; 7.01 A; A=29-152, B=153-692.
+DR   PDB; 3P5B; X-ray; 3.30 A; A=153-692, P=61-152.
+DR   PDB; 3P5C; X-ray; 4.20 A; A=153-692, P=61-152.
+DR   PDB; 3SQO; X-ray; 2.70 A; A=153-692, P=31-152.
+DR   PDB; 4K8R; X-ray; 3.22 A; A=61-152, B=153-692.
+DR   PDB; 4NE9; X-ray; 2.60 A; A/B=153-692, C/P=1-152.
+DR   PDB; 4NMX; X-ray; 1.85 A; A=31-152, B=153-452.
+DR   PDB; 4OV6; X-ray; 2.69 A; A/D=60-152, B/E=153-446.
+DR   PDBsum; 2P4E; -.
+DR   PDBsum; 2PMW; -.
+DR   PDBsum; 2QTW; -.
+DR   PDBsum; 2W2M; -.
+DR   PDBsum; 2W2N; -.
+DR   PDBsum; 2W2O; -.
+DR   PDBsum; 2W2P; -.
+DR   PDBsum; 2W2Q; -.
+DR   PDBsum; 2XTJ; -.
+DR   PDBsum; 3BPS; -.
+DR   PDBsum; 3GCW; -.
+DR   PDBsum; 3GCX; -.
+DR   PDBsum; 3H42; -.
+DR   PDBsum; 3M0C; -.
+DR   PDBsum; 3P5B; -.
+DR   PDBsum; 3P5C; -.
+DR   PDBsum; 3SQO; -.
+DR   PDBsum; 4K8R; -.
+DR   PDBsum; 4NE9; -.
+DR   PDBsum; 4NMX; -.
+DR   PDBsum; 4OV6; -.
+DR   ProteinModelPortal; Q8NBP7; -.
+DR   SMR; Q8NBP7; 61-682.
+DR   BioGrid; 129116; 25.
+DR   DIP; DIP-29694N; -.
+DR   IntAct; Q8NBP7; 3.
+DR   MINT; MINT-3041747; -.
+DR   STRING; 9606.ENSP00000303208; -.
+DR   BindingDB; Q8NBP7; -.
+DR   ChEMBL; CHEMBL2929; -.
+DR   GuidetoPHARMACOLOGY; 2388; -.
+DR   MEROPS; S08.039; -.
+DR   PhosphoSite; Q8NBP7; -.
+DR   BioMuta; PCSK9; -.
+DR   DMDM; 317373487; -.
+DR   MaxQB; Q8NBP7; -.
+DR   PaxDb; Q8NBP7; -.
+DR   PRIDE; Q8NBP7; -.
+DR   DNASU; 255738; -.
+DR   Ensembl; ENST00000302118; ENSP00000303208; ENSG00000169174.
+DR   GeneID; 255738; -.
+DR   KEGG; hsa:255738; -.
+DR   UCSC; uc001cyf.2; human. [Q8NBP7-1]
+DR   CTD; 255738; -.
+DR   GeneCards; GC01P055505; -.
+DR   GeneReviews; PCSK9; -.
+DR   H-InvDB; HIX0023558; -.
+DR   HGNC; HGNC:20001; PCSK9.
+DR   HPA; CAB025575; -.
+DR   MIM; 603776; phenotype.
+DR   MIM; 607786; gene.
+DR   neXtProt; NX_Q8NBP7; -.
+DR   Orphanet; 426; Familial hypobetalipoproteinemia.
+DR   Orphanet; 406; Heterozygous familial hypercholesterolemia.
+DR   Orphanet; 391665; Homozygous familial hypercholesterolemia.
+DR   PharmGKB; PA38617; -.
+DR   eggNOG; COG1404; -.
+DR   GeneTree; ENSGT00490000043472; -.
+DR   HOGENOM; HOG000049267; -.
+DR   HOVERGEN; HBG053530; -.
+DR   InParanoid; Q8NBP7; -.
+DR   KO; K13050; -.
+DR   OMA; CHAPGLE; -.
+DR   OrthoDB; EOG79PJNT; -.
+DR   PhylomeDB; Q8NBP7; -.
+DR   TreeFam; TF106271; -.
+DR   BRENDA; 3.4.21.61; 2681.
+DR   SignaLink; Q8NBP7; -.
+DR   EvolutionaryTrace; Q8NBP7; -.
+DR   GeneWiki; PCSK9; -.
+DR   GenomeRNAi; 255738; -.
+DR   NextBio; 92626; -.
+DR   PRO; PR:Q8NBP7; -.
+DR   Proteomes; UP000005640; Chromosome 1.
+DR   Bgee; Q8NBP7; -.
+DR   CleanEx; HS_PCSK9; -.
+DR   Genevisible; Q8NBP7; HS.
+DR   GO; GO:0009986; C:cell surface; IDA:UniProtKB.
+DR   GO; GO:0005737; C:cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0005769; C:early endosome; IDA:UniProtKB.
+DR   GO; GO:0005783; C:endoplasmic reticulum; IDA:UniProtKB.
+DR   GO; GO:0030134; C:ER to Golgi transport vesicle; IEA:Ensembl.
+DR   GO; GO:0005615; C:extracellular space; IDA:HGNC.
+DR   GO; GO:0031232; C:extrinsic component of external side of plasma membrane; IC:BHF-UCL.
+DR   GO; GO:0005794; C:Golgi apparatus; IDA:UniProtKB.
+DR   GO; GO:0005770; C:late endosome; IDA:UniProtKB.
+DR   GO; GO:0005764; C:lysosome; IDA:UniProtKB.
+DR   GO; GO:1990667; C:PCSK9-AnxA2 complex; IDA:BHF-UCL.
+DR   GO; GO:1990666; C:PCSK9-LDLR complex; IDA:BHF-UCL.
+DR   GO; GO:0048471; C:perinuclear region of cytoplasm; IDA:BHF-UCL.
+DR   GO; GO:0005886; C:plasma membrane; IDA:BHF-UCL.
+DR   GO; GO:0005791; C:rough endoplasmic reticulum; IEA:Ensembl.
+DR   GO; GO:0034185; F:apolipoprotein binding; ISS:UniProtKB.
+DR   GO; GO:0034190; F:apolipoprotein receptor binding; IDA:BHF-UCL.
+DR   GO; GO:0030169; F:low-density lipoprotein particle binding; ISS:UniProtKB.
+DR   GO; GO:0050750; F:low-density lipoprotein particle receptor binding; IDA:HGNC.
+DR   GO; GO:0044822; F:poly(A) RNA binding; IDA:UniProtKB.
+DR   GO; GO:0043621; F:protein self-association; IDA:UniProtKB.
+DR   GO; GO:0005102; F:receptor binding; IPI:BHF-UCL.
+DR   GO; GO:0030547; F:receptor inhibitor activity; IDA:BHF-UCL.
+DR   GO; GO:0004252; F:serine-type endopeptidase activity; IDA:HGNC.
+DR   GO; GO:0019871; F:sodium channel inhibitor activity; IDA:UniProtKB.
+DR   GO; GO:0034189; F:very-low-density lipoprotein particle binding; ISS:UniProtKB.
+DR   GO; GO:0070326; F:very-low-density lipoprotein particle receptor binding; IDA:BHF-UCL.
+DR   GO; GO:0006915; P:apoptotic process; IEA:UniProtKB-KW.
+DR   GO; GO:0032869; P:cellular response to insulin stimulus; ISS:HGNC.
+DR   GO; GO:0009267; P:cellular response to starvation; ISS:HGNC.
+DR   GO; GO:0042632; P:cholesterol homeostasis; IMP:HGNC.
+DR   GO; GO:0008203; P:cholesterol metabolic process; IEA:UniProtKB-KW.
+DR   GO; GO:0001822; P:kidney development; ISS:HGNC.
+DR   GO; GO:0042157; P:lipoprotein metabolic process; IEA:Ensembl.
+DR   GO; GO:0001889; P:liver development; ISS:HGNC.
+DR   GO; GO:0032802; P:low-density lipoprotein particle receptor catabolic process; IDA:UniProtKB.
+DR   GO; GO:0007041; P:lysosomal transport; IDA:BHF-UCL.
+DR   GO; GO:0010989; P:negative regulation of low-density lipoprotein particle clearance; IDA:BHF-UCL.
+DR   GO; GO:2000272; P:negative regulation of receptor activity; IDA:BHF-UCL.
+DR   GO; GO:0001920; P:negative regulation of receptor recycling; IDA:BHF-UCL.
+DR   GO; GO:2000650; P:negative regulation of sodium ion transmembrane transporter activity; IDA:BHF-UCL.
+DR   GO; GO:0022008; P:neurogenesis; ISS:HGNC.
+DR   GO; GO:0030182; P:neuron differentiation; ISS:HGNC.
+DR   GO; GO:0006644; P:phospholipid metabolic process; IEA:Ensembl.
+DR   GO; GO:0032805; P:positive regulation of low-density lipoprotein particle receptor catabolic process; IDA:BHF-UCL.
+DR   GO; GO:0043525; P:positive regulation of neuron apoptotic process; IMP:HGNC.
+DR   GO; GO:0002092; P:positive regulation of receptor internalization; IDA:BHF-UCL.
+DR   GO; GO:0016540; P:protein autoprocessing; IDA:HGNC.
+DR   GO; GO:0043523; P:regulation of neuron apoptotic process; ISS:UniProtKB.
+DR   GO; GO:0010469; P:regulation of receptor activity; IDA:BHF-UCL.
+DR   GO; GO:0006641; P:triglyceride metabolic process; IEA:Ensembl.
+DR   Gene3D; 3.40.50.200; -; 1.
+DR   InterPro; IPR000209; Peptidase_S8/S53_dom.
+DR   InterPro; IPR015500; Peptidase_S8_subtilisin-rel.
+DR   InterPro; IPR009020; Prot_inh_propept.
+DR   InterPro; IPR010259; S8pro/Inhibitor_I9.
+DR   PANTHER; PTHR10795; PTHR10795; 1.
+DR   Pfam; PF05922; Inhibitor_I9; 1.
+DR   Pfam; PF00082; Peptidase_S8; 1.
+DR   PRINTS; PR00723; SUBTILISIN.
+DR   SUPFAM; SSF52743; SSF52743; 1.
+DR   SUPFAM; SSF54897; SSF54897; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Apoptosis; Autocatalytic cleavage;
+KW   Calcium; Cholesterol metabolism; Complete proteome; Cytoplasm;
+KW   Direct protein sequencing; Disease mutation; Disulfide bond;
+KW   Endoplasmic reticulum; Endosome; Glycoprotein; Golgi apparatus;
+KW   Hydrolase; Lipid metabolism; Lysosome; Phosphoprotein; Polymorphism;
+KW   Protease; Reference proteome; Secreted; Serine protease; Signal;
+KW   Steroid metabolism; Sterol metabolism; Sulfation; Zymogen.
+FT   SIGNAL        1     30       {ECO:0000269|PubMed:12552133}.
+FT   PROPEP       31    152       {ECO:0000269|PubMed:12552133}.
+FT                                /FTId=PRO_0000027120.
+FT   CHAIN       153    692       Proprotein convertase subtilisin/kexin
+FT                                type 9.
+FT                                /FTId=PRO_0000027121.
+FT   DOMAIN      182    424       Peptidase S8.
+FT   REGION      450    692       C-terminal domain.
+FT   ACT_SITE    186    186       Charge relay system. {ECO:0000250}.
+FT   ACT_SITE    226    226       Charge relay system. {ECO:0000250}.
+FT   ACT_SITE    386    386       Charge relay system. {ECO:0000250}.
+FT   SITE        152    153       Cleavage; by autolysis.
+FT   SITE        218    219       Cleavage; by furin and PCSK5.
+FT   MOD_RES      38     38       Sulfotyrosine.
+FT                                {ECO:0000269|PubMed:16912035}.
+FT   MOD_RES      47     47       Phosphoserine.
+FT                                {ECO:0000269|PubMed:18498363}.
+FT   MOD_RES     688    688       Phosphoserine.
+FT                                {ECO:0000269|PubMed:17081983,
+FT                                ECO:0000269|PubMed:18498363,
+FT                                ECO:0000269|PubMed:20068231,
+FT                                ECO:0000269|PubMed:21406692}.
+FT   CARBOHYD    533    533       N-linked (GlcNAc...).
+FT                                {ECO:0000269|PubMed:16912035}.
+FT   DISULFID    223    255       {ECO:0000255}.
+FT   DISULFID    323    358       {ECO:0000255}.
+FT   DISULFID    457    527       {ECO:0000255}.
+FT   DISULFID    477    526       {ECO:0000255}.
+FT   DISULFID    486    509       {ECO:0000255}.
+FT   DISULFID    534    601       {ECO:0000255}.
+FT   DISULFID    552    600       {ECO:0000255}.
+FT   DISULFID    562    588       {ECO:0000255}.
+FT   DISULFID    608    679       {ECO:0000255}.
+FT   DISULFID    626    678       {ECO:0000255}.
+FT   DISULFID    635    654       {ECO:0000255}.
+FT   VAR_SEQ       1    174       MGTVSSRRSWWPLPLLLLLLLLLGPAGARAQEDEDGDYEEL
+FT                                VLALRSEEDGLAEAPEHGTTATFHRCAKDPWRLPGTYVVVL
+FT                                KEETHLSQSERTARRLQAQAARRGYLTKILHVFHGLLPGFL
+FT                                VKMSGDLLELALKLPHVDYIEEDSSVFAQSIPWNLERITPP
+FT                                RYRADEYQPP -> MSPWK (in isoform 2).
+FT                                {ECO:0000303|PubMed:14702039}.
+FT                                /FTId=VSP_008844.
+FT   VAR_SEQ     333    365       VITVGATNAQDQPVTLGTLGTNFGRCVDLFAPG -> GRTS
+FT                                LVPPATAAPALCHRVGHHRLLPTWLALQP (in isoform
+FT                                2). {ECO:0000303|PubMed:14702039}.
+FT                                /FTId=VSP_008845.
+FT   VAR_SEQ     366    692       Missing (in isoform 2).
+FT                                {ECO:0000303|PubMed:14702039}.
+FT                                /FTId=VSP_008846.
+FT   VARIANT      23     23       L -> LL (this polymoprhism seems to have
+FT                                a modifier effect on LDLR mutation and
+FT                                familial hypercholesterolemia).
+FT                                {ECO:0000269|PubMed:19319977,
+FT                                ECO:0000269|PubMed:22095935,
+FT                                ECO:0000269|Ref.4, ECO:0000269|Ref.5}.
+FT                                /FTId=VAR_021336.
+FT   VARIANT      46     46       R -> L (polymorphism; associated with
+FT                                lower plasma levels of low-density
+FT                                lipoprotein cholesterol and reduced
+FT                                phosphorylation at Ser-47;
+FT                                dbSNP:rs11591147).
+FT                                {ECO:0000269|PubMed:12730697,
+FT                                ECO:0000269|PubMed:16465619,
+FT                                ECO:0000269|PubMed:22095935,
+FT                                ECO:0000269|Ref.4}.
+FT                                /FTId=VAR_017197.
+FT   VARIANT      53     53       A -> V (polymorphism; associated with
+FT                                reduced phosphorylation at Ser-47;
+FT                                dbSNP:rs11583680).
+FT                                {ECO:0000269|PubMed:12730697,
+FT                                ECO:0000269|PubMed:16465619,
+FT                                ECO:0000269|PubMed:22095935,
+FT                                ECO:0000269|Ref.4}.
+FT                                /FTId=VAR_017198.
+FT   VARIANT      57     57       E -> K. {ECO:0000269|PubMed:16465619}.
+FT                                /FTId=VAR_025451.
+FT   VARIANT      77     77       T -> I.
+FT                                /FTId=VAR_058520.
+FT   VARIANT      93     93       R -> C (in dbSNP:rs151193009).
+FT                                /FTId=VAR_058521.
+FT   VARIANT     106    106       G -> R.
+FT                                /FTId=VAR_058522.
+FT   VARIANT     114    114       V -> A.
+FT                                /FTId=VAR_058523.
+FT   VARIANT     127    127       S -> R (in HCHOLA3; dbSNP:rs28942111).
+FT                                {ECO:0000269|PubMed:12730697}.
+FT                                /FTId=VAR_017199.
+FT   VARIANT     129    129       D -> G (in HCHOLA3).
+FT                                /FTId=VAR_058524.
+FT   VARIANT     157    157       N -> K.
+FT                                /FTId=VAR_058525.
+FT   VARIANT     174    174       P -> S (found in patients with familial
+FT                                hypercholesterolemia carrying a
+FT                                homozygous LDLR mutation; acts as a
+FT                                disease modifier resulting in a mild
+FT                                phenotype).
+FT                                {ECO:0000269|PubMed:22417841}.
+FT                                /FTId=VAR_067351.
+FT   VARIANT     215    215       R -> H (in HCHOLA3).
+FT                                /FTId=VAR_058526.
+FT   VARIANT     216    216       F -> L (in HCHOLA3; partial loss of
+FT                                cleavage by furin and PCSK5;
+FT                                dbSNP:rs28942112).
+FT                                {ECO:0000269|PubMed:12730697}.
+FT                                /FTId=VAR_017200.
+FT   VARIANT     218    218       R -> S (in HCHOLA3; complete loss of
+FT                                cleavage by furin and PCSK5; reduces
+FT                                glycosylation levels; no effect on
+FT                                protein sulfation and phosphorylation; no
+FT                                effect on protein sulfation but inhibits
+FT                                phosphorylation when associated with Y-
+FT                                374; highly reduces LDL uptake when
+FT                                associated with Y-374).
+FT                                {ECO:0000269|PubMed:18799458,
+FT                                ECO:0000269|PubMed:24808179}.
+FT                                /FTId=VAR_058527.
+FT   VARIANT     219    219       Q -> E.
+FT                                /FTId=VAR_058528.
+FT   VARIANT     237    237       R -> W. {ECO:0000269|PubMed:16465619}.
+FT                                /FTId=VAR_025452.
+FT   VARIANT     239    239       A -> D.
+FT                                /FTId=VAR_058529.
+FT   VARIANT     253    253       L -> F (polymorphism; associated with
+FT                                lower plasma levels of low-density
+FT                                lipoprotein cholesterol;
+FT                                dbSNP:rs28362270).
+FT                                {ECO:0000269|PubMed:16465619}.
+FT                                /FTId=VAR_025453.
+FT   VARIANT     357    357       R -> H (in HCHOLA3).
+FT                                /FTId=VAR_058530.
+FT   VARIANT     374    374       D -> H (in HCHOLA3).
+FT                                /FTId=VAR_058531.
+FT   VARIANT     374    374       D -> Y (in HCHOLA3; partial loss of
+FT                                cleavage by furin and PCSK5; no effect on
+FT                                protein sulfation but inhibits
+FT                                phosphorylation when associated with S-
+FT                                218; highly increases LDL uptake when
+FT                                associated with S-218).
+FT                                {ECO:0000269|PubMed:18799458,
+FT                                ECO:0000269|PubMed:24808179}.
+FT                                /FTId=VAR_058532.
+FT   VARIANT     391    391       H -> N. {ECO:0000269|PubMed:16465619}.
+FT                                /FTId=VAR_025454.
+FT   VARIANT     394    394       G -> S (found in a patient associated
+FT                                with autosomal dominant
+FT                                hypercholesterolemia; unknown
+FT                                pathological significance).
+FT                                {ECO:0000269|PubMed:22095935}.
+FT                                /FTId=VAR_067282.
+FT   VARIANT     417    417       H -> Q (in dbSNP:rs143275858).
+FT                                {ECO:0000269|PubMed:16465619}.
+FT                                /FTId=VAR_025455.
+FT   VARIANT     425    425       N -> S (in dbSNP:rs28362261).
+FT                                {ECO:0000269|PubMed:16465619,
+FT                                ECO:0000269|Ref.4}.
+FT                                /FTId=VAR_021337.
+FT   VARIANT     443    443       A -> T (polymorphism; associated with
+FT                                lower plasma levels of low-density
+FT                                lipoprotein cholesterol; more extensive
+FT                                cleavage by furin and PCSK5;
+FT                                dbSNP:rs28362263).
+FT                                {ECO:0000269|PubMed:16465619,
+FT                                ECO:0000269|Ref.4}.
+FT                                /FTId=VAR_021338.
+FT   VARIANT     452    452       G -> D.
+FT                                /FTId=VAR_058533.
+FT   VARIANT     469    469       R -> W (in dbSNP:rs141502002).
+FT                                {ECO:0000269|PubMed:16465619}.
+FT                                /FTId=VAR_025456.
+FT   VARIANT     474    474       V -> I (in dbSNP:rs562556).
+FT                                {ECO:0000269|PubMed:14702039,
+FT                                ECO:0000269|PubMed:16465619,
+FT                                ECO:0000269|PubMed:17971861,
+FT                                ECO:0000269|PubMed:22095935,
+FT                                ECO:0000269|Ref.1, ECO:0000269|Ref.4,
+FT                                ECO:0000269|Ref.5, ECO:0000269|Ref.7}.
+FT                                /FTId=VAR_021339.
+FT   VARIANT     482    482       E -> G. {ECO:0000269|PubMed:16465619}.
+FT                                /FTId=VAR_025457.
+FT   VARIANT     482    482       E -> Q (no effect on interaction with
+FT                                ANXA2). {ECO:0000269|PubMed:24808179}.
+FT                                /FTId=VAR_073657.
+FT   VARIANT     496    496       R -> W (in HCHOLA3).
+FT                                /FTId=VAR_058534.
+FT   VARIANT     515    515       F -> L. {ECO:0000269|PubMed:16465619}.
+FT                                /FTId=VAR_025458.
+FT   VARIANT     522    522       A -> T.
+FT                                /FTId=VAR_058535.
+FT   VARIANT     553    553       H -> R (in dbSNP:rs28362270).
+FT                                {ECO:0000269|PubMed:16465619,
+FT                                ECO:0000269|Ref.4}.
+FT                                /FTId=VAR_021340.
+FT   VARIANT     554    554       Q -> E (increases interaction with ANXA2;
+FT                                dbSNP:rs149311926).
+FT                                {ECO:0000269|PubMed:16465619,
+FT                                ECO:0000269|PubMed:18799458}.
+FT                                /FTId=VAR_025459.
+FT   VARIANT     616    616       P -> L.
+FT                                /FTId=VAR_058536.
+FT   VARIANT     619    619       Q -> P (in dbSNP:rs28362277).
+FT                                {ECO:0000269|PubMed:16465619,
+FT                                ECO:0000269|Ref.4}.
+FT                                /FTId=VAR_021341.
+FT   VARIANT     668    668       S -> R.
+FT                                /FTId=VAR_058537.
+FT   VARIANT     670    670       G -> E (in dbSNP:rs505151).
+FT                                {ECO:0000269|PubMed:12730697,
+FT                                ECO:0000269|PubMed:16465619,
+FT                                ECO:0000269|PubMed:17971861,
+FT                                ECO:0000269|PubMed:22095935,
+FT                                ECO:0000269|Ref.1, ECO:0000269|Ref.4,
+FT                                ECO:0000269|Ref.5, ECO:0000269|Ref.7}.
+FT                                /FTId=VAR_017201.
+FT   MUTAGEN      67     67       C->A: Does not affect multimerization or
+FT                                zymogen processing.
+FT                                {ECO:0000269|PubMed:12552133}.
+FT   MUTAGEN     226    226       H->A: Remains in the endoplasmic
+FT                                reticulum and is not secreted.
+FT                                {ECO:0000269|PubMed:12552133}.
+FT   MUTAGEN     533    533       N->A: 1.5 kDa decrease of the apparent
+FT                                molecular mass of pro-PCSK9 and PCSK9 and
+FT                                no effect on processing and secretion.
+FT                                {ECO:0000269|PubMed:12552133}.
+FT   CONFLICT    423    423       V -> A (in Ref. 3; BAC11572).
+FT                                {ECO:0000305}.
+FT   STRAND       63     65       {ECO:0000244|PDB:4NMX}.
+FT   HELIX        70     72       {ECO:0000244|PDB:4NMX}.
+FT   STRAND       73     82       {ECO:0000244|PDB:4NMX}.
+FT   STRAND       84     86       {ECO:0000244|PDB:4OV6}.
+FT   HELIX        88    104       {ECO:0000244|PDB:4NMX}.
+FT   STRAND      110    115       {ECO:0000244|PDB:4NMX}.
+FT   STRAND      117    119       {ECO:0000244|PDB:4NMX}.
+FT   STRAND      121    125       {ECO:0000244|PDB:4NMX}.
+FT   HELIX       128    130       {ECO:0000244|PDB:4NMX}.
+FT   HELIX       131    135       {ECO:0000244|PDB:4NMX}.
+FT   STRAND      140    151       {ECO:0000244|PDB:4NMX}.
+FT   HELIX       156    160       {ECO:0000244|PDB:4NMX}.
+FT   HELIX       168    170       {ECO:0000244|PDB:3BPS}.
+FT   STRAND      181    187       {ECO:0000244|PDB:4NMX}.
+FT   TURN        194    199       {ECO:0000244|PDB:4NMX}.
+FT   STRAND      200    206       {ECO:0000244|PDB:4NMX}.
+FT   STRAND      212    214       {ECO:0000244|PDB:4NMX}.
+FT   TURN        218    220       {ECO:0000244|PDB:3H42}.
+FT   TURN        221    224       {ECO:0000244|PDB:2QTW}.
+FT   HELIX       225    235       {ECO:0000244|PDB:4NMX}.
+FT   TURN        237    239       {ECO:0000244|PDB:4NMX}.
+FT   STRAND      241    244       {ECO:0000244|PDB:2P4E}.
+FT   STRAND      246    251       {ECO:0000244|PDB:4NMX}.
+FT   STRAND      257    260       {ECO:0000244|PDB:4NMX}.
+FT   HELIX       261    277       {ECO:0000244|PDB:4NMX}.
+FT   STRAND      283    287       {ECO:0000244|PDB:4NMX}.
+FT   STRAND      289    292       {ECO:0000244|PDB:4NMX}.
+FT   HELIX       295    306       {ECO:0000244|PDB:4NMX}.
+FT   STRAND      310    314       {ECO:0000244|PDB:4NMX}.
+FT   STRAND      317    321       {ECO:0000244|PDB:4NMX}.
+FT   HELIX       322    324       {ECO:0000244|PDB:4NMX}.
+FT   TURN        327    329       {ECO:0000244|PDB:4NMX}.
+FT   STRAND      333    339       {ECO:0000244|PDB:4NMX}.
+FT   STRAND      343    345       {ECO:0000244|PDB:2PMW}.
+FT   STRAND      349    352       {ECO:0000244|PDB:2W2Q}.
+FT   STRAND      355    358       {ECO:0000244|PDB:3P5B}.
+FT   STRAND      361    364       {ECO:0000244|PDB:4NMX}.
+FT   STRAND      366    372       {ECO:0000244|PDB:4NMX}.
+FT   STRAND      373    375       {ECO:0000244|PDB:2XTJ}.
+FT   STRAND      378    382       {ECO:0000244|PDB:4NMX}.
+FT   HELIX       385    402       {ECO:0000244|PDB:4NMX}.
+FT   HELIX       408    417       {ECO:0000244|PDB:4NMX}.
+FT   STRAND      419    422       {ECO:0000244|PDB:4NMX}.
+FT   HELIX       426    428       {ECO:0000244|PDB:4NMX}.
+FT   HELIX       431    433       {ECO:0000244|PDB:4NMX}.
+FT   TURN        434    436       {ECO:0000244|PDB:4NMX}.
+FT   STRAND      440    442       {ECO:0000244|PDB:3P5B}.
+FT   STRAND      456    461       {ECO:0000244|PDB:2QTW}.
+FT   STRAND      467    470       {ECO:0000244|PDB:3SQO}.
+FT   STRAND      472    475       {ECO:0000244|PDB:2QTW}.
+FT   STRAND      482    489       {ECO:0000244|PDB:2QTW}.
+FT   STRAND      491    493       {ECO:0000244|PDB:3GCX}.
+FT   STRAND      495    503       {ECO:0000244|PDB:2QTW}.
+FT   STRAND      506    513       {ECO:0000244|PDB:2QTW}.
+FT   STRAND      521    528       {ECO:0000244|PDB:2QTW}.
+FT   STRAND      533    539       {ECO:0000244|PDB:2QTW}.
+FT   STRAND      544    546       {ECO:0000244|PDB:2QTW}.
+FT   STRAND      548    551       {ECO:0000244|PDB:2QTW}.
+FT   STRAND      558    565       {ECO:0000244|PDB:2QTW}.
+FT   STRAND      568    570       {ECO:0000244|PDB:2P4E}.
+FT   STRAND      587    590       {ECO:0000244|PDB:2QTW}.
+FT   STRAND      594    602       {ECO:0000244|PDB:2QTW}.
+FT   STRAND      606    615       {ECO:0000244|PDB:2QTW}.
+FT   STRAND      621    625       {ECO:0000244|PDB:2QTW}.
+FT   STRAND      631    637       {ECO:0000244|PDB:2QTW}.
+FT   STRAND      644    650       {ECO:0000244|PDB:2QTW}.
+FT   STRAND      653    658       {ECO:0000244|PDB:2QTW}.
+FT   STRAND      672    681       {ECO:0000244|PDB:2QTW}.
+SQ   SEQUENCE   692 AA;  74286 MW;  9BCB9418B90AEE23 CRC64;
+     MGTVSSRRSW WPLPLLLLLL LLLGPAGARA QEDEDGDYEE LVLALRSEED GLAEAPEHGT
+     TATFHRCAKD PWRLPGTYVV VLKEETHLSQ SERTARRLQA QAARRGYLTK ILHVFHGLLP
+     GFLVKMSGDL LELALKLPHV DYIEEDSSVF AQSIPWNLER ITPPRYRADE YQPPDGGSLV
+     EVYLLDTSIQ SDHREIEGRV MVTDFENVPE EDGTRFHRQA SKCDSHGTHL AGVVSGRDAG
+     VAKGASMRSL RVLNCQGKGT VSGTLIGLEF IRKSQLVQPV GPLVVLLPLA GGYSRVLNAA
+     CQRLARAGVV LVTAAGNFRD DACLYSPASA PEVITVGATN AQDQPVTLGT LGTNFGRCVD
+     LFAPGEDIIG ASSDCSTCFV SQSGTSQAAA HVAGIAAMML SAEPELTLAE LRQRLIHFSA
+     KDVINEAWFP EDQRVLTPNL VAALPPSTHG AGWQLFCRTV WSAHSGPTRM ATAVARCAPD
+     EELLSCSSFS RSGKRRGERM EAQGGKLVCR AHNAFGGEGV YAIARCCLLP QANCSVHTAP
+     PAEASMGTRV HCHQQGHVLT GCSSHWEVED LGTHKPPVLR PRGQPNQCVG HREASIHASC
+     CHAPGLECKV KEHGIPAPQE QVTVACEEGW TLTGCSALPG TSHVLGAYAV DNTCVVRSRD
+     VSTTGSTSEG AVTAVAICCR SRHLAQASQE LQ
+//

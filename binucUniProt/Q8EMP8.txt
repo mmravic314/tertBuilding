@@ -1,0 +1,91 @@
+ID   Q8EMP8_OCEIH            Unreviewed;       304 AA.
+AC   Q8EMP8;
+DT   01-MAR-2003, integrated into UniProtKB/TrEMBL.
+DT   01-MAR-2003, sequence version 1.
+DT   22-JUL-2015, entry version 87.
+DE   RecName: Full=Beta-lactamase {ECO:0000256|RuleBase:RU361140, ECO:0000256|SAAS:SAAS00063099};
+DE            EC=3.5.2.6 {ECO:0000256|RuleBase:RU361140, ECO:0000256|SAAS:SAAS00063099};
+GN   OrderedLocusNames=OB2793 {ECO:0000313|EMBL:BAC14749.1};
+OS   Oceanobacillus iheyensis (strain DSM 14371 / JCM 11309 / KCTC 3954 /
+OS   HTE831).
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae;
+OC   Oceanobacillus.
+OX   NCBI_TaxID=221109 {ECO:0000313|EMBL:BAC14749.1, ECO:0000313|Proteomes:UP000000822};
+RN   [1] {ECO:0000313|EMBL:BAC14749.1, ECO:0000313|Proteomes:UP000000822}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=DSM 14371 / JCM 11309 / KCTC 3954 / HTE831
+RC   {ECO:0000313|Proteomes:UP000000822};
+RX   PubMed=12235376; DOI=10.1093/nar/gkf526;
+RA   Takami H., Takaki Y., Uchiyama I.;
+RT   "Genome sequence of Oceanobacillus iheyensis isolated from the Iheya
+RT   Ridge and its unexpected adaptive capabilities to extreme
+RT   environments.";
+RL   Nucleic Acids Res. 30:3927-3935(2002).
+RN   [2] {ECO:0000213|PDB:3LEZ}
+RP   X-RAY CRYSTALLOGRAPHY (1.25 ANGSTROMS) OF 45-304 IN COMPLEX WITH
+RP   CALCIUM.
+RX   PubMed=20000704; DOI=10.1021/ja908850p;
+RA   Toth M., Smith C., Frase H., Mobashery S., Vakulenko S.;
+RT   "An antibiotic-resistance enzyme from a deep-sea bacterium.";
+RL   J. Am. Chem. Soc. 132:816-823(2010).
+CC   -!- CATALYTIC ACTIVITY: A beta-lactam + H(2)O = a substituted beta-
+CC       amino acid. {ECO:0000256|RuleBase:RU361140,
+CC       ECO:0000256|SAAS:SAAS00062125}.
+CC   -!- SIMILARITY: Belongs to the class-A beta-lactamase family.
+CC       {ECO:0000256|RuleBase:RU361140}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; BA000028; BAC14749.1; -; Genomic_DNA.
+DR   PDB; 3LEZ; X-ray; 1.25 A; A=45-304.
+DR   PDBsum; 3LEZ; -.
+DR   ProteinModelPortal; Q8EMP8; -.
+DR   STRING; 221109.OB2793; -.
+DR   EnsemblBacteria; BAC14749; BAC14749; BAC14749.
+DR   KEGG; oih:OB2793; -.
+DR   PATRIC; 22796662; VBIOceIhe82024_2835.
+DR   HOGENOM; HOG000201073; -.
+DR   KO; K17836; -.
+DR   OMA; AVIWPPD; -.
+DR   OrthoDB; EOG6K9QFS; -.
+DR   BioCyc; OIHE221109:GI2A-2882-MONOMER; -.
+DR   EvolutionaryTrace; Q8EMP8; -.
+DR   Proteomes; UP000000822; Chromosome.
+DR   GO; GO:0008800; F:beta-lactamase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0030655; P:beta-lactam antibiotic catabolic process; IEA:InterPro.
+DR   GO; GO:0046677; P:response to antibiotic; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.710.10; -; 1.
+DR   InterPro; IPR012338; Beta-lactam/transpept-like.
+DR   InterPro; IPR000871; Beta-lactam_class-A.
+DR   InterPro; IPR023650; Beta-lactam_class-A_AS.
+DR   PRINTS; PR00118; BLACTAMASEA.
+DR   SUPFAM; SSF56601; SSF56601; 1.
+DR   PROSITE; PS00146; BETA_LACTAMASE_A; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3LEZ};
+KW   Antibiotic resistance {ECO:0000256|RuleBase:RU361140,
+KW   ECO:0000256|SAAS:SAAS00063120}; Calcium {ECO:0000213|PDB:3LEZ};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000822};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361140,
+KW   ECO:0000256|SAAS:SAAS00063075}; Metal-binding {ECO:0000213|PDB:3LEZ};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000822}.
+FT   METAL        74     74       Calcium 1. {ECO:0000213|PDB:3LEZ}.
+FT   METAL        77     77       Calcium 1. {ECO:0000213|PDB:3LEZ}.
+FT   METAL       159    159       Calcium 2. {ECO:0000213|PDB:3LEZ}.
+FT   METAL       159    159       Calcium 3. {ECO:0000213|PDB:3LEZ}.
+FT   METAL       162    162       Calcium 2. {ECO:0000213|PDB:3LEZ}.
+FT   METAL       174    174       Calcium 2. {ECO:0000213|PDB:3LEZ}.
+FT   METAL       175    175       Calcium 2; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:3LEZ}.
+FT   METAL       176    176       Calcium 2. {ECO:0000213|PDB:3LEZ}.
+FT   METAL       176    176       Calcium 3. {ECO:0000213|PDB:3LEZ}.
+SQ   SEQUENCE   304 AA;  33752 MW;  C665AF34E19828E3 CRC64;
+     MIRILKRSSF ILLFMVVGIV LMACSNEAES KEGIPEENNG ELNKGSEDLK KLEEEFDVRL
+     GVYAIDTGAD KEISYRENER FAYTSTFKPL AVGAVLQTKS DEELEETITY SEEDLVTYSP
+     ITEQHVDEGM TLVEIADAAI RYSDNTAGNL LLEAMGGPDE LETILRDIGD ETIEMDRYET
+     ELNEAKPGDI RDTSTAKAMA TTLQQYVLED VLDADRREVL TNMLINNTTG DALIRAGVPD
+     GWTVGDKTGA GGYGTRNDIG IIWPEGDEEP IVIAIMSSRD EEDADYDDKL IEKATEIVLQ
+     ELRN
+//

@@ -1,0 +1,91 @@
+ID   Q5KW80_GEOKA            Unreviewed;       302 AA.
+AC   Q5KW80;
+DT   01-FEB-2005, integrated into UniProtKB/TrEMBL.
+DT   01-FEB-2005, sequence version 1.
+DT   22-JUL-2015, entry version 70.
+DE   SubName: Full=Ribonucleotide reductase small subunit {ECO:0000313|EMBL:BAD77056.1};
+DE            EC=1.17.4.1 {ECO:0000313|EMBL:BAD77056.1};
+GN   OrderedLocusNames=GK2771 {ECO:0000313|EMBL:BAD77056.1};
+OS   Geobacillus kaustophilus (strain HTA426).
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Geobacillus.
+OX   NCBI_TaxID=235909 {ECO:0000313|EMBL:BAD77056.1, ECO:0000313|Proteomes:UP000001172};
+RN   [1] {ECO:0000313|EMBL:BAD77056.1, ECO:0000313|Proteomes:UP000001172}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=HTA426 {ECO:0000313|EMBL:BAD77056.1,
+RC   ECO:0000313|Proteomes:UP000001172};
+RX   PubMed=15576355; DOI=10.1093/nar/gkh970;
+RA   Takami H., Takaki Y., Chee G.J., Nishi S., Shimamura S., Suzuki H.,
+RA   Matsui S., Uchiyama I.;
+RT   "Thermoadaptation trait revealed by the genome sequence of
+RT   thermophilic Geobacillus kaustophilus.";
+RL   Nucleic Acids Res. 32:6292-6303(2004).
+RN   [2] {ECO:0000213|PDB:4HR0, ECO:0000213|PDB:4HR4, ECO:0000213|PDB:4HR5}
+RP   X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS) IN COMPLEX WITH IRON AND
+RP   MANGANESE.
+RX   PubMed=24101498;
+RA   Griese J.J., Roos K., Cox N., Shafaat H.S., Branca R.M., Lehtio J.,
+RA   Graslund A., Lubitz W., Siegbahn P.E., Hogbom M.;
+RT   "Direct observation of structurally encoded metal discrimination and
+RT   ether bond formation in a heterodinuclear metalloprotein.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 110:17189-17194(2013).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; BA000043; BAD77056.1; -; Genomic_DNA.
+DR   RefSeq; WP_011232245.1; NC_006510.1.
+DR   PDB; 4HR0; X-ray; 1.90 A; A=1-302.
+DR   PDB; 4HR4; X-ray; 1.90 A; A=1-302.
+DR   PDB; 4HR5; X-ray; 2.29 A; A=1-302.
+DR   ProteinModelPortal; Q5KW80; -.
+DR   STRING; 235909.GK2771; -.
+DR   EnsemblBacteria; BAD77056; BAD77056; GK2771.
+DR   GeneID; 3186029; -.
+DR   KEGG; gka:GK2771; -.
+DR   PATRIC; 21967013; VBIGeoKau81518_2955.
+DR   HOGENOM; HOG000220940; -.
+DR   KO; K00526; -.
+DR   OMA; QFCFEEA; -.
+DR   OrthoDB; EOG6RZB23; -.
+DR   BioCyc; GKAU235909:GJO7-2866-MONOMER; -.
+DR   Proteomes; UP000001172; Chromosome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004748; F:ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor; IEA:UniProtKB-EC.
+DR   GO; GO:0009186; P:deoxyribonucleoside diphosphate metabolic process; IEA:InterPro.
+DR   Gene3D; 1.10.620.20; -; 1.
+DR   InterPro; IPR009078; Ferritin-like_SF.
+DR   InterPro; IPR012348; RNR-rel.
+DR   InterPro; IPR000358; RNR_small.
+DR   PANTHER; PTHR23409; PTHR23409; 1.
+DR   Pfam; PF00268; Ribonuc_red_sm; 1.
+DR   SUPFAM; SSF47240; SSF47240; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4HR0, ECO:0000213|PDB:4HR4};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001172};
+KW   Iron {ECO:0000213|PDB:4HR0, ECO:0000213|PDB:4HR4};
+KW   Manganese {ECO:0000213|PDB:4HR0, ECO:0000213|PDB:4HR4};
+KW   Metal-binding {ECO:0000213|PDB:4HR0, ECO:0000213|PDB:4HR4};
+KW   Oxidoreductase {ECO:0000313|EMBL:BAD77056.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001172}.
+FT   METAL        69     69       Manganese. {ECO:0000213|PDB:4HR4}.
+FT   METAL       102    102       Iron. {ECO:0000213|PDB:4HR0,
+FT                                ECO:0000213|PDB:4HR4}.
+FT   METAL       102    102       Manganese. {ECO:0000213|PDB:4HR4}.
+FT   METAL       105    105       Manganese; via pros nitrogen.
+FT                                {ECO:0000213|PDB:4HR4}.
+FT   METAL       167    167       Iron. {ECO:0000213|PDB:4HR0,
+FT                                ECO:0000213|PDB:4HR4}.
+FT   METAL       202    202       Iron. {ECO:0000213|PDB:4HR0,
+FT                                ECO:0000213|PDB:4HR4}.
+FT   METAL       202    202       Manganese. {ECO:0000213|PDB:4HR4}.
+FT   METAL       205    205       Iron; via pros nitrogen.
+FT                                {ECO:0000213|PDB:4HR0,
+FT                                ECO:0000213|PDB:4HR4}.
+SQ   SEQUENCE   302 AA;  35197 MW;  99D2EBC900383510 CRC64;
+     MVHHDGFQTV KATIDWEHPM FKLYEKAKRN GKWNPADIDF SQDQKDFASL TSEEKISALP
+     LVAGFSAGEE AVTLDILPMA HALARQGRLE DVLFLTTFMH DEAKHVEMFS RWQQAVGIGQ
+     MDLSVFHNDH YKRIFYEALP EAMNRLYADD SPEAVIRAAT VYNMIVEGTL AESGYYTFRQ
+     IYKKAGLFPG LLQGIDYLNM DEGRHIQFGI YTIQRIVNED ERYYELFIRY MDELWPHVIG
+     YVDYLTELGK RQQQLARTYA LEIDYDLLRH YVIKQFNLRK KQISRTKRVD VVEGLEKTAA
+     ES
+//

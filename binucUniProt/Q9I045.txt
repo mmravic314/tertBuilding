@@ -1,0 +1,107 @@
+ID   Q9I045_PSEAE            Unreviewed;       394 AA.
+AC   Q9I045;
+DT   01-MAR-2001, integrated into UniProtKB/TrEMBL.
+DT   01-MAR-2001, sequence version 1.
+DT   24-JUN-2015, entry version 95.
+DE   SubName: Full=Probable two-component response regulator {ECO:0000313|EMBL:AAG06186.1};
+GN   OrderedLocusNames=PA2798 {ECO:0000313|EMBL:AAG06186.1};
+OS   Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG
+OS   12228).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+OC   Pseudomonadaceae; Pseudomonas.
+OX   NCBI_TaxID=208964 {ECO:0000313|EMBL:AAG06186.1, ECO:0000313|Proteomes:UP000002438};
+RN   [1] {ECO:0000313|EMBL:AAG06186.1, ECO:0000313|Proteomes:UP000002438}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228
+RC   {ECO:0000313|Proteomes:UP000002438};
+RX   PubMed=10984043; DOI=10.1038/35023079;
+RA   Stover C.K., Pham X.-Q.T., Erwin A.L., Mizoguchi S.D., Warrener P.,
+RA   Hickey M.J., Brinkman F.S.L., Hufnagle W.O., Kowalik D.J., Lagrou M.,
+RA   Garber R.L., Goltry L., Tolentino E., Westbrock-Wadman S., Yuan Y.,
+RA   Brody L.L., Coulter S.N., Folger K.R., Kas A., Larbig K., Lim R.M.,
+RA   Smith K.A., Spencer D.H., Wong G.K.-S., Wu Z., Paulsen I.T.,
+RA   Reizer J., Saier M.H. Jr., Hancock R.E.W., Lory S., Olson M.V.;
+RT   "Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+RT   opportunistic pathogen.";
+RL   Nature 406:959-964(2000).
+RN   [2] {ECO:0000213|PDB:3EQ2}
+RP   X-RAY CRYSTALLOGRAPHY (3.40 ANGSTROMS).
+RA   Levchenko I., Grant R.A., Sauer R.T., Baker T.A.;
+RT   "The structure of rssb, a clpx adaptor protein that regulates sigma
+RT   S.";
+RL   Submitted (SEP-2008) to the PDB data bank.
+RN   [3] {ECO:0000213|PDB:3ES2}
+RP   X-RAY CRYSTALLOGRAPHY (2.95 ANGSTROMS) OF 140-394.
+RA   Levchenko I, Grant R.A., Sauer R.T., Baker T.A.;
+RT   "The structure of RSSB, a clpx adaptor protein that regulates sigma
+RT   s.";
+RL   Submitted (OCT-2008) to the PDB data bank.
+RN   [4] {ECO:0000213|PDB:3F79, ECO:0000213|PDB:3F7A}
+RP   X-RAY CRYSTALLOGRAPHY (4.31 ANGSTROMS).
+RA   Levchenko I., Grant R.A., Sauer R.T., Baker T.A.;
+RT   "The structure of RSSB, a CLPX adaptor protein that regulates sigma
+RT   S.";
+RL   Submitted (NOV-2008) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE004091; AAG06186.1; -; Genomic_DNA.
+DR   PIR; F83295; F83295.
+DR   RefSeq; NP_251488.1; NC_002516.2.
+DR   RefSeq; WP_003114778.1; NC_002516.2.
+DR   PDB; 3EQ2; X-ray; 3.40 A; A/B=1-394.
+DR   PDB; 3ES2; X-ray; 2.95 A; A/B=140-394.
+DR   PDB; 3F79; X-ray; 2.80 A; A/B/C/D/E/F=140-394.
+DR   PDB; 3F7A; X-ray; 4.31 A; A/B=1-394.
+DR   PDBsum; 3EQ2; -.
+DR   PDBsum; 3ES2; -.
+DR   PDBsum; 3F79; -.
+DR   PDBsum; 3F7A; -.
+DR   ProteinModelPortal; Q9I045; -.
+DR   SMR; Q9I045; 4-392.
+DR   STRING; 208964.PA2798; -.
+DR   EnsemblBacteria; AAG06186; AAG06186; PA2798.
+DR   GeneID; 878822; -.
+DR   KEGG; pae:PA2798; -.
+DR   PATRIC; 19840125; VBIPseAer58763_2936.
+DR   PseudoCAP; PA2798; -.
+DR   HOGENOM; HOG000225792; -.
+DR   InParanoid; Q9I045; -.
+DR   OMA; NLLQEDQ; -.
+DR   OrthoDB; EOG69GZGV; -.
+DR   PhylomeDB; Q9I045; -.
+DR   EvolutionaryTrace; Q9I045; -.
+DR   Proteomes; UP000002438; Chromosome.
+DR   GO; GO:0005622; C:intracellular; IEA:GOC.
+DR   GO; GO:0003824; F:catalytic activity; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000160; P:phosphorelay signal transduction system; IEA:InterPro.
+DR   InterPro; IPR011006; CheY-like_superfamily.
+DR   InterPro; IPR001932; PPM-type_phosphatase_dom.
+DR   InterPro; IPR001789; Sig_transdc_resp-reg_receiver.
+DR   Pfam; PF00072; Response_reg; 1.
+DR   Pfam; PF07228; SpoIIE; 1.
+DR   SMART; SM00331; PP2C_SIG; 1.
+DR   SMART; SM00448; REC; 1.
+DR   SUPFAM; SSF52172; SSF52172; 1.
+DR   PROSITE; PS50110; RESPONSE_REGULATORY; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3EQ2, ECO:0000213|PDB:3ES2};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002438};
+KW   Magnesium {ECO:0000213|PDB:3F79};
+KW   Metal-binding {ECO:0000213|PDB:3F79};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000002438}.
+FT   METAL       210    210       Magnesium. {ECO:0000213|PDB:3F79}.
+FT   METAL       213    213       Magnesium; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:3F79}.
+FT   METAL       382    382       Magnesium. {ECO:0000213|PDB:3F79}.
+SQ   SEQUENCE   394 AA;  43486 MW;  635CC088A56A0568 CRC64;
+     MHKVSATLLI IDDDEVVRES LAAYLEDSNF KVLQALNGLQ GLQIFESEQP DLVICDLRMP
+     QIDGLELIRR IRQTASETPI IVLSGAGVMS DAVEALRLGA ADYLIKPLED LAVLEHSVRR
+     ALDRAYLRVE NQRYRDKLEA ANRELQASLN LLQEDQNAGR QVQMNMLPVT PWSIEGLEFS
+     HRIIPSLYLS GDFVDYFRVD ERRVAFYLAD VSGHGASSAF VTVLLKFMTT RLLYESRRNG
+     TLPEFKPSEV LAHINRGLIN TKLGKHVTML GGVIDLEKNS LTYSIGGHLP LPVLFVEGQA
+     GYLEGRGLPV GLFDDATYDD RVMELPPSFS LSLFSDGILD VLPGATLKEK EASLPEQVAA
+     AGGTLDGLRQ VFGLANLAEM PDDIALLVLS RNLA
+//

@@ -1,0 +1,129 @@
+ID   Q7CGS9_YERPE            Unreviewed;       437 AA.
+AC   Q7CGS9; Q74Q86;
+DT   05-JUL-2004, integrated into UniProtKB/TrEMBL.
+DT   05-JUL-2004, sequence version 1.
+DT   22-JUL-2015, entry version 86.
+DE   SubName: Full=Proline aminopeptidase P II {ECO:0000313|EMBL:AAM86847.1};
+DE   SubName: Full=Proline-specific aminopeptidase {ECO:0000313|EMBL:CAL19577.1};
+DE            EC=3.4.11.9 {ECO:0000313|EMBL:CAL19577.1};
+GN   Name=pepP {ECO:0000313|EMBL:AAM86847.1};
+GN   OrderedLocusNames=y3297 {ECO:0000313|EMBL:AAM86847.1},
+GN   YPO0910 {ECO:0000313|EMBL:CAL19577.1};
+OS   Yersinia pestis.
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Yersinia.
+OX   NCBI_TaxID=632 {ECO:0000313|Proteomes:UP000002490};
+RN   [1] {ECO:0000313|EMBL:CAL19577.1, ECO:0000313|Proteomes:UP000000815}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=CO-92 / Biovar Orientalis {ECO:0000313|Proteomes:UP000000815},
+RC   and CO92 {ECO:0000313|EMBL:CAL19577.1};
+RX   PubMed=11586360; DOI=10.1038/35097083;
+RA   Parkhill J., Wren B.W., Thomson N.R., Titball R.W., Holden M.T.G.,
+RA   Prentice M.B., Sebaihia M., James K.D., Churcher C.M., Mungall K.L.,
+RA   Baker S., Basham D., Bentley S.D., Brooks K., Cerdeno-Tarraga A.-M.,
+RA   Chillingworth T., Cronin A., Davies R.M., Davis P., Dougan G.,
+RA   Feltwell T., Hamlin N., Holroyd S., Jagels K., Karlyshev A.V.,
+RA   Leather S., Moule S., Oyston P.C.F., Quail M.A., Rutherford K.M.,
+RA   Simmonds M., Skelton J., Stevens K., Whitehead S., Barrell B.G.;
+RT   "Genome sequence of Yersinia pestis, the causative agent of plague.";
+RL   Nature 413:523-527(2001).
+RN   [2] {ECO:0000313|EMBL:AAM86847.1, ECO:0000313|Proteomes:UP000002490}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=KIM {ECO:0000313|EMBL:AAM86847.1}, and
+RC   KIM10+ / Biovar Mediaevalis {ECO:0000313|Proteomes:UP000002490};
+RX   PubMed=12142430; DOI=10.1128/JB.184.16.4601-4611.2002;
+RA   Deng W., Burland V., Plunkett G. III, Boutin A., Mayhew G.F., Liss P.,
+RA   Perna N.T., Rose D.J., Mau B., Zhou S., Schwartz D.C.,
+RA   Fetherston J.D., Lindler L.E., Brubaker R.R., Plano G.V.,
+RA   Straley S.C., McDonough K.A., Nilles M.L., Matson J.S., Blattner F.R.,
+RA   Perry R.D.;
+RT   "Genome sequence of Yersinia pestis KIM.";
+RL   J. Bacteriol. 184:4601-4611(2002).
+RN   [3] {ECO:0000313|EMBL:CAL19577.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=CO92 {ECO:0000313|EMBL:CAL19577.1};
+RX   PubMed=12834539; DOI=10.1186/1471-2180-3-13;
+RA   Delihas N.;
+RT   "Annotation and evolutionary relationships of a small regulatory RNA
+RT   gene micF and its target ompF in Yersinia species.";
+RL   BMC Microbiol. 3:13-13(2003).
+RN   [4] {ECO:0000213|PDB:4PV4}
+RP   X-RAY CRYSTALLOGRAPHY (1.76 ANGSTROMS) IN COMPLEX WITH MAGNESIUM.
+RA   Osipiuk J., Maltseva N., Shatsman S., Anderson W.F., Joachimiak A.;
+RT   "Proline aminopeptidase P II from Yersinia pestis.";
+RL   Submitted (MAR-2014) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE009952; AAM86847.1; -; Genomic_DNA.
+DR   EMBL; AL590842; CAL19577.1; -; Genomic_DNA.
+DR   PIR; AG0111; AG0111.
+DR   RefSeq; WP_002209952.1; NZ_KN150727.1.
+DR   RefSeq; YP_002345958.1; NC_003143.1.
+DR   PDB; 4PV4; X-ray; 1.76 A; A/B=1-437.
+DR   STRING; 187410.y3297; -.
+DR   DNASU; 1148244; -.
+DR   EnsemblBacteria; AAM86847; AAM86847; y3297.
+DR   EnsemblBacteria; AAS63757; AAS63757; YP_3607.
+DR   EnsemblBacteria; KGA54862; KGA54862; DJ56_2873.
+DR   GeneID; 1173746; -.
+DR   KEGG; ype:YPO0910; -.
+DR   KEGG; ypj:CH55_3630; -.
+DR   KEGG; ypk:y3297; -.
+DR   KEGG; ypl:CH46_8; -.
+DR   KEGG; ypm:YP_3607; -.
+DR   KEGG; ypv:BZ15_2666; -.
+DR   KEGG; ypw:CH59_954; -.
+DR   HOGENOM; HOG000008762; -.
+DR   KO; K01262; -.
+DR   OMA; EIHHEFT; -.
+DR   OrthoDB; EOG6XHC3N; -.
+DR   BioCyc; YPES214092:GKDD-894-MONOMER; -.
+DR   Proteomes; UP000000815; Chromosome.
+DR   Proteomes; UP000002490; Chromosome.
+DR   GO; GO:0004177; F:aminopeptidase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0030145; F:manganese ion binding; IEA:InterPro.
+DR   GO; GO:0008235; F:metalloexopeptidase activity; IEA:InterPro.
+DR   Gene3D; 3.40.350.10; -; 1.
+DR   Gene3D; 3.90.230.10; -; 1.
+DR   InterPro; IPR007865; Aminopep_P_N.
+DR   InterPro; IPR029149; Creatin/AminoP/Spt16_NTD.
+DR   InterPro; IPR028980; Creatinase/Aminopeptidase_P_N.
+DR   InterPro; IPR001714; Pept_M24_MAP.
+DR   InterPro; IPR000994; Pept_M24_structural-domain.
+DR   InterPro; IPR001131; Peptidase_M24B_aminopep-P_CS.
+DR   Pfam; PF05195; AMP_N; 1.
+DR   Pfam; PF00557; Peptidase_M24; 1.
+DR   PRINTS; PR00599; MAPEPTIDASE.
+DR   SMART; SM01011; AMP_N; 1.
+DR   SUPFAM; SSF53092; SSF53092; 1.
+DR   SUPFAM; SSF55920; SSF55920; 1.
+DR   PROSITE; PS00491; PROLINE_PEPTIDASE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4PV4};
+KW   Aminopeptidase {ECO:0000313|EMBL:AAM86847.1};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000815};
+KW   Hydrolase {ECO:0000313|EMBL:AAM86847.1};
+KW   Magnesium {ECO:0000213|PDB:4PV4};
+KW   Metal-binding {ECO:0000213|PDB:4PV4};
+KW   Protease {ECO:0000313|EMBL:AAM86847.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000815}.
+FT   METAL       258    258       Magnesium 1. {ECO:0000213|PDB:4PV4}.
+FT   METAL       269    269       Magnesium 1. {ECO:0000213|PDB:4PV4}.
+FT   METAL       269    269       Magnesium 2. {ECO:0000213|PDB:4PV4}.
+FT   METAL       352    352       Magnesium 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:4PV4}.
+FT   METAL       382    382       Magnesium 2. {ECO:0000213|PDB:4PV4}.
+FT   METAL       405    405       Magnesium 1. {ECO:0000213|PDB:4PV4}.
+FT   METAL       405    405       Magnesium 2. {ECO:0000213|PDB:4PV4}.
+SQ   SEQUENCE   437 AA;  49072 MW;  63BCAA6573DA562A CRC64;
+     MTQQEYQNRR QALLAKMAPG SAAIIFAAPE ATRSADSEYP YRQNSDFSYL TGFNEPEAVL
+     ILVKSDETHN HSVLFNRIRD LTAEIWFGRR LGQEAAPTKL AVDRALPFDE INEQLYLLLN
+     RLDVIYHAQG QYAYADNIVF AALEKLRHGF RKNLRAPATL TDWRPWLHEM RLFKSAEEIA
+     VLRRAGEISA LAHTRAMEKC RPGMFEYQLE GEILHEFTRH GARYPAYNTI VGGGENGCIL
+     HYTENECELR DGDLVLIDAG CEYRGYAGDI TRTFPVNGKF TPAQRAVYDI VLAAINKSLT
+     LFRPGTSIRE VTEEVVRIMV VGLVELGILK GDIEQLIAEQ AHRPFFMHGL SHWLGMDVHD
+     VGDYGSSDRG RILEPGMVLT VEPGLYIAPD ADVPPQYRGI GIRIEDDIVI TATGNENLTA
+     SVVKDPDDIE ALMALNH
+//

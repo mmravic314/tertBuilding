@@ -1,0 +1,98 @@
+ID   HSCB_VIBCH              Reviewed;         171 AA.
+AC   Q9KTX9;
+DT   19-JUL-2003, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2000, sequence version 1.
+DT   22-JUL-2015, entry version 80.
+DE   RecName: Full=Co-chaperone protein HscB homolog {ECO:0000255|HAMAP-Rule:MF_00682};
+GN   Name=hscB {ECO:0000255|HAMAP-Rule:MF_00682};
+GN   OrderedLocusNames=VC_0751;
+OS   Vibrio cholerae serotype O1 (strain ATCC 39315 / El Tor Inaba N16961).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales;
+OC   Vibrionaceae; Vibrio.
+OX   NCBI_TaxID=243277;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 39315 / El Tor Inaba N16961;
+RX   PubMed=10952301; DOI=10.1038/35020000;
+RA   Heidelberg J.F., Eisen J.A., Nelson W.C., Clayton R.A., Gwinn M.L.,
+RA   Dodson R.J., Haft D.H., Hickey E.K., Peterson J.D., Umayam L.A.,
+RA   Gill S.R., Nelson K.E., Read T.D., Tettelin H., Richardson D.L.,
+RA   Ermolaeva M.D., Vamathevan J.J., Bass S., Qin H., Dragoi I.,
+RA   Sellers P., McDonald L.A., Utterback T.R., Fleischmann R.D.,
+RA   Nierman W.C., White O., Salzberg S.L., Smith H.O., Colwell R.R.,
+RA   Mekalanos J.J., Venter J.C., Fraser C.M.;
+RT   "DNA sequence of both chromosomes of the cholera pathogen Vibrio
+RT   cholerae.";
+RL   Nature 406:477-483(2000).
+CC   -!- FUNCTION: Co-chaperone involved in the maturation of iron-sulfur
+CC       cluster-containing proteins. Seems to help targeting proteins to
+CC       be folded toward HscA. {ECO:0000255|HAMAP-Rule:MF_00682}.
+CC   -!- SUBUNIT: Interacts with HscA and stimulates its ATPase activity.
+CC       {ECO:0000255|HAMAP-Rule:MF_00682}.
+CC   -!- SIMILARITY: Belongs to the HscB family. {ECO:0000255|HAMAP-
+CC       Rule:MF_00682}.
+CC   -!- SIMILARITY: Contains 1 J domain. {ECO:0000255|HAMAP-
+CC       Rule:MF_00682}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE003852; AAF93916.1; -; Genomic_DNA.
+DR   PIR; B82286; B82286.
+DR   RefSeq; NP_230400.1; NC_002505.1.
+DR   RefSeq; WP_001105747.1; NC_002505.1.
+DR   PDB; 4IT5; X-ray; 2.15 A; A/B/C/D=1-171.
+DR   PDBsum; 4IT5; -.
+DR   ProteinModelPortal; Q9KTX9; -.
+DR   STRING; 243277.VC0751; -.
+DR   DNASU; 2615760; -.
+DR   EnsemblBacteria; AAF93916; AAF93916; VC_0751.
+DR   GeneID; 2615760; -.
+DR   KEGG; vch:VC0751; -.
+DR   PATRIC; 20080613; VBIVibCho83274_0715.
+DR   eggNOG; COG1076; -.
+DR   KO; K04082; -.
+DR   OMA; DIRGEQQ; -.
+DR   OrthoDB; EOG66F07J; -.
+DR   BioCyc; VCHO:VC0751-MONOMER; -.
+DR   EvolutionaryTrace; Q9KTX9; -.
+DR   Proteomes; UP000000584; Chromosome 1.
+DR   GO; GO:0006457; P:protein folding; ISS:TIGR.
+DR   GO; GO:0051259; P:protein oligomerization; IEA:InterPro.
+DR   Gene3D; 1.10.287.110; -; 1.
+DR   Gene3D; 1.20.1280.20; -; 1.
+DR   HAMAP; MF_00682; HscB; 1.
+DR   InterPro; IPR001623; DnaJ_domain.
+DR   InterPro; IPR004640; HscB.
+DR   InterPro; IPR009073; HscB_oligo_C.
+DR   PANTHER; PTHR14021; PTHR14021; 1.
+DR   Pfam; PF00226; DnaJ; 1.
+DR   Pfam; PF07743; HSCB_C; 1.
+DR   SMART; SM00271; DnaJ; 1.
+DR   SUPFAM; SSF46565; SSF46565; 1.
+DR   SUPFAM; SSF47144; SSF47144; 1.
+DR   TIGRFAMs; TIGR00714; hscB; 1.
+DR   PROSITE; PS50076; DNAJ_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Chaperone; Complete proteome; Reference proteome.
+FT   CHAIN         1    171       Co-chaperone protein HscB homolog.
+FT                                /FTId=PRO_0000070992.
+FT   DOMAIN        2     74       J. {ECO:0000255|HAMAP-Rule:MF_00682}.
+FT   HELIX         3      6       {ECO:0000244|PDB:4IT5}.
+FT   STRAND       11     13       {ECO:0000244|PDB:4IT5}.
+FT   HELIX        17     30       {ECO:0000244|PDB:4IT5}.
+FT   HELIX        33     36       {ECO:0000244|PDB:4IT5}.
+FT   HELIX        41     62       {ECO:0000244|PDB:4IT5}.
+FT   HELIX        64     73       {ECO:0000244|PDB:4IT5}.
+FT   TURN         74     76       {ECO:0000244|PDB:4IT5}.
+FT   TURN         81     86       {ECO:0000244|PDB:4IT5}.
+FT   HELIX        89    104       {ECO:0000244|PDB:4IT5}.
+FT   HELIX       105    107       {ECO:0000244|PDB:4IT5}.
+FT   STRAND      108    110       {ECO:0000244|PDB:4IT5}.
+FT   HELIX       111    138       {ECO:0000244|PDB:4IT5}.
+FT   HELIX       142    169       {ECO:0000244|PDB:4IT5}.
+SQ   SEQUENCE   171 AA;  19627 MW;  4516C70B3B51AF29 CRC64;
+     MNYFELFGLP IQFELDGSLL SSQFRALQKR FHPDNFATAS ERDRLMAVQQ AAQINDAYQT
+     LKDPLRRAEY LLSLQGIEMN AEQQTLQDPM FLMEQMELRE ELESVTACAD PEAALVAFDT
+     KVTAMQRHYL AQLQGQLAQS EWLAAADQIR KLKFIAKLKN EVERVEDQLL G
+//

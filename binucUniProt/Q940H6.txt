@@ -1,0 +1,522 @@
+ID   SRK2E_ARATH             Reviewed;         362 AA.
+AC   Q940H6; O81763;
+DT   22-JUL-2008, integrated into UniProtKB/Swiss-Prot.
+DT   01-DEC-2001, sequence version 1.
+DT   22-JUL-2015, entry version 111.
+DE   RecName: Full=Serine/threonine-protein kinase SRK2E;
+DE            EC=2.7.11.1;
+DE   AltName: Full=Protein OPEN STOMATA 1;
+DE   AltName: Full=SNF1-related kinase 2.6;
+DE            Short=SnRK2.6;
+DE   AltName: Full=Serine/threonine-protein kinase OST1;
+GN   Name=SRK2E; Synonyms=OST1, SNRK2.6; OrderedLocusNames=At4g33950;
+GN   ORFNames=F17I5.140;
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] (ISOFORM 1), FUNCTION, MUTAGENESIS
+RP   OF GLY-33, ENZYME REGULATION, AND TISSUE SPECIFICITY.
+RC   STRAIN=cv. Landsberg erecta;
+RX   PubMed=12468729; DOI=10.1105/tpc.007906;
+RA   Mustilli A.-C., Merlot S., Vavasseur A., Fenzi F., Giraudat J.;
+RT   "Arabidopsis OST1 protein kinase mediates the regulation of stomatal
+RT   aperture by abscisic acid and acts upstream of reactive oxygen species
+RT   production.";
+RL   Plant Cell 14:3089-3099(2002).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=10617198; DOI=10.1038/47134;
+RA   Mayer K.F.X., Schueller C., Wambutt R., Murphy G., Volckaert G.,
+RA   Pohl T., Duesterhoeft A., Stiekema W., Entian K.-D., Terryn N.,
+RA   Harris B., Ansorge W., Brandt P., Grivell L.A., Rieger M.,
+RA   Weichselgartner M., de Simone V., Obermaier B., Mache R., Mueller M.,
+RA   Kreis M., Delseny M., Puigdomenech P., Watson M., Schmidtheini T.,
+RA   Reichert B., Portetelle D., Perez-Alonso M., Boutry M., Bancroft I.,
+RA   Vos P., Hoheisel J., Zimmermann W., Wedler H., Ridley P.,
+RA   Langham S.-A., McCullagh B., Bilham L., Robben J.,
+RA   van der Schueren J., Grymonprez B., Chuang Y.-J., Vandenbussche F.,
+RA   Braeken M., Weltjens I., Voet M., Bastiaens I., Aert R., Defoor E.,
+RA   Weitzenegger T., Bothe G., Ramsperger U., Hilbert H., Braun M.,
+RA   Holzer E., Brandt A., Peters S., van Staveren M., Dirkse W.,
+RA   Mooijman P., Klein Lankhorst R., Rose M., Hauf J., Koetter P.,
+RA   Berneiser S., Hempel S., Feldpausch M., Lamberth S., Van den Daele H.,
+RA   De Keyser A., Buysshaert C., Gielen J., Villarroel R., De Clercq R.,
+RA   van Montagu M., Rogers J., Cronin A., Quail M.A., Bray-Allen S.,
+RA   Clark L., Doggett J., Hall S., Kay M., Lennard N., McLay K., Mayes R.,
+RA   Pettett A., Rajandream M.A., Lyne M., Benes V., Rechmann S.,
+RA   Borkova D., Bloecker H., Scharfe M., Grimm M., Loehnert T.-H.,
+RA   Dose S., de Haan M., Maarse A.C., Schaefer M., Mueller-Auer S.,
+RA   Gabel C., Fuchs M., Fartmann B., Granderath K., Dauner D., Herzl A.,
+RA   Neumann S., Argiriou A., Vitale D., Liguori R., Piravandi E.,
+RA   Massenet O., Quigley F., Clabauld G., Muendlein A., Felber R.,
+RA   Schnabl S., Hiller R., Schmidt W., Lecharny A., Aubourg S.,
+RA   Chefdor F., Cooke R., Berger C., Monfort A., Casacuberta E.,
+RA   Gibbons T., Weber N., Vandenbol M., Bargues M., Terol J., Torres A.,
+RA   Perez-Perez A., Purnelle B., Bent E., Johnson S., Tacon D., Jesse T.,
+RA   Heijnen L., Schwarz S., Scholler P., Heber S., Francs P., Bielke C.,
+RA   Frishman D., Haase D., Lemcke K., Mewes H.-W., Stocker S.,
+RA   Zaccaria P., Bevan M., Wilson R.K., de la Bastide M., Habermann K.,
+RA   Parnell L., Dedhia N., Gnoj L., Schutz K., Huang E., Spiegel L.,
+RA   Sekhon M., Murray J., Sheet P., Cordes M., Abu-Threideh J.,
+RA   Stoneking T., Kalicki J., Graves T., Harmon G., Edwards J.,
+RA   Latreille P., Courtney L., Cloud J., Abbott A., Scott K., Johnson D.,
+RA   Minx P., Bentley D., Fulton B., Miller N., Greco T., Kemp K.,
+RA   Kramer J., Fulton L., Mardis E., Dante M., Pepin K., Hillier L.W.,
+RA   Nelson J., Spieth J., Ryan E., Andrews S., Geisel C., Layman D.,
+RA   Du H., Ali J., Berghoff A., Jones K., Drone K., Cotton M., Joshu C.,
+RA   Antonoiu B., Zidanic M., Strong C., Sun H., Lamar B., Yordan C.,
+RA   Ma P., Zhong J., Preston R., Vil D., Shekher M., Matero A., Shah R.,
+RA   Swaby I.K., O'Shaughnessy A., Rodriguez M., Hoffman J., Till S.,
+RA   Granat S., Shohdy N., Hasegawa A., Hameed A., Lodhi M., Johnson A.,
+RA   Chen E., Marra M.A., Martienssen R., McCombie W.R.;
+RT   "Sequence and analysis of chromosome 4 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 402:769-777(1999).
+RN   [3]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RG   The Arabidopsis Information Resource (TAIR);
+RL   Submitted (APR-2011) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   STRAIN=cv. Columbia;
+RX   PubMed=14593172; DOI=10.1126/science.1088305;
+RA   Yamada K., Lim J., Dale J.M., Chen H., Shinn P., Palm C.J.,
+RA   Southwick A.M., Wu H.C., Kim C.J., Nguyen M., Pham P.K., Cheuk R.F.,
+RA   Karlin-Newmann G., Liu S.X., Lam B., Sakano H., Wu T., Yu G.,
+RA   Miranda M., Quach H.L., Tripp M., Chang C.H., Lee J.M., Toriumi M.J.,
+RA   Chan M.M., Tang C.C., Onodera C.S., Deng J.M., Akiyama K., Ansari Y.,
+RA   Arakawa T., Banh J., Banno F., Bowser L., Brooks S.Y., Carninci P.,
+RA   Chao Q., Choy N., Enju A., Goldsmith A.D., Gurjal M., Hansen N.F.,
+RA   Hayashizaki Y., Johnson-Hopson C., Hsuan V.W., Iida K., Karnes M.,
+RA   Khan S., Koesema E., Ishida J., Jiang P.X., Jones T., Kawai J.,
+RA   Kamiya A., Meyers C., Nakajima M., Narusaka M., Seki M., Sakurai T.,
+RA   Satou M., Tamse R., Vaysberg M., Wallender E.K., Wong C., Yamamura Y.,
+RA   Yuan S., Shinozaki K., Davis R.W., Theologis A., Ecker J.R.;
+RT   "Empirical analysis of transcriptional activity in the Arabidopsis
+RT   genome.";
+RL   Science 302:842-846(2003).
+RN   [5]
+RP   FUNCTION, AND ENZYME REGULATION.
+RX   PubMed=12514244; DOI=10.1093/pcp/pcf188;
+RA   Yoshida R., Hobo T., Ichimura K., Mizoguchi T., Takahashi F.,
+RA   Aronso J., Ecker J.R., Shinozaki K.;
+RT   "ABA-activated SnRK2 protein kinase is required for dehydration stress
+RT   signaling in Arabidopsis.";
+RL   Plant Cell Physiol. 43:1473-1483(2002).
+RN   [6]
+RP   FUNCTION, AND MUTAGENESIS OF GLY-33.
+RX   PubMed=12047634; DOI=10.1046/j.1365-313X.2002.01322.x;
+RA   Merlot S., Mustilli A.-C., Genty B., North H., Lefebvre V., Sotta B.,
+RA   Vavasseur A., Giraudat J.;
+RT   "Use of infrared thermal imaging to isolate Arabidopsis mutants
+RT   defective in stomatal regulation.";
+RL   Plant J. 30:601-609(2002).
+RN   [7]
+RP   GENE FAMILY, AND NOMENCLATURE.
+RX   PubMed=12805596; DOI=10.1104/pp.102.011999;
+RA   Hrabak E.M., Chan C.W.M., Gribskov M., Harper J.F., Choi J.H.,
+RA   Halford N., Kudla J., Luan S., Nimmo H.G., Sussman M.R., Thomas M.,
+RA   Walker-Simmons K., Zhu J.-K., Harmon A.C.;
+RT   "The Arabidopsis CDPK-SnRK superfamily of protein kinases.";
+RL   Plant Physiol. 132:666-680(2003).
+RN   [8]
+RP   REVIEW.
+RX   PubMed=12711225; DOI=10.1016/S1360-1385(03)00052-9;
+RA   Assmann S.M.;
+RT   "OPEN STOMATA1 opens the door to ABA signaling in Arabidopsis guard
+RT   cells.";
+RL   Trends Plant Sci. 8:151-153(2003).
+RN   [9]
+RP   TISSUE SPECIFICITY, AND INDUCTION.
+RX   PubMed=15292193; DOI=10.1074/jbc.M405259200;
+RA   Boudsocq M., Barbier-Brygoo H., Lauriere C.;
+RT   "Identification of nine sucrose nonfermenting 1-related protein
+RT   kinases 2 activated by hyperosmotic and saline stresses in Arabidopsis
+RT   thaliana.";
+RL   J. Biol. Chem. 279:41758-41766(2004).
+RN   [10]
+RP   FUNCTION.
+RX   PubMed=15064385; DOI=10.1104/pp.103.032250;
+RA   Suhita D., Raghavendra A.S., Kwak J.M., Vavasseur A.;
+RT   "Cytoplasmic alkalization precedes reactive oxygen species production
+RT   during methyl jasmonate- and abscisic acid-induced stomatal closure.";
+RL   Plant Physiol. 134:1536-1545(2004).
+RN   [11]
+RP   FUNCTION.
+RX   PubMed=16959575; DOI=10.1016/j.cell.2006.06.054;
+RA   Melotto M., Underwood W., Koczan J., Nomura K., He S.Y.;
+RT   "Plant stomata function in innate immunity against bacterial
+RT   invasion.";
+RL   Cell 126:969-980(2006).
+RN   [12]
+RP   FUNCTION, AND MUTAGENESIS OF GLY-178.
+RX   PubMed=16682349; DOI=10.1016/j.cub.2006.03.028;
+RA   Xie X., Wang Y., Williamson L., Holroyd G.H., Tagliavia C.,
+RA   Murchie E., Theobald J., Knight M.R., Davies W.J., Leyser H.M.O.,
+RA   Hetherington A.M.;
+RT   "The identification of genes involved in the stomatal response to
+RT   reduced atmospheric relative humidity.";
+RL   Curr. Biol. 16:882-887(2006).
+RN   [13]
+RP   FUNCTION, MUTAGENESIS OF 1-MET--LEU-12; 283-ALA--GLU-357 AND
+RP   318-PRO--GLU-358, GENE FAMILY, INTERACTION WITH ABI1, AND INDUCTION.
+RX   PubMed=16365038; DOI=10.1074/jbc.M509820200;
+RA   Yoshida R., Umezawa T., Mizoguchi T., Takahashi S., Takahashi F.,
+RA   Shinozaki K.;
+RT   "The regulatory domain of SRK2E/OST1/SnRK2.6 interacts with ABI1 and
+RT   integrates abscisic acid (ABA) and osmotic stress signals controlling
+RT   stomatal closure in Arabidopsis.";
+RL   J. Biol. Chem. 281:5310-5318(2006).
+RN   [14]
+RP   FUNCTION, MUTAGENESIS OF SER-7; SER-18; SER-29; GLY-33; SER-43;
+RP   SER-175; THR-176; 280-ASN--MET-362; 302-GLY--MET-362;
+RP   320-ALA--MET-362; 331-GLY--MET-362 AND 348-ASP--MET-362,
+RP   PHOSPHORYLATION AT SER-7; SER-18; SER-29; SER-43 AND SER-175, AND
+RP   TISSUE SPECIFICITY.
+RX   PubMed=16766677; DOI=10.1104/pp.106.079327;
+RA   Belin C., de Franco P.-O., Bourbousse C., Chaignepain S.,
+RA   Schmitter J.-M., Vavasseur A., Giraudat J., Barbier-Brygoo H.,
+RA   Thomine S.;
+RT   "Identification of features regulating OST1 kinase activity and OST1
+RT   function in guard cells.";
+RL   Plant Physiol. 141:1316-1327(2006).
+RN   [15]
+RP   FUNCTION, AND TISSUE SPECIFICITY.
+RX   PubMed=17307925; DOI=10.1105/tpc.106.048538;
+RA   Fujii H., Verslues P.E., Zhu J.-K.;
+RT   "Identification of two protein kinases required for abscisic acid
+RT   regulation of seed germination, root growth, and gene expression in
+RT   Arabidopsis.";
+RL   Plant Cell 19:485-494(2007).
+RN   [16]
+RP   INTERACTION WITH ABI1.
+RX   PubMed=19874541; DOI=10.1111/j.1365-313X.2009.04054.x;
+RA   Nishimura N., Sarkeshik A., Nito K., Park S.-Y., Wang A.,
+RA   Carvalho P.C., Lee S., Caddell D.F., Cutler S.R., Chory J.,
+RA   Yates J.R., Schroeder J.I.;
+RT   "PYR/PYL/RCAR family members are major in-vivo ABI1 protein
+RT   phosphatase 2C-interacting proteins in Arabidopsis.";
+RL   Plant J. 61:290-299(2010).
+RN   [17]
+RP   FUNCTION, AUTOPHOSPHORYLATION, INTERACTION WITH SLAC1 AND PP2CA,
+RP   ENZYME REGULATION, AND MUTAGENESIS OF LYS-50.
+RX   PubMed=19955427; DOI=10.1073/pnas.0910601106;
+RA   Lee S.C., Lan W., Buchanan B.B., Luan S.;
+RT   "A protein kinase-phosphatase pair interacts with an ion channel to
+RT   regulate ABA signaling in plant guard cells.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 106:21419-21424(2009).
+RN   [18]
+RP   FUNCTION, INTERACTION WITH ABI1, AND MUTAGENESIS OF ASP-140.
+RX   PubMed=19955405; DOI=10.1073/pnas.0912021106;
+RA   Geiger D., Scherzer S., Mumm P., Stange A., Marten I., Bauer H.,
+RA   Ache P., Matschi S., Liese A., Al-Rasheid K.A.S., Romeis T.,
+RA   Hedrich R.;
+RT   "Activity of guard cell anion channel SLAC1 is controlled by drought-
+RT   stress signaling kinase-phosphatase pair.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 106:21425-21430(2009).
+RN   [19]
+RP   FUNCTION, DISRUPTION PHENOTYPE, AND AUTOPHOSPHORYLATION.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=20128877; DOI=10.1111/j.1365-313X.2010.04159.x;
+RA   Vahisalu T., Puzorjova I., Brosche M., Valk E., Lepiku M., Moldau H.,
+RA   Pechter P., Wang Y.-S., Lindgren O., Salojaervi J., Loog M.,
+RA   Kangasjaervi J., Kollist H.;
+RT   "Ozone-triggered rapid stomatal response involves the production of
+RT   reactive oxygen species, and is controlled by SLAC1 and OST1.";
+RL   Plant J. 62:442-453(2010).
+CC   -!- FUNCTION: Activator of the abscisic acid (ABA) signaling pathway
+CC       that regulates numerous ABA responses, such as stomata closure in
+CC       response to drought, plant pathogens, or decreases in atmospheric
+CC       relative humidity (RH). Involved in the resistance to drought by
+CC       avoiding water loss. Required for the stomata closure mediated by
+CC       pathogen-associated molecular pattern (PAMPs) (e.g. flg22 and LPS)
+CC       of pathogenic bacteria such as P.syringae pv. tomato (Pst) and
+CC       E.coli O157:H7. As a plant defense process, stomata are closed
+CC       transiently in order to limit invaders, but actively reopened by
+CC       bacteria after a few hours; virulent strains (e.g. Pst DC3000) are
+CC       more efficient than avirulent strains (e.g. Pst DC3000 AvrRpt2) in
+CC       reopening stomata. Mediates the phosphorylation and activation of
+CC       the S-type anion efflux channel SLAC1, and thus promotes stomata
+CC       closure. Essential for stomatal closure in response to reactive
+CC       oxygen species (ROS). {ECO:0000269|PubMed:12047634,
+CC       ECO:0000269|PubMed:12468729, ECO:0000269|PubMed:12514244,
+CC       ECO:0000269|PubMed:15064385, ECO:0000269|PubMed:16365038,
+CC       ECO:0000269|PubMed:16682349, ECO:0000269|PubMed:16766677,
+CC       ECO:0000269|PubMed:16959575, ECO:0000269|PubMed:17307925,
+CC       ECO:0000269|PubMed:19955405, ECO:0000269|PubMed:19955427,
+CC       ECO:0000269|PubMed:20128877}.
+CC   -!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+CC   -!- ENZYME REGULATION: Kinase activity enhanced by ABA and low
+CC       humidity. Repressed by PP2CA independently of its phosphatase
+CC       activity. Probably inactivated by ABI1.
+CC       {ECO:0000269|PubMed:12468729, ECO:0000269|PubMed:12514244,
+CC       ECO:0000269|PubMed:19955427}.
+CC   -!- SUBUNIT: Interacts with ABI1, PP2CA and SLAC1.
+CC       {ECO:0000269|PubMed:16365038, ECO:0000269|PubMed:19874541,
+CC       ECO:0000269|PubMed:19955405, ECO:0000269|PubMed:19955427}.
+CC   -!- INTERACTION:
+CC       P49597:ABI1; NbExp=4; IntAct=EBI-782514, EBI-782526;
+CC       O48538:RBOHF; NbExp=4; IntAct=EBI-782514, EBI-7197253;
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q940H6-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q940H6-2; Sequence=VSP_034923;
+CC         Note=Derived from EST data. No experimental confirmation
+CC         available.;
+CC   -!- TISSUE SPECIFICITY: Expressed in seedlings, leaves, flowers,
+CC       stems, and roots, but restricted to guard cells and vascular
+CC       tissue. {ECO:0000269|PubMed:12468729, ECO:0000269|PubMed:15292193,
+CC       ECO:0000269|PubMed:16766677, ECO:0000269|PubMed:17307925}.
+CC   -!- INDUCTION: In roots by ABA in an ABI1-dependent manner and by
+CC       osmotic stress (e.g. sorbitol) in an ABI1-independent manner, but
+CC       in leaves by low humidity (at protein level). Also induced by salt
+CC       stress. {ECO:0000269|PubMed:15292193,
+CC       ECO:0000269|PubMed:16365038}.
+CC   -!- PTM: Autophosphorylation on residues Ser-7, Ser-18, Ser-29, Ser-
+CC       43, Ser-175 and/or Thr-176. Only the phosphorylation of Ser-175 is
+CC       crucial for the kinase activity. The phosphorylation of Ser-43 may
+CC       repress the ABA signaling pathway in absence of ABA.
+CC       {ECO:0000269|PubMed:16766677}.
+CC   -!- DISRUPTION PHENOTYPE: Impaired ozone-triggered rapid transient
+CC       decrease (RTD) in stomatal conductance.
+CC       {ECO:0000269|PubMed:20128877}.
+CC   -!- SIMILARITY: Belongs to the protein kinase superfamily. Ser/Thr
+CC       protein kinase family. {ECO:0000255|PROSITE-ProRule:PRU00159}.
+CC   -!- SIMILARITY: Contains 1 protein kinase domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00159}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=CAA19877.1; Type=Erroneous gene model prediction; Evidence={ECO:0000305};
+CC       Sequence=CAB80112.1; Type=Erroneous gene model prediction; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AJ316009; CAC87047.1; -; Genomic_DNA.
+DR   EMBL; AL031032; CAA19877.1; ALT_SEQ; Genomic_DNA.
+DR   EMBL; AL161584; CAB80112.1; ALT_SEQ; Genomic_DNA.
+DR   EMBL; CP002687; AEE86299.1; -; Genomic_DNA.
+DR   EMBL; AY054624; AAK96815.1; -; mRNA.
+DR   EMBL; AY081538; AAM10100.1; -; mRNA.
+DR   PIR; T05223; T05223.
+DR   RefSeq; NP_567945.1; NM_119556.2. [Q940H6-1]
+DR   UniGene; At.2399; -.
+DR   PDB; 3UC4; X-ray; 2.30 A; A/B=1-362.
+DR   PDB; 3UDB; X-ray; 2.57 A; A/B/C/D/E/F=1-317.
+DR   PDB; 3UJG; X-ray; 2.60 A; A=11-362.
+DR   PDB; 3ZUT; X-ray; 2.50 A; A/B=1-362.
+DR   PDB; 3ZUU; X-ray; 2.70 A; A/B=1-362.
+DR   PDBsum; 3UC4; -.
+DR   PDBsum; 3UDB; -.
+DR   PDBsum; 3UJG; -.
+DR   PDBsum; 3ZUT; -.
+DR   PDBsum; 3ZUU; -.
+DR   ProteinModelPortal; Q940H6; -.
+DR   SMR; Q940H6; 20-318.
+DR   BioGrid; 14823; 17.
+DR   DIP; DIP-36705N; -.
+DR   IntAct; Q940H6; 4.
+DR   MINT; MINT-7260107; -.
+DR   STRING; 3702.AT4G33950.1; -.
+DR   PRIDE; Q940H6; -.
+DR   EnsemblPlants; AT4G33950.1; AT4G33950.1; AT4G33950. [Q940H6-1]
+DR   GeneID; 829541; -.
+DR   TAIR; AT4G33950; -.
+DR   eggNOG; COG0515; -.
+DR   HOGENOM; HOG000233016; -.
+DR   InParanoid; Q940H6; -.
+DR   OMA; RDKQSNE; -.
+DR   PhylomeDB; Q940H6; -.
+DR   BioCyc; ARA:AT4G33950-MONOMER; -.
+DR   BioCyc; ARA:GQT-701-MONOMER; -.
+DR   Reactome; REACT_278744; Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex.
+DR   Reactome; REACT_301766; Ubiquitin Mediated Degradation of Phosphorylated Cdc25A.
+DR   PRO; PR:Q940H6; -.
+DR   Proteomes; UP000006548; Chromosome 4.
+DR   ExpressionAtlas; Q940H6; baseline and differential.
+DR   GO; GO:0005737; C:cytoplasm; IDA:TAIR.
+DR   GO; GO:0005829; C:cytosol; IDA:TAIR.
+DR   GO; GO:0005634; C:nucleus; IDA:TAIR.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0009931; F:calcium-dependent protein serine/threonine kinase activity; ISS:TAIR.
+DR   GO; GO:0016301; F:kinase activity; IDA:TAIR.
+DR   GO; GO:0004672; F:protein kinase activity; IDA:TAIR.
+DR   GO; GO:0019903; F:protein phosphatase binding; IPI:UniProtKB.
+DR   GO; GO:0004674; F:protein serine/threonine kinase activity; IBA:GO_Central.
+DR   GO; GO:0009738; P:abscisic acid-activated signaling pathway; TAS:TAIR.
+DR   GO; GO:0042742; P:defense response to bacterium; IMP:TAIR.
+DR   GO; GO:0040007; P:growth; IMP:TAIR.
+DR   GO; GO:0035556; P:intracellular signal transduction; IBA:GO_Central.
+DR   GO; GO:0048366; P:leaf development; IMP:TAIR.
+DR   GO; GO:0046777; P:protein autophosphorylation; IDA:CACAO.
+DR   GO; GO:0006468; P:protein phosphorylation; IBA:GO_Central.
+DR   GO; GO:0010359; P:regulation of anion channel activity; IDA:UniProtKB.
+DR   GO; GO:2000377; P:regulation of reactive oxygen species metabolic process; IMP:TAIR.
+DR   GO; GO:0010119; P:regulation of stomatal movement; IMP:TAIR.
+DR   GO; GO:1902456; P:regulation of stomatal opening; IMP:TAIR.
+DR   GO; GO:0009737; P:response to abscisic acid; IDA:TAIR.
+DR   GO; GO:0006970; P:response to osmotic stress; IDA:TAIR.
+DR   GO; GO:0009651; P:response to salt stress; IDA:TAIR.
+DR   GO; GO:0009414; P:response to water deprivation; IMP:TAIR.
+DR   GO; GO:0010118; P:stomatal movement; IMP:TAIR.
+DR   GO; GO:0005985; P:sucrose metabolic process; IMP:TAIR.
+DR   GO; GO:0019432; P:triglyceride biosynthetic process; IMP:TAIR.
+DR   GO; GO:0006636; P:unsaturated fatty acid biosynthetic process; IMP:TAIR.
+DR   InterPro; IPR011009; Kinase-like_dom.
+DR   InterPro; IPR000719; Prot_kinase_dom.
+DR   InterPro; IPR017441; Protein_kinase_ATP_BS.
+DR   InterPro; IPR002290; Ser/Thr_dual-sp_kinase.
+DR   InterPro; IPR008271; Ser/Thr_kinase_AS.
+DR   Pfam; PF00069; Pkinase; 1.
+DR   SMART; SM00220; S_TKc; 1.
+DR   SUPFAM; SSF56112; SSF56112; 1.
+DR   PROSITE; PS00107; PROTEIN_KINASE_ATP; 1.
+DR   PROSITE; PS50011; PROTEIN_KINASE_DOM; 1.
+DR   PROSITE; PS00108; PROTEIN_KINASE_ST; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Abscisic acid signaling pathway; Alternative splicing;
+KW   ATP-binding; Complete proteome; Kinase; Nucleotide-binding;
+KW   Phosphoprotein; Plant defense; Reference proteome;
+KW   Serine/threonine-protein kinase; Transferase.
+FT   CHAIN         1    362       Serine/threonine-protein kinase SRK2E.
+FT                                /FTId=PRO_0000345160.
+FT   DOMAIN       21    277       Protein kinase. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00159}.
+FT   NP_BIND      27     35       ATP. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00159}.
+FT   REGION      160    186       Activation loop.
+FT   REGION      283    317       Domain I; osmotic stress response,
+FT                                required for the kinase activity.
+FT   REGION      318    357       Domain II; ABA response and ABI1 binding.
+FT   ACT_SITE    140    140       Proton acceptor. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00159, ECO:0000255|PROSITE-
+FT                                ProRule:PRU10027}.
+FT   BINDING      50     50       ATP. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00159}.
+FT   MOD_RES       7      7       Phosphoserine; by autocatalysis.
+FT                                {ECO:0000269|PubMed:16766677}.
+FT   MOD_RES      18     18       Phosphoserine; by autocatalysis.
+FT                                {ECO:0000269|PubMed:16766677}.
+FT   MOD_RES      29     29       Phosphoserine; by autocatalysis.
+FT                                {ECO:0000269|PubMed:16766677}.
+FT   MOD_RES      43     43       Phosphoserine; by autocatalysis.
+FT                                {ECO:0000269|PubMed:16766677}.
+FT   MOD_RES     175    175       Phosphoserine.
+FT                                {ECO:0000269|PubMed:16766677}.
+FT   VAR_SEQ      26     57       DIGSGNFGVARLMRDKQSNELVAVKYIERGEK -> MVGLF
+FT                                VFVQ (in isoform 2). {ECO:0000305}.
+FT                                /FTId=VSP_034923.
+FT   MUTAGEN       1     12       Missing: Reduced kinase activity in
+FT                                response to ABA and osmotic stress.
+FT                                {ECO:0000269|PubMed:16365038}.
+FT   MUTAGEN       7      7       S->A,D: Normal kinase activity, but loss
+FT                                of ABA signaling pathway positive
+FT                                regulation.
+FT                                {ECO:0000269|PubMed:16766677}.
+FT   MUTAGEN      18     18       S->A,D: Normal kinase activity, but loss
+FT                                of ABA signaling pathway positive
+FT                                regulation.
+FT                                {ECO:0000269|PubMed:16766677}.
+FT   MUTAGEN      29     29       S->A,D: Normal kinase activity, but loss
+FT                                of ABA signaling pathway positive
+FT                                regulation.
+FT                                {ECO:0000269|PubMed:16766677}.
+FT   MUTAGEN      33     33       G->R: In ost1-2; loss of kinase activity,
+FT                                and insensitivity to ABA during the
+FT                                stomatal aperture regulation.
+FT                                {ECO:0000269|PubMed:12047634,
+FT                                ECO:0000269|PubMed:12468729,
+FT                                ECO:0000269|PubMed:16766677}.
+FT   MUTAGEN      43     43       S->A,D: Normal kinase activity, but
+FT                                constitutive ABA signaling pathway
+FT                                activation.
+FT                                {ECO:0000269|PubMed:16766677}.
+FT   MUTAGEN      50     50       K->N: Loss ok kinase activity.
+FT                                {ECO:0000269|PubMed:19955427}.
+FT   MUTAGEN     140    140       D->A: Loss ok kinase activity.
+FT                                {ECO:0000269|PubMed:19955405}.
+FT   MUTAGEN     175    175       S->A,D: Loss of kinase activity, and loss
+FT                                of ABA signaling pathway positive
+FT                                regulation.
+FT                                {ECO:0000269|PubMed:16766677}.
+FT   MUTAGEN     176    176       T->A: Normal kinase activity, and normal
+FT                                regulation of the ABA signaling pathway.
+FT                                {ECO:0000269|PubMed:16766677}.
+FT   MUTAGEN     176    176       T->D: Reduced kinase activity, but normal
+FT                                regulation of the ABA signaling pathway.
+FT                                {ECO:0000269|PubMed:16766677}.
+FT   MUTAGEN     178    178       G->Q: In ost1-4; no stomatal closure when
+FT                                RH decreases, and insensitivity to ABA.
+FT                                {ECO:0000269|PubMed:16682349}.
+FT   MUTAGEN     280    362       Missing: Loss of kinase activity, and
+FT                                loss of ABA signaling pathway positive
+FT                                regulation.
+FT                                {ECO:0000269|PubMed:16766677}.
+FT   MUTAGEN     283    357       Missing: Loss of kinase activity in
+FT                                response to ABA and osmotic stress.
+FT                                {ECO:0000269|PubMed:16365038}.
+FT   MUTAGEN     302    362       Missing: Loss of kinase activity, and
+FT                                loss of ABA signaling pathway positive
+FT                                regulation.
+FT                                {ECO:0000269|PubMed:16766677}.
+FT   MUTAGEN     318    357       Missing: Loss of kinase activity
+FT                                specifically in response to ABA, and
+FT                                impaired interaction with ABI1.
+FT   MUTAGEN     320    362       Missing: Normal kinase activity, but loss
+FT                                of ABA signaling pathway positive
+FT                                regulation.
+FT                                {ECO:0000269|PubMed:16766677}.
+FT   MUTAGEN     331    362       Missing: Normal kinase activity, but loss
+FT                                of ABA signaling pathway positive
+FT                                regulation.
+FT                                {ECO:0000269|PubMed:16766677}.
+FT   MUTAGEN     348    362       Missing: Normal kinase activity, and
+FT                                normal regulation of the ABA signaling
+FT                                pathway. {ECO:0000269|PubMed:16766677}.
+FT   TURN         18     20       {ECO:0000244|PDB:3UC4}.
+FT   STRAND       21     27       {ECO:0000244|PDB:3UC4}.
+FT   STRAND       30     32       {ECO:0000244|PDB:3UJG}.
+FT   STRAND       34     40       {ECO:0000244|PDB:3UC4}.
+FT   TURN         41     43       {ECO:0000244|PDB:3UC4}.
+FT   STRAND       46     53       {ECO:0000244|PDB:3UC4}.
+FT   TURN         54     56       {ECO:0000244|PDB:3UC4}.
+FT   HELIX        60     70       {ECO:0000244|PDB:3UC4}.
+FT   STRAND       80     85       {ECO:0000244|PDB:3UC4}.
+FT   STRAND       87     95       {ECO:0000244|PDB:3UC4}.
+FT   HELIX       102    109       {ECO:0000244|PDB:3UC4}.
+FT   HELIX       114    134       {ECO:0000244|PDB:3UC4}.
+FT   HELIX       138    140       {ECO:0000244|PDB:3ZUT}.
+FT   HELIX       143    145       {ECO:0000244|PDB:3UC4}.
+FT   STRAND      147    149       {ECO:0000244|PDB:3UJG}.
+FT   STRAND      150    153       {ECO:0000244|PDB:3UC4}.
+FT   STRAND      156    158       {ECO:0000244|PDB:3UC4}.
+FT   HELIX       161    163       {ECO:0000244|PDB:3UJG}.
+FT   HELIX       180    182       {ECO:0000244|PDB:3UC4}.
+FT   HELIX       185    189       {ECO:0000244|PDB:3UC4}.
+FT   HELIX       195    212       {ECO:0000244|PDB:3UC4}.
+FT   STRAND      216    218       {ECO:0000244|PDB:3UC4}.
+FT   STRAND      220    222       {ECO:0000244|PDB:3UC4}.
+FT   HELIX       226    234       {ECO:0000244|PDB:3UC4}.
+FT   HELIX       248    257       {ECO:0000244|PDB:3UC4}.
+FT   HELIX       262    264       {ECO:0000244|PDB:3UC4}.
+FT   HELIX       268    272       {ECO:0000244|PDB:3UC4}.
+FT   HELIX       275    278       {ECO:0000244|PDB:3UC4}.
+FT   HELIX       291    296       {ECO:0000244|PDB:3UJG}.
+FT   HELIX       297    299       {ECO:0000244|PDB:3UC4}.
+FT   HELIX       305    314       {ECO:0000244|PDB:3UC4}.
+SQ   SEQUENCE   362 AA;  41048 MW;  FFBCCA1474839B88 CRC64;
+     MDRPAVSGPM DLPIMHDSDR YELVKDIGSG NFGVARLMRD KQSNELVAVK YIERGEKIDE
+     NVKREIINHR SLRHPNIVRF KEVILTPTHL AIVMEYASGG ELFERICNAG RFSEDEARFF
+     FQQLISGVSY CHAMQVCHRD LKLENTLLDG SPAPRLKICD FGYSKSSVLH SQPKSTVGTP
+     AYIAPEVLLK KEYDGKVADV WSCGVTLYVM LVGAYPFEDP EEPKNFRKTI HRILNVQYAI
+     PDYVHISPEC RHLISRIFVA DPAKRISIPE IRNHEWFLKN LPADLMNDNT MTTQFDESDQ
+     PGQSIEEIMQ IIAEATVPPA GTQNLNHYLT GSLDIDDDME EDLESDLDDL DIDSSGEIVY
+     AM
+//

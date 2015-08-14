@@ -1,0 +1,140 @@
+ID   PEPV_LACDL              Reviewed;         470 AA.
+AC   P45494;
+DT   01-NOV-1995, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1995, sequence version 1.
+DT   07-JAN-2015, entry version 82.
+DE   RecName: Full=Beta-Ala-Xaa dipeptidase;
+DE            EC=3.4.13.-;
+DE   AltName: Full=Beta-Ala-His dipeptidase;
+DE   AltName: Full=Peptidase V;
+GN   Name=pepV;
+OS   Lactobacillus delbrueckii subsp. lactis.
+OC   Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+OC   Lactobacillus.
+OX   NCBI_TaxID=29397;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], FUNCTION, SUBSTRATE SPECIFICITY,
+RP   SUBCELLULAR LOCATION, AND ENZYME REGULATION.
+RC   STRAIN=DSM 7290 / WS87;
+RX   PubMed=7528082;
+RA   Vongerichten K.F., Klein J.R., Matern H., Plapp R.;
+RT   "Cloning and nucleotide sequence analysis of pepV, a carnosinase gene
+RT   from Lactobacillus delbrueckii subsp. lactis DSM 7290, and partial
+RT   characterization of the enzyme.";
+RL   Microbiology 140:2591-2600(1994).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS) IN COMPLEX WITH SUBSTRATE ANALOG
+RP   AND ZINC, AND COFACTOR.
+RX   PubMed=12176387; DOI=10.1016/S0969-2126(02)00805-5;
+RA   Jozic D., Bourenkow G., Bartunik H., Scholze H., Dive V., Henrich B.,
+RA   Huber R., Bode W., Maskos K.;
+RT   "Crystal structure of the dinuclear zinc aminopeptidase PepV from
+RT   Lactobacillus delbrueckii unravels its preference for dipeptides.";
+RL   Structure 10:1097-1106(2002).
+CC   -!- FUNCTION: Is a relatively unspecific dipeptidase cleaving a
+CC       variety of dipeptides, notably those with an N-terminal beta-Ala
+CC       or D-Ala residue, e.g. carnosine (beta-Ala-His). To a lesser
+CC       extent, also shows aminopeptidase activity, since it is able to
+CC       catalyze the removal of the N-terminal amino acid from a few
+CC       distinct tripeptides. {ECO:0000269|PubMed:7528082}.
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC         Evidence={ECO:0000269|PubMed:12176387};
+CC       Note=Binds 2 Zn(2+) ions per subunit. These two catalytic ions are
+CC       both involved in the stabilization of the tetrahedral intermediate
+CC       and in the activation of the catalytic water molecule.
+CC       {ECO:0000269|PubMed:12176387};
+CC   -!- ENZYME REGULATION: Fully inhibited by 1,10-phenanthroline or EDTA.
+CC       {ECO:0000269|PubMed:7528082}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000305|PubMed:7528082}.
+CC   -!- SIMILARITY: Belongs to the peptidase M20A family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; Z31377; CAA83252.1; -; Genomic_DNA.
+DR   PIR; S57902; S57902.
+DR   PDB; 1LFW; X-ray; 1.80 A; A=1-470.
+DR   PDBsum; 1LFW; -.
+DR   ProteinModelPortal; P45494; -.
+DR   SMR; P45494; 1-468.
+DR   MEROPS; M20.004; -.
+DR   EvolutionaryTrace; P45494; -.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0016805; F:dipeptidase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0008237; F:metallopeptidase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:InterPro.
+DR   Gene3D; 3.30.70.360; -; 2.
+DR   InterPro; IPR001261; ArgE/DapE_CS.
+DR   InterPro; IPR010964; M20A_pepV-rel.
+DR   InterPro; IPR011291; Pept_M20A_peptidaseV.
+DR   InterPro; IPR002933; Peptidase_M20.
+DR   InterPro; IPR011650; Peptidase_M20_dimer.
+DR   Pfam; PF01546; Peptidase_M20; 1.
+DR   SUPFAM; SSF55031; SSF55031; 1.
+DR   TIGRFAMs; TIGR01886; dipeptidase; 1.
+DR   TIGRFAMs; TIGR01887; dipeptidaselike; 1.
+DR   PROSITE; PS00758; ARGE_DAPE_CPG2_1; 1.
+DR   PROSITE; PS00759; ARGE_DAPE_CPG2_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cytoplasm; Dipeptidase; Hydrolase; Metal-binding;
+KW   Metalloprotease; Protease; Zinc.
+FT   CHAIN         1    470       Beta-Ala-Xaa dipeptidase.
+FT                                /FTId=PRO_0000185276.
+FT   ACT_SITE     89     89       {ECO:0000250}.
+FT   ACT_SITE    153    153       Proton acceptor. {ECO:0000305}.
+FT   METAL        87     87       Zinc 2. {ECO:0000269|PubMed:12176387}.
+FT   METAL       119    119       Zinc 1. {ECO:0000269|PubMed:12176387}.
+FT   METAL       119    119       Zinc 2. {ECO:0000269|PubMed:12176387}.
+FT   METAL       154    154       Zinc 1. {ECO:0000269|PubMed:12176387}.
+FT   METAL       177    177       Zinc 2. {ECO:0000269|PubMed:12176387}.
+FT   METAL       439    439       Zinc 1. {ECO:0000269|PubMed:12176387}.
+FT   BINDING     350    350       Substrate.
+FT   HELIX         5     10       {ECO:0000244|PDB:1LFW}.
+FT   HELIX        13     24       {ECO:0000244|PDB:1LFW}.
+FT   HELIX        32     34       {ECO:0000244|PDB:1LFW}.
+FT   STRAND       37     39       {ECO:0000244|PDB:1LFW}.
+FT   HELIX        43     58       {ECO:0000244|PDB:1LFW}.
+FT   STRAND       62     66       {ECO:0000244|PDB:1LFW}.
+FT   TURN         67     69       {ECO:0000244|PDB:1LFW}.
+FT   STRAND       70     75       {ECO:0000244|PDB:1LFW}.
+FT   STRAND       79     87       {ECO:0000244|PDB:1LFW}.
+FT   STRAND      111    114       {ECO:0000244|PDB:1LFW}.
+FT   STRAND      117    120       {ECO:0000244|PDB:1LFW}.
+FT   HELIX       121    137       {ECO:0000244|PDB:1LFW}.
+FT   STRAND      142    151       {ECO:0000244|PDB:1LFW}.
+FT   TURN        153    156       {ECO:0000244|PDB:1LFW}.
+FT   HELIX       158    166       {ECO:0000244|PDB:1LFW}.
+FT   STRAND      171    186       {ECO:0000244|PDB:1LFW}.
+FT   STRAND      188    196       {ECO:0000244|PDB:1LFW}.
+FT   STRAND      204    212       {ECO:0000244|PDB:1LFW}.
+FT   STRAND      221    228       {ECO:0000244|PDB:1LFW}.
+FT   HELIX       232    246       {ECO:0000244|PDB:1LFW}.
+FT   STRAND      249    255       {ECO:0000244|PDB:1LFW}.
+FT   STRAND      258    264       {ECO:0000244|PDB:1LFW}.
+FT   HELIX       273    275       {ECO:0000244|PDB:1LFW}.
+FT   HELIX       279    287       {ECO:0000244|PDB:1LFW}.
+FT   HELIX       294    305       {ECO:0000244|PDB:1LFW}.
+FT   TURN        306    309       {ECO:0000244|PDB:1LFW}.
+FT   TURN        314    317       {ECO:0000244|PDB:1LFW}.
+FT   TURN        323    325       {ECO:0000244|PDB:1LFW}.
+FT   STRAND      329    338       {ECO:0000244|PDB:1LFW}.
+FT   STRAND      343    351       {ECO:0000244|PDB:1LFW}.
+FT   HELIX       357    368       {ECO:0000244|PDB:1LFW}.
+FT   TURN        369    371       {ECO:0000244|PDB:1LFW}.
+FT   STRAND      372    375       {ECO:0000244|PDB:1LFW}.
+FT   HELIX       390    403       {ECO:0000244|PDB:1LFW}.
+FT   STRAND      409    414       {ECO:0000244|PDB:1LFW}.
+FT   HELIX       417    420       {ECO:0000244|PDB:1LFW}.
+FT   STRAND      444    446       {ECO:0000244|PDB:1LFW}.
+FT   HELIX       447    465       {ECO:0000244|PDB:1LFW}.
+SQ   SEQUENCE   470 AA;  51990 MW;  488117B4F33E4AB0 CRC64;
+     MDLNFKELAE AKKDAILKDL EELIAIDSSE DLENATEEYP VGKGPVDAMT KFLSFAKRDG
+     FDTENFANYA GRVNFGAGDK RLGIIGHMDV VPAGEGWTRD PFKMEIDEEG RIYGRGSADD
+     KGPSLTAYYG MLLLKEAGFK PKKKIDFVLG TNEETNWVGI DYYLKHEPTP DIVFSPDAEY
+     PIINGEQGIF TLEFSFKNDD TKGDYVLDKF KAGIATNVTP QVTRATISGP DLEAVKLAYE
+     SFLADKELDG SFEINDESAD IVLIGQGAHA SAPQVGKNSA TFLALFLDQY AFAGRDKNFL
+     HFLAEVEHED FYGKKLGIFH HDDLMGDLAS SPSMFDYEHA GKASLLNNVR YPQGTDPDTM
+     IKQVLDKFSG ILDVTYNGFE EPHYVPGSDP MVQTLLKVYE KQTGKPGHEV VIGGGTYGRL
+     FERGVAFGAQ PENGPMVMHA ANEFMMLDDL ILSIAIYAEA IYELTKDEEL
+//

@@ -1,0 +1,520 @@
+ID   RPB3_YEAST              Reviewed;         318 AA.
+AC   P16370; D6VVQ8;
+DT   01-AUG-1990, integrated into UniProtKB/Swiss-Prot.
+DT   01-FEB-1995, sequence version 2.
+DT   22-JUL-2015, entry version 161.
+DE   RecName: Full=DNA-directed RNA polymerase II subunit RPB3;
+DE            Short=RNA polymerase II subunit 3;
+DE            Short=RNA polymerase II subunit B3;
+DE   AltName: Full=B44.5;
+DE   AltName: Full=DNA-directed RNA polymerase II 45 kDa polypeptide;
+GN   Name=RPB3; OrderedLocusNames=YIL021W;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=559292;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND PROTEIN SEQUENCE OF 206-223.
+RX   PubMed=2685562;
+RA   Kolodziej P., Young R.A.;
+RT   "RNA polymerase II subunit RPB3 is an essential component of the mRNA
+RT   transcription apparatus.";
+RL   Mol. Cell. Biol. 9:5387-5394(1989).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=9169870;
+RA   Churcher C.M., Bowman S., Badcock K., Bankier A.T., Brown D.,
+RA   Chillingworth T., Connor R., Devlin K., Gentles S., Hamlin N.,
+RA   Harris D.E., Horsnell T., Hunt S., Jagels K., Jones M., Lye G.,
+RA   Moule S., Odell C., Pearson D., Rajandream M.A., Rice P., Rowley N.,
+RA   Skelton J., Smith V., Walsh S.V., Whitehead S., Barrell B.G.;
+RT   "The nucleotide sequence of Saccharomyces cerevisiae chromosome IX.";
+RL   Nature 387:84-87(1997).
+RN   [3]
+RP   GENOME REANNOTATION.
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=24374639; DOI=10.1534/g3.113.008995;
+RA   Engel S.R., Dietrich F.S., Fisk D.G., Binkley G., Balakrishnan R.,
+RA   Costanzo M.C., Dwight S.S., Hitz B.C., Karra K., Nash R.S., Weng S.,
+RA   Wong E.D., Lloyd P., Skrzypek M.S., Miyasato S.R., Simison M.,
+RA   Cherry J.M.;
+RT   "The reference genome sequence of Saccharomyces cerevisiae: Then and
+RT   now.";
+RL   G3 (Bethesda) 4:389-398(2014).
+RN   [4]
+RP   LEVEL OF PROTEIN EXPRESSION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562106; DOI=10.1038/nature02046;
+RA   Ghaemmaghami S., Huh W.-K., Bower K., Howson R.W., Belle A.,
+RA   Dephoure N., O'Shea E.K., Weissman J.S.;
+RT   "Global analysis of protein expression in yeast.";
+RL   Nature 425:737-741(2003).
+RN   [5]
+RP   FUNCTION, AND MUTAGENESIS OF LYS-9.
+RX   PubMed=16537912; DOI=10.1128/MCB.26.7.2688-2696.2006;
+RA   Steinmetz E.J., Ng S.B., Cloute J.P., Brow D.A.;
+RT   "cis- and trans-Acting determinants of transcription termination by
+RT   yeast RNA polymerase II.";
+RL   Mol. Cell. Biol. 26:2688-2696(2006).
+RN   [6]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT SER-2, IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS], AND CLEAVAGE OF INITIATOR
+RP   METHIONINE [LARGE SCALE ANALYSIS].
+RX   PubMed=22814378; DOI=10.1073/pnas.1210303109;
+RA   Van Damme P., Lasa M., Polevoda B., Gazquez C., Elosegui-Artola A.,
+RA   Kim D.S., De Juan-Pardo E., Demeyer K., Hole K., Larrea E.,
+RA   Timmerman E., Prieto J., Arnesen T., Sherman F., Gevaert K.,
+RA   Aldabe R.;
+RT   "N-terminal acetylome analyses and functional insights of the N-
+RT   terminal acetyltransferase NatB.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 109:12449-12454(2012).
+RN   [7]
+RP   ELECTRON MICROSCOPY OF THE RNA POL II/TFIIF COMPLEX.
+RX   PubMed=14580350; DOI=10.1016/S1097-2765(03)00387-3;
+RA   Chung W.H., Craighead J.L., Chang W.H., Ezeokonkwo C.,
+RA   Bareket-Samish A., Kornberg R.D., Asturias F.J.;
+RT   "RNA polymerase II/TFIIF structure and conserved organization of the
+RT   initiation complex.";
+RL   Mol. Cell 12:1003-1013(2003).
+RN   [8]
+RP   X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) OF THE RNA POL II CORE COMPLEX.
+RX   PubMed=11313498; DOI=10.1126/science.1059493;
+RA   Cramer P., Bushnell D.A., Kornberg R.D.;
+RT   "Structural basis of transcription: RNA polymerase II at 2.8 A
+RT   resolution.";
+RL   Science 292:1863-1876(2001).
+RN   [9]
+RP   X-RAY CRYSTALLOGRAPHY (3.3 ANGSTROMS) OF THE RNA POL II CORE COMPLEX.
+RX   PubMed=11313499; DOI=10.1126/science.1059495;
+RA   Gnatt A.L., Cramer P., Fu J., Bushnell D.A., Kornberg R.D.;
+RT   "Structural basis of transcription: an RNA polymerase II elongation
+RT   complex at 3.3 A resolution.";
+RL   Science 292:1876-1882(2001).
+RN   [10]
+RP   X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) OF THE RNA POL II CORE COMPLEX
+RP   IN COMPLEX WITH ALPHA-AMANITIN.
+RX   PubMed=11805306; DOI=10.1073/pnas.251664698;
+RA   Bushnell D.A., Cramer P., Kornberg R.D.;
+RT   "Structural basis of transcription: alpha-amanitin-RNA polymerase II
+RT   cocrystal at 2.8 A resolution.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 99:1218-1222(2002).
+RN   [11]
+RP   X-RAY CRYSTALLOGRAPHY (3.8 ANGSTROMS) OF THE RNA POL II COMPLEX IN
+RP   COMPLEX WITH DST1.
+RX   PubMed=12914699; DOI=10.1016/S0092-8674(03)00598-1;
+RA   Kettenberger H., Armache K.J., Cramer P.;
+RT   "Architecture of the RNA polymerase II-TFIIS complex and implications
+RT   for mRNA cleavage.";
+RL   Cell 114:347-357(2003).
+RN   [12]
+RP   X-RAY CRYSTALLOGRAPHY (4.2 ANGSTROMS) OF THE RNA POL II COMPLEX.
+RX   PubMed=12746495; DOI=10.1073/pnas.1030608100;
+RA   Armache K.J., Kettenberger H., Cramer P.;
+RT   "Architecture of initiation-competent 12-subunit RNA polymerase II.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 100:6964-6968(2003).
+RN   [13]
+RP   X-RAY CRYSTALLOGRAPHY (4.1 ANGSTROMS) OF THE RNA POL II CORE COMPLEX.
+RX   PubMed=12746498; DOI=10.1073/pnas.1130601100;
+RA   Bushnell D.A., Kornberg R.D.;
+RT   "Complete, 12-subunit RNA polymerase II at 4.1-A resolution:
+RT   implications for the initiation of transcription.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 100:6969-6973(2003).
+RN   [14]
+RP   X-RAY CRYSTALLOGRAPHY (2.3 ANGSTROMS) OF THE RNA POL II CORE COMPLEX.
+RX   PubMed=15537538; DOI=10.1016/j.cell.2004.10.016;
+RA   Westover K.D., Bushnell D.A., Kornberg R.D.;
+RT   "Structural basis of transcription: nucleotide selection by rotation
+RT   in the RNA polymerase II active center.";
+RL   Cell 119:481-489(2004).
+RN   [15]
+RP   X-RAY CRYSTALLOGRAPHY (4.5 ANGSTROMS).
+RX   PubMed=15610738; DOI=10.1016/j.molcel.2004.11.040;
+RA   Kettenberger H., Armache K.J., Cramer P.;
+RT   "Complete RNA polymerase II elongation complex structure and its
+RT   interactions with NTP and TFIIS.";
+RL   Mol. Cell 16:955-965(2004).
+RN   [16]
+RP   X-RAY CRYSTALLOGRAPHY (4.5 ANGSTROMS) OF THE RNA POL II CORE COMPLEX.
+RX   PubMed=14963322; DOI=10.1126/science.1090838;
+RA   Bushnell D.A., Westover K.D., Davis R.E., Kornberg R.D.;
+RT   "Structural basis of transcription: an RNA polymerase II-TFIIB
+RT   cocrystal at 4.5 Angstroms.";
+RL   Science 303:983-988(2004).
+RN   [17]
+RP   X-RAY CRYSTALLOGRAPHY (3.8 ANGSTROMS) OF THE RNA POL II COMPLEX.
+RX   PubMed=15591044; DOI=10.1074/jbc.M413038200;
+RA   Armache K.J., Mitterweger S., Meinhart A., Cramer P.;
+RT   "Structures of complete RNA polymerase II and its subcomplex,
+RT   Rpb4/7.";
+RL   J. Biol. Chem. 280:7131-7134(2005).
+RN   [18]
+RP   X-RAY CRYSTALLOGRAPHY (3.8 ANGSTROMS) OF THE RNA POL II COMPLEX IN
+RP   COMPLEX WITH INHIBITING NON-CODING RNA.
+RX   PubMed=16341226; DOI=10.1038/nsmb1032;
+RA   Kettenberger H., Eisenfuhr A., Brueckner F., Theis M., Famulok M.,
+RA   Cramer P.;
+RT   "Structure of an RNA polymerase II-RNA inhibitor complex elucidates
+RT   transcription regulation by noncoding RNAs.";
+RL   Nat. Struct. Mol. Biol. 13:44-48(2006).
+RN   [19]
+RP   X-RAY CRYSTALLOGRAPHY (4.15 ANGSTROMS) OF THE RNA POL II COMPLEX.
+RX   PubMed=16765890; DOI=10.1016/j.str.2006.04.003;
+RA   Meyer P.A., Ye P., Zhang M., Suh M.H., Fu J.;
+RT   "Phasing RNA polymerase II using intrinsically bound Zn atoms: an
+RT   updated structural model.";
+RL   Structure 14:973-982(2006).
+CC   -!- FUNCTION: DNA-dependent RNA polymerase catalyzes the transcription
+CC       of DNA into RNA using the four ribonucleoside triphosphates as
+CC       substrates. Component of RNA polymerase II which synthesizes mRNA
+CC       precursors and many functional non-coding RNAs. Pol II is the
+CC       central component of the basal RNA polymerase II transcription
+CC       machinery. It is composed of mobile elements that move relative to
+CC       each other. RPB3 is part of the core element with the central
+CC       large cleft and the clamp element that moves to open and close the
+CC       cleft. Seems to be involved in transcription termination.
+CC       {ECO:0000269|PubMed:16537912}.
+CC   -!- SUBUNIT: Component of the RNA polymerase II (Pol II) complex
+CC       consisting of 12 subunits. {ECO:0000269|PubMed:11805306,
+CC       ECO:0000269|PubMed:12914699, ECO:0000269|PubMed:16341226}.
+CC   -!- INTERACTION:
+CC       P38902:RPB11; NbExp=4; IntAct=EBI-15773, EBI-15806;
+CC       P08518:RPB2; NbExp=5; IntAct=EBI-15773, EBI-15767;
+CC   -!- SUBCELLULAR LOCATION: Nucleus.
+CC   -!- MISCELLANEOUS: Present with 10000 molecules/cell in log phase SD
+CC       medium. {ECO:0000269|PubMed:14562106}.
+CC   -!- SIMILARITY: Belongs to the archaeal RpoD/eukaryotic RPB3 RNA
+CC       polymerase subunit family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; Z46881; CAA86971.1; -; Genomic_DNA.
+DR   EMBL; M27496; AAA34889.1; -; Genomic_DNA.
+DR   EMBL; BK006942; DAA08524.1; -; Genomic_DNA.
+DR   PIR; S49961; S49961.
+DR   RefSeq; NP_012243.3; NM_001179371.3.
+DR   PDB; 1I3Q; X-ray; 3.10 A; C=1-318.
+DR   PDB; 1I50; X-ray; 2.80 A; C=1-318.
+DR   PDB; 1I6H; X-ray; 3.30 A; C=1-318.
+DR   PDB; 1K83; X-ray; 2.80 A; C=1-318.
+DR   PDB; 1NIK; X-ray; 4.10 A; C=1-318.
+DR   PDB; 1NT9; X-ray; 4.20 A; C=1-318.
+DR   PDB; 1PQV; X-ray; 3.80 A; C=1-318.
+DR   PDB; 1R5U; X-ray; 4.50 A; C=1-318.
+DR   PDB; 1R9S; X-ray; 4.25 A; C=1-318.
+DR   PDB; 1R9T; X-ray; 3.50 A; C=1-318.
+DR   PDB; 1SFO; X-ray; 3.61 A; C=1-318.
+DR   PDB; 1TWA; X-ray; 3.20 A; C=1-318.
+DR   PDB; 1TWC; X-ray; 3.00 A; C=1-318.
+DR   PDB; 1TWF; X-ray; 2.30 A; C=1-318.
+DR   PDB; 1TWG; X-ray; 3.30 A; C=1-318.
+DR   PDB; 1TWH; X-ray; 3.40 A; C=1-318.
+DR   PDB; 1WCM; X-ray; 3.80 A; C=1-318.
+DR   PDB; 1Y1V; X-ray; 3.80 A; C=1-318.
+DR   PDB; 1Y1W; X-ray; 4.00 A; C=1-318.
+DR   PDB; 1Y1Y; X-ray; 4.00 A; C=1-318.
+DR   PDB; 1Y77; X-ray; 4.50 A; C=1-318.
+DR   PDB; 2B63; X-ray; 3.80 A; C=1-318.
+DR   PDB; 2B8K; X-ray; 4.15 A; C=1-318.
+DR   PDB; 2E2H; X-ray; 3.95 A; C=1-318.
+DR   PDB; 2E2I; X-ray; 3.41 A; C=1-318.
+DR   PDB; 2E2J; X-ray; 3.50 A; C=1-318.
+DR   PDB; 2JA5; X-ray; 3.80 A; C=1-318.
+DR   PDB; 2JA6; X-ray; 4.00 A; C=1-318.
+DR   PDB; 2JA7; X-ray; 3.80 A; C/O=1-318.
+DR   PDB; 2JA8; X-ray; 3.80 A; C=1-318.
+DR   PDB; 2NVQ; X-ray; 2.90 A; C=1-318.
+DR   PDB; 2NVT; X-ray; 3.36 A; C=1-318.
+DR   PDB; 2NVX; X-ray; 3.60 A; C=1-318.
+DR   PDB; 2NVY; X-ray; 3.40 A; C=1-318.
+DR   PDB; 2NVZ; X-ray; 4.30 A; C=1-318.
+DR   PDB; 2R7Z; X-ray; 3.80 A; C=1-318.
+DR   PDB; 2R92; X-ray; 3.80 A; C=1-318.
+DR   PDB; 2R93; X-ray; 4.00 A; C=1-318.
+DR   PDB; 2VUM; X-ray; 3.40 A; C=1-318.
+DR   PDB; 2YU9; X-ray; 3.40 A; C=1-318.
+DR   PDB; 3CQZ; X-ray; 2.80 A; C=1-318.
+DR   PDB; 3FKI; X-ray; 3.88 A; C=1-318.
+DR   PDB; 3GTG; X-ray; 3.78 A; C=1-318.
+DR   PDB; 3GTJ; X-ray; 3.42 A; C=1-318.
+DR   PDB; 3GTK; X-ray; 3.80 A; C=1-318.
+DR   PDB; 3GTL; X-ray; 3.38 A; C=1-318.
+DR   PDB; 3GTM; X-ray; 3.80 A; C=1-318.
+DR   PDB; 3GTO; X-ray; 4.00 A; C=1-318.
+DR   PDB; 3GTP; X-ray; 3.90 A; C=1-318.
+DR   PDB; 3GTQ; X-ray; 3.80 A; C=1-318.
+DR   PDB; 3H3V; X-ray; 4.00 A; D=1-318.
+DR   PDB; 3HOU; X-ray; 3.20 A; C/O=1-318.
+DR   PDB; 3HOV; X-ray; 3.50 A; C=1-318.
+DR   PDB; 3HOW; X-ray; 3.60 A; C=2-318.
+DR   PDB; 3HOX; X-ray; 3.65 A; C=2-318.
+DR   PDB; 3HOY; X-ray; 3.40 A; C=2-318.
+DR   PDB; 3HOZ; X-ray; 3.65 A; C=2-318.
+DR   PDB; 3I4M; X-ray; 3.70 A; C=1-318.
+DR   PDB; 3I4N; X-ray; 3.90 A; C=1-318.
+DR   PDB; 3J0K; EM; 36.00 A; C=1-268.
+DR   PDB; 3J1N; EM; 16.00 A; C=1-268.
+DR   PDB; 3K1F; X-ray; 4.30 A; C=1-318.
+DR   PDB; 3K7A; X-ray; 3.80 A; C=1-318.
+DR   PDB; 3M3Y; X-ray; 3.18 A; C=1-318.
+DR   PDB; 3M4O; X-ray; 3.57 A; C=1-318.
+DR   PDB; 3PO2; X-ray; 3.30 A; C=1-318.
+DR   PDB; 3PO3; X-ray; 3.30 A; C=1-318.
+DR   PDB; 3QT1; X-ray; 4.30 A; C=1-318.
+DR   PDB; 3RZD; X-ray; 3.30 A; C=1-318.
+DR   PDB; 3RZO; X-ray; 3.00 A; C=1-318.
+DR   PDB; 3S14; X-ray; 2.85 A; C=1-318.
+DR   PDB; 3S15; X-ray; 3.30 A; C=1-318.
+DR   PDB; 3S16; X-ray; 3.24 A; C=1-318.
+DR   PDB; 3S17; X-ray; 3.20 A; C=1-318.
+DR   PDB; 3S1M; X-ray; 3.13 A; C=1-318.
+DR   PDB; 3S1N; X-ray; 3.10 A; C=1-318.
+DR   PDB; 3S1Q; X-ray; 3.30 A; C=1-318.
+DR   PDB; 3S1R; X-ray; 3.20 A; C=1-318.
+DR   PDB; 3S2D; X-ray; 3.20 A; C=1-318.
+DR   PDB; 3S2H; X-ray; 3.30 A; C=1-318.
+DR   PDB; 4A3B; X-ray; 3.50 A; C=1-318.
+DR   PDB; 4A3C; X-ray; 3.50 A; C=1-318.
+DR   PDB; 4A3D; X-ray; 3.40 A; C=1-318.
+DR   PDB; 4A3E; X-ray; 3.40 A; C=1-318.
+DR   PDB; 4A3F; X-ray; 3.50 A; C=1-318.
+DR   PDB; 4A3G; X-ray; 3.50 A; C=1-318.
+DR   PDB; 4A3I; X-ray; 3.80 A; C=1-318.
+DR   PDB; 4A3J; X-ray; 3.70 A; C=1-318.
+DR   PDB; 4A3K; X-ray; 3.50 A; C=1-318.
+DR   PDB; 4A3L; X-ray; 3.50 A; C=1-318.
+DR   PDB; 4A3M; X-ray; 3.90 A; C=1-318.
+DR   PDB; 4A93; X-ray; 3.40 A; C=1-318.
+DR   PDB; 4BBR; X-ray; 3.40 A; C=1-318.
+DR   PDB; 4BBS; X-ray; 3.60 A; C=1-318.
+DR   PDB; 4BXX; X-ray; 3.28 A; C=1-318.
+DR   PDB; 4BXZ; X-ray; 4.80 A; C=1-318.
+DR   PDB; 4BY1; X-ray; 3.60 A; C=1-318.
+DR   PDB; 4BY7; X-ray; 3.15 A; C=1-318.
+DR   PDB; 4V1M; EM; 6.60 A; C=1-318.
+DR   PDB; 4V1N; EM; 7.80 A; C=1-318.
+DR   PDB; 4V1O; EM; 9.70 A; C=1-318.
+DR   PDB; 4X67; X-ray; 4.10 A; C=1-318.
+DR   PDB; 4X6A; X-ray; 3.96 A; C=1-318.
+DR   PDBsum; 1I3Q; -.
+DR   PDBsum; 1I50; -.
+DR   PDBsum; 1I6H; -.
+DR   PDBsum; 1K83; -.
+DR   PDBsum; 1NIK; -.
+DR   PDBsum; 1NT9; -.
+DR   PDBsum; 1PQV; -.
+DR   PDBsum; 1R5U; -.
+DR   PDBsum; 1R9S; -.
+DR   PDBsum; 1R9T; -.
+DR   PDBsum; 1SFO; -.
+DR   PDBsum; 1TWA; -.
+DR   PDBsum; 1TWC; -.
+DR   PDBsum; 1TWF; -.
+DR   PDBsum; 1TWG; -.
+DR   PDBsum; 1TWH; -.
+DR   PDBsum; 1WCM; -.
+DR   PDBsum; 1Y1V; -.
+DR   PDBsum; 1Y1W; -.
+DR   PDBsum; 1Y1Y; -.
+DR   PDBsum; 1Y77; -.
+DR   PDBsum; 2B63; -.
+DR   PDBsum; 2B8K; -.
+DR   PDBsum; 2E2H; -.
+DR   PDBsum; 2E2I; -.
+DR   PDBsum; 2E2J; -.
+DR   PDBsum; 2JA5; -.
+DR   PDBsum; 2JA6; -.
+DR   PDBsum; 2JA7; -.
+DR   PDBsum; 2JA8; -.
+DR   PDBsum; 2NVQ; -.
+DR   PDBsum; 2NVT; -.
+DR   PDBsum; 2NVX; -.
+DR   PDBsum; 2NVY; -.
+DR   PDBsum; 2NVZ; -.
+DR   PDBsum; 2R7Z; -.
+DR   PDBsum; 2R92; -.
+DR   PDBsum; 2R93; -.
+DR   PDBsum; 2VUM; -.
+DR   PDBsum; 2YU9; -.
+DR   PDBsum; 3CQZ; -.
+DR   PDBsum; 3FKI; -.
+DR   PDBsum; 3GTG; -.
+DR   PDBsum; 3GTJ; -.
+DR   PDBsum; 3GTK; -.
+DR   PDBsum; 3GTL; -.
+DR   PDBsum; 3GTM; -.
+DR   PDBsum; 3GTO; -.
+DR   PDBsum; 3GTP; -.
+DR   PDBsum; 3GTQ; -.
+DR   PDBsum; 3H3V; -.
+DR   PDBsum; 3HOU; -.
+DR   PDBsum; 3HOV; -.
+DR   PDBsum; 3HOW; -.
+DR   PDBsum; 3HOX; -.
+DR   PDBsum; 3HOY; -.
+DR   PDBsum; 3HOZ; -.
+DR   PDBsum; 3I4M; -.
+DR   PDBsum; 3I4N; -.
+DR   PDBsum; 3J0K; -.
+DR   PDBsum; 3J1N; -.
+DR   PDBsum; 3K1F; -.
+DR   PDBsum; 3K7A; -.
+DR   PDBsum; 3M3Y; -.
+DR   PDBsum; 3M4O; -.
+DR   PDBsum; 3PO2; -.
+DR   PDBsum; 3PO3; -.
+DR   PDBsum; 3QT1; -.
+DR   PDBsum; 3RZD; -.
+DR   PDBsum; 3RZO; -.
+DR   PDBsum; 3S14; -.
+DR   PDBsum; 3S15; -.
+DR   PDBsum; 3S16; -.
+DR   PDBsum; 3S17; -.
+DR   PDBsum; 3S1M; -.
+DR   PDBsum; 3S1N; -.
+DR   PDBsum; 3S1Q; -.
+DR   PDBsum; 3S1R; -.
+DR   PDBsum; 3S2D; -.
+DR   PDBsum; 3S2H; -.
+DR   PDBsum; 4A3B; -.
+DR   PDBsum; 4A3C; -.
+DR   PDBsum; 4A3D; -.
+DR   PDBsum; 4A3E; -.
+DR   PDBsum; 4A3F; -.
+DR   PDBsum; 4A3G; -.
+DR   PDBsum; 4A3I; -.
+DR   PDBsum; 4A3J; -.
+DR   PDBsum; 4A3K; -.
+DR   PDBsum; 4A3L; -.
+DR   PDBsum; 4A3M; -.
+DR   PDBsum; 4A93; -.
+DR   PDBsum; 4BBR; -.
+DR   PDBsum; 4BBS; -.
+DR   PDBsum; 4BXX; -.
+DR   PDBsum; 4BXZ; -.
+DR   PDBsum; 4BY1; -.
+DR   PDBsum; 4BY7; -.
+DR   PDBsum; 4V1M; -.
+DR   PDBsum; 4V1N; -.
+DR   PDBsum; 4V1O; -.
+DR   PDBsum; 4X67; -.
+DR   PDBsum; 4X6A; -.
+DR   ProteinModelPortal; P16370; -.
+DR   SMR; P16370; 3-268.
+DR   BioGrid; 34967; 187.
+DR   DIP; DIP-837N; -.
+DR   IntAct; P16370; 32.
+DR   MINT; MINT-613688; -.
+DR   MaxQB; P16370; -.
+DR   PaxDb; P16370; -.
+DR   PeptideAtlas; P16370; -.
+DR   EnsemblFungi; YIL021W; YIL021W; YIL021W.
+DR   GeneID; 854791; -.
+DR   KEGG; sce:YIL021W; -.
+DR   CYGD; YIL021w; -.
+DR   EuPathDB; FungiDB:YIL021W; -.
+DR   SGD; S000001283; RPB3.
+DR   eggNOG; COG0202; -.
+DR   GeneTree; ENSGT00640000091532; -.
+DR   HOGENOM; HOG000230844; -.
+DR   InParanoid; P16370; -.
+DR   KO; K03011; -.
+DR   OMA; AKWNPTC; -.
+DR   OrthoDB; EOG776T14; -.
+DR   BioCyc; YEAST:G3O-31296-MONOMER; -.
+DR   Reactome; REACT_273109; Formation of the Early Elongation Complex.
+DR   Reactome; REACT_273984; Dual incision reaction in TC-NER.
+DR   Reactome; REACT_277632; mRNA Capping.
+DR   Reactome; REACT_294700; mRNA Splicing - Minor Pathway.
+DR   Reactome; REACT_296055; RNA Polymerase II Promoter Escape.
+DR   Reactome; REACT_300180; RNA Polymerase II Transcription Initiation And Promoter Clearance.
+DR   Reactome; REACT_310018; RNA Polymerase II Transcription Pre-Initiation And Promoter Opening.
+DR   Reactome; REACT_315180; RNA Polymerase II Pre-transcription Events.
+DR   Reactome; REACT_317581; Processing of Capped Intron-Containing Pre-mRNA.
+DR   Reactome; REACT_322294; RNA Pol II CTD phosphorylation and interaction with CE.
+DR   Reactome; REACT_331999; Formation of transcription-coupled NER (TC-NER) repair complex.
+DR   Reactome; REACT_341636; Transcription-coupled NER (TC-NER).
+DR   Reactome; REACT_345860; RNA Polymerase II Transcription Initiation.
+DR   EvolutionaryTrace; P16370; -.
+DR   NextBio; 977585; -.
+DR   PRO; PR:P16370; -.
+DR   Proteomes; UP000002311; Chromosome IX.
+DR   GO; GO:0005665; C:DNA-directed RNA polymerase II, core complex; IDA:SGD.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:SGD.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0003899; F:DNA-directed RNA polymerase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006369; P:termination of RNA polymerase II transcription; IMP:SGD.
+DR   GO; GO:0006366; P:transcription from RNA polymerase II promoter; IMP:SGD.
+DR   GO; GO:0001172; P:transcription, RNA-templated; IDA:GOC.
+DR   Gene3D; 2.170.120.12; -; 1.
+DR   InterPro; IPR001514; DNA-dir_RNA_pol_30-40kDasu_CS.
+DR   InterPro; IPR011262; DNA-dir_RNA_pol_insert.
+DR   InterPro; IPR011263; DNA-dir_RNA_pol_RpoA/D/Rpb3.
+DR   InterPro; IPR009025; RBP11-like_dimer.
+DR   Pfam; PF01000; RNA_pol_A_bac; 1.
+DR   Pfam; PF01193; RNA_pol_L; 1.
+DR   SMART; SM00662; RPOLD; 1.
+DR   SUPFAM; SSF55257; SSF55257; 1.
+DR   SUPFAM; SSF56553; SSF56553; 1.
+DR   PROSITE; PS00446; RNA_POL_D_30KD; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Complete proteome;
+KW   Direct protein sequencing; DNA-directed RNA polymerase; Metal-binding;
+KW   Nucleus; Polymorphism; Reference proteome; Transcription; Zinc.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:22814378}.
+FT   CHAIN         2    318       DNA-directed RNA polymerase II subunit
+FT                                RPB3.
+FT                                /FTId=PRO_0000132748.
+FT   METAL        86     86       Zinc.
+FT   METAL        88     88       Zinc.
+FT   METAL        92     92       Zinc.
+FT   METAL        95     95       Zinc.
+FT   MOD_RES       2      2       N-acetylserine.
+FT                                {ECO:0000269|PubMed:22814378}.
+FT   VARIANT      30     30       A -> D (in mutant RPB3-1).
+FT   MUTAGEN       9      9       K->E: Transcript termination readthrough.
+FT                                {ECO:0000269|PubMed:16537912}.
+FT   CONFLICT    175    175       A -> G (in Ref. 1; AAA34889).
+FT                                {ECO:0000305}.
+FT   STRAND        5      7       {ECO:0000244|PDB:1TWF}.
+FT   STRAND       11     13       {ECO:0000244|PDB:3CQZ}.
+FT   STRAND       15     18       {ECO:0000244|PDB:1TWF}.
+FT   STRAND       21     25       {ECO:0000244|PDB:1TWF}.
+FT   HELIX        27     39       {ECO:0000244|PDB:1TWF}.
+FT   STRAND       43     54       {ECO:0000244|PDB:1TWF}.
+FT   STRAND       56     58       {ECO:0000244|PDB:1TWF}.
+FT   HELIX        60     68       {ECO:0000244|PDB:1TWF}.
+FT   STRAND       72     74       {ECO:0000244|PDB:1TWF}.
+FT   HELIX        77     79       {ECO:0000244|PDB:1TWF}.
+FT   TURN         83     85       {ECO:0000244|PDB:1TWF}.
+FT   STRAND       86     90       {ECO:0000244|PDB:1TWF}.
+FT   TURN         93     95       {ECO:0000244|PDB:1TWF}.
+FT   STRAND       96    104       {ECO:0000244|PDB:1TWF}.
+FT   STRAND      107    109       {ECO:0000244|PDB:1TWF}.
+FT   STRAND      111    114       {ECO:0000244|PDB:1TWF}.
+FT   HELIX       115    117       {ECO:0000244|PDB:1TWF}.
+FT   STRAND      118    120       {ECO:0000244|PDB:1TWF}.
+FT   STRAND      128    132       {ECO:0000244|PDB:1TWF}.
+FT   STRAND      137    139       {ECO:0000244|PDB:3S14}.
+FT   STRAND      142    147       {ECO:0000244|PDB:1TWF}.
+FT   STRAND      152    162       {ECO:0000244|PDB:1TWF}.
+FT   TURN        164    166       {ECO:0000244|PDB:1TWF}.
+FT   HELIX       168    170       {ECO:0000244|PDB:1TWF}.
+FT   STRAND      173    180       {ECO:0000244|PDB:1TWF}.
+FT   HELIX       184    186       {ECO:0000244|PDB:1I3Q}.
+FT   HELIX       197    200       {ECO:0000244|PDB:1TWF}.
+FT   HELIX       205    207       {ECO:0000244|PDB:1TWF}.
+FT   STRAND      208    210       {ECO:0000244|PDB:3M3Y}.
+FT   STRAND      215    217       {ECO:0000244|PDB:1TWF}.
+FT   STRAND      228    234       {ECO:0000244|PDB:1TWF}.
+FT   STRAND      236    238       {ECO:0000244|PDB:1TWF}.
+FT   HELIX       240    265       {ECO:0000244|PDB:1TWF}.
+SQ   SEQUENCE   318 AA;  35298 MW;  8E1D1E6BB7B51D89 CRC64;
+     MSEEGPQVKI REASKDNVDF ILSNVDLAMA NSLRRVMIAE IPTLAIDSVE VETNTTVLAD
+     EFIAHRLGLI PLQSMDIEQL EYSRDCFCED HCDKCSVVLT LQAFGESEST TNVYSKDLVI
+     VSNLMGRNIG HPIIQDKEGN GVLICKLRKG QELKLTCVAK KGIAKEHAKW GPAAAIEFEY
+     DPWNKLKHTD YWYEQDSAKE WPQSKNCEYE DPPNEGDPFD YKAQADTFYM NVESVGSIPV
+     DQVVVRGIDT LQKKVASILL ALTQMDQDKV NFASGDNNTA SNMLGSNEDV MMTGAEQDPY
+     SNASQMGNTG SGGYDNAW
+//

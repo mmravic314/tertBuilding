@@ -1,0 +1,112 @@
+ID   BFR_ECOL6               Reviewed;         158 AA.
+AC   P0ABD4; O68931; P11056;
+DT   25-OCT-2005, integrated into UniProtKB/Swiss-Prot.
+DT   25-OCT-2005, sequence version 1.
+DT   22-JUL-2015, entry version 61.
+DE   RecName: Full=Bacterioferritin;
+DE            Short=BFR;
+DE            EC=1.16.3.1;
+DE   AltName: Full=Cytochrome b-1;
+DE   AltName: Full=Cytochrome b-557;
+GN   Name=bfr; OrderedLocusNames=c4107;
+OS   Escherichia coli O6:H1 (strain CFT073 / ATCC 700928 / UPEC).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=199310;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=CFT073 / ATCC 700928 / UPEC;
+RX   PubMed=12471157; DOI=10.1073/pnas.252529799;
+RA   Welch R.A., Burland V., Plunkett G. III, Redford P., Roesch P.,
+RA   Rasko D., Buckles E.L., Liou S.-R., Boutin A., Hackett J., Stroud D.,
+RA   Mayhew G.F., Rose D.J., Zhou S., Schwartz D.C., Perna N.T.,
+RA   Mobley H.L.T., Donnenberg M.S., Blattner F.R.;
+RT   "Extensive mosaic structure revealed by the complete genome sequence
+RT   of uropathogenic Escherichia coli.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 99:17020-17024(2002).
+CC   -!- FUNCTION: Iron-storage protein, whose ferroxidase center binds
+CC       Fe(2+) ions, oxidizes them by dioxygen to Fe(3+), and participates
+CC       in the subsequent Fe(3+) oxide mineral core formation within the
+CC       central cavity of the protein complex. {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: 4 Fe(2+) + 4 H(+) + O(2) = 4 Fe(3+) + 2 H(2)O.
+CC   -!- COFACTOR:
+CC       Name=heme b; Xref=ChEBI:CHEBI:60344; Evidence={ECO:0000250};
+CC       Note=Binds 1 heme b (iron(II)-protoporphyrin IX) group per dimer.
+CC       {ECO:0000250};
+CC   -!- COFACTOR:
+CC       Name=Fe cation; Xref=ChEBI:CHEBI:24875; Evidence={ECO:0000250};
+CC       Note=Binds 2 iron ions per subunit. The catalytic dinuclear iron-
+CC       binding site within each subunit is known as the ferroxidase
+CC       center. {ECO:0000250};
+CC   -!- SUBUNIT: Homooligomer of 24 subunits, arranged as 12 dimers, that
+CC       are packed together to form an approximately spherical molecule
+CC       with a central cavity, in which large amounts of iron can be
+CC       deposited. {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the bacterioferritin family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 ferritin-like diiron domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00085}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE014075; AAN82545.1; -; Genomic_DNA.
+DR   ProteinModelPortal; P0ABD4; -.
+DR   SMR; P0ABD4; 1-157.
+DR   STRING; 199310.c4107; -.
+DR   PRIDE; P0ABD4; -.
+DR   EnsemblBacteria; AAN82545; AAN82545; c4107.
+DR   PATRIC; 18285968; VBIEscCol75197_3860.
+DR   HOGENOM; HOG000262383; -.
+DR   OMA; EMKHADQ; -.
+DR   OrthoDB; EOG6WDSKP; -.
+DR   BioCyc; ECOL199310:C4107-MONOMER; -.
+DR   Proteomes; UP000001410; Chromosome.
+DR   GO; GO:0005623; C:cell; IEA:GOC.
+DR   GO; GO:0008199; F:ferric iron binding; IEA:InterPro.
+DR   GO; GO:0004322; F:ferroxidase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0006879; P:cellular iron ion homeostasis; IEA:UniProtKB-KW.
+DR   GO; GO:0006826; P:iron ion transport; IEA:InterPro.
+DR   Gene3D; 1.20.1260.10; -; 1.
+DR   InterPro; IPR002024; Bacterioferritin.
+DR   InterPro; IPR009040; Ferritin-like_diiron.
+DR   InterPro; IPR009078; Ferritin-like_SF.
+DR   InterPro; IPR012347; Ferritin-rel.
+DR   InterPro; IPR008331; Ferritin_DPS_dom.
+DR   Pfam; PF00210; Ferritin; 1.
+DR   PIRSF; PIRSF002560; Bacterioferritin; 1.
+DR   PRINTS; PR00601; BACFERRITIN.
+DR   SUPFAM; SSF47240; SSF47240; 1.
+DR   TIGRFAMs; TIGR00754; bfr; 1.
+DR   PROSITE; PS00549; BACTERIOFERRITIN; 1.
+DR   PROSITE; PS50905; FERRITIN_LIKE; 1.
+PE   3: Inferred from homology;
+KW   Complete proteome; Heme; Iron; Iron storage; Metal-binding;
+KW   Oxidoreductase.
+FT   CHAIN         1    158       Bacterioferritin.
+FT                                /FTId=PRO_0000192593.
+FT   DOMAIN        1    145       Ferritin-like diiron.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00085}.
+FT   METAL        18     18       Iron 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00085}.
+FT   METAL        51     51       Iron 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00085}.
+FT   METAL        51     51       Iron 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00085}.
+FT   METAL        52     52       Iron (heme axial ligand); shared with
+FT                                dimeric partner. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00085}.
+FT   METAL        54     54       Iron 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00085}.
+FT   METAL        94     94       Iron 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00085}.
+FT   METAL       127    127       Iron 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00085}.
+FT   METAL       127    127       Iron 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00085}.
+FT   METAL       130    130       Iron 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00085}.
+SQ   SEQUENCE   158 AA;  18495 MW;  A6C86CE1CD8F865A CRC64;
+     MKGDTKVINY LNKLLGNELV AINQYFLHAR MFKNWGLKRL NDVEYHESID EMKHADRYIE
+     RILFLEGLPN LQDLGKLNIG EDVEEMLRSD LALELDGAKN LREAIGYADS VHDYVSRDMM
+     IEILRDEEGH IDWLETELDL IQKMGLQNYL QAQIREEG
+//

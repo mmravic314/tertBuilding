@@ -1,0 +1,81 @@
+ID   Q93P54_9VIBR            Unreviewed;       521 AA.
+AC   Q93P54;
+DT   01-DEC-2001, integrated into UniProtKB/TrEMBL.
+DT   01-SEP-2009, sequence version 2.
+DT   07-JAN-2015, entry version 55.
+DE   SubName: Full=Alkaline phosphatase {ECO:0000313|EMBL:AAK94204.2};
+OS   Vibrio sp. G15-21.
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales;
+OC   Vibrionaceae; Vibrio.
+OX   NCBI_TaxID=169049 {ECO:0000313|EMBL:AAK94204.2};
+RN   [1] {ECO:0000313|EMBL:AAK94204.2}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=G15-21 {ECO:0000313|EMBL:AAK94204.2};
+RX   PubMed=11566372;
+RA   Asgeirsson B., Andresson O.S.;
+RT   "Primary structure of cold-adapted alkaline phosphatase from a Vibrio
+RT   sp. as deduced from the nucleotide gene sequence.";
+RL   Biochim. Biophys. Acta 1549:99-111(2001).
+RN   [2] {ECO:0000213|PDB:3E2D}
+RP   X-RAY CRYSTALLOGRAPHY (1.40 ANGSTROMS) OF 20-521 IN COMPLEX WITH
+RP   MAGNESIUM AND ZINC.
+RX   PubMed=18977465; DOI=10.1016/j.bbapap.2008.09.020;
+RA   Helland R., Larsen R.L., Asgeirsson B.;
+RT   "The 1.4 A crystal structure of the large and cold-active Vibrio sp.
+RT   alkaline phosphatase.";
+RL   Biochim. Biophys. Acta 1794:297-308(2009).
+RN   [3] {ECO:0000313|EMBL:AAK94204.2}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=G15-21 {ECO:0000313|EMBL:AAK94204.2};
+RA   Asgeirsson B., Andresson O.S.;
+RL   Submitted (JUL-2009) to the EMBL/GenBank/DDBJ databases.
+CC   -!- SIMILARITY: Belongs to the alkaline phosphatase family.
+CC       {ECO:0000256|RuleBase:RU003946}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF352014; AAK94204.2; -; Genomic_DNA.
+DR   PDB; 3E2D; X-ray; 1.40 A; A/B=20-521.
+DR   PDBsum; 3E2D; -.
+DR   ProteinModelPortal; Q93P54; -.
+DR   EvolutionaryTrace; Q93P54; -.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016791; F:phosphatase activity; IEA:InterPro.
+DR   Gene3D; 3.40.720.10; -; 3.
+DR   InterPro; IPR017849; Alkaline_Pase-like_a/b/a.
+DR   InterPro; IPR001952; Alkaline_phosphatase.
+DR   InterPro; IPR018299; Alkaline_phosphatase_AS.
+DR   InterPro; IPR017850; Alkaline_phosphatase_core.
+DR   Pfam; PF00245; Alk_phosphatase; 1.
+DR   PRINTS; PR00113; ALKPHPHTASE.
+DR   SMART; SM00098; alkPPc; 1.
+DR   SUPFAM; SSF53649; SSF53649; 2.
+DR   PROSITE; PS00123; ALKALINE_PHOSPHATASE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3E2D}; Magnesium {ECO:0000213|PDB:3E2D};
+KW   Metal-binding {ECO:0000213|PDB:3E2D}; Zinc {ECO:0000213|PDB:3E2D}.
+FT   METAL        31     31       Magnesium. {ECO:0000213|PDB:3E2D}.
+FT   METAL        31     31       Zinc 1. {ECO:0000213|PDB:3E2D}.
+FT   METAL        84     84       Zinc 1. {ECO:0000213|PDB:3E2D}.
+FT   METAL       137    137       Magnesium. {ECO:0000213|PDB:3E2D}.
+FT   METAL       287    287       Magnesium. {ECO:0000213|PDB:3E2D}.
+FT   METAL       292    292       Zinc 2. {ECO:0000213|PDB:3E2D}.
+FT   METAL       296    296       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3E2D}.
+FT   METAL       334    334       Zinc 1. {ECO:0000213|PDB:3E2D}.
+FT   METAL       335    335       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3E2D}.
+FT   METAL       484    484       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3E2D}.
+SQ   SEQUENCE   521 AA;  57350 MW;  9374669CF2666F22 CRC64;
+     MKPIVTAVVT STLSFNVLSA EIKNVILMIG DGMGPQQVGL LETYANQAPN SIYKGNKTAI
+     YQLAQEGVIG SSLTHPEDAI VVDSACSATM LATGIYSSSE VIGIDSQGNH VETVLEKAKK
+     AGKATGLVSD TRLTHATPAS FAAHQPHRSL ENQIASDMLA TGADVMLSGG LRHWIPKSTN
+     DKGETYKQLE KLTQGDVYLK SKRKDDRNLL TEAEKDGYQL AFNRNMLDDA KGDKLLGLFA
+     YSGMDDGIAY SNKKKSGERT QPSLKEMTQK ALNILSKDED GFFLMVEGGQ IDWAGHSNDA
+     GTMLHELLKF DEAIQTVYEW AKDREDTIVI VTADHETGSF GFSYSSNDLP KPQKRSGEAF
+     ADRDYAPNFN FGAFDILDGL YNQKQSYYGM ISEFQKLDKS LQTPEKLAEI VNKNSEFPIT
+     AEQAKNVLAS KPNPYRLAQH KYLSAEEVPA INDFDAFFPY NDRGNLLARE QATGQNIVWG
+     TGTHTHTPVN VFAWGPAEKI LPVSKIMHHS ELGEYIKQQV N
+//

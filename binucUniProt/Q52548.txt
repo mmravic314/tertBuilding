@@ -1,0 +1,234 @@
+ID   CRNA_PSEPU              Reviewed;         260 AA.
+AC   P83772; Q52548;
+DT   05-APR-2011, integrated into UniProtKB/Swiss-Prot.
+DT   15-MAR-2004, sequence version 1.
+DT   24-JUN-2015, entry version 45.
+DE   RecName: Full=Creatinine amidohydrolase;
+DE            EC=3.5.2.10;
+DE   AltName: Full=Creatininase;
+GN   Name=crnA;
+OS   Pseudomonas putida (Arthrobacter siderocapsulatus).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+OC   Pseudomonadaceae; Pseudomonas.
+OX   NCBI_TaxID=303;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND PROTEIN SEQUENCE OF 2-6.
+RC   STRAIN=PS-7;
+RX   PubMed=7670196; DOI=10.1271/bbb.59.1331;
+RA   Yamamoto K., Oka M., Kikuchi T., Emi S.;
+RT   "Cloning of the creatinine amidohydrolase gene from Pseudomonas sp.
+RT   PS-7.";
+RL   Biosci. Biotechnol. Biochem. 59:1331-1332(1995).
+RN   [2]
+RP   FUNCTION, CATALYTIC ACTIVITY, SUBSTRATE SPECIFICITY,
+RP   BIOPHYSICOCHEMICAL PROPERTIES, AND ENZYME REGULATION.
+RC   STRAIN=C-83;
+RX   PubMed=500580;
+RA   Rikitake K., Oka I., Ando M., Yoshimoto T., Tsuru D.;
+RT   "Creatinine amidohydrolase (creatininase) from Pseudomonas putida.
+RT   Purification and some properties.";
+RL   J. Biochem. 86:1109-1117(1979).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (2.10 ANGSTROMS) OF 2-260 IN COMPLEX WITH ZINC,
+RP   COFACTOR, AND SUBUNIT.
+RX   PubMed=12946365; DOI=10.1016/S0022-2836(03)00860-X;
+RA   Beuth B., Niefind K., Schomburg D.;
+RT   "Crystal structure of creatininase from Pseudomonas putida: a novel
+RT   fold and a case of convergent evolution.";
+RL   J. Mol. Biol. 332:287-301(2003).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (1.60 ANGSTROMS) OF APOENZYME AND COMPLEXES WITH
+RP   CREATINE; ZINC AND MANGANESE, COFACTOR, SUBUNIT, AND CATALYTIC
+RP   MECHANISM.
+RX   PubMed=15003455; DOI=10.1016/j.jmb.2004.01.022;
+RA   Yoshimoto T., Tanaka N., Kanada N., Inoue T., Nakajima Y.,
+RA   Haratake M., Nakamura K.T., Xu Y., Ito K.;
+RT   "Crystal structures of creatininase reveal the substrate binding site
+RT   and provide an insight into the catalytic mechanism.";
+RL   J. Mol. Biol. 337:399-416(2004).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (1.78 ANGSTROMS) OF WILD-TYPE IN COMPLEX WITH
+RP   1-METHYLGUANIDINE INHIBITOR AND MUTANTS ALA-154; PHE-154; PHE-174 AND
+RP   GLN-122 IN COMPLEX WITH CREATINE; ZINC AND MANGANESE, CATALYTIC
+RP   ACTIVITY, KINETIC PARAMETERS, CATALYTIC MECHANISM, AND MUTAGENESIS OF
+RP   TYR-121; GLU-122; TRP-154; TRP-174 AND GLU-183.
+RX   PubMed=20043918; DOI=10.1016/j.jmb.2009.12.045;
+RA   Yamashita K., Nakajima Y., Matsushita H., Nishiya Y., Yamazawa R.,
+RA   Wu Y.F., Matsubara F., Oyama H., Ito K., Yoshimoto T.;
+RT   "Substitution of Glu122 by glutamine revealed the function of the
+RT   second water molecule as a proton donor in the binuclear metal enzyme
+RT   creatininase.";
+RL   J. Mol. Biol. 396:1081-1096(2010).
+CC   -!- FUNCTION: Cyclic amidohydrolase that catalyzes the reversible
+CC       conversion of creatinine to creatine. Is also active toward
+CC       glycocyamidine, though the reaction rate is very low, but it is
+CC       completely inert toward hydantoin and its derivatives.
+CC       {ECO:0000269|PubMed:500580}.
+CC   -!- CATALYTIC ACTIVITY: Creatinine + H(2)O = creatine.
+CC       {ECO:0000269|PubMed:20043918, ECO:0000269|PubMed:500580}.
+CC   -!- COFACTOR:
+CC       Note=Binds 2 Zn(2+) ions per subunit. The Zn(2+) in the metal 1
+CC       binding site can be replaced with Mn(2+); however, the second zinc
+CC       in metal binding site 2 is much more tightly bound and can not be
+CC       replaced. The enzyme with one zinc and one manganese ion is more
+CC       active than that with two zinc ions. {ECO:0000269|PubMed:12946365,
+CC       ECO:0000269|PubMed:15003455};
+CC   -!- ENZYME REGULATION: Is markedly inactivated in vitro by heavy metal
+CC       ions, N-bromosuccinimide, ethoxyformic anhydride, and dye-
+CC       sensitized photooxidation. {ECO:0000269|PubMed:500580}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=26 mM for creatinine {ECO:0000269|PubMed:20043918,
+CC         ECO:0000269|PubMed:500580};
+CC         KM=130 mM for creatine {ECO:0000269|PubMed:20043918,
+CC         ECO:0000269|PubMed:500580};
+CC         KM=200 mM for glycocyamidine {ECO:0000269|PubMed:20043918,
+CC         ECO:0000269|PubMed:500580};
+CC         Vmax=390 umol/min/mg enzyme for the forward reaction (creatine
+CC         formation) {ECO:0000269|PubMed:20043918,
+CC         ECO:0000269|PubMed:500580};
+CC         Vmax=1510 umol/min/mg enzyme for the reverse reaction
+CC         (creatinine formation) {ECO:0000269|PubMed:20043918,
+CC         ECO:0000269|PubMed:500580};
+CC         Vmax=3.7 umol/min/mg enzyme with glycocyamidine as substrate
+CC         {ECO:0000269|PubMed:20043918, ECO:0000269|PubMed:500580};
+CC       pH dependence:
+CC         Optimum pH is 7-9 for the forward and reverse reactions.
+CC         {ECO:0000269|PubMed:500580};
+CC       Temperature dependence:
+CC         Retains 75% of the activity after incubation at 75 degrees
+CC         Celsius for 30 minutes. {ECO:0000269|PubMed:500580};
+CC   -!- PATHWAY: Amine and polyamine degradation; creatinine degradation.
+CC   -!- SUBUNIT: Homohexamer; trimer of dimers.
+CC       {ECO:0000269|PubMed:12946365, ECO:0000269|PubMed:15003455,
+CC       ECO:0000269|PubMed:20043918}.
+CC   -!- MISCELLANEOUS: The proposed catalytic mechanism involves two water
+CC       molecules. The first molecule is a hydroxide ion that is bound as
+CC       a bridge between the two metal ions and attacks the carbonyl
+CC       carbon of the substrate. The second water molecule, that is bound
+CC       to the carboxyl group of Glu-122 and to the metal 1, functions as
+CC       a proton donor in catalysis.
+CC   -!- SIMILARITY: Belongs to the creatininase superfamily.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; D45424; BAA08265.1; -; Genomic_DNA.
+DR   PIR; T48846; T48846.
+DR   PDB; 1J2T; X-ray; 1.80 A; A/B/C/D/E/F=1-260.
+DR   PDB; 1J2U; X-ray; 1.85 A; A/B/C/D/E/F=1-260.
+DR   PDB; 1Q3K; X-ray; 2.10 A; A/B/C/D/E/F=2-260.
+DR   PDB; 1V7Z; X-ray; 1.60 A; A/B/C/D/E/F=1-260.
+DR   PDB; 3A6D; X-ray; 1.90 A; A/B/C/D/E/F=1-260.
+DR   PDB; 3A6E; X-ray; 2.00 A; A/B/C/D/E/F=1-260.
+DR   PDB; 3A6F; X-ray; 1.78 A; A/B/C/D/E/F=1-260.
+DR   PDB; 3A6G; X-ray; 2.00 A; A/B/C/D/E/F=1-260.
+DR   PDB; 3A6H; X-ray; 2.00 A; A/B/C/D/E/F=1-260.
+DR   PDB; 3A6J; X-ray; 2.00 A; A/B/C/D/E/F=1-260.
+DR   PDB; 3A6K; X-ray; 2.20 A; A/B/C/D/E/F=1-260.
+DR   PDB; 3A6L; X-ray; 2.00 A; A/B/C/D/E/F=1-260.
+DR   PDBsum; 1J2T; -.
+DR   PDBsum; 1J2U; -.
+DR   PDBsum; 1Q3K; -.
+DR   PDBsum; 1V7Z; -.
+DR   PDBsum; 3A6D; -.
+DR   PDBsum; 3A6E; -.
+DR   PDBsum; 3A6F; -.
+DR   PDBsum; 3A6G; -.
+DR   PDBsum; 3A6H; -.
+DR   PDBsum; 3A6J; -.
+DR   PDBsum; 3A6K; -.
+DR   PDBsum; 3A6L; -.
+DR   ProteinModelPortal; P83772; -.
+DR   SMR; P83772; 3-259.
+DR   BioCyc; MetaCyc:MONOMER-10962; -.
+DR   BRENDA; 3.5.2.10; 5092.
+DR   UniPathway; UPA00274; -.
+DR   EvolutionaryTrace; P83772; -.
+DR   GO; GO:0047789; F:creatininase activity; IDA:UniProtKB.
+DR   GO; GO:0030145; F:manganese ion binding; IDA:UniProtKB.
+DR   GO; GO:0008270; F:zinc ion binding; IDA:UniProtKB.
+DR   GO; GO:0006601; P:creatine biosynthetic process; IDA:UniProtKB.
+DR   GO; GO:0006602; P:creatinine catabolic process; IDA:UniProtKB.
+DR   Gene3D; 3.40.50.10310; -; 1.
+DR   InterPro; IPR031034; Creatininase.
+DR   InterPro; IPR024087; Creatininase-like_dom.
+DR   InterPro; IPR003785; Creatininase/forma_Hydrolase.
+DR   Pfam; PF02633; Creatininase; 1.
+DR   SUPFAM; SSF102215; SSF102215; 1.
+DR   TIGRFAMs; TIGR04448; creatininase; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Direct protein sequencing; Hydrolase; Manganese;
+KW   Metal-binding; Zinc.
+FT   INIT_MET      1      1       Removed. {ECO:0000305|PubMed:7670196}.
+FT   CHAIN         2    260       Creatinine amidohydrolase.
+FT                                /FTId=PRO_0000406934.
+FT   REGION      174    178       Substrate binding.
+FT   METAL        34     34       Zinc or manganese 1.
+FT                                {ECO:0000269|PubMed:12946365,
+FT                                ECO:0000269|PubMed:20043918}.
+FT   METAL        36     36       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000269|PubMed:12946365,
+FT                                ECO:0000269|PubMed:20043918}.
+FT   METAL        45     45       Zinc 2. {ECO:0000269|PubMed:12946365,
+FT                                ECO:0000269|PubMed:20043918}.
+FT   METAL        45     45       Zinc or manganese 1.
+FT                                {ECO:0000269|PubMed:12946365,
+FT                                ECO:0000269|PubMed:20043918}.
+FT   METAL       120    120       Zinc or manganese 1; via pros nitrogen.
+FT                                {ECO:0000269|PubMed:12946365,
+FT                                ECO:0000269|PubMed:20043918}.
+FT   METAL       183    183       Zinc 2. {ECO:0000269|PubMed:12946365,
+FT                                ECO:0000269|PubMed:20043918}.
+FT   BINDING      78     78       Substrate; via carbonyl oxygen.
+FT   BINDING     121    121       Substrate; via amide nitrogen.
+FT   SITE        122    122       Coordinates a catalytic water molecule.
+FT   MUTAGEN     121    121       Y->A: 30-fold decrease in catalytic
+FT                                efficiency.
+FT                                {ECO:0000269|PubMed:20043918}.
+FT   MUTAGEN     122    122       E->Q: 700-fold decrease in catalytic
+FT                                efficiency. No ion in metal binding site
+FT                                1. {ECO:0000269|PubMed:20043918}.
+FT   MUTAGEN     154    154       W->A: Loss of activity.
+FT                                {ECO:0000269|PubMed:20043918}.
+FT   MUTAGEN     154    154       W->F: 340-fold decrease in catalytic
+FT                                efficiency.
+FT                                {ECO:0000269|PubMed:20043918}.
+FT   MUTAGEN     174    174       W->A: Nearly no activity.
+FT                                {ECO:0000269|PubMed:20043918}.
+FT   MUTAGEN     174    174       W->F: 2-fold decrease in catalytic
+FT                                efficiency.
+FT                                {ECO:0000269|PubMed:20043918}.
+FT   MUTAGEN     178    178       H->A: Loss of activity.
+FT   MUTAGEN     183    183       E->Q: Loss of activity.
+FT                                {ECO:0000269|PubMed:20043918}.
+FT   HELIX         7      9       {ECO:0000244|PDB:1V7Z}.
+FT   HELIX        12     20       {ECO:0000244|PDB:1V7Z}.
+FT   STRAND       26     30       {ECO:0000244|PDB:1V7Z}.
+FT   STRAND       38     40       {ECO:0000244|PDB:1V7Z}.
+FT   HELIX        44     60       {ECO:0000244|PDB:1V7Z}.
+FT   HELIX        76     79       {ECO:0000244|PDB:1V7Z}.
+FT   STRAND       84     86       {ECO:0000244|PDB:1V7Z}.
+FT   HELIX        92    109       {ECO:0000244|PDB:1V7Z}.
+FT   STRAND      113    118       {ECO:0000244|PDB:1V7Z}.
+FT   HELIX       121    123       {ECO:0000244|PDB:1V7Z}.
+FT   HELIX       124    140       {ECO:0000244|PDB:1V7Z}.
+FT   STRAND      147    152       {ECO:0000244|PDB:1V7Z}.
+FT   HELIX       153    156       {ECO:0000244|PDB:1V7Z}.
+FT   HELIX       160    166       {ECO:0000244|PDB:1V7Z}.
+FT   HELIX       174    176       {ECO:0000244|PDB:3A6F}.
+FT   STRAND      178    180       {ECO:0000244|PDB:1V7Z}.
+FT   HELIX       181    190       {ECO:0000244|PDB:1V7Z}.
+FT   HELIX       192    194       {ECO:0000244|PDB:1V7Z}.
+FT   HELIX       197    199       {ECO:0000244|PDB:1V7Z}.
+FT   STRAND      210    215       {ECO:0000244|PDB:1V7Z}.
+FT   HELIX       218    220       {ECO:0000244|PDB:1V7Z}.
+FT   HELIX       235    256       {ECO:0000244|PDB:1V7Z}.
+SQ   SEQUENCE   260 AA;  28569 MW;  E530A7513F57A762 CRC64;
+     MSKSVFVGEL TWKEYEARVA AGDCVLMLPV GALEQHGHHM CMNVDVLLPT AVCKRVAERI
+     GALVMPGLQY GYKSQQKSGG GNHFPGTTSL DGATLTGTVQ DIIRELARHG ARRLVLMNGH
+     YENSMFIVEG IDLALRELRY AGIQDFKVVV LSYWDFVKDP AVIQQLYPEG FLGWDIEHGG
+     VFETSLMLAL YPDLVDLDRV VDHPPATFPP YDVFPVDPAR TPAPGTLSSA KTASREKGEL
+     ILEVCVQGIA DAIREEFPPT
+//

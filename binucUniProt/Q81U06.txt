@@ -1,0 +1,124 @@
+ID   Q81U06_BACAN            Unreviewed;       244 AA.
+AC   Q81U06; E9RBP0; E9RBP1; Q6I291; Q6KW26;
+DT   01-JUN-2003, integrated into UniProtKB/TrEMBL.
+DT   01-JUN-2003, sequence version 1.
+DT   22-JUL-2015, entry version 98.
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAT30186.1};
+DE   SubName: Full=Uncharacterized protein yhfI {ECO:0000313|EMBL:BAR78159.1};
+GN   Name=yhfI {ECO:0000313|EMBL:BAR78159.1};
+GN   OrderedLocusNames=GBAA_1088 {ECO:0000313|EMBL:AAT30186.1};
+GN   ORFNames=BASH2_04752 {ECO:0000313|EMBL:BAR78159.1};
+OS   Bacillus anthracis.
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus;
+OC   Bacillus cereus group.
+OX   NCBI_TaxID=1392 {ECO:0000313|Proteomes:UP000000594};
+RN   [1] {ECO:0000213|PDB:1ZKP}
+RP   X-RAY CRYSTALLOGRAPHY (1.50 ANGSTROMS) IN COMPLEX WITH ZINC.
+RG   Midwest Center for Structural Genomics (MCSG);
+RA   Brunzelle J.S., Minasov G., Shuvalova L., Collart F.R., Anderson W.F.;
+RT   "1.5A Resolution Crystal Structure of a Metallo Beta Lactamase
+RT   FamilyProtein, the ELAC Homolgue of Bacillus anthracis, a Putative
+RT   Ribonuclease.";
+RL   Submitted (MAY-2005) to the PDB data bank.
+RN   [2] {ECO:0000313|EMBL:AAT30186.1, ECO:0000313|Proteomes:UP000000594}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Ames Ancestor {ECO:0000313|EMBL:AAT30186.1}, and
+RC   Ames ancestor {ECO:0000313|Proteomes:UP000000594};
+RX   PubMed=18952800; DOI=10.1128/JB.01347-08;
+RA   Ravel J., Jiang L., Stanley S.T., Wilson M.R., Decker R.S., Read T.D.,
+RA   Worsham P., Keim P.S., Salzberg S.L., Fraser-Liggett C.M., Rasko D.A.;
+RT   "The complete genome sequence of Bacillus anthracis Ames 'Ancestor'.";
+RL   J. Bacteriol. 191:445-446(2009).
+RN   [3] {ECO:0000313|EMBL:BAR78159.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=Shikan-NIID {ECO:0000313|EMBL:BAR78159.1};
+RA   Okutani A., Morikawa S., Inoue S.;
+RT   "Bacillus anthracis whole genome sequence.";
+RL   Submitted (MAR-2015) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE017334; AAT30186.1; -; Genomic_DNA.
+DR   EMBL; AP014833; BAR78159.1; -; Genomic_DNA.
+DR   RefSeq; WP_000784654.1; NZ_KN050651.1.
+DR   PDB; 1ZKP; X-ray; 1.50 A; A/B/C/D=1-244.
+DR   PDBsum; 1ZKP; -.
+DR   ProteinModelPortal; Q81U06; -.
+DR   SMR; Q81U06; 1-244.
+DR   STRING; 198094.BA_1088; -.
+DR   DNASU; 1087662; -.
+DR   EnsemblBacteria; AAP25067; AAP25067; BA_1088.
+DR   EnsemblBacteria; AAT30186; AAT30186; GBAA_1088.
+DR   EnsemblBacteria; AAT53340; AAT53340; BAS1016.
+DR   EnsemblBacteria; AIF55474; AIF55474; HYU01_05710.
+DR   EnsemblBacteria; AIK07179; AIK07179; DH23_1053.
+DR   EnsemblBacteria; AIK54205; AIK54205; DJ45_4778.
+DR   EnsemblBacteria; AIK55307; AIK55307; DJ44_4963.
+DR   EnsemblBacteria; AIM05017; AIM05017; BACvac02_1202.
+DR   EnsemblBacteria; AIM10421; AIM10421; BAHan_1228.
+DR   EnsemblBacteria; AJA85502; AJA85502; RT54_05690.
+DR   EnsemblBacteria; KFJ80000; KFJ80000; DJ42_1876.
+DR   EnsemblBacteria; KFL65828; KFL65828; DJ49_3865.
+DR   EnsemblBacteria; KFL71298; KFL71298; DJ43_348.
+DR   EnsemblBacteria; KGZ42301; KGZ42301; OY22_28405.
+DR   EnsemblBacteria; KGZ43358; KGZ43358; OY21_24670.
+DR   EnsemblBacteria; KGZ57455; KGZ57455; NX97_00740.
+DR   EnsemblBacteria; KGZ58499; KGZ58499; OY23_27230.
+DR   EnsemblBacteria; KGZ59447; KGZ59447; OY24_27195.
+DR   EnsemblBacteria; KGZ60397; KGZ60397; OY25_26130.
+DR   EnsemblBacteria; KGZ80679; KGZ80679; OY28_19290.
+DR   EnsemblBacteria; KGZ82809; KGZ82809; OY27_12445.
+DR   EnsemblBacteria; KGZ91708; KGZ91708; OY29_24190.
+DR   EnsemblBacteria; KGZ92939; KGZ92939; OY32_27225.
+DR   EnsemblBacteria; KGZ96227; KGZ96227; OY30_16990.
+DR   EnsemblBacteria; KHA09180; KHA09180; OY34_20850.
+DR   EnsemblBacteria; KHA10475; KHA10475; OY35_22420.
+DR   EnsemblBacteria; KHA21034; KHA21034; OY37_26985.
+DR   EnsemblBacteria; KHA28310; KHA28310; OY38_13225.
+DR   EnsemblBacteria; KHA30750; KHA30750; OY36_01665.
+DR   EnsemblBacteria; KHA33465; KHA33465; OY39_26055.
+DR   EnsemblBacteria; KHG50146; KHG50146; OY31_16620.
+DR   EnsemblBacteria; KHG57834; KHG57834; OY33_05665.
+DR   EnsemblBacteria; KHG62326; KHG62326; OY20_08475.
+DR   KEGG; ban:BA_1088; -.
+DR   KEGG; banh:HYU01_05710; -.
+DR   KEGG; bar:GBAA_1088; -.
+DR   KEGG; bat:BAS1016; -.
+DR   HOGENOM; HOG000272418; -.
+DR   OMA; ILISHHH; -.
+DR   OrthoDB; EOG69WFP4; -.
+DR   BioCyc; BANT260799:GJAJ-1093-MONOMER; -.
+DR   BioCyc; BANT261594:GJ7F-1141-MONOMER; -.
+DR   Proteomes; UP000000594; Chromosome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.60.15.10; -; 1.
+DR   InterPro; IPR001279; Beta-lactamas-like.
+DR   SMART; SM00849; Lactamase_B; 1.
+DR   SUPFAM; SSF56281; SSF56281; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:1ZKP};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000594};
+KW   Metal-binding {ECO:0000213|PDB:1ZKP};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000594};
+KW   Zinc {ECO:0000213|PDB:1ZKP}.
+FT   METAL        59     59       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:1ZKP}.
+FT   METAL        61     61       Zinc 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:1ZKP}.
+FT   METAL        63     63       Zinc 2. {ECO:0000213|PDB:1ZKP}.
+FT   METAL        64     64       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:1ZKP}.
+FT   METAL       134    134       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:1ZKP}.
+FT   METAL       155    155       Zinc 1. {ECO:0000213|PDB:1ZKP}.
+FT   METAL       155    155       Zinc 2. {ECO:0000213|PDB:1ZKP}.
+FT   METAL       211    211       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:1ZKP}.
+SQ   SEQUENCE   244 AA;  26774 MW;  72A6844E353321DB CRC64;
+     MKMTVVGFWG GFPEAGEATS GYLFEHDGFR LLVDCGSGVL AQLQKYITPS DIDAVVLSHY
+     HHDHVADIGV LQYARLITSA TKGQLPELPI YGHTFDENGF HSLTHEPHTK GIPYNPEETL
+     QIGPFSISFL KTVHPVTCFA MRITAGNDIV VYSADSSYIP EFIPFTKDAD LFICECNMYA
+     HQEAAKAGHM NSTEVASIAK DANVKELLLT HLPHTGNPAD LVTEAKQIFS GHITLAHSGY
+     VWNS
+//

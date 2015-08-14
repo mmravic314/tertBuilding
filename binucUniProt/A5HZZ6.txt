@@ -1,0 +1,79 @@
+ID   A5HZZ6_CLOBH            Unreviewed;       293 AA.
+AC   A5HZZ6; A7G1U6;
+DT   26-JUN-2007, integrated into UniProtKB/TrEMBL.
+DT   26-JUN-2007, sequence version 1.
+DT   24-JUN-2015, entry version 57.
+DE   SubName: Full=Hemagglutinin component of the neurotoxin complex {ECO:0000313|EMBL:CAL82357.1};
+GN   Name=ha33 {ECO:0000313|EMBL:CAL82357.1};
+GN   OrderedLocusNames=CBO0803 {ECO:0000313|EMBL:CAL82357.1};
+OS   Clostridium botulinum (strain Hall / ATCC 3502 / NCTC 13319 / Type A).
+OC   Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+OC   Clostridium.
+OX   NCBI_TaxID=441771 {ECO:0000313|Proteomes:UP000001986};
+RN   [1] {ECO:0000313|EMBL:CAL82357.1, ECO:0000313|Proteomes:UP000001986}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Hall / ATCC 3502 / NCTC 13319 / Type A [Sanger]
+RC   {ECO:0000313|Proteomes:UP000001986};
+RX   PubMed=17519437; DOI=10.1101/gr.6282807;
+RA   Sebaihia M., Peck M.W., Minton N.P., Thomson N.R., Holden M.T.G.,
+RA   Mitchell W.J., Carter A.T., Bentley S.D., Mason D.R., Crossman L.,
+RA   Paul C.J., Ivens A., Wells-Bennik M.H.J., Davis I.J.,
+RA   Cerdeno-Tarraga A.M., Churcher C., Quail M.A., Chillingworth T.,
+RA   Feltwell T., Fraser A., Goodhead I., Hance Z., Jagels K., Larke N.,
+RA   Maddison M., Moule S., Mungall K., Norbertczak H., Rabbinowitsch E.,
+RA   Sanders M., Simmonds M., White B., Whithead S., Parkhill J.;
+RT   "Genome sequence of a proteolytic (Group I) Clostridium botulinum
+RT   strain Hall A and comparative analysis of the clostridial genomes.";
+RL   Genome Res. 17:1082-1092(2007).
+RN   [2] {ECO:0000213|PDB:4QD2}
+RP   X-RAY CRYSTALLOGRAPHY (2.40 ANGSTROMS) OF 2-293.
+RX   PubMed=24948737;
+RA   Lee K., Zhong X., Gu S., Kruel A.M., Dorner M.B., Perry K., Rummel A.,
+RA   Dong M., Jin R.;
+RT   "Molecular basis for disruption of E-cadherin adhesion by botulinum
+RT   neurotoxin A complex.";
+RL   Science 344:1405-1410(2014).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AM412317; CAL82357.1; -; Genomic_DNA.
+DR   RefSeq; WP_011948508.1; NC_009698.1.
+DR   RefSeq; YP_001253339.1; NC_009495.1.
+DR   RefSeq; YP_001386735.1; NC_009698.1.
+DR   PDB; 4QD2; X-ray; 2.40 A; C/D/H/I=2-293.
+DR   PDBsum; 4QD2; -.
+DR   ProteinModelPortal; A5HZZ6; -.
+DR   SMR; A5HZZ6; 10-293.
+DR   CAZy; CBM13; Carbohydrate-Binding Module Family 13.
+DR   EnsemblBacteria; ABS38942; ABS38942; CLC_0859.
+DR   GeneID; 5185058; -.
+DR   GeneID; 5401102; -.
+DR   KEGG; cbh:CLC_0859; -.
+DR   KEGG; cbo:CBO0803; -.
+DR   PATRIC; 19363711; VBICloBot22612_0799.
+DR   HOGENOM; HOG000277130; -.
+DR   KO; K16624; -.
+DR   OMA; NISAQQD; -.
+DR   OrthoDB; EOG6ZPSWZ; -.
+DR   BioCyc; CBOT413999:GJ72-869-MONOMER; -.
+DR   BioCyc; CBOT441771:GIWX-830-MONOMER; -.
+DR   Proteomes; UP000001986; Chromosome.
+DR   InterPro; IPR000772; Ricin_B_lectin.
+DR   Pfam; PF14200; RicinB_lectin_2; 1.
+DR   SMART; SM00458; RICIN; 2.
+DR   SUPFAM; SSF50370; SSF50370; 2.
+DR   PROSITE; PS50231; RICIN_B_LECTIN; 2.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4QD2};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001986};
+KW   Neurotoxin {ECO:0000313|EMBL:CAL82357.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001986};
+KW   Toxin {ECO:0000313|EMBL:CAL82357.1}.
+SQ   SEQUENCE   293 AA;  33873 MW;  C140FE3B29058090 CRC64;
+     MEHYSVIQNS LNDKIVTISC KADTNLFFYQ VAGNVSLFQQ TRNYLERWRL IYDSNKAAYK
+     IKSMDIHNTN LVLTWNAPTH NISTQQDSNA DNQYWLLLKD IGNNSFIIAS YKNPNLVLYA
+     DTVARNLKLS TLNNSNYIKF IIEDYIISDL NNFTCKISPI LDLNKVVQQV DVTNLNVNLY
+     TWDYGRNQKW TIRYNEEKAA YQFFNTILSN GVLTWIFSNG NTVRVSSSND QNNDAQYWLI
+     NPVSDTDETY TITNLRDTTK ALDLYGGQTA NGTAIQVFNY HGDDNQKWNI RNP
+//

@@ -1,0 +1,175 @@
+ID   PHLC_CLOPF              Reviewed;         398 AA.
+AC   Q9RF12;
+DT   10-OCT-2002, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-2000, sequence version 1.
+DT   27-MAY-2015, entry version 95.
+DE   RecName: Full=Phospholipase C;
+DE            Short=PLC;
+DE            EC=3.1.4.3;
+DE   AltName: Full=Alpha-toxin;
+DE   AltName: Full=Hemolysin;
+DE   AltName: Full=Lecithinase;
+DE   AltName: Full=Phosphatidylcholine cholinephosphohydrolase;
+DE   Flags: Precursor;
+GN   Name=plc; Synonyms=cpa;
+OS   Clostridium perfringens.
+OC   Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+OC   Clostridium.
+OX   NCBI_TaxID=1502;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], CHARACTERIZATION, AND X-RAY
+RP   CRYSTALLOGRAPHY (2.4 ANGSTROMS) OF THE OPEN FORM.
+RC   STRAIN=SWCP;
+RX   PubMed=12009886; DOI=10.1021/bi012015v;
+RA   Justin N., Walker N., Bullifent H.L., Songer G., Bueschel D.M.,
+RA   Jost H., Naylor C.E., Miller J., Moss D.S., Titball R.W., Basak A.K.;
+RT   "The first strain of Clostridium perfringens isolated from an avian
+RT   source has an alpha-toxin with divergent structural and kinetic
+RT   properties.";
+RL   Biochemistry 41:6253-6262(2002).
+RN   [2]
+RP   REVIEW.
+RX   PubMed=16887662; DOI=10.1006/anae.1999.0191;
+RA   Titball R.W., Naylor C.E., Basak A.K.;
+RT   "The Clostridium perfringens alpha-toxin.";
+RL   Anaerobe 5:51-64(1999).
+RN   [3]
+RP   REVIEW.
+RX   PubMed=11008117; DOI=10.1016/S1286-4579(00)01281-8;
+RA   Jepson M., Titball R.W.;
+RT   "Structure and function of clostridial phospholipases C.";
+RL   Microbes Infect. 2:1277-1284(2000).
+CC   -!- FUNCTION: Bacterial hemolysins are exotoxins that attack blood
+CC       cell membranes and cause cell rupture. Constitutes an essential
+CC       virulence factor in gas gangrene. Binds to eukaryotic membranes
+CC       where it hydrolyzes both phosphatidylcholine and sphingomyelin,
+CC       causing cell rupture. The diacylglycerol produced can activate
+CC       both the arachidonic acid pathway, leading to modulation of the
+CC       inflammatory response cascade and thrombosis, and protein kinase
+CC       C, leading to activation of eukaryotic phospholipases and further
+CC       membrane damage.
+CC   -!- CATALYTIC ACTIVITY: A phosphatidylcholine + H(2)O = 1,2-diacyl-sn-
+CC       glycerol + phosphocholine.
+CC   -!- COFACTOR:
+CC       Name=Ca(2+); Xref=ChEBI:CHEBI:29108;
+CC       Note=Binds 3 Ca(2+) ions per subunit.;
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC       Note=Binds 3 Zn(2+) ions per subunit.;
+CC   -!- SUBCELLULAR LOCATION: Secreted.
+CC   -!- DOMAIN: The protein is composed of 2 domains; the N-terminal
+CC       domain contains the phospholipase C active site (PLC), in a cleft
+CC       which is also occupied by the 3 zinc ions. The C-terminal domain
+CC       is a putative phospholipid-recognition domain, which shows
+CC       structural homology with phospholipid-binding C2-like domains from
+CC       a range of eukaryotic proteins. The ability to bind membrane
+CC       phospholipids in a Ca(2+) dependent manner and toxicity is
+CC       conferred by this C-terminal domain, which also contributes to the
+CC       sphingomyelinase activity.
+CC   -!- MISCELLANEOUS: This bacteria was isolated from a diseased swan.
+CC   -!- SIMILARITY: Contains 1 PLAT domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00152}.
+CC   -!- SIMILARITY: Contains 1 Zn-dependent PLC domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00678}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF204209; AAF20094.1; -; Genomic_DNA.
+DR   PDB; 1KHO; X-ray; 2.40 A; A/B=29-398.
+DR   PDBsum; 1KHO; -.
+DR   ProteinModelPortal; Q9RF12; -.
+DR   SMR; Q9RF12; 29-398.
+DR   EvolutionaryTrace; Q9RF12; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0034480; F:phosphatidylcholine phospholipase C activity; IEA:UniProtKB-EC.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:InterPro.
+DR   GO; GO:0044179; P:hemolysis in other organism; IEA:UniProtKB-KW.
+DR   GO; GO:0009405; P:pathogenesis; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.575.10; -; 1.
+DR   Gene3D; 2.60.60.20; -; 1.
+DR   InterPro; IPR008976; Lipase_LipOase.
+DR   InterPro; IPR001024; PLAT/LH2_dom.
+DR   InterPro; IPR008947; PLipase_C/P1_nuclease.
+DR   InterPro; IPR001531; PLipaseC_domain.
+DR   InterPro; IPR029002; PLPC/GPLD1.
+DR   Pfam; PF01477; PLAT; 1.
+DR   Pfam; PF00882; Zn_dep_PLPC; 1.
+DR   PRINTS; PR00479; PRPHPHLPASEC.
+DR   ProDom; PD003946; PLipaseC_Zn-bd_prok; 1.
+DR   SMART; SM00770; Zn_dep_PLPC; 1.
+DR   SUPFAM; SSF48537; SSF48537; 1.
+DR   SUPFAM; SSF49723; SSF49723; 1.
+DR   PROSITE; PS50095; PLAT; 1.
+DR   PROSITE; PS00384; PROKAR_ZN_DEPEND_PLPC_1; 1.
+DR   PROSITE; PS51346; PROKAR_ZN_DEPEND_PLPC_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Calcium; Cytolysis; Hemolysis; Hydrolase; Metal-binding;
+KW   Secreted; Signal; Toxin; Virulence; Zinc.
+FT   SIGNAL        1     28       {ECO:0000250}.
+FT   CHAIN        29    398       Phospholipase C.
+FT                                /FTId=PRO_0000023932.
+FT   DOMAIN       29    278       Zn-dependent PLC. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00678}.
+FT   DOMAIN      284    398       PLAT. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00152}.
+FT   REGION      275    283       Linker.
+FT   METAL        29     29       Zinc 1.
+FT   METAL        39     39       Zinc 1.
+FT   METAL        84     84       Zinc 3.
+FT   METAL        96     96       Zinc 3.
+FT   METAL       154    154       Zinc 3.
+FT   METAL       158    158       Zinc 1.
+FT   METAL       158    158       Zinc 3.
+FT   METAL       164    164       Zinc 2.
+FT   METAL       176    176       Zinc 2.
+FT   METAL       180    180       Zinc 2.
+FT   METAL       299    299       Calcium 1; via carbonyl oxygen.
+FT                                {ECO:0000250}.
+FT   METAL       300    300       Calcium 3. {ECO:0000250}.
+FT   METAL       301    301       Calcium 3. {ECO:0000250}.
+FT   METAL       321    321       Calcium 2. {ECO:0000250}.
+FT   METAL       322    322       Calcium 2. {ECO:0000250}.
+FT   METAL       324    324       Calcium 2; via carbonyl oxygen.
+FT                                {ECO:0000250}.
+FT   METAL       325    325       Calcium 3. {ECO:0000250}.
+FT   METAL       326    326       Calcium 2. {ECO:0000250}.
+FT   METAL       326    326       Calcium 3. {ECO:0000250}.
+FT   METAL       365    365       Calcium 1. {ECO:0000250}.
+FT   TURN         33     35       {ECO:0000244|PDB:1KHO}.
+FT   HELIX        38     53       {ECO:0000244|PDB:1KHO}.
+FT   HELIX        60     71       {ECO:0000244|PDB:1KHO}.
+FT   HELIX        73     81       {ECO:0000244|PDB:1KHO}.
+FT   HELIX        82     84       {ECO:0000244|PDB:1KHO}.
+FT   HELIX        94     96       {ECO:0000244|PDB:1KHO}.
+FT   TURN        100    102       {ECO:0000244|PDB:1KHO}.
+FT   STRAND      103    105       {ECO:0000244|PDB:1KHO}.
+FT   HELIX       111    114       {ECO:0000244|PDB:1KHO}.
+FT   HELIX       122    138       {ECO:0000244|PDB:1KHO}.
+FT   HELIX       142    159       {ECO:0000244|PDB:1KHO}.
+FT   HELIX       162    165       {ECO:0000244|PDB:1KHO}.
+FT   TURN        170    172       {ECO:0000244|PDB:1KHO}.
+FT   HELIX       175    185       {ECO:0000244|PDB:1KHO}.
+FT   HELIX       187    190       {ECO:0000244|PDB:1KHO}.
+FT   HELIX       202    208       {ECO:0000244|PDB:1KHO}.
+FT   HELIX       213    234       {ECO:0000244|PDB:1KHO}.
+FT   HELIX       242    272       {ECO:0000244|PDB:1KHO}.
+FT   STRAND      285    292       {ECO:0000244|PDB:1KHO}.
+FT   STRAND      302    310       {ECO:0000244|PDB:1KHO}.
+FT   STRAND      315    319       {ECO:0000244|PDB:1KHO}.
+FT   STRAND      332    338       {ECO:0000244|PDB:1KHO}.
+FT   HELIX       346    348       {ECO:0000244|PDB:1KHO}.
+FT   STRAND      349    357       {ECO:0000244|PDB:1KHO}.
+FT   STRAND      359    362       {ECO:0000244|PDB:1KHO}.
+FT   STRAND      368    375       {ECO:0000244|PDB:1KHO}.
+FT   STRAND      378    384       {ECO:0000244|PDB:1KHO}.
+FT   STRAND      391    396       {ECO:0000244|PDB:1KHO}.
+SQ   SEQUENCE   398 AA;  45598 MW;  EF3C95AF603CD5A7 CRC64;
+     MKRKIYKLLI CATIATSLWA VRTTKVYAWD GKADGTGTHA MIATQGVTIL ENDLSSNEPE
+     VIRNNLEILK QNMHDLQLGS TYPDYDKNAY DLYQDHFWDP DTDNNFTKDS KWYLSYSIPD
+     TAESQIRKFS ALARYEWKRG NYKQATFYLG EAMHYFGDAD TPYHAANVTA VDSPGHVKFE
+     TFAEDRKDQY KINTTGSKTN DAFYSNILTN EDFNSWSKEF ARSFAKTAKD LYYSHANMSC
+     SWDEWDYAAK VALANSQKGT SGYIYRFLHD VSDGKDSSAN KNVNELVAYI TTGGEKYAGT
+     DDYMYFGIKT KDGQTQEWTM DNPGNDFMTG SQDTYTFKLK DKNLKIDDIQ NMWIRKSKYT
+     EFGDDYKPAN IKVIANGNVV LNKDINEWIS GNSTYNIK
+//

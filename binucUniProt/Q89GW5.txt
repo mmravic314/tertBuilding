@@ -1,0 +1,110 @@
+ID   Q89GW5_BRADU            Unreviewed;       294 AA.
+AC   Q89GW5;
+DT   01-JUN-2003, integrated into UniProtKB/TrEMBL.
+DT   01-JUN-2003, sequence version 1.
+DT   24-JUN-2015, entry version 76.
+DE   SubName: Full=Blr6230 protein {ECO:0000313|EMBL:BAC51495.1};
+GN   OrderedLocusNames=blr6230 {ECO:0000313|EMBL:BAC51495.1};
+OS   Bradyrhizobium diazoefficiens (strain JCM 10833 / IAM 13628 / NBRC
+OS   14792 / USDA 110).
+OC   Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales;
+OC   Bradyrhizobiaceae; Bradyrhizobium.
+OX   NCBI_TaxID=224911 {ECO:0000313|EMBL:BAC51495.1, ECO:0000313|Proteomes:UP000002526};
+RN   [1] {ECO:0000313|Proteomes:UP000002526}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=JCM 10833 / IAM 13628 / NBRC 14792 / USDA 110
+RC   {ECO:0000313|Proteomes:UP000002526};
+RX   PubMed=12597275; DOI=10.1093/dnares/9.6.189;
+RA   Kaneko T., Nakamura Y., Sato S., Minamisawa K., Uchiumi T.,
+RA   Sasamoto S., Watanabe A., Idesawa K., Iriguchi M., Kawashima K.,
+RA   Kohara M., Matsumoto M., Shimpo S., Tsuruoka H., Wada T., Yamada M.,
+RA   Tabata S.;
+RT   "Complete genomic sequence of nitrogen-fixing symbiotic bacterium
+RT   Bradyrhizobium japonicum USDA110.";
+RL   DNA Res. 9:189-197(2002).
+RN   [2] {ECO:0000213|PDB:2GMN}
+RP   X-RAY CRYSTALLOGRAPHY (1.40 ANGSTROMS) OF 21-294 IN COMPLEX WITH ZINC,
+RP   AND DISULFIDE BONDS.
+RX   PubMed=16723554; DOI=10.1128/AAC.01551-05;
+RA   Stoczko M., Frere J.M., Rossolini G.M., Docquier J.D.;
+RT   "Postgenomic scan of metallo-beta-lactamase homologues in
+RT   rhizobacteria: identification and characterization of BJP-1, a
+RT   subclass B3 ortholog from Bradyrhizobium japonicum.";
+RL   Antimicrob. Agents Chemother. 50:1973-1981(2006).
+RN   [3] {ECO:0000213|PDB:3LVZ, ECO:0000213|PDB:3M8T}
+RP   X-RAY CRYSTALLOGRAPHY (1.33 ANGSTROMS) IN COMPLEX WITH ZINC, AND
+RP   DISULFIDE BONDS.
+RX   PubMed=20696874; DOI=10.1128/AAC.00409-10;
+RA   Docquier J.D., Benvenuti M., Calderone V., Stoczko M., Menciassi N.,
+RA   Rossolini G.M., Mangani S.;
+RT   "High-resolution crystal structure of the subclass B3 metallo-beta-
+RT   lactamase BJP-1: rational basis for substrate specificity and
+RT   interaction with sulfonamides.";
+RL   Antimicrob. Agents Chemother. 54:4343-4351(2010).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; BA000040; BAC51495.1; -; Genomic_DNA.
+DR   RefSeq; NP_772870.1; NC_004463.1.
+DR   RefSeq; WP_011088970.1; NC_004463.1.
+DR   PDB; 2GMN; X-ray; 1.40 A; A/B=21-294.
+DR   PDB; 3LVZ; X-ray; 1.40 A; A/B=1-294.
+DR   PDB; 3M8T; X-ray; 1.33 A; A/B=1-294.
+DR   PDBsum; 2GMN; -.
+DR   PDBsum; 3LVZ; -.
+DR   ProteinModelPortal; Q89GW5; -.
+DR   SMR; Q89GW5; 29-292.
+DR   STRING; 224911.blr6230; -.
+DR   EnsemblBacteria; BAC51495; BAC51495; BAC51495.
+DR   GeneID; 1054582; -.
+DR   KEGG; bja:blr6230; -.
+DR   PATRIC; 21196268; VBIBraJap65052_6369.
+DR   HOGENOM; HOG000271558; -.
+DR   InParanoid; Q89GW5; -.
+DR   KO; K17837; -.
+DR   OrthoDB; EOG69GZQ4; -.
+DR   PhylomeDB; Q89GW5; -.
+DR   BioCyc; BJAP224911:GJEJ-6277-MONOMER; -.
+DR   EvolutionaryTrace; Q89GW5; -.
+DR   Proteomes; UP000002526; Chromosome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.60.15.10; -; 1.
+DR   InterPro; IPR001279; Beta-lactamas-like.
+DR   Pfam; PF00753; Lactamase_B; 1.
+DR   SMART; SM00849; Lactamase_B; 1.
+DR   SUPFAM; SSF56281; SSF56281; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3LVZ};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002526};
+KW   Metal-binding {ECO:0000213|PDB:3LVZ};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000002526};
+KW   Zinc {ECO:0000213|PDB:3LVZ}.
+FT   METAL        39     39       Zinc 1.
+FT   METAL        81     81       Zinc 2.
+FT   METAL        86     86       Zinc 1.
+FT   METAL       101    101       Zinc 3; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3LVZ}.
+FT   METAL       103    103       Zinc 3; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3LVZ}.
+FT   METAL       105    105       Zinc 4. {ECO:0000213|PDB:3LVZ}.
+FT   METAL       106    106       Zinc 4; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3LVZ}.
+FT   METAL       112    112       Zinc 2.
+FT   METAL       116    116       Zinc 2.
+FT   METAL       158    158       Zinc 5. {ECO:0000213|PDB:3LVZ}.
+FT   METAL       172    172       Zinc 5; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3LVZ}.
+FT   METAL       177    177       Zinc 3; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3LVZ}.
+FT   METAL       229    229       Zinc 5. {ECO:0000213|PDB:3LVZ}.
+FT   METAL       242    242       Zinc 4; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3LVZ}.
+FT   DISULFID    181    201       {ECO:0000213|PDB:3LVZ}.
+SQ   SEQUENCE   294 AA;  31942 MW;  2831758501B517FD CRC64;
+     MRRLTAALCA LTLLSTGAQA QTIKDFLAVA MKKWTAPFEP FQLIDNIYYV GTDGIAVYVI
+     KTSQGLILMD TAMPQSTGMI KDNIAKLGFK VADIKLILNT HAHLDHTGGF AEIKKETGAQ
+     LVAGERDKPL LEGGYYPGDE KNEDLAFPAV KVDRAVKEGD RVTLGDTTLT AHATPGHSPG
+     CTSWEMTVKD GKEDREVLFF CSGTVALNRL VGQPTYAGIV DDYRATFAKA KAMKIDVLLG
+     PHPEVYGMQA KRAEMKDGAP NPFIKPGELV TYATSLSEDF DKQLAKQTAA LEKK
+//

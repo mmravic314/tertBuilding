@@ -1,0 +1,243 @@
+ID   TTM3_ARATH              Reviewed;         210 AA.
+AC   Q9SIY3; B9DG04;
+DT   16-APR-2014, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-2000, sequence version 1.
+DT   22-JUL-2015, entry version 95.
+DE   RecName: Full=Triphosphate tunel metalloenzyme 3;
+DE   AltName: Full=Adenosinetriphosphatase;
+DE            Short=ATPase;
+DE            EC=3.6.1.3;
+DE   AltName: Full=Triphosphatase;
+DE            Short=PPPase;
+DE            EC=3.6.1.25;
+GN   Name=TTM3; OrderedLocusNames=At2g11890; ORFNames=F23M2.5;
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=10617197; DOI=10.1038/45471;
+RA   Lin X., Kaul S., Rounsley S.D., Shea T.P., Benito M.-I., Town C.D.,
+RA   Fujii C.Y., Mason T.M., Bowman C.L., Barnstead M.E., Feldblyum T.V.,
+RA   Buell C.R., Ketchum K.A., Lee J.J., Ronning C.M., Koo H.L.,
+RA   Moffat K.S., Cronin L.A., Shen M., Pai G., Van Aken S., Umayam L.,
+RA   Tallon L.J., Gill J.E., Adams M.D., Carrera A.J., Creasy T.H.,
+RA   Goodman H.M., Somerville C.R., Copenhaver G.P., Preuss D.,
+RA   Nierman W.C., White O., Eisen J.A., Salzberg S.L., Fraser C.M.,
+RA   Venter J.C.;
+RT   "Sequence and analysis of chromosome 2 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 402:761-768(1999).
+RN   [2]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RG   The Arabidopsis Information Resource (TAIR);
+RL   Submitted (APR-2011) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   STRAIN=cv. Columbia;
+RX   PubMed=14593172; DOI=10.1126/science.1088305;
+RA   Yamada K., Lim J., Dale J.M., Chen H., Shinn P., Palm C.J.,
+RA   Southwick A.M., Wu H.C., Kim C.J., Nguyen M., Pham P.K., Cheuk R.F.,
+RA   Karlin-Newmann G., Liu S.X., Lam B., Sakano H., Wu T., Yu G.,
+RA   Miranda M., Quach H.L., Tripp M., Chang C.H., Lee J.M., Toriumi M.J.,
+RA   Chan M.M., Tang C.C., Onodera C.S., Deng J.M., Akiyama K., Ansari Y.,
+RA   Arakawa T., Banh J., Banno F., Bowser L., Brooks S.Y., Carninci P.,
+RA   Chao Q., Choy N., Enju A., Goldsmith A.D., Gurjal M., Hansen N.F.,
+RA   Hayashizaki Y., Johnson-Hopson C., Hsuan V.W., Iida K., Karnes M.,
+RA   Khan S., Koesema E., Ishida J., Jiang P.X., Jones T., Kawai J.,
+RA   Kamiya A., Meyers C., Nakajima M., Narusaka M., Seki M., Sakurai T.,
+RA   Satou M., Tamse R., Vaysberg M., Wallender E.K., Wong C., Yamamura Y.,
+RA   Yuan S., Shinozaki K., Davis R.W., Theologis A., Ecker J.R.;
+RT   "Empirical analysis of transcriptional activity in the Arabidopsis
+RT   genome.";
+RL   Science 302:842-846(2003).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   STRAIN=cv. Columbia;
+RA   Totoki Y., Seki M., Ishida J., Nakajima M., Enju A., Kamiya A.,
+RA   Narusaka M., Shin-i T., Nakagawa M., Sakamoto N., Oishi K., Kohara Y.,
+RA   Kobayashi M., Toyoda A., Sakaki Y., Sakurai T., Iida K., Akiyama K.,
+RA   Satou M., Toyoda T., Konagaya A., Carninci P., Kawai J.,
+RA   Hayashizaki Y., Shinozaki K.;
+RT   "Large-scale analysis of RIKEN Arabidopsis full-length (RAFL) cDNAs.";
+RL   Submitted (JUL-2006) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).
+RC   STRAIN=cv. Columbia; TISSUE=Root;
+RX   PubMed=19423640; DOI=10.1093/dnares/dsp009;
+RA   Iida K., Fukami-Kobayashi K., Toyoda A., Sakaki Y., Kobayashi M.,
+RA   Seki M., Shinozaki K.;
+RT   "Analysis of multiple occurrences of alternative splicing events in
+RT   Arabidopsis thaliana using novel sequenced full-length cDNAs.";
+RL   DNA Res. 16:155-164(2009).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RA   Brover V.V., Troukhan M.E., Alexandrov N.A., Lu Y.-P., Flavell R.B.,
+RA   Feldmann K.A.;
+RT   "Full-length cDNA from Arabidopsis thaliana.";
+RL   Submitted (MAR-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [7]
+RP   X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS), FUNCTION, CATALYTIC ACTIVITY,
+RP   BIOPHYSICOCHEMICAL PROPERTIES, COFACTOR, ENZYME REGULATION,
+RP   MUTAGENESIS OF GLU-2; ARG-52; GLU-154 AND GLU-171, SUBCELLULAR
+RP   LOCATION, TISSUE SPECIFICITY, AND DISRUPTION PHENOTYPE.
+RX   PubMed=24004165; DOI=10.1111/tpj.12325;
+RA   Moeder W., Garcia-Petit C., Ung H., Fucile G., Samuel M.A.,
+RA   Christendat D., Yoshioka K.;
+RT   "Crystal structure and biochemical analyses reveal that the
+RT   Arabidopsis triphosphate tunnel metalloenzyme AtTTM3 is a
+RT   tripolyphosphatase involved in root development.";
+RL   Plant J. 76:615-626(2013).
+CC   -!- FUNCTION: Involved in the hydrolysis of the beta-gamma-
+CC       phosphoanhydride linkage of triphosphate-containing substrates
+CC       (inorganic or nucleoside-linked). Catalyzes the hydrolysis of
+CC       inorganic triphosphate (PPPi), however it does not display
+CC       significant activity towards long-chain polyphosphates. The
+CC       existence of PPPi in living cells is still unclear, and PPPase
+CC       activity might be the ancestral function of CYTH domain. It also
+CC       has gamma-phosphatase activity on NTP substrates, but no adenylate
+CC       cyclase or RNA triphosphatase activity.
+CC       {ECO:0000269|PubMed:24004165}.
+CC   -!- CATALYTIC ACTIVITY: Triphosphate + H(2)O = diphosphate +
+CC       phosphate. {ECO:0000269|PubMed:24004165}.
+CC   -!- CATALYTIC ACTIVITY: ATP + H(2)O = ADP + phosphate.
+CC       {ECO:0000269|PubMed:24004165}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000269|PubMed:24004165};
+CC       Note=PPPase is active in the presence of Mg(2+) ions, while no
+CC       activity is observed in the presence of manganese ions.
+CC       {ECO:0000269|PubMed:24004165};
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000269|PubMed:24004165};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000269|PubMed:24004165};
+CC       Name=Co(2+); Xref=ChEBI:CHEBI:48828;
+CC         Evidence={ECO:0000269|PubMed:24004165};
+CC       Note=ATPase occurs in the presence of Mg(2+) ions as well as
+CC       Mn(2+) and Co(2+) ions. {ECO:0000269|PubMed:24004165};
+CC   -!- ENZYME REGULATION: Inhibited by 2.5 mM Ca(2+).
+CC       {ECO:0000269|PubMed:24004165}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=1.08 mM for ATP {ECO:0000269|PubMed:24004165};
+CC         KM=42.9 uM for triphosphate {ECO:0000269|PubMed:24004165};
+CC       pH dependence:
+CC         Optimum pH is 9.5 (in the presence of Mg(2+). No activity at pH
+CC         7.5. {ECO:0000269|PubMed:24004165};
+CC       Temperature dependence:
+CC         Optimum temperature is 45.50 degrees Celsius.
+CC         {ECO:0000269|PubMed:24004165};
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:24004165}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q9SIY3-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q9SIY3-2; Sequence=VSP_053969;
+CC   -!- TISSUE SPECIFICITY: Expressed only in the proximal meristematic
+CC       zone of the root. {ECO:0000269|PubMed:24004165}.
+CC   -!- DISRUPTION PHENOTYPE: Delayed root growth and reduced length and
+CC       number of lateral roots. {ECO:0000269|PubMed:24004165}.
+CC   -!- SIMILARITY: Contains 1 CYTH domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU01044}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AC007045; AAD22501.1; -; Genomic_DNA.
+DR   EMBL; CP002685; AEC06186.1; -; Genomic_DNA.
+DR   EMBL; CP002685; AEC06187.1; -; Genomic_DNA.
+DR   EMBL; AY045689; AAK74047.1; -; mRNA.
+DR   EMBL; AY055788; AAL06955.1; -; mRNA.
+DR   EMBL; AK316974; BAH19671.1; -; mRNA.
+DR   EMBL; AY088524; AAM66058.1; -; mRNA.
+DR   EMBL; AK229646; BAF01490.1; -; mRNA.
+DR   PIR; E84499; E84499.
+DR   RefSeq; NP_001031347.1; NM_001036270.1. [Q9SIY3-2]
+DR   RefSeq; NP_565353.1; NM_126867.2. [Q9SIY3-1]
+DR   UniGene; At.14286; -.
+DR   PDB; 3V85; X-ray; 1.90 A; A=1-210.
+DR   PDBsum; 3V85; -.
+DR   ProteinModelPortal; Q9SIY3; -.
+DR   SMR; Q9SIY3; 1-210.
+DR   PRIDE; Q9SIY3; -.
+DR   EnsemblPlants; AT2G11890.1; AT2G11890.1; AT2G11890. [Q9SIY3-1]
+DR   EnsemblPlants; AT2G11890.2; AT2G11890.2; AT2G11890. [Q9SIY3-2]
+DR   GeneID; 815664; -.
+DR   KEGG; ath:AT2G11890; -.
+DR   TAIR; AT2G11890; -.
+DR   eggNOG; NOG267011; -.
+DR   HOGENOM; HOG000242707; -.
+DR   InParanoid; Q9SIY3; -.
+DR   OMA; TKFAVFR; -.
+DR   PhylomeDB; Q9SIY3; -.
+DR   PRO; PR:Q9SIY3; -.
+DR   Proteomes; UP000006548; Chromosome 2.
+DR   ExpressionAtlas; Q9SIY3; baseline and differential.
+DR   GO; GO:0005634; C:nucleus; IDA:UniProtKB.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016887; F:ATPase activity; IDA:UniProtKB.
+DR   GO; GO:0050355; F:triphosphatase activity; IDA:UniProtKB.
+DR   GO; GO:0008152; P:metabolic process; IDA:GOC.
+DR   GO; GO:0048364; P:root development; IMP:TAIR.
+DR   Gene3D; 2.40.320.10; -; 1.
+DR   InterPro; IPR023577; CYTH-like_domain.
+DR   Pfam; PF01928; CYTH; 1.
+DR   SUPFAM; SSF55154; SSF55154; 1.
+DR   PROSITE; PS51707; CYTH; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; ATP-binding; Complete proteome;
+KW   Hydrolase; Nucleotide-binding; Nucleus; Reference proteome.
+FT   CHAIN         1    210       Triphosphate tunel metalloenzyme 3.
+FT                                /FTId=PRO_0000426737.
+FT   DOMAIN        1    208       CYTH. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU01044}.
+FT   COMPBIAS     89    192       Glu-rich.
+FT   VAR_SEQ     100    136       Missing (in isoform 2).
+FT                                {ECO:0000303|PubMed:19423640}.
+FT                                /FTId=VSP_053969.
+FT   MUTAGEN       2      2       E->A: Loss of 98.9% of the ATPase
+FT                                activity and 97.3% of the
+FT                                tripolyphosphatase activity.
+FT                                {ECO:0000269|PubMed:24004165}.
+FT   MUTAGEN      52     52       R->A: Loss of 96.7% of the ATPase
+FT                                activity and 98.8% of the
+FT                                tripolyphosphatase activity.
+FT                                {ECO:0000269|PubMed:24004165}.
+FT   MUTAGEN     154    154       E->A: Loss of 98.2% of the ATPase
+FT                                activity and 72.7% of the
+FT                                tripolyphosphatase activity.
+FT                                {ECO:0000269|PubMed:24004165}.
+FT   MUTAGEN     171    171       E->A: Total loss of ATPase activity and
+FT                                92.5% of the tripolyphosphatase activity.
+FT                                {ECO:0000269|PubMed:24004165}.
+FT   STRAND        2      9       {ECO:0000244|PDB:3V85}.
+FT   HELIX        12     21       {ECO:0000244|PDB:3V85}.
+FT   HELIX        23     25       {ECO:0000244|PDB:3V85}.
+FT   STRAND       26     38       {ECO:0000244|PDB:3V85}.
+FT   HELIX        43     46       {ECO:0000244|PDB:3V85}.
+FT   STRAND       49     57       {ECO:0000244|PDB:3V85}.
+FT   STRAND       70     82       {ECO:0000244|PDB:3V85}.
+FT   STRAND       85     95       {ECO:0000244|PDB:3V85}.
+FT   HELIX        97    105       {ECO:0000244|PDB:3V85}.
+FT   HELIX       107    112       {ECO:0000244|PDB:3V85}.
+FT   HELIX       116    125       {ECO:0000244|PDB:3V85}.
+FT   STRAND      134    148       {ECO:0000244|PDB:3V85}.
+FT   STRAND      151    160       {ECO:0000244|PDB:3V85}.
+FT   STRAND      163    171       {ECO:0000244|PDB:3V85}.
+FT   HELIX       175    188       {ECO:0000244|PDB:3V85}.
+FT   STRAND      193    195       {ECO:0000244|PDB:3V85}.
+FT   HELIX       200    206       {ECO:0000244|PDB:3V85}.
+SQ   SEQUENCE   210 AA;  24163 MW;  56E70B8055143A33 CRC64;
+     MEVEVKLRLL TAAAHLRLTT LLTPYHLKTL HQRNTFFDTP KNDLSLRRAV LRLRFLQNAA
+     VSAASPSPPR CIVSLKAKPT LANGISRVEE DEEEIEYWIG KECVESPAKL SDIGSRVLKR
+     VKEEYGFNDF LGFVCLGGFE NVRNVYEWRG VKLEVDETKY DFGNCYEIEC ETEEPERVKT
+     MIEEFLTEEK IEFSNSDMTK FAVFRSGKLP
+//

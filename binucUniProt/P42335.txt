@@ -1,0 +1,158 @@
+ID   IP3KB_RAT               Reviewed;         934 AA.
+AC   P42335; Q91XW1;
+DT   01-NOV-1995, integrated into UniProtKB/Swiss-Prot.
+DT   19-JUL-2004, sequence version 3.
+DT   22-JUL-2015, entry version 107.
+DE   RecName: Full=Inositol-trisphosphate 3-kinase B;
+DE            EC=2.7.1.127;
+DE   AltName: Full=Inositol 1,4,5-trisphosphate 3-kinase B;
+DE            Short=IP3 3-kinase B;
+DE            Short=IP3K B;
+DE            Short=InsP 3-kinase B;
+GN   Name=Itpkb;
+OS   Rattus norvegicus (Rat).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Rattus.
+OX   NCBI_TaxID=10116;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Brain;
+RA   Bertsch U., Suesse S., Frerk S., Fanick W.;
+RT   "Cloning of the complete protein coding regions for inositol 1,4,5-
+RT   trisphosphate 3-kinase B-isoforms from rat and human.";
+RL   Submitted (MAY-1999) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 63-934.
+RC   TISSUE=Liver;
+RX   PubMed=8312366; DOI=10.1016/0167-4889(94)90139-2;
+RA   Thomas S., Brake B., Luzio J.P., Stanley K., Banting G.;
+RT   "Isolation and sequence of a full length cDNA encoding a novel rat
+RT   inositol 1,4,5-trisphosphate 3-kinase.";
+RL   Biochim. Biophys. Acta 1220:219-222(1994).
+CC   -!- CATALYTIC ACTIVITY: ATP + 1D-myo-inositol 1,4,5-trisphosphate =
+CC       ADP + 1D-myo-inositol 1,3,4,5-tetrakisphosphate.
+CC   -!- ENZYME REGULATION: IP3K is activated by calmodulin.
+CC   -!- SUBUNIT: Interacts with DMTN. {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the inositol phosphokinase (IPK) family.
+CC       {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=CAA52298.1; Type=Frameshift; Positions=175; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AJ242781; CAC40660.1; -; mRNA.
+DR   EMBL; X74227; CAA52298.1; ALT_FRAME; mRNA.
+DR   PIR; S41053; S41053.
+DR   RefSeq; NP_062185.2; NM_019312.2.
+DR   UniGene; Rn.22498; -.
+DR   PDB; 2AQX; X-ray; 2.50 A; A/B=642-930.
+DR   PDBsum; 2AQX; -.
+DR   ProteinModelPortal; P42335; -.
+DR   SMR; P42335; 642-930.
+DR   STRING; 10116.ENSRNOP00000004032; -.
+DR   PaxDb; P42335; -.
+DR   PRIDE; P42335; -.
+DR   Ensembl; ENSRNOT00000004032; ENSRNOP00000004032; ENSRNOG00000002969.
+DR   GeneID; 54260; -.
+DR   KEGG; rno:54260; -.
+DR   UCSC; RGD:2932; rat.
+DR   CTD; 3707; -.
+DR   RGD; 2932; Itpkb.
+DR   eggNOG; NOG275147; -.
+DR   GeneTree; ENSGT00390000017438; -.
+DR   HOGENOM; HOG000060305; -.
+DR   HOVERGEN; HBG052139; -.
+DR   InParanoid; P42335; -.
+DR   KO; K00911; -.
+DR   OrthoDB; EOG7DVDB7; -.
+DR   PhylomeDB; P42335; -.
+DR   TreeFam; TF318394; -.
+DR   BRENDA; 2.7.1.127; 5301.
+DR   SABIO-RK; P42335; -.
+DR   EvolutionaryTrace; P42335; -.
+DR   NextBio; 610782; -.
+DR   PRO; PR:P42335; -.
+DR   Proteomes; UP000002494; Unplaced.
+DR   Genevisible; P42335; RN.
+DR   GO; GO:0005622; C:intracellular; IEA:GOC.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0008440; F:inositol-1,4,5-trisphosphate 3-kinase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0007166; P:cell surface receptor signaling pathway; IEA:Ensembl.
+DR   GO; GO:0000165; P:MAPK cascade; IEA:Ensembl.
+DR   GO; GO:0046638; P:positive regulation of alpha-beta T cell differentiation; IEA:Ensembl.
+DR   GO; GO:0046579; P:positive regulation of Ras protein signal transduction; IEA:Ensembl.
+DR   GO; GO:0045059; P:positive thymic T cell selection; IEA:Ensembl.
+DR   InterPro; IPR005522; IPK.
+DR   PANTHER; PTHR12400; PTHR12400; 1.
+DR   Pfam; PF03770; IPK; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; ATP-binding; Calmodulin-binding; Complete proteome;
+KW   Kinase; Nucleotide-binding; Phosphoprotein; Reference proteome;
+KW   Transferase.
+FT   CHAIN         1    934       Inositol-trisphosphate 3-kinase B.
+FT                                /FTId=PRO_0000066869.
+FT   NP_BIND     718    720       ATP. {ECO:0000250}.
+FT   REGION      756    764       Calmodulin-binding. {ECO:0000250}.
+FT   REGION      781    788       Substrate binding. {ECO:0000250}.
+FT   BINDING     667    667       ATP. {ECO:0000250}.
+FT   BINDING     678    678       ATP. {ECO:0000250}.
+FT   BINDING     731    731       ATP. {ECO:0000250}.
+FT   BINDING     733    733       Substrate. {ECO:0000250}.
+FT   BINDING     754    754       Substrate. {ECO:0000250}.
+FT   BINDING     805    805       ATP. {ECO:0000250}.
+FT   BINDING     885    885       ATP. {ECO:0000250}.
+FT   BINDING     888    888       Substrate. {ECO:0000250}.
+FT   MOD_RES      42     42       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:P27987}.
+FT   MOD_RES      48     48       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:P27987}.
+FT   MOD_RES      70     70       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:P27987}.
+FT   CONFLICT     63     68       LSLEEP -> ATKVPW (in Ref. 2).
+FT                                {ECO:0000305}.
+FT   TURN        643    645
+FT   STRAND      647    657
+FT   STRAND      667    670
+FT   STRAND      675    679
+FT   HELIX       682    691
+FT   HELIX       697    699
+FT   STRAND      703    709
+FT   STRAND      712    718
+FT   TURN        720    723
+FT   STRAND      728    736
+FT   HELIX       741    747
+FT   HELIX       755    764
+FT   HELIX       771    776
+FT   HELIX       781    788
+FT   STRAND      791    793
+FT   HELIX       794    797
+FT   STRAND      798    805
+FT   HELIX       821    832
+FT   HELIX       836    853
+FT   HELIX       857    860
+FT   STRAND      862    864
+FT   STRAND      868    873
+FT   STRAND      879    884
+FT   STRAND      889    891
+FT   STRAND      900    902
+FT   HELIX       913    929
+SQ   SEQUENCE   934 AA;  101819 MW;  C844B79747E1A117 CRC64;
+     MAVYCYALNS LVIMNSTNEL KSGSPLPSGS ETPQPSGRAA LSPGSVFSPG RGASFLFPPA
+     ESLSLEEPGS AGGWRSGRRR LNSSSGSGGG SSSSNSSSSS GVGSPSWAGR LRGDAQQVVA
+     TRILSPPGPE EAQRKLRILQ RELQNVQVNQ KVGMFEAQIQ AQTSAIQAPR SPRLGRARSP
+     SPCPFRSSSQ PPERVLAPCS PSEERRTKSW GEQCTETPDA NSRRRSRLST HPSKDKEGVA
+     PLLGPASPTR LGTQSPSTSV RMERGSPASP RCGSPTPMEI DKRTAPSLEH FGTSLTLATK
+     VAASAASAGP HPGHDSVLME ADCELGAMRP WEAHLERRGQ FLGRETGSAP EPIRTHIREP
+     PGRVERVHSV GGQGSWTPEV IKRPEEGTVD AQSSELSENP RWSRLPGDPG SVGPEKGGSR
+     IPGIRGPQQT LDSMREGSSA LGLLGGSQAA QPGSMDVETG ISCGRMLEPL PPGEVTTNLK
+     EPQCLPGDRM GMQPESSIVW PSAVEEAPLI WTCDTGIQLK GTWRSQDGDA HPSCQEKSPD
+     QKDKACSPSN IPAIPAVIIT DMGAQEDGGL EEIQGSPRGP LPLRKLSSSS ASSTGFSSSY
+     EDSEEDISSD PERTLDPNSA FLHTLDQQKP RVSKSWRKIK NMVQWSPFVM SFKKKYPWIQ
+     LAGHAGSFKA AANGRILKKH CESEQRCLDR LMADVLRPFV PAYHGDVVKD GERYNQMDDL
+     LADFDSPCVM DCKMGIRTYL EEELTKARKK PSLRKDMYQK MVEVDPEAPT EEEKAQRAVT
+     KPRYMQWRET ISSTATLGFR IEGIKKEDGS VNRDFKKTKT REQVTEAFRE FTKGNQNILI
+     AYRDRLKAIR ETLEVSPFFK CHEVIGSSLL FIHDKKEQAK VWMIDFGKTT PLPEGQTLQH
+     DVPWQEGNRE DGYLSGLNNL IDILTEMSQG SPLT
+//

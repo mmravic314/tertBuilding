@@ -1,0 +1,103 @@
+ID   Q82VX3_NITEU            Unreviewed;       363 AA.
+AC   Q82VX3;
+DT   01-JUN-2003, integrated into UniProtKB/TrEMBL.
+DT   01-JUN-2003, sequence version 1.
+DT   22-JUL-2015, entry version 71.
+DE   SubName: Full=Multicopper oxidase type 1 {ECO:0000313|EMBL:CAD84838.1};
+GN   Name=pan1 {ECO:0000313|EMBL:CAD84838.1};
+GN   OrderedLocusNames=NE0927 {ECO:0000313|EMBL:CAD84838.1};
+OS   Nitrosomonas europaea (strain ATCC 19718 / NBRC 14298).
+OC   Bacteria; Proteobacteria; Betaproteobacteria; Nitrosomonadales;
+OC   Nitrosomonadaceae; Nitrosomonas.
+OX   NCBI_TaxID=228410 {ECO:0000313|EMBL:CAD84838.1, ECO:0000313|Proteomes:UP000001416};
+RN   [1] {ECO:0000313|EMBL:CAD84838.1, ECO:0000313|Proteomes:UP000001416}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 19718 / NBRC 14298 {ECO:0000313|Proteomes:UP000001416};
+RX   PubMed=12700255; DOI=10.1128/JB.185.9.2759-2773.2003;
+RA   Chain P., Lamerdin J., Larimer F., Regala W., Land M., Hauser L.,
+RA   Hooper A., Klotz M., Norton J., Sayavedra-Soto L., Arciero D.,
+RA   Hommes N., Whittaker M., Arp D.;
+RT   "Complete genome sequence of the ammonia-oxidizing bacterium and
+RT   obligate chemolithoautotroph Nitrosomonas europaea.";
+RL   J. Bacteriol. 185:2759-2773(2003).
+RN   [2] {ECO:0000213|PDB:3G5W}
+RP   X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS) OF 44-361 IN COMPLEX WITH
+RP   COPPER.
+RX   PubMed=19224923; DOI=10.1074/jbc.M900179200;
+RA   Lawton T.J., Sayavedra-Soto L.A., Arp D.J., Rosenzweig A.C.;
+RT   "Crystal structure of a two-domain multicopper oxidase: implications
+RT   for the evolution of multicopper blue proteins.";
+RL   J. Biol. Chem. 284:10174-10180(2009).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AL954747; CAD84838.1; -; Genomic_DNA.
+DR   RefSeq; WP_011111538.1; NC_004757.1.
+DR   PDB; 3G5W; X-ray; 1.90 A; A/B/C/D/E/F=44-361.
+DR   PDBsum; 3G5W; -.
+DR   ProteinModelPortal; Q82VX3; -.
+DR   STRING; 228410.NE0927; -.
+DR   EnsemblBacteria; CAD84838; CAD84838; NE0927.
+DR   KEGG; neu:NE0927; -.
+DR   PATRIC; 22712872; VBINitEur56163_1038.
+DR   HOGENOM; HOG000254753; -.
+DR   OMA; WYHCHVN; -.
+DR   OrthoDB; EOG6W19FF; -.
+DR   PhylomeDB; Q82VX3; -.
+DR   BioCyc; NEUR228410:GJNO-949-MONOMER; -.
+DR   EvolutionaryTrace; Q82VX3; -.
+DR   Proteomes; UP000001416; Chromosome.
+DR   GO; GO:0005507; F:copper ion binding; IEA:InterPro.
+DR   GO; GO:0016491; F:oxidoreductase activity; IEA:InterPro.
+DR   Gene3D; 2.60.40.420; -; 2.
+DR   InterPro; IPR011706; Cu-oxidase_2.
+DR   InterPro; IPR011707; Cu-oxidase_3.
+DR   InterPro; IPR008972; Cupredoxin.
+DR   Pfam; PF07731; Cu-oxidase_2; 1.
+DR   Pfam; PF07732; Cu-oxidase_3; 1.
+DR   SUPFAM; SSF49503; SSF49503; 2.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3G5W};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001416};
+KW   Copper {ECO:0000213|PDB:3G5W}; Metal-binding {ECO:0000213|PDB:3G5W};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001416}.
+FT   METAL        99     99       Copper 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3G5W}.
+FT   METAL       104    104       Copper 2; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3G5W}.
+FT   METAL       104    104       Copper 3; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3G5W}.
+FT   METAL       146    146       Copper 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3G5W}.
+FT   METAL       146    146       Copper 3; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3G5W}.
+FT   METAL       147    147       Copper 1. {ECO:0000213|PDB:3G5W}.
+FT   METAL       148    148       Copper 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3G5W}.
+FT   METAL       148    148       Copper 3; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3G5W}.
+FT   METAL       154    154       Copper 1; via pros nitrogen.
+FT                                {ECO:0000213|PDB:3G5W}.
+FT   METAL       160    160       Copper 1. {ECO:0000213|PDB:3G5W}.
+FT   METAL       248    248       Copper 3; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3G5W}.
+FT   METAL       248    248       Copper 4; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3G5W}.
+FT   METAL       294    294       Copper 3; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3G5W}.
+FT   METAL       294    294       Copper 4; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3G5W}.
+FT   METAL       296    296       Copper 3; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3G5W}.
+FT   METAL       296    296       Copper 4; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3G5W}.
+SQ   SEQUENCE   363 AA;  41349 MW;  766D5158D9EABD3B CRC64;
+     MYLIYTKRTV FMKNSISLFS SYRFTHIILM LIVLALIPLT SQAEKREFDL SIEDTRIVLV
+     GKRDFHTFAF NGQVPAPLIH VMEGDDVTVN VTNMTTLPHT IHWHGMLQRG TWQSDGVPHA
+     TQHAIEPGDT FTYKFKAEPA GTMWYHCHVN VNEHVTMRGM WGPLIVEPKN PLPIEKTVTK
+     DYILMLSDWV SSWANKPGEG GIPGDVFDYY TINAKSFPET QPIRVKKGDV IRLRLIGAGD
+     HVHAIHTHGH ISQIAFKDGF PLDKPIKGDT VLIGPGERYD VILNMDNPGL WMIHDHVDTH
+     TTNGDKPDGG IMTTIEYEEV GIDHPFYVWK DKKFVPDFYY EESLKKDLGM HNSKVFKGEP
+     IEE
+//

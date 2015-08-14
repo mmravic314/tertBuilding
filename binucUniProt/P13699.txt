@@ -1,0 +1,188 @@
+ID   NCAP_LASSJ              Reviewed;         569 AA.
+AC   P13699;
+DT   01-JAN-1990, integrated into UniProtKB/Swiss-Prot.
+DT   01-JAN-1990, sequence version 1.
+DT   22-JUL-2015, entry version 80.
+DE   RecName: Full=Nucleoprotein;
+DE   AltName: Full=Nucleocapsid protein;
+DE   AltName: Full=Protein N;
+GN   Name=N;
+OS   Lassa virus (strain Mouse/Sierra Leone/Josiah/1976) (LASV).
+OC   Viruses; ssRNA viruses; ssRNA negative-strand viruses; Arenaviridae;
+OC   Mammarenavirus.
+OX   NCBI_TaxID=11622;
+OH   NCBI_TaxID=9606; Homo sapiens (Human).
+OH   NCBI_TaxID=10112; Mastomys natalensis (African soft-furred rat) (Praomys natalensis).
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC RNA].
+RX   PubMed=2916333; DOI=10.1016/0042-6822(89)90287-0;
+RA   Auperin D.D., McCormick J.B.;
+RT   "Nucleotide sequence of the Lassa virus (Josiah strain) S genome RNA
+RT   and amino acid sequence comparison of the N and GPC proteins to other
+RT   arenaviruses.";
+RL   Virology 168:421-425(1989).
+RN   [2]
+RP   INTERACTION WITH PROTEIN Z.
+RX   PubMed=15019244; DOI=10.1016/j.virusres.2003.11.017;
+RA   Eichler R., Strecker T., Kolesnikova L., ter Meulen J.,
+RA   Weissenhorn W., Becker S., Klenk H.D., Garten W., Lenz O.;
+RT   "Characterization of the Lassa virus matrix protein Z: electron
+RT   microscopic study of virus-like particles and interaction with the
+RT   nucleoprotein (NP).";
+RL   Virus Res. 100:249-255(2004).
+RN   [3]
+RP   INTERACTION WITH HOST IKBKE.
+RX   PubMed=22532683; DOI=10.1128/JVI.00187-12;
+RA   Pythoud C., Rodrigo W.W., Pasqual G., Rothenberger S.,
+RA   Martinez-Sobrido L., de la Torre J.C., Kunz S.;
+RT   "Arenavirus nucleoprotein targets interferon regulatory factor-
+RT   activating kinase IKKepsilon.";
+RL   J. Virol. 86:7728-7738(2012).
+CC   -!- FUNCTION: Encapsidates the genome, protecting it from nucleases.
+CC       The encapsidated genomic RNA is termed the nucleocapsid (NC).
+CC       Serves as template for viral transcription and replication. The
+CC       increased presence of protein N in host cell does not seem to
+CC       trigger the switch from transcription to replication as observed
+CC       in other negative strain RNA viruses. Disables the host innate
+CC       defense by interfering with beta interferon (IFNB) production
+CC       through the inhibition of host IRF3 phosphorylation and activation
+CC       by host IKBKE. Through the interaction with host IKBKE, strongly
+CC       inhibits the phosphorylation and nuclear translocation of IRF3, a
+CC       protein involved in IFN activation pathway, leading to the
+CC       inhibition of IFNB and IRF3-dependent promoters activation (By
+CC       similarity). {ECO:0000250}.
+CC   -!- SUBUNIT: Homomultimerizes to form the nucleocapsid. Binds to viral
+CC       genomic RNA. Interacts with glycoprotein G2. Interacts with
+CC       protein Z; this interaction probably directs the encapsidated
+CC       genome to budding sites. Interacts with protein L; this
+CC       interaction does not interfere with Z-L interaction. Interacts
+CC       with host IKBKE (via Protein kinase domain); the interaction
+CC       inhibits IKBKE kinase activity. {ECO:0000269|PubMed:15019244,
+CC       ECO:0000269|PubMed:22532683}.
+CC   -!- SUBCELLULAR LOCATION: Virion. Host cytoplasm.
+CC   -!- SIMILARITY: Belongs to the arenaviridae nucleocapsid protein
+CC       family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; J04324; AAA46285.1; -; Genomic_RNA.
+DR   PIR; A31294; VHXPLJ.
+DR   RefSeq; NP_694869.1; NC_004296.1.
+DR   PDB; 3MWP; X-ray; 1.80 A; A/B/C=1-569.
+DR   PDB; 3MWT; X-ray; 1.98 A; A/B/C=1-569.
+DR   PDB; 3MX2; X-ray; 1.98 A; A/B/C=1-569.
+DR   PDB; 3MX5; X-ray; 1.90 A; A/B/C=1-569.
+DR   PDB; 3Q7B; X-ray; 2.00 A; A=342-569.
+DR   PDB; 3Q7C; X-ray; 1.50 A; A=342-569.
+DR   PDB; 4FVU; X-ray; 2.91 A; A=342-569.
+DR   PDB; 4G9Z; X-ray; 2.03 A; A=364-569.
+DR   PDB; 4GV3; X-ray; 1.68 A; A=364-569.
+DR   PDB; 4GV6; X-ray; 1.98 A; A=364-569.
+DR   PDB; 4GV9; X-ray; 2.46 A; A=364-569.
+DR   PDBsum; 3MWP; -.
+DR   PDBsum; 3MWT; -.
+DR   PDBsum; 3MX2; -.
+DR   PDBsum; 3MX5; -.
+DR   PDBsum; 3Q7B; -.
+DR   PDBsum; 3Q7C; -.
+DR   PDBsum; 4FVU; -.
+DR   PDBsum; 4G9Z; -.
+DR   PDBsum; 4GV3; -.
+DR   PDBsum; 4GV6; -.
+DR   PDBsum; 4GV9; -.
+DR   DIP; DIP-59217N; -.
+DR   GeneID; 956584; -.
+DR   KEGG; vg:956584; -.
+DR   EvolutionaryTrace; P13699; -.
+DR   Proteomes; UP000002473; Genome.
+DR   GO; GO:0019029; C:helical viral capsid; IEA:UniProtKB-KW.
+DR   GO; GO:0030430; C:host cell cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0019013; C:viral nucleocapsid; IEA:UniProtKB-KW.
+DR   GO; GO:0008408; F:3'-5' exonuclease activity; IMP:CACAO.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003723; F:RNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0030683; P:evasion or tolerance by virus of host immune response; IMP:CACAO.
+DR   GO; GO:0090305; P:nucleic acid phosphodiester bond hydrolysis; IMP:GOC.
+DR   GO; GO:0039724; P:suppression by virus of host IKBKE activity; IEA:UniProtKB-KW.
+DR   GO; GO:0039548; P:suppression by virus of host IRF3 activity; IMP:CACAO.
+DR   InterPro; IPR000229; Arena_Nucleocapsid_Protein.
+DR   InterPro; IPR001680; WD40_repeat.
+DR   Pfam; PF00843; Arena_nucleocap; 1.
+DR   PIRSF; PIRSF004029; N_ArenaV; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Capsid protein; Complete proteome;
+KW   Helical capsid protein; Host cytoplasm; Host-virus interaction;
+KW   Inhibition of host IKBKE by virus;
+KW   Inhibition of host innate immune response by virus;
+KW   Inhibition of host RLR pathway by virus;
+KW   Interferon antiviral system evasion; Metal-binding;
+KW   Reference proteome; Ribonucleoprotein; RNA-binding;
+KW   Viral immunoevasion; Viral nucleoprotein; Virion; Zinc; Zinc-finger.
+FT   CHAIN         1    569       Nucleoprotein.
+FT                                /FTId=PRO_0000079192.
+FT   ZN_FING     506    534       CHCC-type, atypical. {ECO:0000250}.
+FT   HELIX         8     19       {ECO:0000244|PDB:3MWP}.
+FT   HELIX        21     23       {ECO:0000244|PDB:3MWP}.
+FT   HELIX        28     41       {ECO:0000244|PDB:3MWP}.
+FT   HELIX        44     55       {ECO:0000244|PDB:3MWP}.
+FT   STRAND       57     60       {ECO:0000244|PDB:3MWP}.
+FT   HELIX        61     77       {ECO:0000244|PDB:3MWP}.
+FT   STRAND       87     89       {ECO:0000244|PDB:3MWP}.
+FT   STRAND       91     94       {ECO:0000244|PDB:3MWP}.
+FT   HELIX        96    117       {ECO:0000244|PDB:3MWP}.
+FT   HELIX       119    122       {ECO:0000244|PDB:3MWP}.
+FT   HELIX       131    143       {ECO:0000244|PDB:3MWP}.
+FT   STRAND      163    165       {ECO:0000244|PDB:3MWP}.
+FT   HELIX       169    172       {ECO:0000244|PDB:3MWP}.
+FT   HELIX       180    191       {ECO:0000244|PDB:3MWP}.
+FT   HELIX       195    209       {ECO:0000244|PDB:3MWP}.
+FT   HELIX       216    225       {ECO:0000244|PDB:3MWP}.
+FT   HELIX       227    231       {ECO:0000244|PDB:3MWP}.
+FT   STRAND      232    235       {ECO:0000244|PDB:3MWP}.
+FT   STRAND      238    240       {ECO:0000244|PDB:3MWP}.
+FT   HELIX       248    257       {ECO:0000244|PDB:3MWP}.
+FT   STRAND      258    262       {ECO:0000244|PDB:3MX5}.
+FT   HELIX       265    267       {ECO:0000244|PDB:3MWP}.
+FT   TURN        272    274       {ECO:0000244|PDB:3MWP}.
+FT   HELIX       275    289       {ECO:0000244|PDB:3MWP}.
+FT   HELIX       302    312       {ECO:0000244|PDB:3MWP}.
+FT   STRAND      314    316       {ECO:0000244|PDB:3MWP}.
+FT   TURN        318    320       {ECO:0000244|PDB:3MWP}.
+FT   HELIX       330    333       {ECO:0000244|PDB:3MWP}.
+FT   STRAND      334    336       {ECO:0000244|PDB:3MWP}.
+FT   STRAND      363    365       {ECO:0000244|PDB:3Q7C}.
+FT   HELIX       367    377       {ECO:0000244|PDB:3Q7C}.
+FT   STRAND      387    392       {ECO:0000244|PDB:3Q7C}.
+FT   STRAND      398    404       {ECO:0000244|PDB:3Q7C}.
+FT   TURN        405    408       {ECO:0000244|PDB:3Q7C}.
+FT   STRAND      409    414       {ECO:0000244|PDB:3Q7C}.
+FT   HELIX       420    429       {ECO:0000244|PDB:3Q7C}.
+FT   HELIX       435    438       {ECO:0000244|PDB:3Q7C}.
+FT   STRAND      439    441       {ECO:0000244|PDB:4G9Z}.
+FT   HELIX       445    452       {ECO:0000244|PDB:3Q7C}.
+FT   STRAND      458    463       {ECO:0000244|PDB:3Q7C}.
+FT   HELIX       464    473       {ECO:0000244|PDB:3Q7C}.
+FT   STRAND      479    483       {ECO:0000244|PDB:3Q7C}.
+FT   HELIX       488    491       {ECO:0000244|PDB:3Q7C}.
+FT   TURN        492    494       {ECO:0000244|PDB:3Q7C}.
+FT   HELIX       495    502       {ECO:0000244|PDB:3Q7C}.
+FT   HELIX       503    505       {ECO:0000244|PDB:3Q7C}.
+FT   STRAND      513    515       {ECO:0000244|PDB:3MWP}.
+FT   STRAND      518    521       {ECO:0000244|PDB:3Q7C}.
+FT   STRAND      523    525       {ECO:0000244|PDB:3MWP}.
+FT   HELIX       530    542       {ECO:0000244|PDB:3Q7C}.
+FT   STRAND      551    554       {ECO:0000244|PDB:3Q7C}.
+FT   HELIX       556    559       {ECO:0000244|PDB:3Q7C}.
+SQ   SEQUENCE   569 AA;  62998 MW;  852EA775034DBCFB CRC64;
+     MSASKEIKSF LWTQSLRREL SGYCSNIKLQ VVKDAQALLH GLDFSEVSNV QRLMRKERRD
+     DNDLKRLRDL NQAVNNLVEL KSTQQKSILR VGTLTSDDLL ILAADLEKLK SKVIRTERPL
+     SAGVYMGNLS SQQLDQRRAL LNMIGMSGGN QGARAGRDGV VRVWDVKNAE LLNNQFGTMP
+     SLTLACLTKQ GQVDLNDAVQ ALTDLGLIYT AKYPNTSDLD RLTQSHPILN MIDTKKSSLN
+     ISGYNFSLGA AVKAGACMLD GGNMLETIKV SPQTMDGILK SILKVKKALG MFISDTPGER
+     NPYENILYKI CLSGDGWPYI ASRTSITGRA WENTVVDLES DGKPQKADSN NSSKSLQSAG
+     FTAGLTYSQL MTLKDAMLQL DPNAKTWMDI EGRPEDPVEI ALYQPSSGCY IHFFREPTDL
+     KQFKQDAKYS HGIDVTDLFA TQPGLTSAVI DALPRNMVIT CQGSDDIRKL LESQGRKDIK
+     LIDIALSKTD SRKYENAVWD QYKDLCHMHT GVVVEKKKRG GKEEITPHCA LMDCIMFDAA
+     VSGGLNTSVL RAVLPRDMVF RTSTPRVVL
+//

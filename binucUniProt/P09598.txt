@@ -1,0 +1,174 @@
+ID   PHLC_BACCE              Reviewed;         283 AA.
+AC   P09598;
+DT   01-JUL-1989, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUL-1989, sequence version 1.
+DT   24-JUN-2015, entry version 109.
+DE   RecName: Full=Phospholipase C;
+DE            Short=PLC;
+DE            EC=3.1.4.3;
+DE   AltName: Full=Cereolysin A;
+DE   AltName: Full=Phosphatidylcholine cholinephosphohydrolase;
+DE   Flags: Precursor;
+GN   Name=plc;
+OS   Bacillus cereus.
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus;
+OC   Bacillus cereus group.
+OX   NCBI_TaxID=1396;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=SE-1;
+RX   PubMed=3137122; DOI=10.1016/0378-1119(88)90466-0;
+RA   Johansen T., Holm T., Guddal P.H., Sletten K., Haugli F.B., Little C.;
+RT   "Cloning and sequencing of the gene encoding the phosphatidylcholine-
+RT   preferring phospholipase C of Bacillus cereus.";
+RL   Gene 65:293-304(1988).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=VKM B-164;
+RX   PubMed=8387306;
+RA   Kuzmin N.P., Gavrilenko I.V., Krukov V.M., Karpov A.V.;
+RT   "Nucleotide sequence of phospholipase C and sphingomyelinase genes
+RT   from Bacillus cereus BKM-B164.";
+RL   Bioorg. Khim. 19:133-138(1993).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 166-283.
+RC   STRAIN=IAM 1208;
+RX   PubMed=2841128; DOI=10.1111/j.1432-1033.1988.tb14186.x;
+RA   Yamada A., Tsukagoshi N., Udaka S., Sasaki T., Makino S., Nakamura S.,
+RA   Little C., Tomita M., Ikezawa H.;
+RT   "Nucleotide sequence and expression in Escherichia coli of the gene
+RT   coding for sphingomyelinase of Bacillus cereus.";
+RL   Eur. J. Biochem. 175:213-220(1988).
+RN   [4]
+RP   PROTEIN SEQUENCE OF 39-65.
+RX   PubMed=72664; DOI=10.1111/j.1432-1033.1977.tb11828.x;
+RA   Otnaess A.-B., Little C., Sletten K., Wallin R., Johnsen S.,
+RA   Flengsrud R., Prydz H.;
+RT   "Some characteristics of phospholipase C from Bacillus cereus.";
+RL   Eur. J. Biochem. 79:459-468(1977).
+RN   [5]
+RP   PROTEIN SEQUENCE OF 39-49.
+RC   STRAIN=IAM 1208;
+RX   PubMed=1939031;
+RA   Ikeda K., Inoue S., Amasaki C., Teshima K., Ikezawa H.;
+RT   "Kinetics of the hydrolysis of monodispersed and micellar
+RT   phosphatidylcholines catalyzed by a phospholipase C from Bacillus
+RT   cereus.";
+RL   J. Biochem. 110:88-95(1991).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (1.5 ANGSTROMS).
+RX   PubMed=2493587; DOI=10.1038/338357a0;
+RA   Hough E., Hansen L.K., Birknes B., Jynge K., Hansen S., Hordvik A.,
+RA   Little C., Dodson E., Derewenda Z.;
+RT   "High-resolution (1.5 A) crystal structure of phospholipase C from
+RT   Bacillus cereus.";
+RL   Nature 338:357-360(1989).
+CC   -!- FUNCTION: Required, with sphingomyelinase, to effect target cell
+CC       lysis (hemolysis).
+CC   -!- CATALYTIC ACTIVITY: A phosphatidylcholine + H(2)O = 1,2-diacyl-sn-
+CC       glycerol + phosphocholine.
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC       Note=Binds 3 Zn(2+) ions per subunit.;
+CC   -!- SUBUNIT: Monomer.
+CC   -!- SIMILARITY: Belongs to the bacterial zinc-metallophospholipase C
+CC       family. {ECO:0000255|PROSITE-ProRule:PRU00678}.
+CC   -!- SIMILARITY: Contains 1 Zn-dependent PLC domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00678}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X64141; CAA45502.1; -; Genomic_DNA.
+DR   EMBL; X12854; CAA31332.1; -; Genomic_DNA.
+DR   EMBL; X12711; CAA31213.1; -; Genomic_DNA.
+DR   EMBL; X64140; CAA45501.1; ALT_TERM; Genomic_DNA.
+DR   PIR; S18978; PS0197.
+DR   RefSeq; WP_000731014.1; NZ_KN050656.1.
+DR   PDB; 1AH7; X-ray; 1.50 A; A=39-283.
+DR   PDB; 1P5X; X-ray; 2.00 A; A=39-283.
+DR   PDB; 1P6D; X-ray; 2.00 A; A=39-283.
+DR   PDB; 1P6E; X-ray; 2.30 A; A=39-283.
+DR   PDB; 2FFZ; X-ray; 2.05 A; A=39-283.
+DR   PDB; 2FGN; X-ray; 2.04 A; A=39-283.
+DR   PDB; 2HUC; X-ray; 1.90 A; A=39-283.
+DR   PDBsum; 1AH7; -.
+DR   PDBsum; 1P5X; -.
+DR   PDBsum; 1P6D; -.
+DR   PDBsum; 1P6E; -.
+DR   PDBsum; 2FFZ; -.
+DR   PDBsum; 2FGN; -.
+DR   PDBsum; 2HUC; -.
+DR   ProteinModelPortal; P09598; -.
+DR   SMR; P09598; 39-283.
+DR   STRING; 226900.BC0670; -.
+DR   BindingDB; P09598; -.
+DR   ChEMBL; CHEMBL1293202; -.
+DR   BRENDA; 3.1.4.3; 648.
+DR   SABIO-RK; P09598; -.
+DR   EvolutionaryTrace; P09598; -.
+DR   GO; GO:0034480; F:phosphatidylcholine phospholipase C activity; IEA:UniProtKB-EC.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:InterPro.
+DR   GO; GO:0044179; P:hemolysis in other organism; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.575.10; -; 1.
+DR   InterPro; IPR008947; PLipase_C/P1_nuclease.
+DR   InterPro; IPR001531; PLipaseC_domain.
+DR   InterPro; IPR029002; PLPC/GPLD1.
+DR   Pfam; PF00882; Zn_dep_PLPC; 1.
+DR   PRINTS; PR00479; PRPHPHLPASEC.
+DR   ProDom; PD003946; PLipaseC_Zn-bd_prok; 1.
+DR   SMART; SM00770; Zn_dep_PLPC; 1.
+DR   SUPFAM; SSF48537; SSF48537; 1.
+DR   PROSITE; PS00384; PROKAR_ZN_DEPEND_PLPC_1; 1.
+DR   PROSITE; PS51346; PROKAR_ZN_DEPEND_PLPC_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cytolysis; Direct protein sequencing; Hemolysis;
+KW   Hydrolase; Metal-binding; Signal; Zinc; Zymogen.
+FT   SIGNAL        1     24       {ECO:0000255}.
+FT   PROPEP       25     38       {ECO:0000269|PubMed:1939031,
+FT                                ECO:0000269|PubMed:72664}.
+FT                                /FTId=PRO_0000023927.
+FT   CHAIN        39    283       Phospholipase C.
+FT                                /FTId=PRO_0000023928.
+FT   DOMAIN       39    283       Zn-dependent PLC. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00678}.
+FT   METAL        39     39       Zinc 3.
+FT   METAL        52     52       Zinc 3.
+FT   METAL        93     93       Zinc 1.
+FT   METAL       107    107       Zinc 1.
+FT   METAL       156    156       Zinc 1.
+FT   METAL       160    160       Zinc 1.
+FT   METAL       160    160       Zinc 3.
+FT   METAL       166    166       Zinc 2.
+FT   METAL       180    180       Zinc 2.
+FT   METAL       184    184       Zinc 2.
+FT   VARIANT     212    212       E -> D (in strain: IAM 1208).
+FT   VARIANT     226    226       S -> A (in strain: IAM 1208).
+FT   VARIANT     239    239       K -> R (in strain: IAM 1208).
+FT   VARIANT     282    282       D -> N (in strain: IAM 1208).
+FT   STRAND       43     45       {ECO:0000244|PDB:1AH7}.
+FT   HELIX        47     49       {ECO:0000244|PDB:1AH7}.
+FT   HELIX        51     65       {ECO:0000244|PDB:1AH7}.
+FT   HELIX        72     80       {ECO:0000244|PDB:1AH7}.
+FT   HELIX        82     91       {ECO:0000244|PDB:1AH7}.
+FT   TURN         92     94       {ECO:0000244|PDB:1AH7}.
+FT   TURN         96    103       {ECO:0000244|PDB:1AH7}.
+FT   HELIX       105    107       {ECO:0000244|PDB:1AH7}.
+FT   TURN        111    113       {ECO:0000244|PDB:1AH7}.
+FT   HELIX       124    140       {ECO:0000244|PDB:1AH7}.
+FT   HELIX       144    161       {ECO:0000244|PDB:1AH7}.
+FT   TURN        164    169       {ECO:0000244|PDB:1AH7}.
+FT   STRAND      174    176       {ECO:0000244|PDB:1AH7}.
+FT   HELIX       179    190       {ECO:0000244|PDB:1AH7}.
+FT   HELIX       191    194       {ECO:0000244|PDB:1AH7}.
+FT   HELIX       210    223       {ECO:0000244|PDB:1AH7}.
+FT   HELIX       225    227       {ECO:0000244|PDB:1AH7}.
+FT   HELIX       231    240       {ECO:0000244|PDB:1AH7}.
+FT   HELIX       244    280       {ECO:0000244|PDB:1AH7}.
+SQ   SEQUENCE   283 AA;  32383 MW;  AC5452EFF2E22B19 CRC64;
+     MKKKVLALAA AITVVAPLQS VAFAHENDGG SKIKIVHRWS AEDKHKEGVN SHLWIVNRAI
+     DIMSRNTTLV KQDRVAQLNE WRTELENGIY AADYENPYYD NSTFASHFYD PDNGKTYIPF
+     AKQAKETGAK YFKLAGESYK NKDMKQAFFY LGLSLHYLGD VNQPMHAANF TNLSYPQGFH
+     SKYENFVDTI KDNYKVTDGN GYWNWKGTNP EEWIHGAAVV AKQDYSGIVN DNTKDWFVKA
+     AVSQEYADKW RAEVTPMTGK RLMDAQRVTA GYIQLWFDTY GDR
+//

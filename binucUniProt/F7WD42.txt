@@ -1,0 +1,79 @@
+ID   F7WD42_SORMK            Unreviewed;       432 AA.
+AC   F7WD42;
+DT   21-SEP-2011, integrated into UniProtKB/TrEMBL.
+DT   21-SEP-2011, sequence version 1.
+DT   29-APR-2015, entry version 19.
+DE   SubName: Full=WGS project CABT00000000 data, contig 2.1583 {ECO:0000313|EMBL:CCC14789.1};
+GN   ORFNames=SMAC_12671 {ECO:0000313|EMBL:CCC14789.1};
+OS   Sordaria macrospora (strain ATCC MYA-333 / DSM 997 / K(L3346) /
+OS   K-hell).
+OG   Mitochondrion {ECO:0000313|EMBL:CCC14789.1}.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Sordariomycetidae; Sordariales; Sordariaceae;
+OC   Sordaria.
+OX   NCBI_TaxID=771870 {ECO:0000313|EMBL:CCC14789.1, ECO:0000313|Proteomes:UP000001881};
+RN   [1] {ECO:0000313|EMBL:CCC14789.1, ECO:0000313|Proteomes:UP000001881}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC MYA-333 / DSM 997 / K(L3346) / K-hell
+RC   {ECO:0000313|Proteomes:UP000001881};
+RC   TISSUE=Mycelium {ECO:0000313|EMBL:CCC14789.1};
+RX   PubMed=20386741; DOI=10.1371/journal.pgen.1000891;
+RA   Nowrousian M., Stajich J.E., Chu M., Engh I., Espagne E., Halliday K.,
+RA   Kamerewerd J., Kempken F., Knab B., Kuo H.-C., Osiewacz H.D.,
+RA   Poeggeler S., Read N.D., Seiler S., Smith K.M., Zickler D., Kueck U.,
+RA   Freitag M.;
+RT   "De novo assembly of a 40 Mb eukaryotic genome from short sequence
+RT   reads: Sordaria macrospora, a model organism for fungal
+RT   morphogenesis.";
+RL   PLoS Genet. 6:E1000891-E1000891(2010).
+RN   [2] {ECO:0000213|PDB:4LOX}
+RP   X-RAY CRYSTALLOGRAPHY (1.98 ANGSTROMS) OF 114-415 IN COMPLEX WITH
+RP   MAGNESIUM.
+RA   Chik J., Shen B., Stoddard B.;
+RT   "Crystal structure of a LAGLIDADG endonuclease from the Sordaria
+RT   Macrospore.";
+RL   Submitted (JUL-2013) to the PDB data bank.
+CC   -!- CAUTION: The sequence shown here is derived from an
+CC       EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is
+CC       preliminary data. {ECO:0000313|EMBL:CCC14789.1}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CABT02001583; CCC14789.1; -; Genomic_DNA.
+DR   RefSeq; XP_003342391.1; XM_003342343.1.
+DR   PDB; 4LOX; X-ray; 1.98 A; A=114-415.
+DR   PDBsum; 4LOX; -.
+DR   GeneID; 10799623; -.
+DR   KEGG; smp:SMAC_12671; -.
+DR   EuPathDB; FungiDB:SMAC_12671; -.
+DR   InParanoid; F7WD42; -.
+DR   OrthoDB; EOG7KDFP0; -.
+DR   Proteomes; UP000001881; Unassembled WGS sequence.
+DR   GO; GO:0005739; C:mitochondrion; IEA:UniProtKB-KW.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004519; F:endonuclease activity; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006314; P:intron homing; IEA:InterPro.
+DR   Gene3D; 3.10.28.10; -; 2.
+DR   InterPro; IPR001982; Endonuc_LAG/HNH.
+DR   InterPro; IPR027434; Homing_endonucl.
+DR   Pfam; PF00961; LAGLIDADG_1; 2.
+DR   SUPFAM; SSF55608; SSF55608; 2.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4LOX};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001881};
+KW   Magnesium {ECO:0000213|PDB:4LOX};
+KW   Metal-binding {ECO:0000213|PDB:4LOX};
+KW   Mitochondrion {ECO:0000313|EMBL:CCC14789.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001881}.
+SQ   SEQUENCE   432 AA;  48839 MW;  1230FAE1BC6C9705 CRC64;
+     MWEKLPNSGE ALKLLVPNLE WKFGGGKSNA FYMVTSQKMS ENEMGYRGSK SIIFKSLIVK
+     EQRVDGSYIN SNFLASQPKT LIQNSMLRCT LTGFERSYQV KALSSITNKR FYSSKGENSK
+     LNPWAVVGFI DAEGSFMVRV RKNSKYKTGW LVVAIFSVTV DKKDLFLLES LKTFFGGLGS
+     IKKSGNSTFS YRIESSEQLT KIILPFFDKY SLITEKLGDY LLFKKVLELM GTKEHLTQRG
+     LEKIVSLKAS INKGLSEELQ AAFPQCVPTP RPEINNKLIP DPFWLAGFVS GDGSFKSILK
+     KSESIKVGFQ SILVFQITQH ARDVKLMESL ISYLGCGFIE KDSRGPWLYY TVTNFSDIQG
+     KIIPFFHQYK IIGSKYGDYM DWCKIALIMQ NKNHLTPEGL NEIRALKGGM NKGRLPLPSS
+     FDSLTFKKPE VV
+//

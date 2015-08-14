@@ -1,0 +1,71 @@
+ID   Q9LCC8_OCHAN            Unreviewed;       363 AA.
+AC   Q9LCC8;
+DT   01-OCT-2000, integrated into UniProtKB/TrEMBL.
+DT   01-OCT-2000, sequence version 1.
+DT   27-MAY-2015, entry version 55.
+DE   SubName: Full=D-Amino acid amidase {ECO:0000313|EMBL:BAA94704.1};
+GN   Name=daaA {ECO:0000313|EMBL:BAA94704.1};
+OS   Ochrobactrum anthropi.
+OC   Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales;
+OC   Brucellaceae; Ochrobactrum.
+OX   NCBI_TaxID=529 {ECO:0000313|EMBL:BAA94704.1};
+RN   [1] {ECO:0000313|EMBL:BAA94704.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=SCRC SV3 {ECO:0000313|EMBL:BAA94704.1};
+RX   PubMed=10727942; DOI=10.1046/j.1432-1327.2000.01208.x;
+RA   Komeda H., Asano Y.;
+RT   "Gene cloning, nucleotide sequencing, and purification and
+RT   characterization of the D-stereospecific amino-acid amidase from
+RT   Ochrobactrum anthropi SV3.";
+RL   Eur. J. Biochem. 267:2028-2035(2000).
+RN   [2] {ECO:0000213|PDB:2DNS, ECO:0000213|PDB:2DRW}
+RP   X-RAY CRYSTALLOGRAPHY (2.10 ANGSTROMS).
+RX   PubMed=17331533; DOI=10.1016/j.jmb.2006.10.070;
+RA   Okazaki S., Suzuki A., Komeda H., Yamaguchi S., Asano Y., Yamane T.;
+RT   "Crystal structure and functional characterization of a D-
+RT   stereospecific amino acid amidase from Ochrobactrum anthropi SV3, a
+RT   new member of the penicillin-recognizing proteins.";
+RL   J. Mol. Biol. 368:79-91(2007).
+RN   [3] {ECO:0000213|PDB:2EFU, ECO:0000213|PDB:2EFX}
+RP   X-RAY CRYSTALLOGRAPHY (2.20 ANGSTROMS).
+RX   PubMed=18323628; DOI=10.1107/S0907444907067479;
+RA   Okazaki S., Suzuki A., Mizushima T., Komeda H., Asano Y., Yamane T.;
+RT   "Structures of D-amino-acid amidase complexed with L-phenylalanine and
+RT   with L-phenylalanine amide: insight into the D-stereospecificity of D-
+RT   amino-acid amidase from Ochrobactrum anthropi SV3.";
+RL   Acta Crystallogr. D 64:331-334(2008).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AB026907; BAA94704.1; -; Genomic_DNA.
+DR   PDB; 2DNS; X-ray; 2.40 A; A/B/C/D/E/F=1-363.
+DR   PDB; 2DRW; X-ray; 2.10 A; A/B/C/D/E/F=1-363.
+DR   PDB; 2EFU; X-ray; 2.30 A; A/B/C/D/E/F=1-363.
+DR   PDB; 2EFX; X-ray; 2.20 A; A/B/C/D/E/F=1-363.
+DR   PDBsum; 2DNS; -.
+DR   PDBsum; 2DRW; -.
+DR   PDBsum; 2EFU; -.
+DR   PDBsum; 2EFX; -.
+DR   ProteinModelPortal; Q9LCC8; -.
+DR   SMR; Q9LCC8; 2-363.
+DR   MEROPS; S12.951; -.
+DR   BRENDA; 3.4.16.4; 4382.
+DR   SABIO-RK; Q9LCC8; -.
+DR   EvolutionaryTrace; Q9LCC8; -.
+DR   Gene3D; 3.40.710.10; -; 1.
+DR   InterPro; IPR001466; Beta-lactam-related.
+DR   InterPro; IPR012338; Beta-lactam/transpept-like.
+DR   Pfam; PF00144; Beta-lactamase; 1.
+DR   SUPFAM; SSF56601; SSF56601; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2DNS, ECO:0000213|PDB:2DRW}.
+SQ   SEQUENCE   363 AA;  40082 MW;  9930DD7F075E1B41 CRC64;
+     MSDLNNAIQG ILDDHVARGV VGVSLALCLP GEETSLYQSG YADKFNKMPM TGDHLFRIAS
+     CTKSFIATGL HLLVQDGTVD LDEPITRWFP DLPKAAQMPV RILLNHRSGL PDFETSMPMI
+     SDKSWTAQEI VDFSFRHGVQ KEPWHGMEYS NTGYVLAGMI IAHETGKPYS DHLRSRIFAP
+     LGMKDTWVGT HETFPIEREA RGYMHAAADD ENPQWDVSGA GDPVDGVWDS TEWFPLSGAN
+     AAGDMVSTPR DIVKFLNALF DGRILDQKRL WEMKDNIKPA FFPGSNTVAN GHGLLLMRYG
+     SSELKGHLGQ IPGHTSIMGR DEETGAALML IQNSGAGDFE SFYLKGVNEP VDRVLEAIKN
+     SRS
+//

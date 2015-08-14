@@ -1,0 +1,69 @@
+ID   AHLL_BACT3              Reviewed;         250 AA.
+AC   Q7B8C3;
+DT   11-JAN-2011, integrated into UniProtKB/Swiss-Prot.
+DT   05-JUL-2004, sequence version 1.
+DT   26-NOV-2014, entry version 37.
+DE   RecName: Full=N-acyl homoserine lactonase {ECO:0000250|UniProtKB:Q7B8B9};
+DE            Short=AHL-lactonase {ECO:0000250|UniProtKB:Q7B8B9};
+DE            EC=3.1.1.81;
+GN   Name=aiiA {ECO:0000312|EMBL:AAM92131.1};
+OS   Bacillus thuringiensis subsp. indiana.
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus;
+OC   Bacillus cereus group.
+OX   NCBI_TaxID=180850;
+RN   [1] {ECO:0000312|EMBL:AAM92131.1}
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=HD-521 {ECO:0000312|EMBL:AAM92131.1};
+RX   PubMed=12147491; DOI=10.1128/AEM.68.8.3919-3924.2002;
+RA   Lee S.J., Park S.Y., Lee J.J., Yum D.Y., Koo B.T., Lee J.K.;
+RT   "Genes encoding the N-acyl homoserine lactone-degrading enzyme are
+RT   widespread in many subspecies of Bacillus thuringiensis.";
+RL   Appl. Environ. Microbiol. 68:3919-3924(2002).
+CC   -!- FUNCTION: Catalyzes hydrolysis of N-hexanoyl-(S)-homoserine
+CC       lactone, but not the R-enantiomer. Hydrolyzes short- and long-
+CC       chain N-acyl homoserine lactones with or without 3-oxo
+CC       substitution at C3, has maximum activity on C10-AHL (By
+CC       similarity). {ECO:0000250|UniProtKB:Q7B8B9}.
+CC   -!- CATALYTIC ACTIVITY: An N-acyl-L-homoserine lactone + H(2)O = an N-
+CC       acyl-L-homoserine. {ECO:0000250|UniProtKB:Q7B8B9}.
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC         Evidence={ECO:0000250|UniProtKB:Q7B8B9};
+CC       Note=Binds 2 Zn(2+) ions per subunit.
+CC       {ECO:0000250|UniProtKB:Q7B8B9};
+CC   -!- SUBUNIT: Monomer. {ECO:0000250|UniProtKB:Q7B8B9}.
+CC   -!- SIMILARITY: Belongs to the metallo-beta-lactamase superfamily.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF478050; AAM92131.1; -; Genomic_DNA.
+DR   ProteinModelPortal; Q7B8C3; -.
+DR   SMR; Q7B8C3; 1-250.
+DR   GO; GO:0016787; F:hydrolase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.60.15.10; -; 1.
+DR   InterPro; IPR001279; Beta-lactamas-like.
+DR   Pfam; PF00753; Lactamase_B; 1.
+DR   SMART; SM00849; Lactamase_B; 1.
+DR   SUPFAM; SSF56281; SSF56281; 1.
+PE   3: Inferred from homology;
+KW   Hydrolase; Metal-binding; Zinc.
+FT   CHAIN         1    250       N-acyl homoserine lactonase.
+FT                                /FTId=PRO_0000403300.
+FT   METAL       104    104       Zinc 1. {ECO:0000250|UniProtKB:Q7B8B9}.
+FT   METAL       106    106       Zinc 1. {ECO:0000250|UniProtKB:Q7B8B9}.
+FT   METAL       108    108       Zinc 2. {ECO:0000250|UniProtKB:Q7B8B9}.
+FT   METAL       109    109       Zinc 2. {ECO:0000250|UniProtKB:Q7B8B9}.
+FT   METAL       169    169       Zinc 1. {ECO:0000250|UniProtKB:Q7B8B9}.
+FT   METAL       191    191       Zinc 1. {ECO:0000250|UniProtKB:Q7B8B9}.
+FT   METAL       191    191       Zinc 2. {ECO:0000250|UniProtKB:Q7B8B9}.
+FT   METAL       235    235       Zinc 2. {ECO:0000250|UniProtKB:Q7B8B9}.
+SQ   SEQUENCE   250 AA;  28220 MW;  CEBC2FE957707C2E CRC64;
+     MTVKKLYFIP AGRCMLDHSS VNSALTPGKL LNLPVWCYLL ETEEGPILVD TGMPESAVNN
+     EGLFNGTFVE GQILPKMTEE DRIVNILKRV GYEPDDLLYI ISSHLHFDHA GGNGAFTNTP
+     IIVQRTEYEA ALHREEYMKE CILPHLNYKI IEGDYEVVPG VQLLYTPGHS PGHQSLFIET
+     EQSGSVLLTI DASYTKENFE DEVPFAGFDP ELALSSIKRL KEVVKKEKPI IFFGHDIEQE
+     KSCRVFPEYI
+//

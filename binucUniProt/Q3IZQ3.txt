@@ -1,0 +1,98 @@
+ID   Q3IZQ3_RHOS4            Unreviewed;       355 AA.
+AC   Q3IZQ3;
+DT   08-NOV-2005, integrated into UniProtKB/TrEMBL.
+DT   08-NOV-2005, sequence version 1.
+DT   22-JUL-2015, entry version 68.
+DE   SubName: Full=Rhodobacter sphaeroides 2.4.1 chromosome 1, complete sequence {ECO:0000313|EMBL:ABA79981.1};
+DE            EC=3.4.13.19 {ECO:0000313|EMBL:ABA79981.1};
+GN   ORFNames=RSP_0802 {ECO:0000313|EMBL:ABA79981.1};
+OS   Rhodobacter sphaeroides (strain ATCC 17023 / 2.4.1 / NCIB 8253 / DSM
+OS   158).
+OC   Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales;
+OC   Rhodobacteraceae; Rhodobacter.
+OX   NCBI_TaxID=272943 {ECO:0000313|EMBL:ABA79981.1, ECO:0000313|Proteomes:UP000002703};
+RN   [1] {ECO:0000313|Proteomes:UP000002703}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 17023 / 2.4.1 / NCIB 8253 / DSM 158
+RC   {ECO:0000313|Proteomes:UP000002703};
+RA   Copeland A., Lucas S., Lapidus A., Barry K., Detter J.C., Glavina T.,
+RA   Hammon N., Israni S., Pitluck S., Richardson P., Mackenzie C.,
+RA   Choudhary M., Larimer F., Hauser L.J., Land M., Donohue T.J.,
+RA   Kaplan S.;
+RT   "Complete sequence of chromosome 1 of Rhodobacter sphaeroides 2.4.1.";
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:3FDG}
+RP   X-RAY CRYSTALLOGRAPHY (1.80 ANGSTROMS) OF 1-354 IN COMPLEX WITH
+RP   MAGNESIUM.
+RA   Zhang R., Hatzos C., Freeman L., Joachimiak A.;
+RT   "The crystal structure of the dipeptidase AC, Metallo peptidase.
+RT   MEROPS family M19.";
+RL   Submitted (NOV-2008) to the PDB data bank.
+RN   [3] {ECO:0000213|PDB:3LY0}
+RP   X-RAY CRYSTALLOGRAPHY (1.40 ANGSTROMS) OF 4-354 IN COMPLEX WITH ZINC.
+RA   Fedorov A.A., Fedorov E.V., Cummings J., Raushel F.M., Sauder J.M.,
+RA   Burley S.K., Almo S.C.;
+RT   "Crystal structure of metallo peptidase from Rhodobacter sphaeroides
+RT   liganded with phosphinate mimic of dipeptide L-Ala-D-Ala.";
+RL   Submitted (FEB-2010) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP000143; ABA79981.1; -; Genomic_DNA.
+DR   RefSeq; WP_011338501.1; NZ_AKVW01000001.1.
+DR   RefSeq; YP_353882.1; NC_007493.2.
+DR   PDB; 3FDG; X-ray; 1.80 A; A/B=1-354.
+DR   PDB; 3LY0; X-ray; 1.40 A; A/B=4-354.
+DR   PDBsum; 3FDG; -.
+DR   PDBsum; 3LY0; -.
+DR   ProteinModelPortal; Q3IZQ3; -.
+DR   STRING; 272943.RSP_0802; -.
+DR   MEROPS; M19.003; -.
+DR   DNASU; 3718420; -.
+DR   EnsemblBacteria; ABA79981; ABA79981; RSP_0802.
+DR   GeneID; 3718420; -.
+DR   KEGG; rsp:RSP_0802; -.
+DR   PATRIC; 23154785; VBIRhoSph57909_2762.
+DR   eggNOG; COG2355; -.
+DR   HOGENOM; HOG000072016; -.
+DR   KO; K01273; -.
+DR   OMA; GGHSIDN; -.
+DR   OrthoDB; EOG61VZ5Z; -.
+DR   PhylomeDB; Q3IZQ3; -.
+DR   BioCyc; RSPH272943:GJAS-2473-MONOMER; -.
+DR   EvolutionaryTrace; Q3IZQ3; -.
+DR   Proteomes; UP000002703; Chromosome 1.
+DR   GO; GO:0016805; F:dipeptidase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   InterPro; IPR008257; Renal_dipep_fam.
+DR   PANTHER; PTHR10443; PTHR10443; 1.
+DR   Pfam; PF01244; Peptidase_M19; 1.
+DR   PROSITE; PS51365; RENAL_DIPEPTIDASE_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3FDG, ECO:0000213|PDB:3LY0};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002703};
+KW   Dipeptidase {ECO:0000313|EMBL:ABA79981.1};
+KW   Hydrolase {ECO:0000313|EMBL:ABA79981.1};
+KW   Magnesium {ECO:0000213|PDB:3FDG};
+KW   Metal-binding {ECO:0000213|PDB:3FDG, ECO:0000213|PDB:3LY0};
+KW   Protease {ECO:0000313|EMBL:ABA79981.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000002703};
+KW   Zinc {ECO:0000213|PDB:3LY0}.
+FT   METAL        11     11       Magnesium 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3FDG}.
+FT   METAL        13     13       Magnesium 1. {ECO:0000213|PDB:3FDG}.
+FT   METAL       137    137       Magnesium 1. {ECO:0000213|PDB:3FDG}.
+FT   METAL       137    137       Magnesium 2. {ECO:0000213|PDB:3FDG}.
+FT   METAL       210    210       Magnesium 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3FDG}.
+FT   METAL       231    231       Magnesium 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:3FDG}.
+SQ   SEQUENCE   355 AA;  38983 MW;  94C8D319B4F23F26 CRC64;
+     MTETIPVFDG HNDFLLRLLR NPANRETIWL KGDGTGHLDL PRMKEGGFAG GFFAIYVPSP
+     QAHDAAHFEA MMDAPPFELP LPPMIRAEQA QPVALAMAGH LLWMERAARG RFKVCRTAAE
+     VRSCHADGIV SGIMHMEGAE AIGADLDALH LFHSLGLRSL GPVWSRPTVF GHGVPFRFPG
+     SPDTGEGLTE AGRRLVAECN RLKIMLDLSH LNEKGFDDVA RLSDAPLVAT HSNAHAVTPS
+     TRNLTDRQLA MIRESRGMVG LNFATSFLRE DGRRSAEMGW EPVLRHLDHL IDRLGEDHVG
+     MGSDFDGATI PQGIADVTGL PALQAAMRAH GYDEPLMRKL CHENWYGLLE RSWGA
+//

@@ -1,0 +1,130 @@
+ID   HEMT_PHAGO              Reviewed;         114 AA.
+AC   P02244; Q9U3V2;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   27-MAY-2015, entry version 92.
+DE   RecName: Full=Hemerythrin;
+OS   Phascolopsis gouldii (Peanut worm) (Golfingia gouldii).
+OC   Eukaryota; Metazoa; Lophotrochozoa; Annelida; Polychaeta; Sipuncula;
+OC   Sipunculidea; Golfingiida; Sipunculidae; Phascolopsis.
+OX   NCBI_TaxID=6442;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND MUTAGENESIS OF LEU-99.
+RX   PubMed=10748012; DOI=10.1074/jbc.M001289200;
+RA   Farmer C.S., Kurtz D.M. Jr., Phillips R.S., Ai J., Sanders-Loehr J.;
+RT   "A leucine residue 'Gates' solvent but not O2 access to the binding
+RT   pocket of Phascolopsis gouldii hemerythrin.";
+RL   J. Biol. Chem. 275:17043-17050(2000).
+RN   [2]
+RP   PROTEIN SEQUENCE OF 2-114.
+RX   PubMed=5722254; DOI=10.1021/bi00851a012;
+RA   Klippenstein G.L., Holleman J.W., Klotz I.M.;
+RT   "The primary structure of Golfingia gouldii hemerythrin. Oder of
+RT   peptides in fragments produced by tryptic digestion of succinylated
+RT   hemerythrin. Complete amino acid sequence.";
+RL   Biochemistry 7:3868-3878(1968).
+RN   [3]
+RP   SEQUENCE REVISION TO 11-12.
+RX   PubMed=11945609; DOI=10.1016/0014-5793(71)80005-4;
+RA   Ferrell R.E., Kitto G.B.;
+RT   "The amino-terminal sequence of Dendrostomum pyroides hemerythrin.";
+RL   FEBS Lett. 12:322-324(1971).
+RN   [4]
+RP   SEQUENCE REVISION TO 59-60.
+RX   PubMed=743303; DOI=10.1016/0006-291X(78)91153-1;
+RA   Gormley P.M., Loehr J.S., Brimhall B., Hermodson M.A.;
+RT   "New evidence for glutamic acid as an iron ligand in hemerythrin.";
+RL   Biochem. Biophys. Res. Commun. 85:1360-1366(1978).
+RN   [5]
+RP   VARIANTS.
+RX   PubMed=5059118; DOI=10.1021/bi00753a011;
+RA   Klippenstein G.L.;
+RT   "Molecular variants of Golfingia gouldii hemerythrin. The primary
+RT   structure of the variants arising from five amino acid interchanges.";
+RL   Biochemistry 11:372-379(1972).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (5.5 ANGSTROMS).
+RX   PubMed=5; DOI=10.1016/0006-291X(75)90508-2;
+RA   Hendrickson W.A., Ward K.B.;
+RT   "Atomic models for the polypeptide backbones of myohemerythrin and
+RT   hemerythrin.";
+RL   Biochem. Biophys. Res. Commun. 66:1349-1356(1975).
+RN   [7]
+RP   X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS).
+RX   PubMed=11372200; DOI=10.1007/s007750100218;
+RA   Farmer C.S., Kurtz D.M. Jr., Liu Z.-J., Wang B.C., Rose J., Ai J.,
+RA   Sanders-Loehr J.;
+RT   "The crystal structures of Phascolopsis gouldii wild type and L98Y
+RT   methemerythrins: structural and functional alterations of the O2
+RT   binding pocket.";
+RL   J. Biol. Inorg. Chem. 6:418-429(2001).
+CC   -!- FUNCTION: Hemerythrin is a respiratory protein in blood cells of
+CC       certain marine worms. The oxygen-binding site in each chain
+CC       contains two iron atoms.
+CC   -!- SUBUNIT: Homooctamer.
+CC   -!- MISCELLANEOUS: The sequence from one of the four major component
+CC       variants is shown.
+CC   -!- SIMILARITY: Belongs to the hemerythrin family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF220529; AAF25482.1; -; mRNA.
+DR   PIR; A90553; HRGG.
+DR   PDB; 1HRB; X-ray; 5.50 A; A/B=2-114.
+DR   PDB; 1I4Y; X-ray; 1.80 A; A/B/C/D/E/F/G/H=1-114.
+DR   PDB; 1I4Z; X-ray; 2.10 A; A/B/C/D/E/F/G/H=1-114.
+DR   PDBsum; 1HRB; -.
+DR   PDBsum; 1I4Y; -.
+DR   PDBsum; 1I4Z; -.
+DR   ProteinModelPortal; P02244; -.
+DR   SMR; P02244; 2-114.
+DR   EvolutionaryTrace; P02244; -.
+DR   GO; GO:0005506; F:iron ion binding; IEA:InterPro.
+DR   GO; GO:0005344; F:oxygen transporter activity; IEA:UniProtKB-KW.
+DR   Gene3D; 1.20.120.50; -; 1.
+DR   InterPro; IPR002063; Haemerythrin.
+DR   InterPro; IPR012827; Haemerythrin-like_metal-bd.
+DR   InterPro; IPR016131; Haemerythrin_Fe_BS.
+DR   PIRSF; PIRSF002033; Hemerythrin; 1.
+DR   PRINTS; PR00186; HEMERYTHRIN.
+DR   SUPFAM; SSF47188; SSF47188; 1.
+DR   TIGRFAMs; TIGR02481; hemeryth_dom; 1.
+DR   TIGRFAMs; TIGR00058; Hemerythrin; 1.
+DR   PROSITE; PS00550; HEMERYTHRINS; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Direct protein sequencing; Iron; Metal-binding;
+KW   Oxygen transport; Transport.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:5722254}.
+FT   CHAIN         2    114       Hemerythrin.
+FT                                /FTId=PRO_0000191837.
+FT   METAL        26     26       Iron 1.
+FT   METAL        55     55       Iron 1.
+FT   METAL        59     59       Iron 1.
+FT   METAL        59     59       Iron 2.
+FT   METAL        74     74       Iron 2.
+FT   METAL        78     78       Iron 2.
+FT   METAL       102    102       Iron 2.
+FT   METAL       107    107       Iron 1.
+FT   METAL       107    107       Iron 2.
+FT   VARIANT      64     64       Q -> E (in minor component).
+FT   VARIANT      79     79       E -> D (in minor component).
+FT   VARIANT      80     80       T -> G.
+FT   VARIANT      83     83       H -> N (in minor component).
+FT   VARIANT      97     97       S -> A (in minor and major variants).
+FT   MUTAGEN      99     99       L->X: Increased auto-oxidation rate (when
+FT                                X different from Tyr).
+FT                                {ECO:0000269|PubMed:10748012}.
+FT   MUTAGEN      99     99       L->Y: Decreased auto-oxidation rate.
+FT                                {ECO:0000269|PubMed:10748012}.
+FT   HELIX        13     15       {ECO:0000244|PDB:1I4Y}.
+FT   HELIX        20     38       {ECO:0000244|PDB:1I4Y}.
+FT   HELIX        42     65       {ECO:0000244|PDB:1I4Y}.
+FT   HELIX        71     86       {ECO:0000244|PDB:1I4Y}.
+FT   HELIX        92    105       {ECO:0000244|PDB:1I4Y}.
+FT   HELIX       107    110       {ECO:0000244|PDB:1I4Y}.
+FT   TURN        111    113       {ECO:0000244|PDB:1I4Y}.
+SQ   SEQUENCE   114 AA;  13605 MW;  BF730C540D0769FC CRC64;
+     MGFPIPDPYV WDPSFRTFYS IIDDEHKTLF NGIFHLAIDD NADNLGELRR CTGKHFLNEQ
+     VLMQASQYQF YDEHKKEHET FIHALDNWKG DVKWAKSWLV NHIKTIDFKY KGKI
+//

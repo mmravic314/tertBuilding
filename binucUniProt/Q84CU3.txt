@@ -1,0 +1,82 @@
+ID   Q84CU3_THETH            Unreviewed;       170 AA.
+AC   Q84CU3;
+DT   01-JUN-2003, integrated into UniProtKB/TrEMBL.
+DT   01-JUN-2003, sequence version 1.
+DT   24-JUN-2015, entry version 78.
+DE   SubName: Full=ADP-ribose pyrophosphatase {ECO:0000313|EMBL:BAC67698.1};
+GN   Name=ndx4 {ECO:0000313|EMBL:BAC67698.1};
+OS   Thermus thermophilus.
+OC   Bacteria; Deinococcus-Thermus; Deinococci; Thermales; Thermaceae;
+OC   Thermus.
+OX   NCBI_TaxID=274 {ECO:0000313|EMBL:BAC67698.1};
+RN   [1] {ECO:0000313|EMBL:BAC67698.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=HB8 {ECO:0000313|EMBL:BAC67698.1};
+RA   Yoshiba S., Nakagawa N., Masui R., Kuramitsu S.;
+RT   "Overproduction, crystallization and initial crystallographic analysis
+RT   of ADP-ribose pyrophosphatase from Thermus thermophilus HB8.";
+RL   Submitted (APR-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000213|PDB:1V8I, ECO:0000213|PDB:1V8L, ECO:0000213|PDB:1V8M}
+RP   X-RAY CRYSTALLOGRAPHY (1.65 ANGSTROMS) IN COMPLEX WITH AMP.
+RX   PubMed=15210687; DOI=10.1074/jbc.M403817200;
+RA   Yoshiba S., Ooga T., Nakagawa N., Shibata T., Inoue Y., Yokoyama S.,
+RA   Kuramitsu S., Masui R.;
+RT   "Structural insights into the Thermus thermophilus ADP-ribose
+RT   pyrophosphatase mechanism via crystal structures with the bound
+RT   substrate and metal.";
+RL   J. Biol. Chem. 279:37163-37174(2004).
+CC   -!- SIMILARITY: Belongs to the Nudix hydrolase family.
+CC       {ECO:0000256|RuleBase:RU003476}.
+CC   -!- SIMILARITY: Contains nudix hydrolase domain.
+CC       {ECO:0000256|SAAS:SAAS00025283}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AB107660; BAC67698.1; -; Genomic_DNA.
+DR   RefSeq; YP_143794.1; NC_006461.1.
+DR   PDB; 1V8I; X-ray; 1.76 A; A=1-170.
+DR   PDB; 1V8L; X-ray; 2.10 A; A=1-170.
+DR   PDB; 1V8M; X-ray; 1.80 A; A=1-170.
+DR   PDB; 1V8N; X-ray; 1.74 A; A=1-170.
+DR   PDB; 1V8R; X-ray; 1.80 A; A=1-170.
+DR   PDB; 1V8S; X-ray; 2.20 A; A=1-170.
+DR   PDB; 1V8T; X-ray; 2.60 A; A=1-170.
+DR   PDB; 1V8U; X-ray; 1.90 A; A=1-170.
+DR   PDB; 1V8V; X-ray; 1.97 A; A=1-170.
+DR   PDB; 1V8W; X-ray; 1.66 A; A=1-170.
+DR   PDB; 1V8Y; X-ray; 1.65 A; A=1-170.
+DR   ProteinModelPortal; Q84CU3; -.
+DR   SMR; Q84CU3; 11-169.
+DR   STRING; 262724.TTC0160; -.
+DR   GeneID; 3169402; -.
+DR   KEGG; ttj:TTHA0528; -.
+DR   KO; K01515; -.
+DR   OrthoDB; EOG6VMTQG; -.
+DR   BRENDA; 3.6.1.13; 2305.
+DR   EvolutionaryTrace; Q84CU3; -.
+DR   GO; GO:0016787; F:hydrolase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0000166; F:nucleotide binding; IEA:UniProtKB-KW.
+DR   Gene3D; 3.90.79.10; -; 1.
+DR   InterPro; IPR020476; Nudix_hydrolase.
+DR   InterPro; IPR020084; NUDIX_hydrolase_CS.
+DR   InterPro; IPR000086; NUDIX_hydrolase_dom.
+DR   InterPro; IPR015797; NUDIX_hydrolase_dom-like.
+DR   Pfam; PF00293; NUDIX; 1.
+DR   PRINTS; PR00502; NUDIXFAMILY.
+DR   SUPFAM; SSF55811; SSF55811; 1.
+DR   PROSITE; PS51462; NUDIX; 1.
+DR   PROSITE; PS00893; NUDIX_BOX; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:1V8I, ECO:0000213|PDB:1V8L};
+KW   Hydrolase {ECO:0000256|RuleBase:RU003476,
+KW   ECO:0000256|SAAS:SAAS00025287};
+KW   Nucleotide-binding {ECO:0000213|PDB:1V8S}.
+FT   NP_BIND      28     29       AMP. {ECO:0000213|PDB:1V8S}.
+FT   BINDING     104    104       AMP; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:1V8S}.
+SQ   SEQUENCE   170 AA;  19264 MW;  DA50D3135DDA7794 CRC64;
+     MGRVYYGGVE RTYLYRGRIL NLALEGRYEI VEHKPAVAVI ALREGRMLFV RQMRPAVGLA
+     PLEIPAGLIE PGEDPLEAAR RELAEETGLS GDLTYLFSYF VSPGFTDEKT HVFLAENLKE
+     VEAHPDEDEA IEVVWMRPEE ALERHQRGEV EFSATGLVGV LYYHAFLRGR
+//

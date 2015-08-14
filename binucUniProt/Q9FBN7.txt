@@ -1,0 +1,84 @@
+ID   Q9FBN7_STRCO            Unreviewed;       236 AA.
+AC   Q9FBN7;
+DT   01-MAR-2001, integrated into UniProtKB/TrEMBL.
+DT   01-MAR-2001, sequence version 1.
+DT   22-JUL-2015, entry version 68.
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAC05886.1};
+GN   OrderedLocusNames=SCO5041 {ECO:0000313|EMBL:CAC05886.1};
+OS   Streptomyces coelicolor (strain ATCC BAA-471 / A3(2) / M145).
+OC   Bacteria; Actinobacteria; Streptomycetales; Streptomycetaceae;
+OC   Streptomyces; Streptomyces albidoflavus group.
+OX   NCBI_TaxID=100226 {ECO:0000313|Proteomes:UP000001973};
+RN   [1] {ECO:0000313|EMBL:CAC05886.1, ECO:0000313|Proteomes:UP000001973}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC BAA-471 / A3(2) / M145
+RC   {ECO:0000313|Proteomes:UP000001973};
+RX   PubMed=12000953; DOI=10.1038/417141a;
+RA   Bentley S.D., Chater K.F., Cerdeno-Tarraga A.M., Challis G.L.,
+RA   Thomson N.R., James K.D., Harris D.E., Quail M.A., Kieser H.,
+RA   Harper D., Bateman A., Brown S., Chandra G., Chen C.W., Collins M.,
+RA   Cronin A., Fraser A., Goble A., Hidalgo J., Hornsby T., Howarth S.,
+RA   Huang C.H., Kieser T., Larke L., Murphy L., Oliver K., O'Neil S.,
+RA   Rabbinowitsch E., Rajandream M.A., Rutherford K., Rutter S.,
+RA   Seeger K., Saunders D., Sharp S., Squares R., Squares S., Taylor K.,
+RA   Warren T., Wietzorrek A., Woodward J., Barrell B.G., Parkhill J.,
+RA   Hopwood D.A.;
+RT   "Complete genome sequence of the model actinomycete Streptomyces
+RT   coelicolor A3(2).";
+RL   Nature 417:141-147(2002).
+RN   [2] {ECO:0000213|PDB:3CBT}
+RP   X-RAY CRYSTALLOGRAPHY (1.70 ANGSTROMS) IN COMPLEX WITH MAGNESIUM.
+RA   Singer A.U., Proudfoot M., Brown G., Xu X., Chang C., Zhang H.,
+RA   Edwards A.M., Joachimiak A., Savchenko A., Yakunin A.F.;
+RT   "Crystal structure of SC4828, a unique phosphatase from Streptomyces
+RT   coelicolor.";
+RL   Submitted (FEB-2008) to the PDB data bank.
+RN   [3] {ECO:0000213|PDB:3EXM}
+RP   X-RAY CRYSTALLOGRAPHY (1.65 ANGSTROMS) IN COMPLEX WITH CALCIUM.
+RA   Proudfoot M., Brown M., Singer A.U., Jobin M.-C., Xu X., Zheng H.,
+RA   Chang C., Edwards A.M., Joachimiak A., Savchenko A., Yakunin A.F.;
+RT   "Structure and mechanism of a new family of prokaryotic nucleoside
+RT   diphosphatases.";
+RL   Submitted (OCT-2008) to the PDB data bank.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AL939122; CAC05886.1; -; Genomic_DNA.
+DR   RefSeq; NP_629193.1; NC_003888.3.
+DR   RefSeq; WP_011030017.1; NC_003888.3.
+DR   PDB; 3CBT; X-ray; 1.70 A; A=1-236.
+DR   PDB; 3EXM; X-ray; 1.65 A; A=1-236.
+DR   ProteinModelPortal; Q9FBN7; -.
+DR   SMR; Q9FBN7; 23-232.
+DR   STRING; 100226.SCO5041; -.
+DR   EnsemblBacteria; CAC05886; CAC05886; CAC05886.
+DR   GeneID; 1100482; -.
+DR   KEGG; sco:SCO5041; -.
+DR   PATRIC; 23739920; VBIStrCoe124346_5120.
+DR   HOGENOM; HOG000253312; -.
+DR   KO; K09145; -.
+DR   OMA; WSVWLFW; -.
+DR   OrthoDB; EOG6CGCCR; -.
+DR   EvolutionaryTrace; Q9FBN7; -.
+DR   Proteomes; UP000001973; Chromosome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   Gene3D; 2.40.380.10; -; 1.
+DR   InterPro; IPR007295; DUF402.
+DR   Pfam; PF04167; DUF402; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3CBT, ECO:0000213|PDB:3EXM};
+KW   Calcium {ECO:0000213|PDB:3EXM};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001973};
+KW   Magnesium {ECO:0000213|PDB:3CBT};
+KW   Metal-binding {ECO:0000213|PDB:3CBT, ECO:0000213|PDB:3EXM};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001973}.
+FT   METAL       133    133       Magnesium. {ECO:0000213|PDB:3CBT}.
+FT   METAL       149    149       Magnesium. {ECO:0000213|PDB:3CBT}.
+FT   METAL       153    153       Magnesium. {ECO:0000213|PDB:3CBT}.
+SQ   SEQUENCE   236 AA;  26414 MW;  A793BA14BCE9EDFE CRC64;
+     MTDGEAVSAA AGPGAEGPPG PVGHWAPGSH ILWRYRENGG PHVHIARPVT VVRDDADLLA
+     VWLAPGTECV KPVLADGTPV HLEPLATRYT KPRTVQRDQW FGTGVLKLAR PGEAWSVWLF
+     WDPGWRFKNW YVNLERPLTR WEGGVDSEDH FLDISVHPDR TWHWRDEDEF AQALRDGLMD
+     PASAGRVRRA GRSAVAEIRA WGSPFADGWE HWRPDPAWPV PSLPGDWDRT PAHVSS
+//

@@ -1,0 +1,121 @@
+ID   Q7NXD4_CHRVO            Unreviewed;       285 AA.
+AC   Q7NXD4;
+DT   15-DEC-2003, integrated into UniProtKB/TrEMBL.
+DT   15-DEC-2003, sequence version 1.
+DT   22-JUL-2015, entry version 82.
+DE   SubName: Full=Putative uncharacterized protein {ECO:0000313|EMBL:AAQ59368.1};
+GN   OrderedLocusNames=CV_1693 {ECO:0000313|EMBL:AAQ59368.1};
+OS   Chromobacterium violaceum (strain ATCC 12472 / DSM 30191 / JCM 1249 /
+OS   NBRC 12614 / NCIMB 9131 / NCTC 9757).
+OC   Bacteria; Proteobacteria; Betaproteobacteria; Neisseriales;
+OC   Chromobacteriaceae; Chromobacterium.
+OX   NCBI_TaxID=243365 {ECO:0000313|Proteomes:UP000001424};
+RN   [1] {ECO:0000313|Proteomes:UP000001424}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 12472 / DSM 30191 / JCM 1249 / NBRC 12614 / NCIMB 9131 /
+RC   NCTC 9757 {ECO:0000313|Proteomes:UP000001424};
+RX   PubMed=14500782; DOI=10.1073/pnas.1832124100;
+RA   Vasconcelos A.T.R., de Almeida D.F., Hungria M., Guimaraes C.T.,
+RA   Antonio R.V., Almeida F.C., de Almeida L.G.P., de Almeida R.,
+RA   Alves-Gomes J.A., Andrade E.M., Araripe J., de Araujo M.F.F.,
+RA   Astolfi-Filho S., Azevedo V., Baptista A.J., Bataus L.A.M.,
+RA   Batista J.S., Belo A., van den Berg C., Bogo M., Bonatto S.,
+RA   Bordignon J., Brigido M.M., Brito C.A., Brocchi M., Burity H.A.,
+RA   Camargo A.A., Cardoso D.D.P., Carneiro N.P., Carraro D.M.,
+RA   Carvalho C.M.B., Cascardo J.C.M., Cavada B.S., Chueire L.M.O.,
+RA   Creczynski-Pasa T.B., Cunha-Junior N.C., Fagundes N., Falcao C.L.,
+RA   Fantinatti F., Farias I.P., Felipe M.S.S., Ferrari L.P., Ferro J.A.,
+RA   Ferro M.I.T., Franco G.R., Freitas N.S.A., Furlan L.R.,
+RA   Gazzinelli R.T., Gomes E.A., Goncalves P.R., Grangeiro T.B.,
+RA   Grattapaglia D., Grisard E.C., Hanna E.S., Jardim S.N., Laurino J.,
+RA   Leoi L.C.T., Lima L.F.A., Loureiro M.F., Lyra M.C.C.P.,
+RA   Madeira H.M.F., Manfio G.P., Maranhao A.Q., Martins W.S.,
+RA   di Mauro S.M.Z., de Medeiros S.R.B., Meissner R.V., Moreira M.A.M.,
+RA   Nascimento F.F., Nicolas M.F., Oliveira J.G., Oliveira S.C.,
+RA   Paixao R.F.C., Parente J.A., Pedrosa F.O., Pena S.D.J., Pereira J.O.,
+RA   Pereira M., Pinto L.S.R.C., Pinto L.S., Porto J.I.R., Potrich D.P.,
+RA   Ramalho-Neto C.E., Reis A.M.M., Rigo L.U., Rondinelli E.,
+RA   Santos E.B.P., Santos F.R., Schneider M.P.C., Seuanez H.N.,
+RA   Silva A.M.R., da Silva A.L.C., Silva D.W., Silva R., Simoes I.C.,
+RA   Simon D., Soares C.M.A., Soares R.B.A., Souza E.M., Souza K.R.L.,
+RA   Souza R.C., Steffens M.B.R., Steindel M., Teixeira S.R., Urmenyi T.,
+RA   Vettore A., Wassem R., Zaha A., Simpson A.J.G.;
+RT   "The complete genome sequence of Chromobacterium violaceum reveals
+RT   remarkable and exploitable bacterial adaptability.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 100:11660-11665(2003).
+RN   [2] {ECO:0000213|PDB:2YB1, ECO:0000213|PDB:2YB4}
+RP   X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS) IN COMPLEX WITH AMP AND
+RP   MANGANESE.
+RX   PubMed=24401123;
+RA   Cummings J.A., Vetting M., Ghodge S.V., Xu C., Hillerich B.,
+RA   Seidel R.D., Almo S.C., Raushel F.M.;
+RT   "Prospecting for unannotated enzymes: discovery of a 3',5'-nucleotide
+RT   bisphosphate phosphatase within the amidohydrolase superfamily.";
+RL   Biochemistry 53:591-600(2014).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE016825; AAQ59368.1; -; Genomic_DNA.
+DR   RefSeq; WP_011135245.1; NC_005085.1.
+DR   PDB; 2YB1; X-ray; 1.90 A; A=1-285.
+DR   PDB; 2YB4; X-ray; 2.20 A; A=1-285.
+DR   PDBsum; 2YB4; -.
+DR   ProteinModelPortal; Q7NXD4; -.
+DR   STRING; 243365.CV_1693; -.
+DR   EnsemblBacteria; AAQ59368; AAQ59368; CV_1693.
+DR   KEGG; cvi:CV_1693; -.
+DR   PATRIC; 21438194; VBIChrVio67196_1658.
+DR   HOGENOM; HOG000248104; -.
+DR   KO; K07053; -.
+DR   OMA; MAHPGRY; -.
+DR   OrthoDB; EOG6KMB5P; -.
+DR   BioCyc; CVIO243365:GHUD-1742-MONOMER; -.
+DR   Proteomes; UP000001424; Chromosome.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0003887; F:DNA-directed DNA polymerase activity; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000166; F:nucleotide binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006260; P:DNA replication; IEA:InterPro.
+DR   InterPro; IPR004013; PHP_C.
+DR   InterPro; IPR003141; Pol/His_phosphatase_N.
+DR   InterPro; IPR016195; Pol/histidinol_Pase-like.
+DR   Pfam; PF02811; PHP; 1.
+DR   SMART; SM00481; POLIIIAc; 1.
+DR   SUPFAM; SSF89550; SSF89550; 2.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:2YB1, ECO:0000213|PDB:2YB4};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001424};
+KW   Manganese {ECO:0000213|PDB:2YB1};
+KW   Metal-binding {ECO:0000213|PDB:2YB1};
+KW   Nucleotide-binding {ECO:0000213|PDB:2YB1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001424}.
+FT   NP_BIND      99    102       AMP. {ECO:0000213|PDB:2YB1}.
+FT   NP_BIND     134    135       AMP. {ECO:0000213|PDB:2YB1}.
+FT   METAL         7      7       Manganese 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2YB1}.
+FT   METAL         9      9       Manganese 1; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2YB1}.
+FT   METAL        14     14       Manganese 2. {ECO:0000213|PDB:2YB1}.
+FT   METAL        39     39       Manganese 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2YB1}.
+FT   METAL        64     64       Manganese 1. {ECO:0000213|PDB:2YB1}.
+FT   METAL        64     64       Manganese 3. {ECO:0000213|PDB:2YB1}.
+FT   METAL        75     75       Manganese 3; via pros nitrogen.
+FT                                {ECO:0000213|PDB:2YB1}.
+FT   METAL       191    191       Manganese 3; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2YB1}.
+FT   METAL       248    248       Manganese 1. {ECO:0000213|PDB:2YB1}.
+FT   METAL       250    250       Manganese 2; via tele nitrogen.
+FT                                {ECO:0000213|PDB:2YB1}.
+FT   BINDING      14     14       AMP. {ECO:0000213|PDB:2YB1}.
+FT   BINDING      39     39       AMP. {ECO:0000213|PDB:2YB1}.
+FT   BINDING     154    154       AMP. {ECO:0000213|PDB:2YB1}.
+FT   BINDING     250    250       AMP. {ECO:0000213|PDB:2YB1}.
+SQ   SEQUENCE   285 AA;  30456 MW;  5BA7E0385B6AD657 CRC64;
+     MANIDLHFHS RTSDGALTPT EVIDRAAARA PALLALTDHD CTGGLAEAAA AAARRGIPFL
+     NGVEVSVSWG RHTVHIVGLG IDPAEPALAA GLKSIREGRL ERARQMGASL EAAGIAGCFD
+     GAMRWCDNPE MISRTHFARH LVDSGAVKDM RTVFRKYLTP GKPGYVSHQW ASLEDAVGWI
+     VGAGGMAVIA HPGRYDMGRT LIERLILDFQ AAGGQGIEVA SGSHSLDDMH KFALHADRHG
+     LYASSGSDFH APGEGGRDVG HTEDLPPICR PIWRELEARI LRPAD
+//

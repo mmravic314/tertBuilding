@@ -1,0 +1,197 @@
+ID   PPA5_RAT                Reviewed;         327 AA.
+AC   P29288;
+DT   01-DEC-1992, integrated into UniProtKB/Swiss-Prot.
+DT   01-DEC-1992, sequence version 1.
+DT   22-JUL-2015, entry version 115.
+DE   RecName: Full=Tartrate-resistant acid phosphatase type 5;
+DE            Short=TR-AP;
+DE            EC=3.1.3.2;
+DE   AltName: Full=Tartrate-resistant acid ATPase;
+DE            Short=TrATPase;
+DE   AltName: Full=Type 5 acid phosphatase;
+DE   Flags: Precursor;
+GN   Name=Acp5;
+OS   Rattus norvegicus (Rat).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Rattus.
+OX   NCBI_TaxID=10116;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Bone;
+RX   PubMed=1722212;
+RA   Ek-Rylander B., Bill P., Norgaard M., Nilsson S., Andersson G.;
+RT   "Cloning, sequence, and developmental expression of a type 5,
+RT   tartrate-resistant, acid phosphatase of rat bone.";
+RL   J. Biol. Chem. 266:24684-24689(1991).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Kidney;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [3]
+RP   PROTEIN SEQUENCE OF 23-42.
+RX   PubMed=1830446; DOI=10.1002/jbmr.5650060408;
+RA   Ek-Rylander B., Bergman T., Andersson G.;
+RT   "Characterization of a tartrate-resistant acid phosphatase (ATPase)
+RT   from rat bone: hydrodynamic properties and N-terminal amino acid
+RT   sequence.";
+RL   J. Bone Miner. Res. 6:365-373(1991).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (2.7 ANGSTROMS) OF 22-327.
+RX   PubMed=10388567; DOI=10.1006/jmbi.1999.2896;
+RA   Uppenberg J., Lindqvist F., Svensson C., Ek-Rylander B., Andersson G.;
+RT   "Crystal structure of a mammalian purple acid phosphatase.";
+RL   J. Mol. Biol. 290:201-211(1999).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS).
+RX   PubMed=10438611; DOI=10.1006/jmbi.1999.2962;
+RA   Lindqvist Y., Johansson E., Kaija H., Vihko P., Schneider G.;
+RT   "Three-dimensional structure of a mammalian purple acid phosphatase at
+RT   2.2 A resolution with a gamma-(hydr)oxo bridged di-iron center.";
+RL   J. Mol. Biol. 291:135-147(1999).
+CC   -!- FUNCTION: May play a role in the process of bone resorption. The
+CC       osteoclastic trap acts on nucleotide tri- and diphosphates with
+CC       higher affinity, compared with other substrates.
+CC   -!- CATALYTIC ACTIVITY: A phosphate monoester + H(2)O = an alcohol +
+CC       phosphate.
+CC   -!- COFACTOR:
+CC       Name=Fe cation; Xref=ChEBI:CHEBI:24875;
+CC       Note=Binds 2 iron ions per subunit.;
+CC   -!- SUBUNIT: Exists either as monomer or, after proteolytic
+CC       processing, as a dimer of two chains linked by disulfide bond(s).
+CC   -!- SUBCELLULAR LOCATION: Lysosome.
+CC   -!- TISSUE SPECIFICITY: Characteristic constituent of osteoclasts and
+CC       some mononuclear preosteoclasts. Preferentially expressed in
+CC       skeletal tissues.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M76110; AAA42305.1; -; mRNA.
+DR   EMBL; BC078847; AAH78847.1; -; mRNA.
+DR   PIR; A41720; A41720.
+DR   RefSeq; NP_001257818.1; NM_001270889.1.
+DR   RefSeq; NP_062017.2; NM_019144.2.
+DR   RefSeq; XP_006242754.1; XM_006242692.2.
+DR   RefSeq; XP_006242755.1; XM_006242693.2.
+DR   RefSeq; XP_006242756.1; XM_006242694.2.
+DR   UniGene; Rn.171928; -.
+DR   PDB; 1QFC; X-ray; 2.70 A; A=22-327.
+DR   PDB; 1QHW; X-ray; 2.20 A; A=1-327.
+DR   PDBsum; 1QFC; -.
+DR   PDBsum; 1QHW; -.
+DR   ProteinModelPortal; P29288; -.
+DR   SMR; P29288; 26-325.
+DR   IntAct; P29288; 1.
+DR   MINT; MINT-8283229; -.
+DR   STRING; 10116.ENSRNOP00000066364; -.
+DR   PRIDE; P29288; -.
+DR   Ensembl; ENSRNOT00000075237; ENSRNOP00000066364; ENSRNOG00000046261.
+DR   GeneID; 25732; -.
+DR   KEGG; rno:25732; -.
+DR   CTD; 54; -.
+DR   RGD; 2022; Acp5.
+DR   GeneTree; ENSGT00390000016735; -.
+DR   HOVERGEN; HBG000433; -.
+DR   InParanoid; P29288; -.
+DR   KO; K14379; -.
+DR   OMA; ELMIDWF; -.
+DR   OrthoDB; EOG7WHH9R; -.
+DR   PhylomeDB; P29288; -.
+DR   Reactome; REACT_349112; Vitamin B2 (riboflavin) metabolism.
+DR   EvolutionaryTrace; P29288; -.
+DR   NextBio; 607863; -.
+DR   PMAP-CutDB; P29288; -.
+DR   PRO; PR:P29288; -.
+DR   Proteomes; UP000002494; Chromosome 8.
+DR   ExpressionAtlas; P29288; baseline and differential.
+DR   Genevisible; P29288; RN.
+DR   GO; GO:0005615; C:extracellular space; IDA:RGD.
+DR   GO; GO:0016021; C:integral component of membrane; TAS:RGD.
+DR   GO; GO:0005764; C:lysosome; TAS:RGD.
+DR   GO; GO:0003993; F:acid phosphatase activity; IDA:RGD.
+DR   GO; GO:0008199; F:ferric iron binding; ISS:UniProtKB.
+DR   GO; GO:0008198; F:ferrous iron binding; ISS:UniProtKB.
+DR   GO; GO:0016787; F:hydrolase activity; IDA:RGD.
+DR   GO; GO:0045453; P:bone resorption; IEP:RGD.
+DR   GO; GO:0016311; P:dephosphorylation; IDA:GOC.
+DR   GO; GO:0008152; P:metabolic process; IDA:GOC.
+DR   GO; GO:0033555; P:multicellular organismal response to stress; IEP:RGD.
+DR   GO; GO:0007162; P:negative regulation of cell adhesion; IDA:RGD.
+DR   GO; GO:0001503; P:ossification; IEP:RGD.
+DR   GO; GO:0030316; P:osteoclast differentiation; IEP:RGD.
+DR   GO; GO:0030335; P:positive regulation of cell migration; IMP:RGD.
+DR   GO; GO:0070723; P:response to cholesterol; IEP:RGD.
+DR   GO; GO:0033591; P:response to L-ascorbic acid; IEP:RGD.
+DR   GO; GO:0014070; P:response to organic cyclic compound; IEP:RGD.
+DR   GO; GO:0010043; P:response to zinc ion; IEP:RGD.
+DR   Gene3D; 3.60.21.10; -; 1.
+DR   InterPro; IPR024927; Acid_Pase_5.
+DR   InterPro; IPR004843; Calcineurin-like_PHP_apaH.
+DR   InterPro; IPR029052; Metallo-depent_PP-like.
+DR   Pfam; PF00149; Metallophos; 1.
+DR   PIRSF; PIRSF000898; Acid_Ptase_5; 1.
+DR   SUPFAM; SSF56300; SSF56300; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Direct protein sequencing;
+KW   Disulfide bond; Glycoprotein; Hydrolase; Iron; Lysosome;
+KW   Metal-binding; Reference proteome; Signal.
+FT   SIGNAL        1     22       {ECO:0000269|PubMed:1830446}.
+FT   CHAIN        23    327       Tartrate-resistant acid phosphatase type
+FT                                5.
+FT                                /FTId=PRO_0000023985.
+FT   METAL        35     35       Iron 1.
+FT   METAL        73     73       Iron 1.
+FT   METAL        73     73       Iron 2.
+FT   METAL        76     76       Iron 1.
+FT   METAL       112    112       Iron 2.
+FT   METAL       207    207       Iron 2.
+FT   METAL       242    242       Iron 2.
+FT   METAL       244    244       Iron 1.
+FT   CARBOHYD    118    118       N-linked (GlcNAc...).
+FT   CARBOHYD    149    149       N-linked (GlcNAc...). {ECO:0000255}.
+FT   DISULFID    163    221
+FT   STRAND       28     33       {ECO:0000244|PDB:1QHW}.
+FT   STRAND       40     44       {ECO:0000244|PDB:1QFC}.
+FT   HELIX        47     63       {ECO:0000244|PDB:1QHW}.
+FT   STRAND       66     70       {ECO:0000244|PDB:1QHW}.
+FT   TURN         76     78       {ECO:0000244|PDB:1QHW}.
+FT   TURN         83     85       {ECO:0000244|PDB:1QFC}.
+FT   HELIX        87     90       {ECO:0000244|PDB:1QHW}.
+FT   TURN         91     95       {ECO:0000244|PDB:1QHW}.
+FT   HELIX        99    101       {ECO:0000244|PDB:1QHW}.
+FT   HELIX       114    116       {ECO:0000244|PDB:1QHW}.
+FT   HELIX       119    124       {ECO:0000244|PDB:1QHW}.
+FT   HELIX       125    127       {ECO:0000244|PDB:1QHW}.
+FT   STRAND      130    133       {ECO:0000244|PDB:1QHW}.
+FT   STRAND      136    144       {ECO:0000244|PDB:1QHW}.
+FT   STRAND      146    148       {ECO:0000244|PDB:1QHW}.
+FT   STRAND      151    156       {ECO:0000244|PDB:1QHW}.
+FT   HELIX       159    163       {ECO:0000244|PDB:1QHW}.
+FT   HELIX       166    168       {ECO:0000244|PDB:1QHW}.
+FT   HELIX       180    194       {ECO:0000244|PDB:1QHW}.
+FT   STRAND      200    205       {ECO:0000244|PDB:1QHW}.
+FT   STRAND      214    216       {ECO:0000244|PDB:1QHW}.
+FT   HELIX       220    225       {ECO:0000244|PDB:1QHW}.
+FT   HELIX       227    233       {ECO:0000244|PDB:1QHW}.
+FT   STRAND      237    240       {ECO:0000244|PDB:1QHW}.
+FT   STRAND      242    250       {ECO:0000244|PDB:1QHW}.
+FT   STRAND      256    260       {ECO:0000244|PDB:1QHW}.
+FT   STRAND      262    264       {ECO:0000244|PDB:1QFC}.
+FT   HELIX       273    275       {ECO:0000244|PDB:1QHW}.
+FT   STRAND      281    285       {ECO:0000244|PDB:1QHW}.
+FT   STRAND      293    299       {ECO:0000244|PDB:1QHW}.
+FT   STRAND      301    310       {ECO:0000244|PDB:1QHW}.
+FT   STRAND      315    322       {ECO:0000244|PDB:1QHW}.
+SQ   SEQUENCE   327 AA;  36726 MW;  5121A66A635ED854 CRC64;
+     MDTWMVLLGL QILLLPLLAH CTAPASTLRF VAVGDWGGVP NAPFHTAREM ANAKEIARTV
+     QIMGADFIMS LGDNFYFTGV HDANDKRFQE TFEDVFSDRA LRNIPWYVLA GNHDHLGNVS
+     AQIAYSKISK RWNFPSPYYR LRFKVPRSNI TVAIFMLDTV MLCGNSDDFV SQQPEMPRDL
+     GVARTQLSWL KKQLAAAKED YVLVAGHYPI WSIAEHGPTR CLVKNLRPLL AAYGVTAYLC
+     GHDHNLQYLQ DENGVGYVLS GAGNFMDPSV RHQRKVPNGY LRFHYGSEDS LGGFTYVEIG
+     SKEMSITYVE ASGKSLFKTS LPRRPRP
+//

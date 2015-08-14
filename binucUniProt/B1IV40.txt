@@ -1,0 +1,135 @@
+ID   PYRC_ECOLC              Reviewed;         348 AA.
+AC   B1IV40;
+DT   20-MAY-2008, integrated into UniProtKB/Swiss-Prot.
+DT   29-APR-2008, sequence version 1.
+DT   22-JUL-2015, entry version 53.
+DE   RecName: Full=Dihydroorotase {ECO:0000255|HAMAP-Rule:MF_00219};
+DE            Short=DHOase {ECO:0000255|HAMAP-Rule:MF_00219};
+DE            EC=3.5.2.3 {ECO:0000255|HAMAP-Rule:MF_00219};
+GN   Name=pyrC {ECO:0000255|HAMAP-Rule:MF_00219};
+GN   OrderedLocusNames=EcolC_2538;
+OS   Escherichia coli (strain ATCC 8739 / DSM 1576 / Crooks).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=481805;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 8739 / DSM 1576 / Crooks;
+RA   Copeland A., Lucas S., Lapidus A., Glavina del Rio T., Dalin E.,
+RA   Tice H., Bruce D., Goodwin L., Pitluck S., Kiss H., Brettin T.,
+RA   Detter J.C., Han C., Kuske C.R., Schmutz J., Larimer F., Land M.,
+RA   Hauser L., Kyrpides N., Mikhailova N., Ingram L., Richardson P.;
+RT   "Complete sequence of Escherichia coli C str. ATCC 8739.";
+RL   Submitted (FEB-2008) to the EMBL/GenBank/DDBJ databases.
+CC   -!- CATALYTIC ACTIVITY: (S)-dihydroorotate + H(2)O = N-carbamoyl-L-
+CC       aspartate. {ECO:0000255|HAMAP-Rule:MF_00219}.
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC         Evidence={ECO:0000255|HAMAP-Rule:MF_00219};
+CC       Note=Binds 2 Zn(2+) ions per subunit. {ECO:0000255|HAMAP-
+CC       Rule:MF_00219};
+CC   -!- PATHWAY: Pyrimidine metabolism; UMP biosynthesis via de novo
+CC       pathway; (S)-dihydroorotate from bicarbonate: step 3/3.
+CC       {ECO:0000255|HAMAP-Rule:MF_00219}.
+CC   -!- SUBUNIT: Homodimer. {ECO:0000255|HAMAP-Rule:MF_00219}.
+CC   -!- SIMILARITY: Belongs to the DHOase family. Type 1 subfamily.
+CC       {ECO:0000255|HAMAP-Rule:MF_00219}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP000946; ACA78169.1; -; Genomic_DNA.
+DR   RefSeq; WP_000126543.1; NC_010468.1.
+DR   PDB; 3MJM; X-ray; 1.87 A; A/B=2-348.
+DR   PDBsum; 3MJM; -.
+DR   ProteinModelPortal; B1IV40; -.
+DR   SMR; B1IV40; 4-347.
+DR   STRING; 481805.EcolC_2538; -.
+DR   MEROPS; M38.A02; -.
+DR   PRIDE; B1IV40; -.
+DR   EnsemblBacteria; ACA78169; ACA78169; EcolC_2538.
+DR   KEGG; ecl:EcolC_2538; -.
+DR   PATRIC; 18227984; VBIEscCol82905_2713.
+DR   eggNOG; COG0418; -.
+DR   HOGENOM; HOG000256259; -.
+DR   KO; K01465; -.
+DR   OMA; YAEAFEQ; -.
+DR   OrthoDB; EOG6TFCMH; -.
+DR   BioCyc; ECOL481805:GI3G-2591-MONOMER; -.
+DR   UniPathway; UPA00070; UER00117.
+DR   EvolutionaryTrace; B1IV40; -.
+DR   GO; GO:0004151; F:dihydroorotase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0044205; P:'de novo' UMP biosynthetic process; IEA:UniProtKB-UniPathway.
+DR   GO; GO:0019856; P:pyrimidine nucleobase biosynthetic process; IEA:InterPro.
+DR   HAMAP; MF_00219; PyrC_type1; 1.
+DR   InterPro; IPR006680; Amidohydro_1.
+DR   InterPro; IPR004721; DHOdimr.
+DR   InterPro; IPR002195; Dihydroorotase_CS.
+DR   PANTHER; PTHR11647:SF59; PTHR11647:SF59; 1.
+DR   Pfam; PF01979; Amidohydro_1; 1.
+DR   PIRSF; PIRSF001237; DHOdimr; 1.
+DR   TIGRFAMs; TIGR00856; pyrC_dimer; 1.
+DR   PROSITE; PS00482; DIHYDROOROTASE_1; 1.
+DR   PROSITE; PS00483; DIHYDROOROTASE_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Hydrolase; Metal-binding; Pyrimidine biosynthesis; Zinc.
+FT   CHAIN         1    348       Dihydroorotase.
+FT                                /FTId=PRO_1000078096.
+FT   METAL        17     17       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000255|HAMAP-Rule:MF_00219}.
+FT   METAL        19     19       Zinc 1; via tele nitrogen.
+FT                                {ECO:0000255|HAMAP-Rule:MF_00219}.
+FT   METAL       103    103       Zinc 1; via carbamate group.
+FT                                {ECO:0000255|HAMAP-Rule:MF_00219}.
+FT   METAL       103    103       Zinc 2; via carbamate group.
+FT                                {ECO:0000255|HAMAP-Rule:MF_00219}.
+FT   METAL       140    140       Zinc 2; via pros nitrogen.
+FT                                {ECO:0000255|HAMAP-Rule:MF_00219}.
+FT   METAL       178    178       Zinc 2; via tele nitrogen.
+FT                                {ECO:0000255|HAMAP-Rule:MF_00219}.
+FT   METAL       251    251       Zinc 1. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00219}.
+FT   MOD_RES     103    103       N6-carboxylysine. {ECO:0000255|HAMAP-
+FT                                Rule:MF_00219}.
+FT   STRAND        7     11       {ECO:0000244|PDB:3MJM}.
+FT   STRAND       15     18       {ECO:0000244|PDB:3MJM}.
+FT   HELIX        23     34       {ECO:0000244|PDB:3MJM}.
+FT   STRAND       38     42       {ECO:0000244|PDB:3MJM}.
+FT   HELIX        53     66       {ECO:0000244|PDB:3MJM}.
+FT   STRAND       74     80       {ECO:0000244|PDB:3MJM}.
+FT   HELIX        87     95       {ECO:0000244|PDB:3MJM}.
+FT   STRAND       98    104       {ECO:0000244|PDB:3MJM}.
+FT   TURN        113    115       {ECO:0000244|PDB:3MJM}.
+FT   HELIX       121    123       {ECO:0000244|PDB:3MJM}.
+FT   HELIX       124    133       {ECO:0000244|PDB:3MJM}.
+FT   STRAND      137    139       {ECO:0000244|PDB:3MJM}.
+FT   HELIX       150    152       {ECO:0000244|PDB:3MJM}.
+FT   HELIX       153    160       {ECO:0000244|PDB:3MJM}.
+FT   HELIX       162    168       {ECO:0000244|PDB:3MJM}.
+FT   STRAND      174    176       {ECO:0000244|PDB:3MJM}.
+FT   HELIX       182    189       {ECO:0000244|PDB:3MJM}.
+FT   STRAND      195    199       {ECO:0000244|PDB:3MJM}.
+FT   HELIX       201    205       {ECO:0000244|PDB:3MJM}.
+FT   HELIX       208    212       {ECO:0000244|PDB:3MJM}.
+FT   HELIX       218    220       {ECO:0000244|PDB:3MJM}.
+FT   HELIX       229    240       {ECO:0000244|PDB:3MJM}.
+FT   STRAND      246    248       {ECO:0000244|PDB:3MJM}.
+FT   HELIX       257    260       {ECO:0000244|PDB:3MJM}.
+FT   TURN        272    274       {ECO:0000244|PDB:3MJM}.
+FT   HELIX       275    285       {ECO:0000244|PDB:3MJM}.
+FT   HELIX       289    291       {ECO:0000244|PDB:3MJM}.
+FT   HELIX       292    297       {ECO:0000244|PDB:3MJM}.
+FT   HELIX       299    304       {ECO:0000244|PDB:3MJM}.
+FT   STRAND      311    316       {ECO:0000244|PDB:3MJM}.
+FT   STRAND      329    333       {ECO:0000244|PDB:3MJM}.
+FT   TURN        336    339       {ECO:0000244|PDB:3MJM}.
+FT   STRAND      341    343       {ECO:0000244|PDB:3MJM}.
+SQ   SEQUENCE   348 AA;  38813 MW;  2EFEA36B232519A0 CRC64;
+     MTAPSQVLKI RRPDDWHLHL RDGDMLKTVV PYTSEIYGRA IVMPNLAPPV TTVEAAVAYR
+     QRILDAVPAG HDFTPLMTCY LTDSLDPNEL ERGFNEGVFT AAKLYPANAT TNSSHGVTSV
+     DAIMPVLERM EKIGMPLLVH GEVTHADIDI FDREARFIES VMEPLRQRLT ALKVVFEHIT
+     TKDAADYVRD GNERLAATIT PQHLMFNRNH MLVGGVRPHL YCLPILKRNI HQQALRELVA
+     SGFNRVFLGT DSAPHARHRK ESSCGCAGCF NAPTALGSYA TVFEEMNALQ HFEAFCSVNG
+     PQFYGLPVND TFIELVREEQ QVAESIALTD DTLVPFLAGE TVRWSVKQ
+//

@@ -1,0 +1,137 @@
+ID   HIS3_METTH              Reviewed;         138 AA.
+AC   O26347;
+DT   15-DEC-1998, integrated into UniProtKB/Swiss-Prot.
+DT   01-JAN-1998, sequence version 1.
+DT   22-JUL-2015, entry version 105.
+DE   RecName: Full=Phosphoribosyl-AMP cyclohydrolase {ECO:0000255|HAMAP-Rule:MF_01021};
+DE            Short=PRA-CH {ECO:0000255|HAMAP-Rule:MF_01021};
+DE            EC=3.5.4.19 {ECO:0000255|HAMAP-Rule:MF_01021};
+GN   Name=hisI {ECO:0000255|HAMAP-Rule:MF_01021};
+GN   OrderedLocusNames=MTH_245;
+OS   Methanothermobacter thermautotrophicus (strain ATCC 29096 / DSM 1053 /
+OS   JCM 10044 / NBRC 100330 / Delta H) (Methanobacterium
+OS   thermoautotrophicum).
+OC   Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales;
+OC   Methanobacteriaceae; Methanothermobacter.
+OX   NCBI_TaxID=187420;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 29096 / DSM 1053 / JCM 10044 / NBRC 100330 / Delta H;
+RX   PubMed=9371463;
+RA   Smith D.R., Doucette-Stamm L.A., Deloughery C., Lee H.-M., Dubois J.,
+RA   Aldredge T., Bashirzadeh R., Blakely D., Cook R., Gilbert K.,
+RA   Harrison D., Hoang L., Keagle P., Lumm W., Pothier B., Qiu D.,
+RA   Spadafora R., Vicare R., Wang Y., Wierzbowski J., Gibson R.,
+RA   Jiwani N., Caruso A., Bush D., Safer H., Patwell D., Prabhakar S.,
+RA   McDougall S., Shimer G., Goyal A., Pietrovski S., Church G.M.,
+RA   Daniels C.J., Mao J.-I., Rice P., Noelling J., Reeve J.N.;
+RT   "Complete genome sequence of Methanobacterium thermoautotrophicum
+RT   deltaH: functional analysis and comparative genomics.";
+RL   J. Bacteriol. 179:7135-7155(1997).
+RN   [2]
+RP   X-RAY CRYSTALLOGRAPHY (1.70 ANGSTROMS) IN COMPLEX WITH CADMIUM,
+RP   FUNCTION, CATALYTIC ACTIVITY, COFACTOR, BIOPHYSICOCHEMICAL PROPERTIES,
+RP   SUBUNIT, AND METAL-BINDING SITES.
+RX   PubMed=16042384; DOI=10.1021/bi050472w;
+RA   Sivaraman J., Myers R.S., Boju L., Sulea T., Cygler M.,
+RA   Jo Davisson V., Schrag J.D.;
+RT   "Crystal structure of Methanobacterium thermoautotrophicum
+RT   phosphoribosyl-AMP cyclohydrolase HisI.";
+RL   Biochemistry 44:10071-10080(2005).
+CC   -!- FUNCTION: Catalyzes the hydrolysis of the adenine ring of
+CC       phosphoribosyl-AMP. {ECO:0000255|HAMAP-Rule:MF_01021,
+CC       ECO:0000269|PubMed:16042384}.
+CC   -!- CATALYTIC ACTIVITY: 1-(5-phospho-beta-D-ribosyl)-AMP + H(2)O = 1-
+CC       (5-phospho-beta-D-ribosyl)-5-((5-phospho-beta-D-
+CC       ribosylamino)methylideneamino)imidazole-4-carboxamide.
+CC       {ECO:0000255|HAMAP-Rule:MF_01021, ECO:0000269|PubMed:16042384}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000305|PubMed:16042384};
+CC       Note=Binds 1 Mg(2+) ion per subunit.
+CC       {ECO:0000305|PubMed:16042384};
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC         Evidence={ECO:0000305|PubMed:16042384};
+CC       Note=Binds 1 zinc ion per subunit. {ECO:0000305|PubMed:16042384};
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=14 uM for phosphoribosyl-AMP {ECO:0000269|PubMed:16042384};
+CC         Note=kcat is 8 sec(-1).;
+CC   -!- PATHWAY: Amino-acid biosynthesis; L-histidine biosynthesis; L-
+CC       histidine from 5-phospho-alpha-D-ribose 1-diphosphate: step 3/9.
+CC       {ECO:0000255|HAMAP-Rule:MF_01021}.
+CC   -!- SUBUNIT: Homodimer. {ECO:0000255|HAMAP-Rule:MF_01021,
+CC       ECO:0000269|PubMed:16042384}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_01021}.
+CC   -!- SIMILARITY: Belongs to the PRA-CH family. {ECO:0000255|HAMAP-
+CC       Rule:MF_01021}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE000666; AAB84751.1; -; Genomic_DNA.
+DR   PIR; F69130; F69130.
+DR   RefSeq; NP_275388.1; NC_000916.1.
+DR   RefSeq; WP_010875884.1; NC_000916.1.
+DR   PDB; 1ZPS; X-ray; 1.70 A; A/B=1-138.
+DR   PDBsum; 1ZPS; -.
+DR   ProteinModelPortal; O26347; -.
+DR   SMR; O26347; 4-131.
+DR   STRING; 187420.MTH245; -.
+DR   EnsemblBacteria; AAB84751; AAB84751; MTH_245.
+DR   GeneID; 1470206; -.
+DR   KEGG; mth:MTH245; -.
+DR   eggNOG; COG0139; -.
+DR   KO; K01496; -.
+DR   OMA; HEPGIAC; -.
+DR   BioCyc; MTHE187420:GJNM-245-MONOMER; -.
+DR   UniPathway; UPA00031; UER00008.
+DR   EvolutionaryTrace; O26347; -.
+DR   Proteomes; UP000005223; Chromosome.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0004635; F:phosphoribosyl-AMP cyclohydrolase activity; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:UniProtKB-HAMAP.
+DR   GO; GO:0000105; P:histidine biosynthetic process; IEA:UniProtKB-HAMAP.
+DR   HAMAP; MF_01021; HisI; 1.
+DR   InterPro; IPR026660; PRA-CH.
+DR   InterPro; IPR002496; PRib_AMP_CycHydrolase_dom.
+DR   Pfam; PF01502; PRA-CH; 1.
+DR   ProDom; PD002610; PRA_CycHdrlase; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Amino-acid biosynthesis; Complete proteome; Cytoplasm;
+KW   Histidine biosynthesis; Hydrolase; Magnesium; Metal-binding;
+KW   Reference proteome; Zinc.
+FT   CHAIN         1    138       Phosphoribosyl-AMP cyclohydrolase.
+FT                                /FTId=PRO_0000136511.
+FT   METAL        85     85       Magnesium. {ECO:0000305}.
+FT   METAL        86     86       Zinc; shared with dimeric partner.
+FT                                {ECO:0000305}.
+FT   METAL        87     87       Magnesium. {ECO:0000305}.
+FT   METAL        89     89       Magnesium. {ECO:0000305}.
+FT   METAL       102    102       Zinc; shared with dimeric partner.
+FT                                {ECO:0000305}.
+FT   METAL       109    109       Zinc; shared with dimeric partner.
+FT                                {ECO:0000305}.
+FT   HELIX         5      7       {ECO:0000244|PDB:1ZPS}.
+FT   HELIX         9     11       {ECO:0000244|PDB:1ZPS}.
+FT   STRAND       18     20       {ECO:0000244|PDB:1ZPS}.
+FT   STRAND       24     30       {ECO:0000244|PDB:1ZPS}.
+FT   TURN         31     33       {ECO:0000244|PDB:1ZPS}.
+FT   STRAND       36     42       {ECO:0000244|PDB:1ZPS}.
+FT   HELIX        44     53       {ECO:0000244|PDB:1ZPS}.
+FT   STRAND       57     60       {ECO:0000244|PDB:1ZPS}.
+FT   TURN         61     64       {ECO:0000244|PDB:1ZPS}.
+FT   STRAND       65     68       {ECO:0000244|PDB:1ZPS}.
+FT   TURN         69     73       {ECO:0000244|PDB:1ZPS}.
+FT   STRAND       77     84       {ECO:0000244|PDB:1ZPS}.
+FT   STRAND       88     99       {ECO:0000244|PDB:1ZPS}.
+FT   STRAND      105    109       {ECO:0000244|PDB:1ZPS}.
+FT   STRAND      112    115       {ECO:0000244|PDB:1ZPS}.
+FT   STRAND      118    121       {ECO:0000244|PDB:1ZPS}.
+SQ   SEQUENCE   138 AA;  15458 MW;  ABE62FDD2235C067 CRC64;
+     MIKSKGDVNI LLNFRHNING EDLIIAVAQD HETGEVLMVA YMNREALRRT LETGTAHYWS
+     TSRGKLWLKG ESSGHVQRVK DVLVDCDGDA VVLKVEQEGG ACHTGYRSCF YRSIDGDELK
+     VREDAVKVFD PEEIYGDG
+//
