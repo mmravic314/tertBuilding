@@ -1,0 +1,7 @@
+label freq operation
+A 0.15 0
+B 0.1 0
+C 0.1 +
+D 0.06 +
+E 0.06 0
+F 0.03 0

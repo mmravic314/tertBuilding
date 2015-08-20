@@ -1,0 +1,20 @@
+Residues and frequency of potential rotamers contacting ligand atom 6284
+6284 ZN 201 D
+(A,260, 0.00162)
+(A,262, 0.07862)
+(D,32, 0.03755)
+(D,33, 0.1884)
+(D,42, 0.01783)
+(B,262, 0.00196)
+(C,33, 0.00642)
+(C,42, 0.00179)
+Residues and frequency of potential rotamers contacting ligand atom 6324
+6324 ZN 201 C
+(A,262, 0.00196)
+(D,33, 0.00466)
+(D,42, 0.00179)
+(B,262, 0.05663)
+(C,32, 0.03763)
+(C,33, 0.18782)
+(C,42, 0.01785)
+(B,260, 0.00167)

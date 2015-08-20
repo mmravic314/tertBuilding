@@ -1,0 +1,24 @@
+Residues and frequency of potential rotamers contacting ligand atom 4451
+4451 ZN 1002 A
+(A,80, 0.04222)
+(A,113, 0.31197)
+(A,114, 0.54559)
+(A,147, 0.02276)
+(A,148, 0.00342)
+(A,175, 0.27451)
+(B,347, 0.01766)
+(B,363, 0.00531)
+(B,372, 0.01074)
+(C,901, 1.0)
+Residues and frequency of potential rotamers contacting ligand atom 4452
+4452 ZN 1001 A
+(A,80, 0.00185)
+(A,84, 0.10825)
+(A,113, 0.19014)
+(A,147, 0.00159)
+(A,148, 0.13364)
+(A,175, 0.00185)
+(B,372, 0.11095)
+(B,373, 0.08209)
+(C,901, 1.0)
+(D,344, 0.01101)
