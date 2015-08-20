@@ -1,0 +1,95 @@
+## binuclear Zn database creation and TERMs clustering History 
+# Marco Mravic August 2015 Degrado lab UCSF Biophysics
+# Note:  ">>" represents bash shell while ">>>" represents Python interpretor shell
+# Note: PDButil is a python module I wrote and continually developed through this work: in my local bin (github link below)
+# mostly run from '/home/xray/tertBuilding/' my git repository (https://github.com/mmravic314/tertBuilding). This has outputs too.
+# Modules required in $PYTHONPATH: numpy, prody (http://prody.csb.pitt.edu/), and PDButil.py (from my github https://github.com/mmravic314/bin)
+# See /home/xray/tertBuilding/hydrolase-redundant-stats.txt for numbers of pdbs remaining after each screening step from whole pdb
+#
+
+
+
+
+#
+## Download the entire PDB, place in one directory (didn't include commmand line for this)
+>> cd tertBuilding
+>> 
+>>    python     ~/bin/findBinuclearCoord_inPDB.py     ~/pdb_080614/
+# *** prints out all PDBs with two divalent metals within 4.3 Angstrom from one another
+# *** Also prints out uniprot IDs for each chain. I manually added any that were missing,if availabile
+# *** saved the stdout txt to (only multinuclear possible binuclear PDBs + uniprot portion) to file '~/tertBuilding/binuclearDivalentPDB.txt'
+>>
+
+## from multinuclear sites, find binuclear ZN. Then check uniprots to see if Zn is naturally found at the observed di-Zn site
+## considered coordinating if heavy, non-carbon atom within 2.7 Angstroms
+## Requires pdb-uniprot mapping at residue level from EMBL SIFTS (https://www.ebi.ac.uk/pdbe/docs/sifts/quick.html): pdb_chain_uniprot.csv
+## Actually a lot of this script is commented out and results were saved in cPickle files. Uncommenting all should work though. (takes long time)
+## Can run with my cPickles (from git tertBuilding) or make new by uncommenting the section where that pickle was created.
+## Also downloading all needed uniprot .txt files (commented out at the moment)
+
+>> mkdir ./binucUniProt/
+>> python ~/bin/binuclearCleanPDB.py ./binuclearDivalentPDB.txt ~/pdb_080615/ ./binucUniProt/ ./pdb_chain_uniprot.csv
+# *** Here a list of pdbs is printed to standard output. copy to text file and submit to PISCES protein culling server
+
+#Your thresholds for culling selected PDB list:
+#  Sequence percentage identity: <= 30
+#  Resolution                  : 0.0 ~ 3.0
+#  R-factor                    : 0.3
+#  Sequence length             : 40 ~ 10000
+#  Non X-ray entries: Excluded
+#  CA-only entries: Excluded
+#  Cull PDB by entry
+#  Cull chains within entries  : No
+
+
+
+###########################################################################
+####################   DATABASE CREATION COMPLETE    ######################
+###########################################################################
+
+
+## From PISCES output summary file (they call it 'sequence ID list file') 
+## move pdb file to new directory 'ZN_db' 
+>> python joinDiZnDatabase/py   ~/tertBuilding/cleanDiZn_nonRedund_res3-XRAY.txt   ~/pdb_080615/  ZN_db/
+
+
+## Write txt file list of ansolute file paths to each pdb in the data base
+>> python
+>>> import os
+>>> outF = open('localZNdbFiles.txt', 'w' )
+>>> list = ''
+>>> for i in os.listdir('./ZN_db/'):
+...		list += os.path.abspath( os.path.join( './ZN_db/',  i) ) + '\n'
+...
+>>> outF.write( list )
+>>> exit()
+>>
+	
+
+## Run confind.cpp (compile) on all PDBs in the database, saving output rotamer files
+>> mkdir zN_rOUT/
+>> chmod u+x confindRunList.sh
+>> ./confindRunList.sh localZNdgFiles.txt
+>>
+
+## Determine distribution of amino acids in this pdb subset
+>> python 
+>>> from PDButil import *
+>>> freqAA( 'localZNdgFiles.txt' )
+# *** prints the hash in python dict format to std output (screen)
+# *** copy pasted this into '~/bin/add_ligand_contacts_Confind.py' filling out hash 'aaProp' 
+>>> exit()
+>>
+
+## For each binuclear zinc site (from previous pickle/hashes), use confind output rotamers 
+## to determine which residues contact ZN's. Prints ligand centric files w/ frequency each nearby residue interacts 
+>> python ~/bin/gen_ligandTERMs.py ~/tertBuilding/localZNdbFiles.txt /home/xray/tertBuilding/biPairs_byPDB.pkl ~/tertBuilding/zN_rOUT/
+
+# Move .freq files to new directory (for file size github reasons / laziness)
+>>  for i in ./zN_rOUT/*.freq; do mv $i zN_freq/ ; done
+
+## Write a short txt file with a parameter set ( frequency cut off or way to combine each ligand-res freq ) per line
+## Read in parameter set (labelled alphabetically) and generate TERMS for each with bisite as central ligand
+## Exclude sets where each ligand has less than two natural amino acid contacts (may later require EC code, enzymes)
+>> vi diZNtermParams.txt
+>> 
