@@ -1,12 +1,12 @@
 Residues and frequency of potential rotamers contacting ligand atom 5516
 5516 ZN 1092 G
-(C,86, 0.02286)
-(G,65, 0.41969)
-(G,68, 0.006)
-(G,69, 0.61503)
+(C,86, 0.00518)
+(G,65, 0.41736)
+(G,68, 0.00335)
+(G,69, 0.61369)
 Residues and frequency of potential rotamers contacting ligand atom 5522
 5522 ZN 1094 G
-(C,86, 0.02682)
-(G,65, 0.38668)
+(C,86, 0.01895)
+(G,65, 0.36863)
 (G,66, 0.00105)
-(G,69, 0.49579)
+(G,69, 0.45878)

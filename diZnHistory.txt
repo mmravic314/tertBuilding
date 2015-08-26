@@ -83,13 +83,38 @@
 
 ## For each binuclear zinc site (from previous pickle/hashes), use confind output rotamers 
 ## to determine which residues contact ZN's. Prints ligand centric files w/ frequency each nearby residue interacts 
->> python ~/bin/gen_ligandTERMs.py ~/tertBuilding/localZNdbFiles.txt /home/xray/tertBuilding/biPairs_byPDB.pkl ~/tertBuilding/zN_rOUT/
+>> mkdir zN_freq
+>> python  ~/bin/gen_ligandTERMs.py ~/tertBuilding/localZNdbFiles.txt   /home/xray/tertBuilding/biPairs_byPDB.pkl    ~/tertBuilding/zN_rOUT/ ~/tertBuilding/zN_freq/
 
-# Move .freq files to new directory (for file size github reasons / laziness)
->>  for i in ./zN_rOUT/*.freq; do mv $i zN_freq/ ; done
 
 ## Write a short txt file with a parameter set ( frequency cut off or way to combine each ligand-res freq ) per line
 ## Read in parameter set (labelled alphabetically) and generate TERMS for each with bisite as central ligand
 ## Exclude sets where each ligand has less than two natural amino acid contacts (may later require EC code, enzymes)
 >> vi diZNtermParams.txt
->> 
+>> python ~/bin/writeTERMpdbs.py   diZNtermParams.txt ~/tertBuilding/ZN_db/  zN_freq/
+
+## Create .pds (distance map files) for structural alignment by MASTER. RMSD from alignment used for clustering
+## Work through each of the alphabetically labelled directories specific for each parameter set
+>> for i in ./p*/; do cd $i; ~/bin/makeMASTERdb.sh ; cd ../ ; done 
+>> for i in p*/; do cd $i; for p in `ls ./database/*.pds`; do echo $p >>  targetList.txt; done; cd ../ ; done 
+
+## calculate RMSD for best alignments for each structure to all others using MASTER.
+>> for i in p*/; do cd $i; mkdir matches; cd ../; done
+
+>> for i in p*/; do cd $i; echo $i; for p in `ls ./queries/*.pds`; do ~/termanal/master  --query  $p  --targetList targetList.txt --rmsdCut 3.5  --matchOut matches/${p:10:-4}.m  --seqOut matches/${p:10:-4}.seq --bbRMSD; done; cd ../;  done
+
+## For each parameter directory, go into each directory, read all match files...
+## Write full bbRMSD distance matrix (capped at 3.5 Ang) between each TERM pair. 
+## save as cPickle matrix with another hash linking indices of matrix to ID of pdbs being compared.
+# Didn't bash loop through these... just ran on each directory separately 
+>> python ~/bin/genDistanceMatrix.py ./pA/matches/ ~/tertBuilding/pA/distMatrixRedund.pkl
+
+## Heirarchical clustering with threshold, so all clusters are within cut off (rmsd = 2 Angstrom)
+
+## within clusters, remove identical sequences (but keep similar sequences w/ different structures)
+
+
+## Then recluster, having removed these redundant terms
+
+
+

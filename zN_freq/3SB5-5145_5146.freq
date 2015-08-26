@@ -1,13 +1,12 @@
 Residues and frequency of potential rotamers contacting ligand atom 5145
 5145 ZN 163 D
-(D,120, 0.0489)
-(D,123, 0.07075)
-(D,125, 0.84448)
+(D,120, 0.04636)
+(D,123, 0.05054)
+(D,125, 0.82895)
 (D,128, 0.31738)
 Residues and frequency of potential rotamers contacting ligand atom 5146
 5146 ZN 164 D
-(D,120, 0.01683)
-(D,125, 0.12232)
+(D,120, 0.01084)
+(D,125, 0.1141)
 (D,128, 0.89117)
-(D,132, 0.00848)
-(D,131, 0.00474)
+(D,131, 0.00336)

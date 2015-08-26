@@ -1,14 +1,13 @@
 Residues and frequency of potential rotamers contacting ligand atom 1815
 1815 ZN 430 A
 (A,84, 0.00192)
-(A,85, 0.01198)
-(A,86, 0.38889)
-(A,89, 0.11686)
-(A,102, 0.00324)
+(A,85, 0.01103)
+(A,86, 0.37802)
+(A,89, 0.10539)
 Residues and frequency of potential rotamers contacting ligand atom 1816
 1816 ZN 431 A
-(A,84, 0.02959)
+(A,84, 0.02578)
 (A,85, 0.04799)
-(A,86, 0.3541)
-(A,89, 0.02401)
-(A,70, 0.00297)
+(A,86, 0.35175)
+(A,89, 0.00058)
+(A,70, 0.00109)
