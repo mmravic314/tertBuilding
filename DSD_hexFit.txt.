@@ -1,0 +1,152 @@
+** Showed D3 symmetry mates in crystal structure. saved as PDB
+
+PyMOL>sel /dsd///22-43/
+ Selector: selection "sele" defined with 990 atoms.
+ Save: wrote "/home/xray/tertBuilding/dsd_hexamer.pdb".
+
+**Structure Fitter 
+Structure Summary
+selection = "all" 
+chains	6 (fit 22 residues in each)
+chain A	30.770 Å in Z-direction
+chain B	30.768 Å in Z-direction; anti-parallel to chain A
+chain C	30.770 Å in Z-direction; parallel to chain A
+chain D	30.768 Å in Z-direction; anti-parallel to chain A
+chain E	30.770 Å in Z-direction; parallel to chain A
+chain F	30.768 Å in Z-direction; anti-parallel to chain A
+
+
+Best-fit Crick parameters[1]:
+R0 (Å) 	9.425
+R1 (Å) 	2.289
+ω0 (°/res) 	-1.867
+ω1 (°/res) 	102.357
+α (°) 	-11.835
+φ1 for chain A (°) 	-74.884
+φ1 for chain B (°) 	-73.701
+φ1 for chain C (°) 	-74.886
+φ1 for chain D (°) 	-73.700
+φ1 for chain E (°) 	-74.887
+φ1 for chain F (°) 	-73.704
+Δφ0 for chain B (°) 	70.462
+Δφ0 for chain C (°) 	119.999
+Δφ0 for chain D (°) 	-169.539
+Δφ0 for chain E (°) 	-120.000
+Δφ0 for chain F (°) 	-49.539
+starting heptad position for chain A 	b
+starting heptad position for chain B 	b
+starting heptad position for chain C 	b
+starting heptad position for chain D 	b
+starting heptad position for chain E 	b
+starting heptad position for chain F 	b
+pitch (Å) 	282.622
+rise per residue (Å) 	1.498
+ΔZoff for chain B (Å) 	2.136
+ΔZaa' for chain B (Å) 	2.159
+ΔZoff for chain C (Å) 	0.000
+ΔZaa' for chain C (Å) 	0.000
+ΔZoff for chain D (Å) 	2.136
+ΔZaa' for chain D (Å) 	2.159
+ΔZoff for chain E (Å) 	0.000
+ΔZaa' for chain E (Å) 	0.000
+ΔZoff for chain F (Å) 	2.136
+ΔZaa' for chain F (Å) 	2.159
+absolute Zoff for chain B (Å) 	0.179
+absolute Zoff for chain C (Å) 	0.000
+absolute Zoff for chain D (Å) 	0.179
+absolute Zoff for chain E (Å) 	0.000
+absolute Zoff for chain F (Å) 	0.179
+RMSD 	0.211 Å
+processed selection 	0f8da3ac0bae.pdb
+fit CA trace 	0f8da3ac0bae.CA.pdb
+fit CA-CA distance 	3.83
+
+Full backbone rebuild:
+Full backbone PDB file in 0f8da3ac0bae.allbb.pdb
+
+
+
+** Sturcutre Generator 
+
+Number of chains: 
+6
+Chain length: 
+22
+
+Coiled-coil parameters
+Parameter (symbol, unit)	Star	End	# Samples	
+Rise per residue (d, Å):	
+1.51
+
+1.51
+ constrain1
+Superhelical radius (Ro, Å):	
+10.5
+
+8.4
+
+1000
+ adjust2	 vary
+together
+Superhelical frequency (ωo, °/aa):
+(negative means left-handed superhelix)	
+-3.5
+
+-1.5
+
+1000
+ adjust2
+Pitch angle (α, °):	
+-25.14
+
+-8.37
+
+1000
+ adjust2
+α-helical radius (R1, Å):	
+2.26
+
+2.26
+
+1
+α-helical frequency (ω1, °/aa):	
+102.867
+
+102.867
+
+1
+Symmetry (limits variable parameters):
+      Cn
+      Dn
+      Do not impose symmetry
+Forcefield minimize final backbone (CA atoms held fixed)
+Create a poly-alanine backbone, not a poly-glycine
+Chain-wise parameters
+Parameter (symbol, unit)	Star	End	Steps
+Specify one value for each chain after the first. Separate values with spaces, commas or semicolons. Note that by default, individual chain parameters are traversed independently.
+α-helical phase (φ1, °):	
+-74.884 -73.701 -74.886 -73.700 -74.887 -73.704
+
+-74.884 -73.701 -74.886 -73.700 -74.887 -73.704
+
+1
+Superhelical phase offset (Δφ0, °):	
+70.462 119.999 -169.539 -120.000 -49.539
+
+70.462 119.999 -169.539 -120.000 -49.539
+
+1
+Z offset (Zaa', Å):	
+2.16; 0; 2.16; 0; 2.16
+
+2.16; 0; 2.16; 0; 2.16
+
+1
+Orientation versus first chain (p – parallel, ap – antiparallel):	
+ap; p; ap; p; ap
+Couple chain variations
+Resulting number of structures (not to exceed 1,000): 
+1000
+
+
+http://www.grigoryanlab.org/cccp/output/9bc146fb8baf.html
