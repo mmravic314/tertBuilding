@@ -1,0 +1,23 @@
+Marco history for Bobo loop redesign
+
+
+## Remade single chain non-redundent database. from 30% culling of chains by BLASTClust on PDB. X-ray only < 2.8 A from 152901_bc_30-scPDB.txt
+## Got entries_xray_res.txt pdb_seqres-byCh.txt from PDB website... look in files for what info is in there... x-ray, length, resolution
+## "Summaries of PDB data" page, entries.idx & pdb_seqres.txt      http://www.rcsb.org/pdb/static.do?p=general_information/about_pdb/summaries.html
+> python ~/bin/masterDB_frombcscList.py entries_xray_res.txt pdb_seqres-byCh.txt 152901_bc_30-scPDB.txt  >  nr152901_bc_30-scPDB.txt
+
+# Then download PDB (if not too large, like ribosome cuz different file format), extract chain to new file, run createPDS to get parsed output PDB and
+>
+
+## Searching fragments
+> ~/termanal/createPDS --type query --pdb 56_helices.pdb
+
+> ~/termanal/master --query 56_helices.pds --targetList ~/termanal/support.default/151218_masterDB_oPDB/list.txt --rmsdCut 0.8 --matchOut 56_helices.m --seqOut 56_helices.seq --bbRMSD
+
+> ~/termanal/createPDS --type query --pdb 56_helicesV2.pdb
+
+> ~/termanal/master --query 56_helicesV2.pds --targetList ~/termanal/support.default/152901_bc_30-scPDB/list.txt --rmsdCut 0.8 --matchOut 56_helicesV2.m --seqOut 56_helicesV2.seq --bbRMSD
+
+# With match file, loop up if at the end 
+
+> python ~/bin/loopFinder.py 56_helices.pdb 56_helices.m ~/termanal/support.default/151218_masterDB_parsedPDB/ ~/tertBuilding/CMP_bobo/56_helices/
