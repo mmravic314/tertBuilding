@@ -1,0 +1,3 @@
+
+['/netapp/home/mmravic/bin/Rosetta/source/bin/rosetta_scripts.linuxgccrelease', '-database', '/netapp/home/mmravic/bin/Rosetta/database/', '-parser:protocol', 'CMP_boboREDESIGN.xml', '-in:file:s', '/netapp/home/mmravic/tertBuilding/CMP_bobo/redesign_inputs/loopFragStitch.pdb', '-out:prefix', '/netapp/home/mmravic/tertBuilding/CMP_bobo/redesign_inputs/', '-out:suffix', '_out86188', '-out:no_nstruct_label', '-out:overwrite', '-use_input_sc', '-packing:resfile', 'CMP_bobo_trj3.resfile', '-parser:script_vars', 'cst_file=loopFragStitch.cst']
+
