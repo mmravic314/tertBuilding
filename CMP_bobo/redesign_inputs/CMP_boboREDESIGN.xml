@@ -65,8 +65,8 @@
  	<Add mover=hardmin_sconly/>
  	<Add mover=hardpack/>
 
+	<Add filter=uhb/>
 	<Add filter=packstat/>
- 	<Add filter=uhb/>
  	<Add filter=score_eval/>
 
  </PROTOCOLS>

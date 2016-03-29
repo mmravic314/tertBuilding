@@ -4,10 +4,12 @@ Marco history for Bobo loop redesign
 ## Remade single chain non-redundent database. from 30% culling of chains by BLASTClust on PDB. X-ray only < 2.8 A from 152901_bc_30-scPDB.txt
 ## Got entries_xray_res.txt pdb_seqres-byCh.txt from PDB website... look in files for what info is in there... x-ray, length, resolution
 ## "Summaries of PDB data" page, entries.idx & pdb_seqres.txt      http://www.rcsb.org/pdb/static.do?p=general_information/about_pdb/summaries.html
+
+. cd ~/termanal/support.default/
 > python ~/bin/masterDB_frombcscList.py entries_xray_res.txt pdb_seqres-byCh.txt 152901_bc_30-scPDB.txt  >  nr152901_bc_30-scPDB.txt
 
-# Then download PDB (if not too large, like ribosome cuz different file format), extract chain to new file, run createPDS to get parsed output PDB and
->
+# Then download this list of PDB chains (if not too large, like ribosome cuz different file format), extract chain to new file, run createPDS to get parsed output PDB and MASTER format searchable .pds 'target' file
+> python ~/bin/downloadPDBdatabaseV2_scDB.py ~/termanal/support.default/152901_bc_30-scPDB.txt /home/xray/termanal/support.default/152901_bc_30-scPDB-PRE /home/xray/termanal/support.default/152901_bc_30-scPDB /home/xray/termanal/support.default/152901_bc_30-scPDB_oPDB
 
 ## Searching fragments
 > ~/termanal/createPDS --type query --pdb 56_helices.pdb
@@ -21,3 +23,15 @@ Marco history for Bobo loop redesign
 # With match file, loop up if at the end 
 
 > python ~/bin/loopFinder.py 56_helices.pdb 56_helices.m ~/termanal/support.default/151218_masterDB_parsedPDB/ ~/tertBuilding/CMP_bobo/56_helices/
+
+## look through loopMatchXX.pdb, 4 and 28 has same loop but different sequence... graphed Loop 4 coords onto loopFragOG.pdb
+## LoopfragOG is a representative segment of loop... KKLLDDSSS KNPEAEEITR
+## Fix the unsearched backbbone coords during minimzation (in rosetta constraints file): KKLL___(Loop)___EEITR
+## The do a low KT (0.3) backrub + design combo... 
+
+> mkdir redesign_inputs/
+> cd redesign_inputs/
+> cp ../loopFragStitch.pdb .
+> python ../rosiPrepBOBO.py loopFragStitch.pdb > loopFragStitch.cst
+
+# Hand picked 3 different resfiles... based on global fold... mostly selected allowed residues from rosetta layer design, or residue's environment
