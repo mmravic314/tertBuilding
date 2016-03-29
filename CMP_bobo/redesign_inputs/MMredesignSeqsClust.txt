@@ -1,0 +1,27 @@
+#packing_score Rosetta_Energy buried_unpair_Hbond_atoms path
+NGDKAEEIARCKKLLEALKS #_converged: 108
+(0.756985, -17.6168, 4, 'loopFragStitch_out85304.pdb')
+
+NGDLAEEINRCKKLLNALKS #_converged: 2370
+(0.758287, -18.4069, 4, 'loopFragStitch_out28975.pdb')
+
+NGDLAEEIARCKKLLEALKS #_converged: 1803
+(0.805743, -18.298, 4, 'loopFragStitch_out52127.pdb')
+
+NGDKAEEINRCKKLLNALKS #_converged: 208
+(0.721189, -17.7959, 4, 'loopFragStitch_out44845.pdb')
+
+NGDKAEEIARCKKLLNALKS #_converged: 671
+(0.748414, -17.6857, 4, 'loopFragStitch_out41487.pdb')
+
+NGDLAEEIARCKKLLNALKS #_converged: 25683
+(0.821091, -18.3668, 4, 'loopFragStitch_out21169.pdb')
+
+NGDKAEEINRCKKLLEALKS #_converged: 19
+(0.685837, -17.7271, 4, 'loopFragStitch_out11436.pdb')
+
+NGDLAEEINRCKKLLEALKS #_converged: 230
+(0.734156, -18.3381, 4, 'loopFragStitch_out56690.pdb')
+
+NGDDAEEINRCKKLLNALKS #_converged: 1
+(0.676474, -14.9335, 4, 'loopFragStitch_out2.pdb')
