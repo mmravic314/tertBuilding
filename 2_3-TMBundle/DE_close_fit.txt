@@ -1,0 +1,28 @@
+tructure Summary
+selection = "all" 
+chains	2 (fit 21 residues in each)
+chain D	30.547 Å in Z-direction
+chain E	29.892 Å in Z-direction; anti-parallel to chain D
+
+
+Best-fit Crick parameters[1]:
+R0 (Å) 	3.924
+R1 (Å) 	2.240
+ω0 (°/res) 	-3.774
+ω1 (°/res) 	104.019
+α (°) 	-9.758
+φ1 for chain D (°) 	-135.792
+φ1 for chain E (°) 	-29.670
+Δφ0 for chain E (°) 	180.000
+starting heptad position for chain D 	a
+starting heptad position for chain E 	b
+pitch (Å) 	143.377
+rise per residue (Å) 	1.525
+ΔZoff for chain E (Å) 	1.672
+ΔZaa' for chain E (Å) 	1.586
+absolute Zoff for chain E (Å) 	0.634
+RMSD 	0.970 Å
+processed selection 	1874c25c84d7.pdb
+fit CA trace 	1874c25c84d7.CA.pdb
+fit CA-CA distance 	3.76
+

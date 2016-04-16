@@ -1,0 +1,58 @@
+Structure Summary 	
+"selection = ""all"" "	
+chains	6 (fit 21 residues in each)
+chain A	26.197 Å in Z-direction
+chain B	26.422 Å in Z-direction; anti-parallel to chain A
+chain C	28.293 Å in Z-direction; parallel to chain A
+chain D	28.301 Å in Z-direction; anti-parallel to chain A
+chain E	26.231 Å in Z-direction; parallel to chain A
+chain F	27.205 Å in Z-direction; anti-parallel to chain A
+	
+	
+Best-fit Crick parameters[1]:	
+R0 (Å) 	9.9
+R1 (Å) 	2.12
+ω0 (°/res) 	-3.12
+ω1 (°/res) 	101.118
+α (°) 	-21.32
+φ1 for chain A (°) 	74.168
+φ1 for chain B (°) 	35.827
+φ1 for chain C (°) 	-173.63
+φ1 for chain D (°) 	-49.088
+φ1 for chain E (°) 	82.385
+φ1 for chain F (°) 	-4.058
+Δφ0 for chain B (°) 	-61.364
+Δφ0 for chain C (°) 	-108.77
+Δφ0 for chain D (°) 	174.054
+Δφ0 for chain E (°) 	126.78
+Δφ0 for chain F (°) 	49.982
+starting heptad position for chain A 	c
+starting heptad position for chain B 	c
+starting heptad position for chain C 	a
+starting heptad position for chain D 	b
+starting heptad position for chain E 	g
+starting heptad position for chain F 	f
+pitch (Å) 	159.38
+rise per residue (Å) 	1.483
+ΔZoff for chain B (Å) 	-2.23
+ΔZaa' for chain B (Å) 	2.657
+ΔZoff for chain C (Å) 	-0.117
+ΔZaa' for chain C (Å) 	-0.114
+ΔZoff for chain D (Å) 	1.721
+ΔZaa' for chain D (Å) 	-3.195
+ΔZoff for chain E (Å) 	0.566
+ΔZaa' for chain E (Å) 	0.568
+ΔZoff for chain F (Å) 	1.541
+ΔZaa' for chain F (Å) 	1.543
+absolute Zoff for chain B (Å) 	-1.839
+absolute Zoff for chain C (Å) 	1.416
+absolute Zoff for chain D (Å) 	-2.491
+absolute Zoff for chain E (Å) 	0.678
+absolute Zoff for chain F (Å) 	-2.719
+RMSD 	2.035 Å
+processed selection 	ad5acfe21657.pdb
+fit CA trace 	ad5acfe21657.CA.pdb
+fit CA-CA distance 	3.53
+Full backbone rebuild:	
+Full backbone PDB file in ad5acfe21657.allbb.pdb	
+"[1] For parameter definitions and more more information see: G. Grigoryan, W. F. DeGrado, ""Probing Designability via a Generalized Model of Helical Bundle Geometry"", J. Mol. Biol., 405(4): 1079-1100 (2011) "	

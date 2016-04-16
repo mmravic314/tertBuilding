@@ -1,0 +1,28 @@
+rocketFit.txt
+Structure Summary
+selection = "all" 
+chains	2 (fit 25 residues in each)
+chain A	35.776 Å in Z-direction
+chain B	35.751 Å in Z-direction; anti-parallel to chain A
+
+
+Best-fit Crick parameters[1]:
+R0 (Å) 	4.351
+R1 (Å) 	2.318
+ω0 (°/res) 	-3.178
+ω1 (°/res) 	101.473
+α (°) 	-9.270
+φ1 for chain A (°) 	166.969
+φ1 for chain B (°) 	163.595
+Δφ0 for chain B (°) 	-180.000
+starting heptad position for chain A 	d
+starting heptad position for chain B 	d
+pitch (Å) 	167.488
+rise per residue (Å) 	1.498
+ΔZoff for chain B (Å) 	-0.336
+ΔZaa' for chain B (Å) 	4.553
+absolute Zoff for chain B (Å) 	0.876
+RMSD 	0.625 Å
+processed selection 	70e8cdf9ae36.pdb
+fit CA trace 	70e8cdf9ae36.CA.pdb
+fit CA-CA distance 	3.81
