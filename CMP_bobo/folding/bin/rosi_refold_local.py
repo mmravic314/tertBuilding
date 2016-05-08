@@ -21,7 +21,8 @@
 #  python ~/tertBuilding/CMP_bobo/folding/bin/rosi_refold_local.py ~/rosetta/ ~/tertBuilding/CMP_bobo/folding/21169/model_21169.fasta ~/tertBuilding/CMP_bobo/folding/21169/ ~/tertBuilding/CMP_bobo/folding/21169/21169.psipred_ss2
 
 # EXAMPLE QSUB
-# 
+# qsub ~/tertBuilding/CMP_bobo/folding/bin/rosi_refold_local.py ~/bin/Rosetta/ ~/tertBuilding/CMP_bobo/folding/21169/model_21169.fasta ~/tertBuilding/CMP_bobo/folding/21169/ ~/tertBuilding/CMP_bobo/folding/21169/21169.psipred_ss2
+
 
 
 
@@ -56,7 +57,7 @@ add_nulls = lambda number, zero_count : "{0:0{1}d}".format(number, zero_count)
 try:
 	output_suffix 			= add_nulls( os.environ["SGE_TASK_ID"], 7 ) 
 except KeyError:
-	output_suffix                      = '1234567'
+	output_suffix                      = add_nulls( 1, 7 )
 
 outF 	= modelTag + '_%s.pdb' % output_suffix 
 sil_out = os.path.join( outputs, modelTag + '_%s.out' % output_suffix )
