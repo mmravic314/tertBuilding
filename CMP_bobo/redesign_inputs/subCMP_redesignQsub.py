@@ -8,10 +8,10 @@
 #$ -cwd
 #$ -j y
 #$ -o /netapp/home/mmravic/tertBuilding/CMP_bobo/redesign_inputs/logs
-#$ -t 1-3000
+#$ -t 1-20000
 
-############# NOT THIS
-# qsub submitPatterningQsub.py ~/bin/Rosetta/ ~/peptideAmyloid/rosettaFixBB/input1 ~/peptideAmyloid/rosettaFixBB/patterningFixedBB_Mravicmini.xml  ~/peptideAmyloid/rosettaFixBB/disfavour_polyLys.comp 
+#############
+# qsub subCMP_redesignQsub.py ~/bin/Rosetta/ loopFragStitch.pdb CMP_boboREDESIGN.xml CMP_bobo_trj_rnd2.resfile loopFragStitch.cst ~/tertBuilding/CMP_bobo/redesign_inputs/rnd2_outputs/
 #############
 
 
@@ -43,14 +43,8 @@ resfile_path			= sys.argv[4]
 cst_path				= sys.argv[5]
 
 # Variable args
-match = re.search( r'trj(\d+).resfile', resfile_path )
-if match:
-	index = match.group(1)
-else:
-	print 'PDB input directory syntax failure'
-	sys.exit()
 
-output_prefix			= os.path.dirname( sys.argv[2] ) + '/'
+output_prefix			= sys.argv[6]
 try:
 	output_suffix 			= '_out%s' % (str(  os.environ["SGE_TASK_ID"]) )
 except KeyError:
