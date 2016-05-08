@@ -8,7 +8,7 @@
 #$ -cwd
 #$ -j y
 #$ -o /netapp/home/mmravic/tertBuilding/CMP_bobo/redesign_inputs/logs
-#$ -t 1-100000
+#$ -t 1-10000
 
 #############
 # qsub submitPatterningQsub.py ~/bin/Rosetta/ ~/peptideAmyloid/rosettaFixBB/input1 ~/peptideAmyloid/rosettaFixBB/patterningFixedBB_Mravicmini.xml  ~/peptideAmyloid/rosettaFixBB/disfavour_polyLys.comp 
