@@ -1,0 +1,101 @@
+<ROSETTASCRIPTS>
+ 
+ <SCOREFXNS>
+ 		<memb_hires weights=mpframework_smooth_fa_2012 symmetric=1/>
+ </SCOREFXNS>
+
+  <TASKOPERATIONS>
+
+  	     <ReadResfile name="resfile"/>
+         <LimitAromaChi2 name=arochi />
+         <ExtraRotamersGeneric name=ex1_ex2 ex1=1 ex2=1/>
+ 
+ 		<LayerDesign name=all_layers layer=others ignore_pikaa_natro=true make_pymol_script=1 use_symmetry=true>
+                
+                 <CombinedTasks name=interface_core>
+                        <SelectBySASA state=bound mode=mc core=1 probe_radius=2.0 core_asa=25 surface_asa=50 verbose=0/>
+                        <all copy_layer=core />
+                        <Helix append="GTHNSMQFWYI"/>
+                </CombinedTasks>
+
+         
+                 <CombinedTasks name=interface_boundary>
+                        <SelectBySASA state=bound mode=mc boundary=1 probe_radius=2.0 core_asa=25 surface_asa=50 verbose=0/>
+                         <all copy_layer=boundary />
+                         <Helix append="FYVILAMST"/>
+                 </CombinedTasks>
+
+
+                <CombinedTasks name=interface_surface>
+                        <SelectBySASA state=bound mode=mc surface=1 probe_radius=2.0 core_asa=25 surface_asa=50 verbose=0/>
+                        <all copy_layer=surface />
+                        <Helix append="FYVILA"/>
+
+                </CombinedTasks>
+ 
+         </LayerDesign>
+
+<SelectBySASA name=select_core state=bound mode=mc core=1 probe_radius=2.0 core_asa=25 surface_asa=40 verbose=0/>
+<SelectBySASA name=select_boundary state=bound mode=mc boundary=1 probe_radius=2.0 core_asa=25 surface_asa=40 verbose=0/>
+<SelectBySASA name=select_surface state=bound mode=mc surface=1 probe_radius=2.0 core_asa=25 surface_asa=40 verbose=0/>
+
+<DesignAround name=select_pore design_shell=3.0 resnums=3,10,17,41,48,55 repack_shell=6.0 allow_design=1 resnums_allow_design=1/> 
+
+   </TASKOPERATIONS>
+
+ <FILTERS>
+
+    <PackStat name=packstat threshold=0.4 confidence=0/>
+ 	<ScoreType name=score_eval scorefxn=memb_hires threshold=-500/>
+    <SymUnsatHbonds name=uhb cutoff=200/> 
+
+
+ </FILTERS>
+
+
+
+ 
+	<MOVERS>
+
+        <SetupForSymmetry name=setup_symm definition=C3.symm/>
+ 		<AddMembraneMover name=add_memb/>
+ 		<MembranePositionFromTopologyMover name=init_pos/>
+
+ 		<SymPackRotamersMover name=pack_core scorefxn=memb_hires task_operations=resfile,all_layers,select_core,arochi,ex1_ex2/>
+        <SymPackRotamersMover name=pack_boundary scorefxn=memb_hires task_operations=resfile,all_layers,select_boundary,arochi,ex1_ex2/>
+        <SymPackRotamersMover name=pack_surface scorefxn=memb_hires task_operations=resfile,all_layers,arochi,select_surface,ex1_ex2/>
+
+        <SymPackRotamersMover name=pack_all scorefxn=memb_hires task_operations=resfile,all_layers,arochi,ex1_ex2/>
+
+        <SymPackRotamersMover name=pack_pore scorefxn=memb_hires task_operations=resfile,select_pore,arochi,ex1_ex2/>
+
+        <MinMover name=hardmin_sconly scorefxn=memb_hires chi=1 bb=0 bondangle=0 bondlength=0/>
+
+ 		<FastRelax name=fast_relax scorefxn=memb_hires repeats=8 task_operations=arochi,ex1_ex2/>
+	</MOVERS>
+ 
+	<PROTOCOLS>
+        <Add mover=setup_symm/>
+		<Add mover=add_memb/>
+ 		<Add mover=init_pos/>
+
+ 		<Add mover=pack_core/>
+        <Add mover=pack_boundary/>
+        <Add mover=pack_surface/>
+
+        <Add mover=pack_pore/>
+
+ 		<Add mover=fast_relax/>
+
+
+
+
+		<Add filter=packstat/>
+ 		<Add filter=score_eval/>
+
+
+	</PROTOCOLS>
+
+	<OUTPUT scorefxn=memb_hires />
+
+</ROSETTASCRIPTS>
