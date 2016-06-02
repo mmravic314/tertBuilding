@@ -1,0 +1,13 @@
+HETATM    1  P    PI A 434      -8.414  48.736  47.016  1.00 17.72      C    P  
+HETATM    2  O1   PI A 434      -9.120  47.487  46.602  1.00 17.82      C    O  
+HETATM    3  O2   PI A 434      -7.541  48.510  48.201  1.00 17.30      C    O1-
+HETATM    4  O3   PI A 434      -7.654  49.513  45.990  1.00 18.05      C    O  
+HETATM    5  O4   PI A 434      -9.744  49.627  47.182  1.00 17.14      C    O  
+HETATM    6  HO4  PI A 434      -9.427  50.552  47.247  1.00  0.00      C    H  
+CONECT    1    2    3    4    5
+CONECT    2    1
+CONECT    3    1
+CONECT    4    1
+CONECT    5    1    6
+CONECT    6    5
+END

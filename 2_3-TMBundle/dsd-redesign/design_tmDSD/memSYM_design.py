@@ -36,8 +36,10 @@ oDir 		= os.path.join( os.path.dirname(inPdb), 'outputs/' )
 if not os.path.exists( oDir ):
 	os.mkdir( oDir )
 
-## Generate Span file (Do this once and hash it out for the remaining times)
 
+
+## Generate Span file (if not existing)... just hashed this out afte running once 
+#if not os.path.exists( inSpan ):
 cmdSpan = [ rosiSpanGen, 
 		'-database', rosiDB, 
 		'-in:file:s', inPdb
@@ -45,7 +47,8 @@ cmdSpan = [ rosiSpanGen,
 
 #sp.call( cmdSpan )
 ## 
-
+#print inSpan
+#sys.exit()
 
 ##### Design ####
 

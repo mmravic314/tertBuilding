@@ -33,6 +33,8 @@ R1 (Å) 	2.289
 Δφ0 for chain D (°) 	-169.539
 Δφ0 for chain E (°) 	-120.000
 Δφ0 for chain F (°) 	-49.539
+70 120 -170 -120 -50
+
 starting heptad position for chain A 	b
 starting heptad position for chain B 	b
 starting heptad position for chain C 	b
