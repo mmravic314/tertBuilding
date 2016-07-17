@@ -19,7 +19,7 @@
     <FILTERS>
 
     <PackStat name=packstat threshold=0.4 confidence=0/>
-    <ScoreType name=score_eval scorefxn=memb_hires threshold=1000/>
+    <ScoreType name=score_eval scorefxn=memb_hires threshold=10000/>
 
   </FILTERS>
  
@@ -27,7 +27,8 @@
     <AddMembraneMover name=add_memb/>
     <MembranePositionFromTopologyMover name=init_pos/>
     <PackRotamersMover name=buildSC scorefxn=memb_hires task_operations=resfile,arochi,ex1_ex2/>
-    <FastRelax name=fast_relax scorefxn=memb_hires repeats=8 task_operations=resfile,current,arochi,ex1_ex2/>
+    <FastRelax name=fast_relax scorefxn=memb_hires repeats=5 task_operations=resfile,current,arochi,ex1_ex2/>
+
 
 
   </MOVERS>
@@ -39,8 +40,6 @@
     <Add mover=init_pos/>
 
     <Add mover=buildSC/>
-    <Add mover=fast_relax/>
-
     <Add mover=fast_relax/>
 
     <Add filter=packstat/>
