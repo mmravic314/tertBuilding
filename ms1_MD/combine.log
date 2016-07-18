@@ -1,0 +1,63 @@
+Info) VMD for MACOSXX86, version 1.9.2 (December 29, 2014)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 4 CPUs detected.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /Applications/VMD 1.9.2.app/Contents/vmd/plugins/MACOSXX86/molfile
+on
+1.6.2
+ERROR: Unable to open topology file ~/bin/toppar/top_all36_prot.rtf
+
+MOLECULE DESTROYED BY FATAL ERROR!  Use resetpsf to start over.
+psfgen) clearing structure, preserving topology and aliases
+psfgen) reading structure from psf file membrane.psf
+psfgen) psf file does not contain cross-terms
+psfgen) reading coordinates from pdb file membrane.pdb
+psfgen) reading structure from psf file protein_only.psf
+psfgen) reading coordinates from pdb file protein_psfgen.pdb
+ 
+temp
+psfgen) Info: writing psf file temp.psf
+psfgen) total of 18239 atoms
+psfgen) total of 16615 bonds
+psfgen) total of 27493 angles
+psfgen) total of 36230 dihedrals
+psfgen) total of 368 impropers
+psfgen) total of 78 cross-terms
+psfgen) Info: psf file complete.
+psfgen) Info: writing pdb file temp.pdb
+psfgen) Info: pdb file complete.
+psfplugin) Detected a Charmm PSF file
+Info) Using plugin psf for structure file temp.psf
+Info) Analyzing structure ...
+Info)    Atoms: 18239
+Info)    Bonds: 16615
+Info)    Angles: 27493  Dihedrals: 36230  Impropers: 368  Cross-terms: 78
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 1711
+Info)    Waters: 1536
+Info)    Segments: 19
+Info)    Fragments: 1630   Protein: 3   Nucleic: 0
+Info) Using plugin pdb for coordinates from file temp.pdb
+Info) Finished with coordinate file temp.pdb.
+0
+atomselect0
+L11 L12 L13 L14 L21 L22 L23 L24
+atomselect9
+W1 W10 W15 W2 W20 W3 W4 W5
+psfgen) Info: writing psf file protein_and_membrane.psf
+psfgen) total of 14623 atoms
+psfgen) total of 13200 bonds
+psfgen) total of 21427 angles
+psfgen) total of 28042 dihedrals
+psfgen) total of 322 impropers
+psfgen) total of 78 cross-terms
+psfgen) Info: psf file complete.
+psfgen) Info: writing pdb file protein_and_membrane.pdb
+psfgen) Info: pdb file complete.
+Info) VMD for MACOSXX86, version 1.9.2 (December 29, 2014)
+Info) Exiting normally.
