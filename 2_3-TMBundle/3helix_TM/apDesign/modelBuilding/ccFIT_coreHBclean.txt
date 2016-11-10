@@ -1,0 +1,30 @@
+Best-fit Crick parameters[1]:
+
+R0 (Å) 	6.414
+R1 (Å) 	2.307
+ω0 (°/res) 	-2.687
+ω1 (°/res) 	102.833
+α (°) 	-11.486
+φ1 for chain A (°) 	-74.274
+φ1 for chain B (°) 	-177.014
+φ1 for chain C (°) 	-139.466
+-74.274; -177.014 ; -139.466
+Δφ0 for chain B (°) 	-110.128
+Δφ0 for chain C (°) 	142.490
+-110.128; 142.490
+starting heptad position for chain A 	b
+starting heptad position for chain B 	a
+starting heptad position for chain C 	a
+pitch (Å) 	198.347
+rise per residue (Å) 	1.511
+ΔZoff for chain B (Å) 	0.928
+ΔZaa' for chain B (Å) 	-4.290
+ΔZoff for chain C (Å) 	2.139
+ΔZaa' for chain C (Å) 	-3.344
+-4.290; -3.344
+absolute Zoff for chain B (Å) 	-2.232
+absolute Zoff for chain C (Å) 	-1.857
+RMSD 	0.656 Å
+processed selection 	4e1d0ae1de7c.pdb
+fit CA trace 	4e1d0ae1de7c.CA.pdb
+fit CA-CA distance 	3.85
