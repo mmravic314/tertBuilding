@@ -1,0 +1,8 @@
+# TM3hb_0001_network_10.cst
+# network_10	X_Q_16,X_S_45,X_N_46,X_Q_79	4	2.38734	3	0.5	0	3	3	
+# angle_AHD = 164.076, angle_BAH = 120.16, dist_AH = 1.91522120.16, unweighted hb_energy = -1.38356
+AtomPair  OE1 16  NE2 79 BOUNDED 2.6 3 0.2 hbond
+# angle_AHD = 176.864, angle_BAH = 131.173, dist_AH = 2.05726131.173, unweighted hb_energy = -1.05779
+AtomPair  OE1 79  OG  45 BOUNDED 2.6 3.01646 0.2 hbond
+# angle_AHD = 156.045, angle_BAH = 123.154, dist_AH = 2.09948123.154, unweighted hb_energy = -1.0236
+AtomPair  OD1 46  NE2 79 BOUNDED 2.6 3.0415 0.2 hbond
