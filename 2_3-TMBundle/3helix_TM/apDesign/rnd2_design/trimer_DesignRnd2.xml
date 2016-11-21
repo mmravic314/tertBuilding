@@ -5,7 +5,7 @@
  		<memb_hires weights=mpframework_smooth_fa_2012/>
 
     <memb_hiresRg weights=mpframework_smooth_fa_2012 >
-      <Reweight scoretype=rg weight=2 />
+      <Reweight scoretype=rg weight=1 />
       <Reweight scoretype=hack_aro weight=1/>
     </memb_hiresRg>
 
@@ -76,7 +76,7 @@
         <AddConstraintsToCurrentConformationMover name=add_cst use_distance_cst=0  coord_dev=1.5 min_seq_sep=8 CA_only=1 />
         <ClearConstraintsMover name="clearconstraints"/>
 
- 		<PackRotamersMover name=pack_core scorefxn=memb_hiresRg task_operations=resfile,all_layers,select_core,arochi,ex1_ex2/>
+ 		   <PackRotamersMover name=pack_core scorefxn=memb_hiresRg task_operations=resfile,all_layers,select_core,arochi,ex1_ex2/>
         <PackRotamersMover name=pack_boundary scorefxn=memb_hiresRg task_operations=resfile,all_layers,select_boundary,arochi,ex1_ex2/>
         <PackRotamersMover name=pack_surface scorefxn=memb_hiresRg task_operations=resfile,all_layers,arochi,select_surface,ex1_ex2/>
         
@@ -94,12 +94,6 @@
 
         <Add mover=add_memb/>
         <Add mover=init_pos/>
-
-
-        #minimize away bad torsions that may be present in the "ideal" generated backbone
-
-        <Add mover=hardmin/>
-
 
 
         # first rnd design
