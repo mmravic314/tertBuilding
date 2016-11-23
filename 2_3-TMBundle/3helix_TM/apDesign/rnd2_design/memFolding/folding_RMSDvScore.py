@@ -42,6 +42,11 @@ for f in os.listdir( inDir ):
 		for i in fin:
 			if i[:4] == 'pose':
 				score = round( float( i.rsplit()[-1] ) , 2)
+	try:
+		print score
+	except NameError:
+		print 'skipping scoreless file', f
+		continue
 
 	# calculate best alignment of TM domains
 	pdb 	= parsePDB( path, subset='ca' )
