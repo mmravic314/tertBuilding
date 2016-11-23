@@ -31,7 +31,7 @@ selStr = 'resnum ' + ' '.join( selStr )
 target = inPDB.select( selStr )
 
 # Now look throught the files, to parse score and align
-score, rmsd = [], []
+trials, scores, rmsds = {}, [], []
 print 'Aligning pdbs from', inDir, 'to', sys.argv[1]
 
 for f in os.listdir( inDir ):
@@ -41,13 +41,17 @@ for f in os.listdir( inDir ):
 	with open( path ) as fin:
 		for i in fin:
 			if i[:4] == 'pose':
-				score = float( i.rsplit()[-1] ) 
+				score = round( float( i.rsplit()[-1] ) , 2)
 
 	# calculate best alignment of TM domains
 	pdb 	= parsePDB( path, subset='ca' )
 	mobile	= pdb.select( selStr )
 	superpose( mobile, target )
-	rmsd = calcRMSD( mobile, target )
+	rmsd = round( calcRMSD( mobile, target ), 2)
 
-	print f, score, rmsd
+	trials[f] = (rmsd,score)
+	scores.append( score )
+	rmsds.append( rmsd )
 
+for k,v in sorted( trials.items(), key=lambda x: x[1][0] ):
+	print k, v[0], v[1]
