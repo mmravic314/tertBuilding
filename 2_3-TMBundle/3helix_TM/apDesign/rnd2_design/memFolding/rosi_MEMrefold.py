@@ -7,8 +7,8 @@
 #$ -l h_rt=00:10:00
 #$ -cwd
 #$ -j y
-#$ -o /netapp/home/mmravic/tertBuilding/CMP_bobo/folding/logs
-#$ -t 1-5
+#$ -o /netapp/home/mmravic/tertBuilding/2_3-TMBundle/3helix_TM/apDesign/rnd2_design/memFolding/logs
+#$ -t 1-50000
 
 # Rosetta ab initio folding... for membrane proteins, low resolution mode
 
@@ -18,12 +18,10 @@
 # input 4: path to secondary structure prediction .psipred_ss2 file (from Robetta frag maker)
 
 # Example command line (Local)
-#  
+#  python ../rosi_MEMrefold.py ~/rosetta/ mm_3hbtmsc.fasta ~/tertBuilding/2_3-TMBundle/3helix_TM/apDesign/rnd2_design/memFolding/sc_3hb_mm/ mdesign_sc3hb_frags3.txt mdesign_sc3hb_frags9.txt ../Relaxed_sc_apTM3hb.span
 
 # EXAMPLE QSUB
-# qsub ~/tertBuilding/CMP_bobo/folding/bin/rosi_refold_local.py ~/bin/Rosetta/ ~/tertBuilding/CMP_bobo/folding/21169/model_21169.fasta ~/tertBuilding/CMP_bobo/folding/21169/ ~/tertBuilding/CMP_bobo/folding/21169/21169.psipred_ss2
-
-
+# qsub ../rosi_MEMrefold.py ~/bin/Rosetta/ mm_3hbtmsc.fasta ~/tertBuilding/2_3-TMBundle/3helix_TM/apDesign/rnd2_design/memFolding/sc_3hb_mm/ mdesign_sc3hb_frags3.txt mdesign_sc3hb_frags9.txt ../Relaxed_sc_apTM3hb.span 
 
 
 import sys, os, subprocess as sp, time
@@ -55,7 +53,7 @@ modelTag 	= 'model_' + os.path.basename( wrkDir[:-1] )
 
 add_nulls = lambda number, zero_count : "{0:0{1}d}".format(number, zero_count)
 try:
-	output_suffix 			= add_nulls( os.environ["SGE_TASK_ID"], 7 ) 
+	output_suffix 			= add_nulls( int(os.environ["SGE_TASK_ID"]), 7 ) 
 except KeyError:
 	output_suffix                      = add_nulls( 1, 7 )
 
