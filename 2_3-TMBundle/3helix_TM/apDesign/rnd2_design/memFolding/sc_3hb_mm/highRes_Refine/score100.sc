@@ -1,0 +1,3 @@
+SEQUENCE: 
+SCORE: total_score dslf_ca_dih dslf_cs_ang dslf_ss_dih dslf_ss_dst      fa_atr      fa_dun fa_intra_rep     fa_mpenv fa_mpenv_smooth fa_mpsolv   fa_pair    fa_rep hbond_bb_sc hbond_lr_bb    hbond_sc hbond_sr_bb       omega     p_aa_pp    packstat pro_close      rama       ref score_eval        uhb description 
+SCORE:    -274.606       0.000       0.000       0.000       0.000    -416.866      95.141        1.089       41.633         -28.060    74.710    -5.577    53.297      -4.310      -1.656     -16.989     -54.844       9.023      -4.604       0.629     0.000    -5.042   -11.550   -274.606     17.000 model_sc_3hb_mm_0047980100_0001
