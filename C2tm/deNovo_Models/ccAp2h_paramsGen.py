@@ -25,7 +25,7 @@ chL 		= '25'
 #r_o		VARIABLE
 r_1			= '2.26'
 phi_o		= '[180]'
-topolopy 	= '[1]'
+topolopy 	= '[0]'
 w_1			= 102.8
 
 #N_alpha		= 3.6
