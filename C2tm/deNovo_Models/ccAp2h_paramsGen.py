@@ -54,7 +54,7 @@ for r_o in R_o:
 
 
 				vals =  [ chains, chL, str( r_o ), str( r_1 ), str( w_o ), str( w_1 ), str(alpha_Pang), 
-				'[%.1f]' % ( phi1 ), topolopy, phi_o, str( z_aa ), '\'zoffaa\''
+				'[%.1f, %.1f]' % ( phi1, phi1 ), topolopy, phi_o, str( z_aa ), '\'registerzoff\'',
 					] 
 				
 				txt += ', '.join( vals ) + '\n'
